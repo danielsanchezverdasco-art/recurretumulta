@@ -121,18 +121,18 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Berlina de 5 metros con hasta 666 km de autonomía CLTC (batería de 90 kWh)",
-      "Batería intercambiable en 2,5 minutos, como en Nio",
-      "Cx de 0,206, entre los mejores del mundo en berlinas",
-      "Versión AWD de 544 CV: 0-100 km/h en 3,7 segundos",
-      "5 estrellas C-NCAP (90,8 % global) y cabina Bach con certificado Comfort Star",
+      "Presentado en marzo de 2023 como segundo modelo de Rising tras el SUV R7: admite cambiar la batería en 2,5 minutos en condiciones ideales y comprarlo sin ella, alquilándola, rebajaba su precio a 145.900 yuanes",
+      "La versión de esta ficha es la trasera de 340 CV alimentada por la batería LFP pequeña, de 64 kWh, suministrada por UABS, la empresa conjunta de SAIC y CATL",
+      "Su carrocería liftback de cinco puertas anticipada por el prototipo Roewe R-Aura de 2020 firma un Cx de 0,206 y esconde una batalla de 3,00 metros exactos",
+      "En la prueba china C-NCAP de 2023 logró un 90,8 % global, con un 94,86 % en protección de ocupantes y un 93,58 % en seguridad activa",
+      "La cabina que la marca llama Bach combina la pantalla triple de 43 pulgadas gobernada por Rising OS, una pantalla trasera de 8 pulgadas para los pasajeros y 16 altavoces con sonido envolvente 7.1"
     ],
     contras: [
-      "Solo se vende oficialmente en China; en Europa no hay red comercial de la marca",
-      "La autonomía es ciclo CLTC, más optimista que la WLTP europea",
-      "Potencia de carga rápida en kW no publicada por la marca",
-      "Volumen de maletero no publicado",
-      "Marca casi desconocida fuera de China: valor de reventa incierto",
+      "Rising dejó de existir como marca independiente en noviembre de 2024: SAIC la reintegró en Roewe como su línea eléctrica alta y fusionó sus concesionarios con los de Roewe",
+      "Sus ventas chinas se desplomaron de 10.389 unidades en 2023 a 3.762 en 2024 y 2.552 en 2025, un volumen residual que deja en el aire su continuidad y su reventa",
+      "El cambio de batería era casi teórico al lanzarse: solo tres estaciones en Shanghái y más de cincuenta en construcción repartidas por diez ciudades, frente a las 1.325 que ya operaba Nio",
+      "Europa solo lo conoció como prototipo MG9 EV en el Salón de Ginebra de 2024; jamás llegó a venderse con ninguna de las dos marcas ni tuvo homologación europea",
+      "Los 500 km anunciados son CLTC con la batería de 64 kWh: no existe cifra WLTP con la que contrastarlos ni potencia de carga en continua publicada por SAIC"
     ],
     largoMm: 5000,
     anchoMm: 1953,
@@ -148,16 +148,15 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
     imagen: "/media/rising-f7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.77,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 880,
-      mantenimientoAnual: 320,
-      costeMensualTotal: 135,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY), no es tarifa europea.",
-      estimado: true,
+      "costeEnergia100km": 2.77,
+      "costeMensualTotal": 135,
+      "estimado": true,
+      "mantenimientoAnual": 320,
+      "notas": "Cálculo hecho solo para este F7 trasero de 64 kWh: con el consumo de su ficha, 15,4 kWh/100 km, cargar en casa a 0,18 €/kWh sale a 2,77 € cada cien kilómetros. El precio en euros nace de convertir yuanes a unos 0,13 € por yuan, porque Rising nunca publicó tarifa europea; el seguro y los 320 € anuales de mantenimiento son estimaciones genéricas, no precios de la marca.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 880,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -180,6 +179,12 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
       },
     ],
     analisisSlug: "rising-f7-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
   },
   {
     id: "rising-rc7-2025-precio-ficha-tecnica",

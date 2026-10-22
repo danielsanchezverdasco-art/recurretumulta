@@ -300,18 +300,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Acabado Sport con estética más agresiva y llantas de aleación",
-      "Motor diésel Kubota de 8 CV con consumo de 3,1 l/100 km",
-      "Pantalla táctil 6,2\" con cámara de visión trasera disponible",
-      "Se conduce con el permiso AM desde los 15 años",
-      "Maletero de 700 litros",
+      "El Sport se distingue del Pack por las llantas de aleación negras de 15 pulgadas, los paragolpes específicos y los embellecedores en negro brillante",
+      "Tablet de 7 pulgadas que espeja el móvil vía Apple CarPlay o Android Auto, cuadro TFT de 3,5 pulgadas y cámara con radares para maniobrar marcha atrás",
+      "Su bicilíndrico Kubota Z482 Euro 5+ prescinde de AdBlue y de filtro de partículas, una solución que la prensa de la marca presenta como única en este segmento",
+      "Su depósito de unos 16 litros le permite enlazar entre 400 y 500 kilómetros entre repostajes, según la propia Aixam, sin depender de ningún enchufe",
+      "La gama City de 2025, dentro de la familia Ambition, estrena frontal con faros Full LED y el color Azul Colvert metalizado sobre una carrocería de solo 2.762 mm"
     ],
     contras: [
-      "La mecánica es idéntica a la del City Pack, 1.900 € más barato",
-      "Limitado a 45 km/h",
-      "Diésel frente a la alternativa eléctrica de igual precio",
-      "Solo 2 plazas",
-      "Etiqueta C",
+      "Pagar 16.699 € por este Sport supone 1.900 € más que un City Pack diésel con el idéntico Kubota de 8 CV y el mismo límite legal de velocidad",
+      "Por esos mismos 16.699 € la casa vende el e-City Sport eléctrico, con etiqueta Cero, mientras este diésel se queda con la C y con el ruido propio de un bicilíndrico",
+      "El apellido Sport no trae el chasis sport ni las llantas diamantadas de 16 pulgadas: ese hardware queda reservado al City GTO de la misma gama",
+      "Homologado como cuadriciclo ligero L6e, su techo de 45 km/h lo deja para ciudad y trayectos cortos por vías convencionales, no para desplazamientos largos",
+      "Su calendario oficial marca la primera revisión al año o a los 1.000 kilómetros, un primer paso por taller mucho más temprano que en un turismo diésel convencional"
     ],
     largoMm: 2762,
     anchoMm: 1500,
@@ -327,16 +327,15 @@ export const COCHES_AIXAM: CocheComparador[] = [
     imagen: "/media/aixam-city-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 4.81,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      seguroTercerosAnual: 300,
-      seguroAmpliadoAnual: 600,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 135,
-      notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
-      estimado: true,
+      "costeEnergia100km": 4.81,
+      "costeMensualTotal": 135,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Para este City Sport diésel salen 135 € mensuales sumando tres partidas anuales: 600 € del seguro ampliado recogido arriba, 300 € de taller y el gasóleo de recorrer 15.000 km quemando 3,1 litros cada cien, pagados a 1,55 € el litro, que son 4,81 € por cada 100 km.",
+      "precioGasolinaL": 1.55,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 600,
+      "seguroTercerosAnual": 300
     },
     galeria: [
       {
@@ -358,6 +357,34 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aixam España, aixam-mega.com: páginas oficiales «Mantenimiento de un AIXAM: ¿qué tener en cuenta?» y «Mantenimiento AIXAM: calendario completo y costes reales por modelo». Sin precio cerrado de revisión publicado por la marca, por eso los costes quedan en null",
+      "intervalo": "Primera revisión al año o a los 1.000 km; siguientes hitos a los 5.000 y a los 10.000 km, con cadencia al menos anual, según Aixam",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión / 1 año o 1.000 km",
+          "queSeCambia": "Cambio de aceites y de filtro, medición de niveles con reposición de los que lo necesiten y control de neumáticos, frenos, amortiguadores, soportes, instalación eléctrica y lunas, según la guía oficial de mantenimiento de Aixam"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 5.000 km",
+          "queSeCambia": "Repite los controles de la primera visita y suma la comprobación de batería, fuelles, articulaciones y transmisión, los elementos añadidos que Aixam detalla para este hito kilométrico"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 10.000 km y siguientes",
+          "queSeCambia": "Inspección en profundidad del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración, tal como describe Aixam a partir de este kilometraje"
+        }
+      ]
+    },
   },
   {
     id: "aixam-city-gto-2025-precio-ficha-tecnica",
@@ -546,18 +573,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Carrocería coupé de 3 metros: la más elegante de la gama",
-      "Maletero de 1.000 litros, enorme para un cuadriciclo",
-      "Motor diésel Kubota Euro 5+ de 8 CV con 3,1 l/100 km",
-      "Diseño deportivo juvenil con permiso AM desde los 15 años",
-      "ABS y full LED de serie",
+      "Forma parte de la gama AMBITION: alerón trasero negro, calandra en negro brillante y cristales tintados sobre una carrocería de solo 3,00 m",
+      "1.000 litros de maletero en un biplaza de 1,50 m de ancho: volumen de turismo grande para la compra semanal sin salir del formato cuadriciclo",
+      "Con 8 CV le basta para su límite legal, y a cambio el gasto queda en 3,1 litros cada cien kilómetros y las emisiones homologadas en 78 g/km",
+      "Cuadro con pantalla TFT activa de 3,5 pulgadas, cambio Ultra Soft y elevalunas eléctricos con sistema antipinzamiento de dedos",
+      "El permiso AM abre su volante a los 15 años: alternativa cerrada y con maletero frente al ciclomotor, sin aguardar a los 18 del carnet B"
     ],
     contras: [
-      "17.999 € sin más potencia que el City Pack",
-      "Limitado a 45 km/h",
-      "El maletero resta presencia de habitáculo trasero (2 plazas)",
-      "Diésel frente al e-Coupé GTI eléctrico",
-      "Etiqueta C",
+      "Pagar 17.999 € no compra ni un caballo extra: son los mismos 8 CV que ofrecen los Aixam diésel más baratos de la casa",
+      "Fuera de poblado queda descolgado, porque su techo legal son 45 km/h y cualquier vía rápida le queda vetada en la práctica",
+      "Solo viajan dos ocupantes y no hay banqueta trasera que recuperar: todo el espacio posterior está entregado al maletero",
+      "Frente a su hermano eléctrico e-Coupé, aquí toca seguir repostando gasóleo y conformarse con la etiqueta C de la DGT",
+      "ABS y alumbrado LED no suplen la ausencia de un ensayo de choque comparable al de un turismo: es un L6e, no un coche al uso"
     ],
     largoMm: 3000,
     anchoMm: 1500,
@@ -573,16 +600,15 @@ export const COCHES_AIXAM: CocheComparador[] = [
     imagen: "/media/aixam-coupe-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 4.81,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      seguroTercerosAnual: 300,
-      seguroAmpliadoAnual: 620,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 137,
-      notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
-      estimado: true,
+      "costeEnergia100km": 4.81,
+      "costeMensualTotal": 137,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Cálculo propio para este Coupé diésel: recorrer 15.000 km en un año a 3,1 litros cada cien, pagando el gasóleo a 1,55 euros, más la póliza ampliada y el mantenimiento que figuran en esta misma tabla. Son importes orientativos, no una tarifa cerrada de taller.",
+      "precioGasolinaL": 1.55,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 620,
+      "seguroTercerosAnual": 300
     },
     galeria: [
       {
@@ -604,6 +630,34 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin estrellas que asignar a este Coupé Sport: figura como cuadriciclo ligero L6e y Euro NCAP no lo ha sometido a su programa de turismos, así que cualquier puntuación sería inventada",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Aixam España (aixam-mega.com): artículos oficiales sobre el mantenimiento de un AIXAM y su calendario de revisiones",
+      "intervalo": "Primera revisión al año o a los 1.000 km; después, control anual con pasos señalados a los 5.000 y a los 10.000 km, según el calendario que Aixam España publica para sus coches sin carnet",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera visita del Coupé Sport, al año o a los 1.000 km",
+          "queSeCambia": "Cambio de aceites y de filtro, ajuste de los niveles que lo necesiten y repaso de neumáticos, frenos, amortiguadores, soportes, parte eléctrica y lunas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Control de los 5.000 km",
+          "queSeCambia": "Se repiten las comprobaciones de la primera visita y se añaden batería, fuelles, articulaciones y transmisión de este diésel"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión profunda de los 10.000 km",
+          "queSeCambia": "Inspección a fondo del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración"
+        }
+      ]
+    },
   },
   {
     id: "aixam-coupe-gti-2025-precio-ficha-tecnica",
@@ -1797,18 +1851,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El nuevo Aixam Easy también con motor diésel de 8 CV",
-      "Sin límite de autonomía diaria: ideal si no tienes enchufe",
-      "Mismo diseño juvenil con skins intercambiables",
-      "De serie: cierre centralizado, elevalunas eléctrico y faros LED",
-      "Permiso AM desde los 15 años",
+      "Su bicilíndrico Kubota Z482 Euro 5+ inyecta por common rail y limpia gases solo con catalizador: ni AdBlue ni filtro de partículas que vigilar",
+      "El depósito guarda 16 litros de gasóleo y repostar lleva minutos, justo lo contrario de enchufar al hermano eléctrico, cuya carga ronda las tres horas",
+      "Pensado para estrenar el permiso AM a los 15 años: selector rotativo DNR, asientos de TEP efecto Nubuck y hueco para el móvil con toma USB",
+      "Las skins intercambiables estrenadas por la gama Easy permiten cambiar la consola como si fuera una carcasa: el pack inicial reúne siete diseños y doce variantes",
+      "El Access ya sale de fábrica con cierre centralizado con mando, elevalunas eléctricos y calefacción, una dotación rara en el escalón barato de los L6e"
     ],
     contras: [
-      "Precio oficial en España no publicado aún",
-      "Diésel frente al Easy eléctrico, más barato de usar",
-      "Consumo y emisiones no publicados por la marca",
-      "Etiqueta C",
-      "Solo 2 plazas",
+      "La prensa del lanzamiento dejó su tarifa en 11.999 euros: son 1.500 más que el Access de baterías y, aun así, aire acondicionado y asientos calefactables se pagan aparte",
+      "Con distintivo C de la DGT queda por detrás del Easy eléctrico en zonas de bajas emisiones, donde el de etiqueta Cero entra sin cortapisas",
+      "La homologación de cuadriciclo ligero le pone techo en 45 km/h, así que cualquier vía rápida queda fuera de su terreno natural",
+      "La prensa de presentación le atribuye 4,3 litros a los cien, un gasto que en ciudad pierde contra el coste por kilómetro de enchufar la versión eléctrica",
+      "Nadie ha estrellado un Easy en un laboratorio público: su seguridad descansa en el chasis que anuncia la marca, sin una calificación independiente que lo respalde"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1824,16 +1878,15 @@ export const COCHES_AIXAM: CocheComparador[] = [
     imagen: "/media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 4.81,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      seguroTercerosAnual: 280,
-      seguroAmpliadoAnual: 530,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 129,
-      notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
-      estimado: true,
+      "costeEnergia100km": 4.81,
+      "costeMensualTotal": 129,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Las cifras salen de la propia tabla de este Access diésel: a 3,1 litros por cada cien kilómetros y 1,55 euros el litro de gasóleo, rodar 15.000 km en un año cuesta unos 722 euros en combustible; sumados los 530 del seguro amplio y los 300 de mantenimiento salen unos 129 euros al mes. Todo es estimación orientativa, no una tarifa de Aixam ni de ninguna aseguradora.",
+      "precioGasolinaL": 1.55,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 530,
+      "seguroTercerosAnual": 280
     },
     galeria: [
       {
@@ -1855,6 +1908,34 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado. La última campaña de Euro NCAP sobre cuadriciclos es de 2016, probó pesados de otra generación y ningún Easy figura en su programa de turismos",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Guía de mantenimiento publicada por Aixam España en aixam-mega.com (calendario de revisiones de sus coches sin carnet); Aixam no publica un precio cerrado por revisión para el Easy, por eso los costes quedan a null",
+      "intervalo": "Para este Access, la casa francesa fija el estreno en taller a los 1.000 km o al cumplir un año; la segunda cita cae a los 5.000 km y, pasados los 10.000 km, cada visita se convierte en una revisión en profundidad",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Estreno del Kubota Z482: un año o 1.000 km",
+          "queSeCambia": "Aceites nuevos con su filtro, niveles medidos y repuestos donde haga falta, además de repasar neumáticos, frenado, amortiguación, soportes, instalación eléctrica y cristales"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Segunda cita de este Access, a los 5.000 km",
+          "queSeCambia": "Se repite lo de la primera visita y se suman la batería de arranque, los fuelles, las articulaciones y el conjunto de la transmisión por variador"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones en profundidad desde los 10.000 km",
+          "queSeCambia": "Inspección completa del cuadriciclo con aceite renovado otra vez y las aletas del radiador del bicilíndrico dejadas limpias de polvo"
+        }
+      ]
+    },
   },
   {
     id: "aixam-easy-chic-diesel-2025-precio-ficha-tecnica",
@@ -1879,18 +1960,18 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Acabado Chic bitono también con motor diésel de 8 CV",
-      "Llantas de aleación negras de 14\" y combinación bicolor",
-      "Sin límite de autonomía diaria",
-      "Opción de aire acondicionado y asiento calefactable",
-      "Permiso AM desde los 15 años",
+      "Motor Kubota Z482 bicilíndrico Euro 5+ con inyección common rail: cumple sin AdBlue ni filtro de partículas",
+      "Techo negro sobre carrocería bitono y llantas de aluminio negras de 14 pulgadas; el Access se queda en 13",
+      "Aixam cifra en unos 500 km la autonomía de su térmico Kubota: depósito de 16 litros que se llena en minutos",
+      "Salpicadero en el color de la carrocería, altavoces Bluetooth estéreo y separador de carga en el maletero, ausentes en el Access",
+      "Calefacción de serie y skins interiores intercambiables de inspiración gaming para personalizarlo sin herramientas"
     ],
     contras: [
-      "Precio oficial en España no publicado aún",
-      "Diésel frente al Easy Chic eléctrico (113 km) de 13.499 €",
-      "Consumo y emisiones no publicados por la marca",
-      "Etiqueta C",
-      "Solo 2 plazas",
+      "Tarifa oficial de 13.499 €: son 1.500 € más que el Access diésel con idéntica mecánica",
+      "El Chic eléctrico cuesta 500 € menos (12.999 €) y entra en las ZBE con etiqueta Cero; el diésel lleva la C",
+      "El consumo publicado para este Euro 5+ es de 4,3 l/100 km, no los 3,1 del Minauto al que la gama Easy sustituye",
+      "Techo legal de 45 km/h como cuadriciclo ligero L6e: autovías y vías rápidas quedan fuera de su mapa",
+      "Dos plazas sin matices y un maletero de compra diaria: no es un coche para viajar en familia"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1906,16 +1987,15 @@ export const COCHES_AIXAM: CocheComparador[] = [
     imagen: "/media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 4.81,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      seguroTercerosAnual: 280,
-      seguroAmpliadoAnual: 550,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 130,
-      notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
-      estimado: true,
+      "costeEnergia100km": 4.81,
+      "costeMensualTotal": 130,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Estimación propia de esta ficha para el Chic de gasóleo: el combustible se calcula con el consumo estimado y el precio por litro indicados en la tabla, y se suman el seguro ampliado de 550 € anuales y los 300 € de mantenimiento para llegar a los 130 € mensuales.",
+      "precioGasolinaL": 1.55,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 550,
+      "seguroTercerosAnual": 280
     },
     galeria: [
       {
@@ -1937,5 +2017,33 @@ export const COCHES_AIXAM: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado. El Easy es un cuadriciclo ligero (L6e) y Euro NCAP no lo ha ensayado: sus únicas campañas sobre cuadriciclos (2014 y 2016) evaluaron modelos pesados (L7e), con criterios distintos a los de un turismo.",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manuales oficiales de usuario de Aixam (programa de revisiones de los diésel Kubota) y calendario de mantenimiento publicado en aixam-mega.com",
+      "intervalo": "Primera revisión de rodaje entre los 500 y los 1.000 km o a los 3 meses; desde ahí, una revisión anual o cada 5.000 km, lo primero que llegue",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión de rodaje (500-1.000 km o 3 meses)",
+          "queSeCambia": "Aceite del motor con filtro de aceite nuevo, control del aceite del puente inversor, niveles de refrigerante y de líquido de frenos, funcionamiento de los frenos, presión de neumáticos y batería de arranque"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones sucesivas (una al año o cada 5.000 km)",
+          "queSeCambia": "Cambio de aceite y de filtro de aceite, vaciado del puente inversor, filtro de gasóleo nuevo, limpieza o sustitución del filtro de aire, control de correas, del variador CVT y de las bujías de incandescencia, reapriete de tornillería y paralelismo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Trabajos adicionales (cada 10.000 km)",
+          "queSeCambia": "Las operaciones de las revisiones sucesivas más una inspección en profundidad del conjunto y la limpieza de las aletas del radiador; el manual añade renovar el líquido de frenos cada año y el refrigerante cada dos años"
+        }
+      ]
+    },
   },
 ]

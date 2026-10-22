@@ -692,18 +692,18 @@ export const COCHES_EXP24: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "275 km CLTC en modo eléctrico y 1.402 km de autonomía total",
-      "496 CV y 675 Nm: 0-100 km/h en 4,9 s para un SUV de 5,23 m",
-      "Interior de 6 plazas con pantalla de cine trasera de 32 pulgadas",
-      "Huawei ADS 2.0 con LiDAR y chasis con suspensión neumática",
-      "El SUV premium más vendido de China en 2024: fiabilidad probada en volumen",
+      "La batería CATL de 52 kWh firma 275 km eléctricos CLTC y 1.402 km sumando el depósito; al lanzarse también existió una de 42 kWh con 225 y 1.362 km",
+      "Tracción total con 165 kW delante y 200 kW detrás: 365 kW (496 CV) y 675 Nm en conjunto, con el 0 a 100 en 4,9 segundos",
+      "Salón sobre ruedas: tres pantallas de 12,3, 15,6 y 16 pulgadas con HarmonyOS 4, HUD de 75 pulgadas y proyector láser trasero de 32 para las seis plazas",
+      "Debutó con Huawei ADS 2.0 y un solo LiDAR de 192 líneas sobre el techo, dentro de un conjunto de 27 sensores; los cuatro LiDAR llegaron con el de 2025",
+      "Seres declaró más de 150.000 entregas durante 2024, con el M9 líder en China entre los coches de más de 500.000 yuanes"
     ],
     contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "2.560 kg de peso y 5,23 m de largo: poco apto para ciudades europeas",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Precio de 469.800 yuanes (~61.100 €): territorio de Range Rover en Europa",
-      "El ecosistema HarmonyOS y los servicios están pensados para China",
+      "Europa tendrá que esperar: Aito anunció su llegada para otoño de 2027 sin concretar países ni precios, y hoy no existe red comercial ni taller oficial aquí",
+      "Su tamaño manda: 5,23 m de largo, 3,11 m entre ejes y 2.560 kg en esta versión dejan poco margen en parkings y calles estrechas",
+      "Euro NCAP nunca lo ha evaluado: el famoso 93,9 % es del C-NCAP chino de 2024 y lo logró un M9 Max eléctrico comprado de forma anónima, no este EREV",
+      "La gama china arrancaba en 469.800 yuanes y cerraba en 569.800: sin importador europeo, traer uno exige asumir transporte, aduana y homologación individual",
+      "Todo su software nació para China: HarmonyOS con mapas de Amap y servicios conectados locales que fuera de su mercado pierden gran parte de su gracia"
     ],
     imagen: "/media/aito-m9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2024-precio-ficha-tecnica-oficial.webp",
@@ -713,22 +713,32 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoCanal: "King Panda",
     opiniones: [],
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado. Su 93,9 % procede del C-NCAP chino (2024, sobre un M9 Max eléctrico); Aito declara aspirar a las cinco estrellas europeas cuando venda en Europa a partir de 2027"
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
-      revisiones: [
+      "intervalo": "Sin plan oficial del M9 publicado en Europa; referencia del manual Aito del extensor H15RT: primera revisión a los 3 meses o 3.000 km de funcionamiento del generador, luego anual o cada 10.000 km de ese uso",
+      "revisiones": [
         {
-          nombre: "Revisión anual (orientativa)",
-          queSeCambia: "Aceite y filtro del motor 1.5 turbo de autonomía extendida + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
+          "nombre": "Primera revisión del extensor (referencia H15RT)",
+          "queSeCambia": "Aceite de grado SP o superior y filtro de aceite del generador 1.5, a los 3 meses o cuando el extensor acumule 3.000 km, lo primero que llegue",
+          "costeAproxEur": null
         },
+        {
+          "nombre": "Aceite y filtro del extensor (referencia H15RT)",
+          "queSeCambia": "Sustitución cada año o cada 10.000 km de funcionamiento del generador; el filtro de aire se revisa y limpia en ese mismo ritmo y se cambia a los 2 años o 20.000 km de uso del extensor",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Bujías y refrigerante del extensor (referencia H15RT)",
+          "queSeCambia": "Bujías al tercer año o tras acumular el generador 30.000 km de funcionamiento y refrigerante al cuarto año o a los 100.000 km recorridos; el líquido de frenos se renueva cada 3 años o 60.000 km",
+          "costeAproxEur": null
+        }
       ],
-      costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de EREV",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de usuario Aito (programa del M7, que comparte el extensor H15RT de 112 kW con este M9 de 2024), traducido del chino; sin costes en euros porque Aito no vende ni mantiene el M9 en Europa"
     },
   },
   {

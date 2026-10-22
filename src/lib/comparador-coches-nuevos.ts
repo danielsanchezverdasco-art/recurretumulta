@@ -4253,13 +4253,26 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "hyundai-ioniq-5-electrico-precio-ficha-tecnica",
     mantenimientoDIY: {
-        resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central.", "Selecciona 'Vehículo' y, en el menú lateral, 'Convenience'.", "Entra en 'Intervalo de servicio' (Service Interval).", "Pulsa 'Reset' y confirma con 'Sí'. Desde aquí también puedes ajustar los km/meses del próximo aviso."],
-        intervaloMantenimiento: "15.000 km o 12 meses (mantenimiento oficial Hyundai para sus eléctricos en España)",
-        filtroPolenUbicacion: "Detrás de la guantera (lado del acompañante)",
-        filtroPolenPasos: ["Abre la guantera y vacíala.", "Suelta el tirante/tope del lateral derecho y presiona los laterales de la guantera hacia dentro para abatirla por completo.", "Localiza la tapa rectangular del alojamiento del filtro y presiona las pestañas de ambos lados para retirarla.", "Extrae el filtro usado fijándote en la orientación de la flecha de flujo de aire.", "Coloca el nuevo con la flecha en la misma dirección, cierra la tapa y vuelve a montar la guantera."],
-        videoTutorialUrl: "https://www.youtube.com/watch?v=Huxrd3IgoFw",
-        videoTutorialTitulo: "DIY: Replace cabin air filter & windshield wipers on the Hyundai Ioniq5 & Kia EV6 in 2 mins",
+      "filtroPolenPasos": [
+        "Abre el capó delantero y vacía el frunk: en el Ioniq 5 el filtro vive ahí delante, no tras la guantera como en otros Hyundai.",
+        "Levanta la tapa del maletero delantero presionando su palanca (1) y retírala tirando del asa frontal (2).",
+        "Mantén presionado el bloqueo (3) situado a la izquierda de la cubierta interior (4) y extrae también esa segunda tapa.",
+        "Saca el filtro del climatizador usado fijándote en su posición: la flecha impresa en el marco debe mirar hacia abajo.",
+        "Desliza el recambio nuevo con la flecha hacia abajo, recoloca la cubierta interior hasta que el bloqueo encaje y cierra la tapa del frunk verificando que queda firmemente asentada."
+      ],
+      "filtroPolenUbicacion": "Bajo la tapa del maletero delantero (frunk), sobre el hueco frontal de 57 litros de las versiones de propulsión",
+      "intervaloMantenimiento": "En España este modelo pasa por el taller cada 2 años o al cumplir 30.000 km, lo primero que llegue: Hyundai lo separa así del resto de su gama, que acude cada año o 15.000 km",
+      "resetAceiteNota": "En este eléctrico no hay aceite de motor que cambiar: el aviso corresponde a la revisión bienal del coche, no a una intervención sobre la batería de tracción.",
+      "resetAceitePasos": [
+        "Alimenta solo la electrónica: pulsa el botón de arranque del Ioniq 5 sin pisar el pedal de freno.",
+        "En la pantalla central abre «Setup» (Configuración) y después el apartado «Vehículo».",
+        "Busca la sección «Convenience» y entra en «Intervalo de servicio».",
+        "Comprueba la distancia y el tiempo que quedan programados y pulsa «Reset» para poner el contador a cero.",
+        "Confirma la operación: el recordatorio volverá a saltar cuando se cumpla el nuevo plazo de revisión."
+      ],
+      "resetAceiteTitulo": "Ioniq 5: reiniciar el aviso de revisión desde la pantalla central",
+      "videoTutorialTitulo": "DIY: Replace cabin air filter & windshield wipers on the Hyundai Ioniq5 & Kia EV6 in 2 mins",
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=Huxrd3IgoFw"
     },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
@@ -4282,14 +4295,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     cargaRapidaKw: 220,
     etiquetaDgt: "Cero",
     pros: [
-      "Arquitectura de 800 V con carga ultrarrápida",
-      "Diseño retrofuturista distintivo",
-      "Maletero de 520 l más frunk delantero",
+      "Fue el primer Hyundai levantado sobre la plataforma E-GMP y en abril de 2022 arrasó en los World Car Awards: Coche del Año, Eléctrico del Año y Diseño del Año",
+      "Su instalación eléctrica de 800 voltios lleva esta batería de 63 kWh del 10 al 80 por ciento en 18 minutos si el poste acompaña, y la toma V2L entrega hasta 3,6 kW para alimentar aparatos fuera del coche",
+      "La batalla de 3.000 mm sostiene un suelo completamente plano y mucho desahogo interior, con 520 litros de maletero trasero y otros 57 en el hueco delantero de esta versión de propulsión"
     ],
     contras: [
-      "Versión de acceso con solo 170 CV y 440 km de autonomía",
-      "Precio de acceso de 44.670 €",
-      "Aceleración de 8,5 s en la versión base",
+      "Esta batería pequeña se queda en 440 km WLTP y 170 CV: quien necesite viajar lejos debe saltar a la de 84 kWh, con 228 CV y homologaciones por encima de los 500 km",
+      "Pesa 1.955 kg según la propia ficha y firma 8,5 segundos hasta los 100 km/h: cumple sin sobrarle nada, y el empuje se nota más justo con el coche cargado",
+      "Las ayudas puntúan un 88 % en Safety Assist ante Euro NCAP, pero la prensa que lo ha probado critica sus avisos acústicos constantes y lo poco directo que resulta silenciarlos"
     ],
     largoMm: 4655,
     anchoMm: 1890,
@@ -4304,18 +4317,52 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["cargaRapidaKw"],
     imagen: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica.webp",
     opiniones: [],
+    euroncap: {
+      "ano": 2021,
+      "estrellas": 5,
+      "nota": "Cinco estrellas en el ensayo publicado en octubre de 2021: 88 % en ocupantes adultos, 86 % en protección infantil, 63 % en usuarios vulnerables y 88 % en asistencias a la seguridad",
+      "url": "https://www.euroncap.com/en/results/hyundai/ioniq-5/43497"
     },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Hyundai Canarias (red oficial Hyundai) y manual del propietario del Ioniq 5",
+      "intervalo": "Una visita cada 2 años o cada 30.000 km recorridos, lo primero que se alcance",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión bienal del Ioniq 5 (2 años / 30.000 km)",
+          "queSeCambia": "Sustitución del filtro del climatizador alojado bajo la tapa del frunk e inspección del sistema de refrigeración, del estado de la batería auxiliar de 12 V y de latiguillos y conexiones de freno"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Renovación del líquido de frenos",
+          "queSeCambia": "El manual del Ioniq 5 recomienda cambiar el líquido de frenos en ciclos de dos años, de modo que la renovación coincide con esa misma visita bienal al taller"
+        }
+      ]
+    },
+  },
   {
     id: "kia-ev6-electrico-precio-ficha-tecnica",
     mantenimientoDIY: {
-        resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Con el contacto dado (botón Start sin pisar el freno), pulsa 'Setup' en la pantalla táctil central.", "Selecciona 'Vehículo' y, en el menú lateral, 'Cluster'.", "Entra en 'Servicio' → 'Intervalo' (Service → Interval).", "Pulsa 'Reset' y confirma. Desde aquí también puedes definir tus propios intervalos de servicio."],
-        resetAceiteNota: "Alternativa por botones del volante (guía oficial Kia): mantén pulsado el botón MODE para entrar en el modo Service Interval y luego mantén OK más de 1 segundo para resetear.",
-        intervaloMantenimiento: "30.000 km o 24 meses (confirmado por concesionario Kia a un propietario español de EV6)",
-        filtroPolenUbicacion: "Detrás de la guantera (lado del acompañante)",
-        filtroPolenPasos: ["Abre la guantera y vacíala.", "Suelta el tirante/tope del lateral derecho y presiona los laterales de la guantera hacia dentro para abatirla por completo.", "Localiza la tapa rectangular del alojamiento del filtro y presiona las pestañas de ambos lados para retirarla.", "Extrae el filtro usado fijándote en la orientación de la flecha de flujo de aire.", "Coloca el nuevo con la flecha en la misma dirección, cierra la tapa y vuelve a montar la guantera."],
-        videoTutorialUrl: "https://www.youtube.com/watch?v=5NZ_MEswOu4",
-        videoTutorialTitulo: "Kia EV6 (EU) Tips - How to set or reset service interval indicator or setup your own intervals",
+      "filtroPolenPasos": [
+        "Abre el capó y levanta la cubierta del maletero delantero apretando la palanca (1) que la retiene.",
+        "Retira esa cubierta tirando de su parte superior hasta desencajarla por completo.",
+        "Extrae la carcasa del filtro (2) tirando del lado izquierdo de su tapa (1), tal como dibuja el manual del propietario.",
+        "Sustituye el cartucho del climatizador por el recambio y comprueba que queda bien asentado: si entra torcido, el sistema puede hacer ruido y filtrar peor.",
+        "Vuelve a montar todo en orden inverso al desmontaje y verifica que la cubierta del frunk cierra firme antes de bajar el capó."
+      ],
+      "filtroPolenUbicacion": "Sobre el hueco delantero de 52 litros de esta versión de propulsión, tras levantar la tapa del frunk: en el EV6 el filtro del climatizador no va tras la guantera",
+      "intervaloMantenimiento": "Para Europa, el manual del EV6 fija las revisiones en ciclos de dos años o 30.000 km, el plazo que venza antes",
+      "resetAceiteNota": "El sistema empieza a mostrar el aviso cuando quedan 1.500 km o 30 días para la revisión. Sin tocar la pantalla también funciona: mantén pulsado MODE en el volante para entrar en el modo Service Interval y después mantén OK durante más de un segundo, como recoge la guía de funciones del EV6.",
+      "resetAceitePasos": [
+        "Abre el menú Setup de la pantalla central y entra después en el apartado Vehículo.",
+        "Dentro de Vehículo elige Cluster y, una vez ahí, abre la opción Servicio.",
+        "Selecciona Intervalo y pulsa Reset: el contador de kilómetros y de días para la siguiente revisión vuelve a empezar.",
+        "Si quieres programarlo a tu medida, en esa misma pantalla puedes fijar a mano la distancia y el plazo del próximo aviso."
+      ],
+      "resetAceiteTitulo": "EV6: poner a cero el aviso de revisión desde Setup o desde el volante",
+      "videoTutorialTitulo": "Kia EV6 (EU) Tips - How to set or reset service interval indicator or setup your own intervals",
+      "videoTutorialUrl": "https://www.youtube.com/watch?v=5NZ_MEswOu4"
     },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
@@ -4338,14 +4385,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     cargaRapidaKw: 235,
     etiquetaDgt: "Cero",
     pros: [
-      "Arquitectura de 800 V con carga ultrarrápida",
-      "Diseño crossover deportivo",
-      "Maletero de 490 l más frunk de 52 l",
+      "Fue el primer eléctrico dedicado de Kia, estrenó la nomenclatura EV de la marca y en 2022 ganó el Coche del Año en Europa, un título que ningún modelo coreano había conseguido antes",
+      "Su función V2L apenas tiene equivalentes en su clase: entrega hasta 3,6 kW desde la batería de tracción para enchufar aparatos fuera del coche, y en un poste rápido de corriente continua esta versión pasa del 10 al 80 % en unos 18 minutos",
+      "La batalla de 2.900 mm sostiene un habitáculo de suelo plano y un maletero de 490 litros, al que esta variante de propulsión trasera añade un hueco delantero de 52 litros pensado para guardar los cables"
     ],
     contras: [
-      "Versión de acceso con solo 428 km de autonomía",
-      "Precio de acceso de 48.975 €",
-      "Aceleración de 8,7 s en la versión base",
+      "Quien viaje a menudo deberá mirar más arriba en la gama: esta batería de 63 kWh se queda en los 428 km homologados de la ficha, mientras la Long Range de propulsión con 84 kWh anuncia 582 km",
+      "Arrancar en 48.975 € con el pack pequeño y un solo motor deja la factura de esta versión de acceso en terreno de eléctricos de mayor autonomía, así que conviene comparar bien antes de firmar",
+      "Con 1.955 kg en la báscula y 170 CV, su 0 a 100 km/h en 8,7 segundos lo convierte en el EV6 tranquilo de la familia, muy lejos del empuje de las variantes de dos motores"
     ],
     largoMm: 4695,
     anchoMm: 1880,
@@ -4360,7 +4407,30 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["cargaRapidaKw"],
     imagen: "/media/kia-ev6-electrico-precio-ficha-tecnica.webp",
     opiniones: [],
+    euroncap: {
+      "ano": 2022,
+      "estrellas": 5,
+      "nota": "Cinco estrellas en la prueba publicada en mayo de 2022 sobre un EV6 Long Range AWD con volante a la izquierda: 86 % en protección infantil, 90 % en ocupantes adultos, 64 % en usuarios vulnerables y 87 % en asistencias a la seguridad",
+      "url": "https://cdn.euroncap.com/media/69374/euroncap-2022-kia-ev6-datasheet.pdf"
     },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Kia EV6 (calendario de mantenimiento para Europa)",
+      "intervalo": "En Europa el manual del propietario programa cada revisión cada 24 meses o al cumplir 30.000 km, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión bienal del EV6 (24 meses / 30.000 km)",
+          "queSeCambia": "Sustitución del filtro del climatizador alojado en el frunk e inspección en ese mismo ciclo del líquido de frenos, de discos y pastillas, de los árboles de transmisión y de la batería auxiliar de 12 V"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante del sistema eléctrico",
+          "queSeCambia": "El primer cambio llega a los 210.000 km o a los 120 meses; a partir de ahí el manual lo renueva cada 30.000 km o cada 24 meses"
+        }
+      ]
+    },
+  },
   {
     id: "volkswagen-id-buzz-electrico-precio-ficha-tecnica",
     mantenimientoDIY: {

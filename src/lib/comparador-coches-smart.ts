@@ -686,18 +686,18 @@ export const COCHES_SMART: CocheComparador[] = [
       "autonomiaKm"
     ],
     "pros": [
-      "428 CV y 543 Nm con tracción total: prestaciones de deportivo",
-      "41.166 € (km77, tarifa 12/2025): solo 466 € más que el Premium",
-      "Doble motor con reparto inteligente de par",
-      "Batería de 66 kWh con 150 kW de carga rápida",
-      "Estética deportiva sin el precio del Brabus"
+      "Es el salto a los dos motores sin pagar el Brabus: 428 CV y el 0 a 100 en 4,5 segundos dentro de un B-SUV de solo 4,27 metros",
+      "41.166 € según km77 (tarifa 12/2025): por 466 € más que el Premium cambia el motor trasero único por tracción a las cuatro ruedas",
+      "Enchufa como los grandes de la casa: 150 kW en continua para recuperar del 10 al 80 % en media hora escasa y cargador de 22 kW en alterna",
+      "También trabaja remolcando: admite hasta 1.600 kg con freno, una cifra rara en un eléctrico compacto de este tamaño",
+      "Su carrocería firmó un 96 % en protección de adultos en Euro NCAP 2022, por encima del Tesla Model S probado aquel mismo año"
     ],
     "contras": [
-      "Autonomía aprox 400 km: menos que el Premium",
-      "Sin el chasis específico ni la imagen del Brabus",
-      "Mayor peso y consumo que las versiones trasera",
-      "Maletero de 288 L",
-      "0-100 sin dato oficial publicado"
+      "Sus 400 km WLTP se quedan 40 por debajo del Premium de un solo motor, que anuncia 440 llevando idéntica batería de 66 kWh",
+      "El Brabus comparte motores y batería y baja hasta 3,9 segundos: el Pulse ahorra 5.044 €, pero renuncia a su chasis específico y a su imagen",
+      "Homologa 18,2 kWh/100 km según JATO: en autopista el segundo motor se cobra su peaje en consumo y en paradas de carga",
+      "El maletero de 288 litros que recoge esta ficha se queda corto para cinco ocupantes en un viaje largo con equipaje",
+      "Ronda las 1,9 toneladas con conductor según JATO: frenos y neumáticos trabajarán como los de un SUV de un segmento superior"
     ],
     "imagen": "/media/smart-1-pulse-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp",
@@ -707,14 +707,14 @@ export const COCHES_SMART: CocheComparador[] = [
     "opiniones": [],
     "costeMensual": {
       "costeEnergia100km": 3.2,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 320,
       "costeMensualTotal": 150,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 320,
+      "notas": "Nota pensada solo para el Pulse: JATO le homologa 18,2 kWh cada cien kilómetros, empatado con el Brabus como el gasto mayor de la gama #1; la tabla parte de unos 18 y, enchufando en el garaje a 0,18 euros el kWh, deja la energía en 3,2 euros por cada 100 km recorridos",
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 18 kWh/100 km por tracción total; recarga doméstica aprox 0,18 EUR/kWh; autonomía aprox 400 km",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1000,
+      "seguroTercerosAnual": 500
     },
     "galeria": [
       {
@@ -735,7 +735,25 @@ export const COCHES_SMART: CocheComparador[] = [
         "ancho": 1200,
         "alto": 800
       }
-    ]
+    ],
+    euroncap: {
+      "ano": 2022,
+      "estrellas": 5,
+      "nota": "Cinco estrellas en la prueba de 2022 de la gama #1: 96 % en ocupante adulto, 89 % en infantil, 71 % en usuarios vulnerables y 88 % en asistentes. La unidad ensayada fue la de un solo motor trasero con la batería de 66 kWh y la calificación cubre toda la gama, incluido este Pulse de dos motores",
+      "url": "https://www.euroncap.com/en/results/smart/%231/48000"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalo: datos JATO de la gama smart #1 publicados por quecochemecompro (mantenimiento principal cada 30.000 km y 24 meses para el #1 eléctrico). smart no publica precio cerrado de la revisión en España: costes en null",
+      "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión principal de los 30.000 km o 2 años",
+          "queSeCambia": "En el taller revisan ambos propulsores eléctricos y el pack NMC de 66 kWh, miran pastillas, discos y gomas, comprueban el circuito de refrigeración y la electrónica de potencia y renuevan el filtro de polen; el líquido de frenos se sustituye cuando lo marque el programa de la marca. Aceite de motor no hay que cambiar: el Pulse es eléctrico puro y esa partida desaparece"
+        }
+      ]
+    },
   },
   {
     id: "smart-1-brabus-2025-precio-ficha-tecnica",
@@ -1264,18 +1282,18 @@ export const COCHES_SMART: CocheComparador[] = [
       "cargaRapidaKw"
     ],
     "pros": [
-      "587 CV con tracción total (dato aprox.): prestaciones de deportivo",
-      "57.500 €: mismo precio que el Premium con 224 CV más",
-      "Batería de 100 kWh con arquitectura de 800 V",
-      "≈540 km de autonomía (dato aproximado)",
-      "210 km/h de velocidad máxima"
+      "Es la puerta de entrada a la tracción total en el #5: dos motores, uno por eje, que suman 587 CV y dejan el sprint hasta 100 km/h en 4,9 segundos",
+      "Cuesta lo mismo que el Premium, 57.500 euros, pero juega a otra cosa: cambia el salón rodante de tracción trasera por un segundo motor, tracción integral inteligente y 224 CV extra",
+      "Su cabina se reconoce por la doble pantalla central OLED en formato extra ancho, y suma bomba de calor para que el invierno no se coma la autonomía",
+      "Llega con el sello de SUV grande mejor puntuado por Euro NCAP en 2025: 93 % en protección infantil y 92 % en asistentes, las notas más altas de su año en ambas áreas",
+      "También trabaja cargando: 630 litros de maletero trasero, otros 47 en el delantero y hasta 1.600 kg de remolque con freno si se equipa el enganche"
     ],
     "contras": [
-      "Menos autonomía que el Premium (590 km)",
-      "El Brabus añade 59 CV y chasis específico por 6.160 € más",
-      "Batería NMC: mejor no cargarla al 100 % a diario",
-      "0-100 y par sin dato oficial publicado",
-      "4,71 m y mucho peso: no es un juguete urbano"
+      "Su consumo homologado de 19,9 kWh/100 km empata con el del Brabus como el más alto de la gama: por eso se queda en 540 km mientras las versiones de un solo motor anuncian 590",
+      "Pesa 2.345 kg en vacío y calza neumáticos 255/45 R20: el gasto en gomas y frenos será el de un SUV grande, no el de los smart urbanos de antes",
+      "El pack NMC de 94 kWh útiles pide mesura al enchufar cada noche: reservar la carga completa para los días de viaje largo ayuda a cuidar su degradación",
+      "Quien busque lo máximo de la casa lo tiene a 6.160 euros de distancia: el Brabus suma 59 CV y un chasis con su firma, y deja al Pulse en un punto intermedio incómodo",
+      "Mide 4,71 metros de largo y es el smart más familiar y menos urbano de la historia de la marca: en un garaje estrecho se nota cada centímetro de más"
     ],
     "imagen": "/media/smart-5-pulse-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-pulse-2025-precio-ficha-tecnica-oficial.webp",
@@ -1291,7 +1309,7 @@ export const COCHES_SMART: CocheComparador[] = [
       "costeMensualTotal": 173,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 21 kWh/100 km por tracción total; recarga doméstica aprox 0,18 EUR/kWh; potencia y autonomía aproximadas",
+      "notas": "Cálculo pensado solo para el Pulse: se toma su consumo homologado con dos motores, 19,9 kWh/100 km, y se eleva hasta unos 21 para acercarlo al gasto real con tracción total; cargando en casa a 0,18 euros el kWh salen los 3,8 euros por cada 100 km que recoge la tabla",
       "estimado": true
     },
     "galeria": [
@@ -1313,7 +1331,25 @@ export const COCHES_SMART: CocheComparador[] = [
         "ancho": 1200,
         "alto": 800
       }
-    ]
+    ],
+    euroncap: {
+      "estrellas": 5,
+      "ano": 2025,
+      "url": "https://www.euroncap.com/press-media/euro-ncap-names-best-in-class-cars-tested-in-2025/",
+      "nota": "Cinco estrellas Euro NCAP en 2025 y premio Best in Class entre los SUV grandes del año: 88 % en ocupante adulto, 93 % en infantil, 84 % en usuarios vulnerables y 92 % en asistentes. La unidad evaluada fue un #5 Pro y la calificación es la de la gama #5"
+    },
+    planMantenimiento: {
+      "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes",
+      "revisiones": [
+        {
+          "nombre": "Revisión principal de los 30.000 km o 2 años",
+          "queSeCambia": "Inspección completa del tren eléctrico de dos motores y de la batería NMC de alta tensión, con control de frenos, neumáticos, refrigeración y electrónica, y sustitución del filtro del habitáculo y del líquido de frenos cuando lo marque el programa de la marca; no hay aceite de motor que cambiar porque es un eléctrico puro",
+          "costeAproxEur": null
+        }
+      ],
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalo: datos JATO de la gama smart #5 publicados por quecochemecompro para los acabados Premium y Brabus (mismo programa de mantenimiento principal para el #5). smart no publica precio cerrado de la revisión en España: costes en null"
+    },
   },
   {
     id: "smart-5-summit-edition-2025-precio-ficha-tecnica",

@@ -273,18 +273,18 @@ export const COCHES_TESLA: CocheComparador[] = [
     cargaRapidaKw: 250,
     etiquetaDgt: "Cero",
     pros: [
-      "622 km WLTP: la versión del Model Y con mejor relación autonomía-precio",
-      "347 CV con tracción trasera y solo 14,2 kWh/100 km",
-      "Batería útil de 75 kWh con carga rápida de 250 kW",
-      "Acabado Premium completo: pantalla trasera de 8\", asientos ventilados, techo panorámico",
-      "49.990 €: 3.000 € menos que el tracción total con más autonomía que el Standard",
+      "La hoja de resultados de Euro NCAP de noviembre de 2025 nombra expresamente a esta variante de propulsión trasera entre las cubiertas por sus 5 estrellas",
+      "Propulsión trasera con un único motor de 347 CV: homologa 622 km WLTP gastando 14,2 kWh cada 100 km y, por 49.990 euros, es el Model Y Premium que más lejos llega",
+      "Batería de 75 kWh compatible con cargas de hasta 250 kW: en un Supercargador V3 o V4 puede recuperar del orden de 260 km en unos 15 minutos",
+      "El salto al acabado Premium se nota dentro: cristales acústicos en todo el habitáculo, techo de cristal, asientos delanteros ventilados y pantalla específica de 8 pulgadas para las plazas de atrás, todo ausente en el Standard",
+      "Mantiene los 2.138 litros de volumen máximo con los respaldos plegados que la ficha marca como aproximados, así que renunciar al segundo motor no recorta el espacio de carga del SUV"
     ],
     contras: [
-      "5,6 s de 0-100: el más pausado de las versiones Premium",
-      "Sin tracción total: peor motricidad en mojado o nieve",
-      "49.990 €: queda fuera del Plan Auto+ por superar los 45.000 €",
-      "El Standard Gran Autonomía (46.990 €) ofrece 657 km por menos dinero",
-      "Casi 2 toneladas: se nota en carreteras reviradas",
+      "La duda está en casa: por 46.990 euros, el Standard Gran Autonomía llega a 657 km WLTP, 35 km más, y la diferencia de 3.000 euros compra sobre todo equipamiento Premium, no alcance",
+      "Sus 49.990 euros rebasan en 4.990 el tope de 45.000 que marca el Plan Auto+, y por tanto queda excluido de sus ayudas",
+      "Es el Premium más lento en el sprint: 5,6 segundos hasta 100 km/h, ocho décimas por encima del bimotor, porque todo el empuje sale del eje trasero",
+      "Al prescindir del motor delantero no hay reparto entre ejes: sobre nieve o asfalto muy deslizante su motricidad depende solo de las ruedas traseras y de los neumáticos montados",
+      "Pesa 1.976 kg según su ficha, y ese lastre se percibe al enlazar curvas cerradas o al frenar bajando un puerto con el coche cargado"
     ],
     largoMm: 4790,
     anchoMm: 1920,
@@ -301,14 +301,14 @@ export const COCHES_TESLA: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.56,
-      "seguroTercerosAnual": 450,
-      "seguroAmpliadoAnual": 900,
-      "mantenimientoAnual": 300,
       "costeMensualTotal": 132,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Cálculo hecho a medida de esta versión propulsada detrás: parte de su consumo homologado de 14,2 kWh/100 km y de cargar en casa pagando el kWh a 0,18 euros, lo que deja cada 100 km en 2,56 euros. Repartiendo 15.000 km entre los doce meses y sumando el seguro a todo riesgo junto a un mantenimiento anual estimado para el segmento, la cuota resultante es de 132 euros al mes.",
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 14,2 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -330,6 +330,39 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 1184
       }
     ],
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "La ficha de resultados de noviembre de 2025 incluye expresamente al Premium Long Range de propulsión trasera 4x2 entre las variantes a las que alcanza la calificación, aunque el ejemplar sometido a choque fue el bimotor. Puntuaciones: 91 % para ocupantes adultos, 93 % para niños, 86 % frente a atropellos de peatones y ciclistas y 92 % en sistemas de ayuda.",
+      "url": "https://euroncap.blob.core.windows.net/media/93129/euroncap-2025-tesla-model-y-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Guía DIY oficial del Model Y en service.tesla.com: intervalos del servicio de mantenimiento",
+      "intervalo": "Tesla no impone visitas anuales obligatorias para el Model Y: su guía oficial de autoservicio habla de atender el coche cuando lo necesite y detalla únicamente plazos concretos para unas pocas operaciones",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Rotación de las ruedas",
+          "queSeCambia": "Permuta de neumáticos al llegar a 10.000 km, o antes cuando entre ejes se mida una disparidad de dibujo de 1,5 mm como mínimo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Pinzas de freno en climas con sal",
+          "queSeCambia": "Limpieza con lubricación posterior una vez al año, o cada 20.000 km, únicamente cuando el coche rueda en invierno por vías tratadas con sal"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtración del aire del habitáculo",
+          "queSeCambia": "El filtro ordinario se renueva a los 2 años; el conjunto formado por dos filtros HEPA y otros dos de carbono espera hasta los 3 años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Escobillas y líquido de frenos",
+          "queSeCambia": "Escobillas nuevas cada año; el líquido de frenos se analiza al cumplir 4 años y solo se sustituye cuando ese análisis lo pide, salvo uso severo con remolque o bajadas largas de montaña, que adelanta las comprobaciones"
+        }
+      ]
+    },
   },
   {
     id: "tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica",

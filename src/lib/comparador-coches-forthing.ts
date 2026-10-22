@@ -479,18 +479,18 @@ export const COCHES_FORTHING: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "565 km de autonomía en ciclo chino con solo 59,4 kWh",
-      "218 CV y 310 Nm con tracción trasera: 0-100 en 6,7 s",
-      "Consumo de 11,9 kWh/100 km, muy eficiente",
-      "Liftback de 4,94 m con portón y 541 litros de maletero",
-      "Cx aerodinámico trabajado con tiradores enrasados",
+      "Su Cx de 0,191 se presentó en septiembre de 2024 como el más bajo de cualquier coche de producción, por delante del 0,194 del XPeng Mona M03",
+      "Es el segundo integrante de la gama Xinghai de Dongfeng Forthing, tras el monovolumen V9, y se estrenó en China el 26 de septiembre de 2024",
+      "Esta versión 565 monta una batería LFP de 59,4 kWh y declara un gasto de 11,9 kWh cada cien kilómetros en el ciclo chino",
+      "El salpicadero lo dominan dos pantallas: una de 15,6 pulgadas en el centro con el sistema Xinghai OS y otra de 8,8 pulgadas como instrumentación",
+      "Con 2.915 mm entre ejes y portón trasero tipo liftback, ofrece 541 litros de maletero en una berlina de 4.935 mm"
     ],
     contras: [
-      "Sin precio europeo oficial (estimación de 31.990 €)",
-      "Velocidad máxima limitada a 165 km/h",
-      "Marca sin presencia en España",
-      "Autonomía WLTP europea pendiente de homologación",
-      "Sin nota Euro NCAP",
+      "Dongfeng Forthing no vende el Xinghai S7 en España, así que los 31.990 euros de esta ficha son una estimación sin tarifa oficial detrás",
+      "Los 565 km anunciados responden al ciclo CLTC chino y no hay homologación WLTP, por lo que el alcance europeo real será menor",
+      "Su ficha técnica deja en blanco la potencia de carga rápida en continua, justo el dato que decide una parada en un viaje largo",
+      "La velocidad punta queda limitada electrónicamente a 165 km/h, por debajo de lo habitual en berlinas eléctricas de este tamaño",
+      "Quien quiera los 650 km y la carga ultrarrápida de la variante de 800 voltios tendrá que mirar otra versión: esta se queda en 59,4 kWh"
     ],
     largoMm: 4935,
     anchoMm: 1915,
@@ -506,16 +506,15 @@ export const COCHES_FORTHING: CocheComparador[] = [
     imagen: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.14,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 118,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Autonomía en ciclo chino.",
-      estimado: true,
+      "costeEnergia100km": 2.14,
+      "costeMensualTotal": 118,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Cálculo anclado en esta versión 565: multiplicar sus 11,9 kWh homologados en China por 0,18 euros da los 2,14 euros por cien kilómetros. El seguro y los 300 euros anuales de mantenimiento son estimaciones propias, porque Dongfeng Forthing carece de red y de tarifas publicadas en España para el Xinghai S7.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 800,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -538,6 +537,12 @@ export const COCHES_FORTHING: CocheComparador[] = [
       },
     ],
     analisisSlug: "forthing-s7-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: no consta ensayo del Xinghai S7 en el organismo europeo, cuya única nota de un Dongfeng localizada es la del BOX, un modelo distinto",
+      "url": null
+    },
   },
   {
     id: "forthing-s7-reev-2026-precio-ficha-tecnica",

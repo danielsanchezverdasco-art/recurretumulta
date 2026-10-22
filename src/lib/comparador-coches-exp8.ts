@@ -937,18 +937,18 @@ export const COCHES_EXP8: CocheComparador[] = [
     emisionesCo2: 135,
     aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2"],
     pros: [
-      "SUV familiar de 4,48 m con maletero de 514 litros",
-      "Generación anterior: buenos precios en km 0 y ocasión",
-      "Asientos AGR certificados, cómodos en viajes largos",
-      "Motor 1.2 de 130 CV suficiente para uso familiar",
-      "Amplia red de recambios y mantenimiento barato",
+      "Lanzado en 2017 como Grandland X sobre la base EMP2 que comparte con el Peugeot 3008 y el Citroën C5 Aircross",
+      "La unidad de 2024 ya es el Grandland sin X del rediseño de 2021: frontal Vizor, habitáculo Pure Panel y faros IntelliLux LED Pixel",
+      "Con 4,48 m de largo y 514 litros de maletero se mantiene en la talla del segmento C sin crecer a los 4,65 m de su sustituto",
+      "Los asientos ergonómicos con sello AGR, pensados para cuidar la espalda en trayectos largos, son un argumento de confort poco común entre los generalistas",
+      "Cinco estrellas Euro NCAP en el ensayo de 2017, con un 87 % en protección de ocupantes infantiles cuando aún se llamaba Grandland X"
     ],
     contras: [
-      "Sustituido por el nuevo Grandland 2024, más moderno",
-      "Etiqueta C sin hibridación",
-      "Interior menos tecnológico que el nuevo modelo",
-      "10,2 s en el 0-100: prestaciones modestas",
-      "Reventa a la baja por el cambio generacional",
+      "Su 1.2 es el PureTech de correa bañada en aceite: Stellantis ha reconocido degradación prematura en esta familia de motores, así que el historial de cambios de aceite manda al comprarlo de ocasión",
+      "Gasolina puro con etiqueta C y 135 g/km de CO2: la propia gama Grandland tuvo híbrido enchufable, pero esta versión se queda sin ventajas ECO o Cero en las ZBE",
+      "Mover 1.450 kg con 130 CV y 230 Nm se paga al acelerar: necesita 10,2 segundos para llegar a 100 km/h, y cargado en pendiente el cambio trabaja sin descanso",
+      "Es la generación de despedida: el Grandland presentado en 2024 es más grande y solo se vende electrificado, y ese relevo presiona su valor de reventa",
+      "Comparte base con el C5 Aircross, pero carga 514 litros frente a los 580 del Citroën y renuncia a sus tres asientos traseros individuales deslizantes"
     ],
     imagen: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-oficial.webp",
@@ -956,6 +956,24 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-grandland-12-turbo-130-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2017,
+      "estrellas": 5,
+      "nota": "Ensayo de 2017 sobre el Grandland X 1.6 diésel, la misma primera generación de esta ficha: 84 % en adultos y 87 % en niños. La calificación caducó en enero de 2024 al endurecerse el protocolo.",
+      "url": "https://www.euroncap.com/press-media/occupant-protection-a-side-issue-for-some/"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario oficial Opel del Grandland X y servicio de inspección de Opel España",
+      "intervalo": "Tope de 20.000 km o de 1 año, lo primero que ocurra, para los motores EB2 en el grupo de países 1 del manual, el que incluye a España",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica del Grandland 1.2 Turbo",
+          "queSeCambia": "Aceite del motor con su filtro y filtro del habitáculo, chequeo del líquido de frenos e inspección funcional de frenos, motor, chasis, carrocería, neumáticos, escape, luces y electrónica; en el 1.2 PureTech se añade el control visual del estado de la correa de distribución bañada en aceite"
+        }
+      ]
+    },
   },
   {
     id: "opel-combo-15-diesel-130-2025-precio-ficha-tecnica",
@@ -1637,18 +1655,18 @@ export const COCHES_EXP8: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "Acceso gasolina a la gama Compass de la generación anterior",
-      "1.3 Turbo de 130 CV con 270 Nm, suficiente en el día a día",
-      "Precios muy competitivos en ocasión y km 0",
-      "Mantenimiento sencillo y barato",
-      "Imagen SUV auténtica",
+      "El 1.3 GSE T4 entrega 270 Nm, un par más propio de un diésel, con solo 130 CV",
+      "Formato familiar contenido: 4.404 mm de largo y 438 litros de maletero para cinco ocupantes",
+      "Su generación logró las cinco estrellas Euro NCAP en 2017, con la protección de adultos puntuada en un 90 %",
+      "Es el escalón gasolina de acceso del Compass de segunda generación, siempre con cambio manual de seis marchas",
+      "Parrilla de siete ranuras y pasos de rueda trapezoidales: la estética Jeep completa en tamaño compacto"
     ],
     contras: [
-      "Sustituido por el nuevo Compass 2026",
-      "Etiqueta C sin hibridación",
-      "Consumo de unos 6,0 l/100 km, alto para su potencia",
-      "Cambio manual o DDCT sin el refinamiento actual",
-      "Reventa a la baja",
+      "Tracción únicamente delantera: en esta mecánica no existió opción 4x4, reservada a los 4xe y al diésel",
+      "Sin ningún apoyo eléctrico se queda con la etiqueta C, mientras su relevo e-Hybrid ya luce la ECO",
+      "El gasto homologado ronda los 6,0 litros a los cien, cifra superada en eficiencia por rivales híbridos más potentes",
+      "Quien buscara automático en gasolina debía saltar al 1.3 de 150 CV con el DDCT; este 130 es solo manual",
+      "La llegada del Compass de tercera generación en 2026 lo deja como compra de ocasión, con la depreciación que eso implica"
     ],
     imagen: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-oficial.webp",
@@ -1656,6 +1674,29 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "jeep-compass-13-t-130-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2017,
+      "estrellas": 5,
+      "nota": "Ensayo de septiembre de 2017 sobre un Compass 2.0 MultiJet 4x4 Limited con volante a la izquierda, de esta misma segunda generación: 90 % en adultos, 83 % en niños, 64 % en peatones y 59 % en asistentes",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Jeep Compass (FCA/Stellantis), Plan de Mantenimiento Programado y controles periódicos",
+      "intervalo": "Tope anual o de 15.000 km recorridos, lo primero que llegue: el manual del propietario del Compass fija ese límite para el cambio de aceite de los gasolina y escalona así todo su plan programado",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 15.000 km o del primer año",
+          "queSeCambia": "Aceite nuevo para el 1.3 GSE con su filtro, más los controles periódicos que prescribe Jeep: niveles de refrigerante y de líquido de frenos, presión y estado de neumáticos, alumbrado y escobillas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones siguientes según el plan programado de Jeep",
+          "queSeCambia": "Bujías homologadas para este motor cuando el plan las marca, líquido de frenos por su intervalo temporal y filtro de aire del motor, que en zonas polvorientas el manual adelanta a cada 15.000 km"
+        }
+      ]
+    },
   },
   {
     id: "jeep-compass-4xe-240-2025-precio-ficha-tecnica",

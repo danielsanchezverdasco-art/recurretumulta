@@ -390,18 +390,18 @@ export const COCHES_EXP7: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Desde 39.945 €: el diésel más barato del Tiguan",
-      "2.0 TDI de 150 CV y 360 Nm con solo 5,3 l/100 km WLTP",
-      "Autonomía real de más de 900 km con un depósito",
-      "Cambio DSG de 7 velocidades de serie",
-      "El motor ideal para quien hace mucha autopista",
+      "Euro NCAP puso a prueba en mayo de 2024 precisamente un Tiguan diésel de acceso, acabado Life, y le otorgó la calificación máxima de cinco estrellas",
+      "La banqueta posterior corre 16 centímetros sobre carriles: el maletero arranca en 530 litros y llega a 652 adelantándola y dejando los respaldos casi verticales",
+      "Su depósito admite 55 litros y esta ficha declara 940 kilómetros de autonomía, un planteamiento pensado para enlazar autopista sin parar a menudo",
+      "Es la tercera generación del Volkswagen que más se vende en el mundo, con más de 7,6 millones de unidades acumuladas desde su estreno en 2007",
+      "Los 360 Nm de par están disponibles desde la zona baja del cuentavueltas y toda la gama Tiguan actual es automática: aquí manda un DSG de siete relaciones"
     ],
     contras: [
-      "Etiqueta C: el diésel ya no tiene ventajas en ciudad",
-      "9,4 s de 0-100: correcto sin más",
-      "AdBlue, FAP y EGR: mantenimiento más caro que el gasolina",
-      "Por 8.000 € más tienes el eHybrid con etiqueta Cero",
-      "Reventa del diésel a la baja en el mercado",
+      "Cuesta 2.075 euros más que el Tiguan 1.5 eTSI de idénticos 150 CV de este comparador, y aquel suma etiqueta ECO frente a la C de este diésel",
+      "El salto al Tiguan eHybrid de 204 CV con distintivo Cero supone 6.055 euros adicionales según las tarifas recogidas en este mismo comparador",
+      "Firmar 9,4 segundos en la aceleración hasta los 100 km/h es un registro discreto para un SUV que se acerca a los 40.000 euros",
+      "El postratamiento suma depósito de AdBlue, filtro de partículas y recirculación de gases de escape: más componentes caros que en un gasolina y peor encaje si predominan los trayectos cortos",
+      "Esta configuración es únicamente de tracción delantera; para tener 4Motion con motor diésel hay que subir al TDI de 193 CV de la gama"
     ],
     largoMm: 4539,
     anchoMm: 1842,
@@ -432,6 +432,34 @@ export const COCHES_EXP7: CocheComparador[] = [
       },
     ],
     analisisSlug: "volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 5,
+      "nota": "Cinco estrellas en el ensayo de mayo de 2024: 83 % protegiendo a los adultos, 88 % a los niños, 84 % a peatones y ciclistas y 78 % en ayudas activas. La unidad evaluada era un Tiguan diésel de la configuración básica, como el de esta ficha",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Libro Volkswagen Service 2024 (Servicio Oficial Volkswagen): plan de mantenimiento de los modelos de combustión y operaciones programadas del diésel con cambio DSG",
+      "intervalo": "El propio cuadro avisa de cada visita según el régimen programado en el coche: fijo, con tope de un año o 15.000 km, o flexible LongLife, que puede estirar el intervalo hasta dos años o 30.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de aceite del motor EA288 evo",
+          "queSeCambia": "Lubricante nuevo con la especificación que exige Volkswagen para este bloque y su filtro correspondiente; en la misma visita se repone el AdBlue que falte en su depósito"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de inspección del Tiguan",
+          "queSeCambia": "Diagnóstico electrónico completo y repaso de frenos, neumáticos, alumbrado, batería de 12 voltios y niveles, con sustitución del filtro del habitáculo cuando lo marca su cadencia"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Trabajos programados del conjunto diésel y DSG",
+          "queSeCambia": "Al cumplir 90.000 km o seis años toca sustituir el filtro de gasóleo; el líquido de frenos se renueva en ciclos de dos años y el aceite del cambio DSG húmedo se cambia a los 60.000 km"
+        }
+      ]
+    },
   },
   {
     id: "volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica",

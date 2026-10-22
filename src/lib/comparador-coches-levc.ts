@@ -282,18 +282,18 @@ export const COCHES_LEVC: CocheComparador[] = [
     cargaRapidaKw: 10,
     etiquetaDgt: "Cero",
     pros: [
-      "Monovolumen 100 % eléctrico de 5,32 m con hasta 8 plazas de primera clase",
-      "Batería NMC de 116 kWh con 675 km de autonomía (ciclo CLTC)",
-      "Carga rápida: del 10 al 80 % en 30 minutos, 200 km en 10 minutos",
-      "Plataforma SOA de Geely: suelo plano y 75 % de aprovechamiento del espacio",
-      "Versión de 4 motores y 544 CV con 805 km de autonomía disponible en China",
+      "Estreno mundial de la arquitectura SOA de LEVC y Geely: se presentó el 25 de junio de 2024 en Wuzhen (China) tomando el nombre del Airbus A380 por su habitáculo",
+      "La variante Pro de esta ficha combina batería NMC de 116 kWh, un solo motor de 200 kW en el eje delantero y 675 km homologados en el ciclo chino CLTC",
+      "Cabina pensada como una primera clase rodante: cuero semianilina, butacas con calefacción y ventilación en las tres filas, nevera de 7,2 litros y equipo de sonido Yamaha de 14 altavoces",
+      "Once airbags repartidos por las tres filas, con cortina lateral de 112 litros por lado, y 5 estrellas del C-NCAP chino con un 90 % global en la unidad Pro de 116 kWh",
+      "Por encima del Pro, LEVC vendía dos variantes de doble motor y 400 kW (544 CV) con batería Qilin de CATL de 140 kWh: 785 km en la Max de ocho plazas y 805 km en la Ultra de seis"
     ],
     contras: [
-      "Solo a la venta en China: desde 379.900 ¥ (≈49.390 €)",
-      "Sin fecha confirmada de llegada a Europa",
-      "Tamaño de furgoneta: 5.316 mm de largo, complicado en ciudad",
-      "Autonomía CLTC: en ciclo europeo sería sensiblemente menor",
-      "Peso cercano a los 3.000 kg en orden de marcha",
+      "Su comercialización quedó limitada a China: para Europa no hubo tarifa ni fecha, y LEVC solo anticipó una llegada al Reino Unido en un plazo de dos años",
+      "El precio de lanzamiento duró poco: en marzo de 2025 Geely Galaxy absorbió a LEVC como su serie de monovolúmenes y rebajó el L380 de partida en 80.000 yuanes, hasta 299.900",
+      "Ventas discretas en su único mercado: 1.503 unidades vendidas en China durante todo 2024, según los datos de Gasgoo recogidos en su historial comercial",
+      "Los 675 km de esta versión son una homologación CLTC china: la prensa que lo condujo recomienda descontar en torno a una cuarta parte al estimar el alcance en carretera europea",
+      "Euro NCAP nunca llegó a ensayarlo: la marca se limitó a anticipar que esperaba las 5 estrellas, y la única nota publicada es la del organismo chino C-NCAP"
     ],
     largoMm: 5316,
     anchoMm: 1998,
@@ -309,16 +309,15 @@ export const COCHES_LEVC: CocheComparador[] = [
     imagen: "/media/levc-l380-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 3.96,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 550,
-      seguroAmpliadoAnual: 1100,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 212,
-      notas:
-        "Estimación orientativa: 15.000 km/año y recarga doméstica a 0,18 €/kWh. El L380 solo se vende en China; el precio es la conversión de 379.900 ¥ y el coste de importar no está incluido.",
-      estimado: true,
+      "costeEnergia100km": 3.96,
+      "costeMensualTotal": 212,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Presupuesto mensual calculado para la versión Pro de 116 kWh sobre 15.000 km anuales y electricidad doméstica a 0,18 €/kWh. Ojo con el precio de partida de la ficha: convierte los 379.900 yuanes del acabado básico Air de 100 kWh, mientras que el Pro de esta batería costaba 439.900 yuanes en el lanzamiento chino de junio de 2024; aranceles, transporte e impuestos de una hipotética importación quedan fuera.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1100,
+      "seguroTercerosAnual": 550
     },
     galeria: [
       {
@@ -341,5 +340,17 @@ export const COCHES_LEVC: CocheComparador[] = [
       },
     ],
     analisisSlug: "levc-l380-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado. LEVC anticipó en su lanzamiento que esperaba las 5 estrellas, pero Euro NCAP no ha publicado ensayo alguno del L380; la nota existente (5 estrellas, 90 % global) corresponde al C-NCAP chino y a la versión Pro de 116 kWh",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Sin plan oficial localizado: ni LEVC ni Geely Galaxy publican intervalos ni operaciones del L380 para Europa; no se trasladan la pauta genérica de Geely en China ni los intervalos de 40.000 km del TX y la VN5 británicos, porque son modelos y mercados distintos",
+      "intervalo": "LEVC no ha difundido un calendario de revisiones para este L380 fuera de China, y en España el modelo nunca llegó a comercializarse",
+      "revisiones": []
+    },
   },
 ];

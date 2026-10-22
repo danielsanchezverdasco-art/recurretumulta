@@ -764,18 +764,18 @@ export const COCHES_EXP11: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Monovolumen 100 % eléctrico de 5,32 m con hasta 8 plazas",
-      "Batería de 116 kWh con 675 km de autonomía (ciclo CLTC)",
-      "Carga rápida: del 10 al 80 % en 30 minutos",
-      "Plataforma SOA de Geely con suelo plano",
-      "Existe versión de 4 motores y 544 CV en China",
+      "Relanzado en marzo de 2025 bajo la marca Geely Galaxy, con precios en China desde 299.900 yuanes",
+      "Con la batería intermedia de 116 kWh homologa 675 km en ciclo CLTC y recupera el 80 % en media hora",
+      "En el ensayo chino C-NCAP sumó cinco estrellas y un 94,91 % en seguridad activa",
+      "Ocho ocupantes en cuatro filas de dos butacas: nadie viaja en un asiento corrido central",
+      "Debe su nombre al Airbus A380 y su trazo a Brett Boydell, diseñador llegado de Bentley"
     ],
     contras: [
-      "Desde ~49.390 €: precio de premium alemán",
-      "2.960 kg en orden de marcha",
-      "Sin test Euro NCAP",
-      "Red comercial mínima fuera del Reino Unido",
-      "Diseño que recuerda demasiado al Hyundai Staria",
+      "Sus ventas no despegaron ni tras el relanzamiento: 440 unidades entre marzo y julio de 2025 en China",
+      "Comprarlo en España hoy exige importación sin red propia: su llegada europea anunciada es solo al Reino Unido en 2026",
+      "Euro NCAP jamás lo ha probado: la única referencia de choque es el C-NCAP chino de 2024",
+      "Mover 5,32 metros y casi tres toneladas en ciudad castiga en cada maniobra y aparcamiento",
+      "Los 675 km anunciados salen del ciclo chino CLTC, más benévolo que el WLTP europeo"
     ],
     largoMm: 5316,
     anchoMm: 1998,
@@ -806,6 +806,12 @@ export const COCHES_EXP11: CocheComparador[] = [
       },
     ],
     analisisSlug: "levc-l380-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
   },
   {
     id: "levc-tx-2025-precio-ficha-tecnica",

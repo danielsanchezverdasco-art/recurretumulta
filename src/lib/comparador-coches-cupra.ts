@@ -1325,18 +1325,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 200,
     "aprox": ["emisionesCo2"],
     "pros": [
-      "333 CV y 420 Nm con tracción total 4Drive: el Formentor definitivo",
-      "61.344 € (tarifa oficial MY27): prestaciones premium con precio Cupra",
-      "El 2.0 TSI más potente montado en un Formentor",
-      "Chasis VZ con modo Cupra radical",
-      "Maletero de 420 L pese al 4Drive"
+      "El Torque Splitter reparte el par entre las dos ruedas traseras con dos embragues electrohidráulicos independientes y puede concentrarlo en la rueda exterior de la curva; de ahí sale el modo Drift, con el ESC en Sport, pensado únicamente para rodar en circuito",
+      "Hereda el puesto del VZ de 310 CV y 400 Nm del primer Formentor: el 2.0 TSI sube a 333 CV y 420 Nm, el 0 a 100 km/h baja de 4,9 a 4,8 segundos y la velocidad máxima se mantiene limitada a 250 km/h, siempre con DSG de siete marchas",
+      "La frenada específica que puede equipar lleva la firma de Akebono: pinzas fijas delanteras de seis pistones sobre discos de 375 mm, un equipo opcional pensado para sostener el ritmo que permiten sus 4,8 segundos en el 0 a 100 km/h",
+      "Corona la gama del primer coche creado solo para CUPRA, presentado en 2020 y fabricado en Martorell sin un gemelo equivalente en SEAT; la actualización de 2024 le dio el frontal de nariz de tiburón y la pantalla central de 12,9 pulgadas",
+      "Su maletero de 420 litros solo cede 30 frente a los Formentor de tracción delantera y conserva 75 más que el VZ e-Hybrid, porque aquí la tracción total roba menos espacio que la batería de 19,7 kWh del enchufable"
     ],
     "contras": [
-      "Etiqueta C: el Formentor con peor fiscalidad",
-      "Consumo real muy alto",
-      "El VZ e-Hybrid 272 ofrece etiqueta Cero por 8.364 € menos",
-      "A este precio, el Audi SQ2 aprieta",
-      "Solo para quien priorice prestaciones sobre todo"
+      "Sale 5.524 euros por encima del León Sportstourer VZ, que comparte motor, cambio, tracción y el mismo 0 a 100 km/h, y 10.090 euros por encima del Formentor VZ de 265 CV: el sobreprecio compra la carrocería SUV, no prestaciones extra",
+      "Homologa 200 g/km de CO2 —una cifra que la propia ficha marca como aproximada— y se queda con la etiqueta C, mientras el VZ e-Hybrid de 272 CV de su misma gama luce la Cero y cuesta 12.184 euros menos",
+      "El consumo homologado es de 8,7 litros, pero el coste por kilómetro de esta ficha ya se calcula con 9,5 litros reales; con 1.641 kg y la tracción total conectada, cada salida alegre se nota en el depósito",
+      "Ni los frenos Akebono de 375 mm ni la suspensión DCC de dureza variable vienen de serie: km77 los lista como opciones, así que el precio real de un VZ bien equipado se aleja de los 61.344 euros de partida",
+      "Se vende sin ningún tipo de electrificación —ni la ligera de 48 V del 1.5 eTSI ni la enchufable de los e-Hybrid—, así que no conoce el modo eléctrico ni las etiquetas ECO o Cero de sus hermanos de gama"
     ],
     "imagen": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-vz-333-2025-precio-ficha-tecnica-oficial.webp",
@@ -1352,7 +1352,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 325,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "gasolina aprox 9,5 L/100 km a 1,65 EUR/L",
+      "notas": "Estimación elaborada únicamente para este VZ de 333 CV suponiendo 15.000 km al año: el combustible se valora en 15,5 euros cada 100 km (gasolina a 1,65 euros el litro y un gasto real estimado en torno a 9,5 litros, por encima de los 8,7 homologados); sumados la póliza ampliada de 1.100 euros y los 480 euros anuales de revisiones se alcanzan 3.905 euros al año, cuyo reparto mensual da los 325 euros mostrados. El precio del kWh figura en la plantilla pero no interviene: este 2.0 TSI no se enchufa y carece de batería de tracción.",
       "estimado": true
     },
     "galeria": [
@@ -1383,16 +1383,16 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/en/results/cupra/formentor/57957",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "Cadencia anual o cada 15.000 km, lo primero que se cumpla, para el 2.0 TSI de 333 CV",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
-          "costeAproxEur": null,
-        },
+          "nombre": "Revisión del primer año o de los 15.000 km del VZ 333",
+          "queSeCambia": "Cambio del aceite del motor 2.0 TSI con su filtro, sustitución del filtro de polen del habitáculo y revisión general del coche, con control de frenos, neumáticos y niveles",
+          "costeAproxEur": null
+        }
       ],
       "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT"
     },
   },
   {

@@ -429,26 +429,38 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW", "potenciaPicoW", "bateriaWh"],
     pros: [
-      "La variante del D40 XL con suspensión: el confort que le faltaba al básico",
-      "40 km declarados con batería de 360 Wh",
-      "Ruedas hinchables de 10 pulgadas",
-      "Versión Connected con app",
-      "Precio verificado de 386 €: solo un poco más que el D40 XL básico",
+      "Doble amortiguación, delante y detrás: es lo que separa a esta referencia 09267 del D40 XL Connected a secas, y se agradece al cruzar juntas de dilatación, rejillas y tramos de adoquín",
+      "El techo de potencia sube a 800 W de pico con 350 W nominales según Cecotec, 100 W más que los 700 W del D40 XL sin suspensión, para encarar rampas moderadas sin cambiar de batería",
+      "Conserva el pack de 360 Wh (36 V y 10 Ah) y los 40 km declarados, cifra que la marca obtiene a 15 km/h constantes, en llano, a 25 °C y con 75 kg de carga total",
+      "Tres modos elegibles desde el display, cada uno con su velocidad y su alcance en el manual: Peatón limita a 6 km/h y anuncia 55 km, Confort llega a 18 km/h con 40 km y Sport abre hasta los 25 km/h",
+      "La parte Connected suma la aplicación de Cecotec gratuita durante dos años para gobernar funciones y seguir trayectos desde el móvil, y el conjunto añade intermitentes, pantalla LCD y sellado IPX4 contra salpicaduras"
     ],
     contras: [
-      "La suspensión suma peso (no publicado)",
-      "Sin certificado DGT verificado",
-      "La autonomía real ronda los 27 km",
-      "Ficha técnica parcial: varios datos son aproximados de la familia D40",
-      "Sin doble suspensión como el GS50 XXL",
+      "El manual sí publica el peso y es la cruz de esta versión: 24 kg, frente a los 17,4 kg del D40 XL Connected sin suspensión; cargarlo hasta un piso sin ascensor deja de ser un trámite",
+      "Entre el titular comercial y la calle hay 13 km de diferencia: la cifra útil que estima esta ficha son unos 27 km reales, no los 40 km de la prueba controlada de Cecotec",
+      "Precio enredado: la tienda de Cecotec lo lista a 329 € pero agotado, mientras esta ficha lo aproxima en 386 € a través de Pixmania; conviene contrastar ambas cifras antes de pagar",
+      "Cecotec rotula este modelo como homologado por la DGT en su propia página, pero la ficha mantiene el certificado sin verificar: antes de darlo por cerrado, toca pedir el certificado de circulación de la referencia 09267",
+      "El techo de carga baila entre fuentes de la propia marca: el manual fija 100 kg de usuario máximo y la comparativa web de Cecotec anuncia 120 kg, sin que haya una cifra única a la que agarrarse"
     ],
     veredicto:
-      "El D40 XL Suspension Connected es para quien dudaba entre el D40 XL y el GS50: mantiene los 40 km y añade suspensión por 386 €. Una opción intermedia honesta.",
+      "El D40 XL Suspension Connected (referencia 09267 de Cecotec) es el D40 XL pensado para calles malas: conserva la batería de 360 Wh y los 40 km declarados, pero añade doble amortiguación en ambos ejes, intermitentes y un pico oficial de 800 W, por 386 € aproximados en terceros —329 € en la tienda de la marca, donde figura agotado—. El peaje está en su propio manual: 24 kg de peso y recargas de 5 a 6 horas. Encaja si el trayecto diario es largo y el firme castiga; si hay que portearlo o subir escaleras cada día, el D40 XL sin suspensión, con sus 17,4 kg, sigue siendo la compra sensata.",
     fuenteNombre: "Pixmania",
     fuenteUrl: "https://www.pixmania.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
+      "actualizacionFirmware": "El enlace con el teléfono arranca escaneando el código QR que el manual reserva a la descarga de la aplicación de Cecotec y a su guía de vinculación; desde esa app se gobiernan las funciones de esta 09267 y se gestiona su software",
+      "aprieteTornilleria": "Las tuercas autorroscantes y demás fijaciones pierden eficacia con el uso y pueden necesitar reapriete, advierte el manual; en esta versión hay que vigilar además los anclajes de las dos suspensiones, que son las piezas que trabajan en cada bache",
+      "ajusteFrenosPasos": [
+        "Comprueba que el disco trasero conserve buen estado y quede alineado con su pinza: el manual incluye ese control entre las tareas del usuario y la caja trae una llave Allen pensada para facilitar el ajuste",
+        "Trata las pastillas como lo que el propio manual declara que son, consumibles: cuando su vida útil llegue al final toca sustituirlas, no seguir apurando el conjunto",
+        "Delante no hay disco que centrar, porque ahí actúa el freno electrónico eABS: una detención anómala en ese eje se investiga desde la electrónica y la aplicación, no con la llave Allen"
+      ],
+      "presionNeumaticos": "Antes de salir, el manual manda comprobar cómo están de aire las dos cubiertas de 10 pulgadas con cámara y avisa de que rodar bajo de presión recorta la vida útil de la batería; la cifra concreta va grabada en el flanco de cada neumático",
+      "trucos": [
+        "La suciedad y los residuos se acumulan dentro de las suspensiones y acaban afectando a su funcionamiento, dice el manual de la 09267: pásales un paño húmedo con regularidad en vez de esperar a que empiecen a crujir",
+        "Si el patinete va a dormir una temporada, déjalo cargado y dale otra recarga como mínimo cada mes mientras esté guardado, en un interior seco y nunca a la intemperie, dentro del intervalo de -10 °C a 35 °C que fija el manual para almacenarlo",
+        "Recarga únicamente con la unidad suministrada, de referencia CP4215, y si cambias una cubierta monta otra de idénticas características: el manual advierte de que un neumático diferente al original hace decaer la garantía del producto",
+        "Para limpiarlo basta un paño suave, siempre apagado y desenchufado; el manual prohíbe alcohol, gasolina, queroseno y productos corrosivos o abrasivos, sumergirlo en agua y lavarlo con agua a presión"
+      ]
     },
   },
   {

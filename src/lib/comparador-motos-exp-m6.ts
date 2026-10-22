@@ -267,26 +267,26 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     etiquetaDgt: null,
     aprox: [],
     pros: [
-      "Motor 4T de 449,9 cc con entrega brutal y controlable",
-      "Quickshifter de serie: cambios sin embrague a plena carga",
-      "Horquilla WP XACT de cartucho con ajuste manual sencillo",
-      "Solo 104,1 kg en seco: agilidad de 250 con potencia de 450",
-      "Electrónica de competición: mapas de potencia, control de tracción y launch control",
-      "Chasis actualizado para 2025 con mejor estabilidad a alta velocidad"
+      "Monocilíndrico SOHC de 449,9 cc con inyección Keihin de 44 mm y compresión 13,1:1, señalado en las comparativas como el 450 austriaco de entrega más progresiva",
+      "Horquilla WP XACT AER de 48 mm: trabaja con aire a presión, sin muelles, y su tarado de serie resulta más permisivo que el de la KTM para pilotos aficionados",
+      "Embrague DDS con hidráulica Braktec y compensación automática del desgaste: tacto constante manga tras manga sin andar ajustando la maneta",
+      "El bastidor de acero 25CrMo4 estrena en esta 2025 los recortes junto a la pipa y al anclaje del amortiguador que antes solo montaba la Factory Edition",
+      "Manillar Neken de aluminio colocado 12 mm más alto que en la 450 SX-F, con una postura algo más relajada para rodar tandas largas",
+      "Dentro del grupo Pierer ocupa el escalón de acceso a las 450: recorta en tijas forjadas e hidráulica Braktec para costar menos que sus hermanas naranja y blanca"
     ],
     contras: [
-      "Moto de circuito: no homologada, sin matrícula ni etiqueta DGT",
-      "11.925 € más equipación, mantenimiento y licencias",
-      "El 450 exige físico y técnica: no es moto para empezar",
-      "Revisiones frecuentes si se usa en competición",
-      "Consumo y desgaste de neumáticos elevados en uso intensivo",
-      "Solo apta para circuitos cerrados"
+      "En el manillar solo hay botones de arranque y parada: los dos mapas, el control de tracción, la ayuda de salida y el cambio rápido exigen comprar aparte el conmutador Map Select",
+      "Viene bloqueada en su cartografía suave y, sin cámara de resonancia en el colector, responde con menos inmediatez que la SX-F cuando se busca el último empujón",
+      "Su plan oficial se cuenta en horas, no en kilómetros: aceite y filtro nuevos tras la primera hora y después en cada escalón de 15 horas de uso",
+      "Nació únicamente para recintos cerrados: carece de alumbrado y de homologación viaria, así que cada jornada arranca cargándola en remolque o furgoneta",
+      "Asiento a 956 mm del suelo y empuje de 450 en un conjunto pensado para competir: en mangas largas castiga brazos y piernas a quien no entrene",
+      "La horquilla neumática obliga a vigilar su presión con bomba específica antes de rodar; quien prefiera olvidarse de ajustes echará en falta unos muelles clásicos"
     ],
     curiosidades: [
-      "Es la moto con la que GasGas compite en el Mundial de MXGP",
-      "El quickshifter permite subir marchas sin cortar gas ni usar el embrague",
-      "Su motor gira con un carácter muy lleno desde bajo régimen",
-      "Comparte la base técnica con la KTM 450 SX-F del grupo"
+      "Jorge Prado se coronó campeón del mundo de MXGP en 2023 con el equipo oficial Red Bull GASGAS Factory Racing, sobre la base de esta misma MC 450F",
+      "Es la única 450 de cross que confía frenos y embrague a Braktec; el resto de la parrilla de su clase recurre a Brembo o a Nissin",
+      "Su escape prescinde de la cámara de resonancia del colector y alarga el silencioso con una boca menor, receta que ablanda el carácter frente a las SX-F y FC 450",
+      "La familia MC llegó al catálogo en 2021, el estreno de la marca española en el motocross moderno ya integrada en el grupo austriaco"
     ],
     imagen: "/media/motos/gasgas-mc-450f-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -299,9 +299,45 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/774-gasgas-motos",
     analisisSlug: "gasgas-mc-450f-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      aceiteTipo: "SAE 10W-50 para el motor (especificación verificada)",
-      trucos: ["En uso de circuito, revisa el nivel de aceite antes de cada jornada"]
-    }
+      "aceiteTipo": "SAE 10W-50 para el monocilíndrico de 449,9 cc; en cada escalón se renueva junto al filtro y se limpian los tamices metálicos del circuito de engrase",
+      "cadenaPasos": [
+        "Con la rueda trasera elevada, comprueba la tensión de la cadena 520 sin retenes en el punto central del ramal inferior, tal como exige la tabla en cada escalón.",
+        "Límpiala con un producto compatible con cadenas sin retenes y retira la arena acumulada en plato y piñón de ataque antes de lubricar.",
+        "Aplica lubricante específico para uso fuera de asfalto y revisa el desgaste de la corona y del piñón, piezas de consumo rápido en una 450."
+      ],
+      "filtroAirePasos": [
+        "Retira la tapa lateral de la caja y saca el elemento de espuma con cuidado de que no caiga tierra dentro de la admisión de 44 mm.",
+        "Lávalo con limpiador específico para filtros de espuma, déjalo secar por completo y vuelve a impregnarlo con aceite para filtros sin escurrirlo a lo bruto.",
+        "Limpia también el interior de la caja y recoloca el elemento comprobando que selle en todo el contorno antes de cerrar la tapa."
+      ],
+      "intervaloMantenimiento": "Calendario por horas de funcionamiento, como manda su condición de moto de carreras: primera visita tras 1 hora y escalones siguientes cada 15 horas, con hitos ampliados a las 45 y a las 90 horas",
+      "trucos": [
+        "Gobierna todo por el cuentahoras: anota las horas tras cada manga y no dejes que la suma supere el escalón de 15 sin cambiar aceite y filtro.",
+        "Antes de salir a pista, verifica la presión de aire de la horquilla AER con una bomba de suspensiones; sin muelles, ese valor manda en todo el tren delantero."
+      ]
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario GASGAS MC 450F, tabla de servicio por horas de funcionamiento",
+      "intervalo": "Por horas de funcionamiento según el manual del propietario: primera revisión tras 1 hora y siguientes cada 15 horas, con operaciones ampliadas en los hitos de 45 y 90 horas",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Tras la primera hora",
+          "queSeCambia": "Aceite SAE 10W-50 y su filtro, limpieza de tamices, lectura de la memoria de averías con la herramienta de diagnóstico y comprobación general de aprietes"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 15 horas",
+          "queSeCambia": "Aceite y filtro renovados, filtro de aire limpio, control de tensión y estado de la cadena 520 y repaso de pastillas y discos Braktec de 260 mm delante y 220 mm detrás"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Hitos de 45 y 90 horas",
+          "queSeCambia": "A lo anterior se suman bujía y su capuchón, filtro de combustible, servicio de la horquilla WP XACT AER y del amortiguador trasero, y comprobación de la holgura de válvulas"
+        }
+      ]
+    },
   },
   {
     id: "gasgas-es-700-2024-ficha-tecnica-precio",

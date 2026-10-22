@@ -1107,18 +1107,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "V8 3.8 biturbo de 580 CV y 730 Nm",
-      "302 km/h: uno de los SUV más rápidos del mundo",
-      "0-100 en 4,1 s para 2.170 kg",
-      "Sonido V8 con modo Corsa",
-      "El último V8 de Maserati en un SUV",
+      "Debutó en el Salón de Nueva York de marzo de 2018 como el primer Levante construido alrededor de un motor V8, cuando la gama solo conocía los V6 de gasolina y diésel",
+      "Su bloque de 3,8 litros se ensamblaba en Maranello por Ferrari y presumía de la mayor potencia específica lograda hasta entonces por un propulsor con el tridente",
+      "Solo el Trofeo ofrecía el modo Corsa dentro de la familia Levante: bajaba la suspensión neumática, abría la válvula del escape y armaba la salida desde parado con Launch Control",
+      "Frena con discos delanteros perforados de 380 milímetros y pinzas monobloque de seis pistones, equipo dimensionado para detener 2.170 kilos lanzados a 302 km/h",
+      "Conserva los 580 litros de maletero y las cinco plazas del resto de la gama Levante pese a firmar una punta propia de un deportivo de la casa"
     ],
     contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C y consumos elevados",
-      "2.170 kg se notan en curva",
-      "Producción finalizada con el fin del V8",
-      "Mantenimiento de V8 biturbo de altas prestaciones",
+      "La factura española daba respeto: 196.900 euros costaba al llegar en 2019 y la última tarifa oficial del configurador subió hasta 200.700, siempre antes de opciones",
+      "Maserati homologa para él entre 13,2 y 13,7 litros a los cien, con 308 a 319 gramos de CO₂ por kilómetro: cifras de otra época para usarlo a diario",
+      "Lleva la etiqueta C colgada del parabrisas y ni un solo voltio de electrificación, así que dentro de una ZBE se mueve sin las ventajas reservadas a los ECO",
+      "Sus 2.170 kilos y la altura propia de un SUV se dejan sentir en los cambios de apoyo rápidos, por mucha suspensión Skyhook y tracción Q4 que monte",
+      "La saga se cerró en 2024 tras la edición V8 Ultima desvelada en Goodwood, y la marca no contempla sustituto de ocho cilindros: hoy ya es un descatalogado"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1135,14 +1135,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 24.98,
-      "seguroTercerosAnual": 1200,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1800,
       "costeMensualTotal": 729,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 1800,
+      "notas": "Matemática exclusiva de este SUV italiano: con 15.000 kilómetros recorridos en un año y los 13,5 litros a los cien que presupone el cálculo, el depósito traga 2.025 litros; multiplicados por 1,85 euros dan 3.746 euros de combustible, que unidos a los 3.200 del seguro amplio y a los 1.800 de mantenimiento reparten 729 euros por mes. El supuesto tampoco sale de la nada: la propia Maserati homologó entre 13,2 y 13,7 litros para el Trofeo",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 13,5 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3200,
+      "seguroTercerosAnual": 1200
     },
     galeria: [
       {
@@ -1164,6 +1164,44 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: este SUV cerró su etapa comercial sin pasar nunca por los choques del programa europeo, y ninguna de sus versiones obtuvo estrellas oficiales",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario europeo del Maserati Levante (edición MY22, tabla de operaciones principales y cupones de servicio, intervalo de 20.000 km o 2 años para Europa); Maserati España no publica precios cerrados de cada cupón, por eso todos los costes quedan a null",
+      "intervalo": "Cupones cada 20.000 km o dos años según el manual europeo del Levante, lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada cupón del Trofeo: aceite nuevo para el V8",
+          "queSeCambia": "Sustitución del aceite del motor y de su filtro en todas las visitas programadas, acompañada de prueba en carretera, diagnóstico electrónico de la casa y revisión de posibles fugas en motor e intercooler"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtro de polen en cada visita y líquido de frenos bienal",
+          "queSeCambia": "La tabla europea renueva el filtro de polen del habitáculo en cada cupón y ordena cambiar el líquido de frenos al cumplirse dos años, aunque su nivel y estado se inspeccionen en todas las citas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Bujías en el tercer y en el sexto cupón",
+          "queSeCambia": "El encendido del ocho cilindros estrena bujías en la tercera visita programada y repite la operación en la sexta, tal como reparte la tabla de operaciones principales del manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cuarto cupón: se renueva la correa de accesorios",
+          "queSeCambia": "La correa que acciona alternador, bomba de agua y compresor del climatizador en este motor se sustituye en el cuarto cupón, después de inspeccionarse en las visitas anteriores"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtro de aire y refrigerante dentro del ciclo largo",
+          "queSeCambia": "El filtro de aire del motor figura entre los recambios programados del Levante, mientras el líquido refrigerante aguanta hasta los diez años o los 240.000 kilómetros antes de su renovación"
+        }
+      ]
+    },
   },
   {
     id: "maserati-ghibli-gt-2024-precio-ficha-tecnica",
@@ -1641,18 +1679,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "V8 3.8 biturbo de 580 CV y 730 Nm",
-      "326 km/h: la berlina de lujo más rápida de Italia",
-      "0-100 en 4,5 s con 2.000 kg",
-      "El canto del cisne del V8 Maserati",
-      "Limusina y muscle car en un solo coche",
+      "Su V8 de 3.799 cc lo montaba Ferrari en Maranello siguiendo las especificaciones de Maserati: 580 CV a 6.750 rpm para la berlina insignia de Módena",
+      "Toda la fuerza va únicamente al eje trasero, con diferencial autoblocante: donde el Levante Trofeo recurre a la tracción total Q4, esta berlina apuesta por la propulsión clásica",
+      "Con 326 km/h de punta empata con el Ghibli Trofeo como la berlina Maserati más veloz jamás fabricada, heredera del primer Quattroporte de 1963, que ya fue la berlina de lujo más rápida de su época",
+      "El botón Corsa junto a la palanca activa el Launch Control y afila el cambio ZF de ocho marchas, mientras el habitáculo viste cuero Pieno Fiore con el nombre Trofeo bordado en los reposacabezas",
+      "Mide 5.262 mm con 3.171 mm de batalla y cerró la saga en julio de 2024: el último Quattroporte de la historia, el Grand Finale Fuoriserie entregado en Stresa, también llevaba este V8"
     ],
     contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C y consumos elevados",
-      "Producción finalizada con el fin del V8",
-      "2.000 kg se notan en carreteras viradas",
-      "Mantenimiento de V8 biturbo de altas prestaciones",
+      "La tarifa oficial española arrancaba en 214.750 €: son 42.450 € más que el Modena de 430 CV con el que comparte carrocería",
+      "Homologa entre 12,4 y 12,6 l/100 km WLTP con 279-285 g/km de CO₂ según Maserati España: ni en el ciclo más favorable baja de 10,3 l/100 km",
+      "Sin un gramo de electrificación se queda con la etiqueta C de la DGT: dentro de una ZBE española no obtiene ninguna de las ventajas de un híbrido ECO",
+      "Pesa 2.000 kg repartidos sobre 5,26 metros de largo: la suspensión Skyhook contiene las inercias, pero rinde mejor devorando autopista que enlazando horquillas de puerto",
+      "La producción se detuvo para siempre en 2024 y la red española del Tridente es diminuta: cada cupón anual toca hacerlo en servicio oficial para conservar valor y cobertura"
     ],
     largoMm: null,
     anchoMm: null,
@@ -1669,14 +1707,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 24.05,
-      "seguroTercerosAnual": 1400,
-      "seguroAmpliadoAnual": 3400,
-      "mantenimientoAnual": 1900,
       "costeMensualTotal": 725,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 1900,
+      "notas": "Cifra construida solo para esta berlina V8 de propulsión trasera: recorrer 15.000 kilómetros en doce meses suponiendo un gasto de 13,0 litros a los cien, con el litro a 1,85 euros, arroja 24,05 euros de gasolina por cada 100 km. A eso se añaden, para llegar a los 725 euros de cada mes, el seguro ampliado de 3.400 euros al año y una partida de 1.900 euros para su mantenimiento. Maserati España sí homologó un consumo WLTP para el Trofeo, entre 12,4 y 12,6 l/100 km, pero esta estimación conserva el supuesto de 13,0 con el que se calculó el coste de la energía.",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 13,0 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3400,
+      "seguroTercerosAnual": 1400
     },
     galeria: [
       {
@@ -1698,6 +1736,34 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: la sexta generación del Quattroporte jamás pasó por el programa europeo de ensayos de choque, así que esta versión Trofeo carece de calificación oficial de estrellas",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del Maserati Quattroporte, edición 2023 (tabla de operaciones principales reproducida en AutoUserGuide): primer cupón a los 20.000 kilómetros o cuando se cumple un año y los siguientes con ese mismo ritmo, líquido de frenos renovado cada dos años y correa de accesorios del V8 sustituida en el cuarto cupón. En la guía europea de 2021, en cambio, el intervalo se estiraba hasta los dos años recorriendo los mismos 20.000 km. Maserati España vende para este modelo sus planes de prepago Premium Service y, con frenos incluidos, Premium Service Plus, sin mostrar precios en su web, así que ningún coste de cupón se ha podido verificar y quedan a null",
+      "intervalo": "20.000 kilómetros o un año entre cupones, lo primero que se alcance",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Cupón programado / 20.000 km o 12 meses",
+          "queSeCambia": "En cada visita se renueva el aceite del V8 y se monta un filtro de aceite nuevo, se pasa el chequeo electrónico con Maserati Diagnosis y se controlan las posibles fugas del intercooler y del motor, además del repaso de frenos, neumáticos y articulaciones de la suspensión que detalla la tabla de operaciones del manual del Quattroporte"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada dos años",
+          "queSeCambia": "El líquido de frenos se inspecciona en todos los cupones y la tabla ordena renovarlo al cumplirse dos años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Operaciones propias del V8 de 3,8 litros",
+          "queSeCambia": "La correa de accesorios, que acciona el compresor del climatizador, la bomba de agua y el alternador, se revisa en cada cupón y se cambia en el cuarto; las bujías de encendido se sustituyen en el tercero y en el sexto, siempre según la tabla del plan programado"
+        }
+      ]
+    },
   },
   {
     id: "maserati-mc20-2024-precio-ficha-tecnica",

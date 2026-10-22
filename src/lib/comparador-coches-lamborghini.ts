@@ -645,18 +645,18 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "640 CV a cielo abierto: el V10 atmosférico se escucha mejor sin techo",
-      "Capota de lona que se pliega en 17 segundos hasta a 50 km/h",
-      "Tracción total con eje trasero direccional: tan rápido como el coupé (3,1 s)",
-      "274.805 €: el descapotable V10 más barato de la gama final del Huracán",
-      "LDVI y modos Strada/Sport/Corsa: un coche para cada momento",
+      "Debutó en el Salón de Ginebra de 2019 pintado en Verde Selvans de cuatro capas, color estrenado por la familia EVO",
+      "Su V10 atmosférico de 5,2 litros entrega 640 CV y 600 Nm justo detrás de los asientos, sin techo que amortigüe su sonido",
+      "Acelera hasta 200 km/h en 9,3 segundos y se detiene desde 100 en 32,2 metros, casi como el coupé cerrado",
+      "Al plegarse la lona en 17 segundos emergen dos aletas del color de la carrocería que prolongan la silueta hacia los respaldos",
+      "La luneta trasera baja con un mando eléctrico aunque la capota siga puesta, para oír el motor sin llegar a descapotar"
     ],
     contras: [
-      "Producción finalizada en agosto de 2024: solo quedan stock y ocasión",
-      "1.542 kg: 120 kg más que el coupé por el mecanismo de la capota",
-      "Etiqueta C: el descapotable también sufrirá las restricciones futuras",
-      "Con la capota puesta, la visibilidad y el ruido aerodinámico empeoran",
-      "El Temerario Spyder llegará para relevarlo: la reventa puede resentirse",
+      "Sant'Agata cerró la saga Huracán en 2024 y su sitio lo ocupa el Temerario de V8 híbrido: este EVO Spyder ya se busca entre coleccionistas y ocasión",
+      "Sus 1.542 kg suponen 120 kg extra frente al EVO coupé y se pagan con dos décimas más hasta los 100: 3,1 frente a 2,9 segundos",
+      "Maletero delantero de apenas 100 litros: dos bolsas blandas y poco más para escaparse un fin de semana en pareja",
+      "Homologa 14,2 litros a los cien con etiqueta C, así que las zonas de bajas emisiones acabarán tratándolo como a cualquier gasolina veterano",
+      "Lamborghini no le instala frenada automática de emergencia ni crucero adaptativo: aquí la electrónica se centra en correr, no en asistir en atascos"
     ],
     largoMm: 4520,
     anchoMm: 1933,
@@ -680,14 +680,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     ],
     costeMensual: {
       "costeEnergia100km": 26.27,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3800,
-      "mantenimientoAnual": 1500,
       "costeMensualTotal": 770,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 1500,
+      "notas": "Cuenta particular para este descapotable de 640 CV: recorrer 15.000 km en un año quemando 14,2 litros por cada cien deja 26,27 euros de gasolina a 1,85 euros el litro, y al sumar 3.800 euros de seguro ampliado y 1.500 de revisión anual estimada resultan unos 770 euros al mes",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 14,2 l/100 km (km77); solo mercado de ocasión/stock",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3800,
+      "seguroTercerosAnual": 1500
     },
     galeria: [
       {
@@ -709,6 +709,29 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado; el organismo europeo jamás ha sometido a choque a un Huracán, tampoco a esta variante descapotable de tracción total",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Pauta de servicios del Huracán publicada por Scuderia Car Parts, con el intervalo confirmado por el concesionario oficial H.R. Owen Lamborghini (9.000 millas o 12 meses); sin precios cerrados localizados para España, por eso los costes quedan a null",
+      "intervalo": "Una revisión cada 12 meses o cada 9.000 millas (unos 15.000 km), lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión, al año o a las 9.000 millas",
+          "queSeCambia": "Sustitución del aceite del V10 y de su filtro, diagnóstico electrónico completo de fábrica e inspección general del coche conforme a la pauta de Sant'Agata"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Segunda revisión, a los 2 años o 18.000 millas",
+          "queSeCambia": "Aceite y filtro renovados otra vez, más bujías, refrigerante del motor, filtro de polen y líquido de frenos, elementos que se cambian por calendario aunque el Spyder apenas ruede"
+        }
+      ]
+    },
   },
   {
     id: "lamborghini-huracan-evo-2024-precio-ficha-tecnica",

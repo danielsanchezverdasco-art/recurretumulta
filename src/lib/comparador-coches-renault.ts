@@ -1004,18 +1004,18 @@ export const COCHES_RENAULT: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "Batería de 52 kWh con 430 km WLTP: la autonomía buena del R5",
-      "150 CV con 0-100 en 8 s y chasis divertido",
-      "Carga rápida de 100 kW en continua",
-      "Diseño retro que enamora, hecho en Francia",
-      "Desde 31.085 €: el eléctrico con más carisma por su precio",
+      "Es la variante Comfort Range: 430 km WLTP homologados en la web española de Renault, frente a los 312 km de la Urban Range de 40 kWh",
+      "Premio Car of the Year 2025, galardón que compartió con el Alpine A290, su derivado deportivo sobre la base AmpR Small",
+      "La unidad número 100.000 fabricada en Douai fue un Techno con esta batería de 52 kWh, la combinación más demandada de la gama",
+      "Recupera del 15 al 80 % en una parada de media hora en corriente continua, donde acepta picos de 100 kW; en alterna, su cargador bidireccional de 11 kW permite V2L",
+      "150 CV y 245 Nm para mover 1.526 kg en 3,92 m de carrocería: por eso cierra el 0-100 en 8,0 segundos sin ser un deportivo"
     ],
     contras: [
-      "Maletero de 277 L, de los pequeños del segmento",
-      "Plazas traseras justas para adultos",
-      "150 km/h de máxima: sin alegría en autobahn",
-      "La versión de 40 kWh (300 km) se queda corta",
-      "Lista de espera en algunos acabados",
+      "Cuatro estrellas Euro NCAP en 2024 y no cinco: las asistencias se quedaron en un 68 %, bajo el umbral del 70 % exigido para la máxima nota, y no hay airbag central delantero",
+      "La segunda fila es su punto más débil en las pruebas: batalla corta, suelo elevado que obliga a flexionar las piernas y banqueta pensada para dos, no para tres",
+      "277 litros de maletero con umbral de carga alto, a unos 78 cm del suelo según las mediciones de prensa, y sin hueco delantero para guardar los cables",
+      "Hay que pagar 31.085 € por esta batería: son 4.264 € más que los 26.821 € de la versión de 40 kWh de la misma gama",
+      "Techo de potencia dentro del propio R5: con 150 CV no hay una versión más rápida; el salto prestacional obliga a irse al Alpine A290, que ya es otra tarifa"
     ],
     largoMm: 3922,
     anchoMm: 1774,
@@ -1038,7 +1038,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 96,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 15 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "Así sale la cuenta de esta versión concreta: con los 15 kWh/100 km que declara la ficha, hacer 1.000 km al mes pide 150 kWh. Pagando la luz doméstica a 0,18 €/kWh son unos 27 € mensuales de recarga, en línea con los 2,7 € por cada 100 km del objeto. Seguro y mantenimiento se mantienen como estimaciones de la ficha, sin pretender ser una tarifa oficial de Renault.",
       "estimado": true
     },
     galeria: [
@@ -1061,6 +1061,39 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 4,
+      "nota": "Cuatro estrellas en diciembre de 2024 y con esta variante como coche ensayado: la ficha oficial señala como modelo probado un Techno Comfort Range EV52 de 150 CV con volante a la izquierda. Sumó un 80 % protegiendo a adultos, otro 80 % con niños a bordo, un 76 % ante peatones y ciclistas y un 68 % en ayudas electrónicas; Euro NCAP anota la ausencia de airbag central y una excursión lateral calificada como marginal.",
+      "url": "https://euroncap.blob.core.windows.net/media/85165/euroncap-2024-renault-5-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Renault (renault.ie), apartado de mantenimiento de los E-Tech eléctricos: chequeo anual en la red, control de más de 86 puntos y calendario de fluidos y de batería auxiliar",
+      "intervalo": "Una visita al año a la red Renault, el ritmo recomendado por la marca para esta mecánica eléctrica",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Visita anual",
+          "queSeCambia": "Filtro de habitáculo nuevo dentro de una inspección que supera los 86 puntos de control"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "A los 3 años",
+          "queSeCambia": "Cambio del líquido del circuito de frenos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "A los 4 años",
+          "queSeCambia": "Batería auxiliar de 12 V nueva"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "A los 6 años",
+          "queSeCambia": "Renovación del líquido refrigerante del circuito de refrigeración"
+        }
+      ]
+    },
   },
   {
     id: "renault-4-e-tech-52-kwh-2025-precio-autonomia",
@@ -1328,18 +1361,18 @@ export const COCHES_RENAULT: CocheComparador[] = [
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
     pros: [
-      "26.821 €: el icono eléctrico a precio de utilitario",
-      "312 km WLTP con 40 kWh útiles",
-      "Diseño retro que enamora",
-      "1.447 kg: ligero para un eléctrico",
-      "Etiqueta Cero",
+      "Coche del Año en Europa 2025, título compartido con el Alpine A290 sobre la misma plataforma AmpR Small",
+      "Versión Urban Range de acceso: 122 CV, 225 Nm y 312 km WLTP por los 26.821 € de esta ficha",
+      "Nace en Douai, en la planta Ampere ElectriCity que superó las 100.000 unidades del modelo en 15 meses",
+      "Solo 1.447 kg y 3,92 m de largo: agilidad de urbano clásico con etiqueta Cero de la DGT",
+      "En continua admite 80 kW y pasa del 15 al 80 % en unos 30 minutos, suficiente para escapadas cortas"
     ],
     contras: [
-      "Maletero de 277 L, justo",
-      "150 km/h de máxima",
-      "Carga rápida de 80 kW, mejorable",
-      "9 s de 0-100: no es un GTI",
-      "La batería de 52 kWh cuesta bastante más",
+      "Euro NCAP lo dejó en 4 estrellas en 2024: las asistencias sacaron un 68 %, bajo el umbral de la quinta",
+      "Viajar ligero es obligado: 277 litros de maletero en un coche pensado sobre todo para ciudad",
+      "Carga rápida de 80 kW, por debajo de los 100 kW que ofrece la batería grande de 52 kWh",
+      "Quien necesite los 430 km WLTP del 52 kWh paga desde 31.085 €, unos 4.300 € más que esta versión",
+      "Desde parado tarda 9,0 segundos en alcanzar los 100 km/h, con la punta limitada a 150 km/h"
     ],
     largoMm: 3922,
     anchoMm: 1774,
@@ -1355,15 +1388,15 @@ export const COCHES_RENAULT: CocheComparador[] = [
     imagen: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 2.6,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 122,
-      precioKwh: 0.18,
-      precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 14.5 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
+      "costeEnergia100km": 2.6,
+      "costeMensualTotal": 122,
+      "estimado": true,
+      "mantenimientoAnual": 350,
+      "notas": "Nota calculada solo para este R5 de 40 kWh: homologa 14,5 kWh cada 100 km, así que recorrer 1.000 km en un mes consume en torno a 145 kWh. A 0,18 € por kWh, recargar en casa sale por unos 26 € mensuales. Las partidas de seguro y de revisión anual son orientativas para un urbano eléctrico de este tamaño, no una tarifa cerrada de Renault.",
+      "precioGasolinaL": 0.18,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 800,
+      "seguroTercerosAnual": 450
     },
     galeria: [
       {
@@ -1384,7 +1417,40 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {
+      "ano": 2024,
+      "estrellas": 4,
+      "nota": "4 estrellas en la evaluación publicada en diciembre de 2024: 80 % en ocupante adulto, 80 % en ocupante infantil, 76 % en usuarios vulnerables y 68 % en asistencias a la conducción. La propia ficha de Euro NCAP extiende la calificación a toda la gama R5 E-Tech, con las variantes EV40 Urban Range de 40 kWh citadas expresamente en su tabla de validez; el ejemplar ensayado fue un acabado Techno y faltó airbag central entre ocupantes delanteros.",
+      "url": "https://euroncap.blob.core.windows.net/media/85165/euroncap-2024-renault-5-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Página oficial de mantenimiento E-Tech eléctrico de Renault (renault.ie): paso anual por la red, filtro de habitáculo, líquido de frenos cada 3 años, batería de 12 V cada 4 años y refrigerante cada 6 años",
+      "intervalo": "Visita anual a la red oficial, el ritmo que Renault recomienda para sus eléctricos E-Tech",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual / 12 meses",
+          "queSeCambia": "Sustitución del filtro de habitáculo y chequeo de más de 86 puntos de control, el contenido que Renault describe para el servicio de sus E-Tech eléctricos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 3 años",
+          "queSeCambia": "Renovación del líquido de frenos, una de las sustituciones de fluidos que la marca programa en su gama eléctrica"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 4 años",
+          "queSeCambia": "Sustitución de la batería auxiliar de 12 V"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 6 años",
+          "queSeCambia": "Cambio del líquido refrigerante"
+        }
+      ]
+    },
   },
   {
     id: "renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica",

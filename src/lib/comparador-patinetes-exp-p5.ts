@@ -1647,23 +1647,38 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "11 kg: el Zwheel más ligero, se lleva a pulso sin drama",
-      "350 W con suspensión y ruedas de aire de 8,5\"",
-      "Manillar regulable en altura",
-      "Control de crucero y luces completas",
-      "Marca española con 5 años de garantía en su tienda oficial",
+      "Amortiguador trasero oculto: esa es la frontera con el E9 Basic, que rueda sin suspensión de ningún tipo",
+      "Bajo la plataforma viaja un pack de litio de 36 V con 7,5 Ah: son 270 Wh calculados, la energía que esta ficha deja sin publicar",
+      "Desde la aplicación de Zwheel se enciende o se apaga el crucero, se toca el límite de velocidad y se repasan los kilómetros recorridos",
+      "Panel LCD sobre el manillar que informa de velocidad, carga restante y luz encendida sin depender de la pantalla del móvil",
+      "Admite hasta 120 kg de conductor sobre un chasis de la serie E9 pensado para trayectos cortos encadenados"
     ],
     contras: [
-      "30 km declarados (~20 km reales)",
-      "Ruedas de 8,5\": menos estables que las de 10\"",
-      "350 W justos en cuestas",
-      "Batería en Wh no publicada",
-      "PVP en España no verificado de forma estable",
+      "Las fuentes se reparten entre 20 y 25 km por carga, así que los 30 km de esta ficha quedan como techo optimista frente a unos 20 km de uso real",
+      "Cubiertas de aire de 8,5 pulgadas: el diámetro corto filtra peor bordillos y adoquín que una rueda de 10 y suma el riesgo de pinchar por el camino",
+      "Con 350 W el llano se resuelve sin problema, pero una rampa larga y sostenida con un conductor cercano a los 120 kg lo deja sin reserva de empuje",
+      "Su peso tampoco cierra el círculo: conviven cifras de 11, de 12 y de 13,1 kg según dónde se consulte, así que no conviene comprarlo contando gramos",
+      "Ni certificado DGT acreditado en la ficha ni precio vigente localizado en la tienda de la marca: ambos extremos toca confirmarlos antes de circular o de pagar"
     ],
     veredicto:
-      "El Zwheel pluma: 11 kg con suspensión y crucero. Para el último kilómetro y el metro es perfecto; para rutas largas mira el ZFox Max o el ZWolf.",
+      "Presentado también como ZLion X, el E9D plantea la batalla contra el Xiaomi 1S con armas propias: amortiguador trasero escondido, aplicación con crucero y un LCD que lo cuenta todo. Encaja en recorridos breves combinados con metro o autobús; quien supere la veintena de kilómetros al día o encadene cuestas serias debería mirar los ZFox Max o ZWolf de la propia casa.",
     fuenteNombre: "Zwheel (ek.ua)",
     fuenteUrl: "https://ek.ua/en/ZWHEEL-E9D.htm",
+    mantenimientoDIY: {
+      "actualizacionFirmware": "La aplicación de Zwheel para iOS y Android, enlazada por Bluetooth, es la vía que la marca describe para renovar el firmware y consultar las estadísticas de cada viaje",
+      "ajusteFrenosPasos": [
+        "Con el E9D apagado, acciona la maneta y confirma que el disco trasero responde antes de salir, tal como pide la comprobación previa del manual",
+        "Si en pantalla aparece el código E15, el manual lo atribuye a un fallo de la propia maneta de freno y remite el caso al servicio de asistencia",
+        "Ante cualquier código de error visible en el display, la instrucción del fabricante es no seguir rodando y contactar con el soporte"
+      ],
+      "aprieteTornilleria": "El manillar se fija al mástil con cuatro tornillos que se aprietan uno a uno con la llave hexagonal incluida, buscando el mismo apriete en todos; al desplegar, el cierre de plegado tiene que encajar hasta oír el clic",
+      "intervaloRevision": "Antes de cada salida: el manual de la familia E9 ordena comprobar frenos y neumáticos, y exige apagar el patinete antes de plegarlo o de intervenir en él",
+      "trucos": [
+        "Mantén cerrada la tapa del puerto de carga cuando no estés cargando: el manual lo pide de forma expresa para proteger el conector",
+        "La carga se considera completa cuando el piloto del cargador cambia de rojo a verde; hay corte automático, pero el fabricante desaconseja dejarlo enchufado de más",
+        "Estrena el patinete con una carga completa previa, otra de las advertencias con las que abre el manual de la familia E9"
+      ]
+    },
   },
   {
     id: "zwheel-e9t",
