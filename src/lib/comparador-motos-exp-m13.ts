@@ -588,7 +588,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "EC 350F 2025",
     cilindradaCc: 350,
     categoria: "Enduro",
-    precioDesde: 11629,
+    precioDesde: 11195,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,

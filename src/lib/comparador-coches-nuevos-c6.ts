@@ -2643,7 +2643,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "X1 M35i xDrive",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 73750,
+    precioDesde: 75250,
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 540,

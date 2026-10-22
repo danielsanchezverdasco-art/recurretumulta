@@ -165,7 +165,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     modelo: "bZ4X 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 39500,
+    precioDesde: 39375,
     potenciaCv: 224,
     autonomiaKm: 569,
     maleteroL: 452,

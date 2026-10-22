@@ -552,7 +552,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     modelo: "Corolla GR Sport",
     tipo: "Híbrido",
     categoria: "Compacto",
-    precioDesde: 28000,
+    precioDesde: 27950,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: 361,

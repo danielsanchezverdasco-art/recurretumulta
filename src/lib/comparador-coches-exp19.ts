@@ -270,7 +270,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     modelo: "Espace E-Tech 200",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 41914,
+    precioDesde: 43500,
     potenciaCv: 200,
     autonomiaKm: 1100,
     maleteroL: 520,

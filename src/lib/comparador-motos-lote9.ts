@@ -971,7 +971,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "MCR-S",
     version: "MCR-S 2025",
     categoria: "Naked",
-    precioDesde: 13500,
+    precioDesde: 15890,
     potenciaKw: 14,
     potenciaCv: 19,
     cilindradaCc: null,

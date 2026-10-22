@@ -211,7 +211,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     tipo: "Gasolina",
     categoria: "Berlina",
     // Título ficha (sin precio, 50–60 car.): Audi A3 Sedan 2025 ficha técnica: 150 CV y medidas
-    precioDesde: 34200,
+    precioDesde: 34700,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 425,

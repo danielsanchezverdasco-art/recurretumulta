@@ -14,7 +14,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "CBR600RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 12700,
+    precioDesde: 13200,
     potenciaKw: 89,
     potenciaCv: 121,
     autonomiaKm: null,

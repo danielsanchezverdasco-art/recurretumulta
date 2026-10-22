@@ -1628,7 +1628,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "Tiger MY25",
     version: "Tiger MY25 2025",
     categoria: "Scooter",
-    precioDesde: 6590,
+    precioDesde: 5990,
     potenciaKw: 7.0,
     potenciaCv: null,
     autonomiaKm: 250,

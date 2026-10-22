@@ -1074,7 +1074,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     modelo: "Q3 Sportback e-hybrid",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 52100,
+    precioDesde: 60170,
     potenciaCv: 272,
     autonomiaKm: 118,
     maleteroL: 375,

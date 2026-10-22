@@ -24,7 +24,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     modelo: "CR-V e:HEV",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 48145,
+    precioDesde: 46745,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 588,

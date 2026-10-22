@@ -91,7 +91,7 @@ export const MOTOS_EXP_M15: MotoComparador[] = [
     modelo: "Monster",
     version: "Monster 2026",
     categoria: "Naked",
-    precioDesde: 12990,
+    precioDesde: 13190,
     potenciaKw: 81.6,
     potenciaCv: 111,
     cilindradaCc: 890,

@@ -423,7 +423,7 @@ export const COCHES_EXP12: CocheComparador[] = [
     modelo: "5 EV",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 26690,
+    precioDesde: 22890,
     potenciaCv: 204,
     autonomiaKm: 430,
     maleteroL: 370,

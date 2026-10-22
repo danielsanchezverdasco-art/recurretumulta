@@ -22,7 +22,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     modelo: "600",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 28498,
+    precioDesde: 24995,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 465,

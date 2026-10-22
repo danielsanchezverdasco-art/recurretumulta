@@ -163,7 +163,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     modelo: "208 PureTech 100",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 17330,
     potenciaCv: 100,
     autonomiaKm: null,
     maleteroL: 309,

@@ -1212,7 +1212,7 @@ export const COCHES_EXP10: CocheComparador[] = [
     modelo: "DS 3",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 33382,
+    precioDesde: 31524,
     potenciaCv: 145,
     autonomiaKm: null,
     maleteroL: 350,

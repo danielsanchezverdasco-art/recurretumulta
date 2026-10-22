@@ -103,7 +103,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     modelo: "3",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 81900, // Rear Motor 333 CV (MY2026, arquitectura 800 V)
+    precioDesde: 69900, // Rear Motor 333 CV (MY2026, arquitectura 800 V)
     potenciaCv: 333,
     autonomiaKm: 604, // Rear Motor (WLTP); el Dual Motor 544 CV llega a 635 km
     maleteroL: 484,

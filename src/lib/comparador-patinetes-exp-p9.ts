@@ -1740,7 +1740,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi 300X",
-    precioEur: null,
+    precioEur: 589,
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     bateriaWh: 608,

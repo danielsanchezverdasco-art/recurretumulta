@@ -1755,7 +1755,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi Air X",
-    precioEur: 1049,
+    precioEur: 1799,
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 50,

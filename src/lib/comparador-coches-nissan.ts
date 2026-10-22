@@ -604,7 +604,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     modelo: "Townstar Combi 1.3G 130 CV",
     tipo: "Gasolina",
     categoria: "Monovolumen",
-    precioDesde: 31928,
+    precioDesde: 27090,
     potenciaCv: 130,
     autonomiaKm: 790,
     maleteroL: 775,

@@ -891,7 +891,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     videoCanal: null,
     marca: "KuKirin",
     modelo: "KuKirin G2",
-    precioEur: 489.0,
+    precioEur: 519.0,
     potenciaNominalW: 500.0,
     potenciaPicoW: 800.0,
     autonomiaKm: 65.0,
