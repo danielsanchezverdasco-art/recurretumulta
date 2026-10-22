@@ -10576,3 +10576,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/swm-superdual-x-2025-ficha-tecnica-precio-hunt3.webp | https://editorial.pxcrush.net/bikesales/general/editorial/swm-superdual-x.jpg?width=1024&height=682 | bikesales.com.au | desconocida |
 | /media/navee-xt5-ultra-hunt1.webp | https://mibudin.is/wp-content/uploads/2026/03/Navee-XT5-Ultra-2.png | NAVEE (imagen oficial de producto) vía Mibudin | desconocida |
 | /media/navee-xt5-ultra-hunt2.webp | https://charlestech.fr/uploads/large/test-navee-xt5-ultra-charlestech-17-43c43113.webp | CharlesTech (foto real de su prueba del XT5 Ultra) | desconocida |
+| /media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt1.webp | https://media.evo.co.uk/image/private/s--F1nYH6Nl--/f_auto,t_content-image-full-desktop@1/v1783096611/evo/2026/07%20July/Ferrari%2012%20Cilindri%20Manuale%20reveal-6.jpg | Ferrari (foto de prensa oficial) vía evo | desconocida |
+| /media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt2.webp | https://www.planetcarsz.com/img/carros/galeria/2026/07/ferrari-12cilindri-manuale-2027-017-20260706152253-1280x925.jpg | Ferrari (foto de prensa oficial) vía PlanetCarsZ | desconocida |
+| /media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt3.webp | https://www.planetcarsz.com/img/carros/galeria/2026/07/ferrari-12cilindri-manuale-2027-016-20260706152253-1280x925.jpg | Ferrari (foto de prensa oficial) vía PlanetCarsZ | desconocida |
+| /media/honda-civic-e-hev-hunt1.webp | https://mobiwisy.fr/wp-content/uploads/CIVIC-MMC-7.jpg | Honda (foto de prensa oficial) vía Mobiwisy | desconocida |
+| /media/honda-civic-e-hev-hunt2.webp | https://de.mobiwisy.com/wp-content/uploads/CIVIC-MMC-2.jpg | Honda (foto de prensa oficial) vía Mobiwisy | desconocida |
+| /media/honda-civic-e-hev-hunt3.webp | https://mobiwisy.fr/wp-content/uploads/CIVIC-MMC-10.jpg | Honda (foto de prensa oficial) vía Mobiwisy | desconocida |
+| /media/cfmoto-800nk-2026-ficha-tecnica-precio-hunt1.webp | https://cfimages.cfmoto.com/cfmoto/nk800nkmf_fd55de4101.png | CFMOTO (imagen oficial del fabricante, web global cfmoto.com) | desconocida |
+| /media/cfmoto-800nk-2026-ficha-tecnica-precio-hunt2.webp | https://soymotero.net/wp-content/uploads/2026/04/MIKM2834.jpg | SoyMotero.net (prueba CFMOTO 800NK 2026) | desconocida |
+| /media/cfmoto-800nk-2026-ficha-tecnica-precio-hunt3.webp | https://soymotero.net/wp-content/uploads/2026/04/MIKM2718.jpg | SoyMotero.net (prueba CFMOTO 800NK 2026) | desconocida |
