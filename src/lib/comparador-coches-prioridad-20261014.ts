@@ -3408,8 +3408,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 5125,
     anchoMm: null,
@@ -3423,12 +3423,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "250 CV (183,8 kW)",
-      "0–100 km/h en 8,7 s",
-      "Maletero de 110 l"
+      "Es el primer monovolumen que Lexus vende en Europa: el LM nació en 2019 para los mercados asiáticos derivado del Toyota Alphard, y esta segunda generación, presentada en el Salón de Shanghái de 2023, llegó a España en octubre de ese año",
+      "En la versión de cuatro plazas, una partición con monitor panorámico HD de 48 pulgadas, panel de cristal que se puede oscurecer, nevera y equipo Mark Levinson 3D de 23 altavoces separa a los dos pasajeros traseros del conductor",
+      "Los dos asientos traseros de esa versión se reclinan hasta quedar totalmente horizontales y suman regulación eléctrica, calefacción, ventilación y siete funciones de masaje, con reposapiés extensibles como en la primera clase de un avión",
+      "Su sistema híbrido autorrecargable de 2,5 litros es el mismo que montan los NX 350h y RX 350h: 250 CV, tracción total E-Four, etiqueta ECO de la DGT y los 7,2 l/100 km homologados que declara esta ficha",
+      "Estrenó en Lexus el modo de Confort en los asientos traseros, que ajusta la suspensión variable adaptativa y el reparto de par para reducir el cabeceo de quienes viajan detrás, sobre la plataforma GA-K de batalla de 3,00 m"
     ],
     contras: [
-      "Sin datos EuroNCAP"
+      "El precio de esta ficha, 125.000 euros, corresponde a la versión de seis plazas en la tarifa española de lanzamiento: la de cuatro plazas, con su partición y su pantalla de 48 pulgadas, costaba 150.000 euros",
+      "No tiene nota Euro NCAP porque el organismo no lo ha ensayado: monta el mismo paquete Lexus Safety System+ que los NX, RX y RZ, pero ninguna calificación independiente respalda su seguridad en caso de choque",
+      "Con todos los asientos montados, el maletero publicado del modelo se queda en 110 litros, muy poco para un coche de chófer que recoja a sus pasajeros con equipaje en un aeropuerto o en un hotel",
+      "En España solo se ofrece una mecánica, el 350h, y un único acabado Luxury con interior negro o beige, y al acelerar a fondo el conjunto híbrido con cambio e-CVT se vuelve ruidoso, rompiendo el silencio que mantiene a ritmo tranquilo",
+      "Mide 1,94 m de alto y pesa 2.430 kg, con 5,125 m de largo: en garajes de gálibo justo y en calles estrechas se nota que es un monovolumen pensado para viajar detrás, no para maniobrar a diario"
     ],
     imagen: "/media/lexus-lm-350h-hero.webp",
     imagenOficial: "/media/lexus-lm-350h-2.webp",

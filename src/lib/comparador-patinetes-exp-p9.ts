@@ -361,22 +361,26 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     autonomiaRealKm: 20,
     aprox: ["autonomiaRealKm"],
     pros: [
-      "11,5 kg: ultraligero",
-      "500 W en formato bolsillo",
-      "Plegado compacto",
+      "Solo 11,5 kg con chasis de aluminio 6061 T6: se sube a pulso al tren o al maletero sin pedir ayuda",
+      "Motor brushless de 500 W en la rueda delantera, pensado en la gama S2 para atacar cuestas urbanas de hasta 25 grados",
+      "Plegado de 970 × 330 × 145 mm: queda plano contra la pared del recibidor o bajo un asiento del metro"
     ],
     contras: [
-      "Autonomía real de ~20 km",
-      "30 km/h: por encima del límite VMP",
-      "Ruedas pequeñas, poco confort",
+      "Con 281 Wh, los 40 km anunciados se quedan en unos 20 km reales: da para una ida y vuelta corta, no para enlazar recados todo el día sin cargar",
+      "Su punta de 30 km/h supera los 25 km/h permitidos a un VMP en España, así que para circular legal toca limitarlo y asumir que no es un patinete certificado tal cual viene",
+      "Neumáticos macizos de 8 pulgadas: nunca pinchan, pero transmiten cada junta y cada adoquín pese a llevar suspensión delantera y trasera"
     ],
     veredicto:
-      "El Booster Plus S es el E-TWOW clásico: 500 W y 11,5 kg para llevarlo a todas partes. Autonomía justa (~20 km reales), pero imbatible en portabilidad.",
+      "El Booster Plus S resume la obsesión con la que nació E-TWOW en Rumanía en 2013: hacer el patinete eléctrico más llevable posible. Hereda de la gama S2 el freno regenerativo KERS, las ruedas macizas de 8 pulgadas y el plegado rápido, y lo envuelve todo en 11,5 kg con 500 W. No busca autonomía —con unos 20 km útiles se queda corto fuera de la ciudad—, busca desaparecer plegado en el vagón y reaparecer justo en la puerta de la oficina.",
     fuenteNombre: "Electric Scooter Shop NZ",
     fuenteUrl: "https://www.electricscootershop.co.nz/products/e-twow-booster-plus-s-electric-scooter",
     mantenimientoDIY: {
-      actualizacionFirmware: "No documentada por el fabricante",
-      trucos: ["Las ruedas macizas de 8\" no pinchan: cero mantenimiento de neumáticos"],
+      "actualizacionFirmware": "No documentada por el fabricante",
+      "trucos": [
+        "Las ruedas macizas de 8 pulgadas no llevan cámara: olvídate de pinchazos y de hinchar, a cambio de revisar su desgaste en la banda de rodadura",
+        "Según el manual, cada mes toca lubricar los elementos móviles con spray de vaselina siliconada y comprobar que ningún tornillo se ha aflojado",
+        "Si lo dejas parado, el manual pide cargar la batería al menos cada tres meses y guardarlo limpio y seco para no acortar su vida útil"
+      ]
     },
   },
   {
@@ -467,22 +471,24 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     autonomiaRealKm: 22,
     aprox: ["autonomiaRealKm"],
     pros: [
-      "10,9 kg con 378 Wh",
-      "Pantalla LCD a color",
-      "650 W de pico",
+      "Solo 10,9 kg para una batería de 378 Wh: se sube a un piso o a un tren sin convertirlo en un suplicio",
+      "650 W de pico en la rueda delantera para arrancar con brío pese a admitir como máximo 100 kg de carga",
+      "Pantalla LCD a color de 30 × 26 mm con velocidad, batería, distancia y temperatura ambiente"
     ],
     contras: [
-      "40 km/h: muy por encima del límite VMP",
-      "Autonomía real de ~22 km",
-      "Precio alto para su tamaño",
+      "Sus 40 km/h de punta impiden usarlo como VMP en España y en la ficha no consta certificado DGT",
+      "La autonomía útil se queda en unos 22 km, diez menos que los 32 km declarados en la ficha técnica",
+      "Los neumáticos macizos de 8 pulgadas evitan pinchazos, pero transmiten cada junta y adoquín al manillar"
     ],
     veredicto:
-      "El Booster Sport es el E-TWOW más radical: 650 W de pico y 40 km/h en 10,9 kg. Diversión pura, pero fuera de cualquier marco VMP español.",
+      "El Booster Sport es la lectura deportiva de la fórmula E-TWOW: chasis plegable de aluminio, menos de 11 kg y empuje de sobra para el último tramo urbano, a cambio de renunciar a circular encajado en la categoría VMP española.",
     fuenteNombre: "Electric Scooter Guides",
     fuenteUrl: "https://www.electricscooterguides.com/reviews/e-twow-booster-sport",
     mantenimientoDIY: {
-      actualizacionFirmware: "No documentada por el fabricante",
-      trucos: ["El control de crucero ahorra batería en tramos largos y llanos"],
+      "actualizacionFirmware": "No documentada por el fabricante",
+      "trucos": [
+        "El crucero se activa manteniendo la misma velocidad durante 5 segundos: úsalo en rectas llanas y el freno regenerativo delantero hará el resto en las bajadas suaves"
+      ]
     },
   },
   {
@@ -1161,23 +1167,27 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     autonomiaRealKm: 15,
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Asiento plegable opcional",
-      "Plegado en un toque",
-      "Certificación UL2272",
-      "14 kg, manejable",
+      "Variante Fusion w/Seat con sillín atornillable: en el catálogo oficial de Gotrax es la versión con asiento del modelo (370 $ frente a 349 $ sin él) y permite alternar la postura en trayectos que de pie se hacen largos",
+      "Doble suspensión trasera sobre ruedas de 8,5 pulgadas, un extra de confort poco habitual en un Gotrax ligero de este tamaño y precio",
+      "Plegado en un toque y unos 14 kg en la versión sin asiento: se pliega por la mitad y cabe en un maletero o bajo un escritorio sin pelearse con el cierre",
+      "Pantalla digital con velocidad, nivel de batería y distancia, faro LED delantero y seguridad eléctrica certificada UL 2272 según la ficha oficial de Gotrax"
     ],
     contras: [
-      "28 km/h: supera el límite VMP",
-      "209 Wh: ~15 km reales",
-      "Batería pequeña",
+      "Sus 28 km/h (18 mph en la ficha oficial) rebasan el límite de 25 km/h de los VMP en España y no consta certificado DGT, así que tal cual se vende en EE. UU. no es un patinete pensado para la vía pública española",
+      "La batería de 36 V y 5,8 Ah (209 Wh) se queda en unos 15 km reales: cubre un desplazamiento corto de ida y vuelta, pero obliga a cargar a diario en cuanto el trayecto se alarga",
+      "Pensado para el mercado estadounidense: Gotrax lo vende en dólares, sin precio oficial en euros para España, y la variante con asiento sube el conjunto a unas 36 libras según su manual, lejos de los 14 kg de la versión básica"
     ],
     veredicto:
-      "El Fusion es el Gotrax versátil: versión con asiento plegable para alternar de pie y sentado. 209 Wh justos (~15 km), pero único en su concepto.",
+      "El Fusion es el Gotrax de los trayectos cortos con truco: un commuter ligero de 300 W y 209 Wh que, por su variante con sillín atornillable y su doble suspensión trasera, se puede usar sentado cuando el recorrido cansa de pie. No engaña en lo demás: unos 15 km reales, 28 km/h que lo dejan fuera de la normativa española de VMP y venta oficial solo en dólares. Encaja como patinete sencillo para recados y desplazamientos breves donde su configuración sea legal; para un commuting diario más largo, el XR Elite de la propia marca da más batería con la misma potencia.",
     fuenteNombre: "Gotrax (ficha oficial Fusion)",
     fuenteUrl: "https://gotrax.com/products/fusion-electric-scooter",
     mantenimientoDIY: {
-      actualizacionFirmware: "No documentada por el fabricante",
-      trucos: ["Existe versión con asiento plegable: útil para repartidores o trayectos largos", "Plegado en un toque: practicar el mecanismo antes de usarlo a diario"],
+      "actualizacionFirmware": "No documentada por el fabricante",
+      "trucos": [
+        "Si lo guardas una temporada, el manual de la versión con asiento pide dejar la batería entre el 50 % y el 70 % y recargarla cada 30-60 días, no guardarla agotada",
+        "Revisa periódicamente tornillos, pernos y conexiones, y ajusta la tensión del cable del disco trasero si la frenada se alarga: son las comprobaciones que el manual del Fusion Seat repite",
+        "Al montar el sillín de la variante w/Seat, comprueba su apriete antes de salir: es una pieza atornillada sobre la plataforma, no una parte fija del chasis"
+      ]
     },
   },
   {
@@ -2014,19 +2024,19 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Triple suspensión (delantera, trasera y deck)",
-      "17,7 kg: muy ligero para 624 Wh",
-      "Carga máxima de 140 kg",
-      "Manillar plegable compacto",
+      "Triple suspensión con doble muelle delante y detrás y un tercer muelle en la dirección, una combinación rara en un patinete de 17,7 kg",
+      "Plataforma de 22 por 7 pulgadas, la más amplia de la comparativa oficial de Voro frente a Splach Twin, Fluid Horizon y Fluid Mosquito",
+      "Batería LG de 48 V y 13 Ah —624 Wh en total— para una autonomía declarada de 51 km sin disparar el peso como en sus rivales más pesados",
+      "Mástil telescópico regulable y manillar que se pliega sobre sí mismo, para guardarlo en un maletero o apoyarlo junto a una mesa"
     ],
     contras: [
-      "40 km/h: muy por encima del límite VMP",
-      "Ruedas de 8\": pequeñas para baches",
-      "Sin certificado DGT verificado",
-      "Marca de EE. UU., soporte en Europa limitado",
+      "Sale de Voro con motor trasero de 500 W y punta de 25 mph —unos 40 km/h—, una configuración estadounidense que no encaja con el tope exigido a los VMP en España",
+      "Delante lleva neumático de 8 pulgadas con cámara y detrás uno macizo también de 8, así que bordillos y adoquines se notan pese a trabajar los tres muelles",
+      "No consta certificado de circulación de la DGT para este Touring: en las fuentes oficiales consultadas solo figura como producto de Voro Motors para Estados Unidos",
+      "La posventa pasa por Voro en California: garantía, diagnosis y envío de repuestos se tramitan desde allí, sin importador oficial en España localizado"
     ],
     veredicto:
-      "El EMOVE Touring es el commuter americano: 624 Wh, 17,7 kg y triple suspensión con manillar plegable. La batería LG de 48V 13Ah lo convierte en un rutero de bolsillo.",
+      "El Touring es el commuter de EMOVE pensado para ir cómodo sin irse a ruedas grandes: plataforma ancha, triple muelle y 624 Wh de LG en 17,7 kg. Frente a un Fluid Mosquito gana en superficie para los pies y en carga admisible —140 kg—, pero nace para el mercado estadounidense, con 40 km/h de punta y sin certificado DGT acreditado.",
     fuenteNombre: "Voro Motors (fabricante EMOVE)",
     fuenteUrl: "https://www.voromotors.com/blogs/news/emove-touring-electric-scooter-maintenance-guide",
     mantenimientoDIY: {
