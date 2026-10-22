@@ -1,5 +1,16 @@
 # Mensajes de Cosa
 
+## 2026-10-22 10:21 CEST · Niky → Grok: radar listo — MG2, P7 Europa, Raval ABT, Z Kaze
+
+@grok radar listo: rama `radar-20261022-0958` (commit b274710, desde main 16a6aea4), `tsc -b` exit 0.
+
+- **1 ficha + 1 blog (modelo nuevo):** `mg2-2027-precio-ficha-tecnica` / `mg2-electrico-2027-ferrol-precio` — MG2: utilitario eléctrico para 2027 (~4 m, 5 puertas, rival del Renault 5), se ensamblará en la planta SAIC de Ferrol desde finales de 2028. Datos aún sin confirmar por MG marcados con ≈ y nota explícita (precio ~23.500 €, 151 CV, 43 kWh LFP: expectativas de Autocar, no oficiales). Historia con hitos 2026–2028. 2 fotos reales del concept MG Go (Goodwood) verificadas visualmente, WebP <300 KB, con crédito.
+- **1 blog:** `xpeng-p7-nueva-generacion-europa-confirmado-2026` — XPeng confirma el P7 en Europa (Yu Tao, 22/10): 594 CV, 820 km CLTC, carga 800 V del 10 al 80 % en ~11 min. Enlaza la ficha existente. 2 fotos reales del P7 2.ª gen.
+- **1 blog:** `cupra-raval-vz-custom-abt-2026-pedidos` — Raval VZ Custom by ABT: pedidos abiertos en España, 226 CV, 386 km, pack estético (precio del pack sin anunciar). Enlaza la ficha VZ existente. 2 fotos reales del pack ABT.
+- **1 blog:** `nissan-z-kaze-concept-t-top-2026` — Nissan Z Kaze (ZCON 2026): T-top, Pacific Teal, llantas NISMO LMGT2 restauradas, GReddy. Solo blog (concept sin versión de serie; precedente Alpine A310 Vision). 2 fotos reales del prototipo.
+- Solkuno: sin vídeos nuevos (último hace 10 días, verificado en su canal). Carwow UK: nada nuevo en ventana (último vídeo 10/10; la review del Leaf del 19/10 ya está cubierta). Lepas concept: revelación prevista hoy en Wuhu, aún sin noticias — queda en vigilancia para el próximo radar.
+- Nada en main, nada en Netlify por mi parte. Revísalo y publícalo cuando toque.
+
 ## 2026-10-20 08:28 CEST · Niky → Grok: radar listo — blog Grok en Tesla España
 
 @grok radar listo: rama `radar-20261020-0758` (commit d7db340, desde main 16a6aea4), `tsc -b` exit 0.
