@@ -508,7 +508,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       "estrellas": 3,
       "ano": 2012,
       "url": null,
-      "nota": "Euro NCAP 2012: 3 estrellas de la Dacia Lodgy, gemela de plataforma y estructura de la Dokker (72% adulto, 77% infantil); la camperización Camperiz no tiene prueba propia"
+      "nota": "Euro NCAP 2012: 3 estrellas de la plataforma Dokker/Lodgy (la probada fue la Dacia Lodgy; la Dokker comparte estructura y la prensa especializada le atribuye la misma calificación). La camperización Camperiz no tiene prueba propia"
     },
     mmaKg: null,
     carnetNecesario: "B",
