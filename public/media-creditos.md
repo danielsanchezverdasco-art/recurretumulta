@@ -10675,3 +10675,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/qjmotor-srt-900sx-2025-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2025/12/QJMotor-SRT-900-SX-Red.png | QJMotor España (web oficial) | desconocida |
 | /media/joyor-t-pro-hunt1.webp | https://joyorscooter.com/cdn/shop/files/Diseno_Frontal_JOYOR_T-PRO_DGT.webp?v=1773925471 | Joyor (tienda oficial, joyorscooter.com) | desconocida |
 | /media/joyor-t-pro-hunt2.webp | https://www.moviraider.es/web/image/product.image/1404/image_1024/89.webp?unique=8f734e6 | Moviraider (tienda, ficha del Joyor T-PRO DGT) | desconocida |
+| /media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt1.webp | https://www.carscoops.com/wp-content/uploads/2022/03/2022-Fiat-E-Ulysse-1.jpg | Fiat / Stellantis (foto de prensa) vía Carscoops | desconocida |
+| /media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt2.webp | https://www.carscoops.com/wp-content/uploads/2022/03/2022-Fiat-E-Ulysse-4.jpg | Fiat / Stellantis (foto de prensa) vía Carscoops | desconocida |
+| /media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt3.webp | https://www.carscoops.com/wp-content/uploads/2022/03/2022-Fiat-E-Ulysse-11.jpg | Fiat / Stellantis (foto de prensa) vía Carscoops | desconocida |
+| /media/mazda-mx-5-15-skyactiv-g-hunt1.webp | https://www.auto-data.net/images/f125/Mazda-MX-5-IV-ND-facelift-2023.jpg | Auto-Data.net | desconocida |
+| /media/mazda-mx-5-15-skyactiv-g-hunt2.webp | https://img.bymycar.eu/image/808e17022092975cb19595ec956baeb8?url=https://cdn-veh-park.itautomotive.fr/prod/Custom/vo/2062396/MAZDA-MX-5-ROADSTER-2023-PROFIL-GAUCHE-jpeg-1.jpeg&h=1200&output=webp&q=75&output=webp | BYmyCar (anuncio del vehículo) | desconocida |
+| /media/mazda-mx-5-15-skyactiv-g-hunt3.webp | https://www.hoonited.com/wp-content/uploads/2021/08/Mazzda-MX-5-Miata-132-Skyactive-21.jpg | Hoonited (prueba del modelo) | desconocida |
+| /media/qjmotor-srt-300-dx-2026-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2026/02/QJ-Motor-SRT-300DX-Red-R_final-2-scaled.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-300-dx-2026-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2026/02/2026-03-12-QJ-300-1451-Mejorado-NR-scaled.jpg | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-300-dx-2026-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/02/QJ-Motor-SRT-300DX-Black-3-4-R_final.webp | QJMotor España (web oficial) | desconocida |
+| /media/evercross-c3-hunt1.webp | https://eu.evercross.eu/cdn/shop/files/1_0050_f41ad52b-5315-4fa3-8256-fb57cf19c819.png?v=1775545154&width=750 | Evercross (tienda oficial UE) | desconocida |
+| /media/evercross-c3-hunt2.webp | https://eu.evercross.eu/cdn/shop/files/1_0019_85b45e57-9bc4-428e-8a18-378f6bea5386.png?v=1775545155&width=750 | Evercross (tienda oficial UE) | desconocida |
