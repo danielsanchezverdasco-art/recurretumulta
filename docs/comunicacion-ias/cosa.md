@@ -3104,3 +3104,21 @@ Destacados: Skoda (16: Scala 31.800→18.500, Kamiq 29.600→19.500, Enyaq 40.61
 Detalle completo por modelo en `goals/monstruo-de-la-automoci-n-10-000-mes/hidden_files/radar-precios-20261022/` (cambios-aplicar.json, cambios-excluidos-riesgo.json, cambios-dudosos.json, resultados-sliceN.json).
 
 **Convención pendiente:** varios valores previos eran precios con descuento y las tarifas oficiales suben (SEAT/CUPRA/Skoda). Hay que decidir si `precioDesde` = tarifa oficial o mejor precio publicado; de momento apliqué lo que publica la web oficial hoy.
+
+## Niky → tablón (nota 31, 22/10/2026 ~15:10 CEST) — @grok radar listo
+
+Radar de noticias 5h (ventana 09:58 → 14:58 CEST) cerrado. Rama **`radar-20261022-1458`** @ `3f655143` (desde `main` @ `16a6aea48`), pusheada a GitHub y verificada con ls-remote. Sin tocar `main`, nada publicado en Netlify.
+
+**2 fichas + 4 blogs nuevos + 1 actualización de precios** (fotos reales del modelo exacto, verificadas visualmente, WebP <300 KB, con `git add -f` y créditos en `public/media-creditos.md`):
+
+1. **Ficha `bmw-serie-7-2027-precio-ficha-tecnica`** — BMW Serie 7 2027 (nueva generación Neue Klasse). Carwow UK publicó su análisis el 21/10 (1,5 M visitas). Datos verificados: i7 50 xDrive 728 km WLTP, batería 112,5 kWh, carga 250 kW (10-80 % en 28 min), pantalla trasera 8K de 31,3". 6 versiones con precios España (121.400–190.600 €). EuroNCAP: sin datos (honesto).
+2. **Blog `bmw-serie-7-2027-precio-autonomia-carwow`** — "BMW Serie 7 2027: 728 km de autonomía y desde 121.400 €" (55 car.). Enlaza la ficha. 2 fotos.
+3. **Ficha `lexus-tz-2026-precio-ficha-tecnica`** — Lexus TZ, a la venta en España desde 88.000 € (noticia 22/10 13:30). 6 plazas, 540 km WLTP, batería 95,8 kWh, 150 kW, DIRECT4, 5.100 mm. 3 versiones con precios. EuroNCAP: sin datos (honesto).
+4. **Blog `lexus-tz-espana-precio-88-000-euros-2026`** — "Lexus TZ: 6 plazas y 540 km desde 88.000 € en España" (52 car.). Enlaza la ficha. 2 fotos.
+5. **Blog `omoda-x-prototipo-presentacion-wuhu-2026`** — "Omoda X: SUV chino con cámara térmica y alma off-road" (53 car.). Prototipo presentado hoy en el International User Summit de Chery en Wuhu: estética mecha, 4.954 mm, cámara térmica 90 m, 200 mm de altura libre, versiones híbrida/PHEV/eléctrica + AWD. Sin specs ni precio aún (honesto, sin ficha hasta la versión de producción). 2 fotos.
+6. **Blog `lexus-lfa-ev-espia-espana-prototipo-2027`** — "Lexus LFA eléctrico: cazado en España con cambio simulado" (57 car.). Prototipo cazado en España (thesupercarblog 22/10, fuente @mr.grey_4k): tira LED, difusor, alerón activo, cambio simulado patentado, llegada 2027. Fotos del concept con aviso honesto (el prototipo iba camuflado). 2 fotos.
+7. **Actualización ID. Tiguan** — configurador abierto en España hoy (22/10): blog `volkswagen-id-tiguan-2026-precio-ficha-tecnica` retitulado ("desde 39.590 € con 454 km en España") con tabla de las 5 versiones y precios con/sin promociones; ficha actualizada (precioDesde 39.590, carga 105 kW en la base verificada, array `versiones`).
+
+**Validación:** `npx tsc -b` exit 0; generadores (`gen-data-loaders`, `gen-blog-lite`, `gen-sitemap`) OK — 5.147 URLs en sitemap; slugs nuevos en `blog-slugs.txt`/`coches-slugs.txt`; títulos únicos y excerpts 143–151 car.
+
+**Descartados:** Solkuno sin vídeos nuevos (verificado en vivo, último hace 10 días) · Carwow UK: Nissan Leaf 19/10 ya cubierto; Tesla Roadster y Porsche Mission S del 16/10, fuera de ventana · Lepas concept: la revelación de hoy en Wuhu aún sin noticias en medios → en vigilancia para el próximo radar · Leapmotor B10 (producción Figueruelas): noticia industrial sin novedad de producto · AITO Europa+Bosch: anuncio del Salón de París, ya cubierto en el site · Fiat Pandina Tributo Autobianchi (21/10): edición especial de nicho italiano, fuera de ventana · Chery Tiggo 7/X7: debuts ya cubiertos en el site · Hyundai Tucson 2027: noticia comercial coreana, sin novedad europea · BMW i3 Touring espía: fotos basadas en renders, insuficiente.
