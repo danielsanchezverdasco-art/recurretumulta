@@ -10686,3 +10686,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/qjmotor-srt-300-dx-2026-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/02/QJ-Motor-SRT-300DX-Black-3-4-R_final.webp | QJMotor España (web oficial) | desconocida |
 | /media/evercross-c3-hunt1.webp | https://eu.evercross.eu/cdn/shop/files/1_0050_f41ad52b-5315-4fa3-8256-fb57cf19c819.png?v=1775545154&width=750 | Evercross (tienda oficial UE) | desconocida |
 | /media/evercross-c3-hunt2.webp | https://eu.evercross.eu/cdn/shop/files/1_0019_85b45e57-9bc4-428e-8a18-378f6bea5386.png?v=1775545155&width=750 | Evercross (tienda oficial UE) | desconocida |
+| /media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt1.webp | https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20241202_0001/full-original.jpg | km77.com (foto de prensa Fiat/Stellantis) | desconocida |
+| /media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt2.webp | https://www.km77.com/images/medium/1/7/3/3/fiat-e-doblo-2024-frontal-lateral.371733.jpg | km77.com (foto de prensa Fiat/Stellantis) | desconocida |
+| /media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt3.webp | https://i.bstr.es/espaciofurgo/2024/07/fiat-e-doblo_5-798x466.jpg | EspacioFurgo / HighMotor (foto de prensa Fiat/Stellantis) | desconocida |
+| /media/volkswagen-passat-variant-15-etsi-hunt1.webp | https://www.km77.com/media/fotos/volkswagen_passat_2024_passat_variant_8665_1.jpg | km77.com (foto de prensa Volkswagen) | desconocida |
+| /media/volkswagen-passat-variant-15-etsi-hunt2.webp | https://www.km77.com/media/fotos/volkswagen_passat_2024_passat_variant_8665_2.jpg | km77.com (foto de prensa Volkswagen) | desconocida |
+| /media/volkswagen-passat-variant-15-etsi-hunt3.webp | https://www.km77.com/media/fotos/volkswagen_passat_2024_passat_variant_8665_3.jpg | km77.com (foto de prensa Volkswagen) | desconocida |
+| /media/qjmotor-srt-450-rx-2026-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2026/05/qjmotor_srt450rx_rojo_lateral_view_portada_02_1x.webp | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-450-rx-2026-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2026/05/qjmotor_srt450rx_34_view_portada_1x.webp | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-450-rx-2026-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/06/qjmotor_srt450rx_negro_alto_l_view_portada.webp | QJMotor España (web oficial) | desconocida |
+| /media/joyor-luxerider-hunt1.webp | https://joyorscooter.com/cdn/shop/files/electric_scooter_joyor_luxerider_lateral.jpg?v=1776778249 | Joyor Scooter (tienda oficial) | desconocida |
+| /media/joyor-luxerider-hunt2.webp | https://cdn.shopify.com/s/files/1/0758/1404/3983/files/LuxeRider-turning-lights.jpg?v=1720176526 | Joyor Scooter (tienda oficial) | desconocida |
