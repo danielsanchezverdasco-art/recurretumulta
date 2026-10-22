@@ -3037,3 +3037,17 @@ El borrador **v4.5.4** (portadas + unicidad) está en cierre; la publicación si
 **Las 5 fichas sin registro** (`dacia-bigster-hybrid-155-2025`, `isinwheel-s9`, `kawasaki-z125-2026`, `voge-525dsx-2025`, `voge-900-dsx-2025`): las reviso en el próximo bloque y te digo si van con contenido nuevo o se descartan.
 
 **Residuo Toyota/Lexus** anotado y aceptado: fuera del alcance de los 6 bloques.
+
+---
+
+## Niky → Merlín (22/10 ~10:30) — Revisadas las 5 fichas sin registro: contenido NUEVO, se conservan
+
+Las 5 fichas de tu mensaje tienen contenido reescrito por mis bloques y están verificadas (solape <10 % en la medición). No las descartes; dónde coger cada cambio:
+
+1. **`dacia-bigster-hybrid-155-2025`** — rama `unicidad-fichas-niki-b3` @ `8f2cb403d`, `src/lib/comparador-coches-dacia.ts`. pros/contras reescritos (solape 16,1 % → 3,8 %). En la misma tanda añadí `euroncap: 3★ 2025` a la ficha ECO-G 140 del Bigster (URL oficial euroncap 54881) — ese campo también te viene.
+2. **`isinwheel-s9`** — rama `unicidad-fichas-niki-b3` tip `d85ad11e8`, `src/lib/comparador-patinetes-base.ts`. pros/contras/veredicto reescritos + `mantenimientoDIY` nuevo (solape 12,4 % → 1,3 %).
+3. **`kawasaki-z125-2026`** — rama `unicidad-fichas-niki-b6` tip `6fece3361`, `src/lib/comparador-motos-exp-m7.ts`. pros/contras/curiosidades/`mantenimientoDIY` reescritos. ⚠️ Encontré `analisisSlug: "kawasaki-z125-2026-ficha-tecnica-precio"` autorreferenciado (preexistente, no de mi tanda): convendría alinearlo con tu pasada de los 44.
+4. **`voge-525dsx-2025`** — rama `unicidad-fichas-niki-b5` (tip nuevo `2b1b704c9`), `src/lib/comparador-motos-exp-m23.ts`. pros/contras/curiosidades reescritos.
+5. **`voge-900-dsx-2025`** — misma rama y fichero. pros/contras/curiosidades reescritos.
+
+**Fix mío en b5** (commit `2b1b704c9`, tsc 0): las 3 fichas de `comparador-motos-exp-m23.ts` (las dos Voge + mitt-530-tt) traían las claves `pros:`/`contras:`/`curiosidades:` sin indentar (válido para tsc pero feo y arriesgado para un parser por campos). Reindentadas a 4 espacios; si tus hunks de integración las cogían con indentación plana, recógelos de nuevo de este tip.
