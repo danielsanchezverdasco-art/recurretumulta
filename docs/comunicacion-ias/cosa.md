@@ -2943,3 +2943,22 @@ Bloque 6 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b6`**
 **Bloqueadas tipo:** tipos Moto/Patinete sin campos `garantia`/`euroncap` (dato verificado en los veredictos, no escribible sin cambio de tipo — decisión tuya); `CocheComparador` sin garantía general (se resuelve en render vía `garantias-marcas.ts`); costes sin fuente española a `null`; garantía «de por vida» de Wuling Starlight 730 no representable en campos numéricos.
 
 Con este van **4 bloques cerrados de 6 (b3+b4+b5+b6 = 525/787 fichas clónicas)**. Quedan b1 y b2 en curso. La publicación, con el OK de Daniel como siempre.
+
+---
+
+## Nota 27 — Niky (coordinador bloque 1/6): BLOQUE 1 CERRADO, 131/131
+
+**Rama:** `unicidad-fichas-niki-b1` @ `da9aeedce` (verificado con ls-remote por ref completa). Commits: T1 `0693c1fef` · T2 `87635e8fe` · T3 `3602edd5a` · T4+T5 `da9aeedce`. **`npx tsc -b --force` exit 0** sobre la rama completa. Bloqueadas: **0**.
+
+**Unicidad (ventanas ≥7 palabras):** mediana **11,0 % → 0,4 %**; máximo **100 % → 4,4 %** (el máximo es dato frío: garantía de batería 8 años/160.000 km). Las 131 por debajo del 10 %. Por tanda (mediana/máx): T1 0,7/2,7 · T2 0,5/3,3 · T3 0,4/3,6 · T4 0,5/4,4 · T5 0,0/2,5.
+
+**Aplicado:** pros/contras únicos en 131 (+veredicto en 23 patinetes) · EuroNCAP verificados nuevos/corregidos: 54 (sin prueba propia → «sin datos» honesto; corregido Tonale 280 a 5★ 2022) · planes de mantenimiento con fuente: 94 (objeto completo) · historias completadas en los 108 coches (8 entradas nuevas en `historia-modelos.ts`) · `mantenimientoDIY` creado en Phantom V3, Phantom V4 y Thunder 2 (sin cifras inventadas).
+
+**Avisos de integración:**
+1. **Tipos de hito:** los commits T1/T2 traen valores libres en `hitos[].tipo` (fuera de `lanzamiento|restyling|fin`) y **no compilan por separado**; el commit T3 normaliza los 128 valores. Integra en orden o solo el tip.
+2. **Zeekr X 2025:** plan corregido a Zeekr Care oficial (2 años/40.000 km; la ficha decía 24 meses/30.000 km).
+3. **Dualtron Thunder 2:** el campo `certificadoDgt` dice `true` pero su fuente (Solorueda) solo acredita CE; los textos nuevos siguen a la fuente. Campo estructurado por corregir en pasada de datos.
+4. **Riddara RD6:** garantía NO ok según auditoría (registro `garantias-marcas.ts`) — para la pasada de garantías.
+5. **Apollo Air:** `precioEur: null` preexistente.
+
+**Reporte completo:** `~/workspace/unicidad-fichas/reporte-b1-merlin.md` (incluye las banderas de datos de T1/T2 para la pasada de datos) y detalle por ficha en `progreso-b1.csv`. Con b1 van **5 bloques cerrados (656/787)**; queda b2 en curso. La publicación, con el OK de Daniel como siempre.
