@@ -740,23 +740,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Deportiva de 699 cc y 95 CV con velocidad máxima anunciada de 250 km/h",
-      "Motor tricilíndrico: sonido y carácter únicos en su precio",
-      "Electrónica de primer nivel: IMU, modos, quickshifter y TFT a color",
-      "Precio de 7.688 € con 5 años de garantía y seguro incluido",
-      "Limitable al A2: deportiva grande para carnet medio",
+      "Frente a una Honda CBR650R o una Yamaha R7, esta Zontes juega otra carta: tres cilindros y 95 CV con un carácter que no se parece al de sus rivales",
+      "El tricilíndrico empuja con un tacto distinto al de los tetracilíndricos japoneses y suena con personalidad propia al abrir gas",
+      "Llega muy bien equipada de serie para su tarifa: plataforma inercial, varios modos de conducción, cambio rápido y cuadro TFT en color",
+      "La factura se quedaba en 7.688 € y la marca respaldaba la compra con una garantía de 5 años, además de promociones con seguro incluido",
+      "La velocidad punta declarada, 250 km/h, la sitúa sobre el papel en territorio de deportivas que cuestan bastante más"
     ],
     contras: [
-      "214 kg en orden de marcha: pesada para una deportiva",
-      "Postura racing extrema: solo para circuito o salidas cortas",
-      "95 CV obligan a limitarla para el A2",
-      "Marca china con red de servicio aún pequeña en España",
-      "Reventa incierta frente a las japonesas",
+      "Sus 214 kg con todos los llenos se notan al maniobrar en parado y restan agilidad frente a una Aprilia RS 660",
+      "Semimanillares bajos y estriberas altas: en ciudad o en trayectos largos la espalda y las muñecas acaban pasando factura",
+      "Quien venga del A2 tendrá que limitarla sí o sí, porque de serie entrega los 95 CV completos",
+      "La red comercial y de talleres de Zontes en España sigue creciendo, pero aún no iguala la capilaridad de Honda o Yamaha",
+      "Como marca todavía joven aquí, su valor dentro de unos años en el mercado de ocasión es una incógnita"
     ],
     curiosidades: [
-      "Es la primera deportiva tricilíndrica china vendida en España",
-      "Zontes incluye seguro en el precio en algunas promociones oficiales",
-      "Su motor de 699 cc es el de mayor cilindrada de la marca",
+      "Cuando llegó en 2025, ninguna otra marca china ofrecía en España una deportiva carenada con motor de tres cilindros",
+      "Ese tricilíndrico de 699 cc es el motor de mayor cubicaje dentro del catálogo de la propia Zontes",
+      "En su lanzamiento español se comercializó con campañas oficiales que en ocasiones sumaban el seguro sin coste añadido al precio"
     ],
     imagen: "/media/motos/zontes-703rr-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -778,7 +778,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "Zontes España",
     fuenteUrl: null,
     analisisSlug: "zontes-703rr-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "El aceite recomendado por Zontes en el manual del propietario de la ZT703-RR. La tabla oficial de mantenimiento consultada marca la sustitución del aceite en cada revisión, pero no se ha podido verificar una viscosidad concreta para este modelo, así que no se indica ninguna sin confirmarla en el manual entregado con la moto.",
+      "cadenaPasos": [
+        "Con la moto en punto muerto y apoyada de forma segura, gira la rueda trasera con la mano y localiza el punto más tenso de la cadena antes de medir nada.",
+        "Retira la suciedad con un limpiador específico para cadenas con retenes y un cepillo suave; evita el agua a presión directa sobre los retenes.",
+        "Seca bien la cadena y aplica lubricante específico para cadenas selladas por la cara interior, eslabón a eslabón, haciendo girar la rueda despacio.",
+        "Deja reposar la moto al menos media hora para que el lubricante penetre y retira el sobrante con un trapo limpio.",
+        "Comprueba la holgura y, si toca ajustar, afloja el eje trasero, mueve ambos tensores por igual y verifica que las marcas de los dos lados del basculante coincidan antes de reapretar."
+      ],
+      "intervaloMantenimiento": "Primera revisión a los 1.000 km y después cada 5.000 km (5.000, 10.000, 15.000, 20.000 km...), según la tabla de mantenimiento periódico del manual oficial ZT703-RR: en cada revisión se sustituyen el aceite del motor y el filtro de aceite, y el refrigerante se renueva cada 3 años o 30.000 km.",
+      "trucos": [
+        "Tras un lavado o una salida con lluvia, limpia y lubrica la cadena aunque no toque por kilómetros: el agua se lleva la grasa y el óxido llega enseguida.",
+        "Revisa el nivel de aceite por la mirilla con la moto en vertical y el motor templado tras unos minutos de reposo, tal como describe el procedimiento de Zontes para sus 703.",
+        "El líquido de frenos y el refrigerante caducan por tiempo, no solo por kilómetros: aunque ruedes poco, respeta los plazos que marca el manual.",
+        "Guarda las facturas de cada revisión hecha en servicio oficial: es la mejor defensa de la garantía y del valor de la moto si algún día la vendes."
+      ]
+    },
   },
   {
     id: "zontes-368k-2025-ficha-tecnica-precio",
@@ -802,23 +818,23 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Scooter de 367,6 cc y 38,8 CV: potencia de maxiscooter por 4.592 €",
-      "Depósito de 17 litros para una autonomía muy amplia",
-      "Consumo declarado de 3,4-3,5 l/100 km",
-      "Asiento a 770 mm, accesible pese a su tamaño",
-      "5 años de garantía oficial",
+      "Con un precio de 4.592 € ataca directamente a Yamaha XMAX 300, Honda Forza 350 y Kymco X-Town costando bastante menos",
+      "El propulsor suma 367,6 cc y rinde 38,8 CV, rendimiento propio de un maxi pensado también para salidas interurbanas",
+      "Entre su depósito de 17 litros y un consumo declarado de 3,4 l/100 km, la autonomía deja de ser preocupación habitual",
+      "Llegas al suelo con facilidad porque el asiento queda a 770 mm, algo que se agradece en maniobras lentas",
+      "La cobertura oficial llega a 5 años, respaldo poco frecuente cuando hablamos de scooters de este precio"
     ],
     contras: [
-      "Cerca de 180 kg: pesado para mover en parado",
-      "38,8 CV exigen carnet A2, no vale el B",
-      "Tamaño grande para el tráfico urbano denso",
-      "Sin datos oficiales de peso en orden de marcha publicados",
-      "Red de servicio en expansión",
+      "Moverlo en parado cuesta lo suyo: ronda los 180 kg y ese volumen se nota al aparcar en pendientes o garajes estrechos",
+      "No podrás llevarlo con el permiso B; esos 38,8 CV obligan a tener el A2 en vigor",
+      "En calles estrechas y atascos su carrocería maxi penaliza: filtrar entre coches exige más hueco que en un scooter compacto",
+      "Falta en la ficha el dato de masa listo para circular, un hueco que dificulta contrastarlo frente a la competencia",
+      "La red posventa todavía está creciendo en España, así que conviene confirmar qué taller oficial tienes realmente cerca de casa"
     ],
     curiosidades: [
-      "El 368K es la variante asfáltica del conocido 368G adventure",
-      "Zontes es famosa por equipar sus motos hasta arriba por poco dinero",
-      "Su pantalla TFT incluye conectividad con el móvil de serie",
+      "Comparte base con el 368G de enfoque aventurero, pero esta versión K renuncia al campo y se centra por completo en el asfalto",
+      "Fiel a la filosofía de Zontes, aquí el equipamiento de serie viene cargadísimo sin que la factura se dispare como en marcas tradicionales",
+      "El cuadro TFT permite enlazar el teléfono de serie, integración que en varios rivales suele pagarse aparte o llegar en acabados superiores"
     ],
     imagen: "/media/motos/zontes-368k-2025-ficha-tecnica-precio-1.webp",
     galeria: [

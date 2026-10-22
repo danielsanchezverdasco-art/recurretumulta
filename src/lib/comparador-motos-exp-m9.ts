@@ -409,21 +409,21 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "56 CV por menos de 5.000 €",
-      "Marzocchi multirregulables",
-      "Control de tracción de serie",
-      "TFT con mirroring",
-      "6 años de garantía + seguro gratis",
+      "Precio de derribo: en su variante completa entrega 56 CV quedándose por debajo de la barrera de los cinco mil euros",
+      "Horquilla y amortiguador firmados por Marzocchi, con regulación en varios parámetros de funcionamiento",
+      "Ayuda electrónica frente a pérdidas de agarre de la rueda trasera ya incluida de fábrica",
+      "Instrumentación a color capaz de duplicar en su pantalla lo que muestra el teléfono móvil",
+      "Respaldo oficial muy prolongado y primera anualidad de la póliza sin pagarla por separado"
     ],
     contras: [
-      "190 kg en orden de marcha",
-      "Versión full solo para carnet A",
-      "Consumo no declarado",
+      "En la báscula no es precisamente una pluma: marca 190 kilos con todo listo para rodar",
+      "Para usarla sin limitar hace falta ya el permiso A, no basta el escalón intermedio",
+      "La marca no publica cifra homologada de gasto de carburante"
     ],
     curiosidades: [
-      "QJMotor es del grupo Geely (Volvo, Lotus): su red y garantía son de las más serias entre las chinas.",
-      "Se vende con 6 años de garantía y el primer año de seguro gratis incluidos en el precio.",
-      "La pantalla TFT de 5\" con función mirroring es única en su rango de precio.",
+      "Detrás de esta firma está Geely, conglomerado chino que también controla marcas europeas de coches muy conocidas, algo que se nota en la estructura comercial que está montando en España.",
+      "Quien la compra se lleva, dentro del importe anunciado, media docena de años de respaldo oficial y la primera anualidad del seguro ya pagada.",
+      "Su cuadro de cinco pulgadas puede replicar la interfaz del móvil, algo rarísimo de ver en motos que cuestan tan poco."
     ],
     imagen: "/media/motos/qjmotor-srk600-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -445,7 +445,24 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "QJMotor España",
     fuenteUrl: "https://qjmotor.es/",
     analisisSlug: "qjmotor-srk600-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "aceiteTipo": "El especificado por QJMotor en el manual del propietario, utilizando recambio original y el aceite recomendado por la marca; el grado concreto no consta en la fuente pública consultada y no se inventa.",
+      "cadenaPasos": [
+        "Apoya la moto en vertical y segura antes de tocar la transmisión final.",
+        "Limpia la cadena con un producto específico y un cepillo suave, girando la rueda trasera a mano.",
+        "Seca bien cada eslabón antes de aplicar el lubricante.",
+        "Engrasa por la cara interior del ramal inferior, repartiendo el producto de forma uniforme.",
+        "Comprueba la holgura y el desgaste del kit de arrastre y ajústala solo dentro de lo que marque el manual.",
+        "Retira el exceso de grasa para que no salpique la rueda ni el neumático."
+      ],
+      "intervaloMantenimiento": "Según la pauta de los manuales QJMotor alojados en qjmotor.es: primera revisión a los 1.000 km, segunda a los 7.000 km y las siguientes cada 6.000 km; si no se alcanza el kilometraje, revisión anual obligatoria.",
+      "trucos": [
+        "Cada 1.000 km, como pide el manual QJMotor: presiones de neumáticos, nivel de aceite y nivel de refrigerante.",
+        "El manual recomienda renovar el aceite de la suspensión delantera cada 2 años.",
+        "Para conservar la cobertura oficial, las revisiones programadas deben hacerse en la red oficial con recambio original.",
+        "Engrasa la cadena al volver de rodar, con la transmisión aún templada, para que el lubricante penetre mejor."
+      ]
+    },
   },
   {
     id: "qjmotor-srk400-2025-ficha-tecnica-precio",
