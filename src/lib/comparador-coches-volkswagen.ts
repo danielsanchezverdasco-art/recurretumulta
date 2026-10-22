@@ -110,18 +110,18 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: 200,
     etiquetaDgt: "Cero",
     pros: [
-      "702 km de autonomía WLTP: el eléctrico con más alcance de Volkswagen",
-      "Carga rápida de 200 kW en continua y 11 kW en alterna",
-      "286 CV y 545 Nm con tracción trasera: berlina ejecutiva ágil",
-      "Maletero de 532 L ampliable a 1.586 L abatiendo asientos",
-      "Etiqueta Cero y 0 g/km de CO2: exento del impuesto de matriculación",
+      "Homologa 702 km WLTP: pocos eléctricos generalistas permiten espaciar tanto las paradas durante viajes largos",
+      "Entrega 286 CV desde el eje trasero y firma el 0-100 en 6,6 segundos, ritmo sobrado incluso viajando cargado",
+      "Bajo el portón esconde 532 litros, volumen propio de familiar disfrazado dentro de una silueta fastback",
+      "Se conforma con 13,7 kWh/100 km homologados pese a rozar los cinco metros de carrocería",
+      "Euro NCAP le otorgó cinco estrellas en 2023, con un 95 % protegiendo a los ocupantes adultos",
     ],
     contras: [
-      "59.030 € de precio final: territorio premium alemán",
-      "2.226 kg en orden de marcha: el peso se nota en carreteras viradas",
-      "180 km/h de velocidad máxima limitada",
-      "4,96 m de largo: aparcar en ciudad exige sensores y cámara",
-      "La bomba de calor es opcional y encarece la factura",
+      "Partir de 59.030 € lo coloca frente a BMW i4 o Mercedes EQE, rivales con emblema premium consolidado",
+      "Sus 2.226 kg se dejan sentir en rotondas y puertos: empuja con solvencia, pero no disimula la masa acumulada",
+      "Medir 4.961 mm complica buscar hueco en centros urbanos; esta berlina pide aparcamientos amplios y paciencia maniobrando entre columnas",
+      "Su arquitectura eléctrica limita el pico de recarga a 200 kW, lejos de los sistemas coreanos de 800 voltios",
+      "Quien quiera bomba de calor para el invierno debe pagarla aparte, extra discutible en este nivel de precio",
     ],
     largoMm: 4961,
     anchoMm: 1862,
@@ -167,6 +167,18 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Volkswagen Canarias (red oficial Volkswagen), página de mantenimiento de vehículos eléctricos: para los ID. europeos no hay distinción entre inspección pequeña y completa y la inspección toca tras dos años como máximo sin límite de kilómetros, incluyendo líquido de frenos y filtro interior. Verificado el 22/10/2026. La marca no publica un coste oficial de la revisión, por eso costeAproxEur queda en null.",
+      intervalo: "Cada 2 años como máximo, sin límite de kilómetros (plan de inspección Volkswagen para los modelos ID. en Europa)",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Inspección bienal de los modelos ID.",
+          queSeCambia: "Revisión de electrónica, motor eléctrico y carrocería, con sustitución del líquido de frenos y del filtro del habitáculo, según publica la red oficial de Volkswagen",
+        },
+      ],
+    },
   },
   {
     id: "volkswagen-id7-tourer-2026-precio-ficha-tecnica",

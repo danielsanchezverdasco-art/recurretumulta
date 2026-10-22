@@ -711,18 +711,18 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "5 estrellas Euro NCAP: el eléctrico más seguro de 2024",
-      "Desde 37.137 € en España",
-      "Versión Privilege con 428 CV y tracción total",
-      "Interior cuidado con sonido Yamaha",
-      "Compacto de 4,43 m, ideal para ciudad",
+      "Cinco estrellas Euro NCAP en 2024 y premio Best in Class entre los SUV pequeños eléctricos de ese año",
+      "Un único motor trasero de 272 CV y 343 Nm lo lleva a 100 km/h en 5,9 segundos",
+      "La Core española parte de 37.137 euros con batería LFP de 49 kWh y etiqueta Cero de la DGT",
+      "Con 4.432 mm de largo entra en huecos urbanos donde un SUV mediano ya obliga a maniobrar de más",
+      "La batería queda cubierta durante ocho años o 200.000 km, margen amplio para un eléctrico de este precio",
     ],
     contras: [
-      "330 km WLTP en la versión de acceso",
-      "Maletero de 362 L, justo",
-      "Carga de 130 kW, mejorable",
-      "Plazas traseras justas para altos",
-      "Marca joven en España",
+      "Solo homologa 330 km WLTP: en autopista invernal la autonomía útil cae bastante y exige planificar cada parada",
+      "El maletero se queda en 362 litros, escaso si viajas con sillita, maletas grandes y carrito a la vez",
+      "Su pico en corriente continua es de 130 kW, por debajo de lo que ofrecen versiones superiores del propio X",
+      "Pesa 1.855 kg pese a medir 4,43 metros, lastre que explica un consumo homologado de 17,4 kWh cada 100 km",
+      "Zeekr recién aterriza en España: su red de ventas y talleres todavía no iguala la cobertura de marcas asentadas",
     ],
     imagen: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp",
@@ -737,13 +737,22 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2024 (91 % adultos, 90 % niños)",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
-      revisiones: [
-        { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Plan orientativo Zeekr Europa para eléctricos",
-    },
+        costeAnualAproxEur: null,
+        fuente: "Zeekr Europa, página oficial Zeekr Care (zeekr.eu/care, verificada el 22/10/2026): servicio cada dos años o 40.000 km; tabla oficial de mantenimiento de Zeekr con inspección, filtro de habitáculo, líquido de frenos, refrigerante y aceite del reductor. Sin precios oficiales publicados, por eso los costes quedan en null.",
+        intervalo: "Cada 2 años o 40.000 km en Europa (plan oficial Zeekr Care), lo primero que se cumpla",
+        revisiones: [
+          {
+            costeAproxEur: null,
+            nombre: "Revisión programada a los 2 años o 40.000 km",
+            queSeCambia: "Inspección general programada con sustitución del filtro del habitáculo y comprobación o sustitución, según la tabla oficial Zeekr, del líquido de frenos, el refrigerante y el aceite del reductor trasero en esta versión de tracción trasera",
+          },
+          {
+            costeAproxEur: null,
+            nombre: "Revisiones programadas siguientes cada 2 años o 40.000 km",
+            queSeCambia: "Repetición de la inspección oficial con los mismos puntos de control: filtro del habitáculo, líquido de frenos, refrigerante y lubricante del reductor, siempre en centro autorizado Zeekr para conservar la garantía ampliada",
+          },
+        ],
+      },
     galeria: [
       {
         src: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",

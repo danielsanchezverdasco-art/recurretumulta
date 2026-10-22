@@ -761,18 +761,18 @@ export const COCHES_RENAULT: CocheComparador[] = [
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
     pros: [
-      "El combi eléctrico familiar con 284 km WLTP",
-      "Carga rápida de 80 kW en continua y 22 kW en alterna",
-      "Maletero de 517 L ampliable a 2.390 L",
-      "Puertas laterales correderas: acceso imbatible",
-      "Etiqueta Cero para trabajar en cualquier ZBE",
+      "Con 1.808 mm de altura y puertas traseras correderas, cargar sillas infantiles o bultos voluminosos en aparcamientos estrechos resulta mucho más sencillo que en un SUV familiar convencional.",
+      "Sus 284 km WLTP encajan con rutinas urbanas y periurbanas; si equipas carga continua de 80 kW, una parada breve devuelve margen para seguir trabajando ese mismo día.",
+      "Renault responde de la batería de 45 kWh hasta 160.000 km u ocho años, tranquilidad extra si el coche acumula reparto urbano y uso familiar intenso a diario.",
+      "Es uno de los pocos combis de pasajeros puramente eléctricos frente a ë-Berlingo, e-Rifter y Combo Electric, sin renunciar a cinco plazas ni a su formato de furgoneta alta.",
+      "Con etiqueta Cero entra en las ZBE sin limitaciones horarias, algo que sus hermanas Kangoo TCe y Blue dCi, con distintivo C, no pueden igualar en pleno centro.",
     ],
     contras: [
-      "122 CV y 12,6 s de 0-100: ritmo tranquilo",
-      "132 km/h de máxima: justo en autopista",
-      "Desde 35.260 €: caro frente al Kangoo de gasolina",
-      "284 km se quedan cortos para viajes largos",
-      "Acabados de furgón, no de turismo",
+      "Partir de 35.260 euros lo deja claramente por encima de las Kangoo Combi de gasolina y diésel de esta misma gama, diferencia difícil de amortizar haciendo pocos kilómetros.",
+      "Para escapadas largas, 284 km homologados obligan a planificar recargas; su batería de 45 kWh no compite con turismos eléctricos de similar precio y mayor alcance.",
+      "Acelera hasta cien en 12,6 segundos y su punta queda en 132 km/h según ficha: cargado y en incorporaciones ascendentes, el empuje de 245 Nm se percibe justo.",
+      "Declara 1.870 kg y un consumo de 19,2 kWh/100 km; en autovía sostenida su caja alta penaliza la eficiencia frente a una berlina eléctrica baja como el Volkswagen ID.7.",
+      "Sin el cargador opcional superior no hay carga continua: la versión básica se queda en alterna trifásica de 11 kW, lenta para recuperar fuera de casa.",
     ],
     largoMm: 4486,
     anchoMm: 1860,
@@ -818,6 +818,29 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+      ano: 2021,
+      estrellas: 4,
+      nota: "Cuatro estrellas en la prueba publicada el 7 de julio de 2021: 78 % en ocupante adulto, 87 % en infantil, 67 % en usuarios vulnerables y 72 % en asistencias. La tabla de validez de Euro NCAP añadió en mayo de 2023 la variante Pure Electric E-Tech de cinco puertas, por lo que la nota corresponde a esta generación eléctrica.",
+      url: "https://www.euroncap.com/es/results/renault/kangoo/43189",
+    },
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Renault España, página oficial de mantenimiento de vehículos eléctricos (verificada el 22/10/2026): no publica un intervalo fijo en km o años para el Kangoo E-Tech Combi y remite a My Renault y a las alertas del propio vehículo; sí estima el mantenimiento eléctrico de media un 20 % inferior al de un térmico equivalente. Los plazos de fluidos y batería de 12 V proceden de la página de revisión E-Tech electric de la red Renault (renault-guadeloupe.fr). Un programa de terceros (Odopass) reproduce para el Kangoo 3 E-Tech Electric una revisión cada 20.000 km o 1 año, pero no se ha localizado ese intervalo en una página oficial de Renault, por lo que no se entrega como plan oficial. Sin tarifa oficial cerrada localizada, los costes van a null",
+      intervalo: "Sin plan oficial publicado por Renault España para esta versión (verificado el 22/10/2026): Renault remite al plan concreto de cada vehículo en My Renault, con alertas de revisión y de operaciones previstas",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión E-Tech eléctrica periódica (según plan My Renault)",
+          queSeCambia: "Control de más de 86 puntos según la red Renault: diagnóstico de batería de tracción, circuitos de alta tensión y sistema de carga, más sustitución del filtro del habitáculo cuando toca; sin cambio de aceite, distribución ni embrague al ser eléctrico puro",
+        },
+        {
+          costeAproxEur: null,
+          nombre: "Fluidos, batería auxiliar y refrigeración (plazos de la revisión E-Tech de Renault)",
+          queSeCambia: "Sustitución del líquido de frenos cada 3 años, del líquido de refrigeración cada 6 años y de la batería de 12 V cada 4 años, según publica la red Renault para su revisión E-Tech electric; neumáticos, frenos, dirección y suspensión se inspeccionan en cada visita",
+        },
+      ],
+    },
   },
   {
     id: "renault-kangoo-2024-tce-130-precio-ficha-tecnica",
