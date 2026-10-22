@@ -10697,3 +10697,12 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/qjmotor-srt-450-rx-2026-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2026/06/qjmotor_srt450rx_negro_alto_l_view_portada.webp | QJMotor España (web oficial) | desconocida |
 | /media/joyor-luxerider-hunt1.webp | https://joyorscooter.com/cdn/shop/files/electric_scooter_joyor_luxerider_lateral.jpg?v=1776778249 | Joyor Scooter (tienda oficial) | desconocida |
 | /media/joyor-luxerider-hunt2.webp | https://cdn.shopify.com/s/files/1/0758/1404/3983/files/LuxeRider-turning-lights.jpg?v=1720176526 | Joyor Scooter (tienda oficial) | desconocida |
+| /media/toyota-gr86-24-boxer-hunt1.webp | https://cdn.assets.prezly.com/0c19bbcb-7101-4f47-a357-9e57d716bfdc/-/preview/1500x1500/-/format/auto/2021_KF3_GR86_high_009.jpg | Toyota (sala de prensa Toyota Bélgica, Prezly) | desconocida |
+| /media/toyota-gr86-24-boxer-hunt2.webp | https://media.evo.co.uk/image/private/s--mOufNPug--/f_auto,t_content-image-full-desktop@1/v1617610565/evo/2021/03/20210405_01_03_s.jpg | Toyota (foto de prensa de lanzamiento, vía evo) | desconocida |
+| /media/toyota-gr86-24-boxer-hunt3.webp | https://static0.topspeedimages.com/wordpress/wp-content/uploads/jpg/202108/2022-toyota-gr-86-55.jpg | Toyota Newsroom (vía TopSpeed) | desconocida |
+| /media/qjmotor-srt-700x-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2025/04/QJ-MOTOR-SRT-700-X-3-4-derecho-RED-MY-2025.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-700x-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2025/04/QJ-MOTOR-SRT-700-X-3-4-derecho-GREY-MY-2025.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-700x-2025-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2025/04/QJ-MOTOR-SRT-700-X-moto-adventure-off.png | QJMotor España (web oficial) | desconocida |
+| /media/isinwheel-m2-hunt1.webp | https://www.isinwheel.es/cdn/shop/files/M2_a556ec29-f5b8-476a-8580-757b0aad7411.jpg?v=1700231902 | iSinwheel España (tienda oficial) | desconocida |
+| /media/isinwheel-m2-hunt2.webp | https://www.isinwheel.es/cdn/shop/files/09_A_1200x.jpg?v=1697105680 | iSinwheel España (tienda oficial) | desconocida |
+| /media/isinwheel-m2-hunt3.webp | https://www.isinwheel.es/cdn/shop/files/1200_628_1_8a2b3f69-21b6-4ece-a65c-3fa8365beee3_1200x.png?v=1699006976 | iSinwheel España (tienda oficial) | desconocida |
