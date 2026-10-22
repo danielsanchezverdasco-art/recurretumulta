@@ -1075,7 +1075,7 @@ El **Maserati MC20 Cielo** es la versión descapotable del MC20: mismo V6 Nettun
 
 ## El techo que cambia de color
 
-El truco del Cielo es su techo de cristal conmutable: pasa de transparente a opaco en segundos. Solo pesa 85 kg más que el <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>MC20 coupé</a> y mantiene el 0-100 en 3,0 s.
+El truco del Cielo es su techo de cristal conmutable: pasa de transparente a opaco en segundos. Solo pesa 65 kg más que el <a href=/coches/maserati-mc20-2024-precio-ficha-tecnica/>MC20 coupé</a> y mantiene el 0-100 en 3,0 s.
 
 <img src=/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp alt=Maserati MC20 Cielo, vista lateral en estudio>
 
@@ -1087,7 +1087,7 @@ Cuesta 35.000 € más que el coupé. Lleva etiqueta **C** (<a href=https://www.
 |---|---|
 | Techo electrocrómico | 35.000 € más que el coupé |
 | 630 CV a cielo abierto | Etiqueta C |
-| Solo 85 kg más que el coupé | 11,2 l/100 km |
+| Solo 65 kg más que el coupé | 11,2 l/100 km |
 | 3,0 s de 0-100 | Maletero de 100 l |
 | El spyder italiano más tecnológico | Techo complejo |
 
@@ -1100,7 +1100,7 @@ Cuesta 35.000 € más que el coupé. Lleva etiqueta **C** (<a href=https://www.
 Es de cristal **electrocrómico**: cambia de transparente a opaco.
 
 ### ¿Cuánto pesa más que el coupé?
-**85 kg** más (1.560 kg).
+**65 kg** más (1.560 kg).
 
 ### ¿Pierde prestaciones?
 Apenas: 3,0 s frente a 2,9 s, y 320 km/h de punta.

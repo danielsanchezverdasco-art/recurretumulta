@@ -711,7 +711,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     potenciaCv: 252,
     autonomiaKm: 560,
     maleteroL: 430,
-    ceroCien: 3.7,
+    ceroCien: 6.8,
     velocidadMax: 180,
     bateriaKwh: 64.8,
     cargaRapidaKw: null,
@@ -719,7 +719,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     pros: [
       "Récord de aerodinámica: Cx de 0,1925, el más bajo entre los coches chinos de serie",
       "Hasta 708 km de autonomía CLTC y versión Ultra de 530 CV (3,7 s)",
-      "Plataforma de 800 V con carga rápida",
+      "Carga rápida: del 30 al 80 % en 30 minutos",
       "Interior minimalista con AR-HUD de 68 pulgadas y chip Snapdragon 8155",
       "Precio de derribo en China: desde unos 23.000 €",
     ],

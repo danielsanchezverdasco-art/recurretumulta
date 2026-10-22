@@ -1240,7 +1240,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "A5 Plus",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: 12800,
+    precioDesde: 7800,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 540,
@@ -1267,7 +1267,7 @@ export const COCHES_JAC: CocheComparador[] = [
       "1.5 turbo de 184 CV y 300 Nm con cambio de doble embrague",
       "Liftback de 4,78 m: maletero de 540 a 1.650 litros",
       "Velocidad máxima de 210 km/h",
-      "Precio chino desde ~12.800 €, imbatible por tamaño",
+      "Precio chino desde ~7.800 €, imbatible por tamaño",
       "Se vende también como Moskvitch 6 en Rusia",
     ],
     contras: [

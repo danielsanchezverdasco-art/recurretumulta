@@ -1716,7 +1716,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     pros: [
       "Techo de cristal electrocrómico: opaco o transparente",
       "630 CV descapotables por 300.500 € (km77)",
-      "Solo 85 kg más que el coupé",
+      "Solo 65 kg más que el coupé",
       "3,0 s de 0-100 a cielo abierto",
       "El spyder italiano más tecnológico",
     ],

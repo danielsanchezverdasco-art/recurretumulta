@@ -188,7 +188,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     precioDesde: 24700,
     potenciaCv: 343,
     autonomiaKm: 650,
-    maleteroL: null,
+    maleteroL: 416,
     ceroCien: 6.1,
     velocidadMax: null,
     bateriaKwh: 72.88,
