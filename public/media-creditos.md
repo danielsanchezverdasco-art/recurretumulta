@@ -10607,3 +10607,5 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-250nk-2025-ficha-tecnica-precio-hunt3.webp | https://www.cfmotopatria.com/web/image/36372-21b3f930/250NK-FUN-galer%C3%ADa_00.png | CFMoto Patria, distribuidor oficial (250NK Fun) | desconocida |
 | /media/dualtron-togo-max-hunt1.webp | https://voltrix.fr/wp-content/uploads/2025/12/TROTTINETTE-ELECTRIQUE-DUALTRON-TOGO-MAX-60V16A-9.webp | Voltrix.fr (ficha de producto Dualtron Togo Max 60V) | desconocida |
 | /media/dualtron-togo-max-hunt2.webp | https://points-ecomobilite.fr/wp-content/uploads/2026/01/trottinette-electrique-dualtron-togo-max_2-760x585.jpg | Points Écomobilité (ficha Dualtron Togo Max 60V 16Ah) | desconocida |
+| /media/navee-ut5-max-hunt1.webp | https://naveetech.us/cdn/shop/files/UT5MaX-1.jpg?v=1782297888&width=1200 | NAVEE Tech US, tienda oficial (UT5MaX-1) | desconocida |
+| /media/navee-ut5-max-hunt2.webp | https://naveetech.us/cdn/shop/files/UT5MaX-2.jpg?v=1782297888&width=1800 | NAVEE Tech US, tienda oficial (UT5MaX-2) | desconocida |
