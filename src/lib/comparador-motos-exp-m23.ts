@@ -1052,20 +1052,20 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-pros: [
+    pros: [
       "Bicilíndrico de 494 cc ajustado justo al techo del A2: 35 kW y 47,6 CV sin necesidad de limitar nada, con una entrega que las pruebas describen como llena desde abajo gracias a sus 44,5 Nm.",
       "Lo nuevo de verdad en la 2025 es la pantalla LCD de 7 pulgadas heredada de la 625DSX, con navegación por flechas y Bluetooth: corrige la instrumentación que más se criticaba en la 525DSX anterior.",
       "Parte ciclo con nombres propios impropios de su precio: horquilla invertida KYB de 41 mm regulable en precarga y extensión, frenos Nissin y Metzeler Tourance tubeless sobre llantas de radios de 19 y 17 pulgadas.",
       "Electrónica pensada para salir del asfalto: control de tracción desconectable, ABS que también se puede desconectar, dos modos de conducción y embrague antirrebote para que la rueda trasera no rebote al reducir fuerte en pista.",
       "La cámara frontal integrada que graba en 1080p no es un accesorio de catálogo: viene de serie en esta 2025 y deja constancia de la ruta o de un incidente sin montar una cámara externa en el casco.",
     ],
-contras: [
+    contras: [
       "Sus 190 kg se notan en parado y en maniobras lentas por pista: para ser una A2 de acceso, no es una trail ligera ni perdona mucho si se te va de lado en una rodera.",
       "El asiento, alto como en casi toda trail con rueda delantera de 19 pulgadas, obliga a pilotos de pierna corta a llegar de puntillas en los semáforos; conviene probarla en parado antes de comprarla.",
       "A ritmo sostenido de autopista aparecen vibraciones leves y el parabrisas de serie se queda corto: para viajar lejos tocará valorar una pantalla más alta, con el gasto extra que eso supone.",
       "Es una marca todavía joven en España frente a rivales japonesas con décadas de red: la reventa y la disponibilidad inmediata de algún recambio específico pueden jugar en su contra a medio plazo.",
     ],
-curiosidades: [
+    curiosidades: [
       "Su motor es «cuadrado» de manual: diámetro y carrera miden lo mismo, 68 x 68 mm, una configuración buscada para equilibrar empuje a bajas vueltas y capacidad de estirar arriba.",
       "Loncin, propietaria de Voge, colabora con BMW Motorrad desde 2005 fabricándole motores y motos completas como los scooter C 400; esa experiencia industrial es la carta de presentación que Voge usa en Europa.",
     ],
@@ -1118,20 +1118,20 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-pros: [
+    pros: [
       "La novedad que define a esta 2025 es la IMU Bosch de seis ejes: el ABS y el control de tracción dejan de actuar a ciegas y pasan a leer la inclinación en curva, algo que en 2024 esta moto no tenía.",
       "El bicilíndrico de 895 cc con cigüeñal calado a 270º entrega sus 95 CV a 8.250 rpm y 95 Nm a 6.250 rpm con un medio régimen lleno, justo donde se adelanta y se sale cargado de una curva lenta.",
       "Horquilla invertida KYB regulable, pinzas Brembo sobre doble disco delantero de 305 mm y llantas de radios tubeless de 21 y 17 pulgadas vienen de serie, sin pasar por el catálogo de extras.",
       "Mantener el precio en torno a los 9.189 euros al pasar a Euro5+ y ganar la IMU es el golpe de la MY25: la actualización electrónica no se cobró en la factura.",
       "La pantalla TFT de 7 pulgadas estrena en 2025 el mirroring con el móvil, sustituyendo la navegación turn-by-turn anterior por la proyección de la app CarbitRide.",
     ],
-contras: [
+    contras: [
       "Los 233 kg se notan donde más duele en una trail de 21 pulgadas: maniobrando en parado y levantándola en una pista, no en marcha lanzada por carretera.",
       "Con el asiento a 825 mm y el depósito ancho, quien mida poco llegará justo al suelo; en ciudad, entre semáforos y aparcamientos estrechos, se hace grande.",
       "La respuesta del acelerador electrónico a bajas vueltas ha sido señalada como brusca en las pruebas, y el quickshifter puede resultar seco entre segunda y tercera.",
       "En España la red de Voge seguía creciendo en 2025: antes de comprarla conviene comprobar qué servicio oficial queda realmente cerca de casa, no solo el concesionario de venta.",
     ],
-curiosidades: [
+    curiosidades: [
       "Sus 95 CV no son casuales: es el máximo de origen que permite limitarla después a los 35 kW del carnet A2, y esa versión limitable llegó precisamente en febrero de 2025 junto a la Euro5+.",
       "Loncin, propietaria de Voge, colabora con BMW desde 2005: empezó fabricando su monocilíndrico de 650 cc, asumió por completo el scooter C400 y acabó produciendo los bicilíndricos de la serie F de los que deriva este motor.",
     ],
@@ -1323,20 +1323,20 @@ curiosidades: [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-pros: [
+    pros: [
       "Con 47 CV (34,6 kW), la 530 TT de 2025 se queda justo en el techo del carnet A2: se conduce a plena potencia desde el primer día, sin limitación posterior que desmontar.",
       "Sus 196 kg se notan a favor al maniobrar en parado y en el tráfico lento, un peso que no intimida en una trail de dos plazas pensada para usar a diario.",
       "La estética scrambler, con el guardabarros alto que la propia ficha recomienda revisar de apriete, la separa de las trail A2 de corte puramente aventurero con las que comparte carnet.",
       "El asiento bajo y accesible que recoge la ficha facilita llegar al suelo a pilotos de distintas tallas, algo que en una bicilíndrica de este tamaño no es lo habitual.",
       "El precio de partida registrado para esta versión de 2025, 6.595 euros —marcado como aproximado en la ficha—, deja margen en el presupuesto para el seguro y el equipamiento del piloto.",
     ],
-contras: [
+    contras: [
       "Las suspensiones son básicas y sin regulación: quien alterne asfalto y pista cargado no podrá adaptar su comportamiento tocando un dial, porque no lo hay.",
       "La dotación electrónica es inexistente y la instrumentación, sencilla: ni modos de conducción ni control de tracción, así que la dosificación en mojado depende solo de la mano derecha.",
       "Los neumáticos de origen son de asfalto, no mixtos: pese al apellido TT, salir a pistas con garantías exige cambiarlos antes, como sugiere el propio apartado de trucos de la ficha.",
       "Mitt es una marca joven y su red de servicio sigue creciendo: fuera de las ciudades grandes conviene comprobar qué taller oficial queda cerca antes de comprarla.",
     ],
-curiosidades: [
+    curiosidades: [
       "Mitt es la marca creada por Jets Marivent, la empresa española que la presentó en el EICMA de Milán como su apuesta para crecer fuera de España.",
       "Antes de venderse, la 530 TT se desveló todavía como prototipo en el salón Vive la Moto de Madrid, donde fue el centro de atención del stand de la marca.",
     ],
