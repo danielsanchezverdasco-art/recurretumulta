@@ -240,19 +240,17 @@ contras: [
       },
     ],
     aprox: [],
-    pros: [
-      "Premio de oro en la IFA 2026 a la mejor tecnología de conducción de largo alcance",
-      "Evoluciona el Max G3, uno de los commuters premium más vendidos en Europa",
-      "Lanzamiento europeo previsto en octubre de 2026",
-      "La serie Max G está diseñada para fiabilidad diaria y confort en desplazamientos largos",
-      "Segway promete avances en tecnología, rendimiento y experiencia de conducción",
+pros: [
+      "Llega con un Premio de Oro en la IFA 2026 a la mejor tecnología de conducción de largo alcance, un reconocimiento que ningún otro Max puede lucir antes ni siquiera de venderse.",
+      "No parte de cero: evoluciona directamente el Max G3, el commuter premium de Segway que ya se ha consolidado entre los más vendidos en Europa.",
+      "Su razón de ser no es la ciudad corta, sino el trayecto largo de cada día, para el que la serie Max G se ha diseñado buscando fiabilidad y confort sostenido.",
+      "Segway lo presenta como su nuevo buque insignia de largo alcance, con avances prometidos en tecnología, rendimiento y experiencia de conducción frente al Max G3 actual.",
     ],
-    contras: [
-      "Especificaciones, precio y disponibilidad aún no publicados por Segway",
-      "Al ser de largo alcance, la batería grande probablemente eleve el peso",
-      "Precio previsiblemente alto al ser buque insignia",
-      "Aún no se puede comprar ni reservar en Europa",
-      "Competirá con el Max G3 actual, que bajará de precio y puede ser mejor compra",
+contras: [
+      "A día de hoy Segway aún no ha publicado sus especificaciones ni su precio, así que cualquier comparación de autonomía o potencia frente al Max G3 sería inventada.",
+      "Todavía no se puede comprar ni reservar en Europa, con un lanzamiento europeo previsto para octubre de 2026 que puede hacer larga la espera si necesitas patinete ya.",
+      "Si cumple lo que promete en largo alcance, la batería necesaria para lograrlo probablemente elevará su peso y lo hará menos cómodo de subir a un piso o a un tren.",
+      "Su propio hermano le hará sombra: cuando salga, el Max G3 actual previsiblemente bajará de precio y puede convertirse en la compra más sensata para quien no haga tantos kilómetros.",
     ],
     veredicto:
       "El Max G3 Pro es el nuevo rey del largo alcance de Segway, premiado en la IFA 2026 antes de su lanzamiento europeo de octubre. Sin ficha oficial aún, hereda la reputación del Max G3. Si haces muchos kilómetros al día, merece la pena esperar a conocerlo.",
@@ -446,19 +444,17 @@ contras: [
       },
     ],
     aprox: [],
-    pros: [
-      "40 km declarados con solo 17,7 kg: la mejor relación autonomía/peso de Navee",
-      "Motor de 350 W (700 W de pico) que sube pendientes del 18%",
-      "Freno de disco trasero + E-ABS delantero, combinación eficaz",
-      "Intermitentes de serie y 120 kg de carga máxima",
-      "Versión específica para España a 25 km/h según la web oficial",
+pros: [
+      "Su cifra declarada de autonomía convive con un peso contenido, así que en el V40i Pro no tienes que elegir entre llegar lejos o poder subirlo a pulso por unas escaleras.",
+      "El empuje de pico ayuda a que las arrancadas en cuesta no se conviertan en un empujón con el pie, justo donde un patinete urbano flojo suele rendirse.",
+      "Repartir la frenada entre el E-ABS delantero y el disco trasero da una detención más equilibrada que confiar todo a un solo sistema.",
+      "Que admita una carga máxima amplia e incorpore intermitentes de serie lo deja mejor preparado para moverte con mochila y señalar tus giros sin accesorios añadidos.",
     ],
-    contras: [
-      "Sin precio oficial confirmado en España",
-      "La autonomía de 40 km se mide a 15 km/h; a 25 km/h baja a unos 25 km",
-      "Sin suspensión dedicada (depende de los neumáticos)",
-      "Carga de 6 horas",
-      "Menos red de servicio técnico en España que las grandes marcas",
+contras: [
+      "Sin precio oficial confirmado en España en la ficha, comparar su coste real frente a rivales queda a medias hasta consultarlo en tienda.",
+      "Las seis horas de carga obligan a dejarlo enchufado con calma: no es un patinete de recargar entre un recado y el siguiente.",
+      "Sin suspensión dedicada, los baches y adoquines quedan a merced de lo que absorban sus neumáticos, y en calles rotas eso se nota en muñecas y tobillos.",
+      "La red de servicio técnico en España es más reducida que la de las marcas grandes, algo a tener en cuenta si surge una avería fuera de garantía.",
     ],
     veredicto:
       "El V40i Pro es el punto dulce de la serie V de Navee: 40 km declarados, 17,7 kg y 350 W por un precio que suele rondar los 400 €. Si buscas autonomía sin cargar con 22 kg, es difícil superarlo.",

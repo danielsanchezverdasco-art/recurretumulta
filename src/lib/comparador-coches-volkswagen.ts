@@ -1987,19 +1987,17 @@ contras: [
     bateriaKwh: 19.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
-    pros: [
-      "204 CV con etiqueta Cero: el Tiguan más vendido del futuro",
-      "Unos 100 km eléctricos: semana laboral sin gasolina",
-      "Carga rápida de 50 kW, rara en enchufables",
-      "Maletero de 490 L pese a la batería",
-      "0,4 l/100 km homologados",
+pros: [
+      "Con 204 CV y 350 Nm y tracción delantera, acelera de 0 a 100 km/h en 7,7 segundos y alcanza 205 km/h: no es la versión lenta por ser enchufable, se defiende cargado y a dúo.",
+      "La batería de 19,7 kWh y los 100 km eléctricos homologados de la ficha cubren la jornada urbana sin arrancar el gasolina, con etiqueta Cero de la DGT a cambio.",
+      "Admite carga rápida de 50 kW en corriente continua, algo poco común en un híbrido enchufable: recuperar batería en una parada larga no exige dejarlo enchufado toda la noche.",
+      "Pese a llevar batería, conserva 490 litros de maletero y cinco plazas en 4.539 mm de largo, y la batería tiene garantía de 8 años o 160.000 km hasta el 70 % según la ficha.",
     ],
-    contras: [
-      "Desde ~46.000 €: 5.000 € más que el eTSI de 150 CV",
-      "1.840 kg en orden de marcha",
-      "Sin la batería, gasta como un gasolina de 1,8 toneladas",
-      "El Tayron eHybrid ofrece más coche por poco más",
-      "Cargar a diario exige enchufe en casa o trabajo",
+contras: [
+      "Desde 46.000 euros según la ficha: la electrificación se paga, y exige tener claro que vas a cargar a menudo para que la cuenta salga frente a un Tiguan de gasolina.",
+      "Pesa 1.840 kg en orden de marcha: la batería se nota en frenadas, en consumo con la batería agotada y en el desgaste de neumáticos frente a un Tiguan más ligero.",
+      "El consumo de 0,4 l/100 km es el homologado con batería cargada; si no enchufas a diario, en uso real gastarás como un SUV de gasolina de casi dos toneladas.",
+      "Es solo de tracción delantera en esta versión de la ficha: quien busque tracción total para nieve o pistas tendrá que mirar otra motorización de la gama Tiguan.",
     ],
     largoMm: 4539,
     anchoMm: 1842,
@@ -2045,6 +2043,24 @@ contras: [
         "alto": 800
       },
     ],
+    euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: "https://www.volkswagen-newsroom.com/en/press-releases/new-tiguan-awarded-5-stars-in-current-euro-ncap-safety-assessment-18414/download",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
+    planMantenimiento: {
+      intervalo: "Plan de mantenimiento del fabricante (detalle en las revisiones)",
+      revisiones: [
+        {
+          nombre: "Plan de mantenimiento del fabricante",
+          queSeCambia: "Volkswagen recomienda para sus modelos nuevos una primera inspección con servicio de aceite a las 9.300 millas —unos 15.000 km— o a los 12 meses, lo que ocurra antes, y mantener ese ciclo anual en los primeros años, según Carbuyer al recoger la pauta de la marca para el Tiguan. En un eHybrid no conviene saltárselo aunque circules mucho en eléctrico: el motor de gasolina, su aceite y el líquido de frenos envejecen igual, y la ficha estima 380 euros al año de mantenimiento sin presentarlo como tarifa oficial.",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.carbuyer.co.uk:443/volkswagen/tiguan/305394/volkswagen-tiguan-review-family-suv-with-a-trusted-formula/reliability",
+    },
   },
   {
     id: "volkswagen-id-tiguan",

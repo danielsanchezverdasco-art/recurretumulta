@@ -2662,19 +2662,17 @@ contras: [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Diésel de 150 CV con 360 Nm",
-      "5,0 l/100 km, muy frugal",
-      "Maletero de 620 L",
-      "36.862 € con descuento oficial",
-      "El familiar diésel más rápido de su precio",
+pros: [
+      "Maletero de 620 litros con boca de carga enrasada, y hasta 1.600 litros abatiendo los asientos desde unos tiradores en el propio maletero: es el argumento central de esta carrocería Sportstourer frente al cinco puertas",
+      "El 2.0 TDI de 150 CV entrega sus 360 Nm entre 1.600 y 2.750 rpm y homologa 5,0 l/100 km en la ficha (4,9-5,1 l/100 km WLTP): está pensado para cruceros de autovía cargado y a dúo sin ir pendiente del cambio DSG de 7 marchas",
+      "Con 4.657 mm de largo mantiene el tamaño de un compacto familiar manejable en ciudad, pero acelera de 0 a 100 km/h en 8,7 s y llega a 214 km/h: no es un familiar diésel lento disfrazado de Cupra",
+      "Precio desde 36.862 € según la ficha: es la puerta de acceso diésel al León Sportstourer renovado, muy por debajo de las versiones VZ de gasolina e híbridas enchufables de la misma carrocería",
     ],
-    contras: [
-      "Etiqueta C en un diésel",
-      "8,7 s de 0-100",
-      "El eHybrid 204 es ECO y más rápido",
-      "Interior sobrio para un Cupra",
-      "Futuro del diésel incierto",
+contras: [
+      "Etiqueta C de la DGT: dentro de la misma gama, el eTSI mild-hybrid es ECO y los e-HYBRID llegan a CERO, una desventaja creciente en zonas de bajas emisiones si el uso va a ser sobre todo urbano",
+      "8,7 s de 0 a 100 km/h y tracción solo delantera en esta versión: quien busque el carácter Cupra de verdad tiene que irse a los VZ, y no hay opción 4Drive para este TDI",
+      "Un diésel solo se amortiza haciendo muchos kilómetros por carretera; con trayectos cortos y fríos el filtro de partículas sufre y la cuenta frente a un gasolina o un híbrido de la gama deja de salir",
+      "El maletero impresiona en esta versión, pero el interior del restyling sigue siendo sobrio para lo que sugiere la marca y gran parte de las funciones pasan por la pantalla central de 12,9 pulgadas, sin mandos físicos para todo",
     ],
     largoMm: 4657,
     anchoMm: 1799,
@@ -2705,6 +2703,12 @@ contras: [
       },
     ],
     analisisSlug: "cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.seat-cupra-mediacenter.com/CUPRA-Brand/cupra-news/2025/CUPRA-Leon-Formentor-Born-secure-5Star-Euro-NCAP-rating-under-tougher-2025-standards",
+      nota: "Resultado Euro NCAP verificado para este modelo.",
+    },
   },
   {
     id: "cupra-tavascan-endurance-286-2026-precio-ficha-tecnica",

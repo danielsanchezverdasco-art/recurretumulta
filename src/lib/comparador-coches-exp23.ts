@@ -3334,17 +3334,17 @@ euroncap: {
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["consumo"],
-    pros: [
-      "449 CV con etiqueta ECO: el coupé AMG racional",
-      "6 cilindros en línea con turbo eléctrico",
-      "0-100 en 4,2 s con tracción total",
-      "Elegancia de gran turismo con alma deportiva",
+pros: [
+      "Seis cilindros en línea de 449 CV y 600 Nm: empuja con suavidad de gran turismo y con nervio cuando se le pide, sin recurrir a un V8",
+      "Tracción total y 0 a 100 km/h en 4,2 segundos con una carrocería coupé de 4,85 metros: prestaciones serias sin perder aplomo en mojado",
+      "Etiqueta ECO de la DGT gracias a la hibridación ligera: en un deportivo de gasolina de esta potencia facilita circular y aparcar en zonas de bajas emisiones",
+      "Maletero de 420 litros y formato de cuatro plazas: más usable a diario y en escapadas que un deportivo puro de dos plazas",
     ],
-    contras: [
-      "No es un 63: le falta el carácter brutal",
-      "Precio alto para no ser el tope de gama",
-      "Plazas traseras justas",
-      "Versión AMG sin prueba EuroNCAP propia",
+contras: [
+      "Quien busque el AMG más radical se quedará corto: es la puerta de entrada a la gama CLE de Affalterbach, no la versión extrema",
+      "Las dos plazas traseras son justas para adultos en viajes largos, como corresponde a un coupé de 1,43 metros de altura",
+      "Consumo homologado de 9,6 l/100 km y coste de uso propio de un seis cilindros premium: no es un coche barato de mantener ni de asegurar",
+      "Peso y tamaño de coche grande: en carreteras muy estrechas o puertos ratoneros se nota menos ágil que un coupé compacto",
     ],
     imagen: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-oficial.webp",
@@ -3364,11 +3364,11 @@ euroncap: {
       notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
-    euroncap: {
+euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: versión AMG no probada",
+      nota: "Sin datos EuroNCAP propios: no consta prueba específica de la versión Mercedes-AMG CLE 53 en euroncap.com, por lo que no se le atribuyen estrellas de otra versión o modelo.",
     },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes)",

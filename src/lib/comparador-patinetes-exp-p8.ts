@@ -781,16 +781,17 @@ contras: [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Homologado DGT según el distribuidor español (Taller del Patinete)",
-      "Doble motor: 900 W nominales y 2900 W de pico",
-      "Batería LG de 52 V y 21 Ah: 65 km declarados",
-      "27 kg para un dual motor: muy contenido",
+pros: [
+      "Doble motor en un chasis Mini: tracción y respuesta en cuestas sin pasar a un patinete grande y pesado de manejar",
+      "Batería LG de 1092 Wh con autonomía real amplia para encadenar varios días de trayectos urbanos sin vivir pendiente del cargador",
+      "Con homologación DGT según el distribuidor español, algo poco habitual en un doble motor de este nivel de potencia",
+      "Doble freno de tambor con ABS y EBS: frenada repartida y con apoyo electrónico, más progresiva que un único freno trasero",
     ],
-    contras: [
-      "Neumáticos de 9\": la gama media ya monta 10\"",
-      "Sin precio oficial en España",
-      "Frenos de tambor en vez de disco hidráulico",
+contras: [
+      "Neumáticos de 9\" con cámara: filtran menos las irregularidades y son más sensibles a pinchazos que una rueda mayor sin cámara",
+      "Frenos de tambor cerrados: cumplen, pero no ofrecen el tacto ni la potencia de un disco hidráulico cuando se exige al doble motor",
+      "Sin precio oficial en España en la ficha, lo que complica compararlo de forma fiable frente a rivales con PVP cerrado",
+      "Con 27 kg sigue siendo pesado para subirlo a pulso por escaleras o meterlo a diario en un maletero pequeño",
     ],
     veredicto:
       "El Mini Special Dual es el dual motor compacto con homologación DGT: 2900 W de pico, batería LG de 1092 Wh y 27 kg. Uno de los Dualtron más sensatos para España.",
