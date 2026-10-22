@@ -10653,3 +10653,14 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 | /media/cfmoto-700cl-x-adventure-2023-ficha-tecnica-precio-hunt3.webp | https://nova.engear.tv/wp-content/uploads/2023/03/cfmoto-700cl-x-adv-13-768x513.jpg | CFMoto (foto de prensa, vía Engear) | desconocida |
 | /media/joyor-s-pro-hunt1.webp | https://joyorscooter.com/cdn/shop/files/electric_scooter_joyor_s-pro_dgt_stamp.jpg?v=1763994674&width=2048 | Joyor (tienda oficial joyorscooter.com) | desconocida |
 | /media/joyor-s-pro-hunt2.webp | https://electyum.com/cdn/shop/files/electric_scooter_joyor_s-pro_handlebar-2_2000x_5365f900-56ec-4b04-b823-0b5430812a77.webp?v=1772705194&width=2560 | Joyor (vía Electyum, distribuidor Joyor) | desconocida |
+| /media/fiat-tipo-2024-precio-ficha-tecnica-hunt1.webp | https://images.prismic.io/carwow/d4d1597c-87e1-4126-8018-e4e2dc15fdab_LHD+FIAT+Tipo+Sed%C3%A1n+2021+Exterior-1.jpg?auto=format&cs=tinysrgb&fit=max&q=60 | Fiat / Stellantis (foto de prensa) vía Carwow España | desconocida |
+| /media/fiat-tipo-2024-precio-ficha-tecnica-hunt2.webp | https://www.km77.com/images/medium/5/4/6/3/fiat-tipo-4-puertas-2021-salpicadero.355463.jpg | km77.com (galería Fiat Tipo 4 puertas 2021) | desconocida |
+| /media/fiat-tipo-2024-precio-ficha-tecnica-hunt3.webp | https://www.vehiclesizes.com/img/59972-fiat-tipo-rear-side-sedan-tail-lights-smooth-lines.jpg | VehicleSizes.com | desconocida |
+| /media/bmw-serie-3-318-hunt1.webp | https://visor.ph/wp-content/uploads/2023/04/BMW-318i-Sport-G20-LCI-The-automotive-iPhone-S-update-2.jpg | Sam Surla / Visor.ph | desconocida |
+| /media/bmw-serie-3-318-hunt2.webp | https://visor.ph/wp-content/uploads/2023/04/BMW-318i-Sport-G20-LCI-The-automotive-iPhone-S-update-4.jpg | Sam Surla / Visor.ph | desconocida |
+| /media/bmw-serie-3-318-hunt3.webp | https://visor.ph/wp-content/uploads/2023/04/BMW-318i-Sport-G20-LCI-The-automotive-iPhone-S-update-5.jpg | Sam Surla / Visor.ph | desconocida |
+| /media/qjmotor-srt-900s-2025-ficha-tecnica-precio-hunt1.webp | https://qjmotor.es/wp-content/uploads/2025/06/QJ-MOTOR-SRT-900S-moto-adventure-carretera-color-negro-1.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-900s-2025-ficha-tecnica-precio-hunt2.webp | https://qjmotor.es/wp-content/uploads/2025/06/QJ-MOTOR-SRT-900S-moto-adventure-carretera-lateral-derecho-negro.png | QJMotor España (web oficial) | desconocida |
+| /media/qjmotor-srt-900s-2025-ficha-tecnica-precio-hunt3.webp | https://qjmotor.es/wp-content/uploads/2025/12/QJ-MOTOR-SRT-900S-nuevo-modelo-adventure.png | QJMotor España (web oficial) | desconocida |
+| /media/joyor-c10-hunt1.webp | https://joyorscooter.com/cdn/shop/files/Electric_Scooter_Joyor_C10_DGT_Rear.jpg?v=1763546207 | Joyor (tienda oficial) | desconocida |
+| /media/joyor-c10-hunt2.webp | https://joyorscooter.com/cdn/shop/files/Electric_Scooter_Joyor_C10_DGT_battery_720x.jpg?v=1776341481 | Joyor (tienda oficial) | desconocida |
