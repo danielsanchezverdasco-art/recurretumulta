@@ -356,7 +356,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       "La calefacción estática Webasto y la claraboya son extras: la base no calienta en invierno",
       "Sin baño fijo: el WC químico Dometic se paga aparte",
       "Con 4,40 m de largo la cama es justa para dos adultos altos",
-      "Etiqueta C: restricciones en las ZBE de las grandes ciudades",
+      "Distintivo C del diésel: Madrid y Barcelona ya vetan su acceso al centro en sus ZBE, un hándicap si la Rifter es también el coche de diario"
     ],
     opiniones: [],
     galeria: [
@@ -398,7 +398,12 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       costeAnualAproxEur: 250,
       fuente: "Camperiz + fabricante base",
     },
-    euroncap: null,
+    euroncap: {
+      "ano": 2018,
+      "estrellas": 4,
+      "nota": "Prueba del vehículo base Peugeot Rifter (no de la camperización Camperiz): 4 estrellas en 2018, 91 % adultos, 81 % infantil, 58 % usuarios vulnerables y 68 % asistencias; modelo probado BlueHDi 100 Allure. Euro NCAP marca esta calificación como caducada.",
+      "url": "https://euroncap.blob.core.windows.net/media/85426/euroncap-2018-peugeot-rifter-datasheet.pdf"
+    },
     mmaKg: null,
     carnetNecesario: "B",
     cargaUtilKg: null,
@@ -499,7 +504,12 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       costeAnualAproxEur: 250,
       fuente: "Camperiz + fabricante base",
     },
-    euroncap: null,
+    euroncap: {
+      "estrellas": 3,
+      "ano": 2012,
+      "url": null,
+      "nota": "Euro NCAP 2012: 3 estrellas de la Dacia Lodgy, gemela de plataforma y estructura de la Dokker (72% adulto, 77% infantil); la camperización Camperiz no tiene prueba propia"
+    },
     mmaKg: null,
     carnetNecesario: "B",
     cargaUtilKg: null,

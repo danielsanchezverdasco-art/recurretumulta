@@ -2251,23 +2251,23 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "V-twin de 298 cc con 30,2 CV: la custom pequeña con motor de verdad",
-      "Transmisión final por correa, sin mantenimiento",
-      "ABS y control de tracción de serie",
-      "175 kg, ligera y manejable para una custom",
-      "Asiento a 690 mm, apto para pilotos de cualquier talla",
+      "Su V-twin refrigerado por líquido entrega 26 Nm a 6.500 rpm por un escape 2 en 1 bajo, así que empuja desde abajo sin obligarte a buscar las 8.500 rpm de la potencia máxima",
+      "Cambio de seis marchas y correa dentada como transmisión final: olvidas el engrase y el tensado de una cadena en el uso diario",
+      "Horquilla invertida de 115 mm, disco delantero de 300 mm con pinza radial de cuatro pistones y ABS con control de tracción desconectable, equipo raro en una custom A2 de acceso",
+      "El depósito en forma de lágrima guarda 15 litros y Galgo México declara 25 km/l, lo que deja la autonomía teórica en torno a 375 km",
+      "Apoyas los dos pies en el suelo sin esfuerzo: el asiento queda a 690 mm y el conjunto declara 175 kg, cifras que quitan miedo a quien estrena carnet A2"
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México",
-      "129 km/h de velocidad máxima",
-      "30 CV se quedan justos con pasajero y equipaje",
-      "Sin red de servicio oficial en Europa",
-      "Reventa inviable fuera de su mercado",
+      "En España no hay importador que la liste en 2025: las referencias localizadas son Galgo en México y Keeway America en Estados Unidos, así que comprarla aquí exigiría una importación particular sin red cercana para recambios",
+      "La plaza trasera es casi testimonial pese a llevar estriberas para el pasajero: el guardabarros recortado deja una moto pensada para rodar en solitario, según Ultimate Motorcycling",
+      "Detrás solo hay 46 mm de recorrido de suspensión: en baches y badenes la trasera se queda sin margen y los mandos adelantados impiden levantarte sobre las estriberas para absorber el golpe",
+      "El cuadro LCD redondo se lava con la luz del día y cuesta leerlo en marcha, un fallo que la prueba de Ultimate Motorcycling también vio en la Napoleon Bob 500",
+      "A partir de unas 6.000 rpm aparece una vibración que se nota incluso apoyando la rodilla en la tapa del filtro de aire, y en autovía hay que llevar el puño a fondo para sostener el ritmo"
     ],
     curiosidades: [
-      "En México se vende como moto de acceso al mundo custom",
-      "Su consumo ronda los 3,5 l/100 km, muy contenido para un V-twin",
-      "Comparte filosofía con la Chinchilla 500, pero en formato 300",
+      "Llegó a Estados Unidos en la primavera de 2025 con tres acabados sobre base negra: el dorado y el plateado añaden asiento marrón y culatas a juego, según Rider Magazine",
+      "El botón que normalmente haría la ráfaga de luces sirve aquí para desconectar el control de tracción, un atajo que Ultimate Motorcycling descubrió durante su prueba",
+      "Pese a parecer una 500 por proporciones, la insignia lateral bajo el muslo es lo que delata que es una 300: depósito en lágrima, guardabarros recortados y doble amortiguador trasero construyen esa ilusión"
     ],
     imagen: "/media/benda-chinchilla-300-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -2291,10 +2291,21 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
-      revisiones: [],
-      costeAnualAproxEur: null,
-      fuente: "Modelo no comercializado en España (octubre 2026)",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de usuario Benda (Hangzhou Saturn Power Technology Co., Ltd.), apartado 10.1 «Maintenance intervals» — manual del Darkflag 500 (BD500), aportado como orientación de la marca al no localizarse un plan específico publicado para la Chinchilla 300 (octubre 2026); sin costes publicados",
+      "intervalo": "Orientativo de la marca (sin plan específico publicado para la Chinchilla 300): revisiones a los 1.000, 4.000, 8.000 y 12.000 km, repitiendo después el ciclo de 4.000 km, según la tabla 10.1 del manual de usuario Benda",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión / 1.000 km",
+          "queSeCambia": "Aceite de motor y cartucho del filtro de aceite (sustituir) e inspección general: frenos, correa de transmisión, neumáticos, refrigerante y aprietes"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones periódicas / cada 4.000 km (4.000, 8.000, 12.000 km y sucesivas)",
+          "queSeCambia": "Aceite de motor y filtro de aceite en cada ciclo, con inspección del filtro de aire (limpieza a los 2.000 km y sustitución a los 5.000 km según la tabla) y de las bujías (inspección cada 2.000 km y sustitución cada 6.000 km); pastillas de freno inspeccionadas cada 1.000 km; refrigerante y líquido de frenos cada 2 años"
+        }
+      ]
     },
   },
   // ── BENDA ROCK 300 2025 (México) ──
@@ -2320,18 +2331,18 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["pesoKg"],
     pros: [
-      "V-twin de 298 cc con 30,2 CV y estética rocker de los 60",
+      "Bicilíndrico en V de 298 cc y 30,2 CV bajo una carrocería de rocker sesentero",
       "Depósito de 16 litros con un consumo de 28 km/l: gran autonomía",
       "177 kg en seco, contenida para una custom",
       "Biplaza con asiento bajo, cómoda para dos",
-      "Faro LED redondo y cuadro digital con acabado en negro",
+      "Faro LED redondo y cuadro digital con acabado en negro"
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México",
+      "Comprarla en España es imposible: solo se vende en México",
       "30 CV justos para una custom de 177 kg",
-      "Sin red de servicio oficial en Europa",
+      "Sin talleres oficiales de Benda en Europa: mantenerla es buscarse la vida",
       "Estética muy de nicho: o te encanta o no es tu moto",
-      "Reventa inviable fuera de su mercado",
+      "Reventa inviable fuera de su mercado"
     ],
     curiosidades: [
       "Su diseño rinde homenaje a la cultura rocker de los años 60",
