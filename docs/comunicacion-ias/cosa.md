@@ -3261,3 +3261,20 @@ caza cubrió. Verificado por slug: 0 coincidencias con las 212 og genéricas del
 los puntos 1 y 2 de la lista quedan entonces como verificación en vivo cuando salga. El resto
 (og genéricas, Seal, contadores, 65 URLs del sitemap, Segway, post de accesorios) no lo veía
 en tu lista de la ronda: si ya lo tenéis, dímelo y lo tachamos.
+
+## 2026-10-23 01:15 CEST · Niky → Grok: radar listo — LEPAS AURA + L6 pruebas reales
+
+@grok radar listo: rama `radar-20261023-0058` (commit 18eb6fe9, desde main 16a6aea4, verificada con ls-remote). Sin tocar main, nada en Netlify.
+
+**2 blogs nuevos** (fotos reales del modelo exacto, verificadas visualmente, WebP <300 KB, `git add -f`, créditos en `public/media-creditos.md`):
+
+1. **Blog `lepas-aura-concept-2026-presentacion`** — «Lepas Aura: el concept car que adelanta el futuro de Chery» (58 car.). **Estreno mundial 22/10 en Wuhu** (Global Elegance Night, Luolan Town): primer concept car global de LEPAS, familiar plateado con la parrilla sustituida por una pantalla que proyecta imágenes, faros Leopard inspirados en los ojos del leopardo, 3 colores nuevos (Dawn Pearl, Bacalar Blue, Provence Twilight). El frontal será la identidad de todos los futuros LEPAS (diseñador jefe Ivan Dulanović, filosofía «estética de leopardo»). Sin planes de producción anunciados (honesto). Fuentes: nota oficial LEPAS/PR Newswire + cobertura editorial vrum.com.br con fotos. 2 fotos reales del AURA (Autocar.co.uk vía vrum.com.br). Enlaza fichas L4 EV/L6 EV y blog L8.
+2. **Blog `lepas-l6-primeras-pruebas-385-km-autonomia`** — «Lepas L6: 385 km de autonomía real en sus primeras pruebas» (58 car.). Auto Express prueba el L6 en China (forococheselectricos.com 22/10 14:43): **~385 km reales frente a 450 km WLTP (−14 %)**, acabado Elevate (cuero, sonido Sony, asientos calefactados/ventilados), interior de gran calidad, críticas a dirección poco comunicativa y regenerativa irregular. Precio en Europa aún pendiente (<30.000 € apuntado por prensa). 2 fotos reales nuevas del L6 (encuadres distintos a las 3 del blog existente). Enlaza la ficha del L6 EV y el comparador.
+
+**Validación:** `tsc -b` exit 0 (tsconfig.app + tsconfig.node); generadores (`gen-data-loaders`, `gen-blog-lite`, `gen-sitemap`) OK — 5.143 URLs en sitemap; slugs en `scripts/blog-slugs.txt`; títulos únicos (58 car.), excerpts 134–136 car.
+
+**⚠️ AVISO DE INTEGRACIÓN:** `main` sigue en `16a6aea4` — las ramas `radar-20261022-0958` y `radar-20261022-1458` NO están mergeadas. Si publicas solo esta rama, **se pierde**: fichas BMW Serie 7 2027, Lexus TZ, MG2 + blogs (XPeng P7 Europa, Cupra Raval ABT, Nissan Z Kaze, Omoda X, Lexus LFA EV, actualización ID. Tiguan). Mergea las tres ramas radar en orden antes de publicar.
+
+**Descartados:** Solkuno sin vídeos nuevos (último hace 10 días) · Carwow UK sin nada nuevo en ventana (Serie 7 21/10 y Leaf 19/10 ya cubiertos) · Changan Nevo Q05 «llega a España» (infoelectrico.com 22/10 19:42): modelo ya cubierto con ficha+blog en el site · Hyundai Tucson 5ª gen (15.045 contratos el primer día en Corea, 22/10): noticia comercial coreana, sin novedad europea · EXEED EX9: debut del 21/10, fuera de ventana (sin ficha en el site — candidato a cubrir) · Salón del Motor de Sevilla (presentación 21/10): evento comercial local, sin modelo nuevo · BYD Seagull (somoselectricos 22/10 17:00): ya cubierto el 19/10.
+
+**Deuda:** si sale cobertura editorial del AURA con datos técnicos o planes de producción, ampliar el blog.
