@@ -120,9 +120,9 @@ export const COCHES_JEEP: CocheComparador[] = [
       "El e-Hybrid 110 gasta menos (4,9 l/100 km) por ~2.000 € más",
       "Interior con plásticos duros en las versiones baratas",
     ],
-    imagen: "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "J-tBTA5hABA",
     videoCanal: "Neomotor",
     fuenteNombre: "motorgiga.com",
@@ -140,9 +140,6 @@ export const COCHES_JEEP: CocheComparador[] = [
       "estimado": true
     },
     galeria: [
-      { "src": "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Avenger 1.2 Turbo 100, vista tres cuartos", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Avenger 1.2 Turbo 100, frontal", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Avenger 1.2 Turbo 100", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -190,7 +187,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "CyyBDrOzjY4",
     videoCanal: "Auto Sensación",
     fuenteNombre: "km77",
@@ -210,7 +207,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Avenger 4xe 145, vista tres cuartos trasera", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Avenger 4xe 145 en pista de barro", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-avenger-4xe-145-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Avenger 4xe 145", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -258,7 +254,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "k3D-UiaH0hc",
     videoCanal: "No Solo Motor",
     fuenteNombre: "km77",
@@ -278,7 +274,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Renegade e-Hybrid 130, vista lateral", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Renegade e-Hybrid 130 en carretera", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-renegade-e-hybrid-130-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Renegade e-Hybrid 130", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -326,7 +321,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "zM-gSKsmbfA",
     videoCanal: "Loading Cars",
     fuenteNombre: "km77",
@@ -346,7 +341,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Renegade 4xe 190, vista tres cuartos", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Renegade 4xe 190 en pista off-road", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-renegade-4xe-190-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Renegade 4xe 190", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -394,7 +388,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kel_zxji02E",
     videoCanal: "coches.net",
     fuenteNombre: "km77",
@@ -414,7 +408,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Compass e-Hybrid 145, vista lateral", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Compass e-Hybrid 145 en carretera costera", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-compass-e-hybrid-145-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Compass e-Hybrid 145", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -462,7 +455,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "BGmyfTE_GCA",
     videoCanal: "Actualidad Motor",
     fuenteNombre: "km77",
@@ -482,7 +475,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Compass e-Hybrid Plug-In 225, vista tres cuartos trasera", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Compass e-Hybrid Plug-In 225 cargando en casa", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-compass-e-hybrid-plug-in-225-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Compass e-Hybrid Plug-In 225", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -530,7 +522,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "bQ5ow16qn0g",
     videoCanal: "AutoFM",
     fuenteNombre: "km77",
@@ -550,7 +542,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Compass eléctrico 231 Long Range, vista tres cuartos", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Compass eléctrico 231 Long Range en autopista", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-compass-electrico-231-long-range-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Compass eléctrico 231 Long Range", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -598,7 +589,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     fuenteNombre: "km77",
@@ -618,7 +609,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Compass 4xe eléctrico 375, vista tres cuartos", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Compass 4xe eléctrico 375 en pista de barro", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-compass-4xe-electrico-375-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Compass 4xe eléctrico 375", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -666,7 +656,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "8vKZTzN4kgM",
     videoCanal: "Loading Cars",
     fuenteNombre: "km77",
@@ -686,7 +676,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Wrangler 4xe 380, vista lateral", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Wrangler 4xe 380 en el desierto", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-wrangler-4xe-380-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Wrangler 4xe 380", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -734,7 +723,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     ],
     imagen: "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "b_3OTzXq_4Q",
     videoCanal: "Serrasan Motor",
     fuenteNombre: "km77",
@@ -754,7 +743,6 @@ export const COCHES_JEEP: CocheComparador[] = [
     galeria: [
       { "src": "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-oficial.webp", "alt": "Jeep Grand Cherokee 4xe 380, vista tres cuartos trasera", "ancho": 1920, "alto": 1280 },
       { "src": "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-hero.webp", "alt": "Jeep Grand Cherokee 4xe 380 en carretera de montaña", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/jeep-grand-cherokee-4xe-380-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Jeep Grand Cherokee 4xe 380", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -763,7 +751,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "J-tBTA5hABA",
     videoCanal: "NEOMOTOR",
     marca: "Jeep",
@@ -825,7 +813,7 @@ export const COCHES_JEEP: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/jeep-avenger-electric-156-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jeep Avenger eléctrico",
         "ancho": 1920,
         "alto": 1280

@@ -16,8 +16,8 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/im-l6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/im-l6-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/im-l6-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: "yf98eWBboFI",
     videoCanal: "Out of Spec Reviews",
     marca: "IM Motors",
@@ -58,7 +58,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/im-l6-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.25,
@@ -73,24 +73,9 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/im-l6-2025-precio-ficha-tecnica-hero.webp",
-        alt: "IM L6 Max, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-l6-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "IM L6 Max, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-l6-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del IM L6 Max, salpicadero digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "im-l6-2025-precio-ficha-tecnica",
   },
@@ -99,8 +84,8 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/im-l7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/im-l7-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/im-l7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6XF-OatV8GY",
     videoCanal: "CarNewsChina",
     marca: "IM Motors",
@@ -141,7 +126,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/im-l7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.41,
@@ -156,24 +141,9 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/im-l7-2024-precio-ficha-tecnica-hero.webp",
-        alt: "IM L7, tres cuartos delantero en carretera al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-l7-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "IM L7, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-l7-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del IM L7, triple pantalla digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "im-l7-2024-precio-ficha-tecnica",
   },
@@ -182,8 +152,8 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/im-ls7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/im-ls7-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/im-ls7-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "GETapL4DRxc",
     videoCanal: "AutoRizado Zacatecas",
     marca: "IM Motors",
@@ -224,7 +194,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/im-ls7-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.06,
@@ -239,24 +209,9 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/im-ls7-2025-precio-ficha-tecnica-hero.webp",
-        alt: "IM LS7 Ultra, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-ls7-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "IM LS7 Ultra, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/im-ls7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del IM LS7 Ultra, pantalla triple panorámica",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "im-ls7-2025-precio-ficha-tecnica",
   },

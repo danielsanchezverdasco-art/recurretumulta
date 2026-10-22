@@ -328,7 +328,6 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "teverun-fighter-11-plus": () => import("../comparador-patinetes-exp-p3.ts"),
     "teverun-fighter-mini": () => import("../comparador-patinetes-base.ts"),
     "teverun-fighter-mini-pro": () => import("../comparador-patinetes-exp-p12.ts"),
-    "teverun-fighter-supreme": () => import("../comparador-patinetes-exp-p3.ts"),
     "teverun-fighter-supreme-7260r": () => import("../comparador-patinetes-exp-p12.ts"),
     "teverun-tetra": () => import("../comparador-patinetes-exp-p10.ts"),
     "turboant-m10": () => import("../comparador-patinetes-exp-p9.ts"),
@@ -340,6 +339,13 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "turboant-x7": () => import("../comparador-patinetes-exp-p9.ts"),
     "turboant-x7-max": () => import("../comparador-patinetes-exp-p4.ts"),
     "turboant-x7-pro": () => import("../comparador-patinetes-base.ts"),
+  },
+  caravana: {
+    "tabbert-cazadora-460-e-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
+    "tabbert-da-vinci-495-he-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
+    "tabbert-pantiga-490-e-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
+    "tabbert-senara-490-td-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
+    "tabbert-senara-550-dmk-2026-precio-ficha-tecnica": () => import("../comparador-caravanas-tabbert.ts"),
   },
   historia: {
     "talaria-sting-r-mx4-2025-ficha-tecnica-precio": () => import("../historia-lote9.ts"),

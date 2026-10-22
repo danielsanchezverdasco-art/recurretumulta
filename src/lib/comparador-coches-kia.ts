@@ -11,7 +11,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ev4-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ev4-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "y4TR3llRyB0",
     videoCanal: null,
     marca: "Kia",
@@ -73,7 +73,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ev4-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia EV4 con doble pantalla panorámica",
         "ancho": 1920,
         "alto": 1280
@@ -95,7 +95,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ev5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ev5-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -157,7 +157,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ev5-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia EV5 con asientos traseros reclinables",
         "ancho": 1920,
         "alto": 1280
@@ -263,7 +263,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ev6-gt-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ev6-gt-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -325,7 +325,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ev6-gt-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia EV6 GT con asientos deportivos",
         "ancho": 1920,
         "alto": 1280
@@ -347,7 +347,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-niro-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-niro-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -409,7 +409,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-niro-ev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia e-Niro",
         "ancho": 1920,
         "alto": 1280
@@ -431,7 +431,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-niro-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-niro-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -493,7 +493,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-niro-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Niro PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -515,7 +515,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sportage-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sportage-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -577,7 +577,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-sportage-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Sportage PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -599,7 +599,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sorento-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sorento-hev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -661,7 +661,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-sorento-hev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Sorento con 7 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -683,7 +683,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sorento-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sorento-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -745,7 +745,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-sorento-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Sorento PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -767,7 +767,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ceed-sw-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ceed-sw-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -829,7 +829,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ceed-sw-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Ceed Tourer",
         "ancho": 1920,
         "alto": 1280
@@ -851,7 +851,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-proceed-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-proceed-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -913,7 +913,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-proceed-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia ProCeed GT-Line",
         "ancho": 1920,
         "alto": 1280
@@ -935,7 +935,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-picanto-gt-line-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-picanto-gt-line-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -997,7 +997,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-picanto-gt-line-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Picanto GT-line",
         "ancho": 1920,
         "alto": 1280
@@ -1019,7 +1019,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ev3-gt-line-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ev3-gt-line-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "qsoBbH9TBtE",
     videoCanal: "Emilio Vema",
     marca: "Kia",
@@ -1081,7 +1081,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ev3-gt-line-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia EV3 GT-line",
         "ancho": 1920,
         "alto": 1280
@@ -1103,7 +1103,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sportage-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sportage-mhev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -1165,7 +1165,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-sportage-mhev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Sportage",
         "ancho": 1920,
         "alto": 1280
@@ -1187,7 +1187,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-xceed-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-xceed-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -1249,7 +1249,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-xceed-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia XCeed PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -1271,7 +1271,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ceed-15-tgdi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ceed-15-tgdi-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -1333,7 +1333,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-ceed-15-tgdi-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Ceed",
         "ancho": 1920,
         "alto": 1280
@@ -1355,7 +1355,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sorento-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sorento-diesel-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -1417,7 +1417,7 @@ export const COCHES_KIA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kia-sorento-diesel-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Kia Sorento",
         "ancho": 1920,
         "alto": 1280
@@ -1521,7 +1521,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-sportage-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-sportage-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Kia",
@@ -1582,12 +1582,7 @@ export const COCHES_KIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/kia-sportage-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Kia Sportage",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/kia-sportage-diesel-2025-precio-ficha-tecnica-hero.webp",
         alt: "Kia Sportage 1.6 CRDi MHEV 136 CV Drive, vista frontal",
@@ -1604,7 +1599,7 @@ export const COCHES_KIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kia-ceed-sw-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kia-ceed-sw-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "m7CfEWveO80",
     videoCanal: "Arrancamos 2.0",
     marca: "Kia",
@@ -1665,12 +1660,7 @@ export const COCHES_KIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/kia-ceed-sw-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Kia Ceed SW",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/kia-ceed-sw-phev-2025-precio-ficha-tecnica-hero.webp",
         alt: "Kia Ceed SW 1.6 GDi PHEV eDrive, vista frontal",

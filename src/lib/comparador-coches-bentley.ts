@@ -12,7 +12,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -80,7 +80,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gt-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Continental GT, salpicadero de cuero y madera",
         "ancho": 1200,
         "alto": 800
@@ -255,7 +255,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "OPUm9-6YtME",
     videoCanal: "Quadis",
     marca: "Bentley",
@@ -323,7 +323,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Mulliner del Continental GT, pieles y maderas a medida",
         "ancho": 1200,
         "alto": 800
@@ -336,7 +336,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Fo2A0kvmP8E",
     videoCanal: "actualidadmotor",
     marca: "Bentley",
@@ -404,7 +404,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Continental GTC descapotable",
         "ancho": 1200,
         "alto": 800
@@ -498,7 +498,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "MzOnziRAviI",
     videoCanal: "soymotor",
     marca: "Bentley",
@@ -566,7 +566,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Continental GTC Speed",
         "ancho": 1200,
         "alto": 800
@@ -660,7 +660,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -728,7 +728,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Flying Spur, plazas traseras de limusina",
         "ancho": 1200,
         "alto": 800
@@ -741,7 +741,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -809,7 +809,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Flying Spur Azure, asientos Wellness",
         "ancho": 1200,
         "alto": 800
@@ -822,7 +822,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "V6GPSYiOHck",
     videoCanal: "actualidadmotor",
     marca: "Bentley",
@@ -890,7 +890,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Flying Spur Speed",
         "ancho": 1200,
         "alto": 800
@@ -984,7 +984,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1052,7 +1052,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Bentayga, cuero y madera noble",
         "ancho": 1200,
         "alto": 800
@@ -1065,7 +1065,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1133,7 +1133,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Bentayga Azure, asientos de confort",
         "ancho": 1200,
         "alto": 800
@@ -1146,7 +1146,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1214,7 +1214,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Bentayga Speed",
         "ancho": 1200,
         "alto": 800
@@ -1227,7 +1227,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1295,7 +1295,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Plazas traseras del Bentley Bentayga EWB, asientos tipo avión",
         "ancho": 1200,
         "alto": 800
@@ -1308,7 +1308,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1376,7 +1376,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Azure del Bentayga EWB, máximo confort trasero",
         "ancho": 1200,
         "alto": 800
@@ -1389,7 +1389,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1457,7 +1457,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Mulliner del Bentayga EWB, artesanía a medida",
         "ancho": 1200,
         "alto": 800

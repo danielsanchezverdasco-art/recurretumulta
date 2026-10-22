@@ -19,7 +19,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-750s-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-750s-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "McLaren",
@@ -87,7 +87,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-750s-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren 750S, puesto de conducción",
         "ancho": 1920,
         "alto": 1280
@@ -100,7 +100,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-750s-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-750s-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "WlgDyvktJEI",
     videoCanal: "AutoBild España",
     marca: "McLaren",
@@ -168,7 +168,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-750s-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren 750S Spider descapotado",
         "ancho": 1920,
         "alto": 1280
@@ -181,7 +181,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-artura-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-artura-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kPrs-wejcFM",
     videoCanal: "Autoproyecto",
     marca: "McLaren",
@@ -249,7 +249,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-artura-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren Artura, puesto de conducción",
         "ancho": 1920,
         "alto": 1280
@@ -262,7 +262,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-artura-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-artura-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ZO_h9sNI4m0",
     videoCanal: "AutoScout24 España",
     marca: "McLaren",
@@ -330,7 +330,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-artura-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren Artura Spider descapotado",
         "ancho": 1920,
         "alto": 1280
@@ -343,7 +343,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-gts-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-gts-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "McLaren",
@@ -411,7 +411,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-gts-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren GTS, cuero Nappa",
         "ancho": 1920,
         "alto": 1280
@@ -424,7 +424,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-w1-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-w1-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "V-lCMYl2quY",
     videoCanal: "Supercars All Day",
     marca: "McLaren",
@@ -492,7 +492,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mclaren-w1-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del McLaren W1, cockpit",
         "ancho": 1920,
         "alto": 1280
@@ -829,7 +829,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "McLaren",
@@ -897,7 +897,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del MCL38 Celebration Edition con firmas de Norris y Piastri",
         "ancho": 1200,
         "alto": 800

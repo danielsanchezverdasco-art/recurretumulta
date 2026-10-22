@@ -24,11 +24,11 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     imagenOficial:
       "/media/maextro-s800-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/maextro-s800-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "d6FGjIQJEZ8",
     videoCanal: "MotorWatt",
     marca: "Maextro",
-    modelo: "S800",
+    modelo: "S800 Eléctrico",
     tipo: "Eléctrico",
     categoria: "Berlina",
     precioDesde: 92040,
@@ -92,12 +92,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maextro-s800-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maextro S800 con techo de cielo estrellado y asientos ejecutivos",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "maextro-s800-2025-precio-ficha-tecnica",
   },
@@ -113,7 +108,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Maextro",
-    modelo: "S800",
+    modelo: "S800 EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Berlina",
     precioDesde: 92040,

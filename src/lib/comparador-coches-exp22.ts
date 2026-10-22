@@ -10,7 +10,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "3.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -48,6 +48,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-3-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-3-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-3-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 3.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-3-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 3.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-3-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -85,7 +89,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "4.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: 340,
@@ -123,6 +127,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-4-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-4-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-4-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 4.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-4-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 4.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-4-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -198,6 +206,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-5-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-5-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-5-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 5.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-5-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 5.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-5-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -235,7 +247,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "6.0",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -273,6 +285,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-6-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-6-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-6-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 6.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-6-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 6.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-6-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -310,7 +326,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "7.0",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -348,6 +364,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-7-0-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-7-0-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-7-0-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR 7.0", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-7-0-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR 7.0", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-7-0-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -385,7 +405,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "ICKX K2",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -423,6 +443,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR ICKX K2", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-ickx-k2-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR ICKX K2", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-ickx-k2-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -460,7 +484,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Sportequipe 7",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: 185,
     autonomiaKm: null,
     maleteroL: null,
@@ -498,6 +522,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR Sportequipe 7", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-sportequipe-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR Sportequipe 7", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-sportequipe-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -535,7 +563,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Sportequipe 8",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de DR España publicada (la marca solo difunde precios en concesionarios; sin lista oficial ES)
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -573,6 +601,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del DR Sportequipe 8", ancho: 1804, alto: 1203 },
+      { src: "/media/dr-sportequipe-8-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del DR Sportequipe 8", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "dr-sportequipe-8-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -610,7 +642,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "3",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 16900, // EVO España oficial (landing evo-autoespana.es 10/2026): EVO 3 gasolina, PVP recomendado al contado 16.900 €
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -648,6 +680,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/evo-3-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/evo-3-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/evo-3-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del EVO 3", ancho: 1804, alto: 1203 },
+      { src: "/media/evo-3-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del EVO 3", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "evo-3-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -685,7 +721,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: 340,
@@ -720,9 +756,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Interior con plásticos duros",
     ],
-    imagen: "/media/evo-4-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/evo-4-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/evo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "evo-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -760,7 +798,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "5",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -795,9 +833,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Reventa incierta",
       "Solo tracción delantera",
     ],
-    imagen: "/media/evo-5-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/evo-5-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/evo-5-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "evo-5-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -835,7 +875,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "6",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -870,9 +910,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Consumo real por confirmar",
       "Valor de reventa incierto",
     ],
-    imagen: "/media/evo-6-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     imagenOficial: "/media/evo-6-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "evo-6-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -910,7 +952,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "7",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 31900, // EVO España oficial (landing evo-autoespana.es 10/2026): EVO 7 gasolina, PVP recomendado al contado 31.900 €
     potenciaCv: 185,
     autonomiaKm: null,
     maleteroL: null,
@@ -945,9 +987,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Consumo elevado con 185 CV",
       "Red de servicio aún pequeña",
     ],
-    imagen: "/media/evo-7-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/evo-7-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/evo-7-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "evo-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -985,7 +1029,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Cross 4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,
@@ -1020,9 +1064,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Marca poco conocida en España",
     ],
-    imagen: "/media/evo-cross-4-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     imagenOficial: "/media/evo-cross-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "evo-cross-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1060,7 +1106,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G01",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1098,6 +1144,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g01-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G01", ancho: 1200, alto: 900 },
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G01", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "swm-g01-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1135,7 +1185,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G01F",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1170,9 +1220,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Consumo mejorable",
     ],
-    imagen: "/media/swm-g01f-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/swm-g01f-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/swm-g01f-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "swm-g01f-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1210,7 +1262,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G03F",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1245,9 +1297,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Maletero reducido con las 7 plazas",
     ],
-    imagen: "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/swm-g03f-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "swm-g03f-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1285,7 +1339,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "G05 Pro",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial de SWM España publicada (solo concesionarios; sin lista oficial ES)
     potenciaCv: 156,
     autonomiaKm: null,
     maleteroL: null,
@@ -1323,6 +1377,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/swm-g05-pro-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G05 Pro", ancho: 1200, alto: 750 },
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G05 Pro", ancho: 1200, alto: 750 }
+    ],
     analisisSlug: "swm-g05-pro-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1395,9 +1453,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Red de concesionarios en construcción",
     ],
-    imagen: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "baic-beijing-x55-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1470,9 +1530,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Marca recién llegada a España",
       "Sin prueba EuroNCAP publicada",
     ],
-    imagen: "/media/baic-bj40-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/baic-bj40-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/baic-bj40-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "baic-bj40-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1545,9 +1607,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Marca recién llegada",
       "Sin prueba EuroNCAP publicada",
     ],
-    imagen: "/media/baic-bj30-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/baic-bj30-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/baic-bj30-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "baic-bj30-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1620,9 +1684,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Marca recién llegada",
       "Sin prueba EuroNCAP publicada",
     ],
-    imagen: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/baic-beijing-5-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "baic-beijing-5-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1698,6 +1764,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eTerron 9", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eTerron 9", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "maxus-eterron-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1735,7 +1805,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "MIFA 9",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // No figura en la gama actual de Maxus España (maxus-automotive.es, solo vehículos comerciales y pick-up)
     potenciaCv: 245,
     autonomiaKm: 435,
     maleteroL: null,
@@ -1773,6 +1843,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus MIFA 9", ancho: 1200, alto: 546 },
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus MIFA 9", ancho: 1200, alto: 546 }
+    ],
     analisisSlug: "maxus-mifa-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1810,7 +1884,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "T60 Max",
     tipo: "Diésel",
     categoria: "Pick-up",
-    precioDesde: null,
+    precioDesde: 29990, // maxus-automotive.es oficial 10/2026: T60 Max desde 29.990 €
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: null,
@@ -1848,6 +1922,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-t60-max-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T60 Max", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T60 Max", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "maxus-t60-max-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1885,7 +1963,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "eDeliver 9",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: 40950, // maxus-automotive.es oficial 10/2026: eDELIVER 9 desde 40.950 €
     potenciaCv: 204,
     autonomiaKm: 350,
     maleteroL: null,
@@ -1923,6 +2001,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 9", ancho: 1200, alto: 801 },
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 9", ancho: 1200, alto: 801 }
+    ],
     analisisSlug: "maxus-edeliver-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1998,6 +2080,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T90 EV", ancho: 1200, alto: 648 },
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T90 EV", ancho: 1200, alto: 648 }
+    ],
     analisisSlug: "maxus-t90-ev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2035,7 +2121,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "eDeliver 7",
     tipo: "Eléctrico",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Fuera de la gama actual de Maxus España (maxus-automotive.es ya no lo ofrece; sustituido por el eDeliver 5)
     potenciaCv: 204,
     autonomiaKm: 320,
     maleteroL: null,
@@ -2073,6 +2159,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 7", ancho: 1200, alto: 960 },
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 7", ancho: 1200, alto: 960 }
+    ],
     analisisSlug: "maxus-edeliver-7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2145,9 +2235,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Acabados sencillos",
       "Cambio manual de tacto mejorable",
     ],
-    imagen: "/media/mg-3-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/mg-3-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/mg-3-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "mg-3-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2223,6 +2315,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 3 Hybrid+", ancho: 1200, alto: 675 },
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 3 Hybrid+", ancho: 1200, alto: 675 }
+    ],
     analisisSlug: "mg-3-hybrid-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2298,6 +2394,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mg-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 4", ancho: 1200, alto: 615 },
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 4", ancho: 1200, alto: 615 }
+    ],
     analisisSlug: "mg-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2370,9 +2470,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Frenos que sufren en uso intensivo",
       "Seguro más caro por potencia",
     ],
-    imagen: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/mg-4-xpower-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "mg-4-xpower-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2445,9 +2547,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP específica publicada",
       "Suspensión blanda con carga",
     ],
-    imagen: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/mg-5-ev-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "mg-5-ev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2481,7 +2585,7 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "xpeng-g7-2026-precio-ficha-tecnica",
-    marca: "Xpeng",
+    marca: "XPeng",
     modelo: "G7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -2523,6 +2627,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/xpeng-g7-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Xpeng G7", ancho: 1200, alto: 800 },
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Xpeng G7", ancho: 1200, alto: 800 }
+    ],
     analisisSlug: "xpeng-g7-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2595,9 +2703,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Red de servicio en construcción",
     ],
-    imagen: "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/im-motors-l6-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "im-motors-l6-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2670,9 +2780,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Marca poco conocida en España",
     ],
-    imagen: "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/dfsk-500-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "dfsk-500-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2710,7 +2822,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Tiggo 4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Chery no se comercializa oficialmente en España (vía Omoda/Jaecoo/Ebro); sin tarifa oficial ES
     potenciaCv: 147,
     autonomiaKm: null,
     maleteroL: 340,
@@ -2745,9 +2857,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Consumo mejorable en ciudad",
       "Maletero de 340 litros, justo",
     ],
-    imagen: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "chery-tiggo-4-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2781,7 +2895,7 @@ export const COCHES_EXP22: CocheComparador[] = [
   },
   {
     id: "nio-et7-2025-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -2823,6 +2937,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/nio-et7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Nio ET7", ancho: 1200, alto: 581 },
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Nio ET7", ancho: 1200, alto: 581 }
+    ],
     analisisSlug: "nio-et7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2895,9 +3013,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Autonomía por confirmar",
     ],
-    imagen: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/leapmotor-a10-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "leapmotor-a10-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -2935,7 +3055,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "HS5 PHEV",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la web oficial de Hongqi muestra el HS5 (gasolina) sin precio y sin versión PHEV con tarifa; no hay PVP oficial en EUR.
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -2970,9 +3090,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Consumo en modo híbrido por confirmar",
     ],
-    imagen: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "hongqi-hs5-phev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3048,6 +3170,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hongqi Tiangong 08", ancho: 1200, alto: 900 },
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Hongqi Tiangong 08", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "hongqi-tiangong-08-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3123,6 +3249,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS75 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS75 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs75-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3198,6 +3328,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS55 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS55 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs55-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3273,6 +3407,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-K", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-K", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-uni-k-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3348,6 +3486,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-t-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-T", ancho: 1200, alto: 695 },
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-T", ancho: 1200, alto: 695 }
+    ],
     analisisSlug: "changan-uni-t-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3423,6 +3565,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-v-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-V", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-V", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-uni-v-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3495,9 +3641,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Marca poco conocida en Europa",
     ],
-    imagen: "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/changan-uni-z-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "changan-uni-z-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3535,7 +3683,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "CS35 Plus",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: Changan no vende el CS35 Plus oficialmente en España/Europa con PVP en EUR; solo tarifas locales no EUR en otros mercados.
     potenciaCv: 160,
     autonomiaKm: null,
     maleteroL: null,
@@ -3573,6 +3721,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS35 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS35 Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-cs35-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3648,6 +3800,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagen: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-eado-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Eado Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Eado Plus", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: "changan-eado-plus-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -3720,9 +3876,11 @@ export const COCHES_EXP22: CocheComparador[] = [
       "Sin prueba EuroNCAP publicada",
       "Marca en relanzamiento europeo",
     ],
-    imagen: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/geely-coolray-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+    ],
     analisisSlug: "geely-coolray-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,

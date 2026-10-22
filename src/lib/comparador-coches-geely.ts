@@ -16,8 +16,8 @@ export const COCHES_GEELY: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/geely-e5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/geely-e5-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/geely-e5-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "IKBvbkV2h_Y",
     videoCanal: "pruebatucoche",
     marca: "Geely",
@@ -58,7 +58,7 @@ export const COCHES_GEELY: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["autonomiaKm", "ceroCien"],
-    imagen: "/media/geely-e5-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "en la prueba realizada con la versión MAX+, el modelo ha permitido más de 300 kilómetros en carretera con un consumo combinado de 17 kWh",
@@ -86,19 +86,19 @@ export const COCHES_GEELY: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/geely-e5-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Geely E5, SUV eléctrico, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/geely-e5-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Geely E5, vista tres cuartos trasera con piloto LED horizontal",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/geely-e5-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Geely E5, pantalla táctil de 15,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -112,8 +112,8 @@ export const COCHES_GEELY: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/geely-starray-em-i-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/geely-starray-em-i-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/geely-starray-em-i-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "7A1VFwVS1eE",
     videoCanal: "Loading Cars",
     marca: "Geely",
@@ -154,7 +154,7 @@ export const COCHES_GEELY: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 54,
     aprox: ["autonomiaKm", "ceroCien", "pesoKg"],
-    imagen: "/media/geely-starray-em-i-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "expectativas superadas y mucha calidad interior",
@@ -182,19 +182,19 @@ export const COCHES_GEELY: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/geely-starray-em-i-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Geely Starray EM-i, SUV híbrido enchufable, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/geely-starray-em-i-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Geely Starray EM-i, vista tres cuartos trasera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/geely-starray-em-i-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Geely Starray EM-i, pantalla HD de 15,4 pulgadas",
         "ancho": 1920,
         "alto": 1280

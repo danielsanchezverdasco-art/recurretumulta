@@ -227,7 +227,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 1,
     potenciaCv: 22,
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial publicada en España (Mobilize/renault Pro no publica precio del Bento como texto accesible)
     pros: [
       "Caja de carga cerrada de 649 litros con puertas asimétricas: reparto urbano de última milla sin emisiones",
       "149 km de autonomía, suficiente para una jornada completa de reparto en ciudad",
@@ -1689,91 +1689,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     videoId: "qZSnZCwy4_M"
   },
   {
-    altoMm: 1580,
-    analisisSlug: null,
-    anchoMm: 1825,
-    aprox: [
-      "autonomiaKm"
-    ],
-    autonomiaKm: 508,
-    bateriaKwh: 65.4,
-    cargaRapidaKw: 100,
-    categoria: "SUV",
-    ceroCien: 8.1,
-    consumo: 16.8,
-    consumoUnidad: "kWh/100 km",
-    contras: [
-      "EuroNCAP 2023: solo 4 estrellas para la segunda generación del Kona",
-      "Precio desde 42.450 € elevado frente a rivales chinos eléctricos",
-      "En EE.UU. se pausa la venta del Kona EV 2026 por estrategia de gama",
-      "Peso de 1.773 kg penaliza agilidad en carreteras reviradas",
-      "Autonomía real en autopista inferior a los 508 km WLTP anunciados"
-    ],
-    emisionesCo2: 0,
-    etiquetaDgt: "Cero",
-    euroncap: {
-      ano: 2023,
-      estrellas: 4,
-      nota: "4 estrellas EuroNCAP 2023 para la segunda generación (80% adulto, 83% infantil); la marca no publica URL directa del informe",
-      url: null
-    },
-    fuenteNombre: "hyundai.news / carnovo.com / motorgiga.com",
-    fuenteUrl: "https://www.hyundai.news/eu/models/suv/kona/press-kit.html",
-    galeria: [
-      {
-        alt: "Hyundai Kona Eléctrico 2026 vista exterior",
-        alto: 666,
-        ancho: 1600,
-        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp"
-      },
-      {
-        alt: "Interior del Hyundai Kona Eléctrico 2026 con doble pantalla de 12,3 pulgadas",
-        alto: 1066,
-        ancho: 1600,
-        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
-    ],
-    garantiaBateriaAnos: 8,
-    garantiaBateriaDegradacionPct: null,
-    garantiaBateriaKm: 160000,
-    id: "hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica",
-    imagen: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
-    imagenOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    largoMm: 4355,
-    maleteroL: 466,
-    marca: "Hyundai",
-    modelo: "Kona Eléctrico 65 kWh",
-    parNm: 255,
-    pesoKg: 1773,
-    planMantenimiento: {
-      fuente: "hyundai.com/es: intervalo oficial cada año o 15.000 km; costes no publicados",
-      intervalo: "Cada 1 año o 15.000 km",
-      revisiones: [
-        {
-          costeAproxEur: null,
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general, filtro habitáculo, líquido frenos según plan"
-        }
-      ]
-    },
-    plazas: 5,
-    potenciaCv: 204,
-    precioDesde: 42450,
-    pros: [
-      "Autonomía WLTP de hasta 508 km con batería de 65,4 kWh útiles",
-      "Carga rápida DC de 100 kW y carga AC trifásica de 11 kW",
-      "Maletero de 466 litros más 27 litros de frunk delantero",
-      "Etiqueta Cero con acceso total a ZBE y aparcamiento bonificado",
-      "Garantía de batería de 8 años o 160.000 km oficial Hyundai"
-    ],
-    tipo: "Eléctrico",
-    traccion: "Delantera",
-    velocidadMax: 172,
-    videoCanal: null,
-    videoId: null
-  },
-  {
     altoMm: 1500,
     analisisSlug: null,
     anchoMm: 1745,
@@ -2468,7 +2383,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Countryman D",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: 450,
@@ -2915,7 +2830,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "AMG GLC 43 4MATIC",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 43
     potenciaCv: 421,
     autonomiaKm: null,
     maleteroL: 620,
@@ -3985,7 +3900,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 335,
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial Reino Unido: 102.000 GBP (versión con capota de lona; 105.000 GBP con techo duro), precio anunciado por Morgan en el lanzamiento ofi.
     pros: [
       "Sustituto del Plus Six con chasis de aluminio encolado revisado, nueva dirección y nuevos subchasis: el Morgan más dinámico de la historia.",
       "Motor BMW B58 3.0 biturbo de 335 CV y 500 Nm con cambio automático ZF de 8 velocidades: 0-100 km/h en 3,9 segundos.",

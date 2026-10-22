@@ -49,9 +49,9 @@ export const COCHES_NOBLE: CocheComparador[] = [
       "Habitabilidad espartana y maletero delantero limitado",
       "Consumo no homologado y marca minúscula: garantía y repuestos inciertos",
     ],
-    imagen: "/media/noble-m500-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     imagenOficial: "/media/noble-m500-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/noble-m500-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "noble-m500-2025-precio-ficha-tecnica",
     videoId: "5awrSW8WcNI",
     videoCanal: "Top Gear",
@@ -69,24 +69,9 @@ export const COCHES_NOBLE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/noble-m500-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Noble M500 amarillo, tres cuartos delantero en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/noble-m500-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Noble M500 amarillo, vista lateral de perfil en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/noble-m500-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior minimalista del Noble M500 con pantalla digital y palanca de cambio manual",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
 ];

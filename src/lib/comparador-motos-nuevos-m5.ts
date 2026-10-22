@@ -174,7 +174,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
   },
   {
     id: "seat-mo-125-performance-2025-ficha-tecnica-precio",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "MÓ 125 Performance",
     version: "MÓ 125 Performance 2025",
     categoria: "Scooter",

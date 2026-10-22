@@ -90,11 +90,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Chasis de doble cuna en acero 25CrMo4 actualizado para 2025",
       "Suspensiones WP con 300 mm de recorrido delante y detrás",
       "Homologada Euro5+: matriculable y usable a diario",
-      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas",
-      "Sin premezcla: la bomba de aceite electrónica dosifica la mezcla (media 60:1) y el cuadro avisa con un testigo cuando el nivel baja (dato oficial GasGas).",
-      "Inyección TBI en el cuerpo de aceleración: la centralita ajusta la mezcla según temperatura, presión y régimen, con una entrega limpia a cualquier altitud.",
-      "Chasis 2025 revisado para un paso por curva más preciso, manteniendo el eje de balance que reduce vibraciones y fatiga en las salidas largas.",
-      "Depósito transparente de 9 litros: el nivel de gasolina se comprueba de un vistazo sin abrir el tapón.",
+      "Precio 9.955 €: la 250 2T austriaca más asequible del trío KTM/Husky/GasGas"
     ],
     contras: [
       "Hay que hacer la mezcla de gasolina sin plomo 98 y aceite 2T",
@@ -102,31 +98,24 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Depósito de 9 litros: hay que planificar los repostajes",
       "Asiento a 956 mm de altura: no es para todos los públicos",
       "El 2T exige más atención al mantenimiento que un 4T",
-      "Sonoridad y humo del 2T, aunque cumple Euro5+",
-      "GasGas no declara la potencia: su ficha oficial no incluye cifra de CV al tratarse de una moto de competición, así que no se puede comparar en papel con rivales que sí la publican.",
-      "Depende totalmente de la batería (2 Ah) para la inyección y el arranque eléctrico: no hay patada de emergencia como en las 2T clásicas de carburador (MP Racing).",
-      "Hay que repostar aceite 2T aparte de la gasolina: la bomba electrónica evita la premezcla, pero hay que vigilar el nivel del depósito de aceite en cada salida (el cuadro avisa con un testigo).",
+      "Sonoridad y humo del 2T, aunque cumple Euro5+"
     ],
     curiosidades: [
       "Su diámetro por carrera es de 72 x 66,4 mm, cotas típicas de las 250 2T de competición",
       "El embrague es multidisco DS en baño de aceite con accionamiento hidráulico Braktec",
       "Monta cadena con junta en X de paso 520, pensada para durar en el barro",
-      "Comparte la base técnica con la KTM 250 EXC del mismo año",
-      "Su diámetro por carrera real es de 66,4 x 72 mm (dato de MP Racing): cotas de carrera larga, típicas de las 250 2T de enduro.",
-      "La mezcla media es de 60:1 gracias a la bomba electrónica: según GasGas, un depósito de aceite da para 'horas y horas' de pilotaje.",
-      "Para 2025 GasGas revisó toda la gama de enduro (con el regreso de la EC 125): la EC 250 recibió un chasis actualizado para mejorar el paso por curva (nota de prensa oficial GASGAS España).",
-      "El depósito es de polietileno transparente: el nivel de gasolina se ve sin quitar el tapón.",
+      "Comparte la base técnica con la KTM 250 EXC del mismo año"
     ],
-    imagen: "/media/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       { src: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-2.webp", alt: "Detalle del chasis y suspensiones WP de la GasGas EC 250 2025", ancho: 1200, alto: 800 },
       { src: "/media/motos/gasgas-ec-250-2t-2025-ficha-tecnica-precio-3.webp", alt: "GasGas EC 250 2025 rodando por una pista forestal", ancho: 1200, alto: 800 }
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "GASGAS España (web oficial)",
-    fuenteUrl: "https://www.gasgas.com/es-es/models/enduro/2-tiempos/ec-250-2025.html",
-    analisisSlug: "gasgas-ec-250-2t-2025-analisis-opinion",
+    fuenteNombre: "MP Racing (concesionario GasGas)",
+    fuenteUrl: "https://mpracing.es/gasgas-motos/100672-moto-gas-gas-ec-250-2t-2025.html",
+    analisisSlug: "gasgas-ec-250-2t-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       trucos: ["Sin premezcla: la bomba electrónica dosifica el aceite 2T (media 60:1); el testigo del cuadro avisa cuando el nivel baja (dato oficial GasGas)"]
     },
@@ -323,18 +312,14 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-    ],
+    aprox: [],
     pros: [
-      "Consumo real de ≈5 L/100 km (fuente: Revista Moto)",
       "Monocilíndrico de 692,7 cc con 74 CV: el supermotard grande por excelencia",
       "Parte ciclo de supermoto real: llantas 17\", frenos potentes y geometría agresiva",
       "Electrónica completa: modos de conducción, control de tracción y ABS en curva",
       "Matriculable y usable a diario con etiqueta C",
       "Base KTM 690 SMC R con el toque rojo GasGas y precio 11.449 €",
-      "Diversión máxima en carreteras de curvas y puertos de montaña",
-      "Quickshifter de doble sentido de serie (Motosan)",
-      "Intervalos de mantenimiento cada 10.000 km, de los más largos de su segmento (GasGas)",
+      "Diversión máxima en carreteras de curvas y puertos de montaña"
     ],
     contras: [
       "146 kg y 74 CV: exige respeto, no es una 125 con esteroides",
@@ -342,17 +327,13 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Postura y asiento pensados para atacar, no para viajar",
       "Neumáticos deportivos de 17\" caros y de corta duración",
       "El depósito limita la autonomía en ruta",
-      "Seguro a todo riesgo elevado por potencia y perfil",
-      "A partir de 100 km/h la imagen de los retrovisores se vuelve borrosa por las vibraciones (Revista Moto)",
+      "Seguro a todo riesgo elevado por potencia y perfil"
     ],
     curiosidades: [
       "Comparte motor y base con la KTM 690 SMC R, la reina de las supermotard",
       "Su nombre ES viene de 'Enduro Supermoto', la familia asfáltica de GasGas",
       "Es una de las pocas supermotard grandes homologadas Euro5 del mercado",
-      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción",
-      "El depósito de 13,5 L va integrado en el subchasis trasero autoportante de poliamida, que pesa solo 5,2 kg (GasGas)",
-      "Laia Sanz rodó con la ES 700 en una prueba de unos 1.600 km por el centro de España (Revista Moto)",
-      "Existe un mapa de motor específico A2 que la limita a 30 kW (gasgas.com)",
+      "El monocilíndrico de 692,7 cc es uno de los más grandes en producción"
     ],
     imagen: "/media/motos/gasgas-es-700-2024-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -429,7 +410,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 125,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -442,16 +423,14 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "125 2T homologada Euro5: se matricula y se conduce con el A1",
       "Solo 101 kg en seco: agilidad total en zonas técnicas",
       "Horquilla KYB de 48 mm, la referencia japonesa en suspensiones",
       "Motor 2T con carácter racing heredado de la competición",
       "Estética italiana muy cuidada, distinta a las austriacas",
-      "Precio de referencia de 9.990 € (modelo 2026; el PVP de la 2025 no es verificable)",
-      "Tres títulos mundiales Youth consecutivos (2021, 2022 y 2023) avalan la plataforma de la XE 125 (enduromagazine.com).",
-      "Bastidor 100 % de aluminio y suspensiones Kayaba SSS de 48 mm de cartucho cerrado: componentes de nivel racing de serie (enduromagazine.com).",
+      "Precio contenido (~9.908 €) para una 125 de este nivel"
     ],
     contras: [
       "125 2T: hay que llevarla siempre en la zona buena del cuentavueltas",
@@ -459,28 +438,24 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Red de concesionarios Fantic más pequeña que la de KTM o Yamaha",
       "Autonomía justa para rutas largas",
       "Asiento alto y postura de competición",
-      "El 2T pequeño castiga el embrague en trialeras lentas",
-      "El motor 2T exige llevarla alta de vueltas y tirar del embrague en zonas lentas; el embrague es por cable y se nota algo rígido (enduromagazine.com).",
-      "El arranque es solo por pedal: no hay arranque eléctrico (enduromagazine.com).",
+      "El 2T pequeño castiga el embrague en trialeras lentas"
     ],
     curiosidades: [
       "Fantic es una marca italiana histórica resucitada que hoy compite en Moto2 y en enduro",
       "La XE 125 comparte filosofía con las 125 de competición del Italiano de Enduro",
       "KYB es el mismo proveedor de suspensiones de Yamaha",
-      "Su precio la sitúa como alternativa italiana a las 125 austriacas",
-      "La base del motor es Yamaha, readaptada por los técnicos de Fantic para convertirla en una enduro 125 de competición (enduromagazine.com).",
-      "Para la MY25 estrenó radiadores más largos que mejoran la extracción de calor un 35 %, clave en trialeras de baja velocidad (enduromagazine.com).",
+      "Su precio la sitúa como alternativa italiana a las 125 austriacas"
     ],
-    imagen: "/media/fantic-xe-125-2025-ficha-tecnica-precio.webp",
+    imagen: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-2.webp", alt: "Detalle de la horquilla KYB de la Fantic XE 125 2025", ancho: 1200, alto: 800 },
       { src: "/media/motos/fantic-xe-125-2025-ficha-tecnica-precio-3.webp", alt: "Fantic XE 125 2025 en un tramo de enduro", ancho: 1200, alto: 800 }
     ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "enduromagazine.com (prueba de la gama Enduro 2025; PVP de referencia 9.990 € del modelo 2026 en su cobertura de la gama 2027)",
-    fuenteUrl: "https://enduromagazine.com/probamos-las-nuevas-fantic-xe-y-xe-f-enduro-2025/",
-    analisisSlug: "fantic-xe-125-2025-analisis-opinion"
+    videoId: "fV5GKTJdjlo",
+    videoCanal: "𝐁𝐀𝐓𝐓.",
+    fuenteNombre: "Fantic Motor España",
+    fuenteUrl: null,
+    analisisSlug: "fantic-xe-125-2025-ficha-tecnica-precio"
   },
   {
     id: "fantic-xef-250-2025-ficha-tecnica-precio",
@@ -489,7 +464,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 250,
     categoria: "Enduro",
-    precioDesde: 10650,
+    precioDesde: 10890, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -502,7 +477,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 4T de 250 cc con base Yamaha: fiabilidad legendaria",
       "Entrega de potencia suave y progresiva, ideal para progresar",
@@ -546,7 +521,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: 10790,
+    precioDesde: 11390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -620,7 +595,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "4T 2025",
     cilindradaCc: 450,
     categoria: "Enduro",
-    precioDesde: 11850,
+    precioDesde: 12290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -677,7 +652,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 500,
     categoria: "Trail",
-    precioDesde: 7090,
+    precioDesde: 7090, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.4,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -690,7 +665,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler vintage italiana que enamora",
       "Motor de 449 cc con 40 CV y 43 Nm: suficiente y con carácter",
@@ -731,7 +706,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 700,
     categoria: "Trail",
-    precioDesde: 9490,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -744,7 +719,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 689 cc: el salto natural desde la Caballero 500",
       "Estética scrambler con prestaciones de moto grande",
@@ -755,7 +730,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     ],
     contras: [
       "Requiere carnet A: no vale el A2",
-      "Precio en oferta: la tarifa oficial es superior",
+      "9.990 € de tarifa oficial: en la franja alta de las scrambler bicilíndricas",
       "Menos protección y capacidad de carga que una trail al uso",
       "Suspensiones orientadas al estilo más que al off-road serio",
       "Consumo superior al de la 500 en uso urbano",
@@ -785,7 +760,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Enduro",
-    precioDesde: 10949,
+    precioDesde: null, // Sherco no publica tarifa oficial accesible en España para la 300 SE Factory (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -798,7 +773,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 293 cc: el rey del hard enduro con par desde ralentí",
       "Solo 105 kg: ligereza extrema para zonas imposibles",
@@ -808,6 +783,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Sherco es especialista francesa en enduro y trial con gran palmarés"
     ],
     contras: [
+      "Sin precio oficial publicado: Sherco no difunde PVP en España para su gama de enduro",
       "Moto de competición: sin homologación para carretera",
       "Precio (~10.949 €) en la franja alta del enduro 2T",
       "El 300 2T exige técnica en zonas lentas para no calar",
@@ -956,7 +932,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -969,7 +945,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T de trial con entrega dócil: la cilindrada ideal para progresar",
       "Versión Factory con componentes de competición",
@@ -1301,7 +1277,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 7700,
+    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1314,7 +1290,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T: la cilindrada más equilibrada para aprender trial en serio",
       "Carácter dócil y par suficiente sin la brusquedad del 300",
@@ -1324,6 +1300,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Mantenimiento simple y barato"
     ],
     contras: [
+      "Sin precio oficial publicado: Beta no difunde tarifa pública de la gama EVO",
       "Moto de trial: sin homologación ni uso en carretera",
       "El 250 se queda corto frente al 300 en zonas de máximo nivel",
       "Mezcla 2T obligatoria",
@@ -1359,7 +1336,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8314,
+    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 Factory (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1372,7 +1349,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La EVO 250 con la preparación racing de los pilotos oficiales",
       "Mejoras en chasis y motor respecto a la EVO estándar",
@@ -1382,6 +1359,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración Factory exclusiva"
     ],
     contras: [
+      "Sin precio oficial publicado: Beta no difunde tarifa pública de la gama EVO",
       "~600 € más que la EVO 250 estándar por mejoras sutiles",
       "Sin homologación: solo trial",
       "El extra racing no se aprovecha sin nivel alto",
@@ -1417,7 +1395,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Trail",
-    precioDesde: 6910,
+    precioDesde: 6910, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 26,
     potenciaCv: 35,
     autonomiaKm: null,
@@ -1430,7 +1408,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El regreso de la mítica Alp: trial-excursión sencilla y honesta",
       "Motor 350 cc con 35 CV: suficiente para disfrutar sin complicaciones",
@@ -1474,7 +1452,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Trail",
-    precioDesde: 6910,
+    precioDesde: 6910, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 26,
     potenciaCv: 35,
     autonomiaKm: null,
@@ -1487,7 +1465,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La versión scrambler de la Alp: faro redondo y estilo todo uso",
       "Ruedas de 19\" y 17\" más anchas: mejor en asfalto que la 4.0",
@@ -1585,7 +1563,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 200,
     categoria: "Enduro",
-    precioDesde: 10453,
+    precioDesde: 10453, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1598,7 +1576,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión Race: la RR 200 con preparación de competición de serie",
       "Motor 2T de 200 cc: ligereza de 125 con par de 250",
@@ -1643,7 +1621,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 650,
     categoria: "Trail",
-    precioDesde: 11650,
+    precioDesde: 11650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 60,
     autonomiaKm: null,
@@ -1656,7 +1634,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail ligera de verdad: 152 kg en seco para una 600",
       "Motor 4T de 600 cc con ~60 CV: empuje sano sin excesos",
@@ -1759,7 +1737,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9120,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1772,7 +1750,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 300 cc con inyección: potencia máxima del trial",
       "Solo 67 kg: ligereza extrema",
@@ -1816,7 +1794,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 9120,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1829,7 +1807,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "250 2T con inyección: el equilibrio ideal del trial moderno",
       "67 kg y componentes Factory de primer nivel",
@@ -1873,7 +1851,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: 9120, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1886,7 +1864,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "125 de trial Factory: la puerta de entrada a la competición",
       "Ligera y manejable, ideal para jóvenes y pilotos ligeros",
@@ -1930,7 +1908,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1943,7 +1921,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 294,1 cc con bajos demoledores",
       "Solo 66 kg (68,5 con arranque eléctrico opcional)",
@@ -1953,11 +1931,12 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "TRS es la marca española del trial moderno, nacida de Jotagas"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la One R 300, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "El 300 exige técnica para no irse de las manos",
       "Mezcla al 1% con gasolina de 98 obligatoria",
       "Depósito mínimo: solo para zonas",
-      "Precio (~8.500 €) en la media-alta del trial",
+      "Componentes y planteamiento en la media-alta del trial",
       "Sin uso en carretera"
     ],
     curiosidades: [
@@ -1987,7 +1966,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2000,7 +1979,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor 2T de 247,7 cc: dócil y preciso",
       "66 kg de peso: agilidad máxima",
@@ -2010,6 +1989,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Precio (~8.500 €) en línea con la competencia"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la One R 250, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "El 250 se queda justo en pasos de máximo nivel",
       "Mezcla al 1% con gasolina 98",
@@ -2044,7 +2024,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9000,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2057,7 +2037,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La One R 300 con el acabado RR: lo máximo de TRS",
       "Componentes y detalles de competición superiores",
@@ -2067,7 +2047,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración RR exclusiva"
     ],
     contras: [
-      "~9.000 €: el trial español más caro",
+      "Sin precio oficial: TRS no publica tarifa de la One RR 300, así que no mostramos ninguna cifra",
       "Las mejoras sobre la One R son sutiles para el aficionado",
       "Sin homologación",
       "Mezcla al 1% con gasolina 98",
@@ -2101,7 +2081,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 8500,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2114,7 +2094,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El concepto trial-excursión de TRS: para salir al campo",
       "Motor 2T de 247,7 cc dócil y divertido",
@@ -2124,6 +2104,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La forma más divertida de redescubrir el monte"
     ],
     contras: [
+      "Sin precio oficial: TRS no publica tarifa de la Xtrack 250, así que no mostramos ninguna cifra",
       "Nicho muy específico: ni trial ni trail",
       "Sin homologación para carretera abierta",
       "Mezcla 2T obligatoria",
@@ -2158,7 +2139,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9000,
+    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2171,7 +2152,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Arranque eléctrico de serie: adiós a la palanca en las zonas",
       "Motor 294,1 cc con la comodidad del botón",
@@ -2181,7 +2162,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Un lujo que se agradece en cada salida"
     ],
     contras: [
-      "~9.000 €: el extra del arranque se paga",
+      "Sin precio oficial: TRS no publica tarifa de la One R Electric Start, así que no mostramos ninguna cifra",
       "2,5 kg más y más complejidad eléctrica",
       "La batería añade un mantenimiento extra",
       "Sin homologación",
@@ -2215,7 +2196,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 10500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2228,7 +2209,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Vertigo más avanzada: tercera generación del modelo RS",
       "Motor 2T de 300 cc con inyección electrónica propia",
@@ -2238,7 +2219,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Para pilotos que buscan lo último en trial"
     ],
     contras: [
-      "~10.500 €: entre las trialeras más caras",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "Tecnología propia: menos mecánicos la conocen",
       "Repuestos específicos con plazos variables",
@@ -2269,7 +2250,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: 10500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2282,7 +2263,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La tecnología RS3 en la cilindrada más equilibrada",
       "250 2T con inyección: dócil y precisa",
@@ -2292,7 +2273,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La favorita de los pilotos de nivel medio-alto"
     ],
     contras: [
-      "~10.500 €: precio premium para una 250",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "Tecnología propia con servicio especializado",
       "La 300 cuesta similar y ofrece más motor",
@@ -2323,7 +2304,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 9500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2336,7 +2317,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Vertigo más accesible: puerta de entrada a la marca",
       "Motor 300 2T con el carácter Vertigo a mejor precio (~9.500 €)",
@@ -2346,6 +2327,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Base excelente para progresar en trial"
     ],
     contras: [
+      "Sin precio oficial: Vertigo no publica tarifa de la Combat Camo, así que no mostramos ninguna cifra",
       "Por debajo de la RS3 en componentes y acabados",
       "Sin homologación",
       "El 300 puede intimidar a principiantes",
@@ -2380,7 +2362,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "Dougie Lampkin 2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: 11500,
+    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2393,7 +2375,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Edición especial Dougie Lampkin: el tope de la gama Vertigo",
       "La Nitro RS3 con la preparación del 12 veces campeón del mundo",
@@ -2403,7 +2385,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración y detalles únicos DL12"
     ],
     contras: [
-      "~11.500 €: la trialera más cara del mercado",
+      "Sin precio oficial: Vertigo no publica tarifa de la Nitro DL12, así que no mostramos ninguna cifra",
       "Sin homologación",
       "Las mejoras sobre la RS3 estándar son para muy pocos",
       "Repuestos de la edición con precio y plazos especiales",

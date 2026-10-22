@@ -20,8 +20,8 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/li-auto-l7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/li-auto-l7-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/li-auto-l7-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "EQbEUkhwznQ",
     videoCanal: "Avtopanorama",
     marca: "Li Auto",
@@ -62,7 +62,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/li-auto-l7-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         texto: "Su batería se carga rápido con electricidad y apenas gasta gasolina: con batería y depósito llenos consigue unos 1.315 km. Pese a su tamaño, se maneja muy bien y la marcha es equilibrada.",
@@ -84,19 +84,19 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/li-auto-l7-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Li Auto L7, SUV de autonomía extendida, vista de estudio",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-l7-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Li Auto L7 circulando por carretera de montaña al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-l7-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Li Auto L7 con gran pantalla central",
         "ancho": 1920,
         "alto": 1280
@@ -109,7 +109,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/li-auto-l8-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/li-auto-l8-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ozVTa-H4xsM",
     videoCanal: "DRX Automobi",
     marca: "Li Auto",
@@ -177,7 +177,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-l8-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Li Auto L8 Livis con pantalla panorámica de 29 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -190,7 +190,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/li-auto-l9-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/li-auto-l9-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kKPcQPErZGc",
     videoCanal: "CARVIEW",
     marca: "Li Auto",
@@ -258,7 +258,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-l9-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 6 plazas del Li Auto L9 Livis con asientos de gravedad cero",
         "ancho": 1920,
         "alto": 1280
@@ -271,7 +271,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/li-auto-mega-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/li-auto-mega-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "RRuvZVLG2KQ",
     videoCanal: "Fully Charged Show",
     marca: "Li Auto",
@@ -339,7 +339,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-mega-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Li Auto MEGA con asientos giratorios",
         "ancho": 1920,
         "alto": 1280
@@ -351,8 +351,8 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/li-auto-i6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/li-auto-i6-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/li-auto-i6-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "lXGC-d43BD4",
     videoCanal: "Wheelsboy",
     marca: "Li Auto",
@@ -393,7 +393,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/li-auto-i6-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.6,
@@ -408,19 +408,19 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/li-auto-i6-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Li Auto i6, SUV eléctrico que llegará a Europa como Li 6",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-i6-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Li Auto i6 circulando por una carretera de costa al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/li-auto-i6-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Li Auto i6 con pantalla central y techo panorámico",
         "ancho": 1920,
         "alto": 1280

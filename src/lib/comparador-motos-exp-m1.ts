@@ -14,7 +14,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "SP 2025",
     cilindradaCc: 1000,
     categoria: "Naked",
-    precioDesde: 13450,
+    precioDesde: 13450, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 115.4,
     potenciaCv: 157,
     autonomiaKm: null,
@@ -27,7 +27,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 157 CV derivado de la CBR1000RR: empuje bestial en cualquier marcha",
       "Horquilla Öhlins TTX36 y pinzas Brembo Stylema de serie: frenada y aplomo de superbike",
@@ -175,19 +175,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "potenciaKw",
-    ],
+    aprox: ["potenciaKw"],
     pros: [
-      "Consumo real de 4,9 l/100 km homologado en ciclo WMTC (20,4 km/l, más de 300 km de autonomía con 15,4 l); no hay publicada ninguna prueba con consumo medido de la versión E-Clutch 2025 (fuente: Honda Europa (hondanews.eu))",
       "Estética de superbike con carenado completo y doble faro LED",
       "E-Clutch: cambios sin embrague, ideal en ciudad y en conducción deportiva",
       "Motor de 95 CV suave y lineal, limitable a 35 kW para el A2",
       "Asiento a 810 mm y semimanillares elevados: deportiva cómoda",
       "Horquilla invertida Showa SFF-BP y doble disco delantero",
-      "Pantalla TFT de 5 pulgadas con conectividad Honda RoadSync y navegación giro a giro en pantalla (mundomotero.com).",
-      "El E-Clutch conserva la maneta de embrague: se puede seguir accionando de forma totalmente manual cuando el piloto quiera (motofichas.com).",
-      "El sistema completo pesa apenas 2 kg y Honda lo ofrece por solo 300 € más que la versión con embrague convencional (hondanews.eu / soymotero.net).",
     ],
     contras: [
       "95 CV se quedan cortos frente a las supersport de 600 de verdad",
@@ -195,16 +189,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "La posición, aunque cómoda, carga muñecas en viajes largos",
       "El escape de serie suena discreto para una deportiva",
       "Por su precio ya hay naked de 1000 cc de segunda mano",
-      "Sin modos de conducción: solo el control de tracción HSTC desconectable; la entrega de potencia no se adapta al clima ni al tipo de terreno (mundomotero.com).",
-      "Plaza trasera reducida y estriberas elevadas: el acompañante queda relegado a desplazamientos cortos (mundomotero.com).",
     ],
     curiosidades: [
       "Es la única deportiva media del mercado con embrague electrónico de serie",
       "El chasis es prácticamente el mismo que el de la naked CB650R",
       "Su diseño bebe directamente de la CBR1000RR-R Fireblade",
-      "Honda lo define como 'el primer embrague del mundo totalmente automático para motocicletas con cambio de marchas convencional' (hondanews.eu).",
-      "Según los ingenieros de Honda, el E-Clutch puede implementarse en cualquier modelo, sea cual sea el motor o la cilindrada (moto.ch).",
-      "Se ofrece en dos colores: rojo y negro mate (mundomotero.com).",
     ],
     imagen: "/media/motos/honda-cbr650r-e-clutch-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -221,10 +210,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
         alto: 800,
       },
     ],
-    videoId: "Pg82npGTZkA",
-    videoCanal: "moto.ch",
-    fuenteNombre: "Honda Europa (nota de prensa oficial, hondanews.eu)",
-    fuenteUrl: "https://hondanews.eu/es/es/motorcycles/media/pressreleases/473839/honda-anuncia-el-precio-y-disponibilidad-de-las-nuevas-cbr650r-y-cb650r-equipadas-con-e-clutch-y-de",
+    videoId: null,
+    videoCanal: null,
+    fuenteNombre: "Honda España",
+    fuenteUrl: "https://www.honda.es/motorcycles.html",
     analisisSlug: "honda-cbr650r-e-clutch-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
@@ -321,7 +310,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 5500,
+    precioDesde: 5500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -334,7 +323,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "15 CV al límite legal del A1: de las 125 más rápidas (108 km/h)",
       "Parabrisas eléctrico regulable: lujo de maxiscooter",
@@ -661,7 +650,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 471,
     categoria: "Scrambler",
-    precioDesde: 6790,
+    precioDesde: 6750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33.1,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -674,7 +663,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler auténtica: la más 'retro' de la familia 500",
       "Manillar alto y postura erguida: cómoda en ciudad",
@@ -1166,7 +1155,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 890,
     categoria: "Deportiva",
-    precioDesde: 14099,
+    precioDesde: 14099, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -1179,7 +1168,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética GP de los 80 con carenado completo: la más bonita de su clase",
       "Tricilíndrico CP3 de 119 CV con electrónica completa (IMU de 6 ejes)",
@@ -1708,18 +1697,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-    ],
+    aprox: [],
     pros: [
-      "Consumo real de 3,5 L/100 km (real; 3,3 homologado) (fuente: SoyMotero)",
       "Tres ruedas con 28 CV: el scooter más seguro para autopista",
       "Se conduce con carnet B (3 años): acceso sin examen",
       "Motor Blue Core de 292 cc con buen empuje",
       "Hueco para dos cascos y gran capacidad de carga",
       "Frenada combinada con ABS en las tres ruedas",
-      "Autonomía de casi 400 km: depósito de 13 L con consumo homologado de 3,3 l/100 km (Yamaha)",
-      "Hueco bajo el asiento de 45 L, con capacidad para dos cascos integrales según tamaño (Motofichas)",
-      "Llave inteligente Smart Key de serie en la versión 2025 (Motosan)",
     ],
     contras: [
       "239 kg: muy pesada en parado y en garaje",
@@ -1732,8 +1716,6 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Es el único scooter de tres ruedas con motor de 300 cc de Yamaha",
       "Su chasis deriva del XMAX 300",
       "El sistema LMW permite inclinar como una moto normal",
-      "El motor Blue Core de 292 cc es el del Yamaha XMAX 300 (Motofichas)",
-      "Tiene un sistema de bloqueo de inclinación asistido que la mantiene vertical sin apoyar los pies, muy útil en semáforos y días de lluvia (Motofichas)",
     ],
     imagen: "/media/motos/yamaha-tricity-300-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1751,9 +1733,9 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       },
     ],
     videoId: "miHhDxGUKYE",
-    videoCanal: "VonRider",
-    fuenteNombre: "Motosan",
-    fuenteUrl: "https://www.motosan.es/motos/scooters/yamaha-tricity-300-2025-movilidad-urbana-inteligente-y-segura/",
+    videoCanal: null,
+    fuenteNombre: "Yamaha España",
+    fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-tricity-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "A los 1.000 km, a los 4.000 km y después cada 5.000 km",
@@ -1986,7 +1968,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 451,
     categoria: "Deportiva",
-    precioDesde: 13250,
+    precioDesde: 13250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50.7,
     potenciaCv: 69,
     autonomiaKm: null,
@@ -1999,7 +1981,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Primera moto híbrida del mundo: 451 cc + motor eléctrico",
       "Modo EV 100 % eléctrico para ciudad (hasta 65 km/h)",
@@ -2060,7 +2042,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 451,
     categoria: "Naked",
-    precioDesde: 13250,
+    precioDesde: 13250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 51.5,
     potenciaCv: 70,
     autonomiaKm: null,
@@ -2073,7 +2055,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaCv"],
+    aprox: ["potenciaCv"],
     pros: [
       "La naked híbrida: misma tecnología que la Ninja 7 sin carenado",
       "E-Boost de hasta 70 CV durante 5 segundos",
@@ -2662,7 +2644,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1099,
     categoria: "Deportiva",
-    precioDesde: 16699,
+    precioDesde: 16699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 100,
     potenciaCv: 136,
     autonomiaKm: null,
@@ -2675,7 +2657,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw", "pesoKg"],
+    aprox: ["potenciaKw", "pesoKg"],
     pros: [
       "Sport-turismo definitiva: 136 CV con comodidad de turismo",
       "Perfecta para viajar rápido a dúo con maletas",
@@ -2872,7 +2854,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "Tech 2025",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 9499,
+    precioDesde: 11239, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2886,16 +2868,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [
-      "precioDesde",
     ],
     pros: [
-      "Consumo real de 5,0 L/100 km de media en prueba (4,4 L/100 km homologado) (fuente: SoyMotero)",
       "Bicilíndrico de 776 cc con 83 CV: el mejor motor trail medio actual",
       "Versión Tech con pantalla TFT de 5\" y quickshifter",
       "Chasis rígido y suspensiones Showa de calidad",
       "Modos de conducción y control de tracción",
       "8 años de garantía oficial Suzuki",
-      "Depósito de 20 L y consumo real de unos 5 l/100 km: autonomía real de unos 400 km",
     ],
     contras: [
       "Sin llantas de radios: limitada fuera del asfalto",
@@ -2903,15 +2882,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Sin control de crucero",
       "El asiento es alto para pilotos bajos",
       "La competencia ofrece más equipamiento por similar precio",
-      "La horquilla delantera de la Tech no es regulable (en la 800DE sí lo es)",
-      "Maneta del embrague de tacto algo duro, aunque el quickshifter bidireccional lo compensa",
     ],
     curiosidades: [
       "Su motor de 776 cc es completamente nuevo, con cigüeñal a 270°",
       "La saga V-Strom nació en 2002 con la DL1000",
       "Tech es el acabado tope con toda la electrónica",
-      "Su motor de 776 cc comparte plataforma con la naked Suzuki GSX-8S",
-      "Las suspensiones las firma Hitachi Astemo, la antigua Showa",
     ],
     imagen: "/media/suzuki-v-strom-800-tech-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2934,10 +2909,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
         alto: 690,
       },
     ],
-    videoId: "0D9_nriV1Ds",
-    videoCanal: "KmCero",
-    fuenteNombre: "motofichas.com (tarifa España, modelo 2025-2027)",
-    fuenteUrl: "https://www.motofichas.com/comparativa/yamaha/tenere-700-extreme/suzuki/v-strom-800-tech",
+    videoId: "MHctHkjbBQ8",
+    videoCanal: null,
+    fuenteNombre: "Motosan",
+    fuenteUrl: "https://www.motosan.es/motos/suzuki-v-strom-800-tech-una-trail-muy-versatil/",
     analisisSlug: "suzuki-v-strom-800-tech-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
@@ -2959,7 +2934,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 645,
     categoria: "Trail",
-    precioDesde: 8575,
+    precioDesde: 9475, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50,
     potenciaCv: 68,
     autonomiaKm: null,
@@ -2972,7 +2947,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "El V-twin de 645 cc más fiable del segmento: leyenda viva",
       "Depósito de 20 L y consumo de 4,1 l/100 km: autonomía enorme",
@@ -3032,7 +3007,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "Tech 2025",
     cilindradaCc: 1050,
     categoria: "Trail",
-    precioDesde: 16649,
+    precioDesde: 16649, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 78.7,
     potenciaCv: 107,
     autonomiaKm: null,
@@ -3045,7 +3020,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V-twin de 1037 cc con 107 CV: par infinito para viajar",
       "Versión Tech con IMU, ABS en curva y control de crucero",
@@ -3251,7 +3226,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 400,
     categoria: "Scooter",
-    precioDesde: 8875,
+    precioDesde: 8875, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.3,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -3264,7 +3239,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El maxiscooter medio de referencia: comodidad de turismo",
       "29 CV suficientes para autopista a dúo",
@@ -3616,7 +3591,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1340,
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: 19890,
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -3636,10 +3611,6 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Frenos Brembo Stylema y suspensiones KYB",
       "Comodidad sorprendente para una hyperdeportiva",
       "Valor icónico: es historia del motociclismo",
-      "Garantía oficial de 8 años y 8 años de asistencia premium en carretera en España (Suzuki España).",
-      "Quickshifter bidireccional, control de crucero y limitador de velocidad activo de serie: ayudas de gran turismo en una hyperdeportiva.",
-      "Consumo contenido para su porte: 6,1 l/100 km medidos en prueba, con unos 300 km de autonomía gracias al depósito de 20 litros.",
-      "Electrónica SIRS con IMU de 6 ejes: 10 niveles de control de tracción y anti-wheelie que la hacen dócil en el día a día.",
     ],
     contras: [
       "19.890 €: precio de leyenda",
@@ -3647,19 +3618,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "299 km/h autolimitados: inalcanzables legalmente",
       "El seguro es carísimo",
       "En ciudad es un suplicio por peso y calor",
-      "El precio del modelo 2025 no es público: Suzuki España no publica tarifa oficial y hay que pedir presupuesto en concesionario (motofichas ya no lista precio para 2025-2026).",
-      "La Euro5+ la ha hecho más gastona: Suzuki declara 6,7 l/100 km frente a los 5,65 l/100 km del modelo anterior (directomotor).",
-      "La instrumentación conserva relojes analógicos con una pequeña pantalla LCD: se echa en falta una TFT a la altura de su electrónica y su precio.",
     ],
     curiosidades: [
       "Hayabusa significa 'halcón peregrino', el ave más rápida",
       "En 1999 fue la moto de serie más rápida del mundo",
       "Su velocidad se autolimita a 299 km/h por pacto entre marcas",
-      "La 2025 es Euro5+ con escapes rediseñados: mantiene los 190 CV y los 150 Nm pese a la normativa más estricta (lamoto.com.ar).",
-      "Suzuki la sigue ofreciendo con 8 años de garantía oficial y 8 años de asistencia premium en carretera en España, algo casi inédito en una hyperdeportiva (motosan).",
-      "En 2026 llegó una Special Edition de tirada limitada por 22.590 €, con decoración exclusiva y colín monoplaza (publimotos).",
     ],
-    imagen: "/media/suzuki-hayabusa-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/motos/suzuki-hayabusa-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/suzuki-hayabusa-2025-ficha-tecnica-precio-2.webp",
@@ -3676,8 +3641,8 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "motofichas.com (precio no disponible para la versión 2025-2026)",
+    fuenteNombre: "Motofichas (ficha técnica)",
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/hayabusa-1300",
-    analisisSlug: "suzuki-hayabusa-2025-analisis-opinion",
+    analisisSlug: "suzuki-hayabusa-2025-ficha-tecnica-precio",
   }
 ]

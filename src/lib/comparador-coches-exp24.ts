@@ -156,6 +156,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/rox-01-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/rox-01-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/rox-01-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Rox Motor 01", ancho: 1024, alto: 577 },
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Rox Motor 01", ancho: 1024, alto: 577 },
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Rox Motor 01", ancho: 1024, alto: 577 }
+    ],
     analisisSlug: null,
     videoId: "VdlZlffnpRU",
     videoCanal: "DDong Automobile",
@@ -225,6 +230,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-06-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-06-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 06", ancho: 1280, alto: 794 },
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 06", ancho: 800, alto: 800 },
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 06", ancho: 768, alto: 576 }
+    ],
     analisisSlug: null,
     videoId: "WEndBU1vJj8",
     videoCanal: "DDong Automobile",
@@ -294,6 +304,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-07-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-07-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-07-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 07", ancho: 1280, alto: 640 },
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 07", ancho: 1280, alto: 706 },
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 07", ancho: 1280, alto: 711 }
+    ],
     analisisSlug: null,
     videoId: "vQkRzcghHNc",
     videoCanal: "DDong Automobile",
@@ -363,6 +378,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-11-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-11-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-11-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 11", ancho: 1280, alto: 347 },
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 11", ancho: 1280, alto: 836 },
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 11", ancho: 1280, alto: 711 }
+    ],
     analisisSlug: null,
     videoId: "ar0IsRAUPpE",
     videoCanal: "Aletech",
@@ -432,6 +452,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-12-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-12-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-12-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 12", ancho: 1280, alto: 419 },
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 12", ancho: 1280, alto: 853 },
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 12", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "mZEUXUdeNgU",
     videoCanal: null,
@@ -501,6 +526,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-l6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-l6-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-l6-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors L6", ancho: 1280, alto: 511 },
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors L6", ancho: 1280, alto: 690 },
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors L6", ancho: 1202, alto: 677 }
+    ],
     analisisSlug: null,
     videoId: "Nbff5oi7ltM",
     videoCanal: null,
@@ -570,6 +600,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-ls6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls6-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls6-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors LS6", ancho: 900, alto: 562 },
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors LS6", ancho: 900, alto: 491 },
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors LS6", ancho: 900, alto: 666 }
+    ],
     analisisSlug: null,
     videoId: "dfjPACjgnXE",
     videoCanal: "MAD EV",
@@ -639,6 +674,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-ls7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors LS7", ancho: 1200, alto: 667 },
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors LS7", ancho: 1200, alto: 710 },
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors LS7", ancho: 1200, alto: 691 }
+    ],
     analisisSlug: null,
     videoId: "TFNqGzpWO_k",
     videoCanal: null,
@@ -708,6 +748,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/aito-m9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/aito-m9-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Aito M9 2024", ancho: 768, alto: 512 },
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Aito M9 2024", ancho: 730, alto: 730 },
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Aito M9 2024", ancho: 750, alto: 504 }
+    ],
     analisisSlug: null,
     videoId: "KhlD5oHhdqg",
     videoCanal: "King Panda",
@@ -777,6 +822,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/aito-m9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/aito-m9-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Aito M9 2025", ancho: 800, alto: 450 },
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Aito M9 2025", ancho: 1280, alto: 960 },
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Aito M9 2025", ancho: 1024, alto: 682 }
+    ],
     analisisSlug: null,
     videoId: "TqhUrolbJKk",
     videoCanal: "CarsBlink",
@@ -846,6 +896,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/luxeed-s7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-s7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/luxeed-s7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Luxeed S7", ancho: 1024, alto: 800 },
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Luxeed S7", ancho: 600, alto: 281 },
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Luxeed S7", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "zQ53QeVe2nY",
     videoCanal: "OTOMOTO News",
@@ -915,6 +970,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/luxeed-r7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-r7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/luxeed-r7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Luxeed R7", ancho: 800, alto: 500 },
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Luxeed R7", ancho: 1242, alto: 621 },
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Luxeed R7", ancho: 900, alto: 675 }
+    ],
     analisisSlug: null,
     videoId: "66A2li2_BcA",
     videoCanal: null,
@@ -984,6 +1044,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/stelato-s9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Stelato S9", ancho: 1280, alto: 960 },
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Stelato S9", ancho: 1280, alto: 960 },
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Stelato S9", ancho: 1280, alto: 727 }
+    ],
     analisisSlug: null,
     videoId: "SgnsOY_aFHw",
     videoCanal: "Solkuno",
@@ -1053,6 +1118,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/stelato-s9t-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9t-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/stelato-s9t-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Stelato S9T", ancho: 1000, alto: 800 },
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Stelato S9T", ancho: 1280, alto: 805 },
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Stelato S9T", ancho: 1000, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "YKfUGnFYcJI",
     videoCanal: "Carview",
@@ -1122,6 +1192,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/maextro-s800-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maextro S800", ancho: 1280, alto: 722 },
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Maextro S800", ancho: 1280, alto: 800 },
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Maextro S800", ancho: 1280, alto: 924 }
+    ],
     analisisSlug: null,
     videoId: "CxVoAHrCy00",
     videoCanal: "AutoBild",
@@ -1191,6 +1266,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Onvo L60", ancho: 844, alto: 600 },
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Onvo L60", ancho: 1200, alto: 800 },
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Onvo L60", ancho: 1280, alto: 853 }
+    ],
     analisisSlug: null,
     videoId: "oAvHQUtMxqs",
     videoCanal: "Aletech",
@@ -1248,6 +1328,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/tank-330-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/tank-330-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/tank-330-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Tank 330", ancho: 1280, alto: 960 },
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Tank 330", ancho: 766, alto: 544 },
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Tank 330", ancho: 1067, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "FRbshaQX_kI",
     videoCanal: "Алихан Журтов",
@@ -1294,6 +1379,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Ora Ballet Cat", ancho: 1280, alto: 960 },
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Ora Ballet Cat", ancho: 1280, alto: 960 },
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Ora Ballet Cat", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "yTGl8ggGCSw",
     videoCanal: "ZonaMotor con Jesús Fernández",
@@ -1340,6 +1430,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-shenshou-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-shenshou-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-shenshou-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval Shenshou", ancho: 1000, alto: 750 },
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval Shenshou", ancho: 1000, alto: 1000 },
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval Shenshou", ancho: 1024, alto: 768 }
+    ],
     analisisSlug: null,
     videoId: "1PJgMDKPlRI",
     videoCanal: "Borderless Car",
@@ -1386,6 +1481,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-cool-dog-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-cool-dog-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-cool-dog-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval Cool Dog", ancho: 1280, alto: 960 },
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval Cool Dog", ancho: 1200, alto: 629 },
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval Cool Dog", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: null,
     videoCanal: null,
@@ -1432,6 +1532,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-h7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-h7-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval H7", ancho: 960, alto: 640 },
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval H7", ancho: 960, alto: 640 },
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval H7", ancho: 1280, alto: 854 }
+    ],
     analisisSlug: null,
     videoId: "3viCvX9UjnI",
     videoCanal: "CarExpert",
@@ -1478,6 +1583,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-poer-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-poer-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-poer-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Poer 2024", ancho: 1260, alto: 710 },
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Poer 2024", ancho: 1280, alto: 720 },
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Poer 2024", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: "2NPaVNVpgp8",
     videoCanal: "Wheels By The Ocean",
@@ -1524,6 +1634,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Cannon Alpha", ancho: 960, alto: 640 },
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Cannon Alpha", ancho: 1280, alto: 853 },
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Cannon Alpha", ancho: 1240, alto: 698 }
+    ],
     analisisSlug: null,
     videoId: "_89RVgu9Ekc",
     videoCanal: "The Right Car",
@@ -1570,6 +1685,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Cannon Alpha PHEV", ancho: 960, alto: 640 },
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Cannon Alpha PHEV", ancho: 1023, alto: 682 },
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Cannon Alpha PHEV", ancho: 1024, alto: 613 }
+    ],
     analisisSlug: null,
     videoId: "AzIMHQl7srg",
     videoCanal: "Chasing Cars",
@@ -1628,6 +1748,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/deepal-l06-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/deepal-l06-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/deepal-l06-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Deepal L06", ancho: 1280, alto: 853 },
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Deepal L06", ancho: 1280, alto: 720 },
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Deepal L06", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "cYodftrh0DI",
     videoCanal: null,
@@ -1704,6 +1829,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-lumin-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-lumin-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-lumin-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Lumin", ancho: 1280, alto: 853 },
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Lumin", ancho: 964, alto: 590 },
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Lumin", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: "t5XqLJqN32Q",
     videoCanal: "El Carro Colombiano",
@@ -1780,6 +1910,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Hunter REEV", ancho: 1000, alto: 750 },
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Hunter REEV", ancho: 1280, alto: 720 },
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Hunter REEV", ancho: 798, alto: 532 }
+    ],
     analisisSlug: null,
     videoId: "gzAV2ZUxvGs",
     videoCanal: "Justin On Cars",
@@ -1845,6 +1980,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Uni-K iDD", ancho: 1280, alto: 774 },
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Uni-K iDD", ancho: 1280, alto: 701 },
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Uni-K iDD", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: null,
     videoId: "6jbNrbJmuds",
     videoCanal: null,
@@ -1921,6 +2061,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Uni-V iDD", ancho: 1280, alto: 716 },
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Uni-V iDD", ancho: 1280, alto: 657 },
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Uni-V iDD", ancho: 930, alto: 620 }
+    ],
     analisisSlug: null,
     videoId: "7jINE2Qy6R8",
     videoCanal: null,
@@ -1959,7 +2104,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 10900,
     potenciaCv: 355,
-    autonomiaKm: 168,
+    autonomiaKm: 205,
     maleteroL: 413,
     ceroCien: null,
     velocidadMax: 170,
@@ -1997,6 +2142,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng Aeolus L7", ancho: 1024, alto: 800 },
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng Aeolus L7", ancho: 1068, alto: 712 },
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng Aeolus L7", ancho: 800, alto: 529 }
+    ],
     analisisSlug: null,
     videoId: "Vnv8dK7DkUg",
     videoCanal: null,
@@ -2033,7 +2183,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Aeolus L8",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el precio guía oficial en China del Aeolus L8 PHEV parte de ¥129.900 (gama ¥129.900–149.900 en preventa/lanzamiento 2025).
     potenciaCv: 355,
     autonomiaKm: 150,
     maleteroL: null,
@@ -2073,6 +2223,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng Aeolus L8", ancho: 874, alto: 583 },
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng Aeolus L8", ancho: 1200, alto: 800 },
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng Aeolus L8", ancho: 1024, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "pZy3Ip6XCtE",
     videoCanal: "China Auto Show Channel",
@@ -2109,7 +2264,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Free+",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 219.900 CNY, precio guía del Voyah FREE+ lanzado el 12-07-2025 (versiones 219.900-279.900 CNY, confirmado en la documentación.
     potenciaCv: 483,
     autonomiaKm: 235,
     maleteroL: null,
@@ -2149,6 +2304,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-free-plus-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-free-plus-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-free-plus-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Free+", ancho: 808, alto: 606 },
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Free+", ancho: 808, alto: 538 },
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Free+", ancho: 808, alto: 606 }
+    ],
     analisisSlug: null,
     videoId: "etKJ310hw8M",
     videoCanal: null,
@@ -2174,7 +2334,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Dream+",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el Voyah Dream 2026 (base del Dream+) se lanzó en China el 15 de septiembre de 2025 desde ¥329.900 (PHEV).
     potenciaCv: 666,
     autonomiaKm: 280,
     maleteroL: null,
@@ -2214,6 +2374,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Dream+", ancho: 1280, alto: 960 },
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Dream+", ancho: 1280, alto: 853 },
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Dream+", ancho: 1024, alto: 464 }
+    ],
     analisisSlug: null,
     videoId: "rAn0K-PTHtw",
     videoCanal: null,
@@ -2239,7 +2404,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "eπ 008 EV",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 183.600 CNY, precio guía de la edición 2025 Smart Driving Edition lanzada por Dongfeng eπ (Yipai) el 14-03-2025 (gama 183.600.
     potenciaCv: 272,
     autonomiaKm: 520,
     maleteroL: null,
@@ -2279,6 +2444,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng eπ 008 EV", ancho: 1000, alto: 750 },
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng eπ 008 EV", ancho: 1280, alto: 734 },
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng eπ 008 EV", ancho: 1000, alto: 750 }
+    ],
     analisisSlug: null,
     videoId: "G652dpJ2QgQ",
     videoCanal: null,
@@ -2315,7 +2485,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Courage",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 50000.0,
     potenciaCv: 309,
     autonomiaKm: 740,
     maleteroL: null,
@@ -2355,6 +2525,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-courage-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-courage-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-courage-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Courage", ancho: 1088, alto: 785 },
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Courage", ancho: 1088, alto: 785 },
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Courage", ancho: 1088, alto: 785 }
+    ],
     analisisSlug: null,
     videoId: "68ccHiJX_iE",
     videoCanal: "Get some nuts",
@@ -2420,6 +2595,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/zeekr-001-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/zeekr-001-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/zeekr-001-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Zeekr 001", ancho: 800, alto: 601 },
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Zeekr 001", ancho: 1280, alto: 852 },
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Zeekr 001", ancho: 1280, alto: 853 }
+    ],
     analisisSlug: null,
     videoId: "2Ma51netMJ8",
     videoCanal: "CarShowcase",
@@ -2491,6 +2671,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour Dashing i-DM", ancho: 1200, alto: 750 },
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour Dashing i-DM", ancho: 552, alto: 311 },
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour Dashing i-DM", ancho: 1280, alto: 640 }
+    ],
     analisisSlug: null,
     videoId: "5iPAQXMj5kE",
     videoCanal: "John Agustin Scuderia",
@@ -2562,6 +2747,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-x70l-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-x70l-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-x70l-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour X70L", ancho: 1000, alto: 1000 },
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour X70L", ancho: 800, alto: 518 },
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour X70L", ancho: 800, alto: 534 }
+    ],
     analisisSlug: null,
     videoId: "ZeBTDDT0qG4",
     videoCanal: "Autobip",
@@ -2633,6 +2823,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour Shanhai L7 Plus", ancho: 1280, alto: 853 },
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour Shanhai L7 Plus", ancho: 1280, alto: 720 },
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour Shanhai L7 Plus", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "55XABIcy954",
     videoCanal: "Hamoudy Car Compare",

@@ -96,7 +96,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "-hbEQyWoDds",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -158,7 +158,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Symbioz con pantallas openR y techo panorámico",
         "ancho": 1920,
         "alto": 1280
@@ -177,7 +177,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "c8OE74SUr90",
     videoCanal: "Autocasión",
     marca: "Renault",
@@ -239,7 +239,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Arkana con pantalla central y luz ambiental",
         "ancho": 1920,
         "alto": 1280
@@ -258,7 +258,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "h85Acg-REns",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -320,7 +320,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Arkana TCe con selector de cambio EDC",
         "ancho": 1920,
         "alto": 1280
@@ -420,7 +420,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "TUwBudu1tLE",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -482,7 +482,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Austral mild hybrid con pantalla vertical",
         "ancho": 1920,
         "alto": 1280
@@ -663,7 +663,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-megane-e-tech-2026-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-megane-e-tech-2026-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "f8Nf-Q6469k",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -725,7 +725,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-megane-e-tech-2026-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Mégane E-Tech 2026 con pantallas openR",
         "ancho": 1920,
         "alto": 1280
@@ -744,7 +744,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Dn_B4OtQ6PI",
     videoCanal: "BlueStorm EV - Roberto Guerrero",
     marca: "Renault",
@@ -806,7 +806,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Kangoo E-Tech Combi con gran parabrisas",
         "ancho": 1920,
         "alto": 1280
@@ -825,7 +825,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "7qtDR8T-LxU",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -887,7 +887,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior modular del Kangoo Combi con banqueta trasera",
         "ancho": 1920,
         "alto": 1280
@@ -987,7 +987,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "HAPC387pB20",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -1049,7 +1049,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Renault 5 E-Tech con asientos de tejido vaquero",
         "ancho": 1920,
         "alto": 1280
@@ -1149,7 +1149,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "NBwbtkNHvY0",
     videoCanal: "ARCmotor",
     marca: "Renault",
@@ -1211,7 +1211,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Captur 2024 con pantalla vertical openR",
         "ancho": 1920,
         "alto": 1280
@@ -1230,7 +1230,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "jTELHZ9uQpA",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -1292,7 +1292,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Scenic E-Tech con techo Solarbay",
         "ancho": 1920,
         "alto": 1280
@@ -1311,7 +1311,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "jkwmTDJdYt0",
     videoCanal: null,
     marca: "Renault",
@@ -1378,12 +1378,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Renault R5 E-Tech 40 kWh",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1716,7 +1711,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -1783,12 +1778,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Renault Kangoo Combi Blue dCi 95",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {

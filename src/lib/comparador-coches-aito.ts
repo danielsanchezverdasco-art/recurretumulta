@@ -59,7 +59,7 @@ export const COCHES_AITO: CocheComparador[] = [
     ],
     imagen: "/media/aito-m5-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m5-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m5-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -88,12 +88,7 @@ export const COCHES_AITO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aito-m5-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M5 2024, salpicadero con gran pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aito-m5-2024-precio-ficha-tecnica",
   },
@@ -142,7 +137,7 @@ export const COCHES_AITO: CocheComparador[] = [
     ],
     imagen: "/media/aito-m5-ultra-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m5-ultra-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m5-ultra-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -171,12 +166,7 @@ export const COCHES_AITO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aito-m5-ultra-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M5 Ultra 2025 con cockpit HarmonyOS",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aito-m5-ultra-2025-precio-ficha-tecnica",
   },
@@ -225,7 +215,7 @@ export const COCHES_AITO: CocheComparador[] = [
     ],
     imagen: "/media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -254,12 +244,7 @@ export const COCHES_AITO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aito-m5-ultra-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M5 Ultra EV 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aito-m5-ultra-ev-2025-precio-ficha-tecnica",
   },
@@ -306,9 +291,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Competencia feroz: Tesla Model Y, Xiaomi YU7 y Li L6",
       "Sin red de servicio ni precio oficial fuera de China",
     ],
-    imagen: "/media/aito-m6-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m6-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m6-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m6-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -325,24 +310,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m6-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M6 2026 con LiDAR, tres cuartos delantero en montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m6-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M6 2026, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m6-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M6 2026 con triple pantalla HarmonyOS",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m6-2026-precio-ficha-tecnica",
   },
@@ -389,9 +359,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Ecosistema Huawei pensado para China",
       "Sin red de posventa fuera de Asia",
     ],
-    imagen: "/media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m6-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m6-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -408,24 +378,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M6 EV 2026 eléctrico en carretera costera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m6-ev-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M6 EV 2026, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m6-ev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M6 EV 2026 con triple pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m6-ev-2026-precio-ficha-tecnica",
   },
@@ -472,9 +427,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Sin datos de carga rápida publicados",
       "Sustituido por el nuevo M7 2025: comprar stock viejo",
     ],
-    imagen: "/media/aito-m7-pro-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m7-pro-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m7-pro-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m7-pro-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -491,24 +446,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m7-pro-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M7 Pro 2024, tres cuartos delantero en montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-pro-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M7 Pro 2024, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-pro-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M7 Pro 2024 con 6 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m7-pro-2024-precio-ficha-tecnica",
   },
@@ -555,9 +495,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Sin carga rápida publicada",
       "5,02 metros: aparcarlo en ciudad, un reto",
     ],
-    imagen: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -574,24 +514,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M7 Ultra 2024 con LiDAR, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M7 Ultra 2024, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-ultra-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M7 Ultra 2024 con asientos de gravedad cero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m7-ultra-2024-precio-ficha-tecnica",
   },
@@ -638,9 +563,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Rivales duros: Li L6, XPeng G9 y Leapmotor C16",
       "Sin red de servicio fuera de Asia",
     ],
-    imagen: "/media/aito-m7-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m7-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m7-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -657,24 +582,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m7-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M7 2025 nueva generación con LiDAR, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M7 2025, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M7 2025 con cockpit HarmonyOS 4",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m7-2025-precio-ficha-tecnica",
   },
@@ -804,9 +714,9 @@ export const COCHES_AITO: CocheComparador[] = [
       "Sin red de servicio fuera de Asia",
       "El EREV equivalente parte de menos precio",
     ],
-    imagen: "/media/aito-m8-ev-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/aito-m8-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aito-m8-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/aito-m8-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -823,24 +733,9 @@ export const COCHES_AITO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aito-m8-ev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M8 EV 2025 eléctrico con LiDAR, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m8-ev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Aito M8 EV 2025, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aito-m8-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aito M8 EV 2025 con triple pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aito-m8-ev-2025-precio-ficha-tecnica",
   },

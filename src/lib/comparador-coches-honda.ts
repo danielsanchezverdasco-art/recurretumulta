@@ -19,7 +19,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/honda-civic-type-r-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-civic-type-r-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "5mlI9bkwrXQ",
     videoCanal: "km77",
     marca: "Honda",
@@ -88,13 +88,13 @@ export const COCHES_HONDA: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/honda-civic-type-r-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda Civic Type R, vista trasera con alerón y triple escape",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-civic-type-r-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Honda Civic Type R con baquets rojos y cambio manual",
         "ancho": 1920,
         "alto": 1280
@@ -106,8 +106,8 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Honda",
@@ -148,7 +148,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 186,
     aprox: [],
-    imagen: "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 15.2,
@@ -163,19 +163,19 @@ export const COCHES_HONDA: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Honda Civic Type R Ultimate Edition blanco con franjas rojas, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda Civic Type R Ultimate Edition, vista trasera con alerón de carbono",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Civic Type R Ultimate Edition con detalles de carbono",
         "ancho": 1920,
         "alto": 1280
@@ -187,8 +187,8 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Honda",
@@ -229,7 +229,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 108,
     aprox: [],
-    imagen: "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.9,
@@ -244,19 +244,19 @@ export const COCHES_HONDA: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Honda Jazz Crosstar e:HEV beige, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda Jazz Crosstar circulando por carretera rural",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Honda Jazz Crosstar con asientos Magic Seats",
         "ancho": 1920,
         "alto": 1280
@@ -268,8 +268,8 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "rXQWHHj3xzY",
     videoCanal: "carwow España (JF Calero)",
     marca: "Honda",
@@ -310,7 +310,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 130,
     aprox: [],
-    imagen: "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.5,
@@ -325,19 +325,19 @@ export const COCHES_HONDA: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Honda ZR-V e:HEV azul, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda ZR-V circulando por una avenida europea",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Honda ZR-V con salpicadero de calidad premium",
         "ancho": 1920,
         "alto": 1280
@@ -349,8 +349,8 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "EYw1hIZKHIc",
     videoCanal: "Periodismo del Motor",
     marca: "Honda",
@@ -391,7 +391,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 58,
     aprox: [],
-    imagen: "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.4,
@@ -406,19 +406,19 @@ export const COCHES_HONDA: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Honda CR-V e:PHEV plateado, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda CR-V e:PHEV circulando por autopista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Honda CR-V e:PHEV con gran maletero familiar",
         "ancho": 1920,
         "alto": 1280
@@ -431,7 +431,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/honda-prelude-ehev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/honda-prelude-ehev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "7c_-RUsgymk",
     videoCanal: "Diariomotor",
     marca: "Honda",
@@ -493,13 +493,13 @@ export const COCHES_HONDA: CocheComparador[] = [
         "alto": 1008
       },
       {
-        "src": "/media/honda-prelude-ehev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Honda Prelude, vista trasera con firma lumínica continua",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/honda-prelude-ehev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Honda Prelude con levas y cuadro digital de 10,2 pulgadas",
         "ancho": 1920,
         "alto": 1280

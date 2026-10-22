@@ -18,7 +18,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "4sbQLurHBxk",
     videoCanal: "SoyMotor",
     marca: "Lynk & Co",
@@ -93,7 +93,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 01, salpicadero con pantalla de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -112,7 +112,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "B1Y_US1HA-s",
     videoCanal: "Motor1 España",
     marca: "Lynk & Co",
@@ -168,13 +168,13 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Lynk & Co 08 PHEV, vista trasera tres cuartos",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 08, salpicadero con pantalla flotante de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -193,7 +193,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-03-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-03-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin videoprueba verificada en español a 05/10/2026
     videoCanal: null,
     marca: "Lynk & Co",
@@ -257,7 +257,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-03-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 03, salpicadero con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -442,7 +442,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin videoprueba verificada del EM-P en español a 05/10/2026
     videoCanal: null,
     marca: "Lynk & Co",
@@ -506,7 +506,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 06 EM-P con pantalla de 14,6 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -525,7 +525,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "mWAOhSm6lY0",
     videoCanal: "Borderless Car",
     marca: "Lynk & Co",
@@ -589,7 +589,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 07 EM-P con pantalla de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -608,7 +608,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "SQ-sVUOyG9Y",
     videoCanal: "Autos Full",
     marca: "Lynk & Co",
@@ -672,7 +672,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 09 con 7 plazas",
         "ancho": 1200,
         "alto": 800

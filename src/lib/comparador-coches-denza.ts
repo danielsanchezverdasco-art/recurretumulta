@@ -57,7 +57,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-d9-dm-i-2026-precio-ficha-tecnica",
     videoId: "6lnXI5llgsE",
     videoCanal: "Denza España",
@@ -87,12 +87,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-d9-dm-i-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza D9 DM-i con asientos capitán",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -223,7 +218,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-n7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-n7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n7-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n7-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -253,12 +248,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-n7-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N7 con pantalla central de 17,3 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -306,7 +296,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n8-dm-p-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -336,12 +326,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-n8-dm-p-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N8 DM-p de 6 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -389,7 +374,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-n8-ev-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-n8-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n8-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n8-ev-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -419,12 +404,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-n8-ev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N8 EV",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -472,7 +452,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n8l-dm-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -502,12 +482,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-n8l-dm-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N8L DM de 6 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -555,7 +530,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n8l-ev-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -585,12 +560,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-n8l-ev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N8L EV con molduras de madera",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -721,7 +691,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z9-ev-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z9-ev-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9-ev-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9-ev-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -751,12 +721,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z9-ev-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9 EV con pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -803,7 +768,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z9s-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z9s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9s-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -833,12 +798,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z9s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9S con pantallas traseras",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -886,7 +846,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9gt-dm-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -916,12 +876,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z9gt-dm-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9 GT DM con múltiples pantallas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -969,7 +924,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9gt-ev-2026-precio-ficha-tecnica",
     videoId: "oQXn2Im43DI",
     videoCanal: "carwow España",
@@ -999,12 +954,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z9gt-ev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9 GT EV con pantalla panorámica",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1052,7 +1002,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z-coupe-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z-coupe-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z-coupe-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z-coupe-2026-precio-ficha-tecnica",
     videoId: "jnLiulYXPfE",
     videoCanal: "carwow España",
@@ -1082,12 +1032,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z-coupe-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z Coupé, cockpit deportivo",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1238,7 +1183,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-z-racing-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-z-racing-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z-racing-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z-racing-2026-precio-ficha-tecnica",
     videoId: "jnLiulYXPfE",
     videoCanal: "carwow España",
@@ -1268,12 +1213,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-z-racing-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z Racing con baquets y jaula",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1321,7 +1261,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     ],
     imagen: "/media/denza-bao-5-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/denza-bao-5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-bao-5-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-bao-5-2026-precio-ficha-tecnica",
     videoId: "jnLiulYXPfE",
     videoCanal: "carwow España",
@@ -1351,12 +1291,7 @@ export const COCHES_DENZA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/denza-bao-5-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Bao 5",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {

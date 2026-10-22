@@ -277,7 +277,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-leon-15-tsi-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León 1.5 TSI",
     "tipo": "Gasolina",
     "categoria": "Compacto",
@@ -377,7 +377,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-leon-ehybrid-204-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León e-Hybrid 204",
     "tipo": "Híbrido enchufable",
     "categoria": "Compacto",
@@ -477,7 +477,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-leon-vz-300-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León VZ 300",
     "tipo": "Gasolina",
     "categoria": "Compacto",
@@ -684,7 +684,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León Sportstourer e-Hybrid 204",
     "tipo": "Híbrido enchufable",
     "categoria": "Familiar",
@@ -786,7 +786,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "León Sportstourer VZ 333",
     "tipo": "Gasolina",
     "categoria": "Familiar",
@@ -886,7 +886,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-formentor-15-etsi-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Formentor 1.5 eTSI",
     "tipo": "Híbrido",
     "categoria": "SUV",
@@ -986,7 +986,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Formentor e-Hybrid 204",
     "tipo": "Híbrido enchufable",
     "categoria": "SUV",
@@ -1086,7 +1086,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Formentor VZ e-Hybrid 272",
     "tipo": "Híbrido enchufable",
     "categoria": "SUV",
@@ -1186,7 +1186,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-formentor-vz-265-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Formentor VZ 265",
     "tipo": "Gasolina",
     "categoria": "SUV",
@@ -1286,7 +1286,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-formentor-vz-333-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Formentor VZ 333",
     "tipo": "Gasolina",
     "categoria": "SUV",
@@ -1386,7 +1386,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-terramar-ehybrid-204-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Terramar e-Hybrid 204",
     "tipo": "Híbrido enchufable",
     "categoria": "SUV",
@@ -1486,7 +1486,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Terramar VZ e-Hybrid 272",
     "tipo": "Híbrido enchufable",
     "categoria": "SUV",
@@ -1586,7 +1586,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-terramar-vz-265-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Terramar VZ 265",
     "tipo": "Gasolina",
     "categoria": "SUV",
@@ -1686,7 +1686,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-born-190-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Born 190",
     "tipo": "Eléctrico",
     "categoria": "Compacto",
@@ -1769,7 +1769,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-born-endurance-231-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Born Endurance 231",
     "tipo": "Eléctrico",
     "categoria": "Compacto",
@@ -1852,7 +1852,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-born-vz-326-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Born VZ 326",
     "tipo": "Eléctrico",
     "categoria": "Compacto",
@@ -1936,7 +1936,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-tavascan-vz-340-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Tavascan VZ 340",
     "tipo": "Eléctrico",
     "categoria": "SUV",
@@ -2020,7 +2020,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-ateca-190-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Ateca 190 4Drive",
     "tipo": "Gasolina",
     "categoria": "SUV",
@@ -2101,7 +2101,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-ateca-vz-300-2025-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Ateca VZ 300",
     "tipo": "Gasolina",
     "categoria": "SUV",
@@ -2182,7 +2182,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-raval-plus-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Raval Plus 135",
     "tipo": "Eléctrico",
     "categoria": "Urbano",
@@ -2283,7 +2283,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-raval-endurance-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Raval Endurance 210",
     "tipo": "Eléctrico",
     "categoria": "Urbano",
@@ -2384,7 +2384,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
   },
   {
     id: "cupra-raval-vz-226-2026-precio-ficha-tecnica",
-    "marca": "cupra",
+    "marca": "Cupra",
     "modelo": "Raval VZ 226",
     "tipo": "Eléctrico",
     "categoria": "Urbano",

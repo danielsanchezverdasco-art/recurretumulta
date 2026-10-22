@@ -825,10 +825,10 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     modelo: "350T",
     version: "350T 2025",
     cilindradaCc: 350,
-    categoria: "Scooter",
+    categoria: "Trail",
     precioDesde: 5187,
     potenciaKw: 29,
-    potenciaCv: 39.4,
+    potenciaCv: 39.44,
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
@@ -841,11 +841,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "39,4 CV: el scooter de 350 más potente del mercado",
+      "39,4 CV: de las trail A2 más potentes del mercado",
       "Depósito de 19 L: autonomía de pequeña GT",
-      "Ruedas altas de 15 y 14 pulgadas: aplomo en carretera",
+      "Llantas de aleación de 17 pulgadas: enfoque asfáltico dentro de la gama trail",
       "Equipamiento de lujo: TFT, keyless, control de tracción",
-      "Por 5.187 € compite con scooters de 7.000 €",
+      "Por 5.187 € compite con trail de 7.000 €",
       "Frenada con ABS de doble canal muy eficaz",
     ],
     contras: [
@@ -856,8 +856,8 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "El mantenimiento en servicio oficial aún tiene poca red",
     ],
     curiosidades: [
-      "El 350T es la versión touring del 350E, con ruedas más grandes",
-      "Sus 39,4 CV superan a muchos scooters de 400 cc",
+      "La 350T es la trail asfáltica de la familia 350 de Zontes; su hermana T350 X monta llantas de 19/17 pulgadas",
+      "Sus 39,4 CV superan a muchas trail de 400 cc",
       "Zontes equipa de serie control de tracción en este modelo",
       "El depósito de 19 L da para más de 400 km de autonomía real",
     ],
@@ -956,77 +956,6 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteNombre: "Zontes España",
     fuenteUrl: "https://zontesmotos.es",
     analisisSlug: "zontes-703f-2026-ficha-tecnica-precio",
-  },
-  {
-    id: "zontes-350r-2025-ficha-tecnica-precio",
-    marca: "Zontes",
-    modelo: "350R",
-    version: "350R 2025",
-    cilindradaCc: 350,
-    categoria: "Naked",
-    precioDesde: 4787,
-    potenciaKw: 29,
-    potenciaCv: 39.4,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 165,
-    plazas: 2,
-    carnet: "A2",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: [],
-    pros: [
-      "Monocilíndrico de 348 cc y 39,4 CV: la naked de 350 más potente",
-      "165 kg: ligera y ágil",
-      "Diseño naked agresivo con faro LED",
-      "TFT a color y ABS de doble canal de serie",
-      "Por 4.787 €, imbatible en relación precio/potencia",
-      "Buena ergonomía para el día a día",
-    ],
-    contras: [
-      "Monocilíndrico: vibra más que un bicilíndrico",
-      "Sin modos de conducción",
-      "La protección aerodinámica es nula",
-      "El asiento del pasajero es justo",
-      "Marca aún joven en el segmento naked",
-    ],
-    curiosidades: [
-      "La 350R es la naked deportiva de la familia 350 de Zontes",
-      "Sus 39,4 CV la ponen al nivel de naked de 400 cc",
-      "Comparte motor con los scooters 350E y 350T",
-      "Zontes la ofrece con 5 años de garantía",
-    ],
-    imagen: "/media/motos/zontes-350r-2025-ficha-tecnica-precio-1.webp",
-    galeria: [
-      {
-        src: "/media/motos/zontes-350r-2025-ficha-tecnica-precio-2.webp",
-        alt: "Zontes 350R 2025, vista lateral de la naked",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/motos/zontes-350r-2025-ficha-tecnica-precio-3.webp",
-        alt: "Zontes 350R 2025 en carretera de curvas",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Zontes España",
-    fuenteUrl: "https://zontesmotos.es",
-    analisisSlug: "zontes-350r-2025-ficha-tecnica-precio",
-    mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km (o 3 meses); después cada 5.000 km (o 15 meses); refrigerante cada 3 años o 30.000 km",
-      cadenaPasos: [
-        "Comprueba y limpia la cadena de transmisión cada 1.000 km",
-        "Tensa y engrasa la cadena según el programa del manual",
-        "Revisa el desgaste de piñón y corona en cada revisión",
-      ],
-    },
   },
   // ── VOGE (4) ──────────────────────────────────────────────────────────
   {
@@ -1250,7 +1179,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "350AC 2024",
     cilindradaCc: 350,
     categoria: "Naked",
-    precioDesde: 4789,
+    precioDesde: 4789, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.9,
     potenciaCv: 40.7,
     autonomiaKm: null,
@@ -1263,7 +1192,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 321,8 cc y 40,7 CV por ~4.789 €",
       "165 kg: muy ligera, 33 kg menos que la 500AC",
@@ -1456,7 +1385,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "TRK 502 2024",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6400,
+    precioDesde: 5990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1469,7 +1398,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Bicilíndrico de 499,6 cc y 47,6 CV: el tope del A2",
       "Depósito de 20 L: autonomía de gran rutera",
@@ -1531,7 +1460,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "TRK 502 X 2024",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: 6290,
+    precioDesde: null, // la versión X ya no se comercializa en España y Benelli no publica tarifa oficial vigente para ella (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1544,7 +1473,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Versión X con rueda de 19 pulgadas y llantas de radios: más adventure",
       "Escape elevado y caballete central de serie",
@@ -1554,6 +1483,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "Buena protección aerodinámica",
     ],
     contras: [
+      "Sin precio oficial vigente: la TRK 502 X ya no se vende en España",
       "235 kg: pesadísima para hacer campo de verdad",
       "Las suspensiones tienen más recorrido pero siguen siendo básicas",
       "47,6 CV justos para su peso en autopista",
@@ -2755,12 +2685,12 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   // ── MITT (3) ──────────────────────────────────────────────────────────
   {
     id: "mitt-tt-530-2024-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "TT 530",
     version: "TT 530 2024",
     cilindradaCc: 530,
     categoria: "Trail",
-    precioDesde: 6495,
+    precioDesde: 6195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -2773,7 +2703,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail de 491 cc y 47 CV en el tope del A2",
       "Depósito de 18 L: gran autonomía",
@@ -2818,7 +2748,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "mitt-gp2-125-2024-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "GP2 125",
     version: "GP2 125 2024",
     cilindradaCc: 125,
@@ -2889,7 +2819,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "mitt-nk-125-2025-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "NK 125",
     version: "NK 125 2025",
     cilindradaCc: 125,
@@ -3036,7 +2966,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "Rebbe 401 2024",
     cilindradaCc: 398,
     categoria: "Naked",
-    precioDesde: 4490,
+    precioDesde: 4490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31.5,
     potenciaCv: 42.8,
     autonomiaKm: null,
@@ -3049,7 +2979,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 401 cc y 42,8 CV: naked neo-retro A2",
       "Doble disco delantero de 300 mm con pinzas radiales",
@@ -3427,7 +3357,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "HPS 125 ABS 2024",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 4449,
+    precioDesde: 3999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.4,
     potenciaCv: 14.2,
     autonomiaKm: null,
@@ -3440,7 +3370,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Naked retro con 14,2 CV: de las 125 más potentes",
       "133 kg: muy ligera",
@@ -3450,7 +3380,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "Versión ABS por 4.449 €",
     ],
     contras: [
-      "4.449 €: cara para una 125",
+      "3.999 €: cara para una 125",
       "El asiento a 795 mm es alto para algunos",
       "El pasajero va justo",
       "La marca es minoritaria en España",
@@ -3490,7 +3420,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "Flat Track 125 2024",
     cilindradaCc: 125,
     categoria: "Scrambler",
-    precioDesde: 3795,
+    precioDesde: 3795, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: null,
@@ -3503,7 +3433,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Flat track 125 con estética de competición",
       "TFT personalizable de serie",

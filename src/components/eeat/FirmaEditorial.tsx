@@ -60,7 +60,7 @@ export default function FirmaEditorial({
         <p className="flex flex-wrap items-center gap-x-2 gap-y-1">
           <ShieldCheck className="h-4 w-4 shrink-0 text-red-600" aria-hidden="true" />
           <span>
-            Por{" "}
+            {"Por "}
             <Link to="/sobre-nosotros/" rel="author" className="font-bold text-gray-900 underline underline-offset-2">
               Daniel
             </Link>
@@ -70,7 +70,7 @@ export default function FirmaEditorial({
             <>
               <span aria-hidden="true">·</span>
               <span>
-                Publicado: <time dateTime={pub}>{fechaLarga(pub)}</time>
+                <time dateTime={pub}>{`Publicado: ${fechaLarga(pub)}`}</time>
               </span>
             </>
           )}
@@ -78,7 +78,7 @@ export default function FirmaEditorial({
             <>
               <span aria-hidden="true">·</span>
               <span>
-                Actualizado: <time dateTime={act}>{fechaLarga(act)}</time>
+                <time dateTime={act}>{`Actualizado: ${fechaLarga(act)}`}</time>
               </span>
             </>
           )}

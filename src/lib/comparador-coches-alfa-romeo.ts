@@ -15,7 +15,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "gX9ehwiE-vc",
     videoCanal: "Periodismo del Motor",
     marca: "Alfa Romeo",
@@ -77,7 +77,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo Junior Elettrica, salpicadero",
         "ancho": 1920,
         "alto": 1280
@@ -96,7 +96,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alfa Romeo",
@@ -158,7 +158,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Junior Elettrica Veloce, asientos Sabelt",
         "ancho": 1920,
         "alto": 1280
@@ -177,7 +177,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "wXZZpVc_RBk",
     videoCanal: "AutoScout24 España",
     marca: "Alfa Romeo",
@@ -239,7 +239,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo Tonale, salpicadero",
         "ancho": 1920,
         "alto": 1280
@@ -339,7 +339,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alfa-romeo-giulia-veloce-280-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-giulia-veloce-280-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "WK7pUzkmXKo",
     videoCanal: "Revista CAR",
     marca: "Alfa Romeo",
@@ -401,7 +401,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-giulia-veloce-280-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo Giulia Veloce, puesto del conductor",
         "ancho": 1920,
         "alto": 1280
@@ -420,7 +420,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alfa-romeo-stelvio-2-2-diesel-160-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-stelvio-2-2-diesel-160-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "FOaPgKhQ_hw",
     videoCanal: "Revista CAR",
     marca: "Alfa Romeo",
@@ -482,7 +482,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-stelvio-2-2-diesel-160-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo Stelvio, habitáculo",
         "ancho": 1920,
         "alto": 1280
@@ -501,7 +501,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alfa Romeo",
@@ -563,7 +563,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo 33 Stradale, habitáculo de superdeportivo",
         "ancho": 1920,
         "alto": 1280
@@ -575,89 +575,6 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 1280
       }
     ],
-  },
-  {
-    id: "alfa-romeo-junior-ibrida-145-precio-ficha-tecnica",
-    "garantiaBateriaAnos": null,
-    "garantiaBateriaKm": null,
-    "garantiaBateriaDegradacionPct": null,
-    "imagenOficial": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-interior-oficial.webp",
-    "videoId": "HQI28Vsxbuc",
-    "videoCanal": "carwow España (JF Calero)",
-    "marca": "Alfa Romeo",
-    "modelo": "Junior Ibrida 145 CV",
-    "tipo": "Híbrido",
-    "categoria": "SUV",
-    "precioDesde": 27352,
-    "potenciaCv": 145,
-    "autonomiaKm": null,
-    "maleteroL": 415,
-    "ceroCien": 8.9,
-    "velocidadMax": 206,
-    "bateriaKwh": null,
-    "cargaRapidaKw": null,
-    "etiquetaDgt": "ECO",
-    "pros": [
-      "145 CV con etiqueta ECO: entra en las ZBE sin restricciones",
-      "Desde 27.352 €: el Alfa Romeo más barato de la gama",
-      "Consumo de 4,8 l/100 km, ideal para uso diario",
-      "Maletero de 415 litros, amplio para un B-SUV",
-      "Chasis con tarado Alfa: el más dinámico de sus primos Stellantis"
-    ],
-    "contras": [
-      "Prestaciones modestas: 8,9 s en el 0-100",
-      "El cambio e-DCT de 6 marchas no es el más rápido",
-      "Plazas traseras justas para adultos altos",
-      "Interior con plásticos duros en zonas bajas",
-      "La versión Q4 de tracción total cuesta bastante más"
-    ],
-    "largoMm": 4173,
-    "anchoMm": 1781,
-    "altoMm": 1533,
-    "pesoKg": 1380,
-    "consumo": 4.8,
-    "consumoUnidad": "l/100 km",
-    "plazas": 5,
-    "parNm": 230,
-    "traccion": "Delantera",
-    "emisionesCo2": 109,
-    "aprox": [],
-    "imagen": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-hero.webp",
-    "opiniones": [],
-    "costeMensual": {
-      "costeEnergia100km": 8.9,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 450,
-      "costeMensualTotal": 232,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 4,8 l/100 km; precio km77 27.352 €",
-      "estimado": true
-    },
-    "galeria": [
-      {
-        "src": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-oficial.webp",
-        "alt": "Alfa Romeo Junior Ibrida rojo, vista lateral en carretera",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Alfa Romeo Junior Ibrida, salpicadero y pantallas",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-hero.webp",
-        "alt": "Alfa Romeo Junior Ibrida verde, tres cuartos delantero al atardecer",
-        "ancho": 1200,
-        "alto": 800
-      }
-    ],
-    "fuenteNombre": "km77.com",
-    "fuenteUrl": "https://www.km77.com"
   },
   {
     id: "alfa-romeo-junior-ibrida-q4-145-precio-ficha-tecnica",
@@ -1427,7 +1344,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
     "imagenOficial": "/media/alfa-romeo-stelvio-diesel-210-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/alfa-romeo-stelvio-diesel-210-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "marca": "Alfa Romeo",
@@ -1493,7 +1410,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/alfa-romeo-stelvio-diesel-210-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Alfa Romeo Stelvio, plazas delanteras",
         "ancho": 1200,
         "alto": 800
@@ -1599,7 +1516,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "garantiaBateriaKm": 160000,
     "garantiaBateriaDegradacionPct": 70,
     "imagenOficial": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "marca": "Alfa Romeo",
@@ -1665,7 +1582,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior artesanal del 33 Stradale, aluminio y piel",
         "ancho": 1200,
         "alto": 800

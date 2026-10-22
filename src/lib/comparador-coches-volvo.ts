@@ -1332,14 +1332,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "EX30 Twin Motor Performance",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 47000,
+    precioDesde: 47961, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 428,
     autonomiaKm: 450,
     maleteroL: 318,
@@ -1356,7 +1356,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Etiqueta Cero",
     ],
     contras: [
-      "~47.000 €: 5.000 € más que el Single Motor",
+      "47.961 € de tarifa oficial: unos 6.000 € más que el Single Motor Extended Range",
       "Maletero de 318 L",
       "1.960 kg: el peso se nota en curva",
       "180 km/h limitados",
@@ -1372,7 +1372,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 543,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo"],
     imagen: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1400,7 +1400,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo EX30 Twin Motor",
         "ancho": 1200,
         "alto": 800
@@ -1413,14 +1413,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC40 B5",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 44000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 443,
@@ -1437,7 +1437,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Diseño escandinavo que no pasa de moda",
     ],
     contras: [
-      "~44.000 €: más caro que un Qashqai o un Tucson",
+      "Sin tarifa oficial vigente: Volvo España ya no ofrece el B5 en la gama XC40",
       "7,0 l/100 km: gasta más que un híbrido completo",
       "180 km/h limitados por filosofía Volvo",
       "El B3 de 163 CV es más barato y suficiente",
@@ -1453,7 +1453,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 158,
-    aprox: ["precioDesde", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1481,7 +1481,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC40 con pantalla vertical",
         "ancho": 1200,
         "alto": 800
@@ -1494,14 +1494,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC60 B6",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 60000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 299,
     autonomiaKm: null,
     maleteroL: 483,
@@ -1518,7 +1518,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Etiqueta ECO sin enchufar",
     ],
     contras: [
-      "~60.000 €: el B5 de 250 CV cuesta 8.000 € menos",
+      "Sin tarifa oficial vigente: Volvo España ya no ofrece el B6 en la gama XC60 (actual: B5, T6 y T8)",
       "8,0 l/100 km: el 2.0 apretado gasta",
       "El T6 enchufable tiene Cero por poco más",
       "180 km/h limitados",
@@ -1534,7 +1534,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: 181,
-    aprox: ["precioDesde", "pesoKg", "consumo", "co2"],
+    aprox: ["pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1562,7 +1562,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC60 con madera y cuero",
         "ancho": 1200,
         "alto": 800
@@ -1575,14 +1575,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC60 T6",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 68000,
+    precioDesde: 67300, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 350,
     autonomiaKm: 70,
     maleteroL: 468,
@@ -1599,7 +1599,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "El PHEV premium con mejor equilibrio",
     ],
     contras: [
-      "~68.000 €: 8.000 € más que el B6",
+      "Desde 67.300 € de tarifa oficial: el enchufable premium se paga",
       "2.210 kg en orden de marcha",
       "Sin carga rápida en continua",
       "Maletero de 468 L (15 menos que el B6)",
@@ -1615,7 +1615,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 659,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1643,7 +1643,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC60 T6",
         "ancho": 1200,
         "alto": 800
@@ -1663,7 +1663,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "XC90 B6",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 85000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 299,
     autonomiaKm: null,
     maleteroL: 640,
@@ -1680,7 +1680,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Diseño atemporal que no envejece",
     ],
     contras: [
-      "~85.000 €: el B5 cuesta 10.000 € menos",
+      "Sin tarifa oficial vigente: la gama XC90 actual en España es B5 y T8, sin B6",
       "8,5 l/100 km y 192 g/km",
       "2.220 kg: se nota en consumos",
       "El T8 enchufable tiene Cero por ~10.000 € más",
@@ -1696,7 +1696,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: 192,
-    aprox: ["precioDesde", "pesoKg", "consumo", "co2"],
+    aprox: ["pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc90-b6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1744,7 +1744,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 52000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 529,
@@ -1761,7 +1761,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "El anti-SUV: menos consumo y mejor dinámica",
     ],
     contras: [
-      "~52.000 €: caro frente a un Passat o un Superb",
+      "Sin tarifa oficial vigente: la gama V60 actual en España es B4 y T6 enchufable, sin B5",
       "7,2 l/100 km: gasta más que un diésel equivalente",
       "El T8 enchufable tiene Cero por ~16.000 € más",
       "1,43 m de alto: acceso menos cómodo que un SUV",
@@ -1777,7 +1777,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 163,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v60-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1825,7 +1825,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 T8",
     tipo: "Híbrido enchufable",
     categoria: "Familiar",
-    precioDesde: 68000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 455,
     autonomiaKm: 80,
     maleteroL: 519,
@@ -1842,7 +1842,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "El sleeper definitivo",
     ],
     contras: [
-      "~68.000 €: 16.000 € más que el B5",
+      "Sin tarifa oficial vigente: Volvo España solo ofrece el V60 enchufable como T6, no como T8",
       "2.050 kg: el peso de la hibridación",
       "Sin carga rápida en continua",
       "Si no cargas, gasta como un 2.0 turbo de 2 toneladas",
@@ -1858,7 +1858,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 709,
     traccion: "Total",
     emisionesCo2: 16,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volvo-v60-t8-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1906,7 +1906,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 Cross Country B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 58000,
+    precioDesde: 58200, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 529,
@@ -1923,7 +1923,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Ideal para nieve, campo y segundas residencias",
     ],
     contras: [
-      "~58.000 €: 6.000 € más que el V60 normal",
+      "58.200 € de tarifa oficial: más que el V60 normal",
       "7,6 l/100 km: la altura penaliza",
       "No es un todoterreno: sin reductora ni bloqueos",
       "El XC60 B5 cuesta parecido y es más versátil",
@@ -1939,7 +1939,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 172,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v60-cross-country-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1980,14 +1980,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "V90 B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 62000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 560,
@@ -2004,7 +2004,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Confort de berlina grande",
     ],
     contras: [
-      "~62.000 €: el segmento E familiar se encoge",
+      "Sin tarifa oficial verificable del B5 en la gama V90 actual de Volvo España",
       "7,4 l/100 km",
       "4,94 m: solo para quien lo necesita",
       "El V60 hace casi lo mismo por 10.000 € menos",
@@ -2020,7 +2020,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 168,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2048,7 +2048,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-v90-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo V90",
         "ancho": 1200,
         "alto": 800

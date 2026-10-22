@@ -23,7 +23,7 @@ export const COCHES_CHANGAN: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/changan-e06-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/changan-e06-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "gYXONlxir-Y",
     videoCanal: "Autos de Primera",
     marca: "Changan",
@@ -85,13 +85,13 @@ export const COCHES_CHANGAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/changan-e06-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Changan E06, vista trasera tres cuartos con pilotos LED unidos",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/changan-e06-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Changan E06: pantalla de 15,6 pulgadas y cuadro digital",
         "ancho": 1920,
         "alto": 1280

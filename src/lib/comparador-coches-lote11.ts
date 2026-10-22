@@ -951,7 +951,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-sealion-8-2026-oficial.webp",
-    imagenInteriorOficial: "/media/byd-sealion-8-2026-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -1019,12 +1019,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         ancho: 1920,
         alto: 1080,
       },
-      {
-        src: "/media/byd-sealion-8-2026-interior.webp",
-        alt: "Interior del BYD Sealion 8 con tapicería marrón",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "byd-sealion-8-2026-precio-autonomia",
     euroncap: {
@@ -1862,7 +1857,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/gac-trumpchi-gs3-emzoom-2025-oficial.webp",
-    imagenInteriorOficial: "/media/gac-trumpchi-gs3-emzoom-2025-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "GAC",
@@ -1930,12 +1925,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         ancho: 650,
         alto: 490,
       },
-      {
-        src: "/media/gac-trumpchi-gs3-emzoom-2025-interior.webp",
-        alt: "Interior del GAC Emzoom con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "gac-trumpchi-gs3-emzoom-2025-precio-autonomia",
     euroncap: {
@@ -2367,7 +2357,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-xia-2025-oficial.webp",
-    imagenInteriorOficial: "/media/byd-xia-2025-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -2435,12 +2425,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         ancho: 1730,
         alto: 742,
       },
-      {
-        src: "/media/byd-xia-2025-interior.webp",
-        alt: "Interior del BYD Xia con triple pantalla y tapicería clara",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "byd-xia-2025-precio-autonomia",
     euroncap: {

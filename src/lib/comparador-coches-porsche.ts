@@ -134,7 +134,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -162,12 +162,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera T 2026 con cambio manual",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -215,7 +210,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -243,12 +238,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -296,7 +286,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -324,12 +314,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera GTS 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -375,9 +360,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Mantenimiento y seguro de los más caros de la gama",
       "Su potencial es ilegal de explotar en carretera abierta",
     ],
-    imagen: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -393,24 +378,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche 911 Turbo S 2026, vista tres cuartos trasera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche 911 Turbo S 2026 en autopista",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Turbo S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -458,7 +428,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -486,12 +456,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 GT3 2026 con jaula",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -539,7 +504,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -567,12 +532,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 GT3 RS 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -620,7 +580,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -648,12 +608,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Targa 4 GTS 2026 descapotado",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -782,7 +737,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -810,12 +765,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan 4S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -863,7 +813,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -891,12 +841,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan Turbo 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -944,7 +889,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "0UTeFDm2AC8",
     videoCanal: "Fercho Urquiza",
     opiniones: [],
@@ -972,12 +917,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan Turbo GT 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1025,7 +965,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1053,12 +993,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan 4 Cross Turismo 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1104,8 +1039,8 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Tracción trasera: en mojado pide respeto",
       "Tamaño enorme: aparcar en ciudad es un reto",
     ],
-    imagen: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
@@ -1122,18 +1057,8 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-panamera-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Panamera 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Panamera 2026 en autopista",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
       {
         src: "/media/porsche-panamera-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Porsche Panamera 2026",
@@ -1185,9 +1110,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Sin carga rápida en continua",
       "4 plazas: sin opción de 5 asientos",
     ],
-    imagen: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1203,24 +1128,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Panamera 4 E-Hybrid 2026, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Panamera 4 E-Hybrid 2026 cargando",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Panamera 4 E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1268,7 +1178,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1296,12 +1206,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Panamera Turbo E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1347,9 +1252,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Ya no hay Macan de gasolina nuevo: es eléctrico o nada",
       "El peso penaliza el consumo en ciudad (17,8 kWh/100 km WLTP)",
     ],
-    imagen: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1365,24 +1270,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Macan 4 Electric 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Macan 4 Electric 2026 en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Macan 4 Electric 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1428,9 +1318,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "18,3 kWh/100 km WLTP: el consumo castiga la autonomía real",
       "Su precio lo acerca peligrosamente al Cayenne eléctrico",
     ],
-    imagen: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1446,24 +1336,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Macan Turbo Electric 2026, vista frontal",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Macan Turbo Electric 2026 en puerto de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Macan Turbo Electric 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1509,9 +1384,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Tamaño considerable: 4,93 m de largo",
       "Las opciones imprescindibles encarecen mucho la factura",
     ],
-    imagen: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1527,24 +1402,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Cayenne 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Cayenne 2026 en carretera rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1592,7 +1452,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "mt7G5h0q9tE",
     videoCanal: "auto10",
     opiniones: [],
@@ -1620,12 +1480,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1673,7 +1528,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1701,12 +1556,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne Coupé 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1754,7 +1604,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1782,12 +1632,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne Turbo E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1835,7 +1680,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1863,12 +1708,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 718 Spyder RS 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {

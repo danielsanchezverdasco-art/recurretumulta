@@ -57,7 +57,7 @@ export const COCHES_WIESMANN: CocheComparador[] = [
     imagenOficial:
       "/media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "tppTLExVKs8",
     videoCanal: "Electrek",
     opiniones: [],
@@ -86,12 +86,7 @@ export const COCHES_WIESMANN: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wiesmann-project-thunderball-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior artesanal del Wiesmann Project Thunderball, cuero y relojes analógicos",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "wiesmann-project-thunderball-2025-precio-ficha-tecnica",
   },

@@ -18,7 +18,7 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aion-v-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-v-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "sDap0V6QpnM",
     videoCanal: "Voltico",
     marca: "Aion",
@@ -86,12 +86,7 @@ export const COCHES_AION: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aion-v-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion V, salpicadero con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aion-v-2025-precio-ficha-tecnica",
   },
@@ -266,8 +261,8 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/aion-s-max-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-s-max-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
@@ -308,7 +303,7 @@ export const COCHES_AION: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.3,
@@ -323,24 +318,9 @@ export const COCHES_AION: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aion S Max blanco en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-s-max-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Aion S Max, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-s-max-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion S Max, cabina con pantalla flotante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aion-s-max-2024-precio-ficha-tecnica",
   },
@@ -349,8 +329,8 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/aion-s-plus-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-s-plus-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
@@ -391,7 +371,7 @@ export const COCHES_AION: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.32,
@@ -406,24 +386,9 @@ export const COCHES_AION: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aion S Plus negro en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-s-plus-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Aion S Plus, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-s-plus-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion S Plus, pantalla flotante y salpicadero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aion-s-plus-2024-precio-ficha-tecnica",
   },
@@ -432,8 +397,8 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/aion-y-plus-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-y-plus-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/aion-y-plus-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
@@ -474,7 +439,7 @@ export const COCHES_AION: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/aion-y-plus-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.39,
@@ -489,24 +454,9 @@ export const COCHES_AION: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/aion-y-plus-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aion Y Plus verde en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-y-plus-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Aion Y Plus, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/aion-y-plus-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion Y Plus, salpicadero y pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "aion-y-plus-2024-precio-ficha-tecnica",
   },
@@ -516,7 +466,7 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aion-y-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-y-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
@@ -584,12 +534,7 @@ export const COCHES_AION: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aion-y-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion Y, salpicadero y pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aion-y-2024-precio-ficha-tecnica",
   },
@@ -599,7 +544,7 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aion-v-plus-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-v-plus-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
@@ -667,12 +612,7 @@ export const COCHES_AION: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aion-v-plus-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion V Plus, salpicadero y pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aion-v-plus-2024-precio-ficha-tecnica",
   },
@@ -765,14 +705,14 @@ export const COCHES_AION: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aion-ray7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aion-ray7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aion",
     modelo: "Ray7",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: solo preventa oficial en China desde 128.800 CNY (lanzamiento GAC Aion, oct 2026); la web global/oficial de GAC no publica PVP en.
     potenciaCv: 245,
     autonomiaKm: 700,
     maleteroL: null,
@@ -833,12 +773,7 @@ export const COCHES_AION: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aion-ray7-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aion Ray7, salpicadero y pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "aion-ray7-2026-precio-ficha-tecnica",
   },

@@ -173,7 +173,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
   },
   {
     id: "bmw-f-750-gs-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 750 GS",
     version: "F 750 GS 2024",
     cilindradaCc: 853,
@@ -424,7 +424,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     version: "V-Strom 250SX 2025",
     cilindradaCc: 249,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: no se vende en España/Europa; Suzuki solo la comercializa en mercados como India (precio en INR, no EUR) y su web española no la .
     potenciaKw: 19.4,
     potenciaCv: 26,
     autonomiaKm: 400,
@@ -583,7 +583,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
   },
   {
     id: "cfmoto-450mt-2026-ficha-tecnica-precio",
-    marca: "CFMOTO",
+    marca: "CFMoto",
     modelo: "450MT",
     version: "450MT 2026",
     cilindradaCc: 450,
@@ -1081,7 +1081,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     version: "RS 125 2026",
     cilindradaCc: 124,
     categoria: "Deportiva",
-    precioDesde: 5499,
+    precioDesde: 5799,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 555,
@@ -1984,7 +1984,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     version: "Superlight 125V 2025",
     cilindradaCc: 125,
     categoria: "Custom",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: La variante '125V' no consta en la gama oficial de Keeway España ni en la del importador oficial británico (MotoGB).
     potenciaKw: 7.8,
     potenciaCv: 10.6,
     autonomiaKm: null,

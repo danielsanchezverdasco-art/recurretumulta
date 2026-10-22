@@ -129,7 +129,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -191,12 +191,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo 2027, tres cuartos delantero",
@@ -211,7 +206,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "BZJdwWX3cYc",
     videoCanal: "Centímetros Cúbicos",
     marca: "Maserati",
@@ -273,12 +268,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo Trofeo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo Trofeo 2027, tres cuartos delantero",
@@ -293,7 +283,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -355,12 +345,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo Folgore 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo Folgore 2027, tres cuartos delantero",
@@ -375,7 +360,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -437,12 +422,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio 2027, tres cuartos delantero",
@@ -457,7 +437,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -519,12 +499,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio Trofeo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio Trofeo 2027, tres cuartos delantero",
@@ -539,7 +514,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -601,12 +576,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio Folgore 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio Folgore 2027, tres cuartos delantero",
@@ -621,7 +591,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mcpura-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mcpura-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Ls2BbFJPxYQ",
     videoCanal: "SoyMotor",
     marca: "Maserati",
@@ -683,12 +653,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 2112,
         alto: 1168,
       },
-      {
-        src: "/media/maserati-mcpura-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati MCPura 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-mcpura-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati MCPura 2025, tres cuartos delantero",
@@ -703,7 +668,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "94_F_jlIfmo",
     videoCanal: "Auto Sensación",
     marca: "Maserati",
@@ -765,12 +730,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati MCPura Cielo 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati MCPura Cielo 2025, tres cuartos delantero",
@@ -785,7 +745,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -847,12 +807,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GT2 Stradale 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GT2 Stradale 2025, tres cuartos delantero",
@@ -1616,7 +1571,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0ACd4WFD0JU",
     videoCanal: null,
     marca: "Maserati",
@@ -1684,7 +1639,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20",
         "ancho": 1200,
         "alto": 800
@@ -1697,7 +1652,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -1765,7 +1720,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20 Cielo",
         "ancho": 1200,
         "alto": 800
@@ -1778,7 +1733,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -1846,7 +1801,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20 Notte Edition",
         "ancho": 1200,
         "alto": 800

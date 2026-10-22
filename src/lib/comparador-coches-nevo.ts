@@ -16,8 +16,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-a05-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-a05-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-a05-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "OXIQN_X3y50",
     videoCanal: "Jaywalkur",
     marca: "Nevo",
@@ -58,7 +58,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "consumo"],
-    imagen: "/media/nevo-a05-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 1.57,
@@ -73,24 +73,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-a05-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo A05, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-a05-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo A05, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-a05-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo A05, salpicadero con pantalla de 13,2 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-a05-2025-precio-ficha-tecnica",
   },
@@ -209,8 +194,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-a07-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-a07-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-a07-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "XQ6w7HzU7Ys",
     videoCanal: "JustCars",
     marca: "Nevo",
@@ -251,7 +236,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/nevo-a07-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.4,
@@ -266,24 +251,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-a07-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo A07, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-a07-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo A07, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-a07-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo A07, salpicadero con pantalla 2.5K de 15,4 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-a07-2025-precio-ficha-tecnica",
   },
@@ -292,8 +262,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-e07-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-e07-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-e07-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "nOl_nRbRmXY",
     videoCanal: "Wheelsboy",
     marca: "Nevo",
@@ -334,7 +304,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/nevo-e07-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.69,
@@ -349,24 +319,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-e07-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo E07, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-e07-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo E07, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-e07-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo E07, salpicadero con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-e07-2025-precio-ficha-tecnica",
   },
@@ -375,8 +330,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-q05-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-q05-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-q05-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "gYXONlxir-Y",
     videoCanal: "Autos de Primera",
     marca: "Nevo",
@@ -417,7 +372,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm"],
-    imagen: "/media/nevo-q05-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.43,
@@ -432,24 +387,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-q05-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo Q05, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q05-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo Q05, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q05-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo Q05, salpicadero con pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-q05-2025-precio-ficha-tecnica",
   },
@@ -458,8 +398,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-q06-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-q06-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-q06-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6bZpSholEgQ",
     videoCanal: "Solkuno",
     marca: "Nevo",
@@ -500,7 +440,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/nevo-q06-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.06,
@@ -515,24 +455,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-q06-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo Q06, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q06-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo Q06, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q06-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo Q06, salpicadero con pantalla de 15,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-q06-2026-precio-ficha-tecnica",
   },
@@ -541,8 +466,8 @@ export const COCHES_NEVO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nevo-q07-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nevo-q07-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nevo-q07-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "YO2ckd6gg-s",
     videoCanal: "Max AutoDvizh",
     marca: "Nevo",
@@ -583,7 +508,7 @@ export const COCHES_NEVO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/nevo-q07-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.9,
@@ -598,24 +523,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/nevo-q07-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nevo Q07, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q07-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nevo Q07, vista lateral en una calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/nevo-q07-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Nevo Q07, salpicadero con pantalla de 15,4 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "nevo-q07-2025-precio-ficha-tecnica",
   },

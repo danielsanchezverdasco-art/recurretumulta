@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
@@ -29,7 +30,6 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
-import Relacionados from "@/components/Relacionados.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
@@ -282,10 +282,11 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos",
-            item: "https://recurretumulta.online/comparador-motos/",
+            name: "Fichas técnicas",
+            item: "https://recurretumulta.online/fichas-tecnicas/",
           },
           {
             "@type": "ListItem",
@@ -348,8 +349,8 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-motos/" className="hover:underline">
-            {esElectrica ? "Comparador de motos eléctricas" : "Comparador de motos"}
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas técnicas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -510,6 +511,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           </Suspense>
         )}
 
+        {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
+        <AnalisisEditorial slug={moto.id} />
+
         {moto.galeria.length > 0 && (
           <Suspense fallback={null}>
           <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
@@ -590,10 +594,10 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           </div>
           <p className="mt-3 text-gray-700">
             {moto.precioDesde == null ? (
-              <>La {nombre} aún no tiene precio confirmado para España.</>
+              <>{`La ${nombre} aún no tiene precio confirmado para España.`}</>
             ) : (
               <>
-                La {nombre} ({moto.version}) parte de{" "}
+                {`La ${nombre} (${moto.version}) parte de `}
                 <strong className="text-gray-900">{fmtPrecio(moto.precioDesde)}</strong>.
               </>
             )}{" "}
@@ -604,7 +608,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             const g = garantiaDeMarca(moto.marca, "motos");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                🛡️ Garantía oficial {moto.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
+                {`🛡️ Garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
@@ -784,8 +788,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           </Link>
         </section>
 
-        <Relacionados pathname={`/motos/${moto.id}/`} enArticulo />
-
+        
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">

@@ -11,7 +11,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
     modelo: "Nugget Active",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: 71988,
     potenciaCv: 170,
     autonomiaKm: null,
     maleteroL: null,

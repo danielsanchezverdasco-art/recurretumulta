@@ -60,8 +60,8 @@ function BlogPage() {
   const allPosts = withIndex.map((x) => x.p);
 
   useSeo({
-    title: "Multas de tráfico: cómo recurrirlas",
-    description: "Guías expertas de tráfico: recurrir multas DGT, vicios de forma, radares, prescripción, Policía Local y ZBE. Modelos de recurso gratis 2026.",
+    title: "Blog de motor, radares y multas: análisis y guías",
+    description: "El blog de RecurreTuMulta: análisis de coches, motos y patinetes, fichas técnicas comentadas, radares y guías para recurrir multas DGT. Actualizado 2026.",
     canonical: "/blog",
     keywords: [
       "blog multas trafico España",
@@ -151,15 +151,15 @@ function BlogPage() {
             <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.08 }}>
               <div className="inline-flex items-center gap-2 bg-red-600/20 border border-red-500/30 rounded-full px-4 py-1.5">
                 <BookOpen className="w-3.5 h-3.5 text-red-400" />
-                <span className="text-xs text-red-300 font-bold uppercase tracking-widest">Guía Legal DGT 2026</span>
+                <span className="text-xs text-red-300 font-bold uppercase tracking-widest">Blog · Motor y tráfico 2026</span>
               </div>
             </motion.div>
             <motion.h1 initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.16 }} className="text-3xl md:text-4xl font-black text-white leading-tight text-balance drop-shadow-lg">
-              Multas de tráfico: cómo recurrirlas<br />
-              <span className="text-red-400">y no pagar de más.</span>
+              Coches, motos, radares y multas:<br />
+              <span className="text-red-400">análisis y guías que sí sirven.</span>
             </motion.h1>
             <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.24 }} className="text-white/80 text-sm md:text-base leading-relaxed max-w-xl mx-auto">
-              Guías detalladas sobre cómo recurrir multas DGT, Policía Local y Ayuntamientos. Redactadas por IA con referencias a la LTSV y el Reglamento General de Circulación.
+              Análisis de coches, motos y patinetes con sus fichas técnicas, radares explicados y guías detalladas para recurrir multas DGT, Policía Local y Ayuntamientos.
             </motion.p>
             <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.32 }} className="pt-2">
               <Link to="/#analizador">

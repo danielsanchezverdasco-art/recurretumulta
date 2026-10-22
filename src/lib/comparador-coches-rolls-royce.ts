@@ -13,7 +13,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-phantom-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-phantom-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "tpStExZcAak",
     videoCanal: "Actualidad Motor",
     marca: "Rolls-Royce",
@@ -81,7 +81,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-phantom-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Phantom con techo Starlight",
         "ancho": 1920,
         "alto": 1280
@@ -94,7 +94,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "tpStExZcAak",
     videoCanal: "Actualidad Motor",
     marca: "Rolls-Royce",
@@ -162,7 +162,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-phantom-extended-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Plazas traseras del Rolls-Royce Phantom Extended",
         "ancho": 1920,
         "alto": 1280
@@ -175,7 +175,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-ghost-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-ghost-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "5k2qBr-SUbU",
     videoCanal: "Hispanos en Ohio",
     marca: "Rolls-Royce",
@@ -243,7 +243,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-ghost-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Salpicadero del Rolls-Royce Ghost con iluminación ambiental",
         "ancho": 1920,
         "alto": 1280
@@ -256,14 +256,14 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "5k2qBr-SUbU",
     videoCanal: "Hispanos en Ohio",
     marca: "Rolls-Royce",
     modelo: "Ghost Extended",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: Rolls-Royce no publica precios; su web oficial indica que el precio depende de la especificación Bespoke y remite al concesionario.
     potenciaCv: 571,
     autonomiaKm: null,
     maleteroL: null,
@@ -324,7 +324,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-ghost-extended-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Asientos traseros reclinables del Ghost Extended",
         "ancho": 1920,
         "alto": 1280
@@ -337,7 +337,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-cullinan-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-cullinan-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kRg8N66uR7g",
     videoCanal: "Actualidad Motor",
     marca: "Rolls-Royce",
@@ -405,7 +405,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-cullinan-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Cullinan",
         "ancho": 1920,
         "alto": 1280
@@ -418,7 +418,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kRg8N66uR7g",
     videoCanal: "Actualidad Motor",
     marca: "Rolls-Royce",
@@ -486,7 +486,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-cullinan-series-ii-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior digitalizado del Cullinan Series II con sistema SPIRIT",
         "ancho": 1920,
         "alto": 1280
@@ -499,7 +499,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-spectre-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-spectre-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "bNl_IwmY38g",
     videoCanal: "Periodismo del Motor",
     marca: "Rolls-Royce",
@@ -567,7 +567,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-spectre-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior estrellado del Rolls-Royce Spectre",
         "ancho": 1920,
         "alto": 1280
@@ -580,7 +580,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -648,7 +648,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/rolls-royce-spectre-series-ii-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Spectre Series II con tapicería Duality Twill",
         "ancho": 1920,
         "alto": 1280
@@ -661,7 +661,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-ghost-series-ii-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-ghost-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "IdfBy8plWuc",
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -729,7 +729,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/rolls-royce-ghost-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Ghost Series II",
         "ancho": 1200,
         "alto": 800
@@ -742,7 +742,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-ghost-extended-series-ii-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-ghost-extended-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -810,7 +810,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/rolls-royce-ghost-extended-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Ghost Extended Series II",
         "ancho": 1200,
         "alto": 800
@@ -823,7 +823,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-ghost-black-badge-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-ghost-black-badge-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -891,7 +891,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/rolls-royce-ghost-black-badge-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Ghost Black Badge",
         "ancho": 1200,
         "alto": 800
@@ -985,7 +985,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -1053,7 +1053,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/rolls-royce-cullinan-series-ii-black-badge-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Cullinan Series II Black Badge",
         "ancho": 1200,
         "alto": 800
@@ -1154,7 +1154,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     modelo: "Droptail",
     tipo: "Gasolina",
     categoria: "Descapotable",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Precio NO publicado oficialmente: Droptail es un encargo Coachbuild a medida (solo 4 unidades, una por cliente); Rolls-Royce nunca ha publicado precio.
     potenciaCv: 600,
     autonomiaKm: null,
     maleteroL: null,
@@ -1309,7 +1309,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Rolls-Royce",
@@ -1377,7 +1377,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/rolls-royce-phantom-series-ii-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Rolls-Royce Phantom Series II",
         "ancho": 1200,
         "alto": 800

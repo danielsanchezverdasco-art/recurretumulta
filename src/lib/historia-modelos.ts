@@ -1245,7 +1245,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "denza-n9-byd-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-denza-n9-byd-2026-precio-ficha-tecnica-2025.webp" }] },
   "aiva-me7-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/aiva-me7-paris-2026-hero.webp" }] },
   "geely-galaxy-battleship-700-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/battleship-700-offroad-hero.webp" }] },
-  "hongqi-g919-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/hongqi-g919-hero.webp" }] },
+  "hongqi-g919-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "" }] },
   "deepal-s09-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-deepal-s09-2026-precio-ficha-tecnica-2025.webp" }] },
   "im-ls9-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/historia-im-ls9-2026-precio-ficha-tecnica-2025.webp" }] },
   "maextro-v800-huawei-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: null, foto: "/media/historia-maextro-v800-huawei-precio-ficha-tecnica-2026.webp" }] },

@@ -889,7 +889,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lexus-es-500e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lexus-es-500e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "LpxmR4z067s",
     videoCanal: "Autoblog",
     marca: "Lexus",
@@ -951,7 +951,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/lexus-es-500e-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lexus ES 500e 2026, asientos traseros ejecutivos",
         "ancho": 2048,
         "alto": 1152

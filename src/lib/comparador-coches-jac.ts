@@ -51,8 +51,8 @@ export const COCHES_JAC: CocheComparador[] = [
       "Traducciones del sistema multimedia mejorables",
       "Sin versión con más batería para viajes largos",
     ],
-    imagen: "/media/jac-e30x-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jac-e30x-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/jac-e30x-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/jac-e30x-2025-precio-ficha-tecnica-interior.webp",
     videoId: "Dd2bBmZ2eV4",
     videoCanal: "Bjørn Nyland",
@@ -70,18 +70,8 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-e30x-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC E30X eléctrico en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-e30x-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC E30X, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
       {
         src: "/media/jac-e30x-2025-precio-ficha-tecnica-interior.webp",
         alt: "Interior del JAC E30X con pantalla de 15,6 pulgadas",
@@ -237,9 +227,9 @@ export const COCHES_JAC: CocheComparador[] = [
       "Peso elevado por la batería de 88 kWh",
       "Disponibilidad limitada a algunos mercados",
     ],
-    imagen: "/media/jac-t9-ev-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jac-t9-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-t9-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/jac-t9-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -256,24 +246,9 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-t9-ev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC T9 EV eléctrica en camino rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-t9-ev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC T9 EV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-t9-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC T9 EV",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "jac-t9-ev-2025-precio-ficha-tecnica",
   },
@@ -424,9 +399,9 @@ export const COCHES_JAC: CocheComparador[] = [
       "El modo híbrido eleva el consumo si no se carga a diario",
       "Reventa incierta en mercados nuevos",
     ],
-    imagen: "/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jac-qx-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-qx-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -443,24 +418,9 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC QX PHEV en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-qx-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC QX PHEV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-qx-phev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC QX PHEV con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "jac-qx-phev-2025-precio-ficha-tecnica",
   },
@@ -507,9 +467,9 @@ export const COCHES_JAC: CocheComparador[] = [
       "Imagen de marca aún por construir en Europa",
       "Maletero sin cifra oficial publicada",
     ],
-    imagen: "/media/jac-qx-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jac-qx-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-qx-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/jac-qx-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -526,24 +486,9 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-qx-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC QX SUV en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-qx-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC QX, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-qx-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC QX",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "jac-qx-2025-precio-ficha-tecnica",
   },
@@ -592,7 +537,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/jac-x8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-x8-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-x8-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -621,12 +566,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/jac-x8-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC X8 con 7 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "jac-x8-2025-precio-ficha-tecnica",
   },
@@ -742,7 +682,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "E40X",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del e40X
     potenciaCv: 148,
     autonomiaKm: 402,
     maleteroL: 520,
@@ -781,7 +721,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/jac-e40x-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-e40x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-e40x-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -810,12 +750,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/jac-e40x-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC E40X",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "jac-e40x-2025-precio-ficha-tecnica",
   },
@@ -825,7 +760,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "JS4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // JAC no comercializa turismos oficialmente en España; sin tarifa oficial ES del JS4
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: null,
@@ -862,9 +797,9 @@ export const COCHES_JAC: CocheComparador[] = [
       "Sin presencia oficial en Europa",
       "Consumo sin cifra oficial publicada",
     ],
-    imagen: "/media/jac-js4-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     imagenOficial: "/media/jac-js4-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-js4-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -881,24 +816,9 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-js4-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC JS4 SUV compacto en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-js4-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC JS4, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-js4-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC JS4",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "jac-js4-2025-precio-ficha-tecnica",
   },
@@ -945,9 +865,9 @@ export const COCHES_JAC: CocheComparador[] = [
       "No se vende en Europa",
       "Valor de reventa bajo fuera de sus mercados",
     ],
-    imagen: "/media/jac-j7-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/jac-j7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-j7-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/jac-j7-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -964,24 +884,9 @@ export const COCHES_JAC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/jac-j7-2025-precio-ficha-tecnica-hero.webp",
-        alt: "JAC J7 liftback en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-j7-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "JAC J7, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/jac-j7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC J7",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "jac-j7-2025-precio-ficha-tecnica",
   },
@@ -1030,7 +935,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/jac-ej7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-ej7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-ej7-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1059,12 +964,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/jac-ej7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC eJ7",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "jac-ej7-2025-precio-ficha-tecnica",
   },
@@ -1074,7 +974,7 @@ export const COCHES_JAC: CocheComparador[] = [
     modelo: "T8 Pro",
     tipo: "Diésel",
     categoria: "Pick-up",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en fuente oficial: JAC no publica PVP del T8 Pro en su web oficial localizada; solo aparecen precios de marketplaces/exportadores (Accio/.
     potenciaCv: 167,
     autonomiaKm: null,
     maleteroL: null,
@@ -1196,7 +1096,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/jac-js2-pro-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-js2-pro-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-js2-pro-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1225,12 +1125,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/jac-js2-pro-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC JS2 Pro",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "jac-js2-pro-2024-precio-ficha-tecnica",
   },
@@ -1279,7 +1174,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/jac-a5-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jac-a5-plus-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jac-a5-plus-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1308,12 +1203,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/jac-a5-plus-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del JAC A5 Plus",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "jac-a5-plus-2025-precio-ficha-tecnica",
   },
@@ -1362,7 +1252,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/sehol-e10x-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/sehol-e10x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/sehol-e10x-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "OHdF9XS705Y",
     videoCanal: "El Carro Colombiano",
     opiniones: [],
@@ -1391,12 +1281,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/sehol-e10x-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Sehol E10X",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "sehol-e10x-2025-precio-ficha-tecnica",
   },
@@ -1445,7 +1330,7 @@ export const COCHES_JAC: CocheComparador[] = [
     ],
     imagen: "/media/sehol-x6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/sehol-x6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/sehol-x6-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1474,12 +1359,7 @@ export const COCHES_JAC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/sehol-x6-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Sehol X6",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "sehol-x6-2024-precio-ficha-tecnica",
   },

@@ -10,7 +10,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -77,12 +77,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Elroq 85",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -91,7 +86,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -158,12 +153,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Elroq RS",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -172,7 +162,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -239,12 +229,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Enyaq 85",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -253,7 +238,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -320,12 +305,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Enyaq RS",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -334,7 +314,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -401,12 +381,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Enyaq Coupé 85",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -577,7 +552,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -644,12 +619,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior y maletero del Skoda Octavia Combi",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -739,7 +709,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -806,12 +776,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Superb iV",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -820,7 +785,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -887,12 +852,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Superb 2.0 TDI",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -901,7 +861,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -968,12 +928,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de 7 plazas del Skoda Kodiaq RS",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -982,7 +937,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1049,12 +1004,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Kodiaq iV",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1063,7 +1013,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1130,12 +1080,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Scala",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1144,7 +1089,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-epiq-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-epiq-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1211,12 +1156,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-epiq-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Epiq",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1225,7 +1165,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1292,12 +1232,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Fabia Monte Carlo",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1387,7 +1322,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1454,12 +1389,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Octavia Combi 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1468,7 +1398,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1535,12 +1465,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Superb 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1630,7 +1555,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1697,12 +1622,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Kodiaq 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1711,7 +1631,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "B0CdYl4RtFY",
     videoCanal: "coches.net",
     marca: "Skoda",
@@ -1778,12 +1698,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Kamiq 1.0 TSI",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1873,7 +1788,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "MgBwUVpt4Go",
     videoCanal: "AutoScout24",
     marca: "Skoda",
@@ -1940,12 +1855,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Enyaq 60",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {

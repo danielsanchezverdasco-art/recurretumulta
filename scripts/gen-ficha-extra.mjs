@@ -86,7 +86,9 @@ const nc = rivales(D.COCHES_COMPARADOR, {
   id: (c) => c.id, nombre: (c) => `${c.marca} ${c.modelo}`, precio: (c) => c.precioDesde,
   foto: (c) => primeraFoto(c.imagenOficial, c.imagen), seg: (c) => (c.categoria || "").toLowerCase(),
   afin: (a, b) => (a.tipo || "") === (b.tipo || ""),
-  blog: (c) => BLOG.has(D.ANALISIS_COCHES[c.id] ?? c.id),
+  // 20/10/2026: igual que en motos, se respeta c.analisisSlug; sin esto, fichas
+  // cuyo artículo tiene otro slug (Adria Matrix Supreme) salían sin botón al blog.
+  blog: (c) => BLOG.has(D.ANALISIS_COCHES[c.id] ?? c.analisisSlug ?? c.id),
 }, "c");
 const nm = rivales(D.MOTOS_COMPARADOR, {
   id: (m) => m.id, nombre: (m) => `${m.marca} ${m.modelo}`.replace(/:+$/, "").trim(), precio: (m) => m.precioDesde,

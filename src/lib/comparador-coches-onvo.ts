@@ -57,7 +57,7 @@ export const COCHES_ONVO: CocheComparador[] = [
     ],
     imagen: "/media/onvo-l60-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/onvo-l60-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "onvo-l60-2026-precio-ficha-tecnica",
     videoId: "2jzlQpnj434",
     videoCanal: "Solkuno",
@@ -87,12 +87,7 @@ export const COCHES_ONVO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/onvo-l60-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Onvo L60 2026, salpicadero con pantalla central y volante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -140,7 +135,7 @@ export const COCHES_ONVO: CocheComparador[] = [
     ],
     imagen: "/media/onvo-l80-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l80-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/onvo-l80-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "onvo-l80-2026-precio-ficha-tecnica",
     videoId: "jMyi6GYA7U8",
     videoCanal: "Telescope",
@@ -170,12 +165,7 @@ export const COCHES_ONVO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/onvo-l80-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Onvo L80 2026 con tapicería de cuero Nappa y gran pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
 ];

@@ -61,7 +61,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-free-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-free-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-free-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-free-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -91,12 +91,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-free-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Voyah Free, tres pantallas de 12,3 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -144,7 +139,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-free-erev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-free-erev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-free-erev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-free-erev-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -174,12 +169,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-free-erev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Voyah Free+ con cabina HarmonySpace 5 de Huawei",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -227,7 +217,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-passion-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-passion-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-passion-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-passion-2024-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -257,12 +247,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-passion-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior minimalista del Voyah Passion con gran pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -503,7 +488,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-courage-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-courage-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-courage-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-courage-2024-precio-ficha-tecnica",
     videoId: "TZFD3qBDYnE",
     videoCanal: "Viviendo Verde",
@@ -533,12 +518,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-courage-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Voyah Courage con pantalla OLED deslizante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -586,7 +566,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-courage-awd-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-courage-awd-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-courage-awd-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-courage-awd-2024-precio-ficha-tecnica",
     videoId: "1hn17FM64nQ",
     videoCanal: "YouTube",
@@ -616,12 +596,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-courage-awd-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior premium del Voyah Courage AWD con luz ambiental",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -669,7 +644,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-courage-109kwh-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-courage-109kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-courage-109kwh-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-courage-109kwh-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -699,12 +674,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-courage-109kwh-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Voyah Courage 109 kWh",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -752,7 +722,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-taishan-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-taishan-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-taishan-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-taishan-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -782,12 +752,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-taishan-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de seis plazas del Voyah Taishan",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -835,7 +800,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-dream-9-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-dream-9-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-dream-9-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-dream-9-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -865,12 +830,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-dream-9-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de siete plazas del Voyah Dream 9",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -918,7 +878,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
     ],
     imagen: "/media/voyah-dream-9-phev-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-dream-9-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/voyah-dream-9-phev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "voyah-dream-9-phev-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -948,12 +908,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/voyah-dream-9-phev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior ejecutivo del Voyah Dream 9 PHEV con asientos giratorios",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
 ];

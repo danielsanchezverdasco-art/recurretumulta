@@ -15,7 +15,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "300 SEF 2025",
     cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -78,7 +78,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "500 SEF 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -208,7 +208,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "RR 480 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "Xtrainer 300 2025",
     cilindradaCc: 292,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 7690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -293,7 +293,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
       "Arranque eléctrico y mapas de potencia de serie",
     ],
     contras: [
-      "Precio oficial 2025 no publicado en España",
+      "7.690 € de tarifa oficial: precio contenido para una enduro 2T, aunque con menos equipamiento que las RR",
       "Suspensiones orientadas al confort, no a la competición pura",
       "El 2T consume y contamina más que un 4T equivalente",
       "Depósito de 8,8 L: justo para rutas largas",
@@ -334,7 +334,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "Alp 200 2025",
     cilindradaCc: 200,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1162,7 +1162,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "WR450F 2025",
     cilindradaCc: 450,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1225,7 +1225,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "YZ250F 2025",
     cilindradaCc: 250,
     categoria: "Motocross",
-    precioDesde: null,
+    precioDesde: 9999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1248,7 +1248,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     ],
     contras: [
       "No homologada: solo para circuitos cerrados",
-      "Precio oficial en España no publicado",
+      "9.999 € de tarifa oficial: precio alto para una moto solo de circuito",
       "Sin matrícula ni etiqueta DGT",
       "Mantenimiento intensivo de moto de carreras",
       "El 250 4T exige llevarlo alto de vueltas",
@@ -1419,7 +1419,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "KB4 2025",
     cilindradaCc: 1043,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada: venta bajo pedido en concesionario (verificado 20/10/2026)
     potenciaKw: 104.5,
     potenciaCv: 142,
     autonomiaKm: null,

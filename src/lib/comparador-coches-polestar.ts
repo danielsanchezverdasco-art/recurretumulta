@@ -13,7 +13,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -71,19 +71,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 2, berlina eléctrica, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 2, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 2, salpicadero con pantalla vertical",
         "ancho": 1200,
         "alto": 800
@@ -96,7 +96,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "z70J32S30SU",
     videoCanal: "The Polestar Vlog",
     marca: "Polestar",
@@ -154,19 +154,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 3, SUV eléctrico grande, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 3, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 3, pantalla vertical de 14,5 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -179,7 +179,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-4-suv-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-4-suv-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Polestar",
@@ -237,19 +237,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 4 SUV, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 4 SUV, vista trasera con luneta de cristal",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 4 SUV, iluminación ambiental",
         "ancho": 1200,
         "alto": 800
@@ -262,7 +262,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-5-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-5-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin review española con canal verificado a 04/10/2026
     videoCanal: null,
     marca: "Polestar",
@@ -320,19 +320,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 5, GT eléctrico de 4 puertas, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 5, vista lateral, silueta de gran turismo",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 5, asientos Recaro",
         "ancho": 1200,
         "alto": 800
@@ -345,7 +345,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-long-range-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-long-range-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -409,7 +409,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-long-range-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Long Range",
         "ancho": 1200,
         "alto": 800
@@ -428,7 +428,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -492,7 +492,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Long Range Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -511,7 +511,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -575,7 +575,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Performance",
         "ancho": 1200,
         "alto": 800
@@ -594,7 +594,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Sbw04eT8-8Y",
     videoCanal: "SoyMotor",
     marca: "Polestar",
@@ -658,7 +658,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 3 Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -677,7 +677,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Sbw04eT8-8Y",
     videoCanal: "SoyMotor",
     marca: "Polestar",
@@ -741,7 +741,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 3 Performance",
         "ancho": 1200,
         "alto": 800
@@ -760,7 +760,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0xc14rGySkM",
     videoCanal: "Motorpasión",
     marca: "Polestar",
@@ -824,7 +824,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 4 SUV Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -843,7 +843,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-5-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-5-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "7bQrfaUAq3A",
     videoCanal: "AutoEV",
     marca: "Polestar",
@@ -907,7 +907,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 5 Performance con asientos Recaro",
         "ancho": 1200,
         "alto": 800

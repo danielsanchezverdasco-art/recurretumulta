@@ -13,7 +13,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2mQDSxeMPIU",
     videoCanal: "km77",
     marca: "SEAT",
@@ -75,7 +75,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León Sportstourer",
         "ancho": 1200,
         "alto": 800
@@ -179,7 +179,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-arona-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-arona-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "sPPVt6r5bYw",
     videoCanal: "Diariomotor",
     marca: "SEAT",
@@ -241,7 +241,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-arona-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT Arona 1.5 TSI",
         "ancho": 1200,
         "alto": 800
@@ -262,7 +262,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -324,7 +324,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León 1.5 eTSI",
         "ancho": 1200,
         "alto": 800
@@ -345,7 +345,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -407,7 +407,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León 2.0 TDI",
         "ancho": 1200,
         "alto": 800
@@ -428,7 +428,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -490,7 +490,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León 1.5 e-HYBRID",
         "ancho": 1200,
         "alto": 800
@@ -511,7 +511,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "y1hkRxsnCGA",
     videoCanal: "cochesypruebas",
     marca: "SEAT",
@@ -573,7 +573,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT Ateca 1.5 TSI",
         "ancho": 1200,
         "alto": 800
@@ -594,7 +594,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -656,7 +656,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT Ateca 2.0 TDI",
         "ancho": 1200,
         "alto": 800
@@ -843,7 +843,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -905,7 +905,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León 1.5 TSI 115",
         "ancho": 1200,
         "alto": 800
@@ -926,7 +926,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "KKLlCYmqLCw",
     videoCanal: "Loading Cars",
     marca: "SEAT",
@@ -988,7 +988,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León 1.5 eTSI 115",
         "ancho": 1200,
         "alto": 800
@@ -1424,7 +1424,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "SEAT",
@@ -1486,7 +1486,7 @@ export const COCHES_SEAT: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del SEAT León Sportstourer 2.0 TDI",
         "ancho": 1200,
         "alto": 800

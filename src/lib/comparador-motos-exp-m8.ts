@@ -145,7 +145,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "S 1000 RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 23850,
+    precioDesde: 24530, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -168,7 +168,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "DBC (control dinámico de frenada) y Hill Start Control Pro de serie",
     ],
     contras: [
-      "Precio desde 23.850 €: territorio de superbike premium",
+      "Precio desde 24.530 €: territorio de superbike premium",
       "Postura radical: en carretera abierta cansa en menos de una hora",
       "210 CV exigen carnet A y cabeza fría: no es una moto para novatos",
       "El control dinámico de suspensión DDC es opcional de pago",
@@ -347,7 +347,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "M 1000 RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 42410.05,
+    precioDesde: 42410.05, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -370,7 +370,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "194 kg en orden de marcha con llantas de carbono M",
     ],
     contras: [
-      "Precio desde 41.580 €: el doble que una S 1000 RR",
+      "Precio desde 42.410 €: el doble que una S 1000 RR",
       "Monomoplaza de serie: el paquete de pasajero es opcional",
       "218 CV solo tienen sentido en circuito; en carretera es inmanejable al límite",
       "Mantenimiento y consumibles de moto de carreras",
@@ -622,7 +622,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "C 400 GT",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 8990,
+    precioDesde: 8940, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25,
     potenciaCv: 34,
     autonomiaKm: null,
@@ -635,7 +635,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión Gran Turismo del C 400 X: más confort y protección para viajar",
       "Keyless de serie en 2025 (antes era opcional)",
@@ -645,7 +645,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Parabrisas regulable y más espacio bajo el asiento y en guanteras",
     ],
     contras: [
-      "Precio desde 8.990 €: el GT más caro del segmento medio",
+      "Precio desde 8.940 €: el GT más caro del segmento medio",
       "219 kg en orden de marcha: el más pesado de su categoría",
       "Mismo motor de 34 CV que el X: no hay plus de prestaciones por el precio",
       "Velocidad máxima de unos 129 km/h: justo para autopista cargado",
@@ -755,7 +755,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "DesertX Discovery",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 20290,
+    precioDesde: 20290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 81,
     potenciaCv: 110,
     autonomiaKm: null,
@@ -768,7 +768,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión touring de la DesertX: parabrisas alto, maletas y protecciones de serie",
       "Testastretta 11° de 937 cc con 110 CV: el bicilíndrico trail más carismático",
@@ -778,7 +778,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Diseño neo-retro que homenajea la Cagiva Elefant del Dakar",
     ],
     contras: [
-      "Precio desde ~18.990 €: cara frente a la Ténéré 700",
+      "Precio desde 20.290 €: cara frente a la Ténéré 700",
       "223 kg en orden de marcha: pesada en el campo",
       "Asiento a 875 mm: alta para pilotos bajos",
       "El bicilíndrico vibra a bajo régimen en ciudad",
@@ -825,7 +825,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "Multistrada V4 Rally",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 30790,
+    precioDesde: 30790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 125,
     potenciaCv: 170,
     autonomiaKm: null,
@@ -838,7 +838,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "La Multistrada más rutera: depósito de 30 litros y autonomía de 400 km",
       "V4 Granturismo de 170 CV con distribución por muelles: revisiones cada 60.000 km",
@@ -848,7 +848,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Pantalla TFT de 6,5\" con navegador integrado",
     ],
     contras: [
-      "Precio desde ~29.990 €: la trail más cara del mercado",
+      "Precio desde 30.790 €: la trail más cara del mercado",
       "260 kg en orden de marcha: no es para el campo técnico",
       "El radar y la electrónica encarecen cualquier reparación",
       "Consumo elevado si se aprovechan los 170 CV",
@@ -1102,7 +1102,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "Hypermotard V2 SP",
     version: "2026",
     categoria: "Supermotard",
-    precioDesde: 19890,
+    precioDesde: 20690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -1115,7 +1115,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Nueva generación: 120 CV con 13 kg menos (177 kg la SP)",
       "Motor V2 de 890 cc con distribución variable: más par en medios",
@@ -1125,7 +1125,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "La supermotard más divertida y eficaz en curvas de su generación",
     ],
     contras: [
-      "Precio desde ~19.890 €: cara para una supermotard",
+      "Precio desde 20.690 €: cara para una supermotard",
       "177 kg con depósito pequeño: autonomía limitada",
       "Postura radical y asiento alto: cansa en viajes",
       "El motor V2 es nuevo: fiabilidad a largo plazo por demostrar",
@@ -1171,7 +1171,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "Diavel V4 RS",
     version: "2026",
     categoria: "Custom",
-    precioDesde: 43990,
+    precioDesde: 43490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 134,
     potenciaCv: 182,
     autonomiaKm: null,
@@ -1184,7 +1184,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Desmosedici Stradale de 182 CV: la Diavel más potente y rápida de la historia",
       "0-100 km/h en 2,52 s: la aceleración más brutal de una Ducati de serie",
@@ -1194,7 +1194,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Edición numerada con placa en la tija: exclusividad garantizada",
     ],
     contras: [
-      "Precio desde 43.990 €: solo para coleccionistas",
+      "Precio desde 43.490 €: solo para coleccionistas",
       "Consumo homologado de 7,5 l/100 km (más de 10 en conducción deportiva)",
       "El calor del V4 RS en ciudad es intenso",
       "Mantenimiento Desmo más caro y frecuente que el de la Diavel V4 normal",
@@ -1240,7 +1240,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "Streetfighter V2 S",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 16590,
+    precioDesde: 18990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -1253,7 +1253,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg", "precioDesde"],
+    aprox: ["pesoKg"],
     pros: [
       "Nuevo V2 de 890 cc con 120 CV: la naked media más ligera de Ducati (175 kg)",
       "Distribución variable IVT: entrega llena desde 3.000 rpm",
@@ -1263,7 +1263,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Sonido y carácter del bicilíndrico Ducati en estado puro",
     ],
     contras: [
-      "Precio no confirmado oficialmente para España: consultar concesionario",
+      "Precio desde 18.990 €: 2.400 € más que la Streetfighter V2 estándar",
       "120 CV pueden saber a poco junto a la V4 de 214 CV",
       "El motor es nuevo: historial de fiabilidad por construir",
       "Depósito pequeño: autonomía limitada",
@@ -1310,7 +1310,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "125 SMC R",
     version: "2025",
     categoria: "Supermotard",
-    precioDesde: 5399,
+    precioDesde: 5399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -1323,7 +1323,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Supermotard de verdad con carnet A1: 15 CV y chasis de enduro",
       "WP APEX con 230 mm de recorrido: suspensiones de moto grande",
@@ -1554,7 +1554,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "125 Enduro R",
     version: "2025",
     categoria: "Enduro",
-    precioDesde: 5399,
+    precioDesde: 5499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -1567,7 +1567,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Enduro con carnet A1: 15 CV para aprender off-road desde los 16 años",
       "Suspensiones WP de largo recorrido y llantas de 21\"/18\"",
@@ -1761,7 +1761,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "1390 Super Duke GT",
     version: "2025",
     categoria: "Turismo",
-    precioDesde: 25000,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -1784,7 +1784,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Basculante monobrazo y chasis de la 1390 Super Duke R Evo",
     ],
     contras: [
-      "Precio oficial no publicado para España: se espera por encima de 25.000 €",
+      "Sin precio oficial publicado para España: KTM no ha anunciado la tarifa de la 1390 Super Duke GT",
       "190 CV en una touring: exceso para el 99% de los pilotos",
       "El depósito y la autonomía penalizan los viajes largos deportivos",
       "Postura deportiva: cansa más que una GT tradicional",
@@ -1830,7 +1830,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "990 RC R",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 18490,
+    precioDesde: 16699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1853,7 +1853,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       "Versión Track solo para circuito por 18.490 € para los más radicales",
     ],
     contras: [
-      "Precio oficial de la versión de calle aún no publicado para España",
+      "Precio oficial de 16.699 €: alto para el segmento supersport medio",
       "Postura racing radical: solo para circuito y salidas cortas",
       "Sin concesiones al confort: es una moto de carreras con matrícula",
       "La competencia (Panigale V2, CBR) tiene más historia en el segmento",
@@ -3427,7 +3427,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     modelo: "Norden 901",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 14949,
+    precioDesde: 14399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: 400,
@@ -3440,7 +3440,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Bicilíndrico de 889 cc con 105 CV y 100 Nm: el trail sueco definitivo",
       "WP XPLOR con 240 mm de recorrido: off-road de verdad",

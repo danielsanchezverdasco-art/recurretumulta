@@ -17,11 +17,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -59,7 +59,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.5,
@@ -74,19 +74,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET5 2025, berlina eléctrica, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio ET5 2025, salpicadero minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET5 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -98,11 +98,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
     imagenInteriorOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Touring",
     tipo: "Eléctrico",
     categoria: "Familiar",
@@ -140,7 +140,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.6,
@@ -155,7 +155,7 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et5-touring-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET5 Touring 2025, familiar eléctrico, vista trasera",
         "ancho": 1920,
         "alto": 1280
@@ -167,7 +167,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1184
       },
       {
-        "src": "/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET5 Touring 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -179,11 +179,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-et7-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -221,7 +221,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.6,
@@ -236,19 +236,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET7, berlina insignia eléctrica, vista frontal",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio ET7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -260,11 +260,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el6-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el6-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL6",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -302,7 +302,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.7,
@@ -317,19 +317,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL6, SUV eléctrico, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL6, salpicadero minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL6, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -341,11 +341,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -383,7 +383,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.8,
@@ -398,19 +398,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL7, SUV eléctrico de lujo, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -422,11 +422,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el8-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el8-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el8-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL8",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -464,7 +464,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el8-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.9,
@@ -479,19 +479,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL8, SUV insignia de 6 plazas, vista trasera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL8, cabina de 6 plazas",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL8, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -503,11 +503,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC6",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -545,7 +545,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/nio-ec6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.7,
@@ -560,19 +560,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EC6 2024, SUV coupé eléctrico, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EC6 2024",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EC6 2024, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -584,11 +584,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2RbYhsezeOw",
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -626,7 +626,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.9,
@@ -641,19 +641,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EC7, SUV coupé insignia, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EC7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EC7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -666,10 +666,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Standard Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -728,7 +728,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET5 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -749,10 +749,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Touring Standard Range",
     tipo: "Eléctrico",
     categoria: "Familiar",
@@ -811,7 +811,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET5 Touring",
         "ancho": 1200,
         "alto": 800
@@ -832,10 +832,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "d3i8QcUydOA",
     videoCanal: "Auto Sensación",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7 Standard Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -894,7 +894,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET7 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -915,10 +915,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL6 Standard Range",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -977,7 +977,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO EL6 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -998,10 +998,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL7 Standard Range",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -1060,7 +1060,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO EL7 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -1081,10 +1081,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et9-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et9-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0iDJiLBlrPU",
     videoCanal: "Autogefühl",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET9",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -1143,7 +1143,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et9-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de lujo del NIO ET9 con 4 plazas",
         "ancho": 1200,
         "alto": 800

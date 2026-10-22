@@ -473,7 +473,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "9 SHS",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 50900,
+    precioDesde: 42517.05, // Campaña financiando con Open Bank (mín. 29.000 € a 36 meses) + anticipo Plan Auto+ de 2.250 € con achatarramiento, 21/10/2026; particulares hasta 31/10/2026; PVP sin campaña 52.053 €,
     potenciaCv: 537,
     autonomiaKm: 145,
     maleteroL: 471,
@@ -483,6 +483,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
     pros: [
+      "45.000 € financiando con la campaña oficial hasta el 31/10/2026 (tarifa 52.053 €)",
       "537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista",
       "145 km eléctricos WLTP: el PHEV con más autonomía eléctrica del mercado español",
       "Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV",
@@ -1228,123 +1229,6 @@ export const COCHES_BASE: CocheComparador[] = [
         "alt": "Interior del NIO Firefly, salpicadero claro",
         "ancho": 1200,
         "alto": 800
-      }
-    ],
-  },
-  {
-    id: "dacia-bigster-hybrid-precio-espana",
-    mantenimientoDIY: {
-        resetAceiteTitulo: "Resetear aviso de cambio de aceite",
-        resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
-        resetAceiteNota: "Bigster Hybrid 155: mismo sistema que Duster Hybrid.",
-        intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Lado del acompañante, bajo la guantera, junto a la consola central",
-        filtroPolenPasos: ["Echa hacia atrás al máximo el asiento del acompañante.", "Localiza bajo el salpicadero, en el lado del copiloto junto a la consola central, la tapa del cajetín del filtro.", "Levanta la patilla inferior de la tapa y tira de la empuñadura para extraer el filtro usado en el sentido de la flecha.", "Introduce el filtro nuevo empezando por la parte superior, cierra la tapa y devuelve el asiento a su posición."],
-        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire.", "Suelta las fijaciones de la tapa (clips o tornillos).", "Extrae el filtro usado, limpia el alojamiento y coloca el filtro nuevo en la misma orientación.", "Cierra la tapa, fija las grapas y cierra el capó."],
-        videoTutorialUrl: "https://www.youtube.com/watch?v=YqwYEZNCcUU",
-        videoTutorialTitulo: "Cómo resetear luz de servicio en Dacia o Renault Logan 2, Sandero Stepway 2, Lodgy, Dokker, Duster",
-    },
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/dacia-bigster-hybrid-precio-espana-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-hybrid-precio-espana-interior-oficial.webp",
-    videoId: "Kmp-y-nU954",
-    videoCanal: "coches.net",
-    marca: "Dacia",
-    modelo: "Bigster Hybrid 155",
-    tipo: "Híbrido",
-    categoria: "SUV",
-    precioDesde: 29420,
-    potenciaCv: 156,
-    autonomiaKm: null,
-    maleteroL: 546,
-    ceroCien: 9.7,
-    velocidadMax: 180,
-    bateriaKwh: 1.4,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    pros: [
-      "29.390 €: el C-SUV híbrido más barato del mercado",
-      "546 L de maletero (1.851 L abatidos) y 220 mm de altura libre",
-      "Consumo de 4,6 l/100 km con etiqueta ECO",
-      "Componentes del sistema híbrido fabricados en Valladolid",
-      "Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid",
-    ],
-    contras: [
-      "156 CV y 9,7 s de 0-100: prestaciones justas",
-      "Etiqueta ECO, no CERO: pagará en las ZBE más estrictas",
-      "Interior espartano: plásticos duros en los acabados de acceso",
-      "Solo 5 plazas: sin opción de 7 como otros C-SUV",
-      "Alta demanda: puede haber lista de espera en algunas versiones",
-    ],
-    largoMm: 4570,
-    anchoMm: 1813,
-    altoMm: 1711,
-    pesoKg: 1419,
-    consumo: 4.6,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 205,
-    traccion: "Delantera",
-    emisionesCo2: 105,
-    aprox: [],
-    imagen: "/media/dacia-bigster-hybrid-precio-espana-hero.webp",
-    opiniones: [
-      {
-        "texto": "Acabo de venir de probar el bigster y la verdad que no me ha gustado nada, a la que he salido a autovia vibraba se notaba mucho el ruido",
-        "usuario": "Kickass",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
-      },
-      {
-        "texto": "Contras: poca potencia, motor nuevo, peores acabados, es un dacia",
-        "usuario": "Kickass",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
-      },
-      {
-        "texto": "El espacio longitudinal atrás me recordó a mí Ibiza 6l, espacio de utilitario.",
-        "usuario": "juanma-ax",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=8390114&page=10"
-      },
-      {
-        "texto": "Según salimos del concesionario, a los 10 km el coche se paró, se bloqueó dirección, se bloquearon frenos, y se paró en seco",
-        "usuario": "Propietario anónimo (Trustpilot)",
-        "fuente": "trustpilot",
-        "url": "https://es.trustpilot.com/review/dacia.es"
-      }
-    ],
-    costeMensual: {
-      "costeEnergia100km": 8.5,
-      "seguroTercerosAnual": 450,
-      "seguroAmpliadoAnual": 800,
-      "mantenimientoAnual": 350,
-      "costeMensualTotal": 202,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
-      "estimado": true
-    },
-    galeria: [
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-2.webp",
-        "alt": "Dacia Bigster Hybrid 4x4, vista lateral",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-3.webp",
-        "alt": "Dacia Bigster Hybrid 155 Journey, vista tres cuartos",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-interior-oficial-2.webp",
-        "alt": "Interior del Dacia Bigster, salpicadero",
-        "ancho": 1200,
-        "alto": 795
       }
     ],
   },
@@ -2284,8 +2168,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "kjJIu0enIHM",
     videoCanal: "Hugo Valverde",
     marca: "Volkswagen",
@@ -2326,7 +2210,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.1,
@@ -2341,19 +2225,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen Golf 8.5 GTI rojo, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen Golf 8.5 gris oscuro en una calle europea al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf 8.5, puesto de conducción digital",
         "ancho": 1200,
         "alto": 800
@@ -2366,8 +2250,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2fcJFAZpG6Q",
     videoCanal: "Auto Sensación",
     marca: "Volkswagen",
@@ -2408,7 +2292,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 162,
     aprox: [],
-    imagen: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.3,
@@ -2423,19 +2307,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen California T7 de perfil con el techo elevable abierto",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen California T7 camper en la playa al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior camper de la Volkswagen California T7 con cocina",
         "ancho": 1200,
         "alto": 800
@@ -2458,8 +2342,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: "Id6QVjdpEdo",
     videoCanal: "Periodismo del Motor",
     marca: "Volkswagen",
@@ -2500,7 +2384,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.5,
@@ -2515,19 +2399,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen ID. Buzz bicolor azul y blanco, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen ID. Buzz bicolor amarillo y blanco al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior lounge del Volkswagen ID. Buzz con techo panorámico",
         "ancho": 1200,
         "alto": 800

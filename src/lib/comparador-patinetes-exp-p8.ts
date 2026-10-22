@@ -11,7 +11,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance",
-    precioEur: null,
+    precioEur: 600, // 499 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 57.5,
@@ -33,7 +33,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Postura de conducción frontal patentada: más estabilidad y equilibrio que un patinete clásico",
       "IP65 real con garantía que cubre daños por agua, algo casi único en el mercado",
@@ -41,7 +41,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Solo 16,2 kg para un patinete de su tamaño: se pliega y queda 70 % más estrecho",
     ],
     contras: [
-      "Precio elevado en Reino Unido (549 £): en España solo vía importación o retailers",
+      "Precio estimado desde la tarifa oficial de Reino Unido (499 £): en España solo vía importación o retailers",
       "Autonomía real (~40 km) lejos de los 57,5 km máximos declarados",
       "Sin suspensión: en adoquines se nota",
       "La postura frontal no gusta a todo el mundo",
@@ -62,7 +62,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance Flex",
-    precioEur: null,
+    precioEur: 1100, // 899 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 52,
@@ -84,7 +84,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "El patinete más compacto del mundo según Pure: plegado cabe en un maletero o bajo la mesa",
       "Postura frontal + manillar ajustable en altura",
@@ -92,7 +92,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Doble freno de tambor: frenada fiable y casi sin mantenimiento",
     ],
     contras: [
-      "Es el Pure más caro (899 £ en Reino Unido)",
+      "Es el Pure más caro: precio estimado desde la tarifa oficial de Reino Unido (899 £)",
       "52 km declarados que en real se quedan en ~35 km",
       "Sin suspensión pese al precio",
       "La batería de 342 Wh se queda justa para su precio",
@@ -112,7 +112,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance+",
-    precioEur: null,
+    precioEur: null, // Pure no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 50,
@@ -142,7 +142,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "IP65 con garantía antiagua y chasis de aleación aeroespacial",
     ],
     contras: [
-      "899 £ en Reino Unido: el Advance normal da casi lo mismo por menos",
+      "Sin precio oficial vigente: Pure ya no publica tarifa para el Advance+",
       "6-7 horas de carga según la fuente",
       "Sin suspensión",
       "Disponibilidad limitada en España",
@@ -163,7 +163,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "x McLaren",
-    precioEur: null,
+    precioEur: null, // Pure no publica tarifa oficial vigente para esta edición (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 62,
@@ -193,7 +193,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Motor de 924 W de pico: sube cuestas con soltura",
     ],
     contras: [
-      "Precio de colección (~999 £ / 1.999 $ en Australia): pagas la marca",
+      "Sin precio oficial vigente: edición de colección que Pure ya no lista con tarifa",
       "Mecánicamente es un Advance con otra decoración",
       "Sin suspensión",
       "Edición limitada: difícil de encontrar nuevo en España",
@@ -212,7 +212,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 4",
-    precioEur: null,
+    precioEur: null, // Pure ya no comercializa este modelo ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 900,
     autonomiaKm: 30,
@@ -246,6 +246,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Batería pequeña de 266 Wh",
       "Sin suspensión ni intermitentes",
       "El Air 4 Pro da 10 km más por poco más",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Air 4 es el Pure ligero y honesto: 16,2 kg, 4 horas de carga y precio contenido. Ideal como segundo patinete o para trayectos cortos; si haces más de 20 km al día, el Pro compensa.",
@@ -262,7 +263,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 4 Pro",
-    precioEur: null,
+    precioEur: null, // Pure ya no comercializa este modelo ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 900,
     autonomiaKm: 40,
@@ -296,6 +297,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sin suspensión ni intermitentes",
       "El Air 5/6 ya lo superan en equipamiento",
       "Precio de lanzamiento alto para un patinete sin suspensión",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Air 4 Pro es el Air 4 que deberías comprar: por 1 kg más tienes 10 km extra y mejor subida de cuestas. Compra racional dentro de Pure si no necesitas suspensión.",
@@ -312,7 +314,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6",
-    precioEur: null,
+    precioEur: 500, // 399 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 924,
     autonomiaKm: 45,
@@ -334,7 +336,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble suspensión GlideMotion de serie: el Air más cómodo hasta la fecha",
       "45 km declarados por 399 £: la mejor relación autonomía/precio de Pure",
@@ -346,6 +348,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sin datos oficiales de batería en Wh ni tiempo de carga",
       "De momento venta principal en Reino Unido",
       "Los Pro+/Ultra dan mucho más por poco más",
+      "Precio estimado desde la tarifa oficial de Reino Unido (399 £): no se vende oficialmente en España",
     ],
     veredicto:
       "El Air 6 es el nuevo superventas de Pure: suspensión doble, 45 km y 399 £. Si el precio en España se mantiene parecido, será la referencia de la gama media 2025-2026.",
@@ -363,7 +366,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Pro+",
-    precioEur: null,
+    precioEur: 500, // 449 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 75,
@@ -385,7 +388,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "75 km declarados: autonomía de gran turismo por 449 £",
       "Motor de 1200 W de pico: acelera y sube cuestas sin despeinarse",
@@ -397,6 +400,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sin datos oficiales de batería en Wh ni tiempo de carga",
       "Venta principal en Reino Unido por ahora",
       "El Ultra da 90 km por 100 £ más",
+      "Precio estimado desde la tarifa oficial de Reino Unido (449 £): no se vende oficialmente en España",
     ],
     veredicto:
       "El Air 6 Pro+ es el gran rutero de Pure: 75 km y 1200 W por 449 £. Para quien hace 20+ km al día, es la compra más sensata de la gama Air 6.",
@@ -413,7 +417,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Ultra",
-    precioEur: null,
+    precioEur: 700, // 549 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 90,
@@ -435,7 +439,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "90 km declarados: la máxima autonomía de Pure por 549 £",
       "Estabilización activa de la dirección: aplomo total a 25 km/h",
@@ -447,6 +451,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sin datos de tiempo de carga (serán muchas horas)",
       "Venta principal en Reino Unido por ahora",
       "Para ciudad pura, el Air 6 base basta y pesa menos",
+      "Precio estimado desde la tarifa oficial de Reino Unido (549 £): no se vende oficialmente en España",
     ],
     veredicto:
       "El Air 6 Ultra es el larga distancia de Pure: 90 km declarados y dirección estabilizada activamente. Pensado para commuters de extrarradio que quieren olvidarse del cargador varios días.",
@@ -462,7 +467,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Ultra Max",
-    precioEur: null,
+    precioEur: 800, // 649 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 90,
@@ -484,7 +489,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "1900 W de pico: el motor más potente jamás montado por Pure",
       "90 km declarados + disco de freno trasero adicional",
@@ -492,7 +497,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "IP65 y 120 kg de carga máxima",
     ],
     contras: [
-      "649 £: el Pure más caro sin ser edición especial",
+      "Precio estimado desde la tarifa oficial de Reino Unido (649 £): el Pure más caro sin ser edición especial",
       "Peso no publicado pero será el más pesado de la gama",
       "1900 W limitados a 25 km/h: la potencia solo se nota en cuestas",
       "Disponibilidad inicial limitada (preventa)",
@@ -512,7 +517,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Escape Pro+",
-    precioEur: null,
+    precioEur: 600, // 499 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 60,
@@ -534,7 +539,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Postura de conducción frontal tipo bicicleta: pies lado a lado, más equilibrio",
       "Doble suspensión GlideMotion (horquilla telescópica + monoamortiguador)",
@@ -542,7 +547,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sube pendientes de hasta el 23 % con sus 1200 W de pico",
     ],
     contras: [
-      "499 £ y de momento preventa/venta en Reino Unido",
+      "Precio estimado desde la tarifa oficial de Reino Unido (499 £); de momento, venta en Reino Unido",
       "Peso no publicado",
       "La postura frontal no es para todos",
       "60 km declarados que en real serán ~40",
@@ -562,7 +567,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Escape Ultra Max",
-    precioEur: null,
+    precioEur: null, // aún en preventa, sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 75,
@@ -592,7 +597,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Postura frontal: estabilidad superior en aceleraciones fuertes",
     ],
     contras: [
-      "649 £ en preventa: aún no disponible de forma general",
+      "Sin precio oficial: aún en preventa y Pure no ha publicado tarifa definitiva",
       "Peso y tiempo de carga no publicados",
       "Potencia limitada a 25 km/h por ley",
       "Excesivo si tu uso es urbano llano",
@@ -611,7 +616,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -661,7 +666,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -709,7 +714,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -757,7 +762,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: 2900,
     autonomiaKm: 65,
@@ -805,7 +810,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Special",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 55,
@@ -853,7 +858,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Long Body (dual motor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -901,7 +906,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Raptor 2",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -950,7 +955,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Compact",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 86,
@@ -998,7 +1003,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Eagle Pro / LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1046,7 +1051,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Victory Luxury",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1095,7 +1100,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "City",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1144,7 +1149,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Sonic Model A",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 125,
@@ -1193,7 +1198,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "New Storm LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 180,
@@ -1241,7 +1246,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Spider Max",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1289,7 +1294,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Ultra 2 Upgrade",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1338,7 +1343,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Achilleus",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: null,
     autonomiaKm: 120,
@@ -1386,7 +1391,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "X2 UP",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 190,
@@ -1434,7 +1439,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior 11 Plus",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 5400,
     autonomiaKm: 90,
@@ -1482,7 +1487,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior GT Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 180,
@@ -1530,7 +1535,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Mantis 10 Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 3360,
     autonomiaKm: 80,
@@ -1625,7 +1630,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10S",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1673,7 +1678,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 4950,
     autonomiaKm: 100,
@@ -1768,7 +1773,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X",
-    precioEur: 2819.9,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1790,7 +1795,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "2200 W nominales y 100 km declarados",
       "Disponible en tienda española (2819,90 €)",
@@ -1801,6 +1806,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Precio alto para su segmento",
       "Sin pico de potencia oficial publicado",
       "33,8 kg se notan en el día a día",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Wolf Warrior X es la versión equilibrada del lobo: 2200 W, 100 km declarados y venta en España. Potencia Kaabo sin llegar al GT Pro.",
@@ -1815,7 +1821,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 8",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1863,7 +1869,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 47,
@@ -1910,7 +1916,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom 2.0",
-    precioEur: null,
+    precioEur: 2000, // 2.199 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 3000,
     potenciaPicoW: 3500,
     autonomiaKm: 80,
@@ -1932,7 +1938,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "3000 W nominales (3500 W de pico) y 80 km declarados",
       "IP66: de los patinetes más resistentes al agua",
@@ -1942,7 +1948,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "46 kg: pesado para el día a día",
       "12 horas de carga con cargador estándar",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (2.199 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Phantom 2.0 es la reinvención del icono de Apollo: 3000 W, IP66 y 80 km declarados. Un hyper-patinete con acabado de gama alta.",
@@ -1959,7 +1965,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom Stellar",
-    precioEur: null,
+    precioEur: 2400, // 2.699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 6000,
     potenciaPicoW: 6700,
     autonomiaKm: 90,
@@ -1981,7 +1987,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "6000 W nominales y 6700 W de pico: el Apollo más potente",
       "Frenos hidráulicos de 4 pistones a la altura",
@@ -1991,7 +1997,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia solo aprovechable en circuito",
       "8 horas de carga",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (2.699 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El Phantom Stellar es la bestia de Apollo: 6000 W nominales y 6700 W de pico en 42 kg. El rival canadiense de los Dualtron Thunder.",
@@ -2007,7 +2013,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City 2.0 (2026)",
-    precioEur: null,
+    precioEur: 1200, // 1.399 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 65,
@@ -2029,7 +2035,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Novedad 2026: diseño renovado con IP66",
       "1900 W de pico y 65 km declarados",
@@ -2039,7 +2045,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia nominal no publicada por Apollo",
       "33 kg: mejorable para un urbano",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de EE. UU. (1.399 $): no se vende oficialmente en España",
     ],
     veredicto:
       "El City 2.0 es la renovación 2026 del urbano de Apollo: 1900 W de pico, IP66 y 65 km declarados. El commuter premium canadiense.",
@@ -2055,7 +2061,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Stellar (2026)",
-    precioEur: null,
+    precioEur: 1500, // 2.299 $ CAD (tarifa oficial Canadá) ÷ 1,5798 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 2700,
     autonomiaKm: 60,
@@ -2077,7 +2083,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Novedad 2026: doble motor con 2700 W de pico",
       "El City más potente manteniendo el formato urbano",
@@ -2087,7 +2093,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Potencia nominal no publicada",
       "37,5 kg para un urbano",
-      "Precio en España no publicado",
+      "Precio estimado desde la tarifa oficial de Canadá (2.299 $ CAD): no se vende oficialmente en España",
     ],
     veredicto:
       "El City Stellar lleva el doble motor al formato City 2026: 2700 W de pico y 60 km declarados. El urbano premium con nervio.",
@@ -2103,7 +2109,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2000,
     autonomiaKm: 69,
@@ -2151,7 +2157,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 6000,
     autonomiaKm: 100,
@@ -2200,7 +2206,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Explore (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1400,
     autonomiaKm: 55,

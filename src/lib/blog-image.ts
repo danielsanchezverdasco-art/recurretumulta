@@ -5,11 +5,14 @@
 export function postHeroImage(content: string): { src: string; alt: string } | null {
   const heroTag = content.match(/<img[^>]*>/i);
   if (!heroTag) return null;
-  const srcM = heroTag[0].match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
+  // Algunos contenidos guardan las comillas del alt escapadas (alt=\"...\"):
+  // se normalizan para que el alt no salga con \" literales (informe Niky 20/10/2026).
+  const tag = heroTag[0].replace(/\\"/g, '"');
+  const srcM = tag.match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
   if (!srcM) return null;
   const src = srcM[1].replace(/^["']|["']$/g, "");
   if (!src) return null;
-  const altM = heroTag[0].match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
+  const altM = tag.match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
   const alt = altM
     ? altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim()
     : "";

@@ -221,6 +221,42 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Walkaround del Nevo A07 en el canal JustCars:</p>
 <p><a href=https://www.youtube.com/watch?v=XQ6w7HzU7Ys>Ver el walkaround del Nevo A07 en YouTube (JustCars)</a></p>
 
+## Nevo (Qiyuan) y Changan: la marca detrás del A07
+
+Nevo es la marca de «nueva energía» de Changan, uno de los cuatro grandes fabricantes chinos, conocida en su mercado doméstico como Qiyuan. Su papel dentro del grupo es el de la etiqueta accesible y tecnológica: berlinas y SUV electrificados con precios de asalto, mientras la marca hermana Deepal apunta a un público más joven y Avatr cubre la zona premium junto a Huawei.
+
+El A07 fue su primer modelo y define la receta: coche grande —4,9 metros, tamaño de berlina ejecutiva europea—, equipamiento digital generoso y dos tecnologías de electrificación a elegir, eléctrico puro o extensor de autonomía.
+
+## EREV frente a eléctrico puro: cómo funciona el extensor
+
+| Concepto | A07 EREV | A07 eléctrico |
+|---|---|---|
+| Motor que mueve las ruedas | Eléctrico (218 CV) | Eléctrico (258 CV) |
+| Motor de gasolina | Generador de 70 kW | No tiene |
+| Autonomía eléctrica | 200 km CLTC | 515 km CLTC |
+| Autonomía total | 1.200 km | 515 km CLTC |
+| 0-100 km/h | 7,8 s | — |
+
+La clave del EREV es que el motor de gasolina nunca empuja las ruedas: funciona como un generador que recarga la batería cuando el nivel baja. El coche se conduce siempre como un eléctrico —suavidad, par inmediato, silencio—, pero conserva la libertad de repostar en cualquier gasolinera. El consumo declarado de 0,75 l/100 km es en ciclo WLTC chino y corresponde al modo de batería cargada; en uso real sin enchufar a menudo, la cifra será otra historia.
+
+## Uso real: para quién tiene sentido un EREV
+
+El perfil ideal es el de quien hace 100-150 km diarios —cubiertos de sobra por los 200 km CLTC eléctricos, que en uso real serán menos—, puede cargar en casa y viaja lejos algunos fines de semana sin querer planificar paradas de carga. Para ese uso, el extensor elimina la ansiedad sin renunciar a conducir en eléctrico a diario.
+
+Sus puntos débiles también son claros: sin red europea de la marca, con una autonomía eléctrica declarada en ciclo chino y con el mantenimiento de dos sistemas —el eléctrico y el generador térmico con sus revisiones— si llega el caso.
+
+## Veredicto: ¿merece la pena el Nevo A07?
+
+**Veredicto:** en China es una de las berlinas electrificadas con mejor relación tamaño-precio del mercado, y su fórmula EREV encaja con el uso de buena parte de los conductores europeos. En España ni se vende ni tiene fecha: lo más cercano de la familia Changan aquí es su gama a través de otras marcas del grupo, y en clave de berlina eléctrica disponible, el <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> es la referencia real. Queda como aviso de lo que viene; mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> sí está disponible.
+
+## Por dentro: pantalla 2.5K y silencio de marcha
+
+El habitáculo del A07 sigue el guion de las berlinas chinas modernas: fuera botones, dentro pantallas. La central, de 15,4 pulgadas con resolución 2.5K, concentra casi todas las funciones, apoyada por un equipo de sonido de 16 altavoces que busca ese ambiente de salón que los propietarios chinos tanto valoran. Las manillas enrasadas y la silueta limpia no son solo estética: reducen el ruido aerodinámico en autopista, el escenario donde un EREV bien aislado más se acerca a la experiencia de un eléctrico puro de gama alta.
+
+## Tracción trasera: el detalle que lo separa del montón
+
+Que una berlina familiar de este precio mueva las ruedas traseras dice mucho de su arquitectura eléctrica nativa: el motor va detrás, el maletero delantero y el trasero se reparten el espacio y el comportamiento gana el tacto de una berlina clásica de propulsión. En un segmento dominado por plataformas de tracción delantera heredadas de la gasolina, es un detalle de coche diseñado desde cero como electrificado.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo A07?
@@ -246,6 +282,7 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 - <a href=https://www.autohome.com.cn/che168/carmodel>Autohome: Nevo A07, especificaciones y precios</a>
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo A07</a>
 - <a href=https://www.autonocion.com>Autonocion: la gama Nevo de Changan</a>
+- <a href=https://www.globalchangan.com>Changan Automobile, web oficial global</a>
 
 <p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches/>compárala con las berlinas que se venden en España</a>. Y si tienes una multa pendiente, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA antes de recurrir</a>.</p>
 `,
@@ -298,6 +335,33 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 <p>Wheelsboy lo prueba a fondo en este vídeo:</p>
 <p><a href=https://www.youtube.com/watch?v=nOl_nRbRmXY>Ver la prueba del Nevo E07 en YouTube (Wheelsboy)</a></p>
 
+## Nevo es Qiyuan: la marca nueva de Changan
+
+Nevo es la enseña de energías nuevas de Changan, uno de los cuatro grandes fabricantes estatales chinos, y en su mercado doméstico esos mismos coches se conocen también bajo el nombre Qiyuan. El E07 deriva del prototipo CD701 y ocupa el papel de buque insignia tecnológico y de imagen: el modelo con el que la marca demuestra músculo ante sus rivales locales. Que su gran truco sea transformarse en pick-up no es casualidad: en China los SUV enormes venden estatus, y los pick-up tienen restricciones de circulación en muchas ciudades, de modo que un vehículo que es ambas cosas a la vez esquiva normas y luce músculo en un solo producto.
+
+## El mecanismo transformer, sin humo
+
+| Paso | Qué ocurre | Límite a tener en cuenta |
+|---|---|---|
+| Se pulsa el botón | El techo de cristal trasero se desliza eléctricamente | La maniobra exige el coche detenido |
+| El portón se pliega | La zaga se abre como una caja de carga | La capacidad declarada es de **300 kg** |
+| Queda un pick-up | Espacio abierto para objetos largos o sucios | Sin la protección de un habitáculo cerrado |
+| Se revierte el proceso | Vuelve a ser un SUV de techo cerrado | La estanqueidad manda sobre el espectáculo |
+
+La transformación es real y funciona, pero su utilidad cotidiana es más estrecha que la del vídeo promocional: 300 kg de carga dan para bicicletas, material de camping o una compra voluminosa, no para competir con un pick-up de trabajo. Donde el E07 no finge es en el habitáculo cerrado, con doble pantalla y suspensión neumática en las versiones altas, un nivel de salón rodante que pocos SUV europeos de su precio teórico igualan en China.
+
+## 800 voltios y 701 km CLTC: potencia de escaparate
+
+La versión eléctrica de batería grande combina 90 kWh con una arquitectura de 800 voltios capaz de recuperar 365 km en un cuarto de hora de carga, y la variante de tracción total con 598 CV firma un 0 a 100 km/h en 3,96 segundos que avergonzaría a muchos deportivos. Esas cifras conviven con la advertencia habitual sobre el ciclo CLTC chino, que embellece autonomías: los 701 km oficiales deben leerse como un máximo de laboratorio. También existe una variante de autonomía extendida para quien no quiere depender solo del enchufe, una solución muy popular en el mercado chino actual.
+
+## Un SUV de cinco metros en la práctica
+
+Con 5.045 mm de largo y casi dos metros de ancho, el E07 es un coche pensado para avenidas chinas y aparcamientos amplios, no para cascos históricos europeos ni garajes comunitarios justos. Su venta se limita a China y a mercados de exportación como el ruso, así que verlo en España exigiría una importación individual con su homologación correspondiente y sin red de marca detrás. Ese contexto convierte sus virtudes en un ejercicio teórico para el lector europeo: sirve para medir hasta dónde está llegando la industria china en imaginación de producto, más que para tachar una opción de compra real.
+
+## Rivales y veredicto: no tiene rival, y ese es el punto
+
+En el catálogo de la propia Changan, el <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> representa la cara sensata de la marca, y el resto de SUV transformables simplemente no existe en el mercado europeo con el que solemos comparar en el <a href=/comparador-coches/>comparador del sitio</a>. **Veredicto:** el E07 merece atención como fenómeno de ingeniería y de marketing, y su precio chino desde unos 26.000 € al cambio hace soñar; pero para un comprador español no es una alternativa adquirible, sino una ventana a lo que China ya vende en casa. Como ventana, pocas hay más espectaculares. Si te ha picado la curiosidad, en el <a href=/juego-monos/>juego caza-monos</a> hay otra caza abierta, la de los monos repartidos por la web.
+
 ## Preguntas frecuentes
 
 ### ¿Cómo se transforma el Nevo E07 en pick-up?
@@ -325,7 +389,8 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.borderlesscar.com>BorderlessCar: cobertura del Nevo E07</a>
 
 <p>El SUV-transformer existe y cuesta 30.000 € en China. <a href=/comparador-coches/>Compara el Nevo E07 con los SUV eléctricos de España</a> y <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>
-`,
+
+*Fuentes: web oficial de <a href=https://www.changan.com.cn>Changan</a> (casa matriz de Nevo) y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {
@@ -375,6 +440,35 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Autos de Primera lo muestra en español:</p>
 <p><a href=https://www.youtube.com/watch?v=gYXONlxir-Y>Ver el Nevo Q05 en español en YouTube (Autos de Primera)</a></p>
 
+## Nevo (Qiyuan): la marca de volumen eléctrico de Changan
+
+Nevo, conocida en China como Qiyuan, es la línea de energía nueva con la que Changan ataca el segmento de volumen, por debajo de Deepal y Avatr en posicionamiento. El Q05 es su SUV compacto eléctrico y uno de los superventas de la casa, con más de 100.000 unidades vendidas en China según los datos del modelo. Su lanzamiento oficial fuera de China, recogido por la <a href=https://www.globalchangan.com/newsroom/CHANGAN-THAILAND-Officially-Launches-NEVO-Q05.html>web global de Changan</a>, lo presenta como un SUV familiar que combina cabina digital, carga rápida y un paquete completo de asistentes. La fórmula es clara: tecnología visible (pantalla grande, asistentes avanzados) a precio de utilitario europeo.
+
+## Técnica a fondo: batería CATL 3C y maletero de segmento superior
+
+| Concepto | Dato del Q05 405 Air |
+|---|---|
+| Motor | 120 kW (163 CV) / 190 Nm |
+| Batería | 40,29 kWh CATL (51,91 kWh en la versión larga) |
+| Autonomía CLTC | 405 km (506 km con 51,91 kWh) |
+| Carga rápida 3C | Del 30 al 80 % en 15 minutos |
+| Maletero | 540 litros (1.380 abatido) |
+| Medidas | 4.435 x 1.855 x 1.600 mm |
+
+El dato que manda es la carga 3C: en un coche de este precio, recuperar del 30 al 80 % en 15 minutos cambia el uso en viaje. La batería LFP de CATL admite además cargas habituales al 100 % sin la degradación acelerada de otras químicas. Los 405 km son ciclo CLTC chino, optimista frente al WLTP europeo: la autonomía real quedará por debajo, y la versión de 51,91 kWh y 506 km CLTC será la sensata para quien haga autovía. El maletero de 540 litros, en cambio, no necesita conversión: es enorme para un SUV de 4,44 metros.
+
+## Uso real: familia, ciudad y viajes con carga planificada
+
+El Q05 está pensado como coche familiar único en su mercado: batalla de 2.735 mm, suelo plano eléctrico y un maletero que traga cochecito y equipaje. En ciudad, su tamaño es el justo para aparcar sin sufrir; en viaje, la carga rápida compensa una batería contenida si la red de cargadores acompaña. Las limitaciones honestas son las de siempre en estos modelos: no se vende en España, no hay precios ni red europea, y las cifras CLTC y los precios al cambio (desde unos 10.400 €) no son trasladables a una hipotética versión europea con impuestos, homologación y equipamiento de seguridad adaptado.
+
+## Mantenimiento, costes y normativa si llegara a Europa
+
+Como eléctrico puro, el mantenimiento se reduce a frenos, neumáticos, líquidos y actualizaciones, con la batería LFP como componente longevo. Sin venta oficial en España no hay plan de mantenimiento ni garantía europea que citar: cualquier cifra sería inventada. Si se comercializara aquí, le correspondería la etiqueta Cero de la <a href=https://www.dgt.es>DGT</a>, ITV con la periodicidad de un turismo (primera a los cuatro años) y homologación europea previa, incluido el paquete de seguridad activa que exige el reglamento de la UE. En seguridad pasiva, el modelo no ha sido evaluado por Euro NCAP: sin datos, y no cabe heredar notas de otros Changan o Nevo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En la propia casa, el <a href=/coches/nevo-q07-2025-precio-ficha-tecnica/>Nevo Q07</a> juega en un tamaño superior y el <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Changan Deepal S07</a> representa el escalón más aspiracional del grupo. Frente a los SUV eléctricos compactos que sí se venden en España, el Q05 gana en precio teórico y carga rápida, y pierde en todo lo demás: disponibilidad, red y garantía. **Veredicto:** merece la pena seguirlo de cerca como termómetro de hasta dónde puede bajar el precio de un SUV eléctrico bien equipado; como compra desde España hoy, no es una opción real. Para quien necesite coche ya, toca mirar el mercado europeo. Y mientras tanto, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q05?
@@ -402,7 +496,9 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.testcoches.es>Testcoches: los SUV eléctricos chinos más baratos</a>
 
 <p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos de España</a>. Y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrir</a>.</p>
-`,
+
+
+*Fuentes: <a href=https://www.globalchangan.com/newsroom/CHANGAN-THAILAND-Officially-Launches-NEVO-Q05.html>Changan (web oficial global, lanzamiento del NEVO Q05)</a> y <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {
@@ -452,6 +548,36 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Solkuno explica su sistema de conducción SDA Pilot:</p>
 <p><a href=https://www.youtube.com/watch?v=6bZpSholEgQ>Ver el sistema SDA Pilot del Nevo Q06 en YouTube (Solkuno)</a></p>
 
+## Nevo: la ofensiva eléctrica de Changan contra el Model Y
+
+Nevo es la enseña de vehículos de nueva energía de **Changan**, uno de los grandes grupos automovilísticos chinos; en su mercado doméstico, estos mismos coches se conocen como Qiyuan. El Q06, lanzado en **septiembre de 2026**, es su apuesta para el segmento más disputado del planeta: el SUV eléctrico familiar que domina el Tesla Model Y. Su estrategia no es el precio de derribo, sino el derroche tecnológico: Changan lo presenta con elementos que en Europa son exclusivos de coches que cuestan el triple.
+
+## 800 voltios y carga 6C: traducimos la jerga
+
+| Versión | Potencia | Batería |
+|---|---|---|
+| Tracción trasera | 225 kW (**306 CV**) | 63,18 kWh |
+| Tracción trasera | 245 kW | Hasta **80,02 kWh** |
+| 4WD | 330 kW (**449 CV**) | 0-100 en 4,8 s |
+
+La **carga 6C** significa que la batería admite una potencia de carga equivalente a seis veces su capacidad por hora: en la práctica, pasar del **30 al 80 % en 9 minutos** sobre la plataforma de **800 V**. Y ojo con la autonomía: los **700 km** declarados son en ciclo **CLTC**, la homologación china, sistemáticamente más optimista que la WLTP europea; en cifras europeas serían sensiblemente menos. Existe además una variante de autonomía extendida con **1.600 km totales** y 200 km eléctricos, pensada para quien no quiere depender de cargadores.
+
+## Espacio de familiar y trucos de picnic
+
+Con **4.837 mm** y una batalla de **2.940 mm**, el Q06 ofrece un maletero de **782 litros** y un frunk delantero de **196 litros** con desagüe, utilizable como nevera en escapadas. El **lidar de 256 líneas de serie** en toda la gama —algo que ni Tesla monta— alimenta su sistema de conducción asistida SDA Pilot y es, sobre el papel, su argumento más serio frente al Model Y.
+
+## ¿Llegará a Europa? Homologación, aranceles y red
+
+De momento, no: se vende solo en China y Changan estudia exportarlo. Si llega, su precio chino —desde **13,99万 yuanes, unos 18.200 €**— no será el europeo: la Unión Europea aplica derechos adicionales a los eléctricos fabricados en China, y a eso se sumarían homologación, transporte y la construcción de una red comercial y de posventa que hoy el grupo está empezando a desplegar en el continente. La historia reciente del sector enseña que el salto de precio entre China y Europa es la norma, no la excepción.
+
+## Mantenimiento de un eléctrico de 800 V: lo que se sabe
+
+Como todo eléctrico, elimina aceite, bujías y escapes, y la frenada regenerativa alarga la vida de las pastillas. La incógnita de un modelo así no es mecánica, es electrónica: lidar, pantallas y sistemas de asistencia exigen diagnóstico y calibración por la marca, algo imposible de garantizar sin red oficial en el país. Es el recordatorio habitual con los lanzamientos chinos: el coche puede ser excelente y, aun así, la compra espera a que exista quien lo mantenga.
+
+## Rivales y veredicto: ¿merece la pena el Nevo Q06?
+
+**Veredicto:** en China, el Q06 merece la pena como golpe sobre la mesa: 800 V, lidar de serie y hasta 449 CV por precios que en Europa serían de segmento inferior. Desde España, su papel hoy es el de escaparate: marca el listón que tendrán que saltar los SUV eléctricos que sí se venden aquí, empezando por el <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a>. Si te van los eléctricos chinos de altos vuelos, el <a href=/blog/nio-ec6-2026-precio-ficha-tecnica/>análisis del NIO EC6</a> es tu siguiente lectura. Todos los datos del Q06, en su <a href=/coches/nevo-q06-2026-precio-ficha-tecnica/>ficha técnica</a>. Y entre carga y carga, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q06?
@@ -479,7 +605,8 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://www.autonocion.com>Autonocion: el nuevo SUV eléctrico de Changan</a>
 
 <p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos que se venden en España</a>. Y si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
-`,
+
+*Fuentes: web oficial de <a href=https://www.changan.com.cn>Changan</a> (casa matriz de Nevo) y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
   },
   {
@@ -531,6 +658,39 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 <p>Max AutoDvizh lo prueba en este vídeo:</p>
 <p><a href=https://www.youtube.com/watch?v=YO2ckd6gg-s>Ver la prueba del Nevo Q07 en YouTube (Max AutoDvizh)</a></p>
 
+## Nevo: la marca eléctrica e híbrida de Changan
+
+Nevo —Qiyuan en China— es la enseña que Changan creó para sus coches electrificados de nueva generación, y el Q07 es su SUV familiar de referencia: **4.837 mm** de largo, batalla de **2.905 mm** y un planteamiento híbrido enchufable pensado para hacer en eléctrico la semana y en gasolina los viajes. La <a href=https://changan.az/en/model/nevo-q07/>página oficial de Changan para el Q07</a> muestra el enfoque: pantalla central de **15,4 pulgadas**, carga rápida capaz de pasar del 30 al 80 % en unos 15 minutos en las versiones con batería de carga 3C, techo panorámico y un interior de corte tecnológico que en China compite por equipamiento, no por emblema.
+
+## El sistema BlueCore, con los datos del propio análisis
+
+El esquema que recoge la ficha combina un **1.5 de gasolina de 72 kW** con un **motor eléctrico de 165 kW (224 CV) y 330 Nm** en el eje delantero, con un consumo en modo híbrido de **3,9 l/100 km** y una autonomía total declarada de **más de 1.400 km** sumando batería y depósito. Son cifras de homologación china CLTC, sistemáticamente más optimistas que las WLTP europeas: los 145 km eléctricos CLTC de la versión de acceso equivaldrían a una cifra WLTP claramente inferior. El maletero de doble piso de **763 litros** es, eso sí, un dato de espacio difícil de encontrar en un SUV europeo de este precio en origen.
+
+| Dato clave del Q07 | Valor (ficha) |
+|---|---|
+| Longitud / batalla | 4.837 / 2.905 mm |
+| Motor eléctrico | 165 kW (224 CV) / 330 Nm |
+| Motor gasolina | 1.5 de 72 kW |
+| Autonomía eléctrica | 145 km CLTC (versión de acceso) |
+| Autonomía total | Más de 1.400 km declarados |
+| Maletero | 763 l |
+
+## Uso real: un familiar pensado para cargar a diario
+
+Como todo PHEV, el Q07 solo tiene sentido cargándolo: con enchufe en casa, la rutina semanal puede ser casi eléctrica y el 1.5 queda para los viajes; sin cargar, arrastras el peso del sistema y el consumo real sube. Su tamaño lo sitúa un escalón por encima de los SUV medios europeos, con plazas traseras amplias y un maletero pensado para familias que viajan cargadas. Las versiones con lidar y conducción avanzada que cita la ficha existen en el catálogo chino, pero su funcionamiento y legalidad en Europa serían otra historia: aquí no se vende y no hay homologación europea.
+
+## Mantenimiento y costes: la asignatura pendiente fuera de China
+
+Un PHEV exige mantener dos coches en uno: el motor de gasolina conserva sus cambios de aceite, filtros y bujías, y el sistema eléctrico añade batería, inversor y cargador. En China, Changan sostiene la gama con su red oficial; fuera, sin importador europeo de Nevo, el mantenimiento y los recambios de un Q07 importado por libre serían un problema real, no una anécdota. Es el mismo peaje de todos los modelos de este análisis que no se venden en Europa: el precio en origen es espectacular, pero el coste total incluye la ausencia de red.
+
+## Normativa y seguridad: sin Euro NCAP y con etiqueta solo teórica
+
+El Q07 **no ha sido evaluado por Euro NCAP**: su seguridad en Europa es, por ahora, «sin datos». Tampoco tiene homologación europea, así que la **etiqueta Cero** que le correspondería como enchufable de más de 40 km eléctricos es una equivalencia teórica que recoge su ficha, no un distintivo que hoy pueda lucir en España. Quien lo importe por su cuenta debería asumir además los trámites de homologación individual y la ITV correspondiente.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su propia casa, la berlina <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> (218 CV y desde 14.400 € en nuestra ficha) comparte filosofía electrificada en formato sedán, y el <a href=/coches/changan-cs75-plus-2025-precio-ficha-tecnica/>Changan CS75 Plus</a> (185 CV y 14.800 €) es la alternativa de gasolina convencional del grupo. **Veredicto:** en China, el Q07 es una propuesta familiar difícil de igualar por precio, espacio y autonomía total declarada. En España merece la pena como termómetro de hacia dónde va el PHEV chino, no como compra: sin homologación, sin red y sin nota de seguridad europea, importarlo es un proyecto, no una adquisición racional. De momento, lo que sí puedes cazar aquí es el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nevo Q07?
@@ -558,7 +718,9 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 - <a href=https://www.autonocion.com>Autonocion: la gama SUV de Nevo</a>
 
 <p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches/>compáralo con los SUV híbridos de España</a>. Y antes de recurrir una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
-`,
+
+
+*Fuentes: <a href=https://www.changan.com.cn>Changan — web oficial de la marca</a> y <a href=https://changan.az/en/model/nevo-q07/>Changan — página oficial del Nevo Q07</a>.*`,
     locale: "all",
   },
 ];

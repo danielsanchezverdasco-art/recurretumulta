@@ -24,9 +24,11 @@ export const CAMPERS_RAPIDO: CocheComparador[] = [
     videoId: null, videoCanal: null,
     largoMm: 5990, anchoMm: 2050, altoMm: 2590,
     pesoKg: null,
+    mmaKg: 3500,
+    carnetNecesario: "B",
     consumo: null, consumoUnidad: null,
     plazas: 4, parNm: null, traccion: "Delantera", emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: ["precioDesde", "mmaKg"],
     pros: [
       "Cama transversal trasera de 195 × 132 cm sobre un maletero que admite dos bicicletas",
       "Ducha y WC separados gracias al armario pivotante patentado MODUL'SPACE",

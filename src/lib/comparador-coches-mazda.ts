@@ -19,7 +19,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-2-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-2-hybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -87,7 +87,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-2-hybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda2 Hybrid 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -100,7 +100,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-3-25-e-skyactiv-g-5p-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-3-25-e-skyactiv-g-5p-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -168,7 +168,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-3-25-e-skyactiv-g-5p-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda3 5 puertas 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -181,7 +181,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -249,7 +249,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda3 5 puertas e-SKYACTIV X 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -262,7 +262,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -330,7 +330,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda3 Sedán e-SKYACTIV X 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -343,7 +343,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -411,7 +411,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda CX-30 e-SKYACTIV X 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -505,7 +505,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mazda-mx-5-rf-20-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-mx-5-rf-20-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -573,7 +573,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-mx-5-rf-20-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda MX-5 RF 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -667,7 +667,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-cx-60-e-skyactiv-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-60-e-skyactiv-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "ZklnkBQDdy4",
     videoCanal: "Auto Sensación",
     marca: "Mazda",
@@ -735,7 +735,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-cx-60-e-skyactiv-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda CX-60 PHEV 2026, interior premium",
         "ancho": 1920,
         "alto": 1280
@@ -748,7 +748,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-cx-60-33-e-skyactiv-d-200-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-60-33-e-skyactiv-d-200-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -816,7 +816,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-cx-60-33-e-skyactiv-d-200-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda CX-60 diésel 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -829,7 +829,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-cx-60-33-e-skyactiv-d-254-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-60-33-e-skyactiv-d-254-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -897,7 +897,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-cx-60-33-e-skyactiv-d-254-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda CX-60 diésel 254 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -991,7 +991,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-6e-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-6e-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -1059,7 +1059,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-6e-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda6e 2025, interior con pantalla de 14,6 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -1072,7 +1072,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-6e-long-range-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-6e-long-range-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -1140,7 +1140,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-6e-long-range-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda6e Long Range 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1153,7 +1153,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mazda-cx-6e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-6e-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "28iSWdTrEE4",
     videoCanal: "Actualidad Motor",
     marca: "Mazda",
@@ -1221,7 +1221,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/mazda-cx-6e-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Mazda CX-6e 2026, interior con pantalla de 26 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -1234,7 +1234,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mazda-2-15-e-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-2-15-e-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -1302,7 +1302,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mazda-2-15-e-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mazda2 con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -1315,7 +1315,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mazda-cx-5-25-e-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-cx-5-25-e-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -1383,7 +1383,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mazda-cx-5-25-e-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mazda CX-5 con acabados premium",
         "ancho": 1200,
         "alto": 800
@@ -1477,7 +1477,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mazda-mx-5-15-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mazda-mx-5-15-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "GqXrhFvbsi4",
     videoCanal: "coches.net",
     marca: "Mazda",
@@ -1545,7 +1545,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mazda-mx-5-15-skyactiv-g-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mazda MX-5 con dos asientos deportivos",
         "ancho": 1200,
         "alto": 800

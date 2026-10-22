@@ -97,14 +97,14 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-seal-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
     modelo: "Seal Design",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 49490,
+    precioDesde: 36450,
     potenciaCv: 313,
     autonomiaKm: 570,
     maleteroL: 485,
@@ -114,6 +114,7 @@ export const COCHES_BYD: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
+      "36.450 € financiando con la campaña oficial hasta el 31/10/2026 (40.775 € al contado; PVP 41.990 €)",
       "Autonomía de 570 km, una de las mejores de su segmento",
       "313 CV con tracción trasera: 0-100 en 5,9 s",
       "Carga rápida de 150 kW",
@@ -165,12 +166,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 2736,
         alto: 912,
       },
-      {
-        src: "/media/byd-seal-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Seal Design, cockpit con pantalla giratoria",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -179,7 +175,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-seal-excellence-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-excellence-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "VsOaUqSmLYM",
     videoCanal: "Periodismo del Motor",
     marca: "BYD",
@@ -247,12 +243,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/byd-seal-excellence-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Seal Excellence, cockpit deportivo",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -261,7 +252,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-seal-u-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-u-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "GcRovcWD-9o",
     videoCanal: "Periodismo del Motor",
     marca: "BYD",
@@ -329,12 +320,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 2736,
         alto: 912,
       },
-      {
-        src: "/media/byd-seal-u-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Seal U EV, salpicadero con gran pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -425,7 +411,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "iYzo7hOK_hM",
     videoCanal: "pruebatucoche.es",
     marca: "BYD",
@@ -493,12 +479,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 2240,
         alto: 1120,
       },
-      {
-        src: "/media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Seal 6 DM-i Touring",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -507,14 +488,14 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-sealion-7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-sealion-7-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "rQFHzJhPVGo",
     videoCanal: "pruebatucoche.es",
     marca: "BYD",
     modelo: "Sealion 7",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 47990,
+    precioDesde: 38475,
     potenciaCv: 313,
     autonomiaKm: 482,
     maleteroL: 520,
@@ -524,6 +505,7 @@ export const COCHES_BYD: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
+      "38.475 € financiando con la campaña oficial hasta el 31/10/2026 (45.150 € al contado)",
       "482 km de autonomía con 82,5 kWh",
       "313 CV con tracción trasera: 0-100 en 6,7 s",
       "Maletero de 520 litros más 58 de frunk",
@@ -575,12 +557,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 2240,
         alto: 1120,
       },
-      {
-        src: "/media/byd-sealion-7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Sealion 7, salpicadero con pantalla giratoria",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -671,7 +648,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-han-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-han-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -739,12 +716,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/byd-han-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Han, salpicadero premium",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -753,7 +725,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-tang-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-tang-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -821,12 +793,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 2736,
         alto: 912,
       },
-      {
-        src: "/media/byd-tang-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Tang, 7 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -835,14 +802,14 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 250000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-atto-3-evo-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-atto-3-evo-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "DZnSK8Okrbc",
     videoCanal: "SoyMotor",
     marca: "BYD",
     modelo: "Atto 3 EVO",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 42990,
+    precioDesde: 28888,
     potenciaCv: 313,
     autonomiaKm: 510,
     maleteroL: 490,
@@ -859,7 +826,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "Capacidad de remolque de 1.500 kg y V2L",
     ],
     contras: [
-      "Precio desde 42.990 €, salto notable frente al Atto 3 original",
+      "Precio desde 28.888 € solo financiando con la campaña oficial hasta el 31/10/2026 (36.313 € al contado): salto notable frente al Atto 3 original",
       "Diseño exterior continuista: cuesta distinguirlo del anterior",
       "Dirección con tacto mejorable según las primeras pruebas",
       "Pantalla de 15,6 pulgadas que distrae al conducir",
@@ -903,12 +870,7 @@ export const COCHES_BYD: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/byd-atto-3-evo-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BYD Atto 3 EVO, pantalla de 15,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -917,7 +879,7 @@ export const COCHES_BYD: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "GcRovcWD-9o",
     videoCanal: "Periodismo del Motor",
     marca: "BYD",
@@ -979,7 +941,7 @@ export const COCHES_BYD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del BYD Seal U EV Design con pantalla giratoria",
         "ancho": 1920,
         "alto": 1280

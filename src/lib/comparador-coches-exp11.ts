@@ -160,7 +160,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "S800 PHEV 2025",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 40389,
+    precioDesde: 39700, // Oferta Grupo Julián Automotive 21/10/2026 (Premium 2026 279 CV); financiado 37.200 €, desde 331 €/mes,
     potenciaCv: 279,
     autonomiaKm: 90,
     maleteroL: null,
@@ -886,7 +886,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "L60 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: precio oficial NIO/Onvo solo en China (206.900 CNY en lanzamiento 2024; 192.800 CNY en la actualización); sin venta oficial en Eu.
     potenciaCv: 326,
     autonomiaKm: 555,
     maleteroL: 763,
@@ -952,7 +952,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "L90 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el Onvo L90 se lanzó en China el 31 de julio de 2025 desde ¥265.800 con batería incluida (¥179.800 con alquiler BaaS).
     potenciaCv: 590,
     autonomiaKm: 570,
     maleteroL: null,
@@ -1018,7 +1018,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "S7 2025",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el Luxeed S7 2025 (HIMA/Huawei) se vende solo en China desde ¥229.800 (versión Pro, precio guía oficial).
     potenciaCv: 292,
     autonomiaKm: 705,
     maleteroL: 420,
@@ -1084,7 +1084,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "R7 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: tarifa oficial solo en China desde 239.800 CNY (lanzamiento HIMA/Chery-Huawei); sin venta ni PVP oficial en EUR.
     potenciaCv: 309,
     autonomiaKm: 802,
     maleteroL: 852,
@@ -1150,7 +1150,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "L4 EV 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: la ficha es el L4 EV para Europa y Lepas aún no ha publicado precios oficiales españoles/europeos.
     potenciaCv: 218,
     autonomiaKm: 450,
     maleteroL: null,
@@ -1216,7 +1216,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "L6 EV 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial Australia: 47.990 AUD MSRP (antes de gastos de matriculación), anunciado por Lepas Australia el 15-10-2026 para el L6 BEV Signature .
     potenciaCv: 217,
     autonomiaKm: 450,
     maleteroL: 410,
@@ -1480,7 +1480,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     modelo: "M7 2025",
     tipo: "Híbrido de autonomía extendida",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 279.800 CNY, precio guía del nuevo Aito M7 (Seres/HIMA, 2ª generación) lanzado el 23-09-2025 (gama hasta 379.800 CNY); web of.
     potenciaCv: 272,
     autonomiaKm: 230,
     maleteroL: null,

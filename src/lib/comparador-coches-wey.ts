@@ -63,7 +63,7 @@ export const COCHES_WEY: CocheComparador[] = [
     ],
     imagen: "/media/wey-03-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-03-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-03-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-03-2024-precio-ficha-tecnica",
     videoId: "T2t9I6ah-n4",
     videoCanal: "AUTONOTIZEN",
@@ -93,12 +93,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-03-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey 03 2024, salpicadero con pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -146,7 +141,7 @@ export const COCHES_WEY: CocheComparador[] = [
     ],
     imagen: "/media/wey-05-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-05-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-05-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-05-2024-precio-ficha-tecnica",
     videoId: "_w8p_CfMAmc",
     videoCanal: "Autoflotte",
@@ -176,12 +171,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-05-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey 05 2024, salpicadero con tres pantallas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -190,7 +180,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "07 2024",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 38970,
+    precioDesde: 40000, // 299.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 517,
     autonomiaKm: 185,
     maleteroL: 239,
@@ -225,11 +215,11 @@ export const COCHES_WEY: CocheComparador[] = [
       "Maletero de 239 L con las 6 plazas en uso",
       "Marca premium china sin historial de depreciación",
       "Sin datos de carga rápida DC publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Precio convertido desde la tarifa oficial china (299.800 CNY): orientativo en euros",
     ],
     imagen: "/media/wey-07-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-07-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-07-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-07-2024-precio-ficha-tecnica",
     videoId: "j8MuVCEATo0",
     videoCanal: "Garagem do Teteco GDT",
@@ -259,12 +249,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-07-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey 07 2024, salpicadero digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -273,7 +258,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "Gaoshan 7 2025",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: 37150,
+    precioDesde: 38100, // 285.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 452,
     autonomiaKm: 172,
     maleteroL: null,
@@ -307,12 +292,12 @@ export const COCHES_WEY: CocheComparador[] = [
       "No se vende oficialmente en Europa: solo China",
       "Monovolumen de 5,05 m: difícil de aparcar y maniobrar",
       "Sin datos de carga rápida DC publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Precio convertido desde la tarifa oficial china (285.800 CNY): orientativo en euros",
       "Segmento casi inexistente en España: reventa imprevisible",
     ],
     imagen: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-gaoshan-7-2025-precio-ficha-tecnica",
     videoId: "1EAFiqNtdVM",
     videoCanal: "Wheelsboy",
@@ -342,12 +327,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey Gaoshan 7 2025, asientos capitán",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -356,7 +336,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "Gaoshan 8 2025",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: 40270,
+    precioDesde: 41300, // 309.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 452,
     autonomiaKm: 175,
     maleteroL: null,
@@ -390,12 +370,12 @@ export const COCHES_WEY: CocheComparador[] = [
       "No se vende oficialmente en Europa: solo China",
       "Monovolumen enorme: solo para quien necesite 7 plazas reales",
       "Sin datos de carga rápida DC publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Precio convertido desde la tarifa oficial china (309.800 CNY): orientativo en euros",
       "Sin videoprueba específica encontrada",
     ],
     imagen: "/media/wey-gaoshan-8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-gaoshan-8-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-gaoshan-8-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-gaoshan-8-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -425,12 +405,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-gaoshan-8-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey Gaoshan 8 2025, asientos capitán",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -439,7 +414,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "Gaoshan 9 2025",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: 46000,
+    precioDesde: 47200, // 353.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 487,
     autonomiaKm: null,
     maleteroL: null,
@@ -472,13 +447,13 @@ export const COCHES_WEY: CocheComparador[] = [
     contras: [
       "No se vende oficialmente en Europa: solo China",
       "Sin datos de autonomía eléctrica publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Precio convertido desde la tarifa oficial china (353.800 CNY): orientativo en euros",
       "5,41 m: imposible de aparcar en muchas plazas españolas",
       "Sin videoprueba específica encontrada",
     ],
     imagen: "/media/wey-gaoshan-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-gaoshan-9-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-gaoshan-9-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-gaoshan-9-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -508,12 +483,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-gaoshan-9-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey Gaoshan 9 2025, asientos de gravedad cero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -522,7 +492,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "V8X 2026",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 31170,
+    precioDesde: null, // sin tarifa oficial publicada: preventa en China sin precio anunciado (verificado 20/10/2026)
     potenciaCv: 670,
     autonomiaKm: 312,
     maleteroL: null,
@@ -544,7 +514,7 @@ export const COCHES_WEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "670 CV y 930 Nm: 0-100 en 4,5 s en un SUV familiar",
       "Carga 6C a 800 V: del 30 al 80 % en 9 minutos",
@@ -555,13 +525,13 @@ export const COCHES_WEY: CocheComparador[] = [
     contras: [
       "Lanzado en agosto de 2026: sin pruebas europeas ni historial",
       "No se vende oficialmente en Europa: solo China",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Sin tarifa oficial publicada: la preventa en China se abrió sin anunciar precio",
       "Versiones Sport y Family con medidas distintas: confuso al elegir",
       "Autonomía eléctrica WLTC: cifra orientativa, no WLTP",
     ],
     imagen: "/media/wey-v8x-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-v8x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/wey-v8x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "wey-v8x-2026-precio-ficha-tecnica",
     videoId: "FIoFr4NJb1w",
     videoCanal: "踢车帮 (Tichebang)",
@@ -591,12 +561,7 @@ export const COCHES_WEY: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/wey-v8x-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Wey V8X 2026, salpicadero digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -605,7 +570,7 @@ export const COCHES_WEY: CocheComparador[] = [
     modelo: "V9X 2026",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 45470,
+    precioDesde: 46600, // 349.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 737,
     autonomiaKm: 400,
     maleteroL: null,
@@ -638,7 +603,7 @@ export const COCHES_WEY: CocheComparador[] = [
     contras: [
       "Lanzado en mayo de 2026: sin pruebas europeas ni historial",
       "No se vende oficialmente en Europa: solo China",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "Precio convertido desde la tarifa oficial china (349.800 CNY): orientativo en euros",
       "5,2-5,3 m de largo: enorme para ciudad",
       "Autonomía eléctrica CLTC: cifra orientativa, no WLTP",
     ],

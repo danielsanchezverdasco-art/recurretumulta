@@ -7,7 +7,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 export const MOTOS_NUEVOS_M1: MotoComparador[] = [
   {
     id: "seat-mo-50-2025-ficha-tecnica-precio",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "MÓ 50",
     version: "MÓ 50 2025",
     categoria: "Scooter",
@@ -396,7 +396,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "Tramontana S",
     version: "Tramontana S 2025",
     categoria: "Scooter",
-    precioDesde: 3790,
+    precioDesde: 3790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: 90,
@@ -418,7 +418,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
       "Marca española con red de postventa en crecimiento"
     ],
     contras: [
-      "Precio no publicado: difícil compararla sin tarifa oficial", 
+      "Precio de 3.790 €: entre los scooters eléctricos 125 más caros", 
       "90 km de autonomía declarada: justa si haces mucha ronda diaria", 
       "Ficha técnica poco detallada en la web de la marca", 
       "Sin ABS confirmado: frenada convencional", 
@@ -935,7 +935,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "E8S Pro",
     version: "E8S Pro 2025",
     categoria: "Scooter",
-    precioDesde: 3590,
+    precioDesde: 3590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2.0,
     potenciaCv: 2.7,
     autonomiaKm: null,
@@ -948,7 +948,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "140 Nm de par: empuje contundente para un scooter urbano", 
       "60 km/h de velocidad máxima: más que un ciclomotor", 
@@ -1243,7 +1243,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "Elettrica 70",
     version: "Elettrica 70 km/h 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 6790.0,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: 100,

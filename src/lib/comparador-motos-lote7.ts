@@ -471,7 +471,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 663,
     categoria: "Deportiva",
-    precioDesde: 9000,
+    precioDesde: null, // Voge aún no ha publicado precio oficial para España (verificado 20/10/2026)
     potenciaKw: 72.8,
     potenciaCv: 99,
     autonomiaKm: null,
@@ -484,7 +484,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Primer tetracilíndrico de Voge: 99 CV a 11.500 rpm",
       "Brembo, ABS en curva e IMU por unos 9.000 €",
@@ -494,7 +494,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     ],
     contras: [
       "215 kg: pesada para una deportiva media",
-      "Precio aún sin confirmar oficialmente en España",
+      "Sin precio oficial publicado en España",
       "Disponibilidad prevista para septiembre de 2026",
     ],
     curiosidades: [
@@ -699,7 +699,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8299,
+    precioDesde: 8699,
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -851,7 +851,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 904,
     categoria: "Naked",
-    precioDesde: 8999,
+    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -864,7 +864,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La naked insignia de QJMotor: 95 CV y 90 Nm",
       "Marzocchi, Brembo y electrónica Bosch",
@@ -873,7 +873,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Precio estimado entre 7.700 y 8.200 €",
     ],
     contras: [
-      "Precio oficial aún sin confirmar en España",
+      "Sin precio oficial publicado en España",
       "220 kg en orden de marcha",
       "Lanzamiento europeo todavía sin fecha cerrada",
     ],
@@ -927,7 +927,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 175,
     categoria: "Scooter",
-    precioDesde: 2990,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -940,7 +940,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "B",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Scooter de rueda alta con motor de 175 cc",
       "Equipamiento completo por unos 2.990 €",
@@ -949,7 +949,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "6 años de garantía QJMotor",
     ],
     contras: [
-      "Precio en España aún sin confirmar (2.990 € en Italia)",
+      "Sin precio oficial en España: no se comercializa aquí",
       "Potencia sin confirmar oficialmente",
       "Llegada a España pendiente de calendario",
     ],
@@ -1231,7 +1231,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 550,
     categoria: "Deportiva",
-    precioDesde: 6999,
+    precioDesde: null, // solo se vende en China; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 43.5,
     potenciaCv: 59,
     autonomiaKm: null,
@@ -1244,7 +1244,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La deportiva más atrevida de Cyclone: alerones estilo MotoGP",
       "Edición Centennial Legend limitada a 100 unidades",
@@ -1253,7 +1253,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "186 kg en seco: ligera para su categoría",
     ],
     contras: [
-      "Aún no se comercializa en España (solo China, ~3.700 €)",
+      "Sin precio oficial en España: solo se vende en China",
       "59 CV saben a poco con tanta parafernalia aerodinámica",
       "Ayudas electrónicas limitadas al ABS",
     ],
@@ -1535,7 +1535,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 550,
     categoria: "Naked",
-    precioDesde: 4700,
+    precioDesde: null, // solo se vende en China; sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 43.5,
     potenciaCv: 59,
     autonomiaKm: null,
@@ -1548,7 +1548,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Neo-retro de 59 CV con componentes premium por ~4.700 €",
       "Frenos J.Juan y ABS Bosch 9.1",
@@ -1558,7 +1558,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     ],
     contras: [
       "204 kg: pesada para una neo-retro media",
-      "Precio en España aún sin confirmar",
+      "Sin precio oficial en España: no se comercializa aquí",
       "Llegada a Europa pendiente de calendario",
     ],
     curiosidades: [

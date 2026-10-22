@@ -318,7 +318,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "02",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 35495,
+    precioDesde: 24795, // Financiado con Cetelem hasta 31/12/2026 (21/10/2026); PVP oficial 35.495 €,
     potenciaCv: 272,
     autonomiaKm: 435,
     maleteroL: 410,
@@ -2323,7 +2323,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Roadster",
     tipo: "Eléctrico",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la página oficial de Tesla del Roadster (nuevo) no muestra precio de venta, solo reserva; modelo retrasado y aún no a la venta, sin PVP .
     potenciaCv: null,
     autonomiaKm: 480,
     maleteroL: null,
@@ -2602,8 +2602,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/yangwang-u8-agua-cuerpo.webp",
+    imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/yangwang-desconocidos-hero.webp", alt: "Foto del Yangwang U8", ancho: 1200, alto: 675 }
+    ],
     videoId: "XFdE6NMgpuc",
     videoCanal: "CAR REVIEW",
     marca: "Yangwang",
@@ -2649,8 +2652,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/im-motors-ls6-suv-cuerpo.webp",
+    imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/im-motors-desconocidos-hero.webp", alt: "Foto del IM Motors LS6", ancho: 1200, alto: 675 }
+    ],
     videoId: "dfjPACjgnXE",
     videoCanal: "MAD EV",
     marca: "IM Motors",
@@ -2738,7 +2744,6 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/li-auto-i8-hero.webp",
     galeria: [
       { src: "/media/li-auto-i8-hero.webp", alt: "Li Auto i8, SUV eléctrico de 6 plazas, vista exterior", ancho: 1200, alto: 675 },
-      { src: "/media/li-auto-i8-carga.webp", alt: "Li Auto i8 cargando en un supercargador 5C de Li Auto", ancho: 1200, alto: 675 },
     ],
     opiniones: [],
   },
@@ -2749,6 +2754,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/geely-e2-electrico-barato-precio-espana-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/geely-e2-electrico-barato-precio-espana-hero.webp", alt: "Foto oficial del Geely E2", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "geely-e2-electrico-barato-precio-espana",
     videoId: "fRPebu_L1SE",
     videoCanal: "carwow.es",
@@ -2799,6 +2807,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/dacia-tribrid-150-4x4-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/dacia-tribrid-150-4x4-hero.webp", alt: "Foto oficial del Dacia Tribrid 150 4x4", ancho: 1400, alto: 933 }
+    ],
     videoId: "QkvLWC6RXEU",
     videoCanal: "Motor1 España",
     marca: "Dacia",
@@ -2845,6 +2856,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp", alt: "Foto oficial del Changan Nevo Q06", ancho: 1920, alto: 1280 }
+    ],
     videoId: "oAIYK4kcqoQ",
     videoCanal: "Car For Life Russia",
     marca: "Changan",
@@ -2893,6 +2907,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-id-aura-t6-xpeng-china-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-id-aura-t6-xpeng-china-hero.webp", alt: "Foto oficial del Volkswagen ID. Aura T6", ancho: 1920, alto: 1280 }
+    ],
     videoId: "dT4EtzfyN6c",
     videoCanal: "CARSbyML",
     marca: "Volkswagen",
@@ -2959,6 +2976,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp", alt: "Foto oficial del Lynk & Co 07 GT", ancho: 1920, alto: 1280 }
+    ],
     videoId: "8seHKPoPHhE",
     videoCanal: "Telescope",
     marca: "Lynk & Co",
@@ -3119,10 +3139,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp", alt: "Foto oficial del Hyundai i20", ancho: 1200, alto: 800 }
+    ],
     videoId: "e8vcAVBWyLY",
     videoCanal: "coches.net",
     marca: "Hyundai",
-    modelo: "i20",
+    modelo: "i20 1.2 MPI",
     tipo: "Gasolina",
     categoria: "Urbano",
     precioDesde: 21520,
@@ -3166,6 +3189,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial:
       "/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp", alt: "Foto oficial del Jetour G700", ancho: 1200, alto: 800 }
+    ],
     videoId: "d5BUo65JVVc",
     videoCanal: "OTO Drive",
     marca: "Jetour",
@@ -3223,7 +3249,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         videoTutorialTitulo: "Reset Oil Service - Cupra Formentor, Seat Leon, Cupra Leon",
     },
     garantiaBateriaAnos: 8, garantiaBateriaKm: null, garantiaBateriaDegradacionPct: null,
-    imagenOficial: "", imagenInteriorOficial: "", videoId: "KKLlCYmqLCw", videoCanal: "Loading Cars",
+    imagenOficial: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp", imagenInteriorOficial: "", videoId: "KKLlCYmqLCw", videoCanal: "Loading Cars",
     marca: "SEAT", modelo: "León 1.5 TSI",
     tipo: "Gasolina", categoria: "Compacto",
     precioDesde: 25073, potenciaCv: 150, autonomiaKm: null, maleteroL: 380,
@@ -3234,6 +3260,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4368, anchoMm: 1800, altoMm: 1456, pesoKg: 1346,
     consumo: 5.7, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 130,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-leon-15-tsi.webp", opiniones: [],
+    galeria: [{ src: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT León 1.5 TSI 115", ancho: 1200, alto: 800 }, ],
   },
   {
     id: "toyota-corolla-140h",
@@ -3300,7 +3327,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         videoTutorialTitulo: "VW Golf 8, Tiguan, Jetta, Passat B9 (2021-2026)- Cum resetezi Interval Service Schimb Ulei (Revizie)",
     },
     garantiaBateriaAnos: 8, garantiaBateriaKm: 160000, garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "", imagenInteriorOficial: "", videoId: null, videoCanal: null,
+    imagenOficial: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-oficial.webp", imagenInteriorOficial: "", videoId: null, videoCanal: null,
     marca: "Volkswagen", modelo: "Golf 1.5 eTSI",
     tipo: "Híbrido ligero", categoria: "Compacto",
     precioDesde: 34970, potenciaCv: 150, autonomiaKm: null, maleteroL: 381,
@@ -3311,6 +3338,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4282, anchoMm: 1789, altoMm: 1483, pesoKg: 1373,
     consumo: 5.2, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 117,
     aprox: [], imagen: "/media/volkswagen-golf-15-etsi.webp", opiniones: [],
+    galeria: [{ src: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen Golf 1.5 eTSI R-Line", ancho: 1200, alto: 800 }, ],
   },
   {
     id: "toyota-c-hr-140h",
@@ -3352,7 +3380,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         videoTutorialTitulo: "Comment remplacer le filtre habitacle sur Volkswagen polo.",
     },
     garantiaBateriaAnos: 8, garantiaBateriaKm: null, garantiaBateriaDegradacionPct: null,
-    imagenOficial: "", imagenInteriorOficial: "", videoId: "sPPVt6r5bYw", videoCanal: "Diariomotor",
+    imagenOficial: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-oficial.webp", imagenInteriorOficial: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-interior-oficial.webp", videoId: "sPPVt6r5bYw", videoCanal: "Diariomotor",
     marca: "SEAT", modelo: "Arona 1.0 TSI",
     tipo: "Gasolina", categoria: "SUV",
     precioDesde: 20530, potenciaCv: 116, autonomiaKm: null, maleteroL: 400,
@@ -3363,6 +3391,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4138, anchoMm: 1780, altoMm: 1552, pesoKg: 1213,
     consumo: 5.3, consumoUnidad: "l/100 km", plazas: 5, parNm: 200, traccion: "Delantera", emisionesCo2: 120,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-arona-10-tsi.webp", opiniones: [],
+    galeria: [{ src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 }, { src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 }],
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3404,7 +3433,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         videoTutorialTitulo: "Revive Your Renault Clio: Instant Oil Service Light Reset Trick!",
     },
     garantiaBateriaAnos: 8, garantiaBateriaKm: 160000, garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "", imagenInteriorOficial: "", videoId: null, videoCanal: null,
+    imagenOficial: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-oficial.webp", imagenInteriorOficial: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-interior-oficial.webp", videoId: null, videoCanal: null,
     marca: "Renault", modelo: "Captur E-Tech 145",
     tipo: "Híbrido", categoria: "SUV",
     precioDesde: 26676, potenciaCv: 143, autonomiaKm: null, maleteroL: 326,
@@ -3415,6 +3444,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4239, anchoMm: 1797, altoMm: 1575, pesoKg: 1445,
     consumo: 4.6, consumoUnidad: "l/100 km", plazas: 5, parNm: 148, traccion: "Delantera", emisionesCo2: 103,
     aprox: ["bateriaKwh"], imagen: "/media/renault-captur-e-tech-145.webp", opiniones: [],
+    galeria: [{ src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 }, { src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 }],
   },
   {
     id: "toyota-yaris-120h",
@@ -3484,6 +3514,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/peugeot-208-2026.webp", alt: "Foto del Peugeot 208 Turbo 100", ancho: 2400, alto: 1350 }
+    ],
     videoId: "SPbs8SCL8Ww",
     videoCanal: "REVEL | Renting de Coches",
     marca: "Peugeot",
@@ -3539,6 +3572,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/citroen-c3-2026.webp", alt: "Foto del Citroën C3 1.2 Turbo 100", ancho: 1360, alto: 769 }
+    ],
     videoId: "EebLT4DwvXs",
     videoCanal: "Periodismo del Motor",
     marca: "Citroën",
@@ -3594,6 +3630,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hyundai-i10-2026.webp", alt: "Foto del Hyundai i10 1.0 MPI 63", ancho: 800, alto: 533 }
+    ],
     videoId: "dyAa0FAmO5E",
     videoCanal: "km77.com",
     marca: "Hyundai",
@@ -3650,6 +3689,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/kia-stonic-2026.webp", alt: "Foto del Kia Stonic 1.0 T-GDi 100", ancho: 1500, alto: 894 }
+    ],
     videoId: "rXZAcvNqvbA",
     videoCanal: "coches.net",
     marca: "Kia",
@@ -3706,6 +3748,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/skoda-fabia-2026.webp", alt: "Foto del Skoda Fabia 1.0 MPI 80", ancho: 1600, alto: 1066 }
+    ],
     videoId: "i3GstOFFGyw",
     videoCanal: "coches.net",
     marca: "Skoda",
@@ -3762,6 +3807,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-polo-2026.webp", alt: "Foto del Volkswagen Polo 1.0 TSI 95", ancho: 1024, alto: 576 }
+    ],
     videoId: "oZM6MC2hd0g",
     videoCanal: "km77",
     marca: "Volkswagen",
@@ -3818,6 +3866,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/seat-ibiza-2026.webp", alt: "Foto del SEAT Ibiza 1.0 MPI 80", ancho: 1600, alto: 1066 }
+    ],
     videoId: "LrxAED04GMA",
     videoCanal: "coches.net",
     marca: "SEAT",
@@ -3873,6 +3924,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model 3", ancho: 1600, alto: 490 }
+    ],
     videoId: "5j9qyB7MMDY",
     videoCanal: "HolyCars TV",
     marca: "Tesla",
@@ -3930,6 +3984,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model Y", ancho: 1280, alto: 720 }
+    ],
     videoId: "jg7IDgTrP0w",
     videoCanal: "Todos Eléctricos",
     marca: "Tesla",
@@ -3987,6 +4044,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica.webp", alt: "Foto del BMW i4 eDrive40", ancho: 2248, alto: 1500 }
+    ],
     videoId: "YvihrbZqJ8Y",
     videoCanal: "Car Unplugged",
     marca: "BMW",
@@ -4043,6 +4103,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica.webp", alt: "Foto del Mercedes-Benz EQE 300", ancho: 740, alto: 416 }
+    ],
     videoId: "qBkJn89C0SI",
     videoCanal: "km77.com",
     marca: "Mercedes-Benz",
@@ -4099,6 +4162,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica.webp", alt: "Foto del Audi Q4 e-tron 45", ancho: 1600, alto: 900 }
+    ],
     videoId: "0rdv3DYWmZ4",
     videoCanal: "Periodismo del Motor",
     marca: "Audi",
@@ -4155,6 +4221,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID.4 Pro", ancho: 1600, alto: 1067 }
+    ],
     videoId: "sO2qpBnsUTQ",
     videoCanal: "Real Car Test",
     marca: "Volkswagen",
@@ -4211,6 +4280,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica.webp", alt: "Foto del Skoda Enyaq 60", ancho: 1600, alto: 1067 }
+    ],
     videoId: "CTs5r-q7mao",
     videoCanal: "MOTORK",
     marca: "Skoda",
@@ -4266,6 +4338,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica.webp", alt: "Foto del Hyundai Ioniq 5", ancho: 1280, alto: 640 }
+    ],
     videoId: "S1EC8YlrI88",
     videoCanal: "km77",
     marca: "Hyundai",
@@ -4322,6 +4397,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica.webp", alt: "Foto del Kia EV6", ancho: 1160, alto: 653 }
+    ],
     videoId: "Yyhw3mZ-HaM",
     videoCanal: "MiKilovatio",
     marca: "Kia",
@@ -4378,6 +4456,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID. Buzz", ancho: 1600, alto: 1067 }
+    ],
     videoId: "Id6QVjdpEdo",
     videoCanal: "Periodismo del Motor",
     marca: "Volkswagen",
@@ -4437,6 +4518,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/nissan-qashqai-e-power-205.webp", alt: "Foto del Nissan Qashqai e-Power 205 CV", ancho: 1600, alto: 866 }
+    ],
     videoId: "0gr-Lmbmps4",
     videoCanal: "Híbridos y Eléctricos",
     marca: "Nissan",
@@ -4495,6 +4579,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/nissan-juke-hybrid-143.webp", alt: "Foto del Nissan Juke Hybrid 143 CV", ancho: 1440, alto: 1152 }
+    ],
     videoId: "BpeS1jLBJ4M",
     videoCanal: "km77",
     marca: "Nissan",
@@ -4552,6 +4639,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mazda-cx-30-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-30 2.5 e-SKYACTIV G 140 CV", ancho: 765, alto: 431 }
+    ],
     videoId: "xeoOq2ofvrU",
     videoCanal: "coches.com",
     marca: "Mazda",
@@ -4610,6 +4700,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/honda-cr-v-full-hybrid.webp", alt: "Foto del Honda CR-V Full Hybrid 184 CV", ancho: 1600, alto: 1066 }
+    ],
     videoId: "EYw1hIZKHIc",
     videoCanal: "Periodismo del Motor",
     marca: "Honda",
@@ -4668,6 +4761,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/honda-hr-v-ehev.webp", alt: "Foto del Honda HR-V e:HEV 131 CV", ancho: 960, alto: 806 }
+    ],
     videoId: "8v9fokoT9ZA",
     videoCanal: "km77",
     marca: "Honda",
@@ -4726,6 +4822,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/suzuki-vitara-14t-mild-hybrid.webp", alt: "Foto del Suzuki Vitara 1.4T Mild Hybrid 110 CV", ancho: 1600, alto: 1066 }
+    ],
     videoId: "4lZBfJPNhJw",
     videoCanal: "Periodismo del Motor",
     marca: "Suzuki",
@@ -4784,6 +4883,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mitsubishi-asx-180-hev.webp", alt: "Foto del Mitsubishi ASX 180 HEV 160 CV", ancho: 1440, alto: 640 }
+    ],
     videoId: "M7XsSixu-FI",
     videoCanal: "Prueba tu coche",
     marca: "Mitsubishi",
@@ -4841,6 +4943,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/jeep-avenger-electrico-156.webp", alt: "Foto del Jeep Avenger Eléctrico 156 CV", ancho: 1600, alto: 1066 }
+    ],
     videoId: "oV1_JSx4htQ",
     videoCanal: "Periodismo del Motor",
     marca: "Jeep",
@@ -4897,7 +5002,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "",
+    imagenOficial: "/media/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     videoId: "HQI28Vsxbuc",
     videoCanal: "carwow España",
@@ -4957,6 +5062,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mazda-cx-5-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-5 2.5 e-SKYACTIV G 141 CV", ancho: 1200, alto: 900 }
+    ],
     videoId: "KSNXrYt_Fq8",
     videoCanal: "Diariomotor",
     marca: "Mazda",
@@ -5015,6 +5123,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/toyota-rav4-hybrid-2026.webp", alt: "Foto del Toyota RAV4 Hybrid (2026)", ancho: 1200, alto: 800 }
+    ],
     videoId: "Zltc8ALagOY",
     videoCanal: "carwow España",
     marca: "Toyota",
@@ -5071,6 +5182,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/honda-jazz-e-hev.webp", alt: "Foto del Honda Jazz e:HEV", ancho: 1400, alto: 700 }
+    ],
     videoId: "DkcE38Fm8lM",
     videoCanal: "coches.net",
     marca: "Honda",
@@ -5127,6 +5241,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/honda-civic-e-hev.webp", alt: "Foto del Honda Civic e:HEV", ancho: 1200, alto: 800 }
+    ],
     videoId: "ruHkoUcizmQ",
     videoCanal: "Garage Days by AutoScout24",
     marca: "Honda",
@@ -5182,6 +5299,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/kia-niro-hev-129.webp", alt: "Foto del Kia Niro HEV 129", ancho: 1024, alto: 555 }
+    ],
     videoId: "xHAagwB0KLk",
     videoCanal: "coches.net",
     marca: "Kia",
@@ -5237,6 +5357,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/hyundai-kona-hybrid-138.webp", alt: "Foto del Hyundai Kona Hybrid 138", ancho: 1126, alto: 653 }
+    ],
     videoId: "pYVoZYKtIPo",
     videoCanal: "driverevel",
     marca: "Hyundai",
@@ -5292,6 +5415,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/kia-sportage-hev-239.webp", alt: "Foto del Kia Sportage HEV 239", ancho: 1600, alto: 1066 }
+    ],
     videoId: "-xWRx33KtPs",
     videoCanal: "JF Calero",
     marca: "Kia",
@@ -5347,6 +5473,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mazda-3-sedan-e-skyactiv-g.webp", alt: "Foto del Mazda Mazda3 Sedán 2.5 e-SKYACTIV G", ancho: 1260, alto: 710 }
+    ],
     videoId: "0uJIwcS72ac",
     videoCanal: "Loading Cars",
     marca: "Mazda",
@@ -5405,6 +5534,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/skoda-octavia-15-tsi-mhev.webp", alt: "Foto del Skoda Octavia 1.5 TSI mHEV", ancho: 1448, alto: 799 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -5463,6 +5595,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/skoda-superb-15-tsi-mhev.webp", alt: "Foto del Skoda Superb 1.5 TSI mHEV", ancho: 1280, alto: 1440 }
+    ],
     videoId: "SV2L2h_pUoE",
     videoCanal: "PruebaTuCoche",
     marca: "Skoda",
@@ -5520,6 +5655,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-serie-3-318.webp", alt: "Foto del BMW Serie 3 318", ancho: 1536, alto: 1024 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -5577,6 +5715,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-clase-c-200.webp", alt: "Foto del Mercedes-Benz Clase C 200", ancho: 1600, alto: 1051 }
+    ],
     videoId: "jWlPxisu4j4",
     videoCanal: "km77.com",
     marca: "Mercedes-Benz",
@@ -5605,7 +5746,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4751,
     anchoMm: 1820,
     altoMm: 1437,
-    pesoKg: 1695,
+    pesoKg: 1565,
     consumo: 6.2,
     consumoUnidad: "l/100 km",
     plazas: 5,
@@ -5634,6 +5775,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/volkswagen-passat-variant-15-etsi.webp", alt: "Foto del Volkswagen Passat Variant 1.5 eTSI", ancho: 1600, alto: 1067 }
+    ],
     videoId: "9jipLW7JCUs",
     videoCanal: "AutoScout24 España",
     marca: "Volkswagen",
@@ -5692,6 +5836,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mazda-mx-5-15-skyactiv-g.webp", alt: "Foto del Mazda MX-5 1.5 SKYACTIV-G", ancho: 1230, alto: 810 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Mazda",
@@ -5750,6 +5897,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/toyota-gr86-24-boxer.webp", alt: "Foto del Toyota GR86 2.4 Boxer", ancho: 1600, alto: 1243 }
+    ],
     videoId: "jtjOe7mtbOI",
     videoCanal: "Garage Days by AutoScout24",
     marca: "Toyota",
@@ -5807,6 +5957,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m2-coupe.webp", alt: "Foto del BMW M2 Coupé", ancho: 1600, alto: 1066 }
+    ],
     videoId: "zrbVzTJEH6A",
     videoCanal: "coches.net",
     marca: "BMW",
@@ -5864,6 +6017,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m4-competition.webp", alt: "Foto del BMW M4 Competition", ancho: 1600, alto: 1066 }
+    ],
     videoId: "uotjzSoJc9g",
     videoCanal: "km77.com",
     marca: "BMW",
@@ -5922,6 +6078,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/porsche-911-carrera-4s.webp", alt: "Foto del Porsche 911 Carrera 4S", ancho: 1000, alto: 563 }
+    ],
     videoId: "SJ5aMUHv6ew",
     videoCanal: "Coches SoyMotor.com",
     marca: "Porsche",
@@ -5980,6 +6139,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/porsche-718-cayman-gt4-rs.webp", alt: "Foto del Porsche 718 Cayman GT4 RS", ancho: 1600, alto: 900 }
+    ],
     videoId: "mnqZYeHoWp0",
     videoCanal: "coches.net",
     marca: "Porsche",
@@ -6027,6 +6189,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/alpine-a110.webp", alt: "Foto del Alpine A110", ancho: 1600, alto: 981 }
+    ],
     videoId: "LomhKC8G-CI",
     videoCanal: "coches.net",
     marca: "Alpine",
@@ -6085,6 +6250,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/ford-mustang-gt-convertible.webp", alt: "Foto del Ford Mustang GT Convertible", ancho: 1024, alto: 683 }
+    ],
     videoId: "LomhKC8G-CI",
     videoCanal: "coches.net",
     marca: "Ford",
@@ -6142,6 +6310,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-z4-sdrive20i.webp", alt: "Foto del BMW Z4 sDrive20i", ancho: 1220, alto: 813 }
+    ],
     videoId: "eAlD56YLriE",
     videoCanal: "coches.net",
     marca: "BMW",
@@ -6200,6 +6371,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/subaru-brz-24.webp", alt: "Foto del Subaru BRZ 2.4", ancho: 1600, alto: 1066 }
+    ],
     videoId: "MjNA7-BZiNM",
     videoCanal: "El Garage de Pepino",
     marca: "Subaru",
@@ -6299,6 +6473,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Toyota Yaris Cross Hybrid 130", ancho: 1920, alto: 1280 },
+      { src: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Toyota Yaris Cross Hybrid 130", ancho: 1600, alto: 1067 },
+      { src: "/media/toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Toyota Yaris Cross Hybrid 130", ancho: 1200, alto: 800 }
+    ],
     videoId: "KyTi2dQlT3Q",
     videoCanal: "J&M motor",
     opiniones: [],
@@ -6362,6 +6541,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen T-Roc", ancho: 1920, alto: 1280 },
+      { src: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen T-Roc", ancho: 1600, alto: 900 },
+      { src: "/media/volkswagen-t-roc-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Volkswagen T-Roc", ancho: 1200, alto: 800 }
+    ],
     videoId: "WG_waVbTjnE",
     videoCanal: "motor.es",
     opiniones: [],
@@ -6425,6 +6609,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster Hybrid 140", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster Hybrid 140", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Dacia Duster Hybrid 140", ancho: 1200, alto: 800 }
+    ],
     videoId: "nvznUAWvySY",
     videoCanal: "carwow España (JF Calero)",
     opiniones: [],
@@ -6487,6 +6676,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault 5 E-Tech", ancho: 1200, alto: 800 },
+      { src: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault 5 E-Tech", ancho: 1200, alto: 800 },
+      { src: "/media/renault-5-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Renault 5 E-Tech", ancho: 1200, alto: 800 }
+    ],
     videoId: "Ps53y-u6S9Q",
     videoCanal: "coches.net",
     opiniones: [],
@@ -6549,6 +6743,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Scenic E-Tech", ancho: 1200, alto: 800 },
+      { src: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Renault Scenic E-Tech", ancho: 1200, alto: 800 },
+      { src: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Renault Scenic E-Tech", ancho: 1200, alto: 800 }
+    ],
     videoId: "jTELHZ9uQpA",
     videoCanal: "coches.net",
     opiniones: [],
@@ -6773,6 +6972,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Jogger Hybrid 140", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Jogger Hybrid 140", ancho: 1600, alto: 902 },
+      { src: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Dacia Jogger Hybrid 140", ancho: 1200, alto: 800 }
+    ],
     videoId: "-_yq2MHIYYk",
     videoCanal: "SoyMotor.com",
     opiniones: [],
@@ -7074,6 +7278,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/peugeot-3008-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-3008-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/peugeot-3008-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/peugeot-3008-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 3008", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-3008-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 3008", ancho: 1200, alto: 821 },
+      { src: "/media/peugeot-3008-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Peugeot 3008", ancho: 1200, alto: 800 }
+    ],
     videoId: "ouKY0EVdy6g",
     videoCanal: "Motor1 España",
     opiniones: [],
@@ -7137,6 +7346,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen T-Cross", ancho: 1920, alto: 1280 },
+      { src: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen T-Cross", ancho: 1600, alto: 910 },
+      { src: "/media/volkswagen-t-cross-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Volkswagen T-Cross", ancho: 1200, alto: 800 }
+    ],
     videoId: "LSXGQ9v-u2Y",
     videoCanal: "coches.net",
     opiniones: [],
@@ -7200,6 +7414,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen Taigo", ancho: 1920, alto: 1280 },
+      { src: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen Taigo", ancho: 1600, alto: 900 },
+      { src: "/media/volkswagen-taigo-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Volkswagen Taigo", ancho: 1200, alto: 800 }
+    ],
     videoId: "5IZIbwgNZcw",
     videoCanal: "Periodismo del Motor",
     opiniones: [],
@@ -7224,9 +7443,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/seat-ateca-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/seat-ateca-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/seat-ateca-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Seat Ateca 1.0 TSI EVO", ancho: 1920, alto: 1280 },
+      { src: "/media/seat-ateca-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Seat Ateca 1.0 TSI EVO", ancho: 1600, alto: 899 },
+      { src: "/media/seat-ateca-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Seat Ateca 1.0 TSI EVO", ancho: 1200, alto: 800 }
+    ],
     videoId: "rloyYLfJGWc",
     videoCanal: "pruebatucoche",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "Ateca 1.0 TSI EVO",
     tipo: "Gasolina",
     categoria: "SUV",
@@ -7287,6 +7511,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-kamiq-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/skoda-kamiq-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/skoda-kamiq-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Skoda Kamiq 1.0 TSI 116 CV", ancho: 1920, alto: 1280 },
+      { src: "/media/skoda-kamiq-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Skoda Kamiq 1.0 TSI 116 CV", ancho: 1600, alto: 1066 },
+      { src: "/media/skoda-kamiq-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Skoda Kamiq 1.0 TSI 116 CV", ancho: 1200, alto: 800 }
+    ],
     videoId: "B0CdYl4RtFY",
     videoCanal: "coches.net",
     marca: "Skoda",
@@ -7350,6 +7579,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-karoq-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/skoda-karoq-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/skoda-karoq-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Skoda Karoq 1.0 TSI", ancho: 1920, alto: 1280 },
+      { src: "/media/skoda-karoq-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Skoda Karoq 1.0 TSI", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-karoq-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Skoda Karoq 1.0 TSI", ancho: 1200, alto: 800 }
+    ],
     videoId: "3eeme6X-csY",
     videoCanal: "coches.net",
     marca: "Skoda",
@@ -7413,6 +7647,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-kodiaq-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/skoda-kodiaq-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/skoda-kodiaq-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Skoda Kodiaq 1.5 TSI mHEV", ancho: 1920, alto: 1280 },
+      { src: "/media/skoda-kodiaq-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Skoda Kodiaq 1.5 TSI mHEV", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-kodiaq-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Skoda Kodiaq 1.5 TSI mHEV", ancho: 1200, alto: 800 }
+    ],
     videoId: "By4DHZzOzDI",
     videoCanal: "Garage Days (Dani Cuadrado)",
     marca: "Skoda",
@@ -7474,6 +7713,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hyundai Ioniq 6 Light 170 CV 63 kWh", ancho: 1920, alto: 1280 },
+      { src: "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-hero.webp", alt: "Foto del Hyundai Ioniq 6 Light 170 CV 63 kWh", ancho: 1200, alto: 795 },
+      { src: "/media/hyundai-ioniq-6-electrico-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Hyundai Ioniq 6 Light 170 CV 63 kWh", ancho: 1200, alto: 800 }
+    ],
     videoId: "ZxTbA3H-3wI",
     videoCanal: "PruebaTuCoche",
     marca: "Hyundai",
@@ -7537,6 +7781,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-bayon-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/hyundai-bayon-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/hyundai-bayon-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hyundai Bayon 1.0 T-GDi 48V", ancho: 1920, alto: 1280 },
+      { src: "/media/hyundai-bayon-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Hyundai Bayon 1.0 T-GDi 48V", ancho: 1064, alto: 600 },
+      { src: "/media/hyundai-bayon-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Hyundai Bayon 1.0 T-GDi 48V", ancho: 1200, alto: 678 }
+    ],
     videoId: "2zphrnSCuB8",
     videoCanal: "AUTOBILD España",
     marca: "Hyundai",
@@ -7600,6 +7849,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-i30-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/hyundai-i30-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/hyundai-i30-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hyundai i30 1.5 DPI", ancho: 1920, alto: 1280 },
+      { src: "/media/hyundai-i30-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Hyundai i30 1.5 DPI", ancho: 1260, alto: 710 },
+      { src: "/media/hyundai-i30-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Hyundai i30 1.5 DPI", ancho: 1200, alto: 800 }
+    ],
     videoId: "1K7NA1QgOfE",
     videoCanal: "coches.net",
     marca: "Hyundai",
@@ -7663,6 +7917,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/kia-ceed-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/kia-ceed-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/kia-ceed-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Kia Ceed 1.0 MHEV", ancho: 1200, alto: 800 },
+      { src: "/media/kia-ceed-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Kia Ceed 1.0 MHEV", ancho: 600, alto: 450 },
+      { src: "/media/kia-ceed-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Kia Ceed 1.0 MHEV", ancho: 1200, alto: 800 }
+    ],
     videoId: "HOBhT44oh0Y",
     videoCanal: "Loading Cars",
     marca: "Kia",
@@ -7726,6 +7985,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/kia-xceed-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/kia-xceed-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/kia-xceed-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Kia XCeed 1.0 T-GDi", ancho: 1920, alto: 1280 },
+      { src: "/media/kia-xceed-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Kia XCeed 1.0 T-GDi", ancho: 1200, alto: 630 },
+      { src: "/media/kia-xceed-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Kia XCeed 1.0 T-GDi", ancho: 1200, alto: 800 }
+    ],
     videoId: "BEUqf3h_vRY",
     videoCanal: "coches.net",
     marca: "Kia",
@@ -7789,6 +8053,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/kia-picanto-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/kia-picanto-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/kia-picanto-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Kia Picanto 1.0 DPI", ancho: 1920, alto: 1280 },
+      { src: "/media/kia-picanto-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Kia Picanto 1.0 DPI", ancho: 940, alto: 529 },
+      { src: "/media/kia-picanto-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Kia Picanto 1.0 DPI", ancho: 1200, alto: 800 }
+    ],
     videoId: "gVYmcPjyijo",
     videoCanal: "coches.net",
     marca: "Kia",
@@ -7852,6 +8121,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-kuga-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/ford-kuga-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/ford-kuga-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Ford Kuga 1.5 EcoBoost", ancho: 1920, alto: 1280 },
+      { src: "/media/ford-kuga-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Ford Kuga 1.5 EcoBoost", ancho: 1000, alto: 563 },
+      { src: "/media/ford-kuga-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Ford Kuga 1.5 EcoBoost", ancho: 1200, alto: 800 }
+    ],
     videoId: "pN3QgNlGmfU",
     videoCanal: "coches.net",
     marca: "Ford",
@@ -7915,6 +8189,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-focus-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/ford-focus-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/ford-focus-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Ford Focus 1.0 EcoBoost MHEV", ancho: 1920, alto: 1280 },
+      { src: "/media/ford-focus-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Ford Focus 1.0 EcoBoost MHEV", ancho: 1500, alto: 835 },
+      { src: "/media/ford-focus-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Ford Focus 1.0 EcoBoost MHEV", ancho: 1200, alto: 800 }
+    ],
     videoId: "B8Lo0LoeK7o",
     videoCanal: "coches.net",
     marca: "Ford",
@@ -7978,6 +8257,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/opel-mokka-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/opel-mokka-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/opel-mokka-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Mokka 1.2 Turbo", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-mokka-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Mokka 1.2 Turbo", ancho: 1200, alto: 670 },
+      { src: "/media/opel-mokka-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Opel Mokka 1.2 Turbo", ancho: 1200, alto: 800 }
+    ],
     videoId: "E0EzMi46zzs",
     videoCanal: "Opel Borjamotor",
     marca: "Opel",
@@ -8040,6 +8324,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/opel-astra-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/opel-astra-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/opel-astra-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Astra 1.2 Turbo", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-astra-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Astra 1.2 Turbo", ancho: 1200, alto: 800 },
+      { src: "/media/opel-astra-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Opel Astra 1.2 Turbo", ancho: 1200, alto: 678 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -8145,6 +8434,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/opel-grandland-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/opel-grandland-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/opel-grandland-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/opel-grandland-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Grandland", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-grandland-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Grandland", ancho: 1200, alto: 800 },
+      { src: "/media/opel-grandland-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Opel Grandland", ancho: 1200, alto: 800 }
+    ],
     videoId: "5zQPiZOmRrI",
     videoCanal: "El Carro Colombiano",
     opiniones: [],
@@ -8210,6 +8504,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/peugeot-308-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/peugeot-308-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/peugeot-308-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/peugeot-308-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 308", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-308-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 308", ancho: 1200, alto: 667 },
+      { src: "/media/peugeot-308-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Peugeot 308", ancho: 1200, alto: 752 }
+    ],
     videoId: "LPVjmXuoSWk",
     videoCanal: "AutoScout24",
     opiniones: [],
@@ -8362,6 +8661,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/cupra-terramar-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/cupra-terramar-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/cupra-terramar-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/cupra-terramar-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Cupra Terramar", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-terramar-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Cupra Terramar", ancho: 1600, alto: 900 },
+      { src: "/media/cupra-terramar-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Cupra Terramar", ancho: 1200, alto: 800 }
+    ],
     videoId: "VP114C_c3mU",
     videoCanal: "coches.net",
     opiniones: [],
@@ -8425,7 +8729,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     ],
     imagen: "/media/cupra-born-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/cupra-born-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/cupra-born-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/cupra-born-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Cupra Born", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-born-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Cupra Born", ancho: 1600, alto: 899 },
+    ],
     videoId: "RujqB6G0QLQ",
     videoCanal: "coches.net",
     opiniones: [],
@@ -8489,7 +8797,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     ],
     imagen: "/media/cupra-tavascan-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/cupra-tavascan-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/cupra-tavascan-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/cupra-tavascan-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Cupra Tavascan", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-tavascan-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Cupra Tavascan", ancho: 1600, alto: 1067 },
+    ],
     videoId: "EQDBnyAsJUQ",
     videoCanal: "coches.net",
     opiniones: [],
@@ -8555,6 +8867,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Toyota Land Cruiser", ancho: 1920, alto: 1280 },
+      { src: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Toyota Land Cruiser", ancho: 1400, alto: 933 },
+      { src: "/media/toyota-land-cruiser-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Toyota Land Cruiser", ancho: 1200, alto: 800 }
+    ],
     videoId: "rZOOj2RibxU",
     videoCanal: "coches.net",
     opiniones: [],
@@ -8620,6 +8937,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/lexus-lbx-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lexus-lbx-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/lexus-lbx-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/lexus-lbx-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Lexus LBX", ancho: 1920, alto: 1280 },
+      { src: "/media/lexus-lbx-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Lexus LBX", ancho: 1600, alto: 1067 },
+      { src: "/media/lexus-lbx-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Lexus LBX", ancho: 1200, alto: 800 }
+    ],
     videoId: "ZJpJZ1Z4B1U",
     videoCanal: "km77",
     opiniones: [],
@@ -8682,6 +9004,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/honda-e-ny1-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/honda-e-ny1-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/honda-e-ny1-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/honda-e-ny1-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Honda e:Ny1", ancho: 1920, alto: 1280 },
+      { src: "/media/honda-e-ny1-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Honda e:Ny1", ancho: 1600, alto: 900 },
+      { src: "/media/honda-e-ny1-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Honda e:Ny1", ancho: 1200, alto: 800 }
+    ],
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -8747,6 +9074,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/mazda-cx-80-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mazda-cx-80-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/mazda-cx-80-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/mazda-cx-80-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mazda CX-80", ancho: 1920, alto: 1280 },
+      { src: "/media/mazda-cx-80-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mazda CX-80", ancho: 800, alto: 450 },
+      { src: "/media/mazda-cx-80-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Mazda CX-80", ancho: 1200, alto: 800 }
+    ],
     videoId: "RCyCCUYQQKM",
     videoCanal: "Periodismo del Motor",
     opiniones: [],
@@ -8812,6 +9144,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/suzuki-swift-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/suzuki-swift-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/suzuki-swift-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/suzuki-swift-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Suzuki Swift", ancho: 1920, alto: 1280 },
+      { src: "/media/suzuki-swift-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Suzuki Swift", ancho: 1600, alto: 1066 },
+      { src: "/media/suzuki-swift-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Suzuki Swift", ancho: 1200, alto: 800 }
+    ],
     videoId: "0JJhy0oTyN0",
     videoCanal: "Periodismo del Motor",
     opiniones: [],
@@ -8877,6 +9214,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/fiat-600-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/fiat-600-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/fiat-600-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/fiat-600-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Fiat 600", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-600-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Fiat 600", ancho: 2048, alto: 1152 },
+      { src: "/media/fiat-600-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Fiat 600", ancho: 1200, alto: 800 }
+    ],
     videoId: "F8jqbhkPzKQ",
     videoCanal: "coches.net",
     opiniones: [],
@@ -8942,6 +9284,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mitsubishi Colt", ancho: 1920, alto: 1280 },
+      { src: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mitsubishi Colt", ancho: 1280, alto: 558 },
+      { src: "/media/mitsubishi-colt-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Mitsubishi Colt", ancho: 1200, alto: 793 }
+    ],
     videoId: "wDlmEQaofyo",
     videoCanal: "SuperMotor.Online",
     opiniones: [],
@@ -8964,6 +9311,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mg4-urban-electric-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/mg4-urban-electric-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/mg4-urban-electric-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG MG4 Urban", ancho: 1920, alto: 1280 },
+      { src: "/media/mg4-urban-electric-precio-ficha-tecnica-hero.webp", alt: "Foto del MG MG4 Urban", ancho: 1600, alto: 1067 },
+      { src: "/media/mg4-urban-electric-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del MG MG4 Urban", ancho: 1200, alto: 800 }
+    ],
     videoId: "Thz6rWCCPRU",
     videoCanal: "Prueba Tu Coche",
     marca: "MG",
@@ -9031,7 +9383,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Seal U",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 34240,
+    precioDesde: 29990,
     potenciaCv: 218,
     autonomiaKm: 80,
     maleteroL: 425,
@@ -9045,7 +9397,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "80 km eléctricos WLTP: el día a día sin gastar gasolina",
       "Batería Blade LFP de BYD: de las más seguras del mercado",
       "Maletero de 425 L y 5 plazas amplias: SUV familiar de verdad",
-      "Equipamiento de serie muy completo por 34.240 €",
+      "Equipamiento de serie muy completo por 29.990 € financiando (campaña oficial hasta el 31/10/2026; 35.790 € al contado)",
     ],
     contras: [
       "Más de 2 toneladas de peso (2.015 kg en la versión Boost)",
@@ -9130,6 +9482,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mg3-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/mg3-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/mg3-hybrid-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG MG3 Hybrid+", ancho: 1920, alto: 1280 },
+      { src: "/media/mg3-hybrid-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del MG MG3 Hybrid+", ancho: 1600, alto: 900 },
+      { src: "/media/mg3-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del MG MG3 Hybrid+", ancho: 1200, alto: 800 }
+    ],
     videoId: "13_lfF12Vc4",
     videoCanal: "SoyMotor",
     marca: "MG",
@@ -9191,6 +9548,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mg-hs-phev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/mg-hs-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/mg-hs-phev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG HS", ancho: 1920, alto: 1280 },
+      { src: "/media/mg-hs-phev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG HS", ancho: 1600, alto: 900 },
+      { src: "/media/mg-hs-phev-2025-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del MG HS", ancho: 1200, alto: 800 }
+    ],
     videoId: "Ij_D_o0t99o",
     videoCanal: "coches.net",
     marca: "MG",
@@ -9252,6 +9614,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/byd-dolphin-surf-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/byd-dolphin-surf-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/byd-dolphin-surf-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BYD Dolphin Surf", ancho: 1920, alto: 1280 },
+      { src: "/media/byd-dolphin-surf-precio-ficha-tecnica-hero.webp", alt: "Foto del BYD Dolphin Surf", ancho: 1476, alto: 753 },
+      { src: "/media/byd-dolphin-surf-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del BYD Dolphin Surf", ancho: 1200, alto: 800 }
+    ],
     videoId: "5Rdt_VMosfU",
     videoCanal: "coches.net",
     marca: "BYD",
@@ -9320,6 +9687,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/byd-dolphin-surf-2027-hero.webp",
     imagenInteriorOficial: "/media/byd-dolphin-surf-2027-lateral.webp",
+    galeria: [
+      { src: "/media/byd-dolphin-surf-2027-hero.webp", alt: "Foto oficial del BYD Dolphin Surf 2027", ancho: 1600, alto: 900 },
+      { src: "/media/byd-dolphin-surf-2027-lateral.webp", alt: "Interior oficial del BYD Dolphin Surf 2027", ancho: 1280, alto: 764 }
+    ],
     videoId: null,
     videoCanal: null,
     marca: "BYD",
@@ -9474,6 +9845,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alpine-a290-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/alpine-a290-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/alpine-a290-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Alpine A290", ancho: 1920, alto: 1280 },
+      { src: "/media/alpine-a290-precio-ficha-tecnica-hero.webp", alt: "Foto del Alpine A290", ancho: 1600, alto: 1067 },
+      { src: "/media/alpine-a290-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Alpine A290", ancho: 1200, alto: 800 }
+    ],
     videoId: "Y6DBOuSnsEE",
     videoCanal: "carwow España (JF Calero)",
     marca: "Alpine",
@@ -9536,6 +9912,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/jeep-compass-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jeep-compass-2025-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/jeep-compass-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jeep Compass", ancho: 1920, alto: 1280 },
+      { src: "/media/jeep-compass-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jeep Compass", ancho: 1200, alto: 900 },
+      { src: "/media/jeep-compass-2025-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Jeep Compass", ancho: 1200, alto: 800 }
+    ],
     videoId: "ThIOBmFt0o4",
     videoCanal: "Loading Cars",
     marca: "Jeep",
@@ -9588,6 +9969,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volvo-ex30-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/volvo-ex30-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/volvo-ex30-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volvo EX30", ancho: 1920, alto: 1280 },
+      { src: "/media/volvo-ex30-precio-ficha-tecnica-hero.webp", alt: "Foto del Volvo EX30", ancho: 1000, alto: 602 },
+      { src: "/media/volvo-ex30-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Volvo EX30", ancho: 1200, alto: 800 }
+    ],
     videoId: "66yS17Ds7yY",
     videoCanal: "coches.net",
     marca: "Volvo",
@@ -9640,6 +10026,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-4-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/polestar-4-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/polestar-4-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Polestar 4", ancho: 1920, alto: 1280 },
+      { src: "/media/polestar-4-precio-ficha-tecnica-hero.webp", alt: "Foto del Polestar 4", ancho: 1600, alto: 900 },
+      { src: "/media/polestar-4-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Polestar 4", ancho: 1200, alto: 800 }
+    ],
     videoId: "X2NeaFSOkZM",
     videoCanal: "SoyMotor",
     marca: "Polestar",
@@ -9692,9 +10083,14 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/smart-1-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/smart-1-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/smart-1-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del smart #1", ancho: 1920, alto: 1280 },
+      { src: "/media/smart-1-precio-ficha-tecnica-hero.webp", alt: "Foto del smart #1", ancho: 1600, alto: 900 },
+      { src: "/media/smart-1-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del smart #1", ancho: 1200, alto: 800 }
+    ],
     videoId: "UPGO6-gpF_I",
     videoCanal: "MOTORK",
-    marca: "smart",
+    marca: "Smart",
     modelo: "#1",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -9761,6 +10157,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hyundai Santa Fe", ancho: 1920, alto: 1280 },
+      { src: "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Hyundai Santa Fe", ancho: 663, alto: 441 },
+      { src: "/media/hyundai-santa-fe-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Hyundai Santa Fe", ancho: 1200, alto: 800 }
+    ],
     videoId: "CYK0ONs8PNY",
     videoCanal: "Autosdeprimera",
     marca: "Hyundai",
@@ -9822,6 +10223,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/toyota-bz4x-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/toyota-bz4x-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/toyota-bz4x-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Toyota bZ4X", ancho: 1920, alto: 1280 },
+      { src: "/media/toyota-bz4x-precio-ficha-tecnica-hero.webp", alt: "Foto del Toyota bZ4X", ancho: 1200, alto: 630 },
+      { src: "/media/toyota-bz4x-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Toyota bZ4X", ancho: 1200, alto: 800 }
+    ],
     videoId: "hGXB9aDL83c",
     videoCanal: "coches.net",
     marca: "Toyota",
@@ -9885,6 +10291,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/lexus-ux-300h-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/lexus-ux-300h-precio-ficha-tecnica-interior-oficial.webp",
+    galeria: [
+      { src: "/media/lexus-ux-300h-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Lexus UX 300h", ancho: 1920, alto: 1280 },
+      { src: "/media/lexus-ux-300h-precio-ficha-tecnica-hero.webp", alt: "Foto del Lexus UX 300h", ancho: 1600, alto: 900 },
+      { src: "/media/lexus-ux-300h-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Lexus UX 300h", ancho: 1200, alto: 800 }
+    ],
     videoId: "zKJdXegLiy8",
     videoCanal: "Prueba Tu Coche",
     marca: "Lexus",

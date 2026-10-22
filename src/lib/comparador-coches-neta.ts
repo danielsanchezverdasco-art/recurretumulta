@@ -19,8 +19,8 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-aya-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/neta-aya-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/neta-aya-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Neta",
@@ -61,7 +61,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "consumo"],
-    imagen: "/media/neta-aya-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 1.84,
@@ -76,24 +76,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-aya-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Neta Aya eléctrico en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-aya-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta Aya, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-aya-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Neta Aya con pantalla vertical de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "neta-aya-2025-precio-ficha-tecnica",
   },
@@ -102,7 +87,7 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-x-2024-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/neta-x-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/neta-x-2024-precio-ficha-tecnica-interior.webp",
     videoId: "_FOPA_OJat0",
     videoCanal: "alexlovesmac",
@@ -144,7 +129,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "pesoKg", "consumo"],
-    imagen: "/media/neta-x-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.29,
@@ -159,18 +144,8 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-x-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta X eléctrico en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-x-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta X, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
       {
         src: "/media/neta-x-2024-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Neta X con pantalla de 15,6 pulgadas",
@@ -185,8 +160,8 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-s-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/neta-s-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/neta-s-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Neta",
@@ -227,7 +202,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "velocidadMax", "cargaRapidaKw"],
-    imagen: "/media/neta-s-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.57,
@@ -242,24 +217,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-s-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta S berlina eléctrica en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-s-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta S, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-s-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Neta S con pantalla vertical de 17,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "neta-s-2024-precio-ficha-tecnica",
   },
@@ -268,8 +228,8 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Neta",
@@ -310,7 +270,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "consumo"],
-    imagen: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.3,
@@ -325,24 +285,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta S Shooting Brake familiar eléctrico en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta S Shooting Brake, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Neta S Shooting Brake con pantalla vertical",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "neta-s-shooting-brake-2024-precio-ficha-tecnica",
   },
@@ -351,8 +296,8 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-gt-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/neta-gt-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/neta-gt-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Neta",
@@ -393,7 +338,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "consumo"],
-    imagen: "/media/neta-gt-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.41,
@@ -408,24 +353,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-gt-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta GT coupé eléctrico en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-gt-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta GT, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-gt-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Neta GT con pantalla central de 17,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "neta-gt-2024-precio-ficha-tecnica",
   },
@@ -434,8 +364,8 @@ export const COCHES_NETA: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/neta-l-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/neta-l-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/neta-l-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Neta",
@@ -476,7 +406,7 @@ export const COCHES_NETA: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "consumo"],
-    imagen: "/media/neta-l-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.7,
@@ -491,24 +421,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/neta-l-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta L SUV eléctrico en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-l-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Neta L, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/neta-l-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Neta L con dos pantallas de 15,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "neta-l-2024-precio-ficha-tecnica",
   },

@@ -27,7 +27,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "uW_o8mkQKw4",
     videoCanal: "SoyMotor",
     marca: "Jaecoo",
@@ -102,13 +102,13 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 7 gasolina, vista lateral en carretera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 7 gasolina",
         "ancho": 1920,
         "alto": 1280
@@ -120,8 +120,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Jaecoo",
@@ -162,7 +162,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 125,
     aprox: [],
-    imagen: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "Por un lado, la velocidad máxima es de 180 km/h, con una aceleración de 0 a 100 km/h en 8,3 segundos. Por otro lado, el consumo medio homologado es de 5,3 litros cada 100 km.",
@@ -190,19 +190,19 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 7 SHS híbrido, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 7 SHS híbrido, vista trasera en costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 7 SHS híbrido",
         "ancho": 1920,
         "alto": 1280
@@ -214,8 +214,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "mrAvlRIU-VE",
     videoCanal: "Periodismo del Motor",
     marca: "Jaecoo",
@@ -256,7 +256,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 120,
     aprox: [],
-    imagen: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "El JAECOO 5 SHS es, sin duda, uno de los híbridos más interesantes del segmento C en 2026. Su sistema Super Hybrid System de 224 CV funciona de forma suave y refinada, con un consumo real muy cercano al homologado (5,5-5,7 l/100 km).",
@@ -284,19 +284,19 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 5 SHS híbrido, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 5 SHS híbrido, vista lateral en ciudad",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 5 SHS híbrido",
         "ancho": 1920,
         "alto": 1280
@@ -309,7 +309,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Jaecoo",
@@ -384,13 +384,13 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 5 EV, vista lateral en Madrid",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 5 EV",
         "ancho": 1920,
         "alto": 1280
@@ -402,8 +402,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "et30-pnlgr0",
     videoCanal: "SoyMotor",
     marca: "Jaecoo",
@@ -444,7 +444,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 47,
     aprox: [],
-    imagen: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "Por tamaño, por acabados, por rendimiento y por algunas cosas más está por encima de la media. Y desde luego que se revela como una opción muy a tener en cuenta para aquellos que quieran dar un salto hacia adelante sin tener que afrontar los precios de los fabricantes alemanes.",
@@ -472,13 +472,13 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 8 SHS, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 8 SHS, vista trasera al atardecer",
         "ancho": 1920,
         "alto": 1280
@@ -491,7 +491,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp",
     videoId: "iwc5mIbG_1s",
     videoCanal: "Wheelsboy",
     marca: "Jaecoo",
@@ -562,6 +562,18 @@ export const COCHES_JAECOO: CocheComparador[] = [
       {
         "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-4.webp",
         "alt": "Jaecoo 6 EV, detalle del frontal tipo Defender",
+        "ancho": 800,
+        "alto": 450
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-foto2.webp",
+        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio",
+        "ancho": 1024,
+        "alto": 1024
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Jaecoo 6 EV en pista de tierra",
         "ancho": 800,
         "alto": 450
       }

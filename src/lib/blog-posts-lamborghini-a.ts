@@ -418,6 +418,42 @@ De segunda mano, el Urus S es la puerta de entrada más razonable al mundo Urus,
 | V8 puro con sonido clásico | El más "lento" de la familia (3,5 s) |
 | La ocasión más razonable del Urus | Precios de ocasión aún altos |
 
+## El SUV que cambió las cuentas de Sant'Agata
+
+Antes del Urus, Lamborghini vivía de deportivos biplaza producidos en series cortas. Este todocamino rompió esa lógica: carrocería alta y portón trasero convirtieron el toro en vehículo familiar para fortunas que antes necesitaban dos coches. El S ocupó el escalón sensato cuando la gama de gasolina afrontaba su despedida. Su cotización se explica así: se paga el último capítulo de un fenómeno comercial que redefinió la marca, descrito en su <a href=https://www.lamborghini.com/en-en/models/urus/urus-s>página oficial del Urus S</a>.
+
+## Anatomía técnica: dónde se nota el enfoque confortable
+
+Compartir propulsor con el Performante no significa compartir carácter. La suspensión neumática adaptativa filtra juntas y badenes sin renunciar a contener balanceos, mientras la tracción total reparte empuje pensando en lluvia o nieve ligera. El cambio de ocho relaciones sostiene ese doble papel: suavidad despacio, contundencia al exigir los 850 Nm. Revisa cada cifra en la <a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>ficha completa del Urus S</a>.
+
+| Elemento | Lectura práctica en el S |
+|---|---|
+| V8 4.0 biturbo, 666 CV | Reserva sobrada sin buscar récord |
+| Par máximo 850 Nm | Adelantamientos breves pese al peso |
+| 0-100 km/h en 3,5 s | Ritmo de deportivo con carrocería SUV |
+| Peso de 2.272 kg | Condiciona frenadas y desgaste |
+| Maletero de 616 litros | Capacidad real para equipaje voluminoso |
+
+Esa masa declarada manda sobre todo lo demás: neumáticos, frenos y consumos trabajan siempre contra una inercia considerable.
+
+## Uso cotidiano sin maquillaje
+
+A diario sorprende por acceso menos incómodo que en un Huracán y espacio trasero aprovechable por adultos. También incomoda donde cualquier SUV gigante incomoda: aparcamientos estrechos, garajes antiguos y una anchura de 2.018 mm que obliga a medir cada rampa. En carretera el depósito sufre: mantener cruceros alegres con 14,1 l/100 km homologados exige paradas frecuentes. Quien lo compre para trayectos cortos urbanos desperdiciará su talento y asumirá sus peores inconvenientes.
+
+## Mantener un V8 de este nivel sin cifras inventadas
+
+Aquí no caben presupuestos de SUV convencional. Neumáticos de gran diámetro, frenos dimensionados para detener más de dos toneladas y revisiones en servicio especializado forman un paquete costoso por naturaleza, sin que este texto asigne importes que ninguna fuente consultada respalde. Antes de comprar de ocasión conviene exigir historial completo, comprobar desgaste entre ejes, revisar la suspensión neumática en frío y verificar campañas aplicadas. Una unidad barata con mantenimiento diferido puede resultar la más cara: el expediente vale casi tanto como el kilometraje.
+
+## Etiqueta C y restricciones: lo que conviene asumir
+
+Su distintivo es la **C**, sin bonificaciones asociadas a electrificación. Permite circular ampliamente, pero no otorga las ventajas urbanas reservadas a etiquetas superiores cuando una zona de bajas emisiones se vuelve más estricta. El problema práctico no es entrar hoy en una ciudad, sino la evolución normativa durante años de propiedad y el coste por kilómetro derivado de emisiones de 320 g/km. Si tu rutina incluye centro urbano a diario, el salto al SE tiene sentido funcional además de prestacional.
+
+## Frente a sus hermanos: Performante y SE
+
+El <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Urus Performante</a> costaba 296.596 €, marcaba 3,3 s en el 0-100 y alcanzaba 306 km/h con idénticos 666 CV, orientado a quien prioriza agilidad sobre filtraje. El <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Urus SE</a> parte de 265.895 €, suma 800 CV, declara 3,4 s, 312 km/h y 60 km eléctricos, aunque su maletero cae a 454 litros. Entre ambos, el S conserva sencillez mecánica relativa dentro de lo estratosférico y el mayor maletero, empatado con el Performante. Y cuando termines de comparar toros, cambia de registro probando nuestro <a href=/juego-monos/>juego caza-monos</a>, que se oculta por las páginas de la web.
+
+**Veredicto:** merece la pena si buscas el Urus de gasolina más equilibrado para viajar rápido con familia y equipaje, aceptando etiqueta C y gastos acordes a su peso. No encaja si necesitas ventajas de etiqueta CERO, uso urbano intensivo o la experiencia más radical de la gama: para lo primero manda el SE; para lo último, el Performante.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Urus S nuevo?
@@ -440,7 +476,7 @@ Homologa **14,1 l/100 km** y 320 g/km de CO₂ en ciclo WLTP (km77).
 
 Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>precio y ficha en km77</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>versiones del Urus en flexicar</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>precio y ficha en km77</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>versiones del Urus en flexicar</a>., <a href=https://www.lamborghini.com/en-en/models/urus/urus-s>Lamborghini, Urus S</a>*`
   },
   {
     "title": "Lamborghini Huracán Tecnica: precio y ficha 2024",
@@ -717,7 +753,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan evo 639 cv",
       "lamborghini huracan 2024"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO naranja en carretera de montaña>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-2024-precio-ficha-tecnica/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO naranja en carretera de montaña>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -769,6 +805,49 @@ De ocasión, el EVO es el Huracán con mejor relación precio/prestaciones. <a h
 | 249.826 €: el coupé más barato de la gama | Maletero de solo 100 l |
 | LDVI y modos Strada/Sport/Corsa | El Temerario lo releva |
 
+## Un V10 atmosférico despidiéndose sin turbo ni enchufe
+
+Cuando Lamborghini cerró la producción del Huracán en 2024, se apagó su último V10 atmosférico en configuración clásica. El EVO resume esa etapa final: 5.204 cm³ sin sobrealimentación y la electrónica más elaborada de la familia. Su sustituto juega otra partida, porque el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a> recurre a un V8 biturbo híbrido enchufable. Quien valore respuesta inmediata y banda sonora encontrará aquí un carácter difícil de repetir. La marca ya lo conserva en su archivo, en <a href=https://www.lamborghini.com/es-en/historia/huracan-evo>la página oficial del Huracán EVO</a>.
+
+## Qué hace distinto al sistema LDVI
+
+La novedad profunda no está en estirar caballos, sino en anticiparse. Según Lamborghini, el LDVI pasa de reaccionar a prever: lee maniobras, entorno y modo elegido, y coordina tracción, reparto de par y eje trasero direccional. A baja velocidad ese eje gira contra el delantero acortando virtualmente la batalla; a alta velocidad gira en paralelo buscando aplomo. La aerodinámica suma con un splitter de doble paso y deflectores que multiplican por cinco la carga respecto al Huracán anterior.
+
+| Elemento | Cómo interviene |
+|---|---|
+| **Motor** | V10 5.2 atmosférico, 639 CV y 600 Nm |
+| **Cambio** | Doble embrague LDF de 7 velocidades |
+| **LDVI** | Coordina par, tracción y dirección trasera |
+| **Modos** | Strada, Sport y Corsa |
+| **Interior** | Piel, Alcantara y Carbon Skin® según acabado |
+
+El detalle queda en la <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>ficha técnica del Huracán EVO</a>, con precio, medidas y equipamiento.
+
+## Uso real: rapidísimo fuera, estrecho dentro
+
+Su hábitat convincente es carretera despejada o circuito, no la compra semanal. El maletero delantero se queda en 100 litros, la altura de solo 1.165 mm obliga a negociar badenes con calma y la visibilidad trasera nunca será su virtud. A cambio, la tracción total aporta una salida de curva limpia incluso con asfalto frío, algo que el EVO RWD no regala con igual facilidad. Es un coche de disfrute programado: se saca para conducirlo, no para resolver recados.
+
+## Mantenimiento y costes sin maquillaje
+
+No publicamos una cifra de revisión porque ni el post ni la ficha aportan tarifa cerrada, y en un superdeportivo depende de año, kilometraje, historial y taller. Lo verificable es otro plano: consumo WLTP de 13,7 l/100 km, neumáticos de medidas muy específicas, intervenciones que piden red oficial o especialista con utillaje de la marca y un seguro acorde a un coche de 249.826 €. Antes de comprar de ocasión, exige historial documentado e inspección previa; ahorrar ahí suele salir carísimo.
+
+## Etiqueta C: qué implica hoy para este Lamborghini
+
+Al ser gasolina puro sin hibridación, el EVO luce etiqueta **C**, como recoge su ficha. Eso lo deja en desventaja frente a un ECO o un Cero cuando una zona de bajas emisiones endurece criterios de acceso o aparcamiento. No queda fuera de todas las ciudades, pero su margen futuro es menor y conviene comprobar la ordenanza municipal antes de planificar un uso urbano habitual. Para salidas ocasionales, ese condicionante pesa muchísimo menos.
+
+## Frente a Tecnica, STO y Temerario
+
+| Modelo | Precio | Potencia | 0-100 km/h |
+|---|---|---|---|
+| **Huracán EVO** | 249.826 € | 639 CV | 2,9 s |
+| <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> | 262.042 € | 640 CV | 3,2 s |
+| <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> | 338.577 € | 640 CV | 3,0 s |
+| <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a> | 350.782 € | 920 CV | 2,7 s |
+
+El Tecnica afila la propuesta con tracción trasera, el STO cobra su enfoque radical con un maletero de apenas 38 litros y el Temerario cambia de era con 920 CV híbridos. Entre comparativa y comparativa, también puedes rastrear el toro escondido en nuestro <a href=/juego-monos/>juego caza-monos</a> desperdigado por la web.
+
+**Veredicto:** merece la pena para quien busque el Huracán más equilibrado y quiera conservar el V10 atmosférico con tracción total utilizable en carretera. No es compra sensata para uso urbano frecuente, presupuestos de mantenimiento ajustados ni quien necesite etiqueta ECO: ahí ni su precio de ocasión ni su etiqueta C juegan a favor.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán EVO nuevo?
@@ -791,7 +870,7 @@ El <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini 
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>., <a href=https://www.lamborghini.com/es-en/historia/huracan-evo>Lamborghini, historia del Huracán EVO</a>*`
   },
   {
     "title": "Huracán EVO RWD: precio y ficha del tracción trasera",
@@ -806,7 +885,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan traccion trasera ficha",
       "lamborghini huracan rwd 610 cv"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD azul en carretera secundaria>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-interior-oficial.webp alt=Lamborghini Huracán EVO RWD azul en carretera secundaria>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO RWD</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -847,6 +926,43 @@ Con 3,3 s de 0-100 sigue siendo rapidísimo, y el V10 a 8.500 rpm suena igual de
 | Más ligero que el EVO | 13,8 l/100 km |
 | El más divertido de conducir | Relevado por el Temerario |
 
+## El último V10: por qué el EVO RWD ya es pieza de época
+
+El Huracán cerró una era en Lamborghini: la del **V10 atmosférico** sin electrificación, relevada por el Temerario según el propio análisis. La gama histórica y actual de la marca se presenta en la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>. Dentro de esa despedida, el EVO RWD era la versión purista y, a la vez, la más barata: **216.444 €** en España según km77. Su producción terminó en **2024**, así que hoy se valora como ocasión especial: el Huracán que eligió diversión trasera frente a eficacia total.
+
+## La técnica: 610 CV a un solo eje, con cabeza electrónica
+
+| Dato | Lamborghini Huracán EVO RWD |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 610 CV · 560 Nm |
+| Tracción | Trasera |
+| 0-100 km/h | 3,3 s |
+| Velocidad máxima | 325 km/h |
+| Consumo WLTP | 13,8 l/100 km |
+| Maletero | 100 l |
+| Precio en España | 216.444 € |
+
+Enviar **610 CV** solo atrás exige algo más que valentía: exige la electrónica de la familia EVO calibrada para permitir deslizamientos controlados, especialmente en modo Sport, como describe el análisis original. El resultado es un coche **más ligero** que el EVO de tracción total y **0,4 s más lento** en el 0-100 —3,3 frente a 2,9 s— por pura física de tracción en la salida. A **325 km/h** y con el V10 girando a **8.500 rpm**, la diferencia de décimas se olvida; la de carácter, no.
+
+## Uso real: se conduce los días buenos, se guarda los demás
+
+Su uso real es el de un superdeportivo de ocasión especial: salidas de fin de semana, rutas de curvas y eventos. Con **100 litros** de maletero, etiqueta C y un consumo de **13,8 l/100 km** homologado que en uso alegre será otro, no pretende ser otra cosa. En mojado exige las manos que su ficha reclama sin eufemismos. Quien lo compre como inversión emocional debe aceptar que su valor dependerá de kilómetros, historial y originalidad, no solo del escudo. Puedes cruzarlo con otros superdeportivos en el <a href=/comparador-coches/>comparador de coches</a> y pasar el rato con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: la red oficial es parte del precio
+
+Lamborghini no publica tarifas cerradas del Huracán que podamos citar, y no las inventamos. Lo verificable es el marco de un V10 atmosférico de 610 CV mantenido en la red oficial: revisiones especializadas, neumáticos traseros que digieren 560 Nm y frenos a la altura de 325 km/h. En un coche fuera de producción desde 2024, el historial completo en servicio oficial será el factor que separe una buena unidad de un problema caro, y debe exigirse documentado antes que cualquier rebaja.
+
+## Normativa: etiqueta C y seguridad sin ensayo Euro NCAP
+
+El EVO RWD lleva **etiqueta C**, como todo Huracán de gasolina según su FAQ, con las limitaciones crecientes de ese distintivo en las ZBE más estrictas. Seguirá el calendario ordinario de ITV. En seguridad no consta evaluación Euro NCAP de los superdeportivos de tirada limitada como este, y no le atribuimos estrellas: el organismo puede consultarse en <a href=https://www.euroncap.com>Euro NCAP</a>, pero la ausencia de ensayo es el dato, y en esta clase de coche es lo habitual, no una carencia escondida.
+
+## Frente al EVO de tracción total: veredicto
+
+Su único rival que importa es su hermano, el <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Lamborghini Huracán EVO</a> de tracción total: 29 CV más según la FAQ del análisis, 2,9 s en el 0-100 y una eficacia en cualquier firme que el RWD no busca. El RWD respondía con menos peso, dirección más comunicativa y el precio más bajo de la gama final. En ocasión, esa pureza es precisamente lo que muchos compradores de V10 buscan ahora que ya no se fabrica ninguno.
+
+**¿Merece la pena?** Como superdeportivo para conducir, es el Huracán con más carácter por euro de su gama. **Para quién sí:** para el purista de la tracción trasera que usará el coche en seco y con cabeza. **Para quién no:** para quien quiera la máxima eficacia en cualquier clima: ese era el EVO integral.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán EVO RWD?
@@ -869,7 +985,7 @@ No: la producción terminó en 2024. Solo ocasión.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`
   },
   {
     "title": "Huracán EVO RWD Spyder: precio, ficha y vídeo",
@@ -884,7 +1000,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "huracan spyder traccion trasera",
       "lamborghini descapotable 2024"
     ],
-    "content": `<img src=/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD Spyder descapotado en costa>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD Spyder descapotado en costa>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ver ficha técnica del EVO RWD Spyder</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -924,6 +1040,44 @@ En vídeo: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba del Hurac�
 | Tracción trasera: el más divertido | 13,9 l/100 km |
 | Luneta practicable con capota puesta | Más ruido aerodinámico con capota |
 
+## El último de una estirpe: adiós al V10 atmosférico
+
+El Huracán cerró su producción en 2024 tras una década como el Lamborghini de acceso, y el EVO RWD Spyder es una de sus versiones más especiales: la descapotable de tracción trasera, la que la propia marca orientó al disfrute por encima del cronómetro. Toda la gama puede repasarse en la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>, donde su sucesor ya ocupa el catálogo: el Temerario, con un V8 biturbo que sube a 10.000 rpm. Ese cambio de motor marca la frontera entre dos eras, y convierte a este Spyder en algo más que un coche usado caro: es uno de los últimos descapotables con un V10 atmosférico de gran cilindrada.
+
+## La técnica: 610 CV solo al eje trasero
+
+| Dato | Lamborghini Huracán EVO RWD Spyder |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 610 CV / 560 Nm |
+| Tracción | Trasera |
+| 0-100 km/h | 3,5 s |
+| Velocidad máxima | 324 km/h |
+| Consumo WLTP | 13,9 l/100 km |
+| Capota | Plegado en 17 s, en marcha hasta 50 km/h |
+| Precio en España | 238.700 € (km77) |
+| Etiqueta DGT | C |
+
+Que el RWD sea el Huracán más lento de la gama EVO (3,5 s en el 0-100) es casi una declaración de intenciones: renuncia a 30 CV y a la tracción total del EVO Spyder a cambio de un tren delantero más ligero y comunicativo y un eje trasero que acepta jugar. La capota de lona, que se pliega en **17 segundos** y puede accionarse en marcha hasta 50 km/h, y la luneta trasera practicable, que deja pasar el sonido del V10 incluso con el techo puesto, completan un coche pensado para la carretera de costa, no para el circuito. Sus 13,9 l/100 km homologados recuerdan que la eficiencia nunca fue el tema.
+
+## Uso real: el descapotable de los domingos perfectos
+
+El EVO RWD Spyder es un coche de ocasión especial: asfalto seco, carretera secundaria y techo abajo. Como coche de diario acumula los peajes de su especie (visibilidad con la capota puesta, maletero simbólico, atención permanente de miradas y móviles) y un consumo real que en uso alegre superará con holgura el homologado. Su valor, sin embargo, juega ya en otra liga: la producción ha terminado, no habrá más V10 nuevos de esta clase, y las unidades con tracción trasera y techo abierto son exactamente las que el coleccionismo premia. Puedes ver hacia dónde va la marca en la ficha del <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a> y entretener la espera del buen tiempo con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: la factura de un V10
+
+Lamborghini no publica tarifas cerradas de mantenimiento del Huracán, y no las inventamos. Lo verificable es el nivel del coche: motor V10 de altas vueltas, cambio de doble embrague y una red oficial escasa en España implican revisiones y neumáticos en la franja alta del mercado, y cualquier comprador de ocasión debería exigir historial de mantenimiento oficial completo antes de mirar el precio. En un modelo ya fuera de producción, ese historial es además el principal argumento de valor futuro: un EVO RWD Spyder con sus revisiones selladas será siempre el que se venda primero.
+
+## Normativa: etiqueta C y un consumo de otra época
+
+El V10 atmosférico lleva **etiqueta C de la DGT**, que el post original ya señala: sin ventajas en las ZBE más restrictivas ni bonificaciones de los electrificados, y con el calendario de ITV ordinario de los turismos. Su homologación WLTP de 13,9 l/100 km lo sitúa en la franja alta del impuesto de matriculación en su día y en los tramos superiores del impuesto de circulación según el municipio. Es, normativamente, un coche de otra época, y parte de su encanto actual viene precisamente de ahí.
+
+## Frente al Temerario: el corazón contra la razón
+
+Su sucesor tiene ficha en esta casa: el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a> cuesta 350.782 €, rinde 920 CV, hace el 0-100 en 2,7 s y lleva etiqueta ECO de híbrido enchufable. Por cifras, el Temerario lo arrasa todo; por sonido, respuesta atmosférica y techo abierto con tracción trasera, el EVO RWD Spyder ofrece algo que el catálogo ya no vende. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a>.
+
+**¿Merece la pena?** Como compra nueva ya no existe; como ocasión, es de los Huracán con más personalidad y con un argumento de colección serio: último V10 atmosférico, descapotable y purista. **Para quién sí:** para quien busque sensaciones a cielo abierto y un activo con historia completa. **Para quién no:** para quien quiera lo último y lo más rápido con garantía de fábrica: eso hoy se llama Temerario.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el EVO RWD Spyder?
@@ -946,7 +1100,7 @@ Sí: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba en vídeo de coc
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>vídeo de coches.net</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>vídeo de coches.net</a>., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Lamborghini Urus SE Performante: 812 CV PHEV",
@@ -962,7 +1116,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "urus se performante ficha",
       "urus 812 cv"
     ],
-    "content": `<img src=/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE Performante en carretera de montaña>
+    "content": `<img src=/media/fotos-reales/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE Performante en carretera de montaña>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ver ficha técnica del Urus SE Performante</a>: potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1003,6 +1157,39 @@ El contrapeso: 2.473 kg. La prensa especializada (auto10, soymotor, autoscout24)
 | 1.000 Nm de par combinado | Datos WLTP sin publicar |
 | Circuito y ciudad en un coche | Mantenimiento híbrido más caro |
 
+## De dónde viene: el Urus que lo cambió todo en Sant'Agata
+
+El Urus original demostró que un SUV podía ser el Lamborghini más vendido sin dejar de ser un Lamborghini, y la familia ha ido escalando desde entonces: primero el Performante de gasolina, después el SE como primer híbrido enchufable de la casa y ahora este SE Performante, que combina ambas recetas. La propia marca lo presenta en su <a href=https://www.lamborghini.com/en-en/models/urus/urus-se-performante>página oficial del Urus SE Performante</a> como la cumbre del Super SUV enchufable, con **812 CV** y un trabajo específico de aerodinámica y dinámica. No es una edición cosmética: es la respuesta de Sant'Agata a quien pedía el tacto del Performante sin renunciar a la etiqueta Cero del SE.
+
+## Profundidad técnica: carbono, modo Rally y 1.000 Nm
+
+La base es conocida: V8 biturbo de 4.0 litros apoyado por un motor eléctrico y una batería de **25,9 kWh**, con tracción total y cambio automático. Sobre ella, la puesta a punto Performante añade elementos de fibra de carbono para contener la masa, una aerodinámica revisada y un modo de conducción Rally pensado para superficies deslizantes, además del escape Akrapovič que la web oficial destaca en su equipamiento. El resultado son **812 CV, 1.000 Nm, 3,3 segundos en el 0-100 y 312 km/h**, cifras de superdeportivo en un SUV de 2.473 kg.
+
+| Dato clave | Urus SE Performante |
+|---|---|
+| Potencia combinada | 812 CV |
+| Par máximo | 1.000 Nm |
+| Batería | 25,9 kWh |
+| Autonomía eléctrica | Más de 60 km (aprox.) |
+| 0-100 km/h | 3,3 s |
+| Etiqueta DGT | Cero |
+
+La autonomía eléctrica anunciada, superior a 60 km, es la que le abre la puerta de la etiqueta Cero: el criterio general de la DGT para los enchufables exige superar los 40 km en modo eléctrico, y este Urus lo cumple con margen pese a su enfoque prestacional.
+
+## Uso real: superdeportivo de diario, con matices
+
+En ciudad puede moverse en eléctrico y acceder a las ZBE sin restricciones, algo impensable en un Lamborghini de hace una década. En carretera abierta, el V8 y los 1.000 Nm lo convierten en un devorador de autopista con plaza trasera y maletero utilizables a diario. Las limitaciones honestas también están claras: el peso se nota en frenadas y cambios de apoyo, el consumo del V8 cuando la batería se agota no será contenido, y ni el precio —aún sin anunciar— ni el mantenimiento estarán al alcance de cualquiera. En seguridad, **sin datos Euro NCAP**: el Urus no consta evaluado por el organismo europeo, y no hay que dar por supuesta ninguna nota.
+
+## Mantenimiento, costes e ITV
+
+Un PHEV de este nivel exige red oficial y recambios específicos: al tren motriz térmico se suma el sistema de alta tensión, y elementos como frenos o neumáticos se dimensionan para 812 CV y casi dos toneladas y media. Sin un plan de precios públicos en España, lo prudente es presupuestar el mantenimiento en la parte alta del segmento y conservar el historial oficial de cara al valor residual. Como turismo, sigue el calendario general de ITV en España y, con etiqueta Cero, disfruta de las ventajas de acceso y aparcamiento que cada municipio otorgue a ese distintivo.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Frente a él, el <a href=/coches/ferrari-purosangue-2025-precio-ficha-tecnica/>Ferrari Purosangue</a> juega la carta del V12 atmosférico de 725 CV y un precio de 495.000 € según su ficha en este sitio: es la opción emocional, pero sin enchufe ni etiqueta Cero. El <a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Porsche Cayenne</a> parte de 118.067 € con 354 CV en su versión de acceso: mucho más asequible y racional, pero en otra liga prestacional. El Urus SE Performante queda en un territorio propio: prestaciones de superdeportivo, uso eléctrico urbano y formato SUV familiar.
+
+**Veredicto:** merece la pena para quien quiere el SUV más completo y potente de Sant'Agata y valora circular en eléctrico por la ciudad sin renunciar al V8. No es para quien busque ligereza, discreción o un coste de uso sensato: para eso están el SE estándar o rivales más terrenales. Y entre curva y curva, recuerda que en esta web también puedes echar una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos caballos tiene el Urus SE Performante?
@@ -1025,7 +1212,7 @@ Añade la puesta a punto Performante (chasis, aerodinámica y estética más agr
 
 Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: presentación cubierta por auto10, soymotor y autoscout24 (julio 2026).*`
+*Fuentes: presentación cubierta por auto10, soymotor y autoscout24 (julio 2026). <a href=https://www.lamborghini.com/en-en/models/urus/urus-se-performante>Lamborghini — Urus SE Performante (web oficial)</a>*`
   },
   {
     "title": "Huracán STJ: el último Huracán, 10 unidades",
@@ -1079,6 +1266,43 @@ Con solo 10 unidades, su valor de reventa está blindado: es una pieza de museo 
 | Alerón de carbono específico | Etiqueta C |
 | Valor de colección blindado | Mantenimiento de serie limitadísima |
 
+## Contexto: el punto final de una década de V10
+
+El Huracán ha sido durante una década el modelo central de Lamborghini, y el STJ es su despedida oficial: la marca lo presentó como el último Huracán de producción, con las siglas de Super Trofeo Jota en homenaje a su campeonato monomarca, como recoge la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a> al repasar la gama. Solo se fabricaron **10 unidades** numeradas sobre la base del STO, agotadas desde su presentación. Su sucesor en la gama ya no es un V10 atmosférico puro, y eso convierte al STJ en el cierre de una era mecánica completa para Sant'Agata Bolognese: después de él, ningún Lamborghini de serie volverá a sonar así sin ayuda eléctrica.
+
+## Profundidad técnica: aerodinámica y chasis, no más potencia
+
+La ficha de este artículo lo deja claro: el V10 5.2 atmosférico mantiene **640 CV y 565 Nm** con tracción trasera y un 0-100 en torno a **3,0 s**. La evolución está en otro sitio: un alerón trasero de carbono específico con mayor ángulo y nuevos deflectores delanteros que, según declara la propia marca, aumentan la carga aerodinámica alrededor de un 10 % frente al STO y recortan cerca de un segundo por vuelta en el circuito de manejo de Nardò. Suma amortiguadores regulables de tipo competición y neumáticos específicos: el STJ no es más rápido en línea recta, es más fino en curva.
+
+| Dato | Valor del post |
+|---|---|
+| Motor | V10 5.2 atmosférico |
+| Potencia | 640 CV (565 Nm) |
+| Tracción | Trasera |
+| Unidades | 10 numeradas |
+
+## Uso real: coche de circuito y de colección
+
+Su uso real es doble y ninguno es el diario: jornadas de circuito, donde su aerodinámica y su chasis regulable tienen sentido, y custodia como pieza de colección, porque 10 unidades con el título de «último Huracán» blindan su valor como ya apunta el artículo original. En ciudad es, por enfoque, incómodo y delicado, y su **etiqueta C** —la que corresponde según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>— le cierra los privilegios de las zonas de bajas emisiones.
+
+## Mantenimiento y costes de uso
+
+Lamborghini no publica una tabla pública de mantenimiento para una serie de 10 unidades, y no la vamos a inventar. Lo verificable es el contexto: un V10 atmosférico de altas vueltas con componentes de carbono y frenos de competición se mantiene en la red oficial, y el historial completo documentado por la marca es exactamente lo que sostendrá su cotización en el mercado secundario, donde ya se mueve muy por encima de cualquier precio de tarifa.
+
+## Normativa: etiqueta C e ITV ordinaria
+
+El STJ es un coche homologado para carretera con **etiqueta C**, sujeto a la ITV periódica de cualquier turismo según su antigüedad y conducible con el permiso B. Ninguna norma especial lo protege ni lo persigue: su rareza es comercial, no legal.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su comparación natural es su propio donante, el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a>, y su relevo en la gama es el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, ya en otra filosofía mecánica, con el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Revuelto</a> como techo de la casa. Compáralos en el <a href=/comparador-coches/>comparador de coches</a> y tómate un respiro con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Como coche, el STO ofrece el 95 % de la experiencia por una fracción de su cotización actual. Como objeto histórico —el último V10 atmosférico de Lamborghini, en 10 unidades—, el STJ merece la pena para el coleccionista que lo compró nuevo; en el mercado secundario, su precio ya paga la historia, no las prestaciones.
+
+## Dos libreas y detalles de coche de carreras
+
+La presentación del STJ, según recogió la prensa especializada del lanzamiento, lo ofreció en dos libreas de inspiración deportiva: Blu Eliadi con detalles rojos y blancos, y Grigio Telesto con la misma combinación de acentos. No son colores decorativos: son los códigos visuales de los coches del Super Trofeo trasladados al coche de calle. El paquete se completa con llantas de 20 pulgadas de **tuerca central** —como las de un coche de carreras, de una sola tuerca por rueda— calzadas con neumáticos Bridgestone Potenza Race desarrollados para el modelo, y con la placa numerada que identifica cada una de las 10 unidades. Son detalles que no mejoran la ficha en un banco de potencia, pero que en un coche de despedida pesan tanto como los caballos: son la firma de que Sant'Agata quiso cerrar la saga Huracán con un objeto de colección pensado hasta en la tuerca, y no con una simple edición con adhesivos. Para el comprador de una de estas unidades, esa autenticidad de competición es exactamente lo que está pagando.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántas unidades del Huracán STJ existen?
@@ -1101,7 +1325,7 @@ Unos **3,0 s** (aprox.), como el STO.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de motor.com.co y lubri-press.*`
+*Fuentes: cobertura de motor.com.co y lubri-press. <a href=https://www.lamborghini.com>Automobili Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
   {
     "title": "Huracán Sterrato: precio y ficha del todoterreno",
@@ -1116,7 +1340,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
       "lamborghini sterrato ficha",
       "huracan todoterreno 610 cv"
     ],
-    "content": `<img src=/media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Sterrato derrapando en pista de tierra>
+    "content": `<img src=/media/fotos-reales/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Sterrato derrapando en pista de tierra>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán Sterrato</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1156,6 +1380,45 @@ Es el Huracán más singular y uno de los más cotizados de ocasión. Lleva etiq
 | 610 CV con tracción total | Etiqueta C |
 | Diversión fuera del asfalto | Uso off-road real limitado |
 
+## Sterrato: cuando Lamborghini decidió que el asfalto era opcional
+
+El Huracán Sterrato, presentado en **Art Basel Miami el 30 de noviembre de 2022** según la propia marca, es el primer superdeportivo todoterreno con motor V10 y tracción total, en palabras de <a href=https://www.lamborghini.com/en-en/history/huracan-sterrato>la página oficial del Sterrato en Lamborghini.com</a>. La idea venía de un concept de 2019 que parecía un ejercicio de estilo, y acabó en una serie limitada de **1.499 unidades** que cerró la saga del Huracán de combustión pura. Su nombre lo dice en italiano: *sterrato* es el camino de tierra, el firme que ningún Lamborghini de serie había pisado antes.
+
+## Técnica: 44 milímetros que cambian un superdeportivo
+
+| Dato oficial | Huracán Sterrato |
+|---|---|
+| Motor | V10 5.2 atmosférico, 610 CV (449 kW) |
+| Par | 565 Nm |
+| Altura libre | +44 mm frente al Huracán EVO |
+| 0-100 km/h | 3,4 s |
+| Velocidad máxima | 260 km/h (limitada por los neumáticos) |
+| Modos | Strada, Sport y Rally (nuevo, para baja adherencia) |
+| Sistema | LDVI con calibraciones específicas |
+| Consumo WLTP | 14,9 l/100 km |
+| CO2 WLTP | 337 g/km |
+| Precio en España | 299.515 € (según km77) |
+
+La marca detalla en su página oficial las claves: carrocería **44 mm más alta** que la del Huracán EVO para dar recorrido a la suspensión, vías ensanchadas, protección delantera de bajos, estribos y pasos de rueda reforzados, y una versión específica del **LDVI** —el cerebro dinámico del Huracán— con calibraciones de Strada y Sport propias y el nuevo modo **Rally** para superficies de baja adherencia. Los neumáticos todoterreno de tacos son los que fijan el límite de **260 km/h**: todo en este coche es un compromiso deliberado entre el circuito y la pista de tierra, y ese compromiso es exactamente el producto.
+
+## Uso real: diversión fuera del asfalto, teatro dentro de él
+
+El Sterrato no es un todoterreno —la FAQ de este post lo deja claro— y usarlo como un 4x4 sería no entenderlo: es un superdeportivo que puede seguir por una pista de grava, derrapar en tierra y llegar a la Era del evento de coches de campo sin llamar a una grúa. En asfalto conserva el V10 atmosférico de **610 CV** con su banda sonora, y paga el peaje de los neumáticos mixtos en agarre y velocidad punta. Con la producción terminada y **1.499 unidades**, su vida real hoy es la del mercado de ocasión cotizado que ya detecta el post original: se compra como pieza de colección usable, no como transporte.
+
+## Mantenimiento: V10 atmosférico en red oficial
+
+No publicamos costes porque Lamborghini no publica tarifas abiertas, y un **V10 5.2 atmosférico** de serie limitada se mantiene donde debe: en la red oficial de la marca, con el programa de mantenimiento programado de la casa y recambios de tirada corta. Lo verificable es el planteamiento de compra: en un Sterrato de ocasión, el historial oficial completo y el estado de protecciones, bajos y neumáticos específicos —su elemento diferencial— valen más que el kilometraje en la decisión. El consumo oficial de **14,9 l/100 km WLTP** completa el retrato de costes: es un V10, y se disfruta como tal.
+
+## Normativa: etiqueta C y faros que no en todos los mercados son legales
+
+El Sterrato lleva **etiqueta C de la DGT**, como recoge su ficha: 337 g/km de CO2 WLTP lo sitúan en el extremo del arco de emisiones europeo. Un detalle normativo curioso que la propia página oficial de la marca advierte: los **faros delanteros adicionales** del frontal no están homologados para uso en vía pública en todos los mercados, así que su empleo depende de la regulación de cada país. En España, como coche matriculado de serie limitada, su régimen es el de cualquier superdeportivo: ITV periódica y las restricciones de las ZBE propias de su etiqueta.
+
+## Frente al Huracán Tecnica, al STO y al 911 Dakar: veredicto
+
+Dentro de la familia, el <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> es la elección de asfalto y el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> la de circuito; el Sterrato no compite con ninguno: compite con la idea de que un superdeportivo solo sirve en carreteras perfectas. Su único rival conceptual fuera de casa es el Porsche 911 Dakar, con la misma filosofía y otra ejecución. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a> y busca monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para el coleccionista que además quiere usar el coche: 1.499 unidades, el último V10 atmosférico y un concepto sin sucesor. **Para quién no:** para quien busque el Huracán más rápido en circuito o un todoterreno de verdad: el Sterrato es, deliberadamente, ninguna de las dos cosas.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto costaba el Huracán Sterrato?
@@ -1178,7 +1441,7 @@ No: la producción terminó. Solo ocasión.
 
 Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>.*`
+*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com/en-en/history/huracan-sterrato>Lamborghini (página oficial del Huracán Sterrato)</a>*`
   },
   {
     "title": "Countach LPI 800-4: precio y ficha técnica",
@@ -1235,6 +1498,44 @@ Las 112 unidades (por el nombre interno LP 112 del proyecto original) se agotaro
 | 2,8 s de 0-100 | Visibilidad trasera casi nula |
 | Etiqueta ECO | Mantenimiento de serie mínima |
 
+## 1971-2021: medio siglo de la cuña que lo cambió todo
+
+El Countach original, diseñado por Marcello Gandini en Bertone, definió el superdeportivo moderno: cuña afilada, puertas de tijera y un V12 detrás de los asientos. Cincuenta años después, Lamborghini lo reinterpretó con el LPI 800-4, un homenaje de serie limitadísima construido sobre la base híbrida del Sián y presentado en el configurador y el archivo de la <a href=https://www.lamborghini.com>web oficial de Lamborghini</a>. Las **112 unidades** no son un capricho comercial: remiten al código interno LP 112 del proyecto original, y se agotaron antes de la presentación pública. No es un coche de producción; es una pieza de colección que casualmente se puede conducir.
+
+## La técnica: V12 atmosférico y un supercondensador en vez de batería
+
+| Dato | Lamborghini Countach LPI 800-4 |
+|---|---|
+| Motor | V12 6.5 atmosférico + motor eléctrico 48 V |
+| Potencia combinada | 814 CV / 720 Nm |
+| 0-100 km/h | 2,8 s |
+| Velocidad máxima | 355 km/h |
+| Peso | 1.595 kg |
+| Tracción | Total |
+| Maletero | 63 l |
+| Etiqueta DGT | ECO |
+| Unidades | 112 |
+
+La solución híbrida es la parte técnicamente interesante: en lugar de una batería pesada, un **supercondensador** de 48 V alimenta el motor eléctrico integrado en el cambio. Pesa muy poco, entrega la ayuda de forma instantánea y permite que el conjunto se quede en 1.595 kg, una cifra notable para un V12 moderno con tracción total. El resultado son 814 CV con respuesta de atmosférico y, de regalo, la **etiqueta ECO** que el post original destaca: este icono de los setenta reinterpretado puede entrar en las ZBE que vetan a superdeportivos mucho más modestos.
+
+## Uso real: no está pensado para usarse, y ahí está su gracia
+
+Seamos honestos: nadie compra un LPI 800-4 para ir a trabajar. Su habitáculo es estrecho, la visibilidad trasera es casi nula, el maletero de 63 l admite poco más que una bolsa blanda y cada kilómetro suma o resta valor según el mercado de colección. Su uso real es el de los eventos, las concentraciones y la contemplación en el garaje, y en ese uso es imbatible: ningún Lamborghini moderno concentra tanta historia por centímetro. Quien busque un V12 para viajar tiene en la gama actual opciones más racionales; quien busque el Countach, solo tiene este, y ya no se vende nuevo. Mientras tanto, nuestro <a href=/juego-monos/>juego caza-monos</a> es gratis y no se agota.
+
+## Mantenimiento y costes: territorio de servicio oficial
+
+Lamborghini no publica tarifas de mantenimiento del LPI 800-4, y sería temerario inventarlas. Lo verificable es el marco: un V12 de serie limitada con tecnología de supercondensador solo admite servicio en la red oficial de la marca, cualquier intervención mayor exige técnicos y piezas de Sant'Agata, y el seguro y el almacenamiento climatizado forman parte del coste real de propiedad de un coche de unos 2,4 millones. En este nivel, el mantenimiento no se presupuesta: se asume como parte del ritual de conservar una obra de arte con motor.
+
+## Normativa: serie limitada, etiqueta ECO y matrícula histórica en el futuro
+
+Aunque su motor es un V12 atmosférico, la hibridación ligera de 48 V le vale el **distintivo ECO**, con el acceso a zonas de bajas emisiones que ello implica. Como serie especial homologada por su fabricante, circula con matrícula ordinaria; con el paso de las décadas podrá optar a la consideración de vehículo histórico según la normativa española de cada momento, el destino natural de las 112 unidades supervivientes. Sus cifras de consumo y emisiones quedan fuera de cualquier lógica regulatoria: es, literalmente, una excepción con ruedas.
+
+## Frente al Revuelto: el presente contra el mito
+
+El heredero de la saga V12 tiene ficha en esta casa: el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Lamborghini Revuelto</a> cuesta 573.327 €, rinde 1.015 CV con tres motores eléctricos, hace el 0-100 en 2,5 s y mantiene la etiqueta ECO. Es más rápido, más moderno y cuesta una cuarta parte que un LPI 800-4, y sin embargo no es un Countach. Ahí se acaba la comparativa racional: el Revuelto (y el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, 920 CV) son coches; el LPI 800-4 es un monumento con 112 ejemplares.
+
+**¿Merece la pena?** La pregunta no aplica en términos de transporte: como inversión y como homenaje, su trayectoria en subasta por encima del precio original, que ya señala el post, habla sola. **Para quién sí:** para el coleccionista que quiera el V12 de homenaje definitivo con la silueta del Countach. **Para quién no:** para cualquiera que busque prestaciones por euro o un coche para usar a diario: por ese dinero hay cuatro Revuelto y sobra para el garaje.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Countach LPI 800-4?
@@ -1257,7 +1558,7 @@ Por el código interno **LP 112** del Countach original de los 70.
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de italpassion, revistacar y auto10.*`
+*Fuentes: cobertura de italpassion, revistacar y auto10., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Lamborghini Fenomeno: 1.080 CV, precio y ficha",
@@ -1272,7 +1573,7 @@ Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.on
       "fenomeno 1080 cv ficha",
       "lamborghini fenomeno 2025"
     ],
-    "content": `<img src=/media/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno negro en circuito nocturno>
+    "content": `<img src=/media/fotos-reales/lamborghini-fenomeno-2025-precio-ficha-tecnica/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno negro en circuito nocturno>
 
 **¿Buscas solo los datos?** <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ver ficha técnica del Fenomeno</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1313,6 +1614,46 @@ Las 29 unidades se asignaron a los mejores clientes de la marca antes de la pres
 | 2,4 s de 0-100 | 1.771 kg |
 | Presentado en agosto de 2025 | Entregas desde 2026 |
 
+## Fenomeno: la serie limitada que corona la era del Revuelto
+
+Lamborghini reserva sus creaciones más extremas para series limitadísimas que la casa presenta como escaparate de lo que Sant'Agata Bolognese es capaz de hacer, y el **Fenomeno** es la de esta generación: se presentó el **16 de agosto de 2025** y sus **29 unidades** se asignaron a los mejores clientes de la marca antes de la presentación pública, como recoge el análisis original. La gama y el mundo de la casa pueden consultarse en la <a href=https://www.lamborghini.com/>web oficial de Lamborghini</a>. Su base conceptual es la receta del Revuelto llevada al extremo, y su nombre, como el de tantos toros y fenómenos de la casa, ya anuncia que no es un coche de producción normal.
+
+## Técnica: el V12 atmosférico más potente de la casa, electrificado
+
+| Dato | Lamborghini Fenomeno |
+|---|---|
+| Motor | V12 atmosférico de 6,5 litros y 3 motores eléctricos (PHEV) |
+| Potencia del V12 | 835 CV |
+| Potencia combinada | 1.080 CV (725 Nm) |
+| Batería | 7 kWh (unos 20 km eléctricos) |
+| Tracción | Total |
+| 0-100 km/h | 2,4 s |
+| Velocidad máxima | 350 km/h |
+| Peso | 1.771 kg |
+| Unidades | 29 coupés (más 15 roadster) |
+| Precio aproximado | Unos 3 millones de euros |
+| Etiqueta DGT | ECO |
+
+El V12 de **835 CV** es, según el propio post, el atmosférico más potente jamás construido por Lamborghini, y los tres motores eléctricos elevan el conjunto a **1.080 CV**, la cifra más alta de la historia de la marca. La batería de solo **7 kWh** y unos 20 km eléctricos delata la intención: la electrificación aquí no busca eficiencia, busca respuesta instantánea y tracción total. El resultado son **2,4 segundos** de 0 a 100 y 350 km/h, con un peso de 1.771 kg que recuerda el peaje físico de combinar un V12 grande con tres motores eléctricos.
+
+## Uso real: pieza de colección entregada desde 2026
+
+Las entregas arrancan en **2026** y las 29 unidades ya tienen dueño, así que el uso real del Fenomeno será el de los hiperdeportivos de este nivel: colección climatizada, eventos de marca y salidas contadas. También existe versión descapotable, el <a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Fenomeno Roadster</a>, con 15 unidades adicionales según la FAQ. Nada de esto convierte al coche en una maqueta: mecánicamente es un hiperdeportivo plenamente funcional, pero su escasez y su precio —unos **3 millones de euros** antes de impuestos y opciones— deciden su vida antes de que lo haga su primer propietario.
+
+## Mantenimiento: servicio oficial exclusivo, sin tarifas públicas
+
+Lamborghini no publica tarifas de mantenimiento del Fenomeno que se puedan reproducir con fuente, y no las inventamos: un coche de 29 unidades se mantiene en la red oficial de la marca, con la trazabilidad completa como condición para conservar su valor. En este nivel, lo que el propietario protege no es solo el coche, es su expediente: historial oficial, correspondencia de la unidad con los registros de la casa y conservación de su configuración original de entrega. Cualquier cifra concreta de revisiones sería especulación, y la especulación no tiene sitio en esta ficha.
+
+## Normativa: etiqueta ECO para un híbrido enchufable muy particular
+
+La ficha de este sitio asigna al Fenomeno la **etiqueta ECO de la DGT**, la que corresponde a su condición de híbrido según la clasificación española, pese a que su autonomía eléctrica de unos 20 km queda lejos de los umbrales que en otros segmentos dan acceso al distintivo Cero. Es una buena muestra de que la etiqueta resume una categoría administrativa, no el carácter del coche: nadie compra un Fenomeno por su etiqueta, pero quien lo matricule en España circulará con ese distintivo. El sistema de etiquetas puede consultarse en la <a href=https://www.dgt.es/>web oficial de la DGT</a>.
+
+## ¿Con qué compite un coche de 29 unidades? Veredicto
+
+El Fenomeno no compite en una tabla de rivales: compite en la memoria de la marca, como el Lamborghini más potente de su historia, y frente a los hiperdeportivos de serie limitada de las casas rivales, donde la moneda no es solo la potencia sino la escasez y la asignación. Dentro de su propia casa, su significado es cerrar por arriba la era abierta por el Revuelto con el V12 atmosférico definitivo. Puedes situar la gama de Sant'Agata en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** La pregunta no se le puede hacer al mercado, porque el mercado no puede comprarlo: estaba agotado antes de presentarse. **Para quién sí:** para los 29 clientes elegidos, que poseen el techo histórico de potencia de Lamborghini. **Para quién no:** para cualquier otro, por imposibilidad material: el Fenomeno se contempla, se estudia y se desea desde fuera, que también es parte de su función para la marca.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántos caballos tiene el Fenomeno?
@@ -1335,7 +1676,7 @@ El **16 de agosto de 2025**.
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de autocosmos y europacoche.*`
+*Fuentes: cobertura de autocosmos y europacoche., <a href=https://www.lamborghini.com/>Lamborghini (web oficial)</a>*`
   },
   {
     "title": "Fenomeno Roadster: 15 unidades, precio y ficha",
@@ -1389,6 +1730,40 @@ La asignación fue por invitación directa a coleccionistas. Lleva etiqueta **EC
 | Presentado en mayo de 2026 | Mantenimiento de pieza única |
 | El más exclusivo jamás hecho | Sin mercado secundario |
 
+## Contexto: la serie de los pocos, llevada al extremo
+
+Lamborghini reserva sus creaciones más radicales a series limitadísimas que la propia casa presenta en su <a href=https://www.lamborghini.com/en-en>web oficial</a> como escaparate de diseño y tecnología: coches que adelantan el lenguaje de los modelos de serie y que se asignan a coleccionistas antes de hacerse públicos. El Fenomeno coupé fue uno de ellos, con 29 unidades. Este Roadster, presentado en mayo de 2026 según el artículo, reduce aún más la tirada: **15 unidades** con techo desmontable. No es una versión más de un modelo de gama; es el cierre descapotable de un proyecto nacido ya como pieza de colección, y su precio ni siquiera se ha anunciado oficialmente: el post recoge los rumores que lo sitúan en torno a 7 millones de dólares, y conviene repetir que es eso, un rumor, no una cifra de la marca.
+
+## Profundidad técnica: el V12 híbrido, sin techo de por medio
+
+Los datos del artículo proceden del coupé que el Roadster hereda: V12 atmosférico de 6,5 litros con **835 CV**, tres motores eléctricos que elevan el total a **1.080 CV**, tracción total y **350 km/h** de velocidad máxima en la tabla de la ficha. La hibridación en un Lamborghini de este nivel no busca ahorrar combustible: busca respuesta inmediata, tracción gestionada electrónicamente y cumplir la normativa de emisiones sin renunciar al V12 atmosférico, que es el corazón emocional del coche. Quitar el techo en un conjunto así obliga a reforzar el monocasco de carbono para no perder rigidez, un trabajo invisible que explica parte del precio y de la limitación de la serie.
+
+| Lectura práctica | Dato del post |
+|---|---|
+| Potencia total | 1.080 CV |
+| Motor térmico | V12 6.5 atmosférico, 835 CV |
+| Apoyo eléctrico | 3 motores eléctricos |
+| Velocidad máxima | 350 km/h |
+| Producción | 15 unidades |
+
+## Uso real: colección primero, conducción después
+
+El uso real de un Fenomeno Roadster se parece poco al de cualquier otro descapotable: salidas contadas, eventos, concentraciones y custodia en colección climatizada. Con 1.080 CV y tracción total es, sobre el papel, utilizable en carretera abierta, pero su valor de mercado y su irrepetibilidad condicionan cada kilómetro. La limitación honesta es que ni siquiera cabe hablar de compra normal: la asignación fue por invitación directa a coleccionistas y está agotado. Para el resto, su función es la de siempre en estas series: mostrar hasta dónde puede llegar Sant'Agata cuando el precio deja de ser una restricción.
+
+## Mantenimiento y costes de uso
+
+No hay una tabla pública de mantenimiento para una serie de 15 unidades, y sería irresponsable inventarla. Lo verificable es el principio general de estos programas: el mantenimiento lo realiza la red oficial de la marca o sus especialistas certificados, con piezas específicas de muy baja tirada y revisiones programadas aunque el coche apenas ruede, porque los fluidos y los componentes también envejecen parados. En un coche así, el historial de mantenimiento oficial no es un gasto: es parte del valor del activo y de su futura reventa entre coleccionistas.
+
+## Normativa: etiqueta ECO y homologación de serie corta
+
+La ficha le asigna **etiqueta ECO**, coherente con su condición de híbrido enchufable según los criterios de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT</a>: una curiosidad normativa en un coche de 1.080 CV, que ilustra que el distintivo clasifica la tecnología, no las prestaciones. Las series tan cortas se homologan bajo regímenes de pequeña serie, y en España una unidad matriculada pasaría su ITV como cualquier turismo según su antigüedad. Se conduce con el permiso B, aunque sobra decir que la cabeza fría es aquí un equipamiento obligatorio.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Su rival natural es su propio hermano, el <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Fenomeno coupé</a>, y el resto de hiperdeportivos descapotables de serie ultracorta de las marcas italianas y británicas. Puedes seguir soñando en el <a href=/comparador-coches/>comparador de coches</a> y bajar a tierra con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Para quién sí: para los 15 coleccionistas invitados, que adquieren el Lamborghini descapotable más exclusivo jamás fabricado y una pieza con trayectoria de valor casi asegurada por su escasez. Para quién no: para cualquier otro perfil, por la sencilla razón de que no se puede comprar; y como ejercicio de conducción pura, el coupé ofrece lo mismo con más rigidez y por menos dinero teórico.
+
 ## Preguntas frecuentes
 
 ### ¿Cuántas unidades del Fenomeno Roadster existen?
@@ -1411,6 +1786,6 @@ El techo desmontable y una producción aún más limitada (15 frente a 29).
 
 Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: cobertura de italpassion y universomotor.*`
+*Fuentes: cobertura de italpassion y universomotor., <a href=https://www.lamborghini.com/en-en>Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
   },
 ];

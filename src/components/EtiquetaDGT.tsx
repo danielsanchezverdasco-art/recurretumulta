@@ -16,7 +16,8 @@ const ESTILOS: Record<
   Cero: {
     bg: "#0066cc",
     fg: "#ffffff",
-    texto: "0",
+    // 20/10/2026: el distintivo muestra «CERO», no «0» (revisión del borrador 2).
+    texto: "CERO",
     descripcion:
       "Etiqueta CERO de la DGT: vehículos de cero emisiones (eléctricos, pila de combustible). Acceso sin restricciones a las ZBE.",
   },

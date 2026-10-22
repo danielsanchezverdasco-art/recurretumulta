@@ -412,7 +412,7 @@ Hay motos racionales y luego está esto. La **Ducati Desmo450 SM** es la vuelta 
 - **Electrónica:** DTC con 4 niveles, Launch Control, control de freno motor, 2 Riding Modes
 - **Depósito:** 7,2 litros; asiento a 930 mm
 - **Precio España:** **13.990 €**; llegada en diciembre de 2026
-- **Fuentes:** <a href=https://soymotero.net/noticia/ducati-desmo450-sm-supermotard-lanzamiento/>soymotero.net</a> y <a href=https://lamoto.com.ar/noticias/ducati-desmo450-sm-2026-la-nueva-supermotard-llegara-a-europa/>lamoto.com.ar</a>
+- **Fuentes:** <a href=https://soymotero.net/noticia/ducati-desmo450-sm-supermotard-lanzamiento/>soymotero.net</a> y <a href=https://lamoto.com.ar/noticias/ducati-desmo450-sm-2026-la-nueva-supermotard-llegara-a-europa/>lamoto.com.ar</a>, <a href=https://www.ducati.com>web oficial de Ducati</a>
 
 ## Una SM de competición con matrícula
 
@@ -433,6 +433,47 @@ Ojo a la letra pequeña: el mantenimiento es de **competición pura** —aceite 
 <img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 SM 2026 tumbando en curva, foto oficial>
 
 Su rival natural es la **KTM 450 SMR**, la reina del segmento. La Ducati responde con el desmodrómico, mejor frenada de serie y una electrónica más refinada. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-sm-2026-precio-ficha-tecnica/>ficha de la Desmo450 SM</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>. Si prefieres el campo, su hermana es la <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a>; y para el asfalto diario, la <a href=/blog/ducati-monster-2026-quinta-generacion-precio-espana/>Monster 2026</a>.
+
+## De la MX al asfalto: por qué nace esta SM
+
+La Desmo450 SM no deriva de una naked reconvertida, sino del proyecto de motocross con el que Ducati regresó al barro. Borgo Panigale traslada ese monocilíndrico a un formato supermotard puro, con llanta delantera de 16,5 pulgadas, slicks Metzeler Racetec SM y geometría para derrapar sobre asfalto. Es la primera supermotard de serie de la plataforma Desmo450: una máquina de circuito homologada, con matrícula solo para enlazar pista y pista.
+
+## Desmo450 a fondo: cifras que importan
+
+El corazón es el monocilíndrico **Desmo450 de 449,6 cc** con distribución desmodrómica, firma histórica de Ducati en un solo cilindro de origen off-road. Entrega **63,5 CV a 9.400 rpm** y **53,5 Nm a 7.500 rpm**, con caja de solo **5 marchas**, Quick Shift en subida y embrague antirrebote **Suter**.
+
+| Dato | Desmo450 SM |
+|---|---|
+| Motor | Monocilíndrico Desmo450, 449,6 cc |
+| Potencia | 63,5 CV a 9.400 rpm |
+| Par | 53,5 Nm a 7.500 rpm |
+| Cambio | 5 marchas, Quick Shift subida |
+| Peso aproximado | 109 kg |
+| Freno delantero | Brembo Stylema, disco Galfer 310 mm |
+| Depósito / asiento | 7,2 litros / 930 mm |
+| Precio España | 13.990 € |
+
+La electrónica intenta domesticar ese carácter: **DTC con 4 niveles** que mide el deslizamiento real trasero, Launch Control, control de freno motor y **2 Riding Modes**. Cada partida figura en la <a href=/motos/ducati-desmo450-sm-2026-precio-ficha-tecnica/>ficha completa de la Desmo450 SM</a>.
+
+## Uso real: brillante en karting, incómoda fuera de ahí
+
+Donde cobra sentido es en un karting, un circuito ratonero o una carretera de montaña muy revirada. Ahí el peso pluma de unos **109 kg**, la frenada con bomba radial Brembo PR15x19 y la respuesta inmediata del mono permiten frenar tardísimo y salir cruzando sin velocidades ilegales.
+
+Fuera de ese hábitat aparecen límites honestos. El depósito de **7,2 litros** recorta cualquier escapada larga, el asiento a **930 mm** castiga en trayectos sostenidos y la autopista se vuelve un trámite ruidoso sin protección aerodinámica. Como segunda moto para tandas encaja; como única moto para todo, exige un propietario muy convencido.
+
+Entre sesiones, prueba a localizar monos ocultos en el <a href=/juego-monos/>juego caza-monos</a> imaginando la cruzada de esta 450 al salir de la chicane del karting con el Suter patinando.
+
+## Tenerla en casa: mantenimiento de carreras y carnet A
+
+Conviene repetir lo que ya advierte el análisis: aceite cada **15 horas**, holgura de válvulas y pistón cada **45 horas** y revisión completa del motor cada **90 horas**. Son intervalos de propulsor de competición, que cuenta su vida en horas y no en kilómetros. El módulo opcional Com-Link vigila el desgaste según el uso, pero no abarata esas operaciones: presupuesta mano de obra especializada, recambios y slicks como parte de la compra.
+
+En normativa no hay ambigüedad. Con **63,5 CV** supera el techo del permiso A2, así que legalmente exige el **carnet A**. Homologada para calle no significa progresiva ni recomendable para estrenar permiso.
+
+## Frente a sus rivales y veredicto
+
+Su espejo natural sigue siendo la KTM 450 SMR citada al principio, referencia histórica del supermotard de competición. En clave más callejera, dos contrastes útiles tienen ficha propia: la <a href=/motos/husqvarna-701-supermoto-2024-ficha-tecnica-precio/>Husqvarna 701 Supermoto</a>, monocilíndrica grande para carretera abierta, y la <a href=/motos/ducati-hypermotard-698-mono-2024-ficha-tecnica-precio/>Ducati Hypermotard 698 Mono</a>, también de un cilindro pero con vocación cotidiana distinta. Si prefieres tierra, la hermana <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a> mantiene la base con 6 marchas para el campo.
+
+**Veredicto:** ¿merece la pena por **13.990 €**? Sí, si buscas la supermotard de serie más cercana a una moto de carreras, con desmodrómico, Stylema y electrónica que mide la derrapada de verdad, aceptando pagar su mantenimiento por horas. No, si esperas una Ducati polivalente para viajar, moverte a diario o aprender tras sacarte el carnet. Es un capricho informado, no un error si sabes dónde te metes.
 
 ## Preguntas frecuentes
 

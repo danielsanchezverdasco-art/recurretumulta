@@ -17,7 +17,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ZqtIcT12AVg",
     videoCanal: "carwow.es",
     marca: "Leapmotor",
@@ -85,7 +85,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C10 REEV",
         "ancho": 1920,
         "alto": 1280
@@ -97,8 +97,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Leapmotor",
@@ -139,7 +139,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.5,
@@ -154,19 +154,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor B10 REEV, vista de estudio",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor B10 REEV en carretera de costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor B10 REEV",
         "ancho": 1920,
         "alto": 1280
@@ -267,7 +267,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-b03x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-b03x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "paZqRIT0AwU",
     videoCanal: "coches-electricos.org",
     marca: "Leapmotor",
@@ -335,7 +335,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b03x-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor B03X",
         "ancho": 1920,
         "alto": 1280
@@ -347,8 +347,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2Aj6jloVenw",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -389,7 +389,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["autonomiaKm", "precioDesde"],
-    imagen: "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.33,
@@ -404,19 +404,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor C01, berlina eléctrica en vista de estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor C01 circulando por carretera al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C01 con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -429,7 +429,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2Aj6jloVenw",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -495,7 +495,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C01 EREV",
         "ancho": 1200,
         "alto": 800
@@ -587,7 +587,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c11-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c11-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "S7J5MoB8IaY",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -653,7 +653,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c11-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C11",
         "ancho": 1200,
         "alto": 800
@@ -666,7 +666,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "S7J5MoB8IaY",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -732,7 +732,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C11 EREV",
         "ancho": 1200,
         "alto": 800
@@ -745,7 +745,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c16-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c16-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2v0ZN9SPQhw",
     videoCanal: null,
     marca: "Leapmotor",
@@ -811,7 +811,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C16 con tres filas de asientos",
         "ancho": 1200,
         "alto": 800
@@ -902,8 +902,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2v0ZN9SPQhw",
     videoCanal: null,
     marca: "Leapmotor",
@@ -942,7 +942,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["autonomiaKm", "precioDesde"],
-    imagen: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.6,
@@ -957,19 +957,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor C16 EREV 280, vista de estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor C16 EREV 280 en carretera",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C16 EREV 280",
         "ancho": 1200,
         "alto": 800
@@ -982,7 +982,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-d19-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-d19-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Nxf3k8-BBhk",
     videoCanal: "DPCcars",
     marca: "Leapmotor",
@@ -1048,7 +1048,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-d19-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor D19",
         "ancho": 1200,
         "alto": 800

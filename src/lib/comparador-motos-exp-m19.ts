@@ -219,7 +219,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1084,
     categoria: "Custom",
-    precioDesde: 12000,
+    precioDesde: null, // la versión DCT estándar no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 64,
     potenciaCv: 87,
     autonomiaKm: null,
@@ -232,7 +232,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "DCT de doble embrague: la custom grande sin maneta de embrague",
       "Bicilíndrico de 1084 cc con 87 CV y 98 Nm: par de tractor",
@@ -245,7 +245,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       "Depósito de 13,6 l: la autonomía no es su fuerte",
       "Sin IMU: electrónica de generación anterior",
       "La protección aerodinámica es nula",
-      "El DCT encarece unos 1.000 € frente a la manual",
+      "Sin precio oficial en España: la versión DCT estándar no se vende aquí (solo la Rebel 1100 SE DCT)",
     ],
     curiosidades: [
       "El motor deriva del de la Africa Twin, con levas y volante propios",
@@ -287,7 +287,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 286,
     categoria: "Naked",
-    precioDesde: 5700,
+    precioDesde: null, // descatalogada en España; Honda no publica tarifa oficial del modelo 2024 (verificado 20/10/2026)
     potenciaKw: 22.9,
     potenciaCv: 31,
     autonomiaKm: null,
@@ -300,7 +300,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Solo 144 kg: la naked A2 más ligera del catálogo Honda",
       "Horquilla invertida Showa SFF-BP de 41 mm, digna de motos mayores",
@@ -309,6 +309,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       "Estética Neo Sports Café que no pasa de moda",
     ],
     contras: [
+      "Sin precio oficial en España: Honda la descatalogó y no publica tarifa del modelo 2024",
       "31 CV se quedan cortos en autopista",
       "Instrumentación LCD básica, sin TFT",
       "Sin control de tracción ni modos de conducción",
@@ -355,7 +356,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 998,
     categoria: "Naked",
-    precioDesde: 14200,
+    precioDesde: null, // Honda España no ha publicado tarifa oficial del modelo 2024 (verificado 20/10/2026)
     potenciaKw: 107,
     potenciaCv: 145,
     autonomiaKm: null,
@@ -368,7 +369,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 998 cc derivado de la CBR1000RR: 145 CV con carácter",
       "Basculante monobrazo de aluminio: una joya a la vista",
@@ -377,6 +378,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       "La Neo Sports Café más refinada del mercado",
     ],
     contras: [
+      "Sin precio oficial publicado por Honda España para el modelo 2024",
       "Sin IMU: sin ABS en curva a estas alturas",
       "Consumo de 5,8 l/100 km con depósito de 16,2 l",
       "Postura comprometida para viajes largos",
@@ -759,7 +761,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 155,
     categoria: "Scooter",
-    precioDesde: 3799,
+    precioDesde: null, // Yamaha España no comercializa el NMAX 155; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 11.1,
     potenciaCv: 15.1,
     autonomiaKm: null,
@@ -772,7 +774,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor Blue Core de 155 cc con distribución variable VVA",
       "15,1 CV: el 125 más potente del segmento en la práctica",
@@ -785,7 +787,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       "Ruedas de 13 pulgadas: menos aplomo que un rueda alta",
       "El hueco bajo el asiento es justo para un integral",
       "Suspensión trasera básica de doble amortiguador",
-      "Precio superior al de la NMAX 125",
+      "Sin precio oficial en España: Yamaha no comercializa la NMAX 155 aquí (solo la NMAX 125)",
     ],
     curiosidades: [
       "El VVA cambia el perfil de las levas a partir de 6.000 rpm",

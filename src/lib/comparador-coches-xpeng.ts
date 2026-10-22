@@ -20,14 +20,14 @@ export const COCHES_XPENG: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/xpeng-g9-2026-restyling-precio-espana-oficial.webp",
-    imagenInteriorOficial: "/media/xpeng-g9-2026-restyling-precio-espana-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "FuSBoE9yENk",
     videoCanal: "PruebaTuCoche",
     marca: "XPeng",
     modelo: "G9 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 59010,
+    precioDesde: 58590, // Precio «desde» en oferta del dealer Caetano, 21/10/2026 (sin condiciones detalladas); tarifa oficial sin cambios: 59.990 €,
     potenciaCv: 351,
     autonomiaKm: 502,
     maleteroL: 660,
@@ -94,24 +94,14 @@ export const COCHES_XPENG: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/xpeng-g9-2026-restyling-precio-espana-oficial-2.webp",
-        alt: "XPeng G9 2026, tres cuartos trasero cargando en un cargador ultrarrápido",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/xpeng-g9-2026-restyling-precio-espana-oficial.webp",
         alt: "XPeng G9 2026, vista lateral en carretera de montaña",
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/xpeng-g9-2026-restyling-precio-espana-interior.webp",
-        alt: "Interior del XPeng G9 2026, salpicadero con doble pantalla",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ],
   },
   {
@@ -120,7 +110,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/xpeng-p7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/xpeng-p7-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "XPeng",
@@ -175,24 +165,14 @@ export const COCHES_XPENG: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/xpeng-p7-2024-precio-ficha-tecnica-oficial-2.webp",
-        alt: "XPeng P7, tres cuartos trasero nocturno con banda LED",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/xpeng-p7-2024-precio-ficha-tecnica-oficial.webp",
         alt: "XPeng P7, vista lateral en carretera costera",
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/xpeng-p7-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del XPeng P7, doble pantalla y salpicadero minimalista",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ],
   },
   {
@@ -201,7 +181,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/xpeng-x9-2026-precio-europa-oficial.webp",
-    imagenInteriorOficial: "/media/xpeng-x9-2026-precio-europa-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "XPeng",
@@ -256,24 +236,14 @@ export const COCHES_XPENG: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/xpeng-x9-2026-precio-europa-oficial-2.webp",
-        alt: "XPeng X9, tres cuartos delantero en carretera costera",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/xpeng-x9-2026-precio-europa-oficial.webp",
         alt: "XPeng X9, vista lateral con puerta corredera abierta",
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/xpeng-x9-2026-precio-europa-interior.webp",
-        alt: "Interior del XPeng X9, asientos Zero Gravity de la segunda fila",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ],
   },
   {
@@ -282,7 +252,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/xpeng-g6-2025-precio-espana-oficial.webp",
-    imagenInteriorOficial: "/media/xpeng-g6-2025-precio-espana-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "XPeng",
@@ -363,7 +333,7 @@ export const COCHES_XPENG: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/xpeng-g6-2025-precio-espana-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del XPeng G6 con doble pantalla y techo panorámico",
         "ancho": 1200,
         "alto": 800
@@ -376,7 +346,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/xpeng-g9-2024-precio-espana-oficial.webp",
-    imagenInteriorOficial: "/media/xpeng-g9-2024-precio-espana-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "XPeng",
@@ -444,7 +414,7 @@ export const COCHES_XPENG: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/xpeng-g9-2024-precio-espana-interior-oficial.webp",
+        "src": "",
         "alt": "Interior premium del XPeng G9 con doble pantalla y asientos de cuero",
         "ancho": 1200,
         "alto": 800

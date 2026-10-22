@@ -20,7 +20,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-corolla-touring-sports-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-corolla-touring-sports-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -88,7 +88,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-corolla-touring-sports-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Corolla Touring Sports 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -101,7 +101,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-c-hr-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-c-hr-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -169,7 +169,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-c-hr-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota C-HR PHEV 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -184,7 +184,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-gr-yaris-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-gr-yaris-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -252,7 +252,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-gr-yaris-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota GR Yaris 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -346,7 +346,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-highlander-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-highlander-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -414,7 +414,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-highlander-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Highlander 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -516,7 +516,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-c-hr-plus-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-c-hr-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "qRenZDUns34",
     videoCanal: "SoyMotor",
     marca: "Toyota",
@@ -584,7 +584,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-c-hr-plus-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota C-HR+ 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -597,7 +597,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-hilux-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-hilux-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "XnBVW6z1yiQ",
     videoCanal: "coches.net",
     marca: "Toyota",
@@ -665,7 +665,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-hilux-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Hilux 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -678,7 +678,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-proace-city-verso-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-proace-city-verso-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -746,7 +746,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-proace-city-verso-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Proace City Verso 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -761,7 +761,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-proace-verso-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-proace-verso-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -829,7 +829,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-proace-verso-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Proace Verso 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -844,7 +844,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-corolla-cross-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-corolla-cross-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -912,7 +912,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-corolla-cross-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Corolla Cross 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -925,7 +925,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-mirai-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-mirai-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "3iSbHurc4TQ",
     videoCanal: "JF Calero",
     marca: "Toyota",
@@ -993,7 +993,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-mirai-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Mirai 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1006,7 +1006,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-aygo-x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-aygo-x-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "_1BsxTClXqI",
     videoCanal: "coches.net",
     marca: "Toyota",
@@ -1074,7 +1074,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-aygo-x-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Aygo X 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1087,7 +1087,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-bz4x-touring-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-bz4x-touring-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -1155,7 +1155,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1040
       },
       {
-        "src": "/media/toyota-bz4x-touring-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota bZ4X Touring 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1170,7 +1170,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-rav4-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-rav4-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Zltc8ALagOY",
     videoCanal: "JF Calero",
     marca: "Toyota",
@@ -1238,7 +1238,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-rav4-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota RAV4 PHEV 2026, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1253,7 +1253,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-corolla-berlina-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-corolla-berlina-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -1321,7 +1321,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/toyota-corolla-berlina-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Toyota Corolla Berlina 2025, interior",
         "ancho": 1920,
         "alto": 1280
@@ -1522,7 +1522,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-rav4-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-rav4-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -1583,12 +1583,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/toyota-rav4-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Toyota RAV4",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/toyota-rav4-hev-2025-precio-ficha-tecnica-hero.webp",
         alt: "Toyota RAV4 Hybrid 220H Advance, vista frontal",
@@ -1612,7 +1607,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     modelo: "Prius Plug-in Hybrid",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: 44400,
+    precioDesde: 44400, // tarifa oficial Francia (verificado 20/10/2026); no se vende en España
     potenciaCv: 223,
     autonomiaKm: 86,
     cicloAutonomia: "WLTP",
@@ -1630,7 +1625,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "Etiqueta Cero"
     ],
     contras: [
-      "NO se vende en España (44.400 € en Francia, precio aprox.)",
+      "NO se vende en España: 44.400 € es la tarifa oficial de Francia",
       "Sin precio oficial en nuestro mercado",
       "Diseño polarizante",
       "Maletero reducido frente al Corolla",
@@ -1702,7 +1697,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "_1BsxTClXqI",
     videoCanal: "coches.net",
     marca: "Toyota",
@@ -1763,12 +1758,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Toyota Aygo X",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-hero.webp",
         alt: "Toyota Aygo X Cross Hybrid Play, vista frontal",
@@ -1953,7 +1943,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Toyota",
@@ -2014,12 +2004,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Toyota Proace City Verso",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hero.webp",
         alt: "Toyota Proace City Verso Electric Family Active, vista frontal",

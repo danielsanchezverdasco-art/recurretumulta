@@ -299,5 +299,150 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Dietmar Rabich",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Bremerhaven,_%C3%9Cberseehafen,_Autotransporter_%22Lydden%22_und_Wallenius-Wilhelmsen-Autotransporter_--_2024_--_2269.jpg"
+},
+"/media/xiaomi-su7-max-2025-precio-ficha-tecnica-hunt2.webp": {
+"autor": "茅野ふたば / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Max_grey_front_view_(August_16,_2025).jpg"
+},
+"/media/xiaomi-su7-max-2025-precio-ficha-tecnica-hunt3.webp": {
+"autor": "茅野ふたば / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Max_grey_rear_view_(August_16,_2025).jpg"
+},
+"/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-hunt1.webp": {
+"autor": "Alexander-93 / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Daytona_(2024)_MYLE_Festival_2025_DSC_9392.jpg"
+},
+"/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-hunt2.webp": {
+"autor": "Alexander-93 / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Daytona_(2024)_MYLE_Festival_2025_DSC_9486.jpg"
+},
+"/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-hunt3.webp": {
+"autor": "Alexander-93 / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Dodge_Charger_Daytona_(2024)_MYLE_Festival_2025_DSC_9748.jpg"
+},
+"/media/kawasaki-ninja-500-2024-ficha-tecnica-precio-hunt1.webp": {
+"autor": "AVMOTO / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_500_SE_2025.jpg"
+},
+"/media/kawasaki-ninja-500-2024-ficha-tecnica-precio-hunt2.webp": {
+"autor": "Kidfly182 / Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Kawasaki_Ninja_500.jpg"
+},
+"/media/triumph-tiger-1200-gt-pro-2025-ficha-tecnica-precio-hunt1.webp": {
+"autor": "Saggittarius A / Wikimedia Commons",
+"licencia": "CC BY 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Triumph_Tiger_1200_-_EICMA_2024.jpg"
+},
+"/media/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-hunt2.webp": {
+"autor": "Alexander-93 / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Maserati_Quattroporte_VI_Trofeo_Retro_Classics_2024_IMG_9027.jpg"
+},
+"/media/hyundai-ioniq-6-n-2026-precio-ficha-tecnica-hunt1.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Hyundai_IONIQ_6_N_CE1_N_Performance_Blue_Pearl_%286%29.jpg/1920px-Hyundai_IONIQ_6_N_CE1_N_Performance_Blue_Pearl_%286%29.jpg"
+},
+"/media/hyundai-ioniq-6-n-2026-precio-ficha-tecnica-hunt2.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyundai_IONIQ_6_N_CE1_N_Performance_Blue_Pearl_%2813%29.jpg/1920px-Hyundai_IONIQ_6_N_CE1_N_Performance_Blue_Pearl_%2813%29.jpg"
+},
+"/media/hyundai-ioniq-6-n-2026-precio-ficha-tecnica-hunt3.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Hyundai_IONIQ_6_N_CE1_N_Black_Onetone_%2810%29.jpg/1920px-Hyundai_IONIQ_6_N_CE1_N_Black_Onetone_%2810%29.jpg"
+},
+"/media/mazda-2-hybrid-2026-precio-ficha-tecnica-hunt1.webp": {
+"autor": "M 93 / Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Mazda2_Hybrid_Homura_Plus_(IV,_Facelift)_–_f_05062025.jpg"
+},
+"/media/mazda-2-hybrid-2026-precio-ficha-tecnica-hunt2.webp": {
+"autor": "M 93 / Wikimedia Commons",
+"licencia": "CC BY-SA 3.0 de",
+"url": "https://commons.wikimedia.org/wiki/File:Mazda2_Hybrid_Homura_Plus_(IV,_Facelift)_–_h_05062025.jpg"
+},
+"/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-hunt1.webp": {
+"autor": "Alexandre Prevot (vía Wikimedia Commons / Flickr)",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/BMW_M3_Competition_Touring_G81_%2854910895282%29.jpg"
+},
+"/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-hunt3.webp": {
+"autor": "Ethan Llamas (vía Wikimedia Commons)",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/BMW_M3_Competition_G81_xDrive_Touring_interior.jpg"
+},
+"/media/yamaha-mt-09-sp-2025-ficha-tecnica-precio-hunt2.webp": {
+"autor": "Chanokchon (vía Wikimedia Commons)",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/2024_Yamaha_MT-09_SP.jpg"
+},
+"/media/aprilia-sr-gt-125-2025-ficha-tecnica-precio-hunt3.webp": {
+"autor": "Corvettec6r (vía Wikimedia Commons)",
+"licencia": "CC BY 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aprilia_SR_GT_125.jpg"
+},
+"/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hunt1.webp": {
+"autor": "Alexander-93 / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mercedes-AMG_C_43_%28W206%29_1X7A0893.jpg"
+},
+"/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hunt2.webp": {
+"autor": "Tokumeigakarinoaoshima / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mercedes-AMG_C_43_4MATIC_%28W206%29_front.jpg"
+},
+"/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hunt3.webp": {
+"autor": "Tokumeigakarinoaoshima / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Mercedes-AMG_C_43_4MATIC_%28W206%29_rear.jpg"
+},
+"/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-hunt1.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mercedes-Benz_W223_S_500_4MATIC_Black_%281%29.jpg"
+},
+"/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-hunt2.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Mercedes-Benz_W223_S_500_4MATIC_Black_%282%29.jpg"
+},
+"/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-hunt3.webp": {
+"autor": "Damian B Oh / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mercedes-Benz_W223_S_500_4MATIC_Black_%283%29.jpg"
+},
+"/media/yamaha-tracer-9-2026-ficha-tecnica-precio-hunt1.webp": {
+"autor": "AVMOTO / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Yamaha_Tracer_9_2025_EICMA_2024.jpg"
+},
+"/media/yamaha-tracer-9-2026-ficha-tecnica-precio-hunt2.webp": {
+"autor": "AVMOTO / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Yamaha_Tracer_9_2025.jpg"
+},
+"/media/sym-fiddle-125-2026-ficha-tecnica-precio-hunt1.webp": {
+"autor": "MotorideSA / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/00/SYM_Fiddle_125_2026.jpg"
+},
+"/media/sym-fiddle-125-2026-ficha-tecnica-precio-hunt2.webp": {
+"autor": "MotorideSA / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SYM_Fiddle_2026.jpg"
+},
+"/media/sym-fiddle-125-2026-ficha-tecnica-precio-hunt3.webp": {
+"autor": "MotorideSA / Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/db/SYM_Fiddle_2026_EICMA_2025.jpg"
 }
 };

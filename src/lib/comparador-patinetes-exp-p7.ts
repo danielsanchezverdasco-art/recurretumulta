@@ -11,7 +11,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 6 Essential",
-    precioEur: null,
+    precioEur: null, // Xiaomi aún no ha anunciado precio oficial en España (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 500,
     autonomiaKm: 25,
@@ -63,7 +63,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot E2 II",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
@@ -115,7 +115,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot GT3 Pro E",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial confirmada en Europa (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 6000,
     autonomiaKm: 90,
@@ -167,7 +167,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot ZT3 Max",
-    precioEur: null,
+    precioEur: null, // Segway aún no ha publicado especificaciones ni tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -218,7 +218,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot Max G3 Pro",
-    precioEur: null,
+    precioEur: null, // Segway aún no ha publicado especificaciones ni tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -267,9 +267,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-gt3-pro",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "GT3 Pro",
-    precioEur: null,
+    precioEur: 379, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 1000,
     autonomiaKm: 60,
@@ -301,7 +301,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     ],
     contras: [
       "Pesa 22 kg: la suspensión y la batería se notan al cargarlo",
-      "Sin precio oficial confirmado en España",
+      "379 € en la tienda oficial europea de NAVEE: menos red de servicio en España que Xiaomi o Segway",
       "Carga lenta: 8 horas para la batería de 477 Wh",
       "El tambor delantero exige más mantenimiento que un disco",
       "Navee tiene menos servicio técnico en España que Xiaomi o Segway",
@@ -319,9 +319,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v25",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V25",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 25,
@@ -370,9 +370,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v25i-pro-ii",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V25i Pro II",
-    precioEur: null,
+    precioEur: 299, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 25,
@@ -404,7 +404,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     ],
     contras: [
       "Autonomía declarada de solo 25 km",
-      "Sin precio oficial confirmado en España",
+      "299 € en la tienda oficial europea de NAVEE: pagas el equipamiento extra frente al V25 base",
       "Pesa 17,7 kg, algo más que el V25 base por el equipamiento extra",
       "Carga máxima de 100 kg",
       "El TCS hay que activarlo desde la app NAVEE",
@@ -422,9 +422,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v40i-pro",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V40i Pro",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -473,9 +473,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v40i-pro-ii",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V40i Pro II",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -525,9 +525,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v50i-pro",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V50i Pro",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 50,
@@ -576,9 +576,9 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     id: "navee-v40",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V40",
-    precioEur: 399,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 40,
@@ -600,7 +600,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "Solo 16,2 kg para 40 km declarados: el V más ligero",
       "Compartimento oculto para AirTag de serie",
@@ -612,7 +612,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
       "Modelo de 2023: convive con los V40i Pro más modernos",
       "Los 40 km se miden a 15 km/h; a ritmo normal son unos 25 km",
       "Sin suspensión dedicada",
-      "El precio de 399 € es de tiendas europeas, no PVP oficial España",
+      "Sin precio oficial: NAVEE no publica tarifa para este modelo descatalogado",
       "Navee ha centrado la gama en los 'i Pro', este puede descatalogarse",
     ],
     veredicto:
@@ -629,7 +629,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi3 Sport",
-    precioEur: 599,
+    precioEur: 500, // 599 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 40,
@@ -661,7 +661,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     ],
     contras: [
       "Pesa 18,4 kg, en la media-alta del segmento",
-      "El PVP de 599 € suele verse rebajado; conviene esperar ofertas",
+      "Precio estimado desde la tarifa oficial de EE. UU. (599 $); en Europa se ve rebajado a menudo",
       "Sin intermitentes de serie",
       "La autonomía real ronda los 25-30 km, no los 40 declarados",
       "El plegado en 2 pasos es menos compacto que el de la competencia",
@@ -681,7 +681,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi1 Sport",
-    precioEur: null,
+    precioEur: 399, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,

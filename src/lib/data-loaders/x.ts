@@ -4,7 +4,11 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   blog: {
     "xev-yoyo-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
     "xev-yoyo-pro-2026-precio-ficha-tecnica": () => import("../blog-posts-lote2.ts"),
+    "xgo-dynamic-35-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g02.ts"),
+    "xgo-dynamic-95-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g03.ts"),
+    "xgo-x-van-102-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote4.ts"),
     "xgo-x-van-104-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
+    "xgo-x-van-104-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g04.ts"),
     "xiaomi-electric-scooter-4-lite-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-4-pro-2nd-gen": () => import("../blog-posts-patinetes-exp-p1.ts"),
     "xiaomi-electric-scooter-4-pro-plus": () => import("../blog-posts-patinetes-exp-p9.ts"),
@@ -108,6 +112,9 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "xiaomi-electric-scooter-6-ultra": () => import("../comparador-patinetes-exp-p1.ts"),
     "xiaomi-essential": () => import("../comparador-patinetes-base.ts"),
     "xiaomi-pro-2": () => import("../comparador-patinetes-base.ts"),
+  },
+  autocaravana: {
+    "xgo-x-van-104-2026-precio-ficha-tecnica": () => import("../comparador-autocaravanas-xgo-m1.ts"),
   },
   historia: {
     "xev-yoyo-pro-2026-precio-ficha-tecnica": () => import("../historia-lote2.ts"),

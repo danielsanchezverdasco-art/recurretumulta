@@ -18,7 +18,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-corsa-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-corsa-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -80,7 +80,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/opel-corsa-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Corsa Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -101,7 +101,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-corsa-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-corsa-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "h166ZXOX8P0",
     videoCanal: "coches.net",
     marca: "Opel",
@@ -163,7 +163,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1088
       },
       {
-        "src": "/media/opel-corsa-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Corsa Electric",
         "ancho": 1920,
         "alto": 1280
@@ -184,7 +184,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-corsa-gse-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-corsa-gse-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -246,7 +246,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/opel-corsa-gse-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del Opel Corsa GSE",
         "ancho": 1920,
         "alto": 1280
@@ -267,7 +267,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-frontera-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-frontera-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "DkCH-RUcVTc",
     videoCanal: "La 7 Motor TV",
     marca: "Opel",
@@ -329,7 +329,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-frontera-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Frontera Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -350,7 +350,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -412,7 +412,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Frontera Electric",
         "ancho": 1920,
         "alto": 1280
@@ -433,7 +433,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-mokka-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-mokka-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -495,7 +495,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-mokka-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Mokka Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -516,7 +516,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-mokka-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-mokka-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -578,7 +578,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-mokka-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Mokka Electric",
         "ancho": 1920,
         "alto": 1280
@@ -599,7 +599,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -661,7 +661,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior Pure Panel del Opel Astra Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -682,7 +682,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-hibrido-enchufable-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-hibrido-enchufable-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -744,7 +744,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-hibrido-enchufable-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Astra Plug-in Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -765,7 +765,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "eJ-roDAZGaE",
     videoCanal: "periodismodelmotor.com",
     marca: "Opel",
@@ -827,7 +827,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Astra Electric",
         "ancho": 1920,
         "alto": 1280
@@ -848,7 +848,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -910,7 +910,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior y maletero del Astra Sports Tourer Electric",
         "ancho": 1920,
         "alto": 1280
@@ -931,7 +931,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-sports-tourer-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-sports-tourer-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "3DrEzBsBhuY",
     videoCanal: "No Solo Motor",
     marca: "Opel",
@@ -993,7 +993,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-sports-tourer-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Astra Sports Tourer PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -1014,7 +1014,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1076,7 +1076,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Astra Sports Tourer Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1097,7 +1097,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1159,7 +1159,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Grandland Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1180,7 +1180,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1242,7 +1242,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Grandland Plug-in Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1263,7 +1263,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-grandland-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "aGvVc7icr2w",
     videoCanal: "soloauto.net",
     marca: "Opel",
@@ -1325,7 +1325,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 960
       },
       {
-        "src": "/media/opel-grandland-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Grandland Electric",
         "ancho": 1920,
         "alto": 1280
@@ -1346,7 +1346,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1408,7 +1408,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Grandland Electric Long Range",
         "ancho": 1920,
         "alto": 1280
@@ -1429,7 +1429,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "G0GKlZe0HhM",
     videoCanal: "soloauto.net",
     marca: "Opel",
@@ -1491,7 +1491,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Grandland Electric AWD",
         "ancho": 1920,
         "alto": 1280
@@ -1512,7 +1512,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-combo-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-combo-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1574,7 +1574,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-combo-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Combo Electric",
         "ancho": 1920,
         "alto": 1280
@@ -1595,7 +1595,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-zafira-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-zafira-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1657,7 +1657,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/opel-zafira-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de 8 plazas del Opel Zafira Electric",
         "ancho": 1920,
         "alto": 1280
@@ -1678,7 +1678,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-vivaro-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-vivaro-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1740,7 +1740,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/opel-vivaro-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina del Opel Vivaro Electric",
         "ancho": 1920,
         "alto": 1280
@@ -1761,7 +1761,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-mokka-gse-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-mokka-gse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "MhpGH0CERsg",
     videoCanal: "Centímetros Cúbicos",
     marca: "Opel",
@@ -1829,7 +1829,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/opel-mokka-gse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del Opel Mokka GSe",
         "ancho": 1200,
         "alto": 800
@@ -1844,7 +1844,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-combo-xl-diesel-130-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-combo-xl-diesel-130-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1912,7 +1912,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/opel-combo-xl-diesel-130-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior versátil del Opel Combo XL",
         "ancho": 1200,
         "alto": 800
@@ -1927,7 +1927,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-astra-diesel-130-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-astra-diesel-130-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -1995,7 +1995,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/opel-astra-diesel-130-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Opel Astra con doble pantalla",
         "ancho": 1200,
         "alto": 800
@@ -2010,7 +2010,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-movano-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/opel-movano-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Opel",
@@ -2078,7 +2078,7 @@ export const COCHES_OPEL: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/opel-movano-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Opel Movano Electric",
         "ancho": 1200,
         "alto": 800

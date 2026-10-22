@@ -104,8 +104,8 @@ export default function PoliticaEditorial() {
         <header className="space-y-2">
           <h1 className="text-3xl font-black">Política editorial y metodología</h1>
           <p className="text-sm text-gray-600">
-            Cómo elaboramos y verificamos lo que publicamos en RecurreTuMulta.online. Actualizado:{" "}
-            <time dateTime={ACTUALIZADO}>17 de octubre de 2026</time>.
+            Cómo elaboramos y verificamos lo que publicamos en RecurreTuMulta.online.{" "}
+            <time dateTime={ACTUALIZADO}>{"Actualizado: 17 de octubre de 2026"}</time>.
           </p>
         </header>
         {SECCIONES.map((s) => (

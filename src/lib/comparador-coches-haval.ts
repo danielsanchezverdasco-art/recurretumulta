@@ -17,8 +17,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "DBS0i1YG2N4",
     videoCanal: "elcerokm",
     marca: "Haval",
@@ -59,7 +59,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 167,
     aprox: [],
-    imagen: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 11.84,
@@ -74,24 +74,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Jolion Pro, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Jolion Pro, vista lateral en calle urbana europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Jolion Pro, salpicadero con pantalla táctil",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-jolion-pro-2025-precio-ficha-tecnica",
   },
@@ -183,8 +168,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "nL0oCqGtxL0",
     videoCanal: "Autos de Primera",
     marca: "Haval",
@@ -225,7 +210,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 5.2,
@@ -240,24 +225,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H6 PHEV, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H6 PHEV, vista lateral en calle urbana europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H6 PHEV, salpicadero con pantalla panorámica",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h6-phev-2025-precio-ficha-tecnica",
   },
@@ -369,8 +339,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h6-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -411,7 +381,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/haval-h6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 12.96,
@@ -426,24 +396,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H6 cuarta generación, tres cuartos delantero en montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H6 cuarta generación, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H6, salpicadero digital con gran pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h6-2024-precio-ficha-tecnica",
   },
@@ -561,8 +516,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h9-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h9-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -603,7 +558,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
-    imagen: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 16.8,
@@ -618,24 +573,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H9, tres cuartos delantero en pista de tierra",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H9, vista lateral en entorno rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H9, salpicadero robusto con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h9-2025-precio-ficha-tecnica",
   },
@@ -953,8 +893,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -995,7 +935,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/haval-dargo-x-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 5.0,
@@ -1010,24 +950,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Dargo X, tres cuartos delantero en camino rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Dargo X, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Dargo X, salpicadero moderno",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-dargo-x-2024-precio-ficha-tecnica",
   },
@@ -1244,8 +1169,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1286,7 +1211,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 4.2,
@@ -1301,24 +1226,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Xiaolong, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Xiaolong, vista lateral en calle urbana",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Xiaolong, salpicadero minimalista",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-xiaolong-2024-precio-ficha-tecnica",
   },
@@ -1327,8 +1237,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1369,7 +1279,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 4.8,
@@ -1384,24 +1294,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Xiaolong Max, tres cuartos delantero en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Xiaolong Max, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Xiaolong Max, triple pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-xiaolong-max-2024-precio-ficha-tecnica",
   },
@@ -1410,8 +1305,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1452,7 +1347,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
-    imagen: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.92,
@@ -1467,24 +1362,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Chitu, tres cuartos delantero en carretera urbana",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Chitu, vista lateral en calle de ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Chitu, salpicadero compacto",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-chitu-2024-precio-ficha-tecnica",
   },

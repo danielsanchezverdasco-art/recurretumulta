@@ -1,12 +1,13 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import {
-  MapPin, Search, ArrowRight, Shield, Sparkles, BarChart2,
+  MapPin, Search, ArrowRight, Shield, Sparkles, BarChart2, Radar,
 } from "lucide-react";
 import { Button } from "@/components/ui/button.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import { Input } from "@/components/ui/input.tsx";
 import { PROVINCIAS } from "@/lib/provincias-data.ts";
+import { RADARES_POR_PROVINCIA, TOTAL_RADARES } from "@/lib/radares-por-provincia.generated.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { DriveInImage } from "@/components/motion.tsx";
@@ -171,6 +172,20 @@ export default function MultasIndexPage() {
             </Link>
           </div>
 
+          {/* Radares: acceso al mapa completo (también dentro de cada provincia) */}
+          <Link to="/radares/" className="block group">
+            <div className="border-2 border-red-200 bg-red-50/60 rounded-3xl p-5 flex items-center gap-4">
+              <div className="w-10 h-10 bg-red-600 rounded-2xl flex items-center justify-center shrink-0">
+                <Radar className="w-5 h-5 text-white" />
+              </div>
+              <div className="flex-1">
+                <p className="font-black text-gray-900">Mapa de radares de España</p>
+                <p className="text-sm text-gray-600">{TOTAL_RADARES} radares fijos con ficha, mapa y Street View — y la lista de radares dentro de la página de cada provincia.</p>
+              </div>
+              <ArrowRight className="w-5 h-5 text-red-600 shrink-0 group-hover:translate-x-0.5 transition-transform" />
+            </div>
+          </Link>
+
           {/* Province groups by CCAA */}
           <AdBanner slotId={AD_SLOTS.horizontal} format="horizontal" className="rounded-xl overflow-hidden" />
 
@@ -212,6 +227,12 @@ export default function MultasIndexPage() {
                               <BarChart2 className="w-2.5 h-2.5 text-gray-300" />
                               <span className="text-[10px] text-gray-400">{prov.multas.tiposMasFrecuentes.length} tipos de multa frecuentes</span>
                             </div>
+                            {(RADARES_POR_PROVINCIA[prov.slug]?.length ?? 0) > 0 && (
+                              <div className="flex items-center gap-1">
+                                <Radar className="w-2.5 h-2.5 text-red-400" />
+                                <span className="text-[10px] text-gray-400">{RADARES_POR_PROVINCIA[prov.slug].length} radares con mapa</span>
+                              </div>
+                            )}
                           </div>
                         </Link>
                       </div>

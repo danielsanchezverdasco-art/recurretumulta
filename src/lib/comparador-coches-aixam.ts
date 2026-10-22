@@ -119,7 +119,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-city-sport-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-city-sport-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -187,12 +187,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-city-sport-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-City Sport",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -201,7 +196,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-city-pack-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-city-pack-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -269,12 +264,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-city-pack-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam City Pack",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -283,7 +273,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-city-sport-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-city-sport-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -351,12 +341,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-city-sport-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam City Sport",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -365,7 +350,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-city-gto-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-city-gto-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -433,12 +418,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-city-gto-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam City GTO con tapicería deportiva",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -447,7 +427,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-city-eclipse-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-city-eclipse-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -515,12 +495,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-city-eclipse-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam City Eclipse con tapicería TEP negra",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -529,7 +504,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-coupe-sport-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-coupe-sport-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -597,12 +572,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-coupe-sport-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Coupé Sport",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -714,7 +684,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -782,12 +752,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-Coupé GTI",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -796,7 +761,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-crossline-pack-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-crossline-pack-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -864,12 +829,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-crossline-pack-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Crossline Pack",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -878,7 +838,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-crossover-premium-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-crossover-premium-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -946,12 +906,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-crossover-premium-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Crossover Premium con pantalla táctil",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -960,7 +915,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1028,12 +983,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-Crossover Premium",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1042,7 +992,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1110,12 +1060,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-Scouty EVO con pantalla TFT",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1124,7 +1069,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1192,12 +1137,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Cabina del Aixam D-Truck Furgón Van",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1206,7 +1146,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1274,12 +1214,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Cabina del Aixam e-Truck Furgón Van",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1288,7 +1223,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1356,12 +1291,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Cabina del Aixam e-Truck Plataforma Aluminio",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1370,7 +1300,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-minauto-access-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-minauto-access-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1438,12 +1368,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-minauto-access-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-Minauto Access",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1452,7 +1377,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1520,12 +1445,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam e-Minauto Chic",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1534,7 +1454,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-minauto-access-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-minauto-access-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1602,12 +1522,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-minauto-access-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Minauto Access",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1616,7 +1531,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-easy-access-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-easy-access-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1684,12 +1599,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-easy-access-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Easy Access con pantalla TFT",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1698,7 +1608,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-easy-chic-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-easy-chic-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
@@ -1766,12 +1676,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-easy-chic-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Easy Chic",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1780,14 +1685,14 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
     modelo: "Easy Access Diésel",
     tipo: "Diésel",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: null, // Versión sin tarifa oficial localizada (AIXAM solo publica precios de la gama Easy/CHIC 2025 en prensa de lanzamiento)
     potenciaCv: 8,
     autonomiaKm: null,
     maleteroL: null,
@@ -1848,12 +1753,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-easy-access-diesel-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Easy Access diésel",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1862,14 +1762,14 @@ export const COCHES_AIXAM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aixam",
     modelo: "Easy Chic Diésel",
     tipo: "Diésel",
     categoria: "Urbano",
-    precioDesde: null,
+    precioDesde: 13499, // nota de lanzamiento AIXAM 2025: CHIC diésel desde 13.499 € (recogido por DiarioFinanciero)
     potenciaCv: 8,
     autonomiaKm: null,
     maleteroL: null,
@@ -1930,12 +1830,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Aixam Easy Chic diésel",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
 ]

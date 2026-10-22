@@ -171,6 +171,44 @@ Como todos los hyper-scooters, el Burn-e 3 **no puede circular legalmente en Esp
 
 <img src=/media/patinetes/nami-burn-e-3-3.webp alt=Nami Burn-e 3 en carretera abierta>
 
+## Nami y la familia Burn-e: de dónde sale este modelo
+
+Nami Electric destaca en hiperpatinetes por lo contrario al patinete urbano ligero: chasis robusto y componentes sobredimensionados. El Burn-e 3 es el escalón intermedio: por encima queda el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, con motores de 1.500 W por rueda y batería de 2.880 Wh. Comparte plataforma con él, pero reduce motores y batería para contener —solo un poco— el precio. No es un patinete de ciudad vitaminado: es un vehículo de altas prestaciones.
+
+## Técnica a fondo: qué significan sus cifras
+
+La ficha resume el conjunto: **2.000 W nominales**, **5.040 W de pico**, batería de **72V 30Ah (2.160 Wh)**, **72 km/h** declarados, **47 kg** y neumáticos de **11 pulgadas**.
+
+| Dato | Burn-e 3 | Burn-e 3 Max | Klima Max |
+|---|---|---|---|
+| **Precio** | 4.099 € | 4.449 € | 2.449 € |
+| **Pico** | 5.040 W | 8.400 W | 5.360 W |
+| **Batería** | 2.160 Wh | 2.880 Wh | 1.800 Wh |
+| **Autonomía declarada** | 100-110 km | 120-150 km | 85-90 km |
+| **Autonomía real estimada** | ≈70 km | ≈90 km | ≈59 km |
+| **Velocidad máxima** | 72 km/h | 105 km/h | 70 km/h |
+| **Peso** | ≈47 kg | ≈47,5 kg | ≈38 kg |
+
+Dos precisiones. La autonomía declarada no sigue un ciclo WLTP —es de coches—: es cifra del fabricante en condiciones favorables; la referencia honesta es la estimación real de la ficha, **unos 70 km** en uso mixto. Y los **4.099 €** son precio europeo de referencia: al venderse en España vía importadores, sin tarifa oficial cerrada, es **orientativo**.
+
+## En la práctica: a quién le conviene y a quién no
+
+Con 47 kg, no es de última milla: no se sube por escaleras ni se combina con el metro. Su uso realista es salir rodando desde un garaje, con casco integral y protecciones, disfrutando de una plataforma estable a ritmos imposibles para un patinete ligero. Exige experiencia: 5.040 W de pico asustan a quien viene de un VMP de 25 km/h. Para trayectos urbanos cortos hay opciones mejores en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+
+## Mantenimiento y costes verificables
+
+Según la ficha, procedente del manual oficial: presión de **50 PSI (3,4 bar) como máximo** en ambas ruedas; comprobación de disco y pastillas antes de ajustar la pinza; suspensión regulable en precarga y rebote —S más duro, F más blando—. El manual reserva las reparaciones a profesionales o distribuidores Nami, prohíbe trabajar con la batería encendida o cargando y limita la limpieza a paño húmedo. Sin tarifa oficial española verificable no damos costes en euros: asume gama alta —neumáticos y pastillas de 11 pulgadas poco comunes— y pide precios antes de comprar.
+
+## Normativa VMP y DGT: sin maquillaje
+
+Un VMP legal en España está limitado a **25 km/h** y el Burn-e 3 declara **72 km/h de serie**: tal cual sale de la caja, **no es utilizable como VMP en vía pública española**. Solo podría circular limitado a 25 km/h, por carril bici o calzada permitida, nunca por aceras. Además, en la ficha el certificado DGT figura sin cumplimentar —no consta en nuestros datos—: verifícalo con el vendedor. La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT explica las nuevas reglas para VMP</a>: los comercializados desde enero de 2024 requieren certificado de circulación e identificación, y los anteriores disponen de una moratoria que expira el 22 de enero de 2027. Deslimitarlo en vía pública lo saca de la categoría VMP.
+
+## Comparativa y veredicto
+
+Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. Y mientras carga, puedes probar el <a href=/juego-monos/>juego caza-monos</a> para despejarte un rato.
+
+**Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Burn-e 3?
@@ -190,7 +228,7 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT: VMP, nuevas reglas y nueva formación</a>*`,
   },
   {
     slug: "nami-klima",
@@ -263,6 +301,39 @@ El Klima **no está homologado como VMP** para circular a 65 km/h en España: la
 
 <img src=/media/patinetes/nami-klima-3.webp alt=Nami Klima circulando por la ciudad>
 
+## Nami: la marca de los patinetes sin complejos
+
+Nami Electric se hizo un nombre entre los entusiastas con el Burn-e, un hiperpatinete pensado sin mirar el precio, y el Klima nace de una constatación sencilla: no todo el mundo puede —ni quiere— cargar con 47 kilos. Recortar la fórmula a 38 kg manteniendo el doble motor y una batería seria convierte al Klima en el Nami de los que viven en un piso sin ascensor grande o combinan el patinete con el coche. Sigue sin ser un patinete ligero ni urbano en el sentido legal español, pero dentro de su especie es el sensato.
+
+## Doble motor y 1.500 Wh: los números en la calle
+
+| Dato | Klima | Traducción honesta |
+|---|---|---|
+| Motores | 2 × 1.000 W, 5.360 W de pico | Empuje de moto pequeña |
+| Batería | 60V 25Ah, 1.500 Wh | La reserva de un ciclomotor eléctrico |
+| Autonomía declarada | 65 km | En condiciones ideales de laboratorio |
+| Autonomía realista | ~44 km | Uso mixto con doble motor activo |
+| Velocidad máxima | 65 km/h | Muy lejos del límite legal español |
+| Peso | ~38 kg | Subirlo a un coche ya es ejercicio |
+
+La diferencia entre lo declarado y lo real no es un engaño de Nami: las autonomías de catálogo se miden a velocidad constante y moderada, mientras que un doble motor invita justo a lo contrario. Con 5.360 W de pico disponibles, el consumo lo escribe la mano derecha.
+
+## La verdad legal: un Klima no es un VMP en España
+
+La normativa de la DGT define el vehículo de movilidad personal con una velocidad máxima por construcción de 25 km/h. El Klima, capaz de 65 km/h, queda fuera de esa categoría tal cual sale de la caja: no puede circular por vías públicas españolas, ni por la calzada ni —nunca— por las aceras, y su lugar legal es el recinto privado o el circuito. Solo una versión limitada y con su certificado de circulación podría aspirar a tratarse como VMP, y aun así con el casco y las ordenanzas municipales como compañía. Es la advertencia que debe acompañar a cualquier compra de este tipo.
+
+## Mantener un doble motor: frenos, gomas y batería
+
+Un aparato que frena desde 65 km/h exige discos y pastillas en estado impecable, neumáticos con presión vigilada y una suspensión hidráulica ajustada al peso del piloto, cosas que el Klima permite regular y que conviene revisar tras los primeros kilómetros. La batería de 1.500 Wh se conserva mejor evitando descargas completas habituales y almacenamientos al 100 % durante semanas. La red de servicio europea de Nami es limitada, así que comprar a un distribuidor que responda por escrito en garantía no es un consejo: es parte del precio.
+
+## Klima o Burn-e: veredicto
+
+Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece más batería y más potencia a cambio de más peso y más dinero. **Veredicto:** el Klima merece la pena para el entusiasta que quiere prestaciones de hiperpatinete en el formato menos ingobernable posible y que tiene dónde usarlo legalmente; para circular a diario por una ciudad española, la ley manda y toca mirar patinetes VMP certificados. Mientras decides, el <a href=/juego-monos/>juego caza-monos</a> esconde sus monos a velocidades mucho más legales.
+
+## Plegado, maletero y escaleras: los 38 kilos en la práctica
+
+El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Klima?
@@ -282,7 +353,7 @@ Solo **limitado a 25 km/h** según la normativa VMP.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   {
     slug: "nami-klima-max",
@@ -355,6 +426,35 @@ Frenos de disco de alta gama y neumáticos anchos, con la suspensión hidráulic
 
 <img src=/media/patinetes/nami-klima-max-3.webp alt=Nami Klima Max en uso urbano>
 
+## Nami Electric: potencia bruta con celdas de primera
+
+Nami Electric es un fabricante chino especializado en patinetes de altas prestaciones que se ha ganado su reputación fuera de los canales habituales: sin grandes campañas, su gama Burn-E y Klima se ha extendido por Europa a través de distribuidores especializados gracias a un argumento simple, montar componentes serios (celdas LG, frenos hidráulicos, suspensiones regulables) en chasis pensados para rodar rápido. El Klima Max es la evolución lógica del <a href=/patinetes/nami-klima/>Nami Klima</a>: misma plataforma de doble motor, pero con la batería grande de 30 Ah que muchos usuarios pedían para no quedarse cortos en rutas largas. Es, en la práctica, el Klima que la marca debería haber lanzado primero.
+
+## Técnica a fondo: 1.800 Wh y dos motores de 1.000 W
+
+| Concepto | Dato del Klima Max |
+|---|---|
+| Motores | 2 x 1.000 W (5.360 W de pico) |
+| Batería | 60 V 30 Ah LG (1.800 Wh) |
+| Autonomía declarada | 85-90 km |
+| Autonomía real estimada | Unos 59 km |
+| Velocidad máxima | 70 km/h (solo circuito privado) |
+| Peso | Unos 38 kg |
+
+La clave está en la batería: 1.800 Wh con celdas LG es una capacidad propia de patinetes mucho más caros, y las celdas de marca se degradan más despacio y entregan la potencia de forma más estable que las genéricas cuando el nivel de carga baja. Los dos motores suman en aceleración y en cuestas, pero también en consumo: por eso la autonomía real estimada (59 km) se aleja de la declarada, medida a ritmo suave. La suspensión hidráulica ajustable y los frenos de disco sobredimensionados no son un capricho: con 70 km/h de punta teórica, la parte ciclo tiene que estar a la altura.
+
+## Uso real: un patinete de rutas, no de maletero
+
+Hay que ser honesto con los 38 kg: el Klima Max no es el patinete que subes a un cuarto sin ascensor ni el que combinas a diario con metro y escaleras. Es un vehículo para salir de casa rodando y hacer trayectos largos, incluso interurbanos por vías permitidas, con margen de batería de sobra. En ciudad funciona, pero su tamaño y su peso penalizan en maniobras y al aparcarlo en espacios pequeños. Para trayectos cortos y última milla hay opciones mucho más ligeras y baratas; el Max cobra sentido cuando la autonomía real y la potencia son la prioridad.
+
+## Mantenimiento, costes y normativa VMP
+
+El mantenimiento se centra en frenos (pastillas y purgado del circuito hidráulico), presión y desgaste de neumáticos, tornillería del plegado y salud de la batería: evitar descargas completas prolongadas y no guardarlo meses al 100 % alarga la vida de las celdas LG. Sin cadena ni motor de combustión, el coste por kilómetro es muy bajo; el gasto serio sería una batería de sustitución fuera de garantía, otro motivo para comprar a un importador europeo con postventa real. En normativa, la <a href=https://www.dgt.es>DGT</a> regula los VMP con un límite de 25 km/h, prohibición de aceras y certificado de circulación para los modelos comercializados en España: el Klima Max consta sin homologación DGT, así que en vía pública solo puede circular limitado a 25 km/h y su velocidad máxima queda reservada a circuito privado.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. Y entre ruta y ruta, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Klima Max?
@@ -374,7 +474,7 @@ Solo **limitado a 25 km/h** según normativa VMP.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "nami-blast",
@@ -447,6 +547,42 @@ Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (
 
 <img src=/media/patinetes/nami-blast-3.webp alt=Nami Blast rodando por ciudad>
 
+## Nami: la ingeniería de Michael Sha aplicada al patinete extremo
+
+Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de los patinetes de altas prestaciones más respetados del mercado, y su gama se presenta en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e es su escaparate, el Blast es su puerta de entrada a la **tracción total**: dos motores de **1.000 W**, batería de **60 V y 28 Ah (1.680 Wh)** y **60 km declarados** por **2.299 €**. Es el Nami de doble motor más barato, y su planteamiento es el contrario al de un VMP urbano: chasis robusto, batalla larga y unos **46 kg** que dejan claro que no está pensado para subir escaleras.
+
+## La técnica: doble motor y 1.680 Wh con autonomía honesta
+
+| Dato | Nami Blast |
+|---|---|
+| Motores | Doble, 1.000 W + 1.000 W |
+| Batería | 60 V 28 Ah (1.680 Wh) |
+| Autonomía declarada | 60 km |
+| Autonomía real estimada | Unos 40 km |
+| Velocidad máxima | 70 km/h |
+| Peso | Unos 46 kg |
+| Precio | 2.299 € |
+
+La lectura que ya hace el post original es la correcta: el doble motor gasta, y los 60 km declarados se quedan en **unos 40 reales** en uso mixto. A cambio, la tracción total da una aceleración y una capacidad en cuesta que un monomotor de su precio no iguala, y la estabilidad a velocidad es la seña de la casa gracias al peso y a la batalla. Los frenos de disco y los neumáticos anchos están dimensionados para sus 70 km/h, una cifra que en España solo tiene sentido fuera de la vía pública, como se explica en el apartado de normativa.
+
+## Uso real: máquina de fin de semana, no de última milla
+
+El Blast es un patinete para disfrutar en entornos permitidos y para usuarios que aceptan su logística: 46 kg no se meten en un maletero pequeño ni se suben a un tercero sin ascensor. Como transporte diario legal tiene el límite de los 25 km/h y, limitado, sigue pesando 46 kg: la peor combinación posible para intermodalidad. Su sitio es el del aficionado que quiere prestaciones de doble motor sin pagar el Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza las paradas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: batería grande, red pequeña
+
+Nami no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable en un doble motor de esta clase es el gasto en neumáticos y frenos acorde a su peso y velocidad, el cuidado de una batería de **1.680 Wh** (su recambio sería la partida mayor de su vida útil) y la dependencia de importadores y talleres especializados, que el propio análisis señala como red limitada. Antes de comprar, confirma quién te venderá recambios de controlador, motor y batería en España: en este segmento, ese dato vale más que 100 € de descuento.
+
+## Normativa: sin homologación DGT, 70 km/h solo fuera de la vía pública
+
+El Blast **no está homologado por la DGT** como VMP, y el post original lo dice sin rodeos: en España solo puede plantearse **limitado a 25 km/h**, sin circular por aceras y por las vías permitidas a los VMP según la normativa de la <a href=https://www.dgt.es>DGT</a>. Sus 70 km/h son para circuito o espacio privado. Un patinete sin la certificación VMP exigida a los modelos nuevos puede además tener problemas para acreditar su legalidad en un control, un riesgo que el comprador debe asumir con toda la información antes de pagar 2.299 €.
+
+## Frente al Nami Blast Max y al Burn-e 3 Max: veredicto
+
+Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
+
+**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Blast?
@@ -466,7 +602,7 @@ Unos **46 kg**: no apto para subir por escaleras.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.namielectric.com>Nami Electric (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "nami-blast-max",
@@ -539,6 +675,39 @@ A este nivel, Nami monta frenada y gomas acordes a 80 km/h: discos grandes y neu
 
 <img src=/media/patinetes/nami-blast-max-3.webp alt=Nami Blast Max en carretera>
 
+## Blast Max: el Burn-e que cambió de chasis para bajar de peso
+
+Nami construyó su reputación con el Burn-e, y el Blast Max parte de su misma receta de prestaciones extremas sobre un chasis distinto que recorta el conjunto hasta los 45 kilos. La lógica es la de la gama: por debajo, el Klima para quien busca algo más manejable; por arriba, este Blast Max para quien lo quiere todo —dos motores de 1.500 W, una batería de 2.400 Wh y una velocidad punta de 80 km/h— en un objeto que sigue llamándose patinete por cortesía del lenguaje.
+
+## 8.400 vatios en un patinete: física y cifras
+
+| Dato | Blast Max | Lectura práctica |
+|---|---|---|
+| Motores | 2 × 1.500 W, 8.400 W de pico | Aceleración de ciclomotor deportivo |
+| Batería | 60V 40Ah, 2.400 Wh | De las mayores jamás montadas en un patinete |
+| Autonomía declarada | 100 km | Cifra de laboratorio a ritmo suave |
+| Autonomía realista | ~67 km | Uso mixto sin abusar del modo sport |
+| Velocidad máxima | 80 km/h | Territorio de moto, no de VMP |
+| Peso | ~45 kg | Transportarlo es parte del ejercicio |
+
+Esas cifras explican el resto del diseño: a 80 km/h un patinete deja de ser un juguete y se convierte en un vehículo que exige frenos grandes, neumáticos anchos y una doble suspensión que mantenga las ruedas en el suelo cuando el firme se arruga.
+
+## Fuera de la ley en la vía pública: dónde puede vivir un Blast Max
+
+Con el límite de 25 km/h que la DGT fija para los vehículos de movilidad personal, el Blast Max queda fuera de la vía pública española tal como se entrega: ni calzada, ni carril bici y por supuesto ni aceras. Su hábitat legal es el recinto privado y el circuito, y allí debería tratarse con el respeto de una moto: casco integral, guantes y protecciones, porque una caída a sus velocidades no entiende de categorías administrativas. Quien busque un Nami para moverse por la ciudad tendrá que mirar a versiones limitadas y certificadas, no a este.
+
+## Una batería de 2.400 Wh: cuidados y costes reales
+
+Una batería de 40 Ah no se llena en un descanso: su carga completa es un plan nocturno, y su salud a largo plazo agradece no vivir siempre al 100 % ni apurar las descargas hasta el cero. Los consumibles tampoco son de patinete urbano: neumáticos y pastillas trabajan a ritmo de ciclomotor, y la red de servicio europea de Nami sigue siendo limitada, de modo que la garantía por escrito del distribuidor forma parte del precio aunque no aparezca en la etiqueta. Sin PVP oficial europeo, comparar presupuestos entre importadores es la única referencia sensata.
+
+## Blast Max o Burn-e 3 Max: veredicto
+
+El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de prestaciones gemelas y más recorrido comercial, frente al que el Blast Max solo gana si aparece sensiblemente más barato. **Veredicto:** merece la pena para el aficionado a las prestaciones extremas que disponga de espacio privado donde usarlo y asuma su logística; como vehículo para la calle en España, sencillamente no es legal ni práctico. Y si la velocidad se te queda en la cabeza, siempre puedes desquitarte buscando monos a ritmo humano en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## ¿Y si lo limito a 25 km/h por la pantalla?
+
+Es la pregunta que todo comprador se hace, y la respuesta legal es incómoda: limitar electrónicamente un vehículo capaz de 80 km/h no lo convierte en un vehículo de movilidad personal a ojos de la normativa española. La categoría se define por la velocidad máxima de construcción y exige además cumplir el manual de características técnicas de la DGT con su certificado de circulación correspondiente. Un Blast Max limitado por software sigue siendo, administrativamente, un vehículo sin categoría para la vía pública. La única vía honesta de usarlo a diario sería una versión nacida y certificada como VMP, que es otro producto distinto.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Nami Blast Max?
@@ -558,7 +727,7 @@ Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>.*`,
+*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
   },
   // ────────────────────────── TEVERUN (7) ─────────────────────────
   {
@@ -1455,6 +1624,42 @@ No hay discusión posible: con 90 km/h de máxima, el RS Lite **no es un VMP** n
 
 <img src=/media/patinetes/inmotion-rs-lite-3.webp alt=InMotion RS Lite en circuito>
 
+## InMotion: del monociclo eléctrico al hyper-scooter RS
+
+InMotion es un fabricante chino especializado en movilidad eléctrica personal que saltó de los monociclos a los patinetes de altas prestaciones con la familia RS, presentada en su red oficial y distribuidores como <a href=https://www.inmotion-france.fr>InMotion France</a>. El RS Lite es la versión «razonable» de esa familia, y las comillas son obligadas: **dos motores de 1.500 W con 6.000 W de pico**, batería de **72V y 30 Ah (2.160 Wh)** y **88-90 km/h** de velocidad máxima. «Lite» solo significa que existe un RS Midnight con más motor y más batería; en cualquier otra compañía, este sería el buque insignia absoluto.
+
+## La técnica: 2.160 Wh y chasis de referencia
+
+| Dato | InMotion RS Lite |
+|---|---|
+| Motores | 2 x 1.500 W (6.000 W de pico) |
+| Batería | 72V 30Ah · 2.160 Wh |
+| Autonomía declarada | 120 km |
+| Autonomía real estimada | Unos 80 km |
+| Velocidad máxima | 88-90 km/h |
+| Peso | 52,6 kg |
+| Precio de referencia | Unos 2.999 $ en EE. UU. |
+
+La batería de **2.160 Wh** es de las grandes del segmento hyper y sostiene la autonomía declarada de 120 km, que el análisis original rebaja con honestidad a **unos 80 km reales**: con 6 kW de pico, la autonomía depende de la muñeca más que de la ficha. El chasis RS tiene fama de ser de los más estables a alta velocidad entre los hyper-scooters, y su electrónica es de las más fiables de la categoría, dos virtudes que el post original destaca frente a rivales más baratos. El peaje es físico: **52,6 kg** no se suben a un piso ni se meten en un maletero pequeño.
+
+## Uso real: circuito privado y protecciones de moto
+
+Hay que repetir lo que dice el análisis sin suavizarlo: con 90 km/h de máxima, el RS Lite no es un VMP ni puede circular legalmente por la vía pública española ni limitado, porque su velocidad por construcción lo excluye de la categoría. Su uso real es el circuito privado y los recintos cerrados, con protecciones de moto, no de patinete. Para calle, la categoría legal son los 25 km/h de los modelos certificados que encontrarás en el <a href=/comparador-patinetes/>comparador de patinetes</a>. Quien lo compre para otra cosa asume una sanción y un problema de seguro, no un capricho. Ameniza la lectura con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: recambios de nicho, batería protagonista
+
+InMotion no publica tarifas de mantenimiento del RS Lite aplicables en España que podamos citar, y no las inventamos. Lo verificable en un hyper-scooter de doble motor es su patrón de gasto: neumáticos y frenos sometidos a prestaciones de moto, y una batería de 2.160 Wh como el componente caro del conjunto, cuya vida depende de cargarla con su cargador y no almacenarla descargada. El post original ya advierte de los recambios de nicho: sin la red de un Xiaomi o un Segway, cada pieza específica llega por importador, y eso debe entrar en el presupuesto junto a los 2.999 dólares de referencia.
+
+## Normativa: fuera de los VMP por velocidad de construcción
+
+La normativa de la <a href=https://www.dgt.es>DGT</a> define el VMP con una velocidad máxima por construcción de 25 km/h y exige certificación para los modelos nuevos. El RS Lite la supera por más del triple, así que no existe limitación electrónica que lo convierta en legal para la vía pública española: su sitio es el circuito privado. Tampoco le aplica el debate del casco o las aceras propio de los VMP, porque sencillamente no puede estar en la calle. Es la frontera que separa un patinete de un vehículo de ocio de circuito, y conviene tenerla clara antes de pagar.
+
+## Frente al InMotion RS Midnight y al Kaabo Wolf King GT Pro: veredicto
+
+Dentro de la casa, el <a href=/patinetes/inmotion-rs-midnight/>InMotion RS Midnight</a> figura en su ficha con 58 kg y los motores de 2x2.000 W que ya compara el análisis original: más prestaciones por más dinero y más peso. El <a href=/patinetes/kaabo-wolf-king-gt-pro/>Kaabo Wolf King GT Pro</a> declara en su ficha 180 km de autonomía y 52 kg, la alternativa hyper de Kaabo. El RS Lite se defiende con el chasis y la electrónica que el post destaca como referentes, y con ser el RS más asequible de la familia.
+
+**¿Merece la pena?** Como hyper-scooter de circuito, el Lite es el punto de entrada sensato a la familia RS. **Para quién sí:** para quien ruede en recinto privado y valore estabilidad y electrónica fiable. **Para quién no:** para cualquier uso en vía pública española, donde es ilegal sin matices, y para quien no pueda mover 52,6 kg.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el InMotion RS Lite?
@@ -1471,7 +1676,7 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion.*`,
+*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotion-france.fr>InMotion France (distribuidor oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "inmotion-rs-midnight",
@@ -1544,6 +1749,42 @@ Con 96 km/h, el Midnight **está fuera de cualquier categoría VMP** en España:
 
 <img src=/media/patinetes/inmotion-rs-midnight-3.webp alt=InMotion RS Midnight en recta de circuito>
 
+## InMotion: del monociclo eléctrico a los patinetes de 96 km/h
+
+InMotion es un fabricante chino especializado en vehículos eléctricos personales (monociclos, patinetes) cuya gama se presenta en su <a href=https://www.inmotionworld.com>web oficial</a>. La serie RS es su escaparate de prestaciones: patinetes de doble motor pensados para competir con los Teverun y los Nami en la liga de los hiperpatinetes. El RS Midnight es la edición especial oscura de esa familia, y su carta de presentación no admite medias tintas: **8.400 W de potencia de pico y 96 km/h** de velocidad máxima declarada. Todo lo demás en este análisis (legalidad, peso, sentido) cuelga de esas dos cifras.
+
+## La técnica: números de moto en formato patinete
+
+| Dato | InMotion RS Midnight |
+|---|---|
+| Motores | 2 x 2.000 W (8.400 W de pico) |
+| Batería | 72V 40Ah (2.880 Wh) |
+| Autonomía declarada | 96 km |
+| Autonomía real estimada | ~64 km |
+| Velocidad máxima | 96 km/h |
+| Peso | 58 kg |
+| Precio | ~3.999 $ |
+
+La batería de **2.880 Wh** es más grande que la de muchas motos eléctricas urbanas, y explica tanto la autonomía como los 58 kg: esto no es un patinete que se suba a un piso por las escaleras ni se meta en un maletero alegremente. La autonomía real estimada de unos 64 km que recoge el post es la lectura honesta de los 96 km declarados, medidos a ritmo suave. Y hay una verdad mecánica que el propio análisis subraya: a 96 km/h, los frenos y los neumáticos tienen que ser de nivel moto, porque la física no perdona el formato.
+
+## Uso real: un aparato de circuito, no de ciudad
+
+El RS Midnight tiene un uso legítimo y estrecho: rodar en **circuito privado** o en espacios cerrados donde su velocidad no sea un problema legal ni un peligro público. Como vehículo de transporte es un contrasentido: ilegal en vía pública española, imposible de asegurar para circular y demasiado pesado para la intermodalidad que da sentido a un patinete. Quien lo compre debe hacerlo con la misma mentalidad que quien compra una moto de cross sin matricular: el juguete es espectacular, el garaje y el remolque forman parte del presupuesto. Si buscas patinete para el día a día, la categoría legal está en el <a href=/comparador-patinetes/>comparador de patinetes</a>, y el rato de paddock lo ameniza nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: batería enorme, electrónica compleja
+
+InMotion no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable es el patrón de estos hiperpatinetes: doble motor, doble controlador y una batería de 2.880 Wh cuyo reemplazo sería el gasto mayor de su vida útil, además de neumáticos y frenos sometidos a esfuerzos de moto. El post original advierte además de que pocos talleres tocan estos aparatos: la posventa pasará por el importador y por la comunidad de usuarios, y conviene asumirlo antes de pagar unos 4.000 dólares.
+
+## Normativa: fuera de la categoría VMP, sin matices
+
+La normativa española de vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es>DGT</a>, define los VMP con velocidades máximas de 25 km/h y exige certificación para circular. Un aparato de 96 km/h y 58 kg **no es un VMP** ni puede convertirse en uno limitándolo con un modo de la pantalla: en vía pública sería tratado como un vehículo sin autorización para circular, con las sanciones y la responsabilidad que ello implica en caso de accidente. El post original lo dice sin rodeos y este análisis lo repite: circuito privado o nada.
+
+## Frente a Nami Burn-e 3 Max y Teverun Blade GT II: veredicto
+
+Sus dos rivales naturales tienen ficha en esta casa: el <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> iguala los 8.400 W de pico y la batería de 2.880 Wh, declara 105 km/h y 135 km de autonomía (90 reales) y cuesta 4.449 € con 47,5 kg; el <a href=/patinetes/teverun-blade-gt-2/>Teverun Blade GT II</a> se queda en 5.000 W de pico y 85 km/h con 2.100 Wh. Los tres comparten la misma sentencia legal en España. El InMotion gana al Teverun en cifras y pierde con el Nami en velocidad punta declarada y peso.
+
+**¿Merece la pena?** Como máquina de circuito y objeto de colección de los hiperpatinetes, el RS Midnight es de lo más extremo que se vende. **Para quién sí:** para el aficionado con espacio privado donde rodarlo y presupuesto para mantenerlo. **Para quién no:** para absolutamente cualquiera que piense en usarlo en la calle: ahí no es caro o barato, es simplemente ilegal.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta?
@@ -1560,7 +1801,7 @@ Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion.*`,
+*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotionworld.com>InMotion (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "inmotion-s1f",
@@ -1633,6 +1874,43 @@ Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado
 
 <img src=/media/patinetes/inmotion-s1f-3.webp alt=InMotion S1F en ciudad>
 
+## InMotion: del monociclo eléctrico al patinete de gran autonomía
+
+InMotion nació en el mundo de los monociclos eléctricos y aplicó esa experiencia en baterías y motores a su gama de patinetes, donde la serie S es su propuesta de larga distancia. El S1F es su versión más equilibrada: **500 W nominales y 1.000 W de pico, 675 Wh** (54 V y 12,5 Ah), **80-95 km declarados** y **24 kg** por **625 €**. El análisis original lo resume en una frase que sigue vigente: es el coste por kilómetro de autonomía más bajo del mercado, porque la competencia a ese precio ofrece la mitad de batería.
+
+## La técnica: 675 Wh mandan sobre todo lo demás
+
+| Dato | InMotion S1F |
+|---|---|
+| Precio | 625 € |
+| Motor | 500 W (1.000 W de pico) |
+| Batería | 54 V 12,5 Ah (675 Wh) |
+| Autonomía declarada | 80-95 km |
+| Autonomía real estimada | Unos 59 km |
+| Velocidad máxima | 25/40 km/h |
+| Peso | 24 kg |
+| Neumáticos | 10 pulgadas |
+
+La cuenta es sencilla: con **675 Wh**, incluso descontando el optimismo habitual de las cifras declaradas, quedan unos **59 km reales** en uso mixto según la estimación del análisis. Eso lo cambia todo en el uso: deja de ser un patinete de barrio para convertirse en herramienta de trayectos largos o de varios días sin cargar. El motor de 500 W con picos de 1.000 W resuelve las cuestas urbanas con solvencia. Frenos de disco y neumáticos de 10 pulgadas completan un conjunto sin alardes, correcto para sus 24 kg y sus dos personalidades de velocidad: 25 o 40 km/h según el modo y el mercado.
+
+## Uso real: kilómetros primero, diseño después
+
+El S1F es para quien hace distancia: repartidores urbanos por cuenta propia, usuarios de extrarradio con trayectos de 15-25 km o quien quiera cargar una o dos veces por semana en vez de cada noche. Su diseño genérico y sus 24 kg avisan de lo contrario: no es el patinete de subir a un quinto sin ascensor ni el de presumir. En España, además, su uso en vía pública exige dejarlo en el modo de **25 km/h**, porque en su configuración de 40 km/h queda fuera de la categoría VMP. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza la lectura con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: batería grande, cuidados grandes
+
+InMotion no publica una tabla de tarifas del S1F que podamos citar, y no la inventamos. Lo verificable en su clase es el mantenimiento ordinario de un patinete con freno de disco y neumáticos de 10 pulgadas: pastillas, cubiertas y el cuidado de la batería, que aquí es la pieza valiosa del conjunto. Con 675 Wh, las buenas prácticas importan más que en un patinete pequeño: evitar descargas completas prolongadas y usar su cargador original alarga la vida del componente que justifica la compra. El análisis original ya señalaba la distribución mejorable de la marca en España: confirma la posventa antes de comprar.
+
+## Normativa: VMP a 25 km/h y certificación de la DGT
+
+La <a href=https://www.dgt.es>DGT</a> encuadra el patinete como vehículo de movilidad personal solo si su velocidad máxima por construcción no supera los **25 km/h**, con circulación prohibida en aceras y el certificado que la normativa exige a los modelos vendidos en España. El S1F declara hasta 40 km/h en su configuración abierta, así que en España debe usarse limitado a 25 km/h, y su conformidad plena depende del certificado del modelo concreto. Es exactamente la advertencia del análisis original: la potencia y la batería no dan derechos de circulación; los da la homologación como VMP.
+
+## Frente al InMotion S1 y al Air Pro: veredicto
+
+Su hermano con ficha, el <a href=/patinetes/inmotion-s1/>InMotion S1</a>, comparte los 675 Wh y declara 95 km con unos 61 km reales según su ficha, pero pesa solo 19 kg y está limitado de fábrica a 25 km/h: es el S1F ya legal y más ligero. El <a href=/patinetes/inmotion-air-pro/>InMotion Air Pro</a> juega a otra cosa: 400 W, 438 Wh, 48 km declarados y unos 32 reales con 17,7 kg, pensado para quien prioriza llevarlo encima. El S1F queda como el de la autonomía bruta por 625 €, con la letra pequeña de la limitación.
+
+**¿Merece la pena?** Por euros por kilómetro real, sigue siendo de lo mejor del mercado. **Para quién sí:** para quien haga muchos kilómetros y acepte limitarlo a 25 km/h en España. **Para quién no:** para quien quiera un VMP certificado sin vueltas —el S1— o un patinete ligero de última milla —el Air Pro—.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el InMotion S1F?
@@ -1652,7 +1930,7 @@ El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor 
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.iroll.co.za/>iRoll</a> e InMotion.*`,
+*Fuentes: <a href=https://www.iroll.co.za/>iRoll</a> e InMotion., <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
   },
   {
     slug: "inmotion-l9",
@@ -1725,6 +2003,43 @@ Con su velocidad de **25-30 km/h**, es un VMP de manual: **limitado a 25 km/h** 
 
 <img src=/media/patinetes/inmotion-l9-3.webp alt=InMotion L9 en ruta>
 
+## InMotion: del monociclo eléctrico al patinete de gran autonomía
+
+InMotion es un fabricante chino especializado en movilidad eléctrica personal, conocido primero por sus monociclos y después por una gama de patinetes que puede consultarse en la <a href=https://www.inmotion.com/>web oficial de InMotion</a>. El L9 ocupa un lugar concreto en esa gama: no es el patinete de iniciación ni el deportivo de la casa, sino el de **gran autonomía para uso urbano intensivo**. Comparte base con el S1F —misma batería de **675 Wh** y mismo motor de **500 W**— pero con una puesta a punto contenida, orientada a consumir poco y durar mucho entre cargas.
+
+## La autonomía, explicada sin humo: 95 declarados, unos 64 reales
+
+| Dato | InMotion L9 |
+|---|---|
+| Batería | 54 V y 12,5 Ah (675 Wh) |
+| Motor | 500 W (1.000 W de pico) |
+| Autonomía declarada | 95 km |
+| Autonomía real estimada | Unos 64 km en ciudad |
+| Velocidad máxima | 25-30 km/h |
+| Peso | 23,9 kg |
+| Neumáticos | 10 pulgadas |
+| Precio de referencia | Sin PVP oficial en euros (unos 999 dólares) |
+
+La diferencia entre los **95 km declarados** y los **64 km reales** que estima este análisis no es un engaño específico de InMotion: es la diferencia habitual entre el ciclo de homologación del fabricante —piloto ligero, velocidad constante y baja— y la ciudad real, con semáforos, peso del piloto y viento. Aun con el descuento, 64 km reales por carga siguen siendo una cifra alta para un patinete de **23,9 kg**, y esa es su verdadera carta: pocos modelos combinan esa batería con un peso todavía asumible para subir unos escalones o meterlo en un maletero.
+
+## Uso real: para quien hace kilómetros, no para quien busca sensaciones
+
+El L9 está pensado para trayectos largos y repetitivos: ir al trabajo a varios kilómetros, encadenar recados, campus grandes. Su velocidad contenida de **25-30 km/h** y la ausencia de una suspensión destacable, señalada entre sus contras, lo orientan a asfalto urbano en buen estado, no a aventura ni a firme roto. Con 23,9 kg no es el patinete que se sube a un quinto sin ascensor todos los días: es ligero para su batería, pero no es un patinete ligero en términos absolutos, y conviene asumirlo antes de comprar.
+
+## Mantenimiento: lo de un VMP eléctrico, con la batería como protagonista
+
+El mantenimiento de un patinete como el L9 se concentra en lo verificable y general de cualquier VMP eléctrico: presión y desgaste de los neumáticos de 10 pulgadas, frenos de disco —pastillas y ajuste—, holguras de la dirección y, sobre todo, la salud de la batería de 675 Wh, que es el componente más caro del conjunto. Cuidarla significa no almacenarla descargada durante semanas y cargarla con su cargador. No publicamos costes porque no hay una tabla oficial de mantenimiento del L9 para España que se pueda enlazar con fuente, y en esta casa las cifras no se inventan.
+
+## Normativa VMP en España: certificado DGT y límite de 25 km/h
+
+En España, un patinete como el L9 es un **vehículo de movilidad personal (VMP)**: debe circular limitado a **25 km/h**, tiene prohibidas las aceras y debe respetar la normativa de certificación de la DGT para los VMP nuevos, cuyo marco oficial puede consultarse en la <a href=https://www.dgt.es/>web oficial de la DGT</a>. El post original ya clasifica al L9 como VMP de manual, sin líos legales, siempre que se use en su configuración limitada. Casco, luces y respeto a las ordenanzas municipales de cada ciudad completan el paquete legal básico del usuario.
+
+## L9 o S1F, y frente a la competencia: veredicto
+
+La comparativa decisiva es la interna: el propio análisis lo resume en que el **S1F hace casi lo mismo por 625 €**, es más rápido y se vende en Europa, mientras que el L9 es más eficiente, más contenido y no tiene precio oficial en euros. Contra patinetes de gran autonomía de otras marcas, el L9 gana en relación entre batería y peso y pierde en presencia comercial en España. Puedes comparar la gama de la marca, con el <a href=/patinetes/inmotion-s1f/>InMotion S1F</a> y el <a href=/patinetes/inmotion-climber/>InMotion Climber</a>, en el <a href=/comparador-patinetes/>comparador de patinetes</a>, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para quien priorice autonomía real por encima de todo y pueda conseguirlo a precio competitivo en Europa. **Para quién no:** para quien compre en España con garantía local y precio cerrado: ahí el S1F, con red y PVP en euros, es hoy la compra más fácil de justificar.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía real tiene?
@@ -1741,7 +2056,7 @@ Sí, como VMP **limitado a 25 km/h**.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.levyelectric.com/>Levy Electric</a> e InMotion.*`,
+*Fuentes: <a href=https://www.levyelectric.com/>Levy Electric</a> e InMotion., <a href=https://www.inmotion.com/>InMotion (web oficial)</a>, <a href=https://www.dgt.es/>DGT (normativa VMP)</a>*`,
   },
   // ─────────────────────────── HIBOY (7) ──────────────────────────
   {
@@ -3282,6 +3597,38 @@ Con **45 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **acera
 | Primer patinete potente ideal | Batería pequeña |
 
 <img src=/media/patinetes/kukirin-a1-3.webp alt=KuKirin A1 en uso diario>
+
+## KuKirin: la marca que bajó el precio de la potencia
+
+KuKirin se ha hecho un nombre en Europa vendiendo patinetes eléctricos de altas prestaciones a precios muy inferiores a los de las marcas tradicionales, principalmente a través de su tienda oficial europea y de distribuidores en línea. Puedes consultar la gama y las condiciones en la web oficial enlazada en las fuentes, <a href=https://eu-kukirin.com/>KuKirin EU</a>, y contrastar el modelo con el resto de la familia en nuestra <a href=/patinetes/kukirin-a1/>ficha del KuKirin A1</a>.
+
+## Técnica en detalle: 800 W y 624 Wh por unos 439 €
+
+| Aspecto | Dato del modelo | Lectura práctica |
+|---|---|---|
+| **Motor** | 800 W | Sube cuestas urbanas que un 350 W no puede |
+| **Batería** | 48V 13Ah (624 Wh) | La cifra que explica su autonomía real |
+| **Autonomía** | 45 km declarados, ~30 km reales | Suficiente para jornadas urbanas medias |
+| **Velocidad** | 45 km/h (a limitar a 25 km/h en España) | De serie supera el límite VMP legal |
+| **Peso** | 25,5 kg | Potente, pero ya no es un patinete para subir a pulso a un quinto |
+
+El conjunto es coherente para su precio: motor con fuerza de sobra para ciudad con desnivel, batería de capacidad intermedia y un peso que todavía se puede gestionar en tramos cortos de escaleras, aunque nadie lo describiría como ligero. En el <a href=/comparador-patinetes/>comparador de patinetes</a> puedes ver que su relación potencia-precio sigue siendo su argumento imbatible.
+
+## Uso real y autonomía: para quién encaja
+
+Unos **30 km reales** dan para mucho en ciudad: ida y vuelta al trabajo para la mayoría de usuarios, recados encadenados o reparto ligero en distancias cortas. El límite aparece cuando la jornada se alarga o cuando el conductor es pesado y el recorrido tiene cuestas constantes, porque la batería de 13Ah es, como dice la ficha, su techo. La potencia de 800 W cambia la experiencia frente a un urbano básico: mantiene el ritmo en pendientes y no obliga a ayudar con el pie en cada rampa de garaje. A cambio, sus 25,5 kg castigan si hay que plegarlo y cargarlo a diario en trenes o autobuses. Y una advertencia práctica: circularás limitado a 25 km/h, así que esos 800 W se traducen en aceleración y capacidad de subida, no en velocidad legal. Si combinas trayectos largos, su hermano <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, con 874 Wh según la propia comparativa de la ficha, es el paso lógico. Entre trayecto y trayecto, puedes buscar los monos del <a href=/juego-monos/>juego caza-monos</a> ocultos en la web.
+
+## Mantenimiento y costes de uso
+
+El mantenimiento de un patinete de este tipo se centra en frenos, neumáticos, tornillería del plegado y salud de la batería. Con 800 W y más de 25 kg, las pastillas de freno y las cubiertas trabajan más que en un urbano ligero: revísalas con frecuencia y no apures una cubierta gastada, porque la frenada se alarga. La batería agradece no guardarla descargada ni exponerla a calor extremo, y cargarla siempre con su cargador original. Al comprarse mayoritariamente en línea, localiza antes un taller de movilidad eléctrica en tu ciudad que acepte mantenerlo, aunque no sea servicio oficial.
+
+## Normativa VMP en España: limitado a 25 km/h, con certificado en el horizonte
+
+En España, un patinete eléctrico es un **vehículo de movilidad personal (VMP)** si cumple la definición de la DGT: velocidad máxima por diseño entre 6 y 25 km/h, una o dos ruedas y uso por una sola persona. Además, desde el 22 de enero de 2024 los VMP que se comercializan deben contar con la **certificación** exigida por la DGT, y los modelos anteriores tienen un régimen transitorio que conviene comprobar en la <a href=https://www.dgt.es/>web oficial de la DGT</a> antes de comprar cualquier unidad.
+
+## Comparativa y veredicto
+
+Dentro de la propia gama, el A1 se defiende así: es más barato y manejable que el <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, que gana en batería (874 Wh), y más sencillo que propuestas superiores como el <a href=/patinetes/kukirin-g2-max/>KuKirin G2 Max</a>.
 
 ## Preguntas frecuentes
 

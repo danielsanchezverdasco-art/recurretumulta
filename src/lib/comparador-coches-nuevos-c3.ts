@@ -1468,7 +1468,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
   },
   {
     id: "seat-leon-2025-precio-ficha-tecnica",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "León 2025",
     tipo: "Híbrido ligero",
     categoria: "Compacto",
@@ -1541,7 +1541,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
   },
   {
     id: "seat-ibiza-2025-precio-ficha-tecnica",
-    marca: "Seat",
+    marca: "SEAT",
     modelo: "Ibiza 2025",
     tipo: "Gasolina",
     categoria: "Urbano",

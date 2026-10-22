@@ -14,8 +14,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6VovKfkRCsw",
     videoCanal: null,
     marca: "Forthing",
@@ -56,7 +56,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 174,
     aprox: [],
-    imagen: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 11.84,
@@ -71,24 +71,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing T5 EVO rojo, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing T5 EVO rojo, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-evo-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing T5 EVO, salpicadero con doble pantalla digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-t5-evo-2025-precio-ficha-tecnica",
   },
@@ -97,8 +82,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
@@ -139,7 +124,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 7.84,
@@ -154,24 +139,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing T5 EVO HEV azul, tres cuartos delantero en carretera costera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing T5 EVO HEV azul, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing T5 EVO HEV, salpicadero con doble pantalla digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-t5-evo-hev-2025-precio-ficha-tecnica",
   },
@@ -180,15 +150,15 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-t5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-t5-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-t5-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
     modelo: "T5",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado en EUR: la web oficial global de Forthing (forthingmotor.com) lista el T5 gasolina como producto de exportación B2B sin precios públicos;.
     potenciaCv: 190,
     autonomiaKm: null,
     maleteroL: null,
@@ -222,7 +192,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/forthing-t5-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 11.52,
@@ -237,24 +207,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-t5-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing T5 blanco, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing T5 blanco, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-t5-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing T5, salpicadero amplio de SUV familiar",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-t5-2025-precio-ficha-tecnica",
   },
@@ -263,8 +218,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "mRNIYk6PQOk",
     videoCanal: "Movilidad Eléctrica Uruguay",
     marca: "Forthing",
@@ -305,7 +260,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.06,
@@ -320,24 +275,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing Friday EV gris, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing Friday EV gris, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing Friday EV con techo panorámico estrellado",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-friday-ev-2025-precio-ficha-tecnica",
   },
@@ -346,8 +286,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "bSs6eG3RRZI",
     videoCanal: "Voltico",
     marca: "Forthing",
@@ -388,7 +328,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 5.5,
@@ -403,24 +343,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing Friday REEV verde, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing Friday REEV verde, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-friday-reev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing Friday REEV con pantalla central de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-friday-reev-2025-precio-ficha-tecnica",
   },
@@ -429,8 +354,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
@@ -471,7 +396,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.14,
@@ -486,24 +411,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing S7 EV plateado, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing S7 EV plateado, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-s7-ev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing S7 EV con gran pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-s7-ev-2025-precio-ficha-tecnica",
   },
@@ -637,8 +547,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-u-tour-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-u-tour-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
@@ -679,7 +589,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 180,
     aprox: [],
-    imagen: "/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 12.16,
@@ -694,24 +604,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing U-Tour azul oscuro, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-u-tour-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing U-Tour azul oscuro, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-u-tour-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing U-Tour con tres filas de asientos de cuero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-u-tour-2025-precio-ficha-tecnica",
   },
@@ -720,8 +615,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
@@ -762,7 +657,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 11.2,
@@ -777,24 +672,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing U-Tour HEV blanco, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing U-Tour HEV blanco, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Forthing U-Tour HEV con asientos capitán y doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-u-tour-hev-2025-precio-ficha-tecnica",
   },
@@ -803,8 +683,8 @@ export const COCHES_FORTHING: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/forthing-v9-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/forthing-v9-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/forthing-v9-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Forthing",
@@ -845,7 +725,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/forthing-v9-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 6.0,
@@ -860,24 +740,9 @@ export const COCHES_FORTHING: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/forthing-v9-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Forthing V9 negro, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-v9-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Forthing V9 negro, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/forthing-v9-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior ejecutivo del Forthing V9 con tres pantallas panorámicas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "forthing-v9-2025-precio-ficha-tecnica",
   },

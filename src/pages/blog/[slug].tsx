@@ -687,7 +687,7 @@ function BlogPostPage() {
               </span>
               <span>Por <Link to="/sobre-nosotros/" rel="author" className="underline underline-offset-2 hover:text-white">Daniel</Link>, fundador y responsable de contenidos de RecurreTuMulta.online</span>
               <span aria-hidden="true">·</span>
-              <span>Actualizado: {post.date}</span>
+              <span>{`Actualizado: ${post.date}`}</span>
             </div>
           </div>
         </div>

@@ -17,7 +17,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "BtIn772syqg",
     videoCanal: "Loading Cars",
     marca: "Suzuki",
@@ -73,7 +73,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki Vitara Strong Hybrid, vista trasera en carretera",
         "ancho": 1920,
         "alto": 1280
@@ -85,7 +85,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki Vitara Strong Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -101,7 +101,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "QXbVxqEbNho",
     videoCanal: "CarFanáticos",
     marca: "Suzuki",
@@ -157,7 +157,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki S-Cross Mild Hybrid, vista frontal en puerto de montaña",
         "ancho": 1920,
         "alto": 1280
@@ -169,7 +169,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki S-Cross Mild Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -185,7 +185,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-s-cross-strong-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-s-cross-strong-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Suzuki",
@@ -241,7 +241,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-s-cross-strong-hybrid-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki S-Cross Strong Hybrid en carretera de bosque",
         "ancho": 1920,
         "alto": 1280
@@ -253,7 +253,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/suzuki-s-cross-strong-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki S-Cross Strong Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -269,7 +269,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-across-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-across-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "O2OcuVk4WxI",
     videoCanal: "Loading Cars",
     marca: "Suzuki",
@@ -325,7 +325,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-across-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki Across PHEV cargando en un wallbox doméstico",
         "ancho": 1920,
         "alto": 1280
@@ -337,7 +337,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/suzuki-across-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki Across PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -353,7 +353,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-swace-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-swace-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Suzuki",
@@ -409,7 +409,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-swace-hybrid-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki Swace Hybrid con el portón abierto y maletero cargado",
         "ancho": 1920,
         "alto": 1280
@@ -421,7 +421,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/suzuki-swace-hybrid-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki Swace Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -437,7 +437,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-e-vitara-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-e-vitara-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "RI7nMJBxCic",
     videoCanal: "Periodismo del Motor",
     marca: "Suzuki",
@@ -493,7 +493,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/suzuki-e-vitara-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Suzuki e Vitara cargando en un punto de carga rápida",
         "ancho": 1920,
         "alto": 1280
@@ -505,7 +505,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/suzuki-e-vitara-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Suzuki e Vitara",
         "ancho": 1920,
         "alto": 1280
@@ -605,7 +605,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/suzuki-jimny-pro-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/suzuki-jimny-pro-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "fRrvn85D53s",
     videoCanal: "DiarioMotor",
     marca: "Suzuki",
@@ -680,7 +680,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/suzuki-jimny-pro-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior funcional del Suzuki Jimny Pro",
         "ancho": 1200,
         "alto": 800

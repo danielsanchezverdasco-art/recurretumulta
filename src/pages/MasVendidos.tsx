@@ -9,6 +9,7 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { ArrowLeftRight, Bike, Car, Trophy, Zap } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fmtMiles } from "@/lib/formato.ts";
 import { PageHero } from "@/components/motion.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -28,7 +29,7 @@ const RUTA = "/comparador/mas-vendidos";
 const MEDALLAS = ["🥇", "🥈", "🥉"];
 
 const fmtUnidades = (u: number | null) =>
-  u == null ? "n.d." : u.toLocaleString("es-ES");
+  u == null ? "n.d." : fmtMiles(u);
 
 const CATEGORIAS: { id: CategoriaMasVendidos; etiqueta: string; icono: typeof Car }[] = [
   { id: "coches", etiqueta: "Coches", icono: Car },
@@ -114,10 +115,11 @@ export default function MasVendidos() {
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: `${DOMAIN}/` },
           {
+            // 20/10/2026 (fix plantilla): la miga de los listados de fichas es el hub de Fichas Técnicas.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de coches",
-            item: `${DOMAIN}/comparador-coches/`,
+            name: "Fichas Técnicas",
+            item: `${DOMAIN}/fichas-tecnicas/`,
           },
           {
             "@type": "ListItem",
@@ -135,7 +137,7 @@ export default function MasVendidos() {
     description:
       "Ranking mensual de los coches y motos más vendidos en España con cifras reales de matriculaciones ANFAC y ANESDOR. Top por mes y acumulado 2026.",
     canonical: RUTA,
-    image: `${DOMAIN}/media/rankings.webp`,
+    image: `${DOMAIN}/media/audi-a3-sedan-2025-hero.webp`,
     schema,
   });
 
@@ -145,13 +147,13 @@ export default function MasVendidos() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">Comparadores</Link> ·{" "}
+          <Link to="/fichas-tecnicas/" className="hover:underline">Fichas Técnicas</Link> ·{" "}
           <span className="text-gray-700">Más vendidos</span>
         </nav>
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/audi-a3-sedan-2025-hero.webp"
             imageAlt="Coches más vendidos en España en 2026"
             badge="🏆 Más vendidos · Comparadores"
             title="Los más vendidos en España"
@@ -232,9 +234,7 @@ export default function MasVendidos() {
               </select>
               {periodoActual?.totalMercado != null && (
                 <p className="text-sm text-gray-600">
-                  {periodoActual.totalMercado.toLocaleString("es-ES")}{" "}
-                  {categoria === "coches" ? "turismos" : "vehículos ligeros"}{" "}
-                  matriculados en {periodoActual.etiqueta.toLowerCase()}
+                  {`${fmtMiles(periodoActual.totalMercado)} ${categoria === "coches" ? "turismos" : "vehículos ligeros"} matriculados en ${periodoActual.etiqueta.toLowerCase()}`}
                 </p>
               )}
             </div>
@@ -244,8 +244,7 @@ export default function MasVendidos() {
               <>
                 <section aria-label="Top 3" className="mt-8">
                   <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
-                    <Trophy size={22} className="text-red-700" /> Top 3 ·{" "}
-                    {etiquetaPeriodo}
+                    <Trophy size={22} className="text-red-700" /> {`Top 3 · ${etiquetaPeriodo}`}
                   </h2>
                   <div className="mt-4 grid gap-4 sm:grid-cols-3">
                     {ranking.slice(0, 3).map((m, i) => {

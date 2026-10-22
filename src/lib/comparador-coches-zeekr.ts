@@ -181,7 +181,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-007-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-007-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Zeekr",
@@ -250,12 +250,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-007-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 007, pantalla OLED de 15 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -264,7 +259,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-007-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-007-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "atg-STFJ2u0",
     videoCanal: "CarExpert",
     marca: "Zeekr",
@@ -333,12 +328,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-007-gt-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 007 GT, HUD de realidad aumentada",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -347,14 +337,14 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-7x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-7x-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "OrIJJgixBto",
     videoCanal: "Todos Eléctricos",
     marca: "Zeekr",
     modelo: "7X",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 52990,
+    precioDesde: 51665, // Oferta al contado del concesionario oficial Agreda Global Cars (agredaglobalcars.es), 21/10/2026; financiado 47.840 € con Open Bank; válida hasta 31/12/2026,
     potenciaCv: 421,
     autonomiaKm: 480,
     maleteroL: 539,
@@ -416,12 +406,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-7x-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 7X, pantalla de 35 pulgadas y techo panorámico",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -430,14 +415,14 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-x-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-x-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "I9ft_K--y0w",
     videoCanal: "Los Eléctricos",
     marca: "Zeekr",
     modelo: "X",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37137,
+    precioDesde: 36185, // Promo oficial Zeekr España al contado (21/10/2026); financiando 31.910 € con Open Bank + anticipo Plan Auto+ de 3.375 €; hasta 31/12/2026,
     potenciaCv: 272,
     autonomiaKm: 330,
     maleteroL: 362,
@@ -447,7 +432,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
     pros: [
-      "El Zeekr más barato: desde 37.137 € en España",
+      "El Zeekr más barato: desde 37.990 € de tarifa en España (31.910 € financiando con la campaña oficial hasta el 31/12/2026)",
       "Versión Privilege con 496 CV y 0-100 en 3,7 segundos",
       "Long Range con 230 kW de carga: 10-80 % en 18 minutos",
       "Interior muy cuidado con sonido Yamaha y techo panorámico",
@@ -499,12 +484,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-x-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr X, pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -513,7 +493,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-009-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-009-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Zeekr",
@@ -582,12 +562,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-009-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 009, seis asientos de cuero Nappa",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -699,7 +674,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/zeekr-8x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-8x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Zeekr",
@@ -768,12 +743,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/zeekr-8x-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 8X, salpicadero digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {

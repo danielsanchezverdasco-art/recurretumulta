@@ -86,7 +86,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -128,22 +128,12 @@ export const COCHES_EXP14: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 9,
     aprox: [],
-    imagen: "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: null,
     galeria: [
-      {
-        src: "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Volkswagen Tayron eHybrid 2025 en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Volkswagen Tayron eHybrid 2025, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
     ],
     analisisSlug: "volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica",
   },
@@ -1282,7 +1272,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     modelo: "Urban Cruiser",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 31990, // Precio oficial Toyota Deutschland (nota de prensa toyota-media.de), verificado 21/10/2026; aún no se comercializa en España,
     potenciaCv: 144,
     autonomiaKm: 330,
     maleteroL: 310,

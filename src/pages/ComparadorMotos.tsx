@@ -1,4 +1,5 @@
 import { useMemo, useRef, useState } from "react";
+import { fmtMiles } from "@/lib/formato.ts";
 import { Link } from "react-router-dom";
 import { Bike, Info } from "lucide-react";
 import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
@@ -46,7 +47,8 @@ const FAQS = [
 
 /* ── Formato de cifras: null = "—", estimación = "≈" ── */
 const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtS = (v: number | null) =>
   v == null ? "—" : String(v).replace(".", ",") + " s";
@@ -160,7 +162,7 @@ const jsonLd = {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-        { "@type": "ListItem", position: 2, name: "Novedades Motor", item: "https://recurretumulta.online/blog" },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: "https://recurretumulta.online/fichas-tecnicas/" },
         { "@type": "ListItem", position: 3, name: "Comparador de motos eléctricas", item: "https://recurretumulta.online/comparador-motos/" },
       ],
     },
@@ -372,10 +374,10 @@ export default function ComparadorMotosPage() {
       <SharedNavbar />
 
       <HeroVS
-        imagen1="/media/comparador/hero-moto-1.jpg"
-        imagen2="/media/comparador/hero-moto-2.jpg"
-        alt1="Moto eléctrica 1"
-        alt2="Moto eléctrica 2"
+        imagen1="/media/silence-s01-ficha-tecnica-precio-1.webp"
+        imagen2="/media/velca-bora-2025-ficha-tecnica-precio-1.webp"
+        alt1="Silence S01, moto eléctrica"
+        alt2="Velca Bora, moto eléctrica"
         titulo="Comparador de motos eléctricas"
         subtitulo="Compara precios, autonomía, potencia y carnet necesario de todas las motos eléctricas 2024-2026. Toca una tarjeta para girarla y ver todos los datos."
         busqueda={q}

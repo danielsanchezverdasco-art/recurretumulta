@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -35,7 +36,6 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
-import Relacionados from "@/components/Relacionados.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
@@ -208,8 +208,18 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   const duelos = DUELOS[coche.id] ?? [];
   // 12/10/2026: solo enlazar al blog si existe (evita 404 en fichas sin blog aún).
   // 13/10/2026: slug del análisis (puede no coincidir con el id); botón solo si el post existe.
-  const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.id;
+  // 20/10/2026 (informe Niky): como en MotosFicha, se respeta el analisisSlug de
+  // la propia ficha (p. ej. Adria Matrix Supreme -> su artículo de autocaravana);
+  // antes se ignoraba y esas fichas nunca enlazaban a su blog.
+  const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.analisisSlug ?? coche.id;
   const tieneBlog = extra.b === 1;
+  // 20/10/2026: fichas de vivienda alojadas en /coches/ (Adria Matrix Supreme y
+  // similares): la miga de pan las presenta como autocaravana/camper, no como coche.
+  const esCamper = /^camper$/i.test(coche.categoria ?? "");
+  const esVivienda = esCamper || /^autocaravana$/i.test(coche.categoria ?? "");
+  const migaSeccion = esVivienda
+    ? { nombre: esCamper ? "Campers" : "Autocaravanas", url: esCamper ? "/campers/" : "/autocaravanas/" }
+    : { nombre: "Fichas técnicas", url: "/fichas-tecnicas/" };
 
   const [heroSrc, setHeroSrc] = useState(coche.imagenOficial);
   // heroOk=false cuando ni la foto oficial ni la de respaldo existen en disco:
@@ -294,6 +304,12 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     ...(coche.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
+  // 20/10/2026 (fix plantilla): supuestos del coste mensual según la energía del coche —
+  // la luz solo se cita si el coche se carga (eléctrico/enchufable/EREV) y la gasolina
+  // solo si quema combustible (un diésel o gasolina puro no paga luz a €/kWh).
+  const costeUsaLuz = esPhevOEv;
+  const costeUsaCombustible =
+    !/eléctrico/i.test(coche.tipo) || /enchufable|autonomía extendida|híbrido/i.test(coche.tipo);
   const datosClave: DatoClave[] = [
     coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
     coche.autonomiaKm != null && esPhevOEv
@@ -349,10 +365,17 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           },
         ]
       : []),
-    {
-      q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
-      a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con rivales y vídeo. Pulsa «Leer el análisis completo» para abrirlo.`,
-    },
+    // 20/10/2026 (informe Niky): esta FAQ solo se muestra si el botón existe de
+    // verdad (tieneBlog). Antes prometía «Leer el análisis completo» también en
+    // fichas sin artículo (Tesla Model 3 base, Adria Matrix Supreme…).
+    ...(tieneBlog
+      ? [
+          {
+            q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
+            a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con rivales y vídeo. En esta misma ficha tienes el botón «Leer nuestro análisis» para abrirlo.`,
+          },
+        ]
+      : []),
   ];
 
   const jsonLd = {
@@ -429,10 +452,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de coches",
-            item: "https://recurretumulta.online/comparador-coches/",
+            name: migaSeccion.nombre,
+            item: `https://recurretumulta.online${migaSeccion.url}`,
           },
           {
             "@type": "ListItem",
@@ -497,8 +521,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">
-            Comparador de coches
+          <Link to={migaSeccion.url} className="hover:underline">
+            {migaSeccion.nombre}
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -659,6 +683,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Suspense>
         )}
 
+        {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
+        <AnalisisEditorial slug={coche.id} />
+
         <section
           ref={spotRef}
           id="ficha"
@@ -725,10 +752,10 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </div>
           <p className="mt-3 text-gray-700">
             {coche.precioDesde == null ? (
-              <>El {nombre} aún no tiene precio confirmado para España.</>
+              <>{`El ${nombre} aún no tiene precio confirmado para España.`}</>
             ) : (
               <>
-                El {nombre} parte de{" "}
+                {`El ${nombre} parte de `}
                 <strong className="text-gray-900">
                   {coche.aprox.includes("precioDesde") && "≈"}
                   {fmtPrecio(coche.precioDesde)}
@@ -771,8 +798,10 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             const g = garantiaDeMarca(coche.marca, "coches");
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
-                🛡️ Garantía oficial {coche.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
-                {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
+                {`🛡️ Garantía oficial ${coche.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {/* 20/10/2026: cortar solo en fin de frase (". "), no en cualquier
+                    punto: el split(".") truncaba «100.000 km» a «100» (Toyota). */}
+                {g.nota ? <span className="text-gray-400"> ({g.nota.split(". ")[0]})</span> : null}
               </p>
             ) : null;
           })()}
@@ -920,10 +949,17 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               </tbody>
             </table>
             <p className="mt-3 text-xs text-gray-500">
-              Estimación orientativa (octubre 2026): supone 15.000 km al año, luz a{" "}
-              {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh y gasolina 95 a{" "}
-              {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l.{" "}
-              {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
+              Estimación orientativa (octubre 2026): supone 15.000 km al año
+              {costeUsaLuz && (
+                <>, luz a {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh</>
+              )}
+              {costeUsaCombustible && (
+                <>
+                  {costeUsaLuz ? " y" : ","} gasolina 95 a{" "}
+                  {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
+                </>
+              )}
+              . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
               aseguradora.
             </p>
           </section>
@@ -1114,8 +1150,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Link>
         </p>
 
-        <Relacionados pathname={`/coches/${coche.id}/`} enArticulo />
-
+        
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">

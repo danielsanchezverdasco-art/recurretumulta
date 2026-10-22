@@ -118,70 +118,7 @@ Sí: el Atto 2 DM-i lidera las ventas de PHEV en España en 2026.
     "readTime": 5,
     "locale": "all",
     "keywords": ["BYD Sealion 05 DM-i", "Sealion 05 ficha técnica", "BYD Sealion 05 autonomía", "híbrido enchufable 2000 km", "BYD Sealion 05 precio", "Sealion 05 Europa"],
-    "content": `<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 DM-i blanco en estudio>
-
-**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
-
-El **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mundo: hasta **305 km en modo eléctrico** y **2.105 km de autonomía combinada** según el ciclo chino. Un SUV de **4,62 metros** con maletero de **650 litros** que en China cuesta entre **14.360 y 18.760 €**. El problema: de momento, solo se vende allí.
-
-## Ficha técnica resumida
-
-| Concepto | Dato |
-|---|---|
-| Precio | 14.360 - 18.760 € (solo China) |
-| Sistema | 1.5 gasolina (99 CV) + eléctrico (161 CV) |
-| Batería | 26,6 / 34,3 kWh (LFP Blade) |
-| Autonomía eléctrica | 220 / 305 km (CLTC) |
-| Autonomía total | 2.105 km (CLTC) |
-| Consumo | 3,1 l/100 km |
-| Maletero | 650 litros |
-| Medidas | 4.620 x 1.860 x 1.630 mm |
-| Batalla | 2.770 mm |
-| Tracción | Delantera |
-
-<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Sealion 05 DM-i</a>
-
-## La receta: batería grande y motor eficiente
-
-El Sealion 05 DM-i lleva la filosofía PHEV al extremo: en vez de una batería testimonial, monta **26,6 o 34,3 kWh**, cifras de eléctrico puro hace cinco años. Con la grande recorre **305 km sin gasolina** en ciclo CLTC (en WLTP serían unos 230-250 km reales). El 1.5 atmosférico de 99 CV actúa como generador eficiente y el consumo en modo híbrido es de solo **3,1 l/100 km**.
-
-Es, en la práctica, un eléctrico para el día a día y un híbrido para viajar: la combinación que muchos compradores piden y pocas marcas ofrecen a este precio.
-
-<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp alt=Interior del BYD Sealion 05 DM-i>
-
-## Un SUV familiar de verdad
-
-Con **4,62 metros** y **2.770 mm de batalla**, el Sealion 05 juega en la liga del Toyota RAV4 o el Hyundai Tucson, pero su maletero de **650 litros** los supera a todos. El interior sigue el lenguaje Ocean de BYD: pantalla giratoria, materiales correctos y mucho espacio en las plazas traseras.
-
-## ¿Llegará a Europa?
-
-BYD no ha confirmado su llegada. La marca ya cubre el segmento en Europa con el **Sealion 7** (eléctrico) y el **Seal U DM-i** (híbrido enchufable), así que el 05 podría quedar como modelo exclusivo chino. Si llegara con un precio en torno a los 35.000 €, reventaría el segmento de los PHEV familiares.
-
-<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Sealion 05 DM-i vista tres cuartos>
-
-## Preguntas frecuentes
-
-### ¿Qué autonomía tiene el Sealion 05 DM-i?
-Hasta 305 km eléctricos (CLTC) y 2.105 km combinados con la batería de 34,3 kWh.
-
-### ¿Se vende en España?
-No: de momento solo se comercializa en China.
-
-### ¿Cuánto cuesta?
-Entre 14.360 y 18.760 € al cambio en China.
-
-### ¿Qué maletero tiene?
-650 litros, uno de los mayores de su categoría.
-
-### ¿Qué consumo homologa?
-3,1 l/100 km en modo híbrido.
-
-### ¿Llegará a Europa?
-BYD no lo ha confirmado; en Europa su hueco lo cubren el Seal U DM-i y el Sealion 7.
-
-*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, prensa especializada china*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+    "content": `<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 DM-i blanco en estudio>\n\n**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05 DM-i</a>: autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nEl **BYD Sealion 05 DM-i** es el híbrido enchufable con más autonomía del mundo: hasta **305 km en modo eléctrico** y **2.105 km de autonomía combinada** según el ciclo chino. Un SUV de **4,62 metros** con maletero de **650 litros** que en China cuesta entre **14.360 y 18.760 €**. El problema: de momento, solo se vende allí.\n\n## Ficha técnica resumida\n\n| Concepto | Dato |\n|---|---|\n| Precio | 14.360 - 18.760 € (solo China) |\n| Sistema | 1.5 gasolina (99 CV) + eléctrico (161 CV) |\n| Batería | 26,6 / 34,3 kWh (LFP Blade) |\n| Autonomía eléctrica | 220 / 305 km (CLTC) |\n| Autonomía total | 2.105 km (CLTC) |\n| Consumo | 3,1 l/100 km |\n| Maletero | 650 litros |\n| Medidas | 4.620 x 1.860 x 1.630 mm |\n| Batalla | 2.770 mm |\n| Tracción | Delantera |\n\n<a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Sealion 05 DM-i</a>\n\n## La receta: batería grande y motor eficiente\n\nEl Sealion 05 DM-i lleva la filosofía PHEV al extremo: en vez de una batería testimonial, monta **26,6 o 34,3 kWh**, cifras de eléctrico puro hace cinco años. Con la grande recorre **305 km sin gasolina** en ciclo CLTC (en WLTP serían unos 230-250 km reales). El 1.5 atmosférico de 99 CV actúa como generador eficiente y el consumo en modo híbrido es de solo **3,1 l/100 km**.\n\nEs, en la práctica, un eléctrico para el día a día y un híbrido para viajar: la combinación que muchos compradores piden y pocas marcas ofrecen a este precio.\n\n<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp alt=Interior del BYD Sealion 05 DM-i>\n\n## Un SUV familiar de verdad\n\nCon **4,62 metros** y **2.770 mm de batalla**, el Sealion 05 juega en la liga del Toyota RAV4 o el Hyundai Tucson, pero su maletero de **650 litros** los supera a todos. El interior sigue el lenguaje Ocean de BYD: pantalla giratoria, materiales correctos y mucho espacio en las plazas traseras.\n\n## ¿Llegará a Europa?\n\nBYD no ha confirmado su llegada. La marca ya cubre el segmento en Europa con el **Sealion 7** (eléctrico) y el **Seal U DM-i** (híbrido enchufable), así que el 05 podría quedar como modelo exclusivo chino. Si llegara con un precio en torno a los 35.000 €, reventaría el segmento de los PHEV familiares.\n\n<img src=/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Sealion 05 DM-i vista tres cuartos>\n\n## Un Sealion de la familia Ocean que BYD reserva para China\n\nEl apellido Sealion agrupa a los SUV de la línea Ocean de BYD, reconocible en este 05 por la pantalla giratoria del análisis principal. La diferencia es comercial: el Sealion 7 eléctrico y el Seal U DM-i son los elegidos para Europa, y el 05 DM-i se ha quedado como producto chino, donde se vende entre 14.360 y 18.760 € al cambio: cifras de un coche real, medidas con las reglas de otro mercado.\n\n## La técnica DM-i, dato a dato y con el ciclo bien rotulado\n\nLa clave no es la potencia, sino el tamaño de la batería. Cada cifra puede comprobarse en <a href=/coches/byd-sealion-05-dm-i-2025-precio-ficha-tecnica/>la ficha completa del Sealion 05 DM-i con sus pros, sus contras y su plan de mantenimiento</a>.\n\n| Dato | Sealion 05 DM-i |\n|---|---|\n| Motor de gasolina | 1.5 atmosférico de 99 CV |\n| Motor eléctrico | 161 CV |\n| Potencia recogida en la ficha | 197 CV, marcada como aproximada |\n| Batería | LFP Blade de 26,6 o 34,3 kWh |\n| Autonomía eléctrica | 220 o 305 km, ciclo CLTC |\n| Autonomía combinada | 2.105 km, ciclo CLTC |\n| Aceleración 0 a 100 km/h | 8,6 s, dato aproximado de la ficha |\n| Consumo en modo híbrido | 3,1 l/100 km |\n| Maletero y plazas | 650 litros y 5 plazas |\n| Tracción | Delantera |\n\nTodas las autonomías son **CLTC**: el ciclo chino, más generoso que el europeo. El análisis principal traduce los 305 km eléctricos a unos 230-250 km WLTP, y es una estimación, no una homologación: no existe cifra WLTP porque el modelo no se ha homologado en Europa.\n\n## Uso real: eléctrico entre semana, de viaje sin planificar cargas\n\nCargando en casa, la batería de 34,3 kWh cambia el uso cotidiano de un enchufable: los trayectos diarios caben en modo eléctrico y la gasolina queda para los viajes largos. Los 650 litros y los 2.770 mm de batalla lo hacen, sobre el papel, un familiar convincente.\n\nLas limitaciones son igual de claras: tracción solo delantera, potencia de carga no publicada en la ficha —no debe darse por hecho que cargue como un eléctrico puro— y, sobre todo, que hoy no puedes comprarlo en España ni mantenerlo en una red oficial aquí.\n\n## Mantenimiento y garantía: lo verificable y lo no publicado\n\nLa ficha recoge revisiones cada **12 meses o 20.000 km**: aceite y su filtro, filtro de polen y revisión del sistema híbrido. Es el estándar atribuido a BYD para un modelo no comercializado en España, y su coste figura como no publicado: dar una cifra concreta sería inventarla. Sí consta la batería: **8 años o 200.000 km** con degradación de referencia del 70 %, datos marcados como aproximados en la ficha.\n\n## Etiqueta DGT, ITV y seguridad: el vacío de un coche sin homologación europea\n\nLa ficha deja la etiqueta DGT en blanco, y es lo correcto: sin homologación europea no hay distintivo asignado, por mucho que recuerde a modelos con etiqueta Cero. Tampoco hay ITV aplicable a un coche que no se matricula aquí por el canal oficial. Y Euro NCAP no lo ha probado, como la ficha dice expresamente: no tiene estrellas, tiene un expediente vacío.\n\n## Frente a los PHEV que sí puedes comprar aquí\n\nEl <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i que BYD sí vende en España</a> parte de 34.240 € con 218 CV, 18 kWh, 80 km eléctricos y 425 litros, con etiqueta Cero. El <a href=/coches/toyota-rav4-phev-2026-precio-ficha-tecnica/>Toyota RAV4 PHEV 2026 de nuestra comparativa</a> sube a 46.500 €, 268 CV, 100 km eléctricos con 22,7 kWh y 446 litros. Y el <a href=/coches/byd-sealion-7-2025-precio-ficha-tecnica/>Sealion 7 eléctrico que BYD ofrece en Europa</a> parte de 47.990 € con 313 CV y 482 km. En autonomía eléctrica y maletero el 05 gana a todos; en poder firmar la compra, pierde contra todos. Mientras BYD decide si lo trae, la espera se pasa mejor buscando los monos escondidos en <a href=/juego-monos/>el caza-monos dedicado a cazar entre SUV como este Sealion 05</a>.\n\n**Veredicto:** ¿merece la pena el Sealion 05 DM-i? Como demostración de hacia dónde va el enchufable, sí: batería grande, consumo bajo y precio chino imbatible. ¿Para quién sí? Para quien viva en China o para el español paciente que lo vigile por si BYD lo homologa algún día. ¿Para quién no? Para quien necesite hoy un PHEV familiar en España: su compra real es el Seal U DM-i o un RAV4 PHEV.\n\n## Preguntas frecuentes\n\n### ¿Qué autonomía tiene el Sealion 05 DM-i?\nHasta 305 km eléctricos (CLTC) y 2.105 km combinados con la batería de 34,3 kWh.\n\n### ¿Se vende en España?\nNo: de momento solo se comercializa en China.\n\n### ¿Cuánto cuesta?\nEntre 14.360 y 18.760 € al cambio en China.\n\n### ¿Qué maletero tiene?\n650 litros, uno de los mayores de su categoría.\n\n### ¿Qué consumo homologa?\n3,1 l/100 km en modo híbrido.\n\n### ¿Llegará a Europa?\nBYD no lo ha confirmado; en Europa su hueco lo cubren el Seal U DM-i y el Sealion 7.\n\n*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, prensa especializada china*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
     "title": "BYD Qin L DM-i: berlina híbrida eficiente",
@@ -232,6 +169,40 @@ Mientras Europa abandona las berlinas, China las sigue adorando. El Qin L ofrece
 BYD vende en Europa el **Seal DM-i**, una berlina híbrida enchufable de posicionamiento superior. El Qin L, más asequible, canibalizaría sus ventas y además tendría que superar los aranceles europeos al coche chino. Su hueco, por precio y concepto, no lo cubre nadie en España.
 
 <img src=/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=BYD Qin L DM-i vista lateral>
+
+## La familia Qin: el superventas silencioso de BYD
+
+La dinastía Qin es, junto al Song, el pilar de ventas de BYD en China: berlinas familiares que acumulan cientos de miles de unidades al año. El Qin L se sitúa un escalón por encima del Qin Plus en tamaño y acabado, y estrenó mundialmente la quinta generación del sistema híbrido DM-i, la misma arquitectura que después ha ido llegando al resto de la gama enchufable de la marca.
+
+Entender el Qin L es entender la estrategia de BYD en su mercado doméstico: eficiencia extrema como argumento de compra, por delante de la potencia o el diseño. El récord de eficiencia térmica superior al 46 % del motor de gasolina no es un dato de escaparate, es la base de todo el coche.
+
+## Cómo leer sus cifras: WLTC, CLTC y la doble batería
+
+| Versión | Batería | Autonomía eléctrica | Ciclo |
+|---|---|---|---|
+| Acceso | 10,08 kWh | 80 km | CLTC |
+| Batería grande | 15,87 kWh | 120 km | CLTC |
+| Consumo combinado | — | 3,8 l/100 km | WLTC |
+
+Ojo con los ciclos: la autonomía eléctrica se declara en CLTC, el ciclo chino, más benévolo que el WLTP europeo, mientras el consumo de 3,8 l/100 km se homologa en WLTC, el ciclo chino armonizado con el WLTP. En una homologación europea, los 120 km eléctricos quedarían por debajo de esa cifra, aunque seguirían siendo un dato excelente para cargar en casa y moverte en eléctrico entre semana.
+
+## Uso real: la semana laboral sin gasolina
+
+El planteamiento es el del enchufable bien entendido: enchufe nocturno, desplazamientos diarios en modo eléctrico y el motor de gasolina como red de seguridad para viajes largos. Con 218 CV y un 0-100 en 7,5 segundos no es un coche lento, y su tamaño de segmento D le da una presencia que en China se valora para uso familiar y de representación.
+
+Su mantenimiento, de venir a Europa, sería el típico de un híbrido enchufable: revisiones del motor térmico por tiempo o kilometraje y la electrónica de potencia sellada. Nada de eso aplica hoy, porque el coche no se vende aquí.
+
+## Veredicto: ¿merece la pena el Qin L DM-i?
+
+**Veredicto:** en China es, probablemente, la berlina con mejor relación eficiencia-precio del planeta, y su ausencia en Europa dice más de los aranceles y de la estrategia de BYD —que aquí empuja el <a href=/coches/byd-seal-u-dm-i-precio-ficha-tecnica/>Seal U DM-i</a> y el Seal— que del coche. Como compra en España no existe; como termómetro de hasta dónde llega la tecnología enchufable asequible, es imprescindible. Si te pica la curiosidad, compáralo en el comparador y échate una partida al <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantener un DM-i: dos sistemas, una sola lógica
+
+Un híbrido enchufable como el Qin L combina el mantenimiento de un eléctrico —sin correas de distribución en la parte eléctrica, con frenos que duran más por la frenada regenerativa— con el de un térmico convencional: aceite, filtros y revisiones periódicas del 1.5 atmosférico. La experiencia de los DM-i que BYD sí vende en Europa muestra que el coste de propiedad depende sobre todo de cuánto se enchufe: quien carga a diario mueve el motor de gasolina poco y espacia su desgaste; quien nunca carga convierte el coche en un híbrido pesado y pierde su razón de ser.
+
+## La pantalla giratoria y el interior: la firma de la casa
+
+Por dentro, el Qin L lleva la firma visual de BYD: una gran pantalla central que rota entre horizontal y vertical según la aplicación, enmarcada en un salpicadero minimalista de líneas horizontales. Es un interior pensado para el gusto chino, donde el coche se usa también como espacio de descanso y entretenimiento con el vehículo parado, y donde la conectividad con el móvil es tan importante como la propia mecánica.
 
 ## Preguntas frecuentes
 
@@ -305,6 +276,36 @@ En España, el hueco del Song L lo ocupa su hermano **BYD Sealion 7**, ya a la v
 
 <img src=/media/byd-song-l-ev-2025-precio-ficha-tecnica-oficial.webp alt=BYD Song L EV vista tres cuartos trasera>
 
+## La dinastía Song y la e-Platform 3.0: el contexto que falta
+
+BYD organiza su gama china en dinastías, y la Song es la que sostiene el volumen de SUV de la marca. El Song L es su interpretación deportiva: un coupé familiar construido sobre la e-Platform 3.0 con arquitectura de 800 voltios y la batería Blade de química LFP integrada en la estructura mediante el sistema Cell-to-Body. Esa integración no es un detalle de folleto: al formar parte del suelo, la batería libera espacio interior, baja el centro de gravedad y rigidez el conjunto, tres ventajas que se notan en un coche de 4,84 metros.
+
+## Las tres versiones, ordenadas por el uso que harás de ellas
+
+| Versión | Potencia | Batería | Autonomía CLTC | 0 a 100 km/h |
+|---|---|---|---|---|
+| Acceso | 204 CV | 71,8 kWh | 550 km | 8,5 s |
+| Intermedia | 313 CV | 87 kWh | 662 km | 6,9 s |
+| Tope AWD | 517 CV | 87 kWh | 602 km | 4,3 s |
+
+La tabla esconde una lección de compra: la versión con más autonomía no es la más potente, sino la intermedia de un solo motor, porque el segundo motor de la AWD consume parte de la ventaja de la batería grande. La de acceso, con sus 550 km declarados y 204 CV, cubre el uso familiar completo sin pagar ni el sobreprecio ni el peso de la batería de 87 kWh.
+
+## 662 km CLTC: la conversión mental que hay que hacer
+
+Todas las autonomías de este modelo están homologadas en el ciclo chino CLTC, notablemente más generoso que el WLTP europeo, así que esos 662 km no deben compararse directamente con los de un SUV eléctrico vendido en España. Trasladados a la escala europea, quedarían sensiblemente por debajo, en la zona alta de lo que hoy ofrecen los familiares eléctricos de aquí. La química LFP de la Blade juega a su favor en otro terreno: tolera mejor las cargas completas diarias y presume de una durabilidad que las baterías de níquel no igualan.
+
+## Coupé por fuera, familiar por batalla
+
+La silueta descendente engaña al ojo, porque los 2.930 mm de distancia entre ejes son propios de un segmento superior y dejan unas plazas traseras donde los adultos no negocian ni piernas ni cabeza como en otros SUV coupé. El portón trasero completa el planteamiento práctico, y el alerón retráctil o los tiradores enrasados recuerdan que la aerodinámica manda cuando hay que estirar cada kilovatio hora.
+
+## Song L EV o Sealion 7: veredicto
+
+En Europa, el puesto del Song L lo defiende su hermano <a href=/coches/byd-sealion-7-2025-precio-ficha-tecnica/>BYD Sealion 7</a>, que sí se vende en España con garantía y red oficial; el Song L, de momento, se queda en China. El detalle numérico completo del protagonista está en <a href=/coches/byd-song-l-ev-2025-precio-ficha-tecnica/>la ficha del Song L EV</a>. **Veredicto:** si BYD lo importara a un precio coherente con su posicionamiento chino, sería uno de los SUV eléctricos familiares más difíciles de batir en relación autonomía-precio; hasta entonces, su función es mostrar hasta dónde llega la plataforma que también sostiene a los BYD que sí puedes comprar. Entre comparativa y comparativa, el recreo está en el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Cargar a 800 voltios: la infraestructura también forma parte del coche
+
+La arquitectura de 800 V promete cargas ultrarrápidas, pero la promesa se cumple solo donde existen cargadores capaces de alimentarla. En China, la red de alta potencia crece al ritmo de las ventas de eléctricos; en Europa, un Song L dependería de las redes de 350 kW de autopista, excelentes en corredores principales y escasas fuera de ellos. Es el recordatorio habitual de los eléctricos de última generación: la cifra de carga del folleto es un techo que comparten el coche, el cargador y la temperatura de la batería, y el día a día se escribe con potencias medias bastante más modestas.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene el Song L EV?
@@ -375,6 +376,40 @@ El Seal 06 GT lleva el lenguaje Ocean de BYD a su expresión más agresiva: fron
 BYD vende en Europa el **Dolphin** (urbano) y el **Atto 3** (SUV), pero no tiene un compacto deportivo eléctrico. El Seal 06 GT encajaría perfecto contra el MG4 XPower o el Volkswagen ID.3 GTX. La marca no lo confirma, pero la presión del mercado podría cambiarlo.
 
 <img src=/media/byd-seal-06-gt-2025-precio-ficha-tecnica-oficial.webp alt=BYD Seal 06 GT vista delantera>
+
+## La familia Seal: el escaparate deportivo de la gama Ocean
+
+BYD ordena su oferta en dos familias, Dynasty y Ocean, y dentro de esta última el apellido Seal designa a los modelos de talante deportivo: la berlina Seal que sí se vende en Europa y este 06 GT, un compacto de cinco puertas que comparte la plataforma e-Platform 3.0 Evo y la arquitectura de 800 voltios. Es, en esencia, la respuesta china al compacto deportivo eléctrico que Europa aún está definiendo.
+
+Su planteamiento rompe la norma del segmento: donde un compacto eléctrico europeo prioriza la eficiencia urbana, el 06 GT ofrece versiones de hasta 422 CV y un maletero de 595 litros que humilla a muchos SUV.
+
+## Tres versiones: cuál tiene sentido
+
+| Versión | Potencia | Batería | Autonomía CLTC |
+|---|---|---|---|
+| Acceso | 218 CV | 59,52 kWh | 505 km |
+| Intermedia | 224 CV | 72,96 kWh | 605 km |
+| AWD | 422 CV | 72,96 kWh | 550 km |
+
+La intermedia es la compra lógica: máxima autonomía, prestaciones sobradas —7,5 segundos no es el dato de un coche lento— y el precio más contenido de las dos baterías grandes. La AWD solo se justifica si buscas un deportivo de 4,9 segundos con disfraz de compacto familiar.
+
+Recuerda que las autonomías son CLTC: en ciclo WLTP europeo todas bajarían, como ocurre con cualquier eléctrico homologado en China.
+
+## El hueco que dejaría en Europa
+
+Si BYD lo trajera, el 06 GT se cruzaría con el <a href=/coches/mg4-xpower-2025-precio-ficha-tecnica/>MG4 XPower</a>, con el <a href=/coches/volkswagen-id3-gtx-2026-precio-ficha-tecnica/>Volkswagen ID.3 GTX</a> y con el <a href=/coches/cupra-born-2024-precio-ficha-tecnica/>Cupra Born</a> de mayor potencia. Ninguno combina 800 V, 605 km de autonomía declarada y un maletero así, y esa es exactamente la razón por la que su ausencia se nota: obligaría a todos a mejorar.
+
+## Veredicto: ¿merece la pena el Seal 06 GT?
+
+**Veredicto:** sobre el papel es el compacto eléctrico deportivo más completo del mercado mundial, y su precio chino lo convierte en una provocación. En España es un ejercicio de imaginación: no se vende y BYD no lo ha confirmado para Europa. Si buscas esa fórmula hoy, MG4 XPower e ID.3 GTX son lo más parecido con papeles europeos. Y para matar la espera, el <a href=/juego-monos/>juego caza-monos</a>.
+
+## 800 voltios en un compacto: por qué es un dato serio
+
+La arquitectura de 800 V suele reservarse a coches de gama alta, y verla en un compacto de este precio es parte de la provocación del 06 GT. En la práctica significa que la batería admite potencias de carga muy superiores a las de un sistema de 400 V, con menos calor generado y una curva de carga que se mantiene alta durante más minutos: las paradas en cargador ultrarrápido se acortan justo donde más duele, en los viajes largos. Súmale la batería LFP de tipo Blade, la química que BYD monta en toda su gama por su durabilidad y su estabilidad térmica, y el conjunto técnico queda muy por encima de lo que su precio chino sugiere.
+
+## Diseño Ocean: más que un nombre bonito
+
+El apellido GT no es postureo en el 06 GT: la zaga con difusor, las llantas específicas y los asientos con sujeción lateral forman parte del paquete. La línea Ocean de BYD juega con formas fluidas inspiradas en el mar, pero esta variante endurece el gesto con un frontal más bajo y una trasera recortada que recuerda a los compactos deportivos europeos de gasolina. Es, deliberadamente, el BYD con más guiños a quien viene de un Golf GTI que a quien viene de un SUV familiar.
 
 ## Preguntas frecuentes
 
@@ -449,6 +484,33 @@ Los **2.620 mm de batalla** en 4,31 m de largo hablan de un aprovechamiento exce
 El Yuan Up demuestra que se puede hacer un SUV eléctrico decente y asequible. En Europa, los eléctricos baratos los firman Dacia (Spring) o Citroën (ë-C3), con menos potencia y autonomía. BYD ya vende aquí el **Atto 2**, su primo cercano, pero el Yuan Up sería aún más asequible. La marca no confirma su llegada.
 
 <img src=/media/byd-yuan-up-2025-precio-ficha-tecnica-oficial.webp alt=BYD Yuan Up vista tres cuartos>
+
+## Yuan, Atto, Dolphin: el mapa de la gama pequeña de BYD
+
+El nombre Yuan viene de la dinastía que da nombre a la serie Dynasty de BYD, la familia clásica de la marca junto a la Ocean de los Dolphin y Seal. En China el Yuan Up es el escalón de acceso a los SUV eléctricos de la casa; en Europa ese papel lo representa el Atto 2, pariente muy cercano con el que comparte planteamiento. Entender ese mapa importa porque el Yuan Up es, en el fondo, un termómetro de hasta dónde puede bajar el precio de un eléctrico bien equipado cuando se produce a escala china.
+
+## CLTC no es WLTP: cómo leer sus 401 km
+
+| Cifra | Baremo | Traducción orientativa |
+|---|---|---|
+| 401 km | Ciclo CLTC chino | El dato de la ficha china |
+| ~320-340 km | Estimación tipo WLTP | El ciclo europeo castiga más |
+| ~300 km | Uso real mixto | Lo que verás entre cargas |
+| 45,12 kWh | Batería LFP Blade | Consumo medio en torno a 15 kWh/100 km |
+
+El ciclo CLTC se rueda a velocidades medias bajas y premia a los coches urbanos, por eso sus cifras salen sistemáticamente más altas que las WLTP del mismo coche. No es que BYD mienta: es que cada mercado homologa con su propia vara de medir, y comparar 401 km CLTC con los 350 km WLTP de un rival europeo sería una comparación trucada. Con la conversión hecha, el Yuan Up queda donde debe: un urbano con autonomía de sobra para la semana laboral.
+
+## Blade LFP: la batería es el verdadero argumento
+
+La batería Blade de BYD usa química LFP (litio ferrofosfato), la misma filosofía que está conquistando los eléctricos asequibles por tres razones prácticas: tolera mejor los abusos térmicos, admite cargar al 100 % a diario sin la degradación acelerada de otras químicas y evita metales caros como el cobalto. Integrada en la e-Platform 3.0 como parte estructural del suelo, baja el centro de gravedad y explica que un SUV de 4,31 metros se sienta aplomado. Su peaje es la densidad energética: para 45 kWh hace falta más peso que con una NCM equivalente, y de ahí parte de sus 265 litros de maletero.
+
+## Si llegara a España: etiqueta, rivales y veredicto
+
+Matriculado aquí, el Yuan Up luciría la etiqueta **Cero** y seguiría el calendario de ITV de cualquier turismo eléctrico. Sus espejos europeos serían el <a href=/coches/dacia-spring-extreme-2025-precio-ficha-tecnica/>Dacia Spring</a>, más barato pero mucho más modesto en potencia y batería, el <a href=/coches/citroen-e-c3-2026-precio-ficha-tecnica/>Citroën ë-C3</a> y el propio <a href=/coches/byd-atto-2-precio-ficha-tecnica/>BYD Atto 2</a> que ya se vende en los concesionarios españoles. **Veredicto:** el Yuan Up merece la pena como demostración de lo que China ya ofrece en el acceso eléctrico; como compra desde España, la respuesta sensata hoy es el Atto 2, y el Yuan quedaría como deseo si BYD decidiera traerlo aún más barato. Mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> sigue escondiendo monos entre las fichas de los eléctricos pequeños.
+
+## La prueba del clavo: seguridad de la batería Blade
+
+La batería Blade se hizo famosa por un vídeo de laboratorio que BYD convirtió en argumento comercial: una celda perforada por un clavo sin incendiarse ni explotar, la prueba que las químicas ricas en níquel suspendían con fuego. La química LFP tiene esa estabilidad térmica en su naturaleza, y la estructura de celdas largas integradas en el suelo —lo que BYD llama construcción cell-to-body en su plataforma— añade rigidez al conjunto. No convierte al Yuan Up en irrompible, pero sí explica por qué los eléctricos asequibles del mundo entero están migrando a esta química: en el acceso al mercado, la seguridad pasiva de la batería vale tanto como la autonomía. En Europa, el listón lo ponen las pruebas de Euro NCAP a las que sus hermanos de gama sí se han sometido con buenos resultados.
 
 ## Preguntas frecuentes
 
@@ -708,6 +770,39 @@ MG Europa apuesta todo a la electrificación: traer un 2.0 turbo gasolina sin hi
 
 <img src=/media/mg7-2025-precio-ficha-tecnica-oficial.webp alt=MG7 vista tres cuartos trasera>
 
+## MG: de Oxford a SAIC, y el MG7 como escaparate
+
+MG nació en Oxford en los años veinte como sinónimo de roadster británico asequible, quebró con el grupo Rover en 2005 y renació bajo el paraguas del gigante chino SAIC, que la ha convertido en su punta de lanza comercial en Europa. En China, sin embargo, la marca juega otra liga de imagen, y el MG7 es su escaparate: la berlina con la que demuestra que sabe hacer coches deseables con motor de gasolina antes de que la electrificación lo tape todo. Que ese escaparate no cruce a Europa dice mucho de cómo ha cambiado el mercado.
+
+## Berlina clásica en la era del SUV eléctrico
+
+| Dato | MG7 | Comentario |
+|---|---|---|
+| Longitud | 4.884 mm | Berlina grande del segmento D |
+| Motor superior | 2.0 turbo, 261 CV y 405 Nm | Sin hibridación alguna |
+| Cambio | Automático de 9 velocidades | De convertidor, a la vieja usanza |
+| Versión de acceso | 1.5T de 188 CV | El mismo traje con menos gasto |
+| Aerodinámica activa | Alerón trasero desplegable | Detalle de deportivo caro |
+| Asistentes | MG Pilot de nivel 2 | El paquete ADAS de la casa |
+
+En un mercado europeo donde la berlina generalista casi ha desaparecido, el MG7 reivindica el formato: centro de gravedad bajo, maletero de fastback y una conducción que no depende de dos toneladas de batería. Su carta de presentación es emocional, y las emisiones europeas ni siquiera le dejan jugarla.
+
+## Por qué Europa se lo pierde: emisiones y estrategia
+
+La normativa europea de CO2 penaliza la media de flota de cada fabricante, y un 2.0 turbo de gasolina sin hibridar es hoy un lastre contable para una marca que vende en Europa sobre todo eléctricos e híbridos. A eso se suma que MG ha construido su éxito europeo sobre el precio de sus cero emisiones: importar una berlina térmica de nicho, con su homologación y su red de recambios propia, chocaría con la estrategia y con la calculadora. La confirmación de la marca de que no vendrá es, en ese contexto, pura aritmética.
+
+## Si te lo importas: la letra pequeña del capricho
+
+La vía del importador independiente existe, pero conviene entrar con los ojos abiertos: homologación individual, aranceles e IVA sobre un precio chino que dejará de parecer milagroso, ausencia de garantía oficial europea para un modelo que la red ni conoce y una reventa reducida a otros entusiastas. El consuelo doméstico es el <a href=/coches/mg-4-2025-precio-ficha-tecnica/>MG4</a>, el compacto eléctrico con el que MG sí juega en España, de planteamiento opuesto pero con la misma obsesión por la relación precio-producto.
+
+## Veredicto
+
+**Veredicto:** el MG7 merece la pena como objeto de deseo y como prueba de que la berlina clásica sigue viva en China; como compra desde España, la importación solo se defiende como capricho de coleccionista informado, no como alternativa racional a lo que se vende aquí. Es el coche que nos perderemos y que quizá un día regrese electrificado. Mientras ese día llega, el <a href=/juego-monos/>juego caza-monos</a> permite cazar algo al alcance de todos los bolsillos.
+
+## Un interior de pantalla curva y asientos de deportivo
+
+Por dentro, el MG7 sigue el guion de las berlinas chinas de nueva generación: una doble pantalla curva que concentra instrumentación y entretenimiento, asientos deportivos de una pieza con reposacabezas integrado y una consola alta que separa a conductor y pasajero como en un coupé. La carrocería fastback regala una quinta puerta práctica para cargar, a cambio de una altura trasera que los pasajeros altos notarán en los viajes largos. Son los compromisos típicos del formato, envueltos en materiales que las fotos sitúan por encima de lo que su precio chino sugiere.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el MG7?
@@ -784,6 +879,45 @@ Con la tarifa ya publicada (32.348-38.348 €), sus rivales naturales son el **B
 ## Mantenimiento
 
 Eléctrico puro: **revisión cada 24 meses o 30.000 km** en la red MG España, con filtro de polen, líquido de frenos e inspección de batería. Mantenimiento mínimo y barato. *Fuente: red oficial MG España*
+
+## Por qué el S5 EV no es un ZS EV con otro nombre
+
+El ZS EV era un SUV de combustión adaptado a la electricidad: en su última renovación, el ZS se quedó solo con mecánicas híbridas. El hueco eléctrico lo ocupa un coche pensado como eléctrico desde el primer boceto. El S5 EV nace sobre la **plataforma MSP**, la arquitectura dedicada del <a href=/coches/mg-4-2025-precio-ficha-tecnica/>MG4</a>, y eso se nota en el suelo plano y el espacio interior. Quien venga del modelo anterior tiene el contraste en la <a href=/coches/mg-zs-ev-2024-precio-ficha-tecnica/>ficha del ZS EV</a>: tamaño parecido, planteamiento distinto.
+
+Tampoco parece el eléctrico barato de la casa: el diseño toma rasgos del Cyberster y el habitáculo combina una **pantalla central de 12,8 pulgadas** con instrumentación digital de 10,25, según la propia marca, que presume además del premio AUTOBEST 2026 al coche accesible con mejor tecnología de Europa.
+
+## Las dos baterías, sin mezclar ciclos
+
+Toda la gama comparte motor trasero y **350 Nm de par**. Lo que cambia es la batería, y las dos versiones sirven a perfiles muy distintos:
+
+| Dato | Standard Range | Long Range |
+|---|---|---|
+| Batería | 49 kWh | 62 kWh |
+| Potencia | 170 CV | 231 CV |
+| Autonomía homologada | 340 km WLTP | 480 km WLTP |
+
+Ojo: los 480 km son **WLTP europeos**, no CLTC chinos, y no deben compararse con autonomías de otro ciclo. La batería va en una estructura ultrafina de 110 mm que libera altura interior. En carga rápida, el pico de **139 kW en continua** deja el 10-80 % en torno a 26 minutos; en casa, lo sensato es cargar de noche. Todo el detalle está en la <a href=/coches/mg-s5-ev-2026-precio-ficha-tecnica/>ficha completa del MG S5 EV</a>.
+
+## Uso real: dónde brilla y dónde se le ven las costuras
+
+La versión de 49 kWh es un coche de diario: ciudad, cercanías y escapadas cortas sin planificar paradas. En autopista sostenida y con frío, la autonomía útil caerá de forma sensible respecto a los 340 km homologados, como en cualquier eléctrico de su tamaño; para viajes largos habituales, la Long Range es la compra lógica. A favor juegan el maletero de **453 litros** y una tracción trasera con mejor tacto que el de muchos rivales delanteros. En contra, esa tracción exige cabeza con lluvia o nieve sin neumáticos adecuados. Y un aviso honesto: los 22.090 € exigen promociones, financiación y ayudas; sin condiciones, la tarifa parte de 32.348 €.
+
+## Etiqueta Cero y costes de tenerlo en casa
+
+Al ser eléctrico puro, su distintivo es la **etiqueta Cero de la DGT**: puede entrar libremente en las zonas de bajas emisiones, con ventajas al aparcar en la zona regulada de muchas ciudades, y su coste por kilómetro es muy inferior al de un SUV de gasolina si se carga en casa. La mecánica eléctrica elimina aceite, correas y embrague, y la frenada regenerativa reduce el desgaste de las pastillas; los gastos reales se concentran en neumáticos y seguro. Mientras dura una carga rápida, por cierto, da tiempo a echar una partida al <a href=/juego-monos/>juego caza-monos</a> y a buscar los monos escondidos por la web.
+
+## Cara a cara con sus rivales de ficha
+
+| Modelo | Desde | Potencia | Autonomía WLTP | Maletero |
+|---|---|---|---|---|
+| MG S5 EV | 32.348 € | 231 CV | 480 km | 453 L |
+| <a href=/coches/omoda-5-ev-2025-precio-ficha-tecnica/>Omoda 5 EV</a> | 26.690 € | 204 CV | 430 km | 370 L |
+| <a href=/coches/kia-ev3-air-2025-precio-ficha-tecnica/>Kia EV3 Air</a> | desde 36.930 € | 204 CV | 436 km WLTP | 460 L |
+| <a href=/coches/byd-atto-3-evo-2025-precio-ficha-tecnica/>BYD Atto 3 EVO</a> | 42.990 € | 313 CV | 510 km | 490 L |
+
+El Omoda gana en tarifa, pero cede maletero y autonomía; el EV3 cobra más por un planteamiento más premium, y el Atto 3 EVO juega en otra liga de precio. El MG queda en el centro, con la mejor relación autonomía-precio del grupo en su Long Range.
+
+**Veredicto:** ¿compensa el S5 EV? Sí, para quien busca un SUV eléctrico familiar con autonomía seria, carga rápida de verdad y etiqueta Cero sin pagar precios de marca premium; la Long Range es la versión con sentido si sales de la ciudad con frecuencia. No es tu coche si necesitas tracción integral, si tu presupuesto depende del precio promocional sin financiar o si haces autopista a diario sin dónde cargar en casa o en el trabajo.
 
 ## Preguntas frecuentes
 
@@ -1073,6 +1207,30 @@ De momento no hay planes oficiales. Pero el segmento de los todoterrenos eléctr
 
 <img src=/media/icaur-v23-2026-precio-ficha-tecnica-oficial.webp alt=iCAUR V23 vista frontal>
 
+## «Classic never fades»: la filosofía oficial de iCAUR
+
+iCAUR no esconde su jugada: el lema de la marca es «classic never fades» —lo clásico nunca pasa de moda— y su estrategia global gira en torno al diseño de inspiración clásica, la personalización y la comunidad de usuarios. El <a href=https://www.ariva.de/news/three-days-to-go-four-core-highlights-of-the-2026-icaur-12172218>comunicado de Chery Group sobre la cumbre internacional de iCAUR</a> describe ediciones personalizadas de fábrica sobre la base del V23 y un ecosistema en el que los propios clientes co-crean accesorios y versiones. Según la marca, la mitad de sus usuarios en el mundo personaliza su coche: el V23 no se vende como un electrodoméstico, se vende como un lienzo con ruedas.
+
+## Las dos versiones, con la letra pequeña de los ciclos
+
+La ficha distingue bien las dos mecánicas: **2WD de 134 CV** con batería LFP de 59,93 kWh y **4WD de 208 CV y 292 Nm** con batería NMC de 81,8 kWh. Conviene leer las autonomías con el manual de instrucciones de los ciclos chinos: las cifras que el análisis original recoge en ciclo NEDC son las más optimistas de la industria, y en uso real europeo la versión grande rondaría los 350 km que estima el propio texto. La arquitectura es la de un eléctrico moderno y sencillo —motor trasero en el 2WD, doble motor en el 4WD— sin pretensiones de deportivo: su terreno es el diseño y la vida al aire libre, no las prestaciones.
+
+## Uso real: 4 plazas como declaración de intenciones
+
+Las **4 plazas** no son un descuido, son el posicionamiento: Chery prefirió un interior espacioso para cuatro y una estética sin compromisos a un familiar de cinco. En el día a día eso significa un coche de 4,22 m fácil de aparcar, con una pantalla de 15,4 pulgadas como centro de mando y asistentes de conducción completos, pero con un maletero y una versatilidad familiar limitados por su propio concepto. Es un coche de ocio para parejas y solteros con perro, no el segundo coche familiar que resuelve todo. Y sin red europea, su uso real en España es, hoy, puramente teórico.
+
+## Mantenimiento, garantía y seguridad: lo declarado y lo pendiente
+
+La marca declara una **garantía de 8 años o 200.000 km** que ya recoge la ficha, una cifra ambiciosa incluso entre las marcas chinas y que marca el nivel de confianza de Chery en su eléctrica. El mantenimiento de un eléctrico puro como este sería mínimo —frenos longevos, líquidos y filtros— en los mercados donde la marca opera. En seguridad, el dato honesto: **Euro NCAP no lo ha evaluado**, porque no se vende en Europa; cualquier afirmación sobre su seguridad pasiva sería, por ahora, sin datos verificados.
+
+## Normativa: Cero si llegara, nada mientras tanto
+
+Si iCAUR completara la homologación europea, el V23 obtendría la **etiqueta Cero** como eléctrico puro. Hoy no hay planes oficiales para España, aunque la expansión internacional de la marca —con la serie V creciendo con los V25 y V27— hace que su llegada sea una cuestión de calendario comercial, no de producto. La propia Chery ya vende en España sus marcas Omoda y Jaecoo, la infraestructura que un desembarco de iCAUR aprovecharía.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En casa tiene al <a href=/coches/icaur-03t-2026-precio-ficha-tecnica/>iCAUR 03T</a> (422 CV y desde 28.000 € en nuestra ficha) como hermano de asfalto y al futuro <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR V27 EREV</a> como hermano grande con extensor de autonomía. Fuera, su espejo occidental sería el <a href=/coches/suzuki-jimny-pro-2026-precio-ficha-tecnica/>Suzuki Jimny</a>: misma idea de caja con ruedas y carisma, filosofía opuesta en propulsión. **Veredicto:** el V23 merece la pena como concepto —diseño con alma a precio eléctrico chino— y merecerá la pena como compra el día que Chery lo venda en Europa con garantía y red. Hoy es el todoterreno eléctrico que mirar, no el que firmar. Mientras llega, el <a href=/juego-monos/>juego caza-monos</a> sí está homologado en toda la web.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el iCAUR V23?
@@ -1090,7 +1248,7 @@ No: la marca iCAUR no opera en Europa por ahora.
 ### ¿Qué batería lleva?
 59,93 kWh LFP (2WD) u 81,8 kWh NMC (4WD).
 
-*Fuentes: <a href=https://www.cheryinternational.com>Chery Internacional</a>, paultan.org*
+*Fuentes: <a href=https://www.cheryinternational.com>Chery Internacional</a>, paultan.org, <a href=https://www.ariva.de/news/three-days-to-go-four-core-highlights-of-the-2026-icaur-12172218>Chery Group — comunicado sobre la cumbre internacional de usuarios de iCAUR (GlobeNewswire)</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
@@ -1610,6 +1768,30 @@ La clave del Jolion HEV es su transmisión **DHT** (Dedicated Hybrid Transmissio
 
 <img src=/media/haval-jolion-hev-2026-precio-ficha-tecnica-oficial.webp alt=Haval Jolion HEV vista tres cuartos>
 
+## Seguridad con nota oficial: 5 estrellas ANCAP también para el híbrido
+
+Es el dato que le faltaba a la ficha y viene del organismo competente: ANCAP evaluó el Jolion de gasolina y después sometió a la **versión híbrida** a dos pruebas destructivas adicionales —frontal offset y poste oblicuo— para comprobar la integridad de la batería y del sistema de alta tensión. El <a href=https://www.ancap.com.au/media-and-gallery/media-releases/alternative-powertrains-endorsed-with-five-star-safety>comunicado oficial de ANCAP</a> confirma que la nota de **5 estrellas** se extendió al híbrido, con un 90 % en protección de adultos, 84 % en infantil, 64 % en usuarios vulnerables y 92 % en asistentes según el informe completo. Matiz honesto: es una nota **ANCAP, no Euro NCAP**; Europa no lo ha evaluado porque Haval no vende turismos aquí, pero es una verificación independiente y exigente, no una afirmación de la marca.
+
+## La plataforma L.E.M.O.N. y el DHT, en contexto
+
+El Jolion se construye sobre la plataforma **L.E.M.O.N.** de GWM, la arquitectura ligera del grupo para sus SUV compactos, y su transmisión **DHT** es la primera híbrida dedicada con dos relaciones en el lado del motor térmico que el grupo puso en producción. En la práctica, el sistema trabaja en eléctrico puro a baja velocidad, en serie en ciudad y en paralelo en carretera, que es como se consiguen a la vez los **190 CV** y los **5,1 l/100 km** de la ficha. El maletero de **337 litros** sigue siendo el precio visible de alojar batería y depósito en un coche de 4,47 m con una batalla generosa de 2.700 mm.
+
+## Uso real: el SUV familiar que España no puede comprar
+
+Su uso real ideal es claro: familia que hace ciudad entre semana —donde el DHT pasa mucho tiempo en eléctrico y el consumo cae— y viajes el fin de semana, donde los 190 CV evitan la sensación de híbrido justo que transmiten rivales de 122-140 CV. No es enchufable, así que no hay rutina de carga ni etiqueta Cero: es el híbrido «de siempre» llevado a su mejor expresión de potencia. Sus límites son el maletero, una tracción delantera sin opción 4x4 y, en nuestro caso, la inexistencia misma de la oferta: ni precio español, ni red, ni garantía europea.
+
+## Mantenimiento de un híbrido DHT
+
+Un HEV como este concentra su mantenimiento en el motor de gasolina (aceite, filtros, bujías) y en los consumibles habituales, con la ventaja de unos frenos longevos por la frenada regenerativa y sin correa de distribución en la lista de grandes gastos. La transmisión DHT es una unidad sellada específica: fuera de una red oficial, su reparación sería el punto débil de un coche importado por libre. En los mercados donde GWM sí opera, la marca respalda estos modelos con su red y programas de mantenimiento locales, que es exactamente lo que un comprador español no tendría.
+
+## Normativa: etiqueta ECO teórica y el muro de la homologación
+
+Por su condición de híbrido no enchufable, si se homologara en Europa le correspondería la **etiqueta ECO** de la DGT, la ventaja urbana real frente a un gasolina puro. Pero sin homologación europea la etiqueta es teórica, y su nota de seguridad de referencia seguirá siendo la australiana: en Euro NCAP figura, sencillamente, como **sin datos** para este modelo y mercado.
+
+## Rivales y veredicto: ¿merece la pena?
+
+En su segmento manda el <a href=/coches/toyota-corolla-cross-200h-2025-precio-ficha-tecnica/>Toyota Corolla Cross híbrido</a>, al que el propio análisis compara: el Jolion gana en potencia y pierde en red y maletero. Dentro de casa, el <a href=/coches/haval-h6-hev-2025-precio-ficha-tecnica/>Haval H6 HEV</a> (243 CV y desde 33.800 € en nuestra ficha) es el hermano grande para quien el Jolion se queda corto. **Veredicto:** como producto, el Jolion HEV merece la pena claramente en los mercados donde se vende: potencia, consumo y una nota de seguridad verificada por un precio chino. Como compra desde España, no hay veredicto posible: es el escaparate de lo que GWM podría vender aquí si decidiera traer Haval, y mientras eso no ocurra, toca mirar —y jugar al <a href=/juego-monos/>juego caza-monos</a>— desde la barrera.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Jolion HEV?
@@ -1627,7 +1809,7 @@ No: Haval no opera en España; el grupo GWM vende la marca Ora.
 ### ¿Qué maletero tiene?
 Entre 337 y 390 litros según la versión.
 
-*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, gwm.com.ar*
+*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, gwm.com.ar, <a href=https://www.ancap.com.au/media-and-gallery/media-releases/alternative-powertrains-endorsed-with-five-star-safety>ANCAP — extensión de las 5 estrellas a la versión híbrida del Jolion</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
@@ -1768,6 +1950,43 @@ Compite con el **MG4** (más barato, menos carácter), el **BYD Dolphin** (más 
 
 <img src=/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-oficial.webp alt=GWM Ora 03 GT vista lateral>
 
+## Ora: la marca eléctrica de GWM que apostó por el diseño
+
+Ora es la enseña de eléctricos de Great Wall Motor, cuya actividad global se recoge en la <a href=https://www.gwm.com>web oficial de GWM</a>. Donde otras marcas chinas compitieron a base de pantalla gigante y precio mínimo, Ora eligió el camino contrario: un compacto de diseño retro-futurista (el Ora 03, antes conocido como Funky Cat) que se reconoce de un vistazo. El GT es su versión de carácter: misma base, más potencia, kit aerodinámico y detalles deportivos. No pretende ser un hot hatch de circuito; pretende que tu eléctrico urbano no parezca un electrodoméstico con ruedas, y en eso acierta de pleno.
+
+## La técnica: 171 CV y 400 km en formato compacto
+
+| Dato | GWM Ora 03 GT |
+|---|---|
+| Potencia | 171 CV / 250 Nm |
+| Batería | 63 kWh |
+| Autonomía WLTP | 400 km |
+| 0-100 km/h | 8,2 s |
+| Velocidad máxima | 160 km/h |
+| Medidas | 4.254 x 1.848 x 1.603 mm |
+| Tracción | Delantera |
+| Etiqueta DGT | Cero |
+
+La subida de potencia frente al Ora 03 normal (171 CV frente a 143 CV) y el 0-100 en **8,2 s** sitúan al GT en el terreno de un compacto ágil, no de un deportivo: su terreno es la ciudad y la ronda, donde el par instantáneo de 250 Nm hace el trabajo. La batería de **63 kWh** con 400 km WLTP es la cifra que lo hace viable como coche único para mucha gente, siempre con la rebaja real habitual de los ciclos de homologación en autopista y frío. Añade un dato de seguridad relevante: el Ora 03 obtuvo **cinco estrellas en Euro NCAP**, el examen independiente que puede consultarse en <a href=https://www.euroncap.com>Euro NCAP</a>, un respaldo que muchos rivales de precio similar sí tienen y que conviene exigir a cualquier marca nueva.
+
+## Uso real: ciudad con personalidad, autovía con cabeza
+
+El Ora 03 GT es un coche de diario urbano y periurbano: tamaño contenido, respuesta inmediata y una autonomía que cubre la semana laboral media sin cargar a diario. Sus límites honestos son los del formato (plazas traseras y maletero de compacto corto) y los de la marca: la red comercial de GWM en España es joven frente a MG o BYD, y eso afecta a la prueba, a la entrega y a la reventa. A cambio, es difícil encontrar un eléctrico con más personalidad por sus registros de precio: la versión de 171 CV figura desde 31.990 € en registros españoles de 2025, como recoge la FAQ de este análisis. Compáralo en el <a href=/comparador-coches/>comparador de coches</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y costes: eléctrico sencillo, marca en construcción
+
+GWM no ha publicado en España una tabla de tarifas de mantenimiento del Ora 03 GT que podamos citar, y no la inventamos. Lo verificable es el patrón de los eléctricos de su clase: sin aceite ni distribución, el gasto ordinario se reduce a neumáticos, frenos (con menor desgaste por la regeneración), filtros y las revisiones programadas, con la batería de 63 kWh como componente crítico cubierto por la garantía del fabricante. Antes de comprar, la tarea pendiente es confirmar concesionario y servicio oficial cercanos: en una marca en despliegue, ese dato vale tanto como el descuento.
+
+## Normativa: etiqueta Cero y cinco estrellas Euro NCAP
+
+Como eléctrico puro, el Ora 03 GT lleva **distintivo Cero**, con libre acceso a las ZBE y las bonificaciones municipales habituales. Sus cinco estrellas Euro NCAP le dan el respaldo de seguridad que el comprador debe pedir a cualquier marca recién llegada, y su ITV seguirá el calendario de los turismos (primera a los 4 años). Normativamente es un ciudadano ejemplar: cero emisiones locales y seguridad auditada en Europa.
+
+## Frente a MG4 XPower y BYD Dolphin: veredicto
+
+Los dos rivales que cita el post tienen ficha en esta casa, y la comparación es instructiva: el <a href=/coches/mg4-electric-xpower-2025-precio-ficha-tecnica/>MG4 XPower</a> cuesta 42.190 € con 435 CV y un 0-100 en 3,8 s, otra liga de prestaciones; el <a href=/coches/byd-dolphin-2025-precio-ficha-tecnica/>BYD Dolphin</a> parte de 36.690 € con 204 CV, 427 km de autonomía y un enfoque práctico. El Ora GT no gana a ninguno en cifras puras: gana en diseño, en interior con encanto y en ser el eléctrico que la gente se gira a mirar.
+
+**¿Merece la pena?** Si el coche se elige solo con la hoja de cálculo, hay opciones más rápidas o más prácticas por el mismo dinero. **Para quién sí:** para quien quiera un eléctrico urbano con personalidad propia, seguridad de cinco estrellas y potencia suficiente, y tenga red GWM a mano. **Para quién no:** para quien priorice prestaciones (MG4), practicidad (Dolphin) o reventa consolidada.
+
 ## Preguntas frecuentes
 
 ### ¿Qué potencia tiene el Ora 03 GT?
@@ -1788,7 +2007,7 @@ Sí.
 ### ¿Cuánto cuesta el Ora 03 GT en España?
 GWM no publica un precio oficial específico del GT; la versión de 171 CV figura desde 31.990 € en registros españoles de 2025.
 
-*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, km77.com*
+*Fuentes: <a href=https://www.gwm.com>GWM oficial</a>, km77.com, <a href=https://www.euroncap.com>Euro NCAP (evaluación de seguridad)</a>*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
@@ -1835,6 +2054,43 @@ Pero lo sorprendente es el interior: **pantalla táctil**, asientos de cuero, cl
 En Australia, Sudáfrica y Latinoamérica el Poer vende miles de unidades robando clientes al Hilux: misma capacidad por un 30-40 % menos. En Europa, los pick-up son un nicho (agricultores, aventura), pero el precio del Poer lo haría imbatible si GWM lo trajera oficialmente.
 
 <img src=/media/gwm-poer-2025-precio-ficha-tecnica-oficial.webp alt=GWM Poer vista tres cuartos delantera>
+
+## Great Wall y el Poer: el pick-up como producto global
+
+El Poer —Pao en su mercado de origen— es la gran apuesta de **Great Wall Motor** en el segmento que domina medio mundo fuera de Europa: el pick-up mediano de chasis de largueros. La gama global del grupo puede consultarse en su <a href=https://www.gwm.com>web oficial, GWM</a>, la misma fuente que ya cita este análisis. La estrategia es transparente: ofrecer la herramienta de un Toyota Hilux o un Ford Ranger —misma arquitectura, misma capacidad de remolque— con un interior de SUV moderno y un precio entre un **30 y un 40 % inferior** en los mercados donde se vende, como Australia, Sudáfrica o Latinoamérica, según recoge el post original.
+
+## Técnica: por qué un pick-up de verdad sigue siendo de largueros
+
+| Dato | GWM Poer |
+|---|---|
+| Motor | 2.0 turbodiésel |
+| Potencia | 163 CV |
+| Par | 400 Nm |
+| Tracción | 4x4 con reductora y bloqueo de diferencial |
+| Cambio | Manual de 6 / automático de 8 |
+| Remolque | Hasta 3,5 t |
+| Medidas | 5.410 x 1.934 x 1.886 mm |
+| Plazas | 5 |
+
+El chasis de **largueros y travesaños** no es nostalgia: es lo que permite a un pick-up remolcar **3,5 toneladas**, cargar y soportar años de pistas sin que la carrocería sufra. La **reductora** y el bloqueo de diferencial separan a un 4x4 de trabajo de un SUV con estética aventurera: en barro, arena o una rampa con remolque, la reductora multiplica el par a baja velocidad sin castigar el embrague ni el convertidor. Los **400 Nm** del 2.0 diésel llegan donde un pick-up los necesita, abajo, y por eso sus 163 CV rinden en uso real más de lo que sugiere la cifra junto a rivales de gasolina más potentes.
+
+## Uso real: trabajo entre semana, escapada el finde
+
+El Poer está pensado para el usuario que en Australia o Latinoamérica hace con un solo vehículo lo que en España se reparte entre una furgoneta, un familiar y un todoterreno: trabajar, remolcar y viajar. El interior con pantalla táctil, cuero y asistentes que destaca el post original es su argumento frente a los pick-up espartanos tradicionales. Sus límites en clave española son claros: **5,41 metros** no caben en la mayoría de los garajes urbanos, y en Europa el pick-up paga peajes fiscales y de imagen que en otros continentes no existen. Y el límite previo a todos: **GWM no lo comercializa oficialmente en Europa**.
+
+## Mantenimiento: mecánica diésel conocida, red inexistente aquí
+
+Un 2.0 turbodiésel con cambio manual o automático convencional pertenece a la mecánica más conocida por cualquier taller multimarca: aceite, filtros, transmisión 4x4 y frenos dimensionados para remolcar. Lo que no existe es dato oficial aplicable a España, porque el modelo no se vende aquí, y no publicamos intervalos ni costes sin fuente. En los mercados donde el Poer se comercializa, el mantenimiento corresponde a la red de GWM. Para un hipotético importador, la disponibilidad de recambios específicos de carrocería y transmisión sería el coste incierto a presupuestar.
+
+## Normativa: cómo se clasificaría un pick-up así en España
+
+Sin venta oficial europea no hay homologación ni **etiqueta DGT** asignada al Poer. A modo de contexto normativo, los pick-up diésel en España se matriculan habitualmente como vehículos industriales o mixtos según su configuración, con las implicaciones de ITV, velocidad y fiscalidad que eso conlleva, y su etiqueta sería la correspondiente a un diésel moderno. Pero aplicado al Poer concreto todo eso es condicional: hoy es un modelo de otros mercados, y cualquier unidad que llegara tendría que pasar su proceso de homologación individual.
+
+## Frente a Hilux, Ranger y a su hermano Cannon Alpha: veredicto
+
+Los rivales que nombra el post original —**Toyota Hilux y Ford Ranger**— ganan en red mundial, reventa y versiones especiales; el Poer responde con equipamiento y precio en origen. Dentro de la propia casa, el <a href=/coches/gwm-cannon-alpha-2024-precio-ficha-tecnica/>GWM Cannon Alpha</a> representa el escalón mayor y más moderno de la familia pick-up del grupo, mientras la marca sí vende en Europa turismos como el <a href=/coches/gwm-ora-03-2025-precio-ficha-tecnica/>GWM Ora 03</a>. Puedes comparar el segmento en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** en los mercados donde se vende, para quien necesita un pick-up de trabajo y ocio sin pagar la prima de las marcas históricas. **Para quién no:** para el comprador español actual: sin venta oficial de GWM en Europa, es una referencia de lo que China ya ofrece, no una compra posible.
 
 ## Preguntas frecuentes
 
@@ -1900,6 +2156,43 @@ Dentro, doble pantalla, asientos deportivos y el espacio habitual del H6, aunque
 El **Haval H6** ha sido durante años el SUV más vendido de China, con millones de unidades. El H6S es su hermano deportivo, para un público más joven. En España ninguno se vende oficialmente, aunque el grupo GWM opera con la marca Ora.
 
 <img src=/media/haval-h6s-2025-precio-ficha-tecnica-oficial.webp alt=Haval H6S vista tres cuartos delantera>
+
+## Haval: la marca SUV de Great Wall y el fenómeno H6
+
+Haval es la marca especializada en SUV del grupo **Great Wall Motor**, y su modelo H6 ha sido durante años el SUV más vendido de China, con millones de unidades, como recuerda el post original. La gama del grupo puede consultarse en su <a href=https://www.gwm.com>web oficial, GWM</a>, ya citada en las fuentes de este análisis. El **H6S** es la declinación deportiva de ese superventas: misma base, carrocería coupé y un público más joven. Entender el H6S exige entender esa lógica de familia: en China, un modelo que vende millones se estira en versiones para cada nicho, y el coupé es la que captura al comprador que quiere el SUV práctico sin parecer el de su padre.
+
+## Técnica: 2.0T de 211 CV o híbrido de 243 CV
+
+| Dato | Haval H6S |
+|---|---|
+| Motores | 2.0T gasolina / 1.5T híbrido |
+| Potencia | 211 CV / 243 CV combinados |
+| Par (2.0T) | 325 Nm |
+| Cambio | DCT de 7 velocidades |
+| Tracción | Delantera |
+| Medidas | 4.714 x 1.940 x 1.729 mm |
+| Plazas | 5 |
+| Carrocería | SUV coupé |
+
+El **DCT de 7 velocidades** —doble embrague— es la elección habitual del grupo para sus gasolina e híbridos: cambios rápidos y un tacto más directo que un convertidor clásico, a cambio de exigir suavidad al conductor en maniobras lentas. La versión **híbrida de 243 CV combinados** es la interesante en clave europea: más potencia que el 2.0T y, en los mercados donde se homologa, etiqueta ECO, según el post original. La contrapartida del formato coupé también está en el análisis: la caída del techo resta algo de altura en las plazas traseras frente al H6 convencional, el precio clásico de la estética SUV coupé.
+
+## Uso real: el SUV familiar que no quiere parecerlo
+
+Con **4,71 metros** y cinco plazas, el H6S cubre el mismo uso que un SUV medio europeo: familia, viajes y diario, con la doble pantalla y los asientos deportivos que cita el post como equipamiento interior. Su hábitat es el mercado chino y otros mercados de exportación del grupo; en España, como el análisis deja claro, **Haval no opera oficialmente**, aunque GWM sí está presente en Europa con otras marcas como Ora. Para un lector español, el H6S sirve para calibrar lo que el mayor fabricante de SUV de China ofrece en su casa por el segmento que aquí dominan los SUV medios coreanos y europeos.
+
+## Mantenimiento: sin venta en España, sin datos aplicables
+
+Al no comercializarse en España, **no hay intervalos ni costes de mantenimiento aplicables** que podamos publicar con fuente. En los mercados donde se vende, el mantenimiento corresponde a la red del grupo GWM, con la mecánica conocida de un gasolina turbo o un híbrido con cambio de doble embrague: aceite, filtros, líquido de transmisión según plan de la marca y frenos. Cualquier cifra en euros para España sería inventada, y en esta casa las cifras sin fuente no se publican.
+
+## Normativa: la etiqueta ECO del híbrido es de sus mercados, no española
+
+El post original precisa que la versión híbrida lleva etiqueta ECO «en los mercados donde se homologa», y ese matiz es el correcto: sin homologación europea no existe etiqueta DGT oficial para el H6S. Si el híbrido se homologara en España con la misma configuración, su arquitectura de híbrido no enchufable encajaría en la categoría de la **etiqueta ECO**, pero hoy eso es un condicional, no un dato. El gasolina 2.0T, por su parte, correspondería a la etiqueta C en ese mismo escenario hipotético.
+
+## Frente al H6, al H6 GT y a los SUV coupé europeos: veredicto
+
+La primera comparación es doméstica: el H6 convencional gana en espacio trasero y el H6S, en imagen; el <a href=/coches/haval-h6-gt-2025-precio-ficha-tecnica/>Haval H6 GT</a> explora una vía deportiva paralela dentro de la misma familia, y el <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Haval H6 de GWM</a> muestra la base de la que todo parte. Frente a los SUV coupé que sí se venden en Europa, el H6S compite sobre el papel en potencia —211 y 243 CV son cifras serias— y pierde en lo de siempre: disponibilidad, red y homologación. Puedes seguir la familia en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** en sus mercados, para quien quiere el espacio del superventas H6 con una silueta coupé y la opción híbrida de 243 CV. **Para quién no:** para el comprador español de 2026: sin Haval en España, es una ventana al mercado chino, no una alternativa real en el concesionario.
 
 ## Preguntas frecuentes
 

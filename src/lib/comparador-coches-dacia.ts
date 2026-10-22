@@ -116,7 +116,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ATeA7r_3t-s",
     videoCanal: null,
     opiniones: [],
@@ -134,7 +134,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero ECO-G 100 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero ECO-G 100 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero ECO-G 100 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -184,7 +183,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "JehEwxCQkmk",
     videoCanal: "SoyMotor",
     opiniones: [],
@@ -216,7 +215,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -264,7 +262,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "dY2C6vDhd8Q",
     videoCanal: null,
     opiniones: [],
@@ -282,7 +280,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway TCe 90 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway TCe 90 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway TCe 90 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -330,7 +327,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "-rmR37OfdMU",
     videoCanal: "ActualidadMotor",
     opiniones: [],
@@ -348,7 +345,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway ECO-G 100 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway ECO-G 100 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway ECO-G 100 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -398,7 +394,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "tVqq7Skbt9w",
     videoCanal: "coches.net",
     opiniones: [],
@@ -430,7 +426,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -478,7 +473,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -496,7 +491,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Duster TCe 130 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster TCe 130 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster TCe 130 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -610,7 +604,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -628,7 +622,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Duster ECO-G 100 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster ECO-G 100 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster ECO-G 100 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -676,7 +669,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Kmp-y-nU954",
     videoCanal: "coches.net",
     opiniones: [],
@@ -694,7 +687,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Bigster TCe 140 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Bigster TCe 140 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Bigster TCe 140 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -742,7 +734,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -760,7 +752,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Bigster TCe 130 4x4 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Bigster TCe 130 4x4 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Bigster TCe 130 4x4 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -808,7 +799,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "adM_sbub5ec",
     videoCanal: null,
     opiniones: [],
@@ -826,7 +817,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger TCe 110 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger TCe 110 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Jogger TCe 110 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -874,7 +864,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -892,7 +882,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger ECO-G 120 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger ECO-G 120 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Jogger ECO-G 120 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -940,7 +929,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -958,7 +947,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger TCe 110 7 plazas 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger TCe 110 7 plazas 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior de 7 plazas del Dacia Jogger TCe 110 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -1006,7 +994,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1138,7 +1126,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kUdHxm8a7Z8",
     videoCanal: "Xataka",
     opiniones: [],
@@ -1156,7 +1144,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Spring Electric 65 2024, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp", "alt": "Dacia Spring Electric 65 2024, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Spring Electric 65 2024", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -1165,7 +1152,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "nvznUAWvySY",
     videoCanal: "carwow.es",
     marca: "Dacia",
@@ -1232,93 +1219,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Duster Hybrid 140",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
-  },
-  {
-    id: "dacia-bigster-hybrid-155-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-interior-oficial.webp",
-    videoId: "Lr6RoH6uZGw",
-    videoCanal: "SoyMotor",
-    marca: "Dacia",
-    modelo: "Bigster Hybrid 155",
-    tipo: "Híbrido (HEV)",
-    categoria: "SUV",
-    precioDesde: 29390,
-    potenciaCv: 156,
-    autonomiaKm: null,
-    maleteroL: 546,
-    ceroCien: 9.7,
-    velocidadMax: 180,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    pros: [
-      "29.390 €: el SUV grande híbrido más barato",
-      "156 CV con 4,6 l/100 km",
-      "Maletero de 546 L",
-      "9,7 s de 0-100 y 180 km/h",
-      "Etiqueta ECO",
-    ],
-    contras: [
-      "Peso sin publicar en esta ficha",
-      "El acabado Expression es básico",
-      "205 Nm: el par es justo",
-      "Sin tracción total",
-      "29.390 €: ya no es un Dacia de 15.000 €",
-    ],
-    largoMm: 4570,
-    anchoMm: 1813,
-    altoMm: 1711,
-    pesoKg: null,
-    consumo: 4.6,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 205,
-    traccion: "Delantera",
-    emisionesCo2: 105,
-    aprox: [],
-    imagen: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp",
-    opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 8.5,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 185,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.6 l/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
-    galeria: [
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Dacia Bigster Hybrid 155, vista lateral",
-        ancho: 1200,
-        alto: 800
-      },
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Dacia Bigster Hybrid 155, vista tres cuartos delantera",
-        ancho: 1200,
-        alto: 800
-      },
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Bigster Hybrid 155",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1408,7 +1309,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-_yq2MHIYYk",
     videoCanal: "SoyMotor",
     marca: "Dacia",
@@ -1475,12 +1376,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Jogger Hybrid 140 (5 plazas)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1489,7 +1385,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-_yq2MHIYYk",
     videoCanal: "SoyMotor",
     marca: "Dacia",
@@ -1556,12 +1452,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Jogger Hybrid 140 (7 plazas)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1577,7 +1468,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     modelo: "Logan ECO-G 100",
     tipo: "GLP (bifuel gasolina/GLP)",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 13550, // precio de salida en España (actualidadmotor),
     potenciaCv: 101,
     autonomiaKm: null,
     maleteroL: 528,
@@ -1645,7 +1536,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -1712,12 +1603,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Duster Blue dCi 115 (2024)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {

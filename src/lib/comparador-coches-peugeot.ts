@@ -19,7 +19,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -81,7 +81,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-208 con i-Cockpit",
         "ancho": 1920,
         "alto": 1280
@@ -102,7 +102,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -164,7 +164,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 208 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -185,7 +185,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -247,7 +247,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-2008",
         "ancho": 1920,
         "alto": 1280
@@ -268,7 +268,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -330,7 +330,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Peugeot E-208 GTi",
         "ancho": 1920,
         "alto": 1280
@@ -351,7 +351,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -413,7 +413,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-308",
         "ancho": 1920,
         "alto": 1280
@@ -434,7 +434,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -496,7 +496,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -517,7 +517,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -579,7 +579,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 SW Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -600,7 +600,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -662,7 +662,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 SW Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -683,7 +683,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -745,7 +745,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 408 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -766,7 +766,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -828,7 +828,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 408 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -849,7 +849,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -911,7 +911,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 992
       },
       {
-        "src": "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-408",
         "ancho": 1920,
         "alto": 1280
@@ -932,7 +932,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -994,7 +994,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-3008 con i-Cockpit panorámico",
         "ancho": 1920,
         "alto": 1280
@@ -1015,7 +1015,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1077,7 +1077,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-3008 Long Range",
         "ancho": 1920,
         "alto": 1280
@@ -1098,7 +1098,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1160,7 +1160,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 3008 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1181,7 +1181,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1243,7 +1243,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1264,7 +1264,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1326,7 +1326,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1347,7 +1347,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "RxFnhQ0deUU",
     videoCanal: "Arrancamos",
     marca: "Peugeot",
@@ -1409,7 +1409,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior ejecutivo del Peugeot 508",
         "ancho": 1920,
         "alto": 1280
@@ -1430,7 +1430,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "RxFnhQ0deUU",
     videoCanal: "Arrancamos",
     marca: "Peugeot",
@@ -1492,7 +1492,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 508 SW",
         "ancho": 1920,
         "alto": 1280
@@ -1513,7 +1513,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1575,7 +1575,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior modular del Peugeot E-Rifter",
         "ancho": 1920,
         "alto": 1280
@@ -1596,7 +1596,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1658,7 +1658,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de pasajeros del Peugeot E-Traveller",
         "ancho": 1920,
         "alto": 1280
@@ -1679,7 +1679,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1747,7 +1747,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior i-Cockpit del Peugeot 3008 con pantalla panorámica",
         "ancho": 1200,
         "alto": 800
@@ -1762,7 +1762,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1830,7 +1830,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 con pantalla panorámica",
         "ancho": 1200,
         "alto": 800
@@ -1845,7 +1845,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1913,7 +1913,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior i-Cockpit del Peugeot 2008",
         "ancho": 1200,
         "alto": 800
@@ -1928,7 +1928,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-partner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-partner-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1996,7 +1996,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-e-partner-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Peugeot E-Partner eléctrica",
         "ancho": 1200,
         "alto": 800
@@ -2011,7 +2011,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-expert-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-expert-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -2079,7 +2079,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-e-expert-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Peugeot E-Expert eléctrica",
         "ancho": 1200,
         "alto": 800

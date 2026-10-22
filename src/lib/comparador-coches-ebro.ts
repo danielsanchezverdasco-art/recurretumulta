@@ -75,7 +75,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ebro-s700-hibrido-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Ebro S700 HEV verde, vista trasera en carretera de montaña",
         "ancho": 1920,
         "alto": 1280
@@ -181,7 +181,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ebro-s900-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ebro-s900-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "xQOcSMD7478",
     videoCanal: "Periodismo del Motor",
     marca: "Ebro",
@@ -237,7 +237,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ebro-s900-phev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Ebro S900 PHEV azul circulando por la costa al atardecer",
         "ancho": 1920,
         "alto": 1280
@@ -249,7 +249,7 @@ export const COCHES_EBRO: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/ebro-s900-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Ebro S900 PHEV con techo panorámico",
         "ancho": 1920,
         "alto": 1280

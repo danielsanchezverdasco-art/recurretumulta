@@ -17,7 +17,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9 EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Berlina",
-    precioDesde: 40300,
+    precioDesde: 41300, // 309.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 309,
     autonomiaKm: 372,
     maleteroL: null,
@@ -32,7 +32,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     imagen: "/media/stelato-s9-erev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9-erev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/stelato-s9-erev-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: null,
     videoCanal: null,
     largoMm: 5160,
@@ -86,12 +86,7 @@ export const COCHES_STELATO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/stelato-s9-erev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Stelato S9 EREV, salpicadero con HarmonyOS",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "stelato-s9-erev-2025-precio-ficha-tecnica",
   },
@@ -101,7 +96,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9T",
     tipo: "Eléctrico",
     categoria: "Familiar",
-    precioDesde: 41600,
+    precioDesde: 44000, // 329.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 516,
     autonomiaKm: 801,
     maleteroL: null,
@@ -116,7 +111,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     imagen: "/media/stelato-s9t-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9t-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/stelato-s9t-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "wYJmr06SpdQ",
     videoCanal: "CARVIEW",
     largoMm: 5160,
@@ -170,12 +165,7 @@ export const COCHES_STELATO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/stelato-s9t-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Stelato S9T, habitáculo Cosmic Cockpit",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "stelato-s9t-2026-precio-ficha-tecnica",
   },
@@ -185,7 +175,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "S9T EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Familiar",
-    precioDesde: 41600,
+    precioDesde: 41300, // 309.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 309,
     autonomiaKm: 354,
     maleteroL: null,
@@ -200,7 +190,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     imagen: "/media/stelato-s9t-erev-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9t-erev-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/stelato-s9t-erev-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "dc3OQB83uug",
     videoCanal: "AUTO0508",
     largoMm: 5160,
@@ -254,12 +244,7 @@ export const COCHES_STELATO: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/stelato-s9t-erev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Stelato S9T EREV, salpicadero HarmonyOS",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
     analisisSlug: "stelato-s9t-erev-2026-precio-ficha-tecnica",
   },
@@ -271,7 +256,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "G9",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 62400,
+    precioDesde: 64000, // 479.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 594,
     autonomiaKm: 728,
     maleteroL: 978,
@@ -378,7 +363,7 @@ export const COCHES_STELATO: CocheComparador[] = [
     modelo: "G9 EREV",
     tipo: "Híbrido de autonomía extendida",
     categoria: "SUV",
-    precioDesde: 55900,
+    precioDesde: 57300, // 429.800 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaCv: 594,
     autonomiaKm: 405,
     maleteroL: 978,

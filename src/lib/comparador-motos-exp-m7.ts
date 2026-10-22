@@ -14,7 +14,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "CBR600RR",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 12700,
+    precioDesde: 13200, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 89,
     potenciaCv: 121,
     autonomiaKm: null,
@@ -27,7 +27,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "velocidadMax"],
+    aprox: ["potenciaKw", "potenciaCv", "velocidadMax"],
     pros: [
       "Vuelve la supersport de verdad: tetracilíndrico de 599 cc que estira hasta las 14.000 rpm",
       "Electrónica de superbike: IMU, ABS en curva, control de tracción HSTC, anti-wheelie y modos de motor",
@@ -36,7 +36,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Pantalla TFT a color con telemetría (tiempos por vuelta) y señal de frenada de emergencia ESS",
     ],
     contras: [
-      "12.700 € por una 600: la supersport más cara de su segmento",
+      "13.200 € por una 600: la supersport más cara de su segmento",
       "Postura radical de circuito: insoportable en ciudad y viajes",
       "El motor pide ir alto de vueltas: soso por debajo de 8.000 rpm",
       "Sin quickshifter de serie en la versión base",
@@ -81,7 +81,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "NT1100",
     version: "2025",
     categoria: "Turismo",
-    precioDesde: 15700,
+    precioDesde: 15700, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 73.55,
     potenciaCv: 100,
     autonomiaKm: null,
@@ -94,7 +94,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La sport-touring más vendida de Europa: equilibrio perfecto entre comodidad y agilidad",
       "Motor de 1.084 cc con un 7 % más de par en medios en la versión 2025",
@@ -148,7 +148,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "CRF1100L Africa Twin",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 14999,
+    precioDesde: 15525, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 75,
     potenciaCv: 102,
     autonomiaKm: null,
@@ -161,7 +161,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La trail mito: 102 CV con entrega suave y par de 112 Nm desde muy abajo",
       "IMU de 6 ejes con ABS en curva, control de tracción y anti-wheelie configurables",
@@ -215,7 +215,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "XL750 Transalp",
     version: "2025",
     categoria: "Trail",
-    precioDesde: 11100,
+    precioDesde: 11100, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67.5,
     potenciaCv: 91.8,
     autonomiaKm: null,
@@ -228,7 +228,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A (versión A2 35 kW disponible)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El mito resucitado: la Transalp vuelve con 91,8 CV y solo 210 kg",
       "Motor bicilíndrico de 755 cc con cigüeñal a 270°: tacto y sonido adictivos",
@@ -478,7 +478,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Rebel 1100",
     version: "2025",
     categoria: "Custom",
-    precioDesde: 11550,
+    precioDesde: 11550, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 64,
     potenciaCv: 87,
     autonomiaKm: null,
@@ -491,7 +491,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La custom japonesa con más carácter: 87 CV y 98 Nm del motor de la Africa Twin",
       "Asiento a solo 700 mm: la custom grande más accesible para todos",
@@ -832,7 +832,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Gold Wing",
     version: "2025",
     categoria: "Turismo",
-    precioDesde: 31500,
+    precioDesde: 31500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 92,
     potenciaCv: 125,
     autonomiaKm: null,
@@ -845,7 +845,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "potenciaKw"],
+    aprox: ["potenciaKw"],
     pros: [
       "La reina de las touring: 1.833 cc y 125 CV de suavidad absoluta",
       "DCT de 7 velocidades: el cambio automático más refinado del mundo",
@@ -895,7 +895,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "MT-09",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 11299,
+    precioDesde: 11299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -908,7 +908,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A (limitable a A2 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "El tricilíndrico CP3 de 119 CV: el motor naked con más carácter del mercado",
       "Y-AMT: cambio automatizado opcional sin maneta de embrague",
@@ -962,7 +962,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "MT-10",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 17999,
+    precioDesde: 17999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 122,
     potenciaCv: 165.9,
     autonomiaKm: null,
@@ -975,7 +975,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El CP4 de la R1 con 165,9 CV: la hyper naked más brutal de Yamaha",
       "IMU de 6 ejes, ABS en curva, quickshifter y control de crucero",
@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "YZF-R7",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: 9799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.99,
     potenciaCv: 73.4,
     autonomiaKm: null,
@@ -1163,7 +1163,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "XMAX 300",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 6499,
+    precioDesde: 6499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 20.6,
     potenciaCv: 28,
     autonomiaKm: null,
@@ -1176,7 +1176,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El GT de 300 más equilibrado: 28 CV, 183 kg y consumos de 3 l/100 km",
       "Se conduce con el carnet B + 3 años",
@@ -1359,7 +1359,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "TMAX 560",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 13499,
+    precioDesde: 14299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1372,7 +1372,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El maxi-scooter que inventó el segmento: 47,6 CV y chasis de moto",
       "Se conduce con el A2 (35 kW exactos)",
@@ -1381,7 +1381,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Consumo de 4,8 l/100 km: 300 km con 15 L",
     ],
     contras: [
-      "13.499 € la base; el Tech MAX sube a 15.699 €",
+      "14.299 € la base; el Tech MAX sube a 16.299 €",
       "221 kg: pesado para moverlo en parado",
       "Mantenimiento de correa y variador más caro que un 300",
       "El baúl trasero es opcional",
@@ -1978,7 +1978,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     videoCanal: null,
     fuenteNombre: "motofichas.com",
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z500-se-2025",
-    analisisSlug: "kawasaki-z500-2025-analisis-opinion",
+    analisisSlug: "kawasaki-z500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
@@ -2079,17 +2079,13 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-    ],
+    aprox: [],
     pros: [
-      "Consumo real de 5,1 L/100 km (dato declarado por Kawasaki; sin medición real publicada en pruebas) (fuente: Kawasaki (ficha técnica, vía Directomotor))",
       "La única tetracilíndrica de 400: 77 CV que suben a 16.000 rpm",
       "Sonido y tacto de superbike en formato A2",
       "Limitable a 35 kW para el carnet A2",
       "Electrónica completa: KTRC, quickshifter, modos",
       "La ZX-4RR (10.300 €) añade suspensiones Showa",
-      "Con Ram Air, la potencia declarada sube a 80 CV a 14.500 rpm (SoyMotero.net).",
-      "Depósito de 15 litros, generoso para una 400 deportiva (ficha técnica Kawasaki).",
     ],
     contras: [
       "9.500 €: cara para una 400",
@@ -2097,14 +2093,11 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "188 kg: pesada para su cilindrada",
       "El seguro de una tetracilíndrica es caro",
       "Postura deportiva: incómoda en ciudad",
-      "El calor del motor tetracilíndrico se hace notar en entornos urbanos (Directomotor).",
     ],
     curiosidades: [
       "Recupera el espíritu de las 400 japonesas de los 90",
       "Su motor gira hasta las 16.000 rpm",
       "Es la única 400 tetracilíndrica del mercado actual",
-      "Con el sistema Ram Air activo a alta velocidad, la potencia declarada sube de 77 a 80 CV (SoyMotero.net).",
-      "Existe una versión oficial limitada para el carnet A2 (48 CV), con kit de limitación de unos 600 € sobre el PVP (SoyMotero.net).",
     ],
     imagen: "/media/motos/kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2117,8 +2110,8 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Motofichas (precio España 2026)",
-    fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-zx-4r",
+    fuenteNombre: "motofichas.com",
+    fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: "kawasaki-ninja-zx-4r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
@@ -2265,73 +2258,6 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       trucos: [
         "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
         "Con 4,5 l/100 km y 12 L tienes más de 260 km de autonomía.",
-      ],
-    },
-  },
-  {
-    id: "kawasaki-z125-2026-ficha-tecnica-precio",
-    marca: "Kawasaki",
-    modelo: "Z125",
-    version: "2026",
-    categoria: "Naked",
-    precioDesde: 5150,
-    potenciaKw: 11,
-    potenciaCv: 15,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 147,
-    plazas: 2,
-    carnet: "A1 (B+3 años)",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: [],
-    pros: [
-      "La naked 125 de la saga Z: 15 CV y estilo Sugomi",
-      "Se conduce con el A1 (o el B con 3 años)",
-      "147 kg: ligera y ágil en ciudad",
-      "ABS y faro LED de serie",
-      "Ideal para iniciarse en el mundo Z",
-    ],
-    contras: [
-      "5.150 €: cara para una 125",
-      "15 CV: el límite del A1",
-      "Suspensiones básicas",
-      "El asiento a 815 mm puede ser alto",
-      "La competencia ofrece más por menos",
-    ],
-    curiosidades: [
-      "Es la hermana pequeña de la saga Z",
-      "Comparte estética con la Z650 y la Z900",
-      "Su motor es de refrigeración líquida",
-    ],
-    imagen: "/media/motos/kawasaki-z125-2026-ficha-tecnica-precio-1.webp",
-    galeria: [
-      {
-        src: "/media/motos/kawasaki-z125-2026-ficha-tecnica-precio-2.webp",
-        alt: "Kawasaki Z125 2026, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "motofichas.com",
-    fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
-    analisisSlug: "kawasaki-z125-2026-ficha-tecnica-precio",
-    mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
-      cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión según el manual.",
-      ],
-      trucos: [
-        "Revisa el aceite cada 3.000 km: los pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día.",
       ],
     },
   },
@@ -2542,7 +2468,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-8R",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 9699,
+    precioDesde: 10199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2555,7 +2481,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico en línea de 776 cc con 78 Nm de par: entrega inmediata y progresiva.",
       "Limitable para el carnet A2 (35 kW) con una electrónica que se adapta bien.",
@@ -2611,7 +2537,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-8S",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 8199,
+    precioDesde: 9499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -2680,7 +2606,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-S1000",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 14315,
+    precioDesde: 15169, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 111.8,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -2887,7 +2813,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-R125",
     version: "2025",
     categoria: "Deportiva",
-    precioDesde: 3899,
+    precioDesde: 5369, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2956,7 +2882,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "DR-Z4SM",
     version: "2025",
     categoria: "Supermotard",
-    precioDesde: 9700,
+    precioDesde: 9699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 28,
     potenciaCv: 38,
     autonomiaKm: null,
@@ -2969,7 +2895,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Solo 154 kg: agilidad extrema en ciudad y curvas reviradas.",
       "Monocilíndrico de 398 cc con 38 CV: perfecto para el A2 sin limitar.",
@@ -2983,7 +2909,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       "Depósito de solo 8,7 litros: autonomía limitada.",
       "Asiento alto (890 mm) y estrecho: no para todas las tallas.",
       "Vibraciones del monocilíndrico en tiradas largas.",
-      "9.700 € no es barata para una 400 monocilíndrica.",
+      "9.699 € no es barata para una 400 monocilíndrica.",
       "Protección aerodinámica nula.",
     ],
     curiosidades: [
@@ -3090,7 +3016,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-S125",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 3699,
+    precioDesde: 4699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -3159,7 +3085,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "Katana",
     version: "2025",
     categoria: "Naked",
-    precioDesde: 16315,
+    precioDesde: 16315, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -3172,7 +3098,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño neo-retro ochentero único: la moto con más personalidad del segmento.",
       "Motor de 999 cc con 152 CV derivado de la GSX-R1000 K5.",
@@ -3228,7 +3154,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "GSX-R1000R",
     version: "2026",
     categoria: "Deportiva",
-    precioDesde: 20490,
+    precioDesde: 20999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 143.3,
     potenciaCv: 195,
     autonomiaKm: null,
@@ -3241,7 +3167,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 999 cc con 195 CV y distribución variable SR-VVT: la superbike de Hamamatsu.",
       "Electrónica de carreras: 10 niveles de tracción, ABS en curva, launch control y quickshifter.",
@@ -3253,7 +3179,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     contras: [
       "195 CV exigen circuito para disfrutarse: en calle van sobrados.",
       "Postura radical: solo para pilotos comprometidos.",
-      "20.490 € sigue siendo mucho dinero.",
+      "20.999 € sigue siendo mucho dinero.",
       "El pasajero es testimonial.",
       "Consumo y mantenimiento de superbike.",
       "Sin pantalla TFT con conectividad moderna.",
@@ -3297,7 +3223,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "V-Strom 1050DE",
     version: "2026",
     categoria: "Trail",
-    precioDesde: 19254,
+    precioDesde: 17529, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 78.7,
     potenciaCv: 107,
     autonomiaKm: null,
@@ -3310,7 +3236,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V-twin de 1.037 cc con 107 CV: suave, lleno y con carácter.",
       "Versión DE con rueda de 21 pulgadas y suspensiones KYB de largo recorrido.",
@@ -3321,7 +3247,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     ],
     contras: [
       "252 kg en orden de marcha: en campo hay que saber llevarla.",
-      "El precio de la Hamamatsu Edition (19.254 €) se acerca a las europeas.",
+      "17.529 € de tarifa oficial: se acerca a las europeas.",
       "Asiento a 880 mm: alta para pilotos bajos.",
       "El parabrisas genera turbulencias según la talla.",
       "Consumo de 5,2 l/100 km: no es la más frugal.",

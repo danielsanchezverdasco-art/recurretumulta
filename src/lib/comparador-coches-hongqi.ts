@@ -13,8 +13,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-eh7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-eh7-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -55,7 +55,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-eh7-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -71,24 +71,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi EH7 eléctrico, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-eh7-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi EH7, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-eh7-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi EH7, salpicadero con gran pantalla central",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -194,8 +179,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -236,7 +221,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-tiangong-05-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -252,24 +237,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi Tiangong 05 eléctrico en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi Tiangong 05, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi Tiangong 05, salpicadero digital",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -277,8 +247,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -319,7 +289,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-tiangong-06-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -335,24 +305,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi Tiangong 06 eléctrico en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi Tiangong 06, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi Tiangong 06, salpicadero y volante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -463,8 +418,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hs5-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hs5-2023-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -505,7 +460,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hs5-2023-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -521,24 +476,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HS5 en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs5-2023-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HS5, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs5-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HS5, salpicadero y volante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -546,8 +486,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -588,7 +528,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "autonomiaKm"],
-    imagen: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hs6-phev-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -604,24 +544,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HS6 PHEV en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HS6 PHEV, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HS6 PHEV, triple pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -629,8 +554,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -671,7 +596,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["potenciaCv"],
-    imagen: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hs7-phev-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -687,24 +612,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HS7 PHEV en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HS7 PHEV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HS7 PHEV, 6 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -712,8 +622,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hs7-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hs7-2023-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -754,7 +664,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "etiquetaDgt"],
-    imagen: "/media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hs7-2023-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -770,24 +680,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HS7 en carretera de montaña al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs7-2023-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HS7, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hs7-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HS7, doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -795,8 +690,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-h5-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-h5-2023-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -837,7 +732,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-h5-2023-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -853,24 +748,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi H5 en carretera al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h5-2023-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi H5, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h5-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi H5, pantalla de 12,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -878,8 +758,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -920,7 +800,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "etiquetaDgt"],
-    imagen: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-h5-hev-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -936,24 +816,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi H5 HEV híbrido en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi H5 HEV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi H5 HEV",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -961,8 +826,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-h6-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-h6-2023-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1003,7 +868,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-h6-2023-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1019,24 +884,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi H6 liftback en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h6-2023-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi H6, vista lateral con techo coupé",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h6-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi H6 con fibra de carbono",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1044,8 +894,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1086,7 +936,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "autonomiaKm", "bateriaKwh"],
-    imagen: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-h7-phev-2026-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1102,24 +952,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi H7 PHEV en carretera al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi H7 PHEV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi H7 PHEV",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1169,22 +1004,12 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "bateriaKwh", "pesoKg"],
-    imagen: "/media/hongqi-g919-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-g919-4x4-electrico-831-cv",
     opiniones: [],
     galeria: [
-      {
-        src: "/media/hongqi-g919-hero.webp",
-        alt: "Hongqi G919 en dunas del desierto al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-g919-detalle.webp",
-        alt: "Frontal del Hongqi G919 con gran parrilla cromada",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
     ],
   },
   {
@@ -1192,8 +1017,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-h9-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-h9-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1234,7 +1059,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precio"],
-    imagen: "/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-h9-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1250,24 +1075,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi H9 en carretera al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h9-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi H9, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-h9-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de lujo del Hongqi H9",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1275,8 +1085,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1317,7 +1127,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomiaKm", "consumo"],
-    imagen: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-e-qm5-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1333,24 +1143,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi E-QM5 eléctrico en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi E-QM5, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi E-QM5",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1358,8 +1153,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1400,7 +1195,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precio", "potenciaCv"],
-    imagen: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hq9-phev-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1416,24 +1211,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HQ9 PHEV monovolumen en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HQ9 PHEV, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HQ9 PHEV, 7 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1441,8 +1221,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-hq9-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-hq9-2023-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1483,7 +1263,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precio", "etiquetaDgt"],
-    imagen: "/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-hq9-2023-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1499,24 +1279,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HQ9 monovolumen en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hq9-2023-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi HQ9, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-hq9-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HQ9, 7 plazas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1524,8 +1289,8 @@ export const COCHES_HONGQI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/hongqi-guoya-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hongqi-guoya-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hongqi",
@@ -1566,7 +1331,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precio", "potenciaCv"],
-    imagen: "/media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     analisisSlug: "hongqi-guoya-2024-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
@@ -1582,24 +1347,9 @@ export const COCHES_HONGQI: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi Guoya berlina de lujo en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-guoya-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hongqi Guoya, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hongqi-guoya-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de lujo del Hongqi Guoya",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
 ];

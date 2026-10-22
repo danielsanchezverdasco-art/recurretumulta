@@ -32,6 +32,10 @@
     // 13/10/2026: imagen de /media/ rota -> miniatura -card -> imagen completa -> imagen OG.
     // Nunca se oculta (decisión de Daniel).
     window.addEventListener("error", function (e) {
+      // v4.5.3: durante el prerender NO degradar las imágenes: si un fichero
+      // falta en el entorno de captura, el HTML estático debe conservar el
+      // src correcto (el fichero puede existir en el dist final).
+      if (window.__PRERENDER__) return;
       var t = e.target;
       if (!t || t.tagName !== "IMG") return;
       var s = t.getAttribute("src") || "";

@@ -171,7 +171,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Suzuki", categoria: "coches", anios: 10, km: 150000, nota: "5 años/100.000 km de base + hasta 10 años/150.000 km con mantenimientos en red oficial", fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Tank", categoria: "coches", anios: 7, km: 150000, nota: null, fuente: "https://www.hibridosyelectricos.com/coches/hasta-7-anos-garantia-servicio-postventa-calidad-gwm-llega-espana-con-deberes-hechos-antes-entregar-primer-coche_88393_102.html" },
   { marca: "Tesla", categoria: "coches", anios: 4, km: 80000, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
-  { marca: "Toyota", categoria: "coches", anios: 15, km: 250000, nota: "Toyota Relax: 3 años/100.000 km de base + hasta 15 años/250.000 km con mantenimientos en red oficial", fuente: "https://prensa.toyota.es/ahora-15-anos-de-cobertura-con-toyota-relax/" },
+  { marca: "Toyota", categoria: "coches", anios: 15, km: 250000, nota: "Garantía de fábrica de 3 años/100.000 km; Toyota Relax la renueva cada año con el mantenimiento en la red oficial, hasta 15 años/250.000 km", fuente: "https://prensa.toyota.es/ahora-15-anos-de-cobertura-con-toyota-relax/" },
   { marca: "Volkswagen", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Volvo", categoria: "coches", anios: 3, km: null, nota: null, fuente: "https://sportsweek.org/es/auto-racing/news/407330139/" },
   { marca: "Voyah", categoria: "coches", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
@@ -296,7 +296,7 @@ export const GARANTIAS_MARCAS: GarantiaMarca[] = [
   { marca: "Vent", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Wottan", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
   { marca: "Zeeho", categoria: "motos", anios: null, km: null, nota: "sin datos oficiales", fuente: null },
-  { marca: "Zontes", categoria: "motos", anios: 5, km: null, nota: "5 años de garantía oficial (3 años en algunos modelos, según la red oficial Zontes España)", fuente: "https://zontescentromadrid.es/motos/zontes/703r" },
+  { marca: "Zontes", categoria: "motos", anios: 3, km: null, nota: "Garantía oficial en España; la gama 703 llega a 5 años según la red oficial Zontes España", fuente: "https://motosportangel.com/zontes/ (concesionario oficial Zontes: 3 o 5 años según modelo)" },
 ];
 
 export function garantiaDeMarca(marca: string, categoria: GarantiaMarca["categoria"]): GarantiaMarca | undefined {

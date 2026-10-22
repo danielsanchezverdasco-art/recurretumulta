@@ -52,7 +52,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     largoMm: 4355,
     anchoMm: 1825,
     altoMm: 1580,
-    pesoKg: null,
+    pesoKg: 1773,
     consumo: 14.7,
     consumoUnidad: "kWh/100 km",
     plazas: 5,
@@ -1152,7 +1152,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
-    modelo: "i20",
+    modelo: "i20 1.0 T-GDI",
     tipo: "Híbrido ligero",
     categoria: "Urbano",
     precioDesde: 25970,
@@ -1391,7 +1391,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "t0D5elWO_j8",
     videoCanal: null,
     marca: "Hyundai",
@@ -1458,12 +1458,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Ioniq 5 Light",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1474,7 +1469,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "Hyundai (dosier técnico oficial Ioniq 6 2025)",
     fuenteUrl: "https://www.hyundai.news/es/modelos/eco/ioniq-6/press-kit/ioniq-6-dosier-2025.html",
     imagenOficial: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "ZxTbA3H-3wI",
     videoCanal: null,
     marca: "Hyundai",
@@ -1547,12 +1542,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Ioniq 6 (facelift 2025)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1561,7 +1551,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-inster-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-inster-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "IAC-oUMnZ74",
     videoCanal: null,
     marca: "Hyundai",
@@ -1628,12 +1618,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-inster-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Inster Klass",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1642,7 +1627,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "o4nIillOQEE",
     videoCanal: null,
     marca: "Hyundai",
@@ -1709,12 +1694,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Santa Fe Maxx HEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1725,7 +1705,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "hibridosyelectricos.com (Kona HEV 2026)",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/hyundai-kona-hev-precio-medidas-motor-interior-maletero_86070_102.html",
     imagenOficial: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "C38q-nD5YRc",
     videoCanal: null,
     marca: "Hyundai",
@@ -1809,12 +1789,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Kona HEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1823,7 +1798,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-QC0xK3nmq0",
     videoCanal: null,
     marca: "Hyundai",
@@ -1890,12 +1865,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Bayon 1.0 TGDi 48V",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1904,7 +1874,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
@@ -1971,12 +1941,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai i30 1.5 TGDi 48V",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1987,7 +1952,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "buscapruebas.motordeventas.es (ficha técnica Staria 2.2 CRDi 177 CV)",
     fuenteUrl: "https://buscapruebas.motordeventas.es/busca_pruebas_AA/admin768/pdf/651-fac156b2fa4c6c7b622f8c88c2cda504e543a8ab.pdf",
     imagenOficial: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
@@ -2060,12 +2025,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Staria 2.2 CRDi",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -2076,14 +2036,14 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "auto-data.net (Tucson IV facelift 2024 1.6 T-GDI 150 CV)",
     fuenteUrl: "https://www.auto-data.net/es/hyundai-tucson-iv-facelift-2024-1.6-t-gdi-150hp-55803",
     imagenOficial: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "EbQduwxhnTU",
     videoCanal: null,
     marca: "Hyundai",
     modelo: "Tucson 1.6 TGDi 150 MHEV",
     tipo: "Híbrido ligero (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35195, // hyundai.es oficial: TUCSON FL 1.6T 150CV KLASS PVP 35.195 €,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 620,
@@ -2149,12 +2109,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Tucson 1.6 TGDi 150 MHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
 ];

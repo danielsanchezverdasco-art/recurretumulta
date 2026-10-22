@@ -27,7 +27,7 @@ export const COCHES_SMART: CocheComparador[] = [
     imagenInteriorOficial: "/media/smart-2-2026-precio-autonomia-paris-interior-oficial.webp",
     videoId: null,
     videoCanal: null,
-    marca: "smart",
+    marca: "Smart",
     modelo: "#2",
     tipo: "Eléctrico",
     categoria: "Urbano",
@@ -93,10 +93,10 @@ export const COCHES_SMART: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/smart-3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/smart-3-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "ckVx0oR_Vs8",
     videoCanal: "ElectroExamen",
-    marca: "smart",
+    marca: "Smart",
     modelo: "#3",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -155,7 +155,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-3-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #3 con pantalla central flotante",
         "ancho": 1200,
         "alto": 800
@@ -174,10 +174,10 @@ export const COCHES_SMART: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/smart-3-brabus-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/smart-3-brabus-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "smart",
+    marca: "Smart",
     modelo: "#3 Brabus",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -236,7 +236,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-3-brabus-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del smart #3 Brabus con detalles en rojo",
         "ancho": 1200,
         "alto": 800
@@ -294,7 +294,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-pure-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pure-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-pure-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -317,7 +317,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-pure-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Pure con tapicería de tela y pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -375,7 +375,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -398,7 +398,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-pure-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Pure+ con pantalla central de 12,8 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -417,7 +417,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#1 Pro",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": null, // Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado
     "potenciaCv": 272,
     "autonomiaKm": 310,
     "maleteroL": 288,
@@ -456,7 +456,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-pro-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pro-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -479,7 +479,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Pro con techo panorámico Halo",
         "ancho": 1200,
         "alto": 800
@@ -498,7 +498,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#1 Pro+",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": 43400, // media.smart.com oficial 09/2023: smart #1 Pro+ desde 43.400 € en España
     "potenciaCv": 272,
     "autonomiaKm": 420,
     "maleteroL": 288,
@@ -537,7 +537,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "OF7vPd_vQ6w",
     "videoCanal": "Motorelegance",
     "opiniones": [],
@@ -560,7 +560,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Pro+ con pantalla de 12,8 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -618,7 +618,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-premium-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-premium-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "OF7vPd_vQ6w",
     "videoCanal": "Motorelegance",
     "opiniones": [],
@@ -641,7 +641,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior premium del smart #1 Premium con pantalla de 12,8 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -701,7 +701,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-pulse-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-pulse-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -724,7 +724,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Pulse con detalles deportivos",
         "ancho": 1200,
         "alto": 800
@@ -782,7 +782,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-1-brabus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-1-brabus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-1-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -805,7 +805,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-1-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #1 Brabus con costuras en rojo",
         "ancho": 1200,
         "alto": 800
@@ -824,7 +824,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#3 Pro",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": 36600, // media.smart.com oficial: #3 Pro desde 36.600 € sin MOVES
     "potenciaCv": 272,
     "autonomiaKm": 325,
     "maleteroL": 370,
@@ -863,7 +863,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-3-pro-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-3-pro-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-3-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "ckVx0oR_Vs8",
     "videoCanal": "ElectroExamen",
     "opiniones": [],
@@ -886,7 +886,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-3-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #3 Pro con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -905,7 +905,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#3 Pro+",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": null,
+    "precioDesde": null, // Tarifa oficial solo en el configurador de smart España (es.smart.com); sin precio público de esta versión como texto indexado
     "potenciaCv": 272,
     "autonomiaKm": 435,
     "maleteroL": 370,
@@ -944,7 +944,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "ckVx0oR_Vs8",
     "videoCanal": "ElectroExamen",
     "opiniones": [],
@@ -967,7 +967,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-3-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #3 Pro+ con acabados premium",
         "ancho": 1200,
         "alto": 800
@@ -1028,7 +1028,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-5-pro-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-pro-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1051,7 +1051,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-pro-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #5 Pro con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -1111,7 +1111,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "Lrlr3Fx3Crk",
     "videoCanal": "PureGrip",
     "opiniones": [],
@@ -1134,7 +1134,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-pro-plus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #5 Pro+ con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -1194,7 +1194,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-5-premium-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-premium-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1217,7 +1217,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-premium-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior lounge del smart #5 Premium con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -1279,7 +1279,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-5-pulse-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-pulse-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1302,7 +1302,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-pulse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #5 Pulse con detalles deportivos",
         "ancho": 1200,
         "alto": 800
@@ -1364,7 +1364,7 @@ export const COCHES_SMART: CocheComparador[] = [
     ],
     "imagen": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "4tPvOgv5uyc",
     "videoCanal": null,
     "opiniones": [],
@@ -1387,7 +1387,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-summit-edition-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #5 Summit Edition",
         "ancho": 1200,
         "alto": 800
@@ -1406,7 +1406,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "modelo": "#5 Brabus",
     "tipo": "Eléctrico",
     "categoria": "SUV",
-    "precioDesde": 63660,
+    "precioDesde": 63850, // tarifa oficial España (verificado 20/10/2026)
     "potenciaCv": 646,
     "autonomiaKm": 540,
     "maleteroL": 630,
@@ -1429,7 +1429,6 @@ export const COCHES_SMART: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": 0,
     "aprox": [
-      "precioDesde",
       "autonomiaKm",
       "cargaRapidaKw"
     ],
@@ -1445,11 +1444,11 @@ export const COCHES_SMART: CocheComparador[] = [
       "Consumo real muy alto si se usa la potencia",
       "Batería NMC: mejor no cargarla al 100 % a diario",
       "4,71 m y más de 2,2 t estimadas: física implacable",
-      "Precio aproximado, pendiente de tarifa oficial"
+      "Precio de tarifa oficial en España (63.850 €): territorio premium para un smart"
     ],
     "imagen": "/media/smart-5-brabus-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/smart-5-brabus-2025-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/smart-5-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
@@ -1472,7 +1471,7 @@ export const COCHES_SMART: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/smart-5-brabus-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del smart #5 Brabus con detalles en rojo",
         "ancho": 1200,
         "alto": 800

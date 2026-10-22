@@ -515,7 +515,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "xpeng-p7-plus-long-range-2026-precio-ficha-tecnica",
-    marca: "Xpeng",
+    marca: "XPeng",
     modelo: "P7+ Long Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -687,7 +687,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     modelo: "X 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37137,
+    precioDesde: 36185, // Promo oficial Zeekr España al contado (21/10/2026); financiando 31.910 € con Open Bank + anticipo Plan Auto+ de 3.375 €; hasta 31/12/2026,
     potenciaCv: 272,
     autonomiaKm: 330,
     maleteroL: 362,
@@ -712,7 +712,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     aprox: [],
     pros: [
       "5 estrellas Euro NCAP: el eléctrico más seguro de 2024",
-      "Desde 37.137 € en España",
+      "Desde 37.990 € de tarifa en España (31.910 € financiando con la campaña oficial hasta el 31/12/2026)",
       "Versión Privilege con 428 CV y tracción total",
       "Interior cuidado con sonido Yamaha",
       "Compacto de 4,43 m, ideal para ciudad",
@@ -724,9 +724,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Plazas traseras justas para altos",
       "Marca joven en España",
     ],
-    imagen: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "zeekr-x-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -745,24 +745,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Zeekr Europa para eléctricos",
     },
     galeria: [
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Zeekr X cobre, SUV compacto eléctrico",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Zeekr X, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr X",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -808,9 +793,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "2.150 kg de peso",
       "Red Zeekr en construcción",
     ],
-    imagen: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "zeekr-007-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -829,29 +814,14 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Zeekr Europa para eléctricos",
     },
     galeria: [
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Zeekr 007 azul, berlina eléctrica",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Zeekr 007, vista frontal",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 007",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
     id: "nio-ec6-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC6 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -935,7 +905,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "nio-el8-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL8 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -1060,9 +1030,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Maletero sin dato oficial",
       "Denza acaba de llegar a España",
     ],
-    imagen: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-n7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n7-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1081,24 +1051,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Denza/BYD para eléctricos",
     },
     galeria: [
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N7 plateado, SUV coupé eléctrico",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N7, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N7",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1146,7 +1101,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     ],
     imagen: "/media/lynk-co-01-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lynk-co-01-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-01-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "lynk-co-01-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1178,12 +1133,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      {
-        src: "/media/lynk-co-01-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Lynk & Co 01",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
   },
   {
@@ -1414,7 +1364,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     ],
     imagen: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "lynk-co-08-emp-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1446,12 +1396,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      {
-        src: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Lynk & Co 08",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
   },
   {
@@ -1751,9 +1696,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Sin prueba EuroNCAP",
       "Denza acaba de llegar a España",
     ],
-    imagen: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-d9-dm-i-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1773,24 +1718,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza D9 azul, monovolumen híbrido enchufable",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza D9, vista frontal",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza D9",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1836,9 +1766,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Denza acaba de llegar a España",
       "Consumo real elevado sin carga",
     ],
-    imagen: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9-dm-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1858,24 +1788,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9, berlina híbrida enchufable",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {

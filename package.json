@@ -7,7 +7,7 @@
     "dev": "vite",
     "preview": "vite preview",
     "validar:geo": "node scripts/geo/validar.mjs /tmp/fichas-problematicas-geo.csv",
-    "build": "node scripts/copy-media.mjs && node scripts/gen-fichas-redirigidas.mjs && node scripts/gen-blog-lite.mjs && python3 scripts/gen-cards.py && node scripts/gen-data-loaders.mjs && node scripts/gen-ficha-extra.mjs && node scripts/gen-fechas-eeat.mjs && node scripts/historial-precios/gen.mjs && node scripts/audiencia/gen.mjs && tsc -b && vite build",
+    "build": "node scripts/copy-radares.mjs && node scripts/copy-media.mjs && node scripts/gen-fichas-redirigidas.mjs && node scripts/gen-blog-lite.mjs && python3 scripts/gen-cards.py && node scripts/gen-data-loaders.mjs && node scripts/gen-ficha-extra.mjs && node scripts/gen-fechas-eeat.mjs && node scripts/historial-precios/gen.mjs && node scripts/audiencia/gen.mjs && tsc -b && vite build && node scripts/gen-radares-html.mjs",
     "test": "vitest run",
     "lint": "eslint . --max-warnings=0",
     "prettier-fix": "prettier --write .",

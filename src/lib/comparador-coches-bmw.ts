@@ -95,7 +95,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -178,12 +178,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 2 Gran Coupé, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -289,7 +284,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -356,12 +351,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 3 330e con menú híbrido",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -548,7 +538,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -615,12 +605,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 5 530e con autonomía eléctrica",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -710,7 +695,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -793,12 +778,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW iX1 xDrive30, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -807,7 +787,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -874,12 +854,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW iX2 xDrive30, asientos deportivos",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -1422,7 +1397,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -1505,12 +1480,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW X3 20 xDrive, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -1780,7 +1750,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "uOslscXvod0",
     videoCanal: "Centímetros Cúbicos",
     marca: "BMW",
@@ -1848,7 +1818,7 @@ export const COCHES_BMW: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del BMW M5 Berlina con pantalla curva",
         "ancho": 1200,
         "alto": 800

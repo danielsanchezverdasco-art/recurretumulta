@@ -2602,7 +2602,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     imagenInteriorOficial: "/media/smart-fortwo-eq-2025-3.webp",
     videoId: null,
     videoCanal: null,
-    marca: "smart",
+    marca: "Smart",
     modelo: "fortwo EQ",
     tipo: "Eléctrico",
     categoria: "Urbano",

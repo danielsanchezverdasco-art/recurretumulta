@@ -34,8 +34,10 @@ import {
   SeccionMaextro,
   TablaSpecsAnimada,
 } from "./compartidos.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 
-const fmtEur = (v: number) => v.toLocaleString("es-ES") + " €";
+// 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+const fmtEur = (v: number) => fmtMiles(v) + " €";
 
 export function FichaMaextro({ data }: { data: MaextroFichaData }) {
   const d = data;

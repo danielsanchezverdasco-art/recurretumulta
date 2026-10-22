@@ -16,7 +16,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-db12-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-db12-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -97,7 +97,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-db12-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Aston Martin DB12, cuero marrón acolchado",
         "ancho": 1920,
         "alto": 1280
@@ -110,7 +110,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-db12-volante-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-db12-volante-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -178,7 +178,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-db12-volante-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior descapotable del Aston Martin DB12 Volante",
         "ancho": 1920,
         "alto": 1280
@@ -191,7 +191,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-vantage-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-vantage-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -259,7 +259,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-vantage-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Aston Martin Vantage, asientos deportivos",
         "ancho": 1920,
         "alto": 1280
@@ -272,7 +272,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-vantage-s-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-vantage-s-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -340,7 +340,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-vantage-s-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Vantage S con detalles en carbono",
         "ancho": 1920,
         "alto": 1280
@@ -353,7 +353,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-vantage-s-roadster-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-vantage-s-roadster-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -421,7 +421,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-vantage-s-roadster-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Habitáculo del Vantage S Roadster",
         "ancho": 1920,
         "alto": 1280
@@ -434,7 +434,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-dbx-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-dbx-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -502,7 +502,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-dbx-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de cinco plazas del Aston Martin DBX",
         "ancho": 1920,
         "alto": 1280
@@ -515,7 +515,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-dbx707-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-dbx707-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -583,7 +583,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-dbx707-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del DBX707",
         "ancho": 1920,
         "alto": 1280
@@ -677,14 +677,14 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
     modelo: "DBX GT",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: el DBX GT (727 CV) se presentó el 1 de octubre de 2026 con entregas previstas para el Q4 2026 y Aston Martin no ha anunciado precio en s.
     potenciaCv: 727,
     autonomiaKm: null,
     maleteroL: null,
@@ -745,7 +745,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-dbx-gt-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de lujo del DBX GT, cuero marfil",
         "ancho": 1920,
         "alto": 1280
@@ -839,7 +839,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -907,7 +907,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Habitáculo descapotable del Vanquish Volante",
         "ancho": 1920,
         "alto": 1280
@@ -920,7 +920,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-valhalla-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-valhalla-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -988,7 +988,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-valhalla-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Habitáculo de competición del Valhalla",
         "ancho": 1920,
         "alto": 1280
@@ -1001,14 +1001,14 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-valiant-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-valiant-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
     modelo: "Valiant",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Precio NO publicado oficialmente: edición especial de Q by Aston Martin, 38 unidades todas asignadas; la nota oficial de lanzamiento de Aston Martin (.
     potenciaCv: 745,
     autonomiaKm: null,
     maleteroL: null,
@@ -1069,7 +1069,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/aston-martin-valiant-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de competición del Valiant con cambio manual",
         "ancho": 1920,
         "alto": 1280
@@ -1082,7 +1082,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-valkyrie-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-valkyrie-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -1150,7 +1150,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/aston-martin-valkyrie-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina del Valkyrie con asientos fijos y pedales ajustables",
         "ancho": 1200,
         "alto": 800
@@ -1163,7 +1163,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -1231,7 +1231,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/aston-martin-valkyrie-spider-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina abierta del Valkyrie Spider",
         "ancho": 1200,
         "alto": 800
@@ -1406,7 +1406,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -1474,7 +1474,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/aston-martin-db12-goldfinger-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Goldfinger Edition con detalles dorados",
         "ancho": 1200,
         "alto": 800
@@ -1487,7 +1487,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Aston Martin",
@@ -1555,7 +1555,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/aston-martin-vantage-roadster-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Vantage Roadster",
         "ancho": 1200,
         "alto": 800

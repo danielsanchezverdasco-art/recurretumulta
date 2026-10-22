@@ -21,7 +21,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     modelo: "T 68",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // precio en España no verificado; no inventar
+    precioDesde: 69499, // PVP recomendado en Alemania del T 68 Adventure, web oficial Sunlight (oct. 2026); la marca no publica PVP específico para España
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -53,7 +53,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["etiquetaDgt"],
+    aprox: ["precioDesde", "etiquetaDgt"],
     pros: [
       "Distribución de camas gemelas sobre un garaje pasante altísimo: el dormitorio trasero más práctico del segmento",
       "Versión Adventure Edition con estética negra y llantas de aleación: la perfilada con más carácter joven",
@@ -125,7 +125,7 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
     },
     euroncap: null,
     notas:
-      "Plazas para dormir: 5 oficiales («Schlafplätze 2 + 3» en sunlight.de). La marca no publica la carga útil del T 68: ese campo va en null. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+      "Plazas para dormir: 5 oficiales («Schlafplätze 2 + 3» en sunlight.de). La marca no publica la carga útil del T 68: ese campo va en null. Precio orientativo: 69.499 € es el PVP recomendado en Alemania del T 68 Adventure publicado en la web oficial de Sunlight (octubre de 2026); la marca no publica un PVP específico para España de este modelo, así que la cifra va marcada como aproximada. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
     fuenteNombre: "Sunlight (web oficial)",
     fuenteUrl:
       "https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adventure/",

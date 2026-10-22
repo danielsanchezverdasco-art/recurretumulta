@@ -18,8 +18,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6SxnWaq7v7Q",
     videoCanal: "MOTORK",
     marca: "Mitsubishi",
@@ -60,7 +60,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 19,
     aprox: [],
-    imagen: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 5.0,
@@ -75,19 +75,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Outlander PHEV 2025, tres cuartos delantero en carretera de montaña",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Outlander PHEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Outlander PHEV 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -102,8 +102,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "slnD2q9u2zc",
     videoCanal: "Prueba Tu Coche",
     marca: "Mitsubishi",
@@ -144,7 +144,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["ceroCien", "bateriaKwh"],
-    imagen: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.1,
@@ -159,19 +159,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Grandis 2025 híbrido, tres cuartos delantero en carretera de costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Grandis 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Grandis 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -186,8 +186,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "Rf5zU_0qgeo",
     videoCanal: "SoyMotor.com",
     marca: "Mitsubishi",
@@ -228,7 +228,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.0,
@@ -243,19 +243,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Eclipse Cross eléctrico 2025, tres cuartos delantero en ciudad al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Eclipse Cross eléctrico 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Eclipse Cross eléctrico 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -270,8 +270,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "Bjs6Y4gmDfI",
     videoCanal: "Prueba Tu Coche",
     marca: "Mitsubishi",
@@ -312,7 +312,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.3,
@@ -327,19 +327,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi ASX 130T MHEV 2025, tres cuartos delantero en calle de pueblo español",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi ASX 130T MHEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -354,8 +354,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "17QsS_xMIAA",
     videoCanal: "Periodismo del Motor",
     marca: "Mitsubishi",
@@ -396,7 +396,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 96,
     aprox: ["pesoKg"],
-    imagen: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 6.7,
@@ -411,19 +411,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Colt 160 HEV 2025, tres cuartos delantero en plaza de casco antiguo europeo",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Colt 160 HEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Colt 2025 con pantalla táctil de 9,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -439,7 +439,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -507,7 +507,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Grandis 130T con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -521,7 +521,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -589,7 +589,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Colt 100T con pantalla de 9,3 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -693,7 +693,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -761,7 +761,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 100T con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -865,7 +865,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -933,7 +933,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 130T 7DCT con cuero negro y costuras naranjas",
         "ancho": 1200,
         "alto": 800
@@ -947,7 +947,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -1015,7 +1015,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Eclipse Cross EV LFP con pantalla flotante",
         "ancho": 1200,
         "alto": 800

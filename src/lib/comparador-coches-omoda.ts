@@ -12,7 +12,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Omoda",
@@ -80,7 +80,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 5 gasolina con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -93,7 +93,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "bTeIYf2XR8c",
     videoCanal: "SoyMotor",
     marca: "Omoda",
@@ -161,7 +161,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 5 SHS-H con pantallas y flujo de energía híbrida",
         "ancho": 1920,
         "alto": 1280
@@ -174,7 +174,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-7-shs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-7-shs-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "mNHJwG2bNC4",
     videoCanal: "SoyMotor",
     marca: "Omoda",
@@ -242,7 +242,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-7-shs-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 7 SHS con pantalla deslizante de 15,6 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -356,14 +356,14 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-s5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-s5-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Omoda",
     modelo: "S5",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Omoda España no comercializa el S5 (gama ES: 5, 7 y 9); sin tarifa oficial ES
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 570,
@@ -422,7 +422,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/omoda-s5-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda S5 con pantalla central",
         "ancho": 1200,
         "alto": 800

@@ -51,9 +51,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Red de servicio inexistente fuera de China",
       "La versión de acceso (241 CV, 70 kWh) baja a 600 km de autonomía",
     ],
-    imagen: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     analisisSlug: "hyptec-gt-2024-precio-ficha-tecnica",
@@ -71,24 +71,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec GT, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec GT, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec GT, salpicadero con pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -134,9 +119,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Diseño que recuerda demasiado a un famoso SUV estadounidense",
       "Sin red de servicio en España",
     ],
-    imagen: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "TyrY3p4PB9c",
     videoCanal: null,
     analisisSlug: "hyptec-ht-2025-precio-ficha-tecnica",
@@ -154,24 +139,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec HT, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec HT, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec HT, salpicadero minimalista con pantallas duales",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -219,7 +189,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     ],
     imagen: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "s_6KWZ0nc6M",
     videoCanal: null,
     analisisSlug: "hyptec-hl-erev-2025-precio-ficha-tecnica",
@@ -249,12 +219,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec HL, asientos traseros de gravedad cero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -300,9 +265,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Sin red de servicio ni venta oficial en Europa",
       "El maletero es inexistente: puro capricho",
     ],
-    imagen: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "ohWiNCkCaFM",
     videoCanal: "Drive Me Crazy",
     analisisSlug: "hyptec-ssr-2024-precio-ficha-tecnica",
@@ -320,24 +285,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec SSR, tres cuartos delantero en circuito al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec SSR, vista lateral con puertas de mariposa abiertas",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec SSR, cockpit biplaza con pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -383,9 +333,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "La autonomía WLTP europea no está publicada",
       "Marca casi desconocida fuera de China",
     ],
-    imagen: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "ILSXty8ZVVo",
     videoCanal: "China Auto Show",
     analisisSlug: "hyptec-s600-2026-precio-ficha-tecnica",
@@ -403,24 +353,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec S600, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec S600, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec S600, pantalla de 17,3 pulgadas y consola flotante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -466,9 +401,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "La autonomía WLTP europea no está publicada",
       "Marca casi desconocida fuera de China",
     ],
-    imagen: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "KnjRha5PfKc",
     videoCanal: "CarsBlink",
     analisisSlug: "hyptec-a800-2026-precio-ficha-tecnica",
@@ -486,24 +421,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec A800, tres cuartos delantero en carretera costera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec A800, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec A800, pantalla de 15,6 pulgadas con HarmonySpace 5",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
 ];

@@ -95,7 +95,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c3-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "WPw_42sSssI",
     videoCanal: "Periodismo del Motor",
     marca: "Citroën",
@@ -170,7 +170,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-c3-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C3",
         "ancho": 1920,
         "alto": 1280
@@ -183,7 +183,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "qVZrYgNsgGY",
     videoCanal: "HolyCars TV",
     marca: "Citroën",
@@ -251,7 +251,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C3 Aircross con 7 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -264,7 +264,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "rMGDtIMyNX4",
     videoCanal: "Auto al Día",
     marca: "Citroën",
@@ -332,7 +332,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C4 Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -345,7 +345,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "H83RHzMGF-k",
     videoCanal: "Mecánica Deportiva",
     marca: "Citroën",
@@ -413,7 +413,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C4 X Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -507,7 +507,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -575,7 +575,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C4 X",
         "ancho": 1920,
         "alto": 1280
@@ -588,7 +588,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -656,7 +656,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del nuevo Citroën C5 Aircross",
         "ancho": 1920,
         "alto": 1280
@@ -669,7 +669,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -737,7 +737,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross Plug-in Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -750,7 +750,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -818,7 +818,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 X Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -993,7 +993,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1061,7 +1061,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-Berlingo",
         "ancho": 1920,
         "alto": 1280
@@ -1074,7 +1074,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1142,7 +1142,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-SpaceTourer con 8 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -1344,7 +1344,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1412,7 +1412,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross con asientos confort",
         "ancho": 1200,
         "alto": 800
@@ -1425,7 +1425,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1493,7 +1493,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C5 Aircross",
         "ancho": 1200,
         "alto": 800
@@ -1506,7 +1506,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1574,7 +1574,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross PHEV",
         "ancho": 1200,
         "alto": 800
@@ -1587,7 +1587,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1655,7 +1655,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 X con asientos confort",
         "ancho": 1200,
         "alto": 800
@@ -1668,7 +1668,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1736,7 +1736,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de cabina del Citroën ë-Jumpy",
         "ancho": 1200,
         "alto": 800
@@ -1749,7 +1749,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-jumper-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-jumper-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1817,7 +1817,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-jumper-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Zona de carga del Citroën ë-Jumper",
         "ancho": 1200,
         "alto": 800
@@ -1830,7 +1830,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1898,7 +1898,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C3 Aircross",
         "ancho": 1200,
         "alto": 800

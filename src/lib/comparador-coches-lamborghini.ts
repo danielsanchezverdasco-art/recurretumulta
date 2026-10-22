@@ -19,7 +19,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "02D-T4W-4eU",
     videoCanal: "carwow América Latina",
     marca: "Lamborghini",
@@ -94,7 +94,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Revuelto",
         "ancho": 1920,
         "alto": 1280
@@ -107,7 +107,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "LKWQ5fDj8JE",
     videoCanal: "Lamborghini",
     marca: "Lamborghini",
@@ -182,7 +182,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-temerario-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Temerario",
         "ancho": 1920,
         "alto": 1280
@@ -195,7 +195,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "e0xZOCQrXVs",
     videoCanal: "Eddy Warman",
     marca: "Lamborghini",
@@ -270,7 +270,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus SE",
         "ancho": 1920,
         "alto": 1280
@@ -283,7 +283,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "4mCoc38jito",
     videoCanal: "autonocion.com",
     marca: "Lamborghini",
@@ -358,7 +358,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus Performante",
         "ancho": 1920,
         "alto": 1280
@@ -371,7 +371,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -439,7 +439,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus S",
         "ancho": 1920,
         "alto": 1280
@@ -452,7 +452,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "3IQVI0qRzbA",
     videoCanal: "Robb Report en Español",
     marca: "Lamborghini",
@@ -527,7 +527,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán Tecnica",
         "ancho": 1920,
         "alto": 1280
@@ -540,7 +540,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Q9T5Y6uHRh4",
     videoCanal: "coches.net",
     marca: "Lamborghini",
@@ -615,7 +615,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de competición del Lamborghini Huracán STO",
         "ancho": 1920,
         "alto": 1280
@@ -628,7 +628,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "n-ZqCRA7Gz0",
     videoCanal: "revistacar.es",
     marca: "Lamborghini",
@@ -703,7 +703,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán EVO Spyder",
         "ancho": 1920,
         "alto": 1280
@@ -716,7 +716,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -784,7 +784,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán EVO",
         "ancho": 1200,
         "alto": 800
@@ -959,14 +959,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Urus SE Performante",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la página oficial de Lamborghini del Urus SE Performante no publica precio (marca bajo pedido/configuración); los precios de preowned.la.
     potenciaCv: 812,
     autonomiaKm: 60,
     maleteroL: null,
@@ -1027,7 +1027,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus SE Performante",
         "ancho": 1200,
         "alto": 800
@@ -1040,14 +1040,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Huracán STJ",
     tipo: "Gasolina",
     categoria: "Superdeportivo",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Precio NO publicado oficialmente: serie limitada de 10 unidades; la nota oficial de Lamborghini (abril 2024) no reveló el precio y la marca lo confirm.
     potenciaCv: 640,
     autonomiaKm: null,
     maleteroL: null,
@@ -1108,7 +1108,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán STJ",
         "ancho": 1200,
         "alto": 800
@@ -1202,7 +1202,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -1270,7 +1270,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Countach LPI 800-4",
         "ancho": 1200,
         "alto": 800
@@ -1364,14 +1364,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Fenomeno Roadster",
     tipo: "Híbrido enchufable",
     categoria: "Descapotable",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: serie limitada 'few-off' de 15 unidades, agotada.
     potenciaCv: 1080,
     autonomiaKm: null,
     maleteroL: null,
@@ -1432,7 +1432,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Fenomeno Roadster",
         "ancho": 1200,
         "alto": 800

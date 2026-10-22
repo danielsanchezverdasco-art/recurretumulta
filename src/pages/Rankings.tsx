@@ -3,6 +3,7 @@
 // de un modelo (o al añadirse uno nuevo), el ranking cambia solo.
 
 import { useMemo } from "react";
+import { fmtMiles } from "@/lib/formato.ts";
 import { Link, useParams } from "react-router-dom";
 import { ArrowLeftRight, Trophy } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
@@ -17,7 +18,8 @@ import {
 const DOMAIN = "https://recurretumulta.online";
 
 const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtAutonomia = (v: number | null) =>
   v == null ? "—" : v.toLocaleString("es-ES") + " km";
 const fmtConsumo = (c: CocheComparador) =>
@@ -237,13 +239,13 @@ export default function Rankings() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/fichas-tecnicas/" className="hover:underline">Fichas Técnicas</Link> ·{" "}
           <span className="text-gray-700">{ranking.titulo}</span>
         </nav>
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/bmw-ix4-electrico-2026-hero.webp"
             imageAlt="Coches eléctricos en un ranking del motor"
             badge="🏆 Rankings · Novedades Motor"
             title={ranking.titulo}
@@ -437,7 +439,7 @@ export function RankingsIndex() {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: DOMAIN },
-        { "@type": "ListItem", position: 2, name: "Comparador de coches", item: `${DOMAIN}/comparador-coches` },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: `${DOMAIN}/fichas-tecnicas` },
         { "@type": "ListItem", position: 3, name: "Rankings", item: `${DOMAIN}/rankings` },
       ],
     },
@@ -449,13 +451,13 @@ export function RankingsIndex() {
       <main className="mx-auto max-w-6xl px-4 pb-16 pt-8">
         <nav className="text-xs text-gray-500" aria-label="Migas de pan">
           <Link to="/" className="hover:underline">Inicio</Link> ·{" "}
-          <Link to="/comparador-coches/" className="hover:underline">Comparador de coches</Link> ·{" "}
+          <Link to="/fichas-tecnicas/" className="hover:underline">Fichas Técnicas</Link> ·{" "}
           <span className="text-gray-700">Rankings</span>
         </nav>
 
         <div className="mt-4">
           <PageHero
-            image="/media/rankings.webp"
+            image="/media/bmw-ix4-electrico-2026-hero.webp"
             imageAlt="Coches eléctricos en un ranking del motor"
             badge="🏆 Rankings · Novedades Motor"
             title="Rankings de coches"

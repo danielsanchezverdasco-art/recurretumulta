@@ -21,7 +21,7 @@ export const CAMPERS_JAPONESAS: CocheComparador[] = [
     modelo: "NV200 Camper",
     tipo: "Camper",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No existe: no hay NV200 Camper 2026.
     potenciaCv: 110,
     autonomiaKm: null,
     maleteroL: null,

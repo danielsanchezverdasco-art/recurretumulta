@@ -12,95 +12,12 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 
 export const COCHES_MG: CocheComparador[] = [
   {
-    id: "mg3-hybrid-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: 7,
-    garantiaBateriaKm: 150000,
-    garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mg3-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg3-hybrid-2025-precio-ficha-tecnica-interior.webp",
-    videoId: null,
-    videoCanal: null,
-    marca: "MG",
-    modelo: "3 Hybrid+",
-    tipo: "Híbrido",
-    categoria: "Urbano",
-    precioDesde: 19340,
-    potenciaCv: 194,
-    autonomiaKm: null,
-    maleteroL: 241,
-    ceroCien: 8.0,
-    velocidadMax: 170,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    pros: [
-      "194 CV por 17.840 €: el híbrido con mejor relación potencia/precio del segmento",
-      "4,4 l/100 km y etiqueta ECO: entra en las ZBE sin restricciones",
-      "0-100 en 8,0 s: más rápido que un Clio E-Tech o un Yaris híbrido",
-      "7 años o 150.000 km de garantía, batería híbrida incluida",
-      "Maletero de 241 L y 5 plazas reales en solo 4,11 m",
-    ],
-    contras: [
-      "Cambio automático de 3 velocidades con tacto mejorable a baja velocidad",
-      "El acabado de acceso Standard es espartano en equipamiento",
-      "Marca china con red de servicio aún en crecimiento en España",
-      "Sin versión enchufable: no opta a la etiqueta Cero",
-      "Valor de reventa incierto frente a Toyota o Renault",
-    ],
-    largoMm: 4113,
-    anchoMm: 1797,
-    altoMm: 1502,
-    pesoKg: 1360,
-    consumo: 4.4,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 425,
-    traccion: "Delantera",
-    emisionesCo2: 100,
-    aprox: [],
-    imagen: "/media/mg3-hybrid-2025-precio-ficha-tecnica-hero.webp",
-    opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 8.1,
-      seguroTercerosAnual: 420,
-      seguroAmpliadoAnual: 720,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 175,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 4,4 l/100 km WLTP a 1,85 €/l; seguro y mantenimiento orientativos de un urbano híbrido en España. Sin peajes ni aparcamiento.",
-      estimado: true,
-    },
-    galeria: [
-      {
-        src: "/media/mg3-hybrid-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MG3 Hybrid+, vista lateral",
-        ancho: 2096,
-        alto: 1184,
-      },
-      {
-        src: "/media/mg3-hybrid-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG3 Hybrid+",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg3-hybrid-2025-precio-ficha-tecnica-hero.webp",
-        alt: "MG3 Hybrid+, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
-    ],
-    fuenteNombre: "km77.com",
-    fuenteUrl: "https://www.km77.com/coches/mg/mg3/2024/estandar/hev/mg3-hybrid/datos",
-  },
-  {
     id: "mg3-gasolina-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg3-gasolina-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg3-gasolina-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -161,12 +78,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg3-gasolina-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG3 1.5 gasolina",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg3-gasolina-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG3 1.5 gasolina, tres cuartos delantero",
@@ -183,7 +95,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-zs-gasolina-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-zs-gasolina-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -244,12 +156,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg-zs-gasolina-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG ZS 1.5 gasolina",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg-zs-gasolina-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG ZS 1.5 gasolina, tres cuartos delantero",
@@ -266,7 +173,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-hs-gasolina-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-hs-gasolina-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -327,12 +234,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg-hs-gasolina-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG HS 1.5T gasolina",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg-hs-gasolina-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG HS 1.5T gasolina, tres cuartos delantero",
@@ -349,7 +251,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "uDq4mcL6-pg",
     videoCanal: null,
     marca: "MG",
@@ -410,12 +312,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG HS Hybrid+",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG HS Hybrid+, tres cuartos delantero",
@@ -432,7 +329,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg4-electric-standard-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-electric-standard-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -493,12 +390,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-electric-standard-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Electric Standard",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-electric-standard-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Electric Standard, tres cuartos delantero",
@@ -515,7 +407,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -576,12 +468,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Electric Comfort",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Electric Comfort, tres cuartos delantero",
@@ -598,7 +485,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg4-electric-luxury-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-electric-luxury-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -672,12 +559,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-electric-luxury-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Electric Luxury",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-electric-luxury-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Electric Luxury, tres cuartos delantero",
@@ -694,7 +576,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg4-electric-extended-range-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-electric-extended-range-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -755,12 +637,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-electric-extended-range-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Electric Extended Range",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-electric-extended-range-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Electric Extended Range, tres cuartos delantero",
@@ -777,7 +654,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg4-electric-xpower-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-electric-xpower-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -838,12 +715,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-electric-xpower-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Electric XPower",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-electric-xpower-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Electric XPower, tres cuartos delantero",
@@ -860,7 +732,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/mg4-urban-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg4-urban-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -921,12 +793,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/mg4-urban-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG4 Urban",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg4-urban-2026-precio-ficha-tecnica-hero.webp",
         alt: "MG4 Urban, tres cuartos delantero",
@@ -942,8 +809,8 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mg5-electric-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg5-electric-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/mg5-electric-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -984,7 +851,7 @@ export const COCHES_MG: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/mg5-electric-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.2,
@@ -998,24 +865,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/mg5-electric-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MG5 Electric, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg5-electric-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG5 Electric",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg5-electric-2025-precio-ficha-tecnica-hero.webp",
-        alt: "MG5 Electric, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/mg5/2022/estandar/electric/mg5-electric-gran-autonomia/datos",
@@ -1026,7 +878,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-marvel-r-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-marvel-r-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -1087,12 +939,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 2240,
         alto: 1120,
       },
-      {
-        src: "/media/mg-marvel-r-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG Marvel R",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg-marvel-r-2024-precio-ficha-tecnica-hero.webp",
         alt: "MG Marvel R, tres cuartos delantero",
@@ -1108,15 +955,15 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
     modelo: "Cyberster Trophy",
     tipo: "Eléctrico",
     categoria: "Descapotable",
-    precioDesde: 63590,
+    precioDesde: 63298, // Primer precio fiable en España (coches.net, oct 2026), 21/10/2026,
     potenciaCv: 340,
     autonomiaKm: 507,
     maleteroL: 249,
@@ -1150,7 +997,7 @@ export const COCHES_MG: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.0,
@@ -1164,24 +1011,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MG Cyberster Trophy, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG Cyberster Trophy",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hero.webp",
-        alt: "MG Cyberster Trophy, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/cyberster/2024/estandar/estandar/cyberster/datos",
@@ -1199,7 +1031,7 @@ export const COCHES_MG: CocheComparador[] = [
     modelo: "Cyberster GT",
     tipo: "Eléctrico",
     categoria: "Descapotable",
-    precioDesde: 68590,
+    precioDesde: 68298, // Primer precio fiable en España (coches.net, oct 2026), 21/10/2026,
     potenciaCv: 510,
     autonomiaKm: 443,
     maleteroL: 249,
@@ -1274,8 +1106,8 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -1316,7 +1148,7 @@ export const COCHES_MG: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 2.6,
@@ -1330,24 +1162,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MG S5 EV Standard, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG S5 EV Standard",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hero.webp",
-        alt: "MG S5 EV Standard, tres cuartos delantero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     fuenteNombre: "coches-electricos.org",
     fuenteUrl: "https://coches-electricos.org/noticias/ya-sabemos-el-precio-del-esperado-nuevo-mg-s5-ev/",
@@ -1358,7 +1175,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -1419,12 +1236,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 2240,
         alto: 1120,
       },
-      {
-        src: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del MG S5 EV Long Range",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG S5 EV Long Range, tres cuartos delantero",
@@ -1609,7 +1421,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "MG",
@@ -1670,12 +1482,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del MG5 Electric",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-hero.webp",
         alt: "MG5 Electric Standard Range Luxury, vista frontal",
@@ -1692,7 +1499,7 @@ export const COCHES_MG: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "fWwnN51sfSc",
     videoCanal: "Actualidad Motor",
     marca: "MG",
@@ -1753,12 +1560,7 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del MG Marvel R",
-        ancho: 1200,
-        alto: 800
-      },
+      
       {
         src: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-hero.webp",
         alt: "MG Marvel R Electric Performance AWD, vista frontal",
