@@ -1325,8 +1325,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     traccion: "Trasera / Total",
     emisionesCo2: null,
     aprox: [],
-    pros: ["245 CV (180 kW)", "Maletero de 330 l", "0–100 km/h en 6,1 s", "5 plazas", "Desde 45.000 $ (EE.UU., aprox.)"],
-    contras: ["No se vende oficialmente en España", "Sin datos EuroNCAP para esta versión"],
+    pros: [
+      "Fue el tercer Genesis tras los G80 y G90 y se presentó en Corea en septiembre de 2017 apuntando sin rodeos al BMW Serie 3, al Mercedes-Benz Clase C y al Audi A4",
+      "Con los 245 CV y 353 Nm que recoge esta ficha, esta berlina de 4.685 mm, con tracción trasera o total, alcanza 240 km/h y deja la aceleración hasta los cien en 6,1 segundos",
+      "Euro NCAP lo examinó en 2021 y le otorgó la máxima nota, con un 89 % en protección de adultos, un 87 % en infantil y un 88 % en asistentes, según la nota oficial de Genesis Motor Europe",
+      "En los mercados europeos donde llegó a venderse incluía una garantía de cinco años sin límite de kilometraje, un respaldo poco habitual entre las berlinas prémium alemanas a las que retaba",
+      "Mantiene mandos físicos y ruletas para el clima junto a una pantalla central de 10,25 pulgadas, en vez de relegarlo todo a menús táctiles como hacen sus rivales más recientes"
+    ],
+    contras: [
+      "Genesis no lo comercializa en España: su desembarco español anunciado para 2026 se limita a los eléctricos GV60, Electrified GV70 y Electrified G80, así que un G70 de gasolina solo puede llegar por importación o de segunda mano europea",
+      "Sus 330 litros de maletero en la carrocería berlina quedan cortos para viajar en familia y las plazas traseras pierden sitio por el túnel central de la transmisión",
+      "Los 8,5 l/100 km que declara esta ficha se pagan sin ninguna ayuda eléctrica: Genesis nunca ofreció una versión híbrida ni híbrida enchufable del G70, al contrario que Serie 3, Clase C y A4"
+    ],
     imagen: "/media/genesis-g70-2025-hero.webp",
     imagenOficial: "/media/genesis-g70-2025-2.webp",
     imagenInteriorOficial: "",
@@ -1378,17 +1388,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "304 CV (224 kW)",
-      "0–100 km/h en 6,0 s",
-      "Maletero de 424 l",
-      "5 estrellas EuroNCAP (2021)",
-      "Velocidad máxima de 250 km/h"
+      "Motor 2.5 T-GDi de cuatro cilindros con 304 CV a 5.800 rpm y 422 Nm de par entre 1.650 y 4.000 rpm, asociado a un cambio automático de ocho velocidades y a la tracción total de esta versión",
+      "Cinco estrellas Euro NCAP en 2021 con un 91 % en ocupantes adultos y otro 91 % en asistencia a la seguridad, por encima del 88 % que logró el SUV GV80 en ese mismo apartado",
+      "En protección de usuarios vulnerables sacó un 77 % gracias a su capó activo, once puntos más que el GV80 (66 %), un matiz que separa a esta berlina de su hermano todocamino",
+      "La renovación de 2025 reúne cuadro e infoentretenimiento en una única pantalla OLED de 27 pulgadas y estrena faros de doble línea con tecnología Micro Lens Array y selector de marchas de cristal",
+      "Segunda generación sobre plataforma de propulsión trasera 125 kg más ligera que la anterior, con 3.010 mm de batalla para dar espacio a las plazas traseras de una berlina ejecutiva"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "Esta mecánica de gasolina nunca se ha ofrecido en el mercado español y no tiene PVP en euros: la gama anunciada para el desembarco de Genesis en España, con puntos en Madrid, Barcelona y Valencia, solo contempla el G80 Electrified eléctrico de 370 CV desde 77.400 euros",
+      "Al no homologarse esta variante para su venta aquí, la DGT no le asigna distintivo ambiental en la ficha española, a diferencia del Electrified que llegará como eléctrico puro",
+      "El consumo de 9,5 l/100 km figura como aproximado y sin respaldo oficial en la ficha, una cifra esperable en un gasolina puro sin electrificación, con tracción total y casi cinco metros de berlina",
+      "Maletero de solo 424 litros en una berlina de representación de 4.995 mm: la silueta fastback y la tracción total dejan un hueco justo para el equipaje de cuatro adultos en un viaje largo",
+      "El mantenimiento publicado no procede de esta berlina: la propia ficha lo toma como orientativo del SUV GV80 de la misma casa, sin intervalos en kilómetros ni costes cerrados específicos para el G80 de gasolina"
     ],
     imagen: "/media/genesis-g80-2025-hero.webp",
     imagenOficial: "/media/genesis-g80-2025-2.webp",
@@ -1425,10 +1436,10 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       fuente: "Mantenimiento orientativo (modelo similar Genesis GV80, misma marca): revisión anual. Fuente: plan de mantenimiento Genesis GV80 (misma marca).",
     },
     euroncap: {
-      estrellas: 5,
-      ano: 2021,
-      url: null,
-      nota: "5 estrellas EuroNCAP (Genesis G80, 2021).",
+      "ano": 2021,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP (Genesis G80, 2021): 91 % en ocupantes adultos, 87 % en niños, 77 % en usuarios vulnerables y 91 % en asistencia a la seguridad.",
+      "url": "https://www.euroncap.com/press-media/genesis-marks-european-launch-with-euro-ncap-top-ratings-for-g80-and-gv80/"
     },
   },
   {
@@ -1461,16 +1472,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "304 CV (224 kW)",
-      "0–100 km/h en 6,9 s",
-      "Maletero de 735 l",
-      "5 estrellas EuroNCAP (2021)"
+      "Motor 2.5 turbo de gasolina con 304 CV (224 kW) y 422 Nm, tracción total y 6,9 segundos de 0 a 100 km/h: es la versión de acceso del GV80, por debajo del 3.5 V6 biturbo de 380 CV que Genesis reserva a otros mercados",
+      "Maletero de 735 litros en un SUV de 4.945 mm pensado contra BMW X5 y Mercedes-Benz GLE, con 2.722 kg de capacidad de remolque con freno según las pruebas británicas del modelo",
+      "Cinco estrellas Euro NCAP en 2021 con un 91 % en ocupante adulto, un 87 % en infantil y un 88 % en asistentes: puntuación máxima en impacto lateral y airbag central entre los asientos delanteros",
+      "Actualización de 2025 exclusiva de esta etapa del GV80: pantalla OLED integrada de 27 pulgadas que une instrumentación y multimedia, parrilla Crest de doble malla y faros con tecnología MLA, en lugar de la pantalla anterior de 14,5 pulgadas"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "Genesis deja fuera al GV80 de gasolina de su llegada a España: la gama anunciada para el mercado español es solo eléctrica, con GV60, GV70 Electrified y G80 Electrified, así que este SUV únicamente puede llegar por importación, sin tarifa oficial en euros",
+      "Al no existir homologación española de esta versión 2.5 turbo, tampoco hay distintivo ambiental asignado de fábrica: una unidad importada tendría que homologarse por su cuenta y su etiqueta dependería de esa tramitación individual",
+      "Sed propia de un SUV grande de gasolina sin ningún tipo de electrificación: los 10,0 l/100 km de esta ficha son una cifra aproximada sin homologación española, y en uso real queda en clara desventaja frente a los diésel e híbridos enchufables de X5 y GLE",
+      "Sin red oficial española que atienda al GV80, su mantenimiento queda en manos de la referencia orientativa del G80: recambios, diagnosis y plazos de un ejemplar importado dependen de talleres de Hyundai o de especialistas en la marca"
     ],
     imagen: "/media/genesis-gv80-2025-hero.webp",
     imagenOficial: "/media/genesis-gv80-2025-2.webp",
@@ -1495,22 +1506,22 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Genesis G80, misma marca): revisión anual",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Plan de mantenimiento del Genesis G80 (misma marca) aplicado como orientación al GV80, que no dispone de plan oficial publicado para España.",
+      "intervalo": "Revisión anual orientativa para el GV80 2.5 turbo, tomada del plan del Genesis G80 por compartir marca y planteamiento, ante la ausencia de red oficial de este SUV en España",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Según plan oficial u orientativo (ver fuente)",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Genesis G80, misma marca): revisión anual. Fuente: plan de mantenimiento Genesis G80 (misma marca).",
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica anual del GV80 (referencia orientativa)",
+          "queSeCambia": "Lo previsto en el plan orientativo del G80 citado en la fuente; no hay desglose oficial específico del GV80 publicado para España"
+        }
+      ]
     },
     euroncap: {
-      estrellas: 5,
-      ano: 2021,
-      url: null,
-      nota: "5 estrellas EuroNCAP (Genesis GV80, 2021).",
+      "ano": 2021,
+      "estrellas": 5,
+      "nota": "Genesis GV80 probado por Euro NCAP en 2021: 5 estrellas, con 91 % en ocupante adulto, 87 % en ocupante infantil, 66 % en usuarios vulnerables y 88 % en asistentes de seguridad.",
+      "url": null
     },
   },
   {
@@ -1543,16 +1554,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "204 CV (150 kW)",
-      "0–100 km/h en 7,9 s",
-      "Maletero de 574 l"
+      "Sistema híbrido de dos motores eléctricos junto a un 2,0 litros de ciclo Atkinson: 204 CV y 335 Nm en esta undécima generación de 4.971 mm",
+      "Pantalla central de 12,3 pulgadas con Apple CarPlay y Android Auto inalámbricos desde el acabado Sport Hybrid, y servicios de Google integrados en el Touring Hybrid",
+      "El IIHS estadounidense lo distinguió como Top Safety Pick+ en 2024 y toda la gama lleva de serie la suite de asistentes Honda Sensing"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Honda retiró el Accord del mercado europeo en 2015 y esta generación se concibió para Norteamérica y otros mercados extraeuropeos, así que en España no hay red oficial que lo venda",
+      "La DGT no le asigna etiqueta ambiental en esta ficha porque Honda nunca llegó a homologar ni comercializar esta generación para el mercado español",
+      "Los 5,0 litros a los cien que figuran son una cifra aproximada sin homologación WLTP europea; en su mercado la EPA tasa el EX-L Hybrid en 48 millas por galón combinadas",
+      "El plan de revisiones mostrado no procede de este Accord: se toma prestado del Civic, mientras que el Accord real se rige por su sistema Maintenance Minder, que avisa según la vida restante del aceite",
+      "Euro NCAP jamás ha ensayado esta undécima generación y su casilla europea queda vacía; su referencia en choques es la prueba del IIHS norteamericano, que no se traduce en estrellas europeas"
     ],
     imagen: "/media/honda-accord-2024-hero.webp",
     imagenOficial: "/media/honda-accord-2024-2.webp",
@@ -1625,16 +1636,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "154 CV (113 kW)",
-      "0–100 km/h en 8,3 s",
-      "Autonomía WLTP de 222 km",
-      "Batería de 35,5 kWh",
-      "Maletero de 171 l",
-      "4 estrellas EuroNCAP (2020)"
+      "Retrovisores por cámara de serie, pioneros en un urbano: dos pantallas de 6 pulgadas en los extremos del salpicadero y un 3,8 % menos de resistencia aerodinámica según la propia Honda",
+      "Diseño neo-retro heredero del Urban EV Concept de 2017 y del primer Civic de 1972, con faros redondos, tiradores enrasados y sin calandra convencional",
+      "Motor trasero y tracción trasera con reparto de pesos 50:50: sus 154 CV y 315 Nm mueven un urbano de solo 3,89 m pensado para girar y aparcar en calles estrechas",
+      "Salpicadero de pared a pared con cinco pantallas —dos táctiles de 12,3 pulgadas— y moldura de madera, un interior de salón impropio de un segmento B",
+      "Batería pequeña de 35,5 kWh enfocada a la ciudad: 222 km WLTP y carga rápida CCS hasta el 80 % en unos 30 minutos, con etiqueta Cero de la DGT",
+      "4 estrellas EuroNCAP en 2020 con frenado autónomo de emergencia de serie y eCall avanzado, aunque sin las ayudas más completas del Honda Jazz"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "Esos 222 km WLTP son de ciudad: fuera del casco urbano la batería de 35,5 kWh obliga a parar a cargar mucho antes que en un MINI Cooper SE o un Peugeot e-208",
+      "Precio de urbano premium: unos 34.000 € por 3,89 m y solo 4 plazas, la tarifa que la prensa del motor señala como causa directa de sus ventas flojas",
+      "Maletero de 171 l con el motor bajo el piso de carga y banqueta trasera que se abate en una sola pieza, sin poder fraccionarla por partes",
+      "Descatalogado en Europa a finales de 2023 y con la producción cerrada en enero de 2024: un Honda e de 2023 ya solo se encuentra de ocasión o de stock"
     ],
     imagen: "/media/honda-e-2023-hero.webp",
     imagenOficial: "/media/honda-e-2023-2.webp",
@@ -1671,10 +1684,10 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       fuente: "Mantenimiento orientativo (modelo similar Honda Jazz e:HEV, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Honda Jazz e:HEV (misma marca).",
     },
     euroncap: {
-      estrellas: 4,
-      ano: 2020,
-      url: null,
-      nota: "4 estrellas EuroNCAP (Honda e, 2020).",
+      "ano": 2020,
+      "estrellas": 4,
+      "nota": "4 estrellas EuroNCAP (Honda e, 2020).",
+      "url": "https://cdn.euroncap.com/media/62100/euroncap-2020-honda-e-datasheet.pdf"
     },
   },
   {
@@ -1707,16 +1720,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "608 CV (447 kW)",
-      "0–100 km/h en 2,9 s",
-      "Maletero de 110 l",
-      "Velocidad máxima de 307 km/h"
+      "Turbos heredados del NSX GT3 Evo y un 5,6 % más de presión de soplado: el V6 biturbo central de 3,5 litros y sus tres motores eléctricos firman 608 CV y 667 Nm con la tracción Sport Hybrid SH-AWD de reparto vectorial",
+      "Dos segundos menos que el NSX de 2021 en el circuito de Suzuka: la caja DCT de 9 marchas engrana hasta un 50 % más rápido en Sport y Sport+ y el nuevo Rapid Downshift baja varias marchas de golpe manteniendo la leva pulsada 0,6 segundos",
+      "Serie de despedida montada a mano en el Performance Manufacturing Center de Marysville (Ohio): solo 350 unidades para todo el mundo, 300 de ellas para Estados Unidos, y la última —la número 350, en gris Gotham mate— cerró la segunda generación en noviembre de 2022",
+      "Detalles exclusivos del Type S: techo de fibra de carbono de serie, difusor trasero inspirado en el GT3 Evo, vías ensanchadas 10 mm delante y 20 mm detrás y neumáticos Pirelli P-Zero con marcaje H0 desarrollados solo para este coche"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "En España solo puede llegar como importación: Honda retiró el NSX normal de Europa en 2020 tras unas ventas mínimas y la serie Type S nunca se ofreció en el mercado español, así que no hay tarifa oficial en euros para nuestro país ni una red Honda que lo tenga en catálogo",
+      "Maletero de solo 110 litros junto al V6 central y un habitáculo estricto de dos plazas: es un superdeportivo para viajar ligero, no el gran turismo utilizable que su modo Quiet podría sugerir",
+      "Euro NCAP nunca lo sometió a sus pruebas y su dotación se quedó corta para 2022: ni frenado autónomo de emergencia, ni aviso de salida de carril, ni control de crucero adaptativo estuvieron disponibles en el NSX",
+      "Mantener el sistema de tres motores exige seguir el Maintenance Minder propio del NSX —aceite específico, líquidos de la caja de doble embrague y de la Twin Motor Unit delantera—, un plan que en España queda fuera de la rutina habitual de un taller Honda"
     ],
     imagen: "/media/honda-nsx-2022-hero.webp",
     imagenOficial: "/media/honda-nsx-2022-hero.webp", // 17/10/2026: la -2 es el interior; portada = exterior
@@ -1741,22 +1754,57 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Honda Civic Type R, misma marca): mantenimiento de superdeportivo según uso",
-      revisiones: [
+      "intervalo": "Según el Maintenance Minder del propio NSX (manual oficial Acura 2022): el coche avisa en el cuadro con códigos A/B y subítems numerados; si el aviso SERVICE no aparece en más de 12 meses desde el último reinicio, el aceite del motor se cambia cada año",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Según plan oficial u orientativo (ver fuente)",
-          costeAproxEur: null,
+          "nombre": "Código A — Aceite del motor",
+          "queSeCambia": "Sustituir el aceite del motor (sintético completo 0W-40 específico para el NSX)",
+          "costeAproxEur": null
         },
+        {
+          "nombre": "Código B — Aceite, filtro e inspección general",
+          "queSeCambia": "Aceite y filtro de aceite; inspección de frenos delanteros y traseros, caducidad del kit reparapinchazos, rótulas y caja de dirección, suspensión, fuelles de transmisión, latiguillos de freno, niveles de líquidos, escape y conductos de combustible",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 1 — Neumáticos",
+          "queSeCambia": "Inspeccionar el estado de los neumáticos cada 5.000 km",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 2 — Filtros de aire",
+          "queSeCambia": "Sustituir el elemento del filtro de aire del motor y los filtros de polvo y polen del habitáculo; en zonas polvorientas, el de aire cada 24.000 km",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 3 — Líquidos de transmisión y embrague",
+          "queSeCambia": "Sustituir el líquido de la caja DCT de 9 marchas y el líquido del embrague; con uso de montaña a baja velocidad, con más frecuencia por la mayor temperatura de la transmisión",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 4 — Bujías y válvulas",
+          "queSeCambia": "Sustituir las bujías e inspeccionar el juego de válvulas del V6 biturbo",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 5 — Refrigerante",
+          "queSeCambia": "Sustituir el refrigerante del motor",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Subítem 6 — Twin Motor Unit",
+          "queSeCambia": "Sustituir el líquido de la Twin Motor Unit, la unidad de los dos motores eléctricos delanteros que hace el reparto vectorial de par",
+          "costeAproxEur": null
+        }
       ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Honda Civic Type R, misma marca): mantenimiento de superdeportivo según uso. Fuente: plan de mantenimiento Honda Civic Type R (misma marca).",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual oficial del propietario del Acura NSX 2022 y su guía Maintenance Minder (owners.acura.com, PDF 2022_nsx_maintenance_minder.pdf): códigos principales A/B, subítems 1 a 6 y regla anual del aceite. El manual no publica costes, por lo que ningún coste se ha inventado."
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP (no se vende en Europa).",
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
     },
   },
   {
@@ -1789,17 +1837,19 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "240 CV (176 kW)",
-      "0–100 km/h en 6,2 s",
-      "Maletero de 142 l"
+      "Motor F20C de 2,0 litros con VTEC y 240 CV a 8.300 rpm: 120 CV por litro sin turbo, la mayor potencia específica atmosférica de un coche de serie en su época",
+      "El F20C estira hasta las 9.000 rpm y, con el cambio manual de seis marchas y el diferencial autoblocante Torsen, firma 6,2 segundos en el 0 a 100 y 240 km/h",
+      "Bloque montado por detrás del eje delantero, en posición central delantera, con reparto de pesos 50:50 entre ambos trenes",
+      "Arranque por botón rojo Engine Start y capota eléctrica que se abre o se cierra en unos seis segundos tras soltar los pestillos",
+      "Nació en 1999 para celebrar los 50 años de Honda como heredero de los S500, S600 y S800, y Europa lo despidió en 2009 con la serie Ultimate Edition"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Sus 208 Nm llegan a 7.500 rpm, así que por debajo de la entrada del VTEC el 2.0 empuja poco y toca estirar marchas para que rinda",
+      "Maletero de 142 litros para dos ocupantes: da para un fin de semana ligero y poco más, sin hueco real para equipaje voluminoso",
+      "Habitáculo justo y austero, con mucho plástico a la vista, impropio de un roadster que de nuevo costaba unos 41.000 euros en España",
+      "Su relación de compresión de 11:1 pide gasolina de 98 octanos para rendir al máximo, un sobrecoste fijo en cada repostaje",
+      "La producción terminó el 19 de agosto de 2009 sin sucesor, así que los 30.000 euros de esta ficha son una estimación de ocasión y no una tarifa de coche nuevo",
+      "Ningún ensayo publicado en euroncap.com respalda una nota para este roadster, por eso su casilla de estrellas permanece vacía"
     ],
     imagen: "/media/honda-s2000-2009-hero.webp",
     imagenOficial: "/media/honda-s2000-2009-2.webp",
@@ -1872,17 +1922,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "280 CV (206 kW)",
-      "0–100 km/h en 5,3 s",
-      "Maletero de 402 l",
-      "Velocidad máxima de 250 km/h"
+      "Motor 2,0 turbo de 280 CV y 392 Nm creado solo para los modelos N, con launch control y un 0 a 100 km/h de 5,3 segundos según Hyundai",
+      "Puedes elegirlo con manual de seis marchas y rev-matching o con el N DCT húmedo de ocho, que añade el N Grin Shift con empuje máximo del turbo durante 20 segundos",
+      "El rediseño de 2024 estrena llantas forjadas de 19 pulgadas con Michelin Pilot Sport 4S que ahorran 14,9 kg de masa no suspendida frente a las anteriores",
+      "Diferencial electrónico N Corner Carving y suspensión de control electrónico de serie en una berlina de 4.675 mm que aún guarda 402 litros de maletero"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Hyundai no lo ofreció en su gama española: esta berlina N se vendió en Corea como Avante N, en Australia como i30 Sedan N y en Norteamérica como Elantra N, así que aquí solo llega por importación",
+      "Sin homologación europea no tiene etiqueta de la DGT y el consumo de 8,0 l/100 km de esta ficha queda señalado como aproximado, sin cifra WLTP que lo respalde",
+      "No hay precio en euros que publicar: en Estados Unidos la tarifa de 2024 era de 33.700 dólares para el manual y de 35.200 para el DCT, antes de los 1.150 dólares de transporte",
+      "Su plan de revisiones en esta ficha se toma prestado del i30 N de la misma casa, con visita anual o cada 15.000 km, porque no existe un plan español propio para un modelo importado",
+      "Euro NCAP no ha ensayado esta generación del Elantra: el apartado de seguridad queda en blanco y no debe confundirse con las pruebas de Elantra de hace más de veinte años",
+      "El respaldo trasero se abate de una pieza y la barra roja transversal del chasis cruza el paso al maletero, un peaje práctico para objetos largos pese a sus 402 litros"
     ],
     imagen: "/media/hyundai-elantra-n-2024-hero.webp",
     imagenOficial: "/media/hyundai-elantra-n-2024-2.webp",
@@ -1955,16 +2006,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "204 CV (150 kW)",
-      "0–100 km/h en 6,7 s",
-      "Maletero de 352 l",
-      "4 estrellas EuroNCAP (2021)"
+      "Inspirado en el i20 Coupe WRC que dio a Hyundai los títulos de marcas de 2019 y 2020, este i20 N traslada a un utilitario de 4.075 mm el 1.6 T-GDi de 204 CV con 275 Nm entre 1.750 y 4.500 rpm",
+      "Hyundai declara 1.190 kg, el mismo peso que el i20 Coupe WRC, y 230 km/h de velocidad máxima: esa ligereza lo dejó por debajo de Fiesta ST y Polo GTI en la báscula del segmento B",
+      "Cambio manual de seis velocidades como única caja, con Launch Control, Rev Matching que iguala las revoluciones al reducir y cinco modos del N Grin Control System, incluido un N Custom configurable",
+      "Escape con válvula activa, chasis reforzado y suspensión rebajada frente al i20 normal, pero con cinco plazas y los 352 litros de maletero de esta ficha para seguir usándolo a diario"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (4 estrellas del modelo base)"
+      "Hyundai cesó su producción para Europa a finales de febrero de 2024, a la vez que el i30 N, así que los 30.000 euros de esta ficha son aproximados y una unidad de ese año ya es de fin de serie o de ocasión",
+      "No existe versión automática: quien busque un utilitario deportivo para atascos diarios no tiene alternativa al pedal de embrague, al contrario que el Polo GTI, vendido solo con DSG",
+      "El diferencial N Corner Carving era opcional y no de serie, así que no todas las unidades que salen a la venta lo llevan, pese a ser la pieza que mejor le ayuda a traccionar al salir de una curva cerrada",
+      "Su seguridad no viene de una prueba propia del N: Euro NCAP aplicó al i20 en 2021 las cuatro estrellas de su gemelo Bayon, con un 76 % en ocupantes adultos y un 67 % en asistencia a la seguridad"
     ],
     imagen: "/media/hyundai-i20-n-2024-hero.webp",
     imagenOficial: "/media/hyundai-i20-n-2024-2.webp",
@@ -2037,17 +2088,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "280 CV (206 kW)",
-      "0–100 km/h en 5,4 s",
-      "Maletero de 450 l",
-      "5 estrellas EuroNCAP (2017)",
-      "Velocidad máxima de 250 km/h"
+      "Con la caja N DCT de ocho velocidades y el Launch Control, el 2.0 T-GDI Performance de 280 CV y 392 Nm baja a 5,4 segundos en el 0 a 100 km/h, el mejor registro de la gama i30 N tras el lavado de cara de 2021",
+      "La N DCT estrenada en ese lavado de cara suma tres funciones propias, N Grin Shift con overboost de 20 segundos, N Power Shift y N Track Sense Shift, que el cambio manual de seis velocidades no ofrece",
+      "El acabado Performance añade diferencial N Corner Carving con autoblocante electrónico, suspensión controlada electrónicamente y Rev Matching para las reducciones, hardware pensado para circuito que el i30 N de 250 CV no monta",
+      "La cola fastback de sus 4.450 mm deja 450 litros de maletero y 1.351 litros con los respaldos abatidos, una capacidad de carga rara en un compacto deportivo de tracción delantera",
+      "Presentado en París en 2018 como segundo modelo N de Hyundai en Europa, deriva de un i30 que Euro NCAP calificó con cinco estrellas en 2017, con un 88 % en ocupantes adultos y un 84 % en niños"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (5 estrellas del modelo base)"
+      "Los 42.000 euros y los 8,0 l/100 km de esta ficha van marcados como cifras aproximadas, sin tarifa oficial detrás, y desde febrero de 2024 la producción europea del i30 N de gasolina ha cesado, así que ya no hay PVP nuevo que los actualice",
+      "Euro NCAP nunca ensayó un Fastback N: la prueba de 2017 se hizo con un i30 1.6 CRDi GLS de cinco puertas, no con esta carrocería cupé ni con el motor 2.0 T-GDI de 280 CV",
+      "El plan de mantenimiento cargado no es el de este coche: la propia ficha lo declara tomado del Hyundai i30 N de cinco puertas, con una sola revisión genérica y ningún coste cerrado",
+      "La caída del techo que dibuja la silueta fastback recorta la altura para quien viaja detrás frente al i30 N hatchback y estrecha la luneta trasera, con peor visibilidad hacia atrás al maniobrar"
     ],
     imagen: "/media/hyundai-i30-fastback-n-2024-hero.webp",
     imagenOficial: "/media/hyundai-i30-fastback-n-2024-2.webp",
@@ -2120,16 +2171,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "280 CV (206 kW)",
-      "0–100 km/h en 5,5 s",
-      "Maletero de 361 l",
-      "5 estrellas EuroNCAP (2017)"
+      "Primer SUV con sello N de Hyundai: el 2.0 T-GDI de 280 CV y 392 Nm del i30 N Performance en una carrocería B-SUV de 4.215 mm",
+      "N Grin Shift eleva la potencia a 290 CV durante 20 segundos y, con Launch Control y la N DCT húmeda de 8 marchas, firma 5,5 s en el 0 a 100 y 240 km/h",
+      "Diferencial electrónico e-LSD N Corner Carving y llantas forjadas de 19 pulgadas con Pirelli P-Zero 235/40, pensados para traccionar solo con el eje delantero",
+      "Maletero de 361 litros —13 menos que un Kona de combustión corriente— en un SUV que aún sirve para el día a día y no solo para circuito"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (5 estrellas del modelo base)"
+      "Sin tracción total: frente a T-Roc R, SQ2 y Countryman JCW, todos con unos 300 CV y 4x4, el Kona N manda sus 280 CV solo a las ruedas delanteras",
+      "Consumo homologado de 8,5 l/100 km y etiqueta C: el precio de un 2.0 turbo de 280 CV pensado para divertir en carretera y circuito, no para ahorrar",
+      "Suspensión electrónica muy firme en modo N: las pruebas en España coinciden en que lo mejor del coche está pensado para circuito y se nota dura en uso diario",
+      "Euro NCAP nunca probó la versión N: las 5 estrellas de 2017, ya caducadas, son del Kona base de primera generación, con 87 % en adultos y 85 % en niños"
     ],
     imagen: "/media/hyundai-kona-n-2023-hero.webp",
     imagenOficial: "/media/hyundai-kona-n-2023-2.webp",
@@ -2202,17 +2253,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "190 CV (140 kW)",
-      "0–100 km/h en 11,0 s",
-      "Maletero de 235 l",
-      "7 plazas"
+      "Motor 3.0 diésel 4JJ3 de 190 CV y 450 Nm, el bloque del D-Max de tercera generación",
+      "Chasis de largueros con reductora y bloqueo trasero: remolca 3.500 kg frenados en esta motorización",
+      "Siete plazas en tres filas y 800 mm de vadeo, pensado para viajar cargado fuera del asfalto",
+      "ANCAP le dio 5 estrellas en 2022, aunque Euro NCAP nunca ha ensayado este SUV"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Isuzu no lo comercializa en España: su gama aquí se limita al pick-up D-Max y a camiones",
+      "Al no homologarse para Europa carece de etiqueta de la DGT y de tarifa oficial en euros",
+      "Con las tres filas desplegadas queda poco hueco para el equipaje de siete ocupantes",
+      "Sus 11,0 s de 0 a 100 y el tacto del diésel delatan el origen pick-up frente a un SUV monocasco",
+      "Pensado para Tailandia y Australia, rivales como Fortuner y Everest: aquí no hay red oficial específica del MU-X"
     ],
     imagen: "/media/isuzu-mu-x-2025-hero.webp",
     imagenOficial: "/media/isuzu-mu-x-2025-2.webp",
@@ -2237,22 +2288,27 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Isuzu D-Max, misma marca): revisión anual o cada 15.000 km",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Isuzu UTE Australia, Owners FAQs (isuzuute.com.au): intervalo de 15.000 km o 12 meses para modelos 24MY en adelante. CarExpert Australia: revisión inicial gratuita a los 3 meses/3.000 km y revisiones con precio cerrado de 449 AUD en Australia, sin equivalente oficial en euros.",
+      "intervalo": "Cada 15.000 km o 12 meses, lo que ocurra antes, según Isuzu UTE Australia para el MU-X; revisión inicial gratuita a los 3 meses o 3.000 km",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Según plan oficial u orientativo (ver fuente)",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión inicial a los 3 meses o 3.000 km",
+          "queSeCambia": "Inspección inicial gratuita del programa australiano de Isuzu UTE; no consta sustitución programada publicada para esta visita"
         },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Isuzu D-Max, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Isuzu D-Max (misma marca).",
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión programada cada 15.000 km o 12 meses",
+          "queSeCambia": "Operaciones previstas en el libro de servicio y garantía del MU-X según kilometraje; Isuzu UTE Australia no publica en abierto el desglose por operación"
+        }
+      ]
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP. ANCAP (Australia): 5 estrellas (2022) para el MU-X.",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: Euro NCAP no ha publicado prueba del MU-X; la suya es del pick-up hermano D-Max, de 2020. ANCAP Australia otorgó al MU-X 5 estrellas en 2022, con 86 % en ocupante adulto, 85 % en infantil, 69 % en usuario vulnerable y 84 % en asistencias.",
+      "url": null
     },
   },
   {
@@ -2285,16 +2341,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "250 CV (184 kW)",
-      "0–100 km/h en 6,2 s",
-      "Maletero de 410 l",
-      "5 estrellas EuroNCAP (2015)",
-      "Velocidad máxima de 250 km/h"
+      "Motor Ingenium PT204 de 2,0 litros con turbo: los 250 CV y los 365 Nm entre 1.300 y 4.500 rpm de esta ficha, con cambio automático de ocho marchas y tracción total, son la combinación P250 con la que el XE plantó cara al BMW Serie 3",
+      "Primer monocasco con uso intensivo de aluminio en su segmento y único de su clase con esa construcción al presentarse: doble horquilla delante y eje trasero Integral Link detrás, la receta con la que Jaguar buscó hacer del XE la berlina para conductores frente al Audi A4 y al Mercedes Clase C",
+      "Nombrado Best in Class de 2015 por Euro NCAP entre los familiares grandes, con un 92 % en protección de adultos, un 82 % en infantil, un 81 % en peatones y un 82 % en asistentes, la puntuación máxima en el choque lateral de barrera y el frenado autónomo de serie en Europa",
+      "Diseño de Ian Callum como sucesor del X-Type, desvelado en Londres en septiembre de 2014 y con un coeficiente de 0,26 que lo convirtió en el Jaguar más aerodinámico hasta entonces, con capó largo y zaga corta de berlina deportiva clásica",
+      "Punta de 250 km/h declarada en esta ficha para una berlina de 4.678 mm y batalla de 2.835 mm fabricada primero en Solihull y después en Castle Bromwich, unas proporciones que priorizan el aplomo en autopista sobre la amplitud interior"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "La producción del XE terminó en Castle Bromwich en mayo de 2024, con un XE verde oscuro como último coche de la planta, y sin sucesor de combustión: en 2024 ya solo quedaba stock final o unidades de ocasión, a la espera del relanzamiento eléctrico de Jaguar",
+      "Maletero de 410 litros según esta ficha, por debajo de los 480 litros de un BMW Serie 3 o un Audi A4 coetáneos, y plazas traseras justas para dos adultos, con la plaza central penalizada por el túnel de transmisión de su arquitectura de propulsión",
+      "Los 50.000 euros de precio y los 7,5 l/100 km de consumo figuran en esta ficha como valores aproximados, no como tarifa oficial de Jaguar España para 2024: el importe real depende del acabado, el equipamiento y la unidad concreta que quede disponible",
+      "El mantenimiento que muestra esta ficha es orientativo y está tomado del Jaguar XF de la misma marca, no del plan específico del XE: en los Ingenium los intervalos varían por motorización, así que el anual o cada 20.000 km no debe darse por bueno sin contrastar el manual de la unidad"
     ],
     imagen: "/media/jaguar-xe-2024-hero.webp",
     imagenOficial: "/media/jaguar-xe-2024-2.webp",
@@ -2367,16 +2424,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "250 CV (184 kW)",
-      "0–100 km/h en 6,5 s",
-      "Maletero de 540 l",
-      "5 estrellas EuroNCAP (2015)",
-      "Velocidad máxima de 250 km/h"
+      "Carrocería X260 construida esencialmente en aluminio, unos 190 kg más ligera que la del XF anterior y con una rigidez torsional un 28 % superior según Jaguar",
+      "Motor Ingenium 2.0 turbo de 250 CV y 365 Nm con cambio automático ZF de ocho relaciones y tracción total en esta versión",
+      "En el ensayo Euro NCAP de 2015 alcanzó un 92 % en protección de adultos y un 84 % en protección infantil",
+      "La renovación de 2021 estrenó el sistema Pivi Pro con pantalla curva de 11,4 pulgadas e instrumentación digital de 12,3 pulgadas",
+      "Con 4.962 mm de largo y 540 litros de maletero se mide con Audi A6, BMW Serie 5 y Mercedes-Benz Clase E"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "Su producción terminó en Castle Bromwich en junio de 2024, sin relevo de combustión: Jaguar se quedó solo con SUV hasta su relanzamiento eléctrico",
+      "Se quedó sin versiones híbridas enchufables: con etiqueta C de la DGT pierde frente a los A6, Serie 5 y Clase E con distintivo 0 emisiones",
+      "Los 60.000 euros de esta ficha son una estimación sin tarifa oficial detrás: km77 vendía el gasolina de 250 CV desde 56.071 euros en 2021",
+      "Jaguar recortó la gama en agosto de 2021 al eliminar el gasolina de 300 CV, dejando este 250 CV como techo sin opción más potente",
+      "El plan de revisiones de esta ficha se toma prestado del XE, no de un programa publicado específicamente para el XF X260"
     ],
     imagen: "/media/jaguar-xf-2024-hero.webp",
     imagenOficial: "/media/jaguar-xf-2024-2.webp",
@@ -2434,8 +2493,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     bateriaKwh: 11.4,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 4404,
     anchoMm: null,
@@ -2449,16 +2508,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "240 CV (176 kW)",
-      "0–100 km/h en 7,3 s",
-      "Batería de 11,4 kWh",
-      "Maletero de 420 l",
-      "5 estrellas EuroNCAP (2017)"
+      "Tracción total sin eje trasero mecánico: el 1.3 de gasolina mueve las ruedas delanteras y un motor eléctrico de 60 CV acciona las traseras, así este 4xe conserva el 4x4 también circulando en modo eléctrico",
+      "240 CV combinados con 7,3 s de 0 a 100 km/h y 200 km/h de punta: es la versión enchufable más potente de esta generación del Compass",
+      "Batería de 11,4 kWh y etiqueta Cero de la DGT, con un cargador de a bordo de 7,4 kW que según la prueba de Autonoción completa la recarga en unas 1,7 horas",
+      "El apellido Trailhawk suma el modo Rock al selector Selec-Terrain, placas protectoras en los bajos y paragolpes específicos que mejoran los ángulos de ataque y salida frente al resto de la gama Compass",
+      "Maletero de 420 litros pese a alojar la batería: Leasys solo echa en falta 18 litros frente al Compass de combustión, y abatiendo los asientos quedan 1.230 litros"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (5 estrellas del modelo base)"
+      "Sus 45.000 € son una estimación marcada como aproximada en esta ficha y no un PVP oficial cerrado, a cambio de una autonomía eléctrica declarada aquí de solo 45 km",
+      "La nota de seguridad que luce procede del Compass ensayado en 2017 con motor diésel: el 4xe enchufable de 240 CV nunca pasó por esa prueba y aquella calificación caducó en enero de 2024",
+      "El plan de revisiones publicado no es el de este 4xe, sino uno orientativo tomado del Renegade de la misma casa, y el conjunto enchufable deja el coche en unos 1.935 kg con conductor según los datos JATO de coches.net"
     ],
     imagen: "/media/jeep-compass-trailhawk-2025-hero.webp",
     imagenOficial: "/media/jeep-compass-trailhawk-2025-2.webp",
@@ -2531,15 +2590,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "272 CV (200 kW)",
-      "0–100 km/h en 8,5 s",
-      "Maletero de 1531 l"
+      "Es el único pick-up a la venta en España con puertas y techo que se desmontan y parabrisas que se abate, herencia directa del Wrangler del que deriva",
+      "Chasis de largueros y travesaños con ejes Dana 44 de tercera generación, rígidos delante y detrás, 4x4 Selec-Trac con reductora 2,72:1 y sello Trail Rated",
+      "Doble cabina de cinco plazas con caja trasera de acero de 153 cm en un conjunto de 5.591 mm, el pick-up más grande del mercado español",
+      "Supuso el regreso de Jeep a los pick-up tras 28 años de ausencia desde el Comanche, presentado en el Salón de Los Ángeles de 2018"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Sus 5.591 mm y una batalla de unos 3,48 m lo hacen incómodo en ciudad y penalizan su ángulo ventral frente a su base, el Wrangler de cinco puertas",
+      "Es el pick-up más caro de España: km77 lo situaba en 89.700 euros, muy por encima de un Ford Ranger o un Toyota Hilux, claramente más pequeños",
+      "Consumo elevado para el día a día: incluso el diésel europeo de 264 CV homologaba 9,6 l/100 km WLTP, y esta ficha estima 11,0 l/100 km",
+      "Euro NCAP nunca ha ensayado el Gladiator, y el Wrangler JL con el que comparte estructura obtuvo una sola estrella en la prueba de 2018",
+      "La gama española se limitó al Overland y a la Launch Edition con el diésel 3.0 V6 de 264 CV, homologado como comercial N1 con ITV más frecuentes que un turismo, y Jeep lo retiró de Europa con la FarOut Final Edition"
     ],
     imagen: "/media/jeep-gladiator-2025-hero.webp",
     imagenOficial: "/media/jeep-gladiator-2025-2.webp",
@@ -2612,17 +2673,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "293 CV (215 kW)",
-      "0–100 km/h en 8,0 s",
-      "Maletero de 487 l",
-      "7 plazas"
+      "V6 Pentastar atmosférico de 3,6 litros con 293 CV y 348 Nm, unido a un automático TorqueFlite de ocho velocidades que deja el 0 a 100 en 8,0 segundos",
+      "Estrenó en enero de 2021 la tercera fila que ningún Grand Cherokee había tenido: batalla de 3.091 mm, carrocería de 5.204 mm y hueco para seis o siete ocupantes",
+      "Con las tres filas en pie conserva 487 litros tras la tercera, muy por encima de los 311 litros de un Hyundai Palisade o los 258 de un Land Rover Discovery",
+      "Tres sistemas 4x4 a elegir —Quadra-Trac I, Quadra-Trac II y Quadra-Drive II— con Selec-Terrain de cinco modos y suspensión neumática Quadra-Lift disponible"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Su lanzamiento de 2021 fue para Norteamérica y Stellantis lo dejó fuera de EMEA; en España únicamente se ofreció el Grand Cherokee corto 4xe, así que un L exige recurrir a la importación",
+      "Al no homologarse para su venta aquí, la DGT no le asigna distintivo ambiental alguno, un hándicap en las zonas de bajas emisiones para un V6 de gasolina sin electrificar",
+      "Los 10,0 l/100 km figuran como cifra aproximada y sin homologación WLTP europea: el dato EPA estadounidense del 4x4 es de 21 mpg combinados y llenar su depósito de 87 litros sale caro",
+      "No existe calendario oficial español para este L: la pauta de la ficha viene del Grand Cherokee de dos filas y en Estados Unidos manda el avisador de cambio de aceite, con tope de 10.000 millas o 12 meses",
+      "Euro NCAP ensayó en 2022 el Grand Cherokee corto 2.0 4xe con cinco estrellas, pero el L de batalla larga quedó sin ensayo propio y por tanto sin calificación en ese programa"
     ],
     imagen: "/media/jeep-grand-cherokee-l-2025-hero.webp",
     imagenOficial: "/media/jeep-grand-cherokee-l-2025-2.webp",
@@ -2695,17 +2756,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "470 CV (346 kW)",
-      "0–100 km/h en 4,5 s",
-      "Maletero de 533 l",
-      "1 estrellas EuroNCAP (2018)"
+      "Motor HEMI V8 atmosférico de 6,4 litros —las 392 pulgadas cúbicas que le dan nombre— con 470 CV y 637 Nm: es el primer V8 montado en un Wrangler desde el CJ de 1981",
+      "El Wrangler de serie más rápido hasta la fecha: 4,5 segundos en el 0 a 60 mph y 13,0 segundos en el cuarto de milla, con cambio TorqueFlite de ocho marchas, tracción permanente Selec-Trac y relación de reptación de 48:1",
+      "Paquete Xtreme 35 de la Final Edition: neumáticos BFGoodrich de 35 pulgadas en llantas bronce de 17 con beadlock, cabrestante Warn de 8.000 libras y media pulgada extra de elevación, con 29,5 cm de altura libre y 87,6 cm de capacidad de vadeo",
+      "Maletero de 533 litros en esta carrocería de cuatro puertas, ampliable a 2.050 litros abatiendo la banqueta trasera, en un todoterreno que conserva el techo y las puertas desmontables"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "1 estrella EuroNCAP (prueba 2018, modelo base)"
+      "Jeep no lo incluye en su catálogo español —aquí la gama Wrangler gira en torno al 2,0 de 272 CV y al híbrido enchufable 4xe de 380 CV—, así que hacerse con un 392 exige importarlo desde Norteamérica y asumir transporte, aranceles y homologación individual",
+      "Incluso antes de ponerlo en Europa ya es un capricho caro: la Final Edition partía en Estados Unidos de 99.995 dólares sin contar el transporte a destino, tarifa de especialista de tirada corta y no de Wrangler convencional",
+      "Al no estar homologado para Europa carece de distintivo ambiental de la DGT, el que exigen las zonas de bajas emisiones de ciudades como Madrid, pese a tratarse de un gasolina",
+      "Sed acorde con un V8 de 6,4 litros sobre chasis de largueros: esta ficha lo estima en unos 14,0 l/100 km sin homologación europea que lo respalde y la EPA norteamericana lo deja en 14 mpg combinados, 13 en ciudad y 16 en carretera",
+      "La única referencia Euro NCAP de la generación JL es la del Wrangler Sahara de dos litros probado en 2018: una estrella, con un 50 % en protección de adultos, un 69 % en niños y solo un 32 % en asistentes por carecer entonces de frenada autónoma y de ayuda de mantenimiento de carril; el 392 nunca ha sido probado por separado",
+      "No existe un plan de mantenimiento europeo específico para el 392: el que recoge esta ficha se extrapola del Wrangler de gama general de la misma marca, así que intervalos y operaciones deben confirmarse con el manual norteamericano del V8 antes de darlos por cerrados"
     ],
     imagen: "/media/jeep-wrangler-rubicon-392-2025-hero.webp",
     imagenOficial: "/media/jeep-wrangler-rubicon-392-2025-2.webp",
@@ -2778,17 +2840,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "290 CV (213 kW)",
-      "0–100 km/h en 7,8 s",
-      "Maletero de 627 l",
-      "7 plazas"
+      "Motor V6 GDI de 3,5 litros con 290 CV y 355 Nm y cambio automático de ocho velocidades, el propulsor de la versión de gasolina del Carnival KA4",
+      "Puertas laterales traseras correderas con apertura eléctrica y carrocería de 5.155 mm disfrazada de SUV, su rasgo más reconocible frente a Toyota Sienna o Honda Odyssey",
+      "Habitáculo de siete plazas en esta configuración con la tercera fila escamoteable en el suelo y hasta 4.105 litros al abatir las filas según la prensa especializada, pensado para familias numerosas o transporte con chófer",
+      "Renovación de 2025 con iluminación Star Map, ópticas cúbicas verticales y doble pantalla curva de 12,3 pulgadas en las versiones altas, que acerca su salpicadero al del Sorento"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Kia ha decidido no ofrecerlo en los concesionarios españoles: Híbridos y Eléctricos ya advirtió de que su llegada a España no estaba prevista, así que quien lo quiera tendrá que acudir a la importación particular",
+      "Al carecer de homologación europea, la DGT no le concede distintivo ambiental alguno; una unidad importada quedaría fuera del sistema de etiquetas que ordena el acceso a las ZBE",
+      "Los 10,0 l/100 km figuran como cifra aproximada sin homologación WLTP para Europa, algo esperable de un V6 atmosférico moviendo un monovolumen de más de cinco metros, pero imposible de contrastar con un dato oficial español",
+      "No existe plan de revisiones español para el Carnival: el mantenimiento indicado se extrapola del Sorento de la misma casa, sin tarifas cerradas de Kia España para este V6 ni para el mecanismo de sus puertas correderas",
+      "Euro NCAP jamás ha evaluado esta cuarta generación: en euroncap.com no consta prueba alguna del Carnival, por lo que cualquier afirmación sobre su seguridad europea carece de respaldo en un ensayo publicado"
     ],
     imagen: "/media/kia-carnival-2025-hero.webp",
     imagenOficial: "/media/kia-carnival-2025-2.webp",
@@ -2813,22 +2875,22 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Kia Sorento, misma marca): revisión anual o cada 15.000 km",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Plan orientativo a partir del Kia Sorento (misma marca) ante la falta de plan oficial del Carnival para España; intervalo anual o cada 15.000 km sin costes publicados para este modelo.",
+      "intervalo": "Referencia extrapolada del Kia Sorento vendido en España ante la ausencia de programa español para el Carnival: visita anual al taller o cada 15.000 km, lo que llegue antes",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Según plan oficial u orientativo (ver fuente)",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Kia Sorento, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Kia Sorento (misma marca).",
+          "costeAproxEur": null,
+          "nombre": "Revisión anual extrapolada",
+          "queSeCambia": "Aceite de motor y su filtro más las inspecciones previstas en el plan del Sorento tomado como referencia; el Carnival V6 no tiene tabla propia publicada por Kia España"
+        }
+      ]
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP (no se vende en Europa).",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin prueba de Euro NCAP para el Carnival KA4: no consta ensayo publicado de esta generación en euroncap.com.",
+      "url": null
     },
   },
   {
@@ -2861,16 +2923,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "204 CV (150 kW)",
-      "0–100 km/h en 6,9 s",
-      "Maletero de 395 l",
-      "5 estrellas EuroNCAP (2019)"
+      "El 1.6 T-GDi de 204 CV a 6.000 rpm entrega sus 265 Nm entre 1.500 y 4.500 rpm: es la mecánica que Kia estrenó en los cee'd GT de 2013 y mantuvo como techo deportivo de la tercera generación del Ceed",
+      "Frenos delanteros de 320 mm, neumáticos Michelin Pilot Sport 4 de serie y una dirección de solo 2,44 vueltas entre topes lo separan del Ceed normal sin convertirlo en un compacto radical de circuito",
+      "Se pudo pedir con cambio manual de seis velocidades o con el DCT de siete relaciones con levas metálicas, una caja que esta generación del GT estrenó a petición de los clientes europeos",
+      "Conserva el maletero de 395 litros y el respaldo trasero abatible 60:40 del Ceed de cinco puertas, así que no obliga a renunciar al uso familiar del compacto",
+      "Con el paquete opcional de ayudas a la conducción, la familia Ceed logró en 2019 las cinco estrellas Euro NCAP, con un 88 % en protección de adultos y un 85 % en protección infantil"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (5 estrellas del modelo base)"
+      "Los 33.000 euros de esta ficha son una estimación sin tarifa oficial detrás: el Ceed GT de esta generación se lanzó en España desde 24.978 euros con descuentos incluidos, así que la cifra actual no debe leerse como PVP",
+      "Es un gasolina puro con etiqueta C y sin electrificación alguna, mientras otros Ceed de la gama con hibridación ligera lucen etiqueta ECO: en zonas de bajas emisiones sale perdiendo frente a sus propios hermanos",
+      "Su plan de mantenimiento sigue siendo el orientativo del Ceed genérico, sin la tabla específica del 1.6 T-GDi de 204 CV: antes de presupuestar revisiones conviene contrastarlo con el manual de esta versión",
+      "El GT nunca tuvo ensayo Euro NCAP con su nombre y las cinco estrellas de 2019 no venían de serie: el Ceed obtuvo cuatro estrellas con el equipamiento estándar y la quinta solo al montar el paquete opcional de ayudas"
     ],
     imagen: "/media/kia-ceed-gt-2025-hero.webp",
     imagenOficial: "/media/kia-ceed-gt-2025-2.webp",
@@ -2943,18 +3006,18 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "292 CV (215 kW)",
-      "0–100 km/h en 5,7 s",
-      "Autonomía WLTP de 501 km",
-      "Batería de 81,4 kWh",
-      "Maletero de 460 l",
-      "5 estrellas EuroNCAP (2024)"
+      "Doble motor con reparto asimétrico propio del GT: 145 kW en el eje delantero y 70 kW en el trasero, 292 CV y 468 Nm en un SUV de solo 4,31 m",
+      "Botón GT Mode con suspensión electrónica Preview ECS y vectorización dinámica de par eDTVC, tecnología heredada de los EV6 GT y EV9 GT",
+      "Cambio de marchas virtual VGS con sonido activo e-ASD: simula las reacciones de un térmico para implicar al conductor y se puede desconectar",
+      "Monta la batería grande de la gama EV3, de 81,4 kWh, y aun así firma 501 km de autonomía WLTP con tracción total y llantas de 20 pulgadas",
+      "Carga rápida del 10 al 80 % en 31 minutos y carga en alterna de hasta 22 kW, una opción poco habitual entre los SUV eléctricos compactos",
+      "Habitáculo específico GT: asientos semibaquet de ante con detalles en verde neón, volante propio, pedales deportivos y equipo de sonido Harman Kardon"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Mantenimiento orientativo (modelo similar)",
-      "Variante sin prueba EuroNCAP específica (5 estrellas del modelo base)"
+      "Se presentó en el Salón de Bruselas de enero de 2026 y su producción arranca en el segundo trimestre: Kia todavía no ha publicado el precio oficial para España",
+      "El motor trasero reduce el maletero a 413 litros en medición VDA, por debajo de los 460 litros de los EV3 de tracción delantera",
+      "Euro NCAP no ha ensayado la versión GT, y la nota del EV3 en 2025 no es un 5 limpio: son 4 estrellas de serie y 5 solo con el paquete de seguridad opcional",
+      "En cifras puras queda lejos de su rival más directo: el Volvo EX30 Twin Motor declara 428 CV y un 0-100 km/h en 3,6 s frente a sus 292 CV y 5,7 s"
     ],
     imagen: "/media/kia-ev3-gt-2026-hero.webp",
     imagenOficial: "/media/kia-ev3-gt-2026-2.webp",
@@ -2979,22 +3042,22 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Kia EV3, misma marca): revisión anual; sin mantenimiento de motor térmico",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Programa de servicio oficial de Kia para vehículos eléctricos (revisión cada 15.000 km o 12 meses) y términos oficiales de Kia para el EV3; coste no publicado por la marca para esta versión, por eso queda sin cifra.",
+      "intervalo": "Sin calendario GT específico publicado por Kia España: rige el programa del EV3 eléctrico, con revisión cada 12 meses o 15.000 km, lo primero que ocurra, según el plan oficial de Kia para sus eléctricos",
+      "revisiones": [
         {
-          nombre: "Revisión periódica",
-          queSeCambia: "Según plan oficial u orientativo (ver fuente)",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Kia EV3, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Kia EV3 (misma marca).",
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica del EV3 GT",
+          "queSeCambia": "Inspección de frenos, batería de alta tensión y sistema eléctrico, filtro del climatizador, líquido de frenos y refrigerante según calendario Kia; al ser eléctrico no hay aceite de motor, bujías ni escape que sustituir"
+        }
+      ]
     },
     euroncap: {
-      estrellas: 5,
-      ano: 2024,
-      url: null,
-      nota: "Kia EV3 base: 5 estrellas EuroNCAP (2024). Variante GT sin prueba específica.",
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Kia EV3 (gama base) ensayado por Euro NCAP en mayo de 2025: 5 estrellas solo con el paquete de seguridad opcional (83 % ocupante adulto, 84 % infantil, 78 % usuarios vulnerables y 78 % asistentes); con el equipamiento de serie, 4 estrellas. La versión GT no tiene prueba específica.",
+      "url": "https://www.euroncap.com/en/results/kia/ev3/54884"
     },
   },
   {
@@ -3027,16 +3090,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "204 CV (150 kW)",
-      "0–100 km/h en 7,9 s",
-      "Autonomía WLTP de 452 km",
-      "Batería de 64,0 kWh",
-      "Maletero de 315 l"
+      "Silueta de caja inconfundible: hereda el diseño cúbico de las dos primeras generaciones del Soul y lo traduce en mucho espacio para la cabeza dentro de solo 4,20 m de largo",
+      "Empuje serio para un urbano: sus 204 CV y los 395 Nm del motor delantero, entregados desde parado, le permiten acelerar hasta los cien por hora en menos de ocho segundos",
+      "La batería Long Range de 64 kWh homologa 452 km WLTP, casi el doble que la versión de acceso de 39,2 kWh y 276 km que Kia destinaba a un uso puramente urbano",
+      "Garantía Kia de 7 años o 150.000 km que cubre también el motor eléctrico y la batería, muy por encima de lo habitual entre los eléctricos de su época",
+      "Interior de monovolumen en cuerpo de segmento B: cinco plazas y un maletero que pasa de 315 a 1.339 litros abatiendo la segunda fila en proporción 60:40"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)",
-      "Sin datos EuroNCAP"
+      "Descatalogado en España desde diciembre de 2023 y relevado por el EV3: en 2024 ya no salía en el configurador oficial, así que toca buscar stock o segunda mano",
+      "Euro NCAP nunca probó esta tercera generación: no hay estrellas que avalen su seguridad, y las notas publicadas en 2014 corresponden al Soul EV anterior, no a este",
+      "Los 38.000 € son una aproximación sin PVP oficial vigente y el plan de mantenimiento está tomado del Niro EV, no de un plan propio publicado para el e-Soul"
     ],
     imagen: "/media/kia-soul-ev-2024-hero.webp",
     imagenOficial: "/media/kia-soul-ev-2024-2.webp",
@@ -3109,16 +3172,20 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
     pros: [
-      "366 CV (269 kW)",
-      "0–100 km/h en 4,9 s",
-      "Maletero de 406 l",
-      "5 estrellas EuroNCAP (2017)",
-      "Velocidad máxima de 270 km/h"
+      "Su V6 biturbo de 3,3 litros entrega los 366 CV y 510 Nm de esta ficha y catapulta a este gran turismo hasta los cien en menos de cinco segundos, con 270 km/h de punta: fue el Kia de producción más prestacional de su época",
+      "Su chasis se pulió en Nürburgring bajo la supervisión de Albert Biermann, ex responsable de BMW M, con frenos Brembo de 350 mm delante y 340 mm detrás y amortiguación adaptativa regulable desde los modos de conducción",
+      "En España el V6 se vendió solo con tracción total y cambio automático de ocho velocidades, con un reparto de par variable que puede enviar hasta el 100 % al eje trasero",
+      "Nació del GT Concept de 2011 y lo dibujó en Fráncfort el equipo de Peter Schreyer y Gregory Guillaume: un fastback de cinco puertas y 4,83 m pensado contra el Audi A5 Sportback y el BMW Serie 4 Gran Coupé",
+      "En el ensayo de Euro NCAP de 2017 logró las cinco estrellas con un 93 % en protección de ocupantes adultos y un 82 % en asistentes de seguridad",
+      "Se vendió con la garantía exclusiva de Kia de siete años o 150.000 km, transferible al siguiente propietario si se cumple el mantenimiento periódico"
     ],
     contras: [
-      "Precio aproximado no oficial",
-      "Consumo aproximado no oficial",
-      "Mantenimiento orientativo (modelo similar)"
+      "Los 55.000 euros y los 10,5 l/100 km de esta ficha figuran como cifras aproximadas, no como PVP ni consumo oficiales cerrados, y la sed del V6 biturbo es en cualquier caso la de un gran turismo de 366 CV",
+      "Ya no se fabrica: Kia anunció su despedida en diciembre de 2022 con la Tribute Edition limitada a 1.000 unidades y la producción cesó en 2023, sin relevo térmico directo, así que no hay gama 2024 nueva a la venta",
+      "La caída de techo tipo cupé deja el hueco para la cabeza justo a quien supere 1,80 m en las plazas traseras, y la plaza central es estrecha y convive con un túnel de transmisión voluminoso",
+      "El maletero se queda en 406 litros para un coche de 4,83 m: el Audi A5 Sportback y el BMW Serie 4 Gran Coupé, sus rivales declarados, anuncian 480 litros",
+      "El plan de revisiones que acompaña a esta ficha no es el propio del Stinger V6, sino uno orientativo tomado del Ceed GT de la misma marca, con una única revisión genérica y sin costes",
+      "La versión de tracción total vendida en España no monta diferencial autoblocante mecánico, pese a su reparto de par de claro sesgo trasero"
     ],
     imagen: "/media/kia-stinger-2024-hero.webp",
     imagenOficial: "/media/kia-stinger-2024-2.webp",
@@ -3155,10 +3222,10 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       fuente: "Mantenimiento orientativo (modelo similar Kia Ceed GT, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Kia Ceed GT (misma marca).",
     },
     euroncap: {
-      estrellas: 5,
-      ano: 2017,
-      url: null,
-      nota: "5 estrellas EuroNCAP (Kia Stinger, 2017).",
+      "ano": 2017,
+      "estrellas": 5,
+      "nota": "5 estrellas Euro NCAP (Kia Stinger, 2017): 93 % en ocupantes adultos, 81 % en ocupantes infantiles, 78 % en peatones y 82 % en asistentes de seguridad.",
+      "url": "https://www.euroncap.com/en/results/Kia/Stinger/29545"
     },
   },
   {
@@ -3191,16 +3258,16 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "354 CV (260,3 kW)",
-      "0–100 km/h en 6,5 s",
-      "Maletero de 292 l",
-      "7 plazas"
+      "Todoterreno de verdad: bastidor de largueros sobre la plataforma GA-F, la misma arquitectura del Toyota Land Cruiser 300 y del Lexus LX, frente a los SUV monocasco de sus rivales premium",
+      "El V6 de 3,4 litros biturbo entrega 354 CV y 650 Nm y jubiló al V8 atmosférico de 4,6 litros del anterior GX 460, con cambio automático de 10 marchas",
+      "La versión Overtrail añade bloqueo del diferencial trasero, suspensión E-KDSS que libera las estabilizadoras y neumáticos todoterreno de 33 pulgadas sobre llanta de 18",
+      "Siete plazas en tres filas y tracción total permanente con reductora: puede con familias grandes y con pistas serias sin cambiar de coche"
     ],
     contras: [
-      "No se vende en España (precio del mercado de origen)",
-      "Sin etiqueta DGT asignada (no se vende en España)",
-      "Precio aproximado no oficial",
-      "Sin datos EuroNCAP"
+      "Lexus no lo incluye en su gama europea: comprarlo en España significa recurrir a un importador paralelo, sin precio oficial de la marca para nuestro mercado",
+      "Su V6 biturbo declara 13,8 l/100 km en el ciclo del mercado norteamericano y la DGT no le asigna etiqueta porque nunca se homologó para venderse aquí",
+      "Desplegada la tercera fila, quedan solo 292 litros de maletero, muy poco para un todoterreno de 5,01 metros pensado para viajar en familia",
+      "Ni Euro NCAP ni ANCAP lo han ensayado: trae el paquete Lexus Safety System+ 3.0, pero no existe nota de choque publicada que lo respalde"
     ],
     imagen: "/media/lexus-gx-550-hero.webp",
     imagenOficial: "/media/lexus-gx-550-2.webp",
@@ -3258,8 +3325,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 4680,
     anchoMm: null,
@@ -3273,13 +3340,17 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "223 CV (164,0 kW)",
-      "0–100 km/h en 8,4 s",
-      "Maletero de 450 l",
-      "5 estrellas EuroNCAP (2013)"
+      "Fue el primer IS híbrido de la historia del modelo: presentado en el Salón de Detroit en enero de 2013 y a la venta en Europa desde junio de ese año, combina un 2,5 de ciclo Atkinson de 181 CV con un motor eléctrico de 143 CV para sumar 223 CV sobre las ruedas traseras",
+      "Euro NCAP lo declaró el mejor de su clase familiar grande en 2013, con cinco estrellas y un 91 % en protección de adultos, un 85 % en niños y un 80 % en peatones, ayudado por el capó activo que se eleva al detectar un atropello",
+      "Etiqueta ECO de la DGT con el consumo de 5,7 l/100 km declarado en esta ficha: en ciudad puede circular en modo eléctrico hasta unos 50 km/h, que es donde su sistema híbrido más ventaja saca a los diésel a los que sustituyó en la gama IS",
+      "La batalla creció 70 mm hasta los 2,80 m frente al IS anterior y al presentarlo Lexus presumía de la mejor habitabilidad trasera de su segmento, algo raro en una berlina premium de propulsión trasera"
     ],
     contras: [
-      
+      "Su cambio de variador continuo no acompaña a los 223 CV en aceleraciones largas: mantiene el motor térmico en régimen alto y la sensación de empuje queda por debajo de lo que prometen las cifras, la queja que recogen las pruebas y los propietarios de la época",
+      "La plaza central trasera es casi testimonial, porque el túnel de transmisión, inevitable en una berlina de propulsión trasera, roba el hueco para las piernas del quinto ocupante",
+      "El maletero de 450 litros tiene una boca de carga limitada por la forma de la carrocería y nunca hubo una versión familiar, una ventaja práctica que sí ofrecían sus rivales alemanes del segmento D",
+      "La interfaz del sistema multimedia fue el punto peor valorado del modelo: la revista Auto Express la califica de frustrante y señala que era lo único que bajaba la nota de los propietarios en su encuesta Driver Power",
+      "Ya no se vende nuevo en España: el IS cesó su comercialización a principios de 2021 por la normativa Euro 6d-Full y la generación posterior no llegó a Europa, así que hoy solo se encuentra en el mercado de ocasión"
     ],
     imagen: "/media/lexus-is-300h-hero.webp",
     imagenOficial: "/media/lexus-is-300h-2.webp",
