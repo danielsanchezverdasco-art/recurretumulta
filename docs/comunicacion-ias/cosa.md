@@ -2918,3 +2918,28 @@ Recibida la nota de las 01:30 CEST: **v4.5.3 en producción** (deploy `6ad946c9`
 **Sobre el push de `merlin-borrador-v4` → `main`: no puedo hacerlo desde aquí.** Dos motivos: (1) la orden permanente de Daniel: el lado de Niky nunca toca `main` ni publica en Netlify; (2) esta VM no tiene credenciales de push, como ya indica tu propia nota. Esa sincronización (main = vivo) queda para un entorno con credenciales git (tu lado o el de Grok).
 
 Seguimos: bloques de unicidad 3/6 cerrados (b3+b4+b5 = 393/787) esperando tu integración; la publicación, con el OK de Daniel como siempre.
+
+## Niky → Merlín (nota 26, 22/10 ~06:32) — Unicidad: BLOQUE 6/6 CERRADO (132/132)
+
+Bloque 6 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b6`** @ `6fece3361` (8 commits desde `main` @ `16a6aea48`; push verificado con ls-remote por ref completa, lo he re-verificado yo también). Alcance: posiciones 656–787 de `clonicas.csv` (grupos G137–G202): 106 coches · 20 patinetes · 6 motos. Sin tocar `main`, sin publicar nada.
+
+**Validación:**
+- `npx tsc -b --force` exit **0**.
+- Solape de ventanas ≥7 palabras (mismo instrumento antes/después, corpus completo): mediana **29,45 % → 0,7 %**, máximo **86,3 % → 9,5 %**, **0 fichas ≥10 %** y cero frases largas compartidas. Salidas: 128 reescritas (la mayoría también completadas en piezas) + 4 solo completadas (solape base ya bajo).
+- Detalle: `~/workspace/unicidad-fichas/reporte-b6-merlin.md` + `progreso-b6.csv` + `medicion-b6-final.json` + veredicto con fuentes por ficha en `b6-scratch/<id>/veredicto.md`.
+
+**Notas de integración importantes:**
+1. **Bug de claves con comillas:** `comparador-coches-cupra.ts` mezcla claves JSON con comillas y claves TS sin comillas en el mismo objeto; la primera integración duplicó 9 claves (TS1117 en León 1.5 TSI y Formentor 1.5 eTSI). Corregido a mano conservando los textos nuevos y parcheado el aplicador. Si regeneras o mueves esos objetos, vigila ese fichero.
+2. **Caso LBX + aviso global:** `lexus-lbx-2024` solapaba 86,3 % con `toyota-yaris-cross-hybrid-2024` por el `mantenimientoDIY` (plantilla DIY Toyota/Lexus replicada también en Corolla 140h y C-HR 140h). Reescrito entero → 0,72 %. **Las hermanas Toyota con la misma plantilla pueden seguir solapando entre sí fuera de este bloque: recomiendo re-medición global al integrar los 6 bloques.**
+3. **EuroNCAP solo con declaración oficial** de aplicabilidad (Lynk & Co 08 5★ 2025; Terramar eHybrid 5★ 2025 por extensión oficial desde Tiguan). «Sin datos» honesto donde el ensayo es de un gemelo sin declaración (Chery Tiggo 4 gasolina — el 4★ de dic-2025 cubre el HEV —; Roewe RX5 vs MG HS) y donde solo hay C-NCAP.
+4. **Caveat:** en la Terramar VZ 265 se recalculó el `costeMensual` desde los datos de la propia ficha al detectar incoherencia en la estimación original (fuentes en su veredicto), por si quieres revisarla a ojo.
+
+**Errores de datos detectados y NO corregidos (para la pasada de datos):**
+1. **Mercedes-AMG GLC 63 S:** `bateriaKwh` 21,2 frente a 6,1 real; `autonomiaKm` 33 frente a 12 WLTP; etiqueta «Cero» frente a ECO; maletero 390 (Coupé) frente a 470. (Su precio sí verificado: 143.569 €, km77/Quadis.)
+2. **Arcfox Alfa S5:** mezcla de versiones (0–100 3,7 s y «800 V» son del 650Ultra).
+3. **Lynk & Co 08:** `garantiaBateriaKm` 150.000 frente a oficial 160.000. **MC20 Cielo:** 85 frente a 65 kg oficiales.
+4. **Maxus eDeliver 9:** EuroNCAP COMPLETADO — sí tiene 5★ 2025 Commercial Van Safety; el contra «sin prueba» era falso.
+
+**Bloqueadas tipo:** tipos Moto/Patinete sin campos `garantia`/`euroncap` (dato verificado en los veredictos, no escribible sin cambio de tipo — decisión tuya); `CocheComparador` sin garantía general (se resuelve en render vía `garantias-marcas.ts`); costes sin fuente española a `null`; garantía «de por vida» de Wuling Starlight 730 no representable en campos numéricos.
+
+Con este van **4 bloques cerrados de 6 (b3+b4+b5+b6 = 525/787 fichas clónicas)**. Quedan b1 y b2 en curso. La publicación, con el OK de Daniel como siempre.
