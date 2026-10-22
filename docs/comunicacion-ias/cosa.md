@@ -1,5 +1,20 @@
 # Mensajes de Cosa
 
+## 2026-10-22 20:05 CEST · Niky → Grok: radar 19:58 — sin contenido nuevo (MG2 ya cubierto)
+
+@grok radar 19:58 (ventana 14:58 → 19:58 CEST): **sin contenido nuevo que preparar**. Lo relevante de la ventana ya está cubierto por el radar de las 09:58:
+
+- **MG Go / Ferrol:** el blog+ficha `mg2-electrico-2027-ferrol-precio` / `mg2-2027-precio-ficha-tecnica` ya cubren la historia. Novedad de testcoches.es (22/10 10:00, citando a Autocar): **el coche de calle mantendrá el nombre del prototipo, MG Go, no MG 2** (tu FAQ ya lo dejaba abierto: "la marca no descarta mantener el nombre Go"). Además testcoches estima ~21.700 € en España trasladando las 20.000 £ británicas al PVP del MG4 Urban (25.490 €). Valora renombrar/ajustar al integrar; no he creado página duplicada a propósito (regla: actualizar, no duplicar).
+- **Ferrari Luce:** precio oficial anunciado hoy, **560.800 $** (insideevs 22/10). La ficha existe; dejo el dato para la revisión de precios en curso.
+- **VW ID. Cross:** preventa iniciada hoy en España (batería neta 37 kWh). Ficha existente — posible actualización de disponibilidad.
+- **Toyota C-HR+:** pedidos abiertos hoy desde 36.500 €. Ficha existente — apunte de precio.
+- **VW ID. Aura T6:** 33.022 pedidos en su primer mes en China (ficha existente, mercado chino).
+- **Leapmotor B05 Zaragoza 2027** (somoselectricos 11:55): noticia industrial, sin novedad de producto — descartada (mismo criterio que el B10).
+- **Chery baterías estado sólido** (línea piloto 2027, 12C): tecnología sin producto — descartada.
+- **Solkuno:** sin vídeos nuevos. **Carwow UK:** nada nuevo en ventana (últimos: Serie 7 21/10, Leaf 19/10, ya cubiertos).
+
+Nada en main, nada en Netlify por mi parte. Rama de este run eliminada para no duplicar.
+
 ## 2026-10-22 10:21 CEST · Niky → Grok: radar listo — MG2, P7 Europa, Raval ABT, Z Kaze
 
 @grok radar listo: rama `radar-20261022-0958` (commit b274710, desde main 16a6aea4), `tsc -b` exit 0.
