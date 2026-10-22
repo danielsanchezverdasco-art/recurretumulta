@@ -663,24 +663,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 374 cc con 21 CV (15,4 kW) y 29 Nm de par",
-      "Peso declarado de 205 kg en orden de marcha",
-      "Depósito de 12 l",
-      "Asiento a 780 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 3.990 €"
+      "Monocilíndrico de carrera larga, 72,7 × 90 mm y compresión 8,5:1, que entrega los 29 Nm a solo 4.500 rpm para rodar sin estirar marchas",
+      "Herencia MotoBi de los años cincuenta en el depósito en forma de gota con almohadillas laterales, el faro redondo y el asiento partido en dos piezas",
+      "Chasis doble cuna de acero con llantas de radios de 19 pulgadas delante y 18 detrás, como mandaba la receta clásica que imita",
+      "Doble disco con ABS de doble canal —300 mm delante y 240 mm detrás— en una retro de este precio que nació para plantar cara a la Royal Enfield Classic",
+      "Consumo homologado de 3,1 l/100 km en la versión Euro 5, con inyección electrónica Delphi y caja de cinco velocidades",
+      "Instrumentación de doble esfera analógica con ventana LCD integrada, sin renunciar al cuentarrevoluciones separado de las motos de antes"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía sin datos verificados del fabricante en las fuentes consultadas",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Los 205 kg en orden de marcha se notan para solo 21 CV: en maniobras en parado y al adelantar exige anticipación, no es una moto ágil",
+      "Su ritmo natural es el paseo tranquilo; la entrega a 5.500 rpm y la caja de cinco velocidades dejan poco margen para viajes largos por autovía a plena carga",
+      "El depósito se queda en 12 litros contando 2 de reserva, autonomía justa para rutas largas frente a rivales con depósitos mayores",
+      "El recorrido trasero es muy corto, entre 55 y 65 mm según la versión, y el doble amortiguador solo regula precarga: los baches secos llegan directos a la espalda",
+      "El importe de 3.990 € figura como aproximado y prensa española reciente situó la Euro 5 en 4.390 €, así que el coste final puede ser sensiblemente mayor"
     ],
     curiosidades: [
-      "2019: nace Imperiale 400",
-      "2024-2025: continuidad",
-      "2026: continuidad"
+      "1950: Giuseppe Benelli abandona la empresa familiar tras una disputa y funda MotoBi en Pesaro; Benelli acabaría comprando MotoBi en 1962",
+      "Las MotoBi Imperiale originales de los años cincuenta son la referencia estética directa que esta 400 recrea con cromados, guardabarros envolventes y llantas de radios",
+      "Presentada en el EICMA con llegada prevista para 2018, entró en producción en 2019 y se lanzó ese año en India y Europa como alternativa italiana a las Royal Enfield Classic",
+      "La adaptación a Euro 5 mantuvo motor y parte ciclo, pero retocó escape y admisión, recalibró la inyección e incorporó inyección de aire secundario para el arranque, además de nuevos gráficos y logotipo en relieve plateado en el depósito"
     ],
     imagen: "/media/benelli-imperiale-400-2026-hero.webp",
     galeria: [
@@ -698,16 +699,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-imperiale-400-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de Garantía y Mantenimiento Benelli Imperiale 400 (Auteco Mobility) — tabla de mantenimiento periódico específica del modelo",
+      "intervalo": "Primera revisión a los 1.000 km y después cada 5.000 km (5.000, 10.000, 15.000 y 20.000 km) según el manual específico de la Imperiale 400",
+      "revisiones": [
         {
-          nombre: "Revisión cada 6.000 km",
-          queSeCambia: "Servicio periódico (orientativo, modelo similar TRK 502)",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje a los 1.000 km",
+          "queSeCambia": "Inspección general según tabla del manual: filtro de aceite, funcionamiento del acelerador, cadena de transmisión, frenos, batería y apriete de tornillería"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión cada 5.000 km",
+          "queSeCambia": "Cambio de aceite de motor y filtro de aceite en cada servicio; inspección de bujía, filtro de combustible, mangueras, embrague, suspensión y dirección"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisiones mayores a los 10.000 y 20.000 km",
+          "queSeCambia": "Sustitución de bujía y filtro de combustible a los 10.000 y 20.000 km; sustitución del líquido de frenos DOT 4 a los 20.000 km; revisión del juego de válvulas cada 25.000 km si lo requiere"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      ]
     },
   },
   {
@@ -734,24 +745,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 754 cc con 76 CV (56 kW) y 67 Nm de par",
-      "Peso declarado de 224 kg en orden de marcha",
-      "Depósito de 15 l",
-      "Altura de asiento de 825 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 6.990 €"
+      "Bicilíndrico de 754 cc compartido con la Leoncino 800 de asfalto, con cuerpos de mariposa de 43 mm y embrague antirrebote para dosificar la entrega fuera del asfalto",
+      "Rueda delantera de 19 pulgadas con llanta de radios tubeless y neumático Pirelli Scorpion Rally STR, frente a la llanta de aleación de 17 de su hermana rutera",
+      "Doble escape elevado por el costado y placa lateral con el dorsal 800, los dos rasgos con los que Benelli la presentó en el EICMA 2021",
+      "Horquilla invertida Marzocchi de 50 mm y recorrido ampliado a 140 mm, que deja 191 mm de altura libre al suelo frente a los 162 mm de la versión de carretera",
+      "Frenada con doble disco semiflotante de 320 mm y pinza radial de cuatro pistones delante, más un disco de 260 mm detrás",
+      "Alternativa scrambler bastante más barata que la Ducati Scrambler Desert Sled y la Triumph Street Scrambler, a las que Motorbike Magazine enfrenta directamente con esta Trail"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Por encima de 230 kg en orden de marcha según las pruebas españolas, un lastre claro en tierra lenta que obliga a anticipar cada maniobra y a rodar con tiento en pistas",
+      "El ABS trasero no se puede desconectar, un fallo señalado por Mototaller como imprescindible de resolver para rodar de verdad fuera del asfalto",
+      "El asiento queda en 834 mm tras subir desde los 805 mm de la Leoncino 800, así que los pilotos bajos pierden la accesibilidad de la versión rutera",
+      "Los 6.990 euros de esta ficha no cuadran con los 7.490 euros que Motofichas asigna a la Trail 2021-2024, por lo que el importe final hay que cerrarlo con el importador",
+      "El plan de revisiones de la ficha se apoya en la TRK 502, cuando el manual de garantía y mantenimiento de la propia 800 Trail fija intervalos y cambio de aceite cada 5.000 km"
     ],
     curiosidades: [
-      "1951: Leoncino original",
-      "2017: Leoncino 500 revive la saga",
-      "2021: Leoncino 800 Trail"
+      "1951: nace en Pesaro la primera Leoncino, con motores de 98 y 125 cc, y se mantiene en producción hasta 1971",
+      "La saga vuelve con la Leoncino 500 presentada en Milán en 2015, que recupera el león del guardabarros delantero tras más de cuarenta años de ausencia",
+      "2021: la 800 Trail debuta en el EICMA y se lleva una mención de honor en el premio a la moto más bonita del salón, según Bike Review"
     ],
     imagen: "/media/benelli-leoncino-800-trail-2026-hero.webp",
     galeria: [
@@ -1165,24 +1176,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor eléctrico de 11 kW (15 CV) con 55 Nm de par",
-      "15 CV: el máximo legal para el carnet A1",
-      "Peso declarado de 132 kg en orden de marcha",
-      "Asiento a 750 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A1/A2",
-      "Precio aproximado desde 8.425 €"
+      "Con 55 Nm desde parado y el 0 a 50 km/h en unos 3 segundos, sale de los semáforos como ninguna 125 de gasolina",
+      "No es scooter ni moto al uso: BMW la creó como eParkourer urbana, con bastidor tubular de acero de doble bucle y basculante monobrazo",
+      "Modos Flow para el tráfico denso y Surf para salir de la ciudad de serie, con control de estabilidad ASC y RSC de recuperación",
+      "Asistente de marcha atrás, arranque Keyless y correa dentada: maniobrar en un hueco justo y olvidarse de engrasar cadena",
+      "Cuadro TFT de 3,5 pulgadas con toma USB-C y app BMW Motorrad Connected que avisa del fin previsto de la carga",
+      "Sillín a solo 750 mm y 132 kg con el peso muy centrado: se mueve entre coches casi como una bicicleta grande"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Los 8.425 € de esta versión de 11 kW la colocan en precio de moto mayor, muy lejos de lo que cuesta moverse en 125 por ciudad",
+      "Más de 90 km WMTC y 95 km/h de punta la condenan a la ciudad y su periferia: para circunvalaciones diarias largas se queda corta",
+      "El ABS actúa únicamente sobre la rueda delantera, algo difícil de justificar en una BMW de este precio",
+      "El cargador de serie es de solo 0,9 kW; el rápido de 1,5 kW y el tercer modo Flash llegan únicamente con el paquete Highline u opcionales",
+      "Sin el Highline te quedas sin soporte de móvil con Connected Ride Control ni puños calefactables: buena parte de su gracia tecnológica se paga aparte"
     ],
     curiosidades: [
-      "2023: nace CE 02",
-      "2025: continuidad",
-      "2026: continuidad"
+      "Se presentó el 7 de julio de 2023, dos años después de la CE 04 y en pleno centenario de BMW Motorrad, como su segunda eléctrica",
+      "El nombre eParkourer mezcla parkour y tourer porque BMW no quiso llamarla ni e-scooter ni e-motorcycle",
+      "El paquete Highline se reconoce por las horquillas anodizadas en dorado y el color Petrol, y en 2025 la batería pasó a poder extraerse para cargarla fuera de la moto"
     ],
     imagen: "/media/bmw-ce-02-2026-hero.webp",
     galeria: [
@@ -1241,25 +1252,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 895 cc con 105 CV (77,2 kW) y 93 Nm de par",
-      "Peso declarado de 246 kg en orden de marcha",
-      "Depósito de 23 l",
-      "Altura de asiento de 850 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 15.640 €"
+      "Bicilíndrico en línea de 895 cc con encendido desfasado 270/450 grados: 105 CV a 8.500 rpm y 93 Nm a 6.750 rpm, 10 CV más que la F 850 GS Adventure a la que sustituye",
+      "Depósito de 23 litros frente a los 14,5 litros de la F 900 GS estándar: es la diferencia que define a esta Adventure para enlazar etapas largas sin repostar",
+      "Rueda delantera de 21 pulgadas con llantas de radios cruzados y recorridos de suspensión de 230 mm delante y 215 mm detrás, planteamiento de enduro touring y no de trail asfáltica",
+      "Pantalla TFT de 6,5 pulgadas, ABS Pro y control de tracción DTC de serie, con dos modos de conducción Rain y Road en la dotación básica",
+      "Carga útil declarada de 209 kg sobre un peso máximo admisible de 455 kg, margen real para viajar a dúo con maletas de aluminio",
+      "PVP de 15.640 € publicado en la web oficial de BMW Motorrad España para Península y Baleares, con IVA, transporte e impuesto de matriculación incluidos"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "246 kg: pesada en parado y en maniobras lentas",
-      "Asiento alto (850 mm): complicada para pilotos de poca estatura"
+      "Sus 246 kg en orden de marcha son 27 kg más que la F 900 GS estándar de 219 kg: con el depósito de 23 litros lleno se notan en maniobras en parado y al moverla en pistas lentas",
+      "Asiento de serie a 875 mm del suelo: BMW ofrece asientos de 860, 835 y 825 mm y un chasis rebajado que deja 805 mm, pero son opciones y no la configuración de partida",
+      "No hay versión de 35 kW para el carnet A2 en esta Adventure: en la gama F esa versión existe solo en la F 800 GS, así que aquí hace falta el carnet A sin limitación",
+      "Parte del equipamiento viajero que anuncia, como el Dynamic ESA, los modos de conducción Pro o el asistente de cambio Pro, va en paquete Ride Pro u opciones de fábrica y eleva la factura sobre los 15.640 € de base",
+      "Llega con neumáticos sin tacos de serie pese a la rueda de 21 pulgadas y los recorridos largos: para un uso fuera de pista continuado toca presupostar un juego mixto o de tacos",
+      "La revisión anual es obligatoria aunque no se alcancen los 10.000 km en el año, según el concepto de intervalos de BMW Motorrad: no es una moto de pasar por taller solo cuando suma kilómetros"
     ],
     curiosidades: [
-      "2024: nace F 900 GS Adventure",
-      "2025: consolidación",
-      "2026: continuidad"
+      "2018: el bicilíndrico de la serie F debuta en la F 850 GS con 853 cc; la Adventure de 2024 lo hereda ya crecido a 895 cc",
+      "2024: nace la F 900 GS Adventure al subir el diámetro de los pistones 2 mm, con pistones forjados, compresión de 13,1:1 y 10 CV más que su antecesora de 853 cc",
+      "2026: dentro de la misma plataforma conviven tres enfoques distintos: F 800 GS de 87 CV limitable para el A2, F 900 GS ligera de depósito de 14,5 litros y esta Adventure de 23 litros pensada para viajar"
     ],
     imagen: "/media/bmw-f-900-gs-adventure-2026-hero.webp",
     galeria: [
@@ -1277,21 +1288,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-f-900-gs-adventure-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Plan de mantenimiento del manual BMW Motorrad de la F 900 GS Adventure e intervalos de mantenimiento de BMW Motorrad (revisión anual independiente del kilometraje y mantenimiento adicional cada 10.000 km)",
+      "intervalo": "Cada año o 10.000 km (lo que ocurra primero)",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión anual o de 10.000 km",
+          "queSeCambia": "Prestación estándar BMW Motorrad con sustitución del aceite del motor y del filtro de aceite, según el plan de mantenimiento del manual de la F 900 GS Adventure"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión de 20.000 km",
+          "queSeCambia": "Además de la prestación estándar: comprobación del juego de válvulas, cambio de todas las bujías y sustitución del cartucho del filtro de aire, según el plan de mantenimiento del manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos",
+          "queSeCambia": "Sustitución del líquido de frenos de todo el sistema la primera vez al cabo de un año y después cada dos años, según la nota del plan de mantenimiento del manual"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1395,25 +1411,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 313 cc con 34 CV (25 kW) y 28 Nm de par",
-      "Peso declarado de 175 kg en orden de marcha",
-      "Depósito de 11 l",
-      "Altura de asiento de 835 mm",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 6.640 €"
+      "Es la puerta de acceso a la saga GS: pico elevado, pantalla, parrilla trasera y postura erguida calcadas de las GS grandes, pero en formato manejable para el día a día",
+      "Parte ciclo distinta a la G 310 R: llanta delantera de 19 pulgadas y suspensiones Kayaba con 180 mm de recorrido en cada eje para rodar por pistas sencillas",
+      "Monocilíndrico peculiar, con la culata girada 180 grados, la admisión por delante y el cilindro inclinado hacia atrás para compactar el conjunto y centrar masas",
+      "Desde la actualización Euro 5 trae acelerador electrónico, embrague antirrebote autoalimentado y subida automática del ralentí al arrancar para no calarse",
+      "Detalles poco habituales en una trail de iniciación: faro e intermitentes LED y manetas de freno y embrague regulables en cuatro posiciones",
+      "Con 34 CV a 9.500 rpm no necesita limitación para el A2 y mantiene un peso en orden de marcha de 175 kg, contenido para una trail con pantalla y parrilla"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de solo 11 l: autonomía limitada en ruta",
-      "Asiento alto (835 mm): complicada para pilotos de poca estatura"
+      "Frente a una KTM 390 Adventure, con más de 40 CV, la GS se queda justa de empuje en adelantamientos con equipaje y en tramos largos de autovía",
+      "El asiento de serie a 835 mm complica llegar al suelo si mides poco, aunque BMW ofrece alternativas de 820 mm y de 850 mm para ajustarlo",
+      "Los 11 litros del depósito obligan a vigilar la reserva en rutas por pistas, donde no siempre hay una gasolinera cerca al salir del asfalto",
+      "Su planteamiento es de trail asfáltica: llantas de fundición de 19 y 17 pulgadas, no de radios con delantera de 21 como una Honda CRF300L pensada para campo",
+      "En marcha aparecen vibraciones en estriberas y manillar a partir de unos 110 km/h según las pruebas, y se notan más al acercarse a su zona alta",
+      "El precio de esta ficha figura como aproximado (6.640 €), así que el importe cerrado y el equipamiento incluido hay que confirmarlos en un concesionario BMW Motorrad"
     ],
     curiosidades: [
-      "2017: nace G 310 GS",
-      "2021: actualización",
-      "2025: continuidad"
+      "Presentada en otoño de 2016 y lanzada en España el 16 de octubre de 2017 desde 6.050 €, fue el segundo modelo de BMW Motorrad por debajo de 500 cc tras la G 310 R de abril de ese año",
+      "Se fabrica en India en colaboración con TVS Motor Company sobre la misma base de motor y chasis que la R, pero con fibras, manillar, subchasis trasero y rueda delantera propios de la GS",
+      "En 2021 estrenó la versión Euro 5 y la edición 40 Years GS en negro y amarillo inspirada en la R 100 GS, coincidiendo con las cuatro décadas de la saga iniciada por la R 80 G/S de 1980"
     ],
     imagen: "/media/bmw-g-310-gs-2025-hero.webp",
     galeria: [
@@ -1431,21 +1447,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-g-310-gs-2025",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de instrucciones y programa de mantenimiento BMW G 310 GS; guía de mantenimiento G 310 GS de europe-moto.com (aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km)",
+      "intervalo": "Cada año o cada 10.000 km, lo que ocurra antes; control de rodaje inicial entre 500 y 1.200 km",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Control de rodaje (500-1.200 km)",
+          "queSeCambia": "Primera revisión BMW Motorrad tras el rodaje, con las comprobaciones del programa de mantenimiento del manual de la G 310 GS"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión anual / 10.000 km",
+          "queSeCambia": "Cambio de aceite de motor y de filtro de aceite, revisión del filtro de aire, comprobación de cadena, frenos, refrigerante y diagnóstico con el sistema BMW Motorrad"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de 20.000 km",
+          "queSeCambia": "Servicio anual o de 10.000 km más sustitución del filtro de aire y revisión de la bujía; el líquido de frenos se cambia al primer año y después cada dos años según el programa del manual"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1472,24 +1493,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 313 cc con 34 CV (25 kW) y 28 Nm de par",
-      "Peso declarado de 158 kg en orden de marcha",
-      "Depósito de 11 l",
-      "Asiento a 785 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado desde 5.810 €"
+      "Monocilíndrico con la culata girada 180 grados: admisión por delante, escape por detrás y cilindro inclinado hacia atrás, la arquitectura que estrenó esta naked",
+      "Parte ciclo de asfalto puro: horquilla invertida de 41 mm y neumáticos 110/70 R 17 delante y 150/60 R 17 detrás, frente a la rueda de 19 pulgadas de su hermana trail",
+      "La actualización de 2021 añadió acelerador electrónico ride-by-wire, embrague antirrebote autoamplificado y alumbrado completo de LED",
+      "Manetas de freno y de embrague regulables en cuatro posiciones, un detalle de ajuste poco habitual en una moto de acceso para el A2",
+      "Asiento a 785 mm para llegar bien al suelo en parado, 50 mm por debajo del sillín de su versión GS",
+      "Silueta heredada de la S 1000 R, con colín recortado y tapa de depósito musculada, pese a fabricarse en Hosur junto a TVS Motor"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de solo 11 l: autonomía limitada en ruta"
+      "Sus 34 CV quedan lejos de los 44 CV de una KTM 390 Duke coetánea: quien busque empuje en una naked A2 encontrará aquí la opción tranquila, no la radical",
+      "Cuadro de instrumentos LCD sin pantalla TFT ni conectividad, cuando su rival austriaca ya ofrecía color y más funciones en esta misma categoría",
+      "Los 11 litros del depósito obligan a repostar pronto en escapadas largas, aunque en el uso urbano diario esa parada se espacie más",
+      "Precio de esta ficha marcado como aproximado (aprox): hay que contrastarlo en un concesionario BMW Motorrad, porque no consta como tarifa cerrada en la fuente usada",
+      "Mecánica veterana sin salto prestacional: la puesta al día de 2021 se limitó a cumplir Euro 5 y mantuvo la potencia con la que el modelo debutó en 2016"
     ],
     curiosidades: [
-      "2016: nace G 310 R",
-      "2021: actualización",
-      "2025: continuidad"
+      "2016: debuta como la primera roadster de BMW con menos de 500 cc, desarrollada en Múnich y producida en la planta de TVS Motor Company en Hosur, India",
+      "Su motor invierte lo habitual: la culata está girada 180 grados, con las tomas de aire en la parte delantera y el cilindro inclinado hacia atrás para hacer la moto más compacta",
+      "2021: estrena homologación Euro 5, regulador electromotriz del acelerador, aumento automático del ralentí, embrague anti-rebote, faro e intermitentes LED y manetas ajustables en cuatro puntos"
     ],
     imagen: "/media/bmw-g-310-r-2025-hero.webp",
     galeria: [
@@ -1507,21 +1528,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-g-310-r-2025",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario BMW G 310 R (BMW Motorrad, manuals.bmw-motorrad.com): rodaje 500-1.200 km y servicio anual o cada 10.000 km",
+      "intervalo": "Revisión de rodaje entre 500 y 1.200 km; después, servicio anual o cada 10.000 km, lo que ocurra antes",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje (500-1.200 km)",
+          "queSeCambia": "Revisión de rodaje BMW con cambio de aceite de motor incluido, según el manual del propietario de la G 310 R"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Servicio BMW (anual o 10.000 km)",
+          "queSeCambia": "Cambio de aceite de motor con filtro dentro del servicio estándar BMW; el plan del manual incluye además la comprobación del juego de válvulas entre sus operaciones de mantenimiento"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos (primer año y después cada 2 años)",
+          "queSeCambia": "Cambio del líquido de frenos de todo el sistema, con la cadencia que marca el plan de mantenimiento del manual de la G 310 R"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1548,24 +1574,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 999 cc con 212 CV (155,9 kW) y 113 Nm de par",
-      "Peso declarado de 193 kg en orden de marcha",
-      "Depósito de 17 l",
-      "Altura de asiento de 830 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 41.580 €"
+      "Motor ShiftCam de 999 cc con válvulas de titanio, bielas Pankl de titanio y admisión mecanizada por CNC: 212 CV (155,9 kW) y 113 Nm, el bloque de la S 1000 RR llevado a especificación de carreras",
+      "Alerones M de carbono desarrollados en el túnel de viento de BMW: cargan el tren delantero a alta velocidad para poder abrir gas a fondo sin que la rueda delantera se despegue del asfalto",
+      "Llantas M de carbono y frenos M derivados del Mundial de Superbikes: menos masa no suspendida y unos cambios de dirección mucho más rápidos que en la S 1000 RR",
+      "Electrónica pensada para el crono y no para la foto: modos Race Pro 1-3, Launch Control, limitador de velocidad para el pit lane y control de tracción con plataforma inercial de seis ejes",
+      "Es la base de homologación de la moto con la que Toprak Razgatlioglu dio a BMW Motorrad su primer título del Mundial de Superbikes, en Jerez en 2024",
+      "Con los 193 kg en orden de marcha de esta ficha, la relación peso-potencia supera 1 CV por kilo: territorio de moto de competición que, aun así, lleva matrícula y luces"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento alto (830 mm): complicada para pilotos de poca estatura"
+      "Es la deportiva de serie más cara de BMW Motorrad y queda muy por encima de la S 1000 RR; el paquete M Competition, con cadena M Endurance y piezas de carbono y fresadas, se paga aparte y suma miles de euros más",
+      "Ergonomía de carreras pura, con semimanillares bajos y estriberas altas: en ciudad y en trayectos cortos va forzada, y su motor solo muestra su mejor cara en la parte alta del cuentavueltas",
+      "Consumibles de circuito: neumático trasero 200/55 ZR17, cadena 525 y pastillas de freno M se gastan rápido si se entra en tandas, y sustituir una pieza de carbono tras una caída sale muy caro",
+      "Asiento a 830 mm según esta ficha y colín mínimo para el acompañante, pese a declarar dos plazas: maniobrar en parado exige pierna larga y viajar a dúo es poco más que testimonial",
+      "Euro NCAP no somete a prueba motocicletas, así que aquí no hay estrellas que mirar: la seguridad real la ponen el ABS Pro con función en curva y el equipamiento que lleve el piloto"
     ],
     curiosidades: [
-      "2021: nace M 1000 RR",
-      "2023-2025: evoluciones",
-      "2026: continuidad"
+      "Presentada en 2020 como la primera motocicleta M de BMW Motorrad, desarrollada sobre la S 1000 RR con los requisitos del cliente deportivo y del Mundial de Superbikes en la cabeza",
+      "En octubre de 2024, Toprak Razgatlioglu se proclamó campeón del mundo de Superbikes en Jerez con la M 1000 RR, con 18 victorias en la temporada: fue el primer título de WorldSBK para BMW Motorrad",
+      "La evolución de 2025 estrenó los alerones M 3.0 de carbono, el acelerador M Quick de recorrido acortado a 58 grados y las funciones Slide Control y Brake Slide Assist apoyadas en un sensor del ángulo de dirección"
     ],
     imagen: "/media/bmw-m-1000-rr-2026-hero.webp",
     galeria: [
@@ -1583,21 +1609,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-m-1000-rr-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Plan de mantenimiento del manual de instrucciones de la BMW M 1000 RR y página oficial de intervalos de servicio de BMW Motorrad (revisión anual obligatoria y mantenimiento adicional cada 10.000 km)",
+      "intervalo": "Cada año o 10.000 km (lo que ocurra primero), con control de rodaje inicial entre los 500 y los 1.200 km",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Control de rodaje (500-1.200 km)",
+          "queSeCambia": "Primera revisión BMW Motorrad, con cambio de aceite de motor y de filtro de aceite"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión anual o cada 10.000 km",
+          "queSeCambia": "Servicio BMW estándar de la M 1000 RR: aceite de motor y filtro, revisión general del vehículo y paso por el sistema de diagnosis de la marca"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión mayor (según diagnosis o cada 30.000 km)",
+          "queSeCambia": "Comprobación del juego de válvulas del motor ShiftCam, sustitución de bujías y del cartucho del filtro de aire según el plan BMW; líquido de frenos y aceite de horquilla según su vencimiento por tiempo"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1624,24 +1655,24 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 1170 cc con 109 CV (80,1 kW) y 115 Nm de par",
-      "Peso declarado de 220 kg en orden de marcha",
-      "Depósito de 14 l",
-      "Asiento a 795 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 22.495 €"
+      "Bóxer bicilíndrico refrigerado por aire y aceite de 1.170 cc, con 109 CV a 7.000 rpm y 115 Nm a 6.500 rpm",
+      "Modos Rain, Road y Dynamic para cambiar la entrega del bóxer sin renunciar a su tacto clásico",
+      "Naranja Lava metalizado, doble filete rojo y S roja en las tapas laterales, guiño directo a la R 90 S Daytona Orange de 1975",
+      "Paquete Confort de serie con asistente de cambio Pro, arranque en pendiente, puños calefactables, control de crucero y faro Headlight Pro",
+      "Horquilla invertida de 45 mm totalmente regulable, monobrazo Paralever trasero y doble disco delantero de 310 mm con ABS Pro",
+      "Transmisión por cardán de seis marchas: sin cadena que tensar ni engrasar en esta Heritage de 220 kg"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Ficha con datos pendientes de ampliación en la web oficial de la marca"
+      "Pagas la recreación Heritage, no más prestaciones: comparte motor y base con la R 12 nineT, de la que parte",
+      "El minicarenado de manillar con parabrisas tintado protege poco en autovía; su función principal es estética y de homenaje",
+      "El colín con cubierta trasera y la zaga corta dejan el equipaje y el uso a dúo en segundo plano",
+      "Con 220 kg en orden de marcha y los cilindros del bóxer sobresaliendo a los lados, maniobrar en parado exige cuidado",
+      "Depósito y colín de aluminio cepillado y llantas de radios Option 719: piezas vistosas, más delicadas de mantener impecables que en una naked convencional"
     ],
     curiosidades: [
-      "2025: nace R 12 S homenaje R 90 S",
-      "2026: continuidad",
-      "Las motos no tienen prueba EuroNCAP de coche: se indica honestamente «sin datos EuroNCAP»"
+      "Su referente de 1973, la R 90 S de Hans A. Muth, fue la primera moto de serie con carenado de manillar, rendía 67 CV y llegaba a 200 km/h",
+      "En 1976 la R 90 S ganó su categoría en el TT de Producción de la Isla de Man y las 200 Millas de Daytona, y Reg Pridmore se llevó con ella el primer campeonato AMA Superbike",
+      "La R 12 S llegó en 2025 sobre la plataforma de la R 12 nineT y retoma una idea que BMW ya había ensayado en el prototipo Concept Ninety de 2013"
     ],
     imagen: "/media/bmw-r-12-s-2026-hero.webp",
     galeria: [
@@ -1700,24 +1731,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 1802 cc con 91 CV (66,9 kW) y 158 Nm de par",
-      "Peso declarado de 365 kg en orden de marcha",
-      "Depósito de 16 l",
-      "Asiento a 710 mm, accesible para la mayoría de tallas",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 26.250 €"
+      "Big Bóxer de 1.802 cc, el bóxer de serie más grande que ha fabricado BMW, con más de 150 Nm disponibles entre 2.000 y 4.000 rpm para rodar sin ir pendiente del cambio",
+      "Cardán a la vista, bastidor de tubo de acero de doble cuna y depósito en forma de lágrima que copian el lenguaje de la BMW R 5 de 1936",
+      "Frente a la R 18 básica, la Classic suma parabrisas desmontable, alforjas extraíbles, sillín de pasajero desmontable y faros LED auxiliares pensando en la ruta",
+      "Control de crucero electrónico de serie y tres modos Rain, Roll y Rock con ASC y control del par de arrastre MSR, poco habitual en una cruiser de este estilo",
+      "Con el asiento a 710 mm plantas los dos pies en el suelo al detenerte, algo que se agradece en una moto de este tamaño",
+      "Catálogo de personalización propio con piezas Roland Sands Design Machined y 2-Tone Black, asientos Mustang y escapes Vance & Hines"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "365 kg: pesada en parado y en maniobras lentas"
+      "Sus 365 kg en orden de marcha se notan en cada giro en parado: BMW ofrece el asistente de marcha atrás como opción de fábrica porque moverla a pulso no es trivial",
+      "Para ser la variante viajera de la familia, el depósito se queda en 16 litros, así que en jornadas largas de carretera toca planificar la parada a repostar antes que en una tourer al uso",
+      "Los 91 CV mueven mucho peso: su terreno no es buscar aceleraciones fuertes, sino empujar a bajo régimen con el par del Big Bóxer",
+      "Buena parte del equipamiento útil va en la lista de extras de pago, desde el arranque en pendiente y los puños calefactables hasta el control de presión de neumáticos",
+      "Al tratarse de una motocicleta, no existe ensayo EuroNCAP de turismos que se le pueda aplicar"
     ],
     curiosidades: [
-      "2020: nace R 18",
-      "2021: llega Classic",
-      "2025: Classic en catálogo BMW Motorrad (Motofichas 2025-2027)"
+      "1936: la BMW R 5 sirve de referencia visual y técnica, con su depósito en lágrima, el fileteado blanco sobre negro y el cardán expuesto",
+      "2020: debuta la R 18 con el Big Bóxer de 1.802 cc tras más de dos décadas sin una cruiser BMW desde la R 1200 C",
+      "2021: la Classic se suma como segundo miembro de la familia, diferenciándose por el parabrisas, las alforjas y la rueda delantera distinta",
+      "2025: la Classic pasa a Euro5+, estrena llanta delantera de 19 pulgadas, luz diurna y toma USB-C, y mantiene el acabado Blacked Out"
     ],
     imagen: "/media/bmw-r-18-classic-2025-hero.webp",
     galeria: [
@@ -1735,21 +1767,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-r-18-classic-2025",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de instrucciones BMW Motorrad R 18, plan de mantenimiento (ManualsLib): control de rodaje entre 500 y 1.200 km y servicio BMW Motorrad anual",
+      "intervalo": "Cada año o 10.000 km (lo que ocurra primero)",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión menor (10.000 km)",
+          "queSeCambia": "Cambio de aceite de motor con filtro, comprobación del juego de válvulas y test breve con el sistema de diagnosis BMW Motorrad, según el plan de mantenimiento del manual de la R 18"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Revisión mayor (20.000 km)",
+          "queSeCambia": "Aceite de motor con filtro, cambio del cartucho del filtro de aire, sustitución de bujías y comprobación del juego de válvulas, según el plan de mantenimiento del manual de la R 18"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
   {
@@ -1776,24 +1808,25 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       "precioDesde"
     ],
     pros: [
-      "Motor de 999 cc con 170 CV (125 kW) y 114 Nm de par",
-      "Peso declarado de 223 kg en orden de marcha",
-      "Depósito de 20 l",
-      "Altura de asiento de 840 mm",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado desde 21.780 €"
+      "Tetracilíndrico de 999 cc emparentado con la S 1000 RR: 170 CV a 11.000 rpm y 114 Nm a 9.250 rpm tras optimizar la admisión en la actualización de 2024",
+      "Chasis Flex Frame de aluminio con el motor como elemento portante y 150 mm de recorrido en ambos ejes, con suspensión electrónica Dynamic ESA",
+      "Electrónica con IMU de seis ejes: DTC, ABS Pro, control de retención MSR y cuatro modos Rain, Road, Dynamic y Dynamic Pro configurable",
+      "De serie en la etapa 2024-2026, faro adaptativo Headlight Pro, arranque Keyless Ride, toma USB, pantalla TFT de 6,5 pulgadas y llamada de emergencia inteligente",
+      "Enfoque viajero real: depósito de 20 litros, soportes de maletas integrados en la zaga, pantalla regulable en dos posiciones y hueco para tarjetas sobre el depósito pensado para peajes",
+      "Llantas de 17 pulgadas con neumáticos 120/70 delante y 190/55 detrás: geometría de deportiva de asfalto, no de trail mixta, y opción de llantas M Carbon"
     ],
     contras: [
-      "Precio aproximado no oficial: confirma el PVP en la web oficial o en un concesionario antes de comprar",
-      "Garantía orientativa de modelos parecidos, no específica de esta versión",
-      "Mantenimiento orientativo de un modelo similar de la misma marca",
-      "Sin datos EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento alto (840 mm): complicada para pilotos de poca estatura"
+      "Los 21.780 euros de partida crecen rápido en la tarifa de Motofichas 2026: acabado Sport, paquete Dynamic, paquete Touring y paquete M se pagan aparte, con el M por encima de 3.700 euros",
+      "Asiento a 850 mm en la versión 2024-2026, 10 mm más alto que el de 2020-2023: quien mida poco dependerá de las alturas alternativas o del kit de rebaja",
+      "Transmisión secundaria por cadena en una moto de viaje de 170 CV: tensado, limpieza y engrase frecuentes donde una R 1300 GS ofrece cardán",
+      "El cuatro en línea entrega su mejor cara arriba, con la potencia máxima a 11.000 rpm, y pide estirar marchas frente a bicilíndricas con más empuje a medio régimen",
+      "La revisión grande llega cada 30.000 km con comprobación de válvulas y distribución, cambio de bujías y aceite de horquilla: es la visita cara del plan BMW"
     ],
     curiosidades: [
-      "2015: nace S 1000 XR",
-      "2020-2024: evoluciones",
-      "2026: continuidad"
+      "Presentada en el EICMA de 2014 y comercializada en 2015 como derivada de la naked S 1000 R, compartiendo el cuatro en línea de la familia S 1000 RR pero con geometrías más turísticas y basculante más largo",
+      "La segunda generación de 2020 estrenó motor procedente de la S 1000 RR y chasis nuevo, rebajó unos 10 kg y ya incorporó el bastidor Flex Frame de aluminio",
+      "En 2024 ganó 5 CV hasta los 170 CV, rediseñó el asiento y la zaga con tomas de aire de competición, pintó el pico en el color de la carrocería y convirtió en equipamiento de serie el Headlight Pro, el Keyless Ride y la toma USB",
+      "Para 2026 Motofichas recoge un nuevo color verde metalizado que sustituye al azul, mientras la base sirve también para la radical M 1000 XR"
     ],
     imagen: "/media/bmw-s-1000-xr-2026-hero.webp",
     galeria: [
@@ -1811,21 +1844,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-s-1000-xr-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de propietario BMW S 1000 XR (plan de mantenimiento BMW Motorrad: servicio anual o cada 10.000 km y operaciones mayores cada 30.000 km), contrastado con Hornig, Maintenance intervals for BMW S 1000 XR (2020-)",
+      "intervalo": "Servicio BMW cada año o cada 10.000 km, lo que ocurra primero, tras el control de rodaje inicial",
+      "revisiones": [
         {
-          nombre: "Revisión menor (10.000 km)",
-          queSeCambia: "Servicio menor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Control de rodaje (500-1.200 km)",
+          "queSeCambia": "Primera revisión BMW Motorrad con cambio de aceite de motor y filtro, test con el sistema de diagnosis y controles de frenos, cadena, neumáticos y alumbrado"
         },
         {
-          nombre: "Revisión mayor (20.000 km)",
-          queSeCambia: "Servicio mayor según manual BMW",
-          costeAproxEur: null,
+          "costeAproxEur": null,
+          "nombre": "Servicio estándar (cada año o 10.000 km)",
+          "queSeCambia": "Cambio de aceite de motor con filtro, prestación estándar BMW Motorrad, sustitución del elemento del filtro de aire según plan, control de pastillas y discos, nivel de refrigerante, juego del embrague y lubricación de la cadena; líquido de frenos al año y después cada dos años"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio mayor (cada 30.000 km)",
+          "queSeCambia": "Además del servicio estándar: comprobación del juego de válvulas y de la distribución, cambio de todas las bujías y cambio del aceite de la horquilla telescópica"
         }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar F 900 R / F 800 GS, misma marca; manuales/guías BMW)",
+      ]
     },
   },
 
@@ -1857,23 +1895,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "can-am-origin-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor eléctrico con 47 CV (34.6 kW) y 72 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 13.799 €",
-      "Garantía: Garantía del vehículo 2 años + garantía de la batería 5 años / 50.000 km (BRP, ficha oficial Pulse / Origin).",
-      "Can-Am Origin 2026: 186 kg, asiento a 820 mm",
+      "Horquilla invertida KYB de 43 mm con 255 mm de recorrido en ambos ejes y 274 mm de altura libre al suelo: cifras de trail pensadas para salir del asfalto",
+      "Llantas de radios de 21 pulgadas delante y 18 detrás con Dunlop D605 mixtos, la combinación clásica para alternar carretera y pistas de tierra",
+      "Suma los modos Off-Road y Off-Road+ a sus seis programas de conducción, con postura erguida que permite pilotar de pie por senderos",
+      "El Rotax E-Power refrigerado por líquido empuja con 72 Nm desde parado, firma el 0 a 100 km/h en 4,3 segundos y su versión de 35 kW encaja en el carnet A2",
+      "BRP cubre la moto durante dos años y la batería de 8,9 kWh durante cinco años o 50.000 km, un respaldo amplio para una trail eléctrica de acceso"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento de modelo similar de la misma marca, pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Autonomía eléctrica por verificar en condiciones reales",
+      "Su autonomía combinada en ciclo WMTC se queda en 115 km y cae a 84 km rodando de forma sostenida a 80 km/h: escasa para una escapada trail larga lejos de un enchufe",
+      "El conjunto resulta alto y estrecho para maniobrar a pie en campo, y a pilotos de talla baja les costará llegar con seguridad al suelo en paradas fuera de ruta",
+      "Los Dunlop D605 montan cámara en medidas 90/90-R21 y 120/80-R18, así que un pinchazo en pista no se resuelve con un simple kit antipinchazos para tubeless",
+      "No admite carga rápida de nivel 3: depende de su cargador integrado de 6,6 kW, con 50 minutos para pasar del 20 al 80 % y 1 hora y 30 minutos para la carga completa en nivel 2"
     ],
     curiosidades: [
-      "2024: presentación",
-      "2025: llegada",
-      "2026: continuidad",
-      "Etiqueta Cero de la DGT: entra en las ZBE sin restricciones",
+      "La versión Origin '73 homenajea 1973, el año en que Can-Am nació fabricando motos de motocross y enduro con motores Rotax",
+      "Can-Am dejó de producir motocicletas en 1987 y no regresó a las dos ruedas hasta esta generación eléctrica que comparte con la Pulse",
+      "En 1973 sus pilotos lograron oro, plata y bronce en los International Six Days y en 1974 coparon el podio de 250 cc del campeonato AMA de motocross",
+      "Recupera la vocación Track 'n Trail de las Can-Am setenteras: una sola moto para el asfalto diario y para perderte por caminos sin cambiar de vehículo"
     ],
     imagen: "/media/can-am-origin-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -1881,12 +1919,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento reducido eléctrico (modelo similar Pulse / Origin): cadena silenciosa con tensor automático, sin mantenimiento periódico de tensión; resto de…",
+      "costeAnualAproxEur": null,
+      "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.",
+      "intervalo": "12 meses o 10.000 km (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual",
+          "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"
+        }
+      ]
     },
   },
   // ── CAN-AM PULSE 2026 ─────────────────────────────
@@ -1917,23 +1959,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "can-am-pulse-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor eléctrico con 47 CV (34.6 kW) y 72 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 13.199 €",
-      "Garantía: Garantía del vehículo 2 años + garantía de la batería 5 años / 50.000 km (BRP, ficha oficial Pulse / Origin).",
-      "Can-Am Pulse 2026: 176 kg, asiento a 765 mm",
+      "Es la naked de asfalto del dúo eléctrico de BRP: llantas de 17 pulgadas con Dunlop Sportmax GPR-300 y asiento a 765 mm en esta ficha, frente a la postura alta y las ruedas 21/18 de su hermana trail",
+      "En ciudad declara 160 km por carga y 130 km en ciclo combinado WMTC, y despacha el 0 a 100 km/h en 3,8 segundos, medio segundo antes que la Origin",
+      "La pantalla táctil de 10,25 pulgadas con BRP Connect y Apple CarPlay, la marcha atrás para aparcar y la recarga del 20 al 80 % en 50 minutos en Nivel 2 resuelven los roces típicos del uso urbano diario",
+      "Hay variante de 35 kW encuadrada en el A2 y otra de 11 kW de equivalencia 125 para el A1, así que la misma naked sirve para quien empieza y para quien ya rueda con el A2",
+      "BRP España la anuncia desde 13.199 € y respalda la batería durante cinco años o 50.000 km, frente a los dos años de cobertura para el conjunto de la moto"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento de modelo similar de la misma marca, pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Autonomía eléctrica por verificar en condiciones reales",
+      "Su autonomía se desploma fuera de ciudad: la propia ficha de BRP reconoce solo 89 km a 80 km/h sostenidos, así que una salida larga obliga a parar a cargar sí o sí",
+      "Los neumáticos lisos de carretera, los 146 mm libres al suelo y la ausencia de modos Off-Road la dejan fuera de pistas y caminos, justo el terreno donde la Origin sí entra",
+      "La batería de 8,9 kWh va integrada en el bastidor y no se extrae para cargarla en casa, y solo admite carga en corriente alterna de Nivel 1 y Nivel 2, sin carga rápida en continua",
+      "Los 13.199 € de entrada la colocan en terreno premium para una moto de diario, y la prueba de 1000PS reprochó tacto esponjoso al freno delantero y brusquedad al trasero en el conjunto Pulse y Origin"
     ],
     curiosidades: [
-      "2024: presentación Pulse/Origin",
-      "2025: llegada a España",
-      "2026: continuidad",
-      "Etiqueta Cero de la DGT: entra en las ZBE sin restricciones",
+      "Can-Am nació en 1973 con motos de motocross y enduro y dejó de fabricar dos ruedas en 1987; la Pulse forma parte del regreso eléctrico desvelado en 2022",
+      "La presentación completa de la Pulse como roadster urbana llegó el 20 de agosto de 2024 junto a la Origin, con entregas previstas desde principios de 2025",
+      "La versión Pulse '73 viste en Sterling Silver en homenaje a la primera Can-Am de 1973, con deflector de intermitentes, placas exclusivas y luces LED Signature propios de ese paquete",
+      "Su cadena va dentro de un cárter sellado con aceite y tensor automático, una solución rara en una naked actual que elimina el tensado periódico de la transmisión"
     ],
     imagen: "/media/can-am-pulse-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -1977,22 +2019,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 292 cc con 28 CV (20.6 kW) y 25 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 4.500 €",
-      "Garantía: Garantía del fabricante en modelos parecidos (675NK): 2+3 años, total 5 años (concesionario MP Racing, ficha 675NK).",
-      "CFMoto 300NK 2026: 142 kg, depósito de 12 l, asiento a 780 mm",
+      "Naked sin carenado derivada de la 250NK: manillar ancho y postura erguida para moverte entre coches, muy distinta a la posición cerrada de la 300SR carenada",
+      "Monocilíndrico DOHC de 292 cc con inyección Bosch y embrague antirrebote CF-SC, que suaviza las reducciones bruscas y evita que la rueda trasera rebote",
+      "Diseño firmado por Kiska a partir del prototipo V.02NK de 2017, con faro LED bajo e inclinado y depósito musculoso que no se confunde con ninguna otra 300",
+      "Pantalla TFT a color con modos Eco y Sport, conectividad Bluetooth y avisos de la app CFMOTO Ride: nivel poco habitual en una A2 con este precio estimado de 4.500 €",
+      "Horquilla invertida y ABS de doble canal con discos en ambas ruedas en una moto contenida que la ficha cifra en 142 kg, pensada para estrenar el A2 en ciudad y en puertos de fin de semana"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de 12 l: justo para rutas largas",
+      "Al ir desnuda, en autopista el viento pega de lleno en pecho y casco: para viajar lejos toca montar una cúpula accesoria, justo lo que la 300SR resuelve con su carenado",
+      "Las unidades de 2020 tuvieron campaña por el circlip del inyector con riesgo de fuga y las de 2021 por el conducto de gasolina de alta presión mal montado, un historial que conviene comprobar antes de comprar una usada",
+      "En la prueba de Motorbike Magazine el ABS trasero saltaba demasiado pronto y los retrovisores vibraban hasta dificultar la visión, dos detalles que pesan en el uso diario",
+      "El asiento resultó duro en esa misma prueba y la autonomía queda condicionada por un depósito pequeño para escapadas largas, con el precio español aún sin confirmar oficialmente en esta ficha"
     ],
     curiosidades: [
-      "2017: nace 300NK",
-      "2022-2025: evoluciones",
-      "2026: continuidad",
+      "2017: CFMOTO desvela el prototipo V.02NK con motor V-twin derivado del LC8 de KTM y diseño Kiska; su faro inclinado y sus formas acabarán bajando hasta esta 300",
+      "Su motor es la versión subida a 292,4 cc del monocilíndrico de la 250NK de 249,2 cc, con la que comparte chasis tubular, horquilla y la mayor parte de la carrocería",
+      "Se enseñó en el EICMA de 2018 y en julio de 2019 fue una de las motos con las que CFMOTO arrancó en la India, frente a la Honda CB300R y la BMW G 310 R"
     ],
     imagen: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2000,12 +2042,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
+      "costeAnualAproxEur": null,
+      "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España",
+      "intervalo": "12 meses o 10.000 km (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual",
+          "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"
+        }
+      ]
     },
   },
   // ── CFMOTO 300SR 2026 ─────────────────────────────
@@ -2036,22 +2082,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "cfmoto-300sr-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 292 cc con 29 CV (21.3 kW) y 25 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 4.500 €",
-      "Garantía: Garantía del fabricante en modelos parecidos (675NK): 2+3 años, total 5 años (concesionario MP Racing, ficha 675NK).",
-      "CFMoto 300SR 2026: 160 kg, depósito de 12 l, asiento a 785 mm",
+      "Carenado integral, cúpula y semimanillares bajos: es la Sport Racing de la familia 300, con postura y protección aerodinámica que la separan de la naked 300NK con la que comparte base",
+      "Monocilíndrico DOHC de 292 cc con refrigeración líquida, inyección Bosch y embrague antirrebote para bajar marchas sin rebotes bruscos de la rueda trasera",
+      "Frenada J.Juan con pinza delantera de anclaje radial y ABS Continental de doble canal, equipo destacado por la prensa española en su llegada a España",
+      "Pantalla TFT a color con conectividad y dos presentaciones, iluminación completa LED y horquilla invertida de 37 mm en una deportiva A2 de acceso",
+      "29 CV, velocidad máxima de 139 km/h y consumo anunciado de 3,1 l/100 km según Motofichas: cifras de escuela deportiva para aprender antes de saltar a la 450SR"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de 12 l: justo para rutas largas",
+      "Un solo cilindro frente a bicilíndricas carenadas como Yamaha R3 o Kawasaki Ninja 400: en autovía y adelantamientos con pasajero se nota esa menor cilindrada útil",
+      "La posición sobre semimanillares carga muñecas y cuello en ciudad y en atascos, justamente el terreno donde su hermana naked resulta más llevadera a diario",
+      "El freno delantero de disco único cumple ayudado por el trasero, pero la prueba de Moteo echó en falta algo más de mordiente al apurar frenadas",
+      "El importe de esta ficha es estimado y sin PVP español confirmado para 2026, mientras que en su lanzamiento español de 2021 la tarifa fue de 4.195 €: toca cerrar precio en concesionario"
     ],
     curiosidades: [
-      "2020: nace 300SR",
-      "2022-2025: evoluciones",
-      "2026: continuidad",
+      "2020: CFMoto la presenta en abril a partir del prototipo 250SR mostrado en China y la convierte en su primera deportiva con carenado completo",
+      "SR significa Sport Racing en la nomenclatura de la marca, frente a NK para las naked: misma base mecánica, traje y postura opuestos",
+      "2020-2021: llega a España distribuida por Jets Marivent en negro o gris por 4.195 € y Motofichas la anuncia en versión Euro 5 para Europa"
     ],
     imagen: "/media/cfmoto-300sr-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2059,12 +2105,31 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario CFMoto 300SR en castellano, tablas de mantenimiento en rodaje (1.000 km) y periódico: aceite y filtro 6 meses/5.000 km, bujía cambio a 10.000 km, filtro de aire cambio a 20.000 km/24 meses, refrigerante 35.000 km/24 meses y holgura de válvulas a 40.000 km",
+      "intervalo": "Rodaje a los 1.000 km y después aceite de motor y filtro cada 6 meses o 5.000 km, lo que ocurra antes, según el manual de usuario de la 300SR",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje a los 1.000 km",
+          "queSeCambia": "Cambio de aceite de motor y filtro, limpieza del colador de aceite y revisión de refrigerante, ralentí, frenos, batería y funciones eléctricas según la tabla de rodaje del manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica cada 5.000 km o 6 meses",
+          "queSeCambia": "Cambio de aceite y filtro, limpieza del colador, limpieza del filtro de aire, revisión de bujía, embrague, sistema de aceleración, batería y fusibles según la tabla periódica del manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de los 10.000 km",
+          "queSeCambia": "Cambio de bujía, revisión de ralentí, partes eléctricas y cables a los 12 meses o 10.000 km, y controles de neumáticos, frenos y suspensión previstos en el manual"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Intervenciones largas del manual",
+          "queSeCambia": "Cambio del filtro de aire a los 20.000 km o 24 meses, cambio de refrigerante a los 35.000 km o 24 meses y revisión de la holgura de válvulas a los 40.000 km, sin coste publicado para España"
+        }
+      ]
     },
   },
   // ── CFMOTO 650NK 2025 ─────────────────────────────
@@ -2095,21 +2160,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "cfmoto-650nk-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 649 cc con 61 CV (44.9 kW) y 56 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 6.495 €",
-      "Garantía: Garantía del fabricante en modelos parecidos (675NK): 2+3 años, total 5 años (concesionario MP Racing, ficha 675NK).",
-      "CFMoto 650NK 2025: 206 kg, depósito de 17 l, asiento a 790 mm",
+      "Bicilíndrico en paralelo de 649,3 cc, DOHC y refrigeración líquida, con inyección Bosch, 61 CV a 8.750 rpm, 56 Nm a 7.000 rpm y embrague antirrebote",
+      "Equipo de naked completa para su veteranía: TFT en color de 5 pulgadas con conexión a CFMoto Ride, LED en toda la iluminación y ABS Continental de doble canal",
+      "Frenada con doble disco delantero y pinzas españolas J.Juan y suspensiones KYB, con monoamortiguador trasero desplazado ajustable en precarga y extensión",
+      "Con 17 litros de depósito, 206 kg en orden de marcha y 1.415 mm de batalla, plantea un uso diario y de ruta más que un juguete urbano",
+      "Los 6.495 € aproximados que recoge la ficha la colocan como vía barata de acceso a una bicilíndrica de 649 cc, frente al tricilíndrico nuevo que ya ocupa su hueco en la gama"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
+      "No consta un PVP español cerrado para esta versión de 2025: Motofichas cierra el modelo en su etapa 2023-2024, así que los 6.495 € deben leerse solo como estimación",
+      "Motor longevo pero superado en casa: la evolución europea pasó de 71 CV en la etapa 2017-2021 a 60 CV en la de 2022 según Motofichas, mientras CFMoto empuja ahora la 675NK tricilíndrica",
+      "A día de hoy su mantenimiento sigue apoyado en un plan orientativo prestado de otra CFMoto y no en la tabla oficial española de la 650NK, que no ha podido contrastarse"
     ],
     curiosidades: [
-      "2013: nace 650NK",
-      "2021-2024: evoluciones",
-      "2025: continuidad",
+      "Su desarrollo arrancó en 2009 mirando de frente a la Kawasaki ER-6n: compartía concepto de chasis multitubular de acero y de bicilíndrico en paralelo",
+      "La saga tuvo tres etapas claras: la primera se vendió de 2012 a 2016, la segunda llegó en 2016 con diseño y parte ciclo renovados y la tercera evolución se presentó en 2021",
+      "El mismo bloque de 649,3 cc sostuvo a sus hermanas viajeras 650MT y 650GT, mientras la naked conservaba frenos J.Juan y depósito de 17 litros"
     ],
     imagen: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2117,12 +2182,16 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025",
+      "intervalo": "12 meses o 10.000 km (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual",
+          "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"
+        }
+      ]
     },
   },
   // ── CFMOTO 675SR-R 2026 ─────────────────────────────
@@ -2153,21 +2222,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "cfmoto-675sr-r-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 675 cc con 95 CV (69.9 kW) y 70 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 7.995 €",
-      "Garantía: Garantía del fabricante en modelos parecidos (675NK): 2+3 años, total 5 años (concesionario MP Racing, ficha 675NK).",
-      "CFMoto 675SR-R 2026: 189 kg, depósito de 15 l, asiento a 810 mm",
+      "Estrena el primer motor de tres cilindros de CFMoto, con cigüeñal calado a 120 grados, 95 CV a 11.000 rpm y 70 Nm a 8.250 rpm: busca el empuje abajo de un bicilíndrico y la estirada arriba de un tetracilíndrico",
+      "Parte ciclo pensada para circuito sin componentes exóticos: bastidor de acero al cromo-molibdeno, horquilla invertida KYB de 41 mm totalmente regulable y doble disco delantero de 300 mm con pinzas J.Juan de anclaje radial",
+      "Electrónica justa pero útil para aprender a rodar: control de tracción desconectable, embrague antirrebote, quickshifter de subida y pantalla TFT de 5 pulgadas con conectividad MotoPlay",
+      "Con los 7.995 € aproximados de esta ficha se sitúa 2.000 € por debajo de la Triumph Daytona 660 (9.995 €), su rival tricilíndrica directa según la prensa especializada española",
+      "Pedigrí de competición poco común a este precio: puesta a punto con ayuda del Aspar Team, podio en el British Superbike y elegida moto única del WorldWCR a partir de 2027 en sustitución de la Yamaha R7"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
+      "La tarifa española sigue marcada como aproximada en esta ficha, así que los 7.995 € no deben leerse como PVP cerrado y confirmado por CFMoto para la 675SR-R",
+      "Se queda corta de electrónica frente a una Zontes 703RR: no hay modos de conducción, ni ABS condicionado por la inclinación, ni quickshifter de bajada con blipper",
+      "Es la primera aplicación de la plataforma tricilíndrica de 675 cc, estrenada en esta deportiva antes que en la 675NK, así que su fiabilidad a largo plazo todavía no tiene el historial de un motor veterano"
     ],
     curiosidades: [
-      "2024: nace 675SR-R",
-      "2025: consolidación + Aspar",
-      "2026: continuidad; 2027: moto oficial WorldWCR",
+      "El motor tricilíndrico se mostró por primera vez en el EICMA de Milán de 2023 y la 675SR-R recibió la homologación en junio de 2024, convertida en la primera deportiva de esta cilindrada de la marca",
+      "Pilotos y técnicos del Aspar Team, socio de CFMoto en Moto2 y Moto3, participaron en las pruebas y en la puesta a punto de la versión de producción, y hubo una edición especial con los colores del equipo",
+      "Tras dos temporadas en el entorno del British Superbike, donde logró el primer podio de una moto de producción fabricada en China en ese certamen, en 2027 será la moto oficial y única del Mundial Femenino WorldWCR sustituyendo a la Yamaha R7"
     ],
     imagen: "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2175,12 +2244,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o 5.000 km, lo que ocurra…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R de maintenanceschedule.com (intervalo base 10.000 km o 12 meses, rodaje a los 1.000 km y holgura de válvulas a los 40.000 km). Sin costes: ninguna fuente consultada publica un precio de revisión para España.",
+      "intervalo": "Revisión de rodaje a los 1.000 km y después cada 10.000 km o 12 meses, lo que ocurra antes",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de rodaje (1.000 km)",
+          "queSeCambia": "Cambio de aceite de motor y filtro de aceite; inspección de refrigerante, sistema de acelerador, componentes eléctricos, batería, fusibles, discos y pastillas de freno, nivel de líquido de frenos, latiguillos, presión y estado de neumáticos y suspensiones"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica (cada 10.000 km o 12 meses)",
+          "queSeCambia": "Mantenimiento programado según la tabla específica de la 675SR-R; sin coste publicado en la fuente consultada"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión de holgura de válvulas (40.000 km)",
+          "queSeCambia": "Inspección de la holgura de válvulas del tricilíndrico; el acceso exige desmontar carenado y depósito, según la guía de mantenimiento del modelo"
+        }
+      ]
     },
   },
   // ── CFMOTO 800MT EXPLORE 2026 ─────────────────────────────
@@ -2211,22 +2294,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "cfmoto-800mt-explore-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 799 cc con 95 CV (69.9 kW) y 77 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 10.995 €",
-      "Garantía: Garantía del fabricante en modelos parecidos (675NK): 2+3 años, total 5 años (concesionario MP Racing, ficha 675NK).",
-      "CFMoto 800MT Explore 2026: 231 kg, depósito de 19 l, asiento a 825 mm",
+      "Bicilíndrico en paralelo derivado del LC8c de KTM: 799 cc y 77 Nm para viajar a dúo y con equipaje sin ir justo de empuje",
+      "Primera CFMOTO con radar trasero BRS: avisa de vehículos en el ángulo muerto, ayuda al cambiar de carril y alerta de una posible colisión por detrás",
+      "Pantalla MMI táctil de 8 pulgadas con Apple CarPlay, Android Auto y navegación, muy por encima de la instrumentación habitual en las trail medias de este precio",
+      "Seis modos —Sport, Rain, Off-Road, Off-Road Plus, All Terrain y All Terrain Plus— con IMU, ABS en curva y control de tracción ajustable según el terreno",
+      "Planteamiento rutero cerrado: depósito de 19 litros, puños y asiento del piloto calefactables, control de crucero, cambio rápido bidireccional y neumáticos Michelin Anakee Adventure de serie"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "231 kg en orden de marcha: pesada en maniobras en parado",
+      "Su enfoque es asfáltico aunque se vista de aventurera: llantas de 19 y 17 pulgadas y recorridos KYB de 160 y 150 mm se quedan cortos fuera de pista frente a rivales con rueda delantera de 21 pulgadas",
+      "Pesada para su cilindrada al maniobrar: 231 kg con el depósito lleno y un asiento a 825 mm que complica apoyar los pies a conductores de talla media o baja",
+      "Queda en tierra de nadie en 2026: la propia CFMOTO vende la 800MT-ES con suspensión electrónica por 10.495 €, 500 € menos que los 10.995 € que marca esta ficha como importe aproximado",
+      "El plan de revisiones de esta ficha sigue siendo orientativo y prestado de la 450MT, así que el coste real de cadena, neumáticos Anakee y pastillas toca confirmarlo en un concesionario CFMOTO antes de comprar"
     ],
     curiosidades: [
-      "2022: nace 800MT",
-      "2024: gama Explore",
-      "2026: continuidad",
+      "2022: CFMOTO entra en las trail medias europeas con las 800MT Sport y Touring, sobre la base motor-chasis desarrollada junto a KTM y con un enfoque más rutero que el de la 790 Adventure",
+      "Febrero de 2023: nace la Explore Edition como versión insignia, con radar trasero, seis modos y la pantalla de 8 pulgadas que no llevaban ni la Sport ni la Touring",
+      "2026: la Explore ya no está sola arriba de la gama, porque aparece la 800MT-ES con amortiguación electrónica adaptativa sobre la misma plataforma de 799 cc"
     ],
     imagen: "/media/cfmoto-800mt-explore-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2270,23 +2353,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-desertx-rally-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 937 cc con 110 CV (80.9 kW) y 92 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 23.290 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati DesertX Rally 2025: 203 kg, depósito de 21 l, asiento a 910 mm",
+      "Testastretta 11° de 937 cc con 110 CV a 9.250 rpm y 92 Nm a 6.500 rpm, el bicilíndrico desmodrómico de la Multistrada V2 llevado al campo",
+      "Horquilla KYB de cartucho cerrado de 48 mm con 250 mm de recorrido, 20 mm más que la DesertX estándar, y tratamientos Kashima Coating y DLC propios del motocross",
+      "280 mm de altura libre al suelo, guardabarros delantero alto y cubrecárter de carbono forjado: la Rally está pensada para piedras y roderas, no para postureo trail",
+      "Llantas Takasago Excel de 21 pulgadas delante y 18 detrás, con bujes mecanizados y radios de acero al carbono, más un amortiguador de dirección Öhlins regulable de serie",
+      "Depósito de 21 litros y seis modos de conducción con programas Enduro y Rally específicos, para alternar pista rápida y trialera sin cambiar de moto"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento a 910 mm: alto para pilotos de poca estatura",
-      "Precio desde 23.290 €: segmento premium",
+      "23.290 € de tarifa: 5.400 € más que la DesertX básica de 17.890 €, un sobrecoste que solo se amortiza si el uso fuera del asfalto es habitual y exigente",
+      "El asiento queda a 910 mm porque las suspensiones largas elevan la moto: en parado y en maniobras lentas, los pilotos por debajo de 1,75 m llegan de puntillas",
+      "Las llantas Excel montan cámara, así que un pinchazo en mitad de una pista obliga a desmontar la rueda en lugar de resolverlo con un kit reparapinchazos tubeless",
+      "El mantenimiento desmodrómico manda: Oil Service cada 15.000 km y Desmo Service cada 30.000 km según el plan recogido en esta ficha, un calendario más exigente que el de una trail japonesa convencional",
+      "Los Pirelli Scorpion Rally STR de serie son un compromiso: ni taco suficiente para barro profundo ni goma asfáltica para viajar cargado, así que muchos propietarios acabarán cambiando de neumático según el uso"
     ],
     curiosidades: [
-      "2022: nace DesertX",
-      "2024: llega Rally",
-      "2025: continuidad",
+      "El prototipo Scrambler DesertX del EICMA 2019 revivía la Cagiva Elefant con motor Ducati que Edi Orioli llevó a la victoria en el París-Dakar de 1990; la DesertX de producción llegó en 2022",
+      "La decoración exclusiva de la Rally se llama Iron Giant y es un guiño directo al Erzbergrodeo, la carrera de hard enduro austriaca",
+      "Sus tijas son piezas mecanizadas desde macizo, una solución de moto de competición que la DesertX estándar no equipa"
     ],
     imagen: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2330,22 +2413,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-hypermotard-698-mono-rve-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 659 cc con 77 CV (56.6 kW) y 63 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 13.990 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Hypermotard 698 Mono RVE 2025: 151 kg, depósito de 12 l, asiento a 904 mm",
+      "Superquadro Mono de 659 cc con distribución desmodrómica, pistón de 116 mm y válvulas de admisión de titanio heredados del bicilíndrico de la 1299 Panigale",
+      "Versión RVE con decoración específica y Ducati Quick Shift Up/Down de serie en el cambio de 6 marchas, un extra que la versión básica no equipa igual",
+      "151 kg en orden de marcha sin combustible, chasis multitubular de acero y recorridos supermotard de 215 mm delante y 240 mm detrás",
+      "Electrónica con plataforma inercial: ABS en curva Bosch, control de tracción, control de caballito, control de freno motor y modos Sport, Road, Urban y Wet en una LCD de 3,8 pulgadas",
+      "Intervalos amplios para un monocilíndrico que corta a 10.250 rpm: Oil Service cada 15.000 km y reglaje de válvulas cada 30.000 km según Ducati"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Asiento a 904 mm: alto para pilotos de poca estatura",
-      "Depósito de 12 l: justo para rutas largas",
+      "Asiento a 904 mm en una moto estrecha y alta de supermotard: en parado toca bajar un solo pie si eres bajo, y el asiento rebajado a 889 mm es un accesorio aparte",
+      "Depósito de 12 litros pensado para salidas cortas, puertos y tandas, no para encadenar horas de autovía sin parar a repostar",
+      "Sin carenado ni pantalla que desvíen el aire: el manillar ancho y la postura erguida dejan todo el viento en el pecho a ritmo sostenido",
+      "La tarifa de 13.990 € figura en esta ficha como aproximada y no como precio oficial cerrado, así que la cifra final de la RVE Euro5+ hay que confirmarla en concesionario",
+      "Carácter muy específico de monocilíndrico desmodrómico que sube hasta 10.250 rpm: vibra, empuja y pide conducción activa, lejos de la suavidad de un bicilíndrico turístico"
     ],
     curiosidades: [
-      "2024: nace Hypermotard 698 Mono",
-      "2025: llega RVE",
+      "La 698 Mono es la primera supermotard monocilíndrica de carretera de Ducati y estrena el Superquadro Mono, el primer motor de un solo cilindro de la marca en su gama moderna",
+      "Su motor no nace de cero: deriva del Superquadro de 1.285 cc de la 1299 Panigale, del que conserva el pistón de 116 mm, la distribución desmodrómica y las válvulas de admisión de titanio",
+      "En 2025 la diferencia frente a la moto de 2024 es la homologación Euro5+, sin cambios de motor ni de parte ciclo en la versión RVE"
     ],
     imagen: "/media/ducati-hypermotard-698-mono-rve-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2353,12 +2437,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo Service cada 30.000 km…",
+      "costeAnualAproxEur": null,
+      "fuente": "Ducati oficial, ficha técnica Hypermotard 698 Mono: Annual Service 12 meses, Oil Service 15.000 km/24 meses, reglaje de válvulas 30.000 km",
+      "intervalo": "Oil Service cada 15.000 km o 24 meses y Annual Service cada 12 meses",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Annual Service",
+          "queSeCambia": "Revisión anual de controles, niveles y elementos de seguridad de la Hypermotard 698 Mono, aunque no se hayan alcanzado los kilómetros del Oil Service"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Oil Service",
+          "queSeCambia": "Cambio de aceite motor y filtro según el plan oficial Ducati de este modelo, con Oil Service programado cada 15.000 km o 24 meses"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Reglaje de válvulas Desmo",
+          "queSeCambia": "Comprobación y reglaje del juego de válvulas de la distribución desmodrómica del Superquadro Mono cada 30.000 km"
+        }
+      ]
     },
   },
   // ── DUCATI MONSTER V2 2026 ─────────────────────────────
@@ -2389,22 +2487,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-monster-v2-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 890 cc con 111 CV (81.6 kW) y 91 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 13.190 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Monster V2 2026: 175 kg, depósito de 14 l, asiento a 815 mm",
+      "El nuevo V2 de 890 cc es el bicilíndrico de serie más ligero que ha hecho Ducati: 54,3 kg, 5,9 kg menos que el Testastretta Evoluzione de la Monster 937 a la que sustituye",
+      "La distribución variable IVT en la admisión deja más del 80 % de los 91,1 Nm disponibles entre 4.000 y 10.000 rpm, así que empuja con fuerza desde medio régimen sin obligar a estirar hasta las 9.000 rpm de los 111 CV",
+      "Monocasco de aluminio con el motor como elemento portante, subchasis trasero de tecnopolímero y basculante de doble brazo: 175 kg sin combustible, 4 kg menos que la generación anterior",
+      "Electrónica apoyada en una IMU de seis ejes con cuatro modos —Sport, Road, Urban y Wet—, pantalla TFT de 5 pulgadas y doble disco delantero de 320 mm con pinzas Brembo M4.32 y ABS en curva",
+      "Asiento a 815 mm que puede bajar a 795 mm con el asiento bajo y a 775 mm sumando el kit de rebaje, y gama con versión limitada a 35 kW pensada para quien llega desde el A2"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de 14 l: justo para rutas largas",
+      "La horquilla Showa invertida de 43 mm no tiene regulación alguna: solo el monoamortiguador trasero admite ajuste de precarga, poco margen para adaptar la Monster si cambian mucho tu peso, la carga o el ritmo",
+      "Con 14 litros y un consumo homologado de 5,2 l/100 km, la autonomía real ronda poco más de 200 km por depósito según la prueba de SoyMotero: en escapadas largas tocará planear la parada a repostar",
+      "Es la primera Monster sin distribución desmodrómica y también sin el multitubular clásico a la vista: el V2 de muelles con IVT y el monocasco de aluminio alejan a esta quinta generación de lo que un purista espera de la M900 original",
+      "El control de crucero, la navegación paso a paso y el sistema multimedia quedan como opción o preinstalación, no como equipamiento de serie, pese al posicionamiento premium de esta naked"
     ],
     curiosidades: [
-      "1993: nace Monster (M900)",
-      "2021: nueva Monster 937",
-      "2026: Monster V2 890 con distribución variable IVT",
+      "Presentada en 1992 y a la venta desde 1993, la primera Monster M900 de Miguel Ángel Galluzzi se armó con piezas de la casa —motor de la 900 SS y bastidor derivado de la 851— bajo su idea de quedarse solo con asiento, depósito, motor, dos ruedas y manillar",
+      "La generación de 2021 estrenó el monocasco de aluminio Front Frame con el Testastretta 11° de 937 cc y ya rendía 111 CV, la misma cifra de potencia que mantiene hoy la V2 pese a bajar la cilindrada a 890 cc",
+      "La de 2026 es la quinta generación de la saga: llegó a los concesionarios en febrero de 2026, en versiones Monster y Monster+, y su decoración Sport posterior se inspira en la S4, la primera Monster de cuatro válvulas"
     ],
     imagen: "/media/ducati-monster-v2-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2412,12 +2510,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX, misma marca): revisión cada 15.000 km y ajuste de válvulas cada 45.000…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX, misma marca): revisión cada 15.000 km y ajuste de válvulas cada 45.000 km (Ducati Madrid,…",
+      "costeAnualAproxEur": null,
+      "fuente": "Ducati, nota oficial de la nueva Monster recogida por Superbike News, y ficha de la Monster 2026 en Torquepedia: servicio de aceite 15.000 km o 24 meses y control de válvulas 45.000 km; SoyMotero, prueba a fondo de la Monster 2026, confirma los mismos intervalos",
+      "intervalo": "Servicio de aceite cada 15.000 km o 24 meses; control del juego de válvulas cada 45.000 km",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de aceite — 15.000 km o 24 meses",
+          "queSeCambia": "Cambio de aceite de motor y controles programados de Ducati para el nuevo V2 de 890 cc de esta Monster; no es un plan trasladado de la Multistrada V2 ni de la DesertX, es el intervalo publicado para este modelo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Control del juego de válvulas — 45.000 km",
+          "queSeCambia": "Revisión y ajuste del juego de válvulas del motor con distribución variable IVT en la admisión y sin distribución desmodrómica, el intervalo largo que Ducati destaca como referente en su categoría"
+        }
+      ]
     },
   },
   // ── DUCATI MULTISTRADA V2 S 2025 ─────────────────────────────
@@ -2448,20 +2555,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-multistrada-v2-s-2025-precio-ficha-tecnica",
     aprox: [],
     pros: [
-      "Motor de 890 cc con 115 CV (84.6 kW) y 92 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio oficial desde 19.390 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Multistrada V2 S 2025: 199 kg, depósito de 19 l, asiento a 830 mm",
+      "Estrena el bicilíndrico Ducati V2 de 890 cc con distribución variable IVT y cierre de válvulas por muelles: 115 CV a 10.750 rpm y 92 Nm a 8.250 rpm, con el 70 % del par ya disponible a 3.000 rpm",
+      "Suspensión semiactiva Ducati Skyhook sobre horquilla Marzocchi de 45 mm y 170 mm de recorrido, con estrategias que limitan el hundimiento al frenar y función de precarga mínima que baja la trasera al detenerse para apoyar mejor los pies",
+      "Chasis monocasco de aluminio que sustituye al multitubular de acero de la anterior V2 de 937 cc y recorta 18 kg al conjunto; ruedas de 19 pulgadas delante y 17 detrás con Pirelli Scorpion Trail II pensadas para asfalto y viajes",
+      "Electrónica con IMU de seis ejes, cinco modos de conducción —Sport, Touring, Urban, Enduro y Wet—, Ducati Quick Shift 2.0, control de crucero y pantalla TFT de 5 pulgadas de serie en esta versión S",
+      "PVP oficial en España de 19.390 € y garantía Ducati de 24 meses sin límite de kilometraje según la ficha oficial del modelo, ampliable con el programa Ever Red"
     ],
     contras: [
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
+      "No ofrece el radar delantero y trasero ni el control de crucero adaptativo de su hermana Multistrada V4, pese a colocarse en la parte alta de precio de las trail medias",
+      "Sale más cara que rivales directas de potencia parecida, como la Yamaha Tracer 9 GT (17.499 €) o la Triumph Tiger 900 GT Pro (14.395 €) citadas en la prueba de SoyMotero",
+      "El depósito se queda en 19 litros, uno menos que los 20 litros de la generación anterior de 937 cc, algo justo para quien quiera enlazar etapas largas sin repostar",
+      "Su enfoque es claramente asfáltico y viajero: la rueda delantera de 19 pulgadas la aleja del uso fuera de carretera serio que sí busca una DesertX"
     ],
     curiosidades: [
-      "2003: nace Multistrada",
-      "2021: V2",
-      "2025: nueva V2 S 890",
+      "La saga nació en 2003 con la Multistrada 1000 DS, pensada como una Ducati polivalente y deportiva capaz de afrontar cualquier tipo de carretera",
+      "La Multistrada de 2010 estrenó los Riding Modes en Ducati, una idea que después se extendió a casi toda la gama alta y media del mercado",
+      "La generación de 2025 es la primera Multistrada V2 sin distribución desmodrómica: el nuevo motor de 890 cc recurre a muelles convencionales y a la admisión variable IVT"
     ],
     imagen: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2469,12 +2578,26 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo Service cada 30.000 km…",
+      "costeAnualAproxEur": null,
+      "fuente": "Ducati.com, especificaciones oficiales de la Multistrada V2: Oil Service 15.000 km/24 meses, Annual Service 12 meses y reglaje de válvulas a los 45.000 km",
+      "intervalo": "Oil Service cada 15.000 km o 24 meses, con revisión anual cada 12 meses",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Oil Service",
+          "queSeCambia": "Cambio de aceite de motor y filtro con las comprobaciones generales del conjunto según el plan oficial Ducati para la Multistrada V2 de 890 cc"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual",
+          "queSeCambia": "Inspección anual de seguridad y de estado general prevista por Ducati aunque no se haya alcanzado el kilometraje del Oil Service"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Reglaje de válvulas",
+          "queSeCambia": "Comprobación del juego de válvulas a los 45.000 km; este motor ya no usa distribución desmodrómica, sino muelles, por lo que desaparece el antiguo Desmo Service de 30.000 km de la V2 de 937 cc"
+        }
+      ]
     },
   },
   // ── DUCATI PANIGALE V2 S 2025 ─────────────────────────────
@@ -2505,22 +2628,23 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-panigale-v2-s-2025-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 890 cc con 120 CV (88.2 kW) y 93 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio aproximado no oficial desde 20.290 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Panigale V2 S 2025: 176 kg, depósito de 15 l, asiento a 837 mm",
+      "Nuevo bicilíndrico de 890 cc con distribución variable IVT: 120 CV a 10.750 rpm y el 70 % de sus 93,3 Nm ya disponible desde 3.000 rpm",
+      "La S baja a 176 kg, 17 kg menos que la Panigale V2 anterior, gracias a la batería de litio y a un motor de solo 54,5 kg, el bicilíndrico más ligero de Ducati",
+      "Suspensiones Öhlins NIX30 delante y monoamortiguador Öhlins detrás, ambas totalmente regulables, frente a la Marzocchi y la Kayaba de la V2 básica",
+      "Electrónica específica de la S con Launch Control y limitador de velocidad en pit lane de serie, IMU de seis ejes y pantalla TFT de 5 pulgadas con vista de circuito",
+      "Frenada Brembo Monobloc M50 con doble disco de 320 mm sobre chasis monocasco de aluminio y basculante de doble brazo heredado de la Panigale V4"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Precio desde 20.290 €: segmento premium",
+      "Recorta 35 CV frente a la Panigale V2 Superquadro de 955 cc y 155 CV a la que sustituye: quien venga de aquella notará el paso atrás en potencia máxima",
+      "Con los 20.290 € que recoge esta ficha cuesta unos 6.800 € más que una Yamaha R9 de 119 CV, su rival directa en la nueva categoría supersport",
+      "Postura de deportiva pura con asiento a 837 mm y depósito de solo 15 litros: ni la ergonomía sobre semimanillares ni la autonomía invitan a viajar lejos",
+      "Adiós al monobrazo y a la distribución desmodrómica que definían a la Panigale bicilíndrica: el basculante de doble brazo y las válvulas accionadas por muelles restan exotismo frente a su antecesora",
+      "Exige el permiso A en esta versión de 120 CV: no es la variante rebajada a 95 CV pensada para poder limitarse al A2"
     ],
     curiosidades: [
-      "2020: nace Panigale V2",
-      "2025: nueva V2 S bicilíndrica 890",
-      "2026: continuidad",
+      "Presentada en el EICMA de noviembre de 2024 como la primera Panigale en montar el nuevo motor V2 de 890 cc sin distribución desmodrómica",
+      "Sustituye a la Panigale V2 lanzada en 2020 con el Superquadro de 955 cc y 155 CV, heredera a su vez de la saga 748, 848 y 959 Panigale",
+      "Con el escape de competición opcional la potencia sube a 126 CV y el peso cae otros 4,5 kg, según los datos de lanzamiento de Ducati"
     ],
     imagen: "/media/ducati-panigale-v2-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2564,21 +2688,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-panigale-v4-s-2026-precio-ficha-tecnica",
     aprox: [],
     pros: [
-      "Motor de 1103 cc con 216 CV (158.8 kW) y 124 Nm de par",
-      "Se puede llevar con el carnet A",
-      "Precio oficial desde 38.790 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Panigale V4 S 2026: 187 kg, depósito de 17 l, asiento a 850 mm",
+      "Desmosedici Stradale de 1.103 cc derivado del prototipo de MotoGP: V4 a 90º desmodrómico, cigüeñal contrarrotante y orden Twin Pulse con 216 CV a 13.500 rpm",
+      "Versión S con suspensiones electrónicas Öhlins NPX-30 y TTX 36 gestionadas por Smart EC 3.0 y DES 3.0, llantas de aluminio forjado y batería de litio que dejan el peso sin combustible en 187 kg",
+      "Séptima generación con basculante Hollow Symmetrical de doble brazo en lugar del monobrazo clásico, Front Frame revisado y pinzas Brembo Hypure con Race eCBS de Bosch",
+      "Electrónica con IMU de 6 ejes y Ducati Vehicle Observer: DTC DVO, DWC DVO, Slide Control, Power Launch DVO y Quick Shift 2.0, con pantalla TFT de 6,9 pulgadas",
+      "Depósito de aluminio de 17 litros y asiento a 850 mm en una configuración pensada para circuito, con modos Race A, Race B, Sport, Road y Wet"
     ],
     contras: [
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Precio desde 38.790 €: segmento premium",
+      "Precio de 38.790 € y enfoque casi exclusivo de circuito: postura radical, asiento a 850 mm y 216 CV poco aprovechables en carretera abierta",
+      "Mantenimiento desmodrómico exigente: Oil Service cada 12.000 km y control de las 16 válvulas cada 24.000 km en servicio oficial, con neumático trasero 200/60 y consumibles propios de una superbike",
+      "Configuración monoplaza de serie con kit de pasajero como accesorio y depósito de 17 litros pensado para tandas, no para viajar con acompañante"
     ],
     curiosidades: [
-      "2018: nace Panigale V4",
-      "2022: actualización",
-      "2025-2026: V4 S 216 CV",
+      "2018: la Panigale V4 sustituye a la 1299 bicilíndrica y estrena el primer V4 de serie de Ducati, presentado en el EICMA de 2017",
+      "El nombre Panigale viene de Borgo Panigale, el barrio de Bolonia donde está la fábrica de Ducati",
+      "2025: la séptima generación abandona el monobrazo tras décadas y estrena el basculante simétrico hueco de doble brazo, con un 37 % menos de rigidez lateral"
     ],
     imagen: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2586,12 +2710,31 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses",
+      "intervalo": "12.000 km o 12 meses (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión 1.000 km",
+          "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Oil Service cada 12.000 km",
+          "queSeCambia": "Cambio de aceite de motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Desmo Service cada 24.000 km",
+          "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión anual cada 12 meses",
+          "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"
+        }
+      ]
     },
   },
   // ── DUCATI SCRAMBLER 800 FULL THROTTLE 2026 ─────────────────────────────
@@ -2622,22 +2765,22 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "ducati-scrambler-800-full-throttle-2026-precio-ficha-tecnica",
     aprox: ["precioDesde"],
     pros: [
-      "Motor de 803 cc con 73 CV (53.7 kW) y 65 Nm de par",
-      "Se puede llevar con el carnet A2",
-      "Precio aproximado no oficial desde 13.290 €",
-      "Garantía: Garantía Ducati 2 años (24 meses) en modelos parecidos (toda la gama Ducati; ampliación oficial Factory Ever Red +12/24…",
-      "Ducati Scrambler 800 Full Throttle 2026: 185 kg, depósito de 14 l, asiento a 795 mm",
+      "Bicilíndrico en L desmodrómico de 803 cc refrigerado por aire: 73 CV a 8.250 rpm y 65,2 Nm a 7.000 rpm, con el empuje concentrado en el régimen medio",
+      "Escape Termignoni homologado montado de serie, una pieza que en el resto de la gama Scrambler 800 no viene incluida",
+      "Ducati Quick Shift up/down también de serie en su caja de seis marchas, para subir y bajar sin embrague",
+      "Dorsales laterales con el número 62, guiño a 1962, año de la primera Scrambler, sobre la decoración Heritage en negro y bronce con llantas a juego",
+      "Pantalla TFT en color de 4,3 pulgadas con modos Road y Sport, ABS en curva Bosch y control de tracción ajustable en cuatro niveles"
     ],
     contras: [
-      "Sin PVP oficial confirmado en España: el precio publicado es aproximado",
-      "Mantenimiento orientativo (modelo similar de la misma marca), pendiente de confirmación oficial",
-      "Sin prueba EuroNCAP: las motos no tienen prueba EuroNCAP de coche",
-      "Depósito de 14 l: justo para rutas largas",
+      "Horquilla invertida Kayaba de 41 mm sin ninguna regulación: en la versión que se presenta como la deportiva de la familia se echa en falta poder ajustarla",
+      "Un solo disco delantero de 330 mm con pinza radial Brembo para detenerla, configuración heredada de la Icon pese a su planteamiento más deportivo",
+      "Manillar bajo y de sección variable y asiento plano de inspiración tracker: la postura carga más las muñecas y castiga más en trayectos largos que el manillar alto de la Icon",
+      "Guardabarros delantero corto y trasera sin guardabarros propiamente dicho: con lluvia o firme sucio, las salpicaduras llegan antes al piloto"
     ],
     curiosidades: [
-      "2015: nace Scrambler Full Throttle",
-      "2023: nueva generación",
-      "2026: continuidad",
+      "El 62 de sus dorsales no es un número de competición: recuerda 1962, el año en que Ducati lanzó la Scrambler original",
+      "Su nombre y su estética vienen del flat track estadounidense, las carreras en óvalos de tierra, de ahí la actitud street tracker, el cubrecárter y el colín recortado",
+      "En la generación Next-Gen de 2023 estrenó bastidor, basculante y motor aligerados, un conjunto con el que Ducati declaró 4 kg menos que en la anterior"
     ],
     imagen: "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
@@ -2645,12 +2788,21 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000 km (Ducati Madrid,…",
+      "costeAnualAproxEur": null,
+      "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km; sin costes publicados, por eso costeAproxEur queda a null",
+      "intervalo": "12.000 km o 12 meses (lo que ocurra antes)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Oil Service",
+          "queSeCambia": "Aceite y filtro del bicilíndrico desmodrómico de 803 cc cada 12.000 km o al año, con primera revisión a los 1.000 km, según el programa de mantenimiento de Ducati para la Scrambler"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Desmo Service",
+          "queSeCambia": "A los 24.000 km: comprobación y ajuste del juego de válvulas de la distribución desmodrómica y sustitución de las correas de distribución, operación específica de este motor de dos válvulas por cilindro"
+        }
+      ]
     },
   },
   // ── DUCATI SCRAMBLER ICON 2026 ─────────────────────────────
