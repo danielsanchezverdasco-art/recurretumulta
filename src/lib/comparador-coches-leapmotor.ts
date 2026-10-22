@@ -683,16 +683,16 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: null,
     pros: [
-      "En el día a día funciona como eléctrico: la batería de 41,7 kWh da para 300 km CLTC sin arrancar el motor de gasolina",
-      "Sumando carga y depósito anuncia más de 1.000 km seguidos, justo lo que su hermano eléctrico puro no ofrece sin detenerse a enchufar",
-      "Entrega 272 CV y 320 Nm desde el eje trasero y cierra el paso a 100 km/h en 7,6 segundos, cifras impropias de un familiar tranquilo",
-      "Mide 4,78 metros y lleva cinco plazas, así que planta cara a otros EREV chinos como el Deepal S07 desde el espacio y no desde el precio europeo, porque aquí no se vende"
+      "Presentado en Guangzhou como tercer lanzamiento de la joven Leapmotor, en esta variante deja de depender únicamente del enchufe: primero consume la energía acumulada y, si el viaje se alarga, un bloque de gasolina entra únicamente para producir electricidad y sostener la marcha",
+      "Su conjunto trasero entrega 272 CV junto a 320 Nm, combinación que le permite completar la aceleración hasta 100 km/h en 7,6 segundos sin renunciar a un planteamiento claramente familiar",
+      "La parte enchufable resulta especialmente aprovechable en uso cotidiano, porque la batería de 41,7 kWh anuncia 300 km bajo ciclo CLTC, mientras el apoyo del generador estira el alcance conjunto por encima del millar de kilómetros entre cargas y repostajes",
+      "Frente a alternativas de autonomía extendida como el Deepal S07 o a híbridos enchufables como el BYD Seal U DM-i, defiende un formato grande —4.780 mm de largo por 1.905 mm de ancho y cinco plazas— con un precio de partida aproximado de 18.800 euros que, en su mercado de origen, queda muy por debajo de lo habitual en esta categoría"
     ],
     contras: [
-      "Leapmotor lo reserva al mercado chino: en España no hay forma oficial de comprarlo ni red de la marca que lo atienda",
-      "Por autovía manda el bloque 1.5 trabajando como generador y ahí el gasto de combustible crece y se pierde el silencio del modo eléctrico",
-      "Arrastrar 2.090 kg castiga consumos, frenada y agilidad, un peaje claro de montar batería grande y motor térmico a la vez",
-      "Esos 300 km eléctricos vienen del ciclo CLTC chino, muy generoso, así que trasladados a una homologación europea el alcance útil quedaría recortado"
+      "Su comercialización permanece limitada al mercado chino, de modo que desde España no existe compra oficial posible y cualquier unidad llegaría por importación particular, sin red de la marca detrás para posventa o recambios",
+      "Agotada la carga en autovía, mantener ritmos altos obliga a trabajar de forma continuada al generador de 1,5 litros, circunstancia en la que el apetito de gasolina crece y desaparece buena parte del ahorro logrado en ciudad",
+      "Mover 2.090 kg tiene peaje dinámico: la inercia se percibe al frenar y al enlazar curvas, y tanto neumáticos como equipo de frenos soportan un esfuerzo propio de un vehículo notablemente más pesado que un SUV compacto",
+      "La cifra eléctrica de 300 km procede de la homologación china CLTC, un protocolo benévolo; interpretada con criterio WLTP europeo sería inferior, así que conviene descontar margen antes de planificar trayectos reales sin recargar"
     ],
     largoMm: 4780,
     anchoMm: 1905,

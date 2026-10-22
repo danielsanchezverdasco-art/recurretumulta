@@ -1079,7 +1079,6 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
       "intervaloRevision": "Revisión básica cada 3 meses; revisión completa cada 6 meses o 500 km; revisión anual al año o a los 3.000 km, según el programa de mantenimiento Dualtron",
-      "presionNeumaticos": "50 PSI",
       "trucos": [
         "Deja los neumáticos de 10 pulgadas a 50 psi, el valor indicado en el manual específico de este modelo, y revisa cortes o desgaste acusado",
         "Comprueba el tacto de ambas manetas, el estado de las pastillas y que ningún disco roce al girar las ruedas en vacío",
@@ -1332,7 +1331,6 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
       "intervaloRevision": "Revisiones cada 3 meses; control más completo cada 6 meses o 500 km y revisión al año o a los 3.000 km, según el programa de mantenimiento de los manuales Dualtron (plataforma EY4).",
-      "presionNeumaticos": "50 PSI",
       "trucos": [
         "Antes de salir: comprueba acelerador, manetas, luces y que el plegado no tenga holguras; cualquier tornillo flojo en dirección o plegado se reaprieta antes de rodar.",
         "Neumáticos de 10x2,5 pulgadas con cámara a 50 psi, la presión indicada en el manual específico del Spider Max; revisa también cortes, deformaciones y desgaste de la banda de rodadura.",
@@ -1340,8 +1338,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         "Tornillería de manillar y potencia con el par orientativo de 6 a 8 N·m que recoge el programa de mantenimiento Dualtron; revisa igualmente los tornillos del mecanismo de plegado.",
         "Batería de 1.800 Wh (60 V y 30 Ah): cárgala solo entre 0 y 40 ºC según el manual, no la desmontes y, si vas a guardarlo una temporada larga, recárgala una vez cada 60 días.",
         "Limpieza con un paño suave y húmedo sobre la unidad principal, sin chorros de agua a presión sobre motores, conectores ni pantalla EY4.",
-        "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha.",
-        "El freno hidráulico usa aceite mineral BK407; su sustitución, si baja el rendimiento de frenada, corresponde al servicio autorizado según el manual."
+        "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha."
       ]
     },
   },

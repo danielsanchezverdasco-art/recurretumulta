@@ -4510,7 +4510,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     aprox: ["costeAnualAproxEur"],
     pros: [
       "En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto",
-      "Con 8,8 CV y etiqueta Cero se mueve con soltura manteniendo acceso libre a zonas restringidas al tráfico",
+      "Puedes llevarlo con el A1 o con el B de más de tres años: sus 8,8 CV y la etiqueta Cero juegan a su favor en ciudad",
       "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin depender de un garaje con punto fijo",
       "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia",
       "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"
