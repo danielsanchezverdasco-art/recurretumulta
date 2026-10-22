@@ -2888,3 +2888,25 @@ Bloque 4 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b4`**
 **Bloqueadas honestas:** mantenimiento/garantía/EuroNCAP `null` en modelos sin venta oficial en España/Europa (Oshan, Venucia, Baojun, Maextro, Neta, Sehol…); EuroNCAP `null` con solo C-NCAP. Baojun Xiangjing PHEV: plan construido desde el EV + guías del motor PHEV (regla de modelo similar), costes `null` — revisar criterio al integrar.
 
 Siguiente paso de tu lado: integrar/revisar la rama; la publicación, con el OK de Daniel como siempre. Con este van **2 bloques cerrados de 6 (b4 + b5 = 262/787 fichas clónicas)**.
+
+## Niky → Merlín (nota 24, 22/10 ~05:25) — Unicidad: BLOQUE 3/6 CERRADO (131/131)
+
+Bloque 3 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b3`** @ `d85ad11e8` (desde `main` @ `16a6aea48`; push verificado por el coordinador con ls-remote por ref completa — mi re-chequeo independiente no ha podido correr: la red de esta VM está caída a ratos esta madrugada). Alcance: posiciones 263–393 de `clonicas.csv` (grupos G5–G20): 82 coches · 49 patinetes. Sin tocar `main`, sin publicar nada. La rama incluye `b3-outputs/` (131 JSON de evidencia por ficha): puedes retirarla al integrar.
+
+**Validación:**
+- `npx tsc -b --force` exit **0**.
+- Solape de ventanas ≥7 tokens (métrica de la auditoría): antes máx. **60,5 %** · mediana 12,3 % → después máx. **8,5 %** · mediana **2,7 %** · **0 fichas ≥10 %**. (El Voyah Passion S quedó en 11,3 % contra el Taishan por un descargo de precio calcado entre workers: reescrito, ya dentro.)
+- Piezas: **124 historias verificadas** en `src/lib/historia-b3.ts` (spread ya parcheado en `historia-modelos.ts`); EuroNCAP: 4 con datos reales + 19 «sin datos» honestos; **44 mantenimientos DIY** de patinetes; 1 plan formal (RAV4, estimación marcada con fuente oficial).
+- **Garantías: 15 registradas en `~/workspace/unicidad-fichas/garantias-b3.json`, SIN tocar `garantias-marcas.ts`** — te toca volcarlas al integrar.
+- Detalle: `~/workspace/unicidad-fichas/reporte-b3-merlin.md` + `progreso-b3.csv`.
+
+**Bloqueadas honestas:** 55 fichas sin precio verificado (esta oleada no toca precios; ninguna cifra fabricada), 15 sin post de análisis (fuera de alcance, es la tanda de blogs), historias no verificables dejadas en null (gotrax-rival, hiboy-nex5, kugoo-kirin-s4…).
+
+**⚠️ Banderas de datos corruptos en main (NO corregidas, para la pasada de datos) — 16 casos, detalle en el reporte. Los más graves:**
+1. **changan-uni-z**: precio 43.000 € frente a ≈19.520 € reales y AWD inventada.
+2. **nio-el6-2026**: ficha 75 kWh/610 km CLTC/65.990 € frente a oficial 100 kWh/500 km WLTP/79.900 €.
+3. **avatr-06**: mezcla con Avatr 11, maletero imposible de 2.250 L.
+4. **neta-s-shooting-brake** y **xpeng-mona-m03**: cifras/catálogo inventados. **maextro-s800**: 862 CV que no suman.
+5. **jetour-t2-i-dm** y **jetour-shanhai-l7**: mezclas gasolina/PHEV. **honda-jazz**: mezcla con Crosstar. **voyah-dream-9**: descripción duplicada de un sedán. **nio-et7-75**: precio desactualizado. También changan-cs55-plus, changan-cs75-plus, cecotec-bongo-serie-z-power-city y segway-ninebot-f2-pro-ii.
+
+Con este van **3 bloques cerrados de 6 (b3 + b4 + b5 = 393/787 fichas clónicas)**. Siguiente paso de tu lado: integrar/revisar las ramas; la publicación, con el OK de Daniel como siempre.
