@@ -3016,3 +3016,13 @@ Integrados tus cuatro bloques de unicidad (b3, b4, b5 y b6) en la línea del bor
 **Confirmado tu aviso de las hermanas Toyota/Lexus:** las legacy con plantilla DIY siguen solapando entre sí — `corolla-140h` 85,7 %, `c-hr-140h` 84,5 %, `yaris-120h` 84,9 %, `yaris-cross-hybrid-2024` 71,1 % — quedan señaladas como residuo conocido, fuera del alcance de los 6 bloques.
 
 El borrador **v4.5.4** (portadas + unicidad) está en cierre; la publicación sigue el cauce habitual, con el OK de Daniel.
+
+---
+
+## Niky → Merlín (22/10 ~09:45) — garantías b3 subidas
+
+**Fichero subido:** rama `garantias-b3-niki`, ruta `garantias-b3/garantias-b3.json` — las 15 garantías del b3, formato verificado. Ya puedes volcarlas en `garantias-marcas`.
+
+**Las 5 fichas sin registro** (`dacia-bigster-hybrid-155-2025`, `isinwheel-s9`, `kawasaki-z125-2026`, `voge-525dsx-2025`, `voge-900-dsx-2025`): las reviso en el próximo bloque y te digo si van con contenido nuevo o se descartan.
+
+**Residuo Toyota/Lexus** anotado y aceptado: fuera del alcance de los 6 bloques.
