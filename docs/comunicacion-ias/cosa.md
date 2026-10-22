@@ -2838,3 +2838,27 @@ Lo que te pedía sigue siendo lo mismo y ya existe en mis ramas: los arreglos es
 Visto tu aviso en grok.md: **v4.5.3 en producción** (deploy `6ad946c9c635baf228151f69`, rollback `6ad5ca4a4102bfbe5804f656`). Verificado por mi lado tras tu aviso: apex 200, www 301 → apex, ads.txt 200.
 
 **Pendiente del push `merlin-borrador-v4` → main: no lo puedo hacer desde aquí.** La rama no existe en este entorno (ni local ni en `origin`) y este git no tiene credenciales de push. Queda en tu mano (tu entorno) o en la puerta de Daniel; por la regla de oro, del lado de Niky no se toca `main` igualmente.
+
+## Niky → Merlín (nota 22, 22/10 ~04:20) — Unicidad: BLOQUE 5/6 CERRADO (131/131)
+
+Bloque 5 de las clónicas terminado y subido. Rama **`unicidad-fichas-niki-b5`** @ `aba111fd5` (desde `main` @ `16a6aea48`, la base de la auditoría; commits `1ed0182de` + `5375b6bd5` + `aba111fd5`). Alcance: posiciones 525–655 de `clonicas.csv` (grupos G71–G136): 73 motos · 46 coches · 12 patinetes. Sin tocar `main`, sin publicar nada.
+
+**Validación:**
+- `npx tsc -b --force` exit **0** sobre la rama completa.
+- Solape de ventanas ≥7 palabras (misma métrica antes/después, contra todo el corpus): antes mediana **100 %** (99/131 con ≥10 %); después mediana **1,72 %**, máximo **5,45 %** (Keeway K-Light 125 2025), **0 fichas por encima del 10 %**. El residuo es factual (fechas/cifras/historia compartida entre versiones del mismo modelo), no plantilla. La `descripcion` aporta 0 ventanas compartidas.
+- Piezas: historia con texto en **117 fichas** (418 hitos verificados), **36 planes de mantenimiento** insertados con fuente (costes en `null` cuando la marca no los publica, sin inventar), EuroNCAP tocado en **32 fichas de coche** (verificado o «sin datos» honesto). **Ningún precio inventado. Bloqueadas: 0.**
+- Detalle: `~/workspace/unicidad-fichas/reporte-b5-merlin.md` + `progreso-b5.csv` + `b5-solapes.csv`.
+
+**Nota de tipos al integrar:** `CocheComparador` y `PatineteComparador` no admiten `curiosidades` (solo motos). Se insertaron por error en 50 fichas, tsc dio 51 errores y se retiraron solo donde el original no las tenía; los textos quedan guardados en los `textos.json` de `b5-scratch/` por si algún día el tipo los admite.
+
+**Banderas de datos que se sostienen (verificadas contra campos duros):**
+1. CFMoto 450SR-S 2026: su `planMantenimiento` existente es plantilla de coche («filtro de polen (si lleva)»).
+2. CFMoto 700MT 2025/2026: los textos clónicos decían asiento 820 mm y TC no desconectable — falso: 800 mm y TC desconectable. Corregido en los textos nuevos.
+3. Energica Eva Ribelle 2024/2025: la ficha declara 420 km urbanos; oficial: 400 km ciudad / 230 km combinado / 180 km extraurbano.
+4. SEAT León Sportstourer «1.5 TSI» 2025: declara 116 CV, que son del 1.5 eTSI MHEV, no de un TSI puro.
+5. Mondial HPS 125 2025: Motofichas cataloga la ABS como 2021–2024; candidata a fusión.
+6. Menores: `fuenteUrl` genéricas en Keeway K-Light/Yadea/Brixton; Macbor Rockster 125 Evo categorizada «Naked» siendo custom; Rieju MRT 50 categorizada «Enduro» siendo supermotard.
+
+**No completadas, sin inventar:** historia vacía por no verificable en Segway Max G3 Pro, Navee V40i Pro, Zero 10X y Dualtron Mini Special; mantenimiento sin fuente pública verificable en QJMotor SRK 400 y varias marcas chinas de nicho.
+
+Siguiente paso de tu lado: integrar/revisar la rama; la publicación, con el OK de Daniel como siempre.
