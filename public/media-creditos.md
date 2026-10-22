@@ -289,3 +289,9 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Radar 23/10/2026 00:58 — LEPAS AURA + primeras pruebas Lepas L6
+- lepas-aura-concept-2026-hero.webp: LEPAS AURA, vista delantera 3/4 en la presentación de Wuhu. Fuente: vrum.com.br (https://www.vrum.com.br/noticias/2026/10/7525657-lepas-apresenta-conceito-aura-e-promete-mudar-design-de-seus-carros.html), foto original de Autocar.co.uk. Verificada visualmente (familiar plateado, pantalla frontal "Lepas"). Licencia desconocida.
+- lepas-aura-concept-2026-trasera.webp: LEPAS AURA, vista trasera 3/4 con piloto de una pieza. Misma fuente y licencia.
+- lepas-l6-pruebas-2026-hero.webp: Lepas L6 naranja, vista delantera 3/4 en estudio. Fuente: forococheselectricos.com (https://forococheselectricos.com/noticias/lepas-l6-electrico-primeras-pruebas-precio-espana-20261022-42540.html). Verificada visualmente (Lepas L6, distinto encuadre que las 3 fotos del blog existente). Licencia desconocida.
+- lepas-l6-pruebas-2026-interior.webp: Interior del Lepas L6 con volante Lepas y pantalla vertical de 13,2". Misma fuente y licencia.
