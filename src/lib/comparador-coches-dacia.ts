@@ -1131,18 +1131,18 @@ export const COCHES_DACIA: CocheComparador[] = [
     emisionesCo2: null,
     aprox: [],
     pros: [
-      "18.890 €: eléctrico con 65 CV por menos de 19.000 €",
-      "228 km WLTP y 13,3 kWh/100 km: eficiencia muy buena para su precio",
-      "0-100 en 13,7 s: 5,4 s más rápido que el Electric 45",
-      "Etiqueta Cero y carga rápida de 30 kW en continua",
-      "Garantía de batería de 8 años o 120.000 km al 75 %",
+      "18.890 € en acabado Expression: es la tarifa de 2024 para acceder al motor potente tras un rediseño que renovó casi toda la carrocería del Spring de 2021",
+      "Con 113 Nm y solo 1.059 kg baja el 0-100 a 13,7 s, frente a los 19,1 s del hermano de 45 CV: incorporarse a una vía rápida deja de exigir tanta anticipación",
+      "Homologa 13,3 kWh/100 km con la batería pequeña de 26,8 kWh: su ligereza hace que cada recarga doméstica rinda más kilómetros que en rivales urbanos más pesados",
+      "El restyling de 2024 añadió carga bidireccional V2L para alimentar aparatos externos, algo insólito en un eléctrico de menos de 19.000 €, y conserva toma CCS con pico de 30 kW",
+      "Batería cubierta durante ocho años con tope de 120.000 km y suelo de capacidad del 75 %, un respaldo largo para un coche pensado como segundo vehículo familiar"
     ],
     contras: [
-      "1.254 € más que el Electric 45 por la misma batería y autonomía",
-      "125 km/h de máxima: sigue siendo un urbano puro",
-      "4 plazas y maletero de 288 L: justo para más de dos personas",
-      "1 estrella Euro NCAP",
-      "Carga en alterna limitada a 6,6 kW: sin wallbox, paciencia",
+      "Pasar del Expression de 45 CV a este de 65 CV costaba 1.000 € en la tarifa de lanzamiento de 2024 y no suma ni un kilovatio hora: la batería y los 228 km homologados son los mismos",
+      "Euro NCAP lo dejó en una estrella en diciembre de 2021, con un 49 % en protección de adultos y protección pobre del pecho del conductor en el choque frontal",
+      "Por un dinero parecido, km77 sitúa al Leapmotor T03 y al BYD Dolphin Surf por delante en tacto de conducción, espacio para pasajeros y prestaciones",
+      "Solo tiene cuatro plazas y las traseras van justas para dos adultos; los 288 litros de maletero resuelven la compra semanal, no el equipaje de unas vacaciones",
+      "En corriente alterna el cargador de a bordo se queda en 6,6 kW, así que recuperar por completo la batería en casa exige varias horas enchufado"
     ],
     imagen: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp",
@@ -1152,20 +1152,43 @@ export const COCHES_DACIA: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.4,
-      "seguroTercerosAnual": 400,
-      "seguroAmpliadoAnual": 680,
-      "mantenimientoAnual": 250,
       "costeMensualTotal": 108,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 250,
+      "notas": "Cálculo pensado solo para este 65: mil kilómetros al mes entre ciudad y extrarradio, recargando en el garaje de casa. Con el gasto homologado que recoge la ficha, recorrer cien kilómetros sale a 2,40 euros de electricidad. El seguro a terceros de 400 euros y los 250 euros al año de revisiones son importes orientativos propios de un urbano eléctrico del segmento A, no tarifas cerradas de Dacia, que no publica un precio único de revisión para el Spring.",
       "precioGasolinaL": 1.6,
-      "notas": "12.000 km/año; recarga doméstica a 0,18 €/kWh con consumo WLTP 13,3 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 680,
+      "seguroTercerosAnual": 400
     },
     galeria: [
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Spring Electric 65 2024, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp", "alt": "Dacia Spring Electric 65 2024, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Spring Electric 65 2024", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {
+      "ano": 2021,
+      "estrellas": 1,
+      "nota": "Prueba publicada el 8 de diciembre de 2021 sobre el Spring anterior al rediseño de 2024, en su versión de 45 CV: 49 % en ocupante adulto, 56 % en ocupante infantil, 39 % en usuarios vulnerables y 32 % en asistentes. Euro NCAP señaló riesgo elevado de lesiones en el pecho del conductor y en la cabeza del pasajero trasero durante los choques frontales",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual de usuario del Dacia Spring en español (reproducido en manual.ec): servicio periódico principal con periodicidad bienal o al llegar a los 30.000 km y cambio del líquido de frenos bienal. Manual de utilización del Spring (ManualsLib): la sustitución de los elementos filtrantes, como el filtro del habitáculo, está prevista dentro de las operaciones de mantenimiento. Dacia no publica un coste cerrado de revisión para España, por eso los costes quedan a null",
+      "intervalo": "Revisión principal bienal, con tope de 30.000 km entre visitas (lo primero que se cumpla)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica / 30.000 km",
+          "queSeCambia": "Inspección del conjunto eléctrico y del estado de la batería de tracción, control de frenos, neumáticos y niveles, y sustitución de los elementos filtrantes previstos en el programa del coche, entre ellos el filtro del habitáculo; el manual del Spring remite al documento de mantenimiento para la periodicidad exacta de cada elemento"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 2 años",
+          "queSeCambia": "Renovación del líquido de frenos, que el manual del propietario del Spring recomienda cambiar cada dos años"
+        }
+      ]
+    },
   },
   {
     id: "dacia-duster-hybrid-140-2025-precio-ficha-tecnica",

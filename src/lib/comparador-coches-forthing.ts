@@ -281,18 +281,18 @@ export const COCHES_FORTHING: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: [
-      "Batería de 85,9 kWh: hasta 600 km en ciclo CLTC",
-      "204 CV y 340 Nm con 0-100 en 7,9 s",
-      "Maletero de 541 litros, de los grandes del segmento",
-      "Etiqueta Cero de la DGT y carga rápida del 30 al 80 % en 37 min",
-      "Garantía de batería de 8 años o 200.000 km",
+      "Es el Leiting chino: la variante eléctrica del T5 EVO, lanzada en marzo de 2023 sobre la plataforma EMA-E y mostrada en el IAA de Múnich ya como Friday EV",
+      "Su batería ternaria blindada de 85,9 kWh declara hasta 630 km en el ciclo CLTC y una densidad superior a 175 Wh/kg, según Dongfeng Forthing",
+      "La bomba de calor Huawei TMS 2.0 eleva un 16 % la autonomía invernal que la marca atribuye a este modelo",
+      "ASEAN NCAP lo calificó con cinco estrellas en 2025: 31,82 de 32 puntos en protección de adultos para las versiones BEV y REEV",
+      "541 litros de maletero con solo 4.570 mm de longitud total y 2.715 mm entre ejes"
     ],
     contras: [
-      "Sin precio europeo oficial (estimación de 32.990 €)",
-      "Potencia de carga rápida en CC no publicada",
-      "Marca con presencia testimonial en España",
-      "Autonomía WLTP europea pendiente de homologación",
-      "Sin nota Euro NCAP",
+      "Dongfeng Forthing carece de red oficial en España: el Friday se vendió en otros mercados europeos, pero aquí no hay importador que lo respalde",
+      "No existe ensayo de Euro NCAP y la marca tampoco lo presentará a ANCAP en Australia: según su responsable, no se desarrolló buscando las cinco estrellas",
+      "Recargar 85,9 kWh lleva su tiempo: la ficha del fabricante necesita 0,75 horas para pasar del 30 al 80 %, lejos de los mejores del segmento",
+      "El alcance depende del papel que se mire: 630 km CLTC en China frente a unos 510 km WLTP en la especificación europea, sin cifra española homologada",
+      "La marca no publica consumo homologado para esta versión y la ficha lo deja vacío, así que el gasto real en autopista queda sin referencia oficial"
     ],
     largoMm: 4570,
     anchoMm: 1860,
@@ -308,16 +308,15 @@ export const COCHES_FORTHING: CocheComparador[] = [
     imagen: "/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 3.06,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 440,
-      seguroAmpliadoAnual: 780,
-      mantenimientoAnual: 300,
-      costeMensualTotal: 128,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Autonomía WLTP estimada.",
-      estimado: true,
+      "costeEnergia100km": 3.06,
+      "costeMensualTotal": 128,
+      "estimado": true,
+      "mantenimientoAnual": 300,
+      "notas": "Presupuesto construido solo para este Friday: recorrer 100 km cuesta 3,06 € porque el cálculo parte de unos 17 kWh valorados a 0,18 € en un enchufe doméstico. Ni el seguro ni los 300 € anuales de revisión salen de una tarifa de Dongfeng Forthing, marca sin red española que las publique.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 780,
+      "seguroTercerosAnual": 440
     },
     galeria: [
       {
@@ -340,6 +339,39 @@ export const COCHES_FORTHING: CocheComparador[] = [
       },
     ],
     analisisSlug: "forthing-friday-ev-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: no consta ensayo de Euro NCAP para el Friday EV; la calificación de cinco estrellas localizada procede de ASEAN NCAP (2025) y no es extrapolable",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual oficial del Friday (European Standards), Dongfeng Liuzhou Motor, octubre de 2022, capítulo 09 «Maintenance and repair» (forthingmotor.com); sin costes publicados",
+      "intervalo": "Sin visita única fijada en el manual europeo: las operaciones vienen por kilometraje y tiempo (filtro del climatizador cada 20.000 km; refrigerante al llegar a 20.000 km o a los dos años; líquido de frenos al cumplirse dos años o 40.000 km)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Filtro del climatizador (cada 20.000 km)",
+          "queSeCambia": "Sustitución del filtro del aire acondicionado, alojado tras la guantera según el manual europeo del Friday; el propio manual remite el resto del mantenimiento periódico a su tabla separada de garantías y mantenimiento"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Refrigerante del circuito de tracción (2 años o 20.000 km)",
+          "queSeCambia": "Renovación del refrigerante al llegar el primer vencimiento; el manual advierte de no mezclar marcas distintas y de usar el anticongelante de cuatro estaciones designado por Dongfeng Forthing"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Líquido de frenos DOT4 (2 años o 40.000 km)",
+          "queSeCambia": "Cambio del líquido de frenos por el DOT4 especificado por la marca, con control mensual del nivel entre las marcas MIN y MAX del depósito"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Aceite de la reductora",
+          "queSeCambia": "El manual prescribe lubricante 75W-90 con una carga de 1,3 ± 0,05 litros y su sustitución cuando el programa de mantenimiento lo exija; el texto consultado no fija kilometraje para esta operación"
+        }
+      ]
+    },
   },
   {
     id: "forthing-friday-reev-2025-precio-ficha-tecnica",

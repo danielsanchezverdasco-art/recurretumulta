@@ -1429,18 +1429,18 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El SUV más exclusivo de Bentley: EWB con artesanía Mulliner a medida",
-      "Parrilla Double Diamond y llantas Mulliner de 22\" con autonivelación",
-      "Interior a medida: cada unidad puede ser única en el mundo",
-      "El techo de los SUV de lujo por 367.552 €",
-      "Asientos traseros de avión con la mejor tapicería de Crewe",
+      "Presentado en agosto de 2023 como nuevo buque insignia de toda la gama Bentley, heredero del hueco que dejó el Mulsanne al retirarse en 2020",
+      "Airline Seat trasero de serie: 22 reglajes, reclinación de casi 40 grados en modo Relax y climatización que mide la temperatura y la humedad del ocupante",
+      "Cuero Olive Tan curtido aprovechando subproductos del aceite de oliva, primicia en un automóvil, e iluminación que brilla a través de la piel perforada de las puertas",
+      "Ocho combinaciones tritono ya creadas por la casa y casi 4.000 posibles mezclando piel principal, secundaria y tono de acento a gusto del cliente",
+      "Dirección trasera y estabilizadoras activas de 48 voltios de serie, y aun así capaz de remolcar 3,5 toneladas con freno"
     ],
     contras: [
-      "367.552 € de partida: territorio Cullinan en precio",
-      "Misma mecánica V8 de 550 CV que el EWB base: cero ganancia dinámica",
-      "Etiqueta C y 296 g/km de CO₂",
-      "Maletero de 380 L y 5,32 metros de largo",
-      "Plazos de entrega largos por fabricación a medida",
+      "Parte de 367.552 € sin opciones, más de 82.000 € por encima del Bentayga EWB de acceso, en la misma liga de precio que un Rolls-Royce Cullinan",
+      "El V8 rinde aquí los mismos 550 CV y firma el mismo 4,6 segundos hasta 100 km/h que en el EWB normal: el sobreprecio no compra ni un caballo extra",
+      "No se vende como cinco plazas: solo hay configuración de cuatro asientos o 4+1, con una plaza central trasera pensada para uso ocasional",
+      "El maletero se queda en 380 litros con la disposición 4+1, una cifra escasa para viajes largos en un SUV de batalla larga pensado para ir con chófer",
+      "Con 296 gramos de CO₂ por kilómetro y 12,8 litros a los cien lleva etiqueta C, sin ninguna ventaja de acceso o fiscal frente a los híbridos enchufables"
     ],
     largoMm: 5322,
     anchoMm: 1998,
@@ -1457,14 +1457,14 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 21.1,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1900,
       "costeMensualTotal": 910,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 1900,
+      "notas": "Estimación para este V8 de gasolina sin hibridar: sus 12,8 l/100 km WLTP a 1,65 € por litro dan unos 21 € de combustible cada 100 km, y seguro y mantenimiento corresponden a un SUV artesanal de 367.552 €",
       "precioGasolinaL": 1.65,
-      "notas": "estimación: el tope de gama SUV eleva seguro y mantenimiento al máximo",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3200,
+      "seguroTercerosAnual": 1500
     },
     galeria: [
       {
@@ -1486,6 +1486,34 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el Bentayga no ha sido ensayado por Euro NCAP en ninguna versión, tampoco en esta EWB Mulliner",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Planes de servicio Bentley recogidos por CarExpert (programa regular cada 12 meses o 16.000 km, con aceite, filtros, líquido de frenos y pilas de llave) y programa Interim/Major del Bentayga publicado por Auto Express",
+      "intervalo": "Cada 12 meses o cada 16.000 km recorridos, lo primero que se cumpla",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión Interim",
+          "queSeCambia": "Aceite nuevo para el V8 4.0 con su filtro, filtro de polen, escobillas limpiaparabrisas y pilas de la llave, más la inspección de componentes incluida en los planes de servicio de la marca"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión Major, alterna con la Interim",
+          "queSeCambia": "Suma a lo anterior los filtros de aire del motor y la renovación del líquido de frenos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada tercera revisión",
+          "queSeCambia": "Bujías nuevas para el V8 biturbo, operación prevista por separado en el programa de mantenimiento del Bentayga"
+        }
+      ]
+    },
   },
 {
     id: "bentley-batur-2024-precio-ficha-tecnica",

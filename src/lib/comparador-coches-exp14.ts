@@ -1226,18 +1226,18 @@ export const COCHES_EXP14: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "558 km de autonomía WLTP: la mayor de la gama EQA",
-      "Batería útil de 70,5 kWh con 190 CV eficientes",
-      "5 estrellas EuroNCAP: 97 % en ocupante adulto",
-      "Carga rápida de 100 kW: del 10 al 80 % en 32 minutos",
-      "Calidad Mercedes a precio de SUV generalista alto",
+      "Es el EQA de mayor alcance de la gama: homologa 558 km WLTP porque su batería útil crece hasta 70,5 kWh, frente a los 66,5 kWh del EQA 250 a secas",
+      "Su único motor, delantero, entrega 190 CV y 385 Nm y aun así homologa un consumo de solo 14,5 kWh cada 100 km en ciclo WLTP",
+      "Euro NCAP le traslada las cinco estrellas obtenidas por el Clase B en 2019, con un 97 % en protección de ocupantes adultos y un 90 % en infantil",
+      "Se estrenó en enero de 2021 en la planta de Rastatt, compartiendo línea con el GLA, y la actualización de 2023 le dio la parrilla con patrón de estrellas",
+      "En corriente continua admite 100 kW y recupera del 10 al 80 % de carga en 32 minutos, el tiempo de una parada breve en un viaje por autopista"
     ],
     contras: [
-      "Maletero de solo 340 litros: pequeño para un SUV",
-      "8,6 s de 0-100: el EQA menos prestacional",
-      "Plataforma derivada del GLA de combustión, no nativa eléctrica",
-      "Mercedes no publica el porcentaje de degradación garantizado",
-      "El EQA 350 4MATIC ofrece mucho más por poco más",
+      "El maletero se queda en 340 litros pese a sus 4.463 mm de largo: la batería instalada bajo el piso le roba capacidad frente al GLA de combustión del que deriva",
+      "Acelera de 0 a 100 km/h en 8,6 segundos y su velocidad queda limitada a 160 km/h: dentro de la propia gama, el 350 4MATIC de dos motores juega otra liga",
+      "No nace de una plataforma eléctrica dedicada, sino de la arquitectura MFA2 adaptada del GLA, una solución de transición anterior a las bases EQ específicas de Mercedes",
+      "Su calificación de seguridad tiene letra pequeña: cinco estrellas con el protocolo de 2019, heredadas del Clase B y ya fuera del periodo de vigencia que Euro NCAP reconoce",
+      "Desde 56.450 €, la estrella se paga cara en un SUV compacto de 190 CV y tracción delantera, con rivales de plataforma nativa que cargan más rápido y ofrecen más maletero"
     ],
     largoMm: 4463,
     anchoMm: 1834,
@@ -1268,6 +1268,29 @@ export const COCHES_EXP14: CocheComparador[] = [
       },
     ],
     analisisSlug: "mercedes-eqa-250-plus-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2019,
+      "estrellas": 5,
+      "nota": "Valoración aplicada al EQA en julio de 2021 desde el Clase B probado en 2019, con el que comparte estructura: 97 % en adultos, 90 % en infantil, 81 % en usuarios vulnerables y 75 % en asistentes, sobre un EQA AMG Line con volante a la izquierda",
+      "url": "https://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/587946_v2.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalo de 25.000 km y 12 meses recogido para el EQA 250+ de 2025 por RedBook y confirmado por el contador ASSYST descrito por propietarios en ForoEV; estructura de servicios A y B alternos según la página oficial de mantenimiento de Mercedes-Benz en España. Sin precio cerrado publicado en España, por eso los costes quedan a null",
+      "intervalo": "El indicador ASSYST del propio coche avisa cada 25.000 km o al cumplirse un año, alternando los servicios A y B",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio A, primera visita a los 25.000 km o al año",
+          "queSeCambia": "Inspección completa del tren eléctrico y de la batería de alto voltaje, comprobación de frenos, neumáticos, niveles y refrigeración, revisión del software y reinicio del contador de mantenimiento; en un eléctrico no hay aceite de motor que sustituir"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio B, a los 50.000 km o a los dos años",
+          "queSeCambia": "Repite la inspección del servicio A y añade la sustitución del filtro de polvo y polen del habitáculo y el cambio del líquido de frenos, que Mercedes programa cada dos años"
+        }
+      ]
+    },
   },
   {
     id: "toyota-urban-cruiser-2026-precio-ficha-tecnica",

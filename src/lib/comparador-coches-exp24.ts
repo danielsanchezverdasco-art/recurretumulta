@@ -761,18 +761,18 @@ export const COCHES_EXP24: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "290 km CLTC en modo eléctrico y 1.474 km de autonomía total (mejora respecto a 2024)",
-      "Huawei ADS 3.3 con 4 LiDAR: el sistema de asistencia más avanzado de la marca",
-      "496 CV y 675 Nm con tracción total: 0-100 km/h en 4,9 s",
-      "Chasis Turing con suspensión neumática de doble cámara y dirección trasera",
-      "Interior de 6 plazas con asientos de gravedad cero y nevera",
+      "La batería que queda en la gama EREV pasa a ser la de 52 kWh: 290 km eléctricos CLTC y 1.474 km combinados tras eliminar la anterior opción de 42 kWh",
+      "El ADS 3.3 suma tres LiDAR cortos a los guardabarros y la zaga hasta completar cuatro, y estrena paso autónomo por rotondas, barreras y plantas de aparcamiento",
+      "Comunicación por satélite Huawei Galaxy: mantiene llamadas de voz cuando desaparece la cobertura móvil terrestre",
+      "El proyector trasero renovado duplica resolución y suma un 63 % más de brillo, y la nevera del habitáculo también calienta, entre 0 y 50 °C",
+      "El extensor 1.5 turbo sube a 118 kW (158 CV) y el conjunto de dos motores conserva 675 Nm con tracción a las cuatro ruedas"
     ],
     contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "2.560 kg de peso y 5,23 m de largo: poco apto para ciudades europeas",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Precio de 469.800 yuanes (~61.100 €): compite con premium europeas",
-      "Las mejoras frente al M9 de 2024 son evolutivas, no revolucionarias",
+      "En su lanzamiento del 20 de marzo de 2025 quedó limitado al mercado chino; fuera de él no hay red de Aito que lo venda ni que lo mantenga",
+      "Euro NCAP no lo ha sometido a sus ensayos: el 93,9 % divulgado corresponde a C-NCAP (CATARC), que probó un M9 eléctrico Max con otro protocolo",
+      "Con las seis plazas desplegadas, el maletero se queda en los 206 litros recogidos en esta ficha, escasos para un SUV que mide 5.230 mm de largo",
+      "El precio de partida no bajó con la actualización —469.800 yuanes— y el EREV Max de seis plazas ya costaba 479.800 yuanes en el mercado chino",
+      "La carrocería apenas cambia —un tono rojo nuevo con pilares beige y llantas opcionales de 21 pulgadas— y la variante eléctrica pura de 100 kWh siguió tal cual"
     ],
     imagen: "/media/aito-m9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2025-precio-ficha-tecnica-oficial.webp",
@@ -788,16 +788,16 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
-      revisiones: [
+      "costeAnualAproxEur": null,
+      "fuente": "Referencia orientativa sin respaldo de un manual europeo: Aito no publicó programa de mantenimiento para España de este modelo vendido solo en China desde el 20 de marzo de 2025; intervalos trasladados de la práctica habitual en EREV",
+      "intervalo": "Sin calendario oficial para Europa de este M9 2025; como referencia orientativa, una revisión al año o al cumplir 15.000 km, lo primero que llegue",
+      "revisiones": [
         {
-          nombre: "Revisión anual (orientativa)",
-          queSeCambia: "Aceite y filtro del motor 1.5 turbo de autonomía extendida + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de EREV",
+          "costeAproxEur": null,
+          "nombre": "Revisión orientativa al año o a los 15.000 km",
+          "queSeCambia": "Sustitución de aceite y filtro en el generador 1.5 turbo de 118 kW, filtro del habitáculo nuevo y chequeo de la batería NMC de 52 kWh, la suspensión neumática y el sistema de frenos"
+        }
+      ]
     },
   },
   {

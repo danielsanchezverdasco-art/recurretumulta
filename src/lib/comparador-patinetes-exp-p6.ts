@@ -342,40 +342,40 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Doble motor de 1.000 W con picos de 2.800 W: prestaciones de gama alta",
-      "Batería de 1.217 Wh (52 V 23,4 Ah): 100 km declarados",
-      "Frenos hidráulicos: a la altura de su potencia",
-      "Desbloqueo NFC: seguridad extra",
-      "Ruedas de 11\": estabilidad a velocidad",
-      "Carga máxima de 120 kg",
+      "Tracción en las dos ruedas con un motor de 1.000 W por eje y techo de 1.400 W en cada uno cuando se le exige el máximo",
+      "El pack de 52 V y 23,4 Ah suma 1.217 Wh y sostiene los 100 km oficiales, medidos por la marca con un conductor de 70 kg a 15 km/h de media",
+      "Doble disco hidráulico, uno por rueda: la frenada está dimensionada para detener más de 33 kg empujados por 2.800 W de pico",
+      "Arranque mediante llave NFC y pantalla de alta definición que muestra velocidad, modo de marcha y nivel de batería de un vistazo",
+      "Intermitentes integrados, faro delantero y una tira LED bajo la plataforma que mejora la visibilidad lateral al caer la tarde",
+      "Cubiertas todoterreno sin cámara y sellado IPX5: su sitio son pistas de tierra, caminos rotos y adoquín, no solo el asfalto liso"
     ],
     contras: [
-      "33,5 kg: un mueble con ruedas, imposible de cargar a mano",
-      "15 horas de carga completa: hay que planificar",
-      "No es un VMP urbano al uso: su hábitat son vías rápidas y campo",
-      "Sin certificación DGT: no apto para circular como VMP en España",
-      "Precio elevado para la marca (gama alta de Urban Glide)",
-      "El mantenimiento (hidráulicos, batería de 52 V) es más caro",
+      "La báscula de esta ficha marca 33,5 kg: subirlo a pulso a un piso sin ascensor no es un gesto diario asumible, se traslada rodando o no se traslada",
+      "Llenar los 1.217 Wh lleva unas 15 horas, así que el patinete se enchufa al volver de la ruta y no cuando surge el plan de salir",
+      "La marca lo limita a 25 km/h, pero en esta ficha no consta certificado DGT: su encaje como VMP para vía urbana en España hay que confirmarlo antes de comprarlo para ese uso",
+      "En ciudad estorba más de lo que ayuda: tamaño, peso y una entrega de potencia pensada para campo abierto y pendientes de hasta 20 grados",
+      "El PVP de la tienda oficial española es de 1.599,99 €: hay que querer exactamente este formato de doble motor para justificar ese desembolso",
+      "Dos circuitos hidráulicos que purgar y un pack de 52 V que cuidar elevan la factura de taller frente a un urbano de disco mecánico y batería pequeña"
     ],
     veredicto:
-      "El 1000GT 2x2 es el pepino de Urban Glide: 2.800 W de pico y más de 1,2 kWh de batería. No es un patinete urbano, es una máquina de prestaciones para quien sabe lo que compra y dónde puede usarla legalmente.",
+      "UrbanGlide coloca el 1000GT 2x2 como su demostración de fuerza a 1.599,99 €: dos motores que suman 2.000 W nominales, 1.217 Wh bajo la plataforma y 100 km oficiales obtenidos con un conductor de 70 kg a 15 km/h de media. En uso real esta ficha estima unos 68 km, y a cambio el modelo pide enchufes de unas 15 horas y convivir con más de 33 kg. Encaja como máquina de ocio para pistas, caminos y fincas; como VMP urbano en España, sin certificado DGT acreditado en esta ficha, la compra exige comprobar antes por dónde podrá circular legalmente.",
     fuenteNombre: "UrbanGlide",
     fuenteUrl: "https://www.urbanglide.com",
     mantenimientoDIY: {
-      intervaloRevision: "Antes de cada uso: comprobar que todas las piezas están bien montadas y en buen estado (manillar, frenos, ruedas, luces)",
-      presionNeumaticos: "Presión máxima de inflado: 6,40 bar (ver el valor indicado en el lateral del neumático)",
-      ajusteFrenosPasos: [
-        "Comprobar el juego de la maneta de freno y el estado de discos y pastillas",
-        "Sustituir los discos si el espesor baja de 2,5 mm o hay ruido anormal al frenar",
-        "Prueba de frenada: circular a 15 km/h y frenar en 1 m; el patinete debe detenerse",
-        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»",
+      "ajusteFrenosPasos": [
+        "Acciona cada maneta por separado y verifica que su disco muerde sin que la palanca llegue a rozar el puño: un tacto esponjoso en cualquiera de los dos circuitos apunta a aire dentro y pide purgado",
+        "Mide el grosor de ambos discos con un calibre: el criterio de sustitución de los manuales de UrbanGlide lo fija por debajo de 2,5 mm, y aquí hay dos discos que vigilar en vez de uno",
+        "Repite la prueba de detención que describe el manual de la marca sobre suelo llano: lanzado a 15 km/h, el conjunto debe quedar parado en torno a un metro combinando los dos hidráulicos",
+        "Para purgar el circuito o cambiar pastillas, la marca deriva a los videotutoriales de su canal UrbanGlide Channel y a su soporte técnico en España: con 2.800 W de pico, rodar con un freno a medias no admite apaños"
       ],
-      aprieteTornilleria: "Comprobar que el manillar y la potencia están correctamente apretados, y que los tornillos, pernos y tuercas están bien apretados",
-      trucos: [
-        "La batería mantiene un rendimiento estable durante unos 750 ciclos de carga (≈3 años de uso medio)",
-        "Sustituir los neumáticos si pierden su forma original o presentan grietas, cortes u otros signos de desgaste",
-        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua",
-      ],
+      "aprieteTornilleria": "Rodar por pistas afloja lo que en asfalto aguanta meses: reaprieta la potencia que une el manillar con la barra de LED azulada, los ejes que fijan ambos motores y los tornillos de las pinzas de freno antes de que aparezca la primera holgura",
+      "intervaloRevision": "Antes de rodar con el 1000GT, repasa lo que su potencia no perdona: que ninguna rueda gire frenada al moverla a mano, que las dos manetas hidráulicas respondan con tacto firme y que la llave NFC desbloquee la pantalla al primer acercamiento",
+      "presionNeumaticos": "En las cubiertas todoterreno sin cámara de este modelo manda la cifra grabada en el propio flanco: infla hasta alcanzarla y comprueba que el talón asienta de forma uniforme en todo el contorno de la llanta",
+      "trucos": [
+        "Con recargas completas de unas 15 horas, la planificación manda: enchúfalo al regresar y calcula la siguiente salida larga contando hacia atrás desde la hora de partida",
+        "El sellado IPX5 protege de salpicaduras y del polvo de pista, no de inmersiones: tras una salida con barro, limpia con un paño húmedo y seca bien los conectores antes de guardarlo",
+        "Si va a dormir una temporada parado, los manuales de UrbanGlide piden no abandonarlo descargado: una recarga al menos cada tres meses y almacenaje lejos de temperaturas extremas"
+      ]
     },
   },
   {
@@ -1210,31 +1210,31 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaRealKm"],
     pros: [
-      "Doble motor (2x1.400 W, picos de 2x1.900 W): aceleración brutal",
-      "Batería de 1.800 Wh (60 V 30 Ah): hasta 110 km declarados",
-      "Frenos hidráulicos NUTT: a la altura de la potencia",
-      "Suspensión hidráulica: comodidad en cualquier firme",
-      "Neumáticos anchos de 10x3\": agarre y estabilidad",
-      "Vendido limitado a 25 km/h: usable como VMP",
+      "Tracción en las dos ruedas con 1.400 W por motor: el GTR reparte 2.800 W nominales entre ambos ejes",
+      "El paquete de 60 V y 30 Ah suma 1.800 Wh, su mayor argumento para encadenar salidas largas sin recargar",
+      "Pinzas hidráulicas NUTT en las dos ruedas, el frenado que exige un conjunto que anuncia 3.800 W de pico",
+      "Amortiguación hidráulica en ambos trenes para que el conjunto no rebote cuando el firme se rompe",
+      "Cubiertas anchas de 10x3 pulgadas: más huella de contacto que las de 10 pulgadas estrechas del Tiger 10 Pro",
+      "Sale de tienda limitado a 25 km/h, así que en España se usa dentro del marco VMP pese a su formato desmedido"
     ],
     contras: [
-      "34,6 kg: imposible de cargar a mano",
-      "Precio elevado (gama alta de Hiley, unos 1.600-1.800 € en Europa)",
-      "Tiempo de carga no publicado; con 1,8 kWh será muy largo",
-      "Sin certificación DGT verificada",
-      "Excesivo para ciudad: es un hyper-scooter",
-      "El mantenimiento de hidráulicos y batería de 60 V es caro",
+      "Sus 34,6 kg obligan a pensarlo como un vehículo que se aparca, no que se sube a un piso entre los brazos",
+      "Sin PVP publicado en España: las referencias europeas que maneja esta ficha lo sitúan sobre 1.600-1.800 €, lejos de un utilitario",
+      "Recargar 1,8 kWh desde vacío lleva su tiempo y Hiley no declara las horas: toca planificar la carga de noche, no entre recados",
+      "El campo de certificado DGT figura sin verificar: antes de pagarlo conviene exigir al vendedor el certificado de circulación por escrito",
+      "Con 120 kg de carga máxima admitida, un piloto corpulento con mochila ya roza el límite que declara la propia ficha",
+      "Mantener dos motores, los hidráulicos NUTT y una batería de 60 V sale más caro que cuidar un monomotor urbano sencillo"
     ],
     veredicto:
-      "El Tiger 10 GTR es el tope de gama de Hiley: 3.800 W de pico y 110 km declarados. Un hyper-scooter en toda regla para aficionados exigentes; para ir a comprar el pan, cualquier otro patinete de esta lista es más sensato.",
+      "El Tiger 10 GTR corona la familia Tiger de Hiley juntando doble motor de 2.800 W nominales, 3.800 W de pico, pantalla TFT central a color y una batería de 1.800 Wh con 110 km declarados y unos 75 km reales estimados. Es una máquina de rutas largas y firmes variados para quien asume sus 34,6 kg; como patinete de recados, su peso y su precio lo descalifican solos.",
     fuenteNombre: "Hiley / ElectroTraveller",
     fuenteUrl: "https://www.hiley.es",
     mantenimientoDIY: {
-      intervaloRevision: "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
-      trucos: [
-        "Detener la marcha de inmediato si: el motor se calienta de forma anormal, hay error de frenada, aparecen mensajes de error en el panel, ruido anormal, humo u olor",
-        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente",
-      ],
+      "intervaloRevision": "En este GTR la revisión se centra en lo que más trabaja: pastillas y líquido de los frenos hidráulicos NUTT, holgura del cierre de plegado, apriete de los ejes de ambos motores y desgaste de las cubiertas 10x3, que soportan los 34,6 kg del conjunto",
+      "trucos": [
+        "Si un motor deja de empujar o una maneta NUTT pierde tacto, aparca el GTR y no sigas rodando: con 3.800 W de pico, un fallo de frenada o de tracción no se compensa bajando el ritmo",
+        "Cuida la batería de 60 V y 30 Ah evitando guardarla descargada tras las salidas largas: con unos 75 km reales estimados por carga, es el componente más caro de sustituir en este modelo"
+      ]
     },
   },
   {

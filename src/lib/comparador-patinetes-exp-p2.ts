@@ -41,31 +41,37 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "autonomiaRealKm"],
     pros: [
-      "Batería de 36 V y 10 Ah (360 Wh): 40 km declarados, de los más altos de la gama D",
-      "Ruedas hinchables de 10 pulgadas: buen compromiso entre confort y rodadura",
-      "Doble frenada (eléctrico delante, disco detrás) para una frenada progresiva",
-      "Versión Connected con app para bloquear el patinete y ver estadísticas",
-      "Cecotec cumple la normativa europea de VMP en toda la gama Bongo",
+      "Pack de 360 Wh (36 V y 10 Ah) con el que Cecotec homologa 40 km en su prueba a 15 km/h constantes, en llano y con 75 kg de carga total",
+      "Motor de 350 W nominales y 700 W de pico orientado, según la marca, a salvar rampas de hasta el 15 % sin salir del formato urbano",
+      "Chasis de aluminio con sellado IPX4 frente a salpicaduras, pantalla LCD en el manillar y conjunto plegable para guardarlo en un rincón",
+      "La coletilla Connected aquí sí aporta: enlace Bluetooth con el móvil para bloquearlo, seguir trayectos y consultar estadísticas, con la app gratuita durante dos años",
+      "El manual desglosa la autonomía por modo de conducción —55 km en Peatón, 40 km en Confort y 32 km en Sport, medidos con un usuario de 80 kg en superficie llana—, así que la cifra útil depende del modo elegido y no solo de los 40 km del titular"
     ],
     contras: [
-      "Precio en torno a 458 €: hay rivales con más batería por lo mismo",
-      "Sin suspensión: en adoquines y baches se nota",
-      "El peso no está publicado por Cecotec",
-      "La autonomía real ronda los 27 km, lejos de los 40 declarados",
-      "Sin certificado DGT verificado en la lista oficial",
+      "Esos 40 km oficiales nacen de una prueba a velocidad constante en llano; en uso urbano esta ficha estima unos 27 km, así que el trayecto diario hay que planearlo con ese segundo número",
+      "Orientar su precio cuesta: Cecotec lo lista agotado a 299 € en su tienda, mientras esta ficha lo aproxima en 458 € a través de terceros, dos cifras que conviene contrastar antes de pagar",
+      "Ningún eje monta amortiguación en esta versión D40 XL: juntas de acera, rejillas y adoquinado llegan casi íntegros a manos y pies, y solo el neumático hinchable pone algo de filtro",
+      "Pesa 17,4 kg según la tabla de especificaciones de su propio manual, un dato que la comparativa de la web de Cecotec ni siquiera recoge: subirlo por escaleras a diario se hace notar",
+      "El certificado de circulación de la DGT no consta verificado para esta referencia: la marca afirma que cumple la normativa española de circulación, que no equivale a exhibir el certificado del modelo"
     ],
     veredicto:
-      "El D40 XL Connected es el Bongo de gran autonomía para quien quiere 40 km declarados sin subir a la Serie Z. La app Connected suma, pero la falta de suspensión y de certificado DGT verificado lo dejan un paso por detrás de sus hermanos.",
+      "El Bongo D40 XL Connected (referencia 07354 de Cecotec) es la variante pensada para alargar el trayecto sin cambiar de gama: 360 Wh, 40 km declarados bajo una prueba muy favorable —15 km/h, llano, 75 kg— y app con dos años gratuitos. A cambio viaja sin suspensión, su autonomía útil se queda en unos 27 km estimados y su precio baila entre los 299 € oficiales, ya agotado, y los 458 € aproximados de esta ficha. Encaja si el recorrido es llano y el suelo decente; si la ruta es de adoquín o hay que portearlo, sus carencias pesan más que su batería.",
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://www.mediamarkt.es/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
-      ajusteFrenosPasos: [
-        "El freno de disco trasero es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
-        "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
-        "El freno eléctrico delantero no requiere ajuste; si pierde eficacia, revisar el firmware desde la app",
+      "actualizacionFirmware": "Todo lo conectado de este D40 XL pasa por la aplicación de Cecotec enlazada por Bluetooth: desde el teléfono se bloquea el patinete, se consultan los trayectos y se instala el firmware que la marca vaya publicando",
+      "ajusteFrenosPasos": [
+        "Si la maneta del disco trasero va ganando recorrido, gira el tensor roscado situado junto a ella hasta recuperar tacto, comprobando después que la rueda gira libre sin rozamiento continuo",
+        "Para volver a centrar esa pinza trasera, suelta sus dos tornillos de anclaje, mantén la maneta apretada a fondo y reaprieta con el disco ya alineado entre las pastillas",
+        "Delante actúa el freno electrónico eABS y no hay cable que regular: si la detención se alarga, confirma desde la app que el firmware está al día antes de culpar al conjunto mecánico trasero"
       ],
+      "aprieteTornilleria": "Con las herramientas de montaje que Cecotec incluye en la caja, repasa el cierre del sistema de plegado, la tija que sostiene el manillar con la pantalla LCD y la tornillería de anclaje de ambas ruedas",
+      "presionNeumaticos": "El manual de este modelo pide comprobarla antes de cada uso y advierte de que rodar bajo de presión acorta la vida útil de la batería; la cifra correcta es la grabada en el flanco de cada cubierta de 10 pulgadas",
+      "trucos": [
+        "El manual del D40 XL Connected recomienda cargar la batería después de cada uso, sin esperar a que se agote por completo",
+        "Para recargar, solo la unidad de alimentación suministrada con el patinete, de referencia CP4215, y baterías originales Cecotec compatibles con este modelo",
+        "La carga debe hacerse con temperatura ambiente de entre 0 °C y 40 °C, el intervalo que el propio manual fija para que el patinete rinda de forma eficiente"
+      ]
     },
   },
   {
@@ -2112,27 +2118,33 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "200 km declarados: la mayor autonomía de Kaabo",
-      "Batería de 72 V y 40 Ah (2880 Wh)",
-      "La plataforma Wolf King GTR, la más extrema de la marca",
-      "Ideal para rutas larguísimas sin cargar",
+      "Dos motores de 2.000 W cada uno y 13.440 W de pico conjunto, con subida declarada de pendientes de 50 grados",
+      "Pack Samsung de 72 V y 40 Ah: 5 Ah más que los 35 Ah del Wolf King GTR a secas",
+      "200 km declarados en las condiciones del manual: piloto de 75 kg, 25 km/h constantes y terreno llano",
+      "Pinzas de cuatro pistones sobre discos de 160 mm y amortiguador trasero regulable en 18 niveles"
     ],
     contras: [
-      "Sin precio publicado",
-      "Ficha técnica parcial: potencia, peso y frenos sin publicar",
-      "No es un VMP legal: solo circuito privado",
-      "Con 2880 Wh, el peso será muy elevado",
-      "Exceso para el 99 % de los usuarios",
+      "67 kg en orden de marcha: moverlo en parado o meterlo en un coche pide ayuda y maña",
+      "Con hasta 105 km/h deslimitado queda fuera de la definición de VMP de la DGT: su sitio es un recinto cerrado",
+      "Reponer el pack completo exige unas 10 horas con los cargadores estándar; solo la carga rápida lo baja a unas 4",
+      "Sin PVP en euros publicado: esta ficha nace sin precio oficial español que poder contrastar",
+      "El pack ya no se desmonta como en el GTR, así que cargar en casa obliga a subir el patinete entero"
     ],
     veredicto:
-      "El GTR Max lleva el Wolf King al extremo: 200 km y 2880 Wh. Ficha aún parcial, pero apunta a ser el patinete con más autonomía del mercado.",
+      "El Max no es un GTR con otro nombre: suma 5 Ah sobre su hermano (40 frente a 35), pinzas de cuatro pistones y el techo de 200 km declarados de Kaabo, a cambio de 67 kg y una batería que ya no se desmonta. Es el patinete de autonomía extrema de la casa, pensado para recinto cerrado y pilotos con experiencia, no para recados urbanos.",
     fuenteNombre: "Storm Rides",
     fuenteUrl: "https://stormrides.nz/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
-      trucos: [
-        "Con 2880 Wh, planificar las cargas nocturnas: lleva muchas horas",
+      "aprieteTornilleria": "Reapretar las fijaciones del doble brazo delantero de tipo moto, del amortiguador trasero regulable y de ambos motores desmontables antes de una salida larga a ritmo alto",
+      "ajusteFrenosPasos": [
+        "Mirar el grosor de las pastillas por la abertura de cada pinza de cuatro pistones: detienen un conjunto de 67 kg y sufren más que en un patinete ligero",
+        "Si una maneta se nota esponjosa hay aire en el circuito hidráulico de 160 mm: toca purga en taller especializado, no tensar ningún cable"
       ],
+      "trucos": [
+        "Con los dos cargadores estándar de 84 V y 2 A la carga completa ronda las 10 horas: déjala programada durante la noche y reserva la carga rápida de unas 4 horas para cuando haya prisa",
+        "Como el pack Samsung no se desmonta, aparca el Max junto a un enchufe: no podrás subir solo la batería a cargar a casa",
+        "Los CST autosellantes de 12 pulgadas perdonan pinchazos pequeños, pero antes de rodar en circuito conviene mirar presiones y dibujo: es un patinete capaz de 105 km/h"
+      ]
     },
   },
   {
@@ -2532,28 +2544,35 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "bateriaWh"],
     pros: [
-      "Batería de 60 V y 31,2 Ah (1872 Wh)",
-      "80-160 km declarados",
-      "El buque insignia de Vsett",
-      "Plataforma 11+ con la mejor ciclística de la marca",
-      "Para rutas extremas sin cargar",
+      "Dos motores brushless de 60 V y 1.500 W, uno por rueda, con modo Sport de 2 minutos",
+      "Batería de 60 V y 31,2 Ah (1.872 Wh): la versión contenida del 11+, frente a la variante de 42 Ah",
+      "Hasta 135 km con un solo motor según el manual; con los dos en marcha la cifra cae a 70 km",
+      "Frenos hidráulicos en ambas ruedas, con freno eléctrico y corte de alimentación al frenar",
+      "Sucesor del Zero 11X: plataforma de 11 pulgadas con bloqueo NFC y suspensión hidráulica delantera y trasera"
     ],
     contras: [
-      "Pesa 58 kg: una moto sin asiento",
-      "Sin precio publicado",
-      "No es un VMP legal: solo circuito privado",
-      "Ficha parcial: potencia y frenos sin publicar",
-      "El 11+ Super lo supera en todo",
+      "58 kg: aunque se pliegue, ese peso descarta escaleras y transporte público en el día a día",
+      "Sin PVP publicado por Vsett para este modelo: cada tienda extranjera pone el suyo y toca comparar una a una",
+      "Con 70-85 km/h según el manual, queda fuera de la definición de VMP en España: su sitio es un recinto cerrado, no la calzada urbana",
+      "El manual también lista una versión de 42 Ah: en segunda mano hay que exigir la factura que acredite qué batería lleva",
+      "Su propio hermano, el 11+ Super 72V, le roba el titular: 72 V y 2.520 Wh frente a sus 60 V y 1.872 Wh"
     ],
     veredicto:
-      "El 11+ es el Vsett tope de gama clásico: 1872 Wh y hasta 160 km. Enorme en todo, empezando por los 58 kg.",
+      "El 11+ de 60 V es el Vsett grande original, anterior al salto a 72 V del Super: 3.000 W sumando sus dos motores, 1.872 Wh y una promesa de 135 km que solo se acerca rodando con un motor. A cambio, 58 kg y un uso real limitado a recintos privados.",
     fuenteNombre: "Vsett (oficial)",
     fuenteUrl: "https://vsett.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
-      trucos: [
-        "Con 1872 Wh, planificar las cargas nocturnas",
+      "presionNeumaticos": "Comprobar antes de salir y ajustar al valor grabado en el flanco del neumático de 11×4 pulgadas: el manual del 11+ no fija una cifra única en bar o PSI",
+      "ajusteFrenosPasos": [
+        "Antes de cada salida, comprobar que ninguna pinza hidráulica roza la rueda y que ambas giran libres, como pide la revisión previa del manual",
+        "Si una maneta pierde tacto o falta alguna pieza, el manual manda acudir al distribuidor autorizado en lugar de seguir rodando con un solo freno"
       ],
+      "aprieteTornilleria": "Inspección visual de toda la tornillería antes de cada uso, según el manual: con dos motores de 1.500 W empujando 58 kg, un tornillo flojo en la dirección, en el plegado o en las ruedas de 11 pulgadas se nota enseguida",
+      "trucos": [
+        "La autonomía depende del modo elegido: 135 km declarados con un motor y 70 km con los dos, así que la ruta se planifica antes de salir, no sobre la marcha",
+        "Si salta la protección térmica de los controladores —a los 100 °C en el 11+, según su tabla del manual—, para y deja que se enfríen: insistir activa la segunda protección, de 2 a 3 minutos sin poder rodar",
+        "Con 1.872 Wh por llenar, deja la recarga para la noche y con el patinete apagado y desconectado al terminar"
+      ]
     },
   },
   {

@@ -843,26 +843,34 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
     pros: [
-      "Certificado DGT según el catálogo oficial de NIU",
-      "54 km declarados: la mejor autonomía por euro de la serie KQi 200",
-      "Suspensión delantera de 32 mm y neumáticos anchos de 58 mm",
-      "Sube pendientes del 20 %",
-      "App NIU con OTA, estadísticas y límite de carga configurable",
+      "Figura con certificado DGT, así que puede circular legalmente a 25 km/h por la ciudad",
+      "54 km declarados con una batería contenida de 365 Wh y 7,8 Ah, sin castigar el peso",
+      "Doble tubo delantero con 32 mm de recorrido y cubiertas neumáticas anchas de 58 mm para el asfalto roto",
+      "Motor de 350 W nominales y 22 Nm de par, con rampas del 20 % entre sus cifras oficiales",
+      "Manillar fijo de 54,1 cm, sin bisagra: no hereda la posible holgura del plegable del 200F"
     ],
     contras: [
-      "Carga en 6-7 horas: lenta para el día a día intenso",
-      "Freno de tambor delantero en vez de disco",
-      "A 499 € de PVP compite con el KQi 300P, mejor frenado",
-      "El acelerador twist no gusta a todo el mundo",
-      "Sin suspensión trasera",
+      "La recarga completa exige entre 6 y 7 horas, mal aliada de quien encadena dos jornadas en un día",
+      "Delante frena un tambor y no un disco; el apoyo llega del freno eléctrico trasero regenerativo",
+      "Plegado mantiene 54,1 cm de ancho por su manillar fijo, frente a los 17,4 cm que logra el 200F",
+      "Su acelerador es de puño giratorio, un mando que no convence a quien viene del gatillo de pulgar",
+      "La rueda trasera va sin suspensión y traslada los baches que no filtra el tren delantero"
     ],
     veredicto:
-      "El KQi 200P es el NIU más equilibrado en autonomía/precio: 54 km declarados y 20 % de pendiente. Si lo encuentras en oferta por 329 €, es una de las mejores compras del mercado.",
+      "Si tus trayectos urbanos son largos y el presupuesto manda, el 200P tiene sentido: 499 € de PVP oficial, 54 km declarados —unos 35 reales en nuestra estimación— y 19,7 kg. A cambio aceptas esperas de carga de 6 a 7 horas y un conjunto que, una vez plegado, sigue ocupando 54,1 cm de ancho.",
     fuenteNombre: "Tienda oficial NIU",
     fuenteUrl: "https://shopeu.niu.com/products/niu-kqi-200p-electric-scooter-es",
     mantenimientoDIY: {
-      actualizacionFirmware: "Actualizaciones OTA a través de la app oficial NIU",
-      trucos: ["En la app NIU puedes limitar la carga para alargar la vida de la batería"],
+      "actualizacionFirmware": "El firmware se actualiza desde la app NIU Smart vinculada por Bluetooth: hazlo con el 200P parado y con carga suficiente en sus 365 Wh",
+      "presionNeumaticos": "45-50 psi en las dos ruedas tubeless de 254 × 58 mm, el valor que el manual conjunto del KQi 200P y el 200F fija en su tabla de especificaciones",
+      "ajusteFrenosPasos": [
+        "Si el tambor delantero aprieta en exceso: afloja en sentido antihorario la tuerca del balancín, acorta el recorrido libre del cable y reaprieta la tuerca antes de comprobar la maneta",
+        "Si la frenada se queda corta: afloja esa tuerca, tira del cable para dejar algo más de cola libre, bloquéala en sentido horario y verifica la fuerza frenando en parado"
+      ],
+      "trucos": [
+        "Fija un tope de carga desde la app para los días de recorridos cortos: NIU plantea ese límite como ayuda para prolongar la salud de la batería de 7,8 Ah",
+        "Regula a tu gusto la intensidad del freno regenerativo trasero y alterna los modos E-Save, Sport, Custom y Pedestrian según salgas a rodar"
+      ]
     },
   },
   {
@@ -901,27 +909,30 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "tiempoCargaH", "autonomiaRealKm"],
     pros: [
-      "Certificado DGT según el catálogo oficial de NIU",
-      "Manillar plegable: solo 17,4 cm de ancho plegado, cabe en cualquier maletero",
-      "54 km declarados con la misma base técnica del KQi 200P",
-      "Sube pendientes del 20 %",
-      "App NIU con OTA y límite de carga configurable",
+      "Su manillar se pliega hasta dejar solo 17,4 cm de ancho (1150 × 174 × 546 mm plegado) y entra en huecos donde el 200P, de manillar fijo, no cabe",
+      "Desplegado, el manillar mide 60,7 cm: es el más ancho de la serie 200 y da más palanca que los 54,1 cm fijos del 200P",
+      "Horquilla de muelle con 32 mm de recorrido y neumáticos tubeless de 254 × 58 mm para tragarse los adoquines sin perder la trazada",
+      "Motor de 350 W con picos de 700 W y 22 Nm de par: ataca rampas del 20 % sin quedarse clavado a mitad de cuesta",
+      "Homologado para circular en España con certificado DGT, intermitentes y luces LED delante y detrás más reflectores laterales"
     ],
     contras: [
-      "Cuesta unos 50 € más que el KQi 200P por el mismo rendimiento",
-      "Pesa 20 kg: el mecanismo de plegado suma peso",
-      "Carga en 6-7 horas",
-      "Freno de tambor delantero en vez de disco",
-      "El manillar plegable puede coger holgura con el tiempo",
+      "La factura sube a 549 € en la tienda oficial frente a los 499 € del 200P: los 50 € extra pagan solo el mecanismo de pliegue del manillar",
+      "Con 20 kg a la espalda, subirlo a un cuarto sin ascensor se nota; el sistema que pliega el manillar no aligera el conjunto",
+      "Entre 6 y 7 horas de enchufe para llenar los 365 Wh: olvídate de recargas rápidas entre trayectos encadenados",
+      "Detrás no hay disco: la rueda trasera frena solo con la regeneración eléctrica y delante manda un tambor, correcto pero con menos mordiente que un disco",
+      "Las dos bisagras del manillar son piezas móviles extra: con miles de pliegues pueden aparecer holguras y crujidos que el manillar fijo del 200P no conoce"
     ],
     veredicto:
-      "El KQi 200F es el 200P con manillar plegable: ideal si lo metes en el maletero a diario. Pagas un extra por el plegado; si no lo necesitas, el 200P sale más a cuenta.",
+      "El 200F no es otro patinete: es el 200P pensado para quien lo guarda en casa o lo mete en el coche a diario. Su carta ganadora es un manillar que pasa de 60,7 cm a 17,4 cm sin herramientas y con autobloqueo. Si tu garaje es el maletero o un rincón del recibidor, los 50 € de diferencia tienen sentido; si siempre aparca desplegado, ese sobreprecio no compra ni un vatio más.",
     fuenteNombre: "Tienda oficial NIU",
     fuenteUrl: "https://shopeu.niu.com/en-fr/products/niu-kqi-200f-foldable-handlebar-electric-scooter-es",
     mantenimientoDIY: {
-      actualizacionFirmware: "Actualizaciones OTA a través de la app oficial NIU",
-      aprieteTornilleria: "Revisar periódicamente el mecanismo de plegado del manillar",
-      trucos: ["En la app NIU puedes limitar la carga para alargar la vida de la batería"],
+      "actualizacionFirmware": "El firmware se renueva desde la aplicación NIU del móvil, emparejada por Bluetooth con el patinete",
+      "aprieteTornilleria": "Inspecciona las bisagras del manillar plegable y su cierre de autobloqueo: deben quedar firmes, sin juego lateral, en cada despliegue",
+      "trucos": [
+        "Activa el límite de recarga en la aplicación y deja la batería trabajando entre medias cargas: las celdas de 365 Wh envejecen más despacio si evitas el 100 % permanente",
+        "Al guardarlo plegado, apóyalo sobre la plataforma y no sobre el manillar cerrado, para no forzar las bisagras en reposo"
+      ]
     },
   },
   {

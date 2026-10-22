@@ -1759,16 +1759,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["maleteroL", "consumo"],
     pros: [
-      "6 cilindros diésel con 700 Nm y etiqueta ECO",
-      "El Sport más equilibrado para viajar",
-      "5 estrellas EuroNCAP (2022)",
-      "Comportamiento más dinámico que el Range Rover",
+      "El diésel tope de la tercera generación del Sport: Ingenium de seis cilindros en línea, 350 CV y 700 Nm con apoyo mild-hybrid de 48 V",
+      "Suspensión neumática adaptativa de serie y eje trasero direccional en opción: así disimula los 4.946 mm en puertos de montaña y maniobras urbanas",
+      "900 mm de capacidad de vadeo y Terrain Response 2: fuera del asfalto juega en otra liga que BMW X5, Porsche Cayenne o Mercedes GLE",
+      "Cinco estrellas Euro NCAP en 2022, con un 85 % en protección de ocupantes adultos y otro 85 % en protección infantil"
     ],
     contras: [
-      "El diésel tiene los días contados en las ZBE",
-      "Consumo real superior a 9 l/100 km",
-      "Precio premium",
-      "Maletero justo para su tamaño",
+      "Lleva etiqueta ECO y no CERO: si Madrid o Barcelona endurecen el paso de los diésel por sus zonas de bajas emisiones, este D350 lo notará antes que un híbrido enchufable",
+      "Homologa 8,0 l/100 km, pero viajando cargado y sin contemplaciones el gasto real se instala por encima de los nueve litros",
+      "Sus 4.946 mm de largo y 2.047 mm de ancho se pagan a diario en garajes estrechos y plazas de aparcamiento de centro urbano",
+      "Mantenerlo cuesta lo que sugiere su emblema: la revisión completa del plan oficial recogido en esta ficha ronda los 1.000 €"
     ],
     imagen: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-oficial.webp",
@@ -1778,30 +1778,38 @@ export const COCHES_EXP23: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.64,
-      seguroTercerosAnual: 800,
-      seguroAmpliadoAnual: 1450,
-      mantenimientoAnual: 650,
-      costeMensualTotal: 334,
-      precioKwh: 0,
-      precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 12.64,
+      "seguroTercerosAnual": 800,
+      "seguroAmpliadoAnual": 1450,
+      "mantenimientoAnual": 650,
+      "costeMensualTotal": 334,
+      "precioKwh": 0,
+      "precioGasolinaL": 1.58,
+      "notas": "Cuota orientativa pensada para un Sport D350 que rueda quince mil kilómetros al año quemando gasóleo pagado a 1,58 euros el litro. Las partidas de póliza, taller e impuesto municipal son importes aproximados: cambian con el perfil del conductor y con el ayuntamiento donde se empadrone el coche.",
+      "estimado": true
     },
     euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "5 estrellas EuroNCAP (2022) del Range Rover Sport",
+      "estrellas": 5,
+      "ano": 2022,
+      "url": null,
+      "nota": "La unidad sometida a los ensayos de 2022 fue un Sport híbrido enchufable en acabado SE: cinco estrellas con 85 % en adultos, 85 % en niños, 69 % en usuarios vulnerables y 82 % en asistentes de seguridad"
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 650 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 1000 },
+      "intervalo": "Land Rover programa las visitas al taller de este Ingenium cada 34.000 kilómetros recorridos o cada dos años naturales, lo primero que se cumpla",
+      "revisiones": [
+        {
+          "nombre": "Revisión intermedia del D350",
+          "queSeCambia": "Aceite del motor y su filtro renovados, filtro antipolen del habitáculo sustituido e inspección general del vehículo",
+          "costeAproxEur": 650
+        },
+        {
+          "nombre": "Revisión completa del D350",
+          "queSeCambia": "Al cambio de aceite se suman el resto de filtros nuevos, la sustitución del líquido del circuito de frenos y el control de la transmisión integral",
+          "costeAproxEur": 1000
+        }
       ],
-      costeAnualAproxEur: 650,
-      fuente: "Plan oficial Land Rover España",
+      "costeAnualAproxEur": 650,
+      "fuente": "Plan oficial Land Rover España"
     },
   },
   {
@@ -3409,16 +3417,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["maleteroL", "consumo"],
     pros: [
-      "6 cilindros diésel con 750 Nm y etiqueta ECO",
-      "El G más racional para hacer kilómetros",
-      "Icono con valor de reventa altísimo",
-      "Capacidades todoterreno reales",
+      "Hereda la receta del Clase G nacido en 1979: chasis de largueros, bloqueos en los tres diferenciales, reductora de 2,93 a 1 y 70 cm de vadeo",
+      "Su seis cilindros diésel firma 367 CV y 750 Nm entre 1.350 y 2.800 rpm, con hasta 20 CV y 200 Nm eléctricos extra en aceleraciones puntuales",
+      "Gracias al sistema de 48 V obtiene el distintivo ECO de la DGT, un salto frente al Clase G diésel saliente, que se quedaba con la C",
+      "Los amortiguadores adaptativos vienen de serie en esta renovación; en el Clase G de 2018 eran un opcional según la versión"
     ],
     contras: [
-      "El diésel tiene futuro incierto en las ZBE",
-      "Consumo real de más de 11 l/100 km",
-      "Precio desorbitado",
-      "Comportamiento en carretera mejorable",
+      "Homologa 8,8 l/100 km, pero esta ficha ya presupuesta 10,0 l/100 km aproximados para sus costes: su silueta vertical no perdona en autopista",
+      "Con 1,93 m de ancho y 1,99 m de alto, la puerta y el gálibo de muchos garajes urbanos le quedan justos",
+      "Elegir diésel hoy es apostar contra el calendario de las ZBE: el G 580 eléctrico de la misma gama no sufrirá esas restricciones",
+      "Es el Clase G de acceso y aun así se lanzó en España a 148.675 €, antes de una lista de opciones de personalización especialmente cara"
     ],
     imagen: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-oficial.webp",
@@ -3428,30 +3436,38 @@ export const COCHES_EXP23: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 15.8,
-      seguroTercerosAnual: 800,
-      seguroAmpliadoAnual: 1460,
-      mantenimientoAnual: 700,
-      costeMensualTotal: 377,
-      precioKwh: 0,
-      precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 15.8,
+      "costeMensualTotal": 377,
+      "estimado": true,
+      "mantenimientoAnual": 700,
+      "notas": "Cuentas hechas solo para este 450 d: recorrer 15.000 km en un año a los 10,0 l/100 km aproximados de la ficha y 1,58 € el litro de gasóleo suma 2.370 € de combustible; añadiendo la póliza ampliada de 1.460 € y los 700 € anuales de revisiones salen los 377 € al mes. La tarifa eléctrica no interviene porque el apoyo de 48 V se recarga rodando y nunca se enchufa.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0,
+      "seguroAmpliadoAnual": 1460,
+      "seguroTercerosAnual": 800
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: versión actual no probada",
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP para este G 450 d renovado: el único Clase G ensayado fue el G 350 d de 2019, con cinco estrellas ya caducadas, y esa valoración no cubre a esta versión",
+      "url": null
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 600 },
-        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 950 },
-      ],
-      costeAnualAproxEur: 700,
-      fuente: "Plan oficial Mercedes-Benz España",
+      "costeAnualAproxEur": null,
+      "fuente": "Sistema ASSYST de Mercedes-Benz (servicios A y B alternos), red oficial de la marca",
+      "intervalo": "Servicios A y B alternos que avisa el ordenador ASSYST: el A llega sobre los 15.000 km o el primer año, y el B hacia los 30.000 km o el segundo",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio A (ASSYST)",
+          "queSeCambia": "Renovación del aceite del seis cilindros diésel con su filtro, filtro de habitáculo nuevo e inspección programada del conjunto"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio B (ASSYST)",
+          "queSeCambia": "Todo lo del servicio A más líquido de frenos renovado, filtros de aire y de combustible propios del diésel, y control a fondo del sistema de frenado"
+        }
+      ]
     },
   },
   {

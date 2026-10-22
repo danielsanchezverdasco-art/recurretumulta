@@ -12,8 +12,8 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_RISING_AUTO: CocheComparador[] = [
   {
     id: "rising-r7-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/rising-r7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/rising-r7-2025-precio-ficha-tecnica-interior.webp",
@@ -33,18 +33,18 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Batería intercambiable: cambio completo en 2,5 minutos en las estaciones Rising Power",
-      "Hasta 642 km de autonomía CLTC con la batería de 90 kWh",
-      "Pantalla triple de 43 pulgadas + AR-HUD de Huawei con 70 pulgadas de área de proyección",
-      "Versión AWD de 544 CV: 0-100 km/h en 3,8 segundos",
-      "Cx de 0,238 y puertas sin marco con cierre eléctrico, de las mejores aerodinámicas del segmento",
+      "Presentado en febrero de 2022, fue el segundo coche de gran serie con batería intercambiable tras los Nio: el cambio tarda unos 2,5 minutos y la batería la suministra UABS, la empresa conjunta de SAIC y CATL",
+      "El salpicadero lo ocupa una triple pantalla de 43 pulgadas —10,25 para la instrumentación, 15,05 central y 12,3 para el acompañante— con chip Snapdragon 8155 y el AR-HUD de Huawei, que proyecta una imagen equivalente a 70 pulgadas",
+      "Suma 33 sensores de percepción, con un LiDAR Luminar de 1550 nm que detecta objetos a más de 500 metros, radar de imagen 4D y chips Nvidia Orin para procesar lo que captan",
+      "El bimotor de tracción total entrega 400 kW y 700 Nm y deja el 0 a 100 en 3,8 segundos, conservando 606 km de alcance CLTC con la batería grande de 90 kWh",
+      "Su silueta de SUV coupé se queda en un Cx de 0,238 —mejor que el 0,265 del Nio EC6, su rival declarado— y combina puertas sin marco de cierre eléctrico con una batalla de 2.950 mm"
     ],
     contras: [
-      "Solo se vende oficialmente en China; en Europa no hay red comercial de la marca",
-      "La autonomía es ciclo CLTC, más optimista que la WLTP europea",
-      "Potencia de carga rápida en kW no publicada por la marca",
-      "Marca casi desconocida fuera de China: valor de reventa incierto",
-      "Interior con solo dos botones físicos: todo se controla por tacto o voz",
+      "Rising nunca lo ha puesto a la venta fuera de China: su única aparición europea fue como coche de salón en Ginebra 2024, disfrazado de MG S9, sin red comercial ni de talleres detrás",
+      "Los 551 km que anuncia la ficha son del ciclo chino CLTC de la versión básica de 2022; el R7 jamás se homologó en WLTP, así que no existe una cifra europea con la que comparar",
+      "Del cargador rápido solo se conoce el tiempo —media hora hasta el 80 % según los parámetros del fabricante— porque la potencia máxima en kW nunca se ha publicado",
+      "La ventaja del intercambio solo existe donde Rising Power tiene estaciones, y todas están en China; el alquiler de batería que abarata la compra —1.260 yuanes al mes la de 77 kWh— también es un esquema exclusivamente chino",
+      "Pesa como un SUV de combustión grande: 2.168 kg en orden de marcha en el monomotor de esta ficha y 2.310 kg en el bimotor, según los parámetros de fabricante"
     ],
     largoMm: 4900,
     anchoMm: 1925,
@@ -60,16 +60,15 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
     imagen: "/media/rising-r7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 3.42,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 520,
-      seguroAmpliadoAnual: 920,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 149,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY), no es tarifa europea.",
-      estimado: true,
+      "costeEnergia100km": 3.42,
+      "costeMensualTotal": 149,
+      "estimado": true,
+      "mantenimientoAnual": 350,
+      "notas": "Cifra orientativa sin tarifa europea que la respalde: los 37.700 € de la ficha son una conversión desde yuanes. Seguro y mantenimiento se han estimado para un SUV eléctrico de 4,90 m y 340 CV que, al no venderse en España, carece de red oficial donde contrastarlos.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 920,
+      "seguroTercerosAnual": 520
     },
     galeria: [
       {
@@ -92,6 +91,12 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
       },
     ],
     analisisSlug: "rising-r7-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: ni Euro NCAP ni el C-NCAP chino han publicado resultado alguno del R7 de Rising; las notas de «R7» que circulan son del Luxeed R7 de Chery y Huawei, otro coche",
+      "url": null
+    },
   },
   {
     id: "rising-f7-2025-precio-ficha-tecnica",

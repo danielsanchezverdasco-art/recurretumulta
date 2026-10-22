@@ -362,18 +362,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "4,7 l/100 km homologados: el León que menos gasta en viajes largos",
-      "360 Nm de par desde 1.600 rpm: empuje contundente en autopista con carga",
-      "Cambio DSG de 7 velocidades de serie en el 2.0 TDI",
-      "Autonomía de más de 900 km con el depósito de 45 litros",
-      "Motor 2.0 TDI Evo probadísimo en todo el Grupo VW",
+      "Presentado en Martorell el 28 de enero de 2020, este León de cuarta generación hereda un nombre que ya sumaba 2,2 millones de unidades vendidas desde su debut en 1999",
+      "Homologa 4,7 l/100 km y declara 900 km de autonomía, la combinación que lo convierte en el León para encadenar autopista entre repostajes de gasóleo",
+      "Sus 150 CV y 360 Nm mueven un compacto de 4.368 mm y 1.449 kg hasta 215 km/h y firman el sprint hasta los cien en 8,5 segundos",
+      "Euro NCAP lo ensayó en 2020 también con motor diésel y le concedió cinco estrellas, con un 92 % en protección de ocupantes adultos",
+      "Comparte la plataforma MQB Evo con el Golf VIII y el Audi A3 Sportback, pero se diseña y se fabrica en Martorell, en Barcelona"
     ],
     contras: [
-      "Etiqueta C: el diésel es el más penalizado ante futuras ZBE",
-      "29.102 € de partida: el León más caro sin electrificación",
-      "El diésel ya no tiene sentido para quien haga poca autopista",
-      "Sonoridad y vibraciones superiores a las versiones de gasolina",
-      "AdBlue y filtro de partículas: mantenimiento más caro que un TSI",
+      "Con distintivo C de la DGT queda fuera de los privilegios de sus hermanos eTSI y e-Hybrid, con etiqueta ECO y Cero: en una zona de bajas emisiones estricta, el diésel paga primero",
+      "Sale desde 29.102 € en esta ficha, el León sin electrificación más caro del comparador, y ese sobreprecio solo se recupera acumulando muchos kilómetros de carretera cada año",
+      "Aunque la carrocería creció hasta 4.368 mm, el maletero se quedó en los 380 litros del León anterior, lejos de lo que carga un Skoda Octavia, su primo de plataforma",
+      "El postratamiento con AdBlue y filtro de partículas sufre con los trayectos urbanos cortos, justo el uso contrario al que este 2.0 TDI rinde mejor",
+      "Su habitáculo, estrenado en 2020, redujo los botones físicos en favor de la pantalla central: ajustar el clima en marcha obliga a apartar la vista más que en el León anterior"
     ],
     largoMm: 4368,
     anchoMm: 1800,
@@ -390,14 +390,14 @@ export const COCHES_SEAT: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.23,
-      "seguroTercerosAnual": 470,
-      "seguroAmpliadoAnual": 900,
-      "mantenimientoAnual": 450,
       "costeMensualTotal": 215,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 450,
+      "notas": "Para este cinco puertas de Martorell la energía sale a 8,23 € cada 100 km: son sus 4,7 litros homologados valorados a 1,75 € el litro de gasóleo en un uso anual de 15.000 km; seguro y mantenimiento figuran como referencias orientativas y ya contemplan el AdBlue propio del TDI",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,7 l/100 km y gasóleo a 1,75 €/l; AdBlue y mantenimiento diésel incluidos en la estimación",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 470
     },
     galeria: [
       {
@@ -421,6 +421,29 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/leon/2020/5-puertas",
+    euroncap: {
+      "ano": 2020,
+      "estrellas": 5,
+      "nota": "Prueba de 2020 del León de cuarta generación, con las variantes de combustión verificadas por Euro NCAP: 92 % en protección de adultos, 71 % en usuarios vulnerables, 88 % en niños y 80 % en ayudas a la conducción; incorporaba de serie un airbag central entre los asientos delanteros",
+      "url": "https://www.euroncap.com/it/results/cupra/leon/43180"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual del propietario del SEAT León (Sportstourer 2023, apartado Mantenimiento, pág. 397), con los códigos PR QI1 a QI6 para el cambio de aceite y la inspección guiada por el indicador; la guía del programa de mantenimiento del León 2026 reproduce esos mismos códigos",
+      "intervalo": "Para el cambio de aceite hay dos regímenes en el manual del León: el fijo QI4, al llegar a los 15.000 km o al año, y el flexible QI6, cuando lo pida el indicador de intervalos del cuadro",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de cambio de aceite del León 2.0 TDI",
+          "queSeCambia": "Se renueva el lubricante del 2.0 TDI junto con su filtro; en régimen flexible QI6 se usa aceite LongLife y el vencimiento lo calcula el propio coche según las condiciones de uso y el estilo de conducción"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de inspección del León",
+          "queSeCambia": "Inspección del vehículo cuyo vencimiento anuncia el indicador de intervalos, visible en el cuadro de instrumentos y en el menú de servicio del sistema de infoentretenimiento; no lleva asociado necesariamente un cambio de aceite"
+        }
+      ]
+    },
   },
   {
     id: "seat-leon-15-ehybrid-2026-precio-ficha-tecnica",
@@ -611,18 +634,18 @@ export const COCHES_SEAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "5,2 l/100 km homologados con 150 CV: el Ateca ideal para hacer muchos kilómetros",
-      "360 Nm de par: empuje sobrado con el coche cargado o con caravana",
-      "Cambio DSG de 7 velocidades de serie en el 2.0 TDI",
-      "Autonomía de casi 1.000 km con el depósito de 50 litros",
-      "Maletero de 510 litros sin penalización frente a las versiones gasolina",
+      "Nació en 2016 como primer SUV de la historia de SEAT, diseñado en Martorell, y acumula más de 400.000 unidades vendidas en el mundo según coches.net",
+      "Con 5,2 l/100 km homologados y 1.000 km de autonomía declarada, este 2.0 TDI está pensado para encadenar autopista sin parar a repostar a menudo",
+      "Sus 360 Nm empujan un SUV de 1.514 kg y 4.381 mm: adelantar o subir un puerto con cinco ocupantes no exige exprimir el motor hasta arriba",
+      "El maletero cubica 510 litros en esta versión de tracción delantera, sin el recorte hasta 485 litros que sufren los Ateca 4Drive",
+      "Frente a su primo el Skoda Karoq, con el que comparte línea de producción en Kvasiny, el Ateca busca una conducción algo más directa y unas líneas más angulosas"
     ],
     contras: [
-      "34.182 € de partida: el Ateca más caro de la gama",
-      "Etiqueta C: el diésel es el más expuesto a futuras restricciones",
-      "Solo con cambio DSG: no hay opción manual en el 2.0 TDI",
-      "Modelo con restyling de 2020: se nota su edad frente a rivales nuevos",
-      "AdBlue, FAP y EGR: mantenimiento más caro y delicado que un TSI",
+      "Arranca en 34.182 € según esta ficha, 2.902 € por encima del Ateca 2.0 TDI de 115 CV del mismo comparador, y un diésel así solo se amortiza acumulando muchos kilómetros de carretera al año",
+      "Lleva a la venta desde 2016 con una única renovación profunda, la de 2020: su planteamiento cumple una década frente a un Nissan Qashqai o un Peugeot 3008 rehechos por completo después",
+      "El ejemplar de esta ficha va unido a un doble embrague DSG de siete marchas, con su tacto y su mantenimiento propios, en lugar de a un cambio manual",
+      "Con etiqueta C de la DGT y 135 g/km de CO2, en las zonas de bajas emisiones parte en desventaja frente a un Qashqai e-Power o un 3008 híbrido, ambos con distintivo ECO",
+      "AdBlue, filtro de partículas y válvula EGR forman un postratamiento que encarece el uso y sufre con los trayectos cortos urbanos, justo donde un 1.5 EcoTSI de gasolina va más tranquilo"
     ],
     largoMm: 4381,
     anchoMm: 1841,
@@ -639,14 +662,14 @@ export const COCHES_SEAT: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.1,
-      "seguroTercerosAnual": 480,
-      "seguroAmpliadoAnual": 920,
-      "mantenimientoAnual": 480,
       "costeMensualTotal": 230,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 480,
+      "notas": "Cálculo propio para este Ateca diésel: recorrer 15.000 km al año con su consumo homologado de 5,2 l/100 km y gasóleo pagado a 1,75 €/l da los 9,10 € por cada 100 km del cuadro; la póliza y la partida anual de mantenimiento son referencias orientativas de un SUV compacto, con el AdBlue ya contemplado dentro del mantenimiento",
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,2 l/100 km y gasóleo a 1,75 €/l; AdBlue y mantenimiento diésel incluidos en la estimación",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 920,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -670,6 +693,29 @@ export const COCHES_SEAT: CocheComparador[] = [
     ],
     fuenteNombre: "motorgiga",
     fuenteUrl: "https://motorgiga.com/seat/ateca/ateca-20-tdi-110-kw-150-cv-dsg-7-startstop-style/2020/precio-ficha-tecnica",
+    euroncap: {
+      "ano": 2016,
+      "estrellas": 5,
+      "nota": "Ensayo de 2016 sobre un Ateca 1.6 diésel con volante a la izquierda: 93 % en adultos, 84 % en niños, 71 % en usuarios vulnerables y 60 % en ayudas a la conducción; la calificación caducó en enero de 2023 al endurecerse los protocolos posteriores",
+      "url": "https://www.euroncap.com/en/results/seat/ateca/42522"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Manual oficial del SEAT Ateca (edición 2025), apartado Mantenimiento: tabla de intervalos QI1-QI6 e inspección según indicador",
+      "intervalo": "Cambio de aceite fijo cada 15.000 km o al cumplir un año (código QI4 del manual) o flexible según el indicador del cuadro (QI6, con aceite LongLife); la inspección sigue también ese indicador",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de cambio de aceite del Ateca 2.0 TDI",
+          "queSeCambia": "Sustitución del aceite del motor y de su filtro en el servicio fijo QI4, o cuando lo pida el indicador si el coche trabaja en régimen flexible QI6"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicio de inspección del Ateca",
+          "queSeCambia": "Inspección general del vehículo cuando lo marque el indicador de intervalos del cuadro o del sistema de infoentretenimiento; el manual del Ateca no fija para ella un kilometraje único"
+        }
+      ]
+    },
   },
   {
     id: "seat-ibiza-15-tsi-2026-precio-ficha-tecnica",

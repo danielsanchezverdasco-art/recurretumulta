@@ -1909,16 +1909,16 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "bateriaKwh", "largoMm", "anchoMm", "altoMm", "parNm", "garantiaBateriaAnos", "garantiaBateriaKm", "garantiaBateriaDegradacionPct"],
     pros: [
-      "Furgón eléctrico grande con etiqueta Cero",
-      "Batería de 88,5 kWh y unos 350 km de autonomía",
-      "Volumen de carga de hasta 12,3 m³",
-      "Ideal para reparto urbano con acceso a ZBE",
+      "Es la carrocería corta de la gama grande: los 5.546 mm de esta ficha son la L2H2, con 9,7 m³ de caja y 970 kg útiles llevando la batería grande, según la ficha oficial de Maxus España; la L3H2 alarga hasta 5.940 mm y sube a 11,0 m³",
+      "La gama no se queda en el furgón cerrado: el L3 chasis cabina admite carrozados frigoríficos, volquetes o cajas a medida y declara 1.285 kg útiles con 381 km de autonomía urbana WLTP en la tabla oficial española",
+      "En la reevaluación de 2025 del programa Euro NCAP para furgonetas comerciales alcanzó las cinco estrellas, con un 81 % en Crash Avoidance y nota máxima ante ciclistas: ningún impacto en los escenarios del ensayo",
+      "Puede alimentar herramientas externas con la función V2L de su batería y Maxus anuncia para ella hasta 2.000 kg de remolque con freno y 431 km de autonomía en ciclo urbano WLTP en versión L2H2"
     ],
     contras: [
-      "Enfocado a profesionales, no a particulares",
-      "Tamaño muy grande para ciudad",
-      "Precio elevado sin ayudas",
-      "Sin prueba EuroNCAP publicada",
+      "La velocidad punta está limitada a 100 km/h y a ese ritmo el gasto se dispara: la prueba de Techzle midió unos 40 kWh/100 km en el ordenador de a bordo, muy por encima de los 30 kWh/100 km que presupone el coste energético de esta ficha",
+      "En vacío ya pesa 2.530 kg en la L2H2 oficial, así que dentro de los 3.500 kg de MMA solo quedan 970 kg para mercancía con la batería grande: menos margen que en el chasis cabina y que en muchas rivales diésel",
+      "Con 2.525 mm de alto según esta ficha —2.515 mm en la tabla oficial actual—, queda fuera de cualquier aparcamiento subterráneo corriente, justo el entorno donde más se reparte con un furgón así",
+      "Recuperar el 80 % en carga rápida lleva 51 minutos según Maxus España y llenarla en alterna, 9,3 horas: quien trabaje a dos turnos tendrá que organizar la jornada alrededor del enchufe, no al revés"
     ],
     imagen: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp",
@@ -1928,30 +1928,38 @@ export const COCHES_EXP22: CocheComparador[] = [
     videoCanal: null,
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 5.4,
-      seguroTercerosAnual: 600,
-      seguroAmpliadoAnual: 1100,
-      mantenimientoAnual: 500,
-      costeMensualTotal: 209,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "Estimación con 20.000 km/año y recarga en base a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
-      estimado: true,
+      "costeEnergia100km": 5.4,
+      "costeMensualTotal": 209,
+      "estimado": true,
+      "mantenimientoAnual": 500,
+      "notas": "Escenario de uso de esta eDeliver 9 de 88,5 kWh: recorrer 20.000 km en un año enchufando a 0,18 €/kWh arroja 5,40 € de electricidad cada 100 km y deja el gasto corriente en unos 209 € mensuales. Dentro de ese cálculo figuran 600 € al año de seguro a terceros —1.100 € si se amplía— y una partida de taller de 500 € anuales; son magnitudes de planificación para un furgón de 5,546 m y tres ocupantes, no tarifas publicadas por Maxus ni una cuota cerrada para ningún conductor concreto.",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1100,
+      "seguroTercerosAnual": 600
     },
     euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      "ano": 2025,
+      "estrellas": 5,
+      "nota": "Cinco estrellas en la reevaluación de 2025 del programa Euro NCAP de furgonetas comerciales, sobre la eléctrica de categoría N1; la valoración anterior se había quedado en cuatro. Parciales de la reevaluación: 81 % en Crash Avoidance, 80 % en Post Crash Safety y 66 % en Safe Driving. Ante ciclistas logró la puntuación máxima, evitando la colisión en todos los escenarios del ensayo.",
+      "url": "https://commercial-vehicles.euroncap.com/assessments/maxus/edeliver%2B9/v022ra/"
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
-      ],
-      costeAnualAproxEur: 170,
-      fuente: "Plan oficial Maxus España",
+      "costeAnualAproxEur": 170,
+      "fuente": "Plan oficial Maxus España",
+      "intervalo": "Cada dos años o al llegar a los 20.000 km, lo que el uso marque primero",
+      "revisiones": [
+        {
+          "costeAproxEur": 140,
+          "nombre": "Cita bienal de los 20.000 km",
+          "queSeCambia": "Se renueva el filtro del aire que respira la cabina de tres plazas, se revisa el furgón por completo y se carga la versión más reciente del software que lo gestiona"
+        },
+        {
+          "costeAproxEur": 230,
+          "nombre": "Cita de los 40.000 km, a los cuatro años",
+          "queSeCambia": "Además de lo hecho en la visita bienal, toca sustituir el líquido del circuito de frenos y verificar el sistema que refrigera el pack de 88,5 kWh alojado bajo el piso de la zona de carga"
+        }
+      ]
     },
   },
   {

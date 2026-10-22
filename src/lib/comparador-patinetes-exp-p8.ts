@@ -236,24 +236,24 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Solo 16,2 kg: de los más ligeros de su categoría",
-      "Carga completa en 4 horas",
-      "Chasis de acero robusto para 120 kg",
-      "Manual oficial con datos técnicos completos y transparentes",
+      "Con 16,2 kg en báscula se traslada a pulso entre andén y oficina sin llegar a los 17 kg que Pure redondea en su web neerlandesa",
+      "Sellado IP65 contra lluvia y charcos: la marca lo certifica en esta cuarta generación y la prensa británica lo sitúa por encima del IP54 habitual en rivales",
+      "Dirección con estabilización activa patentada por Pure y empuje trasero capaz de afrontar rampas del 19 % según la ficha de preguntas frecuentes de la marca",
+      "Neumáticos tubeless de 10 pulgadas, con aire y refuerzo antipinchazos: absorben mejor los baches urbanos que un macizo y no exigen cámara de repuesto"
     ],
     contras: [
-      "30 km declarados (~20 reales): autonomía justa",
-      "Batería pequeña de 266 Wh",
-      "Sin suspensión ni intermitentes",
-      "El Air 4 Pro da 10 km más por poco más",
+      "Los 30 km oficiales se traducen en unos 20 km reales en la propia ficha: quien encadene ida y vuelta largas cada día vivirá pendiente del cargador",
+      "El acumulador se queda en 266 Wh, resultado de sus 7,2 Ah a 37 V: es el precio en autonomía de mantener el conjunto tan contenido de peso",
+      "Esta versión base prescinde de los intermitentes de manillar que sí monta el Air 4 Pro y tampoco lleva suspensión de ningún tipo",
+      "La ficha deja el certificado DGT sin verificar y Pure no lo anuncia para este modelo: conviene exigirlo por escrito al vendedor antes de pagar"
     ],
     veredicto:
-      "El Air 4 es el Pure ligero y honesto: 16,2 kg, 4 horas de carga y precio contenido. Ideal como segundo patinete o para trayectos cortos; si haces más de 20 km al día, el Pro compensa.",
+      "Cuarta generación del Air de acceso y la más equilibrada para trayectos cortos: 500 W nominales, recarga completa en unas 4 horas y un sellado IP65 poco común en su franja. Se queda en casa si tu ruta diaria se acerca a su autonomía real de unos 20 km; para ese uso, el salto natural dentro de la propia gama es el Air 4 Pro.",
     fuenteNombre: "Manual oficial Pure Air 4",
     fuenteUrl: "https://manuals.plus/m/e4b91ebb019fe4b657fdb73e28a6ec5af12af2b56198b316018987ac7d64481b_optim.pdf",
     mantenimientoDIY: {
-      presionNeumaticos: "Neumáticos de 10\": mantener la presión máxima indicada en el flanco",
-      intervaloRevision: "Revisar tornillería del mástil cada 3 meses (chasis de acero, uniones atornilladas)",
+      "presionNeumaticos": "36 PSI (2,5 bar) en las dos ruedas de 10 pulgadas, inflando siempre con el extensor de válvula: es la presión óptima que fija el manual del Air 4",
+      "intervaloRevision": "Antes de cada salida toca repasar el apriete de manillar, bisagra de plegado, frenos y ejes de ambas ruedas, porque el manual advierte de que tuercas y fijaciones autoblocantes se aflojan con el uso"
     },
   },
   {
@@ -286,24 +286,28 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "40 km declarados con batería de 355 Wh: el punto dulce de la gama Air 4",
-      "Solo 1 kg más que el Air 4 base por 10 km extra",
-      "Sube pendientes de hasta el 19 % según el manual oficial",
-      "Chasis de acero para 120 kg y frenada combinada fiable",
+      "Con 9,6 Ah a 37 V (355 Wh) declara 40 km, 10 km más que el Air 4 básico, y solo pesa 1 kg más que él: 17,2 kg en total",
+      "La estabilización activa de la dirección es, según la propia Pure, lo que distingue al Pro del Air 4 básico: reduce el bamboleo del manillar al pasar baches",
+      "Intermitentes en los extremos del manillar y faro delantero de 150 lúmenes: señaliza los giros sin soltar las manos",
+      "Sellado IP65 frente a lluvia y charcos, sobre un chasis de acero que admite hasta 120 kg de carga"
     ],
     contras: [
-      "6 horas de carga",
-      "Sin suspensión ni intermitentes",
-      "El Air 5/6 ya lo superan en equipamiento",
-      "Precio de lanzamiento alto para un patinete sin suspensión",
+      "La carga completa tarda unas 6 horas, así que el ritmo natural es dejarlo enchufado toda la noche entre jornada y jornada",
+      "Ninguna rueda lleva suspensión: en calles con baches, solo el neumático hinchable de 10\" filtra las vibraciones",
+      "Plataforma corta: los conductores altos notan la postura algo encogida en trayectos largos, como también señala Expert Reviews en su prueba",
+      "Intermitentes y control de crucero resultan poco intuitivos al principio, y el crucero ni siquiera se activa desde el patinete: hay que entrar en la app"
     ],
     veredicto:
-      "El Air 4 Pro es el Air 4 que deberías comprar: por 1 kg más tienes 10 km extra y mejor subida de cuestas. Compra racional dentro de Pure si no necesitas suspensión.",
+      "Frente al Air 4 básico, el Pro justifica su sobreprecio en tres cosas concretas: 10 km más de autonomía (40 frente a 30), pendientes de hasta el 19 % y el paquete de seguridad con estabilización de dirección e intermitentes en el manillar. A cambio aceptas la misma plataforma corta, ninguna suspensión y 6 horas de enchufe por carga.",
     fuenteNombre: "Manual oficial Pure Air 4",
     fuenteUrl: "https://manuals.plus/m/e4b91ebb019fe4b657fdb73e28a6ec5af12af2b56198b316018987ac7d64481b_optim.pdf",
     mantenimientoDIY: {
-      presionNeumaticos: "Neumáticos de 10\": presión máxima del flanco; revisar cada 2 semanas",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      "actualizacionFirmware": "El Air 4 Pro se enlaza por Bluetooth con la app de Pure para iOS y Android: desde ahí llegan las actualizaciones de rendimiento, se activa el control de crucero y se fija el PIN de bloqueo antirrobo",
+      "aprieteTornilleria": "Repasar con regularidad los tornillos de los ejes de ambas ruedas, del mecanismo de plegado, de la dirección y de los frenos: son los puntos cuyo apriete el manual manda vigilar",
+      "presionNeumaticos": "Neumáticos tubeless de 10\": el manual del Air 4 fija 36 PSI (2,5 bar) antes de cada salida, y pide usar siempre el alargador de válvula de la bomba para no dañar las válvulas",
+      "trucos": [
+        "Calibración inicial de la batería según el manual: carga completa hasta que el piloto del cargador pase a verde, rueda hasta casi agotarla y vuelve a cargar al 100 %; solo hay que hacerlo una vez"
+      ]
     },
   },
   {

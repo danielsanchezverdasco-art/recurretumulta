@@ -214,18 +214,18 @@ export const COCHES_WEY: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "517 CV con 0-100 en 4,9 s en un SUV de 6 plazas",
-      "185 km eléctricos WLTC y 1.308 km de autonomía total",
-      "LiDAR de 128 canales y conducción asistida Coffee Pilot Ultra",
-      "Interior de 6 plazas con frigorífico y asientos de gravedad cero",
-      "Restyling 2025 con batería ampliada a 44,5 kWh",
+      "Buque insignia Lanshan de Wey: 5,16 m de largo y 3,05 m de batalla con seis plazas en tres filas",
+      "Conjunto Hi4 con motor 1.5T de 170 CV, motores eléctricos en ambos ejes y cambio DHT de cuatro relaciones",
+      "185 km eléctricos WLTC con la batería de 44,5 kWh y 1.308 km combinados en ciclo chino",
+      "Versión Intelligent Driving con LiDAR de 128 líneas, chip Nvidia Orin-X y NOA sin mapas del Coffee Pilot Ultra",
+      "Nevera de 7 litros regulable entre -6 y 50 °C, pantalla trasera de 17,3 pulgadas y butacas capitán en la segunda fila"
     ],
     contras: [
-      "No se vende oficialmente en Europa: solo China y Rusia",
-      "Maletero de 239 L con las 6 plazas en uso",
-      "Marca premium china sin historial de depreciación",
-      "Sin datos de carga rápida DC publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
+      "En España solo podría llegar por importación paralela: su venta oficial se limita a China y, ya como Wey 07, a Rusia",
+      "Con la tercera fila desplegada el maletero se queda en 239 litros, escaso para viajar con seis ocupantes",
+      "Li Auto L8 y AITO M7, sus rivales directos en China, venden mucho más y le restan visibilidad comercial",
+      "La versión de exportación renuncia al LiDAR de techo y a la pantalla del copiloto que sí lleva el Lanshan chino",
+      "Su precio en euros sale de convertir los 299.800 yuanes de la versión Max china, sin tarifa europea que lo respalde"
     ],
     imagen: "/media/wey-07-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-07-2024-precio-ficha-tecnica-oficial.webp",
@@ -235,16 +235,15 @@ export const COCHES_WEY: CocheComparador[] = [
     videoCanal: "Garagem do Teteco GDT",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 5.81,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 500,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 177,
-      notas:
-        "Estimación con 15.000 km/año (75 % en modo eléctrico, resto en híbrido ~6,3 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 5.81,
+      "costeMensualTotal": 177,
+      "estimado": true,
+      "mantenimientoAnual": 350,
+      "notas": "Supuestos: 15.000 km al año, tres cuartas partes en modo eléctrico y el resto con el motor 1.5T consumiendo unos 6,3 L/100 km; póliza a todo riesgo incluida y electricidad doméstica a 0,18 €/kWh.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 900,
+      "seguroTercerosAnual": 500
     },
     galeria: [
       {
@@ -266,6 +265,12 @@ export const COCHES_WEY: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el Lanshan (Wey 07) no ha sido probado por Euro NCAP; las 5 estrellas Wey de 2022 son del Coffee 01, un modelo distinto",
+      "url": null
+    },
   },
   {
     id: "wey-gaoshan-7-2025-precio-ficha-tecnica",
@@ -297,18 +302,18 @@ export const COCHES_WEY: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
     pros: [
-      "452 CV con tracción total en un monovolumen de 7 plazas",
-      "172 km eléctricos WLTC: el día a día sin gasolina",
-      "LiDAR, frigorífico y tracción total de serie",
-      "7 plazas 2+2+3 con asientos capitán en la segunda fila",
-      "945 km de autonomía combinada",
+      "El Gaoshan familiar de batalla corta: 3.085 mm entre ejes y 5,05 m de largo, frente a los 5,28 m que mide su hermano Gaoshan 8",
+      "Hi4 Performance con el 1.5T de 125 kW apoyado por motores de 80 kW delante y 135 kW detrás: 337 kW y 644 Nm en conjunto",
+      "La batería ternaria de 44,28 kWh firma 172 km en eléctrico bajo ciclo WLTC y estira el alcance total hasta 945 km con el depósito lleno",
+      "Coffee Pilot Ultra de serie con LiDAR de 128 líneas, 27 sensores y chip Nvidia Orin-X, capaz de NOA tanto en autopista como en ciudad",
+      "Habitáculo 2+2+3 con puertas correderas eléctricas, pantalla trasera 3K de 17,3 pulgadas y nevera de compresor de 12,5 litros regulable entre -6 y 50 °C"
     ],
     contras: [
-      "No se vende oficialmente en Europa: solo China",
-      "Monovolumen de 5,05 m: difícil de aparcar y maniobrar",
-      "Sin datos de carga rápida DC publicados",
-      "Precio convertido desde yuanes: orientativo, no oficial",
-      "Segmento casi inexistente en España: reventa imprevisible",
+      "Para comprarlo en Europa no hay tarifa ni red Wey: su venta se concentra en China y, ya rebautizado como Wey G9, en mercados como Tailandia y Malasia",
+      "Los 37.150 € de esta ficha salen de convertir los 285.800 yuanes del lanzamiento chino, sin impuestos, transporte ni homologación europea sumados",
+      "Su carga rápida existe pero rinde poco frente a un eléctrico puro: del 30 al 80 % tarda 26 minutos y en alterna a 6,6 kW necesita 6,5 horas entre el 15 y el 100 %",
+      "El Agile Turn Assist rebaja el radio de giro a 5,6 m, pero 1,96 m de ancho y 1,90 m de alto siguen castigando en garajes y plazas estándar españolas",
+      "Con las siete plazas en pie caben siete maletas de 20 pulgadas, cinco menos que en un Gaoshan 8 según GNE: aquí se paga la batalla recortada"
     ],
     imagen: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/wey-gaoshan-7-2025-precio-ficha-tecnica-oficial.webp",
@@ -318,16 +323,15 @@ export const COCHES_WEY: CocheComparador[] = [
     videoCanal: "Wheelsboy",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 6.45,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 510,
-      seguroAmpliadoAnual: 960,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 194,
-      notas:
-        "Estimación con 15.000 km/año (70 % en modo eléctrico, resto en híbrido ~7 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
-      estimado: true,
+      "costeEnergia100km": 6.45,
+      "costeMensualTotal": 194,
+      "estimado": true,
+      "mantenimientoAnual": 400,
+      "notas": "Nota pensada solo para este monovolumen Hi4: el gasto mezcla trayectos urbanos aprovechando sus 172 km WLTC en eléctrico con escapadas en híbrido, donde un conjunto de 452 CV difícilmente repetirá consumos de utilitario. La electricidad doméstica se valora a 0,18 €/kWh y seguro y mantenimiento son partidas estimadas, porque Wey no publica tarifas de posventa españolas para el Gaoshan 7.",
+      "precioGasolinaL": 1.6,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 960,
+      "seguroTercerosAnual": 510
     },
     galeria: [
       {
@@ -349,6 +353,18 @@ export const COCHES_WEY: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: modelo no probado",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Wey/GWM: no se ha localizado plan oficial europeo del Gaoshan 7; no se trasladan cadencias de otros Wey ni de mercados asiáticos",
+      "intervalo": "Sin intervalo oficial publicado para España: el Gaoshan 7 no se comercializa en el mercado español",
+      "revisiones": []
+    },
   },
   {
     id: "wey-gaoshan-8-2025-precio-ficha-tecnica",

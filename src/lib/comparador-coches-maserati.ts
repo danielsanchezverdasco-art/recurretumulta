@@ -638,18 +638,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "630 CV del V6 Nettuno central: el heredero del MC20, presentado en Goodwood 2025",
-      "0-100 en 2,9 s y 325 km/h: superdeportivo de verdad",
-      "1.475 kg y chasis de carbono: ligereza de competición",
-      "279.500 € en España: el superdeportivo italiano más accesible de su liga",
-      "Puertas de mariposa y diseño esculpido en Módena: el Tridente en estado puro",
+      "Debutó en Goodwood el 10 de julio de 2025 como evolución del MC20: Maserati concentró los cambios en la carrocería, los materiales y los acabados, y dejó intacta la mecánica",
+      "El Nettuno no se ha tocado: V6 biturbo de 3,0 litros fabricado en Módena, con combustión por precámara patentada, doble bujía y 210 CV por litro",
+      "Su color de presentación, Ai Aqua Rainbow, va en mate en este coupé —en el Cielo es brillante— y cambia de tono con la luz como un prisma",
+      "Asientos de Alcantara Ice grabados con láser y volante nuevo inspirado en el MC20 GT2 de carreras, achatado por arriba y por abajo, con testigos LED de cambio opcionales en el coupé",
+      "Las puertas Butterfly se abren dejando a la vista el monocasco de carbono, en un coche que mide solo 1.221 mm de alto"
     ],
     contras: [
-      "11,5 l/100 km y 261 g/km oficiales: el V6 bebe y emite",
-      "Maletero de 100 l (+50 l delantero): equipaje mínimo",
-      "Biplaza estricto: cero concesiones a la practicidad",
-      "Etiqueta C: Madrid restringe en episodios de contaminación",
-      "Mantenimiento de superdeportivo: cada revisión es un susto",
+      "El cambio de nombre no trajo mejoras importantes, según The Car Expert: bajo la piel nueva sigue el MC20 de 2020, con idénticas cifras de potencia y prestaciones",
+      "Frente al Ferrari 296 híbrido, aquí no hay ni un motor eléctrico de apoyo: se queda con la etiqueta C y sin circulación silenciosa en ciudad",
+      "La prensa que lo ha probado le reprocha un habitáculo menos inspirado que el de sus rivales y un cambio de doble embrague que a veces se muestra brusco",
+      "El maletero trasero se queda en 100 litros y el delantero añade otros 50: dos huecos pequeños que obligan a repartir el equipaje en bultos blandos",
+      "Homologa 261 gramos de CO₂ por kilómetro y un consumo combinado de 11,5 litros: llenar el depósito será un gasto recurrente, no una anécdota"
     ],
     largoMm: 4669,
     anchoMm: 1965,
@@ -666,15 +666,15 @@ export const COCHES_MASERATI: CocheComparador[] = [
     analisisSlug: "maserati-mcpura-2025-precio-ficha-tecnica",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 19.0,
-      seguroTercerosAnual: 1700,
-      seguroAmpliadoAnual: 3000,
-      mantenimientoAnual: 1800,
-      costeMensualTotal: 637,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "11,5 l/100 km WLTP (prensa especializada); 15.000 km/año; gasolina 1,65 €/l",
-      estimado: true,
+      "costeEnergia100km": 19,
+      "costeMensualTotal": 637,
+      "estimado": true,
+      "mantenimientoAnual": 1800,
+      "notas": "Estimación solo para este coupé cerrado: con la gasolina a 1,65 €/l y su consumo homologado de 11,5 l/100 km, el combustible sale a 19 € por cada cien kilómetros; sobre 15.000 km al año, seguros y mantenimiento son partidas estimadas de superdeportivo.",
+      "precioGasolinaL": 1.65,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 3000,
+      "seguroTercerosAnual": 1700
     },
     galeria: [
       {
@@ -696,6 +696,34 @@ export const COCHES_MASERATI: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: ni el MCPura ni el MC20 del que deriva han pasado por las pruebas de Euro NCAP",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Maserati, programas de mantenimiento oficiales (Maintenance Premium para los 3 primeros servicios y Maintenance 10 del 4.º al 10.º; la web de Maserati agrupa MC20 y MCPura en el mismo programa); intervalo de un año o 15.000 km según Al Tayer Motors, concesionario oficial que cita las directrices del fabricante, corroborado por CarsGuide para el MC20",
+      "intervalo": "Paso por el taller oficial cuando se cumpla un año o se alcancen los 15.000 km, según lo primero que llegue",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primer servicio programado (un año o 15.000 km)",
+          "queSeCambia": "Aceite del V6 Nettuno con su filtro nuevo y filtro de polen, más la diagnosis electrónica y las inspecciones del programa de mantenimiento que Maserati agrupa para MC20 y MCPura"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Segundo servicio programado (dos años o 30.000 km)",
+          "queSeCambia": "Se repite el cambio de aceite y filtros y se renueva el líquido de frenos, cuya sustitución el manual sitúa cada dos años; el programa Premium de la marca cubre los tres primeros servicios con recambios originales"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Servicios cuarto a décimo",
+          "queSeCambia": "Tras el tercer servicio, Maserati ofrece el programa Mantenimiento 10, contratado en paquetes de dos servicios consecutivos, con las operaciones y componentes del programa programado y recogida y entrega del coche incluidas"
+        }
+      ]
+    },
   },
   {
     id: "maserati-mcpura-cielo-2025-precio-ficha-tecnica",
@@ -965,18 +993,18 @@ export const COCHES_MASERATI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "V6 3.0 biturbo de 350 CV con mejor sonido que el GT",
-      "251 km/h de velocidad máxima",
-      "Tracción total Q4 con reparto trasero",
-      "Acabado Modena: el equilibrio de la gama",
-      "5 plazas reales y gran habitabilidad",
+      "Primer SUV en más de un siglo de Maserati: debutó en el Salón de Ginebra de marzo de 2016 y se fabricaba en Mirafiori, Turín",
+      "Toma el nombre de un viento cálido del Mediterráneo, y este Modena lo mueve un V6 de 2.979 cm³ con dos turbos y 500 Nm",
+      "La tracción Q4 circula en modo trasero y puede repartir el par al 50:50 en solo 150 milisegundos si el eje trasero patina",
+      "Suspensión neumática de serie con varias alturas de carrocería y reparto de pesos equilibrado al 50:50 entre ambos ejes",
+      "Maletero de 580 litros tras cinco plazas y una batalla de 3.004 mm: el Maserati pensado para viajar cargado"
     ],
     contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C: sin ventajas en ZBE",
-      "Consumos WLTP sin publicar para esta versión",
-      "El Trofeo ofrece 230 CV más por un salto moderado",
-      "Modelo al final de su vida comercial",
+      "El folleto oficial del modelo declara entre 12,6 y 13,5 litros a los cien en ciclo combinado: llenar sus 80 litros duele",
+      "Su pegatina C es la de un gasolina puro, así que en las zonas de bajas emisiones no disfruta de ninguna ventaja ECO",
+      "Maserati España ya no vende esta Modena de 350 CV: la Modena de su catálogo actual rinde 430 CV y parte de 148.750 euros",
+      "En orden de marcha pesa 2.109 kilos y la carrocería estira 5.005 mm, cifras que se notan al maniobrar en garajes estrechos",
+      "La producción del Levante cerró en la primavera de 2024 y su pantalla central de 8,4 pulgadas delata que nació en 2016"
     ],
     largoMm: null,
     anchoMm: null,
@@ -999,7 +1027,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 591,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 11,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "Cuenta propia de esta Modena de 350 CV: recorrer 15.000 km al año con los 11,5 litros a los cien que asume esta ficha quema 1.725 litros; a 1,85 euros el litro son 3.191 euros de gasolina, y sumando el seguro amplio y el mantenimiento estimado salen los 591 euros al mes",
       "estimado": true
     },
     galeria: [
@@ -1022,6 +1050,39 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: el Levante cerró su vida comercial en 2024 sin que Euro NCAP llegara a ensayarlo"
+    },
+    planMantenimiento: {
+      "intervalo": "Cupones de servicio cada 20.000 km o al cumplir un año desde la visita anterior, lo primero que llegue",
+      "revisiones": [
+        {
+          "nombre": "Cada cupón del Levante: aceite y filtro nuevos",
+          "queSeCambia": "Aceite del motor y su filtro en todas las visitas, con prueba en carretera, diagnóstico electrónico Maserati y control de niveles, posibles fugas del intercooler y presión de los neumáticos",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Segundo cupón: se suma el filtro de polen",
+          "queSeCambia": "Desde el segundo cupón la tabla oficial añade el filtro de polen del habitáculo; el líquido de frenos se revisa en cada visita y se renueva al cumplir dos años",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Tercer cupón: bujías para el V6 de 2.979 cm³",
+          "queSeCambia": "Las bujías se sustituyen en el tercer cupón y de nuevo en el sexto, tal como marca la tabla de operaciones principales del mantenimiento programado del Levante",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Cuarto cupón: filtro de aire y correas auxiliares",
+          "queSeCambia": "Al llegar el cuarto cupón tocan el filtro de aire del motor y, en los V6, la correa del alternador junto a la que mueve la bomba de agua y el compresor del climatizador",
+          "costeAproxEur": null
+        }
+      ],
+      "costeAnualAproxEur": null,
+      "fuente": "Guía de mantenimiento programado del Maserati Levante 2021 reproducida del manual del propietario (cupones cada 12.500 millas, 20.000 km, o 1 año); Maserati España no publica el precio cerrado de cada cupón"
+    },
   },
   {
     id: "maserati-levante-trofeo-2024-precio-ficha-tecnica",

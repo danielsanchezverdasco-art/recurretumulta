@@ -35,18 +35,18 @@ export const COCHES_EXEED: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "SUV compacto premium por unos 16.900 € al cambio en China",
-      "Motor 1.6T de 197 CV con cambio automático DCT de 7 velocidades",
-      "Desde 2025 incorpora de serie el 1.6T y paquete ADAS completo",
-      "Interior con doble pantalla digital y buen nivel de acabados",
-      "Tracción delantera eficiente para uso urbano y familiar",
+      "Fue el segundo modelo de Exeed tras el TX: se desveló en julio de 2019 compartiendo plataforma con el Chery Tiggo 7 de primera generación",
+      "El 1.6 TGDI (código SQRF4J16) rinde 197 CV y 294 Nm, siempre unido a la caja automática DCT de siete relaciones en esta versión",
+      "Su restyling de agosto de 2021 lo rebautizó Zhuifeng en China y mantuvo el salpicadero de doble pantalla unificada que lo separaba del Tiggo 7",
+      "Batalla de 2.670 mm, suspensión trasera multibrazo y depósito de 51 litros en una carrocería de 4.538 mm pensada para cinco ocupantes",
+      "Los 16.900 € de esta ficha convierten su tarifa china: por ese importe, en su mercado de origen se posiciona como SUV compacto de enfoque premium"
     ],
     contras: [
-      "Maletero de solo 300 litros, justo para el segmento",
-      "No se vende en España ni en Europa (solo China y otros mercados)",
-      "Consumo real elevado para un SUV compacto de gasolina",
-      "Marca sin red de servicio ni recambios en Europa",
-      "Valor de reventa incierto fuera de China",
+      "La ficha oficial chilena cifra el maletero en 300 litros justos: una compra semanal grande ya obliga a abatir parte de la banqueta 60/40",
+      "Exeed todavía no lo comercializa en el mercado español y su desembarco europeo se plantea con Exlantix y otros modelos, no con este LX de gasolina",
+      "Homologa 7,79 l/100 km en ciclo WLTC chino sin ninguna hibridación que lo rebaje, así que se queda con la etiqueta C y un gasto real cercano a los 8 l",
+      "Sus ventas chinas como Zhuifeng cayeron de 5.976 unidades en 2023 a 3.633 en 2024 y 1.829 en 2025: es un modelo en declive incluso en casa",
+      "Una unidad importada por libre quedaría aquí sin la cobertura que la marca sí da donde lo vende: 7 años o 200.000 km constan en Chile y en Rusia"
     ],
     largoMm: 4538,
     anchoMm: 1848,
@@ -62,16 +62,15 @@ export const COCHES_EXEED: CocheComparador[] = [
     imagen: "/media/exeed-lx-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
-      costeEnergia100km: 12.64,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.58,
-      seguroTercerosAnual: 480,
-      seguroAmpliadoAnual: 850,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 227,
-      notas:
-        "Estimación con 15.000 km/año, consumo medio de 8,0 l/100 km y gasolina a 1,58 €/l. Precio del coche convertido del PVP chino.",
-      estimado: true,
+      "costeEnergia100km": 12.64,
+      "costeMensualTotal": 227,
+      "estimado": true,
+      "mantenimientoAnual": 350,
+      "notas": "Cálculo propio para este LX 1.6T de tracción delantera: 15.000 km anuales con una media estimada de 8,0 l/100 km y el litro de gasolina a 1,58 €. Los 16.900 € del encabezado salen de convertir su precio chino, no de una tarifa española.",
+      "precioGasolinaL": 1.58,
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 850,
+      "seguroTercerosAnual": 480
     },
     galeria: [
       {
@@ -94,6 +93,18 @@ export const COCHES_EXEED: CocheComparador[] = [
       },
     ],
     analisisSlug: "exeed-lx-2025-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el LX no consta entre los modelos evaluados en las pruebas publicadas por Euro NCAP",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Exeed/Chery: no se ha localizado plan oficial europeo del LX; no se trasladan intervalos de Rusia o Chile por ser mercados y versiones distintos",
+      "intervalo": "Sin intervalo oficial publicado para España: este LX 1.6T no se vende en el mercado español",
+      "revisiones": []
+    },
   },
   {
     id: "exeed-lx-c-dm-2024-precio-ficha-tecnica",

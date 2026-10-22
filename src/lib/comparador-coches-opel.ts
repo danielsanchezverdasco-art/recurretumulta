@@ -284,18 +284,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Desde 23.300 €: el SUV híbrido familiar más barato de Opel",
-      "Maletero de 460 litros (1.600 con asientos abatidos)",
-      "Etiqueta ECO con 5,2 l/100 km de consumo WLTP",
-      "Opción de 7 plazas, única en su rango de precios",
-      "Diseño robusto y honesto, con buen espacio interior",
+      "A 23.300 € es el acceso híbrido a los SUV de Opel: mide 4,39 m, unos 24 cm más que un Mokka, y aun así su tarifa arranca por debajo de la de aquel",
+      "Maletero de 460 litros en cinco plazas que crece a 1.600 al abatir la banqueta 60:40, con 1.876 mm de longitud útil de carga y un umbral situado a solo unos 77 cm del suelo",
+      "La tercera fila opcional del acabado GS cuesta 850 € y suma dos asientos que se pliegan por separado: el MG ZS Hybrid+, su rival híbrido más potente, no puede montar siete plazas",
+      "Su conjunto de 48 voltios —tricilíndrico 1.2 de 100 CV, motor eléctrico de 28 CV dentro de la caja eDCT6 y 205 Nm desde 1.750 rpm— homologa 5,2 l/100 km y se lleva la etiqueta ECO",
+      "Estrena el nuevo emblema Blitz sobre el frontal Vizor y recupera un nombre con historia: el Frontera original fue el todoterreno que Opel comercializó entre 1991 y 2004"
     ],
     contras: [
-      "110 CV y 11,4 s de 0 a 100: el más lento de la comparativa",
-      "Par motor no publicado por la marca",
-      "Acabados interiores sencillos, acordes al precio",
-      "Sin tracción total disponible",
-      "El Frontera Electric ofrece etiqueta Cero desde 27.000 €",
+      "Es el Frontera híbrido tranquilo: sus 110 CV para 1.344 kg firman un 0 a 100 km/h en 11,4 segundos y una velocidad punta de 180 km/h, lejos de los 9,0 s de su hermano Hybrid 145",
+      "Con la tercera fila desplegada, los 460 litros del maletero se reducen a un hueco testimonial tras los dos asientos extra",
+      "Solo hay dos anclajes ISOFIX, ambos en la banqueta trasera: en un familiar que puede llevar a siete personas se echa en falta un tercer punto de fijación",
+      "km77 lo deja claro: por materiales de recubrimiento y equipamiento es el SUV más sencillo de Opel, con plásticos duros en línea con su tarifa contenida",
+      "Toda la gama Frontera actual es de tracción delantera: del 4x4 de 1991 no queda ni la opción, así que fuera del asfalto manda la prudencia"
     ],
     largoMm: 4385,
     anchoMm: 1795,
@@ -312,14 +312,14 @@ export const COCHES_OPEL: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.32,
-      "seguroTercerosAnual": 400,
-      "seguroAmpliadoAnual": 800,
-      "mantenimientoAnual": 360,
       "costeMensualTotal": 200,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 360,
+      "notas": "Cuentas hechas solo para este Hybrid 110: recorrer 15.000 km en un año consume 780 litros según su homologación de 5,2 l/100 km, y a 1,60 € el litro salen 1.248 € de gasolina. Sumados los 800 € del seguro amplio y los 360 € reservados a revisiones quedan 2.408 € anuales, unos 200 € al mes; son estimaciones de la ficha, no tarifas cerradas de Opel.",
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,2 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un SUV híbrido",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 800,
+      "seguroTercerosAnual": 400
     },
     galeria: [
       {
@@ -343,6 +343,34 @@ export const COCHES_OPEL: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/opel/frontera/2025/estandar/estandar/frontera-hybrid-110-edition/datos",
+    curiosidad: {
+      "fuenteNombre": "forococheselectricos, presentación mundial del Frontera en Estambul (Opel)",
+      "fuenteUrl": "http://forococheselectricos.com/2024/05/opel-frontera-suv-electrico-7-plazas.html",
+      "texto": "Las barras de techo opcionales del Frontera soportan hasta 240 kg con el coche parado, una carga pensada para montar encima una tienda de campaña con su escalera y dormir sobre el propio SUV."
+    },
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el Frontera estrenado en 2024 todavía no ha pasado por el laboratorio del organismo, y tampoco lo ha hecho su gemelo de plataforma, el Citroën C3 Aircross de segunda generación; las cinco estrellas de 2017 corresponden al C3 Aircross anterior y no son trasladables a este coche",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Opel España, Servicio de Inspección (revisión recomendada cada año o cada 30.000 km y relación de puntos incluidos); Opel no publica un plan cerrado con precios específico del Frontera Hybrid 110, por lo que los costes quedan a null",
+      "intervalo": "Cada 30.000 km recorridos o al cumplir 12 meses, lo primero que suceda: es el intervalo que Opel recomienda en España para sus turismos, siempre pendiente de lo que marque el indicador de servicio del propio Frontera",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica del Hybrid 110, a los 30.000 km o al año",
+          "queSeCambia": "Aceite nuevo para el tricilíndrico 1.2 junto con su filtro, filtro del habitáculo sustituido y control de la batería, los puntos que el servicio de inspección de Opel España enumera para la visita periódica"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Controles funcionales que completan esa misma visita oficial",
+          "queSeCambia": "Renovación del líquido de frenos y repaso por bloques del coche: carrocería, neumáticos y escape por un lado; frenos, motor y chasis por otro; y luces junto con toda la electrónica, según la relación oficial de Opel España"
+        }
+      ]
+    },
   },
   {
     id: "opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica",
@@ -1093,8 +1121,8 @@ export const COCHES_OPEL: CocheComparador[] = [
   },
   {
     id: "opel-grandland-hibrido-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -1114,18 +1142,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Desde 32.300 €: el SUV familiar híbrido de acceso de Opel",
-      "Maletero de 550 litros (1.645 abatido)",
-      "145 CV y 230 Nm con 5,4 l/100 km de consumo WLTP",
-      "Etiqueta ECO y plataforma STLA Medium de última generación",
-      "Interior con pantalla de 16 pulgadas y asientos AGR ergonómicos",
+      "La segunda generación del Grandland, presentada en abril de 2024, se diseñó en Rüsselsheim, se fabrica en Eisenach y estrena en Opel la plataforma STLA Medium",
+      "A 32.300 € es el Grandland 2025 más barato de la gama: el enchufable de 195 CV y las versiones eléctricas quedan claramente por encima en precio",
+      "Maletero de 550 litros que crece hasta 1.645 abatiendo los respaldos traseros, una de las cifras grandes entre los SUV familiares generalistas",
+      "Euro NCAP le reconoce en 2025 un 85 % de protección infantil, su mejor nota parcial, y la calificación cubre expresamente a este Hybrid 145 e-DSC6",
+      "Los asientos delanteros cuentan con certificación ergonómica AGR, un sello de salud postural poco habitual en un SUV de este precio"
     ],
     contras: [
-      "10,2 s de 0 a 100: el Grandland más lento de la gama",
-      "Peso de 1.675 kg para 145 CV",
-      "Sin tracción total en la versión híbrida",
-      "El acabado Edition es espartano para su precio",
-      "Los PHEV y eléctricos ofrecen etiqueta Cero por más dinero",
+      "Sus 10,2 segundos hasta 100 km/h lo dejan como el Grandland con menos brío: el tricilíndrico de 136 CV tiene que mover 1.675 kilos y se nota en incorporaciones con carga",
+      "La batería de 0,89 kWh (0,43 útiles, según km77) solo permite desplazar el coche en eléctrico durante maniobras y aparcamientos: no circula en modo eléctrico sostenido como un híbrido completo",
+      "Euro NCAP se quedó en cuatro estrellas en 2025 y las ayudas a la conducción fueron su peor apartado, con un 62 %, por debajo de lo que logran varios rivales de cinco estrellas",
+      "No existe tracción total en el Hybrid: quien la necesite debe saltar al Grandland Electric AWD de 325 CV, una versión mucho más cara",
+      "El 5,4 l/100 km es el mejor dato de la gama Hybrid: Opel España homologa hasta 6,3 l/100 km según el acabado y la llanta elegidos"
     ],
     largoMm: 4650,
     anchoMm: 1905,
@@ -1142,14 +1170,14 @@ export const COCHES_OPEL: CocheComparador[] = [
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.64,
-      "seguroTercerosAnual": 460,
-      "seguroAmpliadoAnual": 950,
-      "mantenimientoAnual": 500,
       "costeMensualTotal": 230,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 500,
+      "notas": "Cálculo propio de esta ficha: recorrer 15.000 km al año cuesta 1.296 € en gasolina, a 8,64 € cada 100 km con el litro a 1,60 € y los 5,4 l/100 km que homologa en ciclo WLTP; sumando 950 € de seguro amplio y 500 € de mantenimiento salen 2.746 € anuales, que son esos 230 € al mes redondeados.",
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,4 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un SUV familiar híbrido",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 950,
+      "seguroTercerosAnual": 460
     },
     galeria: [
       {
@@ -1173,6 +1201,29 @@ export const COCHES_OPEL: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/opel/grandland/2025/estandar/estandar/grandland-gs-hybrid-145-cv/datos",
+    euroncap: {
+      "ano": 2025,
+      "estrellas": 4,
+      "nota": "Hoja oficial Euro NCAP de mayo de 2025: la unidad ensayada fue un Peugeot 3008, su gemelo de plataforma STLA Medium, y la propia hoja extiende la calificación al Grandland Hybrid 145 e-DSC6 de tracción delantera; notas parciales del 80 % en adultos, 85 % en infantil, 79 % en usuarios vulnerables y 62 % en asistencias",
+      "url": "https://euroncap.blob.core.windows.net/media/89773/euroncap-2025-opel-vauxhall-grandland-datasheet.pdf"
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Intervalos: datos JATO del Opel Grandland Híbrido GS reproducidos por quecochemecompro; contenido de la revisión: Servicio de Inspección de Opel España (opel.es). Opel España no publica un precio cerrado de revisión para este modelo",
+      "intervalo": "Mantenimiento intermedio cada 12 meses o 30.000 km y mantenimiento principal cada 24 meses o 60.000 km, según los datos de servicio publicados para el Grandland Híbrido GS",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Intermedia, al año o a los 30.000 km",
+          "queSeCambia": "Sustitución del filtro de aceite y del filtro del habitáculo, revisión de la batería del sistema híbrido e inspecciones funcionales de frenos, motor, chasis, luces y electrónica, siguiendo la lista del Servicio de Inspección de Opel España"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Principal, a los dos años o a los 60.000 km",
+          "queSeCambia": "Repite las operaciones de la intermedia y añade el cambio del líquido de frenos, además del control de carrocería, neumáticos y escape que Opel España incluye en su servicio de inspección"
+        }
+      ]
+    },
   },
   {
     id: "opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica",

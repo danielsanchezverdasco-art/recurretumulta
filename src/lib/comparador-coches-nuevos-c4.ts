@@ -571,18 +571,18 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     emisionesCo2: 115,
     aprox: [],
     pros: [
-      "Desde 16.745 €: el Hyundai más barato del mercado",
-      "Ideal para ciudad: solo 3,67 m y muy ágil",
-      "Versión N Line de 90 CV con estética deportiva",
-      "Consumo contenido de 5,0 l/100 km",
-      "Garantía de 5 años sin límite de kilómetros",
+      "Su precio de 16.745 € lo convierte en el Hyundai nuevo más asequible de España, en esta versión 1.0 atmosférica de 63 CV",
+      "Es la tercera generación del urbano: el rediseño de 2023 se fabrica en Izmit, en Turquía, para Europa, con cinco plazas y un maletero que pasa de 252 a 1.050 litros al plegar la banqueta",
+      "El N Line cambia el carácter del coche: 1.0 T-GDi de 90 CV y 172 Nm desde 1.500 rpm, con 175 km/h de punta y el 0 a 100 km/h en 11,4 segundos",
+      "Tras el rediseño de 2023, su frenada automática reconoce también a los ciclistas y la pantalla central de 8 pulgadas conecta el teléfono sin cables con Apple CarPlay y Android Auto",
+      "La cobertura oficial de Hyundai en España alcanza cinco años y no fija un máximo de kilómetros recorridos, un respaldo inusual en esta franja de precio"
     ],
     contras: [
-      "63 CV: justo fuera de la ciudad",
-      "Etiqueta C, no ECO",
-      "Sin versión híbrida disponible",
-      "Maletero de 252 litros",
-      "El acabado Klass de acceso es muy básico",
+      "Los 63 CV de esta versión firman 15,6 segundos en el 0 a 100 km/h y 143 km/h de velocidad punta: lejos de la ciudad, cada incorporación a la autopista exige anticiparse",
+      "No hay electrificación en ningún i10: toda la gama es gasolina con etiqueta C y no existe variante híbrida o eléctrica que le dé el distintivo ECO",
+      "Euro NCAP lo dejó en tres estrellas en diciembre de 2020, tras detectar el deslizamiento de la pelvis del conductor bajo el cinturón en el choque frontal de ancho completo; su rival Toyota Aygo X alcanzó cuatro estrellas con el mismo protocolo",
+      "Si viajan cinco ocupantes, el hueco para el equipaje se limita a 252 litros: basta para la compra semanal, pero unas vacaciones en familia obligan a plegar la banqueta y renunciar a las plazas traseras",
+      "Deja de ser un urbano barato al subir de acabado: la gama española del i10 llega hasta los 22.640 € en sus versiones altas, ya en territorio de utilitarios del segmento B"
     ],
     imagen: "/media/hyundai-i10-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hyundai-i10-2026-precio-ficha-tecnica-oficial.webp",
@@ -604,17 +604,22 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: 3, ano: 2020, url: null, nota: "3 estrellas Euro NCAP (diciembre 2020)" },
+    euroncap: {
+      "ano": 2020,
+      "estrellas": 3,
+      "nota": "Tres estrellas en el ensayo publicado en diciembre de 2020: 69 % en ocupantes adultos, 75 % en protección infantil, 52 % en usuarios vulnerables y 59 % en asistencias a la seguridad",
+      "url": "https://www.euroncap.com/press-media/latest-euro-ncap-ratings-refocus-attention-on-improving-vehicle-compatibility/"
+    },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
+      "fuente": "Hyundai España",
+      "intervalo": "Una visita al taller cada 12 meses o al acumular 15.000 km con este i10, lo que llegue antes",
+      "revisiones": [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Hyundai España",
+          "costeAproxEur": null,
+          "nombre": "Mantenimiento anual del i10 1.0 de 63 CV",
+          "queSeCambia": "Aceite nuevo y su filtro para el motor 1.0, renovación de los demás filtros cuando correspondan por kilometraje e inspección general del coche"
+        }
+      ]
     },
   },
   {

@@ -1935,23 +1935,23 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "La naked del A2: 45,4 CV y solo 168 kg",
-      "Estilo Sugomi agresivo de la saga Z",
-      "TFT con conectividad Rideology",
-      "Control de tracción y modos de conducción",
-      "La versión SE (6.699 €) añade acabados exclusivos",
+      "Bicilíndrico de 451 cc y 42,6 Nm que empuja desde abajo: no hace falta estirar cada marcha para salir con decisión de un semáforo",
+      "Solo 168 kg en orden de marcha y 1.375 mm de batalla: entra en curva con un golpe de manillar y se cuela entre coches sin esfuerzo",
+      "Bastidor enrejado de acero de alta tracción que aprovecha el bicilíndrico como pieza estructural, solución heredada de la familia Ninja",
+      "Embrague asistido antirrebote de serie: maneta blanda en los atascos y reducciones sin rebotes de la rueda trasera",
+      "La SE cuesta 349 € más que los 6.350 € de la estándar y suma pantalla TFT en color, toma USB-C y colín monoposto"
     ],
     contras: [
-      "45,4 CV: el límite del A2",
-      "Suspensiones básicas",
-      "Sin quickshifter",
-      "El asiento a 785 mm puede ser alto para algunos",
-      "La competencia ofrece más por menos",
+      "La estándar se conforma con un cuadro LCD; el TFT en color queda reservado a la SE y ni siquiera figura como opción suelta",
+      "No hay control de tracción ni modos de potencia: la única ayuda es el ABS, mientras la Honda CB500 Hornet rival sí monta control de tracción",
+      "Horquilla telescópica de 41 mm sin ningún ajuste y monoamortiguador regulable únicamente en precarga: poco margen para adaptarla a tu peso",
+      "Delante manda un único disco de 310 mm con pinza de dos pistones: correcto en ciudad, justo si encadenas bajadas de puerto con pasajero",
+      "Naked sin protección alguna: a ritmo de autovía el viento pega de lleno en el pecho y la cúpula alta se paga como accesorio"
     ],
     curiosidades: [
-      "Es la puerta de entrada a la saga Z",
-      "Comparte motor con la Ninja 500 y la Eliminator 500",
-      "Su peso pluma la hace ideal para la ciudad",
+      "Se presentó en el EICMA de 2023 como modelo 2024, junto a la Ninja 500, para ocupar el hueco de la Z400 de 399 cc",
+      "Kawasaki remonta el apellido 500 a la Mach III de 1969; esta Z lo retoma con un bicilíndrico tranquilo pensado para el carnet A2",
+      "Hay un asiento ERGO-FIT alto opcional que sube 30 mm sobre los 785 mm de serie, pensado para pilotos de pierna larga"
     ],
     imagen: "/media/kawasaki-z500-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1980,17 +1980,17 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/z500-se-2025",
     analisisSlug: "kawasaki-z500-2025-analisis-opinion",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
-      cadenaPasos: [
-        "Limpia la cadena con limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+      "intervaloMantenimiento": "En esta Z500 las revisiones caen cada 12.000 km o, como muy tarde, a los 12 meses; la holgura de válvulas se comprueba a los 24.000 km",
+      "aceiteTipo": "Aceite 10W-40 con norma JASO MA o MA2 y clasificación API SG en adelante, el especificado para este bicilíndrico de 451 cc",
+      "cadenaPasos": [
+        "Con la Z500 sobre el caballete, rocía limpiador apto para cadenas con retenes por la cara interna del ramal inferior y deja que ablande la grasa vieja.",
+        "Gira la rueda trasera a mano aplicando lubricante específico entre eslabones, con cuidado de no salpicar el neumático 150/60-17.",
+        "Ajusta la tensión en el punto medio del ramal según el manual de esta unidad, ni floja que latiguee ni tan tirante que fuerce el piñón de 14 dientes."
       ],
-      trucos: [
-        "Con 3,8 l/100 km y 14 L tienes más de 350 km de autonomía.",
-        "Revisa la tensión de la cadena cada 1.000 km.",
-      ],
+      "trucos": [
+        "Homologa 3,8 l/100 km y, con un depósito de 14 litros, permite planificar las paradas cada 300 km sin apurar la reserva",
+        "Usa el registro de rutas de la app Rideology como libro de mantenimiento casero: anota ahí kilometraje y fecha de cada engrase de cadena."
+      ]
     },
   },
   {
@@ -2289,23 +2289,23 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "La naked 125 de la saga Z: 15 CV y estilo Sugomi",
-      "Se conduce con el A1 (o el B con 3 años)",
-      "147 kg: ligera y ágil en ciudad",
-      "ABS y faro LED de serie",
-      "Ideal para iniciarse en el mundo Z",
+      "Monocilíndrico DOHC de refrigeración líquida pensado para estirar marchas: entrega sus 15 CV a 10.000 rpm y 11,7 Nm a 7.700 rpm, con cambio de seis velocidades",
+      "El bastidor tubular de acero queda a la vista y manda en su imagen Sugomi: en la decoración gris y negra de 2026 va pintado de verde, imposible confundirla con otra naked",
+      "ABS independiente en cada rueda sobre discos lobulados de 290 mm delante, con pinza axial de dos pistones, y 220 mm detrás",
+      "Amortiguador trasero Uni-Trak con bieletas y precarga regulable, un ajuste que muchas urbanas de esta cilindrada ni siquiera ofrecen",
+      "Depósito de 11 litros en una moto de 147 kg: capacidad de naked mayor para espaciar las paradas en el uso diario"
     ],
     contras: [
-      "5.150 €: cara para una 125",
-      "15 CV: el límite del A1",
-      "Suspensiones básicas",
-      "El asiento a 815 mm puede ser alto",
-      "La competencia ofrece más por menos",
+      "Cuesta 5.150 €, cien euros más que una Honda CB125R que a cambio monta horquilla invertida de 41 mm, cuadro TFT y alumbrado integral de led",
+      "Su faro recurre a óptica halógena y la instrumentación es una pantalla LCD sin conexión con el móvil: equipamiento justo frente a rivales con TFT a color",
+      "Pesa 147 kg en orden de marcha, diecisiete kilos más que la citada CB125R, rindiendo ambas idéntica potencia máxima autorizada",
+      "El peldaño hasta el asiento mide 815 mm, treinta más que en su hermana carenada Ninja 125: parado y maniobrando, los pilotos bajitos lo notan",
+      "La renovación 2026 se limita a homologación Euro5+ y decoraciones nuevas; horquilla convencional de 37 mm y resto de base continúan sin cambios"
     ],
     curiosidades: [
-      "Es la hermana pequeña de la saga Z",
-      "Comparte estética con la Z650 y la Z900",
-      "Su motor es de refrigeración líquida",
+      "Las dos decoraciones de 2026 cruzan los colores del chasis: la gris tormenta y ébano lo luce verde, mientras la verde lima y negra brillante lo lleva gris",
+      "Comparte propulsor con la Ninja 125, pero cada una busca piloto distinto: la Z pesa 147 kg y se sienta a 815 mm, la carenada marca 149 kg y 785 mm",
+      "Según Motofichas, elegir la versión gris y negra con asiento bicolor ahorra 100 euros frente a la verde de catálogo 2026"
     ],
     imagen: "/media/motos/kawasaki-z125-2026-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -2322,17 +2322,17 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: "kawasaki-z125-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
-      cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
-        "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión según el manual.",
+      "aceiteTipo": "10W-40 (JASO MA/MA2, API SG o superior)",
+      "cadenaPasos": [
+        "Con la Z125 apoyada y el motor parado, recorre el ramal inferior pasando un cepillo blando con desengrasante apto para cadenas con retenes, insistiendo junto a la corona trasera de 56 dientes",
+        "Deposita el spray por el interior de la transmisión mientras haces rodar a mano la rueda de 17 pulgadas, cubriendo también la zona del piñón de 16 dientes",
+        "Deja actuar unos minutos y verifica después el juego libre en el punto central entre ejes, corrigiéndolo solo dentro del margen impreso para este modelo"
       ],
-      trucos: [
-        "Revisa el aceite cada 3.000 km: los pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día.",
-      ],
+      "intervaloMantenimiento": "Cada 6.000 km o 12 meses",
+      "trucos": [
+        "Al ser de refrigeración líquida, echa un vistazo al nivel del vaso de expansión cuando revises el aceite: un DOHC que gira a 10.000 rpm agradece ambos controles",
+        "Infla en frío recordando sus medidas concretas, 100/80-17 en el tren delantero y 130/70-17 en el trasero, porque con 147 kg cualquier pérdida se traduce en torpeza"
+      ]
     },
   },
   {

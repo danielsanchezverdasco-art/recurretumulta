@@ -1701,23 +1701,37 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
-      "Ruedas macizas de 8,5\": cero pinchazos para siempre",
-      "36 km declarados, más que el E9D",
-      "Suspensión, modo peatón y control de crucero",
-      "16,5 kg: aún manejable",
-      "Marca española con tienda oficial y 5 años de garantía",
+      "Cubiertas macizas de 8,5 pulgadas: al no llevar cámara, el pinchazo desaparece del trayecto y del mantenimiento",
+      "Declara 36 km por carga, seis más que los 30 km del E9D con el que comparte motor de 350 W",
+      "Trae suspensión, modo peatón y control de crucero, además de faro y luz de freno según su ficha en ek.ua",
+      "Con 16,5 kg admite conductores de hasta 120 kg sin llegar a los 22 kg que pesa el E12",
+      "La garantía Zwheel llega a cinco años: tres legales más dos comerciales de ZAMELUX si registras la compra en zwheel.com durante los primeros 30 días"
     ],
     contras: [
-      "Las ruedas macizas transmiten más vibración",
-      "350 W justos en cuestas",
-      "36 km declarados se quedan en ~24 km reales",
-      "Batería en Wh no publicada",
-      "PVP en España no verificado de forma estable",
+      "Al ser macizas, sus ruedas de 8,5 pulgadas filtran peor las juntas y el adoquín que las de aire del E9D",
+      "Los 350 W nominales se quedan cortos cuando la calle se empina con un conductor cercano a su carga máxima de 120 kg",
+      "De los 36 km anunciados, esta ficha deja la autonomía útil en unos 24 km estimados para uso urbano",
+      "Zwheel no publica la capacidad en Wh de su batería, así que ese dato queda sin contrastar en la ficha",
+      "Sin PVP en euros localizado para España: las referencias de precio encontradas salen de catálogos extranjeros, como el ucraniano ek.ua"
     ],
     veredicto:
-      "El E9D con ruedas macizas y más autonomía: si odias pinchar por encima de todo, el E9T es tu Zwheel.",
+      "Dentro de la serie E9, el E9T es la variante de rueda maciza: cambia las cámaras del E9D por cubiertas sólidas de 8,5 pulgadas y estira la autonomía declarada de 30 a 36 km, de los que esta ficha estima unos 24 reales. Mantiene los 350 W, el freno de disco, la suspensión y el modo peatón, y suma 5,5 kg sobre su hermano (16,5 frente a 11 kg). Encaja en trayectos urbanos donde pinchar es el problema; si el firme es malo, la vibración de lo macizo se nota enseguida.",
     fuenteNombre: "Zwheel (ek.ua)",
     fuenteUrl: "https://ek.ua/en/ZWHEEL-E9T.htm",
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Mantén el disco limpio y libre de cuerpos extraños: el manual de Zwheel lo pide para que la pinza del E9T frene sin ruidos ni pérdidas de tacto",
+        "Sustituye las pastillas cuando les quede un tercio de material, empiecen a rechinar o la frenada pierda fuerza, los tres criterios que marca el manual de la marca",
+        "Comprueba también que el componente de freno eléctrico queda bien ajustado y conectado, otra de las revisiones periódicas que enumera ese mismo manual"
+      ],
+      "aprieteTornilleria": "Las tuercas autoblocantes y demás fijaciones pueden perder eficacia con la vibración propia de las ruedas macizas: el manual pide reapretarlas, con atención al manillar y al mecanismo que pliega la tija del E9T",
+      "intervaloRevision": "El manual general de Zwheel fija la inspección completa cada seis meses; en el E9T esa visita se centra en el disco de freno, el desgaste de las dos cubiertas macizas y el apriete del cierre de plegado",
+      "trucos": [
+        "Las cubiertas macizas de 8,5 pulgadas no se hinchan ni se pinchan, pero sí se desgastan: revisa su superficie y busca grietas o zonas planas, porque en este modelo no hay presión que comprobar",
+        "Para limpiarlo, Zwheel prohíbe la manguera y la alta presión: paño con el patinete apagado, el cargador desconectado y sin mojar el puerto de carga, y nunca sumergirlo",
+        "Si vas a rodar por firme muy irregular, el manual sugiere montar ruedas todoterreno en lugar de las macizas urbanas que el E9T trae de serie"
+      ]
+    },
   },
   {
     id: "zwheel-zwolf-duo",

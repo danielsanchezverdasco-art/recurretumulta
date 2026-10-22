@@ -1120,18 +1120,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 10,
     "aprox": [],
     "pros": [
-      "272 CV enchufables: el Formentor PHEV más potente",
-      "49.160 € (km77): 120 km eléctricos con chasis VZ",
-      "400 Nm y modos Cupra para exprimirlo",
-      "Etiqueta Cero con prestaciones de deportivo",
-      "Batería de 19,7 kWh con 11 kW en alterna"
+      "Estrena la segunda generación del sistema e-HYBRID de CUPRA: un 1.5 TSI de 177 CV trabaja junto a un propulsor eléctrico y al cambio DSG de doble embrague, con 272 CV conjuntos y 400 Nm de par máximo",
+      "La batería útil crece hasta 19,7 kWh y sostiene los 120 km de autonomía eléctrica de esta ficha; admite 11 kW en corriente alterna —la generación anterior se quedaba en 3,6— y carga rápida continua de 50 kW, que devuelve la batería del 10 al 80 % en aproximadamente 26 minutos",
+      "Es un VZ del rediseño presentado a finales de abril de 2024: frontal en nariz de tiburón, firma lumínica de tres triángulos, logotipo trasero iluminado y una pantalla central que crece hasta 12,9 pulgadas",
+      "Puede montar en opción los frenos Brembo con pinzas de cuatro pistones y discos perforados de 370 × 32 mm, un extra que CUPRA ofrece en los VZ e-HYBRID de 272 CV del Formentor y del León",
+      "Con 0,5 l/100 km ponderados y 10 g/km de CO₂ en la ficha circula con etiqueta Cero de la DGT y puede cubrir el día a día urbano sin arrancar el motor de gasolina, pero firma 7,2 s en el 0 a 100 km/h y 220 km/h de punta cuando se le exige"
     ],
     "contras": [
-      "5.680 € más que el e-Hybrid 204 con la misma batería",
-      "Maletero de 345 L",
-      "Tracción delantera con 272 CV",
-      "Peso: el Formentor más pesado",
-      "El VZ 333 gasolina es más radical por 5.814 € más"
+      "El salto desde el e-Hybrid de 204 CV cuesta 5.680 € (49.160 frente a 43.480 € en las fichas de esta gama) y no compra ni más batería —ambos comparten la de 19,7 kWh— ni más maletero: lo que se paga es el plus de 68 CV y el acabado VZ",
+      "La batería bajo el piso de carga recorta el maletero a 345 litros, 105 menos que los 450 de un Formentor eTSI o un VZ 265 de gasolina, y también por debajo de los 375 litros de un Audi Q3 enchufable o los 410 de un BMW X2",
+      "Todo el empuje va a las ruedas delanteras: con 272 CV y 400 Nm no existe versión 4Drive de este enchufable, porque la tracción total queda reservada a versiones de gasolina como el VZ 333 de las fichas hermanas",
+      "Es el Formentor más pesado de la gama aquí comparada, con 1.742 kg, y combina esa masa con un depósito de gasolina de solo 40 litros: en un viaje largo sin posibilidad de enchufar, los repostajes hay que planificarlos con más margen",
+      "Su consumo oficial de 0,5 l/100 km solo aparece enchufándolo a diario: con la batería agotada, los datos JATO recogidos por coches.net sitúan el gasto medio en 5,6 l/100 km, así que sin enchufe habitual la etiqueta Cero no se traduce en facturas bajas"
     ],
     "imagen": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
@@ -1141,14 +1141,14 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "opiniones": [],
     "costeMensual": {
       "costeEnergia100km": 4.8,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 980,
-      "mantenimientoAnual": 440,
       "costeMensualTotal": 178,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 440,
+      "notas": "Estimación mensual de esta versión enchufable partiendo de 15.000 km recorridos en un año y de un gasto energético medio de 4,8 € por cada cien kilómetros, mezclando recargas domésticas a 0,18 €/kWh con gasolina a 1,65 € el litro cuando se agota la batería. Al año suman 720 € de energía, 980 € del seguro amplio y 440 € de mantenimiento: 2.140 € en total, unos 178 € al mes.",
       "precioGasolinaL": 1.65,
-      "notas": "uso mixto con recarga habitual; coste combinado electricidad+gasolina estimado",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 980,
+      "seguroTercerosAnual": 500
     },
     "galeria": [
       {
@@ -1178,16 +1178,21 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/en/results/cupra/formentor/57957",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
-      "revisiones": [
-        {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
-          "costeAproxEur": null,
-        },
-      ],
       "costeAnualAproxEur": null,
       "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+      "intervalo": "Para el 1.5 e-HYBRID de esta versión la marca fija revisiones cada año o cada 15.000 km recorridos, lo primero que llegue",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera visita programada del VZ e-Hybrid (12 meses / 15.000 km)",
+          "queSeCambia": "Renovación del aceite del bloque 1.5 TSI con su filtro, sustitución del filtro de polen del climatizador y chequeo completo de frenos, neumáticos, niveles y del sistema híbrido de alto voltaje"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Visitas siguientes según el libro de mantenimiento",
+          "queSeCambia": "Cuando el programa de la marca lo señala se suman el filtro de aire del motor térmico, las bujías de encendido y el líquido de frenos, repitiendo en cada visita el cambio de lubricante y las comprobaciones de seguridad"
+        }
+      ]
     },
   },
   {
@@ -1520,18 +1525,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 10,
     "aprox": [],
     "pros": [
-      "272 CV enchufables: el Terramar PHEV más potente",
-      "53.010 € (km77): 120 km eléctricos con chasis VZ",
-      "400 Nm y modos Cupra",
-      "Etiqueta Cero con prestaciones",
-      "El SUV familiar deportivo enchufable"
+      "Debutó en Barcelona en septiembre de 2024, durante la America's Cup, como el SUV de 4.519 mm llamado a ocupar el hueco del Ateca dentro de la gama CUPRA",
+      "Su esquema enchufable combina un bloque 1.5 TSI de 177 CV con una máquina eléctrica de 115 CV: juntos entregan 272 CV y 400 Nm a través de un cambio DSG de seis marchas",
+      "Con la batería neta de 19,7 kWh esta ficha homologa 120 km en modo eléctrico y, en corriente continua a 50 kW, recupera del 10 al 80 por ciento en apenas 26 minutos",
+      "El nivel VZ incorpora el chasis adaptativo DCC de última hornada, con amortiguadores de dos válvulas y quince grados de firmeza elegibles desde la pantalla central",
+      "Suma la etiqueta Cero de la DGT a las cinco estrellas Euro NCAP de 2025, donde firmó un 89 por ciento protegiendo a los adultos y un 87 por ciento con los niños"
     ],
     "contras": [
-      "7.660 € más que el e-Hybrid 204 con la misma batería",
-      "Maletero de aprox 400 L",
-      "Tracción delantera con 272 CV",
-      "El VZ 265 gasolina tiene 4Drive por 2.064 € más",
-      "Peso: el Terramar más pesado"
+      "Frente a los 45.350 euros del e-Hybrid de 204 CV, pedir este VZ eleva la tarifa hasta 53.010 euros sin ganar ni un litro de maletero ni un kilovatio hora de batería",
+      "El compartimento trasero ofrece 400 litros, una merma de 108 respecto a los 508 que conservan los Terramar sin sistema enchufable, castigado por el espacio que ocupa el acumulador",
+      "No existe opción de tracción total en esta variante: los 272 CV llegan solo al eje delantero y el sprint hasta 100 km/h se cierra en 7,3 segundos",
+      "Es el Terramar con más peso del catálogo, 1.904 kilos en orden de marcha, lastrado por batería, propulsor eléctrico y toda la electrónica que gestiona ambos mundos",
+      "El gasto homologado de 0,5 litros a los cien únicamente se sostiene enchufándolo con frecuencia; quien no recargue a diario arrastrará un SUV gasolina de casi dos toneladas"
     ],
     "imagen": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
@@ -1541,14 +1546,14 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "opiniones": [],
     "costeMensual": {
       "costeEnergia100km": 5,
-      "seguroTercerosAnual": 510,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 440,
       "costeMensualTotal": 183,
-      "precioKwh": 0.18,
+      "estimado": true,
+      "mantenimientoAnual": 440,
+      "notas": "Estimación elaborada para esta ficha suponiendo 15.000 km recorridos en un año mezclando electricidad y gasolina: moverlo cuesta 5 euros por cada 100 km, o sea 750 euros anuales; añadiendo los 1.000 euros del seguro amplio y los 440 euros reservados a revisiones se llega a 2.190 euros, equivalentes a 183 euros mensuales. La tarifa eléctrica aplicada es de 0,18 euros por kWh y el litro de carburante se valora en 1,65 euros.",
       "precioGasolinaL": 1.65,
-      "notas": "uso mixto con recarga habitual; coste combinado electricidad+gasolina estimado",
-      "estimado": true
+      "precioKwh": 0.18,
+      "seguroAmpliadoAnual": 1000,
+      "seguroTercerosAnual": 510
     },
     "galeria": [
       {
@@ -1578,16 +1583,16 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://news.euroncap.com/safercars/choose-a-car/cupra-terramar---euro-ncap-2025-results---5-stars/s/1606b13e-5000-4dd7-b2cb-9ef9d2f3b868",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
-      "revisiones": [
-        {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
-          "costeAproxEur": null,
-        },
-      ],
       "costeAnualAproxEur": null,
       "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+      "intervalo": "En este Terramar enchufable la visita al taller llega al cumplirse un año desde la entrega o al sumar 15.000 km, cualquiera de los dos límites que aparezca primero",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera parada programada del VZ e-Hybrid, al año o a los 15.000 km",
+          "queSeCambia": "Renovación del lubricante del motor 1.5 TSI con su correspondiente filtro, sustitución del filtro que limpia el aire del habitáculo y chequeo de frenos, neumáticos, niveles y sistemas del conjunto híbrido"
+        }
+      ]
     },
   },
   {
@@ -1620,18 +1625,18 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 191,
     "aprox": [],
     "pros": [
-      "265 CV con tracción total 4Drive: el Terramar gasolina más capaz",
-      "55.074 € (km77): el tope térmico de la gama",
-      "400 Nm del 2.0 TSI",
-      "Maletero intacto de 508 L",
-      "Chasis VZ con modos Cupra"
+      "Su nombre homenajea al óvalo peraltado de Terramar, en Sant Pere de Ribes, el circuito donde CUPRA se presentó como marca independiente en 2018",
+      "Se ensambla en Győr (Hungría) junto al Audi Q3 y comparte la plataforma MQB Evo con el Volkswagen Tiguan, pero con puesta a punto deportiva propia",
+      "El 2.0 TSI de 265 CV y 400 Nm, con DSG de siete marchas y tracción total 4Drive, firma 5,9 s en el 0 a 100 y 243 km/h de punta",
+      "Sin batería de tracción que le robe sitio: carga 508 litros de maletero, 108 más que los Terramar híbridos enchufables, limitados a 400 litros",
+      "Pesa 1.750 kg, 154 menos que el VZ e-Hybrid de 272 CV, y suma el control de chasis adaptativo DCC junto a los modos de conducción CUPRA"
     ],
     "contras": [
-      "Etiqueta C: la peor fiscalidad de la gama",
-      "El VZ e-Hybrid 272 tiene etiqueta Cero por 2.064 € menos",
-      "Consumo real alto",
-      "A este precio, el Tiguan R-Line aprieta",
-      "Sin hibridación de ningún tipo"
+      "Es el Terramar más caro de esta tarifa: 55.074 €, 2.064 € por encima del VZ e-Hybrid de 272 CV, que además luce etiqueta Cero de la DGT",
+      "Sus 191 g/km de CO2 lo colocan en el tramo del 9,75 % del impuesto de matriculación y su etiqueta C queda fuera de las ventajas de la Cero en las ZBE",
+      "El gasto manda en el presupuesto: homologa 8,6 l/100 km y la estimación de esta ficha trabaja ya con 9,0 reales, unos 15 € de gasolina cada 100 km",
+      "Cero electrificación en un SUV de 2025: ni microhibridación que suavice el consumo urbano ni enchufe que rebaje la factura; todo sale del depósito de 60 litros",
+      "Su rival más incómodo duerme en casa: el Volkswagen Tiguan comparte plataforma MQB Evo y unas medidas casi calcadas, con la misma base técnica y una imagen más discreta"
     ],
     "imagen": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
@@ -1647,7 +1652,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 314,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "gasolina aprox 9,0 L/100 km a 1,65 EUR/L",
+      "notas": "Cálculo propio de esta ficha suponiendo 15.000 km al año: el carburante se estima con un gasto real de 9,0 litros a los 100 km pagados a 1,65 €, de donde salen los 15 € por cada 100 km; sumados el seguro amplio de 1.060 € y los 460 € de mantenimiento resultan 314 € al mes. El precio del kWh figura por formato, pero este TSI no se enchufa nunca.",
       "estimado": true
     },
     "galeria": [
@@ -1678,16 +1683,21 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://news.euroncap.com/safercars/choose-a-car/cupra-terramar---euro-ncap-2025-results---5-stars/s/1606b13e-5000-4dd7-b2cb-9ef9d2f3b868",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "En el VZ de gasolina manda el calendario fijo de la marca: paso por taller anual o cada 15.000 km recorridos, según lo que se alcance antes",
       "revisiones": [
         {
-          "nombre": "Revisión anual / 15.000 km",
-          "queSeCambia": "Aceite del motor + filtro de aceite + filtro de polen + inspección general",
-          "costeAproxEur": null,
+          "nombre": "Primera revisión del Terramar VZ (año 1 / 15.000 km)",
+          "queSeCambia": "Sustitución del lubricante del 2.0 TSI y de su filtro, filtro de polen nuevo para el habitáculo y revisión de frenos, neumáticos, luces y niveles",
+          "costeAproxEur": null
         },
+        {
+          "nombre": "Revisiones siguientes según el libro de la marca",
+          "queSeCambia": "Cuando el programa lo señala se añaden bujías, filtro de aire del motor y líquido de frenos, además de repetir el cambio de lubricante y las comprobaciones",
+          "costeAproxEur": null
+        }
       ],
       "costeAnualAproxEur": null,
-      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT",
+      "fuente": "Programa de mantenimiento oficial CUPRA/SEAT"
     },
   },
   {

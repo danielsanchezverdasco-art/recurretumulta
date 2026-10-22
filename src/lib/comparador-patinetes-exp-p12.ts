@@ -1069,25 +1069,39 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Doble motor de 1000 W nominales (2200 W pico): aceleración brutal",
-      "Frenos hidráulicos + EABS",
-      "Batería de 873,6 Wh con 76 km teóricos",
-      "Chasis Mantis: probado y robusto",
-      "50 km/h de velocidad máxima",
-      "Buen equilibrio peso/potencia (29 kg)",
+      "Dos motores brushless de 500 W, uno en cada eje, que suman 1.000 W nominales con tracción a las dos ruedas",
+      "Batería de 873,6 Wh (48 V y 18,2 Ah): 76 km declarados y unos 51 km reales según la estimación de esta ficha",
+      "Suspensión de aceite y muelle regulable delante y detrás, con amortiguadores de 132 mm",
+      "Pantalla central KM03 con desbloqueo por NFC y toma USB que alimenta el teléfono mientras ruedas",
+      "Discos de freno de 140 mm en ambos ejes, apoyados por el freno electrónico EABS",
+      "Cubiertas CST neumáticas de 10×3 pulgadas y subida de pendientes de hasta 25° según Kaabo"
     ],
     contras: [
-      "ILEGAL en España: supera los 25 km/h y no tiene certificado DGT",
-      "No puede circular por vías públicas como VMP",
-      "Neumáticos con cámara: más pinchazos que tubeless",
-      "Precio de 1487 €",
-      "Carga máxima no publicada",
-      "Solo para uso en circuito privado o fuera de España",
+      "La configuración de 50 km/h de esta ficha queda fuera de la categoría VMP española; Kaabo EU vende aparte una variante limitada con certificado DGT",
+      "Recarga completa de unas 9 horas con el cargador estándar de 54,6 V y 2 A que trae la caja",
+      "Con 29 kg y 124,7 cm de largo ya plegado, moverlo a pulso entre plantas o cargarlo en el coche resulta penoso",
+      "Lleva cámara dentro de la cubierta CST, así que un pinchazo obliga a abrir la llanta partida en vez de usar un kit tubeless",
+      "Los 1.487 € del distribuidor citado superan los 1.415 € que Kaabo EU pide hoy por el Mantis X Plus",
+      "Sellado IPX5 según Kaabo USA, pero el manual prohíbe rodar con lluvia intensa o sobre agua acumulada"
     ],
-    veredicto: "El Mantis X Plus es un pepino de doble motor, pero es ILEGAL en España: alcanza 50 km/h y carece de certificado DGT. Solo tiene sentido para circuito privado. En vía pública te expones a multa y retirada.",
+    veredicto: "El Mantis X Plus es la puerta de entrada a los Kaabo de doble motor: 1.000 W repartidos entre ambos ejes, 873,6 Wh y suspensión regulable en un chasis plegable de 29 kg. En la configuración de 50 km/h recogida en esta ficha no puede usarse en la calle en España como VMP; para eso Kaabo EU ofrece una variante con certificado DGT limitada a 25 km/h. Su sitio natural es finca, circuito o países sin ese tope, donde lucen la tracción total y los discos de 140 mm.",
     fuenteNombre: "VoltNation (distribuidor España)",
     fuenteUrl: "https://voltnation.es/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprobar que los dos discos de 140 mm, delantero y trasero, detienen la rueda sin roces ni tacto esponjoso en la maneta",
+        "Sumar la prueba del EABS: al frenar debe notarse la retención electrónica además del disco, en los dos ejes",
+        "Si una pastilla llega al límite de desgaste o el disco está alabeado, sustituir el componente antes de volver a rodar a 50 km/h"
+      ],
+      "aprieteTornilleria": "Repasar la tornillería del mástil y del cierre del nuevo sistema de plegado, además de los ejes de rueda: el manual exige detectar cualquier pieza suelta antes de rodar",
+      "intervaloRevision": "Antes de cada salida, como manda el manual Mantis: buscar tornillos flojos, daños o desgaste y comprobar que ninguna rueda está pinchada; Kaabo USA añade revisiones regulares de presión, frenos y salud de la batería de 48 V",
+      "presionNeumaticos": "La grabada en el flanco de la cubierta CST 10×3 con cámara; Kaabo no publica una cifra única de presión para el X Plus, así que no se fija ningún valor en bar o PSI",
+      "trucos": [
+        "Los motores son desmontables y las llantas partidas (split rim): cambiar la cámara de la CST 10×3 no exige desmontar medio patinete",
+        "Cargar solo con el cargador original de 54,6 V y 2 A incluido en la caja, contando con unas 9 horas para la carga completa",
+        "Evitar lluvia intensa y charcos de más de media pulgada de agua, y no acercar líquidos a la batería, como advierte el manual pese al sellado IPX5"
+      ]
+    },
   },
   {
     id: "kaabo-wolf-warrior-11-max",
@@ -1159,25 +1173,40 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "Doble motor de 2200 W nominales (4032 W pico)",
-      "71 km/h de velocidad máxima",
-      "Batería de 1620 Wh con 90 km teóricos",
-      "Frenos hidráulicos + EABS",
-      "Neumáticos anchos CST 10x3\"",
-      "Desbloqueo NFC",
+      "Doble mástil frontal patentado por Kaabo, pensado para dar rigidez a un chasis que trabaja a 71 km/h",
+      "Horquilla hidráulica invertida tipo moto con 79 mm de recorrido y amortiguador trasero hidráulico regulable",
+      "Dos motores de 1.100 W que suman 4.032 W de pico y 30 Nm, con subida declarada de 35°",
+      "Pack de 60 V y 27 Ah (1.620 Wh) medido por Kaabo con piloto de 75 kg a unos 24 km/h en llano",
+      "Pantalla central de 4 pulgadas con desbloqueo NFC, resistencia IPX7 y puerto USB para cargar el móvil",
+      "Frenos de disco hidráulicos Zoom de 140 mm en ambos ejes, apoyados por el EABS regenerativo"
     ],
     contras: [
-      "ILEGAL en España: 71 km/h sin certificado DGT",
-      "Pesa 37,6 kg",
-      "Precio de 2354 € (1899 € en algunas tiendas)",
-      "No es un VMP legal: multa asegurada en vía pública",
-      "Autonomía real (~60 km) lejos de los 90 km",
-      "Solo apto para circuito privado",
+      "Sin certificado DGT en esta ficha y con 71 km/h de punta: en España queda fuera del uso como VMP en vía pública",
+      "Los 90 km oficiales salen de rodar a unos 24 km/h en llano; la estimación real recogida en esta ficha baja a unos 60 km",
+      "37,6 kg de báscula: aunque se pliega, sigue siendo un bulto serio para subir escaleras o cargarlo en un maletero pequeño",
+      "Recargar el pack exige 7,8 horas con los dos cargadores estándar de 2 A incluidos; bajar a 2,7 horas pide dos cargadores rápidos",
+      "2.354 € por un patinete que en España solo puede rodar en recinto privado: el desembolso solo se defiende si tienes dónde usarlo",
+      "La protección frente al agua es IPX5, pero el manual avisa de que el cuerpo no es estanco y prohíbe sumergirlo: la lluvia fuerte no es su terreno"
     ],
-    veredicto: "El Wolf Warrior X Max es otro pepino ilegal en España: 71 km/h sin certificado DGT. Potencia y autonomía brutales, pero solo para circuito. En la calle es una infracción grave.",
+    veredicto: "El X Max es la versión de 27 Ah del Wolf Warrior X: conserva el doble mástil y la horquilla tipo moto de la familia Wolf, pero monta 1.620 Wh para estirar las salidas largas y un par de 30 Nm que se nota en rampas de hasta 35°. Su compra en España se decide con una sola pregunta: ¿tienes un recinto privado donde rodar a 71 km/h? Al no constar certificado DGT, la vía pública española le queda cerrada, y sus 37,6 kg tampoco invitan a improvisar trayectos mixtos subiéndolo a un tren o a un autobús.",
     fuenteNombre: "VoltNation (distribuidor España)",
     fuenteUrl: "https://voltnation.es/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprobar antes y después de rodar que las manetas hidráulicas mantienen tacto firme y que no aparecen fugas de aceite en pinzas ni latiguillos",
+        "Inspeccionar los discos de 140 mm y las pastillas buscando desgaste irregular, daños externos o conexiones flojas, tal como detalla el manual",
+        "Si la frenada pierde fuerza, aparcar el patinete y acudir a un servicio técnico: el circuito es hidráulico cerrado, no un freno de cable que se tensa en casa"
+      ],
+      "aprieteTornilleria": "El manual pide verificar con frecuencia que todos los tornillos y pernos del patinete están bien apretados, con atención especial al cierre del doble mástil, a la abrazadera de plegado y a los cuatro tornillos que fijan el manillar",
+      "intervaloRevision": "Antes de cada salida: revisar tornillos sueltos, neumáticos desinflados y cualquier signo de daño, la comprobación que el manual del Wolf Warrior X exige en sus advertencias de seguridad",
+      "presionNeumaticos": "La cifra grabada en el flanco de los CST 10×3; Kaabo no publica un valor único en bar o PSI para el X Max y el distribuidor Electric Kicks remite expresamente al flanco del neumático",
+      "trucos": [
+        "Cargar la batería a menudo y no dejar que se agote por completo: el propio panel del Wolf Warrior X lo recuerda en su apartado de indicadores",
+        "Para guardar el pack de 60 V durante meses, dejarlo entre el 70 % y el 80 % en un lugar seco a 10-20 °C, nunca almacenado a plena carga según el manual",
+        "Usar solo cargadores originales Kaabo y desenchufar al salir de casa; la carga debe hacerse en un sitio seco y ventilado, entre 0 y 40 °C",
+        "Aprovechar los dos puertos de carga: con los dos cargadores estándar de 2 A incluidos en la caja, Kaabo cifra la recarga completa en 7,8 horas"
+      ]
+    },
   },
   {
     id: "joyor-s-pro",

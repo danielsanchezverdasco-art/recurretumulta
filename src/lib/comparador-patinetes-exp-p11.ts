@@ -2116,25 +2116,39 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "pesoKg", "cargaMaxKg", "tiempoCargaH"],
     pros: [
-      "Doble motor de 1000 W (3000 W de pico), prestaciones de moto",
-      "Batería de 52 V y 27 Ah (1404 Wh) con 95 km de autonomía teórica",
-      "Frenos hidráulicos NUTT de alto rendimiento",
-      "Resistencia al agua IPX7, la más alta del comparador",
-      "Display con lector NFC para desbloqueo",
-      "Se vende limitado a 20 km/h desde la tienda oficial europea",
+      "Dos motores de 1.000 W cada uno suman 2.000 W nominales y 3.000 W de pico en este Tiger 10 V5",
+      "Su pack de 52 V y 27 Ah acumula 1.404 Wh, la cifra que sostiene los 95 km teóricos y los 62 km reales estimados en esta ficha",
+      "Discos hidráulicos NUTT delante y detrás, acompañados de freno eléctrico, para detener un conjunto que desbloqueado roza los 70 km/h",
+      "Suspensión hidráulica en ambos ejes con regulación mediante pomo, según describe el manual del T10V5",
+      "El display UKS6 se desbloquea acercando la tarjeta NFC, sin llave física que girar en cada arranque",
+      "Luces RGB laterales en la base controlables desde la app duoCo Strip, además de faro con claxon e intermitentes"
     ],
     contras: [
-      "Desbloqueado alcanza 70 km/h: no es un VMP legal en España y no tiene certificado DGT",
-      "Sin precio publicado en la tienda oficial europea",
-      "Peso y carga máxima no publicados por el fabricante",
-      "Tiempo de carga no especificado; con 1404 Wh será largo",
-      "Marca poco conocida en España, con servicio postventa limitado",
-      "El desbloqueo de velocidad es responsabilidad del usuario y puede acarrear sanciones",
+      "Sin certificado DGT verificado, con el campo a null en esta ficha: sus 70 km/h desbloqueado lo sacan de la definición española de VMP",
+      "El campo de precio de esta ficha sigue vacío pese a venderse en la tienda europea enlazada como fuente, así que el comparador no muestra todavía ningún PVP cargado con el que contrastar este V5",
+      "Hiley deja en blanco el peso neto y el bruto en la tabla de su propio manual del T10V5, igual que la carga máxima en esta ficha",
+      "Recargar sus 1.404 Wh lleva 9 horas según el manual del T10V5, aunque esta ficha deja ese tiempo sin cumplimentar",
+      "El propio manual desaconseja rodar con lluvia y ordena secarlo en un lugar ventilado tras mojarse, un matiz importante frente al sellado anunciado",
+      "Quitar el límite de velocidad para usar todo su rendimiento traslada la responsabilidad legal al conductor y, en vía pública española, puede acabar en sanción"
     ],
-    veredicto: "El Tiger 10 V5 es una bestia de doble motor con batería enorme y certificación IPX7, pero juega en otra liga: sus 70 km/h lo excluyen como VMP en España y no tiene certificado DGT. La tienda oficial europea lo vende limitado a 20 km/h. Solo recomendable para quien lo use en ámbito privado o asuma su situación legal.",
+    veredicto: "Con 2.000 W nominales repartidos entre sus dos motores y 1.404 Wh bajo la base, el Tiger 10 V5 en color Space Grey busca trayectos largos fuera del circuito urbano homologado, no competir con un VMP de 25 km/h con papeles en regla. Su compra solo encaja en recintos privados o para quien acepte rodar limitado y sin certificado DGT verificado; en España, su argumento es la potencia bruta, no la tranquilidad administrativa.",
     fuenteNombre: "Hiley (tienda oficial Europa)",
     fuenteUrl: "https://hiley.eu/p/tiger-10-v5/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprueba que las pastillas de los discos NUTT no estén gastadas y que ninguna pinza hidráulica presente fugas de aceite",
+        "Verifica que los tornillos que fijan cada conjunto de freno sigan apretados y que ningún disco aparezca deformado o dañado",
+        "Si la potencia de frenada cae, el manual remite al servicio técnico para sustituir las pastillas o reajustar el dispositivo de freno"
+      ],
+      "aprieteTornilleria": "Revisa pomo de plegado, basculantes, brazos de suspensión y tornillería del manillar del T10V5, los puntos que su manual enumera para la comprobación de apriete",
+      "intervaloRevision": "Antes de cada salida, el manual del T10V5 exige probar el acelerador, la frenada, la presión de ruedas y el apriete del conjunto plegable",
+      "presionNeumaticos": "Entre 48 y 50 psi en ambas cubiertas tubeless 10x3,0-6 del Tiger 10 V5",
+      "trucos": [
+        "Tras rodar un día de lluvia, deja este Tiger secándose en un sitio ventilado —no en el salón— antes del siguiente uso, como prescribe su manual",
+        "Para guardar la batería de 52 V más de tres meses, déjala entre el 70 y el 80 % en un lugar seco a temperatura ambiente, nunca a plena carga",
+        "El manual advierte de que tras 300 ciclos de carga y descarga el rendimiento puede caer más del 15 %: vigila si los 62 km reales estimados empiezan a acortarse"
+      ]
+    },
   },
   {
     id: "hiley-tiger-evo-gt",
@@ -2159,25 +2173,39 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     galeria: [],
     aprox: ["autonomiaRealKm", "pesoKg", "cargaMaxKg", "tiempoCargaH"],
     pros: [
-      "Motor de 1000 W (1470 W de pico) con buena autonomía: 85 km teóricos",
-      "Batería de 52 V y 22,5 Ah (1170 Wh)",
-      "Resistencia al agua IPX7",
-      "Se vende limitado a 20 km/h desde la tienda oficial europea",
-      "Diseño Tiger EVO con basculantes en azul Midnight Blue",
-      "Freno eléctrico adicional al disco NUTT Jak",
+      "Un único motor de 1.000 W nominales que sube a 1.470 W de pico, suficiente para mover con soltura los 85 km declarados",
+      "Batería de 52 V y 22,5 Ah (1.170 Wh): es la grande de la serie EVO y sostiene la autonomía oficial de 85 km",
+      "Estanqueidad IPX7 según la ficha europea: lluvia intensa sin que la electrónica quede tan expuesta como en un IPX5 urbano",
+      "Frena con disco en los dos ejes más el apoyo eléctrico, combinación que Hiley monta completa en esta familia Tiger EVO",
+      "Muelles regulables con herramienta delante y detrás, montados sobre tubeless anchos de 10×3.0-6",
+      "Suma intermitentes, faro con claxon y bandas RGB laterales que cambian de color desde la app, todo en el azul Midnight Blue propio del GT"
     ],
     contras: [
-      "Desbloqueado alcanza 55 km/h: no es legal como VMP en España y no tiene certificado DGT",
-      "Sin precio publicado en la tienda oficial europea",
-      "Peso y carga máxima no publicados",
-      "Monomotor de 1000 W: menos empuje que sus hermanos de doble motor",
-      "Sin intermitentes",
-      "Marca con poca presencia y servicio en España",
+      "Liberado alcanza 55 km/h sin que ningún certificado DGT lo respalde: así configurado queda fuera de la circulación como VMP en España",
+      "Hiley no publica cuánto cuesta en su tienda para Europa, y sin esa cifra el GT no se puede comparar en precio con nadie",
+      "Peso del conjunto y carga admisible quedan en blanco incluso en el manual del Tiger EVO, donde la casilla N.W./G.W. viene vacía",
+      "Llenar los 1.170 Wh exige 11,2 horas con el cargador de 2 A citado en el manual: es patinete de dejar cargando de noche",
+      "Al ser monomotor empuja menos que los Tiger de doble propulsor de la propia marca, y en cuestas con carga esa diferencia manda",
+      "La marca carece de red comercial visible en España, así que compra y postventa dependen por completo de su canal europeo en línea"
     ],
-    veredicto: "El Tiger EVO GT es el monomotor equilibrado de Hiley: 85 km de autonomía teórica y construcción IPX7. Como sus hermanos, supera los 25 km/h si se desbloquea y carece de certificado DGT, así que en España solo encaja limitado o en uso privado. A falta de precio público, es difícil compararlo con rivales nacionales.",
+    veredicto: "En la gama Tiger EVO, el GT es el punto medio con sentido: monta la batería mayor de 1.170 Wh y declara 85 km como el GTR, pero se queda con discos convencionales frente a las pinzas de aceite NUTT del tope de gama, y frente al EVO de base gana 224 Wh y la pantalla UKS6 en vez de la UKS2. Su problema en España no es técnico sino legal y comercial: de serie rueda limitado a unos 20 km/h, liberado llega a 55 km/h sin certificado DGT que lo ampare, y Hiley no muestra su precio en Europa, por lo que hoy es más una promesa bien equipada que una compra cerrable.",
     fuenteNombre: "Hiley (tienda oficial Europa)",
     fuenteUrl: "https://hiley.eu/p/tiger-evo-gt/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      "ajusteFrenosPasos": [
+        "Comprobar en ambos discos que las pastillas no estén gastadas, el cable sin holgura ni daño y el disco recto, tal como pide la revisión previa del manual",
+        "Si la fuerza de frenada cae de forma clara, Hiley ordena inspeccionar y corregir antes de volver a rodar, no seguir usándolo",
+        "El freno eléctrico actúa como apoyo del conjunto: si aparece un error de frenada en la pantalla UKS6, el manual manda detenerse y acudir al servicio técnico"
+      ],
+      "aprieteTornilleria": "Repasar tuercas y tornillos del cierre de plegado, de los basculantes y de los brazos de suspensión, los tres puntos que el manual señala para el Tiger EVO GT",
+      "intervaloRevision": "Inspección previa a cada salida según el manual Tiger EVO de Hiley: acelerador, frenos, presión de ruedas y aprietes, sin esperar a un kilometraje concreto",
+      "presionNeumaticos": "Entre 48 y 50 psi en los tubeless 10×3.0-6 del GT; el manual advierte de que circular por debajo dispara el riesgo de pinchazo",
+      "trucos": [
+        "Tras rodar con lluvia, el manual pide secar el GT en un sitio ventilado —fuera del salón de casa— antes del siguiente uso",
+        "Vigilar por desgaste los consumibles que cita Hiley para esta plataforma: cubiertas, frenos, cables, suspensión y piezas del plegado",
+        "La batería de 1.170 Wh no debe desmontarse ni modificarse: el propio manual lo excluye de la garantía"
+      ]
+    },
   },
   {
     id: "urbanglide-100-evo",

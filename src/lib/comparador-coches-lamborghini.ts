@@ -895,18 +895,18 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "610 CV descapotables por 238.700 €",
-      "Capota de lona en 17 s hasta a 50 km/h",
-      "El V10 atmosférico se disfruta más sin techo",
-      "Tracción trasera: el Spyder más divertido de conducir",
-      "Luneta trasera practicable con la capota puesta",
+      "Presentado en mayo de 2020 con realidad aumentada: fue el primer Lamborghini desvelado mediante AR Quick Look de Apple",
+      "V10 atmosférico de 5,2 litros con 610 CV a 8.000 rpm y 560 Nm a 6.500 rpm, escuchado sin techo de por medio",
+      "Control de tracción P-TCS calibrado para este Spyder: sigue entregando par mientras el coche recupera la trayectoria tras un derrape",
+      "Capota de lona electrohidráulica: se pliega en 17 segundos rodando hasta 50 km/h y queda guardada bajo la cubierta trasera",
+      "La luneta trasera baja con un botón y deja entrar el sonido del V10 incluso llevando la capota cerrada"
     ],
     contras: [
-      "Producción finalizada en 2024: solo ocasión y stock",
-      "3,5 s: el Huracán más lento de la gama",
-      "Etiqueta C: vetado de futuras ZBE",
-      "Consumo WLTP de 13,9 l/100 km",
-      "Con capota, más ruido aerodinámico",
+      "La familia Huracán cerró su ciclo en Sant'Agata en 2024, relevada por el Temerario híbrido: este Spyder ya solo aparece en el mercado de ocasión",
+      "Dos décimas más lento que su hermano coupé hasta los 100, peaje de los 120 kg extra de la variante abierta: 1.509 kg en seco frente a los 1.389 kg del coupé",
+      "Homologa 335 g/km de CO₂ y 13,9 litros a los cien: con etiqueta C, las zonas de bajas emisiones más estrictas le quedan vedadas",
+      "Sin frenada automática de emergencia ni crucero adaptativo: Lamborghini no monta ayudas avanzadas a la conducción en el Huracán",
+      "Frenos de acero de serie: los carbocerámicos figuran en la lista de opciones pese a los 238.700 € que costaba en España"
     ],
     largoMm: 4520,
     anchoMm: 1933,
@@ -929,7 +929,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 788,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 13,9 l/100 km (km77); solo mercado de ocasión/stock",
+      "notas": "Spyder de gasolina ya fuera de catálogo: con 15.000 km al año, sus 13,9 litros WLTP a 1,85 euros el litro dejan 25,72 euros de combustible cada cien kilómetros; el total suma el seguro ampliado y la revisión anual estimada",
       "estimado": true
     },
     galeria: [
@@ -952,6 +952,29 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {
+      "estrellas": null,
+      "ano": null,
+      "url": null,
+      "nota": "Sin datos EuroNCAP: ningún Huracán, incluido este Spyder de tracción trasera, ha pasado por el programa europeo de choques"
+    },
+    planMantenimiento: {
+      "intervalo": "Cada 12 meses o 9.000 millas (unos 15.000 km), lo que llegue antes",
+      "revisiones": [
+        {
+          "nombre": "Revisión del primer año / 15.000 km",
+          "queSeCambia": "Cambio del aceite del V10 y de su filtro, con diagnosis completa de fábrica e inspección general del Spyder según la pauta de la marca",
+          "costeAproxEur": null
+        },
+        {
+          "nombre": "Revisión del segundo año / 30.000 km",
+          "queSeCambia": "Aceite y filtro nuevos otra vez, más bujías, filtro de polen, refrigerante del motor y líquido de frenos, que la marca renueva por tiempo aunque el coche apenas ruede",
+          "costeAproxEur": null
+        }
+      ],
+      "costeAnualAproxEur": null,
+      "fuente": "Concesionario oficial H.R. Owen Lamborghini (intervalo del Huracán: 9.000 millas o 12 meses; el líquido de frenos se degrada con el tiempo) y pauta de servicios del Huracán de Scuderia Car Parts (primer año, aceite; segundo año, bujías, refrigerante, filtro de polen y líquido de frenos)"
+    },
   },
   {
     id: "lamborghini-urus-se-performante-2026-precio-ficha-tecnica",
