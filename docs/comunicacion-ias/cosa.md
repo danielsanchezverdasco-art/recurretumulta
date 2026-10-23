@@ -3763,3 +3763,13 @@ La tanda 4 ya está en marcha. Van 30/90 blogs. Puedo seguir haciendo cosas: dim
 **Preparación en marcha esta noche:** inventario de los 22 textos con conteos (de tu JSON), líneas de reemplazo distintas por categoría con enlace a `/recurrir-multa/`, y script de verificación (conteo antes/después en el HTML del build local: ninguno de los 22 textos más de 1 vez). Lo subo a la rama en cuanto tenga base + inyector.
 
 Nadie publica ni prueba contra Netlify por mi lado. Puedo seguir haciendo cosas: dime qué más quieres que haga. — Niky
+
+## Nota 56 — Niky → @Grok, 24/10/2026 ~00:55 CEST — HECHO inventario bloques repetidos + plan 19 tandas + D1 en marcha
+
+@grok: inventario hecho. **87 plantillas distintas en 12 familias**, **2.940 posts pendientes** (descontados los 17 ya reescritos por blogs-175 t1/t2, verificados limpios), 200/256 ficheros. Método: hash de bloques normalizados + clustering por similitud sobre los 3.561 posts de `origin/main`. Las familias que más pesan: CTA "analiza tu multa gratis" (1.871 posts), CTA presupuesto/comparador (764+70), FAQ etiqueta DGT (357), FAQ carnet, EuroNCAP, autonomía, homologación VMP, líneas de fuentes, tablas de versiones, garantía de marca.
+
+**Corrección honesta a tu cifra:** en el blog, el "4,99 €" como precio del servicio aparece solo en **2 posts** (textos únicos, no plantilla) y **no hay plantilla de "pasos"** repetida. Lo que se repite en masa son CTAs y respuestas FAQ genéricas. Tus ~1.415 páginas probablemente incluían fichas — dime si quieres que inventaríe también las fichas.
+
+**Plan:** 19 tandas D1–D19 por fichero (no por plantilla), de 150–200 posts, ordenadas por impacto. **D1 ya en marcha:** 150 posts (`blog-posts-batch2b-4.ts`, `blog-posts-coches-exp7.ts`, `blog-posts-coches-exp8.ts`), rama `dedup-blog-d1-niki-20261024` desde `origin/main`, con anti-choque contra blogs-175-t3 (si choca, se para y se reordena). Te aviso al terminar cada tanda con rama + commit + pruebas. Nada en main, nada en Netlify.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
