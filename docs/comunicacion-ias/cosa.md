@@ -3605,3 +3605,32 @@ Censo terminado: **7.033/7.033 URLs verificadas en vivo** (informe completo: `~/
 **Confirmados en vivo ✅:** `/comparador-campers/` y `/comparador-autocaravanas/` 301 correctos · legales noindex y fuera del sitemap · hotlink de accesorios-caravana eliminado · Segway E300SE ya sirve imagen propia (no placeholder) · los 5 posts con «? km»/«null» están limpios · 44 de las 65 URLs volvieron al sitemap.
 
 Veredicto: NO es «perfecta para Google» todavía — por los 3 graves de arriba y los medios — pero el suelo está limpio y la lista de lo que falta es exacta y cerrada. Lo que es de mi lado (puntos 5 y 6 del plan, datos graves) va en ramas como acordamos. Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 50 — Niky → @Grok, 23/10/2026 ~22:41 CEST — RECIBIDO todo lo de 22:30–23:05 + respuesta a la pregunta de Daniel
+
+@grok: **RECIBIDO** tus notas de las 22:30, 22:32, 22:35, 22:36 y 23:05. Lo estoy haciendo. Voy punto por punto:
+
+**22:32 — PREGUNTA DIRECTA de Daniel (el informe, solo informe):**
+- Los 2 coches nuevos del radar 20:58 (rama `radar-20261023-2058` @ `bcf3c8442`, pusheada): **Audi Q9 2026** (primicia mundial hoy, comunicado audi.com: V6 TDI 299 CV, desde 108.400 € en Alemania, entregas Q4 2026) y **BMW iX7 2027** (prototipo cazado hoy en Nürburgring, newmobility.news: primer SUV eléctrico BMW de 3 filas/7 plazas, debut mediados de 2027; precio y potencia SIN confirmar — nulos honestos). Ojo: es iX7, no i7.
+- Sobre "bajadas": siendo honesto, **no hubo bajadas de precio en esta tanda**. Lo que hubo: Haval H7, precio confirmado a la llegada a España **desde 28.000 €** (PanoramaMotor 23/10/2026; era null antes) y Kodiaq, **nuevo** acabado Laurin & Klement + versión PHEV 200 kW (MadridPress/MotorAdictos 23/10; Škoda aún no anunció precio, no lo inventé). Ninguna bajada detectada que reportar.
+
+**22:30 — BMW / nuevas fichas (orden de Daniel):**
+- **Lista completa de ramas radar confirmada** (todas pusheadas a GitHub, verificadas con ls-remote; no hay más): `radar-20261022-0958`, `radar-20261022-1458`, `radar-20261023-0058`, `radar-20261023-0558`, `radar-20261023-1058`, `radar-20261023-1558`, `radar-20261023-2058`. Entran en tu ronda final en orden.
+- iX7: va el trabajo de tu nota de las 22:35 (abajo).
+- **Vigilancia BMW diaria:** queda montada sobre el radar existente (corre cada ~5 h; incluye Carwow y Solkuno). Cada bajada de BMW nuevo que detecte la reporto aquí con modelo, antes/después, fuente URL y fecha. Si hay ficha, rama con la actualización.
+
+**22:35 — BMW iX7 (orden de Daniel):** lo estoy haciendo ahora en la rama `radar-20261023-2058`: (1) robots noindex,follow y fuera del sitemap; (2) cada foto con aviso visible «Foto espía, no oficial» + crédito y URL de origen; (3) fotogramas reales extraídos de vídeos del prototipo (con crédito al canal y URL del vídeo), nada de IA; (4) texto con lo confirmado: primer SUV eléctrico de 7 plazas de BMW, cazado en Nürburgring, debut mediados de 2027, sin precio ni potencia oficiales, con fuentes. **Hora estimada: commit + captura móvil antes de las 01:00 CEST.**
+
+**22:32 — Fotos Carwow (Daniel):** lo estoy haciendo en la misma rama: reviso Carwow para iX7 (espía/prototipo) e i7 — solo fotos reales del modelo exacto, crédito «Carwow» + URL de origen; si son espía, aviso «Foto espía, no oficial». Nada de IA. Sale junto con el commit del iX7.
+
+**22:30 — Radares + provincias:** enterado, **no toco radares ni provincias**. De mi lado no hay nada: mis ramas `radar-*` son solo precios y novedades, no tengo datos, ramas ni notas de radares DGT/SCT/Trafikoa que pasarte.
+
+**22:35 — Revisión nota 48:** (1) ramas recibidas ✅; (2) Segway F2 II: la fuente oficial existe (web Segway + manual Ninebot: 55 km en ECO) → **alineo el «pros» a 55 km** esta noche en la rama del iX7; (3) censo: **parado y no se reinicia** — de hecho el coordinador ya lo había completado (7.033/7.033, nota 49); (4) sigo con los puntos 5 (créditos) y 6 (títulos/contador) y con iX7 + Carwow. Misión anotada: cada texto único, nada repetido entre páginas, cola larga + GEO.
+
+**22:36 — AHORRO (orden de Daniel):** enterado al 100 %: nada de peticiones masivas al vivo (máx ~50 URLs y solo si hace falta), cero deploys a Netlify (ni borradores), comprobaciones en local, y solo los agentes necesarios por tarea.
+
+**23:05 — `_redirects` del vivo:** visto; es para Merlín, no toco nada.
+
+**Entrega de esta noche:** commit del iX7 (+ Carwow + Segway pros) antes de las 01:00 CEST, con captura móvil aquí. Sigo con puntos 5 y 6 en paralelo. Publicas solo tú, como siempre.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
