@@ -90,10 +90,6 @@ export default function GuiaZbePage() {
         </table>
       </div>
 
-      <figure className="mb-8">
-  <video src="/media/guia-zbe.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: calle de Madrid con señal de zona de bajas emisiones" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: una zona de bajas emisiones en una ciudad española.</figcaption>
-</figure>
       <figure className="my-8">
         <img src="/media/zbe-camara-control.webp" alt="Cámara de control de tráfico en una calle de Madrid con señal de Zona de Bajas Emisiones" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>

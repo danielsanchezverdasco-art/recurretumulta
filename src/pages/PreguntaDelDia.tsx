@@ -156,11 +156,6 @@ export default function PreguntaDelDiaPage() {
           </Link>
         </div>
 
-        <figure className="my-10">
-          <video src="/media/pregunta-del-dia.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: volante y salpicadero en marcha por una avenida de ciudad, punto de vista del conductor" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: al volante por la ciudad.</figcaption>
-        </figure>
-
         {/* Archivo con anchors */}
         {archivo.length > 0 && (
           <section className="mt-10" aria-label="Preguntas de días anteriores">

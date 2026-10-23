@@ -251,11 +251,6 @@ function CalendarioLanzamientosPage() {
           </div>
         </div>
 
-        <figure className="my-10">
-          <video src="/media/calendario-lanzamientos.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: presentación de un coche nuevo, se retira la lona ante focos y público" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: así se presenta un coche nuevo en un salón del automóvil.</figcaption>
-        </figure>
-
         <div className="bg-slate-900 text-white rounded-3xl p-8 text-center">
           <h2 className="text-2xl font-bold mb-3">¿Buscas coche ahora?</h2>
           <p className="text-slate-300 mb-6">Mientras llegan las novedades, compara los modelos que ya puedes comprar.</p>

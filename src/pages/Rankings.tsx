@@ -371,23 +371,6 @@ export default function Rankings() {
           </div>
         </section>
 
-        <figure className="mt-10 max-w-3xl">
-          <video
-            src="/media/rankings.mp4"
-            className="w-full rounded-3xl border border-slate-200"
-            muted
-            autoPlay
-            loop
-            playsInline
-            preload="metadata"
-            aria-label="Vídeo: fila de coches eléctricos modernos en un salón del automóvil"
-          />
-          <figcaption className="mt-2 text-center text-sm text-slate-500">
-            Vídeo ilustrativo: los eléctricos que compiten por los primeros
-            puestos del ranking.
-          </figcaption>
-        </figure>
-
         <section className="mt-10 max-w-3xl">
           <h2 className="text-xl font-extrabold text-gray-900">
             Preguntas frecuentes

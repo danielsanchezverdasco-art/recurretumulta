@@ -78,11 +78,6 @@ export default function GuiaAlcoholDrogasPage() {
       </table>
       </div>
 
-      <figure className="mb-8">
-          <video src="/media/drogas.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: control nocturno de tráfico de la Guardia Civil" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: control nocturno de la Guardia Civil de Tráfico.</figcaption>
-        </figure>
-
       <h2 className="text-2xl font-bold mt-10 mb-4">Sanciones administrativas por alcohol</h2>
       <div className="rounded-2xl border border-slate-200 mb-4">
       <table className="w-full text-xs sm:text-sm text-left bg-white">
@@ -94,10 +89,6 @@ export default function GuiaAlcoholDrogasPage() {
 
 <h2 className="text-2xl font-bold mt-10 mb-4">Drogas: tolerancia cero</h2>
       <p className="text-slate-600 mb-4">Conducir con presencia de drogas en el organismo: <strong>1.000 € y 6 puntos</strong>, más la inmovilización del vehículo. No hay umbral mínimo: basta la presencia confirmada. La prueba es salival, con contraste en laboratorio. La única excepción legal son las sustancias consumidas bajo prescripción médica y con finalidad terapéutica (art. 14.1 del RDL 6/2015).</p>
-      <figure className="mb-8">
-        <video src="/media/test-drogas.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: agente de Tráfico realiza la prueba salival de drogas en un control nocturno" />
-        <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: así se realiza la prueba salival de drogas en un control de tráfico.</figcaption>
-      </figure>
 
       <h2 className="text-2xl font-bold mt-10 mb-4">Negarse a la prueba sale peor</h2>
       <p className="text-slate-600 mb-4">Negarse a someterse a las pruebas de alcoholemia o drogas cuando lo requieren los agentes es infracción muy grave: <strong>1.000 € y 6 puntos</strong> en vía administrativa. Y además puede ser delito (art. 383 del Código Penal): prisión de 6 meses a 1 año y privación del derecho a conducir de más de 1 a 4 años.</p>

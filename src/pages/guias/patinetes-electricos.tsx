@@ -134,11 +134,6 @@ export default function GuiaPatinetesPage() {
           <li><strong>Periodo transitorio hasta el 22 de enero de 2027:</strong> a partir de esa fecha solo podrán circular los patinetes con certificado de circulación.</li>
         </ul>
 
-        <figure className="my-8">
-          <video src="/media/patinetes/guia-patinetes.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: patinetes eléctricos circulando por un carril bici de una ciudad española" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: así se circula legal en patinete, por el carril bici y con casco.</figcaption>
-        </figure>
-
         <h2 className="text-2xl font-bold mt-10 mb-4">Dónde puedes circular (y dónde no)</h2>
         <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
           <li><strong>Sí:</strong> carril bici y vías ciclistas; calzada urbana donde lo permita la ordenanza municipal.</li>

@@ -271,10 +271,7 @@ export default function BuscadorInfraccionesPage() {
 
           {/* Enlaces internos */}
           <section className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-2">
-            <figure className="mb-8">
-  <video src="/media/buscador-senales.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: pórtico con señales de tráfico en una autopista española" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: señales de tráfico en una autopista española.</figcaption>
-</figure>
+
 <h2 className="font-black text-gray-900">¿Ya sabes lo que te piden? Analiza la multa gratis</h2>
             <p className="text-sm text-gray-600 leading-relaxed">
               Saber el importe está bien, pero lo importante es saber si la multa se puede recurrir. Sube la denuncia al{" "}

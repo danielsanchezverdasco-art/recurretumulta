@@ -354,22 +354,6 @@ export default function TalDiaComoHoyMotorPage() {
           )}
         </section>
 
-        <figure className="my-10">
-          <video
-            src="/media/tal-dia-motor.mp4"
-            className="w-full rounded-3xl border border-slate-200"
-            muted
-            autoPlay
-            loop
-            playsInline
-            preload="metadata"
-            aria-label="Vídeo: desfile de coches clásicos de distintas épocas en una concentración"
-          />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">
-            Vídeo ilustrativo: concentración de coches clásicos.
-          </figcaption>
-        </figure>
-
         <Explorador />
 
         {/* Próximas efemérides */}

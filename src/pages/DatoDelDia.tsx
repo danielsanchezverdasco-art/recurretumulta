@@ -208,11 +208,6 @@ export default function DatoDelDiaPage() {
           </div>
         )}
 
-        <figure className="my-10">
-          <video src="/media/dato-del-dia.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: coche por una carretera de montaña española al amanecer, toma aérea" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: carretera de montaña al amanecer.</figcaption>
-        </figure>
-
         {/* Enlace cruzado */}
         <div className="mt-8 rounded-2xl border border-slate-200 bg-white p-5 flex flex-col sm:flex-row sm:items-center gap-3 justify-between">
           <div>

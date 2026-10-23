@@ -64,7 +64,7 @@ export default function GuiaItvDocumentacionPage() {
       <li><strong>Campers y caravanas:</strong> como turismos en general, pero ojo con las reformas: deben estar homologadas e incluidas en la ficha.</li>
       </ul>
       <p className="text-slate-600 mb-4">Tabla completa por años en <a href="https://recurretumulta.online/blog/itv-cada-cuanto-me-toca-tabla-por-anos-multas-por-circular-sin-ella-y-que-pasa-si-llevo-reformas-en-el-coche" className="text-green-700 font-semibold hover:underline">ITV: cada cuánto me toca</a>.</p>
-      
+
       <h2 className="text-2xl font-bold mt-10 mb-4">Multas por circular sin ITV</h2>
       <div className="rounded-2xl border border-slate-200 mb-4">
       <table className="w-full text-xs sm:text-sm text-left bg-white">
@@ -78,21 +78,17 @@ export default function GuiaItvDocumentacionPage() {
       </table>
       </div>
       <p className="text-slate-600 mb-4">Ninguna de estas sanciones resta puntos del carnet. En los controles en carretera de la Guardia Civil de Tráfico (hay campañas específicas) es una de las sanciones más frecuentes, y las cámaras también cruzan matrículas con el registro de inspecciones.</p>
-      
-      <figure className="mb-8">
-  <video src="/media/guia-itv.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: coche pasando la inspección técnica en una estación ITV" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: un coche en la línea de inspección de una estación ITV.</figcaption>
-</figure>
+
       <figure className="my-8">
         <img src="/media/itv-documentacion-revision.webp" alt="Técnico de ITV revisando la ficha técnica y la documentación de un coche en la estación" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>
 
 <h2 className="text-2xl font-bold mt-10 mb-4">Neumáticos: la equivalencia del ±3%</h2>
       <p className="text-slate-600 mb-4">Para pasar la ITV, los neumáticos deben ser equivalentes a los de la ficha técnica: el diámetro exterior no puede variar más del ±3%. Circular con medidas no equivalentes: 200 € de multa. Compruébalo con nuestra <a href="https://recurretumulta.online/equivalencia-neumaticos-itv" className="text-green-700 font-semibold hover:underline">calculadora de equivalencia de neumáticos</a> y lee <a href="https://recurretumulta.online/blog/ruedas-de-km0-chollo-o-timo-pros-contras-precios-reales-y-multas-por-neumaticos-caducados-o-gastados" className="text-green-700 font-semibold hover:underline">neumáticos: multas y consejos</a>.</p>
-      
+
       <h2 className="text-2xl font-bold mt-10 mb-4">Campers y reformas</h2>
       <p className="text-slate-600 mb-4">Las reformas (suspensiones, separadores, camperizaciones) deben estar homologadas y anotadas en la ficha técnica, o la ITV las tumba. Guía específica en <a href="https://recurretumulta.online/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt" className="text-green-700 font-semibold hover:underline">homologación camper y caravanas</a>.</p>
-      
+
       <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
       <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
       <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Texto refundido de la Ley de Tráfico (RDL 6/2015, BOE)</a>: infracciones y sanciones (arts. 76, 77 y 80).</li>
@@ -108,7 +104,7 @@ export default function GuiaItvDocumentacionPage() {
       <div><h3 className="font-bold mb-1">¿Qué neumáticos pasan la ITV?</h3><p className="text-slate-600">Los equivalentes: ±3% del diámetro original.</p></div>
       <div><h3 className="font-bold mb-1">¿Qué papeles debo llevar?</h3><p className="text-slate-600">Permiso de circulación, ficha técnica y seguro en vigor.</p></div>
       </div>
-      
+
       <div className="bg-slate-900 text-white rounded-3xl p-8 text-center">
       <h2 className="text-2xl font-bold mb-3">¿Multa relacionada con tu coche?</h2>
       <p className="text-slate-300 mb-6">Analízala gratis con nuestra IA.</p>
