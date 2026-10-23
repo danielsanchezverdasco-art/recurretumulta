@@ -2502,7 +2502,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Microlino",
-    modelo: "Microlino",
+    modelo: "2026",
     tipo: "Eléctrico",
     categoria: "Urbano",
     precioDesde: 22990,

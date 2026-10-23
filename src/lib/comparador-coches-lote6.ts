@@ -1143,7 +1143,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "BAW",
-    modelo: "212 (212 T01)",
+    modelo: "212 T01",
     tipo: "Gasolina",
     categoria: "Todoterreno",
     precioDesde: 16800,
