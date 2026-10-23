@@ -12,7 +12,7 @@ export const CAMPERS_PILOTE: CocheComparador[] = [
     modelo: "V630J",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: null,
+    precioDesde: 63900, // Tarifa oficial Pilote Francia MY2026 (pilote.fr), verificada 21/10/2026,
     potenciaCv: 140,
     autonomiaKm: null, maleteroL: null, ceroCien: null, velocidadMax: null,
     bateriaKwh: null, cargaRapidaKw: null,

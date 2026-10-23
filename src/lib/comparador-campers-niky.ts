@@ -120,7 +120,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     velocidadMax: null,
     bateriaKwh: 11.8,
     cargaRapidaKw: null,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

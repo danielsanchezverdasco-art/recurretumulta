@@ -149,7 +149,7 @@ export const CAMPERS_HYMER: CocheComparador[] = [
       "Ya no se fabrica con el nombre Free: en la tarifa 2026 la gama se renombró",
     ],
     imagen: "/media/hymer-free-600-2026-precio-ficha-tecnica-oficial.webp",
-    imagenOficial: "/media/hymer-free-600-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/hymer-free-600-2026-precio-ficha-tecnica-hunt1.webp",
     imagenInteriorOficial: "/media/hymer-free-600-2026-precio-ficha-tecnica-oficial-int1.webp",
     creditoInteriorFoto:
       "caravana.de (marketplace, Alemania) — foto del modelo real, no oficial Hymer",

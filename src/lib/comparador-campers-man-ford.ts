@@ -40,7 +40,7 @@ export const CAMPERS_MAN_FORD: CocheComparador[] = [
     cargaUtilKg: 498,
     consumo: null,
     consumoUnidad: "l/100 km",
-    plazas: 2,
+    plazas: 4,
     parNm: null,
     traccion: null,
     emisionesCo2: null,

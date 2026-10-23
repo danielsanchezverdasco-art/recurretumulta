@@ -60,7 +60,7 @@ export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
     imagen:
       "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial:
-      "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-hunt1.webp",
     imagenInteriorOficial:
       "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -172,7 +172,7 @@ export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
     imagen:
       "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial:
-      "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-hunt1.webp",
     imagenInteriorOficial:
       "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
