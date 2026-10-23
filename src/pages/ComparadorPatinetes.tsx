@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import SharedFooter from "@/components/shared-footer.tsx";
 import FlipCard from "@/components/FlipCardSimple.tsx";
 import HeroVS from "@/components/HeroVS.tsx";
@@ -86,7 +87,7 @@ const jsonLd = {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-        { "@type": "ListItem", position: 2, name: "Herramientas", item: "https://recurretumulta.online/herramientas" },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: "https://recurretumulta.online/fichas-tecnicas/" },
         { "@type": "ListItem", position: 3, name: "Comparador de patinetes", item: "https://recurretumulta.online/comparador-patinetes/" },
       ],
     },
@@ -95,7 +96,8 @@ const jsonLd = {
 
 /* ── Formato: null = "—", ≈ para estimaciones ─────────────────────────────── */
 const fmtEur = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtNum = (v: number | null) =>
   v == null ? "—" : v.toLocaleString("es-ES");
 const fmtW = (v: number | null) => (v == null ? "—" : v.toLocaleString("es-ES") + " W");
@@ -543,7 +545,7 @@ export default function ComparadorPatinetesPage() {
       patinetesDuelo.map((p) => ({
         id: p.id,
         titulo: `${p.marca} ${p.modelo}`,
-        subtitulo: p.precioEur != null ? `${p.precioEur.toLocaleString("es-ES")} €` : undefined,
+        subtitulo: p.precioEur != null ? `${fmtMiles(p.precioEur)} €` : undefined,
         imagen: p.foto && !p.fotoPendiente ? p.foto : undefined,
       })),
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -714,16 +716,16 @@ export default function ComparadorPatinetesPage() {
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/herramientas/" className="hover:underline">
-            Herramientas
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas Técnicas
           </Link>{" "}
           · <span className="text-gray-700">Comparador de patinetes</span>
         </nav>
 
         <div className="mt-3">
           <HeroVS
-            imagen1="/media/comparador/hero-patinete-1.jpg"
-            imagen2="/media/comparador/hero-patinete-2.jpg"
+            imagen1="/media/patinetes/apollo-air.webp"
+            imagen2="/media/patinetes/aovopro-ap07.webp"
             alt1="Patinete eléctrico en la ciudad"
             alt2="Detalle de un patinete eléctrico"
             titulo="Comparador de patinetes eléctricos"

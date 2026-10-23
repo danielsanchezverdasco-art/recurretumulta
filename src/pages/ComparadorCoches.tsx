@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { fmtMiles } from "@/lib/formato.ts";
 import { Link, useSearchParams } from "react-router-dom";
 import { useSeo, canonicalComparador } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
@@ -51,7 +52,8 @@ const COMPARATIVAS_POPULARES: Array<[string, string, string]> = [
 
 // ── Formato: null = "—", estimaciones con ≈ ──────────────────────────────────
 const fmtPrecio = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 const fmtKm = (v: number | null) => (v == null ? "—" : v + " km");
 const fmtL = (v: number | null) => (v == null ? "—" : v + " L");
 const fmtS = (v: number | null) =>
@@ -102,7 +104,7 @@ const jsonLd = {
       "@type": "BreadcrumbList",
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
-        { "@type": "ListItem", position: 2, name: "Novedades Motor", item: "https://recurretumulta.online/blog" },
+        { "@type": "ListItem", position: 2, name: "Fichas Técnicas", item: "https://recurretumulta.online/fichas-tecnicas/" },
         { "@type": "ListItem", position: 3, name: "Comparador de coches", item: "https://recurretumulta.online/comparador-coches/" },
       ],
     },
@@ -518,10 +520,10 @@ export default function ComparadorCochesPage() {
       <SharedNavbar />
 
       <HeroVS
-        imagen1="/media/comparador/hero-car-1.jpg"
-        imagen2="/media/comparador/hero-car-2.jpg"
+        imagen1="/media/byd-dolphin-surf-2027-hero.webp"
+        imagen2="/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp"
         alt1="Coche eléctrico en comparativa"
-        alt2="Coche híbrido en comparativa"
+        alt2="SUV en comparativa"
         titulo="Comparador de coches eléctricos e híbridos"
         subtitulo="Compara precios, autonomía, potencia y ficha técnica de todos los modelos 2024-2026"
         busqueda={q}

@@ -7,10 +7,79 @@ import { Badge } from "@/components/ui/badge.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import {
   COCHES_COMPARADOR,
   type CocheComparador,
 } from "@/lib/comparador-coches-data.ts";
+// 20/10/2026 (arreglos borrador 2 — bug 2): COCHES_COMPARADOR mezcla fichas
+// que NO son coches: los arrays CAMPERS_* (33 fichas de campers/autocaravanas
+// con forma de coche) y 8 autocaravanas del lote 16. Por eso las pestañas de
+// Coches/Motos/Patinetes enseñaban autocaravanas y el filtro de marcas de
+// Coches incluía Adria, Benimar, Carado, Chausson, Hobby, McLouis, Pössl y
+// Roller Team. Sus páginas viven en /coches/<id>/ (no se pierde ninguna),
+// pero en este hub cada una va a SU pestaña: campers → Campers,
+// autocaravanas del lote 16 → Autocaravanas.
+import { CAMPERS_ADRIA } from "@/lib/comparador-campers-adria.ts";
+import { CAMPERS_BUERSTNER } from "@/lib/comparador-campers-buerstner.ts";
+import { CAMPERS_CAMPEREVE } from "@/lib/comparador-campers-campereve.ts";
+import { CAMPERS_CHAUSSON } from "@/lib/comparador-campers-chausson.ts";
+import { CAMPERS_DREAMER } from "@/lib/comparador-campers-dreamer.ts";
+import { CAMPERS_FONT_VENDOME } from "@/lib/comparador-campers-font-vendome.ts";
+import { CAMPERS_FORD } from "@/lib/comparador-campers-ford.ts";
+import { CAMPERS_GRUPO4 } from "@/lib/comparador-campers-grupo4.ts";
+import { CAMPERS_HYMER } from "@/lib/comparador-campers-hymer.ts";
+import { CAMPERS_JAPONESAS } from "@/lib/comparador-campers-japonesas.ts";
+import { CAMPERS_LAIKA_SUNLIGHT } from "@/lib/comparador-campers-laika-sunlight.ts";
+import { CAMPERS_MAN_FORD } from "@/lib/comparador-campers-man-ford.ts";
+import { CAMPERS_NIKY_ESPANOLAS } from "@/lib/comparador-campers-niky.ts";
+import { CAMPERS_PILOTE } from "@/lib/comparador-campers-pilote.ts";
+import { CAMPERS_POSSL } from "@/lib/comparador-campers-possl.ts";
+import { CAMPERS_RAPIDO } from "@/lib/comparador-campers-rapido.ts";
+import { CAMPERS_ROLLER_OTROS } from "@/lib/comparador-campers-roller-otros.ts";
+import { CAMPERS_SPRINTER } from "@/lib/comparador-campers-sprinter.ts";
+import { CAMPERS_VOLKSWAGEN } from "@/lib/comparador-campers-volkswagen.ts";
+import { CAMPERS_VW } from "@/lib/comparador-campers-vw.ts";
+import { CAMPERS_WESTFALIA } from "@/lib/comparador-campers-westfalia.ts";
+const IDS_CAMPERS_EN_COCHES = new Set<string>(
+  [
+    CAMPERS_ADRIA, CAMPERS_BUERSTNER, CAMPERS_CAMPEREVE, CAMPERS_CHAUSSON,
+    CAMPERS_DREAMER, CAMPERS_FONT_VENDOME, CAMPERS_FORD, CAMPERS_GRUPO4,
+    CAMPERS_HYMER, CAMPERS_JAPONESAS, CAMPERS_LAIKA_SUNLIGHT, CAMPERS_MAN_FORD,
+    CAMPERS_NIKY_ESPANOLAS, CAMPERS_PILOTE, CAMPERS_POSSL, CAMPERS_RAPIDO,
+    CAMPERS_ROLLER_OTROS, CAMPERS_SPRINTER, CAMPERS_VOLKSWAGEN, CAMPERS_VW,
+    CAMPERS_WESTFALIA,
+  ].flatMap((arr) => arr.map((f) => f.id))
+);
+// 21/10/2026 (bug filtro RV, partición estricta por tipo): campers reales que
+// viven en arrays de coches genéricos y no en los CAMPERS_* — sin esto caían
+// en la pestaña Coches. Y dos furgones camper que estaban en el conjunto de
+// autocaravanas del lote 16 (Pössl Summit 600 y Hobby Vantana son camper,
+// no autocaravanas: salían en AMBAS pestañas según la ficha gemela).
+for (const id of [
+  "possl-summit-600-2026",
+  "hobby-vantana-2026",
+  "volkswagen-california-t7-2026-precio-ficha-tecnica",
+  "volkswagen-caddy-california-2025",
+  "volkswagen-grand-california-2026",
+  "volkswagen-california-ehybrid-2026",
+  "ford-transit-custom-nugget-2025",
+  "ford-transit-nugget-plus-2025",
+  "ford-transit-custom-nugget-2026-precio-ficha-tecnica",
+  "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica",
+  "ford-transit-custom-nugget-plus-2026-precio-ficha-tecnica",
+]) IDS_CAMPERS_EN_COCHES.add(id);
+const IDS_AUTOCARAVANAS_LOTE16 = new Set<string>([
+  "benimar-mileo-286-2026",
+  "adria-matrix-supreme-2026",
+  "mclouis-menfys-2026",
+  "chausson-640-2026",
+  "roller-team-zefiro-696-2026",
+  "carado-t-447-2026",
+  // 21/10/2026: Adria Matrix Supreme 670 SL es una perfilada (autocaravana)
+  // aunque su ficha vive en el array CAMPERS_ADRIA — salía en Campers.
+  "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica",
+]);
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 // Fecha real de publicación de cada ficha (scripts/gen-fichas-fechas.mjs)
 import FICHAS_FECHAS from "@/lib/fichas-fechas.generated.json";
@@ -24,10 +93,71 @@ import {
   PATINETES_PUBLICADOS,
   type PatineteComparador,
 } from "@/lib/comparador-patinetes-data.ts";
+// Autocaravanas y campers: índice consolidado (src/lib/autocaravanas/index.ts)
+import { AUTOCARAVANAS } from "@/lib/autocaravanas";
+// 20/10/2026 (merlin-caravanas-rutas-v4): pestaña Caravanas con las 72
+// fichas de src/lib/caravanas (ruta /caravanas/<slug>/ ya cableada).
+import { CARAVANAS } from "@/lib/caravanas";
+import type { Caravana } from "@/lib/caravanas/tipos.ts";
+import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
+import { normalizarEtiquetaDgt } from "@/components/EtiquetaDGT.tsx";
 
-// ── Normalización: los tres catálogos a una tarjeta común ────────────────────
+// ── Normalización de marcas y etiquetas (20/10/2026, arreglos borrador 2) ──
+// Los datos traen la misma marca con varias capitalizaciones (cupra/Cupra/
+// CUPRA, Nio/NIO, Smart/smart, CFMoto/CFMOTO, Smartgyro/SmartGyro,
+// Zwheel/ZWheel…) y el filtro las mostraba como marcas distintas. Se
+// canonicaliza a la forma mayoritaria en los datos. Clave: marca en minúsculas.
+const MARCA_CANONICA: Record<string, string> = {
+  cupra: "Cupra",
+  seat: "SEAT",
+  smart: "smart",
+  nio: "Nio",
+  xpeng: "XPeng",
+  cfmoto: "CFMoto",
+  vmoto: "Vmoto",
+  mitt: "Mitt",
+  niu: "NIU",
+  navee: "Navee",
+  smartgyro: "Smartgyro",
+  "e-twow": "E-Twow",
+  turboant: "TurboAnt",
+  gotrax: "Gotrax",
+  aovopro: "Aovopro",
+  zwheel: "Zwheel",
+  kukirin: "KuKirin",
+  bogist: "Bogist",
+  icaur: "iCaur",
+  mini: "Mini",
+  emove: "Emove",
+};
+// Alias de la misma marca escritos de otra forma en patinetes.
+const MARCA_ALIAS: Record<string, string> = {
+  "Apollo Scooters": "Apollo",
+  "Dualtron (MiniMotors)": "Dualtron",
+  Minimotors: "Dualtron",
+  "Egret (Walberg)": "Egret",
+  "Walberg Urban Electrics": "Egret",
+  "Emove (VoroMotors)": "Emove",
+  "Segway-Ninebot": "Segway",
+  "Kugoo Kirin": "KuKirin",
+};
+function marcaCanon(marca: string): string {
+  const alias = MARCA_ALIAS[marca];
+  if (alias) return alias;
+  return MARCA_CANONICA[marca.toLowerCase()] ?? marca;
+}
+// La etiqueta DGT llega como "0", "0 emisiones", "CERO", "Cero", "ECO", "Eco"…:
+// se unifica al valor canónico para que el filtro no duplique opciones y el
+// distintivo de la tarjeta pinte siempre lo mismo.
+function etiquetaCanon(v: string | null | undefined): string | null {
+  const n = normalizarEtiquetaDgt(v);
+  if (n === "Cero") return "CERO";
+  return n; // "ECO" | "C" | "B" | null
+}
+
+// ── Normalización: los cinco catálogos a una tarjeta común ────────────────────
 type FichaCard = {
-  kind: "coche" | "moto" | "patinete";
+  kind: "coche" | "moto" | "patinete" | "autocaravana" | "camper" | "caravana";
   id: string;
   marca: string;
   modelo: string;
@@ -46,24 +176,32 @@ type FichaCard = {
 
 const ES_ELECTRICO_COCHE = /eléctrico|enchufable|autonomía extendida/i;
 
+// fmtMiles y no toLocaleString("es-ES"): este último no agrupa las cifras de
+// 4 dígitos (5800 → «5800 €») y las motos salían sin separador de miles.
 const fmtPrecio = (v: number | null) =>
-  v == null ? "Precio no disponible" : v.toLocaleString("es-ES") + " €";
+  v == null ? "Precio no disponible" : fmtMiles(v) + " €";
 const fmtNum = (v: number | null, suf: string) =>
   v == null ? "—" : `${String(v).replace(".", ",")} ${suf}`;
 
 function cocheACard(c: CocheComparador): FichaCard {
+  // Recategorización (bug 2): las fichas de origen camper/autocaravana que
+  // viven en el catálogo de coches van a su pestaña, no a la de Coches.
+  // 21/10/2026: el conjunto de autocaravanas manda sobre el de campers
+  // (la Matrix Supreme 670 SL vive en un array CAMPERS_* pero es perfilada).
+  const esAutocaravana = IDS_AUTOCARAVANAS_LOTE16.has(c.id);
+  const esCamper = !esAutocaravana && IDS_CAMPERS_EN_COCHES.has(c.id);
   return {
-    kind: "coche",
+    kind: esCamper ? "camper" : esAutocaravana ? "autocaravana" : "coche",
     id: c.id,
-    marca: c.marca,
+    marca: marcaCanon(c.marca),
     modelo: c.modelo,
-    nombreBusqueda: `${c.marca} ${c.modelo}`,
+    nombreBusqueda: `${marcaCanon(c.marca)} ${c.modelo}`,
     ruta: `/coches/${c.id}/`,
     foto: c.imagenOficial || c.imagen || null,
     fotoAlt: `${c.marca} ${c.modelo}`,
     precio: c.precioDesde,
-    badge: c.tipo,
-    etiquetaDgt: c.etiquetaDgt,
+    badge: esCamper ? "Camper" : esAutocaravana ? "Autocaravana" : c.tipo,
+    etiquetaDgt: etiquetaCanon(c.etiquetaDgt),
     specs: [
       { v: fmtNum(c.potenciaCv, "CV"), l: "potencia" },
       { v: fmtNum(c.autonomiaKm, "km"), l: "autonomía" },
@@ -88,15 +226,15 @@ function motoACard(m: MotoComparador): FichaCard {
   return {
     kind: "moto",
     id: m.id,
-    marca: m.marca,
+    marca: marcaCanon(m.marca),
     modelo: m.modelo,
-    nombreBusqueda: `${m.marca} ${m.modelo} ${m.version}`,
+    nombreBusqueda: `${marcaCanon(m.marca)} ${m.modelo} ${m.version}`,
     ruta: `/motos/${m.id}/`,
     foto: m.imagen ?? null,
     fotoAlt: `Foto oficial de la ${m.marca} ${m.modelo}`,
     precio: m.precioDesde,
     badge: m.categoria,
-    etiquetaDgt: m.etiquetaDgt,
+    etiquetaDgt: etiquetaCanon(m.etiquetaDgt),
     specs: [
       { v: fmtNum(m.potenciaKw, "kW"), l: "potencia" },
       { v: fmtNum(m.autonomiaKm, "km"), l: "autonomía" },
@@ -119,9 +257,9 @@ function patineteACard(p: PatineteComparador): FichaCard {
   return {
     kind: "patinete",
     id: p.id,
-    marca: p.marca,
+    marca: marcaCanon(p.marca),
     modelo: p.modelo,
-    nombreBusqueda: `${p.marca} ${p.modelo}`,
+    nombreBusqueda: `${marcaCanon(p.marca)} ${p.modelo}`,
     ruta: `/patinetes/${p.id}/`,
     foto: p.foto || null,
     fotoAlt: `Patinete eléctrico ${p.marca} ${p.modelo}`,
@@ -147,17 +285,110 @@ function patineteACard(p: PatineteComparador): FichaCard {
   };
 }
 
+// Etiquetas de carrocería para autocaravanas/campers (mismo criterio que
+// el hub /autocaravanas/: pestaña "Campers" <=> tipo === "camper").
+const ETIQUETA_TIPO_AUTO: Record<string, string> = {
+  camper: "Camper",
+  perfilada: "Perfilada",
+  integral: "Integral",
+  capuchina: "Capuchina",
+};
+
+const fmtLargo = (mm: number | null) =>
+  mm == null ? "—" : `${(mm / 1000).toFixed(2).replace(".", ",")} m`;
+
+function autocaravanaACard(a: Autocaravana): FichaCard {
+  const esCamper = a.tipo === "camper";
+  return {
+    kind: esCamper ? "camper" : "autocaravana",
+    id: a.id,
+    marca: marcaCanon(a.marca),
+    modelo: a.modelo,
+    nombreBusqueda: `${marcaCanon(a.marca)} ${a.modelo}`,
+    ruta: esCamper ? `/campers/${a.id}/` : `/autocaravanas/${a.id}/`,
+    foto: a.imagenOficial || a.imagen || null,
+    fotoAlt: `${a.marca} ${a.modelo}`,
+    precio: a.precioDesde,
+    badge: ETIQUETA_TIPO_AUTO[a.tipo] ?? a.tipo,
+    etiquetaDgt: etiquetaCanon(a.etiquetaDgt),
+    specs: [
+      { v: fmtLargo(a.largoMm), l: "largo" },
+      { v: a.plazasDormir != null ? String(a.plazasDormir) : "—", l: "plazas dormir" },
+      { v: a.carnetNecesario ?? "—", l: "carnet" },
+    ],
+    detalles: [
+      { l: "Potencia", v: fmtNum(a.potenciaCv, "CV") },
+      { l: "MMA", v: fmtNum(a.mmaKg, "kg") },
+      { l: "Carga útil", v: fmtNum(a.cargaUtilKg ?? null, "kg") },
+      { l: "Plazas", v: a.plazas != null ? String(a.plazas) : "—" },
+      { l: "Vel. máx.", v: fmtNum(a.velocidadMax, "km/h") },
+      { l: "Consumo", v: a.consumo != null ? `${String(a.consumo).replace(".", ",")} ${a.consumoUnidad ?? ""}`.trim() : "—" },
+      { l: "Tracción", v: a.traccion ?? "—" },
+      { l: "Emisiones", v: fmtNum(a.emisionesCo2, "g/km") },
+      { l: "Ancho", v: fmtLargo(a.anchoMm) },
+      { l: "Alto", v: fmtLargo(a.altoMm) },
+      { l: "Peso", v: fmtNum(a.pesoKg, "kg") },
+    ],
+    autonomiaKm: null,
+    certificadoDgt: null,
+  };
+}
+
+// Dedupe por ruta: el catálogo de coches trae un id repetido
+// (buerstner-campeo-c-600 viene en dos arrays CAMPERS_*) y sin esto la
+// misma tarjeta salía dos veces y el contador del título no cuadraba
+// con la suma real de fichas únicas.
+function caravanaACard(a: Caravana): FichaCard {
+  return {
+    kind: "caravana",
+    id: a.id,
+    marca: marcaCanon(a.marca),
+    modelo: a.modelo,
+    nombreBusqueda: `${marcaCanon(a.marca)} ${a.modelo}`,
+    ruta: `/caravanas/${a.id}/`,
+    foto: a.imagenOficial || a.imagen || null,
+    fotoAlt: `${a.marca} ${a.modelo}`,
+    precio: a.precioDesde,
+    badge: "Caravana",
+    etiquetaDgt: null, // las caravanas no llevan etiqueta DGT (remolque sin motor)
+    specs: [
+      { v: fmtLargo(a.largoMm), l: "largo" },
+      { v: a.plazas != null ? String(a.plazas) : "—", l: "plazas dormir" },
+      { v: a.carnetNecesario ?? "—", l: "carnet" },
+    ],
+    detalles: [
+      { l: "MMA", v: fmtNum(a.mmaKg, "kg") },
+      { l: "Carga útil", v: fmtNum(a.cargaUtilKg ?? null, "kg") },
+      { l: "Peso", v: fmtNum(a.pesoKg, "kg") },
+      { l: "Ancho", v: fmtLargo(a.anchoMm) },
+      { l: "Alto", v: fmtLargo(a.altoMm) },
+    ],
+    autonomiaKm: null,
+    certificadoDgt: null,
+  };
+}
+
+const _rutasVistas = new Set<string>();
 const TODAS: FichaCard[] = [
   ...COCHES_COMPARADOR.map(cocheACard),
   ...MOTOS_PUBLICADAS.map(motoACard),
   ...PATINETES_PUBLICADOS.map(patineteACard),
-];
+  ...AUTOCARAVANAS.map(autocaravanaACard),
+  ...CARAVANAS.map(caravanaACard),
+].filter((f) => {
+  if (_rutasVistas.has(f.ruta)) return false;
+  _rutasVistas.add(f.ruta);
+  return true;
+});
 
-type Tab = "coche" | "moto" | "patinete";
+type Tab = "coche" | "moto" | "patinete" | "autocaravana" | "camper" | "caravana";
 const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "coche", label: "Coches", plural: "coches" },
   { id: "moto", label: "Motos", plural: "motos" },
   { id: "patinete", label: "Patinetes", plural: "patinetes" },
+  { id: "autocaravana", label: "Autocaravanas", plural: "autocaravanas" },
+  { id: "camper", label: "Campers", plural: "campers" },
+  { id: "caravana", label: "Caravanas", plural: "caravanas" },
 ];
 
 const SELECT_CLASE =
@@ -307,9 +538,9 @@ const jsonLd = {
     {
       "@type": "CollectionPage",
       "@id": "https://recurretumulta.online/fichas-tecnicas#pagina",
-      name: "Fichas técnicas de coches, motos y patinetes 2026",
+      name: "Fichas técnicas de coches, motos, patinetes, autocaravanas, campers y caravanas 2026",
       description:
-        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía y etiqueta DGT de cientos de modelos 2024-2026.",
+        "Índice de fichas técnicas con buscador y filtros: precio, potencia, autonomía y etiqueta DGT de cientos de modelos 2024-2026, entre coches, motos, patinetes, autocaravanas, campers y caravanas.",
       url: "https://recurretumulta.online/fichas-tecnicas",
       inLanguage: "es-ES",
     },
@@ -334,9 +565,9 @@ const jsonLd = {
 
 export default function FichasTecnicasPage() {
   useSeo({
-    title: "Fichas técnicas: coches, motos y patinetes",
+    title: "Fichas técnicas: coches, motos, patinetes, autocaravanas, campers y caravanas",
     description:
-      "Todas las fichas técnicas en un solo lugar: busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
+      "Todas las fichas técnicas en un solo lugar: coches, motos, patinetes, autocaravanas, campers y caravanas. Busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
     canonical: "/fichas-tecnicas",
     schema: jsonLd,
   });
@@ -421,7 +652,7 @@ export default function FichasTecnicasPage() {
       {/* Hero animado estilo guías: foto HD + degradado + entrada progresiva */}
       <div className="relative overflow-hidden">
         <DriveInImage
-          src="/media/dacia-bigster-jaecoo-5-duelo-cuerpo.webp"
+          src="/media/aion-v-vs-deepal-s05-cual-comprar-hero.webp"
           alt="Dos SUV modernos enfrentados, comparativa de fichas técnicas"
           eager={true}
           className="absolute inset-0"
@@ -467,8 +698,12 @@ export default function FichasTecnicasPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
-        {/* ── Pestañas Coches / Motos / Patinetes ── */}
-        <div className="flex gap-2" role="tablist" aria-label="Tipo de vehículo">
+        {/* ── Pestañas Coches / Motos / Patinetes / Autocaravanas / Campers: en móvil no desbordan, se desplazan en horizontal (mismo patrón que PestanasFicha) ── */}
+        <div
+          className="flex gap-2 overflow-x-auto pb-1 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          role="tablist"
+          aria-label="Tipo de vehículo"
+        >
           {TABS.map((t) => {
             const n = TODAS.filter((f) => f.kind === t.id).length;
             const activa = tab === t.id;
@@ -478,7 +713,7 @@ export default function FichasTecnicasPage() {
                 role="tab"
                 aria-selected={activa}
                 onClick={() => cambiarTab(t.id)}
-                className={`flex-1 rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
+                className={`flex-1 min-w-max whitespace-nowrap rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
                   activa
                     ? "bg-[#cd001d] text-white shadow-md"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-[#cd001d] hover:text-[#cd001d]"
@@ -500,7 +735,7 @@ export default function FichasTecnicasPage() {
             type="search"
             value={q}
             onChange={(e) => { setQ(e.target.value); setVisibleCount(PAGE_SIZE); }}
-            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : "Xiaomi, Segway"})`}
+            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "patinete" ? "Xiaomi, Segway" : tab === "autocaravana" ? "Adria, Hymer" : tab === "caravana" ? "Adria, Hobby" : "California, Nugget"})`}
             aria-label="Buscar por marca o modelo"
             className="w-full rounded-xl border border-gray-300 bg-white py-2.5 pl-10 pr-4 text-sm shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20"
           />
@@ -644,6 +879,32 @@ export default function FichasTecnicasPage() {
           )}
           </>
         )}
+
+        {/* ── Verticales de vivienda: autocaravanas, campers y caravanas ── */}
+        <section className="mx-auto mt-12 max-w-3xl rounded-2xl border border-gray-200 bg-white p-5">
+          <h2 className="text-lg font-extrabold text-gray-900 text-center">Autocaravanas, campers y caravanas</h2>
+          <p className="mt-1 text-sm text-gray-600 text-center">
+            La vivienda sobre ruedas tiene su propia sección: fichas con precios, medidas, plazas y fotos de cada modelo.
+          </p>
+          <div className="mt-4 grid gap-2 sm:grid-cols-3">
+            {([
+              ["autocaravana", "/autocaravanas/", "Autocaravanas"],
+              ["camper", "/campers/", "Campers"],
+              ["caravana", "/caravanas/", "Caravanas"],
+            ] as const).map(([kind, href, nombre]) => (
+              <Link
+                key={kind}
+                to={href}
+                className="rounded-xl border border-gray-200 px-4 py-3 text-center transition hover:border-[#cd001d] hover:shadow-sm"
+              >
+                <span className="block text-sm font-extrabold text-gray-900">{nombre}</span>
+                <span className="mt-0.5 block text-xs text-gray-500">
+                  {TODAS.filter((f) => f.kind === kind).length} fichas →
+                </span>
+              </Link>
+            ))}
+          </div>
+        </section>
 
         {/* ── Enlaces a los comparadores ── */}
         <section className="mx-auto mt-12 max-w-3xl rounded-2xl border border-gray-200 bg-white p-5 text-center">

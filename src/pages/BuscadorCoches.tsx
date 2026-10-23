@@ -5,6 +5,7 @@
 // inventadas) y "Mi recomendación personal" (TOP 3 con motivos honestos).
 import { Link } from "react-router-dom";
 import { useMemo, useRef, useState } from "react";
+import { fmtMiles } from "@/lib/formato.ts";
 import {
   AlertTriangle,
   ArrowRight,
@@ -1468,8 +1469,8 @@ function GraficaPrecios({ datos, marca, modelo }: { datos: HistorialPrecios; mar
             </p>
             <p className="text-sm text-gray-600 mt-1">{datos.mensaje}</p>
             <p className="text-[11px] text-gray-400 mt-2">
-              Basado en precio de nuevo ({datos.precioNuevo?.toLocaleString("es-ES")} €) y media actual de
-              segunda mano ({datos.mediana?.toLocaleString("es-ES")} €, {datos.n} anuncios, edad media {datos.edadMedia} años).
+              Basado en precio de nuevo ({datos.precioNuevo != null ? fmtMiles(datos.precioNuevo) : ""} €) y media actual de
+              segunda mano ({datos.mediana != null ? fmtMiles(datos.mediana) : ""} €, {datos.n} anuncios, edad media {datos.edadMedia} años).
             </p>
           </div>
         </div>
@@ -1510,7 +1511,7 @@ function ResultadoValorador({ v }: { v: ValoracionAnuncio }) {
         {v.difMercadoPct !== undefined && v.mercado && (
           <p className={`text-sm font-bold ${v.difMercadoPct <= 0 ? "text-emerald-700" : "text-red-700"}`}>
             {v.difMercadoPct <= 0 ? `${Math.abs(v.difMercadoPct)}% por debajo` : `${v.difMercadoPct}% por encima`} de
-            la media ({v.mercado.mediana.toLocaleString("es-ES")} €, {v.mercado.n} anuncios)
+            la media ({fmtMiles(v.mercado.mediana)} €, {v.mercado.n} anuncios)
           </p>
         )}
       </div>
