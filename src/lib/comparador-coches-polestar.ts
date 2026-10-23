@@ -13,7 +13,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -71,19 +71,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 2, berlina eléctrica, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 2, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 2, salpicadero con pantalla vertical",
         "ancho": 1200,
         "alto": 800
@@ -96,7 +96,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "z70J32S30SU",
     videoCanal: "The Polestar Vlog",
     marca: "Polestar",
@@ -112,20 +112,8 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     bateriaKwh: 92, // CATL (MY2026); 106 kWh en Dual Motor y Performance
     cargaRapidaKw: 350, // 800 V; 10-80 % en 22 min
     etiquetaDgt: "Cero",
-    pros: [
-      "Arquitectura de 800 V y 350 kW: del 10 al 80 % en 22 min, de lo más rápido del mercado",
-      "604 km WLTP desde 81.900 €: el SUV eléctrico premium con más autonomía por euro",
-      "Motor trasero síncrono de desarrollo propio (333 CV), con tacto más deportivo",
-      "Diferencial trasero mecánico y frenos Brembo de serie",
-      "Android Automotive, techo de cristal y equipo Bowers & Wilkins de 25 altavoces",
-    ],
-    contras: [
-      "Unos 2.500 kg de peso: los consumos reales superan los 20 kWh/100 km",
-      "Maletero de 484 L: justo para un SUV de 4,90 m",
-      "81.900 € de acceso, sin packs ni extras: el precio duele",
-      "Red comercial y de servicio muy limitada en España",
-      "Interior casi sin botones físicos: todo pasa por la pantalla de 14,5\"",
-    ],
+    pros: ["Su salto a los 800 V se nota donde más viajaba el Single Motor anterior: cargar del 10 al 80 % baja de unos 30 a 22 minutos, pese a que la batería pasa de 111 a 92 kWh.", "El motor trasero único sube de 299 a 333 CV y el 0 a 100 cae de 7,8 a 6,5 segundos: ya no es la versión lenta de la gama, solo la de un motor.", "Con un solo motor y tracción trasera homologa 604 km WLTP y etiqueta Cero de la DGT, sin cargar con el peso ni el consumo extra del segundo motor delantero del Dual Motor.", "En Euro NCAP 2025 sacó un 93 % en protección infantil, la nota más alta de un turismo en nueve años según el organismo: si viajas con sillas infantiles, es su argumento más serio.", "Android Automotive va nativo en la pantalla de 14,5 pulgadas, con Google Maps y las actualizaciones OTA que Polestar ha ido soltando desde las primeras entregas de 2024."],
+    contras: ["81.900 € de partida en España por un coche de un solo motor y tracción trasera: el ahorro frente al Dual Motor existe, pero la factura sigue siendo de segmento alto.", "El maletero se queda en 484 litros en un SUV de 4,90 metros: para el equipaje de una familia en vacaciones largas toca jugar al tetris o montar cofre.", "La ganancia de carga rápida se paga con alcance: 604 km WLTP frente a los 650 km del Single Motor saliente, que llevaba una batería mayor de 111 kWh.", "Casi no hay botones físicos en el salpicadero: climatización, espejos y hasta la guantera se gobiernan desde la pantalla central, con la distracción que eso supone en marcha."],
     largoMm: 4900,
     anchoMm: 1968,
     altoMm: 1614,
@@ -154,24 +142,25 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 3, SUV eléctrico grande, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 3, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 3, pantalla vertical de 14,5 pulgadas",
         "ancho": 1200,
         "alto": 800
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la página oficial española del Polestar 3, como norma general no requiere mantenimiento hasta los 2 años o los 30.000 km, lo que antes ocurra. Los diagnósticos a bordo avisan si hace falta un servicio adicional y las actualizaciones inalámbricas mantienen al día el sistema. Polestar no publica un precio cerrado de revisión para España, así que el coste concreto hay que pedirlo en el punto de servicio autorizado.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.polestar.com/es/polestar-3/specifications"},
   },
   {
     id: "polestar-4-suv-precio-ficha-tecnica",
@@ -179,7 +168,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-4-suv-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-4-suv-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Polestar",
@@ -237,19 +226,19 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 4 SUV, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 4 SUV, vista trasera con luneta de cristal",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 4 SUV, iluminación ambiental",
         "ancho": 1200,
         "alto": 800
@@ -262,7 +251,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-5-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-5-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin review española con canal verificado a 04/10/2026
     videoCanal: null,
     marca: "Polestar",
@@ -278,20 +267,8 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     bateriaKwh: 112, // bruta; 106 kWh útiles
     cargaRapidaKw: 350, // 800 V; 10-80 % en 22 min
     etiquetaDgt: "Cero",
-    pros: [
-      "Hasta 884 CV y 1.015 Nm: el Polestar más potente de la historia",
-      "800 V y 350 kW: del 10 al 80 % en 22 minutos",
-      "678 km WLTP en el Dual Motor: más autonomía que un Porsche Taycan",
-      "Chasis de aluminio propio y motor trasero de desarrollo interno con Recaro",
-      "Diseño del concept Precept casi sin cambios: un GT escandinavo único",
-    ],
-    contras: [
-      "Desde 121.900 € (145.300 € el Performance): territorio Porsche Taycan",
-      "2.503 kg: el peso se nota pese a la potencia",
-      "Solo 4 plazas reales y 427 L de maletero: es un GT, no un familiar",
-      "Marca con imagen aún por construir frente a Porsche o Audi",
-      "Primer año de producción: fiabilidad por demostrar",
-    ],
+    pros: ["La Dual Motor es la lógica de la gama: 678 km WLTP frente a 558 km del Performance, con un consumo oficial de 17,8-18,3 kWh/100 km frente a 21,2, sobre llantas Aero de 20 pulgadas pensadas para no castigar la autonomía en autovía.", "No recorta en carga por ser la estándar: batería NMC de 112 kWh sobre arquitectura de 800 V, pico de 350 kW en continua y paso del 10 al 80 % en 22 minutos, con 11 kW en alterna para la carga nocturna completa en unas 11 horas.", "Con 748 CV, 812 Nm y 3,9 segundos hasta 100 km/h no se queda corta en ningún adelantamiento, y cuesta 23.400 euros menos que el Performance: 121.900 frente a 145.300 euros en España, compartiendo velocidad punta limitada a 250 km/h.", "Estrena la plataforma propia Polestar Performance Architecture de aluminio encolado, con motor trasero de desarrollo interno, frenos Brembo de cuatro pistones con discos de dos piezas y una batalla de 3.054 mm que se traduce en plazas traseras de GT, no de compromiso.", "Su chasis pasivo avanzado, con amortiguadores de alta capacidad y topes de rebote hidráulicos, evita depender de la electrónica MagneRide del Performance para viajar rápido y cómodo; las primeras pruebas destacan precisamente cómo absorbe los baches sin rebotes secos."],
+    contras: ["121.900 euros siguen siendo 121.900 euros: por ese dinero Porsche vende Taycan y Audi su e-tron GT, con una red, una imagen y un valor residual que Polestar, todavía minoritaria en España, aún no puede igualar.", "Pesa 2.500 kg según la homologación oficial y mide 5.087 mm de largo con un radio de giro de 12,33 m: en un garaje estrecho o callejeando entre coches aparcados se maneja como lo que es, un GT grande, no como una berlina ágil de ciudad.", "El maletero trasero se queda en 365 litros —427 litros solo si sumas los 62 del delantero— para un coche de más de cinco metros: una maleta grande por pasajero y poco más, por mucho que el portón eléctrico ayude a cargar.", "No hay luneta trasera: mirar hacia atrás depende del retrovisor digital de 8,9 pulgadas alimentado por una cámara en el techo. Funciona, pero exige acostumbrarse a una imagen sin profundidad real y a fiarte de la electrónica en maniobras cerradas."],
     largoMm: 5090,
     anchoMm: null, // 2,06 m con retrovisores; anchura de carrocería sin verificar
     altoMm: 1420,
@@ -320,24 +297,26 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Polestar 5, GT eléctrico de 4 puertas, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Polestar 5, vista lateral, silueta de gran turismo",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Polestar 5, asientos Recaro",
         "ancho": 1200,
         "alto": 800
       }
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin evaluación Euro NCAP publicada para el Polestar 5 a fecha de esta revisión: CarExpert, Complete Car y Auto Express coinciden en que permanece sin probar por Euro NCAP. Que el Polestar 2, el 3 y el 4 hayan logrado cinco estrellas no permite trasladar esa nota a este modelo, por mucho que la marca lo haya desarrollado con ese objetivo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según Polestar, el Polestar 5 no requiere mantenimiento en general durante hasta 2 años o 30.000 km. El diagnóstico de a bordo avisa si hace falta alguna intervención adicional y las actualizaciones over-the-air mantienen al día el sistema operativo, las aplicaciones y los sistemas del coche. El servicio se apoya en la red de Volvo Cars, con cientos de puntos en Europa a una distancia media de 11 km, y todo Polestar 5 nuevo incluye 3 años de asistencia en carretera gratuita 24/7.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.polestar.com/es/polestar-5/specifications/"},
   },
   {
     id: "polestar-2-long-range-precio-ficha-tecnica",
@@ -345,7 +324,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-long-range-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-long-range-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -409,7 +388,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-long-range-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Long Range",
         "ancho": 1200,
         "alto": 800
@@ -428,7 +407,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -492,7 +471,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-long-range-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Long Range Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -511,7 +490,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-2-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-2-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "gZ5szegzEOA",
     videoCanal: "carwow España (JF Calero)",
     marca: "Polestar",
@@ -575,7 +554,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-2-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 2 Performance",
         "ancho": 1200,
         "alto": 800
@@ -594,7 +573,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Sbw04eT8-8Y",
     videoCanal: "SoyMotor",
     marca: "Polestar",
@@ -610,20 +589,8 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     bateriaKwh: 106, // CATL
     cargaRapidaKw: 350, // 800 V; 10-80 % en 22 min
     etiquetaDgt: "Cero",
-    pros: [
-      "544 CV, 800 V y 350 kW: el SUV eléctrico que carga en 22 minutos",
-      "635 km WLTP: más autonomía que el Rear Motor pese a la tracción total",
-      "Motor trasero de desarrollo propio con reparto deportivo",
-      "Diferencial trasero mecánico y suspensión neumática de serie",
-      "Bowers & Wilkins de 25 altavoces y Android Automotive",
-    ],
-    contras: [
-      "91.900 € de acceso: 10.000 € más que el Rear Motor",
-      "Unas 2,6 toneladas: el consumo real supera los 20 kWh/100 km",
-      "Maletero de 484 l, justo para 4,90 m",
-      "Red comercial mínima en España",
-      "Casi sin botones físicos: todo por la pantalla de 14,5\"",
-    ],
+    pros: ["544 CV entre los dos motores y 0 a 100 km/h en 4,7 s: el Dual Motor empuja como un deportivo, pero sin renunciar a 635 km WLTP, más que los 593 km del Performance.", "Con la arquitectura de 800 V del Model Year 2026 carga a 350 kW y pasa del 10 al 80 % en 22 minutos; en viaje largo la parada dura lo que un café, no media hora.", "El motor trasero es de desarrollo propio de Polestar y el delantero, asíncrono, se desconecta cuando no hace falta: tracción total cuando la pides y eficiencia de tracción trasera circulando tranquilo.", "Cinco estrellas Euro NCAP en 2025 con un 93 % en protección infantil, la nota más alta de un turismo en nueve años, y premio al coche ejecutivo más seguro de su clase ese año.", "Suspensión neumática y reparto de par con sesgo trasero: en un SUV de 4,90 m se nota más ágil de lo que sugiere su tamaño al enlazar curvas."],
+    contras: ["91.900 € de partida: son 10.000 € más que el Rear Motor de 81.900 €, y la diferencia solo se amortiza si de verdad vas a usar la tracción total y los 544 CV.", "484 litros de maletero trasero resultan justos para un SUV de 4,90 m pensado para viajar en familia; el hueco delantero ayuda, pero no compensa del todo.", "Prácticamente todo se maneja desde la pantalla central de 14,5 pulgadas, sin mandos físicos para funciones básicas: obliga a apartar la vista más de lo deseable.", "La red comercial y de servicio de Polestar en España sigue siendo mínima comparada con la de BMW, Mercedes o Audi, algo a tener en cuenta lejos de las grandes ciudades."],
     largoMm: 4900,
     anchoMm: 1968,
     altoMm: 1614,
@@ -658,7 +625,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 3 Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -670,6 +637,8 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {"estrellas": 5, "ano": 2025, "url": "https://www.euroncap.com/press-media/polestar-3-suv-sets-the-standard-for-child-safety/", "nota": "Resultado Euro NCAP verificado para este modelo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Polestar programa el servicio recomendado cada 24 meses o 30.000 km, lo que antes se cumpla, según su documentación de Estado y Garantía; el propio coche avisa en la pantalla del conductor cuando toca. La operación incluye la sustitución del filtro de aire del habitáculo y las comprobaciones de estado y funcionamiento del programa, y debe hacerse en un punto de servicio autorizado Polestar: es requisito para mantener la garantía y el único cauce válido para intervenir en los componentes de alta tensión. No hay aceite de motor que cambiar, pero frenos, neumáticos y refrigeración de la batería siguen necesitando esa revisión bienal.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Polestar, manual del Polestar 3 2025 (Mantenimiento y reparaciones / Programa de servicio recomendado) y documentos Estado y Garantía de Polestar: https://www.polestar.com/es/manual/polestar-3/2025/article/47d2c97fd33effd3c0a8cc3718c999b7-78dc049ace167626c0a8b04a76a3614f-8664b2fa77a7e089c0a8296870d1a409/"},
   },
   {
     id: "polestar-3-performance-precio-ficha-tecnica",
@@ -677,7 +646,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-3-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-3-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Sbw04eT8-8Y",
     videoCanal: "SoyMotor",
     marca: "Polestar",
@@ -741,7 +710,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-3-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 3 Performance",
         "ancho": 1200,
         "alto": 800
@@ -760,7 +729,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0xc14rGySkM",
     videoCanal: "Motorpasión",
     marca: "Polestar",
@@ -824,7 +793,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-4-suv-dual-motor-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 4 SUV Dual Motor",
         "ancho": 1200,
         "alto": 800
@@ -843,7 +812,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/polestar-5-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/polestar-5-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "7bQrfaUAq3A",
     videoCanal: "AutoEV",
     marca: "Polestar",
@@ -859,20 +828,8 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     bateriaKwh: 112, // 106 kWh útiles
     cargaRapidaKw: 350, // 800 V; 10-80 % en 22 min
     etiquetaDgt: "Cero",
-    pros: [
-      "884 CV y 1.015 Nm: el coche de producción más potente de Polestar",
-      "0-100 en 3,2 s: cifras de superdeportivo en un GT de 4 puertas",
-      "800 V y 350 kW: 10-80 % en 22 minutos",
-      "Chasis de aluminio propio y suspensión adaptativa",
-      "Asientos Recaro y frenos de altas prestaciones",
-    ],
-    contras: [
-      "145.300 €: 23.400 € más que el Dual Motor por 113 km menos de autonomía",
-      "565 km WLTP frente a 678 km del Dual Motor",
-      "2.503 kg: el peso limita la agilidad en tramo",
-      "Solo 4 plazas y 427 l de maletero",
-      "Primer año de producción: fiabilidad por demostrar",
-    ],
+    pros: ["Con 884 CV y 1.015 Nm es el Polestar de serie más potente: el motor trasero es desarrollo propio y empuja a este GT de cuatro puertas hasta los 100 km/h en 3,2 segundos", "La batería de 112 kWh sobre arquitectura de 800 V admite 350 kW en continua y pasa del 10 al 80 % en 22 minutos, una parada corta para un coche de 565 km WLTP", "Amortiguadores MagneRide semiactivos específicos de esta versión, frente a la suspensión pasiva del Dual Motor, para contener una carrocería de 5,09 metros sin renunciar al viaje largo", "Plataforma PPA de aluminio encolado creada solo para el 5, no compartida con otros modelos del grupo, con los asientos delanteros desarrollados junto a Recaro", "Equipo Bowers & Wilkins de 21 altavoces de serie en el Performance, un extra que en el Dual Motor se paga aparte"],
+    contras: ["145.300 € en España: son 23.400 € más que el Dual Motor de 121.900 € y, a cambio, la autonomía WLTP baja de 678 a 565 km", "2.503 kg declarados en ficha: por mucha MagneRide que lleve, ese peso se nota en frenadas repetidas y en cambios de apoyo cerrados", "427 litros de maletero en total para una berlina de 5,09 metros resultan justos si se viaja con cuatro adultos y su equipaje", "No hay luneta trasera: mirar hacia atrás depende siempre de la cámara y del retrovisor digital, algo que no convence a todo el mundo al aparcar"],
     largoMm: 5090,
     anchoMm: null,
     altoMm: 1420,
@@ -907,7 +864,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/polestar-5-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Polestar 5 Performance con asientos Recaro",
         "ancho": 1200,
         "alto": 800
@@ -919,5 +876,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin ensayo publicado de Euro NCAP para el Polestar 5 a fecha de esta revisión: las pruebas consultadas lo dejan como no evaluado también en ANCAP y señalan que la marca lo desarrolló con objetivo de cinco estrellas, pero eso no es una nota obtenida y no se le asigna ninguna."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el documento Estado y Garantía del Polestar 5, el servicio recomendado por la marca se hace cada 24 meses o 30.000 km, lo que ocurra antes. Incluye la sustitución del filtro de aire del habitáculo y las comprobaciones de estado y funcionamiento del programa de mantenimiento, y el coche avisa del vencimiento con un recordatorio en pantalla. No consta un precio cerrado de ese servicio en la documentación consultada.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.polestar.com/dato-assets/11286/1777368868-26w17-ps5-swb-6-es_es.pdf"},
   },
 ];

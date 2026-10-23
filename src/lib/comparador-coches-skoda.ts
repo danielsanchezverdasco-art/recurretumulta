@@ -10,7 +10,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -77,12 +77,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Elroq 85",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -91,7 +86,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -158,12 +153,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Elroq RS",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -172,7 +162,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -239,21 +229,16 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Enyaq 85",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
     id: "skoda-enyaq-rs-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -269,20 +254,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 77,
     cargaRapidaKw: 185,
     etiquetaDgt: "Cero",
-    pros: [
-      "340 CV y 0-100 en 5,4 s: el Enyaq más deportivo",
-      "Tracción total con dos motores eléctricos",
-      "562 km de autonomía pese a la potencia",
-      "Carga rápida de 185 kW en corriente continua",
-      "Chasis rebajado y estética RS diferenciada"
-    ],
-    contras: [
-      "49.920 € de precio de partida",
-      "2.236 kg de peso en orden de marcha",
-      "Consumo de 15,8 kWh/100 km, el más alto de la gama",
-      "El Coupé RS es más exclusivo por poco más",
-      "Rivales premium con mejor imagen de marca"
-    ],
+    pros: ["El RS del restyling Modern Solid: frontal Tech-Deck en negro brillante y faros Matrix LED de serie", "Dos motores y 340 CV con el 0-100 km/h en 5,4 segundos, pero con un maletero familiar de 585 litros", "Chasis deportivo rebajado 15 mm delante y 10 mm detrás, con dirección progresiva y frenos delanteros de pinzas dobles", "A 185 kW en continua recupera la batería del 10 al 80 por ciento en unos 26 minutos, según la nota de Skoda", "Cinco estrellas Euro NCAP en la reevaluación de 2025, con la variante RS 4x4 incluida en su validez"],
+    contras: ["Sus 49.920 euros lo acercan a su primo Audi Q4 e-tron, con una imagen de marca menos aspiracional", "Pesa 2.236 kilos y esa masa se nota al frenar y en carreteras de curvas, pese al chasis rebajado", "Homologa 15,8 kWh/100 km y se queda en 562 km: el Enyaq 85 trasera, con 286 CV, anuncia 580 km", "Quien prefiera la silueta cupé tendrá que pagar 2.565 euros más por el Coupé RS de la misma gama", "El amortiguador adaptativo DCC con 15 ajustes y las llantas de 21 pulgadas quedan como opciones de pago"],
     largoMm: 4660,
     anchoMm: 1879,
     altoMm: 1607,
@@ -296,17 +269,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     aprox: [],
     imagen: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 2.8,
-      seguroTercerosAnual: 650,
-      seguroAmpliadoAnual: 1150,
-      mantenimientoAnual: 450,
-      costeMensualTotal: 162,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
+    costeMensual: {"costeEnergia100km": 2.8, "costeMensualTotal": 162, "estimado": true, "mantenimientoAnual": 450, "notas": "Cálculo específico para este RS de 340 CV: a 15,8 kWh/100 km, recorrer 1.000 km al mes consume 158 kWh, que cargados en casa a 0,18 euros por kWh suman unos 28 euros. El seguro y la partida de taller son orientativos para un SUV de 2.236 kilos cuya revisión oficial llega cada dos años.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1150, "seguroTercerosAnual": 650},
     galeria: [
       {
         src: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-oficial.webp",
@@ -320,13 +283,10 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Enyaq RS",
-        ancho: 1920,
-        alto: 1280
-      }
-    ]
+      
+    ],
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "5 estrellas Euro NCAP (2025): 90 % en ocupantes adultos, 87 % en infantil, 77 % en usuarios vulnerables y 78 % en asistencias a la seguridad. La tabla de validez oficial incluye la variante SUV de 5 puertas Electric RS 4x4, esta misma versión; calificación publicada el 19/11/2025.", "url": "https://www.euroncap.com/en/results/skoda/enyaq/57984"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España, Mantenimiento del vehículo eléctrico (skoda.es)", "intervalo": "Cada 2 años, sin límite de kilómetros; el propio coche o la app MyŠkoda avisan de la revisión", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal del Enyaq", "queSeCambia": "Comprobación de la batería de tracción, diagnóstico del software del coche, verificación de los servicios de conexión y comprobación periódica de componentes, con revisión de neumáticos, frenos, líquidos y faros, según la página oficial de mantenimiento de eléctricos de Skoda España"}]},
   },
   {
     id: "skoda-enyaq-coupe-85-2026-precio-ficha-tecnica",
@@ -334,7 +294,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -350,20 +310,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 77,
     cargaRapidaKw: 175,
     etiquetaDgt: "Cero",
-    pros: [
-      "Silueta coupé con 578 km de autonomía WLTP",
-      "286 CV y 545 Nm con tracción trasera",
-      "Maletero de 570 L pese al techo descendente",
-      "Carga rápida de 175 kW en corriente continua",
-      "Más exclusivo y aerodinámico que el Enyaq normal"
-    ],
-    contras: [
-      "Desde 42.890 €: más caro que el Enyaq 85 equivalente",
-      "Menos altura libre en las plazas traseras",
-      "Maletero algo menor (570 frente a 585 L)",
-      "En torno a 2,2 toneladas de peso",
-      "El RS tienta por poco dinero más"
-    ],
+    pros: ["Homologa 578 kilómetros WLTP con la batería de 77 kWh y un gasto declarado de solo 15,0 kWh cada cien, margen holgado para enlazar Madrid y Valencia sin detenerse a recargar", "El propulsor trasero rinde 286 CV con 545 Nm inmediatos y firma el cero a cien en 6,7 segundos, cifras de berlina deportiva en un familiar de cinco plazas", "Tras la renovación de 2025 su coeficiente aerodinámico baja a 0,225, el registro más favorable de todo el catálogo actual de Skoda según el dossier oficial de la marca", "Conserva 570 litros de maletero detrás de la segunda fila a pesar de la zaga inclinada, volumen que muchos SUV coupé eléctricos rivales no alcanzan", "En un cargador de corriente continua adecuado, el dossier oficial del modelo renovado cifra en 28 minutos el paso del 10 al 80 por ciento de la batería grande"],
+    contras: ["Parte de 42.890 euros, justo 4.290 euros por encima del Enyaq 85 de carrocería SUV que figura en el mismo fichero con idéntica potencia y batería", "Esa prima por la silueta se paga además con 15 litros menos de maletero: 570 frente a los 585 litros del hermano de techo recto", "La zaga inclinada deja menos hueco sobre la cabeza de quienes ocupan la banqueta posterior, peaje habitual de esta carrocería frente al Enyaq convencional", "No hay hueco de carga bajo el capó delantero, así que el cable debe compartir sitio con el equipaje en el compartimento posterior", "Con 4.660 milímetros de longitud y 1.879 de anchura, meterse en plazas de garaje antiguas exige maniobrar con calma y espejos bien vigilados"],
     largoMm: 4660,
     anchoMm: 1879,
     altoMm: 1621,
@@ -401,19 +349,16 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Enyaq Coupé 85",
-        ancho: 1920,
-        alto: 1280
-      }
-    ]
+      
+    ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España, páginas oficiales 'Mantenimiento del vehículo eléctrico' y 'FAQ vehículos eléctricos' de eMobility (verificado el 22/10/2026): si tienes un Enyaq, revisión regular cada 2 años aunque no dependa del kilometraje, y la FAQ sitúa la revisión del Enyaq iV a los 2 años; el propio coche o la app MySkoda avisan de la cita. Skoda no publica un precio cerrado para esta inspección, por lo que todos los costes quedan en null", "intervalo": "Revisión cada 2 años, sin kilometraje asociado (intervalo que Skoda España publica para su Enyaq eléctrico)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal del Enyaq Coupé", "queSeCambia": "Se verifican los servicios de conexión y el software del coche mediante diagnóstico, además de revisar cómo está la batería de tracción, tal como recoge la página oficial de mantenimiento de vehículos eléctricos de Skoda España; al ser eléctrico puro, el cambio de aceite desaparece de la lista de operaciones"}, {"costeAproxEur": null, "nombre": "Controles de desgaste asociados a la inspección", "queSeCambia": "Revisión de frenos, suspensión y dirección, climatización, neumáticos y alumbrado dentro de la visita bienal que Skoda España describe para sus eléctricos; las piezas solo se sustituyen si la inspección detecta desgaste real"}]},
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Reevaluación Euro NCAP de noviembre de 2025: el Enyaq mantuvo las 5 estrellas bajo los criterios más estrictos, con 90 % en ocupante adulto, 87 % en infantil, 77 % en usuarios vulnerables y 78 % en asistencias. La calificación se extiende a la carrocería Coupé: Skoda sometió el Coupé a pruebas específicas de paragolpes y zaga en 2022 y las reseñas del Coupé renovado le atribuyen esa misma nota de 2025.", "url": "https://www.skoda-storyboard.com/en/press-releases/the-skoda-elroq-earns-5-star-euro-ncap-safety-rating-with-the-enyaq-and-octavia-retaining-their-top-scores/"},
   },
   {
     id: "skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
+    garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
@@ -431,20 +376,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 77,
     cargaRapidaKw: 185,
     etiquetaDgt: "Cero",
-    pros: [
-      "340 CV, 0-100 en 5,4 s y estética coupé",
-      "575 km de autonomía: el RS con más alcance",
-      "Tracción total con dos motores",
-      "Maletero de 591 L, el mayor de los RS",
-      "El tope de gama eléctrica de Skoda"
-    ],
-    contras: [
-      "52.485 € de precio de partida (tarifa 05/2026)",
-      "2.258 kg de peso en orden de marcha",
-      "Consumo de 16,2 kWh/100 km, el más alto de la gama",
-      "El Enyaq RS berlina es más barato y práctico",
-      "Competencia premium muy dura por este precio"
-    ],
+    pros: ["Estrena el frontal Modern Solid llegado del Elroq, con la Tech-Deck negra que esconde cámara y radar", "La carrocería coupé, algo más aerodinámica que la del Enyaq RS cerrado, firma los 575 km WLTP de esta ficha", "Carga en continua a 185 kW y pasa del 10 al 80 por ciento en 26 minutos en un poste rápido", "Chasis rebajado 15 mm delante y 10 mm detrás, con pinzas delanteras de doble pistón", "Puede remolcar hasta 1.400 kg con frenos, una cifra rara en un SUV eléctrico deportivo"],
+    contras: ["La caída del techo roba altura libre en la segunda fila y capacidad de carga frente al Enyaq RS de carrocería cerrada", "Pesa 2.258 kg: en un puerto de montaña la masa se nota pese a los 340 CV", "Con 52.485 € de salida ya se mide con el Tesla Model Y y el Ford Mustang Mach-E", "La amortiguación adaptativa DCC, lo que más afina el compromiso entre confort y deportividad, se paga aparte", "Su primo Cupra Tavascan VZ comparte plataforma MEB y los mismos 340 CV con un enfoque aún más deportivo"],
     largoMm: 4660,
     anchoMm: 1879,
     altoMm: 1607,
@@ -458,17 +391,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     aprox: [],
     imagen: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 2.9,
-      seguroTercerosAnual: 680,
-      seguroAmpliadoAnual: 1200,
-      mantenimientoAnual: 460,
-      costeMensualTotal: 168,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
+    costeMensual: {"costeEnergia100km": 2.9, "costeMensualTotal": 168, "estimado": true, "mantenimientoAnual": 460, "notas": "Cálculo para este Coupé RS: con su consumo homologado de 16,2 kWh/100 km y 1.000 km al mes, cargar en casa a 0,18 €/kWh sale a unos 2,9 € de electricidad por cada 100 km; seguro y mantenimiento son estimación de segmento, no tarifa oficial Skoda", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1200, "seguroTercerosAnual": 680},
     galeria: [
       {
         src: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-oficial.webp",
@@ -488,7 +411,9 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       }
-    ]
+    ],
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Calificación publicada el 19 de noviembre de 2025: 90 % en ocupantes adultos, 87 % en infantil, 77 % en usuarios vulnerables y 78 % en asistencias a la seguridad. La tabla de validez de la propia Euro NCAP incluye entre las variantes cubiertas la eléctrica RS con tracción total, la mecánica de este Coupé RS", "url": "https://www.euroncap.com/en/results/skoda/enyaq/57984"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España: páginas oficiales de mantenimiento de vehículos eléctricos y del servicio Skoda Enyaq e-Care (skoda.es). Sin precio cerrado de inspección publicado para el Enyaq renovado", "intervalo": "Inspección cada 2 años, sin que el kilometraje acorte el plazo: así lo fija Skoda España para el Enyaq", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal del Enyaq", "queSeCambia": "Comprobación de la batería de tracción y diagnóstico del software del coche, verificación de los servicios de conexión y revisión de frenos, sistema de refrigeración, propulsión, suspensión, dirección y climatización, los bloques que Skoda España enumera para sus eléctricos y para el certificado e-Care del Enyaq"}]},
   },
   {
     id: "skoda-octavia-rs-2026-precio-ficha-tecnica",
@@ -577,7 +502,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -644,12 +569,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior y maletero del Skoda Octavia Combi",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -739,7 +659,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -806,12 +726,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Superb iV",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -820,7 +735,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -887,12 +802,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Superb 2.0 TDI",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -901,7 +811,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -917,20 +827,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "265 CV y 400 Nm: el SUV familiar más rápido de Skoda",
-      "0-100 en 6,3 s con 7 plazas a bordo",
-      "Tracción total de serie",
-      "Maletero de 845 L en configuración de 5 plazas",
-      "El único RS de 7 plazas entre los generalistas"
-    ],
-    contras: [
-      "62.319 € de precio de partida",
-      "8,4 l/100 km y 190 g/km: etiqueta C",
-      "1.911 kg de peso en orden de marcha",
-      "Rivales premium (X3, GLC) por poco dinero más",
-      "El Kodiaq iV es más racional y cuesta mucho menos"
-    ],
+    pros: ["Su 2.0 TSI entrega 265 CV y 400 Nm para mover un siete plazas de 4.761 mm sin quedarse corto en ningún adelantamiento", "Firma el sprint hasta 100 km/h en 6,3 segundos y sigue empujando hasta 231 km/h, registros impropios de un familiar tan grande", "La tracción a las cuatro ruedas viene incluida de fábrica, acompañada del cambio automático DSG de siete marchas citado por Skoda", "Con cinco asientos en uso guarda 845 litros, un hueco enorme para equipaje voluminoso incluso en vacaciones con niños y perro", "DCC Plus, faros matriciales LED y dirección progresiva llegan de serie según Skoda, dotación que otros rivales cobran como extras sueltos"],
+    contras: ["Parte de 62.319 euros, un desembolso que ya pisa el territorio de un BMW X3 o un Mercedes-Benz GLC con distintivo premium", "Homologa 8,4 litros a los cien y 190 gramos de CO2 por kilómetro, así que conserva la etiqueta C de la DGT", "Pesa 1.911 kilos en orden de marcha, lastre que penaliza frenadas, neumáticos y agilidad cuando la carretera empieza a retorcerse de verdad", "La tercera fila resta muchísimo espacio de carga: los 845 litros solo aparecen cuando viaja configurado para cinco ocupantes únicamente", "Frente a él, el Kodiaq iV enchufable de la propia casa resulta más barato y eficiente para quien pueda cargar en casa"],
     largoMm: 4761,
     anchoMm: 1864,
     altoMm: 1663,
@@ -968,13 +866,9 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior de 7 plazas del Skoda Kodiaq RS",
-        ancho: 1920,
-        alto: 1280
-      }
-    ]
+      
+    ],
+    planMantenimiento: {"intervalo": "Cada 2 años o 30.000 km, lo primero que ocurra (plan de mantenimiento publicado por Skoda España)", "revisiones": [{"nombre": "Servicio de mantenimiento a los 2 años o 30.000 km", "queSeCambia": "Aceite del motor y filtro de aceite, cambio del filtro de polvo y polen, y comprobación de frenos, neumáticos, alumbrado, batería, suspensión, dirección y niveles, según detalla Skoda España", "costeAproxEur": null}, {"nombre": "Operaciones programadas en revisiones posteriores", "queSeCambia": "Según el plan programado oficial de Skoda: sustitución de bujías en motores de gasolina, cambio de aceite de la caja DSG y del embrague Haldex en versiones con tracción 4x4, y renovación del líquido de frenos", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Skoda España, página oficial 'Plan de Mantenimiento de Coche con 2 años o 30.000 Km' (skoda.es/servicios-posventa/mantenimiento-dos-anos) y catálogo oficial de servicios Skoda con el plan de mantenimiento programado, verificados el 22/10/2026; sin costes porque Skoda España no publica un precio cerrado vigente para este modelo"},
   },
   {
     id: "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica",
@@ -982,7 +876,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1049,12 +943,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Kodiaq iV",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1063,7 +952,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1130,12 +1019,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-scala-10-tsi-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Scala",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1144,7 +1028,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-epiq-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-epiq-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1211,12 +1095,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-epiq-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Skoda Epiq",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1225,7 +1104,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1292,12 +1171,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Skoda Fabia Monte Carlo",
-        ancho: 1920,
-        alto: 1280
-      }
+      
     ]
   },
   {
@@ -1387,7 +1261,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1403,20 +1277,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "38.300 €: el familiar definitivo",
-      "640 L de maletero",
-      "150 CV con 5,0 l/100 km",
-      "Etiqueta ECO",
-      "8,6 s de 0-100",
-    ],
-    contras: [
-      "1.700 € más que la berlina",
-      "225 km/h: 4 menos que la berlina",
-      "114 g/km",
-      "El Superb Combi es más grande pero mucho más caro",
-      "Diseño familiar, poco emocional",
-    ],
+    pros: ["Maletero de 640 litros en un familiar de 4.698 mm: carga bicis, carrito y maletas sin recurrir a un SUV ni abatir asientos en el uso diario", "150 CV y 250 Nm con 0 a 100 km/h en 8,6 s: adelanta y se incorpora con margen incluso viajando cinco ocupantes, sin ser un RS", "Consumo homologado de 5,0 l/100 km y 114 g/km con etiqueta ECO por su sistema mild-hybrid de 48 V, útil frente a restricciones urbanas", "La cuarta generación revalidó las 5 estrellas Euro NCAP en 2022, con un 86 % en ocupante adulto y un 84 % en ocupante infantil"],
+    contras: ["Es mild-hybrid, no híbrido completo: el apoyo eléctrico de 48 V no permite circular tramos en modo eléctrico como un León o un Corolla híbrido convencional", "Esta versión de 150 CV es solo de tracción delantera y cambio automático DSG: no hay opción manual ni 4x4, reservada en la gama a motores superiores", "Depósito de solo 45 litros para un coche pensado para viajar cargado: obliga a repostar antes de lo esperable en rutas largas por autovía", "Con 38.300 € de partida ya no es el familiar barato de antes: a igualdad de motor, un León Sportstourer o un Golf Variant entran en la misma conversación de compra"],
     largoMm: 4698,
     anchoMm: 1829,
     altoMm: 1468,
@@ -1454,13 +1316,9 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Octavia Combi 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
+      
+    ],
+    euroncap: {"estrellas": 5, "ano": 2022, "url": "https://cdn.euroncap.com/media/80164/euroncap-2022-škoda-octavia-datasheet.pdf", "nota": null},
   },
   {
     id: "skoda-superb-15-tsi-2026-precio-ficha-tecnica",
@@ -1468,7 +1326,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1535,12 +1393,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-superb-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Superb 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1630,7 +1483,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Skoda",
@@ -1697,12 +1550,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Kodiaq 1.5 TSI mHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1711,7 +1559,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "B0CdYl4RtFY",
     videoCanal: "coches.net",
     marca: "Skoda",
@@ -1778,12 +1626,7 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Kamiq 1.0 TSI",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1873,7 +1716,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "MgBwUVpt4Go",
     videoCanal: "AutoScout24",
     marca: "Skoda",
@@ -1889,20 +1732,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
-    pros: [
-      "40.610 €: el SUV eléctrico familiar de Skoda",
-      "204 CV y 310 Nm con tracción trasera",
-      "433 km WLTP",
-      "Carga rápida de 165 kW",
-      "Maletero de 585 L",
-    ],
-    contras: [
-      "8,1 s de 0-100: sin prisas",
-      "160 km/h de máxima",
-      "2.002 kg",
-      "El Enyaq 85 tiene más autonomía y potencia",
-      "40.610 € de partida",
-    ],
+    pros: ["Con 585 litros tras los cinco asientos, la zaga vertical del SUV admite mejor una silla infantil desmontada o equipaje voluminoso que la caída coupé.", "Declarar 15,5 kWh/100 km con 2.002 kilos explica los 433 kilómetros WLTP obtenidos de una batería de 63 kWh.", "En corriente continua acepta hasta 165 kW, así que la batería pequeña también se beneficia de paradas breves en cargadores rápidos.", "Cuesta 40.610 euros, exactamente 2.280 euros menos que su hermano Coupé 60 ofreciendo idénticos 204 CV traseros.", "La batería queda cubierta ocho años o 160.000 kilómetros hasta un 70 % de capacidad, respaldo relevante en reventa familiar."],
+    contras: ["Acelera de cero a cien en 8,1 segundos: suficiente en incorporaciones, pero sin margen deportivo cuando viaja cargado con cinco ocupantes.", "La velocidad punta está limitada a 160 km/h, techo habitual en eléctricos MEB que penaliza menos en España que en autobahn.", "Frente al Enyaq 85 de batería mayor, estos 63 kWh obligan a planificar más recargas en rutas interurbanas extensas.", "Solo hay tracción trasera en este 60; quien necesite motricidad integral para nieve deberá saltar a otra versión.", "Sus 4.658 milímetros de largo y 1.879 de ancho complican plazas estrechas de garajes antiguos madrileños."],
     largoMm: 4658,
     anchoMm: 1879,
     altoMm: 1622,
@@ -1940,13 +1771,9 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/skoda-enyaq-60-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Skoda Enyaq 60",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
+      
+    ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España, páginas oficiales 'Mantenimiento del vehículo eléctrico' y 'FAQ vehículos eléctricos' (verificado el 22/10/2026): para el Enyaq se indica revisión regular cada 2 años sin depender del kilometraje y, en la FAQ, revisión del Enyaq iV a los 2 años; no se publica un precio cerrado para esta inspección, por lo que el coste queda en null", "intervalo": "Cada 2 años, sin depender del kilometraje (plan oficial Skoda España para el Enyaq eléctrico)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal del Enyaq", "queSeCambia": "Revisión regular cada 2 años en Servicio Oficial Skoda: comprobación de la batería de tracción, diagnóstico del software del coche y verificación de los servicios de conexión, según publica Skoda España para el Enyaq; se sustituye lo que la inspección detecte desgastado, sin cambio de aceite al ser eléctrico puro"}, {"costeAproxEur": null, "nombre": "Controles asociados a la inspección", "queSeCambia": "Dentro de la revisión del vehículo eléctrico, Skoda contempla la comprobación de batería, sistemas eléctricos y elementos de seguridad y desgaste habituales (frenos, neumáticos, alumbrado y líquidos), con sustitución solo si el estado lo exige"}]},
   },
   {
     id: "skoda-enyaq-coupe-60-2026-precio-ficha-tecnica",
@@ -1970,20 +1797,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
-    pros: [
-      "42.890 €: el SUV coupé eléctrico de Skoda",
-      "204 CV y 310 Nm con tracción trasera",
-      "442 km WLTP, 9 más que el Enyaq normal",
-      "Carga rápida de 165 kW",
-      "Maletero de 570 L pese al techo coupé",
-    ],
-    contras: [
-      "8,1 s de 0-100: sin prisas",
-      "160 km/h de máxima",
-      "2.006 kg",
-      "2.280 € más que el Enyaq 60 normal",
-      "Menos altura libre en las plazas traseras",
-    ],
+    pros: ["La caída del techo desde el pilar B recorta el gasto a 15,1 kWh/100 km, cuatro décimas por debajo del Enyaq 60 de carrocería cerrada.", "Esa silueta más limpia estira la homologación hasta 442 km WLTP reutilizando la misma batería de 63 kWh de su hermano convencional.", "Aun con el portón inclinado conserva 570 litros de carga, apenas 15 menos que la zaga vertical del Enyaq 60 ordinario.", "Es la vía más barata para entrar en la silueta coupé del Enyaq: 42.890 euros frente a escalones 85 y RS mucho más costosos.", "Su pariente Volkswagen ID.5 comparte base MEB, pero la propuesta checa mantiene soluciones Simply Clever y un enfoque familiar menos minimalista."],
+    contras: ["Abonar 2.280 euros extra sobre el Enyaq 60 ordinario compra imagen y nueve kilómetros WLTP adicionales, sin ganar potencia ni capacidad de batería.", "Pasajeros traseros altos viajarán más encajados: la línea descendente roba espacio para la cabeza respecto a la carrocería de techo recto.", "Quien cargue bultos hasta arriba pierde 15 litros frente al maletero de 585 del SUV y aprovecha peor la altura disponible junto al portón.", "Una aceleración de 8,1 segundos resulta discreta para semejante silueta deportiva, lastrada por unos 2.006 kilos que también se notan frenando.", "La luneta posterior, pequeña y muy tendida, obliga a fiar maniobras y aparcamientos a la cámara trasera más que en el Enyaq normal."],
     largoMm: 4658,
     anchoMm: 1879,
     altoMm: 1623,
@@ -2027,6 +1842,8 @@ export const COCHES_SKODA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España, página oficial 'Mantenimiento del vehículo eléctrico' (skoda.es, verificado el 22/10/2026): indica revisión regular del Enyaq cada 2 años independientemente del kilometraje; la marca no publica tarifa cerrada para esta inspección, por lo que los costes quedan en null", "intervalo": "Revisión cada 2 años, sin que el kilometraje acorte ese plazo (indicación oficial de Skoda España para el Enyaq eléctrico)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal programada", "queSeCambia": "Revisión de la batería de alto voltaje, diagnóstico electrónico y chequeo de conectividad, tareas que Skoda España enumera para sus eléctricos; no hay aceite de motor que sustituir al carecer de propulsor térmico, y solo se recambia lo desgastado"}, {"costeAproxEur": null, "nombre": "Controles de desgaste en la misma visita", "queSeCambia": "Inspección de frenos, neumáticos, alumbrado, niveles y climatización, con recambio únicamente cuando el desgaste comprobado lo requiera; Skoda ofrece además revisiones estacionales centradas en esos mismos elementos"}]},
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "EuroNCAP 5 estrellas (2025): 90 % adultos, 87 % infantiles, 77 % usuarios vulnerables, 78 % asistencias. La tabla de validez de Euro NCAP incluye la carrocería 5 puertas Hatchback Electric-60 4x2, que corresponde a este Coupé 60, por lo que la calificación sí se le extiende.", "url": "https://www.euroncap.com/en/results/skoda/enyaq/57984"},
   },
 ];

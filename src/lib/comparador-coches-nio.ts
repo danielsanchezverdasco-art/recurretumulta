@@ -17,11 +17,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -34,20 +34,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "490 CV y 0-100 en 4,0 s: la berlina eléctrica china más rápida de su precio",
-      "590 km WLTP con la batería de 100 kWh: autonomía de viaje real",
-      "Batería intercambiable en 5 minutos en las Power Swap Stations (solo con BaaS)",
-      "Interior con pantalla AMOLED de 12,8\", sonido 7.1.4 de 23 altavoces y asientos con masaje",
-      "5 estrellas Euro NCAP y LiDAR de serie: arsenal tecnológico de buque insignia",
-    ],
-    contras: [
-      "68.500 € en Alemania con la batería grande: ya no es un chollo chino",
-      "Nio aún no vende en España: solo Alemania, Países Bajos, Noruega, Suecia, Dinamarca y Portugal",
-      "La red de Power Swap en Europa es mínima: el intercambio de baterías es casi anecdótico",
-      "Carga rápida en continua mejorable frente a rivales de 800 V",
-      "Marca poco conocida y red de servicio escasa en Europa",
-    ],
+    pros: ["Su mejor argumento se nota al salir de un semáforo. Con tracción a las cuatro ruedas, 490 CV y 700 Nm, esta berlina necesita 4,0 segundos para llegar a 100 km/h y sigue empujando hasta 200 km/h.", "El alcance homologado se queda en 590 km. Esa cifra procede del pack de 100 kWh, el grande de la gama, y cambia el uso diario: varios días urbanos caben entre recarga y recarga.", "El acumulador no tiene por qué comprarse junto con el coche. Si se paga una cuota mensual por él —la fórmula BaaS de la marca—, el ET5 puede entrar en una cabina automatizada, dejar el pack agotado y marcharse con uno cargado sin conectar ningún cable.", "Por dentro no imita a una berlina alemana clásica. Preside el salpicadero una AMOLED de 12,8 pulgadas, el audio reparte 23 altavoces en esquema 7.1.4 y los asientos ofrecen masaje, un equipamiento más propio de un segmento superior.", "En las pruebas de Euro NCAP obtuvo la nota máxima de cinco estrellas. Aparte queda el lidar, incluido de fábrica, que vigila lo que ocurre por delante del coche y alimenta sus asistentes de conducción."],
+    contras: ["El precio alemán de esta versión, 68.500 €, desmonta cualquier expectativa de ganga oriental. Por ese dinero el comprador ya compara contra berlinas eléctricas europeas y norteamericanas muy asentadas, no contra coches baratos.", "Para quien vive en España, adquirirlo aún exige salir del país. Portugal es el destino más cercano de un mapa comercial reducido que se completa, hacia el norte, con Dinamarca, Suecia, Noruega, Países Bajos y Alemania.", "Las cabinas automatizadas para dejar un pack y recoger otro siguen siendo una rareza en suelo europeo. Así que, mientras no haya una cerca, la rutina real del propietario español será la de siempre: enchufe en casa o cargador público.", "Recuperar energía en corriente continua no es su punto fuerte. Le falta el plus de velocidad que dan las arquitecturas de 800 voltios, y eso se traduce en esperas menos competitivas cuando el viaje depende de una parada breve.", "Los 475 litros del maletero engañan menos por volumen que por forma. Al ser una berlina de tres volúmenes no hay portón amplio: entran maletas sin problema, pero un bulto rígido y alto se negocia peor que en su variante familiar Touring o en un SUV."],
     largoMm: 4790,
     anchoMm: 1960,
     altoMm: 1499,
@@ -59,7 +47,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.5,
@@ -74,35 +62,36 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET5 2025, berlina eléctrica, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio ET5 2025, salpicadero minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET5 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Sin revisión anual única fijada en el manual europeo: NIO prescribe operaciones por componente según tiempo o kilometraje, a realizar en un NIO Service Center", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución completa del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Refrigerante del sistema de propulsión", "queSeCambia": "Comprobación como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si no cumple el estándar técnico de NIO; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste como máximo al 10.º año o a los 200.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución cada 200.000 km"}]},
   },
   {
     id: "nio-et5-touring-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
     imagenInteriorOficial: "/media/nio-et5-touring-2025-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Touring",
     tipo: "Eléctrico",
     categoria: "Familiar",
@@ -115,20 +104,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "El primer familiar 100 % eléctrico premium del mercado: 490 CV con 450 L de maletero",
-      "560 km WLTP con la batería de 100 kWh y 1.300 L con los asientos abatidos",
-      "Diseñado en Europa para Europa: techo panorámico de 1,35 m² y enganche de remolque de 1.400 kg",
-      "Batería intercambiable en 5 minutos en las Power Swap Stations (solo con BaaS)",
-      "5 estrellas Euro NCAP, LiDAR y NOMI Halo de serie",
-    ],
-    contras: [
-      "68.500 € en Alemania con la batería grande: rivaliza en precio con un BMW i4",
-      "Nio aún no vende en España: solo Alemania, Países Bajos, Noruega, Suecia, Dinamarca y Portugal",
-      "El familiar apenas penaliza la autonomía (-30 km frente a la berlina), pero el precio sí sube",
-      "Red de servicio y de Power Swap muy limitada en Europa",
-      "Marca poco conocida: la reventa es una incógnita",
-    ],
+    pros: ["El portón posterior es lo que lo distingue de la berlina. Con cinco plazas en uso, el maletero ofrece 450 litros. Al abatir la fila trasera, el espacio sube a 1.300 litros. Añade un enganche capaz de arrastrar 1.400 kilos, útil para llevar una caravana pequeña en vacaciones", "La batería de mayor capacidad llega a 100 kWh. La autonomía se anuncia en 560 kilómetros. El techo panorámico suma 1,35 metros cuadrados de cristal sobre el habitáculo", "La mecánica eléctrica suma 490 CV entre sus dos motores. El par llega a 700 Nm y se reparte entre ambos ejes. Con ese empuje, el sprint hasta 100 km/h se cierra en 4 segundos", "La batería no tiene por qué ser tuya en propiedad. Con la suscripción BaaS, el coche entra en una cabina automatizada de la marca, se le retira el paquete descargado y sale con otro ya listo. La operación ronda los cinco minutos y evita depender de una recarga en ruta", "Euro NCAP le concedió cinco estrellas. Por otro lado, el sistema de percepción incorpora lidar de serie. El asistente NOMI Halo también forma parte del equipamiento inicial"],
+    contras: ["En Alemania, el precio de partida se sitúa en 68.500 euros. Por ese dinero ya entras en el territorio de un BMW i4. La diferencia es que el alemán no se ofrece con esta silueta familiar", "De momento, sus mercados europeos se limitan a Portugal, Dinamarca, Suecia, Noruega, Países Bajos y Alemania. España queda fuera de esa lista. Para un comprador español, eso complica tanto la entrega como cualquier gestión posterior", "Elegir la carrocería abierta por detrás tiene un coste en eficiencia. Respecto a la berlina, se pierden 30 kilómetros de autonomía. Y la factura, además, también resulta más alta en el Touring", "La posventa todavía tiene una presencia muy reducida en Europa. Las cabinas para sustituir la batería tampoco abundan fuera de unos pocos enclaves. Si vives lejos de esos puntos, cada intervención puede convertirse en un desplazamiento serio", "Su valor futuro es hoy una incógnita difícil de despejar. La marca apenas tiene recorrido entre compradores europeos. Eso añade riesgo a la hora de venderlo de segunda mano frente a rivales asentados"],
     largoMm: 4790,
     anchoMm: 1960,
     altoMm: 1499,
@@ -140,7 +117,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.6,
@@ -155,7 +132,7 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et5-touring-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET5 Touring 2025, familiar eléctrico, vista trasera",
         "ancho": 1920,
         "alto": 1280
@@ -167,23 +144,24 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1184
       },
       {
-        "src": "/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET5 Touring 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución solo si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 5.º año o a los 100.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 10.º año o a los 200.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}]},
   },
   {
     id: "nio-et7-2024-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-et7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-et7-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -196,20 +174,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: 126, // oficial NIO (lista de precios DE): 140 kW con 75 kWh, 126 kW con 100 kWh
     etiquetaDgt: "Cero",
-    pros: [
-      "653 CV y 850 Nm: la berlina eléctrica china que planta cara al Tesla Model S",
-      "580 km WLTP con la batería de 100 kWh (y hasta ~1.000 km NEDC con la de 150 kWh)",
-      "Suspensión neumática inteligente, CDC y Cx de 0,208: confort de berlina de representación",
-      "LiDAR, 33 sensores y 4 Nvidia Drive Orin: el arsenal de conducción asistida más completo",
-      "Interior de lujo con 23 altavoces, asientos con masaje y NOMI, el asistente con cara",
-    ],
-    contras: [
-      "90.900 € en Alemania con la batería de 100 kWh: precio de alemán premium",
-      "Nio aún no vende en España: solo Alemania, Países Bajos, Noruega, Suecia, Dinamarca y Portugal",
-      "La batería de 150 kWh (la de los 1.000 km) apenas se ofrece y carga a solo 90 kW de pico",
-      "Red de servicio mínima en Europa y reventa incierta",
-      "5,10 m de largo: aparcarlo en ciudad es un deporte de riesgo",
-    ],
+    pros: ["Con 653 CV, 850 Nm y tracción total firma 3,8 s de 0 a 100 km/h pese a pesar 2.379 kg: empuje de deportiva en una berlina de 5.101 mm orientada a devorar autovía.", "La batería de 100 kWh de esta versión homologa 580 km WLTP, la autonomía que realmente sirve para viajar en Europa sin depender de la escasa batería de 150 kWh.", "Un Cx de solo 0,208, el conjunto Aquila con LiDAR y 33 sensores y un interior con asistente NOMI y 23 altavoces lo ponen como alternativa tecnológica a Tesla Model S, BMW i7 y Mercedes EQS.", "Donde hay Power Swap Station puede cambiar la batería descargada por otra cargada en unos 5 minutos y seguir ruta, una solución que ningún rival directo ofrece en Europa."],
+    contras: ["Los 90.900 € con la batería de 100 kWh ya son precio de premium alemán, pero sin la capilaridad comercial ni el valor de reventa que esas marcas tienen en España.", "La carga rápida de 126 kW según la ficha se queda corta para su segmento: la batería de 100 kWh necesita unos 40 minutos del 10 al 80 %, frente a más de 200 kW en i7 y EQS.", "Con 1.987 mm de anchura y más de 5,10 m de longitud, aparcarlo o moverlo por garajes y calles estrechas en ciudad exige mucha más atención que en una berlina media.", "Sin venta oficial en España y con red de servicio e intercambio todavía muy reducida en Europa, cualquier revisión o avería obliga a depender de Alemania, Países Bajos o los países nórdicos."],
     largoMm: 5101,
     anchoMm: 1987,
     altoMm: 1509,
@@ -221,7 +187,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-et7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.6,
@@ -236,19 +202,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio ET7, berlina insignia eléctrica, vista frontal",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio ET7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-et7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio ET7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -260,11 +226,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el6-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el6-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL6",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -277,20 +243,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "490 CV y 0-100 en 4,5 s en un SUV familiar de 4,85 m: prestaciones de deportivo",
-      "529 km WLTP con la batería de 100 kWh y maletero de 579 L (1.430 L abatido)",
-      "Asientos Ultra-Fit con masaje shiatsu de 8 puntos y modo lounge de 160°",
-      "5 estrellas Euro NCAP, LiDAR y 33 sensores: seguridad y asistencia de primer nivel",
-      "Batería intercambiable en 5 minutos en las Power Swap Stations (solo con BaaS)",
-    ],
-    contras: [
-      "74.500 € en Alemania con la batería grande: más caro que un Tesla Model Y Performance",
-      "Nio aún no vende en España: solo Alemania, Países Bajos, Noruega, Suecia, Dinamarca y Portugal",
-      "En Europa se llama EL6 por el pleito con Audi (en China es ES6): confusión de nombres",
-      "Red de servicio escasa y reventa incierta en Europa",
-      "2,3 toneladas y consumo alto: la eficiencia no es su fuerte",
-    ],
+    pros: ["Empuje de gran turismo en formato familiar: 490 CV, 700 Nm y tracción total para firmar 4,5 segundos hasta 100 km/h", "Pensado para escapadas largas, combina 529 km WLTP con 579 litros tras el portón, sin renunciar a cinco plazas reales", "El confort manda a bordo: asientos Ultra-Fit con función de masaje shiatsu y una posición lounge muy reclinada para descansar entre cargas", "Su carrocería esconde un LiDAR junto a una amplia red de sensores, y Euro NCAP le otorgó la máxima nota posible", "Si eliges BaaS, puedes cambiar el pack agotado por otro ya cargado en una Power Swap Station en cuestión de minutos"],
+    contras: ["La factura alemana arranca en 74.500 euros con el pack grande, por encima de lo que pide un Tesla Model Y Performance", "Comprarlo desde España resulta, por ahora, imposible: Nio no opera comercialmente aquí y concentra sus mercados europeos en unos pocos países del norte, además de Portugal", "El cambio de denominación tras el litigio con Audi —ES6 en su país de origen, EL6 aquí— complica buscar información, accesorios y comparativas", "La posventa europea sigue siendo pequeña, así que una avería puede alargarse más de lo deseable y el valor futuro como usado genera dudas razonables", "Su eficiencia queda por detrás de rivales más ligeros y la carga rápida se detiene en 130 kW, cifra discreta para un SUV de este precio"],
     largoMm: 4854,
     anchoMm: 1995,
     altoMm: 1703,
@@ -302,7 +256,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.7,
@@ -317,35 +271,36 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL6, SUV eléctrico, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL6, salpicadero minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el6-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL6, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Según el manual oficial del EL6, no hay una revisión única anual: cada elemento sigue su propio plazo en el NIO Service Center (líquido de frenos cada 3 años; aceite de la caja de cambios cada 200.000 km; controles de refrigerante, pastillas y discos por años o kilometraje, lo que ocurra antes).", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 10.º año o a los 200.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}]},
   },
   {
     id: "nio-el7-2024-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -358,20 +313,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: null, // 125-130 kW según fuente; sin dato oficial único
     etiquetaDgt: "Cero",
-    pros: [
-      "653 CV y 850 Nm: el SUV eléctrico chino más potente vendido en Europa",
-      "513 km WLTP con la batería de 100 kWh y maletero de 658 L",
-      "Suspensión neumática, CDC y remolque de 2.000 kg: un SUV de verdad, no un postureo",
-      "5 estrellas Euro NCAP, LiDAR y 7 airbags: seguridad al nivel de los alemanes",
-      "Batería intercambiable en 5 minutos en las Power Swap Stations (solo con BaaS)",
-    ],
-    contras: [
-      "94.900 € en Alemania: precio de BMW iX sin la red de BMW",
-      "Nio aún no vende en España: solo Alemania, Países Bajos, Noruega, Suecia, Dinamarca y Portugal",
-      "2.500 kg de peso: la agilidad y el consumo se resienten",
-      "En Europa se llama EL7 por el pleito con Audi (en China es ES7): confusión de nombres",
-      "Marca poco conocida y reventa incierta en el segmento premium",
-    ],
+    pros: ["Dos motores, uno por eje, suman 653 CV y 850 Nm: con tracción a las cuatro ruedas despacha el 0 a 100 en 3,9 segundos y no se detiene hasta los 200 km/h", "La homologación WLTP le atribuye 513 km de alcance máximo, una cifra que reduce la dependencia del enchufe en trayectos largos con un SUV de este tamaño", "El acumulador, de 100 kWh, no tiene por qué comprarse incorporado al coche: bajo la modalidad BaaS queda en alquiler y, llegado el momento de reponer carga, una instalación automatizada retira el conjunto exhausto y monta otro listo para circular", "Detrás de la segunda fila quedan 658 litros para cargar; con cinco plazas y 4.912 mm de longitud, está pensado para viajar en familia sin renunciar a un SUV grande", "Las pruebas europeas de choque le otorgaron la valoración más alta posible, las cinco estrellas. Al margen de ese resultado, el apartado de sensores incorpora un lidar, y la dotación de retención incluye siete airbags. A ello se suma una suspensión neumática con amortiguación CDC y una capacidad de remolque de 2.000 kg"],
+    contras: ["La tarifa alemana parte de 94.900 euros: pagas precio de marca premium consolidada sin disponer, a cambio, de una red comercial comparable en extensión", "Quien lo quiera hoy tiene que mirar hacia el norte y el centro de Europa —además de Portugal—, donde NIO sí ha abierto ventas; el mercado español, en cambio, sigue sin canal oficial para adquirirlo", "La báscula marca 2.500 kg, un lastre que exige más de los frenos, castiga los neumáticos y aleja cualquier pretensión de agilidad en carreteras de curvas", "En su país de origen se comercializa como ES7; la sigla europea EL7 responde al litigio mantenido con Audi, una dualidad que complica seguir su trayectoria y comparar versiones entre mercados", "Al tratarse de un fabricante con escasa trayectoria en el lujo europeo, nadie puede anticipar con datos cómo cotizará un EL7 usado dentro de unos años"],
     largoMm: 4912,
     anchoMm: 1987,
     altoMm: 1720,
@@ -383,7 +326,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.8,
@@ -398,35 +341,36 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL7, SUV eléctrico de lujo, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Según el manual oficial del EL7: líquido de frenos cada 3 años; comprobación de refrigerante y de pastillas a más tardar al 5.º año o a los 100.000 km; comprobación de discos al 10.º año o a los 200.000 km; aceite de la caja de cambios cada 200.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL7"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si no cumple el estándar de Nio; si no se cambia, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar al 10.º año o a los 200.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL7"}]},
   },
   {
     id: "nio-el8-2024-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-el8-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el8-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-el8-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL8",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -464,7 +408,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/nio-el8-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.9,
@@ -479,19 +423,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EL8, SUV insignia de 6 plazas, vista trasera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EL8, cabina de 6 plazas",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-el8-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EL8, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -503,11 +447,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-ec6-2024-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC6",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -545,7 +489,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/nio-ec6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.7,
@@ -560,19 +504,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EC6 2024, SUV coupé eléctrico, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EC6 2024",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec6-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EC6 2024, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -584,11 +528,11 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2RbYhsezeOw",
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC7",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -626,7 +570,7 @@ export const COCHES_NIO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.9,
@@ -641,19 +585,19 @@ export const COCHES_NIO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nio EC7, SUV coupé insignia, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Nio EC7, lujo minimalista",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nio EC7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
@@ -666,10 +610,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Standard Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -682,20 +626,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: [
-      "490 CV y 700 Nm: berlina deportiva por 59.500 € con batería incluida",
-      "456 km WLTP con 75 kWh: la versión de acceso más equilibrada",
-      "4,0 s de 0 a 100: prestaciones de deportivo alemán",
-      "Batería intercambiable en 3 minutos en las Power Swap Stations",
-      "140 kW de carga rápida y 11 kW en alterna"
-    ],
-    contras: [
-      "456 km: menos que la versión de 100 kWh (590 km)",
-      "17,9 kWh/100 km: consumo mejorable para su tamaño",
-      "Red de servicio NIO aún pequeña en España",
-      "El maletero de 475 litros no tiene portón práctico",
-      "Depreciación incierta de una marca joven en Europa"
-    ],
+    pros: ["Con dos motores, tracción total, 490 CV y 700 Nm, esta berlina de 4.790 mm firma el 0 a 100 km/h en 4,0 segundos y 200 km/h de punta, un ritmo que no esperas de la versión de acceso de 75 kWh.", "La batería de 75 kWh homologa 456 km WLTP y deja el precio en 59.500 € con la batería en propiedad, el punto justo si no necesitas pagar el salto a los 100 kWh para hacer a diario ciudad y viajes medios.", "Donde exista una Power Swap Station puedes salir con otra batería cargada en unos tres minutos en lugar de quedarte enchufado, una carta que ni el Tesla Model 3 ni el Hyundai Ioniq 6, sus rivales señalados por Euro NCAP, pueden jugar.", "Con el protocolo endurecido de 2023 logró cinco estrellas y un 96 % en protección de ocupantes adultos, y la unidad probada por Euro NCAP llevaba precisamente el pack de 75 kWh de esta ficha."],
+    contras: ["Esos 456 km WLTP se acortan frente a los 590 km que anuncia la variante de 100 kWh y el consumo oficial de 17,9 kWh/100 km castiga sobre todo en autopista, justo donde más autonomía se echa en falta.", "La carga rápida se detiene en 140 kW, y en España no puedes compensarlo con el intercambio de batería porque, según Wikipedia, las estaciones de NIO solo operan en China, Noruega y Alemania.", "A pesar de cubicar 475 litros, el maletero es el de una berlina de tres volúmenes sin portón trasero amplio, así que meter un bulto alto o una bicicleta es mucho menos práctico que en el ET5 Touring familiar.", "Con 1.960 mm de anchura entra justo en muchas plazas de garaje españolas y la red propia de NIO aquí sigue siendo testimonial, lo que complica revisiones, recambios del LiDAR del techo y reparaciones de carrocería."],
     largoMm: 4790,
     anchoMm: 1960,
     altoMm: 1499,
@@ -728,7 +660,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET5 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -749,10 +681,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET5 Touring Standard Range",
     tipo: "Eléctrico",
     categoria: "Familiar",
@@ -811,7 +743,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET5 Touring",
         "ancho": 1200,
         "alto": 800
@@ -832,10 +764,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "d3i8QcUydOA",
     videoCanal: "Auto Sensación",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET7 Standard Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -848,20 +780,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: [
-      "653 CV y 850 Nm: la berlina insignia por 81.900 €",
-      "445 km WLTP con la batería de 75 kWh",
-      "3,8 s de 0 a 100: prestaciones de superdeportivo",
-      "Interior de lujo con 5,10 m de longitud: rival del Clase S eléctrico",
-      "Batería intercambiable en las Swap Stations"
-    ],
-    contras: [
-      "445 km: la versión de 100 kWh llega a 580 km",
-      "81.900 €: precio de premium alemán consolidado",
-      "5,10 m: difícil de aparcar en ciudad",
-      "Red de servicio limitada en Europa",
-      "Sin maletero delantero aprovechable como en rivales"
-    ],
+    pros: ["Sus dos motores suman 653 CV y 850 Nm con tracción total y dejan el 0 a 100 km/h en 3,8 s, cifras de deportivo en una berlina de representación de 5.101 mm.", "Con el pack de 75 kWh homologa 445 km WLTP y admite carga rápida de hasta 140 kW, un planteamiento pensado para usarlo a diario y salir a carretera sin ir justo de autonomía.", "El pack se puede sustituir en una Power Swap Station en vez de esperar junto al cargador, una alternativa que su rival directo, el Tesla Model S, no ofrece.", "Para semejante potencia el consumo homologado se contiene en 17,7 kWh/100 km, con etiqueta Cero de la DGT y cinco plazas en un habitáculo de coche de representación."],
+    contras: ["Te quedas en 445 km WLTP frente a los 580 km de la variante de 100 kWh: en viajes largos esa diferencia se paga en paradas adicionales.", "Los 81.900 € de partida lo colocan en tarifa de premium alemán asentado, pero NIO no tiene en Europa una red comercial y de servicio comparable a la de esas marcas.", "Mide 5.101 mm de largo y 1.987 mm de ancho: en parkings estrechos, calles de barrio y maniobras en ciudad se nota en cada giro.", "El pico de carga de 140 kW se queda corto para una berlina de este precio y tamaño si tu uso habitual es enlazar tramos largos de autovía."],
     largoMm: 5101,
     anchoMm: 1987,
     altoMm: 1509,
@@ -894,7 +814,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO ET7 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -915,10 +835,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL6 Standard Range",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -931,20 +851,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: [
-      "490 CV por 65.500 €: el SUV premium eléctrico más barato de NIO",
-      "406 km WLTP: suficiente para el uso familiar",
-      "Maletero de 579 litros (1.430 abatido)",
-      "140 kW de carga rápida: 10-80% en 30 minutos",
-      "Batería intercambiable en 3 minutos"
-    ],
-    contras: [
-      "406 km: corto frente a la versión de 100 kWh (529 km)",
-      "20,1 kWh/100 km: consumo alto por peso y tamaño",
-      "65.500 €: sigue siendo precio premium",
-      "Red de talleres NIO pequeña en España",
-      "Sin 7 plazas como algunos rivales"
-    ],
+    pros: ["Con 490 CV, 700 Nm y tracción total reparte el empuje entre los dos motores y firma el 0 a 100 km/h en 4,5 segundos, un registro de SUV deportivo dentro de un familiar de 65.500 €.", "El maletero declara 579 litros y llega a 1.430 litros abatiendo la banqueta trasera 40/20/40, volumen aprovechable en un cuerpo de 4.854 mm pensado para viajar con cinco ocupantes.", "La batería de 75 kWh no solo admite carga rápida a 140 kW: también es extraíble para el sistema Power Swap de NIO, una solución que ni el BMW iX3 ni el Audi Q6 e-tron proponen a sus clientes.", "Su dotación con LiDAR sobre el techo se tradujo en resultado tangible en Euro NCAP 2024: cinco estrellas y un 93 % en protección de ocupantes adultos, la nota más alta de sus apartados de ocupante."],
+    contras: ["Esta batería de 75 kWh se queda en 406 km WLTP, 123 km menos que los 529 km homologados por el mismo EL6 con el pack de 100 kWh, así que en ruta larga tocará parar bastante antes.", "El consumo homologado de 20,1 kWh/100 km delata a un SUV grande y pesado: mantener el ritmo en autopista recorta con rapidez esa autonomía de 406 km.", "Mide 1.995 mm de anchura y solo ofrece cinco plazas, sin tercera fila opcional: en garajes estrechos maniobra con incomodidad y no sirve a quien necesita llevar a siete.", "NIO no lo lanzó comercialmente en España, sino en Alemania, Países Bajos, Noruega, Suecia y Dinamarca, por lo que comprarlo y mantenerlo desde España implica salir de su red oficial inicial."],
     largoMm: 4854,
     anchoMm: 1995,
     altoMm: 1703,
@@ -977,7 +885,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-el6-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO EL6 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -998,10 +906,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL7 Standard Range",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -1060,7 +968,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-el7-75-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del NIO EL7 Standard Range",
         "ancho": 1200,
         "alto": 800
@@ -1081,10 +989,10 @@ export const COCHES_NIO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nio-et9-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nio-et9-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0iDJiLBlrPU",
     videoCanal: "Autogefühl",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ET9",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -1143,7 +1051,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/nio-et9-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de lujo del NIO ET9 con 4 plazas",
         "ancho": 1200,
         "alto": 800

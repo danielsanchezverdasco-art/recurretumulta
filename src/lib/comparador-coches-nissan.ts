@@ -29,8 +29,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6Tmp7KVEriY",
     videoCanal: "AutoScout24 España",
     marca: "Nissan",
@@ -71,7 +71,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 142,
     aprox: ["autonomiaKm"],
-    imagen: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.03,
@@ -86,19 +86,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Qashqai 1.3 DIG-T MHEV 158 CV, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Qashqai MHEV 158 CV",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Qashqai MHEV 158 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -110,8 +110,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "pTh3bfgLEvk",
     videoCanal: "AutoScout24 España",
     marca: "Nissan",
@@ -152,7 +152,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 131,
     aprox: ["autonomiaKm"],
-    imagen: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.15,
@@ -167,19 +167,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Juke 1.0 DIG-T 114 CV, tres cuartos trasero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Juke DIG-T 114 CV",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Juke 1.0 DIG-T 114 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -191,8 +191,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -233,7 +233,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 129,
     aprox: ["autonomiaKm"],
-    imagen: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.98,
@@ -248,19 +248,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan X-Trail e-Power 204 CV, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan X-Trail e-Power 204 CV",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan X-Trail e-Power 204 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -272,8 +272,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "KxGhKTrG5Yw",
     videoCanal: "km77.com",
     marca: "Nissan",
@@ -314,7 +314,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 143,
     aprox: ["autonomiaKm"],
-    imagen: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.03,
@@ -329,19 +329,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan X-Trail e-4ORCE 213 CV, vista frontal",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan X-Trail e-4ORCE 213 CV",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan X-Trail e-4ORCE 213 CV en pista de tierra",
         "ancho": 1920,
         "alto": 1280
@@ -353,7 +353,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-leaf-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/nissan-leaf-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/nissan-leaf-2026-precio-ficha-tecnica-interior.webp",
     videoId: "UAcjGuRL-dw",
     videoCanal: "Motor.es",
@@ -395,7 +395,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/nissan-leaf-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.48,
@@ -410,7 +410,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-leaf-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nuevo Nissan Leaf 2026 eléctrico, tres cuartos trasero",
         "ancho": 1920,
         "alto": 1280
@@ -422,7 +422,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1184
       },
       {
-        "src": "/media/nissan-leaf-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nuevo Nissan Leaf 2026, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -434,8 +434,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-ariya-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-ariya-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-ariya-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "0Toni2LX43Q",
     videoCanal: "SuperMotor.Online",
     marca: "Nissan",
@@ -476,7 +476,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/nissan-ariya-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.31,
@@ -491,19 +491,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-ariya-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Ariya 87 kWh 242 CV, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-ariya-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Ariya 87 kWh",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-ariya-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Ariya eléctrico, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -515,7 +515,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-interior.webp",
     videoId: "UcQ25_hwIJQ",
     videoCanal: "Nissan",
@@ -557,7 +557,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["pesoKg"],
-    imagen: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.65,
@@ -572,7 +572,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Micra eléctrico 2026, vista lateral",
         "ancho": 1920,
         "alto": 1280
@@ -584,7 +584,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1264
       },
       {
-        "src": "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Micra eléctrico 2026, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -596,8 +596,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "M2-LPboxEBc",
     videoCanal: "Loading Cars",
     marca: "Nissan",
@@ -638,7 +638,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 154,
     aprox: ["autonomiaKm"],
-    imagen: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.9,
@@ -653,19 +653,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Townstar Combi 1.3G, vista lateral con puerta deslizante",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Townstar Combi 7 plazas",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Townstar Combi 1.3G, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -677,8 +677,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -719,7 +719,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.35,
@@ -734,19 +734,19 @@ export const COCHES_NISSAN: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Nissan Townstar EV Combi cargando",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Townstar EV",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Nissan Townstar EV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
@@ -759,7 +759,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -775,20 +775,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Hasta 9 plazas reales: la Nissan de pasajeros más grande",
-      "Motor diésel 2.0 dCi probado, con versiones de 110 y 150 CV",
-      "Consumo contenido para su tamaño: 7,0 l/100 km WLTP",
-      "Ideal para transporte de pasajeros, hoteles y familias muy numerosas",
-      "Versiones L1 y L2 para ajustar longitud y capacidad",
-    ],
-    contras: [
-      "Solo diésel: etiqueta C y futuro incierto en las ZBE",
-      "110 CV para mover 9 plazas: la versión de 150 CV es más recomendable",
-      "Comportamiento y acabados de vehículo comercial",
-      "Desde 41.716 € de tarifa: hay monovolúmenes más refinados por ese precio",
-      "Tamaño (más de 5 metros) complicado para aparcar en ciudad",
-    ],
+    pros: ["Esta versión de 110 CV entrega 300 Nm ya a 1.500 rpm: en un transfer con nueve ocupantes eso pesa más que la potencia, porque mantiene el ritmo en incorporaciones y repechos sin ir cambiando sin parar.", "Con 1.971 mm de alto en L1 y en L2, entra —justa, pero entra— en aparcamientos con gálibo de dos metros que dejan fuera a casi cualquier minibús de nueve plazas.", "Puedes elegir batalla sin cambiar de silueta: L1 de 4.999 mm y 3.098 mm entre ejes para ciudad, o L2 de 5.399 mm y 3.498 mm si el equipaje de la tercera fila manda.", "Sin las banquetas traseras libera hasta 6,0 m³ según EspacioFurgo: un día lleva al equipo completo y al siguiente hace de furgón grande para bicis, material de evento o una mudanza pequeña.", "En Euro NCAP 2025 saca un 80 % en seguridad tras el accidente y el freno autónomo de serie detecta coches, peatones y ciclistas, algo nada habitual de serie en un derivado comercial."],
+    contras: ["Los 110 CV son el escalón de acceso y se quedan cortos a plena carga: para autopista con nueve plazas y maletas, la propia gama empuja a la de 150 CV con 350 Nm.", "Solo hay diésel y lleva etiqueta C de la DGT: sin variante ECO ni CERO, quien trabaje a diario dentro de una ZBE tiene un problema que el espacio no compensa.", "Desmontar banquetas no es abatir respaldos: cada banco es pesado y voluminoso, exige dos personas y un sitio donde guardarlo, así que cambiar de 9 a 5 plazas cada día cansa.", "Parte del equipamiento de seguridad que puntúa en Euro NCAP no viene de serie: los airbags de acompañante y de cortina laterales figuran como opcionales y no hay asistente de mantenimiento de carril."],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -821,7 +809,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Primastar Combi 9 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -833,6 +821,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/v103/", "nota": "Resultado Euro NCAP verificado para este modelo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "El mantenimiento principal de esta Combi 9 2.0 dCi de 81 kW está programado cada 40.000 km o 24 meses, según los datos de ficha recogidos por TotalRenting. Es un intervalo pensado para uso profesional de kilometraje alto, pero no elimina los consumibles propios del diésel —aceite, filtros, AdBlue y neumáticos— ni conviene apurarlo si el trabajo es urbano y con trayectos cortos. Ninguna fuente consultada publica un precio cerrado de revisión para España, así que no se da una cifra: pide presupuesto en un concesionario Nissan antes de firmar.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/"},
   },
   {
     id: "nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica",
@@ -840,7 +830,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "wkR_U723Stw",
     videoCanal: "MOTORK",
     marca: "Nissan",
@@ -902,7 +892,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Leaf e+ con e-Pedal",
         "ancho": 1920,
         "alto": 1280
@@ -921,7 +911,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "WakyYEndTi0",
     videoCanal: "Emilio J. Frey",
     marca: "Nissan",
@@ -983,7 +973,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Ariya con doble pantalla",
         "ancho": 1920,
         "alto": 1280
@@ -1002,7 +992,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -1064,7 +1054,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Ariya e-4ORCE",
         "ancho": 1920,
         "alto": 1280
@@ -1083,7 +1073,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-ariya-nismo-435-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-ariya-nismo-435-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "pxYfCCVgP-o",
     videoCanal: "Autofácil",
     marca: "Nissan",
@@ -1145,7 +1135,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-ariya-nismo-435-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Nissan Ariya Nismo",
         "ancho": 1920,
         "alto": 1280
@@ -1164,7 +1154,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-micra-ev-40kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-micra-ev-40kwh-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "gEyN5lkJ9HI",
     videoCanal: "Kilómetros Eléctricos",
     marca: "Nissan",
@@ -1226,7 +1216,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-micra-ev-40kwh-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Micra eléctrico con doble pantalla",
         "ancho": 1920,
         "alto": 1280
@@ -1245,7 +1235,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -1307,7 +1297,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Nissan Townstar Evalia",
         "ancho": 1920,
         "alto": 1280
@@ -1326,7 +1316,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Nissan",
@@ -1342,20 +1332,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "170 CV y 380 Nm: el dCi más potente para 9 plazas cargadas",
-      "Hasta 9 plazas reales con maletero detrás",
-      "Consumo de 7,9 l/100 km para su tamaño",
-      "Ideal para transporte discrecional, hoteles y clubs",
-      "Motor 2.0 dCi probadísimo de la alianza Renault-Nissan",
-    ],
-    contras: [
-      "Solo diésel: etiqueta C y futuro incierto en las ZBE",
-      "Comportamiento y acabados de vehículo comercial",
-      "Precio desde ~37.540 €: hay monovolúmenes más refinados",
-      "Más de 5 metros: complicada para aparcar en ciudad",
-      "Bancos traseros pesados de desmontar",
-    ],
+    pros: ["Es el escalón que tiene sentido cuando la Combi va llena de verdad: sus 170 CV y 380 Nm mantienen el ritmo en autovía con nueve ocupantes, equipaje y el aire acondicionado puesto, justo donde una versión de menor potencia se queda sin reserva en incorporaciones y repechos.", "El dCi 170 se ofrece también con cambio automático, una combinación muy buscada en lanzaderas de hotel y traslados al aeropuerto: el conductor llega menos cansado tras una jornada de trayectos cortos y maniobras repetidas.", "Nueve plazas reales dentro de una carrocería de 5.080 mm: no necesita pasar a la batalla larga para trabajar como transporte discrecional, y eso se agradece al maniobrar en cascos urbanos y aparcamientos de hotel.", "En la reevaluación Euro NCAP de 2025 para vehículos comerciales obtuvo cuatro estrellas, con un 68 % en conducción segura, un 61 % en evitación de colisiones y un 80 % en seguridad tras el accidente.", "La ficha declara 7,9 l/100 km para un 2.0 diésel de este tamaño y potencia: en uso de lanzadera con recorridos largos a velocidad constante es una cifra defendible frente a un monovolumen de gasolina equivalente."],
+    contras: ["No hay alternativa electrificada en esta versión: es diésel puro, con etiqueta C de la DGT, y su acceso futuro a las zonas de bajas emisiones más restrictivas queda en manos de la normativa municipal, no de Nissan.", "Con tracción delantera y mucho peso concentrado atrás cuando va cargada, en firme mojado hay que acelerar con suavidad: la propia presión de neumáticos y el reparto de la carga influyen más que los caballos de sobra.", "Los 5.080 mm de longitud y el tacto general son de furgoneta comercial: acabados duros, asientos traseros pesados de desmontar si se quiere alternar pasajeros y carga, y nada del refinamiento de un monovolumen pensado para familias.", "Parte de 37.540 € según la ficha, precio aproximado y antes de equipar la unidad para trabajar: con cámara trasera y los asistentes que un servicio de pasajeros usa a diario, la factura final sube respecto a ese desde."],
     largoMm: 5080,
     anchoMm: null,
     altoMm: null,
@@ -1388,7 +1366,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Nissan Primastar Combi 9 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -1399,6 +1377,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/", "nota": "Resultado Euro NCAP verificado para este modelo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "En la familia Primastar Combi con motor 2.0 dCi, el mantenimiento principal está pautado cada 40.000 km o 24 meses, lo que antes ocurra, según los datos de ficha de TotalRenting para la Combi 9 2.0 dCi. En un dCi 170 dedicado a lanzaderas conviene no apurar ese intervalo con el filtro de partículas si predominan los trayectos cortos urbanos, y confirmar siempre la pauta exacta en el libro de mantenimiento de la unidad, porque puede variar por mercado y fecha de fabricación.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/"},
   },
 ];

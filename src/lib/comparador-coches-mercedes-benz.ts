@@ -10,7 +10,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-a-200-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-a-200-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -78,7 +78,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-a-200-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes-Benz Clase A 200, salpicadero con MBUX",
         "ancho": 1200,
         "alto": 800
@@ -172,7 +172,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-cla-250-e-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-cla-250-e-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -240,7 +240,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-cla-250-e-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes CLA 250 e Coupé",
         "ancho": 1200,
         "alto": 800
@@ -253,7 +253,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "3Jj9S-IPJmo",
     videoCanal: "Arrancamos 2.0",
     marca: "Mercedes-Benz",
@@ -338,7 +338,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes Clase E 220 d, superscreen MBUX",
         "ancho": 1200,
         "alto": 800
@@ -351,7 +351,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-e-300-e-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-e-300-e-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -419,7 +419,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-e-300-e-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes Clase E 300 e",
         "ancho": 1200,
         "alto": 800
@@ -432,7 +432,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-gla-200-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-gla-200-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -517,7 +517,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-gla-200-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes GLA 200",
         "ancho": 1200,
         "alto": 800
@@ -530,7 +530,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-glb-200-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-glb-200-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -615,7 +615,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-glb-200-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes GLB 200 con 7 plazas",
         "ancho": 1200,
         "alto": 800
@@ -730,7 +730,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-glc-220-d-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-glc-220-d-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -798,7 +798,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-glc-220-d-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes GLC 220 d 4MATIC",
         "ancho": 1200,
         "alto": 800
@@ -1054,7 +1054,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-g-500-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-g-500-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1122,7 +1122,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-g-500-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes Clase G 500",
         "ancho": 1200,
         "alto": 800
@@ -1135,7 +1135,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-eqa-250-plus-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-eqa-250-plus-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "dN6Kqcy2Sc4",
     videoCanal: "pruebatucoche.es",
     marca: "Mercedes-Benz",
@@ -1203,7 +1203,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-eqa-250-plus-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes EQA 250+",
         "ancho": 1200,
         "alto": 800
@@ -1216,7 +1216,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-eqb-350-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-eqb-350-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1284,7 +1284,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-eqb-350-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes EQB 350 4MATIC",
         "ancho": 1200,
         "alto": 800
@@ -1297,7 +1297,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-eqe-350-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-eqe-350-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1365,7 +1365,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-eqe-350-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes EQE 350",
         "ancho": 1200,
         "alto": 800
@@ -1378,7 +1378,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1446,7 +1446,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes EQE 500 4MATIC SUV",
         "ancho": 1200,
         "alto": 800
@@ -1459,7 +1459,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1527,7 +1527,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes EQS 450+ con Hyperscreen",
         "ancho": 1200,
         "alto": 800
@@ -1540,7 +1540,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1608,7 +1608,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes Clase S 500 4MATIC",
         "ancho": 1200,
         "alto": 800
@@ -1621,7 +1621,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-amg-a-45-s-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-amg-a-45-s-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "x8smO_LW7wk",
     videoCanal: "SoyMotor.com",
     marca: "Mercedes-Benz",
@@ -1689,7 +1689,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-amg-a-45-s-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes-AMG A 45 S 4MATIC+",
         "ancho": 1200,
         "alto": 800
@@ -1702,7 +1702,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-amg-c-63-s-e-performance-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-amg-c-63-s-e-performance-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1770,7 +1770,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-amg-c-63-s-e-performance-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes-AMG C 63 S E Performance",
         "ancho": 1200,
         "alto": 800
@@ -1783,7 +1783,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-amg-gt-63-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-amg-gt-63-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1851,7 +1851,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-amg-gt-63-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes-AMG GT 63 4MATIC+ Coupé",
         "ancho": 1200,
         "alto": 800
@@ -1864,7 +1864,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mercedes-benz-clase-v-300-d-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-v-300-d-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mercedes-Benz",
@@ -1932,92 +1932,11 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mercedes-benz-clase-v-300-d-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mercedes Clase V 300 d Style Largo con 6 plazas",
         "ancho": 1200,
         "alto": 800
       }
-    ],
-  },
-  {
-    id: "mercedes-benz-clase-c-200-precio-ficha-tecnica",
-    marca: "Mercedes-Benz",
-    modelo: "Clase C 200",
-    tipo: "Híbrido ligero",
-    categoria: "Berlina",
-    precioDesde: null,
-    potenciaCv: 204,
-    autonomiaKm: null,
-    maleteroL: 455,
-    ceroCien: 7.3,
-    velocidadMax: 246,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    largoMm: 4751,
-    anchoMm: 1820,
-    altoMm: 1437,
-    pesoKg: 1565,
-    consumo: 7.0,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 300,
-    traccion: "Trasera",
-    emisionesCo2: null,
-    aprox: ["pesoKg", "consumo", "parNm"],
-    pros: [
-      "La berlina premium más vendida: referencia del segmento medio",
-      "Hibridación ligera de 48 V: etiqueta ECO y 7,0 l/100 km",
-      "Interior de mini Clase S con MBUX de última generación",
-      "Confort de rodadura y silencio: el mejor viajero de su clase",
-      "204 CV (+23 CV del motor eléctrico EQ Boost) con suavidad total",
-    ],
-    contras: [
-      "Precio en España sin confirmar para 2025: hay que pedir oferta",
-      "El 1.5 de 4 cilindros suena menos noble que los antiguos 6 cilindros",
-      "Mucho equipamiento interesante solo en opción",
-      "Maletero de 455 L: menos que un BMW Serie 3",
-      "Pantalla táctil obligatoria: adiós a los botones físicos",
-    ],
-    imagen: "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-interior-oficial.webp",
-    videoId: null,
-    videoCanal: null,
-    opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 12.95,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 450,
-      "costeMensualTotal": 283,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 7,0 l/100 km WLTP (aprox.) × 1,85 €/l; seguro y mantenimiento estimados por tramo de precio en red oficial Mercedes-Benz. No son tarifas reales.",
-      "estimado": true,
-    },
-    galeria: [
-      {
-        "src": "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mercedes-Benz Clase C 200, vista tres cuartos trasera",
-        "ancho": 1200,
-        "alto": 800,
-      },
-      {
-        "src": "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-hero.webp",
-        "alt": "Mercedes-Benz Clase C 200 circulando de noche en ciudad",
-        "ancho": 1200,
-        "alto": 800,
-      },
-      {
-        "src": "/media/mercedes-benz-clase-c-200-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mercedes-Benz Clase C 200",
-        "ancho": 1200,
-        "alto": 800,
-      },
     ],
   },
   {
@@ -2026,7 +1945,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     modelo: "AMG G 63",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en la lista de precios PDF de mercedes-benz.es; precio de esta versión no verificable como texto público indexado
     potenciaCv: 585,
     autonomiaKm: null,
     maleteroL: 667,

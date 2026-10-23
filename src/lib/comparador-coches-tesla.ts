@@ -71,20 +71,20 @@ export const COCHES_TESLA: CocheComparador[] = [
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-hero.webp",
         "alt": "Tesla Model 3 Performance rojo, vista tres cuartos delantera",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 1067
       },
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Tesla Model 3 Performance blanco en carretera de montaña",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Tesla Model 3 Performance blanco, vista lateral",
+        "ancho": 1600,
+        "alto": 1067
       },
       {
         "src": "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-interior-oficial.webp",
         "alt": "Interior del Tesla Model 3 Performance",
-        "ancho": 1920,
-        "alto": 1280
+        "ancho": 1600,
+        "alto": 1067
       }
     ],
   },
@@ -272,20 +272,8 @@ export const COCHES_TESLA: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 250,
     etiquetaDgt: "Cero",
-    pros: [
-      "622 km WLTP: la versión del Model Y con mejor relación autonomía-precio",
-      "347 CV con tracción trasera y solo 14,2 kWh/100 km",
-      "Batería útil de 75 kWh con carga rápida de 250 kW",
-      "Acabado Premium completo: pantalla trasera de 8\", asientos ventilados, techo panorámico",
-      "49.990 €: 3.000 € menos que el tracción total con más autonomía que el Standard",
-    ],
-    contras: [
-      "5,6 s de 0-100: el más pausado de las versiones Premium",
-      "Sin tracción total: peor motricidad en mojado o nieve",
-      "49.990 €: queda fuera del Plan Auto+ por superar los 45.000 €",
-      "El Standard Gran Autonomía (46.990 €) ofrece 657 km por menos dinero",
-      "Casi 2 toneladas: se nota en carreteras reviradas",
-    ],
+    pros: ["La hoja de resultados de Euro NCAP de noviembre de 2025 nombra expresamente a esta variante de propulsión trasera entre las cubiertas por sus 5 estrellas", "Propulsión trasera con un único motor de 347 CV: homologa 622 km WLTP gastando 14,2 kWh cada 100 km y, por 49.990 euros, es el Model Y Premium que más lejos llega", "Batería de 75 kWh compatible con cargas de hasta 250 kW: en un Supercargador V3 o V4 puede recuperar del orden de 260 km en unos 15 minutos", "El salto al acabado Premium se nota dentro: cristales acústicos en todo el habitáculo, techo de cristal, asientos delanteros ventilados y pantalla específica de 8 pulgadas para las plazas de atrás, todo ausente en el Standard", "Mantiene los 2.138 litros de volumen máximo con los respaldos plegados que la ficha marca como aproximados, así que renunciar al segundo motor no recorta el espacio de carga del SUV"],
+    contras: ["La duda está en casa: por 46.990 euros, el Standard Gran Autonomía llega a 657 km WLTP, 35 km más, y la diferencia de 3.000 euros compra sobre todo equipamiento Premium, no alcance", "Sus 49.990 euros rebasan en 4.990 el tope de 45.000 que marca el Plan Auto+, y por tanto queda excluido de sus ayudas", "Es el Premium más lento en el sprint: 5,6 segundos hasta 100 km/h, ocho décimas por encima del bimotor, porque todo el empuje sale del eje trasero", "Al prescindir del motor delantero no hay reparto entre ejes: sobre nieve o asfalto muy deslizante su motricidad depende solo de las ruedas traseras y de los neumáticos montados", "Pesa 1.976 kg según su ficha, y ese lastre se percibe al enlazar curvas cerradas o al frenar bajando un puerto con el coche cargado"],
     largoMm: 4790,
     anchoMm: 1920,
     altoMm: 1624,
@@ -299,17 +287,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     aprox: ["maleteroL"],
     imagen: "/media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.56,
-      "seguroTercerosAnual": 450,
-      "seguroAmpliadoAnual": 900,
-      "mantenimientoAnual": 300,
-      "costeMensualTotal": 132,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 14,2 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.56, "costeMensualTotal": 132, "estimado": true, "mantenimientoAnual": 300, "notas": "Cálculo hecho a medida de esta versión propulsada detrás: parte de su consumo homologado de 14,2 kWh/100 km y de cargar en casa pagando el kWh a 0,18 euros, lo que deja cada 100 km en 2,56 euros. Repartiendo 15.000 km entre los doce meses y sumando el seguro a todo riesgo junto a un mantenimiento anual estimado para el segmento, la cuota resultante es de 132 euros al mes.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 450},
     galeria: [
       {
         "src": "/media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hero.webp",
@@ -330,6 +308,8 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 1184
       }
     ],
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "La ficha de resultados de noviembre de 2025 incluye expresamente al Premium Long Range de propulsión trasera 4x2 entre las variantes a las que alcanza la calificación, aunque el ejemplar sometido a choque fue el bimotor. Puntuaciones: 91 % para ocupantes adultos, 93 % para niños, 86 % frente a atropellos de peatones y ciclistas y 92 % en sistemas de ayuda.", "url": "https://euroncap.blob.core.windows.net/media/93129/euroncap-2025-tesla-model-y-datasheet.pdf"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía DIY oficial del Model Y en service.tesla.com: intervalos del servicio de mantenimiento", "intervalo": "Tesla no impone visitas anuales obligatorias para el Model Y: su guía oficial de autoservicio habla de atender el coche cuando lo necesite y detalla únicamente plazos concretos para unas pocas operaciones", "revisiones": [{"costeAproxEur": null, "nombre": "Rotación de las ruedas", "queSeCambia": "Permuta de neumáticos al llegar a 10.000 km, o antes cuando entre ejes se mida una disparidad de dibujo de 1,5 mm como mínimo"}, {"costeAproxEur": null, "nombre": "Pinzas de freno en climas con sal", "queSeCambia": "Limpieza con lubricación posterior una vez al año, o cada 20.000 km, únicamente cuando el coche rueda en invierno por vías tratadas con sal"}, {"costeAproxEur": null, "nombre": "Filtración del aire del habitáculo", "queSeCambia": "El filtro ordinario se renueva a los 2 años; el conjunto formado por dos filtros HEPA y otros dos de carbono espera hasta los 3 años"}, {"costeAproxEur": null, "nombre": "Escobillas y líquido de frenos", "queSeCambia": "Escobillas nuevas cada año; el líquido de frenos se analiza al cumplir 4 años y solo se sustituye cuando ese análisis lo pide, salvo uso severo con remolque o bajadas largas de montaña, que adelanta las comprobaciones"}]},
   },
   {
     id: "tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica",
@@ -418,7 +398,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Tesla",
@@ -486,7 +466,7 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Tesla Model Y con pantalla central y techo de cristal",
         "ancho": 1200,
         "alto": 800
@@ -515,20 +495,8 @@ export const COCHES_TESLA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: 250,
     etiquetaDgt: "Cero",
-    pros: [
-      "600 km WLTP con tracción total: el equilibrio perfecto de la gama",
-      "4,8 s de 0-100: prestaciones deportivas con cinco plazas y gran maletero",
-      "Acabado Premium completo: pantalla trasera, asientos ventilados, techo panorámico",
-      "52.990 €: 9.000 € menos que el Performance con solo 20 km menos de autonomía",
-      "La base sobre la que se monta la versión de 7 plazas",
-    ],
-    contras: [
-      "El Standard Gran Autonomía (46.990 €) ofrece 657 km por 6.000 € menos",
-      "Sin potencia oficial publicada por Tesla para esta versión",
-      "Casi 2 toneladas: se nota en consumo en conducción deportiva",
-      "52.990 €: queda fuera del Plan Auto+ por superar los 45.000 €",
-      "El 0-100 de 4,8 s ya no impresiona frente a rivales chinos más baratos",
-    ],
+    pros: ["Euro NCAP probó en 2025 justo la configuración bimotor: 5 estrellas, 93 % en protección infantil y 92 % en asistencias, con el título de mejor SUV pequeño del año", "El restyling Juniper suma cristales acústicos en todo el habitáculo, una suspensión revisada y la barra trasera de luz reflejada: en marcha se percibe bastante menos ruido que en el Model Y original", "Homologa 600 km WLTP y admite 250 kW en continua: con la red de Supercargadores, este bimotor está pensado para cruzar España sin planificar cada parada", "Habitáculo Premium del Juniper: pantalla trasera de 8 pulgadas con audio Bluetooth independiente para cada pasajero, asientos delanteros ventilados y respaldo posterior abatible eléctricamente", "Cuesta 52.990 €, 9.000 € por debajo del Performance, y encima homologa 20 km más que él: 600 frente a 580 km, renunciando solo a la aceleración extrema"],
+    contras: ["Por 46.990 €, el Standard Gran Autonomía de tracción trasera homologa 657 km: son 57 km más y 6.000 € menos si no necesitas el segundo motor delantero", "Tesla no publica ni la capacidad útil de la batería ni el par motor: ambos campos quedan sin dato oficial en esta ficha y la potencia consignada tampoco es una cifra oficial de la marca", "Con 52.990 € supera el techo de 45.000 € del Plan Auto+, así que esta versión se queda fuera de la ayuda aunque comparta fábrica de Berlín con el Standard", "Todo sigue pasando por la pantalla central de 15,4 pulgadas: no hay cuadro de instrumentos tras el volante ni mandos físicos para la climatización", "Por 2.500 € más existe el 7 plazas sobre esta misma mecánica y con idénticos 600 km: quien a veces necesite la tercera fila paga poco por ella, aunque sea estrecha"],
     largoMm: 4790,
     anchoMm: 1920,
     altoMm: 1624,
@@ -542,17 +510,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     aprox: ["maleteroL", "velocidadMax"],
     imagen: "/media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.88,
-      "seguroTercerosAnual": 450,
-      "seguroAmpliadoAnual": 900,
-      "mantenimientoAnual": 300,
-      "costeMensualTotal": 136,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "consumo estimado ~16 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.88, "costeMensualTotal": 136, "estimado": true, "mantenimientoAnual": 300, "notas": "Estimación pensada para este bimotor de 600 km: como Tesla no publica un consumo WLTP para él, se trabaja con unos 16 kWh a los 100 km, que cargando en casa a 0,18 € el kWh dan los 2,88 € por cada 100 km. El total de cada mes reparte 15.000 km al año y suma unos seguros y un mantenimiento anual que son orientativos, sin tarifa oficial cerrada de la marca.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 450},
     galeria: [
       {
         "src": "/media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hero.webp",
@@ -573,6 +531,8 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "5 estrellas Euro NCAP en la prueba de 2025 del Model Y renovado: 91 % en adultos, 93 % en infantil, 86 % en usuarios vulnerables y 92 % en asistencias. La unidad ensayada fue la de doble motor con tracción total y volante a la izquierda, y el organismo lo eligió mejor SUV pequeño de 2025.", "url": "https://euroncap.blob.core.windows.net/media/93129/euroncap-2025-tesla-model-y-datasheet.pdf"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual oficial del propietario del Tesla Model Y y guías DIY de Tesla (service.tesla.com)", "intervalo": "Sin calendario de revisiones periódicas: Tesla pide mantener el Model Y según necesidad y fija solo operaciones sueltas por tiempo o kilometraje en su manual oficial", "revisiones": [{"costeAproxEur": null, "nombre": "Neumáticos y pinzas de freno", "queSeCambia": "Rotación de ruedas cada 10.000 km o cuando el dibujo difiera 1,5 mm o más; limpieza y lubricación de pinzas cada año o 20.000 km únicamente si se circula por carreteras con sal en invierno"}, {"costeAproxEur": null, "nombre": "Filtros y escobillas", "queSeCambia": "Filtro de aire del habitáculo cada 2 años, pareja de filtros HEPA y pareja de filtros de carbono cada 3 años, y escobillas del limpiaparabrisas cada año"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Comprobación de su estado cada 4 años y sustitución solo si la prueba lo aconseja; el uso intenso con remolque o en puertos de montaña puede acortar ese plazo"}, {"costeAproxEur": null, "nombre": "Bolsa desecante del aire acondicionado", "queSeCambia": "Sustitución cada 4 años según el manual del propietario del Model Y, para que el circuito de climatización siga secando bien el aire del habitáculo"}]},
   },
   {
     id: "tesla-model-y-7-plazas-2026-precio-ficha-tecnica",
@@ -580,7 +540,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Tesla",
@@ -661,7 +621,7 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Tesla Model Y con tres filas de asientos vista desde el maletero",
         "ancho": 1200,
         "alto": 800

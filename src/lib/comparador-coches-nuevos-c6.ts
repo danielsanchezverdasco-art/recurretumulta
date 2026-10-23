@@ -227,7 +227,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 1,
     potenciaCv: 22,
-    precioDesde: null,
+    precioDesde: null, // Sin tarifa oficial publicada en España (Mobilize/renault Pro no publica precio del Bento como texto accesible)
     pros: [
       "Caja de carga cerrada de 649 litros con puertas asimétricas: reparto urbano de última milla sin emisiones",
       "149 km de autonomía, suficiente para una jornada completa de reparto en ciudad",
@@ -1689,91 +1689,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     videoId: "qZSnZCwy4_M"
   },
   {
-    altoMm: 1580,
-    analisisSlug: null,
-    anchoMm: 1825,
-    aprox: [
-      "autonomiaKm"
-    ],
-    autonomiaKm: 508,
-    bateriaKwh: 65.4,
-    cargaRapidaKw: 100,
-    categoria: "SUV",
-    ceroCien: 8.1,
-    consumo: 16.8,
-    consumoUnidad: "kWh/100 km",
-    contras: [
-      "EuroNCAP 2023: solo 4 estrellas para la segunda generación del Kona",
-      "Precio desde 42.450 € elevado frente a rivales chinos eléctricos",
-      "En EE.UU. se pausa la venta del Kona EV 2026 por estrategia de gama",
-      "Peso de 1.773 kg penaliza agilidad en carreteras reviradas",
-      "Autonomía real en autopista inferior a los 508 km WLTP anunciados"
-    ],
-    emisionesCo2: 0,
-    etiquetaDgt: "Cero",
-    euroncap: {
-      ano: 2023,
-      estrellas: 4,
-      nota: "4 estrellas EuroNCAP 2023 para la segunda generación (80% adulto, 83% infantil); la marca no publica URL directa del informe",
-      url: null
-    },
-    fuenteNombre: "hyundai.news / carnovo.com / motorgiga.com",
-    fuenteUrl: "https://www.hyundai.news/eu/models/suv/kona/press-kit.html",
-    galeria: [
-      {
-        alt: "Hyundai Kona Eléctrico 2026 vista exterior",
-        alto: 666,
-        ancho: 1600,
-        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp"
-      },
-      {
-        alt: "Interior del Hyundai Kona Eléctrico 2026 con doble pantalla de 12,3 pulgadas",
-        alto: 1066,
-        ancho: 1600,
-        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
-    ],
-    garantiaBateriaAnos: 8,
-    garantiaBateriaDegradacionPct: null,
-    garantiaBateriaKm: 160000,
-    id: "hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica",
-    imagen: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
-    imagenOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
-    largoMm: 4355,
-    maleteroL: 466,
-    marca: "Hyundai",
-    modelo: "Kona Eléctrico 65 kWh",
-    parNm: 255,
-    pesoKg: 1773,
-    planMantenimiento: {
-      fuente: "hyundai.com/es: intervalo oficial cada año o 15.000 km; costes no publicados",
-      intervalo: "Cada 1 año o 15.000 km",
-      revisiones: [
-        {
-          costeAproxEur: null,
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general, filtro habitáculo, líquido frenos según plan"
-        }
-      ]
-    },
-    plazas: 5,
-    potenciaCv: 204,
-    precioDesde: 42450,
-    pros: [
-      "Autonomía WLTP de hasta 508 km con batería de 65,4 kWh útiles",
-      "Carga rápida DC de 100 kW y carga AC trifásica de 11 kW",
-      "Maletero de 466 litros más 27 litros de frunk delantero",
-      "Etiqueta Cero con acceso total a ZBE y aparcamiento bonificado",
-      "Garantía de batería de 8 años o 160.000 km oficial Hyundai"
-    ],
-    tipo: "Eléctrico",
-    traccion: "Delantera",
-    velocidadMax: 172,
-    videoCanal: null,
-    videoId: null
-  },
-  {
     altoMm: 1500,
     analisisSlug: null,
     anchoMm: 1745,
@@ -2226,22 +2141,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: [],
-    pros: [
-      "Con 601 CV y 795 Nm es el BMW eléctrico más potente de su gama y acelera de 0 a 100 km/h en 3,7 s, cifras de auténtico M.",
-      "Sus 543 km de autonomía WLTP lo sitúan entre los eléctricos con más alcance de su segmento.",
-      "La carga rápida de 210 kW permite recuperar del 10 al 80 % en unos 30 minutos.",
-      "El chasis con tracción total xDrive y reparto de par variable ofrece un comportamiento muy deportivo sin renunciar al confort diario.",
-      "El portón trasero tipo Gran Coupé y los 470 litros de maletero lo hacen más práctico que una berlina clásica.",
-      "La garantía de la batería de 8 años o 160.000 km (70 % de capacidad) aporta tranquilidad a largo plazo."
-    ],
-    contras: [
-      "Pesa más de 2,1 toneladas, y ese peso se nota en los cambios de apoyo rápidos.",
-      "Las plazas traseras son justas en altura por la caída del techo del Gran Coupé.",
-      "A 80.550 € de partida, es notablemente más caro que un Tesla Model 3 Performance equivalente.",
-      "La pantalla curva y los menús del iDrive 8.5 exigen un periodo de adaptación.",
-      "El maletero de 470 litros queda por debajo del de un Serie 3 Touring.",
-      "La red de carga ultrarrápida de 210 kW aún no es uniforme en toda España."
-    ],
+    pros: ["Suma 57 CV al M50 al que reemplaza: sus dos motores entregan 601 CV y 795 Nm, recortan el 0 a 100 hasta 3,7 segundos y dejan atrás incluso al M3 Competition de gasolina en aceleración pura.", "Homologa 543 km WLTP con la batería grande de 83,9 kWh: solo cede unos 70 km frente al eDrive40 de 340 CV, pese a moverse en cifras de deportivo serio.", "En un cargador rápido pasa del 10 al 80 % en unos 30 minutos y recupera del orden de 185 km en 10 minutos, así que viajar con él no exige planificar cada parada como una expedición.", "A diferencia del Tesla Model 3 Performance, su rival más directo, es un Gran Coupé de cinco puertas: el portón da acceso a 470 litros ampliables a 1.290 abatiendo los respaldos.", "La batería queda cubierta durante 8 años o 160.000 km con un mínimo garantizado del 70 % de capacidad, un respaldo relevante en un coche que costará mantener como lo que es: un M Performance."],
+    contras: ["Parte de 80.550 euros, justo 15.000 euros por encima del i4 eDrive40 español: el salto al M60 se paga como un coche entero de acceso, y un Model 3 Performance ofrece prestaciones cercanas por bastante menos.", "En Euro NCAP se quedó en cuatro estrellas en 2022, con un 64 % en asistentes de seguridad: varios rivales generalistas lograron las cinco, y en un coche de este precio ese dato pesa.", "Mover 2.285 kg con conductor tiene coste dinámico: frena y gira con solvencia, pero en apoyos enlazados la masa manda y el consumo WLTP sube hasta 20,9 kWh/100 km en la configuración menos favorable.", "La segunda fila penaliza a los adultos altos: la caída coupé del techo roba altura libre y, sin maletero delantero donde guardar ni los cables, todo el equipaje compite por los mismos 470 litros traseros.", "Su pico de carga, 205 kW según la documentación del modelo, ya no marca la referencia: propuestas de 800 voltios como el nuevo Mercedes CLA eléctrico cargan bastante más rápido con baterías similares."],
     imagen: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-oficial.webp",
     imagenOficial: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -2468,7 +2369,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Countryman D",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de mini.es; sin precio público de esta versión como texto indexado
     potenciaCv: 163,
     autonomiaKm: null,
     maleteroL: 450,
@@ -2915,7 +2816,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "AMG GLC 43 4MATIC",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sustituido en la gama vigente: la lista de precios oficial del GLC (mercedes-benz.es) solo incluye el Mercedes-AMG GLC 53; sin tarifa del GLC 43
     potenciaCv: 421,
     autonomiaKm: null,
     maleteroL: 620,
@@ -3985,7 +3886,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 2,
     potenciaCv: 335,
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial Reino Unido: 102.000 GBP (versión con capota de lona; 105.000 GBP con techo duro), precio anunciado por Morgan en el lanzamiento ofi.
     pros: [
       "Sustituto del Plus Six con chasis de aluminio encolado revisado, nueva dirección y nuevos subchasis: el Morgan más dinámico de la historia.",
       "Motor BMW B58 3.0 biturbo de 335 CV y 500 Nm con cambio automático ZF de 8 velocidades: 0-100 km/h en 3,9 segundos.",

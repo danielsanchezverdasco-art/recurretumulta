@@ -96,7 +96,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "-hbEQyWoDds",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -158,7 +158,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Symbioz con pantallas openR y techo panorámico",
         "ancho": 1920,
         "alto": 1280
@@ -177,7 +177,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "c8OE74SUr90",
     videoCanal: "Autocasión",
     marca: "Renault",
@@ -239,7 +239,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-arkana-2024-e-tech-145-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Arkana con pantalla central y luz ambiental",
         "ancho": 1920,
         "alto": 1280
@@ -258,7 +258,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "h85Acg-REns",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -320,7 +320,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-arkana-2024-tce-140-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Arkana TCe con selector de cambio EDC",
         "ancho": 1920,
         "alto": 1280
@@ -420,7 +420,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "TUwBudu1tLE",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -482,7 +482,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Austral mild hybrid con pantalla vertical",
         "ancho": 1920,
         "alto": 1280
@@ -663,7 +663,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-megane-e-tech-2026-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-megane-e-tech-2026-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "f8Nf-Q6469k",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -725,7 +725,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-megane-e-tech-2026-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Mégane E-Tech 2026 con pantallas openR",
         "ancho": 1920,
         "alto": 1280
@@ -744,7 +744,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Dn_B4OtQ6PI",
     videoCanal: "BlueStorm EV - Roberto Guerrero",
     marca: "Renault",
@@ -760,20 +760,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
     bateriaKwh: 45,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "El combi eléctrico familiar con 284 km WLTP",
-      "Carga rápida de 80 kW en continua y 22 kW en alterna",
-      "Maletero de 517 L ampliable a 2.390 L",
-      "Puertas laterales correderas: acceso imbatible",
-      "Etiqueta Cero para trabajar en cualquier ZBE",
-    ],
-    contras: [
-      "122 CV y 12,6 s de 0-100: ritmo tranquilo",
-      "132 km/h de máxima: justo en autopista",
-      "Desde 35.260 €: caro frente al Kangoo de gasolina",
-      "284 km se quedan cortos para viajes largos",
-      "Acabados de furgón, no de turismo",
-    ],
+    pros: ["Con 1.808 mm de altura y puertas traseras correderas, cargar sillas infantiles o bultos voluminosos en aparcamientos estrechos resulta mucho más sencillo que en un SUV familiar convencional.", "Sus 284 km WLTP encajan con rutinas urbanas y periurbanas; si equipas carga continua de 80 kW, una parada breve devuelve margen para seguir trabajando ese mismo día.", "Renault responde de la batería de 45 kWh hasta 160.000 km u ocho años, tranquilidad extra si el coche acumula reparto urbano y uso familiar intenso a diario.", "Es uno de los pocos combis de pasajeros puramente eléctricos frente a ë-Berlingo, e-Rifter y Combo Electric, sin renunciar a cinco plazas ni a su formato de furgoneta alta.", "Con etiqueta Cero entra en las ZBE sin limitaciones horarias, algo que sus hermanas Kangoo TCe y Blue dCi, con distintivo C, no pueden igualar en pleno centro."],
+    contras: ["Partir de 35.260 euros lo deja claramente por encima de las Kangoo Combi de gasolina y diésel de esta misma gama, diferencia difícil de amortizar haciendo pocos kilómetros.", "Para escapadas largas, 284 km homologados obligan a planificar recargas; su batería de 45 kWh no compite con turismos eléctricos de similar precio y mayor alcance.", "Acelera hasta cien en 12,6 segundos y su punta queda en 132 km/h según ficha: cargado y en incorporaciones ascendentes, el empuje de 245 Nm se percibe justo.", "Declara 1.870 kg y un consumo de 19,2 kWh/100 km; en autovía sostenida su caja alta penaliza la eficiencia frente a una berlina eléctrica baja como el Volkswagen ID.7.", "Sin el cargador opcional superior no hay carga continua: la versión básica se queda en alterna trifásica de 11 kW, lenta para recuperar fuera de casa."],
     largoMm: 4486,
     anchoMm: 1860,
     altoMm: 1808,
@@ -806,7 +794,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Kangoo E-Tech Combi con gran parabrisas",
         "ancho": 1920,
         "alto": 1280
@@ -818,6 +806,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Renault España, página oficial de mantenimiento de vehículos eléctricos (verificada el 22/10/2026): no publica un intervalo fijo en km o años para el Kangoo E-Tech Combi y remite a My Renault y a las alertas del propio vehículo; sí estima el mantenimiento eléctrico de media un 20 % inferior al de un térmico equivalente. Los plazos de fluidos y batería de 12 V proceden de la página de revisión E-Tech electric de la red Renault (renault-guadeloupe.fr). Un programa de terceros (Odopass) reproduce para el Kangoo 3 E-Tech Electric una revisión cada 20.000 km o 1 año, pero no se ha localizado ese intervalo en una página oficial de Renault, por lo que no se entrega como plan oficial. Sin tarifa oficial cerrada localizada, los costes van a null", "intervalo": "Sin plan oficial publicado por Renault España para esta versión (verificado el 22/10/2026): Renault remite al plan concreto de cada vehículo en My Renault, con alertas de revisión y de operaciones previstas", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión E-Tech eléctrica periódica (según plan My Renault)", "queSeCambia": "Control de más de 86 puntos según la red Renault: diagnóstico de batería de tracción, circuitos de alta tensión y sistema de carga, más sustitución del filtro del habitáculo cuando toca; sin cambio de aceite, distribución ni embrague al ser eléctrico puro"}, {"costeAproxEur": null, "nombre": "Fluidos, batería auxiliar y refrigeración (plazos de la revisión E-Tech de Renault)", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, del líquido de refrigeración cada 6 años y de la batería de 12 V cada 4 años, según publica la red Renault para su revisión E-Tech electric; neumáticos, frenos, dirección y suspensión se inspeccionan en cada visita"}]},
+    euroncap: {"ano": 2021, "estrellas": 4, "nota": "Cuatro estrellas en la prueba publicada el 7 de julio de 2021: 78 % en ocupante adulto, 87 % en infantil, 67 % en usuarios vulnerables y 72 % en asistencias. La tabla de validez de Euro NCAP añadió en mayo de 2023 la variante Pure Electric E-Tech de cinco puertas, por lo que la nota corresponde a esta generación eléctrica.", "url": "https://www.euroncap.com/es/results/renault/kangoo/43189"},
   },
   {
     id: "renault-kangoo-2024-tce-130-precio-ficha-tecnica",
@@ -825,7 +815,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "7qtDR8T-LxU",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -887,7 +877,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior modular del Kangoo Combi con banqueta trasera",
         "ancho": 1920,
         "alto": 1280
@@ -987,7 +977,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "HAPC387pB20",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -1003,20 +993,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
     bateriaKwh: 52,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "Batería de 52 kWh con 430 km WLTP: la autonomía buena del R5",
-      "150 CV con 0-100 en 8 s y chasis divertido",
-      "Carga rápida de 100 kW en continua",
-      "Diseño retro que enamora, hecho en Francia",
-      "Desde 31.085 €: el eléctrico con más carisma por su precio",
-    ],
-    contras: [
-      "Maletero de 277 L, de los pequeños del segmento",
-      "Plazas traseras justas para adultos",
-      "150 km/h de máxima: sin alegría en autobahn",
-      "La versión de 40 kWh (300 km) se queda corta",
-      "Lista de espera en algunos acabados",
-    ],
+    pros: ["Es la variante Comfort Range: 430 km WLTP homologados en la web española de Renault, frente a los 312 km de la Urban Range de 40 kWh", "Premio Car of the Year 2025, galardón que compartió con el Alpine A290, su derivado deportivo sobre la base AmpR Small", "La unidad número 100.000 fabricada en Douai fue un Techno con esta batería de 52 kWh, la combinación más demandada de la gama", "Recupera del 15 al 80 % en una parada de media hora en corriente continua, donde acepta picos de 100 kW; en alterna, su cargador bidireccional de 11 kW permite V2L", "150 CV y 245 Nm para mover 1.526 kg en 3,92 m de carrocería: por eso cierra el 0-100 en 8,0 segundos sin ser un deportivo"],
+    contras: ["Cuatro estrellas Euro NCAP en 2024 y no cinco: las asistencias se quedaron en un 68 %, bajo el umbral del 70 % exigido para la máxima nota, y no hay airbag central delantero", "La segunda fila es su punto más débil en las pruebas: batalla corta, suelo elevado que obliga a flexionar las piernas y banqueta pensada para dos, no para tres", "277 litros de maletero con umbral de carga alto, a unos 78 cm del suelo según las mediciones de prensa, y sin hueco delantero para guardar los cables", "Hay que pagar 31.085 € por esta batería: son 4.264 € más que los 26.821 € de la versión de 40 kWh de la misma gama", "Techo de potencia dentro del propio R5: con 150 CV no hay una versión más rápida; el salto prestacional obliga a irse al Alpine A290, que ya es otra tarifa"],
     largoMm: 3922,
     anchoMm: 1774,
     altoMm: 1498,
@@ -1030,17 +1008,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     aprox: [],
     imagen: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.7,
-      "seguroTercerosAnual": 580,
-      "seguroAmpliadoAnual": 980,
-      "mantenimientoAnual": 250,
-      "costeMensualTotal": 96,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 15 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.7, "seguroTercerosAnual": 580, "seguroAmpliadoAnual": 980, "mantenimientoAnual": 250, "costeMensualTotal": 96, "precioKwh": 0.18, "precioGasolinaL": 1.6, "notas": "Así sale la cuenta de esta versión concreta: con los 15 kWh/100 km que declara la ficha, hacer 1.000 km al mes pide 150 kWh. Pagando la luz doméstica a 0,18 €/kWh son unos 27 € mensuales de recarga, en línea con los 2,7 € por cada 100 km del objeto. Seguro y mantenimiento se mantienen como estimaciones de la ficha, sin pretender ser una tarifa oficial de Renault.", "estimado": true},
     galeria: [
       {
         "src": "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-oficial.webp",
@@ -1049,7 +1017,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Renault 5 E-Tech con asientos de tejido vaquero",
         "ancho": 1920,
         "alto": 1280
@@ -1061,6 +1029,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {"ano": 2024, "estrellas": 4, "nota": "Cuatro estrellas en diciembre de 2024 y con esta variante como coche ensayado: la ficha oficial señala como modelo probado un Techno Comfort Range EV52 de 150 CV con volante a la izquierda. Sumó un 80 % protegiendo a adultos, otro 80 % con niños a bordo, un 76 % ante peatones y ciclistas y un 68 % en ayudas electrónicas; Euro NCAP anota la ausencia de airbag central y una excursión lateral calificada como marginal.", "url": "https://euroncap.blob.core.windows.net/media/85165/euroncap-2024-renault-5-datasheet.pdf"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Renault (renault.ie), apartado de mantenimiento de los E-Tech eléctricos: chequeo anual en la red, control de más de 86 puntos y calendario de fluidos y de batería auxiliar", "intervalo": "Una visita al año a la red Renault, el ritmo recomendado por la marca para esta mecánica eléctrica", "revisiones": [{"costeAproxEur": null, "nombre": "Visita anual", "queSeCambia": "Filtro de habitáculo nuevo dentro de una inspección que supera los 86 puntos de control"}, {"costeAproxEur": null, "nombre": "A los 3 años", "queSeCambia": "Cambio del líquido del circuito de frenos"}, {"costeAproxEur": null, "nombre": "A los 4 años", "queSeCambia": "Batería auxiliar de 12 V nueva"}, {"costeAproxEur": null, "nombre": "A los 6 años", "queSeCambia": "Renovación del líquido refrigerante del circuito de refrigeración"}]},
   },
   {
     id: "renault-4-e-tech-52-kwh-2025-precio-autonomia",
@@ -1149,7 +1119,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "NBwbtkNHvY0",
     videoCanal: "ARCmotor",
     marca: "Renault",
@@ -1211,7 +1181,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Renault Captur 2024 con pantalla vertical openR",
         "ancho": 1920,
         "alto": 1280
@@ -1230,7 +1200,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-oficial.webp",
-    imagenInteriorOficial: "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "jTELHZ9uQpA",
     videoCanal: "coches.net",
     marca: "Renault",
@@ -1292,7 +1262,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-interior.webp",
+        "src": "",
         "alt": "Interior del Scenic E-Tech con techo Solarbay",
         "ancho": 1920,
         "alto": 1280
@@ -1311,7 +1281,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "jkwmTDJdYt0",
     videoCanal: null,
     marca: "Renault",
@@ -1327,20 +1297,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
     bateriaKwh: 40,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "26.821 €: el icono eléctrico a precio de utilitario",
-      "312 km WLTP con 40 kWh útiles",
-      "Diseño retro que enamora",
-      "1.447 kg: ligero para un eléctrico",
-      "Etiqueta Cero",
-    ],
-    contras: [
-      "Maletero de 277 L, justo",
-      "150 km/h de máxima",
-      "Carga rápida de 80 kW, mejorable",
-      "9 s de 0-100: no es un GTI",
-      "La batería de 52 kWh cuesta bastante más",
-    ],
+    pros: ["Coche del Año en Europa 2025, título compartido con el Alpine A290 sobre la misma plataforma AmpR Small", "Versión Urban Range de acceso: 122 CV, 225 Nm y 312 km WLTP por los 26.821 € de esta ficha", "Nace en Douai, en la planta Ampere ElectriCity que superó las 100.000 unidades del modelo en 15 meses", "Solo 1.447 kg y 3,92 m de largo: agilidad de urbano clásico con etiqueta Cero de la DGT", "En continua admite 80 kW y pasa del 15 al 80 % en unos 30 minutos, suficiente para escapadas cortas"],
+    contras: ["Euro NCAP lo dejó en 4 estrellas en 2024: las asistencias sacaron un 68 %, bajo el umbral de la quinta", "Viajar ligero es obligado: 277 litros de maletero en un coche pensado sobre todo para ciudad", "Carga rápida de 80 kW, por debajo de los 100 kW que ofrece la batería grande de 52 kWh", "Quien necesite los 430 km WLTP del 52 kWh paga desde 31.085 €, unos 4.300 € más que esta versión", "Desde parado tarda 9,0 segundos en alcanzar los 100 km/h, con la punta limitada a 150 km/h"],
     largoMm: 3922,
     anchoMm: 1774,
     altoMm: 1498,
@@ -1354,17 +1312,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     aprox: [],
     imagen: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 2.6,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 122,
-      precioKwh: 0.18,
-      precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 14.5 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
+    costeMensual: {"costeEnergia100km": 2.6, "costeMensualTotal": 122, "estimado": true, "mantenimientoAnual": 350, "notas": "Nota calculada solo para este R5 de 40 kWh: homologa 14,5 kWh cada 100 km, así que recorrer 1.000 km en un mes consume en torno a 145 kWh. A 0,18 € por kWh, recargar en casa sale por unos 26 € mensuales. Las partidas de seguro y de revisión anual son orientativas para un urbano eléctrico de este tamaño, no una tarifa cerrada de Renault.", "precioGasolinaL": 0.18, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 450},
     galeria: [
       {
         src: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-oficial.webp",
@@ -1378,13 +1326,10 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Renault R5 E-Tech 40 kWh",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
+      
+    ],
+    euroncap: {"ano": 2024, "estrellas": 4, "nota": "4 estrellas en la evaluación publicada en diciembre de 2024: 80 % en ocupante adulto, 80 % en ocupante infantil, 76 % en usuarios vulnerables y 68 % en asistencias a la conducción. La propia ficha de Euro NCAP extiende la calificación a toda la gama R5 E-Tech, con las variantes EV40 Urban Range de 40 kWh citadas expresamente en su tabla de validez; el ejemplar ensayado fue un acabado Techno y faltó airbag central entre ocupantes delanteros.", "url": "https://euroncap.blob.core.windows.net/media/85165/euroncap-2024-renault-5-datasheet.pdf"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Página oficial de mantenimiento E-Tech eléctrico de Renault (renault.ie): paso anual por la red, filtro de habitáculo, líquido de frenos cada 3 años, batería de 12 V cada 4 años y refrigerante cada 6 años", "intervalo": "Visita anual a la red oficial, el ritmo que Renault recomienda para sus eléctricos E-Tech", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual / 12 meses", "queSeCambia": "Sustitución del filtro de habitáculo y chequeo de más de 86 puntos de control, el contenido que Renault describe para el servicio de sus E-Tech eléctricos"}, {"costeAproxEur": null, "nombre": "Cada 3 años", "queSeCambia": "Renovación del líquido de frenos, una de las sustituciones de fluidos que la marca programa en su gama eléctrica"}, {"costeAproxEur": null, "nombre": "Cada 4 años", "queSeCambia": "Sustitución de la batería auxiliar de 12 V"}, {"costeAproxEur": null, "nombre": "Cada 6 años", "queSeCambia": "Cambio del líquido refrigerante"}]},
   },
   {
     id: "renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica",
@@ -1489,20 +1434,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
     bateriaKwh: 87,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
-    pros: [
-      "625 km WLTP: el familiar eléctrico de referencia",
-      "220 CV y 7,9 s de 0-100",
-      "Carga rápida de 150 kW",
-      "Maletero de 545 L",
-      "1.842 kg: ligero para su batería",
-    ],
-    contras: [
-      "46.950 € en acabado techno",
-      "La versión 2026 ya ofrece 642 km",
-      "Diseño menos rompedor que el R5/R4",
-      "4,47 m: no es pequeño para ciudad",
-      "Velocidad máxima sin publicar en esta ficha",
-    ],
+    pros: ["625 km WLTP con la batería de 87 kWh: autonomía de viaje largo para un familiar de 4,47 m", "Coche del Año en Europa 2024, el título que relanzó el nombre Scenic en clave eléctrica", "220 CV y 0-100 km/h en 7,9 s con un solo motor delantero sobre la plataforma AmpR Medium", "545 L de maletero con suelo plano y techo de cristal Solarbay que se oscurece por zonas", "1.842 kg: contenido para llevar 87 kWh, y se nota en que gasta 16,8 kWh/100 km homologados"],
+    contras: ["46.950 € en acabado techno: el Scenic eléctrico juega en otra liga de precio que el monovolumen de combustión que sustituye", "La gama 2026 ya anuncia 642 km, 17 km más que los 625 km de esta versión 2025", "Visibilidad trasera pobre, el punto débil práctico que repiten las pruebas del modelo", "Sin maletero delantero: todo el equipaje tiene que ir a los 545 L traseros", "Con llanta de 20 pulgadas la rodadura se vuelve firme sobre baches, según las pruebas en carretera"],
     largoMm: 4470,
     anchoMm: 1866,
     altoMm: 1571,
@@ -1516,17 +1449,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     aprox: [],
     imagen: "/media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 3.0,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 130,
-      precioKwh: 0.18,
-      precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 16.8 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
+    costeMensual: {"costeEnergia100km": 3, "costeMensualTotal": 130, "estimado": true, "mantenimientoAnual": 400, "notas": "Cálculo hecho solo para este Scenic de 87 kWh: con su consumo homologado de 16,8 kWh/100 km, recorrer 1.000 km al mes consume unos 168 kWh, que a 0,18 €/kWh salen por unos 30 € mensuales de electricidad. El seguro y la revisión se han estimado mirando lo que pagan SUV eléctricos familiares de su tamaño, no con una tarifa cerrada de Renault.", "precioGasolinaL": 0.18, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 450},
     galeria: [
       {
         src: "/media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-oficial.webp",
@@ -1546,7 +1469,9 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {"ano": 2022, "estrellas": 5, "nota": "5 estrellas con los protocolos de 2022 (88 % adultos, 89 % infantil, 77 % usuarios vulnerables, 85 % asistencias); Euro NCAP lo evaluó de nuevo en mayo de 2024 como vehículo asociado a su gemelo de plataforma, el Renault Megane E-Tech", "url": "https://www.euroncap.com/en/results/renault/scenic-e-tech/51448"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del Renault Scenic E-Tech (2024) y esquema de servicios A/B de Renault para sus eléctricos E-Tech", "intervalo": "Revisión anual (servicio A) y revisión mayor cada 2 años o 30.000 km (servicio B), lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio A / 12 meses", "queSeCambia": "Sustitución del filtro de habitáculo e inspección general del vehículo"}, {"costeAproxEur": null, "nombre": "Servicio B / 2 años o 30.000 km", "queSeCambia": "Cambio del líquido de frenos, cuya renovación cada 2 años marca el manual, e inspección completa del vehículo"}]},
   },
   {
     id: "renault-captur-e-tech-145-2024-precio-ficha-tecnica",
@@ -1716,7 +1641,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Renault",
@@ -1783,12 +1708,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Renault Kangoo Combi Blue dCi 95",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {

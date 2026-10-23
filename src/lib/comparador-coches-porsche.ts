@@ -134,7 +134,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -162,12 +162,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera T 2026 con cambio manual",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -215,7 +210,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -243,12 +238,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -296,7 +286,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -324,12 +314,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Carrera GTS 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -375,9 +360,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Mantenimiento y seguro de los más caros de la gama",
       "Su potencial es ilegal de explotar en carretera abierta",
     ],
-    imagen: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -393,24 +378,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche 911 Turbo S 2026, vista tres cuartos trasera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche 911 Turbo S 2026 en autopista",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Turbo S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -458,7 +428,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -486,12 +456,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-gt3-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 GT3 2026 con jaula",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -539,7 +504,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -567,12 +532,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 GT3 RS 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -620,7 +580,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -648,12 +608,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 911 Targa 4 GTS 2026 descapotado",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -782,7 +737,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -810,12 +765,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-4s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan 4S 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -847,23 +797,11 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    pros: [
-      "884 CV y 940 Nm: 0-100 en 2,7 s, digno de un hiperdeportivo",
-      "634 km de autonomía WLTP con la batería de 105 kWh",
-      "Carga ultrarrápida de 320 kW",
-      "Detalles Turbonite y equipamiento de serie muy completo",
-      "Etiqueta Cero con prestaciones de superdeportivo",
-    ],
-    contras: [
-      "182.251 €: el Turbo GT cuesta 'solo' 67.000 € más",
-      "2.365 kg: el peso lastra la agilidad frente a un 911",
-      "El Turbo GT lo deja en evidencia por poco más",
-      "Maletero de 450 l: menos que el Taycan básico",
-      "Depreciación fuerte en el mercado de ocasión",
-    ],
+    pros: ["Su doble motor con tracción total entrega 884 CV y 940 Nm: el sprint hasta 100 km/h cae en 2,7 segundos y la punta llega a 260 km/h.", "Pese a semejante caballería, homologa 634 kilómetros WLTP alimentado por la batería Performance Battery Plus de 105 kWh.", "La arquitectura de 800 voltios admite picos de 320 kW en corriente continua y Porsche cifra en 18 minutos la recarga del 10 al 80 % del Taycan actualizado.", "El gasto homologado se queda en 17,8 kWh cada 100 kilómetros, una contención notable tratándose de una berlina eléctrica pensada para correr.", "Todos los Taycan renovados en 2024 montan suspensión neumática adaptativa de serie y los Turbo se distinguen por emblemas y detalles en Turbonite gris metálico."],
+    contras: ["Arranca en 182.251 €, es decir 75.999 € por encima del Taycan de acceso, compartiendo carrocería, habitáculo y planteamiento general.", "Mueve 2.365 kilos en orden de marcha: en frenadas repetidas y cambios de apoyo esa masa exige muchísimo a neumáticos y frenos.", "Ofrece únicamente cuatro plazas y 450 litros de maletero total, 41 litros menos que el Taycan básico pese a medir 4.962 mm de largo.", "Sus 1.966 mm de anchura complican garajes comunitarios, aparcamientos antiguos y calles estrechas, donde se conduce siempre pendiente de los retrovisores.", "Queda encajado bajo el Turbo GT de la propia casa, con 1.033 CV y 290 km/h por 249.409 €: ni es el Taycan asequible ni es el definitivo."],
     imagen: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -891,13 +829,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan Turbo 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Porsche España no publica en su web de modelos una tarifa cerrada ni un calendario único en abierto (verificado el 22/10/2026); el intervalo de 2 años o 20.000 millas para el Taycan consta en la documentación de servicio de Porsche reproducida por HOUSE Automotive y en la guía de Carbuyer que lo atribuye a Porsche, y Porsche Every Day España describe el mantenimiento específico de sus eléctricos sin publicar precio, por eso todos los costes van a null", "intervalo": "Cada 2 años o 20.000 millas (unos 30.000 km en la documentación europea), lo que ocurra primero, para el servicio periódico principal del Taycan eléctrico según la documentación de servicio de Porsche", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio periódico principal (2 años / 20.000 millas)", "queSeCambia": "Sustitución del líquido de frenos y del filtro del habitáculo, inspección multipunto de chasis, suspensión, frenos, refrigeración y sistema de alta tensión, lectura de memoria de averías y comprobación de actualizaciones de software; sin cambio de aceite de motor porque no hay motor térmico"}]},
   },
   {
     id: "porsche-taycan-turbo-gt-2026-precio-ficha-tecnica",
@@ -944,7 +878,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "0UTeFDm2AC8",
     videoCanal: "Fercho Urquiza",
     opiniones: [],
@@ -972,12 +906,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan Turbo GT 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1025,7 +954,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1053,12 +982,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Taycan 4 Cross Turismo 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1104,8 +1028,8 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Tracción trasera: en mojado pide respeto",
       "Tamaño enorme: aparcar en ciudad es un reto",
     ],
-    imagen: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "/media/porsche-panamera-2026-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
@@ -1122,18 +1046,8 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-panamera-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Panamera 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Panamera 2026 en autopista",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
       {
         src: "/media/porsche-panamera-2026-precio-ficha-tecnica-interior.webp",
         alt: "Interior del Porsche Panamera 2026",
@@ -1185,9 +1099,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Sin carga rápida en continua",
       "4 plazas: sin opción de 5 asientos",
     ],
-    imagen: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1203,24 +1117,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Panamera 4 E-Hybrid 2026, vista lateral",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Panamera 4 E-Hybrid 2026 cargando",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Panamera 4 E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1268,7 +1167,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1296,12 +1195,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Panamera Turbo E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1333,23 +1227,11 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    pros: [
-      "408 CV y 650 Nm con tracción total: 0-100 en 5,2 s",
-      "611 km de autonomía WLTP con batería de 100 kWh",
-      "Plataforma PPE de 800 V: carga rápida de 270 kW",
-      "Maletero de 540 l más 84 l delanteros: el Macan más práctico",
-      "Etiqueta Cero y 5 plazas reales",
-    ],
-    contras: [
-      "86.372 €: el Macan eléctrico cuesta como un Cayenne de gasolina",
-      "2.405 kg: pierde la agilidad del Macan de combustión",
-      "220 km/h de máxima",
-      "Ya no hay Macan de gasolina nuevo: es eléctrico o nada",
-      "El peso penaliza el consumo en ciudad (17,8 kWh/100 km WLTP)",
-    ],
-    imagen: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-interior.webp",
+    pros: ["Reparto de potencia entre ambos ejes con 408 CV en overboost: salir desde parado hasta 100 km/h lleva 5,2 segundos sin pérdidas de tracción", "Homologa 611 kilómetros WLTP, margen de sobra sobre el papel para cubrir un Madrid–Valencia sin detenerse a recargar durante el trayecto", "Veintiún minutos bastan para llevar la batería desde el 10 hasta el 80 % si el poste entrega los 270 kW que el coche admite", "Puede remolcar hasta 2.000 kilos con freno, una capacidad poco habitual entre los SUV eléctricos de este tamaño y enfoque deportivo", "Frente a su primo Audi Q6 e-tron, con quien comparte la base PPE, apuesta por una puesta a punto de chasis más afilada"],
+    contras: ["Arrancar en 86.372 euros lo sitúa en territorio de SUV eléctricos más grandes, no en el de un premium de 4.784 mm", "Sus 2.405 kilos se dejan notar en frenadas largas y castigan unos neumáticos traseros que ya miden 285 mm de ancho", "El consumo homologado oscila entre 17,8 y 20,5 kWh/100 km según llanta y equipamiento, así que la autonomía real en autovía cae", "La velocidad máxima se detiene en 220 km/h, exactamente la misma que registra el Macan eléctrico de acceso pese a costar más", "La carga en alterna se queda en 11 kW de serie, así que reponer sus 100 kWh en un wallbox doméstico lleva toda la noche"],
+    imagen: "",
+    imagenOficial: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1365,25 +1247,11 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Macan 4 Electric 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Macan 4 Electric 2026 en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Macan 4 Electric 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Porsche Every Day, canal oficial de Porsche España, artículo sobre mantenimiento de sus eléctricos que incluye expresamente al Macan Electric (comprobado el 22/10/2026); Porsche Newsroom (17/08/2021) para la sustitución bienal del líquido de frenos y el cambio de pastillas a los seis años en eléctricos de la marca; datos CAP reproducidos por Select Car Leasing para este Macan 4, con servicio cada 24 meses o 20.000 millas. Ninguna de estas fuentes publica precios en euros aplicables a España, así que el coste anual y cada coste por revisión van en null", "intervalo": "Porsche España no detalla en su web un calendario cerrado de revisiones para este Macan 4 Electric (comprobado el 22/10/2026): los datos CAP de este modelo registran servicio cada dos años o al alcanzar 20.000 millas, lo primero que llegue", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección programada en un Centro Porsche", "queSeCambia": "Comprobación del estado de la batería de tracción y de su circuito de refrigeración líquida, del cableado naranja identificativo y de los puertos de carga, junto a la batería auxiliar de 12 voltios y las actualizaciones de software disponibles"}, {"costeAproxEur": null, "nombre": "Renovación del líquido de frenos", "queSeCambia": "Sustitución cada dos años: Porsche recuerda que este fluido absorbe humedad con el paso del tiempo y que la frenada regenerativa no elimina esa obligación en sus modelos eléctricos"}, {"costeAproxEur": null, "nombre": "Filtro del habitáculo y climatización", "queSeCambia": "Sustitución periódica del filtro interior, ligado también al buen funcionamiento de la climatización, que en este modelo trabaja junto a la gestión térmica de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Pastillas de freno por antigüedad", "queSeCambia": "Al asumir la regeneración la mayor parte de las frenadas diarias, Porsche prevé cambiar las pastillas por edad, en torno a los seis años, antes que por desgaste en un uso normal"}]},
   },
   {
     id: "porsche-macan-turbo-electric-2026-precio-ficha-tecnica",
@@ -1414,23 +1282,11 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    pros: [
-      "639 CV y 1.130 Nm: 0-100 en 3,3 s, el SUV eléctrico más rápido de Porsche",
-      "590 km de autonomía WLTP",
-      "Carga ultrarrápida de 270 kW en 800 V",
-      "Eje trasero direccional y suspensión neumática de serie",
-      "Etiqueta Cero con prestaciones de deportivo",
-    ],
-    contras: [
-      "117.426 €: más caro que un Cayenne E-Hybrid",
-      "2.480 kg: el Macan más pesado con diferencia",
-      "Maletero de 480 l: menos que el Macan 4",
-      "18,3 kWh/100 km WLTP: el consumo castiga la autonomía real",
-      "Su precio lo acerca peligrosamente al Cayenne eléctrico",
-    ],
-    imagen: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-interior.webp",
+    pros: ["Con 639 CV y 1.130 Nm firmados por sus dos motores eléctricos, despacha el sprint hasta 100 km/h en apenas 3,3 segundos", "Su velocidad punta alcanza 260 km/h, territorio reservado normalmente a coupés deportivos y no a un todocamino de cinco puertas", "Homologa 590 kilómetros WLTP pese a ejercer de buque insignia prestacional, así que viajar lejos no obliga a renunciar al empuje Turbo", "Recargar a 270 kW en corriente continua aprovecha la arquitectura PPE de 800 voltios y acorta muchísimo las paradas durante una ruta larga", "Mantiene cinco asientos dentro de una carrocería SUV de 4.784 mm, por lo que el rendimiento extremo convive con un uso diario perfectamente real"],
+    contras: ["Partir de 117.426 euros lo aleja del Audi SQ6 e-tron, su primo sobre esta misma plataforma PPE con un planteamiento bastante más asequible", "Declarar 2.480 kilos en ficha supone un salto enorme frente al Macan de combustión saliente, sensiblemente más ligero en cualquier comparación directa", "El maletero se conforma con 480 litros, una cifra escasa cuando el equipaje familiar debe caber dentro de un coche de este precio", "Su consumo homologado arranca en 18,3 kWh/100 km y explotar con frecuencia los 639 CV en carretera abierta lo elevará sin remedio", "Compartir batería de 100 kWh con los Macan eléctricos inferiores significa abonar el sobreprecio Turbo sin ganar capacidad energética adicional alguna"],
+    imagen: "",
+    imagenOficial: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1446,25 +1302,11 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Macan Turbo Electric 2026, vista frontal",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Macan Turbo Electric 2026 en puerto de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Macan Turbo Electric 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Folleto oficial Porsche Service del Macan (PDF alojado por Porsche): recomienda el primer mantenimiento intermedio a los 30.000 km o después de 2 años, válido para vehículos Porsche desde el modelo 2005 excepto modelos GT; CarsGuide confirma ese mismo escalón de 2 años o 30.000 km para el Macan eléctrico. Ninguna de las dos fuentes publica una tarifa cerrada en España, por eso los costes quedan en null (verificado el 22/10/2026)", "intervalo": "Cada 2 años o 30.000 km, lo que ocurra primero (Porsche Service recomienda para el Macan un primer mantenimiento intermedio a los 30.000 km o después de 2 años)", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento intermedio (2 años / 30.000 km)", "queSeCambia": "Inspección completa en un Centro Porsche Oficial con materiales y diagnóstico específicos del modelo, determinación de piezas de desgaste a sustituir solo si procede (escobillas o pastillas, por ejemplo) y recorrido de prueba posterior verificando todos los sistemas; al ser eléctrico no hay cambio de aceite de motor"}]},
   },
   {
     id: "porsche-cayenne-2026-precio-ficha-tecnica",
@@ -1509,9 +1351,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "Tamaño considerable: 4,93 m de largo",
       "Las opciones imprescindibles encarecen mucho la factura",
     ],
-    imagen: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1527,24 +1369,9 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Cayenne 2026, vista tres cuartos",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Porsche Cayenne 2026 en carretera rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/porsche-cayenne-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1592,7 +1419,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "mt7G5h0q9tE",
     videoCanal: "auto10",
     opiniones: [],
@@ -1620,12 +1447,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1673,7 +1495,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1701,12 +1523,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne Coupé 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1754,7 +1571,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1782,12 +1599,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche Cayenne Turbo E-Hybrid 2026",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -1835,7 +1647,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     ],
     imagen: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1863,12 +1675,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Porsche 718 Spyder RS 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {

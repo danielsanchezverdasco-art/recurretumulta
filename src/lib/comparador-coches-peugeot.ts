@@ -19,7 +19,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -81,7 +81,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-208 con i-Cockpit",
         "ancho": 1920,
         "alto": 1280
@@ -102,7 +102,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -164,7 +164,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 208 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -185,7 +185,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -201,20 +201,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "405 km de autonomía WLTP con batería de 54 kWh (50,8 útiles)",
-      "Carga rápida de 100 kW en DC y 11 kW en alterna",
-      "Etiqueta Cero con formato SUV urbano muy demandado",
-      "260 Nm de par: respuesta inmediata en ciudad",
-      "Consumo contenido de 15,3 kWh/100 km",
-    ],
-    contras: [
-      "Desde 33.545 €: más caro que el E-208 con la misma mecánica",
-      "Maletero de 341 litros, mejorable para un SUV",
-      "Velocidad máxima limitada a 150 km/h",
-      "9,1 s de 0 a 100: no es el eléctrico más rápido del segmento",
-      "1.625 kg de peso se notan en carreteras viradas",
-    ],
+    pros: ["Homologa 405 km WLTP gracias a los 54 kWh que la renovación de 2023 montó bajo el piso, un salto claro frente al e-2008 original presentado en 2019", "Acepta recargas a 100 kW en corriente continua y a 11 kW en alterna: enchufe doméstico durante la noche y paradas breves cuando toca viajar", "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones sin las limitaciones que ya condicionan incluso al 2008 Hybrid de su propia gama", "El puesto de conducción i-Cockpit 3D con pantalla central de 10 pulgadas sigue sin equivalente entre los SUV urbanos eléctricos que rondan su precio", "Firmar 15,3 kWh/100 km homologados con carrocería SUV y 1.625 kg tiene mérito: gasta como un utilitario eléctrico pese a su formato elevado"],
+    contras: ["Arranca en 33.545 euros compartiendo motor y batería con el Opel Mokka Electric y el Jeep Avenger eléctricos: pagas el diseño Peugeot, no una mecánica distinta", "Esos 341 litros de maletero saben a poco en un coche vendido como familiar urbano: sillita, compra semanal y equipaje blando ya obligan a encajar piezas", "Tarda 9,1 segundos en el 0 a 100 y se planta en 150 km/h de máxima, prestaciones de coche tranquilo pese a costar como un compacto", "Pesa 1.625 kg, mucho para un turismo de 4,30 metros: en puertos y rotondas enlazadas la inercia manda más que sus 156 CV", "Su carrocería jamás pasó por Euro NCAP en versión eléctrica: la nota de 2019 corresponde al 2008 de combustión y no puede traspasarse a este E-2008"],
     largoMm: 4304,
     anchoMm: 1775,
     altoMm: 1550,
@@ -247,7 +235,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-2008",
         "ancho": 1920,
         "alto": 1280
@@ -261,6 +249,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Fuentes de Peugeot verificadas el 22/10/2026: la tabla oficial de mantenimiento con la que Peugeot compara sus eléctricos CMP frente a los de combustión (revisiones periódicas cada 25.000 km o 2 años, filtro de habitáculo con la misma cadencia y líquido de frenos cada 2 años) y la operación inicial de 12.500 km o 1 año documentada específicamente para el e-2008. Peugeot España no publica una tarifa cerrada de estas revisiones, por eso todos los costes quedan en null", "intervalo": "Operación inicial a los 12.500 km o 1 año; después, revisiones cada 25.000 km o 2 años, lo que ocurra primero (programa de Peugeot para sus eléctricos sobre la plataforma CMP)", "revisiones": [{"costeAproxEur": null, "nombre": "Operación inicial, a los 12.500 km o 1 año", "queSeCambia": "Control general del sistema de alta tensión, frenos, neumáticos, alumbrado y niveles; al ser eléctrico puro no hay aceite de motor que sustituir en esta primera visita"}, {"costeAproxEur": null, "nombre": "Revisión periódica, cada 25.000 km o 2 años", "queSeCambia": "Sustitución del filtro del habitáculo y chequeo completo de la batería de tracción, la electrónica, el chasis y los elementos de desgaste, según la tabla de mantenimiento que Peugeot publica para sus eléctricos"}, {"costeAproxEur": null, "nombre": "Líquido de frenos, cada 2 años", "queSeCambia": "Renovación completa del líquido de frenos con independencia del kilometraje recorrido, partida que Peugeot fija con periodicidad bienal en su comparativa oficial de mantenimiento eléctrico"}]},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos Euro NCAP: Euro NCAP ensayó en 2019 el Peugeot 2008 de combustión (4 estrellas con el equipamiento de serie y 5 con el paquete opcional Safety Plus), pero esa calificación cubre solo las variantes de gasolina y diésel; ANCAP, que la traslada, confirma expresamente que el e-2008 eléctrico no ha sido ensayado y está sin calificar, y Euro NCAP no lista ninguna prueba específica de esta versión eléctrica.", "url": null},
   },
   {
     id: "peugeot-e-208-gti-2026-precio-ficha-tecnica",
@@ -268,7 +258,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -330,7 +320,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Peugeot E-208 GTi",
         "ancho": 1920,
         "alto": 1280
@@ -351,7 +341,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -367,20 +357,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 58.4,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "447 km de autonomía WLTP: de los mejores compactos eléctricos",
-      "Batería de 58,4 kWh (55,4 útiles) con 100 kW de carga rápida",
-      "Consumo de solo 15 kWh/100 km, muy eficiente",
-      "Maletero de 361 litros, igual que el 308 térmico",
-      "Etiqueta Cero con acabado Allure muy completo",
-    ],
-    contras: [
-      "Desde 37.350 €: caro frente a rivales chinos",
-      "9,3 s de 0 a 100: prestaciones tranquilas",
-      "1.749 kg: el peso lastra la agilidad del 308",
-      "Carga en alterna de 11 kW, sin opción de 22 kW",
-      "La versión SW eléctrica no se vende en España",
-    ],
+    pros: ["La variante sin emisiones de la tercera generación del 308 homologa 447 km, margen amplio para encadenar desplazamientos laborales sin visitar cargadores públicos cada día", "Frente a un Volkswagen ID.3 o un Opel Astra Electric, su gasto oficial de 15 kWh cada 100 km lo coloca entre los compactos que menos consumen", "Acepta recarga en corriente continua hasta 100 kW aprovechando sus 58,4 kWh, así que una parada corta en carretera devuelve bastantes kilómetros útiles", "Electrificarse no le ha costado capacidad de carga: conserva 361 litros para equipaje, por lo que no exige viajar más ligero que en las versiones de combustión", "Ya desde el acabado Allure llega bien dotado para el uso diario, y su distintivo Cero permite moverse sin restricciones por las zonas de bajas emisiones"],
+    contras: ["Partir de 37.350 € lo sitúa en clara desventaja ante un MG4 Electric o un Cupra Born, alternativas que disputan exactamente el mismo cliente compacto", "Completar el paso de 0 a 100 km/h en 9,3 segundos resulta discreto y no transmite esa respuesta fulminante que muchos esperan de un eléctrico", "Con 1.749 kg sobre la báscula se muestra menos suelto en cambios de apoyo y frenadas que sus hermanos con motor térmico de esta misma carrocería", "En corriente alterna se queda en 11 kW y carece de cargador opcional de 22 kW, hándicap si recargas habitualmente en postes públicos de baja potencia", "Quien prefiera la carrocería familiar SW deberá renunciar a esta mecánica en España, porque aquí la oferta eléctrica se limita a la berlina de cinco puertas"],
     largoMm: 4360,
     anchoMm: 1850,
     altoMm: 1480,
@@ -413,7 +391,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-308",
         "ancho": 1920,
         "alto": 1280
@@ -427,6 +405,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"intervalo": "Revisión inicial a 1 año o 12.500 km; después, cada 2 años o 25.000 km, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial", "queSeCambia": "Control general del vehículo y de la eficacia de la climatización; la nota técnica indica que no se realiza recalado del estado de salud (SOH) de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión periódica", "queSeCambia": "Inspección programada cada 25.000 km o 2 años, incluyendo el control de la eficacia de la climatización"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 2 años"}, {"costeAproxEur": null, "nombre": "Filtro de habitáculo", "queSeCambia": "Sustitución del filtro de habitáculo cada 25.000 km o 2 años"}]},
   },
   {
     id: "peugeot-308-phev-195-2026-precio-ficha-tecnica",
@@ -434,7 +413,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -450,20 +429,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "85 km de autonomía eléctrica: el trayecto diario sin gastar gasolina",
-      "196 CV y 360 Nm con 7,6 s de 0 a 100: el 308 más rápido",
-      "Etiqueta Cero con solo 18 g/km de CO2",
-      "Consumo homologado de 0,8 l/100 km con la batería cargada",
-      "Maletero de 361 litros, sin penalización frente al térmico",
-    ],
-    contras: [
-      "Desde 35.830 €: casi 8.000 € más que el 308 Hybrid 145",
-      "Si no lo cargas a diario, el consumo real se dispara",
-      "1.698 kg: el peso extra se nota en curva",
-      "Sin carga rápida en continua",
-      "Capacidad de la batería no publicada por la marca",
-    ],
+    pros: ["Con 85 km eléctricos WLTP, quien tenga enchufe en casa puede encadenar la semana laboral entera sin que el motor de gasolina despierte entre trayecto y trayecto.", "El conjunto suma 196 CV con 360 Nm de par: deja el 0 a 100 en 7,6 segundos y firma 225 km/h de punta, el registro más rápido entre los 308 de este fichero.", "A diferencia del E-308 puramente eléctrico, aquí un viaje largo no exige planificar paradas de carga: agotada la batería queda el depósito, y aun así luce el distintivo Cero.", "Declara 361 litros de maletero, exactamente el mismo volumen que el E-308 eléctrico de la propia gama: instalar la batería no le ha robado espacio frente a su hermano.", "Su cinco puertas mide 4.367 mm, 269 mm menos que el SW enchufable: en ciudad y al aparcar se maneja con mucha menos carrocería que vigilar por el retrovisor."],
+    contras: ["La tarifa arranca en 35.830 euros y se acerca peligrosamente al eléctrico puro: solo 1.520 euros lo separan del E-308 de 37.350 euros que vende la misma marca.", "Quien necesite cargar bultos mirará al familiar: por 3.950 euros más, el SW enchufable eleva el maletero desde estos 361 litros hasta los 548 litros.", "Pesa 1.698 kilos para ser un compacto de tracción delantera, un lastre que penaliza agilidad y gasto real cuando la parte eléctrica ya no aporta empuje.", "La casilla de carga rápida en corriente continua queda vacía en su ficha: recuperar autonomía fuera de casa depende de postes de alterna y de tener paciencia.", "En Euro NCAP se quedó en cuatro estrellas en 2022, con los asistentes puntuados al 65 %: un Skoda Octavia coetáneo presume de cinco en este segmento."],
     largoMm: 4367,
     anchoMm: 1852,
     altoMm: 1441,
@@ -496,7 +463,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -510,6 +477,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Peugeot España, página oficial de Revisión Oficial (verificada el 22/10/2026): detalla las operaciones incluidas en cada revisión, pero no publica intervalo ni tarifa cerrada para este PHEV; el intervalo anual o cada 20.000 km procede de la explicación de la garantía Peugeot Allure Care publicada por un servicio oficial de la red Peugeot (Quadis León Auto, verificada el 22/10/2026), por lo que todos los costes quedan en null", "intervalo": "Cada año o 20.000 km, según la motorización (recomendación de Peugeot recogida por su red oficial al explicar la cobertura Allure Care); el detalle exacto de este enchufable lo fijan su guía de mantenimiento y el indicador de servicio del propio coche", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión oficial periódica", "queSeCambia": "Cambio de aceite con sustitución de su filtro, diagnóstico electrónico con actualización eventual de los calculadores, control del desgaste mecánico y de la seguridad, reposición de líquidos si hace falta y actualización del indicador de mantenimiento, tal como describe Peugeot España en su página de Revisión Oficial"}, {"costeAproxEur": null, "nombre": "Control del sistema híbrido enchufable en la revisión", "queSeCambia": "Comprobación del sistema eléctrico dentro del diagnóstico electrónico de la revisión oficial; Peugeot no publica una operación separada ni una tarifa cerrada para este 308 enchufable, así que el alcance concreto se confirma en el Servicio Oficial al pedir la cita"}]},
+    euroncap: {"ano": 2022, "estrellas": 4, "nota": "Cuatro estrellas publicadas el 25 de mayo de 2022: adulto 76 %, infantil 84 %, usuarios vulnerables 68 % y asistentes 65 %. La nota oficial de Euro NCAP de esa ronda indica que la calificación se aplica también a las variantes PHEV, y su tabla de validez incluye al 308 hatchback híbrido de 1.6; no monta airbag central entre los asientos delanteros.", "url": "https://www.euroncap.com/en/results/peugeot/308/45875"},
   },
   {
     id: "peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica",
@@ -517,7 +486,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -579,7 +548,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 SW Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -600,7 +569,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -616,20 +585,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "El familiar PHEV más equilibrado: 548 litros y 85 km eléctricos",
-      "196 CV y 360 Nm: 7,7 s de 0 a 100 con 5 plazas y equipaje",
-      "Etiqueta Cero con 18 g/km de CO2",
-      "Consumo homologado de 0,8 l/100 km en uso mixto cargado",
-      "Acabado GT con i-Cockpit completo de serie",
-    ],
-    contras: [
-      "Desde 39.780 €: el 308 más caro de la gama",
-      "El maletero pierde 60 litros frente al SW híbrido",
-      "1.737 kg: se nota el peso en consumo real sin carga",
-      "Sin carga rápida en continua",
-      "Capacidad de batería no publicada por la marca",
-    ],
+    pros: ["Con las cinco plazas ocupadas conserva 548 litros para equipaje, 187 litros más que el maletero del 308 compacto enchufable de esta misma gama.", "Recorrer hasta 85 kilómetros en eléctrico permite hacer la ruta escolar, la compra grande y el trayecto laboral sin arrancar el gasolina entre semana.", "Cargado para una escapada larga, mantiene 225 km/h de punta y un 0 a 100 en 7,7 segundos, cifras impropias de un familiar pensado para cargar.", "La etiqueta Cero llega sin renunciar al portón trasero amplio: entra y sale de zonas restringidas llevando bicicletas, perros o maletas voluminosas.", "Con 4.636 mm de longitud y solo 1.442 mm de altura, aparca y entra en garajes comunitarios con menos apuros que un SUV familiar equivalente."],
+    contras: ["La factura familiar duele: parte de 39.780 euros, exactamente 3.950 euros por encima del 308 enchufable compacto con idéntica mecánica.", "Guardar la batería bajo el piso recorta 60 litros respecto al 308 SW Hybrid, justo el espacio que se echa en falta con equipaje blando hasta el techo.", "Sobre la báscula marca 1.737 kilos, así que sin recargas frecuentes el consumo homologado de 0,8 litros queda muy lejos del gasto cotidiano.", "En ruta no existe carga rápida en corriente continua que salve una parada breve: recuperar autonomía eléctrica exige una parada larga en alterna.", "Solo ofrece cinco plazas y tracción delantera, sin variante de siete asientos ni tracción integral en esta motorización de 195 CV."],
     largoMm: 4636,
     anchoMm: 1852,
     altoMm: 1442,
@@ -662,7 +619,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 308 SW Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -676,6 +633,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Peugeot UK publica en su página oficial de ofertas para propietarios los intervalos de turismos Plug-In Hybrid (1 año/20.000 millas) y las operaciones por edad/kilometraje incluidas; Peugeot Irlanda indica que cada PHEV sigue un plan específico recogido en el libro digital de mantenimiento. Verificado el 22/10/2026. Peugeot España no publica en abierto la tabla ni precios cerrados de revisión de esta versión, por lo que no se citan costes.", "intervalo": "Cada 1 año o 20.000 millas según la tabla oficial de intervalos de Peugeot UK para Plug-In Hybrid (verificado el 22/10/2026); Peugeot remite el plan concreto de cada coche a su libro digital de mantenimiento", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual programada del híbrido enchufable", "queSeCambia": "Operaciones sistemáticas del plan Peugeot: cambio de aceite y filtro del motor de gasolina, inspección del sistema híbrido, de la batería de tracción y de los puntos de seguridad del familiar"}, {"costeAproxEur": null, "nombre": "Operaciones por edad o kilometraje", "queSeCambia": "Cuando toca por edad o kilometraje, Peugeot incluye líquido de frenos, bujías y filtros de aire, de combustible y de polen, según corresponda al tren motriz"}]},
+    euroncap: {"ano": 2022, "estrellas": 4, "nota": "Cuatro estrellas en 2022: adulto 76 %, infantil 84 %, usuarios vulnerables 68 % y asistentes 65 %. El coche ensayado fue un 308 SW PureTech 130 Allure y la nota de Euro NCAP precisa que la calificación también se aplica a las variantes PHEV.", "url": "https://cdn.euroncap.com/media/69655/euroncap-2022-peugeot-308-datasheet.pdf"},
   },
   {
     id: "peugeot-408-hibrido-145-2026-precio-ficha-tecnica",
@@ -683,7 +642,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -745,7 +704,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 408 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -766,7 +725,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -782,20 +741,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 14.6,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "241 CV: el 408 más potente de la gama",
-      "Batería de 14,6 kWh con etiqueta Cero",
-      "Consumo homologado de 2,6 l/100 km",
-      "Fastback con portón: practicidad de familiar",
-      "Acabado Allure muy equipado desde 41.450 €",
-    ],
-    contras: [
-      "Maletero de 415 litros: pierde 121 litros frente al híbrido",
-      "85 km eléctricos en condiciones ideales; en carretera se agotan pronto",
-      "Desde 41.450 €: salto importante sobre el Hybrid 145",
-      "Sin carga rápida en continua",
-      "Prestaciones oficiales no publicadas",
-    ],
+    pros: ["Conjunto de 180 CV térmicos más 125 CV eléctricos: 241 CV combinados y cambio e-DCS7 de siete marchas, una combinación exclusiva del 408 dentro de Peugeot", "Los 85 km eléctricos homologados cubren la jornada urbana sin arrancar el motor de gasolina, manteniendo la etiqueta Cero de la DGT en esta versión", "Recarga completa en 2 horas y 5 minutos con wallbox de 7,4 kW, un tiempo asumible durante una noche o una jornada laboral completa", "Portón de fastback sobre 4.687 mm de carrocería: boca de carga más práctica que la tapa estrecha de una berlina convencional de tres volúmenes", "Consumo homologado de 2,6 l/100 km cuando la batería de 14,6 kWh se aprovecha con recargas frecuentes entre trayectos cortos y medianos"],
+    contras: ["Maletero de 415 litros en esta versión enchufable, un recorte claro frente a los 536 litros anunciados por Stellantis para el 408 en 2022", "1.771 kg de peso: el sobrepeso del sistema enchufable se deja sentir frente a un 408 Hybrid 145, más ligero y sencillo de mantener", "Sin carga en corriente continua y con el cargador de 7,4 kW en alterna ofrecido como opción, según la nota oficial de Stellantis", "Cuatro estrellas Euro NCAP obtenidas en 2022, por debajo de las cinco que presumen muchos familiares europeos lanzados en los últimos años", "41.450 euros de partida en acabado Allure: posicionamiento alto para la parte alta del segmento C, antes de sumar opciones y wallbox doméstico"],
     largoMm: 4687,
     anchoMm: 1848,
     altoMm: 1478,
@@ -828,7 +775,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 408 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -842,6 +789,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77 / motor.com.co",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Peugeot España, página oficial de revisión oficial (consultada el 22/10/2026), donde se detallan las operaciones de cada revisión sin publicar un intervalo kilométrico específico para esta motorización; manual oficial del Peugeot 408 2024, apartado del indicador de mantenimiento", "intervalo": "Sin intervalo fijo publicado en abierto por Peugeot España para el 408 Plug-In Hybrid 240 e-DCS7 (verificado el 22/10/2026); el manual oficial del 408 indica que el indicador de mantenimiento calcula el vencimiento por distancia recorrida y tiempo transcurrido, y que el servicio puede consistir en una visita anual o un servicio completo", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión oficial Peugeot", "queSeCambia": "Cambio de aceite con sustitución del filtro de aceite, diagnóstico electrónico con actualización eventual de los calculadores, control del desgaste mecánico y de la seguridad, reposición de niveles si es necesario y actualización del indicador de mantenimiento, según describe Peugeot España"}]},
+    euroncap: {"ano": 2022, "estrellas": 4, "nota": "4 estrellas en 2022: adulto 76%, infantil 84%, usuarios vulnerables 78% y asistencia a la seguridad 65%; valoración basada en gran parte en el Peugeot 308, con pruebas adicionales propias del 408", "url": null},
   },
   {
     id: "peugeot-e-408-electrico-2026-precio-ficha-tecnica",
@@ -849,7 +798,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "R3sy9iAWAMk",
     videoCanal: "Autosemana",
     marca: "Peugeot",
@@ -911,7 +860,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 992
       },
       {
-        "src": "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-408",
         "ancho": 1920,
         "alto": 1280
@@ -932,7 +881,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -994,7 +943,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-3008 con i-Cockpit panorámico",
         "ancho": 1920,
         "alto": 1280
@@ -1015,7 +964,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1077,7 +1026,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot E-3008 Long Range",
         "ancho": 1920,
         "alto": 1280
@@ -1098,7 +1047,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1114,20 +1063,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 21,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "87 km de autonomía eléctrica con 17,9 kWh útiles",
-      "194 CV y 350 Nm: 7,8 s de 0 a 100",
-      "Etiqueta Cero con solo 19 g/km de CO2",
-      "Depósito de 55 litros: autonomía total superior a 800 km",
-      "Maletero de 520 litros, igual que las demás versiones",
-    ],
-    contras: [
-      "Desde 41.160 €: 7.000 € más que el 3008 Hybrid",
-      "1.953 kg: el más pesado de la gama 3008",
-      "Sin carga rápida en continua",
-      "Consumo real alto si no se carga a diario",
-      "220 km/h de punta, pero con la batería vacía pierde brío",
-    ],
+    pros: ["Homologa 87 kilómetros sin quemar gasolina, margen suficiente para encadenar varios días laborables de ida y vuelta al trabajo enchufando únicamente en casa por la noche.", "El conjunto enchufable entrega 194 CV junto a 350 Nm y firma 7,8 segundos hasta los 100 km/h, cifras impropias de un familiar que declara 19 g/km.", "Su puesto i-Cockpit estrena pantalla panorámica curvada de 21 pulgadas sobre un volante pequeño, una firma interior que ni Tucson ni Rafale intentan copiar.", "Con las cinco plazas ocupadas retiene 520 litros para equipaje, así que electrificarse aquí no obliga a viajar con bolsas blandas entre las piernas traseras.", "Llenar su depósito de 55 litros suma la reserva térmica a la carga eléctrica, combinación pensada para cruzar media península sin planificar paradas alrededor de un enchufe."],
+    contras: ["La tarifa arranca en 41.160 euros, posicionamiento que lo empuja contra enchufables de marcas con imagen premium y exige justificar cada euro frente al Hybrid de casa.", "Euro NCAP lo dejó en cuatro estrellas durante 2025, lastrado por un 62 % en asistentes, mientras Rafale o Enyaq presumen de la máxima calificación posible.", "Sobre la báscula declara 1.953 kilos, el sobrepeso de cargar motor 1.6, batería y depósito juntos, perceptible cuando la carretera se retuerce o toca frenar fuerte.", "Recuperar energía en ruta queda limitado a corriente alterna: la ficha no registra carga en continua, así que una pausa breve de café apenas suma kilómetros eléctricos.", "El 0,9 l/100 km homologado se sostiene enchufando con disciplina; quien lo use como gasolina convencional arrastrará casi dos toneladas y verá cómo el consumo se dispara."],
     largoMm: 4542,
     anchoMm: 1895,
     altoMm: 1641,
@@ -1160,7 +1097,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 3008 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1174,6 +1111,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77 / media.stellantis.com",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Peugeot España, página oficial de Revisión Oficial (peugeot.es, verificada el 22/10/2026), que detalla qué incluye cada revisión pero no publica intervalo en kilómetros ni tarifa cerrada para este 3008 Plug-In Hybrid 195, y manual del propietario del Peugeot 3008 (2024) sobre el indicador de mantenimiento y la visita anual o servicio completo; por eso todos los costes quedan en null", "intervalo": "Sin plan oficial de intervalos en kilómetros publicado por Peugeot España para este PHEV (verificado el 22/10/2026): el manual del propietario del 3008 de 2024 remite al indicador de mantenimiento, calculado por distancia y tiempo desde la última revisión, y distingue entre una visita anual y un servicio completo", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión oficial Peugeot según indicador de mantenimiento", "queSeCambia": "Peugeot España describe su revisión oficial con cambio de aceite motor y sustitución de su filtro, diagnóstico electrónico con eventual actualización de calculadores, control de desgaste mecánico y de seguridad, reposición de líquidos salvo carburante y puesta a cero del indicador de mantenimiento."}, {"costeAproxEur": null, "nombre": "Visita anual frente a servicio completo", "queSeCambia": "El manual del propietario del 3008 de 2024 indica que, según el plan de mantenimiento del vehículo, el servicio puede consistir en una visita anual o en un servicio completo; el contenido concreto de cada visita lo fija ese plan y el propio indicador del cuadro de instrumentos."}]},
+    euroncap: {"ano": 2025, "estrellas": 4, "nota": "Cuatro estrellas en la prueba de mayo de 2025: ocupante adulto 80 %, ocupante infantil 85 %, usuarios vulnerables 79 % y asistentes de seguridad 62 %, apartado que le impidió alcanzar la quinta estrella.", "url": "https://euroncap.blob.core.windows.net/media/89741/euroncap-2025-peugeot-3008-datasheet.pdf"},
   },
   {
     id: "peugeot-5008-hibrido-145-2026-precio-ficha-tecnica",
@@ -1181,7 +1120,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1243,7 +1182,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1264,7 +1203,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1326,7 +1265,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 Plug-In Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1347,7 +1286,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "RxFnhQ0deUU",
     videoCanal: "Arrancamos",
     marca: "Peugeot",
@@ -1363,20 +1302,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Berlina ejecutiva con etiqueta Cero y 240 km/h de punta",
-      "224 CV y 360 Nm: 7,9 s de 0 a 100",
-      "64 km de autonomía eléctrica para commuting",
-      "Consumo homologado de 1,3 l/100 km y 30 g/km",
-      "Diseño fastback con puertas sin marco",
-    ],
-    contras: [
-      "Desde 45.610 €: compite con premium alemanes",
-      "64 km eléctricos, por debajo de rivales PHEV actuales",
-      "Maletero de 487 litros, justo para una berlina de 4,75 m",
-      "Capacidad de batería no publicada",
-      "El 508 es de los pocos Peugeot sin versión 100 % eléctrica",
-    ],
+    pros: ["Su silueta fastback de solo 1.403 mm de altura y las ventanillas sin cerco lo separan visualmente de cualquier berlina generalista rival", "Con 64 km eléctricos homologados cubre la ida y vuelta diaria al trabajo sin arrancar el PureTech, conservando el distintivo Cero", "El conjunto entrega 224 CV y empuja hasta 240 km/h, una punta superior a los 228 km/h que declara el BMW 530e", "Si duerme enchufado cada noche, el gasto declarado se queda en 1,3 litros y las emisiones en 30 gramos por kilómetro", "El portón trasero facilita cargar bultos voluminosos en sus 487 litros, ventaja práctica que una berlina clásica de tres volúmenes no ofrece"],
+    contras: ["Parte de 45.610 euros, una tarifa que lo mete en la conversación de quien también valora un Audi A4 o un BMW Serie 3", "Frente a los 101 km eléctricos que declara el BMW 530e, sus 64 km se quedan cortos en desplazamientos largos sin enchufe intermedio", "Los 1.811 kg del conjunto híbrido se perciben en frenadas y rotondas, muy lejos de la ligereza que sugiere su silueta baja", "Entrar a las plazas traseras exige agacharse: con 1.403 mm de altura total, el acceso castiga a pasajeros altos o de movilidad reducida", "La ficha no declara capacidad del acumulador ni potencia máxima de recarga, dos datos que BMW sí publica para el 530e, con 19,4 kWh"],
     largoMm: 4750,
     anchoMm: 1859,
     altoMm: 1403,
@@ -1409,7 +1336,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior ejecutivo del Peugeot 508",
         "ancho": 1920,
         "alto": 1280
@@ -1423,6 +1350,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Información de mantenimiento de Peugeot para el 508 híbrido enchufable recogida por Elyex (revisiones cada año o 15.000/20.000 km en la red oficial; batería de 12 V cada 4 años; correa de accesorios a los 90.000 km o 6 años) y programa Peugeot Allure Care (revisiones anuales o cada 20.000 km para gasolina, diésel, híbridos e híbridos enchufables), verificado el 22/10/2026. Peugeot no publica una tarifa cerrada para este plan, por lo que no se cita ningún coste.", "intervalo": "Revisión cada año o cada 20.000 km, lo primero que se cumpla, en la red oficial Peugeot: la marca mantiene para el 508 híbrido enchufable los mismos intervalos que en sus versiones térmicas (pauta anual o 15.000/20.000 km según uso recogida en su información de mantenimiento)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual o cada 20.000 km", "queSeCambia": "Aceite y filtro del motor 1.6 PureTech, controles de niveles, frenos, neumáticos y del sistema híbrido según el plan de mantenimiento Peugeot"}, {"costeAproxEur": null, "nombre": "Batería de servicio de 12 voltios", "queSeCambia": "Sustitución cada 4 años, un plazo específico de las versiones híbridas enchufables del 508 frente al resto de la gama"}, {"costeAproxEur": null, "nombre": "Correa de accesorios", "queSeCambia": "Sustitución a los 90.000 km o 6 años en el 508 híbrido enchufable, antes que los 120.000 km de las versiones térmicas"}]},
+    euroncap: {"ano": 2018, "estrellas": 5, "nota": "Cinco estrellas en la prueba de 2018 de la segunda generación del 508, la misma a la que pertenece esta ficha: 96 % en ocupante adulto, 86 % en infantil, 71 % en usuarios vulnerables y 79 % en asistencias. Euro NCAP considera caducada esta calificación desde enero de 2025 al endurecerse sus protocolos.", "url": "https://www.euroncap.com"},
   },
   {
     id: "peugeot-508-sw-phev-225-2026-precio-ficha-tecnica",
@@ -1430,7 +1359,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "RxFnhQ0deUU",
     videoCanal: "Arrancamos",
     marca: "Peugeot",
@@ -1492,7 +1421,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Peugeot 508 SW",
         "ancho": 1920,
         "alto": 1280
@@ -1513,7 +1442,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1575,7 +1504,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior modular del Peugeot E-Rifter",
         "ancho": 1920,
         "alto": 1280
@@ -1596,7 +1525,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1612,20 +1541,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "Monovolumen 100 % eléctrico con etiqueta Cero para flotas y VTC",
-      "Maletero de 1.000 litros incluso con todas las plazas",
-      "Versión de 75 kWh con 350 km de autonomía disponible",
-      "Carga rápida de 100 kW en corriente continua",
-      "Desde 43.700 €: alternativa eléctrica al diésel para profesionales",
-    ],
-    contras: [
-      "224 km de autonomía en la versión de 50 kWh: justo para ruta",
-      "Carga en alterna de solo 7,4 kW",
-      "130 km/h de velocidad máxima",
-      "0 a 100 y peso no publicados",
-      "2.027 kg en vacío: pesa como dos utilitarios juntos",
-    ],
+    pros: ["Ocho plazas reales en 4,98 metros y todavía 1.000 litros para equipaje con todas ocupadas, combinación que ningún SUV de siete asientos iguala", "Quien necesite salir de la ciudad puede pedir la batería de 75 kWh y estirar el alcance homologado hasta 350 km WLTP", "Sus 136 CV y 260 Nm mueven en silencio un formato pensado para lanzaderas, VTC y familias numerosas, con etiqueta Cero", "Acepta carga rápida de 100 kW en continua, ritmo útil para turnos profesionales que no pueden aparcarla durante horas", "Deriva del Peugeot Expert comercial, así que comparte taller, recambios y lógica de flota con una furgoneta que las empresas ya conocen"],
+    contras: ["Los 224 km WLTP de esta batería de 50 kWh se quedan cortos en cuanto el servicio incluye autovía con ocho viajeros", "En alterna se conforma con 7,4 kW de serie, así que llenar la batería en casa es tarea de muchas horas", "Su velocidad punta está limitada a 130 km/h, sin margen alguno sobre el límite legal español en autopista", "Pesa 2.027 kg en vacío, lastre que explica un consumo homologado de 24 kWh/100 km, alto incluso entre monovolúmenes eléctricos", "El acabado Business de esta ficha prioriza el trabajo: el ambiente tipo lounge queda reservado al Business VIP, más caro"],
     largoMm: 4981,
     anchoMm: 1920,
     altoMm: 1890,
@@ -1658,7 +1575,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de pasajeros del Peugeot E-Traveller",
         "ancho": 1920,
         "alto": 1280
@@ -1672,6 +1589,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Peugeot España explica en su página oficial de revisión oficial qué incluye cada paso por taller, pero no publica tarifa cerrada ni el cuadro completo de este modelo; el intervalo de 40.000 km/24 meses consta en los datos de equipamiento publicados para el e-Traveller Business (quecochemecompro, verificado el 22/10/2026). Sin tarifa oficial, los costes quedan en null.", "intervalo": "Mantenimiento principal cada 40.000 km o 24 meses, lo primero que ocurra (intervalo publicado para el Peugeot e-Traveller eléctrico en sus acabados Business y Business VIP)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión principal programada", "queSeCambia": "Inspección del sistema de alta tensión y de la batería de tracción, diagnosis electrónica, control de frenos, neumáticos, climatización y niveles; al ser eléctrico no hay cambio de aceite de motor"}, {"costeAproxEur": null, "nombre": "Filtro del habitáculo", "queSeCambia": "Sustitución del filtro de polen del climatizador en las revisiones programadas, el consumible periódico habitual en los eléctricos de Peugeot junto a las verificaciones del vehículo"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Renovación cada 2 años, según la recomendación recogida en el manual del Traveller, coincidiendo con el ciclo bienal de la revisión principal"}]},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: no se ha localizado en euroncap.com una prueba propia del E-Traveller eléctrico ni de su renovación de 2023 (verificado el 22/10/2026). La familia Traveller sí fue evaluada en 2015 con 5 estrellas (87 % adulto, 91 % infantil), en un ensayo publicado como Citroën Spacetourer porque la unidad probada era un Peugeot Traveller 2.0 diésel idéntico en seguridad; esa calificación es antigua, corresponde al diésel previo y no debe atribuirse a este eléctrico de 2026.", "url": null},
   },
   {
     id: "peugeot-3008-hibrido-145-2026-precio-ficha-tecnica",
@@ -1679,7 +1598,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1747,7 +1666,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior i-Cockpit del Peugeot 3008 con pantalla panorámica",
         "ancho": 1200,
         "alto": 800
@@ -1762,7 +1681,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1830,7 +1749,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Peugeot 5008 con pantalla panorámica",
         "ancho": 1200,
         "alto": 800
@@ -1845,7 +1764,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1913,7 +1832,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior i-Cockpit del Peugeot 2008",
         "ancho": 1200,
         "alto": 800
@@ -1928,7 +1847,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-partner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-partner-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -1944,20 +1863,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "336 km WLTP: gran autonomía para su tamaño",
-      "Carga rápida de 100 kW en continua",
-      "Etiqueta Cero para repartir en ZBE",
-      "136 CV y 270 Nm: ágil incluso cargada",
-      "Coste por km muy inferior al diésel",
-    ],
-    contras: [
-      "40.864 €: más que la Partner diésel",
-      "132 km/h de velocidad máxima",
-      "La autonomía cae con carga y frío",
-      "Carga útil penalizada por la batería",
-      "Solo rentable con uso urbano intensivo",
-    ],
+    pros: ["336 km de autonomía WLTP con una batería de solo 50 kWh: para un repartidor que vuelve cada noche a la nave, es margen de sobra sin pagar por una batería mayor que no va a amortizar.", "Admite carga rápida en corriente continua a 100 kW, el doble de su batería por hora: una parada corta en un cargador público salva una ruta que se alarga sin dejar la furgoneta inmovilizada media jornada.", "Los 270 Nm están disponibles desde parado y con tracción delantera: saliendo de un semáforo cargada no hay que pelearse con embrague ni marchas, que es justo donde una diésel de reparto más castiga al conductor.", "Etiqueta Cero de la DGT y 0 g/km de CO2: entra en las ZBE de Madrid o Barcelona sin mirar el calendario de restricciones que sí condiciona a la Partner diésel.", "Mide 4.401 mm de largo y mantiene cabina de 3 plazas: aparca y gira casi como un turismo en calles estrechas, pero sigue siendo una furgoneta de trabajo y no un derivado recortado."],
+    contras: ["Desde 40.864 € según la ficha: el salto frente a la Partner de combustión solo se amortiza con muchos kilómetros urbanos y carga barata en base; con poco uso, la diésel gana la cuenta.", "Velocidad máxima de 132 km/h: en autovía viaja siempre cerca de su techo, con el consumo disparado y sin reserva para adelantar camiones con soltura.", "Los 336 km son WLTP y en vacío: con carga, frío y tramos de autovía la cifra real cae de forma sensible, así que las rutas interurbanas largas hay que planificarlas con cargador intermedio.", "Pesa 1.759 kg por la batería de 50 kWh bajo el piso: ese peso extra se resta de la carga útil frente a la versión térmica, algo que se nota si trabajas siempre al límite de kilos."],
     largoMm: 4401,
     anchoMm: 1921,
     altoMm: 1860,
@@ -1996,7 +1903,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-e-partner-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Peugeot E-Partner eléctrica",
         "ancho": 1200,
         "alto": 800
@@ -2004,6 +1911,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "massymotors (ficha oficial Peugeot)",
     fuenteUrl: "https://recursos.massymotors.co/massymotors/ficha_tecnica/peugeot/ficha_tecnica_peugeot_e-partner.pdf",
+    euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/peugeot/partner/v110/", "nota": "Resultado Euro NCAP verificado para este modelo."},
   },
   {
     id: "peugeot-e-expert-2026-precio-ficha-tecnica",
@@ -2011,7 +1919,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/peugeot-e-expert-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/peugeot-e-expert-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Peugeot",
@@ -2079,7 +1987,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/peugeot-e-expert-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Peugeot E-Expert eléctrica",
         "ancho": 1200,
         "alto": 800

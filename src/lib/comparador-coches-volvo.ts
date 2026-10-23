@@ -855,20 +855,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "455 CV y 5,4 s: el XC90 más rápido con etiqueta Cero",
-      "71 km eléctricos: el día a día sin gastar gasolina",
-      "7 plazas y 640 L de maletero: no sacrifica espacio",
-      "Solo 30 g/km de CO2: impuesto de matriculación del 0 %",
-      "Confort de marcha de auténtica berlina de lujo",
-    ],
-    contras: [
-      "91.151 €: el XC90 más caro de la gama",
-      "71 km eléctricos: lejos de los 164 km del nuevo T8 de 2026",
-      "2.365 kg: se nota en frenada y consumo sin carga",
-      "Sin carga rápida: solo carga en alterna",
-      "Si no se enchufa a diario, pierde todo el sentido",
-    ],
+    pros: ["Con 455 CV y 709 Nm, este siete plazas de 2.365 kg acelera de 0 a 100 km/h en 5,4 s: cifras de deportivo metidas en el SUV familiar grande de Volvo.", "Sus 71 km homologados en eléctrico y sus 30 g/km de CO₂ le dan la etiqueta Cero de la DGT y permiten resolver la jornada urbana sin arrancar el motor de gasolina, si se enchufa cada noche.", "Mantiene las siete plazas y 640 litros de maletero en una carrocería de 4.953 mm, algo que sus rivales enchufables de Audi, BMW o Mercedes no siempre igualan sin renunciar a la tercera fila.", "La segunda generación logró cinco estrellas Euro NCAP en 2015 con un 100 % en Safety Assist y un 97 % en protección de adultos, la mejor nota de su año."],
+    contras: ["Los 91.151 € de partida lo sitúan como el XC90 más caro de la gama 2025, muy por encima de las versiones con hibridación ligera de la misma carrocería.", "No admite carga rápida en corriente continua, solo carga en alterna: recuperar la batería en un viaje largo no es una opción realista en una parada breve.", "El consumo homologado de 1,2 l/100 km depende de salir con la batería llena; la propia estimación de la ficha advierte de que sin cargar a diario el coste se iguala al del B5.", "Con 71 km eléctricos, quien haga a diario más distancia que esa entrará constantemente en modo híbrido cargando con 2.365 kg, y la velocidad máxima está limitada a 180 km/h."],
     largoMm: 4953,
     anchoMm: 1923,
     altoMm: 1767,
@@ -915,6 +903,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/volvo/xc90/2025/estandar/phev/xc90-t8-awd/datos",
+    euroncap: {"estrellas": 5, "ano": 2015, "url": "https://www.media.volvocars.com/us/en-us/media/pressreleases/167069/volvo-xc90-receives-top-five-star-rating-in-euro-ncap-assessment", "nota": null},
   },
   {
     id: "volvo-xc40-b3-2025-precio-ficha-tecnica",
@@ -1102,20 +1091,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "350 CV y 5,4 s: el familiar más rápido de Volvo",
-      "93 km eléctricos: la semana sin pisar una gasolinera",
-      "Solo 17 g/km de CO2: impuesto de matriculación del 0 %",
-      "Tracción total y 481 L de maletero: no renuncia a nada",
-      "Etiqueta Cero con la versatilidad de la gasolina",
-    ],
-    contras: [
-      "62.250 €: 12.300 € más que el V60 B4",
-      "2.064 kg: el peso se nota en apoyo",
-      "Sin carga rápida: solo carga en alterna",
-      "Si no se enchufa a diario, el consumo se dispara",
-      "Maletero algo menor que el B4 (481 frente a 519 L)",
-    ],
+    pros: ["Con 350 CV y un 0 a 100 km/h en 5,4 s acelera como un deportivo, pero conserva 481 litros de maletero para cargar el equipaje de cinco ocupantes", "Sus 93 km de autonomía homologada permiten hacer el trayecto diario al trabajo en modo eléctrico y volver sin arrancar el motor de gasolina, con etiqueta Cero de la DGT", "La tracción total con motor eléctrico trasero aporta motricidad en mojado sin obligarte a un SUV: mide 1.432 mm de alto y mantiene la silueta baja del familiar", "Homologa 0,7 l/100 km y solo 17 g/km de CO2, unas cifras imposibles en un familiar de gasolina de 350 CV sin enchufe"],
+    contras: ["Los 62.250 € de partida lo dejan en tarifa de familiar premium alto, y cualquier paquete de equipamiento lo aleja todavía más de un V60 con hibridación ligera", "Pesa 2.064 kg: en apoyos cerrados y en frenadas repetidas esa masa se percibe, y también castiga más neumáticos y frenos que en las versiones ligeras", "No admite carga rápida en corriente continua, así que recuperar sus 93 km eléctricos en un viaje depende de encontrar un poste de alterna y de tener tiempo para parar", "El sistema enchufable recorta el maletero hasta 481 litros y, si no se recarga a diario, el consumo homologado de 0,7 l/100 km deja de tener relación con el gasto real"],
     largoMm: 4778,
     anchoMm: 1850,
     altoMm: 1432,
@@ -1332,14 +1309,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "EX30 Twin Motor Performance",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 47000,
+    precioDesde: 47961, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 428,
     autonomiaKm: 450,
     maleteroL: 318,
@@ -1356,7 +1333,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Etiqueta Cero",
     ],
     contras: [
-      "~47.000 €: 5.000 € más que el Single Motor",
+      "47.961 € de tarifa oficial: unos 6.000 € más que el Single Motor Extended Range",
       "Maletero de 318 L",
       "1.960 kg: el peso se nota en curva",
       "180 km/h limitados",
@@ -1372,7 +1349,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 543,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo"],
     imagen: "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1400,7 +1377,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-ex30-twin-motor-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo EX30 Twin Motor",
         "ancho": 1200,
         "alto": 800
@@ -1413,14 +1390,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC40 B5",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 44000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 443,
@@ -1437,7 +1414,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Diseño escandinavo que no pasa de moda",
     ],
     contras: [
-      "~44.000 €: más caro que un Qashqai o un Tucson",
+      "Sin tarifa oficial vigente: Volvo España ya no ofrece el B5 en la gama XC40",
       "7,0 l/100 km: gasta más que un híbrido completo",
       "180 km/h limitados por filosofía Volvo",
       "El B3 de 163 CV es más barato y suficiente",
@@ -1453,7 +1430,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 158,
-    aprox: ["precioDesde", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1481,7 +1458,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc40-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC40 con pantalla vertical",
         "ancho": 1200,
         "alto": 800
@@ -1494,14 +1471,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC60 B6",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 60000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 299,
     autonomiaKm: null,
     maleteroL: 483,
@@ -1518,7 +1495,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Etiqueta ECO sin enchufar",
     ],
     contras: [
-      "~60.000 €: el B5 de 250 CV cuesta 8.000 € menos",
+      "Sin tarifa oficial vigente: Volvo España ya no ofrece el B6 en la gama XC60 (actual: B5, T6 y T8)",
       "8,0 l/100 km: el 2.0 apretado gasta",
       "El T6 enchufable tiene Cero por poco más",
       "180 km/h limitados",
@@ -1534,7 +1511,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: 181,
-    aprox: ["precioDesde", "pesoKg", "consumo", "co2"],
+    aprox: ["pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1562,7 +1539,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc60-b6-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC60 con madera y cuero",
         "ancho": 1200,
         "alto": 800
@@ -1575,14 +1552,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "XC60 T6",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 68000,
+    precioDesde: 67300, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 350,
     autonomiaKm: 70,
     maleteroL: 468,
@@ -1591,20 +1568,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     bateriaKwh: 18.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "350 CV y 659 Nm con etiqueta Cero",
-      "~70 km eléctricos: la semana sin gasolina",
-      "5,7 s de 0-100: el XC60 más rápido",
-      "Tracción total eléctrica inteligente",
-      "El PHEV premium con mejor equilibrio",
-    ],
-    contras: [
-      "~68.000 €: 8.000 € más que el B6",
-      "2.210 kg en orden de marcha",
-      "Sin carga rápida en continua",
-      "Maletero de 468 L (15 menos que el B6)",
-      "Hay que cargar a diario para que compense",
-    ],
+    pros: ["350 CV y 659 Nm para despachar el 0 a 100 km/h en 5,7 s pese a su tamaño de SUV familiar de 4.708 mm", "Batería de 18,8 kWh con unos 70 km eléctricos según la ficha: el desplazamiento diario al trabajo puede hacerse sin arrancar el motor de gasolina", "Etiqueta Cero de la DGT, 19 g/km de CO2 y 0,8 l/100 km homologados en la ficha si se enchufa con regularidad", "Tracción total con apoyo eléctrico y 5 plazas: agarre en mojado y en salidas de fin de semana sin renunciar al uso familiar entre semana"],
+    contras: ["Desde unos 68.000 € antes de opciones: entra en el territorio de un BMW X3 enchufable o un Mercedes-Benz GLC híbrido enchufable", "Unos 2.210 kg según la ficha, cifra marcada como aproximada: el peso se deja notar en frenadas largas y enlazando curvas", "No admite carga rápida en corriente continua, así que recuperar los 18,8 kWh en un cargador público durante un viaje resulta poco práctico", "Maletero de 468 litros para un coche de 4,71 m de largo: cumple para la familia, pero la batería le resta capacidad frente a un XC60 sin enchufe"],
     largoMm: 4708,
     anchoMm: 1900,
     altoMm: 1658,
@@ -1615,7 +1580,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 659,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1643,7 +1608,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo XC60 T6",
         "ancho": 1200,
         "alto": 800
@@ -1663,7 +1628,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "XC90 B6",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 85000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 299,
     autonomiaKm: null,
     maleteroL: 640,
@@ -1680,7 +1645,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Diseño atemporal que no envejece",
     ],
     contras: [
-      "~85.000 €: el B5 cuesta 10.000 € menos",
+      "Sin tarifa oficial vigente: la gama XC90 actual en España es B5 y T8, sin B6",
       "8,5 l/100 km y 192 g/km",
       "2.220 kg: se nota en consumos",
       "El T8 enchufable tiene Cero por ~10.000 € más",
@@ -1696,7 +1661,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: 192,
-    aprox: ["precioDesde", "pesoKg", "consumo", "co2"],
+    aprox: ["pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-xc90-b6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1744,7 +1709,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 52000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 529,
@@ -1761,7 +1726,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "El anti-SUV: menos consumo y mejor dinámica",
     ],
     contras: [
-      "~52.000 €: caro frente a un Passat o un Superb",
+      "Sin tarifa oficial vigente: la gama V60 actual en España es B4 y T6 enchufable, sin B5",
       "7,2 l/100 km: gasta más que un diésel equivalente",
       "El T8 enchufable tiene Cero por ~16.000 € más",
       "1,43 m de alto: acceso menos cómodo que un SUV",
@@ -1777,7 +1742,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 163,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v60-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1825,7 +1790,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 T8",
     tipo: "Híbrido enchufable",
     categoria: "Familiar",
-    precioDesde: 68000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 455,
     autonomiaKm: 80,
     maleteroL: 519,
@@ -1834,20 +1799,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     bateriaKwh: 18.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "455 CV y 709 Nm con etiqueta Cero: el familiar más bestia",
-      "4,8 s de 0-100: humilla a deportivos",
-      "~80 km eléctricos para el día a día",
-      "Tracción total y 519 L de maletero",
-      "El sleeper definitivo",
-    ],
-    contras: [
-      "~68.000 €: 16.000 € más que el B5",
-      "2.050 kg: el peso de la hibridación",
-      "Sin carga rápida en continua",
-      "Si no cargas, gasta como un 2.0 turbo de 2 toneladas",
-      "El T6 de 350 CV hace casi lo mismo por menos",
-    ],
+    pros: ["Con 455 CV y 709 Nm es el familiar enchufable más potente de su tamaño: ni el BMW 330e Touring ni el Mercedes Clase C Estate híbrido enchufable se acercan a esa cifra.", "La batería de 18,8 kWh le da unos 80 km eléctricos homologados, suficientes para cubrir la ida y vuelta al trabajo en Madrid sin arrancar el motor de gasolina y con etiqueta Cero de la DGT.", "Conserva 519 litros de maletero y cinco plazas reales pese a la batería y al motor trasero, así que no obliga a elegir entre prestaciones y cargar el equipaje de la familia.", "La tracción total no usa árbol de transmisión: el motor eléctrico de 145 CV mueve el eje trasero, lo que aporta agarre en mojado y salida inmediata desde parado en sus 4,8 s de 0 a 100 km/h."],
+    contras: ["Desde 68.000 euros queda muy por encima del V60 de gasolina y del propio T6 enchufable de 350 CV, que cubre el mismo uso diario eléctrico por bastante menos dinero.", "Sus 2.050 kg se notan en frenadas repetidas y en curvas cerradas: acelera como un deportivo, pero no cambia de dirección con la agilidad que sugiere su aceleración.", "Solo admite carga en corriente alterna y necesita unas tres horas en un wallbox para llenar la batería de 18,8 kWh, así que no hay forma de recuperar autonomía en una parada breve de autopista.", "Si no se enchufa a diario pierde su razón de ser: con la batería descargada mueve dos toneladas con un 2.0 de gasolina, la velocidad máxima está limitada a 180 km/h y la ventaja de la etiqueta Cero se paga igual en la compra."],
     largoMm: 4778,
     anchoMm: 1850,
     altoMm: 1432,
@@ -1858,7 +1811,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 709,
     traccion: "Total",
     emisionesCo2: 16,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volvo-v60-t8-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1906,7 +1859,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 Cross Country B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 58000,
+    precioDesde: 58200, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 529,
@@ -1923,7 +1876,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Ideal para nieve, campo y segundas residencias",
     ],
     contras: [
-      "~58.000 €: 6.000 € más que el V60 normal",
+      "58.200 € de tarifa oficial: más que el V60 normal",
       "7,6 l/100 km: la altura penaliza",
       "No es un todoterreno: sin reductora ni bloqueos",
       "El XC60 B5 cuesta parecido y es más versátil",
@@ -1939,7 +1892,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 172,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v60-cross-country-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1980,14 +1933,14 @@ export const COCHES_VOLVO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volvo",
     modelo: "V90 B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 62000,
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 560,
@@ -2004,7 +1957,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "Confort de berlina grande",
     ],
     contras: [
-      "~62.000 €: el segmento E familiar se encoge",
+      "Sin tarifa oficial verificable del B5 en la gama V90 actual de Volvo España",
       "7,4 l/100 km",
       "4,94 m: solo para quien lo necesita",
       "El V60 hace casi lo mismo por 10.000 € menos",
@@ -2020,7 +1973,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 168,
-    aprox: ["precioDesde", "potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "co2"],
     imagen: "/media/volvo-v90-b5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2048,7 +2001,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volvo-v90-b5-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volvo V90",
         "ancho": 1200,
         "alto": 800

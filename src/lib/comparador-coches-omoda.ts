@@ -12,7 +12,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Omoda",
@@ -80,7 +80,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 5 gasolina con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -93,7 +93,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "bTeIYf2XR8c",
     videoCanal: "SoyMotor",
     marca: "Omoda",
@@ -161,7 +161,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 5 SHS-H con pantallas y flujo de energía híbrida",
         "ancho": 1920,
         "alto": 1280
@@ -174,7 +174,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-7-shs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-7-shs-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "mNHJwG2bNC4",
     videoCanal: "SoyMotor",
     marca: "Omoda",
@@ -242,7 +242,7 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/omoda-7-shs-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda 7 SHS con pantalla deslizante de 15,6 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -356,14 +356,14 @@ export const COCHES_OMODA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/omoda-s5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/omoda-s5-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Omoda",
     modelo: "S5",
     tipo: "Gasolina",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Omoda España no comercializa el S5 (gama ES: 5, 7 y 9); sin tarifa oficial ES
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 570,
@@ -422,10 +422,100 @@ export const COCHES_OMODA: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/omoda-s5-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Omoda S5 con pantalla central",
         "ancho": 1200,
         "alto": 800
+      }
+    ],
+  },
+  {
+    id: "omoda-x-2027-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/omoda-x-2027-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "",
+    videoId: null,
+    videoCanal: null,
+    marca: "Omoda",
+    modelo: "X",
+    tipo: "Híbrido enchufable",
+    categoria: "SUV",
+    precioDesde: null,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    pros: [
+      "Híbrido enchufable con tracción total confirmada: el primer Omoda con enfoque campero real",
+      "4,65 m, 20 cm de altura libre y 70 cm de vadeo: cotas de casi todoterreno",
+      "Versión 100 % eléctrica también anunciada por la marca",
+      "Visión nocturna térmica (detecta riesgos a 90 m) y asistente de IA conversacional SIAS",
+      "Cockpit con pantallas de 10,25\" y 13,2\" y botones físicos para clima y modos de conducción",
+    ],
+    contras: [
+      "Sin precio oficial: la marca no ha dado ninguna referencia",
+      "No llegará a España antes de 2027; fecha de producción sin anunciar",
+      "Potencia, batería definitiva, autonomía y consumos sin confirmar",
+      "Sin prueba EuroNCAP: modelo aún no lanzado al mercado",
+    ],
+    largoMm: 4654,
+    anchoMm: 1920,
+    altoMm: 1702,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: null,
+    parNm: null,
+    traccion: "Total",
+    emisionesCo2: null,
+    aprox: ["largoMm", "anchoMm", "altoMm"],
+    imagen: "/media/omoda-x-2027-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    analisisSlug: "omoda-x-2027-suv-chino-vadea-70-cm",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo aún no lanzado al mercado",
+    },
+    planMantenimiento: {
+      intervalo: "Sin plan publicado para el OMODA X; orientativo según la garantía de la marca en España: 7 años o 150.000 km",
+      revisiones: [
+        {
+          nombre: "Revisiones según plan de mantenimiento Omoda España",
+          queSeCambia: "Inspección + aceite y filtros según motorización (plan específico del OMODA X aún no publicado)",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Garantía oficial Omoda España: 7 años o 150.000 km, 3 años de asistencia en carretera y 8 años o 160.000 km para componentes de alta tensión (dato de la marca, no específico del OMODA X)",
+    },
+    fuenteNombre: "autonocion.com",
+    fuenteUrl: "https://www.autonocion.com/omoda-x-presentacion-china/",
+    galeria: [
+      {
+        "src": "/media/omoda-x-2027-precio-ficha-tecnica-hero.webp",
+        "alt": "OMODA X verde en un bosque, vista tres cuartos delantera (foto: Autonoción)",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/omoda-x-2027-precio-ficha-tecnica-oficial.webp",
+        "alt": "OMODA X plateado de perfil en ciudad de noche (foto: Autonoción)",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/omoda-x-2027-precio-ficha-tecnica-presentacion.webp",
+        "alt": "OMODA X en el escenario del Chery International User Summit en Wuhu (foto: Autonoción)",
+        "ancho": 1280,
+        "alto": 720
       }
     ],
   },

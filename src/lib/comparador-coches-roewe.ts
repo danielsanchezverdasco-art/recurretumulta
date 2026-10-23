@@ -455,13 +455,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       "Precio de partida bajo para un SUV de 4,66 metros",
       "Base del MG HS de segunda generación que sí llega a Europa",
     ],
-    contras: [
-      "El Roewe RX5 como tal no se vende en Europa (sí su gemelo MG HS)",
-      "Consumo de 6,9 l/100 km mejorable",
-      "0-100 en 9,3 s, sin brillo",
-      "Diseño polarizante con parrilla enorme",
-      "Marca sin red de servicio fuera de China",
-    ],
+    contras: ["El Roewe RX5 como tal no se vende en Europa (sí su gemelo MG HS)", "Consumo de 6,9 l/100 km mejorable", "0-100 en 9,3 s, sin brillo", "Diseño polarizante con parrilla enorme", "Sin concesionarios Roewe fuera de China para mantenimiento ni recambios"],
     largoMm: 4655,
     anchoMm: 1890,
     altoMm: 1664,
@@ -475,18 +469,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     aprox: ["precio", "pesoKg"],
     imagen: "/media/roewe-rx5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 11.04,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 420,
-      seguroAmpliadoAnual: 780,
-      mantenimientoAnual: 350,
-      costeMensualTotal: 232,
-      notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Modelo solo a la venta en China (su gemelo MG HS sí se vende en Europa).",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 11.04, "costeMensualTotal": 232, "estimado": true, "mantenimientoAnual": 350, "notas": "Cifras pensadas solo para este 1.5T de 188 CV: con 15.000 km anuales y gastando 6,9 l/100 km, el combustible sale a 11,04 € cada 100 km si la gasolina cuesta 1,60 €/l. Como Roewe únicamente lo vende en su mercado doméstico, la vía europea pasa por su gemelo de SAIC, el MG HS de segunda generación.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 780, "seguroTercerosAnual": 420},
     galeria: [
       {
         src: "/media/roewe-rx5-2024-precio-ficha-tecnica-hero.webp",
@@ -508,6 +491,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       },
     ],
     analisisSlug: "roewe-rx5-2024-precio-ficha-tecnica",
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
   {
     id: "roewe-erx5-2024-precio-ficha-tecnica",

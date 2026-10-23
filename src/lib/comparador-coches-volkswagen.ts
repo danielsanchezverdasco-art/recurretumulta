@@ -12,7 +12,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-id3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id3-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -80,7 +80,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/volkswagen-id3-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen ID.3",
         "ancho": 1920,
         "alto": 1280
@@ -93,7 +93,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-id7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -109,20 +109,8 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 86,
     cargaRapidaKw: 200,
     etiquetaDgt: "Cero",
-    pros: [
-      "702 km de autonomía WLTP: el eléctrico con más alcance de Volkswagen",
-      "Carga rápida de 200 kW en continua y 11 kW en alterna",
-      "286 CV y 545 Nm con tracción trasera: berlina ejecutiva ágil",
-      "Maletero de 532 L ampliable a 1.586 L abatiendo asientos",
-      "Etiqueta Cero y 0 g/km de CO2: exento del impuesto de matriculación",
-    ],
-    contras: [
-      "59.030 € de precio final: territorio premium alemán",
-      "2.226 kg en orden de marcha: el peso se nota en carreteras viradas",
-      "180 km/h de velocidad máxima limitada",
-      "4,96 m de largo: aparcar en ciudad exige sensores y cámara",
-      "La bomba de calor es opcional y encarece la factura",
-    ],
+    pros: ["Homologa 702 km WLTP: pocos eléctricos generalistas permiten espaciar tanto las paradas durante viajes largos", "Entrega 286 CV desde el eje trasero y firma el 0-100 en 6,6 segundos, ritmo sobrado incluso viajando cargado", "Bajo el portón esconde 532 litros, volumen propio de familiar disfrazado dentro de una silueta fastback", "Se conforma con 13,7 kWh/100 km homologados pese a rozar los cinco metros de carrocería", "Euro NCAP le otorgó cinco estrellas en 2023, con un 95 % protegiendo a los ocupantes adultos"],
+    contras: ["Partir de 59.030 € lo coloca frente a BMW i4 o Mercedes EQE, rivales con emblema premium consolidado", "Sus 2.226 kg se dejan sentir en rotondas y puertos: empuja con solvencia, pero no disimula la masa acumulada", "Medir 4.961 mm complica buscar hueco en centros urbanos; esta berlina pide aparcamientos amplios y paciencia maniobrando entre columnas", "Su arquitectura eléctrica limita el pico de recarga a 200 kW, lejos de los sistemas coreanos de 800 voltios", "Quien quiera bomba de calor para el invierno debe pagarla aparte, extra discutible en este nivel de precio"],
     largoMm: 4961,
     anchoMm: 1862,
     altoMm: 1536,
@@ -161,12 +149,13 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/volkswagen-id7-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen ID.7",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen Canarias (red oficial Volkswagen), página de mantenimiento de vehículos eléctricos: para los ID. europeos no hay distinción entre inspección pequeña y completa y la inspección toca tras dos años como máximo sin límite de kilómetros, incluyendo líquido de frenos y filtro interior. Verificado el 22/10/2026. La marca no publica un coste oficial de la revisión, por eso costeAproxEur queda en null.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan de inspección Volkswagen para los modelos ID. en Europa)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal de los modelos ID.", "queSeCambia": "Revisión de electrónica, motor eléctrico y carrocería, con sustitución del líquido de frenos y del filtro del habitáculo, según publica la red oficial de Volkswagen"}]},
   },
   {
     id: "volkswagen-id7-tourer-2026-precio-ficha-tecnica",
@@ -174,7 +163,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -190,20 +179,8 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 86,
     cargaRapidaKw: 200,
     etiquetaDgt: "Cero",
-    pros: [
-      "683 km de autonomía WLTP: el familiar eléctrico de mayor alcance de VW",
-      "Maletero de 545 L: el formato Tourer que pedían los ex del Passat",
-      "Carga rápida de 200 kW y funciones V2L, V2H y V2G",
-      "286 CV y 545 Nm: empuje de berlina deportiva con cuerpo familiar",
-      "Etiqueta Cero, 0 g/km y Cx de 0,23: eficiencia de referencia",
-    ],
-    contras: [
-      "59.675 €: el familiar eléctrico más caro del segmento generalista",
-      "2.235 kg: casi 100 kg más que la berlina ID.7",
-      "180 km/h de punta limitada y 6,7 s de 0-100: no es un deportivo",
-      "Batería de 86 kWh útiles (91 bruta): el 5,5 % es búfer de seguridad",
-      "Sin versión GTX de 340 CV en el acabado Tourer básico",
-    ],
+    pros: ["683 km WLTP con 86 kWh útiles: en febrero de 2024 se presentó como el primer familiar totalmente eléctrico de Volkswagen", "545 litros hasta el respaldo y 1.714 litros con la banqueta abatida, y hasta 605 litros si el respaldo va en posición de carga", "A 200 kW en continua recupera del 10 al 80 % en unos 28 minutos, un ritmo pensado para enlazar etapas largas de autopista", "Motor trasero de 286 CV y 545 Nm sobre la plataforma MEB, con 2.971 mm de batalla que se agradecen en las plazas traseras", "Cinco estrellas Euro NCAP de 2023 con un 95 % en protección de adultos, y la propia Euro NCAP extiende la nota a este familiar Pro S de 86 kWh"],
+    contras: ["59.675 € de partida con la batería de 86 kWh: precio de berlina ejecutiva para un familiar de una marca generalista", "Supera las 2,2 toneladas (2.235 kg) con un solo motor trasero: esa masa manda en la frenada y en las carreteras de curvas", "Con 4.961 mm de largo y la trasera familiar, aparcar en garajes estrechos obliga a apoyarse en cámaras y sensores", "Sin tracción total en esta versión: el 4MOTION de 340 CV es el GTX Tourer, una versión independiente y no una opción de este Pro S trasera", "Casi todo pasa por la pantalla central de 15 pulgadas, incluida la climatización, y los deslizadores táctiles siguen sin convencer al conducir"],
     largoMm: 4961,
     anchoMm: 1862,
     altoMm: 1536,
@@ -217,17 +194,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     aprox: [],
     imagen: "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.56,
-      "seguroTercerosAnual": 480,
-      "seguroAmpliadoAnual": 880,
-      "mantenimientoAnual": 300,
-      "costeMensualTotal": 130,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 14,2 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.56, "costeMensualTotal": 130, "estimado": true, "mantenimientoAnual": 300, "notas": "Estimación pensada para este Tourer Pro S: con su consumo homologado de 14,2 kWh cada cien kilómetros y la tarifa doméstica de 0,18 euros por kWh salen los 2,56 euros por cada 100 km; seguro y mantenimiento se estiman para un familiar de 4,96 metros y 2.235 kg que, según el plan ID. de Volkswagen, solo pasa por el taller cada dos años.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 880, "seguroTercerosAnual": 480},
     galeria: [
       {
         "src": "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-oficial.webp",
@@ -242,12 +209,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior y maletero del Volkswagen ID.7 Tourer",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    euroncap: {"ano": 2023, "estrellas": 5, "nota": "5 estrellas Euro NCAP (2023): 95 % en ocupantes adultos, 88 % en infantil, 83 % en usuarios vulnerables y 80 % en asistencias. La tabla de validez de la propia Euro NCAP aplica la calificación al familiar (Stationwagon) Pro S de 210 kW y 86 kWh, esta misma versión.", "url": "https://www.euroncap.com/en/results/vw/id7/50196"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen Canarias, mantenimiento e inspección de vehículos eléctricos (modelos ID.)", "intervalo": "Cada 2 años, sin límite de kilómetros", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección ID. bienal", "queSeCambia": "Inspección del vehículo eléctrico (electrónica, motor y carrocería) con cambio del líquido de frenos y del filtro interior, según el plan de inspección de los modelos ID. publicado por Volkswagen Canarias"}]},
   },
   {
     id: "volkswagen-tiguan-2024-precio-ficha-tecnica",
@@ -255,7 +224,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-tiguan-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-tiguan-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -323,7 +292,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-tiguan-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Tiguan",
         "ancho": 1920,
         "alto": 1280
@@ -336,7 +305,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-touareg-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-touareg-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -404,7 +373,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-touareg-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Touareg con Innovision Cockpit",
         "ancho": 1920,
         "alto": 1280
@@ -417,7 +386,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-multivan-t7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-multivan-t7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -485,7 +454,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-multivan-t7-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior flexible del Volkswagen Multivan T7 con 7 asientos",
         "ancho": 1920,
         "alto": 1280
@@ -498,7 +467,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -566,7 +535,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Caravelle T7 con 9 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -579,7 +548,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-transporter-t7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-transporter-t7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -647,7 +616,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-transporter-t7-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Cabina del Volkswagen Transporter T7",
         "ancho": 1920,
         "alto": 1280
@@ -660,7 +629,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-caddy-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-caddy-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -728,7 +697,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-caddy-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Caddy con 7 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -741,7 +710,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-golf-gti-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-gti-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -809,7 +778,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-golf-gti-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf GTI con asientos de cuadros",
         "ancho": 1920,
         "alto": 1280
@@ -822,7 +791,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-golf-r-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-r-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -890,7 +859,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/volkswagen-golf-r-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf R",
         "ancho": 1920,
         "alto": 1280
@@ -903,7 +872,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-polo-gti-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-polo-gti-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -971,7 +940,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-polo-gti-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Polo GTI",
         "ancho": 1920,
         "alto": 1280
@@ -984,7 +953,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-tayron-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-tayron-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -1052,7 +1021,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/volkswagen-tayron-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Tayron con 7 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -1064,7 +1033,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -1132,7 +1101,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf con pantalla central y cuadro digital",
         "ancho": 1200,
         "alto": 800
@@ -1226,14 +1195,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
     modelo: "Golf GTE",
     tipo: "Híbrido enchufable",
     categoria: "Compacto",
-    precioDesde: 45900,
+    precioDesde: 46745, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 272,
     autonomiaKm: 100,
     maleteroL: 345,
@@ -1242,20 +1211,8 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 19.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
-    pros: [
-      "272 CV y 400 Nm con etiqueta Cero: el Golf más rápido y limpio",
-      "Carga rápida de 50 kW en un enchufable: del 10 al 80 % en 25 min",
-      "Unos 100 km eléctricos reales: el commuting diario sin gasolina",
-      "Estética GTI con discreción: el sleeper perfecto",
-      "0,4 l/100 km homologados y 9 g/km de CO2",
-    ],
-    contras: [
-      "Desde ~46.000 €: 8.500 € más que el GTI de gasolina",
-      "Maletero de 345 L: la batería se come 36 litros",
-      "1.668 kg: se nota el peso en tramo",
-      "Sin ayudas Moves por superar el límite en algunas versiones",
-      "El eHybrid de 204 CV hace casi lo mismo por menos dinero",
-    ],
+    pros: ["Con 272 CV y 400 Nm hace el 0 a 100 km/h en 6,6 segundos y, a la vez, lleva etiqueta Cero de la DGT: es el Golf que entra en la ZBE sin renunciar a apretar", "Acepta carga rápida de 50 kW en corriente continua, una rareza entre los híbridos enchufables que en la práctica acorta las paradas frente a rivales que solo cargan en alterna", "La batería de 19,7 kWh le da margen eléctrico de sobra para el trayecto diario casa-trabajo sin arrancar el 1.5 TSI, que es donde un GTE se defiende o se hunde", "Mantiene la fórmula discreta del GTE: detalles en azul en lugar del rojo del GTI y una carrocería de Golf de siempre, sin estridencias para quien no quiere ir anunciándose"],
+    contras: ["Parte de 45.900 euros según la ficha: es mucho dinero por un Golf de cinco puertas, lo pague quien lo pague, aunque sea el más potente con etiqueta Cero", "Pesa 1.668 kg y se le nota: en cambios de apoyo y frenadas largas el GTE no tiene la agilidad de un GTI de gasolina, por mucho diferencial electrónico que lleve", "El maletero se queda en 345 litros porque la batería ocupa su espacio; para llevar la compra vale, para meter equipaje de cuatro ya hay que pensárselo", "Si no lo enchufas a diario, pierde el sentido: sin cargar, arrastras peso extra y el consumo del gasolina se acerca al de un Golf convencional sin ninguna ventaja a cambio"],
     largoMm: 4282,
     anchoMm: 1789,
     altoMm: 1483,
@@ -1266,7 +1223,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 9,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1294,12 +1251,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf GTE con detalles azules",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": 5, "ano": 2025, "url": "https://euroncap.blob.core.windows.net/media/91370/euroncap-2025-vw-golf-datasheet.pdf", "nota": "Resultado Euro NCAP verificado para este modelo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Para el Golf 8 a partir del año modelo 2021, el libro de mantenimiento de Volkswagen prevé el Servicio de Inspección cada 2 años y el cambio del líquido de frenos también cada 2 años. El mismo plan incluye el cambio del filtro de polvo y polen y, en los cambios DSG con embrague bañado en aceite, contempla el cambio de aceite cada 60.000 km en algunos modelos de Golf 8, indicando que hay que confirmarlo con el asesor de servicio. En un GTE conviene no alargar esos plazos: el 1.5 TSI puede pasar días sin arrancar en uso eléctrico, pero su aceite y el líquido de frenos envejecen igual.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "http://technikvalles.com/mantenimientos/libro_mantenimientos_2024.pdf"},
   },
   {
     id: "volkswagen-polo-10-tsi-2026-precio-ficha-tecnica",
@@ -1314,7 +1273,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Polo 1.0 TSI",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: 21990,
+    precioDesde: 23670, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 351,
@@ -1347,7 +1306,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1388,7 +1347,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "52Txal2ygyg",
     videoCanal: "Periodismo del Motor",
     marca: "Volkswagen",
@@ -1456,7 +1415,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen T-Roc 2026 con pantalla de 12,9 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -1476,7 +1435,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "T-Cross 1.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 24500,
+    precioDesde: 25262, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 455,
@@ -1509,7 +1468,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-t-cross-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1550,14 +1509,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/volkswagen-taigo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-taigo-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
     modelo: "Taigo 1.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 26000,
+    precioDesde: 24996, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 438,
@@ -1590,7 +1549,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-taigo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1618,7 +1577,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-taigo-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Taigo con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -1712,7 +1671,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-id4-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id4-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
@@ -1780,7 +1739,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-id4-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen ID.4 con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -1800,7 +1759,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "ID.5 Pro",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 46500,
+    precioDesde: 44610, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 286,
     autonomiaKm: 545,
     maleteroL: 549,
@@ -1833,7 +1792,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg", "consumo"],
+    aprox: ["autonomiaKm", "pesoKg", "consumo"],
     imagen: "/media/volkswagen-id5-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1881,7 +1840,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     modelo: "Passat Variant 2.0 TDI",
     tipo: "Diésel",
     categoria: "Familiar",
-    precioDesde: 45000,
+    precioDesde: 48860, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 690,
@@ -1899,7 +1858,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: vetado en futuras ZBE estrictas",
-      "Desde ~45.000 €: el familiar ya no es barato",
+      "Desde 48.860 €: el familiar ya no es barato",
       "4,92 m: solo para quien lo necesite de verdad",
       "El eHybrid enchufable cuesta bastante más",
       "Diseño continuista: no enamora",
@@ -1914,7 +1873,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 137,
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     imagen: "/media/volkswagen-passat-variant-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1955,14 +1914,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Volkswagen",
     modelo: "Tiguan eHybrid",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 46000,
+    precioDesde: 48155, // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 204,
     autonomiaKm: 100,
     maleteroL: 490,
@@ -1971,20 +1930,8 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 19.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
-    pros: [
-      "204 CV con etiqueta Cero: el Tiguan más vendido del futuro",
-      "Unos 100 km eléctricos: semana laboral sin gasolina",
-      "Carga rápida de 50 kW, rara en enchufables",
-      "Maletero de 490 L pese a la batería",
-      "0,4 l/100 km homologados",
-    ],
-    contras: [
-      "Desde ~46.000 €: 5.000 € más que el eTSI de 150 CV",
-      "1.840 kg en orden de marcha",
-      "Sin la batería, gasta como un gasolina de 1,8 toneladas",
-      "El Tayron eHybrid ofrece más coche por poco más",
-      "Cargar a diario exige enchufe en casa o trabajo",
-    ],
+    pros: ["Con 204 CV y 350 Nm y tracción delantera, acelera de 0 a 100 km/h en 7,7 segundos y alcanza 205 km/h: no es la versión lenta por ser enchufable, se defiende cargado y a dúo.", "La batería de 19,7 kWh y los 100 km eléctricos homologados de la ficha cubren la jornada urbana sin arrancar el gasolina, con etiqueta Cero de la DGT a cambio.", "Admite carga rápida de 50 kW en corriente continua, algo poco común en un híbrido enchufable: recuperar batería en una parada larga no exige dejarlo enchufado toda la noche.", "Pese a llevar batería, conserva 490 litros de maletero y cinco plazas en 4.539 mm de largo, y la batería tiene garantía de 8 años o 160.000 km hasta el 70 % según la ficha."],
+    contras: ["Desde 46.000 euros según la ficha: la electrificación se paga, y exige tener claro que vas a cargar a menudo para que la cuenta salga frente a un Tiguan de gasolina.", "Pesa 1.840 kg en orden de marcha: la batería se nota en frenadas, en consumo con la batería agotada y en el desgaste de neumáticos frente a un Tiguan más ligero.", "El consumo de 0,4 l/100 km es el homologado con batería cargada; si no enchufas a diario, en uso real gastarás como un SUV de gasolina de casi dos toneladas.", "Es solo de tracción delantera en esta versión de la ficha: quien busque tracción total para nieve o pistas tendrá que mirar otra motorización de la gama Tiguan."],
     largoMm: 4539,
     anchoMm: 1842,
     altoMm: 1650,
@@ -1995,7 +1942,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 10,
-    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg"],
     imagen: "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2023,20 +1970,22 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Tiguan eHybrid",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": 5, "ano": 2024, "url": "https://www.volkswagen-newsroom.com/en/press-releases/new-tiguan-awarded-5-stars-in-current-euro-ncap-safety-assessment-18414/download", "nota": "Resultado Euro NCAP verificado para este modelo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Volkswagen recomienda para sus modelos nuevos una primera inspección con servicio de aceite a las 9.300 millas —unos 15.000 km— o a los 12 meses, lo que ocurra antes, y mantener ese ciclo anual en los primeros años, según Carbuyer al recoger la pauta de la marca para el Tiguan. En un eHybrid no conviene saltárselo aunque circules mucho en eléctrico: el motor de gasolina, su aceite y el líquido de frenos envejecen igual, y la ficha estima 380 euros al año de mantenimiento sin presentarlo como tarifa oficial.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.carbuyer.co.uk:443/volkswagen/tiguan/305394/volkswagen-tiguan-review-family-suv-with-a-trusted-formula/reliability"},
   },
   {
     id: "volkswagen-id-tiguan",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/volkswagen-id-tiguan-2027-galeria-1.webp",
-    imagenInteriorOficial: "/media/volkswagen-id-tiguan-2027-galeria-2.webp",
+    imagenOficial: "",
+    imagenInteriorOficial: "",
     videoId: "EbxzoBJFWz4",
     videoCanal: "Auto Sensación",
     marca: "Volkswagen",
@@ -2099,13 +2048,13 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
         "alto": 1066
       },
       {
-        "src": "/media/volkswagen-id-tiguan-2027-galeria-1.webp",
+        "src": "",
         "alt": "Volkswagen ID. Tiguan, vista de perfil",
         "ancho": 1600,
         "alto": 1066
       },
       {
-        "src": "/media/volkswagen-id-tiguan-2027-galeria-2.webp",
+        "src": "",
         "alt": "Interior del Volkswagen ID. Tiguan con pantallas",
         "ancho": 1600,
         "alto": 1066

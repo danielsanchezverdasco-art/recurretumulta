@@ -18,8 +18,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "6SxnWaq7v7Q",
     videoCanal: "MOTORK",
     marca: "Mitsubishi",
@@ -60,7 +60,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 19,
     aprox: [],
-    imagen: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 5.0,
@@ -75,19 +75,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Outlander PHEV 2025, tres cuartos delantero en carretera de montaña",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Outlander PHEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Outlander PHEV 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -102,8 +102,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "slnD2q9u2zc",
     videoCanal: "Prueba Tu Coche",
     marca: "Mitsubishi",
@@ -144,7 +144,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["ceroCien", "bateriaKwh"],
-    imagen: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.1,
@@ -159,19 +159,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Grandis 2025 híbrido, tres cuartos delantero en carretera de costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Grandis 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Grandis 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -183,11 +183,11 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
   },
   {
     id: "mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "Rf5zU_0qgeo",
     videoCanal: "SoyMotor.com",
     marca: "Mitsubishi",
@@ -203,20 +203,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     bateriaKwh: 87,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
-    pros: [
-      "626 km de autonomía WLTP: de los eléctricos con más alcance por su precio",
-      "Carga rápida de 150 kW (15-80 % en 37 min) y hasta 22 kW en alterna",
-      "Maletero de 545 L: enorme para un C-SUV eléctrico",
-      "Garantía de 8 años o 160.000 km, más amplia que su gemelo el Scenic",
-      "Diseño propio Dynamic Shield: no parece un Renault con otro logo",
-    ],
-    contras: [
-      "41.390 € de tarifa: el precio real depende de campañas y ayudas",
-      "Solo tracción delantera y una única potencia (220 CV)",
-      "Pesa 1.826 kg: la agilidad no es su fuerte",
-      "La versión de acceso LFP (67 kWh) se queda en 472 km de autonomía",
-      "Fabricado en Douai (Francia), no en España",
-    ],
+    pros: ["626 km WLTP con la batería NCM de 87 kWh refrigerada por agua: presentado el 18 de septiembre de 2025 como el primer eléctrico puro de Mitsubishi en Europa desde el i-MiEV", "Del 15 al 80 % en 37 minutos con picos de 150 kW en continua, y con función V2L para alimentar aparatos desde la toma de carga", "El maletero rinde 545 litros y llega a 1.670 abatiendo los asientos, dentro de una carrocería de 4,49 m con 2,78 m entre ejes", "Euro NCAP lo evaluó con los protocolos de 2025 y le dio las cinco estrellas: 83 % en ocupantes adultos y 70 % en ayudas a la conducción", "La batería de tracción entra en la cobertura de hasta 8 años o 160.000 km del Compromiso de Servicio Mitsubishi, con 12 años anticorrosión"],
+    contras: ["Los 41.390 € son la tarifa sin descuentos: el precio de lanzamiento de 32.050 € suma Moves III con achatarramiento, financiación y campaña comercial", "Salpicadero, pantallas y mandos son los del Scenic E-Tech: sentado dentro, solo el logotipo del volante recuerda que es un Mitsubishi", "Esos 37 minutos del 15 al 80 % ya han quedado viejos: la batería de 89 kWh que lo releva anuncia la misma operación en unos 28 minutos", "En corriente alterna carga a 11 kW de serie; el cargador de 22 kW depende de la configuración elegida, no viene de fábrica en toda la gama", "Un único motor delantero de 220 CV y sin versión de tracción total, aunque la plataforma AmpR Medium que lo sustenta admite dos motores"],
     largoMm: 4489,
     anchoMm: 1864,
     altoMm: 1571,
@@ -228,34 +216,24 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 3.0,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 850,
-      "mantenimientoAnual": 250,
-      "costeMensualTotal": 100,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.55,
-      "notas": "EV 220 CV: 16,5 kWh/100 km WLTP; recarga doméstica a 0,18 €/kWh; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 3, "seguroTercerosAnual": 500, "seguroAmpliadoAnual": 850, "mantenimientoAnual": 250, "costeMensualTotal": 100, "precioKwh": 0.18, "precioGasolinaL": 1.55, "notas": "Cálculo hecho solo para esta versión de 87 kWh: su gasto homologado es de 16,5 kWh/100 km, así que con la luz a 0,18 €/kWh cada 100 km salen por 3,0 € y un año de 15.000 km se va a unos 37 € mensuales de electricidad. Los 500 € del seguro a terceros y los 250 € de mantenimiento son estimaciones de mercado para un SUV eléctrico de 4,49 m, no tarifas publicadas por Mitsubishi España.", "estimado": true},
     galeria: [
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Eclipse Cross eléctrico 2025, tres cuartos delantero en ciudad al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Eclipse Cross eléctrico 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Eclipse Cross eléctrico 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -264,14 +242,16 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     analisisSlug: "mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica",
     fuenteNombre: "mitsubishi-motors.es",
     fuenteUrl: "https://www.mitsubishi-motors.es/modelos/eclipse-cross-ev",
+    euroncap: {"estrellas": 5, "ano": 2025, "url": null, "nota": "Euro NCAP publicó su resultado el 10 de diciembre de 2025 y le otorgó las 5 estrellas. La protección de usuarios vulnerables llegó al 82 % y las asistencias a la seguridad se quedaron en un 70 %, el apartado más flojo; adultos e infantil marcaron un 83 % y un 86 %. Es la prueba de esta segunda generación eléctrica, no la del Eclipse Cross de combustión evaluado en 2017."},
+    planMantenimiento: {"intervalo": "Visita anual al taller (servicio A); la revisión de mayor alcance (servicio B) toca cada 2 años o al cumplir 30.000 km, lo que llegue antes", "revisiones": [{"nombre": "Servicio A, cada 12 meses", "queSeCambia": "La única pieza que se renueva es el filtro del habitáculo; el resto de la visita es la inspección programada del conjunto de tracción eléctrica, con control de la batería de 87 kWh, de los frenos, los neumáticos y el alumbrado", "costeAproxEur": null}, {"nombre": "Servicio B, bienal o a los 30.000 km", "queSeCambia": "Renovación del líquido de frenos (el manual fija su sustitución cada dos años) y revisión completa de los demás sistemas, además de las operaciones del servicio A de ese año", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Esquema de servicios A/B del manual del Renault Scenic E-Tech, gemelo de plataforma AmpR Medium del Eclipse Cross EV y fabricado junto a él en Douai; Mitsubishi no publica un plan propio con precios para España"},
   },
   {
     id: "mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "Bjs6Y4gmDfI",
     videoCanal: "Prueba Tu Coche",
     marca: "Mitsubishi",
@@ -312,7 +292,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.3,
@@ -327,19 +307,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi ASX 130T MHEV 2025, tres cuartos delantero en calle de pueblo español",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi ASX 130T MHEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -354,8 +334,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "17QsS_xMIAA",
     videoCanal: "Periodismo del Motor",
     marca: "Mitsubishi",
@@ -396,7 +376,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 96,
     aprox: ["pesoKg"],
-    imagen: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 6.7,
@@ -411,19 +391,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Mitsubishi Colt 160 HEV 2025, tres cuartos delantero en plaza de casco antiguo europeo",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Mitsubishi Colt 160 HEV 2025, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Colt 2025 con pantalla táctil de 9,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
@@ -439,7 +419,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -507,7 +487,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-grandis-130t-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Grandis 130T con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -521,7 +501,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -537,20 +517,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Desde 18.350 €: el Mitsubishi más barato del mercado español",
-      "Consumo WLTP de solo 5,2 l/100 km en el 1.0 turbo",
-      "Maletero de 340 l: de los mejores de su segmento",
-      "Mismo coche que el Renault Clio V: mecánica probada",
-      "Ideal como segundo coche urbano o para conductores noveles",
-    ],
-    contras: [
-      "Etiqueta C de la DGT: sin acceso libre a las Zonas de Bajas Emisiones",
-      "91 CV y 0-100 en 12,2 s: justito fuera de ciudad",
-      "Interior con plásticos duros en las versiones básicas",
-      "Sin versión híbrida en este escalón de precio",
-      "Prestaciones modestas con el coche cargado",
-    ],
+    pros: ["Séptima generación de un nombre estrenado en 1962: el Colt regresó a Europa en otoño de 2023, casi diez años después de que la generación anterior dejara de venderse", "Tarifa de 18.350 €: es el Mitsubishi de acceso en España y queda 2.540 € por debajo del ASX 100T, el siguiente peldaño de la casa", "Garantía completa de fábrica durante 5 años con tope de 100.000 km, asistencia en carretera MAP por el mismo plazo y 12 años frente a la perforación por corrosión", "El tricilíndrico 1.0 turbo HR10DET rinde 91 CV y entrega sus 160 Nm ya a 2.000 rpm, unido a un cambio manual de seis velocidades", "Homologa 5,2 litros a los cien con 118 g/km de CO₂ y monta la pantalla Smartphone Link de 9,3 pulgadas en los acabados altos"],
+    contras: ["Distintivo C de la DGT: frente a su hermano Colt 160 HEV, con etiqueta ECO, este gasolina paga más y sufre más restricciones en las zonas de bajas emisiones", "Clon sin disimulo del Clio V: comparte carrocería, capó e interior con el Renault y solo cambian la parrilla, los emblemas y el logo del volante", "Firmar 12,2 segundos en el 0 a 100 km/h lo deja justo fuera del tráfico urbano: cargado, adelantar exige planificar la maniobra y bajar marchas", "Atrás frena con tambores en vez de discos, y la unidad probada por MotorMundial mostró un embrague que soltaba con brusquedad al final del recorrido", "No hay cambio automático con este motor: quien lo necesite debe saltar al Colt híbrido de 143 CV, que parte de 25.490 € y ya es otro presupuesto"],
     largoMm: 4053,
     anchoMm: 1798,
     altoMm: 1439,
@@ -564,17 +532,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 8.1,
-      "seguroTercerosAnual": 400,
-      "seguroAmpliadoAnual": 750,
-      "mantenimientoAnual": 350,
-      "costeMensualTotal": 164,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.55,
-      "notas": "consumo WLTP combinado 5,2 l/100 km; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 8.1, "costeMensualTotal": 164, "estimado": true, "mantenimientoAnual": 350, "notas": "Cálculo exclusivo de esta versión de 91 CV: la gasolina se valora a 1,55 € el litro, así que recorrer cien kilómetros con los 5,2 litros homologados cuesta 8,10 €; sobre 15.000 km anuales, y añadiendo el seguro a terceros y la partida de taller estimados en la tabla, resultan los 164 € al mes, sin que sean tarifas cerradas de la marca", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 750, "seguroTercerosAnual": 400},
     galeria: [
       {
         "src": "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hero.webp",
@@ -589,13 +547,15 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Colt 100T con pantalla de 9,3 pulgadas",
         "ancho": 1200,
         "alto": 800
       }
     ],
     analisisSlug: "mitsubishi-colt-100t-2025-precio-ficha-tecnica",
+    euroncap: {"ano": null, "estrellas": null, "nota": "Este Colt carece de ensayo propio en Euro NCAP. Su gemelo Renault Clio V, con la misma plataforma CMF-B, obtuvo cinco estrellas en la prueba de 2019, con un 96 % en ocupante adulto y un 89 % en infantil; esa nota pertenece al Renault y no se traslada como resultado del Mitsubishi", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario del Renault Clio 2024 (autonomía de revisión de 30.000 km o 12 meses), paquete de mantenimiento de Mitsubishi Motors Suiza (intervalos de 12 meses o 20.000/30.000 km) y condiciones del Mitsubishi Service Plan de Reino Unido. Mitsubishi España no publica precios de revisión del Colt: costes a null", "intervalo": "Cuando lo pida el indicador del cuadro o al cumplirse 12 meses o 30.000 km: ese es el plazo de revisión que muestra el manual del Clio V, el gemelo del que este Colt hereda cuadro y mecánica", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio programado del 100T de 91 CV", "queSeCambia": "Los trabajos de fábrica que correspondan al tricilíndrico HR10DET en esa visita, con las piezas, el aceite y los consumibles incluidos en el plan de servicio de Mitsubishi; el libro de servicio del coche detalla el contenido exacto de cada visita"}, {"costeAproxEur": null, "nombre": "Visitas siguientes, con la misma cadencia anual", "queSeCambia": "Repetición del servicio programado y de las inspecciones previstas por la marca. Mitsubishi resume sus intervalos europeos en 12 meses o 20.000/30.000 km según el modelo, así que el kilometraje concreto de este Colt debe confirmarse en su libreta de mantenimiento"}]},
   },
   {
     id: "mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica",
@@ -693,7 +653,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -761,7 +721,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-asx-100t-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 100T con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -865,7 +825,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -933,7 +893,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi ASX 130T 7DCT con cuero negro y costuras naranjas",
         "ancho": 1200,
         "alto": 800
@@ -943,11 +903,11 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
   },
   {
     id: "mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Mitsubishi",
@@ -963,20 +923,8 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     bateriaKwh: 67,
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
-    pros: [
-      "472 km de autonomía WLTP con batería LFP de 67 kWh",
-      "Carga rápida de 165 kW: del 15 al 80 % en unos 24 minutos",
-      "Batería LFP: más duradera y barata de reemplazar que la NMC",
-      "Maletero de 545 l: enorme para un C-SUV eléctrico",
-      "Con campañas y ayudas se queda en torno a 29.900 €",
-    ],
-    contras: [
-      "Tarifa oficial de 41.390 €: el precio real depende de descuentos",
-      "154 km menos de autonomía que la versión de 87 kWh",
-      "Solo tracción delantera y una única motorización",
-      "Potencia oficial no publicada por la marca",
-      "Fabricado en Douai (Francia), no en España",
-    ],
+    pros: ["La química LFP de sus 67 kWh prescinde de níquel y cobalto y tolera mejor las cargas completas repetidas, con 472 km WLTP homologados", "En un cargador rápido recupera del 15 al 80 % en unos 24 minutos a 165 kW, cuatro minutos menos que su hermano NMC de 89 kWh", "Euro NCAP le concedió las cinco estrellas en diciembre de 2025, con un 86 % en protección infantil y un 82 % ante usuarios vulnerables", "545 litros de maletero y 1.100 kg de capacidad de remolque en un SUV de 4.489 mm pensado para viajar en familia", "La batería LFP queda cubierta durante ocho años o 160.000 km dentro del Compromiso de Servicio que Mitsubishi aplica en Europa"],
+    contras: ["Los 29.900 € del titular exigen sumar campañas y ayudas: la tarifa española sin esos descuentos marca 41.390 €", "Te quedas 178 km por debajo de los 650 km que homologa la variante NMC de 89 kWh, la otra novedad de esta renovación de gama", "Nada de tracción total: solo hay un motor delantero, un recorte llamativo en una marca asociada históricamente al 4x4 y al S-AWC", "Su base es el Renault Scenic E-Tech construido en Douai: comparte plataforma AmpR Medium, pantallas y casi todo el habitáculo con el francés", "Esta batería LFP se estrena en noviembre de 2026, cuando el Eclipse Cross eléctrico de 87 kWh ya llevaba un año a la venta"],
     largoMm: 4489,
     anchoMm: 1864,
     altoMm: 1571,
@@ -990,17 +938,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     aprox: ["precioDesde"],
     imagen: "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.9,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 850,
-      "mantenimientoAnual": 250,
-      "costeMensualTotal": 99,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.55,
-      "notas": "EV: estimación ~16 kWh/100 km (dato oficial pendiente); recarga doméstica a 0,18 €/kWh; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.9, "costeMensualTotal": 99, "estimado": true, "mantenimientoAnual": 250, "notas": "Así salen los 99 € al mes de esta versión LFP: el gasto eléctrico se estima en 2,9 € cada 100 km cargando en casa a 0,18 €/kWh, porque Mitsubishi todavía no publica un consumo WLTP cerrado para los 67 kWh. Los 500 € de seguro a terceros, los 850 € del ampliado y los 250 € anuales de mantenimiento son importes aproximados de octubre de 2026, no tarifas cerradas de la marca.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 850, "seguroTercerosAnual": 500},
     galeria: [
       {
         "src": "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-hero.webp",
@@ -1015,12 +953,16 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Mitsubishi Eclipse Cross EV LFP con pantalla flotante",
         "ancho": 1200,
         "alto": 800
       }
     ],
     analisisSlug: "mitsubishi-eclipse-cross-ev-lfp-2026-precio-ficha-tecnica",
+    fuenteUrl: "https://www.mitsubishi-motors.es/modelos/eclipse-cross-ev",
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "5 estrellas en la tanda de resultados de diciembre de 2025: 83 % en ocupante adulto, 86 % en infantil, 82 % en usuarios vulnerables y 70 % en asistencias a la seguridad", "url": null},
+    fuenteNombre: "Mitsubishi Motors España",
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del Renault Scenic E-Tech (2024), gemelo de plataforma AmpR Medium fabricado en la misma planta de Douai, y su esquema de servicios A/B para eléctricos; Mitsubishi no publica precios de revisión en España para este modelo", "intervalo": "Esquema heredado de su base AmpR Medium: paso anual por el taller para la inspección ligera y servicio completo al segundo año o a los 30.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección anual (servicio A)", "queSeCambia": "Revisión de frenos, neumáticos, luces y niveles, comprobación de la batería de tracción y de su circuito de refrigeración, y sustitución del filtro del habitáculo"}, {"costeAproxEur": null, "nombre": "Servicio mayor (servicio B) a los 2 años o 30.000 km", "queSeCambia": "Mantiene todo lo incluido en la visita anual y suma el cambio del líquido de frenos, cuya renovación cada dos años marca el manual de su gemelo de plataforma, el Renault Scenic E-Tech"}]},
   },
 ];

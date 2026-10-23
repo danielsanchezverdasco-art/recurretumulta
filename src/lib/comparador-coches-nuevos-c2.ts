@@ -515,7 +515,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "xpeng-p7-plus-long-range-2026-precio-ficha-tecnica",
-    marca: "Xpeng",
+    marca: "XPeng",
     modelo: "P7+ Long Range",
     tipo: "Eléctrico",
     categoria: "Berlina",
@@ -687,7 +687,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     modelo: "X 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37137,
+    precioDesde: 36185, // Promo oficial Zeekr España al contado (21/10/2026); financiando 31.910 € con Open Bank + anticipo Plan Auto+ de 3.375 €; hasta 31/12/2026,
     potenciaCv: 272,
     autonomiaKm: 330,
     maleteroL: 362,
@@ -710,23 +710,11 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    pros: [
-      "5 estrellas Euro NCAP: el eléctrico más seguro de 2024",
-      "Desde 37.137 € en España",
-      "Versión Privilege con 428 CV y tracción total",
-      "Interior cuidado con sonido Yamaha",
-      "Compacto de 4,43 m, ideal para ciudad",
-    ],
-    contras: [
-      "330 km WLTP en la versión de acceso",
-      "Maletero de 362 L, justo",
-      "Carga de 130 kW, mejorable",
-      "Plazas traseras justas para altos",
-      "Marca joven en España",
-    ],
-    imagen: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-interior.webp",
+    pros: ["Cinco estrellas Euro NCAP en 2024 y premio Best in Class entre los SUV pequeños eléctricos de ese año", "Un único motor trasero de 272 CV y 343 Nm lo lleva a 100 km/h en 5,9 segundos", "La Core española parte de 37.137 euros con batería LFP de 49 kWh y etiqueta Cero de la DGT", "Con 4.432 mm de largo entra en huecos urbanos donde un SUV mediano ya obliga a maniobrar de más", "La batería queda cubierta durante ocho años o 200.000 km, margen amplio para un eléctrico de este precio"],
+    contras: ["Solo homologa 330 km WLTP: en autopista invernal la autonomía útil cae bastante y exige planificar cada parada", "El maletero se queda en 362 litros, escaso si viajas con sillita, maletas grandes y carrito a la vez", "Su pico en corriente continua es de 130 kW, por debajo de lo que ofrecen versiones superiores del propio X", "Pesa 1.855 kg pese a medir 4,43 metros, lastre que explica un consumo homologado de 17,4 kWh cada 100 km", "Zeekr recién aterriza en España: su red de ventas y talleres todavía no iguala la cobertura de marcas asentadas"],
+    imagen: "",
+    imagenOficial: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "zeekr-x-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -736,33 +724,11 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       url: null,
       nota: "5 estrellas Euro NCAP 2024 (91 % adultos, 90 % niños)",
     },
-    planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
-      revisiones: [
-        { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Plan orientativo Zeekr Europa para eléctricos",
-    },
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Zeekr Europa, página oficial Zeekr Care (zeekr.eu/care, verificada el 22/10/2026): servicio cada dos años o 40.000 km; tabla oficial de mantenimiento de Zeekr con inspección, filtro de habitáculo, líquido de frenos, refrigerante y aceite del reductor. Sin precios oficiales publicados, por eso los costes quedan en null.", "intervalo": "Cada 2 años o 40.000 km en Europa (plan oficial Zeekr Care), lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 2 años o 40.000 km", "queSeCambia": "Inspección general programada con sustitución del filtro del habitáculo y comprobación o sustitución, según la tabla oficial Zeekr, del líquido de frenos, el refrigerante y el aceite del reductor trasero en esta versión de tracción trasera"}, {"costeAproxEur": null, "nombre": "Revisiones programadas siguientes cada 2 años o 40.000 km", "queSeCambia": "Repetición de la inspección oficial con los mismos puntos de control: filtro del habitáculo, líquido de frenos, refrigerante y lubricante del reductor, siempre en centro autorizado Zeekr para conservar la garantía ampliada"}]},
     galeria: [
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Zeekr X cobre, SUV compacto eléctrico",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Zeekr X, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-x-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr X",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -794,32 +760,15 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "688 km de autonomía con 75 kWh",
-      "Carga de 500 kW: de las más rápidas del mercado",
-      "422 CV y 0-100 en 5,1 s",
-      "Consumo de solo 12,5 kWh/100 km",
-      "Diseño de berlina premium de 4,87 m",
-    ],
-    contras: [
-      "Sin prueba EuroNCAP publicada",
-      "Precio en España por confirmar",
-      "Maletero sin dato oficial",
-      "2.150 kg de peso",
-      "Red Zeekr en construcción",
-    ],
-    imagen: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-interior.webp",
+    pros: ["Batería Golden Battery LFP de 75 kWh con 688 km de autonomía CLTC: es el ciclo chino, más optimista que el WLTP, pero la química LFP es la que Zeekr desarrolló en casa y admite cargas muy rápidas de forma repetida.", "Un solo motor trasero de 422 CV y 440 Nm para una berlina de 4.865 mm: propulsión de las de verdad, sin pagar el peso ni el sobrecoste de un segundo motor delantero que la mayoría no necesita.", "Arquitectura de 800 voltios y carga rápida de hasta 500 kW según la ficha: en su lanzamiento Zeekr anunció que la batería Golden recupera unos 500 km CLTC en 15 minutos si el cargador acompaña.", "Consumo de 12,5 kWh/100 km en esta versión, una cifra contenida para un coche de 2.150 kg, 1.900 mm de anchura y llantas de hasta 20 pulgadas trabajando en su contra.", "Puesto de conducción con pantalla central de 15,05 pulgadas movida por un Snapdragon 8295, AR-HUD de 35,5 pulgadas y sonido 7.1.4 de 21 altavoces: el despliegue digital es de berlina cara, no de modelo de acceso."],
+    contras: ["Los 688 km son CLTC chinos y no hay homologación WLTP publicada para esta berlina: la autonomía real en autovía española quedará sensiblemente por debajo de la cifra del titular.", "No se vende oficialmente en España: lo que llegó a Europa en enero de 2026 fue el familiar 7 GT, y solo a seis países entre los que no está el nuestro, así que los 29.887 € de la ficha son una aproximación y no un PVP español.", "La berlina carece de prueba Euro NCAP propia: las 5 estrellas de 2026 corresponden al 7 GT familiar, un coche distinto en carrocería y batalla, y no acreditan el comportamiento del 007 de cuatro puertas.", "El maletero sigue sin dato oficial en la ficha y los 2.150 kg no se disimulan en ciudad: para una berlina que aspira a ser coche único, la capacidad de carga es una incógnita sin resolver."],
+    imagen: "",
+    imagenOficial: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "zeekr-007-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el 007 aún no ha sido probado",
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP para la berlina 007: Euro NCAP no ha publicado prueba propia del sedán. Su nota de 5 estrellas de 2026 corresponde al Zeekr 7 GT (el 007 GT familiar), modelo distinto, y no es trasladable a esta ficha."},
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
       revisiones: [
@@ -829,29 +778,14 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Zeekr Europa para eléctricos",
     },
     galeria: [
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Zeekr 007 azul, berlina eléctrica",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Zeekr 007, vista frontal",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/zeekr-007-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Zeekr 007",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
     id: "nio-ec6-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EC6 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -935,7 +869,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
   },
   {
     id: "nio-el8-2026-precio-ficha-tecnica",
-    marca: "Nio",
+    marca: "NIO",
     modelo: "EL8 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -1046,32 +980,15 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm"],
-    pros: [
-      "Batería de 91,3 kWh: hasta 702 km",
-      "313 CV con tracción trasera",
-      "Carga rápida de 150 kW",
-      "SUV coupé de 4,86 m con diseño premium",
-      "Herencia BYD-Mercedes",
-    ],
-    contras: [
-      "2.655 kg de peso",
-      "Sin prueba EuroNCAP publicada",
-      "Precio en España por confirmar",
-      "Maletero sin dato oficial",
-      "Denza acaba de llegar a España",
-    ],
-    imagen: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-n7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-n7-2025-precio-ficha-tecnica-interior.webp",
+    pros: ["Batería Blade LFP de 91,3 kWh y 702 km homologados en ciclo CLTC chino en esta versión trasera de 313 CV: cifra generosa, aunque no comparable con un dato WLTP europeo.", "Doble toma de carga en las aletas traseras: admite dos pistolas simultáneas y sube de 150 kW con una sola a 230 kW con las dos, algo que casi ningún rival ofrece.", "Suspensión neumática DiSus-A y equipo de sonido de la francesa Devialet: dos piezas premium concretas, no solo una pantalla grande y tapicería de cuero Nappa.", "Tres pantallas frontales de 17,3 y 10,25 pulgadas con AR-HUD y una batalla de 2.940 mm para cinco ocupantes, dentro de una carrocería de 4.860 mm.", "Prestaciones suficientes sin pagar la tracción total: 360 Nm y 0 a 100 km/h en 6,8 segundos con un único motor trasero."],
+    contras: ["Los 702 km son CLTC: en uso real europeo la autonomía quedará claramente por debajo y todavía no hay homologación WLTP publicada para España.", "Sin prueba Euro NCAP: la referencia china C-NCAP no permite anticipar su nota europea, así que su protección en choque queda por demostrar aquí.", "Tamaño y masa juegan en contra en ciudad: 4.860 mm de largo y 1.935 mm de ancho en un SUV eléctrico pesado que no se disimula en aparcamientos estrechos.", "Compra todavía incierta en España: la ficha no aporta maletero oficial ni precio español cerrado, y la red comercial de Denza está empezando, con lo que posventa y valor de reventa son una incógnita."],
+    imagen: "",
+    imagenOficial: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-n7-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el N7 aún no ha sido probado",
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP (C-NCAP 5 estrellas en China no equivale a Euro NCAP)."},
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
       revisiones: [
@@ -1081,24 +998,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Denza/BYD para eléctricos",
     },
     galeria: [
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza N7 plateado, SUV coupé eléctrico",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza N7, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-n7-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza N7",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1130,32 +1032,15 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 20,
     aprox: [],
-    pros: [
-      "5 estrellas Euro NCAP (2021)",
-      "276 CV y 535 Nm por 40.995 €",
-      "75 km eléctricos: etiqueta Cero",
-      "Consumo de 0,9 l/100 km homologado",
-      "Suscripción flexible sin permanencia",
-    ],
-    contras: [
-      "Maletero de 349 L, justo",
-      "Batería de 17,7 kWh, pequeña para 2026",
-      "Sin carga rápida en continua",
-      "Diseño polarizante",
-      "Modelo con varios años en el mercado",
-    ],
+    pros: ["Los 75 km de autonomía eléctrica homologada le dan la etiqueta Cero de la DGT y permiten hacer el trayecto diario al trabajo sin arrancar el motor de gasolina, si se enchufa cada noche.", "276 CV y 535 Nm para un SUV de 4,54 metros: acelera de 0 a 100 km/h en 7,7 segundos, una cifra más propia de un compacto deportivo que de un enchufable familiar.", "Cinco estrellas Euro NCAP en 2021, con un 96 % en protección de ocupantes adultos y la nota máxima en impacto lateral, herencia directa de compartir plataforma CMA con el Volvo XC40.", "El consumo homologado de 0,9 l/100 km y las emisiones de 20 g/km de CO2 salen de la actualización del sistema híbrido, que subió la potencia desde los 261 CV anteriores sin empeorar la eficiencia.", "La pantalla central de 15,4 pulgadas con procesador Snapdragon 8155 de la versión renovada corrige la lentitud del sistema multimedia original, uno de los puntos más criticados del primer 01 europeo."],
+    contras: ["El maletero se queda en 349 litros según la ficha, poco para un SUV familiar de este tamaño y claramente por debajo de lo que espera quien carga maletas o un carrito a diario.", "La batería de 17,7 kWh no admite carga rápida en corriente continua, así que aprovechar un cargador público en una parada corta no es una opción real: toca cargar en alterna y con tiempo.", "Pesa 1.879 kg y toda la potencia va solo a las ruedas delanteras; con 535 Nm de par, en firme mojado o en salidas fuertes la electrónica tiene trabajo extra para evitar pérdidas de tracción.", "Su base técnica viene de un modelo presentado en 2016 y vendido en China desde 2017, así que, aunque la actualización de 2024 lo puso al día, no es un diseño de última generación frente a enchufables recién lanzados."],
     imagen: "/media/lynk-co-01-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lynk-co-01-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-01-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "lynk-co-01-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: {
-      estrellas: 5,
-      ano: 2021,
-      url: null,
-      nota: "5 estrellas Euro NCAP 2021",
-    },
+    euroncap: {"estrellas": 5, "ano": 2021, "url": "https://www.euroncap.com/press-media/powershift-five-star-safety-across-the-energy-spectrum/", "nota": "Resultado Euro NCAP verificado para este modelo."},
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -1178,12 +1063,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      {
-        src: "/media/lynk-co-01-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Lynk & Co 01",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
   },
   {
@@ -1398,23 +1278,11 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 23,
     aprox: [],
-    pros: [
-      "5 estrellas Euro NCAP (2025): el PHEV más seguro del año",
-      "200 km eléctricos con 39,6 kWh",
-      "Carga rápida de 85 kW en un híbrido enchufable",
-      "345 CV y 615 Nm",
-      "Récord Guinness: 1.813 km sin repostar",
-    ],
-    contras: [
-      "52.995 €: precio premium",
-      "2.112 kg de peso",
-      "Tracción delantera con 345 CV",
-      "Consumo real sube sin carga",
-      "Marca de nicho en España",
-    ],
+    pros: ["Hasta 200 km WLTP sin quemar gasolina, apoyados en una batería de 39,6 kWh que aplaza semanas el primer repostaje", "Acepta corriente continua a 85 kW, rareza entre los enchufables, recuperando del 10 al 80 % en 33 minutos", "Sumando depósito y batería declara más de 1.000 km combinados, margen que desdramatiza los viajes largos sin planificar paradas", "Euro NCAP lo situó en lo más alto en septiembre de 2025: cinco estrellas y mejor nota entre los PHEV evaluados", "Sus 345 CV y 615 Nm mueven el conjunto con soltura, cerrando el sprint hasta 100 km/h en 6,8 segundos"],
+    contras: ["Partir de 52.995 euros lo enfrenta a BMW X3, Audi Q5 y Mercedes-Benz GLC, rivales con red española mucho más densa", "Los 2.112 kg condicionan agilidad y frenadas, y penalizan el gasto cuando la batería ya no aporta energía", "Toda la fuerza pasa por delante: con 615 Nm, arrancar fuerte obliga a la electrónica a contener pérdidas de tracción", "A pesar de medir 4,82 metros de longitud, homologa cinco plazas únicamente, sin tercera fila disponible ni como opción", "La marca sigue siendo minoritaria en España, así que su valor de reventa permanece por demostrar frente a fabricantes asentados"],
     imagen: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "lynk-co-08-emp-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1446,12 +1314,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      {
-        src: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Lynk & Co 08",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
   },
   {
@@ -1751,9 +1614,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Sin prueba EuroNCAP",
       "Denza acaba de llegar a España",
     ],
-    imagen: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-d9-dm-i-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1773,24 +1636,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza D9 azul, monovolumen híbrido enchufable",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza D9, vista frontal",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza D9",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
@@ -1836,9 +1684,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Denza acaba de llegar a España",
       "Consumo real elevado sin carga",
     ],
-    imagen: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "denza-z9-dm-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -1858,24 +1706,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Denza Z9, berlina híbrida enchufable",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza Z9, vista lateral",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Denza Z9",
-        ancho: 1200,
-        alto: 800,
-      },
+      
+      
+      
     ],
   },
   {
