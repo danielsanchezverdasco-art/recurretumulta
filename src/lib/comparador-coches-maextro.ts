@@ -37,11 +37,11 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     maleteroL: null,
     ceroCien: 4.3,
     velocidadMax: 210,
-    bateriaKwh: 97,
+    bateriaKwh: 94.364,
     cargaRapidaKw: 480,
     etiquetaDgt: "Cero",
     pros: [
-      "Autonomía de 670 km CLTC con batería NMC de 97 kWh",
+      "Autonomía de 670 km CLTC con batería NMC de 94,4 kWh",
       "Carga ultrarrápida 800 V: del 10 al 80 % en unos 12 minutos",
       "530 CV y tracción total: 0-100 km/h en 4,3 segundos",
       "Huawei ADS 4.0 con LiDAR y dirección trasera de 16 grados",

@@ -1385,7 +1385,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     cargaRapidaKw: 85,
     etiquetaDgt: "Cero",
     garantiaBateriaAnos: 8,
-    garantiaBateriaKm: 150000,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 4820,
     anchoMm: 1915,

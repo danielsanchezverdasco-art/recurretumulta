@@ -700,7 +700,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     pros: [
       "Facelift 2026: 408 CV traseros con batería de 100 kWh",
       "680 km de autonomía CLTC con plataforma de 800 V",
-      "5 estrellas Euro NCAP (2025)",
+      "Sin datos EuroNCAP: modelo no probado",
       "Dirección a las cuatro ruedas y chasis Lizard 2.0",
       "El Ultra llega a 787 CV con 3,48 s de 0-100",
     ],

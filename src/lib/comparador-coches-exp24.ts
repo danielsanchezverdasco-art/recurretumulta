@@ -1088,7 +1088,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     maleteroL: null,
     ceroCien: 4.3,
     velocidadMax: null,
-    bateriaKwh: 97,
+    bateriaKwh: 94.364,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     garantiaBateriaAnos: null,
@@ -1106,7 +1106,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde"],
     pros: [
-      "702 km CLTC con batería de 97 kWh y tracción total de 530 CV",
+      "702 km CLTC con batería de 94,4 kWh y tracción total de 530 CV",
       "Berlina de 5,48 m con batalla de 3,37 m: rival del Maybach Clase S",
       "Interior de 4 plazas con asientos de gravedad cero y pantalla de cine",
       "Huawei ADS de última generación con LiDAR de 192 líneas",

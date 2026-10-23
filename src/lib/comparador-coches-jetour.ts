@@ -1191,7 +1191,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
     pesoKg: 1830,
     consumo: null,
     consumoUnidad: "l/100 km",
-    plazas: 7,
+    plazas: 5,
     parNm: 395,
     traccion: "Delantera",
     emisionesCo2: null,

@@ -415,7 +415,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "10.588 € más que el 1.5 TSI",
       "270 L de maletero: la batería se come 110 L",
       "Peso extra notable frente al TSI",
-      "Sin carga rápida en continua",
+      "Carga rápida en continua limitada a 50 kW",
       "Si no cargas a diario, pierde todo el sentido"
     ],
     "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
@@ -723,7 +723,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "contras": [
       "Precio sin confirmar en tarifa oficial",
       "La batería resta maletero frente a los 620 L del ST térmico",
-      "Sin carga rápida en continua",
+      "Carga rápida en continua limitada a 50 kW",
       "Peso extra del sistema híbrido",
       "Solo tiene sentido si cargas a diario"
     ],
@@ -1023,7 +1023,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "contras": [
       "7.288 € más que el 1.5 eTSI",
       "Maletero de 345 L: la batería resta 105 L",
-      "Sin carga rápida en continua",
+      "Carga rápida en continua limitada a 50 kW",
       "Peso extra del sistema híbrido",
       "Sin enchufe diario, mejor el eTSI"
     ],
@@ -1422,7 +1422,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     ],
     "contras": [
       "Maletero menor que los 508 L del Terramar térmico",
-      "Sin carga rápida en continua",
+      "Carga rápida en continua limitada a 50 kW",
       "El VZ e-Hybrid 272 añade 68 CV por 7.660 € más",
       "Peso extra del sistema híbrido",
       "Sin enchufe diario, pierde el sentido"

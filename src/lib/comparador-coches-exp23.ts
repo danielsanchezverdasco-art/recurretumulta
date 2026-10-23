@@ -3710,7 +3710,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     aprox: ["pesoKg"],
     pros: [
       "340 CV con tracción total: la furgo eléctrica más divertida",
-      "1.121 litros de maletero y hasta 7 plazas",
+      "1.121 litros de maletero y 5 plazas en batalla corta",
       "Carga rápida de 185 kW: del 10 al 80 % en 25 minutos",
       "Diseño retro que no pasa desapercibido",
     ],
