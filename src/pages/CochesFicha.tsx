@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import CreditoFoto from "@/components/CreditoFoto.tsx";
+import CreditoFoto, { creditoDe } from "@/components/CreditoFoto.tsx";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -293,6 +293,12 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     ...(coche.imagenInteriorOficial ? [{ src: coche.imagenInteriorOficial, alt: `Interior oficial del ${nombre}` }] : []),
     ...(coche.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
+  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente (p. ej. Wikimedia Commons).
+  const galeriaConCreditoExterno = (coche.galeria ?? []).some((f) => {
+    const c = creditoDe(f.src);
+    return c != null && c.licencia !== "prensa";
+  });
   const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
   const datosClave: DatoClave[] = [
     coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
@@ -830,7 +836,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {coche.marca} (prensa del fabricante).
+              {galeriaConCreditoExterno ? `Fotos del ${nombre}.` : `Fotos oficiales de ${coche.marca} (prensa del fabricante).`}
             </p>
                       </NightGallery>
 </section>

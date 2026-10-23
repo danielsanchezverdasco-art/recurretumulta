@@ -25,13 +25,29 @@ print("heroes", len(heroes), "cards generadas", hechas, "sin fuente", len(sin_fu
 open("/tmp/heroes-sin-fuente.txt", "w").write("\n".join(sin_fuente))
 
 # 3) Créditos visibles: public/media-creditos.md -> src/lib/creditos-fotos.generated.ts
-#    (solo licencias que exigen atribución: CC BY / CC BY-SA).
+# 3) Créditos visibles: public/media-creditos.md -> src/lib/creditos-fotos.generated.ts
+#    (licencias que exigen atribución: CC BY / CC BY-SA; y fotos de prensa verificadas:
+#    23/10/2026 punto 5 plan AdSense — también llevan atribución visible "Foto: X (prensa)").
 import json as _json
 _cred = {}
+_seccion = ""
 for _l in open("public/media-creditos.md", encoding="utf8"):
-    _c = [x.strip() for x in _l.strip().strip("|").split("|")]
-    if len(_c) >= 4 and _c[0].startswith("/media/") and re.match(r"CC BY", _c[3]):
-        _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": _c[3], "url": _c[1]}
+    _ls = _l.strip()
+    if _ls.startswith("### "):
+        _seccion = _ls[4:]
+        continue
+    _c = [x.strip() for x in _ls.strip("|").split("|")]
+    if len(_c) >= 4 and _c[0].startswith("/media/") and _c[0] != "/media/fichero":
+        if re.match(r"CC BY", _c[3]):
+            _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": _c[3], "url": _c[1]}
+        elif _c[3] == "prensa" and _c[1].startswith("http"):
+            _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": "prensa", "url": _c[1]}
+    elif len(_c) == 2 and _c[0].startswith("/media/") and _c[0] != "/media/fichero" and _c[1].startswith("http") and "prensa" in _c[1]:
+        # Tablas 2-col de kits de prensa (Hymer, La Strada, VW Grand California, Westfalia):
+        # el autor es la marca de la cabecera de sección.
+        _m = re.search(r"\(fotos oficiales ([^)]+)\)", _seccion)
+        _autor = _m.group(1).strip() if _m else _seccion.split("(")[0].strip()
+        _cred[_c[0]] = {"autor": _autor, "licencia": "prensa", "url": _c[1].split(" (")[0]}
 open("src/lib/creditos-fotos.generated.ts", "w", encoding="utf8").write(
     "// GENERADO por scripts/gen-cards.py desde public/media-creditos.md. No editar.\n"
     "export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; url: string }> = "

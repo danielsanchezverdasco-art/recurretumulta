@@ -23,7 +23,7 @@ export const MOTOR_2026_O_POSTS: BlogPost[] = [
     "coches retro eléctricos Renault",
     "Salón París 2026 novedades Renault"
   ],
-  "content": `<img src=/media/renault-8-gordini-concept-paris-2026-oficial.webp alt=Renault 8 Gordini Concept, vista exterior en foto oficial de Renault>
+  "content": `<img src=/media/renault-8-gordini-concept-paris-2026.webp alt=Renault 8 Gordini Concept, vista exterior>
 
 El **Renault 8 Gordini** vuelve. 62 años después del mito de 1964, Renault lo ha reinventado como **coupé biplaza 100 % eléctrico** de **270 CV** y **propulsión trasera**, y lo expone esta semana en el **Salón del Automóvil de París**. No es un ejercicio de nostalgia barata: es la pieza más emocional de la ofensiva con la que la marca juega en casa frente a la avalancha china.
 
@@ -54,7 +54,7 @@ Renault no hace esto por romanticismo. Con **25 marcas chinas** exponiendo en Pa
 
 El concept se ha diseñado **íntegramente en Renault** (a diferencia del R17 show car, obra del diseñador Ora Ito): más de **300 bocetos** en un concurso interno de diseño. El interior sigue la filosofía **café racer** —aluminio cepillado, Alcantara, relojes circulares y un botón rojo de cronómetro—, la misma que estrenó el R5 Turbo 3E.
 
-<img src=/media/renault-8-gordini-concept-paris-2026-oficial-2.webp alt=Renault 8 Gordini Concept, interior en foto oficial de Renault>
+<img src=/media/renault-8-gordini-concept-paris-2026-2.webp alt=Renault 8 Gordini Concept, interior>
 
 ## ¿Homenaje o distracción?
 
@@ -173,7 +173,7 @@ Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis
     "Fiat Grizzly eléctrico autonomía",
     "SUV familiar barato 2026"
   ],
-  "content": `<img src=/media/fiat-grizzly-fastback-paris-2026-oficial.webp alt=Fiat Grizzly y Grizzly Fastback en foto oficial de Fiat>
+  "content": `<img src=/media/fiat-grizzly-fastback-paris-2026.webp alt=Fiat Grizzly y Grizzly Fastback>
 
 **Fiat** vuelve a lo que mejor se le da: el coche familiar asequible. Los nuevos **Grizzly** y **Grizzly Fastback** hacen hoy su **debut público en el Salón de París** y llegarán a los concesionarios europeos en el **último trimestre de 2026**. Dos SUV de 4,4 y 4,5 metros con motores de gasolina, microhíbridos y **100 % eléctricos**, que pelearán en el segmento del SUV familiar asequible donde la referencia es el Dacia Duster.
 
@@ -203,7 +203,7 @@ Aquí está lo interesante: el Grizzly comparte la **plataforma Smart Car** con 
 
 El rival a batir es el <a href=/coches/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica/>Dacia Duster</a>, la referencia del SUV asequible en España. Si Fiat cumple el precio estimado (~20.000 €) y la versión eléctrica ronda los 400 km, el Grizzly tiene argumentos. La duda razonable: con tres marcas del mismo grupo vendiendo primos hermanos, ¿quién se queda con el cliente? <a href=/comparador-coches/>Compáralos en el comparador de coches</a>.
 
-<img src=/media/fiat-grizzly-fastback-paris-2026-oficial-2.webp alt=Fiat Grizzly Fastback, vista trasera en foto oficial de Fiat>
+<img src=/media/fiat-grizzly-fastback-paris-2026-2.webp alt=Fiat Grizzly Fastback, vista trasera>
 
 Los dos modelos se presentaron en julio en el vídeo del **127º aniversario de Fiat**, con Olivier François (consejero delegado de Fiat) convirtiendo una oficina de registro italiana en una prueba improvisada. Se suman al <a href=/coches/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica/>Grande Panda</a> en la gama renovada de la marca, junto al <a href=/coches/fiat-600e-2025-precio-ficha-tecnica/>600e</a> eléctrico. Hoy, en París, es su primera aparición pública ante el gran público.
 

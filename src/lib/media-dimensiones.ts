@@ -1,6 +1,8 @@
 // Dimensiones intrínsecas de las imágenes de /media (generado automáticamente).
 // Se usan para inyectar width/height y evitar CLS, sobre todo en móvil.
 export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
+  "byd-sealion-7-salon-paris-2024.webp": [1230, 810],
+  "yangwang-u8-salon-paris-2024.webp": [1100, 618],
   "calendario-alpine-a110-electrico.webp": [1200, 800],
   "calendario-audi-nuvolari.webp": [1200, 800],
   "calendario-dacia-electrico-entrada.webp": [1200, 800],
@@ -3573,8 +3575,8 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hero.webp": [1200, 800],
   "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-interior.webp": [1200, 800],
   "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-oficial.webp": [1200, 800],
-  "fiat-grizzly-fastback-paris-2026-oficial-2.webp": [1200, 671],
-  "fiat-grizzly-fastback-paris-2026-oficial.webp": [1200, 675],
+  "fiat-grizzly-fastback-paris-2026-2.webp": [1200, 671],
+  "fiat-grizzly-fastback-paris-2026.webp": [1200, 675],
   "fiat-multiplay-concept-paris-2026-hero.webp": [818, 942],
   "fiat-multiplay-concept-paris-2026-pickup-perfil.webp": [818, 547],
   "fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hero.webp": [1920, 1280],
@@ -7424,8 +7426,8 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "renault-600-millones-electricos-espana-galeria-1.webp": [1600, 1066],
   "renault-600-millones-electricos-espana-galeria-2.webp": [1600, 1066],
   "renault-600-millones-electricos-espana-hero.webp": [1600, 1066],
-  "renault-8-gordini-concept-paris-2026-oficial-2.webp": [2000, 1334],
-  "renault-8-gordini-concept-paris-2026-oficial.webp": [2000, 1334],
+  "renault-8-gordini-concept-paris-2026-2.webp": [2000, 1334],
+  "renault-8-gordini-concept-paris-2026.webp": [2000, 1334],
   "renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hero.webp": [1920, 1280],
   "renault-arkana-2026-e-tech-145-precio-ficha-tecnica-oficial.webp": [1920, 1280],
   "renault-austral-2024-precio-ficha-tecnica-hero.webp": [1200, 800],

@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import CreditoFoto from "@/components/CreditoFoto.tsx";
+import CreditoFoto, { creditoDe } from "@/components/CreditoFoto.tsx";
 import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
@@ -165,10 +165,20 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     etiquetaBaseMoto(moto.etiquetaDgt) === "Cero" || moto.autonomiaKm != null || moto.carga != null;
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  // 23/10/2026 (punto 5 plan AdSense): el hero solo se rotula "oficial" si no tiene
+  // crédito de otra fuente (p. ej. foto CC BY-SA de Wikimedia Commons).
+  const creditoHero = moto.imagen ? creditoDe(moto.imagen) : null;
+  const heroEsPrensa = creditoHero == null || creditoHero.licencia === "prensa";
   const fotosTop: FotoFicha[] = [
-    ...(moto.imagen ? [{ src: moto.imagen, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
+    ...(moto.imagen ? [{ src: moto.imagen, alt: heroEsPrensa ? `Foto oficial de la ${nombre}` : `Foto de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
     ...moto.galeria.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
+  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente.
+  const galeriaConCreditoExterno = moto.galeria.some((f) => {
+    const c = creditoDe(f.src);
+    return c != null && c.licencia !== "prensa";
+  });
   const datosClave: DatoClave[] = [
     (moto.potenciaCv != null || moto.potenciaKw != null) && { icono: <Zap className="h-5 w-5" />, valor: moto.potenciaCv != null ? `${String(moto.potenciaCv).replace(".", ",")} CV` : `${String(moto.potenciaKw).replace(".", ",")} kW`, label: "Potencia" },
     esMotoElectrica(moto)
@@ -512,7 +522,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
 
         {moto.galeria.length > 0 && (
           <Suspense fallback={null}>
-          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
+          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {moto.galeria.map((f) => (
@@ -537,7 +547,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {moto.marca} (prensa del fabricante).
+              {galeriaConCreditoExterno ? `Fotos de la ${nombre}.` : `Fotos oficiales de ${moto.marca} (prensa del fabricante).`}
             </p>
                       </NightGallery>
 </section>

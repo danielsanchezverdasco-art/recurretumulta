@@ -55,10 +55,10 @@
 | /media/indian-101-scout-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Indian_Scout_101_Motorcycle_(44400089014).jpg | David Merrett from Daventry, England | CC BY 2.0 |
 | /media/indian-super-chief-limited-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:The_rearview_of_Indian_Motorcycle_Super_Chief_Limited_mid-year_2023.jpg | Tokumeigakarinoaoshima | CC BY-SA 4.0 |
 | /media/moto-guzzi-v9-bobber-2025-ficha-tecnica-precio-1.webp | https://commons.wikimedia.org/wiki/File:Moto_Guzzi_V9_Bobber_Centenario_2021_museum.jpg | CheminduCret | CC0 |
-| /media/renault-8-gordini-concept-paris-2026-oficial.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
-| /media/renault-8-gordini-concept-paris-2026-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
-| /media/fiat-grizzly-fastback-paris-2026-oficial.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
-| /media/fiat-grizzly-fastback-paris-2026-oficial-2.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
+| /media/renault-8-gordini-concept-paris-2026.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
+| /media/renault-8-gordini-concept-paris-2026-2.webp | https://commons.wikimedia.org/wiki/File:Renault_8_Gordini_Concept_2026.jpg | 2cv2026 | CC BY-SA 4.0 |
+| /media/fiat-grizzly-fastback-paris-2026.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
+| /media/fiat-grizzly-fastback-paris-2026-2.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grizzly_Fastback.jpg | Turning67 | CC BY-SA 4.0 |
 | /media/citroen-2cv-clasico-1948.webp | https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_2_CV_Charleston_(2015-08-29_3174_b).jpg | Lothar Spurzem | CC BY-SA 2.0 de |
 | /media/aion-v-vs-deepal-s05-cual-comprar-hero.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
 | /media/aion-v-vs-deepal-s05-cual-comprar-cuerpo.webp | https://commons.wikimedia.org/wiki/File:Aion_V_006.jpg | Jengtingchen | CC BY-SA 4.0 |
@@ -289,3 +289,11 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Rescate hotlinks blog Salón París 2026 (23/10/2026, Niky — punto 5 plan AdSense)
+Fotos descargadas a public/media (WebP <300KB), hotlink eliminado. Uso editorial; licencia por validar con el medio.
+
+| Archivo | Fuente | Autor/Medio | Licencia |
+|---|---|---|---|
+| /media/byd-sealion-7-salon-paris-2024.webp | https://www.drive.gr/sites/default/files/styles/1230x810/public/node-files/photos/news/2024/11/byd-sealion-7-2024-paris-motor-show-front-quarter_0.jpg?itok=esCjd2sp | drive.gr | uso editorial, licencia por validar |
+| /media/yangwang-u8-salon-paris-2024.webp | https://anewz.tv/data/images/2024-12-09/1189_2024-10-14t175615z-55881562-rc2fkaavjfhm-rtrmadp-3-paris-autoshow_f.JPG?t=1787662649 | anewz.tv (foto Reuters) | uso editorial, licencia por validar |

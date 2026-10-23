@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import CreditoFoto from "@/components/CreditoFoto.tsx";
+import CreditoFoto, { creditoDe } from "@/components/CreditoFoto.tsx";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
@@ -145,10 +145,20 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
 
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  // 23/10/2026 (punto 5 plan AdSense): el hero solo se rotula "oficial" si no tiene
+  // crédito de otra fuente (p. ej. foto CC BY-SA de Wikimedia Commons).
+  const creditoHero = !patinete.fotoPendiente && patinete.foto ? creditoDe(patinete.foto) : null;
+  const heroEsPrensa = creditoHero == null || creditoHero.licencia === "prensa";
   const fotosTop: FotoFicha[] = [
-    ...(!patinete.fotoPendiente && patinete.foto ? [{ src: patinete.foto, alt: `Foto oficial del ${nombre}`, ancho: dimDe(patinete.foto)?.[0], alto: dimDe(patinete.foto)?.[1] }] : []),
+    ...(!patinete.fotoPendiente && patinete.foto ? [{ src: patinete.foto, alt: heroEsPrensa ? `Foto oficial del ${nombre}` : `Foto del ${nombre}`, ancho: dimDe(patinete.foto)?.[0], alto: dimDe(patinete.foto)?.[1] }] : []),
     ...(patinete.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
+  // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
+  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente.
+  const galeriaConCreditoExterno = (patinete.galeria ?? []).some((f) => {
+    const c = creditoDe(f.src);
+    return c != null && c.licencia !== "prensa";
+  });
   const datosClave: DatoClave[] = [
     patinete.autonomiaKm != null && { icono: <BatteryCharging className="h-5 w-5" />, valor: `${patinete.autonomiaKm} km`, label: "Autonomía declarada" },
     patinete.potenciaNominalW != null && { icono: <Zap className="h-5 w-5" />, valor: `${fmtMiles(patinete.potenciaNominalW)} W`, label: "Potencia nominal" },
@@ -467,7 +477,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
 
         {(patinete.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>
-          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
+          <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
               {patinete.galeria!.map((f) => (
@@ -483,11 +493,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
                     loading="lazy"
                     className="rtm-card-zoom aspect-[3/2] w-full object-contain bg-white"
                   />
+                  <CreditoFoto src={f.src} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {patinete.marca} (prensa del fabricante).
+              {galeriaConCreditoExterno ? `Fotos del ${nombre}.` : `Fotos oficiales de ${patinete.marca} (prensa del fabricante).`}
             </p>
                       </NightGallery>
 </section>
