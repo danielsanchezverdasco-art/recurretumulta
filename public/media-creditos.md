@@ -289,3 +289,8 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## Radar 23/10/2026 15:58 — Lexus TZ (precios España)
+- lexus-tz-2026-precio-ficha-tecnica-hero.webp: Lexus TZ 550e, vista delantera 3/4. Fuente: Auto Express (https://www.autoexpress.co.uk/lexus/369528/lexus-tz-suv-pictures), foto de prensa de Lexus. Verificada visualmente (TZ 550e, frontal con ópticas twin-L). Licencia desconocida.
+- lexus-tz-2026-precio-ficha-tecnica-oficial.webp: Lexus TZ 450e, vista trasera 3/4 con piloto de ancho completo. Fuente: Carscoops (https://www.carscoops.com/2026/05/lexus-tz-electric-suv/), foto de prensa de Lexus. Verificada visualmente (trasera con letrero LEXUS iluminado y badge TZ 450e). Licencia desconocida.
+- lexus-tz-2026-precio-ficha-tecnica-interior.webp: Interior del Lexus TZ, puesto de conducción con pantalla de 14 pulgadas. Fuente: newsroom Lexus Italia (https://newsroom.lexus.it/lexus-presenta-tz-un-suv-elettrico-a-6-posti-tutto-nuovo/), foto oficial de prensa de Lexus. Verificada visualmente (cockpit TZ con Mark Levinson y luz ambiental). Licencia desconocida.
