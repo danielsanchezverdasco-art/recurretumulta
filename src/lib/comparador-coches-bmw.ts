@@ -2240,13 +2240,15 @@ export const COCHES_BMW: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Primer SUV eléctrico de BMW con 3 filas de asientos",
+      "Primer SUV eléctrico de BMW con 3 filas de asientos: 6 o 7 plazas (según newmobility.news, 23/10/2026)",
       "La versión eléctrica del X7, el SUV más grande y lujoso de BMW",
-      "Plataforma CLAR actualizada con tecnología Neue Klasse",
+      "Plataforma CLAR actualizada con tecnología y diseño Neue Klasse (según la prensa especializada)",
+      "Cazado en pruebas en Nürburgring junto al X7 M60: el desarrollo sigue su curso (fotos espía SHProshots, vía CarScoops)",
+      "Debut previsto para mediados de 2027 (expectativa de la prensa; BMW no ha anunciado fecha oficial)",
       "Se espera tracción total de doble motor (pendiente de confirmación)",
     ],
     contras: [
-      "Prototipo cazado: todos los datos oficiales están pendientes",
+      "Solo fotos espía del prototipo camuflado: ningún dato oficial publicado por BMW",
       "Precio y potencia sin confirmar",
       "Sin datos EuroNCAP: modelo no probado",
       "Sin plataforma eléctrica dedicada (usa la CLAR actualizada)",
@@ -2278,13 +2280,13 @@ export const COCHES_BMW: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-hero.webp",
-        "alt": "BMW iX7 prototipo camuflado en Nürburgring, vista delantera tres cuartos",
+        "alt": "Foto espía (no oficial) del prototipo camuflado del BMW iX7 en Nürburgring, vista delantera tres cuartos",
         "ancho": 780,
         "alto": 438
       },
       {
         "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-oficial.webp",
-        "alt": "BMW iX7 prototipo camuflado en Nürburgring, vista lateral tres cuartos",
+        "alt": "Foto espía (no oficial) del prototipo camuflado del BMW iX7 en Nürburgring, vista lateral tres cuartos",
         "ancho": 1400,
         "alto": 700
       },

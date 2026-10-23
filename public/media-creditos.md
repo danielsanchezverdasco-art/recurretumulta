@@ -289,3 +289,7 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+
+## BMW iX7 2027 — fotos espía del prototipo (23/10/2026)
+| /media/bmw-ix7-2027-precio-ficha-tecnica-hero.webp | https://newmobility.news/en/2026/10/23/bmw-prepares-ix7-seven-seater/ | SHProshots (vía newmobility.news) | prensa |
+| /media/bmw-ix7-2027-precio-ficha-tecnica-oficial.webp | https://www.carscoops.com/2291932/bmw-ix7-x7-m60-spy-shots/ | SHProshots (vía CarScoops) | prensa |

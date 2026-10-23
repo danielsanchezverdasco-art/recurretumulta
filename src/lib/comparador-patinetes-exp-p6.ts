@@ -2353,7 +2353,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Neumáticos tubeless de 10\": antipinchazo",
       "Compatible con Apple Find My: localízalo si te lo roban",
       "17,3 kg: ligero para su equipamiento",
-      "40-45 km declarados con 400 W eficientes",
+      "55 km de autonomía declarada (ECO) con 400 W eficientes",
     ],
     contras: [
       "400 W nominales: justos en cuestas pronunciadas",
