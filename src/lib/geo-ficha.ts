@@ -126,7 +126,13 @@ export interface CocheGeo {
 export function datosGeoCoche(c: CocheGeo, nombre: string, historial?: PuntoHist[] | null, precioOrigen?: { price: number; priceCurrency: string; pais?: string } | null): DatosGeo {
   const prop = propulsionCoche(c.tipo);
   const cat = catTxt(c.categoria);
-  const queEs = prop || cat ? `un coche${prop ? " " + prop : ""}${cat ? ` de tipo ${cat}` : ""}` : null;
+  // 20/10/2026 (informe Niky, borrador 2): las fichas alojadas en /coches/ con
+  // categoría Autocaravana o Camper no son «un coche … de tipo autocaravana»:
+  // se presentan como lo que son («una autocaravana diésel», «una camper diésel»).
+  const esVivienda = /^(autocaravana|camper)$/i.test(c.categoria ?? "");
+  const queEs = esVivienda
+    ? `una ${cat ?? "autocaravana"}${prop ? " " + prop : ""}`
+    : prop || cat ? `un coche${prop ? " " + prop : ""}${cat ? ` de tipo ${cat}` : ""}` : null;
   const claves: string[] = [];
   if (ok(c.potenciaCv)) claves.push(aproxS(`${num(c.potenciaCv)} CV`, c.aprox.includes("potenciaCv")));
   const t = minus(c.tipo || "");
@@ -134,7 +140,7 @@ export function datosGeoCoche(c: CocheGeo, nombre: string, historial?: PuntoHist
     const etiqueta = /enchufable/.test(t) ? "km de autonomía eléctrica" : "km de autonomía";
     claves.push(aproxS(`${num(c.autonomiaKm)} ${etiqueta}`, c.aprox.includes("autonomiaKm")));
   }
-  return { articulo: "El", nombre, queEs, claves, precio: c.precioDesde, precioAprox: c.aprox.includes("precioDesde"), precioOrigen, historial };
+  return { articulo: esVivienda ? "La" : "El", nombre, queEs, claves, precio: c.precioDesde, precioAprox: c.aprox.includes("precioDesde"), precioOrigen, historial };
 }
 
 export interface MotoGeo {

@@ -22,6 +22,6 @@ export const HISTORIA_LOTE9: Record<string, HistoriaModelo> = {
   "yamaha-e01-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/yamaha-e01-2025-ficha-tecnica-precio-1.webp" }] },
   "suzuki-e-access-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/suzuki-e-access-2025-ficha-tecnica-precio-1.webp" }] },
   "bajaj-chetak-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/bajaj-chetak-2025-ficha-tecnica-precio-1.webp" }] },
-  "ather-450x-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/ather-450x-2025-ficha-tecnica-precio-1.webp" }] },
+  "ather-450x-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/ather-450x-2025-ficha-tecnica-precio-2.webp" }] },
   "ola-s1-pro-2025-ficha-tecnica-precio": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: "/media/motos/ola-s1-pro-2025-ficha-tecnica-precio-1.webp" }] },
 };

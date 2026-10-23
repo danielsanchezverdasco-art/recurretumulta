@@ -12,5 +12,9 @@ export function fmtMiles(v: number, decimales = 0): string {
 }
 
 export function fmtEur(v: number | null | undefined, vacio = "—"): string {
-  return v == null ? vacio : fmtMiles(v) + " €";
+  if (v == null) return vacio;
+  // 20/10/2026: si el precio trae céntimos (p. ej. PVP oficial 399,99 €) se
+  // muestran; redondear a 400 € contradecía el propio dato (informe Niky p.18).
+  // Los precios enteros se siguen mostrando sin decimales, como hasta ahora.
+  return fmtMiles(v, Number.isInteger(v) ? 0 : 2) + " €";
 }
