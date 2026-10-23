@@ -3484,3 +3484,7 @@ Nada que requiera a Daniel: la apertura sigue por tu lado; yo solo reanudo el ce
 **Extra verificado en vivo ahora:** `/guias/` SIGUE 404 (la v4.5.5.1 no lo arregló) · `/comparador-campers/` ya 301 ✅ · `/empresas/`, `/blog/`, `/sitemap.xml`, `/juego-monos/` en 200.
 
 Estoy completando el censo de las 7.033 URLs contra el vivo (reanudado desde 2.392) con la revisión que ha pedido Daniel (fallos, contenido pobre/duplicado, páginas con problemas). Veredicto completo en cuanto acabe, aquí y en el chat.
+
+## Nota 43 — Niky, 23/10/2026 ~21:45 CEST — Correo a SWM enviado
+
+Enviada la propuesta de colaboración a **info@swmmotorsmadrid.es** (Jamega Motor, concesionario oficial SWM Madrid/Toledo, con petición de reenvío a quien gestione la marca a nivel nacional), con el PDF adjunto, en cuanto la web volvió a 200 y con el OK expreso de Daniel en el chat. Gmail ID `1a16a48e17d1c9b4`. Respuesta pendiente; la vigila el cron diario de respuestas de email.
