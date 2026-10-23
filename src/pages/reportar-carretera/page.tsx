@@ -128,6 +128,7 @@ export default function ReportarCarreteraPage() {
   return (
     <div className="min-h-screen bg-white flex flex-col">
       <SharedNavbar />
+      <main>
 
       {/* ── HERO ── */}
       <PageHero
@@ -413,6 +414,7 @@ export default function ReportarCarreteraPage() {
         </div>
       </section>
 
+      </main>
       <SharedFooter />
     </div>
   );

@@ -101,7 +101,7 @@ export default function MultasIndexPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero animado estilo C3: DriveInImage + gradientes oscuros + toque rojo */}
         <div className="relative overflow-hidden">
           <DriveInImage src="/media/file_Pm1lY1y4dFZNF5Vbdp2fGaoe.webp" alt="Coche patrulla de la Guardia Civil de Tráfico en una carretera española" eager={true} className="absolute inset-0" imgClassName="w-full h-full object-cover" />
@@ -270,7 +270,7 @@ export default function MultasIndexPage() {
           {/* Footer */}
           <SharedFooter />
         </div>
-      </div>
+      </main>
     </div>
   );
 }

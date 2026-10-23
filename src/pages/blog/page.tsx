@@ -129,7 +129,7 @@ function BlogPage() {
     <div className="min-h-screen bg-white">
       <SharedNavbar />
 
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero */}
         <div className="relative overflow-hidden">
           <DriveInImage
@@ -427,7 +427,7 @@ function BlogPage() {
           {/* Footer */}
           <SharedFooter />
         </div>
-      </div>
+      </main>
     </div>
   );
 }

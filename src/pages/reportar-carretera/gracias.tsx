@@ -20,7 +20,7 @@ export default function GraciasReportePage() {
     <div className="min-h-screen bg-white flex flex-col">
       <SharedNavbar />
 
-      <section className="flex-1 flex items-center justify-center px-4 py-16 bg-gray-50">
+      <main className="flex-1 flex items-center justify-center px-4 py-16 bg-gray-50">
         <div className="max-w-xl w-full text-center">
           <Reveal>
             <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-6" />
@@ -75,7 +75,7 @@ export default function GraciasReportePage() {
             </div>
           </Reveal>
         </div>
-      </section>
+      </main>
 
       <SharedFooter editorial={false} />
     </div>

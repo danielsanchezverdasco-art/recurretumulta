@@ -152,7 +152,7 @@ export default function MultaProvinciaPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero estilo blog: DriveInImage + gradientes + contenido animado */}
         <div className="relative overflow-hidden">
           <DriveInImage
@@ -462,7 +462,7 @@ export default function MultaProvinciaPage() {
           {/* Footer */}
           <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", actualizado: "2026-10-04", sinHerramientas: true }} />
         </div>
-      </div>
+      </main>
     </div>
   );
 }
