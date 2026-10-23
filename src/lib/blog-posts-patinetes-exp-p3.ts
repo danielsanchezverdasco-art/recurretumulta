@@ -1854,73 +1854,80 @@ Sí: **21 km/h**, dentro del límite VMP de 25 km/h.
       "patinete 720wh",
       "hiboy commuter",
     ],
-    content: `<img src=/media/patinetes/hiboy-max-pro-1.webp alt=Hiboy Max Pro, vista lateral completa>
-
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-max-pro/>Ver ficha técnica del Hiboy Max Pro</a>: batería, motor y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Hiboy Max Pro** es el superventas lógico de la marca: **720 Wh** (48V 15Ah), **75 km declarados**, motor de **500 W** (650 W de pico) y **23,4 kg**. Mucho patinete por su precio habitual.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | Gama media Hiboy |
-| **Motor** | 500 W (650 W de pico) |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 75 km |
-| **Autonomía real estimada** | ≈50 km |
-| **Velocidad máxima** | 35 km/h |
-| **Peso** | 23,4 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-max-pro/>Ficha técnica completa del Hiboy Max Pro</a>.
-
-## Precio del Hiboy Max Pro en España
-
-Gama media de Hiboy, con precio agresivo en ofertas. Su relación batería/precio es de las mejores del catálogo de la marca.
-
-<img src=/media/patinetes/hiboy-max-pro-2.webp alt=Detalle de la batería del Hiboy Max Pro>
-
-## Autonomía real vs declarada
-
-**75 km declarados** frente a **unos 50 km reales** en uso mixto. Aun así, 50 km reales dan para ir y volver al trabajo varios días sin cargar.
-
-## Frenos y neumáticos
-
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar correcto para 35 km/h y 23,4 kg.
-
-## Certificado DGT y normativa VMP
-
-Ojo: declara **35 km/h**, así que en España debe circular **limitado a 25 km/h** para ser un VMP legal. Prohibido en **aceras**, como siempre.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 720 Wh: 75 km declarados | A 35 km/h hay que limitarlo |
-| 500 W con buen empuje | 50 km reales en uso mixto |
-| 23,4 kg: contenido | Sin sillín de serie |
-| 35 km/h en privado | Acabados sin lujos |
-| Buenos repuestos | App mejorable |
-
-<img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici>
-
-## Preguntas frecuentes
-
-### ¿Qué autonomía real tiene?
-Unos **50 km** en uso mixto.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Max Pro o KS4 Pro?
-El Max Pro tiene más batería (720 Wh frente a 417 Wh); el KS4 Pro es más ligero y compacto. Para autonomía, Max Pro.
-
-### ¿Cuánto pesa?
-**23,4 kg**: razonable para su batería.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+    content: `<p>El Hiboy Max Pro cuesta 656,99 dólares en la tienda oficial, guarda 720 Wh en su acumulador de 15 Ah a 48 voltios y declara 75 kilómetros de autonomía con neumáticos neumáticos de 11 pulgadas y doble suspensión.</p>
+<img src=/media/patinetes/hiboy-max-pro-1.webp alt="Hiboy Max Pro patinete eléctrico con doble suspensión" loading="lazy" width="800" height="450">
+<h2>El Max Pro es el Hiboy pensado para trayectos largos de verdad</h2>
+<p>La gama Max de Hiboy nació para quienes encontraban cortos los patinetes de 300 Wh, y el Max Pro es su interpretación más completa: bastidor grande, ruedas de 11 pulgadas que ya miran de tú a tú a las de algunos ciclomotores ligeros, batería de 720 Wh y un motor que anuncia 650 W de pico. No es un patinete de última milla que se dobla bajo el brazo —aunque se pliega, su tamaño y su peso lo orientan a vivir en garaje o trastero—, sino un vehículo de commuter para quien recorre 15 o 20 kilómetros diarios y quiere hacerlo sin cargar cada noche.</p>
+<p>Los datos que siguen proceden de la <a href=https://www.hiboy.com target="_blank" rel="noopener">tienda oficial de Hiboy</a> y de su guía de precios y especificaciones, y sirven además para corregir dos afirmaciones de la ficha que publicábamos hasta ahora: el tipo de frenos y la suspensión.</p>
+<h2>Ficha técnica del Hiboy Max Pro</h2>
+<table>
+<tr><th>Dato</th><th>Hiboy Max Pro</th></tr>
+<tr><td>Precio oficial</td><td>656,99 $ en hiboy.com (PVP regular de 999,99 $)</td></tr>
+<tr><td>Motor</td><td>650 W de potencia de pico (500 W nominales en la ficha clásica)</td></tr>
+<tr><td>Batería</td><td>15 Ah a 48 V (720 Wh)</td></tr>
+<tr><td>Autonomía declarada</td><td>46,6 millas (unos 75 km)</td></tr>
+<tr><td>Velocidad máxima</td><td>22 mph (unos 35 km/h)</td></tr>
+<tr><td>Ruedas</td><td>Neumáticas de 11 pulgadas</td></tr>
+<tr><td>Suspensión</td><td>Doble, delantera y trasera</td></tr>
+<tr><td>Frenos</td><td>Electrónico (e-braking) y de tambor</td></tr>
+<tr><td>Carga máxima</td><td>264,5 lb (120 kg)</td></tr>
+<tr><td>Protección al agua</td><td>IPX4</td></tr>
+<tr><td>Garantía</td><td>1 año según la marca</td></tr>
+<tr><td>Extras</td><td>App con bloqueo remoto y sillín opcional</td></tr>
+</table>
+<p>En la <a href=/patinetes/hiboy-max-pro>ficha del Hiboy Max Pro</a> del comparador lo tienes enfrentado a los demás patinetes de rueda grande y batería amplia que se venden en su franja.</p>
+<h3>720 Wh: la cifra que lo separa de los urbanos comunes</h3>
+<p>Setecientos veinte vatios-hora es territorio de bicicleta eléctrica seria. Con esa reserva, los 75 kilómetros declarados se miden en el modo tranquilo con conductor de referencia; a ritmo vivo, con un adulto de 85 kilos y paradas de semáforo, la horquilla razonable se queda en 50-60 kilómetros, que continúan siendo dos o tres jornadas laborales completas para la mayoría de commuters. La contrapartida es el tiempo de enchufe: una batería así, con su cargador estándar, pide planificar las cargas como quien planifica las de un coche eléctrico en miniatura —por la noche y sin prisas—.</p>
+<h3>Doble suspensión y ruedas de 11 pulgadas: el tandem del confort</h3>
+<p>La ficha anterior de este modelo en nuestra web no mencionaba la suspensión, y es una omisión importante: el Max Pro monta amortiguación en ambos ejes. Sumada a unas ruedas neumáticas de 11 pulgadas —las más grandes que Hiboy instala en un patinete de esta serie—, el resultado es un rodar aplomado sobre asfalto roto, tapas de registro y carriles bici con raíces, impropio de vehículos que nacieron como tabla con manillar. El sillín opcional que la marca vende como accesorio convierte esa comodidad en postura de ciclomotor para los recorridos más largos.</p>
+<img src=/media/patinetes/hiboy-max-pro-2.webp alt="Suspensión delantera y rueda de 11 pulgadas del Hiboy Max Pro" loading="lazy" width="800" height="450">
+<h2>Corrección de frenos: tambor y freno electrónico, no discos</h2>
+<p>Dejamos por escrito la enmienda principal de este artículo: el Max Pro no lleva frenos de disco, como afirmaba nuestra ficha previa. Su sistema combina el freno electrónico regenerativo con un freno de tambor, la solución que Hiboy documenta en su guía oficial del modelo. El tambor, sellado frente a la suciedad, exige menos mantenimiento que un disco y ofrece una frenada correcta para las prestaciones del conjunto, aunque con menos mordiente inicial y peor refrigeración en descensos largos que una pinza hidráulica. Saber qué frenos lleva tu vehículo no es un capricho estadístico: condiciona el mantenimiento, los recambios y tu forma de frenar con lluvia.</p>
+<h2>Motor de 650 W de pico y velocidad de 35 km/h: potencia con contexto</h2>
+<p>Hiboy anuncia 650 W de pico para el Max Pro —la ficha clásica del modelo habla de 500 W nominales—, suficientes para sostener cruceros de 30-35 km/h y para afrontar pendientes urbanas con un conductor pesado sin desplomarse. La velocidad máxima de 22 mph, unos 35 km/h, rebasa el tope de 25 km/h fijado para los vehículos de movilidad personal en España, de modo que, tal como se vende en su mercado principal, no sería legal en vías públicas españolas sin limitación ni certificado. La garantía oficial es de un año, más corta que la cobertura legal de conformidad que un vendedor europeo debe ofrecer, detalle a tener en cuenta si lo importas por tu cuenta.</p>
+<p>La aplicación de la marca añade bloqueo remoto del motor, útil como capa disuasoria cuando el patinete duerme en un portal. Y sobre el peso: la marca no lo destacaba en la documentación consultada para esta revisión, mientras que las fichas de distribuidores lo sitúan en torno a 23,4 kilos. Es una cifra coherente con su batería y su tamaño; la recogemos atribuida a esas fichas y no como dato oficial cerrado.</p>
+<img src=/media/patinetes/hiboy-max-pro-3.webp alt="Hiboy Max Pro plegado en el maletero de un coche" loading="lazy" width="800" height="450">
+<h2>Multas y patinetes potentes: lo que conviene saber</h2>
+<p>Quien rueda con máquinas de este calibre fuera de su marco legal se expone a denuncias que no siempre llegan bien redactadas: modelos mal identificados, vías descritas con errores o notificaciones fuera de plazo son fallos más comunes de lo que parece. Si te cae una denuncia por rodar con tu patinete, en lugar de pagarla por inercia, revísala con el <a href=https://recurretumulta.online/#analizador>analizador de multas</a> de la casa: es gratuito y estima si el recurso puede prosperar con los datos del propio boletín.</p>
+<h2>Carga y mantenimiento de una batería de 720 Wh</h2>
+<p>Una batería de este tamaño cambia los hábitos. Hiboy no convierte la carga en un trámite de un par de horas: vaciar y rellenar 720 Wh con el cargador de serie es una operación de noche completa, y conviene tratarla como tal en lugar de dejar el patinete permanentemente enchufado. La práctica recomendable es la de cualquier litio de tracción: cargar tras cada jornada de uso intenso, evitar guardar el vehículo semanas al cien por cien o a cero, y mantenerlo en un espacio seco y templado, lejos de radiadores y de heladas de garaje comunitario.</p>
+<p>El resto del mantenimiento es agradecido. El freno de tambor, al ir sellado, apenas pide ajuste de cable cuando la maneta gana recorrido; las ruedas neumáticas reclaman la revisión de presión quincenal de rigor, porque rodar flojo con 720 Wh de batería y un conductor de 90 kilos es la receta exacta para un llantazo; y la doble suspensión solo exige vigilar holguras y mantener limpios los vástagos tras las salidas con polvo. Nada exótico, pero constante: un commuter de este tamaño se paga con kilómetros, y los kilómetros se cuidan con rutinas aburridas.</p>
+<h2>¿Para quién tiene sentido el Max Pro?</h2>
+<p>El perfil que mejor encaja es el de quien hace entre 12 y 25 kilómetros diarios por vías donde su configuración sea legal —o en entornos privados amplios— y ha sufrido ya la ansiedad de autonomía de un urbano pequeño. También el del conductor pesado que necesita los 120 kilos de carga máxima con margen, y el de quien comparte el patinete entre dos miembros de la familia con sillín opcional para los días largos. En cambio, si tu uso es tren más ochocientos metros de acera, este aparato es un trasto: su virtud empieza justo donde termina la última milla.</p>
+<h2>Precio: qué significan esos 656,99 dólares</h2>
+<p>La tienda oficial lista el Max Pro a 656,99 dólares frente a los 999,99 dólares de su PVP regular: la marca trabaja con un descuento permanente que conviene leer como su precio real de venta, no como una ganga fugaz. Trasladado a Europa por canales de importación, el desembolso final varía con transporte, aduanas y el margen del intermediario, y la posición frente a rivales cambia: en el <a href=/comparador-patinetes>comparador de patinetes</a> puedes cruzarlo con propuestas de rueda grande ya presentes en España, y en el <a href=/blog/hiboy-ve1-pro>análisis del Hiboy VE1 Pro</a> verás la otra interpretación de la casa para el ocio sobre ruedas grandes.</p>
+<h2>Pros y contras del Hiboy Max Pro</h2>
+<h3>A favor</h3>
+<ul>
+<li>Batería de 720 Wh con autonomías reales de dos o tres jornadas.</li>
+<li>Doble suspensión y neumáticos de 11 pulgadas: confort sobresaliente.</li>
+<li>Carga máxima de 120 kg, apta para conductores pesados con carga.</li>
+<li>Precio oficial contenido para sus especificaciones.</li>
+<li>Aplicación con bloqueo remoto y sillín opcional oficial.</li>
+<li>Freno de tambor sellado, de mantenimiento escaso.</li>
+</ul>
+<h3>En contra</h3>
+<ul>
+<li>35 km/h de serie: fuera del marco VMP español sin regularizar.</li>
+<li>Frenos de tambor, correctos pero superados por discos hidráulicos.</li>
+<li>Garantía de marca de solo un año en su canal oficial.</li>
+<li>Tamaño y peso —sobre 23,4 kg según distribuidores— poco amigos del transporte público.</li>
+<li>IPX4: protección básica contra salpicaduras, sin más.</li>
+</ul>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Qué frenos lleva realmente el Hiboy Max Pro?</h3>
+<p>Freno electrónico y freno de tambor, según la documentación de Hiboy. Las fichas que le atribuían discos —incluida la anterior de esta página— estaban equivocadas.</p>
+<h3>¿Cuánto cuesta en la tienda oficial?</h3>
+<p>656,99 dólares, sobre un PVP regular de 999,99 dólares que la marca mantiene como referencia tachada. Es su precio en hiboy.com en el momento de esta revisión.</p>
+<h3>¿Cuántos kilómetros reales hace con una carga?</h3>
+<p>Frente a los 75 kilómetros declarados en condiciones ideales, un conductor de 80-90 kilos en ciudad debería contar con 50-60 kilómetros mezclando modos de conducción.</p>
+<h3>¿Tiene suspensión el Max Pro?</h3>
+<p>Sí, doble: delantera y trasera. Es uno de sus rasgos diferenciales y la ficha anterior de este sitio lo omitía; queda incorporado y destacado.</p>
+<h3>¿Podría circular con él en España?</h3>
+<p>En su configuración de venta estadounidense alcanza 35 km/h, rebasa los 25 km/h que la norma marca para los VMP y carece de certificación española conocida. Sin limitación y papeles en regla, su uso debe limitarse a recintos privados.</p>
+<h2>Veredicto</h2>
+<p>El Max Pro es el patinete de Hiboy para quien ha dejado de mirar la última milla y piensa en la jornada entera: batería de bicicleta, ruedas que perdonan y suspensión en los dos ejes, a un precio oficial que sigue siendo contenido para su hoja de especificaciones. Sus peajes son el tamaño, unos frenos de tambor honestos pero modestos y una velocidad de serie incompatible con la normativa española. Si tu uso encaja en recinto privado o en mercados donde su configuración es legal, es una de las compras con más sentido de su catálogo. Y antes de cerrar la pestaña: 350 monos llevan la contraria escondidos en los rincones de esta web; los 2.000 euros del premio irán a la primera persona que complete la búsqueda entera del <a href=/juego-monos>juego de los monos</a>.</p>
+`,
   },
   {
     slug: "hiboy-titan",
@@ -3322,73 +3329,77 @@ El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 k
       "patinete ruedas macizas 8",
       "kukirin barato ciudad",
     ],
-    content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano>
-
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-s1-max/>Ver ficha técnica del KuKirin S1 Max</a>: 25 km/h, peso y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **KuKirin S1 Max** es el KuKirin urbano y legal: **25 km/h**, **350 W** (500 W de pico), **39 km declarados**, **16 kg** y **ruedas macizas de 8"**, por **~294 €**.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | ~294 € |
-| **Motor** | 350 W (500 W de pico) |
-| **Batería** | 36V 10,4Ah (374 Wh) |
-| **Autonomía declarada** | 39 km |
-| **Autonomía real estimada** | ≈26 km |
-| **Velocidad máxima** | 25 km/h |
-| **Peso / carga máx.** | 16 kg / 100 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-s1-max/>Ficha técnica completa del KuKirin S1 Max</a>.
-
-## Precio del KuKirin S1 Max en España
-
-Unos **294 €** (entre 259 y 329 € según tienda). El KuKirin más barato y ligero: imbatible para ciudad.
-
-<img src=/media/patinetes/kukirin-s1-max-2.webp alt=Detalle del KuKirin S1 Max plegado>
-
-## Autonomía real vs declarada
-
-**39 km declarados**; en ciudad, **unos 26 km reales**. Para trayectos urbanos típicos, de sobra. Carga en **7-8 horas**.
-
-## Frenos y neumáticos
-
-**Freno electrónico + freno de pie trasero**, con **ruedas macizas honeycomb de 8"**: cero pinchazos, cero mantenimiento. En firmes malos se nota su tamaño.
-
-## Certificado DGT y normativa VMP
-
-A **25 km/h** es un VMP de manual: legal en España sin limitar, **prohibido en aceras** y por vías permitidas.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 16 kg y ~294 € | Ruedas de 8": incómodo en baches |
-| 25 km/h: legal sin líos | 100 kg de carga máxima |
-| Ruedas macizas: cero pinchazos | 7-8 h de carga |
-| 39 km declarados | 350 W: cuestas justas |
-| Ideal estudiantes | Freno de pie poco progresivo |
-
-<img src=/media/patinetes/kukirin-s1-max-3.webp alt=KuKirin S1 Max en el transporte público>
-
-## Preguntas frecuentes
-
-### ¿Es legal en España?
-Sí: **25 km/h**, sin necesidad de limitar.
-
-### ¿Qué autonomía real tiene?
-Unos **26 km**.
-
-### ¿Las ruedas son macizas?
-Sí: **honeycomb de 8"**, sin pinchazos.
-
-### ¿Para quién es?
-Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+    content: `<p>El KuKirin S1 Max ofrece 39 kilómetros de autonomía declarados con su batería de 374 Wh y un motor de 350 W por unos 305 euros en su tienda oficial: la fórmula china del máximo alcance por euro.</p>
+<img src=/media/patinetes/kukirin-s1-max-1.webp alt="KuKirin S1 Max patinete eléctrico económico de gran autonomía" loading="lazy" width="800" height="450">
+<h2>KuKirin y el arte de vender autonomía barata</h2>
+<p>KuKirin, la marca internacional del fabricante Kugoo, ha ganado presencia en Europa con una estrategia transparente: baterías más grandes que la competencia a igual precio, aunque haya que recortar en refinamiento. El S1 Max es la versión crecida de su urbano básico S1: misma filosofía de chasis sencillo y ruedas macizas, pero con una batería de 10,4 Ah que duplica la del modelo de partida y que cambia por completo el tipo de uso posible. Ya no hablamos de un juguete de última milla, sino de un patinete con el que cruzar una ciudad mediana sin mirar el indicador cada dos calles.</p>
+<p>La información de este análisis procede de la <a href=https://www.kugooescooters.com target="_blank" rel="noopener">tienda oficial de KuKirin</a> y del manual del modelo, y de paso corregimos la ficha que publicábamos hasta ahora en dos puntos concretos: la carga máxima y el peso.</p>
+<h2>Ficha técnica del KuKirin S1 Max</h2>
+<table>
+<tr><th>Dato</th><th>KuKirin S1 Max</th></tr>
+<tr><td>Motor</td><td>Brushless de 350 W</td></tr>
+<tr><td>Batería</td><td>10,4 Ah a 36 V (374 Wh)</td></tr>
+<tr><td>Autonomía declarada</td><td>39 km medidos con 65 kg de carga</td></tr>
+<tr><td>Velocidad máxima</td><td>25 km/h</td></tr>
+<tr><td>Ruedas</td><td>Macizas de 8 pulgadas con estructura de panal</td></tr>
+<tr><td>Tiempo de carga</td><td>Entre 7 y 8 horas</td></tr>
+<tr><td>Frenos</td><td>Electrónico y mecánico, con freno de pie de emergencia sobre el guardabarros</td></tr>
+<tr><td>Suspensión</td><td>Amortiguación delantera y trasera según el manual</td></tr>
+<tr><td>Protección al agua</td><td>IP54</td></tr>
+<tr><td>Carga máxima</td><td>120 kg según el manual</td></tr>
+<tr><td>Precio en la tienda oficial</td><td>305 €</td></tr>
+</table>
+<p>La <a href=/patinetes/kukirin-s1-max>ficha del KuKirin S1 Max</a> en nuestro comparador sitúa estos valores frente a los urbanos económicos de Cecotec, Xiaomi y la propia gama KuKirin superior.</p>
+<h3>374 Wh a este precio: el corazón del argumento</h3>
+<p>La batería es el titular. Con 374 Wh, el S1 Max juega con cifras que en marcas europeas suelen costar cien euros más. La autonomía declarada de 39 kilómetros viene además con una honestidad poco frecuente: la marca especifica que la medición se hizo con 65 kilos de carga. Un conductor de 85 kilos con mochila y algo de viento debería esperar entre 26 y 31 kilómetros reales, que siguen siendo muchos para un patinete de 300 euros y cubren jornadas completas de recados o turnos de reparto ligero de barrio.</p>
+<h3>Ruedas macizas de 8 pulgadas: practicidad con peaje</h3>
+<p>Las cubiertas sólidas tipo panal eliminan pinchazos y revisiones de presión, y a cambio trasladan al piloto el trabajo de filtrado. La amortiguación en ambos ejes que muestra el manual compensa en parte esa rigidez, pero las ruedas de 8 pulgadas siguen siendo pequeñas: las rejillas anchas, los adoquines sueltos y los bordillos abordados de frente exigen reducir velocidad y flexionar las piernas. En asfalto urbano corriente, el conjunto se defiende sin drama.</p>
+<img src=/media/patinetes/kukirin-s1-max-2.webp alt="Detalle de la batería y el chasis del KuKirin S1 Max" loading="lazy" width="800" height="450">
+<h2>Correcciones sobre la ficha anterior del S1 Max</h2>
+<p>Hasta esta revisión publicábamos una carga máxima de 100 kilos. El manual del modelo la establece en 120 kilos, y con esa cifra se queda corregida la ficha: el S1 Max admite conductores de hasta 120 kilos, aunque quien se acerque a ese techo debe asumir una autonomía claramente por debajo de la declarada y unas frenadas más largas.</p>
+<p>El segundo apunte es de honestidad editorial: el peso. Habíamos publicado 16 kilos sin una fuente oficial que lo respalde, y la documentación pública de la marca que hemos podido consultar no lo fija de manera inequívoca —el manual del S1 pequeño marca 12,5 kilos—. Las tiendas europeas sitúan al S1 Max en torno a esos 16 kilos, una cifra verosímil dada su batería, pero la presentamos como estimación de distribuidor y no como especificación cerrada. Cuando KuKirin lo documente, actualizaremos la tabla.</p>
+<h2>Frenos y seguridad: sistema mixto de otra época</h2>
+<p>El esquema de frenada combina el freno electrónico que retiene desde el motor con un freno mecánico, y el manual contempla además pisar el guardabarros trasero como freno de emergencia. Es un planteamiento heredado de los patinetes sencillos que cumple a 25 km/h en seco, pero que pide anticipación extra en mojado, circunstancia en la que las ruedas macizas ya de por sí ofrecen menos agarre. El sellado IP54 defiende de salpicaduras y polvo; no convierte al S1 Max en un patinete para temporales.</p>
+<p>Los tres modos de velocidad del manual escalonan la entrega para aprender sin sustos, y el control de crucero se gestiona desde la aplicación asociada. El alumbrado LED delantero y la luz trasera cubren el mínimo exigible para ser visto al anochecer, aunque recomendamos añadir una luz trasera intermitente adicional si circulas en horas de poca luz.</p>
+<h2>S1 Max frente a S1 a secas: en qué se nota el apellido</h2>
+<p>El S1 original trabaja con una batería de 36 V y 6 Ah —216 Wh— y declara 12,5 kilos en su manual, con la misma carga máxima orientativa de su segmento. El salto al Max casi duplica la capacidad hasta los 374 Wh y cambia el carácter del vehículo: el S1 es un acompañante de trayectos muy cortos que se lleva en la mano sin pensarlo, mientras que el Max ya es un medio de transporte diario con el que se cruzan distritos. Ambos comparten la filosofía de ruedas macizas de 8 pulgadas y frenada mixta, así que la decisión entre ellos no va de calidad de rodadura, sino de distancia: si tus desplazamientos superan los ocho kilómetros por sentido, el Max es el que no te deja a pie a mitad de semana. Si vives a diez minutos de la estación, el pequeño cumple y pesa menos en las escaleras.</p>
+<h2>Situación legal en España</h2>
+<p>Con su velocidad máxima de 25 km/h, el S1 Max respeta el tope legal de los VMP. Lo que debe vigilar el comprador es el certificado de circulación exigible a los patinetes comercializados actualmente: la marca vende en Europa a través de su tienda oficial, pero antes de pagar conviene confirmar por escrito que la unidad destinada al mercado español incluye dicha certificación y su documentación. Sin ella, el patinete más correcto en prestaciones puede acabar inmovilizado en un control.</p>
+<p>Del conductor se espera lo de siempre: nada de aceras, casco donde la ordenanza lo exija, cero auriculares y un solo ocupante. Y si aun cumpliendo te cae una denuncia con la que no estás de acuerdo, no la dejes caducar ni la pagues a ciegas: pásala por el <a href=https://recurretumulta.online/#analizador>analizador de multas gratuito</a> para saber si el recurso tiene recorrido y qué alegaciones encajan con tu caso.</p>
+<img src=/media/patinetes/kukirin-s1-max-3.webp alt="KuKirin S1 Max circulando por un carril bici urbano" loading="lazy" width="800" height="450">
+<h2>Precio: 305 euros oficiales y el mercado gris que los rodea</h2>
+<p>La tienda oficial de la marca anuncia el S1 Max por 305 euros, con listados en dólares que en el momento de la consulta aparecían sin stock. Alrededor de ese precio pululan revendedores con márgenes variables y garantías difusas. Nuestro consejo es aburrido pero rentable: compra donde la garantía europea sea exigible y la certificación esté documentada, aunque cueste veinte euros más. En el <a href=/comparador-patinetes>comparador de patinetes</a> puedes enfrentar su oferta con la de los <a href=/blog/kukirin-m4-max>hermanos mayores de la gama KuKirin</a> si tu presupuesto admite un escalón más.</p>
+<h2>Ventajas e inconvenientes</h2>
+<h3>Lo que suma</h3>
+<ul>
+<li>374 Wh por unos 305 euros: autonomía por euro difícil de igualar.</li>
+<li>Medición de autonomía declarada con carga especificada de 65 kg.</li>
+<li>Carga máxima de 120 kg según el manual.</li>
+<li>Suspensión en los dos ejes para compensar las ruedas macizas.</li>
+<li>IP54 y tres modos de velocidad con control de crucero.</li>
+</ul>
+<h3>Lo que resta</h3>
+<ul>
+<li>Ruedas de solo 8 pulgadas: firmes malos y rejillas se sufren.</li>
+<li>Frenada mixta con recurso de pie, superada por los dobles discos actuales.</li>
+<li>Carga completa lenta: entre 7 y 8 horas enchufado.</li>
+<li>Peso oficial sin documentar claramente por la marca.</li>
+<li>Certificación para España a confirmar antes de la compra.</li>
+</ul>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuánto peso soporta el KuKirin S1 Max?</h3>
+<p>El manual fija la carga máxima en 120 kilos. Las fichas que indicaban 100 kilos —incluida la versión anterior de esta página— estaban desactualizadas.</p>
+<h3>¿Cuántos kilómetros hace con una carga?</h3>
+<p>La marca declara 39 kilómetros medidos con 65 kilos. Con conductores de 80-90 kilos, lo razonable es contar con 26-31 kilómetros según terreno y modo de conducción.</p>
+<h3>¿Cuánto pesa el S1 Max?</h3>
+<p>No hemos localizado una cifra oficial inequívoca. Las tiendas europeas lo sitúan alrededor de 16 kilos; el S1 de acceso se queda en 12,5 kilos según su propio manual.</p>
+<h3>¿Se puede usar con lluvia?</h3>
+<p>Su IP54 tolera salpicaduras y llovizna leve, pero las ruedas macizas pierden agarre en mojado y la marca desaconseja circular con mal tiempo. Mejor esperar a que escampe.</p>
+<h3>¿Por qué tarda tanto en cargar si la batería no es enorme?</h3>
+<p>El cargador suministrado es de baja potencia, una de las vías de ahorro del modelo. Entre 7 y 8 horas es el tiempo declarado; planifica las cargas por la noche.</p>
+<h2>Veredicto</h2>
+<p>El S1 Max es la compra racional de quien prioriza kilómetros por euro y acepta a cambio ruedas pequeñas y una frenada de otra generación. Su batería de 374 Wh y su precio oficial rondando los 305 euros lo mantienen vigente frente a rivales más pulidos pero más caros o con menos alcance. Verifica la certificación antes de pagar y será un trabajador urbano cumplidor durante años. Y si mientras decides te apetece un reto, date un paseo por el <a href=/juego-monos>juego de los monos</a>: los 350 monos llevan meses agazapados entre análisis como este; quien complete la colección primero se queda con los dos mil euros del premio del <a href=/juego-monos>juego de los monos</a>.</p>
+`,
   },
   {
     slug: "kukirin-g2-ultra",
