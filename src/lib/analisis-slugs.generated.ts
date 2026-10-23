@@ -2,10 +2,12 @@
 // ANALISIS_*: ficha -> post del blog cuando el slug NO coincide con el id (si coincide, se usa el id).
 // FICHA_DE_POST: post del blog -> ruta de su ficha.
 export const ANALISIS_COCHES: Record<string, string> = {
+// 20/10/2026 (fix plantilla): puente manual — el post de la Adria Matrix Supreme existe
+// con slug distinto («-precio-autocaravana») y el mapa, generado el 13/10, no lo traía:
+// sin esta entrada su ficha no mostraba el botón al análisis pese a existir el artículo.
+"adria-matrix-supreme-2026": "adria-matrix-supreme-2026-precio-autocaravana",
 "alfa-romeo-junior-ibrida-145": "alfa-romeo-junior-ibrida-145-precio-ficha-tecnica",
 "citroen-c3-2026": "citroen-c3-2024-precio-ficha-tecnica",
-"dacia-bigster-2025-precio-ficha-tecnica": "dacia-bigster-2026-tce-140-precio-ficha-tecnica",
-"dacia-spring-2024-precio-ficha-tecnica": "dacia-spring-2026-nueva-generacion-precio",
 "ford-focus-2024-precio-ficha-tecnica": "ford-focus-2025-precio-ficha-tecnica",
 "honda-e-ny1-2024-precio-ficha-tecnica": "honda-e-ny1-2025-precio-ficha-tecnica",
 "honda-hr-v-ehev": "honda-hr-v-ehev-2026-precio-ficha-tecnica",
@@ -22,14 +24,11 @@ export const ANALISIS_COCHES: Record<string, string> = {
 "mg3-hybrid-2024-precio-ficha-tecnica": "mg3-hybrid-2025-precio-ficha-tecnica",
 "opel-grandland-2024-precio-ficha-tecnica": "opel-grandland-2025-precio-ficha-tecnica",
 "opel-zafira-life-2025": "opel-zafira-life-2025-precio-ficha",
-"peugeot-2008-2024-precio-ficha-tecnica": "peugeot-2008-2025-precio-ficha-tecnica",
 "peugeot-3008-2024-precio-ficha-tecnica": "peugeot-3008-2025-precio-ficha-tecnica",
 "peugeot-308-2024-precio-ficha-tecnica": "peugeot-308-2025-precio-ficha-tecnica",
 "porsche-718-cayman-gt4-rs": "porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica",
 "renault-5-e-tech-2024-precio-ficha-tecnica": "renault-5-e-tech-2026-vs-dacia-spring-2026-cual-comprar",
-"renault-austral-2024-precio-ficha-tecnica": "renault-austral-2026-e-tech-200-precio-ficha-tecnica",
 "renault-captur-e-tech-145": "renault-captur-e-tech-145-2024-precio-ficha-tecnica",
-"renault-rafale-2024-precio-ficha-tecnica": "renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica",
 "renault-scenic-e-tech-2024-precio-ficha-tecnica": "renault-scenic-e-tech-2025-precio-ficha-tecnica",
 "renault-trafic-spaceclass-2025": "renault-trafic-spaceclass-2025-precio-ficha",
 "seat-ibiza-2026": "seat-ibiza-2025-precio-ficha-tecnica",
@@ -55,7 +54,6 @@ export const ANALISIS_MOTOS: Record<string, string> = {
 "bsa-bantam-350-2026-ficha-tecnica-precio": "bsa-bantam-350-2026-precio-ficha-tecnica",
 "bullit-hero-125-2026-ficha-tecnica-precio": "bullit-hero-125-2026-precio-ficha-tecnica",
 "bultaco-brinco-2026-ficha-tecnica-precio": "bultaco-brinco-2026-precio-ficha-tecnica",
-"can-am-pulse-ficha-tecnica-precio": "zero-s-vs-can-am-pulse-cual-comprar",
 "cfmoto-450mt-2026-ficha-tecnica-precio": "cfmoto-450mt-2026-precio",
 "ducati-monster-2026-ficha-tecnica-precio": "ducati-monster-2026-quinta-generacion-precio-espana",
 "ducati-scrambler-800-nightshift-2025-ficha-tecnica-precio": "ducati-scrambler-800-nightshift-2025-precio",
@@ -99,7 +97,6 @@ export const ANALISIS_MOTOS: Record<string, string> = {
 "rieju-aventura-500-legend-2026-ficha-tecnica-precio": "rieju-aventura-500-legend-2026-precio-ficha-tecnica",
 "royal-enfield-classic-350-2026-ficha-tecnica-precio": "royal-enfield-classic-350-2026-precio",
 "royal-enfield-meteor-350-2026-ficha-tecnica-precio": "royal-enfield-meteor-350-2026-precio",
-"silence-s01-ficha-tecnica-precio": "silence-s01-vs-niu-mqi-gt-evo-cual-comprar",
 "super-soco-cpx-ficha-tecnica-precio": "bmw-ce-02-vs-super-soco-cpx-cual-comprar",
 "suzuki-gsx-r125-2026-ficha-tecnica-precio": "suzuki-gsx-r125-2026-precio",
 "suzuki-v-strom-250sx-2025-ficha-tecnica-precio": "suzuki-v-strom-250sx-2025-precio",
