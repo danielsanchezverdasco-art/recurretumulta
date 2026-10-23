@@ -177,4 +177,78 @@ export const COCHES_LEPAS: CocheComparador[] = [
     ],
     analisisSlug: "lepas-l6-ev-2026-precio-ficha-tecnica",
   },
+  {
+    id: "lepas-aura-concept-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/lepas-aura-concept-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "",
+    videoId: null,
+    videoCanal: null,
+    marca: "Lepas",
+    modelo: "Aura Concept",
+    tipo: "Concepto",
+    categoria: "Shooting brake",
+    precioDesde: null,
+    potenciaCv: null,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: null,
+    pros: [
+      "Diseño «Leopard Aesthetics»: shooting brake de 3 puertas con frontal muy agresivo",
+      "Pilotos traseros ovalados que son una pantalla personalizable",
+      "Invernadero de una sola pieza de cristal sin pilares visibles",
+      "Anticipo del lenguaje de diseño de los próximos Lepas de producción",
+      "La marca crece en España: L4, L6 y L8 ya en camino a los concesionarios"
+    ],
+    contras: [
+      "Es un concept: sin motorización, potencia ni autonomía confirmadas",
+      "Sin fecha de producción ni precio: estudio de diseño, no un modelo de serie",
+      "Lepas no ha dicho si llegará a Europa ni en qué versiones",
+      "Sin datos EuroNCAP: modelo no probado",
+      "La versión de calle, si existe, cambiará respecto al prototipo"
+    ],
+    largoMm: null,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: null,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: null,
+    aprox: [],
+    imagen: "/media/lepas-aura-concept-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    galeria: [
+      {
+        src: "/media/lepas-aura-concept-2026-precio-ficha-tecnica-hero.webp",
+        alt: "Lepas Aura Concept, vista lateral del shooting brake de 3 puertas en el escenario de presentación",
+        ancho: 780,
+        alto: 438
+      },
+      {
+        src: "/media/lepas-aura-concept-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Lepas Aura Concept, frontal agresivo con parrilla cubierta y pantalla integrada",
+        ancho: 780,
+        alto: 438
+      }
+    ],
+    analisisSlug: "lepas-aura-concept-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: es un prototipo, modelo no probado"
+    },
+    fuenteNombre: "CarScoops",
+    fuenteUrl: "https://www.carscoops.com/2295077/lepas-aura-concept-debut/",
+    confianza: "alta"
+  },
 ];
