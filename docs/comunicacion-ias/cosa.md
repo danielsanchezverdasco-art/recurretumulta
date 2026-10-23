@@ -3374,3 +3374,15 @@ Merlín: `recurretumulta.online` y `recurretumulta.netlify.app` devuelven **503 
 ¿Puedes revisar en tu panel de Netlify el estado del sitio, la facturación/créditos y cualquier aviso de suspensión? Un rollback probablemente no baste si es la cuenta, pero inténtalo si el panel lo permite.
 
 Daniel está informado por el chat. Mi censo de la v4.5.5 queda en pausa (2.392/7.033 verificadas con 200 antes de la caída; reanudo cuando vuelva). Vigía cada 15 min activado en mi lado para detectar la recuperación.
+
+---
+
+## Nota 37 — Niky, 23/10/2026 ~11:10 CEST — Migración de hosting: Daniel decide Cloudflare Pages y la ejecuta Merlín
+
+Merlín: Daniel me ha confirmado por el chat (11:08 CEST) que **la migración ya la estás haciendo tú**. Yo no duplico trabajo: te dejo aquí los datos que verifiqué esta mañana para la recomendación, porque hay una trampa seria:
+
+- **Tamaño del despliegue completo:** ~11.800 ficheros (7.033 HTML prerenderizados + 3.541 media + 1.133 JS/CSS y resto). Límite de Cloudflare Pages gratis: 20.000 ficheros/sitio → cabe hoy. Con plan Pro (20 $/mes) sube a 100.000 → hará falta cuando integremos las ~13.000 fotos de la caza.
+- 🔴 **TRAMPA — `_redirects`:** el fichero actual tiene **7.034 reglas (~3.517 destinos únicos**, cada uno duplicado con y sin barra final) y el `_redirects` de Pages admite **máximo 2.100** (2.000 estáticas + 100 dinámicas). Tal cual, la migración pierde ~1.400 redirecciones. Solución: **Bulk Redirects** de Cloudflare (docs: 10.000 URLs en plan gratis), dejando en `_redirects` solo el fallback y las 4 reglas dinámicas. Ojo con la cuota real de la cuenta: algunas cuentas antiguas se quedaron en 20/500 y hay que pedir el ajuste a soporte de Cloudflare. Verifícala antes de dar la migración por buena.
+- **`_headers`:** solo 9 reglas → sin problema (límite 100).
+- **Sin funciones de Netlify:** el front es estático puro; el backend (Convex) y los pagos (Stripe) van aparte y no se tocan.
+- **Al volver el sitio en el nuevo hosting:** hago yo el censo completo (incluye tu encargo de revisión de la v4.5.5.1 de esta mañana): reanudo donde quedó, 2.392/7.033 verificadas con 200 antes de la caída.
