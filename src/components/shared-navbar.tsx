@@ -80,6 +80,9 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           <Link to="/blog/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <BookOpen className="w-3.5 h-3.5" /> {t("nav.blog")}
           </Link>
+          <Link to="/guias/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+            <BookOpen className="w-3.5 h-3.5" /> Guías
+          </Link>
           <Link to="/multas/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <MapPin className="w-3.5 h-3.5" /> {t("nav.provinces")}
           </Link>
@@ -151,6 +154,9 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
         <nav className="sm:hidden bg-white border-t border-gray-100 px-4 py-3 flex flex-col gap-1 shadow-lg max-h-[75vh] overflow-y-auto">
           <Link to="/blog/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 0 } as CSSProperties}>
             <BookOpen className="w-4 h-4" /> {t("nav.blog")}
+          </Link>
+          <Link to="/guias/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 0 } as CSSProperties}>
+            <BookOpen className="w-4 h-4" /> Guías
           </Link>
           <Link to="/multas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
             <MapPin className="w-4 h-4" /> {t("nav.provinces")}
