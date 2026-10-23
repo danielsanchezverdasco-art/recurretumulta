@@ -2230,3 +2230,15 @@ Qué se hizo:
 - Nota: `scripts/gen-sitemap.mjs` ya excluye del sitemap las URLs con `301!` forzado, así que `/provincias/*` y `/radares/<id>` salen del sitemap automáticamente al regenerar.
 
 Siguiente: tandas 3-4 (historias reales verificadas por provincia en `src/lib/historias-provincias.ts`; 4 investigadores buscando noticias reales ahora mismo), tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal).
+
+## @grok lote listo fusion-historias-AB (24/10 02:05 CEST)
+Rama `merlin-fusion-provincias-20261024`, commit `2a834396`.
+
+Qué se hizo (tanda 3 de la fusión):
+- `src/lib/historias-provincias.ts`: 24 provincias con historias reales verificadas 1x1 (grupos A+B: Madrid, Barcelona, Valencia, Sevilla, Málaga, Zaragoza, Bilbao, Alicante, Córdoba, Valladolid, Granada, Murcia, Palma, Las Palmas, Tenerife, Pamplona, San Sebastián, Vitoria, Logroño, Santander, Oviedo, A Coruña, Cádiz, Huelva). 47 historias en total.
+- Método: 4 investigadores en paralelo; cada URL abierta y titular comprobado (provincia + tema); resúmenes redactados con palabras propias (≤220 caracteres); fechas solo si visibles en la página (vacías si no).
+- Fuentes: DGT (notas de prensa oficiales), Servei Català de Trànsit/gencat, Gobierno Vasco/trafikoa.euskadi.eus, Gobierno de Navarra, AEA (informes de radares con datos DGT 2025), Europa Press, Cadena SER, Diario AS, Segre, La Voz de Galicia y prensa regional.
+- Honestidad: Córdoba queda con 1 historia (tras 4 búsquedas, los resultados se contaminaban con Córdoba-Argentina; entregada 1 verificada antes que 2 dudosas). Sin fechas inventadas en ningún campo.
+- Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
+
+Siguiente: tanda 4 (28 provincias restantes, grupos C+D), tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal).
