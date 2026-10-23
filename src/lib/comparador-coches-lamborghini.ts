@@ -19,7 +19,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "02D-T4W-4eU",
     videoCanal: "carwow América Latina",
     marca: "Lamborghini",
@@ -94,7 +94,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Revuelto",
         "ancho": 1920,
         "alto": 1280
@@ -107,7 +107,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "LKWQ5fDj8JE",
     videoCanal: "Lamborghini",
     marca: "Lamborghini",
@@ -182,7 +182,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-temerario-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Temerario",
         "ancho": 1920,
         "alto": 1280
@@ -195,7 +195,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "e0xZOCQrXVs",
     videoCanal: "Eddy Warman",
     marca: "Lamborghini",
@@ -270,7 +270,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus SE",
         "ancho": 1920,
         "alto": 1280
@@ -283,7 +283,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "4mCoc38jito",
     videoCanal: "autonocion.com",
     marca: "Lamborghini",
@@ -358,7 +358,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus Performante",
         "ancho": 1920,
         "alto": 1280
@@ -371,7 +371,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -439,7 +439,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus S",
         "ancho": 1920,
         "alto": 1280
@@ -452,7 +452,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "3IQVI0qRzbA",
     videoCanal: "Robb Report en Español",
     marca: "Lamborghini",
@@ -527,7 +527,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán Tecnica",
         "ancho": 1920,
         "alto": 1280
@@ -540,7 +540,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Q9T5Y6uHRh4",
     videoCanal: "coches.net",
     marca: "Lamborghini",
@@ -615,7 +615,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de competición del Lamborghini Huracán STO",
         "ancho": 1920,
         "alto": 1280
@@ -628,7 +628,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "n-ZqCRA7Gz0",
     videoCanal: "revistacar.es",
     marca: "Lamborghini",
@@ -644,20 +644,8 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "640 CV a cielo abierto: el V10 atmosférico se escucha mejor sin techo",
-      "Capota de lona que se pliega en 17 segundos hasta a 50 km/h",
-      "Tracción total con eje trasero direccional: tan rápido como el coupé (3,1 s)",
-      "274.805 €: el descapotable V10 más barato de la gama final del Huracán",
-      "LDVI y modos Strada/Sport/Corsa: un coche para cada momento",
-    ],
-    contras: [
-      "Producción finalizada en agosto de 2024: solo quedan stock y ocasión",
-      "1.542 kg: 120 kg más que el coupé por el mecanismo de la capota",
-      "Etiqueta C: el descapotable también sufrirá las restricciones futuras",
-      "Con la capota puesta, la visibilidad y el ruido aerodinámico empeoran",
-      "El Temerario Spyder llegará para relevarlo: la reventa puede resentirse",
-    ],
+    pros: ["Debutó en el Salón de Ginebra de 2019 pintado en Verde Selvans de cuatro capas, color estrenado por la familia EVO", "Su V10 atmosférico de 5,2 litros entrega 640 CV y 600 Nm justo detrás de los asientos, sin techo que amortigüe su sonido", "Acelera hasta 200 km/h en 9,3 segundos y se detiene desde 100 en 32,2 metros, casi como el coupé cerrado", "Al plegarse la lona en 17 segundos emergen dos aletas del color de la carrocería que prolongan la silueta hacia los respaldos", "La luneta trasera baja con un mando eléctrico aunque la capota siga puesta, para oír el motor sin llegar a descapotar"],
+    contras: ["Sant'Agata cerró la saga Huracán en 2024 y su sitio lo ocupa el Temerario de V8 híbrido: este EVO Spyder ya se busca entre coleccionistas y ocasión", "Sus 1.542 kg suponen 120 kg extra frente al EVO coupé y se pagan con dos décimas más hasta los 100: 3,1 frente a 2,9 segundos", "Maletero delantero de apenas 100 litros: dos bolsas blandas y poco más para escaparse un fin de semana en pareja", "Homologa 14,2 litros a los cien con etiqueta C, así que las zonas de bajas emisiones acabarán tratándolo como a cualquier gasolina veterano", "Lamborghini no le instala frenada automática de emergencia ni crucero adaptativo: aquí la electrónica se centra en correr, no en asistir en atascos"],
     largoMm: 4520,
     anchoMm: 1933,
     altoMm: null,
@@ -678,17 +666,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "url": "https://revistacar.es/prueba-lamborghini-huracan-evo-spyder/"
       }
     ],
-    costeMensual: {
-      "costeEnergia100km": 26.27,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3800,
-      "mantenimientoAnual": 1500,
-      "costeMensualTotal": 770,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 14,2 l/100 km (km77); solo mercado de ocasión/stock",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 26.27, "costeMensualTotal": 770, "estimado": true, "mantenimientoAnual": 1500, "notas": "Cuenta particular para este descapotable de 640 CV: recorrer 15.000 km en un año quemando 14,2 litros por cada cien deja 26,27 euros de gasolina a 1,85 euros el litro, y al sumar 3.800 euros de seguro ampliado y 1.500 de revisión anual estimada resultan unos 770 euros al mes", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 3800, "seguroTercerosAnual": 1500},
     galeria: [
       {
         "src": "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-oficial.webp",
@@ -703,12 +681,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán EVO Spyder",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado; el organismo europeo jamás ha sometido a choque a un Huracán, tampoco a esta variante descapotable de tracción total", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Pauta de servicios del Huracán publicada por Scuderia Car Parts, con el intervalo confirmado por el concesionario oficial H.R. Owen Lamborghini (9.000 millas o 12 meses); sin precios cerrados localizados para España, por eso los costes quedan a null", "intervalo": "Una revisión cada 12 meses o cada 9.000 millas (unos 15.000 km), lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión, al año o a las 9.000 millas", "queSeCambia": "Sustitución del aceite del V10 y de su filtro, diagnóstico electrónico completo de fábrica e inspección general del coche conforme a la pauta de Sant'Agata"}, {"costeAproxEur": null, "nombre": "Segunda revisión, a los 2 años o 18.000 millas", "queSeCambia": "Aceite y filtro renovados otra vez, más bujías, refrigerante del motor, filtro de polen y líquido de frenos, elementos que se cambian por calendario aunque el Spyder apenas ruede"}]},
   },
   {
     id: "lamborghini-huracan-evo-2024-precio-ficha-tecnica",
@@ -716,7 +696,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -784,7 +764,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán EVO",
         "ancho": 1200,
         "alto": 800
@@ -894,20 +874,8 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "610 CV descapotables por 238.700 €",
-      "Capota de lona en 17 s hasta a 50 km/h",
-      "El V10 atmosférico se disfruta más sin techo",
-      "Tracción trasera: el Spyder más divertido de conducir",
-      "Luneta trasera practicable con la capota puesta",
-    ],
-    contras: [
-      "Producción finalizada en 2024: solo ocasión y stock",
-      "3,5 s: el Huracán más lento de la gama",
-      "Etiqueta C: vetado de futuras ZBE",
-      "Consumo WLTP de 13,9 l/100 km",
-      "Con capota, más ruido aerodinámico",
-    ],
+    pros: ["Presentado en mayo de 2020 con realidad aumentada: fue el primer Lamborghini desvelado mediante AR Quick Look de Apple", "V10 atmosférico de 5,2 litros con 610 CV a 8.000 rpm y 560 Nm a 6.500 rpm, escuchado sin techo de por medio", "Control de tracción P-TCS calibrado para este Spyder: sigue entregando par mientras el coche recupera la trayectoria tras un derrape", "Capota de lona electrohidráulica: se pliega en 17 segundos rodando hasta 50 km/h y queda guardada bajo la cubierta trasera", "La luneta trasera baja con un botón y deja entrar el sonido del V10 incluso llevando la capota cerrada"],
+    contras: ["La familia Huracán cerró su ciclo en Sant'Agata en 2024, relevada por el Temerario híbrido: este Spyder ya solo aparece en el mercado de ocasión", "Dos décimas más lento que su hermano coupé hasta los 100, peaje de los 120 kg extra de la variante abierta: 1.509 kg en seco frente a los 1.389 kg del coupé", "Homologa 335 g/km de CO₂ y 13,9 litros a los cien: con etiqueta C, las zonas de bajas emisiones más estrictas le quedan vedadas", "Sin frenada automática de emergencia ni crucero adaptativo: Lamborghini no monta ayudas avanzadas a la conducción en el Huracán", "Frenos de acero de serie: los carbocerámicos figuran en la lista de opciones pese a los 238.700 € que costaba en España"],
     largoMm: 4520,
     anchoMm: 1933,
     altoMm: 1180,
@@ -921,17 +889,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 25.72,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3800,
-      "mantenimientoAnual": 1800,
-      "costeMensualTotal": 788,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 13,9 l/100 km (km77); solo mercado de ocasión/stock",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 25.72, "seguroTercerosAnual": 1500, "seguroAmpliadoAnual": 3800, "mantenimientoAnual": 1800, "costeMensualTotal": 788, "precioKwh": 0.18, "precioGasolinaL": 1.85, "notas": "Spyder de gasolina ya fuera de catálogo: con 15.000 km al año, sus 13,9 litros WLTP a 1,85 euros el litro dejan 25,72 euros de combustible cada cien kilómetros; el total suma el seguro ampliado y la revisión anual estimada", "estimado": true},
     galeria: [
       {
         "src": "/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-oficial.webp",
@@ -952,6 +910,8 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: ningún Huracán, incluido este Spyder de tracción trasera, ha pasado por el programa europeo de choques"},
+    planMantenimiento: {"intervalo": "Cada 12 meses o 9.000 millas (unos 15.000 km), lo que llegue antes", "revisiones": [{"nombre": "Revisión del primer año / 15.000 km", "queSeCambia": "Cambio del aceite del V10 y de su filtro, con diagnosis completa de fábrica e inspección general del Spyder según la pauta de la marca", "costeAproxEur": null}, {"nombre": "Revisión del segundo año / 30.000 km", "queSeCambia": "Aceite y filtro nuevos otra vez, más bujías, filtro de polen, refrigerante del motor y líquido de frenos, que la marca renueva por tiempo aunque el coche apenas ruede", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Concesionario oficial H.R. Owen Lamborghini (intervalo del Huracán: 9.000 millas o 12 meses; el líquido de frenos se degrada con el tiempo) y pauta de servicios del Huracán de Scuderia Car Parts (primer año, aceite; segundo año, bujías, refrigerante, filtro de polen y líquido de frenos)"},
   },
   {
     id: "lamborghini-urus-se-performante-2026-precio-ficha-tecnica",
@@ -959,14 +919,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Urus SE Performante",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la página oficial de Lamborghini del Urus SE Performante no publica precio (marca bajo pedido/configuración); los precios de preowned.la.
     potenciaCv: 812,
     autonomiaKm: 60,
     maleteroL: null,
@@ -1027,7 +987,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Urus SE Performante",
         "ancho": 1200,
         "alto": 800
@@ -1040,14 +1000,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Huracán STJ",
     tipo: "Gasolina",
     categoria: "Superdeportivo",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Precio NO publicado oficialmente: serie limitada de 10 unidades; la nota oficial de Lamborghini (abril 2024) no reveló el precio y la marca lo confirm.
     potenciaCv: 640,
     autonomiaKm: null,
     maleteroL: null,
@@ -1108,7 +1068,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Huracán STJ",
         "ancho": 1200,
         "alto": 800
@@ -1202,7 +1162,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
@@ -1270,7 +1230,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Countach LPI 800-4",
         "ancho": 1200,
         "alto": 800
@@ -1364,14 +1324,14 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Lamborghini",
     modelo: "Fenomeno Roadster",
     tipo: "Híbrido enchufable",
     categoria: "Descapotable",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: serie limitada 'few-off' de 15 unidades, agotada.
     potenciaCv: 1080,
     autonomiaKm: null,
     maleteroL: null,
@@ -1432,7 +1392,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lamborghini Fenomeno Roadster",
         "ancho": 1200,
         "alto": 800

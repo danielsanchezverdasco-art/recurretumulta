@@ -18,7 +18,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "4sbQLurHBxk",
     videoCanal: "SoyMotor",
     marca: "Lynk & Co",
@@ -34,20 +34,8 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     bateriaKwh: 17.7,
     cargaRapidaKw: null, // sin carga en continua: solo 7 kW en alterna
     etiquetaDgt: "Cero",
-    pros: [
-      "276 CV y 535 Nm: el PHEV compacto más potente de su rango de precio",
-      "75 km eléctricos WLTP con etiqueta Cero de la DGT",
-      "Desde 40.995 €: muy competitivo frente al RAV4 PHEV o el Tiguan eHybrid",
-      "5 estrellas Euro NCAP y pantalla de 15,4 pulgadas con Snapdragon 8155",
-      "Consumo homologado de 0,9 l/100 km si lo cargas a diario",
-    ],
-    contras: [
-      "Sin carga rápida en continua: solo 7 kW en alterna (30-80 % en 2,8 h)",
-      "Maletero de 349 l, justo para un SUV de 4,54 m",
-      "Pantalla táctil sin botones físicos: ergonomía mejorable",
-      "Asistencias a la conducción algo intrusivas",
-      "Red comercial pequeña en España (Volvo la asumirá en 2027)",
-    ],
+    pros: ["El salto de esta versión está en el empuje: 535 Nm, 110 Nm más que el 01 original, con 276 CV según la ficha y el 0 a 100 km/h en 7,7 segundos, sin perder los 75 km eléctricos ni la etiqueta Cero", "La pantalla crece de 12,7 a 15,4 pulgadas y estrena procesador Qualcomm Snapdragon 8155: era el punto flojo del primer 01 y en esta renovación el sistema multimedia por fin responde sin esperas", "Gasta menos ofreciendo más: homologa 0,9 l/100 km y 20 g/km de CO₂ frente al litro y los 24 g/km del modelo anterior, siempre que se enchufe a diario para exprimir la batería de 17,7 kWh", "Gama de solo dos acabados y sin lista de opciones laberíntica: el Core ya trae llantas de 19 pulgadas y tapicería ECONYL, y el More suma llantas de 20, equipo Infinity de 10 altavoces y techo panorámico", "El propietario puede dar de alta su propio 01 en la plataforma de coche compartido de la marca y alquilarlo desde la app, con apertura y arranque desde el móvil, para rebajar el coste de tenerlo parado"],
+    contras: ["Nada de carga rápida en continua: el cargador de a bordo admite 6,6 kW en alterna, así que una carga completa roza las tres horas y en viajes largos el peso lo lleva el motor de gasolina", "El maletero que declara esta ficha, 349 litros, se queda corto para un SUV de 4,54 metros que pretende ser el único coche familiar de la casa", "Las ayudas a la conducción pitan y corrigen más de la cuenta, y desconectarlas obliga a bucear por los menús de la pantalla en cada arranque, porque casi no quedan botones físicos para lo habitual", "La suscripción sin permanencia que lo hizo famoso ya no se ofrece con el 01 renovado, solo con el modelo anterior: quien lo estrena en 2025 pasa por la compra convencional de toda la vida"],
     largoMm: 4541,
     anchoMm: 1857,
     altoMm: 1686,
@@ -93,7 +81,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 01, salpicadero con pantalla de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -105,6 +93,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Las condiciones oficiales de Lynk & Co en España fijan el mantenimiento programado cada 24 meses o 30.000 km, lo que ocurra antes, en un taller contratado por la marca. La revisión incluye comprobaciones de funcionamiento, seguridad y desgaste, revisión de niveles de líquidos, actualización del software y sustitución de filtros de motor y de habitáculo, bujías y correas según el intervalo que toque. La marca no publica una tarifa cerrada para el comprador particular, así que no se da ningún coste de revisión.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.lynkco.com/es-es/terms-and-policies/business-month-to-month-20230723"},
   },
   {
     id: "lynk-co-08-phev-2025-precio-ficha-tecnica",
@@ -112,7 +101,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "B1Y_US1HA-s",
     videoCanal: "Motor1 España",
     marca: "Lynk & Co",
@@ -135,13 +124,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "Maletero de 545 l y 4,82 m: auténtico SUV familiar",
       "Desde 52.995 €: muy por debajo de un X3 o GLC PHEV equivalentes",
     ],
-    contras: [
-      "2.112 kg de peso: se notan en consumo y agilidad",
-      "La autonomía eléctrica real ronda los 160 km, no los 200 WLTP",
-      "Marca aún poco conocida en España; red de servicio en construcción",
-      "Velocidad máxima limitada a 185 km/h",
-      "Solo tracción delantera y dos acabados cerrados (Core/More)",
-    ],
+    contras: ["2.112 kg de peso: se notan en consumo y agilidad", "La autonomía eléctrica real ronda los 160 km, no los 200 WLTP", "Red española todavía corta frente a BMW o Mercedes: Lynk & Co está sumando concesionarios para el 08 y gran parte de la compra y la gestión pasa por su web y sus Clubs", "Velocidad máxima limitada a 185 km/h", "Solo tracción delantera y dos acabados cerrados (Core/More)"],
     largoMm: 4820,
     anchoMm: 1915,
     altoMm: 1685,
@@ -155,26 +138,16 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     aprox: [],
     imagen: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 5.0,
-      "seguroTercerosAnual": 500,
-      "seguroAmpliadoAnual": 950,
-      "mantenimientoAnual": 450,
-      "costeMensualTotal": 179,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento D-SUV; sin contar ayudas",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 5, "costeMensualTotal": 179, "estimado": true, "mantenimientoAnual": 450, "notas": "Cálculo pensado para este 08 concreto: recorrer 15.000 km al año apoyándose en su batería de 39,6 kWh y en sus 200 km eléctricos WLTP, de forma que seis de cada diez kilómetros salgan del enchufe y no del depósito. Los importes de póliza y de taller son referencias orientativas para un SUV D enchufable de 345 CV y 2.112 kg, sin ayudas descontadas", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 500},
     galeria: [
       {
-        "src": "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Lynk & Co 08 PHEV, vista trasera tres cuartos",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 08, salpicadero con pantalla flotante de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -186,6 +159,8 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Calificación publicada el 08/09/2025, aplicable a los PHEV Core y More 4x2 de esta ficha: 90 % en ocupante adulto, 87 % en ocupante infantil, 78 % en usuarios vulnerables y 81 % en ayudas a la conducción", "url": "https://www.euroncap.com/en/results/lynk+%26+co/08/56198"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Lynk & Co, dossier de prensa oficial del 08 (Press Kit 08): visitas programadas bienales o a los 30.000 km, adelantadas a los 20.000 km cuando predomina el motor térmico; sin coste publicado para España", "intervalo": "Al cumplirse dos años o al llegar a los 30.000 km, lo primero que se alcance; si el uso principal es con el motor de combustión, la visita se adelanta a los 20.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada del 08 / 24 meses o 30.000 km", "queSeCambia": "Visita de mantenimiento programado prevista en el dossier oficial del modelo para su gasolina 1.5 y su sistema EM-P de 39,6 kWh; Lynk & Co no publica en abierto el desglose de operaciones de esa visita ni un precio cerrado para España, así que no se le asigna coste"}]},
   },
   {
     id: "lynk-co-03-2025-precio-ficha-tecnica",
@@ -193,7 +168,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-03-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-03-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin videoprueba verificada en español a 05/10/2026
     videoCanal: null,
     marca: "Lynk & Co",
@@ -257,7 +232,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-03-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 03, salpicadero con pantalla central",
         "ancho": 1200,
         "alto": 800
@@ -442,7 +417,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null, // sin videoprueba verificada del EM-P en español a 05/10/2026
     videoCanal: null,
     marca: "Lynk & Co",
@@ -506,7 +481,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-06-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 06 EM-P con pantalla de 14,6 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -525,7 +500,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "mWAOhSm6lY0",
     videoCanal: "Borderless Car",
     marca: "Lynk & Co",
@@ -589,7 +564,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-07-emp-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 07 EM-P con pantalla de 15,4 pulgadas",
         "ancho": 1200,
         "alto": 800
@@ -608,7 +583,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "SQ-sVUOyG9Y",
     videoCanal: "Autos Full",
     marca: "Lynk & Co",
@@ -672,7 +647,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/lynk-co-09-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Lynk & Co 09 con 7 plazas",
         "ancho": 1200,
         "alto": 800

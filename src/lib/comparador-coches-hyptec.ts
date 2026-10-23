@@ -51,9 +51,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Red de servicio inexistente fuera de China",
       "La versión de acceso (241 CV, 70 kWh) baja a 600 km de autonomía",
     ],
-    imagen: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     analisisSlug: "hyptec-gt-2024-precio-ficha-tecnica",
@@ -71,24 +71,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec GT, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec GT, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-gt-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec GT, salpicadero con pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -134,9 +119,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Diseño que recuerda demasiado a un famoso SUV estadounidense",
       "Sin red de servicio en España",
     ],
-    imagen: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "TyrY3p4PB9c",
     videoCanal: null,
     analisisSlug: "hyptec-ht-2025-precio-ficha-tecnica",
@@ -154,24 +139,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec HT, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec HT, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ht-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec HT, salpicadero minimalista con pantallas duales",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -219,7 +189,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     ],
     imagen: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "s_6KWZ0nc6M",
     videoCanal: null,
     analisisSlug: "hyptec-hl-erev-2025-precio-ficha-tecnica",
@@ -249,12 +219,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/hyptec-hl-erev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec HL, asientos traseros de gravedad cero",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -300,9 +265,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Sin red de servicio ni venta oficial en Europa",
       "El maletero es inexistente: puro capricho",
     ],
-    imagen: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-interior.webp",
+    imagen: "",
+    imagenOficial: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "ohWiNCkCaFM",
     videoCanal: "Drive Me Crazy",
     analisisSlug: "hyptec-ssr-2024-precio-ficha-tecnica",
@@ -320,24 +285,9 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec SSR, tres cuartos delantero en circuito al atardecer",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec SSR, vista lateral con puertas de mariposa abiertas",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-ssr-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec SSR, cockpit biplaza con pantalla de 14,6 pulgadas",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
   },
   {
@@ -369,59 +319,22 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precio", "autonomia"],
-    pros: [
-      "660 km de autonomía CLTC con batería LFP de 83,3 kWh",
-      "Plataforma de 800 V: del 30 al 80 % en 15 minutos",
-      "Cockpit ADiGO 6.0 con Snapdragon 8295P y pantalla de 17,3 pulgadas",
-      "Versión EREV con 1.260 km de autonomía total",
-      "Precio de lanzamiento de 188.900 yuanes, muy agresivo",
-    ],
-    contras: [
-      "Lanzado en junio de 2026: sin datos de 0-100 ni velocidad máxima publicados",
-      "No se vende oficialmente en Europa ni en España",
-      "Maletero de 500 litros, justo para un SUV de 5,01 metros",
-      "La autonomía WLTP europea no está publicada",
-      "Marca casi desconocida fuera de China",
-    ],
-    imagen: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-interior.webp",
+    pros: ["Presentado en el Salón de Pekín de abril de 2026, el eléctrico trasero de 340 CV homologa 660 km en ciclo CLTC con su batería LFP de 83,3 kWh", "LiDAR de serie en las cuatro versiones, con ADiGO GSD 3.0 apoyado en el modelo R6 de Momenta y 27 unidades de percepción", "Sobre su plataforma de 800 V pasa del 30 al 80 % de carga en un cuarto de hora", "Neumática de doble cámara y amortiguación SDC de serie, con doble horquilla delante y eje trasero de cinco brazos", "El EREV combina un 1.5 turbo de 118 kW con una LFP de 36 kWh y anuncia 1.260 km combinados en CLTC"],
+    contras: ["Hyptec no tiene importador ni talleres propios en España: hacerse con uno pasaría por una importación paralela sin soporte de marca", "Del eléctrico puro solo consta la medición CLTC; la cifra WLTP que se conoce es la del EREV, con 170-180 km en modo eléctrico", "Con las cinco plazas en uso carga 500 litros, poco para 5,02 m de coche; los 1.292 litros exigen abatir la segunda fila", "Su precio chino se mueve entre la guía de 199.900-219.900 yuanes y los 179.900-199.900 con privilegios de lanzamiento: el importe en euros de esta ficha es solo una conversión", "El 0-100 de 4,3 s que difunde GAC pertenece al AWD de 370 kW; para este trasero de 340 CV la nota de lanzamiento no desglosa aceleración"],
+    imagen: "",
+    imagenOficial: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "ILSXty8ZVVo",
     videoCanal: "China Auto Show",
     analisisSlug: "hyptec-s600-2026-precio-ficha-tecnica",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 3.3,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 540,
-      seguroAmpliadoAnual: 1000,
-      mantenimientoAnual: 320,
-      costeMensualTotal: 145,
-      notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 3.3, "costeMensualTotal": 145, "estimado": true, "mantenimientoAnual": 320, "notas": "Estimación orientativa para la versión eléctrica de 660 km: quince mil kilómetros al año cargando en el domicilio a 0,18 euros por kWh y sumando el seguro amplio; el precio en euros sale de convertir los 188.900 yuanes de la preventa china al cambio aproximado recogido en la ficha.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 1000, "seguroTercerosAnual": 540},
     galeria: [
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec S600, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec S600, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-s600-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec S600, pantalla de 17,3 pulgadas y consola flotante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
   {
     id: "hyptec-a800-2026-precio-ficha-tecnica",
@@ -459,51 +372,20 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       "Tira de luz delantera de 6 metros, la más larga del mundo",
       "Asientos traseros transformables: de berlina ejecutiva de 4 a 5 plazas",
     ],
-    contras: [
-      "A la venta desde marzo de 2026: precio oficial aún no publicado",
-      "No se vende oficialmente en Europa ni en España",
-      "Solo EREV: no hay versión 100 % eléctrica",
-      "La autonomía WLTP europea no está publicada",
-      "Marca casi desconocida fuera de China",
-    ],
-    imagen: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-interior.webp",
+    contras: ["Lanzado en China el 4 de marzo de 2026 por 189.800-299.800 yuanes, sin precio en euros ni importador anunciado para nuestro mercado", "Hyptec solo lo vende en su mercado doméstico: traerlo a España sería una importación individual, sin concesionarios ni recambios de la marca aquí", "No existe variante eléctrica pura: todas las versiones arrastran el extensor 1.5T de 118 kW aunque solo funcione como generador", "Los 178 km eléctricos son WLTC chinos y bajan a 163 km en el trimotor; no hay cifra WLTP homologada en Europa", "Con 5.130 mm de largo y 2.245 kg en la versión de un motor, aparcarlo y moverlo por centros urbanos españoles resulta aparatoso"],
+    imagen: "",
+    imagenOficial: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "KnjRha5PfKc",
     videoCanal: "CarsBlink",
     analisisSlug: "hyptec-a800-2026-precio-ficha-tecnica",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 4.5,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 580,
-      seguroAmpliadoAnual: 1100,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 165,
-      notas:
-        "Estimación con 15.000 km/año (60 % en modo eléctrico, 40 % con gasolina), recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio en euros no publicado por la marca.",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 4.5, "costeMensualTotal": 165, "estimado": true, "mantenimientoAnual": 380, "notas": "Coste orientativo para 15.000 km al año aprovechando los 178 km WLTC del A800: el 60 % de los trayectos se presupuesta en eléctrico enchufado en casa a 0,18 €/kWh y el resto quemando gasolina del extensor 1.5T a 1,60 €/l, sumando la póliza a todo riesgo estimada y 380 € anuales de mantenimiento. La marca no publica tarifa en euros, así que el precio de compra no entra en el cálculo.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 1100, "seguroTercerosAnual": 580},
     galeria: [
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Hyptec A800, tres cuartos delantero en carretera costera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hyptec A800, vista lateral en calle europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/hyptec-a800-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hyptec A800, pantalla de 15,6 pulgadas con HarmonySpace 5",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
 ];

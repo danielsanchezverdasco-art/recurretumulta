@@ -129,7 +129,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -191,12 +191,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo 2027, tres cuartos delantero",
@@ -211,7 +206,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "BZJdwWX3cYc",
     videoCanal: "Centímetros Cúbicos",
     marca: "Maserati",
@@ -273,12 +268,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo Trofeo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo Trofeo 2027, tres cuartos delantero",
@@ -293,7 +283,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -355,12 +345,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranTurismo Folgore 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-granturismo-folgore-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranTurismo Folgore 2027, tres cuartos delantero",
@@ -375,7 +360,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -437,12 +422,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio 2027, tres cuartos delantero",
@@ -457,7 +437,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -519,12 +499,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio Trofeo 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-trofeo-590-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio Trofeo 2027, tres cuartos delantero",
@@ -539,7 +514,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -601,12 +576,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GranCabrio Folgore 2027",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-grancabrio-folgore-2027-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GranCabrio Folgore 2027, tres cuartos delantero",
@@ -621,7 +591,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mcpura-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mcpura-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Ls2BbFJPxYQ",
     videoCanal: "SoyMotor",
     marca: "Maserati",
@@ -637,20 +607,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "630 CV del V6 Nettuno central: el heredero del MC20, presentado en Goodwood 2025",
-      "0-100 en 2,9 s y 325 km/h: superdeportivo de verdad",
-      "1.475 kg y chasis de carbono: ligereza de competición",
-      "279.500 € en España: el superdeportivo italiano más accesible de su liga",
-      "Puertas de mariposa y diseño esculpido en Módena: el Tridente en estado puro",
-    ],
-    contras: [
-      "11,5 l/100 km y 261 g/km oficiales: el V6 bebe y emite",
-      "Maletero de 100 l (+50 l delantero): equipaje mínimo",
-      "Biplaza estricto: cero concesiones a la practicidad",
-      "Etiqueta C: Madrid restringe en episodios de contaminación",
-      "Mantenimiento de superdeportivo: cada revisión es un susto",
-    ],
+    pros: ["Debutó en Goodwood el 10 de julio de 2025 como evolución del MC20: Maserati concentró los cambios en la carrocería, los materiales y los acabados, y dejó intacta la mecánica", "El Nettuno no se ha tocado: V6 biturbo de 3,0 litros fabricado en Módena, con combustión por precámara patentada, doble bujía y 210 CV por litro", "Su color de presentación, Ai Aqua Rainbow, va en mate en este coupé —en el Cielo es brillante— y cambia de tono con la luz como un prisma", "Asientos de Alcantara Ice grabados con láser y volante nuevo inspirado en el MC20 GT2 de carreras, achatado por arriba y por abajo, con testigos LED de cambio opcionales en el coupé", "Las puertas Butterfly se abren dejando a la vista el monocasco de carbono, en un coche que mide solo 1.221 mm de alto"],
+    contras: ["El cambio de nombre no trajo mejoras importantes, según The Car Expert: bajo la piel nueva sigue el MC20 de 2020, con idénticas cifras de potencia y prestaciones", "Frente al Ferrari 296 híbrido, aquí no hay ni un motor eléctrico de apoyo: se queda con la etiqueta C y sin circulación silenciosa en ciudad", "La prensa que lo ha probado le reprocha un habitáculo menos inspirado que el de sus rivales y un cambio de doble embrague que a veces se muestra brusco", "El maletero trasero se queda en 100 litros y el delantero añade otros 50: dos huecos pequeños que obligan a repartir el equipaje en bultos blandos", "Homologa 261 gramos de CO₂ por kilómetro y un consumo combinado de 11,5 litros: llenar el depósito será un gasto recurrente, no una anécdota"],
     largoMm: 4669,
     anchoMm: 1965,
     altoMm: 1221,
@@ -665,17 +623,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     imagen: "/media/maserati-mcpura-2025-precio-ficha-tecnica-hero.webp",
     analisisSlug: "maserati-mcpura-2025-precio-ficha-tecnica",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 19.0,
-      seguroTercerosAnual: 1700,
-      seguroAmpliadoAnual: 3000,
-      mantenimientoAnual: 1800,
-      costeMensualTotal: 637,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "11,5 l/100 km WLTP (prensa especializada); 15.000 km/año; gasolina 1,65 €/l",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 19, "costeMensualTotal": 637, "estimado": true, "mantenimientoAnual": 1800, "notas": "Estimación solo para este coupé cerrado: con la gasolina a 1,65 €/l y su consumo homologado de 11,5 l/100 km, el combustible sale a 19 € por cada cien kilómetros; sobre 15.000 km al año, seguros y mantenimiento son partidas estimadas de superdeportivo.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 3000, "seguroTercerosAnual": 1700},
     galeria: [
       {
         src: "/media/maserati-mcpura-2025-precio-ficha-tecnica-oficial.webp",
@@ -683,12 +631,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 2112,
         alto: 1168,
       },
-      {
-        src: "/media/maserati-mcpura-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati MCPura 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-mcpura-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati MCPura 2025, tres cuartos delantero",
@@ -696,6 +639,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: ni el MCPura ni el MC20 del que deriva han pasado por las pruebas de Euro NCAP", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Maserati, programas de mantenimiento oficiales (Maintenance Premium para los 3 primeros servicios y Maintenance 10 del 4.º al 10.º; la web de Maserati agrupa MC20 y MCPura en el mismo programa); intervalo de un año o 15.000 km según Al Tayer Motors, concesionario oficial que cita las directrices del fabricante, corroborado por CarsGuide para el MC20", "intervalo": "Paso por el taller oficial cuando se cumpla un año o se alcancen los 15.000 km, según lo primero que llegue", "revisiones": [{"costeAproxEur": null, "nombre": "Primer servicio programado (un año o 15.000 km)", "queSeCambia": "Aceite del V6 Nettuno con su filtro nuevo y filtro de polen, más la diagnosis electrónica y las inspecciones del programa de mantenimiento que Maserati agrupa para MC20 y MCPura"}, {"costeAproxEur": null, "nombre": "Segundo servicio programado (dos años o 30.000 km)", "queSeCambia": "Se repite el cambio de aceite y filtros y se renueva el líquido de frenos, cuya sustitución el manual sitúa cada dos años; el programa Premium de la marca cubre los tres primeros servicios con recambios originales"}, {"costeAproxEur": null, "nombre": "Servicios cuarto a décimo", "queSeCambia": "Tras el tercer servicio, Maserati ofrece el programa Mantenimiento 10, contratado en paquetes de dos servicios consecutivos, con las operaciones y componentes del programa programado y recogida y entrega del coche incluidas"}]},
   },
   {
     id: "maserati-mcpura-cielo-2025-precio-ficha-tecnica",
@@ -703,7 +648,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "94_F_jlIfmo",
     videoCanal: "Auto Sensación",
     marca: "Maserati",
@@ -765,12 +710,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati MCPura Cielo 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-mcpura-cielo-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati MCPura Cielo 2025, tres cuartos delantero",
@@ -785,7 +725,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -847,12 +787,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Maserati GT2 Stradale 2025",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
       {
         src: "/media/maserati-gt2-stradale-2025-precio-ficha-tecnica-hero.webp",
         alt: "Maserati GT2 Stradale 2025, tres cuartos delantero",
@@ -964,20 +899,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "V6 3.0 biturbo de 350 CV con mejor sonido que el GT",
-      "251 km/h de velocidad máxima",
-      "Tracción total Q4 con reparto trasero",
-      "Acabado Modena: el equilibrio de la gama",
-      "5 plazas reales y gran habitabilidad",
-    ],
-    contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C: sin ventajas en ZBE",
-      "Consumos WLTP sin publicar para esta versión",
-      "El Trofeo ofrece 230 CV más por un salto moderado",
-      "Modelo al final de su vida comercial",
-    ],
+    pros: ["Primer SUV en más de un siglo de Maserati: debutó en el Salón de Ginebra de marzo de 2016 y se fabricaba en Mirafiori, Turín", "Toma el nombre de un viento cálido del Mediterráneo, y este Modena lo mueve un V6 de 2.979 cm³ con dos turbos y 500 Nm", "La tracción Q4 circula en modo trasero y puede repartir el par al 50:50 en solo 150 milisegundos si el eje trasero patina", "Suspensión neumática de serie con varias alturas de carrocería y reparto de pesos equilibrado al 50:50 entre ambos ejes", "Maletero de 580 litros tras cinco plazas y una batalla de 3.004 mm: el Maserati pensado para viajar cargado"],
+    contras: ["El folleto oficial del modelo declara entre 12,6 y 13,5 litros a los cien en ciclo combinado: llenar sus 80 litros duele", "Su pegatina C es la de un gasolina puro, así que en las zonas de bajas emisiones no disfruta de ninguna ventaja ECO", "Maserati España ya no vende esta Modena de 350 CV: la Modena de su catálogo actual rinde 430 CV y parte de 148.750 euros", "En orden de marcha pesa 2.109 kilos y la carrocería estira 5.005 mm, cifras que se notan al maniobrar en garajes estrechos", "La producción del Levante cerró en la primavera de 2024 y su pantalla central de 8,4 pulgadas delata que nació en 2016"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -991,17 +914,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-levante-modena-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 21.28,
-      "seguroTercerosAnual": 1000,
-      "seguroAmpliadoAnual": 2500,
-      "mantenimientoAnual": 1400,
-      "costeMensualTotal": 591,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 11,5 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 21.28, "seguroTercerosAnual": 1000, "seguroAmpliadoAnual": 2500, "mantenimientoAnual": 1400, "costeMensualTotal": 591, "precioKwh": 0.18, "precioGasolinaL": 1.85, "notas": "Cuenta propia de esta Modena de 350 CV: recorrer 15.000 km al año con los 11,5 litros a los cien que asume esta ficha quema 1.725 litros; a 1,85 euros el litro son 3.191 euros de gasolina, y sumando el seguro amplio y el mantenimiento estimado salen los 591 euros al mes", "estimado": true},
     galeria: [
       {
         "src": "/media/maserati-levante-modena-2024-precio-ficha-tecnica-oficial.webp",
@@ -1022,6 +935,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: el Levante cerró su vida comercial en 2024 sin que Euro NCAP llegara a ensayarlo"},
+    planMantenimiento: {"intervalo": "Cupones de servicio cada 20.000 km o al cumplir un año desde la visita anterior, lo primero que llegue", "revisiones": [{"nombre": "Cada cupón del Levante: aceite y filtro nuevos", "queSeCambia": "Aceite del motor y su filtro en todas las visitas, con prueba en carretera, diagnóstico electrónico Maserati y control de niveles, posibles fugas del intercooler y presión de los neumáticos", "costeAproxEur": null}, {"nombre": "Segundo cupón: se suma el filtro de polen", "queSeCambia": "Desde el segundo cupón la tabla oficial añade el filtro de polen del habitáculo; el líquido de frenos se revisa en cada visita y se renueva al cumplir dos años", "costeAproxEur": null}, {"nombre": "Tercer cupón: bujías para el V6 de 2.979 cm³", "queSeCambia": "Las bujías se sustituyen en el tercer cupón y de nuevo en el sexto, tal como marca la tabla de operaciones principales del mantenimiento programado del Levante", "costeAproxEur": null}, {"nombre": "Cuarto cupón: filtro de aire y correas auxiliares", "queSeCambia": "Al llegar el cuarto cupón tocan el filtro de aire del motor y, en los V6, la correa del alternador junto a la que mueve la bomba de agua y el compresor del climatizador", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Guía de mantenimiento programado del Maserati Levante 2021 reproducida del manual del propietario (cupones cada 12.500 millas, 20.000 km, o 1 año); Maserati España no publica el precio cerrado de cada cupón"},
   },
   {
     id: "maserati-levante-trofeo-2024-precio-ficha-tecnica",
@@ -1045,20 +960,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "V8 3.8 biturbo de 580 CV y 730 Nm",
-      "302 km/h: uno de los SUV más rápidos del mundo",
-      "0-100 en 4,1 s para 2.170 kg",
-      "Sonido V8 con modo Corsa",
-      "El último V8 de Maserati en un SUV",
-    ],
-    contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C y consumos elevados",
-      "2.170 kg se notan en curva",
-      "Producción finalizada con el fin del V8",
-      "Mantenimiento de V8 biturbo de altas prestaciones",
-    ],
+    pros: ["Debutó en el Salón de Nueva York de marzo de 2018 como el primer Levante construido alrededor de un motor V8, cuando la gama solo conocía los V6 de gasolina y diésel", "Su bloque de 3,8 litros se ensamblaba en Maranello por Ferrari y presumía de la mayor potencia específica lograda hasta entonces por un propulsor con el tridente", "Solo el Trofeo ofrecía el modo Corsa dentro de la familia Levante: bajaba la suspensión neumática, abría la válvula del escape y armaba la salida desde parado con Launch Control", "Frena con discos delanteros perforados de 380 milímetros y pinzas monobloque de seis pistones, equipo dimensionado para detener 2.170 kilos lanzados a 302 km/h", "Conserva los 580 litros de maletero y las cinco plazas del resto de la gama Levante pese a firmar una punta propia de un deportivo de la casa"],
+    contras: ["La factura española daba respeto: 196.900 euros costaba al llegar en 2019 y la última tarifa oficial del configurador subió hasta 200.700, siempre antes de opciones", "Maserati homologa para él entre 13,2 y 13,7 litros a los cien, con 308 a 319 gramos de CO₂ por kilómetro: cifras de otra época para usarlo a diario", "Lleva la etiqueta C colgada del parabrisas y ni un solo voltio de electrificación, así que dentro de una ZBE se mueve sin las ventajas reservadas a los ECO", "Sus 2.170 kilos y la altura propia de un SUV se dejan sentir en los cambios de apoyo rápidos, por mucha suspensión Skyhook y tracción Q4 que monte", "La saga se cerró en 2024 tras la edición V8 Ultima desvelada en Goodwood, y la marca no contempla sustituto de ocho cilindros: hoy ya es un descatalogado"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1072,17 +975,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-levante-trofeo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 24.98,
-      "seguroTercerosAnual": 1200,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1800,
-      "costeMensualTotal": 729,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 13,5 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 24.98, "costeMensualTotal": 729, "estimado": true, "mantenimientoAnual": 1800, "notas": "Matemática exclusiva de este SUV italiano: con 15.000 kilómetros recorridos en un año y los 13,5 litros a los cien que presupone el cálculo, el depósito traga 2.025 litros; multiplicados por 1,85 euros dan 3.746 euros de combustible, que unidos a los 3.200 del seguro amplio y a los 1.800 de mantenimiento reparten 729 euros por mes. El supuesto tampoco sale de la nada: la propia Maserati homologó entre 13,2 y 13,7 litros para el Trofeo", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 3200, "seguroTercerosAnual": 1200},
     galeria: [
       {
         "src": "/media/maserati-levante-trofeo-2024-precio-ficha-tecnica-oficial.webp",
@@ -1103,6 +996,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: este SUV cerró su etapa comercial sin pasar nunca por los choques del programa europeo, y ninguna de sus versiones obtuvo estrellas oficiales", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario europeo del Maserati Levante (edición MY22, tabla de operaciones principales y cupones de servicio, intervalo de 20.000 km o 2 años para Europa); Maserati España no publica precios cerrados de cada cupón, por eso todos los costes quedan a null", "intervalo": "Cupones cada 20.000 km o dos años según el manual europeo del Levante, lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Cada cupón del Trofeo: aceite nuevo para el V8", "queSeCambia": "Sustitución del aceite del motor y de su filtro en todas las visitas programadas, acompañada de prueba en carretera, diagnóstico electrónico de la casa y revisión de posibles fugas en motor e intercooler"}, {"costeAproxEur": null, "nombre": "Filtro de polen en cada visita y líquido de frenos bienal", "queSeCambia": "La tabla europea renueva el filtro de polen del habitáculo en cada cupón y ordena cambiar el líquido de frenos al cumplirse dos años, aunque su nivel y estado se inspeccionen en todas las citas"}, {"costeAproxEur": null, "nombre": "Bujías en el tercer y en el sexto cupón", "queSeCambia": "El encendido del ocho cilindros estrena bujías en la tercera visita programada y repite la operación en la sexta, tal como reparte la tabla de operaciones principales del manual"}, {"costeAproxEur": null, "nombre": "Cuarto cupón: se renueva la correa de accesorios", "queSeCambia": "La correa que acciona alternador, bomba de agua y compresor del climatizador en este motor se sustituye en el cuarto cupón, después de inspeccionarse en las visitas anteriores"}, {"costeAproxEur": null, "nombre": "Filtro de aire y refrigerante dentro del ciclo largo", "queSeCambia": "El filtro de aire del motor figura entre los recambios programados del Levante, mientras el líquido refrigerante aguanta hasta los diez años o los 240.000 kilómetros antes de su renovación"}]},
   },
   {
     id: "maserati-ghibli-gt-2024-precio-ficha-tecnica",
@@ -1207,20 +1102,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "V6 3.0 biturbo de 350 CV: el verdadero sonido Maserati",
-      "267 km/h de velocidad máxima",
-      "Tracción trasera: tacto clásico de berlina deportiva",
-      "Acabado Modena con equipamiento completo",
-      "Más exclusivo que un Serie 5 o un Clase E",
-    ],
-    contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C: sin ventajas en ZBE",
-      "Consumos WLTP sin publicar para esta versión",
-      "Interior menos tecnológico que los rivales",
-      "Producción finalizada en 2024",
-    ],
+    pros: ["Su V6 de 2.979 cc lo construía Ferrari: entrega 350 CV y 500 Nm a través de un cambio automático ZF de ocho marchas", "El acabado Modena llegó en julio de 2021 como el escalón deportivo intermedio de la gama, entre el GT y el Trofeo V8 de 580 CV, con el interior Dark Mirror específico del Ghibli", "Propulsión trasera con reparto clásico de berlina italiana: cierra el sprint en 5,5 segundos y no se detiene hasta los 267 km/h", "Es el único Maserati que Euro NCAP ha ensayado: en 2013 sacó cinco estrellas con un 95 % en protección de ocupantes adultos", "Se fabricó en Grugliasco junto al Quattroporte, con el que comparte plataforma, y su silueta de coupé de cuatro puertas lo separa de cualquier Serie 5 o Clase E alemán"],
+    contras: ["Al carecer de electrificación le corresponde la etiqueta C, así que dentro de una ZBE no disfruta de los privilegios de un híbrido con etiqueta ECO", "Sin WLTP homologado para esta versión: la estimación de costes de esta ficha supone 10,5 l/100 km y las referencias españolas del modelo citan 11,0 l/100 km", "La pantalla MIA de 10,1 pulgadas del restyling anima una arquitectura nacida en 2013: en ayudas a la conducción y conectividad queda por detrás de un Clase E coetáneo", "La producción se cerró en 2024 tras la serie final 334 Ultima: ya solo se consigue de ocasión y sin tarifa oficial vigente en España", "Mantenerlo exige pasar por la red oficial Maserati, muy corta en España, con recambio original del Tridente en cada cupón de servicio"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1234,17 +1117,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-ghibli-modena-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 19.43,
-      "seguroTercerosAnual": 900,
-      "seguroAmpliadoAnual": 2200,
-      "mantenimientoAnual": 1200,
-      "costeMensualTotal": 526,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 10,5 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 19.43, "seguroTercerosAnual": 900, "seguroAmpliadoAnual": 2200, "mantenimientoAnual": 1200, "costeMensualTotal": 526, "precioKwh": 0.18, "precioGasolinaL": 1.85, "notas": "Cálculo pensado solo para este Modena de gasolina: recorrer 15.000 kilómetros anuales suponiendo 10,5 litros cada cien y pagando la gasolina a 1,85 euros el litro deja 19,43 euros de combustible por cada 100 km. El total de 526 euros al mes suma además el seguro ampliado y una partida anual de mantenimiento de 1.200 euros; Maserati no publicó el consumo WLTP de esta versión, de ahí que el consumo sea supuesto y no homologado.", "estimado": true},
     galeria: [
       {
         "src": "/media/maserati-ghibli-modena-2024-precio-ficha-tecnica-oficial.webp",
@@ -1265,6 +1138,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": 5, "ano": 2013, "url": "https://cdn.euroncap.com/media/5901/euroncap_maserati_ghibli_2013_5stars.pdf", "nota": "Prueba publicada el 27 de noviembre de 2013 sobre el Ghibli diésel 3.0 con volante a la izquierda, de la misma generación M157 que este Modena: 95 % en adultos, 79 % en niños, 74 % en peatones y 81 % en asistentes de seguridad"},
+    planMantenimiento: {"intervalo": "20.000 kilómetros entre cupones, y como máximo un año entre uno y otro", "revisiones": [{"nombre": "Cupón de servicio / 20.000 km o 12 meses", "queSeCambia": "Aceite del motor y su filtro nuevos en cada cupón, filtro de polen, chequeo con Maserati Diagnosi, comprobación de fugas del intercooler y revisión de frenos, neumáticos y suspensiones según la tabla de operaciones principales del manual del Ghibli", "costeAproxEur": null}, {"nombre": "Cada 2 años", "queSeCambia": "Sustitución del líquido de frenos: el manual ordena inspeccionarlo en cada cupón y renovarlo cada dos años", "costeAproxEur": null}, {"nombre": "Cupones intermedios del V6 3.0", "queSeCambia": "Bujías de encendido y correa de alternador, bomba de agua y compresor del climatizador del V6 de 3,0 litros, cada una en el cupón que le asigna la tabla del manual (la correa se sustituye en el cuarto cupón)", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual del propietario del Maserati Ghibli, edición 2024 (tabla de operaciones principales reproducida en manuals.plus y AutoUserGuide): cupones cada 20.000 km o 1 año, aceite y filtro en cada cupón y líquido de frenos cada 2 años. La edición europea de 2021 del mismo manual fijaba el cupón en 20.000 km o 2 años. Maserati España ofrece para el Ghibli los programas prepago Premium Service y Premium Service Plus sin publicar precios, por eso los costes quedan a null"},
   },
   {
     id: "maserati-ghibli-trofeo-2024-precio-ficha-tecnica",
@@ -1551,20 +1426,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "V8 3.8 biturbo de 580 CV y 730 Nm",
-      "326 km/h: la berlina de lujo más rápida de Italia",
-      "0-100 en 4,5 s con 2.000 kg",
-      "El canto del cisne del V8 Maserati",
-      "Limusina y muscle car en un solo coche",
-    ],
-    contras: [
-      "Precio en España no publicado por la marca",
-      "Etiqueta C y consumos elevados",
-      "Producción finalizada con el fin del V8",
-      "2.000 kg se notan en carreteras viradas",
-      "Mantenimiento de V8 biturbo de altas prestaciones",
-    ],
+    pros: ["Su V8 de 3.799 cc lo montaba Ferrari en Maranello siguiendo las especificaciones de Maserati: 580 CV a 6.750 rpm para la berlina insignia de Módena", "Toda la fuerza va únicamente al eje trasero, con diferencial autoblocante: donde el Levante Trofeo recurre a la tracción total Q4, esta berlina apuesta por la propulsión clásica", "Con 326 km/h de punta empata con el Ghibli Trofeo como la berlina Maserati más veloz jamás fabricada, heredera del primer Quattroporte de 1963, que ya fue la berlina de lujo más rápida de su época", "El botón Corsa junto a la palanca activa el Launch Control y afila el cambio ZF de ocho marchas, mientras el habitáculo viste cuero Pieno Fiore con el nombre Trofeo bordado en los reposacabezas", "Mide 5.262 mm con 3.171 mm de batalla y cerró la saga en julio de 2024: el último Quattroporte de la historia, el Grand Finale Fuoriserie entregado en Stresa, también llevaba este V8"],
+    contras: ["La tarifa oficial española arrancaba en 214.750 €: son 42.450 € más que el Modena de 430 CV con el que comparte carrocería", "Homologa entre 12,4 y 12,6 l/100 km WLTP con 279-285 g/km de CO₂ según Maserati España: ni en el ciclo más favorable baja de 10,3 l/100 km", "Sin un gramo de electrificación se queda con la etiqueta C de la DGT: dentro de una ZBE española no obtiene ninguna de las ventajas de un híbrido ECO", "Pesa 2.000 kg repartidos sobre 5,26 metros de largo: la suspensión Skyhook contiene las inercias, pero rinde mejor devorando autopista que enlazando horquillas de puerto", "La producción se detuvo para siempre en 2024 y la red española del Tridente es diminuta: cada cupón anual toca hacerlo en servicio oficial para conservar valor y cobertura"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1578,17 +1441,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 24.05,
-      "seguroTercerosAnual": 1400,
-      "seguroAmpliadoAnual": 3400,
-      "mantenimientoAnual": 1900,
-      "costeMensualTotal": 725,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 13,0 l/100 km (sin dato WLTP publicado para esta versión)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 24.05, "costeMensualTotal": 725, "estimado": true, "mantenimientoAnual": 1900, "notas": "Cifra construida solo para esta berlina V8 de propulsión trasera: recorrer 15.000 kilómetros en doce meses suponiendo un gasto de 13,0 litros a los cien, con el litro a 1,85 euros, arroja 24,05 euros de gasolina por cada 100 km. A eso se añaden, para llegar a los 725 euros de cada mes, el seguro ampliado de 3.400 euros al año y una partida de 1.900 euros para su mantenimiento. Maserati España sí homologó un consumo WLTP para el Trofeo, entre 12,4 y 12,6 l/100 km, pero esta estimación conserva el supuesto de 13,0 con el que se calculó el coste de la energía.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 3400, "seguroTercerosAnual": 1400},
     galeria: [
       {
         "src": "/media/maserati-quattroporte-trofeo-2024-precio-ficha-tecnica-oficial.webp",
@@ -1609,6 +1462,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: la sexta generación del Quattroporte jamás pasó por el programa europeo de ensayos de choque, así que esta versión Trofeo carece de calificación oficial de estrellas", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario del Maserati Quattroporte, edición 2023 (tabla de operaciones principales reproducida en AutoUserGuide): primer cupón a los 20.000 kilómetros o cuando se cumple un año y los siguientes con ese mismo ritmo, líquido de frenos renovado cada dos años y correa de accesorios del V8 sustituida en el cuarto cupón. En la guía europea de 2021, en cambio, el intervalo se estiraba hasta los dos años recorriendo los mismos 20.000 km. Maserati España vende para este modelo sus planes de prepago Premium Service y, con frenos incluidos, Premium Service Plus, sin mostrar precios en su web, así que ningún coste de cupón se ha podido verificar y quedan a null", "intervalo": "20.000 kilómetros o un año entre cupones, lo primero que se alcance", "revisiones": [{"costeAproxEur": null, "nombre": "Cupón programado / 20.000 km o 12 meses", "queSeCambia": "En cada visita se renueva el aceite del V8 y se monta un filtro de aceite nuevo, se pasa el chequeo electrónico con Maserati Diagnosis y se controlan las posibles fugas del intercooler y del motor, además del repaso de frenos, neumáticos y articulaciones de la suspensión que detalla la tabla de operaciones del manual del Quattroporte"}, {"costeAproxEur": null, "nombre": "Cada dos años", "queSeCambia": "El líquido de frenos se inspecciona en todos los cupones y la tabla ordena renovarlo al cumplirse dos años"}, {"costeAproxEur": null, "nombre": "Operaciones propias del V8 de 3,8 litros", "queSeCambia": "La correa de accesorios, que acciona el compresor del climatizador, la bomba de agua y el alternador, se revisa en cada cupón y se cambia en el cuarto; las bujías de encendido se sustituyen en el tercero y en el sexto, siempre según la tabla del plan programado"}]},
   },
   {
     id: "maserati-mc20-2024-precio-ficha-tecnica",
@@ -1616,7 +1471,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "0ACd4WFD0JU",
     videoCanal: null,
     marca: "Maserati",
@@ -1632,20 +1487,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "V6 Nettuno de 630 CV con tecnología de F1",
-      "265.388 € (km77): el superdeportivo italiano accesible",
-      "1.475 kg: monocasco de carbono",
-      "2,9 s de 0-100 y 325 km/h",
-      "Puertas de tijera y diseño de Dallara",
-    ],
-    contras: [
-      "Etiqueta C: vetado de futuras ZBE",
-      "11,5 l/100 km y 261 g/km de CO2",
-      "Maletero de 100 (+50) litros",
-      "Red de servicio más pequeña que Ferrari/Lambo",
-      "El MC20 Cielo le roba protagonismo descapotable",
-    ],
+    pros: ["Nettuno hecho en Módena: V6 de 3,0 litros con precámara heredada de la Fórmula 1, doble bujía por cilindro y 210 CV por litro", "Presentado en Módena el 9 de septiembre de 2020: el primer superdeportivo de la casa desde el MC12", "Monocasco de carbono afinado con Dallara tras unas 2.000 horas de túnel de viento: 1.475 kg en total", "Motor central trasero y cambio de doble embrague de ocho marchas: 325 km/h de punta", "Puertas de mariposa, las primeras en un Maserati, y modos Wet, GT, Sport y Corsa en la consola de carbono"],
+    contras: ["Sin ninguna ayuda eléctrica: frente al McLaren Artura híbrido, su V6 trabaja solo y se queda con la etiqueta C", "Homologa 261 gramos de CO₂ por kilómetro y 11,5 litros a los cien en ciclo WLTP: pasar por la gasolinera sale caro", "Carga 100 litros detrás y otros 50 delante: incluso una escapada breve obliga a viajar con bolsas blandas", "Mirar hacia atrás sirve de poco con la cubierta del motor central, y el aviso de ángulo muerto no siempre venía de serie", "En España la red Maserati es mucho más corta que la de sus rivales italianos, así que la revisión puede quedar lejos de casa"],
     largoMm: 4669,
     anchoMm: 1965,
     altoMm: 1221,
@@ -1659,17 +1502,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-mc20-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 21.28,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3800,
-      "mantenimientoAnual": 2000,
-      "costeMensualTotal": 749,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 11,5 l/100 km (km77)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 21.28, "costeMensualTotal": 749, "estimado": true, "mantenimientoAnual": 2000, "notas": "Coupé cerrado de gasolina: recorrer 15.000 km en un año con los 11,5 litros WLTP de esta ficha y la gasolina a 1,85 euros deja 21,28 euros de combustible por cada cien; seguros y revisión anual son partidas estimadas para un Nettuno de 630 CV en España", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 3800, "seguroTercerosAnual": 1500},
     galeria: [
       {
         "src": "/media/maserati-mc20-2024-precio-ficha-tecnica-oficial.webp",
@@ -1684,12 +1517,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: Euro NCAP nunca ha ensayado este coupé cerrado, así que no hay estrellas que asignarle", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario del Maserati MC20 (filtro de aceite nuevo en cada cambio, renovación bienal del líquido de frenos y líquido de la DCT cada 24 h de pista); intervalo de 15.000 km o 12 meses según Al Tayer Motors Maserati, concesionario oficial que cita las directrices del fabricante para el MC20, corroborado por CarsGuide; Maserati España ofrece para el MC20 su Mantenimiento Premium, que cubre los 3 primeros servicios sin publicar precios en euros", "intervalo": "Cada 12 meses o cada 15.000 km recorridos, lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Primer servicio programado / 15.000 km o 12 meses", "queSeCambia": "Aceite del V6 Nettuno y su filtro, porque el manual manda montar un filtro nuevo en cada cambio de aceite, además de la inspección programada del programa de mantenimiento del MC20"}, {"costeAproxEur": null, "nombre": "Servicio a los 24 meses", "queSeCambia": "Renovación del líquido de frenos, prevista cada dos años en el manual del MC20, junto a la revisión de los filtros de aire del motor y del climatizador en un centro autorizado"}, {"costeAproxEur": null, "nombre": "Uso en circuito", "queSeCambia": "Si el coche rueda en pista, el manual exige cambiar el líquido de la caja de doble embrague y su filtro externo cada 24 horas de uso en circuito, o antes si el monitor de vida útil lo avisa"}]},
   },
   {
     id: "maserati-mc20-cielo-2024-precio-ficha-tecnica",
@@ -1697,7 +1532,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -1713,20 +1548,8 @@ export const COCHES_MASERATI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Techo de cristal electrocrómico: opaco o transparente",
-      "630 CV descapotables por 300.500 € (km77)",
-      "Solo 85 kg más que el coupé",
-      "3,0 s de 0-100 a cielo abierto",
-      "El spyder italiano más tecnológico",
-    ],
-    contras: [
-      "35.000 € más que el MC20 coupé",
-      "Etiqueta C: vetado de futuras ZBE",
-      "11,2 l/100 km y 261 g/km de CO2",
-      "Maletero de 100 (+50) litros",
-      "El techo de cristal suma complejidad",
-    ],
+    pros: ["Techo retráctil de cristal con tecnología PDLC: se pliega en 12 segundos y pasa de transparente a opaco pulsando un botón", "V6 Nettuno 3.0 biturbo de 630 CV y 730 Nm con encendido por precámara: descapotar no le resta ni un caballo al coupé", "Su monocasco de carbono nació pensado para coupé, spyder y eléctrico, y el Cielo solo añade 65 kg al MC20 cerrado", "Tracción trasera con cambio de doble embrague de ocho marchas: 3,0 segundos hasta 100 km/h y 320 km/h de velocidad punta", "Debutó en mayo de 2022 con la serie PrimaSerie de unas 60 unidades en Acquamarina, un tricapa gris con mica aguamarina"],
+    contras: ["La factura sube a 300.500 €: unos 35.000 € más que el MC20 coupé compartiendo motor, chasis y prestaciones", "Sin electrificación alguna se queda con la etiqueta C, homologando 11,2 litros a los cien y 261 gramos de CO₂ por kilómetro", "El equipaje va repartido en dos huecos de 100 y 50 litros: 150 en total y ninguno capaz de tragar una maleta grande", "Al plegarse, el techo esconde el motor: se pierde la vitrina de cristal que en el coupé deja el Nettuno a la vista", "Cristal electrocrómico, motor de plegado y electrónica PDLC conviven en el techo: cualquier avería ahí se paga a precio de superdeportivo"],
     largoMm: 4669,
     anchoMm: 1965,
     altoMm: 1218,
@@ -1740,17 +1563,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     aprox: [],
     imagen: "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 20.72,
-      "seguroTercerosAnual": 1600,
-      "seguroAmpliadoAnual": 4000,
-      "mantenimientoAnual": 2000,
-      "costeMensualTotal": 759,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 11,2 l/100 km (km77)",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 20.72, "costeMensualTotal": 759, "estimado": true, "mantenimientoAnual": 2000, "notas": "Cuenta particular de este Cielo: recorrer 15.000 km en un año quemando 11,2 litros a los cien supone 1.680 litros de gasolina; a 1,85 € por litro son 3.108 €, que con el seguro amplio de 4.000 € y los 2.000 € de mantenimiento dan los 759 € mensuales estimados.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 4000, "seguroTercerosAnual": 1600},
     galeria: [
       {
         "src": "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-oficial.webp",
@@ -1765,12 +1578,14 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-cielo-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20 Cielo",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: ni el MC20 Cielo ni el MC20 coupé han sido probados por Euro NCAP", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "CarExpert, ficha del Maserati MC20 Cielo (revisión cada 20.000 km o 24 meses); Maserati no publica costes oficiales de revisión para España", "intervalo": "Al llegar a los 20.000 km o al cumplir dos años desde la revisión anterior, lo primero que ocurra", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada del Nettuno a los 20.000 km", "queSeCambia": "Sustitución del aceite del V6 Nettuno y de su filtro, filtro de habitáculo nuevo y revisión general del spyder con diagnóstico electrónico"}]},
   },
   {
     id: "maserati-mc20-notte-2024-precio-ficha-tecnica",
@@ -1778,7 +1593,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Maserati",
@@ -1846,7 +1661,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/maserati-mc20-notte-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Maserati MC20 Notte Edition",
         "ancho": 1200,
         "alto": 800

@@ -19,7 +19,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/fiat-500e-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-500e-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "isEZpsoP1sQ",
     videoCanal: "Periodismo del Motor",
     marca: "Fiat",
@@ -80,12 +80,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/fiat-500e-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat 500e, pantalla táctil y cuadro digital",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/fiat-500e-2025-precio-ficha-tecnica-hero.webp",
         alt: "Fiat 500e blanco perla en calle europea al atardecer",
@@ -101,8 +96,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "sy7OK-LOkKI",
     videoCanal: "Auto Eye",
     marca: "Fiat",
@@ -143,7 +138,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.8,
@@ -157,24 +152,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat 500 Hybrid azul claro, vista lateral",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat 500 Hybrid, pantalla de 10 pulgadas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat 500 Hybrid verde pastel en Turín",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/500/2021/31/informacion?amp=1",
@@ -184,8 +164,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/fiat-pandina-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-pandina-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-pandina-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -226,7 +206,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/fiat-pandina-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.25,
@@ -240,24 +220,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-pandina-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat Pandina blanco, vista lateral",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-pandina-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat Pandina, cuadro digital de 7 pulgadas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-pandina-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat Pandina amarillo en calle italiana",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/panda/2021/estandar/datos?amp=1",
@@ -267,8 +232,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "4Ii8lp6602o",
     videoCanal: "SuperMotor.Online",
     marca: "Fiat",
@@ -309,7 +274,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 115,
     aprox: [],
-    imagen: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "pillas el alto de gama hybrido y a precio de yaris hybrido, 24k... no tengo dudas entre un yaris más que probado y un fiat puretech",
@@ -342,24 +307,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat Grande Panda Hybrid azul lago, vista lateral",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Grande Panda Hybrid, salpicadero minimalista",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat Grande Panda Hybrid amarillo mostaza en avenida europea",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/grande-panda/2025/estandar/estandar/grande-panda-icon-12-mhev-81-kw-110-cv-ddct/datos",
@@ -370,7 +320,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/fiat-600e-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-600e-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "G1D4G3vNzI0",
     videoCanal: "SoyMotor.com",
     marca: "Fiat",
@@ -431,12 +381,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/fiat-600e-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat 600e, pantalla de 10 pulgadas",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/fiat-600e-2025-precio-ficha-tecnica-hero.webp",
         alt: "Fiat 600e verde oliva cargando en punto de recarga",
@@ -452,8 +397,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -494,7 +439,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 109,
     aprox: [],
-    imagen: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.07,
@@ -508,24 +453,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat 600 Sport negro con detalles rojos, vista lateral",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Fiat 600 Sport, costuras rojas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat 600 Sport rojo en carretera de costa italiana",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "coches.net",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/fiat/600/4x4/5-puertas/mhev_sport_12_106kw_145cv_ddct_145cv_hibrido/116743/851007020251219/",
@@ -536,7 +466,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-tipo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-tipo-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -597,12 +527,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/fiat-tipo-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat Tipo sedán, berlina familiar",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/fiat-tipo-2024-precio-ficha-tecnica-hero.webp",
         alt: "Fiat Tipo sedán gris plata frente a edificio moderno",
@@ -618,8 +543,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/fiat-doblo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-doblo-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-doblo-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -660,7 +585,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 145,
     aprox: [],
-    imagen: "/media/fiat-doblo-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 10.18,
@@ -674,24 +599,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-doblo-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat Doblò gris, vista lateral con puertas correderas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-doblo-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat Doblò de pasajeros, 5 asientos",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-doblo-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat Doblò blanco en zona industrial",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/doblo/2024/estandar/estandar/doblo-15-diesel-96-kw-130-cv-at8/datos",
@@ -701,8 +611,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "xYYBl_dH7XQ",
     videoCanal: "MOTORK",
     marca: "Fiat",
@@ -718,20 +628,8 @@ export const COCHES_FIAT: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "136 CV, 344 km WLTP y etiqueta Cero por 38.557 €",
-      "Carga rápida de 100 kW: del 10 al 80 % en 30 minutos",
-      "597 L de maletero y 5 plazas: la familiar eléctrica práctica",
-      "Acceso libre a ZBE y aparcamiento bonificado",
-      "Coste por kilómetro imbatible si se carga en casa",
-    ],
-    contras: [
-      "14.000 € más que el Doblò diésel equivalente",
-      "344 km teóricos: en autopista real, unos 220-250 km",
-      "Velocidad máxima limitada a 130 km/h",
-      "Peso y aerodinámica de furgoneta: el consumo se dispara a 120 km/h",
-      "El E-Ulysse, por más dinero, da 8 plazas y más autonomía",
-    ],
+    pros: ["Entre las furgonetas hermanas nacidas en Stellantis, esta defiende el escudo Fiat y su red profesional, pensada para autónomos que viven del vehículo", "Sus 136 CV llegan con 270 Nm inmediatos: arranca con brío en semáforos, rotondas y rampas de garaje sin tocar una palanca de cambios", "La batería de 50 kWh firma 344 km WLTP, colchón suficiente para cerrar la jornada de reparto o de recados sin buscar un cargador a mediodía", "Admitiendo 100 kW en corriente continua, media hora de parada le basta para volver al 80 %, un café mientras se reorganiza la ruta siguiente", "Detrás quedan 597 litros para bultos y cinco asientos utilizables a diario, combinación que sirve igual para llevar material entre semana que niños el sábado"],
+    contras: ["Partir de 38.557 euros la deja lejos de cualquier Doblò de combustión: la cuenta solo sale con muchos kilómetros urbanos y enchufe propio en casa o en la nave", "En autovía su carrocería alta, con 1.844 mm de techo, penaliza el gasto energético y esos 344 km homologados se encogen enseguida si se viaja cargado y a ritmo sostenido", "La velocidad punta recortada a 130 km/h y los 11,2 segundos hasta cien delatan su vocación tranquila: no está pensada para devorar tiradas largas por autopista", "Compartir órganos mecánicos con Berlingo, Rifter y Combo le resta argumentos propios: si una de sus gemelas aparece más barata cerca de ti, esta pierde buena parte de su gracia", "Sus cinco plazas y un habitáculo de planteamiento laboral, con mandos y acabados de herramienta de trabajo, quedan por detrás de un monovolumen familiar al viajar lejos"],
     largoMm: 4403,
     anchoMm: 1848,
     altoMm: 1844,
@@ -743,7 +641,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.5,
@@ -757,35 +655,21 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat E-Doblò eléctrico blanco, vista lateral",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat E-Doblò eléctrico, 5 asientos",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat E-Doblò azul cargando en punto de recarga",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/doblo/informacion?amp=1",
+    planMantenimiento: {"intervalo": "Primera revisión a los 20.000 km o 1 año; después, servicios programados cada 40.000 km o 2 años (40.000, 80.000, 120.000 km...), según la tabla de la versión eléctrica del manual del propietario del Doblò 2023/2024", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial: 20.000 km o 1 año", "queSeCambia": "Sin sustituciones mayores programadas: lectura de memorias de autodiagnóstico, comprobación de los sistemas del vehículo y de la batería de alta tensión, eficacia del aire acondicionado, limpieza de las guías inferiores de las puertas correderas, estado de cables y toma de carga, sustitución del filtro del habitáculo y reinicio del indicador de servicio"}, {"costeAproxEur": null, "nombre": "Revisión de los 40.000 km o 2 años", "queSeCambia": "Mismas comprobaciones de diagnóstico, batería de alta tensión, cables y toma de carga y guías de puertas correderas; sustitución del filtro del habitáculo y cambio del líquido de frenos, que el manual fija cada 2 años"}, {"costeAproxEur": null, "nombre": "Revisiones de los 80.000 km o 4 años y siguientes", "queSeCambia": "Se repite el plan cada 40.000 km o 2 años: diagnóstico completo, revisión del sistema de alta tensión y de la toma de carga, filtro del habitáculo nuevo y líquido de frenos cada 2 años"}]},
   },
   {
     id: "fiat-e-ulysse-2024-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "Jz065Hl-g_E",
     videoCanal: "PanoramaMotor",
     marca: "Fiat",
@@ -826,7 +710,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 4.97,
@@ -840,24 +724,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      {
-        src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Fiat E-Ulysse blanco, vista lateral con puertas correderas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Fiat E-Ulysse, 8 asientos en tres filas",
-        ancho: 1920,
-        alto: 1280
-      },
-      {
-        src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Fiat E-Ulysse gris oscuro frente a hotel moderno",
-        ancho: 1920,
-        alto: 1280
-      }
+      
+      
+      
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/ulysse/2024/talla-m/electrico/e-ulysse-talla-m-75-kwh/datos",
@@ -971,7 +840,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "KF453rBFPSU",
     videoCanal: "coches.net",
     marca: "Fiat",
@@ -1033,7 +902,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Fiat Grande Panda eléctrico",
         "ancho": 1920,
         "alto": 1280
@@ -1052,7 +921,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "IOOH6JyEJII",
     videoCanal: "VisionMotor",
     marca: "Fiat",
@@ -1114,7 +983,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Fiat 600 Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1133,7 +1002,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -1174,7 +1043,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 192,
     aprox: ["precioDesde", "pesoKg", "consumo", "velocidadMax", "emisionesCo2"],
-    imagen: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 12.05,
@@ -1189,19 +1058,19 @@ export const COCHES_FIAT: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Fiat Ulysse 2.0 BlueHDi, vista lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 8 plazas del Fiat Ulysse",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Fiat Ulysse en carretera",
         "ancho": 1920,
         "alto": 1280
@@ -1214,7 +1083,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "6jxEU4SaL-Y",
     videoCanal: "AutoScout24",
     marca: "Fiat",
@@ -1276,7 +1145,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Fiat 500e 3+1",
         "ancho": 1920,
         "alto": 1280
@@ -1295,7 +1164,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -1357,7 +1226,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Fiat Tipo Cross Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -1376,7 +1245,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Fiat",
@@ -1438,7 +1307,7 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Fiat Doblò",
         "ancho": 1920,
         "alto": 1280

@@ -10,8 +10,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "We9Q85HGCA8",
     videoCanal: "coches.net",
     marca: "Ferrari",
@@ -52,7 +52,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 27.75,
@@ -67,19 +67,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari 12Cilindri rojo, tres cuartos delantero en carretera italiana",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari 12Cilindri, vista lateral del gran turismo V12",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Ferrari 12Cilindri con volante de mandos y pantallas",
         "ancho": 1920,
         "alto": 1280
@@ -92,7 +92,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -160,7 +160,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 1184
       },
       {
-        "src": "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Ferrari 12Cilindri Spider con el cielo abierto",
         "ancho": 1920,
         "alto": 1280
@@ -173,7 +173,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-purosangue-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-purosangue-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -241,7 +241,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-purosangue-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de cuatro plazas del Ferrari Purosangue",
         "ancho": 1920,
         "alto": 1280
@@ -254,7 +254,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -322,7 +322,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Ferrari 296 GTB con volante de mandos",
         "ancho": 1920,
         "alto": 1280
@@ -334,8 +334,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -376,7 +376,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 18.5,
@@ -391,19 +391,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari 296 GTS azul descapotado en carretera costera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-296-gts-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari 296 GTS, vista lateral con techo duro bajado",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-296-gts-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Ferrari 296 GTS con el cielo abierto",
         "ancho": 1920,
         "alto": 1280
@@ -415,8 +415,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -457,7 +457,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 18.5,
@@ -472,19 +472,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari 296 Speciale verde Nürburgring en el circuito de Fiorano",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari 296 Speciale, vista lateral con franjas de carreras",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de carreras del Ferrari 296 Speciale con carbono expuesto",
         "ancho": 1920,
         "alto": 1280
@@ -598,7 +598,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -666,7 +666,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 912
       },
       {
-        "src": "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior tecnológico del Ferrari SF90 Stradale con pantallas digitales",
         "ancho": 1920,
         "alto": 1280
@@ -678,8 +678,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -720,7 +720,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 20.35,
@@ -735,19 +735,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari SF90 Spider negro descapotado al atardecer en la costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari SF90 Spider, vista lateral con capota bajada",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Ferrari SF90 Spider con el techo abierto",
         "ancho": 1920,
         "alto": 1280
@@ -759,8 +759,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -801,7 +801,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 22.2,
@@ -816,19 +816,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari SF90 XX Stradale con alerón trasero en el circuito de Fiorano",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari SF90 XX Stradale, vista lateral con kit aerodinámico extremo",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de competición del Ferrari SF90 XX Stradale",
         "ancho": 1920,
         "alto": 1280
@@ -840,8 +840,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -882,7 +882,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 22.2,
@@ -897,19 +897,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari SF90 XX Spider descapotado en el circuito de Fiorano",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari SF90 XX Spider, vista lateral con alerón de competición",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Ferrari SF90 XX Spider, vista trasera de tres cuartos con alerón",
         "ancho": 1920,
         "alto": 1280
@@ -921,8 +921,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -963,7 +963,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 22.2,
@@ -978,19 +978,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari Roma Spider blanco descapotado en las calles de Roma",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari Roma Spider, vista lateral con capota de lona bajada",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior elegante del Ferrari Roma Spider con asientos de cuero",
         "ancho": 1920,
         "alto": 1280
@@ -1002,8 +1002,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1044,7 +1044,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 21.27,
@@ -1059,19 +1059,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari Amalfi azul en la costa de Amalfi al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-amalfi-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari Amalfi, vista lateral del coupé gran turismo",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-amalfi-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior 2+2 del Ferrari Amalfi con acabados deportivos",
         "ancho": 1920,
         "alto": 1280
@@ -1083,8 +1083,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "UbGlWuxb1Qw",
     videoCanal: "Charles Leclerc",
     marca: "Ferrari",
@@ -1125,7 +1125,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde", "velocidadMax"],
-    imagen: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 27.75,
@@ -1140,19 +1140,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari Daytona SP3 rojo en el circuito de Daytona al amanecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari Daytona SP3, vista lateral del prototipo Icona",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior minimalista del Ferrari Daytona SP3",
         "ancho": 1920,
         "alto": 1280
@@ -1266,7 +1266,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-roma-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-roma-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "q3LE8cl0IwE",
     videoCanal: "Actualidad Motor",
     marca: "Ferrari",
@@ -1334,7 +1334,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/ferrari-roma-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ferrari Roma con doble cabina y pantallas digitales",
         "ancho": 1200,
         "alto": 800
@@ -1346,8 +1346,8 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1388,7 +1388,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 20.35,
@@ -1403,19 +1403,19 @@ export const COCHES_FERRARI: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ferrari Amalfi Spider descapotado en la costa amalfitana al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ferrari Amalfi Spider, vista lateral con la capota de lona bajada",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ferrari Amalfi Spider con volante de botones físicos",
         "ancho": 1200,
         "alto": 800
@@ -1428,7 +1428,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-luce-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-luce-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1496,7 +1496,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/ferrari-luce-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior minimalista del Ferrari Luce con pantallas OLED",
         "ancho": 1200,
         "alto": 800
@@ -1509,7 +1509,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1577,7 +1577,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de competición del 296 Speciale Piloti con Alcántara ignífuga",
         "ancho": 1200,
         "alto": 800
@@ -1590,7 +1590,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-812-gts-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-812-gts-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1658,7 +1658,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/ferrari-812-gts-2024-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ferrari 812 GTS con asientos deportivos",
         "ancho": 1200,
         "alto": 800
@@ -1671,7 +1671,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ferrari",
@@ -1739,7 +1739,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del 12Cilindri Manuale con la palanca de rejilla",
         "ancho": 1200,
         "alto": 800

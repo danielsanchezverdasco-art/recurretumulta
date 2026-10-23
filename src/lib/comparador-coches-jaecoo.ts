@@ -27,7 +27,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "uW_o8mkQKw4",
     videoCanal: "SoyMotor",
     marca: "Jaecoo",
@@ -102,13 +102,13 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 7 gasolina, vista lateral en carretera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 7 gasolina",
         "ancho": 1920,
         "alto": 1280
@@ -120,8 +120,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Jaecoo",
@@ -162,7 +162,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 125,
     aprox: [],
-    imagen: "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "Por un lado, la velocidad máxima es de 180 km/h, con una aceleración de 0 a 100 km/h en 8,3 segundos. Por otro lado, el consumo medio homologado es de 5,3 litros cada 100 km.",
@@ -190,19 +190,19 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 7 SHS híbrido, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 7 SHS híbrido, vista trasera en costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 7 SHS híbrido",
         "ancho": 1920,
         "alto": 1280
@@ -214,8 +214,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "mrAvlRIU-VE",
     videoCanal: "Periodismo del Motor",
     marca: "Jaecoo",
@@ -256,7 +256,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 120,
     aprox: [],
-    imagen: "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "El JAECOO 5 SHS es, sin duda, uno de los híbridos más interesantes del segmento C en 2026. Su sistema Super Hybrid System de 224 CV funciona de forma suave y refinada, con un consumo real muy cercano al homologado (5,5-5,7 l/100 km).",
@@ -284,19 +284,19 @@ export const COCHES_JAECOO: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 5 SHS híbrido, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 5 SHS híbrido, vista lateral en ciudad",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 5 SHS híbrido",
         "ancho": 1920,
         "alto": 1280
@@ -309,7 +309,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Jaecoo",
@@ -325,20 +325,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 60.9,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "402 km WLTP con batería LFP de 60,9 kWh desde 35.500 € (23.066 € con Plan Auto+)",
-      "Carga rápida de 130 kW (30-80 % en 28 min) y V2L de serie",
-      "211 CV y 7,7 s en el 0-100: el Jaecoo 5 más rápido",
-      "Etiqueta Cero: acceso libre a todas las ZBE y aparcamiento bonificado",
-      "Bomba de calor y frontal carenado exclusivo del eléctrico",
-    ],
-    contras: [
-      "1.785 kg: 265 kg más que el gasolina, se notan en curvas",
-      "175 km/h de velocidad máxima: limitado para autopista",
-      "El MG S5 rival carga a 139 kW y ofrece hasta 480 km",
-      "Consumo de 16,5 kWh/100 km: mejorable frente a rivales",
-      "En viajes largos hay que planificar las paradas de carga",
-    ],
+    pros: ["Su batería LFP de 60,9 kWh homologa 402 kilómetros WLTP, suficientes para cubrir una semana de trayectos urbanos sin enchufarlo a diario.", "Recupera del 30 al 80 por ciento en 28 minutos gracias a sus 130 kW en continua, un pico superior al de otros mercados, donde se queda en 80 kW.", "Con 211 CV y 288 Nm empuja con decisión: firma el 0 a 100 en 7,7 segundos y adelanta sin titubeos en carreteras de doble sentido.", "La función V2L permite alimentar herramientas, una nevera portátil o material de camping directamente desde el puerto de carga del coche.", "El distintivo Cero de la DGT abre las zonas de bajas emisiones españolas y la bomba de calor protege la autonomía cuando aprieta el invierno."],
+    contras: ["Frente al MG S5 eléctrico pierde la partida en viaje: su rival anuncia hasta 480 km WLTP y admite 139 kW, nueve más que este Jaecoo.", "Sus 1.785 kilos condicionan el paso por rotondas y enlaces: la carrocería inclina y los frenos trabajan más que en el gasolina equivalente.", "El gasto homologado de 16,5 kWh cada 100 km queda por encima de lo que firman eléctricos compactos más ligeros y aerodinámicos.", "La punta se detiene en 175 km/h y en incorporaciones largas a autopista el empuje inicial se va diluyendo poco a poco.", "Todavía carece de veredicto Euro NCAP propio: ni el 5 ni su variante E5 británica han pasado por el laboratorio europeo de choques."],
     largoMm: 4380,
     anchoMm: 1860,
     altoMm: 1650,
@@ -384,26 +372,28 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 5 EV, vista lateral en Madrid",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Jaecoo 5 EV",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Omoda & Jaecoo España (omodajaecoo.es) cita en sus promociones vigentes el plan de mantenimiento oficial del vehículo, con plazos y kilometrajes, e incluye los tres primeros mantenimientos en campaña, pero no publica el intervalo concreto del Jaecoo 5 EV ni tarifas de revisión (verificado el 22/10/2026)", "intervalo": "Sin intervalo publicado en abierto por Jaecoo España para el 5 EV (verificado el 22/10/2026): la marca confirma que existe un plan oficial con plazos y kilometrajes, pero no detalla ese intervalo en su web española", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada en Servicio Oficial Omoda & Jaecoo", "queSeCambia": "Inspección general del eléctrico: batería de alta tensión y su circuito de refrigeración, frenos, filtro del habitáculo, batería auxiliar de 12 V y actualización de software; sin cambio de aceite porque no hay motor térmico"}]},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: el Jaecoo 5, incluida esta versión EV (vendida como E5 en Reino Unido), no ha sido sometido a las pruebas de Euro NCAP; las cinco estrellas del Jaecoo 7 y del Omoda 5 no son transferibles a este modelo (verificado el 22/10/2026).", "url": null},
   },
   {
     id: "jaecoo-8-shs-2026-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "et30-pnlgr0",
     videoCanal: "SoyMotor",
     marca: "Jaecoo",
@@ -419,20 +409,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 34.46,
     cargaRapidaKw: 70,
     etiquetaDgt: "Cero",
-    pros: [
-      "428 CV y 134 km eléctricos: el PHEV con más autonomía eléctrica del segmento D",
-      "Carga rápida de 70 kW en continua (30-80 % en ~19 min), rara en un híbrido",
-      "5 o 7 plazas con maletero de 738 L: auténtico SUV familiar",
-      "Suspensión electromagnética CDC y tracción total con modos off-road",
-      "Desde 54.900 €: muy por debajo de un X5 o GLE PHEV equivalentes",
-    ],
-    contras: [
-      "2.304 kg: el peso se nota en consumo y agilidad",
-      "Velocidad máxima limitada a 180 km/h",
-      "Marca aún poco conocida en el segmento premium",
-      "Con las 7 plazas desplegadas el maletero baja a 200 L",
-      "Depreciación incierta en un segmento donde la marca pesa mucho",
-    ],
+    pros: ["Sus 134 km en modo eléctrico WLTP dejan atrás a cualquier otro enchufable de su tamaño y de su precio", "Acepta 70 kW en continua y pasa del 30 al 80 % en unos 19 minutos durante una parada en ruta, algo casi inédito entre los híbridos enchufables", "5 o 7 plazas con maletero de 738 L: auténtico SUV familiar", "Suspensión electromagnética CDC y tracción total con modos off-road", "Desde 54.900 €: muy por debajo de un X5 o GLE PHEV equivalentes"],
+    contras: ["En corriente alterna solo admite 6,6 kW: llenar en casa la batería de 34,46 kWh lleva más de cinco horas y no aprovecha una instalación trifásica", "Su punta se queda en 180 km/h, corta para un conjunto de 428 CV", "Marca aún poco conocida en el segmento premium", "Con las 7 plazas desplegadas el maletero baja a 200 L", "Depreciación incierta en un segmento donde la marca pesa mucho"],
     largoMm: 4820,
     anchoMm: 1930,
     altoMm: 1710,
@@ -444,7 +422,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 47,
     aprox: [],
-    imagen: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [
       {
         "texto": "Por tamaño, por acabados, por rendimiento y por algunas cosas más está por encima de la media. Y desde luego que se revela como una opción muy a tener en cuenta para aquellos que quieran dar un salto hacia adelante sin tener que afrontar los precios de los fabricantes alemanes.",
@@ -459,31 +437,23 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "url": "https://periodismodelmotor.com/prueba-en-video-del-jaecoo-8-shs/422141/"
       }
     ],
-    costeMensual: {
-      "costeEnergia100km": 5.7,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 500,
-      "costeMensualTotal": 211,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "mixto estimado: 2,1 l/100 km + recarga parcial en casa (0,18 EUR/kWh); 15.000 km/año",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 5.7, "costeMensualTotal": 211, "estimado": true, "mantenimientoAnual": 500, "notas": "Escenario propio de esta ficha: 15.000 km anuales con tarifa doméstica de 0,18 €/kWh para las recargas y el dato WLTP de 2,1 l/100 km cuando trabaja el motor térmico; sin cargar la batería de 34,46 kWh, el gasto real sube con claridad", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1000, "seguroTercerosAnual": 550},
     galeria: [
       {
-        "src": "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Jaecoo 8 SHS, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Jaecoo 8 SHS, vista trasera al atardecer",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado (21/10/2026)", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Datos CAP del Jaecoo 8 SHS publicados por Carwow Leasey (intervalo de 12 meses / 10.000 millas) y operaciones del mantenimiento programado de OMODA & JAECOO España (omodajaecoo.es); sin precio cerrado de revisión publicado para España", "intervalo": "Cada 12 meses o 16.000 km, lo que ocurra antes (10.000 millas en los datos CAP británicos del Jaecoo 8 SHS)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual / 16.000 km", "queSeCambia": "Cambio de aceite y de filtros, revisión de frenos y comprobación general del vehículo, las operaciones programadas que OMODA & JAECOO España incluye en sus mantenimientos"}]},
   },
   {
     id: "jaecoo-6-ev-2026-precio-ficha-tecnica",
@@ -491,7 +461,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-1.webp",
-    imagenInteriorOficial: "",
+    imagenInteriorOficial: "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-interior.webp",
     videoId: "iwc5mIbG_1s",
     videoCanal: "Wheelsboy",
     marca: "Jaecoo",
@@ -508,20 +478,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 65.69,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "184 CV y 220 Nm: la versión trasera del SUV caja eléctrico",
-      "400 km WLTP con la batería de 65,69 kWh (MotorGuide Sri Lanka)",
-      "Carga rápida de 80 kW: del 30 al 80 % en unos 30 minutos",
-      "Maletero de 450 litros y chasis de aluminio con modo 540°",
-      "Garantía de batería publicada: 8 años o 160.000 km",
-    ],
-    contras: [
-      "No se vende en Europa: solo Asia, Latinoamérica y Oceanía",
-      "10,5 s de 0-100: el menos prestacional de la gama",
-      "La aerodinámica de caja penaliza la autonomía en autopista",
-      "Precio convertido de China (109.800 ¥), sin precio español",
-      "Sin prueba EuroNCAP",
-    ],
+    pros: ["Un solo motor, y detrás: 184 CV y 220 Nm empujando desde el eje trasero, sin el motor delantero ni el peso extra de la versión de tracción total", "Batería LFP de 65,69 kWh, una química elegida por durabilidad en este modelo concreto, con garantía de batería publicada de 8 años o 160.000 km", "Carga rápida de 80 kW que pasa del 30 al 80 % en unos 30 minutos y función V2L de 3,3 kW para alimentar aparatos externos desde el coche", "Formato caja muy aprovechado: solo 4.342 mm de largo en esta versión trasera, 1.910 mm de ancho y aun así 450 litros de maletero para cinco ocupantes", "Pantalla central de 15,6 pulgadas con procesador Qualcomm Snapdragon 8155, un hardware concreto que se nota en la rapidez del sistema frente a chips más modestos"],
+    contras: ["10,5 segundos de 0 a 100 km/h y 150 km/h de punta: es, con diferencia, la versión lenta del 6 EV, porque la de tracción total anuncia 6,5 segundos", "En España no se puede comprar: no hay precio oficial en euros ni red que lo venda aquí, y la cifra de esta ficha es una conversión desde los 109.800 yuanes de China", "La carga en alterna se queda en 6,6 kW, poco para una batería de 65,69 kWh si dependes de un wallbox, y la silueta cuadrada castiga el consumo en autopista", "Sin prueba EuroNCAP: no existe una nota de estrellas que respalde su seguridad, solo el equipamiento declarado por la marca en cada mercado"],
     largoMm: 4342,
     anchoMm: 1910,
     altoMm: 1715,
@@ -564,15 +522,22 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alt": "Jaecoo 6 EV, detalle del frontal tipo Defender",
         "ancho": 800,
         "alto": 450
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-foto2.webp",
+        "alt": "Jaecoo 6 EV, SUV eléctrico de diseño caja en vista de estudio",
+        "ancho": 1024,
+        "alto": 1024
+      },
+      {
+        "src": "/media/jaecoo-6-ev-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Jaecoo 6 EV en pista de tierra",
+        "ancho": 800,
+        "alto": 450
       }
     ],
     analisisSlug: "jaecoo-6-ev-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)"
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: el Jaecoo 6 EV / J6 no consta como modelo probado por EuroNCAP; la nota de cinco estrellas que circula de la marca corresponde al Jaecoo J7 SHS, un modelo distinto, y no es trasladable a este coche."},
     planMantenimiento: null,
     fuenteNombre: "Jaecoo Tailandia (ficha oficial) + SGCarMart / Omoda&Jaecoo Singapur",
     fuenteUrl: "https://imgcdn.zigwheels.co.th/brochures/116/3843/jaecoo-6-ev-754122.pdf",
@@ -600,20 +565,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
     bateriaKwh: 69.77,
     cargaRapidaKw: 80,
     etiquetaDgt: "Cero",
-    pros: [
-      "279 CV y 385 Nm: 0-100 en 6,5 s con tracción total",
-      "342 km WLTP con batería LFP de 69,77 kWh (Asphalt SG)",
-      "Carga rápida de 80 kW: del 30 al 80 % en 30 minutos",
-      "9 modos de conducción, chasis de 540° y función V2L",
-      "Garantía de batería publicada: 8 años o 160.000 km",
-    ],
-    contras: [
-      "No se vende en Europa: solo Asia, Latinoamérica y Oceanía",
-      "Precio convertido de China (139.800 ¥ el iCar 03 4WD), sin precio español",
-      "1.875 kg de peso por la batería de 69,77 kWh",
-      "La aerodinámica de caja limita la autonomía en autopista",
-      "Sin prueba EuroNCAP",
-    ],
+    pros: ["No es un motor con un extra delante: el delantero aporta 95 CV y 165 Nm y el trasero, 184 CV y 220 Nm; juntos dan los 279 CV y 385 Nm de la ficha y el 0-100 km/h en 6,5 s, algo que la versión de tracción simple no puede firmar.", "La batería de 69,77 kWh es la grande de la gama y en China solo se ofrecía con tracción total: con ella la ficha homologa 342 km WLTP, frente a los 501 km CLTC que el iCAR 03 AWD declaraba en su mercado de origen.", "Pensado para salir del asfalto sin ser un todoterreno puro: nueve modos de conducción, cámara de 540° con chasis transparente y función V2L de 3,3 kW para alimentar equipo en una escapada.", "El maletero se queda en 450 litros pese a llevar motor también delante, y suma el cofre exterior trasero: en un coche de solo 4.406 mm de largo, ese aprovechamiento se nota en uso real.", "La batería LFP tiene garantía publicada de 8 años o 160.000 km, un dato comprobable en la ficha y especialmente relevante en un modelo que solo podrás traer de mercados lejanos."],
+    contras: ["En España no se vende: Jaecoo lo destina a Asia, Latinoamérica y Oceanía, y el precio de la ficha es una conversión desde los 139.800 yuanes del iCAR 03 4WD chino, no un PVP español con red y posventa detrás.", "Su silueta de caja cobra peaje: 23,7 kWh/100 km de consumo declarado, velocidad punta limitada a 150 km/h y una autonomía de autopista que caerá claramente por debajo de los 342 km WLTP.", "Cargar no es su fuerte para ser un eléctrico de 2026: 80 kW en continua, con el 30-80 % en 30 minutos, y solo 6,6 kW en alterna según la especificación de Singapur, unas 10,5 horas para una carga completa.", "Pesa 1.875 kg y, como comprobó Asphalt SG en pista de tierra, le falta articulación de ruedas para un fuera de pista serio: los nueve modos ayudan a traccionar, pero no lo convierten en un Defender eléctrico, y Euro NCAP nunca lo ha probado."],
     largoMm: 4406,
     anchoMm: 1910,
     altoMm: 1715,
@@ -659,12 +612,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
       }
     ],
     analisisSlug: "jaecoo-6-ev-awd-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)"
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP localizada para el Jaecoo J6 / iCAR 03 a 21/10/2026: en euroncap.com solo consta el Jaecoo 7 PHEV, un modelo distinto. No trasladar sus estrellas a esta versión AWD."},
     planMantenimiento: null,
     fuenteNombre: "Asphalt SG / Motorist SG + Jaecoo Tailandia (ficha oficial)",
     fuenteUrl: "https://asphaltsg.com/2025-jaecoo-j6-electric-awd-69-77kwh-review-jewel-in-a-box/",

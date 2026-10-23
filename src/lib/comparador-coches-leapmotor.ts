@@ -17,7 +17,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ZqtIcT12AVg",
     videoCanal: "carwow.es",
     marca: "Leapmotor",
@@ -85,7 +85,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-c10-reev-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C10 REEV",
         "ancho": 1920,
         "alto": 1280
@@ -97,8 +97,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Leapmotor",
@@ -139,7 +139,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.5,
@@ -154,19 +154,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor B10 REEV, vista de estudio",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor B10 REEV en carretera de costa",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor B10 REEV",
         "ancho": 1920,
         "alto": 1280
@@ -267,7 +267,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-b03x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-b03x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "paZqRIT0AwU",
     videoCanal: "coches-electricos.org",
     marca: "Leapmotor",
@@ -335,7 +335,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/leapmotor-b03x-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Leapmotor B03X",
         "ancho": 1920,
         "alto": 1280
@@ -347,8 +347,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2Aj6jloVenw",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -389,7 +389,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["autonomiaKm", "precioDesde"],
-    imagen: "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.33,
@@ -404,19 +404,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor C01, berlina eléctrica en vista de estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor C01 circulando por carretera al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C01 con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -429,7 +429,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2Aj6jloVenw",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -495,7 +495,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c01-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C01 EREV",
         "ancho": 1200,
         "alto": 800
@@ -587,7 +587,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c11-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c11-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "S7J5MoB8IaY",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -603,18 +603,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     bateriaKwh: 81.9,
     cargaRapidaKw: null,
     etiquetaDgt: null,
-    pros: [
-      "Facelift 2025 con batería de 81,9 kWh y 640 km CLTC",
-      "299 CV, 0-100 en 6,1 s y 190 km/h de punta",
-      "SUV de 4,78 m con 5 plazas amplias",
-      "Arquitectura de 800 V con carga rápida",
-    ],
-    contras: [
-      "No se vende en Europa: la gama europea apuesta por C10 y B10",
-      "640 km CLTC equivalen a unos 520-540 km WLTP estimados",
-      "Sin fecha de llegada a España",
-      "2.110 kg: el peso lastra la eficiencia",
-    ],
+    pros: ["Fue el todocamino que colocó a Leapmotor en el mapa chino y su renovación de 2025 lo deja, en esta versión eléctrica pura, con un paquete de 81,9 kWh y 640 km anunciados en ciclo CLTC", "Propulsión trasera con 360 Nm y 299 CV: acelera de 0 a 100 km/h en 6,1 segundos, un registro con el que planta cara sobre el papel a un Tesla Model Y o a un XPeng G6", "Mide 4.780 mm de largo por 1.905 mm de ancho y ofrece cinco asientos en clave familiar, el espacio que en Europa la marca cubre con el C10", "Trabaja sobre una instalación eléctrica de 800 voltios pensada para recargas veloces, una solución habitual en segmentos superiores y poco frecuente en su franja de origen"],
+    contras: ["Leapmotor lo reserva para su mercado doméstico: el escaparate español lo ocupan T03, B10 y C10, y este hermano mayor queda fuera de esa oferta", "La cifra de 640 km procede del ciclo CLTC chino, especialmente benévolo, por lo que no debe leerse como autonomía esperable en autovía española", "Hoy la única vía para tener uno aquí sería la importación particular, porque la marca no ha comunicado calendario alguno para comercializarlo en nuestro país", "Sus 2.110 kg se dejan notar frente a eléctricos europeos más ligeros: penalizan consumo, frenadas y agilidad en carreteras de curvas"],
     largoMm: 4780,
     anchoMm: 1905,
     altoMm: 1658,
@@ -653,7 +643,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c11-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C11",
         "ancho": 1200,
         "alto": 800
@@ -666,7 +656,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "S7J5MoB8IaY",
     videoCanal: "Borderless Car",
     marca: "Leapmotor",
@@ -682,18 +672,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     bateriaKwh: 41.7,
     cargaRapidaKw: null,
     etiquetaDgt: null,
-    pros: [
-      "41,7 kWh y 300 km eléctricos CLTC",
-      "272 CV y 320 Nm con 0-100 en 7,6 s",
-      "Autonomía total superior a 1.000 km",
-      "SUV familiar de 4,78 m",
-    ],
-    contras: [
-      "Solo a la venta en China",
-      "El generador 1.5 eleva el consumo en autopista",
-      "2.090 kg: el peso lastra la eficiencia",
-      "300 km en ciclo CLTC: el WLTP equivalente sería menor",
-    ],
+    pros: ["Presentado en Guangzhou como tercer lanzamiento de la joven Leapmotor, en esta variante deja de depender únicamente del enchufe: primero consume la energía acumulada y, si el viaje se alarga, un bloque de gasolina entra únicamente para producir electricidad y sostener la marcha", "Su conjunto trasero entrega 272 CV junto a 320 Nm, combinación que le permite completar la aceleración hasta 100 km/h en 7,6 segundos sin renunciar a un planteamiento claramente familiar", "La parte enchufable resulta especialmente aprovechable en uso cotidiano, porque la batería de 41,7 kWh anuncia 300 km bajo ciclo CLTC, mientras el apoyo del generador estira el alcance conjunto por encima del millar de kilómetros entre cargas y repostajes", "Frente a alternativas de autonomía extendida como el Deepal S07 o a híbridos enchufables como el BYD Seal U DM-i, defiende un formato grande —4.780 mm de largo por 1.905 mm de ancho y cinco plazas— con un precio de partida aproximado de 18.800 euros que, en su mercado de origen, queda muy por debajo de lo habitual en esta categoría"],
+    contras: ["Su comercialización permanece limitada al mercado chino, de modo que desde España no existe compra oficial posible y cualquier unidad llegaría por importación particular, sin red de la marca detrás para posventa o recambios", "Agotada la carga en autovía, mantener ritmos altos obliga a trabajar de forma continuada al generador de 1,5 litros, circunstancia en la que el apetito de gasolina crece y desaparece buena parte del ahorro logrado en ciudad", "Mover 2.090 kg tiene peaje dinámico: la inercia se percibe al frenar y al enlazar curvas, y tanto neumáticos como equipo de frenos soportan un esfuerzo propio de un vehículo notablemente más pesado que un SUV compacto", "La cifra eléctrica de 300 km procede de la homologación china CLTC, un protocolo benévolo; interpretada con criterio WLTP europeo sería inferior, así que conviene descontar margen antes de planificar trayectos reales sin recargar"],
     largoMm: 4780,
     anchoMm: 1905,
     altoMm: 1658,
@@ -732,7 +712,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c11-erev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C11 EREV",
         "ancho": 1200,
         "alto": 800
@@ -745,7 +725,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-c16-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c16-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2v0ZN9SPQhw",
     videoCanal: null,
     marca: "Leapmotor",
@@ -761,18 +741,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     bateriaKwh: 67.7,
     cargaRapidaKw: null,
     etiquetaDgt: null,
-    pros: [
-      "SUV de 6 plazas con 292 CV y 520 km CLTC",
-      "Batería de 67,7 kWh con carga rápida",
-      "4,92 m con tres filas utilizables",
-      "0-100 en 6,37 s para un familiar de 6 plazas",
-    ],
-    contras: [
-      "No se vende en Europa",
-      "520 km CLTC equivalen a unos 430 km WLTP estimados",
-      "Tercera fila justa para adultos en viajes largos",
-      "Sin datos de maletero publicados",
-    ],
+    pros: ["Seis plazas repartidas en tres filas para familias que en Europa mirarían un Kia EV9 y aquí encuentran una propuesta china mucho más asequible, con 19500 euros como precio de partida en su mercado de origen", "Su propulsor trasero rinde 292 CV y 360 Nm, una reserva de empuje sobrada para viajar con seis ocupantes sin que las incorporaciones a vías rápidas se hagan eternas", "La batería de 67,7 kWh anuncia 520 km en ciclo CLTC, alcance suficiente sobre el papel para encadenar una semana de trayectos escolares y laborales sin vivir pegado al enchufe", "Acelera de 0 a 100 km/h en 6,37 segundos, un registro más propio de un compacto deportivo que de un SUV de 4915 mm pensado para acomodar también a los abuelos atrás"],
+    contras: ["Leapmotor International, la sociedad impulsada junto a Stellantis, no lo ha incluido en su catálogo europeo: en España no existe concesionario que lo comercialice, lo mantenga ni lo garantice oficialmente", "La autonomía homologada bajo el ciclo chino CLTC resulta optimista frente al WLTP europeo, por lo que la distancia útil en autopista quedaría sensiblemente por debajo de lo anunciado", "Como sucede en casi cualquier seis plazas de este formato, los ocupantes adultos de mayor estatura irán encogidos en la última fila si el desplazamiento se alarga durante horas", "La ficha carece de dato oficial de maletero, un vacío especialmente molesto en un modelo cuya compra se justifica precisamente por capacidad cuando viajan todas las plazas ocupadas"],
     largoMm: 4915,
     anchoMm: 1905,
     altoMm: 1770,
@@ -811,7 +781,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C16 con tres filas de asientos",
         "ancho": 1200,
         "alto": 800
@@ -902,8 +872,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2v0ZN9SPQhw",
     videoCanal: null,
     marca: "Leapmotor",
@@ -942,7 +912,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: ["autonomiaKm", "precioDesde"],
-    imagen: "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.6,
@@ -957,19 +927,19 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Leapmotor C16 EREV 280, vista de estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Leapmotor C16 EREV 280 en carretera",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor C16 EREV 280",
         "ancho": 1200,
         "alto": 800
@@ -982,7 +952,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/leapmotor-d19-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/leapmotor-d19-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "Nxf3k8-BBhk",
     videoCanal: "DPCcars",
     marca: "Leapmotor",
@@ -1048,7 +1018,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/leapmotor-d19-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Leapmotor D19",
         "ancho": 1200,
         "alto": 800
@@ -1077,18 +1047,8 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     bateriaKwh: 80.3,
     cargaRapidaKw: null,
     etiquetaDgt: null,
-    pros: [
-      "80,3 kWh: 500 km eléctricos CLTC, récord en un EREV",
-      "1.300 km de autonomía total",
-      "536 CV (400 kW) con arquitectura de 800 V",
-      "SUV insignia de 5,25 m",
-    ],
-    contras: [
-      "Sin fecha de lanzamiento ni precio",
-      "El peso de la doble mecánica penaliza la eficiencia",
-      "No confirmado para Europa",
-      "500 km en ciclo CLTC: el WLTP equivalente sería menor",
-    ],
+    pros: ["Lleva una batería de 80,3 kWh enorme para un extensor de autonomía, así que cubre la rutina diaria como eléctrico puro durante 500 km CLTC sin arrancar gasolina", "Estrena la serie D por todo lo alto: carrocería de 5.250 mm pensada para medirse con BMW X7 y Mercedes-Benz GLS sin complejos", "Entrega 536 CV con tracción total y red de 800 V, una combinación que lo acerca a eléctricos puros caros más que a híbridos enchufables al uso", "Precio estimado desde 27.400 euros para un buque insignia que en China reta directamente a Li Auto L9 y Zeekr 9X con mucho más equipamiento por euro"],
+    contras: ["Su llegada a concesionarios españoles sigue sin anuncio oficial, así que hoy comprarlo aquí es imposible y toca esperar a que Stellantis lo confirme", "Los 500 km anunciados salen del ciclo chino CLTC, bastante generoso: en homologación WLTP la cifra real caería de forma sensible", "Mantener dos sistemas propulsores completos encarece revisiones y averías, y rodar con la batería vacía dispara el gasto frente a un eléctrico puro equivalente", "Con 5.250 mm de largo aparcarlo en garajes urbanos españoles será una faena diaria, y su valor de reventa como marca aún joven es una incógnita"],
     largoMm: 5250,
     anchoMm: null,
     altoMm: null,

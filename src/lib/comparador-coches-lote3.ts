@@ -13,7 +13,7 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_LOTE3: CocheComparador[] = [
   {
     id: "ds-9-e-tense-2026-precio-ficha-tecnica",
-    marca: "DS",
+    marca: "DS Automobiles",
     modelo: "9 E-Tense",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",

@@ -17,8 +17,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "DBS0i1YG2N4",
     videoCanal: "elcerokm",
     marca: "Haval",
@@ -59,7 +59,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 167,
     aprox: [],
-    imagen: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 11.84,
@@ -74,24 +74,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Jolion Pro, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Jolion Pro, vista lateral en calle urbana europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-jolion-pro-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Jolion Pro, salpicadero con pantalla táctil",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-jolion-pro-2025-precio-ficha-tecnica",
   },
@@ -183,8 +168,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "nL0oCqGtxL0",
     videoCanal: "Autos de Primera",
     marca: "Haval",
@@ -225,7 +210,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 5.2,
@@ -240,24 +225,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H6 PHEV, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H6 PHEV, vista lateral en calle urbana europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-phev-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H6 PHEV, salpicadero con pantalla panorámica",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h6-phev-2025-precio-ficha-tecnica",
   },
@@ -369,8 +339,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h6-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h6-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -411,7 +381,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/haval-h6-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 12.96,
@@ -426,24 +396,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H6 cuarta generación, tres cuartos delantero en montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H6 cuarta generación, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h6-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H6, salpicadero digital con gran pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h6-2024-precio-ficha-tecnica",
   },
@@ -561,8 +516,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-h9-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-h9-2025-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -603,7 +558,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
-    imagen: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 16.8,
@@ -618,24 +573,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Haval H9, tres cuartos delantero en pista de tierra",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval H9, vista lateral en entorno rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-h9-2025-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval H9, salpicadero robusto con doble pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-h9-2025-precio-ficha-tecnica",
   },
@@ -953,8 +893,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -970,20 +910,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     bateriaKwh: 18.74,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Segunda generación del Dargo con versión enchufable",
-      "102 km de autonomía eléctrica con 18,74 kWh",
-      "Tracción total y motor eléctrico de 220 kW",
-      "Diseño aventurero con 4,7 metros de largo",
-      "Precio en China desde 179.800 yuanes (unos 23.400 €)",
-    ],
-    contras: [
-      "No se vende en España (solo China)",
-      "Peso de 2.075 kg por la batería",
-      "Datos de potencia combinada no publicados",
-      "Carga rápida no especificada oficialmente",
-      "Consumo en modo híbrido no homologado en WLTP",
-    ],
+    pros: ["Heredero directo del Big Dog chino, plantea la electrificación sin renunciar a esa silueta cuadrada y robusta que lo separa de un Toyota RAV4 o un Hyundai Tucson mucho más urbanos.", "Con 102 km eléctricos recogidos en ficha y una batería de 18,74 kWh, cubre la rutina diaria sin arrancar el térmico y luce etiqueta Cero.", "Los 299 CV y el reparto entre ambos ejes le dan un empuje que ni un Ford Kuga PHEV ni un MG HS enchufable igualan sobre el papel en este formato aventurero.", "Mide 4.705 mm de largo, 1.908 mm de ancho y 1.780 mm de alto, así que planta cara por tamaño a un Nissan X-Trail sin quedarse en SUV compacto.", "En su mercado de origen arranca en 23.374 euros según ficha, una tarifa que deja en evidencia lo que cuesta aquí cualquier enchufable equivalente de cinco plazas."],
+    contras: ["Quedarse en China lo convierte en objeto de deseo inalcanzable: sin red comercial española, ni homologación europea, ni recambios garantizados si alguien lo importase por su cuenta.", "Sus 2.075 kg lastran cualquier pretensión ágil en puerto o en pista, peaje inevitable de cargar batería, propulsión dual y tracción a las cuatro ruedas.", "La ficha deja en blanco el maletero, así que toca adivinar si ese portón tan vertical compensa de verdad frente a un Tucson o un Sportage familiares.", "Tampoco constan aceleración, velocidad punta ni potencia de recarga en corriente continua, huecos que impiden compararlo en serio con enchufables vendidos aquí.", "Sin cifra de consumo ni emisiones cuando se agota la batería, su etiqueta Cero no basta para saber cuánto gastará en un viaje largo por autovía."],
     largoMm: 4705,
     anchoMm: 1908,
     altoMm: 1780,
@@ -995,7 +923,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/haval-dargo-x-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 5.0,
@@ -1010,24 +938,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Dargo X, tres cuartos delantero en camino rural",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Dargo X, vista lateral en ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Dargo X, salpicadero moderno",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-dargo-x-2024-precio-ficha-tecnica",
   },
@@ -1244,8 +1157,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1261,20 +1174,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     bateriaKwh: 19.27,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "SUV enchufable con 252 CV y 375 Nm",
-      "110 km de autonomía eléctrica con 19,27 kWh",
-      "Consumo homologado de 1,39 l/100 km (versión gran batería)",
-      "Precio en China desde 139.800 yuanes (unos 18.200 €)",
-      "Diseño moderno y diferenciado de la gama Haval",
-    ],
-    contras: [
-      "No se vende en España (solo China)",
-      "Autonomía eléctrica en ciclo NEDC, optimista",
-      "Carga rápida no especificada oficialmente",
-      "Datos de maletero y aceleración no publicados",
-      "Marca con poca red de servicio fuera de China",
-    ],
+    pros: ["Entrega 375 Nm y suma 252 CV en esta variante de acceso, brío de sobra para incorporaciones y adelantamientos sin necesidad de saltar al hermano mayor", "Su pack de 19,27 kWh le permite firmar 110 km sin quemar gasolina, margen pensado para cubrir desplazamientos urbanos entre semana recargando en casa", "A batería llena declara un gasto irrisorio de 1,39 l/100 km, argumento central con el que Haval quiso plantar cara al BYD Song Pro DM-i", "En su mercado de origen arranca en 18.174 euros al cambio, posicionamiento agresivo para un cinco plazas enchufable con etiqueta Cero en la ficha", "Mide 4.600 mm de largo y se queda en tracción delantera: es el Xiaolong sensato y maniobrable, frente al Max, más grande y aparatoso"],
+    contras: ["Great Wall nunca lo homologó para Europa, así que hacerse con uno aquí exigiría importación particular y todo el papeleo por cuenta del comprador", "Esos 110 km llegan bajo el ciclo NEDC chino, mucho más benévolo que el WLTP europeo, por lo que la autonomía diaria real caerá bastante", "Ni siquiera se aclara qué potencia admite en carga rápida, un vacío incómodo si pretendías apoyarte en cargadores públicos durante viajes largos", "La marca no publicó ni volumen de maletero ni crono de aceleración, dos ausencias que impiden compararlo en serio frente a cualquier rival europeo", "Pesa 1.810 kg y, fuera de China, la asistencia queda en terreno incierto: sin red española, una avería híbrida puede suponer esperas largas por recambios"],
     largoMm: 4600,
     anchoMm: 1877,
     altoMm: 1675,
@@ -1286,7 +1187,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 4.2,
@@ -1301,24 +1202,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Xiaolong, tres cuartos delantero en carretera de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Xiaolong, vista lateral en calle urbana",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Xiaolong, salpicadero minimalista",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-xiaolong-2024-precio-ficha-tecnica",
   },
@@ -1327,8 +1213,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1344,20 +1230,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     bateriaKwh: 19.27,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Primer Haval con el sistema Hi4 de tracción total híbrida",
-      "279 CV y 585 Nm: 0-100 km/h en 6,8 segundos",
-      "105 km de autonomía eléctrica",
-      "Batalla de 2.800 mm: habitabilidad de segmento superior",
-      "Precio en China desde 159.800 yuanes (unos 20.800 €)",
-    ],
-    contras: [
-      "No se vende en España (solo China)",
-      "Autonomía eléctrica en ciclo NEDC, optimista",
-      "Peso de hasta 2.000 kg",
-      "Carga rápida no especificada oficialmente",
-      "Datos de maletero no publicados",
-    ],
+    pros: ["Estrena en Haval la arquitectura Hi4, que combina el motor de gasolina con dos propulsores eléctricos, uno por eje, para disponer de tracción a las cuatro ruedas también circulando sin emisiones", "Con 279 CV y 585 Nm declarados, completa el 0 a 100 km/h en 6,8 segundos, un registro más propio de un SUV de corte deportivo que de un enchufable familiar", "Los 105 km de alcance en modo eléctrico, apoyados en una batería de 19,27 kWh, permiten encadenar varios desplazamientos urbanos entre recargas sin arrancar el térmico", "Sus 4.758 mm de longitud y 1.895 mm de anchura se traducen en un habitáculo generoso para cinco ocupantes, por encima de lo habitual en rivales como el BYD Song Plus", "Etiqueta Cero y un importe de partida de 20.774 euros en su mercado de origen forman una combinación muy agresiva para un modelo de este tamaño con tracción total"],
+    contras: ["Su comercialización se limita a China, así que hacerse con uno en España obligaría a recurrir a la importación sin una red oficial que lo respalde aquí", "La cifra de alcance eléctrico procede del ciclo NEDC, bastante más benévolo que el WLTP europeo, por lo que en uso real cabe esperar una distancia sensiblemente inferior", "Marca 2.000 kg sobre la báscula, una masa elevada que penaliza la agilidad en curvas, las distancias de frenado y el desgaste de los neumáticos", "La marca no detalla qué potencia admite en carga rápida, un dato decisivo para saber si resulta práctico en viajes largos con paradas breves para recargar", "El volumen del maletero no consta en la información oficial recogida para esta ficha, lo que impide compararlo en igualdad frente a sus rivales directos chinos"],
     largoMm: 4758,
     anchoMm: 1895,
     altoMm: 1725,
@@ -1369,7 +1243,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde", "autonomiaKm"],
-    imagen: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 4.8,
@@ -1384,24 +1258,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Xiaolong Max, tres cuartos delantero en carretera",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Xiaolong Max, vista lateral en ciudad europea",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Xiaolong Max, triple pantalla",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-xiaolong-max-2024-precio-ficha-tecnica",
   },
@@ -1410,8 +1269,8 @@ export const COCHES_HAVAL: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-interior.webp",
+    imagenOficial: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Haval",
@@ -1452,7 +1311,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde", "consumo"],
-    imagen: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 9.92,
@@ -1467,24 +1326,9 @@ export const COCHES_HAVAL: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Haval Chitu, tres cuartos delantero en carretera urbana",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-oficial.webp",
-        alt: "Haval Chitu, vista lateral en calle de ciudad",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/haval-chitu-2024-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Haval Chitu, salpicadero compacto",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
+      
     ],
     analisisSlug: "haval-chitu-2024-precio-ficha-tecnica",
   },

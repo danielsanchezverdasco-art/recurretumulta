@@ -1772,20 +1772,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Perfilada de 6,40 m: compacta para ser una autocaravana con baño",
-      "Precio orientativo de ~69.900 € en España: de las perfiladas más asequibles",
-      "2.2 de 140 CV sobre Fiat Ducato: mecánica probadísima",
-      "Cama transversal trasera y baño completo",
-      "Marca francesa del grupo Trigano con buena red en Europa",
-    ],
-    contras: [
-      "Precio orientativo: el PVP final depende del concesionario y los extras",
-      "Etiqueta C: sin ventajas en ZBE",
-      "4 plazas: no vale para familias de 5",
-      "Acabados sencillos en la línea de acceso",
-      "El 140 CV es justo con la autocaravana cargada",
-    ],
+    pros: ["Solo 2,10 m de ancho: su carrocería estrecha entra por calles y aparcamientos donde una perfilada de 2,35 m ni lo intenta", "6,40 m de largo con baño completo y cama fija trasera: no hay que montar y desmontar el salón cada noche", "Presupuesto de partida contenido para estrenar perfilada: 69.900 € orientativos en esta ficha, con la negociación final en el concesionario", "Motor 2.2 Multijet de 140 CV y 340 Nm sobre la base Ducato: hay recambios y talleres que lo conocen en cualquier provincia", "Detrás está Trigano, el grupo francés dueño de Chausson: la garantía de estanqueidad llega a 7 años si se pasan los controles anuales de humedades"],
+    contras: ["Chausson no publica un PVP cerrado para España: los 69.900 € son una referencia y el importe real se cierra negociando packs y extras en cada concesionario", "Homologada para viajar y dormir 4 personas: un quinto ocupante, aunque sea ocasional, queda directamente fuera", "Con la célula cargada hasta sus 3.500 kg de MMA, los 140 CV y 340 Nm se quedan cortos en puertos largos y adelantamientos: hay que planificarlos", "Su distintivo ambiental es la C, así que no gana acceso bonificado ni aparcamiento ventajoso en las zonas de bajas emisiones", "Interior de gama de acceso: mobiliario y tapicerías sencillos si se comparan con las series Titanium de la propia Chausson, que juegan en otra liga de precio"],
     largoMm: 6400,
     anchoMm: 2100,
     altoMm: 2750,
@@ -1799,18 +1787,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     aprox: ["precioDesde", "anchoMm", "altoMm", "parNm"],
     imagen: "/media/chausson-640-2026-1.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 14.73,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 720,
-      seguroAmpliadoAnual: 1350,
-      mantenimientoAnual: 480,
-      costeMensualTotal: 337,
-      notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 14.73, "costeMensualTotal": 337, "estimado": true, "mantenimientoAnual": 480, "notas": "Cálculo propio para 15.000 km al año: gasóleo a 1,55 €/l y un gasto estimado de 9,5 l/100 km dejan 14,73 € de combustible cada 100 km; se suma el seguro amplio (1.350 €/año) y 480 € de mantenimiento, donde entra la revisión anual de humedades de la célula. Cifras orientativas, no tarifas.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 1350, "seguroTercerosAnual": 720},
     galeria: [
       {
         src: "/media/chausson-640-2026-1.webp",
@@ -1832,29 +1809,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
       },
     ],
     analisisSlug: "chausson-640-2026-precio-autocaravana",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
-    },
-    planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
-      revisiones: [
-        {
-          nombre: "Revisión mecánica anual / 30.000 km",
-          queSeCambia: "Aceite + filtros + inspección general (base Fiat Ducato)",
-          costeAproxEur: 270,
-        },
-        {
-          nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
-          costeAproxEur: 170,
-        },
-      ],
-      costeAnualAproxEur: 440,
-      fuente: "Programa de mantenimiento Chausson / Fiat Professional (red oficial)",
-    },
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin prueba Euro NCAP localizada: este organismo no ensaya autocaravanas perfiladas como esta 640, así que no hay estrellas que mostrar.", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": 440, "fuente": "Plan de revisiones de Chausson para la célula y programa Fiat Professional para la mecánica Ducato", "intervalo": "Cada año o 30.000 km en la parte mecánica; la célula exige además su control de humedades anual", "revisiones": [{"costeAproxEur": 270, "nombre": "Mantenimiento del Ducato 2.2 (anual o 30.000 km)", "queSeCambia": "Cambio de aceite y de filtros, con revisión de frenos, neumáticos y niveles del vehículo base"}, {"costeAproxEur": 170, "nombre": "Control de estanqueidad de la célula (cada 12 meses)", "queSeCambia": "Revisión de juntas y sellados para detectar humedades; sin este control al día, Chausson no mantiene su garantía de estanqueidad de 7 años"}]},
   },
   {
     id: "roller-team-zefiro-696-2026",
@@ -2196,20 +2152,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Perfilada de ~7,40 m con distribución familiar de 4-5 plazas",
-      "Precio orientativo de ~65.900 € en España: de las perfiladas más asequibles",
-      "2.2 de 140 CV sobre Fiat Ducato: mecánica sencilla y barata de mantener",
-      "Marca del grupo Hymer: respaldo industrial alemán",
-      "Gran salón delantero en L para comer 5 personas",
-    ],
-    contras: [
-      "Precio orientativo: el PVP final depende del concesionario",
-      "Etiqueta C: sin ventajas en ZBE",
-      "7,40 m de largo: solo para conductores con experiencia",
-      "Acabados básicos: se nota el ajuste de precio",
-      "El 140 CV va justo con la autocaravana a plena carga",
-    ],
+    pros: ["Dormitorio trasero con dos camas longitudinales de 2,10 y 2,15 m que se unen en una doble de 1,68 m de ancho, montadas sobre el garaje", "Aseo partido en dos piezas: ducha independiente frente al inodoro, con puerta que aísla la zona de descanso como un en-suite", "Agua limpia de 122 litros y depósito de grises de 92, con calefacción Truma Combi 6 para rutear sin depender de campings cada noche", "Garaje sobre chasis rebajado con portones de 95×110 y 75×80 cm, pensado para bicis y material voluminoso de viaje largo", "Dentro de Erwin Hymer Group, Carado ocupa el escalón más asequible y esta T 447 se queda en 65.900 € orientativos"],
+    contras: ["Margen de carga escaso: la ficha oficial declara 2.911 kg en orden de marcha frente a 3.500 kg de MMA, y el garaje admite solo 150 kg", "Dormir cinco exige pagar opciones: de serie hay 2 plazas de noche y la cama basculante, el quinto cinturón y la cama central son extras", "Cocina en L reducida, con placa de únicamente dos fuegos; el horno es opcional y se monta perdiendo dos cajones", "Los armarios altos sobre las camas gemelas recortan el espacio para sentarse incorporado a leer o desayunar en la cama", "Sus 7,41 m con batalla de 4,04 m piden anticipación en giros cerrados, pueblos y aparcamientos de superficie"],
     largoMm: 7400,
     anchoMm: 2320,
     altoMm: 2900,
@@ -2223,18 +2167,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm", "parNm"],
     imagen: "/media/carado-t-447-2026-1.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 15.5,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.6,
-      seguroTercerosAnual: 740,
-      seguroAmpliadoAnual: 1380,
-      mantenimientoAnual: 480,
-      costeMensualTotal: 347,
-      notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 15.5, "costeMensualTotal": 347, "estimado": true, "mantenimientoAnual": 480, "notas": "Cálculo propio para esta perfilada: recorrer 15.000 km en un año pagando el gasóleo a 1,55 € por litro y suponiendo un gasto medio cercano a 10 litros cada 100 km. La mensualidad suma además la póliza a todo riesgo y la revisión de humedades que la célula necesita cada año.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 1380, "seguroTercerosAnual": 740},
     galeria: [
       {
         src: "/media/carado-t-447-2026-1.webp",
@@ -2256,29 +2189,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
       },
     ],
     analisisSlug: "carado-t-447-2026-precio-autocaravana",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
-    },
-    planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
-      revisiones: [
-        {
-          nombre: "Revisión mecánica anual / 30.000 km",
-          queSeCambia: "Aceite + filtros + inspección general (base Fiat Ducato)",
-          costeAproxEur: 270,
-        },
-        {
-          nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
-          costeAproxEur: 170,
-        },
-      ],
-      costeAnualAproxEur: 440,
-      fuente: "Programa de mantenimiento Carado / Fiat Professional (red oficial)",
-    },
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin prueba Euro NCAP localizada para la T 447: ese programa evalúa turismos, no perfiladas construidas sobre un Ducato.", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": 440, "fuente": "Cadencia de servicio Fiat Professional para Ducato y controles de estanqueidad exigidos por Carado (red oficial)", "intervalo": "La base Ducato pide servicio cada 12 meses o 30.000 km; la célula, una inspección de humedades con idéntica periodicidad anual", "revisiones": [{"costeAproxEur": 270, "nombre": "Servicio del Ducato 2.2 diésel (anual o 30.000 km)", "queSeCambia": "Sustitución de aceite motor y su filtro, repaso del resto de filtros y chequeo completo de frenos, neumáticos y niveles"}, {"costeAproxEur": 170, "nombre": "Inspección de humedades de la célula Carado", "queSeCambia": "Medición de humedad en paredes, techo y suelo y revisión de sellados de claraboyas, ventanas y portones del garaje"}]},
   },
   {
     id: "fiat-panda-pandina-2025",
@@ -2602,7 +2514,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     imagenInteriorOficial: "/media/smart-fortwo-eq-2025-3.webp",
     videoId: null,
     videoCanal: null,
-    marca: "smart",
+    marca: "Smart",
     modelo: "fortwo EQ",
     tipo: "Eléctrico",
     categoria: "Urbano",

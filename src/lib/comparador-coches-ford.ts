@@ -15,8 +15,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "aGLT4KuDV9U",
     videoCanal: "Ford España",
     marca: "Ford",
@@ -32,20 +32,8 @@ export const COCHES_FORD: CocheComparador[] = [
     bateriaKwh: 46.8, // útiles desde 03/2026
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "376 km de autonomía WLTP con solo 43 kWh útiles: de los más eficientes del segmento",
-      "Maletero de 523 L más frunk de 43 L: más capaz que el Puma de gasolina",
-      "Carga rápida de 100 kW en continua: competitiva para su batería",
-      "Desde 28.526 € con etiqueta Cero: acceso libre a todas las ZBE",
-      "0-100 km/h en 8 s y 290 Nm: ágil en ciudad y carretera",
-    ],
-    contras: [
-      "Batería pequeña para viajar: la autonomía real en autopista cae",
-      "160 km/h de velocidad máxima: justito para autopista alemana",
-      "Precio alto frente al Puma EcoBoost equivalente",
-      "Acabado interior mejorable para lo que cuesta",
-      "La red de carga rápida Ford depende de socios externos",
-    ],
+    pros: ["Con 13,1 kWh/100 km homologados, este Gen-E exprime sus 46,8 kWh útiles hasta firmar 417 km WLTP sin recurrir a una batería enorme", "Declara 523 litros, que crecen hasta 574 aprovechando el GigaBox bajo el piso, y suma otros 43 litros en el hueco delantero", "Sus 168 CV y 290 Nm mueven solo 1.563 kg, así que despacha el sprint hasta 100 km/h en 8,0 segundos sin disparar el gasto urbano", "Recuperar del 10 al 80 % en unos 23 minutos a 100 kW convierte una parada breve en carga suficiente para seguir ruta", "Mide 4.214 mm, cabe en plazas de garaje pensadas para un utilitario y conserva cinco asientos con distintivo Cero de la DGT"],
+    contras: ["Esos 46,8 kWh se quedan cortos frente a un Kia EV3 de batería grande: en autovía sostenida la autonomía útil cae muy por debajo de lo homologado", "Solo existe con tracción delantera; quien busque un empuje extra en nieve deberá mirar alternativas con dos motores y envío a ambos ejes", "Los 28.526 euros de partida lo sitúan claramente por encima de su hermano EcoBoost mild-hybrid cuando se equiparan acabados y equipamiento", "La seguridad validada es la del Puma de combustión: cuatro estrellas Euro NCAP de 2022, con asistencias al 69 %, lejos del pleno de rivales recientes", "Su velocidad punta queda fijada en 160 km/h y la recarga a 100 kW ya no marca el ritmo entre los SUV urbanos eléctricos actuales"],
     largoMm: 4214,
     anchoMm: 1805,
     altoMm: 1555,
@@ -57,7 +45,7 @@ export const COCHES_FORD: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.36,
@@ -72,24 +60,25 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford Puma Gen-E eléctrico, vista tres cuartos",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford Puma Gen-E eléctrico, lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Puma Gen-E",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Frecuencia de servicio de 24 meses publicada en la ficha comercial de Parks Ford para el Puma Gen-E y confirmada por AutoExpress y Drive (revisión cada dos años), verificadas el 21/10/2026; Ford España no publica una tarifa cerrada de la revisión, por lo que los costes quedan en null", "intervalo": "Cada 24 meses (frecuencia de servicio publicada para el Puma Gen-E; las fuentes consultadas el 21/10/2026 no citan un límite de kilometraje asociado)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal del Gen-E", "queSeCambia": "Inspección en la red Ford de frenos, neumáticos, suspensión, dirección, batería de 12 V, circuito de refrigeración y sistema eléctrico de alta tensión, con comprobación del líquido de frenos y actualización de software si procede; sin aceite de motor, bujías ni escape que sustituir al ser eléctrico puro"}]},
   },
   {
     id: "ford-puma-st-2025-precio-ficha-tecnica",
@@ -97,7 +86,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-puma-st-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-puma-st-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -165,7 +154,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-puma-st-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Puma ST",
         "ancho": 1920,
         "alto": 1280
@@ -178,7 +167,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-kuga-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-kuga-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "tW3OvOYLSSk",
     videoCanal: "PruebaTuCoche",
     marca: "Ford",
@@ -246,7 +235,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-kuga-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Kuga PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -259,7 +248,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-kuga-fhev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-kuga-fhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -327,7 +316,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-kuga-fhev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Kuga FHEV",
         "ancho": 1920,
         "alto": 1280
@@ -340,7 +329,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-focus-st-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-focus-st-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -408,7 +397,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-focus-st-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Focus ST",
         "ancho": 1920,
         "alto": 1280
@@ -421,7 +410,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-mustang-gt-fastback-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-gt-fastback-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -491,7 +480,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-gt-fastback-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang GT Fastback",
         "ancho": 1920,
         "alto": 1280
@@ -504,7 +493,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-mustang-dark-horse-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-dark-horse-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -574,7 +563,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-dark-horse-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang Dark Horse",
         "ancho": 1920,
         "alto": 1280
@@ -587,7 +576,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-mustang-mach-e-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-mach-e-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "aF-nLiZJDOg",
     videoCanal: "Autocasión",
     marca: "Ford",
@@ -657,7 +646,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-mach-e-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang Mach-E",
         "ancho": 1920,
         "alto": 1280
@@ -670,7 +659,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-mustang-mach-e-extended-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-mach-e-extended-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -740,7 +729,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-mach-e-extended-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang Mach-E Rango Extendido",
         "ancho": 1920,
         "alto": 1280
@@ -753,7 +742,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-mustang-mach-e-gt-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-mach-e-gt-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -823,7 +812,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-mach-e-gt-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang Mach-E GT",
         "ancho": 1920,
         "alto": 1280
@@ -836,7 +825,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-mustang-mach-e-rally-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-mustang-mach-e-rally-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -904,7 +893,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-mustang-mach-e-rally-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Mustang Mach-E Rally",
         "ancho": 1920,
         "alto": 1280
@@ -917,7 +906,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-explorer-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-explorer-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -985,7 +974,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-explorer-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Explorer eléctrico",
         "ancho": 1920,
         "alto": 1280
@@ -998,7 +987,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-explorer-electrico-awd-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-explorer-electrico-awd-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1068,7 +1057,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-explorer-electrico-awd-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Explorer eléctrico AWD",
         "ancho": 1920,
         "alto": 1280
@@ -1080,8 +1069,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ford-capri-electrico-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-capri-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "KM25NuYwMcY",
     videoCanal: "LoadingCars",
     marca: "Ford",
@@ -1097,20 +1086,8 @@ export const COCHES_FORD: CocheComparador[] = [
     bateriaKwh: 77, // útil (82 bruta)
     cargaRapidaKw: 185,
     etiquetaDgt: "Cero",
-    pros: [
-      "627 km WLTP: la mayor autonomía de un Ford eléctrico",
-      "Carga rápida de 185 kW: del 10 al 80 % en 26 minutos",
-      "Maletero de 572 L: el más grande de los eléctricos Ford",
-      "286 CV y 545 Nm con tracción trasera",
-      "Diseño coupé con 5 puertas: estilo sin perder practicidad",
-    ],
-    contras: [
-      "El nombre Capri genera debate: poco tiene del coupé original",
-      "Comparte plataforma MEB con el Explorer y el ID.4",
-      "4,63 m de largo: más grande de lo que sugiere su estilo",
-      "2.098 kg de peso",
-      "El techo coupé resta altura libre en las plazas traseras",
-    ],
+    pros: ["627 km WLTP con 77 kWh útiles: supera los 553 km del Cupra Tavascan Endurance, su primo MEB de idéntica potencia", "Homologa 13,8 kWh/100 km, un gasto contenido para un SUV de silueta coupé que declara 2.098 kg en la báscula", "El motor trasero entrega 286 CV y 545 Nm: 6,4 segundos hasta 100 km/h sin necesidad de un segundo motor", "572 litros de maletero pese a la luneta inclinada, además de la consola central MegaConsole de 17 litros citada por Ford", "Su pantalla central SYNC Move de 14,6 pulgadas se desliza arriba y abajo buscando el ángulo cómodo de lectura"],
+    contras: ["Desde 44.050 € queda por encima del Tavascan Endurance de 286 CV, que parte de 43.500 € compartiendo plataforma y batería", "Sus 2.098 kg se notan al enlazar curvas cerradas y al detenerlo en bajadas prolongadas de puerto", "Mide 4.634 mm de largo, así que aparcarlo en plazas estándar urbanas exige más maniobras de lo que sugiere su aire de coupé", "La caída del techo hacia la luneta deja la segunda fila justa para adultos altos en viajes largos", "Recuperar el apellido Capri tiene peaje: de coupé ligero pasa a SUV eléctrico sobre la MEB de Volkswagen, la misma base del Explorer y del ID.4"],
     largoMm: 4634,
     anchoMm: 1872,
     altoMm: 1626,
@@ -1122,7 +1099,7 @@ export const COCHES_FORD: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.48,
@@ -1137,24 +1114,25 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-capri-electrico-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford Capri eléctrico, vista tres cuartos",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-capri-electrico-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford Capri eléctrico, lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-capri-electrico-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Capri eléctrico",
         "ancho": 1920,
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Ford fija para el Capri eléctrico un servicio principal cada dos años, sin límite de kilometraje, según su documentación oficial; su plan Ford Protect de cinco años incluye precisamente dos revisiones programadas. Sin aceite de motor, la visita se centra en inspección, filtro de habitáculo, líquido de frenos y chequeo del sistema de alta tensión. La ficha estima unos 280 euros anuales de mantenimiento medio, cifra orientativa no oficial.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.ford.es/content/dam/guxeu/es/documents/Clientes/Mantenimiento-y-reparaciones/Spanish_low_res.pdf"},
   },
   {
     id: "ford-e-tourneo-custom-2025-precio-ficha-tecnica",
@@ -1162,7 +1140,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-e-tourneo-custom-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-e-tourneo-custom-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1232,7 +1210,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-e-tourneo-custom-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford E-Tourneo Custom",
         "ancho": 1920,
         "alto": 1280
@@ -1245,7 +1223,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/ford-tourneo-custom-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-tourneo-custom-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1315,7 +1293,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-tourneo-custom-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Tourneo Custom PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -1328,7 +1306,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-transit-custom-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-transit-custom-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1398,7 +1376,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-transit-custom-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Transit Custom",
         "ancho": 1920,
         "alto": 1280
@@ -1411,7 +1389,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-ranger-wildtrak-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-ranger-wildtrak-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1481,7 +1459,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-ranger-wildtrak-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Ranger Wildtrak",
         "ancho": 1920,
         "alto": 1280
@@ -1494,7 +1472,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-ranger-raptor-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-ranger-raptor-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1562,7 +1540,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-ranger-raptor-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Ranger Raptor",
         "ancho": 1920,
         "alto": 1280
@@ -1574,8 +1552,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/ford-ranger-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-ranger-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1618,7 +1596,7 @@ export const COCHES_FORD: CocheComparador[] = [
     aprox: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/ford/ranger/2023/doble-cabina/phev/ranger-wildtrak-doble-cabina-23-phev-280-cv-aut-10-vel/datos",
-    imagen: "/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.10,
@@ -1633,19 +1611,19 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford Ranger PHEV híbrido enchufable, vista tres cuartos",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-ranger-phev-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford Ranger PHEV, lateral",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/ford-ranger-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Ranger PHEV",
         "ancho": 1920,
         "alto": 1280
@@ -1658,7 +1636,7 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/ford-tourneo-courier-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-tourneo-courier-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1726,7 +1704,7 @@ export const COCHES_FORD: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/ford-tourneo-courier-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Ford Tourneo Courier",
         "ancho": 1920,
         "alto": 1280
@@ -1738,15 +1716,15 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ford-e-transit-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-e-transit-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-e-transit-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
     modelo: "E-Transit",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: null,
+    precioDesde: null, // Tarifa oficial solo en el configurador de Ford Pro (ford.es); sin precio público de esta versión como texto indexado
     potenciaCv: 269,
     autonomiaKm: 402,
     maleteroL: null,
@@ -1780,7 +1758,7 @@ export const COCHES_FORD: CocheComparador[] = [
     traccion: null,
     emisionesCo2: null,
     aprox: [],
-    imagen: "/media/ford-e-transit-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 5,
@@ -1795,19 +1773,19 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-e-transit-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford E-Transit eléctrica blanca en área de descanso con cargador",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-e-transit-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford E-Transit, vista lateral en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-e-transit-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Ford E-Transit eléctrica",
         "ancho": 1200,
         "alto": 800
@@ -1819,8 +1797,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1863,7 +1841,7 @@ export const COCHES_FORD: CocheComparador[] = [
     aprox: ["emisionesCo2"],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/ford/tourneo-connect/2022/estandar/phev/grand-tourneo-connect-titanium-15-ecoboost-phev-150-cv-7-plazas/datos",
-    imagen: "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 6,
@@ -1878,19 +1856,19 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford Tourneo Connect PHEV azul en calle residencial",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford Tourneo Connect PHEV, vista lateral en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior familiar del Ford Tourneo Connect",
         "ancho": 1200,
         "alto": 800
@@ -1902,8 +1880,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Ford",
@@ -1946,7 +1924,7 @@ export const COCHES_FORD: CocheComparador[] = [
     aprox: ["precioDesde"],
     fuenteNombre: "driveduel.de / Ford",
     fuenteUrl: "https://es.driveduel.de/models/ford/transit-courier",
-    imagen: "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 2.9,
@@ -1961,19 +1939,19 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford E-Transit Courier eléctrica blanca en casco histórico",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford E-Transit Courier, vista lateral en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Cabina de la Ford E-Transit Courier eléctrica",
         "ancho": 1200,
         "alto": 800
@@ -1985,8 +1963,8 @@ export const COCHES_FORD: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "R_aHXQ_Jm18",
     videoCanal: "Ángel Gaitán",
     marca: "Ford",
@@ -2027,7 +2005,7 @@ export const COCHES_FORD: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 128,
     aprox: [],
-    imagen: "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.1,
@@ -2042,19 +2020,19 @@ export const COCHES_FORD: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Ford Puma ST-Line X gris con techo negro en carretera de montaña",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Ford Puma ST-Line X, vista lateral en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del Ford Puma ST-Line X",
         "ancho": 1200,
         "alto": 800

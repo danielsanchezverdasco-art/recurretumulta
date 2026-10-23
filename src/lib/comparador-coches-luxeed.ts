@@ -53,7 +53,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
     ],
     imagen: "/media/luxeed-s7-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-s7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/luxeed-s7-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "luxeed-s7-2026-precio-ficha-tecnica",
     videoId: "j0osrtiHyj8",
     videoCanal: null,
@@ -83,12 +83,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/luxeed-s7-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Luxeed S7, salpicadero con pantalla flotante",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
   {
@@ -136,7 +131,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
     ],
     imagen: "/media/luxeed-v9-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-v9-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/luxeed-v9-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     analisisSlug: "luxeed-v9-2026-precio-ficha-tecnica",
     videoId: "Mm_KqCQeuKU",
     videoCanal: null,
@@ -166,12 +161,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
-      {
-        src: "/media/luxeed-v9-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Luxeed V9, asientos ejecutivos de la segunda fila",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
     ],
   },
 ];

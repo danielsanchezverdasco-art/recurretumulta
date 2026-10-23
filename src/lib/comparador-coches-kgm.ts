@@ -97,7 +97,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "It-r3lBBQj4",
     videoCanal: "soymotor.com",
     marca: "KGM",
@@ -159,7 +159,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del KGM Torres HEV con doble pantalla panorámica",
         "ancho": 1920,
         "alto": 1280
@@ -180,7 +180,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "BNXJl95Ln3U",
     videoCanal: "Arrancamos",
     marca: "KGM",
@@ -249,7 +249,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del KGM Actyon con asientos de cuero acolchado",
         "ancho": 1920,
         "alto": 1280
@@ -270,7 +270,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-korando-g15t-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-korando-g15t-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "Q2jswvC_RfA",
     videoCanal: "actualidadmotor.com",
     marca: "KGM",
@@ -332,7 +332,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-korando-g15t-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del KGM Korando con pantalla central",
         "ancho": 1920,
         "alto": 1280
@@ -436,7 +436,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-rexton-diesel-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-rexton-diesel-2025-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "4RcEB-Lw0dE",
     videoCanal: "Loading Cars",
     marca: "KGM",
@@ -498,7 +498,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-rexton-diesel-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del KGM Rexton con cuero",
         "ancho": 1920,
         "alto": 1280
@@ -519,7 +519,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-musso-diesel-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-musso-diesel-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: null,
     videoCanal: null,
     marca: "KGM",
@@ -581,7 +581,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-musso-diesel-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Cabina doble del KGM Musso diésel",
         "ancho": 1920,
         "alto": 1280
@@ -602,7 +602,7 @@ export const COCHES_KGM: CocheComparador[] = [
     imagenOficial:
       "/media/kgm-musso-evx-electrico-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/kgm-musso-evx-electrico-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "Rnu4YuqbETw",
     videoCanal: "pruebatucoche.es",
     marca: "KGM",
@@ -671,7 +671,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/kgm-musso-evx-electrico-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del KGM Musso EVX con doble pantalla panorámica",
         "ancho": 1920,
         "alto": 1280
@@ -690,7 +690,7 @@ export const COCHES_KGM: CocheComparador[] = [
     garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kgm-korando-emotion-electrico-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kgm-korando-emotion-electrico-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "KGM",
@@ -752,7 +752,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/kgm-korando-emotion-electrico-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del KGM Korando e-Motion",
         "ancho": 1200,
         "alto": 800
@@ -773,7 +773,7 @@ export const COCHES_KGM: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "_MdTGTqy9wQ",
     videoCanal: "Divex Motor",
     marca: "KGM",
@@ -835,7 +835,7 @@ export const COCHES_KGM: CocheComparador[] = [
         "alto": 676
       },
       {
-        "src": "/media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del KGM Tivoli Grand",
         "ancho": 1200,
         "alto": 800

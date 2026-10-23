@@ -35,24 +35,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 65.4,
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
-    pros: [
-      "510 km de autonomía WLTP con 65,4 kWh: de lo mejor del segmento B-SUV eléctrico",
-      "Carga rápida de 101 kW en DC con preacondicionamiento de batería de serie",
-      "Maletero de 466 L: el más grande entre los SUV eléctricos compactos",
-      "204 CV y 0-100 en 8,1 s con un consumo contenido de 14,7 kWh/100 km",
-      "Etiqueta Cero: acceso libre a las ZBE de Madrid y Barcelona",
-    ],
-    contras: [
-      "42.450 €: unos 12.000 € más que el Kona de gasolina equivalente",
-      "Solo tracción delantera: no existe versión 4x4",
-      "172 km/h de velocidad máxima, contenida para el segmento",
-      "El acabado básico Black Line recorta equipamiento frente al Tecno",
-      "Plásticos interiores mejorables frente a rivales de precio similar",
-    ],
+    pros: ["510 km WLTP con la batería de 65,4 kWh y un consumo de 14,7 kWh/100 km según la ficha: autonomía propia de un segmento superior dentro de una carrocería de solo 4.355 mm.", "Doble maletero de verdad: 466 litros detrás y otros 27 litros bajo el capó delantero, 493 litros en total, con el hueco delantero justo para dejar los cables de carga fuera del equipaje.", "Entre las dos pantallas de 12,3 pulgadas conserva botones físicos para el climatizador y el multimedia, un detalle que km77 subraya y que en marcha se agradece frente a los rivales de todo táctil.", "Trae función V2L interior y exterior para alimentar aparatos con la batería, modo i-PEDAL para conducir casi solo con el acelerador y preacondicionamiento de la batería antes de una carga rápida.", "La banqueta trasera se abate en proporción 40:20:40 y, según las mediciones de km77, una persona de 1,85 m apoya bien los muslos detrás: no es el B-SUV justo de plazas traseras de siempre."],
+    contras: ["42.450 euros de partida por un SUV del segmento B de 4.355 mm: en cuanto se sube de acabado, la factura entra en territorio de eléctricos claramente más grandes.", "Euro NCAP le dio cuatro estrellas en 2023, no cinco: sus notas más flojas fueron la protección a usuarios vulnerables, con un 64 %, y los sistemas de asistencia, con un 60 %.", "La carga rápida se queda en 101 kW y la ficha técnica de Hyundai cifra el paso del 10 al 80 % en unos 45 minutos a esa potencia: en viajes largos se queda corta frente a eléctricos de carga más potente.", "Solo hay tracción delantera, sin opción 4x4 en esta versión, y el interior abusa del plástico duro, con apenas una franja acolchada en las puertas según km77: flojo para lo que cuesta."],
     largoMm: 4355,
     anchoMm: 1825,
     altoMm: 1580,
-    pesoKg: null,
+    pesoKg: 1773,
     consumo: 14.7,
     consumoUnidad: "kWh/100 km",
     plazas: 5,
@@ -93,6 +81,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "El manual del propietario del Kona Electric sitúa la revisión periódica importante cada 2 años o 30.000 km y recomienda sustituir el líquido de frenos cada dos años. Al ser eléctrico no hay aceite de motor que cambiar: la visita se centra en la batería de alto voltaje, los frenos, el filtro del habitáculo y la refrigeración. Ninguna fuente consultada publica tarifas cerradas para España, así que no se da un coste de revisión.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.manualpdf.es/hyundai/kona-electric-2024/manual?p=176"},
   },
   {
     id: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica",
@@ -1152,7 +1141,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
-    modelo: "i20",
+    modelo: "i20 1.0 T-GDI",
     tipo: "Híbrido ligero",
     categoria: "Urbano",
     precioDesde: 25970,
@@ -1164,20 +1153,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "100 CV con microhibridación 48V y etiqueta ECO por 25.970 €",
-      "1.140 kg: agilidad de utilitario de verdad",
-      "Maletero de 352 L, de los mejores del segmento B",
-      "172 Nm de par: el tricilíndrico empuja bien en ciudad",
-      "Consumo contenido gracias a la microhibridación de 48V",
-    ],
-    contras: [
-      "Prestaciones sin publicar para la versión 48V (0-100, velocidad máxima)",
-      "Tres cilindros: vibraciones perceptibles al ralentí",
-      "25.970 €: el i20 ya no es el utilitario barato de antes",
-      "Plazas traseras justas para adultos altos",
-      "La pantalla de 10,25 pulgadas solo llega en acabados altos",
-    ],
+    pros: ["El mismo 1.0 T-GDI de 100 CV y 172 Nm con apoyo de 48V del N Line, pero por 25.970 €: son 746 € menos sin perder la etiqueta ECO", "Con 1.140 kg pesa 25 kg menos que el N Line y conserva 4,065 m de largo, así que aparcar y callejear no exige pelear con el volante", "352 litros de maletero en un cinco puertas de este tamaño: la compra semanal entra sin tener que abatir la banqueta 60/40", "El coste mensual de la ficha parte de un consumo estimado de 5,4 l/100 km, cifra asumible para quien alterna rondas urbanas y autovía corta"],
+    contras: ["Esta ficha no publica 0-100 ni velocidad punta para el 48V, mientras el N Line gemelo sí declara 11,1 s y 183 km/h: aquí compras sin ese dato", "Al ralentí el tres cilindros se nota en el volante y en los semáforos largos; el sistema de 48V suaviza arranques, pero no lo vuelve silencioso", "25.970 € colocan a un utilitario de 100 CV en territorio de compacto de oferta, lejos de la idea de segundo coche barato para todo", "Si quieres el cuadro y la pantalla central de 10,25 pulgadas tienes que subir de acabado: en los escalones de acceso el interior es bastante más sobrio"],
     largoMm: 4065,
     anchoMm: 1775,
     altoMm: 1450,
@@ -1222,6 +1199,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Para este i20 1.0 T-GDI 48V rige la norma general de Hyundai en España: revisión cada 15.000 km o cada año, lo primero que se cumpla, con aviso previo en el cuadro de instrumentos. Solo los IONIQ 5 e IONIQ 6 se salen de ese intervalo y pasan a 30.000 km o dos años, así que no conviene estirar los plazos del tricilíndrico turbo entre aceite y filtros.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
   },
   {
     id: "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica",
@@ -1391,7 +1369,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "t0D5elWO_j8",
     videoCanal: null,
     marca: "Hyundai",
@@ -1407,20 +1385,8 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 180,
     etiquetaDgt: "Cero",
-    pros: [
-      "440 km WLTP con batería de 63 kWh: de lo mejor de su precio",
-      "Carga rápida de 180 kW en DC",
-      "170 CV y 350 Nm con tracción trasera",
-      "Desde 44.670 € (tarifa 01/2026)",
-      "Etiqueta Cero y 520 L de maletero",
-    ],
-    contras: [
-      "44.670 €: el acceso a la gama Ioniq 5",
-      "8,5 s de 0-100: no es la versión más rápida",
-      "185 km/h de máxima, contenida",
-      "El acabado Light es el más básico",
-      "1.955 kg de peso",
-    ],
+    pros: ["Con 63 kWh de batería homologa 440 km WLTP gastando 15,6 kWh cada cien, registro contenido para un crossover de 4,66 metros", "Admite picos de 180 kW en corriente continua, ritmo de recarga poco habitual entre familiares eléctricos de tarifa parecida en España", "Entrega 170 CV con 350 Nm desde el eje trasero y regala suelo plano sin túnel, herencia directa de su arquitectura E-GMP", "Suma 520 litros de maletero a cinco plazas reales y etiqueta Cero, combinación útil para viajar cargado sin vetos ambientales urbanos", "La batería queda cubierta ocho años o 160.000 km hasta el 70 % de capacidad, respaldo dilatado frente a desgastes prematuros"],
+    contras: ["Sus 44.670 euros iniciales lo sitúan por encima de Renault Scenic E-Tech o Volkswagen ID.4 comparables dentro del mercado español actual", "Pesa 1.955 kilos, lastre que castiga neumáticos y frenadas largas y resta agilidad cuando la carretera se retuerce entre montañas", "Acelera hasta cien en 8,5 segundos y corta a 185 km/h: cumple sin más, quedando lejos de hermanos superiores del catálogo", "El nivel Light recorta dotación frente a Star, Energy o N Line, así que conviene revisar partida por partida antes de firmar", "Mide 1.890 mm de ancho sin contar espejos: aparcar en plazas antiguas obliga a maniobrar despacio y con atención constante"],
     largoMm: 4655,
     anchoMm: 1890,
     altoMm: 1605,
@@ -1458,13 +1424,10 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-ioniq-5-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Ioniq 5 Light",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
+      
+    ],
+    planMantenimiento: {"intervalo": "Cada 2 años o 30.000 km, lo que ocurra antes (plan oficial Hyundai para IONIQ 5 e IONIQ 6)", "revisiones": [{"nombre": "Revisión bienal / 30.000 km", "queSeCambia": "Inspección general del sistema eléctrico, estado de la batería de alto voltaje y de la auxiliar de 12 V, control de frenos y de refrigeración, y filtro de habitáculo según calendario del manual", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Hyundai Canarias, posventa oficial en hyundai.com (verificado el 22/10/2026): los IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica un coste cerrado para esta revisión, por eso el coste queda en null"},
+    euroncap: {"estrellas": 5, "ano": 2021, "url": "https://www.hyundai.news/newsroom/dam/eu/models/20211027_euro_ncap_rating/hyundai-ioniq-5-2021-euro-ncap-datasheet.pdf", "nota": "5 estrellas Euro NCAP (octubre de 2021): 88 % en ocupante adulto, 86 % en infantil, 63 % en usuarios vulnerables y 88 % en asistencias"},
   },
   {
     id: "hyundai-ioniq-6-2025-precio-ficha-tecnica",
@@ -1474,7 +1437,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "Hyundai (dosier técnico oficial Ioniq 6 2025)",
     fuenteUrl: "https://www.hyundai.news/es/modelos/eco/ioniq-6/press-kit/ioniq-6-dosier-2025.html",
     imagenOficial: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "ZxTbA3H-3wI",
     videoCanal: null,
     marca: "Hyundai",
@@ -1547,12 +1510,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-ioniq-6-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Ioniq 6 (facelift 2025)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1561,7 +1519,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/hyundai-inster-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-inster-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "IAC-oUMnZ74",
     videoCanal: null,
     marca: "Hyundai",
@@ -1628,12 +1586,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-inster-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Inster Klass",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1642,7 +1595,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "o4nIillOQEE",
     videoCanal: null,
     marca: "Hyundai",
@@ -1709,12 +1662,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Santa Fe Maxx HEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1725,7 +1673,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "hibridosyelectricos.com (Kona HEV 2026)",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/hyundai-kona-hev-precio-medidas-motor-interior-maletero_86070_102.html",
     imagenOficial: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "C38q-nD5YRc",
     videoCanal: null,
     marca: "Hyundai",
@@ -1809,12 +1757,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Kona HEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1823,7 +1766,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-QC0xK3nmq0",
     videoCanal: null,
     marca: "Hyundai",
@@ -1890,12 +1833,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Bayon 1.0 TGDi 48V",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1904,7 +1842,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
@@ -1971,12 +1909,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-i30-15-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai i30 1.5 TGDi 48V",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1987,7 +1920,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "buscapruebas.motordeventas.es (ficha técnica Staria 2.2 CRDi 177 CV)",
     fuenteUrl: "https://buscapruebas.motordeventas.es/busca_pruebas_AA/admin768/pdf/651-fac156b2fa4c6c7b622f8c88c2cda504e543a8ab.pdf",
     imagenOficial: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Hyundai",
@@ -2060,12 +1993,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-staria-diesel-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Staria 2.2 CRDi",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -2076,14 +2004,14 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     fuenteNombre: "auto-data.net (Tucson IV facelift 2024 1.6 T-GDI 150 CV)",
     fuenteUrl: "https://www.auto-data.net/es/hyundai-tucson-iv-facelift-2024-1.6-t-gdi-150hp-55803",
     imagenOficial: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "EbQduwxhnTU",
     videoCanal: null,
     marca: "Hyundai",
     modelo: "Tucson 1.6 TGDi 150 MHEV",
     tipo: "Híbrido ligero (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35195, // hyundai.es oficial: TUCSON FL 1.6T 150CV KLASS PVP 35.195 €,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 620,
@@ -2149,12 +2077,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Hyundai Tucson 1.6 TGDi 150 MHEV",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
 ];

@@ -100,8 +100,8 @@ export const COCHES_LEXUS: CocheComparador[] = [
   // 2. Lexus NX 350h (híbrido, 2024+)
   {
     id: "lexus-nx-350h-2024-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lexus-nx-350h-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/lexus-nx-350h-2024-precio-ficha-tecnica-interior.webp",
@@ -147,17 +147,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     aprox: [],
     imagen: "/media/lexus-nx-350h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 10.5,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1050,
-      "mantenimientoAnual": 450,
-      "costeMensualTotal": 283,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,7 l/100 km (versión Premium+ 2WD); 1.500 km/mes; sin ayudas ni descuentos",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 10.5, "costeMensualTotal": 283, "estimado": true, "mantenimientoAnual": 450, "notas": "Estimación para el NX 350h Premium+ de tracción delantera con su consumo WLTP de 5,7 l/100 km y 1.500 km mensuales, sin contar ayudas ni descuentos", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1050, "seguroTercerosAnual": 550},
     galeria: [
       {
         "src": "/media/lexus-nx-350h-2024-precio-ficha-tecnica-oficial.webp",
@@ -180,6 +170,8 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/nx/2022/estandar",
+    euroncap: {"ano": 2022, "estrellas": 5, "nota": "5 estrellas Euro NCAP (prueba publicada el 02/03/2022); la propia ficha oficial de Euro NCAP declara la calificación aplicable a la variante 2.5 petrol hybrid 350h 4x2, que es la de esta ficha", "url": "https://www.euroncap.com/en/results/lexus/nx/45229"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Lexus España (mantenimiento programado de 1 año o 15.000 km y Chequeo Integral del Sistema Híbrido incluido en cada mantenimiento) y plan publicado para el NX (intermedio 15.000 km, principal 30.000 km); Lexus no publica precios cerrados de revisión, dependen del centro", "intervalo": "15.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión intermedia / 15.000 km o 12 meses", "queSeCambia": "Aceite y filtro de aceite + Chequeo Integral del Sistema Híbrido (HHC) de batería, propulsión y refrigeración, incluido en cada mantenimiento Lexus"}, {"costeAproxEur": null, "nombre": "Revisión principal / 30.000 km o 24 meses", "queSeCambia": "Aceite y filtros + líquido de frenos y comprobaciones de frenos, dirección, suspensión, luces, motor y carrocería, según la relación de operaciones del mantenimiento Lexus"}]},
   },
   // 3. Lexus NX 450h+ (híbrido enchufable, 2024+)
   {
@@ -889,7 +881,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lexus-es-500e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/lexus-es-500e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "LpxmR4z067s",
     videoCanal: "Autoblog",
     marca: "Lexus",
@@ -951,7 +943,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
         "alto": 1152
       },
       {
-        "src": "/media/lexus-es-500e-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Lexus ES 500e 2026, asientos traseros ejecutivos",
         "ancho": 2048,
         "alto": 1152
