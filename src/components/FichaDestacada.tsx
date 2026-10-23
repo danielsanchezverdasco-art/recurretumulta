@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowLeftRight, ArrowRight } from "lucide-react";
 import { Donut, BatteryFill, SpecBar, Speedometer } from "@/components/motion.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import { fmtMiles } from "@/lib/formato.ts";
 import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 
 /* ── Ficha destacada al inicio de los artículos de coches (03/10/2026, orden
@@ -12,7 +13,8 @@ import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
    con Donuts, velocímetro, batería y barras) en TODOS los blogs de coches. ── */
 
 const fmtEur = (v: number | null) =>
-  v == null ? "—" : v.toLocaleString("es-ES") + " €";
+  // 20/10/2026 (fix plantilla): fmtMiles agrupa siempre (toLocaleString no agrupaba 4 cifras).
+  v == null ? "—" : fmtMiles(v) + " €";
 
 export default function FichaDestacada({ coche }: { coche: CocheComparador }) {
   // Datos estrella para los Donut (solo valores reales, nunca inventados).

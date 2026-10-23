@@ -1139,10 +1139,8 @@ zontes-125v-2025-ficha-tecnica-precio
 zontes-125x-2025-ficha-tecnica-precio
 zontes-125z2-2025-ficha-tecnica-precio
 zontes-350d-2025-ficha-tecnica-precio
-zontes-350d-2026-ficha-tecnica-precio
 zontes-350e-2024-ficha-tecnica-precio
 zontes-350e-2025-ficha-tecnica-precio
-zontes-350r-2025-ficha-tecnica-precio
 zontes-350t-2025-ficha-tecnica-precio
 zontes-350x-2025-ficha-tecnica-precio
 zontes-368g-2025-ficha-tecnica-precio
@@ -1201,9 +1199,7 @@ ktm-rc-125-2026
 aprilia-tuono-125-2026
 honda-cb300r-2025
 kawasaki-z-125-2026
-zontes-125g1-2026
 zontes-350r-2026
-zontes-125z2-2026
 cfmoto-125nk-2026
 voge-r125-2026
 qjmotor-srk-125-s-2026
@@ -1232,7 +1228,6 @@ ktm-790-adventure-2026-ficha-tecnica-precio
 yamaha-tenere-700-world-raid-2026-ficha-tecnica-precio
 swm-superdual-650-2025-ficha-tecnica-precio
 qjmotor-srt-450-rx-2025-ficha-tecnica-precio
-zontes-350t-2024-ficha-tecnica-precio
 voge-300rally-2024-ficha-tecnica-precio
 kawasaki-versys-x-300-2024-ficha-tecnica-precio
 harley-davidson-road-king-special-2025-ficha-tecnica-precio

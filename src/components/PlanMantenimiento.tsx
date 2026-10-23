@@ -2,6 +2,7 @@
 // Componente presentacional compartido por fichas de coches y motos.
 // Muestra intervalo, tabla de revisiones (qué se cambia + coste) y coste anual.
 import { CalendarClock } from "lucide-react";
+import { fmtMiles } from "@/lib/formato.ts";
 
 export interface RevisionPlan {
   nombre: string;
@@ -50,7 +51,7 @@ export default function PlanMantenimiento({
                   <td className="py-2.5 pr-3 font-semibold text-gray-900">{r.nombre}</td>
                   <td className="py-2.5 pr-3 text-gray-600">{r.queSeCambia}</td>
                   <td className="py-2.5 text-right font-bold whitespace-nowrap text-gray-900">
-                    {r.costeAproxEur != null ? `${r.costeAproxEur.toLocaleString("es-ES")} €` : "—"}
+                    {r.costeAproxEur != null ? `${fmtMiles(r.costeAproxEur)} €` : "—"}
                   </td>
                 </tr>
               ))}
@@ -62,7 +63,7 @@ export default function PlanMantenimiento({
         <p className="mt-3 text-sm text-gray-700">
           💰 Coste anual aproximado:{" "}
           <strong className="text-gray-900">
-            {plan.costeAnualAproxEur.toLocaleString("es-ES")} €
+            {fmtMiles(plan.costeAnualAproxEur)} €
           </strong>
         </p>
       )}

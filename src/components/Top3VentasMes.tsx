@@ -8,6 +8,7 @@ import { Link } from "react-router-dom";
 import { Trophy, ArrowRight, TrendingUp } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { PERIODOS_COCHES } from "@/lib/mas-vendidos-data.ts";
+import { fmtMiles } from "@/lib/formato.ts";
 
 // 07/10/2026: imagen directa por patrón (evita importar 618KB de comparador-lite).
 // El patrón es /media/{fichaId}-oficial.webp
@@ -61,7 +62,7 @@ export default function Top3VentasMes() {
           Los 3 más vendidos en España
         </h2>
         <p className="text-xs text-gray-400">
-          Turismos matriculados en {datos.etiqueta} · Fuente: {datos.fuente}
+          {`Turismos matriculados en ${datos.etiqueta} · Fuente: ${datos.fuente}`}
         </p>
       </div>
 
@@ -97,9 +98,9 @@ export default function Top3VentasMes() {
                     {v.unidades != null ? (
                       <>
                         <span className="font-black text-gray-900">
-                          {v.unidades.toLocaleString("es-ES")}
-                        </span>{" "}
-                        matriculaciones
+                          {fmtMiles(v.unidades)}
+                        </span>
+                        {" matriculaciones"}
                       </>
                     ) : (
                       "cifra no publicada"

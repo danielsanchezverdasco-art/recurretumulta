@@ -1,5 +1,4 @@
 import { lazy, Suspense, useEffect, useState } from "react";
-import Relacionados from "@/components/Relacionados";
 import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { DefaultProviders } from "./components/providers/default.tsx";
 import { ErrorBoundary } from "./components/error-boundary.tsx";
@@ -7,7 +6,6 @@ import { LazyConvexProvider } from "./components/providers/convex-lazy.tsx";
 
 import ScrollToTop from "./components/scroll-to-top.tsx";
 import WhatsAppBubble from "./components/whatsapp-bubble.tsx";
-import { esRutaFicha } from "@/lib/ruta-ficha.ts";
 // ReferralCapture: solo trabaja con ?ref= en la URL. Lazy para no meter
 // convex/react en el chunk inicial (07/10/2026, PageSpeed). Retorna null.
 const ReferralCapture = lazy(() => import("./components/creadores/ReferralCapture.tsx"));
@@ -31,6 +29,9 @@ const BlogPostPage = lazy(() => import("./pages/blog/[slug].tsx"));
 const MultasIndexPage = lazy(() => import("./pages/multas/page.tsx"));
 const MultaProvinciaPage = lazy(() => import("./pages/multas/[provincia].tsx"));
 const ComunidadPage = lazy(() => import("./pages/comunidades/[ccaa].tsx"));
+const ComunidadesIndexPage = lazy(() => import("./pages/comunidades/page.tsx"));
+const ProvinciasIndexPage = lazy(() => import("./pages/provincias/page.tsx"));
+const ProvinciaRadaresPage = lazy(() => import("./pages/provincias/[provincia].tsx"));
 const PrivacidadPage = lazy(() => import("./pages/Privacidad.tsx"));
 const TerminosPage = lazy(() => import("./pages/Terminos.tsx"));
 const CookiesPage = lazy(() => import("./pages/Cookies.tsx"));
@@ -62,6 +63,20 @@ const FichasTecnicasPage = lazy(() => import("./pages/FichasTecnicas.tsx"));
 const MotosFichaPage = lazy(() => import("./pages/MotosFicha.tsx"));
 const ComparadorPatinetesPage = lazy(() => import("./pages/ComparadorPatinetes.tsx"));
 const PatinetesFichaPage = lazy(() => import("./pages/PatinetesFicha.tsx"));
+// 19/10/2026 (router 5/6): índices y fichas de autocaravanas + índice de radares
+// (la ruta radares/:id ya la registró el agente de páginas). Lazy para no
+// engordar el chunk inicial.
+const AutocaravanasIndexPage = lazy(() => import("./pages/AutocaravanasIndex.tsx"));
+const AutocaravanasFichaPage = lazy(() => import("./pages/AutocaravanasFicha.tsx"));
+// 20/10/2026 (merlin-caravanas-rutas-v4): índice y fichas de caravanas
+// (/caravanas/ y /caravanas/<slug>/). Las 72 fichas existían en datos
+// (comparador-caravanas-*.ts) pero ninguna ruta las servía: 404.
+const CaravanasIndexPage = lazy(() => import("./pages/CaravanasIndex.tsx"));
+const CaravanasFichaPage = lazy(() => import("./pages/CaravanasFicha.tsx"));
+// 19/10/2026 (campers 7/9): índice y fichas de campers (/campers/ y /campers/<slug>/).
+const CampersIndexPage = lazy(() => import("./pages/CampersIndex.tsx"));
+const CampersFichaPage = lazy(() => import("./pages/CampersFicha.tsx"));
+const RadaresIndexPage = lazy(() => import("./pages/RadaresIndex.tsx"));
 const MasVendidosPage = lazy(() => import("./pages/MasVendidos.tsx"));
 const RankingsPage = lazy(() => import("./pages/Rankings.tsx"));
 const RankingsIndexPage = lazy(() =>
@@ -85,6 +100,7 @@ const GlosarioMultaPage = lazy(() => import("./pages/GlosarioMulta.tsx"));
 const MetodologiaPage = lazy(() => import("./pages/Metodologia.tsx"));
 const PoliticaEditorialPage = lazy(() => import("./pages/PoliticaEditorial.tsx"));
 const GuiaRadaresPage = lazy(() => import("./pages/guias/radares.tsx"));
+const RadarPage = lazy(() => import("./pages/RadarPage.tsx"));
 const GuiaZbePage = lazy(() => import("./pages/guias/zbe.tsx"));
 const GuiaPrescripcionPage = lazy(() => import("./pages/guias/prescripcion.tsx"));
 const GuiaViciosFormaPage = lazy(() => import("./pages/guias/vicios-forma.tsx"));
@@ -127,7 +143,10 @@ function ContentRoutes() {
       <Route path="blog/:slug" element={<BlogPostPage />} />
       <Route path="multas" element={<MultasIndexPage />} />
       <Route path="multas/:provincia" element={<MultaProvinciaPage />} />
+      <Route path="comunidades" element={<ComunidadesIndexPage />} />
       <Route path="comunidades/:ccaa" element={<ComunidadPage />} />
+      <Route path="provincias" element={<ProvinciasIndexPage />} />
+      <Route path="provincias/:provincia" element={<ProvinciaRadaresPage />} />
       <Route path="privacidad" element={<PrivacidadPage />} />
       <Route path="politica-privacidad" element={<Navigate to="/privacidad/" replace />} />
       <Route path="terminos" element={<TerminosPage />} />
@@ -169,6 +188,16 @@ function ContentRoutes() {
       <Route path="comparador-patinetes" element={<ComparadorPatinetesPage />} />
       <Route path="comparador/mas-vendidos" element={<MasVendidosPage />} />
       <Route path="patinetes/:slug" element={<PatinetesFichaPage />} />
+      {/* 19/10/2026 (router 5/6): autocaravanas y radares, junto a las fichas */}
+      <Route path="autocaravanas" element={<AutocaravanasIndexPage />} />
+      <Route path="autocaravanas/:slug" element={<AutocaravanasFichaPage />} />
+      {/* 19/10/2026 (campers 7/9): campers, junto a las autocaravanas */}
+      <Route path="campers" element={<CampersIndexPage />} />
+      <Route path="campers/:slug" element={<CampersFichaPage />} />
+      {/* 20/10/2026 (merlin-caravanas-rutas-v4): caravanas, junto a las campers */}
+      <Route path="caravanas" element={<CaravanasIndexPage />} />
+      <Route path="caravanas/:slug" element={<CaravanasFichaPage />} />
+      <Route path="radares" element={<RadaresIndexPage />} />
       <Route path="rankings" element={<RankingsIndexPage />} />
       <Route path="rankings/:slug" element={<RankingsPage />} />
       <Route path="calendario-lanzamientos" element={<Navigate to="/calendario-lanzamientos-2026-2027/" replace />} />
@@ -190,6 +219,7 @@ function ContentRoutes() {
       <Route path="metodologia" element={<MetodologiaPage />} />
       <Route path="politica-editorial" element={<PoliticaEditorialPage />} />
       <Route path="guias/radares" element={<GuiaRadaresPage />} />
+      <Route path="radares/:id" element={<RadarPage />} />
       <Route path="guias/zbe" element={<GuiaZbePage />} />
       <Route path="guias/prescripcion" element={<GuiaPrescripcionPage />} />
       <Route path="guias/vicios-forma" element={<GuiaViciosFormaPage />} />
@@ -231,8 +261,7 @@ function FadedRoutes() {
 
         <Route path="*" element={<NotFound />} />
       </Routes>
-      {/* 18/10/2026: en las fichas, Relacionados va dentro del artículo (encima de la FAQ). */}
-      {!esRutaFicha(location.pathname) && <Relacionados pathname={location.pathname} />}
+      {/* 21/10/2026 (v4.5.3): bloque «Relacionados» eliminado por orden del usuario. */}
       {/* Caza de monos (05/10/2026): inyección 100% en cliente del mono aleatorio
           de la ruta actual. Suspense propio con fallback null para no bloquear
           el render de la página. Sin tocar el prerender. */}

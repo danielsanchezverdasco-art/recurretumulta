@@ -13,14 +13,24 @@ const SRC = join(__dirname, "..", "src", "lib");
 // tipos simples, los leemos y extraemos los metadatos con regex (más rápido y sin dependencias).
 import { readFileSync, readdirSync } from "fs";
 
+// Los posts en formato JSON guardan el contenido como string TS con las
+// comillas escapadas (alt=\"...\") y algunos con doble escape (alt=\\\"...\\\").
+// Sin desescapar, el alt de la tarjeta salía con \" literales (informe Niky 20/10/2026).
+function desescaparComillas(s) {
+  let out = s;
+  for (let i = 0; i < 3 && out.includes('\\"'); i++) out = out.replace(/\\"/g, '"');
+  return out;
+}
+
 function postHeroImage(content) {
   const heroTag = content.match(/<img[^>]*>/i);
   if (!heroTag) return null;
-  const srcM = heroTag[0].match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
+  const tag = desescaparComillas(heroTag[0]);
+  const srcM = tag.match(/src=("[^"]*"|'[^']*'|[^\s>]+)/i);
   if (!srcM) return null;
   const src = srcM[1].replace(/^["']|["']$/g, "");
   if (!src) return null;
-  const altM = heroTag[0].match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
+  const altM = tag.match(/alt=("[^"]*"|'[^']*'|[^>]+)/i);
   const alt = altM
     ? altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim()
     : "";
@@ -61,7 +71,12 @@ function extractPostsFromFile(filePath) {
       const contentStr = block.match(/"?(content)"?:\s*"((?:[^"\\]|\\.)*)"/);
       if (contentStr) content = contentStr[2];
     }
-    const hero = postHeroImage(content);
+    // El generador lee el TEXTO CRUDO del .ts: si content es un string JS
+    // normal, la <img> llega con comillas escapadas (alt=\"…\") y postHeroImage
+    // se quedaba con las \" literales en heroAlt (y algún heroSrc roto).
+    // title/excerpt/keywords ya desescapaban \" en este mismo fichero; la
+    // imagen hero no. Se desescapa content igual que haría el parser de JS.
+    const hero = postHeroImage(content.replace(/\\"/g, '"'));
     const words = content ? content.split(/\s+/).length : 0;
     const readTime = Math.max(1, Math.round(words / 200));
     const kwM = block.match(/"?(keywords)"?:\s*\[([\s\S]*?)\]/);

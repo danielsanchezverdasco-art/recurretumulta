@@ -30,6 +30,7 @@ const ROUTES = [
   ...new Set([
     ...ROUTES_CFG.staticRoutes,
     ...ROUTES_CFG.provinceSlugs.map((p) => `/multas/${p}`),
+    ...ROUTES_CFG.provinceSlugs.map((p) => `/provincias/${p}`),
     ...ROUTES_CFG.communitySlugs.map((c) => `/comunidades/${c}`),
     ...ROUTES_CFG.slugFiles.flatMap((sf) =>
       readSlugsFile(sf.file).map((s) => `${sf.prefix}${s}`)

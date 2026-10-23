@@ -59,7 +59,13 @@
     "/tal-dia-como-hoy-motor",
     "/newsletter",
     "/juego-monos",
-    "/juego-monos/bases"
+    "/juego-monos/bases",
+    "/autocaravanas",
+    "/campers",
+    "/caravanas",
+    "/radares",
+    "/comunidades",
+    "/provincias"
   ],
   "provinceSlugs": [
     "madrid",
@@ -166,6 +172,25 @@
     {
       "file": "scripts/campers-slugs.txt",
       "prefix": "/coches/"
+    },
+    {
+      "file": "scripts/slugs-autocaravanas.txt",
+      "prefix": "/autocaravanas/",
+      "nota": "Rutas cableadas en src/App.tsx (ramas rutas-cableadas / borrador-2): prerender y sitemap activos."
+    },
+    {
+      "file": "scripts/radares-slugs.txt",
+      "prefix": "/radares/"
+    },
+    {
+      "file": "scripts/caravanas-slugs.txt",
+      "prefix": "/caravanas/",
+      "nota": "Rutas cableadas en src/App.tsx (rama merlin-caravanas-rutas-v4): prerender y sitemap activos para las 72 fichas."
+    },
+    {
+      "file": "scripts/campers-rutas-slugs.txt",
+      "prefix": "/campers/",
+      "nota": "Rutas cableadas en src/App.tsx (campers 19/10/2026): prerender y sitemap activos. La lista sale de los datos (comparador-campers + hub /campers/). campers-slugs.txt sigue mapeado a /coches/ por compatibilidad histórica."
     }
   ],
   "sitemapExclude": [

@@ -21,7 +21,8 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
   const { t } = useTranslation("common");
   const items = [
     <Link to="/blog/" className={L}>{t("nav.blog")} DGT</Link>,
-    <Link to="/multas/" className={L}>52 {t("nav.provinces")}</Link>,
+    <Link to="/provincias/" className={L}>52 {t("nav.provinces")}</Link>,
+    <Link to="/radares/" className={L}>Radares</Link>,
     <Link to="/herramientas/" className={L}>Herramientas</Link>,
     <Link to="/newsletter/" className={L}>Newsletter</Link>,
     <Link to="/glosario-multa/" className={L}>Glosario</Link>,
@@ -62,7 +63,7 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
         </nav>
         <p className="text-xs text-gray-600">{t("footer.disclaimer")}</p>
         <p className="text-xs text-gray-600">
-          © {new Date().getFullYear()} RecurreTuMulta.online ·{" "}
+          {`© ${new Date().getFullYear()} RecurreTuMulta.online · `}
           <a href="mailto:soporte@recurretumulta.online" className="text-red-600 underline underline-offset-2">soporte@recurretumulta.online</a>
         </p>
         <div className="relative h-0 z-10">

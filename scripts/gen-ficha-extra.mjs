@@ -16,6 +16,7 @@ const OUT = join(ROOT, "src/lib/ficha-extra-gen");
 const tmp = join(tmpdir(), `rivales-${process.pid}.mjs`);
 const entry = `
 export { COCHES_COMPARADOR } from "@/lib/comparador-coches-data.ts";
+export { COCHES_NUEVOS_C5 } from "@/lib/comparador-coches-nuevos-c5.ts";
 export { MOTOS_COMPARADOR } from "@/lib/comparador-motos-data.ts";
 export { PATINETES_COMPARADOR } from "@/lib/comparador-patinetes-data.ts";
 export { BLOG_LITE } from "@/lib/blog-lite.generated.ts";
@@ -82,11 +83,16 @@ function rivales(items, { id, nombre, precio, foto, seg, extra, afin, blog }, pr
 const BLOG = new Set(D.BLOG_LITE.map((p) => p.slug));
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
-const nc = rivales(D.COCHES_COMPARADOR, {
+// 23/10/2026 (cierre v4.5.5): el lote C5 está EXCLUDED del agregado
+// COCHES_COMPARADOR pero sus 14 fichas SÍ se sirven (data-loaders) y tienen
+// artículo: sin esto salían sin rivales y sin botón al análisis (extra vacío).
+const nc = rivales([...D.COCHES_COMPARADOR, ...D.COCHES_NUEVOS_C5], {
   id: (c) => c.id, nombre: (c) => `${c.marca} ${c.modelo}`, precio: (c) => c.precioDesde,
   foto: (c) => primeraFoto(c.imagenOficial, c.imagen), seg: (c) => (c.categoria || "").toLowerCase(),
   afin: (a, b) => (a.tipo || "") === (b.tipo || ""),
-  blog: (c) => BLOG.has(D.ANALISIS_COCHES[c.id] ?? c.id),
+  // 20/10/2026: igual que en motos, se respeta c.analisisSlug; sin esto, fichas
+  // cuyo artículo tiene otro slug (Adria Matrix Supreme) salían sin botón al blog.
+  blog: (c) => BLOG.has(D.ANALISIS_COCHES[c.id] ?? c.analisisSlug ?? c.id),
 }, "c");
 const nm = rivales(D.MOTOS_COMPARADOR, {
   id: (m) => m.id, nombre: (m) => `${m.marca} ${m.modelo}`.replace(/:+$/, "").trim(), precio: (m) => m.precioDesde,

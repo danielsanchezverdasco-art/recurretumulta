@@ -25,6 +25,11 @@ for raiz,_,fs in os.walk(D):
         global n
         path=m.group(3); k=path.rstrip("/")+"/"
         if k not in R: return m.group(0)
+        # 23/10/2026 (cierre v4.5.5): si el destino YA existe como fichero en dist
+        # (p. ej. un post restaurado por el frente H tras el borrado de
+        # adsense-dist), la URL NO pasa por un 301 en el despliegue final
+        # (fix-redirects deja _redirects sin esa regla): no reescribir.
+        if existe(path): return m.group(0)
         t=fin(path)
         if t.startswith("http") or not existe(t) or t.rstrip("/")+"/"==k: return m.group(0)
         n+=1; return m.group(1)+(DOM if m.group(2).startswith(DOM) else "")+t+m.group(4)
