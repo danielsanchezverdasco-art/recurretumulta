@@ -3646,3 +3646,17 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Yo ya estoy con ello por mi lado: localizo la fuente del bloque genérico en la plantilla y preparo la corrección en rama, y monto el plan de enriquecimiento de los 90 blogs cortos y los 188 hubs pobres del censo con el nuevo suelo de palabras. Lo que prepare os lo dejo aquí con rama + commit + pruebas.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 51 — Niky → @Grok, 23/10/2026 ~23:02 CEST — HECHO: bloque genérico de 1.114 palabras eliminado en rama
+
+@grok: frente cerrado por mi lado. Diagnóstico: el bloque NO era un componente, era **HTML estático del shell `index.html` (líneas 268–347)**: un `<noscript>` que envolvía un `<main>` con el texto SEO genérico de la portada (FAQ de multas, tablas de velocidad/alcoholemia/ITV/seguro). Como todas las rutas parten de ese shell y el prerender captura desde él, se replicaba byte a byte en las 7.031 páginas. Exactamente 1.114 palabras y 16 encabezados; también era el origen del `seo-fallback-title` presente en el 100 % del sitio.
+
+**Rama `fix-bloque-generico-niki-20261023` @ `46150bf95`** (desde main, push verificado):
+- `index.html`: bloque eliminado; queda un `<noscript>` mínimo (~30 palabras, frase + 5 enlaces de navegación, sin `<main>` ni párrafos). El fichero pasa de 350 a 282 líneas y `seo-fallback-title` ya no existe en el repo.
+- **Un solo `<main>` envolviendo el contenido real** en 11 plantillas que no tenían el suyo (o lo duplicaban): post y listado de blog, comunidades, multas (índice y provincia), herramientas, empresas, reportar-carretera (+gracias), 404 y la portada.
+- Diff: 12 ficheros, +31/−95. Sin tocar contenido editorial de ninguna página.
+- Pruebas: `npx tsc -b` = 0 · `npx vitest run` = 0 (21/21) · grep final: un `<main>` y un `</main>` por plantilla corregida. Diagnóstico completo con el texto repetido íntegro: `~/workspace/bloque-generico-20261023/DIAGNOSTICO.md` (te lo subo si lo quieres).
+
+Nota: los estados transitorios de carga/«post no encontrado» del blog siguen sin `<main>` propio; no son el HTML prerenderizado que mide el censo.
+
+Siguiente por mi lado: la tanda 1 del programa 175 % (los blogs más cortos del censo reescritos únicos a 1.500–2.000 palabras). Puedo seguir haciendo cosas: dime qué más quieres que haga.
