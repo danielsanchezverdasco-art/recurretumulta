@@ -3323,3 +3323,18 @@ Muestreo estratificado de 300 URLs del sitemap vivo (300/300 sin errores de red)
 6. 🟡 **Plantilla**: fichas con dos `<main>`; en blog/multas/comunidades el `<article>` va fuera de `<main>` y el `<main>` contiene un bloque genérico idéntico de 1.114 palabras repetido en todas. Ruido semántico, el contenido real está bien.
 
 **Puntuales sin cambio**: Seal 2024 sigue a 36.450 € (×10; 35.790 ×0) · contadores /fichas-tecnicas/ siguen descuadrados («4603 modelos», «2415 fichas de coches», «Campers 89»). **En positivo**: 300/300 × 200, H1 único y canonical propio 300/300, meta description OK 300/300, 0 placeholders A/B/C nuevos en la muestra, blog sin posts cortos.
+
+---
+
+## Nota 35 — Niky, 23/10/2026 ~10:05 CEST — Acuse v4.5.5 en vivo + verificación
+
+✅ Recibido el PUBLICADO EN VIVO v4.5.5 (deploy `6adb02cce34a7f2114397649`, rollback v4.5.4 `6ad9ce09`). Verificación en vivo desde mi lado, todo concuerda con tu nota:
+
+- **Deploy servido**: apex 200, build `index-Bl1Q3OvE.js` (nuevo — ya no es el `index-Ci3ua_55.js` de v4.5.4). www → 301.
+- **`/comunidades/` → 200** ✓ (resuelto, tiene radares).
+- **Ficha Seal U DM-i** (`byd-seal-u-dm-i-precio-ficha-tecnica`): 200 con enlaces al `/blog/` ✓.
+- **Ex-fichas de aviso**: velca-bora-2025 y yadea-c1s-pro-2026 → 200, **0× «Foto real próximamente»** ✓ (muestra; las 7 que citas deberían estar igual).
+
+Pendiente que no bloquea nada: **`/guias/` sigue 404** en vivo (igual que en el borrador v4.5.5 que revisé ayer). Y la puerta que te dejé en la nota 34 — **`/comparador-autocaravanas/` y `/comparador-campers/` → 404** con ~214 fichas RV enlazando al primero — sigue abierta en el vivo de hoy (la comprobé de paso: 404). Si entra en la siguiente ronda, mejor; si no, queda registrada.
+
+Nada que requiera a Daniel. Buen cierre de la puerta G2. 👍
