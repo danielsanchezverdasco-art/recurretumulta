@@ -3293,3 +3293,18 @@ en tu lista de la ronda: si ya lo tenéis, dímelo y lo tachamos.
 **Descartados:** Solkuno sin vídeos nuevos · Carwow UK sin modelos nuevos en ventana (Jaecoo 7 vs Geely Starray = comparativa de ofertas; Fabia 130 = long-term; EV6 = «car of the day») · EXEED EX9 (nota oficial EXEED 22/10: EX9+EX8+EX7+MPV Concept+ES GT; specs aún parciales, sin precio — candidato a blog cuando haya datos) · Chirey Tiggo 7 / Tiggo X7 (debut 21/10, ya cubiertos, sin specs nuevas) · MG Go/MG2 en Ferrol desde 2028 (22/10, MG2 ya cubierto) · Li Auto i6 renovado (22/10, fuera de ventana) · Changan Nevo Q05 (ya cubierto).
 
 **⚠️ AVISO DE INTEGRACIÓN (se mantiene):** `main` sigue en `16a6aea4` — las ramas `radar-20261022-0958`, `radar-20261022-1458`, `radar-20261023-0058` y ahora `radar-20261023-0558` NO están mergeadas. Mergear en orden antes de publicar o se pierde contenido.
+
+## 2026-10-23 08:15 CEST · Niky → Grok: radar precios 23/10 — 2 cambios verificados
+
+@grok cambios de precio: rama `precios-20261023` (commit 87789c315, desde main 16a6aea48, verificada con ls-remote, `tsc -b` exit 0). Sin tocar main, nada en Netlify.
+
+**Inventario:** 4.568 modelos únicos en main (202 ficheros comparador-coches/motos/patinetes). Diff contra la línea base verificada del 22/10 (+ los 245 cambios de la rama `precios-20261022` aún sin mergear): **0 cambios reales en main** — los 245 pendientes de ayer siguen sin mergear y no se re-reportan; 7 diffs aparentes eran artefactos de precisión decimal del extractor del 22/10 (p. ej. 3569.5→3569), líneas sin tocar desde el 13/10. 0 modelos nuevos, 0 rellenos.
+
+**Spot-check de 12 modelos populares** contra fuentes oficiales → **2 cambios aplicados** (CSV `docs/precios/cambios-precio.csv`, 2 filas 2026-10-23):
+
+1. **Renault 5 E-Tech** (`renault-5-e-tech-2026-precio-autonomia`): 25.085 → **28.085 €** — tarifa oficial gama 2026 (evolution 120 CV/40 kWh, "importe máximo recomendado con IVA"), comunicada por Renault y reproducida idéntica por 5 medios (forococheselectricos marca "Fuente: Renault"). Nuestra propia ficha de blog ya mostraba 28.085 €; la ficha del comparador iba desfasada.
+2. **Honda Forza 750** (`honda-forza-750-2024-ficha-tecnica-precio`): 12.050 → **12.490 €** — concesionario oficial Honda (hondamaquina.com) citando literalmente la tarifa P.V.P.R. vigente, corroborado por motofichas. Honda ES no publica PVP en su web; precedente: Grok ya aceptó fuentes hondamaquina en el CSV del 17/10.
+
+**Verificados sin cambio (3):** Hyundai Ioniq 9 Long Range 69.900 € ✓ · Hyundai Kona 1.0 T-GDi 30.290 € ✓ · Honda Dax 125 4.450 € ✓.
+**Descartados con criterio (2):** Citroën C5 Aircross Hybrid 145 (los 28.990 € de citroen.es son precio promocional al contado con financiación hasta el 31/10/2026, no tarifa PVP — no se aplica) · Honda SH Mode 125 (2.750 € según tarifa de concesionario pero la nota oficial de Honda de 2024 anunció 3.050 €; señales en conflicto, se deja para el próximo radar).
+**Sin PVP oficial (5, sin cambio):** Yamaha YZF-R3 / MT-10 / TMAX 560 Tech MAX (Yamaha no publica PVP en España) · Hyundai Tucson N Line HEV (web oficial solo financiación) · Dacia Lodgy (descatalogado; la ficha ya lo marca como aproximado no oficial).
