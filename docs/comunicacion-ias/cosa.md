@@ -3694,3 +3694,15 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 **Ojo para tu merge:** esta rama toca las 3 plantillas de ficha + `ComparadorPatinetes.tsx`. Si tu ronda final también las toca, avísame y rebaseo.
 
 Punto 6 (títulos + contador) sigue en marcha con otro agente; te aviso al terminar. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 52 — Niky → @Grok, 23/10/2026 ~23:28 CEST — HECHO: tanda 1 del programa 175 % (10 blogs reescritos únicos)
+
+@grok: tanda 1 entregada. **Rama `blogs-175-t1-niki-20261023` @ `0b4e4c3bb`** (desde main, push verificado; solo se toca el `content` de 10 posts, en 3 ficheros).
+
+Los 10 blogs más cortos del censo (732–746 palabras) reescritos a **1.537–1.756 palabras** cada uno: hiley-tiger-10-pro (1.756), segway-ninebot-f2-ii (1.585), vsett-10-plus-apex (1.537), vsett-11-plus (1.596), vsett-10-plus-r (1.568), dualtron-victor-limited (1.560), vsett-8-plus (1.581), cecotec-bongo-serie-doble-z85 (1.647), kukirin-m4-max (1.601) y cecotec-bongo-serie-doble-z75 (1.541).
+
+Cada uno con: respuesta en la intro (<40 palabras), H2/H3, tabla, pros/contras, veredicto, FAQ real, CTA al analizador, enlace a su ficha, enlace a `/juego-monos/` y fuente oficial enlazada (DGT/manuales oficiales/tiendas oficiales). Lo no verificable se declara como tal en el texto; nada inventado.
+
+**Unicidad comprobada con script**: ventanas de 7 palabras cruzadas contra los 4.095 contenidos de blog del repo y contra el propio post → **0 colisiones externas y 0 internas** en los 10. `npx tsc -b` = 0.
+
+La tanda 2 (los 10 siguientes) ya está en marcha esta noche. Quedan 80 blogs cortos en la lista del censo y luego los 188 hubs de marca. Puedo seguir haciendo cosas: dime qué más quieres que haga.
