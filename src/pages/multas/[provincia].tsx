@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { getProvinciaBySlug, PROVINCIAS, PORTAL_PAGO_MULTAS_DGT, PLAZO_ALEGACIONES_MULTAS, TELEFONO_ATENCION_DGT } from "@/lib/provincias-data.ts";
 import { RADARES_POR_PROVINCIA } from "@/lib/radares-por-provincia.generated.ts";
+import { HISTORIAS_PROVINCIA } from "@/lib/historias-provincias.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { DriveInImage } from "@/components/motion.tsx";
@@ -28,6 +29,19 @@ const AUTONOMICO: Record<string, { nombre: string; url: string; urlTexto: string
 // Páginas de ciudad que no son provincia (noindex): sus radares son los de su
 // provincia (Vigo → Pontevedra, Santiago → A Coruña), según provincias-data.
 const CIUDAD_A_PROVINCIA: Record<string, string> = { vigo: "pontevedra", "santiago-compostela": "a-coruna" };
+// 24/10/2026 (fusión radares↔provincias): organismo que publica el listado
+// oficial de radares fijos de cada provincia (verificado el 24/10/2026). En
+// Cataluña es el Servei Català de Trànsit; en Euskadi, la Dirección de Tráfico
+// del Gobierno Vasco (su listado público no detalla radares fijos por
+// provincia: las fichas vascas quedan a 0 declarado, sin inventar); en el
+// resto, la DGT.
+const FUENTE_RADARES: Record<string, { art: string; nombre: string; url: string; urlTexto: string }> = (() => {
+  const sct = { art: "El", nombre: "Servei Català de Trànsit", url: "https://transit.gencat.cat/ca/inici/", urlTexto: "transit.gencat.cat" };
+  const euskadi = { art: "La", nombre: "Dirección de Tráfico del Gobierno Vasco", url: "https://www.trafikoa.euskadi.eus/inicio/", urlTexto: "trafikoa.euskadi.eus" };
+  return { barcelona: sct, girona: sct, lleida: sct, tarragona: sct, bilbao: euskadi, "san-sebastian": euskadi, vitoria: euskadi };
+})();
+const DGT_RADAR = { art: "La", nombre: "DGT", url: "https://www.dgt.es/inicio/", urlTexto: "dgt.es" };
+const fuenteRadaresDe = (slug: string) => FUENTE_RADARES[slug] ?? DGT_RADAR;
 // A1 (doorway): Vigo y Santiago duplican a Pontevedra y A Coruña (75 % y 70 % de texto
 // compartido). noindex,follow hasta tener contenido municipal propio.
 // noindex,follow vía src/lib/noindex.generated.json (/multas/vigo/, /multas/santiago-compostela/).
@@ -142,8 +156,9 @@ export default function MultaProvinciaPage() {
 
   const otrasProvincias = PROVINCIAS.filter((x) => x.slug !== p.slug).sort((a, b) => Number(b.ccaa === p.ccaa) - Number(a.ccaa === p.ccaa)).slice(0, 8);
 
-  // Radares oficiales de la provincia (dataset docs/radares/*.csv): cada uno
-  // enlaza a su ficha /radares/<id>/ con mapa 2D y Street View.
+  // Radares oficiales de la provincia (listado oficial DGT/SCT/Gobierno Vasco):
+  // 24/10/2026 (fusión): las fichas /radares/<id>/ se fusionan en esta página
+  // (301 a /multas/<slug>/); cada radar se muestra con sus datos oficiales.
   const slugRadares = CIUDAD_A_PROVINCIA[p.slug] ?? p.slug;
   const esCiudadSinProvincia = slugRadares !== p.slug;
   const nombreProvinciaRadares = getProvinciaBySlug(slugRadares)?.nombre ?? p.nombre;
@@ -333,17 +348,16 @@ export default function MultaProvinciaPage() {
             {radaresProvincia.length > 0 ? (
               <>
                 <p className="text-sm text-gray-600">
-                  {radaresProvincia.length} {radaresProvincia.length === 1 ? "radar fijo" : "radares fijos"} con ficha propia: ubicación en el mapa, Street View, carretera, punto kilométrico y límite de velocidad.
+                  {radaresProvincia.length} {radaresProvincia.length === 1 ? "radar fijo" : "radares fijos"} del listado oficial: carretera, punto kilométrico, sentido, municipio y límite de velocidad.
                 </p>
                 <ul className="grid sm:grid-cols-2 gap-2">
                   {radaresProvincia.map((r) => (
                     <li key={r.id}>
-                      <Link
-                        to={`/radares/${r.id}/`}
-                        className="flex items-center justify-between gap-2 border border-gray-200 rounded-xl px-3 py-2.5 bg-white hover:border-red-300 hover:shadow-sm transition-all group"
+                      <div
+                        className="flex items-center justify-between gap-2 border border-gray-200 rounded-xl px-3 py-2.5 bg-white"
                       >
                         <span className="text-sm text-gray-700">
-                          <span className="font-bold text-gray-900 group-hover:text-red-600">{r.carretera} pk {r.pk}</span>
+                          <span className="font-bold text-gray-900">{r.carretera} pk {r.pk}</span>
                           {r.municipio ? <> — {r.municipio}</> : null}
                           {r.sentido ? <span className="text-gray-400"> ({r.sentido})</span> : null}
                         </span>
@@ -352,18 +366,39 @@ export default function MultaProvinciaPage() {
                         ) : (
                           <span className="shrink-0 text-[10px] font-semibold text-gray-400">límite no publicado</span>
                         )}
-                      </Link>
+                      </div>
                     </li>
                   ))}
                 </ul>
-                <p className="text-[11px] text-gray-400">Datos oficiales de radares fijos (DGT y organismos autonómicos). La ausencia de un radar en esta lista no significa que no exista.</p>
+                <p className="text-[11px] text-gray-400">Fuente: listado oficial de radares fijos ({fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre}, <a href={fuenteRadaresDe(slugRadares).url} target="_blank" rel="noopener noreferrer" className="underline">{fuenteRadaresDe(slugRadares).urlTexto}</a>) — datos verificados el 24/10/2026. La ausencia de un radar en esta lista no significa que no exista.</p>
               </>
             ) : (
               <p className="text-sm text-gray-600">
-                Todavía no hay radares de {p.nombre} en nuestro índice: estamos incorporando los listados oficiales provincia a provincia. Mientras tanto, consulta el <Link to="/radares/" className="text-red-600 hover:underline font-semibold">índice general de radares</Link>.
+                {fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre} no publica un listado de radares fijos para {nombreProvinciaRadares} (comprobado el 24/10/2026): lo declaramos así antes que inventar ubicaciones. Los controles móviles no aparecen en ningún listado público. Consulta el <Link to="/radares/" className="text-red-600 hover:underline font-semibold">índice general de radares</Link>.
               </p>
             )}
           </section>
+
+          {/* Historias reales con fuente (24/10/2026, fusión radares↔provincias):
+              noticias reales verificadas 1x1 sobre radares y multas en la provincia. */}
+          {(HISTORIAS_PROVINCIA[p.slug] ?? []).length > 0 && (
+            <section className="space-y-3">
+              <h2 className="text-xl font-black text-gray-900">Historias reales: radares y multas en {p.nombre}</h2>
+              <p className="text-sm text-gray-600">Noticias reales sobre controles de velocidad y sanciones en la provincia, cada una con su fuente.</p>
+              <div className="space-y-3">
+                {(HISTORIAS_PROVINCIA[p.slug] ?? []).map((h, i) => (
+                  <article key={i} className="border border-gray-200 rounded-2xl p-4 space-y-1.5">
+                    <p className="text-sm font-black text-gray-900">{h.titulo}</p>
+                    <p className="text-xs text-gray-500 leading-relaxed">{h.resumen}</p>
+                    <p className="text-[11px] text-gray-400">
+                      Fuente: <a href={h.url} target="_blank" rel="noopener noreferrer" className="underline text-red-600 hover:text-red-700">{h.fuente}</a>
+                      {h.fecha ? <> · {h.fecha}</> : null}
+                    </p>
+                  </article>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* ZBE si existe */}
           {p.multas.zonasBajas.length > 0 && (
