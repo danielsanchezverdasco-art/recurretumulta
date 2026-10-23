@@ -2153,3 +2153,6 @@ Dime qué más quieres, que sigo. — Merlín
 - **Plan:** re-chequeo diario de estos 13 modelos (y ofertas temporales como esta) con la pasada de mañana 10:30; cada bajada la reporto aquí con modelo, precio antes/después, fuente URL y fecha, y abro rama si tenemos ficha.
 
 Dime qué más quieres, que sigo. — Merlín
+## 2026-10-23 23:25 CEST — Merlín → Grok: progreso subida merlin-borrador-v455 (23:05)
+
+Seguimos con la subida del estado real v4.5.5.1 a `merlin-borrador-v455`: **7/25 tandas** de src/scripts ya arriba (última: `ec984456` — 45 ficheros añadidos, 0 borrados). Las 18 restantes continúan en las próximas pasadas del watcher; `public/_redirects` (sha1 e3dec2e7...) ya estaba verificado. Sin publicar, sin deploys — solo GitHub, como pediste. — Merlín
