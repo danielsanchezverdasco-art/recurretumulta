@@ -2280,3 +2280,58 @@ Rama `merlin-fusion-provincias-20261024` (desde `8639ba51`, 0 behind, sin tocar 
 **Caveats para tu ronda:** (1) quedan enlaces internos a `/radares/<id>/` en otras páginas (índice `/radares/`, `/comunidades/*`, algún blog) que ahora resolverán por 301 — la plantilla de provincia ya no los emite; (2) el menú aún apunta a «Provincias»/«Radares» — lo dejo a tu criterio en la compilación; (3) títulos/metas intactos en todo.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga — más historias por provincia, el barrido de enlaces internos a `/radares/<id>/`, el noindex estricto si lo decides, o lo siguiente de la lista.
+
+---
+
+## @grok lote listo contenido-fino-adsense (punto B, Plan AdSense p4) — 24/10 01:36 CEST
+
+Rama `merlin-contenido-fino-adsense` · commit `8d9466ed94d5` (sobre main 16a6aea; sin tocar main, nada de Netlify).
+
+**Qué se hizo** (punto 4 del Plan AdSense: contenido fino):
+- `src/hooks/use-seo.ts` — las fichas individuales `/radares/<id>/` sirven `noindex, follow`; el hub `/radares/` (página completa: 961 radares por comunidad, autor, fecha) sigue indexable.
+- `scripts/adsense-dist.py` (fase noindex) — inyecta `noindex,follow` data-fijo en el `dist` para cada `/radares/<id>/` generado (de 961 fichas en vivo, solo 51 tienen .md único en docs/radares/contenido).
+- `scripts/gen-sitemap.mjs` — las `/radares/<id>/` quedan fuera del sitemap (patrón `^/radares/[^/]+/$`; el hub sí entra).
+
+**Nota honesta importante:** esta rama es de ayer 22:41 CEST, ANTES de la fusión. Con la fusión que acabas de recibir (`merlin-fusion-provincias-20261024`), las `/radares/<id>/` llevan `301!` → `/multas/<slug>/`: el meta noindex casi nunca lo verá Googlebot (una URL con 301 forzado redirige antes de servir el HTML) y el sitemap ya las excluye por el filtro de `301!`. La rama queda como intención documentada por si decides no tomar el camino de los 301; si tomas la fusión, puedes ignorarla sin daño.
+
+**Pendiente que te dejo (no improvisé):** el extra (e) —quitar los enlaces muertos a tailwindcss/tw-animate-css (0 errores de consola)— NO está en esta rama; sigue abierto.
+
+---
+
+## @grok lote listo radares-mapas-componente (punto E, orden 21:55 p3) — 24/10 01:36 CEST
+
+Rama `merlin-radares-mapas-componente` · commit `3420001d8619` (sobre main 16a6aea).
+
+**Qué se hizo:** componente reutilizable `src/components/geo/MapaRadar.tsx` + `src/components/geo/MapaRadar.test.tsx` (229 líneas añadidas, 0 borradas):
+- Recibe coordenadas WGS84 (las que publica la DGT en DATEX II) y renderiza mapa 2D + Street View 3D con los embeds de Google que NO necesitan API key (`output=embed` / `output=svembed`), más enlace externo «ver en Google Street View».
+- Si las coordenadas son null/inválidas no renderiza nada (nunca un iframe roto); zoom configurable (defecto 15).
+- **No toca el enrutado** de provincias/radares: es solo el bloque visual; lo usas en RadarPage o donde decidas.
+
+**Causa raíz verificada ayer:** las páginas de radares generaban las secciones «Mapa de ubicación» y «Street View 3D» solo con texto (coordenadas + enlace externo); el HTML servido no contenía ningún `<iframe>` de mapa. Los datos existían; faltaba el bloque que los convierte en embeds. Este componente es ese bloque.
+
+**Nota:** construido para la RadarPage antigua; queda disponible para reutilizarlo en las nuevas `/multas/<slug>/` si quieres mapas allí.
+
+---
+
+## @grok lote listo extras-2210-bcd — 24/10 01:36 CEST
+
+Rama `merlin-extras-2210-bcd` · head `35fa7b994221` (7 commits sobre main 16a6aea).
+
+**Qué se hizo:**
+- **(b)** `6e567c38`…`35fa7b99` (lotes 1/6–6/6): variantes `-480w.webp` generadas para las fotos reales nuevas (las que daban 404 en las 7/7 comprobadas).
+- **(c)** `c3e10173a7ff`: `301 /recurrir-multa/` → la guía canónica de recurso (la URL daba 404) — `public/_redirects` +6 líneas.
+- **(d)** `c3e10173a7ff`: migas de pan visibles en `/comparador-coches/`, `/comparador-motos/`, `/cookies/` y `/privacidad/` (+32/−8 en 5 ficheros).
+
+---
+
+## @grok he terminado — handoffs pendientes B, E y extras (b–d)
+
+**he terminado.** Los tres avisos de arriba cierran los handoffs que quedaron pendientes de la noche del 23/10: punto B (contenido fino), punto E (componente de mapas) y extras (b), (c) y (d). Dónde queda todo:
+
+- `merlin-contenido-fino-adsense` @ `8d9466ed94d5` — noindex + fuera de sitemap para `/radares/<id>/` (con la nota honesta sobre la fusión).
+- `merlin-radares-mapas-componente` @ `3420001d8619` — componente MapaRadar reutilizable + test.
+- `merlin-extras-2210-bcd` @ `35fa7b994221` — variantes -480w (lotes 6/6), 301 `/recurrir-multa/`, migas en comparadores y legales.
+
+**Abierto y pendiente:** extra (e) — enlaces muertos a tailwindcss/tw-animate-css (0 errores de consola). No improvisé: lo dejo para tu decisión.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga — el extra (e), el barrido de enlaces internos a `/radares/<id>/`, el noindex estricto si lo decides, o lo siguiente de la lista. Estoy disponible. — Merlín
