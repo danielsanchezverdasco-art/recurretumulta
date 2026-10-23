@@ -1,12 +1,13 @@
 import { useParams, Link } from "react-router-dom";
 import {
   Shield, MapPin, ArrowRight, Check, AlertTriangle, Clock,
-  Sparkles, Tag, Info, UserRound, Landmark,
+  Sparkles, Tag, Info, UserRound, Landmark, Camera,
 } from "lucide-react";
 import { Button } from "@/components/ui/button.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { getComunidadBySlug, COMUNIDADES } from "@/lib/comunidades-data.ts";
+import { getRadaresComunidad } from "@/lib/comunidades-radares.ts";
 import { getProvinciaBySlug } from "@/lib/provincias-data.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
@@ -63,7 +64,7 @@ export default function ComunidadPage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://recurretumulta.online/" },
-              { "@type": "ListItem", "position": 2, "name": "Multas", "item": "https://recurretumulta.online/multas" },
+              { "@type": "ListItem", "position": 2, "name": "Comunidades", "item": "https://recurretumulta.online/comunidades/" },
               { "@type": "ListItem", "position": 3, "name": c.nombre, "item": `https://recurretumulta.online/comunidades/${c.slug}` },
             ],
           },
@@ -104,6 +105,7 @@ export default function ComunidadPage() {
   const provincias = c.provincias
     .map((s) => getProvinciaBySlug(s))
     .filter((p): p is NonNullable<typeof p> => Boolean(p));
+  const radares = getRadaresComunidad(c.slug);
   const otrasComunidades = COMUNIDADES.filter((x) => x.slug !== c.slug).slice(0, 8);
 
   return (
@@ -129,7 +131,7 @@ export default function ComunidadPage() {
             >
               <Link to="/" className="hover:text-white">Inicio</Link>
               <span aria-hidden="true">/</span>
-              <Link to="/multas/" className="hover:text-white">Multas</Link>
+              <Link to="/comunidades/" className="hover:text-white">Comunidades</Link>
               <span aria-hidden="true">/</span>
               <span className="text-white/80">{c.nombre}</span>
             </nav>
@@ -335,6 +337,57 @@ export default function ComunidadPage() {
               </Card>
             </div>
           )}
+
+          {/* Radares de la CCAA: fichas concretas /radares/<id> (datos en
+              lib/comunidades-radares.ts, verificados contra el índice servido).
+              Las CCAA sin radares en el índice enlazan al índice general. */}
+          <section className="space-y-3">
+            <h2 className="text-xl font-black text-gray-900">
+              Radares de velocidad en {c.nombre}
+            </h2>
+            {radares.length > 0 ? (
+              <>
+                <p className="text-sm text-gray-600 leading-relaxed">
+                  Estos son los radares fijos, de tramo y de cabina con ficha propia en {c.nombre}:
+                  carretera, punto kilométrico, sentido, límite y municipio. Si tu multa viene de uno
+                  de ellos, en su ficha verás qué revisar antes de pagar: verificación metrológica en
+                  vigor, señalización del límite y foto que identifique tu vehículo.
+                </p>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  {radares.map((r) => (
+                    <Link
+                      key={r.slug}
+                      to={`/radares/${r.slug}/`}
+                      className="rounded-xl border border-gray-200 bg-white px-3 py-2.5 text-sm font-semibold text-gray-700 hover:border-red-400 hover:text-red-600 transition-colors flex items-center gap-2"
+                    >
+                      <Camera className="w-3.5 h-3.5 text-red-500 shrink-0" />
+                      <span>
+                        {r.carretera} · pk {r.pk} ({r.sentido}) · {r.municipio}
+                        {r.limite ? ` · límite ${r.limite} km/h` : ""}
+                      </span>
+                    </Link>
+                  ))}
+                </div>
+                <p className="text-xs text-gray-500">
+                  ¿No está tu radar? Consulta el{" "}
+                  <Link to="/radares/" className="text-red-700 underline">índice completo de radares</Link>{" "}
+                  o la{" "}
+                  <Link to="/guias/radares/" className="text-red-700 underline">guía de radares y cómo recurrir sus multas</Link>.
+                </p>
+              </>
+            ) : (
+              <p className="text-sm text-gray-600 leading-relaxed">
+                El listado de radares con ficha individual de {c.nombre} se está completando por
+                comunidades. Mientras tanto, consulta el{" "}
+                <Link to="/radares/" className="text-red-700 underline">índice completo de radares</Link>{" "}
+                y la{" "}
+                <Link to="/guias/radares/" className="text-red-700 underline">guía de radares de tráfico</Link>:
+                una multa de radar se puede recurrir si el cinemómetro no tenía la verificación
+                metrológica en vigor, si la señalización del límite era incorrecta o si la foto no
+                identifica tu vehículo con claridad.
+              </p>
+            )}
+          </section>
 
           {/* Vídeo */}
           <section className="space-y-3">

@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import {
@@ -28,7 +29,6 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
-import Relacionados from "@/components/Relacionados.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
@@ -59,7 +59,9 @@ import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
 const HistorialPreciosLazy = lazy(() => import("@/components/HistorialPrecios.tsx"));
-const SeguridadEuroNCAPLayz = lazy(() => import("@/components/SeguridadEuroNCAP.tsx"));
+// 20/10/2026 (informe Niky p.18): EuroNCAP no ensaya patinetes; la sección
+// «Seguridad EuroNCAP» no se pinta en fichas de patinete (el componente se
+// queda solo para coches, donde sí hay tests oficiales).
 // 12/10/2026: opiniones de propietarios con fotos (below-the-fold en lazy).
 const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"));
 // 18/10/2026: audiencia (puntúa, ¿lo comprarías?, duelo, visitas). Solo cliente, tras la carga.
@@ -243,10 +245,11 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Inicio", item: "https://recurretumulta.online/" },
           {
+            // 20/10/2026 (fix plantilla): la miga de las fichas es el hub de Fichas Técnicas, no el comparador.
             "@type": "ListItem",
             position: 2,
-            name: "Comparador de patinetes",
-            item: "https://recurretumulta.online/comparador-patinetes/",
+            name: "Fichas técnicas",
+            item: "https://recurretumulta.online/fichas-tecnicas/",
           },
           {
             "@type": "ListItem",
@@ -311,8 +314,8 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             Inicio
           </Link>{" "}
           ·{" "}
-          <Link to="/comparador-patinetes/" className="hover:underline">
-            Comparador de patinetes
+          <Link to="/fichas-tecnicas/" className="hover:underline">
+            Fichas técnicas
           </Link>{" "}
           · <span className="text-gray-700">{nombre}</span>
         </nav>
@@ -465,6 +468,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           </Suspense>
         )}
 
+        {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
+        <AnalisisEditorial slug={patinete.id} />
+
         {(patinete.galeria?.length ?? 0) > 0 && (
           <Suspense fallback={null}>
           <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
@@ -545,7 +551,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             const g = garantiaDeMarca(patinete.marca, "patinetes");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                🛡️ Garantía oficial {patinete.marca}: <strong className="text-gray-800">{g.anios} años{g.km ? ` / ${fmtMiles(g.km)} km` : ""}</strong>
+                {`🛡️ Garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;
@@ -662,9 +668,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           </section>
         )}
 
-        <Suspense fallback={null}>
-          <SeguridadEuroNCAPLayz fichaId={patinete.id} nombre={nombre} />
-        </Suspense>
+        {/* 20/10/2026 (fix plantilla): sin sección «Seguridad EuroNCAP» en patinetes — Euro NCAP no prueba patinetes. */}
 
         <RivalesCarrusel tipo="patinetes" id={patinete.id} nombre={nombre} rivales={extra.r} />
 
@@ -698,8 +702,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           </Link>
         </p>
 
-        <Relacionados pathname={`/patinetes/${patinete.id}/`} enArticulo />
-
+        
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
           <h2 className="text-2xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">
@@ -778,10 +781,8 @@ export default function PatinetesFichaPage() {
       setExtra(ex);
       setPatinete(p ?? null);
       if (p) {
-        await Promise.all([
-          loadRecordEntry("historia", slug),
-          loadRecordEntry("euroncap", slug),
-        ]);
+        // Sin precarga EuroNCAP: no aplica a patinetes (20/10/2026).
+        await loadRecordEntry("historia", slug);
       }
       if (alive) document.body.dataset.pageReady = "1";
     })();
