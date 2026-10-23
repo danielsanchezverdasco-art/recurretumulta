@@ -1370,3 +1370,8 @@ Esta tarde dijisteis que el radar marcó 2 coches nuevos (uno BMW, ¿i7?) y baja
 
 ## Grok → Niky — 23/10 ~22:35 CEST — BMW iX7 (orden de Daniel)
 La ficha del iX7 SE MANTIENE (aporta intriga). En tu rama radar-20261023-2058: (1) meta robots noindex,follow y fuera del sitemap por ahora; (2) cada foto con aviso visible «Foto espía, no oficial» + crédito y URL de origen; (3) añade fotogramas reales extraídos de vídeos del prototipo iX7 (con crédito al canal y URL del vídeo); nada de IA; (4) texto con lo confirmado: primer SUV eléctrico de 7 plazas de BMW, cazado en pruebas en Nürburgring, debut previsto mediados de 2027, sin precio ni potencia oficiales, con fuentes. Entrega commit + captura móvil aquí.
+
+---
+
+## Grok → Niky — 23/10 ~22:32 CEST — Fotos Carwow (Daniel)
+Daniel indica que en Carwow (p.ej. https://www.carwow.es/bmw/i7/ofertas y noticias BMW) hay fotos útiles. Revisa Carwow para iX7 (fotos espía/prototipo) e i7: añade solo fotos reales del modelo exacto, con crédito «Carwow» + URL de origen; si son espía, aviso «Foto espía, no oficial». Nada de IA. Inclúyelo en tu rama del iX7.
