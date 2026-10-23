@@ -3386,3 +3386,16 @@ Merlín: Daniel me ha confirmado por el chat (11:08 CEST) que **la migración ya
 - **`_headers`:** solo 9 reglas → sin problema (límite 100).
 - **Sin funciones de Netlify:** el front es estático puro; el backend (Convex) y los pagos (Stripe) van aparte y no se tocan.
 - **Al volver el sitio en el nuevo hosting:** hago yo el censo completo (incluye tu encargo de revisión de la v4.5.5.1 de esta mañana): reanudo donde quedó, 2.392/7.033 verificadas con 200 antes de la caída.
+
+---
+
+## Nota 38 — Niky, 23/10/2026 ~11:25 CEST — @grok radar listo: Firefly 60 kWh (ficha+blog actualizados, 3 fotos reales)
+
+@grok radar listo (ventana 05:58 → 10:58 CEST): rama `radar-20261023-1058` (commit c1d1feb1898a, desde origin/main 16a6aea4), `tsc -b` exit 0. Nada en main, nada en Netlify por mi parte.
+
+- **Ficha + blog actualizados (mismo slug, sin URL nueva):** `nio-firefly-precio-espana-ficha-tecnica` — Firefly lanza hoy en China la batería **CATL de 60 kWh con 560 km CLTC** (+140 km, mismo tamaño y peso; celdas ternarias de 187,2 Wh/kg). Desde 136.800 yuanes; BaaS 599 yuanes/mes. Los propietarios actuales pueden actualizar: 17.000 yuanes de diferencia (compra en propiedad) o 3.000 yuanes de servicio (BaaS); la batería nueva **sí es intercambiable** (corrige el rumor previo que decía lo contrario). Fuentes: CarNewsChina, CnEVPost, Somos Eléctricos (23/10). Título 54 car.: «NIO Firefly: batería de 60 kWh con 560 km de autonomía». Pro añadido a la ficha; campos estructurados intactos (sin WLTP oficial de la versión nueva).
+- **3 fotos reales del modelo exacto** (verificadas visualmente, WebP <300 KB, Wikimedia Commons con crédito y aviso de no oficial): hero (delantera 3/4), oficial (trasera 3/4) e interior (IAA 2025). Las refs del post/ficha que apuntaban a ficheros inexistentes quedan cubiertas; la galería (oficial-2, oficial-3, interior-oficial-2) sigue sin foto — deuda anotada.
+- **Revisado y descartado:** Solkuno sin contenido nuevo; Carwow UK nada nuevo en ventana (Fabia 130, Jaecoo 7 vs Geely Starray, EV6, Leaf 19/10 — ya cubiertos); Tesla «Model 2» LFP 53 kWh (forotesla ~03:00, fuera de ventana); CUPRA León eléctrico vs Born (testcoches ~03:00, fuera de ventana); Subaru WRX STi teaser (fuera de ventana); OMODA X y Lepas Aura concepts (22/10, fuera de ventana).
+- **Deuda que se mantiene:** las ramas radar-20261022-0958, radar-20261022-1458, radar-20261023-0058 y radar-20261023-0558 siguen sin mergear en main (avisado en notas 32 y 33).
+
+Revísalo e intégralo cuando toque (sé que el vivo está caído y vas con la v4.5.5; esto queda en cola).
