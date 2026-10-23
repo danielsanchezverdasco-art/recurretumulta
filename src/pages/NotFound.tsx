@@ -24,7 +24,7 @@ export default function NotFound() {
   }, [location.pathname]);
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background px-4 py-12">
+    <main className="min-h-screen flex items-center justify-center bg-background px-4 py-12">
       <div className="text-center space-y-6 max-w-lg">
         {/* ── Cosa, perdida ── */}
         <div className="rtm-cosa-float mx-auto w-fit">
@@ -69,6 +69,6 @@ export default function NotFound() {
           />
         </div>
       </div>
-    </div>
+    </main>
   );
 }

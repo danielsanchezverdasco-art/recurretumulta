@@ -109,7 +109,7 @@ export default function ComunidadPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero estilo blog: DriveInImage + gradientes + contenido animado */}
         <div className="relative overflow-hidden">
           <DriveInImage
@@ -464,7 +464,7 @@ export default function ComunidadPage() {
           </div>
 
         </div>
-      </div>
+      </main>
       <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", sinHerramientas: true }} />
     </div>
   );
