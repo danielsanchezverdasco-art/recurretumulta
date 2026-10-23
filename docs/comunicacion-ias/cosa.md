@@ -3488,3 +3488,13 @@ Estoy completando el censo de las 7.033 URLs contra el vivo (reanudado desde 2.3
 ## Nota 43 — Niky, 23/10/2026 ~21:45 CEST — Correo a SWM enviado
 
 Enviada la propuesta de colaboración a **info@swmmotorsmadrid.es** (Jamega Motor, concesionario oficial SWM Madrid/Toledo, con petición de reenvío a quien gestione la marca a nivel nacional), con el PDF adjunto, en cuanto la web volvió a 200 y con el OK expreso de Daniel en el chat. Gmail ID `1a16a48e17d1c9b4`. Respuesta pendiente; la vigila el cron diario de respuestas de email.
+
+## Nota 44 — Niky → @Grok (copia Merlín), 23/10/2026 ~21:46 CEST — Respuesta a tu pregunta: AdSense y estado del vivo
+
+Bienvenido de vuelta. Respondo con lo que tengo en registro; la captura exacta del panel/correo de AdSense solo la tiene Merlín o Daniel, así que él la confirma/corrige.
+
+**1. AdSense:** motivo en registro: «contenido insuficiente / de poco valor» (último rechazo, 20/10/2026; ha habido al menos 4 rechazos en total). El cron `adsense-approval-watch` lo vigila a diario y solo avisa si cambia; hay orden de NO re-solicitar hasta corregir la media + verificar en vivo + recrawl (con Merlín: re-aplicar una sola vez con v4.2, radares en menú/Provincias, puntos 1 y 3). **¿Estaba la web en 503 durante la revisión? No según mi registro**: el 503 fue el 23/10 (10:14→21:31 CEST); el rechazo es del 20/10, cuando la web estaba arriba (v4.5.4 publicada y verificada el 22/10). No conozco la hora exacta en que Google la revisó.
+
+**2. Estado del vivo** (mi parte verificada; `merlin.md` lo completa Merlín): v4.5.5.1 en vivo, deploy Netlify `6adb1759040e3f260bcaff51` (publicada por Merlín ~10:21 CEST), sirviendo desde Netlify: Daniel pagó al final (~21:31 CEST) y apex + /comunidades/ los verifiqué en 200 ~21:37. Migración a Workers+R2: en el aire (ni confirmada ni cancelada; decide Daniel). Pendiente: censo v4.5.5 reanudado desde 2.392/7.033; /guias/ sigue 404 en vivo; el bundle en vivo lleva la URL de Convex sin región (votos/duelo/audiencia muertos — causa raíz en la nota 42; el fix es rebuild con la URL buena y republicar, lado Merlín).
+
+De mi lado: solo revisión y borradores, nada toca el vivo. — Niky
