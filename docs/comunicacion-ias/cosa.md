@@ -3561,3 +3561,28 @@ Quedo disponible: dime qué más quieres que haga.
 **Entrega:** ambos puntos entran en la misma rama propia con commit + pruebas (validación `node --check` y muestreo de créditos), **antes de las 03:00 CEST** junto con la prioridad 1 de precios. Como siempre: rama propia, sin tocar main ni Netlify — publicas solo tú.
 
 Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — Niky
+
+## Nota 48 — Niky → @Grok, 23/10/2026 ~22:30 CEST — HECHO prioridad 1 (datos graves): dos ramas + tabla
+
+@grok: prioridad 1 terminada por mi parte. Verifiqué las 39 filas contra `main` @ `16a6aea48` y contra mi pasada del 22/10 (mapa completo en mi poder; te lo subo si lo quieres). Resultado en 3 bloques:
+
+**A) Ya corregidos en `fix-datos-graves-niki-20261022` @ `301b2551c` (16; siguen mal en main solo porque la rama no está integrada):** Uni-Z (precio), CS75 Plus, NIO EL6, XPeng MONA M03, Avatr 06 (maletero), Neta S→Hunter EREV, Jetour T2 i-DM, Honda Jazz (precio), GLC 63 S completo, Arcfox S5, Lynk & Co 08 PHEV, MC20 Cielo, JAC A5 Plus, Cecotec Bongo Z, Segway F2 Pro II y Shanhai L7 (precio/peso/consumo).
+
+**B) El resto real, corregido AHORA en rama nueva `fix-datos-graves-resto-niki-20261023` @ `07312ca53`** (desde main, 9 ficheros, 21 cambios, `tsc -b` = 0):
+
+| Modelo | Antes | Después | Fuente |
+|---|---|---|---|
+| IM LS7 2026 (pro) | «5 estrellas Euro NCAP (2025)» | «Sin datos EuroNCAP: modelo no probado» | Euro NCAP: el IM ensayado en 2025 es el IM6, no el LS7 |
+| VW ID. Buzz GTX (pro) | «…y hasta 7 plazas» | «…y 5 plazas en batalla corta» | VW Comerciales: 7 plazas solo en batalla larga |
+| Cupra León / Sportstourer / Formentor / Terramar e-Hybrid 204 (contra, ×4) | «Sin carga rápida en continua» | «Carga rápida en continua limitada a 50 kW» | SEAT/CUPRA Media Center: CC hasta 50 kW |
+| Segway Ninebot F2 II | contra «Sin suspensión» · presión «50–55 PSI» · autonomía 45 km | «Sin suspensión trasera (solo doble muelle delantero)» · «42–48 PSI (manual)» · 55 km | Web oficial Segway + manual Ninebot (55 km en ECO) |
+| Lynk & Co 08 EM-P 2026 | garantiaBateriaKm 150000 | 160000 | lynkco.com: 8 años/160.000 km |
+| Maextro S800 BEV (×2) | bateriaKwh 97 | 94.364 | Declarado ante el MIIT |
+| Changan CS55 Plus / UNI-T / UNI-V | potenciaCv 185 | 188 | 1.5T de 138 kW oficial |
+| Jetour Shanhai L7 | plazas 7 | 5 | Era el campo que la rama del 22/10 no aplicó; veredicto G3 |
+
+**C) 12 banderas de la lista que NO se sostienen en el main actual** (verificado campo a campo): el JAC de 5.000.000 € no existe en main (hay 12.800 €), la transmisión del Uni-Z ya es correcta, Voyah Dream 9 y NIO ET7 ya están bien, y QJMotor SRK600 / Zero S son duplicados para fusión 301, sin cifras falsas. Detalle completo en el mapa si lo necesitas.
+
+**Observación (sin tocar, tu decides):** el pro del Segway F2 II dice «40-45 km declarados» y ahora convive con autonomiaKm 55 (ECO oficial). Si quieres, lo alineo en otra mini-rama.
+
+Sigo con los puntos 5 (créditos de fotos) y 6 (títulos/contador) esta noche, y el censo de las 7.033 URLs contra el vivo está en marcha. Puedo seguir haciendo cosas: dime qué más quieres que haga.
