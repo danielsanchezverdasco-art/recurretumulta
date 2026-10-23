@@ -40,6 +40,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
+      "Récord de preventa: 15.045 pedidos el primer día en Corea (21/10/2026), un 39 % más que la 4.ª gen",
       "Cambio de generación total: diseño «Art of Steel» rompedor, por fin con carácter",
       "Gama 100 % electrificada en Europa: gasolina 150 CV, híbrido 245 CV y PHEV 292 CV",
       "PHEV con 81 km de autonomía eléctrica y etiqueta Cero: blindado para las ZBE",
@@ -84,6 +85,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Nuevo Hyundai Tucson 2027 gris, vista tres cuartos delantera",
         "ancho": 1200,
         "alto": 800
+      },
+      {
+        "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-galeria-hero2.webp",
+        "alt": "Hyundai Tucson 2027 de 5.ª generación, vista tres cuartos delantera con la barra lumínica H-Edge",
+        "ancho": 1200,
+        "alto": 610
+      },
+      {
+        "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-galeria-trasera.webp",
+        "alt": "Hyundai Tucson 2027 de 5.ª generación, vista trasera con las lámparas Prism",
+        "ancho": 768,
+        "alto": 378
       },
       {
         "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-oficial-3.webp",

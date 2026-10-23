@@ -136,6 +136,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "chery-tiggo-9-csh-2026-precio-ficha-tecnica": () => import("../blog-posts-chery-a.ts"),
     "chery-tiggo-9l-2026-precio-ficha-tecnica": () => import("../blog-posts-chery-a.ts"),
     "chery-tiggo-x-2027-precio-ficha-tecnica": () => import("../blog-posts-chery-a.ts"),
+    "chery-volt-dragon-carga-1440-kw": () => import("../blog-posts-radar-20261023d.ts"),
     "chevrolet-blazer-ev-2025-precio-autonomia": () => import("../blog-posts-lote13.ts"),
     "chevrolet-corvette-c8-2025-precio-ficha-tecnica": () => import("../blog-posts-batch2b-1.ts"),
     "chevrolet-corvette-zr1-2025-precio-ficha-tecnica": () => import("../blog-posts-lote4.ts"),

@@ -74,6 +74,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "toyota-camry-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "toyota-corolla-5p-140h-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp9.ts"),
     "toyota-corolla-5p-140h-2026-precio-ficha-tecnica": () => import("../blog-posts-batch2b-4.ts"),
+    "toyota-corolla-60-aniversario-2026-precio": () => import("../blog-posts-radar-20261023d.ts"),
     "toyota-corolla-baja-precio-octubre-2026": () => import("../blog-posts-flash-2026.ts"),
     "toyota-corolla-berlina-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),
     "toyota-corolla-cross-200h-2025-precio-ficha-tecnica": () => import("../blog-posts-toyota-a.ts"),

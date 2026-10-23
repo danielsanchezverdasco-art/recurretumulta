@@ -19,6 +19,12 @@ export const COCHES_SMART: CocheComparador[] = [
     // (exterior + interior). La galería muestra solo el interior para no
     // repetir el hero. Mantenimiento: A VERIFICAR (smart aún no
     // publica el programa del #2) → costeMensual: null, sin cifras inventadas.
+    // ACTUALIZADO 23/10/2026 (radar noticias): lanzamiento confirmado el
+    // 5/11/2026 en China (410 km CLTC), pedidos ya abiertos en España desde
+    // 19.990 € (Pure), Europa en primavera de 2027 con 290 km WLTP
+    // (provisional). Galería ampliada con 3 fotos reales verificadas del
+    // modelo de producción (Wikimedia Commons Y.Leclercq CC BY-SA 4.0 +
+    // nota de prensa oficial smart).
     id: "smart-2-2026-precio-autonomia-paris",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
@@ -32,6 +38,12 @@ export const COCHES_SMART: CocheComparador[] = [
     tipo: "Eléctrico",
     categoria: "Urbano",
     precioDesde: 19990,
+    versiones: [
+      { nombre: "Pure", precio: 19990 },
+      { nombre: "Pure+", precio: 20990 },
+      { nombre: "Premium", precio: 24490 },
+      { nombre: "Couture Edition (999 uds. en Europa)", precio: 25690 },
+    ],
     potenciaCv: 82,
     autonomiaKm: 290,
     maleteroL: 305,
@@ -78,96 +90,24 @@ export const COCHES_SMART: CocheComparador[] = [
         "alt": "Interior del smart #2 con volante smart, pantalla de 10,1 pulgadas y aireadores de turbina",
         "ancho": 1280,
         "alto": 720
-      }
-    ],
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: no hay prueba publicada para el smart #2.",
-    },
-  },
-  {
-    // smart #2 — FICHA NUEVA 23/10/2026 (radar noticias): precios oficiales
-    // España, fecha de lanzamiento (5/11/2026 China; primavera 2027 Europa) y
-    // pedidos ya abiertos en España. Datos de hibridosyelectricos.com,
-    // gagadget.es y pruebascoches.com + nota oficial smart (media.smart.com,
-    // 12/10/2026: homologación UE en curso, cifras WLTP provisionales).
-    // NO duplicar con smart-2-2026-precio-autonomia-paris (ficha del Salón
-    // de París): esta ficha lleva los precios de gama España y el calendario
-    // de lanzamiento. Garantía de batería: oficial smart España (8 años /
-    // 200.000 km / 70 %), igual que en la ficha de París.
-    id: "smart-2-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: 8,
-    garantiaBateriaKm: 200000,
-    garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/smart-2-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/smart-2-2026-precio-ficha-tecnica-interior.webp",
-    videoId: null,
-    videoCanal: null,
-    marca: "smart",
-    modelo: "#2",
-    tipo: "Eléctrico",
-    categoria: "Urbano",
-    precioDesde: 19990,
-    versiones: [
-      { nombre: "Pure", precio: 19990 },
-      { nombre: "Pure+", precio: 20990 },
-      { nombre: "Premium", precio: 24490 },
-      { nombre: "Couture Edition (999 uds. en Europa)", precio: 25690 },
-    ],
-    potenciaCv: 82,
-    autonomiaKm: 290,
-    maleteroL: 305,
-    ceroCien: 11.6,
-    velocidadMax: 140,
-    bateriaKwh: 35.8,
-    cargaRapidaKw: 65,
-    etiquetaDgt: "Cero",
-    pros: [
-      "Desde 19.990 €: el eléctrico más barato de smart vuelve al precio de la época fortwo",
-      "Biplaza urbano puro: 2,746 m de largo, batalla de 1,875 m y giro en 6,95 m",
-      "Batería LFP CATL de 35,8 kWh con 290 km WLTP (cifra provisional, pendiente de homologación UE)",
-      "Carga rápida de 65 kW: del 10 al 80 % en menos de 20 minutos; V2L incluido",
-      "Tracción trasera, reparto de pesos 50:50 y suspensión trasera multibrazo",
-      "Maletero de 305 litros con portón en dos partes (apertura inferior tipo pick-up)",
-      "Smart Pilot Assist y control de crucero adaptativo de serie en todas las versiones",
-    ],
-    contras: [
-      "Solo 2 plazas y 2 puertas: no sirve como único coche de una familia",
-      "82 CV y 140 km/h de máxima: justos fuera de la ciudad",
-      "Autonomía y consumo WLTP provisionales, pendientes de homologación definitiva",
-      "Llega a Europa en primavera de 2027: aún queda medio año de espera",
-      "La versión Pure carga en alterna a solo 7,4 kW (11 kW en el resto)",
-      "Sin datos EuroNCAP",
-    ],
-    largoMm: 2746,
-    anchoMm: null,
-    altoMm: null,
-    pesoKg: 1140,
-    consumo: 13.6,
-    consumoUnidad: "kWh/100 km",
-    plazas: 2,
-    parNm: 130,
-    traccion: "Trasera",
-    emisionesCo2: 0,
-    aprox: ["autonomiaKm", "consumo"],
-    imagen: "/media/smart-2-2026-precio-ficha-tecnica-hero.webp",
-    analisisSlug: "smart-2-2026-precio-ficha-tecnica",
-    opiniones: [],
-    costeMensual: null,
-    galeria: [
+      },
       {
-        "src": "/media/smart-2-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "smart #2 en el Salón de París 2026, vista trasera tres cuartos con la insignia #2",
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-delantera.webp",
+        "alt": "Smart #2 de producción, vista delantera de tres cuartos (Salón de París 2026)",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/smart-2-2026-precio-ficha-tecnica-interior.webp",
-        "alt": "Interior del smart #2: volante smart, cuadro de 8,8 pulgadas, pantalla central de 10,1 pulgadas y aireadores de turbina",
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-trasera.webp",
+        "alt": "Smart #2 de producción, vista trasera de tres cuartos",
         "ancho": 1200,
-        "alto": 801
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-interior2.webp",
+        "alt": "Interior del smart #2 de producción, salpicadero con doble pantalla",
+        "ancho": 1200,
+        "alto": 800
       }
     ],
     euroncap: {
