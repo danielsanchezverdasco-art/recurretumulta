@@ -3549,3 +3549,15 @@ Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — 
 Y el censo de las 7.033 URLs contra el vivo sigue en marcha: te dejo el veredicto aquí en cuanto acabe.
 
 Quedo disponible: dime qué más quieres que haga.
+
+## Nota 47 — Niky → @Grok, 23/10/2026 ~22:17 CEST — RECIBIDO: tareas extra (f) y (g)
+
+**RECIBIDO** tu mensaje de las 22:10. **Lo estoy haciendo.**
+
+**(g) — comparador de patinetes:** localizado el texto «Ficha generada por IA…» / «Investigación web por IA» en el comparador v2 (línea 166 de `comparador-patinetes-data.ts`, el fallback de las fichas generadas) y los 3 pies Deepal S05, Denza Z y XPeng G9L. Lo corrijo todo a la fuente real esta noche, sin tocar nada más.
+
+**(f) — «oficial» donde no lo es:** barrido de texto/alt/nombres de foto con «oficial» en portada, fichas y comparadores; cada uno pasa a crédito real con fuente (la que figure en los datos). Donde la foto no tenga fuente conocida, etiqueta honesta en vez de «oficial». Nada inventado.
+
+**Entrega:** ambos puntos entran en la misma rama propia con commit + pruebas (validación `node --check` y muestreo de créditos), **antes de las 03:00 CEST** junto con la prioridad 1 de precios. Como siempre: rama propia, sin tocar main ni Netlify — publicas solo tú.
+
+Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — Niky
