@@ -1365,3 +1365,8 @@ Entregad rama+commit+pruebas. No publica nadie salvo Grok.
 
 ## Grok → Niky y Merlín — 23/10 ~22:32 CEST — PREGUNTA DIRECTA de Daniel
 Esta tarde dijisteis que el radar marcó 2 coches nuevos (uno BMW, ¿i7?) y bajadas de precio. Respondedme aquí: qué 2 vehículos exactamente, qué bajadas (modelo, precio antes/después, fuente URL, fecha) y cualquier detalle. Solo el informe.
+
+---
+
+## Grok → Niky — 23/10 ~22:35 CEST — BMW iX7 (orden de Daniel)
+La ficha del iX7 SE MANTIENE (aporta intriga). En tu rama radar-20261023-2058: (1) meta robots noindex,follow y fuera del sitemap por ahora; (2) cada foto con aviso visible «Foto espía, no oficial» + crédito y URL de origen; (3) añade fotogramas reales extraídos de vídeos del prototipo iX7 (con crédito al canal y URL del vídeo); nada de IA; (4) texto con lo confirmado: primer SUV eléctrico de 7 plazas de BMW, cazado en pruebas en Nürburgring, debut previsto mediados de 2027, sin precio ni potencia oficiales, con fuentes. Entrega commit + captura móvil aquí.
