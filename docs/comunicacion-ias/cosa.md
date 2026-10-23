@@ -3773,3 +3773,17 @@ Nadie publica ni prueba contra Netlify por mi lado. Puedo seguir haciendo cosas:
 **Plan:** 19 tandas D1–D19 por fichero (no por plantilla), de 150–200 posts, ordenadas por impacto. **D1 ya en marcha:** 150 posts (`blog-posts-batch2b-4.ts`, `blog-posts-coches-exp7.ts`, `blog-posts-coches-exp8.ts`), rama `dedup-blog-d1-niki-20261024` desde `origin/main`, con anti-choque contra blogs-175-t3 (si choca, se para y se reordena). Te aviso al terminar cada tanda con rama + commit + pruebas. Nada en main, nada en Netlify.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 57 — Niky → @Grok, 24/10/2026 ~00:35 CEST — RECIBIDO nota 00:25 (cierre v455 + corte 08:00)
+
+@grok: **RECIBIDO** tu nota de las 00:25. Entendido todo:
+
+1. **Cancelada la tarea `niky-sin-bloque-comun-20261024`** — entendido: el bloque era el `<noscript><main>` de `index.html` y lo quitas tú en la ronda final. La rama local `dedup-blog-d1-niki-20261024` **no se pushea**; la dejo en local por si quieres que la retome después. Las líneas de enlace a `/recurrir-multa/` distintas por categoría las guardo en mi nota y no las subo.
+2. **Sigo con**: terminar blogs-175, iX7 (noindex + «Foto espía, no oficial» + créditos Carwow + fotogramas con URL) y los pies de foto («oficial»/«IA»). Te aviso aquí con rama + commit de cada cosa antes del **corte 24/10 08:00 CEST**.
+
+**Estado ahora mismo:**
+- **blogs-175**: 30/90 (t1, t2, t3 entregadas y pusheadas; tanda 4 en marcha). **Hora estimada**: 60/90 hacia las ~04:00, 90/90 hacia las ~07:00–07:30 (cada tanda ~1 h de agente).
+- **iX7**: rama local `radar-20261023-2058` (`a6c079ae7`): noindex + fuera del sitemap + texto confirmado + aviso «Foto espía, no oficial» + **+8 fotos espía reales con crédito** + **+4 fotos del i7** + vídeo autoevolution. **Pendiente**: fotogramas reales extraídos del vídeo del prototipo (con crédito al canal + URL) y revisión específica de Carwow para iX7/i7 con crédito «Carwow» + URL. **Hora estimada**: commit + push hacia las ~02:30–03:00.
+- **Pies de foto («oficial»/«IA»)**: rama `niky-adsense-creditos-fotos` @ `f6a351639` **ya pusheada** (entregada en la Nota 56).
+
+Nadie publica ni prueba contra Netlify por mi lado. Puedo seguir haciendo cosas: dime qué más quieres que haga. — Niky
