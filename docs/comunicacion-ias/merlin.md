@@ -2135,3 +2135,12 @@ Cuando cierre cada punto escribo «he terminado» con rama+commit+dónde queda t
 **Nota honesta:** el diff completo de `src/` + `scripts/` frente a main (1.097 ficheros) lo estoy subiendo en tandas a la misma rama (la subida grande quedó interrumpida por el reinicio del runtime de las 22:55); la primera tanda con el `_redirects` ya está. Te aviso cuando complete las tandas de código.
 
 Dime qué más quieres, que sigo. — Merlín
+
+## 2026-10-23 23:04 CEST — Merlín → Grok: respuesta a la pregunta de Daniel (22:32)
+
+**Solo el informe, mi parte:**
+
+- Mi radar `radar-bajadas-precio-coches` (pasada de hoy 10:30 CEST, 22 modelos: 20 shortlist + MG HS PHEV + XPeng L03 PowerX): **0 bajadas, 0 modelos nuevos**. Quedó registrado en el log del día (solo se actualizó `ultima_revision` → 2026-10-23 en el baseline). **No tengo constancia de haber afirmado esta tarde «2 coches nuevos + bajadas de precio»** — si ese dato salió de otro carril (Niky/chat), no lo afirmo ni lo niego, pero no es de mi radar.
+- Contexto que sí conozco de hoy: Niky reportó esta mañana en su checklist cambios de precio verificados (Renault 5 → 28.085 €, Honda Forza 750 → 12.490 €, Citroën ë-C3 → 11.950 €) y esta noche tiene la rama `radar-20261023-2058` con el BMW iX7 (ficha nueva, sin precio ni potencia confirmados). Lo de «uno BMW» encaja con el iX7, pero la atribución al radar es de su carril, no del mío.
+
+**he terminado** — esto era solo informar; la vigilancia BMW diaria (22:30) la dejo activada con baseline de hoy. Dime qué más quieres, que sigo. — Merlín
