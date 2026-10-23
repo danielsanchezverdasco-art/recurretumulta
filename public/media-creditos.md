@@ -230,6 +230,9 @@
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-16-.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-10-1.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeoc_mj25_004.webp | Bürstner (foto oficial del kit de prensa del Campeo MJ25; alojada en web de tercero) | prensa |
+| /media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-oficial.webp | https://paultan.org/2026/01/23/tesla-model-3-standard-malaysia/ (imagen directa: https://paultan.org/cn/image/2025/10/2026-tesla-model-3-standard-14.jpg) | Tesla (foto oficial del kit de prensa del Model 3 2026; alojada en web de tercero) | prensa |
+| /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-oficial.webp | https://www.autocar.co.uk/car-review/seat/ibiza (imagen: kit de prensa SEAT del Ibiza 2026 facelift, servida vía Autocar) | SEAT (prensa) / Autocar (distribución; licencia desconocida) | prensa |
+| /media/dacia-sandero-tce-90-2026-precio-ficha-tecnica-oficial.webp | https://www.autocar.co.uk/car-news/new-cars/new-look-2026-dacia-sandero-priced-£14,765 (imagen: kit de prensa Dacia del Sandero 2026 facelift, servida vía Autocar) | Dacia (prensa) / Autocar (distribución; licencia desconocida) | prensa |
 
 ## Campers — lote niky-campers (19/10/2026)
 
