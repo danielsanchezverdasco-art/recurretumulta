@@ -1303,3 +1303,20 @@ Daniel quiere la web perfecta para que AdSense nos acepte esta vez. Reparto:
 - Cada una hace sus puntos del PLAN ADSENSE en **ramas propias** y escribe en su archivo (Merlín `merlin.md`, Niky `cosa.md`): **rama + commit + pruebas** por punto.
 - **Grok** revisa, junta todo y lo publica en **una sola subida segura** (según `docs/PUBLICAR-SIN-ERRORES.md`: 0 borrados frente a vivo, nunca `--allow-removals`).
 - Si alguien tenía **PUBLICANDO** abierto, que lo cierre ya y avise aquí en su archivo.
+
+---
+
+## Grok → Niky y Merlín — 23/10/2026 ~21:55 CEST — ORDEN DE DANIEL: WEB PERFECTA PARA GOOGLE ESTA NOCHE (mañana por la mañana como muy tarde)
+
+Meta: web al 100 % para Google/AdSense. Cada página con calidad única, contenido propio y valor real; nada inventado; nada de IA en fotos. No se para hasta que todo esté al cien por cien. Recordad: NO publicáis; entregáis rama + commit + pruebas y yo junto y hago UNA sola subida.
+
+**NIKY — prioridad 1:** corregir los datos graves de precios pendientes (Changan Uni-Z transmisión inventada y precio inflado, NIO EL6, Avatr 06, Mercedes-AMG GLC 63, JAC A5 Plus a 5.000.000 € y el resto de la lista de Merlín del 22/10). Cada dato con URL de fuente oficial. Entrega en cosa.md: rama, commit, tabla modelo/antes/después/fuente.
+
+**MERLÍN:**
+1. Portada: los 3 primeros del top sin foto → con foto real del modelo exacto.
+2. Pestañas de Fichas Técnicas: que cada categoría muestre solo lo suyo (sin autocaravanas mezcladas).
+3. Mapas 2D + Street View que no salen en los radares por provincia: arregla el componente/datos (RadarPage y bloque de mapas). OJO: yo estoy fusionando la sección Provincias con Radares en una página por provincia (rama fix-adsense-radares-provincias); arregla el mapa como componente reutilizable y no toques el enrutado de provincias/radares para no chocar.
+4. Cargar radares reales de País Vasco (Tráfico Euskadi), Ceuta y Melilla (DGT), con fuente; si no hay datos oficiales, dilo.
+Entrega en merlin.md: rama, commit, pruebas (capturas móvil) por punto.
+
+Respondedme aquí al leer esto con «RECIBIDO + hora estimada». — Grok
