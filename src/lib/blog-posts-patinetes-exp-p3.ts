@@ -2763,78 +2763,74 @@ Para quien prioriza **fuerza y robustez** sobre ligereza: riders pesados, cuesta
       "patinete 60 km/h",
       "iscooter ix7",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor>
-
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix7-pro/>Ver ficha técnica del iScooter iX7 Pro</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **iScooter iX7 Pro** democratiza el doble motor: **2×1.000 W**, **80 km declarados**, **60 km/h** y **~30 kg** por **~709 £**. La tracción total más barata de Europa.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | ~709 £ (sin PVP oficial en euros) |
-| **Motor** | Doble, 1.000 W + 1.000 W |
-| **Batería** | 48V 15-17,5Ah (según versión) |
-| **Autonomía declarada** | 80 km |
-| **Autonomía real estimada** | ≈54 km |
-| **Velocidad máxima** | 60 km/h |
-| **Peso** | ≈30 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-ix7-pro/>Ficha técnica completa del iScooter iX7 Pro</a>.
-
-## Precio del iScooter iX7 Pro en España
-
-Unas **709 libras** en Reino Unido. En España, vía distribuidores: sigue siendo el doble motor más barato del mercado europeo.
-
-<img src=/media/patinetes/iscooter-ix7-pro-2.webp alt=Detalle del doble motor del iScooter iX7 Pro>
-
-## Autonomía real vs declarada
-
-**80 km declarados**; en uso mixto con doble motor, **unos 54 km**. Ojo: se vende en versiones de **15Ah y 17,5Ah**; confirma cuál compras porque la autonomía cambia.
-
-## Frenos y neumáticos
-
-Frenos de disco y neumáticos de 10 pulgadas. A 60 km/h, el equipo va justo: es el punto a vigilar de este modelo.
-
-## Certificado DGT y normativa VMP
-
-Con **60 km/h**, ni se plantea en vía pública española sin limitar: **25 km/h máximo** como VMP. Todo lo demás, en privado.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Doble motor por ~709 £ | ~30 kg: pesado |
-| 80 km declarados | Batería según versión (15/17,5Ah) |
-| 60 km/h | Ilegal sin limitar en España |
-| Buena iluminación | Acabados no premium |
-| El doble motor más barato | Servicio según vendedor |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\"Prueba del iScooter iX7 Pro\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
-
-<img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción>
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta?
-Unas **709 £** en Reino Unido.
-
-### ¿Qué batería lleva?
-Según versión: **48V 15Ah o 17,5Ah**. Confírmalo antes de comprar.
-
-### ¿Qué autonomía real tiene?
-Unos **54 km** con la batería grande.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Merece la pena?
-Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más arriba.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+    content: `<p>El iScooter iX7 Pro suma dos motores, 2.000 W de pico, una batería de 840 Wh y ruedas todoterreno de 10 pulgadas: en la tienda europea de la marca cuesta 599,99 € en promoción sobre un PVP de 899,99 €.</p>
+<p><img src=/media/patinetes/iscooter-ix7-pro-1.webp alt="iScooter iX7 Pro patinete eléctrico de doble motor vista lateral"></p>
+<p><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title="Prueba del iScooter iX7 Pro" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></p>
+<p>iScooter es la marca de patinetes del grupo chino Circooter, y el iX7 Pro ocupa el escalón alto de su gama con tracción total. No es un patinete pensado para subirlo cada mañana a un quinto sin ascensor: es una máquina de fin de semana, de caminos y de usuarios pesados que quieren empuje de sobra. En esta guía reunimos únicamente datos contrastados en la <a href=https://iscooterglobal.eu/products/iscooter-ix7-pro-off-road-electric-scooter>ficha oficial europea del iX7 Pro</a>, y separamos lo que declara la marca de lo que conviene esperar en la calle.</p>
+<h2>Ficha rápida del iX7 Pro</h2>
+<table>
+<tr><th>Dato</th><th>iScooter iX7 Pro</th></tr>
+<tr><td>Motores</td><td>2 (delantero y trasero), 1.000 W cada uno</td></tr>
+<tr><td>Potencia de pico combinada</td><td>2.000 W</td></tr>
+<tr><td>Batería</td><td>48 V y 17,5 Ah (840 Wh)</td></tr>
+<tr><td>Autonomía declarada</td><td>70-80 km</td></tr>
+<tr><td>Velocidad máxima declarada</td><td>60 km/h</td></tr>
+<tr><td>Ruedas</td><td>10 pulgadas todoterreno sin cámara</td></tr>
+<tr><td>Suspensión</td><td>Basculante delantero y muelle trasero</td></tr>
+<tr><td>Frenos</td><td>Disco mecánico y freno electrónico EABS</td></tr>
+<tr><td>Peso</td><td>29,7 kg</td></tr>
+<tr><td>Protección al agua</td><td>IPX4</td></tr>
+<tr><td>Carga máxima</td><td>150 kg</td></tr>
+<tr><td>Recarga completa</td><td>7-9 horas</td></tr>
+<tr><td>Precio</td><td>599,99 € en promoción (PVP 899,99 €)</td></tr>
+</table>
+<p>Un aviso de honestidad antes de seguir: la tienda global de la misma marca anuncia para otros mercados una batería de 15 Ah. La cifra que vale para quien compra desde España es la de la tienda europea, 17,5 Ah, y es la que usamos en todo el artículo. Si un distribuidor te ofrece la versión de 15 Ah al mismo precio, estás pagando igual por 720 Wh en vez de 840 Wh.</p>
+<h2>Dos motores que se notan desde el primer metro</h2>
+<p>Cada buje esconde un motor de 1.000 W nominales y el conjunto declara 2.000 W de pico. En marcha puedes rodar solo con el trasero para ahorrar batería o conectar ambos desde el puño, y el cambio de carácter es inmediato: con tracción total el patinete sale disparado incluso con conductores de más de 100 kilos y afronta rampas de barrio que a un monomotor de 500 W se le atragantan. La marca anuncia 60 km/h de velocidad máxima, una cifra que solo tiene sentido en recintos privados, como explicamos en el apartado legal.</p>
+<p>El chasis acompaña con una plataforma ancha, doble suspensión (basculante en la horquilla y muelle detrás) y neumáticos todoterreno de 10 pulgadas sin cámara. Sobre asfalto roto, carriles de tierra compactada o los adoquines del centro, el conjunto filtra mejor que cualquier urbano rígido, aunque el peso de 29,7 kilos se nota al maniobrar en parado y al plegarlo para meterlo en un maletero.</p>
+<h3>Frenos y seguridad activa</h3>
+<p>La frenada combina un disco mecánico con el freno regenerativo EABS, y la electrónica suma control de crucero, arranque con empuje configurable desde la aplicación MiniRobot y bloqueo por app. La certificación que publica la marca es CE con RoHS y UN38.3 para la batería; la estanqueidad se queda en IPX4, es decir, salpicaduras sí, pero nada de rodar bajo un chaparrón ni de lavarlo con manguera a presión.</p>
+<h2>Batería de 840 Wh: qué autonomía esperar de verdad</h2>
+<p>Los 70-80 km oficiales salen del escenario amable de la industria: piloto ligero, modo económico, suelo llano y temperatura templada. Con 840 Wh y un doble motor sediento, una estimación prudente para un adulto de 80-90 kilos mezclando modos de conducción se mueve en una horquilla de 38 a 52 km por carga. Sigue siendo una cifra seria para escapadas largas, pero conviene no planificar rutas al límite del papel.</p>
+<p>La recarga completa tarda entre 7 y 9 horas con el cargador incluido, así que el patrón natural es enchufarlo al llegar a casa y olvidarse hasta el día siguiente. Como en cualquier batería de litio de este tamaño, alargar su vida pasa por no apurarla hasta el cero por ciento a diario ni guardarla semanas al cien por cien.</p>
+<h2>¿Puede circular por España tal como se vende?</h2>
+<p>Aquí está el punto que muchos anuncios esconden. La ley española pone dos condiciones para ser un VMP, y este modelo incumple ambas: no superar los 25 km/h de tope por construcción y disponer del certificado de circulación de Tráfico; desde enero de 2026, además, hay que asegurarlo obligatoriamente con una póliza de responsabilidad civil. El iX7 Pro declara 60 km/h y iScooter no publica certificado DGT para este modelo, así que, en su configuración de venta, su sitio es el recinto privado y los espacios donde la norma local lo permita, no la calzada ni el carril bici.</p>
+<p>Si lo que buscas es un patinete para ir a trabajar cada día por la ciudad, lo sensato es mirar modelos certificados en nuestro <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a>. Si pese a todo te llega una sanción relacionada con un VMP, recuerda que tienes derecho a recurrirla: pásale la notificación a nuestro <a href=https://recurretumulta.online/#analizador>analizador de multas con IA</a> y en un minuto sabrás si recurrirla merece la pena.</p>
+<h2>Precio: PVP frente a promoción permanente</h2>
+<p>La tienda europea de iScooter lista el iX7 Pro con un PVP de 899,99 € tachado y un precio de venta de 599,99 €. Conviene leerlo al revés de como lo presenta el marketing: el precio real de mercado es el de la promoción, porque la oferta lleva activa de forma continuada. Aun así, por unos 600 € es difícil encontrar doble motor, 840 Wh y carga máxima de 150 kg con respaldo de una tienda europea que se encarga de la garantía de dos años.</p>
+<p>Todos los datos de equipamiento y equiparación con rivales están reunidos en la <a href=/patinetes/iscooter-ix7-pro>ficha completa del iScooter iX7 Pro</a>, donde también verás su evolución de precio registrada.</p>
+<h2>Lo mejor y lo peor del iX7 Pro</h2>
+<ul>
+<li><strong>A favor:</strong> empuje sobrado para usuarios pesados y cuestas serias.</li>
+<li><strong>A favor:</strong> batería de 840 Wh, de las grandes en su franja de precio.</li>
+<li><strong>A favor:</strong> doble suspensión y ruedas todoterreno sin cámara.</li>
+<li><strong>A favor:</strong> carga máxima de 150 kg, por encima de la media.</li>
+<li><strong>En contra:</strong> 29,7 kg que lo alejan del transporte público y las escaleras.</li>
+<li><strong>En contra:</strong> sin certificado DGT y con 60 km/h declarados: tal como se vende, no puede circular como VMP en España.</li>
+<li><strong>En contra:</strong> IPX4 justo y recargas largas de 7 a 9 horas.</li>
+</ul>
+<p><img src=/media/patinetes/iscooter-ix7-pro-2.webp alt=Detalle del doble motor del iScooter iX7 Pro></p>
+<h2>Veredicto</h2>
+<p>El iX7 Pro se compra con la cabeza puesta en el ocio y en los terrenos mixtos, no en el commuting urbano legal. Dentro de ese uso es una propuesta redonda: potencia de verdad, batería generosa y un precio de promoción que sus rivales de doble motor no igualan. Si tu uso es urbano y diario, quédate con un modelo certificado; si tu uso es de fin de semana y recinto privado, este iScooter merece estar en tu lista corta.</p>
+<p>Entre ruta y ruta, échale un ojo a nuestro <a href=/juego-monos/>juego de los monos</a>: decenas de monos andan camuflados por esta web, y completar la colección entera tiene un premio de 2.000 euros para quien lo logre primero.</p>
+<h2>Mantenimiento: lo que pide un doble motor todoterreno</h2>
+<p>Un patinete de 2.000 W y ruedas todoterreno no es de usar y olvidar. Los neumáticos de 10 pulgadas con tacos agradecen una revisión de presión antes de cada salida larga: rodar bajos de aire con 29,7 kg de máquina dispara el consumo, calienta los motores y deja la llanta a merced del primer bordillo. Los tacos, además, se desgastan rápido sobre asfalto, así que quien ruede mucho por carretera debería asumir que está quemando un neumático pensado para tierra.</p>
+<p>La frenada regenerativa EABS echa una mano a las pastillas del disco mecánico, que aun así conviene inspeccionar cada pocos cientos de kilómetros si se abusa del modo de tracción total: detener este conjunto desde 50-60 km/h en recinto cerrado es un trabajo serio. Los pivotes del basculante delantero y el muelle trasero agradecen limpieza tras las salidas con barro, porque la estanqueidad IPX4 protege la electrónica de salpicaduras, no de la inmersión ni del chorro a presión.</p>
+<p>En el apartado eléctrico, la cuenta es sencilla y favorable: llenar sus 840 Wh cuesta en torno a 17 céntimos con la electricidad doméstica a 0,20 €/kWh, es decir, unos 40 céntimos por cada 100 km incluso contando pérdidas de carga. El mantenimiento caro de un iX7 Pro no será la energía, sino los neumáticos y, a la larga, la batería si se maltrata con descargas completas diarias.</p>
+<h3>¿Para quién tiene sentido y para quién no?</h3>
+<p>Tiene sentido para usuarios de más de 100 kilos que ruedan por urbanizaciones, caminos rurales y recintos amplios, y que guardan el patinete en planta baja. No lo tiene para quien combine tren o metro a diario (29,7 kg no negocian), para quien necesite circular legalmente por ciudad ni para quien busque un vehículo de cargar en el maletero cada fin de semana sin esfuerzo.</p>
+<p><img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción></p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuánto cuesta el iScooter iX7 Pro en España?</h3>
+<p>En la tienda europea oficial figura con un PVP de 899,99 € y un precio en promoción de 599,99 €. Ese segundo importe es el que se paga de forma habitual, así que tómalo como su precio real.</p>
+<h3>¿Qué batería monta exactamente?</h3>
+<p>La versión europea declara 48 V y 17,5 Ah, es decir, 840 Wh. La tienda global de la marca muestra 15 Ah para otros mercados, por lo que interesa confirmar la capacidad en la ficha de quien te lo venda antes de pagar.</p>
+<h3>¿Es legal en la vía pública española?</h3>
+<p>Recién sacado de la caja, no encaja en la definición de VMP: anuncia 60 km/h y no consta certificado de circulación de la DGT. Su ámbito se limita a recintos privados y a los espacios que la normativa local autorice.</p>
+<h3>¿Aguanta a un conductor de 120 kilos?</h3>
+<p>Sí. La carga máxima publicada es de 150 kg y el doble motor está pensado precisamente para no perder empuje con conductores pesados, aunque la autonomía caerá respecto a las cifras oficiales.</p>
+<h3>¿Cuánto tarda en cargarse?</h3>
+<p>Entre 7 y 9 horas para una carga completa de sus 840 Wh, según la propia marca. Es un patinete de enchufar por la noche, no de recargas rápidas entre recados.</p>`,
   },
   {
     slug: "iscooter-ix8",
@@ -2952,78 +2948,71 @@ Unos **45 km**.
       "kukirin g2 max video",
       "patinete 960wh",
     ],
-    content: `<img src=/media/patinetes/kukirin-g2-max-1.webp alt=KuKirin G2 Max, vista lateral completa>
-
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-g2-max/>Ver ficha técnica del KuKirin G2 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **KuKirin G2 Max** es el clásico superventas de la marca: **1.000 W**, **960 Wh** (48V 20Ah), **80 km declarados** y **55 km/h**, por **684 €** en la tienda europea. La compra segura de KuKirin.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | 684 € |
-| **Motor** | 1.000 W |
-| **Batería** | 48V 20Ah (960 Wh) |
-| **Autonomía declarada** | 80 km |
-| **Autonomía real estimada** | ≈54 km |
-| **Velocidad máxima** | 55 km/h |
-| **Peso** | 31 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-g2-max/>Ficha técnica completa del KuKirin G2 Max</a>.
-
-## Precio del KuKirin G2 Max en España
-
-**684 €** en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, la tienda oficial europea. Pocas veces baja de ahí: es su precio estable.
-
-<img src=/media/patinetes/kukirin-g2-max-2.webp alt=Detalle del manillar del KuKirin G2 Max>
-
-## Autonomía real vs declarada
-
-**80 km declarados**; en uso mixto, **unos 54 km reales**. Con 960 Wh, es de las mejores autonomías reales por debajo de 700 €.
-
-## Frenos y neumáticos
-
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar para 55 km/h y 31 kg. La comunidad de usuarios es enorme: hay tutoriales para casi todo.
-
-## Certificado DGT y normativa VMP
-
-Con **55 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 1.000 W por 684 € | 31 kg: pesado |
-| 960 Wh: 80 km declarados | A 55 km/h hay que limitarlo |
-| 55 km/h | Plásticos mejorables |
-| Gran comunidad y repuestos | Cargador lento |
-| Precio estable en la UE | App mejorable |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GbJByObfUe4 title=\"Prueba del KuKirin G2 Max\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
-
-<img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria>
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta?
-**684 €** en la tienda oficial europea.
-
-### ¿Qué autonomía real tiene?
-Unos **54 km**.
-
-### ¿G2 Max o G2 Pro?
-El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Pesa mucho?
-**31 kg**: no es para subirlo a diario por escaleras.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+    content: `<p>El KuKirin G2 Max cuesta 699 € en la tienda española de la marca: batería de 48 V y 20,8 Ah, motor de 1.000 W, ruedas de 10 pulgadas y hasta 70 km de autonomía oficial para un peso de 31,72 kg.</p>
+<p><img src=/media/patinetes/kukirin-g2-max-1.webp alt="KuKirin G2 Max patinete eléctrico todoterreno de 1000 W"></p>
+<iframe width=560 height=315 src=https://www.youtube.com/embed/GbJByObfUe4 title="Vídeo del KuKirin G2 Max" frameborder=0 allowfullscreen></iframe>
+<p>KuKirin, la marca del fabricante chino Kugoo, construyó su reputación con patinetes potentes a precios de derribo, y el G2 Max es su todoterreno monomotor de referencia. Frente a los doble motor que dominan los titulares, este apuesta por una fórmula distinta: un solo motor grande, una batería enorme y componentes sencillos de mantener. Todos los datos de esta guía salen de la <a href=https://kukirin-es.com/products/kukirin-g2-max-1000w-off-road-electric-scooter-for-adults>ficha del G2 Max en la tienda oficial española de KuKirin</a>, consultada en octubre de 2026.</p>
+<h2>Datos técnicos esenciales</h2>
+<table>
+<tr><th>Dato</th><th>KuKirin G2 Max</th></tr>
+<tr><td>Motor</td><td>1.000 W en la rueda trasera</td></tr>
+<tr><td>Batería</td><td>48 V y 20,8 Ah (998 Wh)</td></tr>
+<tr><td>Autonomía declarada</td><td>Hasta 70 km</td></tr>
+<tr><td>Velocidad máxima</td><td>55 km/h (modos de 15, 40 y 55 km/h)</td></tr>
+<tr><td>Ruedas</td><td>10 pulgadas todoterreno</td></tr>
+<tr><td>Suspensión</td><td>Muelle delantero y trasero</td></tr>
+<tr><td>Frenos</td><td>Disco delantero y trasero más freno eléctrico</td></tr>
+<tr><td>Peso</td><td>31,72 kg</td></tr>
+<tr><td>Carga máxima</td><td>120 kg</td></tr>
+<tr><td>Precio en tienda oficial ES</td><td>699 €</td></tr>
+</table>
+<p>Dos precisiones que importan. La primera: versiones anteriores de esta misma guía citaban 80 km de autonomía siguiendo fichas de distribuidores asiáticos; la tienda oficial europea declara hoy hasta 70 km, y esa es la cifra que debe usarse. La segunda: el título que ves en buscadores con 684 € corresponde a una oferta puntual de otra tienda del grupo; el precio vigente en la tienda española es 699 €.</p>
+<h2>Un solo motor de 1.000 W, bien aprovechado</h2>
+<p>Con un único motor trasero de 1.000 W el G2 Max no tiene el golpe de salida de un doble motor, pero a cambio simplifica la mecánica, reduce el consumo en uso tranquilo y mantiene el peso algo más contenido. Los tres modos de conducción (15, 40 y 55 km/h) permiten domesticarlo, y en el modo alto la aceleración es contundente para un monomotor. La contrapartida aparece en las rampas duras con conductores pesados: ahí la tracción única y la potencia nominal marcan su techo antes que en un 2×1.000 W.</p>
+<p>El chasis usa suspensión de muelle en ambos ejes y cubiertas todoterreno de 10 pulgadas, con cámara. Es una combinación honesta para caminos de grava, pistas forestales suaves y asfalto en mal estado, sin pretensiones de bajar escaleras ni de saltar bordillos como haría una suspensión hidráulica larga.</p>
+<h3>Frenada y equipamiento</h3>
+<p>Detener 31,72 kg lanzados exige frenos serios, y KuKirin monta disco en las dos ruedas apoyado por el freno eléctrico regenerativo. El equipamiento incluye pantalla central con velocímetro y odómetro, llave de contacto, alumbrado LED delantero y trasero y plegado del manillar para guardarlo en un trastero o un maletero amplio. No busques aplicación móvil ni conectividad: este modelo va a lo esencial.</p>
+<h2>Casi un kilovatio-hora de batería</h2>
+<p>Sus 998 Wh colocan al G2 Max entre los patinetes con más batería por euro del mercado. Los 70 km oficiales se logran en modo económico con conductor ligero; un uso mixto realista con un adulto de 80 kilos se mueve entre 40 y 50 km, y abusar del modo de 55 km/h recorta esa cifra con rapidez. Aun con el descuento, pocos recorridos de ocio se le quedan cortos.</p>
+<p>La contrapartida de tanta capacidad es el tiempo de enchufe: llenar casi un kilovatio-hora con el cargador de serie lleva buena parte de la noche. Planifica las salidas con la carga hecha el día anterior y evita dejarlo semanas al cien por cien si quieres que la batería envejezca bien.</p>
+<h2>El elefante en la habitación: la legalidad</h2>
+<p>Con 55 km/h de velocidad máxima y ningún certificado de circulación publicado por la marca, el G2 Max no puede circular en España como VMP en su configuración de venta. La normativa de VMP limita la velocidad por construcción a 25 km/h, exige certificado y, desde enero de 2026, también seguro de responsabilidad civil obligatorio. Su terreno, por tanto, es el recinto privado y los caminos donde la ordenanza permita vehículos de estas características.</p>
+<p>Para moverte a diario por la ciudad sin exponerte a una sanción, en nuestro <a href=/comparador-patinetes/>comparador de patinetes</a> filtramos los modelos que sí cumplen. Y si la multa ya ha llegado, no la pagues sin mirarla dos veces: súbela al <a href=https://recurretumulta.online/#analizador>analizador con IA de la web</a> y comprueba sin coste si merece la pena recurrirla.</p>
+<h2>Qué cuesta y dónde se compra</h2>
+<p>La tienda oficial española de KuKirin lo vende a 699 € con garantía europea gestionada por la propia marca. Es PVP con IVA incluido, no una promoción efímera, aunque el grupo KuKirin mueve los precios entre sus tiendas regionales con frecuencia: el mismo modelo ha aparecido a 649 € en la tienda global y a 684 € en la europea. En la <a href=/patinetes/kukirin-g2-max>ficha del KuKirin G2 Max</a> registramos esa evolución para que veas si el precio del momento es bueno o toca esperar.</p>
+<h2>Pros y contras</h2>
+<ul>
+<li><strong>Pros:</strong> batería de 998 Wh, de las mayores por debajo de 700 €.</li>
+<li><strong>Pros:</strong> motor de 1.000 W con modos bien escalonados.</li>
+<li><strong>Pros:</strong> doble disco y suspensión en ambos ejes.</li>
+<li><strong>Pros:</strong> mecánica sencilla, sin electrónica superflua que falle.</li>
+<li><strong>Contras:</strong> 31,72 kg que lo hacen impracticable para pisos sin ascensor.</li>
+<li><strong>Contras:</strong> no es legal como VMP en España tal como se vende.</li>
+<li><strong>Contras:</strong> sin app ni extras de conectividad.</li>
+<li><strong>Contras:</strong> la autonomía real queda lejos de los 70 km si se abusa del modo rápido.</li>
+</ul>
+<p><img src=/media/patinetes/kukirin-g2-max-2.webp alt=Detalle del manillar del KuKirin G2 Max></p>
+<h2>Veredicto final</h2>
+<p>El G2 Max es el todoterreno sensato de KuKirin: menos espectacular que los doble motor, pero con una batería gigantesca, unos frenos en condiciones y un PVP contenido. Brilla en uso recreativo por caminos y como vehículo de finca o recinto privado. Para ciudad legal y diaria, su velocidad y su peso lo descartan; para ocio serio con presupuesto ajustado, es de lo más recomendable de su clase.</p>
+<p>Mientras decides, cuando lo aparques, búscate un reto distinto en el <a href=/juego-monos/>juego de los monos</a>: andan ocultos en cientos de páginas y quien primero complete la colección se embolsa 2.000 euros de premio.</p>
+<h2>G2 Max frente a los doble motor de su precio</h2>
+<p>La comparación que todo comprador hace es con los doble motor chinos de 2×800 o 2×1.000 W que rondan los 700-900 €. Frente a ellos, el G2 Max pierde en aceleración pura y en tracción sobre superficies sueltas, y gana en tres cosas menos vistosas: simplicidad mecánica (una controladora, un motor, menos conectores que fallen), consumo contenido cuando se rueda tranquilo y un comportamiento más predecible para quien viene de patinetes urbanos. La batería, además, es mayor que la de muchos de esos rivales, que se quedan en 800-900 Wh para alimentar dos motores sedientos.</p>
+<p>Dentro de la propia casa, el escalón siguiente sería pasarse a un modelo de doble motor de la gama alta de KuKirin, con el salto de precio y de peso que eso supone. El G2 Max defiende su sitio como el todoterreno de una sola pieza: menos espectáculo, más batería y menos cosas que romperse en un camino lejos del taller.</p>
+<h2>Uso en finca y caminos: detalles prácticos</h2>
+<p>Quien lo use en una finca o en caminos rurales debería ajustar dos rutinas. La primera, la presión de los neumáticos todoterreno de 10 pulgadas: bajarla un poco sobre tierra mejora el agarre y la comodidad, pero rodar así por asfalto dispara el desgaste y el consumo. La segunda, la limpieza: el barro acumulado en los muelles de la suspensión y en los discos se seca, cruje y acorta la vida de todo; un cepillo y agua sin presión tras las salidas polvorientas alargan la mecánica.</p>
+<p>El coste energético, por cierto, es casi simbólico: una carga completa de sus 998 Wh sale por unos 20 céntimos a precios domésticos habituales de la electricidad, así que incluso usándolo a diario el gasto mensual en luz no llega ni al precio de un café. Donde sí hay que presupuestar es en cubiertas todoterreno y pastillas de freno, los dos consumibles que más sufren en este tipo de uso.</p>
+<p><img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria></p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuál es el precio oficial del KuKirin G2 Max?</h3>
+<p>699 € en la tienda española de KuKirin. Otras tiendas del mismo grupo lo han listado a 649-684 €, así que compara antes de comprar, pero 699 € es el PVP de referencia en España.</p>
+<h3>¿Qué autonomía real puedo esperar?</h3>
+<p>La marca declara hasta 70 km en condiciones ideales. En uso mixto con un adulto, lo razonable es contar con 40-50 km, y menos si se rueda mucho en el modo de 55 km/h.</p>
+<h3>¿Puede circular por carril bici en España?</h3>
+<p>No en su configuración de venta: supera el tope de los VMP (25 km/h) y KuKirin no publica certificado de circulación para él. Su sitio legal está en los recintos privados y los espacios autorizados.</p>
+<h3>¿Cuál es su peso y su carga máxima?</h3>
+<p>Pesa 31,72 kg y admite hasta 120 kg de carga máxima según la ficha oficial. Es un patinete para guardar en planta baja o garaje, no para subirlo a pulso cada día.</p>
+<h3>¿Tiene aplicación móvil?</h3>
+<p>No. El G2 Max prescinde de app y de conectividad Bluetooth; todo se gestiona desde su pantalla y su llave de contacto, a cambio de una electrónica más simple.</p>`,
   },
   {
     slug: "kukirin-g4",
@@ -3598,73 +3587,65 @@ Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.
       "patinete rutero",
       "joyor lr8 españa",
     ],
-    content: `<img src=/media/patinetes/joyor-lr8-1.webp alt=Joyor LR8, vista lateral del patinete rutero>
-
-**¿Buscas solo los datos?** <a href=/patinetes/joyor-lr8/>Ver ficha técnica del Joyor LR8</a>: batería, ruedas y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Joyor LR8** está hecho para tragar kilómetros: **500 W**, **1.253 Wh** (52V 24Ah), **72 km declarados**, **45 km/h** y **ruedas de 14 pulgadas** en **38,1 kg**.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | Sin PVP oficial en euros |
-| **Motor** | 500 W |
-| **Batería** | 52V 24Ah (1.253 Wh) |
-| **Autonomía declarada** | 72 km |
-| **Autonomía real estimada** | ≈48 km |
-| **Velocidad máxima** | 45 km/h |
-| **Peso / carga máx.** | 38,1 kg / 118 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/joyor-lr8/>Ficha técnica completa del Joyor LR8</a>.
-
-## Precio del Joyor LR8 en España
-
-Sin PVP oficial publicado en euros; se distribuye en España a través de la red de Joyor. Es de los pocos patinetes con **1.253 Wh** en su gama.
-
-<img src=/media/patinetes/joyor-lr8-2.webp alt=Detalle de las ruedas de 14 pulgadas del Joyor LR8>
-
-## Autonomía real vs declarada
-
-**72 km declarados**; en uso mixto, **unos 48 km reales**. Es la cifra que importa: con 1.253 Wh, es de los ruteros más capaces.
-
-## Frenos y neumáticos
-
-**Freno de tambor delantero y trasero**, con **neumáticos de 14"**: mucho paso por bache y estabilidad a 45 km/h. El tambor es fiable pero menos potente que el disco.
-
-## Certificado DGT y normativa VMP
-
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 1.253 Wh: 72 km declarados | 38,1 kg: pesadísimo |
-| Ruedas de 14": cómodas | Frenos de tambor: mejorables |
-| 118 kg de carga | A 45 km/h hay que limitarlo |
-| Diseño tipo scooter rutero | Plegado aparatoso |
-| Para hacer kilómetros de verdad | Precio variable según tienda |
-
-<img src=/media/patinetes/joyor-lr8-3.webp alt=Joyor LR8 en ruta larga>
-
-## Preguntas frecuentes
-
-### ¿Qué autonomía real tiene?
-Unos **48 km**.
-
-### ¿Por qué las ruedas de 14"?
-Más **estabilidad y comodidad** en baches y firmes irregulares.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Para quién es?
-Para **ruteros largos** que quieren autonomía por encima de todo.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>, <a href=https://www.electricscooterguides.com/>Electric Scooter Guides</a>.*`,
+    content: `<p>El Joyor LR8 es un patinete de gran batería pensado para rutas largas, pero hoy no aparece en el catálogo oficial de Joyor: sobrevive en unidades sueltas de stock y en compraventa de ocasión, y sus datos deben leerse con cautela.</p>
+<p><img src=/media/patinetes/joyor-lr8-1.webp alt="Joyor LR8 patinete eléctrico de gran autonomía"></p>
+<p>Empezamos con la advertencia que ordena todo lo demás. Al revisar el <a href=https://joyorscooter.com/>catálogo oficial de Joyor</a> para actualizar esta guía no hemos encontrado el LR8 por ningún lado: la marca vende hoy las series S, Y y modelos como el LuxeRider, y del LR8 no queda ficha oficial vigente. Fue un modelo de tirada corta que circuló por distribuidores europeos hacia 2022-2023, y la información que se conserva procede de esas fichas comerciales antiguas, no de una página del fabricante que podamos enlazar y verificar.</p>
+<h2>Los datos que circulan, marcados como lo que son</h2>
+<table>
+<tr><th>Dato</th><th>Según fichas de distribuidores (sin verificar en fuente oficial)</th></tr>
+<tr><td>Motor</td><td>500 W en la rueda trasera</td></tr>
+<tr><td>Batería</td><td>52 V y 24 Ah (1.248 Wh calculados)</td></tr>
+<tr><td>Autonomía declarada entonces</td><td>Hasta 72 km</td></tr>
+<tr><td>Velocidad máxima declarada</td><td>45 km/h</td></tr>
+<tr><td>Ruedas</td><td>14 pulgadas con cámara</td></tr>
+<tr><td>Frenos</td><td>Tambor delantero y trasero</td></tr>
+<tr><td>Peso declarado</td><td>38,1 kg</td></tr>
+<tr><td>Carga máxima declarada</td><td>118 kg</td></tr>
+</table>
+<p>Fíjate en un detalle que delata el nivel de fiabilidad de esas fichas: algunas anuncian la batería como «1.253 Wh», una cifra que no sale de multiplicar 52 V por 24 Ah (el resultado es 1.248 Wh). Puede deberse a una capacidad real de 24,1 Ah o a un simple error copiado de tienda en tienda. Ni lo uno ni lo otro se puede confirmar ya en una fuente del fabricante, y por eso esta guía no presenta ninguna cifra del LR8 como dato cerrado.</p>
+<h2>La idea que había detrás del LR8</h2>
+<p>Con las reservas anteriores, el planteamiento del modelo sí se entiende bien. Mientras la mayoría de patinetes de 500 W montaban baterías de 500-600 Wh, el LR8 apostaba por duplicar esa capacidad para convertir el patinete en un vehículo de rutas: desplazamientos interurbanos por vías permitidas, jornadas de reparto en recintos amplios o trayectos largos sin pasar por el enchufe cada día. Las ruedas de 14 pulgadas, enormes para un patinete, buscaban rodar con más aplomo sobre firme irregular y acercar la postura a la de una bicicleta pequeña.</p>
+<p>Si las cifras de los distribuidores eran ciertas, sus 38,1 kg lo colocaban en otra liga física: no es un patinete de subir escaleras ni de combinar con el metro, sino de guardar en un garaje y sacar para rodar. Y los frenos de tambor, sellados y casi sin mantenimiento, encajaban con esa filosofía de vehículo utilitario, aunque su tacto y su potencia de frenada quedan por detrás de unos discos modernos.</p>
+<h3>Autonomía: la teoría y la práctica</h3>
+<p>Los «hasta 72 km» de las fichas antiguas seguirían el guion habitual de la industria: conductor de unos 70 kilos, velocidad contenida y terreno favorable. Con una batería en torno a 1,25 kWh, un uso realista habría rondado los 45-55 km por carga en su época. Hoy hay un factor más: cualquier unidad a la venta tiene ya varios años, y la autonomía real dependerá del estado de esa batería concreta, no de la ficha de 2023.</p>
+<h2>Comprar un LR8 en 2026: guía de supervivencia</h2>
+<p>Si te aparece una unidad en stock residual o de segunda mano a buen precio, trátala como comprarse un vehículo descatalogado y actúa en consecuencia. Comprueba la batería con una ruta de prueba larga o con un medidor, porque es el componente caro y el que más sufre el paso del tiempo parado. Pregunta por la disponibilidad de recambios básicos (cubiertas de 14 pulgadas, zapatas de tambor, cargador de 52 V) y desconfía si el vendedor no sabe decirte qué batería lleva exactamente la unidad.</p>
+<p>En el apartado legal, incluso en su momento el LR8 declaraba 45 km/h, el doble de lo que un VMP puede marcar en España, y no consta que Joyor publicara para él ningún certificado de circulación oficial. Ni entonces ni ahora es un patinete para circular por ciudad como VMP; queda relegado a recintos privados y espacios autorizados. Para moverte a diario con la ley de tu parte, mira en nuestro <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a> los modelos que sí traen certificado.</p>
+<p>Y un apunte que vale para cualquier VMP: si te sancionan por circular con un patinete fuera de norma, la multa no siempre está bien puesta ni es inamovible. Antes de pagarla, llévala al <a href=https://recurretumulta.online/#analizador>analizador de multas gratuito</a> y sal de dudas en un minuto.</p>
+<h2>Pros y contras de plantearse un LR8 hoy</h2>
+<ul>
+<li><strong>Pros:</strong> batería enorme para su época (en torno a 1,25 kWh según las fichas de la época).</li>
+<li><strong>Pros:</strong> ruedas de 14 pulgadas que ruedan mejor que las habituales de 10.</li>
+<li><strong>Pros:</strong> frenos de tambor sellados, de mantenimiento casi nulo.</li>
+<li><strong>Pros:</strong> en segunda mano puede salir muy barato para la batería que ofrece.</li>
+<li><strong>Contras:</strong> fuera del catálogo oficial; sin ficha del fabricante verificable.</li>
+<li><strong>Contras:</strong> datos contradictorios entre tiendas (la batería ni siquiera cuadra en Wh).</li>
+<li><strong>Contras:</strong> 38,1 kg declarados: cero portabilidad.</li>
+<li><strong>Contras:</strong> queda fuera de la norma VMP española y las unidades ya tienen años de antigüedad.</li>
+</ul>
+<p><img src=/media/patinetes/joyor-lr8-2.webp alt=Detalle de las ruedas de 14 pulgadas del Joyor LR8></p>
+<h2>Veredicto</h2>
+<p>El LR8 fue una idea interesante ejecutada en tirada corta: un patinete rutero de batería gigante y ruedas grandes. En 2026 no es una compra de catálogo, sino una oportunidad de segunda mano que solo compensa con la batería comprobada, precio de derribo y asumiendo que el respaldo oficial brilla por su ausencia. Para casi todo el mundo, un modelo actual con certificado y garantía rinde más tranquilo. Los datos que manejamos quedan recogidos en la <a href=/patinetes/joyor-lr8>ficha del Joyor LR8</a>, marcados con su nivel de verificación.</p>
+<p>Si te va el espíritu rutero del LR8, el <a href=/juego-monos/>juego de los monos</a> reparte rutas por toda la web: hay monos escondidos en cientos de páginas, con 2.000 euros de premio esperando a quien complete primero la colección.</p>
+<h2>Cómo comprobar una batería usada de 52 V antes de pagar</h2>
+<p>En un LR8, la batería es la compra: todo lo demás es barato o genérico. Una unidad sana de 52 V marca unos 58,8 V recién cargada y no debería desplomarse bajo carga. La prueba práctica es rodar 15-20 minutos con aceleraciones fuertes y comprobar dos cosas: que el indicador no caiga en picado al abrir gas (síntoma clásico de celdas agotadas) y que el porcentaje recuperado al parar sea razonable. Si el vendedor se niega a una prueba así, el precio debe reflejar que compras la batería a ciegas.</p>
+<p>Comprueba también el cargador: debe ser el de 58,8 V correspondiente al sistema de 52 V. Cargar una batería así con un cargador de 48 V (54,6 V) la dejaría crónicamente a medio llenar, y con uno inadecuado el riesgo deja de ser económico para ser de seguridad. Y revisa el conector y el cableado en busca de zonas requemadas o reparaciones caseras: en vehículos sin red oficial detrás, el estado de la instalación eléctrica lo dice casi todo del dueño anterior.</p>
+<h2>Recambios: lo genérico se salva, lo específico no</h2>
+<p>No todo es desolación en un modelo descatalogado. Las cubiertas y cámaras de 14 pulgadas, las zapatas de los frenos de tambor y buena parte de la tornillería pertenecen al mundo genérico de los patinetes chinos y se encuentran en tiendas de recambios sin demasiado esfuerzo. Lo que puede convertirse en un problema serio es lo específico: la controladora configurada para ese modelo, la pantalla, el cargador original o cualquier pieza de carrocería. Antes de comprar, localiza al menos una fuente para la controladora y el cargador; si no existe, negocia como si la primera avería electrónica fuera también la última.</p>
+<h2>Por qué Joyor dejó morir modelos como este</h2>
+<p>El LR8 pertenece a la época alegre previa a la certificación obligatoria: entre 2021 y 2023 los fabricantes chinos lanzaban variantes de gran batería sin preocuparse de los papeles europeos. Cuando la DGT y el resto de reguladores exigieron certificado y las grandes superficies empezaron a pedir documentación, las marcas concentraron el catálogo en pocos modelos homologables y las tiradas cortas como esta se quedaron sin sucesor. Entender eso ayuda a valorar una unidad usada: no es que el LR8 saliera malo, es que su mundo desapareció.</p>
+<p><img src=/media/patinetes/joyor-lr8-3.webp alt=Joyor LR8 en ruta larga></p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Sigue vendiendo Joyor el LR8?</h3>
+<p>No consta en el catálogo oficial actual de la marca ni en su tienda. Las unidades que aparecen son restos de stock de distribuidores o ejemplares de segunda mano.</p>
+<h3>¿Qué batería lleva el Joyor LR8?</h3>
+<p>Las fichas de distribuidores de su época hablan de 52 V y 24 Ah, unos 1.248 Wh. No hemos podido verificarlo en una fuente oficial vigente, y algunas tiendas citaban 1.253 Wh, cifra que no cuadra con esa combinación de voltaje y capacidad.</p>
+<h3>¿Es legal circular con él por la ciudad?</h3>
+<p>No como VMP: sus 45 km/h declarados duplican el tope legal y Joyor nunca publicó certificado de circulación para él. Su ámbito es el recinto privado.</p>
+<h3>¿Compensa comprarlo usado?</h3>
+<p>Solo si el precio es muy bajo y puedes comprobar el estado real de la batería con una prueba larga. Sin esa comprobación, el riesgo de comprar una batería agotada es alto.</p>
+<h3>¿Hay alternativas actuales con su planteamiento?</h3>
+<p>Sí: los patinetes ruteros actuales de 48-52 V y más de 20 Ah ofrecen la misma idea con certificado, garantía y datos verificables. En el comparador puedes filtrar por autonomía y capacidad de batería.</p>`,
   },
   {
     slug: "joyor-lr10",
@@ -3778,73 +3759,66 @@ Si necesitas **doble motor y casi 100 km de autonomía**, no hay muchas alternat
       "joyor s5 pro españa",
       "joyor y10 vs s5 pro",
     ],
-    content: `<img src=/media/patinetes/joyor-s5-pro-1.webp alt=Joyor S5 Pro, vista lateral del patinete rutero>
-
-**¿Buscas solo los datos?** <a href=/patinetes/joyor-s5-pro/>Ver ficha técnica del Joyor S5 Pro</a>: ABE, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Joyor S5 Pro** es el rutero con sello alemán: **homologación ABE**, **500 W**, **1.248 Wh** (48V 26Ah), **90 km declarados**, **20 km/h** y **22 kg**, por **529 €**.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | 529 € |
-| **Motor** | 500 W |
-| **Batería** | 48V 26Ah (1.248 Wh) |
-| **Autonomía declarada** | 90 km |
-| **Autonomía real estimada** | ≈60 km |
-| **Velocidad máxima** | 20 km/h |
-| **Peso** | 22 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/joyor-s5-pro/>Ficha técnica completa del Joyor S5 Pro</a>.
-
-## Precio del Joyor S5 Pro en España
-
-**529 €** en la red de distribuidores españoles de Joyor. Más barato que el Y10 a cambio de no llevar certificado DGT.
-
-<img src=/media/patinetes/joyor-s5-pro-2.webp alt=Detalle del Joyor S5 Pro>
-
-## Autonomía real vs declarada
-
-**90 km declarados**; en uso mixto, **unos 60 km reales**. A 20 km/h el consumo es ridículo: la batería dura días.
-
-## Frenos y neumáticos
-
-**Disco delantero y trasero**, con neumáticos de 10". Equipo solvente para 20 km/h.
-
-## Certificado DGT y normativa VMP
-
-El S5 Pro lleva **homologación ABE** (alemana), pensada para los 20 km/h legales en Alemania. En España es legal como VMP a esa velocidad, pero **no consta certificado DGT**: para la tranquilidad normativa total, el Y10.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Homologación ABE | Sin certificado DGT |
-| 1.248 Wh por 529 € | 20 km/h: lento para España |
-| 22 kg: ligero | Diseño sobrio |
-| 90 km declarados | Carga larga (8-9 h) |
-| Precio muy competitivo | El Y10 es mejor opción en España |
-
-<img src=/media/patinetes/joyor-s5-pro-3.webp alt=Joyor S5 Pro en ciudad>
-
-## Preguntas frecuentes
-
-### ¿Es legal en España?
-Como VMP a **20 km/h**, sí, aunque **no consta certificado DGT**.
-
-### ¿Qué autonomía real tiene?
-Unos **60 km**.
-
-### ¿S5 Pro o Y10?
-En España, **Y10**: certificado DGT y 25 km/h. El S5 Pro tiene sentido si buscas el precio más bajo.
-
-### ¿Por qué solo 20 km/h?
-Es el **límite legal alemán** (ABE): Joyor lo diseñó para ese mercado.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+    content: `<p>El Joyor S5 Pro se vende en España por 759 € en distribuidores como PcComponentes: motor de 500 W, una batería de 26 Ah a 48 V (1.248 Wh) y una autonomía anunciada de 70-90 km y versión limitada a 20 km/h con certificación alemana ABE.</p>
+<p><img src=/media/patinetes/joyor-s5-pro-1.webp alt="Joyor S5 Pro patinete eléctrico de gran autonomía"></p>
+<p>Joyor construye buena parte de su gama europea alrededor de una idea fija: baterías enormes. El S5 Pro lleva esa idea al extremo con 26 Ah, el doble o el triple que un urbano corriente, y la remata con una versión homologada para Alemania que sacrifica velocidad a cambio de papeles. Antes de entrar en materia, dos avisos de transparencia: este modelo no aparece en la tienda oficial actual de Joyor, así que los datos proceden de las fichas de sus distribuidores, y no debe confundirse con el Joyor S-PRO, un modelo distinto, con doble motor y certificado DGT, que venden otras cadenas.</p>
+<h2>Datos según la ficha de distribuidor</h2>
+<table>
+<tr><th>Dato</th><th>Joyor S5 Pro</th></tr>
+<tr><td>Motor</td><td>Brushless de 500 W nominales</td></tr>
+<tr><td>Batería</td><td>48 V y 26 Ah (1.248 Wh)</td></tr>
+<tr><td>Autonomía anunciada</td><td>70-90 km</td></tr>
+<tr><td>Velocidad</td><td>20 km/h en la versión con certificación ABE</td></tr>
+<tr><td>Ruedas</td><td>10 pulgadas</td></tr>
+<tr><td>Frenos</td><td>Disco</td></tr>
+<tr><td>Suspensión</td><td>Doble, delantera y trasera</td></tr>
+<tr><td>Extras</td><td>Pantalla LCD, control de crucero, alumbrado LED</td></tr>
+<tr><td>Precio en España</td><td>759 € (PcComponentes)</td></tr>
+</table>
+<p>La ficha de PcComponentes es la referencia española más sólida que tiene este modelo hoy, y es la que enlazamos como fuente: <a href=https://www.pccomponentes.com/patinete-electrico-joyor-s5-pro-500w-90km-gris>ficha del Joyor S5 Pro en PcComponentes</a>. Aun así, ni siquiera entre distribuidores hay unanimidad: el mismo producto aparece en otro anuncio de la misma tienda con «hasta 55 km» de autonomía frente a los 70-90 km de la ficha principal. Cuando dos fichas del mismo vendedor se contradicen, lo honesto es contarlo y quedarse con la lectura conservadora.</p>
+<h2>Una batería de 1.248 Wh y lo que rinde de verdad</h2>
+<p>Sobre el papel, 48 V por 26 Ah dan 1.248 Wh, una capacidad propia de bicicletas eléctricas de carga. La autonomía anunciada de 70-90 km se apoya en la limitación a 20 km/h de la versión ABE: a esa velocidad constante y con un motor de 500 W trabajando sin estrés, el consumo por kilómetro baja mucho y las cifras altas dejan de ser ciencia ficción. En un uso mixto con aceleraciones, paradas y algo de pendiente, una horquilla prudente se mueve entre 50 y 70 km por carga, que sigue siendo una barbaridad para un patinete de este precio.</p>
+<p>El reverso es el tiempo de recarga. Los manuales genéricos de Joyor para baterías de 26 Ah hablan de cargas completas de 10 a 15 horas con el cargador estándar. Es un vehículo de enchufar al llegar a casa y no tocar hasta el día siguiente, y su batería agradecerá que no la apures hasta el fondo en cada salida.</p>
+<h3>El peso que nadie publica</h3>
+<p>Versiones anteriores de esta guía afirmaban que el S5 Pro pesa 22 kg. No hemos encontrado esa cifra en ninguna ficha de distribuidor actual ni en la documentación de la marca, así que la retiramos: con 1.248 Wh de batería, suspensión en ambos ejes y ruedas de 10 pulgadas, lo prudente es asumir un peso elevado, propio de los patinetes ruteros, y confirmarlo con el vendedor antes de comprarlo si necesitas cargarlo a pulso.</p>
+<h2>Certificación ABE: qué significa y qué no</h2>
+<p>La ABE es la homologación general de tipo alemana. En Alemania permite circular con el patinete (con su seguro de placa) a un máximo de 20 km/h. En España, sin embargo, el papel que manda en España es el certificado de circulación de los VMP, y la ABE no lo sustituye. Sumado a que la velocidad española de VMP es 25 km/h, el S5 Pro limitado a 20 km/h queda en una situación curiosa: más lento de lo permitido, pero sin que su homologación alemana equivalga automáticamente a la española.</p>
+<p>La lectura práctica: si eliges este modelo, confirma con el vendedor su situación documental para circular en España y recuerda que los VMP deben llevar seguro de responsabilidad civil obligatorio desde enero de 2026. Para ir sobre seguro, los modelos con certificado DGT de nuestro <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a> evitan la zona gris. Y si una sanción te pilla en esa zona gris, revísala antes con el <a href=https://recurretumulta.online/#analizador>analizador de multas de esta web</a>, que es gratuito: a veces el defecto está en la propia notificación.</p>
+<h2>Precio: 759 € hoy, 529 € en otra época</h2>
+<p>El precio actual en PcComponentes es 759 €. Versiones antiguas de esta guía citaban 529 €, un importe que correspondía a ofertas pasadas de otros canales y que ya no refleja el mercado. Como el modelo no está en la tienda oficial de Joyor, no existe un PVP de fabricante que poner como referencia: hay precios de distribuidor, y el español verificable hoy es el de 759 €.</p>
+<h2>Pros y contras</h2>
+<ul>
+<li><strong>Pros:</strong> batería de 1.248 Wh, autonomía de rutero de verdad.</li>
+<li><strong>Pros:</strong> versión con homologación ABE y limitación a 20 km/h para quien prioriza los papeles.</li>
+<li><strong>Pros:</strong> doble suspensión y ruedas de 10 pulgadas para trayectos largos.</li>
+<li><strong>Pros:</strong> motor de 500 W suficiente para ciudad y caminos suaves.</li>
+<li><strong>Contras:</strong> no figura en la tienda oficial de Joyor; datos solo de distribuidores, y contradictorios en autonomía.</li>
+<li><strong>Contras:</strong> la ABE alemana no equivale al certificado español de circulación para VMP.</li>
+<li><strong>Contras:</strong> recargas que se estiran hasta las 15 horas según el manual de la marca.</li>
+<li><strong>Contras:</strong> peso sin publicar oficialmente; no lo compres si necesitas cargarlo a diario.</li>
+</ul>
+<p><img src=/media/patinetes/joyor-s5-pro-2.webp alt=Detalle del Joyor S5 Pro></p>
+<h2>Veredicto</h2>
+<p>El S5 Pro es un especialista: nadie compra 26 Ah para hacer tres manzanas. Si tus rutas son largas, tu terreno es amable y te mueve la versión homologada para Alemania, tiene sentido. Si circulas por España y quieres cero dudas documentales, la misma idea con certificado DGT la tienes en otros modelos de la propia Joyor y de la competencia. Sus datos conocidos están reunidos en la <a href=/patinetes/joyor-s5-pro>ficha del Joyor S5 Pro</a>, con las contradicciones entre fuentes señaladas.</p>
+<p>Para descansar de tanto kilómetro, visita el <a href=/juego-monos/>juego de los monos camuflados</a>, que reparte ejemplares por toda la web: hay 2.000 euros de premio para la primera persona que complete la colección.</p>
+<h2>S5 Pro y Y8-S: la misma idea en dos canales distintos</h2>
+<p>Quien investigue patinetes Joyor de 26 Ah se topará con un nombre que se repite: el Y8-S. No es casualidad. La prensa especializada europea ha probado el Y8-S como el rutero de la casa con motor de 500 W, batería de 26 Ah y certificación ABE, con un precio en torno a 700 euros, es decir, el mismo planteamiento que el S5 Pro mueve a través de distribuidores en España por 759 €. Joyor trabaja con denominaciones distintas según el canal y el país, y esa es la explicación más probable de por qué el S5 Pro no aparece en la tienda oficial: su sitio en el escaparate de la marca lo ocupa su hermano de gama.</p>
+<p>La consecuencia práctica para el comprador es doble. Por un lado, la abundancia de análisis del Y8-S sirve como referencia orientativa de lo que rinde esta plataforma de 500 W y 26 Ah (confort de marcha alto, carácter tranquilo, freno delantero que exige tacto, según los probadores). Por otro, ningún análisis de un modelo sustituye a la ficha del otro: si compras el S5 Pro, exige al vendedor su documentación y sus datos concretos, no los del Y8-S.</p>
+<h2>Coste de uso: céntimos por cada cien kilómetros</h2>
+<p>Donde un patinete de 26 Ah sí gana por goleada es en la factura de la luz. Una carga completa de 1.248 Wh cuesta en torno a 25 céntimos si pagas la luz a 0,20 € el kWh; si la autonomía real ronda los 60 km, el coste energético se queda en torno a 0,40 € cada 100 km. Frente a un ciclomotor de gasolina, que se mueve en varios euros por la misma distancia, el ahorro anual de quien rueda a diario es de cientos de euros, suficiente para amortizar la diferencia de precio frente a un urbano de batería pequeña en un par de años de uso intenso.</p>
+<p>Ese cálculo, eso sí, presume de una batería sana durante años. Con recargas tan largas, la tentación de dejarlo enchufado días enteros existe, y es justo lo que las celdas de litio peor llevan junto con las descargas profundas. La rutina correcta es aburrida pero barata: cargar tras la jornada, desenchufar al completar y guardar el patinete con carga parcial si va a estar parado varias semanas.</p>
+<p><img src=/media/patinetes/joyor-s5-pro-3.webp alt=Joyor S5 Pro en ciudad></p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuánto cuesta el Joyor S5 Pro en España?</h3>
+<p>759 € en PcComponentes en el momento de actualizar esta guía. No hay PVP oficial de fabricante publicado, porque Joyor no lo incluye en su tienda oficial de hoy.</p>
+<h3>¿Qué autonomía real ofrece?</h3>
+<p>El distribuidor anuncia 70-90 km (y 55 km en otro de sus anuncios). Nuestra estimación prudente para uso mixto es de 50-70 km por carga, gracias a sus 1.248 Wh y a la limitación a 20 km/h.</p>
+<h3>¿La certificación ABE me permite circular en España?</h3>
+<p>La ABE es la homologación alemana y no hace las veces del certificado de circulación de Tráfico. Antes de comprarlo, confirma con el vendedor la documentación del ejemplar concreto para circular en España.</p>
+<h3>¿Es el mismo modelo que el Joyor S-PRO?</h3>
+<p>No. El S-PRO es otro patinete: doble motor de 2×500 W, certificado DGT y venta en grandes superficies. El S5 Pro es monomotor de 500 W con batería de 26 Ah y homologación alemana ABE.</p>
+<h3>¿Cuánto pesa?</h3>
+<p>No lo publica ninguna ficha de distribuidor consultada, y la marca tampoco lo desglosa. La cifra de 22 kg que circulaba por internet no hemos podido verificarla, así que pregunta al vendedor si el peso es un factor decisivo para ti.</p>`,
   },
   {
     slug: "joyor-t10",
@@ -3961,74 +3935,69 @@ Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.
       "joyor 75 km",
       "joyor t10 vs s10",
     ],
-    content: `<img src=/media/patinetes/joyor-s10-s-z-1.webp alt=Joyor S10-S-Z, vista lateral del doble motor urbano>
-
-**¿Buscas solo los datos?** <a href=/patinetes/joyor-s10-s-z/>Ver ficha técnica del Joyor S10-S-Z</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Joyor S10-S-Z** es el doble motor urbano de la marca: **dos motores de 1.000 W** (2.000 W), **1.080 Wh** (60V 18Ah), **75 km declarados**, **60 km/h** y amortiguación de largo recorrido, por **609 €**.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | 609 € |
-| **Motor** | Doble, 1.000 W + 1.000 W |
-| **Batería** | 60V 18Ah (1.080 Wh) |
-| **Autonomía declarada** | 75 km |
-| **Autonomía real estimada** | ≈50 km |
-| **Velocidad máxima** | 60 km/h |
-
-¿Quieres el detalle completo? <a href=/patinetes/joyor-s10-s-z/>Ficha técnica completa del Joyor S10-S-Z</a>.
-
-## Precio del Joyor S10-S-Z en España
-
-**609 €** en la red de distribuidores españoles de Joyor. Incluso más barato que el T10 a cambio de un enfoque más urbano.
-
-<img src=/media/patinetes/joyor-s10-s-z-2.webp alt=Detalle de la amortiguación del Joyor S10-S-Z>
-
-## Autonomía real vs declarada
-
-**75 km declarados**; en uso mixto, **unos 50 km reales**. La amortiguación de largo recorrido lo hace cómodo en firmes urbanos rotos.
-
-## Frenos y neumáticos
-
-Frenos de disco y neumáticos de 10" con suspensión delantera y trasera de largo recorrido. Enfoque urbano: cómodo en baches, menos off-road que el LR10.
-
-## Certificado DGT y normativa VMP
-
-Con **60 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 2.000 W por 609 € | A 60 km/h, ilegal en vía pública |
-| 75 km declarados | Peso sin publicar (elevado) |
-| Amortiguación de largo recorrido | Acabados de entrada |
-| Más barato que el T10 | Menos conocido que el T10 |
-| Doble motor urbano cómodo | Red de talleres limitada |
-
-<img src=/media/patinetes/joyor-s10-s-z-3.webp alt=Joyor S10-S-Z en calles urbanas>
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta?
-**609 €** en distribuidores españoles.
-
-### ¿Qué autonomía real tiene?
-Unos **50 km**.
-
-### ¿S10-S-Z o T10?
-El S10-S-Z es más **urbano y barato** (609 €); el T10 aguanta **más carga** (120 kg). Para ciudad, S10-S-Z.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Cuánto pesa?
-El peso oficial no está publicado, pero como todo doble motor es **elevado**: ténlo en cuenta para cargarlo y transportarlo.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+    content: `<p>El Joyor S10-S-Z combina dos motores de 1.000 W, una batería de 60 V y 18 Ah (1.080 Wh) y ruedas de 10 pulgadas; los distribuidores europeos lo venden desde unos 606-679 €, y con 60-65 km/h declarados, España no lo reconoce como VMP.</p>
+<p><img src=/media/patinetes/joyor-s10-s-z-1.webp alt="Joyor S10-S-Z patinete eléctrico doble motor 2000 W"></p>
+<p>La familia S de Joyor es su línea de patinetes de prestaciones, y el apellido «Z» distingue a las variantes de doble motor con batería de 60 V. El S10-S-Z es, en esencia, la respuesta de la marca a los todoterreno chinos de 2.000 W que inundan los marketplaces, pero con red de distribuidores europeos detrás. Como ocurre con otros modelos de la casa, Joyor no mantiene una ficha de producto en su tienda oficial actual, así que los datos proceden de sus distribuidores europeos, principalmente la ficha de Todimart y la de la <a href=https://gtxrstore.com/products/joyor-s10-s-z-electric-scooter>tienda GTXR, distribuidor de Joyor</a>.</p>
+<h2>Ficha técnica según distribuidores</h2>
+<table>
+<tr><th>Dato</th><th>Joyor S10-S-Z</th></tr>
+<tr><td>Motores</td><td>2 × 1.000 W (2.000 W combinados)</td></tr>
+<tr><td>Batería</td><td>18 Ah a 60 V (1.080 Wh)</td></tr>
+<tr><td>Autonomía declarada</td><td>70-85 km según el distribuidor</td></tr>
+<tr><td>Velocidad máxima declarada</td><td>65 km/h (Todimart); 60 km/h en marketplaces</td></tr>
+<tr><td>Ruedas</td><td>10 pulgadas todoterreno</td></tr>
+<tr><td>Suspensión</td><td>Delantera y trasera</td></tr>
+<tr><td>Frenos</td><td>Disco en ambas ruedas</td></tr>
+<tr><td>Peso neto</td><td>27 kg</td></tr>
+<tr><td>Carga máxima</td><td>120 kg</td></tr>
+<tr><td>Precio</td><td>679 € en Todimart; desde 605,99 € en marketplaces</td></tr>
+</table>
+<p>Corrección importante sobre lo que esta guía decía antes: afirmaba que el peso «no estaba publicado». Sí lo está: los distribuidores europeos declaran 27 kg, una cifra coherente con su batería de 1.080 Wh y su doble motor. También ajustamos la velocidad: la ficha de distribuidor más completa habla de 65 km/h, mientras varios marketplaces redondean a 60 km/h; en ambos casos, muy por encima de lo que un VMP puede homologar.</p>
+<h2>Doble motor de 60 V: en qué se nota el voltaje</h2>
+<p>Subir de 48 a 60 V no es un capricho de ficha técnica: a igual potencia, un sistema de 60 V trabaja con menos intensidad, se calienta menos en esfuerzos largos y mantiene el empuje mejor cuando la batería baja del 50 %. En el S10-S-Z eso se traduce en salidas contundentes con los dos motores conectados, capacidad para rampas serias con conductores de 100 kilos y una punta declarada entre 60 y 65 km/h que solo tiene sentido lejos de la vía pública.</p>
+<p>El conductor puede rodar con un solo motor para trayectos tranquilos y reservar la tracción total para cuando hace falta, un interruptor clásico en esta categoría que alarga la autonomía de forma apreciable. La suspensión en ambos ejes y los neumáticos todoterreno de 10 pulgadas completan un conjunto pensado para pistas y caminos, no para el adoquín fino del centro.</p>
+<h3>Frenada y parte ciclo</h3>
+<p>Con 27 kg de patinete más el conductor, los discos en ambas ruedas son obligados y están presentes. La plataforma es ancha, el manillar se pliega para el maletero y el alumbrado es LED completo. No alcanza el refinamiento de un Dualtron en materiales ni en ajustes, pero tampoco cuesta lo que un Dualtron: esa es exactamente su apuesta comercial.</p>
+<h2>1.080 Wh de batería y la autonomía realista</h2>
+<p>Los 70-85 km que anuncia Todimart corresponden al modo de un solo motor, ritmo contenido y conductor estándar. Con los dos motores trabajando y ritmo de camino alegre, la horquilla honesta se mueve entre 40 y 55 km por carga. Incluso en el peor escenario, es autonomía de sobra para una mañana entera de rutas sin ver un enchufe.</p>
+<p>Llenar sus 1.080 Wh con el cargador incluido es tarea de noche completa. Quien lo use a diario debería enchufarlo nada más llegar y tratar la batería con el mimo habitual: nada de apurarla al cero por ciento de forma sistemática ni de almacenarla cargada a tope durante semanas.</p>
+<h2>Legalidad: un juguete de recinto privado</h2>
+<p>Con 60-65 km/h declarados y ningún certificado de circulación publicado, el S10-S-Z queda fuera de la definición española de VMP (máximo 25 km/h por construcción), y desde enero de 2026 a cualquier VMP legal se le exige además seguro de responsabilidad civil. Este Joyor es, en España, un vehículo para fincas, circuitos y recintos privados.</p>
+<p>Si tu idea es moverte a diario por la ciudad, el camino son los modelos con certificado de nuestro <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a>. Y si ya te han multado con un patinete de este perfil, no des la sanción por perdida sin revisarla: el <a href=https://recurretumulta.online/#analizador>analizador de multas con IA</a> la examina gratis y te orienta sobre si cabe recurso.</p>
+<h2>Precio y canales de compra</h2>
+<p>Todimart, uno de los distribuidores europeos habituales de Joyor, lo lista a 679 € rebajado desde un PVP de 1.299 € que suena a precio de lanzamiento. En marketplaces se ha visto desde 605,99 €. No hay PVP de la marca que sirva de ancla, así que la referencia práctica es esa banda de 600-680 €: pagar más de 700 € por él hoy sería pagar de más. En la <a href=/patinetes/joyor-s10-s-z>ficha del Joyor S10-S-Z</a> dejamos registrados los precios que vamos encontrando.</p>
+<h2>Pros y contras</h2>
+<ul>
+<li><strong>Pros:</strong> 2.000 W combinados y sistema de 60 V que mantiene el empuje con la batería baja.</li>
+<li><strong>Pros:</strong> 1.080 Wh de batería para rutas largas sin enchufe.</li>
+<li><strong>Pros:</strong> precio de distribuidor europeo en torno a 600-680 €.</li>
+<li><strong>Pros:</strong> discos en ambas ruedas y suspensión completa.</li>
+<li><strong>Contras:</strong> en España solo cabe usarlo fuera de la vía pública.</li>
+<li><strong>Contras:</strong> 27 kg que lo limitan a guardarlo en planta baja o garaje.</li>
+<li><strong>Contras:</strong> cifras de velocidad y autonomía que varían según el distribuidor.</li>
+<li><strong>Contras:</strong> sin ficha en la tienda oficial de Joyor; el respaldo depende del vendedor.</li>
+</ul>
+<p><img src=/media/patinetes/joyor-s10-s-z-2.webp alt=Detalle de la amortiguación del Joyor S10-S-Z></p>
+<h2>Veredicto</h2>
+<p>El S10-S-Z es un doble motor de 60 V con batería generosa al precio de un monomotor europeo: como vehículo recreativo para espacios privados, la relación prestaciones-euro es difícil de batir. Sus dos condiciones son aceptar su estatus legal (nada de vía pública en España) y comprar a un distribuidor que responda en garantía. Cumplido eso, es de las opciones con más sentido de su especie.</p>
+<p>Y si te gustan los retos de explorador, en el <a href=/juego-monos/>juego de los monos</a> te esperan cientos de páginas por rastrear y un premio de 2.000 euros reservado a quien primero dé con todos los escondidos.</p>
+<h2>Comprar en distribuidor o en marketplace: no es lo mismo</h2>
+<p>La horquilla de precios de este modelo (de 605,99 € a 679 €) esconde una diferencia que no se ve en la ficha técnica: quién responde cuando algo falla. Un distribuidor europeo como Todimart gestiona la garantía dentro de la Unión Europea, con sus plazos y su obligación de recambios. Un marketplace con vendedor de fuera de la UE puede salir 70 € más barato y dejar la garantía en un limbo de envíos internacionales que nadie quiere probar con un patinete de 27 kg.</p>
+<p>En un doble motor de 2.000 W los componentes que más sufren son conocidos: controladoras que trabajan cerca de su límite térmico, conectores de motor que se aflojan con las vibraciones del camino y cubiertas todoterreno que se gastan en pocos miles de kilómetros si se abusa del asfalto. Nada de eso es dramático con un vendedor que responde; sin él, cada avería se convierte en un proyecto de bricolaje con piezas pedidas a ciegas.</p>
+<h2>Convivir con 2.000 W: rutinas que alargan la máquina</h2>
+<p>Quien ruede por caminos debería interiorizar tres gestos. Revisar el apriete de los ejes y de la tija antes de las salidas largas, porque la vibración todoterreno afloja tornillería en todos los patinetes de esta clase. Alternar los modos de motor con cabeza: la tracción total es para arrancar, para las rampas y para la tierra suelta, no para ir siempre conectada quemando batería y cubiertas. Y guardar el patinete con la batería en torno a media carga cuando vaya a dormir varias semanas, el seguro de vida más barato que existe para 1.080 Wh de litio.</p>
+<p>El gasto en electricidad, por cierto, no será un problema: llenar la batería cuesta unos 22 céntimos a precios domésticos habituales. El presupuesto de verdad se lo llevarán las cubiertas de tacos y las pastillas de freno, que en un vehículo de estas prestaciones y este peso trabajan mucho y se cambian antes que en un urbano tranquilo.</p>
+<p><img src=/media/patinetes/joyor-s10-s-z-3.webp alt=Joyor S10-S-Z en calles urbanas></p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuánto cuesta el Joyor S10-S-Z?</h3>
+<p>En distribuidores europeos se mueve entre 605,99 € en marketplaces y 679 € en Todimart. No existe un PVP publicado en la tienda oficial de Joyor para anclar el precio.</p>
+<h3>¿Cuál es su velocidad máxima?</h3>
+<p>Depende de la fuente: Todimart declara 65 km/h y varios marketplaces, 60 km/h. En cualquiera de los dos casos supera de largo los 25 km/h de un VMP, así que en España es un vehículo de recinto privado.</p>
+<h3>¿Qué autonomía puedo esperar?</h3>
+<p>Lo declarado es 70-85 km en condiciones ideales. Con doble motor y ritmo alegre, planifica entre 40 y 55 kilómetros por enchufe de sus 1.080 Wh.</p>
+<h3>¿Cuánto pesa realmente?</h3>
+<p>27 kg según los distribuidores europeos. Versiones antiguas de esta guía decían que el peso no estaba publicado; era incorrecto y lo hemos corregido.</p>
+<h3>¿Aguanta conductores de 120 kilos?</h3>
+<p>La carga máxima declarada es de 120 kg y el doble motor de 60 V está pensado para no desfallecer con conductores pesados, aunque la autonomía se resentirá.</p>`,
   },
 ];
