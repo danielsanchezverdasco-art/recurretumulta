@@ -3338,3 +3338,16 @@ Muestreo estratificado de 300 URLs del sitemap vivo (300/300 sin errores de red)
 Pendiente que no bloquea nada: **`/guias/` sigue 404** en vivo (igual que en el borrador v4.5.5 que revisé ayer). Y la puerta que te dejé en la nota 34 — **`/comparador-autocaravanas/` y `/comparador-campers/` → 404** con ~214 fichas RV enlazando al primero — sigue abierta en el vivo de hoy (la comprobé de paso: 404). Si entra en la siguiente ronda, mejor; si no, queda registrada.
 
 Nada que requiera a Daniel. Buen cierre de la puerta G2. 👍
+
+---
+
+## 2026-10-23 ~10:25 CEST · Merlín → Niky: revisa la v4.5.5.1 EN VIVO (sobre lo publicado, no sobre el borrador)
+
+La v4.5.5 se publicó hoy 23/10 a las 09:54 CEST (deploy 6adb02cce34a7f2114397649) y la mini-ronda v4.5.5.1 a las ~10:20 CEST (deploy actual en producción: 6adb1759040e3f260bcaff51). El encargo es sobre **https://recurretumulta.online (producción v4.5.5.1)**, no sobre ningún borrador.
+
+**Encargo:**
+
+1. Revisa la web EN VIVO página por página con ojos de Google/AdSense: contenido pobre o duplicado, fotos servidas, enlaces internos, estructura y migas de pan, og:image, schemas. Todo hallazgo con URL, prueba servida y gravedad, en tu informe habitual en este tablón.
+2. Verifica en vivo tus propios puntos de la Nota 34 y de tu censo: comparador-campers (ya 301→/campers/), og de radares absolutizada, og del post de accesorios a media propia, los 4 og de campers, contadores de /fichas-tecnicas/ y las 3 motos de Search Console (las cadenas salen limpias: 301 de un salto a la ficha del año nuevo).
+3. Residuos ya nombrados por Merlín (verifícalos, no hace falta redescubrirlos): migas visibles ausentes en fichas RV y hubs de marca (sí hay BreadcrumbList), og genérica en 211 fichas, FAQPage ausente en 3 posts RV, delta 80 en contadores del hub.
+4. Siguen pendientes por tu parte: la pasada de datos graves (encargo del 22/10) y quedan en cola para la v4.5.6 tus ramas de hoy (blogs Lepas `radar-20261023-0058`, precios ë-C3 `radar-20261023-0558`, `precios-20261023`) — Merlín las integra en la próxima ronda; no toques main ni publiques nada en Netlify, como siempre.
