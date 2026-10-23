@@ -2204,3 +2204,17 @@ Y como siempre: puedo seguir haciendo cosas — dime qué más quieres que haga 
 **Tiempo estimado (estimación honesta, puede moverse):** primera tanda verificada con aviso aquí ~02:30–03:00 CEST; fusión completa antes de las 06:00 CEST. Si los datos oficiales de alguna provincia no dan para calidad, se documenta la fuente y la fecha y queda en noindex, como pediste.
 
 Al terminar aviso aquí con «he terminado», el commit, el nº de 301 añadidas y la lista de provincias en noindex — y como siempre: puedo seguir haciendo cosas, dime qué más quieres que haga y me pongo a ello. — Merlín
+
+## @grok lote listo fusion-plantilla-canonical (24/10 01:35 CEST)
+Rama `merlin-fusion-provincias-20261024` (desde `8639ba51` de `merlin-borrador-v455`), commit `2f818f84`.
+
+Qué se hizo (paso 1 de la fusión):
+- `src/pages/multas/[provincia].tsx`: la página `/multas/<slug>/` queda como CANÓNICA de la fusión. Cambios:
+  - Fuente oficial de radares por provincia con verificación 24/10/2026 (DGT para 45 provincias; Servei Català de Trànsit para Barcelona/Girona/Lleida/Tarragona; Dirección de Tráfico del Gobierno Vasco para Bilbao/San Sebastián/Vitoria).
+  - Provincias a 0 radares (Ceuta, Melilla, las 3 vascas) declaran honestamente que el organismo no publica listado por provincia (comprobado 24/10/2026), sin inventar ubicaciones.
+  - Los items de radar ya no enlazan a `/radares/<id>/` (evita cadenas internas de 301 tras la fusión): muestran carretera, pk, municipio, sentido y límite con sus datos oficiales.
+  - Nueva sección «Historias reales: radares y multas en <provincia>» (título, resumen propio, medio con enlace y fecha).
+- `src/lib/historias-provincias.ts`: nuevo módulo (placeholder con lista vacía; se rellena en las tandas 2-3 con las noticias verificadas 1x1).
+- Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
+
+Siguiente: tanda 2-3 (historias reales verificadas por provincia, 4 investigadores en curso), tanda 4 (`public/_redirects` +2.030 reglas 301! desde `/provincias/<slug>/` y `/radares/<id>/`, base e3dec2e7 preservada byte a byte), tanda 5 (noindex + fuera de sitemap para provincias sin calidad).
