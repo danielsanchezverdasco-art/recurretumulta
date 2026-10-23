@@ -106,20 +106,8 @@ export const COCHES_EXP17: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "El diésel de referencia: 4,5 l/100 km con 150 CV y 360 Nm",
-      "Autonomía real superior a 1.000 km con el depósito de 50 litros",
-      "0-100 en 8,0 s: empuje contundente desde 1.600 rpm",
-      "5 estrellas Euro NCAP (2022) con el protocolo más exigente",
-      "Cambio DSG de 7 velocidades rápido y suave",
-    ],
-    contras: [
-      "Etiqueta C: el diésel tiene los días contados en las ZBE",
-      "Desde 36.280 €: el Golf diésel ya no es un coche barato",
-      "AdBlue y filtro de partículas: mantenimiento más caro que el gasolina",
-      "Sin hibridación: no opta a la etiqueta ECO",
-      "Rivales híbridos (Corolla) consumen parecido en ciudad",
-    ],
+    pros: ["Homologa 4,5 l/100 km y 119 g/km de CO₂ con 150 CV: dentro de la gama Golf 8.5, este 2.0 TDI es la receta de mínimo gasto en carretera abierta", "Su depósito admite 50 litros, así que a ritmo homologado supera los 1.100 km sin parar a repostar gasóleo", "Los 360 Nm llegan a 1.600 rpm y firman una punta de 223 km/h, con el sprint hasta los 100 km/h cerrado en 8,0 segundos", "Volkswagen no se conformó con las cinco estrellas de 2019: sumó el airbag central delantero y revalidó la nota máxima en 2022", "A diferencia del TDI de 115 CV, que se queda con el cambio manual, este 150 CV se vende unido al DSG de siete relaciones"],
+    contras: ["Su pegatina de la DGT es la C: en las zonas de bajas emisiones queda un escalón por debajo de los ECO y Cero, y es un diésel sin ningún apoyo eléctrico", "La factura arranca en 36.280 € y por 1.050 € adicionales el propio catálogo Golf ofrece el 1.5 eTSI de idénticos 150 CV ya con etiqueta ECO", "Convive con sistemas que el gasolina no lleva: reposición de AdBlue para el catalizador SCR y regeneraciones del filtro de partículas, que castigan los trayectos cortos urbanos", "La carrocería de cinco puertas se queda en 381 litros de maletero frente a los 611 del Golf Variant: si prima cargar, el familiar de la casa gana", "El DSG es obligatorio en esta potencia: quien busque tres pedales en diésel debe bajar al TDI de 115 CV y renunciar a 35 CV"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -133,18 +121,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     aprox: [],
     imagen: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 6.98,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.55,
-      seguroTercerosAnual: 380,
-      seguroAmpliadoAnual: 720,
-      mantenimientoAnual: 320,
-      costeMensualTotal: 174,
-      notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 6.98, "costeMensualTotal": 174, "estimado": true, "mantenimientoAnual": 320, "notas": "Cifra mensual de esta versión: recorrer 15.000 km al año pagando el gasóleo a 1,55 € por litro da 6,98 € cada 100 km; sumados el seguro amplio de 720 € y los 320 € de taller resultan los 174 € al mes", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 720, "seguroTercerosAnual": 380},
     galeria: [
       {
         src: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
@@ -159,6 +136,8 @@ export const COCHES_EXP17: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    euroncap: {"ano": 2022, "estrellas": 5, "nota": "Reevaluación publicada el 12 de octubre de 2022: 88 % en ocupante adulto, 87 % en infantil, 74 % en usuarios vulnerables y 79 % en asistencias; la tabla de validez oficial cubre expresamente el 2.0 diésel de 110 kW con tracción delantera, esta misma versión", "url": "https://www.euroncap.com/en/results/vw/golf/47140"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Libro Volkswagen Service 2024, Plan de Mantenimiento para vehículos de combustión y notas específicas del Golf 8 (Servicio Oficial Volkswagen)", "intervalo": "Para el Golf 8, el libro Volkswagen Service 2024 marca dos relojes bienales: aceite nuevo como máximo cada dos años o 30.000 km, e inspección en idéntica cadencia para los coches desde MY21", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite del 2.0 TDI", "queSeCambia": "Sustitución del lubricante por Aceite Original Volkswagen y de su filtro, con chequeo de frenos, alumbrado, neumáticos, batería y niveles dentro de los puntos de control del fabricante"}, {"costeAproxEur": null, "nombre": "Servicio de Inspección bienal del Golf 8", "queSeCambia": "Diagnóstico electrónico, revisión del sistema de escape, de suspensión y dirección y del circuito de refrigeración, además del test de corrosión de carrocería que Volkswagen incluye en esta visita"}, {"costeAproxEur": null, "nombre": "Operaciones programadas propias del diésel con DSG", "queSeCambia": "Filtro de combustible a los seis años o 90.000 km, filtro de polen bienal o a los 60.000 km, líquido de frenos renovado cada dos años en el Golf 8 y aceite del DSG de embragues bañados a los 60.000 km en los Golf 8 señalados en el libro; la correa de distribución solo se revisa desde el octavo año y el AdBlue se repone según consumo"}]},
   },
   {
     id: "volkswagen-golf-r-variant-2026-precio-ficha-tecnica",

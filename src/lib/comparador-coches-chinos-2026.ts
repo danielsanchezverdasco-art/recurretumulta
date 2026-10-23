@@ -259,6 +259,11 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/im-ls9-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls9-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls9-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-ls9-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM LS9", ancho: 1920, alto: 1280 },
+      { src: "/media/im-ls9-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del IM LS9", ancho: 1920, alto: 1280 },
+      { src: "/media/im-ls9-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM LS9", ancho: 1400, alto: 1050 }
+    ],
     fuenteNombre: "CarsGuide (IM LS9 2026)",
     fuenteUrl: "https://www.carsguide.com.au/car-news/chinas-range-rover-beater-coming-to-oz-100038",
     analisisSlug: "im-ls9-2026-precio-ficha-tecnica",
@@ -277,7 +282,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     modelo: "V800",
     tipo: "Híbrido de autonomía extendida",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: precio oficial no publicado en ningún mercado (caso confirmado); sin tarifa pública de HIMA/Maextro.
     potenciaCv: 523,
     autonomiaKm: 300,
     maleteroL: null,
@@ -390,6 +395,10 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/byd-tang-l-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/byd-tang-l-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/byd-tang-l-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BYD Tang L", ancho: 1920, alto: 1280 },
+      { src: "/media/byd-tang-l-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BYD Tang L", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "byd-tang-l-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -423,7 +432,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagenInteriorOficial: "/media/nio-es9-2026-precio-ficha-tecnica-interior-oficial.webp",
     videoId: null,
     videoCanal: null,
-    marca: "Nio",
+    marca: "NIO",
     modelo: "ES9",
     tipo: "Eléctrico",
     categoria: "SUV",
@@ -560,6 +569,10 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/lotus-eletre-r-plus-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/lotus-eletre-r-plus-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/lotus-eletre-r-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Lotus Eletre R+", ancho: 1920, alto: 1280 },
+      { src: "/media/lotus-eletre-r-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Lotus Eletre R+", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "lotus-eletre-r-plus-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -673,7 +686,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     modelo: "R7",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 239.800 CNY (versión eléctrica Max), precio guía oficial anunciado por Luxeed/HIMA en el lanzamiento de la renovación del 28-.
     potenciaCv: 309,
     autonomiaKm: 802,
     maleteroL: 852,
@@ -709,7 +722,11 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     ],
     imagen: "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Luxeed R7", ancho: 1920, alto: 1280 },
+      { src: "/media/luxeed-r7-huawei-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Luxeed R7", ancho: 1920, alto: 1280 },
+    ],
     analisisSlug: "luxeed-r7-huawei-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -757,6 +774,10 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Onvo L90", ancho: 1920, alto: 1280 },
+      { src: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Onvo L90", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "onvo-l90-nio-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -881,7 +902,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     modelo: "HU",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China del Yangwang U7 (berlina): 658.000 CNY en el modelo 2026 lanzado en mar-2026 (EV y PHEV 5 plazas; hasta 888.000 CNY); el lanza.
     potenciaCv: null,
     autonomiaKm: null,
     maleteroL: null,
@@ -918,6 +939,10 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/yangwang-byd-berlina-260000-euros-rolls-royce-hero.webp",
     imagenOficial: "/media/yangwang-byd-berlina-260000-euros-rolls-royce-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/yangwang-byd-berlina-260000-euros-rolls-royce-oficial.webp", alt: "Foto oficial del Yangwang HU", ancho: 1920, alto: 1280 },
+      { src: "/media/yangwang-byd-berlina-260000-euros-rolls-royce-hero.webp", alt: "Foto del Yangwang HU", ancho: 1920, alto: 1280 }
+    ],
     analisisSlug: "yangwang-byd-berlina-260000-euros-rolls-royce",
     videoId: null,
     videoCanal: null,
@@ -936,7 +961,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     velocidadMax: null,
     bateriaKwh: null,
     cargaRapidaKw: null,
-    etiquetaDgt: "0",
+    etiquetaDgt: "Cero",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -967,6 +992,9 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/aiva-me7-paris-2026-hero.webp",
     imagenOficial: "/media/aiva-me7-paris-2026-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/aiva-me7-paris-2026-hero.webp", alt: "Foto oficial del Aiva ME7", ancho: 1200, alto: 800 }
+    ],
     analisisSlug: "aiva-me7-seres-catl-paris-2026",
     videoId: null,
     videoCanal: null,
@@ -1017,6 +1045,9 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     imagen: "/media/battleship-700-offroad-hero.webp",
     imagenOficial: "/media/battleship-700-offroad-hero.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/battleship-700-offroad-hero.webp", alt: "Foto oficial del Geely Galaxy Battleship 700", ancho: 1200, alto: 800 }
+    ],
     analisisSlug: "geely-galaxy-battleship-700-zhanjian-700",
     videoId: "yW7MF3kKo2Q",
     videoCanal: "Solkuno",

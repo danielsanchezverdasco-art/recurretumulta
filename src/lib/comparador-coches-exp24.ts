@@ -156,6 +156,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/rox-01-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/rox-01-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/rox-01-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Rox Motor 01", ancho: 1024, alto: 577 },
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Rox Motor 01", ancho: 1024, alto: 577 },
+      { src: "/media/rox-01-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Rox Motor 01", ancho: 1024, alto: 577 }
+    ],
     analisisSlug: null,
     videoId: "VdlZlffnpRU",
     videoCanal: "DDong Automobile",
@@ -208,23 +213,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "650 km CLTC con batería LFP de 72,88 kWh: gran autonomía por ~24.700 € en China",
-      "Plataforma de 800 V: del 30 al 80 % en 10 minutos",
-      "Huawei ADS 3.0 con LiDAR de 192 líneas y conducción asistida avanzada",
-      "Pantalla panorámica de 35,4 pulgadas y asientos con masaje y reclinación de 120°",
-      "Diseño AVATR 2.0 sin luneta trasera, con cámaras en lugar de retrovisores",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "La ausencia de luneta trasera obliga a depender de cámaras en todo momento",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Marca joven (Changan + Huawei + CATL): valor de reventa incierto",
-      "Peso de 2.210 kg para una berlina de 4,86 m",
-    ],
+    pros: ["Con un solo motor trasero de 343 CV y 365 Nm acelera de 0 a 100 km/h en 6,1 s y aun así homologa 650 km CLTC con la batería LFP de 72,88 kWh", "La arquitectura de 800 V pasa del 30 al 80 % de carga en 10 minutos, una parada mucho más breve que la de la mayoría de berlinas eléctricas de su precio en China", "El conjunto de Huawei suma LiDAR de 192 líneas con el sistema Qiankun ADS 3.0 y una pantalla superior de 35,4 pulgadas que recorre todo el salpicadero", "Pese a medir 4.855 mm y carecer de luneta trasera, ofrece 416 litros de maletero trasero más 70 litros de frunk, cifras aprovechables para viajar en familia"],
+    contras: ["No se comercializa en España: hacerse con uno hoy supone importación sin red oficial de Avatr que garantice recambios, actualizaciones y servicio posventa aquí", "Los 650 km anunciados son en ciclo CLTC chino, no en WLTP europeo, por lo que en autovía real la autonomía útil quedará claramente por debajo", "Sus 2.210 kg y sus 1.960 mm de anchura lo hacen pesado y voluminoso para calles estrechas y aparcamientos frente a rivales como el Tesla Model 3", "Carece de calificación oficial Euro NCAP y, al no tener luneta trasera, ver hacia atrás depende siempre de las cámaras y sus pantallas"],
     imagen: "/media/avatr-06-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-06-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 06", ancho: 1280, alto: 794 },
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 06", ancho: 800, alto: 800 },
+      { src: "/media/avatr-06-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 06", ancho: 768, alto: 576 }
+    ],
     analisisSlug: null,
     videoId: "WEndBU1vJj8",
     videoCanal: "DDong Automobile",
@@ -294,6 +292,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-07-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-07-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-07-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 07", ancho: 1280, alto: 640 },
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 07", ancho: 1280, alto: 706 },
+      { src: "/media/avatr-07-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 07", ancho: 1280, alto: 711 }
+    ],
     analisisSlug: null,
     videoId: "vQkRzcghHNc",
     videoCanal: "DDong Automobile",
@@ -363,6 +366,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/avatr-11-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-11-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-11-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 11", ancho: 1280, alto: 347 },
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 11", ancho: 1280, alto: 836 },
+      { src: "/media/avatr-11-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 11", ancho: 1280, alto: 711 }
+    ],
     analisisSlug: null,
     videoId: "ar0IsRAUPpE",
     videoCanal: "Aletech",
@@ -415,23 +423,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "700 km CLTC con batería de 94,5 kWh por ~34.600 € en China",
-      "Berlina de 5,02 m con batalla de 3,02 m: habitabilidad de clase S",
-      "Huawei ADS 3.0 con triple LiDAR de serie en todas las versiones",
-      "Pantalla panorámica 4K de 35,4 pulgadas y asientos de gravedad cero",
-      "Carga ultrarrápida en plataforma de 800 V",
-    ],
-    contras: [
-      "Sin luneta trasera: la visibilidad depende de cámaras y pantallas",
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "0-100 km/h en 6,7 s: la versión de acceso no es especialmente rápida",
-      "El ecosistema HarmonyOS está orientado al mercado chino",
-    ],
+    pros: ["Con una batería de 94,5 kWh, esta versión de tracción trasera declara 700 km en ciclo CLTC, una medición china más optimista que la WLTP europea.", "El motor trasero rinde 313 CV y 370 Nm y completa el 0 a 100 km/h en 6,7 s sin necesidad de añadir un segundo motor delantero.", "Incorpora tres sensores LiDAR y el sistema Huawei ADS 2.0 de serie, un despliegue de sensores poco habitual incluso entre berlinas premium europeas.", "Su pantalla panorámica de 35,4 pulgadas en 4K, junto a la central de 15,6 pulgadas y los asientos delanteros de gravedad cero, define un habitáculo pensado para viajar tumbado en parado y conectado en marcha."],
+    contras: ["No tiene luneta trasera, por lo que la visión hacia atrás depende por completo de la cámara y del retrovisor interior digital.", "No se comercializa oficialmente en España: el desembarco europeo anunciado para 2027 empezará con los 06T y 07L, así que este 12 carece aquí de red, recambios y asistencia propia.", "Medir 5.020 mm de largo y 1.999 mm de ancho lo convierte en un coche incómodo para garajes estrechos y calles antiguas, pese a ser una berlina de cinco plazas.", "Esta variante de 313 CV es la pausada de la familia: sus 6,7 s quedan muy lejos de los 3,9 s del bimotor de 578 CV, y su entorno HarmonyOS está construido alrededor de servicios y aplicaciones de China."],
     imagen: "/media/avatr-12-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-12-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/avatr-12-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 12", ancho: 1280, alto: 419 },
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Avatr 12", ancho: 1280, alto: 853 },
+      { src: "/media/avatr-12-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Avatr 12", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "mZEUXUdeNgU",
     videoCanal: null,
@@ -501,6 +502,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-l6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-l6-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-l6-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors L6", ancho: 1280, alto: 511 },
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors L6", ancho: 1280, alto: 690 },
+      { src: "/media/im-l6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors L6", ancho: 1202, alto: 677 }
+    ],
     analisisSlug: null,
     videoId: "Nbff5oi7ltM",
     videoCanal: null,
@@ -570,6 +576,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-ls6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls6-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls6-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors LS6", ancho: 900, alto: 562 },
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors LS6", ancho: 900, alto: 491 },
+      { src: "/media/im-ls6-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors LS6", ancho: 900, alto: 666 }
+    ],
     analisisSlug: null,
     videoId: "dfjPACjgnXE",
     videoCanal: "MAD EV",
@@ -639,6 +650,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/im-ls7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/im-ls7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/im-ls7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del IM Motors LS7", ancho: 1200, alto: 667 },
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del IM Motors LS7", ancho: 1200, alto: 710 },
+      { src: "/media/im-ls7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del IM Motors LS7", ancho: 1200, alto: 691 }
+    ],
     analisisSlug: null,
     videoId: "TFNqGzpWO_k",
     videoCanal: null,
@@ -691,45 +707,22 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: [
-      "275 km CLTC en modo eléctrico y 1.402 km de autonomía total",
-      "496 CV y 675 Nm: 0-100 km/h en 4,9 s para un SUV de 5,23 m",
-      "Interior de 6 plazas con pantalla de cine trasera de 32 pulgadas",
-      "Huawei ADS 2.0 con LiDAR y chasis con suspensión neumática",
-      "El SUV premium más vendido de China en 2024: fiabilidad probada en volumen",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "2.560 kg de peso y 5,23 m de largo: poco apto para ciudades europeas",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Precio de 469.800 yuanes (~61.100 €): territorio de Range Rover en Europa",
-      "El ecosistema HarmonyOS y los servicios están pensados para China",
-    ],
+    pros: ["La batería CATL de 52 kWh firma 275 km eléctricos CLTC y 1.402 km sumando el depósito; al lanzarse también existió una de 42 kWh con 225 y 1.362 km", "Tracción total con 165 kW delante y 200 kW detrás: 365 kW (496 CV) y 675 Nm en conjunto, con el 0 a 100 en 4,9 segundos", "Salón sobre ruedas: tres pantallas de 12,3, 15,6 y 16 pulgadas con HarmonyOS 4, HUD de 75 pulgadas y proyector láser trasero de 32 para las seis plazas", "Debutó con Huawei ADS 2.0 y un solo LiDAR de 192 líneas sobre el techo, dentro de un conjunto de 27 sensores; los cuatro LiDAR llegaron con el de 2025", "Seres declaró más de 150.000 entregas durante 2024, con el M9 líder en China entre los coches de más de 500.000 yuanes"],
+    contras: ["Europa tendrá que esperar: Aito anunció su llegada para otoño de 2027 sin concretar países ni precios, y hoy no existe red comercial ni taller oficial aquí", "Su tamaño manda: 5,23 m de largo, 3,11 m entre ejes y 2.560 kg en esta versión dejan poco margen en parkings y calles estrechas", "Euro NCAP nunca lo ha evaluado: el famoso 93,9 % es del C-NCAP chino de 2024 y lo logró un M9 Max eléctrico comprado de forma anónima, no este EREV", "La gama china arrancaba en 469.800 yuanes y cerraba en 569.800: sin importador europeo, traer uno exige asumir transporte, aduana y homologación individual", "Todo su software nació para China: HarmonyOS con mapas de Amap y servicios conectados locales que fuera de su mercado pierden gran parte de su gracia"],
     imagen: "/media/aito-m9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/aito-m9-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Aito M9 2024", ancho: 768, alto: 512 },
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Aito M9 2024", ancho: 730, alto: 730 },
+      { src: "/media/aito-m9-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Aito M9 2024", ancho: 750, alto: 504 }
+    ],
     analisisSlug: null,
     videoId: "KhlD5oHhdqg",
     videoCanal: "King Panda",
     opiniones: [],
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
-    },
-    planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
-      revisiones: [
-        {
-          nombre: "Revisión anual (orientativa)",
-          queSeCambia: "Aceite y filtro del motor 1.5 turbo de autonomía extendida + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de EREV",
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado. Su 93,9 % procede del C-NCAP chino (2024, sobre un M9 Max eléctrico); Aito declara aspirar a las cinco estrellas europeas cuando venda en Europa a partir de 2027"},
+    planMantenimiento: {"intervalo": "Sin plan oficial del M9 publicado en Europa; referencia del manual Aito del extensor H15RT: primera revisión a los 3 meses o 3.000 km de funcionamiento del generador, luego anual o cada 10.000 km de ese uso", "revisiones": [{"nombre": "Primera revisión del extensor (referencia H15RT)", "queSeCambia": "Aceite de grado SP o superior y filtro de aceite del generador 1.5, a los 3 meses o cuando el extensor acumule 3.000 km, lo primero que llegue", "costeAproxEur": null}, {"nombre": "Aceite y filtro del extensor (referencia H15RT)", "queSeCambia": "Sustitución cada año o cada 10.000 km de funcionamiento del generador; el filtro de aire se revisa y limpia en ese mismo ritmo y se cambia a los 2 años o 20.000 km de uso del extensor", "costeAproxEur": null}, {"nombre": "Bujías y refrigerante del extensor (referencia H15RT)", "queSeCambia": "Bujías al tercer año o tras acumular el generador 30.000 km de funcionamiento y refrigerante al cuarto año o a los 100.000 km recorridos; el líquido de frenos se renueva cada 3 años o 60.000 km", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual de usuario Aito (programa del M7, que comparte el extensor H15RT de 112 kW con este M9 de 2024), traducido del chino; sin costes en euros porque Aito no vende ni mantiene el M9 en Europa"},
   },
   {
     id: "aito-m9-2025-precio-ficha-tecnica",
@@ -760,23 +753,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    pros: [
-      "290 km CLTC en modo eléctrico y 1.474 km de autonomía total (mejora respecto a 2024)",
-      "Huawei ADS 3.3 con 4 LiDAR: el sistema de asistencia más avanzado de la marca",
-      "496 CV y 675 Nm con tracción total: 0-100 km/h en 4,9 s",
-      "Chasis Turing con suspensión neumática de doble cámara y dirección trasera",
-      "Interior de 6 plazas con asientos de gravedad cero y nevera",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "2.560 kg de peso y 5,23 m de largo: poco apto para ciudades europeas",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Precio de 469.800 yuanes (~61.100 €): compite con premium europeas",
-      "Las mejoras frente al M9 de 2024 son evolutivas, no revolucionarias",
-    ],
+    pros: ["La batería que queda en la gama EREV pasa a ser la de 52 kWh: 290 km eléctricos CLTC y 1.474 km combinados tras eliminar la anterior opción de 42 kWh", "El ADS 3.3 suma tres LiDAR cortos a los guardabarros y la zaga hasta completar cuatro, y estrena paso autónomo por rotondas, barreras y plantas de aparcamiento", "Comunicación por satélite Huawei Galaxy: mantiene llamadas de voz cuando desaparece la cobertura móvil terrestre", "El proyector trasero renovado duplica resolución y suma un 63 % más de brillo, y la nevera del habitáculo también calienta, entre 0 y 50 °C", "El extensor 1.5 turbo sube a 118 kW (158 CV) y el conjunto de dos motores conserva 675 Nm con tracción a las cuatro ruedas"],
+    contras: ["En su lanzamiento del 20 de marzo de 2025 quedó limitado al mercado chino; fuera de él no hay red de Aito que lo venda ni que lo mantenga", "Euro NCAP no lo ha sometido a sus ensayos: el 93,9 % divulgado corresponde a C-NCAP (CATARC), que probó un M9 eléctrico Max con otro protocolo", "Con las seis plazas desplegadas, el maletero se queda en los 206 litros recogidos en esta ficha, escasos para un SUV que mide 5.230 mm de largo", "El precio de partida no bajó con la actualización —469.800 yuanes— y el EREV Max de seis plazas ya costaba 479.800 yuanes en el mercado chino", "La carrocería apenas cambia —un tono rojo nuevo con pilares beige y llantas opcionales de 21 pulgadas— y la variante eléctrica pura de 100 kWh siguió tal cual"],
     imagen: "/media/aito-m9-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/aito-m9-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/aito-m9-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Aito M9 2025", ancho: 800, alto: 450 },
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Aito M9 2025", ancho: 1280, alto: 960 },
+      { src: "/media/aito-m9-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Aito M9 2025", ancho: 1024, alto: 682 }
+    ],
     analisisSlug: null,
     videoId: "TqhUrolbJKk",
     videoCanal: "CarsBlink",
@@ -787,18 +773,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: modelo no probado",
     },
-    planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
-      revisiones: [
-        {
-          nombre: "Revisión anual (orientativa)",
-          queSeCambia: "Aceite y filtro del motor 1.5 turbo de autonomía extendida + filtro de habitáculo + inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de EREV",
-    },
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Referencia orientativa sin respaldo de un manual europeo: Aito no publicó programa de mantenimiento para España de este modelo vendido solo en China desde el 20 de marzo de 2025; intervalos trasladados de la práctica habitual en EREV", "intervalo": "Sin calendario oficial para Europa de este M9 2025; como referencia orientativa, una revisión al año o al cumplir 15.000 km, lo primero que llegue", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión orientativa al año o a los 15.000 km", "queSeCambia": "Sustitución de aceite y filtro en el generador 1.5 turbo de 118 kW, filtro del habitáculo nuevo y chequeo de la batería NMC de 52 kWh, la suspensión neumática y el sistema de frenos"}]},
   },
   {
     id: "luxeed-s7-2024-precio-ficha-tecnica",
@@ -829,23 +804,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "855 km CLTC con batería de 100 kWh: de las mayores autonomías del mercado",
-      "Consumo de solo 12,5 kWh/100 km para una berlina de casi 5 metros",
-      "Plataforma de 800 V: del 30 al 80 % en 15 minutos",
-      "Garantía de batería de 8 años o 160.000 km publicada por la marca",
-      "Huawei ADS 2.0 con LiDAR y HarmonyOS 4 de serie",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "La versión Max de acceso (292 CV) es tracción trasera",
-      "El lanzamiento sufrió retrasos por problemas de suministro en 2024",
-      "Software y servicios conectados orientados al mercado chino",
-    ],
+    pros: ["Batería de 100 kWh con 855 km declarados en ciclo CLTC: su argumento principal para afrontar viajes largos sin parar cada poco", "Se conforma con 12,5 kWh/100 km pese a medir 4.971 mm de largo y pesar 2.050 kg, una cifra contenida para una berlina de este porte", "El propulsor trasero entrega 292 CV y 396 Nm, suficiente para un 0 a 100 km/h en 5,4 segundos y 210 km/h de velocidad máxima", "Su arquitectura eléctrica de 800 V admite recargas muy rápidas, con unos 400 km recuperados en 15 minutos según los datos difundidos en su presentación"],
+    contras: ["En España no lo puedes comprar por canales oficiales: no hay concesionarios Luxeed ni talleres de la marca, y los 37.700 € de esta ficha figuran como precio aproximado", "El maletero se queda en 420 litros, poco generoso para cargar el equipaje familiar en un coche de casi cinco metros", "Los 855 km son CLTC, el ciclo chino, más optimista que el WLTP europeo, por lo que la autonomía útil aquí sería claramente menor", "Su arranque comercial fue accidentado: tras lanzarse en noviembre de 2023 tuvo entregas muy lentas por falta de suministro y hubo que relanzarlo en abril de 2024"],
     imagen: "/media/luxeed-s7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-s7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/luxeed-s7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Luxeed S7", ancho: 1024, alto: 800 },
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Luxeed S7", ancho: 600, alto: 281 },
+      { src: "/media/luxeed-s7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Luxeed S7", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "zQ53QeVe2nY",
     videoCanal: "OTOMOTO News",
@@ -898,23 +866,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "ceroCien", "pesoKg"],
-    pros: [
-      "667 km CLTC con batería de 82 kWh por ~33.800 € en China",
-      "Maletero de 837 litros: de los más grandes entre los SUV coupé eléctricos",
-      "Plataforma de 800 V de Huawei (Giant Whale) con carga rápida",
-      "Huawei ADS 3.0 con LiDAR de 192 líneas y chasis inteligente Turing",
-      "Más de 150.000 entregas acumuladas: el Luxeed más vendido",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "El 0-100 km/h (~5,9 s) no está publicado oficialmente para la versión base",
-      "Diseño de SUV coupé: la caída del techo penaliza las plazas traseras",
-      "Software y servicios conectados orientados al mercado chino",
-    ],
+    pros: ["Con la batería de 82 kWh y el motor trasero de 292 CV homologa 667 km en ciclo CLTC y 13,1 kWh/100 km, un consumo bajo para un SUV de 4.956 mm y 2.148 kg", "Detrás caben 837 litros y delante hay un frunk adicional de 52 litros, combinación que un Tesla Model Y o un BMW X6 eléctrico no igualan con carrocería coupé", "Sobre plataforma de 800 V puede recuperar unos 400 km en 15 minutos, ventaja práctica en viajes largos frente a SUV eléctricos que aún trabajan a 400 V", "Estrena el LiDAR de 192 líneas en el techo junto al Huawei ADS y a HarmonyOS 4 con pantalla central de 15,6 pulgadas, el núcleo tecnológico que lo distingue del Luxeed S7 berlina"],
+    contras: ["No se vende en España ni en Europa: no hay concesionarios Luxeed, recambios ni asistencia oficial aquí, y sus servicios conectados están pensados para China", "No consta ensayo de Euro NCAP, por lo que su seguridad no se puede contrastar con la de los SUV homologados para el mercado europeo", "Mide solo 1.634 mm de alto con la línea coupé descendente: la cabeza en las plazas traseras va más justa que en un SUV alto de batalla similar de 2.950 mm", "Los 33.800 € de la ficha son una cifra aproximada al cambio desde China, no un PVP español con impuestos, aranceles y homologación europea incluidos"],
     imagen: "/media/luxeed-r7-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/luxeed-r7-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/luxeed-r7-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Luxeed R7", ancho: 800, alto: 500 },
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Luxeed R7", ancho: 1242, alto: 621 },
+      { src: "/media/luxeed-r7-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Luxeed R7", ancho: 900, alto: 675 }
+    ],
     analisisSlug: null,
     videoId: "66A2li2_BcA",
     videoCanal: null,
@@ -967,23 +928,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "pesoKg"],
-    pros: [
-      "816 km CLTC con batería de 100 kWh: autonomía de referencia",
-      "Cx de 0,193: una de las berlinas más aerodinámicas del mundo",
-      "Huawei ADS 3.0 con LiDAR y faros xPixel con proyección inteligente",
-      "Interior de 5,16 m con asientos de gravedad cero y pantalla de cine trasera",
-      "Plataforma de 800 V: 200 km de autonomía en 5 minutos de carga",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "Precio de 399.800 yuanes (~52.000 €): compite con EQS y Serie 7",
-      "5,16 m de largo: difícil de aparcar y mover en ciudades europeas",
-      "La versión de acceso es tracción trasera con 309 CV",
-    ],
+    pros: ["Su pack de 100 kWh firma 816 km en ciclo CLTC con el motor trasero de 309 CV, un planteamiento pensado para cubrir etapas largas entre cargas en su mercado de origen.", "Acelera de 0 a 100 km/h en 5,98 segundos y alcanza 214 km/h, suficiente para moverse con soltura pese a pesar 2.246 kg y sin necesidad de saltar a la variante de doble motor.", "La arquitectura de 800 V admite recuperar en torno a 200 km en unos 5 minutos de carga rápida, un dato especialmente útil en una berlina de 5.160 mm destinada a viajar.", "Con 3.050 mm de batalla, el espacio trasero es el centro del coche: asientos posteriores de gravedad cero y un equipamiento dominado por el sistema Huawei ADS 3.0 con LiDAR."],
+    contras: ["No consta venta oficial en España: comprarlo implicaría importarlo sin una red comercial ni de asistencia de Stelato asentada en Europa.", "Los 816 km son CLTC, el ciclo chino, y no equivalen a una homologación WLTP europea; la autonomía real en autopista española quedará por debajo de esa cifra.", "Mide 5.160 mm de largo por 1.987 mm de ancho y pesa 2.246 kg, unas dimensiones y una masa que complican garajes estrechos, aparcamientos urbanos y maniobras cerradas.", "Carece de resultado Euro NCAP, así que su dotación de ayudas no tiene contraste en una prueba europea de choque independiente; además, el maletero de 378 litros resulta ajustado para su tamaño."],
     imagen: "/media/stelato-s9-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/stelato-s9-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Stelato S9", ancho: 1280, alto: 960 },
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Stelato S9", ancho: 1280, alto: 960 },
+      { src: "/media/stelato-s9-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Stelato S9", ancho: 1280, alto: 727 }
+    ],
     analisisSlug: null,
     videoId: "SgnsOY_aFHw",
     videoCanal: "Solkuno",
@@ -1036,23 +990,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "801 km CLTC con batería de 100 kWh: el familiar eléctrico con más autonomía",
-      "Maletero de 660 litros en carrocería wagon de 5,16 m",
-      "Huawei ADS 4 con LiDAR y suspensión neumática de serie",
-      "Precio de preventa de 328.000 yuanes (~42.600 €): más barato que la berlina S9",
-      "Plataforma de 800 V con carga ultrarrápida",
-    ],
-    contras: [
-      "En preventa desde agosto de 2025: aún sin entregas masivas verificadas",
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "5,16 m de largo: poco práctico para aparcar en Europa",
-      "La carrocería familiar penaliza la aerodinámica frente a la berlina S9",
-    ],
+    pros: ["Con la batería Huawei Giant Whale de 100 kWh, esta versión trasera de 309 CV anuncia 801 km CLTC, la cifra que lo separa de familiares eléctricos más cortos de autonomía", "Los 660 litros de maletero aprovechan la carrocería wagon sobre los 5,16 m de largo y los 3,05 m de batalla, algo que la berlina S9 de la que deriva no puede ofrecer igual", "Estrena Huawei ADS 4 con un LiDAR de 192 canales, tres LiDAR sólidos adicionales y cinco radares milimétricos 4D, un despliegue de sensores muy por encima del Nio ET5 Touring al que apunta en China", "La suspensión neumática figura en su dotación junto a un habitáculo con más de 10 pantallas y el sistema de proyección inteligente 2.0 de Huawei"],
+    contras: ["No se vende fuera de China: en España no hay concesionario Stelato, ni servicio oficial, ni recambios con plazo garantizado si se importase por libre", "Mide 5,16 m de largo y 2,005 m de ancho, más que un Mercedes Clase E familiar: entrar en garajes comunitarios y plazas europeas estándar se vuelve su uso más incómodo", "Los 801 km son CLTC chino, sin homologación WLTP europea, por lo que no son comparables tal cual con la autonomía oficial de un familiar eléctrico vendido aquí", "Su historial es mínimo: las entregas empezaron el 21 de septiembre de 2025 y no consta prueba EuroNCAP ni datos independientes de fiabilidad a largo plazo"],
     imagen: "/media/stelato-s9t-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/stelato-s9t-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/stelato-s9t-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Stelato S9T", ancho: 1000, alto: 800 },
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Stelato S9T", ancho: 1280, alto: 805 },
+      { src: "/media/stelato-s9t-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Stelato S9T", ancho: 1000, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "YKfUGnFYcJI",
     videoCanal: "Carview",
@@ -1105,23 +1052,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "702 km CLTC con batería de 97 kWh y tracción total de 530 CV",
-      "Berlina de 5,48 m con batalla de 3,37 m: rival del Maybach Clase S",
-      "Interior de 4 plazas con asientos de gravedad cero y pantalla de cine",
-      "Huawei ADS de última generación con LiDAR de 192 líneas",
-      "Dirección a las cuatro ruedas y suspensión neumática activa",
-    ],
-    contras: [
-      "Precio de preventa de 1.000.000 de yuanes (~130.000 €): el Huawei más caro",
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP ni pruebas de choque independientes",
-      "5,48 m de largo y más de 2,6 toneladas: mastodonte poco europeo",
-      "Marca recién creada (Huawei + JAC): fiabilidad a largo plazo sin probar",
-    ],
+    pros: ["Con 702 km de autonomía CLTC y 530 CV con tracción total, hace el 0 a 100 km/h en 4,3 segundos sin dejar de ser una berlina pensada para ir detrás", "Mide 5.480 mm y anuncia 3.370 mm de batalla, y esta configuración renuncia a la quinta plaza: solo 4 asientos para dar todo el espacio a la fila trasera", "El conjunto Huawei ADS con LiDAR y el habitáculo de representación lo colocan frente al Mercedes-Maybach Clase S, no frente a una berlina eléctrica al uso", "La dirección a las cuatro ruedas y la suspensión neumática activa tienen aquí un trabajo muy concreto: hacer maniobrable una carrocería de 5,48 m de largo"],
+    contras: ["En España no hay compra oficial posible: Maextro no tiene red comercial ni de servicio en Europa, así que cualquier unidad llegaría por importación paralela", "Sus 2.000 mm de ancho y sus 5.480 mm de largo castigan en aparcamientos, garajes y calles estrechas, por mucho que ayude el eje trasero direccional", "No existe nota EuroNCAP que lo respalde: sin ensayo independiente publicado, su seguridad en choque no se puede comparar con la de sus rivales europeos", "Estrena marca, alianza Huawei-JAC y modelo a la vez: no hay historial de fiabilidad, recambios ni valor de reventa en Europa para un gasto cercano a los 130.000 € aproximados de la ficha"],
     imagen: "/media/maextro-s800-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maextro S800", ancho: 1280, alto: 722 },
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Maextro S800", ancho: 1280, alto: 800 },
+      { src: "/media/maextro-s800-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Maextro S800", ancho: 1280, alto: 924 }
+    ],
     analisisSlug: null,
     videoId: "CxVoAHrCy00",
     videoCanal: "AutoBild",
@@ -1174,33 +1114,21 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: [
-      "555 km CLTC con batería LFP de 60,6 kWh por ~26.900 € en China",
-      "Intercambio de batería en 3 minutos en la red de NIO",
-      "Arquitectura de 900 V: del 10 al 80 % en unos 25 minutos",
-      "Cx de 0,229 y consumo de 12,1 kWh/100 km: el SUV más eficiente de su tamaño",
-      "Maletero de 763 litros, enorme para un SUV coupé",
-    ],
-    contras: [
-      "Solo se vende en China: sin red comercial ni de servicio en Europa",
-      "Sin datos EuroNCAP (sí tiene 5 estrellas C-NCAP, no equivalente)",
-      "La versión de acceso monta la batería pequeña; la de 85 kWh sube el precio",
-      "El swap de baterías necesita estaciones que en Europa no existen",
-      "Pantalla única central: todo se maneja desde la táctil, sin botones físicos",
-    ],
+    pros: ["Con 12,1 kWh/100 km declarados y un Cx de 0,229, este SUV de 4.828 mm y 1.885 kg gasta como un compacto: ahí está la explicación de los 555 km CLTC con una batería LFP de solo 60,6 kWh", "Si te quedas sin carga en China, no enchufas y esperas: entras en una estación de NIO, cambias la batería por otra cargada y sigues, una ventaja que ningún rival vendido en Europa ofrece hoy", "326 CV y 305 Nm en el eje trasero, con el 0 a 100 km/h en 5,9 s, para un coche familiar que en China partía de unos 26.900 € aproximados con batería incluida", "763 litros de maletero según la ficha en un SUV coupé de cinco plazas: la caída del techo no se ha comido la capacidad que una familia usa a diario", "La arquitectura de 900 V del L60 va muy por delante de la de 400 V de los NIO de la marca principal de su época, y eso se nota en tiempos de carga y en eficiencia"],
+    contras: ["En España no puedes comprarlo ni mantenerlo: el L60 de 2024 se vendió solo en China, sin red comercial ni de servicio de Onvo en Europa", "Los 555 km son CLTC, el ciclo chino, más benévolo que el WLTP europeo: quien lo importe por su cuenta debe esperar una cifra real sensiblemente menor", "Su 5 estrellas C-NCAP, con un 89,2 % global, no equivalen a una prueba Euro NCAP: para el comprador europeo no existe una nota de seguridad homologable aquí", "El cambio de batería solo funciona en estaciones NIO de tercera generación actualizadas y de cuarta generación; fuera de esa red china, la función estrella del coche desaparece"],
     imagen: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Onvo L60", ancho: 844, alto: 600 },
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Onvo L60", ancho: 1200, alto: 800 },
+      { src: "/media/onvo-l60-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Onvo L60", ancho: 1280, alto: 853 }
+    ],
     analisisSlug: null,
     videoId: "oAvHQUtMxqs",
     videoCanal: "Aletech",
     opiniones: [],
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
-    },
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Modelo solo para China, sin prueba Euro NCAP."},
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
       revisiones: [
@@ -1248,6 +1176,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/tank-330-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/tank-330-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/tank-330-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Tank 330", ancho: 1280, alto: 960 },
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Tank 330", ancho: 766, alto: 544 },
+      { src: "/media/tank-330-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Tank 330", ancho: 1067, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "FRbshaQX_kI",
     videoCanal: "Алихан Журтов",
@@ -1294,6 +1227,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Ora Ballet Cat", ancho: 1280, alto: 960 },
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Ora Ballet Cat", ancho: 1280, alto: 960 },
+      { src: "/media/ora-ballet-cat-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Ora Ballet Cat", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "yTGl8ggGCSw",
     videoCanal: "ZonaMotor con Jesús Fernández",
@@ -1340,6 +1278,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-shenshou-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-shenshou-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-shenshou-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval Shenshou", ancho: 1000, alto: 750 },
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval Shenshou", ancho: 1000, alto: 1000 },
+      { src: "/media/haval-shenshou-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval Shenshou", ancho: 1024, alto: 768 }
+    ],
     analisisSlug: null,
     videoId: "1PJgMDKPlRI",
     videoCanal: "Borderless Car",
@@ -1386,6 +1329,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-cool-dog-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-cool-dog-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-cool-dog-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval Cool Dog", ancho: 1280, alto: 960 },
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval Cool Dog", ancho: 1200, alto: 629 },
+      { src: "/media/haval-cool-dog-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval Cool Dog", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: null,
     videoCanal: null,
@@ -1432,6 +1380,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/haval-h7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/haval-h7-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Haval H7", ancho: 960, alto: 640 },
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Haval H7", ancho: 960, alto: 640 },
+      { src: "/media/haval-h7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Haval H7", ancho: 1280, alto: 854 }
+    ],
     analisisSlug: null,
     videoId: "3viCvX9UjnI",
     videoCanal: "CarExpert",
@@ -1478,6 +1431,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-poer-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-poer-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-poer-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Poer 2024", ancho: 1260, alto: 710 },
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Poer 2024", ancho: 1280, alto: 720 },
+      { src: "/media/gwm-poer-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Poer 2024", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: "2NPaVNVpgp8",
     videoCanal: "Wheels By The Ocean",
@@ -1524,6 +1482,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Cannon Alpha", ancho: 960, alto: 640 },
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Cannon Alpha", ancho: 1280, alto: 853 },
+      { src: "/media/gwm-cannon-alpha-2024-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Cannon Alpha", ancho: 1240, alto: 698 }
+    ],
     analisisSlug: null,
     videoId: "_89RVgu9Ekc",
     videoCanal: "The Right Car",
@@ -1570,6 +1533,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del GWM Cannon Alpha PHEV", ancho: 960, alto: 640 },
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del GWM Cannon Alpha PHEV", ancho: 1023, alto: 682 },
+      { src: "/media/gwm-cannon-alpha-phev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del GWM Cannon Alpha PHEV", ancho: 1024, alto: 613 }
+    ],
     analisisSlug: null,
     videoId: "AzIMHQl7srg",
     videoCanal: "Chasing Cars",
@@ -1628,6 +1596,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/deepal-l06-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/deepal-l06-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/deepal-l06-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Deepal L06", ancho: 1280, alto: 853 },
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Deepal L06", ancho: 1280, alto: 720 },
+      { src: "/media/deepal-l06-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Deepal L06", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "cYodftrh0DI",
     videoCanal: null,
@@ -1704,6 +1677,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-lumin-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-lumin-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-lumin-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Lumin", ancho: 1280, alto: 853 },
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Lumin", ancho: 964, alto: 590 },
+      { src: "/media/changan-lumin-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Lumin", ancho: 800, alto: 600 }
+    ],
     analisisSlug: null,
     videoId: "t5XqLJqN32Q",
     videoCanal: "El Carro Colombiano",
@@ -1780,6 +1758,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Hunter REEV", ancho: 1000, alto: 750 },
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Hunter REEV", ancho: 1280, alto: 720 },
+      { src: "/media/changan-hunter-reev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Hunter REEV", ancho: 798, alto: 532 }
+    ],
     analisisSlug: null,
     videoId: "gzAV2ZUxvGs",
     videoCanal: "Justin On Cars",
@@ -1845,6 +1828,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Uni-K iDD", ancho: 1280, alto: 774 },
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Uni-K iDD", ancho: 1280, alto: 701 },
+      { src: "/media/changan-uni-k-idd-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Uni-K iDD", ancho: 1200, alto: 900 }
+    ],
     analisisSlug: null,
     videoId: "6jbNrbJmuds",
     videoCanal: null,
@@ -1921,6 +1909,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Uni-V iDD", ancho: 1280, alto: 716 },
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Uni-V iDD", ancho: 1280, alto: 657 },
+      { src: "/media/changan-uni-v-idd-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Changan Uni-V iDD", ancho: 930, alto: 620 }
+    ],
     analisisSlug: null,
     videoId: "7jINE2Qy6R8",
     videoCanal: null,
@@ -1959,7 +1952,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 10900,
     potenciaCv: 355,
-    autonomiaKm: 168,
+    autonomiaKm: 205,
     maleteroL: 413,
     ceroCien: null,
     velocidadMax: 170,
@@ -1997,6 +1990,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng Aeolus L7", ancho: 1024, alto: 800 },
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng Aeolus L7", ancho: 1068, alto: 712 },
+      { src: "/media/dongfeng-aeolus-l7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng Aeolus L7", ancho: 800, alto: 529 }
+    ],
     analisisSlug: null,
     videoId: "Vnv8dK7DkUg",
     videoCanal: null,
@@ -2033,7 +2031,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Aeolus L8",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el precio guía oficial en China del Aeolus L8 PHEV parte de ¥129.900 (gama ¥129.900–149.900 en preventa/lanzamiento 2025).
     potenciaCv: 355,
     autonomiaKm: 150,
     maleteroL: null,
@@ -2073,6 +2071,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng Aeolus L8", ancho: 874, alto: 583 },
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng Aeolus L8", ancho: 1200, alto: 800 },
+      { src: "/media/dongfeng-aeolus-l8-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng Aeolus L8", ancho: 1024, alto: 800 }
+    ],
     analisisSlug: null,
     videoId: "pZy3Ip6XCtE",
     videoCanal: "China Auto Show Channel",
@@ -2109,7 +2112,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Free+",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 219.900 CNY, precio guía del Voyah FREE+ lanzado el 12-07-2025 (versiones 219.900-279.900 CNY, confirmado en la documentación.
     potenciaCv: 483,
     autonomiaKm: 235,
     maleteroL: null,
@@ -2149,6 +2152,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-free-plus-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-free-plus-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-free-plus-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Free+", ancho: 808, alto: 606 },
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Free+", ancho: 808, alto: 538 },
+      { src: "/media/voyah-free-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Free+", ancho: 808, alto: 606 }
+    ],
     analisisSlug: null,
     videoId: "etKJ310hw8M",
     videoCanal: null,
@@ -2174,7 +2182,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Dream+",
     tipo: "Híbrido enchufable",
     categoria: "Monovolumen",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: Sin precio oficial en EUR: el Voyah Dream 2026 (base del Dream+) se lanzó en China el 15 de septiembre de 2025 desde ¥329.900 (PHEV).
     potenciaCv: 666,
     autonomiaKm: 280,
     maleteroL: null,
@@ -2214,6 +2222,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Dream+", ancho: 1280, alto: 960 },
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Dream+", ancho: 1280, alto: 853 },
+      { src: "/media/voyah-dream-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Dream+", ancho: 1024, alto: 464 }
+    ],
     analisisSlug: null,
     videoId: "rAn0K-PTHtw",
     videoCanal: null,
@@ -2239,7 +2252,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "eπ 008 EV",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial China: 183.600 CNY, precio guía de la edición 2025 Smart Driving Edition lanzada por Dongfeng eπ (Yipai) el 14-03-2025 (gama 183.600.
     potenciaCv: 272,
     autonomiaKm: 520,
     maleteroL: null,
@@ -2279,6 +2292,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dongfeng eπ 008 EV", ancho: 1000, alto: 750 },
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Dongfeng eπ 008 EV", ancho: 1280, alto: 734 },
+      { src: "/media/dongfeng-epi-008-ev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Dongfeng eπ 008 EV", ancho: 1000, alto: 750 }
+    ],
     analisisSlug: null,
     videoId: "G652dpJ2QgQ",
     videoCanal: null,
@@ -2315,7 +2333,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     modelo: "Courage",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 50000.0,
     potenciaCv: 309,
     autonomiaKm: 740,
     maleteroL: null,
@@ -2355,6 +2373,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/voyah-courage-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/voyah-courage-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/voyah-courage-2026-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Voyah Courage", ancho: 1088, alto: 785 },
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Voyah Courage", ancho: 1088, alto: 785 },
+      { src: "/media/voyah-courage-2026-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Voyah Courage", ancho: 1088, alto: 785 }
+    ],
     analisisSlug: null,
     videoId: "68ccHiJX_iE",
     videoCanal: "Get some nuts",
@@ -2420,6 +2443,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/zeekr-001-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/zeekr-001-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/zeekr-001-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Zeekr 001", ancho: 800, alto: 601 },
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Zeekr 001", ancho: 1280, alto: 852 },
+      { src: "/media/zeekr-001-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Zeekr 001", ancho: 1280, alto: 853 }
+    ],
     analisisSlug: null,
     videoId: "2Ma51netMJ8",
     videoCanal: "CarShowcase",
@@ -2491,6 +2519,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour Dashing i-DM", ancho: 1200, alto: 750 },
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour Dashing i-DM", ancho: 552, alto: 311 },
+      { src: "/media/jetour-dashing-i-dm-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour Dashing i-DM", ancho: 1280, alto: 640 }
+    ],
     analisisSlug: null,
     videoId: "5iPAQXMj5kE",
     videoCanal: "John Agustin Scuderia",
@@ -2562,6 +2595,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-x70l-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-x70l-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-x70l-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour X70L", ancho: 1000, alto: 1000 },
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour X70L", ancho: 800, alto: 518 },
+      { src: "/media/jetour-x70l-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour X70L", ancho: 800, alto: 534 }
+    ],
     analisisSlug: null,
     videoId: "ZeBTDDT0qG4",
     videoCanal: "Autobip",
@@ -2633,6 +2671,11 @@ export const COCHES_EXP24: CocheComparador[] = [
     imagen: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-interior.webp",
+    galeria: [
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Jetour Shanhai L7 Plus", ancho: 1280, alto: 853 },
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Jetour Shanhai L7 Plus", ancho: 1280, alto: 720 },
+      { src: "/media/jetour-shanhai-l7-plus-2025-precio-ficha-tecnica-interior.webp", alt: "Interior oficial del Jetour Shanhai L7 Plus", ancho: 1280, alto: 960 }
+    ],
     analisisSlug: null,
     videoId: "55XABIcy954",
     videoCanal: "Hamoudy Car Compare",

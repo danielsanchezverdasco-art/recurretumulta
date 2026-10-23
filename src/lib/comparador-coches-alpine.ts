@@ -16,7 +16,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alpine-a110-s-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a110-s-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alpine",
@@ -77,12 +77,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/alpine-a110-s-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Alpine A110 S, asientos Sabelt",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a110-s-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A110 S azul en carretera de montaña",
@@ -99,7 +94,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alpine-a110-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a110-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "mmzBnz0U4i8",
     videoCanal: "AUTO TV",
     marca: "Alpine",
@@ -160,12 +155,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 2736,
         alto: 912
       },
-      {
-        src: "/media/alpine-a110-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Alpine A110 GTS, asientos Sabelt de cuero",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a110-gts-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A110 GTS gris mate en circuito",
@@ -348,7 +338,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alpine",
@@ -409,12 +399,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Alpine A290 GT Premium, doble pantalla",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A290 GT Premium blanco bitono al atardecer",
@@ -431,7 +416,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alpine-a290-gt-performance-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a290-gt-performance-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alpine",
@@ -492,12 +477,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/alpine-a290-gt-performance-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior deportivo del Alpine A290 GT Performance",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a290-gt-performance-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A290 GT Performance negro en carretera de montaña",
@@ -514,7 +494,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/alpine-a290-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a290-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "3Ry01rBT6aI",
     videoCanal: "DriverReviews",
     marca: "Alpine",
@@ -575,12 +555,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/alpine-a290-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior premium del Alpine A290 GTS, cuero Nappa",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a290-gts-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A290 GTS azul alpino en carretera costera",
@@ -597,7 +572,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Alpine",
@@ -658,12 +633,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         ancho: 1920,
         alto: 1280
       },
-      {
-        src: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior premium del Alpine A390 GTS, cinco plazas",
-        ancho: 1920,
-        alto: 1280
-      },
+      
       {
         src: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-hero.webp",
         alt: "Alpine A390 GTS azul eléctrico en autopista al atardecer",
@@ -680,7 +650,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "garantiaBateriaKm": null,
     "garantiaBateriaDegradacionPct": null,
     "imagenOficial": "/media/alpine-a110-252-2026-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/alpine-a110-252-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "LomhKC8G-CI",
     "videoCanal": "coches.net",
     "marca": "Alpine",
@@ -744,7 +714,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/alpine-a110-252-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Alpine A110, baquets y volante deportivo",
         "ancho": 1200,
         "alto": 800
@@ -1023,7 +993,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "garantiaBateriaKm": 160000,
     "garantiaBateriaDegradacionPct": null,
     "imagenOficial": "/media/alpine-a390-gt-2026-precio-ficha-tecnica-oficial.webp",
-    "imagenInteriorOficial": "/media/alpine-a390-gt-2026-precio-ficha-tecnica-interior-oficial.webp",
+    "imagenInteriorOficial": "",
     "videoId": "ZL1HImc92a8",
     "videoCanal": "Diariomotor",
     "marca": "Alpine",
@@ -1088,7 +1058,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/alpine-a390-gt-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Alpine A390 GT, cinco plazas premium",
         "ancho": 1200,
         "alto": 800

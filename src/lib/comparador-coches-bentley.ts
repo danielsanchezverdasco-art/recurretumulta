@@ -12,7 +12,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gt-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gt-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -80,7 +80,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gt-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Continental GT, salpicadero de cuero y madera",
         "ancho": 1200,
         "alto": 800
@@ -255,7 +255,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "OPUm9-6YtME",
     videoCanal: "Quadis",
     marca: "Bentley",
@@ -323,7 +323,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Mulliner del Continental GT, pieles y maderas a medida",
         "ancho": 1200,
         "alto": 800
@@ -336,7 +336,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Fo2A0kvmP8E",
     videoCanal: "actualidadmotor",
     marca: "Bentley",
@@ -404,7 +404,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Continental GTC descapotable",
         "ancho": 1200,
         "alto": 800
@@ -498,7 +498,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "MzOnziRAviI",
     videoCanal: "soymotor",
     marca: "Bentley",
@@ -566,7 +566,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Continental GTC Speed",
         "ancho": 1200,
         "alto": 800
@@ -575,8 +575,8 @@ export const COCHES_BENTLEY: CocheComparador[] = [
   },
   {
     id: "bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 8,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-interior.webp",
@@ -595,20 +595,8 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     bateriaKwh: 25.9,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "El descapotable definitivo de Bentley: 782 CV con artesanía Mulliner a medida",
-      "El Continental más caro de la gama: exclusividad absoluta garantizada",
-      "Personalización Mulliner: cada unidad puede ser única en el mundo",
-      "Misma mecánica Ultra Performance Hybrid del GTC Speed",
-      "Etiqueta Cero con 78 km eléctricos",
-    ],
-    contras: [
-      "413.410 € de partida: territorio Rolls-Royce Dawn en precio",
-      "El acabado Mulliner no mejora prestaciones ni dinámica",
-      "Maletero de 134 L y 2.636 kg",
-      "Plazos de entrega largos por fabricación a medida",
-      "Sin carga rápida en continua",
-    ],
+    pros: ["Su techo de lona de siete arcos tarda 19 segundos en plegarse, puede accionarse en marcha hasta 48 km/h y se ofrece en siete colores, incluido el tweed", "Parrilla Floating Diamond cromada, faros con reflector de cristal tallado y llantas de 22 pulgadas en gris tungsteno con emblemas que se mantienen siempre verticales", "Interior en tres tonos con la perforación de diamante Mulliner extendida hasta el cubrecapota, visible cada vez que se viaja a cielo abierto", "Asientos delanteros Wellness con ajuste postural y climatización automática, y llaves forradas en cuero entregadas en una caja a juego con la tapicería elegida", "Comparte con el GTC Speed el V8 híbrido de 782 CV y 1.000 Nm, puede circular en eléctrico hasta 140 km/h y lleva etiqueta Cero"],
+    contras: ["Parte de 413.410 € sin opciones y queda por encima de otros descapotables V8 de gran turismo como el Aston Martin DB12 Volante o el Ferrari Roma Spider", "Todo lo que Mulliner suma aquí es cromo, costuras y pintura: la mecánica es la misma del GTC Speed y acelera igual que aquel, en 3,4 segundos hasta los 100 km/h", "Con solo 134 litros de maletero, el equipaje de un fin de semana para dos ya va justo cuando la capota ocupa su hueco trasero", "Pesa 2.636 kg en orden de marcha y su punta queda limitada a 285 km/h, lejos de los 335 km/h que alcanza el coupé GT Mulliner con idéntico motor", "La batería solo acepta carga en alterna de hasta 11 kW y tarda unas 2¾ horas en llenarse: sin carga rápida, en un viaje largo apenas se recupera energía en paradas cortas"],
     largoMm: 4895,
     anchoMm: 1966,
     altoMm: 1392,
@@ -622,17 +610,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     aprox: [],
     imagen: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 8.0,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1800,
-      "costeMensualTotal": 740,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.65,
-      "notas": "estimación: el tope de gama descapotable eleva seguro y mantenimiento",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 8, "costeMensualTotal": 740, "estimado": true, "mantenimientoAnual": 1800, "notas": "Estimación pensada para este descapotable Mulliner: si se aprovechan sus 78 km eléctricos cargando en casa a 11 kW, el coste por kilómetro baja mucho; si no se enchufa, manda el V8. Seguro y mantenimiento son los de un Bentley de más de 400.000 €.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 3200, "seguroTercerosAnual": 1500},
     galeria: [
       {
         "src": "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-oficial.webp",
@@ -653,6 +631,8 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       }
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: no consta ninguna prueba publicada de Euro NCAP para el Continental GTC ni para ninguna generación anterior del Continental", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Planes de servicio Bentley: intervalo de 12 meses o 16.000 km (CarExpert, planes oficiales de Bentley; intervalo confirmado en la prueba del Continental GTC Speed de carsales.com.au)", "intervalo": "Al llegar a los 12 meses o a los 16.000 km, lo primero que ocurra", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual", "queSeCambia": "Aceite del V8 4.0 y filtros, con inspección de una amplia lista de componentes por técnicos formados por Bentley"}, {"costeAproxEur": null, "nombre": "Operaciones incluidas en los planes de servicio de la marca", "queSeCambia": "Líquido de frenos y batería de la llave, además del aceite y los filtros, siempre con recambios originales Bentley"}]},
   },
   {
     id: "bentley-flying-spur-2026-precio-ficha-tecnica",
@@ -660,7 +640,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -728,7 +708,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Flying Spur, plazas traseras de limusina",
         "ancho": 1200,
         "alto": 800
@@ -741,7 +721,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -809,7 +789,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Flying Spur Azure, asientos Wellness",
         "ancho": 1200,
         "alto": 800
@@ -822,7 +802,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "V6GPSYiOHck",
     videoCanal: "actualidadmotor",
     marca: "Bentley",
@@ -890,7 +870,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-flying-spur-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Flying Spur Speed",
         "ancho": 1200,
         "alto": 800
@@ -984,7 +964,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1052,7 +1032,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Bentayga, cuero y madera noble",
         "ancho": 1200,
         "alto": 800
@@ -1065,7 +1045,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1133,7 +1113,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Bentley Bentayga Azure, asientos de confort",
         "ancho": 1200,
         "alto": 800
@@ -1146,7 +1126,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1214,7 +1194,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Bentley Bentayga Speed",
         "ancho": 1200,
         "alto": 800
@@ -1227,7 +1207,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1295,7 +1275,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Plazas traseras del Bentley Bentayga EWB, asientos tipo avión",
         "ancho": 1200,
         "alto": 800
@@ -1308,7 +1288,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1376,7 +1356,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Azure del Bentayga EWB, máximo confort trasero",
         "ancho": 1200,
         "alto": 800
@@ -1389,7 +1369,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Bentley",
@@ -1405,20 +1385,8 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "El SUV más exclusivo de Bentley: EWB con artesanía Mulliner a medida",
-      "Parrilla Double Diamond y llantas Mulliner de 22\" con autonivelación",
-      "Interior a medida: cada unidad puede ser única en el mundo",
-      "El techo de los SUV de lujo por 367.552 €",
-      "Asientos traseros de avión con la mejor tapicería de Crewe",
-    ],
-    contras: [
-      "367.552 € de partida: territorio Cullinan en precio",
-      "Misma mecánica V8 de 550 CV que el EWB base: cero ganancia dinámica",
-      "Etiqueta C y 296 g/km de CO₂",
-      "Maletero de 380 L y 5,32 metros de largo",
-      "Plazos de entrega largos por fabricación a medida",
-    ],
+    pros: ["Presentado en agosto de 2023 como nuevo buque insignia de toda la gama Bentley, heredero del hueco que dejó el Mulsanne al retirarse en 2020", "Airline Seat trasero de serie: 22 reglajes, reclinación de casi 40 grados en modo Relax y climatización que mide la temperatura y la humedad del ocupante", "Cuero Olive Tan curtido aprovechando subproductos del aceite de oliva, primicia en un automóvil, e iluminación que brilla a través de la piel perforada de las puertas", "Ocho combinaciones tritono ya creadas por la casa y casi 4.000 posibles mezclando piel principal, secundaria y tono de acento a gusto del cliente", "Dirección trasera y estabilizadoras activas de 48 voltios de serie, y aun así capaz de remolcar 3,5 toneladas con freno"],
+    contras: ["Parte de 367.552 € sin opciones, más de 82.000 € por encima del Bentayga EWB de acceso, en la misma liga de precio que un Rolls-Royce Cullinan", "El V8 rinde aquí los mismos 550 CV y firma el mismo 4,6 segundos hasta 100 km/h que en el EWB normal: el sobreprecio no compra ni un caballo extra", "No se vende como cinco plazas: solo hay configuración de cuatro asientos o 4+1, con una plaza central trasera pensada para uso ocasional", "El maletero se queda en 380 litros con la disposición 4+1, una cifra escasa para viajes largos en un SUV de batalla larga pensado para ir con chófer", "Con 296 gramos de CO₂ por kilómetro y 12,8 litros a los cien lleva etiqueta C, sin ninguna ventaja de acceso o fiscal frente a los híbridos enchufables"],
     largoMm: 5322,
     anchoMm: 1998,
     altoMm: 1739,
@@ -1432,17 +1400,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     aprox: [],
     imagen: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 21.1,
-      "seguroTercerosAnual": 1500,
-      "seguroAmpliadoAnual": 3200,
-      "mantenimientoAnual": 1900,
-      "costeMensualTotal": 910,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.65,
-      "notas": "estimación: el tope de gama SUV eleva seguro y mantenimiento al máximo",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 21.1, "costeMensualTotal": 910, "estimado": true, "mantenimientoAnual": 1900, "notas": "Estimación para este V8 de gasolina sin hibridar: sus 12,8 l/100 km WLTP a 1,65 € por litro dan unos 21 € de combustible cada 100 km, y seguro y mantenimiento corresponden a un SUV artesanal de 367.552 €", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 3200, "seguroTercerosAnual": 1500},
     galeria: [
       {
         "src": "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-oficial.webp",
@@ -1457,12 +1415,14 @@ export const COCHES_BENTLEY: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior Mulliner del Bentayga EWB, artesanía a medida",
         "ancho": 1200,
         "alto": 800
       }
     ],
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: el Bentayga no ha sido ensayado por Euro NCAP en ninguna versión, tampoco en esta EWB Mulliner", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Planes de servicio Bentley recogidos por CarExpert (programa regular cada 12 meses o 16.000 km, con aceite, filtros, líquido de frenos y pilas de llave) y programa Interim/Major del Bentayga publicado por Auto Express", "intervalo": "Cada 12 meses o cada 16.000 km recorridos, lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión Interim", "queSeCambia": "Aceite nuevo para el V8 4.0 con su filtro, filtro de polen, escobillas limpiaparabrisas y pilas de la llave, más la inspección de componentes incluida en los planes de servicio de la marca"}, {"costeAproxEur": null, "nombre": "Revisión Major, alterna con la Interim", "queSeCambia": "Suma a lo anterior los filtros de aire del motor y la renovación del líquido de frenos"}, {"costeAproxEur": null, "nombre": "Cada tercera revisión", "queSeCambia": "Bujías nuevas para el V8 biturbo, operación prevista por separado en el programa de mantenimiento del Bentayga"}]},
   },
 {
     id: "bentley-batur-2024-precio-ficha-tecnica",

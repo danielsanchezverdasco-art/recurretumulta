@@ -15,7 +15,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     imagenOficial:
       "/media/dfsk-600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/dfsk-600-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: null,
     videoCanal: null,
     marca: "DFSK",
@@ -71,19 +71,19 @@ export const COCHES_DFSK: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/dfsk-600-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "DFSK 600 gris oscuro tres cuartos trasero junto a villa mediterránea",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-600-2026-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "DFSK 600 blanco circulando por carretera de montaña española",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-600-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Segunda y tercera fila de asientos y maletero modular del DFSK 600",
         "ancho": 1920,
         "alto": 1280
@@ -98,7 +98,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     imagenOficial:
       "/media/dfsk-f5-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/dfsk-f5-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: null,
     videoCanal: null,
     marca: "DFSK",
@@ -154,19 +154,19 @@ export const COCHES_DFSK: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/dfsk-f5-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "DFSK F5 azul oscuro tres cuartos trasero en el paseo marítimo de Barcelona",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-f5-2026-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "DFSK F5 plateado circulando por autopista española al amanecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-f5-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Asientos deportivos y consola central del DFSK F5",
         "ancho": 1920,
         "alto": 1280
@@ -181,7 +181,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     imagenOficial:
       "/media/dfsk-seres-3-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/dfsk-seres-3-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: "uRb_7I7b3ls",
     videoCanal: "SuperMotor.Online",
     marca: "Seres",
@@ -237,19 +237,19 @@ export const COCHES_DFSK: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/dfsk-seres-3-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Seres 3 rojo tres cuartos trasero con techo panorámico en casco antiguo europeo",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-seres-3-2026-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Seres 3 negro circulando por carretera costera española al amanecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-seres-3-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Asientos de cuero y techo panorámico del Seres 3",
         "ancho": 1920,
         "alto": 1280
@@ -320,7 +320,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/dfsk-seres-5-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Seres 5 blanco tres cuartos trasero con barra de luz LED en urbanización moderna",
         "ancho": 1920,
         "alto": 1280
@@ -332,7 +332,7 @@ export const COCHES_DFSK: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-seres-5-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Asientos de cuero Nappa y techo panorámico del Seres 5",
         "ancho": 1920,
         "alto": 1280
@@ -347,7 +347,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     imagenOficial:
       "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
-      "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-interior.webp",
+      "",
     videoId: null,
     videoCanal: null,
     marca: "Seres",
@@ -403,19 +403,19 @@ export const COCHES_DFSK: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Seres 5 4WD negro tres cuartos trasero en carretera de curvas al atardecer",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-oficial-3.webp",
+        "src": "",
         "alt": "Seres 5 4WD azul oscuro tres cuartos frontal en Madrid",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Maletero del Seres 5 4WD con portón eléctrico abierto",
         "ancho": 1920,
         "alto": 1280

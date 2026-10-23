@@ -473,7 +473,7 @@ export const COCHES_BASE: CocheComparador[] = [
     modelo: "9 SHS",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 50900,
+    precioDesde: 42517.05, // Campaña financiando con Open Bank (mín. 29.000 € a 36 meses) + anticipo Plan Auto+ de 2.250 € con achatarramiento, 21/10/2026; particulares hasta 31/10/2026; PVP sin campaña 52.053 €,
     potenciaCv: 537,
     autonomiaKm: 145,
     maleteroL: 471,
@@ -483,6 +483,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
     pros: [
+      "45.000 € financiando con la campaña oficial hasta el 31/10/2026 (tarifa 52.053 €)",
       "537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista",
       "145 km eléctricos WLTP: el PHEV con más autonomía eléctrica del mercado español",
       "Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV",
@@ -1228,123 +1229,6 @@ export const COCHES_BASE: CocheComparador[] = [
         "alt": "Interior del NIO Firefly, salpicadero claro",
         "ancho": 1200,
         "alto": 800
-      }
-    ],
-  },
-  {
-    id: "dacia-bigster-hybrid-precio-espana",
-    mantenimientoDIY: {
-        resetAceiteTitulo: "Resetear aviso de cambio de aceite",
-        resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
-        resetAceiteNota: "Bigster Hybrid 155: mismo sistema que Duster Hybrid.",
-        intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Lado del acompañante, bajo la guantera, junto a la consola central",
-        filtroPolenPasos: ["Echa hacia atrás al máximo el asiento del acompañante.", "Localiza bajo el salpicadero, en el lado del copiloto junto a la consola central, la tapa del cajetín del filtro.", "Levanta la patilla inferior de la tapa y tira de la empuñadura para extraer el filtro usado en el sentido de la flecha.", "Introduce el filtro nuevo empezando por la parte superior, cierra la tapa y devuelve el asiento a su posición."],
-        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire.", "Suelta las fijaciones de la tapa (clips o tornillos).", "Extrae el filtro usado, limpia el alojamiento y coloca el filtro nuevo en la misma orientación.", "Cierra la tapa, fija las grapas y cierra el capó."],
-        videoTutorialUrl: "https://www.youtube.com/watch?v=YqwYEZNCcUU",
-        videoTutorialTitulo: "Cómo resetear luz de servicio en Dacia o Renault Logan 2, Sandero Stepway 2, Lodgy, Dokker, Duster",
-    },
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/dacia-bigster-hybrid-precio-espana-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-hybrid-precio-espana-interior-oficial.webp",
-    videoId: "Kmp-y-nU954",
-    videoCanal: "coches.net",
-    marca: "Dacia",
-    modelo: "Bigster Hybrid 155",
-    tipo: "Híbrido",
-    categoria: "SUV",
-    precioDesde: 29420,
-    potenciaCv: 156,
-    autonomiaKm: null,
-    maleteroL: 546,
-    ceroCien: 9.7,
-    velocidadMax: 180,
-    bateriaKwh: 1.4,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    pros: [
-      "29.390 €: el C-SUV híbrido más barato del mercado",
-      "546 L de maletero (1.851 L abatidos) y 220 mm de altura libre",
-      "Consumo de 4,6 l/100 km con etiqueta ECO",
-      "Componentes del sistema híbrido fabricados en Valladolid",
-      "Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid",
-    ],
-    contras: [
-      "156 CV y 9,7 s de 0-100: prestaciones justas",
-      "Etiqueta ECO, no CERO: pagará en las ZBE más estrictas",
-      "Interior espartano: plásticos duros en los acabados de acceso",
-      "Solo 5 plazas: sin opción de 7 como otros C-SUV",
-      "Alta demanda: puede haber lista de espera en algunas versiones",
-    ],
-    largoMm: 4570,
-    anchoMm: 1813,
-    altoMm: 1711,
-    pesoKg: 1419,
-    consumo: 4.6,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 205,
-    traccion: "Delantera",
-    emisionesCo2: 105,
-    aprox: [],
-    imagen: "/media/dacia-bigster-hybrid-precio-espana-hero.webp",
-    opiniones: [
-      {
-        "texto": "Acabo de venir de probar el bigster y la verdad que no me ha gustado nada, a la que he salido a autovia vibraba se notaba mucho el ruido",
-        "usuario": "Kickass",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
-      },
-      {
-        "texto": "Contras: poca potencia, motor nuevo, peores acabados, es un dacia",
-        "usuario": "Kickass",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
-      },
-      {
-        "texto": "El espacio longitudinal atrás me recordó a mí Ibiza 6l, espacio de utilitario.",
-        "usuario": "juanma-ax",
-        "fuente": "forocoches",
-        "url": "https://forocoches.com/foro/showthread.php?t=8390114&page=10"
-      },
-      {
-        "texto": "Según salimos del concesionario, a los 10 km el coche se paró, se bloqueó dirección, se bloquearon frenos, y se paró en seco",
-        "usuario": "Propietario anónimo (Trustpilot)",
-        "fuente": "trustpilot",
-        "url": "https://es.trustpilot.com/review/dacia.es"
-      }
-    ],
-    costeMensual: {
-      "costeEnergia100km": 8.5,
-      "seguroTercerosAnual": 450,
-      "seguroAmpliadoAnual": 800,
-      "mantenimientoAnual": 350,
-      "costeMensualTotal": 202,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
-      "estimado": true
-    },
-    galeria: [
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-2.webp",
-        "alt": "Dacia Bigster Hybrid 4x4, vista lateral",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-3.webp",
-        "alt": "Dacia Bigster Hybrid 155 Journey, vista tres cuartos",
-        "ancho": 1200,
-        "alto": 800
-      },
-      {
-        "src": "/media/dacia-bigster-hybrid-precio-espana-interior-oficial-2.webp",
-        "alt": "Interior del Dacia Bigster, salpicadero",
-        "ancho": 1200,
-        "alto": 795
       }
     ],
   },
@@ -2124,21 +2008,8 @@ export const COCHES_BASE: CocheComparador[] = [
     bateriaKwh: 51.87,
     cargaRapidaKw: 167,
     etiquetaDgt: "Cero",
-    pros: [
-      "Desde 26.615 € al contado con descuentos y adelanto del Plan Auto+: de los eléctricos más baratos con 340 km WLTP",
-      "Carga DC de 167 kW (30-80% en 18 min), cifra de segmento superior",
-      "Batería LFP de 51,87 kWh: más duradera y económica que las NCM",
-      "Equipamiento de serie de gama alta: asientos eléctricos con memoria, cámara 360º, V2L de 6 kW",
-      "Garantía de 10 años sin límite de km en la batería, la mejor del mercado",
-      "Etiqueta Cero de la DGT",
-    ],
-    contras: [
-      "El precio incluye descuentos de lanzamiento y adelanto del Plan Auto+: el PVP sin ellos es 29.990 €",
-      "Marca en construcción en España: 25 concesionarios",
-      "Sin opiniones de propietarios españoles todavía (modelos recién llegados)",
-      "Sin datos de 0-100, velocidad máxima ni consumo WLTP publicados",
-      "Un único acabado: solo se elige el color",
-    ],
+    pros: ["La carga en continua de hasta 167 kW pasa del 30 al 80 % en unos 18 minutos: para una batería de solo 51,87 kWh, eso convierte una parada de viaje en un café y no en una espera larga.", "El maletero no es un número vacío: 500 litros, doble fondo de 72 litros bajo el piso y un frunk delantero de 49 litros como accesorio, con respaldos 60/40 que lo dejan en 1.040 litros.", "El precio que se anuncia en España, 26.615 € al contado, baja de un PVP de 29.990 € gracias a la campaña de lanzamiento y al adelanto del Programa Auto+, y aun así mantiene de serie cámara de 360º y asientos eléctricos con memoria, calefacción y ventilación.", "La batería es LFP de 51,87 kWh, una química elegida por durabilidad y coste, y la cubre una garantía de propulsión de 10 años sin límite de kilómetros; el coche completo tiene 7 años o 300.000 km.", "Con 4,31 metros y una batalla de 2,72 metros, deja unas plazas traseras desahogadas y con el suelo plano para ser el coche principal, no solo el segundo coche de casa."],
+    contras: ["El anzuelo de 26.615 € no es el precio de tarifa: sin campaña ni Programa Auto+ son 29.990 €, y financiado baja a 24.500 € a costa de entrada y 36 meses de cuotas, así que hay que comparar el coste final y no el cartel.", "Los 340 km WLTP combinados dan para el día a día, pero para viajar obligan a planificar paradas; los 521 km que a veces se destacan son solo la cifra en ciclo urbano, no la mixta.", "No consta todavía una prueba Euro NCAP propia del Vigo y la red española está en construcción, con 25 concesionarios anunciados y la meta de 30 a finales de 2026: comprar hoy es también apostar por esa expansión.", "Hay un único acabado y solo se elige el color; además, las primeras pruebas en España señalan una dirección con demasiada desmultiplicación y unas ayudas a la conducción intrusivas a ritmo alto."],
     largoMm: 4310,
     anchoMm: null,
     altoMm: null,
@@ -2184,6 +2055,8 @@ export const COCHES_BASE: CocheComparador[] = [
       }
     ],
     analisisSlug: "dongfeng-nammi-06-2025-precio-ficha-tecnica",
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP del Dongfeng Vigo / Nammi 06: no se ha localizado ninguna prueba de este modelo en Euro NCAP. La valoración de 3 estrellas que circula de Dongfeng corresponde al Box / Nammi 01, un modelo distinto y más pequeño, y no debe extrapolarse al Vigo."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Dongfeng vincula la garantía ampliada en España a seguir el programa de mantenimiento del fabricante en su red oficial, con una periodicidad aproximada de cada 15.000 kilómetros o un año. Esa cadencia es la condición citada para mantener la cobertura de 10 años sin límite de kilómetros sobre motor eléctrico y batería de alta tensión en los coches matriculados desde el 1 de enero de 2026. No se ha localizado un precio cerrado y público de cada revisión del Vigo en España, por lo que no se adelanta ningún coste de revisión como oficial.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.actualidadmotor.com/dongfeng-refuerza-su-apuesta-por-espana-con-mas-garantia-red-y-modelos/"},
   },
   {
     id: "dongfeng-mage-phev-precio-espana-ficha",
@@ -2207,21 +2080,8 @@ export const COCHES_BASE: CocheComparador[] = [
     bateriaKwh: 17,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "Desde 28.740 €: 299 CV y 89 km eléctricos por menos que casi cualquier PHEV europeo",
-      "Más de 1.200 km de autonomía total: el día a día en eléctrico, los viajes sin parar a cargar",
-      "Maletero de 525 L (1.846 L con asientos abatidos) en 4,69 m",
-      "Un único acabado completísimo: no hay que pagar paquetes",
-      "Garantía de 10 años sin límite de km en la batería",
-      "Etiqueta Cero de la DGT",
-    ],
-    contras: [
-      "El precio incluye descuentos de lanzamiento y adelanto del Plan Auto+: el PVP sin ellos es 31.990 €",
-      "Marca en construcción en España: 25 concesionarios",
-      "Sin opiniones de propietarios españoles todavía",
-      "Sin datos de consumo ni emisiones WLTP publicados en la nota oficial",
-      "Un único acabado: solo se elige el color",
-    ],
+    pros: ["Con 17 kWh y 89 km eléctricos en ciclo WLTC puedes encadenar la semana laboral en modo eléctrico si cargas en casa, y reservar el 1.5 turbo para los 1.200 km de autonomía total declarada", "Admite carga en corriente continua a 22 kW, algo poco habitual en un enchufable de este precio: pasa del 30 al 80 % en 31 minutos según la marca", "No hay catálogo de opciones que infle la factura: techo panorámico practicable, portón eléctrico, cámara de 540 grados, pantalla de 14,6 pulgadas y asientos delanteros eléctricos y calefactables vienen en el único acabado", "Maletero de 525 litros con suelo plano y respaldos 60/40 en una carrocería de 4,69 metros: no sacrifica carga familiar por llevar batería y depósito", "La batería y el sistema eléctrico tienen 10 años de garantía sin límite de kilometraje en España, y el coche en conjunto 7 años o 300.000 km"],
+    contras: ["Los 28.740 € no son el PVP: son el precio con campañas de lanzamiento y el adelanto del Plan Auto+; el precio de lista comunicado es 31.990 €", "En corriente alterna solo carga a 3,3 kW, así que llenar los 17 kWh en casa lleva unas cuatro horas y media: lento para quien no tiene toda la noche", "Sin Android Auto nativo: la documentación y las pruebas citan solo Apple CarPlay, y para Android se recurre a un dispositivo externo, solución que no es lo mismo", "Respaldo aún por demostrar en España: 25 concesionarios en el lanzamiento, sin propietarios locales que cuenten su experiencia y sin ningún resultado Euro NCAP publicado que respalde la seguridad pasiva"],
     largoMm: 4690,
     anchoMm: null,
     altoMm: null,
@@ -2267,6 +2127,8 @@ export const COCHES_BASE: CocheComparador[] = [
       }
     ],
     analisisSlug: "dongfeng-vigo-mage-phev-precio-espana-ficha",
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: no consta resultado del Dongfeng Mage PHEV en euroncap.com ni en la prensa española del lanzamiento; el modelo no ha sido probado por Euro NCAP a fecha de esta revisión."},
+    planMantenimiento: {"intervalo": "Dongfeng España no ha publicado un plan cerrado del Mage PHEV con precios de revisión.", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Dongfeng España no ha publicado un plan cerrado del Mage PHEV con precios de revisión. Lo verificable es la condición ligada a su garantía ampliada: revisiones en la red oficial con una periodicidad aproximada de 15.000 km o un año para mantener la cobertura de 10 años de batería y motor eléctrico. Sin coste oficial publicado, cualquier cifra de mantenimiento sería una estimación y no debe presentarse como tarifa de la marca.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.actualidadmotor.com/dongfeng-refuerza-su-apuesta-por-espana-con-mas-garantia-red-y-modelos/"},
   },
   {
     id: "volkswagen-golf-8-2026-precio-ficha-tecnica",
@@ -2284,8 +2146,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "kjJIu0enIHM",
     videoCanal: "Hugo Valverde",
     marca: "Volkswagen",
@@ -2326,7 +2188,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["precioDesde"],
-    imagen: "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.1,
@@ -2341,19 +2203,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen Golf 8.5 GTI rojo, tres cuartos delantero",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen Golf 8.5 gris oscuro en una calle europea al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Volkswagen Golf 8.5, puesto de conducción digital",
         "ancho": 1200,
         "alto": 800
@@ -2366,8 +2228,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+    imagenInteriorOficial: "",
     videoId: "2fcJFAZpG6Q",
     videoCanal: "Auto Sensación",
     marca: "Volkswagen",
@@ -2408,7 +2270,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 162,
     aprox: [],
-    imagen: "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.3,
@@ -2423,19 +2285,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen California T7 de perfil con el techo elevable abierto",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen California T7 camper en la playa al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior camper de la Volkswagen California T7 con cocina",
         "ancho": 1200,
         "alto": 800
@@ -2458,8 +2320,8 @@ export const COCHES_BASE: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero-card.webp",
+    imagenInteriorOficial: "",
     videoId: "Id6QVjdpEdo",
     videoCanal: "Periodismo del Motor",
     marca: "Volkswagen",
@@ -2500,7 +2362,7 @@ export const COCHES_BASE: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: [],
-    imagen: "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.5,
@@ -2515,19 +2377,19 @@ export const COCHES_BASE: CocheComparador[] = [
     },
     galeria: [
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-oficial.webp",
+        "src": "",
         "alt": "Volkswagen ID. Buzz bicolor azul y blanco, vista lateral",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero.webp",
+        "src": "",
         "alt": "Volkswagen ID. Buzz bicolor amarillo y blanco al atardecer",
         "ancho": 1200,
         "alto": 800
       },
       {
-        "src": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior lounge del Volkswagen ID. Buzz con techo panorámico",
         "ancho": 1200,
         "alto": 800

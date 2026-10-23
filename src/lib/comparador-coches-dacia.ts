@@ -116,7 +116,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "ATeA7r_3t-s",
     videoCanal: null,
     opiniones: [],
@@ -134,7 +134,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero ECO-G 100 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero ECO-G 100 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-eco-g-100-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero ECO-G 100 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -168,55 +167,20 @@ export const COCHES_DACIA: CocheComparador[] = [
     aprox: [],
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
-    pros: [
-      "155 CV híbridos desde 19.890 €: el híbrido más barato del mercado español",
-      "4,2 l/100 km y 96 g/km: consumo de utilitario diésel con etiqueta ECO",
-      "Hasta un 80 % del tiempo en modo eléctrico en ciudad",
-      "Motor 1.8 fabricado en España (Valladolid): tecnología híbrida probada",
-      "Cambio automático electrificado sin embrague: confort en el día a día",
-    ],
-    contras: [
-      "Casi 6.000 € más que el Sandero TCe 90: hay que hacer muchos km para amortizarlo",
-      "Batería de solo 1,4 kWh: sin modo eléctrico puro prolongado",
-      "Prestaciones 0-100 no publicadas por la marca en el lanzamiento",
-      "El cambio automático electrificado puede resultar ruidoso a plena carga",
-      "Entregas a partir del cuarto trimestre de 2026: lista de espera inicial",
-    ],
+    pros: ["Es el primer Sandero con mecánica full hybrid: 155 CV y etiqueta ECO desde 19.890 €, sin necesidad de enchufe", "En ciudad puede moverse con el motor eléctrico hasta el 80 % del tiempo, según Dacia, y homologa solo 4,2 l/100 km", "Su motor de gasolina 1.8 se fabrica en Valladolid y trabaja junto a dos motores eléctricos con una batería de 1,4 kWh", "Con 96 g/km de CO₂ es la primera versión de Dacia que baja de la barrera de los 100 g/km", "Mantiene la carrocería berlina de 4,09 m y 328 litros de maletero, pero suma cambio automático sin embrague para el tráfico diario"],
+    contras: ["Rozando los 6.000 € más que el Sandero de gasolina de acceso, necesita muchos kilómetros de ahorro de combustible para compensar la diferencia", "La batería de 1,4 kWh no se carga en una toma externa, así que los tramos solo eléctricos dependen de lo recuperado al decelerar y frenar", "Sus 328 litros de maletero son los de un urbano: para viajes familiares largos se queda antes corto que un Jogger", "A plena carga el conjunto híbrido puede hacerse notar en ruido, un peaje de esta transmisión automática electrificada en aceleraciones sostenidas", "No estará en los concesionarios hasta el último trimestre de 2026, así que no sirve a quien necesita cambiar de coche ya"],
     imagen: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "JehEwxCQkmk",
     videoCanal: "SoyMotor",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 6.7,
-      "seguroTercerosAnual": 420,
-      "seguroAmpliadoAnual": 750,
-      "mantenimientoAnual": 400,
-      "costeMensualTotal": 180,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,2 l/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
-    },
-    euroncap: {
-      estrellas: 2,
-      ano: 2021,
-      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
-      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
-    },
+    costeMensual: {"costeEnergia100km": 6.7, "costeMensualTotal": 180, "estimado": true, "mantenimientoAnual": 400, "notas": "Estimación pensada para esta berlina híbrida: 15.000 km anuales con su consumo homologado de 4,2 l/100 km y gasolina valorada a 1,60 €/l; la póliza y las revisiones se toman como referencia orientativa del segmento urbano", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 750, "seguroTercerosAnual": 420},
+    euroncap: {"ano": 2021, "estrellas": 2, "nota": "La berlina de cinco puertas no tuvo ensayo propio: el resultado de dos estrellas de 2021 procede del Sandero Stepway probado por Euro NCAP, que extendió esa misma valoración al Sandero y al Logan de idéntica generación", "url": "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía oficial de Dacia España sobre el cuidado de sus coches híbridos (dacia.es)", "intervalo": "Cada 12 meses o al llegar a 30.000 km, lo primero que ocurra", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual del Sandero Hybrid 155", "queSeCambia": "Aceite nuevo para el motor 1.8 con su filtro, sustitución de filtros según el plan, chequeo de los puntos de seguridad y diagnosis electrónica del sistema híbrido y de su batería de 1,4 kWh"}]},
     galeria: [
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -264,7 +228,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "dY2C6vDhd8Q",
     videoCanal: null,
     opiniones: [],
@@ -282,7 +246,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway TCe 90 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway TCe 90 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-tce-90-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway TCe 90 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -330,7 +293,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "-rmR37OfdMU",
     videoCanal: "ActualidadMotor",
     opiniones: [],
@@ -348,7 +311,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway ECO-G 100 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway ECO-G 100 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-eco-g-100-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway ECO-G 100 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -382,55 +344,20 @@ export const COCHES_DACIA: CocheComparador[] = [
     aprox: [],
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
-    pros: [
-      "21.290 €: el crossover híbrido más barato del mercado español",
-      "155 CV con 4,4 l/100 km y 100 g/km: potencia y eficiencia con etiqueta ECO",
-      "Estética Stepway + hibridación: la combinación más completa de la gama Sandero",
-      "Cambio automático electrificado: adiós al embrague en ciudad",
-      "Motor 1.8 fabricado en España con tecnología híbrida ya probada en el grupo",
-    ],
-    contras: [
-      "Casi 5.500 € más que el Stepway ECO-G 100, que también lleva etiqueta ECO",
-      "El GLP sale más barato por kilómetro si haces mucha autopista",
-      "Batería de 1,4 kWh: el modo eléctrico puro es testimonial",
-      "Datos de peso y prestaciones no publicados en el lanzamiento",
-      "Entregas a partir del cuarto trimestre de 2026",
-    ],
+    pros: ["21.290 € y ya es crossover: ningún híbrido completo con carrocería elevada y distintivo ECO se vende más barato en España", "Su carrocería llega a 1.535 mm de altura, 36 mm por encima de la berlina Hybrid, con protecciones Starkle —un 20 % de plástico reciclado— que disimulan los roces del uso diario", "Con barras longitudinales en el techo y una posición al volante más alta, resulta más cómodo para cargar bultos arriba y para afrontar pistas o badenes sin rascar los bajos", "Es el Stepway con más brío: 155 CV, 8,3 s hasta 100 km/h y 180 km/h de punta, cifras que dejan muy atrás a los Stepway TCe 90 y ECO-G 100 de la propia gama", "Aun con la silueta elevada homologa 4,4 l/100 km y 100 g/km de CO₂: solo 0,2 litros más que la berlina Hybrid a cambio del aspecto crossover"],
+    contras: ["La factura duele frente a su hermano de GLP: 5.470 € separan a este Hybrid de los 15.820 € del Stepway ECO-G 100, que también luce la etiqueta ECO", "Quien dude entre berlina y Stepway paga 1.400 € de sobreprecio por altura e imagen: mecánica, cinco plazas y los mismos 328 litros de maletero no cambian", "El disfraz de aventurero no trae tracción total: sigue siendo un delantero pensado para asfalto y pistas en buen estado, no para barro ni nieve seria", "Su talón de Aquiles está en el crash test: Euro NCAP le dio dos estrellas en 2021, con un 41 % en protección de usuarios vulnerables", "No hay enchufe para recargar su batería de 1,4 kWh, así que el empuje eléctrico se limita a lo que el coche recupera al frenar; en autopista sostenida manda el gasolina 1.8"],
     imagen: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "tVqq7Skbt9w",
     videoCanal: "coches.net",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 7,
-      "seguroTercerosAnual": 430,
-      "seguroAmpliadoAnual": 750,
-      "mantenimientoAnual": 400,
-      "costeMensualTotal": 184,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,4 l/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
-    },
-    euroncap: {
-      estrellas: 2,
-      ano: 2021,
-      url: "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/",
-      nota: "Prueba oficial del Sandero Stepway 2021 (2 estrellas); Euro NCAP indica que la valoración cubre también al Sandero berlina y al Logan de la misma generación",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        { nombre: "Revisión periódica del híbrido", queSeCambia: "Aceite y filtro de aceite, filtros, puntos de control de seguridad + revisión del sistema eléctrico e híbrido (diagnóstico)", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Dacia España — blog oficial: mantenimiento del coche híbrido (https://www.dacia.es/blog/seguridad-consejos/mantenimiento-del-coche-hibrido-claves-ahorro-real.html)",
-    },
+    costeMensual: {"costeEnergia100km": 7, "costeMensualTotal": 184, "estimado": true, "mantenimientoAnual": 400, "notas": "Presupuesto anual pensado para la carrocería crossover: con 15.000 km recorridos, un gasto homologado de 4,4 litros a los cien y la gasolina pagada a 1,60 €/l; el seguro y las revisiones son valores medios estimados para utilitarios elevados como este", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 750, "seguroTercerosAnual": 430},
+    euroncap: {"ano": 2021, "estrellas": 2, "nota": "El coche examinado en 2021 fue precisamente un Stepway: salió con dos estrellas y un 70 % en ocupante adulto, y Euro NCAP aplicó después ese resultado al Sandero de cinco puertas y al Logan contemporáneos", "url": "https://www.euroncap.com/press-media/dacia-aims-low-while-%C5%A1koda-vw-electrify/"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Artículo del blog oficial de Dacia España sobre cómo mantener un híbrido de la marca", "intervalo": "Una visita al año como tope, o al cumplir 30.000 km si llegan antes", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento programado del Stepway Hybrid 155", "queSeCambia": "Cambio del aceite del motor 1.8 y de su filtro, renovación de los filtros que toquen por kilometraje, revisión de los elementos de seguridad y comprobación electrónica del conjunto híbrido, incluida su batería de 1,4 kWh"}]},
     galeria: [
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Sandero Stepway Hybrid 155 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-sandero-stepway-hybrid-155-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Sandero Stepway Hybrid 155 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -462,23 +389,11 @@ export const COCHES_DACIA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 124,
     aprox: [],
-    pros: [
-      "23.190 € con etiqueta ECO: el SUV microhíbrido más barato del mercado",
-      "1.2 turbo de 131 CV con hibridación ligera de 48 V: 5,5 l/100 km reales",
-      "0-100 en 9,9 s: el Duster de gasolina más rápido sin ser híbrido",
-      "Maletero de 517 L y 209 mm de altura libre: apto para campo ligero",
-      "Plataforma CMF-B moderna: mucho más refinado que el Duster anterior",
-    ],
-    contras: [
-      "Solo cambio manual de 6 velocidades: sin opción automática en gasolina",
-      "La hibridación ligera no permite circular en modo eléctrico",
-      "Acabado Essential muy básico: el Expression recomendable sale por 23.190 €",
-      "Motor de 3 cilindros: vibraciones perceptibles al ralentí",
-      "Sin tracción total en esta versión (solo el TCe 130 4x4 la ofrece)",
-    ],
+    pros: ["Por 23.190 € entrega 131 CV con etiqueta ECO, una combinación que le permite entrar en las ZBE sin dar el salto de precio al Hybrid de la propia gama.", "Su 1.2 de tres cilindros con apoyo de 48 V homologa 5,5 l/100 km y 124 g/km de CO2, cifras contenidas para un SUV de gasolina de 1.379 kg pensado para hacer muchos kilómetros mixtos.", "Con 517 litros de maletero en solo 4.343 mm de largo, carga como un familiar cuando viajan cinco y sigue siendo fácil de aparcar a diario en ciudad.", "Los 205 Nm y el 0 a 100 km/h en 9,9 s le bastan para adelantar e incorporarse sin apurar el motor, algo que no todos los SUV baratos de acceso resuelven igual."],
+    contras: ["Si quieres cambio automático tienes que abandonar esta motorización: el TCe 130 de tracción delantera va ligado al manual de seis marchas.", "La red de 48 V ayuda en arranques y aceleraciones, pero no mueve el coche en eléctrico ni en maniobras, así que no esperes el silencio ni el ahorro urbano de un híbrido completo.", "Esta unidad es 4x2: quien necesite tracción total para pistas, nieve o barro debe pagar la versión TCe 130 4x4, no le vale conformarse con la altura y el aspecto campero de esta.", "En Euro NCAP 2024 la tercera generación se quedó en tres estrellas, con un 57 % en asistentes, un resultado justo frente a rivales que ya ofrecen paquetes de ayudas más completos."],
     imagen: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -496,7 +411,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Duster TCe 130 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster TCe 130 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster TCe 130 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -610,7 +524,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -628,7 +542,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Duster ECO-G 100 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Duster ECO-G 100 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-duster-eco-g-100-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Duster ECO-G 100 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -676,7 +589,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "Kmp-y-nU954",
     videoCanal: "coches.net",
     opiniones: [],
@@ -694,7 +607,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Bigster TCe 140 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Bigster TCe 140 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-bigster-tce-140-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Bigster TCe 140 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -742,7 +654,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -760,7 +672,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Bigster TCe 130 4x4 2025, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-hero.webp", "alt": "Dacia Bigster TCe 130 4x4 2025, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Bigster TCe 130 4x4 2025", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -808,7 +719,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "adM_sbub5ec",
     videoCanal: null,
     opiniones: [],
@@ -826,7 +737,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger TCe 110 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger TCe 110 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-tce-110-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Jogger TCe 110 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -874,7 +784,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -892,7 +802,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger ECO-G 120 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger ECO-G 120 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-eco-g-120-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Jogger ECO-G 120 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -940,7 +849,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -958,7 +867,6 @@ export const COCHES_DACIA: CocheComparador[] = [
     galeria: [
       { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Jogger TCe 110 7 plazas 2026, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-hero.webp", "alt": "Dacia Jogger TCe 110 7 plazas 2026, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-jogger-tce-110-7-plazas-2026-precio-ficha-tecnica-interior.webp", "alt": "Interior de 7 plazas del Dacia Jogger TCe 110 2026", "ancho": 1920, "alto": 1280 }
     ],
   },
   {
@@ -1006,7 +914,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     imagen: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-eco-g-120-7-plazas-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     opiniones: [],
@@ -1122,42 +1030,21 @@ export const COCHES_DACIA: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: [],
-    pros: [
-      "18.890 €: eléctrico con 65 CV por menos de 19.000 €",
-      "228 km WLTP y 13,3 kWh/100 km: eficiencia muy buena para su precio",
-      "0-100 en 13,7 s: 5,4 s más rápido que el Electric 45",
-      "Etiqueta Cero y carga rápida de 30 kW en continua",
-      "Garantía de batería de 8 años o 120.000 km al 75 %",
-    ],
-    contras: [
-      "1.254 € más que el Electric 45 por la misma batería y autonomía",
-      "125 km/h de máxima: sigue siendo un urbano puro",
-      "4 plazas y maletero de 288 L: justo para más de dos personas",
-      "1 estrella Euro NCAP",
-      "Carga en alterna limitada a 6,6 kW: sin wallbox, paciencia",
-    ],
+    pros: ["18.890 € en acabado Expression: es la tarifa de 2024 para acceder al motor potente tras un rediseño que renovó casi toda la carrocería del Spring de 2021", "Con 113 Nm y solo 1.059 kg baja el 0-100 a 13,7 s, frente a los 19,1 s del hermano de 45 CV: incorporarse a una vía rápida deja de exigir tanta anticipación", "Homologa 13,3 kWh/100 km con la batería pequeña de 26,8 kWh: su ligereza hace que cada recarga doméstica rinda más kilómetros que en rivales urbanos más pesados", "El restyling de 2024 añadió carga bidireccional V2L para alimentar aparatos externos, algo insólito en un eléctrico de menos de 19.000 €, y conserva toma CCS con pico de 30 kW", "Batería cubierta durante ocho años con tope de 120.000 km y suelo de capacidad del 75 %, un respaldo largo para un coche pensado como segundo vehículo familiar"],
+    contras: ["Pasar del Expression de 45 CV a este de 65 CV costaba 1.000 € en la tarifa de lanzamiento de 2024 y no suma ni un kilovatio hora: la batería y los 228 km homologados son los mismos", "Euro NCAP lo dejó en una estrella en diciembre de 2021, con un 49 % en protección de adultos y protección pobre del pecho del conductor en el choque frontal", "Por un dinero parecido, km77 sitúa al Leapmotor T03 y al BYD Dolphin Surf por delante en tacto de conducción, espacio para pasajeros y prestaciones", "Solo tiene cuatro plazas y las traseras van justas para dos adultos; los 288 litros de maletero resuelven la compra semanal, no el equipaje de unas vacaciones", "En corriente alterna el cargador de a bordo se queda en 6,6 kW, así que recuperar por completo la batería en casa exige varias horas enchufado"],
     imagen: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kUdHxm8a7Z8",
     videoCanal: "Xataka",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.4,
-      "seguroTercerosAnual": 400,
-      "seguroAmpliadoAnual": 680,
-      "mantenimientoAnual": 250,
-      "costeMensualTotal": 108,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.6,
-      "notas": "12.000 km/año; recarga doméstica a 0,18 €/kWh con consumo WLTP 13,3 kWh/100 km; seguro y mantenimiento estimados por segmento",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 2.4, "costeMensualTotal": 108, "estimado": true, "mantenimientoAnual": 250, "notas": "Cálculo pensado solo para este 65: mil kilómetros al mes entre ciudad y extrarradio, recargando en el garaje de casa. Con el gasto homologado que recoge la ficha, recorrer cien kilómetros sale a 2,40 euros de electricidad. El seguro a terceros de 400 euros y los 250 euros al año de revisiones son importes orientativos propios de un urbano eléctrico del segmento A, no tarifas cerradas de Dacia, que no publica un precio único de revisión para el Spring.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 680, "seguroTercerosAnual": 400},
     galeria: [
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-oficial.webp", "alt": "Dacia Spring Electric 65 2024, vista exterior", "ancho": 1920, "alto": 1280 },
       { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp", "alt": "Dacia Spring Electric 65 2024, tres cuartos delantero", "ancho": 1920, "alto": 1280 },
-      { "src": "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-interior.webp", "alt": "Interior del Dacia Spring Electric 65 2024", "ancho": 1920, "alto": 1280 }
     ],
+    euroncap: {"ano": 2021, "estrellas": 1, "nota": "Prueba publicada el 8 de diciembre de 2021 sobre el Spring anterior al rediseño de 2024, en su versión de 45 CV: 49 % en ocupante adulto, 56 % en ocupante infantil, 39 % en usuarios vulnerables y 32 % en asistentes. Euro NCAP señaló riesgo elevado de lesiones en el pecho del conductor y en la cabeza del pasajero trasero durante los choques frontales", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario del Dacia Spring en español (reproducido en manual.ec): servicio periódico principal con periodicidad bienal o al llegar a los 30.000 km y cambio del líquido de frenos bienal. Manual de utilización del Spring (ManualsLib): la sustitución de los elementos filtrantes, como el filtro del habitáculo, está prevista dentro de las operaciones de mantenimiento. Dacia no publica un coste cerrado de revisión para España, por eso los costes quedan a null", "intervalo": "Revisión principal bienal, con tope de 30.000 km entre visitas (lo primero que se cumpla)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica / 30.000 km", "queSeCambia": "Inspección del conjunto eléctrico y del estado de la batería de tracción, control de frenos, neumáticos y niveles, y sustitución de los elementos filtrantes previstos en el programa del coche, entre ellos el filtro del habitáculo; el manual del Spring remite al documento de mantenimiento para la periodicidad exacta de cada elemento"}, {"costeAproxEur": null, "nombre": "Cada 2 años", "queSeCambia": "Renovación del líquido de frenos, que el manual del propietario del Spring recomienda cambiar cada dos años"}]},
   },
   {
     id: "dacia-duster-hybrid-140-2025-precio-ficha-tecnica",
@@ -1165,7 +1052,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "nvznUAWvySY",
     videoCanal: "carwow.es",
     marca: "Dacia",
@@ -1181,20 +1068,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "26.290 €: el SUV híbrido más barato",
-      "140 CV con 5,0 l/100 km",
-      "Etiqueta ECO",
-      "205 Nm y 10,1 s de 0-100",
-      "El Duster más eficiente",
-    ],
-    contras: [
-      "Maletero de 430 L, justo para un SUV",
-      "160 km/h de máxima",
-      "El acabado Expression es el básico",
-      "Sin tracción total en híbrido",
-      "1.455 kg",
-    ],
+    pros: ["Por 26.290 € en acabado Expression ya trae cuadro digital de 7 pulgadas, pantalla de 10,1 pulgadas, cámara trasera y llantas de 17 pulgadas, un equipamiento que en un SUV híbrido de 4,34 m no se encuentra por menos en España", "Homologa 5,0 l/100 km y 112 g/km de CO₂ con etiqueta ECO: con su batería de 1,2 kWh puede circular hasta el 80 % del tiempo urbano en modo eléctrico según Dacia, sin enchufes ni esperas de carga", "Conserva 209 mm de altura libre al suelo pese a ser híbrido y tracción delantera, una cota propia de un SUV con aspiraciones camperas y que permite pistas de tierra sin rozar los bajos", "El sistema de 140 CV combina un 1.6 de gasolina con dos motores eléctricos y una caja automática multimodo sin embrague, así que arranca siempre en eléctrico y no exige convivir con un cambio manual en atascos"],
+    contras: ["Esta versión Hybrid 140 solo se vende 4x2: quien necesite tracción total en un Duster tiene que renunciar al híbrido completo y pasar al TCe 130 mild-hybrid 4x4", "El maletero se queda en 430 litros, por debajo de los 472 litros de las versiones no híbridas del mismo Duster, porque la batería de 1,2 kWh roba espacio bajo el piso de carga", "En pendientes prolongadas la caja multimodo tiende a revolucionar el 1.6 y, si la batería se agota, el coche se queda momentáneamente solo con el motor de gasolina de unos 94 CV para mover sus 1.455 kg", "Sus 160 km/h de punta y sus 10,1 s de 0 a 100 km/h lo dejan justo para adelantamientos cargado y en familia; los acabados Extreme y Journey que añaden llave manos libres o navegador ya suben a 27.790 €"],
     largoMm: 4343,
     anchoMm: 1813,
     altoMm: 1661,
@@ -1232,94 +1107,9 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Duster Hybrid 140",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
-  },
-  {
-    id: "dacia-bigster-hybrid-155-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
-    garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-interior-oficial.webp",
-    videoId: "Lr6RoH6uZGw",
-    videoCanal: "SoyMotor",
-    marca: "Dacia",
-    modelo: "Bigster Hybrid 155",
-    tipo: "Híbrido (HEV)",
-    categoria: "SUV",
-    precioDesde: 29390,
-    potenciaCv: 156,
-    autonomiaKm: null,
-    maleteroL: 546,
-    ceroCien: 9.7,
-    velocidadMax: 180,
-    bateriaKwh: null,
-    cargaRapidaKw: null,
-    etiquetaDgt: "ECO",
-    pros: [
-      "29.390 €: el SUV grande híbrido más barato",
-      "156 CV con 4,6 l/100 km",
-      "Maletero de 546 L",
-      "9,7 s de 0-100 y 180 km/h",
-      "Etiqueta ECO",
+      
     ],
-    contras: [
-      "Peso sin publicar en esta ficha",
-      "El acabado Expression es básico",
-      "205 Nm: el par es justo",
-      "Sin tracción total",
-      "29.390 €: ya no es un Dacia de 15.000 €",
-    ],
-    largoMm: 4570,
-    anchoMm: 1813,
-    altoMm: 1711,
-    pesoKg: null,
-    consumo: 4.6,
-    consumoUnidad: "l/100 km",
-    plazas: 5,
-    parNm: 205,
-    traccion: "Delantera",
-    emisionesCo2: 105,
-    aprox: [],
-    imagen: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp",
-    opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 8.5,
-      seguroTercerosAnual: 450,
-      seguroAmpliadoAnual: 800,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 185,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.6 l/100 km; seguro y mantenimiento estimados por segmento",
-      estimado: true
-    },
-    galeria: [
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Dacia Bigster Hybrid 155, vista lateral",
-        ancho: 1200,
-        alto: 800
-      },
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Dacia Bigster Hybrid 155, vista tres cuartos delantera",
-        ancho: 1200,
-        alto: 800
-      },
-      {
-        src: "/media/dacia-bigster-hybrid-155-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Bigster Hybrid 155",
-        ancho: 1200,
-        alto: 800
-      }
-    ]
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Dacia España (dacia.es), artículo oficial de mantenimiento de híbridos: fija el intervalo del Duster híbrido en 12 meses o 30.000 km y sitúa la revisión periódica de un HEV entre 150 y 300 € según operaciones, sin tarifa cerrada publicada para este modelo, por lo que no se consigna coste anual cerrado", "intervalo": "Cada 12 meses o 30.000 km, lo que ocurra antes, según Dacia España para la versión híbrida del Duster", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica 12 meses / 30.000 km", "queSeCambia": "Revisión del motor térmico 1.6 (aceite y controles habituales), inspección visual y por diagnóstico del sistema eléctrico de alta tensión —batería de tracción, inversor y cableado— y de la batería de 12 V, comprobación del sistema de refrigeración, frenos y códigos de avería"}]},
   },
   {
     id: "dacia-bigster-eco-g-140-2025-precio-ficha-tecnica",
@@ -1343,20 +1133,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "24.990 €: el GLP más grande y barato",
-      "140 CV y 230 Nm",
-      "Maletero de 609 L",
-      "GLP a 0,95 €/l: el km más barato",
-      "Etiqueta ECO",
-    ],
-    contras: [
-      "7,1 l/100 km de GLP",
-      "0-100 sin publicar en esta ficha",
-      "El depósito de GLP resta algo de espacio",
-      "180 km/h de máxima",
-      "Menos estaciones de GLP que de gasolina",
-    ],
+    pros: ["Hasta 1.450 km sin repostar sumando sus dos depósitos —50 l de gasolina y 49 l de GLP bajo el suelo del maletero—, una autonomía que ningún Qashqai, Tucson o Ateca de gasolina iguala sin parar", "Con 4,57 m de largo y 609 l de maletero según esta ficha, ofrece formato de C-SUV familiar de 5 plazas y 1.500 kg de remolque con freno por 24.990 €, miles de euros por debajo de un Austral o un Tiguan equivalente", "El 1.2 tricilíndrico mild-hybrid de 48 V entrega 140 CV y 230 Nm con cambio manual de 6 marchas y, en modo GLP, homologa 7,1 l/100 km y unas emisiones en torno a 114-115 g/km con etiqueta ECO de la DGT", "Circular en GLP a 0,95 €/l deja el coste de energía en unos 6,7 € cada 100 km según la estimación de la ficha, la razón de ser de este Bigster frente al Hybrid 155, más caro de compra"],
+    contras: ["Solo 3 estrellas Euro NCAP en 2025 —69 % en ocupante adulto y 57 % en asistentes a la conducción, aunque 85 % en ocupante infantil—, por debajo de las 4-5 estrellas de la mayoría de sus rivales del segmento C", "Esta versión ECO-G 140 es únicamente manual de 6 marchas y tracción delantera: quien quiera automático o 4x4 tiene que irse a otra motorización del Bigster, no a esta", "El depósito de GLP ocupa el hueco de la rueda de repuesto, así que te quedas sin rueda de emergencia, y dependes de una red de gasolineras con GLP mucho más escasa que la de gasolina en España", "En GLP el consumo sube a 7,1 l/100 km frente a los 5,7 l/100 km en gasolina del mismo motor y la velocidad máxima está limitada a 180 km/h, con un interior de plásticos duros pensado para durar, no para impresionar"],
     largoMm: 4570,
     anchoMm: 1813,
     altoMm: 1711,
@@ -1400,7 +1178,8 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {"estrellas": 3, "ano": 2025, "url": "https://www.euroncap.com/en/results/dacia/bigster/54881", "nota": null},
   },
   {
     id: "dacia-jogger-hybrid-140-2025-precio-ficha-tecnica",
@@ -1408,7 +1187,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-_yq2MHIYYk",
     videoCanal: "SoyMotor",
     marca: "Dacia",
@@ -1424,20 +1203,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "25.050 €: el familiar híbrido más barato",
-      "140 CV con 4,7 l/100 km",
-      "Maletero de 607 L",
-      "Etiqueta ECO",
-      "9,8 s de 0-100",
-    ],
-    contras: [
-      "Diseño de furgoneta, poco emocional",
-      "167 km/h de máxima",
-      "El acabado Expression es básico",
-      "1.432 kg",
-      "La versión de 7 plazas cuesta 900 € más",
-    ],
+    pros: ["En esta configuración de 5 plazas carga 607 litros por 25.050 €, una combinación que un familiar híbrido como el Corolla Touring Sports no iguala en precio con un maletero parecido", "Homologa 4,7 l/100 km y 105 g/km de CO2, así que entra y aparca con etiqueta ECO pese a medir 4.547 mm de largo", "Los 140 CV dejan el 0-100 km/h en 9,8 segundos, margen suficiente para incorporarse cargado sin tener que apurar cada adelantamiento", "Con 1.432 kg es ligero para un familiar de este tamaño, algo que ayuda a que el consumo urbano del sistema híbrido no se dispare entre semáforos"],
+    contras: ["La velocidad punta se queda en 167 km/h y en autovía sostenida el conjunto de 140 CV trabaja ya sin reserva si el coche va a plena carga", "Esta ficha es la de 5 plazas: pasar a la tercera fila del Jogger de 7 supone pagar 900 € más sobre esta versión", "La batería del sistema híbrido va bajo el piso del maletero en el hueco de la rueda de repuesto, que por tanto desaparece de esta versión", "El acabado Expression con el que arranca el Hybrid 140 deja el habitáculo en lo justo, con plásticos duros pensados para durar más que para lucir"],
     largoMm: 4547,
     anchoMm: 1784,
     altoMm: 1632,
@@ -1475,12 +1242,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-jogger-hybrid-140-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Jogger Hybrid 140 (5 plazas)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1489,7 +1251,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "-_yq2MHIYYk",
     videoCanal: "SoyMotor",
     marca: "Dacia",
@@ -1505,20 +1267,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "25.950 €: el 7 plazas híbrido más barato",
-      "140 CV con 4,8 l/100 km",
-      "7 plazas reales",
-      "Etiqueta ECO",
-      "506 L con 5 plazas",
-    ],
-    contras: [
-      "10 s de 0-100",
-      "Con 7 plazas el maletero se reduce",
-      "167 km/h de máxima",
-      "1.460 kg",
-      "Tercera fila para niños o justita",
-    ],
+    pros: ["Por 25.950 € ofrece siete plazas y etiqueta ECO en 4.547 mm de largo, una combinación que en un SUV equivalente obliga a saltar a carrocerías más grandes y caras", "El sistema híbrido de 140 CV y 205 Nm homologa 4,8 l/100 km y 107 g/km de CO2, cifras de utilitario para un familiar que puede llevar a siete personas", "Con la tercera fila plegada quedan 506 litros de maletero, volumen suficiente para el equipaje de cinco sin renunciar a llevar las dos plazas extra el resto del año", "Al ser tracción delantera y pesar 1.460 kg, no paga el sobrepeso ni el consumo extra de un SUV 7 plazas con tracción total que la mayoría de familias no necesita"],
+    contras: ["Con las siete plazas desplegadas el maletero cae a 160 litros: caben los ocupantes o sus maletas, pero no ambas cosas en un viaje largo", "Acelera de 0 a 100 km/h en 10,0 segundos y se detiene en 167 km/h, así que con siete personas y equipaje los adelantamientos en secundaria exigen anticipación", "La tercera fila admite adultos de hasta unos 1,80 m, pero con la banqueta baja y las rodillas elevadas, por lo que encaja mejor en trayectos cortos o con adolescentes", "La batería híbrida ocupa el hueco de la rueda de repuesto bajo el piso del maletero, así que esta versión se conforma obligatoriamente con kit antipinchazos"],
     largoMm: 4547,
     anchoMm: 1784,
     altoMm: 1632,
@@ -1556,12 +1306,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-jogger-hybrid-140-7-plazas-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Jogger Hybrid 140 (7 plazas)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {
@@ -1577,7 +1322,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     modelo: "Logan ECO-G 100",
     tipo: "GLP (bifuel gasolina/GLP)",
     categoria: "Berlina",
-    precioDesde: null,
+    precioDesde: 13550, // precio de salida en España (actualidadmotor),
     potenciaCv: 101,
     autonomiaKm: null,
     maleteroL: 528,
@@ -1586,20 +1331,8 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "El GLP más barato del mercado",
-      "101 CV bifuel con etiqueta ECO",
-      "Maletero de 528 L",
-      "6,5 l/100 km de GLP a 0,95 €/l",
-      "186 km/h de máxima",
-    ],
-    contras: [
-      "Precio sin publicar en esta ficha",
-      "0-100 sin publicar en esta ficha",
-      "101 CV: sin alardes",
-      "Interior básico",
-      "Menos estaciones de GLP",
-    ],
+    pros: ["Bifuel de fábrica con 101 CV y 170 Nm y etiqueta ECO: al depósito de gasolina se suma el de GLP, con una autonomía combinada de hasta 1.300 km según la prensa especializada.", "Con 6,5 l/100 km de GLP, el coste en energía sale a unos 6,20 € cada 100 km con el gas a 0,95 €/l, muy por debajo de rodar solo a gasolina.", "Maletero de 528 litros en una berlina de 4.396 mm: más capacidad de carga que la mayoría de utilarios de cinco puertas con los que comparte tamaño.", "Cinco plazas reales y 186 km/h de velocidad máxima: cumple como coche único para commuting diario y viajes largos sin quedarse corto en autovía."],
+    contras: ["Solo 2 estrellas Euro NCAP en 2021, nota compartida con el Sandero Stepway: su frenada autónoma por radar solo reacciona ante vehículos, no ante peatones o ciclistas, y no ofrece ayuda de mantenimiento de carril.", "La versión ECO-G va ligada a cambio manual de seis velocidades, sin opción automática para quien hace mucha ciudad y atasco.", "Los 101 CV mueven bien la berlina en vacío, pero con cinco ocupantes y el maletero de 528 litros lleno los adelantamientos exigen anticipación y bajar de marcha.", "El maletero es grande pero de boca de berlina: cargar bultos voluminosos es menos práctico que en un portón como el del Sandero, y el habitáculo apuesta por materiales duros y equipamiento contenido."],
     largoMm: 4396,
     anchoMm: 1848,
     altoMm: 1501,
@@ -1637,7 +1370,8 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       }
-    ]
+    ],
+    euroncap: {"estrellas": 2, "ano": 2021, "url": "https://news.euroncap.com/safercars/dacia-aims-low-while--koda--vw-electrify/s/67b94981-1dad-416a-9657-ee51e5ae24e3", "nota": null},
   },
   {
     id: "dacia-duster-blue-dci-115-2024-precio-ficha-tecnica",
@@ -1645,7 +1379,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Dacia",
@@ -1712,12 +1446,7 @@ export const COCHES_DACIA: CocheComparador[] = [
         ancho: 1200,
         alto: 800
       },
-      {
-        src: "/media/dacia-duster-blue-dci-115-2024-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Dacia Duster Blue dCi 115 (2024)",
-        ancho: 1200,
-        alto: 800
-      }
+      
     ]
   },
   {

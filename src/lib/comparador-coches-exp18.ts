@@ -251,20 +251,8 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 65.4,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "440 km de autonomía WLTP con 65,4 kWh: de lo mejor del segmento B-SUV eléctrico",
-      "Acabado N Line con estética deportiva y equipamiento completo",
-      "Maletero de 466 litros más 27 de frunk: líder entre los SUV eléctricos compactos",
-      "Carga rápida de 100 kW en corriente continua",
-      "Batería con 8 años o 160.000 km de garantía (70 % de capacidad mínima)",
-    ],
-    contras: [
-      "43.450 €: unos 13.000 € más que el Kona híbrido equivalente",
-      "172 km/h de velocidad máxima, contenida para 204 CV",
-      "Solo tracción delantera: no existe versión 4x4",
-      "El acabado N Line penaliza algo la autonomía frente al Tecno",
-      "Carga de 100 kW, por debajo de los 135 kW de algunos rivales",
-    ],
+    pros: ["El N Line se reconoce sin mirar el distintivo: paragolpes delantero y trasero específicos, faldones laterales, retrovisores en negro brillo y pasos de rueda en el color de la carrocería sobre llantas de 19 pulgadas, un conjunto que el Kona Eléctrico estándar no monta.", "Dentro sigue la misma receta cerrada: asientos deportivos N Line con costuras rojas, volante específico, pedales metálicos y techo interior negro, sin tener que saltar a otro acabado para conseguir ese ambiente.", "Con la batería de 65,4 kWh homologa 440 km WLTP según la ficha y carga a 100 kW en continua, con el paso del 10 al 80 % en unos 41 minutos: la parada de carga no se eterniza en un viaje largo.", "Maletero de 466 litros y otros 27 litros delante, bajo el capó: ese hueco delantero viene muy bien para dejar los cables de carga fuera del maletero principal cuando va lleno hasta arriba.", "Función V2L para alimentar aparatos externos desde la batería de tracción, algo que en un SUV eléctrico de este tamaño todavía no es lo habitual y que los Kona de gasolina o híbrido no pueden ofrecer."],
+    contras: ["Se paga imagen, no prestaciones: por los 43.450 € de la ficha, el N Line mantiene los mismos 204 CV y 255 Nm del Kona Eléctrico corriente, porque Hyundai no toca motor, batería ni chasis en este acabado.", "Las llantas de 19 pulgadas y los paragolpes N Line cobran su peaje en autonomía: los 440 km de esta versión quedan lejos de los hasta 514 km homologados en otras configuraciones del Kona Electric con ruedas más pequeñas.", "Solo hay tracción delantera: con 1.773 kg y aspecto de SUV, no existe opción de tracción total ni siquiera pagando más dentro de la gama eléctrica del Kona.", "La carga rápida se queda en 100 kW y la parada del 10 al 80 % se va a unos 41 minutos: cumple, pero en un eléctrico de 2026 y de este precio ya hay rivales que cargan bastante más rápido."],
     largoMm: 4355,
     anchoMm: 1825,
     altoMm: 1580,
@@ -303,6 +291,7 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la página de posventa de Hyundai, un Hyundai eléctrico como este Kona N Line pasa mantenimiento cada año o cada 15.000 km, lo primero que ocurra; la excepción de dos años o 30.000 km es solo para los IONIQ 5 e IONIQ 6. El detalle de operaciones figura en el pasaporte de servicio del coche y el cuadro de instrumentos avisa de la proximidad de la revisión. El manual del Kona Electric 2024 recomienda además cambiar el líquido de frenos cada dos años. Sin costes oficiales publicados: la cifra de mantenimiento que recoge la ficha es una estimación, no una tarifa de Hyundai.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
   },
   {
     id: "hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica",
@@ -326,20 +315,8 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "Microhibridación de 48 V con etiqueta ECO por 26.716 €",
-      "Motor tricilíndrico turbo de 100 CV y 172 Nm: empuja bien en ciudad",
-      "Maletero de 352 litros, de los mejores del segmento B",
-      "Consumo de 5,2 l/100 km gracias al sistema de 48 V",
-      "Estética N Line sin el sobreprecio de un deportivo",
-    ],
-    contras: [
-      "0-100 en 11,1 s: prestaciones correctas, sin más",
-      "Tres cilindros: vibraciones perceptibles al ralentí",
-      "El i20 ya no es el utilitario barato de antes",
-      "La pantalla de 10,25 pulgadas solo llega en acabados altos",
-      "Plazas traseras justas para adultos altos",
-    ],
+    pros: ["Parrilla negra con patrón de bandera a cuadros, llantas de 17 pulgadas, antiniebla trasero triangular y doble salida de escape cromada: se distingue del i20 normal sin disfrazarse de otra cosa", "El sistema de 48 V le da la etiqueta ECO y deja el consumo declarado en 5,2 l/100 km con 119 g/km de CO2, cifras útiles para moverse por Madrid sin restricciones de un gasolina puro", "Interior con firma propia: asientos deportivos con logotipo N y costuras rojas, volante N de cuero perforado y pedales metálicos, detalles que no lleva ningún otro acabado del i20", "Con 4.075 mm de largo conserva un maletero de 352 litros, así que el acabado deportivo no se paga recortando el equipaje de un utilitario de cinco puertas", "El 1.0 T-GDI de 100 CV y 172 Nm mueve sus 1.165 kg con soltura en ciudad y en incorporaciones, que es donde este N Line va a pasar la mayor parte de su vida"],
+    contras: ["No es un i20 N: comparte mecánica y base con el i20 1.0 T-GDI convencional, y su 0 a 100 km/h en 11,1 segundos deja claro que el salto del N Line es estético, no prestacional", "Por 26.716 € queda lejos del utilitario accesible que fue el i20 en sus primeras generaciones, y la diferencia frente a un i20 MHEV sin este acabado se paga solo por imagen y equipamiento", "El tricilíndrico se deja notar al ralentí y cuando se le exige, con una sonoridad y unas vibraciones que recuerdan que bajo el capó no hay un motor distinto al del resto de la gama", "Las plazas traseras siguen siendo justas para adultos altos en viajes largos, un límite de la carrocería que ni las costuras rojas ni las llantas de 17 pulgadas pueden disimular"],
     largoMm: 4075,
     anchoMm: 1775,
     altoMm: 1455,
@@ -378,6 +355,7 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Hyundai establece como norma general para sus modelos un mantenimiento cada 15.000 km o cada año, lo primero que se cumpla, con aviso de proximidad en el cuadro de instrumentos. Es el intervalo aplicable como referencia a este i20 N Line 1.0 T-GDI 48V; el plan concreto de operaciones de cada revisión lo fija el libro de mantenimiento del coche y la red oficial en función de kilometraje y antigüedad.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
   },
   {
     id: "kia-pv5-2025-precio-ficha-tecnica",
@@ -551,20 +529,8 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: 84,
     cargaRapidaKw: 260,
     etiquetaDgt: "Cero",
-    pros: [
-      "530 km de autonomía WLTP con la batería de 84 kWh",
-      "Carga ultrarrápida de 260 kW: del 10 al 80 % en 18 minutos",
-      "5 estrellas EuroNCAP (2021): 88 % en ocupante adulto",
-      "Maletero de 520 litros más 57 de frunk: el más práctico de su clase",
-      "Estética N Line con llantas de 20 pulgadas sin renunciar a la eficiencia",
-    ],
-    contras: [
-      "54.570 €: el N Line se acerca al precio de la versión AWD de 325 CV",
-      "La batería de 84 kWh pesa: 2.070 kg en vacío",
-      "185 km/h de velocidad máxima, limitada electrónicamente",
-      "El acabado N Line reduce algo la autonomía frente al Light (570 km)",
-      "Pantallas sin Apple CarPlay inalámbrico en las primeras unidades",
-    ],
+    pros: ["Deja la batería al 80 % en unos 18 minutos cuando partes del 10 %, gracias a picos de 260 kW en corriente continua.", "Homologa 530 km WLTP gastando 17,0 kWh cada cien, un equilibrio usable a diario sin recurrir a la versión de tracción total más cara.", "Su batalla de 3.000 mm se traduce en rodillas holgadas atrás y un maletero de 520 litros que traga el equipaje familiar sin trucos.", "El paquete N Line suma paragolpes propios, llantas de 20 pulgadas y asientos deportivos con costuras rojas: se distingue del Ioniq 5 corriente sin pagar el salto al radical N de 650 CV.", "Los 228 CV llegan solo al eje posterior con 350 Nm inmediatos: empuja limpio al salir de cada rotonda y firma 7,5 segundos hasta cien."],
+    contras: ["Los 54.570 € de tarifa lo dejan muy cerca de la variante de tracción total de 325 CV, que resulta difícil de descartar haciendo números fríos.", "Mover 2.070 kg con un solo motor se nota en frenadas largas y cambios de apoyo: no es un coche torpe, pero tampoco ligero de reacciones.", "Elegir este acabado recorta alcance frente a las versiones de 84 kWh con llanta menor, que Hyundai anuncia hasta en 570 km WLTP.", "El disfraz deportivo promete más que los 7,5 segundos hasta cien: su primo Kia EV6 GT-Line, con idénticos 228 CV, marca 7,3 en esa misma medición.", "Con 4,66 metros de largo y 1,89 de ancho llena casi cualquier plaza estándar: aparcarlo a diario en garajes antiguos exige paciencia."],
     largoMm: 4655,
     anchoMm: 1890,
     altoMm: 1605,
@@ -603,6 +569,7 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Hyundai Canarias (web oficial hyundai.com) publica que solo IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica una tarifa cerrada para esta revisión, por lo que no se da coste. Verificado el 22/10/2026", "intervalo": "Cada 2 años o 30.000 km, lo primero que se cumpla (pauta oficial Hyundai específica para IONIQ 5 e IONIQ 6, distinta del año o 15.000 km del resto de la gama)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años o 30.000 km", "queSeCambia": "Inspección programada sin cambio de aceite, porque no hay motor térmico: comprobación del sistema eléctrico y de la batería auxiliar de 12 V, del circuito de refrigeración y de los frenos, cuyo líquido el manual del propietario contempla sustituir dentro del calendario de mantenimiento"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas cada 2 años o 30.000 km adicionales", "queSeCambia": "Repetición de las inspecciones de refrigeración, frenos, sistema eléctrico y estado de la batería, con aviso previo en el cuadro de instrumentos cuando se acerca la visita, según publica Hyundai"}]},
   },
   {
     id: "kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica",
@@ -701,20 +668,8 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "288 CV combinados: el Tucson más potente de la historia",
-      "67 km de autonomía eléctrica WLTP: el día a día sin gastar gasolina",
-      "Etiqueta Cero con 65 g/km de CO₂: exento de impuesto de matriculación",
-      "5 estrellas EuroNCAP (2021): 86 % en ocupante adulto",
-      "Maletero de 558 litros: apenas pierde espacio frente al híbrido",
-    ],
-    contras: [
-      "50.325 €: el PHEV cuesta 7.000 € más que el híbrido N Line",
-      "Sin enchufe en casa, el consumo real se dispara por encima de 8 l/100 km",
-      "1.832 kg: el peso se nota en frenadas y cambios de apoyo",
-      "La batería roba 58 litros de maletero frente al HEV",
-      "Carga en alterna lenta: no admite carga rápida en continua",
-    ],
+    pros: ["Sus 288 CV combinados convierten a esta variante N Line en la más prestacional del Tucson actual, con 380 Nm para incorporaciones y adelantamientos viajando con la familia y el equipaje.", "Los 67 km eléctricos homologados cubren la mayoría de los trayectos laborables entre semana, siempre que el enchufe de casa o del trabajo forme parte de la rutina diaria del propietario.", "A diferencia de otros enchufables que sacrifican mucho volumen, aquí quedan 558 litros útiles para el equipaje familiar sin necesidad de recurrir a un cofre de techo en vacaciones.", "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones y, con 65 g/km homologados, queda exento del impuesto de matriculación en España.", "El habitáculo renovado reúne dos pantallas de 12,3 pulgadas bajo un único cristal y recupera mandos físicos para el climatizador, más seguros de accionar sin apartar la vista."],
+    contras: ["Partir de 50.325 € coloca a este Tucson muy por encima de las versiones híbridas de su propia gama y ya en territorio de SUV enchufables con emblema premium.", "Los 1.832 kg declarados penalizan agilidad y desgaste de neumáticos: en un puerto de montaña manda la prudencia de un SUV pesado, no la ligereza que sugiere el apellido N Line.", "La recarga se limita a corriente alterna de hasta 7,2 kW, sin opción de carga rápida en continua, así que recuperar batería durante un viaje largo resulta poco práctico.", "Quien no lo enchufe a diario arrastrará la batería descargada como lastre permanente, y el gasto de gasolina quedará lejos de los 2,9 l/100 km oficiales pensados para un uso con recargas frecuentes.", "El depósito se queda en 42 litros, una cifra modesta para escapadas largas en modo híbrido que obliga a repostar con más frecuencia de la esperada en un SUV familiar."],
     largoMm: 4510,
     anchoMm: 1865,
     altoMm: 1650,
@@ -753,6 +708,7 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario oficial de Hyundai del Tucson 2025, programa de mantenimiento normal para Europa (ownersmanual.hyundai.com), y norma general publicada por Hyundai Canarias (hyundai.com): mantenimientos cada 15.000 km o un año. Verificado el 22/10/2026. Hyundai España no publica un precio cerrado oficial para las revisiones de esta versión PHEV, por lo que no se citan costes de revisión ni coste anual.", "intervalo": "Cada 15.000 km o 12 meses, lo primero que se cumpla (plan oficial Hyundai para este tren motriz: norma general de la marca para todos sus modelos salvo IONIQ 5 e IONIQ 6, y programa de mantenimiento normal para Europa del manual del Tucson, que fija ese mismo ritmo para el aceite del 1.6 T-GDi)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica de 15.000 km o 12 meses", "queSeCambia": "Aceite del motor Smartstream 1.6 T-GDi y su filtro, sustituidos en cada intervalo según el manual europeo; rotación de neumáticos en ese mismo ritmo e inspección de frenos, suspensión, dirección, sistema de refrigeración y sistemas eléctricos."}, {"costeAproxEur": null, "nombre": "Revisión de 30.000 km o 24 meses", "queSeCambia": "Nueva sustitución de aceite y filtro de motor, sustitución del filtro de aire del habitáculo según la tabla europea, inspección del filtro de aire del motor y comprobación de conductos, mangueras y conexiones de freno y de combustible."}, {"costeAproxEur": null, "nombre": "Revisión de 75.000 km o 60 meses", "queSeCambia": "Sustitución de las bujías del 1.6 T-GDi, que el manual europeo fija en 75.000 km o 60 meses, además de las operaciones periódicas de aceite, filtros e inspecciones. El líquido de la transmisión automática figura en ese manual como sin comprobación ni servicio programado."}]},
   },
   {
     id: "hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica",

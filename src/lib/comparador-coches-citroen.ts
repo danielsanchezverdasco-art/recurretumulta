@@ -95,7 +95,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c3-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c3-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "WPw_42sSssI",
     videoCanal: "Periodismo del Motor",
     marca: "Citroën",
@@ -170,7 +170,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-c3-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C3",
         "ancho": 1920,
         "alto": 1280
@@ -183,7 +183,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "qVZrYgNsgGY",
     videoCanal: "HolyCars TV",
     marca: "Citroën",
@@ -251,7 +251,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C3 Aircross con 7 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -264,7 +264,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "rMGDtIMyNX4",
     videoCanal: "Auto al Día",
     marca: "Citroën",
@@ -332,7 +332,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C4 Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -345,7 +345,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "H83RHzMGF-k",
     videoCanal: "Mecánica Deportiva",
     marca: "Citroën",
@@ -413,7 +413,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C4 X Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -442,20 +442,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "416 km de autonomía WLTP con la batería de 54 kWh (50,8 útiles)",
-      "156 CV y 260 Nm con 0-100 en 9,2 s: el ë-C4 más capaz",
-      "Carga rápida de 100 kW (10-80 % en 30 min) y 11 kW en alterna",
-      "Etiqueta Cero con el mismo maletero (380 L) que el híbrido",
-      "Función V2L: alimenta dispositivos externos con la batería del coche",
-    ],
-    contras: [
-      "Desde 31.390 €: casi 8.000 € más que el C4 Hybrid 136",
-      "150 km/h de velocidad máxima limitada",
-      "14,9 kWh/100 km: eficiente, pero el MG4 gasta menos",
-      "La plataforma CMP nació para combustión: no es un eléctrico nativo",
-      "1.561 kg: se notan en carreteras reviradas",
-    ],
+    pros: ["Sus 416 km WLTP con 54 kWh bastan para escaparse un fin de semana sin planificar cada parada de carga", "Rodar blando y en silencio: su puesta a punto busca confort, justo lo contrario del tacto firme de un MG4", "Admite 100 kW en corriente continua y suma función V2L para alimentar aparatos con la energía de su batería", "Etiqueta Cero de la DGT, con acceso libre a las zonas de bajas emisiones que ya vetan a la combustión", "Conserva 380 litros de maletero y cinco plazas reales aunque la batería ocupa el piso de esta carrocería compacta"],
+    contras: ["Parte de 31.390 euros, un salto de precio considerable frente a las versiones híbridas del propio C4", "Velocidad punta recortada a 150 km/h: en viajes largos por autopista se queda antes sin fuelle que sus rivales", "Esos 1.561 kilos aparecen al frenar fuerte y al enlazar curvas cerradas, pese a contar con 156 CV", "Homologa 14,9 kWh/100 km, registro correcto que eléctricos nativos como el Renault Megane E-Tech igualan o mejoran", "Se conforma con cuatro estrellas Euro NCAP de 2021 en un segmento donde lo habitual ya son cinco"],
     largoMm: 4350,
     anchoMm: 1800,
     altoMm: 1525,
@@ -500,6 +488,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1200
       }
     ],
+    planMantenimiento: {"intervalo": "En el ë-C4 no hay aceite de motor que cambiar: Citroën programa las revisiones de sus eléctricos cada 2 años o al alcanzar el kilometraje máximo previsto, con diagnóstico electrónico, control del aislamiento entre batería y motor, filtro de habitáculo y estado de frenos y neumáticos. La propia ficha estima unos 350 euros al año de mantenimiento medio, cifra orientativa que conviene confirmar en la red oficial antes de firmar.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.citroen.es/posventa/servicios/electrico.html"},
+    euroncap: {"ano": 2021, "estrellas": 4, "nota": "Euro NCAP probó en 2021 el C4 de tercera generación incluyendo la variante eléctrica ë-C4 con el equipamiento de serie: cuatro estrellas, sin alcanzar el umbral de cinco en ocupante adulto, usuarios vulnerables y asistencias; la detección de ciclistas del AEB era opcional y no formaba parte del coche evaluado.", "url": "https://www.euroncap.com/press-media/genesis-marks-european-launch-with-euro-ncap-top-ratings-for-g80-and-gv80/"},
   },
   {
     id: "citroen-e-c4-x-2026-precio-ficha-tecnica",
@@ -507,7 +497,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -575,7 +565,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C4 X",
         "ancho": 1920,
         "alto": 1280
@@ -588,7 +578,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -656,7 +646,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del nuevo Citroën C5 Aircross",
         "ancho": 1920,
         "alto": 1280
@@ -669,7 +659,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -737,7 +727,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross Plug-in Hybrid",
         "ancho": 1920,
         "alto": 1280
@@ -750,7 +740,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -818,7 +808,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 X Hybrid 136",
         "ancho": 1920,
         "alto": 1280
@@ -993,7 +983,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1061,7 +1051,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-Berlingo",
         "ancho": 1920,
         "alto": 1280
@@ -1074,7 +1064,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1142,7 +1132,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 1280
       },
       {
-        "src": "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-SpaceTourer con 8 plazas",
         "ancho": 1920,
         "alto": 1280
@@ -1344,7 +1334,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1412,7 +1402,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross con asientos confort",
         "ancho": 1200,
         "alto": 800
@@ -1425,7 +1415,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1493,7 +1483,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën ë-C5 Aircross",
         "ancho": 1200,
         "alto": 800
@@ -1506,7 +1496,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "2qZxw02whPs",
     videoCanal: "SoyMotor",
     marca: "Citroën",
@@ -1522,20 +1512,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: 21,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "195 CV con etiqueta Cero desde 37.590 €",
-      "Unos 80 km eléctricos: la semana sin gasolina",
-      "7,9 s de 0-100: el C5 Aircross más rápido",
-      "El confort Citroën con 350 Nm",
-      "1.900 € menos que el eléctrico puro",
-    ],
-    contras: [
-      "Sin carga rápida en continua",
-      "Batería de ~21 kWh: justa frente a rivales nuevos",
-      "1.950 kg en orden de marcha",
-      "Cargar a diario es obligatorio para que compense",
-      "El Hybrid 145 cuesta 7.900 € menos",
-    ],
+    pros: ["Con 21 kWh de batería y 86 km WLTP de media —más de 100 km en ciudad según el dossier oficial de Citroën— los trayectos entre semana se cubren en eléctrico y con etiqueta Cero, dejando el depósito de 55 litros solo para las escapadas largas.", "Los 195 CV combinan un 1,6 turbo de 150 CV con un motor eléctrico de 125 CV integrado en la caja eDCS de 7 marchas: hay empuje de sobra para adelantar con este SUV de 4.652 mm cargado hasta arriba, sin pretensiones deportivas.", "La batalla de 2.784 mm, los respaldos traseros reclinables entre 21° y 33° y la suspensión de topes hidráulicos progresivos marcan la diferencia frente a un MG HS o un Peugeot 3008 más firmes: aquí la segunda fila está pensada para llegar descansada.", "Ser enchufable no le roba maletero: mantiene los 565 litros de la ficha, el mismo volumen que el Hybrid 145 y el eléctrico, porque la batería va bajo el piso, en el centro, con garantía de 8 años o 160.000 km hasta el 70 % de capacidad."],
+    contras: ["Olvídate de la carga rápida en continua: con el cargador de serie de 3,7 kW el 0-100 % tarda 5 h 15 min aunque tu wallbox sea de 7,4 kW, y solo baja a 2 h 55 min si pagas el cargador opcional de 7,4 kW.", "Ronda los 1.950 kg en orden de marcha y es solo tracción delantera: con lluvia o en un puerto cargado se nota la masa, y en esta versión no hay alternativa con tracción total a la que recurrir.", "Si no lo enchufas casi a diario, el sobreprecio frente al Hybrid 145 con la misma carrocería no se amortiza: arrastrarás batería y motor eléctrico como peso extra mientras el 1,6 hace el trabajo en autopista.", "Los 37.590 € de portada son precio promocional de lanzamiento en acabado Plus; la tarifa Plus sin descuentos se ha publicado en 39.590 € y el Max en 42.590 €, así que el importe real depende mucho de la campaña vigente."],
     largoMm: 4652,
     anchoMm: 1902,
     altoMm: 1688,
@@ -1574,7 +1552,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 Aircross PHEV",
         "ancho": 1200,
         "alto": 800
@@ -1587,7 +1565,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1655,7 +1633,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c5-x-phev-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C5 X con asientos confort",
         "ancho": 1200,
         "alto": 800
@@ -1668,7 +1646,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1684,20 +1662,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "Furgoneta eléctrica media con 350 km de autonomía",
-      "Hasta 1.000 kg de carga útil y 6,6 m³",
-      "Etiqueta Cero: reparte en ZBE sin restricciones",
-      "Carga rápida de 100 kW",
-      "Coste por km muy inferior al diésel en reparto urbano",
-    ],
-    contras: [
-      "Desde ~42.000 €: el doble que la diésel",
-      "136 CV justos con la furgoneta cargada",
-      "130 km/h limitados",
-      "La autonomía cae mucho con carga y frío",
-      "Red de carga para furgonetas aún escasa",
-    ],
+    pros: ["Nació en 2020 sobre la plataforma EMP2 de PSA, montado en Hordain (Francia) con sus gemelos de Stellantis, y hoy se vende con el cuadro y la pantalla central de 10 pulgadas del modelo actualizado", "Su motor de 136 CV y 260 Nm trabaja con tres programas —Eco de 60 kW, Normal de 80 kW y Power con todo el empuje— para no gastar de más con la caja vacía y responder cuando va llena", "Con 1,89 m de alto, esta talla M entra en aparcamientos subterráneos que una ë-Jumper de 2,52 m ni puede intentar, algo decisivo para repartir en centros urbanos", "La caja llega a 6,6 m³ y la trampilla Moduwork permite colar bultos largos a través del mamparo sin tener que pasar a una talla superior de furgoneta", "Recupera del 20 al 80 % en unos 35 minutos en un poste de 100 kW y, con el cargador embarcado de 11 kW, Citroën cifra la carga completa de esta batería de 75 kWh en 7 horas y media"],
+    contras: ["Cuesta 12.000 € más que la Jumpy BlueHDi 145 diésel de su misma gama, que en esta comparativa arranca en 30.000 €: solo cuadra si la ruta diaria cabe en su autonomía y se carga en la nave", "Los 136 CV solo aparecen en el modo Power: en Normal el motor se queda en 80 kW y en Eco en 60 kW, así que cargada y en Eco la respuesta se nota claramente recortada", "Comparte casi todo con Peugeot e-Expert, Opel Vivaro-e y Fiat E-Scudo, sus hermanas de plataforma: la elección entre ellas se decide por precio y concesionario, no por técnica", "Los 350 km son la cifra WLTP de la batería de 75 kWh; Citroën vende también una de 49 kWh con 226 km, y con carga, frío y autopista la grande se aleja de su homologación, así que las rutas interurbanas largas siguen siendo terreno diésel", "Depender de un poste rápido de 100 kW fuera de la nave obliga a maniobrar una furgoneta de 4.983 mm en cargadores pensados para turismos, y no todos los polígonos tienen un punto propio donde dejarla enchufada de noche"],
     largoMm: 4983,
     anchoMm: 1920,
     altoMm: 1890,
@@ -1711,17 +1677,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     aprox: ["precioDesde", "autonomiaKm", "maleteroL", "ceroCien", "pesoKg", "consumo"],
     imagen: "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 4.41,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1000,
-      "mantenimientoAnual": 500,
-      "costeMensualTotal": 180,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 24,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico; uso profesional ligero",
-      "estimado": true
-    },
+    costeMensual: {"costeEnergia100km": 4.41, "costeMensualTotal": 180, "estimado": true, "mantenimientoAnual": 500, "notas": "Cuenta hecha solo para esta ë-Jumpy de 75 kWh: recorrer 15.000 km al año a los 24,5 kWh/100 km que homologa esta ficha da 4,41 € de luz por cada 100 km si se enchufa en la nave a 0,18 €/kWh. El seguro y los 500 € anuales de taller son la estimación que ya trae la ficha para un uso profesional ligero, no una tarifa cerrada que Citroën publique para flotas.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 1000, "seguroTercerosAnual": 550},
     galeria: [
       {
         "src": "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-oficial.webp",
@@ -1736,12 +1692,14 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-jumpy-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior de cabina del Citroën ë-Jumpy",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"ano": 2025, "estrellas": 4, "nota": "Euro NCAP Commercial Van 2025: 4 estrellas, con 75 % en conducción segura, 52 % en prevención de accidentes y 80 % en seguridad post-accidente. Modelo ensayado: su gemelo Opel Vivaro 2.0 diésel; Euro NCAP declara la nota aplicable al Jumpy fabricado desde julio de 2024", "url": "https://news.euroncap.com/safertrucksandvans/citroen-jumpy-dispatch-euro-ncap-2025-commercial-van-safety-4-stars/s/22ca10aa-bce9-439a-88ae-3d44f8810a9f"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Citroën España para profesionales, página de mantenimiento de vehículos eléctricos profesionales (sin aceite, filtro de aceite, embrague ni escape; certificado de capacidad de batería) e Híbridos y Eléctricos, 15/01/2025 (intervalo bienal de los eléctricos con We Care). Citroën no publica un precio cerrado de revisión para el ë-Jumpy: costes a null", "intervalo": "Cada 2 años, siguiendo el programa programado que Citroën aplica a sus eléctricos desde el plan We Care de 2025; el kilometraje exacto lo fija el libro de mantenimiento de cada ë-Jumpy", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal del ë-Jumpy", "queSeCambia": "No hay aceite de motor, filtro de aceite, embrague ni escape que sustituir: se realiza el diagnóstico electrónico, se comprueba el aislamiento entre el motor eléctrico y la batería de tracción y se revisan frenos, neumáticos y circuito de refrigeración, con certificado de capacidad de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Piezas de desgaste previstas en el mantenimiento de este eléctrico", "queSeCambia": "Pastillas de freno y escobillas limpiaparabrisas solo cuando su desgaste lo pide —Citroën recuerda que los frenos sufren menos por la frenada regenerativa— y renovación del líquido de frenos en el plazo que marque el libro de mantenimiento de la unidad"}]},
   },
   {
     id: "citroen-e-jumper-2026-precio-ficha-tecnica",
@@ -1749,7 +1707,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
     imagenOficial: "/media/citroen-e-jumper-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-e-jumper-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1817,7 +1775,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-e-jumper-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Zona de carga del Citroën ë-Jumper",
         "ancho": 1200,
         "alto": 800
@@ -1830,7 +1788,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Citroën",
@@ -1846,20 +1804,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Desde ~21.000 €: el SUV de 4,39 m más barato",
-      "Maletero de 460 L: enorme para su precio",
-      "1.2 Turbo de 100 CV con cadena: adiós a la correa bañada en aceite",
-      "5,9 l/100 km homologados",
-      "Suspensión confort Citroën de serie",
-    ],
-    contras: [
-      "Etiqueta C: sin hibridación",
-      "100 CV justos: 12,5 s de 0-100",
-      "Acabados básicos en el You de acceso",
-      "El Hybrid 145 solo cuesta ~4.500 € más y tiene ECO",
-      "Plásticos duros generalizados",
-    ],
+    pros: ["Desde unos 21.000 € según la ficha para un SUV de 4.395 mm: en su tamaño y con cinco plazas, es de lo más barato que se puede estrenar sin bajar a un utilitario.", "460 litros de maletero en la versión de cinco plazas: la cifra que marca la ficha supera a la de buena parte de los B-SUV y es el argumento que lo separa de su hermano, el C3 a secas.", "El 1.2 Turbo de esta generación abandona la correa de distribución bañada en aceite que tantos quebraderos dio en los PureTech anteriores y pasa a cadena, con 100 CV y 205 Nm para mover 1.330 kg.", "5,9 l/100 km homologados y 133 g/km de CO2: sin batería ni motor eléctrico de apoyo, el gasto se queda en lo que gastarías con un gasolina pequeño de toda la vida.", "La suspensión de enfoque confort que Citroën monta de serie es su rasgo distintivo frente a rivales más secos de reacciones: en ciudad y en carreteras rotas filtra en vez de rebotar."],
+    contras: ["Etiqueta C de la DGT y nada más: sin hibridación, este 1.2 queda fuera de las ventajas de la ECO justo cuando el Hybrid de la misma gama sí la consigue.", "12,5 segundos de 0 a 100 km/h según la ficha: con cinco ocupantes y el maletero lleno, adelantar en una nacional exige planificación, no un pisotón.", "El acabado You de acceso recorta donde se nota a diario: km77 recoge que ni siquiera incluye pantalla multimedia ni cámara trasera, elementos que el Plus ya incorpora.", "Plásticos duros generalizados en el habitáculo: es el peaje visible de contener el precio, y se nota al tacto en puertas y consola frente a un 2008 o un Captur."],
     largoMm: 4395,
     anchoMm: 1795,
     altoMm: 1633,
@@ -1898,12 +1844,13 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Citroën C3 Aircross",
         "ancho": 1200,
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP para esta generación: a fecha de la consulta, Euro NCAP no ha evaluado el C3 Aircross sobre plataforma Smart Car presentado en 2024, con ninguna de sus motorizaciones. No confundir con las cinco estrellas de su antecesor de 2017, ya expiradas y de otra plataforma, ni con el cero estrellas de Latin NCAP de 2024, que corresponde a la versión brasileña con solo dos airbags y no a la europea que se vende en España."},
   },
   {
     id: "citroen-c3-gasolina-2026-precio-ficha-tecnica",
@@ -1927,20 +1874,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Desde ~16.500 €: de los urbanos más baratos",
-      "Motor 1.2 Turbo con cadena de distribución",
-      "Suspensión Advanced Comfort: baches ni los notas",
-      "4,01 m: aparca en cualquier sitio",
-      "5,6 l/100 km homologados",
-    ],
-    contras: [
-      "Etiqueta C",
-      "Maletero de 310 L: justo",
-      "100 CV sin brillo: 11 s de 0-100",
-      "El Hybrid 110 con ECO solo cuesta ~3.000 € más",
-      "Interior muy básico en el acabado You",
-    ],
+    pros: ["Con 4,01 m de largo y la postura de conducción sobreelevada, se cuela y aparca donde un C3 Aircross ya obliga a dar otra vuelta a la manzana.", "La suspensión Citroën Advanced Comfort con topes hidráulicos progresivos viene de serie también en el acabado básico You, algo que ningún rival de este precio ofrece de entrada.", "Este 1.2 Turbo de 100 CV ya no usa la correa bañada en aceite de los PureTech anteriores: la distribución es por cadena, el punto que más miedo daba al comprar un tres cilindros de Stellantis.", "Homologa 5,6 l/100 km y 126 g/km de CO2 con 205 Nm de par, suficiente para moverse con soltura en ciudad sin disparar la factura de gasolina.", "Desde 16.500 € según esta ficha, queda por debajo de la mayoría de utilitarios generalistas con motor turbo y cambio manual de seis marchas."],
+    contras: ["Los 100 CV se notan justos fuera de la ciudad: 11 segundos de 0 a 100 km/h y adelantamientos en nacional que hay que preparar con tiempo, sobre todo cargado.", "El maletero se queda en 310 litros y la boca de carga no es especialmente baja, así que una silla de paseo grande o dos maletas rígidas ya lo llenan.", "Lleva etiqueta C de la DGT: por unos 3.000 € más, el C3 Hybrid de esta misma gama consigue la ECO y ventajas reales en zonas de bajas emisiones.", "El acabado You prescinde de la pantalla central de 10,25 pulgadas y lo fía todo a la Smartphone Station con tu móvil, y los plásticos del salpicadero son duros al tacto."],
     largoMm: 4015,
     anchoMm: 1755,
     altoMm: 1577,
@@ -1985,6 +1920,8 @@ export const COCHES_CITROEN: CocheComparador[] = [
         "alto": 800
       },
     ],
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP para esta generación europea del C3 (presentada en 2023): a fecha de esta revisión no consta ensayo de choque Euro NCAP publicado en euroncap.com para el modelo. No debe aplicársele el resultado de 4 estrellas de 2017, que corresponde a la generación anterior, ni los resultados de Latin NCAP o Global NCAP de versiones de otros mercados."},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Citroën articula el mantenimiento de sus térmicos en intervenciones anuales en la red oficial: su programa Citroën Tranquilidad, vigente desde abril de 2024, se renueva con cada mantenimiento satisfactorio por 1 año o 20.000 km, lo que antes suceda. En este 1.2 la distribución por cadena elimina el cambio periódico de correa de los PureTech anteriores, pero no el cambio anual de aceite y filtros ni la revisión de frenos, líquidos y neumáticos; el intervalo exacto de tu unidad manda en su guía de mantenimiento y garantías.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Stellantis Media España, nota «Hasta 10 años zen con Citroën Tranquilidad» (programa desde el 1 de abril de 2024, renovación 1 año o 20.000 km tras cada mantenimiento en red oficial)"},
   },
   {
     id: "citroen-jumpy-diesel-2026-precio-ficha-tecnica",

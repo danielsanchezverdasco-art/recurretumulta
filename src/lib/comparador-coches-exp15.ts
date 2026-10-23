@@ -323,8 +323,8 @@ export const COCHES_EXP15: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-gr-sport-2025-precio-ficha-tecnica",
-    garantiaBateriaAnos: null,
-    garantiaBateriaKm: null,
+    garantiaBateriaAnos: 5,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/toyota-c-hr-gr-sport-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
@@ -370,17 +370,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     aprox: [],
     imagen: "/media/toyota-c-hr-gr-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 8.1,
-      seguroTercerosAnual: 500,
-      seguroAmpliadoAnual: 900,
-      mantenimientoAnual: 400,
-      costeMensualTotal: 210,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 4,9 l/100 km a 1,65 €/l; seguro y mantenimiento estimados para un SUV compacto en España",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 8.1, "costeMensualTotal": 210, "estimado": true, "mantenimientoAnual": 400, "notas": "Estimación para el GR Sport Premiere Edition de 197 CV recorriendo 15.000 km al año: gasolina a 1,65 €/l sobre los 4,9 l/100 km WLTP homologados por esta versión; pólizas y revisiones anuales valoradas para un C-HR de silueta coupé en España", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 500},
     galeria: [
       {
         src: "/media/toyota-c-hr-gr-sport-2025-precio-ficha-tecnica-hero.webp",
@@ -396,6 +386,8 @@ export const COCHES_EXP15: CocheComparador[] = [
       },
     ],
     analisisSlug: "toyota-c-hr-gr-sport-2025-precio-ficha-tecnica",
+    euroncap: {"ano": 2024, "estrellas": 5, "nota": "Euro NCAP 2024: 85 % en ocupante adulto, 86 % en ocupante infantil, 86 % en usuarios vulnerables y 79 % en asistencias a la seguridad; la calificación cubre la variante 2.0 Hybrid de tracción delantera de este GR Sport", "url": "https://www.euroncap.com/en/results/toyota/c-hr/51098"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Toyota España: mantenimiento cada 15.000 km o una vez al año, con cambio de aceite y filtros, revisión de frenos y comprobación general en la red oficial", "intervalo": "Una revisión al año o cada 15.000 km, según lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión intermedia / 15.000 km", "queSeCambia": "Aceite del motor 2.0 Hybrid y su filtro, con inspección general del vehículo, niveles y chequeo del sistema híbrido"}, {"costeAproxEur": null, "nombre": "Revisión principal / 30.000 km", "queSeCambia": "Aceite y filtro de aceite, filtro de aire del motor, filtro de polen del habitáculo y renovación del líquido de frenos, además del chequeo híbrido de la batería"}]},
   },
   {
     id: "toyota-proace-verso-electric-2025-precio-ficha-tecnica",
@@ -485,20 +477,8 @@ export const COCHES_EXP15: CocheComparador[] = [
     bateriaKwh: 111,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
-    pros: [
-      "420 km WLTP con batería de 111 kWh: la furgoneta eléctrica con más autonomía",
-      "272 CV y 410 Nm: mueve hasta 1.460 kg de carga útil sin despeinarse",
-      "Carga rápida de 150 kW en CC",
-      "Hasta 17 m³ de volumen de carga en las versiones largas",
-      "Etiqueta Cero: reparto urbano sin restricciones",
-    ],
-    contras: [
-      "Desde 67.500 €: el doble que la diésel equivalente",
-      "26,2 kWh/100 km de consumo: la autonomía cae cargada a tope",
-      "Hasta 6,36 m de largo: solo para profesionales",
-      "Interior 100 % funcional, sin concesiones al confort",
-      "Red de carga rápida para furgonetas aún escasa en ruta",
-    ],
+    pros: ["Sus 420 km WLTP dan para jornadas completas de reparto interurbano volviendo a base, el uso para el que nació esta versión eléctrica", "El motor de 272 CV y 410 Nm mueve los 1.460 kg de carga útil y la caja de hasta 17 m³ sin quedarse sin empuje en incorporaciones", "En continua deja la batería al 80 % en unos 55 minutos a 150 kW, y en alterna el cargador de 11 kW de a bordo la llena durante la noche en la nave", "Cinco estrellas en el programa de furgonetas comerciales de Euro NCAP de 2025, nota heredada de la prueba de su gemelo FIAT E-Ducato", "Toyota Relax puede estirar la cobertura del vehículo hasta los 250.000 km o los 15 años si las revisiones se hacen en la red oficial, y la batería va cubierta 8 años o 160.000 km"],
+    contras: ["Desde 67.500 € de arranque: el desembolso solo se compensa con kilometrajes anuales altos que aprovechen el menor coste por kilómetro eléctrico", "Con emblemas Toyota va un producto Stellantis: comparte caja, motor y batería con FIAT E-Ducato, Peugeot e-Boxer, Citroën ë-Jumper y Opel Movano Electric, así que la compra se decide por red y garantía, no por el vehículo", "Los 26,2 kWh/100 km son el dato homologado; a plena carga y ritmo de autovía el gasto sube y los 420 km anunciados se recortan de forma sensible", "La carrocería larga llega a 6,36 m y la alta a 2,76 m: queda fuera de casi todos los garajes y aparcamientos subterráneos urbanos", "La cabina delata la veteranía de la plataforma Sevel, con mandos de ergonomía irregular ya señalada en las pruebas británicas: puesto de trabajo funcional, sin refinamiento de turismo"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -512,17 +492,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     aprox: ["bateriaKwh"],
     imagen: "/media/toyota-proace-max-electric-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 4.7,
-      seguroTercerosAnual: 550,
-      seguroAmpliadoAnual: 1000,
-      mantenimientoAnual: 600,
-      costeMensualTotal: 192,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 26,2 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados para una furgoneta eléctrica de trabajo en España",
-      estimado: true,
-    },
+    costeMensual: {"costeEnergia100km": 4.7, "costeMensualTotal": 192, "estimado": true, "mantenimientoAnual": 600, "notas": "Cálculo referido solo a esta Max eléctrica: con 15.000 km al año y el consumo homologado de 26,2 kWh/100 km, cargar a 0,18 €/kWh sale a 4,7 € cada cien kilómetros. Seguro y partida anual de mantenimiento son estimaciones de explotación para una furgoneta grande de reparto en España, no tarifas cerradas publicadas por Toyota.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 1000, "seguroTercerosAnual": 550},
     galeria: [
       {
         src: "/media/toyota-proace-max-electric-2025-precio-ficha-tecnica-hero.webp",
@@ -538,6 +508,8 @@ export const COCHES_EXP15: CocheComparador[] = [
       },
     ],
     analisisSlug: "toyota-proace-max-electric-2025-precio-ficha-tecnica",
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Resultado de 2025 en el programa Commercial Van Safety: cinco estrellas, con 78 % en conducción segura, 64 % en prevención de colisiones y 80 % en seguridad tras el accidente. Euro NCAP ensayó a su gemelo de plataforma, el FIAT E-Ducato, y aplica la nota al Proace Max fabricado desde julio de 2024; no es la prueba de choque de turismos.", "url": "https://news.euroncap.com/safertrucksandvans/choose-a-vehicle/toyota-proace-max---euro-ncap-2025-commercial-van-safety---5-stars/s/308b75c5-30ed-4f19-ab87-604db9d1a463"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Intervalo del Proace Max según Carwow UK (revisiones cada 2 años o 30.000 millas) y el carnet de mantenimiento oficial de Peugeot para la plataforma Boxer (48.000 km o 2 años). Toyota España no publica precios cerrados de revisión para el Proace Max: costes en null.", "intervalo": "Revisión cada 48.000 km, sin pasar más de dos años entre visitas al taller", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada / 48.000 km o 2 años", "queSeCambia": "Inspección general con diagnosis electrónica, sustitución del filtro del habitáculo y control de frenos, neumáticos, suspensión, dirección y del sistema de tracción y la batería de alto voltaje; al ser eléctrica no hay aceite de motor, filtro de aceite ni AdBlue que sustituir"}, {"costeAproxEur": null, "nombre": "Revisión programada / 96.000 km o 4 años", "queSeCambia": "Las operaciones de la revisión anterior más la sustitución del líquido de frenos, cuyo cambio cada dos años fija el plan de mantenimiento de la plataforma Sevel que este modelo comparte con Ducato, Boxer y Jumper"}]},
   },
   {
     id: "toyota-corolla-gr-sport-2025-precio-ficha-tecnica",
@@ -628,7 +600,7 @@ export const COCHES_EXP15: CocheComparador[] = [
     modelo: "LBX Morizo RR",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: null, // No se comercializa en España: Lexus España solo ofrece la gama LBX híbrida de 136 CV
     potenciaCv: 304,
     autonomiaKm: null,
     maleteroL: null,

@@ -632,7 +632,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -674,7 +674,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 142,
     aprox: [],
-    imagen: "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 10.08,
@@ -689,18 +689,8 @@ export const COCHES_EXP16: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      {
-        src: "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Mazda MX-5 RF 1.5 2026 rojo soul, tres cuartos delantero con techo cerrado",
-        ancho: 1920,
-        alto: 1280,
-      },
-      {
-        src: "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Mazda MX-5 RF 2026, vista lateral en puerto de montaña",
-        ancho: 1920,
-        alto: 1280,
-      },
+      
+      
     ],
     analisisSlug: "mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica",
   },

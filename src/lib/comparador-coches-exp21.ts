@@ -48,6 +48,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M3 Competition Touring", ancho: 2240, alto: 1120 },
+      { src: "/media/bmw-m3-competition-touring-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M3 Competition Touring", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "bmw-m3-competition-touring-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -108,6 +112,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/bmw-x3-m50-xdrive-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-x3-m50-xdrive-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-x3-m50-xdrive-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW X3 M50 xDrive", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-x3-m50-xdrive-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW X3 M50 xDrive", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "bmw-x3-m50-xdrive-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -168,6 +176,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/bmw-x6-xdrive40d-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-x6-xdrive40d-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-x6-xdrive40d-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW X6 xDrive40d", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-x6-xdrive40d-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW X6 xDrive40d", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "bmw-x6-xdrive40d-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -228,6 +240,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M340i xDrive", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-m340i-xdrive-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M340i xDrive", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "bmw-m340i-xdrive-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -288,6 +304,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/bmw-m5-touring-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/bmw-m5-touring-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/bmw-m5-touring-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M5 Touring", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-m5-touring-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M5 Touring", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "bmw-m5-touring-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -348,6 +368,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG C 43 4MATIC", ancho: 1920, alto: 1280 },
+      { src: "/media/mercedes-benz-amg-c-43-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG C 43 4MATIC", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "mercedes-benz-amg-c-43-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -408,6 +432,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/mercedes-benz-clase-e-200-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-clase-e-200-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-benz-clase-e-200-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz Clase E 200", ancho: 1920, alto: 1280 },
+      { src: "/media/mercedes-benz-clase-e-200-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz Clase E 200", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "mercedes-benz-clase-e-200-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -468,6 +496,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/mercedes-benz-gle-300-d-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-gle-300-d-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-benz-gle-300-d-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz GLE 300 d 4MATIC", ancho: 1920, alto: 1280 },
+      { src: "/media/mercedes-benz-gle-300-d-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz GLE 300 d 4MATIC", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "mercedes-benz-gle-300-d-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -528,6 +560,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/mercedes-benz-amg-a-35-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-amg-a-35-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-benz-amg-a-35-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz AMG A 35 4MATIC", ancho: 1920, alto: 1280 },
+      { src: "/media/mercedes-benz-amg-a-35-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz AMG A 35 4MATIC", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "mercedes-benz-amg-a-35-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -588,6 +624,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/mercedes-benz-clase-s-450-d-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/mercedes-benz-clase-s-450-d-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/mercedes-benz-clase-s-450-d-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mercedes-Benz Clase S 450 d Largo", ancho: 2736, alto: 912 },
+      { src: "/media/mercedes-benz-clase-s-450-d-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Mercedes-Benz Clase S 450 d Largo", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "mercedes-benz-clase-s-450-d-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -648,6 +688,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/audi-a6-berlina-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-a6-berlina-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-a6-berlina-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi A6 Berlina 2.0 TDI", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-a6-berlina-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi A6 Berlina 2.0 TDI", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "audi-a6-berlina-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -708,6 +752,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/audi-rs-q3-sportback-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-rs-q3-sportback-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-rs-q3-sportback-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS Q3 Sportback", ancho: 1600, alto: 1067 },
+      { src: "/media/audi-rs-q3-sportback-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS Q3 Sportback", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "audi-rs-q3-sportback-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -753,21 +801,15 @@ export const COCHES_EXP21: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: [],
-    pros: [
-      "599 km de autonomía WLTP",
-      "Carga de 270 kW: 10-80 % en 21 minutos",
-      "517 CV con 0-100 en 4,3 s",
-      "5 estrellas EuroNCAP del Q6 e-tron (2024)",
-    ],
-    contras: [
-      "96.960 € de precio",
-      "2.425 kg de peso",
-      "Maletero de 499 litros, justo para su tamaño",
-      "Red de carga ultrarrápida aún limitada",
-    ],
+    pros: ["Su arquitectura PPE de 800 voltios admite picos de 270 kW, así que una parada breve en un cargador potente devuelve muchos kilómetros para seguir viajando sin rutinas largas de enchufe.", "Con 517 CV y 855 Nm repartidos entre ambos ejes, este SUV coupé acelera con contundencia y mantiene tracción quattro eléctrica también saliendo despacio sobre firme mojado o roto.", "Homologa 599 kilómetros WLTP con la batería de 100 kWh: cifra alta para un S de este peso, que permite enlazar jornadas largas sin convertir cada desplazamiento en ejercicio de planificación.", "La familia Q6 logró en EuroNCAP 2024 un 92 % protegiendo a menores, mejor marca infantil de su año, además de tres plazas i-Size poco habituales entre SUV premium.", "Frente a la berlina S6 e-tron, conserva postura elevada, portón amplio y capacidad de remolque de 2.400 kilos según Audi, sumando una silueta Sportback 37 milímetros más baja que el Q6 SUV."],
+    contras: ["Arranca en 96.960 euros antes de opciones: queda lejos del Q6 Sportback quattro y obliga a justificar el sobreprecio solo por prestaciones, porque equipamiento y batería comparten base con hermanos más baratos.", "Pesa 2.425 kilos según la ficha, lastre que se nota al frenar fuerte, al cambiar apoyos y en el desgaste esperable de unos neumáticos anchos de 21 pulgadas.", "El maletero se queda en 499 litros y la caída coupé recorta altura útil trasera: para bultos altos o perros grandes, el Q6 SUV e-tron convencional resulta bastante más agradecido.", "Su alcance de 599 kilómetros queda por debajo de los 662 del S6 e-tron y de los 656 del Q6 Sportback performance, pese a compartir batería grande: es el peaje de potencia y aerodinámica S.", "Mide 1.965 milímetros de ancho y 4.771 de largo, así que garajes antiguos, calles estrechas y aparcamientos justos exigen cautela constante; tampoco ayuda una luneta trasera tendida de visibilidad reducida."],
     imagen: "/media/audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi SQ6 Sportback e-tron", ancho: 1600, alto: 1067 },
+      { src: "/media/audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi SQ6 Sportback e-tron", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -783,6 +825,7 @@ export const COCHES_EXP21: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año y recarga doméstica a 0,24 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
+    planMantenimiento: {"intervalo": "Según Audi España, los eléctricos pasan inspección cada dos años o 30.000 kilómetros, repetida a los cuatro años o 60.000 kilómetros. La visita comprueba estanqueidad de la refrigeración, grosor de pastillas, alumbrado, presiones y escobillas, pudiendo sustituir filtro de polen y líquido de frenos según estado. La ficha estima 420 euros anuales de mantenimiento, cifra orientativa no oficial.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/electricos/"},
   },
   {
     id: "audi-s6-e-tron-2025-precio-ficha-tecnica",
@@ -813,21 +856,15 @@ export const COCHES_EXP21: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: [],
-    pros: [
-      "662 km de autonomía: récord del segmento",
-      "551 CV con 0-100 en 3,9 s",
-      "Carga rápida de 270 kW",
-      "5 estrellas EuroNCAP del A6 e-tron (2025)",
-    ],
-    contras: [
-      "104.380 € de precio",
-      "2.400 kg de peso",
-      "El S6 de gasolina desaparece",
-      "Maletero de 502 litros",
-    ],
+    pros: ["Homologa 662 kilómetros con una sola carga, una cifra inhabitual en una berlina eléctrica que al mismo tiempo declara 551 CV y tracción total permanente.", "Sus dos motores suman 855 Nm y catapultan esta carrocería Sportback hasta los 100 km/h en apenas 3,9 segundos, con la velocidad punta fijada en 240 km/h.", "La arquitectura PPE de 800 voltios admite picos de 270 kW en corriente continua, así que en ruta las paradas dependen más del cargador disponible que del propio coche.", "Declara 16,1 kWh cada cien kilómetros según la ficha, una contención notable si se recuerdan sus 2.400 kilos y que viene acompañada de la etiqueta Cero de la DGT.", "La batería queda cubierta durante ocho años o 160.000 kilómetros, un respaldo relevante en un modelo cuyo paquete alcanza los 100 kWh de capacidad bruta."],
+    contras: ["Partir de 104.380 euros lo coloca en precio de berlina de representación, antes incluso de sumar cualquier paquete opcional de la lista de extras de Audi.", "Los 2.400 kilos se dejan notar donde más duele en un S: en el desgaste de neumáticos y frenos y en los cambios rápidos de apoyo.", "El maletero se queda en 502 litros, un volumen justo para una carrocería de 4.928 milímetros que pretende servir como único coche familiar de cinco plazas.", "En esta generación ya no queda un S6 térmico al que agarrarse: quien valore el sonido o el ritual de repostar un V8 tendrá que mirar fuera de esta ficha.", "Su pico de 270 kW solo aparece en cargadores HPC compatibles con la arquitectura de 800 voltios; fuera de esa red ideal, la ventaja de la plataforma PPE se diluye en cada parada."],
     imagen: "/media/audi-s6-e-tron-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-s6-e-tron-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-s6-e-tron-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi S6 Sportback e-tron", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-s6-e-tron-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi S6 Sportback e-tron", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "audi-s6-e-tron-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
@@ -843,6 +880,7 @@ export const COCHES_EXP21: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año y recarga doméstica a 0,24 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
+    planMantenimiento: {"intervalo": "Audi España prescribe para sus eléctricos una inspección cada dos años en Servicio Oficial. En este S6 la primera, a los dos años o 30.000 km, puede exigir filtro de polvo y polen y líquido de frenos; a los cuatro años o 60.000 km se repiten ambos trabajos. Sin aceite de motor que sustituir, la ficha estima 420 euros anuales de mantenimiento orientativo.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/electricos/"},
   },
   {
     id: "audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica",
@@ -888,6 +926,10 @@ export const COCHES_EXP21: CocheComparador[] = [
     imagen: "/media/audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
+    galeria: [
+      { src: "/media/audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi Q3 Sportback 35 TFSI", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q3 Sportback 35 TFSI", ancho: 1600, alto: 1067 }
+    ],
     analisisSlug: "audi-q3-sportback-35-tfsi-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,

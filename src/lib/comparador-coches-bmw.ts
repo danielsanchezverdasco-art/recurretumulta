@@ -95,7 +95,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -178,12 +178,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 2 Gran Coupé, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -289,7 +284,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -356,12 +351,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-3-330e-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 3 330e con menú híbrido",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -548,7 +538,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -615,12 +605,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-serie-5-530e-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW Serie 5 530e con autonomía eléctrica",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -710,7 +695,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -793,12 +778,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-ix1-xdrive30-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW iX1 xDrive30, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -807,7 +787,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -874,12 +854,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-ix2-xdrive30-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW iX2 xDrive30, asientos deportivos",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -904,20 +879,8 @@ export const COCHES_BMW: CocheComparador[] = [
     bateriaKwh: 108,
     cargaRapidaKw: 400,
     etiquetaDgt: "Cero",
-    pros: [
-      "805 km de autonomía WLTP: el BMW eléctrico con más autonomía jamás homologado",
-      "Carga ultrarrápida de 400 kW: 10-80 % en 21 minutos",
-      "Primera Neue Klasse: plataforma 800 V y eficiencia récord (15,1 kWh/100 km)",
-      "469 CV y 0-100 en 4,9 s con tracción total inteligente",
-      "69.900 €: autonomía de lujo por menos que un iX",
-    ],
-    contras: [
-      "Modelo totalmente nuevo: fiabilidad a largo plazo por demostrar",
-      "Plataforma nueva: la red de recambios y talleres aún se está adaptando",
-      "Diseño rompedor que no gustará a los bmwistas clásicos",
-      "Dimensiones y maletero aún sin cifras oficiales publicadas",
-      "Las versiones más baratas (40) tardarán en llegar",
-    ],
+    pros: ["Su batería neta de 108,7 kWh y un consumo homologado de solo 15,1 kWh/100 km explican los 805 km WLTP, la referencia entre los SUV eléctricos premium", "Conectado a un cargador capaz de entregar 400 kW pasa del 10 al 80 % en 21 minutos, y en unos diez minutos suma alrededor de 350 km de alcance", "Dos motores suman 469 CV y 645 Nm, con el trasero de 362 CV llevando la voz cantante; el sprint hasta 100 km/h queda por debajo de cinco segundos", "Estrena el Panoramic iDrive: la información se proyecta en la base del parabrisas, sin cuadro tras el volante, junto a una pantalla central de 17,9 pulgadas", "En España arranca en 69.900 €, con los acabados de serie, M Sport y M Sport Pro, este último ya desde 77.302 €"],
+    contras: ["Lo estrena todo a la vez —plataforma Neue Klasse, celdas cilíndricas, electrónica y software—, así que esta generación aún no tiene historial de averías que consultar", "Hoy la gama española es una sola versión: quien quiera un iX3 más barato, con batería menor o de tracción trasera tendrá que esperar a que BMW la amplíe", "La batería grande se paga en la báscula: alrededor de 2,3 toneladas que se notarán en neumáticos y en agilidad a ritmo alegre", "El salto de cabina es radical: desaparece la instrumentación clásica tras el volante —la información pasa a la proyección en la base del parabrisas— y buena parte de las funciones de confort se gobierna desde la pantalla central, con su periodo de aprendizaje", "El precio de 69.900 € es solo el punto de partida: entre acabados M Sport y opciones, la factura se acerca sin esfuerzo a los ochenta mil euros"],
     largoMm: 4780,
     anchoMm: null,
     altoMm: null,
@@ -933,31 +896,9 @@ export const COCHES_BMW: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/bmw/ix3/informacion",
     opiniones: [],
-    costeMensual: {
-      costeEnergia100km: 2.7,
-      seguroTercerosAnual: 600,
-      seguroAmpliadoAnual: 1100,
-      mantenimientoAnual: 380,
-      costeMensualTotal: 157,
-      precioKwh: 0.18,
-      precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 15,1 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
-      estimado: true
-    },
-    euroncap: {
-      estrellas: 5,
-      ano: 2026,
-      url: null,
-      nota: "Prueba del BMW iX3 (Neue Klasse), 2026",
-    },
-    planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
-      revisiones: [
-        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "BMW (sistema Condition Based Service)",
-    },
+    costeMensual: {"costeEnergia100km": 2.7, "costeMensualTotal": 157, "estimado": true, "mantenimientoAnual": 380, "notas": "Cálculo propio para 15.000 km al año cargando en casa a 0,18 €/kWh: con un gasto homologado de 15,1 kWh/100 km salen unos 2,72 € cada 100 km; quien dependa de la carga pública rápida pagará bastante más por kilómetro recorrido.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1100, "seguroTercerosAnual": 600},
+    euroncap: {"ano": 2026, "estrellas": 5, "nota": "Cinco estrellas en la primera aplicación de los protocolos EuroNCAP 2026: 73 % en conducción segura, 83 % en evitación de colisiones, 86 % en protección en el choque y 95 % en seguridad post-accidente", "url": "https://www.euroncap.com/press-media/a-new-benchmark-for-vehicle-safety-bmw-and-zeekr-secure-five-stars-under-euro-ncap-s-new-tests/"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "BMW (programa de mantenimiento para vehículos eléctricos BEV y sistema Condition Based Service)", "intervalo": "Sin cambios de aceite, porque es un eléctrico puro: el iX3 trabaja con el sistema CBS de BMW, que avisa de cada servicio según el uso real y el tiempo transcurrido", "revisiones": [{"costeAproxEur": null, "nombre": "Chequeo del vehículo eléctrico según CBS", "queSeCambia": "Inspección conforme a las directrices de BMW para sus eléctricos: estado de la batería de alta tensión, frenos, neumáticos y electrónica, con sustitución del microfiltro del habitáculo cuando corresponde"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos en la cita que marque el propio CBS, un servicio periódico también en los BMW sin motor de combustión"}]},
     galeria: [
       {
         src: "/media/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica-oficial.webp",
@@ -1422,7 +1363,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "BMW",
@@ -1505,12 +1446,7 @@ export const COCHES_BMW: CocheComparador[] = [
         ancho: 2048,
         alto: 1152
       },
-      {
-        src: "/media/bmw-x3-20-xdrive-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del BMW X3 20 xDrive, pantalla curva",
-        ancho: 2048,
-        alto: 1152
-      }
+      
     ],
   },
   {
@@ -1780,7 +1716,7 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "uOslscXvod0",
     videoCanal: "Centímetros Cúbicos",
     marca: "BMW",
@@ -1848,7 +1784,7 @@ export const COCHES_BMW: CocheComparador[] = [
         "alto": 800
       },
       {
-        "src": "/media/bmw-m5-berlina-2026-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior deportivo del BMW M5 Berlina con pantalla curva",
         "ancho": 1200,
         "alto": 800
@@ -1879,20 +1815,8 @@ export const COCHES_BMW: CocheComparador[] = [
     bateriaKwh: 82.6,
     cargaRapidaKw: 300,
     etiquetaDgt: "Cero",
-    pros: [
-      "637 km WLTP: la mayor autonomía de un BMW eléctrico",
-      "Carga de 300 kW: del 10 al 80 % en unos 21 minutos",
-      "Primera Neue Klasse: plataforma de 800 V",
-      "320 CV y 500 Nm con tracción trasera",
-      "Etiqueta Cero y acceso libre a todas las ZBE",
-    ],
-    contras: [
-      "Precio en España aún sin confirmar",
-      "200 km/h de velocidad máxima",
-      "Maletero sin cifra oficial publicada",
-      "Pocos cargadores de 300 kW en España",
-      "Diseño rompedor que no gustará a todos",
-    ],
+    pros: ["Hasta 637 km WLTP con la batería útil de 82,6 kWh: la versión de acceso supera los 600 km sin pasar por el enchufe", "Arquitectura de 800 V con carga a 300 kW: BMW anuncia unos 300 km recuperados en 10 minutos", "Motor EESM trasero de 320 CV y 500 Nm con rotor bobinado alimentado externamente; el 0-100 km/h lo cierra en 5,9 s", "Desde 63.650 € en España: la misma carrocería Neue Klasse del 50 xDrive por 6.250 € menos", "Maletero de 520 litros y otros 58 litros extra bajo el capó delantero"],
+    contras: ["Solo propulsión trasera: la tracción total xDrive obliga a subir al iX3 50 de 69.900 €", "2.085 kg en vacío: ni la versión ligera de la Neue Klasse escapa del peso de la batería", "El acabado M Sport dispara el precio hasta 67.977 €", "El asistente de voz en español llega después por OTA: en el lanzamiento funciona en alemán", "Precio anunciado como aproximado y entregas a partir del verano de 2026: toca esperar para comprarlo"],
     largoMm: 4782,
     anchoMm: 1895,
     altoMm: 1635,
@@ -1906,31 +1830,9 @@ export const COCHES_BMW: CocheComparador[] = [
     aprox: [],
     imagen: "/media/bmw-ix3-40-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {
-      "costeEnergia100km": 2.9,
-      "seguroTercerosAnual": 550,
-      "seguroAmpliadoAnual": 1400,
-      "mantenimientoAnual": 300,
-      "costeMensualTotal": 178,
-      "precioKwh": 0.18,
-      "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y consumo estimado 16 kWh/100 km × 0,18 €/kWh; precio de venta aún no confirmado en España",
-      "estimado": true
-    },
-    euroncap: {
-      estrellas: 5,
-      ano: 2026,
-      url: "https://www.press.bmwgroup.com/spain/article/attachment/T0459194ES/652029",
-      nota: "5 estrellas EuroNCAP (2026) del BMW iX3 (Neue Klasse), uno de los primeros evaluados con el nuevo protocolo.",
-    },
-    planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
-      revisiones: [
-        { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "BMW (sistema Condition Based Service)",
-    },
+    costeMensual: {"costeEnergia100km": 2.9, "seguroTercerosAnual": 550, "seguroAmpliadoAnual": 1400, "mantenimientoAnual": 300, "costeMensualTotal": 178, "precioKwh": 0.18, "precioGasolinaL": 1.6, "notas": "Tabulación para 15.000 km al año con este iX3 40: electricidad doméstica a 0,18 €/kWh para la batería de 82,6 kWh, seguro de SUV premium de 320 CV y mantenimiento de eléctrico puro, sin aceite ni correas; no incluye la compra desde 63.650 €.", "estimado": true},
+    euroncap: {"estrellas": 5, "ano": 2026, "url": "https://www.euroncap.com/press-media/a-new-benchmark-for-vehicle-safety-bmw-and-zeekr-secure-five-stars-under-euro-ncap-s-new-tests/", "nota": "Cinco estrellas en el estreno del protocolo EuroNCAP 2026, con cuatro fases nuevas; la unidad ensayada fue un iX3 50 xDrive (73 % en conducción segura, 83 % en evitación, 86 % en protección y 95 % tras el impacto) sobre la misma carrocería Neue Klasse de este 40."},
+    planMantenimiento: {"intervalo": "Sin cambios de aceite ni intervalos fijos por kilometraje: en el iX3 40 manda el CBS de BMW, que vigila el desgaste real y avisa en el cuadro y en la app My BMW; las tareas ligadas al tiempo, como el líquido de frenos o el microfiltro, vencen por antigüedad aunque se ruede poco", "revisiones": [{"nombre": "Inspección del vehículo que pida el CBS", "queSeCambia": "Chequeo de frenos, neumáticos, suspensión, dirección y alumbrado, más diagnosis del sistema de alto voltaje y de la batería de 82,6 kWh; al ser eléctrico puro no lleva aceite de motor, bujías ni correa de distribución", "costeAproxEur": null}, {"nombre": "Líquido de frenos y microfiltro por antigüedad", "queSeCambia": "Sustitución del líquido de frenos y del microfiltro de carbón activado del climatizador cuando el CBS los dé por vencidos por tiempo, no por kilómetros", "costeAproxEur": null}, {"nombre": "Frenos y neumáticos traseros", "queSeCambia": "Pastillas y discos de desgaste lento gracias a la frenada regenerativa del eDrive Gen6, y neumáticos traseros que soportan los 500 Nm del motor EESM: se revisan dibujo, presión y alineado", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "BMW: Condition Based Service (CBS) y manual del vehículo; tareas por tiempo según el sistema de mantenimiento BMW"},
     galeria: [
       {
         "src": "/media/bmw-ix3-40-2026-precio-ficha-tecnica-hero.webp",

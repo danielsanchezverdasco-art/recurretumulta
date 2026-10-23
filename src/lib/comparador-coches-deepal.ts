@@ -15,7 +15,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/deepal-s05-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/deepal-s05-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+    imagenInteriorOficial: "",
     videoId: "3RL03XWPaFQ",
     videoCanal: "SoyMotor",
     marca: "Deepal",
@@ -90,13 +90,13 @@ export const COCHES_DEEPAL: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/deepal-s05-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Deepal S05 eléctrico, vista trasera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/deepal-s05-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Deepal S05 con pantalla giratoria",
         "ancho": 1920,
         "alto": 1280
@@ -109,7 +109,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/deepal-s05-awd-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+    imagenInteriorOficial: "",
     videoId: "CUr2UtrYtzc",
     videoCanal: "testcoches (Carlos Glez)",
     marca: "Deepal",
@@ -184,13 +184,13 @@ export const COCHES_DEEPAL: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Deepal S05 AWD, vista trasera en carretera",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/deepal-s05-awd-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Deepal S05 AWD con HUD",
         "ancho": 1920,
         "alto": 1280
@@ -203,7 +203,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/deepal-s05-phev-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+    imagenInteriorOficial: "",
     videoId: "6ONt5gNo2Yk",
     videoCanal: "TOP DRIVERS",
     marca: "Deepal",
@@ -272,13 +272,13 @@ export const COCHES_DEEPAL: CocheComparador[] = [
         "alto": 1120
       },
       {
-        "src": "/media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial-2.webp",
+        "src": "",
         "alt": "Deepal S05 PHEV, vista trasera con portón abierto",
         "ancho": 1920,
         "alto": 1280
       },
       {
-        "src": "/media/deepal-s05-phev-2026-precio-ficha-tecnica-interior-oficial-2.webp",
+        "src": "",
         "alt": "Interior del Deepal S05 PHEV, plazas traseras",
         "ancho": 1920,
         "alto": 1280

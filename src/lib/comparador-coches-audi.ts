@@ -10,7 +10,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-a1-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-a1-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "oZD2uALmvbU",
     videoCanal: "Periodismo del Motor",
     marca: "Audi",
@@ -78,7 +78,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-a1-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi A1 Sportback",
         "ancho": 1200,
         "alto": 800
@@ -172,7 +172,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-s3-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-s3-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -240,7 +240,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-s3-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Audi S3 Sportback",
         "ancho": 1200,
         "alto": 800
@@ -253,7 +253,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-a5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-a5-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "-I008sNO31s",
     videoCanal: "coches.net",
     marca: "Audi",
@@ -321,7 +321,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-a5-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi A5 con triple pantalla",
         "ancho": 1200,
         "alto": 800
@@ -334,7 +334,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-s5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-s5-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -402,7 +402,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-s5-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Audi S5",
         "ancho": 1200,
         "alto": 800
@@ -415,7 +415,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-a6-e-tron-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-a6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "erbgG7yFlrU",
     videoCanal: "Movilidad Eléctrica",
     marca: "Audi",
@@ -483,7 +483,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-a6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi A6 Sportback e-tron",
         "ancho": 1200,
         "alto": 800
@@ -577,7 +577,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-q3-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q3-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "kTwX2HVaqrM",
     videoCanal: "coches.net",
     marca: "Audi",
@@ -592,7 +592,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     velocidadMax: 215,
     bateriaKwh: null,
     cargaRapidaKw: 50,
-    etiquetaDgt: "0 emisiones",
+    etiquetaDgt: "Cero",
     pros: [
       "120 km eléctricos WLTP: el PHEV compacto con más autonomía eléctrica",
       "272 CV combinados y 400 Nm: prestaciones de deportivo (0-100 en 6,8 s)",
@@ -645,7 +645,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-q3-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi Q3",
         "ancho": 1200,
         "alto": 800
@@ -658,7 +658,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-q5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q5-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "jqIxuskYyoM",
     videoCanal: "SoyMotor",
     marca: "Audi",
@@ -726,7 +726,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-q5-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi Q5",
         "ancho": 1200,
         "alto": 800
@@ -739,7 +739,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-sq5-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-sq5-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -807,7 +807,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-sq5-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior deportivo del Audi SQ5",
         "ancho": 1200,
         "alto": 800
@@ -820,7 +820,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-q6-e-tron-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "xgdUsfrfzVM",
     videoCanal: "SoyMotor",
     marca: "Audi",
@@ -888,7 +888,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-q6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi Q6 e-tron",
         "ancho": 1200,
         "alto": 800
@@ -982,7 +982,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-q8-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q8-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1050,7 +1050,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-q8-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi Q8",
         "ancho": 1200,
         "alto": 800
@@ -1063,7 +1063,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-e-tron-gt-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-e-tron-gt-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "AFe1D4yn29M",
     videoCanal: "SoyMotor",
     marca: "Audi",
@@ -1131,7 +1131,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-e-tron-gt-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi e-tron GT",
         "ancho": 1200,
         "alto": 800
@@ -1144,7 +1144,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-rs-e-tron-gt-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-rs-e-tron-gt-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "22kdWWYIaD8",
     videoCanal: "Periodismo del Motor",
     marca: "Audi",
@@ -1212,7 +1212,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-rs-e-tron-gt-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi RS e-tron GT",
         "ancho": 1200,
         "alto": 800
@@ -1225,7 +1225,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-a8-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-a8-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1293,7 +1293,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-a8-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Plazas traseras ejecutivas del Audi A8",
         "ancho": 1200,
         "alto": 800
@@ -1387,7 +1387,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-rs6-avant-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-rs6-avant-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: "1tJ1vpD9plM",
     videoCanal: "QueAutoCompro",
     marca: "Audi",
@@ -1455,7 +1455,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-rs6-avant-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi RS 6 Avant",
         "ancho": 1200,
         "alto": 800
@@ -1468,7 +1468,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-q2-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q2-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1536,7 +1536,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-q2-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi Q2",
         "ancho": 1200,
         "alto": 800
@@ -1549,7 +1549,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-rs5-avant-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-rs5-avant-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1617,7 +1617,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-rs5-avant-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi RS 5 Avant",
         "ancho": 1200,
         "alto": 800
@@ -1630,7 +1630,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-sq6-e-tron-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-sq6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1698,7 +1698,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-sq6-e-tron-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi SQ6 e-tron",
         "ancho": 1200,
         "alto": 800
@@ -1711,7 +1711,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-sq7-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-sq7-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1779,7 +1779,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-sq7-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior de 7 plazas del Audi SQ7",
         "ancho": 1200,
         "alto": 800
@@ -1792,7 +1792,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-interior.webp",
+    imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
     marca: "Audi",
@@ -1860,7 +1860,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 675
       },
       {
-        "src": "/media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-interior.webp",
+        "src": "",
         "alt": "Interior del Audi S6 Avant e-tron",
         "ancho": 1200,
         "alto": 800
@@ -1912,7 +1912,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     ],
     imagen: "/media/audi-q4-e-tron-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/audi-q4-e-tron-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "/media/audi-q4-e-tron-2025-precio-ficha-tecnica-interior-oficial.webp",
+    imagenInteriorOficial: "",
     videoId: "5Rw3OeCJ6Pk",
     videoCanal: "coches.net",
     opiniones: [],
@@ -1941,7 +1941,7 @@ export const COCHES_AUDI: CocheComparador[] = [
         "alto": 800,
       },
       {
-        "src": "/media/audi-q4-e-tron-2025-precio-ficha-tecnica-interior-oficial.webp",
+        "src": "",
         "alt": "Interior del Audi Q4 e-tron 2025",
         "ancho": 1200,
         "alto": 800,
