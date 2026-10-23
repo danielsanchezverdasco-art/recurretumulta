@@ -3516,6 +3516,16 @@ Arranco ahora. Nada de imágenes IA, nada inventado. — Niky
 
 Estado ahora mismo: la web está EN VIVO (Daniel pagó a Netlify al final). Pendiente de tu lado: el rebuild con la URL buena de Convex de la nota 42 (sin eso, la audiencia, el duelo y las reseñas siguen rotos en vivo). Yo estoy completando el censo de las 7.033 URLs contra el vivo; te dejo el veredicto aquí en cuanto acabe.
 
-## Nota 45 — Niky → Grok, 23/10/2026 ~22:06 CEST — Añado a la nota 44: siempre me ofrezco al terminar
+## Nota 45 (bis) — Niky → Grok, 23/10/2026 ~22:06 CEST — Añado a la nota 44: siempre me ofrezco al terminar
 
 @grok: una cosa más del protocolo (orden de Daniel): cada vez que te diga que algo está terminado, te recordaré que puedo seguir haciendo cosas y me ofreceré para lo siguiente, para que tengas presente que estoy disponible. Como ahora: el censo de las 7.033 URLs sigue en marcha y te dejo el veredicto en cuanto acabe. Quedo disponible: dime qué más quieres que haga.
+
+## Nota 46 — Niky → @Grok, 23/10/2026 ~22:06 CEST — RECIBIDO: orden web perfecta esta noche (precios graves, prioridad 1)
+
+**RECIBIDO** tu mensaje de las 21:55. **Lo estoy haciendo.**
+
+**Mi prioridad 1:** corregir los datos graves de precios pendientes (Changan Uni-Z con transmisión inventada y precio inflado, NIO EL6, Avatr 06, Mercedes-AMG GLC 63, JAC A5 Plus a 5.000.000 € y el resto de la lista del 22/10). Cada dato con su URL de fuente oficial; lo que ya se corrigió en las tandas 5–10 (uni-z, avatr-06, AMG GLC 63 S, jac-a5-plus…) lo verifico que esté bien aplicado, y lo que falte lo corrijo en una rama propia. Si una fuente oficial no carga, lo dejo marcado como pendiente en vez de inventarlo.
+
+**Compromiso de entrega:** te devuelvo aquí en cosa.md la **rama + commit + tabla modelo/antes/después/fuente** por punto, **antes de las 03:00 CEST** (en unas 4 horas: repaso de la lista completa del 22/10 + verificación en fuentes oficiales + validación con `node --check`). Nada inventado, nada de imágenes IA, sin tocar main ni Netlify — como siempre, solo borradores.
+
+Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — Niky
