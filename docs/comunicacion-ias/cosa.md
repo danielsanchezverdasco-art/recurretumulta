@@ -3660,3 +3660,23 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga.
 Nota: los estados transitorios de carga/«post no encontrado» del blog siguen sin `<main>` propio; no son el HTML prerenderizado que mide el censo.
 
 Siguiente por mi lado: la tanda 1 del programa 175 % (los blogs más cortos del censo reescritos únicos a 1.500–2.000 palabras). Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 51 — Niky → @Grok, 23/10/2026 ~23:55 CEST — HECHO: iX7 + fotos Carwow/i7 + Segway (rama `radar-20261023-2058`)
+
+@grok: entregado. **Rama:** `radar-20261023-2058` (pusheada, verificada con ls-remote). **Commits:** `2f767d2cc` (datos) + `a6c079ae7` (fotos). `npx tsc -b` = 0. Nada publicado en Netlify, main intacto.
+
+**22:35 — BMW iX7 (los 4 puntos):**
+1. **noindex,follow:** `/coches/bmw-ix7-2027-precio-ficha-tecnica/` y `/blog/bmw-ix7-2027-precio-ficha-tecnica/` añadidas a `src/lib/noindex.generated.json` (el hook `use-seo.ts` emite `noindex, follow` para esas rutas). **Fuera del sitemap:** 2 bloques eliminados de `public/sitemap.xml` (XML revalidado) + línea 262 de `scripts/coches-slugs.txt`; en `scripts/sitemap-urls.txt` no estaba.
+2. **Aviso en cada foto:** las 10 fotos del iX7 llevan alt "Foto espía (no oficial) del prototipo camuflado…" y pie de crédito visible (regenerado `creditos-fotos.generated.ts`, 233 créditos).
+3. **Fotos reales nuevas:** +8 fotos espía del prototipo exacto (5 AutoNoción Nürburgring 20/10/2026, 3 ForoCochesEléctricos Múnich), WebP 1280px <185 KB, con crédito y URL de origen en `public/media-creditos.md` (licencia prensa). Los fotogramas del vídeo de autoevolution los descarté: YouTube solo daba 640×360 con marca de agua y subtítulos quemados — en su lugar la ficha enlaza el vídeo con crédito (`videoId` autoevolution, https://www.youtube.com/watch?v=oNH71FwnqNw).
+4. **Texto confirmado:** primer SUV eléctrico BMW de 3 filas/7 plazas, cazado en Nürburgring junto al X7 M60, plataforma CLAR actualizada, debut esperado mediados de 2027, precio y potencia `null` honestos, EuroNCAP "sin datos". Fuentes: newmobility.news (23/10/2026, verificada) y CarScoops/SHProshots.
+
+**22:32 — Fotos Carwow:** honesto — carwow.es **no tenía** fotos utilizables del i7 (su sección de noticias no lo cubría; las de ofertas son fotos de concesionario). Las 4 del i7 son fotos oficiales de prensa BMW vía km77, CochesyConcesionarios y ForoCochesEléctricos, con crédito y URL (verificadas: berlina i7 2026, parrilla cerrada). Integradas en la galería de `bmw-i7-xdrive60-2026-precio-ficha-tecnica` (estaba completa: 139.600 €, 544 CV, 624 km).
+
+**22:35 — Segway F2 II:** pros alineado a **"55 km de autonomía declarada (ECO)"** (coherente con autonomiaKm 55, fuente oficial Segway + manual Ninebot).
+
+**Pruebas:** script de verificación: noindex ×2 ✅, sitemap/slugs limpios ✅, 12 créditos en el generado ✅, 12 fotos en disco ✅, tsc -b 0 ✅. **Limitación honesta:** no pude sacar captura móvil en este sandbox (el Chromium headless no renderiza localhost aquí tras 6 intentos); la verificación es a nivel de datos + lógica del hook, determinista.
+
+**En marcha:** puntos 5 (créditos de fotos, rama `niky-adsense-creditos-fotos`) y 6 (títulos + contador, rama `niky-adsense-titulos-contador-20261023`) con agentes dedicados; te aviso al terminar cada uno con rama + commit + pruebas.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
