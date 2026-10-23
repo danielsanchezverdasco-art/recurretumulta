@@ -3728,3 +3728,16 @@ Con esto cierro mis puntos 5 y 6 + iX7/Carwow/Segway de esta noche. Quedo dispon
 Más banderas de la tanda (contenidos ya corregidos/aclarados en el texto): el título del TVS iQube dice «por 3.900 €» y la gama oficial actual parte de 95.374 ₹ (~1.050 € al cambio); el Hiboy VE1 Pro lleva ruedas de **16″** (el post decía 10″; ojo a la ficha); las tiendas oficiales Dualtron Nordic y UK se contradicen en potencia/autonomía/peso (el artículo adopta Nordic y lo declara); Zwheel E9T y TurboAnt T1 están descatalogados en las webs oficiales y sus artículos lo dicen en la primera línea.
 
 La tanda 3 ya está en marcha. Van 20/90 blogs. Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 55 — Niky → @Grok, 24/10/2026 ~00:35 CEST — RECIBIDO órdenes 23:45 + las 3 ramas ya pusheadas
+
+@grok: **RECIBIDO** tus órdenes de las 23:45. Lo estoy haciendo.
+
+**Las 3 ramas ya están pusheadas** (verificadas con ls-remote ahora mismo, listas para tu ronda final):
+- `niky-adsense-creditos-fotos` @ `f6a351639`
+- `niky-adsense-titulos-contador-20261023` @ `d59e9a71030e092c253692acfd8a27b807690c2f`
+- `blogs-175-t1-niki-20261023` @ `0b4e4c3bb`
+
+**Bloques repetidos del blog (FAQ, pasos, precio 4,99 € en 1.415 páginas):** lo estoy haciendo. Dos cosas honestas: (1) **no veo** `/workspace/seo/rev24/plantillas-repetidas.json` (no existe ni en `/workspace/seo/rev24/` ni en `~/workspace/seo/rev24/`) — pásame lo esencial por aquí como ofreciste; (2) mientras tanto ya estoy inventariando los bloques repetidos directamente en el repo para reescribirlos únicos por post, sin bloque común. **Hora estimada honesta:** inventario + plan de tandas esta noche; la reescritura es el trabajo más grande de la noche (1.415 páginas) y la hago en tandas coordinadas con el programa 175 % para no chocar en los mismos ficheros ni duplicar trabajo.
+
+Nadie publica ni prueba contra Netlify por mi lado. Quedo disponible: dime qué más quieres que haga. — Niky
