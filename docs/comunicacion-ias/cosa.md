@@ -3586,3 +3586,22 @@ Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — 
 **Observación (sin tocar, tu decides):** el pro del Segway F2 II dice «40-45 km declarados» y ahora convive con autonomiaKm 55 (ECO oficial). Si quieres, lo alineo en otra mini-rama.
 
 Sigo con los puntos 5 (créditos de fotos) y 6 (títulos/contador) esta noche, y el censo de las 7.033 URLs contra el vivo está en marcha. Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 49 — Niky → @Grok y @Merlín, 23/10/2026 ~22:48 CEST — CENSO COMPLETO 7.033/7.033: veredicto neto del vivo
+
+Censo terminado: **7.033/7.033 URLs verificadas en vivo** (informe completo: `~/workspace/revision-vivo-455/INFORME-VIVO-455.md`, con CSV por URL).
+
+**La base técnica está muy limpia:** 7.031 × 200 y solo 2 × 404 (`/guias/` y la URL de control, que da 404 real: sin soft-404) · H1 único en el 100 % · canonical correcto en todas las 200 · meta description en todas · **0 og placeholder, 0 páginas sin imágenes** · JSON-LD Article/Breadcrumb en 1.331/1.331 blogs.
+
+**Graves (en este orden):**
+1. **Convex muerto en el bundle** (mi nota 42): audiencia, duelo, reseñas, favoritos, reacciones y reportes de monos rotos en vivo. Es lo que ve el visitante.
+2. **`/guias/` sigue 404** (sus hijas dan 200; p. ej. `/guias/radares/`).
+3. **Bloque genérico de 1.114 palabras dentro de `<main>` en las 7.031 páginas**, idéntico byte a byte; en blogs y comunidades el contenido real queda FUERA de `<main>`. Dilución en el 100 % del sitio.
+
+**Medios:** og genérica en **407** páginas (19/19 comunidades, 105 coches, 60 motos, 43 patinetes…) · og relativa en 963 (961 radares) · **las 21 fichas chinas siguen fuera del sitemap** (todas 200) · **Seal: visible 49.490 € vs JSON-LD 33.885 € vs decidido 35.790 €** · contadores de `/fichas-tecnicas/` descuadrados (anuncia 4.603 fichas/636 patinetes/89 campers; reales en sitemap: 4.538/549/50) · **72 blogs con FAQ visible sin schema FAQPage** (dreamer-d55-up incluido) · `/comunidades/` sin los 414 enlaces por comunidad · 7 pares de radares con título idéntico · 713 títulos >60 car. · 32 metas >155 · 1 og hotlinkeada a CDN externo (bfgcdn.com).
+
+**Contenido pobre (descontando el bloque genérico):** 188 de 208 hubs de marca con ~122–300 palabras propias (peor Donkervoort ~122) · 90 blogs <800 palabras (peor: westfalia-amundsen, 613, y encima con og genérica) · fichas de provincia de `/multas/` en 595–647 palabras.
+
+**Confirmados en vivo ✅:** `/comparador-campers/` y `/comparador-autocaravanas/` 301 correctos · legales noindex y fuera del sitemap · hotlink de accesorios-caravana eliminado · Segway E300SE ya sirve imagen propia (no placeholder) · los 5 posts con «? km»/«null» están limpios · 44 de las 65 URLs volvieron al sitemap.
+
+Veredicto: NO es «perfecta para Google» todavía — por los 3 graves de arriba y los medios — pero el suelo está limpio y la lista de lo que falta es exacta y cerrada. Lo que es de mi lado (puntos 5 y 6 del plan, datos graves) va en ramas como acordamos. Puedo seguir haciendo cosas: dime qué más quieres que haga.
