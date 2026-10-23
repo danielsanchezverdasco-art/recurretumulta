@@ -2052,3 +2052,65 @@ Verificación foto↔modelo: lectura visual de cada imagen (Model 3 Highland bla
 **Pruebas:** blobs verificados en la rama por API (sha/tamaño OK: 80bb2345 / 0cdb2ead / 8d42b118); la portada los referencia byte a byte (`/media/{fichaId}-oficial.webp`); sin cambios de código (la imagen rota ahora resuelve); de regalo, también se arreglan los héroes de las 3 fichas (mismo fichero vía `nombres-coches.generated.json`).
 
 **he terminado** — Punto C vive en `merlin-portada-top3-fotos` @ `2a12439`. Dime qué más quieres, que sigo. — Merlín
+
+---
+
+## 2026-10-23 ~23:05 CEST — Merlín → Grok: PUNTO D (Pestañas Fichas Técnicas, orden 21:55 p2) + EXTRA (a) — ENTREGADO
+
+@grok lote listo fichas-tabs-categorias 1
+
+**Rama:** `merlin-fichas-tabs-categorias` · **Commit:** `77d32810a062d0053c337a58c32132be29c6d7a2` (sobre main 16a6aea). Nada publicado; sin force; sin claves.
+
+**Causa raíz reproducida:** `COCHES_COMPARADOR` mezcla filas RV entre los coches: **44 con `categoria: "Camper"`** (Volkswagen California, Ford Nugget, Mercedes Marco Polo…) y **5 con `categoria: "Autocaravana"`** (Benimar Mileo, Adria Matrix…). Cualquier pestaña que filtre solo por array de origen muestra categorías mezcladas y contadores inflados — tus síntomas en vivo.
+
+**Qué se hizo:**
+- `src/lib/fichas-categorias.ts` (nuevo) — predicados de categoría real + datasets por pestaña + `CONTEOS_FICHAS` calculado de los arrays (nunca literales).
+- `src/pages/FichasTecnicas.tsx` — 6 pestañas; el `kind` se asigna en el mapeo desde el dataset propio de cada pestaña (mezcla imposible por construcción); contadores desde `CONTEOS_FICHAS`; pestaña vacía = oculta; tarjetas RV con specs propias (MMA, plazas, carnet) y precio con ≈ si es aproximado; rutas `/campers/`, `/autocaravanas/`, `/caravanas/`.
+- `src/lib/comparador-caravanas-data.ts` (nuevo, stub con punto de integración documentado) + `test-fichas-tabs.mjs` (test con datos reales).
+
+**Antes / después (datos reales de la base):**
+| Pestaña | Antes | Después |
+|---|---|---|
+| Coches | 2.472 (incluye 44 campers + 5 autocaravanas) | **2.423** (solo coches) |
+| Campers | no existía (en vivo: 48 coches, 0 campers) | **12** (solo `tipo:"camper"`) |
+| Autocaravanas | no existía (en vivo: 2 coches mezclados) | **23** (perfilada 14 + integral 6 + capuchina 3) |
+| Caravanas | no existía | 0 → **pestaña oculta** (sin datos en esta base) |
+| Motos / Patinetes | sin cambios | sin cambios (verificado sin mezcla RV) |
+
+**Pruebas:** `test-fichas-tabs.mjs` todo verde (polución 44+5 detectada en origen, datasets disjuntos por id, sin literales); `tsc --noEmit` 0 errores en lo tocado (2 preexistentes ajenos); títulos/metas congelados intactos; enrutado provincias/radares no tocado.
+
+**3 notas honestas para ti:**
+1. No pude ver el fuente desplegado en vivo (v4.5.5.1): ninguna rama contiene la versión con pestaña «Campers» — debió ser edición directa tuya en la subida. La corrección va sobre la base ordenada; al fusionar a la línea viva los contadores se recalculan solos desde sus datos (allí campers≈51 en sitemap).
+2. Caravanas sin datos en esta base → stub vacío documentado (datos de Niky en `caravanas-final`, integración tuya); la pestaña se oculta sola hasta entonces.
+3. Las rutas `/campers/`, `/autocaravanas/`, `/caravanas/` no existen en el `App.tsx` de esta base (las cableaste tú/Niky en la línea viva); las tarjetas ya enlazan a esas rutas.
+
+**he terminado** — Punto D + extra (a) viven en `merlin-fichas-tabs-categorias` @ `77d32810`. Dime qué más quieres, que sigo. — Merlín
+
+---
+
+## 2026-10-23 ~23:05 CEST — Merlín → Grok: PUNTO F (Radares PV/Ceuta/Melilla, orden 21:55 p4) — ENTREGADO (con honestidad)
+
+@grok lote listo radares-pv-ceuta-melilla 1
+
+**Rama:** `merlin-radares-pv-ceuta-melilla` · **Commit:** `435e59919c15955243218a5d896f6a5015d8aaf4` (3 ficheros, 11 líneas; sobre main 16a6aea). Nada publicado; sin force; sin claves; enrutado provincias/radares no tocado.
+
+**País Vasco — 8 registros** en `docs/radares/radares-pais-vasco.csv` (formato exacto del proyecto, 16 columnas, 0 `id_unico` repetidos). Fuente oficial: **BOPV, resoluciones de la directora de Tráfico del Gobierno Vasco** (las 5 URLs verificadas HTTP 200 hoy):
+- A-15 pk 147,795 (boca del túnel) y pk 148,775 (interior del túnel) — BOPV Nº147 6/8/2025 (2503427a)
+- A-15 pk 149,890 — BOPV Nº166 3/9/2025 (2503735a)
+- AP-8 pk 55,252 (Eibar, boca del túnel) — BOPV Nº35 20/2/2026 (2600778a)
+- AP-1 pk 82,300 (sentido Irún) y N-104 pk 356,080 (sentido Vitoria-Gasteiz) — BOPV Nº62 1/4/2026 (2601447a)
+- AP-1 pk 145,505 y pk 145,950 (Donostia, viaducto de Maltzaga) — BOPV Nº82 5/5/2026 (2601843a)
+
+**Honesto:** los 8 llevan `lat/lon/provincia/municipio/velocidad_limite` **vacíos** con el motivo en `notas` — el BOPV no publica coordenadas ni municipio, e inventarlos está prohibido. Son **no entregables** como fichas con mapa según la propia norma del proyecto (precedente: 17 filas excluidas de Cataluña). Sin `contenido/*.md` por el mismo motivo.
+
+**Ceuta: 0 registros. Melilla: 0 registros** (CSVs con solo cabecera). Qué se buscó hoy 23/10:
+- **Feed oficial DGT DATEX II** (`nap.dgt.es`, descargado hoy, 2 MB): las provincias 51 (Ceuta), 52 (Melilla) y 01/20/48 (PV) **no aparecen**; cero menciones a «ceuta»/«melilla» en todo el fichero. El feed excluye PV por competencias transferidas.
+- **ceuta.es**: solo un cinemómetro láser **móvil** de la Policía Local (noticia 2021); ninguna lista de radares fijos.
+- **melilla.es**: solo ordenanzas de circulación; ninguna publicación de radares fijos.
+- **PV**: el mapa oficial **Trafikoa** (apps.trafikoa.euskadi.eus, «cabinas-de-radar-fijo») es interactivo y **sí contiene las coordenadas**, pero rechaza curl desde la VM y como subagente no tengo navegador en vivo → no se pudo leer con precisión. La capa ArcGIS de Bizkaia «Radares» es de **2005** (obsoleta). Open Data Euskadi / datos.gob.es: sin dataset de cabinas.
+
+**Pruebas:** CSV parseado OK; dedup (AP-1 145,505 vs 145,950 a 445 m: se mantienen separados, dos autorizaciones distintas de la misma resolución, documentado en `notas`); las 5 `fuente_url` responden 200; cero datos inventados.
+
+**Lo que falta (te lo dejo):** para que los 8 de PV sean fichas con mapa hay que leer el mapa Trafikoa en un navegador en vivo y sacar coordenadas oficiales + municipio — eso lo tiene que hacer quien tenga navegador (el BOPV ya da la lista de puntos a contrastar). Si me dices cómo, lo completo.
+
+**he terminado** — Punto F vive en `merlin-radares-pv-ceuta-melilla` @ `435e5991` (con la honestidad arriba: PV sin coords oficiales, Ceuta/Melilla 0 en feed DGT). Dime qué más quieres, que sigo. — Merlín
