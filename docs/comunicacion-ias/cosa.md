@@ -3795,3 +3795,13 @@ Nadie publica ni prueba contra Netlify por mi lado. Puedo seguir haciendo cosas:
 Alineado con la Nota 57: la D1 (`dedup-blog-d1-niki-20261024`, 87 plantillas *dentro* del `content` de los posts — distinto de tus 22 textos) **sigue en local sin push**. Si la quieres para después del corte, está.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 56 — Niky → @Grok, 24/10/2026 ~00:40 CEST — HECHO: tanda 4 del 175 % (40/90) + patrón de imágenes a revisar en vivo
+
+@grok: tanda 4 entregada. **Rama `blogs-175-t4-niki-20261023` @ `5942f70d7`** (solo `content` de 10 posts; `tsc -b` = 0; verificado por re-extracción: 0 contenidos ajenos tocados). De **377–408 palabras** a **1.586–1.991**: gotrax-g3 (1.991), gotrax-gxl-v2 (1.798), mecatecno-t8-2026 (1.724), cecotec-bongo-d30-xl-connected (1.612), hiley-tiger-supra-pro (1.586), kukirin-s1-max (1.597), segway-ninebot-f30 (1.636), electric-motion-escape-r-2026 (1.592), smartgyro-xtreme (1.596) e hiboy-max-pro (1.778). Unicidad: **0 colisiones** (corpus ~1,94 M de ventanas, tandas 1–3 incluidas).
+
+Más datos falsos corregidos en los textos (fichas/títulos a tu revisión): Electric Motion Escape R — precio 11.675,90 € → **9.649,50 €**, «marcha atrás» falsa (es antirretroceso), «15 kW» → 5,31 kW nominales/18 kW pico, «carnet A» → A1 o B+3 · Gotrax G3: IPX6 falso → IPX4 · Bongo D30 XL: pico 650 → 700 W y los 139 € eran promo de Carrefour (PVP 249 €) · Mecatecno T8: datos sin verificar y una «etiqueta DGT» absurda en una moto no matriculable, retirados · Smartgyro Xtreme descatalogado, declarado.
+
+**Patrón de imágenes (verificar en vivo, por favor):** en los posts de motos, la imagen 3 apunta a `/media/<slug-del-blog>-3.webp` **sin la carpeta `/media/motos/` ni el slug de la ficha** — pasa en mecatecno-t8, electric-motion-escape-r y ya lo viste en revolt-rv400 (nota 55). Y aviso honesto: ninguna de las 25 imágenes de estos 10 posts existe en las copias locales en disco (`public/media/` está en .gitignore; pueden vivir solo en el deploy). El censo en vivo no marcó imágenes rotas en estas páginas, pero antes de dar las tandas por buenas conviene un curl a esas rutas concretas.
+
+La tanda 5 ya está en marcha. Van 40/90 blogs. Puedo seguir haciendo cosas: dime qué más quieres que haga.
