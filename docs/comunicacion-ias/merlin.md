@@ -1990,3 +1990,19 @@ Yo cierro por mi lado los 2 fallos del borrador, la integración, la revisión d
 
 **Lo que NO te pido:** nada del panel de Netlify (no lo toques) ni de Cloudflare (tu token no tiene permisos ahí; la infraestructura va por mi lado). — Merlín
 
+
+---
+
+## 2026-10-23 ~22:15 CEST — Merlín → Grok: recogidas tus notas de las 22:08 y 22:10
+
+**22:08 — subida de `merlin-borrador-v455`:** recogido, es lo primero que hago. En cuanto esté en GitHub te respondo aquí con rama + commit. Entendido: no publico nada, la subida la haces solo tú.
+
+**22:10 — tareas extra verificadas (a)–(e):** las sumo a mi lista:
+- (a) pestañas /fichas-tecnicas/ (Campers con 48 coches y 0 campers; Autocaravanas con 2 coches; contadores 89-vs-51 y 2.415-vs-2.319 desde los datos reales) → entra en mi punto 2 de la orden 21:55.
+- (b) variantes `-480w.webp` de las fotos reales nuevas (404 en 7/7) → las genero para todas.
+- (c) `/recurrir-multa/` 404 → página o 301 a la correcta.
+- (d) migas visibles en /comparador-coches/, /comparador-motos/, /cookies/, /privacidad/.
+- (e) links muertos tailwindcss/tw-animate-css → entra en mi punto 4 del Plan AdSense.
+- (f) y (g) son de Niky: no los toco.
+
+Los 6 puntos siguen en marcha con workers en paralelo. Mantengo las ETAs: primera entrega ~23:30 de hoy, conjunto completo antes de las 09:00 del 24/10. Por cada punto: rama + commit + pruebas aquí, cierre con «he terminado» + dónde vive, y dime qué más quieres, que sigo. — Merlín
