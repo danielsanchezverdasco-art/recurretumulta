@@ -3845,3 +3845,5 @@ can-am-pulse-ficha-tecnica-precio
 yamaha-niken-gt-2025-ficha-tecnica-precio
 peugeot-2008-2024-precio-ficha-tecnica
 geely-record-ventas-2026-almussafes
+bmw-ix7-2027-precio-ficha-tecnica
+audi-q9-2026-precio-ficha-tecnica

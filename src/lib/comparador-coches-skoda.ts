@@ -1003,7 +1003,9 @@ export const COCHES_SKODA: CocheComparador[] = [
       "Etiqueta Cero de la DGT",
       "Maletero de 910 L: no pierde capacidad frente al Kodiaq normal",
       "Desde 38.375 €: el SUV familiar PHEV más asequible",
-      "Carga rápida en continua de 50 kW"
+      "Carga rápida en continua de 50 kW",
+      "Nuevo acabado Laurin & Klement (tope de gama): asientos con función de masaje, barras de techo plateadas y llantas específicas (anunciado el 23/10/2026)",
+      "Nueva versión PHEV de 200 kW (272 CV): 50 kW más que el iV actual, con batería de 25,7 kWh (19,7 kWh netos) y carga DC de 50 kW"
     ],
     contras: [
       "Solo 5 plazas: pierde la tercera fila del Kodiaq",
