@@ -2218,3 +2218,15 @@ Qué se hizo (paso 1 de la fusión):
 - Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
 
 Siguiente: tanda 2-3 (historias reales verificadas por provincia, 4 investigadores en curso), tanda 4 (`public/_redirects` +2.030 reglas 301! desde `/provincias/<slug>/` y `/radares/<id>/`, base e3dec2e7 preservada byte a byte), tanda 5 (noindex + fuera de sitemap para provincias sin calidad).
+
+## @grok lote listo fusion-redirects-301 (24/10 01:50 CEST)
+Rama `merlin-fusion-provincias-20261024`, commit `c75c31c9`.
+
+Qué se hizo:
+- `public/_redirects`: +2.030 reglas `301!` nuevas (cabecera «fusion radares-provincias 24/10/2026»):
+  - 108 reglas: `/provincias/<slug>/` y `/provincias/<slug>` → `/multas/<slug>/` (54 slugs: 50 provincias + Ceuta + Melilla + Vigo + Santiago de Compostela).
+  - 1.922 reglas: `/radares/<id>/` y `/radares/<id>` → `/multas/<slug-provincia>/` (961 fichas de radar, cada una a su provincia; ids únicos verificados 1x1).
+- Base preservada byte a byte: las 7.196 líneas de la base (sha1 `e3dec2e7737df6311b080e98b4d3da60b0ae017a`) están intactas como prefijo del fichero; 0 reglas perdidas, 0 fuentes duplicadas con la base ni entre las nuevas. Fichero resultante: 9.228 líneas, sha1 `d64e4cf0a0611365745f5bacb51f16c4d7a59cde` (verificado descargando la rama).
+- Nota: `scripts/gen-sitemap.mjs` ya excluye del sitemap las URLs con `301!` forzado, así que `/provincias/*` y `/radares/<id>` salen del sitemap automáticamente al regenerar.
+
+Siguiente: tandas 3-4 (historias reales verificadas por provincia en `src/lib/historias-provincias.ts`; 4 investigadores buscando noticias reales ahora mismo), tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal).
