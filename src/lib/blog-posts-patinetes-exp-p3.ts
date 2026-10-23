@@ -3146,71 +3146,95 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
     ],
     content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-m4-max/>Ver ficha técnica del KuKirin M4 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+El **KuKirin M4 Max** es el patinete de la relación calidad-precio dentro de la gama KuKirin: batería de 874 Wh —48 V y 18,2 Ah—, motor de 800 W con picos de 1.000 W, 64 km de autonomía declarada y una velocidad máxima de 45 km/h, en 24 kg y por unos 524 €. Tal como sale de la caja queda fuera de la legalidad como VMP en España por su velocidad; limitado a 25 km/h se convierte en una propuesta urbana difícil de batir por dinero.
 
-El **KuKirin M4 Max** es el rey de la relación calidad-precio: **800 W** (1.000 W de pico), **874 Wh** (48V 18,2Ah), **64 km declarados** y **45 km/h** en **24 kg**, por **~524 €**.
+Todos los campos oficiales están en la ficha enlazada del KuKirin M4 Max: <a href=/patinetes/kukirin-m4-max/>ficha técnica completa del KuKirin M4 Max</a>, y el <a href=/comparador-patinetes/>comparador de patinetes</a> permite cotejarlo con los urbanos de 500 € de Xiaomi, Segway o Cecotec con los que compite en la tienda.
 
-## Ficha técnica resumida
+## Los datos del M4 Max
 
 | Dato | Valor |
 |---|---|
-| **Precio** | ~524 € |
-| **Motor** | 800 W (1.000 W de pico) |
-| **Batería** | 48V 18,2Ah (874 Wh) |
-| **Autonomía declarada** | 64 km |
-| **Autonomía real estimada** | ≈43 km |
-| **Velocidad máxima** | 45 km/h |
+| **Precio orientativo** | 524 € (entre 499 y 549 € según la tienda europea) |
 | **Peso** | 24 kg |
+| **Motor** | 800 W nominales y 1.000 W de pico |
+| **Batería** | 874 Wh (18,2 Ah a 48 V) |
+| **Autonomía declarada** | 64 km |
+| **Velocidad punta** | 45 km/h, limitable a 25 km/h |
+| **Frenos** | Disco |
+| **Autonomía estimada en uso real** | En torno a 43 km |
+| **Neumáticos** | 10 pulgadas |
+| **Certificado DGT** | Sin localizar en el registro oficial |
 
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-m4-max/>Ficha técnica completa del KuKirin M4 Max</a>.
+## Qué compras exactamente por 524 euros
 
-## Precio del KuKirin M4 Max en España
-
-Unos **524 €** (entre 499 y 549 € según la tienda europea). Da el 80 % del G2 Max por bastante menos dinero.
+La aritmética de este modelo impresiona cuando se pone al lado de la competencia: a igualdad de presupuesto, los urbanos de las marcas establecidas montan baterías de 350-500 Wh y motores de 350-500 W. El M4 Max duplica ambas cifras —874 Wh y 800 W— y añade una velocidad punta de 45 km/h que los rivales ni contemplan. El peaje se paga en otro sitio: acabados de gama de entrada, una pantalla pequeña que cuesta leer a pleno sol, una suspensión básica y una red de servicio en España muy inferior a la de las marcas con sede europea. Es el intercambio clásico de KuKirin, y conviene firmarlo con los ojos abiertos.
 
 <img src=/media/patinetes/kukirin-m4-max-2.webp alt=Detalle del KuKirin M4 Max>
 
-## Autonomía real vs declarada
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/0_SNYbbdS0w title=KuKirin M4 Max en vídeo style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
-**64 km declarados**; en uso mixto, **unos 43 km reales**. Muy digno por 524 €.
+Vídeo: el M4 Max examinado en el canal GSMaholic.
 
-## Frenos y neumáticos
+## Autonomía: 64 km de folleto, unos 43 de vida real
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo correcto para 45 km/h y 24 kg.
+Con 874 Wh disponibles, la autonomía oficial de 64 km implica un consumo medio en el entorno de los 13-14 Wh por kilómetro, una cifra creíble rodando a ritmo moderado en modo económico. En uso real mixto —con aceleraciones, alguna cuesta y ratos a mayor velocidad— el consumo sube y la estimación se queda en torno a los 43 km por carga, que para trayectos diarios de 10-15 km significa enchufar dos o tres veces por semana. Muy pocos patinetes de 500 € pueden decir lo mismo sin recurrir a baterías de marcas desconocidas: aquí, al menos, la capacidad está declarada con sus voltios y amperios a la vista —48 V y 18,2 Ah— y la multiplicación cuadra.
 
-## Certificado DGT y normativa VMP
+## Comportamiento: 800 W que se notan en las cuestas
 
-Con **45 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Esos 800 W, que en los picos llegan a 1.000 W, mueven los 24 kg del conjunto con una alegría que los urbanos de 350 W no conocen: las rampas urbanas se suben sin bajar de ritmo y la aceleración desde parado es inmediata. Los frenos de disco y los neumáticos de 10 pulgadas forman un equipo correcto para los 45 km/h que el aparato puede alcanzar, aunque la suspensión básica recuerda en cada bache serio que el precio no daba para más. En mojado, con esta potencia, el acelerador pide mano suave al arrancar sobre pasos de peatones y tapas de alcantarilla.
 
-## Puntos fuertes y débiles
+## Su situación legal en España, con matices
 
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 800 W por ~524 € | A 45 km/h hay que limitarlo |
-| 874 Wh: 64 km declarados | Acabados de entrada |
-| 24 kg: ligero | Suspensión básica |
-| 45 km/h | Display pequeño |
-| Ideal para iniciarse | El M4 Pro da más por poco más |
+La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a> define el VMP por la velocidad que puede alcanzar por construcción —de 6 a 25 km/h—, y este KuKirin nace a 45 km/h: en ese estado no es un vehículo de movilidad personal y queda excluido de las vías públicas. Los vendedores lo ofrecen con limitación a 25 km/h, y con el limitador activo su uso se acerca al de cualquier urbano, pero del certificado de circulación que la normativa exige a los VMP comercializados desde enero de 2024 no hemos encontrado rastro en el registro de la DGT, así que su encaje definitivo queda, como mínimo, en el aire. La reforma aplicada con efectos desde octubre de 2026 añade casco homologado obligatorio, edad mínima de 15 años y seguro de responsabilidad civil para cualquier conductor de VMP. Compra sabiendo todo esto: si tu plan es circular a diario por la ciudad, exige al vendedor la documentación del modelo antes de pagar.
+
+## Mantenimiento según el manual oficial de KuKirin
+
+El manual del fabricante es sorprendentemente concreto y merece la pena seguirlo. Ordena revisar regularmente el apriete de todos los tornillos y tuercas; explica el ajuste del freno en los dos sentidos —si va demasiado tenso, aflojar la tuerca del brazo, alargar ligeramente el cable y reapretar; si la frenada es débil, el procedimiento inverso—; y pide controlar la presión de los neumáticos con regularidad. Para la batería, dos reglas de oro: si el patinete va a estar parado mucho tiempo, mantenerla por encima del 50 % y cargarla al menos cada tres meses; y cargar siempre con el cargador original y con el patinete apagado. La limpieza, con paño húmedo y suave: nada de alcohol, gasolina ni agua a presión sobre la electrónica.
 
 <img src=/media/patinetes/kukirin-m4-max-3.webp alt=KuKirin M4 Max en ciudad>
 
+## Pros y contras, sin maquillaje
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| 874 Wh y 800 W por unos 524 €: la oferta es imbatible en cifras | A 45 km/h de serie no encaja en la categoría VMP |
+| 24 kg contenidos para la batería que lleva | Acabados y pantalla de gama de entrada |
+| Unos 43 km reales por carga, de sobra para la semana | Suspensión básica que se nota en firme roto |
+| Manual oficial con mantenimiento bien explicado | Certificado DGT sin verificar en el listado |
+| Buena puerta de entrada al ecosistema KuKirin | Su hermano M4 Pro ofrece más por poco dinero más |
+
+## Veredicto
+
+El M4 Max es la compra del comprador racional con presupuesto cerrado: nadie da 874 Wh, 800 W y 43 km reales por 524 €, y su mantenimiento está mejor documentado que el de muchos rivales caros. Sus renuncias son conocidas —acabados sencillos, suspensión justa y un expediente legal que debes resolver con el vendedor antes de usarlo en la calle—. Si el presupuesto estira un poco, el propio catálogo tiene el M4 Pro esperando; si el rival es de otra liga de autonomía, el <a href=/blog/kukirin-g2-max/>KuKirin G2 Max</a> es el siguiente escalón natural de la marca. Para iniciarse en los patinetes potentes sin arruinarse, este Max sigue siendo el rey de su franja.
+
+Si un día recibes una sanción yendo en patinete, no la pagues sin más: llévala al <a href=https://recurretumulta.online/#analizador>analizador de multas que no cuesta nada</a> y descubre si la sanción está bien fundamentada. Y aprovecha la visita para buscar los monos repartidos por la web: el <a href=/juego-monos/>juego de los monos escondidos</a> guarda un premio para quien los reúne todos.
+
+## Compra, garantía y repuestos: el ecosistema alrededor del precio
+
+Comprar el M4 Max a través de la tienda oficial europea de KuKirin o de distribuidores establecidos en la UE no es un detalle menor: en España, los bienes de consumo nuevos cuentan con tres años de garantía legal de conformidad a cargo del vendedor, y ejercerla contra una tienda europea es un trámite real, mientras que contra un vendedor de marketplace sin presencia aquí puede convertirse en una odisea de correos. El ecosistema de repuestos de la marca —neumáticos, cámaras, pastillas, pantallas y controladores circulan con facilidad por su popularidad— suaviza además el punto débil clásico de las marcas de importación: cuando algo se rompe en un KuKirin, la pieza suele existir y llegar en días, no en meses. Valora ese contexto antes de ahorrar 30 € en un canal opaco: en un patinete de 500 €, la garantía ejercible vale más que el descuento.
+
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Unos **524 €** en tiendas europeas.
+### ¿Cuánto cuesta el KuKirin M4 Max?
+Unos 524 € en las tiendas europeas de la marca y distribuidores habituales, con precios observados que oscilan entre los 499 y los 549 € según el vendedor y la campaña. Es el precio que sostiene todo su argumento comercial.
 
-### ¿Qué autonomía real tiene?
-Unos **43 km**.
+### ¿Qué autonomía real tiene el M4 Max?
+KuKirin declara 64 km; en la calle, con uso mixto, lo sensato es contar con unos 43 km por carga, suficientes para varios días de trayectos urbanos sin pasar por el enchufe.
 
-### ¿M4 Max o M4 Pro?
-El Pro tiene más de todo por poco más. Si el presupuesto es ajustado, el Max es imbatible.
+### ¿Es legal el M4 Max en España?
+Tal como se vende, con 45 km/h de velocidad máxima, no entra en la definición de VMP y queda fuera de las vías públicas. Con el limitador a 25 km/h se acerca al uso urbano, pero no hemos verificado su certificado de circulación en el listado de la DGT: pide la documentación al vendedor.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿En qué se diferencia del M4 Pro?
+El Pro mejora equipamiento y prestaciones por un sobreprecio contenido, a cambio de alejarse del mínimo precio posible. El Max es la versión de la eficiencia económica: el 80 % de la experiencia por bastante menos dinero.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Qué mantenimiento recomienda KuKirin para este modelo?
+Reapriete regular de tornillería, ajuste del cable de freno según el procedimiento del manual, control periódico de la presión de los neumáticos, carga siempre con el cargador original y, en almacenajes largos, batería por encima del 50 % con una carga al menos cada tres meses.
 
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+### ¿Para quién es el M4 Max?
+Para quien quiere iniciarse en los patinetes de altas prestaciones con un presupuesto de unos 500 € y acepta acabados sencillos, y para quien necesita autonomía real de más de 40 km sin pagar las tarifas de las marcas establecidas.
+
+*Fuentes: <a href=https://eu-kukirin.com/>tienda oficial europea de KuKirin</a>, manual de usuario del modelo y normativa española de VMP de la <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a>. El certificado de circulación del modelo no consta verificado: el texto lo advierte en su apartado legal.*
+`,
   },
   {
     slug: "kukirin-a1",
