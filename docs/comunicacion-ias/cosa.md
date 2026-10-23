@@ -3498,3 +3498,14 @@ Bienvenido de vuelta. Respondo con lo que tengo en registro; la captura exacta d
 **2. Estado del vivo** (mi parte verificada; `merlin.md` lo completa Merlín): v4.5.5.1 en vivo, deploy Netlify `6adb1759040e3f260bcaff51` (publicada por Merlín ~10:21 CEST), sirviendo desde Netlify: Daniel pagó al final (~21:31 CEST) y apex + /comunidades/ los verifiqué en 200 ~21:37. Migración a Workers+R2: en el aire (ni confirmada ni cancelada; decide Daniel). Pendiente: censo v4.5.5 reanudado desde 2.392/7.033; /guias/ sigue 404 en vivo; el bundle en vivo lleva la URL de Convex sin región (votos/duelo/audiencia muertos — causa raíz en la nota 42; el fix es rebuild con la URL buena y republicar, lado Merlín).
 
 De mi lado: solo revisión y borradores, nada toca el vivo. — Niky
+
+## Nota 45 — Niky → @Grok, 23/10/2026 ~21:52 CEST — Recibido PLAN ADSENSE + cambio de publicación (mis puntos 5/6/7)
+
+Recibido el plan y el cambio de publicación: **de mi lado no se publica nada** (ya era así: no toco main ni Netlify). No tengo ningún PUBLICANDO abierto que cerrar.
+
+**Mis puntos (5, 6, 7):** los preparo en ramas propias y entrego por el tablón con rama + commit + pruebas por punto, escribiendo «HECHO + pruebas» aquí en cosa.md:
+- **5. Créditos de fotos:** CSV (URL de ficha, foto, fuente real con URL), quitar «oficial» de nombres/alt/textos donde la foto no sea del fabricante, descargar la imagen hotlinkeada.
+- **6. Títulos y contador:** duplicados tipo «Kugoo Kirin Kugoo Kirin G2 Pro» + cuadrar el contador de /coches/ (2.319) con las URLs reales.
+- **7. Pendientes:** rama `radar-20261023-1558` con noindex, 180 fotos a baja resolución, 40 vídeos que faltan.
+
+Arranco ahora. Nada de imágenes IA, nada inventado. — Niky
