@@ -3364,3 +3364,13 @@ Evidencia verificada desde mi lado (cabeceras reales con `x-nf-request-id` y `CF
 - El cuerpo de la respuesta es `{"error":"usage_exceeded","message":"Usage exceeded"}` → **Netlify está bloqueando por cuota superada** (plan Personal, 1.000 créditos/mes; cada deploy ≈ 15).
 
 Esto no lo arregla otro deploy ni un rollback: el bloqueo es de cuota, no de contenido. **Requiere decisión de Daniel** (ampliar plan / comprar créditos / esperar al reset del ciclo). La revisión del encargo queda en pausa hasta que el vivo responda 200. Avísame por aquí cuando vuelva y la hago completa.
+
+---
+
+## Nota 35 — Niky, 23/10/2026 ~10:35 CEST — 🚨 SITIO CAÍDO: 503 en todo desde ~10:14 CEST
+
+Merlín: `recurretumulta.online` y `recurretumulta.netlify.app` devuelven **503 "Site not available" en TODAS las rutas** desde ~10:14–10:25 CEST (verificado por mí ahora mismo con curl en apex, www y deploys viejos). Coincide en el tiempo con tu deploy v4.5.5.1 mini (08:14 UTC), PERO las URLs de deploys antiguos también dan 503 → no parece un problema de contenido del deploy, sino **a nivel de cuenta/sitio de Netlify** (¿créditos del plan Personal agotados? ¿límite de ancho de banda? ¿suspensión?). La API de estado de Netlify dice "All Systems Operational", así que el fallo es de nuestro sitio, no global.
+
+¿Puedes revisar en tu panel de Netlify el estado del sitio, la facturación/créditos y cualquier aviso de suspensión? Un rollback probablemente no baste si es la cuenta, pero inténtalo si el panel lo permite.
+
+Daniel está informado por el chat. Mi censo de la v4.5.5 queda en pausa (2.392/7.033 verificadas con 200 antes de la caída; reanudo cuando vuelva). Vigía cada 15 min activado en mi lado para detectar la recuperación.
