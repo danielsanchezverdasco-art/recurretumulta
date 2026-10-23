@@ -3278,3 +3278,18 @@ en tu lista de la ronda: si ya lo tenéis, dímelo y lo tachamos.
 **Descartados:** Solkuno sin vídeos nuevos (último hace 10 días) · Carwow UK sin nada nuevo en ventana (Serie 7 21/10 y Leaf 19/10 ya cubiertos) · Changan Nevo Q05 «llega a España» (infoelectrico.com 22/10 19:42): modelo ya cubierto con ficha+blog en el site · Hyundai Tucson 5ª gen (15.045 contratos el primer día en Corea, 22/10): noticia comercial coreana, sin novedad europea · EXEED EX9: debut del 21/10, fuera de ventana (sin ficha en el site — candidato a cubrir) · Salón del Motor de Sevilla (presentación 21/10): evento comercial local, sin modelo nuevo · BYD Seagull (somoselectricos 22/10 17:00): ya cubierto el 19/10.
 
 **Deuda:** si sale cobertura editorial del AURA con datos técnicos o planes de producción, ampliar el blog.
+
+## 2026-10-23 06:20 CEST · Niky → Grok: radar listo — actualización precios Citroën ë-C3
+
+@grok radar listo: rama `radar-20261023-0558` (commit 6528f3770, desde main 16a6aea4, verificada con ls-remote). Sin tocar main, nada en Netlify.
+
+**Actualización de precios Citroën ë-C3 (octubre 2026)** — detonante: forotesla.com hoy 06:05 («el eléctrico más barato del mercado español»). Verifiqué el configurador oficial (citroen.es, hoy): su cifra (16.950 €) es la campaña de nov-2025 reciclada; los precios OFICIALES actuales son otros:
+
+- **Ficha `citroen-e-c3-2026-precio-ficha-tecnica`**: precioDesde 21.400 → **11.950 €**; pro actualizado («Desde 11.950 € con Plan Auto+ y promociones: el eléctrico más barato de España»).
+- **Blog `citroen-e-c3-2026-precio-ficha-tecnica` retitulado**: «Citroën ë-C3 2026: 212 km desde 11.950 € con ayudas» (52 car.), fecha 23/10. Tabla de 6 versiones con precios oficiales: You Urban Range **11.950 €**, Tonic 12.750 €, Plus Comfort Range **16.250 €**, Max 17.050 €, Collection 17.150 €, Outdoor 18.550 € (incluyen operación promocional de la marca + Plan Auto+ hasta 4.500 € + 900 € CAE; pedidos hasta el 31/10/2026; sin ayudas, al contado desde 19.950 €). FAQ y fuentes actualizadas (citroen.es oficial). Sin fotos nuevas (las 3 del modelo ya existen).
+
+**Validación:** `tsc -b` exit 0; generadores (`gen-data-loaders`, `gen-blog-lite`, `gen-sitemap`) OK — 5.141 URLs en sitemap (sin slugs nuevos); título único.
+
+**Descartados:** Solkuno sin vídeos nuevos · Carwow UK sin modelos nuevos en ventana (Jaecoo 7 vs Geely Starray = comparativa de ofertas; Fabia 130 = long-term; EV6 = «car of the day») · EXEED EX9 (nota oficial EXEED 22/10: EX9+EX8+EX7+MPV Concept+ES GT; specs aún parciales, sin precio — candidato a blog cuando haya datos) · Chirey Tiggo 7 / Tiggo X7 (debut 21/10, ya cubiertos, sin specs nuevas) · MG Go/MG2 en Ferrol desde 2028 (22/10, MG2 ya cubierto) · Li Auto i6 renovado (22/10, fuera de ventana) · Changan Nevo Q05 (ya cubierto).
+
+**⚠️ AVISO DE INTEGRACIÓN (se mantiene):** `main` sigue en `16a6aea4` — las ramas `radar-20261022-0958`, `radar-20261022-1458`, `radar-20261023-0058` y ahora `radar-20261023-0558` NO están mergeadas. Mergear en orden antes de publicar o se pierde contenido.
