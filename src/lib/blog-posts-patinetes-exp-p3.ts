@@ -2128,71 +2128,113 @@ Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportivida
     ],
     content: `<img src=/media/patinetes/hiboy-ve1-pro-1.webp alt=Hiboy VE1 Pro, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-ve1-pro/>Ver ficha técnica del Hiboy VE1 Pro</a>: peso, batería y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**En corto:** el VE1 Pro es el urbano de ruedas grandes de Hiboy: 350 W con picos de 500 W, batería de 48 voltios con 10 amperios-hora, unos 50 km máximos declarados y solo 22,2 kg. Todos los datos, en <a href=/patinetes/hiboy-ve1-pro/>su ficha técnica del VE1 Pro</a>; y si dudas entre varios, <a href=/comparador-patinetes/>el comparador</a> pone cifras frente a frente.
 
-El **Hiboy VE1 Pro** apuesta por la ligereza: **22,2 kg** con **480 Wh** (48V 10Ah), **50 km declarados** y motor de **350 W** (500 W de pico). Un urbano honesto y compacto.
+## Una receta distinta: ruedas de 16 pulgadas
 
-## Ficha técnica resumida
+La mayoría de patinetes urbanos montan ruedas de 8,5 o 10 pulgadas. El VE1 Pro rompe la norma con **neumáticos de 16 pulgadas** de estilo bicicleta, una decisión que cambia el carácter del vehículo: más inercia y aplomo a velocidad de crucero, mejor superación de baches y juntas, y una postura de conducción que recuerda más a una bici plegable sin pedales que a un patinete al uso.
 
-| Dato | Valor |
+Esa elección explica también su peso. Con **22,2 kg** no es un peso pluma, pero para llevar una batería de 10 Ah a 48 V y ruedas de ese diámetro, la cifra es contenida. Es un patinete de garaje o de ascensor amplio, no de subir a pulso a un quinto.
+
+## Ficha técnica resumida: Hiboy VE1 Pro
+
+| Dato | Valor (tienda oficial de Hiboy) |
 |---|---|
-| **Precio** | Gama media-baja Hiboy |
-| **Motor** | 350 W (500 W de pico) |
-| **Batería** | 48V 10Ah (480 Wh) |
-| **Autonomía declarada** | 50 km |
-| **Autonomía real estimada** | ≈34 km |
-| **Velocidad máxima** | 37 km/h |
 | **Peso** | 22,2 kg |
+| **Propulsión** | 350 W nominales / 500 W de pico, brushless |
+| **Batería** | Litio de 48 V con 10 Ah |
+| **Autonomía declarada** | Hasta 31 millas (≈50 km) en condiciones óptimas |
+| **Autonomía real estimada** | 32-36 km |
+| **Velocidad máxima** | 23 mph (≈37 km/h) sin limitar |
+| **Frenos** | Disco delantero y trasero |
+| **Carga máxima** | 100 kg |
+| **Neumáticos** | 16 pulgadas |
+| **Tiempo de carga** | 5-6 horas |
+| **Protección al agua** | IPX4 |
+| **Precio oficial** | 799,99 $ en hiboy.com (EE. UU.) |
 
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-ve1-pro/>Ficha técnica completa del Hiboy VE1 Pro</a>.
+## Motor y modos: 350 W con tres marchas
 
-## Precio del Hiboy VE1 Pro en España
+Hiboy declara **350 W nominales y 500 W de pico** para un motor brushless alimentado a 48 V, una combinación más enérgica que los clásicos conjuntos de 36 V de igual potencia. La velocidad se organiza en **tres niveles**: hasta 8 mph el primero, 16 mph el segundo y 23 mph el tercero, unos **37 km/h** que dejan claro su origen norteamericano.
 
-Precio agresivo en ofertas, en la gama media-baja de Hiboy. Bueno para quien busca ligereza sin pagar de más.
+Esa cifra es también su principal trámite en España: un VMP ha de circular con el límite de **25 km/h** activo, así que cualquier unidad usada aquí necesita la limitación aplicada. La marca tampoco publica homologación europea ni DGT para este modelo, y así lo dejamos constatado: **no consta** certificación alguna en la fuente oficial consultada.
+
+Sube pendientes de hasta **15°** según la marca, un dato coherente con su planteamiento urbano: rampas de garaje y cuestas moderadas sí; puertos de montaña, no.
 
 <img src=/media/patinetes/hiboy-ve1-pro-2.webp alt=Detalle del Hiboy VE1 Pro>
 
-## Autonomía real vs declarada
+## Autonomía: 50 km óptimos, y en tu calle
 
-**50 km declarados**; en ciudad calcula **unos 34 km**. Correcto para su batería y peso.
+La promesa oficial es de **31 millas, unos 50 km**, y la propia FAQ de Hiboy la acota a «condiciones óptimas de conducción», dependiente del peso, el terreno, la velocidad y el clima. Traducción razonable para un conductor de 75-85 kg en ciudad: **entre 32 y 36 km** por carga si no abusas del tercer modo. Es una horquilla honesta para 480 Wh —la capacidad que resulta de 48 V por 10 Ah— y suficiente para varios días de trayectos cortos sin pasar por el enchufe.
 
-## Frenos y neumáticos
+La carga completa lleva **5-6 horas** con su cargador de 54,6 V y 2 A: el patrón clásico de enchufar al llegar del trabajo y desenchufar antes de dormir.
 
-Equipo estándar de frenos de disco y neumáticos de 10 pulgadas. Suficiente para 37 km/h y 22 kg.
+## Frenos y una curiosidad de sus neumáticos
 
-## Certificado DGT y normativa VMP
+El frenado corre a cargo de **discos en los dos ejes**, lo adecuado para un vehículo de 22 kg capaz de acercarse a 37 km/h deslimitado. Sin freno motor regenerativo destacado por la marca, la retención depende de tu mano: en bajadas largas, dosifica para no calentar las pastillas.
 
-Con **37 km/h** de máxima, en España circula **limitado a 25 km/h**. Aceras prohibidas y vías permitidas, como manda la normativa VMP.
+Con los neumáticos hay una **inconsistencia en la propia página oficial** que merece ser contada: el resumen con iconos los llama «honeycomb» (macizos de panal), mientras el cuerpo del texto y la FAQ hablan de neumáticos **con cámara** de estilo bicicleta. Son soluciones opuestas, así que si compras una unidad, verifica físicamente qué rueda monta antes de dar por hecho que no pincha.
+
+## Precio y disponibilidad en España
+
+Hiboy vende el VE1 Pro en su tienda estadounidense por **799,99 $** (con un precio tachado de 999,99 $). La marca no opera tienda oficial europea comparable, así que en España aparece vía importadores y plataformas, con precios variables y —atención— con la limitación de velocidad y la garantía dependiendo del vendedor. Para un modelo sin certificación constatada, compra solo con factura y posibilidad de devolución.
+
+## ¿Para quién tiene sentido un patinete con ruedas de bicicleta?
+
+Para el conductor que hace siempre la misma ruta urbana de 4 a 10 km y está cansado de que cada junta de dilatación le llegue a los dientes. Las ruedas de 16 pulgadas convierten baches menores en anécdotas y dan una sensación de estabilidad a velocidad de crucero que un 8,5 pulgadas no ofrece. También para quien valora el plegado sencillo y una postura erguida natural.
+
+Tiene menos sentido si tu rutina incluye trenes de cercanías en hora punta —22 kg se notan al bajar escaleras con prisa—, si tu portal tiene giros estrechos o si pesas cerca del límite: la **carga máxima de 100 kg** deja fuera a conductores corpulentos con mochila, un detalle que muchos rivales resuelven con 120 kg.
+
+## Mantenimiento: sencillo, con un ojo en la batería
+
+La mecánica es la de un urbano sin suspensión: poco que mantener y menos que romper. El plan razonable pasa por revisar la presión si tu unidad monta neumáticos con cámara (la contradicción de la ficha oficial obliga a mirar, no a suponer), comprobar el apriete de los discos cada trimestre y mantener limpios los conectores del cargador. El **pack de 480 Wh** agradece cargas parciales frecuentes frente a ciclos completos de agotamiento, y un invierno guardada a media carga le sentará mejor que uno enchufada al 100 %. Su protección **IPX4** tolera lluvia ligera y salpicaduras, pero ni Hiboy ni nosotros te recomendamos dejarla bajo un aguacero ni vadear charcos profundos: la electrónica de 48 V y el agua a presión no se llevan bien.
+
+## Normativa: su encaje en España
+
+Sin la limitación de velocidad aplicada, el VE1 Pro **no encaja en la categoría VMP** española, y la marca no publica certificado DGT. Con la limitación aplicada y el certificado correspondiente, el uso sería el ordinario: calzada y vías ciclistas permitidas, aceras vetadas. Si te planteas importarlo por tu cuenta, asume que la carga de la prueba documental es tuya. El marco completo está en la <a href=https://www.dgt.es/>Dirección General de Tráfico</a>.
 
 ## Puntos fuertes y débiles
 
-| ✅ Pros | ❌ Contras |
+| ✅ A favor | ❌ En contra |
 |---|---|
-| 22,2 kg: ligero | A 37 km/h hay que limitarlo |
-| 480 Wh: 50 km declarados | Acabados básicos |
-| 350 W suficientes en ciudad | En modo rápido baja a 30 km reales |
-| Compacto y discreto | Sin suspensión destacable |
-| Precio agresivo | Puede descatalogarse |
+| Ruedas de 16" que filtran y dan aplomo | Sin certificación DGT localizada |
+| 22,2 kg contenidos para su batería | 37 km/h: hay que limitarlo aquí |
+| Doble disco en ambos ejes | Ficha oficial contradictoria en neumáticos |
+| Tres modos de velocidad claros | Carga máxima de solo 100 kg |
+| IPX4 para salpicaduras | Venta oficial centrada en EE. UU. |
 
 <img src=/media/patinetes/hiboy-ve1-pro-3.webp alt=Hiboy VE1 Pro en la ciudad>
 
+## Veredicto
+
+El VE1 Pro es un urbano con idea propia: ruedas grandes, peso razonable y un motor de 48 V que se siente más despierto que la media de 350 W. En Estados Unidos, su terreno natural, es una compra redonda por 800 dólares. En España exige deberes: limitación, papeles y un vendedor que responda. Si te enamora el formato, adelante con la burocracia en orden; si quieres comprar y rodar sin pensar, en <a href=/patinetes/hiboy-ve1-pro/>la ficha del VE1 Pro</a> tienes sus datos y en el comparador, alternativas ya homologadas.
+
 ## Preguntas frecuentes
 
-### ¿Cuánto pesa?
-**22,2 kg**: ligero para llevar 480 Wh.
+### ¿Cuánto pesa el Hiboy VE1 Pro?
+**22,2 kg** según la tienda oficial de Hiboy, con una carga máxima admitida de 100 kg.
 
-### ¿Qué autonomía real tiene?
-Unos **34 km**.
+### ¿Qué autonomía puedo esperar?
+Hiboy anuncia hasta unos 50 km en condiciones óptimas. En ciudad, con un adulto medio, lo realista es moverse entre **32 y 36 km**.
+
+### ¿Qué tamaño de rueda lleva?
+**16 pulgadas**, formato de bicicleta. Ojo: la página oficial se contradice entre «honeycomb» y neumáticos con cámara; verifícalo en la unidad.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Únicamente con la limitación de velocidad aplicada y su certificación en regla. Hiboy no publica certificado DGT en su ficha oficial.
 
-### ¿VE1 Pro o S2?
-El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para ciudad, VE1 Pro.
+### ¿Cuánto tarda en cargar?
+Entre **5 y 6 horas** para una carga completa, según la marca.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Cuánto cuesta?
+799,99 $ en la tienda oficial estadounidense de Hiboy. En España, el precio depende del importador.
 
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+¿Te han multado yendo en patinete? <a href=https://recurretumulta.online/#analizador>Nuestro analizador con IA estudia tu caso gratis</a> antes de que pagues un euro de más. Y para la espera, <a href=/juego-monos/>el juego de los monos</a> tiene premios escondidos por toda la web.
+
+**Cómo verificamos:** todas las especificaciones salen de la página del producto en hiboy.com (mercado EE. UU.), incluida su FAQ. La autonomía real es estimación editorial. La contradicción sobre los neumáticos está en la propia fuente oficial y se señala como tal.
+
+*Fuentes: <a href=https://www.hiboy.com/products/hiboy-ve1-pro-electric-scooter-amazon>ficha oficial del VE1 Pro en Hiboy</a> y <a href=https://www.dgt.es/>Dirección General de Tráfico</a>.*
+`,
   },
   {
     slug: "hiboy-u2-pro",
@@ -2217,71 +2259,112 @@ El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para
     ],
     content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-u2-pro/>Ver ficha técnica del Hiboy U2 Pro</a>: motor, sillín y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Qué es el U2 Pro?** El patinete con sillín y ruedas fat de Hiboy: motor trasero de 750 W nominales con picos de 810 W, batería de 13 Ah a 48 V, hasta unos 55 km declarados y neumáticos de 16 × 4 pulgadas para rodar sentado por ciudad y caminos de tierra. Todo el detalle, en <a href=/patinetes/hiboy-u2-pro/>la ficha del Hiboy U2 Pro</a>; contrástalo en <a href=/comparador-patinetes/>nuestro comparador de patinetes</a>.
 
-El **Hiboy U2 Pro** es el ECOM 14 con más motor: **sillín y cesta**, **750 W** (810 W de pico), **624 Wh** (48V 13Ah), **55 km declarados** y **40 km/h**. Para moverse cargado sin ir de pie.
+## Un concepto a medio camino entre patinete y minimoto
 
-## Ficha técnica resumida
+El U2 Pro no encaja en la foto típica del VMP de pie. Lleva **sillín, cesta y ruedas de 16 × 4 pulgadas** de balón enorme, y se conduce sentado, con el centro de gravedad bajo y las piernas relajadas. Su público natural no es el commuter de tren y oficina, sino quien recorre distancias medias por carriles, urbanizaciones y caminos —incluidos repartidores ligeros y personas que no pueden o no quieren ir de pie media hora—.
 
-| Dato | Valor |
+Esa fórmula tiene un precio claro en la báscula: **36,6 kg**. El U2 Pro es un vehículo de garaje con enchufe cercano, no un compañero de escaleras.
+
+## Ficha técnica resumida: Hiboy U2 Pro
+
+| Dato | Valor (ficha oficial de Hiboy) |
 |---|---|
-| **Precio** | Gama media Hiboy |
-| **Motor** | 750 W (810 W de pico) |
-| **Batería** | 48V 13Ah (624 Wh) |
-| **Autonomía declarada** | 55 km |
-| **Autonomía real estimada** | ≈37 km |
-| **Velocidad máxima** | 40 km/h |
-| **Peso** | 36,6 kg |
+| **Batería** | Litio de 13 Ah a 48 V (624 Wh) |
+| **Motor** | Trasero brushless de 750 W nominales / 810 W de pico |
+| **Autonomía declarada** | Hasta 34 millas (≈55 km) |
+| **Autonomía real estimada** | 35-40 km |
+| **Precio oficial** | 1.059,99 $ en hiboy.com (EE. UU.) |
+| **Velocidad máxima** | 25 mph (≈40 km/h) sin limitar |
+| **Peso** | ≈36,6 kg (80,69 lb) |
+| **Carga máxima** | 120 kg (265 lb) |
+| **Frenos** | Doble disco de 160 mm |
+| **Neumáticos** | 16 × 4" all-terrain de aire |
+| **Suspensión** | Trasera (125 mm; 56 mm de recorrido efectivo) |
+| **Tiempo de carga** | 6,5-7,5 horas |
+| **Protección al agua** | IPX4 en el bastidor; IPX5 en la batería |
 
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-u2-pro/>Ficha técnica completa del Hiboy U2 Pro</a>.
+## Motor de 750 W: empuje para ir cargado
 
-## Precio del Hiboy U2 Pro en España
+El motor trasero declara **750 W nominales**; sus picos llegan a **810 W**, cifras altas para el formato y pensadas para mover el conjunto —vehículo, conductor y la carga de la cesta— sin desfallecer en repechos. Hiboy le atribuye una capacidad de ascenso que su propia web expresa de forma inconsistente (habla de un 20 % en la ficha y de 20° en un artículo de su blog oficial); nos quedamos con la lectura prudente: pendientes urbanas y rampas de garaje serias, sí; cuestas de montaña, no.
 
-Gama media de Hiboy. Interesante para repartidores urbanos por su combinación de sillín, potencia y cesta.
+Con una velocidad máxima de **25 mph, unos 40 km/h**, queda fuera del marco VMP español salvo que se limite electrónicamente a 25 km/h, algo que tratamos en el apartado legal.
 
 <img src=/media/patinetes/hiboy-u2-pro-2.webp alt=Detalle del sillín del Hiboy U2 Pro>
 
-## Autonomía real vs declarada
+## Ruedas fat de 16 × 4": su razón de ser
 
-**55 km declarados**; en uso real con carga, **unos 37 km**. El peso del conjunto (36,6 kg) penaliza.
+Las cubiertas **all-terrain de 16 pulgadas y 4 de ancho**, con cámara de aire, son el argumento de compra. A baja presión flotan sobre grava, tierra compacta y hierba, y en asfalto roto aportan un filtrado que un patinete de rueda fina no conoce. Hiboy las presenta incluso como neumáticos de nieve, en la tradición americana del formato fat.
 
-## Frenos y neumáticos
+La **suspensión es solo trasera** —elemento de 125 mm con unos 56 mm de recorrido útil, según la marca—, así que el tren delantero delega en el balón del neumático. En la práctica, la comodidad es notable a ritmo de paseo y correcta en ciudad; en baches secos a velocidad, el manillar seguirá transmitiendo el golpe.
 
-Frenos de disco y neumáticos anchos para mover con seguridad sus 36,6 kg a 40 km/h.
+## Autonomía: 55 km oficiales y la traducción real
 
-## Certificado DGT y normativa VMP
+Hiboy promete **hasta 34 millas, unos 55 km**, con su batería de **624 Wh** (48 V, 13 Ah). Su FAQ oficial matiza que la cifra depende de peso, velocidad, terreno, modo, clima y superficie. Con un conductor de 80 kg y uso mixto, nuestra estimación es de **35 a 40 km** por carga: suficiente para varios días de recados o una jornada de reparto urbano ligero sin repostar. Reponer la batería entera pide **entre 6,5 y 7,5 horas** de enchufe.
 
-A **40 km/h** no es VMP legal sin limitar: en España, **25 km/h máximo** y **aceras prohibidas**.
+El doble freno de disco de **160 mm** en ambos ejes es el equipo correcto para detener 36,6 kg más carga a 40 km/h, y una protección **IPX4** en el bastidor —con IPX5 para el pack— permite rodar con lluvia ligera sin dramas.
 
-## Puntos fuertes y débiles
+## Uso real: recados, reparto ligero y paseos largos
 
-| ✅ Pros | ❌ Contras |
+Donde el U2 Pro gana a cualquier patinete de pie es en la **segunda hora de uso**. Ir sentado con la espalda apoyada y una cesta delante cambia la fatiga por completo en recorridos de 8-15 km, y la rueda fat mantiene la compostura cuando el carril se convierte en pista de tierra o el asfalto se llena de parches. Para reparto urbano ligero —paquetes pequeños, comida en trayectos cortos— la combinación de 750 W, 120 kg de carga admitida y unos 35-40 km reales por carga es un argumento de trabajo, no de ocio.
+
+También funciona como vehículo de urbanización: distancias internas, paseos marítimos llanos y desplazamientos a la compra sin sacar el coche. En ese escenario, su masa deja de ser un problema porque el trayecto empieza y termina en el mismo garaje.
+
+## Mantenimiento: mecánica sencilla, disciplina de carga
+
+El mantenimiento es el de un eléctrico sin cadena ni transmisión: presión y desgaste de las cubiertas fat (trabajan bajas de presión; revísala cada dos semanas), pastillas de los discos de 160 mm y aprietes generales. El **sillín y su tija** merecen un vistazo mensual si el uso es laboral, porque es la pieza que más vibración acumula. La batería de 624 Wh agradecerá no vivir al 0 % ni al 100 % durante semanas, y reponerla por completo —6,5 a 7,5 horas de enchufe— pide una rutina fija: enchufar al terminar la jornada y olvidarse hasta el día siguiente. Con 36,6 kg de conjunto, un caballete o una zona plana de aparcamiento son más que un capricho.
+
+## Precio y disponibilidad
+
+Hiboy lo vende en su tienda estadounidense por **1.059,99 dólares** (precio tachado de 1.499,98 $). La marca no mantiene tienda oficial europea equiparable, así que en España aparece por importadores con la limitación de velocidad, la garantía y el papeleo a cargo del comprador. Para un vehículo de este nicho, compra únicamente con factura, devolución posible y repuestos localizables.
+
+## Legalidad en España: sentado, sí; a 40 km/h, no
+
+Un patinete con sillín sigue siendo VMP en España si cumple las condiciones de la categoría: velocidad máxima por construcción de **25 km/h** y certificado de circulación. Tal como sale de la caja americana, a 40 km/h, el U2 Pro **no puede circular legalmente** por la vía pública española; limitado y certificado, su uso sería el ordinario de un VMP (calzadas y vías autorizadas, nunca aceras). Hiboy no publica ninguna homologación europea o DGT para este modelo, y lo dejamos dicho tal cual. El marco normativo completo se consulta en el <a href=https://www.dgt.es/>portal de la DGT</a>.
+
+## Balance: puntos fuertes y débiles
+
+| ✅ Fortalezas | ❌ Debilidades |
 |---|---|
-| 750 W con sillín | 36,6 kg: un armario |
-| 624 Wh: 55 km declarados | A 40 km/h hay que limitarlo |
-| Sillín y cesta | El sillín penaliza el plegado |
-| 40 km/h | 810 W de pico, justos |
-| Ideal repartidores | Nicho específico |
+| Se conduce sentado: comodidad en distancias medias | 36,6 kg: impensable para pisos sin ascensor |
+| Ruedas fat 16 × 4" polivalentes | 40 km/h de serie: a limitar en España |
+| 750 W con reserva para carga | Suspensión solo trasera |
+| Doble disco de 160 mm | Sin homologación europea localizada |
+| Carga máxima de 120 kg útil | Carga lenta de hasta 7,5 horas |
 
 <img src=/media/patinetes/hiboy-u2-pro-3.webp alt=Hiboy U2 Pro con cesta en ruta>
 
+## Veredicto
+
+El U2 Pro es un nicho bien resuelto: potencia, asiento y ruedas que perdonan el firme, para quien rueda por gusto o por trabajo ligero en entornos de baja velocidad. Como compra española exige los deberes de siempre en Hiboy —limitación aplicada, documentación en orden y un importador que dé la cara— y un garaje donde vivir. Si tu vida encaja en ese guion, pocos vehículos de su precio ofrecen esta combinación. Sus cifras completas están en <a href=/patinetes/hiboy-u2-pro/>su página en nuestro directorio de modelos</a>.
+
 ## Preguntas frecuentes
 
-### ¿Qué diferencia hay con el ECOM 14?
-Más motor (**750 W** frente a 350 W) y más batería (624 Wh frente a 480 Wh), pero también más peso.
+### ¿El U2 Pro es un patinete o una bici eléctrica?
+Es un **patinete con sillín**, sin pedales: se acelera con el puño y se conduce sentado. En España se trata como VMP cuando la limitación a 25 km/h está aplicada y dispone de certificado.
 
 ### ¿Qué autonomía real tiene?
-Unos **37 km**.
+Hiboy declara unos **55 km** máximos. En uso real mixto, estima **35-40 km** por carga.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Cuánto pesa?
+Unos **36,6 kg**. Es un vehículo de garaje, no de subir escaleras a diario. Admite hasta 120 kg de carga.
 
-### ¿Vale para repartir?
-Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
+### ¿Qué ruedas lleva?
+Neumáticos de aire **16 × 4 pulgadas** all-terrain, el formato fat que define al modelo.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Tiene suspensión en ambos ejes?
+No: solo **trasera**, de 125 mm según la marca. Delante filtra el balón de la rueda fat.
 
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+### ¿Cuánto cuesta?
+1.059,99 dólares en hiboy.com para Estados Unidos. En España depende del importador.
+
+¿Te han multado con tu patinete con sillín? <a href=https://recurretumulta.online/#analizador>Deja que nuestra IA analice la multa gratis</a> y descubre si es recurrible. Y para pasar el rato, <a href=/juego-monos/>la caza de monos de la web</a> esconde premios por sus páginas.
+
+**Cómo verificamos:** especificaciones extraídas de su ficha en hiboy.com (mercado EE. UU.) y de su FAQ, consultadas en octubre de 2026. La inconsistencia de la marca al expresar la pendiente máxima (20 % frente a 20°) está en sus propias páginas y se señala en el texto. La autonomía real es estimación editorial.
+
+*Fuentes: la <a href=https://www.hiboy.com/products/hiboy-u2-pro-electric-scooter-with-16-inch-fat-tires>página oficial del U2 Pro en hiboy.com</a> y la normativa publicada por la <a href=https://www.dgt.es/>DGT</a>.*
+`,
   },
   {
     slug: "hiboy-ks4",
