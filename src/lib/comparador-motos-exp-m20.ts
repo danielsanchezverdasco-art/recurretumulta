@@ -150,7 +150,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 948,
     categoria: "Naked",
-    precioDesde: 10650,
+    precioDesde: 10299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 92,
     potenciaCv: 125,
     autonomiaKm: null,
@@ -163,7 +163,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 948 cc con 125 CV: empuje lineal y refinado",
       "10.650 €: de las naked grandes más competitivas por precio",
@@ -893,7 +893,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 645,
     categoria: "Naked",
-    precioDesde: 7299,
+    precioDesde: 7299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56.3,
     potenciaCv: 76.5,
     autonomiaKm: null,
@@ -906,7 +906,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética café racer de fábrica: cúpula, colín y semimanillares",
       "El mismo V-twin de 76,5 CV de la SV650: carácter y fiabilidad",
@@ -1295,7 +1295,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     version: "Tech 2026",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 11239,
+    precioDesde: 11239, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61.2,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -1308,7 +1308,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La versión asfáltica de la 800DE: llantas de palos y tubeless",
       "Bicilíndrico de 776 cc con 83 CV: el mejor twin medio de Suzuki",

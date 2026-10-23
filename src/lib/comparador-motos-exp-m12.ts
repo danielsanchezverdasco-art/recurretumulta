@@ -333,7 +333,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Corsaro 750 Sport 2025",
     cilindradaCc: 749,
     categoria: "Naked",
-    precioDesde: 11990,
+    precioDesde: null, // sin tarifa oficial publicada: Moto Morini aún no ha anunciado el precio (verificado 20/10/2026)
     potenciaKw: 70.6,
     potenciaCv: 96,
     autonomiaKm: null,
@@ -346,7 +346,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Nuevo bicilíndrico en V de 749 cc con 96 CV: la naked italiana más potente de la marca",
       "Menos de 200 kg declarados: agilidad de moto pequeña con motor grande",
@@ -355,7 +355,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "Asiento a 840 mm y postura erguida: también sirve para el día a día",
     ],
     contras: [
-      "Precio aún no oficial en España: la cifra es una estimación de la prensa",
+      "Sin precio oficial publicado: Moto Morini aún no ha anunciado la tarifa de la Corsaro 750 Sport (lanzamiento europeo previsto para el segundo semestre de 2026)",
       "96 CV exigen el carnet A: no hay versión limitable al A2",
       "Protección aerodinámica nula, como toda naked",
       "Red comercial en expansión: menos concesionarios que la competencia",
@@ -650,7 +650,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "V200 Special 2025",
     cilindradaCc: 169,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 8.8,
     potenciaCv: 12,
     autonomiaKm: null,
@@ -672,7 +672,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "Ideal para el carnet A1 o el B con 3 años de antigüedad",
     ],
     contras: [
-      "Precio en España sin confirmar oficialmente por la marca",
+      "4.399 € de tarifa oficial: caro para un scooter de 169 cc frente a los japoneses",
       "169 cc y 12 CV: en autopista se queda corto",
       "Hueco bajo el asiento justo para un casco jet",
       "Red de concesionarios reducida en España",
@@ -776,7 +776,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Elettra S 2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 6500,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 4,
     potenciaCv: 5,
     autonomiaKm: 120,
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Scooter eléctrico con 120 km de autonomía en modo Eco y 90 km/h de punta",
       "4 kW continuos (6 kW pico) con 101 Nm: respuesta inmediata en ciudad",
@@ -798,7 +798,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "Conducible con carnet A1 o B: la puerta eléctrica al estilo italiano",
     ],
     contras: [
-      "Precio estimado (~6.500 €): la prensa aún no confirma la tarifa oficial",
+      "Sin precio oficial: la Elettra S aún no está a la venta y Lambretta no ha publicado su tarifa",
       "Lanzamiento europeo en el segundo semestre de 2026: aún no está a la venta",
       "90 km/h: sin acceso real a autopista",
       "132 kg: pesada para un scooter eléctrico urbano",
@@ -840,7 +840,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Dragster 459 Twin 2026",
     cilindradaCc: 449,
     categoria: "Scooter",
-    precioDesde: 9990,
+    precioDesde: 9990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -1354,7 +1354,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── INDIAN MOTORCYCLE ──
   {
     id: "indian-ftr-1200-sport-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "FTR 1200 Sport",
     version: "FTR 1200 Sport 2025",
     cilindradaCc: 1203,
@@ -1417,7 +1417,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-sport-chief-rt-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Sport Chief RT",
     version: "Sport Chief RT 2025",
     cilindradaCc: 1890,
@@ -1480,7 +1480,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-pursuit-dark-horse-2025-ficha-tecnica-precio",
-    marca: "Indian",
+    marca: "Indian Motorcycle",
     modelo: "Pursuit Dark Horse",
     version: "Pursuit Dark Horse 2025",
     cilindradaCc: 1834,

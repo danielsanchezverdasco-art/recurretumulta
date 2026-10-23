@@ -15,7 +15,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "500SR Voom",
     cilindradaCc: 499,
     categoria: "Deportiva",
-    precioDesde: 7500,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada de la versión Voom (verificado 20/10/2026)
     potenciaKw: 57,
     potenciaCv: 78,
     autonomiaKm: null,
@@ -28,7 +28,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 499 cc con 78 CV que sube hasta las 12.500 rpm: la única deportiva de 4 cilindros del segmento medio",
       "Estética neo-retro con doble óptica redonda y colín con doble salida de escape: no se parece a nada del segmento",
@@ -38,7 +38,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Historia: CFMoto fabrica motores para KTM; el 4 cilindros bebe de esa experiencia",
     ],
     contras: [
-      "Sin precio ni fecha confirmados para España: de momento solo se vende en Asia, Oceanía y Latinoamérica",
+      "Sin precio oficial en España: de momento solo se vende en Asia, Oceanía y Latinoamérica",
       "194 kg en orden de marcha: pesada para una 500 deportiva",
       "Postura y ergonomía más GT que supersport pura: no es una R para circuito",
       "Red de servicio CFMoto aún joven en España frente a las japonesas",
@@ -103,7 +103,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Kemper",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: 9900,
+    precioDesde: null, // sin precio oficial comunicado para Europa (verificado 20/10/2026)
     potenciaKw: 40,
     potenciaCv: 54,
     autonomiaKm: 140,
@@ -116,7 +116,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Carga ultrarrápida: del 0 al 80 % en 10 minutos con CCS Combo 2, como un coche eléctrico",
       "160 km/h de velocidad máxima y 0-100 km/h en 4,9 s: prestaciones de naked media de gasolina",
@@ -126,7 +126,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Cámara frontal Full HD integrada, TFT de 7 pulgadas y TPMS de serie",
     ],
     contras: [
-      "Precio aún sin comunicar oficialmente en Europa: la estimación la sitúa cerca de los 10.000 €",
+      "Sin precio oficial en Europa: la marca no lo ha comunicado",
       "Autonomía realista limitada: 140 km declarados que caen en picado si se exprime el motor",
       "Red de distribución Yadea aún pequeña en España",
       "Peso no comunicado por la marca; las eléctricas de esta potencia no son ligeras",
@@ -445,7 +445,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Kanguro 300",
     cilindradaCc: 298,
     categoria: "Trail",
-    precioDesde: 4990,
+    precioDesde: null, // Moto Morini aún no ha anunciado precio oficial (verificado 20/10/2026)
     potenciaKw: 25,
     potenciaCv: 34,
     autonomiaKm: null,
@@ -458,7 +458,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Resucita un icono de los 80: la Kanguro original es una de las enduro más queridas de Italia",
       "145 kg en seco y 250 mm de recorrido de suspensiones: auténtica trail ligera para el A2",
@@ -468,7 +468,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Dos versiones: estándar (guardabarros alto) y Rally (más rutera)",
     ],
     contras: [
-      "Precio aún sin comunicar oficialmente; la estimación la sitúa en torno a 5.000 €",
+      "Sin precio oficial: Moto Morini aún no lo ha anunciado",
       "Llega en el segundo semestre de 2026: aún no se puede comprar",
       "Asiento a 880 mm: alta para pilotos de talla baja",
       "34 CV justos para viajar por autopista con equipaje",
@@ -616,7 +616,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Kemper RC",
     cilindradaCc: null,
     categoria: "Deportiva",
-    precioDesde: 10990,
+    precioDesde: null, // solo presentada; sin precio oficial (verificado 20/10/2026)
     potenciaKw: 40,
     potenciaCv: 54,
     autonomiaKm: null,
@@ -629,7 +629,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Carenado completo deportivo: la Kemper naked convertida en sport eléctrica",
       "Mismo motor de 40 kW con 54 CV y 0-100 km/h en menos de 5 segundos",
@@ -639,7 +639,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "ABS, control de tracción, TFT a color y cámara frontal de serie",
     ],
     contras: [
-      "De momento solo presentada: sin precio ni fecha de comercialización confirmados",
+      "Sin precio oficial: de momento solo presentada, sin comercialización confirmada",
       "La autonomía no ha sido comunicada; la Kemper naked declara 140 km",
       "Postura deportiva: menos cómoda que la naked para el día a día",
       "Red Yadea en España aún en construcción",
@@ -699,7 +699,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Voltguard VFV",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4490,
+    precioDesde: null, // pre-serie de 2022 que nunca llegó a comercializarse; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 5.5,
     potenciaCv: 7,
     autonomiaKm: 200,
@@ -712,7 +712,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Rueda alta de 14 pulgadas con suelo plano: la receta de la Honda SH, en eléctrico",
       "Hasta 200 km de autonomía declarada con las dos baterías (a 30 km/h constantes)",
@@ -722,7 +722,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Hueco bajo el asiento de 21 litros para un casco y suelo plano para la compra",
     ],
     contras: [
-      "Presentada como pre-serie en EICMA 2022: sin precio oficial confirmado en Europa",
+      "Sin precio oficial: fue una pre-serie de 2022 que nunca llegó a venderse",
       "Los 200 km son a 30 km/h constantes; en uso real la cifra será sensiblemente menor",
       "80 km/h de máxima: justa para rondas y circunvalaciones",
       "5,5 kW de pico se quedan cortos con pasajero y cuestas",
@@ -782,7 +782,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Rumble",
     cilindradaCc: 350,
     categoria: "Custom",
-    precioDesde: 4190,
+    precioDesde: null, // precio para España aún por confirmar por la marca (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -795,7 +795,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "cilindradaCc"],
+    aprox: ["cilindradaCc"],
     pros: [
       "Bobber de 350 cc con alma rockera: la custom más personal de Moto Morini",
       "Apta para el carnet A2: la puerta de entrada al mundo bobber",
@@ -805,7 +805,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "La familia custom de Moto Morini crece junto a la Calibro",
     ],
     contras: [
-      "Precio aún sin anunciar oficialmente; la referencia italiana la sitúa en torno a 4.190 €",
+      "Sin precio oficial en España: la marca aún no lo ha confirmado",
       "Ficha técnica completa sin publicar: potencia y peso aún por confirmar",
       "Llegará en la segunda mitad de 2025 a la red oficial",
       "Las bobber sacrifican comodidad del pasajero y capacidad de carga",
@@ -865,7 +865,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "HPS 300",
     cilindradaCc: 250,
     categoria: "Naked",
-    precioDesde: 4195,
+    precioDesde: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 18,
     potenciaCv: 25,
     autonomiaKm: null,
@@ -878,7 +878,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Diseño neo-retro italiano que sigue pareciendo actual años después",
       "25 CV con carnet A2: la naked clásica perfecta para empezar con marchas",
@@ -888,6 +888,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "La HPS 125 comparte estética para quien quiera empezar con el A1",
     ],
     contras: [
+      "Sin precio oficial vigente: está descatalogada como nueva",
       "Descatalogada como nueva: solo se encuentra de ocasión",
       "25 CV se quedan justos en carretera abierta y con pasajero",
       "Sin electrónica moderna: ni modos, ni TFT, ni control de tracción",
@@ -948,7 +949,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "TX 125 S",
     cilindradaCc: 125,
     categoria: "Trail",
-    precioDesde: 2199,
+    precioDesde: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaKw: 8,
     potenciaCv: 11,
     autonomiaKm: null,
@@ -961,7 +962,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Enduro 125 auténtica: horquilla invertida y llantas de 17 pulgadas para tierra",
       "PVP de 2.199 € en su época: la forma más barata de entrar en el off-road con carnet B",
@@ -971,6 +972,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Robusta y sin electrónica que rompa: ideal para aprender",
     ],
     contras: [
+      "Sin precio oficial vigente: está descatalogada desde 2018",
       "Descatalogada desde 2018: solo existe de segunda mano",
       "11,2 CV: justa incluso para una 125 de campo",
       "Carburación y refrigeración por aire: tecnología de otra época",
@@ -1202,7 +1204,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "500X Adventure ABS",
     cilindradaCc: 471,
     categoria: "Trail",
-    precioDesde: 6990,
+    precioDesde: null, // sin PVP oficial para España (verificado 20/10/2026)
     potenciaKw: 31,
     potenciaCv: 42,
     autonomiaKm: 360,
@@ -1215,7 +1217,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "178 kg en seco: la trail A2 bicilíndrica más ligera de su categoría",
       "Bicilíndrico de 471 cc con 42 CV y distribución DOHC: motor moderno y probado",
@@ -1225,7 +1227,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "La marca Kove crece en Europa con filosofía deportiva (también tiene la 800X)",
     ],
     contras: [
-      "Sin PVP oficial para España: la referencia europea la sitúa en ≈6.990 €",
+      "Sin PVP oficial para España",
       "Red de distribución europea aún pequeña frente a las marcas consolidadas",
       "Depósito de 16,6 litros: autonomía algo justa para grandes viajes",
       "Sin control de tracción ni modos de conducción",
@@ -1280,12 +1282,12 @@ export const MOTOS_LOTE8: MotoComparador[] = [
   },
   {
     id: "swm-varez-125-2023-ficha-tecnica-precio",
-    marca: "SWM",
+    marca: "SWM Motorcycles",
     modelo: "Varez 125",
     version: "Varez 125 ABS",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3490,
+    precioDesde: 3147, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -1298,7 +1300,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño italiano 'R' agresivo: una de las naked 125 más bonitas del segmento",
       "15 CV al límite del A1 con solo 130 kg: relación peso-potencia excelente",
@@ -1308,7 +1310,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Ideal para el carnet B: ligera, manejable y con carácter",
     ],
     contras: [
-      "Sin precio oficial publicado en España: la referencia francesa marca ≈3.490 €",
+      "Precio oficial en España de 3.147 €: de las naked 125 más baratas",
       "Red de concesionarios SWM limitada en España",
       "Depósito pequeño: autonomía justa para salir de ruta",
       "Sin pantalla TFT ni conectividad",
@@ -1451,7 +1453,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Napoleon 450",
     cilindradaCc: 448,
     categoria: "Custom",
-    precioDesde: 6500,
+    precioDesde: 3600, // 26.900 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 37,
     potenciaCv: 50,
     autonomiaKm: null,
@@ -1465,28 +1467,9 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "V-twin de 448 cc con 50 CV y 45 Nm: el sonido y el carácter de una custom de verdad",
-      "Diseño bobber de guardabarros corto y depósito de lágrima: puro estilo",
-      "196 kg en seco y asiento a 720 mm: accesible y manejable",
-      "Depósito de 16 litros para una custom de este tamaño",
-      "En China cuesta unos 6.000-6.500 $: una custom V-twin por el precio de una 125 europea",
-      "La marca Benda es famosa por sus diseños rompedores (LFC 700, Darkflag)",
-    ],
-    contras: [
-      "No se vende oficialmente en España: solo importación o mercados asiáticos",
-      "Sin precio oficial europeo: la referencia china la sitúa en ≈6.500 € al cambio",
-      "Sin red de servicio ni recambios en Europa",
-      "Homologación Euro 5 para Europa por confirmar",
-      "50 CV para 196 kg: ritmo tranquilo, no esperes deportividad",
-      "Reventa inexistente en el mercado europeo",
-    ],
-    curiosidades: [
-      "Benda presentó la Napoleon 450 en el Salón de Chongqing 2024 junto a la Chinchilla",
-      "Su V-twin a 60 grados es una rareza entre las custom chinas, casi todas monocilíndricas",
-      "El nombre rinde homenaje a Napoleón, como guiño a su ambición imperial",
-      "Benda saltó a la fama mundial con la LFC 700, una power-cruiser de 4 cilindros",
-    ],
+    pros: ["Su bicilíndrico en V de 448 cc y 50 CV marca la diferencia frente a la mayoría de custom de esta cilindrada: aquí manda el pulso al ralentí y el empuje grave al salir de una rotonda, no la estirada larga.", "La silueta es bobber sin medias tintas, con guardabarros trasero recortado y depósito en forma de lágrima, muy distinta a la línea más cruiser de su hermana Chinchilla 450 pese a compartir base mecánica.", "Los 196 kg declarados y el asiento bajo que recoge la ficha la hacen menos intimidante en parado que una custom grande, algo que se nota al maniobrar entre coches o al apoyar los pies en un semáforo.", "El depósito de 16 litros que figura en la ficha da margen para salidas de domingo sin vivir pendiente de la siguiente gasolinera, un detalle poco habitual en bobber tan recortadas de carrocería."],
+    contras: ["En España no hay venta oficial de la Napoleon 450: hacerse con una pasa por importación o por mercados asiáticos, con todo lo que eso complica la compra y la matriculación.", "Los 6.500 € que muestra la ficha son una cifra aproximada, no un PVP europeo cerrado, así que el coste final puede moverse según importador, transporte y homologación.", "Sin red propia de servicio ni recambios asentada en Europa, una simple caída o una pieza de desgaste puede convertirse en una espera larga si el importador no tiene stock.", "Declara 50 CV, pero para el carnet A2 la ficha la limita a 35 kW: quien la quiera para ese permiso no disfrutará la versión plena hasta sacarse el A."],
+    curiosidades: ["Se desveló en el Salón de Chongqing de 2024 junto a la Chinchilla 450, las dos con la misma base de 448 cc pero con carrocerías y posturas pensadas para gustos opuestos.", "Su motor en V a 60 grados es una rareza en las custom chinas de media cilindrada, donde lo normal hasta ahora ha sido recurrir a un monocilíndrico mucho más sencillo."],
     imagen: "/media/benda-napoleon-450-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -1534,7 +1517,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Chinchilla 450",
     cilindradaCc: 448,
     categoria: "Custom",
-    precioDesde: 6500,
+    precioDesde: 3600, // 26.900 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 37,
     potenciaCv: 50,
     autonomiaKm: null,
@@ -1548,28 +1531,9 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["precioDesde"],
-    pros: [
-      "V-twin de 448 cc con 50 CV: custom clásica con mecánica noble",
-      "Estética cruiser tradicional con guardabarros largos y mucho cromo",
-      "198 kg en seco y asiento bajo: cómoda para el día a día",
-      "Depósito de 16 litros y consumo contenido del V-twin",
-      "Precio en China de unos 6.500 $: custom V-twin al precio de una 125 europea",
-      "Hermana de la Napoleon 450: la opción clásica frente a la bobber",
-    ],
-    contras: [
-      "No se vende oficialmente en España ni en Europa",
-      "Sin precio oficial europeo: ≈6.500 € al cambio como referencia china",
-      "Sin red de servicio ni recambios en Europa",
-      "Homologación Euro 5 para Europa por confirmar",
-      "Ritmo tranquilo: es una custom para disfrutar, no para correr",
-      "Reventa inexistente en el mercado europeo",
-    ],
-    curiosidades: [
-      "La Chinchilla 450 se presentó junto a la Napoleon 450 en Chongqing 2024",
-      "Su nombre viene de la chinchilla, el roedor de pelaje suave: guiño a su suavidad",
-      "La versión posterior creció hasta los 476 cc como Chinchilla 500",
-      "Benda diseña todas sus motos con un estilo muy personal que rompe moldes",
-    ],
+    pros: ["Su V-twin propio de 448 cc entrega 37 kW (50 CV) y 45 Nm: no es un bicilíndrico en paralelo disfrazado de cruiser, es la arquitectura que pide una custom de verdad", "Asiento segmentado pensado para llevar pasajero y doble amortiguador trasero visible, justo lo contrario del monoplaza flotante de la Napoleon 450 con la que comparte base", "Transmisión por correa, horquilla invertida y pinza delantera de cuatro pistones con ABS de doble canal: equipamiento que en esta cilindrada suele pagarse aparte", "Depósito de 16 litros y planteamiento de crucero urbano de tamaño medio, más grande y con neumáticos más anchos que la anterior Chinchilla 300"],
+    contras: ["En España no hay venta oficial de esta 450: los cerca de 6.500 € de la ficha son una referencia aproximada del precio chino, no un PVP que puedas firmar en un concesionario", "Sin importador ni red de recambios europea confirmada para este modelo, una caída tonta puede convertirse en semanas esperando una pieza desde China", "Frena con un solo disco delante para mover 198 kg: suficiente en uso tranquilo, justo si bajas un puerto cargado y con pasajero", "Su evolución natural ya existe y se llama Chinchilla 500, con 476 cc, así que la 450 corre el riesgo de quedarse como versión de paso solo para su mercado de origen"],
+    curiosidades: ["Se desveló en mayo en Motor China junto a la Napoleon 450, salió en preventa el 1 de junio en China y las primeras entregas por lotes empezaron el 15 de julio, según China Motor World", "En su mercado de origen se ofrecía en cinco colores —blanco, negro, gris, rojo y azul— y costaba 26.900 yuanes"],
     imagen: "/media/benda-chinchilla-450-2024-ficha-tecnica-precio-1.webp",
     galeria: [
       {

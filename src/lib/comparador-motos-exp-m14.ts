@@ -23,7 +23,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "SR/S 2025",
     cilindradaCc: null,
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: 20790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 82,
     potenciaCv: 111,
     autonomiaKm: null,
@@ -45,7 +45,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Garantía europea de 5 años con kilometraje ilimitado, batería incluida",
     ],
     contras: [
-      "Precio de superbike (más de 20.000 € en EE. UU.) sin red de talleres extensa en España",
+      "20.790 € en España: precio de superbike sin red de talleres extensa en el país",
       "Pesa más de 220 kg: se nota en parado y en curvas lentas",
       "La carga rápida de 6 kW es opcional y cara; de serie carga lenta en casa",
       "Autonomía real en autovía muy inferior a la urbana: hay que planificar las rutas",
@@ -86,7 +86,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "DSR/X 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 23895,
+    precioDesde: 23895, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaKw: 75,
     potenciaCv: 100,
     autonomiaKm: 288,
@@ -99,7 +99,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A",
     carga: "Doméstica 20-80% en 7 h; Nivel 2 en 1,4 h; con carga rápida de 6 kW en 43 min",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "100 CV y 229 Nm: la trail eléctrica más potente del mercado",
       "288 km de autonomía urbana declarada con la batería de 17,3 kWh",
@@ -145,12 +145,12 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── NIU ──
   {
     id: "niu-fqi-500-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "FQi 500",
     version: "FQi 500 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 3799,
+    precioDesde: 3799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6.4,
     potenciaCv: 8.7,
     autonomiaKm: 100,
@@ -163,27 +163,10 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 72 V y 28 Ah; carga completa en 3-6 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
-    pros: [
-      "Motor de 6,4 kW y 95 km/h: prestaciones de 125 por 3.799 €",
-      "Dos baterías extraíbles de 72 V: se cargan en casa o en la oficina sin instalación",
-      "Frenada regenerativa y app NIU con GPS antirrobo y diagnóstico",
-      "Asiento de 760 mm y 127 kg: manejable para cualquier talla",
-      "Sube pendientes del 25%: válido para ciudades con cuestas",
-    ],
-    contras: [
-      "Sin hueco bajo el asiento: las dos baterías ocupan todo el espacio",
-      "100 km de autonomía declarada se quedan en unos 80 km reales a buen ritmo",
-      "Red de servicio NIU más pequeña que la de las marcas japonesas",
-      "La app y la conectividad son de pago a partir del tercer año",
-      "Diseño continuista respecto a la familia NQi",
-    ],
-    curiosidades: [
-      "La serie FQi debutó en el EICMA con la promesa de llevar la conectividad NIU a un precio menor",
-      "Las baterías suman 4,03 kWh, más que muchos scooters equivalentes a 125",
-      "Comparte la filosofía de baterías extraíbles con el resto de la gama NIU",
-      "Su nombre rompe con las series M, N y R: la F es la nueva familia urbana",
-    ],
+    aprox: ["autonomiaKm"],
+    pros: ["Con 8,7 CV y 95 km/h de punta, rinde como un 125 de gasolina pero sale por 3.799 euros", "Puedes llevarte las dos baterías a casa y recargarlas allí entre 3 y 6 horas, sin obra ni cargador de pared", "Al frenar recupera parte de la energía y, desde el móvil, permite localizarla y revisar su estado", "Pesa solo 127 kg y admite dos ocupantes, una combinación cómoda para moverse y aparcar en ciudad", "Lleva etiqueta Cero y se conduce con el A1 o con el carné B si ya tienes tres años de antigüedad"],
+    contras: ["Olvídate de guardar un casco bajo el sillín: ese hueco lo absorbe por completo el conjunto de baterías", "La autonomía figura como declarada, con 100 km; yendo deprisa lo prudente es planificar la recarga antes", "Encontrar un taller de la marca cuesta más que con fabricantes japoneses asentados desde hace décadas", "Algunas funciones conectadas dejan de ser gratuitas cuando avanza la propiedad, toca revisar condiciones al comprarla", "Su estética sigue la línea ya vista en otros scooters de la casa, sin un salto visual claro para 2025"],
+    curiosidades: ["Su presentación tuvo lugar en EICMA, donde la marca la posicionó como vía de acceso más asequible a sus servicios conectados", "Entre ambos módulos acumula 4,03 kWh, una capacidad generosa dentro de los scooters pensados como alternativa al 125", "Mantener las baterías desmontables la alinea con el planteamiento práctico que recorre todo el catálogo de la firma", "La letra inicial marca distancia frente a las gamas M, N y R, inaugurando una línea pensada para uso urbano"],
     imagen: "/media/motos/niu-fqi-500-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -208,7 +191,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "niu-mqi-gt-evo-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "MQi GT Evo",
     version: "MQi GT Evo 2025",
     cilindradaCc: null,
@@ -227,26 +210,9 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carga: "Dos baterías extraíbles de 72 V; recarga en unas 5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: [
-      "100 km/h de punta: el scooter NIU más rápido, apto para rondas",
-      "Asiento 30% más largo que la serie NQi: dos adultos viajan cómodos",
-      "Carga útil de 275 kg: admite pasajero y compra sin problemas",
-      "Pantalla LCD a color personalizable y faro halo de tercera generación",
-      "Conectividad NIU con GPS antirrobo y bloqueo electrónico de dirección",
-    ],
-    contras: [
-      "75 km de autonomía declarada: justa para usarla a diario a ritmo vivo",
-      "4.999 €: se acerca al precio de una 125 de gasolina con más autonomía",
-      "128 kg con baterías: pesado para moverlo en parado",
-      "La segunda batería ocupa el hueco bajo el asiento",
-      "Sin control de tracción ni ABS: frenos con regenerativa y CBS",
-    ],
-    curiosidades: [
-      "Fue el scooter eléctrico más potente de NIU hasta la llegada de la serie NQiX",
-      "Su motor Bosch de 6,5 kW lo homologa como equivalente a 125",
-      "El modo E-Save estira la autonomía limitando la velocidad a 45 km/h",
-      "NIU lo presentó en el EICMA de Milán junto al prototipo del RQi",
-    ],
+    pros: ["Alcanza los 100 km/h, margen suficiente para circular por rondas y vías rápidas urbanas sin ir forzado", "Entrega 6,5 kW, equivalentes a 8,8 CV, y se conduce con el A1 o con el permiso B con tres años de antigüedad", "Las dos baterías extraíbles de 72 V permiten cargar en un enchufe casero durante unas 5 h, sin depender de un punto fijo en el garaje", "Lleva etiqueta Cero de la DGT, ventaja clara para moverse y aparcar en zonas de bajas emisiones", "Desde el móvil se puede localizar gracias al GPS, pensado para disuadir robos y facilitar su recuperación"],
+    contras: ["Los 75 km declarados de autonomía se quedan escasos si el recorrido diario incluye tramos a ritmo rápido", "Cuesta 4.999 €, importe que obliga a compararlo con alternativas de gasolina capaces de cubrir más distancia por uso", "En parado, maniobrar con sus 128 kg exige cierta maña, sobre todo en espacios estrechos", "Guardar la segunda unidad bajo el asiento resta espacio útil para el casco u otros objetos cotidianos", "La frenada recurre a CBS y a la recuperación de energía, sin ABS que aporte un plus de seguridad en mojado"],
+    curiosidades: ["Durante un tiempo ocupó el escalón más alto de NIU en prestaciones, hasta que la familia NQiX le quitó ese trono interno", "Detrás de su empuje hay un motor Bosch, socio habitual de la marca en esta generación de scooters eléctricos", "Dispone de un programa E-Save que recorta el ritmo hasta 45 km/h cuando interesa ahorrar energía al máximo", "Su debut público se produjo en el salón EICMA de Milán, compartiendo foco con el prototipo RQi de la casa"],
     imagen: "/media/motos/niu-mqi-gt-evo-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -267,16 +233,16 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     fuenteNombre: "NIU",
     fuenteUrl: "https://www.niu.com",
     analisisSlug: "niu-mqi-gt-evo-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir y sin cadena de transmisión que engrasar", "cadenaPasos": ["Antes de salir, comprueba luces largas y cortas, luz de freno, intermitentes y claxon", "Revisa presión, dibujo y posibles cortes en ambos neumáticos antes de circular", "Acciona las dos manetas y verifica que el recorrido libre de freno se mantiene entre 5 y 9 mm", "Inspecciona el nivel de carga y el aspecto exterior de las dos baterías extraíbles", "Limpia la carrocería con agua y detergente neutro usando un paño suave, sin chorro a presión sobre el compartimento de baterías"], "intervaloMantenimiento": "Primera revisión a los 2 meses o a los 500 km; después, revisión general cada 6 meses o cada 3.000 km, lo que ocurra antes, según el manual de usuario del MQi GT Evo", "trucos": ["Si alguna comprobación diaria sale mal, acude al concesionario en lugar de seguir circulando", "Con uso intenso, con sobrecarga o por firmes en mal estado, el manual aconseja acortar el plazo entre revisiones", "No enchufes el cargador si el puerto de carga está mojado: espera a que se seque por completo", "Utiliza recambios originales para conservar el rendimiento previsto y la cobertura habitual del vehículo"]},
   },
   {
     id: "niu-nqix-500-2025-ficha-tecnica-precio",
-    marca: "Niu",
+    marca: "NIU",
     modelo: "NQiX 500",
     version: "NQiX 500 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4599,
+    precioDesde: 4599, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 5,
     potenciaCv: 6.8,
     autonomiaKm: 95,
@@ -340,7 +306,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "S02 LS 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 2.2,
     potenciaCv: 3,
     autonomiaKm: 55,
@@ -362,6 +328,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Fabricada en Barcelona, con red de servicio propia en España",
     ],
     contras: [
+      "Sin precio oficial publicado para particulares: Silence vende la S02 LS sobre todo a flotas y con batería en suscripción",
       "45 km/h de punta: solo ciudad, vetada de rondas y carreteras",
       "55 km de autonomía declarada: justa para repartidores exigentes",
       "1,6 kW nominales (2,2 kW de pico): le cuesta en cuestas pronunciadas con pasajero",
@@ -467,7 +434,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "SK1 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 96,
@@ -489,6 +456,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Precio de acceso a la gama Horwin, por debajo del SK3",
     ],
     contras: [
+      "Sin precio oficial publicado en España: Horwin no anuncia tarifa de la SK1 en su web europea",
       "45 km/h de punta: estrictamente urbano",
       "2 kW nominales: justo con pasajero o en cuestas",
       "Sin la pantalla táctil ni el equipamiento del EK3",
@@ -530,7 +498,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "EK3 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4490,
+    precioDesde: 4700, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4.2,
     potenciaCv: 5.7,
     autonomiaKm: 90,
@@ -543,27 +511,10 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Batería extraíble Samsung de 72 V; 4 h por batería; segunda batería opcional (200 km)",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
-    pros: [
-      "95 km/h de punta con motor de 4,2 kW continuos (6,7 kW de pico)",
-      "Segunda batería opcional que eleva la autonomía hasta 200 km",
-      "Pantalla táctil, arranque sin llave, control de crucero y marcha atrás",
-      "Premio Red Dot de diseño: es de los scooters eléctricos más bonitos",
-      "Batería Samsung extraíble con 4 h de carga",
-    ],
-    contras: [
-      "4.490 € y la segunda batería dispara el precio",
-      "90 km con una batería: hay que planificar si no se compra la segunda",
-      "El tacto del acelerador es brusco en modo Sport",
-      "Sin ABS: frenada combinada CBS",
-      "La pantalla táctil con guantes es poco práctica",
-    ],
-    curiosidades: [
-      "Ganó el Red Dot Design Award en 2020",
-      "Se arranca deslizando el dedo por la pantalla, sin llave",
-      "Las tiras LED laterales lo hacen inconfundible de noche",
-      "La versión Deluxe lleva asiento de cuero marrón y retrovisores cromados",
-    ],
+    aprox: [],
+    pros: ["Con 95 km/h declarados y acceso con el A1 —o con el B y tres años de antigüedad—, esta EK3 de 2025 no se queda encerrada en calles de 50: puede enlazar una ronda o un tramo corto de circunvalación sin circular siempre al límite.", "La batería Samsung de 72 V se saca del scooter y se carga en unas 4 horas en un enchufe doméstico, así que quien aparca en la calle y vive en un piso no depende de encontrar un punto de carga público para usarla a diario.", "El hueco para la segunda batería permite pasar de los 90 km declarados con una sola a unos 200 km con dos montadas, y esa modularidad deja pagar el extra únicamente si tus trayectos lo exigen, no por adelantado.", "Marcha atrás, control de crucero y arranque sin llave desde la pantalla táctil: en la EK3 de 2025 son detalles que se agradecen al aparcar en batería entre coches o al maniobrar en un garaje estrecho, no un simple adorno de catálogo."],
+    contras: ["Los 4.490 € de partida ya la colocan en la zona cara de su categoría, y la segunda batería —justo la que da sentido a la cifra de 200 km— se paga aparte, por lo que el precio final se aleja bastante del de acceso.", "No hay ABS, solo frenada combinada CBS: en mojado o ante una frenada de emergencia tendrás que dosificar con más cuidado que en un scooter que ya monte antibloqueo, y eso se nota si vienes de uno que sí lo llevaba.", "Los 90 km con una batería son autonomía declarada, no la que obtendrás sosteniendo 80-95 km/h: si tu recorrido mezcla ciudad y vía rápida, el margen útil se estrecha y la planificación deja de ser opcional.", "La pantalla táctil pierde buena parte de su gracia con guantes de invierno: acertar en los iconos cuesta y el gesto de arrancar deslizando el dedo deja de ser tan rápido como promete en parado y sin guantes."],
+    curiosidades: ["El EK3 se llevó el Red Dot Design Award 2021 en la categoría de diseño de producto: no es un galardón genérico de la marca, es de este scooter concreto y de esa combinación de escudo redondeado con tiras LED horizontales.", "La versión Deluxe del EK3 no cambia ni motor ni batería respecto a la estándar: se distingue solo por el acabado metalizado, el asiento en cuero marrón y los retrovisores cromados, así que pagas estética, no prestaciones."],
     imagen: "/media/motos/horwin-ek3-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -585,6 +536,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     fuenteUrl: "https://www.horwin.eu",
     analisisSlug: "horwin-ek3-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Horwin no publica para el EK3 una tabla oficial con intervalos en kilómetros ni costes cerrados de revisión, así que no hay cifras que dar sin inventarlas. Lo que sí prescribe la marca es cuidar la batería: usar siempre el cargador original, desconectarlo cuando la carga termina, cargar en un lugar fresco y seco y, si el scooter va a estar parado un tiempo prolongado, recargar la batería al menos una vez al mes para que no se deteriore. Horwin Europa añade que el motor eléctrico no requiere mantenimiento y que la atención periódica se concentra en el sistema de frenos. Para intervalos y presupuesto concretos de esta unidad de 2025, pide la hoja de mantenimiento al concesionario antes de comprarla.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Horwin España — Cómo mantener y cuidar tu moto eléctrica Horwin: https://horwin.com.es/horwin/como-mantener-y-cuidar-tu-moto-electrica-horwin/"},
   },
   {
     id: "horwin-cr6-2025-ficha-tecnica-precio",
@@ -593,7 +545,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "CR6 2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: 5890,
+    precioDesde: 5790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7.2,
     potenciaCv: 9.8,
     autonomiaKm: 150,
@@ -606,7 +558,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Batería integrada Panasonic de 72 V; 0-80% en 3 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Estética café racer clásica con tecnología eléctrica: no parece una eléctrica",
       "150 km de autonomía a 45 km/h, de lo mejor en moto eléctrica A1",
@@ -619,7 +571,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Batería integrada no extraíble: hay que cargar donde se aparca",
       "Sin ABS: frenada combinada CBS",
       "El cuadro mezcla analógico y digital con estética discutible",
-      "5.890 € por 7,2 kW: cara frente a scooters más potentes",
+      "5.790 € por 7,2 kW: cara frente a scooters más potentes",
     ],
     curiosidades: [
       "Es la hermana sencilla de la CR6 Pro: sin caja de cambios manual de 5 velocidades",
@@ -657,7 +609,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "Pulse 2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 15090, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: 160,
@@ -679,7 +631,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Garantía de 5 años o 50.000 km en la batería",
     ],
     contras: [
-      "Precio alto para 160 km de autonomía urbana (unos 13.999 $ en EE. UU.)",
+      "15.090 € en Europa: precio alto para 160 km de autonomía urbana",
       "129 km/h de punta y sin carga rápida: no es rutera",
       "177 kg: pesada para una naked A2",
       "Red de concesionarios BRP pequeña en España",
@@ -720,7 +672,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "Origin 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: 15790, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: 145,
@@ -784,7 +736,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "TC Max 2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 4849, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 3.9,
     potenciaCv: 5.3,
     autonomiaKm: 110,
@@ -798,26 +750,9 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carga: "Batería extraíble de 72 V y 45 Ah; carga nocturna en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["autonomiaKm"],
-    pros: [
-      "Estética café racer con ruedas de radios: la eléctrica A1 con más carácter",
-      "95 km/h de punta: llega donde los ciclomotores eléctricos no llegan",
-      "Batería extraíble: se carga en casa sin punto de recarga",
-      "Transmisión por correa dentada: silenciosa y sin mantenimiento",
-      "Frenos Brembo con frenada combinada",
-    ],
-    contras: [
-      "110 km de autonomía declarada; en uso realista unos 70-80 km",
-      "3,9 kW nominales: justa con pasajero en cuestas",
-      "Sin ABS: frenada combinada CBS",
-      "La batería es grande y pesada para subirla a casa a diario",
-      "El precio en Europa ronda los 4.500-5.000 € por prestaciones modestas",
-    ],
-    curiosidades: [
-      "Vmoto (su matriz china) también fabrica para otras marcas europeas",
-      "La correa dentada elimina el engrase y el tensado de la cadena",
-      "Existe una edición Night con estética oscurecida",
-      "Es una de las eléctricas A1 más vendidas en Reino Unido",
-    ],
+    pros: ["Su motor va montado en el centro del chasis y mueve la rueda trasera por correa dentada, así que no hay cadena que engrasar ni tensar y rodar en ciudad es especialmente silencioso.", "Con 95 km/h declarados y acceso con el A1 —o con el B más tres años de antigüedad— puede enlazar rondas y tramos cortos de vía rápida, un terreno vetado a un ciclomotor eléctrico limitado a 45 km/h.", "La batería de 72 V y 45 Ah, con 3,2 kWh, se extrae de su alojamiento bajo el falso depósito y se enchufa en un enchufe doméstico: quien vive en un piso sin garaje no depende de instalar un punto de recarga.", "Son 101 kg para una moto de dos plazas: maniobrar en parado, meterla en un hueco de aparcamiento o dar la vuelta en una calle estrecha no exige la fuerza que pide una 125 de gasolina.", "Faro redondo, ruedas de radios y silueta café racer en la 2025: tiene presencia de moto clásica de verdad, no la de un scooter eléctrico disfrazado."],
+    contras: ["La autonomía oficial es de 110 km, pero esa cifra es declarada: sostener ritmos cercanos a su velocidad punta castiga mucho la batería de 3,2 kWh y obliga a planificar la vuelta con margen, no a fiarse del dato de catálogo.", "No lleva ABS, solo frenada combinada CBS con pinzas Brembo: en suelo mojado o sobre pintura toca dosificar con más cabeza que en una A1 con antibloqueo.", "Extraíble no significa ligera: las pruebas publicadas cifran la batería en torno a 22 kg, así que subirla a un piso sin ascensor cada noche es un esfuerzo que se nota en los brazos.", "Con 3,9 kW nominales, que son 5,3 CV, cumple sobrada en llano, pero con pasajero y una cuesta prolongada la reserva se agota pronto y adelantar exige anticiparse mucho."],
+    curiosidades: ["Cuando se presentó en Milán, la versión con ruedas de radios costaba 200 euros más que la de llantas de aluminio, un sobreprecio puramente estético que aún define a la TC Max frente a sus hermanas.", "Aunque imita a una clásica de gasolina, no tiene tubo de escape ni motor en el buje de la rueda: el propulsor va en posición central y la transmisión final es por correa, los dos detalles que la delatan como eléctrica al mirarla de cerca."],
     imagen: "/media/motos/super-soco-tc-max-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -847,7 +782,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "CPx Pro 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 5589, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 7,
     potenciaCv: 9.5,
     autonomiaKm: 100,
@@ -911,7 +846,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "RM1 2025",
     cilindradaCc: null,
     categoria: "Retro",
-    precioDesde: null,
+    precioDesde: 5930, // 4.995 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la decena
     potenciaKw: 4.5,
     potenciaCv: 6.1,
     autonomiaKm: 64,
@@ -924,7 +859,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles con asa de bambú (10-12 kg); carga en enchufe doméstico en ~4 h; la 2ª batería duplica la autonomía",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["precioDesde", "autonomiaKm", "pesoKg"],
     pros: [
       "Diseño retro británico que no parece eléctrico: la más bonita de su clase",
       "Baterías extraíbles con asa: se cargan en la oficina como un portátil",
@@ -975,7 +910,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "S2 Del Mar 2025",
     cilindradaCc: null,
     categoria: "Scrambler",
-    precioDesde: 12490,
+    precioDesde: 12490, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 60,
     potenciaCv: 82,
     autonomiaKm: 181,
@@ -997,7 +932,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Garantía de 2 años en la moto y 5 años en la batería, con kilometraje ilimitado",
     ],
     contras: [
-      "Precio europeo alto (más de 19.000 € en Alemania para la gama S2)",
+      "12.490 € de precio oficial en España: alto frente a las térmicas equivalentes",
       "166 km/h de punta: limitada electrónicamente",
       "Sin carga rápida de Nivel 3: los viajes largos son un ejercicio de paciencia",
       "Red de concesionarios LiveWire en expansión en España, aún pequeña",
@@ -1039,7 +974,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "Keeness 2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 7010, // 5.900 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la decena
     potenciaKw: 5.5,
     potenciaCv: 7.5,
     autonomiaKm: 129,
@@ -1052,7 +987,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 72 V y 32 Ah; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "bateriaKwh"],
+    aprox: ["precioDesde", "autonomiaKm", "bateriaKwh"],
     pros: [
       "11 kW de pico (15 CV) por 0-50 km/h en 4 s: la naked A1 eléctrica más viva",
       "129 km de autonomía EEC con doble batería extraíble",
@@ -1061,7 +996,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Yadea es el mayor fabricante de eléctricas ligeras del mundo: recambios garantizados",
     ],
     contras: [
-      "Entre 5.800 y 7.000 € en Europa: cara para 5,5 kW nominales",
+      "Unos 7.010 € convertidos de su tarifa británica: cara para 5,5 kW nominales",
       "Sin ABS: frenada combinada CBS",
       "Las baterías extraíbles suman peso y ocupan el hueco bajo el asiento",
       "Red de distribución europea aún en construcción",
@@ -1102,7 +1037,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "Fierider 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 148,
@@ -1124,7 +1059,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Precio oficial en Europa: 5.995 €",
     ],
     contras: [
-      "5.995 €: se acerca a maxi-scooters de gasolina con más autonomía",
+      "Sin precio oficial publicado en Europa: Yadea no ha anunciado tarifa de la Fierider para España",
       "Doble batería: peso y pérdida del hueco bajo el asiento",
       "Sin datos de red de servicio en España aún",
       "100 km/h de punta: justa para autovía sostenida",

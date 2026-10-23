@@ -15,7 +15,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "300 SEF 2025",
     cilindradaCc: 304,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -78,7 +78,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "500 SEF 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -208,7 +208,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "RR 480 2025",
     cilindradaCc: 478,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "Xtrainer 300 2025",
     cilindradaCc: 292,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: 7690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -293,7 +293,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
       "Arranque eléctrico y mapas de potencia de serie",
     ],
     contras: [
-      "Precio oficial 2025 no publicado en España",
+      "7.690 € de tarifa oficial: precio contenido para una enduro 2T, aunque con menos equipamiento que las RR",
       "Suspensiones orientadas al confort, no a la competición pura",
       "El 2T consume y contamina más que un 4T equivalente",
       "Depósito de 8,8 L: justo para rutas largas",
@@ -334,7 +334,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "Alp 200 2025",
     cilindradaCc: 200,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -665,26 +665,9 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carga: null,
     etiquetaDgt: null,
     aprox: [],
-    pros: [
-      "Motor 4T de 450 cc con entrega brutal y controlable",
-      "Quickshifter de serie: cambios sin embrague a plena carga",
-      "Solo 103 kg en seco: agilidad de 250 con potencia de 450",
-      "Horquilla WP XACT de 48 mm y electrónica de competición",
-      "Desde 11.295 €: la 450 de cross más accesible del grupo KTM",
-    ],
-    contras: [
-      "Moto de circuito: no homologada, sin matrícula ni etiqueta DGT",
-      "El 450 exige físico y técnica: no es moto para empezar",
-      "Revisiones frecuentes si se usa en competición",
-      "Consumo y desgaste de neumáticos elevados en uso intensivo",
-      "Solo apta para circuitos cerrados",
-    ],
-    curiosidades: [
-      "Es la moto con la que GasGas compite en el Mundial de MXGP",
-      "Comparte la base técnica con la KTM 450 SX-F",
-      "El launch control ayuda en las salidas de parrilla",
-      "MC viene de 'Motocross Competition'",
-    ],
+    pros: ["En el banco de pruebas de Dirt Rider, esta 2026 firmó 53,4 hp a 10.100 rpm y 46,4 Nm a 7.200 rpm medidos a la rueda, con más potencia máxima que la KTM 450 SX-F de su mismo grupo", "La novedad visible del año es el uniforme negro: llantas, manillar Neken y funda de asiento en ese color, tapas de radiador con logotipo pequeño sobre fondo oscuro y gráficos IML integrados en el plástico", "Repite sin tocar el bastidor estrenado en 2025, con los recortes en torreta de amortiguador y pletinas de culata que debutaron en la Factory Edition de 2024, más el muelle trasero de 45 Nm adoptado ese mismo año", "Escape y caja de aire se han retocado para 2026 con la vista puesta en los límites sonoros de AMA y FIM, y el filtro se inspecciona sin herramientas retirando solo la tapa lateral izquierda", "Por los 11.295 € que recoge motofichas para la 2026-2027 es la 450 austriaca más asequible, y la única del trío que sale de serie con Maxxis Maxxcross MX-ST en medidas 80/100-21 y 110/90-19"],
+    contras: ["Las ayudas electrónicas no vienen montadas: para disponer de dos mapas, control de tracción, asistencia en las salidas o cambio rápido hay que pagar aparte el interruptor Map Select, y sin él el manillar solo reúne arranque y parada", "Su entrega llega amortiguada a propósito: colector sin cámara de resonancia, silencioso alargado con boca reducida y admisión cerrada, la receta que Dirt Rider señala como freno frente a la SX-F, sin ni siquiera tapa de airbox ventilada opcional", "El cuentahoras gobierna el taller y no el calendario: la tabla del manual encadena servicios tras 1 hora y cada 15, 45 y 90 horas, con aceite, filtro y limpieza de tamices en cada escalón", "Motofichas la cataloga como moto de competición y no como modelo matriculable, así que ninguna jornada empieza en el garaje de casa: toca remolque o furgoneta hasta un recinto cerrado", "Los 103 kg declarados son sin combustible: Dirt Rider la pesó con el depósito lleno en 242 libras, unos 109,8 kg, y midió el asiento a 37,5 pulgadas, en torno a 953 mm que complican apoyar el pie entre roderas"],
+    curiosidades: ["El año 2026 marca su sexta temporada en el mercado: la familia MC aterrizó en 2021 y esta generación continuista lo celebra solo con el cambio de imagen en negro", "La marca destaca para su cigüeñal un rodamiento plano de cabeza de biela, formado por dos casquillos ajustados a presión, con intervalos de servicio largos de hasta 90 horas", "Dentro de la centralita Keihin viaja un sensor de vuelco que corta el encendido si la caída es seria, y esa misma gestión alimenta el cuentahoras del cuadro", "Entre los retoques discretos del año figura un cierre de radiador rediseñado para manipularlo mejor, y como accesorio queda la unidad CUO con GPS para ajustar motor y suspensiones desde la app GASGAS+"],
     imagen: "/media/motos/gasgas-mc-450f-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -705,7 +688,8 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     fuenteNombre: "Motorbikemag",
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/gasgas-mc-450f/",
     analisisSlug: "gasgas-mc-450f-2026-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"intervaloMantenimiento": "Lo dicta el cuentahoras y no un cuentakilómetros: primera intervención cumplida 1 hora de uso y escalones posteriores al alcanzar 15, 45 y 90 horas, con un control adicional cada 24 meses, según la tabla 9.2 del manual del propietario", "aceiteTipo": "10W-50 totalmente sintético; la recomendación de lubricantes de GASGAS para esta MC es el Motorex Cross Power 4T con homologación JASO MA2, formulado para embragues multidisco en baño de aceite como su DDS", "filtroAirePasos": ["Desmonta la tapa lateral izquierda sin herramientas: es el acceso directo a la caja del filtro que esta generación deja a la vista en el flanco de la moto", "Saca el elemento filtrante sujetándolo por su soporte y sacúdelo ya lejos de la admisión; si toca lavarlo, emplea limpiador específico para filtros de motocross y déjalo secar por completo antes de volver a aceitarlo", "Limpia el interior de la toma de aire de una sola pieza y, al recolocar el elemento, comprueba que asienta en todo su perímetro, porque una rendija ahí deja pasar arena directa al cuerpo Keihin de 44 mm"], "cadenaPasos": ["Con la rueda trasera elevada en un caballete, localiza las marcas de ajuste grabadas al final del basculante de aluminio fundido y úsalas para dejar ambos lados exactamente iguales", "Retira la arena acumulada en la transmisión 520 sin retenes, prestando atención al piñón de ataque de 13 dientes y a la corona de 51, el desarrollo que comparte con SX-F y FC 450", "Lubrica por la cara interna del ramal inferior mientras giras la rueda a mano, deja reposar el producto unos minutos y revisa de paso el estado del patín y de la guía de cadena"], "trucos": ["Apunta las horas nada más acabar cada manga: con tandas intensas, el escalón de las 15 horas llega en muy pocos fines de semana y el cambio de aceite no admite prórroga hasta fin de mes", "Viaja siempre con la bomba de suspensiones que acompaña a la moto: su horquilla neumática WP XACT AER, de 48 mm, funciona con aire a presión y ese valor se comprueba como parte de la puesta a punto en cada circuito"]},
+    planMantenimiento: {"intervalo": "Servicios contados por horas de motor según la tabla 9.2 del manual del propietario: intervención tras la primera hora, repeticiones cada 15 horas y contenidos ampliados al llegar a 45 y a 90 horas, más un escalón temporal de 24 meses", "revisiones": [{"nombre": "Puesta en marcha, cumplida la primera hora", "queSeCambia": "Se sustituyen el aceite 10W-50 y su filtro, se limpian los tamices del circuito de engrase, se vuelca la memoria de averías mediante el equipo de diagnóstico de la marca y se programa el sensor de posición de marchas", "costeAproxEur": null}, {"nombre": "Escalones de cada 15 horas", "queSeCambia": "Aceite y filtro renovados con limpieza de tamices en cada visita; la tabla añade control de pastillas y de los discos Braktec (220 mm el trasero y 260 mm el delantero), niveles de freno y de embrague, ralentí, manguitos, cables y tensión de radios", "costeAproxEur": null}, {"nombre": "Hitos de 45 y 90 horas y control de 24 meses", "queSeCambia": "A lo acumulado se suma la renovación de los líquidos de freno delantero y trasero y del líquido del embrague hidráulico Braktec, junto a la revisión de bastidor, bieletas del amortiguador y holguras de dirección y bujes que la tabla reserva a los escalones largos", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Tabla de servicio 9.2 del manual del propietario de la MC 450F de GASGAS, reproducida en manuals.co.uk y manual.nz para esta generación; la marca no publica costes de estas intervenciones"},
   },
   {
     id: "gasgas-sm-700-2025-ficha-tecnica-precio",
@@ -1162,7 +1146,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "WR450F 2025",
     cilindradaCc: 450,
     categoria: "Enduro",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1225,7 +1209,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "YZ250F 2025",
     cilindradaCc: 250,
     categoria: "Motocross",
-    precioDesde: null,
+    precioDesde: 9999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1248,7 +1232,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     ],
     contras: [
       "No homologada: solo para circuitos cerrados",
-      "Precio oficial en España no publicado",
+      "9.999 € de tarifa oficial: precio alto para una moto solo de circuito",
       "Sin matrícula ni etiqueta DGT",
       "Mantenimiento intensivo de moto de carreras",
       "El 250 4T exige llevarlo alto de vueltas",
@@ -1419,7 +1403,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     version: "KB4 2025",
     cilindradaCc: 1043,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: null, // sin tarifa oficial publicada: venta bajo pedido en concesionario (verificado 20/10/2026)
     potenciaKw: 104.5,
     potenciaCv: 142,
     autonomiaKm: null,

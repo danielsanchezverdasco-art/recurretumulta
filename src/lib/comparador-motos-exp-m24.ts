@@ -395,7 +395,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1000,
     categoria: "Deportiva",
-    precioDesde: 25500,
+    precioDesde: 25500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -408,7 +408,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor de 1.000 cc con 218 CV: el tetracilíndrico más potente que Honda ha homologado para calle",
       "Electrónica de MotoGP: IMU de 6 ejes, antiwheelie, control de tracción y freno motor configurables",
@@ -457,7 +457,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 471,
     categoria: "Custom",
-    precioDesde: 7299,
+    precioDesde: 6350, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -470,7 +470,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 471 cc con 47 CV: justo en el límite del A2, sin necesidad de limitar",
       "Asiento a 690 mm: la custom A2 más accesible para pilotos de cualquier talla",
@@ -519,7 +519,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 745,
     categoria: "Trail",
-    precioDesde: 8849,
+    precioDesde: 9150, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 43.1,
     potenciaCv: 58.6,
     autonomiaKm: null,
@@ -532,7 +532,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El falso depósito es un cofre de 23 l: cabe un casco integral donde otras llevan gasolina",
       "Consumo real en torno a 3,5 l/100 km: de las trail más económicas del mercado",
@@ -581,7 +581,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 5950,
+    precioDesde: 5600, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -594,7 +594,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "15 CV al límite del A1: el 125 más capaz para autovía y extrarradio",
       "Cúpula regulable eléctricamente: lujo de maxiscooter en un 125",
@@ -643,7 +643,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 471,
     categoria: "Naked",
-    precioDesde: 7049,
+    precioDesde: 6550, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -656,7 +656,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 471 cc con 47 CV exactos: la naked A2 por excelencia, sin limitar",
       "188 kg en orden de marcha: ágil en ciudad y estable en carretera",
@@ -705,7 +705,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 599,
     categoria: "Deportiva",
-    precioDesde: 11499,
+    precioDesde: 13200, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 89,
     potenciaCv: 121,
     autonomiaKm: null,
@@ -718,7 +718,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 599 cc con 121 CV: la supersport de referencia desde 2003",
       "Electrónica completa: IMU, antiwheelie, control de tracción y quickshifter",
@@ -767,7 +767,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 745,
     categoria: "Scooter",
-    precioDesde: 12990,
+    precioDesde: 13500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 43.1,
     potenciaCv: 58.6,
     autonomiaKm: null,
@@ -780,7 +780,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Inventó el segmento scooter adventure: estética trail con comodidad de scooter",
       "Cambio DCT de 6 marchas: sin embrague ni palanca, también con levas en el manillar",
@@ -830,7 +830,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Deportiva",
-    precioDesde: 6799,
+    precioDesde: 6899, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31,
     potenciaCv: 42,
     autonomiaKm: null,
@@ -843,7 +843,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 321 cc con 42 CV: la R de iniciación con ADN de MotoGP",
       "Carenado completo con estética R1: parece una superbike en miniatura",
@@ -892,7 +892,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Naked",
-    precioDesde: 6299,
+    precioDesde: 6499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 31,
     potenciaCv: 42,
     autonomiaKm: null,
@@ -905,7 +905,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El mismo bicilíndrico de 42 CV de la R3 en formato naked urbano",
       "Horquilla invertida de 37 mm: parte ciclo superior a la media del A2",
@@ -954,7 +954,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 689,
     categoria: "Deportiva",
-    precioDesde: 10299,
+    precioDesde: 10499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 54,
     potenciaCv: 73.4,
     autonomiaKm: null,
@@ -967,7 +967,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico CP2 de 689 cc con 73,4 CV: par desde abajo, ideal para A2",
       "Chasis Deltabox y postura R: sensaciones de superbike sin 200 CV",
@@ -1016,7 +1016,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Deportiva",
-    precioDesde: 13799,
+    precioDesde: 13999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico CP3 de 890 cc con 119 CV: el motor más carismático de Yamaha en una R",
       "Electrónica de superbike: IMU de 6 ejes, slide control y launch control",
@@ -1078,7 +1078,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 689,
     categoria: "Trail",
-    precioDesde: 10999,
+    precioDesde: 11199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 54,
     potenciaCv: 73.4,
     autonomiaKm: null,
@@ -1091,7 +1091,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico CP2 de 73,4 CV: par lineal y fiabilidad probada en el Dakar",
       "205 kg: ligera para una trail bicilíndrica; se mete por pistas de verdad",
@@ -1140,7 +1140,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Trail",
-    precioDesde: 18499,
+    precioDesde: 16399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -1153,7 +1153,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico CP3 de 119 CV: el motor más divertido del segmento sport-turismo",
       "Versión GT+: radar, suspensiones electrónicas y maletas de serie",
@@ -1202,7 +1202,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Clásica",
-    precioDesde: 11799,
+    precioDesde: 12299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 87.5,
     potenciaCv: 119,
     autonomiaKm: null,
@@ -1215,7 +1215,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico CP3 de 119 CV con estética neo-retro: lo mejor de dos mundos",
       "193 kg: ligera y ágil para su potencia",
@@ -1265,7 +1265,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 948,
     categoria: "Naked",
-    precioDesde: 10199,
+    precioDesde: 10540, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 91,
     potenciaCv: 124,
     autonomiaKm: null,
@@ -1278,7 +1278,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 948 cc con 124 CV: empuje lineal y sonido inconfundible",
       "La naked japonesa más vendida de Europa: repuestos y mercado de ocasión enormes",
@@ -1327,7 +1327,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 649,
     categoria: "Naked",
-    precioDesde: 7999,
+    precioDesde: 8650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 50.3,
     potenciaCv: 68,
     autonomiaKm: null,
@@ -1340,7 +1340,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 649 cc con 68 CV: limitable a 35 kW para el A2 sin perder carácter",
       "187 kg: ligera y muy manejable en ciudad",
@@ -1389,7 +1389,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 948,
     categoria: "Clásica",
-    precioDesde: 13499,
+    precioDesde: 13500, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 82,
     potenciaCv: 111,
     autonomiaKm: null,
@@ -1402,7 +1402,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 948 cc con 111 CV y estética setentera: neo-retro con alma moderna",
       "Faro redondo, depósito en forma de lágrima y colín clásico: homenaje perfecto a la Z1",
@@ -1451,7 +1451,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 773,
     categoria: "Clásica",
-    precioDesde: 10499,
+    precioDesde: 11200, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -1464,7 +1464,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico vertical de 773 cc con distribución por eje: mecánica clásica de verdad",
       "48 CV justo en el límite del A2: clásica sin limitaciones",
@@ -1513,7 +1513,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Naked",
-    precioDesde: 8450,
+    precioDesde: 8450, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 9,
     potenciaCv: 12,
     autonomiaKm: 72,
@@ -1526,7 +1526,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "2 baterías extraíbles de 1,5 kWh: carga completa en ~3,5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Primera naked eléctrica de Kawasaki: cero emisiones y etiqueta Cero DGT",
       "Equivalente a 125 cc: se conduce con el A1 o el B con 3 años",
@@ -1575,7 +1575,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1099,
     categoria: "Trail",
-    precioDesde: 17499,
+    precioDesde: 15835, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 99,
     potenciaCv: 135,
     autonomiaKm: null,
@@ -1588,7 +1588,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 1.099 cc con 135 CV: suavidad y empuje de sport-turismo",
       "La trail asfáltica por excelencia: cómoda para devorar autopistas",
@@ -1638,7 +1638,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 999,
     categoria: "Naked",
-    precioDesde: 15499,
+    precioDesde: 15169, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -1651,7 +1651,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 999 cc con 152 CV derivado de la GSX-R1000: motor legendario",
       "Electrónica SIRS completa: 3 modos, 5 niveles de tracción y quickshifter bidireccional",
@@ -1700,7 +1700,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 999,
     categoria: "Trail",
-    precioDesde: 18999,
+    precioDesde: 19639, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -1713,7 +1713,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El motor de la GSX-S1000 en una crossover cómoda: 152 CV para viajar",
       "Suspensiones electrónicas Showa con ajuste automático de precarga",
@@ -1762,7 +1762,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 999,
     categoria: "Clásica",
-    precioDesde: 15999,
+    precioDesde: 16315, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -1775,7 +1775,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Homenaje a la Katana original de 1981 con el motor de la GSX-S1000: 152 CV",
       "Diseño retro-futurista único: no hay nada igual en el mercado",
@@ -1824,7 +1824,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 645,
     categoria: "Naked",
-    precioDesde: 7799,
+    precioDesde: 7969, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56,
     potenciaCv: 76,
     autonomiaKm: null,
@@ -1837,7 +1837,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico en V de 645 cc con 76 CV: el twin medio de referencia desde 1999",
       "Entrega llena desde abajo: divertida sin necesidad de estirar marchas",
@@ -1886,7 +1886,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 11999,
+    precioDesde: 10999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -1899,7 +1899,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 776 cc con 83 CV y cigüeñal a 270°: tacto y sonido de twin grande",
       "Versión DE con llanta 21\" y suspensiones de largo recorrido: trail de verdad",
@@ -1948,7 +1948,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 400,
     categoria: "Scooter",
-    precioDesde: 8799,
+    precioDesde: 8999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.5,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -1961,7 +1961,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El maxiscooter japonés de referencia desde 1998: comodidad probada",
       "Asiento bajo y plataforma plana: el más cómodo del segmento para tallas medias",
@@ -2011,7 +2011,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 947,
     categoria: "Naked",
-    precioDesde: 12999,
+    precioDesde: 13699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 96,
     potenciaCv: 130,
     autonomiaKm: null,
@@ -2024,7 +2024,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 947 cc con 130 CV: el Duke grande en su punto dulce",
       "190 kg en orden de marcha: la naked media más ligera de su potencia",
@@ -2073,7 +2073,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1350,
     categoria: "Naked",
-    precioDesde: 22999,
+    precioDesde: 22499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -2086,7 +2086,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 1.350 cc con 190 CV: la naked más brutal del mercado",
       "200 kg: relación peso/potencia de superbike",
@@ -2135,7 +2135,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1350,
     categoria: "Trail",
-    precioDesde: 24999,
+    precioDesde: null, // KTM aún no ha publicado tarifa oficial de la 1390 Super Duke GT (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -2148,7 +2148,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "El motor de 190 CV de la Super Duke R en una sport-turismo cómoda",
       "Semiactivas WP, radar y maletas: la GT más bestia del mercado",
@@ -2157,6 +2157,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Depósito de 23 l: autonomía real de gran turismo",
     ],
     contras: [
+            "Sin precio oficial: KTM aún no ha publicado la tarifa de la 1390 Super Duke GT",
       "224 kg: pesada para su enfoque deportivo",
       "Precio de moto premium alemana",
       "190 CV son excesivos para viajar tranquilo",
@@ -2197,7 +2198,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 889,
     categoria: "Trail",
-    precioDesde: 13999,
+    precioDesde: null, // la 890 Adventure estándar no se comercializa en España como modelo 2026; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -2210,7 +2211,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 889 cc con 105 CV: el equilibrio perfecto entre peso y potencia",
       "Depósito bajo que baja el centro de gravedad: se maneja como una 390 en campo",
@@ -2219,6 +2220,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "La trail media más capaz en campo del mercado",
     ],
     contras: [
+            "Sin precio oficial: la 890 Adventure estándar no se vende en España como modelo 2026",
       "Asiento alto (860 mm): complicada para pilotos bajos",
       "El motor calienta en atascos",
       "Sin control de crucero de serie en la versión base",
@@ -2321,7 +2323,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 5799,
+    precioDesde: 5299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2334,7 +2336,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "15 CV al límite del A1: la 125 más deportiva del mercado",
       "Chasis multitubular y horquilla invertida WP: parte ciclo de moto grande",
@@ -2384,7 +2386,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 399,
     categoria: "Naked",
-    precioDesde: 6799,
+    precioDesde: 6399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -2397,7 +2399,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Monocilíndrico de 399 cc con 45 CV: el motor de la 390 Duke con estética sueca",
       "Diseño escandinavo minimalista: la naked más elegante del A2",
@@ -2446,7 +2448,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 399,
     categoria: "Naked",
-    precioDesde: 6999,
+    precioDesde: 6299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -2459,7 +2461,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "La hermana café racer de la Svartpilen: mismo motor de 45 CV, estética clásica",
       "Semimanillares y colín minimalista: la 401 más elegante",
@@ -2508,7 +2510,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Naked",
-    precioDesde: 11299,
+    precioDesde: 11499, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -2521,7 +2523,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 799 cc con 105 CV: el motor de la 790 Duke con traje sueco",
       "181 kg en seco: ligereza de moto media con potencia de grande",
@@ -2570,7 +2572,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 889,
     categoria: "Trail",
-    precioDesde: 15499,
+    precioDesde: 14399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -2583,7 +2585,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 889 cc con 105 CV: la 890 Adventure con elegancia sueca",
       "204 kg en seco: ligera para su categoría",
@@ -2736,12 +2738,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      {
-        src: "/media/gasgas-sm-700-2026-ficha-tecnica-precio-oficial-3.webp",
-        alt: "GasGas SM 700 2026, detalle de la rueda delantera de 17 pulgadas",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
     videoId: null,
     videoCanal: null,
@@ -2753,12 +2750,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   // ── BMW MOTORRAD (5) ────────────────────────────────────────────────────
   {
     id: "bmw-r-1300-gs-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 1300 GS",
     version: "2026",
     cilindradaCc: 1300,
     categoria: "Trail",
-    precioDesde: 22950,
+    precioDesde: 22230, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 107,
     potenciaCv: 145,
     autonomiaKm: null,
@@ -2771,7 +2768,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bóxer de 1.300 cc con 145 CV: el motor trail más carismático del mercado",
       "237 kg: 12 kg menos que la 1250 GS; se nota en cada curva",
@@ -2815,7 +2812,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-r-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 R",
     version: "2026",
     cilindradaCc: 895,
@@ -2877,12 +2874,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-xr-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "F 900 XR",
     version: "2026",
     cilindradaCc: 895,
     categoria: "Trail",
-    precioDesde: 12500,
+    precioDesde: 12950, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -2895,7 +2892,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El motor de 105 CV de la F 900 R en formato trail asfáltica cómoda",
       "Postura erguida y parabrisas regulable: ideal para viajar",
@@ -2939,12 +2936,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-s-1000-rr-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "S 1000 RR",
     version: "2026",
     cilindradaCc: 999,
     categoria: "Deportiva",
-    precioDesde: 22500,
+    precioDesde: 24530, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -2957,7 +2954,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tetracilíndrico de 999 cc con 210 CV y distribución variable ShiftCam",
       "197 kg: la superbike más ligera del segmento",
@@ -3001,12 +2998,12 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-ninet-2026-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 12 nineT",
     version: "2026",
     cilindradaCc: 1170,
     categoria: "Clásica",
-    precioDesde: 17500,
+    precioDesde: 18250, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 80,
     potenciaCv: 109,
     autonomiaKm: null,
@@ -3019,7 +3016,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bóxer de 1.170 cc con 109 CV: el clásico moderno de BMW",
       "Estética neo-retro impecable: la custom favorita de los preparadores",
@@ -3069,7 +3066,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 937,
     categoria: "Naked",
-    precioDesde: 13500,
+    precioDesde: 16090, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 82,
     potenciaCv: 111,
     autonomiaKm: null,
@@ -3082,7 +3079,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico Testastretta de 937 cc con 111 CV: el Ducati más puro",
       "Versión SP con suspensiones Öhlins y pinzas Brembo Stylema",
@@ -3131,7 +3128,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Trail",
-    precioDesde: 18500,
+    precioDesde: 19390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 84.6,
     potenciaCv: 115,
     autonomiaKm: null,
@@ -3144,7 +3141,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Nuevo bicilíndrico en V de 890 cc con 115 CV: más ligero y eficiente que el 950",
       "199 kg en seco: la Multistrada más ligera de la historia",
@@ -3193,7 +3190,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Naked",
-    precioDesde: 15500,
+    precioDesde: 16590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -3206,7 +3203,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 890 cc con 120 CV en una naked de 175 kg: pura adrenalina",
       "La Streetfighter más ligera y manejable de la gama",
@@ -3255,7 +3252,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1158,
     categoria: "Custom",
-    precioDesde: 29000,
+    precioDesde: 31090, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 124,
     potenciaCv: 168,
     autonomiaKm: null,
@@ -3268,7 +3265,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "V4 Granturismo de 1.158 cc con 168 CV: la power cruiser definitiva",
       "Neumático trasero de 240 mm y estética muscle única",
@@ -3317,7 +3314,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 937,
     categoria: "Trail",
-    precioDesde: 18000,
+    precioDesde: 17590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 81,
     potenciaCv: 110,
     autonomiaKm: null,
@@ -3330,7 +3327,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Testastretta de 937 cc con 110 CV en una trail de rally: la Ducati más aventurera",
       "Llantas 21\"/18\" y 230 mm de recorrido: off-road serio",
@@ -3355,14 +3352,14 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       {
         src: "/media/ducati-desertx-2026-ficha-tecnica-precio-oficial-2.webp",
         alt: "Ducati DesertX 2026, vista lateral de la trail",
-        ancho: 1200,
-        alto: 800,
+        ancho: 980,
+        alto: 657,
       },
       {
         src: "/media/ducati-desertx-2026-ficha-tecnica-precio-oficial-3.webp",
-        alt: "Ducati DesertX 2026, detalle del doble faro",
-        ancho: 1200,
-        alto: 800,
+        alt: "Ducati DesertX 2026 en las dunas del desierto",
+        ancho: 980,
+        alto: 657,
       },
     ],
     videoId: null,
@@ -3380,7 +3377,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 457,
     categoria: "Deportiva",
-    precioDesde: 7199,
+    precioDesde: 7199, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -3393,7 +3390,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 457 cc con 47 CV exactos: la deportiva A2 con mejor chasis",
       "Chasis de doble viga de aluminio: herencia directa de la RS 660",
@@ -3442,7 +3439,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 457,
     categoria: "Naked",
-    precioDesde: 7499,
+    precioDesde: 6699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -3455,7 +3452,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "La RS 457 sin carenado: naked A2 con chasis de aluminio",
       "47 CV y 175 kg: diversión inmediata sin necesidad de limitar",
@@ -3504,7 +3501,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 659,
     categoria: "Deportiva",
-    precioDesde: 11999,
+    precioDesde: 12259, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -3517,7 +3514,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 659 cc con 105 CV: la deportiva media más premiada",
       "183 kg y electrónica de RSV4: IMU, 5 modos y alerones activos",
@@ -3567,7 +3564,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 853,
     categoria: "Trail",
-    precioDesde: 13999,
+    precioDesde: 14100, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 59,
     potenciaCv: 80,
     autonomiaKm: null,
@@ -3580,7 +3577,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico en V transversal de 853 cc con 80 CV: carácter único",
       "Estética neo-retro de rally: la trail más bonita del segmento",
@@ -3629,7 +3626,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1042,
     categoria: "Trail",
-    precioDesde: 17499,
+    precioDesde: 17400, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 84.6,
     potenciaCv: 115,
     autonomiaKm: null,
@@ -3642,7 +3639,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 1.042 cc con 115 CV y refrigeración líquida: el Guzzi más moderno",
       "Cardán y suspensiones electrónicas: gran turismo italiana",
@@ -3691,7 +3688,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 853,
     categoria: "Clásica",
-    precioDesde: 9999,
+    precioDesde: 9850, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 49.4,
     potenciaCv: 67.3,
     autonomiaKm: null,
@@ -3704,7 +3701,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 853 cc con 67 CV: la clásica italiana accesible",
       "Estética minimalista negra: elegancia sin estridencias",
@@ -3942,7 +3939,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 660,
     categoria: "Naked",
-    precioDesde: 8995,
+    precioDesde: 8895, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 60,
     potenciaCv: 81,
     autonomiaKm: null,
@@ -3955,7 +3952,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico de 660 cc con 81 CV: el motor más especial del A2",
       "Limitable a 35 kW sin perder el carácter del triple",
@@ -4004,7 +4001,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 888,
     categoria: "Trail",
-    precioDesde: 15500,
+    precioDesde: 14395, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 79.5,
     potenciaCv: 108,
     autonomiaKm: null,
@@ -4017,7 +4014,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Tricilíndrico de 888 cc con 108 CV y orden de encendido T-plane: par de twin",
       "La trail media más equilibrada: asfalto y campo sin complejos",
@@ -4066,7 +4063,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 660,
     categoria: "Deportiva",
-    precioDesde: 10495,
+    precioDesde: 10395, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -4079,7 +4076,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Tricilíndrico de 660 cc con 95 CV: la deportiva A2 con más carácter",
       "Limitable a 35 kW: la única deportiva británica para el A2",
@@ -4128,7 +4125,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 398,
     categoria: "Clásica",
-    precioDesde: 5795,
+    precioDesde: 5645, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.5,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -4141,7 +4138,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Monocilíndrico de 398 cc con 40 CV: la Triumph más asequible de la historia",
       "Acabados británicos premium en una 400: no parece una moto barata",
@@ -4191,7 +4188,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 648,
     categoria: "Custom",
-    precioDesde: 7890,
+    precioDesde: 7387, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -4204,7 +4201,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: la custom A2 con más carácter",
       "Estética bobber de fábrica: guardabarros recortados y manillar plano",
@@ -4253,7 +4250,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 349,
     categoria: "Clásica",
-    precioDesde: 4390,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 15,
     potenciaCv: 20.2,
     autonomiaKm: null,
@@ -4266,7 +4263,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Monocilíndrico de 349 cc con 20 CV: la Royal más ágil y urbana",
       "177 kg y asiento a 800 mm: manejable para todos",
@@ -4440,7 +4437,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2745,
+    precioDesde: null, // la versión descrita (10,6 CV, frenada combinada sin ABS) está descatalogada; Peugeot no publica tarifa oficial para ella (verificado 20/10/2026)
     potenciaKw: 7.8,
     potenciaCv: 10.6,
     autonomiaKm: null,
@@ -4453,7 +4450,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estilo neo-retro de los 50: el scooter con más encanto del segmento",
       "137 kg: ligero y fácil de manejar en ciudad",
@@ -4462,6 +4459,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Múltiples versiones y colores: Bright, Dark, TT, Shadow",
     ],
     contras: [
+      "Sin precio oficial: esta versión del Django 125 ya no se comercializa en España",
       "10,6 CV: el menos potente de los 125",
       "Velocidad máxima de 90 km/h: solo para ciudad",
       "Refrigeración por aire: calienta en verano",
@@ -4564,7 +4562,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3995,
+    precioDesde: 3995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.2,
     potenciaCv: 14,
     autonomiaKm: null,
@@ -4577,7 +4575,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La primera naked de Peugeot en décadas: 14 CV con estilo felino",
       "Horquilla invertida de 41 mm y ABS de doble canal",
@@ -4751,7 +4749,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Scooter",
-    precioDesde: 5799,
+    precioDesde: 5699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.2,
     potenciaCv: 28.8,
     autonomiaKm: null,
@@ -4764,7 +4762,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Scooter adventure de 321 cc con 28,8 CV: el rival del ADV350",
       "Estética campera con protecciones y manillar ancho",
@@ -4813,7 +4811,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 321,
     categoria: "Scooter",
-    precioDesde: 5799,
+    precioDesde: 4750, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.2,
     potenciaCv: 28.8,
     autonomiaKm: null,
@@ -4826,7 +4824,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "GT de 321 cc con 28,8 CV: comodidad de gran turismo en formato medio",
       "Pantalla flotante a color y conectividad",
@@ -4876,7 +4874,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 508,
     categoria: "Scooter",
-    precioDesde: 8999,
+    precioDesde: 8999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33.1,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -4889,7 +4887,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 508 cc con 45 CV: el maxiscooter bicilíndrico más asequible",
       "Chasis multitubular y basculante de aluminio: parte ciclo de moto",

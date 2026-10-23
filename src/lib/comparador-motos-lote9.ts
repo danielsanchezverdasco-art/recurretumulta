@@ -194,7 +194,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Storm Bee",
     version: "Storm Bee 2025",
     categoria: "Trail",
-    precioDesde: 8500,
+    precioDesde: null, // sin tarifa oficial publicada en España (verificado 20/10/2026)
     potenciaKw: 22.5,
     potenciaCv: 30.6,
     cilindradaCc: null,
@@ -209,7 +209,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "velocidadMax",
       "pesoKg",
@@ -223,7 +222,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Silencio absoluto con prestaciones de 250: enduro sin ruido ni humo",
     ],
     contras: [
-      "Precio orientativo de unos 8.500 euros: sin tarifa oficial publicada en Espana",
+      "Sin precio oficial publicado en España",
       "127 kg: ya es peso de moto de gasolina, se acabo la ligereza de sus hermanas",
       "100 km de autonomia declarada que en uso deportivo se reducen mucho",
       "Distribucion muy limitada en Europa: conseguir recambios puede ser lento",
@@ -451,7 +450,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "XXX",
     version: "XXX TL2500 2025",
     categoria: "Urbana",
-    precioDesde: 3500,
+    precioDesde: null, // sin tarifa oficial publicada en España (verificado 20/10/2026)
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     cilindradaCc: null,
@@ -466,7 +465,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "velocidadMax",
       "pesoKg",
@@ -480,6 +478,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Perfecta como segunda moto de campo o para circuitos cerrados",
     ],
     contras: [
+      "Sin precio oficial publicado en España: solo precios de importadores",
       "2500W se quedan cortos frente a sus hermanas mayores: no es una moto de enduro serio",
       "Tamano mini: incomoda para pilotos altos",
       "Autonomia y velocidad limitadas: 85 km/h de punta como maximo",
@@ -538,7 +537,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "TS Bravo",
     version: "TS Bravo 2025",
     categoria: "Naked",
-    precioDesde: 12990,
+    precioDesde: 12990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 18,
     potenciaCv: 24.5,
     cilindradaCc: null,
@@ -553,7 +552,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "velocidadMax",
     ],
@@ -566,7 +564,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Pantalla TFT, modos de conduccion y control de traccion de serie",
     ],
     contras: [
-      "Precio orientativo de unos 12.990 euros: sin tarifa oficial cerrada en Espana",
+      "Precio de 12.990 € (tarifa oficial europea): territorio de motos premium",
       "245 kg en orden de marcha: pesa como una maxitrail",
       "Marca china con red de servicio minima en Europa",
       "La bateria de 15,4 kWh tarda horas en un enchufe domestico sin carga rapida",
@@ -624,7 +622,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "RS1",
     version: "TB-RS1 2025",
     categoria: "Naked",
-    precioDesde: 10990,
+    precioDesde: null, // Tinbot no tiene distribución oficial en España; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     cilindradaCc: null,
@@ -639,7 +637,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "velocidadMax",
       "bateriaKwh",
@@ -653,6 +650,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo de unos 10.990 euros en Europa: contenida para sus cifras",
     ],
     contras: [
+      "Sin precio oficial en España: Tinbot no tiene distribución oficial aquí",
       "Marca alemana de nicho con red de servicio casi inexistente en Espana",
       "183 kg: no es ligera para una naked media",
       "La autonomia real a 120 km/h cae muy por debajo de los 200 km declarados",
@@ -711,7 +709,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Mino",
     version: "Mino 2025",
     categoria: "Urbana",
-    precioDesde: 1800,
+    precioDesde: 1800, // 1.499 GBP (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     cilindradaCc: null,
@@ -739,6 +737,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "90 km de autonomia declarada: suficiente para una semana de ciudad",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa británica (1.499 GBP)",
       "45 km/h de punta: solo ciudad, sin vias rapidas",
       "Tamano mini: incomoda para pilotos altos o trayectos largos",
       "Marca china con distribucion irregular en Europa",
@@ -797,7 +796,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "iTank",
     version: "iTank 2025",
     categoria: "Scooter",
-    precioDesde: 2999,
+    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 3,
     potenciaCv: 4.1,
     cilindradaCc: null,
@@ -812,7 +811,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "bateriaKwh",
       "pesoKg",
@@ -826,6 +824,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo desde unos 2.999 euros en Europa",
     ],
     contras: [
+      "Sin precio oficial publicado en España",
       "45 km/h de punta: limitada a ciudad estricta",
       "99 kg para 3 kW: la relacion peso/potencia es justa",
       "Tres ruedas y tren delantero complejo: mas mantenimiento que un scooter normal",
@@ -884,7 +883,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "FW-06",
     version: "FW-06 2025",
     categoria: "Scooter",
-    precioDesde: 6490,
+    precioDesde: 7299, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     cilindradaCc: null,
@@ -899,7 +898,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "velocidadMax",
       "bateriaKwh",
@@ -913,7 +911,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Diseno deportivo agresivo: no parece un electrodomestico",
     ],
     contras: [
-      "Precio orientativo de unos 6.490 euros: sin tarifa oficial en Espana",
+      "Precio de 7.299 € sin ayudas del Plan MOVES: de los scooters 125 eléctricos más caros",
       "Marca china casi desconocida en Europa: red de servicio minima",
       "El cambio de 2 marchas anade complejidad frente al tipico variador electrico",
       "Peso no publicado oficialmente: incognita importante",
@@ -971,7 +969,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "MCR-S",
     version: "MCR-S 2025",
     categoria: "Naked",
-    precioDesde: 13500,
+    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 14,
     potenciaCv: 19,
     cilindradaCc: null,
@@ -986,7 +984,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaKw",
       "potenciaCv",
     ],
@@ -999,7 +996,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Carga rapida disponible: usable en viajes con planificacion",
     ],
     contras: [
-      "Precio orientativo de unos 13.500 euros: territorio de motos europeas premium",
+      "Sin precio oficial publicado en España",
       "Marca taiwanesa con presencia minima en Espana",
       "184 kg: pesa como una naked de gasolina",
       "La marca no publica la potencia nominal oficial: las cifras son estimaciones del sector",
@@ -1057,7 +1054,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "No.1",
     version: "No.1 Classic 2025",
     categoria: "Naked",
-    precioDesde: 12495,
+    precioDesde: 12495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 20,
     potenciaCv: 27.2,
     cilindradaCc: null,
@@ -1072,7 +1069,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
       "bateriaKwh",
     ],
@@ -1085,7 +1081,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Pantalla digital con conectividad y modos de conduccion",
     ],
     contras: [
-      "Precio orientativo desde unos 12.495 euros: cara para sus prestaciones",
+      "Precio de 12.495 €: cara para sus prestaciones",
       "Marca sueca pequena: servicio tecnico limitado fuera de Escandinavia",
       "156 kg: no es ligera para una 11 kW",
       "La autonomia real en autopista baja mucho de los 150 km declarados",
@@ -1143,7 +1139,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "City Sport",
     version: "City Sport 2025",
     categoria: "Urbana",
-    precioDesde: 3300,
+    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
     potenciaKw: 3.5,
     potenciaCv: 4.7,
     cilindradaCc: null,
@@ -1158,7 +1154,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaKw",
       "potenciaCv",
     ],
@@ -1174,7 +1169,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "60 km de autonomia declarada: justa para un uso diario intenso",
       "45 km/h de punta: solo ciudad",
       "La red Zeeho en Espana esta en construccion",
-      "Por su precio hay ciclomotores electricos con mas autonomia",
+      "Sin precio oficial publicado en España",
       "Sin apenas hueco de carga bajo el asiento",
       "La bateria de 1,9 kWh obliga a cargarla casi a diario",
     ],
@@ -1229,7 +1224,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "2 Plus",
     version: "2 Plus",
     categoria: "Scooter",
-    precioDesde: 2950,
+    precioDesde: null, // solo se vende en Taiwán; sin tarifa oficial para España (verificado 20/10/2026)
     potenciaKw: 6.4,
     potenciaCv: 8.7,
     cilindradaCc: null,
@@ -1244,7 +1239,6 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "Cero",
     aprox: [
-      "precioDesde",
       "potenciaCv",
     ],
     pros: [
@@ -1256,6 +1250,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Ecosistema probado con millones de intercambios de bateria en Asia",
     ],
     contras: [
+      "Sin precio oficial en España: solo se vendió en Taiwán",
       "La Serie 2 dejo de fabricarse: solo existe en el mercado de ocasion",
       "Sin red de intercambio de baterias en Espana: hay que cargarla en casa",
       "La bateria en propiedad se degrada: revisar su estado antes de comprar de ocasion",
@@ -1314,7 +1309,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "U-Go",
     version: "U-Go 2025",
     categoria: "Scooter",
-    precioDesde: 1050,
+    precioDesde: 1000, // 7.499 CNY (tarifa oficial China) ÷ 7,50 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 1.8,
     potenciaCv: 2.4,
     cilindradaCc: null,
@@ -1342,6 +1337,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "53 km/h de punta: suficiente para la ciudad china para la que nacio",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial china (7.499 CNY)",
       "Solo se vende en China: no hay importacion oficial a Espana ni a Europa",
       "1,2 kW nominales: prestaciones muy justas incluso para ciudad",
       "Sin red de servicio ni repuestos fuera de China",
@@ -1400,7 +1396,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "E01",
     version: "E01",
     categoria: "Scooter",
-    precioDesde: 5000,
+    precioDesde: null, // Yamaha nunca la puso a la venta; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 8.1,
     potenciaCv: 11,
     cilindradaCc: null,
@@ -1416,8 +1412,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "potenciaCv",
-      "bateriaKwh",
-      "precioDesde"],
+      "bateriaKwh"],
     pros: [
       "8,1 kW con tecnologia Yamaha: la electrica japonesa mas seria del lote",
       "105 km/h de punta: prestaciones de 125 de gasolina",
@@ -1485,7 +1480,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "e-Access",
     version: "e-Access 2026",
     categoria: "Scooter",
-    precioDesde: 2000,
+    precioDesde: 1800, // 188.490 INR (tarifa oficial India) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 4.1,
     potenciaCv: 5.6,
     cilindradaCc: null,
@@ -1513,6 +1508,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "122 kg: ligera y manejable en ciudad",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (188.490 INR)",
       "Solo se vende en India: sin planes confirmados para Europa",
       "71 km/h de punta: justa fuera de la ciudad",
       "4,1 kW: prestaciones modestas frente a rivales chinas",
@@ -1571,7 +1567,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Chetak",
     version: "Chetak 3502 2025",
     categoria: "Scooter",
-    precioDesde: 1300,
+    precioDesde: 1100, // 122.499 INR (tarifa oficial India, Chetak 3501) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 4.2,
     potenciaCv: 5.7,
     cilindradaCc: null,
@@ -1598,6 +1594,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Varias versiones de bateria (2,9 y 3,5 kWh) segun presupuesto",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (122.499 INR, Chetak 3501)",
       "No se vende oficialmente en Espana: solo mercado indio",
       "73 km/h de punta: justa en vias rapidas",
       "4,2 kW: prestaciones modestas",
@@ -1656,7 +1653,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "450X",
     version: "450X 2025",
     categoria: "Scooter",
-    precioDesde: 1700,
+    precioDesde: 1500, // 157.000 INR (tarifa oficial India, versión 3,7 kWh) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 6.4,
     potenciaCv: 8.7,
     cilindradaCc: null,
@@ -1683,6 +1680,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo de unos 1.700 euros en India",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (157.000 INR, versión 3,7 kWh)",
       "No se vende en Espana: solo mercado indio",
       "90 km/h de punta: suficiente en ciudad, justa fuera",
       "La conectividad avanzada depende de servicios disponibles solo en India",
@@ -1696,21 +1694,13 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "La 450X recibe actualizaciones de software como un telefono",
       "Es la referencia tecnologica que miran las marcas chinas",
     ],
-    imagen: "/media/motos/ather-450x-2025-ficha-tecnica-precio-1.webp",
-    galeria: [
-      {
-        alt: "Ather 450X 2025, vista lateral en verde",
-        alto: 675,
-        ancho: 1200,
-        src: "/media/motos/ather-450x-2025-ficha-tecnica-precio-2.webp",
-      },
-      {
+    imagen: "/media/motos/ather-450x-2025-ficha-tecnica-precio-2.webp",
+    galeria: [{
         alt: "Ather 450X 2025, vista frontal tres cuartos",
         alto: 361,
         ancho: 642,
         src: "/media/motos/ather-450x-2025-ficha-tecnica-precio-3.webp",
-      },
-    ],
+      }],
     videoId: null,
     videoCanal: null,
     fuenteNombre: "Ather Energy y prensa especializada",
@@ -1741,7 +1731,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "S1 Pro",
     version: "S1 Pro Gen 3 2025",
     categoria: "Scooter",
-    precioDesde: 1500,
+    precioDesde: 1700, // 184.999 INR (tarifa oficial India, versión 5,3 kWh) ÷ 106,559 (BCE 19/10/2026), redondeado a la centena
     potenciaKw: 11,
     potenciaCv: 15,
     cilindradaCc: null,
@@ -1768,6 +1758,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "Precio orientativo desde unos 1.500 euros en India: relacion cifras/precio imbatible",
     ],
     contras: [
+      "Precio orientativo convertido desde la tarifa oficial india (184.999 INR, versión 5,3 kWh)",
       "No se vende en Espana: solo mercado indio",
       "Los 320 km son en ciclo IDC indio, muy optimista frente al uso real",
       "Ola ha tenido problemas de calidad y servicio en India segun la prensa",

@@ -31,26 +31,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Motor bicilíndrico de 799 cc con 95 CV: la trail china más potente del carnet A2 (limitada)",
-      "Depósito de 22,5 litros, de los más grandes del segmento trail medio",
-      "Llantas de radios sin cámara en 21\" y 18\", pensada para el off-road de verdad",
-      "Electrónica completa: modos de conducción, control de tracción y ABS desconectable",
-      "Precio de 9.995 € muy por debajo de las trail europeas y japonesas equivalentes",
-    ],
-    contras: [
-      "220 kg en orden de marcha: pesada para el campo técnico",
-      "95 CV obligan a limitarla para el A2, con el coste y papeleo que eso supone",
-      "Red de concesionarios y repuestos más pequeña que Honda, Yamaha o KTM",
-      "Altura de asiento elevada: complicada para pilotos de menos de 1,70 m",
-      "Depreciación mayor que las marcas japonesas en el mercado de ocasión",
-    ],
-    curiosidades: [
-      "Comparte la base mecánica del motor KTM 790, desarrollado junto a la marca austriaca",
-      "La X es la versión más campera de la familia 800MT, con rueda delantera de 21 pulgadas",
-      "CFMoto fabrica en China también para KTM, lo que explica el parentesco técnico",
-      "Es la trail de mayor cilindrada que CFMoto vende en España",
-    ],
+    pros: ["Suspensiones de 230 mm delante y detrás, con horquilla invertida de 48 mm regulable en todos los parámetros: es el salto real frente a las 800MT de 2022, que se quedaban en 160 y 150 mm de recorrido.", "Depósito de 22,5 litros partido y descolgado por los laterales, al estilo de las KTM Adventure: baja el centro de gravedad en pista y permite alargar las etapas sin repostar cada dos por tres.", "De serie ya trae lo que en otras trail va a la lista de opciones: quickshifter bidireccional, control de crucero, TFT vertical de 7 pulgadas, control de presión de neumáticos y cubrecárter de aluminio por 9.995 euros.", "Frenada J.Juan con doble disco delantero de 320 mm y pinzas radiales de cuatro pistones, con ABS en curva gestionado por una IMU de seis ejes y modo Off-road específico.", "Asiento corrido regulable entre 830 y 870 mm: en la posición baja se defiende mejor en ciudad y en la alta deja sitio para pilotar de pie sin ir encogido."],
+    contras: ["Con 220 kg en orden de marcha no es la trail para trialeras ni para levantarla en solitario tras una caída en barro: en campo técnico el peso se nota enseguida.", "En configuración alta el asiento queda a 870 mm, así que si mides menos de 1,70 m lo normal es llegar de puntillas en las paradas y en las maniobras a baja velocidad.", "Para conducirla con el A2 hay que limitar los 95 CV, con kit, paso por ITV y deslimitación posterior: un trámite y un gasto que las rivales nacidas para el A2 no exigen.", "La red comercial de CFMoto en España sigue siendo más corta que la de Honda o Yamaha, y eso se puede traducir en esperas más largas para ciertos repuestos fuera de las grandes ciudades."],
+    curiosidades: ["En Estados Unidos esta familia 800MT no se llama MT: se vende como Ibex 800 para no chocar con la denominación MT de Yamaha.", "Admite como accesorio un depósito trasero adicional de 8 litros sobre los 22,5 litros de serie, pensado para travesías largas lejos de gasolineras."],
     imagen: "/media/motos/cfmoto-800mt-x-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -94,25 +77,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Custom A2 auténtica con motor bicilíndrico de 449 cc y 40 CV",
-      "Asiento a solo 690 mm: accesible para pilotos de cualquier estatura",
-      "Estética custom clásica con detalles cuidados por 6.269 €",
-      "Depósito de 12 litros suficiente para el uso urbano y salidas cortas",
-      "Correa de transmisión secundaria: menos mantenimiento que la cadena",
-    ],
-    contras: [
-      "40 CV se quedan justos en autovía con pasajero",
-      "Postura custom poco apta para viajes largos",
-      "Sin pantalla TFT ni conectividad de serie",
-      "Red de talleres más pequeña que las marcas japonesas",
-      "El segmento custom del A2 tiene rivales japonesas con mejor reventa",
-    ],
-    curiosidades: [
-      "La CL-C es la línea custom de CFMoto, paralela a la naked CL-X",
-      "Su motor de 449 cc es el mismo bloque que usan las 450NK y 450SR",
-      "CFMoto diseña sus motos en colaboración con el estudio austriaco KISKA",
-    ],
+    pros: ["Pensada para quien estrena el A2 soñando con una cruiser de verdad: su bicilíndrico de 449 cc rinde 40 CV y empuja con suavidad desde abajo", "Llegar bien al suelo marca la diferencia al maniobrar: aquí te sientas a 690 mm y mueves sus 181 kg con mucha más confianza en parado", "Por 6.269 € ofrece una silueta bobber muy cuidada, con faro redondo y un depósito pulido que no parecen propios de una moto de acceso", "Entre repostajes no irás agobiado en el día a día: los 12 litros dan margen de sobra para moverte por ciudad y escaparte cerca de casa", "Olvídate de engrasar y tensar cada poco: la transmisión final por correa va limpia, resulta silenciosa y pide mucha menos atención rutinaria que una cadena convencional"],
+    contras: ["A dúo y lanzada en vía rápida se queda corta de reserva: esos 40 CV cumplen en solitario, pero adelantar con pasajero exige planificarlo con tiempo", "La postura baja y adelantada enamora en trayectos breves, aunque castiga lumbares y piernas cuando enlazas varias horas seguidas de carretera", "Pesa 181 kg para ser una A2 de iniciación: en marcha no molesta, pero remando marcha atrás en una rampa se nota más de lo esperado", "Encontrar un servicio oficial cercano no siempre es fácil fuera de las capitales: la cobertura posventa todavía no iguala a Honda o Yamaha en España", "Si piensas en venderla pronto, mira antes una Rebel 500: en el mercado de ocasión la Honda suele defender mejor su precio que esta CFMoto"],
+    curiosidades: ["Dentro de la familia CL, esta variante busca el rollo cruiser mientras la CL-X se queda con el papel de naked de inspiración retro", "Bajo el depósito late la mecánica ya vista en otras 450 de la casa, compartida con la 450SR y la 450NK pero afinada aquí para rodar relajada", "El trazo no nació solo en China: KISKA, estudio austriaco habitual en proyectos europeos, participó en dar forma al lenguaje de diseño de la marca"],
     imagen: "/media/motos/cfmoto-450cl-c-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -133,7 +100,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "CFMoto España",
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-450cl-c-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "SAE 10W-40, API SJ o superior, JASO MA2; 2,5 litros con cambio de filtro, según el manual del propietario. Líquido de frenos DOT 4.", "cadenaPasos": ["No lleva cadena, lleva correa: antes de salir revísala a simple vista buscando cortes, grietas, dientes dañados o piedrecillas incrustadas, como pide el manual en la inspección diaria", "Nunca la engrases ni la lubriques: el manual lo prohíbe expresamente; si se ensucia, lávala solo con agua o detergente específico para correas y sécala o sóplala después", "No ajustes su tensión por tu cuenta: el manual exige medidor sónico profesional (68 Hz ± 2 Hz) y advierte de que una tensión incorrecta puede partirla; ese ajuste es trabajo de taller oficial", "En cada revisión periódica haz que comprueben también polea conducida y polea de salida del motor junto con la correa, y respeta su sustitución conjunta a los 20.000 km", "Tras rodar con lluvia, seca la correa cuanto antes y evita acelerones bruscos con ella mojada, siguiendo la recomendación expresa del manual para alargar su vida"], "intervaloMantenimiento": "Según el manual del propietario de la 450CL-C (CF400-10US): revisión de rodaje a los 1.000 km con cambio de aceite y filtro; después, aceite y filtro cada 5.000 km o 6 meses, lo que llegue antes, con limpieza del filtro grueso. Correa: inspección y ajuste de tensión cada 5.000 km o 6 meses y sustitución a los 20.000 km. Bujía: revisión a los 5.000 km y cambio a los 10.000 km. Filtro de aire: limpieza a los 5.000 km y cambio a los 20.000 km o 24 meses. Reglaje de válvulas a los 40.000 km, refrigerante a los 35.000 km o 24 meses y líquido de frenos cada 24 meses.", "trucos": ["Controla el nivel por la mirilla con la moto vertical y en llano, esperando dos o tres minutos tras parar el motor: tiene que quedar en la zona central marcada en el manual", "Al cambiar el aceite en casa, aprieta el tapón de vaciado magnético a 25 Nm con arandela nueva y unta con una película de aceite la junta del filtro nuevo antes de montarlo", "Si ruedas por zonas polvorientas, adelanta la limpieza del filtro de aire respecto a los 5.000 km previstos: el propio manual acorta los intervalos a la mitad en uso severo", "Vigila el nivel de refrigerante en el vaso de expansión con la moto recta y fría, y no abras nunca el circuito en caliente, como advierte el manual"]},
   },
   {
     id: "cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio",
@@ -142,7 +109,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "700CL-X Heritage 2025",
     cilindradaCc: 693,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 7195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 54.3,
     potenciaCv: 73.8,
     autonomiaKm: null,
@@ -164,7 +131,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Precio muy inferior al de las naked retro europeas",
     ],
     contras: [
-      "Precio oficial actual no publicado: consultar concesionario",
+      "7.195 € de tarifa oficial en España: no es la naked retro más barata del segmento pese a su origen chino",
       "73,8 CV se quedan cortos frente a las naked de 90+ CV del segmento",
       "Protección aerodinámica nula en autopista",
       "La gama CL-X envejece frente a las nuevas 800NK",
@@ -536,8 +503,6 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Pantalla TFT de 7\" con conectividad, impropia de un 125",
       "Precio de 3.999 € con 6 años de garantía oficial",
       "Válido con carnet B (+3 años): el salto desde el coche sin examen",
-      "Depósito de 11,7 litros y 2,6 l/100 km de consumo: autonomía teórica de más de 400 km por depósito (motofichas.com)",
-      "Control de tracción (TCS) y ABS de doble canal de serie: un nivel de seguridad impropio de un 125 (motorbikemag.es)",
     ],
     contras: [
       "160 kg en orden de marcha: pesado para un 125 urbano",
@@ -545,17 +510,13 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Ruedas mixtas ruidosas en asfalto liso",
       "Red de concesionarios aún en expansión en España",
       "Modelo nuevo (2026): repuestos y experiencia a largo plazo por ver",
-      "Velocidad punta por debajo de 110 km/h: justita para vías rápidas e incorporaciones exigentes (motofichas.com)",
-      "El impulso extra del microhíbrido (0,3-0,6 CV) apenas se nota en la práctica, según los probadores (motofichas.com)",
     ],
     curiosidades: [
       "Es uno de los primeros scooters 125 con hibridación ligera del mercado",
       "QJMotor pertenece al grupo Geely, también dueño de Volvo y Lotus",
       "La gama FORT mezcla estética adventure con practicidad scooter",
-      "El modo microhíbrido P1 se activa pulsando dos veces el botón del Start&Stop y se desconecta solo a los 8 segundos o al superar las 7.500 rpm (motofichas.com)",
-      "Comparte el motor microhíbrido con el QJMotor MTX 125, su hermano de corte más urbano (motofichas.com)",
     ],
-    imagen: "/media/qjmotor-fort-125n-2026-ficha-tecnica-precio.webp",
+    imagen: "/media/motos/qjmotor-fort-125n-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/qjmotor-fort-125n-2026-ficha-tecnica-precio-2.webp",
@@ -572,9 +533,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "QJMotor España (web oficial)",
-    fuenteUrl: "https://qjmotor.es/Moto/fort-125n/",
-    analisisSlug: "qjmotor-fort-125n-2026-analisis-opinion",
+    fuenteNombre: "QJMotor España",
+    fuenteUrl: "https://qjmotor.es",
+    analisisSlug: "qjmotor-fort-125n-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
   },
   {
@@ -598,25 +559,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "125 urbana con 15 CV al límite legal por 3.199 €",
-      "Solo 140 kg: ágil entre el tráfico y fácil de aparcar",
-      "Garantía oficial de 6 años o 50.000 km",
-      "Válida con carnet B (+3 años de antigüedad)",
-      "Consumo contenido, ideal para el día a día",
-    ],
-    contras: [
-      "15 CV justos para carretera abierta",
-      "Equipamiento básico frente a las 125 premium",
-      "Red de servicio más pequeña que Honda o Yamaha",
-      "Reventa modesta en ocasión",
-      "Sin pantalla TFT ni conectividad",
-    ],
-    curiosidades: [
-      "QJMotor ofrece 6 años de garantía, la más larga entre las marcas chinas en España",
-      "El grupo Geely respalda a QJMotor a nivel mundial",
-      "La ATR 125 es la puerta de entrada a la marca",
-    ],
+    pros: ["El monocilíndrico SOHC de 4 válvulas y refrigeración líquida entrega 15 CV a 8.750 rpm y 12 Nm a 8.250 rpm, el techo legal del A1/B, y el sistema microhíbrido suma un empujón eléctrico justo en las arrancadas, donde un 125 más lo agradece en ciudad.", "Nada de equipamiento pelado: de serie trae pantalla TFT de 5 pulgadas con mirroring del móvil, control de tracción, ABS de doble canal, control de presión de neumáticos TPMS, iluminación full LED y tomas USB y USB-C.", "Por los 3.199 € de esta ficha de 2025 venían incluidos el baúl trasero de serie y la garantía QJ de 6 años o 50.000 km, una cobertura que en un Honda o un Yamaha de 125 ni se acerca a esa duración.", "Su parte ciclo es de crossover de verdad, no solo de estética: horquilla de 40 mm con 124 mm de recorrido, pareja de amortiguadores traseros regulables en precarga con botella de gas separada y neumáticos 100/80-14 delante y 130/70-13 detrás sobre 140 kg en orden de marcha.", "Pensada para el uso diario con carnet B más 3 años o A1: arranque keyless, sistema Start & Stop, freno de estacionamiento, manetas regulables, parabrisas ajustable en dos posiciones, doble guantera en el contraescudo y piñas retroiluminadas."],
+    contras: ["El depósito se queda en 8 litros: aunque el microhíbrido ayude en las salidas, en trayectos de extrarradio o escapadas de fin de semana tocará repostar antes que con un scooter GT de depósito grande.", "Bajo el asiento solo cabe un casco jet; el integral depende del baúl trasero de serie, así que sin ese top case puesto la capacidad real para dos cascos desaparece.", "La ayuda eléctrica actúa en las arrancadas y QJMotor no ha publicado una cifra oficial de ahorro de consumo que la respalde: el par máximo, además, llega alto, a 8.250 rpm, y en carretera abierta esos 15 CV siguen siendo los de un 125.", "Es una recién llegada a un segmento dominado por veteranos: QJMotor no desembarcó en España hasta 2022, su red es más corta que la de las japonesas consolidadas y el valor de reventa de un ATR de ocasión aún está por comprobar."],
+    curiosidades: ["En su lanzamiento se presentó como el único scooter crossover de 125 con sistema microhíbrido, una ayuda eléctrica en las arrancadas que hasta entonces QJMotor ya había estrenado en su MTX 125.", "Lleva sistema ABL: si frenas de forma brusca, la luz de freno se activa automáticamente para avisar a quien viene detrás y tratar de evitar una colisión por alcance, algo muy poco habitual en un 125 de 3.199 €."],
     imagen: "/media/motos/qjmotor-atr-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -638,6 +583,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es",
     analisisSlug: "qjmotor-atr-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "QJMotor España no publica en la página oficial del ATR 125 ni los intervalos en kilómetros de las revisiones ni sus precios cerrados, así que no se da ninguna cifra de mantenimiento. Lo único verificable es la condición de la garantía: los 6 años, con límite de 50.000 km, solo se mantienen si se cumplen las revisiones programadas en concesionarios y talleres oficiales de la marca y se utiliza recambio original QJ Motor. Pide el plan y la tarifa por escrito en el concesionario antes de firmar.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://qjmotor.es/Moto/atr-125"},
   },
   {
     id: "qjmotor-fort-350-evo-2025-ficha-tecnica-precio",
@@ -646,7 +592,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Fort 350 EVO 2025",
     cilindradaCc: 330,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4999, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 22.1,
     potenciaCv: 30,
     autonomiaKm: null,
@@ -668,7 +614,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "6 años de garantía oficial",
     ],
     contras: [
-      "Precio oficial no publicado: consultar concesionario",
+      "4.999 € de tarifa oficial: correcto, aunque los scooter adventure rivales aprietan en precio",
       "187 kg en orden de marcha: pesado en ciudad",
       "30 CV se quedan cortos frente a los maxi-scooter de 400+",
       "La estética adventure penaliza algo la agilidad urbana",
@@ -723,25 +669,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Deportiva de 699 cc y 95 CV con velocidad máxima anunciada de 250 km/h",
-      "Motor tricilíndrico: sonido y carácter únicos en su precio",
-      "Electrónica de primer nivel: IMU, modos, quickshifter y TFT a color",
-      "Precio de 7.688 € con 5 años de garantía y seguro incluido",
-      "Limitable al A2: deportiva grande para carnet medio",
-    ],
-    contras: [
-      "214 kg en orden de marcha: pesada para una deportiva",
-      "Postura racing extrema: solo para circuito o salidas cortas",
-      "95 CV obligan a limitarla para el A2",
-      "Marca china con red de servicio aún pequeña en España",
-      "Reventa incierta frente a las japonesas",
-    ],
-    curiosidades: [
-      "Es la primera deportiva tricilíndrica china vendida en España",
-      "Zontes incluye seguro en el precio en algunas promociones oficiales",
-      "Su motor de 699 cc es el de mayor cilindrada de la marca",
-    ],
+    pros: ["Frente a una Honda CBR650R o una Yamaha R7, esta Zontes juega otra carta: tres cilindros y 95 CV con un carácter que no se parece al de sus rivales", "El tricilíndrico empuja con un tacto distinto al de los tetracilíndricos japoneses y suena con personalidad propia al abrir gas", "Llega muy bien equipada de serie para su tarifa: plataforma inercial, varios modos de conducción, cambio rápido y cuadro TFT en color", "La factura se quedaba en 7.688 € y la marca respaldaba la compra con una garantía de 5 años, además de promociones con seguro incluido", "La velocidad punta declarada, 250 km/h, la sitúa sobre el papel en territorio de deportivas que cuestan bastante más"],
+    contras: ["Sus 214 kg con todos los llenos se notan al maniobrar en parado y restan agilidad frente a una Aprilia RS 660", "Semimanillares bajos y estriberas altas: en ciudad o en trayectos largos la espalda y las muñecas acaban pasando factura", "Quien venga del A2 tendrá que limitarla sí o sí, porque de serie entrega los 95 CV completos", "La red comercial y de talleres de Zontes en España sigue creciendo, pero aún no iguala la capilaridad de Honda o Yamaha", "Como marca todavía joven aquí, su valor dentro de unos años en el mercado de ocasión es una incógnita"],
+    curiosidades: ["Cuando llegó en 2025, ninguna otra marca china ofrecía en España una deportiva carenada con motor de tres cilindros", "Ese tricilíndrico de 699 cc es el motor de mayor cubicaje dentro del catálogo de la propia Zontes", "En su lanzamiento español se comercializó con campañas oficiales que en ocasiones sumaban el seguro sin coste añadido al precio"],
     imagen: "/media/motos/zontes-703rr-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -762,7 +692,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "Zontes España",
     fuenteUrl: null,
     analisisSlug: "zontes-703rr-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "El aceite recomendado por Zontes en el manual del propietario de la ZT703-RR. La tabla oficial de mantenimiento consultada marca la sustitución del aceite en cada revisión, pero no se ha podido verificar una viscosidad concreta para este modelo, así que no se indica ninguna sin confirmarla en el manual entregado con la moto.", "cadenaPasos": ["Con la moto en punto muerto y apoyada de forma segura, gira la rueda trasera con la mano y localiza el punto más tenso de la cadena antes de medir nada.", "Retira la suciedad con un limpiador específico para cadenas con retenes y un cepillo suave; evita el agua a presión directa sobre los retenes.", "Seca bien la cadena y aplica lubricante específico para cadenas selladas por la cara interior, eslabón a eslabón, haciendo girar la rueda despacio.", "Deja reposar la moto al menos media hora para que el lubricante penetre y retira el sobrante con un trapo limpio.", "Comprueba la holgura y, si toca ajustar, afloja el eje trasero, mueve ambos tensores por igual y verifica que las marcas de los dos lados del basculante coincidan antes de reapretar."], "intervaloMantenimiento": "Primera revisión a los 1.000 km y después cada 5.000 km (5.000, 10.000, 15.000, 20.000 km...), según la tabla de mantenimiento periódico del manual oficial ZT703-RR: en cada revisión se sustituyen el aceite del motor y el filtro de aceite, y el refrigerante se renueva cada 3 años o 30.000 km.", "trucos": ["Tras un lavado o una salida con lluvia, limpia y lubrica la cadena aunque no toque por kilómetros: el agua se lleva la grasa y el óxido llega enseguida.", "Revisa el nivel de aceite por la mirilla con la moto en vertical y el motor templado tras unos minutos de reposo, tal como describe el procedimiento de Zontes para sus 703.", "El líquido de frenos y el refrigerante caducan por tiempo, no solo por kilómetros: aunque ruedes poco, respeta los plazos que marca el manual.", "Guarda las facturas de cada revisión hecha en servicio oficial: es la mejor defensa de la garantía y del valor de la moto si algún día la vendes."]},
   },
   {
     id: "zontes-368k-2025-ficha-tecnica-precio",
@@ -785,25 +715,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Scooter de 367,6 cc y 38,8 CV: potencia de maxiscooter por 4.592 €",
-      "Depósito de 17 litros para una autonomía muy amplia",
-      "Consumo declarado de 3,4-3,5 l/100 km",
-      "Asiento a 770 mm, accesible pese a su tamaño",
-      "5 años de garantía oficial",
-    ],
-    contras: [
-      "Cerca de 180 kg: pesado para mover en parado",
-      "38,8 CV exigen carnet A2, no vale el B",
-      "Tamaño grande para el tráfico urbano denso",
-      "Sin datos oficiales de peso en orden de marcha publicados",
-      "Red de servicio en expansión",
-    ],
-    curiosidades: [
-      "El 368K es la variante asfáltica del conocido 368G adventure",
-      "Zontes es famosa por equipar sus motos hasta arriba por poco dinero",
-      "Su pantalla TFT incluye conectividad con el móvil de serie",
-    ],
+    pros: ["Con un precio de 4.592 € ataca directamente a Yamaha XMAX 300, Honda Forza 350 y Kymco X-Town costando bastante menos", "El propulsor suma 367,6 cc y rinde 38,8 CV, rendimiento propio de un maxi pensado también para salidas interurbanas", "Entre su depósito de 17 litros y un consumo declarado de 3,4 l/100 km, la autonomía deja de ser preocupación habitual", "Llegas al suelo con facilidad porque el asiento queda a 770 mm, algo que se agradece en maniobras lentas", "La cobertura oficial llega a 5 años, respaldo poco frecuente cuando hablamos de scooters de este precio"],
+    contras: ["Moverlo en parado cuesta lo suyo: ronda los 180 kg y ese volumen se nota al aparcar en pendientes o garajes estrechos", "No podrás llevarlo con el permiso B; esos 38,8 CV obligan a tener el A2 en vigor", "En calles estrechas y atascos su carrocería maxi penaliza: filtrar entre coches exige más hueco que en un scooter compacto", "Falta en la ficha el dato de masa listo para circular, un hueco que dificulta contrastarlo frente a la competencia", "La red posventa todavía está creciendo en España, así que conviene confirmar qué taller oficial tienes realmente cerca de casa"],
+    curiosidades: ["Comparte base con el 368G de enfoque aventurero, pero esta versión K renuncia al campo y se centra por completo en el asfalto", "Fiel a la filosofía de Zontes, aquí el equipamiento de serie viene cargadísimo sin que la factura se dispare como en marcas tradicionales", "El cuadro TFT permite enlazar el teléfono de serie, integración que en varios rivales suele pagarse aparte o llegar en acabados superiores"],
     imagen: "/media/motos/zontes-368k-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -847,25 +761,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "125 con 14,55 CV, de los más potentes de su categoría",
-      "Equipamiento de lujo: TFT, arranque sin llave y modos de conducción",
-      "Precio de 3.787 € con 5 años de garantía",
-      "148 kg contenidos para su nivel de equipamiento",
-      "Válido con carnet B (+3 años)",
-    ],
-    contras: [
-      "Precio superior al de los 125 básicos japoneses",
-      "El equipamiento extra suma peso frente a los 125 sencillos",
-      "Red de talleres más pequeña que Kymco o Yamaha",
-      "Reventa por debajo de las marcas tradicionales",
-      "Repuestos con plazos más largos que la competencia",
-    ],
-    curiosidades: [
-      "Zontes equipa de serie lo que otras marcas cobran como extras",
-      "La D de 125D identifica su carácter deportivo dentro de la gama",
-      "Es uno de los 125 con mejor relación equipamiento/precio de España",
-    ],
+    pros: ["Con 124,7 cc entrega 14,55 CV, una cifra alta para moverse suelto por ciudad y circunvalaciones", "La instrumentación TFT a color, el acceso sin llave física y los modos de marcha vienen incluidos de fábrica", "Por 3.787 euros en 2025 ofrece un conjunto difícil de igualar sin subir mucho el presupuesto", "Marca 148 kilos en la báscula, un registro razonable tratándose de un scooter tan completo", "Lo pueden llevar quienes tengan el A1 y también conductores con el B y tres años de antigüedad"],
+    contras: ["Cuesta más que los modelos urbanos sencillos de las firmas japonesas de toda la vida", "Tanto extra tecnológico acaba pesando más que en un 125 pensado solo para lo esencial", "Su cobertura de servicio oficial todavía no alcanza a marcas como Kymco o Yamaha en España", "Al venderlo de segunda mano suele perder más valor que un scooter de marca consolidada", "Algunos recambios pueden tardar en llegar más de lo habitual frente a rivales con almacén local amplio"],
+    curiosidades: ["Buena parte de su dotación se ve normalmente pagando suplemento en la competencia, aquí viene montada desde el inicio", "Esa letra D final busca distinguir su enfoque más dinámico dentro de la familia 125 de la casa", "En el mercado español destaca cuando se compara lo que trae de serie frente a lo que cuesta adquirirlo"],
     imagen: "/media/motos/zontes-125d-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -886,7 +784,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "Zontes España",
     fuenteUrl: null,
     analisisSlug: "zontes-125d-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "Aceite para motor de 4 tiempos API SN o superior, viscosidad SAE 10W-40 o 10W-50 según el manual (en el cambio admite también 5W-40); 900 ml por cambio y 950 ml si se sustituye el cartucho del filtro de aceite.", "intervaloMantenimiento": "Primera revisión a los 1.000 km o a los 3 meses; después, revisiones cada 4.000 km o al año, lo primero que llegue, según el manual del D125 y la pauta de la red Zontes para los scooter M, D y E. El manual pide revisar el nivel de aceite al menos cada 500 km, cambiar la correa cada 2 años o 20.000 km, el líquido de frenos cada 2 años y el refrigerante cada 4 años o 40.000 km.", "trucos": ["Comprueba el nivel con la varilla y el scooter sobre el caballete central en suelo plano, tal como indica el manual, para no falsear la lectura.", "Deja el motor unos minutos a ralentí antes de salir para que el aceite recorra todo el circuito de engrase, sobre todo en frío.", "Revisa presiones, frenos y alumbrado en las comprobaciones previas diarias que recoge el manual; en un urbano de uso diario se detectan así la mayoría de fallos.", "Entrega el aceite usado en un punto limpio dentro de un recipiente sellado, nunca a la basura ni al suelo."]},
   },
   // ── BENELLI ──
   {
@@ -909,18 +807,13 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-      "precioDesde",
-    ],
+    aprox: [],
     pros: [
       "Trail A2 de 249 cc por 3.699 €: la puerta al mundo adventure",
       "Depósito de 17 litros para una gran autonomía",
       "Solo 153 kg en seco: ligera y manejable",
       "Consumo declarado de 4,1 l/100 km",
       "Estética de gran trail con pico de pato y defensas",
-      "Consumo real de 4,1 L/100 km, cifra homologada corroborada durante la prueba (fuente: Motos.net)",
-      "Toma de corriente USB bajo el manillar y soporte para anclar el móvil o el navegador, de serie",
-      "Maneta de embrague regulable e indicador de marcha engranada: detalles propios de una moto de mayor rango",
     ],
     contras: [
       "24,5 CV justos para autovía con equipaje",
@@ -928,16 +821,11 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Suspensiones básicas sin regulación",
       "Sin pantalla TFT ni conectividad",
       "La TRK 502 ofrece mucho más por poco más dinero",
-      "Las estriberas tocan el suelo muy pronto en curva (prueba de Motoblog)",
-      "El ángulo de giro de la dirección queda limitado por el diseño del soporte de la óptica delantera (prueba de Motoblog)",
     ],
     curiosidades: [
       "La TRK 251 es la hermana pequeña de la TRK 502, la trail más vendida de Benelli",
       "Benelli es una marca italiana centenaria, hoy propiedad del grupo chino Qianjiang",
       "Su estética imita a las grandes trail de 1.000 cc",
-      "Monta de serie neumáticos Metzeler Sportec M5",
-      "En 2021 se actualizó a la homologación Euro5 y en 2023 estrenó nuevos gráficos",
-      "Comparte motor con la naked Benelli BN 251",
     ],
     imagen: "/media/motos/benelli-trk-251-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -954,8 +842,8 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
         alto: 800,
       },
     ],
-    videoId: "Kh38Hy2Hz7Y",
-    videoCanal: "Motoblog",
+    videoId: null,
+    videoCanal: null,
     fuenteNombre: "Benelli España",
     fuenteUrl: null,
     analisisSlug: "benelli-trk-251-2025-ficha-tecnica-precio",
@@ -1217,7 +1105,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Tango 125i Scrambler 2025",
     cilindradaCc: 125,
     categoria: "Scrambler",
-    precioDesde: null,
+    precioDesde: 3690, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1239,7 +1127,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
       "Perfecta para ciudad y pistas suaves de fin de semana",
     ],
     contras: [
-      "Precio oficial no publicado",
+      "3.690 € de tarifa oficial: más cara que la Tango 125i estándar (3.569,50 €) por su estética scrambler",
       "Prestaciones modestas, como toda 125 clásica",
       "El escape alto limita las opciones de equipaje lateral",
       "Sin datos oficiales de peso y potencia publicados",
@@ -1280,7 +1168,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "XR5 500 2025",
     cilindradaCc: 471,
     categoria: "Trail",
-    precioDesde: null,
+    precioDesde: 5399,
     potenciaKw: 34.5,
     potenciaCv: 46.9,
     autonomiaKm: null,
@@ -1357,25 +1245,9 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Mini-scrambler de 125 cc y solo 111 kg: diversión pura",
-      "Precio de 2.499 €, de las más baratas de su estilo",
-      "Asiento a 760 mm: accesible para cualquier estatura",
-      "Consumo de 2,4-2,7 l/100 km, irrisorio",
-      "CBS/ABS, LED y cargador USB de serie",
-    ],
-    contras: [
-      "11 CV y 95 km/h de punta: solo ciudad y alrededores",
-      "Ruedas de 12\" nerviosas en carretera",
-      "Sin protección aerodinámica",
-      "Marca austriaca con red pequeña en España",
-      "El tamaño mini no es para pilotos muy altos",
-    ],
-    curiosidades: [
-      "Brixton es una marca austriaca que fabrica en China",
-      "La XS es la 'fun-bike' de la familia Crossfire: pequeña por fuera, grande en diversión",
-      "Su estética mezcla scrambler clásica con toques modernos",
-    ],
+    pros: ["Formato mini pensado para colarse entre coches sin esfuerzo y aparcar en cualquier hueco urbano", "Sus 111 kg hacen que maniobrar en parado resulte sencillísimo, incluso para quien acaba de empezar", "Cuesta 2.499 €, una cifra muy contenida dentro del universo de las 125 con estética scrambler", "Se puede llevar con el A1 o con el permiso B si ya acumulas tres años de experiencia", "Trae iluminación LED, frenada combinada y toma USB sin necesidad de pagar extras aparte"],
+    contras: ["Su techo real son 95 km/h, así que las vías rápidas quedan fuera de su terreno natural", "Las ruedas pequeñas transmiten más los baches y exigen atención extra sobre firme irregular o mojado", "Apenas ofrece resguardo frente al viento cuando el trayecto se alarga más de lo previsto", "Quien sea muy alto encontrará una posición encogida, con poco espacio para estirar las piernas", "La presencia comercial de Brixton en España sigue siendo reducida frente a las marcas generalistas"],
+    curiosidades: ["Brixton pertenece al grupo austriaco KSR: el diseño nace en Europa y la producción se realiza en China para contener costes", "La denominación XS subraya su planteamiento de moto de ocio en miniatura dentro de la saga Crossfire", "Su imagen bebe de las minimotos japonesas de los años setenta, reinterpretada con neumáticos de tacos y detalles scrambler actuales"],
     imagen: "/media/motos/brixton-crossfire-125-xs-2024-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -1396,7 +1268,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     fuenteNombre: "MundoMotero",
     fuenteUrl: "https://www.mundomotero.com/motos/brixton/crossfire-125-xs",
     analisisSlug: "brixton-crossfire-125-xs-2024-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "Aceite de motor de 4 tiempos 10W-40 (el manual de KSR recomienda Liqui Moly Motorbike 4T 10W-40), con una capacidad indicada de 1,0 l; el nivel se comprueba con la varilla, sin roscarla, entre las marcas de máximo y mínimo.", "cadenaPasos": ["Apoya la moto en vertical y busca el tramo inferior de la cadena para medir su holgura con una regla", "La holgura correcta que indica KSR está entre 10 y 20 mm; si queda fuera de ese margen, toca tensar", "Afloja la tuerca del eje trasero y las contratuercas de los tensores de ambos lados del basculante", "Gira los tornillos de ajuste de los dos lados exactamente lo mismo hasta dejar la holgura en su punto", "Comprueba que la rueda trasera queda alineada y reaprieta la tuerca del eje y las contratuercas", "Limpia y lubrica la cadena, revisa el estado del piñón y sustituye el conjunto si aparece desgaste"], "intervaloMantenimiento": "Según el plan de servicio de KSR para sus 125 refrigeradas por aire: primera revisión a los 1.000 km y siguientes a los 4.000 km o 1 año, 7.000 km o 2 años, 10.000 km o 3 años y 13.000 km o 4 años, lo que llegue antes; desde los 13.000 km, inspección al menos una vez al año o cada 3.000 km. La bujía, el filtro de gasolina y el filtro de aire se sustituyen cada 7.000 km, y el líquido de frenos se cambia cada 2 años.", "trucos": ["Revisa el nivel de aceite en cada repostaje: el propio manual de KSR lo pide expresamente en este motor refrigerado por aire", "Si ruedas a menudo por zonas polvorientas o con mal firme, adelanta los cambios de aceite, porque el manual advierte que en esas condiciones se degrada antes", "Una cadena demasiado tensa castiga piñón, corona y rodamientos, y una demasiado floja puede salirse y bloquear la rueda trasera: déjala siempre dentro de los 10-20 mm", "Anota cada revisión con fecha y kilometraje en el libro de servicio: KSR condiciona la garantía a cumplir el plan de mantenimiento"]},
   },
   {
     id: "brixton-crossfire-500-storr-2025-ficha-tecnica-precio",

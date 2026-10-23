@@ -15,7 +15,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "450SR S 2025",
     cilindradaCc: null,
     categoria: "Deportiva",
-    precioDesde: 6690,
+    precioDesde: 7390, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -28,27 +28,10 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "Basculante monobrazo, único en su segmento: estética de MotoGP por precio de A2",
-      "Horquilla invertida regulable y frenos con pinza Brembo de 4 pistones delante",
-      "Control de tracción, modos Sport/Rain y embrague antirrebote de serie",
-      "Pantalla TFT curva de 5 pulgadas con conectividad T-box (antirrobo y seguimiento)",
-      "Precio rompedor frente a Yamaha R3 (7.999 €) y KTM RC 390 (6.749 €)",
-    ],
-    contras: [
-      "179 kg en seco: algo pesada para una deportiva de 450",
-      "47 CV se quedan cortos en circuito frente a las 600",
-      "Sin IMU ni electrónica avanzada: el control de tracción es básico",
-      "El precio oficial (7.390 €) se acerca al de la competencia japonesa",
-      "Red de talleres y repuestos más pequeña que Honda o Yamaha",
-    ],
-    curiosidades: [
-      "Su alerón delantero con forma de aleta de tiburón optimiza la aerodinámica",
-      "El escape va oculto e integrado en la parte trasera, como las MotoGP",
-      "El sistema T-box permite localizar la moto y recibir avisos antirrobo en el móvil",
-      "Es la versión 'S' vitaminada de la 450SR, con suspensión y frenos mejorados",
-    ],
+    aprox: [],
+    pros: ["Recupera lo que la 450SR de serie tuvo que recortar del prototipo SR-C21: basculante monobrazo y escape bajo y oculto, con la rueda trasera completamente a la vista; en el escaparate del A2 no hay otra deportiva que lo monte", "El bicilíndrico de 449,5 cc va calado a 270° con doble eje de equilibrado, así que suena y empuja con pulso de V-twin en vez del zumbido plano de los paralelos a 180°, y se queda justo en los 47 CV que permite el carnet A2 sin limitar", "La S no es solo estética frente a la base: el disco trasero crece de 220 a 240 mm y pasa a pinza de dos pistones, delante manda un disco de 320 mm con pinza Brembo y la horquilla invertida de 37 mm suma regulación de amortiguación", "Postura cerrada de verdad, con semimanillares más bajos y estriberas más altas que en cualquier otra CFMoto del catálogo: en carretera de curvas se coloca como una deportiva grande, no como una 450 disfrazada", "La TFT curvada de 5 pulgadas concentra control de tracción, conectividad con el móvil y funciones T-Box de localización y aviso antirrobo, y suma faros automáticos, señal ESS de frenada de emergencia y toma USB"],
+    contras: ["Con los 7.390 € que publicaba la prensa española al llegar, la S pierde el argumento de ganga de la 450SR básica y se planta en el terreno de la Aprilia RS 457: el sobreprecio se paga en imagen y freno trasero, no en potencia", "No hay IMU, así que ni ABS en curva ni un control de tracción fino por inclinación; su electrónica Bosch cumple, pero queda un escalón por debajo de lo que ya insinúa la competencia", "La misma postura que enamora en curvas castiga en ciudad y en trayecto largo: muñecas cargadas, estriberas altas y una segunda plaza meramente testimonial pese a homologar para dos", "Marca 179 kg en la ficha, cifra discreta para una deportiva que presume de ligereza, y el depósito de 14 litros deja la autonomía real en el entorno de los 300 km que declara la marca si no se abusa del gas"],
+    curiosidades: ["El carenado de la familia 450SR se afinó con más de 30 horas de túnel de viento, y CFMoto cifraba el empuje aerodinámico de los alerones delanteros en unos 2 kilos extra sobre el tren delantero a 120 km/h", "El prototipo SR-C21 de 2021 que la anticipó llevaba suspensiones Öhlins y escape SC Project; casi todo eso se perdió al pasar a producción, salvo el monobrazo, que solo regresó con esta versión S"],
     imagen: "/media/motos/cfmoto-450sr-s-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -70,6 +53,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://cf-moto.es",
     analisisSlug: "cfmoto-450sr-s-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el manual de usuario de la familia 450SR, con la que la S comparte motor y plataforma: revisión de rodaje a los 1.000 km con cambio de aceite y filtro; después, aceite y filtro cada 5.000 km o 6 meses, bujía sustituida a los 10.000 km, refrigerante a los 35.000 km o 24 meses y comprobación del juego de válvulas a los 40.000 km. El intervalo se acorta a la mitad con uso severo, y las operaciones marcadas en el manual deben hacerlas en un concesionario autorizado.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual de usuario CFMoto 450SR (tabla de mantenimiento periódico tras el rodaje), consultado en ManualsLib y en el PDF oficial en español de la 450SR S"},
   },
   {
     id: "cfmoto-450mt-2025-ficha-tecnica-precio",
@@ -78,7 +62,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "450MT 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 5990,
+    precioDesde: 6495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 42,
     autonomiaKm: null,
@@ -91,13 +75,13 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseñada por KISKA (los diseñadores de KTM y Husqvarna): estética dakariana",
       "Solo 175 kg con suspensiones KYB totalmente regulables y 200 mm de recorrido",
       "ABS trasero desconectable y control de tracción: trail A2 de verdad, no una scrambler disfrazada",
       "Depósito de 17,5 L con unos 350 km de autonomía",
-      "Llantas de radios sin cámara en 21\" y 18\", listas para el off-road",
+      "Llantas de radios sin cámara en 21\\\" y 18\\\", listas para el off-road",
     ],
     contras: [
       "42 CV se quedan justos en autopista con equipaje y pasajero",
@@ -222,7 +206,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Motor tricilíndrico de 675 cc: el único chino del segmento, con sonido y carácter propios",
       "94 CV y 220 km/h de punta con 0-100 en 3,6 s: prestaciones de 600 japonesa",
       "Horquilla KYB de 41 mm totalmente regulable y frenos J.Juan",
-      "Quickshifter ascendente, control de tracción y pantalla TFT de 5\"",
+      "Quickshifter ascendente, control de tracción y pantalla TFT de 5\\\"",
       "7.995 €: 2.400 € menos que la Triumph Daytona 660 con prestaciones equivalentes",
     ],
     contras: [
@@ -283,7 +267,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     aprox: ["velocidadMax"],
     pros: [
       "15 CV al límite legal del A1, con motor DOHC de 4 válvulas y refrigeración líquida",
-      "Pantalla TFT de 5\" con navegación por Google Maps: tecnología de moto grande",
+      "Pantalla TFT de 5\\\" con navegación por Google Maps: tecnología de moto grande",
       "Control de tracción y ABS de doble canal de serie en una 125",
       "Horquilla invertida de 37 mm y freno delantero de 292 mm con pinza radial",
       "3.895 € (con promociones de 3.395 €): rompe el mercado de las 125",
@@ -330,7 +314,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "800MT Explore 2025",
     cilindradaCc: null,
     categoria: "Trail",
-    precioDesde: 10995,
+    precioDesde: 10995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -343,9 +327,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
-      "Pantalla táctil TFT de 8\" con Apple CarPlay: la más grande del segmento",
+      "Pantalla táctil TFT de 8\\\" con Apple CarPlay: la más grande del segmento",
       "Radar trasero de ángulo muerto, ABS en curva y 6 modos de conducción",
       "Motor bicilíndrico de 799 cc derivado del KTM 790: probado y fiable",
       "Puños y asiento calefactables, control de crucero y quickshifter bidireccional",
@@ -408,23 +392,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "56 CV por menos de 5.000 €",
-      "Marzocchi multirregulables",
-      "Control de tracción de serie",
-      "TFT con mirroring",
-      "6 años de garantía + seguro gratis",
-    ],
-    contras: [
-      "190 kg en orden de marcha",
-      "Versión full solo para carnet A",
-      "Consumo no declarado",
-    ],
-    curiosidades: [
-      "QJMotor es del grupo Geely (Volvo, Lotus): su red y garantía son de las más serias entre las chinas.",
-      "Se vende con 6 años de garantía y el primer año de seguro gratis incluidos en el precio.",
-      "La pantalla TFT de 5\" con función mirroring es única en su rango de precio.",
-    ],
+    pros: ["Precio de derribo: en su variante completa entrega 56 CV quedándose por debajo de la barrera de los cinco mil euros", "Horquilla y amortiguador firmados por Marzocchi, con regulación en varios parámetros de funcionamiento", "Ayuda electrónica frente a pérdidas de agarre de la rueda trasera ya incluida de fábrica", "Instrumentación a color capaz de duplicar en su pantalla lo que muestra el teléfono móvil", "Respaldo oficial muy prolongado y primera anualidad de la póliza sin pagarla por separado"],
+    contras: ["En la báscula no es precisamente una pluma: marca 190 kilos con todo listo para rodar", "Para usarla sin limitar hace falta ya el permiso A, no basta el escalón intermedio", "La marca no publica cifra homologada de gasto de carburante"],
+    curiosidades: ["Detrás de esta firma está Geely, conglomerado chino que también controla marcas europeas de coches muy conocidas, algo que se nota en la estructura comercial que está montando en España.", "Quien la compra se lleva, dentro del importe anunciado, media docena de años de respaldo oficial y la primera anualidad del seguro ya pagada.", "Su cuadro de cinco pulgadas puede replicar la interfaz del móvil, algo rarísimo de ver en motos que cuestan tan poco."],
     imagen: "/media/motos/qjmotor-srk600-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -445,7 +415,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "QJMotor España",
     fuenteUrl: "https://qjmotor.es/",
     analisisSlug: "qjmotor-srk600-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "El especificado por QJMotor en el manual del propietario, utilizando recambio original y el aceite recomendado por la marca; el grado concreto no consta en la fuente pública consultada y no se inventa.", "cadenaPasos": ["Apoya la moto en vertical y segura antes de tocar la transmisión final.", "Limpia la cadena con un producto específico y un cepillo suave, girando la rueda trasera a mano.", "Seca bien cada eslabón antes de aplicar el lubricante.", "Engrasa por la cara interior del ramal inferior, repartiendo el producto de forma uniforme.", "Comprueba la holgura y el desgaste del kit de arrastre y ajústala solo dentro de lo que marque el manual.", "Retira el exceso de grasa para que no salpique la rueda ni el neumático."], "intervaloMantenimiento": "Según la pauta de los manuales QJMotor alojados en qjmotor.es: primera revisión a los 1.000 km, segunda a los 7.000 km y las siguientes cada 6.000 km; si no se alcanza el kilometraje, revisión anual obligatoria.", "trucos": ["Cada 1.000 km, como pide el manual QJMotor: presiones de neumáticos, nivel de aceite y nivel de refrigerante.", "El manual recomienda renovar el aceite de la suspensión delantera cada 2 años.", "Para conservar la cobertura oficial, las revisiones programadas deben hacerse en la red oficial con recambio original.", "Engrasa la cadena al volver de rodar, con la transmisión aún templada, para que el lubricante penetre mejor."]},
   },
   {
     id: "qjmotor-srk400-2025-ficha-tecnica-precio",
@@ -468,23 +438,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Directa para el A2 sin limitar",
-      "186 kg y asiento a 800 mm",
-      "Doble disco delantero",
-      "TFT a color",
-      "6 años de garantía",
-    ],
-    contras: [
-      "Horquilla sin regulación",
-      "41 CV justos en carretera",
-      "Red de talleres en crecimiento",
-    ],
-    curiosidades: [
-      "Comparte plataforma con las Benelli de media cilindrada: QJMotor y Benelli son primas hermanas.",
-      "Su bicilíndrico de 400 cc nació para sustituir a las SRK 350 en China.",
-      "Con 30,5 kW se queda justo en el límite legal del A2 sin necesidad de limitación.",
-    ],
+    pros: ["Bicilíndrico en línea de 400 cc, DOHC de 8 válvulas y refrigeración líquida con 41 CV y 37 Nm a 7.500 rpm: se conduce con el A2 tal cual, sin kit de limitación", "En esta ficha figura a 5.699 € con 6 años de garantía, la cobertura que la prensa de lanzamiento destacaba como única entre las bicilíndricas de media cilindrada para el A2", "Doble disco delantero tipo wave de 260 mm y disco trasero de 240 mm, ambos con ABS, sobre horquilla invertida y monoamortiguador trasero regulable en precarga y extensión", "Pantalla TFT a color, iluminación full LED y escape 2 en 1 con silenciador bajo el motor, equipamiento que en su desembarco español no era lo habitual por este precio"],
+    contras: ["Con 186 kg en orden de marcha es la naked más pesada de su clase, unos 20 kg por encima de sus rivales directas según la prensa europea de lanzamiento: se nota maniobrando en parado", "La potencia máxima llega a 9.000 rpm y las pruebas publicadas señalan vibraciones en manillar y estriberas al pasar de 7.000 rpm, así que pide llevar el bicilíndrico alegre para rendir", "La horquilla invertida no ofrece regulación, mientras que detrás sí hay ajuste de precarga y extensión: quien busque afinar el tren delantero no tiene margen de serie", "QJ Motor solo aterrizó en España a finales de 2022, de la mano de su primera presentación de producto con esta SRK 400 en Málaga: su red comercial y de talleres sigue creciendo frente a marcas con décadas de implantación"],
+    curiosidades: ["Es la hermana pequeña de la SRK 700 dentro de la gama street del desembarco español de QJ Motor: misma familia SRK, pero con 400 cc y 41 CV frente a los 698 cc y 72 CV de la mayor.", "Su escape 2 en 1 coloca el silenciador bajo el motor; la propia marca lo presentaba como una forma de rebajar el centro de gravedad, además de buscar un sonido más grave."],
     imagen: "/media/motos/qjmotor-srk400-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -506,6 +462,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/",
     analisisSlug: "qjmotor-srk400-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el manual de usuario oficial de la SRK 400: primera revisión a los 1.000 km, segunda a los 7.000 km y tercera y sucesivas cada 6.000 km. Si no se alcanza ese kilometraje, la revisión anual es obligatoria para mantener la garantía, siempre en la red oficial QJ Motor y con recambio original. El manual pide verificar cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante, y recomienda cambiar el aceite de la suspensión delantera cada 2 años.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://qjmotor.es/wp-content/uploads/2023/04/MANUAL-USUARIO-SRK400.pdf"},
   },
   {
     id: "qjmotor-srt-600sx-2025-ficha-tecnica-precio",
@@ -709,23 +666,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "165 kg, muy ligera",
-      "40,7 CV con carácter",
-      "Consumo de 3,6 L/100",
-      "Inyección Bosch",
-      "5 años de garantía",
-    ],
-    contras: [
-      "Potencia arriba (10.500 rpm)",
-      "Asiento a 760 mm algo bajo",
-      "Pantalla básica",
-    ],
-    curiosidades: [
-      "Su motor de 322 cc pesa solo 39 kg gracias a los cilindros de aluminio con tratamiento Ni-SiC.",
-      "Es la primera Voge con el nuevo bicilíndrico intermedio entre las 300 y las 500.",
-      "El escape 2 en 1 elevado le da un aire scrambler pese a ser una naked.",
-    ],
+    pros: ["Bicilíndrico de 321,8 cc con 40,7 CV a 10.500 rpm y 31 Nm a 9.000 rpm: está entre lo más potente del carnet A2 sin pasar a una 500", "165 kg en orden de marcha y asiento a 760 mm: se mueve en parado y en ciudad con mucha menos intimidación que sus hermanas mayores", "Horquilla invertida de 41 mm, disco delantero de 298 mm y ABS Bosch de doble canal por los 4.789 € que marca la ficha", "Consumo de 3,6 l/100 km registrado en prueba y depósito de 12,5 litros: la autonomía real supera los 340 km entre repostajes", "Embrague antirrebote asistido, pantalla a color de 5 pulgadas con toma USB e iluminación full LED con firma en forma de V"],
+    contras: ["Potencia y par llegan muy arriba, a 10.500 y 9.000 rpm: para adelantar con decisión hay que bajar marchas y estirar el motor, no basta con abrir gas", "Capacidad de carga casi nula para el día a día: sin hueco práctico y con un diseño al que un baúl o unas alforjas le sientan mal, como señala la prueba de Soymotero", "Neumáticos Corsun Cordial de origen: en seco dan tacto y precisión, pero en mojado no transmiten la misma confianza que unos de marca más conocida", "Suspensiones con poco margen de ajuste: la horquilla invertida no es regulable y el monoamortiguador trasero solo admite precarga"],
+    curiosidades: ["Su bicilíndrico pesa solo 39 kg: los cilindros son de aluminio con tratamiento Ni-SiC y los pistones, forjados en forma de T, algo clave para dejar la moto en 165 kg.", "Las siglas AC responden a Advanced Classic, la denominación de Voge para sus naked neo-retro que combinan formas tradicionales con tecnología actual, como la inyección Bosch."],
     imagen: "/media/motos/voge-350ac-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -747,6 +690,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/",
     analisisSlug: "voge-350ac-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el manual de usuario de la 350AC, la primera revisión es a los 1.000 km o 3 meses y las siguientes llegan cada 6.000 km o 12 meses (6.000, 12.000, 18.000 y 24.000 km), con cambio de aceite y de filtro de aceite en cada una. El líquido de frenos DOT 4 y el refrigerante se sustituyen cada 2 años, y el manual indica cambiar el filtro de combustible secundario cada 5.000 km. Sin costes: ninguna fuente consultada publica precios cerrados de estas revisiones.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual de usuario Voge 350AC, código DMUSGA069VGE23, última revisión 17/05/2024, tabla de mantenimiento y sellos de revisiones, págs. 69-77 (copia consultada en Scribd)"},
   },
   {
     id: "voge-525acx-2025-ficha-tecnica-precio",
@@ -755,7 +699,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "525ACX 2025",
     cilindradaCc: 494,
     categoria: "Naked",
-    precioDesde: 6317,
+    precioDesde: 5487, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -768,24 +712,10 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "47,6 CV al límite del A2",
-      "Llantas de radios mixtas",
-      "TFT de 7\" con TPMS",
-      "Kayaba delante",
-      "5 años de garantía",
-    ],
-    contras: [
-      "198 kg",
-      "Asiento alto (840 mm)",
-      "Sin modos de conducción",
-    ],
-    curiosidades: [
-      "Su motor de 494 cc es de uso exclusivo para Voge: no se suministra a otras marcas.",
-      "La TFT de 7\" avisa de despresurizaciones rápidas de los neumáticos.",
-      "Con 19 L de depósito es de las scrambler A2 con más autonomía.",
-    ],
+    aprox: [],
+    pros: ["Bicilíndrico de 494 cc pensado solo para Voge, con 47,6 CV justo en el techo del A2 y un par de 44,5 Nm que empuja sin obligarte a ir siempre arriba de vueltas", "Pantalla TFT de 7 pulgadas con brillo automático, Bluetooth para gestionar llamadas y aviso específico si un neumático pierde presión de golpe, algo rarísimo en una neo-retro de este precio", "Rueda delantera de 19 pulgadas con llanta de radios cruzados y neumáticos de dibujo mixto: mantiene el aire scrambler sin renunciar a una pista sencilla cuando se acaba el asfalto", "Depósito de 19 litros heredado de la 500 AC: con esa capacidad no tienes que planificar cada salida larga alrededor de la siguiente gasolinera", "Cinco años de garantía de serie en España, un respaldo poco habitual en una A2 cuyo precio en la ficha figura como aproximado, desde 6.317 euros"],
+    contras: ["198 kg en orden de marcha son muchos para una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha", "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta", "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia", "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera"],
+    curiosidades: ["Las siglas AC significan Advanced Classic: es la etiqueta que Voge reserva a sus neo-retro que mezclan formas de inspiración clásica con tecnología actual", "Aunque Voge es la marca premium de Loncin, este motor de 494 cc no se cede a otras marcas: según la propia presentación, nació en exclusiva para la plataforma 525"],
     imagen: "/media/motos/voge-525acx-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -809,66 +739,6 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: null,
   },
   {
-    id: "voge-ds525x-2025-ficha-tecnica-precio",
-    marca: "Voge",
-    modelo: "525DSX",
-    version: "525DSX 2025",
-    cilindradaCc: 494,
-    categoria: "Trail",
-    precioDesde: 5392,
-    potenciaKw: 35.3,
-    potenciaCv: 48,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 190,
-    plazas: 2,
-    carnet: "A2",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: [],
-    pros: [
-      "Equipamiento de trail grande",
-      "TCS y ABS desconectables",
-      "Cámara frontal HD",
-      "Consumo de 3,9 L/100",
-      "Precio de oferta",
-    ],
-    contras: [
-      "190 kg en seco",
-      "Sin quickshifter",
-      "Pantalla LCD en vez de TFT",
-    ],
-    curiosidades: [
-      "Lleva una cámara frontal HD de serie para grabar las rutas.",
-      "El ABS es desconectable en la rueda trasera para el off-road.",
-      "Comparte motor con la 525ACX pero con una puesta a punto más viajera.",
-    ],
-    imagen: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-1.webp",
-    galeria: [
-      {
-        src: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-2.webp",
-        alt: "Voge 525DSX 2025, detalle",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-1.webp",
-        alt: "Voge 525DSX 2025, vista tres cuartos",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Voge España",
-    fuenteUrl: "https://vogespain.es/",
-    analisisSlug: "voge-ds525x-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
-  },
-  {
     id: "voge-sr4-max-2025-ficha-tecnica-precio",
     marca: "Voge",
     modelo: "SR4 MAX",
@@ -889,23 +759,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Radar de ángulo muerto",
-      "Equipamiento premium completo",
-      "34 CV para el A2",
-      "Parabrisas eléctrico",
-      "5 años de garantía",
-    ],
-    contras: [
-      "213 kg",
-      "Precio alto para un 350",
-      "Consumo no declarado",
-    ],
-    curiosidades: [
-      "Deriva del BMW C400X: el grupo Loncin fabrica los scooters de BMW.",
-      "La versión Radar 2025 añade detección de ángulo muerto y alerta de colisión.",
-      "Su cámara frontal graba los desplazamientos como una dashcam.",
-    ],
+    pros: ["El radar trasero de 2025 es su seña propia: avisa con un LED en cada retrovisor si un vehículo se queda en el ángulo muerto y hace parpadear la luz de freno ante una aproximación rápida por detrás", "Motor de 349,8 cc con 34 CV y 35 Nm justo en el límite útil del A2: sirve para rondas y autovía diaria sin tener que limitar nada", "Hereda de la versión T el parabrisas con regulación eléctrica y los puños y el asiento calefactables, equipo raro de ver de serie en un 350", "Pantalla TFT de 7 pulgadas con navegación giro a giro, control de presión de neumáticos, arranque sin llave y cámara frontal HD que graba el trayecto", "Los 5.892 € incluían 5 años de garantía y un año de seguro, un respaldo poco habitual frente a rivales japoneses de precio similar"],
+    contras: ["213 kg en orden de marcha: en marcha no estorban demasiado, pero moverla en parado dentro de un garaje estrecho sí se nota", "5.892 € ya no es el precio rompedor de su lanzamiento: queda cerca de un Honda Forza 350 o un Yamaha XMAX y lejos de otros scooters chinos más baratos", "Todo el sistema de radar vigila solo hacia atrás; por delante no hay aviso de colisión ni control de crucero que alivie los tramos largos de autovía", "La marca no declara consumo en la ficha de esta versión, así que el coste real por depósito de 12,8 litros solo se conoce tras usarla"],
+    curiosidades: ["El radar de esta SR4 no se estrenó en un scooter: Voge lo trasladó desde su trail 900DSX, donde ya lo había montado antes de bajarlo al segmento A2 en 2025.", "En la línea de producción del SR4 Max, piezas de aluminio fundido como el basculante trasero se verifican con una máquina industrial de rayos X, según la nota de presentación del modelo."],
     imagen: "/media/motos/voge-sr4-max-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -935,7 +791,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "300AC 2025",
     cilindradaCc: 292,
     categoria: "Naked",
-    precioDesde: 3090,
+    precioDesde: 3595, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 19.1,
     potenciaCv: 26,
     autonomiaKm: null,
@@ -948,7 +804,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Consumo de 2,9 L/100",
       "170 kg muy manejable",
@@ -996,7 +852,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "350D 2025",
     cilindradaCc: 349,
     categoria: "Scooter",
-    precioDesde: 4787,
+    precioDesde: 4787, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 27,
     potenciaCv: 36.71,
     autonomiaKm: null,
@@ -1009,7 +865,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Potencia récord en 350 cc",
       "Parabrisas eléctrico doble",
@@ -1124,7 +980,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "703F 2025",
     cilindradaCc: 699,
     categoria: "Trail",
-    precioDesde: 7992,
+    precioDesde: 7992, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 69.9,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -1137,7 +993,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2 (versión 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Tricilíndrico de 95 CV",
       "IMU y electrónica de nivel premium",
@@ -1153,7 +1009,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     curiosidades: [
       "Es la primera Zontes de más de 350 cc y estrena el tricilíndrico desarrollado por la propia marca.",
       "Su equipamiento incluye IMU de 6 ejes, cámaras HD y pantalla TFT inclinable: tecnología de motos premium.",
-      "Hay una versión con llanta delantera de 19\" y asiento a 830 mm para los que no llegan al suelo.",
+      "Hay una versión con llanta delantera de 19\\\" y asiento a 830 mm para los que no llegan al suelo.",
     ],
     imagen: "/media/motos/zontes-703f-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1199,17 +1055,11 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Consumo real de 3,4 L/100 km (homologado); en prueba real no supera los 4,0 L/100 km (fuente: Motofichas)",
       "38,8 CV con 163 kg",
       "Modos y control de tracción",
-      "TFT de 6,75\" con mirroring",
+      "TFT de 6,75\\\" con mirroring",
       "Consumo de 3,5 L/100",
       "Precio contenido",
-      "Inyección electrónica Bosch y batería de litio de serie (Zontes España).",
-      "40 Nm de par: el más potente entre los scooters por debajo de 400 cc, según Zontes España.",
-      "Keyless de 3.ª generación, manetas ajustables y freno de estacionamiento de serie (Zontes España).",
-      "Doble toma USB (tipo A y tipo C) en la guantera delantera (Zontes España).",
-      "Altura de asiento de 760 mm: accesible para pilotos de baja estatura (Motosan).",
     ],
     contras: [
       "Depósito de 12 L: autonomía limitada en escapadas largas",
@@ -1217,8 +1067,6 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin puños calefactables de serie",
       "Diseño muy agresivo: o te encanta o no te entra",
       "Red de talleres más pequeña que las japonesas",
-      "La versión 368M ETC 2026 ya está en el mercado con acelerador electrónico por 4.488 € (solo 296 € más), lo que resta atractivo a la 2025 (Motofichas).",
-      "Pantalla parabrisas testimonial: ofrece poca protección en carretera (Motofichas, prueba gama 368).",
     ],
     curiosidades: [
       "Con 163 kg en seco es el más ligero de la familia 368 de Zontes.",
@@ -1246,9 +1094,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
         alto: 292,
       },
     ],
-    videoId: "MvooZhRcPXY",
-    videoCanal: "Publimotos",
-    fuenteNombre: "Zontes España (web oficial)",
+    videoId: null,
+    videoCanal: null,
+    fuenteNombre: "Zontes España",
     fuenteUrl: "https://zontesmotos.es/modelo/368m/",
     analisisSlug: "zontes-368m-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
@@ -1260,7 +1108,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "GK125 2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3387,
+    precioDesde: 3587, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10.8,
     potenciaCv: 14.7,
     autonomiaKm: null,
@@ -1273,7 +1121,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "143 kg muy ligera",
       "Depósito de 17 L",
@@ -1568,7 +1416,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "Leoncino 800 Trail 2025",
     cilindradaCc: 754,
     categoria: "Naked",
-    precioDesde: 7790,
+    precioDesde: 8590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 56.1,
     potenciaCv: 76.2,
     autonomiaKm: null,
@@ -1581,7 +1429,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética scrambler muy personal",
       "Escape elevado y llantas de radios",
@@ -1594,7 +1442,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin conectividad avanzada",
       "ABS no desconectable",
       "Ambición off-road modesta",
-      "Precio con descuento temporal",
+      "Precio de tarifa de 8.590 €: las promociones puntuales lo dejan por debajo",
     ],
     curiosidades: [
       "El motor de 754 cc es el más avanzado de la gama Benelli",
@@ -1659,8 +1507,6 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "TFT de 7\" con navegación",
       "Puños y asiento calefactables",
       "Quickshifter up & down",
-      "Existe una versión limitada a 35 kW al mismo precio, lo que la abre a los conductores con carnet A2 (soymotero.net).",
-      "Depósito metálico de 20 litros: con el consumo declarado de 5 l/100 km, la autonomía teórica llega a los 400 km.",
     ],
     contras: [
       "230 kg en seco",
@@ -1668,17 +1514,13 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin llantas de radios",
       "Precio superior a la 702",
       "Consumo elevado",
-      "La versión Stradale es asfáltica pura: llantas de aleación de 17 pulgadas y neumáticos de carretera, sin una variante campera real (lamoto.com.ar).",
-      "Con el depósito lleno supera los 230 kg, por encima de la media de las crossover de 900 cc (directomotor.com).",
     ],
     curiosidades: [
       "Comparte plataforma con la TRK 902 Xplorer pero orientada a carretera",
       "Su radar ofrece asistencia al cambio de carril, inédita en su precio",
       "El depósito de 21 L da autonomía para grandes viajes",
-      "La ficha la cataloga como modelo 2025, pero en España la prensa la comercializa como modelo 2026: llegó a concesionarios en junio de 2026 (motosan.es).",
-      "Las primeras unidades programadas para julio y agosto de 2026 se agotaron en preventa, según Motosan.",
     ],
-    imagen: "/media/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-2.webp",
@@ -1695,9 +1537,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "SoyMotero (precio en España)",
-    fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-stradale-2026/",
-    analisisSlug: "benelli-trk-902-stradale-2025-analisis-opinion",
+    fuenteNombre: "Benelli",
+    fuenteUrl: "https://www.benelli.com",
+    analisisSlug: "benelli-trk-902-stradale-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
@@ -1879,8 +1721,6 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Control de tracción de serie",
       "17 L de depósito",
       "Precio de 4.999 € con seguro gratis",
-      "Control de tracción desconectable y ABS de doble canal de serie: un equipamiento de seguridad poco habitual por debajo de los 5.000 € (motofichas.com).",
-      "Depósito de 17 litros, el más generoso del segmento: con el consumo homologado supera los 350 km de autonomía sin repostar (directomotor.com).",
     ],
     contras: [
       "185 kg para una custom media",
@@ -1888,17 +1728,13 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin modos de conducción",
       "Neumáticos CST de serie",
       "Vibraciones a alto régimen",
-      "185 kg en orden de marcha para 42 CV: la relación peso/potencia es justa frente a rivales que apuran los 47 CV del A2 (motofichas.com).",
-      "La pantalla TFT cuesta de leer con el sol de cara, según las pruebas de presentación (mototaller.info).",
     ],
     curiosidades: [
       "Es la primera custom de Macbor para el carnet A2",
       "Su TFT redonda de 90 mm tiene 4 interfaces personalizables",
       "Con 4,3 L/100 km roza los 400 km de autonomía",
-      "Macbor desarrolla la Rockster 410 con Zongshen, uno de los mayores fabricantes de motores de China, adaptando la mecánica a Europa (motofichas.com).",
-      "Llegó al mercado con una promoción de lanzamiento que incluía seguro a terceros gratis el primer año (mototaller.info).",
     ],
-    imagen: "/media/macbor-rockster-410-2025-ficha-tecnica-precio.webp",
+    imagen: "/media/motos/macbor-rockster-410-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/macbor-rockster-410-2025-ficha-tecnica-precio-2.webp",
@@ -1915,9 +1751,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "motofichas.com (prueba de la Rockster 410: precio 4.999 € y ficha técnica)",
-    fuenteUrl: "https://www.motofichas.com/pruebas/6931-prueba-macbor-rockster-410",
-    analisisSlug: "macbor-rockster-410-2025-analisis-opinion",
+    fuenteNombre: "Macbor",
+    fuenteUrl: "https://www.macbor.es",
+    analisisSlug: "macbor-rockster-410-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
@@ -2007,7 +1843,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "E-Tango 2025",
     cilindradaCc: null,
     categoria: "Enduro",
-    precioDesde: 4187,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4,
     potenciaCv: 5.4,
     autonomiaKm: 80,
@@ -2020,7 +1856,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "3 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "80 km de autonomía con batería LG extraíble",
       "Menos de 80 kg, muy manejable en trialeras",
@@ -2127,7 +1963,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "X-Over 357 2026",
     cilindradaCc: 329,
     categoria: "Scooter",
-    precioDesde: 4659,
+    precioDesde: 5009, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 21.5,
     potenciaCv: 29.3,
     autonomiaKm: null,
@@ -2140,7 +1976,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "29,3 CV, solvente en ciudad y autovía",
       "Hueco para dos cascos integrales bajo el asiento",
@@ -2150,7 +1986,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     contras: [
       "191 kg, no es la más ligera",
-      "Precio de lanzamiento sujeto a promoción",
+      "Precio de tarifa de 5.009 €: el de lanzamiento (4.659 €) era promocional",
       "Estética crossover que no gustará a todos",
     ],
     curiosidades: [
@@ -2253,7 +2089,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "E-Tango SM 2025",
     cilindradaCc: null,
     categoria: "Supermotard",
-    precioDesde: 4187,
+    precioDesde: 4187, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 4,
     potenciaCv: 5.4,
     autonomiaKm: 80,
@@ -2266,7 +2102,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "3 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Estética supermotard con ruedas de 17 pulgadas",
       "Misma base eléctrica probada de la E-Tango",
@@ -2459,23 +2295,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: "1,4 h",
     etiquetaDgt: "Cero",
     aprox: [],
-    pros: [
-      "235 km de autonomía en ciudad",
-      "150 km/h de velocidad máxima",
-      "Carga completa en 1,4 horas",
-      "5 años de garantía con kilometraje ilimitado",
-      "Par instantáneo y cero vibraciones",
-    ],
-    contras: [
-      "Precio de 18.710 euros",
-      "163 km de autonomía en autopista",
-      "Peso elevado típico de las eléctricas",
-    ],
-    curiosidades: [
-      "Es la naked de acceso a la plataforma SR de Zero.",
-      "Su precio en Canarias es de 17.200 euros por la fiscalidad.",
-      "El sistema operativo Cypher permite actualizar la moto por software.",
-    ],
+    pros: ["Rodando por ciudad anuncia hasta 235 km con cada recarga, margen amplio para encadenar varios días de trayectos sin buscar un enchufe.", "Su punta de 150 km/h le permite afrontar la autovía y los adelantamientos sin sentirse corta de prestaciones.", "Volver al cien por cien le lleva 1,4 h según la propia ficha, una espera asumible durante una parada larga o la jornada laboral.", "La cobertura llega a 5 años y no impone límite de kilometraje, un respaldo poco habitual entre las eléctricas de su clase.", "El motor entrega la fuerza al instante y rodar sin vibraciones ni ruido mecánico se agradece especialmente en tráfico urbano."],
+    contras: ["El desembolso inicial, 18.710 euros, queda muy por encima de lo que cuesta una naked térmica comparable.", "Al salir a vía rápida la autonomía cae a 163 km, por lo que un viaje largo pide calcular antes dónde recargar.", "Como casi toda eléctrica de su tamaño, acusa la báscula: moverla en parado requiere más esfuerzo del deseado."],
+    curiosidades: ["Frente a la S, su hermana menor, esta SR apuesta por más batería y más empuje, y actúa como puerta de entrada a la plataforma grande de Zero.", "Comprarla en Canarias sale por 17.200 euros, diferencia que se explica por la menor carga fiscal aplicada en las islas.", "Con Cypher como sistema operativo, la moto puede evolucionar mediante actualizaciones remotas de software que añaden o ajustan funciones sin visitar el taller."],
     imagen: "/media/motos/zero-sr-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -2496,7 +2318,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "Canariasenmoto",
     fuenteUrl: "https://www.canariasenmoto.com/noticias/zero-sr-la-moto-electrica-que-se-adapta-a-tu-carne-de-moto-30161.html",
     analisisSlug: "zero-sr-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {"aceiteTipo": "No lleva aceite de motor ni filtro de aceite: es 100 % eléctrica y su propulsor no pide cambios de lubricante. El fluido que sí se vigila es el líquido de frenos DOT 4 indicado en los manuales Zero; su sustitución corresponde al taller.", "cadenaPasos": ["Con la moto apagada y la llave fuera, revisa la correa de carbono a simple vista y al tacto: busca cortes, dientes marcados, grietas o piedrecillas incrustadas entre la correa y las poleas.", "Límpiala solo en seco, con un cepillo suave o un paño: correa y piñones deben trabajar sin grasa ni aceite, así que jamás la engrases como si fuera una cadena.", "Mide la tensión con la aplicación Gates Carbon Drive, la que recomienda el propio manual de Zero: capta la frecuencia al tañer la correa y la compara con el valor de referencia.", "Si toca ajustar, afloja la tuerca del eje trasero, desplaza ambos lados exactamente lo mismo para conservar la alineación de la rueda, reaprieta y vuelve a medir antes de rodar.", "Si la correa chirría, salta o presenta daños visibles, aparca la moto y pide revisión en un servicio Zero: una correa de carbono dañada no se repara, se sustituye."], "intervaloMantenimiento": "Programa de los manuales de usuario Zero de la plataforma SR: primera revisión a los 1.000 km o al mes; después, controles a los 7.000 km o 6 meses y a los 13.000 km o 12 meses, repitiendo desde ahí el ciclo de 13.000 km o 12 meses. Antes de cada salida, el manual pide comprobar presiones, frenos y el estado de la correa.", "trucos": ["Haz la rutina previa del manual antes de cada salida: nivel de líquido de frenos en ambos depósitos, tacto de maneta y pedal, presiones de neumáticos y alumbrado.", "Anota en el móvil cada medición de tensión de la correa junto a su kilometraje: detectar una deriva lenta es mucho más fácil con historial que de memoria.", "Después de rodar con lluvia, seca correa y poleas con un paño antes de guardar la moto; el agua no la oxida, pero la suciedad adherida sí acelera el desgaste.", "Deja las actualizaciones de Cypher y cualquier aviso de la electrónica para el servicio oficial: el mantenimiento casero de esta moto es mecánico y visual, nunca de alta tensión."]},
   },
   {
     id: "silence-s04-l6e-2025-ficha-tecnica-precio",
@@ -2505,7 +2327,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "S04 L6e 2025",
     cilindradaCc: null,
     categoria: "Cuadriciclo",
-    precioDesde: 9870,
+    precioDesde: 9870, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 8,
     autonomiaKm: 175,
@@ -2518,7 +2340,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "AM",
     carga: "Baterías extraíbles con asa y ruedas; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "175 km de autonomía, líder entre cuadriciclos",
       "Baterías extraíbles tipo trolley",
@@ -2574,7 +2396,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "S04 L7e 2025",
     cilindradaCc: null,
     categoria: "Cuadriciclo",
-    precioDesde: 11680,
+    precioDesde: 11680, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: 149,
@@ -2587,7 +2409,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "B",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "90 km/h, apto para rondas y vías rápidas",
       "149 km de autonomía real urbana",
@@ -2654,25 +2476,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Frenos Brembo y ABS de doble canal",
       "Cámaras delantera y trasera de serie",
       "TFT de 6,8 pulgadas con conectividad total",
-      "Frenos Brembo (discos de 300 y 240 mm), ABS de doble canal y control de tracción TCS de serie: equipamiento de moto grande en una equivalente a 125 (NIU).",
-      "Dos baterías extraíbles de 72 V y 23 kg cada una que se cargan en un enchufe doméstico (4 h una, 7 h las dos): sin punto de recarga ni instalación (NIU).",
     ],
     contras: [
       "100 km de autonomía, justa para más que ciudad",
       "Unidades limitadas en España",
       "Sin carga rápida",
-      "Vuelve a España en unidades limitadas hasta fin de existencias: la disponibilidad por color y concesionario es incierta (NIU).",
-      "Sin medición independiente de autonomía real publicada: de momento hay que fiarse de los 95–105 km declarados por la marca (NIU).",
-      "186 kg con las dos baterías montadas: no es ligera para ser una equivalente a 125 (NIU).",
     ],
     curiosidades: [
       "Sus cámaras graban en bucle y suben el clip a la nube si detectan un impacto.",
       "El par máximo es de 450 Nm desde parado.",
       "NIU la vende en España desde 3.999 euros con 5 años de garantía.",
-      "Entrega 450 Nm de par desde parado, una cifra superior a la de muchas motos de 600 cc de gasolina (NIU).",
-      "Lleva cámaras delantera y trasera de serie, TFT de 6,8' y actualizaciones OTA: se maneja casi como un gadget con ruedas (NIU / movilidadelectrica.com).",
     ],
-    imagen: "/media/niu-rqi-sport-2025-ficha-tecnica-precio.webp",
+    imagen: "/media/motos/niu-rqi-sport-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
         src: "/media/motos/niu-rqi-sport-2025-ficha-tecnica-precio-2.webp",
@@ -2689,9 +2504,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "NIU (web oficial España — precio recomendado con IVA incluido)",
-    fuenteUrl: "https://global.niu.com/es/product/RQi-Sport",
-    analisisSlug: "niu-rqi-sport-2025-analisis-opinion",
+    fuenteNombre: "NIU",
+    fuenteUrl: "https://global.niu.com/es/product/rqi-sport",
+    analisisSlug: "niu-rqi-sport-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
   },
   {
@@ -2715,23 +2530,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Tricilíndrico de 90 CV por 6.495 euros",
-      "0 a 100 km/h en 3,9 segundos",
-      "Quickshifter de serie",
-      "Horquilla invertida KYB regulable",
-      "Control de tracción de dos niveles",
-    ],
-    contras: [
-      "Sin ride-by-wire",
-      "Asiento de 810 mm, alta para tallas bajas",
-      "La versión A2 pierde la mitad de la gracia",
-    ],
-    curiosidades: [
-      "Su tricilíndrico estira hasta las 11.000 rpm con 68 Nm a 8.250.",
-      "Llena el hueco entre la 450NK y la 800NK del catálogo.",
-      "Monta neumáticos semi-slick CST de serie.",
-    ],
+    pros: ["Por 6.495 euros ofrece un tres cilindros con 90 CV, combinación que ni la MT-07 ni la Trident 660 igualan en precio", "Su sprint declarado de 3,9 segundos la planta en tiempos propios de naked con más cilindrada, como la Hornet 750", "El cambio rápido para subir marchas viene ya montado de fábrica, sin pasar por la lista de opciones", "Delante monta barras invertidas firmadas por KYB, con reglajes para dejarlas al gusto de cada piloto", "Para contener pérdidas de tracción trasera dispone de una ayuda electrónica con dos niveles de intervención"],
+    contras: ["El acelerador va por cable mecánico, así que se queda sin gestión ride-by-wire ni modos de conducción", "Quien sea de talla corta lo notará enseguida: el sillín queda colocado a 810 mm del suelo", "En configuración para el carnet A2, esta naked pierde buena parte del encanto que la hace especial"],
+    curiosidades: ["Su bloque de tres cilindros estira el giro hasta las 11.000 rpm y firma 68 Nm cuando el cuentavueltas marca 8.250", "En la gama NK ocupa el escalón intermedio que quedaba libre entre la 450NK pequeña y la 800NK grande", "Sale de fábrica calzada con gomas CST de perfil semi-slick, detalle deportivo raro de ver por este dinero"],
     imagen: "/media/motos/cfmoto-675nk-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -2752,13 +2553,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "Motofichas",
     fuenteUrl: "https://www.motofichas.com/marcas/cfmoto",
     analisisSlug: "cfmoto-675nk-2025-ficha-tecnica-precio",
-    mantenimientoDIY: {
-      cadenaPasos: [
-        "Revisa la tensión de la cadena cada 1.000 km.",
-        "Engrasa la cadena con lubricante de alta adherencia.",
-        "Comprueba el nivel de aceite del tricilíndrico con la moto en vertical.",
-      ],
-    },
+    mantenimientoDIY: {"aceiteTipo": "Sintético SAE 10W-40, API SN o superior, JASO MA2 (especificación del manual oficial)", "cadenaPasos": ["Comprueba holgura y engrase cada 1.000 km, que es el intervalo que marca el manual para tensión y lubricación.", "Si has rodado bajo la lluvia, revisa el engrase nada más volver, sin esperar al siguiente control programado.", "Limpia primero la suciedad acumulada, aplica lubricante específico y deja que penetre antes de volver a rodar.", "Ajusta la tensión si queda fuera de tolerancia y verifica también el desgaste de piñón y corona cada 10.000 km."], "intervaloMantenimiento": "Primera revisión a los 1.000 km y, después, aceite y filtro cada 5.000 km o 6 meses, lo que llegue antes, según el manual oficial de CFMoto; reglaje de válvulas a los 40.000 km.", "trucos": ["Revisa el nivel por la mirilla con la moto bien vertical y el motor ya asentado tras pararlo.", "Al cambiar el filtro, la capacidad indicada en el manual es de 3,3 litros de aceite.", "Anota cada intervención con fecha y kilómetros: los intervalos por tiempo cuentan aunque ruedes poco."]},
   },
   {
     id: "cfmoto-675nk-aspar-2026-ficha-tecnica-precio",
@@ -2893,7 +2688,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "125V 2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: 2688,
+    precioDesde: 2688, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -2906,7 +2701,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Mismo precio y equipo que la 125X",
       "Enfoque urbano con mejor protección aerodinámica",
@@ -3219,23 +3014,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: [
-      "Estética power-cruiser única en el A2",
-      "Bicilíndrico de 47,8 CV, al límite del A2",
-      "Depósito de 21 litros para viajar",
-      "Asiento bajo de 740 mm",
-      "Horquilla invertida y doble disco",
-    ],
-    contras: [
-      "220 kg, pesada para ciudad",
-      "Postura cruiser que no es para todos",
-      "Modelo veterano frente a novedades",
-    ],
-    curiosidades: [
-      "Su diseño bebe directamente de la Ducati Diavel.",
-      "Es de las pocas custom accesibles con carnet A2.",
-      "El motor es el bicilíndrico de 500 cc compartido con la TRK 502.",
-    ],
+    pros: ["Silueta de power-cruiser con depósito abultado, cola recortada y estriberas adelantadas que no se confunde con ninguna naked A2: en parado parece de mayor cilindrada de lo que es", "Bicilíndrico de 499,6 cc con 47,8 CV a 8.500 rpm y 45 Nm a 5.000 rpm: exprime el límite del A2 y entrega el par pronto, sin obligar a estirar cada marcha en carretera", "Depósito de 21 litros, muy por encima de lo habitual en una custom de este precio: permite espaciar las paradas en rutas largas sin ir pendiente del surtidor", "Asiento a 740 mm y parte ciclo con horquilla invertida de 41 mm y doble disco delantero de 260 mm con ABS: se llega bien al suelo y la frenada no es la de una custom barata al uso", "Precio de 5.890 euros en esta versión 2024, por debajo de lo que costaba en su lanzamiento español: la fórmula Diavel en pequeño sale comparativamente barata"],
+    contras: ["220 kg para 47,8 CV: en maniobras en parado, garajes y tráfico denso de ciudad se nota cada kilo, y no es una moto ágil entre coches", "Estriberas adelantadas y postura de cruiser urbana: quien venga de una naked encontrará extraña la posición y perderá apoyo en curvas cerradas y puertos", "Diseño veterano: la base es la presentada en 2018 y llegada a España en 2019, sin una renovación profunda hasta esta 2024, frente a rivales A2 más recientes", "Monoamortiguador trasero con solo 50 mm de recorrido según ficha: en baches y badenes la trasera es seca, y el asiento de pasajero, sobre la cola recortada, es justo para trayectos largos a dúo"],
+    curiosidades: ["La prensa la bautizó directamente como «mini Diavel»: Motofichas señala que su estética está claramente inspirada en la Ducati Diavel, con el depósito musculoso y la zaga mínima como señas más evidentes.", "No estrenó un motor propio: SoyMotero recogió en su llegada a España que comparte el bicilíndrico de la Leoncino 500 y la TRK 502, pero con un mapa de centralita específico para la 502C."],
     imagen: "/media/motos/benelli-502c-2024-ficha-tecnica-precio-1.webp",
     galeria: [
       {
@@ -3263,6 +3044,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
         "Vigila el nivel de aceite del bicilíndrico.",
       ],
     },
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la tabla de mantenimiento periódico del manual de propietario de la Benelli 502C, las revisiones se suceden a los 1.000 km, 7.000 km, 13.000 km, 19.000 km y 25.000 km, es decir, cada 6.000 km tras la primera. En el uso diario, la propia ficha recoge revisar la tensión de la cadena cada 1.000 km, engrasarla con lubricante específico y vigilar el nivel de aceite del bicilíndrico entre revisiones.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual de propietario Benelli 502C, tabla de mantenimiento y ajustes periódicos (consultado en ManualsLib)"},
   },
   // __M9_APPEND__
 ];

@@ -22,7 +22,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 6987,
+    precioDesde: 6787, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -35,7 +35,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: justo en el límite del A2, sin limitar",
       "Entrega de par llena desde abajo: 52,3 Nm a 5.150 rpm, empuja en cualquier marcha",
@@ -90,7 +90,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 7890,
+    precioDesde: 6987, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -103,7 +103,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Café racer auténtica con el twin de 648 cc y 47 CV, apta para el A2",
       "Semimanillares y estriberas retrasadas: postura deportiva de verdad",
@@ -158,7 +158,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 7990,
+    precioDesde: 6887, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -171,7 +171,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "La Classic definitiva: estética de los 50 con el twin de 648 cc y 47 CV",
       "Depósito de 14,8 l: la mayor autonomía de la gama 650",
@@ -226,7 +226,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 452,
     categoria: "Trail",
-    precioDesde: 6590,
+    precioDesde: 5887, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 29.4,
     potenciaCv: 40,
     autonomiaKm: null,
@@ -239,7 +239,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor Sherpa 450 con 40 CV: el primer monocilíndrico moderno de RE, con carácter",
       "Parte ciclo seria: horquilla invertida y 200 mm de recorrido de suspensión",
@@ -294,7 +294,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Cruiser",
-    precioDesde: 7990,
+    precioDesde: 7447, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -307,7 +307,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Cruiser de verdad: asiento a 740 mm, estriberas adelantadas y manillar alto",
       "Twin de 648 cc con 47 CV y par de 52,3 Nm: empuja con suavidad",
@@ -363,7 +363,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 9990,
+    precioDesde: 8590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -376,7 +376,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Motor KTM de 799 cc con 91 CV: empuje y fiabilidad probados",
       "Equipamiento de serie enorme: TFT de 7\", modos, control de crucero y presión de neumáticos",
@@ -431,7 +431,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 10990,
+    precioDesde: 11995, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -444,7 +444,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Quickshifter bidireccional de serie: la Sport no lo lleva",
       "Llantas de radios cruzados: más resistentes para pistas",
@@ -453,7 +453,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Maletas y top case disponibles como accesorio oficial",
     ],
     contras: [
-      "Mil euros más que la Sport por un equipamiento que no todos usan",
+      "3.400 € más que la Sport por un equipamiento que no todos usan",
       "231 kg: sigue siendo pesada fuera del asfalto",
       "Sin suspensión electrónica (reservada a la Explore)",
       "Consumo realista de 5,5-6 l/100 km si se le aprieta",
@@ -499,7 +499,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 449,
     categoria: "Deportiva",
-    precioDesde: 6499,
+    precioDesde: null, // CFMOTO España no ha publicado tarifa oficial (verificado 20/10/2026)
     potenciaKw: 34.5,
     potenciaCv: 46.9,
     autonomiaKm: null,
@@ -512,7 +512,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 449 cc con 46,9 CV: A2 sin limitar y con carácter",
       "Solo 168 kg: la más ligera de su categoría",
@@ -521,6 +521,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Estética de superbike con doble faro LED y colín afilado",
     ],
     contras: [
+      "Sin tarifa oficial publicada en España: CFMOTO no ha hecho público su PVP",
       "Postura radical: incómoda para el día a día",
       "El motor vibra en la zona alta del tacómetro",
       "Protección aerodinámica limitada pese al carenado",
@@ -567,7 +568,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 693,
     categoria: "Naked",
-    precioDesde: 7999,
+    precioDesde: 7195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 55,
     potenciaCv: 74,
     autonomiaKm: null,
@@ -580,7 +581,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Diseño neo-retro de Kiska (los de KTM): de las más bonitas del segmento",
       "Bicilíndrico de 693 cc con 74 CV: empuje lineal y lleno",
@@ -635,7 +636,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Naked",
-    precioDesde: 8499,
+    precioDesde: 7495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 74,
     potenciaCv: 100.6,
     autonomiaKm: null,
@@ -648,7 +649,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "100,6 CV con solo 186 kg: la mejor relación peso/potencia china",
       "Motor KTM de 799 cc con respuesta fulgurante",
@@ -768,7 +769,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 349,
     categoria: "Scooter",
-    precioDesde: 4399,
+    precioDesde: 4587, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 27,
     potenciaCv: 36.7,
     autonomiaKm: null,
@@ -781,7 +782,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El 350 más deportivo de Zontes: estética agresiva y chasis afilado",
       "Motor de 349 cc con 36,7 CV: de los más potentes del segmento",
@@ -832,7 +833,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: 3295,
+    precioDesde: 3287, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 11,
     potenciaCv: 14.8,
     autonomiaKm: null,
@@ -845,7 +846,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Naked 125 con 14,8 CV: roza el límite legal del A1",
       "Equipamiento impropio de su precio: TFT, ABS y arranque sin llave",
@@ -901,7 +902,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 754,
     categoria: "Trail",
-    precioDesde: 8999,
+    precioDesde: 8833, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 55,
     potenciaCv: 75,
     autonomiaKm: null,
@@ -914,7 +915,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail rutera con 75 CV: suficiente para viajar a dúo cargado",
       "Parrilla, defensas y caballete central de serie",
@@ -969,7 +970,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 9495,
+    precioDesde: null, // no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
     potenciaKw: 68,
     potenciaCv: 92,
     autonomiaKm: null,
@@ -982,7 +983,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "92 CV y 77 Nm: la trail china más potente de su precio",
       "Frenos Brembo radiales con doble disco de 320 mm",
@@ -991,6 +992,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Rueda delantera de 19\": más aplomo que la SRT 800 base",
     ],
     contras: [
+      "Sin precio oficial en España: QJMOTOR no comercializa esta versión en nuestro mercado",
       "263 kg en orden de marcha: de las más pesadas del segmento",
       "Centro de gravedad alto con el depósito lleno",
       "Suspensión delantera sin regulación",
@@ -1031,142 +1033,6 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     },
   },
   // ── VOGE (2) ────────────────────────────────────────────────────────────
-  {
-    id: "voge-525dsx-2025-ficha-tecnica-precio",
-    marca: "Voge",
-    modelo: "525DSX",
-    version: "2025",
-    cilindradaCc: 494,
-    categoria: "Trail",
-    precioDesde: 5392,
-    potenciaKw: 35,
-    potenciaCv: 47.6,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 190,
-    plazas: 2,
-    carnet: "A2",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "47,6 CV clavados en el límite del A2, con motor de 494 cc",
-      "Horquilla KYB regulable y llantas de radios con neumáticos Metzeler",
-      "Control de tracción desconectable y 2 modos de conducción",
-      "Cámara frontal HD integrada que graba tus rutas",
-      "Pantalla de 7\" con navegación y conectividad Bluetooth",
-    ],
-    contras: [
-      "190 kg: no es ligera para su potencia",
-      "El asiento es alto (810 mm) para pilotos bajos",
-      "Vibraciones leves a ritmo de autopista",
-      "El parabrisas de serie protege poco a alta velocidad",
-      "Accesorios originales con precios elevados",
-    ],
-    curiosidades: [
-      "DSX significa 'Dual Sport X': trail polivalente",
-      "Voge es la marca premium del gigante Loncin, que fabrica motores para BMW",
-      "La cámara frontal graba en 1080p y sirve como dashcam",
-    ],
-    imagen: "/media/motos/voge-525dsx-2025-ficha-tecnica-precio-hero.webp",
-    galeria: [
-      {
-        src: "/media/motos/voge-525dsx-2025-ficha-tecnica-precio-oficial.webp",
-        alt: "Voge 525DSX 2025, trail A2 en tres cuartos",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Motofichas (ficha técnica)",
-    fuenteUrl: "https://www.motofichas.com/marcas/voge/525dsx",
-    analisisSlug: "voge-525dsx-2025-ficha-tecnica-precio",
-    mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 8.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 sintético JASO MA2",
-      cadenaPasos: [
-        "Limpia la cadena tras cada salida por pistas.",
-        "Engrasa con lubricante adherente específico.",
-        "Comprueba la holgura: unos 30-40 mm en el punto medio.",
-      ],
-      trucos: [
-        "Descarga los vídeos de la cámara frontal por Bluetooth al móvil.",
-        "El ABS trasero se desconecta para pistas desde el menú.",
-      ],
-    },
-  },
-  {
-    id: "voge-900-dsx-2025-ficha-tecnica-precio",
-    marca: "Voge",
-    modelo: "900 DSX",
-    version: "2025",
-    cilindradaCc: 895,
-    categoria: "Trail",
-    precioDesde: 9189,
-    potenciaKw: 70,
-    potenciaCv: 95,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 233,
-    plazas: 2,
-    carnet: "A",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "Motor de 895 cc con 95 CV de origen BMW: empuje de trail grande",
-      "IMU de 6 ejes Bosch: ABS y tracción en curva",
-      "Suspensiones KYB y frenos Brembo: componentes de primer nivel",
-      "Rueda delantera de 21\": apta para off-road de verdad",
-      "Por menos de 9.200 € no hay rival con este equipamiento",
-    ],
-    contras: [
-      "233 kg: hay que tener brazo para el campo",
-      "Asiento alto y estrecho: no es para todos los días en ciudad",
-      "Consumo de 5,5-6 l/100 km en uso alegre",
-      "La electrónica tiene curva de aprendizaje en los menús",
-      "Red de servicio aún en expansión en España",
-    ],
-    curiosidades: [
-      "El motor lo fabrica Loncin, socio industrial de BMW Motorrad",
-      "Es la Voge más potente del catálogo europeo",
-      "En 2025 estrenó IMU de 6 ejes, antes reservada a premium",
-    ],
-    imagen: "/media/motos/voge-900-dsx-2025-ficha-tecnica-precio-hero.webp",
-    galeria: [
-      {
-        src: "/media/motos/voge-900-dsx-2025-ficha-tecnica-precio-oficial.webp",
-        alt: "Voge 900 DSX 2025, maxi trail en tres cuartos",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Motofichas (ficha técnica)",
-    fuenteUrl: "https://www.motofichas.com/marcas/voge/900-dsx",
-    analisisSlug: "voge-900-dsx-2025-ficha-tecnica-precio",
-    mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 sintético JASO MA2",
-      cadenaPasos: [
-        "Con 95 CV y 233 kg, la cadena pide revisiones cada 600 km.",
-        "Usa lubricante de alta calidad para alargar el kit de arrastre.",
-        "Comprueba el desgaste del piñón en cada revisión.",
-      ],
-      trucos: [
-        "Los modos de conducción cambian mucho el carácter: prueba el Off-road.",
-        "Calibra el sensor de presión tras montar neumáticos nuevos.",
-      ],
-    },
-  },
   // ── MACBOR (1) ──────────────────────────────────────────────────────────
   {
     id: "macbor-shifter-125-evo-2026-ficha-tecnica-precio",
@@ -1244,7 +1110,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 500,
     categoria: "Trail",
-    precioDesde: 6799,
+    precioDesde: 7799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -1257,7 +1123,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Trail A2 española con 47 CV y solo 190 kg",
       "Llantas de radios y neumáticos mixtos de serie",
@@ -1308,12 +1174,12 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
   // ── MITT (1) ────────────────────────────────────────────────────────────
   {
     id: "mitt-530-tt-2025-ficha-tecnica-precio",
-    marca: "Mitt",
+    marca: "MITT",
     modelo: "530 TT",
     version: "2025",
     cilindradaCc: 530,
     categoria: "Trail",
-    precioDesde: 6595,
+    precioDesde: 6195, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.6,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -1326,26 +1192,10 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "Trail A2 con estética scrambler muy conseguida",
-      "Motor de 530 cc con 47 CV: lleno y sin necesidad de limitar",
-      "196 kg: contenida para su cilindrada",
-      "Asiento bajo y accesible para todas las tallas",
-      "Precio ajustado frente a las scrambler europeas",
-    ],
-    contras: [
-      "Suspensiones básicas sin regulación",
-      "Instrumentación simple",
-      "Sin electrónica: ni modos ni tracción",
-      "Neumáticos de origen de asfalto, no mixtos",
-      "Marca joven con red de servicio en crecimiento",
-    ],
-    curiosidades: [
-      "Mitt es una marca española impulsada por el grupo Jets Marivent",
-      "TT viene de 'Touring Trail'",
-      "Su diseño scrambler la hace única entre las A2 chinas",
-    ],
+    aprox: [],
+    pros: ["Con 47 CV (34,6 kW), la 530 TT de 2025 se queda justo en el techo del carnet A2: se conduce a plena potencia desde el primer día, sin limitación posterior que desmontar.", "Sus 196 kg se notan a favor al maniobrar en parado y en el tráfico lento, un peso que no intimida en una trail de dos plazas pensada para usar a diario.", "La estética scrambler, con el guardabarros alto que la propia ficha recomienda revisar de apriete, la separa de las trail A2 de corte puramente aventurero con las que comparte carnet.", "El asiento bajo y accesible que recoge la ficha facilita llegar al suelo a pilotos de distintas tallas, algo que en una bicilíndrica de este tamaño no es lo habitual.", "El precio de partida registrado para esta versión de 2025, 6.595 euros —marcado como aproximado en la ficha—, deja margen en el presupuesto para el seguro y el equipamiento del piloto."],
+    contras: ["Las suspensiones son básicas y sin regulación: quien alterne asfalto y pista cargado no podrá adaptar su comportamiento tocando un dial, porque no lo hay.", "La dotación electrónica es inexistente y la instrumentación, sencilla: ni modos de conducción ni control de tracción, así que la dosificación en mojado depende solo de la mano derecha.", "Los neumáticos de origen son de asfalto, no mixtos: pese al apellido TT, salir a pistas con garantías exige cambiarlos antes, como sugiere el propio apartado de trucos de la ficha.", "Mitt es una marca joven y su red de servicio sigue creciendo: fuera de las ciudades grandes conviene comprobar qué taller oficial queda cerca antes de comprarla."],
+    curiosidades: ["Mitt es la marca creada por Jets Marivent, la empresa española que la presentó en el EICMA de Milán como su apuesta para crecer fuera de España.", "Antes de venderse, la 530 TT se desveló todavía como prototipo en el salón Vive la Moto de Madrid, donde fue el centro de atención del stand de la marca."],
     imagen: "/media/motos/mitt-530-tt-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       {

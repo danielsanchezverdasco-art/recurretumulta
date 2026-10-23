@@ -695,7 +695,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 900,
     categoria: "Scrambler",
-    precioDesde: 11645,
+    precioDesde: 11295, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 47.81,
     potenciaCv: 65,
     autonomiaKm: null,
@@ -708,7 +708,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "65 CV con 80 Nm a solo 3.250 rpm: empuje inmediato y carácter",
       "Estética scrambler auténtica: escape alto 2 en 2, guardabarros de aluminio, radios",
@@ -721,7 +721,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "Caja de solo 5 velocidades",
       "Suspensiones básicas: horquilla convencional sin regulación",
       "Un solo disco delantero de 310 mm",
-      "11.645 €: hay scramblers más baratas y potentes",
+      "11.295 €: hay scramblers más baratas y potentes",
     ],
     curiosidades: [
       "Antes se llamaba Street Scrambler: Triumph la rebautizó como Scrambler 900 en 2023",
@@ -1172,7 +1172,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 174,
     categoria: "Scooter",
-    precioDesde: 4650,
+    precioDesde: 4699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 13,
     potenciaCv: 17.4,
     autonomiaKm: null,
@@ -1185,7 +1185,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "El 'urban adventure': scooter con suspensiones de largo recorrido y manillar ancho",
       "Motor iGet de 174 cc con Start & Stop: solo 2,6 l/100 km",
@@ -1195,7 +1195,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     ],
     contras: [
       "17,4 CV: en vías rápidas va justo",
-      "4.650 €: caro frente a scooters 125 generalistas",
+      "4.699 €: caro frente a scooters 125 generalistas",
       "Hueco bajo el asiento de 25 l: justo para un integral",
       "La pantalla LCD es básica",
       "El Start & Stop puede resultar brusco en atascos",

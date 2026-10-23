@@ -7,7 +7,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 export const MOTOS_EXP_M29: MotoComparador[] = [
   {
     id: "swm-superdual-650-2024-ficha-tecnica-precio",
-    marca: "SWM",
+    marca: "SWM Motorcycles",
     modelo: "Superdual 650",
     version: "Superdual 650 X",
     cilindradaCc: 600,

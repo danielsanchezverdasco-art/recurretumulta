@@ -11,12 +11,12 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   // ── BMW MOTORRAD (5) ──────────────────────────────────────────────────
   {
     id: "bmw-m-1000-xr-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "M 1000 XR",
     version: "2025",
     cilindradaCc: 999,
     categoria: "Sport-turismo",
-    precioDesde: 28980,
+    precioDesde: 28980, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 148,
     potenciaCv: 201,
     autonomiaKm: null,
@@ -29,7 +29,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "201 CV (148 kW) a 12.750 rpm: la sport-turismo más potente que ha hecho BMW",
       "223 kg en orden de marcha: ligera para su segmento y potencia",
@@ -66,12 +66,12 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-m-1000-r-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "M 1000 R",
     version: "2025",
     cilindradaCc: 999,
     categoria: "Naked",
-    precioDesde: 26950,
+    precioDesde: 26950, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 154,
     potenciaCv: 210,
     autonomiaKm: null,
@@ -84,7 +84,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "210 CV (154 kW) a 13.750 rpm: la naked más potente de BMW Motorrad",
       "199 kg en orden de marcha: relación peso/potencia de superbike",
@@ -121,12 +121,12 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-g-310-r-2024-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "G 310 R",
     version: "2024",
     cilindradaCc: 313,
     categoria: "Naked",
-    precioDesde: 6050,
+    precioDesde: 6075, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 25,
     potenciaCv: 34,
     autonomiaKm: null,
@@ -139,7 +139,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Apta para el carnet A2: la puerta de entrada a BMW Motorrad",
       "34 CV ideales para aprender sin sustos",
@@ -176,12 +176,12 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-r-18-roctane-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "R 18 Roctane",
     version: "2025",
     cilindradaCc: 1802,
     categoria: "Custom",
-    precioDesde: 28930,
+    precioDesde: 28930, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
@@ -194,7 +194,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Big Boxer de 1802 cc con 158 Nm a solo 3.000 rpm: empuje de tractor",
       "Estética bagger con maletas rígidas y rueda delantera de 21 pulgadas",
@@ -231,12 +231,12 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-k-1600-gt-2025-ficha-tecnica-precio",
-    marca: "BMW",
+    marca: "BMW Motorrad",
     modelo: "K 1600 GT",
     version: "2025",
     cilindradaCc: 1649,
     categoria: "Turismo",
-    precioDesde: 30620,
+    precioDesde: 30650, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 118,
     potenciaCv: 160,
     autonomiaKm: null,
@@ -249,7 +249,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Seis cilindros en línea de 1649 cc: suavidad y sonido únicos",
       "160 CV y 180 Nm para viajar cargado sin despeinarse",
@@ -258,7 +258,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "Velocidad máxima limitada a 200 km/h con total estabilidad",
     ],
     contras: [
-      "Precio desde 30.620 €: el turismo premium se paga",
+      "Precio desde 30.650 €: el turismo premium se paga",
       "343 kg que se notan en maniobras en parado",
       "Solo para carnet A",
       "Mantenimiento de un seis cilindros con coste acorde",
@@ -292,7 +292,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 890,
     categoria: "Naked",
-    precioDesde: 16590,
+    precioDesde: 16590, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -305,7 +305,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Nuevo bicilíndrico en V de 890 cc con 120 CV a 10.750 rpm",
       "176 kg en seco: la Streetfighter más ligera de la historia",
@@ -347,7 +347,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 998,
     categoria: "Deportiva",
-    precioDesde: 44000,
+    precioDesde: 44000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 160.3,
     potenciaCv: 218,
     autonomiaKm: null,
@@ -360,7 +360,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "218 CV (160,3 kW) a 15.750 rpm: la superbike de serie más extrema",
       "Base directa de la Ducati campeona del Mundial de Superbike",
@@ -402,7 +402,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1158,
     categoria: "Trail",
-    precioDesde: 29990,
+    precioDesde: 29990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 125,
     potenciaCv: 170,
     autonomiaKm: null,
@@ -415,7 +415,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "pesoKg"],
+    aprox: ["pesoKg"],
     pros: [
       "Radar con control de crucero adaptativo y detector de ángulo muerto de serie",
       "Maletas laterales de 60 L y equipamiento touring completo de fábrica",
@@ -457,7 +457,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 12990,
+    precioDesde: 12990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 53.69,
     potenciaCv: 73,
     autonomiaKm: null,
@@ -470,7 +470,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Estética flat track con escape Termignoni y portanúmeros laterales",
       "73 CV divertidos en un chasis de solo 176 kg",
@@ -512,7 +512,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Supermotard",
-    precioDesde: 16990,
+    precioDesde: 16990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88.5,
     potenciaCv: 120.4,
     autonomiaKm: null,
@@ -525,7 +525,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde", "velocidadMax"],
+    aprox: ["velocidadMax"],
     pros: [
       "Nuevo bicilíndrico de 890 cc con 120,4 CV: el Hypermotard más potente",
       "180 kg en orden de marcha sin combustible: agilidad extrema",
@@ -568,7 +568,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4000,
+    precioDesde: 4000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 6,
     potenciaCv: 8.2,
     autonomiaKm: 72,
@@ -581,7 +581,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "6 h (0-100 %), <3 h (25-75 %)",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "Dos baterías extraíbles de 1,3 kWh: se cargan en cualquier enchufe",
       "83 km/h de velocidad máxima: vale para rondas y vías rápidas",
@@ -623,7 +623,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2024",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4000,
+    precioDesde: 4000, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 1.7,
     potenciaCv: 2.3,
     autonomiaKm: 48,
@@ -636,7 +636,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "AM",
     carga: "6 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm", "bateriaKwh"],
+    aprox: ["autonomiaKm", "bateriaKwh"],
     pros: [
       "Carnet AM desde los 15 años: la primera moto eléctrica de muchos",
       "Batería extraíble Honda Mobile Power Pack: carga en casa",
@@ -678,7 +678,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4990,
+    precioDesde: 4990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 12.5,
     potenciaCv: 17,
     autonomiaKm: 100,
@@ -691,7 +691,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "0-80 % en 5 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     pros: [
       "218 Nm de par: aceleración brutal, 0-50 km/h en 2,6 segundos",
       "100 km/h de velocidad máxima: el scooter eléctrico más rápido de su clase",
@@ -713,12 +713,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     ],
     imagen: "/media/zeeho-ae8-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
-      {
-        src: "/media/zeeho-ae8-s-2025-ficha-tecnica-precio-oficial.webp",
-        alt: "Zeeho AE8 S 2025 gris acelerando en ciudad al atardecer",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
     videoId: "qLdUtQbgDDY",
     videoCanal: "motorbikemag",
@@ -733,7 +728,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Urbana",
-    precioDesde: 4495,
+    precioDesde: 4495, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 5,
     potenciaCv: 6.8,
     autonomiaKm: 110,
@@ -746,7 +741,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: "~4 h",
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm"],
+    aprox: ["potenciaKw", "potenciaCv", "autonomiaKm"],
     pros: [
       "Estética cafe racer retro con faro redondo LED",
       "100 km/h de velocidad máxima real",
@@ -788,7 +783,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 4799,
+    precioDesde: 4799, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 10,
     potenciaCv: 13.6,
     autonomiaKm: 130,
@@ -801,39 +796,19 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["precioDesde", "potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
-    pros: [
-      "130 km de autonomía declarada: de las mejores de su clase",
-      "105 km/h de velocidad máxima",
-      "10 kW (13,6 CV) de potencia pico",
-      "Doble batería extraíble de 74 V y 27 Ah",
-      "Etiqueta Cero y coste por kilómetro mínimo",
-    ],
-    contras: [
-      "Precio desde 4.799 €",
-      "Peso elevado sin dato oficial publicado",
-      "Marca con menos implantación en el mundo moto",
-      "Tiempo de carga no publicado por la marca",
-      "Estética divisiva: o te encanta o no",
-    ],
-    curiosidades: [
-      "Segway, famosa por sus transportadores personales, compite en el segmento 125 eléctrico",
-      "Sus dos baterías suman unos 4 kWh de capacidad",
-      "El E300SE acelera como un scooter de gasolina de 200 cc",
-    ],
+    aprox: ["potenciaKw", "potenciaCv", "autonomiaKm", "bateriaKwh"],
+    pros: ["Con 130 km declarados aguantas varios días de trayectos urbanos sin enchufar", "Llega hasta 105 km/h, así que las vías rápidas dejan de ser un problema", "Sus 10 kW, equivalentes a 13,6 CV, empujan con una inmediatez que sorprende", "Lleva dos acumuladores extraíbles bajo los pies, con 4 kWh en conjunto para recargar donde quieras", "Circula con distintivo Cero, ideal para moverte libre por zonas de bajas emisiones pagando muy poco en cada desplazamiento"],
+    contras: ["Los 4.799 € de tarifa lo colocan por encima de muchos rivales equivalentes a 125", "Falta un peso oficial confirmado, y eso complica comparar su agilidad sobre el papel", "La red comercial de Segway en España aún es pequeña frente a marcas tradicionales de moto", "Segway no facilita cuánto tarda una carga completa, un dato básico que debería publicar", "Su diseño divide opiniones: hay quien lo ve moderno y quien lo encuentra demasiado sobrio"],
+    curiosidades: ["La firma que popularizó aquellos vehículos autoequilibrados ahora pelea, en esta edición de 2025, en la liga de las 125 eléctricas con carnet A1", "Entre los dos módulos suma 4 kWh, una cifra alta para un scooter de esta categoría", "Aunque se conduce como una 125, su salida desde parado recuerda a motos de gasolina bastante más grandes"],
     imagen: "/media/segway-e300se-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
-      {
-        src: "/media/segway-e300se-2025-ficha-tecnica-precio-oficial.webp",
-        alt: "Segway E300SE 2025 gris en una carretera costera al amanecer",
-        ancho: 1200,
-        alto: 800,
-      },
+      
     ],
     videoId: "2qLUThjkv5U",
     videoCanal: "muevetesinhumos",
     fuenteNombre: "Segway",
     fuenteUrl: "https://www.segway.com/",
     analisisSlug: "segway-e300se-2025-ficha-tecnica-precio",
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es 100 % eléctrica y no hay cambio de aceite. En taller solo toca vigilar líquido de frenos, pastillas y discos.", "cadenaPasos": ["Comprueba la presión de los neumáticos y el desgaste del dibujo antes de salir", "Revisa que ambos frenos respondan con firmeza y sin ruidos extraños al frenar", "Extrae las baterías, limpia los contactos con un paño seco y vuelve a encajarlas hasta oír el clic", "Pasa revista visual a luces, intermitentes, claxon y pantalla, y prueba el acelerador en parado seguro", "Actualiza el firmware desde la app Segway-Ninebot y revisa si muestra algún código de error", "Aprieta lo accesible sin forzar: espejos, manetas y caballete, y lubrica solo los puntos móviles que indique el manual"], "intervaloMantenimiento": "Primera revisión a los 1.000 km o a los 3 meses; después, cada 2.000 km o cada 6 meses, según la guía de mantenimiento del manual oficial EMEA del E300SE.", "trucos": ["Si vas a dejarla parada una temporada, no la guardes con las baterías ni vacías ni al límite: déjalas a media carga y revísalas de vez en cuando", "Carga siempre en un sitio seco y ventilado, lejos de frío o calor extremos, para cuidar los 4 kWh útiles", "Anota fecha y kilómetros de cada revisión en el libro de mantenimiento: te servirá para la garantía y para una futura venta"]},
   },
 ];

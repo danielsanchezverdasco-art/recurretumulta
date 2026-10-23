@@ -180,7 +180,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 773,
     categoria: "Retro",
-    precioDesde: 11099,
+    precioDesde: 11099, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35.3,
     potenciaCv: 48,
     autonomiaKm: null,
@@ -193,7 +193,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Bicilíndrico de 773 cc refrigerado por aire: carácter clásico de verdad",
       "48 CV exactos: apta para el carnet A2 sin limitación",
@@ -456,7 +456,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "RE 2025",
     cilindradaCc: 776,
     categoria: "Trail",
-    precioDesde: 10699,
+    precioDesde: 10699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 61,
     potenciaCv: 83,
     autonomiaKm: null,
@@ -469,7 +469,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "Versión asfáltica de la 800: llanta delantera de 19 pulgadas más ágil en carretera",
       "Bicilíndrico de 776 cc con 83 CV y 78 Nm: suave y con bajos",
@@ -511,7 +511,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1340,
     categoria: "Deportiva",
-    precioDesde: 19990,
+    precioDesde: 22579, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -524,7 +524,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "190 CV y 150 Nm con velocidad autolimitada a 299 km/h: la leyenda sigue viva",
       "Homologación Euro5+ desde 2025 sin perder prestaciones",
@@ -536,7 +536,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
       "264 kg en orden de marcha: una sport-touring de peso pesado",
       "Postura exigente para el día a día y la ciudad",
       "Consumo elevado si se le pide lo que promete",
-      "Precio que roza los 20.000 € en la versión estándar",
+      "22.579 € en España con la campaña vigente de Suzuki",
       "La Special Edition (22.590 €) tienta a quien busque exclusividad",
     ],
     curiosidades: [
@@ -622,7 +622,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 399,
     categoria: "Naked",
-    precioDesde: 6399,
+    precioDesde: 6399, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 33,
     potenciaCv: 45,
     autonomiaKm: null,
@@ -635,26 +635,10 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
-    pros: [
-      "Nuevo monocilíndrico de 399 cc con 45 CV y 39 Nm: más par y menos traqueteo",
-      "Electrónica de moto grande: TFT de 5 pulgadas, launch control y 3 modos",
-      "Chasis multitubular con suspensiones WP y freno Bybre radial",
-      "165 kg y asiento a 820 mm: accesible y divertida",
-      "Garantía oficial KTM de 4 años en la gama Street",
-    ],
-    contras: [
-      "Vibraciones del monocilíndrico inevitables en autovía",
-      "Suspensiones y asiento duros para el día a día",
-      "El motor pide ir alto de vueltas: por debajo de 5.000 rpm protesta",
-      "La Triumph Speed 400 cuesta unos 1.000 € menos",
-      "Manetas sin regulación y espejos sencillos para su precio",
-    ],
-    curiosidades: [
-      "La instrumentación celebra los 30 años de la saga Duke al arrancar",
-      "Su faro toma prestado el diseño de la 1390 Super Duke R",
-      "KTM la ha ofrecido con financiación al 0 % en campañas oficiales",
-    ],
+    aprox: [],
+    pros: ["El monocilíndrico de 399 cc entrega 45 CV y 39 Nm en solo 165 kg: en puertos de montaña y rondas urbanas la 2025 se mueve con una agilidad que una bicilíndrica A2 más pesada no iguala", "Electrónica impropia de una A2 en esta 2025: TFT de 5 pulgadas con modo Track, tres modos de conducción —Street, Rain y Track—, launch control, control de tracción sensible a la inclinación y ABS en curva con modo Supermoto desconectable atrás", "Asiento regulable entre 820 y 800 mm y depósito metálico estrecho en la entrepierna: quien mida menos de 1,70 m llega al suelo sin tener que conformarse con la versión limitada de otra marca", "Freno delantero con disco de 320 mm y pinza radial de cuatro pistones, horquilla invertida WP de 43 mm y conectividad KTM Connect con navegación paso a paso de serie, sin pasar por caja"],
+    contras: ["El Quickshifter+ bidireccional, precisamente lo que más apetece usar con este motor nervioso, es un extra de pago y no viene de serie pese a tratarse de una de las A2 más caras de su clase", "Es un monocilíndrico y se nota: vibra en autovía sostenida y protesta si lo dejas caer de vueltas, así que el cambio de seis marchas trabaja casi tanto como tú", "Asiento firme, posición echada hacia delante y cero protección contra el viento: para ir a dúo o enlazar dos horas de autovía, esta Duke cansa antes que sus rivales turísticas", "No hay control de crucero homologado en este modelo y tampoco una IMU de seis ejes como en sus hermanas mayores; el ABS en curva funciona con sus propios sensores"],
+    curiosidades: ["Con 165 kg en orden de marcha, esta 390 pesa menos que la primera Duke de 1994, que declaraba 168 kg con el depósito lleno pese a rendir en la misma franja de potencia", "El faro y las tapas laterales afiladas copian el lenguaje de la 1390 Super Duke R, la hypernaked de la casa, aunque aquí todo cabe en un carnet A2"],
     imagen: "/media/motos/ktm-390-duke-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       {
@@ -677,7 +661,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     version: "R Evo 2025",
     cilindradaCc: 1350,
     categoria: "Naked",
-    precioDesde: 24699,
+    precioDesde: 24699, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 140,
     potenciaCv: 190,
     autonomiaKm: null,
@@ -690,7 +674,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["precioDesde"],
+    aprox: [],
     pros: [
       "V2 LC8 de 1.350 cc con 190 CV y 145 Nm: la naked más brutal del mercado",
       "Suspensiones semiactivas WP APEX de 3.ª generación en la versión Evo",
