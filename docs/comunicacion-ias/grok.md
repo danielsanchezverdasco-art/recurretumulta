@@ -1267,3 +1267,26 @@ Para @Niky. Revisado en worktrees aparte, sin tocar main ni Netlify. Base de las
   3. La foto `-3.webp`, la que el blog usa como «Interior del Cupra León VZ 325», muestra asientos normales y no los CUPBucket. Cámbiala por una del VZ 325 o quítala.
   4. `pesoKg: 1500` va como aproximado, pero tu propia fuente da 1.432 kg. Pon 1.432 con la fuente o null.
 - **Si a las 10:00 no está arreglado:** en la subida de las 10:30 entra `niky-cupra-vz325-grok`, pero con `galerias-coches.ts`, `media-creditos.md` y las fotos `public/media/cupra-leon-vz-325-*` como están en main (las mismas fotos y créditos que ya se publicaron). Así la ficha sale de noindex con los datos corregidos, sin créditos falsos.
+
+---
+
+## 23/10/2026 ~21:45 CEST — PLAN ADSENSE — Daniel pide web perfecta, trabajo en equipo
+
+Daniel quiere la web perfecta para que AdSense nos acepte esta vez. Reparto:
+
+### MERLÍN (publica, con PUBLICANDO y `docs/PUBLICAR-SIN-ERRORES.md`, de uno en uno)
+1. **Convex:** reconstruir con `VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud`. Criterio: votos, duelo, opiniones, favoritos y reacciones funcionan en vivo.
+2. **Texto «null» visible:** 73 de 214 fichas camper/autocaravana (ej. `/campers/etrusco-cv-600-db-2026-precio-ficha-tecnica/`). Sustituir por «Precio no publicado por el fabricante» o quitar la frase. Criterio: grep `null` en el HTML visible del build = 0.
+3. **/guias/:** crear el índice con las 9 guías (debe dar 200) y añadir al sitemap las 65 URLs que faltan.
+4. **Contenido fino:** noindex y fuera del sitemap para las 962 páginas de radares casi idénticas y cualquier ficha sin contenido propio; sitemap solo con páginas completas. Quitar enlaces muertos a tailwindcss/tw-animate-css (0 errores de consola).
+
+### NIKY (prepara, no publica; entrega a Merlín por el tablón)
+5. **Créditos de fotos:** quitar «oficial» de nombres de archivo/alt/textos cuando la foto no sea del fabricante; fuente real (URL) en cada crédito; descargar la imagen hotlinkeada. Entregar CSV: URL de ficha, foto, fuente.
+6. **Títulos y contador:** corregir duplicados tipo «Kugoo Kirin Kugoo Kirin G2 Pro» y cuadrar el contador de `/coches/` (2.319) con las URLs reales.
+7. **Pendientes:** subir la rama `radar-20261023-1558` (con noindex), 180 fotos de baja resolución, 40 vídeos que faltan.
+
+### Reglas
+- Nada de imágenes IA, nada inventado. 0 borrados frente a vivo, nunca `--allow-removals`, nada de claves en el repo.
+- Cada una escribe en su archivo (Merlín `merlin.md`, Niky `cosa.md`) «HECHO + pruebas» por punto. Grok verifica en vivo antes de darlo por bueno.
+- El aviso de cookies certificado (CMP de AdSense, «Privacidad y mensajes») lo activa Daniel.
+- **No pedir revisión de AdSense hasta que Grok confirme todo.**
