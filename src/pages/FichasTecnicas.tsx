@@ -7,27 +7,37 @@ import { Badge } from "@/components/ui/badge.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
+import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
+// Categorías reales por pestaña (orden Grok 23/10/2026): cada pestaña posee
+// EXACTAMENTE un dataset y los contadores salen de los datos, no de literales.
+// Ver src/lib/fichas-categorias.ts (causa raíz: COCHES_COMPARADOR mezcla
+// campers y autocaravanas entre los coches).
 import {
-  COCHES_COMPARADOR,
-  type CocheComparador,
-} from "@/lib/comparador-coches-data.ts";
+  COCHES_FICHAS,
+  MOTOS_FICHAS,
+  PATINETES_FICHAS,
+  CAMPERS_FICHAS,
+  AUTOCARAVANAS_FICHAS,
+  CARAVANAS_FICHAS,
+  CONTEOS_FICHAS,
+  type TabFichas,
+} from "@/lib/fichas-categorias.ts";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 // Fecha real de publicación de cada ficha (scripts/gen-fichas-fechas.mjs)
 import FICHAS_FECHAS from "@/lib/fichas-fechas.generated.json";
 const FECHAS = FICHAS_FECHAS as Record<string, string>;
 const tsFicha = (id: string) => (FECHAS[id] ? Date.parse(FECHAS[id]) : 0);
-import {
-  MOTOS_PUBLICADAS,
-  type MotoComparador,
-} from "@/lib/comparador-motos-data.ts";
-import {
-  PATINETES_PUBLICADOS,
-  type PatineteComparador,
-} from "@/lib/comparador-patinetes-data.ts";
+import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
+import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
+import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
+import type { Caravana } from "@/lib/comparador-caravanas-data.ts";
 
-// ── Normalización: los tres catálogos a una tarjeta común ────────────────────
+// ── Normalización: cada catálogo a una tarjeta común ─────────────────────────
+// El `kind` se asigna EN EL MAPEO desde el dataset propio de cada pestaña
+// (ver TODAS más abajo): es imposible que una ficha aparezca en una pestaña
+// que no sea la suya.
 type FichaCard = {
-  kind: "coche" | "moto" | "patinete";
+  kind: "coche" | "moto" | "patinete" | "camper" | "autocaravana" | "caravana";
   id: string;
   marca: string;
   modelo: string;
@@ -36,6 +46,7 @@ type FichaCard = {
   foto: string | null;
   fotoAlt: string;
   precio: number | null;
+  precioAprox: boolean;
   badge: string;
   etiquetaDgt: string | null;
   specs: Array<{ v: string; l: string }>;
@@ -48,6 +59,9 @@ const ES_ELECTRICO_COCHE = /eléctrico|enchufable|autonomía extendida/i;
 
 const fmtPrecio = (v: number | null) =>
   v == null ? "Precio no disponible" : v.toLocaleString("es-ES") + " €";
+// Precio de tarjeta: con ≈ cuando el dato es aproximado (orden Grok).
+const fmtPrecioCard = (f: FichaCard) =>
+  f.precioAprox && f.precio != null ? `≈ ${fmtPrecio(f.precio)}` : fmtPrecio(f.precio);
 const fmtNum = (v: number | null, suf: string) =>
   v == null ? "—" : `${String(v).replace(".", ",")} ${suf}`;
 
@@ -62,6 +76,7 @@ function cocheACard(c: CocheComparador): FichaCard {
     foto: c.imagenOficial || c.imagen || null,
     fotoAlt: `${c.marca} ${c.modelo}`,
     precio: c.precioDesde,
+    precioAprox: false,
     badge: c.tipo,
     etiquetaDgt: c.etiquetaDgt,
     specs: [
@@ -95,6 +110,7 @@ function motoACard(m: MotoComparador): FichaCard {
     foto: m.imagen ?? null,
     fotoAlt: `Foto oficial de la ${m.marca} ${m.modelo}`,
     precio: m.precioDesde,
+    precioAprox: false,
     badge: m.categoria,
     etiquetaDgt: m.etiquetaDgt,
     specs: [
@@ -126,6 +142,7 @@ function patineteACard(p: PatineteComparador): FichaCard {
     foto: p.foto || null,
     fotoAlt: `Patinete eléctrico ${p.marca} ${p.modelo}`,
     precio: p.precioEur,
+    precioAprox: false,
     badge: p.certificadoDgt === true ? "Certificado DGT" : "Patinete",
     etiquetaDgt: null,
     specs: [
@@ -147,18 +164,81 @@ function patineteACard(p: PatineteComparador): FichaCard {
   };
 }
 
+// ── RV (campers, autocaravanas, caravanas): tarjeta con specs propias ─────────
+// Datos reales de AUTOCARAVANAS_COMPARADOR / CARAVANAS_COMPARADOR.
+// Specs de tarjeta (orden Grok): precio (≈ si es aprox.), MMA, plazas, carnet.
+type RvKind = "camper" | "autocaravana" | "caravana";
+const RV_RUTA: Record<RvKind, string> = {
+  camper: "campers",
+  autocaravana: "autocaravanas",
+  caravana: "caravanas",
+};
+const RV_NOMBRE: Record<RvKind, string> = {
+  camper: "Camper",
+  autocaravana: "Autocaravana",
+  caravana: "Caravana",
+};
+
+function rvACard(r: Autocaravana | Caravana, kind: RvKind): FichaCard {
+  const fmtM = (v: number | null | undefined) =>
+    v == null ? "—" : `${(v / 1000).toLocaleString("es-ES", { maximumFractionDigits: 2 })} m`;
+  const mma = "mmaKg" in r ? r.mmaKg : null;
+  const carnet = r.carnetNecesario ?? null;
+  const plazasDormir = "plazasDormir" in r ? (r.plazasDormir ?? null) : null;
+  const cargaUtil = "cargaUtilKg" in r ? (r.cargaUtilKg ?? null) : null;
+  return {
+    kind,
+    id: r.id,
+    marca: r.marca,
+    modelo: r.modelo,
+    nombreBusqueda: `${r.marca} ${r.modelo}`,
+    ruta: `/${RV_RUTA[kind]}/${r.id}/`,
+    foto: r.imagenOficial || r.imagen || null,
+    fotoAlt: `${RV_NOMBRE[kind]} ${r.marca} ${r.modelo}`,
+    precio: r.precioDesde,
+    precioAprox: Array.isArray(r.aprox) && r.aprox.includes("precioDesde"),
+    badge: RV_NOMBRE[kind],
+    etiquetaDgt: null,
+    specs: [
+      { v: fmtNum(mma ?? null, "kg"), l: "MMA" },
+      { v: r.plazas != null ? String(r.plazas) : "—", l: "plazas" },
+      { v: carnet ? `Carnet ${carnet}` : "—", l: "carnet" },
+    ],
+    detalles: [
+      { l: "Longitud", v: fmtM(r.largoMm) },
+      { l: "Plazas para dormir", v: plazasDormir != null ? String(plazasDormir) : "—" },
+      { l: "Anchura", v: r.anchoMm != null ? `${r.anchoMm.toLocaleString("es-ES")} mm` : "—" },
+      { l: "Altura", v: r.altoMm != null ? `${r.altoMm.toLocaleString("es-ES")} mm` : "—" },
+      { l: "Peso (tara)", v: fmtNum(r.pesoKg, "kg") },
+      { l: "Carga útil", v: fmtNum(cargaUtil, "kg") },
+    ],
+    autonomiaKm: null,
+    certificadoDgt: null,
+  };
+}
+
 const TODAS: FichaCard[] = [
-  ...COCHES_COMPARADOR.map(cocheACard),
-  ...MOTOS_PUBLICADAS.map(motoACard),
-  ...PATINETES_PUBLICADOS.map(patineteACard),
+  ...COCHES_FICHAS.map(cocheACard),
+  ...MOTOS_FICHAS.map(motoACard),
+  ...PATINETES_FICHAS.map(patineteACard),
+  ...CAMPERS_FICHAS.map((a) => rvACard(a, "camper")),
+  ...AUTOCARAVANAS_FICHAS.map((a) => rvACard(a, "autocaravana")),
+  ...CARAVANAS_FICHAS.map((c) => rvACard(c, "caravana")),
 ];
 
-type Tab = "coche" | "moto" | "patinete";
+type Tab = TabFichas;
 const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "coche", label: "Coches", plural: "coches" },
   { id: "moto", label: "Motos", plural: "motos" },
   { id: "patinete", label: "Patinetes", plural: "patinetes" },
+  { id: "camper", label: "Campers", plural: "campers" },
+  { id: "autocaravana", label: "Autocaravanas", plural: "autocaravanas" },
+  { id: "caravana", label: "Caravanas", plural: "caravanas" },
 ];
+// Solo se muestran las pestañas cuyo dataset real tiene fichas: el contador
+// sale de CONTEOS_FICHAS (calculado de los arrays de datos, nunca literales).
+// La pestaña Caravanas se oculta sola hasta que lleguen los datos de Niky.
+const TABS_VISIBLES = TABS.filter((t) => (CONTEOS_FICHAS[t.id] ?? 0) > 0);
 
 const SELECT_CLASE =
   "w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20";
@@ -215,7 +295,7 @@ function TarjetaFicha({ ficha }: { ficha: FichaCard }) {
               {ficha.modelo}
             </h3>
             <p className="text-base font-extrabold tracking-tight text-[#cd001d] sm:text-lg">
-              {fmtPrecio(ficha.precio)}
+              {fmtPrecioCard(ficha)}
             </p>
             <div className="grid grid-cols-3 rounded-lg bg-gray-100 py-1.5 text-center">
               {ficha.specs.map((s, i) => (
@@ -467,10 +547,10 @@ export default function FichasTecnicasPage() {
       </div>
 
       <main className="mx-auto max-w-6xl px-4 pb-24 pt-6 sm:px-6">
-        {/* ── Pestañas Coches / Motos / Patinetes ── */}
-        <div className="flex gap-2" role="tablist" aria-label="Tipo de vehículo">
-          {TABS.map((t) => {
-            const n = TODAS.filter((f) => f.kind === t.id).length;
+        {/* ── Pestañas por categoría (contadores de los datos reales) ── */}
+        <div className="flex gap-2 overflow-x-auto pb-1" role="tablist" aria-label="Tipo de vehículo">
+          {TABS_VISIBLES.map((t) => {
+            const n = CONTEOS_FICHAS[t.id];
             const activa = tab === t.id;
             return (
               <button
@@ -478,7 +558,7 @@ export default function FichasTecnicasPage() {
                 role="tab"
                 aria-selected={activa}
                 onClick={() => cambiarTab(t.id)}
-                className={`flex-1 rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
+                className={`flex-1 whitespace-nowrap rounded-xl px-2 sm:px-3 py-2.5 text-sm font-extrabold transition cursor-pointer ${
                   activa
                     ? "bg-[#cd001d] text-white shadow-md"
                     : "bg-white text-gray-700 border border-gray-200 hover:border-[#cd001d] hover:text-[#cd001d]"
@@ -500,7 +580,7 @@ export default function FichasTecnicasPage() {
             type="search"
             value={q}
             onChange={(e) => { setQ(e.target.value); setVisibleCount(PAGE_SIZE); }}
-            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : "Xiaomi, Segway"})`}
+            placeholder={`Busca marca o modelo… (ej. ${tab === "coche" ? "BYD, Tucson" : tab === "moto" ? "Silence, NIU" : tab === "patinete" ? "Xiaomi, Segway" : tab === "camper" ? "California, Nugget" : tab === "autocaravana" ? "Adria, Bürstner" : "Knaus, Hobby"})`}
             aria-label="Buscar por marca o modelo"
             className="w-full rounded-xl border border-gray-300 bg-white py-2.5 pl-10 pr-4 text-sm shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20"
           />
