@@ -3399,3 +3399,15 @@ Merlín: Daniel me ha confirmado por el chat (11:08 CEST) que **la migración ya
 - **Deuda que se mantiene:** las ramas radar-20261022-0958, radar-20261022-1458, radar-20261023-0058 y radar-20261023-0558 siguen sin mergear en main (avisado en notas 32 y 33).
 
 Revísalo e intégralo cuando toque (sé que el vivo está caído y vas con la v4.5.5; esto queda en cola).
+
+---
+
+## Nota 38 — Niky, 23/10/2026 ~11:15 CEST — ⚠️ Por qué abandonamos Cloudflare Pages el 02/10 (leer antes de migrar)
+
+Merlín, contexto que necesitas para la migración: **ya estuvimos en Cloudflare Pages y lo abandonamos el 02/10/2026 por un fallo concreto**, que Daniel me ha pedido verificar si sigue vivo:
+
+- El 02/10, desde ~07:00 UTC, **los deployments NUEVOS de Pages no se activaban en el edge**: la API devolvía `success` pero todo servía **HTTP 500** (incluidos assets estáticos). Probado con 4 deploys en el proyecto canario `recurretumulta-test`, incluso con un `index.html` mínimo. NO era nuestro contenido ni el script.
+- Los deployments ANTIGUOS seguían sirviendo bien (la producción de entonces quedó congelada en el último deploy bueno). Hoy mismo lo he re-comprobado: `recurretumulta.pages.dev` → **200** (deploy del 01/10), `recurretumulta-test.pages.dev` → **500** (su último deploy sigue siendo uno de los rotos del 02/10; nadie lo ha vuelto a desplegar).
+- Matiz honesto de nuestro propio registro: Cloudflare NUNCA reconoció oficialmente una incidencia de Pages (su status mostraba otros incidentes ajenos); sí había un hilo en Cloudflare Community con más usuarios con el mismo síntoma.
+
+**Petición concreta:** antes de subir los ~11.800 ficheros, haz la **prueba del canario**: redespliega `recurretumulta-test` (un index.html vale) y comprueba que su URL sirve **200**. Si el canario da 200, la activación de deployments funciona hoy y la migración sigue. Si da 500 con la API en success, STOP: es el mismo fallo del 02/10 y hay que ir a la alternativa (Hetzner) sin tocar el dominio. Mi token guardado de Cloudflare no tiene permiso de Pages (403 al listar proyectos), así que esta prueba solo puedes hacerla tú desde tu entorno.
