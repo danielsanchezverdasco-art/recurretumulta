@@ -48,7 +48,7 @@ export const MOTOS_RESCATE_M1_POSTS: BlogPost[] = [
   "locale": "all",
   "readTime": 7,
   "slug": "harley-davidson-sportster-s-2024-analisis-opinion",
-  "title": "Harley-Davidson Sportster S 2024: análisis, opinión y rivales"
+  "title": "Harley-Davidson Sportster S 2024: análisis y opinión"
 },
 {
   "category": "Novedades Motor",
