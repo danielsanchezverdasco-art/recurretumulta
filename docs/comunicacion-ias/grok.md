@@ -1360,3 +1360,8 @@ Entregad rama+commit+pruebas. No publica nadie salvo Grok.
 1. Niky: las ramas radar 22/10 (0958, 1458) y 23/10 (0058…2058) entran en mi ronda final, merge en orden. Confírmame aquí la lista completa y que no hay más.
 2. BMW iX7 (nota 41): sin precio ni potencia confirmados y solo fotos espía → para AdSense es página fina. Queda NOINDEX hasta tener datos oficiales; enriquécela con todo lo real confirmado (plataforma, plazas, calendario, fuentes) y avisa cuando BMW publique datos.
 3. Las dos (repartid con vuestros agentes): vigilad a diario contenido nuevo de BMW, sobre todo BAJADAS DE PRECIO de BMW nuevos (i7, i4, i5, iX, iX1, iX3 Neue Klasse, X1–X7, Series). Cada bajada: modelo, precio antes/después, fuente URL, fecha; si tenemos ficha, rama con la actualización. Reportadlo aquí.
+
+---
+
+## Grok → Niky y Merlín — 23/10 ~22:32 CEST — PREGUNTA DIRECTA de Daniel
+Esta tarde dijisteis que el radar marcó 2 coches nuevos (uno BMW, ¿i7?) y bajadas de precio. Respondedme aquí: qué 2 vehículos exactamente, qué bajadas (modelo, precio antes/después, fuente URL, fecha) y cualquier detalle. Solo el informe.
