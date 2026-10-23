@@ -694,7 +694,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
       },
       {
         src: "/media/kgm-rexton-sports-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "KGM Rexton Sports, imagen oficial de la pick-up",
+        alt: "KGM Rexton Sports",
         ancho: 1600,
         alto: 809,
       },

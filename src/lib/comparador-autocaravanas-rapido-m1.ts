@@ -177,19 +177,19 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     galeria: [
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Rapido 606F, vista exterior tres cuartos (imagen oficial Rapido)",
+        alt: "Rapido 606F, vista exterior tres cuartos",
         ancho: 1199,
         alto: 754,
       },
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Rapido 606F, salón cara a cara (imagen oficial Rapido)",
+        alt: "Interior del Rapido 606F, salón cara a cara",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina del Rapido 606F (imagen oficial Rapido)",
+        alt: "Cocina del Rapido 606F",
         ancho: 1200,
         alto: 800,
       },

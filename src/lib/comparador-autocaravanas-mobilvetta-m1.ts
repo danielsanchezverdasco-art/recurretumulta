@@ -64,25 +64,25 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Mobilvetta K-Yacht Tekno Line 86, vista trasera (foto oficial)",
+        alt: "Mobilvetta K-Yacht Tekno Line 86, vista trasera",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón comedor del Mobilvetta K-Yacht Tekno Line 86 (foto oficial)",
+        alt: "Salón comedor del Mobilvetta K-Yacht Tekno Line 86",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama basculante del Mobilvetta K-Yacht Tekno Line 86 (foto oficial)",
+        alt: "Cama basculante del Mobilvetta K-Yacht Tekno Line 86",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/mobilvetta-k-yacht-tekno-line-86-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Cocina del Mobilvetta K-Yacht Tekno Line 86 (foto oficial)",
+        alt: "Cocina del Mobilvetta K-Yacht Tekno Line 86",
         ancho: 1200,
         alto: 960,
       },

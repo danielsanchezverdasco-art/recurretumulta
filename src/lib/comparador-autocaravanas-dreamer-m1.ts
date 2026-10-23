@@ -95,31 +95,31 @@ Para quién es: el Dreamer D55 UP es para la pareja que viaja con dos niños o c
     galeria: [
       {
         src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Dreamer D55 UP, vista lateral exterior (foto oficial Dreamer)",
+        alt: "Dreamer D55 UP, vista lateral exterior",
         ancho: 1200,
         alto: 740,
       },
       {
         src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Dreamer D55 UP, trasera con los portones abiertos y la cama transversal (foto oficial Dreamer)",
+        alt: "Dreamer D55 UP, trasera con los portones abiertos y la cama transversal",
         ancho: 1200,
         alto: 740,
       },
       {
         src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón del Dreamer D55 UP con los asientos de cabina girados (foto oficial Dreamer)",
+        alt: "Salón del Dreamer D55 UP con los asientos de cabina girados",
         ancho: 1200,
         alto: 740,
       },
       {
         src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama del techo elevable del Dreamer D55 UP, de 2000x1300 mm (foto oficial Dreamer)",
+        alt: "Cama del techo elevable del Dreamer D55 UP, de 2000x1300 mm",
         ancho: 1200,
         alto: 740,
       },
       {
         src: "/media/dreamer-d55-fun-up-2026-precio-ficha-tecnica-oficial-detalle.webp",
-        alt: "Baño Modul'Space del Dreamer D55 UP con armario pivotante (foto oficial Dreamer)",
+        alt: "Baño Modul'Space del Dreamer D55 UP con armario pivotante",
         ancho: 1200,
         alto: 740,
       },

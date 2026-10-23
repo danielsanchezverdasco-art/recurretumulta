@@ -93,19 +93,19 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
     galeria: [
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera (foto oficial de estudio)",
+        alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera",
         ancho: 960,
         alto: 600,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón y cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        alt: "Salón y cocina del Bürstner Lyseo TD 690 G Harmony Line",
         ancho: 1440,
         alto: 787,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        alt: "Cocina del Bürstner Lyseo TD 690 G Harmony Line",
         ancho: 1440,
         alto: 787,
       },

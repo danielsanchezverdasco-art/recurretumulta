@@ -1442,13 +1442,13 @@ export const COCHES_DENZA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/denza-bao-8-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Denza B8, tres cuartos delantero en estudio (foto oficial de prensa)",
+        alt: "Denza B8, tres cuartos delantero en estudio",
         ancho: 1264,
         alto: 672,
       },
       {
         src: "/media/denza-bao-8-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Denza B8, tres cuartos delantero (foto oficial de prensa)",
+        alt: "Denza B8, tres cuartos delantero",
         ancho: 768,
         alto: 428,
       },

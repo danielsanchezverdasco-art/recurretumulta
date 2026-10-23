@@ -168,17 +168,22 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   // 23/10/2026 (punto 5 plan AdSense): el hero solo se rotula "oficial" si no tiene
   // crédito de otra fuente (p. ej. foto CC BY-SA de Wikimedia Commons).
   const creditoHero = moto.imagen ? creditoDe(moto.imagen) : null;
-  const heroEsPrensa = creditoHero == null || creditoHero.licencia === "prensa";
+  // 23/10/2026 (punto 5 plan AdSense): "oficial" solo con crédito de prensa verificado.
+  const heroEsPrensa = creditoHero?.licencia === "prensa";
   const fotosTop: FotoFicha[] = [
     ...(moto.imagen ? [{ src: moto.imagen, alt: heroEsPrensa ? `Foto oficial de la ${nombre}` : `Foto de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
     ...moto.galeria.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
-  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente.
+  // del fabricante" cuando alguna de sus fotos tiene crédito de prensa verificado.
+  // Sin crédito verificado no se afirma oficialidad: pie neutro (honestidad AdSense).
   const galeriaConCreditoExterno = moto.galeria.some((f) => {
     const c = creditoDe(f.src);
     return c != null && c.licencia !== "prensa";
   });
+  const galeriaPrensaVerificada =
+    !galeriaConCreditoExterno &&
+    moto.galeria.some((f) => creditoDe(f.src)?.licencia === "prensa");
   const datosClave: DatoClave[] = [
     (moto.potenciaCv != null || moto.potenciaKw != null) && { icono: <Zap className="h-5 w-5" />, valor: moto.potenciaCv != null ? `${String(moto.potenciaCv).replace(".", ",")} CV` : `${String(moto.potenciaKw).replace(".", ",")} kW`, label: "Potencia" },
     esMotoElectrica(moto)
@@ -547,7 +552,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              {galeriaConCreditoExterno ? `Fotos de la ${nombre}.` : `Fotos oficiales de ${moto.marca} (prensa del fabricante).`}
+              {galeriaPrensaVerificada ? `Fotos oficiales de ${moto.marca} (prensa del fabricante).` : `Fotos de la ${nombre}.`}
             </p>
                       </NightGallery>
 </section>

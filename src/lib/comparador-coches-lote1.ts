@@ -506,7 +506,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       },
       {
         src: "/media/tank-800-2026-interior.webp",
-        alt: "Tank 800, imagen oficial de la marca",
+        alt: "Tank 800",
         ancho: 1920,
         alto: 1280,
       },
@@ -992,7 +992,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
     galeria: [
       {
         src: "/media/lynk-co-10-em-p-2025-hero.webp",
-        alt: "Lynk & Co 10 EM-P, berlina híbrida enchufable (imagen oficial)",
+        alt: "Lynk & Co 10 EM-P, berlina híbrida enchufable",
         ancho: 1920,
         alto: 1280,
       },
@@ -1004,7 +1004,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       },
       {
         src: "/media/lynk-co-10-em-p-2025-interior.webp",
-        alt: "Lynk & Co 10 EM-P, imagen oficial del modelo",
+        alt: "Lynk & Co 10 EM-P",
         ancho: 1920,
         alto: 1280,
       },
@@ -1299,7 +1299,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     galeria: [
       {
         src: "/media/gac-gs8-2025-hero.webp",
-        alt: "GAC GS8, SUV de 7 plazas (imagen oficial GAC)",
+        alt: "GAC GS8, SUV de 7 plazas",
         ancho: 1920,
         alto: 1280,
       },
@@ -1602,7 +1602,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     galeria: [
       {
         src: "/media/nio-es8-2025-hero.webp",
-        alt: "NIO ES8 2025, nueva generación del SUV eléctrico (imagen oficial)",
+        alt: "NIO ES8 2025, nueva generación del SUV eléctrico",
         ancho: 1920,
         alto: 1280,
       },

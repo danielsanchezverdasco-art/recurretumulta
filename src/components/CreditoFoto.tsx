@@ -8,6 +8,14 @@ export function creditoDe(src?: string | null) {
 export default function CreditoFoto({ src, className = "" }: { src?: string | null; className?: string }) {
   const c = creditoDe(src);
   if (!c) return null;
+  if (c.licencia === "sin verificar") {
+    // 23/10/2026 (punto 5 plan AdSense): pie honesto cuando no se pudo verificar la fuente.
+    return (
+      <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>
+        Foto: fuente no verificada
+      </p>
+    );
+  }
   if (c.licencia === "prensa") {
     return (
       <p className={`mt-1 text-[10px] leading-tight text-gray-400 ${className}`}>

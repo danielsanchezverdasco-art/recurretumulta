@@ -73,13 +73,13 @@ export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
       },
       {
         src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Detalle del estante con iluminación LED del Roller Team Auto-Roller 746 (foto oficial)",
+        alt: "Detalle del estante con iluminación LED del Roller Team Auto-Roller 746",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/roller-team-auto-roller-746-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Comedor y cama de capuchina del Roller Team Auto-Roller 746 (foto oficial)",
+        alt: "Comedor y cama de capuchina del Roller Team Auto-Roller 746",
         ancho: 1200,
         alto: 650,
       },

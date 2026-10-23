@@ -3590,7 +3590,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     galeria: [
       {
         src: "/media/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Range Rover Sport Eléctrico 2026, imagen oficial de JLR",
+        alt: "Range Rover Sport Eléctrico 2026",
         ancho: 500,
         alto: 357
       },

@@ -26,13 +26,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/xiaomi-electric-scooter-5-2.webp",
-        alt: "Detalle de la suspensión delantera del Xiaomi Electric Scooter 5 (foto oficial)",
+        alt: "Detalle de la suspensión delantera del Xiaomi Electric Scooter 5",
         ancho: 1200,
         alto: 675,
       },
       {
         src: "/media/patinetes/xiaomi-electric-scooter-5-3.webp",
-        alt: "Detalle de las ruedas de 10 pulgadas sin cámara del Xiaomi Electric Scooter 5 (foto oficial)",
+        alt: "Detalle de las ruedas de 10 pulgadas sin cámara del Xiaomi Electric Scooter 5",
         ancho: 1200,
         alto: 587,
       },
@@ -114,13 +114,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/xiaomi-electric-scooter-4-pro-2.webp",
-        alt: "Xiaomi Electric Scooter 4 Pro en ciudad con conductor (foto oficial)",
+        alt: "Xiaomi Electric Scooter 4 Pro en ciudad con conductor",
         ancho: 1200,
         alto: 584,
       },
       {
         src: "/media/patinetes/xiaomi-electric-scooter-4-pro-3.webp",
-        alt: "Comparativa de dimensiones del Xiaomi Electric Scooter 4 Pro (foto oficial)",
+        alt: "Comparativa de dimensiones del Xiaomi Electric Scooter 4 Pro",
         ancho: 1200,
         alto: 953,
       },
@@ -165,13 +165,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/segway-ninebot-max-g2-2.webp",
-        alt: "Vista lateral del Segway-Ninebot Max G2 E (foto oficial)",
+        alt: "Vista lateral del Segway-Ninebot Max G2 E",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/segway-ninebot-max-g2-3.webp",
-        alt: "Vista tres cuartos del Segway-Ninebot Max G2 E (foto oficial)",
+        alt: "Vista tres cuartos del Segway-Ninebot Max G2 E",
         ancho: 1200,
         alto: 1200,
       },
@@ -216,7 +216,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/segway-ninebot-f2-plus-2.webp",
-        alt: "Segway-Ninebot F2 Plus E en exterior (foto oficial)",
+        alt: "Segway-Ninebot F2 Plus E en exterior",
         ancho: 1200,
         alto: 801,
       },
@@ -261,13 +261,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/segway-ninebot-f2-2.webp",
-        alt: "Segway-Ninebot F2 E, vista adicional (foto oficial)",
+        alt: "Segway-Ninebot F2 E, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/segway-ninebot-f2-3.webp",
-        alt: "Segway-Ninebot F2 E, detalle (foto oficial)",
+        alt: "Segway-Ninebot F2 E, detalle",
         ancho: 1200,
         alto: 1200,
       },
@@ -312,13 +312,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/cecotec-bongo-serie-a-2.webp",
-        alt: "Cecotec Bongo Serie A, vista adicional (foto oficial)",
+        alt: "Cecotec Bongo Serie A, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/cecotec-bongo-serie-a-3.webp",
-        alt: "Cecotec Bongo Serie A, detalle (foto oficial)",
+        alt: "Cecotec Bongo Serie A, detalle",
         ancho: 1200,
         alto: 675,
       },
@@ -363,13 +363,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/cecotec-bongo-serie-z-power-mountain-2.webp",
-        alt: "Cecotec Bongo Serie Z Power Mountain, vista adicional (foto oficial)",
+        alt: "Cecotec Bongo Serie Z Power Mountain, vista adicional",
         ancho: 1000,
         alto: 1000,
       },
       {
         src: "/media/patinetes/cecotec-bongo-serie-z-power-mountain-3.webp",
-        alt: "Cecotec Bongo Serie Z Power Mountain, detalle (foto oficial)",
+        alt: "Cecotec Bongo Serie Z Power Mountain, detalle",
         ancho: 1000,
         alto: 1000,
       },
@@ -414,13 +414,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/niu-kqi3-pro-2.webp",
-        alt: "Vista adicional del NIU KQi3 Pro negro (foto oficial)",
+        alt: "Vista adicional del NIU KQi3 Pro negro",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/niu-kqi3-pro-3.webp",
-        alt: "NIU KQi3 Pro, detalle (foto oficial)",
+        alt: "NIU KQi3 Pro, detalle",
         ancho: 1200,
         alto: 1200,
       },
@@ -465,13 +465,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/navee-s65-2.webp",
-        alt: "Navee S65, vista adicional (foto oficial)",
+        alt: "Navee S65, vista adicional",
         ancho: 800,
         alto: 800,
       },
       {
         src: "/media/patinetes/navee-s65-3.webp",
-        alt: "Navee S65, detalle (foto oficial)",
+        alt: "Navee S65, detalle",
         ancho: 800,
         alto: 800,
       },
@@ -516,13 +516,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/smartgyro-speedway-c-2.webp",
-        alt: "SmartGyro Speedway C, vista adicional (foto oficial)",
+        alt: "SmartGyro Speedway C, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/smartgyro-speedway-c-3.webp",
-        alt: "SmartGyro Speedway C, detalle (foto oficial)",
+        alt: "SmartGyro Speedway C, detalle",
         ancho: 1200,
         alto: 1200,
       },
@@ -566,13 +566,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/smartgyro-k2-titan-2.webp",
-        alt: "SmartGyro K2 Titan, vista adicional (foto oficial)",
+        alt: "SmartGyro K2 Titan, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/smartgyro-k2-titan-3.webp",
-        alt: "SmartGyro K2 Titan, detalle (foto oficial)",
+        alt: "SmartGyro K2 Titan, detalle",
         ancho: 1200,
         alto: 1200,
       },
@@ -616,13 +616,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/smartgyro-ziro2-2.webp",
-        alt: "SmartGyro Ziro2, vista adicional (foto oficial)",
+        alt: "SmartGyro Ziro2, vista adicional",
         ancho: 1200,
         alto: 1304,
       },
       {
         src: "/media/patinetes/smartgyro-ziro2-3.webp",
-        alt: "SmartGyro Ziro2, detalle (foto oficial)",
+        alt: "SmartGyro Ziro2, detalle",
         ancho: 1200,
         alto: 1158,
       },
@@ -666,13 +666,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/aprilia-esr2-2.webp",
-        alt: "Aprilia eSR2, vista de galería oficial 1 (foto oficial)",
+        alt: "Aprilia eSR2, vista de galería oficial 1",
         ancho: 1110,
         alto: 740,
       },
       {
         src: "/media/patinetes/aprilia-esr2-3.webp",
-        alt: "Aprilia eSR2, vista de galería oficial 2 (foto oficial)",
+        alt: "Aprilia eSR2, vista de galería oficial 2",
         ancho: 1110,
         alto: 740,
       },
@@ -716,13 +716,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/xiaomi-electric-scooter-5-pro-2.webp",
-        alt: "Diagrama del control de tracción TCS del Xiaomi Electric Scooter 5 Pro (foto oficial)",
+        alt: "Diagrama del control de tracción TCS del Xiaomi Electric Scooter 5 Pro",
         ancho: 1200,
         alto: 656,
       },
       {
         src: "/media/patinetes/xiaomi-electric-scooter-5-pro-3.webp",
-        alt: "Detalle del motor trasero del Xiaomi Electric Scooter 5 Pro (foto oficial)",
+        alt: "Detalle del motor trasero del Xiaomi Electric Scooter 5 Pro",
         ancho: 1200,
         alto: 656,
       },
@@ -766,13 +766,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/segway-ninebot-e2-plus-e-ii-2.webp",
-        alt: "Segway-Ninebot E2 Plus E II, vista adicional (foto oficial)",
+        alt: "Segway-Ninebot E2 Plus E II, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/segway-ninebot-e2-plus-e-ii-3.webp",
-        alt: "Vista lateral del Segway-Ninebot E2 Plus E II (foto oficial)",
+        alt: "Vista lateral del Segway-Ninebot E2 Plus E II",
         ancho: 1200,
         alto: 1012,
       },
@@ -816,7 +816,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/dualtron-mini-special-dual-motor-2.webp",
-        alt: "Dualtron Mini Special Dual Motor (foto oficial)",
+        alt: "Dualtron Mini Special Dual Motor",
         ancho: 1100,
         alto: 1422,
       },
@@ -860,13 +860,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/kaabo-mantis-8-plus-2.webp",
-        alt: "Kaabo Mantis 8 Plus, vista adicional (foto oficial)",
+        alt: "Kaabo Mantis 8 Plus, vista adicional",
         ancho: 452,
         alto: 584,
       },
       {
         src: "/media/patinetes/kaabo-mantis-8-plus-3.webp",
-        alt: "Kaabo Mantis 8 Plus, detalle (foto oficial)",
+        alt: "Kaabo Mantis 8 Plus, detalle",
         ancho: 452,
         alto: 584,
       },
@@ -910,13 +910,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/cecotec-bongo-serie-z-city-2.webp",
-        alt: "Cecotec Bongo Serie Z City, vista adicional (foto oficial)",
+        alt: "Cecotec Bongo Serie Z City, vista adicional",
         ancho: 1000,
         alto: 1000,
       },
       {
         src: "/media/patinetes/cecotec-bongo-serie-z-city-3.webp",
-        alt: "Cecotec Bongo Serie Z City, detalle (foto oficial)",
+        alt: "Cecotec Bongo Serie Z City, detalle",
         ancho: 1000,
         alto: 1000,
       },
@@ -960,13 +960,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/cecotec-bongo-serie-a-connected-2.webp",
-        alt: "Cecotec Bongo Serie A Connected, vista adicional (foto oficial)",
+        alt: "Cecotec Bongo Serie A Connected, vista adicional",
         ancho: 1200,
         alto: 675,
       },
       {
         src: "/media/patinetes/cecotec-bongo-serie-a-connected-3.webp",
-        alt: "Cecotec Bongo Serie A Connected, detalle (foto oficial)",
+        alt: "Cecotec Bongo Serie A Connected, detalle",
         ancho: 1200,
         alto: 675,
       },
@@ -1010,13 +1010,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/niu-kqi2-pro-2.webp",
-        alt: "Imagen promocional del NIU KQi2 Pro (foto oficial)",
+        alt: "Imagen promocional del NIU KQi2 Pro",
         ancho: 768,
         alto: 1200,
       },
       {
         src: "/media/patinetes/niu-kqi2-pro-3.webp",
-        alt: "Detalle de diseño del NIU KQi2 Pro (foto oficial)",
+        alt: "Detalle de diseño del NIU KQi2 Pro",
         ancho: 800,
         alto: 800,
       },
@@ -1060,13 +1060,13 @@ export const PATINETES_BASE: PatineteComparador[] = [
     galeria: [
       {
         src: "/media/patinetes/navee-s60-2.webp",
-        alt: "Navee S60, vista adicional (foto oficial)",
+        alt: "Navee S60, vista adicional",
         ancho: 1200,
         alto: 1200,
       },
       {
         src: "/media/patinetes/navee-s60-3.webp",
-        alt: "Navee S60, detalle (foto oficial)",
+        alt: "Navee S60, detalle",
         ancho: 1200,
         alto: 1200,
       },

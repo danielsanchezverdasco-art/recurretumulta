@@ -89,19 +89,19 @@ export const COCHES_CHERY: CocheComparador[] = [
     galeria: [
       {
         src: "/media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Chery Tiggo 4 CSH, tres cuartos delantero (foto oficial de prensa)",
+        alt: "Chery Tiggo 4 CSH, tres cuartos delantero",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Chery Tiggo 4 CSH, vista lateral (foto oficial de prensa)",
+        alt: "Chery Tiggo 4 CSH, vista lateral",
         ancho: 1600,
         alto: 1067,
       },
       {
         src: "/media/chery-tiggo-4-csh-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Chery Tiggo 4 CSH con doble pantalla de 12,3 pulgadas (foto oficial Chery)",
+        alt: "Interior del Chery Tiggo 4 CSH con doble pantalla de 12,3 pulgadas",
         ancho: 1430,
         alto: 806,
       },
@@ -837,7 +837,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     galeria: [
       {
         src: "/media/chery-arrizo-5-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Chery Arrizo 5 2025 circulando en carretera — imagen oficial de Chery (vía Almuraba)",
+        alt: "Chery Arrizo 5 2025 circulando en carretera)",
         ancho: 1000,
         alto: 466,
       },
@@ -1041,7 +1041,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     galeria: [
       {
         src: "/media/chery-arrizo-8-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Chery Arrizo 8, tres cuartos delantero — imagen oficial de Chery (vía CarExpert)",
+        alt: "Chery Arrizo 8, tres cuartos delantero)",
         ancho: 960,
         alto: 640,
       },
@@ -1901,7 +1901,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       },
       {
         "src": "/media/icaur-v27-erev-2027-precio-ficha-tecnica-ficha-3.webp",
-        "alt": "iCAUR V27 en azul, vista delantera (foto oficial)",
+        "alt": "iCAUR V27 en azul, vista delantera",
         "ancho": 1200,
         "alto": 800
       },

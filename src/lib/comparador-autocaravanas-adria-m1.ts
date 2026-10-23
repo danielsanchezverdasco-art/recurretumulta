@@ -89,7 +89,7 @@ Para quién es: la Twin Supreme 640 SGX es para parejas que quieren una camper p
       },
       {
         src: "/media/adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Adria Twin Supreme 640 SGX 2026, vista delantera (imagen oficial)",
+        alt: "Adria Twin Supreme 640 SGX 2026, vista delantera",
         ancho: 1200,
         alto: 800,
       },

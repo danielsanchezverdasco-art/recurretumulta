@@ -39383,7 +39383,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp",
-    "heroAlt": "Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen",
+    "heroAlt": "Volkswagen Mission Efficiency, vista frontal",
     "keywords": [
       "Volkswagen Mission Efficiency",
       "Mission Efficiency récord autonomía",
@@ -39401,7 +39401,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/ducati-desmo450-eds-2026-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Ducati Desmo450 EDS 2026, vista lateral en foto oficial de Ducati",
+    "heroAlt": "Ducati Desmo450 EDS 2026, vista lateral",
     "keywords": [
       "Ducati Desmo450 EDS",
       "Ducati Desmo450 EDS precio",
@@ -39419,7 +39419,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-12",
     "locale": "all",
     "heroSrc": "/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial.webp",
-    "heroAlt": "Ducati Desmo450 SM 2026 en circuito, foto oficial de Ducati",
+    "heroAlt": "Ducati Desmo450 SM 2026 en circuito",
     "keywords": [
       "Ducati Desmo450 SM",
       "Ducati Desmo450 SM precio",

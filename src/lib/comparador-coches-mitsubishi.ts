@@ -666,13 +666,13 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi Colt rojo en marcha, vista frontal (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi Colt rojo en marcha, vista frontal",
         "ancho": 1049,
         "alto": 641
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi Colt con pantalla vertical de 9,3 pulgadas (foto oficial de prensa)",
+        "alt": "Interior del Mitsubishi Colt con pantalla vertical de 9,3 pulgadas",
         "ancho": 1024,
         "alto": 614
       }
@@ -832,19 +832,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi ASX rojo, vista trasera en estudio (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi ASX rojo, vista trasera en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi ASX con pantalla vertical de 10,4 pulgadas (foto oficial de prensa)",
+        "alt": "Interior del Mitsubishi ASX con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
       }

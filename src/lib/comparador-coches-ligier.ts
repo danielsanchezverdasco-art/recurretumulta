@@ -330,7 +330,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     galeria: [
       {
         src: "/media/ligier-myli-lab-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Ligier Myli LAB 2026 eléctrico, vista delantera (foto oficial)",
+        alt: "Ligier Myli LAB 2026 eléctrico, vista delantera",
         ancho: 1600,
         alto: 660,
       },

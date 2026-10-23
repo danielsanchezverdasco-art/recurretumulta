@@ -97,7 +97,7 @@ Para quién es: la Hobby Optima OnTour Edition F V65 GE es para la pareja que qu
     galeria: [
       {
         src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hobby Optima OnTour Edition F V65 GE, vista lateral (foto oficial de prensa Hobby)",
+        alt: "Hobby Optima OnTour Edition F V65 GE, vista lateral",
         ancho: 1200,
         alto: 675,
       },
@@ -109,13 +109,13 @@ Para quién es: la Hobby Optima OnTour Edition F V65 GE es para la pareja que qu
       },
       {
         src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Camas del Hobby Optima Ontour Edition F V65 GE (foto oficial)",
+        alt: "Camas del Hobby Optima Ontour Edition F V65 GE",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/hobby-optima-ontour-edition-f-v65-ge-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Baño del Hobby Optima Ontour Edition F V65 GE (foto oficial)",
+        alt: "Baño del Hobby Optima Ontour Edition F V65 GE",
         ancho: 619,
         alto: 1200,
       },

@@ -80,13 +80,13 @@ export const COCHES_JETOUR: CocheComparador[] = [
     galeria: [
       {
         src: "/media/jetour-x50-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Jetour X50, tres cuartos delantero en calle (foto oficial Jetour Bahrein)",
+        alt: "Jetour X50, tres cuartos delantero en calle",
         ancho: 1522,
         alto: 800,
       },
       {
         src: "/media/jetour-x50-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Jetour X50, trasera tres cuartos (foto oficial Jetour Bahrein)",
+        alt: "Jetour X50, trasera tres cuartos",
         ancho: 1522,
         alto: 800,
       },

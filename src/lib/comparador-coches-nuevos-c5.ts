@@ -609,7 +609,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-clase-a-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Mercedes-Benz Clase A 2025 gris, vista delantera tres cuartos, foto oficial",
+        alt: "Mercedes-Benz Clase A 2025 gris, vista delantera tres cuartos",
         ancho: 947,
         alto: 482,
       },
@@ -687,7 +687,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-glb-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nuevo Mercedes-Benz GLB (X248) rojo, vista delantera tres cuartos, foto oficial de prensa",
+        alt: "Nuevo Mercedes-Benz GLB (X248) rojo, vista delantera tres cuartos",
         ancho: 1534,
         alto: 682,
       },
@@ -765,7 +765,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-clase-e-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Mercedes-Benz Clase E 2025 (W214) azul oscuro en marcha, vista delantera tres cuartos, foto oficial de prensa",
+        alt: "Mercedes-Benz Clase E 2025 (W214) azul oscuro en marcha, vista delantera tres cuartos",
         ancho: 1300,
         alto: 860,
       },
@@ -926,7 +926,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       },
       {
         src: "/media/moke-electrico-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MOKE eléctrico azul, perfil lateral, imagen oficial",
+        alt: "MOKE eléctrico azul, perfil lateral",
         ancho: 1920,
         alto: 960,
       },
@@ -992,13 +992,13 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/range-rover-electric-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Range Rover Electric verde Belgravia, vista frontal tres cuartos, foto oficial JLR",
+        alt: "Range Rover Electric verde Belgravia, vista frontal tres cuartos",
         ancho: 1920,
         alto: 910,
       },
       {
         src: "/media/range-rover-electric-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Range Rover Electric, vista trasera tres cuartos, foto oficial JLR",
+        alt: "Range Rover Electric, vista trasera tres cuartos",
         ancho: 1920,
         alto: 1006,
       },
@@ -1070,7 +1070,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       },
       {
         src: "/media/porsche-cayenne-electric-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Cayenne Electric derrapando en el desierto, foto oficial Porsche",
+        alt: "Porsche Cayenne Electric derrapando en el desierto",
         ancho: 1600,
         alto: 900,
       },

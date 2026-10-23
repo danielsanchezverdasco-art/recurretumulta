@@ -96,7 +96,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     galeria: [
       {
         src: "/media/honda-eny1-2025-precio-ficha-tecnica-1.webp",
-        alt: "Honda e:Ny1 2025, SUV eléctrico en marcha (imagen oficial Honda)",
+        alt: "Honda e:Ny1 2025, SUV eléctrico en marcha",
         ancho: 1600,
         alto: 900,
       },

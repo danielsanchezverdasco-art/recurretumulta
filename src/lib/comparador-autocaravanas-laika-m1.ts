@@ -100,13 +100,13 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Laika Ecovip Performance 600, vista tres cuartos delantera (imagen oficial de prensa de Laika, colección 2026)",
+        alt: "Laika Ecovip Performance 600, vista tres cuartos delantera",
         ancho: 1200,
         alto: 675,
       },
       {
         src: "/media/laika-ecovip-600-2026-precio-ficha-tecnica-oficial-corte.webp",
-        alt: "Laika Ecovip 600: vista oficial en corte 3D con la distribución interior (imagen oficial de Laika)",
+        alt: "Laika Ecovip 600: vista oficial en corte 3D con la distribución interior",
         ancho: 1200,
         alto: 615,
       },

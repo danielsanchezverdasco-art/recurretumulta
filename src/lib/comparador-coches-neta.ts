@@ -608,7 +608,7 @@ export const COCHES_NETA: CocheComparador[] = [
     galeria: [
       {
         src: "/media/neta-l-erev-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Neta L EREV, tres cuartos delantero — foto oficial de Neta (PR Newswire)",
+        alt: "Neta L EREV, tres cuartos delantero)",
         ancho: 1920,
         alto: 1208,
       },

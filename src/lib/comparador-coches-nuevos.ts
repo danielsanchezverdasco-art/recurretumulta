@@ -2188,25 +2188,25 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     galeria: [
       {
         src: "/media/bmw-ix4-electrico-2026-galeria-2.webp",
-        alt: "BMW iX4 eléctrico rojo, vista tres cuartos trasera (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico rojo, vista tres cuartos trasera",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-hero.webp",
-        alt: "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico gris circulando, vista tres cuartos delantera",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-interior.webp",
-        alt: "Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision (foto oficial BMW)",
+        alt: "Interior del BMW iX4 con pantalla central de 17,9 pulgadas y Panoramic Vision",
         ancho: 1280,
         alto: 853,
       },
       {
         src: "/media/bmw-ix4-electrico-2026-galeria-3.webp",
-        alt: "BMW iX4 eléctrico gris de perfil, silueta coupé (foto oficial BMW)",
+        alt: "BMW iX4 eléctrico gris de perfil, silueta coupé",
         ancho: 1280,
         alto: 853,
       },
@@ -2372,13 +2372,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     galeria: [
       {
         src: "/media/tesla-roadster-2028-waco-oficial.webp",
-        alt: "Tesla Roadster 2028 en blanco Ano White visto desde arriba, presentación de Waco (foto oficial de Tesla)",
+        alt: "Tesla Roadster 2028 en blanco Ano White visto desde arriba, presentación de Waco",
         ancho: 1200,
         alto: 675,
       },
       {
         src: "/media/tesla-roadster-2028-waco-perfil.webp",
-        alt: "Tesla Roadster 2028 de perfil en modo de calle (foto oficial de Tesla)",
+        alt: "Tesla Roadster 2028 de perfil en modo de calle",
         ancho: 1200,
         alto: 675,
       },

@@ -95,13 +95,13 @@ export const COCHES_MASERATI: CocheComparador[] = [
     galeria: [
       {
         src: "/media/maserati-grecale-2027-precio-ficha-tecnica-hero.webp",
-        alt: "Maserati Grecale 2027, tres cuartos delantero (foto oficial Maserati)",
+        alt: "Maserati Grecale 2027, tres cuartos delantero",
         ancho: 1244,
         alto: 700,
       },
       {
         src: "/media/maserati-grecale-2027-precio-ficha-tecnica-oficial.webp",
-        alt: "Maserati Grecale 2027, trasera tres cuartos (foto oficial de prensa)",
+        alt: "Maserati Grecale 2027, trasera tres cuartos",
         ancho: 600,
         alto: 399,
       },

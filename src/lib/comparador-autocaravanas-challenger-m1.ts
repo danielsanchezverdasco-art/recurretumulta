@@ -83,25 +83,25 @@ Para quién es: la V114 Start Edition es para quien quiere estrenar camper nueva
     galeria: [
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Challenger V114, vista exterior tres cuartos (foto oficial del fabricante)",
+        alt: "Challenger V114, vista exterior tres cuartos",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Challenger V114, vista general hacia la cama trasera (foto oficial)",
+        alt: "Interior del Challenger V114, vista general hacia la cama trasera",
         ancho: 1200,
         alto: 667,
       },
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón del Challenger V114 con banqueta y cama trasera (foto oficial)",
+        alt: "Salón del Challenger V114 con banqueta y cama trasera",
         ancho: 1200,
         alto: 667,
       },
       {
         src: "/media/challenger-v114-start-edition-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Cocina del Challenger V114 (foto oficial)",
+        alt: "Cocina del Challenger V114",
         ancho: 1200,
         alto: 667,
       },

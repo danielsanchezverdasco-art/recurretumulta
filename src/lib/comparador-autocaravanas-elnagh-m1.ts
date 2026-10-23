@@ -94,7 +94,7 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
     galeria: [
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Elnagh Baron 65, lateral exterior con el grafismo de la gama (foto oficial Elnagh)",
+        alt: "Elnagh Baron 65, lateral exterior con el grafismo de la gama",
         ancho: 1200,
         alto: 800,
       },
@@ -106,13 +106,13 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
       },
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón del Elnagh Baron 565 (foto oficial)",
+        alt: "Salón del Elnagh Baron 565",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Interior del Elnagh Baron 565, cocina (foto oficial)",
+        alt: "Interior del Elnagh Baron 565, cocina",
         ancho: 800,
         alto: 1200,
       },

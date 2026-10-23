@@ -919,7 +919,7 @@ export default function ComparadorPatinetesPage() {
             </h2>
             <p className="mt-1 text-sm text-gray-600">
               Si el modelo que buscas no está en la base, nuestra IA lo investiga en la web y
-              genera su ficha al momento, marcada como generada por IA.
+              genera su ficha al momento, marcada como pendiente de revisión.
             </p>
             {sinResultados && (
               <p className="mt-2 rounded-xl border border-amber-200 bg-amber-50 p-3 text-sm text-amber-900">
@@ -979,7 +979,7 @@ export default function ComparadorPatinetesPage() {
                   <div className="flex flex-wrap items-center gap-2">
                     <span className="inline-flex items-center gap-1 rounded-full bg-violet-100 px-2.5 py-1 text-xs font-bold text-violet-700">
                       <Sparkles className="h-3.5 w-3.5" aria-hidden="true" />
-                      {resultadoIA.esIA ? "Ficha generada por IA" : "Modelo de la base"}
+                      {resultadoIA.esIA ? "Pendiente de revisión" : "Modelo de la base"}
                     </span>
                     {resultadoIA.confianza && (
                       <span

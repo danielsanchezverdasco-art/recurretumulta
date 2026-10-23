@@ -490,13 +490,13 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/li-auto-i9-home-2026-oficial-v2-oficial.webp",
-        "alt": "Li Auto i9 Home en color champán, foto oficial de la presentación (16/09/2026)",
+        "alt": "Li Auto i9 Home en color champán)",
         "ancho": 1920,
         "alto": 1280
       },
       {
         "src": "/media/li-auto-i9-home-2026-oficial-v2-hero.webp",
-        "alt": "Li Auto i9 Home aparcado en la calle, foto oficial de Li Auto",
+        "alt": "Li Auto i9 Home aparcado en la calle",
         "ancho": 1920,
         "alto": 1280
       },

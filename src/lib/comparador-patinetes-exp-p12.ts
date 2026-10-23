@@ -1788,7 +1788,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/yadea-ks3-lite.webp",
     galeria: [
-      { alt: "Yadea KS3 Lite en vista lateral, imagen oficial del distribuidor", alto: 600, ancho: 800, src: "/media/patinetes/yadea-ks3-lite-2.webp" },
+      { alt: "Yadea KS3 Lite en vista lateral", alto: 600, ancho: 800, src: "/media/patinetes/yadea-ks3-lite-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2283,7 +2283,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/nami-burn-e-2-max.webp",
     galeria: [
-      { alt: "Nami Burn-E 2 Max en vista tres cuartos, imagen oficial", alto: 1078, ancho: 1078, src: "/media/patinetes/nami-burn-e-2-max-2.webp" },
+      { alt: "Nami Burn-E 2 Max en vista tres cuartos", alto: 1078, ancho: 1078, src: "/media/patinetes/nami-burn-e-2-max-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2328,7 +2328,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/nami-stellar-2024.webp",
     galeria: [
-      { alt: "Nami Stellar en vista lateral, imagen oficial", alto: 1200, ancho: 863, src: "/media/patinetes/nami-stellar-2024-2.webp" },
+      { alt: "Nami Stellar en vista lateral", alto: 1200, ancho: 863, src: "/media/patinetes/nami-stellar-2024-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2373,7 +2373,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/teverun-fighter-mini-pro.webp",
     galeria: [
-      { alt: "Teverun Fighter Mini Pro en vista lateral, imagen oficial", alto: 1080, ancho: 1080, src: "/media/patinetes/teverun-fighter-mini-pro-2.webp" },
+      { alt: "Teverun Fighter Mini Pro en vista lateral", alto: 1080, ancho: 1080, src: "/media/patinetes/teverun-fighter-mini-pro-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2418,7 +2418,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/teverun-fighter-supreme-7260r.webp",
     galeria: [
-      { alt: "Teverun Fighter Supreme 7260R en vista tres cuartos, imagen oficial", alto: 800, ancho: 800, src: "/media/patinetes/teverun-fighter-supreme-7260r-2.webp" },
+      { alt: "Teverun Fighter Supreme 7260R en vista tres cuartos", alto: 800, ancho: 800, src: "/media/patinetes/teverun-fighter-supreme-7260r-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2463,7 +2463,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/velocifero-mad-2000w.webp",
     galeria: [
-      { alt: "Velocifero MAD 2000W con sillín, vista tres cuartos, imagen oficial", alto: 800, ancho: 1200, src: "/media/patinetes/velocifero-mad-2000w-2.webp" },
+      { alt: "Velocifero MAD 2000W con sillín, vista tres cuartos", alto: 800, ancho: 1200, src: "/media/patinetes/velocifero-mad-2000w-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2508,7 +2508,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/zero-10x.webp",
     galeria: [
-      { alt: "Zero 10X en vista cenital, imagen oficial", alto: 801, ancho: 1200, src: "/media/patinetes/zero-10x-2.webp" },
+      { alt: "Zero 10X en vista cenital", alto: 801, ancho: 1200, src: "/media/patinetes/zero-10x-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2553,7 +2553,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/zero-8x.webp",
     galeria: [
-      { alt: "Zero 8X en vista lateral, imagen oficial", alto: 667, ancho: 1000, src: "/media/patinetes/zero-8x-2.webp" },
+      { alt: "Zero 8X en vista lateral", alto: 667, ancho: 1000, src: "/media/patinetes/zero-8x-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [

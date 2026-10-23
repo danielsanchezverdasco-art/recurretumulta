@@ -2616,13 +2616,13 @@ export const COCHES_LOTE17: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mazda-6e-2027-1.webp",
-        alt: "Mazda 6e 2027, tres cuartos delantero en gris plata (foto oficial)",
+        alt: "Mazda 6e 2027, tres cuartos delantero en gris plata",
         ancho: 1280,
         alto: 720,
       },
       {
         src: "/media/mazda-6e-2027-2.webp",
-        alt: "Mazda 6e 2027, tres cuartos trasero con pilotos LED (foto oficial)",
+        alt: "Mazda 6e 2027, tres cuartos trasero con pilotos LED",
         ancho: 1280,
         alto: 720,
       },
@@ -2722,7 +2722,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     galeria: [
       {
         src: "/media/genesis-electrified-g80-2026-2.webp",
-        alt: "Genesis Electrified G80 plateado, vista lateral en marcha (foto oficial)",
+        alt: "Genesis Electrified G80 plateado, vista lateral en marcha",
         ancho: 1280,
         alto: 720,
       },
@@ -2826,7 +2826,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     galeria: [
       {
         src: "/media/genesis-gv60-magma-2026-2.webp",
-        alt: "Genesis GV60 Magma, frontal deportivo con tomas de aire (foto oficial)",
+        alt: "Genesis GV60 Magma, frontal deportivo con tomas de aire",
         ancho: 1280,
         alto: 630,
       },

@@ -440,7 +440,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
     galeria: [
       {
         src: "/media/hongqi-hs3-2023-precio-ficha-tecnica-hero.webp",
-        alt: "Hongqi HS3 2023, vista delantera en carretera (foto oficial Hongqi)",
+        alt: "Hongqi HS3 2023, vista delantera en carretera",
         ancho: 851,
         alto: 686,
       },
@@ -452,7 +452,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       },
       {
         src: "/media/hongqi-hs3-2023-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Hongqi HS3 2023, salpicadero y pantalla central (foto oficial)",
+        alt: "Interior del Hongqi HS3 2023, salpicadero y pantalla central",
         ancho: 975,
         alto: 654,
       },

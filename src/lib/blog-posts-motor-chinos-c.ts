@@ -243,7 +243,7 @@ El S07 MY26 se vende en acabado único **Max desde 45.990 €** (antes de ayudas
 
 La red comercial ya suma **71 puntos de venta en España**, con objetivo de 80 a finales de 2026, y Changan planea 8 modelos en 3 años entre sus tres marcas: Changan, Deepal y Avatr (esta última, premium y desarrollada con Huawei y CATL).
 
-<img src=/media/deepal-s07-precio-espana-ficha-tecnica-oficial.webp alt=Deepal S07, SUV eléctrico, foto oficial>
+<img src=/media/deepal-s07-precio-espana-ficha-tecnica-oficial.webp alt=Deepal S07, SUV eléctrico>
 
 <img src=/media/deepal-s07-precio-espana-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del deepal s07 precio espana ficha tecnica>
 

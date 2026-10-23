@@ -94,19 +94,19 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     galeria: [
       {
         src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Chausson 640 Titanium, vista tres cuartos delantera (foto oficial de prensa)",
+        alt: "Chausson 640 Titanium, vista tres cuartos delantera",
         ancho: 1200,
         alto: 801,
       },
       {
         src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Cama basculante de 160 cm del Chausson 640 Titanium (foto oficial)",
+        alt: "Cama basculante de 160 cm del Chausson 640 Titanium",
         ancho: 1200,
         alto: 805,
       },
       {
         src: "/media/chausson-640-titanium-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón SmartLounge del Chausson 640 Titanium (foto oficial)",
+        alt: "Salón SmartLounge del Chausson 640 Titanium",
         ancho: 1200,
         alto: 805,
       },

@@ -78,13 +78,13 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
       },
       {
         src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight T 68 Adventure, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight T 68 Adventure, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Detalle del armario bajo la cama del Sunlight T 68 Adventure (foto oficial)",
+        alt: "Detalle del armario bajo la cama del Sunlight T 68 Adventure",
         ancho: 1000,
         alto: 1500,
       },
@@ -193,13 +193,13 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
       },
       {
         src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight A 70, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight A 70, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Vista panorámica 360° del interior del Sunlight A 70: cocina, baño y cama (foto oficial)",
+        alt: "Vista panorámica 360° del interior del Sunlight A 70: cocina, baño y cama",
         ancho: 1200,
         alto: 600,
       },
@@ -308,13 +308,13 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
       },
       {
         src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure (foto oficial)",
+        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure",
         ancho: 1200,
         alto: 1798,
       },

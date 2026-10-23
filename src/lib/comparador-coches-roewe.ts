@@ -1167,7 +1167,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     galeria: [
       {
         src: "/media/roewe-jiayue-07-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Roewe Jiayue 07 2026, vista tres cuartos delantera (foto oficial: roewe.com.cn)",
+        alt: "Roewe Jiayue 07 2026, vista tres cuartos delantera",
         ancho: 1480,
         alto: 833,
       },

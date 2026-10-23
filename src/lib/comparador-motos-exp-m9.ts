@@ -1229,7 +1229,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     galeria: [
       {
         src: "/media/zontes-368m-2025-ficha-tecnica-precio-2.webp",
-        alt: "Zontes 368M 2025, vista lateral (foto oficial)",
+        alt: "Zontes 368M 2025, vista lateral",
         ancho: 1200,
         alto: 799,
       },
@@ -2549,7 +2549,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       },
       {
         src: "/media/motos/silence-s04-l6e-2025-ficha-tecnica-precio-1.webp",
-        alt: "Silence S04 circulando por Barcelona (foto oficial de prensa Silence)",
+        alt: "Silence S04 circulando por Barcelona",
         ancho: 1152,
         alto: 768,
       },

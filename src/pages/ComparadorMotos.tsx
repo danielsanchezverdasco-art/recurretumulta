@@ -10,6 +10,7 @@ import BarraComparar, { type ItemComparar } from "@/components/BarraComparar.tsx
 import DueloVS, { type FilaDuelo, type ItemDuelo } from "@/components/DueloVS.tsx";
 import { elegirCosaIndice, type NotaCosaInput } from "@/lib/cosa.ts";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
+import { creditoDe } from "@/components/CreditoFoto.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
 import {
   MOTOS_COMPARADOR,
@@ -627,7 +628,7 @@ function CartaMoto({
         {moto.imagen ? (
           <img
             src={moto.imagen}
-            alt={`Foto oficial de la ${moto.marca} ${moto.modelo}`}
+            alt={creditoDe(moto.imagen)?.licencia === "prensa" ? `Foto oficial de la ${moto.marca} ${moto.modelo}` : `Foto de la ${moto.marca} ${moto.modelo}`}
             className="h-full w-full object-contain"
             loading="lazy"
           />

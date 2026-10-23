@@ -74,19 +74,19 @@ export const COCHES_EXP24: CocheComparador[] = [
     galeria: [
       {
         src: "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Volkswagen ID. Polo GTI rojo, vista tres cuartos delantera en foto oficial",
+        alt: "Volkswagen ID. Polo GTI rojo, vista tres cuartos delantera",
         ancho: 1600,
         alto: 1067,
       },
       {
         src: "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-oficial-2.webp",
-        alt: "Volkswagen ID. Polo GTI rojo, vista tres cuartos trasera en foto oficial",
+        alt: "Volkswagen ID. Polo GTI rojo, vista tres cuartos trasera",
         ancho: 1600,
         alto: 1067,
       },
       {
         src: "/media/volkswagen-id-polo-gti-2026-precio-ficha-tecnica-oficial-3.webp",
-        alt: "Volkswagen ID. Polo GTI rojo, vista lateral en foto oficial",
+        alt: "Volkswagen ID. Polo GTI rojo, vista lateral",
         ancho: 1600,
         alto: 1067,
       },

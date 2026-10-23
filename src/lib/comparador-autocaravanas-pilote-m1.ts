@@ -67,25 +67,25 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Pilote V600G, vista lateral (foto oficial)",
+        alt: "Pilote V600G, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Pilote V600G con techo elevable (foto oficial)",
+        alt: "Pilote V600G con techo elevable",
         ancho: 750,
         alto: 609,
       },
       {
         src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón del Pilote V600G (foto oficial)",
+        alt: "Salón del Pilote V600G",
         ancho: 750,
         alto: 500,
       },
       {
         src: "/media/pilote-v600g-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón y cabina del Pilote V600G (foto oficial)",
+        alt: "Salón y cabina del Pilote V600G",
         ancho: 768,
         alto: 512,
       },
@@ -178,37 +178,37 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Pilote G740FGJ ÉVIDENCE, vista tres cuartos (foto oficial)",
+        alt: "Pilote G740FGJ ÉVIDENCE, vista tres cuartos",
         ancho: 768,
         alto: 467,
       },
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Integral Pilote ÉVIDENCE en ruta (foto oficial)",
+        alt: "Integral Pilote ÉVIDENCE en ruta",
         ancho: 1200,
         alto: 621,
       },
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-ext3.webp",
-        alt: "Integral Pilote ÉVIDENCE con toldo desplegado (foto oficial)",
+        alt: "Integral Pilote ÉVIDENCE con toldo desplegado",
         ancho: 1024,
         alto: 1024,
       },
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Dormitorio de camas gemelas de la integral Pilote ÉVIDENCE (foto oficial de la serie)",
+        alt: "Dormitorio de camas gemelas de la integral Pilote ÉVIDENCE",
         ancho: 1024,
         alto: 683,
       },
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón face-face del Pilote G740FGJ ÉVIDENCE (foto oficial)",
+        alt: "Salón face-face del Pilote G740FGJ ÉVIDENCE",
         ancho: 768,
         alto: 512,
       },
       {
         src: "/media/pilote-g740fgj-evidence-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Dormitorio de camas gemelas del Pilote G740FGJ ÉVIDENCE (foto oficial)",
+        alt: "Dormitorio de camas gemelas del Pilote G740FGJ ÉVIDENCE",
         ancho: 735,
         alto: 512,
       },

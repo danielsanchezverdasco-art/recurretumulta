@@ -91,25 +91,25 @@ Para quién es: el Itineo PF600 es para quien quiere una perfilada de menos de s
       // Oficiales (web del fabricante, verificadas visualmente): primero el exterior y luego los interiores
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Itineo PF600, vista exterior tres cuartos delantera (foto oficial de la marca)",
+        alt: "Itineo PF600, vista exterior tres cuartos delantera",
         ancho: 1200,
         alto: 877,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón delantero del Itineo PF600 con banqueta cara a la carretera (foto oficial de la marca)",
+        alt: "Salón delantero del Itineo PF600 con banqueta cara a la carretera",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama a la francesa trasera del Itineo PF600 (foto oficial de la marca)",
+        alt: "Cama a la francesa trasera del Itineo PF600",
         ancho: 1200,
         alto: 999,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Cocina del Itineo PF600 con dos fuegos y fregadero de acero (foto oficial de la marca)",
+        alt: "Cocina del Itineo PF600 con dos fuegos y fregadero de acero",
         ancho: 1200,
         alto: 1799,
       },

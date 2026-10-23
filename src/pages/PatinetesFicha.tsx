@@ -148,17 +148,22 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   // 23/10/2026 (punto 5 plan AdSense): el hero solo se rotula "oficial" si no tiene
   // crédito de otra fuente (p. ej. foto CC BY-SA de Wikimedia Commons).
   const creditoHero = !patinete.fotoPendiente && patinete.foto ? creditoDe(patinete.foto) : null;
-  const heroEsPrensa = creditoHero == null || creditoHero.licencia === "prensa";
+  // 23/10/2026 (punto 5 plan AdSense): "oficial" solo con crédito de prensa verificado.
+  const heroEsPrensa = creditoHero?.licencia === "prensa";
   const fotosTop: FotoFicha[] = [
     ...(!patinete.fotoPendiente && patinete.foto ? [{ src: patinete.foto, alt: heroEsPrensa ? `Foto oficial del ${nombre}` : `Foto del ${nombre}`, ancho: dimDe(patinete.foto)?.[0], alto: dimDe(patinete.foto)?.[1] }] : []),
     ...(patinete.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
-  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente.
+  // del fabricante" cuando alguna de sus fotos tiene crédito de prensa verificado.
+  // Sin crédito verificado no se afirma oficialidad: pie neutro (honestidad AdSense).
   const galeriaConCreditoExterno = (patinete.galeria ?? []).some((f) => {
     const c = creditoDe(f.src);
     return c != null && c.licencia !== "prensa";
   });
+  const galeriaPrensaVerificada =
+    !galeriaConCreditoExterno &&
+    (patinete.galeria ?? []).some((f) => creditoDe(f.src)?.licencia === "prensa");
   const datosClave: DatoClave[] = [
     patinete.autonomiaKm != null && { icono: <BatteryCharging className="h-5 w-5" />, valor: `${patinete.autonomiaKm} km`, label: "Autonomía declarada" },
     patinete.potenciaNominalW != null && { icono: <Zap className="h-5 w-5" />, valor: `${fmtMiles(patinete.potenciaNominalW)} W`, label: "Potencia nominal" },
@@ -498,7 +503,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              {galeriaConCreditoExterno ? `Fotos del ${nombre}.` : `Fotos oficiales de ${patinete.marca} (prensa del fabricante).`}
+              {galeriaPrensaVerificada ? `Fotos oficiales de ${patinete.marca} (prensa del fabricante).` : `Fotos del ${nombre}.`}
             </p>
                       </NightGallery>
 </section>

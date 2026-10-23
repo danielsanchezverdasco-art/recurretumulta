@@ -90,7 +90,7 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
     galeria: [
       {
         src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Hymer Grand Canyon S, vista lateral (foto oficial de prensa Hymer)",
+        alt: "Hymer Grand Canyon S, vista lateral",
         ancho: 1200,
         alto: 675,
       },
@@ -102,7 +102,7 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
       },
       {
         src: "/media/hymer-grand-canyon-s-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Ducha del Hymer Grand Canyon S (foto oficial de prensa Hymer)",
+        alt: "Ducha del Hymer Grand Canyon S",
         ancho: 1200,
         alto: 800,
       },
@@ -227,7 +227,7 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
       },
       {
         src: "/media/hymer-b-mc-i-600-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Baño del Hymer B-MC I 600 con grifería negra (foto oficial de prensa Hymer)",
+        alt: "Baño del Hymer B-MC I 600 con grifería negra",
         ancho: 1200,
         alto: 802,
       },
@@ -356,7 +356,7 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
     galeria: [
       {
         src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Hymer ML-T 580 4x4 CrossTrail, vista lateral (foto oficial de prensa Hymer)",
+        alt: "Hymer ML-T 580 4x4 CrossTrail, vista lateral",
         ancho: 1200,
         alto: 801,
       },
@@ -368,13 +368,13 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
       },
       {
         src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón del Hymer ML-T 580 4x4 CrossTrail (foto oficial de prensa Hymer)",
+        alt: "Salón del Hymer ML-T 580 4x4 CrossTrail",
         ancho: 1200,
         alto: 802,
       },
       {
         src: "/media/hymer-ml-t-580-4x4-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Dormitorio con camas gemelas del Hymer ML-T 580 4x4 CrossTrail (foto oficial de prensa Hymer)",
+        alt: "Dormitorio con camas gemelas del Hymer ML-T 580 4x4 CrossTrail",
         ancho: 1200,
         alto: 802,
       },

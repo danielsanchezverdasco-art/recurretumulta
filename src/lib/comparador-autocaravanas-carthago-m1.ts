@@ -81,19 +81,19 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
     galeria: [
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Carthago C-Tourer I integral, vista exterior tres cuartos (foto oficial del fabricante)",
+        alt: "Carthago C-Tourer I integral, vista exterior tres cuartos",
         ancho: 1200,
         alto: 600,
       },
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Camas gemelas de la distribución LE del Carthago C-Tourer I (foto oficial)",
+        alt: "Camas gemelas de la distribución LE del Carthago C-Tourer I",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Dormitorio con camas gemelas del Carthago C-Tourer I, distribución LE (foto oficial)",
+        alt: "Dormitorio con camas gemelas del Carthago C-Tourer I, distribución LE",
         ancho: 1200,
         alto: 800,
       },

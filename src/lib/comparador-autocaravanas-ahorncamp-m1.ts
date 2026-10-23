@@ -80,31 +80,31 @@ Para quién es: la Ahorn Camp T 690 es para quien busca una perfilada de 7 metro
     galeria: [
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Ahorn Camp T 690 Eclipse, vista tres cuartos delantera (foto oficial)",
+        alt: "Ahorn Camp T 690 Eclipse, vista tres cuartos delantera",
         ancho: 1200,
         alto: 675,
       },
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Ahorn Camp T 690 Eclipse, vista delantera (foto oficial)",
+        alt: "Ahorn Camp T 690 Eclipse, vista delantera",
         ancho: 1200,
         alto: 591,
       },
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Dormitorio del Ahorn Camp T 690 con camas gemelas traseras (foto oficial)",
+        alt: "Dormitorio del Ahorn Camp T 690 con camas gemelas traseras",
         ancho: 1200,
         alto: 801,
       },
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-ext.webp",
-        alt: "Ahorn Camp T 690, vista tres cuartos delantera (foto oficial)",
+        alt: "Ahorn Camp T 690, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/ahorncamp-t-690-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Interior del Ahorn Camp T 690, salón y dormitorio (foto oficial)",
+        alt: "Interior del Ahorn Camp T 690, salón y dormitorio",
         ancho: 1200,
         alto: 800,
       },

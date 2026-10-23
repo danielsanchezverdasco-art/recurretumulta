@@ -1166,7 +1166,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     imagen: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-2.webp", alt: "Beta RR X-Pro 300 2T 2026, perfil lateral en estudio (foto betatrueba.com)", ancho: 800, alto: 490 },
-      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2T 2026, foto oficial de prensa Beta", ancho: 1200, alto: 775 }
+      { src: "/media/motos/beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio-3.webp", alt: "Beta RR X-Pro 300 2T 2026", ancho: 1200, alto: 775 }
     ],
     videoId: "yGcWmkaGar0",
     videoCanal: "MOTO-CAR TV",

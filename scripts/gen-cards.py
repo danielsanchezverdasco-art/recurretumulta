@@ -42,6 +42,9 @@ for _l in open("public/media-creditos.md", encoding="utf8"):
             _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": _c[3], "url": _c[1]}
         elif _c[3] == "prensa" and _c[1].startswith("http"):
             _cred[_c[0]] = {"autor": re.sub(r"\s+", " ", _c[2]), "licencia": "prensa", "url": _c[1]}
+        elif _c[3] == "sin verificar":
+            # 23/10/2026 punto 5 plan AdSense: pie honesto "fuente no verificada".
+            _cred[_c[0]] = {"autor": "fuente no verificada", "licencia": "sin verificar", "url": ""}
     elif len(_c) == 2 and _c[0].startswith("/media/") and _c[0] != "/media/fichero" and _c[1].startswith("http") and "prensa" in _c[1]:
         # Tablas 2-col de kits de prensa (Hymer, La Strada, VW Grand California, Westfalia):
         # el autor es la marca de la cabecera de sección.

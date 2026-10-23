@@ -80,13 +80,13 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
       },
       {
         src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón y cabina del Giottiline Siena 322 (foto oficial)",
+        alt: "Salón y cabina del Giottiline Siena 322",
         ancho: 1000,
         alto: 560,
       },
       {
         src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama transversal trasera del Giottiline Siena 322 (foto oficial)",
+        alt: "Cama transversal trasera del Giottiline Siena 322",
         ancho: 1000,
         alto: 560,
       },

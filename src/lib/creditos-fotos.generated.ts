@@ -1174,5 +1174,110 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Westfalia",
 "licencia": "prensa",
 "url": "https://westfalia-mobil.com/en/motorhomes/sven-hedin/"
+},
+"/media/deepal-s05-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-2026-precio-ficha-tecnica-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-2026-precio-ficha-tecnica-interior-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-awd-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-awd-2026-precio-ficha-tecnica-interior-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-phev-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/deepal-s05-phev-2026-precio-ficha-tecnica-interior-oficial-2.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-coupe-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-coupe-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-coupe-2026-precio-ficha-tecnica-interior.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-spider-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-spider-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-spider-2026-precio-ficha-tecnica-interior.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-racing-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-racing-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
+},
+"/media/denza-z-racing-2026-precio-ficha-tecnica-interior.webp": {
+"autor": "fuente no verificada",
+"licencia": "sin verificar",
+"url": ""
 }
 };

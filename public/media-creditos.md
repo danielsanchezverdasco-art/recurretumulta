@@ -297,3 +297,32 @@ Fotos descargadas a public/media (WebP <300KB), hotlink eliminado. Uso editorial
 |---|---|---|---|
 | /media/byd-sealion-7-salon-paris-2024.webp | https://www.drive.gr/sites/default/files/styles/1230x810/public/node-files/photos/news/2024/11/byd-sealion-7-2024-paris-motor-show-front-quarter_0.jpg?itok=esCjd2sp | drive.gr | uso editorial, licencia por validar |
 | /media/yangwang-u8-salon-paris-2024.webp | https://anewz.tv/data/images/2024-12-09/1189_2024-10-14t175615z-55881562-rc2fkaavjfhm-rtrmadp-3-paris-autoshow_f.JPG?t=1787662649 | anewz.tv (foto Reuters) | uso editorial, licencia por validar |
+
+## Fotos con fuente no verificada (23/10/2026, Niky — punto 5 plan AdSense)
+Pie de foto honesto "fuente no verificada": no se pudo verificar la procedencia exacta
+de estos archivos (parecen fotos de prensa del fabricante, pero sin URL de origen
+documentada). NO afirmar oficialidad hasta verificar.
+
+| Archivo | Fuente | Autor | Licencia |
+|---|---|---|---|
+| /media/deepal-s05-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-2026-precio-ficha-tecnica-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-2026-precio-ficha-tecnica-interior-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-awd-2026-precio-ficha-tecnica-interior-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/deepal-s05-phev-2026-precio-ficha-tecnica-interior-oficial-2.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-coupe-2026-precio-ficha-tecnica-interior.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-spider-2026-precio-ficha-tecnica-interior.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-hero.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-oficial.webp | URL exacta no localizada | fuente no verificada | sin verificar |
+| /media/denza-z-racing-2026-precio-ficha-tecnica-interior.webp | URL exacta no localizada | fuente no verificada | sin verificar |

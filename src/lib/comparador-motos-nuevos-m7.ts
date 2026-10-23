@@ -1057,13 +1057,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     imagen: "/media/motos/sym-jet-evo-125-abs-2024-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        alt: "SYM Jet Evo 125 ABS 2024, frontal tres cuartos en gris, imagen oficial del fabricante",
+        alt: "SYM Jet Evo 125 ABS 2024, frontal tres cuartos en gris",
         alto: 386,
         ancho: 480,
         src: "/media/motos/sym-jet-evo-125-abs-2024-ficha-tecnica-precio-oficial-2.webp",
       },
       {
-        alt: "SYM Jet Evo 125 ABS 2024, frontal tres cuartos en blanco, imagen oficial de SYM Italia",
+        alt: "SYM Jet Evo 125 ABS 2024, frontal tres cuartos en blanco",
         alto: 800,
         ancho: 1200,
         src: "/media/motos/sym-jet-evo-125-abs-2024-ficha-tecnica-precio-oficial-3.webp",
@@ -1391,7 +1391,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     imagen: "/media/motos/cyclone-rt1-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        alt: "Cyclone RT1 125 2025, frontal tres cuartos en negro, imagen oficial",
+        alt: "Cyclone RT1 125 2025, frontal tres cuartos en negro",
         alto: 900,
         ancho: 1200,
         src: "/media/motos/cyclone-rt1-2025-ficha-tecnica-precio-oficial-2.webp",

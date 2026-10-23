@@ -290,15 +290,19 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
   const fotosTop: FotoFicha[] = [
     ...(heroOk && heroSrc ? [{ src: heroSrc, alt: `Foto del ${nombre}`, ancho: dimDe(heroSrc)?.[0], alto: dimDe(heroSrc)?.[1] }] : []),
-    ...(coche.imagenInteriorOficial ? [{ src: coche.imagenInteriorOficial, alt: `Interior oficial del ${nombre}` }] : []),
+    ...(coche.imagenInteriorOficial ? [{ src: coche.imagenInteriorOficial, alt: `Interior del ${nombre}` }] : []),
     ...(coche.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   // 23/10/2026 (punto 5 plan AdSense): la galería solo se rotula como "oficial / prensa
-  // del fabricante" cuando ninguna de sus fotos tiene crédito de otra fuente (p. ej. Wikimedia Commons).
+  // del fabricante" cuando alguna de sus fotos tiene crédito de prensa verificado.
+  // Sin crédito verificado no se afirma oficialidad: pie neutro (honestidad AdSense).
   const galeriaConCreditoExterno = (coche.galeria ?? []).some((f) => {
     const c = creditoDe(f.src);
     return c != null && c.licencia !== "prensa";
   });
+  const galeriaPrensaVerificada =
+    !galeriaConCreditoExterno &&
+    (coche.galeria ?? []).some((f) => creditoDe(f.src)?.licencia === "prensa");
   const esPhevOEv = /eléctrico|enchufable|autonomía extendida/i.test(coche.tipo);
   const datosClave: DatoClave[] = [
     coche.potenciaCv != null && { icono: <Zap className="h-5 w-5" />, valor: fmtCv(coche.potenciaCv), label: "Potencia" },
@@ -798,7 +802,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             <div className="overflow-hidden rounded-3xl">
               <img
                 src={coche.imagenInteriorOficial}
-                alt={coche.creditoInteriorFoto ? `Interior del ${nombre}` : `Interior oficial del ${nombre}`}
+                alt={`Interior del ${nombre}`}
                 className="rtm-card-zoom aspect-video w-full object-cover"
                 loading="lazy"
                 onError={(e) => {
@@ -836,7 +840,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              {galeriaConCreditoExterno ? `Fotos del ${nombre}.` : `Fotos oficiales de ${coche.marca} (prensa del fabricante).`}
+              {galeriaPrensaVerificada ? `Fotos oficiales de ${coche.marca} (prensa del fabricante).` : `Fotos del ${nombre}.`}
             </p>
                       </NightGallery>
 </section>

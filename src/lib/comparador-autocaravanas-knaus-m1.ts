@@ -94,25 +94,25 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Knaus BoxLife 600 MQ Platinum Selection, vista tres cuartos delantera (foto oficial Knaus)",
+        alt: "Knaus BoxLife 600 MQ Platinum Selection, vista tres cuartos delantera",
         ancho: 1200,
         alto: 1104,
       },
       {
         src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Knaus BoxLife 600 MQ, vista lateral de estudio (foto oficial Knaus)",
+        alt: "Knaus BoxLife 600 MQ, vista lateral de estudio",
         ancho: 1200,
         alto: 873,
       },
       {
         src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Knaus BoxLife 600 MQ: claraboya panorámica Midi-Heki (foto oficial Knaus)",
+        alt: "Interior del Knaus BoxLife 600 MQ: claraboya panorámica Midi-Heki",
         ancho: 1200,
         alto: 900,
       },
       {
         src: "/media/knaus-boxlife-600-mq-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Baño del Knaus BoxLife 600 MQ con pared giratoria (foto oficial Knaus)",
+        alt: "Baño del Knaus BoxLife 600 MQ con pared giratoria",
         ancho: 750,
         alto: 750,
       },
@@ -246,25 +246,25 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Knaus Sky TI 650 MEG IC-Line, vista tres cuartos delantera (foto oficial de prensa Knaus)",
+        alt: "Knaus Sky TI 650 MEG IC-Line, vista tres cuartos delantera",
         ancho: 1200,
         alto: 545,
       },
       {
         src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Knaus Sky TI sobre Fiat Ducato, vista lateral de estudio (foto oficial de prensa Knaus)",
+        alt: "Knaus Sky TI sobre Fiat Ducato, vista lateral de estudio",
         ancho: 1200,
         alto: 798,
       },
       {
         src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Camas gemelas traseras del Knaus Sky TI 650 MEG (foto oficial de prensa Knaus)",
+        alt: "Camas gemelas traseras del Knaus Sky TI 650 MEG",
         ancho: 1200,
         alto: 900,
       },
       {
         src: "/media/knaus-sky-ti-650-meg-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina en L del Knaus Sky TI IC-Line (foto oficial de prensa Knaus)",
+        alt: "Cocina en L del Knaus Sky TI IC-Line",
         ancho: 1200,
         alto: 900,
       },

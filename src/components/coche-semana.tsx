@@ -4,6 +4,7 @@
 import { Link } from "react-router-dom";
 import { ArrowRight, Car, GitCompareArrows, Newspaper } from "lucide-react";
 import { getCocheSemana } from "@/lib/coche-semana.ts";
+import { creditoDe } from "@/components/CreditoFoto.tsx";
 import { COCHES_CON_ANALISIS } from "@/lib/coches-con-analisis.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
@@ -14,6 +15,8 @@ function formatoPrecio(euros: number | null): string {
 
 export default function CocheSemana() {
   const { coche, titular, gancho, esEditorial, semana } = getCocheSemana();
+  // 23/10/2026 (punto 5 plan AdSense): "oficial" en el alt solo con crédito de prensa verificado.
+  const fotoEsPrensa = creditoDe(coche.imagenOficial)?.licencia === "prensa";
   // 13/10/2026: solo enlazar al análisis si el post existe (antes /blog/<id> daba 404).
   const analisis = COCHES_CON_ANALISIS[coche.id];
   const datos: Array<[string, string]> = [
@@ -40,7 +43,7 @@ export default function CocheSemana() {
       <div className="grid gap-5 p-5 sm:grid-cols-2 sm:items-center">
         <img
           src={coche.imagenOficial ?? ""}
-          alt={`Foto oficial del ${coche.marca} ${coche.modelo}`}
+          alt={fotoEsPrensa ? `Foto oficial del ${coche.marca} ${coche.modelo}` : `Foto del ${coche.marca} ${coche.modelo}`}
           className="aspect-[16/10] w-full rounded-2xl object-cover"
           loading="lazy"
         />

@@ -71,31 +71,31 @@ export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
     galeria: [
       {
         src: "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Laika Ecovip Performance 600 en Grigio Torino, vista tres cuartos delantera (foto oficial)",
+        alt: "Laika Ecovip Performance 600 en Grigio Torino, vista tres cuartos delantera",
         ancho: 1600,
         alto: 819,
       },
       {
         src: "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Asientos de cabina del Laika Ecovip Performance con tapicería Grigio Torino (foto oficial)",
+        alt: "Asientos de cabina del Laika Ecovip Performance con tapicería Grigio Torino",
         ancho: 982,
         alto: 1300,
       },
       {
         src: "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-interior-2.webp",
-        alt: "Baño Vario con ducha separable del Laika Ecovip Performance (foto oficial)",
+        alt: "Baño Vario con ducha separable del Laika Ecovip Performance",
         ancho: 1600,
         alto: 1068,
       },
       {
         src: "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-interior-3.webp",
-        alt: "Materiales y acabados interiores del Laika Ecovip Performance (foto oficial)",
+        alt: "Materiales y acabados interiores del Laika Ecovip Performance",
         ancho: 896,
         alto: 1200,
       },
       {
         src: "/media/laika-ecovip-performance-600-2026-precio-ficha-tecnica-exterior-2.webp",
-        alt: "Laika Ecovip Performance 600, vista frontal tres cuartos en estudio (foto oficial)",
+        alt: "Laika Ecovip Performance 600, vista frontal tres cuartos en estudio",
         ancho: 1600,
         alto: 1600,
       },
@@ -183,25 +183,25 @@ export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
     galeria: [
       {
         src: "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Sunlight Cliff 600 sobre base Peugeot Boxer, vista lateral (foto oficial)",
+        alt: "Sunlight Cliff 600 sobre base Peugeot Boxer, vista lateral",
         ancho: 1281,
         alto: 1920,
       },
       {
         src: "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-interior.webp",
-        alt: "Zona de descanso trasera del Sunlight Cliff 600 con cama doble (foto oficial)",
+        alt: "Zona de descanso trasera del Sunlight Cliff 600 con cama doble",
         ancho: 1600,
         alto: 752,
       },
       {
         src: "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-interior-2.webp",
-        alt: "Cocina del Sunlight Cliff 600 con encimera y fregadero (foto oficial)",
+        alt: "Cocina del Sunlight Cliff 600 con encimera y fregadero",
         ancho: 1600,
         alto: 1068,
       },
       {
         src: "/media/sunlight-cliff-600-2026-precio-ficha-tecnica-interior-3.webp",
-        alt: "Baño con ducha del Sunlight Cliff 600 (foto oficial)",
+        alt: "Baño con ducha del Sunlight Cliff 600",
         ancho: 1281,
         alto: 1920,
       },

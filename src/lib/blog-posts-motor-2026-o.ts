@@ -246,7 +246,7 @@ No directamente: es un segmento nuevo para la Fiat actual, el C-SUV familiar, do
     "Volkswagen récord consumo 6,89",
     "ID. Polo MEB+ eficiencia"
   ],
-  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal en foto oficial de Volkswagen>
+  "content": `<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial.webp alt=Volkswagen Mission Efficiency, vista frontal>
 
 **1.278 kilómetros con una sola recarga.** No es una promesa de laboratorio: es la distancia que el prototipo **Volkswagen Mission Efficiency** recorrió entre Wolfsburgo y Viena con un consumo real de **6,89 kWh/100 km**, muy por debajo de lo habitual en un eléctrico compacto actual. Presentado en septiembre, es la respuesta de Volkswagen a la pregunta que más hacen los conductores españoles: ¿y si el problema no fuera la batería, sino el consumo?
 
@@ -269,7 +269,7 @@ Homologados por el instituto alemán de récords (RID) en la categoría de eléc
 
 La batería del Mission Efficiency (54,9 kWh) es la que lleva cualquier compacto eléctrico normal. La diferencia está en la **aerodinámica**: carrocería con forma de lágrima, superficie frontal de solo **2,08 m²**, bajos carenados, ruedas traseras revestidas y hasta **paneles solares de 370 W** en techo y portón (hasta 30 km extra al día, según la prensa especializada).
 
-<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial-2.webp alt=Volkswagen Mission Efficiency en foto oficial de Volkswagen>
+<img src=/media/volkswagen-mission-efficiency-concept-paris-2026-oficial-2.webp alt=Volkswagen Mission Efficiency>
 
 ## Traducido a España: Madrid–Barcelona sin parar
 
@@ -318,7 +318,7 @@ Volkswagen lo presentó en septiembre de 2026, con los tres récords homologados
     "Desmo450 EDS ficha técnica",
     "moto enduro 450 2026"
   ],
-  "content": `<img src=/media/ducati-desmo450-eds-2026-precio-ficha-tecnica-oficial.webp alt=Ducati Desmo450 EDS 2026, vista lateral en foto oficial de Ducati>
+  "content": `<img src=/media/ducati-desmo450-eds-2026-precio-ficha-tecnica-oficial.webp alt=Ducati Desmo450 EDS 2026, vista lateral>
 
 **Ducati** por fin se atreve con el enduro. La **Desmo450 EDS** es la primera moto de enduro moderna de la marca de Borgo Panigale: un monocilíndrico de **449,6 cc con distribución desmodrómica y 42 CV**, **119,9 kg** en orden de marcha y un precio oficial en España de **12.990 €**. Ya está en los concesionarios europeos desde julio. La pregunta es obvia: ¿qué hace una Ducati en el territorio de KTM y Honda?
 
@@ -351,7 +351,7 @@ El matiz importa. La EDS parte de la base del motor de la **Desmo450 MX** de mot
 
 Aquí la EDS se desmarca de las puras de cross: **aceite y filtro cada 2.500 km, holgura de válvulas cada 5.000 km y servicio principal del motor cada 11.500 km**, según la ficha oficial de Ducati. Son intervalos de moto de calle, no de competición. La garantía, eso sí, es de **12 meses u 80 horas**: Ducati no esconde que esto es una enduro de verdad.
 
-<img src=/media/ducati-desmo450-eds-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 EDS 2026, vista tres cuartos delantera en foto oficial>
+<img src=/media/ducati-desmo450-eds-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 EDS 2026, vista tres cuartos delantera>
 
 ## ¿A por quién va?
 
@@ -398,7 +398,7 @@ Es su **primera moto de enduro moderna**: Ducati no tenía una enduro de serie e
     "Desmo450 SM ficha técnica",
     "supermotard 450 2026"
   ],
-  "content": `<img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial.webp alt=Ducati Desmo450 SM 2026 en circuito, foto oficial de Ducati>
+  "content": `<img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial.webp alt=Ducati Desmo450 SM 2026 en circuito>
 
 Hay motos racionales y luego está esto. La **Ducati Desmo450 SM** es la vuelta de Ducati a las **supermotard** de serie: el monocilíndrico Desmo450 de **449,6 cc** con **63,5 CV**, chasis de aluminio de doble viga, frenos **Brembo Stylema** y un precio en España de **13.990 €**. Llegará a los concesionarios europeos en **diciembre de 2026**.
 
@@ -430,7 +430,7 @@ La SM no es una naked disfrazada: es una **supermotard de competición homologad
 
 Ojo a la letra pequeña: el mantenimiento es de **competición pura** —aceite cada **15 horas**, holgura de válvulas y sustitución del pistón cada **45 horas**, revisión completa del motor cada **90 horas**. Ducati hasta ha desarrollado un sistema de **mantenimiento predictivo** (módulo Com-Link opcional) que vigila el desgaste del motor según el uso. Esta moto no es para ir a por el pan.
 
-<img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 SM 2026 tumbando en curva, foto oficial>
+<img src=/media/ducati-desmo450-sm-2026-precio-ficha-tecnica-oficial-2.webp alt=Ducati Desmo450 SM 2026 tumbando en curva>
 
 Su rival natural es la **KTM 450 SMR**, la reina del segmento. La Ducati responde con el desmodrómico, mejor frenada de serie y una electrónica más refinada. Tienes la ficha completa en nuestra <a href=/motos/ducati-desmo450-sm-2026-precio-ficha-tecnica/>ficha de la Desmo450 SM</a> y puedes compararla en el <a href=/comparador-motos/>comparador de motos</a>. Si prefieres el campo, su hermana es la <a href=/motos/ducati-desmo450-eds-2026-precio-ficha-tecnica/>Desmo450 EDS</a>; y para el asfalto diario, la <a href=/blog/ducati-monster-2026-quinta-generacion-precio-espana/>Monster 2026</a>.
 

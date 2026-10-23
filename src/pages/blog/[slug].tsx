@@ -54,6 +54,8 @@ function conCreditos(html: string): string {
   return html.replace(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g, (tag, src) => {
     const c = creditoDe(src);
     if (!c) return tag;
+    if (c.licencia === "sin verificar")
+      return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: fuente no verificada</small>`;
     return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
   });
 }
@@ -636,11 +638,17 @@ function BlogPostPage() {
               <CosaEnBanner />
               {creditoDe(heroSrc) && (
                 <p className="absolute bottom-1 right-2 z-10 text-[10px] text-white/70">
-                  Foto:{" "}
-                  <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
-                    {creditoDe(heroSrc)!.autor}
-                  </a>{" "}
-                  {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
+                  {creditoDe(heroSrc)!.licencia === "sin verificar" ? (
+                    <>Foto: fuente no verificada</>
+                  ) : (
+                    <>
+                      Foto:{" "}
+                      <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
+                        {creditoDe(heroSrc)!.autor}
+                      </a>{" "}
+                      {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
+                    </>
+                  )}
                 </p>
               )}
             </>

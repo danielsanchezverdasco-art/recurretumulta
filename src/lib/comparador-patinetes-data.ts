@@ -57,7 +57,7 @@ export interface PatineteComparador {
   veredicto: string;
   fuenteNombre: string;
   fuenteUrl: string;
-  // ── Comparador v2: ficha generada por IA (búsqueda libre) ──
+  // ── Comparador v2: ficha de investigación web (veredicto pendiente de revisión) ──
   esIA?: boolean;
   confianza?: "alta" | "media" | "baja";
   deCache?: boolean;
@@ -163,8 +163,8 @@ export function fichaPatineteIAToPatinete(
     contras: f.contras ?? [],
     veredicto: f.pros?.[0]
       ? `Según la investigación web: ${f.pros[0].charAt(0).toLowerCase()}${f.pros[0].slice(1)}`
-      : "Ficha generada por IA a partir de información pública en la web.",
-    fuenteNombre: f.fuenteNombre ?? "Investigación web por IA",
+      : "Veredicto pendiente de revisión editorial.",
+    fuenteNombre: f.fuenteNombre ?? "Fuente no verificada",
     fuenteUrl: f.fuenteUrl ?? "",
     esIA: true,
     confianza: f.confianza ?? "media",
