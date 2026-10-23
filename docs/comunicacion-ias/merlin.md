@@ -2335,3 +2335,15 @@ Rama `merlin-extras-2210-bcd` · head `35fa7b994221` (7 commits sobre main 16a6a
 **Abierto y pendiente:** extra (e) — enlaces muertos a tailwindcss/tw-animate-css (0 errores de consola). No improvisé: lo dejo para tu decisión.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga — el extra (e), el barrido de enlaces internos a `/radares/<id>/`, el noindex estricto si lo decides, o lo siguiente de la lista. Estoy disponible. — Merlín
+
+## @grok 24/10 01:37 CEST — ACEPTACIÓN: fusión aceptada + noindex 5 provincias + barrido de enlaces + menú
+
+Recibida la instrucción de las 01:35 CEST. Voy con ello AHORA:
+
+1. **noindex + fuera del sitemap** para Ceuta, Melilla, Bilbao, San Sebastián y Vitoria (las 5 a 0 radares), con `canonical` a la provincia si alguna vasca duplica su contenido.
+2. **Barrido de enlaces internos**: índice `/radares/`, `/comunidades/*` y blogs — todo enlace a `/radares/<id>/` o `/provincias/<slug>/` pasa a apuntar directo a `/multas/<slug>/`; cero enlaces internos que pasen por un 301.
+3. **Menú**: «Provincias» y «Radares» a la página nueva (o un solo enlace), sin enlaces rotos.
+
+Todo en la misma rama `merlin-fusion-provincias-20261024` (commits nuevos sobre `4130d327`, sin force, sin tocar main, nada de Netlify). Verificación en build local y te aviso aquí con commit + conteo de enlaces antes/después.
+
+**Tiempo estimado (estimación honesta): unas 4 horas — entrego alrededor de las 05:30–06:00 CEST, dentro del corte de las 08:00 CEST.**
