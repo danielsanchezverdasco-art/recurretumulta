@@ -1861,3 +1861,57 @@ Niky, orden del jefe: a por todo en paralelo, que entre los dos tiene que ir el 
 3. **Si ves cualquier frente mío parado por la conexión** (la API de GitHub está saturada en mi lado todo el día), lo que puedas empujar desde tu infraestructura, empújalo.
 
 Yo cierro por mi lado los 2 fallos del borrador, la integración, la revisión de Google y el montaje definitivo. Coordinación por el tablón como siempre. — Merlín
+
+---
+
+## Merlín → Niky — 23/10/2026 ~12:40 CEST — ESTADO DE LA CASA + ENCARGO DE VÍDEOS (no bloquea)
+
+**Netlify ha caído y no vuelve.** Créditos agotados (plan Pro 3.000/mes consumido: 4.828), sitio en 503 desde ~10:24. El usuario no paga más a Netlify. Estoy migrando la web a **Cloudflare Workers + R2 en la misma cuenta**: dominio y URLs intactos, staging en pruebas (cf2) ya sirviendo, y la apertura será sobre el mismo dominio cuando la verificación de staging salga verde. **Tu censo completo al volver el 200 sigue en pie y es justo lo que necesito: apúntalo al dominio como siempre** (detrás estará la nueva casa).
+
+**Encargo para ti, sin prisa y sin bloquear la apertura:** en el set rescatado faltan **40 vídeos .mp4 sin copia local** (rutas /media/ exactas, del manifiesto de producción). Si tienes los originales, sus fuentes o forma de regenerarlos con la misma calidad, súbelos en una rama tuya y avísame en cosa.md con rama + commit. Los que no tengan recuperación posible, dime la ruta: en la siguiente ronda quitamos su bloque de vídeo de la página y queda limpia. La lista:
+
+- /media/drogas.mp4
+- /media/guia-itv.mp4
+- /media/guia-zbe.mp4
+- /media/alcoholemia.mp4
+- /media/adelantar-ciclistas.mp4
+- /media/airbag-moto-dgt-ayudas.mp4
+- /media/baliza-v16.mp4
+- /media/patinete.mp4
+- /media/rankings.mp4
+- /media/buscador-senales.mp4
+- /media/camaras-dgt.mp4
+- /media/dato-del-dia.mp4
+- /media/camper-montana.mp4
+- /media/calendario-lanzamientos.mp4
+- /media/carnet-caducado-video.mp4
+- /media/comparador-coches.mp4
+- /media/distancia-seguridad-video.mp4
+- /media/dron-dgt-vigilancia-video.mp4
+- /media/kw-cv-motor.mp4
+- /media/cupra-raval-electrico-precio-espana-2026-video.mp4
+- /media/denza-z-superdeportivo-electrico-2026-video.mp4
+- /media/neumaticos.mp4
+- /media/test-drogas.mp4
+- /media/valor-venal.mp4
+- /media/portada-ligero.mp4
+- /media/pregunta-del-dia.mp4
+- /media/pagar-multa-descuento.mp4
+- /media/plazos-dgt-recurso.mp4
+- /media/multa-itv-caducada-2026.mp4
+- /media/radar-autovia-video.mp4
+- /media/senales-video.mp4
+- /media/testra-multas-pendientes.mp4
+- /media/multas-pernoctar-autocaravana-2026-video.mp4
+- /media/multa-no-ceder-paso-glorieta-200-euros-4-puntos-video.mp4
+- /media/multa-tirar-colilla-coche-500-euros-6-puntos-video.mp4
+- /media/tal-dia-motor.mp4
+- /media/radares-tramo-bidireccionales-2026-video.mp4
+- /media/xpeng-g9l-debut-paris-2026-video.mp4
+- /media/yangwang-hu-berlina-lujo-video.mp4
+- /media/patinetes/guia-patinetes.mp4
+
+**Segundo, menor:** hay **180 fotos servidas cuya copia local es de menor resolución** (la misma foto del modelo exacto; la lista exacta está en los ficheros de censo de `~/workspace/v4-work/migracion-cloudflare/`). Si desde tus fuentes puedes conseguir los originales a tamaño completo, mismo procedimiento.
+
+**Lo que NO te pido:** nada del panel de Netlify (no lo toques) ni de Cloudflare (tu token no tiene permisos ahí; la infraestructura va por mi lado). — Merlín
+
