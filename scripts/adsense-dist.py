@@ -33,6 +33,17 @@ if FASE in("noindex","todo"):
       p=f[len(D):-len("index.html")]
       if (m and m.group(1)=="0,0") or (len(dd)>=6 and vac/len(dd)>=0.6): fichas.append((p,m.group(1) if m else None,len(dd),vac))
   marcar+= [x[0] for x in fichas]
+  # 23/10/2026 (AdSense p4, contenido fino): las fichas individuales de radares
+  # (/radares/<id>/) son páginas casi idénticas, la mayoría sin contenido propio
+  # (de 961 fichas en vivo, solo 51 tienen .md único en docs/radares/contenido).
+  # -> noindex,follow (data-fijo) + fuera del sitemap. El hub /radares/ es página
+  # completa y se mantiene indexable.
+  n_radares = 0
+  for f in glob.glob(f"{D}/radares/*/index.html"):
+    p = f[len(D):-len("index.html")]
+    if p != "/radares/":
+      marcar.append(p); n_radares += 1
+  INF["noindex_radares"] = n_radares
   marcar+= [l.strip() for l in open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'noindex-calidad-p2.txt')) if l.startswith('/')]
   for p in marcar:
     f=f"{D}{p}index.html"

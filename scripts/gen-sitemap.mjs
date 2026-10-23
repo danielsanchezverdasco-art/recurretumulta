@@ -41,7 +41,13 @@ const redirigidas = new Set(
     .filter((p) => p.length >= 3 && p[2] === "301!" && !p[0].startsWith("#"))
     .map((p) => (p[0].endsWith("/") ? p[0] : p[0] + "/")),
 );
-const urls = routes.map(withSlash).filter((u) => !redirigidas.has(u));
+// 23/10/2026 (AdSense p4, contenido fino): las fichas individuales de radares
+// (/radares/<id>/) son contenido casi idéntico -> noindex y fuera del sitemap.
+// El hub /radares/ (página completa) sí entra.
+const FUERA_PATRONES = [/^\/radares\/[^/]+\/$/];
+const urls = routes
+  .map(withSlash)
+  .filter((u) => !redirigidas.has(u) && !FUERA_PATRONES.some((rx) => rx.test(u)));
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
   urls.map((u) => {

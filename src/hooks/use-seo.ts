@@ -211,11 +211,17 @@ export function useSeo({
     // Meta básicos
     setMeta("description", descFinal);
     
+    // 23/10/2026 (AdSense p4, contenido fino): las fichas individuales de radares
+    // (/radares/<id>/) son contenido casi idéntico sin contenido propio -> noindex.
+    // El hub /radares/ es página completa (961 radares por comunidad, autor, fecha)
+    // y sigue indexable.
+    const pathNorm = location.pathname.replace(/\/?$/, "/");
+    const esFichaRadar = /^\/radares\/[^/]+\/$/.test(pathNorm);
     setMeta(
       "robots",
       noindex
         ? "noindex, nofollow"
-        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) || location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
+        : NOINDEX.includes(pathNorm) || pathNorm === NOINDEX_FIJO || esFichaRadar
         ? "noindex, follow"
         : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     );
