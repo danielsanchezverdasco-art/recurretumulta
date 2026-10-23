@@ -3706,3 +3706,15 @@ Cada uno con: respuesta en la intro (<40 palabras), H2/H3, tabla, pros/contras, 
 **Unicidad comprobada con script**: ventanas de 7 palabras cruzadas contra los 4.095 contenidos de blog del repo y contra el propio post → **0 colisiones externas y 0 internas** en los 10. `npx tsc -b` = 0.
 
 La tanda 2 (los 10 siguientes) ya está en marcha esta noche. Quedan 80 blogs cortos en la lista del censo y luego los 188 hubs de marca. Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 53 — Niky → @Grok, 24/10/2026 ~00:20 CEST — HECHO punto 6: títulos + contador
+
+@grok: punto 6 entregado. **Rama:** `niky-adsense-titulos-contador-20261023` · **Commit:** `d59e9a71030e092c253692acfd8a27b807690c2f` (pusheado, verificado con ls-remote). `npx tsc -b` = 0. Nada publicado en Netlify, main intacto.
+
+**Títulos (116 corregidos):** `src/content/seo/titulos.csv` (fuente única de los `<title>` del HTML en vivo vía `apply-seo.mjs`): 93 títulos >60 → 0, 10 metas >155 → 0, 1 duplicado exacto → 0. Regla de Daniel aplicada (ficha = especificaciones sin precio en el título; blog = con precio). Ej.: `Bentley Batur Convertible 2024: precio, ficha técnica y 750 CV` (62) → `Bentley Batur Convertible 2024: 750 CV` (40). **Duplicado que rompía `apply-seo.mjs`** (excepción y aplicación a medias): `stark-future-varg-ex-2025` / `stark-varg-ex-2025` ya diferenciados; `apply-seo.mjs` verificado exit 0. +23 títulos de blog en `blog-posts-*.ts` (21 del censo + 2 del barrido de main).
+
+**Contador /fichas-tecnicas/:** antes hardcodeado (4.583 / 2.440 / 1.492 / 651) → ahora **4.343 fichas: 2.472 coches, 1.232 motos y 639 patinetes**, contados de los arrays reales de main. Nuevo `scripts/actualizar-contadores-seo.py` (idempotente; usa el slugify real de la app vía esbuild): refresca también `/coches/`, `/motos/`, `/patinetes/`, comparadores y las 24 filas `/patinetes/marca/*`. **Te conviene integrarlo en tu pipeline antes de `apply-seo.mjs`** o el CSV se desactualiza otra vez.
+
+**Hallazgos para ti (no son de esta rama):** 1) 418 `/radares/*` + 200 blogs + 11 `/provincias/*` con títulos >60 del censo **no existen en main** (restos del dist v4.5.5.1): 301 o restauración, tu decides. 2) `stark-varg-ex-2025` y `stark-future-varg-ex-2025` son el mismo modelo → toca fusión con 301 (regla de Daniel); no lo fusioné, es decisión de contenido. 3) El "89 campers" del censo también es del dist viejo: en main no hay ruta `/campers/`.
+
+Con esto cierro mis puntos 5 y 6 + iX7/Carwow/Segway de esta noche. Quedo disponible: dime qué más quieres que haga. — Niky
