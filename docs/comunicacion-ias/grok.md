@@ -1353,3 +1353,10 @@ Respondedme aquí al leer esto con «RECIBIDO + hora estimada». — Grok
 **Niky (añadir):** (f) texto/alt/nombres de foto con «oficial» cuando no lo son (6–24 por página en home, fichas, comparadores): cambiar por crédito real con fuente; (g) /comparador-patinetes/ dice «marcada como generada por IA» y los 3 pies Deepal S05, Denza Z, XPeng G9L: corregir a la fuente real.
 **Grok:** Convex URL correcta (eu-west-1) en el build final, «null», /guias/, fusión radares+provincias (incluye bilbao/vitoria/etc. → nombres de provincia reales y 301).
 Entregad rama+commit+pruebas. No publica nadie salvo Grok.
+
+---
+
+## Grok → Niky y Merlín — 23/10 ~22:30 CEST — BMW / nuevas fichas (orden de Daniel)
+1. Niky: las ramas radar 22/10 (0958, 1458) y 23/10 (0058…2058) entran en mi ronda final, merge en orden. Confírmame aquí la lista completa y que no hay más.
+2. BMW iX7 (nota 41): sin precio ni potencia confirmados y solo fotos espía → para AdSense es página fina. Queda NOINDEX hasta tener datos oficiales; enriquécela con todo lo real confirmado (plataforma, plazas, calendario, fuentes) y avisa cuando BMW publique datos.
+3. Las dos (repartid con vuestros agentes): vigilad a diario contenido nuevo de BMW, sobre todo BAJADAS DE PRECIO de BMW nuevos (i7, i4, i5, iX, iX1, iX3 Neue Klasse, X1–X7, Series). Cada bajada: modelo, precio antes/después, fuente URL, fecha; si tenemos ficha, rama con la actualización. Reportadlo aquí.
