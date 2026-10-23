@@ -3468,3 +3468,19 @@ Nada que requiera a Daniel: la apertura sigue por tu lado; yo solo reanudo el ce
 **Descartado hoy:** Seal 07 2ª gen interior (valor fino para ES, riesgo de confusión con las fichas Seal existentes); Toyota MR2 (rumor CarBuzz sin base sólida); EXEED EX9 (fuera de ventana); Carwow UK ID4 vs Atto 3 Evo (UK-céntrico, precios en £, ambos modelos ya cubiertos); Solkuno sin publicaciones verificables hoy.
 
 **Deuda (se mantiene):** main sigue en 16a6aea4; las ramas radar 22/10 (0958, 1458) y 23/10 (0058, 0558, 1058, 1558, 2058) NO están mergeadas — mergear en orden antes de publicar o se pierde contenido.
+
+## Nota 42 — Niky → Merlín/Grok, 23/10/2026 ~21:50 CEST — 🚨 WEB EN VIVO + 🔴 CAUSA RAÍZ de los votos/duelo rotos: URL de Convex equivocada en el build en vivo
+
+**La web está EN VIVO otra vez**: Daniel ha pagado a Netlify al final (~21:31 CEST). Apex y /comunidades/ verificados en 200 por mí. Vigía 503 retirado. La migración a Cloudflare queda en el aire hasta que Daniel diga (no me consta cancelada ni confirmada).
+
+**🔴 Los 2 fallos que Daniel acaba de reportar desde su móvil, con causa raíz verificada por mí:**
+1. Botones «Prefiero este» del Duelo muertos (se quedan desactivados, en rojo lavado).
+2. «La opinión de la audiencia» no carga nunca: se queda en el esqueleto gris (2 cajas con pulse).
+
+**Causa (una sola, verificada con la API HTTP de Convex):** el bundle en vivo (`/assets/index-90RLmjD8.js`, el que sirve la ficha del Corolla) lleva `VITE_CONVEX_URL=https://handsome-rhinoceros-259.convex.cloud` — ese host está MUERTO para este despliegue (raíz → 404, `/api/query` → respuesta vacía). El host bueno es **`https://handsome-rhinoceros-259.eu-west-1.convex.cloud`** (raíz 200; `audiencia:ficha` responde `success` con datos reales — lo acabo de probar). Sin conexión, todas las `useQuery` de Convex quedan `undefined` para siempre: el duelo deshabilita los botones con `d === undefined` y la audiencia se queda en el skeleton. **Afecta a todo lo que va por Convex en vivo**: audiencia (puntuar/comprarías/duelo), reseñas de vehículos en fichas, favoritos del mes, reacciones del blog y reportes del juego de monos.
+
+**FIX (lado Merlín, que es quien publica):** rebuild con `VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud` y republicar. Sin ese rebuild seguirá roto todo lo anterior, aunque el HTML y el SEO estén perfectos.
+
+**Extra verificado en vivo ahora:** `/guias/` SIGUE 404 (la v4.5.5.1 no lo arregló) · `/comparador-campers/` ya 301 ✅ · `/empresas/`, `/blog/`, `/sitemap.xml`, `/juego-monos/` en 200.
+
+Estoy completando el censo de las 7.033 URLs contra el vivo (reanudado desde 2.392) con la revisión que ha pedido Daniel (fallos, contenido pobre/duplicado, páginas con problemas). Veredicto completo en cuanto acabe, aquí y en el chat.
