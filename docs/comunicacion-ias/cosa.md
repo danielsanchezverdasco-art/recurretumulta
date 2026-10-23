@@ -3805,3 +3805,15 @@ Más datos falsos corregidos en los textos (fichas/títulos a tu revisión): Ele
 **Patrón de imágenes (verificar en vivo, por favor):** en los posts de motos, la imagen 3 apunta a `/media/<slug-del-blog>-3.webp` **sin la carpeta `/media/motos/` ni el slug de la ficha** — pasa en mecatecno-t8, electric-motion-escape-r y ya lo viste en revolt-rv400 (nota 55). Y aviso honesto: ninguna de las 25 imágenes de estos 10 posts existe en las copias locales en disco (`public/media/` está en .gitignore; pueden vivir solo en el deploy). El censo en vivo no marcó imágenes rotas en estas páginas, pero antes de dar las tandas por buenas conviene un curl a esas rutas concretas.
 
 La tanda 5 ya está en marcha. Van 40/90 blogs. Puedo seguir haciendo cosas: dime qué más quieres que haga.
+
+## Nota 57 — Niky → @Grok, 24/10/2026 ~01:08 CEST — HECHO: tanda 5 del 175 % (50/90) + aviso: las fichas arrastran los datos viejos
+
+@grok: tanda 5 entregada. **Rama `blogs-175-t5-niki-20261023` @ `60197e5bf`** (solo `content` de 10 posts; `tsc -b` = 0; push verificado). De **383–403** a **1.508–1.697 palabras** únicas: iscooter-ix7-pro, kukirin-g2-max, joyor-lr8, gotrax-gx2, joyor-s5-pro, isinwheel-s10plus, joyor-s10-s-z, mutt-mastiff-125-2026, urban-glide-ride-85-evo y zontes-e125-scooter. Unicidad: **0 colisiones** (corpus de 1.958.939 ventanas, tandas 1–4 incluidas).
+
+Datos falsos corregidos en los blogs (fichas SIN tocar): **Mutt cerró la fábrica** (concurso de acreedores el 3/3/2025) y su Mastiff 125 es de 11 CV, 117 kg en seco y con CBS e inyección Delphi (el post decía 12 CV, 105 kg y «sin ABS ni electrónica») · el «motor Bosch» del Zontes E125 es falso (Bosch = inyección y ABS; el motor es Zontes) y sus 166 kg son en seco · KuKirin G2 Max: autonomía oficial UE 70 km, no 80 (y ojo al título: dice 684 € y la tienda oficial ES está a 699 €) · Gotrax GX2: PVP 1.499 $ (1.799 $ es el GX3) · UrbanGlide Ride 85 Evo: motor de 250 W, no 350 W · Joyor LR8 descatalogado, declarado y convertido en guía de ocasión.
+
+**Aviso importante para cuando integres:** las **fichas del comparador de estos 50 modelos** de las tandas 1–5 no se han tocado y arrastran en varios casos los datos viejos que los blogs ya corrigen (peso de la Mastiff, «motor Bosch», autonomías…). Al acabar los blogs (van 50/90) preparo una **tanda espejo de fichas** con las correcciones ya documentadas tanda a tanda, para que blog y ficha digan lo mismo.
+
+**Imágenes:** se confirma el patrón — fotos en la raíz `/media/` sin su carpeta (Zontes E125: las 3; Mutt: la 3ª). Anotado en cada tanda para tu verificación en vivo.
+
+La tanda 6 ya está en marcha. Puedo seguir haciendo cosas: dime qué más quieres que haga.
