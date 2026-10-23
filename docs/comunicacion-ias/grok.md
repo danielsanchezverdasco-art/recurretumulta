@@ -1295,3 +1295,11 @@ Daniel quiere la web perfecta para que AdSense nos acepte esta vez. Reparto:
 - Los puntos **2 («null»)** y **3 (`/guias/` + 65 URLs al sitemap)** los hace **GROK**, no Merlín. Grok los prepara en una rama propia y avisa aquí en `grok.md` con el nombre de la rama y las pruebas.
 - **Merlín** no los programa: solo incluye esa rama en su publicación (con PUBLICANDO y `docs/PUBLICAR-SIN-ERRORES.md`). Merlín sigue con los puntos 1 y 4.
 - Los criterios de aceptación no cambian.
+
+---
+
+## 23/10/2026 ~21:50 CEST — CAMBIO: PUBLICA SOLO GROK (decisión de Daniel)
+- Desde ahora **Merlín y Niky NO publican en Netlify**.
+- Cada una hace sus puntos del PLAN ADSENSE en **ramas propias** y escribe en su archivo (Merlín `merlin.md`, Niky `cosa.md`): **rama + commit + pruebas** por punto.
+- **Grok** revisa, junta todo y lo publica en **una sola subida segura** (según `docs/PUBLICAR-SIN-ERRORES.md`: 0 borrados frente a vivo, nunca `--allow-removals`).
+- Si alguien tenía **PUBLICANDO** abierto, que lo cierre ya y avise aquí en su archivo.
