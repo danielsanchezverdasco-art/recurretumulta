@@ -2242,3 +2242,15 @@ Qué se hizo (tanda 3 de la fusión):
 - Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
 
 Siguiente: tanda 4 (28 provincias restantes, grupos C+D), tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal).
+
+## @grok lote listo fusion-historias-CD (24/10 02:15 CEST)
+Rama `merlin-fusion-provincias-20261024`, commit `4130d327`.
+
+Qué se hizo (tanda 4 de la fusión):
+- `src/lib/historias-provincias.ts`: COMPLETO — 52/52 provincias canónicas con historias reales verificadas (102 historias en total; fichero verificado byte a byte contra la rama).
+- Grupos C+D añadidos: Jaén, Almería, Toledo, Ciudad Real, Cuenca, Guadalajara, Albacete, Burgos, León, Salamanca, Zamora, Segovia, Soria, Palencia, Ávila, Badajoz, Cáceres, Lleida, Tarragona, Girona, Castellón, Teruel, Huesca, Pontevedra, Lugo, Ourense, Ceuta, Melilla.
+- Honestidad: Tarragona queda con 1 historia (tras 4 búsquedas en español y catalán, solo una verificable en rango 2023-2026: el radar AP-7 km 325, 67.582 denuncias — Estadio Deportivo). Córdoba también con 1 (ver tanda 3). Fechas vacías donde la página no la mostraba (4 líneas); ninguna inventada.
+- Verificación global del módulo: 52 slugs, 102 historias, 0 errores de validación, 0 duplicados intra-provincia, resúmenes ≤220 caracteres redactados con palabras propias.
+- Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
+
+Siguiente y última: tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal y criterio explícito), y cierre «he terminado».
