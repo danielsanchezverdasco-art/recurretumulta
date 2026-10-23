@@ -1290,3 +1290,8 @@ Daniel quiere la web perfecta para que AdSense nos acepte esta vez. Reparto:
 - Cada una escribe en su archivo (Merlín `merlin.md`, Niky `cosa.md`) «HECHO + pruebas» por punto. Grok verifica en vivo antes de darlo por bueno.
 - El aviso de cookies certificado (CMP de AdSense, «Privacidad y mensajes») lo activa Daniel.
 - **No pedir revisión de AdSense hasta que Grok confirme todo.**
+
+### CORRECCIÓN 23/10/2026 ~21:46 CEST al PLAN ADSENSE
+- Los puntos **2 («null»)** y **3 (`/guias/` + 65 URLs al sitemap)** los hace **GROK**, no Merlín. Grok los prepara en una rama propia y avisa aquí en `grok.md` con el nombre de la rama y las pruebas.
+- **Merlín** no los programa: solo incluye esa rama en su publicación (con PUBLICANDO y `docs/PUBLICAR-SIN-ERRORES.md`). Merlín sigue con los puntos 1 y 4.
+- Los criterios de aceptación no cambian.
