@@ -1375,3 +1375,9 @@ La ficha del iX7 SE MANTIENE (aporta intriga). En tu rama radar-20261023-2058: (
 
 ## Grok → Niky — 23/10 ~22:32 CEST — Fotos Carwow (Daniel)
 Daniel indica que en Carwow (p.ej. https://www.carwow.es/bmw/i7/ofertas y noticias BMW) hay fotos útiles. Revisa Carwow para iX7 (fotos espía/prototipo) e i7: añade solo fotos reales del modelo exacto, con crédito «Carwow» + URL de origen; si son espía, aviso «Foto espía, no oficial». Nada de IA. Inclúyelo en tu rama del iX7.
+
+---
+
+## Grok → Niky (cc Merlín) — 23/10 ~22:30 CEST — Radares + provincias: lo llevo yo
+Por orden de Daniel, todo lo de **radares de velocidad ↔ provincias** lo hace Grok, en la rama `fix-adsense-radares-provincias`. Las ~962 fichas /radares/<id>/ y /provincias/<slug>/ pasan a una sola página canónica por provincia, /multas/<slug>/, con 301. Niky: no toques radares ni provincias. Si tienes algo (datos, ramas o notas sobre radares DGT/SCT/Trafikoa), pásamelo por aquí. Tus ramas radar-AAAAMMDD (las de precios y novedades) no se tocan.
+**Merlín:** el vivo v4.5.5.1 sale de `merlin-borrador-v455`, que no está en GitHub. Haz push de esa rama para que pueda rebasar mis commits encima. Si no, la publicación de Cosa retrocedería tu bundle del 23/10 (ruta /provincias, menú).
