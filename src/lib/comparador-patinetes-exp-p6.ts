@@ -12,7 +12,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross Pro 2",
-    precioEur: null,
+    precioEur: 599.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -74,7 +74,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "eCross Go",
-    precioEur: null,
+    precioEur: 499, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 50,
@@ -136,7 +136,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Tarumo",
     marca: "Urban Glide",
     modelo: "All Road 6 2x2",
-    precioEur: null,
+    precioEur: 849.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 1600,
     potenciaPicoW: null,
     autonomiaKm: 80,
@@ -198,7 +198,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 Pro 2",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -232,6 +232,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Carga máxima no publicada",
       "Sin certificación DGT verificada",
       "Sin suspensiones específicas: en adoquines se nota",
+      "Sin precio oficial: la marca no publica PVP vigente de este modelo; solo aparecen precios de comparadores",
     ],
     veredicto:
       "El Ride 100 Pro 2 apuesta por la batería grande (624 Wh) en un formato urbano de 500 W. Buena opción si priorizas autonomía sobre peso; si lo vas a plegar y cargar a diario, mira antes alternativas de 15-17 kg.",
@@ -260,7 +261,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 Max",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -294,6 +295,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Acabados básicos acordes a su precio",
       "Sin suspensión: las ruedas de 10\" ayudan, pero no hacen milagros",
+      "Sin precio oficial: la marca no publica PVP vigente de este modelo; solo aparecen precios de comparadores",
     ],
     veredicto:
       "El Ride 100 Max es el mechero de la gama: 15 kg y unos 240 € para moverte por ciudad. Perfecto como primer patinete o para el último kilómetro; insuficiente si necesitas autonomía o potencia para cuestas.",
@@ -322,7 +324,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "TaytechTV",
     marca: "Urban Glide",
     modelo: "1000GT 2x2",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP vigente de este modelo descatalogado (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 2800,
     autonomiaKm: 100,
@@ -341,42 +343,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-1000gt-2x2-3.webp", alt: "Urban Glide 1000GT 2x2 en una carretera secundaria", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Doble motor de 1.000 W con picos de 2.800 W: prestaciones de gama alta",
-      "Batería de 1.217 Wh (52 V 23,4 Ah): 100 km declarados",
-      "Frenos hidráulicos: a la altura de su potencia",
-      "Desbloqueo NFC: seguridad extra",
-      "Ruedas de 11\": estabilidad a velocidad",
-      "Carga máxima de 120 kg",
-    ],
-    contras: [
-      "33,5 kg: un mueble con ruedas, imposible de cargar a mano",
-      "15 horas de carga completa: hay que planificar",
-      "No es un VMP urbano al uso: su hábitat son vías rápidas y campo",
-      "Sin certificación DGT: no apto para circular como VMP en España",
-      "Precio elevado para la marca (gama alta de Urban Glide)",
-      "El mantenimiento (hidráulicos, batería de 52 V) es más caro",
-    ],
+    pros: ["Tracción en las dos ruedas con un motor de 1.000 W por eje y techo de 1.400 W en cada uno cuando se le exige el máximo", "El pack de 52 V y 23,4 Ah suma 1.217 Wh y sostiene los 100 km oficiales, medidos por la marca con un conductor de 70 kg a 15 km/h de media", "Doble disco hidráulico, uno por rueda: la frenada está dimensionada para detener más de 33 kg empujados por 2.800 W de pico", "Arranque mediante llave NFC y pantalla de alta definición que muestra velocidad, modo de marcha y nivel de batería de un vistazo", "Intermitentes integrados, faro delantero y una tira LED bajo la plataforma que mejora la visibilidad lateral al caer la tarde", "Cubiertas todoterreno sin cámara y sellado IPX5: su sitio son pistas de tierra, caminos rotos y adoquín, no solo el asfalto liso"],
+    contras: ["La báscula de esta ficha marca 33,5 kg: subirlo a pulso a un piso sin ascensor no es un gesto diario asumible, se traslada rodando o no se traslada", "Llenar los 1.217 Wh lleva unas 15 horas, así que el patinete se enchufa al volver de la ruta y no cuando surge el plan de salir", "La marca lo limita a 25 km/h, pero en esta ficha no consta certificado DGT: su encaje como VMP para vía urbana en España hay que confirmarlo antes de comprarlo para ese uso", "En ciudad estorba más de lo que ayuda: tamaño, peso y una entrega de potencia pensada para campo abierto y pendientes de hasta 20 grados", "El PVP de la tienda oficial española es de 1.599,99 €: hay que querer exactamente este formato de doble motor para justificar ese desembolso", "Dos circuitos hidráulicos que purgar y un pack de 52 V que cuidar elevan la factura de taller frente a un urbano de disco mecánico y batería pequeña"],
     veredicto:
-      "El 1000GT 2x2 es el pepino de Urban Glide: 2.800 W de pico y más de 1,2 kWh de batería. No es un patinete urbano, es una máquina de prestaciones para quien sabe lo que compra y dónde puede usarla legalmente.",
+      "UrbanGlide coloca el 1000GT 2x2 como su demostración de fuerza a 1.599,99 €: dos motores que suman 2.000 W nominales, 1.217 Wh bajo la plataforma y 100 km oficiales obtenidos con un conductor de 70 kg a 15 km/h de media. En uso real esta ficha estima unos 68 km, y a cambio el modelo pide enchufes de unas 15 horas y convivir con más de 33 kg. Encaja como máquina de ocio para pistas, caminos y fincas; como VMP urbano en España, sin certificado DGT acreditado en esta ficha, la compra exige comprobar antes por dónde podrá circular legalmente.",
     fuenteNombre: "UrbanGlide",
     fuenteUrl: "https://www.urbanglide.com",
-    mantenimientoDIY: {
-      intervaloRevision: "Antes de cada uso: comprobar que todas las piezas están bien montadas y en buen estado (manillar, frenos, ruedas, luces)",
-      presionNeumaticos: "Presión máxima de inflado: 6,40 bar (ver el valor indicado en el lateral del neumático)",
-      ajusteFrenosPasos: [
-        "Comprobar el juego de la maneta de freno y el estado de discos y pastillas",
-        "Sustituir los discos si el espesor baja de 2,5 mm o hay ruido anormal al frenar",
-        "Prueba de frenada: circular a 15 km/h y frenar en 1 m; el patinete debe detenerse",
-        "Para los ajustes básicos, el manual remite a los videotutoriales del canal de YouTube «UrbanGlide Channel»",
-      ],
-      aprieteTornilleria: "Comprobar que el manillar y la potencia están correctamente apretados, y que los tornillos, pernos y tuercas están bien apretados",
-      trucos: [
-        "La batería mantiene un rendimiento estable durante unos 750 ciclos de carga (≈3 años de uso medio)",
-        "Sustituir los neumáticos si pierden su forma original o presentan grietas, cortes u otros signos de desgaste",
-        "Evitar la lluvia intensa: los componentes eléctricos no deben sumergirse en agua",
-      ],
-    },
+    mantenimientoDIY: {"ajusteFrenosPasos": ["Acciona cada maneta por separado y verifica que su disco muerde sin que la palanca llegue a rozar el puño: un tacto esponjoso en cualquiera de los dos circuitos apunta a aire dentro y pide purgado", "Mide el grosor de ambos discos con un calibre: el criterio de sustitución de los manuales de UrbanGlide lo fija por debajo de 2,5 mm, y aquí hay dos discos que vigilar en vez de uno", "Repite la prueba de detención que describe el manual de la marca sobre suelo llano: lanzado a 15 km/h, el conjunto debe quedar parado en torno a un metro combinando los dos hidráulicos", "Para purgar el circuito o cambiar pastillas, la marca deriva a los videotutoriales de su canal UrbanGlide Channel y a su soporte técnico en España: con 2.800 W de pico, rodar con un freno a medias no admite apaños"], "aprieteTornilleria": "Rodar por pistas afloja lo que en asfalto aguanta meses: reaprieta la potencia que une el manillar con la barra de LED azulada, los ejes que fijan ambos motores y los tornillos de las pinzas de freno antes de que aparezca la primera holgura", "intervaloRevision": "Antes de rodar con el 1000GT, repasa lo que su potencia no perdona: que ninguna rueda gire frenada al moverla a mano, que las dos manetas hidráulicas respondan con tacto firme y que la llave NFC desbloquee la pantalla al primer acercamiento", "presionNeumaticos": "En las cubiertas todoterreno sin cámara de este modelo manda la cifra grabada en el propio flanco: infla hasta alcanzarla y comprueba que el talón asienta de forma uniforme en todo el contorno de la llanta", "trucos": ["Con recargas completas de unas 15 horas, la planificación manda: enchúfalo al regresar y calcula la siguiente salida larga contando hacia atrás desde la hora de partida", "El sellado IPX5 protege de salpicaduras y del polvo de pista, no de inmersiones: tras una salida con barro, limpia con un paño húmedo y seca bien los conectores antes de guardarlo", "Si va a dormir una temporada parado, los manuales de UrbanGlide piden no abandonarlo descargado: una recarga al menos cada tres meses y almacenaje lejos de temperaturas extremas"]},
   },
   {
     id: "urban-glide-all-road-2",
@@ -384,7 +357,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "All Road 2",
-    precioEur: null,
+    precioEur: 499.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -446,7 +419,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross One",
-    precioEur: null,
+    precioEur: 549.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -508,7 +481,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Sam Stéphane",
     marca: "Urban Glide",
     modelo: "Ride 85 Evo",
-    precioEur: null,
+    precioEur: 349.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 20,
@@ -570,7 +543,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "E-Cross Pro Boost 2",
-    precioEur: 650,
+    precioEur: 649.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: 1600,
     autonomiaKm: 60,
@@ -588,7 +561,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-2.webp", alt: "Detalle de las seis suspensiones del Urban Glide E-Cross Pro Boost 2", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-3.webp", alt: "Urban Glide E-Cross Pro Boost 2 en un sendero", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW"],
     pros: [
       "Doble motor (2x800 W, 1.600 W de pico): tracción total real",
       "Seis suspensiones (4 delanteras + 2 traseras): comodidad máxima",
@@ -632,7 +605,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "500CT",
-    precioEur: null,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 70,
@@ -666,6 +639,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Disponibilidad limitada fuera de Francia/Bélgica",
       "Diseño funcional, sin el equipamiento (intermitentes) de los eCross",
+      "Sin precio oficial publicado por la marca; lo que circula son precios de tiendas francesas y comparadores",
     ],
     veredicto:
       "El 500CT es el rutero de Urban Glide: 720 Wh y 70 km declarados para quien hace kilómetros de verdad. Si la autonomía es tu prioridad número uno y no te importa el peso, es difícil darle más por menos.",
@@ -694,7 +668,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "All Road 5",
-    precioEur: 510,
+    precioEur: 509.99, // precio en Boulanger, retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -712,7 +686,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-all-road-5-2.webp", alt: "Detalle de la suspensión trasera del Urban Glide All Road 5", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-all-road-5-3.webp", alt: "Urban Glide All Road 5 en un camino rural", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W con 40 km de autonomía: equilibrio potencia/alcance",
       "Suspensión trasera y ruedas de 10\": cómodo en firmes rotos",
@@ -756,7 +730,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "eCross Pro XS",
-    precioEur: 550,
+    precioEur: 549.99, // precio en retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -774,7 +748,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-2.webp", alt: "Detalle del chasis del Urban Glide eCross Pro XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-3.webp", alt: "Urban Glide eCross Pro XS en ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "800 W en formato eCross compacto",
       "40 km declarados para el día a día",
@@ -818,7 +792,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100 City",
-    precioEur: 240,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: null,
     autonomiaKm: 35,
@@ -836,7 +810,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ride-100-city-2.webp", alt: "Detalle del manillar del Urban Glide Ride 100 City", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ride-100-city-3.webp", alt: "Urban Glide Ride 100 City en el centro de la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "700 W por unos 240 €: potencia de derribo en precio",
       "35 km declarados, de sobra para commuting",
@@ -852,6 +826,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Acabados básicos",
       "Sin datos de tiempo de carga",
       "Poca presencia en tiendas españolas",
+      "Sin precio oficial publicado por la marca; lo que circula son precios sueltos de comparadores",
     ],
     veredicto:
       "El Ride 100 City es carne de oferta: 700 W por 240 €. La ficha técnica que publica la marca es escasa, así que conviene verlo en persona antes de comprar. Como patinete barato para ciudad, la ecuación precio/potencia es imbatible.",
@@ -880,7 +855,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "100 Shark",
-    precioEur: 300,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -898,7 +873,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-100-shark-2.webp", alt: "Detalle del Urban Glide 100 Shark", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-100-shark-3.webp", alt: "Urban Glide 100 Shark en una calle urbana", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "700 W y batería de 10 Ah por unos 300 € en Amazon Francia",
       "Formato compacto de la serie 100",
@@ -914,6 +889,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Solo disponible en marketplace francés",
       "Ficha técnica muy incompleta",
+      "Sin precio oficial publicado por la marca; solo se ve en marketplaces franceses",
     ],
     veredicto:
       "El 100 Shark se vende por su precio (300 €) y sus 700 W, pero Urban Glide no publica ni la autonomía. Solo para compradores que prioricen el precio por encima de todo y puedan probarlo antes.",
@@ -942,7 +918,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "EON X",
-    precioEur: 1480,
+    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 4000,
     autonomiaKm: 140,
@@ -960,7 +936,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-eon-x-2.webp", alt: "Detalle de las ruedas de 12 pulgadas del Urban Glide EON X", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-eon-x-3.webp", alt: "Urban Glide EON X en una pista forestal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "2.200 W nominales con picos de 4.000 W: lo más potente de Urban Glide",
       "Batería de 1.800 Wh (60 V 30 Ah): 140 km declarados",
@@ -970,7 +946,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Alternativa europea a los hyper-scooters chinos",
     ],
     contras: [
-      "Unos 1.480 €: el Urban Glide más caro con diferencia",
+      "Sin precio oficial publicado por la marca para el EON X; los precios de tiendas extranjeras varían mucho",
       "Peso no publicado, pero con 1,8 kWh será muy pesado",
       "Tiempo de carga no publicado; con 1.800 Wh, larguísimo",
       "Sistema de frenado no detallado para 4.000 W de pico",
@@ -1004,7 +980,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "UrbanRide 85+",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger vendido por UrbanGlide (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1022,7 +998,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-2.webp", alt: "Detalle de las suspensiones del Urban Glide UrbanRide 85+", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-3.webp", alt: "Urban Glide UrbanRide 85+ en un carril bici", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Suspensiones y buena señalización: lo destacan los usuarios",
       "30 km declarados, el doble que el 85 City",
@@ -1066,7 +1042,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "UrbanRide 85 City",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger, retailer oficial en Francia (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 15,
@@ -1084,7 +1060,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-city-2.webp", alt: "Detalle del freno trasero del Urban Glide UrbanRide 85 City", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-city-3.webp", alt: "Urban Glide UrbanRide 85 City en una zona peatonal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Freno de disco trasero y potente luz LED: bien equipado en seguridad",
       "Carga en unas 4 horas",
@@ -1128,7 +1104,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "Ride 100XS",
-    precioEur: 240,
+    precioEur: 239.99, // precio en Boulanger vendido por UrbanGlide (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1146,7 +1122,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ride-100xs-2.webp", alt: "Detalle del Urban Glide Ride 100XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ride-100xs-3.webp", alt: "Urban Glide Ride 100XS plegado junto a una puerta", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur"],
+    aprox: [],
     pros: [
       "Cuatro modos de velocidad adaptables al uso",
       "Formato compacto XS: el más portable de la gama Ride",
@@ -1190,7 +1166,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "Tiger 10 GTR",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: 3800,
     autonomiaKm: 110,
@@ -1209,33 +1185,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/hiley-tiger-10-gtr-3.webp", alt: "Hiley Tiger 10 GTR en una carretera de montaña", ancho: 1200, alto: 800 },
     ],
     aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaRealKm"],
-    pros: [
-      "Doble motor (2x1.400 W, picos de 2x1.900 W): aceleración brutal",
-      "Batería de 1.800 Wh (60 V 30 Ah): hasta 110 km declarados",
-      "Frenos hidráulicos NUTT: a la altura de la potencia",
-      "Suspensión hidráulica: comodidad en cualquier firme",
-      "Neumáticos anchos de 10x3\": agarre y estabilidad",
-      "Vendido limitado a 25 km/h: usable como VMP",
-    ],
-    contras: [
-      "34,6 kg: imposible de cargar a mano",
-      "Precio elevado (gama alta de Hiley, unos 1.600-1.800 € en Europa)",
-      "Tiempo de carga no publicado; con 1,8 kWh será muy largo",
-      "Sin certificación DGT verificada",
-      "Excesivo para ciudad: es un hyper-scooter",
-      "El mantenimiento de hidráulicos y batería de 60 V es caro",
-    ],
+    pros: ["Tracción en las dos ruedas con 1.400 W por motor: el GTR reparte 2.800 W nominales entre ambos ejes", "El paquete de 60 V y 30 Ah suma 1.800 Wh, su mayor argumento para encadenar salidas largas sin recargar", "Pinzas hidráulicas NUTT en las dos ruedas, el frenado que exige un conjunto que anuncia 3.800 W de pico", "Amortiguación hidráulica en ambos trenes para que el conjunto no rebote cuando el firme se rompe", "Cubiertas anchas de 10x3 pulgadas: más huella de contacto que las de 10 pulgadas estrechas del Tiger 10 Pro", "Sale de tienda limitado a 25 km/h, así que en España se usa dentro del marco VMP pese a su formato desmedido"],
+    contras: ["Sus 34,6 kg obligan a pensarlo como un vehículo que se aparca, no que se sube a un piso entre los brazos", "Sin PVP publicado en España: las referencias europeas que maneja esta ficha lo sitúan sobre 1.600-1.800 €, lejos de un utilitario", "Recargar 1,8 kWh desde vacío lleva su tiempo y Hiley no declara las horas: toca planificar la carga de noche, no entre recados", "El campo de certificado DGT figura sin verificar: antes de pagarlo conviene exigir al vendedor el certificado de circulación por escrito", "Con 120 kg de carga máxima admitida, un piloto corpulento con mochila ya roza el límite que declara la propia ficha", "Mantener dos motores, los hidráulicos NUTT y una batería de 60 V sale más caro que cuidar un monomotor urbano sencillo"],
     veredicto:
-      "El Tiger 10 GTR es el tope de gama de Hiley: 3.800 W de pico y 110 km declarados. Un hyper-scooter en toda regla para aficionados exigentes; para ir a comprar el pan, cualquier otro patinete de esta lista es más sensato.",
+      "El Tiger 10 GTR corona la familia Tiger de Hiley juntando doble motor de 2.800 W nominales, 3.800 W de pico, pantalla TFT central a color y una batería de 1.800 Wh con 110 km declarados y unos 75 km reales estimados. Es una máquina de rutas largas y firmes variados para quien asume sus 34,6 kg; como patinete de recados, su peso y su precio lo descalifican solos.",
     fuenteNombre: "Hiley / ElectroTraveller",
     fuenteUrl: "https://www.hiley.es",
-    mantenimientoDIY: {
-      intervaloRevision: "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
-      trucos: [
-        "Detener la marcha de inmediato si: el motor se calienta de forma anormal, hay error de frenada, aparecen mensajes de error en el panel, ruido anormal, humo u olor",
-        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente",
-      ],
-    },
+    mantenimientoDIY: {"intervaloRevision": "En este GTR la revisión se centra en lo que más trabaja: pastillas y líquido de los frenos hidráulicos NUTT, holgura del cierre de plegado, apriete de los ejes de ambos motores y desgaste de las cubiertas 10x3, que soportan los 34,6 kg del conjunto", "trucos": ["Si un motor deja de empujar o una maneta NUTT pierde tacto, aparca el GTR y no sigas rodando: con 3.800 W de pico, un fallo de frenada o de tracción no se compensa bajando el ritmo", "Cuida la batería de 60 V y 30 Ah evitando guardarla descargada tras las salidas largas: con unos 75 km reales estimados por carga, es el componente más caro de sustituir en este modelo"]},
   },
   {
     id: "hiley-tiger-supra-pro",
@@ -1243,7 +1199,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Trail Tested",
     marca: "Hiley",
     modelo: "Tiger Supra Pro",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 3200,
     potenciaPicoW: 4600,
     autonomiaKm: 120,
@@ -1273,7 +1229,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     contras: [
       "No es un VMP: a 85 km/h no puede circular por ciudad en España",
       "Sin certificación DGT: solo circuito o vías privadas",
-      "38 kg y precio de gama alta (más de 2.000 €)",
+      "38 kg y sin precio oficial en Europa: Hiley no publica PVP del Supra Pro",
       "Tiempo de carga no publicado",
       "Seguro y mantenimiento de nivel moto",
       "Sobrepotenciado para cualquier uso urbano legal",
@@ -1296,7 +1252,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "MaxSpeed X10",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -1315,33 +1271,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/hiley-maxspeed-x10-3.webp", alt: "Hiley MaxSpeed X10 en una vía interurbana", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Batería de 873 Wh: 50 km declarados con 600 W",
-      "45 km/h de velocidad máxima: rápido para su potencia",
-      "Ruedas de 10\"",
-      "8,5 horas de carga para casi 900 Wh: cargador decente",
-      "Buen equilibrio peso/autonomía para commuting largo",
-      "La gama MaxSpeed tiene buena fama de fiabilidad",
-    ],
-    contras: [
-      "45 km/h: no es un VMP legal en España (límite 25 km/h)",
-      "Sin certificación DGT",
-      "Peso y carga máxima no publicados",
-      "Sistema de frenado no detallado",
-      "Precio no publicado en España",
-      "A 45 km/h exige casco y mucha prudencia",
-    ],
+    pros: ["Su batería de 48 V y 18,2 Ah suma 873 Wh y deja unos 34 km reales por carga: puedes encadenar varios días de trayectos cortos o un desplazamiento largo sin vivir pegado al enchufe", "Lleva freno de disco delantero y trasero con corte eléctrico de potencia, una frenada a la altura de un patinete que declara 45 km/h y no el freno único habitual en modelos de 600 W", "Combina suspensión delantera con doble suspensión trasera ajustable y neumáticos inflables de 10 pulgadas, así que los kilómetros seguidos no se traducen en vibraciones constantes en pies y muñecas", "Sus 3 modos de velocidad permiten dosificar los 600 W: modo suave para maniobrar entre gente y modo alto para aprovechar su capacidad de subir pendientes de hasta 15° según su distribuidor"],
+    contras: ["Declara 45 km/h en esta ficha, el doble casi del límite de 25 km/h de un VMP en España, y no consta certificado DGT: tal cual viene, no es un patinete legal para vía pública española", "Entre los 50 km anunciados y los 34 km reales hay un 32 % menos: si planificas un trayecto de 40 km confiando en la cifra oficial, te quedarás empujando antes de llegar", "Recargar sus 873 Wh lleva 8,5 horas, así que una carga olvidada por la noche no se compensa con una pausa breve por la mañana antes de salir", "En España no hay precio oficial publicado para este X10 y su ficha tampoco recoge peso ni carga máxima oficiales: compras a ciegas en dos datos que condicionan si podrás subirlo a pulso o si te admite sin ir justo"],
     veredicto:
-      "El MaxSpeed X10 es el rutero rápido de Hiley: 873 Wh y 45 km/h. Perfecto para vías interurbanas donde se pueda ir rápido legalmente; en ciudad española, sus 45 km/h lo dejan fuera de la normativa VMP.",
+      "Con un motor de 600 W y una batería de 873 Wh que en uso real se queda en unos 34 km frente a los 50 km declarados, el MaxSpeed X10 está pensado para trayectos largos sin cargar cada noche y para rodar rápido donde esté permitido. Es para quien lo va a usar en recinto privado o en vías donde sus 45 km/h sean legales y valora la doble suspensión y el doble disco; no es para quien necesite un VMP para circular por una ciudad española, porque supera el límite de 25 km/h y en su ficha no consta certificado DGT.",
     fuenteNombre: "Hiley",
     fuenteUrl: "https://www.hiley.es",
-    mantenimientoDIY: {
-      intervaloRevision: "Inspección periódica de los consumibles: suspensión, neumáticos, cámaras, ruedas, rodamientos, discos, pastillas de freno, cables y piezas de plegado",
-      trucos: [
-        "Detener la marcha de inmediato si: el motor se calienta de forma anormal, hay error de frenada, aparecen mensajes de error en el panel, ruido anormal, humo u olor",
-        "Las piezas que superan su vida útil pueden provocar accidentes: respetar el plan de sustitución de cada componente",
-      ],
-    },
+    mantenimientoDIY: {"actualizacionFirmware": "No documentada por el fabricante: ni Hiley ni el distribuidor consultado describen actualización OTA ni por aplicación para el MaxSpeed X10; la gestión se hace desde su pantalla LCD y sus 3 modos de velocidad", "trucos": ["Ajusta la doble suspensión trasera a tu peso y al firme que sueles pisar y comprueba la delantera en la misma revisión: en este modelo es regulable y, junto a los neumáticos inflables de 10 pulgadas, es lo que separa un trayecto de 30 km cómodo de uno machacón", "Revisa por separado las pastillas de los discos delantero y trasero: a 45 km/h el desgaste no es simétrico y un disco que muerde menos que el otro se nota en forma de tirón al frenar fuerte", "Enchúfalo nada más llegar y no lo dejes días a cero: sus 873 Wh necesitan 8,5 horas para llenarse, así que la carga del X10 se organiza la noche anterior, no en el rato del desayuno"]},
   },
   {
     id: "hiley-maxspeed-x8",
@@ -1349,7 +1285,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Hiley Mobility",
     marca: "Hiley",
     modelo: "MaxSpeed X8",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1383,6 +1319,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "400 W justos en cuestas",
       "Frenos y carga máxima no detallados",
       "Autonomía real de unos 20 km",
+      "Sin precio oficial en España: Hiley no publica PVP del MaxSpeed X8",
     ],
     veredicto:
       "El MaxSpeed X8 es el peso pluma de Hiley: 14 kg y 33 km/h. Divertido y portable, pero sus 33 km/h lo sacan de la normativa VMP española. Para ciudad legal, mejor un 25 km/h certificado.",
@@ -1402,7 +1339,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Careless Kingdom",
     marca: "Hiley",
     modelo: "Tiger 10 Pro",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -1434,7 +1371,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; con doble motor será pesado",
       "Tiempo de carga no publicado",
       "Sin certificación DGT verificada",
-      "Precio elevado (gama alta)",
+      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Pro",
       "Excesivo si solo vas a hacer ciudad tranquila",
     ],
     veredicto:
@@ -1455,7 +1392,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "Tiger 10 Lite",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 3600,
     autonomiaKm: 100,
@@ -1489,6 +1426,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tiempo de carga no publicado",
       "A 65 km/h el riesgo se multiplica: casco integral y protecciones",
       "Mantenimiento de gama alta",
+      "Sin precio oficial en Europa: Hiley no publica PVP del Tiger 10 Lite",
     ],
     veredicto:
       "El Tiger 10 Lite es el 'pequeño' de los Tiger gordos: 3.600 W de pico y 65 km/h por menos que el GTR. Una máquina seria para vías rápidas privadas; en la vía pública española, ilegal por velocidad.",
@@ -1508,7 +1446,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Never Wheel Up",
     marca: "Hiley",
     modelo: "Tiger 8 GT-R V4",
-    precioEur: null,
+    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: 2400,
     autonomiaKm: 60,
@@ -1542,6 +1480,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Frenos de tambor + eABS: justos para 2.400 W de pico",
       "7-9 horas de carga",
       "Disponibilidad limitada (Pixmania, reacondicionado)",
+      "Sin precio oficial en España: solo se ve en marketplaces y reacondicionado",
     ],
     veredicto:
       "El Tiger 8 GT-R V4 es el doble motor compacto: 2.400 W de pico en 26 kg con ruedas antipinchazo. Ideal para quien quiere tracción total sin cargar con 35 kg; lástima que sus 50 km/h lo dejen fuera de la ley VMP.",
@@ -1559,9 +1498,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     id: "smartgyro-raptor-dual-evo",
     videoId: "dM8J3HjSHdc",
     videoCanal: "smartGyro",
-    marca: "Smartgyro",
+    marca: "SmartGyro",
     modelo: "Raptor Dual Evo",
-    precioEur: 949,
+    precioEur: null, // sin PVP oficial verificable de Smartgyro para este modelo (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2800,
     autonomiaKm: 60,
@@ -1579,25 +1518,11 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-2.webp", alt: "Detalle de los frenos hidráulicos del Smartgyro Raptor Dual Evo", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-3.webp", alt: "Smartgyro Raptor Dual Evo en una pista", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
-    pros: [
-      "Doble motor de 48 V (1.000 W nominales, 2.800 W de pico): tracción total",
-      "Certificado por la DGT: circula legal como VMP",
-      "Batería de 768 Wh (48 V 16 Ah): 60 km declarados",
-      "Frenos hidráulicos + regenerativa: frenada de primer nivel",
-      "Neumáticos tubeless de 10\" y suspensión por elastómeros",
-      "Carga máxima de 140 kg, de las más altas",
-    ],
-    contras: [
-      "30,4 kg: muy pesado para moverlo a mano",
-      "8 horas de carga completa",
-      "949 €: precio alto dentro de Smartgyro",
-      "La autonomía real con doble motor baja de los 60 km",
-      "Voluminoso: ocupa mucho plegado",
-      "El doble motor gasta más aunque vayas tranquilo",
-    ],
+    aprox: ["autonomiaRealKm"],
+    pros: ["Tracción en las dos ruedas con dos motores de 500 W cada uno: los 1.000 W nominales y los 2.800 W de pico se notan arrancando en rampas cargado, sin depender solo del empuje trasero", "Frenada hidráulica en ambos ejes apoyada por la regenerativa: detiene con mordiente un conjunto de 30,4 kg que además puede llevar a un conductor de hasta 140 kg", "Pack de 768 Wh (48 V y 16 Ah) con 60 km declarados y unos 41 km reales en uso mixto: permite encadenar varios días de trayectos urbanos sin recargar cada noche", "Certificado por la DGT y listo de serie para circular legal en España, con intermitentes accionables desde el manillar, iluminación Full Line en mástil y base y app con bloqueo antirrobo"],
+    contras: ["Los 30,4 kg lo sacan de cualquier rutina con escaleras o maletero alto: incluso plegado es un bulto grande que se desplaza rodando, no cargándolo a pulso", "Reponer los 768 Wh lleva unas 8 horas, así que si lo dejas seco por la mañana no vuelve a estar operativo para un segundo uso intensivo esa misma tarde", "Con los dos motores trabajando la autonomía real se queda en unos 41 km frente a los 60 km oficiales: cada salida exigente en modo dual se paga en consumo", "A 949 € pagas un segundo motor que en llano a 25 km/h apenas se aprovecha: si tu ciudad es plana, el sobreprecio frente al Raptor Evo de un solo motor no se amortiza"],
     veredicto:
-      "El Raptor Dual Evo es el doble motor con papeles: tracción total, hidráulicos y certificación DGT por 949 €. Si quieres un 2x2 legal en España, es la referencia; si no necesitas el segundo motor, el Raptor Evo normal pesa y cuesta menos.",
+      "Por 949 €, el Raptor Dual Evo es para quien necesita empuje real en cuestas: suma 1.000 W nominales con picos de 2.800 W y admite hasta 140 kg de carga, sin perder la certificación DGT ni el límite legal de 25 km/h. Sus unos 41 km reales y la frenada hidráulica lo sostienen como transporte diario serio, siempre que no haya escaleras de por medio. Si tu ruta es plana, pesas poco o tienes que subirlo a un piso cada día, sus 30,4 kg y las 8 horas de recarga lo descartan frente a un monomotor más ligero y barato.",
     fuenteNombre: "Smartgyro",
     fuenteUrl: "https://www.smartgyro.es",
     mantenimientoDIY: {
@@ -1615,7 +1540,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Doble Y85 2x2 XXL Connected",
-    precioEur: 999,
+    precioEur: 999, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2100,
     autonomiaKm: 85,
@@ -1633,7 +1558,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-2.webp", alt: "Detalle del doble motor del Cecotec Bongo Doble Y85 2x2 XXL Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-3.webp", alt: "Cecotec Bongo Doble Y85 2x2 XXL Connected en el campo", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Doble motor de 500 W (2.100 W de pico): tracción total",
       "Batería de 874 Wh (48 V 18,2 Ah): 85 km declarados",
@@ -1678,7 +1603,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z75",
-    precioEur: 1199,
+    precioEur: 1329, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2200,
     autonomiaKm: 75,
@@ -1696,7 +1621,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-2.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-3.webp", alt: "Cecotec Bongo Serie Doble Z75 en carretera", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Doble motor con 2.200 W de pico: el Bongo más potente",
       "Batería de 960 Wh (60 V 16 Ah): 75 km declarados",
@@ -1706,7 +1631,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tracción doble para cualquier pendiente",
     ],
     contras: [
-      "1.199 € en Amazon (1.329 € en Cecotec): precio alto",
+      "1.329 € en la tienda oficial de Cecotec: precio alto",
       "Certificación DGT no verificada en la lista oficial",
       "Peso no publicado; será elevado",
       "Tiempo de carga no publicado",
@@ -1741,7 +1666,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: null,
+    precioEur: 1299, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,
@@ -1769,7 +1694,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "El Bongo definitivo para rutas largas",
     ],
     contras: [
-      "Precio no publicado en España (en Amazon ronda los 1.200-1.300 €)",
+      "1.299 € en la tienda oficial de Cecotec (agotado): precio alto",
       "Certificación DGT no verificada",
       "Peso no publicado; con 1,2 kWh será muy pesado",
       "Tiempo de carga no publicado; será larguísimo",
@@ -1804,7 +1729,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie Z Off Road",
-    precioEur: null,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -1838,6 +1763,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; será alto",
       "Sin certificación DGT verificada",
       "La batería extraíble grande pesa lo suyo al transportarla",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa",
     ],
     veredicto:
       "El Z Off Road es el Bongo más especial: ruedas de 12\", bambú y batería extraíble. Para amantes del campo y del diseño diferente; si buscas datos y potencia bruta, la serie Doble Z te espera.",
@@ -1867,7 +1793,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: null,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -1930,7 +1856,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie X45 Sport Connected",
-    precioEur: 419,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 45,
@@ -1948,7 +1874,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-2.webp", alt: "Detalle del Cecotec Bongo Serie X45 Sport Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-3.webp", alt: "Cecotec Bongo Serie X45 Sport Connected en marcha", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Solo 16 kg: ligero para 45 km declarados",
       "450 W nominales con picos de 900 W",
@@ -1964,6 +1890,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Diseño 'SUV' voluminoso para ser ligero",
       "45 km declarados se quedan en unos 30 reales",
       "Sin doble disco: disco + e-ABS",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa vigente",
     ],
     veredicto:
       "El X45 Sport Connected es el peso ligero con autonomía: 16 kg y 45 km declarados por 419 €. Perfecto para commuting si pesas menos de 100 kg; para más peso o más certeza DGT, sube de gama.",
@@ -1993,7 +1920,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo D30 XL Connected",
-    precioEur: 139,
+    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 650,
     autonomiaKm: 30,
@@ -2011,7 +1938,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-2.webp", alt: "Detalle del Cecotec Bongo D30 XL Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-3.webp", alt: "Cecotec Bongo D30 XL Connected aparcado", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Homologado por la DGT: circula legal",
       "139 € en oferta en Carrefour: el DGT más barato",
@@ -2026,7 +1953,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "30 km declarados se quedan en unos 20 reales",
       "Tiempo de carga no publicado",
       "Acabados básicos",
-      "El precio de 139 € es oferta; el PVP ronda los 239 €",
+      "Sin precio oficial: Cecotec ya no lo comercializa ni publica tarifa vigente",
     ],
     veredicto:
       "El D30 XL Connected es el chollo con papeles: homologado DGT, ruedas de 10\" y 30 km declarados por 139 € en oferta. El patinete urbano barato que sí puedes usar legalmente; no le pidas cuestas ni 120 kg.",
@@ -2056,7 +1983,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Electron Surfer",
     marca: "Speedway",
     modelo: "Leger Pro",
-    precioEur: 800,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1450,
     autonomiaKm: 75,
@@ -2074,7 +2001,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/speedway-leger-pro-2.webp", alt: "Detalle del Speedway Leger Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/speedway-leger-pro-3.webp", alt: "Speedway Leger Pro en una avenida", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
       "Batería de 1.081 Wh (52 V): 75 km declarados, una barbaridad",
       "Solo 20 kg con más de 1 kWh: récord de densidad",
@@ -2090,6 +2017,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sin certificación DGT verificada",
       "Minimotors tiene servicio técnico limitado en España",
       "20 kg con batería enorme: si falla, la reparación es cara",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Leger Pro es el rutero definitivo: 1.081 Wh en 20 kg. Si haces 40+ km al día y no quieres cargar cada noche, no hay nada parecido. La frenada de tambor es su único pero serio.",
@@ -2116,7 +2044,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Speedway",
     modelo: "Leger",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1360,
     autonomiaKm: 48,
@@ -2176,7 +2104,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Guy in a Mountain",
     marca: "Speedway",
     modelo: "Mini 4 Pro",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 1360,
     autonomiaKm: 48,
@@ -2236,7 +2164,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "escooter-haus",
     marca: "SXT",
     modelo: "Light Plus V",
-    precioEur: null,
+    precioEur: null, // SXT no publica tarifa oficial para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -2282,7 +2210,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Freshly Charged",
     marca: "Segway",
     modelo: "SuperScooter GT3 Pro",
-    precioEur: null,
+    precioEur: 2599, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 3400,
     potenciaPicoW: 7000,
     autonomiaKm: 138,
@@ -2313,7 +2241,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "53,1 kg: una moto sin asiento",
       "80 km/h: no puede circular legalmente en España",
       "Sin certificación DGT",
-      "2.699 $ en EE. UU.: precio de moto",
+      "2.599 € en la tienda oficial de Segway en España: precio de moto",
       "8 horas de carga",
       "Excesivo para cualquier uso urbano",
     ],
@@ -2328,7 +2256,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 II",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -2347,24 +2275,10 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/segway-ninebot-f2-ii-3.webp", alt: "Segway Ninebot F2 II en una ciudad española", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm", "bateriaWh", "tiempoCargaH"],
-    pros: [
-      "Certificado DGT (B1103): circula legal en España",
-      "Intermitentes con homologación e-Mark: seguridad de coche",
-      "Neumáticos tubeless de 10\": antipinchazo",
-      "Compatible con Apple Find My: localízalo si te lo roban",
-      "17,3 kg: ligero para su equipamiento",
-      "40-45 km declarados con 400 W eficientes",
-    ],
-    contras: [
-      "400 W nominales: justos en cuestas pronunciadas",
-      "6,5 horas de carga",
-      "La autonomía real ronda los 30 km",
-      "Carga máxima no publicada",
-      "Precio no publicado en España (en Amazon ronda los 500 €)",
-      "Sin suspensión: las ruedas de 10\" hacen lo que pueden",
-    ],
+    pros: ["Con el certificado DGT B1103 ya de serie no necesitas buscar una versión homologada aparte: tal cual sale de la caja circula como VMP en España, limitado a los 25 km/h legales", "La suspensión delantera de doble muelle con 30 mm de recorrido, que el F2 original no llevaba, trabaja junto a los neumáticos de 10 pulgadas y 60 mm de ancho para que adoquines y juntas no te lleguen directos a las muñecas", "Integra intermitentes en el manillar ancho de 570 mm y compatibilidad con Apple Find My: señalizas el giro sin soltar las manos y, si tienes iPhone, localizas el patinete desde la app Encontrar", "Mantiene los 17,3 kg pese a subir a 400 W nominales y conservar la batería de 367 Wh, así que sigue siendo asumible para plegarlo, meterlo en el maletero o combinarlo con metro y cercanías"],
+    contras: ["Su pendiente máxima oficial es del 18 % y los 400 W nominales se quedan justos en rampas sostenidas, sobre todo con un conductor cercano a los 100 kg de carga máxima que Segway declara para esta generación", "Repite la batería de 367 Wh del F2 original pese a ganar potencia: en uso real se queda en unos 30 km, lejos de los 460 Wh y los 65 km en ECO de su hermano F2 Pro II si necesitas margen de sobra", "Recargar por completo pide 6,5 horas y no hay carga rápida que salve un olvido: si te quedas seco por la mañana, no lo resuelves en la pausa del café", "Su función estrella de localización solo la aprovechas con ecosistema Apple —exige iOS 14,5 o posterior—; con Android te quedas sin Find My y dependes de un candado físico de toda la vida"],
     veredicto:
-      "El F2 II es el urbano con papeles y cerebro: DGT, intermitentes e-Mark y Find My. La evolución sensata del F2 para quien quiere ir legal y conectado sin pagar de más.",
+      "Con 400 W nominales y 800 W de pico, batería de 367 Wh y unos 30 km reales frente a los 45 km que recoge su ficha, el F2 II cubre el desplazamiento diario a 25 km/h pesando 17,3 kg y con certificado DGT B1103. Encaja si quieres un VMP legal para España, con intermitentes integrados y localizable con Apple Find My, y tu ida y vuelta habitual cabe en esa autonomía real sin cargar cada noche. No encaja si vives entre cuestas largas, te acercas a los 100 kg de carga máxima oficial o necesitas encadenar trayectos largos: ahí tendrás que asumir sus 6,5 horas de enchufe o mirar a su hermano Pro II, con batería mayor.",
     fuenteNombre: "Segway",
     fuenteUrl: "https://www.segway.com",
     mantenimientoDIY: {
@@ -2385,7 +2299,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot KickScooter F2 Pro II",
-    precioEur: 628,
+    precioEur: 499, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 65,
@@ -2403,25 +2317,11 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/segway-ninebot-f2-pro-ii-2.webp", alt: "Detalle del Segway Ninebot F2 Pro II", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/segway-ninebot-f2-pro-ii-3.webp", alt: "Segway Ninebot F2 Pro II en marcha", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
-    pros: [
-      "Certificado DGT (B1104): legal en España",
-      "65 km declarados con 460 Wh: el F2 de mayor autonomía",
-      "450 W nominales con picos de 900 W",
-      "17,3 kg: ligero para 65 km declarados",
-      "Neumáticos tubeless de 10\"",
-      "628 € en Pixmania: precio ajustado",
-    ],
-    contras: [
-      "8 horas de carga completa",
-      "La autonomía real se queda en unos 40-45 km",
-      "Carga máxima no publicada",
-      "Sin suspensión delantera",
-      "El F2 II normal es más barato si no necesitas 65 km",
-      "App con funciones básicas frente a la competencia",
-    ],
+    aprox: ["autonomiaRealKm"],
+    pros: ["Con sus 460 Wh firma 65 km en modo ECO y unos 44 km reales estimados: margen para encadenar dos o tres jornadas urbanas de 15-20 km sin buscar un enchufe", "Llega con certificado DGT para circular como VMP en España a 25 km/h, intermitentes integrados y reflectores con certificación e-Mark delante, detrás y en los laterales", "Sus 450 W nominales escalan a 900 W de pico y Segway le atribuye pendientes del 22 %: en rampas de garaje y cuestas de barrio no se arrastra como su hermano F2 II de 400 W", "La suspensión delantera de doble muelle con 30 mm de recorrido y los neumáticos de 10 pulgadas autorreparables con capa de gel cubren los dos frentes del asfalto urbano: los baches y los pinchazos"],
+    contras: ["Reponer los 460 Wh lleva unas 8 horas de enchufe: si una noche se te olvida conectarlo, al día siguiente no hay carga rápida que te rescate la jornada", "La cifra bonita exige contexto: los 65 km se miden en ECO a 15 km/h con 75 kg de carga, en modo Sport la propia Segway ya anuncia 45 km y la estimación real de la ficha baja a 44 km", "Solo amortigua el eje delantero; detrás manda la rueda de 10 pulgadas, así que los adoquines y las juntas seguidas acaban notándose en los pies en trayectos largos", "Pagar 628 € solo compensa si vas a exprimir esos 460 Wh a diario; para recorridos de menos de 25 km el sobreprecio frente al F2 II no se traduce en nada que vayas a notar"],
     veredicto:
-      "El F2 Pro II es el F2 para ruteros urbanos: 65 km declarados, DGT y 17,3 kg por 628 €. Si haces más de 25 km al día, compensa sobre el F2 II; si no, el pequeño es más barato.",
+      "El F2 Pro II es el F2 pensado para distancias serias: 460 Wh, 65 km declarados en modo ECO —44 km reales estimados en esta ficha— y certificado DGT por 628 €. Encaja si recorres 25-40 km al día y puedes dejarlo cargando sus 8 horas cada noche; si tus trayectos son cortos o tienes que subirlo a pulso por escaleras a diario, sus 17,3 kg y ese precio juegan en tu contra y con el F2 II vas servido.",
     fuenteNombre: "Pixmania",
     fuenteUrl: "https://www.pixmania.com",
     mantenimientoDIY: {
@@ -2440,9 +2340,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     id: "navee-v40i",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V40i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -2461,24 +2361,10 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v40i-3.webp", alt: "Navee V40i en una calle europea", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "Certificado DGT (B1070): circula legal",
-      "17,7 kg: ligero y manejable",
-      "Batería de 275 Wh (36 V 7,65 Ah): 40 km declarados",
-      "Protección IPX5",
-      "Ruedas de 10\"",
-      "Manual oficial disponible: mantenimiento documentado",
-    ],
-    contras: [
-      "350 W nominales sin pico publicado: justos en cuestas",
-      "6 horas de carga",
-      "La autonomía real ronda los 25-30 km",
-      "Carga máxima no publicada",
-      "Precio no publicado en España",
-      "Gama de entrada: acabados básicos",
-    ],
+    pros: ["Con certificado DGT y el límite de 25 km/h de su versión para España, evita el problema de los modelos importados sin homologación para circular aquí", "Los intermitentes integrados y el faro con sensor automático lo separan de los urbanos básicos de 350 W, que obligan a señalizar los giros con el brazo", "El freno de disco trasero combinado con el freno eléctrico delantero y los neumáticos neumáticos de 10 pulgadas encajan con bordillos bajos y firme urbano sin recurrir a ruedas macizas", "Su batería de 275,4 Wh, con 36 V y 7,65 Ah, y la protección IPX5 cubren el uso diario corto manteniendo el conjunto en 17,7 kg, por debajo de su hermano V50i en batería y autonomía"],
+    contras: ["Los 40 km declarados son a 15 km/h: a 25 km/h la propia marca lo deja en unos 25 km y la autonomía real recogida en la ficha se queda en 27 km, justa para ida y vuelta larga", "Con 350 W nominales, una rampa prolongada o un conductor cercano a la carga máxima de 120 kg ponen a prueba un motor pensado para ritmo urbano tranquilo", "Recargar por completo lleva unas 6 horas, así que olvidar el enchufe por la noche no se arregla con un rato de carga antes de salir por la mañana", "La ficha no recoge precio para España, por lo que no se puede valorar sobre el papel si compensa frente a un Xiaomi de potencia parecida hasta ver su importe real en tienda"],
     veredicto:
-      "El V40i es el Navee urbano con papeles: DGT, 17,7 kg y 40 km declarados. La compra racional para ciudad si lo encuentras a buen precio; los Xiaomi equivalentes le plantan cara.",
+      "El V40i es para trayectos urbanos cortos y mayoritariamente llanos: 350 W, 25 km/h y unos 27 km reales por carga bastan si la ida y la vuelta suman pocos kilómetros. Tiene sentido por su certificado DGT, sus intermitentes integrados y sus ruedas neumáticas de 10 pulgadas. No es para quien viva entre cuestas fuertes, necesite más de 30 km reales entre cargas o pretenda recuperar batería en poco tiempo entre turnos.",
     fuenteNombre: "Navee",
     fuenteUrl: "https://www.navee.tech",
     mantenimientoDIY: {
@@ -2503,9 +2389,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     id: "navee-v50i",
     videoId: null,
     videoCanal: null,
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V50i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -2524,24 +2410,10 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v50i-3.webp", alt: "Navee V50i en marcha por la ciudad", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Certificado DGT: legal en España",
-      "50 km declarados con 367 Wh (36 V 10,2 Ah)",
-      "18,3 kg: ligero para 50 km",
-      "Ruedas de 10\"",
-      "Buen equilibrio autonomía/peso/precio",
-      "Marca con presencia oficial en Europa",
-    ],
-    contras: [
-      "350 W nominales: justos en cuestas",
-      "8 horas de carga completa",
-      "La autonomía real se queda en unos 30-35 km",
-      "Carga máxima no publicada",
-      "Precio no publicado en España",
-      "Sin suspensión destacada",
-    ],
+    pros: ["Con certificado DGT y tope de 25 km/h, la variante i está pensada para circular como VMP en España tal cual, sin versiones deslimitadas pensadas para otros mercados", "Sus 367 Wh dejan unos 34 km reales por carga: con una ida y vuelta diaria de unos 15 km puedes espaciar la recarga a días alternos en vez de enchufarlo cada noche", "El manual europeo lo da para conductores de 25 a 120 kg, un margen que deja fuera de juego a muchos urbanos que se quedan en 100 kg de carga máxima", "Freno de disco apoyado por el freno eléctrico sobre neumáticos neumáticos de 10 pulgadas: hay frenada mecánica de verdad y algo de balón para las juntas del asfalto, sin recurrir a la rueda maciza"],
+    contras: ["La recarga completa pide unas 8 horas con un cargador de solo 53,3 W según el manual: si lo vacías por la tarde, hasta la mañana siguiente no vuelve a estar al cien por cien", "Los 350 W nominales y el 18 % de pendiente máxima que declara el manual se quedan cortos en rampas largas, y más aún acercándote a su límite de 120 kg de conductor", "Los 50 km oficiales se miden a 15 km/h constantes con un conductor de 75 kg; en uso normal la propia ficha lo deja en unos 34 km, un tercio menos de lo anunciado", "Sin suspensión, el propio manual lo limita a cemento o asfalto con resaltes de menos de 1 cm y grietas de menos de 3 cm: adoquín y firme roto no son su terreno"],
     veredicto:
-      "El V50i es el hermano mayor del V40i: 10 km más declarados por poco más de peso. Si tus rutas superan los 20 km diarios, merece la pena el salto; si no, el V40i basta.",
+      "El V50i juega la carta de la batería entre los Navee con certificado DGT: 367 Wh, unos 34 km reales y 18,3 kg a 25 km/h, con margen en el manual para conductores de hasta 120 kg. Encaja si tu ruta diaria es llana, va sobre asfalto y cabe en 25-30 km entre recargas nocturnas de 8 horas. Descártalo si vives entre cuestas, necesitas reponer carga en una pausa corta o tu calle es un muestrario de adoquines y baches.",
     fuenteNombre: "Navee",
     fuenteUrl: "https://www.navee.tech",
     mantenimientoDIY: {
@@ -2566,9 +2438,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     id: "navee-n65i",
     videoId: "rOn6Gu7vpgc",
     videoCanal: "Adrián Pérez",
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "N65i",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -2587,34 +2459,21 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-n65i-3.webp", alt: "Navee N65i en una ruta urbana larga", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "Certificado DGT: circula legal",
-      "600 W nominales con picos de 1.000 W: el Navee urbano más potente",
-      "65 km declarados con 600 Wh (48 V 12,5 Ah)",
-      "Triple frenada: tambor + disco + EABS",
-      "Intermitentes con homologación e-Mark",
-      "Protección IPX5 y carga máxima de 120 kg",
-    ],
-    contras: [
-      "10 horas de carga: hay que cargarlo de noche sí o sí",
-      "22,8 kg: pesado para subirlo a casa",
-      "Precio no publicado en España",
-      "La autonomía real ronda los 40-45 km",
-      "Sin suspensión hidráulica",
-      "El N65i II lo mejora en casi todo",
-    ],
+    pros: ["Su batería de 48 V y 12,5 Ah suma 600 Wh y deja unos 44 km reales, margen de sobra para encadenar dos o tres jornadas urbanas de ida y vuelta sin buscar enchufe", "Llega con certificado DGT e intermitentes delanteros y traseros con homologación e-Mark, así que señalizar un giro no obliga a soltar el manillar en pleno tráfico", "Las cubiertas tubeless de 10,5 pulgadas y 80 mm de ancho, sobre una plataforma de 205 mm y con 86 mm de altura libre, dan una pisada muy plantada para conductores de hasta 120 kg", "El conjunto de tambor delantero, disco trasero y EABS reparte la detención entre las dos ruedas y la regeneración, útil cuando bajas una rampa del 24 % con la batería llena de equipaje en la mochila"],
+    contras: ["Los 22,8 kg se notan en serio al subirlo a un cuarto sin ascensor o al meterlo en el maletero: el plegado DoubleFlip reduce el volumen, no el esfuerzo", "Agotar los 600 Wh supone unas 10 horas de cargador, así que un olvido al llegar a casa deja el trayecto de la mañana siguiente sin patinete", "No monta suspensión delantera ni trasera pese a su imagen SUV: en adoquín o firme parcheado todo el filtrado queda en manos del balón de las cubiertas de 80 mm", "Los 65 km oficiales se miden a 15 km/h con un conductor de 75 kg; a 25 km/h la propia marca ya baja a unos 53 km y en la ficha la cifra real se queda en 44 km"],
     veredicto:
-      "El N65i es el Navee rutero con papeles: 600 W, 65 km declarados y triple freno. Ideal para commuting largo legal; sus 10 horas de carga obligan a planificar, y el II es mejor si lo encuentras.",
+      "Con 600 Wh, 44 km reales por carga y picos de 1.000 W para afrontar rampas del 24 %, el N65i está pensado para trayectos diarios largos a 25 km/h sin recargar cada noche. Encaja si vives con ascensor o garaje y valoras su certificado DGT y sus intermitentes integrados. Descártalo si lo vas a cargar a pulso por escaleras a diario —pesa 22,8 kg— o si necesitas reponer batería en pocas horas, porque una carga completa pide unas 10 horas.",
     fuenteNombre: "Navee",
     fuenteUrl: "https://www.navee.tech",
+    mantenimientoDIY: {"actualizacionFirmware": "Actualízalo desde la app de Navee con el N65i emparejado por Bluetooth y con carga de sobra, y deja la app abierta en primer plano hasta que termine: los análisis en España advierten de que si la aplicación pasa a segundo plano la descarga del firmware se corta y hay que empezar de nuevo.", "trucos": ["Revisa cada mes la presión de las tubeless de 10,5\": el manual específico del N65i pide 45-50 psi, un rango claramente más alto que el de otros Navee; circular por debajo dispara el consumo y deja la cubierta ancha vulnerable a pellizcos contra bordillos.", "Ajusta el disco trasero con una llave de 4 mm y el patinete apagado y desenchufado, tensando o soltando el cable desde el balancín según notes la maneta larga o dura, y reaprieta la tornillería del manillar y de la pinza en las revisiones trimestrales que marca el programa del manual.", "Si lo vas a dejar parado varias semanas, no lo guardes descargado: su batería de 600 Wh tiene una espera estimada de 120 a 180 días y el manual del N65i pide recargarla cada 30 días en almacenamientos largos para evitar daños irreversibles en las celdas."]},
   },
   {
     id: "navee-v25i-pro",
     videoId: "Qu6cIQqQKLU",
     videoCanal: "NAVEE",
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V25i Pro",
-    precioEur: 309,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 25,
@@ -2632,7 +2491,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v25i-pro-2.webp", alt: "Detalle de la pantalla del Navee V25i Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v25i-pro-3.webp", alt: "Navee V25i Pro en la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Pantalla LED de 4\" con 14° de inclinación: se lee al sol",
       "Smart BMS con 6 protecciones de batería",
@@ -2648,6 +2507,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Certificación DGT no verificada",
       "300 W nominales: solo llano",
       "Tiempo de carga no publicado",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El V25i Pro es el Navee más barato con pantalla grande: 309 € en Amazon. Para trayectos cortos y conductor ligero va perfecto; su batería de 184 Wh no da para más.",
@@ -2658,9 +2518,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     id: "navee-v40-pro",
     videoId: "lOInxCIn8fY",
     videoCanal: "NAVEE",
-    marca: "Navee",
+    marca: "NAVEE",
     modelo: "V40 Pro",
-    precioEur: null,
+    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 600,
     autonomiaKm: null,
@@ -2723,7 +2583,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NIU Mobility AU & NZ",
     marca: "NIU",
     modelo: "KQi1 Pro",
-    precioEur: 399,
+    precioEur: 400, // 499 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
@@ -2742,34 +2602,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/niu-kqi1-pro-3.webp", alt: "NIU KQi1 Pro en una calle de Madrid", ancho: 1200, alto: 800 },
     ],
     aprox: ["precioEur", "autonomiaRealKm"],
-    pros: [
-      "Certificado DGT (B1034): legal en España",
-      "Solo 15,4 kg: ultraligero",
-      "App de NIU con bloqueo y estadísticas",
-      "399 € en la tienda oficial europea",
-      "Protección IP54",
-      "Ideal para combinar con metro o tren",
-    ],
-    contras: [
-      "250 W nominales: el menos potente de la lista",
-      "25 km declarados (unos 17 reales)",
-      "Batería de solo 250 Wh",
-      "Carga máxima de 100 kg",
-      "Ruedas de 9\": menos estables que las de 10\"",
-      "Freno de tambor: frenada básica",
-    ],
+    pros: ["Certificado VMP B1034 del KQi1 Pro: apto para circular en España bajo la norma DGT", "Chasis de acero de grado automotriz con solo 15,4 kg en báscula", "Por Bluetooth, la app de NIU bloquea el KQi1 Pro y guarda estadísticas de cada trayecto", "Cuatro modos en su pantalla LED: E-Save, Deportivo, Personalizado y Peatón", "Sellado IP54 frente a polvo y salpicaduras, sin ser sumergible", "Plegado patentado de un solo gesto y 399 € en la tienda oficial europea"],
+    contras: ["Sus 250 W nominales se quedan cortos fuera del llano urbano para conductores cercanos a 100 kg", "Autonomía declarada de 25 km que la estimación de esta ficha rebaja a unos 17 km reales", "Batería de 250 Wh según los datos de la ficha: margen escaso si el recorrido supera esos 17 km útiles", "Techo de carga en 100 kg; el KuKirin G2 Pro, su pareja de medición, admite 20 kg más", "Diámetro de rueda de 9 pulgadas: dirección más nerviosa sobre adoquines que con una de 10 pulgadas", "Frenada modesta en el KQi1 Pro: tambor delantero más freno eléctrico trasero, sin disco en ningún eje"],
     veredicto:
-      "El KQi1 Pro es el NIU de entrada: DGT, 15,4 kg y 399 €. Perfecto como primer patinete o para el último kilómetro; sus 250 W y 25 km declarados marcan sus límites con honestidad.",
+      "Para trayectos cortos encadenados con Metro o Cercanías, el KQi1 Pro apuesta todo a sus 15,4 kg, al certificado B1034 y a los 399 € oficiales. Quien necesite más de unos 17 km útiles por carga o afronte rampas a diario debe mirar modelos superiores de la propia gama KQi.",
     fuenteNombre: "NIU",
     fuenteUrl: "https://shopeu.niu.com",
-    mantenimientoDIY: {
-      intervaloRevision: "Antes de cada uso: comprobar que todos los componentes están bien fijados",
-      trucos: [
-        "Usar solo el cargador original; no desmontar ni modificar la batería",
-        "Practicar la frenada (freno de tambor delantero + regenerativo trasero) en una zona segura antes de circular entre el tráfico",
-        "No circular con lluvia intensa ni nieve",
-      ],
-    },
+    mantenimientoDIY: {"intervaloRevision": "Comprobar periódicamente tornillos y holguras en la zona de dirección y en el cierre que pliega el KQi1 Pro", "presionNeumaticos": "Entre 45 y 50 psi para las cubiertas 9,0 × 2,3 del KQi1 Pro (dato del manual del modelo)", "trucos": ["Si baja la autonomía, revisa primero la presión de las ruedas: el manual la señala como causa frecuente", "Completa sus 5 horas de recarga con el cargador original; no abras el módulo integrado de batería y BMS NIU Energy", "Tras rodar con salpicaduras, seca el tambor delantero y los contactos antes de guardarlo plegado"]},
   },
   {
     id: "ruptor-r3",
@@ -2777,7 +2616,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Ruptor",
     modelo: "R3",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -2811,6 +2650,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Sistema de frenado no detallado",
       "Sin certificación DGT verificada",
       "Sin red de servicio técnico propio",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Ruptor R3 es la apuesta de Phone House: 800 W y 150 kg de carga máxima con estética agresiva. La marca es nueva y la ficha escasa, pero el respaldo de Phone House le da un plus de confianza.",
@@ -2823,7 +2663,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Ruptor",
     modelo: "R6",
-    precioEur: null,
+    precioEur: null, // sin tarifa oficial publicada en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 1600,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -2857,6 +2697,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Marca nueva sin historial de fiabilidad",
       "Sin datos de frenos ni neumáticos",
       "Disponibilidad limitada",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Ruptor R6 promete doble motor y 150 kg de carga, pero publica poquísimos datos. Solo para compradores que lo vean en tienda y lo prueben; sobre el papel es una incógnita.",

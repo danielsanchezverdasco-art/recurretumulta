@@ -203,10 +203,13 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yadea-ks6-pro": () => import("../comparador-patinetes-exp-p12.ts"),
   },
   historia: {
+    "yadea-c1s-pro-2025-ficha-tecnica-precio": () => import("../historia-modelos.ts"),
+    "yadea-c1s-pro-2026-ficha-tecnica-precio": () => import("../historia-modelos.ts"),
     "yadea-fierider-2025-ficha-tecnica-precio": () => import("../historia-m14.ts"),
     "yadea-keeness-2025-ficha-tecnica-precio": () => import("../historia-m14.ts"),
     "yadea-kemper-2025-ficha-tecnica-precio": () => import("../historia-lote8.ts"),
     "yadea-kemper-rc-2026-ficha-tecnica-precio": () => import("../historia-lote8.ts"),
+    "yadea-ks5-pro": () => import("../historia-b3.ts"),
     "yadea-voltguard-2023-ficha-tecnica-precio": () => import("../historia-lote8.ts"),
     "yamaha-e01-2025-ficha-tecnica-precio": () => import("../historia-lote9.ts"),
     "yamaha-mt-07-2026-ficha-tecnica-precio": () => import("../historia-m15.ts"),

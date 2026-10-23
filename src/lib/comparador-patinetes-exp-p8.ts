@@ -11,7 +11,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance",
-    precioEur: null,
+    precioEur: 600, // 499 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 57.5,
@@ -33,7 +33,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Postura de conducción frontal patentada: más estabilidad y equilibrio que un patinete clásico",
       "IP65 real con garantía que cubre daños por agua, algo casi único en el mercado",
@@ -41,7 +41,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Solo 16,2 kg para un patinete de su tamaño: se pliega y queda 70 % más estrecho",
     ],
     contras: [
-      "Precio elevado en Reino Unido (549 £): en España solo vía importación o retailers",
+      "Precio estimado desde la tarifa oficial de Reino Unido (499 £): en España solo vía importación o retailers",
       "Autonomía real (~40 km) lejos de los 57,5 km máximos declarados",
       "Sin suspensión: en adoquines se nota",
       "La postura frontal no gusta a todo el mundo",
@@ -62,7 +62,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance Flex",
-    precioEur: null,
+    precioEur: 1100, // 899 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 52,
@@ -84,7 +84,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "El patinete más compacto del mundo según Pure: plegado cabe en un maletero o bajo la mesa",
       "Postura frontal + manillar ajustable en altura",
@@ -92,7 +92,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Doble freno de tambor: frenada fiable y casi sin mantenimiento",
     ],
     contras: [
-      "Es el Pure más caro (899 £ en Reino Unido)",
+      "Es el Pure más caro: precio estimado desde la tarifa oficial de Reino Unido (899 £)",
       "52 km declarados que en real se quedan en ~35 km",
       "Sin suspensión pese al precio",
       "La batería de 342 Wh se queda justa para su precio",
@@ -112,7 +112,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Advance+",
-    precioEur: null,
+    precioEur: null, // Pure no publica tarifa oficial vigente para este modelo (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 50,
@@ -142,7 +142,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "IP65 con garantía antiagua y chasis de aleación aeroespacial",
     ],
     contras: [
-      "899 £ en Reino Unido: el Advance normal da casi lo mismo por menos",
+      "Sin precio oficial vigente: Pure ya no publica tarifa para el Advance+",
       "6-7 horas de carga según la fuente",
       "Sin suspensión",
       "Disponibilidad limitada en España",
@@ -163,7 +163,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "x McLaren",
-    precioEur: null,
+    precioEur: null, // Pure no publica tarifa oficial vigente para esta edición (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 62,
@@ -193,7 +193,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Motor de 924 W de pico: sube cuestas con soltura",
     ],
     contras: [
-      "Precio de colección (~999 £ / 1.999 $ en Australia): pagas la marca",
+      "Sin precio oficial vigente: edición de colección que Pure ya no lista con tarifa",
       "Mecánicamente es un Advance con otra decoración",
       "Sin suspensión",
       "Edición limitada: difícil de encontrar nuevo en España",
@@ -212,7 +212,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 4",
-    precioEur: null,
+    precioEur: null, // Pure ya no comercializa este modelo ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 900,
     autonomiaKm: 30,
@@ -235,26 +235,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Solo 16,2 kg: de los más ligeros de su categoría",
-      "Carga completa en 4 horas",
-      "Chasis de acero robusto para 120 kg",
-      "Manual oficial con datos técnicos completos y transparentes",
-    ],
-    contras: [
-      "30 km declarados (~20 reales): autonomía justa",
-      "Batería pequeña de 266 Wh",
-      "Sin suspensión ni intermitentes",
-      "El Air 4 Pro da 10 km más por poco más",
-    ],
+    pros: ["Con 16,2 kg en báscula se traslada a pulso entre andén y oficina sin llegar a los 17 kg que Pure redondea en su web neerlandesa", "Sellado IP65 contra lluvia y charcos: la marca lo certifica en esta cuarta generación y la prensa británica lo sitúa por encima del IP54 habitual en rivales", "Dirección con estabilización activa patentada por Pure y empuje trasero capaz de afrontar rampas del 19 % según la ficha de preguntas frecuentes de la marca", "Neumáticos tubeless de 10 pulgadas, con aire y refuerzo antipinchazos: absorben mejor los baches urbanos que un macizo y no exigen cámara de repuesto"],
+    contras: ["Los 30 km oficiales se traducen en unos 20 km reales en la propia ficha: quien encadene ida y vuelta largas cada día vivirá pendiente del cargador", "El acumulador se queda en 266 Wh, resultado de sus 7,2 Ah a 37 V: es el precio en autonomía de mantener el conjunto tan contenido de peso", "Esta versión base prescinde de los intermitentes de manillar que sí monta el Air 4 Pro y tampoco lleva suspensión de ningún tipo", "La ficha deja el certificado DGT sin verificar y Pure no lo anuncia para este modelo: conviene exigirlo por escrito al vendedor antes de pagar"],
     veredicto:
-      "El Air 4 es el Pure ligero y honesto: 16,2 kg, 4 horas de carga y precio contenido. Ideal como segundo patinete o para trayectos cortos; si haces más de 20 km al día, el Pro compensa.",
+      "Cuarta generación del Air de acceso y la más equilibrada para trayectos cortos: 500 W nominales, recarga completa en unas 4 horas y un sellado IP65 poco común en su franja. Se queda en casa si tu ruta diaria se acerca a su autonomía real de unos 20 km; para ese uso, el salto natural dentro de la propia gama es el Air 4 Pro.",
     fuenteNombre: "Manual oficial Pure Air 4",
     fuenteUrl: "https://manuals.plus/m/e4b91ebb019fe4b657fdb73e28a6ec5af12af2b56198b316018987ac7d64481b_optim.pdf",
-    mantenimientoDIY: {
-      presionNeumaticos: "Neumáticos de 10\": mantener la presión máxima indicada en el flanco",
-      intervaloRevision: "Revisar tornillería del mástil cada 3 meses (chasis de acero, uniones atornilladas)",
-    },
+    mantenimientoDIY: {"presionNeumaticos": "36 PSI (2,5 bar) en las dos ruedas de 10 pulgadas, inflando siempre con el extensor de válvula: es la presión óptima que fija el manual del Air 4", "intervaloRevision": "Antes de cada salida toca repasar el apriete de manillar, bisagra de plegado, frenos y ejes de ambas ruedas, porque el manual advierte de que tuercas y fijaciones autoblocantes se aflojan con el uso"},
   },
   {
     id: "pure-air-4-pro",
@@ -262,7 +249,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 4 Pro",
-    precioEur: null,
+    precioEur: null, // Pure ya no comercializa este modelo ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 900,
     autonomiaKm: 40,
@@ -285,26 +272,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "40 km declarados con batería de 355 Wh: el punto dulce de la gama Air 4",
-      "Solo 1 kg más que el Air 4 base por 10 km extra",
-      "Sube pendientes de hasta el 19 % según el manual oficial",
-      "Chasis de acero para 120 kg y frenada combinada fiable",
-    ],
-    contras: [
-      "6 horas de carga",
-      "Sin suspensión ni intermitentes",
-      "El Air 5/6 ya lo superan en equipamiento",
-      "Precio de lanzamiento alto para un patinete sin suspensión",
-    ],
+    pros: ["Con 9,6 Ah a 37 V (355 Wh) declara 40 km, 10 km más que el Air 4 básico, y solo pesa 1 kg más que él: 17,2 kg en total", "La estabilización activa de la dirección es, según la propia Pure, lo que distingue al Pro del Air 4 básico: reduce el bamboleo del manillar al pasar baches", "Intermitentes en los extremos del manillar y faro delantero de 150 lúmenes: señaliza los giros sin soltar las manos", "Sellado IP65 frente a lluvia y charcos, sobre un chasis de acero que admite hasta 120 kg de carga"],
+    contras: ["La carga completa tarda unas 6 horas, así que el ritmo natural es dejarlo enchufado toda la noche entre jornada y jornada", "Ninguna rueda lleva suspensión: en calles con baches, solo el neumático hinchable de 10\" filtra las vibraciones", "Plataforma corta: los conductores altos notan la postura algo encogida en trayectos largos, como también señala Expert Reviews en su prueba", "Intermitentes y control de crucero resultan poco intuitivos al principio, y el crucero ni siquiera se activa desde el patinete: hay que entrar en la app"],
     veredicto:
-      "El Air 4 Pro es el Air 4 que deberías comprar: por 1 kg más tienes 10 km extra y mejor subida de cuestas. Compra racional dentro de Pure si no necesitas suspensión.",
+      "Frente al Air 4 básico, el Pro justifica su sobreprecio en tres cosas concretas: 10 km más de autonomía (40 frente a 30), pendientes de hasta el 19 % y el paquete de seguridad con estabilización de dirección e intermitentes en el manillar. A cambio aceptas la misma plataforma corta, ninguna suspensión y 6 horas de enchufe por carga.",
     fuenteNombre: "Manual oficial Pure Air 4",
     fuenteUrl: "https://manuals.plus/m/e4b91ebb019fe4b657fdb73e28a6ec5af12af2b56198b316018987ac7d64481b_optim.pdf",
-    mantenimientoDIY: {
-      presionNeumaticos: "Neumáticos de 10\": presión máxima del flanco; revisar cada 2 semanas",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-    },
+    mantenimientoDIY: {"actualizacionFirmware": "El Air 4 Pro se enlaza por Bluetooth con la app de Pure para iOS y Android: desde ahí llegan las actualizaciones de rendimiento, se activa el control de crucero y se fija el PIN de bloqueo antirrobo", "aprieteTornilleria": "Repasar con regularidad los tornillos de los ejes de ambas ruedas, del mecanismo de plegado, de la dirección y de los frenos: son los puntos cuyo apriete el manual manda vigilar", "presionNeumaticos": "Neumáticos tubeless de 10\": el manual del Air 4 fija 36 PSI (2,5 bar) antes de cada salida, y pide usar siempre el alargador de válvula de la bomba para no dañar las válvulas", "trucos": ["Calibración inicial de la batería según el manual: carga completa hasta que el piloto del cargador pase a verde, rueda hasta casi agotarla y vuelve a cargar al 100 %; solo hay que hacerlo una vez"]},
   },
   {
     id: "pure-air-6",
@@ -312,7 +286,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6",
-    precioEur: null,
+    precioEur: 500, // 399 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 924,
     autonomiaKm: 45,
@@ -334,28 +308,14 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: [
-      "Doble suspensión GlideMotion de serie: el Air más cómodo hasta la fecha",
-      "45 km declarados por 399 £: la mejor relación autonomía/precio de Pure",
-      "El más ligero de la gama Air 6 (21,4 kg)",
-      "IP65, 120 kg de carga máxima y 25 km/h limitados",
-    ],
-    contras: [
-      "21,4 kg: se nota al subirlo por escaleras",
-      "Sin datos oficiales de batería en Wh ni tiempo de carga",
-      "De momento venta principal en Reino Unido",
-      "Los Pro+/Ultra dan mucho más por poco más",
-    ],
+    aprox: ["autonomiaRealKm", "precioEur"],
+    pros: ["Pensado para días de lluvia: su sellado IP65 permite seguir rodando cuando otros patinetes se quedan guardados en casa", "La amortiguación GlideMotion en ambos ejes filtra adoquines y juntas de dilatación sin convertirlo en un modelo de ocio", "Con neumáticos tubeless de 10 pulgadas y protección antipinchazos, afronta bordillos urbanos con aplomo y menos paradas imprevistas", "Su pico de 924 W y su tope de 25 km/h encajan con un uso diario tranquilo, admitiendo hasta 120 kg de carga"],
+    contras: ["Aunque es el menos pesado entre sus hermanos de gama, esos 21,4 kg castigan brazos y espalda en tramos de escaleras", "La ficha deja huecos importantes: no publica capacidad de batería en Wh ni cuánto dura una recarga completa", "Entre lo anunciado y el uso cotidiano hay trecho: frente a 45 km oficiales, la estimación realista baja a 30 km", "Para circular por España genera dudas: la velocidad encaja, pero en los datos no consta certificado DGT asignado a esta versión", "Su distribución apunta sobre todo al mercado británico, así que comprarlo aquí puede exigir buscar importador o tienda especializada"],
     veredicto:
-      "El Air 6 es el nuevo superventas de Pure: suspensión doble, 45 km y 399 £. Si el precio en España se mantiene parecido, será la referencia de la gama media 2025-2026.",
+      "Como puerta de entrada a la familia, este Air 6 base apuesta por comodidad y por rodar sin miedo a la lluvia, renunciando al extra de alcance de sus variantes superiores. Encaja si tus trayectos son urbanos y cortos, siempre que asumas su peso al cargarlo y verifiques antes su situación de certificación en España.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
-    mantenimientoDIY: {
-      presionNeumaticos: "Tubeless antipinchazos: revisar presión mensualmente",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-      trucos: ["La doble suspensión llevaSilentblocks: revisar holguras cada 6 meses"],
-    },
+    mantenimientoDIY: {"intervaloRevision": "Comprobación antes de cada salida según el manual Pure: tornillería, neumáticos y freno; limpieza con paño húmedo tras el uso y atención a holguras en cierre, mástil y bisagras", "presionNeumaticos": "Mantener entre 36 y 50 psi, rango marcado en el flanco del neumático; con menos presión gana comodidad y con más presión mejora la eficiencia, según el manual Pure", "ajusteFrenosPasos": ["Comprobar antes de salir que el freno de tambor delantero queda correctamente ajustado", "Probar la frenada a baja velocidad antes de incorporarte a la circulación", "Contar con que el regenerativo trasero se reduce si la batería está llena, sobre todo al inicio de una bajada", "Si notas tacto irregular u holgura en maneta, bisagra o mástil, contactar con el soporte de Pure antes de seguir usándolo"], "aprieteTornilleria": "Repasar en cada salida manillar, bisagra de plegado, frenos y ejes de ambas ruedas, porque las tuercas autoblocantes pueden aflojarse con el tiempo", "actualizacionFirmware": "A través de la aplicación oficial Pure Electric para iOS y Android, que también muestra velocidad, nivel de batería y autonomía estimada", "trucos": ["Si va a estar parado, recargar la batería al menos una vez al mes y guardarlo en un sitio seco, lejos del sol directo", "Limpiar con esponja o paño ligeramente húmedo y secar después; nunca usar hidrolimpiadora ni desengrasantes agresivos", "Dentro del rango indicado, bajar la presión gana comodidad y subirla gana eficiencia"]},
   },
   {
     id: "pure-air-6-pro-plus",
@@ -363,7 +323,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Pro+",
-    precioEur: null,
+    precioEur: 500, // 449 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 75,
@@ -385,27 +345,14 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: [
-      "75 km declarados: autonomía de gran turismo por 449 £",
-      "Motor de 1200 W de pico: acelera y sube cuestas sin despeinarse",
-      "Doble suspensión GlideMotion + IP65",
-      "Solo 1,6 kg más que el Air 6 base por 30 km extra",
-    ],
-    contras: [
-      "23 kg: ya no es un patinete ligero",
-      "Sin datos oficiales de batería en Wh ni tiempo de carga",
-      "Venta principal en Reino Unido por ahora",
-      "El Ultra da 90 km por 100 £ más",
-    ],
+    aprox: ["autonomiaRealKm", "precioEur"],
+    pros: ["Recorre hasta 75 km por carga según Pure, con unos 50 km reales estimados: margen de sobra para varios días sin enchufar", "Sus 1.200 W de pico dan salida alegre y encaran rampas urbanas con soltura", "Amortiguación GlideMotion en ambos ejes e impermeabilidad IP65 para rodar tranquilo aunque el asfalto o el cielo fallen", "Admite hasta 120 kg de carga y calza gomas tubeless de 10 pulgadas pensadas para esquivar pinchazos"],
+    contras: ["Con 23 kg cuesta subirlo a un piso sin ascensor o meterlo en el maletero a diario", "La ficha carece de capacidad en Wh y de duración oficial de recarga, dos datos clave para comparar", "No consta certificado DGT en esta ficha: comprueba su homologación antes de circular por vías públicas españolas", "Su comercialización se centra en Reino Unido, así que comprarlo desde España puede complicarse", "Por encima queda el Ultra con mayor alcance anunciado, tentación constante si el presupuesto estira un poco más"],
     veredicto:
-      "El Air 6 Pro+ es el gran rutero de Pure: 75 km y 1200 W por 449 £. Para quien hace 20+ km al día, es la compra más sensata de la gama Air 6.",
+      "Dentro de la familia Air 6, esta Pro+ ocupa el hueco intermedio con criterio: más alcance que la versión básica sin llegar al escalón Ultra. Encaja con quien acumula kilómetros cada semana y valora comodidad, estanqueidad y empuje, asumiendo su peso considerable y la escasa información oficial sobre batería y recarga.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-weight-limit",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-      trucos: ["Con 75 km de autonomía, evita dejarlo meses al 100 %: guárdalo al 60 % si no lo usas"],
-    },
+    mantenimientoDIY: {"intervaloRevision": "Antes de cada salida, chequeo rápido de presiones, frenos, luces, plegado y tornillería; cada mes o 300 km, inspección de neumáticos, cables, cargador y limpieza; cada 6 meses o 1.500 km, revisión completa de seguridad; cada año o 3.000 km, servicio completo con revisión de rodamientos y puntos de plegado, según la guía oficial de mantenimiento de Pure Electric", "presionNeumaticos": "35 psi en la gama Air 6 según la guía oficial de Pure Electric, con neumáticos tubeless de 10 pulgadas; comprueba la presión antes de cada salida, porque rodar fuera de la recomendada afecta a agarre, autonomía y garantía", "ajusteFrenosPasos": ["Antes de salir, aprieta la maneta y comprueba que la respuesta es firme, sin tacto esponjoso ni recorrido excesivo", "Verifica que el freno de tambor delantero esté correctamente regulado, como exige el manual de Pure, y que el freno eléctrico regenerativo trasero actúa al frenar", "Ten en cuenta que con la batería recién cargada al completo la regeneración se reduce para protegerla, sobre todo al iniciar una bajada: el tambor debe estar a punto antes de empezar", "En la revisión semestral o cada 1.500 km, revisa y ajusta ambos frenos; si aparece holgura en maneta, cierre o dirección, deja de usarlo y contacta con el soporte oficial"], "aprieteTornilleria": "Repasa antes de cada trayecto manillar, bisagra de plegado, frenos y ejes de ambas ruedas; en la revisión de los 6 meses o 1.500 km aprieta la tornillería al par indicado en el manual, porque las fijaciones autoblocantes se aflojan con el uso", "actualizacionFirmware": "A través de la app oficial Pure Electric (iOS/Android)", "trucos": ["Límpialo con un paño o esponja ligeramente húmedos y sécalo después; nunca uses hidrolimpiadora ni productos agresivos, según el manual de la marca", "Si va a estar parado una temporada, guárdalo en sitio seco y alejado del sol directo y recarga la batería al menos una vez al mes", "Con la autonomía real estimada de unos 50 km, planifica la recarga por uso y no por obligación diaria: espaciar enchufes simplifica la rutina sin quedarte tirado"]},
   },
   {
     id: "pure-air-6-ultra",
@@ -413,7 +360,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Ultra",
-    precioEur: null,
+    precioEur: 700, // 549 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 90,
@@ -435,26 +382,14 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: [
-      "90 km declarados: la máxima autonomía de Pure por 549 £",
-      "Estabilización activa de la dirección: aplomo total a 25 km/h",
-      "Doble suspensión GlideMotion + IP65 + 120 kg de carga",
-      "Motor de 1200 W de pico para cuestas exigentes",
-    ],
-    contras: [
-      "Peso no publicado: con esa batería rondará los 25 kg",
-      "Sin datos de tiempo de carga (serán muchas horas)",
-      "Venta principal en Reino Unido por ahora",
-      "Para ciudad pura, el Air 6 base basta y pesa menos",
-    ],
+    aprox: ["autonomiaRealKm", "precioEur"],
+    pros: ["Con 90 km anunciados y unos 60 km reales estimados, encadena varios desplazamientos sin pasar por el enchufe", "El sistema que centra el manillar aporta serenidad cuando el firme se rompe o aparecen baches seguidos", "Conjunto pensado para uso diario duro: GlideMotion en ambos ejes, sellado IP65 y aguante hasta 120 kg", "Su empuje puntual llega a 1.200 W, un extra que se nota al arrancar y al salvar pendientes urbanas"],
+    contras: ["La ficha no recoge peso oficial, un vacío importante si toca subirlo a pulso por escaleras cada día", "Tampoco figura cuánto tarda en recargar, dato clave en un modelo orientado a cubrir trayectos largos", "Su comercialización se centra en el mercado británico, lo que complica probarlo o comprarlo desde España", "Sin certificado DGT consignado, conviene confirmarlo antes de plantearse circular por vías públicas españolas"],
     veredicto:
-      "El Air 6 Ultra es el larga distancia de Pure: 90 km declarados y dirección estabilizada activamente. Pensado para commuters de extrarradio que quieren olvidarse del cargador varios días.",
+      "Dentro de la familia Air 6, la Ultra apuesta por llegar lejos: 90 km declarados, unos 60 km reales estimados y dirección estabilizada sobre doble suspensión. Antes de decidir, toca aclarar peso, tiempo de carga y certificado DGT, ausentes en la ficha.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Comprobaciones rápidas antes de cada salida; revisión mensual o cada 300 km; chequeo completo de seguridad cada seis meses o 1.500 km; servicio completo cada año o 3.000 km, según la guía oficial de Pure Electric", "presionNeumaticos": "35 psi en las cubiertas tubeless de 10 pulgadas de la gama Air 6, según la guía oficial de mantenimiento de Pure Electric; comprobar la presión antes de cada salida", "ajusteFrenosPasos": ["Antes de salir, aprieta la maneta y comprueba que el tacto es firme y la respuesta inmediata", "En el chequeo semestral o a los 1.500 km, revisa y ajusta los frenos dentro de la inspección completa de seguridad", "Si tras el ajuste el tacto sigue blando o aparece recorrido muerto, acude a un servicio autorizado y usa recambios originales"], "aprieteTornilleria": "Revisar tuercas, tornillos y cierres antes de cada salida, prestando atención a manillar, bisagras de plegado y ruedas; en la revisión semestral, reapretar al par que indique el manual del modelo", "actualizacionFirmware": "Mediante la aplicación oficial de Pure Electric para iOS y Android, como ya recoge la propia ficha", "trucos": ["No apures la batería hasta vaciarla ni guardes el patinete descargado: recarga antes de que baje en exceso", "Carga siempre con el cargador oficial suministrado; un cargador de otro modelo puede dañar la batería", "En la revisión mensual, límpialo con un paño húmedo y revisa cables, cargador y cubiertas en busca de cortes o daños"]},
   },
   {
     id: "pure-air-6-ultra-max",
@@ -462,7 +397,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 6 Ultra Max",
-    precioEur: null,
+    precioEur: 800, // 649 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 90,
@@ -484,7 +419,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "1900 W de pico: el motor más potente jamás montado por Pure",
       "90 km declarados + disco de freno trasero adicional",
@@ -492,7 +427,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "IP65 y 120 kg de carga máxima",
     ],
     contras: [
-      "649 £: el Pure más caro sin ser edición especial",
+      "Precio estimado desde la tarifa oficial de Reino Unido (649 £): el Pure más caro sin ser edición especial",
       "Peso no publicado pero será el más pesado de la gama",
       "1900 W limitados a 25 km/h: la potencia solo se nota en cuestas",
       "Disponibilidad inicial limitada (preventa)",
@@ -512,7 +447,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Escape Pro+",
-    precioEur: null,
+    precioEur: 600, // 499 £ (tarifa oficial Reino Unido) ÷ 0,84205 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1200,
     autonomiaKm: 60,
@@ -534,7 +469,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Postura de conducción frontal tipo bicicleta: pies lado a lado, más equilibrio",
       "Doble suspensión GlideMotion (horquilla telescópica + monoamortiguador)",
@@ -542,7 +477,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sube pendientes de hasta el 23 % con sus 1200 W de pico",
     ],
     contras: [
-      "499 £ y de momento preventa/venta en Reino Unido",
+      "Precio estimado desde la tarifa oficial de Reino Unido (499 £); de momento, venta en Reino Unido",
       "Peso no publicado",
       "La postura frontal no es para todos",
       "60 km declarados que en real serán ~40",
@@ -562,7 +497,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Escape Ultra Max",
-    precioEur: null,
+    precioEur: null, // aún en preventa, sin tarifa oficial publicada (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 75,
@@ -592,7 +527,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Postura frontal: estabilidad superior en aceleraciones fuertes",
     ],
     contras: [
-      "649 £ en preventa: aún no disponible de forma general",
+      "Sin precio oficial: aún en preventa y Pure no ha publicado tarifa definitiva",
       "Peso y tiempo de carga no publicados",
       "Potencia limitada a 25 km/h por ley",
       "Excesivo si tu uso es urbano llano",
@@ -611,7 +546,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -661,7 +596,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Pop Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -684,17 +619,8 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Doble motor de 450 W (900 W nominales): tracción total de verdad",
-      "Batería Samsung de 52 V y 25 Ah (1300 Wh): 60 km declarados",
-      "Doble tambor + ABS y EBS, intermitentes y doble faro",
-      "32,5 kg: contenido para un dual motor",
-    ],
-    contras: [
-      "Sin tiempo de carga ni precio oficial en España",
-      "Neumáticos de 9\": menos estabilidad que los de 10\"",
-      "900 W nominales se quedan cortos frente a la gama media Dualtron",
-    ],
+    pros: ["Tracción a las dos ruedas con dos motores de 450 W: los 900 W nominales se reparten entre ejes y se notan al arrancar en rampa, no es un monomotor disfrazado", "Batería de 1.300 Wh (52 V y 25 Ah, celdas Samsung según la ficha): es la cifra que sostiene los 60 km declarados y los 40 km reales estimados", "Frenada completa para un patinete de esta potencia: doble tambor con ABS y EBS, además de intermitentes y doble faro en un segmento donde muchos rivales recortan justo ahí", "32,5 kg para un dual motor con esa batería y carga máxima de 120 kg: sigue siendo pesado para subirlo a pulso, pero no entra en la liga de los Dualtron de más de 40 kg"],
+    contras: ["La ficha no recoge precio oficial en España ni tiempo de carga: con 1.300 Wh, comparar coste total y horas de enchufe exige confirmarlo antes con el distribuidor", "La autonomía real estimada baja a 40 km frente a los 60 km declarados: quien necesite más de 35-40 km por salida tendrá que planear recarga intermedia", "Neumáticos de 9 pulgadas con cámara: diámetro menor que el de 10 pulgadas y cámara expuesta a pinchazos, dos pegas concretas en bordillos y firme roto", "Velocidad máxima limitada a 25 km/h con 900 W nominales: la potencia extra va a empuje y cuestas, no a punta, algo a tener claro si se busca un Dualtron rápido"],
     veredicto:
       "El Pop Dual es el Dualtron de tracción total más accesible: dos motores, batería Samsung de 1300 Wh y 60 km declarados sin pasar de 33 kg. Ideal para quien quiere dual motor sin cargar con una bestia de 45 kg.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
@@ -709,7 +635,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body (monomotor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -757,7 +683,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Mini Special Long Body Dual Motor",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: 2900,
     autonomiaKm: 65,
@@ -780,17 +706,8 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Homologado DGT según el distribuidor español (Taller del Patinete)",
-      "Doble motor: 900 W nominales y 2900 W de pico",
-      "Batería LG de 52 V y 21 Ah: 65 km declarados",
-      "27 kg para un dual motor: muy contenido",
-    ],
-    contras: [
-      "Neumáticos de 9\": la gama media ya monta 10\"",
-      "Sin precio oficial en España",
-      "Frenos de tambor en vez de disco hidráulico",
-    ],
+    pros: ["Doble motor en un chasis Mini: tracción y respuesta en cuestas sin pasar a un patinete grande y pesado de manejar", "Batería LG de 1092 Wh con autonomía real amplia para encadenar varios días de trayectos urbanos sin vivir pendiente del cargador", "Con homologación DGT según el distribuidor español, algo poco habitual en un doble motor de este nivel de potencia", "Doble freno de tambor con ABS y EBS: frenada repartida y con apoyo electrónico, más progresiva que un único freno trasero"],
+    contras: ["Neumáticos de 9\" con cámara: filtran menos las irregularidades y son más sensibles a pinchazos que una rueda mayor sin cámara", "Frenos de tambor cerrados: cumplen, pero no ofrecen el tacto ni la potencia de un disco hidráulico cuando se exige al doble motor", "Sin precio oficial en España en la ficha, lo que complica compararlo de forma fiable frente a rivales con PVP cerrado", "Con 27 kg sigue siendo pesado para subirlo a pulso por escaleras o meterlo a diario en un maletero pequeño"],
     veredicto:
       "El Mini Special Dual es el dual motor compacto con homologación DGT: 2900 W de pico, batería LG de 1092 Wh y 27 kg. Uno de los Dualtron más sensatos para España.",
     fuenteNombre: "Taller del Patinete (distribuidor España)",
@@ -805,7 +722,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Special",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 900,
     potenciaPicoW: null,
     autonomiaKm: 55,
@@ -853,7 +770,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Aminia Long Body (dual motor)",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 65,
@@ -901,7 +818,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Raptor 2",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1800,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -950,7 +867,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Compact",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 86,
@@ -998,7 +915,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Eagle Pro / LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1021,24 +938,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "2200 W nominales y 90 km declarados con solo 30 kg",
-      "Frenos de disco + ABS y EBS: a la altura de la potencia",
-      "Batería Samsung de 60 V y 24,5 Ah en la versión LTD",
-      "Suspensión de goma delantera y trasera",
-    ],
-    contras: [
-      "Sin precio oficial en España",
-      "Neumáticos con cámara: conviene llevar kit antipinchazos",
-      "Versión LTD con batería grande, difícil de encontrar",
-    ],
+    pros: ["Entrega 2.200 W nominales sin disparar la báscula, que se queda en 30 kg", "La LTD monta batería Samsung de 60 V y 24,5 Ah, con 1.470 Wh para buscar hasta 90 km", "Detenerse no es un problema: discos en ambos ejes apoyados por ABS y frenada eléctrica EBS", "La suspensión en los dos ejes filtra baches que otros patinetes trasladan directos a las muñecas"],
+    contras: ["Ojo legal en España: figura sin certificado DGT y sus 2.200 W rebasan lo permitido a un VMP, así que no debe usarse por vía pública como tal", "A día de hoy no consta PVP oficial para el mercado español en su ficha", "Las cubiertas llevan cámara interior, por lo que un pinchazo te puede dejar tirado lejos de casa", "La configuración LTD, la de mayor batería, aparece con escasa disponibilidad en tiendas"],
     veredicto:
-      "El Eagle Pro es el punto dulce Dualtron: 2200 W, 90 km declarados y 30 kg. Potencia seria sin el peso de las bestias de 45 kg.",
+      "Quien busque un Dualtron manejable sin renunciar a empuje serio encontrará aquí su equilibrio: mucho motor, alcance largo y un peso todavía asumible en el día a día.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Revisión básica cada 3 meses; revisión completa cada 6 meses o 500 km; revisión anual al año o a los 3.000 km, según el programa de mantenimiento Dualtron", "trucos": ["Deja los neumáticos de 10 pulgadas a 50 psi, el valor indicado en el manual específico de este modelo, y revisa cortes o desgaste acusado", "Comprueba el tacto de ambas manetas, el estado de las pastillas y que ningún disco roce al girar las ruedas en vacío", "Reaprieta la tornillería del mástil, del manillar y del mecanismo de plegado, que sufre mucha vibración con el uso", "Inspecciona los cartuchos de suspensión delanteros y traseros y lubrica o sustituye el elemento si pierde suavidad", "Carga la batería solo entre 0 y 40 °C según el manual, sin dejarla agotada por completo ni enchufada sin vigilancia", "Si vas a guardarlo tres meses o más, déjalo en un sitio seco y a temperatura ambiente, lejos del sol directo"]},
   },
   {
     id: "dualtron-victory",
@@ -1046,7 +952,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Victory Luxury",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1095,7 +1001,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "City",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1144,7 +1050,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Sonic Model A",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 125,
@@ -1193,7 +1099,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "New Storm LTD",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 180,
@@ -1241,7 +1147,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Spider Max",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1264,24 +1170,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "2400 W nominales y 100 km declarados con solo 31,5 kg",
-      "Batería Samsung de 60 V y 30 Ah (1800 Wh)",
-      "Suspensión de goma delantera + cartucho trasero reemplazable",
-      "Frenos hidráulicos + ABS y EBS",
-    ],
-    contras: [
-      "Chasis estrecho: menos aplomo que un Thunder",
-      "Sin precio oficial en España",
-      "Neumáticos con cámara",
-    ],
+    pros: ["Doble tracción con 2.400 W nominales que se nota en las rampas, sin disparar el conjunto hasta los pesos habituales de esta categoría: marca 31,5 kg", "Su pack de 1.800 Wh anuncia hasta 100 km por carga, mientras la estimación real recogida en la ficha baja a unos 65 km en uso normal", "Delante trabaja una suspensión de goma y detrás un cartucho intercambiable, combinación pensada para ajustar la dureza sin sustituir todo el conjunto trasero", "Detenerse no es un punto débil aquí: monta hidráulicos sobre discos de 140 mm, apoyados por el ABS y la frenada eléctrica EBS"],
+    contras: ["Legalidad en España, el punto crítico: la ficha no aporta certificado DGT y, con 2.400 W nominales, no encaja en el retrato de un VMP corriente, así que no debe darse por válido para circular por la vía pública sin verificar antes su homologación", "La base de apoyo es reducida y transmite menos aplomo a ritmo alto que la de los hermanos mayores y más anchos de la propia casa", "Comprarlo aquí exige buscar distribuidor, porque en los datos de la ficha no figura un precio oficial para el mercado español", "Las cubiertas de 10x2,5 pulgadas llevan cámara interior, de modo que un pinchazo implica desmontar y reparar en lugar de sellar como en una tubeless"],
     veredicto:
-      "El Spider Max es el peso pluma de los Dualtron potentes: 2400 W y 1800 Wh en 31,5 kg. Para quien quiere prestaciones sin cargar con 50 kilos.",
+      "Si buscas un Dualtron veloz pero todavía transportable, este encaja: reúne mucha potencia y una batería grande conteniendo el peso en 31,5 kg. Eso sí, antes de pagarlo aclara su situación legal en España, porque sin certificado DGT su uso en vía pública no está garantizado.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Revisiones cada 3 meses; control más completo cada 6 meses o 500 km y revisión al año o a los 3.000 km, según el programa de mantenimiento de los manuales Dualtron (plataforma EY4).", "trucos": ["Antes de salir: comprueba acelerador, manetas, luces y que el plegado no tenga holguras; cualquier tornillo flojo en dirección o plegado se reaprieta antes de rodar.", "Neumáticos de 10x2,5 pulgadas con cámara a 50 psi, la presión indicada en el manual específico del Spider Max; revisa también cortes, deformaciones y desgaste de la banda de rodadura.", "Frenos hidráulicos con discos de 140 mm: vigila el grosor de las pastillas, que el disco gire sin roces y que las manetas no se noten esponjosas; si ocurre, deja de usarlo y acude al servicio técnico.", "Tornillería de manillar y potencia con el par orientativo de 6 a 8 N·m que recoge el programa de mantenimiento Dualtron; revisa igualmente los tornillos del mecanismo de plegado.", "Batería de 1.800 Wh (60 V y 30 Ah): cárgala solo entre 0 y 40 ºC según el manual, no la desmontes y, si vas a guardarlo una temporada larga, recárgala una vez cada 60 días.", "Limpieza con un paño suave y húmedo sobre la unidad principal, sin chorros de agua a presión sobre motores, conectores ni pantalla EY4.", "Firmware y ajustes desde la app Dualtron por Bluetooth con la pantalla EY4, tal como ya recoge la ficha."]},
   },
   {
     id: "dualtron-ultra-2-upgrade",
@@ -1289,7 +1184,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Ultra 2 Upgrade",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1338,7 +1233,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Achilleus",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: null,
     autonomiaKm: 120,
@@ -1361,24 +1256,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "2800 W nominales y 120 km declarados en 41,7 kg",
-      "Batería Samsung de 60 V y 35 Ah (2100 Wh)",
-      "Tubeless anchas de 11\" e hidráulicos + ABS y EBS",
-      "Suspensión de cartucho delantera y trasera reemplazable",
-    ],
-    contras: [
-      "A la sombra del Thunder en imagen",
-      "Sin precio oficial en España",
-      "41,7 kg: sigue siendo pesado",
-    ],
+    pros: ["Doble motor que entrega 2.800 W nominales: sale disparado desde parado y sostiene la velocidad sin desfallecer en rampas exigentes", "El paquete de 2.100 Wh promete hasta 120 km por carga, con unos 78 km reales que ya permiten olvidarse del enchufe durante días", "Detenerse transmite seguridad: circuito hidráulico en ambas ruedas, ayudado por ABS junto con frenada regenerativa EBS para acortar metros", "Rueda generosa de 11 pulgadas sin cámara, combinada con cartuchos intercambiables delante y detrás que dejan ajustar dureza al gusto"],
+    contras: ["No lo des por legal en la calle: en su ficha no consta certificado DGT y entrega 2.800 W nominales, perfil que en España deja fuera de la vía pública a un Dualtron tan potente", "Moverlo a mano cansa enseguida: sus 41,7 kg complican subirlo a un piso, guardarlo en un maletero o salvar escaleras a diario", "Comprarlo aquí exige buscar importador: la marca no publica tarifa oficial española para esta versión, así que el importe final cambia según tienda", "La autonomía anunciada choca con la práctica: frente a los 120 km de catálogo, la estimación real baja hasta 78 km por carga"],
     veredicto:
-      "El Achilleus es el Dualtron sensato de gama alta: 2800 W, 120 km declarados y 41,7 kg. Potencia seria sin llegar a los excesos del Thunder.",
+      "Fuera de la vía pública ofrece el equilibrio buscado: empuja fuerte, frena con solvencia y recorre muchos kilómetros por carga, a cambio de cargar 41,7 kg y aceptar que no hay tarifa oficial española.",
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Antes de cada salida, comprobaciones del manual del Achilleus (acelerador, frenos, presión y tornillería del plegado); revisión periódica de consumibles y ciclos de sustitución del manual: bisagra superior a los 2 años o 10.000 km y batería a los 2 años o 20.000 km", "trucos": ["Deja ambas cubiertas sin cámara de 11 pulgadas entre 45 y 50 psi, tal como marca el manual, y busca cortes, deformaciones o desgaste irregular antes de rodar", "Acciona dos o tres veces el acelerador comprobando que vuelve solo, aprieta las manetas para notar firmeza y revisa pastillas, posibles fugas hidráulicas y estado del disco", "Reaprieta tuercas y tornillos de manillar, cierre QR, bisagra de plegado y brazos basculantes; el distribuidor pide este control de tornillería y frenos al menos una vez al mes, porque la vibración y el ABS tienden a aflojarlos", "Limpia los discos con un paño seco y limpio si suena un silbido al frenar, girando la rueda para repasar toda la superficie antes de decidirte a acudir al servicio técnico", "Cuida el bloque de litio sin abrirlo jamás: carga solo con el cargador original, en sitio seco y ventilado, y si lo guardas más de tres meses déjalo entre el 70 y el 80 % y consérvalo seco entre 10 y 20 °C", "Vigila cartuchos de suspensión, rodamientos, ruedas y piezas del plegado como consumibles; respeta los ciclos del manual y sustituye cualquier pieza deformada o agrietada en servicio autorizado"]},
   },
   {
     id: "dualtron-x2-up",
@@ -1386,7 +1270,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "X2 UP",
-    precioEur: null,
+    precioEur: null, // Minimotors no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 5000,
     potenciaPicoW: null,
     autonomiaKm: 190,
@@ -1434,7 +1318,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior 11 Plus",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 5400,
     autonomiaKm: 90,
@@ -1482,7 +1366,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior GT Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 180,
@@ -1530,7 +1414,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Mantis 10 Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 3360,
     autonomiaKm: 80,
@@ -1625,7 +1509,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10S",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 1200,
     potenciaPicoW: null,
     autonomiaKm: 90,
@@ -1673,7 +1557,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X Pro",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 4950,
     autonomiaKm: 100,
@@ -1768,7 +1652,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X",
-    precioEur: 2819.9,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1790,7 +1674,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "precioEur"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "2200 W nominales y 100 km declarados",
       "Disponible en tienda española (2819,90 €)",
@@ -1801,6 +1685,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Precio alto para su segmento",
       "Sin pico de potencia oficial publicado",
       "33,8 kg se notan en el día a día",
+      "Sin precio oficial en España: la marca no publica tarifa oficial para este modelo",
     ],
     veredicto:
       "El Wolf Warrior X es la versión equilibrada del lobo: 2200 W, 100 km declarados y venta en España. Potencia Kaabo sin llegar al GT Pro.",
@@ -1815,7 +1700,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 8",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -1863,7 +1748,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 10",
-    precioEur: null,
+    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 47,
@@ -1910,7 +1795,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom 2.0",
-    precioEur: null,
+    precioEur: 2000, // 2.199 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 3000,
     potenciaPicoW: 3500,
     autonomiaKm: 80,
@@ -1932,18 +1817,9 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "3000 W nominales (3500 W de pico) y 80 km declarados",
-      "IP66: de los patinetes más resistentes al agua",
-      "Neumáticos PunctureGuard autorreparables de 11x4\"",
-      "Chasis y manillar rediseñados con amortiguador de dirección",
-    ],
-    contras: [
-      "46 kg: pesado para el día a día",
-      "12 horas de carga con cargador estándar",
-      "Precio en España no publicado",
-    ],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
+    pros: ["Su batería de 1.404 Wh alimenta dos motores que suman 3.000 W nominales y 3.500 W de pico en esta ficha: no está pensado para trayectos cortos de barrio, sino para mantener ritmo con conductores de hasta 150 kg, el límite de carga que declara Apollo.", "El sellado IP66 lo separa de casi todos los patinetes de altas prestaciones: está protegido contra polvo y chorros fuertes de agua, así que un chaparrón de camino a casa no es el primer problema, aunque eso no significa que sea sumergible.", "Los neumáticos tubeless de 11×4 pulgadas llevan gel PunctureGuard que sella los pinchazos pequeños sobre la marcha, un alivio muy concreto cuando pinchar una rueda de este tamaño en plena calle no se resuelve en cinco minutos.", "Frena con doble disco semi-hidráulico apoyado por el freno regenerativo Power RBS, de modo que en las bajadas largas la retención eléctrica descarga de trabajo a pastillas y discos en un conjunto que ya pesa 46 kg en orden de marcha.", "El rediseño no es solo estético: suma amortiguador de dirección para calmar el manillar a ritmo alto y pantalla DOT 2.0 con soporte para usar el móvil, con la app de Apollo, como panel ampliado."],
+    contras: ["En España no puede circular como VMP: sus 3.000 W nominales triplican el máximo de 1.000 W que fija el Manual de características VMP de la DGT y en la ficha no consta certificado DGT, por mucho que aquí figure limitado a 25 km/h. Ojo además: la versión global de Apollo declara hasta 70 km/h, también fuera del límite VMP.", "Pesa 46 kg: olvidarse de subirlo a un tren, cargarlo a un piso sin ascensor o meterlo y sacarlo del maletero a diario. El plegado ayuda a guardarlo, no a transportarlo.", "La carga completa tarda unas 12 horas con el cargador estándar según esta ficha: si llegas con la batería de 1.404 Wh vacía por la noche, a la mañana siguiente no lo tendrás lleno para volver a salir.", "La autonomía se queda en dos cifras muy distintas: Apollo declara 80 km y la estimación real recogida en la ficha baja a 52 km, y el precio en España no está publicado, así que ni el coste final ni el recorrido útil se pueden dar por cerrados antes de comprarlo."],
     veredicto:
       "El Phantom 2.0 es la reinvención del icono de Apollo: 3000 W, IP66 y 80 km declarados. Un hyper-patinete con acabado de gama alta.",
     fuenteNombre: "Apollo Scooters (web oficial)",
@@ -1959,7 +1835,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom Stellar",
-    precioEur: null,
+    precioEur: 2400, // 2.699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 6000,
     potenciaPicoW: 6700,
     autonomiaKm: 90,
@@ -1981,18 +1857,9 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
-    pros: [
-      "6000 W nominales y 6700 W de pico: el Apollo más potente",
-      "Frenos hidráulicos de 4 pistones a la altura",
-      "42 kg para 6000 W: ratio peso/potencia excelente",
-      "IP66 y neumáticos autorreparables de 11\"",
-    ],
-    contras: [
-      "Potencia solo aprovechable en circuito",
-      "8 horas de carga",
-      "Precio en España no publicado",
-    ],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
+    pros: ["Con 6.000 W nominales y 6.700 W de pico es el escalón superior de Apollo: no es un Phantom 2.0 con otro nombre, es otra liga de empuje pensada para uso cerrado", "Frenada a la altura de esa potencia: hidráulicos de 4 pistones, imprescindibles cuando hay que detener 42 kg lanzados con carga de hasta 150 kg", "Batería de 1.800 Wh que sostiene la ficha: 90 km declarados y unos 58 km reales estimados, cifra coherente para un patinete de esta potencia y peso", "Neumáticos tubeless autorreparables de 11 pulgadas: más diámetro para absorber baches y sellado que evita quedarse tirado por un pinchazo pequeño", "Sellado IP66 citado en la ficha de referencia: mejor preparado que la media de patinetes potentes para salpicaduras y polvo en uso intensivo"],
+    contras: ["En España como VMP la velocidad está limitada a 25 km/h y sin certificado DGT en la ficha: sus 6.000 W no se pueden aprovechar legalmente en vía pública, solo en circuito o recinto privado", "42 kg reales: olvídate de subirlo a un piso sin ascensor, meterlo en un maletero pequeño o combinarlo a diario con tren y escaleras", "Recarga completa en unas 8 horas: si lo vacías por la noche, necesitas dejarlo enchufado toda la noche para tenerlo listo por la mañana", "Precio en España no publicado en la ficha: sin PVP oficial aquí no hay compra impulsiva ni comparación directa con un Dualtron vendido en tienda española"],
     veredicto:
       "El Phantom Stellar es la bestia de Apollo: 6000 W nominales y 6700 W de pico en 42 kg. El rival canadiense de los Dualtron Thunder.",
     fuenteNombre: "Electric Scooter Guide (ficha técnica)",
@@ -2007,7 +1874,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City 2.0 (2026)",
-    precioEur: null,
+    precioEur: 1200, // 1.399 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 1900,
     autonomiaKm: 65,
@@ -2029,25 +1896,14 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: [
-      "Novedad 2026: diseño renovado con IP66",
-      "1900 W de pico y 65 km declarados",
-      "Doble tambor: frenada fiable y de bajo mantenimiento",
-      "Neumáticos Flatproof autorreparables de 10\"",
-    ],
-    contras: [
-      "Potencia nominal no publicada por Apollo",
-      "33 kg: mejorable para un urbano",
-      "Precio en España no publicado",
-    ],
+    aprox: ["autonomiaRealKm", "precioEur"],
+    pros: ["Carrocería revisada para 2026 con sellado IP66 frente a salpicaduras y polvo", "Empuje de hasta 1900 W en punta para superar rampas urbanas sin apuros", "Frenar resulta sencillo de mantener gracias a sus dos tambores y al apoyo regenerativo", "Cubiertas de 10 pulgadas con sellante interno que tapona pinchazos pequeños al instante"],
+    contras: ["Apollo no facilita la potencia nominal, solo declara la de pico, así que comparar resulta confuso", "Con 33 kg en báscula cuesta cargarlo en escaleras o meterlo en un maletero", "Todavía no consta tarifa oficial para comprarlo en España, lo que impide valorar su compra"],
     veredicto:
-      "El City 2.0 es la renovación 2026 del urbano de Apollo: 1900 W de pico, IP66 y 65 km declarados. El commuter premium canadiense.",
+      "Para trayectos diarios exigentes, este Apollo de 2026 combina 864 Wh, unos 42 km útiles y 120 kg de carga admitida, a cambio de cargar con 33 kg.",
     fuenteNombre: "PR Newswire (lanzamiento Apollo 2026)",
     fuenteUrl: "https://www.prnewswire.com/news-releases/apollo-launches-its-2026-lineup-302538105.html",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Revisión completa cada 6 meses, según el manual de usuario Apollo City: presión de neumáticos, ajuste de frenos, apriete de tornillería y lubricación de rodamientos y suspensión", "trucos": ["Comprobar la presión y dejarla en 45 PSI en ambas ruedas, valor indicado en el manual de Apollo", "Ajustar los frenos de tambor y comprobar que la retención regenerativa actúa al decelerar", "Reapretar toda la tornillería visible, aplicando fijador azul donde el manual lo indique si alguna pieza se afloja", "Limpiar y lubricar rodamientos y suspensión con grasa de litio en spray", "Guardar el patinete a cubierto y cuidar su batería de 864 Wh evitando dejarlo descargado durante periodos largos", "Actualizar el firmware desde la app Apollo para iOS y Android cuando la aplicación lo avise"]},
   },
   {
     id: "apollo-city-stellar",
@@ -2055,7 +1911,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Stellar (2026)",
-    precioEur: null,
+    precioEur: 1500, // 2.299 $ CAD (tarifa oficial Canadá) ÷ 1,5798 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: null,
     potenciaPicoW: 2700,
     autonomiaKm: 60,
@@ -2077,25 +1933,14 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
-    pros: [
-      "Novedad 2026: doble motor con 2700 W de pico",
-      "El City más potente manteniendo el formato urbano",
-      "IP66 y Flatproof autorreparables de 10\"",
-      "Intermitentes y doble suspensión",
-    ],
-    contras: [
-      "Potencia nominal no publicada",
-      "37,5 kg para un urbano",
-      "Precio en España no publicado",
-    ],
+    aprox: ["autonomiaRealKm", "precioEur"],
+    pros: ["Dos motores repartiéndose el trabajo y un pico declarado de 2700 W para arrancar con mucha soltura", "Su batería de 864 Wh promete hasta 60 km por carga, con 39 km reales estimados en la ficha", "Ruedas de 10 pulgadas con cubierta que sella sola los pinchazos, pensadas para no detener tu trayecto", "Incorpora intermitentes para señalizar giros y suspensión en los dos ejes, algo poco habitual en su formato"],
+    contras: ["Con 37,5 kg en báscula, moverlo a pulso por escaleras se vuelve una tarea realmente pesada", "Apollo todavía no publica su potencia nominal, y tampoco hay precio oficial confirmado para España", "El campo de certificado DGT aparece vacío, así que su homologación como VMP no consta en esta ficha"],
     veredicto:
-      "El City Stellar lleva el doble motor al formato City 2026: 2700 W de pico y 60 km declarados. El urbano premium con nervio.",
+      "La Stellar lleva la saga City a su versión más musculosa en 2026: segundo motor, 2700 W de pico y planteamiento urbano premium, lastrada por su peso y por no constar certificación DGT publicada.",
     fuenteNombre: "PR Newswire (lanzamiento Apollo 2026)",
     fuenteUrl: "https://www.prnewswire.com/news-releases/apollo-launches-its-2026-lineup-302538105.html",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Puesta a punto cada 6 meses, según el manual de usuario Apollo City: revisión de presión de neumáticos, ajuste de frenos, reapriete de tornillería, lubricación de rodamientos y de suspensión", "trucos": ["Comprobar la presión de los neumáticos de 10 pulgadas y ajustarla a los 45 PSI que el manual Apollo City marca como presión ideal para los patinetes Apollo", "Revisar el tacto y el ajuste de los dos frenos de tambor y comprobar que el freno regenerativo actúa al soltar el acelerador", "Reapretar toda la tornillería visible de manillar, mástil y ejes, usando fijatornillos azul donde lo indique el manual", "Limpiar los rodamientos y aplicar grasa de litio en spray, haciendo girar la rueda para repartirla; repetir la operación en la suspensión", "Cuidar la batería de 864 Wh evitando dejarla descargada durante periodos largos y cargándola siempre en un lugar seco y ventilado", "Inspeccionar las cubiertas autorreparables en busca de cortes o objetos clavados y retirar cualquier resto antes de seguir rodando", "Actualizar el firmware desde la app Apollo (iOS/Android) cuando la aplicación avise de una versión nueva"]},
   },
   {
     id: "apollo-city-pro",
@@ -2103,7 +1948,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 2000,
     autonomiaKm: 69,
@@ -2126,24 +1971,13 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: [
-      "Doble motor de 500 W (2000 W de pico) y 69 km declarados",
-      "IP66 y tubeless autorreparables de 10\"",
-      "App Apollo con navegación y antirrobo",
-      "29,5 kg: razonable para un dual",
-    ],
-    contras: [
-      "Doble tambor con 2000 W de pico: justo",
-      "Precio en España no publicado",
-      "La gama 2026 lo deja como modelo anterior",
-    ],
+    pros: ["Tracción en ambos ejes gracias a sus dos propulsores, que suman 1.000 W nominales y entregan 2.000 W en puntas", "La batería de 960 Wh promete hasta 69 km por carga, aunque el uso cotidiano se queda en torno a 45 km", "Cubiertas de 10 pulgadas sin cámara que se sellan solas ante perforaciones pequeñas y protegen mejor frente a pinchazos", "Desde el móvil puedes consultar rutas, bloquearlo a distancia y localizarlo si alguien lo mueve sin permiso"],
+    contras: ["Frenar depende de dos tambores más la retención regenerativa, conjunto justo cuando aprovechas los 2.000 W de pico en bajadas", "En el mercado español no consta tarifa oficial, así que comparar su coste frente a rivales resulta complicado", "Quedó desplazado por la renovación posterior de la familia City y su ficha no recoge certificado DGT, dato a verificar antes de circular en España"],
     veredicto:
-      "El City Pro 2024 es el dual urbano equilibrado de Apollo: 2000 W de pico, 69 km declarados e IP66. Una apuesta segura de la marca canadiense.",
+      "Si buscas la versión con doble tracción dentro de la familia City, esta Pro de 2024 destaca por repartir el empuje entre ambas ruedas, sostener 120 kg de carga y mantener un peso de 29,5 kg sin renunciar a una batería generosa de 960 Wh.",
     fuenteNombre: "ReviewMyPlay (ficha técnica)",
     fuenteUrl: "https://reviewmyplay.com/electric-scooter/apollo-city-pro-2024/",
-    mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
-    },
+    mantenimientoDIY: {"intervaloRevision": "Cada 6 meses según el manual de la gama City: revisión de presión de neumáticos, frenos, tornillería, rodamientos y suspensión", "trucos": ["Comprobar con bomba eléctrica la presión de ambas ruedas y ajustarla a 45 PSI, valor indicado en el manual para la gama City", "Probar los dos frenos de tambor y el apoyo regenerativo, y ajustar su tacto si la distancia de detención se alarga", "Reapretar la tornillería principal y aplicar fijador azul tipo Loctite en los puntos que presenten holgura", "Limpiar y lubricar rodamientos y elementos de la suspensión con grasa de litio en spray", "Actualizar el firmware desde la app de Apollo y revisar el estado de la batería de 960 Wh antes de periodos largos sin uso"]},
   },
   {
     id: "apollo-pro-2024",
@@ -2151,7 +1985,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Pro (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 6000,
     autonomiaKm: 100,
@@ -2200,7 +2034,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Explore (2024)",
-    precioEur: null,
+    precioEur: null, // modelo descatalogado; Apollo ya no publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1400,
     autonomiaKm: 55,
