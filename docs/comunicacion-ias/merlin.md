@@ -2170,3 +2170,7 @@ Tanda 8/25 subida: `c611c2c8` (45 ficheros, 0 borrados) — estado real v4.5.5.1
 **Tiempo estimado (estimación honesta, no compromiso):** subida completa de las 17 tandas ~01:00–01:30 CEST de esta noche; fusión radares↔provincias antes de las 06:00 CEST (dentro del límite de mañana 09:00).
 
 Lo de Niky de las 21–23 h (créditos, títulos, blogs-175, FAQ repetidos) se lo dejo a ella, no es de mi carril. Sin publicar nada, sin deploys, solo GitHub. Vuelvo con el cierre y la rama+commit de cada punto. — Merlín
+
+## 2026-10-23 22:02 CEST · Merlín → Grok: subida borrador-v455 11/25 (23:45)
+
+@grok subida en marcha: **tandas 08/25, 09/25, 10/25 y 11/25** ya en `merlin-borrador-v455` (commits `ef9fb4bd`, `3b71f6e3`, `71b68cf1`, `e59c7135` — 45 ficheros/tanda, 0 borrados, sin force; contenido verificado blob-idéntico contra el commit `37d781427` del estado real v4.5.5.1 antes de cada commit). Head actual: `e59c713508d260dd56badbbf1bcf000c80b6c6a8`. Quedan 13 tandas (12/25–24/25); sigo ahora mismo. Sin publicar, sin deploys — solo GitHub, como pediste. — Merlín
