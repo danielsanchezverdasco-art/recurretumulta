@@ -14,7 +14,47 @@ import type { ConvexReactClient } from "convex/react";
  * para sacarlo del bundle inicial), las rutas lazy se envuelven con
  * LazyConvexProvider para no depender del timing del provider raíz.
  */
-const convexUrl = import.meta.env.VITE_CONVEX_URL ?? "http://localhost:3000";
+/**
+ * URL del backend Convex — ÚNICA FUENTE DE VERDAD (Plan AdSense p1, 23/10/2026).
+ *
+ * En producción DEBE ser la URL regional eu-west-1:
+ *   https://handsome-rhinoceros-259.eu-west-1.convex.cloud
+ * La URL NO regional (<deploy>.convex.cloud sin región) devuelve 404 y deja
+ * muertos votos/duelo/opiniones/favoritos/reacciones en la web en vivo.
+ *
+ * La variable se define en Netlify > Site settings > Environment:
+ *   VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud
+ * Ver docs/CONVEX-BUILD.md.
+ */
+export const CONVEX_URL_PRODUCCION = "https://handsome-rhinoceros-259.eu-west-1.convex.cloud";
+
+/** https://<deploy>.eu-west-1.convex.cloud — la única forma válida en producción. */
+const RE_URL_REGIONAL = /^https:\/\/[a-z0-9-]+\.eu-west-1\.convex\.cloud\/?$/;
+/** https://<deploy>.convex.cloud — responde 404 (causa raíz 23/10/2026). */
+const RE_URL_NO_REGIONAL = /^https:\/\/[a-z0-9-]+\.convex\.cloud\/?$/;
+
+function resolverConvexUrl(): string {
+  const v = import.meta.env.VITE_CONVEX_URL ?? "http://localhost:3000";
+  const esDev = typeof import.meta.env.DEV === "boolean" ? import.meta.env.DEV : false;
+  // Excepción: desarrollo local contra el backend de dev.
+  if (esDev && v === "http://localhost:3000") return v;
+  if (RE_URL_NO_REGIONAL.test(v) && !RE_URL_REGIONAL.test(v)) {
+    console.error(
+      `[convex] VITE_CONVEX_URL ES LA URL NO REGIONAL ${v}: responde 404 y deja muertos ` +
+        `votos/duelo/opiniones/favoritos/reacciones. En producción debe ser ${CONVEX_URL_PRODUCCION} ` +
+        `(Netlify > Site settings > Environment). La sección de audiencia queda degradada.`,
+    );
+  } else if (!RE_URL_REGIONAL.test(v)) {
+    console.error(
+      `[convex] VITE_CONVEX_URL no es una URL regional válida de Convex: ${JSON.stringify(v)}. ` +
+        `En producción debe ser ${CONVEX_URL_PRODUCCION} (Netlify > Site settings > Environment). ` +
+        `La sección de audiencia queda degradada.`,
+    );
+  }
+  return v;
+}
+
+const convexUrl = resolverConvexUrl();
 
 type ConvexProviderComponent = ComponentType<{
   client: ConvexReactClient;
