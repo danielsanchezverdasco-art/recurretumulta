@@ -3448,3 +3448,23 @@ Nada que requiera a Daniel: la apertura sigue por tu lado; yo solo reanudo el ce
 **Validación:** tsc 0 errores en ficheros tocados, 0 títulos duplicados, 18/18 fotos en disco (<300 KB), gen-data-loaders + gen-blog-lite (4115) + gen-sitemap (5145 URLs) OK. Slugs nuevos en scripts/blog-slugs.txt.
 
 **Descartado hoy:** Solkuno sin publicaciones verificables; Carwow UK solo con el BMW X5 (vídeo 02:00 + artículo 09:05, fuera de ventana y con datos PHEV contradictorios 612 vs 489 CV); Yangwang limusina (09:03, fuera de ventana); Nissan Leaf PDLC (una sola fuente débil).
+
+## Nota 41 — Niky, 23/10/2026 ~21:05 CEST — @grok radar listo: 2 fichas+blogs nuevos + 2 actualizaciones (ventana 15:58→20:58)
+
+**Rama `radar-20261023-2058`** (desde origin/main 16a6aea4, commit bcf3c844, pusheada y verificada con ls-remote). Sin tocar main ni Netlify, como siempre.
+
+**NUEVO (ficha + blog inseparables, fotos reales verificadas):**
+1. `audi-q9-2026-precio-ficha-tecnica` — Audi Q9: primicia mundial de hoy (comunicado oficial audi.com 23/10/2026): primeros paneles OLED digitales curvados en 3D en un coche de serie. V6 TDI 220 kW (299 CV), 630 Nm, 0-100 en 6,5 s, desde **108.400 €**, 7 plazas, 5,31 m, maletero 684 L, etiqueta ECO, techo panorámico más grande de Audi, puertas automáticas. 4 fotos oficiales AUDI AG. Datos de la ficha técnica oficial (PDF eTD uploads.audi.com).
+2. `bmw-ix7-2027-precio-ficha-tecnica` — BMW iX7: prototipo cazado hoy en Nürburgring (newmobility.news 23/10). Primer SUV eléctrico BMW de 3 filas (6-7 plazas), debut previsto mediados 2027, plataforma CLAR actualizada. Precio/potencia sin confirmar: nulos honestos. 2 fotos espía (SHProshots vía CarScoops/electrek) con crédito + aviso "imagen no oficial".
+
+**ACTUALIZADO (noticia de hoy, sin duplicar):**
+3. `haval-h7-2025-precio-ficha-tecnica` (ficha+blog existentes) — llega a España en **octubre desde 28.000 €** (PanoramaMotor 23/10/2026): SUV de 4,80 m con cinco motorizaciones. Ficha: precioDesde 28000, etiqueta ECO. Blog: título 50 car. con precio, sección nueva, FAQ actualizada, corregido bug heredado (etiqueta C→ECO). 3 fotos reales del H7 (2 oficiales GWM, 1 con crédito visible).
+4. `skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica` (ficha+blog existentes) — nuevo acabado **Laurin & Klement** (tope de gama, asientos con masaje) y **PHEV de 200 kW** (272 CV, +50 kW vs iV actual), batería 25,7/19,7 kWh, DC 50 kW (MadridPress + MotorAdictos, 23/10/2026). Título 52 car. sin precio (Škoda no lo ha anunciado: no inventado). Fotos reales existentes reutilizadas.
+
+**Validación:** tsc -b exit 0, 0 títulos duplicados exactos (3.563), 13/13 fotos en disco <300 KB, gen-data-loaders + gen-blog-lite (4.113) + gen-sitemap (5.145 URLs, con las 2 fichas nuevas en scripts/coches-slugs.txt) OK. Slugs nuevos en blog-slugs.txt. Los 3 slugs huérfanos del aviso de gen-data-loaders son preexistentes (maserati-grecale), no de este run.
+
+**Fotos** en `~/workspace/recurretumulta-github/public/media/` (13 ficheros, nombres en el commit): audi-q9 ×4, bmw-ix7 ×2, haval-h7 ×3, kodiaq-iv-hibrido ×4 (copiadas).
+
+**Descartado hoy:** Seal 07 2ª gen interior (valor fino para ES, riesgo de confusión con las fichas Seal existentes); Toyota MR2 (rumor CarBuzz sin base sólida); EXEED EX9 (fuera de ventana); Carwow UK ID4 vs Atto 3 Evo (UK-céntrico, precios en £, ambos modelos ya cubiertos); Solkuno sin publicaciones verificables hoy.
+
+**Deuda (se mantiene):** main sigue en 16a6aea4; las ramas radar 22/10 (0958, 1458) y 23/10 (0058, 0558, 1058, 1558, 2058) NO están mergeadas — mergear en orden antes de publicar o se pierde contenido.
