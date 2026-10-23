@@ -1145,6 +1145,26 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "licencia": "prensa",
 "url": "https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html"
 },
+"/media/bmw-ix7-2027-prototipo-video-1.webp": {
+"autor": "autoevolution (fotograma del vídeo)",
+"licencia": "prensa",
+"url": "https://www.youtube.com/watch?v=oNH71FwnqNw"
+},
+"/media/bmw-ix7-2027-prototipo-video-2.webp": {
+"autor": "autoevolution (fotograma del vídeo)",
+"licencia": "prensa",
+"url": "https://www.youtube.com/watch?v=oNH71FwnqNw"
+},
+"/media/bmw-ix7-2027-prototipo-video-3.webp": {
+"autor": "autoevolution (fotograma del vídeo)",
+"licencia": "prensa",
+"url": "https://www.youtube.com/watch?v=oNH71FwnqNw"
+},
+"/media/bmw-i7-carwow-ofertas.webp": {
+"autor": "Carwow",
+"licencia": "prensa",
+"url": "https://www.carwow.es/bmw/i7/ofertas"
+},
 "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-1.webp": {
 "autor": "ForoCochesEléctricos (foto oficial de prensa BMW)",
 "licencia": "prensa",

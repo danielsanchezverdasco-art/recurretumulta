@@ -1260,6 +1260,12 @@ export const COCHES_BMW: CocheComparador[] = [
         "ancho": 1280,
         "alto": 720
       },
+      {
+        "src": "/media/bmw-i7-carwow-ofertas.webp",
+        "alt": "BMW i7 blanco, vista de tres cuartos delantera (imagen de Carwow)",
+        "ancho": 800,
+        "alto": 500
+      },
     ],
   },
   {
@@ -2361,6 +2367,24 @@ export const COCHES_BMW: CocheComparador[] = [
         "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en pruebas, vista trasera sin salidas de escape",
         "ancho": 1280,
         "alto": 758
+      },
+      {
+        "src": "/media/bmw-ix7-2027-prototipo-video-1.webp",
+        "alt": "Foto espía (no oficial): fotograma del vídeo de autoevolution con el prototipo camuflado del BMW iX7, detalle del frontal con parrilla y faros divididos",
+        "ancho": 640,
+        "alto": 254
+      },
+      {
+        "src": "/media/bmw-ix7-2027-prototipo-video-2.webp",
+        "alt": "Foto espía (no oficial): fotograma del vídeo de autoevolution, prototipo camuflado del BMW iX7 en marcha, trasera sin salidas de escape",
+        "ancho": 640,
+        "alto": 254
+      },
+      {
+        "src": "/media/bmw-ix7-2027-prototipo-video-3.webp",
+        "alt": "Foto espía (no oficial): fotograma del vídeo de autoevolution, perfil lateral del prototipo camuflado del BMW iX7",
+        "ancho": 640,
+        "alto": 254
       },
     ],
     fuenteNombre: "CarScoops",
