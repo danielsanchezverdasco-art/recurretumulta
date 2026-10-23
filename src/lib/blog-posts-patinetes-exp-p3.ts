@@ -1765,73 +1765,68 @@ Sí, como VMP **limitado a 25 km/h**.
       "hiboy barato",
       "patinete plegable ligero",
     ],
-    content: `<img src=/media/patinetes/hiboy-s2-lite-1.webp alt=Hiboy S2 Lite, vista lateral del patinete ultraligero>
-
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-s2-lite/>Ver ficha técnica del Hiboy S2 Lite</a>: peso, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Hiboy S2 Lite** hace honor a su nombre: **9,9 kg**, motor de **250 W** (400 W de pico), **17 km** declarados y **21 km/h**. No pretende ser tu único vehículo: es el patinete pluma para el último kilómetro.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | Gama de entrada Hiboy |
-| **Motor** | 250 W (400 W de pico) |
-| **Batería** | 36V 5Ah (180 Wh) |
-| **Autonomía declarada** | 17 km |
-| **Autonomía real estimada** | ≈11 km |
-| **Velocidad máxima** | 21 km/h |
-| **Peso** | 9,9 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-s2-lite/>Ficha técnica completa del Hiboy S2 Lite</a>.
-
-## Precio del Hiboy S2 Lite en España
-
-Gama de entrada de Hiboy: su argumento es el precio bajo unido a los 9,9 kg. Perfecto como segundo patinete o para estudiantes.
-
-<img src=/media/patinetes/hiboy-s2-lite-2.webp alt=Detalle del Hiboy S2 Lite plegado>
-
-## Autonomía real vs declarada
-
-**17 km declarados** que en la práctica son **unos 11 km**. Suficiente para 3-4 km por trayecto; si tu ruta es más larga, mira el S2 normal o el KS4.
-
-## Frenos y neumáticos
-
-Freno electrónico y de disco en formato compacto, con ruedas pequeñas. A 21 km/h y 9,9 kg, el equipo es proporcionado.
-
-## Certificado DGT y normativa VMP
-
-Con **21 km/h** de máxima, es un VMP legal sin problemas: **prohibido en aceras**, por carril bici o calzada permitida, y a disfrutar.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 9,9 kg: se sube sin enterarte | 17 km: autonomía justa |
-| Ideal último kilómetro | 250 W: las cuestas cuestan |
-| Precio de acceso | Batería de 180 Wh |
-| Plegado compacto | Sin extras |
-| Suficiente en llano | Sufre con más de 80 kg |
-
-<img src=/media/patinetes/hiboy-s2-lite-3.webp alt=Hiboy S2 Lite en el metro>
-
-## Preguntas frecuentes
-
-### ¿Cuánto pesa?
-**9,9 kg**: lo llevas con una mano.
-
-### ¿Qué autonomía real tiene?
-Unos **11 km**.
-
-### ¿Para quién es?
-Para **trayectos cortos** (3-4 km) combinados con transporte público, o como segundo patinete.
-
-### ¿Es legal en España?
-Sí: **21 km/h**, dentro del límite VMP de 25 km/h.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+    content: `<p>El Hiboy S2 Lite es un patinete eléctrico pensado para adolescentes desde 12 años y conductores de hasta 1,70 m: motor de 250 W, 21 km/h, unos 17 km de autonomía declarada y solo 9,9 kg, con precio oficial en Estados Unidos de 299,99 dólares en promoción.</p>
+<p>Conviene empezar por la advertencia que el análisis anterior no hacía: no es un patinete de adulto al uso, sino el escalón de acceso de la gama Hiboy, dimensionado para cuerpos ligeros. La propia marca lo anuncia como modelo para jóvenes, con alturas recomendadas entre 3'7" y 5'7" —1,09 a 1,70 metros— y una carga máxima de 82 kilos que deja fuera a buena parte de los adultos. Quien lo valore como herramienta de último kilómetro para ir a trabajar debería mirar antes a su hermano mayor, el <a href=/blog/hiboy-max-pro>Hiboy Max Pro</a>, porque el Lite juega en otra liga: trayectos cortos, ritmo tranquilo y cero complicaciones mecánicas.</p>
+<img src=/media/patinetes/hiboy-s2-lite-1.webp alt=Hiboy S2 Lite en rosa con luces laterales azules encendidas>
+<h2>Ficha rápida del Hiboy S2 Lite</h2>
+<table>
+<thead><tr><th>Dato</th><th>Cifra oficial</th></tr></thead>
+<tbody>
+<tr><td>Motor</td><td>250 W nominales, 400 W de pico</td></tr>
+<tr><td>Batería</td><td>36 V con 5 Ah, 180 Wh en total</td></tr>
+<tr><td>Velocidad máxima</td><td>13 mph, unos 21 km/h</td></tr>
+<tr><td>Autonomía declarada</td><td>10,6 millas, unos 17 km</td></tr>
+<tr><td>Peso</td><td>21,8 libras, unos 9,9 kg</td></tr>
+<tr><td>Carga máxima</td><td>180 libras, unos 82 kg</td></tr>
+<tr><td>Ruedas</td><td>Sólidas de 6,5 pulgadas</td></tr>
+<tr><td>Frenos</td><td>Electrónico con ABS y freno trasero de pie</td></tr>
+<tr><td>Protección al agua</td><td>IPX4</td></tr>
+<tr><td>Tiempo de carga</td><td>Entre 3 y 5 horas</td></tr>
+</tbody>
+</table>
+<p>Todos los datos, con sus medidas y pesos, están reunidos en <a href=/patinetes/hiboy-s2-lite>la ficha del Hiboy S2 Lite</a>; para cruzarlo con modelos de adulto de precio parecido sirve el <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a> de esta misma web.</p>
+<h2>Motor de 250 W: potencia de iniciación, sin disimulo</h2>
+<p>El motor rinde 250 W nominales y estira hasta 400 W en los picos de demanda. Hiboy le atribuye capacidad para superar pendientes de hasta 15 grados, una cifra que suena generosa para un conjunto tan ligero y que en el uso diario equivale a cuestas suaves resueltas sin ayuda del pie y rampas serias solo con conductores muy livianos. La aceleración es progresiva por diseño: el público al que se dirige no necesita salidas bruscas, y la electrónica lo sabe.</p>
+<h3>Dos modos y control de crucero desde el panel</h3>
+<p>El cuadro LED central gobierna todo con el botón de encendido: un clic para las luces, dos para alternar entre modo Eco y modo Sport —solo en Sport se alcanzan los 21 km/h— y tres para activar o soltar el control de crucero, que mantiene la velocidad en tramos despejados sin sujetar el acelerador. No hay aplicación móvil: Hiboy declara expresamente «App Sync: No», así que no existen ajustes finos, bloqueo remoto ni registro de rutas. A cambio, tampoco hay cuentas, emparejamientos ni actualizaciones que fallen.</p>
+<h2>Batería de 180 Wh y autonomía realista</h2>
+<p>El paquete de 36 V y 5 Ah suma 180 Wh, el dato que explica tanto el peso pluma como el alcance corto. Los 17 kilómetros oficiales se miden en condiciones ideales; con un adolescente de 50-60 kilos en llano cabe esperar entre 12 y 15 kilómetros útiles, y con un adulto cerca del límite de carga la cifra puede caer por debajo de los 10. Es un radio de acción de barrio: ir al instituto, bajar a la pista, moverse por un campus. Para distancias mayores, la batería no da más de sí y no existe opción de segunda unidad externa.</p>
+<p>La recarga completa lleva entre 3 y 5 horas según la ficha oficial, un intervalo amplio que en la práctica suele quedarse cerca de las 4 horas con el cargador incluido. La marca añade un detalle poco habitual en este segmento: el tiempo de almacenamiento declarado tras una carga completa es de tres meses, un guiño a quien lo guarda en vacaciones sin usarlo.</p>
+<img src=/media/patinetes/hiboy-s2-lite-2.webp alt=Detalle del mástil y la base del Hiboy S2 Lite con su iluminación decorativa>
+<h2>Ruedas sólidas de 6,5 pulgadas y freno de pie</h2>
+<p>Las ruedas macizas de 6,5" eliminan pinchazos y mantenimiento, pero son pequeñas y duras: cada junta del pavimento y cada baldosa suelta llegan al conductor sin filtrar, porque además no hay suspensión en ninguno de los dos ejes. En seco el agarre basta para su ritmo; con el suelo mojado conviene alargar las distancias de frenada y bajar el ritmo en curvas, un consejo que vale el doble con neumáticos sólidos.</p>
+<h3>Corrección importante: no lleva freno de disco</h3>
+<p>El texto anterior de esta página afirmaba que el S2 Lite combinaba freno electrónico y de disco. La ficha oficial de Hiboy dice otra cosa: el sistema de frenado es doble, sí, pero está formado por un freno electrónico con función ABS y un freno trasero de pie, el clásico que se acciona apoyando el talón sobre el guardabarros. La propia casa recomienda usar ambos a la vez para acortar la detención. No es un mal sistema para 21 km/h y 82 kilos de carga máxima, pero quien venga de un patinete con disco debe saber que la técnica aquí es distinta y que el freno de pie exige anticipación.</p>
+<h2>Luces por todas partes y plegado compacto</h2>
+<p>El apartado donde el Lite se desmarca de los patinetes baratos genéricos es la iluminación: faro LED delantero, luz en el mástil, pilotos laterales azules y luz trasera componen un conjunto de cuatro puntos pensado para que el conductor sea visto al atardecer, justo cuando más se usa un patinete juvenil. Plegado, mide 43,3 × 17,7 × 11 pulgadas —aproximadamente 110 × 45 × 28 centímetros— y sus 9,9 kilos permiten subirlo a un piso sin ascensor o meterlo en el maletero del coche sin esfuerzo. Se vende en rosa y en negro.</p>
+<h2>Normativa en España: ojo con la edad mínima</h2>
+<p>Los 12 años que Hiboy marca para Estados Unidos no se trasladan sin más a nuestro país. Aquí el S2 Lite, con sus 21 km/h, entraría en la definición legal del vehículo de movilidad personal, pero muchos ayuntamientos españoles fijan la edad mínima para conducir un VMP en 16 años, por encima del requisito del fabricante. Antes de regalar uno, revisa la ordenanza de tu municipio y las reglas generales que resumimos en nuestra <a href=/blog/patinete-electrico-normativa-dgt-2026-multas>guía sobre normativa y multas de patinetes</a>. Y recuerda que circular por la acera está prohibido con carácter general, con sanciones que conviene conocer antes de estrenarlo.</p>
+<h2>Precio: cuánto cuesta y dónde comprarlo</h2>
+<p>En la tienda oficial de Hiboy para Estados Unidos el S2 Lite figura a 299,99 dólares en oferta, sobre un precio tachado de 439,99 dólares; es un precio promocional, no el PVP de lista. No existe tienda oficial de la marca en Europa que lo liste en euros, de modo que en España aparece de forma intermitente a través de importadores y marketplaces, con precios variables que no son precios oficiales. Si lo ves anunciado, exige factura y garantía gestionable en Europa: en un producto de este importe, el ahorro de comprarlo sin respaldo se paga en la primera avería.</p>
+<img src=/media/patinetes/hiboy-s2-lite-3.webp alt=Hiboy S2 Lite plegado junto a una mochila para mostrar su tamaño>
+<h2>Pros y contras</h2>
+<ul>
+<li><strong>A favor:</strong> 9,9 kg reales: figura entre los patinetes eléctricos con menor peso que se venden.</li>
+<li><strong>A favor:</strong> conjunto de iluminación de cuatro puntos, muy superior a lo habitual en su precio.</li>
+<li><strong>A favor:</strong> cero pinchazos y cero mantenimiento de ruedas gracias a los neumáticos macizos.</li>
+<li><strong>En contra:</strong> carga máxima de 82 kg y talla para conductores de hasta 1,70 m; no es para adultos grandes.</li>
+<li><strong>En contra:</strong> autonomía real corta, en torno a 12-15 km con conductores ligeros.</li>
+<li><strong>En contra:</strong> freno trasero de pie y ausencia total de suspensión: comodidad y frenada básicas.</li>
+</ul>
+<h2>Veredicto</h2>
+<p>El Hiboy S2 Lite cumple exactamente lo que promete su ficha: un primer patinete eléctrico ligero, visible y sencillo para adolescentes que recorren distancias cortas en entornos tranquilos. Sus límites están declarados por la propia marca —82 kilos de carga, 180 Wh, 21 km/h— y no hay letra pequeña que los disimule. Como compra para un adulto, en cambio, queda descartado por tamaño, potencia y frenos; para ese perfil, el comparador de la web ofrece alternativas con batería doble y ruedas neumáticas por un desembolso no muy superior.</p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Puede conducirlo un niño de 12 años en España?</h3>
+<p>La marca lo recomienda desde los 12 años en su mercado de origen, pero en España mandan las ordenanzas municipales: numerosos ayuntamientos exigen 16 años para circular con un vehículo de movilidad personal. Consulta la norma de tu ciudad antes de usarlo en vía pública.</p>
+<h3>¿Qué autonomía real cabe esperar?</h3>
+<p>Hiboy declara 10,6 millas, unos 17 km, en condiciones ideales. Con un conductor adolescente en terreno llano lo razonable es contar con 12 a 15 km; con adultos próximos al límite de 82 kg, la autonomía puede bajar de 10 km.</p>
+<h3>¿Tiene freno de disco?</h3>
+<p>No. El sistema oficial es un freno delantero electrónico con ABS más un freno trasero de pie sobre el guardabarros. Hiboy recomienda combinar ambos para detenerlo en menos metros.</p>
+<h3>¿Se puede mojar?</h3>
+<p>Su certificación IPX4 tolera salpicaduras y lluvia ligera, pero la propia marca desaconseja atravesar charcos profundos o circular bajo lluvia intensa.</p>
+<p>Y una nota al margen de las compras: cuando una multa te parezca injusta —por rodar en patinete por la acera, sin el casco exigido en tu ciudad o con un menor al manillar—, no la pagues sin más: deja que <a href=https://recurretumulta.online/>nuestro analizador de multas</a> la revise gratis y te diga si el expediente admite recurso antes de acogerte al descuento. El premio gordo, eso sí, está en <a href=/juego-monos/>el juego de los monos</a>, donde aguardan trescientas cincuenta figuras repartidas por las páginas de esta web: dos mil euros esperan a quien las localice todas antes que nadie.</p>
+<h2>Fuentes</h2>
+<p>Ficha oficial del producto en la tienda del fabricante: <a href=https://www.hiboy.com/products/hiboy-s2-lite?msclkid=49a6bfd4139116c3f97bd95287925b9f>Hiboy S2 Lite en hiboy.com</a> (potencias, batería, pesos, carga máxima, sistema de frenado, IPX4 y precios en dólares consultados en la propia página). Las reglas de circulación citadas se resumen en nuestra guía de normativa VMP enlazada en el texto.</p>`,
   },
   {
     slug: "hiboy-max-pro",
@@ -2669,78 +2664,66 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
       "patinete robusto",
       "iscooter 486",
     ],
-    content: `<img src=/media/patinetes/iscooter-ix5s-1.webp alt=iScooter iX5S, vista lateral del patinete robusto>
-
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix5s/>Ver ficha técnica del iScooter iX5S</a>: potencia, carga máxima y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **iScooter iX5S** es el caballo de batalla de la marca: **1.000 W**, **720 Wh** (48V 15Ah), **64 km declarados**, **150 kg de carga máxima** y doble suspensión, por **486 €**. Potencia y robustez sin arruinarse.
-
-## Ficha técnica resumida
-
-| Dato | Valor |
-|---|---|
-| **Precio** | 486 € |
-| **Motor** | 1.000 W |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 64 km |
-| **Autonomía real estimada** | ≈43 km |
-| **Velocidad máxima** | 45 km/h |
-| **Peso / carga máx.** | 27 kg / 150 kg |
-
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-ix5s/>Ficha técnica completa del iScooter iX5S</a>.
-
-## Precio del iScooter iX5S en España
-
-**485,97 €** en el marketplace europeo de iScooter. Por menos de 500 €, 1.000 W y 150 kg de carga no tienen rival.
-
-<img src=/media/patinetes/iscooter-ix5s-2.webp alt=Detalle de la suspensión del iScooter iX5S>
-
-## Autonomía real vs declarada
-
-**64 km declarados**; en uso mixto, **unos 43 km reales**. Con 1.000 W y 27 kg, es una cifra honesta.
-
-## Frenos y neumáticos
-
-**Disco delantero y trasero + freno electrónico**, con **neumáticos off-road de 11 pulgadas**. La suspensión combina doble horquilla delantera con amortiguador central trasero: se nota en firmes rotos.
-
-## Certificado DGT y normativa VMP
-
-Con **45 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **aceras**; carril bici o calzada permitida.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 1.000 W por 486 € | 27 kg: pesado |
-| 150 kg de carga máxima | A 45 km/h hay que limitarlo |
-| 64 km declarados | Plegado aparatoso |
-| Doble suspensión | Tiempo de carga sin publicar |
-| Ruedas de 11" off-road | Para ciudad hay opciones más ligeras |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/tmP9ZAsrqXw title=\"Prueba del iScooter iX5S\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
-
-<img src=/media/patinetes/iscooter-ix5s-3.webp alt=iScooter iX5S en pista forestal>
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta?
-**486 €** en el marketplace europeo.
-
-### ¿Cuánto peso aguanta?
-**150 kg**: de los más capaces del mercado.
-
-### ¿Qué autonomía real tiene?
-Unos **43 km**.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-### ¿Para quién es?
-Para quien prioriza **fuerza y robustez** sobre ligereza: riders pesados, cuestas y firmes malos.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter>iScooter EU</a>.*`,
+    content: `<p>El iScooter iX5S es un patinete todoterreno de 1.000 W con una batería que suma 720 Wh —15 Ah a 48 voltios—, ruedas neumáticas de 11 pulgadas y una punta que alcanza los 45 km/h cuando rueda sin limitar, a la venta en la tienda oficial europea de la marca por 429,99 euros.</p>
+<p>Es el modelo con el que iScooter —marca de venta casi exclusivamente online— ataca el segmento de los patinetes camperos baratos: mucha rueda, doble suspensión y una batería grande a precio de patinete urbano. La letra pequeña es la de casi todo el segmento: esos 45 km/h lo sitúan fuera de la normativa española de VMP tal como sale de la caja, y la versión europea se entrega limitada a 25 km/h, sin que conste certificado de la DGT para el modelo. Este análisis usa los datos de la propia tienda oficial y de su manual, y corrige dos cosas del texto anterior: el tiempo de carga sí está publicado y el enlace de compra que citábamos apuntaba a otro modelo.</p>
+<img src=/media/patinetes/iscooter-ix5s-1.webp alt=iScooter iX5S con neumáticos todoterreno de 11 pulgadas y doble suspensión>
+<h2>Ficha técnica oficial del iX5S</h2>
+<table>
+<thead><tr><th>Dato</th><th>Cifra oficial</th></tr></thead>
+<tbody>
+<tr><td>Motor trasero</td><td>1.000 W</td></tr>
+<tr><td>Peso</td><td>27,3 kg</td></tr>
+<tr><td>Carga máxima</td><td>150 kg</td></tr>
+<tr><td>Neumáticos</td><td>Neumáticos todoterreno de 11 pulgadas</td></tr>
+<tr><td>Frenos</td><td>Dos discos, uno por rueda, más el freno electrónico</td></tr>
+<tr><td>Batería</td><td>720 Wh, con celdas a 48 V y 15 Ah de capacidad</td></tr>
+<tr><td>Autonomía declarada</td><td>60-65 km en las condiciones de ensayo de la marca</td></tr>
+<tr><td>Velocidad máxima</td><td>45 km/h en abierto; 25 km/h en la versión europea</td></tr>
+<tr><td>Tiempo de carga</td><td>Entre 5 y 7 horas</td></tr>
+<tr><td>Precio oficial europeo</td><td>429,99 € en iscooterglobal.eu</td></tr>
+</tbody>
+</table>
+<p>Su ficha en esta web es <a href=/patinetes/iscooter-ix5s>la ficha del iScooter iX5S</a>; para enfrentarlo a los todoterreno de marcas con red en España está el <a href=/comparador-patinetes/>comparador de patinetes eléctricos</a>.</p>
+<h2>1.000 W y ruedas de 11 pulgadas: otro carácter</h2>
+<p>Frente al urbano típico, de rueda más pequeña, el iX5S rueda sobre neumáticos de 11 pulgadas con dibujo todoterreno y cámara de aire. La rueda grande pisa mejor los baches, sube bordillos bajos con menos drama y permite salirse a pistas de tierra compactada sin ir botando; a cambio, el conjunto pesa 27,3 kg y ocupa como un patinete de gama alta. El motor trasero de 1.000 W cumple en pendientes urbanas serias incluso con conductores pesados —la marca homologa hasta 150 kg de carga— y los modos de velocidad permiten domesticarlo en zonas concurridas.</p>
+<h2>Los 60-65 km declarados, leídos con su letra pequeña</h2>
+<p>La tienda global de iScooter anuncia entre 60 y 65 km por carga, y su propio manual de condiciones lo matiza: medición con un conductor de 70 kg, 25 grados de temperatura, terreno llano y velocidad constante de 15 km/h. Son las condiciones menos exigentes imaginables para una batería de 720 Wh. A 25 km/h sostenidos por ciudad, lo verosímil es moverse entre 40 y 48 km; deslimitado y a fondo, la cifra cae a la mitad. En cualquier caso, es de los patinetes de su precio con más reserva real para el día a día, ayudado porque la batería de 720 Wh es físicamente grande para la categoría.</p>
+<h3>Carga de 5 a 7 horas: sí estaba publicada</h3>
+<p>La versión anterior de este artículo listaba como punto en contra que la marca no publicaba el tiempo de carga. Error nuestro: el manual y las fichas oficiales del iX5S lo dan: de 5 a 7 horas en total con el cargador incluido. Queda corregido; sigue siendo una carga larga, propia de un paquete de 720 Wh alimentado con un cargador modesto, y en la práctica convierte al patinete en vehículo de enchufe nocturno, pero el dato existía y está bien que conste también aquí.</p>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;margin:16px 0;"><iframe src="https://www.youtube.com/embed/tmP9ZAsrqXw" title="Prueba del iScooter iX5S" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe></div>
+<h2>Doble disco, doble suspensión y extras de gama superior</h2>
+<p>La frenada recae en dos discos mecánicos con pinza, apoyados por el freno regenerativo del motor, y la suspensión trabaja en ambos ejes, algo que unido a las ruedas neumáticas grandes da el rodar más cómodo de esta serie de análisis. El equipamiento incluye control desde aplicación móvil —bloqueo, modos y estadísticas—, intermitentes integrados según el manual de la versión europea y plegado del mástil para guardarlo, aunque con 27,3 kg el plegado es más un trámite de maletero que de transporte público. La tienda europea anuncia 12 meses de garantía general para la gama.</p>
+<img src=/media/patinetes/iscooter-ix5s-2.webp alt=Detalle del disco de freno y la rueda todoterreno del iScooter iX5S>
+<h2>En el día a día: barro, maletero y cuidados</h2>
+<p>Donde el iX5S gana a los urbanos es en los terrenos de compromiso: caminos de parque, pistas de urbanización y carriles con gravilla suelta dejan de ser territorio prohibido gracias al dibujo de los neumáticos y al recorrido de las suspensiones. El reverso es el mantenimiento de un patinete que se ensucia: tras rodar por tierra conviene limpiar los discos con un trapo —un disco contaminado de barro frena peor y chilla— y revisar que no entre gravilla en el mecanismo de plegado. Guardado, ocupa lo que promete su tamaño: el mástil se abate sobre la base y entra en el maletero de un compacto, pero entre dos personas se maneja mejor que a pulso, porque los 27,3 kg se notan en cuanto hay escaleras.</p>
+<h2>Su encaje en la normativa española</h2>
+<p>Tal como sale de la caja, a 45 km/h, el iX5S no es un VMP; la versión europea limitada a 25 km/h se acerca a la definición, pero para circular legalmente en España hace falta además el certificado del fabricante registrado ante la DGT, y para este modelo no lo hemos localizado. La conclusión práctica es la misma que para otros patinetes potentes de venta online: su disfrute sin riesgo de sanción queda en recintos privados y vías no abiertas al tráfico general. Antes de decidir, repasa el detalle en nuestra <a href=/blog/patinete-electrico-normativa-dgt-2026-multas>guía de la normativa de patinetes eléctricos</a> y compáralo con los modelos certificados del comparador.</p>
+<h2>Precio: 429,99 euros oficiales en Europa</h2>
+<p>La tienda oficial europea de iScooter lista el iX5S a 429,99 euros con stock y envío desde Europa. El texto anterior citaba 486 euros en Amazon apoyado en un enlace que en realidad llevaba a otro modelo de la marca —el iX8—, un error de fuente que queda señalado y corregido: el precio de referencia es el de la tienda de la propia marca, y las ofertas de marketplaces deben comprobarse unidad a unidad porque las fichas de esta familia se mezclan con frecuencia entre iX4, iX5S e iX7.</p>
+<img src=/media/patinetes/iscooter-ix5s-3.webp alt=iScooter iX5S desplegado junto a una pista de tierra>
+<h2>Pros y contras</h2>
+<ul>
+<li><strong>A favor:</strong> ruedas neumáticas de 11 pulgadas y doble suspensión: confort raro en este precio.</li>
+<li><strong>A favor:</strong> 720 Wh de batería con autonomía real útil para varios días de recados.</li>
+<li><strong>A favor:</strong> admite conductores de hasta 150 kg, un techo poco común en el segmento económico.</li>
+<li><strong>En contra:</strong> 27,3 kg y tamaño grande: portabilidad muy limitada.</li>
+<li><strong>En contra:</strong> sin certificado DGT localizado, su sitio no es la vía pública española.</li>
+<li><strong>En contra:</strong> venta solo online; la garantía se gestiona con la tienda europea, sin red física.</li>
+</ul>
+<h2>Veredicto</h2>
+<p>El iX5S es probablemente el patinete todoterreno con mejor relación entre batería, rueda y precio de esta serie, y sus datos oficiales son más honestos que los de varios rivales cuando se lee la letra pequeña del ensayo de autonomía. Sus límites son estructurales: peso de casi 30 kg, carga de una noche entera y un estatus legal que en España lo confina al uso privado salvo que aparezca certificación. Para una casa de campo, una urbanización privada o desplazamientos por pistas permitidas, es una compra redonda por 429,99 euros; para ir a trabajar por la ciudad, no es el instrumento adecuado.</p>
+<h2>Preguntas frecuentes</h2>
+<h3>¿Cuánto dura la batería en un uso normal?</h3>
+<p>Con los 720 Wh y un conductor medio a 25 km/h, cuenta con 40 a 48 km reales por carga. Los 60-65 km oficiales exigen rodar a 15 km/h constantes con 70 kg, según las condiciones que la propia marca publica.</p>
+<h3>¿Puede subir a un conductor de 120 kg?</h3>
+<p>Sí: la carga máxima oficial es de 150 kg, de las más generosas del segmento. A cambio, la autonomía y la respuesta en pendiente se resienten como en cualquier eléctrico.</p>
+<h3>¿Sirve la aplicación para limitarlo a 25 km/h?</h3>
+<p>La aplicación y los modos permiten limitar la velocidad, y la versión europea ya sale limitada a 25 km/h. Eso no sustituye al certificado de la DGT a efectos legales en España.</p>
+<h3>¿Qué garantía tiene?</h3>
+<p>iScooter ofrece doce meses de garantía en su tienda europea para la gama. Guarda factura y número de serie a buen recaudo: sin tienda física en España, toda gestión es por correo y mensajería.</p>
+<p>Si te multan rodando por una vía prohibida con un patinete de este tipo, antes de pagar con el descuento revisa el expediente: tráelo a <a href=https://recurretumulta.online/>nuestro analizador de multas</a> y sal de dudas sin gastar un euro, porque una parte de estas denuncias cae por defectos de notificación o de identificación. También puedes dedicar el rato a <a href=/juego-monos/>el juego de los monos</a>, que esconde trescientas cincuenta piezas por el sitio, con dos mil euros de recompensa para la primera persona que las encuentre en su totalidad.</p>
+<h2>Fuentes</h2>
+<p>Tienda oficial europea de la marca: <a href=https://www.iscooterglobal.eu/es/products/scooter-electrico-todoterreno-iscooter-ix5s-1000w>iScooter iX5S en iscooterglobal.eu</a> (precio de 429,99 €, motor de 1.000 W, autonomía y garantía de 12 meses). Las condiciones del ensayo de autonomía, el tiempo de carga de 5 a 7 horas y el peso de 27,3 kg proceden del manual y las fichas globales del fabricante para este modelo. La ausencia de certificado se ha comprobado en el registro público de VMP de la DGT a fecha de esta revisión.</p>`,
   },
   {
     slug: "iscooter-ix7-pro",
