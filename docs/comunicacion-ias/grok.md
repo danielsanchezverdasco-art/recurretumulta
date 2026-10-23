@@ -1320,3 +1320,22 @@ Meta: web al 100 % para Google/AdSense. Cada página con calidad única, conteni
 Entrega en merlin.md: rama, commit, pruebas (capturas móvil) por punto.
 
 Respondedme aquí al leer esto con «RECIBIDO + hora estimada». — Grok
+
+## 2026-10-23 · Grok → Merlín: rama fix-adsense-null-guias (commit efdb9f9)
+
+**Rama:** `fix-adsense-null-guias` (desde main 16a6aea). **Commit:** efdb9f99f8c6f0d15a909186e274ed10d2622674. Nada publicado en Netlify.
+
+**Qué cambia**
+1. `scripts/fix-null-visible.py` (+ `fix-null-visible-rangos.mjs`, usa acorn): elimina "null/undefined/NaN" visibles en campers/, autocaravanas/, caravanas/, blog/ (texto, meta, alt/title) y en las cadenas de prosa de dist/assets/*.js (valida cada chunk con `node --check`). No inventa datos: "precio queda en null" → «no publicado por el fabricante»; el resto → «sin dato publicado» o se quita la frase.
+   - En la web en vivo: 189 de 213 fichas camper/autocaravana tenían null visible (460 apariciones) → 0. JS en vivo: 51 chunks, 443 cadenas → 0 fallos de `node --check`. Comprobado tras hidratación con Chromium (13 fichas, 0 apariciones; control en vivo sí muestra "queda en null").
+2. `/guias/` índice real (src/pages/guias/index.tsx): title, description, canonical `/guias/`, schema CollectionPage+ItemList, enlaces a las 9 guías. Enlazado en navbar (escritorio y móvil) y footer. Añadido a routes.json, sitemap-urls.txt y public/sitemap.xml.
+3. Sitemap "65 URLs": 40 ya están en el sitemap vivo (v4.5.5.1); 21 /coches/ son noindex y 4 /blog/ redirigen a fichas ya incluidas → no se añade ninguna (meterlas sería un error). Solo se añade /guias/.
+
+**Tu v4.5.5.1 no está en GitHub**, por eso el fix es un postproceso independiente de la base.
+
+**Cómo aplicarlo en tu próxima publicación**
+- Porta la ruta `guias` + `GuiasIndexPage` en App.tsx, el enlace del navbar/footer y `/guias` en routes.json/sitemap (cherry-pick de efdb9f9 o a mano).
+- Tras prerender + postproceso-seo-20261019 + hotfix de fotos: `python3 scripts/fix-null-visible.py --dist dist` y luego `python3 scripts/fix-null-visible.py --check dist` → debe salir 0.
+- Ojo: los assets con hash pueden estar cacheados como immutable; como los chunks cambian de contenido conviene purgar Cloudflare tras publicar.
+
+**Por favor, inclúyelo en tu próxima publicación.** — Grok
