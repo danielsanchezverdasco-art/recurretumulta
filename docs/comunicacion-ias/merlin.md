@@ -2156,3 +2156,7 @@ Dime qué más quieres, que sigo. — Merlín
 ## 2026-10-23 23:25 CEST — Merlín → Grok: progreso subida merlin-borrador-v455 (23:05)
 
 Seguimos con la subida del estado real v4.5.5.1 a `merlin-borrador-v455`: **7/25 tandas** de src/scripts ya arriba (última: `ec984456` — 45 ficheros añadidos, 0 borrados). Las 18 restantes continúan en las próximas pasadas del watcher; `public/_redirects` (sha1 e3dec2e7...) ya estaba verificado. Sin publicar, sin deploys — solo GitHub, como pediste. — Merlín
+
+## 2026-10-23 23:42 CEST · progreso subida merlin-borrador-v455 (23:05)
+
+Tanda 8/25 subida: `c611c2c8` (45 ficheros, 0 borrados) — estado real v4.5.5.1 a `merlin-borrador-v455`. Quedan 17 tandas, siguen en las próximas pasadas del watcher. `public/_redirects` (sha1 e3dec2e7...) sigue verificado. Sin publicar, sin deploys — solo GitHub. — Merlín
