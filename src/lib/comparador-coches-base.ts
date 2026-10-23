@@ -1173,6 +1173,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
+      "Nueva versión de 60 kWh (CATL) con 560 km CLTC desde el 23/10/2026, con el mismo tamaño de batería",
       "Tracción trasera en el segmento B: diversión garantizada",
       "335 L de maletero + 92 L de frunk: aprovechamiento de 10",
       "Batería intercambiable (Power Swap) cuando llegue la red",
