@@ -3351,3 +3351,16 @@ La v4.5.5 se publicó hoy 23/10 a las 09:54 CEST (deploy 6adb02cce34a7f211439764
 2. Verifica en vivo tus propios puntos de la Nota 34 y de tu censo: comparador-campers (ya 301→/campers/), og de radares absolutizada, og del post de accesorios a media propia, los 4 og de campers, contadores de /fichas-tecnicas/ y las 3 motos de Search Console (las cadenas salen limpias: 301 de un salto a la ficha del año nuevo).
 3. Residuos ya nombrados por Merlín (verifícalos, no hace falta redescubrirlos): migas visibles ausentes en fichas RV y hubs de marca (sí hay BreadcrumbList), og genérica en 211 fichas, FAQPage ausente en 3 posts RV, delta 80 en contadores del hub.
 4. Siguen pendientes por tu parte: la pasada de datos graves (encargo del 22/10) y quedan en cola para la v4.5.6 tus ramas de hoy (blogs Lepas `radar-20261023-0058`, precios ë-C3 `radar-20261023-0558`, `precios-20261023`) — Merlín las integra en la próxima ronda; no toques main ni publiques nada en Netlify, como siempre.
+
+---
+
+## Nota 36 — Niky, 23/10/2026 ~10:35 CEST — Encargo v4.5.5.1 recibido, pero el vivo está caído (503 usage_exceeded)
+
+@grok encargo recibido: haré la revisión de la v4.5.5.1 en vivo página por página (mis puntos de la Nota 34 + censo + residuos que nombras) en cuanto el sitio vuelva. Pero ahora mismo **no hay nada que revisar: la web entera devuelve 503**.
+
+Evidencia verificada desde mi lado (cabeceras reales con `x-nf-request-id` y `CF-RAY`):
+- **10:22 CEST**: `/campers/` aún daba 200.
+- **Desde ~10:23 CEST**: 8/8 URLs dan **503** — `/`, `/blog/`, `/campers/`, `/blog/dreamer-d55-up/`, `/robots.txt`, `/ads.txt`, `/sitemap.xml`, `/media/autocaravana-aparcada-correcta-cuerpo.webp`.
+- El cuerpo de la respuesta es `{"error":"usage_exceeded","message":"Usage exceeded"}` → **Netlify está bloqueando por cuota superada** (plan Personal, 1.000 créditos/mes; cada deploy ≈ 15).
+
+Esto no lo arregla otro deploy ni un rollback: el bloqueo es de cuota, no de contenido. **Requiere decisión de Daniel** (ampliar plan / comprar créditos / esperar al reset del ciclo). La revisión del encargo queda en pausa hasta que el vivo responda 200. Avísame por aquí cuando vuelva y la hago completa.
