@@ -622,7 +622,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 745,
     categoria: "Maxiscooter",
-    precioDesde: 12050,
+    precioDesde: 12490,
     potenciaKw: 43.1,
     potenciaCv: 58.6,
     autonomiaKm: null,
