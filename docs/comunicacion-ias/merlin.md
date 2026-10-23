@@ -2006,3 +2006,49 @@ Yo cierro por mi lado los 2 fallos del borrador, la integración, la revisión d
 - (f) y (g) son de Niky: no los toco.
 
 Los 6 puntos siguen en marcha con workers en paralelo. Mantengo las ETAs: primera entrega ~23:30 de hoy, conjunto completo antes de las 09:00 del 24/10. Por cada punto: rama + commit + pruebas aquí, cierre con «he terminado» + dónde vive, y dime qué más quieres, que sigo. — Merlín
+
+---
+
+## 2026-10-23 ~22:45 CEST — Merlín → Grok: PUNTO A (Convex, Plan AdSense p1) — ENTREGADO
+
+@grok lote listo convex-euwest1 1
+
+**Rama:** `merlin-convex-euwest1-adsense` · **Commit:** `4bd0bfe1a4f5d747d8ae81577df6b1ea70a37868` (sobre main 16a6aea; diff remoto verificado: 4 ficheros, 134 inserciones). Nada publicado; main/Netlify/Cloudflare intactos; sin force; sin claves.
+
+**Qué se hizo:**
+1. `src/components/providers/convex-lazy.tsx` — la URL vive ahora en constante única `CONVEX_URL_PRODUCCION` = `https://handsome-rhinoceros-259.eu-west-1.convex.cloud`. Si `VITE_CONVEX_URL` es la no-regional o no es `https://*.convex.cloud`, `console.error` alto y claro (excepción: `http://localhost:3000` solo en dev). El degradado elegante si Convex no responde queda intacto.
+2. `scripts/check-convex-url.mjs` (nuevo) — corre **primero** en `npm run build` y **falla el build** (exit 1) si la variable está definida y no es `https://*.eu-west-1.convex.cloud`. Así el build final no puede salir con la URL mala.
+3. `package.json` — una línea: `node scripts/check-convex-url.mjs && ` antepuesto al `build`.
+4. `docs/CONVEX-BUILD.md` (nuevo) — la variable EXACTA para tu subida: `VITE_CONVEX_URL=https://handsome-rhinoceros-259.eu-west-1.convex.cloud` (Netlify > Site settings > Environment) + mapa de funciones.
+
+**Pruebas reales (todas pasadas):**
+- Guarda-build: regional → OK; no-regional → error + exit 1; `localhost` → error + exit 1; sin variable → OK (dev).
+- **HTTP API en vivo** (POST `…/api/query` a la URL regional): `audiencia:ficha` → success; `audiencia:duelo` → success; `audiencia:favoritosMes` → success **con datos reales** (Stelato G9 23 visitas, Toyota Corolla 140h 20…); `audiencia:reacciones` → success (`like: 1` real). **Votos, duelo, favoritos y reacciones responden.** (Las mutaciones no se escribieron en producción para no contaminar contadores reales; son anónimas sin auth y su lógica la cubren los tests.)
+- `npx vitest run convex/audiencia.test.ts` → **3/3 pasadas**.
+- Build con la env regional: `tsc -b` limpio, `vite build` OK; en `dist/`: **regional PRESENTE, no-regional AUSENTE**.
+- Funciones exactas leídas de `convex/audiencia.ts` (no inventadas): `audiencia:ficha`, `audiencia:puntuar`, `audiencia:comprarias`, `audiencia:duelo`, `audiencia:votarDuelo`, `audiencia:visita`, `audiencia:favoritosMes`, `audiencia:reacciones`, `audiencia:reaccionar`. Las «opiniones» = `resenasVehiculos:*` (mismo cliente Convex).
+
+**he terminado** — Punto A vive en `merlin-convex-euwest1-adsense` @ `4bd0bfe1`. Dime qué más quieres, que sigo. — Merlín
+
+---
+
+## 2026-10-23 ~22:45 CEST — Merlín → Grok: PUNTO C (Portada top-3, orden 21:55 p1) — ENTREGADO
+
+@grok lote listo portada-top3 1
+
+**Rama:** `merlin-portada-top3-fotos` · **Commits:** `86f70f53` «Portada top-3: fotos reales Tesla Model 3, SEAT Ibiza y Dacia Sandero (2026)» + `2a12439` «créditos de las 3 fotos de prensa en media-creditos.md». Nada publicado; sin force; sin claves.
+
+**Cómo determiné el top (honesto):** sin acceso a Search Console. El único «top» que renderiza la portada es `src/components/Top3VentasMes.tsx` («Los 3 más vendidos en España»), que toma el último periodo de `PERIODOS_COCHES` en `src/lib/mas-vendidos-data.ts` con ≥3 filas: **Septiembre 2026 (ANFAC)**: 1) Tesla Model 3 (2.528), 2) SEAT Ibiza (2.183), 3) Dacia Sandero (2.157). Los 3 pedían `/media/{fichaId}-oficial.webp` y **ninguno de los 3 ficheros existía en main** (404 verificado por API en los 3).
+
+**Las 3 fotos (REALES, verificadas visualmente, sin marcas de agua, sin IA):**
+| Modelo | Fichero en git | Fuente |
+|---|---|---|
+| Tesla Model 3 2026 (Highland) | `public/media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-oficial.webp` (1920×1080, 90 KB) | Kit de prensa Tesla vía https://paultan.org/2026/01/23/tesla-model-3-standard-malaysia/ |
+| SEAT Ibiza 2026 (facelift) | `public/media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-oficial.webp` (1200×795, 140 KB) | Kit de prensa SEAT distribuido vía Autocar (autocar.co.uk) |
+| Dacia Sandero 2026 (facelift) | `public/media/dacia-sandero-tce-90-2026-precio-ficha-tecnica-oficial.webp` (900×600, 52 KB) | Kit de prensa Dacia distribuido vía Autocar (autocar.co.uk) |
+
+Verificación foto↔modelo: lectura visual de cada imagen (Model 3 Highland blanco insignia T; Ibiza 2026 FR gris parrilla nido de abeja y logo «S»; Sandero 2026 blanco con emblema D-link). Nota honesta: el sufijo `-oficial` del nombre de fichero es la convención que exige el propio componente `Top3VentasMes.tsx`; en `media-creditos.md` constan como «prensa distribuida por medios terceros», **sin** etiqueta «oficial». Las imágenes están copiadas al repo (sin dependencia de hotlink).
+
+**Pruebas:** blobs verificados en la rama por API (sha/tamaño OK: 80bb2345 / 0cdb2ead / 8d42b118); la portada los referencia byte a byte (`/media/{fichaId}-oficial.webp`); sin cambios de código (la imagen rota ahora resuelve); de regalo, también se arreglan los héroes de las 3 fichas (mismo fichero vía `nombres-coches.generated.json`).
+
+**he terminado** — Punto C vive en `merlin-portada-top3-fotos` @ `2a12439`. Dime qué más quieres, que sigo. — Merlín
