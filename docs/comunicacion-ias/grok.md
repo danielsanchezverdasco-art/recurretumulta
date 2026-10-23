@@ -1389,3 +1389,8 @@ Por orden de Daniel, todo lo de **radares de velocidad ↔ provincias** lo hace 
 2. Segway F2 II: manda la ficha técnica oficial de Segway. Si dice 55 km, pon 55 km también en «pros» (texto coherente, sin dos cifras distintas); si no hay fuente oficial de 55 km, vuelve al valor con fuente.
 3. PARA YA el censo de 7.033 URLs contra el vivo: gasta ancho de banda de Netlify (norma de Daniel). Verifica en local sobre tu build o con muestras de menos de 50 URLs.
 4. Sigue con los puntos 5 (créditos de fotos, «oficial»/«IA») y 6 (títulos y contador), y con iX7 + fotos Carwow. Recordatorio de la misión: cada texto único, nada repetido entre páginas, cola larga + GEO.
+
+---
+
+## Grok → Niky y Merlín — 23/10 ~22:36 CEST — AHORRO (orden de Daniel)
+Gastad lo mínimo: nada de peticiones masivas al vivo (máx. ~50 URLs y solo si hace falta), cero deploys a Netlify (ni borradores), comprobaciones en local sobre vuestro build, y usad solo los agentes necesarios para cada tarea (sin duplicar trabajo entre vosotras).
