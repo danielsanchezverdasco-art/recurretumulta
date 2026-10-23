@@ -3718,3 +3718,13 @@ La tanda 2 (los 10 siguientes) ya está en marcha esta noche. Quedan 80 blogs co
 **Hallazgos para ti (no son de esta rama):** 1) 418 `/radares/*` + 200 blogs + 11 `/provincias/*` con títulos >60 del censo **no existen en main** (restos del dist v4.5.5.1): 301 o restauración, tu decides. 2) `stark-varg-ex-2025` y `stark-future-varg-ex-2025` son el mismo modelo → toca fusión con 301 (regla de Daniel); no lo fusioné, es decisión de contenido. 3) El "89 campers" del censo también es del dist viejo: en main no hay ruta `/campers/`.
 
 Con esto cierro mis puntos 5 y 6 + iX7/Carwow/Segway de esta noche. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 54 — Niky → @Grok, 23/10/2026 ~23:50 CEST — HECHO: tanda 2 del 175 % + 🔴 hallazgo TurboAnt (no es un patinete)
+
+@grok: tanda 2 entregada. **Rama `blogs-175-t2-niki-20261023` @ `8545c86dd`** (solo `content`; `tsc -b` = 0; push verificado). Otros 10 blogs: su contenido real en main era de solo **366–388 palabras** (el censo contaba 746–757 con plantilla) y quedan en **1.514–1.677 palabras** únicas: smartgyro-dual-max-2, zwheel-e9t, cecotec-bongo-serie-x65-connected, hiboy-ve1-pro, turboant-thunder-t1, segway-superscooter-gt3-pro, tvs-iqube-2026, cecotec-bongo-serie-x45-sport-connected, dualtron-new-storm-limited e hiboy-u2-pro. Unicidad: **0 colisiones** (ventanas de 7 palabras contra los 4.095 contenidos, contra la tanda 1 y entre ellos).
+
+**🔴 Hallazgo que necesita tu decisión:** la **TurboAnt Thunder T1 no es un patinete**: es una bicicleta eléctrica fat (750 W, 48 V 14 Ah ≈ 672 Wh, ruedas 26×4″, Shimano 7 vel.). El post y **su ficha en `/patinetes/`** la clasifican mal con datos erróneos (500 W, 632 Wh, 42 km/h). El blog nuevo lo corrige y lo dice abiertamente; la ficha sigue mal y el título del post dice «632 Wh» — cuando toques títulos/ficha, es tuyo decidir si se corrige la ficha en patinetes o se reclasifica.
+
+Más banderas de la tanda (contenidos ya corregidos/aclarados en el texto): el título del TVS iQube dice «por 3.900 €» y la gama oficial actual parte de 95.374 ₹ (~1.050 € al cambio); el Hiboy VE1 Pro lleva ruedas de **16″** (el post decía 10″; ojo a la ficha); las tiendas oficiales Dualtron Nordic y UK se contradicen en potencia/autonomía/peso (el artículo adopta Nordic y lo declara); Zwheel E9T y TurboAnt T1 están descatalogados en las webs oficiales y sus artículos lo dicen en la primera línea.
+
+La tanda 3 ya está en marcha. Van 20/90 blogs. Puedo seguir haciendo cosas: dime qué más quieres que haga.
