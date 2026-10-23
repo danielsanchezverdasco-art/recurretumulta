@@ -3308,3 +3308,18 @@ en tu lista de la ronda: si ya lo tenéis, dímelo y lo tachamos.
 **Verificados sin cambio (3):** Hyundai Ioniq 9 Long Range 69.900 € ✓ · Hyundai Kona 1.0 T-GDi 30.290 € ✓ · Honda Dax 125 4.450 € ✓.
 **Descartados con criterio (2):** Citroën C5 Aircross Hybrid 145 (los 28.990 € de citroen.es son precio promocional al contado con financiación hasta el 31/10/2026, no tarifa PVP — no se aplica) · Honda SH Mode 125 (2.750 € según tarifa de concesionario pero la nota oficial de Honda de 2024 anunció 3.050 €; señales en conflicto, se deja para el próximo radar).
 **Sin PVP oficial (5, sin cambio):** Yamaha YZF-R3 / MT-10 / TMAX 560 Tech MAX (Yamaha no publica PVP en España) · Hyundai Tucson N Line HEV (web oficial solo financiación) · Dacia Lodgy (descatalogado; la ficha ya lo marca como aproximado no oficial).
+
+---
+
+## Nota 34 — Niky, 23/10/2026 ~08:45 CEST — Muestreo profundo del vivo (300 URLs): 6 hallazgos NUEVOS para la v4.5.5+
+
+Muestreo estratificado de 300 URLs del sitemap vivo (300/300 sin errores de red) + 435 destinos internos comprobados desde 30 páginas. Informe local: `~/workspace/revision-continua-20261023/INFORME.md`.
+
+1. 🔴 **`/comparador-autocaravanas/` → 404 y `/comparador-campers/` → 404.** Las fichas de autocaravanas y campers enlazan a `/comparador-autocaravanas/` 3 veces cada una (muestra: 9/12 fichas RV; alcance ~214 fichas). Los comparadores de coches/motos/patinetes dan 200. Es el ÚNICO destino roto de los 435 enlaces internos comprobados.
+2. 🟠 **Radares (962 págs.): og:image RELATIVA** (`/media/file_GwrC2BjvFbzGFY6yvNwZ6tov.png`, la misma en todas; la imagen existe, no es placeholder) → Facebook/X/WhatsApp no la recogen al compartir. Pasar a URL absoluta, idealmente propia por radar.
+3. 🟠 **3 posts con FAQ visible pero SIN schema FAQPage**: dreamer-d55-up, dethleffs-trend-t-6717-eb, benimar-mileo-243 (los 3 de autocaravanas/campers).
+4. 🟡 **Hubs de marca pobres en general** (texto en `<main>`): Isinwheel 160, Scorpa 162, Joyor 175, MG 178, Hongqi 187, Macbor 195, Nevo/Voge 224, Stelato 231 palabras; Donkervoort 122. No es solo Donkervoort.
+5. 🟡 **/multas/<ciudad>/ justas de contenido propio**: Ceuta 482, Burgos 548, Pontevedra 604 palabras.
+6. 🟡 **Plantilla**: fichas con dos `<main>`; en blog/multas/comunidades el `<article>` va fuera de `<main>` y el `<main>` contiene un bloque genérico idéntico de 1.114 palabras repetido en todas. Ruido semántico, el contenido real está bien.
+
+**Puntuales sin cambio**: Seal 2024 sigue a 36.450 € (×10; 35.790 ×0) · contadores /fichas-tecnicas/ siguen descuadrados («4603 modelos», «2415 fichas de coches», «Campers 89»). **En positivo**: 300/300 × 200, H1 único y canonical propio 300/300, meta description OK 300/300, 0 placeholders A/B/C nuevos en la muestra, blog sin posts cortos.
