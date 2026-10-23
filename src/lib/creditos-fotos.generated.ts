@@ -1104,5 +1104,65 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "SHProshots (vía CarScoops)",
 "licencia": "prensa",
 "url": "https://www.carscoops.com/2291932/bmw-ix7-x7-m60-spy-shots/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-1.webp": {
+"autor": "AutoNoción",
+"licencia": "prensa",
+"url": "https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-2.webp": {
+"autor": "AutoNoción",
+"licencia": "prensa",
+"url": "https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-3.webp": {
+"autor": "AutoNoción",
+"licencia": "prensa",
+"url": "https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-4.webp": {
+"autor": "AutoNoción",
+"licencia": "prensa",
+"url": "https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-5.webp": {
+"autor": "AutoNoción",
+"licencia": "prensa",
+"url": "https://www.autonocion.com/bmw-ix7-fotos-espia-nurburgring-2026/"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-6.webp": {
+"autor": "ForoCochesEléctricos",
+"licencia": "prensa",
+"url": "https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-7.webp": {
+"autor": "ForoCochesEléctricos",
+"licencia": "prensa",
+"url": "https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html"
+},
+"/media/bmw-ix7-2027-precio-ficha-tecnica-spy-8.webp": {
+"autor": "ForoCochesEléctricos",
+"licencia": "prensa",
+"url": "https://forococheselectricos.com/noticias/bmw-ix7-2028-fotos-espia-suv-electrico-20260403-40457.html"
+},
+"/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-1.webp": {
+"autor": "ForoCochesEléctricos (foto oficial de prensa BMW)",
+"licencia": "prensa",
+"url": "https://forococheselectricos.com/noticias/bmw-renueva-i7-728-km-autonomia-20260422-40681.html"
+},
+"/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-2.webp": {
+"autor": "CochesyConcesionarios (foto oficial de prensa BMW)",
+"licencia": "prensa",
+"url": "https://www.cochesyconcesionarios.com/novedades/novedades/06-2026-56568.html"
+},
+"/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-3.webp": {
+"autor": "CochesyConcesionarios (foto oficial de prensa BMW)",
+"licencia": "prensa",
+"url": "https://www.cochesyconcesionarios.com/novedades/novedades/06-2026-56568.html"
+},
+"/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-4.webp": {
+"autor": "km77 (foto oficial de prensa BMW)",
+"licencia": "prensa",
+"url": "https://www.km77.com/coches/bmw/i7/2026/estandar/informacion"
 }
 };

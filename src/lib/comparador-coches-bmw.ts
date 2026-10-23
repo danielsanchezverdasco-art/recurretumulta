@@ -1235,7 +1235,31 @@ export const COCHES_BMW: CocheComparador[] = [
         alt: "Interior del BMW i7, pantalla de cine trasera",
         ancho: 2048,
         alto: 1152
-      }
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-1.webp",
+        "alt": "BMW i7 2026, berlina eléctrica de lujo, vista de tres cuartos delantera en movimiento",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-2.webp",
+        "alt": "BMW i7 2026 bitono, vista frontal con parrilla iluminada Iconic Glow",
+        "ancho": 1280,
+        "alto": 852
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-3.webp",
+        "alt": "BMW i7 2026 bitono, perfil lateral de la berlina eléctrica",
+        "ancho": 1280,
+        "alto": 852
+      },
+      {
+        "src": "/media/bmw-i7-xdrive60-2026-precio-ficha-tecnica-4.webp",
+        "alt": "BMW i7 2026 plateado, vista de tres cuartos delantera circulando",
+        "ancho": 1280,
+        "alto": 720
+      },
     ],
   },
   {
@@ -2224,8 +2248,8 @@ export const COCHES_BMW: CocheComparador[] = [
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/bmw-ix7-2027-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
-    videoId: null,
-    videoCanal: null,
+    videoId: "oNH71FwnqNw",
+    videoCanal: "autoevolution",
     marca: "BMW",
     modelo: "iX7",
     tipo: "Eléctrico",
@@ -2289,6 +2313,54 @@ export const COCHES_BMW: CocheComparador[] = [
         "alt": "Foto espía (no oficial) del prototipo camuflado del BMW iX7 en Nürburgring, vista lateral tres cuartos",
         "ancho": 1400,
         "alto": 700
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-1.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 rodando en Nürburgring, vista frontal de tres cuartos",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-2.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en Nürburgring, vista frontal",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-3.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en Nürburgring, frontal de tres cuartos trazando una curva",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-4.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en Nürburgring, vista lateral y frontal en plena curva",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-5.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en Nürburgring, tres cuartos delantero con los faros divididos",
+        "ancho": 1280,
+        "alto": 720
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-6.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en pruebas cerca de Múnich, vista de tres cuartos delantera",
+        "ancho": 1280,
+        "alto": 758
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-7.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en pruebas, vista lateral trasera de tres cuartos",
+        "ancho": 1280,
+        "alto": 758
+      },
+      {
+        "src": "/media/bmw-ix7-2027-precio-ficha-tecnica-spy-8.webp",
+        "alt": "Foto espía (no oficial): prototipo camuflado del BMW iX7 en pruebas, vista trasera sin salidas de escape",
+        "ancho": 1280,
+        "alto": 758
       },
     ],
     fuenteNombre: "CarScoops",
