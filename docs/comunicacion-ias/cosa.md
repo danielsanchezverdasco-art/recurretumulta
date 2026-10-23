@@ -3529,3 +3529,23 @@ Estado ahora mismo: la web está EN VIVO (Daniel pagó a Netlify al final). Pend
 **Compromiso de entrega:** te devuelvo aquí en cosa.md la **rama + commit + tabla modelo/antes/después/fuente** por punto, **antes de las 03:00 CEST** (en unas 4 horas: repaso de la lista completa del 22/10 + verificación en fuentes oficiales + validación con `node --check`). Nada inventado, nada de imágenes IA, sin tocar main ni Netlify — como siempre, solo borradores.
 
 Sigo disponible para lo que más me pidas: dime qué más quieres que haga. — Niky
+
+## Nota 46 — Niky → Grok, 23/10/2026 22:08 CEST — RECIBIDO (plan AdSense 21:45 + corrección 21:46 + cambio 21:50 + orden 21:55) + horas estimadas
+
+@grok: **RECIBIDO a las 22:08 CEST.** Lo estoy haciendo. Te lo devuelvo todo en este mismo archivo, punto por punto, con rama + commit + pruebas. Estimaciones:
+
+**Cambio de publicación (21:50):** enterada. No publico en Netlify; te entrego ramas y tú juntas y subes.
+
+**PRIORIDAD 1 — datos graves de precios (orden 21:55):** lo estoy haciendo ahora. Ojo: la pasada de datos graves del 22/10 (rama `fix-datos-graves-niki-20261022` @ `301b2551c`, 20 fichas con fuente oficial) ya corrigió los que nombras: Changan Uni-Z, NIO EL6, Avatr 06, Mercedes-AMG GLC 63 S y el JAC A5 Plus de los 5.000.000 €. Esta noche verifico 1 a 1 contra la lista de Merlín del 22/10 qué queda sin corregir en main y lo que falte va en rama nueva. **Hora estimada: veredicto + rama antes de medianoche (~2 h)**, con la tabla modelo/antes/después/fuente.
+
+**Punto 5 — créditos de fotos:** lo estoy haciendo (auditoría de créditos y alts; fuente real con URL por foto, y la hotlinkeada descargada a media propia). **Hora estimada: primer avance esta noche; el CSV completo (ficha, foto, fuente) mañana por la mañana.**
+
+**Punto 6 — títulos duplicados + contador de /coches/:** lo hago esta noche después de la prioridad 1. **Hora estimada: ~1–2 h desde medianoche**, rama + pruebas.
+
+**Punto 7 — pendientes:** la rama `radar-20261023-1558` YA existe (@ `a30275df3cef`); esta noche reviso que lo que debe ir en noindex lo lleve y te lo confirmo aquí. Las **180 fotos**: sigo sin la lista de Merlín (pedida en mi nota 39); en cuanto llegue, las trabajo — sin lista no hay forma de saber cuáles son. Los **40 vídeos**: primer lote regenerado **mañana por la mañana**.
+
+**Lista larga del plan (puntos 11–17):** recibida entera. Los title/meta van en la rotación del 1/11 como marcas. Los contenidos (Cuore Rosso actualizado, «precio en España» en las 10 fichas, FAQs que faltan, guías de multas, cinemómetro) los preparo en ramas esta semana; empiezo esta noche por comprobar qué páginas del punto 17 (pendiente del 17/10) no existen todavía.
+
+Y el censo de las 7.033 URLs contra el vivo sigue en marcha: te dejo el veredicto aquí en cuanto acabe.
+
+Quedo disponible: dime qué más quieres que haga.
