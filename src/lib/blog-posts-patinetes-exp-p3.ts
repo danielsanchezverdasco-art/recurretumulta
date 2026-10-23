@@ -2405,71 +2405,128 @@ Desde la **app oficial Hiboy** por Bluetooth.
     ],
     content: `<img src=/media/patinetes/iscooter-i8-1.webp alt=iScooter i8, vista lateral del patinete ultraligero>
 
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-i8/>Ver ficha técnica del iScooter i8</a>: peso, precio y motor. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**Respuesta rápida:** El escalón de acceso de iScooter pesa apenas 12 kg, monta un motor delantero de 350 W y promete 20 km por carga, ideal para desplazamientos cortísimos y para combinarlo con tren o autobús.
 
-El **iScooter i8** es el mechero de la marca: **12 kg**, **~189 £**, motor de **350 W** (500 W de pico), **20 km** declarados y **30 km/h**. Para 3-4 km al día, poco más se necesita.
+Su razón de ser consiste en desaparecer de tu vida cuando no lo estás usando: se pliega y se deja en un rincón. Comprobarás medidas y resto de características en la <a href=/patinetes/iscooter-i8/>ficha completa del i8</a>, mientras el <a href=/comparador-patinetes/>panel para comparar patinetes de movilidad personal</a> sirve para averiguar cuánto peso y autonomía ganarías subiendo un peldaño de precio.
 
-## Ficha técnica resumida
+Toca corregir además dos afirmaciones que circularon sobre este modelo. Cierta descripción le atribuía «500 W de pico», pero el fabricante jamás ha publicado semejante cifra: el único dato oficial disponible es el motor de 350 W. Igualmente, presentar los 30 km/h como velocidad indiscutible resultaba incompleto, porque el comparador oficial de la propia casa lo anota a 25 km/h, discrepancia que desarrollamos más abajo sin maquillarla.
+
+## Ficha técnica resumida: iScooter i8
 
 | Dato | Valor |
 |---|---|
-| **Precio** | ~189 £ (sin PVP oficial en euros) |
-| **Motor** | 350 W (500 W de pico) |
-| **Batería** | 36V 5,2Ah (187 Wh) |
-| **Autonomía declarada** | 20 km |
-| **Autonomía real estimada** | ≈13 km |
-| **Velocidad máxima** | 30 km/h |
-| **Peso** | 12 kg |
+| Masa neta | 12 kg, transportable con un solo brazo |
+| Impulsión | Motor de 350 W alojado en el eje delantero |
+| Depósito eléctrico | 36 V y 5,2 Ah, apenas 187 Wh |
+| Alcance máximo anunciado | 20 km, equivalentes a 12 millas |
+| Límite de carga | 100 kg contabilizando conductor y pertenencias |
+| Diámetro de rueda | 8,5 pulgadas con neumáticos provistos de cámara |
+| Protección ambiental | IP54 certificada por el fabricante |
+| Conectividad telefónica | Carece de aplicación asociada |
 
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-i8/>Ficha técnica completa del iScooter i8</a>.
+## Un propulsor delantero modesto pensado para enlaces cortos
 
-## Precio del iScooter i8 en España
+Instalar el motor en la buje frontal simplifica la transmisión y contribuye a mantener el conjunto tan liviano. Esos 350 W bastan para llanear con soltura y para mantener velocidad de crucero en avenidas sin pendiente, pero no conviene pedirle alegrías cuando la rampa se endurece. El propio fabricante limita su capacidad de ascenso a desniveles del 15 %, y llegando a ese entorno la marcha se vuelve pausada.
 
-Unas **189 libras** en Reino Unido; en España llega vía distribuidores europeos. Es de los patinetes con marca más baratos del mercado.
+No encontrarás una segunda cifra de potencia escondida en letra pequeña: iScooter se limita a especificar su motor sin adornarlo con un valor máximo adicional que no consta en su documentación.
+
+La ausencia de app refuerza esa filosofía de mínimos. Nada de emparejamientos, actualizaciones ni cuentas: giras la llave de contacto —metafóricamente, mediante su botón— y a rodar. Para ciertos usuarios hartos de registrar cada objeto que compran, esa simplicidad representa una virtud genuina y no una carencia disimulada.
 
 <img src=/media/patinetes/iscooter-i8-2.webp alt=Detalle del iScooter i8 plegado>
 
-## Autonomía real vs declarada
+## Veinte kilómetros en el folleto y la distancia sensata que deberías planificar
 
-**20 km declarados** que en la práctica son **unos 13 km**. La batería de 187 Wh da para lo que da: trayectos cortos y llanos.
+El alcance máximo comunicado es de 20 kilómetros, presentados también como 12 millas en la documentación británica. Con una batería de tan solo 187 Wh, esa cantidad solo puede obtenerse bajo circunstancias excepcionalmente favorables: conductor menudo, recorrido completamente plano, arranques suaves y ritmo reducido de forma constante.
 
-## Frenos y neumáticos
+Planificar tus desplazamientos sobre unos 13 kilómetros por carga resulta mucho más prudente, entendiendo esa cantidad como estimación editorial derivada de dividir capacidad entre consumos típicos de aparatos equivalentes. Nadie de esta redacción ha sometido la unidad a una prueba instrumental de descarga completa, por eso no lo enunciamos como registro medido. Trayectos reales de ida y vuelta con margen de seguridad deberían quedarse en unos 10 u 11 kilómetros diarios si quieres regresar sin empujar.
 
-Equipo básico acorde a 12 kg y 30 km/h. No esperes discos hidráulicos: es un patinete de 189 £.
+La contrapartida agradable de un depósito tan pequeño es que recuperarlo por completo lleva bastante menos tiempo que en sus hermanos mayores.
 
-## Certificado DGT y normativa VMP
+## Etiqueta de 188,99 libras y adquisición desde España sin PVP en euros
 
-Con **30 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+La tienda oficial británica lo ofrece por 188,99 libras, precio que lo sitúa entre las opciones con respaldo de marca más asequibles del escaparate europeo. No existe tarifa oficial en euros fijada para España, de manera que el importe que pagues aquí vendrá determinado por el distribuidor que lo importe y por los gastos que repercuta sobre el comprador final.
 
-## Puntos fuertes y débiles
+Ese desembolso reducido obliga a preguntarse qué se ha sacrificado en el camino. Respuesta corta: casi todo lo accesorio. Sin suspensión, sin conectividad, con ruedas pequeñas y con una reserva energética pensada para enlaces breves. Ninguno de esos recortes constituye un engaño si se conocen de antemano; el problema surge únicamente cuando el marketing del punto de venta lo disfraza de patinete polivalente para todo tipo de desplazamientos largos.
 
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 12 kg: con una mano | 20 km: solo trayectos cortos |
-| ~189 £: baratísimo | Batería de 187 Wh |
-| 350 W dignos | A 30 km/h hay que limitarlo |
-| Ideal estudiantes | Ruedas pequeñas |
-| Plegado compacto | Acabados básicos |
+Un i8 nuevo aporta garantía y batería sin desgaste previo, dos argumentos con peso si tu presupuesto es inflexible.
+
+## Ruedas de 8,5 pulgadas, tambor delantero y ausencia completa de amortiguación
+
+Sin suspensión de ningún tipo, el esqueleto transmite cada junta de dilatación y cada baldosa levantada directamente a tus pies y manos. Las ruedas neumáticas de 8,5 pulgadas absorben una parte gracias al aire de su interior —llevan cámara, como las bicicletas tradicionales—, pero su diámetro reducido supera peor los obstáculos que una rueda de diez. Bajar bordillos y cruzar rejillas de alcantarillado exige atención extra, porque una rueda menuda encaja donde una grande simplemente rueda por encima.
+
+Para detenerse combina un freno de tambor con la acción de un freno electrónico. El fabricante presume de haber probado su tambor hasta 2.000 veces, un dato de ensayo que aporta en su material comercial y que reproducimos como declaración suya. El tambor tolera bien el uso urbano moderado, queda protegido frente a suciedad exterior y evita discos expuestos a golpes al manipular un aparato que se pliega y despliega continuamente.
+
+Según la marca, completar ese plegado lleva unos 3 segundos. Cronómetro en mano cada persona tardará lo suyo, pero el mecanismo se percibe rápido de verdad: liberar la palanca, abatir la barra de dirección sobre la plataforma y cargar con 12 kilos hacia el andén o el maletero sin pedir ayuda a nadie.
+
+## Situación jurídica en España, lío de velocidades y certificado DGT
+
+Resolvamos la contradicción con calma porque afecta a lo que puedes hacer legalmente. La ficha comercial de producto anuncia 30 km/h —18,6 mph en su conversión—, mientras el comparador que la propia empresa mantiene en su web oficial anota este mismo modelo a 25 km/h. Dos páginas de la misma tienda, dos techos distintos. Trasladamos ambas sin elegir arbitrariamente una y te recomendamos exigir aclaración documental al vendedor si ese dato condiciona tu decisión.
+
+La discusión, en territorio español, tiene un límite práctico clarísimo: indistintamente de cuál sea su punta real, ningún vehículo de movilidad personal puede rebasar los 25 km/h circulando por vía pública. Tampoco consta para él un certificado DGT verificado en la documentación pública examinada. Por tanto, la prudencia manda tratarlo como cualquier VMP sujeto a esa limitación general y a las ordenanzas del municipio por donde circules.
+
+La <a href=https://www.dgt.es/>Dirección General de Tráfico</a> recuerda en su normativa que aceras y zonas peatonales vedadas quedan fuera del itinerario permitido, que llevar pasajero está prohibido y que el teléfono móvil no se manipula en marcha. Por masa y dimensiones podría parecer un juguete inofensivo, pero a efectos de circulación recibe el mismo tratamiento normativo que sus hermanos de mayor tamaño.
 
 <img src=/media/patinetes/iscooter-i8-3.webp alt=iScooter i8 en la mano de su dueño>
 
+## Conservación elemental de un aparato deliberadamente básico
+
+Menos componentes implica menos averías potenciales y esa es su baza silenciosa. Sin app que actualizar, sin suspensión que ajustar y sin electrónica superflua, la lista de cuidados se reduce a vigilar presión de neumáticos, estado del cable de freno y limpieza general del mecanismo de plegado para que ningún grano de arena bloquee su cierre.
+
+Revisar las cámaras periódicamente importa más de lo que parece: rodar bajo de presión aumenta el consumo, castiga la llanta ante cualquier bache y puede provocar un reventón en el peor momento. El grado IP54 aleja el peligro de las salpicaduras habituales, si bien meterlo bajo la ducha para quitarle el barro sería una manera absurda de arruinar un aparato eléctrico sencillo.
+
+Durante los periodos sin uso, consérvalo con carga parcial y en interior seco. Con 12 kilos tampoco necesitas inventar soluciones de almacenaje: cabe tras una puerta o bajo un escritorio.
+
+## A quién le encaja y a quién le quedará pequeño en dos semanas
+
+Encaja en perfiles con recorridos cortos, planos y repetitivos: el estudiante que une residencia y facultad, el trabajador que salva la distancia entre estación y oficina, o quien busca un segundo vehículo para recados sin mover el coche.
+
+Quedará pequeño para conductores cercanos a su límite de 100 kilos, para vecinos de barrios con cuestas serias y para cualquiera que necesite superar los 12 kilómetros diarios con una sola carga.
+
+## Pros y contras
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| Pesa 12 kg: subirlo al tren no supone un esfuerzo | Reserva de 187 Wh limita seriamente el radio de acción |
+| Se pliega en unos 3 segundos según el fabricante | Ningún sistema amortigua baches o adoquines |
+| Etiqueta británica por debajo de las 190 libras | La casa discrepa sobre su velocidad punta |
+| Freno de tambor sometido a 2.000 ensayos declarados | Límite de ocupante fijado en 100 kg justos |
+| Funciona sin registrarse en aplicación alguna | Ascenso máximo limitado a pendientes del 15 % |
+
+## Veredicto
+
+Juzgado con las expectativas correctas, el i8 cumple una misión muy concreta y la cumple sin pretensiones absurdas: cubrir pocos kilómetros llanos ocupando y pesando lo mínimo imaginable. Juzgado como patinete universal para todo, decepciona por batería, ruedas y ausencia de comodidades. Su compra inteligente pasa por medir tu trayecto habitual con honestidad británica —perdón, con honestidad a secas— y comprobar que, incluso en tu día más largo, la estimación prudente de alcance te devuelve a casa con energía sobrante en el depósito.
+
 ## Preguntas frecuentes
 
-### ¿Cuánto pesa?
-**12 kg**: de los más ligeros con motor de 350 W.
+### ¿Cuántos vatios entrega realmente su motor, 350 o 500?
 
-### ¿Qué autonomía real tiene?
-Unos **13 km**.
+Oficialmente, 350. Ese supuesto pico de 500 W que apareció en descripciones anteriores carece de respaldo en la documentación del fabricante, por lo que lo retiramos de nuestro análisis y aconsejamos desconfiar de cualquier tienda que todavía lo anuncie como especificación contrastada.
 
-### ¿Para quién es?
-Para **trayectos de 3-4 km** o como primer patinete barato.
+### ¿Cuál es su velocidad máxima verdadera, 25 o 30 por hora?
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Depende de qué página de la tienda oficial consultes: el comparador corporativo indica 25 km/h y la descripción comercial sube hasta 30 km/h (18,6 mph). Mientras la empresa no unifique el dato, lo honesto es contarte que las dos cifras conviven en su propia web.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Una persona de 95 kilos podría utilizarlo a diario?
 
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+Entraría dentro del límite de 100 kg que fija la marca, aunque con escaso margen si añade mochila cargada o compra del supermercado. Con esa masa, además, pendientes y autonomía se resentirán frente a los valores conseguidos por un conductor ligero.
+
+### ¿Incorpora alguna aplicación para bloquearlo desde el móvil?
+
+No, prescinde por completo de app. Esa renuncia elimina funciones remotas, pero también simplifica el uso cotidiano: ni emparejamientos que fallan ni cuentas que mantener, solo encender y desplazarse por el recorrido previsto.
+
+### ¿Qué tipo de neumáticos monta y llevan cámara interior?
+
+Son neumáticos hinchables de 8,5 pulgadas dotados de cámara convencional. Mantener la presión recomendada resulta clave, pues su escaso diámetro ya de por sí transmite bastantes irregularidades del pavimento a quien conduce de pie.
+
+### ¿El plegado rápido de tres segundos es publicidad exagerada?
+
+La cifra procede de la propia marca para describir su mecanismo, y aunque tu tiempo real variará con la práctica, el gesto se aprende en un par de intentos. Los 12 kg posteriores que debes levantar son, en realidad, la parte que más se nota.
+
+Una multa recibida circulando con un aparato tan modesto puede parecer desproporcionada, pero antes de abonarla por resignación merece la pena comprobar su fundamento. Puedes <a href=https://recurretumulta.online/#analizador>pasar la notificación por nuestro analizador sin coste inicial</a> y averiguar si la cuantía, el hecho denunciado y los plazos cuadran con lo exigible. Y cambiando radicalmente de tercio, te proponemos <a href=/juego-monos/>sumarte a la partida de monos ocultos entre las páginas</a> la próxima vez que navegues por aquí sin prisa.
+
+**Cómo verificamos:** Cruzamos la ficha de producto contra el comparador corporativo de la propia marca y señalamos cada discrepancia detectada entre ambas páginas —velocidad y potencia— en lugar de promediarla o de quedarnos con la versión más vistosa.
+
+*Fuentes: <a href=https://www.iscooterglobal.co.uk/pages/model-comparison>comparativa oficial de modelos iScooter</a> y disposiciones sobre vehículos de movilidad personal de la <a href=https://www.dgt.es/>Dirección General de Tráfico</a>.*`,
   },
   {
     slug: "iscooter-i10-plus",
@@ -2494,71 +2551,124 @@ Para **trayectos de 3-4 km** o como primer patinete barato.
     ],
     content: `<img src=/media/patinetes/iscooter-i10-plus-1.webp alt=iScooter i10 Plus, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-i10-plus/>Ver ficha técnica del iScooter i10 Plus</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**Respuesta rápida:** Patinete urbano de 800 W con batería de 630 Wh y tope de 40 km/h, pensado para quien recorre distancias medias a diario y quiere margen de potencia sin cargar con un trasto pesado.
 
-El **iScooter i10 Plus** es el punto dulce de la marca: **800 W**, **630 Wh** (36V 17,5Ah), **50 km declarados** y **40 km/h** en **20 kg**, por **~379 £**.
+Ese equilibrio entre empuje y portabilidad explica su posición dentro del catálogo británico. En nuestra <a href=/patinetes/iscooter-i10-plus/>ficha del i10 Plus</a> reunimos cada cifra contrastada, mientras que el <a href=/comparador-patinetes/>comparador general de patinetes</a> permite enfrentarlo a alternativas de precio parecido antes de decidir la compra.
 
-## Ficha técnica resumida
+Conviene leerlo con dos correcciones respecto a análisis anteriores. Primera: delante no monta un disco, sino un freno de tambor acompañado de E-ABS, detalle que cambia tanto el tacto como el mantenimiento. Segunda: sí lleva doble suspensión, con muelles delante y detrás, un punto que antes se pasaba por alto y que se nota mucho en calles con juntas y adoquines irregulares.
+
+## Ficha técnica resumida: iScooter i10 Plus
 
 | Dato | Valor |
 |---|---|
-| **Precio** | ~379 £ (sin PVP oficial en euros) |
-| **Motor** | 800 W |
-| **Batería** | 36V 17,5Ah (630 Wh) |
-| **Autonomía declarada** | 50 km |
-| **Autonomía real estimada** | ≈34 km |
-| **Velocidad máxima** | 40 km/h |
-| **Peso** | 20 kg |
+| Precio británico de referencia | 378,99 £ en guías de marca; 399,99 £ vistos en su comparativa según campaña |
+| Propulsor | Trasero, 800 W de potencia máxima |
+| Acumulador | 36 V y 17,5 Ah, equivalentes a 630 Wh |
+| Recorrido máximo anunciado | 50 km, matizados como 45-50 km en su ficha |
+| Punta homologada por fábrica | 40 km/h |
+| Masa en orden de marcha | 20 kg netos |
+| Carga admisible | Hasta 120 kg entre piloto y equipaje |
+| Grado de sellado | IP54 frente a polvo y salpicaduras |
 
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-i10-plus/>Ficha técnica completa del iScooter i10 Plus</a>.
+## Motor trasero y batería escondida bajo los pies
 
-## Precio del iScooter i10 Plus en España
+El propulsor va integrado en la rueda posterior y declara 800 W como potencia máxima. No esperes la patada de un modelo deportivo de doble motor, pero sí una salida alegre desde parado y una respuesta suficiente para no quedarte clavado cuando la calle se empina. La marca asegura que supera rampas del 20 %, cifra creíble con conductor ligero y batería llena, aunque conviene rebajar expectativas si pesas cerca del límite admisible o afrontas la cuesta con viento en contra.
 
-Unas **379 libras** en Reino Unido. En España, a través de distribuidores europeos: 800 W y 50 km por ese dinero es difícil de igualar.
+Los 630 Wh se reparten en un paquete de 36 voltios alojado bajo la plataforma. A cambio, reponerlo exige entre 7 y 9 horas enchufado, así que el patrón natural consiste en dejarlo cargando durante la noche y salir por la mañana con el indicador completo.
+
+El conjunto se gobierna desde una pantalla a color. Existe control de crucero para tramos largos, timbre mecánico de serie y conexión con la aplicación iScooter o iScooterClub.
 
 <img src=/media/patinetes/iscooter-i10-plus-2.webp alt=Detalle del display del iScooter i10 Plus>
 
-## Autonomía real vs declarada
+## Autonomía declarada frente a la distancia que aprovecharás de verdad
 
-**50 km declarados**; en uso mixto, **unos 34 km reales**. Buena cifra para un patinete de 20 kg.
+La cifra grande del folleto son 50 kilómetros. La propia tienda oficial la matiza como un intervalo de 45 a 50, obtenido previsiblemente con piloto ligero, terreno llano, temperatura benigna y ritmo contenido. Ningún laboratorio independiente ha certificado ese alcance, así que toca interpretarlo como techo teórico y nunca como promesa de uso cotidiano.
 
-## Frenos y neumáticos
+Nuestra estimación editorial, razonada a partir de la capacidad de 630 Wh y del consumo habitual de un patinete de esta potencia rodando a ritmos urbanos, sitúa el recorrido aprovechable en torno a 34 kilómetros. Lo presentamos como cálculo orientativo, no como medición propia: influirían tu peso, las pendientes del trayecto, la presión de las cámaras, el frío invernal y lo a menudo que exijas aceleraciones fuertes. Con 70 kilos y conducción tranquila podrías acercarte a 38; con 100 kilos y prisa constante, bajar de 30 entra dentro de lo plausible.
 
-Frenos de disco estándar y neumáticos de 10 pulgadas. A 40 km/h conviene revisar el ajuste de los frenos con frecuencia.
+Para trayectos de ida y vuelta inferiores a 20 kilómetros diarios, ese margen resulta cómodo y permite no vivir pendiente del cargador.
 
-## Certificado DGT y normativa VMP
+## Precio oficial en libras y compra desde territorio español
 
-Con **40 km/h** de máxima, en España debe circular **limitado a 25 km/h**. Prohibido en **aceras** y por vías permitidas.
+Las guías publicadas por la propia marca lo sitúan en 378,99 libras. Su herramienta comparativa interna lo ha exhibido también a 399,99 libras en función de la campaña vigente, de modo que conviene fijarse en la cifra final mostrada antes de pagar y no dar por eterno ninguno de los dos importes. Ninguna de esas cantidades equivale a un PVP oficial en euros.
 
-## Puntos fuertes y débiles
+En España la adquisición llega a través de distribuidores europeos. Eso tiene tres consecuencias prácticas: el precio final en euros dependerá del canal y del cambio aplicado, la garantía se tramitará con el vendedor concreto y los plazos pueden diferir de los de la tienda británica. Guarda factura, número de serie y capturas de la oferta, porque serán tu respaldo si surge una reclamación posterior sobre especificaciones o plazos de entrega.
 
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 800 W por ~379 £ | Potencia pico sin publicar |
-| 630 Wh: 50 km declarados | A 40 km/h hay que limitarlo |
-| 20 kg: razonable | Frenos mejorables |
-| Equilibrio precio/prestaciones | App limitada |
-| Marca con distribución europea | El iX4 da más por poco más |
+Valorado contra su hardware, el importe resulta agresivo: doble suspensión, 630 Wh y señalización completa no abundan en esa franja.
+
+## Detener 40 km/h: tambor delantero, disco trasero y ruedas de diez pulgadas
+
+Aquí está la corrección técnica más importante de esta revisión. Describir el equipo como «frenos de disco» sin más era inexacto. El esquema real combina tres elementos: tambor en la rueda delantera asistido por E-ABS, disco mecánico en la trasera también con E-ABS y la retención propia del motor actuando como freno electrónico. El tambor delantero va protegido de la suciedad, pide poco ajuste y ofrece una mordida progresiva, aunque disipa peor el calor en descensos prolongados que un disco ventilado.
+
+Las ruedas miden 10 pulgadas. La versión inicial calzaba neumáticos con cámara, mientras que la variante nueva monta cubiertas tubeless orientadas a carretera, según aclara la ficha oficial. Antes de comprar conviene preguntar expresamente qué especificación suministra el distribuidor, porque cámara y tubeless difieren en reparación de pinchazos, herramientas necesarias y disponibilidad de repuestos en tu ciudad.
+
+Los muelles en ambos ejes forman la doble suspensión que antes no se mencionaba. No convierten un patinete rígido en una alfombra voladora, pero filtran tapas de alcantarilla, raíces que levantan el asfalto y tramos de carril bici deteriorados.
+
+La iluminación incluye LED principal, luz trasera que actúa al frenar e intermitentes integrados. Señalizar los giros con la mano soltando el manillar en plena ciudad es justo lo que estos pilotos evitan, y en tráfico denso ese detalle vale más que cualquier adorno decorativo.
+
+## Qué dice la norma española y qué ocurre con el certificado DGT
+
+Ninguna fuente oficial consultada acredita un certificado DGT verificado para este modelo. Tal como sale de fábrica alcanza 40 km/h, pero un vehículo de movilidad personal solo puede circular por vía pública española si su velocidad queda limitada a 25 km/h. Esa limitación previa no es opcional ni queda a interpretación del usuario: circular deslimitado expone a sanción y a que el seguro, si lo hubiera, discuta su cobertura tras un incidente.
+
+El marco general lo fija la <a href=https://www.dgt.es/>Dirección General de Tráfico</a>: nada de aceras, circulación por vías autorizadas, casco según la ordenanza municipal aplicable y prohibición de auriculares o de manipular el móvil durante la marcha. Cada ayuntamiento puede endurecer horarios, zonas peatonales y requisitos de estacionamiento, así que revisar la ordenanza de tu ciudad forma parte de la compra, no un trámite posterior.
+
+Si un vendedor te promete «certificado incluido» sin enseñarte documento comprobable asociado al modelo, desconfía. La documentación que importa es la que puedas contrastar, no una pegatina genérica adherida a la caja.
 
 <img src=/media/patinetes/iscooter-i10-plus-3.webp alt=iScooter i10 Plus en ciudad>
 
+## Mantenimiento sensato y vida diaria sobre la tabla
+
+El tambor delantero apenas pide atención más allá de una inspección periódica del cable y de su tensión. El disco trasero, en cambio, agradecerá pastillas revisadas cada pocos meses si frenas con frecuencia en bajadas, además de una limpieza suave cuando acumule polvo metálico. El E-ABS reduce el riesgo de bloquear la rueda, pero no sustituye a unas pastillas gastadas.
+
+Con sellado IP54 tolera salpicaduras y lluvia ligera, jamás un manguerazo directo ni rodar por charcos profundos que cubran la plataforma. Secarlo al llegar, guardar el cargador lejos de la humedad y revisar la presión antes de rutas largas alarga la vida de batería, cubiertas y rodamientos. Los muelles conviene mantenerlos limpios de barro seco, porque la suciedad acumulada termina produciendo crujidos y roces.
+
+En el día a día, sus 20 kilos marcan la frontera entre lo transportable y lo cargante. Subirlo a un cuarto piso sin ascensor cada mañana cansa, mientras que meterlo en un maletero o apoyarlo junto al escritorio resulta perfectamente asumible.
+
+## Pros y contras
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| 630 Wh dan margen real para jornadas urbanas completas | Recargar de vacío roza las 9 horas en el peor caso |
+| Muelles en los dos ejes mejoran calles rotas | El tambor delantero disipa peor en bajadas largas |
+| Intermitentes integrados evitan soltar el manillar | Sin certificado DGT verificado en fuentes oficiales |
+| Veinte kilos contenidos para su potencia máxima | Precio español sin PVP oficial en euros |
+| Pantalla a color con crucero y bloqueo por app | De fábrica supera el límite legal español |
+
+## Veredicto
+
+El i10 Plus convence cuando se le juzga como herramienta de desplazamiento serio y no como juguete de fin de semana. Ofrece capacidad energética poco común en su franja, una señalización completa y una amortiguación que la descripción anterior injustamente omitía. Sus pegas conocidas —carga lenta, tambor delantero y necesidad de limitarlo— no arruinan la propuesta siempre que las asumas antes de pagar. Para recorridos diarios de entre 8 y 25 kilómetros por asfalto urbano, con alguna cuesta seria de por medio, encaja mejor que los modelos básicos de 350 W y cuesta claramente menos que las máquinas de doble motor pensadas para otro público.
+
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Unas **379 £** en Reino Unido.
+### ¿Cuántas horas necesita enchufado para recuperar toda la carga?
 
-### ¿Qué autonomía real tiene?
-Unos **34 km**.
+Entre siete y nueve, dependiendo del nivel del que partas. Lo práctico es conectarlo al volver a casa y retirarlo por la mañana, evitando dejarlo enchufado días enteros sin usarlo porque ese hábito no beneficia a las celdas.
 
-### ¿i10 Plus o iX4?
-El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano y ligero.
+### ¿El freno delantero lleva disco como afirman algunos anuncios?
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+No. Delante trabaja un tambor apoyado por E-ABS, mientras que el disco mecánico queda reservado al eje posterior, igualmente con asistencia electrónica antibloqueo. Algunas descripciones de tiendas lo simplifican mal y de ahí nace la confusión.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Puedo mojarlo si me sorprende un chaparrón volviendo del trabajo?
 
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+El grado IP54 protege frente a salpicaduras y lluvia moderada, así que un chaparrón breve no debería arruinarlo. Otra historia es rodar sistemáticamente bajo tormentas o atravesar balsas de agua: ahí el riesgo para conectores y electrónica crece mucho.
+
+### ¿Qué versión de neumático me entregarán, con cámara o tubeless?
+
+Depende de la hornada: la inicial salía con cámara y la renovada apuesta por tubeless de carretera. Pide confirmación escrita al distribuidor antes de abonar nada, porque el dato figura en la ficha oficial como cambio entre versiones.
+
+### ¿Sirve para una persona que ronda los 110 kilos?
+
+Su carga máxima admitida llega a 120 kilos sumando piloto y lo que lleve encima, por lo que entra dentro del margen declarado. Ahora bien, con ese peso la autonomía útil se reducirá respecto a nuestra estimación y las cuestas exigirán más paciencia.
+
+### ¿La aplicación resulta imprescindible para circular con él?
+
+No hace falta para rodar, acelerar o frenar. Su utilidad está en funciones accesorias como el bloqueo, el registro de trayectos y ciertos ajustes, gestionados mediante iScooter o iScooterClub según la revisión del equipo.
+
+Recibir una sanción montando en patinete no siempre significa que toque abonarla sin rechistar. Cuando dudes sobre una notificación concreta, puedes <a href=https://recurretumulta.online/#analizador>revisar tu caso con el analizador gratuito</a> y contrastar plazos, importes y posibles defectos de forma antes de decidir el siguiente paso. Y si te sobra un rato entre recados, pásate por <a href=/juego-monos/>la caza de monos escondidos en la web</a>, un pasatiempo que hemos repartido entre páginas para lectores curiosos.
+
+**Cómo verificamos:** Cotejamos cada dato contra la ficha comercial británica del fabricante y sus guías internas de precios, descartando cifras de tiendas de terceros que no aparecían respaldadas por documentación de la marca.
+
+*Fuentes: <a href=https://www.iscooterglobal.co.uk/products/i10plus-electric-scooter>ficha oficial del i10Plus en iScooter UK</a> y normativa vigente publicada por la <a href=https://www.dgt.es/>Dirección General de Tráfico</a>.*`,
   },
   {
     slug: "iscooter-ix4",
@@ -2583,70 +2693,126 @@ El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano 
     ],
     content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road>
 
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix4/>Ver ficha técnica del iScooter iX4</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**Respuesta rápida:** Todoterreno ligero de 800 W alimentado por una batería de 720 Wh, capaz de alcanzar 45 km/h fuera de asfalto y dirigido a conductores corpulentos que alternan ciudad con pistas de tierra compactada.
 
-El **iScooter iX4** es el aventurero de acceso de la marca: **800 W**, **720 Wh** (48V 15Ah), **45 km/h** y neumáticos mixtos para salir del asfalto, por **~449 £**.
+Su planteamiento difiere bastante del patinete urbano típico: aquí mandan la tracción en superficies sueltas y la robustez. El desglose íntegro lo encontrarás en la <a href=/patinetes/iscooter-ix4/>ficha dedicada al iX4</a>, y si todavía dudas entre formatos, el <a href=/comparador-patinetes/>listado comparativo de patinetes eléctricos</a> ayuda a situarlo junto a opciones urbanas, plegables ligeras y máquinas campestres de mayor cilindrada eléctrica.
 
-## Ficha técnica resumida
+También conviene enmendar dos cosas publicadas antes sobre él. Su peso sí consta oficialmente: 25 kilos según la página de especificaciones del fabricante, y así lo recogemos aquí. Además, calificar su suspensión de básica era injusto, puesto que trabaja con elementos amortiguadores en la rueda delantera y también en la trasera, configuración doble pensada precisamente para rodar fuera del asfalto.
+
+## Ficha técnica resumida: iScooter iX4
 
 | Dato | Valor |
 |---|---|
-| **Precio** | ~449 £ (sin PVP oficial en euros) |
-| **Motor** | 800 W |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 40-45 km |
-| **Autonomía real estimada** | ≈28 km |
-| **Velocidad máxima** | 45 km/h |
+| Motor | Unidad trasera de 800 W |
+| Fuente de energía | 48 V con 15 Ah, total 720 Wh |
+| Velocidad tope | 45 km/h en modo Off-road |
+| Programa urbano | Comfort, con techo de 25 km/h |
+| Peso neto oficial | 25 kg conforme a especificaciones de marca |
+| Aguante máximo | 150 kg sobre la plataforma |
+| Cubiertas | Tubeless de 10 pulgadas con tacos marcados |
+| Estanqueidad declarada | IPX4 |
 
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-ix4/>Ficha técnica completa del iScooter iX4</a>.
+## Propulsión trasera de 800 vatios y arquitectura de 48 voltios
 
-## Precio del iScooter iX4 en España
+Empujar desde atrás tiene sentido cuando el firme pierde adherencia: la rueda motriz carga peso y busca tracción mientras la delantera se limita a dirigir. Los 800 W nominales de la ficha —la marca no habla aquí de otra cifra distinta para este dato— se alimentan de un sistema eléctrico de mayor voltaje que el de sus hermanos urbanos, lo cual favorece la entrega sostenida en repechos largos.
 
-Unas **449 libras** en Reino Unido. Por ese dinero, pocos off-road ofrecen 48V y 15Ah.
+La respuesta varía según el programa seleccionado. Comfort recorta la punta a 25 km/h y suaviza el carácter, adecuado para moverse entre tráfico y cumplir la limitación española en espacios públicos. Off-road libera el conjunto hasta los 45 km/h, una velocidad que solo tiene cabida en recintos privados o zonas donde la normativa específica lo permita expresamente.
+
+Afronta desniveles de entre el 20 % y el 25 % según lo publicado. Sobre tierra ese porcentaje se vuelve optimista si el suelo está suelto, porque la limitación real pasa a ser el agarre del neumático y no la fuerza bruta disponible. Dosificar el puño con suavidad evita que la rueda posterior escarbe y pierda el empuje justo en mitad de la rampa.
+
+Recargar el paquete completo requiere una ventana de 6 a 8 horas, así que para excursiones de sábado toca enchufarlo el viernes por la tarde.
+
+## Kilómetros prometidos, contradicción interna y distancia plausible en el campo
+
+Pocas fichas muestran una discrepancia tan clara dentro de la propia casa. La página comercial del producto habla de 40 a 45 kilómetros por carga, mientras que el apartado de especificaciones eleva el intervalo hasta 45-50 kilómetros. Recogemos ambas versiones tal y como aparecen, sin fundirlas en una cifra inventada, porque la incoherencia pertenece al fabricante y ocultarla sería maquillar la información.
+
+En la práctica, nuestra estimación editorial para uso campestre mixto se mueve entre 28 y 32 kilómetros por carga. Insistimos en la etiqueta: estimación, no medición instrumental de nuestro equipo. Rodar sobre grava, hierba o arena compactada exige energía continua para vencer una resistencia de rodadura muy superior a la del asfalto liso, y los tacos profundos que tanto ayudan en barro también penalizan el consumo cuando el ritmo se mantiene alto.
+
+Quien alterne asfalto tranquilo en modo Comfort con alguna pista sencilla podría estirar algo más esa horquilla; quien encadene subidas y aceleraciones repetidas verá el indicador bajar bastante antes.
 
 <img src=/media/patinetes/iscooter-ix4-2.webp alt=Detalle del iScooter iX4>
 
-## Autonomía real vs declarada
+## Etiqueta británica de 448,99 libras y canales de venta hacia España
 
-**40-45 km declarados**; en campo, **unos 28 km reales**. El off-road gasta mucho más que el asfalto: llévalo cargado si sales al monte.
+El precio comunicado por la tienda oficial del Reino Unido es de 448,99 libras. No existe una tarifa oficial equivalente en euros para el mercado español, así que cualquier conversión que veas en un distribuidor responde a su propio margen, transporte y política comercial del momento.
 
-## Frenos y neumáticos
+La compra desde España se canaliza mediante distribuidores europeos. Antes de transferir dinero, confirma tres extremos por escrito: versión exacta suministrada, plazo realista de entrega y procedimiento de garantía con dirección de devolución identificable. En un aparato de 25 kilos, devolverlo a otro país por un defecto de fábrica puede costar lo que te ahorraste frente a un vendedor más cercano.
 
-Frenos de disco y **neumáticos mixtos**: agarran en tierra sin ser un suplicio en asfalto. La suspensión es básica para lo que promete el concepto.
+Su tarifa cobra sentido al compararla con lo que entrega: 720 Wh, soporte para 150 kilos y neumática todoterreno genuina, una combinación que los urbanos baratos no ofrecen.
 
-## Certificado DGT y normativa VMP
+## Parar una máquina de 25 kilos: discos en ambos ejes y amortiguación doble
 
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Y recuerda: los caminos y el campo tienen su propia normativa; el patinete no es una moto de enduro.
+Ambas ruedas recurren a frenos de disco accionados mecánicamente. La pinza trasera suma además E-ABS, de modo que la frenada combina la fricción tradicional de pastilla contra disco con ayuda electrónica destinada a impedir el bloqueo cuando el firme resbala. Sobre tierra suelta conviene dosificar con tacto: un disco potente sobre grava puede arrastrar la rueda si aprietas la maneta como si rodaras sobre asfalto seco.
 
-## Puntos fuertes y débiles
+Las cubiertas tubeless de 10 pulgadas lucen un dibujo con tacos evidentes. Ese diseño muerde bien en pistas secas, hierba corta y caminos de grava fina, a cambio de zumbar algo sobre pavimento y de ofrecer un apoyo menos preciso en curvas rápidas asfaltadas. Al carecer de cámara, buena parte de los pinchazos por objetos pequeños se sellan con líquido antipinchazos, aunque un corte lateral seguirá exigiendo sustitución completa.
 
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 800 W off-road | Peso sin publicar (pesado) |
-| 720 Wh por ~449 £ | A 45 km/h hay que limitarlo |
-| 45 km/h | En campo la autonomía cae |
-| Neumáticos mixtos | Suspensión básica |
-| Chasis reforzado | Poca info oficial |
+Repetimos la corrección porque condiciona la compra: la suspensión trabaja en los dos extremos del chasis, no únicamente delante. Delante y detrás hay recorrido pensado para absorber piedras, raíces y baches que un patinete sin amortiguación transmitiría íntegros a tus tobillos. Eso no lo convierte en una bicicleta de montaña con horquilla hidráulica, pero sí marca una diferencia tangible en rutas de media hora por terreno quebrado.
+
+El equipamiento incorpora intermitentes, luz ambiental y pantalla LED en el manillar, con vinculación a las aplicaciones Minirobot o iScooter Club.
+
+## Marco legal español, modos de velocidad y certificado DGT
+
+No consta certificado DGT verificado para este modelo en la documentación pública revisada. Por tanto, a efectos prácticos en España, circular por espacios públicos exige mantenerlo limitado a 25 km/h, función que encaja con su programa Comfort. Activar Off-road dentro de una población o en un carril bici urbano te coloca directamente fuera del comportamiento permitido para un vehículo de movilidad personal.
+
+La <a href=https://www.dgt.es/>Dirección General de Tráfico</a> establece el marco estatal: prohibición de aceras, edad mínima y resto de condiciones generales, mientras ayuntamientos y titulares de cada vía pueden añadir restricciones propias. Ojo con extender esa lógica al campo: que una pista no sea una calle no significa barra libre, pues espacios naturales, vías pecuarias y montes de utilidad pública mantienen regulaciones específicas sobre vehículos motorizados.
+
+Su envergadura y sus 45 km/h potenciales alimentan una falsa sensación de «moto pequeña». Jurídicamente no lo es, y tratarlo como tal —sin matrícula, sin seguro específico de ciclomotor y sin casco integral— acumula riesgos que el precio de compra no refleja. Disfrútalo en entornos permitidos y con la limitación correcta según dónde ruedes en cada momento.
 
 <img src=/media/patinetes/iscooter-ix4-3.webp alt=iScooter iX4 en camino de tierra>
 
+## Cuidados propios de un aparato que se llena de polvo
+
+Rodar entre tierra obliga a una rutina distinta a la del commuter urbano. Después de cada salida conviene soplar o cepillar en seco la suciedad acumulada en discos, muelles y pliegue de la dirección, porque el barro reseco actúa como lija sobre piezas móviles. Su protección IPX4 soporta salpicaduras, pero lavar el conjunto a presión arruinaría rodamientos y electrónica con rapidez.
+
+Las pastillas sufren más en ambientes polvorientos: inspecciónalas visualmente buscando grosor restante y escucha si aparecen chirridos metálicos al detenerte, señal habitual de desgaste avanzado. Los tacos también se gastan de forma irregular si alternas mucho asfalto, así que vigila el dibujo central y evita rodar con presiones inadecuadas que deformen la banda de rodadura.
+
+A nivel doméstico, guardar 25 kilos no es anécdota: un garaje a pie de calle le sienta infinitamente mejor que un segundo piso sin ascensor.
+
+## Pros y contras
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| Admite hasta 150 kg, margen raro en su categoría | Sus 25 kg penalizan cualquier traslado a pulso |
+| Amortiguación en ambos extremos para terreno irregular | La marca publica dos autonomías distintas según página |
+| 720 Wh alimentan salidas campestres razonables | En modo libre rebasa lo permitido en vía pública |
+| Discos mecánicos delante y detrás con ayuda trasera | Documentación sin certificado DGT comprobable |
+| Programa Comfort ajusta la punta a 25 km/h | Cubiertas de tacos zumban y se gastan en asfalto |
+
+## Veredicto
+
+Como segundo vehículo recreativo para alguien que vive cerca de pistas practicables, el iX4 tiene argumentos sólidos: fuerza suficiente, chasis capaz de cargar con adultos grandes y un equipo de frenos y suspensión coherente con su vocación. Como único transporte diario en una ciudad densa, en cambio, su volumen y su masa juegan en contra frente a alternativas urbanas más dóciles. La decisión no debería basarse en la velocidad máxima impresa, sino en dónde piensas rodar el 90 % de los días y en si aceptas limitarlo religiosamente cada vez que pises suelo público español.
+
 ## Preguntas frecuentes
 
-### ¿Vale para el campo?
-Para **pistas y caminos** sencillos, sí. No es una moto de enduro.
+### ¿De verdad pesa 25 kilos o se desconoce ese dato?
 
-### ¿Qué autonomía real tiene?
-Unos **28 km**, menos en tierra.
+Se conoce y procede de la propia página de especificaciones del fabricante: 25 kg netos. Un listado comercial de la misma casa ha mostrado otra cantidad en alguna ocasión, pero el documento de especificaciones manda a la hora de contrastar el aparato.
 
-### ¿iX4 o iX5S?
-El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si el presupuesto llega, iX5S.
+### ¿Por qué aparecen dos autonomías oficiales diferentes para él?
 
-### ¿Es legal en España?
-**Limitado a 25 km/h** en vía pública, sí.
+Porque la casa no se pone de acuerdo consigo misma. Su página de producto promete entre 40 y 45 kilómetros y el apartado técnico sube la apuesta hasta un intervalo de 45 a 50, contradicción que preferimos mostrar abiertamente.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Cuánto recorre entonces alejándose del asfalto?
 
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+Calculamos entre 28 y 32 kilómetros como horquilla prudente para un uso mixto fuera de carretera. Es una estimación editorial fundamentada en consumo y capacidad, pendiente de factores como firme, piloto y desnivel acumulados durante la salida.
+
+### ¿Los intermitentes y la luz ambiental vienen montados de origen?
+
+Sí, forman parte del equipamiento descrito por el fabricante, acompañados por una pantalla LED en el manillar. Aun así, revisa al recibirlo que todas las funciones lucen y parpadean correctamente antes de dar la compra por cerrada.
+
+### ¿Puedo llevar a mi hijo de pie delante en trayectos cortos?
+
+Ni aunque quepa. Un vehículo de movilidad personal está concebido para un único ocupante, y sumar peso mal repartido compromete frenada, dirección y estabilidad, especialmente sobre tierra donde las reacciones del chasis ya resultan menos previsibles.
+
+### ¿Qué aplicación móvil le corresponde exactamente?
+
+La documentación menciona Minirobot e iScooter Club como plataformas vinculadas. Vincula el patinete siguiendo el manual entregado con tu unidad, porque la compatibilidad puede depender de la revisión de hardware que te suministren.
+
+Si rodando con él te notifican una infracción cuyo importe o cuya descripción te generan dudas razonables, no pagues por inercia: tienes la opción de <a href=https://recurretumulta.online/#analizador>someter la sanción a una primera revisión sin coste</a> y comprobar si existen plazos vencidos, errores en la identificación o motivos formales de recurso. Como contrapunto ligero a tanta normativa, también dejamos abierta <a href=/juego-monos/>la búsqueda de monos camuflados por el sitio</a> para quien disfrute cazando detalles ocultos entre artículos.
+
+**Cómo verificamos:** Contrastamos la página comercial con el apartado independiente de especificaciones técnicas del fabricante, y cuando ambas fuentes internas discreparon —autonomía o peso en listados— priorizamos el documento técnico y dejamos constancia expresa de la discrepancia.
+
+*Fuentes: <a href=https://www.iscooterglobal.co.uk/pages/ix4>especificaciones oficiales del iX4 en iScooter UK</a>, complementadas con el marco normativo de la <a href=https://www.dgt.es/>Dirección General de Tráfico</a>.*`,
   },
   {
     slug: "iscooter-ix5s",
