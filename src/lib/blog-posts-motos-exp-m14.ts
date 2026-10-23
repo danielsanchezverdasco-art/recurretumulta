@@ -186,6 +186,43 @@ El mantenimiento de un scooter eléctrico NIU se reduce a neumáticos, frenos y 
 
 Por 3.799 € es uno de los equivalentes a 125 eléctricos más baratos. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y los scooters de gasolina de 125 cc.
 
+## NIU: el especialista eléctrico que quiere tu garaje sin enchufe
+
+NIU se ha construido una reputación mundial con una idea sencilla: scooters eléctricos conectados, con baterías extraíbles pensados para quien vive en un piso y no tiene punto de carga. Su gama y su red europeas se consultan en la <a href=https://www.niu.com>web oficial de NIU</a>, ya enlazada en las fuentes de este análisis. El FQi 500 es su apuesta más ambiciosa en el segmento de los equivalentes a 125: **6,4 kW, 95 km/h y 3.799 €**, un precio que lo coloca frente a frente con los scooters de gasolina de 125 cc que dominan la ciudad española.
+
+## La técnica: dos baterías de 72 V que suben en el ascensor
+
+| Dato | NIU FQi 500 |
+|---|---|
+| Potencia | 6,4 kW (8,7 CV) |
+| Velocidad máxima | 95 km/h |
+| Batería | 2 × 72 V 28 Ah (4,03 kWh) |
+| Autonomía declarada | 100 km |
+| Autonomía real estimada | Unos 80 km |
+| Peso | 127 kg |
+| Carnet | A1 (válido con B +3 años) |
+| Precio | 3.799 € |
+
+El corazón del FQi son sus **dos baterías extraíbles de 72 V**: se sacan, se suben a casa y se cargan en un enchufe doméstico en **3-6 horas**, según recoge el análisis original. Con 4,03 kWh combinados declara 100 km, que en uso urbano realista se quedan en unos 80 km: suficiente para la semana laboral de la mayoría de usuarios urbanos. Los 95 km/h de punta le permiten salir a rondas y vías rápidas cortas sin convertirse en un obstáculo, algo que los ciclomotores eléctricos limitados no pueden hacer. El precio a pagar es el hueco bajo el asiento: lo ocupan las baterías y el casco va en un baúl.
+
+## Uso real: el 125 de los que no tienen garaje
+
+El FQi 500 resuelve el problema clásico del vehículo eléctrico urbano: dónde cargarlo. Si vives en un piso sin plaza con enchufe, las baterías extraíbles son la diferencia entre poder y no poder tener un scooter eléctrico. Su uso natural es el trayecto casa-trabajo con desvíos, a ritmos de ciudad y anillo urbano. No es una moto de fin de semana ni de autovía: con unos 80 km reales y 95 km/h de punta, su territorio es la ciudad y su periferia cercana. Compáralo con el resto en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Costes de uso: la ventaja eléctrica, sin cifras inventadas
+
+El propio análisis ya señala que el mantenimiento de un scooter eléctrico NIU se reduce a neumáticos, frenos y revisiones de software, con **garantía oficial de 2 años** en vehículo y componentes según la marca, y que no hay un plan público de revisiones con precios cerrados en España. Lo demás es física de su clase: sin aceite, sin correa de distribución ni embrague que sustituir, el coste por kilómetro de un eléctrico de 4,03 kWh cargado en casa es estructuralmente inferior al de un 125 de gasolina. Las partidas a vigilar a largo plazo son las de siempre en NIU: el estado de las dos baterías y los consumibles de freno y neumático.
+
+## Normativa: carnet A1, etiqueta Cero e ITV de moto
+
+El FQi 500 es un equivalente a 125: se conduce con el **carnet A1** o con el **B con más de 3 años de antigüedad**, como recoge su ficha. Como vehículo eléctrico lleva **etiqueta Cero** de la DGT, con las ventajas de acceso y aparcamiento que las ordenanzas municipales reservan a los cero emisiones. Al ser una motocicleta ligera matriculada, pasará la ITV con la periodicidad propia de las motos, no la de los ciclomotores. Nada de esto lo convierte en un ciclomotor: sus 95 km/h lo sitúan de pleno en la categoría de moto urbana.
+
+## Frente al MQi GT Evo y a la NQiX 500: veredicto
+
+Dentro de la propia casa hay dos referencias con ficha. El <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> es el scooter de la gama anterior con el que el FQi comparte filosofía de baterías extraíbles. La <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> cuesta 4.599 €, llega a 100 km/h y suma ABS y control de tracción, pero es una naked sin la protección ni la postura de scooter del FQi. Frente a los 125 de gasolina, el FQi gana en coste de uso y en poder cargarse en casa; pierde en hueco para el casco y en red de talleres, más amplia en las marcas tradicionales.
+
+**¿Merece la pena?** Por 3.799 € es uno de los equivalentes a 125 eléctricos más sensatos del mercado. **Para quién sí:** para el urbanita sin garaje que carga en casa y hace menos de 60-70 km al día. **Para quién no:** para quien necesite hueco bajo el asiento, autovía a diario o la red de un fabricante de gasolina.
+
 ## Preguntas frecuentes
 
 ### ¿Puedo conducir el NIU FQi 500 con el carnet B?
@@ -256,6 +293,43 @@ Como eléctrico, el mantenimiento se limita a neumáticos, frenos y software. La
 
 Cuesta 4.999 €. Sus rivales en la casa son el <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> y el <a href=/motos/niu-rqi-sport-2025-ficha-tecnica-precio/>NIU RQi Sport</a>; fuera, los scooters de gasolina de 125 cc.
 
+## NIU y el MQi GT Evo: el rutero de la gama clásica
+
+NIU construyó su nombre con scooters eléctricos urbanos conectados, y su gama se consulta en la <a href=https://www.niu.com>web oficial de NIU</a>, ya citada en las fuentes de este análisis. El MQi GT Evo es el escalón alto de su gama clásica: no busca ser el más barato, sino el que sirve para dos y para salir de la ciudad. Su asiento un **30 % más largo** que el de la serie NQi y su velocidad máxima de **100 km/h** definen su papel: un equivalente a 125 pensado para el uso diario con pasajero, por **4.999 €**.
+
+## La técnica: Bosch, dos baterías y modo E-Save
+
+| Dato | NIU MQi GT Evo |
+|---|---|
+| Potencia | 6,5 kW (8,8 CV) |
+| Velocidad máxima | 100 km/h |
+| Batería | 2 x 72 V (3,74 kWh) |
+| Autonomía declarada | 75 km |
+| Peso | 128 kg |
+| Carga útil | 275 kg |
+| Carnet | A1 (o B con 3 años) |
+| Precio | 4.999 € |
+
+El motor Bosch de **6,5 kW** y las dos baterías de 72 V suman **3,74 kWh**. La autonomía declarada es de **75 km**, que el análisis original aterriza con honestidad en unos **60 km reales** en uso mixto: esa es la cifra con la que hay que planificar. El modo **E-Save**, que limita la velocidad a 45 km/h para estirar la batería, es un recurso útil para llegar a casa, no un modo de uso habitual. A cambio, no necesitas instalación: las baterías se extraen y se cargan en un enchufe doméstico en unas **5 horas**, según su FAQ.
+
+## Uso real: dos personas, rondas y la periferia cercana
+
+Con 100 km/h puede usar rondas y vías rápidas cortas sin ser un obstáculo, y con **275 kg de carga útil** lleva a dos adultos con compra. Su límite es el de su batería: 60 km reales marcan un radio de acción urbano y periurbano, no una moto de escapadas. Para el trayecto casa-trabajo con desvíos es exactamente su escenario. Compáralo con otros equivalentes a 125 en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Costes de uso: la ventaja eléctrica y la garantía de 2 años
+
+El propio análisis ya fija lo verificable: mantenimiento limitado a neumáticos, frenos y software, y **garantía oficial NIU de 2 años** en vehículo y componentes según la marca, sin precios públicos de revisiones en España. No añadimos tarifas inventadas. La partida a vigilar a largo plazo es la de cualquier scooter de baterías extraíbles: el estado de los dos packs de 72 V tras años de ciclos, porque de ellos depende que los 60 km reales se mantengan. Cargar en casa, eso sí, mantiene el coste por kilómetro muy por debajo del de un 125 de gasolina.
+
+## Normativa: A1, B con antigüedad y etiqueta Cero
+
+El MQi GT Evo es un equivalente a 125: se conduce con el **carnet A1** o con el **B con más de 3 años**, como recoge su FAQ. Como eléctrico lleva **etiqueta Cero** de la DGT, con las ventajas de acceso y aparcamiento que las ordenanzas reserven a los cero emisiones. Como motocicleta ligera matriculada pasará la ITV con la periodicidad de las motos. Y no, Euro NCAP no evalúa motocicletas: su seguridad se juzga por su equipamiento y su parte ciclo, no por estrellas.
+
+## Frente al FQi 500 y a la NQiX 500: veredicto
+
+Dentro de casa hay dos referencias claras con ficha. El <a href=/motos/niu-fqi-500-2025-ficha-tecnica-precio/>NIU FQi 500</a> cuesta menos —3.799 € según su ficha— y comparte filosofía de baterías extraíbles, con un enfoque más urbano. La <a href=/motos/niu-nqix-500-2026-ficha-tecnica-precio/>NIU NQiX 500</a> figura por 4.599 € con 100 km/h y un planteamiento naked, sin la postura de scooter del MQi. El Evo se justifica frente a ambos por su asiento para dos y su vocación rutera dentro de la ciudad extendida.
+
+**¿Merece la pena?** Por 4.999 € es el NIU clásico para quien viaja acompañado. **Para quién sí:** para parejas urbanas y usuarios de rondas sin garaje con enchufe. **Para quién no:** para quien haga menos de 30 km solo y sin pasajero: el FQi 500 cumple por menos.
+
 ## Preguntas frecuentes
 
 ### ¿Alcanza los 100 km/h reales?
@@ -324,6 +398,39 @@ Neumáticos, frenos y software: eso es todo. La garantía oficial de NIU es de <
 ## Precio y rivales
 
 En Europa ronda los 4.500 €. Compite con el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a>, el <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NIU NQiX 300</a> y los scooters deportivos de 125 cc de gasolina.
+
+## Contexto: NIU y la evolución del NQi
+
+NIU se ha construido un nombre en la movilidad urbana eléctrica a base de scooters conectados, con baterías extraíbles y precios contenidos. El NQi fue su modelo de acceso más popular, y este NQiX 500 representa el salto ambicioso de la saga: más potencia, más velocidad punta y un equipamiento de seguridad impropio de un scooter de su clase. La marca documenta su gama y servicios en su <a href=https://www.niu.com>web oficial</a>, que es también la referencia para garantía y red de venta. Frente a los 125 de gasolina de toda la vida, su propuesta es clara: mismo carnet, menos mantenimiento y silencio.
+
+## Profundidad técnica: dos baterías y un Boost bien pensado
+
+El conjunto lo forman dos baterías de **72 V y 28 Ah** cada una —**4,03 kWh** en total— que alimentan un motor de **5 kW nominales** capaz de entregar **9 kW** en el modo Boost. Cada batería pesa solo **12,4 kg**, así que pueden extraerse y cargarse en casa o en la oficina, la solución práctica para quien no tiene garaje con enchufe. La autonomía declarada es de **95 km**, y la realista en ciudad ronda los 80 km según lo ya analizado en este artículo.
+
+| Dato técnico | NQiX 500 |
+|---|---|
+| Potencia nominal / máxima | 5 kW / 9 kW (Boost) |
+| Batería | 2 × 72 V 28 Ah (4,03 kWh) |
+| 0-50 km/h | 2,8 s |
+| Velocidad máxima | 100 km/h (120 con Boost) |
+| Peso | 128 kg |
+| Carnet | A1 o B con 3 años |
+
+El detalle diferencial es la seguridad activa: **ABS y control de tracción de serie**, algo todavía raro en scooters eléctricos de este precio, junto a una pantalla LCD de 5 pulgadas gestionada desde la corona NIU Link del manillar sin soltar el puño.
+
+## Uso real y carnet: quién puede llevarlo y para qué sirve
+
+Al homologarse como motocicleta ligera, se conduce con el **carnet A1** o con el **B de coche con al menos 3 años de antigüedad**, la vía por la que la mayoría de sus compradores llegará a él. Su terreno es la ciudad y las rondas: con 100 km/h de punta puede defenderse en vías rápidas urbanas, pero no es una moto de autopista ni de viajes largos, y la autonomía real marca el radio útil de acción. A cambio, el hueco bajo el asiento admite un casco integral pese a la doble batería, un detalle que muchos rivales eléctricos no resuelven.
+
+## Mantenimiento y costes de uso
+
+La ventaja estructural del eléctrico se nota en el bolsillo: no hay aceite, filtros de aire, bujías ni embrague que atender. El mantenimiento se concentra en neumáticos, frenos, transmisión y actualizaciones de software, además del cuidado básico de las baterías —evitar dejarlas descargadas durante semanas y cargarlas con su cargador—. Como ya recoge este artículo, la garantía oficial de NIU es de **2 años** y no constan precios cerrados públicos de revisiones en España, así que conviene confirmar el coste en el concesionario antes de comprar. Como motocicleta ligera, está sujeta a la ITV con la periodicidad general de las motocicletas.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Dentro de la propia marca, el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> ofrece 5 kW, 100 km/h y unos 75 km de autonomía por 4.599 € según su ficha en este sitio: es la alternativa de corte más clásico. El <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NQiX 300</a> queda como escalón inferior de la misma familia para quien no necesita tanta punta ni el Boost.
+
+**Veredicto:** el NQiX 500 merece la pena para el usuario urbano que quiere lo más completo de NIU: seguridad activa, baterías ligeras extraíbles y prestaciones sobradas para ciudad y rondas. No es para hacer autopista a diario ni para quien necesite más de 80 km reales entre cargas sin planificar. Y si te queda batería al llegar a casa, gasta la tuya un rato en el <a href=/juego-monos/>juego caza-monos</a>.
 
 ## Preguntas frecuentes
 
@@ -738,6 +845,44 @@ Sin aceite ni filtros: neumáticos, frenos, transmisión y software. La garantí
 
 Can-Am no publica precio oficial en España (en EE. UU. parte de 13.999 $). Sus rivales son la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a>, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a> y las naked A2 de gasolina.
 
+## BRP y el regreso de Can-Am: 40 años después, en silencio
+
+Can-Am nació en los años setenta dentro del grupo canadiense Bombardier y desapareció de las motos durante cuatro décadas, hasta que BRP decidió resucitarla como marca eléctrica. La gama se presenta en la <a href=https://can-am.brp.com/on-road/2025/can-am-pulse.html>web oficial de Can-Am</a>, donde la Pulse es la naked urbana del dúo que completa la trail Origin. Su planteamiento no es el de un scooter eléctrico más: es una motocicleta de verdad, con motor Rotax E-Power de refrigeración líquida, batería estructural de **8,9 kWh** y una pantalla táctil de **10,25 pulgadas con Apple CarPlay** que no tiene ningún rival de su segmento.
+
+## La técnica: 47 CV, 72 Nm y batería que forma parte del chasis
+
+| Dato | Can-Am Pulse 2025 |
+|---|---|
+| Potencia | 35 kW (47 CV); versión 11 kW para A1 |
+| Par | 72 Nm |
+| Batería | 8,9 kWh, refrigeración líquida, estructural |
+| Autonomía urbana declarada | 160 km |
+| 0-100 km/h | 3,8 s |
+| Velocidad máxima | 129 km/h |
+| Peso | 177 kg |
+| Carga | Nivel 1 y 2 a 6,6 kW: 20-80 % en 50 min (Nivel 2) |
+| Carnet | A2 (versión 11 kW: A1) |
+
+El 0-100 en **3,8 s** la pone en territorio de naked media de gasolina, y los 72 Nm están disponibles desde cero, como en toda eléctrica. La batería estructural (forma parte del chasis) y la refrigeración líquida son soluciones de moto grande aplicadas a una A2. La contrapartida es conocida: **sin carga rápida de Nivel 3**, sus viajes se limitan a lo que dé la batería, porque una parada de carga en Nivel 2 no es un repostaje. Los modos Normal, Eco, Rain y Sport+, la marcha atrás y la frenada regenerativa completan un equipamiento impropio de su categoría.
+
+## Uso real: ciudadana brillante, viajera limitada
+
+La Pulse es una moto de ciudad y corona metropolitana excelente: silenciosa, fulgurante en semáforos y con autonomía urbana declarada de 160 km que en uso real dará para varios días de trayectos. Fuera de ahí, la velocidad máxima de 129 km/h permite autovía, pero el consumo a ritmo alto y la ausencia de carga rápida cierran la puerta a las rutas largas. Es, en resumen, una segunda moto perfecta o una primera moto urbana con aspiraciones. Compárala en el <a href=/comparador-motos/>comparador de motos</a> y ameniza las cargas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+## Mantenimiento y garantía: 5 años de batería que dan tranquilidad
+
+El propio post recoge los datos verificables: sin aceite ni filtros de motor, el mantenimiento se reduce a neumáticos, frenos, transmisión y software, y la garantía es de **2 años en el vehículo y 5 años o 50.000 km en la batería**. BRP no ha publicado precio oficial de la Pulse en España (en EE. UU. parte de 13.999 $) ni tarifas de revisión españolas, y no las inventamos. La red BRP en España existe por sus otros productos (quads, motos de agua, nieve), un respaldo más sólido que el de muchas marcas eléctricas nuevas, aunque conviene confirmar el concesionario con servicio de motos On-Road más cercano.
+
+## Normativa: A2, versión A1 y etiqueta Cero
+
+La Pulse de 35 kW exige el **carnet A2**, y existe una versión de **11 kW accesible con el A1** o con el B con tres años, la puerta de entrada para quien venga del coche. Como motocicleta eléctrica lleva **etiqueta Cero**, con libre acceso a las ZBE. Su ITV seguirá el calendario de las motocicletas una vez matriculada en España, mercado donde su comercialización depende del despliegue de la red On-Road de BRP: antes de reservar, confirma plazos y servicio con un concesionario oficial.
+
+## Frente a la Can-Am Origin: veredicto
+
+Su hermana tiene ficha en esta casa y comparte toda la base técnica: la <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin</a> ofrece los mismos 47 CV y 72 Nm, la misma batería de 8,9 kWh y la misma carga en 50 minutos, pero en formato trail con suspensiones KYB de 255 mm de recorrido, 145 km de autonomía declarada y 187 kg. La Pulse gana en peso, en agilidad urbana y en ese 0-100 de 3,8 s; la Origin gana si tus trayectos incluyen pistas.
+
+**¿Merece la pena?** Es la naked eléctrica A2 más tecnológica del mercado y una declaración de intenciones seria de BRP. **Para quién sí:** para el urbanita que quiera una moto eléctrica de verdad, con prestaciones y equipamiento de segmento superior. **Para quién no:** para quien viaje lejos con la moto o necesite precio cerrado y red consolidada en España hoy mismo.
+
 ## Preguntas frecuentes
 
 ### ¿Qué carnet necesito para la Can-Am Pulse?
@@ -809,6 +954,43 @@ El mantenimiento se limita a neumáticos, frenos, kit de transmisión encapsulad
 
 Sin precio oficial en España. Sus rivales son la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Can-Am Origin 2024</a>, la <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse 2024</a> y las trail A2 de gasolina.
 
+## BRP y Can-Am: el regreso eléctrico de una marca de aventuras
+
+Can-Am es la marca de vehículos recreativos de **BRP**, el grupo canadiense detrás también de Ski-Doo y Sea-Doo, y su gama de carretera puede consultarse en la <a href=https://can-am.brp.com/on-road/2025/can-am-origin.html>ficha oficial de la Origin</a>. Tras años centrada en los tres ruedas Ryker y Spyder, la marca volvió a las dos ruedas con una plataforma eléctrica propia, y lo hizo con dos hermanas: la naked Pulse para la ciudad y esta Origin para salir de ella. La Origin no es un experimento aislado, es la mitad aventurera de una estrategia eléctrica completa, con la batería integrada en el chasis y la refrigeración líquida como señas técnicas de la casa.
+
+## La plataforma eléctrica, al detalle: 47 CV y cadena encapsulada
+
+| Dato | Can-Am Origin 2025 |
+|---|---|
+| Potencia | 35 kW (47 CV) |
+| Par | 72 Nm |
+| Batería | 8,9 kWh con refrigeración líquida |
+| Recorrido de suspensión | 255 mm (KYB) |
+| Carga Nivel 2 | 20-80 % en 50 minutos (6,6 kW) |
+| Pantalla | 10,25 pulgadas con CarPlay |
+| Peso | 187 kg |
+| Altura de asiento | 865 mm |
+
+La lectura técnica importante está en tres decisiones. La primera es la **refrigeración líquida de la batería**, que protege la autonomía y la carga cuando el calor aprieta en pistas lentas. La segunda es la **cadena encapsulada** dentro del basculante monobrazo: en una trail, la cadena es el elemento que más sufre el barro y el polvo, y aquí va protegida y con menos mantenimiento expuesto. La tercera es el par de **72 Nm** disponible desde parado, la entrega típica del eléctrico que en campo ayuda a salir de zonas lentas sin jugar con el embrague, porque no hay embrague ni marchas que gestionar.
+
+## Uso real: trail eléctrica para pistas, no para enduro extremo
+
+Con **145 km declarados en ciudad** y menos en uso mixto con campo, la Origin es una trail de escapadas de fin de semana y de rutas por pistas cercanas, no una viajera de grandes distancias: su autonomía manda planificar la ruta alrededor de un enchufe de Nivel 2. Los **187 kg** son pocos para una trail eléctrica y muchos para zonas muy técnicas, como reconoce la propia FAQ de este post, y el asiento a **865 mm** exige piernas largas o experiencia para moverla en parado. A cambio, en el día a día urbano es una A2 silenciosa, sin vibraciones y con una pantalla de 10,25 pulgadas que no tiene ninguna rival de gasolina en su segmento.
+
+## Mantenimiento: menos piezas, garantía clara y sin tarifas publicadas
+
+El post original ya marca el perímetro honesto: el mantenimiento se limita a neumáticos, frenos, el kit de transmisión encapsulado y el software, y **no hay datos públicos de precios de revisiones en España**. Lo que sí está publicado y es verificable es la garantía: **2 años en el vehículo y 5 años o 50.000 km en la batería**, la cobertura que de verdad importa en un vehículo eléctrico, porque la batería es el componente caro. Sin aceite, sin filtros de motor y sin embrague, el coste de uso previsible es el de consumibles y neumáticos, pero cualquier cifra concreta de revisión sería inventada y aquí no se publica.
+
+## Normativa: A2, versión A1 y etiqueta Cero
+
+La Origin de 35 kW se conduce con el **carnet A2**, y existe una versión de **11 kW** que la hace accesible con el **A1** y con el carnet B con tres años de antigüedad, según la normativa española de equivalencia para motocicletas de hasta 125 cc equivalentes. Como motocicleta eléctrica, le corresponde la **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones. En la ITV, una eléctrica se revisa igual que cualquier otra motocicleta en plazos, con la ventaja de no pasar prueba de emisiones ni de ruido de escape.
+
+## Frente a la Pulse y a las trail A2 de gasolina: veredicto
+
+Sus rivales naturales son su hermana <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse</a>, pensada para asfalto urbano, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Origin del año anterior</a> y las trail A2 de gasolina de toda la vida. Frente a estas últimas, la Origin gana en tecnología, en silencio y en coste de uso urbano, y pierde en lo que pierde todo eléctrico de aventura hoy: autonomía fuera del asfalto y red de carga en zonas rurales. Puedes enfrentar las trail del mercado en el <a href=/comparador-motos/>comparador de motos</a> y entretener la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Es la trail eléctrica A2 más completa y tecnológica que se puede comprar, y también una compra de nicho. **Para quién sí:** para quien haga pistas cercanas a casa o a un punto de carga, valore el silencio y quiera la plataforma más avanzada del segmento. **Para quién no:** para quien encadene jornadas largas de campo lejos de enchufes: ahí, hoy, una trail A2 de gasolina sigue siendo la herramienta correcta.
+
 ## Preguntas frecuentes
 
 ### ¿Qué carnet necesito para la Can-Am Origin?
@@ -878,6 +1060,44 @@ Correa, neumáticos, frenos y poco más. Vmoto/Super Soco ofrece <strong>2 años
 
 En Europa ronda los 4.500-5.000 €. Sus rivales son la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>Super Soco TC Wanderer 2025</a>, la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>Super Soco TS Hunter 2025</a> y las 125 clásicas de gasolina.
 
+## Contexto: Super Soco y la café racer eléctrica de acceso
+
+Super Soco, hoy integrada en el grupo Vmoto, fue una de las primeras marcas en popularizar la moto eléctrica urbana con estética de moto de verdad. Su gama oficial se puede consultar en la <a href=https://www.vmoto.com>web de Vmoto Super Soco</a>, enlazada ya en las fuentes de este artículo. La TC Max es su café racer: faro redondo, depósito alargado y ruedas de radios sobre una mecánica eléctrica equivalente a una 125. Su propuesta es muy concreta: que el primer contacto con la moto eléctrica no obligue a renunciar a la imagen clásica que a muchos nos hizo moteros.
+
+## Profundidad técnica: correa, batería extraíble y 5,1 kW de pico
+
+La ficha da los datos esenciales: **3,9 kW nominales y 5,1 kW de pico**, velocidad máxima de **95 km/h**, batería de **72 V y 45 Ah (3,2 kWh) extraíble** y solo **101 kg** de peso. La transmisión por **correa dentada** elimina el engrase y el tensado de la cadena, y la frenada corre a cargo de pinzas Brembo con sistema combinado CBS, sin ABS, como el propio artículo advierte. La autonomía declarada es de **110 km**, que el post rebaja con honestidad a unos 70-80 km reales: es la cifra con la que hay que planificar.
+
+| Dato | Valor del post |
+|---|---|
+| Potencia pico | 5,1 kW |
+| Batería | 72 V 45 Ah extraíble (3,2 kWh) |
+| Velocidad máxima | 95 km/h |
+| Peso | 101 kg |
+| Autonomía declarada | 110 km |
+
+## Uso real: ciudad e interurbano corto, con enchufe en casa
+
+Su escenario es la ciudad y su periferia: trayectos diarios, recados y escapadas cortas donde 95 km/h y 70-80 km reales bastan. La batería extraíble es su gran baza práctica para quien vive en un piso: se sube a casa y se carga en un enchufe doméstico durante la noche, sin garaje con punto de carga. Sus límites son igual de claros: no es una moto para autovía sostenida ni para rutas largas, y la ausencia de marchas, que es una comodidad en ciudad, le quita parte del ritual a quien busca una 125 clásica de gasolina.
+
+## Mantenimiento y garantía
+
+El artículo ya lo resume: correa, neumáticos, frenos y poco más, sin aceite de motor, filtros ni embrague. La garantía citada es de **2 años en el vehículo y 3 años en la batería**, y no hay datos públicos de precios de revisiones en España, así que no los inventamos. Lo que sí conviene cuidar es la batería: es la pieza cara de cualquier eléctrica, y su estado manda en el valor de la moto de segunda mano.
+
+## Normativa: carnet A1 o B con tres años, etiqueta Cero
+
+La TC Max se conduce con **carnet A1**, y también con el **permiso B con tres años de antigüedad**, como recoge la ficha. Al ser eléctrica, le corresponde la **etiqueta Cero**, con acceso pleno a las zonas de bajas emisiones según la información de la <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT sobre distintivos ambientales</a>. Como motocicleta matriculada, pasa su ITV periódica en los plazos ordinarios de las motos.
+
+## Rivales y veredicto: ¿merece la pena?
+
+Sus rivales naturales están en la propia casa: la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>TC Wanderer</a> y la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>TS Hunter</a>, además de las 125 de gasolina de estética clásica. Compáralas en el <a href=/comparador-motos/>comparador de motos</a> y tómate un descanso con el <a href=/juego-monos/>juego caza-monos</a>.
+
+**Veredicto: ¿merece la pena?** Por los 4.500-5.000 € que ronda en Europa, la TC Max merece la pena para uso urbano diario con posibilidad de cargar la batería en casa: estilo, silencio y mantenimiento mínimo. Para quien necesite salir a carretera abierta con frecuencia o valore la autonomía por encima de todo, una 125 de gasolina seguirá siendo más práctica.
+
+## Antes de decidir: la prueba de la batería manda
+
+En una eléctrica equivalente a 125, la decisión no la toma el motor: la toma tu rutina de carga. Si puedes extraer la batería de 72 V y cargarla en casa o en el trabajo, la TC Max encaja como un guante en el uso urbano diario, con sus 70-80 km reales por carga y un coste por kilómetro mínimo frente a una gasolina. Si dependes de cargar la moto entera en la calle, la experiencia se complica y conviene pensarlo dos veces. Prueba también la postura café racer: es parte de su encanto, pero en trayectos diarios largos hay quien prefiere la posición más erguida de su hermana Wanderer. Y valora la frenada combinada sin ABS con la cabeza fría: las pinzas Brembo y el CBS cumplen en ciudad, pero exigen la técnica de frenado que cualquier A1 debería tener interiorizada. Con esas tres comprobaciones hechas —carga, postura y frenada—, la TC Max deja de ser una moto bonita de catálogo y se convierte en una compra muy fácil de justificar para la ciudad.
+
 ## Preguntas frecuentes
 
 ### ¿La TC Max tiene marchas?
@@ -946,6 +1166,43 @@ Neumáticos, frenos y software. La garantía es de <strong>2 años en el vehícu
 ## Precio y rivales
 
 Sin PVP oficial publicado en España. Sus rivales son el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> (la versión básica), el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini 2025</a> y los maxi-scooters de 125 cc de gasolina.
+
+## Super Soco y Vmoto: el maxi-scooter eléctrico de la casa
+
+Super Soco es la marca de scooters eléctricos integrada en el grupo **Vmoto**, cuya web oficial —<a href=https://www.vmoto.com>vmoto.com</a>— ya figura entre las fuentes de este análisis. La familia CPx es su propuesta de maxi-scooter urbano, y el **CPx Pro** es su versión de prestaciones completas: donde el CPx básico se conforma con el uso estrictamente urbano, el Pro duplica la fórmula en potencia y batería para convertirse en un equivalente eléctrico real de los scooters de 125 de gasolina, con velocidad de vía rápida y autonomía de jornada completa.
+
+## Técnica: 7 kW, doble batería extraíble y ruedas grandes
+
+| Dato | Super Soco CPx Pro 2025 |
+|---|---|
+| Potencia | 7 kW (9,5 CV) |
+| Velocidad máxima | 115 km/h |
+| Batería | 2 baterías de 60 V, 5,4 kWh en total, extraíbles |
+| Autonomía declarada | 100 km |
+| Tiempo de carga | Unas 7 h en enchufe doméstico |
+| Peso | 143 kg |
+| Ruedas | 16 pulgadas delante y 14 detrás |
+| Carnet | A1 (válido con B con 3 años) |
+
+El salto frente al CPx básico lo cuantifica la FAQ de este post: de **4 a 7 kW**, de 90 a **115 km/h** y doble batería de serie con **5,4 kWh**. Ese conjunto cambia la categoría práctica del scooter: 115 km/h permiten salir a circunvalaciones y vías rápidas cortas con margen, algo vedado a los eléctricos urbanos de 45 o 90 km/h. Las ruedas de **16 pulgadas** delante aportan la estabilidad que el análisis destaca frente a un scooter convencional de rueda pequeña, y el motor en buje trasero libera el chasis para alojar las dos baterías.
+
+## Uso real: el eléctrico para quien no quiere renunciar a la 125
+
+El CPx Pro está pensado para el usuario de maxi-scooter de 125 que da el salto al eléctrico sin aceptar recortes: trayectos urbanos y periurbanos, con autonomía declarada de **100 km** que en uso real será menor, como en todo eléctrico, pero suficiente para varios días de desplazamientos o una jornada completa de reparto urbano. Sus límites también están declarados en el post: con la **segunda batería montada, el hueco bajo el asiento queda muy reducido**, así que el casco integral puede tener que viajar en un baúl trasero. Y la carga, de unas 7 horas, exige enchufe nocturno: las baterías son extraíbles, así que puede hacerse en casa aunque no haya garaje.
+
+## Mantenimiento: neumáticos, frenos y software, con garantía declarada
+
+El mantenimiento que el post original resume en tres palabras —neumáticos, frenos y software— es el propio de un eléctrico sin transmisión por correa de motor central ni aceite de motor que cambiar. La garantía sí está declarada y es un dato de compra importante: **2 años en el vehículo y 3 años en la batería**, con algunos distribuidores hablando de 4 años en baterías del CPx, y conviene confirmar por escrito la cobertura exacta del punto de venta. Lo que no hay son precios públicos de revisiones en España, como reconoce el análisis, y no los inventamos.
+
+## Normativa: A1 o carnet B con tres años, sin etiqueta de coche que valga
+
+El CPx Pro se conduce con el **carnet A1** o con el **carnet B con tres años de antigüedad**, como los scooters de 125 de gasolina con los que compite. Es una motocicleta eléctrica a todos los efectos legales —matriculación, seguro e ITV de motocicleta—, no un vehículo de movilidad personal. El matiz de equipamiento que el comprador debe verificar en el concesionario es el del **ABS**: la FAQ advierte de que depende del mercado, así que la versión europea concreta debe confirmarse antes de firmar, igual que la garantía de batería aplicable.
+
+## Frente al CPx básico y a las 125 de gasolina: veredicto
+
+La comparativa interna manda: el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> básico es suficiente para ciudad pura, y el Pro cobra su sobreprecio en potencia, velocidad y batería. Frente a los maxi-scooters de 125 de gasolina, el CPx Pro gana en coste de energía por kilómetro, suavidad y simplicidad mecánica, y pierde en repostaje instantáneo y en red. Dentro de la propia casa, el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini</a> cubre el extremo urbano y ligero opuesto. Sin PVP oficial publicado en España, la compra exige confirmar precio y condiciones en el distribuidor. Puedes comparar las opciones en el <a href=/comparador-motos/>comparador de motos</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** **Para quién sí:** para el usuario de 125 que quiere el salto eléctrico completo, con prestaciones de vía rápida y carga doméstica con baterías extraíbles. **Para quién no:** para quien necesite guardar un casco integral bajo el asiento a diario o repostar en dos minutos: la gasolina sigue ganando en eso, y el CPx Pro lo compensa en todo lo demás.
 
 ## Preguntas frecuentes
 

@@ -44,6 +44,45 @@ Liux es una startup de la Comunidad Valenciana liderada por Antonio Espinosa de 
 
 El planteamiento es distinto al de un utilitario eléctrico convencional: con 6,7 kWh/100 km de consumo declarado y carga en enchufe doméstico, el BIG apunta al uso urbano e interurbano corto, donde un L7e de 90 km/h y 270 km de autonomía cubre de sobra el día a día. La duda razonable es la de toda startup: convertir 7.500 interesados en clientes con una red comercial y posventa que aún está por construir.
 
+## Qué es exactamente un L7e y por qué importa
+
+El BIG no compite contra el coche urbano tradicional, sino dentro de la categoría europea de cuadriciclos pesados, la L7e. Esa homologación fija sus límites y sus ventajas: velocidad máxima contenida, peso reducido y unos requisitos de seguridad menos exigentes que los de un turismo M1, lo que a cambio permite precios y consumos imposibles para un coche convencional. Sus 648 kg con batería y sus 90 km/h de punta son la traducción directa de esa normativa.
+
+Es el marco legal de los cuadriciclos que ya se venden en España, pero con una ambición de autonomía muy superior a la habitual, donde lo normal es moverse entre 70 y 150 km por carga.
+
+## El permiso: matiz importante para España
+
+La marca subraya que en Europa un L7e puede conducirse desde los 16 años, y conviene aterrizarlo en la normativa española: en España el cuadriciclo pesado exige el permiso B, mientras que el AM cubre los ligeros L6e, limitados a 45 km/h. La vía de los 16 años existe en países como Francia con su permiso B1. Quien en España quiera un vehículo de este tipo para un menor con AM debería mirar a los ligeros, no a este BIG.
+
+A cambio, el L7e sí comparte con el coche las ventajas de circulación plena por vías interurbanas a su velocidad legal, algo vedado a un L6e pensado solo para ciudad.
+
+## Técnica sencilla, materiales distintos
+
+| Elemento | Dato del Liux BIG |
+|---|---|
+| Categoría | Cuadriciclo pesado L7e |
+| Baterías | 15 kWh (unos 215 km WMTC) y 20 kWh (unos 270 km WMTC) |
+| Cargador de a bordo | 3,3 kW, enchufe doméstico |
+| Del 20 al 80 % | Menos de 3 horas |
+| Consumo declarado | 6,7 kWh/100 km |
+| Carrocería | Monocasco de biocompuesto con fibra de lino |
+
+El ciclo WMTC es el específico de motocicletas y cuadriciclos, distinto del WLTP de los coches, así que sus kilómetros no se comparan uno a uno con los de un turismo eléctrico. La apuesta diferencial está en el material: sustituir fibra de vidrio o carbono por lino reduce la huella de fabricación y simplifica el reciclaje, el corazón del discurso de la marca. La carga lenta de 3,3 kW, lejos de ser un defecto, encaja con su uso: se enchufa en casa como un electrodoméstico más y amanece cargado.
+
+## Fabricar en España: Azuqueca, Elche y Novelda
+
+Liux ha repartido su producción por el territorio: ensamblaje en Azuqueca de Henares con una capacidad prevista de 15.000 unidades en 2028, y composites de lino entre Elche y Novelda, comarcas con tradición industrial en materiales y calzado. Para una startup que viene de congelar su primer proyecto, el crossover Animal, el BIG representa la apuesta de supervivencia: menos ambición por unidad, mucho más volumen potencial.
+
+La lista de espera de unos 7.500 interesados es la cifra que la compañía maneja antes del debut parisino. El salto de interesado a cliente con señal pagada es donde estas startups se juegan la existencia, junto con la red de posventa aún por construir.
+
+## Los cuadriciclos que ya puedes comprar hoy
+
+Mientras el BIG llega a los concesionarios en 2027, el mercado español ya ofrece alternativas reales. La referencia de ventas está en la <a href=/coches/citroen-ami-2026-precio-ficha-tecnica/>ficha del Citroën Ami</a>, un ligero L6e mucho más barato y limitado a 45 km/h. El enfoque premium del formato lo representa la <a href=/coches/microlino-2026/>ficha del Microlino</a>, con su puerta frontal de homenaje al Isetta. Frente a ambos, el BIG promete algo que ninguno da: autonomía para salir de la ciudad sin calculadora.
+
+Y como en esta web hasta las noticias tienen su mono escondido, el <a href=/juego-monos/>juego caza-monos</a> también se pasea por los artículos de salones, por si quieres buscarlo mientras decides si la movilidad que viene es esto o un coche de verdad.
+
+**Veredicto:** el BIG es la propuesta de cuadriciclo más ambiciosa presentada en París por alcance y por planteamiento industrial, y merece atención precisamente porque se fabrica aquí. Pero hoy es una promesa con fecha de 2027 y un precio aún por confirmar por debajo de 18.000 €. Si necesitas moverte ya, Ami y Microlino existen; si puedes esperar y tu vida ocurre en un radio de 40 km, el Liux puede ser el primer L7e que no se queda en juguete urbano.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Liux BIG?
@@ -63,7 +102,9 @@ Al ser un cuadriciclo pesado (L7e), en Europa se puede conducir **desde los 16 a
 París 2026 se está convirtiendo en el escaparate del coche eléctrico asequible: además del Liux BIG, allí debutan el <a href=/blog/citroen-2cv-electrico-2026-paris/>2CV eléctrico de Citroën</a> y el <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a>. Si buscas comparar eléctricos que ya están a la venta, entra en nuestro <a href=/comparador-coches/>comparador de coches</a>.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: datos de la compañía recogidos por la prensa especializada citada en el artículo y <a href=https://www.dgt.es>normativa de permisos y categorías de vehículos de la DGT</a>.*`,
 },
 {
   title: "Velca Nude y Eon: made in Spain",

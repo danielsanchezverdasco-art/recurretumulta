@@ -59,6 +59,50 @@ Ficha completa: <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>iCAUR 
 
 <img src=/media/icaur-v27-defender-chino-precio-espana-2027-galeria-2.webp alt=Interior de un todoterreno premium con gran pantalla táctil central y cuero marrón>
 
+## iCAUR, la vía aventurera de Chery
+
+**iCAUR** es la submarca de **Chery** pensada para el todoterreno electrificado: en China se vende como **iCar**, con el V27 a la venta desde marzo de 2026, y para Europa cambia la grafía sin cambiar la idea. Silueta recta, faros redondos, rueda de repuesto en el portón y un lema oficial, «Classic Never Fades», que resume su apuesta por el diseño clásico con tecnología actual. Su web global, <a href=https://www.icaurglobal.com/>icaurglobal.com</a>, ya lo presenta como producto internacional, aunque sin precios cerrados para nuestro mercado.
+
+La estrategia encaja en el grupo: Chery ya vende en España con Omoda y Jaecoo, y con iCAUR busca otro hueco, el del comprador que mira un Defender pero quiere etiqueta **Cero** por mucho menos dinero.
+
+## Cómo funciona su EREV, sin humo
+
+Quien mueve las ruedas es siempre la parte eléctrica. El **1.5 turbo de 143 CV** actúa como generador para recargar la batería en marcha, no como propulsor principal. Así circula a diario como un eléctrico y, en viajes largos, sigue rodando con gasolina sin depender de un cargador rápido.
+
+| Dato | iCAUR V27 |
+|---|---|
+| **Batería** | 34,3 kWh, química LFP |
+| **Potencia 2WD / 4WD** | 248 CV / 449 CV |
+| **Par máximo** | 505 Nm |
+| **Autonomía eléctrica** | 145 km, ciclo WLTP |
+| **Autonomía combinada** | 900 km, ciclo WLTP |
+| **Longitud** | 4.909 mm (5.055 mm con rueda exterior) |
+| **Etiqueta DGT prevista** | Cero |
+
+Conviene leer las cifras con su ciclo al lado: los **145 km WLTP** son la referencia útil aquí, no las cifras más optimistas de otros ciclos.
+
+## Qué significa para España: previsión, no promesa
+
+Todo lo relativo a **2027** es **previsión de prensa especializada, no confirmación oficial**. La llegada a Europa, España incluida, está anunciada para ese año, pero no hay calendario español, gama definitiva ni red asignada. Lo mismo pasa con el dinero: los **54.900 €** son un precio de lanzamiento europeo difundido por la prensa, **pendiente de confirmación oficial para España**, no un PVP cerrado.
+
+Dos incógnitas más condicionan su encaje: le correspondería la etiqueta **Cero** por superar los 40 km eléctricos, pero todavía no hay resultado **Euro NCAP** publicado, así que en seguridad toca esperar a la prueba europea sin dar por hecho ninguna estrella. Todos los datos conocidos están en la <a href=/coches/icaur-v27-erev-2027-precio-ficha-tecnica/>ficha completa del iCAUR V27</a>.
+
+## Uso real esperado
+
+Si se acerca a lo homologado, su uso natural será cargar en casa y moverse a diario sin arrancar el generador, reservando los **900 km combinados** para escapadas largas. A cambio, con casi cinco metros aparcar en el centro será una tarea seria, y un EREV sigue teniendo un motor de gasolina que mantener. Sin pruebas independientes ni propietarios en Europa, afirmar más sobre consumo real o capacidad fuera de pista sería inventar.
+
+Mientras tanto, el rato se pasa rastreando monos escondidos entre nuestras fichas con el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Frente a los rivales que ya puedes comprar
+
+Su contraste más incómodo no es el Defender, sino otro EREV ya a la venta: el <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV</a> ofrece en nuestra ficha **215 CV**, la misma autonomía eléctrica de **145 km** y precio desde **33.800 €**. Es más pequeño y menos todoterreno, pero ya se vende aquí por mucho menos. En híbrido enchufable, el <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> parte de **27.990 €** con **279 CV** y **90 km** eléctricos, aunque mide 4,50 metros y juega en otra liga.
+
+El referente estético sigue siendo distinto: el <a href=/coches/land-rover-defender-110-d350-2025-precio-ficha-tecnica/>Land Rover Defender 110 D350</a> de nuestra ficha es diésel, con **350 CV**, etiqueta ECO y **786 litros** de maletero. El V27 no lo iguala en tradición ni en red, pero lo ataca con etiqueta Cero y un precio anunciado muy inferior.
+
+## ¿Compensa esperar a 2027?
+
+**Veredicto:** sí merece la pena seguirlo si quieres un todoterreno grande, de imagen clásica y uso diario eléctrico, y no necesitas cambiar de coche este año: **449 CV**, tracción total y 900 km combinados no tienen hoy equivalente directo a ese precio anunciado. No compensa si necesitas comprar ya, si sufres parkings estrechos o si te inquieta estrenar marca, con posventa, reventa y Euro NCAP por demostrar. Lo sensato: esperar al precio oficial español y compararlo entonces, con datos cerrados, frente a lo que ya se vende.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el iCAUR V27 en Europa?
@@ -75,7 +119,9 @@ Al ser un EREV con más de 40 km de autonomía eléctrica, le corresponde la eti
 
 ### ¿El iCAUR V27 es el mismo que el iCar V27 de China?
 Sí: **iCAUR** es el nombre de la marca para Europa; en China se vende como **iCar V27** desde marzo de 2026.
-`,
+
+
+*Fuentes: <a href=https://www.icaurglobal.com/>web oficial de iCAUR</a> y prensa especializada citada en el texto.*`,
 },
 {
   title: "BMW F 450 R: naked A2 por 6.799 €",
@@ -127,6 +173,54 @@ Ficha completa: <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>BMW F 450 
 
 <img src=/media/bmw-f-450-r-naked-a2-precio-espana-2026-galeria-2.webp alt=Salpicadero TFT de una moto naked visto desde el puesto del piloto en carretera>
 
+## La familia F de BMW Motorrad: las bicilíndricas de acceso
+
+La letra F identifica en BMW Motorrad a las bicilíndricas de acceso, el escalón histórico de las F 800. La familia F 450 usa una única base de 420 cc para dos motos: la trail <a href=/motos/bmw-f-450-gs-2026-ficha-tecnica-precio/>BMW F 450 GS</a> y esta naked, que según su ficha del sitio es la BMW bicilíndrica más accesible hasta la fecha.
+
+## Profundidad técnica: qué hay detrás de las cifras
+
+El detalle diferencial es el cigüeñal calado a 135 grados, casi único en el segmento, que busca más carácter y sonido, con eje de equilibrado antivibraciones. El 80 % del par está disponible desde 3.000 rpm, según la nota oficial de BMW Motorrad.
+
+| Dato | BMW F 450 R |
+|---|---|
+| Motor | Bicilíndrico en paralelo, 420 cc |
+| Potencia | 48 CV (35 kW) a 8.750 rpm |
+| Par máximo | 43 Nm a 6.750 rpm |
+| Peso en orden de marcha | 175 kg |
+| Consumo declarado | 3,8 l/100 km |
+| Depósito y autonomía | 14 litros, más de 350 km |
+| Precio en España | Desde 6.799 € |
+
+El chasis es multitubular de acero con el motor portante, horquilla KYB de 43 mm y freno Brembo de 310 mm. La electrónica es su argumento más sólido: ABS Pro en curva, DTC, DBC, MSR y tres modos de serie. Más detalle en la <a href=/motos/bmw-f-450-r-2026-ficha-tecnica-precio/>ficha de la BMW F 450 R</a>.
+
+## Uso real: ciudad, curvas y límites honestos
+
+En ciudad juega con ventaja: 175 kg, par desde abajo y, con el Easy Ride Clutch, arrancar y cambiar sin tocar la maneta. En curvas, horquilla invertida, freno Brembo y modo Dynamic apuntan más alto que la media.
+
+Límites honestos: sin protección, en autopista el viento cansa; la Base no incluye el Shift Assistant Pro ni la suspensión Sport; y aún no hay fiabilidad demostrada.
+
+## Mantenimiento y costes de uso
+
+La ficha del sitio recoge revisiones cada 10.000 km, el estándar de BMW Motorrad según la nota oficial: intervalo más corto que el de sus rivales japonesas (12.000 km en sus fichas), y la propia ficha advierte de que la red BMW suele ser más cara. Sin tarifa oficial cerrada, no inventamos cifras: pide el plan por escrito antes de firmar. Entre revisión y revisión, prueba el <a href=/juego-monos/>juego caza-monos</a>.
+
+## Carnet A2: encaje legal sin limitación
+
+El permiso A2, según el Reglamento General de Conductores que aplica la DGT, autoriza hasta 35 kW y una relación potencia/peso máxima de 0,2 kW/kg; en motos limitadas, la original no puede superar los 70 kW. La F 450 R nace con 35 kW exactos y, con 175 kg, está justo en ese límite: sin kit que instalar ni nada que deslimitar al obtener el permiso A.
+
+## Frente a sus rivales y veredicto
+
+Con los datos de las fichas del sitio:
+
+| Modelo | Precio desde | Potencia | Peso |
+|---|---|---|---|
+| BMW F 450 R | 6.799 € | 48 CV | 175 kg |
+| <a href=/motos/honda-cb500-hornet-2025-ficha-tecnica-precio/>Honda CB500 Hornet</a> | 6.850 € | 47 CV | 188 kg |
+| <a href=/motos/kawasaki-z500-2025-ficha-tecnica-precio/>Kawasaki Z500</a> | 6.350 € | 45,4 CV | 168 kg |
+
+La Hornet cuesta casi lo mismo, pesa 13 kg más y, según su ficha, sin quickshifter ni control de tracción. La Z500 es más barata y ligera, pero con menos potencia. La BMW gana en electrónica.
+
+**Veredicto:** merece la pena si estrenas el A2 y quieres la naked más completa en seguridad y tecnología dentro del límite legal. No es para ti si manda el precio mínimo —ahí gana la Z500—, si haces mucha autopista o si planeas saltar pronto a más potencia: ya nace en su techo.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta la BMW F 450 R en España?
@@ -143,7 +237,8 @@ Un embrague centrífugo que permite **arrancar, parar y cambiar sin accionar la 
 
 ### ¿La BMW F 450 R vale para el carnet A2?
 Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limitación.
-`,
+
+*Fuentes: BMW Motorrad (nota de prensa oficial): <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>press.bmwgroup.com</a>; fichas del comparador de motos de RecurreTuMulta.online (BMW F 450 R, Honda CB500 Hornet y Kawasaki Z500); Reglamento General de Conductores (permiso A2, DGT).*`,
 },
 {
   title: "Monster 2026: 111 CV, 12.990 €",
@@ -244,6 +339,32 @@ El monovolumen murió en Europa devorado por los SUV —el propio Espace VI de 2
 
 Más estrenos de París: <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de todos los eléctricos del Salón de París 2026</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
+## 1984: el año en que Renault inventó el monovolumen europeo
+
+Para entender el E-Space Concept hay que volver al **Espace original de 1984**, desarrollado junto a **Matra**. Aquella propuesta —un solo volumen, siete asientos individuales desmontables y giratorios, y un interior que podía convertirse en un salón rodante— creó un segmento que no existía en Europa. La historia está documentada en la propia retrospectiva oficial de Renault Group sobre sus coches familiares, donde el Espace de 1984 figura como el nacimiento del concepto de monovolumen. El nombre elegido lo decía todo: espacio. Y el eslogan que lo acompañó, **«voitures à vivre»** (coches para vivir), es exactamente el que el concept de 2026 recupera cuarenta y dos años después.
+
+## Qué propone el concept: electricidad al servicio del interior
+
+El E-Space Concept mide **4,7 metros** y es **100 % eléctrico**. La clave técnica de un familiar eléctrico no es la potencia —Renault no ha comunicado cifras—, sino la arquitectura: un suelo plano, sin túnel de transmisión ni depósito, permite distribuir las plazas como en el original, sin que la última fila sea un castigo. El post original recoge **7 plazas** como dato aún por confirmar a la espera de la presentación del 12 de octubre, y esa cautela es la correcta: en un concept, hasta que la marca no abre las puertas en el salón, casi todo es intención. Los guiños al de 1984 —carrocería roja, bajos grises, pilar D característico— no son nostalgia gratuita: son la manera de Renault de decir que el formato monovolumen, y no el SUV, es su respuesta familiar.
+
+## Uso real: por qué el monovolumen vuelve a tener sentido
+
+El monovolumen murió porque el SUV ofrecía imagen; pero en uso familiar puro, el monovolumen gana: suelo bajo para que los niños suban solos, puertas y accesos pensados para sillas infantiles, y volumen útil por metro de longitud muy superior. Un eléctrico de 4,7 m con esa filosofía cubriría el hueco entre el Scénic actual y los grandes SUV de 7 plazas, que son más altos, más pesados y, por tanto, menos eficientes. La limitación honesta también es clara: es un **concept sin fecha de producción**, y el propio análisis de este sitio apunta a que anticipa más la evolución de los familiares eléctricos de Renault —con la futura generación del Scénic en el horizonte— que un modelo tal cual saldrá a la venta.
+
+## Mantenimiento y costes: todavía no aplica
+
+No hay mantenimiento que analizar en un coche que no se vende: no hay intervalos, ni garantía comercial, ni precio de baterías. Lo que sí puede decirse, en términos generales, es que un familiar eléctrico de producción heredaría las ventajas conocidas del eléctrico —menos piezas móviles, frenos que duran más por la frenada regenerativa— y su principal coste a largo plazo sería, como en todos, la batería. Cualquier cifra concreta hoy sería inventada, y aquí no se inventan cifras.
+
+## Normativa: lo que un Espace eléctrico de producción tendría en España
+
+Si el concept derivara en un modelo de serie eléctrico, en España llevaría **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones de las grandes ciudades. Como concept de salón, no está homologado ni lo necesita: los prototipos de exhibición no circulan por vía pública. El marco que sí le afecta es el de los salones: su estreno está fijado para el **12 de octubre a las 8:30 h** en el pabellón 6 del Salón de París, según la información del propio post.
+
+## El contexto: E-Space frente al ID. Buzz y al Espace SUV actual
+
+El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a> y, de paso, buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.
+
 ## Preguntas frecuentes
 
 ### ¿Qué es el Renault E-Space Concept?
@@ -254,7 +375,8 @@ El estreno mundial es el **12 de octubre de 2026 a las 8:30h** en el Salón del 
 
 ### ¿El Renault E-Space llegará a producción?
 Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctricos de Renault, más que un modelo concreto a la venta.
-`,
+
+*Fuentes: <a href=https://www.renaultgroup.com/en/>Renault Group (web oficial)</a>, <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>Noticias del Motor</a> (nota de prensa de Renault reproducida en el post original).*`,
 },
 {
   title: "Kia PV5: la furgoneta eléctrica",
@@ -301,6 +423,40 @@ El segmento profesional en España lo dominan las Berlingo y e-Partner de Stella
 
 <a href=/comparador-coches/>Comparador de coches</a> · Etiqueta Cero: entra en todas las ZBE sin restricciones.
 
+## PBV: la apuesta de Kia por construir furgonetas como plataformas
+
+La PV5 no es una furgoneta más en la gama de Kia: es el primer modelo de su estrategia **PBV (Platform Beyond Vehicle)**, con la que la marca coreana entra de lleno en el vehículo comercial eléctrico. La gama eléctrica y la filosofía de la casa pueden consultarse en la <a href=https://www.kia.com/>web oficial de Kia</a>. La idea PBV es que una misma base —la plataforma **E-GMP.S**— sirva para reparto, pasajeros, taxi o camper cambiando la carrocería y el interior, igual que un chasis industrial de toda la vida pero nacido eléctrico. Su presentación española en el Salón del Automóvil de Canarias, recogida en el post original, confirma que España está en el mapa de lanzamiento.
+
+## La técnica que importa a una flota: baterías, carga y europalé
+
+| Dato | PV5 Passenger | PV5 Cargo |
+|---|---|---|
+| Motor | Delantero, 163 CV | Delantero, 163 CV |
+| Batería | 71,2 kWh | 51,5 o 71,2 kWh |
+| Autonomía WLTP | 412 km | 297 km (51,5 kWh) |
+| Carga rápida | 10-80 % en unos 30 min | 10-80 % en unos 30 min |
+| Volumen de carga | 7 plazas | 4,4 metros cúbicos, apta para europalé |
+
+Para un profesional, las cifras decisivas no son los 163 CV: son los **30 minutos de carga rápida** que permiten recuperar la jornada en una pausa, y que la Cargo admita un **europalé**, el estándar real del reparto paletizado. La doble opción de batería tiene también lectura económica: la de 51,5 kWh basta para rutas urbanas fijas y abarata la compra, mientras que la de 71,2 kWh es la de quien hace carretera o dobles turnos.
+
+## Uso real: reparto urbano hoy, camper mañana
+
+La Cargo está pensada para el reparto de última milla y para autónomos que entran a diario en zonas de bajas emisiones, donde su condición eléctrica es una ventaja operativa y no solo ecológica. La Passenger de 7 plazas apunta a lanzaderas, VTC y familias numerosas. Y la arquitectura PBV deja la puerta abierta a las conversiones camper, un uso en el que una base eléctrica con suelo plano tiene mucho que decir. Su limitación inmediata es comercial: el **precio para España aún no está confirmado**, y en el mercado profesional el precio y el coste por kilómetro lo deciden todo.
+
+## Mantenimiento y coste total: lo que una flota sí puede dar por seguro
+
+Kia no ha publicado en este análisis una tabla de costes de mantenimiento de la PV5, y no la inventamos. Lo que sí es estructural en una furgoneta eléctrica frente a una diésel equivalente es la desaparición de aceite de motor, filtro de partículas, embrague y correas, y un desgaste de frenos menor por la frenada regenerativa; a cambio, neumáticos y la gestión de la carga pasan a ser las partidas a vigilar. Para una flota, el cálculo correcto es el de coste total de propiedad —energía, mantenimiento, impuestos y valor residual— y ahí la etiqueta Cero también suma en peajes urbanos y aparcamiento regulado según la ciudad.
+
+## Normativa: etiqueta Cero y carnet B
+
+Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre a las zonas de bajas emisiones y ventajas en muchas ordenanzas municipales. Es además una furgoneta conducible con el **carnet B** en sus versiones de hasta 3.500 kg de masa máxima, el permiso estándar de cualquier repartidor o autónomo, sin necesidad de permisos profesionales adicionales por el mero hecho de ser eléctrica. Para empresas, conviene recordar que las ayudas y bonificaciones a vehículos comerciales eléctricos cambian por comunidad y por convocatoria: hay que verificar las vigentes en el momento de la compra, no darlas por supuestas.
+
+## Frente a Berlingo eléctrica e ID. Buzz Cargo: veredicto
+
+El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+
+**¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
+
 ## Preguntas frecuentes
 
 ### ¿Qué autonomía tiene la Kia PV5?
@@ -314,7 +470,8 @@ Sí: la Cargo ofrece **4,4 m³** de volumen y es apta para **europalé**, con ca
 
 ### ¿Cuándo llega la Kia PV5 a España?
 Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.
-`,
+
+*Fuentes: <a href=https://www.kia.com/>Kia (web oficial)</a>, Motoraldia7 y Motor Actualidad (presentación en Canarias citada en el post original).*`,
 },
 {
   title: "París 2026: todos los eléctricos",
@@ -373,6 +530,41 @@ El **Salón del Automóvil de París** (12-18 de octubre, Paris Expo Porte de Ve
 
 Cobertura relacionada: <a href=/blog/renault-e-space-concept-paris-2026/>Renault E-Space Concept</a> · <a href=/blog/citroen-2cv-electrico-2026-paris/>Citroën 2CV eléctrico</a> · <a href=/blog/xpeng-g9l-debut-paris-2026/>XPeng G9L</a> · <a href=/blog/liux-big-salon-paris-2026/>Liux BIG</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
+## París como termómetro de la electrificación en Europa
+
+Un salón sirve para ver quién llega con un coche vendible y quién solo con un render. En París se juntan las dos Europas del eléctrico. Las europeas defienden su terreno con compactos y urbanos producidos en el continente, como el ID.Polo hecho en Martorell que cita esta guía. Las chinas ocupan pabellón con gamas completas y estrenos mundiales. Y el titular ya no es la autonomía récord, sino el precio de entrada: el 2CV eléctrico por debajo de 15.000 € o el Cupra Raval de 26.000 €.
+
+## Los estrenos, en clave técnica
+
+Sin salir de los datos que ya recoge esta guía, el mapa se lee mejor comparado:
+
+| Estreno | Dato clave del post | Lectura rápida |
+|---|---|---|
+| Citroën 2CV eléctrico | Menos de 15.000 € | El precio marca el segmento urbano |
+| Volkswagen ID.Polo | 35.070 € y 449 km | Compacto europeo hecho en Martorell |
+| Skoda Epiq | 33.100 € y 440 km | Alternativa compacta en la misma franja |
+| Cupra Raval | 26.000 € y 446 km | Precio menor con autonomía de compacto |
+| XPeng G9L | 577 CV y arquitectura de 800 V | Potencia y carga rápida como argumento |
+| DS N°7 | 740 km de autonomía | La autonomía manda en el premium |
+| Lancia Gamma | Hasta 740 km | El regreso de Lancia se apoya en el alcance |
+| Fiat Grizzly | Objetivo de unos 20.000 € | SUV con precio como reclamo principal |
+
+No todos juegan a lo mismo: unos venden precio, otros autonomía y otros, como el G9L, tecnología de carga. Toca comparar modelos del mismo segmento y para el mismo uso.
+
+## Qué significa para el comprador español
+
+Tres consecuencias prácticas. La primera: la oferta compacta crece donde más se vende, con el ID.Polo, el Epiq y el Raval entre los 26.000 € y los 35.070 €, según esta guía. La segunda: habrá alternativas sin subir de segmento si un modelo se retrasa o se encarece. Y la tercera es una advertencia: concept, estreno mundial y coche a la venta no son lo mismo. El Renault E-Space es un concept, y el propio post lo separa de los modelos con precio y autonomía anunciados. Antes de reservar, toca esperar precio final en España y fecha comercial confirmados por la marca.
+
+## Normativa que empuja estos estrenos: CO2 en la UE y ZBE en España
+
+Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO2 exige a los turismos nuevos una reducción del **55 % de emisiones frente a 2021 en el periodo 2030-2034** y del **100 % a partir de 2035**, un calendario que empuja a renovar las gamas hacia el eléctrico puro. En España, el efecto se nota con las **Zonas de Bajas Emisiones**: el acceso depende de la ordenanza de cada ciudad y de la etiqueta de la DGT, y los eléctricos puros corresponden a la etiqueta **Cero**. Un eléctrico de esta lista no solo compite en precio y autonomía, también en libertad de acceso urbano. Comprueba siempre la ordenanza de tu ciudad: dos ZBE vecinas pueden aplicar criterios distintos.
+
+## Cómo seguir cada modelo en su ficha
+
+El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. Y entre ficha y ficha, puedes dedicar un rato al <a href=/juego-monos/>juego caza-monos</a>, donde hay monos ocultos repartidos por distintas páginas.
+
+**Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
+
 ## Preguntas frecuentes
 
 ### ¿Cuándo es el Salón de París 2026?
@@ -386,6 +578,8 @@ El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.00
 
 ### ¿Hay alguna marca española en el Salón de París 2026?
 Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
-`,
+
+
+*Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
 },
 ];

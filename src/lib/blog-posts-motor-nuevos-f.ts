@@ -520,6 +520,48 @@ Un matiz sobre el maletero: km77 publica 599 L (su propia medición), pero la **
 
 Vídeo: <a href=https://www.youtube.com/watch?v=12byL1RB7Ew>pruebatucoche.es</a> en YouTube
 
+## De SsangYong a KGM: el contexto del Torres EVX
+
+El Torres EVX es la versión eléctrica del Torres, el SUV con el que la antigua SsangYong ya había renovado su diseño antes del cambio de nombre. Tras la compra por el grupo KG en 2023, la marca pasó a llamarse KGM y en España compite por equipamiento, espacio y garantía más que por imagen. La sala de prensa oficial de KGM España lo presenta como el modelo con mayor garantía de la historia de la marca, un argumento para familias y uso profesional intensivo.
+
+## Técnica a fondo: batería Blade, carga y medidas
+
+La base combina un motor eléctrico síncrono de imán permanente con una batería LFP de BYD, química que destaca por durabilidad y estabilidad térmica. Todos los datos de la tabla proceden de la ficha del modelo en nuestro sitio y coinciden con la nota oficial de KGM España.
+
+| Dato | KGM Torres EVX |
+|---|---|
+| Potencia | 207 CV (152 kW) |
+| Par máximo | 339 Nm |
+| Batería | 80,6 kWh, LFP Blade de BYD |
+| Autonomía WLTP | 503 km mixto y 664 km urbano |
+| Consumo WLTP | 19,3 kWh/100 km |
+| Carga rápida | 120 kW, del 10 al 80 % en 30 minutos según KGM |
+| 0 a 100 km/h | 8,2 s |
+| Medidas | 4.715 x 1.890 x 1.715 mm |
+| Peso | 1.925 kg |
+| Maletero | 839 L y 1.662 L con asientos abatidos |
+| Tracción | Delantera |
+
+Dentro manda una doble pantalla de 12,3 pulgadas, según la propia marca. Repasa cada cifra directamente en su <a href=/coches/kgm-torres-evx-electrico-precio-ficha-tecnica/>ficha técnica completa del KGM Torres EVX</a>.
+
+## Uso real: autonomía honesta y para quién encaja
+
+Con honestidad: los 503 km son homologación WLTP, no una promesa para autopista en invierno. En la prueba recogida en nuestra ficha, el consumo medio fue de unos 18,7 kWh/100 km y la autonomía real estimada rondó los 350 km. Cargando en casa, ese margen sobra para el día a día familiar; en viajes, cargar del 10 al 80 % en 30 minutos ayuda, aunque 120 kW ya no es la referencia del segmento. Encaja si priorizas espacio y garantía; menos si necesitas tracción total —solo hay tracción delantera— o una red de servicio amplia. Sin enchufes a mano, la marca ofrece el <a href=/coches/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica/>KGM Torres HEV híbrido</a> sobre la misma base.
+
+## Cuánto cuesta mantener el Torres EVX
+
+Un coche eléctrico no necesita aceite, correas ni escape, aunque sí sigue gastando neumáticos y frenos, y exige revisiones periódicas en servicio oficial, necesarias para mantener la garantía. Nuestra ficha recoge una estimación, no una tarifa oficial: unos 200 € al año de mantenimiento, unos 3,5 € de energía cada 100 km cargando en casa a 0,18 €/kWh y seguros orientativos de 450 € a terceros y 800 € ampliado. La cobertura sí es oficial según KGM España: 7 años o 150.000 km de garantía general y 10 años o 1.000.000 km para la batería.
+
+## Normativa: etiqueta CERO, carnet e ITV
+
+Al ser 100 % eléctrico lleva etiqueta CERO de la DGT, con las ventajas para circular por las zonas de bajas emisiones que establezca cada municipio, y se conduce con el carnet B. En ITV no hay calendario especial: primera inspección a los 4 años, después cada 2 años hasta los 10 y anual desde ahí, sin prueba de emisiones al no tener escape. En seguridad, honestidad obliga: el Torres EVX no consta ensayado por Euro NCAP, así que no tiene estrellas que mostrar.
+
+## Así queda ante la competencia: puntos fuertes y flaquezas
+
+La tabla de rivales de este artículo deja el patrón claro: frente a Skoda Elroq 60 y Kia EV3 gana en autonomía WLTP (503 km frente a 428 y 436 km) y arrasa en maletero (839 L frente a 470 y 460 L), a cambio de costar algo más que el Elroq. Su garantía de batería no tiene rival cercano. Pierde en reconocimiento de marca, velocidad de carga y tamaño de red posventa. Contrasta las cifras en el <a href=/comparador-coches/>comparador de coches</a>.
+
+**Veredicto:** ¿Merece la pena? Sí, para familias que cargan en casa, hacen muchos kilómetros y valoran espacio, autonomía WLTP y una garantía de batería excepcional por 32.700 € financiando. No, para quien necesite tracción 4x4, carga ultrarrápida, estrellas Euro NCAP verificadas o una marca asentada. Y prueba el <a href=/juego-monos/>juego caza-monos</a>.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el KGM Torres EVX en España?
@@ -606,6 +648,47 @@ El **Actyon** recupera un nombre histórico de SsangYong para el nuevo KGM: un S
 <iframe src=https://www.youtube.com/embed/LstHxqDh5O4 title="Vídeo: KGM Actyon Hybrid 2026 | El SUV híbrido que seguro no tenías en mente" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=LstHxqDh5O4>caranddriving (México)</a> en YouTube
+
+## De SsangYong a KGM: un nombre con historia
+
+El Actyon no es un nombre nuevo: SsangYong lo usó entre 2005 y 2017 en un SUV que ya anticipaba la silueta coupé hoy de moda. Tras la compra de SsangYong por el grupo KG en 2023 y el cambio de marca a KGM, recuperarlo para su SUV coupé híbrido busca continuidad en el producto y ruptura en la imagen. Su propuesta en España es clara: tamaño de SUV grande a precio de SUV medio. Todos los datos están en la <a href=/coches/kgm-actyon-hibrido-precio-ficha-tecnica/>ficha técnica completa del KGM Actyon híbrido</a>.
+
+## El híbrido por dentro: así suma los 204 CV
+
+El sistema híbrido, desarrollado por BYD, combina un 1.5 turbo de gasolina de 150 CV con un motor eléctrico de 177 CV para **204 CV** conjuntos. La batería, de **1,84 kWh**, es la propia de un híbrido autorrecargable: no se enchufa y se recarga con la frenada y el motor térmico. La tracción es delantera.
+
+| Dato (ficha del sitio) | KGM Actyon HEV |
+|---|---|
+| Potencia conjunta | 204 CV |
+| Par máximo | 220 Nm |
+| 0-100 km/h | 8,2 s |
+| Velocidad máxima | 175 km/h |
+| Consumo WLTP | 5,9 l/100 km |
+| Emisiones CO₂ | 133 g/km |
+| Medidas (largo × ancho × alto) | 4.740 × 1.910 × 1.680 mm |
+| Peso | 1.735 kg |
+| Maletero | 668 L |
+| Etiqueta DGT | ECO |
+
+Un 0-100 en 8,2 s no lo hace deportivo, pero sí desahogado cargado. El límite honesto es el peso: 1.735 kg se notan en apoyos largos y frenadas repetidas.
+
+## En marcha: lo que convence y lo que se queda corto
+
+Encaja si haces mucha ciudad y extrarradio, quieres la **etiqueta ECO** sin enchufe y valoras el maletero: sus 668 L superan a los de un Toyota RAV4 o un Nissan Qashqai. No encaja si necesitas tracción total, buscas un enchufable con etiqueta CERO o no tienes un concesionario KGM cerca: la red española es todavía pequeña. En la propia casa puedes compararlo con el <a href=/coches/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica/>KGM Torres HEV</a>, más familiar, o con el <a href=/coches/kgm-actyon-gasolina-2025-precio-ficha-tecnica/>Actyon de gasolina</a>, más barato pero con etiqueta C.
+
+## Mantenimiento y costes de uso, sin humo
+
+La ficha del sitio estima unos **350 € al año de mantenimiento**, un seguro a terceros en torno a 450 € anuales y unos 10,9 € de combustible cada 100 km con el consumo WLTP declarado. Son **cifras estimadas de la ficha, no tarifas oficiales cerradas**. El gasto corriente previsible es el de un gasolina eficiente: revisiones según el plan de la marca y frenos con desgaste contenido gracias a la frenada regenerativa. Dato verificable en la ficha: la **batería queda cubierta durante 160.000 km u 8 años, con un mínimo del 70 % de capacidad garantizado**, cobertura que reduce el principal recelo ante una marca en reconstrucción.
+
+## Normativa: etiqueta ECO, ITV y seguridad
+
+Como híbrido no enchufable, el Actyon luce la **etiqueta ECO de la DGT**, que le abre más puertas que a un modelo C dentro de las zonas de bajas emisiones, aunque menos que un CERO; el alcance exacto de esos beneficios lo fija cada municipio. Como todo turismo nuevo en España, pasará su **primera ITV a los cuatro años**, después cada dos hasta cumplir diez y anualmente desde entonces. En seguridad, la ficha no recoge puntuación Euro NCAP específica para esta versión híbrida, así que no le atribuimos estrellas que no consten: verifícalo en la web oficial del organismo antes de firmar.
+
+## Comparativa honesta y veredicto
+
+Frente al Toyota RAV4 Hybrid de 218 CV, el Actyon juega precio — desde 35.300 € financiando frente a unos 40.000 € — y maletero. Frente al <a href=/coches/mg-hs-hybrid-plus-2025-precio-ficha-tecnica/>MG HS Hybrid+</a>, de 225 CV y desde unos 33.000 €, la pelea es más cerrada: el MG es algo más potente y barato; el KGM responde con más maletero y un diseño más distintivo. Y mientras decides, échale un ojo al <a href=/juego-monos/>juego caza-monos</a> de la web.
+
+**Veredicto:** merece la pena si priorizas espacio, etiqueta ECO y precio contenido, aceptando una marca en reconstrucción, sin tracción total ni opción enchufable. No es la compra para quien valore por encima de todo la reventa y la red del RAV4, ni para quien pueda cargar en casa y aproveche un enchufable. Para familias que hacen kilómetros mixtos sin enchufe disponible, es una alternativa real que conviene probar en persona antes de descartarla por desconocida.
 
 ## Preguntas frecuentes
 
@@ -1346,6 +1429,48 @@ El **Kia EV3** es la apuesta coreana para democratizar el coche eléctrico: un S
 
 Vídeo: <a href=https://www.youtube.com/watch?v=qsoBbH9TBtE>Emilio Vema</a> en YouTube
 
+## El EV3 en su contexto: el eléctrico pensado como coche principal
+
+Kia plantea el EV3 como coche único en formato compacto, no como urbano de compromiso. Con **4,30 m** entra en cualquier garaje, pero aprovecha la **plataforma E-GMP** del grupo Hyundai-Kia, la de modelos mayores como el EV6, aunque aquí trabaja a **400 V** y no a 800 V. A los galardones de diseño de 2024 y 2025 se sumó en 2025 el título de **Coche del Año en el Mundo**. Se vende en España desde **37.020 €**: opción real.
+
+## Profundidad técnica: eficiencia antes que potencia bruta
+
+La versión de acceso busca gastar poco. Su consumo de **14,9 kWh/100 km (WLTP)** lo explica casi todo: con una batería intermedia logra lo que otros necesitan baterías mayores para igualar.
+
+| Dato | Kia EV3 Standard Range |
+|---|---|
+| Potencia | 204 CV |
+| Par | 283 Nm |
+| Batería | 58,3 kWh |
+| Autonomía | 436 km WLTP |
+| Consumo | 14,9 kWh/100 km WLTP |
+| 0-100 km/h | 7,5 s |
+| Velocidad máxima | 170 km/h |
+| Medidas | 4.300 × 1.850 × 1.560 mm |
+| Peso | 1.800 kg |
+| Maletero | 460 L + 25 L de frunk |
+| Tracción | Delantera |
+
+Quien necesite más alcance tiene la **Long Range**, con la batería de **81,4 kWh** que la gama del sitio recoge en versiones como el <a href=/coches/kia-ev3-gt-line-2025-precio-ficha-tecnica/>EV3 GT-line Long Range</a>: el post cifra la Air Long Range en **605 km WLTP**. Matiz honesto: es homologación **WLTP**, varía según acabado y llanta, y no debe compararse con otros ciclos como el CLTC chino ni tomarse como autonomía garantizada en autopista.
+
+## En el día a día: aciertos y límites del EV3
+
+En el día a día encaja muy bien: tamaño contenido, **204 CV** con respuesta inmediata y un maletero que pocos compactos igualan. Con **436 km WLTP**, la versión pequeña cubre la semana típica sin vivir pendiente del enchufe. Limitaciones claras: **plazas traseras justas para adultos altos** y maletero por debajo del de un EV6. En viaje largo, la autonomía real será menor que la WLTP, como recuerda Kia, que señala velocidad, temperatura y relieve como factores.
+
+## Mantenimiento, garantía y costes de uso
+
+Según la ficha del sitio, el mantenimiento de los eléctricos de Kia en Europa marca revisiones cada **30.000 km o 24 meses**, intervalo amplio que contiene el coste de uso. Hay tareas sencillas para el propietario, como el **filtro de polen**, detrás de la guantera del acompañante. En garantía, Kia respalda el vehículo con **7 años o 150.000 km**, y la batería mantiene su cobertura hasta **160.000 km u 8 años**, conservando al menos el **70 %** de su capacidad, según las condiciones oficiales de la marca. Datos verificables en la <a href=/coches/kia-ev3-electrico-precio-ficha-tecnica/>ficha técnica completa del Kia EV3</a> y en la web oficial.
+
+## Seguridad y normativa: etiqueta Cero y Euro NCAP con matices
+
+Como eléctrico puro luce el **distintivo Cero de la DGT**; para llevarlo basta el **carnet B** y en la ITV sigue el calendario general de los turismos en España. En seguridad, el resultado completo: en **Euro NCAP 2025** obtuvo **cinco estrellas con el paquete DriveWise ADAS y cuatro sin él**. Con ese paquete registró un **83 % en adultos, 84 % en infantil, 78 % en usuarios vulnerables y 78 % en asistencias**. Lección práctica: comprueba qué asistencias lleva el acabado concreto que miras.
+
+## Frente a sus rivales: dónde gana y dónde no
+
+El <a href=/coches/skoda-elroq-electrico-precio-ficha-tecnica/>Skoda Elroq</a> arranca unos 7.000 € por debajo con autonomía parecida, y el <a href=/coches/volvo-ex30-2025-precio-ficha-tecnica/>Volvo EX30</a> ofrece más autonomía base por precio similar. El EV3 responde con el menor consumo del grupo, la Long Range de 605 km WLTP y una garantía larga. Si tu prioridad es el precio, gana el Elroq; si es gastar poco a diario y estirar la autonomía al viajar, el coreano se defiende muy bien. Y mientras decides, entretén la espera con el <a href=/juego-monos/>juego caza-monos</a> repasando acabados y precios con calma.
+
+**Veredicto:** ¿merece la pena? **Sí, para quien busca un eléctrico familiar compacto eficiente, con buena autonomía y garantía sólida, y puede pagar sus 37.020 €.** No, para quien priorice el precio más bajo —ahí aprietan el Elroq y los chinos— ni para quien necesite plazas traseras amplias en cada viaje. Como coche principal de una familia pequeña que carga en casa, es de lo más equilibrado del segmento.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Kia EV3 en España?
@@ -1365,7 +1490,7 @@ El Elroq es 7.000 € más barato; el EV3 gasta menos, tiene versión de 605 km 
 
 Eficiente pero con 204 CV bajo el pie: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-Fuente oficial: <a href=https://www.kia.com/es>web oficial de Kia</a>.`
+Fuente oficial: <a href=https://www.kia.com/es>web oficial de Kia</a> y <a href=https://euroncap.blob.core.windows.net/media/87671/euroncap-kia-ev3-kia-ev3-datasheet.pdf>resultados Euro NCAP del Kia EV3 (2025)</a>.`
   },
   {
     title: "Hyundai Inster: 327 km",
