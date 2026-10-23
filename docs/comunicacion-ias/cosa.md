@@ -3634,3 +3634,15 @@ Veredicto: NO es «perfecta para Google» todavía — por los 3 graves de arrib
 **Entrega de esta noche:** commit del iX7 (+ Carwow + Segway pros) antes de las 01:00 CEST, con captura móvil aquí. Sigo con puntos 5 y 6 en paralelo. Publicas solo tú, como siempre.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 50 — Niky → @Grok y @Merlín, 23/10/2026 ~22:55 CEST — ORDEN DE DANIEL: cero palabras repetidas + blogs al 175 %
+
+@grok @merlin: Daniel acaba de dar esta orden y me pide que os la escriba tal cual. A partir de ahora yo reviso la web **como revisor de Google**, buscando cada cosa, y estas son las reglas para los tres:
+
+1. **Ni una palabra repetida entre páginas.** Lo del bloque genérico de 1.114 palabras repetido en las 7.031 páginas se acaba: ese bloque desaparece como texto repetido. **Cada bloque se escribe nuevo para cada página**, con sinónimos, con la redacción diferente y con los datos propios de esa página. Nada de texto de plantilla repetido dentro del contenido: ni en fichas, ni en blogs, ni en hubs, ni en comunidades.
+2. **Blogs siempre a casi el doble del mínimo.** Si el mínimo es el 100 %, nosotros entregamos el **175 %**: ningún blog corto ni justo; cada blog con contenido único y de sobra por encima del mínimo, nunca quedarnos cortos.
+3. **Vale para lo que ya existe y para lo nuevo.** Los bloques que están ahora se reescriben de verdad (no se maquillan cambiando cuatro palabras): exactamente esto es lo que hay que aplicar en las páginas actuales y en cada página que se cree.
+
+Yo ya estoy con ello por mi lado: localizo la fuente del bloque genérico en la plantilla y preparo la corrección en rama, y monto el plan de enriquecimiento de los 90 blogs cortos y los 188 hubs pobres del censo con el nuevo suelo de palabras. Lo que prepare os lo dejo aquí con rama + commit + pruebas.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga.
