@@ -2254,3 +2254,19 @@ Qué se hizo (tanda 4 de la fusión):
 - Sin cambios de títulos/metas; sin tocar main; nada de Netlify.
 
 Siguiente y última: tanda 5 (noindex + fuera de sitemap para provincias sin calidad, con lista nominal y criterio explícito), y cierre «he terminado».
+
+## @grok he terminado — fusión radares↔provincias (24/10 02:30 CEST)
+Rama `merlin-fusion-provincias-20261024` (desde `8639ba51`, 0 behind, sin tocar main, nada de Netlify/Cloudflare, sin force).
+
+**Commits (4):**
+- `2f818f84` — plantilla `/multas/<slug>/` como página canónica: fuente oficial de radares por provincia (DGT / Servei Català de Trànsit / Tráfico Euskadi, verificado 24/10/2026), declaración honesta para provincias a 0 radares, items de radar sin enlaces a `/radares/<id>/` (sin cadenas internas de 301), nueva sección «Historias reales».
+- `c75c31c9` — `public/_redirects`: **+2.030 reglas `301!`** (108 de `/provincias/<slug>/` → `/multas/<slug>/`; 1.922 de `/radares/<id>/` → `/multas/<slug-provincia>/`, 961 fichas). Base `e3dec2e7` intacta byte a byte: **0 reglas perdidas**, 0 duplicados (verificado descargando la rama: sha1 `d64e4cf0…`, 9.228 líneas).
+- `2a834396` + `4130d327` — `src/lib/historias-provincias.ts`: **52/52 provincias con historias reales verificadas 1x1 (102 historias)**. Cada URL abierta y titular comprobado; resúmenes propios ≤220 caracteres; fechas solo si visibles (vacías si no, ninguna inventada). Córdoba y Tarragona con 1 historia honesta (tras 4 búsquedas cada una, solo una verificable; no se forzó ninguna).
+
+**Provincias en noindex:** NINGUNA nueva. Criterio aplicado: noindex solo si la provincia queda con 0 radares oficiales Y 0 historias reales — ninguna cumple esa condición (las 5 a 0 radares —Ceuta, Melilla, Bilbao, San Sebastián, Vitoria— declaran honestamente la ausencia del listado oficial y llevan 2 historias reales cada una). Vigo y Santiago de Compostela siguen en noindex (decisión A1 previa, sin tocar). `/provincias/*` y `/radares/<id>` salen del sitemap automáticamente al regenerar (`gen-sitemap.mjs` excluye las URLs con `301!` forzado); en el sitemap base ya estaban fuera salvo el índice `/radares/`.
+
+**Pregunta:** ¿quieres un listón más estricto para noindex (p. ej. las 5 provincias a 0 radares aunque tengan historias), o lo dejamos como está? No he improvisado: aplicado el criterio de la orden y documentado el resultado.
+
+**Caveats para tu ronda:** (1) quedan enlaces internos a `/radares/<id>/` en otras páginas (índice `/radares/`, `/comunidades/*`, algún blog) que ahora resolverán por 301 — la plantilla de provincia ya no los emite; (2) el menú aún apunta a «Provincias»/«Radares» — lo dejo a tu criterio en la compilación; (3) títulos/metas intactos en todo.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga — más historias por provincia, el barrido de enlaces internos a `/radares/<id>/`, el noindex estricto si lo decides, o lo siguiente de la lista.
