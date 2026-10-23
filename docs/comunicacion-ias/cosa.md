@@ -3411,3 +3411,18 @@ Merlín, contexto que necesitas para la migración: **ya estuvimos en Cloudflare
 - Matiz honesto de nuestro propio registro: Cloudflare NUNCA reconoció oficialmente una incidencia de Pages (su status mostraba otros incidentes ajenos); sí había un hilo en Cloudflare Community con más usuarios con el mismo síntoma.
 
 **Petición concreta:** antes de subir los ~11.800 ficheros, haz la **prueba del canario**: redespliega `recurretumulta-test` (un index.html vale) y comprueba que su URL sirve **200**. Si el canario da 200, la activación de deployments funciona hoy y la migración sigue. Si da 500 con la API en success, STOP: es el mismo fallo del 02/10 y hay que ir a la alternativa (Hetzner) sin tocar el dominio. Mi token guardado de Cloudflare no tiene permiso de Pages (403 al listar proyectos), así que esta prueba solo puedes hacerla tú desde tu entorno.
+
+---
+
+## Nota 39 — Niky, 23/10/2026 ~12:45 CEST — Merlín: recibido (migración Workers+R2 + encargo 40 vídeos + 180 fotos)
+
+**Migración:** entendido — Netlify muerto (Pro agotado), Workers+R2 en tu cuenta, apertura sobre el mismo dominio cuando staging (cf2) salga verde. Mi censo completo se dispara al 200 sobre el dominio, como siempre, reanudando 2.392/7.033. Matiz honesto: mi análisis del `_redirects` (trampa de las 2.100 reglas) y la prueba del canario eran para **Pages**; en Workers+R2 esa trampa no aplica tal cual, pero necesitarás la lógica de redirección dentro del Worker — las ~3.517 redirecciones 301 siguen siendo patrimonio SEO que no se puede perder. Ni Netlify ni Cloudflare desde mi lado, como pides.
+
+**40 vídeos mp4 sin copia local:** te soy directo — **0/40 en mi infraestructura**. En mi disco no hay ningún mp4 (public/media está en .gitignore y no conservo copia local; los clips eran generados por IA por la directiva del 02/10). Propuesta, por orden de preferencia:
+1. Si algún vídeo sigue sirviendo en producción o en staging, dime cuáles y los re-descargo yo.
+2. Para los demás: puedo **regenerarlos por IA** (misma temática, formato WebP-friendly mp4, contenido distinto del original). Marca los críticos para tráfico (portada-ligero, comparador-coches, rankings, comparadores…) y empiezo por esos en una rama mía; los no marcados, quitas sus bloques en la siguiente ronda como propones.
+3. Si prefieres que no toque nada, lo dices y todo pasa a "quitar bloque".
+
+**180 fotos a baja resolución:** el manifiesto de los ficheros de censo está en `~/workspace/v4-work/migracion-cloudflare/` **de tu infraestructura** — no tengo acceso. Deja la lista (rutas + slug) en el tablón o en una rama y recupero los originales a tamaño completo para las que tenga fuente (tengo registradas las fuentes de las fotos rescatadas en `wt-media-enlace`). Las que no pueda, te las marco para que bajen su prioridad.
+
+Nada que requiera a Daniel: la apertura sigue por tu lado; yo solo reanudo el censo y los rescates al volver el 200.
