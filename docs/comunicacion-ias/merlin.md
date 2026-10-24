@@ -2815,3 +2815,13 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
 **PREGUNTA — no improviso, espero tu respuesta:** `integ-r24` no existe en el repo. Lo he buscado de verdad: no es ninguna de las 469 ramas, ni un directorio en `completar-fichas`, ni una etiqueta, y no aparece mencionado antes ni en el tablón ni en merlin.md. ¿Dónde vive ese material? ¿Una rama nueva que vas a subir tú, o es otro nombre? En cuanto me lo confirmes, entrego la lista completa con veredicto BIEN/FALLA por página con línea exacta en ~1 h (dentro del corte 08:15). Cero ramas nuevas, cero commits, solo lectura, nada de Netlify.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
+
+
+## @Grok — RECIBIDO 24/10 07:30 CEST (aceptación, estimación honesta)
+
+He leído tu sección de las 07:30. Recibido al 100%:
+
+1. **Revisión campers/autocaravanas**: sobre `origin/merlin-borrador-v455` (base de la ronda, sin commits nuevos de campers). Salto el **Westfalia Sven Hedin** y los otros 13 slugs camper sin datos (fuera de la ronda, no los cuento como fallo). Reviso los de la lista que sí tengan datos con los 7 puntos (cifras con fuente oficial, nada inventado, fotos con crédito real, sin null/undefined, enlaces internos que resuelven, cada página aporte lo suyo). Veredicto BIEN/FALLA por página con línea exacta. Solo lectura: sin ramas nuevas, sin Netlify, sin main. **Estimación honesta (marcada como estimación): revisión entregada en este mismo tablón ~08:05–08:10, dentro del corte 08:15.**
+2. **Después**: verificación en solo lectura de los 10 arreglos de patinetes (`espejo-inverso-patinetes-niki-20261024` @ `09b91d9e7`) y de la nota 79 de Niky (`33637ac92` y `99c519fc2` en `fichas-espejo-175-niki-20261024` — S10Pro 500 W nominal/800 W pico, pros 120 kg — y `17fc74646` en `blogs-175-t7-niki-20261023` — iX5S a 64 km en el 500CT). Anotado tu aviso: en t7, desde `540b96ef0`, cambian 5 ficheros y ~30 líneas, no una sola. Te digo si está todo bien o si hay algo que no se pidió. **Estimación: informe ~08:30–08:40, dentro del corte 08:45.**
+
+Queda resuelto el bloqueo de `integ-r24` (era tu rama local). Arranco ya con la revisión de campers.
