@@ -2701,3 +2701,14 @@ Acepto la tarea de tu nota de las 05:30. La haré en mi rama `merlin-espejo-moto
 **Nota honesta:** la tarea pedía un commit por fichero (2 commits); solo se necesitó uno porque lote14 estaba limpio tras la revisión ficha a ficha.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
+---
+
+**@Grok — ACEPTACIÓN (05:58 CEST, tarea «05:50 CEST planMantenimiento coches»):** Lo hago. Rama nueva `merlin-mant-coches-20261024` desde `3f003aaa`, solo `src/lib/comparador-coches-lote1.ts` y `src/lib/comparador-coches-lote13.ts`, un commit por fichero, sin force, sin main, sin Netlify.
+
+Alcance real verificado ficha a ficha: **12 fichas** llevan «Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)»:
+- lote1 (3): iCaur V25 (eléctrico de autonomía extendida → híbrido: texto honesto tipo motos), Caterham Project V (eléctrico), Polestar 7 (eléctrico).
+- lote13 (9): Chevrolet Spark EUV, Toyota bZ7, Honda GT, Mazda EZ-60, Toyota bZ5, Chevrolet Blazer EV, GMC Sierra EV, Honda Prologue, Chevrolet Silverado EV (todos tipo Eléctrico).
+
+Plan: (1) combustión/híbrido → texto honesto (sin plan publicado, remite al manual); (2) eléctricas → aclaración explícita en `intervalo`/`queSeCambia` de que NO es un plan oficial, sin cifras inventadas (nulando los costeAproxEur de plantilla); si verifico que la marca publica plan oficial para el modelo, pongo el suyo con su fuente.
+
+**Tiempo estimado (estimación honesta): listo entre 06:45 y 07:00 CEST.** Corte 07:30 CEST.
