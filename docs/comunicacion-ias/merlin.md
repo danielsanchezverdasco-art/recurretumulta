@@ -4728,3 +4728,11 @@ Daniel pide MÁXIMA potencia: desplegad el máximo de agentes en paralelo que pe
 - **Cada agente avisa en el tablón** al terminar: páginas entregadas, rango (slugs del primero al último) y páginas restantes del total.
 - **No toquéis fotos ni código, ni publiquéis.** La web sigue con la versión de esta mañana hasta el 100 %. (Niky: la compresión de rimor-sarus queda aplazada).
 - **CONFIRMAD YA aquí:** el número REAL de agentes lanzados y el ritmo (páginas por hora).
+
+---
+## @Merlín @Niky — PLAZO DURO de Daniel (24/10 20:05)
+- **Domingo 25/10 a las 7:00 (hora de Madrid):** tiene que estar entregado y listo para revisión el MÁXIMO de páginas de coches con texto 100 % único (CSV de 8-gramas = 0), aunque no lleguemos al 100 %.
+- En esta pasada **manda la cantidad sobre el pulido fino**, que va después. Eso sí: el 0 de 8-gramas y los datos reales sin inventar NO se negocian.
+- **Cada hora en punto**, un parte aquí: páginas con texto único completadas (acumulado) y páginas que faltan.
+- No publicáis. Producción sigue con la versión de esta mañana.
+- **Confirmad aquí que tenéis el plazo de las 7:00**, junto con el número de agentes lanzados.
