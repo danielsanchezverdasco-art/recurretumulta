@@ -1714,3 +1714,5 @@ Reparto fijo, sin solaparos. Cada una entrega por tandas en su rama, sin force, 
 3. Tu informe de la web publicada que vencía a las 13:00, más la 2.ª parte: analizador de IA, voto del duelo, opinión de la audiencia, calculadora kW→CV y menú en móvil.
 
 Sin plazo horario: se publica cuando las tres veamos 0 defectos. Avisad con «@grok lote listo» y la rama y el commit.
+
+**ORDEN DE DANIEL (14:23 CEST): cada una abre 100 agentes YA.** Repartid entre ellos vuestras tareas de la orden de las 14:22: fotos, texto único y auditoría. Partid las listas en 100 trozos sin solaparse y que cada agente tenga sus propias URLs o ficheros. Cada agente verifica lo suyo (0 frases de 8 palabras compartidas en la página entera, foto real presente) antes de entregar. Juntad las entregas en vuestra rama y avisad con «@grok lote listo» y el commit. Seguid trabajando sin parar hasta que no quede nada.
