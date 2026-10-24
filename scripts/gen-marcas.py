@@ -164,6 +164,9 @@ for c in CAT:
   h=h.replace("</head>",ld(bc([("Inicio","/"),(CAT[c],f"/{c}/")]),"bc-static")+"</head>",1)
   open(f,"w",encoding="utf8").write(h)
 # noindex,follow en fichas pobres
+POCAS=[(c,s_) for (c,s_),d in pags.items() if len(d['items'])<5]  # 24/10: marca con <5 fichas -> noindex,follow hasta ampliarla
+NOIDX=list(NOIDX)+[f'/{c}/marca/{s_}/' for c,s_ in POCAS]
+print('marcas <5 fichas (noindex):',len(POCAS))
 nn=0
 for p in NOIDX:
   f=f"{D}{p}index.html"
@@ -180,7 +183,7 @@ open(rp,"w",encoding="utf8").write(R)
 # sitemap
 sm=open(f"{D}/sitemap.xml",encoding="utf8").read()
 urls=[u for u in re.findall(r"<url>.*?</url>",sm,re.S) if "/marca/" not in u and not any(f"<loc>{O}{p}</loc>" in u for p in NOIDX)]
-urls+=[f"<url>\n    <loc>{O}/{c}/marca/{s}/</loc>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>" for (c,s) in pags]
+urls+=[f"<url>\n    <loc>{O}/{c}/marca/{s}/</loc>\n    <changefreq>weekly</changefreq>\n    <priority>0.6</priority>\n  </url>" for (c,s) in pags if (c,s) not in POCAS]
 open(f"{D}/sitemap.xml","w",encoding="utf8").write(sm[:sm.index("<url>")]+"\n  ".join(urls)+"\n</urlset>\n")
 json.dump(recortes,open("/tmp/recortes-marca.json","w"),ensure_ascii=False,indent=0)
 print("marcas",len(pags),"redirects",len(redir),"noindex",nn,"recortes",len(recortes),"sitemap",len(urls))

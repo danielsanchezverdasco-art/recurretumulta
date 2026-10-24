@@ -38865,7 +38865,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "buick-envista-2025-precio-ficha-tecnica",
     "title": "Buick Envista: SUV coupé de 181 CV por ~20.000 €",
-    "excerpt": "Buick Envista: el SUV coupé de 181 CV, cambio CVT y 0-100 en 7,9 s desde ~20.000 €. El sustituto del B70S en el lote 5.",
+    "excerpt": "Buick Envista: el SUV coupé de 181 CV, cambio CVT y 0-100 en 7,9 s desde ~20.000 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",

@@ -156,7 +156,7 @@ function pagina({ title, description, canonical, jsonLd, contenido }) {
   }
   html = html.replace(
     '<div id="root"></div>',
-    `<div id="root"><!-- gen-radares-html -->${contenido}</div>`
+    `<div id="root"><!-- gen-radares-html -->${contenido}<footer class="text-xs text-gray-500 py-6 text-center"><a href="/privacidad/">Privacidad</a> · <a href="/aviso-legal/">Aviso legal</a> · <a href="/cookies/">Cookies</a></footer></div>`
   );
   return html;
 }
