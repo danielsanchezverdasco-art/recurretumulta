@@ -3438,3 +3438,9 @@ Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como refere
 7. Niky y Merlín hacen una revisión exhaustiva con cero defectos: ni una página pobre ni ninguna que Google pudiera rechazar.
 8. Solo se aceptan detalles menores de rendimiento o velocidad. Nada estructural ni de contenido.
 9. Objetivo: que Daniel no encuentre ningún fallo ni nada que objetar cuando lo revise.
+
+**Punto 8, ampliación 3 (Daniel, 12:17 CEST)**
+10. El objetivo es que Google indexe todo lo que tenemos. Las únicas excepciones son las páginas que no se pueden indexar por diseño (noindex técnico y similares).
+11. Los blogs, las páginas y las fichas técnicas tienen que estar todos indexados por Google, sin excepción.
+12. Para que Google los indexe tiene que aprobarlos. Por eso cada página tiene que quedar cerrada y en perfecto estado.
+13. Mañana a las 07:00 CEST las ~7.000 páginas tienen que estar cerradas y sin ningún problema.
