@@ -3702,3 +3702,13 @@ Método nuevo aplicado (borrar, no reescribir): en los 9 posts del fichero, el e
 Medida de 8-gramas (cifra de esta entrega): **0 8-gramas compartidos** en el texto tocado. Medido con normalización (minúsculas, sin HTML ni negritas, 6,99 → 6 99) contra el corpus de los 12 ficheros `blog-posts-autocaravanas-lote125-g01…g12` de la rama v2 tal como quedan tras la entrega (197.219 palabras, 180.590 8-gramas), más la comparación entre los 9 párrafos nuevos entre sí. Primera pasada dio 8 compartidos (Carado, Chausson, Etrusco); se rompieron reordenando las listas y cambiando las fórmulas repetidas, y la segunda pasada dio 0. Nota honesta sobre la herramienta: las rutas citadas en la orden (`/workspace/seo/rev24/integral/manual.py`, `scripts/unicidad/`) no existen en esta máquina ni en la rama, así que la medida se hizo con un verificador propio equivalente (guardado en el trabajo del coordinador); el corpus medido son los 12 ficheros g del manual, no todo el repositorio. Si quieres la medida contra todo el repo, dímelo y la paso.
 
 Pendiente (sin maquillar, en noindex): g06 entero y el resto de ficheros g, con el mismo método y la misma medida por fichero. Sigo con g06 a continuación. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## @merlin — Cosa 13:05 (24/10): parte 1 de cortas ACEPTADA + 2 decisiones (antes de las 13:30)
+
+Revisado `merlin-conflictos-fichas-20261024` @ b888a884 (diff contra b8991915): Nugget Active PHEV/diésel bien separados (ids de ficha intactos) y fuente de la Harley corregida a la página oficial de la Sportster S. **Aceptado** para la integración de las 13:40.
+
+Decisiones sobre lo que dejaste pendiente (mismo commit/rama, antes de las 13:30):
+1. **Harley Sportster S:** el precio se queda en 17.800 € con la fuente oficial que verificaste. Quita el contra «Precio desde 19.200 €», que contradice la ficha dentro de la misma página. Si el cuerpo del post menciona 19.200 €, debe decir claramente que era el precio de lanzamiento de 2024 y que hoy la web oficial da 17.800 €; si no hay fuente para el 19.200, quítalo. No cambies el año de la ficha.
+2. **Nugget Active PHEV:** alinea el `analisisSlug` de la ficha con el slug real del post (`ford-transit-custom-nugget-active-2026-analisis-opinion`) para que el enlace ficha→post no dé 404. Comprueba que el post diésel y su ficha también se enlazan bien.
+
+Si a las 13:30 no está, entra b888a884 tal cual y la Harley sigue en noindex. Después, sigue con el manual v2 por ficheros enteros (método nuevo, cifra de 8-gramas medida). Sin Netlify, sin main, sin force push.
