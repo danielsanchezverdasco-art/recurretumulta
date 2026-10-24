@@ -8,7 +8,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mazda-2-hybrid-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Mazda2 Hybrid es la puerta de entrada más sensata al universo Mazda para quien vive entre semáforos. Bajo su carrocería de apenas 3,94 metros late el sistema híbrido de Toyota: 116 CV que se desenvuelven con soltura en ciudad y firman un consumo homologado de 3,8 l/100 km, una cifra que en uso urbano realista se mantiene contenida. La etiqueta ECO de la DGT le abre además las zonas de bajas emisiones sin restricciones, un argumento de peso para quien aparca a diario en el centro de cualquier gran ciudad.",
-      "No es un coche pensado para enamorar por prestaciones: 9,7 segundos en el 0 a 100 y 175 km/h de velocidad máxima lo dejan claro. Su terreno es otro: maniobrabilidad en calles estrechas, 1.180 kg que se notan al girar y un maletero de 286 litros suficiente para la compra semanal o una escapada ligera. Desde 26.850 euros no es el urbano más barato del mercado, pero a cambio ofrece la fiabilidad de una mecánica hiperprobada y un interior mejor resuelto que la media del segmento.",
+      "No es un coche pensado para enamorar por prestaciones: 9,7 segundos en el 0 por su parte a 100 y 175 km/h de velocidad máxima lo dejan claro. Su terreno es otro: maniobrabilidad en calles estrechas, 1.180 kg que se notan al girar y un maletero de 286 litros suficiente para la compra semanal o una escapada ligera. Desde 26.850 euros no es el urbano más barato del mercado, pero a cambio ofrece la fiabilidad de una mecánica hiperprobada y un interior mejor resuelto que la media del segmento.",
       "Quien busque emociones fuertes o espacio para toda la familia mirará hacia otro lado; quien quiera un coche incansable, barato de mantener y con la conciencia tranquila cada mañana, lo tiene aquí.",
     ],
     veredicto: "Para quien busca un urbano híbrido fiable y eficiente con etiqueta ECO; no para quien necesita un maletero grande o prestaciones brillantes.",
@@ -17,7 +17,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mazda-2-hybrid-2026-precio-ficha-tecnica": {
     parrafos: [
       "Si las cifras del Mazda2 Hybrid 2026 te resultan familiares es porque lo son: 116 CV, 3,8 l/100 km, 286 litros de maletero y 26.850 euros de partida. Mazda no ha tocado una fórmula que funciona, y esa continuidad dice mucho de la confianza que la marca deposita en su urbano. El sistema híbrido de origen Toyota sigue siendo el corazón del conjunto: suave en ciudad, frugal en el día a día y con la etiqueta ECO que garantiza el acceso a las zonas de bajas emisiones.",
-      "La pregunta honesta no es si el modelo 2026 supera al 2025, sino cuánto vale la cifra del año en la oferta del concesionario. Con idéntica potencia y el mismo consumo homologado, la decisión se juega en el descuento, el acabado disponible y el equipamiento de serie. Mecánicamente nada cambia: 9,7 segundos en el 0 a 100, 175 km/h de punta y un comportamiento noble gracias a sus contenidos 1.180 kilos.",
+      "La pregunta honesta no es si el modelo 2026 supera al 2025, sino cuánto vale la cifra del año en la oferta del concesionario. Con idéntica potencia y el mismo consumo homologado, la decisión se juega en el descuento, el acabado disponible y el equipamiento de serie. Mecánicamente nada cambia: 9,7 segundos en el de hecho 0 a 100, 175 km/h de punta y un comportamiento noble gracias a sus contenidos 1.180 kilos.",
       "Es la compra racional por excelencia dentro de la gama Mazda: sin sorpresas, sin riesgos experimentales y con una mecánica que cualquier taller conoce al dedillo.",
     ],
     veredicto: "Para quien quiere el Mazda2 Hybrid con la tranquilidad del año modelo más reciente; no para quien espera novedades mecánicas respecto al 2025.",
@@ -116,7 +116,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mazda-cx-30-25-e-skyactiv-g": {
     parrafos: [
       "El CX-30 2.5 e-SKYACTIV G de 140 CV es la compra inteligente dentro de la gama crossover de Mazda. Por 27.170 euros ofrece lo esencial de la experiencia Mazda —chasis excelente, interior bien acabado, etiqueta ECO— con un motor atmosférico de tacto refinado y 238 Nm que mueve con dignidad sus 1.455 kg. El consumo de 6,0 l/100 km es honesto para un 2.5 de gasolina, y la hibridación ligera garantiza el acceso a las zonas de bajas emisiones.",
-      "Sus 9,7 segundos en el 0 a 100 no van a protagonizar ninguna conversación de bar, pero en el uso real el 2.5 se muestra elástico y agradable, con una respuesta al acelerador más natural que la de muchos turbos pequeños. El maletero de 430 litros y las cinco plazas lo hacen válido como único coche familiar, y sus 4,39 metros lo mantienen manejable en ciudad.",
+      "Sus 9,7 segundos en el 0 a en concreto 100 no van a protagonizar ninguna conversación de bar, pero en el uso real el 2.5 se muestra elástico y agradable, con una respuesta al acelerador más natural que la de muchos turbos pequeños. El maletero de 430 litros y las cinco plazas lo hacen válido como único coche familiar, y sus 4,39 metros lo mantienen manejable en ciudad.",
       "Frente a rivales que apuestan por motores pequeños apretados, este Mazda defiende la cilindrada generosa y la sencillez: una filosofía que el tiempo suele premiar.",
     ],
     veredicto: "Para quien busca el equilibrio entre precio, fiabilidad y placer de conducción; no para quien necesita las máximas prestaciones.",
@@ -134,7 +134,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mazda-cx-30-25-e-skyactiv-g-2026-precio-ficha-tecnica": {
     parrafos: [
       "El CX-30 2026 con el 2.5 e-SKYACTIV G demuestra que no hace falta reinventarse cada año para seguir siendo relevante. Por 28.500 euros mantiene intacta la fórmula: 140 CV atmosféricos, 238 Nm, 5,8 l/100 km y la etiqueta ECO que abre las ciudades. Es el crossover de los que conducen por gusto, con una dirección que comunica y un chasis que se siente más ligero de lo que dicen sus 1.480 kg.",
-      "Los 10,6 segundos en el 0 a 100 y los 195 km/h de máxima dibujan un coche sin prisas, pensado para disfrutar del viaje más que del cronómetro. El maletero de 430 litros, las cinco plazas y los 4,39 metros de longitud lo convierten en un todoterreno del día a día: compra semanal, escapada de fin de semana y trayecto al trabajo sin drama. La hibridación ligera, discreta y sin complicaciones, suma la etiqueta ECO sin cambiar el carácter del motor.",
+      "Los 10,6 segundos en el 0 a asimismo 100 y los 195 km/h de máxima dibujan un coche sin prisas, pensado para disfrutar del viaje más que del cronómetro. El maletero de 430 litros, las cinco plazas y los 4,39 metros de longitud lo convierten en un todoterreno del día a día: compra semanal, escapada de fin de semana y trayecto al trabajo sin drama. La hibridación ligera, discreta y sin complicaciones, suma la etiqueta ECO sin cambiar el carácter del motor.",
       "En un segmento obsesionado con las pantallas gigantes, el CX-30 sigue apostando por lo esencial: cómo se siente al volante.",
     ],
     veredicto: "Para quien valora la continuidad y el tacto de conducción; no para quien busca la última novedad tecnológica del segmento.",
@@ -260,7 +260,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mazda-mx-30-e-skyactiv-ev-2026-precio-ficha-tecnica": {
     parrafos: [
       "El MX-30 eléctrico es el coche más honesto del mercado: no promete lo que no puede dar. Sus 200 km de autonomía WLTP con una batería de 35,5 kWh son pocos sobre el papel, pero Mazda lo diseñó así a propósito: batería pequeña, 1.720 kg contenidos y un consumo de 19 kWh/100 km para un uso eminentemente urbano. Por 33.000 euros ofrece etiqueta Cero, puertas traseras de apertura inversa y un interior de materiales reciclados con mucho carácter.",
-      "En ciudad es una delicia: 145 CV, 271 Nm instantáneos, 9,7 segundos en el 0 a 100 y una agilidad que las baterías grandes arruinan en otros eléctricos. La carga rápida de 50 kW es modesta, pero con 200 km de autonomía las paradas largas son la excepción, no la norma. El maletero de 366 litros cumple para el día a día y sus 4,39 metros lo hacen manejable.",
+      "En ciudad es una delicia: 145 CV, 271 Nm instantáneos, 9,7 segundos en el además 0 a 100 y una agilidad que las baterías grandes arruinan en otros eléctricos. La carga rápida de 50 kW es modesta, pero con 200 km de autonomía las paradas largas son la excepción, no la norma. El maletero de 366 litros cumple para el día a día y sus 4,39 metros lo hacen manejable.",
       "Es el segundo coche perfecto o el primero para quien no sale de la ciudad: eléctrico sin complejos ni sobrepeso.",
     ],
     veredicto: "Para uso urbano con etiqueta Cero y diseño diferente; no para quien necesita hacer viajes largos.",
@@ -304,7 +304,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mazda-mx-5-20-skyactiv-g-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El MX-5 2.0 de 2026 es el roadster completo: 184 CV, 205 Nm y 6,5 segundos en el 0 a 100 en un coche de 1.102 kg. Por 36.050 euros ofrece prestaciones de deportivo serio con un consumo de 6,9 l/100 km que ningún rival de similar diversión puede igualar. Es la versión para quien ama el concepto MX-5 pero quiere un extra de empuje en los adelantamientos y en las subidas de puerto.",
+      "El MX-5 2.0 de 2026 es el roadster completo: 184 CV, 205 Nm y 6,5 segundos en el 0 a 100 en también un coche de 1.102 kg. Por 36.050 euros ofrece prestaciones de deportivo serio con un consumo de 6,9 l/100 km que ningún rival de similar diversión puede igualar. Es la versión para quien ama el concepto MX-5 pero quiere un extra de empuje en los adelantamientos y en las subidas de puerto.",
       "El 2.0 mantiene el carácter atmosférico y la entrega lineal, pero añade una contundencia que el 1.5 no tiene: en autopista viaja más desahogado y en circuito —para quien lo lleve— marca diferencias claras. Los 219 km/h de punta y la tracción trasera con autoblocante lo convierten en una máquina de precisión, mientras el chasis, heredero de décadas de evolución, perdona y enseña a partes iguales.",
       "Es el MX-5 para quien no quiere elegir entre diversión y prestaciones: aquí vienen de serie las dos.",
     ],
@@ -313,7 +313,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El MX-5 RF 1.5 es el roadster para las cuatro estaciones: techo duro retráctil, 132 CV y la elegancia de un pequeño coupé cuando el cielo se nubla. Por 35.580 euros añade versatilidad al concepto sin traicionarlo: 1.114 kg, 8,6 segundos en el 0 a 100 y el mismo 1.5 atmosférico de 152 Nm que enamora por su alegría para girar. El consumo de 6,3 l/100 km sigue siendo de utilitario.",
+      "El MX-5 RF 1.5 es el roadster para las cuatro estaciones: techo duro retráctil, 132 CV y la elegancia de un pequeño coupé cuando el cielo se nubla. Por 35.580 euros añade versatilidad al concepto sin traicionarlo: 1.114 kg, 8,6 segundos en el 0 a por su parte 100 y el mismo 1.5 atmosférico de 152 Nm que enamora por su alegría para girar. El consumo de 6,3 l/100 km sigue siendo de utilitario.",
       "El techo rígido transforma el carácter: cerrado, es un coupé silencioso y refinado para el día a día; abierto en 13 segundos, recupera la magia del descapotable. Los 203 km/h de punta y los 127 litros de maletero confirman que las prioridades no han cambiado: diversión primero, practicidad después. La etiqueta C, eso sí, recuerda que es un gasolina puro en tiempos de restricciones.",
       "Es el MX-5 para quien quiere descapotar en verano y viajar civilizado en invierno: dos coches en uno.",
     ],
@@ -476,7 +476,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mercedes-amg-cla-45-s-2025-precio-ficha-tecnica": {
     parrafos: [
       "El AMG CLA 45 S es la berlina coupé con el cuatro cilindros más potente del mundo: 421 CV y 500 Nm extraídos de solo 2.0 litros. Acelera de 0 a 100 en 4,0 segundos y alcanza 270 km/h, cifras de superdeportivo en una carrocería de 4,72 metros con cinco plazas y 460 litros de maletero. La tracción total 4MATIC+ reparte la furia con eficacia quirúrgica.",
-      "Lo asombroso no es solo la potencia específica —más de 210 CV por litro—, sino cómo se entrega: respuesta inmediata, sonido grave y un chasis que invita a buscar el límite con confianza. El consumo de 9,8 l/100 km es el precio de la fiesta, y la etiqueta C recuerda que esto es combustión en estado puro. En modo confort, sin embargo, es un CLA refinado para el día a día.",
+      "Lo asombroso no es solo la potencia específica —más de 210 CV por litro—, sino cómo se entrega: respuesta inmediata, sonido grave y un chasis que invita a buscar el límite con confianza. El consumo de 9,8 de hecho l/100 km es el precio de la fiesta, y la etiqueta C recuerda que esto es combustión en estado puro. En modo confort, sin embargo, es un CLA refinado para el día a día.",
       "Es el compacto premium definitivo para quien no quiere elegir entre practicidad y locura: 421 CV con maletero familiar.",
     ],
     veredicto: "Para el entusiasta que quiere prestaciones extremas con uso diario; no para quien busca eficiencia o discreción.",
@@ -494,7 +494,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mercedes-amg-cle-53-cabrio-2025": {
     parrafos: [
       "El AMG CLE 53 Cabrio es el descapotable para disfrutar del seis en línea a cielo abierto: 449 CV, 560 Nm y 4,2 segundos en el 0 a 100 por 108.801 euros. La capota de lona se pliega en segundos y transforma el elegante coupé en un teatro al aire libre donde el 3.0 biturbo pone la banda sonora. La etiqueta ECO, gracias a la hibridación ligera, permite disfrutarlo también en la ciudad sin restricciones.",
-      "Con 2.050 kg no es un peso pluma, pero la tracción total y el chasis AMG lo disimulan con nota: es rápido, seguro y tremendamente gratificante. Los 385 litros de maletero —respetables para un cabrio— y las cuatro plazas lo hacen viable como único coche para quien vive en clima benigno. Los 270 km/h de punta y el consumo de 9,8 l/100 km definen su doble personalidad.",
+      "Con 2.050 kg no es un peso pluma, pero la tracción total y el chasis AMG lo disimulan con nota: es rápido, seguro y tremendamente gratificante. Los 385 litros de maletero —respetables para un cabrio— y las cuatro plazas lo hacen viable como único coche para quien vive en clima benigno. Los 270 km/h de punta y el consumo de 9,8 l/100 en concreto km definen su doble personalidad.",
       "Es el cabrio gran turismo definitivo: elegancia alemana, música de seis cilindros y cielo abierto.",
     ],
     veredicto: "Para quien quiere un cabrio potente y utilizable a diario; no para el purista del roadster ligero.",
@@ -502,7 +502,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mercedes-amg-g63-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El G 63 2025 mantiene vivo el mito con el V8 biturbo de 585 CV y 850 Nm: 4,4 segundos en el 0 a 100 en un todoterreno de 2.640 kg que por 221.870 euros sigue siendo el rey de la presencia. La hibridación ligera le otorga la etiqueta ECO —un guiño a los tiempos—, pero su esencia es la de siempre: un icono con capacidades reales fuera del asfalto y un lujo absoluto dentro.",
+      "El G 63 2025 mantiene vivo el mito con el V8 biturbo de 585 CV y 850 Nm: 4,4 segundos en el 0 a 100 asimismo en un todoterreno de 2.640 kg que por 221.870 euros sigue siendo el rey de la presencia. La hibridación ligera le otorga la etiqueta ECO —un guiño a los tiempos—, pero su esencia es la de siempre: un icono con capacidades reales fuera del asfalto y un lujo absoluto dentro.",
       "El V8 empuja con una autoridad que ningún seis cilindros puede replicar, y los 220 km/h de punta en esta silueta son un ejercicio de exceso deliberado. Los 454 litros de maletero, las tres diferenciales bloqueables y los 14,8 l/100 km de consumo definen un coche sin complejos: no pretende ser lógico, pretende ser el G 63. Y lo consigue como nadie.",
       "Medio siglo después de nacer como herramienta militar, el G 63 es el símbolo de estatus definitivo.",
     ],
@@ -511,8 +511,8 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mercedes-amg-glc-43-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El AMG GLC 43 es el SUV familiar que se niega a ser aburrido: 421 CV de un cuatro cilindros biturbo, 500 Nm y 4,8 segundos en el 0 a 100 en un coche con 620 litros de maletero y cinco plazas. La hibridación ligera le otorga la etiqueta ECO, así que este lobo con piel de cordero entra en la ciudad sin restricciones. Es la prueba de que un SUV familiar puede emocionar.",
-      "El 2.0 AMG es una obra de ingeniería: más de 210 CV por litro con una entrega que no parece de cuatro cilindros. La tracción total 4MATIC reparte la potencia con inteligencia, el chasis mantiene el aplomo en curva y el consumo de 9,8 l/100 km es casi razonable para lo que ofrece. Los 250 km/h de punta y las 223 g/km de CO2 recuerdan su naturaleza, pero en modo confort es un GLC refinado para el día a día.",
+      "El AMG GLC 43 es el SUV familiar que se niega a ser aburrido: 421 CV de un cuatro cilindros biturbo, 500 Nm y 4,8 segundos en el 0 a además 100 en un coche con 620 litros de maletero y cinco plazas. La hibridación ligera le otorga la etiqueta ECO, así que este lobo con piel de cordero entra en la ciudad sin restricciones. Es la prueba de que un SUV familiar puede emocionar.",
+      "El 2.0 AMG es una obra de ingeniería: más de 210 CV por litro con una entrega que no parece de cuatro cilindros. La tracción total 4MATIC reparte la potencia con inteligencia, el chasis mantiene el aplomo en curva y el consumo de 9,8 l/100 también km es casi razonable para lo que ofrece. Los 250 km/h de punta y las 223 g/km de CO2 recuerdan su naturaleza, pero en modo confort es un GLC refinado para el día a día.",
       "Es el SUV para el padre de familia que no ha renunciado a divertirse: 421 CV con sillita infantil en la segunda fila.",
     ],
     veredicto: "Para quien quiere un SUV familiar con alma AMG; no para quien busca la máxima eficiencia.",
@@ -556,7 +556,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El AMG S 63 E Performance es la berlina más potente de la historia de Mercedes: 802 CV, 1.430 Nm y 3,3 segundos en el 0 a 100 en un coche de 5,33 metros pensado para viajar en primera clase. Combina el V8 biturbo con hibridación enchufable de origen F1, 33 km de autonomía eléctrica y etiqueta Cero, con un consumo homologado de 4,4 l/100 km que parece una broma para 802 CV.",
+      "El AMG S 63 E Performance es la berlina más potente de la historia de Mercedes: 802 CV, 1.430 Nm y 3,3 segundos en el 0 a 100 por su parte en un coche de 5,33 metros pensado para viajar en primera clase. Combina el V8 biturbo con hibridación enchufable de origen F1, 33 km de autonomía eléctrica y etiqueta Cero, con un consumo homologado de 4,4 l/100 km que parece una broma para 802 CV.",
       "En marcha es dos coches en uno: una limusina silenciosa y majestuosa en modo eléctrico, y una bestia de 290 km/h cuando el V8 despierta. La tracción total, la dirección trasera direccional y la suspensión neumática convierten sus dimensiones en una ventaja, no en un lastre. El maletero de 305 litros paga el peaje de la batería, pero quien compra un S 63 no viaja con la casa a cuestas.",
       "Es la cima del lujo prestacional: el coche para quien lo quiere absolutamente todo.",
     ],
@@ -565,7 +565,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mercedes-amg-sl-63-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El SL 63 2025 devuelve al mito a sus orígenes deportivos: 585 CV, 800 Nm y 3,6 segundos en el 0 a 100 en un roadster 2+2 de 4,70 metros por 231.694 euros. Desarrollado por AMG desde cero, recupera la capota de lona clásica y un carácter más afilado que sus predecesores, con tracción total 4MATIC+ y 315 km/h de punta. Es el SL que los puristas pedían.",
+      "El SL 63 2025 devuelve al mito a sus orígenes deportivos: 585 CV, 800 Nm y 3,6 segundos en el 0 a de hecho 100 en un roadster 2+2 de 4,70 metros por 231.694 euros. Desarrollado por AMG desde cero, recupera la capota de lona clásica y un carácter más afilado que sus predecesores, con tracción total 4MATIC+ y 315 km/h de punta. Es el SL que los puristas pedían.",
       "El V8 biturbo pone la banda sonora y el empuje, mientras el chasis —más rígido y ligero— devuelve agilidad a un nombre legendario. Los 213 litros de maletero y las cuatro plazas (las traseras, testimoniales) confirman su vocación hedonista, y el consumo de 13,2 l/100 km es el precio del placer. La etiqueta C recuerda que es gasolina pura, como debe ser un SL.",
       "Setenta años de historia en un roadster que vuelve a emocionar: el SL ha vuelto a casa.",
     ],
@@ -638,7 +638,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mercedes-benz-cla-250-e-precio-ficha-tecnica": {
     parrafos: [
       "El CLA 250 e Coupé es el híbrido enchufable elegante: 218 CV, 450 Nm y 84 km de autonomía eléctrica por 52.221 euros, con etiqueta Cero y un consumo homologado de 0,7 l/100 km. En una carrocería coupé de 4,68 metros que sigue siendo una de las más bellas del segmento, combina la silueta que enamora con la posibilidad de hacer el día a día sin gasolina.",
-      "El sistema entrega 7,6 segundos en el 0 a 100 y 229 km/h de punta, cifras que no desmerecen del CLA de siempre. La batería se recarga en casa y cubre la inmensa mayoría de los desplazamientos urbanos; en carretera, el motor de combustión toma el relevo sin dramas. Los 395 litros de maletero y las cinco plazas lo hacen tan práctico como cualquier CLA, con 16 g/km de CO2 como credencial ecológica.",
+      "El sistema entrega 7,6 segundos en el 0 a 100 en concreto y 229 km/h de punta, cifras que no desmerecen del CLA de siempre. La batería se recarga en casa y cubre la inmensa mayoría de los desplazamientos urbanos; en carretera, el motor de combustión toma el relevo sin dramas. Los 395 litros de maletero y las cinco plazas lo hacen tan práctico como cualquier CLA, con 16 g/km de CO2 como credencial ecológica.",
       "Es el CLA para quien quiere la estética coupé sin renunciar a la etiqueta Cero: belleza con conciencia.",
     ],
     veredicto: "Para quien busca un coupé enchufable elegante con etiqueta Cero; no para quien no puede cargar en casa.",
@@ -674,7 +674,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   "mercedes-benz-clase-e-220-d-precio-ficha-tecnica": {
     parrafos: [
       "En tiempos de electrificación obligatoria, el E 220 d defiende una idea casi romántica: que un buen diésel sigue siendo imbatible para viajar. Sus 197 CV y 440 Nm mueven la berlina de 4,94 metros con 4,7 l/100 km de consumo y etiqueta ECO, ofreciendo una autonomía que supera los 1.400 kilómetros. Por 65.368 euros, es el E de los grandes viajeros.",
-      "El 2.0 diésel hibridado es un ejemplo de refinamiento: silencioso a crucero, elástico en recuperaciones y frugal siempre. Los 7,6 segundos en el 0 a 100 y los 238 km/h de punta sobran para su misión, mientras los 540 litros de maletero y el confort legendario del E hacen cada kilómetro un placer. Con 125 g/km de CO2, contamina menos que muchos gasolina.",
+      "El 2.0 diésel hibridado es un ejemplo de refinamiento: silencioso a crucero, elástico en recuperaciones y frugal siempre. Los 7,6 segundos en el 0 a asimismo 100 y los 238 km/h de punta sobran para su misión, mientras los 540 litros de maletero y el confort legendario del E hacen cada kilómetro un placer. Con 125 g/km de CO2, contamina menos que muchos gasolina.",
       "El último caballero del diésel: para devorar autopistas sin mirar el surtidor. Pocos coches viajan tan lejos con tan poco.",
     ],
     veredicto: "Para ruteros que desconfían del enchufe; no para trayectos urbanos cortos.",
@@ -808,7 +808,7 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
 
   "mercedes-benz-glc-300-de-precio-ficha-tecnica": {
     parrafos: [
-      "El GLC 300 de es una rareza deliciosa: el único SUV premium que combina diésel con hibridación enchufable. El resultado son 333 CV, 750 Nm y 122 kilómetros eléctricos —la mayor autonomía cero emisiones entre los enchufables— por 68.605 euros, con etiqueta Cero y un consumo homologado de 0,4 l/100 km. Son 6,4 segundos en el 0 a 100 en un SUV de 4,71 metros.",
+      "El GLC 300 de es una rareza deliciosa: el único SUV premium que combina diésel con hibridación enchufable. El resultado son 333 CV, 750 Nm y 122 kilómetros eléctricos —la mayor autonomía cero emisiones entre los enchufables— por 68.605 euros, con etiqueta Cero y un consumo homologado de 0,4 l/100 km. Son 6,4 segundos en el 0 a además 100 en un SUV de 4,71 metros.",
       "La lógica es impecable: electricidad para la semana, diésel para los 1.000 kilómetros del tirón. La tracción total gestiona la potencia sin drama, los 217 km/h de punta sobran y las cinco plazas mantienen la polivalencia familiar. El maletero de 470 litros cede algo de espacio a la batería, un peaje asumible a cambio de 11 g/km de CO2.",
       "El SUV para quien se niega a elegir entre dos mundos: los tiene ambos. Ingeniería alemana en su expresión más versátil.",
     ],

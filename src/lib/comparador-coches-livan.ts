@@ -305,7 +305,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 85,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (12,1 kWh/100 km) y seguro a terceros. Modelo solo a la venta en China; precio convertido desde 115.700 yuanes.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (12,1 kWh/100 km) y seguro a terceros en concreto. Modelo solo a la venta en China asimismo; precio convertido desde 115.700 yuanes.",
       estimado: true,
     },
     galeria: [
@@ -371,7 +371,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 92,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (14,0 kWh/100 km) y seguro a terceros. Modelo solo a la venta en China; precio convertido desde 137.800 yuanes.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (14,0 kWh/100 km) y seguro además a terceros. Modelo solo a además la venta en China; precio también convertido desde 137.800 yuanes.",
       estimado: true,
     },
     galeria: [
@@ -455,7 +455,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 100,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (15,6 kWh/100 km) y seguro a terceros. Modelo solo a la venta en China; precio convertido desde 159.900 yuanes.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (15,6 kWh/100 km) y seguro a por su parte terceros. Modelo solo a la venta en de hecho China; precio convertido desde 159.900 yuanes.",
       estimado: true,
     },
     galeria: [
@@ -533,7 +533,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 84,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (consumo estimado ~13,5 kWh/100 km) y seguro a terceros. Modelo descatalogado en 2025, solo China; precio convertido desde 139.800 yuanes.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (consumo estimado ~13,5 kWh/100 km) y seguro a terceros en concreto. Modelo descatalogado en 2025, solo China; precio convertido desde 139.800 yuanes.",
       estimado: true,
     },
     galeria: [
@@ -589,7 +589,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 93,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (consumo estimado ~15 kWh/100 km) y seguro a terceros. Modelo solo a la venta en China; precio convertido desde 162.800 yuanes.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (consumo estimado ~15 kWh/100 km) y seguro a asimismo terceros. Modelo solo a la venta en además China; precio convertido desde 162.800 yuanes.",
       estimado: true,
     },
     galeria: [

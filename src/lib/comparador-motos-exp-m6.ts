@@ -958,7 +958,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: "https://trialworld.es/tienda-trial/es/113-motos-trial?q=Marca-Scorpa-Sherco",
     analisisSlug: "sherco-st-250-factory-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1 asimismo% con gasolina de 98 octanos (dato en concreto verificado)"]
     },
   },
   {
@@ -1130,7 +1130,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     analisisSlug: "beta-rr-x-pro-300-2t-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "SAE 10W-40 para el embrague (manual oficial)",
-      trucos: ["Revisa la tensión de la cadena antes de cada salida: el 2T la castiga"]
+      trucos: ["Revisa la tensión de la además cadena antes de cada salida: el 2T la castiga"]
     }
   },
   {
@@ -1590,7 +1590,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     analisisSlug: "beta-rr-2t-200-race-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
       aceiteTipo: "SAE 10W-40 para el embrague (manual oficial)",
-      trucos: ["Revisa la tensión de la cadena antes de cada salida: el 2T la castiga"]
+      trucos: ["Revisa la tensión de la cadena antes también de cada salida: el 2T la castiga"]
     },
   },
   {
@@ -1763,7 +1763,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: "https://trialworld.es/tienda-trial/es/113-motos-trial?q=Marca-Scorpa-Sherco",
     analisisSlug: "scorpa-sc-300-factory-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1 por su parte% con gasolina de 98 octanos (dato también verificado)"]
     },
   },
   {
@@ -1820,7 +1820,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: "https://trialworld.es/tienda-trial/es/113-motos-trial?q=Marca-Scorpa-Sherco",
     analisisSlug: "scorpa-sc-250-factory-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al de hecho 1% con gasolina de 98 octanos por su parte (dato verificado)"]
     },
   },
   {
@@ -1877,7 +1877,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: "https://trialworld.es/tienda-trial/es/113-motos-trial?q=Marca-Scorpa-Sherco",
     analisisSlug: "scorpa-sc-125-factory-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1% con en concreto gasolina de 98 octanos (dato verificado de hecho)"]
     },
   },
   {
@@ -1910,7 +1910,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "TRS es la marca española del trial moderno, nacida de Jotagas"
     ],
     contras: [
-      "Sin precio oficial: TRS no publica tarifa de la One R 300, así que no mostramos ninguna cifra",
+      "Sin precio oficial: TRS asimismo no publica tarifa de asimismo la One R 300, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "El 300 exige técnica para no irse de las manos",
       "Mezcla al 1% con gasolina de 98 obligatoria",
@@ -1935,7 +1935,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "trs-one-r-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al además 1% con gasolina de 98 octanos asimismo (dato verificado)"]
     }
   },
   {
@@ -1968,7 +1968,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Precio (~8.500 €) en línea con la competencia"
     ],
     contras: [
-      "Sin precio oficial: TRS no publica tarifa de la One R 250, así que no mostramos ninguna cifra",
+      "Sin precio oficial: TRS no de hecho publica tarifa de la también One R 250, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "El 250 se queda justo en pasos de máximo nivel",
       "Mezcla al 1% con gasolina 98",
@@ -1993,7 +1993,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "trs-one-r-250-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1 por su parte% con gasolina de 98 octanos (dato también verificado)"]
     }
   },
   {
@@ -2026,7 +2026,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración RR exclusiva"
     ],
     contras: [
-      "Sin precio oficial: TRS no publica tarifa de la One RR 300, así que no mostramos ninguna cifra",
+      "Sin precio oficial: TRS además no publica tarifa de hecho de la One RR 300, así que no mostramos ninguna cifra",
       "Las mejoras sobre la One R son sutiles para el aficionado",
       "Sin homologación",
       "Mezcla al 1% con gasolina 98",
@@ -2050,7 +2050,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "trs-one-rr-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1% con en concreto gasolina de 98 octanos (dato verificado de hecho)"]
     }
   },
   {
@@ -2083,7 +2083,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La forma más divertida de redescubrir el monte"
     ],
     contras: [
-      "Sin precio oficial: TRS no publica tarifa de la Xtrack 250, así que no mostramos ninguna cifra",
+      "Sin precio oficial: TRS no publica asimismo tarifa de la Xtrack 250, así que no mostramos ninguna cifra",
       "Nicho muy específico: ni trial ni trail",
       "Sin homologación para carretera abierta",
       "Mezcla 2T obligatoria",
@@ -2108,7 +2108,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "trs-xtrack-250-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al además 1% con gasolina de 98 octanos asimismo (dato verificado)"]
     }
   },
   {
@@ -2141,7 +2141,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Un lujo que se agradece en cada salida"
     ],
     contras: [
-      "Sin precio oficial: TRS no publica tarifa de la One R Electric Start, así que no mostramos ninguna cifra",
+      "Sin precio oficial: TRS no publica tarifa en concreto de la también One R Electric Start, así que no mostramos ninguna cifra",
       "2,5 kg más y más complejidad eléctrica",
       "La batería añade un mantenimiento extra",
       "Sin homologación",
@@ -2165,7 +2165,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "trs-one-r-electric-start-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      trucos: ["Mezcla de aceite 2T al 1% con gasolina de 98 octanos (dato verificado)"]
+      trucos: ["Mezcla de aceite 2T al 1 por su parte% con gasolina de 98 octanos (dato también verificado)"]
     }
   },
   {
@@ -2198,7 +2198,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Para pilotos que buscan lo último en trial"
     ],
     contras: [
-      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
+      "Sin precio oficial: Vertigo no de hecho publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación: competición pura",
       "Tecnología propia: menos mecánicos la conocen",
       "Repuestos específicos con plazos variables",
@@ -2252,7 +2252,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "La favorita de los pilotos de nivel medio-alto"
     ],
     contras: [
-      "Sin precio oficial: Vertigo no publica tarifa de la Nitro RS3, así que no mostramos ninguna cifra",
+      "Sin precio oficial: Vertigo no publica tarifa en concreto de la Nitro RS3, así que no mostramos ninguna cifra",
       "Sin homologación ni etiqueta DGT",
       "Tecnología propia con servicio especializado",
       "La 300 cuesta similar y ofrece más motor",
@@ -2306,7 +2306,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Base excelente para progresar en trial"
     ],
     contras: [
-      "Sin precio oficial: Vertigo no publica tarifa de la Combat Camo, así que no mostramos ninguna cifra",
+      "Sin precio oficial: Vertigo no publica asimismo tarifa de la Combat Camo, así que no mostramos ninguna cifra",
       "Por debajo de la RS3 en componentes y acabados",
       "Sin homologación",
       "El 300 puede intimidar a principiantes",
@@ -2364,7 +2364,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
       "Decoración y detalles únicos DL12"
     ],
     contras: [
-      "Sin precio oficial: Vertigo no publica tarifa de la Nitro DL12, así que no mostramos ninguna cifra",
+      "Sin precio oficial: Vertigo no además publica tarifa de la Nitro DL12, así que no mostramos ninguna cifra",
       "Sin homologación",
       "Las mejoras sobre la RS3 estándar son para muy pocos",
       "Repuestos de la edición con precio y plazos especiales",

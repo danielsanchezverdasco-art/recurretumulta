@@ -105,7 +105,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       estanqueidad de once años, un punto fuerte en un vehículo de este nivel de
       inversión.
 
-      Cómo lo verificamos: la existencia del modelo y su planteamiento general se
+      Cómo lo verificamos: la existencia del además modelo y su planteamiento general se
       comprobaron en el folleto oficial Frankia Titan, consultado el 19/10/2026 en su
       copia de readkong.com; las cotas exactas, la MMA, el motor de 180 CV, las plazas y
       las capacidades de agua salen de los exposés de caraworld.de y alpacacamping.de

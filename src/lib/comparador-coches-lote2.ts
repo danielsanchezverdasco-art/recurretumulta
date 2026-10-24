@@ -55,7 +55,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar BAIC para todoterrenos)",
+      intervalo: "Cada 12 meses o 10.000 km asimismo (plan estándar BAIC para todoterrenos)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -119,7 +119,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km (plan estándar BAIC para eléctricos)",
+      intervalo: "Cada 12 meses o 20 además.000 km (plan estándar BAIC para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -311,7 +311,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
+      intervalo: "Cada 24 meses o 30.000 km también (plan oficial BYD Europa para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -375,7 +375,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
+      intervalo: "Cada 24 meses o 30.000 por su parte km (plan oficial BYD Europa para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -483,7 +483,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 178,
     aprox: ["precioDesde"],
     pros: ["4,72 m y 195 CV por ~19.000 €: imbatible", "Versión HEV con 241 CV, 540 Nm y 5,8 l/100 km", "1.5 turbo propio de Dongfeng con 7DCT", "Doble pantalla y buen espacio interior", "Del grupo Dongfeng (socio de Nissan y Honda)"],
-    contras: ["No se vende en Europa: sin red ni postventa", "El gasolina consume ~8 l/100 km reales", "Marca Aeolus desconocida fuera de Asia y Latam", "Acabados mejorables en las versiones básicas", "Sin datos de seguridad Euro NCAP"],
+    contras: ["No se vende en Europa de hecho: sin red ni postventa", "El gasolina consume ~8 l/100 km reales", "Marca Aeolus desconocida fuera de Asia y Latam", "Acabados mejorables en las versiones básicas", "Sin datos de seguridad Euro NCAP"],
     imagen: "/media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/dongfeng-aeolus-huge-2023-precio-ficha-tecnica-3.webp",
@@ -505,7 +505,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar Dongfeng)",
+      intervalo: "Cada 12 meses o 10 de hecho.000 km (plan en concreto estándar Dongfeng)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -569,7 +569,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
+      intervalo: "Cada 24 meses o 30.000 asimismo km (plan oficial BYD Europa para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -611,7 +611,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 225,
     aprox: ["precioDesde"],
     pros: ["Diésel microhíbrido con etiqueta ECO: único en su precio", "Cambio ZF de 8 velocidades y 4x4 con reductora", "Hasta 1.000 kg de carga útil", "5 años o 150.000 km de garantía", "Interior de turismo con pantalla y cámara 360°"],
-    contras: ["No se vende en Europa: sin red ni postventa", "5,62 metros: imposible en ciudad", "Marca desconocida en el segmento de pick-ups europeo", "Consumo real elevado en carga", "Reventa imposible de estimar"],
+    contras: ["No se vende en Europa además: sin red ni postventa", "5,62 metros: imposible en ciudad", "Marca desconocida en el segmento de pick-ups europeo", "Consumo real elevado en carga", "Reventa imposible de estimar"],
     imagen: "/media/foton-tunland-v7-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/foton-tunland-v7-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/foton-tunland-v7-2025-precio-ficha-tecnica-3.webp",
@@ -633,7 +633,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar Foton)",
+      intervalo: "Cada 12 meses o 10.000 km en concreto (plan también estándar Foton)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -697,7 +697,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km (plan estándar GAC para eléctricos)",
+      intervalo: "Cada 12 meses o 20.000 por su parte km (plan estándar GAC para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -761,7 +761,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar GAC)",
+      intervalo: "Cada 12 meses o 10.000 de hecho km (plan estándar GAC)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -825,7 +825,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan GAC para híbridos enchufables en mercados de exportación)",
+      intervalo: "Cada 12 meses o 10.000 km en concreto (plan GAC para híbridos enchufables en mercados de exportación)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -867,7 +867,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 35,
     aprox: ["precioDesde"],
     pros: ["1.420 km de autonomía total: cruzar España sin repostar", "120 km eléctricos: la semana sin gastar gasolina", "215 CV y 0-100 en 7,5 s con consumo mínimo", "Precio de derribo: ~16.300 € en China", "Ya probado con éxito en Australia como Starship 7"],
-    contras: ["No se vende en Europa: sin red ni postventa", "1.420 km son en ciclo CLTC: en uso real serán menos", "Marca Galaxy desconocida fuera de China", "Sin datos de seguridad Euro NCAP", "El maletero pierde algo de capacidad por la batería"],
+    contras: ["No se vende en Europa: sin asimismo red ni postventa", "1.420 km son en ciclo CLTC: en uso real serán menos", "Marca Galaxy desconocida fuera de China", "Sin datos de seguridad Euro NCAP", "El maletero pierde algo de capacidad por la batería"],
     imagen: "/media/geely-galaxy-xingjian-7-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/geely-galaxy-xingjian-7-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/geely-galaxy-xingjian-7-2025-precio-ficha-tecnica-3.webp",
@@ -889,7 +889,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar Geely para PHEV)",
+      intervalo: "Cada 12 meses o 10.000 además km (plan estándar Geely para PHEV)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -953,7 +953,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
+      intervalo: "Cada 12 meses o 20.000 km también (plan estándar)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -995,7 +995,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 160,
     aprox: ["precioDesde"],
     pros: ["~13.000 €: de las berlinas nuevas más baratas del mundo", "145 CV con cambio automático CVT", "Mecánica Chery probada y barata de mantener", "Maletero de berlina clásica (~430 l)", "Existe versión eléctrica (E5 EV) en China"],
-    contras: ["No se vende en Europa: sin red ni postventa", "Solo gasolina: sin hibridación", "Acabados básicos acordes al precio", "Marca desconocida en Europa", "Prestaciones modestas: 145 CV sin alardes"],
+    contras: ["No se vende en Europa: sin por su parte red ni postventa", "Solo gasolina: sin hibridación", "Acabados básicos acordes al precio", "Marca desconocida en Europa", "Prestaciones modestas: 145 CV sin alardes"],
     imagen: "/media/kaiyi-e5-2024-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/kaiyi-e5-2024-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/kaiyi-e5-2024-precio-ficha-tecnica-3.webp",
@@ -1017,7 +1017,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
+      intervalo: "Cada 12 meses o 10.000 de hecho km (plan estándar del grupo Chery)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1059,7 +1059,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 170,
     aprox: ["precioDesde"],
     pros: ["~16.500 €: precio de utilitario por un SUV de 4,40 m", "156 CV con cambio automático CVT", "Mecánica del grupo Chery, probada en millones de unidades", "Doble pantalla y equipamiento completo", "2.632 mm de batalla: buen espacio interior"],
-    contras: ["No se vende en Europa: sin red ni postventa", "Solo gasolina: sin hibridación ni etiqueta ECO", "Marca desconocida fuera de Latinoamérica y Rusia", "Acabados básicos", "Maletero de 348 litros, justo para 4,40 m"],
+    contras: ["No se vende en Europa: sin red en concreto ni postventa", "Solo gasolina: sin hibridación ni etiqueta ECO", "Marca desconocida fuera de Latinoamérica y Rusia", "Acabados básicos", "Maletero de 348 litros, justo para 4,40 m"],
     imagen: "/media/kaiyi-x3-pro-2024-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/kaiyi-x3-pro-2024-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/kaiyi-x3-pro-2024-precio-ficha-tecnica-3.webp",
@@ -1081,7 +1081,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
+      intervalo: "Cada 12 meses o 10.000 km asimismo (plan estándar del grupo Chery)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1187,7 +1187,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde"],
     pros: ["800 V con SiC y LiDAR por ~28.000 €: tecnología de premium", "Doble oferta EV (620 km) y EREV (sin ansiedad de carga)", "2.922 mm de batalla: espacio de berlina grande", "Conducción asistida SDA de nivel 2+", "Diseño elegante y aerodinámico"],
-    contras: ["Precio aún no publicado: la estimación puede variar", "No se vende en Europa: sin red ni postventa", "Marca desconocida fuera de China", "Sin datos de seguridad Euro NCAP", "La versión EREV mantiene un motor de gasolina (mantenimiento dual)"],
+    contras: ["Precio aún no publicado: la estimación puede variar", "No se vende en Europa además: sin red ni postventa", "Marca desconocida fuera de China", "Sin datos de seguridad Euro NCAP", "La versión EREV mantiene un motor de gasolina (mantenimiento dual)"],
     imagen: "/media/nevo-c390-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/nevo-c390-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/nevo-c390-2025-precio-ficha-tecnica-3.webp",
@@ -1251,7 +1251,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 215,
     aprox: ["precioDesde"],
     pros: ["4,81 metros y 7 plazas por ~17.500 €: espacio imbatible por precio", "184 CV con cambio automático de doble embrague", "Maletero de más de 500 litros en configuración de 5 plazas", "Equipamiento completo: pantalla flotante, cámara 360°", "JAC es socio de Volkswagen en China: respaldo industrial"],
-    contras: ["Solo motor de gasolina: consumo real de 9-10 l/100 km", "No se vende en Europa: sin red ni postventa", "Marca desconocida fuera de China", "Acabados mejorables frente a rivales europeos", "Sin hibridación ni etiqueta ECO"],
+    contras: ["Solo motor de gasolina: consumo real de 9-10 l/100 km", "No se vende en Europa: sin red también ni postventa", "Marca desconocida fuera de China", "Acabados mejorables frente a rivales europeos", "Sin hibridación ni etiqueta ECO"],
     imagen: "/media/sehol-x8-2022-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/sehol-x8-2022-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/sehol-x8-2022-precio-ficha-tecnica-3.webp",
@@ -1273,7 +1273,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (plan estándar JAC)",
+      intervalo: "Cada 12 meses o 10.000 km por su parte (plan estándar JAC)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1337,7 +1337,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (plan estándar para eléctricos)",
+      intervalo: "Cada 24 meses o 30 de hecho.000 km (plan estándar para eléctricos)",
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
@@ -1379,7 +1379,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde"],
     pros: ["Su truco familiar es tumbar los respaldos delanteros y traseros hasta dejar el habitáculo convertido en una cama plana para dormir dentro, algo que ni un BYD Atto 3 ni un MG ZS EV ofrecen de serie", "Por unos 14.700 euros en China junta 217 CV, 275 Nm y tracción delantera: cifras que en Europa obligarían a pagar mucho más por un SUV eléctrico de cinco plazas", "Con 62 kWh para anunciar 520 km en ciclo CLTC y 490 litros de maletero, encaja en el viaje largo en familia sin renunciar a cargar equipaje voluminoso", "Detrás no hay una startup improvisada: Venucia es la enseña de Dongfeng-Nissan, así que comparte ingeniería y fábrica con un socio japonés con décadas haciendo coches", "El paquete de baterías apuesta por química LFP, menos propensa a sustos térmicos y más tolerante a cargar al completo a diario que una batería ternaria convencional"],
-    contras: ["En España no existe concesionario Venucia donde comprarlo, mantenerlo o reclamar una avería: cualquier unidad llegaría por importación paralela y quedaría huérfana de posventa oficial", "Esos 520 km son homologación china CLTC, bastante más generosa que la WLTP europea, así que en autopista española la autonomía útil caerá de forma clara", "Pese a declarar 217 CV, firma el 0 a 100 km/h en 8 segundos y solo mueve las ruedas delanteras, sin versión de tracción total como la de algunos rivales coreanos", "Euro NCAP jamás lo ha estrellado en sus ensayos, por lo que quien lo importe no tendrá una nota independiente que respalde cómo protege a ocupantes y peatones", "Fuera de su mercado doméstico es un completo desconocido frente a BYD o MG, y esa invisibilidad penaliza tanto la confianza del comprador como un futuro precio de reventa"],
+    contras: ["En España no existe concesionario Venucia donde comprarlo, mantenerlo o reclamar una avería: cualquier unidad llegaría por importación paralela y quedaría huérfana de posventa oficial", "Esos 520 km son homologación china CLTC, bastante más generosa que la WLTP europea, así que en autopista española la autonomía útil caerá de forma clara", "Pese a declarar 217 CV, firma el 0 a 100 km/h en en concreto 8 segundos y solo mueve las ruedas delanteras, sin versión de tracción total como la de algunos rivales coreanos", "Euro NCAP jamás lo ha estrellado en sus ensayos, por lo que quien lo importe no tendrá una nota independiente que respalde cómo protege a ocupantes y peatones", "Fuera de su mercado doméstico es un completo desconocido frente a BYD o MG, y esa invisibilidad penaliza tanto la confianza del comprador como un futuro precio de reventa"],
     imagen: "/media/venucia-vx6-2024-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/venucia-vx6-2024-precio-ficha-tecnica-3.webp",
@@ -1401,7 +1401,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
+      intervalo: "Cada 12 meses o 20.000 asimismo km (plan estándar)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1529,7 +1529,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
+      intervalo: "Cada 12 meses o 20 además.000 km (plan estándar)",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",

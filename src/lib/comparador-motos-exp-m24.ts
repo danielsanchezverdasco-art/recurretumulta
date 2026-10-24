@@ -16,7 +16,7 @@ const M_HONDA = {
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Honda + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Honda de hecho + filtro de aceite + inspección general",
       costeAproxEur: 140,
     },
     {
@@ -33,7 +33,7 @@ const M_YAMAHA = {
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Yamaha + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Yamaha + filtro de en concreto aceite + inspección general",
       costeAproxEur: 140,
     },
     {
@@ -50,7 +50,7 @@ const M_KAWASAKI = {
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Kawasaki + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Kawasaki + filtro asimismo de aceite + inspección general",
       costeAproxEur: 140,
     },
     {
@@ -84,7 +84,7 @@ const M_SUZUKI = {
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Suzuki + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Suzuki además + filtro de aceite + inspección general",
       costeAproxEur: 140,
     },
     {
@@ -101,7 +101,7 @@ const M_KTM_PEQUENA = {
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por KTM + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por KTM + filtro de también aceite + inspección general",
       costeAproxEur: 150,
     },
     {
@@ -118,7 +118,7 @@ const M_KTM_GRANDE = {
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por KTM + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por KTM + filtro por su parte de aceite + inspección general",
       costeAproxEur: 180,
     },
     {
@@ -135,7 +135,7 @@ const M_HUSQVARNA_PEQUENA = {
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Husqvarna + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Husqvarna de hecho + filtro de aceite + inspección general",
       costeAproxEur: 150,
     },
     {
@@ -152,7 +152,7 @@ const M_HUSQVARNA_GRANDE = {
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Husqvarna + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Husqvarna + filtro de en concreto aceite + inspección general",
       costeAproxEur: 180,
     },
     {
@@ -186,7 +186,7 @@ const M_BMW = {
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por BMW + filtro de aceite + inspección general + diagnóstico",
+      queSeCambia: "Aceite sintético recomendado por BMW + filtro asimismo de aceite + inspección general + diagnóstico",
       costeAproxEur: 220,
     },
     {
@@ -203,12 +203,12 @@ const M_DUCATI_V2 = {
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Ducati + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Ducati además + filtro de aceite + inspección general",
       costeAproxEur: 250,
     },
     {
       nombre: "Desmo Service 24.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + control del sistema desmodrómico",
+      queSeCambia: "Lo anterior + filtro de aire + bujías + control también del sistema desmodrómico",
       costeAproxEur: 550,
     },
   ],
@@ -220,12 +220,12 @@ const M_DUCATI_V4 = {
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 24 meses",
-      queSeCambia: "Aceite sintético recomendado por Ducati + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Ducati + filtro por su parte de aceite + inspección general",
       costeAproxEur: 280,
     },
     {
       nombre: "Desmo Service 30.000 km",
-      queSeCambia: "Lo anterior + filtro de aire + bujías + control del sistema desmodrómico",
+      queSeCambia: "Lo anterior + filtro de aire de hecho + bujías + control del sistema desmodrómico",
       costeAproxEur: 600,
     },
   ],
@@ -276,7 +276,7 @@ const M_PIAGGIO = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro en concreto de aire y bujía",
       costeAproxEur: 220,
     },
   ],
@@ -293,7 +293,7 @@ const M_VESPA = {
     },
     {
       nombre: "Revisión 20.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos asimismo, filtro de aire y bujía",
       costeAproxEur: 220,
     },
   ],
@@ -305,7 +305,7 @@ const M_TRIUMPH = {
   revisiones: [
     {
       nombre: "Revisión 16.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Triumph + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Triumph además + filtro de aceite + inspección general",
       costeAproxEur: 200,
     },
     {
@@ -335,16 +335,16 @@ const M_ROYAL_ENFIELD = {
   fuente: "Manual oficial Royal Enfield España",
 };
 const M_PEUGEOT = {
-  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 también meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Peugeot + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Peugeot + filtro por su parte de aceite + inspección general",
       costeAproxEur: 100,
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Lo anterior + correa de transmisión de hecho, rodillos, filtro de aire y bujía por su parte",
       costeAproxEur: 180,
     },
   ],
@@ -352,16 +352,16 @@ const M_PEUGEOT = {
   fuente: "Manual oficial Peugeot Motocycles España",
 };
 const M_KYMCO = {
-  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 en concreto meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
-      queSeCambia: "Aceite sintético recomendado por Kymco + filtro de aceite + inspección general",
+      queSeCambia: "Aceite sintético recomendado por Kymco + filtro asimismo de aceite + inspección general",
       costeAproxEur: 100,
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Lo anterior + correa de transmisión además, rodillos, filtro de aire y bujía asimismo",
       costeAproxEur: 180,
     },
   ],
@@ -369,7 +369,7 @@ const M_KYMCO = {
   fuente: "Manual oficial Kymco España",
 };
 const M_SYM = {
-  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 también meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -378,7 +378,7 @@ const M_SYM = {
     },
     {
       nombre: "Revisión 12.000 km",
-      queSeCambia: "Lo anterior + correa de transmisión, rodillos, filtro de aire y bujía",
+      queSeCambia: "Lo anterior + correa de transmisión, rodillos por su parte, filtro de aire y bujía",
       costeAproxEur: 180,
     },
   ],
@@ -1038,7 +1038,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Sucesora espiritual de la R6: la supersport moderna sin tetracilíndrico",
     ],
     contras: [
-      "119 CV saben a poco si vienes de una 1.000",
+      "119 CV saben a poco si de hecho vienes de una 1.000",
       "Precio cercano a naked de 1.000 cc más potentes",
       "El tricilíndrico exige adaptarse a su entrega si vienes de un tetra",
       "Postura radical: no es una moto para viajar",
@@ -3337,7 +3337,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     ],
     contras: [
       "Asiento a 875 mm: muy alta",
-      "110 CV se quedan cortos frente a rivales de 150 CV",
+      "110 CV se quedan cortos frente a rivales en concreto de 150 CV",
       "El Testastretta vibra en largos enlaces",
       "Precio alto para una trail media-alta",
       "Protección aerodinámica escasa",
@@ -3523,7 +3523,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Sucesora espiritual de la RS 250: ligereza y precisión",
     ],
     contras: [
-      "105 CV saben a poco si vienes de una 1.000",
+      "105 CV saben a poco si vienes asimismo de una 1.000",
       "Postura deportiva para el día a día",
       "Precio de 1.000 japonesa",
       "El bicilíndrico vibra más que un tetra",
@@ -3961,7 +3961,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
       "Acabados británicos de primera: la naked media más elegante",
     ],
     contras: [
-      "81 CV se quedan cortos frente a rivales de 95 CV",
+      "81 CV se quedan cortos frente además a rivales de 95 CV",
       "Suspensiones Showa no regulables",
       "Sin quickshifter de serie",
       "El triple consume más que un bicilíndrico equivalente",

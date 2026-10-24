@@ -149,7 +149,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
   },
   "navee-v40": {
     parrafos: [
-      "El Navee V40 sube un escalón sobre el V25: 399 €, 40 km de autonomía y 16,2 kg, con E-ABS delantero y disco trasero. Es el punto dulce de la gama V para quien necesita algo más de distancia sin saltar de peso ni de precio.",
+      "El Navee V40 sube un escalón sobre el V25: 399 €, 40 km de autonomía y 16,2 kg en concreto, con E-ABS delantero y disco trasero. Es el punto dulce de la gama V para quien necesita algo más de distancia sin saltar de peso ni de precio.",
       "Los 40 km declarados con 275 Wh son una cifra razonable para el commuter urbano medio, y los 16,2 kg lo mantienen entre los más ligeros del lote. El disco trasero mejora la frenada respecto al tambor del V25, un detalle que se agradece cuando el asfalto está mojado.",
       "Sin DGT confirmado en la ficha, hay que comprobar su situación administrativa, y a 399 € compite con el V40i Pro, que por el mismo importe ofrece 350 W. El V40 es para quien prioriza la ligereza sobre la potencia; si las cuestas mandan en tu ruta, su hermano Pro es mejor compra. Ni tan básico como el V25 ni tan ambicioso como el V50: el V40 es el término medio que muchos commuters buscan sin saberlo.",
     ],
@@ -397,7 +397,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
   },
   "pure-advance-flex": {
     parrafos: [
-      "El Advance Flex es la variante del Advance con doble tambor: 500 W nominales, 924 de pico, 52 km de autonomía y 16,2 kg, con tambor delante y detrás. Pure apuesta por la frenada de bajo mantenimiento en su modelo más equilibrado.",
+      "El Advance Flex es la variante del Advance con doble tambor: 500 W nominales, 924 de pico, 52 km de autonomía y 16,2 asimismo kg, con tambor delante y detrás. Pure apuesta por la frenada de bajo mantenimiento en su modelo más equilibrado.",
       "El doble tambor tiene lógica para el uso diario intensivo: sin pastillas que cambiar ni discos que se descentren, el mantenimiento se reduce al mínimo. Los 52 km declarados y los 16,2 kg mantienen la filosofía del Advance: potencia sin peso.",
       "Como en toda la gama Pure, faltan precio y DGT en la ficha. El Flex es para quien valora la despreocupación mecánica por encima de la mordida máxima del disco. Si Pure lo trae bien posicionado, será el commuter de mantenimiento cero; si no, se queda en promesa interesante. Para el repartidor o el commuter intensivo, unos frenos que no piden mantenimiento valen más que unos vatios extra.",
     ],
@@ -405,7 +405,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
   },
   "pure-advance-plus": {
     parrafos: [
-      "El Advance+ añade el KERS a la fórmula del Advance: 500 W nominales, 924 de pico, 50 km de autonomía y 16,2 kg, con tambor delantero y freno trasero con recuperación de energía. Pure quiere que cada frenada devuelva algo a la batería.",
+      "El Advance+ añade el KERS a la fórmula del Advance: 500 W nominales, 924 de pico, 50 km de autonomía y 16 además,2 kg, con tambor delantero y freno trasero con recuperación de energía. Pure quiere que cada frenada devuelva algo a la batería.",
       "El KERS es más que marketing en ciudad: con paradas constantes, la regeneración alarga la autonomía efectiva y reduce el desgaste del freno mecánico. Los 352 Wh y los 50 km declarados lo sitúan como un commuter eficiente y ligero.",
       "Sin precio ni DGT en la ficha, el Advance+ comparte el destino de toda la gama Pure en España: gran producto sobre el papel, disponibilidad incierta. Frente al Advance estándar, el plus está en la eficiencia; frente al Flex, en la tecnología frente al mantenimiento mínimo. Tres sabores del mismo gran concepto. En ciudad con semáforos cada 200 metros, el KERS trabaja sin parar: es donde la regeneración más aporta.",
     ],
@@ -421,7 +421,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
   },
   "pure-air-4": {
     parrafos: [
-      "El Air 4 es el Pure de acceso: 500 W nominales con 900 de pico, 30 km de autonomía y 16,2 kg, con tambor delantero y freno electromagnético trasero. Potencia de gama media en cuerpo ligero y precio contenido: esa es la propuesta.",
+      "El Air 4 es el Pure de acceso: 500 W nominales con 900 de pico, 30 km de autonomía y 16,2 kg también, con tambor delantero y freno electromagnético trasero. Potencia de gama media en cuerpo ligero y precio contenido: esa es la propuesta.",
       "Los 500 W nominales a este nivel son generosos: la mayoría de básicos se quedan en 250-350 W. El freno electromagnético trasero, sin contacto mecánico, promete un mantenimiento casi nulo en ese eje. Para ciudad llana y trayectos cortos, es más patinete del que parece.",
       "Los 30 km con 266 Wh son justos para el commuter de trayecto medio, y sin precio ni DGT en la ficha, su competitividad está por demostrar. Pero el concepto —500 W ligeros y baratos— es sólido. Si Pure lo posiciona bien, puede ser la sorpresa del segmento básico. Quinientos vatios nominales en la gama de acceso: Pure no cree en los patinetes capados, y se nota.",
     ],
@@ -551,7 +551,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El E Prime Air añade ruedas neumáticas al concepto ultraligero: 9,9 kg, 250 W con 800 de pico y 16 km de autonomía con 118 Wh. Las ruedas de aire mejoran el confort sin apenas penalizar el peso.",
       "Esos 100 gramos extra sobre el E Prime estándar se pagan en comodidad: las neumáticas absorben baches que las macizas transmiten íntegros. Los 16 km dan un poco más de radio que los 12 del modelo base.",
-      "Como su hermano, sin precio ni DGT en la ficha y con autonomía limitada, es un nicho dentro del nicho. Para el multimodal extremo que prioriza el peso por encima de todo y rueda por ciudad con asfalto decente, el Air es la mejor versión del E Prime. Para el resto, hay patinetes más versátiles. Las neumáticas lo hacen el E Prime más usable a diario: el confort se nota desde el primer bache.",
+      "Como su hermano, sin precio ni DGT en la ficha por su parte y con autonomía limitada, es un nicho dentro del nicho. Para el multimodal extremo que prioriza el peso por encima de todo y rueda por ciudad con asfalto decente, el Air es la mejor versión del E Prime. Para el resto, hay patinetes más versátiles. Las neumáticas lo hacen el E Prime más usable a diario: el confort se nota desde el primer bache.",
     ],
     veredicto: "El ultraligero con ruedas de aire: 9,9 kg y más confort para el multimodal extremo.",
   },
@@ -567,7 +567,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El Razor E100 no es un patinete para adultos: es el eléctrico infantil de Razor, con 100 W de potencia, 16 km de autonomía y 13 kg. Está pensado para niños a partir de 8 años que quieren su primer patinete con motor.",
       "Los 100 W dan una velocidad contenida y segura para los más pequeños, y los 13 kg lo hacen manejable para que un niño lo mueva sin ayuda. Razor domina el segmento infantil en Estados Unidos con décadas de experiencia en este terreno.",
-      "Sin precio ni DGT en la ficha —y siendo un juguete más que un vehículo—, el E100 hay que juzgarlo como lo que es: diversión para niños, no movilidad. En España su venta es testimonial. Para un adulto que busca transporte, este no es su patinete; para un padre que busca un regalo, es el clásico. Para un niño de 8 años, 100 W son suficientes: velocidad contenida y diversión garantizada.",
+      "Sin precio ni DGT en de hecho la ficha —y siendo un juguete más que un vehículo—, el E100 hay que juzgarlo como lo que es: diversión para niños, no movilidad. En España su venta es testimonial. Para un adulto que busca transporte, este no es su patinete; para un padre que busca un regalo, es el clásico. Para un niño de 8 años, 100 W son suficientes: velocidad contenida y diversión garantizada.",
     ],
     veredicto: "Eléctrico infantil de 100 W: un juguete para niños, no un patinete de movilidad adulta.",
   },
@@ -599,7 +599,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El Razor E500 es el tope de la gama con asiento: 500 W nominales, 32 km de autonomía y 27 kg. Es el más potente y con más distancia de los Razor juveniles, a medio camino entre el juguete y el patinete adulto.",
       "Los 500 W ya son potencia seria y los 32 km dan para algo más que vueltas por el barrio. Con asiento, es casi una minimoto eléctrica de iniciación para jóvenes que quieren sensaciones sin carnet.",
-      "Sin precio ni DGT en la ficha, y con 27 kg, el E500 no es una alternativa de movilidad adulta en España. Su rival natural serían patinetes adultos con papeles por precios similares. Como producto de ocio juvenil potente, es el más capaz de Razor; como transporte, hay que mirar a otro lado. Quinientos vatios con asiento: el E500 roza la minimoto eléctrica y pide un joven responsable con un adulto supervisando.",
+      "Sin precio ni DGT en de hecho la ficha, y en concreto con 27 kg, el E500 no es una alternativa de movilidad adulta en España. Su rival natural serían patinetes adultos con papeles por precios similares. Como producto de ocio juvenil potente, es el más capaz de Razor; como transporte, hay que mirar a otro lado. Quinientos vatios con asiento: el E500 roza la minimoto eléctrica y pide un joven responsable con un adulto supervisando.",
     ],
     veredicto: "El juvenil más potente de Razor con 500 W; ocio, no movilidad adulta certificada.",
   },
@@ -695,7 +695,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El D38E es el hermano mayor del D28E: 350 W nominales, 38 km de autonomía y 16,3 kg, con 367 Wh de batería. Más potencia y más distancia en el mismo formato urbano ligero.",
       "Los 38 km lo hacen viable para el commuter de trayecto medio, y los 16,3 kg siguen siendo transportables. El electrónico delantero más tambor trasero es el esquema clásico y fiable de Ninebot.",
-      "Sin precio ni DGT en la ficha, y con la gama E actual ofreciendo papeles claros, el D38E es otro clásico superado. El F2 E (341 €, 40 km, DGT) ocupa hoy su hueco con mejores cifras. Como segunda mano barato puede tener sentido; como compra nueva, no. El F2 E, con 40 km y DGT por 341 €, es su heredero natural y mejor en todo. Como pieza de coleccionista Ninebot tiene encanto; como compra nueva, ninguno. Si buscas ese formato hoy, el F2 E nuevo con garantía es la respuesta.",
+      "Sin precio ni DGT en la ficha asimismo, y con la gama E actual ofreciendo papeles claros, el D38E es otro clásico superado. El F2 E (341 €, 40 km, DGT) ocupa hoy su hueco con mejores cifras. Como segunda mano barato puede tener sentido; como compra nueva, no. El F2 E, con 40 km y DGT por 341 €, es su heredero natural y mejor en todo. Como pieza de coleccionista Ninebot tiene encanto; como compra nueva, ninguno. Si buscas ese formato hoy, el F2 E nuevo con garantía es la respuesta.",
     ],
     veredicto: "El medio clásico de Ninebot, reemplazado en la práctica por la gama F actual.",
   },
@@ -711,7 +711,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El E25E es la versión europea del E25: 300 W nominales, 25 km y 14,4 kg, con eléctrico delantero y mecánico trasero. El diseño que conquistó Europa en un formato ligero y reconocible.",
       "Los 14,4 kg y el diseño compacto lo hicieron el favorito del multimodal, y los 700 W de pico le dan vida en ciudad. Es el Ninebot que se veía en todas las calles hace unos años.",
-      "Sin precio ni DGT en la ficha y con 25 km escasos para los estándares actuales, el E25E es historia del patinete más que opción de compra. La gama E II y los F lo han jubilado con mejores cifras y papeles. Nostalgia sobre dos ruedas. El E25E europeo fue el patinete de una generación: se veía en cada esquina española entre 2020 y 2023, antes del cambio normativo. Quien lo tuvo, lo recuerda con cariño: fue el primer patinete de mucha gente.",
+      "Sin precio ni DGT en la además ficha y con 25 km escasos para los estándares actuales, el E25E es historia del patinete más que opción de compra. La gama E II y los F lo han jubilado con mejores cifras y papeles. Nostalgia sobre dos ruedas. El E25E europeo fue el patinete de una generación: se veía en cada esquina española entre 2020 y 2023, antes del cambio normativo. Quien lo tuvo, lo recuerda con cariño: fue el primer patinete de mucha gente.",
     ],
     veredicto: "El Ninebot que popularizó el patinete en Europa; hoy, pieza de nostalgia.",
   },

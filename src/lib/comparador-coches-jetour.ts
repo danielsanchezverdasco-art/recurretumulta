@@ -134,7 +134,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Garantía de 5 años o 100.000 km en Argentina",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España: solo asimismo importador independiente",
       "Sin versión híbrida en los mercados de Latinoamérica",
       "Sin prueba Euro NCAP publicada a 18/10/2026",
       "Consumo real alto si se exprime el 1.6 turbo",
@@ -156,7 +156,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 267,
       notas:
-        "15.000 km/año, consumo medio estimado de 8,5 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 8,5 l/100 km a 1 además,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -220,7 +220,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Cambio automático de 8 velocidades",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España: solo importador también independiente",
       "Consumo mixto de 8,4 l/100 km, algo alto",
       "Prestaciones justas con 7 ocupantes y equipaje",
       "Interior con materiales mejorables en las versiones base",
@@ -248,7 +248,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 268,
       notas:
-        "15.000 km/año, consumo mixto de 8,4 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo mixto de 8,4 l/100 km a 1,58 por su parte €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -303,7 +303,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Diseño más moderno que el X70 básico",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España de hecho: solo importador independiente",
       "Diferencias con el X70 Pro confusas para el comprador",
       "Sin versión híbrida enchufable (esa es la Shanhai L7)",
       "Maletero con 7 plazas desplegadas muy justo",
@@ -331,7 +331,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 251,
       notas:
-        "15.000 km/año, consumo de 7,44 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo de 7,44 l/100 km a 1,58 €/l en concreto y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Pantalla de 10,25 pulgadas con HUAWEI HiCar",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España: solo asimismo importador independiente",
       "Gama confusa: convive con el X70 Plus casi idéntico",
       "La versión 2.0T no llega a todos los mercados",
       "Sin datos oficiales de consumo publicados",
@@ -414,7 +414,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 260,
       notas:
-        "15.000 km/año, consumo medio estimado de 8,0 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 8,0 l/100 km a 1 además,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -480,7 +480,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 269,
       notas:
-        "15.000 km/año, consumo WLTP de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo WLTP de 8,1 l/100 km a 1,58 €/l también y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -531,7 +531,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Versiones de 5 y 7 plazas según mercado",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España: solo por su parte importador independiente",
       "Modelo veterano (2019) con actualizaciones menores",
       "Consumo de 8,1 l/100 km",
       "Sin versión híbrida enchufable",
@@ -559,7 +559,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 268,
       notas:
-        "15.000 km/año, consumo de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo de 8,1 l/100 km a 1 de hecho,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -609,7 +609,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       "Interior con pantalla de 15,6 pulgadas y audio Sony",
     ],
     contras: [
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España: solo importador en concreto independiente",
       "Consumo elevado en uso real por peso y aerodinámica",
       "Precio convertido de Sudáfrica, sin precio español",
       "El maletero no es su fuerte frente a SUV familiares",
@@ -637,7 +637,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 314,
       notas:
-        "15.000 km/año, consumo medio estimado de 10,0 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 10,0 l/100 km a 1,58 asimismo €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -900,7 +900,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
     ],
     contras: [
       "De momento solo a la venta en México",
-      "Sin red oficial en España: solo importador independiente",
+      "Sin red oficial en España además: solo importador independiente",
       "Sin autonomía eléctrica WLTP publicada (173 km en NEDC)",
       "Peso y consumos elevados si no se carga a diario",
       "Precio superior al T2 i-DM de tracción delantera",

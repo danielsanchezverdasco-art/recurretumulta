@@ -304,7 +304,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Manillar regulable en altura, cómodo para conductores de hasta 2 m",
     ],
     contras: [
-      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Pro",
+      "Sin precio oficial: Walberg no publica por su parte una tarifa oficial verificable del Egret también Pro",
       "22,5 kg: pesado para subirlo por escaleras a diario",
       "5,5 horas de carga completa",
       "Precio en España no publicado de forma estable",
@@ -370,7 +370,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Desarrollado con Yadea y acabado Egret: homologado en Alemania y Suiza",
     ],
     contras: [
-      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Ey! 1",
+      "Sin precio oficial: Walberg no de hecho publica una tarifa oficial verificable del por su parte Egret Ey! 1",
       "29,8 kg: es un tanque, olvídate de subirlo a pulso",
       "8 horas de carga completa",
       "Freno de tambor + electrónico: sin disco hidráulico como el Pro",
@@ -435,7 +435,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Ideal como primer patinete premium sin irse al Ey! 1",
     ],
     contras: [
-      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Ey! 6",
+      "Sin precio oficial: Walberg no publica una en concreto tarifa oficial verificable del Egret Ey! 6",
       "450 W nominales: menos empuje que el Ey! 1",
       "Peso y batería no publicados por la marca",
       "Precio en España no publicado",
@@ -500,7 +500,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Carga máxima de 150 kg",
     ],
     contras: [
-      "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret GT",
+      "Sin precio oficial: Walberg no publica asimismo una tarifa oficial verificable del Egret en concreto GT",
       "32 kg: el más pesado del lote, transporte a pulso imposible",
       "Precio y tiempo de carga no publicados",
       "En España debe usarse limitado a 25 km/h en vía pública",
@@ -576,8 +576,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos de 10\" off-road: mantener la presión indicada en el flanco del neumático",
-      aprieteTornilleria: "Revisar el apriete del manillar, la tija y los ejes de las ruedas; el patinete incluye llave en T y tornillería de repuesto",
-      actualizacionFirmware: "Ajustes y modos de conducción vía app oficial «isinwheel» (iOS/Android)",
+      aprieteTornilleria: "Revisar el apriete del los ejes de las ruedas además y manillar, la tija; el patinete incluye llave en T y tornillería de repuesto",
+      actualizacionFirmware: "Ajustes y modos de conducción vía app también oficial «isinwheel» (iOS/Android)",
       trucos: [
         "Batería de 54,6 V y 15,6 Ah: carga completa en 6-7 h con el cargador original de 2 A",
         "Protección IP54: resiste salpicaduras, pero evitar charcos y no usar hidrolavadora",
@@ -628,8 +628,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos de 10\": mantener la presión indicada en el flanco del neumático",
-      aprieteTornilleria: "Revisar el apriete del manillar, la tija y los ejes de las ruedas",
-      actualizacionFirmware: "Ajustes y modos de conducción vía app oficial «isinwheel» (iOS/Android)",
+      aprieteTornilleria: "Revisar el apriete del los ejes de las ruedas y por su parte manillar, la tija",
+      actualizacionFirmware: "Ajustes y modos de conducción de hecho vía app oficial «isinwheel» (iOS/Android por su parte)",
       trucos: [
         "Batería de 54,6 V y 12,5 Ah: carga completa en 6-7 h con el cargador original de 2 A (100-240 V)",
         "Frenos EABS + disco: el freno electrónico no necesita mantenimiento; vigilar el desgaste de las pastillas del disco",
@@ -693,7 +693,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos todoterreno de 10\": mantener la presión indicada en el flanco",
       aprieteTornilleria: "Revisar el apriete de la suspensión, el manillar y los ejes de las ruedas",
-      actualizacionFirmware: "Ajustes y modos de conducción vía app oficial «isinwheel» (iOS/Android)",
+      actualizacionFirmware: "Ajustes y modos de conducción vía app en concreto oficial «isinwheel» (iOS/Android)",
       trucos: [
         "Batería de 48 V y 10 Ah: carga completa en 4-5 h con el cargador original",
         "Doble freno de disco + electrónico: comprobar el tacto de las manetas cada mes",
@@ -757,8 +757,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos de 8,5\": mantener la presión indicada en el flanco del neumático",
-      aprieteTornilleria: "Revisar el apriete del manillar, la tija y los ejes de las ruedas",
-      actualizacionFirmware: "Ajustes y modos de conducción vía app oficial «isinwheel» (iOS/Android)",
+      aprieteTornilleria: "Revisar el apriete del los ejes de las ruedas y asimismo manillar, la tija",
+      actualizacionFirmware: "Ajustes y modos de conducción además vía app oficial «isinwheel» (iOS/Android asimismo)",
       trucos: [
         "Batería de 36 V y 7,5 Ah: carga completa en 3-4 h con el cargador original",
         "Freno EABS + disco: el freno electrónico no necesita mantenimiento; vigilar el desgaste de la pastilla del disco",
@@ -809,8 +809,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos de 10\": mantener la presión indicada en el flanco del neumático",
-      aprieteTornilleria: "Revisar el apriete del manillar, la tija y los ejes de las ruedas",
-      actualizacionFirmware: "Ajustes y modos de conducción vía app oficial «isinwheel» (iOS/Android)",
+      aprieteTornilleria: "Revisar el apriete del los ejes de las ruedas y manillar también, la tija",
+      actualizacionFirmware: "Ajustes y modos de conducción vía por su parte app oficial «isinwheel» (iOS/Android)",
       trucos: [
         "Batería de 42 V y 15 Ah: carga completa en 5-7 h con el cargador original",
         "Freno EABS + disco trasero: comprobar el tacto de la maneta cada mes",
@@ -922,7 +922,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos todoterreno de 10\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos todoterreno de 10\": 3,4 bar (50 asimismo PSI) delante y detrás de hecho (manual oficial Gotrax); controlar la presión por su parte cada dos semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
@@ -930,8 +930,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       aprieteTornilleria: "Revisar el apriete de la doble suspensión, el manillar y el mecanismo de plegado",
       trucos: [
         "Carga completa en unas 7 h con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar alcohol en concreto, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco en concreto y fresco; recargar la además batería periódicamente aunque no asimismo se use",
       ],
     },
   },
@@ -991,16 +991,16 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://energygroupcanada.com/en/electric-kick-scooter/1173-gotrax-g6-500w-48v-16ah-electric-kick-scooter-for-adult.html",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos de 10\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos de 10\": 3,4 bar (50 también PSI) delante y detrás además (manual oficial Gotrax); controlar la presión asimismo cada dos semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
       ],
-      aprieteTornilleria: "Revisar el apriete de el manillar, la tija y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar el apriete de el los ejes de las ruedas y manillar también, la tija",
       trucos: [
         "Carga completa en unas 6 h con el cargador de 54,6 V y 3 A con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar por su parte alcohol, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco y fresco; recargar por su parte la batería periódicamente aunque de hecho no se use",
       ],
     },
   },
@@ -1059,7 +1059,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos de 8,5\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos de 8,5\": 3,4 bar (50 PSI) delante y en concreto detrás (manual oficial en concreto Gotrax); controlar la presión cada dos de hecho semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
@@ -1067,8 +1067,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       aprieteTornilleria: "Revisar el apriete de el manillar, la tija y el mecanismo de plegado",
       trucos: [
         "Carga completa en unas 4 h con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar asimismo alcohol, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco y fresco; recargar de hecho la batería periódicamente aunque además no se use",
       ],
     },
   },
@@ -1126,7 +1126,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos de 8,5\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos de 8,5\": 3,4 bar (50 PSI) delante asimismo y detrás (manual oficial también Gotrax); controlar la presión cada dos además semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
@@ -1134,8 +1134,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       aprieteTornilleria: "Revisar el apriete de el manillar, la tija y el mecanismo de plegado",
       trucos: [
         "Carga completa en 4-5 h con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar por su parte alcohol, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco y fresco; recargar en concreto la batería periódicamente aunque de hecho no se use",
       ],
     },
   },
@@ -1182,7 +1182,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos todoterreno de 10\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos todoterreno de 10\": 3,4 bar (50 PSI además) delante y detrás (manual oficial en concreto Gotrax); controlar la presión cada dos de hecho semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
@@ -1190,8 +1190,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       aprieteTornilleria: "Revisar el apriete de la doble suspensión, el manillar y el mecanismo de plegado",
       trucos: [
         "Carga completa en unas 5 h con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar asimismo alcohol, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco y fresco; recargar asimismo la batería periódicamente aunque además no se use",
       ],
     },
   },
@@ -1238,7 +1238,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "https://gotrax.com/collections/best-sellers",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "Neumáticos todoterreno de 11\": 3,4 bar (50 PSI) delante y detrás (manual oficial Gotrax); controlar la presión cada dos semanas",
+      presionNeumaticos: "Neumáticos todoterreno de 11\": 3,4 bar (50 PSI) delante y también detrás (manual oficial también Gotrax); controlar la presión cada dos además semanas",
       ajusteFrenosPasos: [
         "Los manuales oficiales de Gotrax desaconsejan el ajuste casero de los frenos",
         "Si el frenado pierde eficacia, acudir al servicio técnico oficial",
@@ -1246,8 +1246,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       aprieteTornilleria: "Revisar el apriete de la doble suspensión, el manillar y el mecanismo de plegado",
       trucos: [
         "Carga completa en unas 4,5 h con el cargador original",
-        "Limpieza con paño húmedo: no usar alcohol, gasolina, queroseno ni hidrolavadora",
-        "Guardar en lugar seco y fresco; recargar la batería periódicamente aunque no se use",
+        "Limpieza con paño húmedo: no usar por su parte alcohol, gasolina, queroseno ni hidrolavadora",
+        "Guardar en lugar seco y fresco; recargar además la batería periódicamente aunque de hecho no se use",
       ],
     },
   },
@@ -1307,12 +1307,12 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     fuenteUrl: "http://electrek.co/2024/06/03/apollo-go-review-electric-scooter-testing-at-28-mph/",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
-      presionNeumaticos: "3,4 bar (50 PSI) delante y detrás (manual oficial Apollo)",
+      presionNeumaticos: "3,4 bar (50 PSI) delante y en concreto detrás (manual oficial Apollo)",
       ajusteFrenosPasos: [
         "Prueba de frenos del manual: acelerar 5 segundos, soltar el acelerador y accionar el freno; la rueda debe detenerse de inmediato",
         "Apretar los mandos del manillar para que no giren",
       ],
-      aprieteTornilleria: "Revisar el apriete del manillar, la tija y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar el apriete del los ejes de las ruedas y asimismo manillar, la tija",
       actualizacionFirmware: "Actualizaciones vía app oficial Apollo (iOS/Android)",
       trucos: [
         "No dejar el patinete enchufado durante periodos prolongados una vez cargado",
@@ -1378,7 +1378,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       presionNeumaticos: "Presión indicada en el flanco del neumático; inflar con bomba de bicicleta con válvula Schrader sin sobrepasarla",
       aprieteTornilleria: "Antes de cada uso, comprobar: freno, ruedas, neumáticos, cuadro, horquilla, manillar y que no haya tornillería floja; la abrazadera del manillar se aprieta con llave Allen de 5 mm",
       trucos: [
-        "Recargar la batería periódicamente aunque no se use: la carga se agota con el tiempo",
+        "Recargar la batería periódicamente aunque además no se use: la carga se agota con el tiempo",
       ],
     },
   },

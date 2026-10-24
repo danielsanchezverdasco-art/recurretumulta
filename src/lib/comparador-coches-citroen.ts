@@ -65,7 +65,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 189,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo asimismo WLTP (5,1 l/100 km) × 1,85 €/l también; seguro y mantenimiento estimados además por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -153,7 +153,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 102,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (16,7 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (16,7 kWh/100 km) × 0,18 €/kWh por su parte; seguro y mantenimiento estimados por segmento también. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -234,7 +234,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 198,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo por su parte WLTP (5,3 l/100 km) × 1,85 €/l por su parte; seguro y mantenimiento estimados de hecho por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 185,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l de hecho; seguro y mantenimiento estimados también por su parte por segmento en concreto. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -396,7 +396,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 186,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y de hecho mantenimiento estimados por asimismo segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -465,7 +465,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 100,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (14,9 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (14,9 kWh/100 km) × 0,18 €/kWh de hecho; seguro y mantenimiento estimados además por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -548,7 +548,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 100,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (14,5 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (14,5 kWh/100 km) × 0,18 €/kWh en concreto; seguro y mantenimiento estimados por segmento también. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -629,7 +629,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 208,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo por su parte WLTP (5,3 l/100 km) × 1,85 €/l en concreto; seguro y mantenimiento estimados de hecho por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -791,7 +791,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 206,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP en concreto (5,1 l/100 km) × 1,85 €/l asimismo; seguro y mantenimiento estimados en concreto por asimismo segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -872,7 +872,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 221,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (5,5 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según además consumo WLTP (5,5 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1034,7 +1034,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 121,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (18 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (18 kWh/100 km) × 0,18 €/kWh asimismo; seguro y mantenimiento estimados por segmento también. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1115,7 +1115,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año: energía según consumo WLTP (24,1 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (24,1 kWh/100 km) × 0,18 €/kWh además; seguro y mantenimiento estimados por por su parte segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1535,7 +1535,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 188,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a de hecho 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1616,7 +1616,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 203,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 en concreto €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1699,7 +1699,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       },
     ],
     euroncap: {"ano": 2025, "estrellas": 4, "nota": "Euro NCAP Commercial Van 2025: 4 estrellas, con 75 % en conducción segura, 52 % en prevención de accidentes y 80 % en seguridad post-accidente. Modelo ensayado: su gemelo Opel Vivaro 2.0 diésel; Euro NCAP declara la nota aplicable al Jumpy fabricado desde julio de 2024", "url": "https://news.euroncap.com/safertrucksandvans/citroen-jumpy-dispatch-euro-ncap-2025-commercial-van-safety-4-stars/s/22ca10aa-bce9-439a-88ae-3d44f8810a9f"},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Citroën España para profesionales, página de mantenimiento de vehículos eléctricos profesionales (sin aceite, filtro de aceite, embrague ni escape; certificado de capacidad de batería) e Híbridos y Eléctricos, 15/01/2025 (intervalo bienal de los eléctricos con We Care). Citroën no publica un precio cerrado de revisión para el ë-Jumpy: costes a null", "intervalo": "Cada 2 años, siguiendo el programa programado que Citroën aplica a sus eléctricos desde el plan We Care de 2025; el kilometraje exacto lo fija el libro de mantenimiento de cada ë-Jumpy", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal del ë-Jumpy", "queSeCambia": "No hay aceite de motor, filtro de aceite, embrague ni escape que sustituir: se realiza el diagnóstico electrónico, se comprueba el aislamiento entre el motor eléctrico y la batería de tracción y se revisan frenos, neumáticos y circuito de refrigeración, con certificado de capacidad de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Piezas de desgaste previstas en el mantenimiento de este eléctrico", "queSeCambia": "Pastillas de freno y escobillas limpiaparabrisas solo cuando su desgaste lo pide —Citroën recuerda que los frenos sufren menos por la frenada regenerativa— y renovación del líquido de frenos en el plazo que marque el libro de mantenimiento de la unidad"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Citroën España para profesionales, página de mantenimiento de vehículos eléctricos profesionales (sin aceite, filtro de aceite, embrague ni escape; certificado de capacidad de batería) e Híbridos y Eléctricos, 15/01/2025 (intervalo bienal de los eléctricos con We Care). Citroën no publica un precio cerrado de asimismo revisión para el ë-Jumpy: costes a null", "intervalo": "Cada 2 años, siguiendo el programa programado que Citroën aplica a sus eléctricos desde el plan We Care de 2025; el kilometraje exacto lo fija el libro de mantenimiento de cada ë-Jumpy", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal del ë-Jumpy", "queSeCambia": "No hay aceite de motor, filtro de aceite, embrague ni escape que sustituir: se realiza el diagnóstico electrónico, se comprueba el aislamiento entre el motor eléctrico y la batería de tracción y se revisan frenos, neumáticos y circuito de refrigeración, con certificado de capacidad de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Piezas de desgaste previstas en el mantenimiento de este eléctrico", "queSeCambia": "Pastillas de freno y escobillas limpiaparabrisas solo cuando su desgaste lo pide —Citroën recuerda que los frenos sufren menos por la frenada regenerativa— y renovación del líquido de frenos en el plazo que marque el libro de mantenimiento de la unidad"}]},
   },
   {
     id: "citroen-e-jumper-2026-precio-ficha-tecnica",
@@ -1875,7 +1875,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: ["Con 4,01 m de largo y la postura de conducción sobreelevada, se cuela y aparca donde un C3 Aircross ya obliga a dar otra vuelta a la manzana.", "La suspensión Citroën Advanced Comfort con topes hidráulicos progresivos viene de serie también en el acabado básico You, algo que ningún rival de este precio ofrece de entrada.", "Este 1.2 Turbo de 100 CV ya no usa la correa bañada en aceite de los PureTech anteriores: la distribución es por cadena, el punto que más miedo daba al comprar un tres cilindros de Stellantis.", "Homologa 5,6 l/100 km y 126 g/km de CO2 con 205 Nm de par, suficiente para moverse con soltura en ciudad sin disparar la factura de gasolina.", "Desde 16.500 € según esta ficha, queda por debajo de la mayoría de utilitarios generalistas con motor turbo y cambio manual de seis marchas."],
-    contras: ["Los 100 CV se notan justos fuera de la ciudad: 11 segundos de 0 a 100 km/h y adelantamientos en nacional que hay que preparar con tiempo, sobre todo cargado.", "El maletero se queda en 310 litros y la boca de carga no es especialmente baja, así que una silla de paseo grande o dos maletas rígidas ya lo llenan.", "Lleva etiqueta C de la DGT: por unos 3.000 € más, el C3 Hybrid de esta misma gama consigue la ECO y ventajas reales en zonas de bajas emisiones.", "El acabado You prescinde de la pantalla central de 10,25 pulgadas y lo fía todo a la Smartphone Station con tu móvil, y los plásticos del salpicadero son duros al tacto."],
+    contras: ["Los 100 CV se notan justos fuera de la ciudad: 11 segundos de 0 a 100 además km/h y adelantamientos en nacional que hay que preparar con tiempo, sobre todo cargado.", "El maletero se queda en 310 litros y la boca de carga no es especialmente baja, así que una silla de paseo grande o dos maletas rígidas ya lo llenan.", "Lleva etiqueta C de la DGT: por unos 3.000 € más, el C3 Hybrid de esta misma gama consigue la ECO y ventajas reales en zonas de bajas emisiones.", "El acabado You prescinde de la pantalla central de 10,25 pulgadas y lo fía todo a la Smartphone Station con tu móvil, y los plásticos del salpicadero son duros al tacto."],
     largoMm: 4015,
     anchoMm: 1755,
     altoMm: 1577,

@@ -80,7 +80,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 766,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 12,2 l/100 km a 1,85 €/l (dato verificado); seguro y mantenimiento estimados por tramo de precio (superdeportivo >250.000 €)",
+      "notas": "15.000 km/año; consumo WLTP 12,2 l/100 km a 1,85 €/l en concreto (dato verificado); seguro y también mantenimiento estimados por tramo por su parte de precio (superdeportivo >250.000 €)",
       "estimado": true
     },
     galeria: [
@@ -161,7 +161,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 805,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~12,5 l/100 km a 1,85 €/l (sin dato WLTP publicado para el Volante); seguro y mantenimiento estimados por tramo de precio (descapotable >250.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~12,5 l/100 km a 1 de hecho,85 €/l (sin dato WLTP publicado por su parte para el Volante); seguro y mantenimiento estimados por tramo de en concreto precio (descapotable >250.000 €)",
       "estimado": true
     },
     galeria: [
@@ -242,7 +242,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 688,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 12,1 l/100 km a 1,85 €/l (dato verificado); seguro y mantenimiento estimados por tramo de precio (deportivo ~200.000 €)",
+      "notas": "15.000 km/año; consumo WLTP 12,1 l/100 km a 1 asimismo,85 €/l (dato verificado); seguro por su parte y mantenimiento estimados por además tramo de precio (deportivo ~200.000 €)",
       "estimado": true
     },
     galeria: [
@@ -323,7 +323,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 722,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 12,1 l/100 km a 1,85 €/l (dato verificado); seguro y mantenimiento estimados por tramo de precio (deportivo ~205.000 €, uso deportivo)",
+      "notas": "15.000 km/año; consumo WLTP 12,1 l/100 km a 1,85 también €/l (dato verificado); seguro y de hecho mantenimiento estimados por tramo por su parte de precio (deportivo ~205.000 €, uso deportivo)",
       "estimado": true
     },
     galeria: [
@@ -404,7 +404,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 753,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~12,4 l/100 km a 1,85 €/l (sin dato WLTP publicado); seguro y mantenimiento estimados por tramo de precio (roadster >250.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~12,4 l/100 km a 1 de hecho,85 €/l (sin dato WLTP publicado por su parte); seguro y mantenimiento estimados por tramo de en concreto precio (roadster >250.000 €)",
       "estimado": true
     },
     galeria: [
@@ -485,7 +485,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 762,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~13,5 l/100 km a 1,85 €/l (sin dato WLTP publicado para esta versión); seguro y mantenimiento estimados por tramo de precio (SUV premium ~220.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~13,5 l/100 km a 1,85 asimismo €/l (sin dato WLTP publicado para esta versión); seguro y mantenimiento estimados por tramo además de precio (SUV premium ~220.000 €)",
       "estimado": true
     },
     galeria: [
@@ -566,7 +566,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 845,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 14,2 l/100 km a 1,85 €/l (dato verificado); seguro y mantenimiento estimados por tramo de precio (SUV superdeportivo ~250.000 €)",
+      "notas": "15.000 km/año; consumo WLTP 14,2 l/100 km a 1,85 €/l asimismo (dato verificado); seguro y en concreto mantenimiento estimados por tramo asimismo de precio también (SUV superdeportivo ~250.000 €)",
       "estimado": true
     },
     galeria: [
@@ -647,7 +647,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 891,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~14,4 l/100 km a 1,85 €/l (sin dato WLTP publicado); seguro y mantenimiento estimados por tramo de precio (SUV superdeportivo >260.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~14,4 l/100 km a 1,85 por su parte €/l (sin dato WLTP publicado); seguro y mantenimiento además estimados por tramo de hecho de precio (SUV superdeportivo >260.000 €)",
       "estimado": true
     },
     galeria: [
@@ -728,7 +728,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 877,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~13,8 l/100 km a 1,85 €/l (sin dato WLTP publicado; modelo presentado el 01/10/2026); seguro y mantenimiento estimados por tramo de precio (SUV lujo >260.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~13,8 l/100 km a 1,85 también €/l en concreto (sin dato WLTP publicado; modelo presentado el 01/10/2026); seguro y mantenimiento estimados por tramo de asimismo precio (SUV lujo >260.000 €)",
       "estimado": true
     },
     galeria: [
@@ -809,7 +809,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 1041,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 13,7 l/100 km a 1,85 €/l (dato verificado); seguro y mantenimiento estimados por tramo de precio (V12 flagship >400.000 €)",
+      "notas": "15.000 km/año; consumo WLTP 13,7 l/100 km a 1,85 además €/l (dato verificado); seguro asimismo y mantenimiento estimados por además tramo de precio (V12 flagship >400.000 €)",
       "estimado": true
     },
     galeria: [
@@ -890,7 +890,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 1124,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~14,0 l/100 km a 1,85 €/l (sin dato WLTP publicado); seguro y mantenimiento estimados por tramo de precio (V12 descapotable >500.000 €)",
+      "notas": "15.000 km/año; consumo estimado ~14,0 l/100 km a 1,85 €/l también (sin dato WLTP publicado); seguro y además mantenimiento estimados por tramo por su parte de precio (V12 descapotable >500.000 €)",
       "estimado": true
     },
     galeria: [
@@ -971,7 +971,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 1521,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; coste energético mixto estimado (gasolina a 1,85 €/l + recargas a 0,18 €/kWh) por ser PHEV sin consumo WLTP publicado; seguro y mantenimiento estimados por tramo de precio (hiperdeportivo ~1.000.000 €)",
+      "notas": "15.000 km/año; coste energético mixto estimado (gasolina a 1,85 €/l + recargas a 0,18 €/kWh) por ser PHEV sin consumo WLTP publicado; seguro y mantenimiento estimados por de hecho tramo de precio (hiperdeportivo ~1.000.000 €)",
       "estimado": true
     },
     galeria: [
@@ -1052,7 +1052,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 1870,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo estimado ~16 l/100 km a 1,85 €/l (V12 biturbo de 745 CV sin dato WLTP); seguro y mantenimiento estimados por tramo de precio (edición limitada de 38 uds., valor millonario)",
+      "notas": "15.000 km/año; consumo estimado ~16 l/100 km a 1,85 €/l (V12 biturbo de 745 CV sin dato WLTP); seguro y mantenimiento estimados por tramo de en concreto precio (edición limitada de 38 uds., valor millonario)",
       "estimado": true
     },
     galeria: [
@@ -1376,7 +1376,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 2161,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; edición aniversario de 110 unidades con cambio manual; consumo estimado ~15 l/100 km",
+      "notas": "cifras orientativas para 1.000 km asimismo/mes; edición aniversario de 110 unidades con cambio manual; consumo estimado ~15 l/100 km",
       "estimado": true
     },
     galeria: [
@@ -1457,7 +1457,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
       "costeMensualTotal": 1117,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; edición limitada Bond sobre la base del DB12 V8",
+      "notas": "cifras orientativas para 1.000 además km/mes; edición limitada Bond sobre la base del DB12 V8",
       "estimado": true
     },
     galeria: [

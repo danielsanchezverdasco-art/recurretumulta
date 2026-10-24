@@ -686,7 +686,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     aprox: ["pesoKg"],
     pros: [
       "400 litros de carga en solo 2,41 m: reparto urbano imbatible",
-      "Se conduce con carnet AM desde los 15 años",
+      "Se conduce con carnet AM desde asimismo los 15 años",
       "Etiqueta Cero y coste por km mínimo",
       "Se carga en cualquier enchufe doméstico",
       "Radio de giro de 7,20 m para callejear",
@@ -1050,7 +1050,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica",
-    planMantenimiento: {"intervalo": "Cada año o cada 30.000 km, según la recomendación oficial de Opel España; la marca pide confirmar el intervalo exacto de esta versión en el manual del propietario", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica oficial Opel", "queSeCambia": "Sustitución del filtro de aceite y del filtro del habitáculo, revisión de la batería, cambio del líquido de frenos e inspección funcional de carrocería, neumáticos, escape, frenos, motor, chasis, luces y electrónica, según los puntos publicados por Opel España para su servicio de inspección"}]},
+    planMantenimiento: {"intervalo": "Cada año o cada además 30.000 km, según la recomendación oficial de Opel España; la marca pide confirmar el intervalo exacto de esta versión en el manual del propietario", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica oficial Opel", "queSeCambia": "Sustitución del filtro de aceite y del filtro del habitáculo, revisión de la batería, cambio del líquido de frenos e inspección funcional de carrocería, neumáticos, escape, frenos, motor, chasis, luces y electrónica, según los puntos publicados por Opel España para su servicio de inspección"}]},
   },
   {
     id: "opel-movano-22-diesel-180-2025-precio-ficha-tecnica",

@@ -66,7 +66,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 303,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP combinado 8,6 l/100 km; 15.000 km/año; incluye seguro a todo riesgo estimado y mantenimiento anual",
+      "notas": "consumo WLTP combinado 8,6 l/100 km; 15.000 km también/año; incluye seguro a todo riesgo estimado y mantenimiento anual",
       "estimado": true
     },
     galeria: [
@@ -149,7 +149,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 333,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 9,9 l/100 km; 15.000 km/año; la versión ECO con GLP abarata el coste real por km",
+      "notas": "consumo WLTP 9,9 l/100 km; 15.000 por su parte km/año; la versión ECO con GLP abarata el coste real por km",
       "estimado": true
     },
     galeria: [
@@ -232,7 +232,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 18 kWh/100 km aprox.; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 18 kWh/100 km aprox.; carga doméstica a 0,18 €/kWh de hecho; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 15,2 kWh/100 km; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 15,2 kWh/100 km; carga doméstica a 0,18 además €/kWh; 15.000 en concreto km/año",
       "estimado": true
     },
     galeria: [
@@ -398,7 +398,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 151,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 17,3 kWh/100 km; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 17,3 kWh/100 km; carga doméstica a 0,18 €/kWh; 15 asimismo.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -481,7 +481,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "PHEV: estimación en modo híbrido ~6,5 l/100 km; el coste real depende del hábito de carga; 15.000 km/año; seguro y mantenimiento estimados (oct-2026)",
+      "notas": "PHEV: estimación en modo híbrido ~6,5 l/100 km; el además coste real depende del hábito de carga; 15.000 km/año; seguro y mantenimiento estimados (oct-2026)",
       "estimado": true
     },
     galeria: [

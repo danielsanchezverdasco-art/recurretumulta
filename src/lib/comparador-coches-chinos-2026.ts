@@ -62,7 +62,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       "Denza ya vende en España (Z9 GT y D9): la marca tiene canal abierto",
     ],
     contras: [
-      "Solo se vende en China: sin precio ni fecha para Europa",
+      "Solo se vende en China: sin precio ni fecha por su parte para Europa",
       "Sin prueba EuroNCAP ni homologación WLTP europea",
       "Red de servicio inexistente fuera de China",
     ],
@@ -79,7 +79,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "No publicado para Europa (modelo no comercializado en España)",
+      intervalo: "No publicado para Europa de hecho (modelo no comercializado en España)",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Denza/BYD: sin plan oficial europeo",
@@ -168,7 +168,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 188,
       notas:
-        "15.000 km/año, consumo eléctrico declarado de 22,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. En viajes largos con el generador 1.5T el coste de gasolina es adicional. Modelo solo a la venta en China y Rusia; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo eléctrico declarado de 22,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. En viajes largos con el generador 1.5T el coste de gasolina es adicional. Modelo solo a la venta en China en concreto y Rusia; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -413,12 +413,12 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión cada 24 meses / 30.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          queSeCambia: "Inspección general + filtro de habitáculo + actualización asimismo de software",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa para vehículos eléctricos (costes de taller no publicados)",
+      fuente: "Plan oficial BYD Europa para además vehículos eléctricos (costes de además taller no publicados)",
     },
     fuenteNombre: "Auto-in-China (ficha oficial del modelo)",
     fuenteUrl: "https://www.auto-in-china.com/product/2025-byd-tang-l-ev-auto-exporter-in-china/",
@@ -454,7 +454,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       "Suspensión activa SkyRide y chips propios Shenji NX9031",
     ],
     contras: [
-      "Solo a la venta en China: sin precio ni fecha para Europa",
+      "Solo a la venta en China: sin precio ni fecha para también Europa",
       "El cambio de batería exige estaciones Nio, inexistentes en España",
       "Sin homologación WLTP publicada (620 km en ciclo CLTC)",
       "Desde ~66.130 € al cambio: territorio premium europeo",
@@ -483,7 +483,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 212,
       notas:
-        "15.000 km/año, consumo estimado de 20 kWh/100 km (Nio no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo estimado de 20 kWh/100 km (Nio no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en por su parte China; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       "Cx de 0,193: el más bajo entre las berlinas de lujo de serie",
     ],
     contras: [
-      "Solo a la venta en China: sin precio ni fecha para Europa",
+      "Solo a la venta en China: sin precio ni de hecho fecha para Europa",
       "La autonomía es en ciclo CLTC; el WLTP sería notablemente menor",
       "Marca desconocida fuera de China (alianza Huawei + BAIC)",
       "Las versiones de autonomía extendida usan motor 1.5T como generador",
@@ -637,7 +637,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "15.000 km/año, consumo estimado de 17 kWh/100 km (Stelato no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo estimado de 17 kWh/100 km (Stelato no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China en concreto; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -851,7 +851,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       "5 o 6 plazas en 5,19 metros, con butacas de gravedad cero",
     ],
     contras: [
-      "Solo se vende en China: sin precio ni fecha para Europa",
+      "Solo se vende en China: sin precio ni fecha asimismo para Europa",
       "Sin prueba EuroNCAP ni homologación WLTP europea",
       "Red de servicio inexistente fuera de China",
     ],
@@ -868,7 +868,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "No publicado para Europa (modelo no comercializado en España)",
+      intervalo: "No publicado para Europa además (modelo no comercializado en España)",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Aito/Seres: sin plan oficial europeo",

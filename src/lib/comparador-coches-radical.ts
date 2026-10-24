@@ -40,7 +40,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
     etiquetaDgt: null,
     pros: [
       "188 CV y solo 510 kg: 369 CV por tonelada, cifras de prototipo",
-      "La puerta de entrada más barata al mundo de las carreras de prototipos",
+      "La puerta de entrada más además barata al mundo de las carreras de prototipos",
       "Copa monomarca SR1 con parrillas llenas en varios países",
       "Mecánica sencilla (RPE Gen5 de 1.340 cc): reparaciones baratas",
       "2:11 en Silverstone, al nivel de superdeportivos mucho más caros",

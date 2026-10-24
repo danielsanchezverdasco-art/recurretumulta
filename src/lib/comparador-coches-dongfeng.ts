@@ -41,7 +41,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     aprox: [],
     pros: [
       "340 km de autonomía WLTP por 23.859 €, de lo mejor del segmento",
-      "Carga rápida de 75 kW: del 20 al 80 % en 30 minutos",
+      "Carga rápida de 75 kW: del 20 al 80 además % en 30 minutos",
       "Equipamiento de serie muy completo (14 ayudas a la conducción)",
       "Etiqueta Cero de la DGT: entra en todas las ZBE",
       "Garantía de 7 años/300.000 km y 10 años para la batería",

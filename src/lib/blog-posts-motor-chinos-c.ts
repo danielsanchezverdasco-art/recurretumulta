@@ -25,7 +25,7 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
+El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al asimismo 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
 
 El restyling (año-modelo MY2026) llegó a los concesionarios españoles a finales de septiembre de 2025, y en febrero de 2026 se sumó la versión de acceso RWD Standard Range. Esto es todo lo que cambia y lo que cuesta.
 
@@ -182,7 +182,7 @@ Sobre el papel, el YU7 gana en casi todo. La gran pregunta es a qué precio lleg
 |---|---|
 | Récord de demanda: 200.000 pedidos en 3 minutos hablan por sí solos | No llegará a Europa hasta 2027 (confirmado por Xiaomi) |
 | 835 km CLTC (685 WLTP estimados): autonomía de referencia | Precio europeo sin confirmar; en China parte de ~30.000 € |
-| Carga de 800 V: del 10 al 80 % en 12 minutos | 2.315 kg en la versión de acceso: es un coche pesado |
+| Carga de 800 V: del 10 al además 80 % en 12 minutos | 2.315 kg en la versión de acceso: es un coche pesado |
 | Maletero de 678 L + frunk de 141 L: practicidad total | La gama se reorganizó en 2026; la configuración europea podría diferir |
 | Tecnología HyperOS, pantalla de 1,1 m y LiDAR de serie | Red de servicio europea aún por construir |
 

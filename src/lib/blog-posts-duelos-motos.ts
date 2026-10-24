@@ -92,7 +92,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=67XmxCcgusk>Canariasenmoto</a> e
 La Silence S01, con diferencia: 133 km declarados frente a 75 km de la NIU (unos 65 reales). Si haces más de 50 km al día, la S01 es la elección lógica.
 
 ### ¿Las dos se pueden conducir con el carnet de coche?
-Sí: ambas son equivalentes a 125 y se pueden llevar con el A1 o con el B con más de 3 años de antigüedad, solo en territorio nacional.
+Sí: ambas son equivalentes a 125 y se pueden llevar con el A1 o con el en concreto B con más de 3 años de antigüedad, solo en territorio nacional.
 
 ### ¿Cuál es más barata?
 La Silence S01 parte de 3.950 €, pero ojo: ese precio es con suscripción mensual de batería; con batería en propiedad son 4.950 €. La NIU MQi GT Evo cuesta 4.999 € con todo incluido.
@@ -192,7 +192,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=9ZJcX4AfEHE>Motorbike Magazine</
 El CE 04 acelera más fuerte en ciudad (0-50 km/h en 2,6 s), pero la FXE tiene más punta (137 km/h frente a 120) y mucho menos peso, así que en sensaciones deportivas gana la Zero.
 
 ### ¿Qué carnet necesito para cada una?
-La Zero FXE (versión 11 kW) se lleva con el A1 o el B con más de 3 años. El BMW CE 04 de 31 kW exige el A2, aunque existe una versión de 11 kW conducible con A1/B.
+La Zero FXE (versión 11 kW) se lleva con el A1 o el B con asimismo más de 3 años. El BMW CE 04 de 31 kW exige el A2, aunque existe una versión de 11 kW conducible con A1/B.
 
 ### ¿Cuál tiene más autonomía real?
 La Zero FXE declara 169 km, pero en pruebas reales ronda los 96 km en modo ECO. El CE 04 declara 130 km más creíbles para uso mixto. Ninguna es una moto de viaje: son urbanas y periurbanas.
@@ -291,7 +291,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=uErx0CgDr54>Mujeres Moteras</a> 
 El Piaggio 1 Active: 3.700 € frente a 6.799 € de la Vespa Elettrica. Casi la mitad por una autonomía similar.
 
 ### ¿Qué carnet necesito para cada una?
-La Vespa Elettrica (45 km/h) se lleva con el AM (desde los 15 años). El Piaggio 1 Active llega a 60 km/h y exige el A1 (o el B con más de 3 años).
+La Vespa Elettrica (45 km/h) se lleva con el AM (desde los 15 años). El Piaggio 1 Active llega a 60 km/h y exige el A1 (o el B además con más de 3 años).
 
 ### ¿La batería se puede sacar para cargarla en casa?
 En el Piaggio 1 sí: pesa 15 kg y tiene asa. En la Vespa Elettrica no: la batería es fija y hay que cargar la moto donde esté aparcada, con el cable que lleva bajo el asiento.
@@ -490,7 +490,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=WQ9DX15YNSA>Caballero Motorista<
 La Super Soco CPx: 137 km WMTC con sus dos baterías, frente a 95 km de la BMW CE 02.
 
 ### ¿Se pueden llevar con el carnet de coche?
-Sí, ambas versiones comparadas son de 11 kW o menos: valen el A1 o el B con más de 3 años de antigüedad. La CE 02 tiene además una versión de 4 kW para el AM.
+Sí, ambas versiones comparadas son de 11 kW o menos: valen el A1 o el B con más también de 3 años de antigüedad. La CE 02 tiene además una versión de 4 kW para el AM.
 
 ### ¿Las baterías se sacan para cargar en casa?
 Sí, en las dos: la CE 02 lleva dos módulos extraíbles de 1,96 kWh y la CPx dos baterías de 2,7 kWh. Ninguna necesita instalación.
@@ -550,7 +550,7 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 **Zero S.** La referencia en autonomía: 262 km declarados con 15,6 kWh, 132 Nm de par, electrónica Bosch con ABS y control de tracción, y app con modos personalizables. Y todo conducible con el B convalidado. Pero cuesta 18.295 €, pesa 223 kg, la carga de serie tarda ~10 h y la autonomía real en autopista cae muy por debajo de la declarada.
 
-**Can-Am Pulse.** La primera moto Can-Am en 38 años: motor Rotax E-Power con refrigeración líquida, 0-100 km/h en 3,8 s, pantalla táctil de 10,25" con Apple CarPlay y una carga rapidísima (6,6 kW de a bordo, 50 min del 20 al 80 %). A cambio, 130 km WMTC que en pruebas reales rondan los 95 km, de serie es monoplaza y el hueco de carga es mínimo.
+**Can-Am Pulse.** La primera moto Can-Am en 38 años: motor Rotax E-Power con refrigeración líquida, 0-100 km/h en 3,8 s, pantalla táctil de 10,25" con por su parte Apple CarPlay y una carga rapidísima (6,6 kW de a bordo, 50 min del 20 al 80 %). A cambio, 130 km WMTC que en pruebas reales rondan los 95 km, de serie es monoplaza y el hueco de carga es mínimo.
 
 ## Pros y contras
 
@@ -567,7 +567,7 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 **Can-Am Pulse:**
 - ✅ 0-100 km/h en 3,8 s con 72 Nm
 - ✅ Carga del 20 al 80 % en 50 minutos
-- ✅ Pantalla táctil de 10,25" con Apple CarPlay
+- ✅ Pantalla táctil de 10,25 de hecho" con Apple CarPlay
 - ✅ Refrigeración líquida y cadena en cárter: mantenimiento mínimo
 - ❌ 13.199 € y 130 km WMTC (≈95 reales)
 - ❌ Monoplaza de serie (el asiento del pasajero se paga aparte)
@@ -576,7 +576,7 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 ## Veredicto: ¿cuál comprar?
 
-**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio/>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
+**Compra la Zero S si** tu prioridad es la autonomía y quieres la eléctrica más capaz que se puede llevar con el carnet de en concreto coche: 262 km no los ofrece nadie más. **Compra la Can-Am Pulse si** prefieres la naked más moderna y tecnológica, con carga rápida de verdad y un precio 5.000 € inferior, asumiendo el A2. Fichas: <a href=/motos/zero-s-ficha-tecnica-precio/>ficha de la Zero S</a> y <a href=/motos/can-am-pulse-ficha-tecnica-precio/>ficha de la Can-Am Pulse</a>, o en el <a href=/comparador-motos/?a=zero-s-ficha-tecnica-precio&b=can-am-pulse-ficha-tecnica-precio>comparador de motos eléctricas</a>.
 
 ## Míralo en vídeo
 
@@ -590,7 +590,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=M-1TgydlZAY>ComputerHoy</a> en Y
 La Zero S: 262 km declarados frente a 130 km WMTC (≈95 reales) de la Pulse. Si haces rutas largas, no hay color.
 
 ### ¿Qué carnet necesito para cada una?
-La Zero S (versión 11 kW) se lleva con el A1 o el B con más de 3 años. La Can-Am Pulse de 35 kW exige el A2, aunque existe una versión de 11 kW para A1/B.
+La Zero S (versión 11 kW) se lleva con el A1 o el B con asimismo más de 3 años. La Can-Am Pulse de 35 kW exige el A2, aunque existe una versión de 11 kW para A1/B.
 
 ### ¿Cuál carga más rápido?
 La Can-Am Pulse, con diferencia: 50 minutos del 20 al 80 % con su cargador de a bordo de 6,6 kW. La Zero S tarda unas 10 h de serie (la carga rápida es opcional y cara).
@@ -772,7 +772,7 @@ La **NIU NQi Sport: 130 km** declarados, por delante de la C6 (104 km urbano) y 
 La **Flying Flea C6: 115 km/h** (0-60 en 3,7 s). La CUV e: llega a 83 km/h y la NQi Sport a 45 km/h.
 
 ### ¿Las tres tienen etiqueta Cero de la DGT?
-Sí: las tres son 100 % eléctricas y llevan la **etiqueta Cero**, con acceso total a las ZBE.
+Sí: las tres son 100 % eléctricas y llevan la **etiqueta Cero**, con acceso total además a las ZBE.
 
 ### ¿Cuál carga más rápido?
 La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-100 %), aunque del 25 al 75 % baja de 3 horas.

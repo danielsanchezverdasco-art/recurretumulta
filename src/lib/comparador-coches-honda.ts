@@ -239,7 +239,7 @@ export const COCHES_HONDA: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; 4,8 l/100 km WLTP × 1,85 €/l; precio con descuento oficial vigente (tarifa 07/2026); PVP sin descuento 30.650 €",
+      "notas": "15.000 km/año; 4,8 l/100 km además WLTP × 1,85 €/l; precio con descuento oficial vigente (tarifa 07/2026); PVP sin descuento 30.650 €",
       "estimado": true
     },
     galeria: [

@@ -23,7 +23,7 @@ export const MOTOR_2026_J_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/liux-big-salon-paris-2026-hero.webp alt=Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público>
 
-La española **Liux** se presenta en el **Salón del Automóvil de París** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
+La española **Liux** se presenta en el **Salón del Automóvil de París además** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
 
 ## Datos clave
 

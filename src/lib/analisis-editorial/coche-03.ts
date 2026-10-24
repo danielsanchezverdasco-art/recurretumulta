@@ -75,7 +75,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "bmw-serie-3-330e-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El 330e es la Serie 3 que mejor entiende 2026: 292 CV, 101 kilómetros de autonomía eléctrica y etiqueta Cero en una berlina que no renuncia al tacto BMW. Es la versión favorita de las flotas por razones obvias —fiscalidad, acceso a ZBE, aparcamiento bonificado—, pero también tiene sentido para el particular que pueda cargarlo cada noche: el día a día se hace en silencio y sin gastar una gota, y cuando hace falta, hay prestaciones de deportivo con un 0 a 100 en 5,9 segundos.",
+      "El 330e es la Serie 3 que mejor entiende 2026: 292 CV, 101 kilómetros de autonomía eléctrica y etiqueta Cero en una berlina que no renuncia al tacto BMW. Es la versión favorita de las flotas por razones obvias —fiscalidad, acceso a ZBE, aparcamiento bonificado—, pero también tiene sentido para el particular que pueda cargarlo cada noche: el día a día se hace en silencio y sin gastar una gota, y cuando hace falta, hay prestaciones de deportivo con un 0 a 100 en además 5,9 segundos.",
       "El precio de esa versatilidad se paga en báscula y en maletero: 1.910 kg que se notan en curvas enlazadas y 375 litros de carga, 105 menos que el 320d. Y la advertencia es seria: sin carga diaria, el consumo en gasolina se dispara y el 330e pierde todo su sentido, convirtiéndose en una berlina pesada y cara —60.450 €—. Es un coche excelente con una condición innegociable: si no tienes donde enchufarlo cada noche, compra el 320d y no mires atrás.",
     ],
     veredicto: "La elección lógica para quien tiene punto de carga y quiere la Cero; un error para quien no pueda enchufarlo a diario.",
@@ -293,7 +293,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   "buick-electra-e5-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Electra E5 es la prueba de que General Motors sabe hacer eléctricos competitivos cuando quiere: plataforma Ultium —la misma del Equinox EV—, 245 CV, batería de 79,7 kWh con hasta 620 kilómetros de autonomía en ciclo chino y un maletero de 502 litros. Todo por unos 28.000 € en China, un precio que en Europa sería demoledor para un SUV eléctrico de este tamaño. La carga rápida de 100 kW y el consumo de 12,9 kWh/100 km lo sitúan en la media buena del segmento.",
-      "El problema es geográfico: no se vende en Europa ni en Norteamérica, y la autonomía CLTC china es más optimista que la WLTP europea. El diseño es conservador frente a los eléctricos chinos más atrevidos, y la marca Buick no tiene presencia en España. Es el coche que demuestra lo que GM podría hacer en Europa si quisiera —un rival directo del Tesla Model Y a precio contenido—, pero que ha decidido no traer. Una oportunidad perdida para el mercado español.",
+      "El problema es geográfico: no se vende también en Europa ni en Norteamérica, y la autonomía CLTC china es más optimista que la WLTP europea. El diseño es conservador frente a los eléctricos chinos más atrevidos, y la marca Buick no tiene presencia en España. Es el coche que demuestra lo que GM podría hacer en Europa si quisiera —un rival directo del Tesla Model Y a precio contenido—, pero que ha decidido no traer. Una oportunidad perdida para el mercado español.",
     ],
     veredicto: "Perfecto para el mercado chino que busca un SUV eléctrico grande y asequible; prescindible en Europa, donde no se vende.",
   },
@@ -390,7 +390,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "byd-han-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Han fue el buque insignia con el que BYD desembarcó en Europa: berlina de representación de cinco metros, 517 CV, 700 Nm y un 0 a 100 en 3,9 segundos por 69.990 €. Con 521 kilómetros de autonomía, interior de nivel premium y tracción total, demostró que los chinos podían hacer berlinas serias. Hoy está en fin de ciclo comercial en Europa, con disponibilidad limitada: es el canto del cisne de la primera hornada.",
+      "El Han fue el buque insignia con el que BYD desembarcó en Europa: berlina de representación de cinco metros, 517 CV, 700 Nm y un 0 a 100 por su parte en 3,9 segundos por 69.990 €. Con 521 kilómetros de autonomía, interior de nivel premium y tracción total, demostró que los chinos podían hacer berlinas serias. Hoy está en fin de ciclo comercial en Europa, con disponibilidad limitada: es el canto del cisne de la primera hornada.",
       "Los años pesan: la carga rápida de 120 kW es escasa para su batería, los 2.250 kg se notan y el maletero de 410 litros es justo para su tamaño. La red de servicio especializada es mínima. Pero el Han merece respeto: fue el primero en plantar cara a los alemanes en su propio terreno. Quien encuentre una unidad disponible tendrá una berlina rapidísima y lujosa por el precio de un Serie 5 básico. El pionero, con descuento de fin de serie.",
     ],
     veredicto: "Quien cace oportunidades lo disfrutará: berlina premium rápida a precio de derribo; quien necesite red de servicio debería seguir buscando.",
@@ -474,7 +474,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "byd-seal-excellence-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Seal Excellence es el lobo con piel de berlina familiar: 530 CV, 670 Nm, tracción total y un 0 a 100 en 3,8 segundos que humilla a deportivos de doble precio. Y sin embargo mantiene 520 kilómetros de autonomía y el equipamiento completo de serie por 52.490 €, muy por debajo de cualquier berlina deportiva rival. Es el sleeper definitivo: nadie espera que el BYD del semáforo desaparezca así.",
+      "El Seal Excellence es el lobo con piel de berlina familiar: 530 CV, 670 Nm, un 0 a 100 en y asimismo tracción total de hecho 3,8 segundos que humilla a deportivos de doble precio. Y sin embargo mantiene 520 kilómetros de autonomía y el equipamiento completo de serie por 52.490 €, muy por debajo de cualquier berlina deportiva rival. Es el sleeper definitivo: nadie espera que el BYD del semáforo desaparezca así.",
       "La física pasa factura: 2.185 kg que se notan en carreteras reviradas, 18,2 kWh/100 km si se aprovecha la potencia y una suspensión blanda para el potencial del chasis. La carga se queda en 150 kW, los mismos que la versión de 313 CV, y no hay frunk. Pero el Excellence no se compra para el circuito: se compra para tener prestaciones de superdeportivo en una berlina discreta y familiar, con un precio que ningún rival europeo puede igualar. El Q-car eléctrico.",
     ],
     veredicto: "Para quien quiere prestaciones brutales sin llamar la atención; los puristas de la dinámica, a otro lado.",
@@ -489,7 +489,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   "byd-seal-u-ev-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Seal U EV es el gemelo eléctrico del superventas híbrido: mismo SUV familiar de 425 litros, pero con 71,8 kWh de batería, bomba de calor y V2L de serie, y 140 kW de carga rápida que lo recargan del 30 al 80 % en 28 minutos. A 43.790 € es la opción para quien quiere dar el salto al eléctrico puro sin renunciar al formato que ya conoce.",
-      "Las prestaciones son discretas —9,3 segundos hasta los 100—, el peso de 2.095 kg y el consumo de 19,9 kWh/100 km no son de récord, y cuesta más que su gemelo híbrido. La dirección es poco comunicativa. Pero para quien tenga claro que su próximo coche es eléctrico y necesite un SUV familiar amplio y equipado, el Seal U EV es la apuesta segura de BYD: sin sorpresas, con garantía de 8 años en la batería y la tranquilidad de un modelo probado.",
+      "Las prestaciones son discretas —9,3 segundos hasta los 100—, el peso de 2.095 kg y el consumo de 19,9 kWh/100 en concreto km no son de récord, y cuesta más que su gemelo híbrido. La dirección es poco comunicativa. Pero para quien tenga claro que su próximo coche es eléctrico y necesite un SUV familiar amplio y equipado, el Seal U EV es la apuesta segura de BYD: sin sorpresas, con garantía de 8 años en la batería y la tranquilidad de un modelo probado.",
     ],
     veredicto: "Quien busque un SUV eléctrico amplio y sin riesgos, este es su coche. Quien busque eficiencia récord: mejor que mire otra cosa.",
   },
@@ -517,7 +517,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   "byd-sealion-7-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Sealion 7 es el rival directo del Tesla Model Y con acento chino: 482 kilómetros de autonomía, 313 CV con tracción trasera, 6,7 segundos hasta los 100 y un maletero de 520 litros más 58 de frunk. La plataforma e-Platform 3.0 con batería Cell-to-Body —la batería forma parte de la estructura— y la carga rápida de 150 kW lo sitúan en la media alta del segmento. A 47.990 €, compite de tú a tú con el americano.",
-      "El consumo de 19,9 kWh/100 km no es de récord, el software tiene traducciones mejorables, la banqueta trasera es algo baja y el techo panorámico no se abre. El valor de reventa está por demostrar. Pero el Sealion 7 tiene un argumento que el Model Y no ofrece: equipamiento más completo de serie y un interior menos espartano. Para quien dude entre los dos, la decisión es de filosofía: minimalismo californiano o abundancia china.",
+      "El consumo de 19,9 kWh asimismo/100 km no es de récord, el software tiene traducciones mejorables, la banqueta trasera es algo baja y el techo panorámico no se abre. El valor de reventa está por demostrar. Pero el Sealion 7 tiene un argumento que el Model Y no ofrece: equipamiento más completo de serie y un interior menos espartano. Para quien dude entre los dos, la decisión es de filosofía: minimalismo californiano o abundancia china.",
     ],
     veredicto: "Hecho a medida para quien busca una alternativa al Model Y con más equipo; incompatible con quien priorice la eficiencia máxima.",
   },
@@ -628,7 +628,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "cadillac-vistiq-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Vistiq es el SUV eléctrico de siete plazas más potente de General Motors: 615 CV, 880 Nm y un 0 a 100 en 3,9 segundos con más de 2,7 toneladas. La batería de 102 kWh ofrece unos 480 kilómetros EPA con carga rápida de 190 kW, y las tres filas tienen lujo de verdad en todas ellas. A unos 72.000 €, es el superlujo familiar eléctrico americano.",
+      "El Vistiq es el SUV eléctrico de siete plazas más potente de General Motors: 615 CV, 880 Nm y un 0 a además 100 en 3,9 segundos con más de 2,7 toneladas. La batería de 102 kWh ofrece unos 480 kilómetros EPA con carga rápida de 190 kW, y las tres filas tienen lujo de verdad en todas ellas. A unos 72.000 €, es el superlujo familiar eléctrico americano.",
       "No se vende en Europa, mide 5,22 metros y el consumo ronda los 21 kWh/100 km. La autonomía real en autopista baja de los 400 kilómetros. Pero el Vistiq define un segmento: el SUV familiar eléctrico sin complejos, donde las siete plazas no están reñidas con las prestaciones ni con el lujo de verdad. Mientras Europa ofrece siete plazas eléctricas con cuentagotas, GM las sirve con 615 CV. Otra liga, otro continente, otra forma de entender la familia numerosa sobre ruedas: grande, rápida y eléctrica.",
     ],
     veredicto: "Comprador ideal: familias americanas numerosas sin renuncia a prestaciones; comprador imposible: el europeo.",

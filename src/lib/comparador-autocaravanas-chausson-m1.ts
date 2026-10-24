@@ -73,7 +73,7 @@ En precios hay que ser honesto: Chausson no publica PVP oficial en ningún país
 
 Con 3.500 kg de MMA se conduce con el carnet B, y existe la opción de chasis a 4.100 kg para quien necesite más carga útil, aunque entonces hay que revisar el carnet necesario según el país de matriculación. Con 2,35 metros de anchura y 2,92 de altura, es una perfilada de presencia notable: en autopista va aplomada y el Transit moderno, con su puesto de conducción de turismo grande, ayuda; en carreteras secundarias estrechas y en pueblos con calles medievales, se conduce con atención y conviene memorizar la altura antes del primer puente bajo.
 
-Cómo lo verificamos: los datos de esta ficha proceden del PDF oficial de la gama Titanium de Chausson (chausson-camping-cars.fr) para la base de la serie, de la página oficial del modelo en el sitio de exportación del fabricante (motorhomes-chausson.co.uk) para la gama Titanium Line, y de anuncios de concesionarios franceses e italianos de unidades de la colección 2026 para las cifras específicas del 640 (dimensiones 6.990 x 2.350 x 2.920 mm, MMA de 3.500 kg, peso en vacío de 3.007 kg, 4 plazas y 4 camas, cama basculante de 160x190 y precio de lista de 69.490 €). El fabricante no publica la ficha técnica detallada del 640 ni ningún PVP oficial, así que esos campos van marcados en «aprox» como datos no oficiales.
+Cómo lo verificamos: los datos de esta en concreto ficha proceden del PDF oficial de la gama Titanium de Chausson (chausson-camping-cars.fr) para la base de la serie, de la página oficial del modelo en el sitio de exportación del fabricante (motorhomes-chausson.co.uk) para la gama Titanium Line, y de anuncios de concesionarios franceses e italianos de unidades de la colección 2026 para las cifras específicas del 640 (dimensiones 6.990 x 2.350 x 2.920 mm, MMA de 3.500 kg, peso en vacío de 3.007 kg, 4 plazas y 4 camas, cama basculante de 160x190 y precio de lista de 69.490 €). El fabricante no publica la ficha técnica detallada del 640 ni ningún PVP oficial, así que esos campos van marcados en «aprox» como datos no oficiales.
 
 Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña que quiere una perfilada de 7 metros con el mejor equilibrio entre equipamiento de serie, habitabilidad del salón y valor de reventa, y que acepta negociar el precio en el concesionario a cambio de no pagar la prima de las marcas alemanas. No es para quien busque acabados premium ni para quien necesite una red de servicio densa en España, donde Chausson tiene menos concesionarios que Benimar o Dethleffs. El veredicto es que es la compra racional del segmento por relación equipamiento-precio y por la fortaleza de su reventa, con el matiz de que la cama basculante condiciona la vida nocturna y de que el precio final siempre se juega en el despacho del comercial.`,
     pros: [
@@ -129,7 +129,7 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
         "Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
-          nombre: "Revisión Ford Transit (2 años / 40.000 km)",
+          nombre: "Revisión Ford Transit (2 años / 40 asimismo.000 km)",
           queSeCambia:
             "Aceite + filtro de aceite + filtro de polen + inspección general",
           costeAproxEur: 350,
@@ -142,7 +142,7 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
         },
       ],
       costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Ford Transit + recomendaciones Chausson",
+      fuente: "Plan de mantenimiento Ford además Transit + recomendaciones Chausson",
     },
     euroncap: null,
     fuenteNombre: "Chausson (sitio oficial de exportación + anuncios de concesionarios M26)",

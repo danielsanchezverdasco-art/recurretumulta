@@ -1476,7 +1476,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 de hecho meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1514,7 +1514,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
-    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con coste anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
+    pros: ["Precio desde 2.490 € en esta ficha 2025: una de las formas más baratas de estrenar una custom de 125 cc con marchas en España.", "Se puede llevar con el carnet A1 en concreto y también con el B con más de tres años de experiencia, según la ficha, lo que amplía mucho su público.", "Custom moderna y diferenciada: frente a la Superlight, más clásica y cromada, la K-Light apuesta por una silueta musculosa, escape corto e instrumentación digital de una sola esfera.", "Mantenimiento claro y contenido: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses, con coste anual aproximado de 160 € recogido en la ficha.", "Etiqueta C de la DGT y planteamiento pensado para ciudad y paseos tranquilos, sin complicaciones electrónicas innecesarias."],
     contras: ["Con 10,6 CV está en la parte baja de las 125: en vías rápidas y adelantamientos hay que planificar con margen, no es una moto para viajar cargado.", "No lleva ABS: recurre a frenada combinada entre ambos discos al accionar el pedal, una solución más básica que exige anticipación al frenar.", "La segunda plaza es más un recurso para trayectos cortos que una invitación a viajar a dúo; en salidas largas el pasajero lo notará.", "Acabados y equipamiento acordes a su precio: quien busque conectividad, ayudas electrónicas o materiales de gama superior tendrá que mirar más arriba."],
     curiosidades: ["Monta una combinación poco habitual en una 125: llanta de 17 pulgadas delante y de 15 pulgadas detrás, con un neumático trasero ancho que refuerza su imagen custom.", "Comparte mecánica con la Superlight 125, pero se distingue por detalles como los amortiguadores traseros con botella de gas separada y el soporte de matrícula sobre la rueda trasera."],
     imagen: "/media/keeway-k-light-125-2025-ficha-tecnica-precio-oficial.webp",
@@ -1538,7 +1538,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses asimismo (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1600,7 +1600,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 además meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1662,7 +1662,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o de hecho 12 meses (primera también revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1724,7 +1724,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses por su parte (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1763,7 +1763,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["costeAnualAproxEur"],
     pros: ["Presupuesto de uso cerrado desde la propia ficha: 2.899 € de PVP y un coste anual aproximado de 170 €, con la primera revisión a los 1.000 km por unos 100 € y la de los 4.000 km por unos 160 € según su plan de mantenimiento.", "Puedes estrenarla sin sacarte el A1: la ficha la homologa para ese carnet y también para el B con tres años de antigüedad, lleva dos plazas y viene con la etiqueta C de la DGT.", "La parte campera no es solo el color de la carrocería: los neumáticos de tacos y la pequeña cúpula delantera de serie te dejan salir a una pista de tierra el fin de semana sin pasar antes por un taller a montar nada.", "Mecánica deliberadamente simple en pleno 2025: monocilíndrico de 125 cc refrigerado por aire, con inyección electrónica y homologación Euro5, sin radiador que vigilar, y con la frenada a elegir entre ABS y frenada combinada CBS."],
-    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: primera revisión a los 1.000 km y después cada 4.000 km o 12 meses. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
+    contras: ["No aprovecha el techo del A1: declara 8,1 kW (11 CV) frente a los 11 kW que permite ese carnet, y esa diferencia se paga en autovía, con viento de cara o subiendo un puerto, donde toca bajar de marcha y armarse de paciencia.", "El plan de mantenimiento que trae la ficha es corto de intervalo: primera revisión a los de hecho 1.000 km y después cada 4.000 km o 12 meses. Si haces 12.000 km en un año, son tres visitas al taller en ese periodo, aunque cada una salga barata.", "Los tacos que luce en las fotos son su compromiso más claro: en asfalto seco cumplen, pero sobre pintura mojada, pasos de peatones o rotondas con lluvia agarran menos que un neumático de carretera y obligan a frenar y a tumbar con más margen.", "Cuadro y equipamiento de otra época, a propósito: instrumentación minimalista que combina lo analógico con una pequeña pantalla digital, sin modos de conducción, sin control de tracción y sin conectividad para el móvil."],
     curiosidades: ["La Felsberg tuvo una hermana mayor con el mismo apellido: la Felsberg 250, con horquilla invertida y escape en forma de S, que la prensa de la época anunciaba por 3.899 €, mil euros más que esta 125."],
     imagen: "/media/brixton-felsberg-125-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1786,7 +1786,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses en concreto (primera en concreto revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1848,7 +1848,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses asimismo (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1910,7 +1910,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión a además los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1972,7 +1972,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión a los 1 también.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2034,7 +2034,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "3.000 km (primera revisión a los 1.000 km)",
+      intervalo: "3.000 km (primera revisión a los por su parte 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2134,7 +2134,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: ["potenciaCv", "costeAnualAproxEur"],
-    pros: ["Motor Minarelli de cuatro tiempos con distribución variable VVA, refrigeración líquida e inyección electrónica: entrega los 15 CV (11 kW) que esta ficha registra, justo en el techo del carnet A1, con cambio de seis velocidades y arranque eléctrico.", "Ruedas de enduro de verdad, no de trail asfáltica disfrazada: 21 pulgadas delante y 18 detrás, con neumáticos 90/90-21 y 110/80-18 pensados para superar roderas y piedras donde una llanta de 17 pulgadas se quedaría clavada.", "Frenada por encima de lo habitual en una 125 de campo: disco wave de 300 mm con pinza radial de cuatro pistones delante y disco wave de 200 mm detrás, según la ficha técnica oficial de Rieju.", "Chasis de doble viga perimetral en acero de alta resistencia con subchasis trasero desmontable, horquilla invertida de 40 mm y monoamortiguador trasero: si doblas el subchasis en una caída por pistas, se desmonta y se sustituye sin tocar el chasis principal.", "En esta ficha de 2025 sale por 3.999 euros con dos plazas, etiqueta C de la DGT y acceso con el A1 o con el carnet B y tres años de antigüedad: es la puerta de entrada al enduro sin pasar por el carnet A2."],
+    pros: ["Motor Minarelli de cuatro tiempos con distribución variable VVA, refrigeración líquida e inyección electrónica: entrega los 15 CV (11 kW) que esta ficha registra, justo en el techo del carnet A1, con cambio de seis velocidades y arranque eléctrico.", "Ruedas de enduro de verdad, no de trail asfáltica disfrazada: 21 pulgadas delante y 18 detrás, con neumáticos 90/90-21 y 110/80-18 pensados para superar roderas y piedras donde una llanta de 17 pulgadas se quedaría clavada.", "Frenada por encima de lo habitual en una 125 de campo: disco wave de 300 mm con pinza de hecho radial de cuatro pistones delante y disco wave de 200 mm detrás, según la ficha técnica oficial de Rieju.", "Chasis de doble viga perimetral en acero de alta resistencia con subchasis trasero desmontable, horquilla invertida de 40 mm y monoamortiguador trasero: si doblas el subchasis en una caída por pistas, se desmonta y se sustituye sin tocar el chasis principal.", "En esta ficha de 2025 sale por 3.999 euros con dos plazas, etiqueta C de la DGT y acceso con el A1 o con el carnet B y tres años de antigüedad: es la puerta de entrada al enduro sin pasar por el carnet A2."],
     contras: ["El depósito oficial es de solo 6 litros: en una salida larga por pistas toca planificar la gasolina con mucha más antelación que en una trail 125 con depósito grande, porque fuera del asfalto no siempre hay una estación cerca.", "El sillín queda a 876 mm según la ficha oficial de Rieju y es estrecho, como manda el enduro: quien mida poco llegará de puntillas en parado y quien haga carretera enlazando pistas notará la dureza a la media hora.", "La propia ficha de equipamiento de Rieju marca «No» en protector de cárter y en protector de manos: para hacer campo en serio, esas dos protecciones son la primera compra extra, no un accesorio decorativo.", "Su plan de mantenimiento pide revisiones cada 3.000 km o 12 meses, con la primera ya a los 500 km: usándola a diario, pasarás por el taller con más frecuencia que con una naked 125 de intervalos largos."],
     curiosidades: ["El nombre Marathon no se inventó para esta 125 moderna: AventuraTrail sitúa el nacimiento de la primera Rieju Marathon en 1978 como moto polivalente para ciudad y caminos, y hoy figura entre las clásicas de la marca más buscadas para restaurar en España.", "La ficha oficial de la Marathon declara escape de inox e intermitentes LED, pero mantiene la instrumentación digital sin conectividad de serie: en la web actual de Rieju, el sistema Rieju Connect con localización GPS aparece marcado como opcional."],
     imagen: "/media/rieju-marathon-125-europe-2025-ficha-tecnica-precio-oficial.webp",
@@ -2547,7 +2547,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Horwin España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No utiliza aceite de motor al ser eléctrica; emplea únicamente lubricante específico para cadena de transmisión, nunca aceite de motor de combustión", "cadenaPasos": ["Apoya el scooter sobre el caballete central con el contacto apagado y, por seguridad, retira la batería extraíble antes de manipular la transmisión", "Gira la rueda trasera con la mano y revisa que ningún eslabón esté agarrotado, oxidado o con holgura desigual a lo largo del recorrido", "Limpia la cadena con cepillo suave y desengrasante específico para cadenas, evitando chorro a presión directo sobre rodamientos y componentes eléctricos", "Seca por completo con un paño sin pelusa y deja actuar unos minutos antes de aplicar el lubricante para que no salpique al rodar", "Aplica lubricante para cadena en la cara interior, en pequeñas dosis, mientras giras la rueda despacio hasta completar toda la vuelta", "Comprueba la tensión en el punto medio del ramal inferior y, si notas destensado anómalo o ruidos metálicos, acude a taller oficial en lugar de tensar sin útil adecuado"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente Manual oficial Horwin España; entre revisiones, control visual mensual de frenos, neumáticos, luces y transmisión", "trucos": ["Recarga el acumulador en un enchufe doméstico tras cada jornada en lugar de apurarlo hasta vaciarlo: cuidarás mejor sus 2,6 kWh útiles a largo plazo", "Si instalas el segundo acumulador perderás el hueco para el casco, así que valora top case si necesitas guardar equipación a diario", "Vigila el nivel del líquido de frenos y el grosor de pastillas en cada control mensual, porque el sistema CBS reparte la frenada pero no avisa del desgaste", "Limpia el scooter con paño húmedo y contacto apagado, sin hidrolimpiadora sobre pantalla, controlador FOC ni conectores de la batería", "Revisa presiones en frío con frecuencia: en un scooter ligero y eléctrico, una presión baja se nota enseguida en autonomía y estabilidad"]},
+    mantenimientoDIY: {"aceiteTipo": "No utiliza aceite de motor al ser eléctrica; emplea únicamente lubricante específico para cadena de transmisión, nunca aceite de motor de combustión", "cadenaPasos": ["Apoya el scooter sobre el caballete central con el contacto apagado y, por seguridad, retira la batería extraíble antes de manipular la transmisión", "Gira la rueda trasera con la mano y revisa que ningún eslabón esté agarrotado, oxidado o con holgura desigual a lo largo del recorrido", "Limpia la cadena con cepillo suave y desengrasante específico para cadenas, evitando chorro a presión directo sobre rodamientos y componentes eléctricos", "Seca por completo con un paño sin pelusa y deja actuar unos minutos antes de aplicar el lubricante para que no salpique al rodar", "Aplica lubricante para cadena en la cara interior, en pequeñas dosis, mientras giras la rueda despacio hasta completar toda la vuelta", "Comprueba la tensión en el punto medio del ramal inferior y, si notas destensado anómalo o ruidos metálicos, acude a taller oficial en lugar de tensar sin útil adecuado"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10 asimismo.000 km en concreto según el plan recogido en la ficha con fuente Manual oficial Horwin España; entre revisiones, control visual mensual de frenos, neumáticos, luces y transmisión", "trucos": ["Recarga el acumulador en un enchufe doméstico tras cada jornada en lugar de apurarlo hasta vaciarlo: cuidarás mejor sus 2,6 kWh útiles a largo plazo", "Si instalas el segundo acumulador perderás el hueco para el casco, así que valora top case si necesitas guardar equipación a diario", "Vigila el nivel del líquido de frenos asimismo y el grosor de pastillas en cada control mensual, porque el sistema CBS reparte la frenada pero no avisa del desgaste", "Limpia el scooter con paño húmedo y contacto apagado, sin hidrolimpiadora sobre pantalla, controlador FOC ni conectores de la batería", "Revisa presiones en frío con frecuencia: en un scooter ligero y eléctrico, una presión baja se nota enseguida en autonomía y estabilidad"]},
   },
   {
     id: "horwin-ek3-2026-ficha-tecnica-precio",
@@ -2761,7 +2761,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Segway España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada 24 meses o 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: es un scooter eléctrico, sin aceite de motor que sustituir ni cadena de transmisión que engrasar", "cadenaPasos": ["Comprobar con regularidad presión, dibujo y posibles cortes en ambos neumáticos, y revisar que las ruedas giren libres sin ruidos", "Revisar pastillas, discos y nivel del líquido de frenos, y acudir al taller si notas tacto esponjoso o pérdida de eficacia", "Mantener limpios y secos los contactos de las dos baterías extraíbles y cargarlas siempre con el cargador suministrado por la marca", "Repasar luces, claxon, caballete, espejos y apriete visible de tornillería, y aplicar las actualizaciones de software cuando la aplicación lo avise", "Cumplir la inspección oficial cada 24 meses o además 10.000 km, con revisión general y actualización de software según el plan de la ficha"], "intervaloMantenimiento": "24 meses o 10.000 km (inspección), según el plan de mantenimiento de la propia ficha basado en el manual oficial de Segway España", "trucos": ["Si la vas a dejar parada una temporada, guárdala con carga parcial y en lugar seco y templado, no completamente descargada", "Alternar el uso de ambas baterías ayuda a que envejezcan de forma pareja y a detectar pronto si una rinde menos", "Una conducción suave, sin acelerones constantes a tope, alarga la autonomía real y cuida frenos y neumáticos"]},
   },
   {
     id: "bmw-ce-04-2026-ficha-tecnica-precio",
@@ -2948,7 +2948,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados por igual para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor: es eléctrica y no hay lubricante del propulsor que cambiar; el único fluido con renovación programada es el líquido de frenos, cada 12 meses según el manual", "cadenaPasos": ["Antes de cada salida, echa un vistazo a la correa buscando cortes, grietas o dientes dañados y retira cualquier piedrecilla incrustada", "Límpiala solo con agua y un cepillo suave, déjala siempre seca y lejos de grasas o aceites, que degradan el carbono", "Mide la tensión con la app gratuita Gates Carbon Drive acercando el móvil y pulsando la correa como indica el manual", "Si ajustas la tensión, afloja el eje trasero y mueve ambos lados por igual para mantener la rueda alineada, reapretando después al par indicado", "Apunta la sustitución preventiva a los 37.000 km aunque visualmente parezca sana: es el límite que fija el manual del propietario"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o además 10.000 km también según consta en la propia ficha (fuente: manual Zero); el manual del propietario añade cambio de líquido de frenos cada 12 meses y sustitución de la correa a los 37.000 km", "trucos": ["Si va a dormir más de un mes, no la dejes por debajo del 30 % de carga y al despertarla programa una recarga completa de 24 horas, como recomienda el manual", "Revisa nivel de líquido de frenos y presión de neumáticos en cada inspección casera: en una eléctrica son el mantenimiento real del día a día", "Sin embrague, sin marchas y sin aceite, tu rutina se reduce a correa, frenos, neumáticos y actualizaciones de software mediante Cypher"]},
   },
   {
     id: "zero-fx-2026-ficha-tecnica-precio",
@@ -3074,7 +3074,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Zero Motorcycles España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10.000 km según el plan recogido en la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: motor eléctrico sin aceite de motor ni filtro de aceite que sustituir; tampoco lleva cadena que engrasar, la transmisión final es por correa", "cadenaPasos": ["Con la moto apagada y en frío, observa la correa por ambos lados buscando cortes, deshilachados, dientes dañados o suciedad acumulada", "Retira polvo y restos con un paño seco o aire suave; mantén correa y piñones alejados de grasas, aceites y disolventes", "Comprueba la tensión siguiendo el manual de Zero, por ejemplo con la aplicación Gates Carbon Drive citada en su documentación, y deja el ajuste fino al taller si sale de rango", "Mira el grosor visible de las pastillas y el nivel del líquido de frenos por la mirilla, sin abrir el circuito hidráulico", "Revisa presiones y dibujo de los neumáticos, tornillería accesible a simple vista y funcionamiento de luces antes de salir"], "intervaloMantenimiento": "Inspección oficial cada 24 meses o 10 también.000 por su parte km según el plan recogido en la ficha con fuente en el manual oficial Zero; entre visitas, control visual frecuente en casa de correa, frenos y neumáticos, sin tocar el sistema de alta tensión", "trucos": ["Evita guardarla largos periodos con la batería muy baja y sigue las indicaciones del manual sobre estado de carga durante el almacenamiento", "Carga habitualmente en enchufe doméstico y reserva la recarga rápida opcional de hasta 12,6 kW para cuando hagas muchos kilómetros seguidos", "Si notas chirridos, tirones o marcas anómalas en la correa, no apliques lubricantes de cadena: acude a un servicio oficial Zero"]},
   },
   {
     id: "energica-eva-ribelle-2025-ficha-tecnica-precio",
@@ -3304,7 +3304,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "6.000 km o 12 de hecho meses (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3366,7 +3366,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "6.000 km o 12 meses (primera en concreto revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3404,7 +3404,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carga: "Dos baterías extraíbles de 72 V; recarga en unas 5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
     aprox: ["costeAnualAproxEur"],
-    pros: ["En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto", "Puedes llevarlo con el A1 o con el B de más de tres años: sus 8,8 CV y la etiqueta Cero juegan a su favor en ciudad", "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin depender de un garaje con punto fijo", "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia", "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"],
+    pros: ["En esta versión 2026 su punta de 100 km/h le permite salir de la ciudad y rodar por circunvalaciones sin quedarse corto", "Puedes llevarlo con el A1 o con el B de más de asimismo tres años: sus 8,8 CV y la etiqueta Cero juegan a su favor en ciudad", "Las dos baterías extraíbles de 72 V se recargan en casa en unas 5 horas, sin depender de un garaje con punto fijo", "El cuadro de instrumentos a color se configura a gusto del conductor y el faro con aro luminoso aporta identidad propia", "Lleva localización por GPS y bloqueo electrónico del manillar desde la aplicación, un plus cuando duerme en la calle"],
     contras: ["Los 75 km declarados se quedan cortos si encadenas varios trayectos largos en un mismo día", "Cuesta 4.999 euros, cifra que ya invita a mirar alternativas térmicas equivalentes con depósitos mucho mayores", "En báscula marca 128 kg, algo que se nota al maniobrar despacio o al aparcar en pendiente", "Bajo el asiento manda la segunda batería, por lo que el espacio para guardar un casco queda muy limitado", "La frenada combinada CBS y la regeneración no compensan la ausencia de ABS y de control de tracción"],
     curiosidades: ["Antes de aparecer la familia NQiX, ningún otro modelo de la casa ofrecía tanta potencia como este Evo", "Su propulsor eléctrico, suministrado por Bosch, entrega 6,5 kW y por eso se homologa en la categoría equivalente a 125", "Con el programa E-Save activado, la velocidad queda limitada a 45 km/h a cambio de exprimir cada carga al máximo", "Su debut tuvo lugar en Milán, durante el salón EICMA, compartiendo escenario con el prototipo RQi de la marca"],
     imagen: "/media/niu-mqi-gt-evo-2026-ficha-tecnica-precio-oficial.webp",
@@ -3502,7 +3502,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Niu España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en ambos neumáticos, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial cada 24 meses o 10.000 km, lo que antes ocurra, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a estar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: scooter eléctrico sin aceite de motor, sin bujías ni filtro de aire de combustión y sin cadena que engrasar; el líquido de frenos y las pastillas se revisan y sustituyen solo según desgaste en la inspección oficial", "cadenaPasos": ["Con la moto apagada y sobre una superficie plana, extrae los dos acumuladores y examina carcasas, asas y contactos buscando golpes, humedad o suciedad acumulada", "Comprueba presiones, dibujo y posibles cortes en ambos neumáticos, y gira cada rueda en vacío para detectar roces, holguras o ruidos extraños", "Acciona las dos manetas varias veces, revisa el tacto de la frenada, el estado visible de las pastillas y que ninguna luz de freno deje de encenderse", "Enchufa cada batería por separado en una toma doméstica con su cargador original y verifica que el proceso termina dentro del margen de 3 a 6 horas indicado en la ficha", "Pasa un paño suave y seco por el compartimento de las baterías y por los bornes, sin usar agua a presión en esa zona ni en el puerto de carga", "Abre la aplicación de la marca, consulta avisos y diagnóstico, instala las actualizaciones disponibles y anota fecha y kilometraje de cada control casero"], "intervaloMantenimiento": "Inspección en servicio oficial cada 24 meses o además 10.000 km, lo que antes ocurra, según el plan ya registrado en el propio objeto de esta ficha con fuente Manual oficial NIU España; entre visitas, controles caseros periódicos de frenos, neumáticos, luces y baterías", "trucos": ["Planifica las recargas completas con margen: la ficha sitúa el proceso entre 3 y 6 horas, así que dejarlas enchufadas durante la jornada laboral o por la noche evita quedarte a medias", "Retira siempre los acumuladores antes de lavar el scooter y no vuelvas a enchufar nada hasta comprobar que contactos y puerto están completamente secos", "Si va a estar parado una temporada, guárdalo en un lugar seco y ventilado y revisa el nivel de carga de ambos packs antes de volver a circular", "Lleva un registro sencillo con presiones, frenos y cualquier aviso de la aplicación: llegar a la inspección oficial de los 24 meses o 10.000 km con ese historial facilita detectar desgastes anómalos"]},
   },
   {
     id: "niu-nqi-gts-2025-ficha-tecnica-precio",
@@ -3565,7 +3565,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial NIU España",
     },
-    mantenimientoDIY: {"aceiteTipo": "No aplica: propulsión eléctrica sin aceite de motor ni bujías de encendido. El líquido de frenos se inspecciona en cada revisión y se sustituye cada 2 años; los latiguillos hidráulicos se renuevan cada 4 años, según el manual", "cadenaPasos": ["Comprueba presión y dibujo de ambos neumáticos y busca cortes o un desgaste irregular", "Revisa el funcionamiento de luces, intermitentes, claxon y mandos antes de salir", "Controla el estado del líquido de frenos y el grosor de las pastillas en ambas ruedas", "Aprieta la tornillería accesible de manillar, ejes y soportes si notas holguras o vibraciones", "Limpia y lubrica el caballete lateral y el central, tal como prevé la tabla oficial", "Inspecciona baterías, cables visibles y puño del acelerador; ante cualquier fallo, acude al servicio oficial"], "intervaloMantenimiento": "Primera inspección tras los 1.000 km iniciales; después, controles cada 3.000 km, revisión más amplia cada 6.000 km y al menos una vez al año (lo que llegue antes), según la tabla del manual de usuario del NQi GTS", "trucos": ["Mantén la carga habitual entre el 20 % y el 80 % para cuidar la batería, consejo recogido en el manual", "Usa siempre el cargador original y carga en un lugar ventilado, nunca con el puerto de carga húmedo", "Evita cargar por debajo de 0 °C y detén la carga si tras 12 horas no se ha completado", "Registra fecha y kilometraje de cada inspección: mantener la garantía exige cumplir el plan previsto"]},
+    mantenimientoDIY: {"aceiteTipo": "No aplica: propulsión eléctrica sin aceite de motor ni bujías de encendido. El líquido de frenos se inspecciona en cada revisión y se sustituye cada 2 años; los latiguillos hidráulicos se renuevan cada 4 años, según el manual", "cadenaPasos": ["Comprueba presión y dibujo de ambos neumáticos y busca cortes o un desgaste irregular", "Revisa el funcionamiento de luces, intermitentes, claxon y mandos antes de salir", "Controla el estado del líquido de frenos y el grosor de las pastillas en ambas ruedas", "Aprieta la tornillería accesible de manillar, ejes y soportes si notas holguras o vibraciones", "Limpia y lubrica el caballete lateral y el central, tal como prevé la tabla oficial", "Inspecciona baterías, cables visibles y puño del acelerador; ante cualquier fallo, acude al servicio oficial"], "intervaloMantenimiento": "Primera inspección tras los 1.000 km iniciales; después, controles cada 3.000 km, revisión más amplia cada 6.000 km y al menos una vez al año (lo que llegue también antes), según la tabla del manual de usuario del NQi GTS", "trucos": ["Mantén la carga habitual entre el 20 % y el 80 % para cuidar la batería, consejo recogido en el manual", "Usa siempre el cargador original y carga en un lugar ventilado, nunca con el puerto de carga húmedo", "Evita cargar por debajo de 0 °C y detén la carga si tras 12 horas no se ha completado", "Registra fecha y kilometraje de cada inspección: mantener la garantía exige cumplir el plan previsto"]},
   },
   {
     id: "silence-s03-2026-ficha-tecnica-precio",
@@ -3751,7 +3751,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 110,
       fuente: "Manual oficial Piaggio España",
     },
-    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en ambos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Mira el nivel del líquido de frenos y el grosor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección cada 24 meses o 10.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, neumáticos, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
+    mantenimientoDIY: {"aceiteTipo": "Sin aceite de motor y sin cadena: es eléctrica, con el motor integrado en la rueda trasera, por lo que no se le aplican las rutinas de un scooter de gasolina", "cadenaPasos": ["Extrae la batería de 15 kg por su asa y revisa que contactos y alojamiento estén limpios, secos y sin holguras", "Comprueba presión, dibujo y posibles cortes en ambos neumáticos, especialmente sensibles por el diámetro de 10 pulgadas", "Mira el nivel del líquido de frenos por su parte y el grosor de las pastillas, y verifica que la frenada no presente tacto esponjoso", "Prueba luces, intermitentes, claxon, pantalla LCD, toma USB y funcionamiento de la marcha atrás con el scooter detenido", "Limpia carrocería y zona del buje trasero con paño húmedo, evitando agua a presión directa sobre batería, conectores y motor", "Recarga en enchufe doméstico de 220 V durante unas 6 horas con el cargador suministrado y guarda la batería fuera de temperaturas extremas"], "intervaloMantenimiento": "Inspección cada 24 meses o 10 de hecho.000 km, según el plan ya recogido en la propia ficha con fuente Manual oficial Piaggio España; entre revisiones, controles caseros periódicos de frenos, neumáticos, luces y batería", "trucos": ["Si vives en un piso sin garaje, la extracción de la batería resuelve la carga: súbela a casa en lugar de buscar un punto público", "Anota cada carga completa y la autonomía real en Sport y en Eco; una caída llamativa respecto a los 66 km WMTC avisa de degradación", "Antes de un bordillo o un bache acusado, reduce velocidad: con rueda de 10 pulgadas el golpe llega mucho más seco al chasis"]},
   },
   {
     id: "cfmoto-300sr-2025-ficha-tecnica-precio",
@@ -4127,7 +4127,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 por su parte meses (primera en concreto revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4205,7 +4205,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (primera revisión a los 1.000 km)",
+      intervalo: "4.000 km o 12 meses asimismo (primera revisión a los 1.000 km)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4753,7 +4753,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Primera revisión a los 1.000 km; después según el plan del manual oficial",
+      intervalo: "Primera revisión a los además 1.000 km; después según el plan del manual oficial",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
