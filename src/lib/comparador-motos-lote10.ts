@@ -72,16 +72,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "qjmotor-fort-250-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el Fort 250",
     },
   },
   // ── BENELLI 302S ─────────────────────────────────────────────────────
@@ -148,16 +148,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "benelli-302s-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Benelli: sin plan de mantenimiento publicado para la 302S",
     },
   },
   // ── AJP PR3 240 ──────────────────────────────────────────────────────
@@ -224,16 +224,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "ajp-pr3-240-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "AJP: sin plan de mantenimiento publicado para la PR3 240",
     },
   },
   // ── RIEJU AVENTURA 500 LEGEND ────────────────────────────────────────
@@ -300,16 +300,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "rieju-aventura-500-legend-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Rieju: sin plan de mantenimiento publicado para la Aventura 500 Legend",
     },
   },
   // ── MACBOR MONTANA XR1 125 EVO ───────────────────────────────────────
@@ -376,16 +376,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "macbor-xr1-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Macbor: sin plan de mantenimiento publicado para la XR1 125",
     },
   },
   // ── WOTTAN STORM-S 300 ───────────────────────────────────────────────
@@ -452,16 +452,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "wottan-storm-s-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Wottan: sin plan de mantenimiento publicado para la Storm-S 300",
     },
   },
 
@@ -605,16 +605,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "mutt-mastiff-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Mutt: sin plan de mantenimiento publicado para la Mastiff 125",
     },
   },
   // ── BULLIT HERO 125 ──────────────────────────────────────────────────
@@ -681,16 +681,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bullit-hero-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Bullit: sin plan de mantenimiento publicado para la Hero 125",
     },
   },
   // ── BLUROC LEGEND 125 ────────────────────────────────────────────────
@@ -757,16 +757,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bluroc-legend-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Bluroc: sin plan de mantenimiento publicado para la Legend 125",
     },
   },
   // ── FB MONDIAL FLEX 300 ──────────────────────────────────────────────
@@ -833,16 +833,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "fb-mondial-flex-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "FB Mondial: sin plan de mantenimiento publicado para la Flex 300",
     },
   },
   // ── FB MONDIAL IMOLA 125 ─────────────────────────────────────────────
@@ -909,16 +909,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "fb-mondial-imola-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "FB Mondial: sin plan de mantenimiento publicado para la Imola 125",
     },
   },
 
@@ -986,16 +986,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bsa-bantam-350-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "BSA: sin plan de mantenimiento publicado para la Bantam 350",
     },
   },
   // ── NORTON V4SV ──────────────────────────────────────────────────────
@@ -1062,16 +1062,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "norton-v4sv-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Norton: sin plan de mantenimiento publicado para la V4SV",
     },
   },
   // ── TM EN 300 ────────────────────────────────────────────────────────
@@ -1138,16 +1138,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "tm-en-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "TM Racing: sin plan de mantenimiento publicado para la EN 300",
     },
   },
   // ── VENT BAJA 125 ────────────────────────────────────────────────────
@@ -1214,16 +1214,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "vent-baja-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Vent: sin plan de mantenimiento publicado para la Baja 125",
     },
   },
   // ── HERO VIDA V1 ─────────────────────────────────────────────────────
@@ -1595,16 +1595,16 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "malaguti-rst-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería",
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "Malaguti: sin plan de mantenimiento publicado para la RST 125",
     },
   },
   // ── BULTACO BRINCO ───────────────────────────────────────────────────
