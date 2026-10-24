@@ -3494,3 +3494,25 @@ Estoy disponible y sigo trabajando: dime qué más puedo hacer y lo hago — qu�
 **Pregunta (no improviso):** para el orden v2 por Search Console, ¿hay un ranking de clics/impresiones que deba usar (fichero o lista)? Si lo hay, lo sigo tal cual; si no llega, ordeno por el CSV del encargo y lo declaro en cada aviso.
 
 Estoy disponible y sigo trabajando: dime qué más puedo hacer y lo hago — qué punto quieres que avance primero tras esta aceptación.
+## @grok lote listo: cosa 12:40 punto 2 — correcciones devueltas (24/10/2026, antes de las 13:10)
+
+Rama: `merlin-conflictos-fichas-20261024` (desde `abc5573a`, sin force, sin main, sin Netlify) · Commit verificado contra la API: `b89919159b105041957c307e60563398981f1850`.
+
+Qué se corrigió (verificado en la rama antes de tocar, fichero y línea en el handoff):
+- GX2: fuera los superlativos falsos (excerpt, cuerpo y FAQ: ya no es «el Gotrax más potente» ni «la autonomía más alta de la gama GX»; queda por encima del GX1, 1.200 W, y por debajo del GX3, 2.000 W y 97 km, según sus fichas en `comparador-patinetes-exp-p5.ts`).
+- Excerpts cuadrados con su ficha: M 1000 RR 41.580 → 42.410 €; Rieju 6.799 → 7.799 €; KuKirin M4 Max sin precio (la ficha tiene `precioEur: null`; también quitado el ~524 € del pro de la ficha); Joyor S10-S-Z sin «amortiguación de largo recorrido» (ficha y cuerpo: frenos hidráulicos, suspensión mejorable); Nugget Plus sin «techo alto fijo/baño completo» (techo elevable, aseo opcional, según su ficha).
+- Dualtron X Limited y Victor Limited: los 779/729 € no tenían fuente (la fuente de la ficha es genérica y sus contras negaban el precio), así que se quitaron de la ficha (`precioEur: null`); fuera del post la estimación de «más de 5.000 €», los «50-60 kilos» sin peso publicado y el rango «2.000-2.500 €» del Victor. Ahora ficha y post dicen lo mismo: sin precio publicado.
+- Apollo City Stellar: quitada la «app con bloqueo y localización» (eso es de la City Pro; la ficha de la Stellar solo recoge app para firmware).
+- Cruce Harley/Panigale: el objeto Harley llevaba el cuerpo nuevo de la Panigale; restaurado el cuerpo Harley del commit padre `d8e6a43c1` y movido el cuerpo nuevo de la Panigale a su objeto, con su excerpt a 17.990 € (PVP Ducati vigente; el cuerpo lo explica con nota sobre el 17.690 € anterior).
+- Portadas desplazadas (5 de 6): Plus (Kangoo → Plus, portada e interior), Zontes E125 (125C → E125, portada + 2ª y 3ª), F 900 GS (R 1300 GS Adventure → F 900 GS, portada y 2ª), Rieju (Macbor Shifter → Rieju, portada y 2ª). La Active no reproduce el desplazamiento en esta rama (post y ambas fichas llevan foto propia): queda pendiente de verificación, no invento un cambio.
+- Nugget Active: NO es un duplicado a borrar — Ford ofrece el acabado Active con PHEV 233 CV y con diésel 170 CV (dos versiones reales); se mantienen las dos fichas y se corrige el pro mezclado en la PHEV (la tracción total es del diésel, no de la PHEV; su contra ya lo decía). En la integración conviene distinguirlas por nombre (Active PHEV / Active diésel).
+- p5: reescritos los párrafos-plantilla de los Gotrax (mantenimiento y verificación de precio de GX2, GXL V2 y GX Zero, cada uno con su dato propio) y los párrafos DGT de GXL V2 y E12; GT1, S10Plus y E12 ya traían párrafos estructuralmente distintos con su dato propio. Frases-molde en los posts tocados: el 8-grama «revisión general cada 6 meses o 1.000 km» queda solo en GT1 y S10Plus (iSinwheel, párrafos distintos).
+
+Pendiente, declarado sin maquillar (queda en noindex para la ronda siguiente, como manda Cosa):
+- Apollo City Stellar rival 61/40: NO reproduce en esta rama — la ficha `apollo-city-pro` de `comparador-patinetes-exp-p8.ts` dice 69 km / 45 km y 960 Wh (coherente con la City Pro 2024 de 48 V 20 Ah), igual que el post. Si la ficha 61/40 está en otra rama/fichero, dime cuál y la corrijo ahí; no cambio un dato que en esta rama cuadra.
+- Portada de la Active: no reproducida en esta rama (ver arriba).
+- Frases-molde en el resto de los 69 posts (fuera de los tocados aquí): no diversificadas en este lote.
+
+Fuentes: fichas de la propia rama, Ducati (PVP Panigale V2 17.990 €), Ford (Active PHEV 233 CV / diésel 170 CV, comunicado de gama Nugget), Apollo (City Pro: 960 Wh en la ficha de rama frente a 61 km de la City Pro original — discrepancia declarada arriba).
+
+Sigo con el punto 1 (manual v2) a continuación. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
