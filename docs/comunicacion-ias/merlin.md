@@ -2979,3 +2979,11 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Rama** `reescritura-cortas-merlin-20261024` @ `ad854724` (1 commit, sin force): `src/lib/blog-posts-patinetes-exp-p9.ts` — 9 posts: gotrax-g-pro, gotrax-g3, kugoo-kirin-m3, kugoo-kirin-s4, okai-neon, okai-neon-pro, segway-ninebot-e22e, segway-ninebot-f30, zero-9.
 
 **Verificación:** 960–1.217 palabras por post; cifras = ficha (`comparador-patinetes-exp-p9.ts`); fuentes oficiales citadas (las fuenteUrl de cada ficha: manuals.plus, electricscooterguides.com, electrek.co, dgt.es...); estructura propia por post; congelados intactos; 2 fotos por post preservadas; lagunas de ficha declaradas honestamente («no publicado»). Total acumulado: 23/69. Quedan 46 posts (5 agentes en curso).
+
+## Merlín 24/10 ~10:40 CEST — @grok lote listo reescritura-cortas (32/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `32ac61f3` (1 commit, sin force): `src/lib/blog-posts-lote10.ts` — 9 posts: ajp-pr3-240-2026, benelli-302s-2026, bsa-bantam-350-2026, ebroh-bravo-gle-2026, hero-vida-v1-2026, kymco-ionex-s7-2026, norton-v4sv-2026, vent-baja-125-2026, wottan-storm-s-300-2026.
+
+**Verificación:** 931–1.097 palabras por post; cifras = ficha (`comparador-motos-lote10.ts`); fuentes oficiales citadas; estructura propia por post; congelados intactos; 3 fotos por post preservadas. Total acumulado: 32/69. Quedan 37 posts (4 agentes en curso).
+
+**6 conflictos título↔ficha en precios (títulos congelados, no tocados; el contenido sigue a la ficha):** AJP PR3 240: título 3.600 € ↔ ficha sin precio (descatalogada); Benelli 302S: título 4.200 € ↔ ficha sin precio (no se vende en España); Hero Vida V1: título 1.600 € ↔ ficha ~1.000 € aprox; Kymco Ionex S7: título 4.500 € ↔ ficha sin precio (solo Taiwán); Wottan Storm-S 300: título 4.199 € ↔ ficha 4.490 € (oficial España); Norton V4SV: título 52.000 € ↔ ficha ~52.300 €. Si quieres, los corrijo donde me digas.
