@@ -558,5 +558,85 @@
   "intro": "NIO organiza su gama con dos letras: ET para berlinas y EL para SUV, más EC para los SUV coupé. El ET5 y el ET5 Touring, con sus versiones Standard Range, son la berlina de acceso, y el ET7 y el ET9 suben hacia la berlina de representación. En SUV, el EL6 y el EL7, también en Standard Range, y el EL8 cubren tres tamaños, mientras el EC6 y el EC7 aportan la silueta coupé. El ES8 y el ES9 completan la parte alta, y el EP9 recuerda el hiperdeportivo eléctrico con el que la marca se dio a conocer. El Firefly es la apuesta pequeña y urbana del grupo. Standard Range o gran autonomía: esa es la primera decisión en un NIO, antes incluso que el tamaño de la carrocería. La segunda es elegir entre berlina ET, SUV EL o SUV coupé EC según el uso diario y el presupuesto disponible.",
   "n": 18,
   "url": "/coches/marca/nio/"
+ },
+ "motos/harley-davidson": {
+  "nombre": "Harley-Davidson",
+  "title": "Harley-Davidson: 18 motos, de Sportster a CVO",
+  "description": "18 fichas técnicas de motos Harley-Davidson: Sportster S, Street Glide y Pan America, con motor y precio.",
+  "intro": "Harley-Davidson sigue siendo sinónimo de custom americano, pero su catálogo actual va más allá de la imagen clásica. El Sportster S y la familia Nightster, con la Nightster Special, son la entrada al mundo Sportster, mientras el Street Bob 114, el Fat Boy y el Breakout representan el custom grande de rueda gorda y presencia. El Low Rider S y el Low Rider ST añaden el toque club style, y el Heritage Classic y el Road King Special mantienen la tradición touring. La familia Glide es la rutera: Road Glide, Street Glide, Street Glide Ultra y las versiones CVO Street Glide y CVO Road Glide en lo alto. Y la Pan America 1250, en Special y ST, demuestra que Harley también sabe hacer trail. Una Nightster y una CVO Street Glide comparten marca y poco más: cilindrada, peso, equipamiento y precio las separan por completo, y esa distancia es la que ordena el catálogo.",
+  "n": 18,
+  "url": "/motos/marca/harley-davidson/"
+ },
+ "motos/kymco": {
+  "nombre": "Kymco",
+  "title": "Kymco: 18 scooters y maxiscooters",
+  "description": "18 fichas técnicas de motos Kymco: Agility S 125, DTX 350 y AK 550, con motor, versiones y precio.",
+  "intro": "Kymco es la marca de scooter por excelencia para muchos usuarios españoles, y su gama cubre del 125 urbano al maxiscooter de 550. El Agility S 125, el Agility NX 125, el People S 125 y el SkyTown 125 son la base urbana, con el carnet de coche como gran aliado. El Super Dink GT 125 y el Super Dink GT 350 suben hacia el scooter de carretera, junto al Downtown 350 y el Xciting VS 400. La familia DTX, con el DTX 125, el DTX 350 y el DTX 360, añade el estilo crossover con ruedas mixtas. El AK 550 y el AK 550 Premium coronan la gama como maxiscooter deportivo, y el Ionex S7 representa la apuesta eléctrica. Un Agility S 125 se mueve por ciudad con carnet de coche; un AK 550 pide autopista y carnet A. Entre ambos, la familia DTX y la Super Dink cubren la carretera sin llegar al maxiscooter grande.",
+  "n": 18,
+  "url": "/motos/marca/kymco/"
+ },
+ "patinetes/hiboy": {
+  "nombre": "Hiboy",
+  "title": "Hiboy: 18 patinetes, de S2 a Titan Pro",
+  "description": "18 fichas de patinetes eléctricos Hiboy: S2, S2 Pro y Titan Pro, con autonomía, velocidad y precio.",
+  "intro": "Hiboy construye su gama alrededor de la familia S2, y entenderla es entender la marca. El S2 es la base urbana, el S2 Pro y el S2 Max suben en autonomía y equipamiento, y el S2R y el S2R Plus añaden variantes con más alcance. El KS4 y el KS4 Pro cubren un escalón intermedio, y el Max3 y el MAX V2 son opciones compactas para trayectos cortos. La línea NEX, con el NEX3 y el NEX5, apunta a más autonomía sin subir mucho de precio, y el ECOM 14 añade un modelo con asiento para un uso distinto. El Titan Pro es el tope de gama, con la mayor autonomía del catálogo. Para elegir conviene fijarse en tres datos: autonomía real, peso y si el modelo lleva asiento o suspensión. Dentro de la familia S2, el salto del S2 al S2 Max se nota en autonomía; el salto al Titan Pro, en todo lo demás.",
+  "n": 18,
+  "url": "/patinetes/marca/hiboy/"
+ },
+ "patinetes/iscooter": {
+  "nombre": "iScooter",
+  "title": "iScooter: 18 patinetes eléctricos asequibles",
+  "description": "18 fichas de patinetes eléctricos iScooter: i9, i10 e iX5, con autonomía, velocidad y precio para elegir.",
+  "intro": "iScooter se ha hecho popular por ofrecer patinetes baratos con buena autonomía, y su gama se ordena por series numeradas. La serie i9 es la de entrada: i9, i9 Pro y i9Max, con el i9 Pro como equilibrio entre precio y alcance. La serie i10 sube un punto con el i10, el i10 Pro y el i10 Max, pensados para trayectos diarios más largos. El i12 es una opción intermedia, y el iF1 y el DX5 completan la zona media. La serie iX es la de mayor ambición: iX3, iX5, iX5S, iX6 e iX8, con más potencia y autonomía para quien rueda mucho. La pregunta clave es cuántos kilómetros haces al día y cuánto pesa el patinete al plegarlo, porque la diferencia entre un i9 y un iX8 es grande en ambos datos. Un i9 sirve para el barrio; un iX8, para media ciudad cada día. La serie marca la distancia, no solo el precio.",
+  "n": 18,
+  "url": "/patinetes/marca/iscooter/"
+ },
+ "coches/alpine": {
+  "nombre": "Alpine",
+  "title": "Alpine: 17 deportivos, de A110 a A390",
+  "description": "17 fichas técnicas de coches Alpine: A110, A290 y A390, con motores, versiones y precio de la gama.",
+  "intro": "Alpine ha pasado de ser la marca del A110 a tener una gama eléctrica completa, y este listado recoge ese cambio. El A110 sigue siendo el corazón: versión de 252 CV, S, GTS, R, R 70 y R Ultime, con el peso ligero como argumento principal. El A290 traslada el espíritu Alpine al urbano eléctrico, con versiones GT, GT Premium, GT Performance, GTS, GTS Premiere Edition y Rallye. El A390 da el salto al SUV coupé eléctrico, con versiones GT y GTS. La comparación entre un A110 y un A290 no es solo de motor: es elegir entre combustión ligera y eléctrico urbano, entre coche de fin de semana y coche de diario con carácter. El A110 pesa poco y corre mucho; el A290 pesa más y consume electricidad. La nostalgia empuja al primero y el uso diario al segundo, pero ambos llevan el mismo espíritu de coche ligero y divertido.",
+  "n": 17,
+  "url": "/coches/marca/alpine/"
+ },
+ "coches/changan": {
+  "nombre": "Changan",
+  "title": "Changan: 17 coches, de UNI-K a Deepal S07",
+  "description": "17 fichas técnicas de coches Changan: UNI-K, UNI-V y Deepal S07, con motores, versiones y precio.",
+  "intro": "Changan agrupa su oferta en la familia UNI, la serie CS y la marca Deepal, y cada una apunta a un comprador distinto. El UNI-K, el UNI-T, el UNI-V y el UNI-Z son los SUV y berlinas de diseño más atrevido, con variantes iDD híbridas enchufables en UNI-K y UNI-V. La serie CS, con el CS35 Plus, el CS55 Plus y el CS75 Plus, cubre el SUV familiar tradicional, junto al Eado Plus, el X5 Plus y el E06. El Lumin y el Benben E-Star son los urbanos eléctricos pequeños, y el Hunter REEV el pick-up con extensor de autonomía. El Deepal S07 y el Nevo Q06 representan la línea eléctrica más moderna del grupo. UNI, CS y Deepal no son simples nombres: son tres formas de entender el coche, desde el diseño llamativo hasta el eléctrico familiar. La sigla iDD o REEV completa el retrato de cada versión. Primero la línea, después el modelo.",
+  "n": 17,
+  "url": "/coches/marca/changan/"
+ },
+ "coches/lamborghini": {
+  "nombre": "Lamborghini",
+  "title": "Lamborghini: 17 superdeportivos y Urus",
+  "description": "17 fichas técnicas de coches Lamborghini: Urus SE, Revuelto y Temerario, con motores y prestaciones.",
+  "intro": "Lamborghini divide su gama entre la herencia del Huracán, los nuevos híbridos V12 y V8, y el Urus como superventas. El Huracán aparece en EVO, EVO Spyder, EVO RWD y EVO RWD Spyder, más el STO, el Tecnica, el Sterrato y el STJ como despedida. El Revuelto toma el relevo del V12 híbrido, y el Temerario hace lo propio en el segmento medio con su V8 híbrido. El Countach LPI 800-4 y el Fenomeno, también en Roadster, son las series especiales que miran al pasado y al futuro a la vez. El Urus, en S, SE, Performante y SE Performante, es el SUV que financia todo lo demás y el más usable a diario. Un Huracán STO y un Urus SE no comparten cliente ni carretera, aunque compartan escudo. El primero busca circuito y el segundo, ciudad con presencia, y el Revuelto queda como puente entre dos épocas. El escudo no basta para elegir.",
+  "n": 17,
+  "url": "/coches/marca/lamborghini/"
+ },
+ "coches/rolls-royce": {
+  "nombre": "Rolls-Royce",
+  "title": "Rolls-Royce: 17 coches de lujo absoluto",
+  "description": "17 fichas técnicas de coches Rolls-Royce: Ghost, Phantom y Spectre, con versiones y equipamiento de lujo.",
+  "intro": "Rolls-Royce no compite en prestaciones ni en precio: compite en silencio, espacio y presencia, y su gama se organiza por modelos con variantes claras. El Ghost, en versión estándar, Extended, Black Badge, Prism y Series II, es la berlina de acceso a la marca. El Phantom y el Phantom Extended, también en Series II, son la berlina de representación por excelencia. El Cullinan y el Cullinan Series II, con sus Black Badge, trasladan ese mundo al SUV. El Spectre, en versión estándar, Black Badge y Series II, es el primer eléctrico de la casa y el que abre la gama hacia el futuro. Y el Droptail es la carrocería especial que muestra el trabajo a medida del departamento Coachbuild. Ghost, Phantom, Cullinan y Spectre se distinguen por tamaño y por uso, no por lujo: todos lo tienen. La pregunta es si el coche lo conducirá su dueño o un chófer.",
+  "n": 17,
+  "url": "/coches/marca/rolls-royce/"
+ },
+ "coches/wuling": {
+  "nombre": "Wuling",
+  "title": "Wuling: 17 eléctricos urbanos y familiares",
+  "description": "17 fichas técnicas de coches Wuling: Hongguang Mini EV, Bingo y Cloud EV, con versiones y precio.",
+  "intro": "Wuling es famosa por el Hongguang Mini EV, el microcoche eléctrico que se hizo viral, pero su gama es mucho más amplia. El Hongguang Mini EV, también en versión Cabrio, sigue siendo el urbano mínimo y barato, y el Bingo, el Bingo S y el Bingo Plus suben hacia un urbano con más espacio. El Air EV y el Cloud, también en Cloud EV, cubren el salto al coche familiar pequeño. La familia Starlight es la de mayor tamaño: Starlight, Starlight EV, Starlight S y Starlight S EV, más el Starlight 730 y el Starlight 730 EV como monovolumen. El Journey, el Zhiguang EV y el Yangguang EV completan la oferta con propuestas comerciales y de reparto. Del Hongguang Mini EV al Starlight 730 hay un salto de tamaño enorme y un mismo planteamiento: eléctrico barato y práctico. El tamaño del garaje y el número de plazas deciden más que la marca.",
+  "n": 17,
+  "url": "/coches/marca/wuling/"
+ },
+ "motos/husqvarna": {
+  "nombre": "Husqvarna",
+  "title": "Husqvarna: 17 motos, de Svartpilen a Norden",
+  "description": "17 fichas técnicas de motos Husqvarna: Svartpilen 401, Norden 901 y Vitpilen 401, con motor y precio.",
+  "intro": "Husqvarna mezcla tres mundos en una sola marca: las naked de diseño escandinavo, las trail de viaje y las de enduro de competición. Las Svartpilen 125, 401 y 801 y las Vitpilen 125, 401 y 801 son las naked y neo-retro para ciudad y carretera, con la 801 como tope de la familia. La Norden 901, también en Expedition y en versión 2026, es la trail para viajar lejos por asfalto y tierra. En campo puro están la FE 350, la FE 450 y la TE 300, además de la 701 Enduro y la 701 Supermoto, que llevan el monocilíndrico grande a la carretera y al circuito de asfalto. Elegir una Husqvarna es elegir primero el terreno: ciudad, viaje o campo, y después la cilindrada. Svartpilen para la ciudad, Norden para viajar y FE para el campo: tres apellidos, tres terrenos y una misma idea de moto ligera y manejable.",
+  "n": 17,
+  "url": "/motos/marca/husqvarna/"
  }
 }
