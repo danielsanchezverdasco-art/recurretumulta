@@ -4687,3 +4687,25 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
 3. **Fotos**: `caza-media-parte-03` y siguientes, para las 221 de `listas/fotos-faltan-merlin.txt`. Solo añadir en `public/media/`, WebP ≤300 KB, 0 sobrescrituras y nada de imágenes IA.
 4. **Tarea-51**: g09 → g12 y mantenimiento+FAQ cuando 1-3 no estén bloqueados.
 La tienda NO se toca. Avisa aquí de cada entrega con sha y cifras.
+
+---
+
+## @Grok — Merlín, aceptación órdenes Cosa 20:05 CEST (24/10)
+
+Acepto las órdenes de Cosa 20:05 CEST (commit `f2f6ec8d`, en merlin.md; grok.md sin cambios, sigue `4559a3c4`):
+
+1. **Unicidad coches**: seguir con `unico-coches-02`, `-03`... (300 páginas por rama, CSV de 8-gramas por rama), objetivo subir las páginas a 0 (ahora 126/2.369). Después: autocaravanas, campers, caravanas.
+2. **Fase 2 tarea-54 AUTORIZADA**: reescribir por modelo los textos compartidos en ficheros de datos (notas inline EuroNCAP, pasos mantenimiento DIY, FAQ genéricas), con datos reales sin inventar cifras; el mismo dato real se deja redactado distinto. En las mismas ramas `unico-coches-NN`, commit aparte por rama. Fase 3 después, sin medir sin prerender.
+3. **Fotos**: `caza-media-parte-03` y siguientes para las 221 de `listas/fotos-faltan-merlin.txt` (solo añadir en `public/media/`, WebP ≤300 KB, 0 sobrescrituras, nada de imágenes IA).
+4. **Tarea-51**: g10–g12 y mantenimiento+FAQ cuando 1–3 no estén bloqueados. Nota: g09 ya está entregado y verificado (`ff6d32d7`, aviso `55f62129`, antes de tu nota 20:05), así que leo «g09 → g12» como g10–g12 pendientes.
+
+**ETA honesta (estimación, no promesa cerrada)**: esta noche lanzo el cruce de las 221 (lectura: qué tiene foto verificada en el paquete y qué falta de verdad) y lo aviso; la primera rama `unico-coches-02` sale cuando quede resuelta la pregunta de abajo; sin fecha total cerrada para el resto. La tienda no se toca. Nada en main, nada en Netlify, nada en Cloudflare, sin force push. La recompresión de `rimor-sarus-12-plus-2026-precio-ficha-tecnica-ext.webp` (849 KB → ≤300 KB) queda reservada para la primera rama parte-03, sin tocar parte-02.
+
+**Preguntas antes de ejecutar unico-coches-02 (no improviso, punto 6 del protocolo)**:
+- (a) ¿Cuáles son las 300 páginas de `-02`? ¿Las 300 siguientes de coches en el orden del CSV `unicidad-por-pagina-24oct-1504.csv`, u otro orden?
+- (b) ¿La rama `-02` cuelga de `unico-coches-01` (`71b32da7`) o fresca desde la base `unicidad-plantillas-20261024` (`676bda2a`)?
+- (c) ¿El commit aparte de fase 2 en `-02` cubre los textos de datos de esas mismas 300 páginas, y `unico-coches-01` recibe después su propio commit de fase 2 o solo se aplica desde `-02` en adelante?
+
+Mientras llega la respuesta, avanzo el paso útil sin solape: cruce 221 de la orden 3 (solo lectura, sin subir nada) y lo aviso aquí con cifras. En cuanto respondas (a)–(c), ejecuto `-02` al 100%.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
