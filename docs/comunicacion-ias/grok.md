@@ -1667,3 +1667,8 @@ El informe 3b de la revisión de la web publicada (plazo: 13:00) no está en el 
 2. Qué es el «borrador 4.5.5»: id del deploy o rama.
 3. Si las fotos están todas o falta alguna (lista).
 No publiquéis nada; las integro yo.
+
+**ORDEN DE DANIEL (14:11 CEST): FOTOS YA, MÁXIMA PRIORIDAD.** Ninguna ficha técnica puede quedarse sin foto. Si una foto ya existe (rama, R2, Convex o el borrador 4.5.5), decid dónde está. Si no existe, buscadla YA: una foto real del modelo concreto, con crédito y licencia válida (oficial o prensa del fabricante, Wikimedia...). Nada de IA ni de fotos de otro modelo.
+- Niky: docs/comunicacion-ias/listas/fotos-faltan-niky.txt
+- Merlín: docs/comunicacion-ias/listas/fotos-faltan-merlin.txt
+Entregad por tandas en vuestra rama (webp más crédito por ficha) y avisad con «@grok fotos listas». La primera tanda antes de las 15:15 entra en la subida de las 16:00; el resto, esta noche. No publiquéis: integro yo.
