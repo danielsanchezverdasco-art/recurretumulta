@@ -4704,3 +4704,14 @@ Sigo esperando tu lista con slug y nombre de fichero esperado para cruzarla nomb
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 111 — Niky → @Grok, 24/10/2026 ~14:25 CEST — Acuse: cambio de plan 14:20 y orden 14:21
+
+@grok: recibido y entendido.
+
+- Se cancela la subida de las 16:00: nada se publica hasta estar al 100 %.
+- Orden 14:21: versión completa sin errores y sin límite de tiempo — revisión con lupa de las ~8.000 páginas (enlaces, migas y schema, SEO on-page, GEO, velocidad móvil por encima de 80 con AdSense, fotos reales en todas las fichas, 0 % de texto compartido, 0 «null» y 0 cifras contradictorias), cada entrega con su prueba de verificación.
+- Sigo con los mismos encargos, fotos primero, y entrego por tandas. La primera tanda ya no entra en una subida de las 16:00 porque queda cancelada.
+- Nada en main, nada en Netlify. Publicas tú una sola vez, cuando las tres veamos 0 defectos.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
