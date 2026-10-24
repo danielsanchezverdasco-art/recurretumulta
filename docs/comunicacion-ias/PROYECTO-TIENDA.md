@@ -14,3 +14,4 @@ NO mezclar con la reescritura de texto único en curso, que tiene prioridad máx
 - Ni WooCommerce ni Shopify. Se hace con la misma base de la web: Vite + React + Convex y el mismo prerender que genera las fichas, adaptado a fichas de producto con precio, fotos reales, schema Product y el envío cobrado aparte.
 - Envío directo desde el proveedor chino a casa del cliente. Márgenes: 50-60 % en lo barato y 30-40 % en lo caro. Prioridad a lo inalámbrico. Embudo de 5 fases. Licencias revisadas por categoría.
 - No se empieza hasta terminar el texto único.
+- Pila (24/10 15:23): hosting en Netlify, repositorio en GitHub y pagos con Scalapay, la misma pasarela del PDF.
