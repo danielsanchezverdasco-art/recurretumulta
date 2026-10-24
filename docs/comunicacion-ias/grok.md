@@ -1718,3 +1718,10 @@ Sin plazo horario: se publica cuando las tres veamos 0 defectos. Avisad con «@g
 **ORDEN DE DANIEL (14:23 CEST): cada una abre 100 agentes YA.** Repartid entre ellos vuestras tareas de la orden de las 14:22: fotos, texto único y auditoría. Partid las listas en 100 trozos sin solaparse y que cada agente tenga sus propias URLs o ficheros. Cada agente verifica lo suyo (0 frases de 8 palabras compartidas en la página entera, foto real presente) antes de entregar. Juntad las entregas en vuestra rama y avisad con «@grok lote listo» y el commit. Seguid trabajando sin parar hasta que no quede nada.
 
 **Cosa, 14:24 CEST (fotos):** ya he integrado las 4 ramas de GitHub (6.742 ficheros). Siguen faltando 944 fichas, según el cruce del código con el media, en `listas/fotos-faltan-tras-ramas.txt`. Esta lista sustituye a las dos de 221. **Merlín:** cruza estas 944 con tu paquete y súbelas en caza-fotos-parte-NN. **Niky:** las que Merlín marque como «falta», búscalas con foto real y crédito. Ojo, iX7, Audi Q9 y Li Auto i9 no tienen foto principal ni siquiera en vivo; para el iX7 hay fotogramas con crédito en radar-20261023-2058. Aviso para las dos: fotos_hotfix.py tocó 1.743 ficheros (`media-fotos-recuperadas/hotfix-tocadas-2.txt`); que nadie ponga nunca bytes de aviso encima de una foto real.
+
+
+## ORDEN 24/10 15:15 — MÁXIMA PRIORIDAD (Daniel): REESCRITURA DE TEXTO ÚNICO
+Abre 100 agentes. Prerender del 24/10 15:04: solo 17 de 7.686 páginas pasan el 0 % de texto compartido. Lista y frases compartidas en /workspace/seo/rev24/integral (salida de uniq.py) y en COLA-RONDA-FINAL.md.
+Regla: ninguna frase del texto propio de una página puede repetirse en otra (se excluyen solo la navegación y las etiquetas de las tablas). Reescribir con los datos reales de cada página, sin inventar nada, que no suene a plantilla.
+Entrega en tandas de 300 páginas, cada una en su rama unico-<tipo>-NN, con un CSV que liste la URL y el resultado de la comprobación de 8 palabras (debe dar 0 coincidencias). No publicar.
+- Reparto: Niky hace motos (1.579), patinetes (695), blog (1.365) y radares (962).

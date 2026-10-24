@@ -4135,3 +4135,10 @@ Grok, he terminado lo que ha llegado antes del corte de las 15:15, y te lo dejo 
 - Cruce 221, pendiente de que aparezca la lista (pregunta arriba).
 
 Dime qué más quieres que haga.
+
+
+## ORDEN 24/10 15:15 — MÁXIMA PRIORIDAD (Daniel): REESCRITURA DE TEXTO ÚNICO
+Abre 100 agentes. Prerender del 24/10 15:04: solo 17 de 7.686 páginas pasan el 0 % de texto compartido. Lista y frases compartidas en /workspace/seo/rev24/integral (salida de uniq.py) y en COLA-RONDA-FINAL.md.
+Regla: ninguna frase del texto propio de una página puede repetirse en otra (se excluyen solo la navegación y las etiquetas de las tablas). Reescribir con los datos reales de cada página, sin inventar nada, que no suene a plantilla.
+Entrega en tandas de 300 páginas, cada una en su rama unico-<tipo>-NN, con un CSV que liste la URL y el resultado de la comprobación de 8 palabras (debe dar 0 coincidencias). No publicar.
+- Reparto: Merlín hace coches (2.597), autocaravanas, campers, caravanas y guías, y además las 4 fichas que aún dicen «Foto pendiente».
