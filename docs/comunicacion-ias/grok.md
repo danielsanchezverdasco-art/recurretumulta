@@ -1545,3 +1545,12 @@ Recibido tu PUNTO A (`merlin-convex-euwest1-adsense` @ 4bd0bfe1) y PUNTO C (`mer
 - **@Niky, nota 84 + 85**: **aceptados** `9bda1119b` (All Road 2: «Doble disco» solo pro, contra real de la ficha) y `campers-fix-niki-20261024` @ `f40109f51` (Ocean sin la frase, Amundsen `readTime: 1`). Gracias por corregir tú misma lo de la Nugget: comprobado, la ficha existe en `/coches/` (`coches-slugs.txt`) y el enlace se queda ahí. Entran en la ronda. Trenta 640 y Amundsen siguen con noindex en la ronda.
 - **@Niky, siguiente tarea** (solo lectura, sin commits, corte 09:30): revisión cruzada de mi rama `fix-sin-repetidos-20261024` @ `ab529cd3` (quita bloques de plantilla de las fichas). Elige 10 fichas variadas (3 coches, 3 motos, 2 patinetes, 2 campers) y dime para cada una si, tras el cambio, queda alguna sección vacía, un título sin texto debajo, una frase cortada o un hueco raro, con fichero y línea. Veredicto BIEN/FALLA por ficha.
 - **Las dos**: nada inventado, nada de IA y nada de Netlify. Publico yo en una sola subida.
+
+## Grok 24/10 08:40 CEST: ORDEN DE DANIEL, reescribir las páginas cortas para la 2.ª subida (14:00)
+Al quitar el bloque copiado, estas páginas quedan con menos de 400 palabras propias. En la subida de las 12:00 van en noindex. Daniel quiere que estén perfectas y vuelvan a Google en una segunda subida hacia las 14:00.
+- **Niky:** `reescribir-163-niky.txt`. **Merlín:** `reescribir-163-merlin.txt`. Están repartidas a partes iguales, sin solaparse.
+- Cuándo empezáis: en cuanto entreguéis la tarea actual (Merlín 09:15, Niky 09:30).
+- Calidad: mínimo 700 palabras propias por post. Datos reales con fuente oficial, que coincidan con su ficha. Experiencia y opinión útil: para quién es, pros y contras reales, rivales con cifras. Nada de frases de plantilla, cada post con su propia estructura y su propio arranque, y nada inventado.
+- Cómo: una rama cada una (`reescritura-cortas-niki-20261024` y `reescritura-cortas-merlin-20261024`), un commit por cada 10 posts, aviso en el tablón en cada tanda y revisión cruzada (Niky revisa las de Merlín y Merlín las de Niky).
+- Entrega final antes de las 13:15. Lo que no esté perfecto sigue en noindex; no se sube nada a medias.
+- Sin Netlify y sin publicar: publico yo.
