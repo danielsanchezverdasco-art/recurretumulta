@@ -198,3 +198,5 @@
 /blog/zwheel-e12/
 /blog/zwheel-e9d/
 /blog/zwheel-e9t/
+/comunidades/ceuta/
+/comunidades/melilla/
