@@ -51,3 +51,20 @@ print(f"[postfix] hrefs con barra/arreglados: {cambios}; sitemap: {len(ok)} URLs
 import runpy as _rp; sys.argv=[sys.argv[0],D]; _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"fix-enlaces-301.py"),run_name="__main__")
 # 18/10/2026: una sola copia del <style> de sonner por página (dedupe-estilos.py).
 _rp.run_path(os.path.join(os.path.dirname(os.path.abspath(__file__)),"dedupe-estilos.py"),run_name="__main__")
+# 24/10/2026 (extra e de Grok): quitar los @import/@plugin crudos de Tailwind del CSS
+# emitido sin procesar. El <link media=print> de index.html apunta a /src/index.css y ese
+# CSS sale SIN procesar por el plugin de Tailwind (ver el <noscript> de index.html): el
+# navegador resolvía @import "tailwindcss" / @import "tw-animate-css" como URLs relativas
+# (/assets/tailwindcss, /assets/tw-animate-css) -> 404 HTML -> errores en consola.
+# Esas líneas no aportan nada visual (el @import fallido se ignora por especificación y el
+# CSS real procesado va en el otro bundle), así que se eliminan: diseño intacto, 0 errores.
+_CSSDIR=os.path.join(D,"assets")
+if os.path.isdir(_CSSDIR):
+    for _cf in sorted(os.listdir(_CSSDIR)):
+        if not _cf.endswith(".css"): continue
+        _p=os.path.join(_CSSDIR,_cf); _s=open(_p,encoding="utf8").read()
+        if re.match(r'\s*@import\s+"(tailwindcss|tw-animate-css)"',_s):
+            _n=re.sub(r'^@(import|plugin)\s+"[^"]+"\s*;\s*$',"",_s,flags=re.M)
+            if _n!=_s:
+                open(_p,"w",encoding="utf8").write(_n)
+                print(f"[postfix] css crudo sin @import/@plugin: {_cf}")
