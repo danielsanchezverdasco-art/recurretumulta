@@ -1,0 +1,1874 @@
+[
+ {
+  "url": "/coches/marca/abarth/",
+  "n": 4,
+  "coinc": "/coches/marca/rising/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 158,
+  "propio_est": 142
+ },
+ {
+  "url": "/coches/marca/aion/",
+  "n": 4,
+  "coinc": "/coches/marca/ds/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 130,
+  "propio_est": 156
+ },
+ {
+  "url": "/coches/marca/aito/",
+  "n": 4,
+  "coinc": "/coches/marca/jaecoo/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 153,
+  "propio_est": 154
+ },
+ {
+  "url": "/coches/marca/aixam/",
+  "n": 4,
+  "coinc": "/coches/marca/hongqi/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 150,
+  "propio_est": 202
+ },
+ {
+  "url": "/coches/marca/baojun/",
+  "n": 4,
+  "coinc": "/coches/marca/deepal/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 148,
+  "propio_est": 227
+ },
+ {
+  "url": "/coches/marca/audi/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 45,
+  "meta_len": 131,
+  "propio_est": 381
+ },
+ {
+  "url": "/coches/marca/beijing/",
+  "n": 4,
+  "coinc": "/coches/marca/neta/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 149,
+  "propio_est": 152
+ },
+ {
+  "url": "/coches/marca/bentley/",
+  "n": 4,
+  "coinc": "/coches/marca/geely/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 141,
+  "propio_est": 207
+ },
+ {
+  "url": "/coches/marca/bestune/",
+  "n": 4,
+  "coinc": "/coches/marca/mclaren/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 139,
+  "propio_est": 160
+ },
+ {
+  "url": "/coches/marca/bmw/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 44,
+  "meta_len": 151,
+  "propio_est": 425
+ },
+ {
+  "url": "/coches/marca/alfa-romeo/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 148,
+  "propio_est": 279
+ },
+ {
+  "url": "/coches/marca/byd/",
+  "n": 4,
+  "coinc": "/coches/marca/dacia/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 136,
+  "propio_est": 271
+ },
+ {
+  "url": "/coches/marca/aston-martin/",
+  "n": 4,
+  "coinc": "/coches/marca/leapmotor/",
+  "pobre": "sí",
+  "title_len": 53,
+  "meta_len": 123,
+  "propio_est": 203
+ },
+ {
+  "url": "/coches/marca/arcfox/",
+  "n": 4,
+  "coinc": "/coches/marca/caterham/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 143,
+  "propio_est": 183
+ },
+ {
+  "url": "/coches/marca/caterham/",
+  "n": 4,
+  "coinc": "/coches/marca/arcfox/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 139,
+  "propio_est": 146
+ },
+ {
+  "url": "/coches/marca/changan/",
+  "n": 4,
+  "coinc": "/coches/marca/alpine/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 141,
+  "propio_est": 172
+ },
+ {
+  "url": "/coches/marca/alpine/",
+  "n": 4,
+  "coinc": "/coches/marca/changan/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 148,
+  "propio_est": 183
+ },
+ {
+  "url": "/coches/marca/chery/",
+  "n": 4,
+  "coinc": "/coches/marca/fiat/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 153,
+  "propio_est": 246
+ },
+ {
+  "url": "/coches/marca/cupra/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 46,
+  "meta_len": 153,
+  "propio_est": 329
+ },
+ {
+  "url": "/coches/marca/citroen/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 154,
+  "propio_est": 291
+ },
+ {
+  "url": "/coches/marca/dacia/",
+  "n": 4,
+  "coinc": "/coches/marca/byd/",
+  "pobre": "no",
+  "title_len": 46,
+  "meta_len": 137,
+  "propio_est": 322
+ },
+ {
+  "url": "/coches/marca/deepal/",
+  "n": 4,
+  "coinc": "/coches/marca/baojun/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 144,
+  "propio_est": 150
+ },
+ {
+  "url": "/coches/marca/delage/",
+  "n": 4,
+  "coinc": "/coches/marca/donkervoort/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 123,
+  "propio_est": 138
+ },
+ {
+  "url": "/coches/marca/denza/",
+  "n": 4,
+  "coinc": "/coches/marca/leapmotor/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 135,
+  "propio_est": 185
+ },
+ {
+  "url": "/coches/marca/dfsk/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 124,
+  "propio_est": 160
+ },
+ {
+  "url": "/coches/marca/dongfeng/",
+  "n": 4,
+  "coinc": "/coches/marca/nio/",
+  "pobre": "sí",
+  "title_len": 49,
+  "meta_len": 143,
+  "propio_est": 197
+ },
+ {
+  "url": "/coches/marca/donkervoort/",
+  "n": 4,
+  "coinc": "/coches/marca/delage/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 140,
+  "propio_est": 122
+ },
+ {
+  "url": "/coches/marca/ds/",
+  "n": 4,
+  "coinc": "/coches/marca/aion/",
+  "pobre": "sí",
+  "title_len": 55,
+  "meta_len": 153,
+  "propio_est": 192
+ },
+ {
+  "url": "/coches/marca/ebro/",
+  "n": 4,
+  "coinc": "/coches/marca/deepal/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 144,
+  "propio_est": 162
+ },
+ {
+  "url": "/coches/marca/exeed/",
+  "n": 4,
+  "coinc": "/coches/marca/lotus/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 133,
+  "propio_est": 168
+ },
+ {
+  "url": "/coches/marca/forthing/",
+  "n": 4,
+  "coinc": "/coches/marca/ds/",
+  "pobre": "sí",
+  "title_len": 49,
+  "meta_len": 158,
+  "propio_est": 170
+ },
+ {
+  "url": "/coches/marca/ferrari/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 147,
+  "propio_est": 198
+ },
+ {
+  "url": "/coches/marca/ford/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 45,
+  "meta_len": 136,
+  "propio_est": 350
+ },
+ {
+  "url": "/coches/marca/fiat/",
+  "n": 4,
+  "coinc": "/coches/marca/seat/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 146,
+  "propio_est": 246
+ },
+ {
+  "url": "/coches/marca/geely/",
+  "n": 4,
+  "coinc": "/coches/marca/bentley/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 144,
+  "propio_est": 208
+ },
+ {
+  "url": "/coches/marca/gwm/",
+  "n": 4,
+  "coinc": "/coches/marca/ds/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 150,
+  "propio_est": 171
+ },
+ {
+  "url": "/coches/marca/haval/",
+  "n": 4,
+  "coinc": "/coches/marca/geely/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 139,
+  "propio_est": 193
+ },
+ {
+  "url": "/coches/marca/honda/",
+  "n": 4,
+  "coinc": "/coches/marca/leapmotor/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 150,
+  "propio_est": 203
+ },
+ {
+  "url": "/coches/marca/hongqi/",
+  "n": 4,
+  "coinc": "/coches/marca/aixam/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 138,
+  "propio_est": 187
+ },
+ {
+  "url": "/coches/marca/hyundai/",
+  "n": 4,
+  "coinc": "/coches/marca/toyota/",
+  "pobre": "no",
+  "title_len": 48,
+  "meta_len": 147,
+  "propio_est": 393
+ },
+ {
+  "url": "/coches/marca/hyptec/",
+  "n": 4,
+  "coinc": "/coches/marca/lancia/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 137,
+  "propio_est": 156
+ },
+ {
+  "url": "/coches/marca/ineos/",
+  "n": 4,
+  "coinc": "/coches/marca/abarth/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 158,
+  "propio_est": 139
+ },
+ {
+  "url": "/coches/marca/im/",
+  "n": 4,
+  "coinc": "/coches/marca/mclaren/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 131,
+  "propio_est": 166
+ },
+ {
+  "url": "/coches/marca/jac/",
+  "n": 4,
+  "coinc": "/coches/marca/tesla/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 128,
+  "propio_est": 151
+ },
+ {
+  "url": "/coches/marca/jeep/",
+  "n": 4,
+  "coinc": "/coches/marca/fiat/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 146,
+  "propio_est": 266
+ },
+ {
+  "url": "/coches/marca/kgm/",
+  "n": 4,
+  "coinc": "/coches/marca/omoda/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 132,
+  "propio_est": 169
+ },
+ {
+  "url": "/coches/marca/jaecoo/",
+  "n": 4,
+  "coinc": "/coches/marca/suzuki/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 140,
+  "propio_est": 178
+ },
+ {
+  "url": "/coches/marca/jetour/",
+  "n": 4,
+  "coinc": "/coches/marca/leapmotor/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 148,
+  "propio_est": 159
+ },
+ {
+  "url": "/coches/marca/kia/",
+  "n": 4,
+  "coinc": "/coches/marca/skoda/",
+  "pobre": "no",
+  "title_len": 44,
+  "meta_len": 158,
+  "propio_est": 418
+ },
+ {
+  "url": "/coches/marca/leapmotor/",
+  "n": 4,
+  "coinc": "/coches/marca/denza/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 146,
+  "propio_est": 168
+ },
+ {
+  "url": "/coches/marca/lamborghini/",
+  "n": 4,
+  "coinc": "/coches/marca/changan/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 157,
+  "propio_est": 190
+ },
+ {
+  "url": "/coches/marca/lancia/",
+  "n": 4,
+  "coinc": "/coches/marca/hyptec/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 144,
+  "propio_est": 143
+ },
+ {
+  "url": "/coches/marca/lepas/",
+  "n": 4,
+  "coinc": "/coches/marca/hyptec/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 140,
+  "propio_est": 162
+ },
+ {
+  "url": "/coches/marca/levc/",
+  "n": 4,
+  "coinc": "/coches/marca/onvo/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 142,
+  "propio_est": 149
+ },
+ {
+  "url": "/coches/marca/lexus/",
+  "n": 4,
+  "coinc": "/coches/marca/maserati/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 142,
+  "propio_est": 219
+ },
+ {
+  "url": "/coches/marca/li-auto/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 134,
+  "propio_est": 152
+ },
+ {
+  "url": "/coches/marca/lotus/",
+  "n": 4,
+  "coinc": "/coches/marca/exeed/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 156,
+  "propio_est": 178
+ },
+ {
+  "url": "/coches/marca/ligier/",
+  "n": 4,
+  "coinc": "/coches/marca/exeed/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 140,
+  "propio_est": 166
+ },
+ {
+  "url": "/coches/marca/lynk-co/",
+  "n": 4,
+  "coinc": "/coches/marca/tank/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 181
+ },
+ {
+  "url": "/coches/marca/livan/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 123,
+  "propio_est": 170
+ },
+ {
+  "url": "/coches/marca/maextro/",
+  "n": 4,
+  "coinc": "/coches/marca/abarth/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 149,
+  "propio_est": 167
+ },
+ {
+  "url": "/coches/marca/luxeed/",
+  "n": 4,
+  "coinc": "/coches/marca/caterham/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 135,
+  "propio_est": 181
+ },
+ {
+  "url": "/coches/marca/maserati/",
+  "n": 4,
+  "coinc": "/coches/marca/lexus/",
+  "pobre": "sí",
+  "title_len": 49,
+  "meta_len": 144,
+  "propio_est": 212
+ },
+ {
+  "url": "/coches/marca/mazda/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 137,
+  "propio_est": 272
+ },
+ {
+  "url": "/coches/marca/mclaren/",
+  "n": 4,
+  "coinc": "/coches/marca/im/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 135,
+  "propio_est": 166
+ },
+ {
+  "url": "/coches/marca/mercedes-benz/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 54,
+  "meta_len": 144,
+  "propio_est": 371
+ },
+ {
+  "url": "/coches/marca/mg/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 124,
+  "propio_est": 178
+ },
+ {
+  "url": "/coches/marca/mitsubishi/",
+  "n": 4,
+  "coinc": "/coches/marca/lynk-co/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 144,
+  "propio_est": 213
+ },
+ {
+  "url": "/coches/marca/nevo/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 125,
+  "propio_est": 224
+ },
+ {
+  "url": "/coches/marca/morgan/",
+  "n": 4,
+  "coinc": "/coches/marca/onvo/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 148,
+  "propio_est": 144
+ },
+ {
+  "url": "/coches/marca/neta/",
+  "n": 4,
+  "coinc": "/coches/marca/beijing/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 122,
+  "propio_est": 160
+ },
+ {
+  "url": "/coches/marca/nio/",
+  "n": 4,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 127,
+  "propio_est": 162
+ },
+ {
+  "url": "/coches/marca/nissan/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 149,
+  "propio_est": 288
+ },
+ {
+  "url": "/coches/marca/omoda/",
+  "n": 4,
+  "coinc": "/coches/marca/zeekr/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 131,
+  "propio_est": 173
+ },
+ {
+  "url": "/coches/marca/polestar/",
+  "n": 4,
+  "coinc": "/coches/marca/jaecoo/",
+  "pobre": "sí",
+  "title_len": 49,
+  "meta_len": 135,
+  "propio_est": 155
+ },
+ {
+  "url": "/coches/marca/peugeot/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 48,
+  "meta_len": 144,
+  "propio_est": 362
+ },
+ {
+  "url": "/coches/marca/porsche/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 149,
+  "propio_est": 292
+ },
+ {
+  "url": "/coches/marca/opel/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 45,
+  "meta_len": 144,
+  "propio_est": 334
+ },
+ {
+  "url": "/coches/marca/onvo/",
+  "n": 4,
+  "coinc": "/coches/marca/levc/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 125,
+  "propio_est": 167
+ },
+ {
+  "url": "/coches/marca/radical/",
+  "n": 4,
+  "coinc": "/coches/marca/caterham/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 148,
+  "propio_est": 150
+ },
+ {
+  "url": "/coches/marca/renault/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 48,
+  "meta_len": 153,
+  "propio_est": 367
+ },
+ {
+  "url": "/coches/marca/riddara/",
+  "n": 4,
+  "coinc": "/coches/marca/delage/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 123,
+  "propio_est": 153
+ },
+ {
+  "url": "/coches/marca/rolls-royce/",
+  "n": 4,
+  "coinc": "/coches/marca/changan/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 125,
+  "propio_est": 184
+ },
+ {
+  "url": "/coches/marca/rising/",
+  "n": 4,
+  "coinc": "/coches/marca/abarth/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 145,
+  "propio_est": 163
+ },
+ {
+  "url": "/coches/marca/roewe/",
+  "n": 4,
+  "coinc": "/coches/marca/lynk-co/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 136,
+  "propio_est": 171
+ },
+ {
+  "url": "/coches/marca/seat/",
+  "n": 4,
+  "coinc": "/coches/marca/fiat/",
+  "pobre": "no",
+  "title_len": 45,
+  "meta_len": 139,
+  "propio_est": 303
+ },
+ {
+  "url": "/coches/marca/sehol/",
+  "n": 4,
+  "coinc": "/coches/marca/abarth/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 122,
+  "propio_est": 161
+ },
+ {
+  "url": "/coches/marca/skoda/",
+  "n": 4,
+  "coinc": "/coches/marca/kia/",
+  "pobre": "no",
+  "title_len": 46,
+  "meta_len": 156,
+  "propio_est": 369
+ },
+ {
+  "url": "/coches/marca/smart/",
+  "n": 4,
+  "coinc": "/coches/marca/leapmotor/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 142,
+  "propio_est": 167
+ },
+ {
+  "url": "/coches/marca/seres/",
+  "n": 4,
+  "coinc": "/coches/marca/delage/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 114,
+  "propio_est": 143
+ },
+ {
+  "url": "/coches/marca/stelato/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 139,
+  "propio_est": 231
+ },
+ {
+  "url": "/coches/marca/subaru/",
+  "n": 4,
+  "coinc": "/coches/marca/mclaren/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 150,
+  "propio_est": 162
+ },
+ {
+  "url": "/coches/marca/tank/",
+  "n": 4,
+  "coinc": "/coches/marca/lynk-co/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 142,
+  "propio_est": 183
+ },
+ {
+  "url": "/coches/marca/suzuki/",
+  "n": 4,
+  "coinc": "/coches/marca/jaecoo/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 146,
+  "propio_est": 208
+ },
+ {
+  "url": "/coches/marca/tesla/",
+  "n": 4,
+  "coinc": "/coches/marca/xpeng/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 151,
+  "propio_est": 189
+ },
+ {
+  "url": "/coches/marca/volkswagen/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "no",
+  "title_len": 51,
+  "meta_len": 151,
+  "propio_est": 489
+ },
+ {
+  "url": "/coches/marca/toyota/",
+  "n": 4,
+  "coinc": "/coches/marca/hyundai/",
+  "pobre": "no",
+  "title_len": 47,
+  "meta_len": 146,
+  "propio_est": 365
+ },
+ {
+  "url": "/coches/marca/wey/",
+  "n": 4,
+  "coinc": "/coches/marca/nevo/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 133,
+  "propio_est": 161
+ },
+ {
+  "url": "/coches/marca/volvo/",
+  "n": 3,
+  "coinc": "/coches/marca/dongfeng/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 133,
+  "propio_est": 218
+ },
+ {
+  "url": "/coches/marca/voyah/",
+  "n": 4,
+  "coinc": "/coches/marca/jaecoo/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 154,
+  "propio_est": 165
+ },
+ {
+  "url": "/coches/marca/wuling/",
+  "n": 4,
+  "coinc": "/coches/marca/changan/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 146,
+  "propio_est": 184
+ },
+ {
+  "url": "/coches/marca/xiaomi/",
+  "n": 4,
+  "coinc": "/coches/marca/exeed/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 148,
+  "propio_est": 163
+ },
+ {
+  "url": "/coches/marca/xpeng/",
+  "n": 4,
+  "coinc": "/coches/marca/tesla/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 148,
+  "propio_est": 157
+ },
+ {
+  "url": "/coches/marca/zeekr/",
+  "n": 4,
+  "coinc": "/coches/marca/omoda/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 138,
+  "propio_est": 153
+ },
+ {
+  "url": "/coches/marca/yangwang/",
+  "n": 4,
+  "coinc": "/coches/marca/wey/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 143,
+  "propio_est": 164
+ },
+ {
+  "url": "/motos/marca/ajp/",
+  "n": 4,
+  "coinc": "/motos/marca/scorpa/",
+  "pobre": "sí",
+  "title_len": 42,
+  "meta_len": 144,
+  "propio_est": 156
+ },
+ {
+  "url": "/motos/marca/aprilia/",
+  "n": 4,
+  "coinc": "/motos/marca/triumph/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 146,
+  "propio_est": 277
+ },
+ {
+  "url": "/motos/marca/bimota/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 139,
+  "propio_est": 155
+ },
+ {
+  "url": "/motos/marca/bmw/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "no",
+  "title_len": 52,
+  "meta_len": 150,
+  "propio_est": 432
+ },
+ {
+  "url": "/motos/marca/brixton/",
+  "n": 4,
+  "coinc": "/motos/marca/silence/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 142,
+  "propio_est": 176
+ },
+ {
+  "url": "/motos/marca/ducati/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "no",
+  "title_len": 46,
+  "meta_len": 155,
+  "propio_est": 316
+ },
+ {
+  "url": "/motos/marca/fantic/",
+  "n": 4,
+  "coinc": "/motos/marca/beta/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 157,
+  "propio_est": 198
+ },
+ {
+  "url": "/motos/marca/benelli/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 143,
+  "propio_est": 241
+ },
+ {
+  "url": "/motos/marca/gasgas/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-morini/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 143,
+  "propio_est": 181
+ },
+ {
+  "url": "/motos/marca/harley-davidson/",
+  "n": 4,
+  "coinc": "/motos/marca/kymco/",
+  "pobre": "sí",
+  "title_len": 55,
+  "meta_len": 132,
+  "propio_est": 191
+ },
+ {
+  "url": "/motos/marca/husqvarna/",
+  "n": 4,
+  "coinc": "/motos/marca/niu/",
+  "pobre": "sí",
+  "title_len": 49,
+  "meta_len": 144,
+  "propio_est": 197
+ },
+ {
+  "url": "/motos/marca/horwin/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-morini/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 137,
+  "propio_est": 164
+ },
+ {
+  "url": "/motos/marca/honda/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "no",
+  "title_len": 45,
+  "meta_len": 152,
+  "propio_est": 356
+ },
+ {
+  "url": "/motos/marca/beta/",
+  "n": 4,
+  "coinc": "/motos/marca/fantic/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 135,
+  "propio_est": 187
+ },
+ {
+  "url": "/motos/marca/italjet/",
+  "n": 4,
+  "coinc": "/motos/marca/sherco/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 141,
+  "propio_est": 161
+ },
+ {
+  "url": "/motos/marca/indian/",
+  "n": 4,
+  "coinc": "/motos/marca/keeway/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 156,
+  "propio_est": 197
+ },
+ {
+  "url": "/motos/marca/keeway/",
+  "n": 4,
+  "coinc": "/motos/marca/indian/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 155,
+  "propio_est": 187
+ },
+ {
+  "url": "/motos/marca/kawasaki/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 149,
+  "propio_est": 292
+ },
+ {
+  "url": "/motos/marca/ktm/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 140,
+  "propio_est": 296
+ },
+ {
+  "url": "/motos/marca/kymco/",
+  "n": 4,
+  "coinc": "/motos/marca/harley-davidson/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 139,
+  "propio_est": 212
+ },
+ {
+  "url": "/motos/marca/livewire/",
+  "n": 4,
+  "coinc": "/motos/marca/wottan/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 156,
+  "propio_est": 167
+ },
+ {
+  "url": "/motos/marca/lambretta/",
+  "n": 4,
+  "coinc": "/motos/marca/sherco/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 153,
+  "propio_est": 163
+ },
+ {
+  "url": "/motos/marca/can-am/",
+  "n": 4,
+  "coinc": "/motos/marca/royal-alloy/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 140,
+  "propio_est": 143
+ },
+ {
+  "url": "/motos/marca/cfmoto/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 142,
+  "propio_est": 237
+ },
+ {
+  "url": "/motos/marca/malaguti/",
+  "n": 4,
+  "coinc": "/motos/marca/can-am/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 141,
+  "propio_est": 155
+ },
+ {
+  "url": "/motos/marca/mitt/",
+  "n": 4,
+  "coinc": "/motos/marca/mv-agusta/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 146,
+  "propio_est": 157
+ },
+ {
+  "url": "/motos/marca/mondial/",
+  "n": 4,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 132,
+  "propio_est": 166
+ },
+ {
+  "url": "/motos/marca/maeving/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 131,
+  "propio_est": 162
+ },
+ {
+  "url": "/motos/marca/macbor/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 149,
+  "propio_est": 195
+ },
+ {
+  "url": "/motos/marca/montesa/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 158,
+  "propio_est": 158
+ },
+ {
+  "url": "/motos/marca/moto-morini/",
+  "n": 5,
+  "coinc": "/motos/marca/moto-guzzi/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 154,
+  "propio_est": 189
+ },
+ {
+  "url": "/motos/marca/moto-guzzi/",
+  "n": 5,
+  "coinc": "/motos/marca/moto-morini/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 141,
+  "propio_est": 193
+ },
+ {
+  "url": "/motos/marca/qjmotor/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 151,
+  "propio_est": 287
+ },
+ {
+  "url": "/motos/marca/niu/",
+  "n": 4,
+  "coinc": "/motos/marca/husqvarna/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 135,
+  "propio_est": 186
+ },
+ {
+  "url": "/motos/marca/piaggio/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-morini/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 139,
+  "propio_est": 168
+ },
+ {
+  "url": "/motos/marca/mv-agusta/",
+  "n": 4,
+  "coinc": "/motos/marca/swm/",
+  "pobre": "sí",
+  "title_len": 48,
+  "meta_len": 152,
+  "propio_est": 159
+ },
+ {
+  "url": "/motos/marca/rieju/",
+  "n": 4,
+  "coinc": "/motos/marca/royal-enfield/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 156,
+  "propio_est": 236
+ },
+ {
+  "url": "/motos/marca/scorpa/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 142,
+  "propio_est": 162
+ },
+ {
+  "url": "/motos/marca/royal-alloy/",
+  "n": 5,
+  "coinc": "/motos/marca/can-am/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 143,
+  "propio_est": 161
+ },
+ {
+  "url": "/motos/marca/silence/",
+  "n": 4,
+  "coinc": "/motos/marca/brixton/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 138,
+  "propio_est": 158
+ },
+ {
+  "url": "/motos/marca/sherco/",
+  "n": 4,
+  "coinc": "/motos/marca/lambretta/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 150,
+  "propio_est": 166
+ },
+ {
+  "url": "/motos/marca/royal-enfield/",
+  "n": 5,
+  "coinc": "/motos/marca/royal-alloy/",
+  "pobre": "sí",
+  "title_len": 53,
+  "meta_len": 154,
+  "propio_est": 242
+ },
+ {
+  "url": "/motos/marca/super-soco/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-guzzi/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 157,
+  "propio_est": 183
+ },
+ {
+  "url": "/motos/marca/stark/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 150,
+  "propio_est": 159
+ },
+ {
+  "url": "/motos/marca/suzuki/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 156,
+  "propio_est": 239
+ },
+ {
+  "url": "/motos/marca/sym/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 43,
+  "meta_len": 135,
+  "propio_est": 210
+ },
+ {
+  "url": "/motos/marca/swm/",
+  "n": 4,
+  "coinc": "/motos/marca/mv-agusta/",
+  "pobre": "sí",
+  "title_len": 42,
+  "meta_len": 149,
+  "propio_est": 163
+ },
+ {
+  "url": "/motos/marca/torrot/",
+  "n": 4,
+  "coinc": "/motos/marca/mondial/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 116,
+  "propio_est": 154
+ },
+ {
+  "url": "/motos/marca/velca/",
+  "n": 4,
+  "coinc": "/motos/marca/vespa/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 138,
+  "propio_est": 161
+ },
+ {
+  "url": "/motos/marca/trs/",
+  "n": 4,
+  "coinc": "/motos/marca/livewire/",
+  "pobre": "sí",
+  "title_len": 42,
+  "meta_len": 153,
+  "propio_est": 175
+ },
+ {
+  "url": "/motos/marca/triumph/",
+  "n": 4,
+  "coinc": "/motos/marca/aprilia/",
+  "pobre": "sí",
+  "title_len": 47,
+  "meta_len": 152,
+  "propio_est": 289
+ },
+ {
+  "url": "/motos/marca/vespa/",
+  "n": 4,
+  "coinc": "/motos/marca/velca/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 146,
+  "propio_est": 177
+ },
+ {
+  "url": "/motos/marca/vertigo/",
+  "n": 4,
+  "coinc": "/motos/marca/ajp/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 146,
+  "propio_est": 153
+ },
+ {
+  "url": "/motos/marca/vmoto/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 141,
+  "propio_est": 148
+ },
+ {
+  "url": "/motos/marca/voge/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 44,
+  "meta_len": 131,
+  "propio_est": 224
+ },
+ {
+  "url": "/motos/marca/zero/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-guzzi/",
+  "pobre": "sí",
+  "title_len": 56,
+  "meta_len": 150,
+  "propio_est": 187
+ },
+ {
+  "url": "/motos/marca/wottan/",
+  "n": 4,
+  "coinc": "/motos/marca/livewire/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 152,
+  "propio_est": 167
+ },
+ {
+  "url": "/motos/marca/yadea/",
+  "n": 4,
+  "coinc": "/motos/marca/moto-morini/",
+  "pobre": "sí",
+  "title_len": 45,
+  "meta_len": 142,
+  "propio_est": 168
+ },
+ {
+  "url": "/motos/marca/zontes/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "sí",
+  "title_len": 46,
+  "meta_len": 136,
+  "propio_est": 204
+ },
+ {
+  "url": "/motos/marca/yamaha/",
+  "n": 3,
+  "coinc": "/motos/marca/torrot/",
+  "pobre": "no",
+  "title_len": 46,
+  "meta_len": 144,
+  "propio_est": 318
+ },
+ {
+  "url": "/patinetes/marca/apollo/",
+  "n": 6,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 173
+ },
+ {
+  "url": "/patinetes/marca/aovopro/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 149
+ },
+ {
+  "url": "/patinetes/marca/bogist/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 158,
+  "propio_est": 154
+ },
+ {
+  "url": "/patinetes/marca/bronco/",
+  "n": 6,
+  "coinc": "/patinetes/marca/denver/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 154,
+  "propio_est": 170
+ },
+ {
+  "url": "/patinetes/marca/currus/",
+  "n": 6,
+  "coinc": "/patinetes/marca/okai/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 140,
+  "propio_est": 170
+ },
+ {
+  "url": "/patinetes/marca/denver/",
+  "n": 6,
+  "coinc": "/patinetes/marca/bronco/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 149,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/dualtron/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 141,
+  "propio_est": 259
+ },
+ {
+  "url": "/patinetes/marca/etwow/",
+  "n": 6,
+  "coinc": "/patinetes/marca/zwheel/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 153
+ },
+ {
+  "url": "/patinetes/marca/evercross/",
+  "n": 6,
+  "coinc": "/patinetes/marca/inmotion/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 150,
+  "propio_est": 156
+ },
+ {
+  "url": "/patinetes/marca/gotrax/",
+  "n": 6,
+  "coinc": "/patinetes/marca/urban-glide/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 160
+ },
+ {
+  "url": "/patinetes/marca/hiboy/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 157,
+  "propio_est": 162
+ },
+ {
+  "url": "/patinetes/marca/inmotion/",
+  "n": 6,
+  "coinc": "/patinetes/marca/evercross/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 149,
+  "propio_est": 167
+ },
+ {
+  "url": "/patinetes/marca/inokim/",
+  "n": 6,
+  "coinc": "/patinetes/marca/segway/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 148,
+  "propio_est": 175
+ },
+ {
+  "url": "/patinetes/marca/hiley/",
+  "n": 6,
+  "coinc": "/patinetes/marca/vsett/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 150,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/iscooter/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 150,
+  "propio_est": 164
+ },
+ {
+  "url": "/patinetes/marca/joyor/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 144,
+  "propio_est": 175
+ },
+ {
+  "url": "/patinetes/marca/isinwheel/",
+  "n": 6,
+  "coinc": "/patinetes/marca/inmotion/",
+  "pobre": "sí",
+  "title_len": 52,
+  "meta_len": 150,
+  "propio_est": 160
+ },
+ {
+  "url": "/patinetes/marca/kugoo/",
+  "n": 6,
+  "coinc": "/patinetes/marca/zero/",
+  "pobre": "sí",
+  "title_len": 59,
+  "meta_len": 158,
+  "propio_est": 156
+ },
+ {
+  "url": "/patinetes/marca/kaabo/",
+  "n": 6,
+  "coinc": "/patinetes/marca/navee/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 155,
+  "propio_est": 263
+ },
+ {
+  "url": "/patinetes/marca/cecotec/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "no",
+  "title_len": 51,
+  "meta_len": 141,
+  "propio_est": 302
+ },
+ {
+  "url": "/patinetes/marca/kukirin/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 149,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/minimotors/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 53,
+  "meta_len": 151,
+  "propio_est": 172
+ },
+ {
+  "url": "/patinetes/marca/navee/",
+  "n": 6,
+  "coinc": "/patinetes/marca/kaabo/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 149,
+  "propio_est": 214
+ },
+ {
+  "url": "/patinetes/marca/okai/",
+  "n": 6,
+  "coinc": "/patinetes/marca/currus/",
+  "pobre": "sí",
+  "title_len": 58,
+  "meta_len": 151,
+  "propio_est": 170
+ },
+ {
+  "url": "/patinetes/marca/niu/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 58,
+  "meta_len": 151,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/pure/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 57,
+  "meta_len": 155,
+  "propio_est": 183
+ },
+ {
+  "url": "/patinetes/marca/razor/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 148,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/egret/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 59,
+  "meta_len": 149,
+  "propio_est": 160
+ },
+ {
+  "url": "/patinetes/marca/ruptor/",
+  "n": 5,
+  "coinc": "/patinetes/marca/denver/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 127,
+  "propio_est": 159
+ },
+ {
+  "url": "/patinetes/marca/nami/",
+  "n": 5,
+  "coinc": "/patinetes/marca/ruptor/",
+  "pobre": "sí",
+  "title_len": 58,
+  "meta_len": 156,
+  "propio_est": 165
+ },
+ {
+  "url": "/patinetes/marca/segway-ninebot/",
+  "n": 6,
+  "coinc": "/patinetes/marca/segway/",
+  "pobre": "sí",
+  "title_len": 58,
+  "meta_len": 148,
+  "propio_est": 225
+ },
+ {
+  "url": "/patinetes/marca/segway/",
+  "n": 7,
+  "coinc": "/patinetes/marca/inokim/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 155,
+  "propio_est": 172
+ },
+ {
+  "url": "/patinetes/marca/smartgyro/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 53,
+  "meta_len": 143,
+  "propio_est": 224
+ },
+ {
+  "url": "/patinetes/marca/turboant/",
+  "n": 6,
+  "coinc": "/patinetes/marca/inmotion/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 149,
+  "propio_est": 159
+ },
+ {
+  "url": "/patinetes/marca/teverun/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 140,
+  "propio_est": 176
+ },
+ {
+  "url": "/patinetes/marca/speedway/",
+  "n": 6,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 51,
+  "meta_len": 149,
+  "propio_est": 161
+ },
+ {
+  "url": "/patinetes/marca/soflow/",
+  "n": 6,
+  "coinc": "/patinetes/marca/kugoo/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 149,
+  "propio_est": 156
+ },
+ {
+  "url": "/patinetes/marca/urban-glide/",
+  "n": 6,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 55,
+  "meta_len": 153,
+  "propio_est": 201
+ },
+ {
+  "url": "/patinetes/marca/xiaomi/",
+  "n": 5,
+  "coinc": "/patinetes/marca/gotrax/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 140,
+  "propio_est": 243
+ },
+ {
+  "url": "/patinetes/marca/walberg/",
+  "n": 4,
+  "coinc": "/patinetes/marca/speedway/",
+  "pobre": "sí",
+  "title_len": 55,
+  "meta_len": 137,
+  "propio_est": 160
+ },
+ {
+  "url": "/patinetes/marca/vsett/",
+  "n": 6,
+  "coinc": "/patinetes/marca/hiley/",
+  "pobre": "sí",
+  "title_len": 60,
+  "meta_len": 151,
+  "propio_est": 171
+ },
+ {
+  "url": "/patinetes/marca/zero/",
+  "n": 6,
+  "coinc": "/patinetes/marca/kugoo/",
+  "pobre": "sí",
+  "title_len": 58,
+  "meta_len": 138,
+  "propio_est": 169
+ },
+ {
+  "url": "/patinetes/marca/zwheel/",
+  "n": 6,
+  "coinc": "/patinetes/marca/etwow/",
+  "pobre": "sí",
+  "title_len": 50,
+  "meta_len": 155,
+  "propio_est": 171
+ }
+]
