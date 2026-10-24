@@ -1,0 +1,34 @@
+Verificacion 8-gramas, letra Y (coches Yangwang), tanda unico-coches-50-y-001
+
+Comando usado (desde el worktree de la rama):
+  python3 /tmp/y-verify.py --show 10
+
+Metodo: ventanas de 8 palabras dentro de cada unidad de texto propio
+(contenido y excerpt de blogs; pros, contras, notas de coste y alt de
+galeria de fichas), comparadas contra el texto propio de todas las
+demas paginas del repo y entre las 15 paginas Y. Excluidos: titulos,
+keywords, navegacion y etiquetas de tablas. Las filas de tabla de los
+blogs SI se comprueban (criterio mas estricto).
+
+Resultado final: 0 coincidencias en las 15 paginas.
+Colisiones antes de reescribir (misma comprobacion, textos originales): 251.
+
+Ventanas 8-gramas por pagina (texto nuevo):
+  blog/yangwang-byd-u8-u9-europa-2027: 909 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u7-2025-precio-ficha-tecnica: 537 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u7-phev-2026-precio-ficha-tecnica: 472 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u8-2024-precio-ficha-tecnica: 676 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u8l-2025-precio-ficha-tecnica: 645 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u9-2024-precio-ficha-tecnica: 601 ventanas, corpus=0, otras-Y=0
+  blog/yangwang-u9-xtreme-2025-precio-ficha-tecnica: 537 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-byd-berlina-260000-euros-rolls-royce: 26 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-byd-u8-u9-europa-2027: 25 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u7-2025-precio-ficha-tecnica: 59 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u7-phev-2026-precio-ficha-tecnica: 54 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u8-2024-precio-ficha-tecnica: 109 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u8l-2025-precio-ficha-tecnica: 84 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u9-2024-precio-ficha-tecnica: 70 ventanas, corpus=0, otras-Y=0
+  coches/yangwang-u9-xtreme-2025-precio-ficha-tecnica: 88 ventanas, corpus=0, otras-Y=0
+
+Copia del verificador para re-ejecutar en otro worktree:
+  Y_WT=<ruta-del-worktree> python3 hidden_files/unico-coches-50-y-001/verify-8gramas-y.py

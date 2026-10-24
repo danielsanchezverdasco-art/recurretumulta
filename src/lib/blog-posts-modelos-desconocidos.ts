@@ -101,7 +101,7 @@ Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-a
   {
     "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
     "slug": "yangwang-byd-u8-u9-europa-2027",
-    "excerpt": "Yangwang, el superlujo de BYD: el U8 flota, el U9 salta y el U7 tiene 1.250 CV. Llega a Europa en 2027, pero con el carnet B no podrías conducirlo.",
+    "excerpt": "Yangwang llega a Europa en 2027: el U8 flota, el U9 salta y el U7 supera los 1.250 CV. Eso sí, con el carnet B no podrías conducir el U8.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -118,71 +118,74 @@ Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-a
 
 <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Ficha técnica del Yangwang U8</a>.
 
-Hay un coche que **flota en el agua**, gira 360 grados sobre sí mismo como un tanque y tiene **1.197 CV**. No es un prototipo: se vende en China desde 2023. Se llama **Yangwang U8**, es la punta de lanza de la marca de superlujo de **BYD**, y su llegada a Europa está confirmada para **2027**.
-
-Yangwang (que se pronuncia "yang-uong" y significa algo así como "mirar hacia arriba") se lanzó en China en enero de 2023 para competir con **Bentley, Porsche, Lotus y Ferrari**. Tres años después, su catálogo ya tiene tres modelos y su desembarco europeo es oficial. Esto es lo que viene.
+En el **certamen de velocidad de Goodwood de 2026**, BYD montó un stand de unos **dos millones de euros** para enseñar algo que pocos esperaban de una marca china: superlujo. La protagonista era **Yangwang**, su marca de altas prestaciones, que llegará a Europa en **2027**. Su nombre se pronuncia "yang-uong" y viene a significar "mirar hacia arriba". Se lanzó en China en enero de 2023 para medirse con **Bentley, Porsche, Lotus y Ferrari**, y tres años después ya tiene tres modelos en catálogo.
 
 <img src=/media/yangwang-u8-agua-cuerpo.webp alt=Yangwang U8, el SUV de BYD capaz de flotar en el agua>
 
-## Yangwang U8: el SUV que nada
+## El U8: un todoterreno que nada
 
-El **U8** es un todoterreno de **rango extendido (EREV)** de 5,32 metros (5,41 en la versión larga U8L mostrada en Goodwood 2026) con cuatro motores eléctricos que suman **1.197 CV**. Sus dos trucos de magia:
+El modelo que abrirá la gama europea será probablemente el **U8**, un todoterreno de **rango extendido (EREV)** de **5,32 metros** —**5,41** en la versión larga **U8L** que se vio en Goodwood— con cuatro motores eléctricos que suman **1.197 CV**. Tiene dos trucos que no ofrece ningún rival:
 
-- **Flota en el agua**: en caso de emergencia puede flotar y navegar a **3 km/h**, con las ruedas actuando como hélices.
-- **Giro de tanque**: cada rueda gira de forma independiente, así que puede **rotar 360° sobre su propio eje**.
+- **Flotar en el agua**: en una emergencia, puede mantenerse a flote y navegar a **3 km/h**, con las ruedas actuando como hélices.
+- **Girar como un tanque**: al mover cada rueda por separado, puede **rotar 360° sobre su propio eje** sin avanzar.
 
-En China cuesta el equivalente a unos **150.000 €**, lo que lo convirtió en uno de los coches de producción en serie más caros del país. La versión larga U8L, con llantas de estilo Rolls-Royce y configuración de seis plazas, se presentó en el **Festival de la Velocidad de Goodwood 2026**, donde BYD montó un stand de unos dos millones de euros.
+En China, su precio ronda el equivalente a **150.000 €**, lo que lo convirtió en uno de los coches de serie más caros del país. La variante larga **U8L**, con llantas de estilo Rolls-Royce y seis plazas, fue la que BYD llevó a Goodwood.
 
-## Yangwang U9: el superdeportivo que salta
+## El U9: el superdeportivo que salta
 
-El **U9** es un superdeportivo 100 % eléctrico que ya ha rodado en **Nürburgring** y se ha dejado ver "volando" por el Infierno Verde. Su sistema de suspensión activa **DiSus-X** le permite literalmente **saltar**: el coche puede elevarse del suelo estando parado, una demostración técnica sin rival en la industria.
+El segundo modelo es el **U9**, un superdeportivo 100 % eléctrico que ya ha rodado en **Nürburgring** y se ha dejado ver "volando" por el Infierno Verde. Su suspensión activa **DiSus-X** le permite **saltar** estando parado: el coche se eleva del suelo como demostración técnica, algo sin rival en la industria.
 
-Junto al U9 Xtreme mostrado en Goodwood, es la carta de BYD para decirle a Ferrari y Lamborghini que la fiesta eléctrica china también sabe jugar en su liga.
+Junto al **U9 Xtreme** de Goodwood, el U9 es la carta de BYD para decirle a Ferrari y Lamborghini que la fiesta eléctrica china también sabe jugar en su liga.
 
-## Yangwang U7: la berlina de 1.250 CV
+## El U7: la berlina de más de 1.250 CV
 
-El tercer modelo es el **U7**, una berlina de lujo con **cuatro motores eléctricos y 1.250 CV**, equipada con el nivel más alto del sistema de conducción autónoma **"Ojo de Dios"** de BYD. En China, los Yangwang se mueven entre los **138.000 y los 231.000 €** al cambio.
+Completa la gama el **U7**, una berlina de lujo con **cuatro motores eléctricos y más de 1.250 CV**, equipada con el nivel más alto del sistema de conducción autónoma **"Ojo de Dios"** de BYD. En China, los Yangwang se mueven entre los **138.000 y los 231.000 €** al cambio, según el modelo.
 
-## Europa en 2027: confirmado por la vicepresidenta de BYD
+## Lo confirmó Stella Li: Europa en 2027
 
 **Stella Li**, vicepresidenta ejecutiva de BYD, confirmó a la revista británica **Autocar** que **Yangwang llegará a Europa después de Denza**, con el lanzamiento previsto para **2027**. El U8 será probablemente el primero, y "vendrán más coches", incluido el U7.
 
-| Modelo | Tipo | Potencia | Dato loco |
+| Modelo de Yangwang | Tipo | Potencia | Dato loco |
 |---|---|---|---|
-| **Yangwang U8 / U8L** | SUV EREV | 1.197 CV | Flota en el agua, giro 360° |
-| **Yangwang U9** | Superdeportivo EV | ~1.300 CV | Salta con la suspensión DiSus-X |
-| **Yangwang U7** | Berlina EV | 1.250 CV | 4 motores, "Ojo de Dios" ADAS |
+| **U8 y U8L** | SUV EREV | 1.197 CV | Flota en el agua, giro 360° |
+| **U9** | Superdeportivo EV | ~1.300 CV | Salta con la suspensión DiSus-X |
+| **U7** | Berlina EV | Más de 1.250 CV | 4 motores, "Ojo de Dios" ADAS |
 
 ## El problema: con el carnet B no podrías conducirlo
 
-Aquí viene el giro inesperado. El U8 pesa **unas 3.460 kg en vacío** y su **masa máxima autorizada ronda los 3.985 kg**. En Alemania (y la normativa es europea), el permiso **B** solo permite conducir vehículos de hasta **3.500 kg** de MMA —las <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>clases de permiso están reguladas en la Ley de Tráfico</a>—. Por encima, hasta 7.500 kg, hace falta el **C1**.
+Aquí viene el giro inesperado. El U8 pesa **unas 3.460 kg en vacío** y su **masa máxima autorizada ronda los 3.985 kg**. En Alemania, y la normativa es europea, el permiso **B** solo permite conducir vehículos de hasta **3.500 kg** de MMA —las <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>clases de permiso están reguladas en la Ley de Tráfico</a>—. Por encima de esa cifra, hasta 7.500 kg, hace falta el **C1**.
 
-Existe una excepción que eleva el límite a 4.250 kg para vehículos de energías alternativas, pero está vinculada al **transporte de mercancías**, no a un SUV de pasajeros. Así que, si Yangwang homologa el U8 en Europa manteniendo esos pesos, **en España haría falta un permiso superior al B** para conducirlo. Todo dependerá de la homologación final de la versión europea, que aún no existe.
+Existe una excepción que eleva el límite a **4.250 kg** para vehículos de energías alternativas, pero está vinculada al **transporte de mercancías**, no a un SUV de pasajeros. Así que, si Yangwang homologa el U8 en Europa manteniendo esos pesos, **en España haría falta un permiso superior al B** para conducirlo. Todo dependerá de la homologación final de la versión europea, que aún no existe.
 
 ## ¿Tiene sentido un BYD de 200.000 € en Europa?
 
-La pregunta es legítima. BYD ya ha demostrado que puede vender coches baratos en Europa; ahora quiere demostrar que puede vender **lujo**. El U8 no compite contra el Dacia Duster: compite contra el **Rolls-Royce Cullinan** (5,34 m, 571 CV de su V12 frente a los 1.197 del chino) y contra el **Range Rover** eléctrico.
+La pregunta es legítima. BYD ya ha demostrado que puede vender coches baratos en Europa; ahora quiere demostrar que puede vender **lujo**. El U8 no compite contra el Dacia Duster: compite contra el **Rolls-Royce Cullinan** (**5,34 m**, **571 CV** de su V12 frente a los 1.197 del chino) y contra el **Range Rover** eléctrico.
 
-Los aranceles europeos al coche chino serán su gran examen: en China los Yangwang cuestan entre 138.000 y 231.000 €, y el precio europeo aún no existe. Pero que BYD se gaste dos millones en un stand en Goodwood, la catedral del motor británico de combustión, dice mucho de sus intenciones.
+Los aranceles europeos al coche chino serán su gran examen: en China los Yangwang cuestan entre **138.000 y 231.000 €**, y el precio europeo aún no existe. Pero gastarse dos millones en un stand en Goodwood, la catedral del motor británico de combustión, dice mucho de sus intenciones.
 
 ## Preguntas frecuentes
 
 ### ¿Qué es Yangwang?
-La marca de lujo y altas prestaciones de BYD, lanzada en 2023. Su gama: el SUV U8, el superdeportivo U9 y la berlina U7.
+
+La marca de lujo y altas prestaciones de BYD, lanzada en 2023. Su gama la forman el SUV U8, el superdeportivo U9 y la berlina U7.
 
 ### ¿Cuándo llega Yangwang a Europa?
+
 En **2027**, después del despliegue de Denza, según confirmó la vicepresidenta de BYD, Stella Li, a la revista Autocar.
 
 ### ¿Es verdad que el Yangwang U8 flota?
+
 Sí: en modo de emergencia puede flotar y desplazarse por el agua a unos 3 km/h. También puede girar 360° sobre sí mismo gracias a sus cuatro motores independientes.
 
 ### ¿Cuánto cuesta un Yangwang?
-En China, entre 138.000 y 231.000 € al cambio según modelo. No hay precios europeos anunciados.
+
+En China, entre 138.000 y 231.000 € al cambio según el modelo. No hay precios europeos anunciados.
 
 ### ¿Podré conducir el U8 con el carnet B?
-Depende de la homologación europea final: el modelo chino supera los 3.500 kg de MMA, el límite del permiso B. Está por confirmar.
 
-Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flotar-tiene-1197-cv-es-tan-pesado-que-espana-hace-falta-carnet-camion-conducirlo/20260929120040063720.html>Somos Eléctricos</a>, <a href=https://forococheselectricos.com/noticias/byd-confirma-llegada-tercera-marca-europa-yangwang-20250721-37764.html>ForoCochesEléctricos (vía Autocar)</a>, <a href=https://soymotor.com/coches/noticias/byd-shark-denza-bao5-denza-z-yangwang-u8-u9-goodwood>SoyMotor</a>.`
+Depende de la homologación europea final: el modelo chino pasa de los 3.500 kg de MMA, que es el tope del permiso B. Está por confirmar.
+
+Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flotar-tiene-1197-cv-es-tan-pesado-que-espana-hace-falta-carnet-camion-conducirlo/20260929120040063720.html>Somos Eléctricos</a>, <a href=https://forococheselectricos.com/noticias/byd-confirma-llegada-tercera-marca-europa-yangwang-20250721-37764.html>ForoCochesEléctricos (vía Autocar)</a> y <a href=https://soymotor.com/coches/noticias/byd-shark-denza-bao5-denza-z-yangwang-u8-u9-goodwood>SoyMotor</a>.`
   },
   {
     "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
