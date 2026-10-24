@@ -1038,5 +1038,85 @@
   "intro": "Velca es una marca española de moto eléctrica urbana, y su gama se organiza alrededor de scooters de estilo propio con nombres evocadores. La Bora y la Bora+ forman la pareja central, con la segunda como evolución más equipada de la primera. La Calima 50 y la Calima S cubren el acceso a la marca en formato ciclomotor eléctrico, mientras la Eon y la ONE apuestan por diseños más compactos y urbanos. La Nude y la Nude Lite, junto con la Tramontana S y la Vortex, completan una oferta donde el diseño pesa tanto como las prestaciones. Al comparar las fichas conviene sopesar alcance, formato y peso juntos, porque dentro de Velca conviven ciclomotores de ciudad con scooters de mayor alcance, y el nombre no siempre adelanta el escalón. La Vortex, como una de las propuestas más recientes de la colección, completa una gama española de diseño muy personal. La Calima S, como variante de la familia Calima, refuerza el acceso eléctrico urbano dentro de la gama Velca.",
   "n": 10,
   "url": "/motos/marca/velca/"
+ },
+ "motos/vespa": {
+  "nombre": "Vespa",
+  "title": "Vespa: 10 fichas, Primavera, GTS y GTV",
+  "description": "10 fichas técnicas de motos Vespa: Primavera, Primavera Elettrica, GTS 125, 300 y 310, GTV 310 y Sprint RST, con datos para elegir.",
+  "intro": "Vespa mantiene una gama corta donde el estilo es tan importante como la cilindrada, y cada familia tiene su público. La Primavera es la referencia urbana, con la Primavera RST 125 y la Primavera Elettrica y la Primavera Elettrica 70 como lecturas de gasolina y eléctricas del mismo icono. La GTS sube de tamaño con la GTS 125, la GTS 300 y la GTS 310, una escalera que permite pasar del scooter urbano al de mayor capacidad para carretera. La GTV 310, en sus versiones de 2025 y 2026, aporta una estética más clásica y deportiva dentro de la gama grande. La Elettrica 70 completa la oferta eléctrica para la ciudad. Comparar estas fichas ayuda a decidir entre Primavera y GTS, entre gasolina y eléctrica, y entre 125 y 300, tres decisiones que definen qué Vespa encaja con cada usuario y cada carnet. La Sprint RST 125, dentro de la familia Primavera, aporta una lectura más deportiva del scooter urbano clásico de Vespa.",
+  "n": 10,
+  "url": "/motos/marca/vespa/"
+ },
+ "patinetes/etwow": {
+  "nombre": "E-TWOW",
+  "title": "E-TWOW: 10 patinetes, Booster y GT",
+  "description": "10 fichas de patinetes eléctricos E-TWOW: Booster S, Booster Plus, Booster Sport, Booster V y GT SE, GT SL y GT Sport, con datos.",
+  "intro": "E-TWOW se distingue por patinetes ligeros y compactos, y su catálogo se organiza en dos familias claras. La familia Booster, con el Booster S, el Booster Plus S, el Booster Sport y el Booster V, además del S2 Booster Plus, cubre el uso urbano con modelos pensados para plegar y transportar con facilidad. La familia GT sube un escalón con el GT SE, el GT SE Sport, el GT SL, el GT Sport y el GT 2024, modelos de mayores prestaciones dentro del mismo planteamiento ligero. La diferencia entre un Booster y un GT no está solo en la potencia: está en el peso, en la autonomía y en el tipo de trayecto para el que cada uno está pensado. Leer las fichas de ambas familias juntas permite elegir entre la máxima ligereza y un punto más de prestaciones sin salir de la marca. El S2 Booster Plus, dentro de la familia Booster, refuerza la idea de E-TWOW de patinetes ligeros para la ciudad.",
+  "n": 10,
+  "url": "/patinetes/marca/etwow/"
+ },
+ "patinetes/razor": {
+  "nombre": "Razor",
+  "title": "Razor: 10 patinetes, E Prime y E300S",
+  "description": "10 fichas de patinetes eléctricos Razor: E Prime, E Prime Air, E Prime III, C35 y E300S, con autonomía y datos para comparar.",
+  "intro": "Razor es una marca conocida por sus patinetes de iniciación, y su gama eléctrica se entiende como una escalera de autonomía y tamaño. La familia E Prime articula la oferta con el E Prime, el E Prime Air y el E Prime III, tres modelos urbanos de autonomías contenidas para desplazamientos cortos. El C35 sube un escalón en autonomía y formato, mientras el E300S aporta una propuesta distinta, con asiento y un planteamiento más cercano al ciclomotor eléctrico que al patinete urbano clásico. Cada ficha hay que leerla por su uso previsto: un E Prime y un E300S comparten marca pero no usuario, porque uno resuelve trayectos breves y el otro recorridos más largos y cómodos. Las fichas de esta colección detallan autonomía y velocidad de cada modelo para comparar sin confundir familias. El E300S, con su asiento, es el modelo que más se aparta del patinete urbano clásico dentro de la gama Razor.",
+  "n": 10,
+  "url": "/patinetes/marca/razor/"
+ },
+ "patinetes/zwheel": {
+  "nombre": "ZWheel",
+  "title": "ZWheel: 10 patinetes, E9D, E12 y ZLion",
+  "description": "10 fichas de patinetes eléctricos ZWheel: E9D, E12, ZCougar, ZFox Max, ZLion Pro, ZLion X Max y Zrido, con autonomía y datos.",
+  "intro": "ZWheel organiza su gama con series de letras que señalan formato y público, y aprenderlas ayuda a no mezclar modelos. La serie E, con el E9D y el E12, cubre el uso urbano con autonomías contenidas y formatos compactos. El ZCougar y el ZFox Max suben hacia modelos de mayor tamaño y alcance, mientras la familia ZLion, con el ZLion Pro y el ZLion X Max, ocupa la parte alta de la gama en prestaciones. La familia Zrido, con el Zrido SE y el Zrido Duo, aporta un planteamiento distinto, con el Duo como modelo de dos plazas dentro de la colección. Comparar las fichas por series permite ver que ZWheel no ofrece un solo tipo de patinete: del urbano ligero al de mayor autonomía y al de dos plazas, cada serie tiene un uso propio que las cifras de cada ficha dejan claro. El Zrido Duo, con su planteamiento de dos plazas, es el modelo más singular de una gama por lo demás urbana.",
+  "n": 10,
+  "url": "/patinetes/marca/zwheel/"
+ },
+ "coches/baojun": {
+  "nombre": "Baojun",
+  "title": "Baojun: 9 fichas, Xiangjing, Enjoy y Yunduo",
+  "description": "9 fichas técnicas de coches Baojun: Xiangjing EV y PHEV, Enjoy y Yunduo, con datos y versiones para comparar la gama de la marca.",
+  "intro": "Baojun concentra su gama en pocos nombres con variantes de propulsión, y eso hace que cada ficha cuente. El Xiangjing es el modelo central, con el Xiangjing EV eléctrico y el Xiangjing PHEV híbrido enchufable, dos formas de moverse con el mismo coche. El Enjoy aporta un monovolumen de planteamiento práctico para familias y uso profesional, mientras el Yunduo cubre el formato compacto eléctrico con un enfoque urbano. Las demás fichas de la colección siguen esa misma lógica: pocos nombres, versiones eléctricas e híbridas y formatos pensados para el uso diario. Al comparar las fichas conviene fijarse en las siglas EV y PHEV, porque dentro de Baojun la diferencia entre dos fichas de nombre parecido suele estar en la propulsión, no en el tamaño ni en el diseño. El Yunduo, como compacto eléctrico, muestra que Baojun también piensa en la ciudad dentro de una gama de pocos nombres. El Enjoy, con su formato de monovolumen práctico, es el modelo que mejor resume el lado familiar de Baojun.",
+  "n": 9,
+  "url": "/coches/marca/baojun/"
+ },
+ "coches/deepal": {
+  "nombre": "Deepal",
+  "title": "Deepal: 9 fichas, S05, S07, S09 y L06",
+  "description": "9 fichas técnicas de coches Deepal: S05, S07, S09, L06, L07 y G318, con datos y versiones para comparar la gama eléctrica.",
+  "intro": "Deepal distingue sus modelos con letras que señalan el formato: la S para los SUV y la L para las berlinas. La familia S cubre del compacto al grande con el S05, el S05 PHEV y el S05 AWD, el S07 y el S09, una escalera que permite comparar tamaños y sistemas de propulsión dentro de la misma letra. La familia L aporta las berlinas con el L06 y el L07, dos tamaños para dos públicos distintos. El G318 completa la colección como modelo de planteamiento aventurero, al margen de ambas líneas. Al leer las fichas conviene prestar atención a los apellidos PHEV y AWD, porque indican si el modelo es híbrido enchufable o de tracción total, dos datos que cambian el uso diario más que el equipamiento. La gama de Deepal se entiende así como un sistema de letras y apellidos, no como una lista de nombres sueltos. El L07, como berlina de mayor tamaño, permite comparar dos escalones de berlina sin salir de la familia L.",
+  "n": 9,
+  "url": "/coches/marca/deepal/"
+ },
+ "coches/ebro": {
+  "nombre": "Ebro",
+  "title": "Ebro: 9 fichas, S400, S700, S800 y S900",
+  "description": "9 fichas técnicas de coches Ebro: S400, S700, S800 y S900 PHEV, con datos y versiones para comparar la gama de la marca.",
+  "intro": "Ebro ha vuelto al mercado con una gama de SUV numerados, y la cifra ya adelanta el tamaño de cada modelo. El S400 abre la colección como el modelo más compacto, con el S400 Excellence como versión más equipada. El S700 forma el núcleo de la gama, con el S700, el S700 PHEV y el S700 HEV, tres lecturas de propulsión sobre el mismo modelo que conviene comparar con calma. El S800 y el S800 PHEV suben hacia el SUV grande familiar, mientras el S900 PHEV ocupa la parte alta de la colección. La repetición de las siglas PHEV y HEV dentro de un mismo número es la clave de lectura de esta marca: el número dice el tamaño, y las siglas dicen cómo se mueve. Las fichas de esta página permiten comparar cada S700 con su variante híbrida sin mezclar tamaños ni versiones. El S900 PHEV, en lo alto de la colección, marca el techo de una gama numerada que empezó en el S400.",
+  "n": 9,
+  "url": "/coches/marca/ebro/"
+ },
+ "motos/brixton": {
+  "nombre": "Brixton",
+  "title": "Brixton: 9 fichas, Cromwell, Crossfire y Felsberg",
+  "description": "9 fichas técnicas de motos Brixton: Cromwell 125, 250 y 1200, Crossfire 125 y 500 y Felsberg 125, con datos para comparar.",
+  "intro": "Brixton construye su gama alrededor de tres familias de estilo clásico con cilindradas escalonadas. La familia Cromwell es la más amplia, con la Cromwell 125, la Cromwell 250 y la Cromwell 1200, tres tamaños para tres niveles de experiencia dentro de la misma estética. La familia Crossfire aporta el lado scrambler con la Crossfire 125, la Crossfire 125 XS, la Crossfire 500 X y la Crossfire 500 STORR, modelos de campo y carretera con carácter aventurero. La Felsberg 125 completa la oferta como propuesta urbana de iniciación. Al comparar las fichas se aprecia que Brixton no multiplica modelos sin criterio: cada familia tiene su estilo y cada cilindrada su público, de modo que elegir entre una Cromwell y una Crossfire es elegir entre clásica de carretera y scrambler de campo, antes incluso de mirar la cilindrada. La Felsberg 125, como urbana de iniciación, es la puerta de entrada más sencilla al estilo clásico de Brixton.",
+  "n": 9,
+  "url": "/motos/marca/brixton/"
+ },
+ "motos/silence": {
+  "nombre": "Silence",
+  "title": "Silence: 9 fichas eléctricas, S01, S02 y S04",
+  "description": "9 fichas técnicas de motos eléctricas Silence: S01, S01+, S02, S02 HS, S02 LS, S03 y S04, con datos para comparar la gama.",
+  "intro": "La gama de Silence está pensada para ciudad y reparto en eléctrico, y se lee por números y apellidos. La familia S01, con el S01 y el S01+, cubre el scooter eléctrico de uso diario para ciudad. La familia S02 amplía el planteamiento con el S02, el S02 HS y el S02 LS, tres variantes que se distinguen por su orientación y su equipamiento. El S03 sube un escalón en tamaño y capacidad, mientras el S04, con el S04 L6e y el S04 L7e, cierra la gama con modelos de cuatro ruedas ligeros pensados para la ciudad y el reparto. La presencia de las categorías L6e y L7e en los apellidos es un dato clave: indica el tipo de vehículo y el permiso necesario, algo que conviene comprobar en cada ficha antes de comparar un S02 con un S04, porque no pertenecen a la misma categoría. El S03, por encima de las familias S01 y S02, marca el salto de tamaño dentro de la gama eléctrica de Silence.",
+  "n": 9,
+  "url": "/motos/marca/silence/"
+ },
+ "patinetes/evercross": {
+  "nombre": "Evercross",
+  "title": "Evercross: 9 patinetes, H5, H7, H9 y EV",
+  "description": "9 fichas de patinetes eléctricos Evercross: H5, H7, H9, A1, C3, EV08E, EV85F y EV10K Pro, con autonomía y datos para comparar.",
+  "intro": "Evercross organiza sus patinetes en series que se distinguen por la letra inicial, y esa letra ya adelanta el planteamiento. La serie H, con el H5, el H7 y el H9, forma una escalera de prestaciones dentro del mismo formato urbano. La serie EV, con el EV08E, el EV85F y el EV10K Pro, cubre modelos de acceso y de mayor capacidad, con el EV10K Pro como referencia alta de la serie. El A1 y el C3 completan la gama con propuestas propias fuera de las dos series principales. Al comparar las fichas conviene sopesar alcance y peso de cada modelo, porque dentro de Evercross conviven patinetes ligeros de trayecto corto con modelos de mayor alcance, y la letra de la serie ayuda a situar cada uno antes de mirar las cifras concretas. El EV10K Pro, como referencia alta de la serie EV, resume el salto de prestaciones dentro de Evercross.",
+  "n": 9,
+  "url": "/patinetes/marca/evercross/"
  }
 }
