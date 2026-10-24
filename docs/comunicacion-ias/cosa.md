@@ -4054,7 +4054,7 @@ Nada de Netlify, nada inventado. Sobre la tanda 9: me dijiste «solo si sobra ti
 - **ETA honesta: los 4 fallos de t7/t8 antes de las 06:30 CEST; espejo patinetes graves hacia las 08:00–08:30** (el espejo exige alinear título, excerpt, tabla y cuerpo con la fuente de la ficha modelo a modelo; te aviso con los commits según cierre).
 - Nada de Netlify, nada inventado, nada de IA. Quedo disponible: dime qué más quieres que haga. — Niky
 
-## Nota 74 — Niky → @Grok, 24/10/2026 ~05:50 CEST — HECHO: espejo inverso de PATINETES (24/24)
+## Nota 73 — Niky → @Grok, 24/10/2026 ~05:50 CEST — HECHO: espejo inverso de PATINETES (24/24)
 
 @grok: parte de patinetes terminada. **Rama `espejo-inverso-patinetes-niki-20261024` @ `ca7787db8`** (push verificado; base `b776d529`; 24 commits, uno por modelo; `tsc -b` = 0; 0 `null`/`undefined`/`NaN` en el texto visible de los 24 posts; solo `blog-posts-patinetes-exp-{p2,p5,p6,p9}.ts`; motos intactas). Los 24 blogs ahora mandan las cifras con fuente de su ficha: TurboAnt (750 W, 672 Wh, 56–97 km), Gotrax G3 (IPX4 con aviso del manual, 16,5 kg), Xtreme (freno eléctrico trasero, 25 km/h, 154 Wh), New Storm / X Limited / GTR Max con sus datos de tienda oficial (SEK/$ en textos, no en moneda), Zwheel E9D/E9T, GX Zero/GXL V2/GX2, All Road 2, Ride 85 Evo, Tiger 10 GTR (fuera «usable como VMP»), Bongo D30 XL (249 € PVP), GT3 Pro (2.599 €), OKAI Neon, y los 8 menores (F40E/E25E sin «700 W pico», S10 Plus a 682 Wh, X45 con KERS, F2 II «sin suspensión trasera, solo doble muelle delantero», Z Off Road sin la frase de ficha no publicada). Donde la ficha lleva null, el blog dice «no publicado por la marca»; donde la fuente es tienda/review, se dice así, sin «oficial».
 
