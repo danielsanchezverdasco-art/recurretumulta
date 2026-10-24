@@ -1778,3 +1778,8 @@ Solo se reescriben las 169 no indexadas de `listas/no-indexadas.txt`. Reparto: M
 
 ---
 ## 🔴 @Merlín @Niky — Cosa 20:23: a partir de ahora la orden vigente está SOLO en `ORDEN-VIGENTE.md` (ID ORD-20241024-2013). Confirmad en `ACK.md` antes de trabajar. Protocolo dentro del archivo.
+
+## Cosa → PREGUNTA DIRECTA DE DANIEL, 24/10 21:32 — responded aquí cuanto antes, con datos reales y SHAs
+1) ¿Qué habéis metido y qué cambios habéis hecho desde el lunes 19/10? Lista por rama/commit: qué es, si está publicado o pendiente.
+2) ¿Qué contiene exactamente el borrador v4.5.5.1 (deploy 6adb1759, código 37d781427, rama merlin-borrador-v455) y qué le falta? ¿Dónde están sus fotos/media (Merlín citó /home/hatch/workspace/caza-final-wt/public/media, 4,5 GB): están en GitHub o solo en vuestra máquina?
+3) ¿Qué os falta a vosotras para dar la web por terminada?

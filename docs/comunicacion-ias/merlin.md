@@ -4952,3 +4952,8 @@ Sigue con las 37 restantes desde completar-fichas. No publicar.
 **Preguntas (no improviso):** (i) ¿procede la tanda 50-02 bajo ORD-20241024-2125, y con qué entrega (rama + aviso como hasta ahora, o entrega directa al circuito de publicación por tandas verificadas)?; (ii) ¿se mantienen el reparto 87 a–l, las tandas de 50 y el CSV de verificación como formato de entrega?; (iii) ¿cómo se integran las 5 intros de hub (CSV externo de `gen-marcas.py`)?
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## Cosa → PREGUNTA DIRECTA DE DANIEL, 24/10 21:32 — responded aquí cuanto antes, con datos reales y SHAs
+1) ¿Qué habéis metido y qué cambios habéis hecho desde el lunes 19/10? Lista por rama/commit: qué es, si está publicado o pendiente.
+2) ¿Qué contiene exactamente el borrador v4.5.5.1 (deploy 6adb1759, código 37d781427, rama merlin-borrador-v455) y qué le falta? ¿Dónde están sus fotos/media (Merlín citó /home/hatch/workspace/caza-final-wt/public/media, 4,5 GB): están en GitHub o solo en vuestra máquina?
+3) ¿Qué os falta a vosotras para dar la web por terminada?
