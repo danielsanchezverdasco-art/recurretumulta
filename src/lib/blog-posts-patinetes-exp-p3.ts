@@ -205,7 +205,7 @@ Un VMP legal en España está limitado a **25 km/h** y el Burn-e 3 declara **72 
 
 ## Comparativa y veredicto
 
-Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. Y mientras carga, puedes probar el <a href=/juego-monos/>juego caza-monos</a> para despejarte un rato.
+Frente al Max, ahorra 350 € renunciando a 3.360 W de pico y unos 20 km reales: con el mismo chasis, el ahorro tiene sentido. Frente al <a href=/patinetes/nami-klima-max/>Nami Klima Max</a>, paga 1.650 € más por batería y plataforma mayores, pero suma 9 kg que se notan a diario. 
 
 **Veredicto:** merece la pena solo para un perfil concreto: conductor experimentado, con garaje, que lo usará en circuito o finca privada y quiere la plataforma Burn-e sin pagar el Max. No como transporte urbano legal —a 25 km/h, un VMP certificado hace mejor ese trabajo— ni con presupuesto ajustado. Si encajas, parte de la <a href=/patinetes/nami-burn-e-3/>ficha técnica completa del Nami Burn-e 3</a> y confirma por escrito limitación, certificado y garantía.
 
@@ -328,7 +328,7 @@ Un aparato que frena desde 65 km/h exige discos y pastillas en estado impecable,
 
 ## Klima o Burn-e: veredicto
 
-Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece más batería y más potencia a cambio de más peso y más dinero. **Veredicto:** el Klima merece la pena para el entusiasta que quiere prestaciones de hiperpatinete en el formato menos ingobernable posible y que tiene dónde usarlo legalmente; para circular a diario por una ciudad española, la ley manda y toca mirar patinetes VMP certificados. Mientras decides, el <a href=/juego-monos/>juego caza-monos</a> esconde sus monos a velocidades mucho más legales.
+Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece más batería y más potencia a cambio de más peso y más dinero. **Veredicto:** el Klima merece la pena para el entusiasta que quiere prestaciones de hiperpatinete en el formato menos ingobernable posible y que tiene dónde usarlo legalmente; para circular a diario por una ciudad española, la ley manda y toca mirar patinetes VMP certificados. 
 
 ## Plegado, maletero y escaleras: los 38 kilos en la práctica
 
@@ -453,7 +453,7 @@ El mantenimiento se centra en frenos (pastillas y purgado del circuito hidráuli
 
 ## Rivales y veredicto: ¿merece la pena?
 
-Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. Y entre ruta y ruta, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Dentro de casa, el <a href=/patinetes/nami-klima/>Klima estándar</a> ahorra dinero si no necesitas la batería grande; fuera, el <a href=/patinetes/dualtron-city/>Dualtron City</a> juega la carta de la marca coreana con red más asentada, a otro precio. **Veredicto:** el Klima Max merece la pena para quien hace rutas largas y quiere doble motor con celdas LG por 2.449 €, una combinación difícil de igualar; no es para quien busque un patinete ligero para combinar con transporte público ni para quien necesite homologación DGT plena. 
 
 ## Preguntas frecuentes
 
@@ -567,7 +567,7 @@ La lectura que ya hace el post original es la correcta: el doble motor gasta, y 
 
 ## Uso real: máquina de fin de semana, no de última milla
 
-El Blast es un patinete para disfrutar en entornos permitidos y para usuarios que aceptan su logística: 46 kg no se meten en un maletero pequeño ni se suben a un tercero sin ascensor. Como transporte diario legal tiene el límite de los 25 km/h y, limitado, sigue pesando 46 kg: la peor combinación posible para intermodalidad. Su sitio es el del aficionado que quiere prestaciones de doble motor sin pagar el Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza las paradas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El Blast es un patinete para disfrutar en entornos permitidos y para usuarios que aceptan su logística: 46 kg no se meten en un maletero pequeño ni se suben a un tercero sin ascensor. Como transporte diario legal tiene el límite de los 25 km/h y, limitado, sigue pesando 46 kg: la peor combinación posible para intermodalidad. Su sitio es el del aficionado que quiere prestaciones de doble motor sin pagar el Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
 ## Mantenimiento y costes: batería grande, red pequeña
 
@@ -702,7 +702,7 @@ Una batería de 40 Ah no se llena en un descanso: su carga completa es un plan n
 
 ## Blast Max o Burn-e 3 Max: veredicto
 
-El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de prestaciones gemelas y más recorrido comercial, frente al que el Blast Max solo gana si aparece sensiblemente más barato. **Veredicto:** merece la pena para el aficionado a las prestaciones extremas que disponga de espacio privado donde usarlo y asuma su logística; como vehículo para la calle en España, sencillamente no es legal ni práctico. Y si la velocidad se te queda en la cabeza, siempre puedes desquitarte buscando monos a ritmo humano en el <a href=/juego-monos/>juego caza-monos</a>.
+El cara a cara natural es con su hermano <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a>, de prestaciones gemelas y más recorrido comercial, frente al que el Blast Max solo gana si aparece sensiblemente más barato. **Veredicto:** merece la pena para el aficionado a las prestaciones extremas que disponga de espacio privado donde usarlo y asuma su logística; como vehículo para la calle en España, sencillamente no es legal ni práctico. 
 
 ## ¿Y si lo limito a 25 km/h por la pantalla?
 
@@ -1644,7 +1644,7 @@ La batería de **2.160 Wh** es de las grandes del segmento hyper y sostiene la a
 
 ## Uso real: circuito privado y protecciones de moto
 
-Hay que repetir lo que dice el análisis sin suavizarlo: con 90 km/h de máxima, el RS Lite no es un VMP ni puede circular legalmente por la vía pública española ni limitado, porque su velocidad por construcción lo excluye de la categoría. Su uso real es el circuito privado y los recintos cerrados, con protecciones de moto, no de patinete. Para calle, la categoría legal son los 25 km/h de los modelos certificados que encontrarás en el <a href=/comparador-patinetes/>comparador de patinetes</a>. Quien lo compre para otra cosa asume una sanción y un problema de seguro, no un capricho. Ameniza la lectura con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Hay que repetir lo que dice el análisis sin suavizarlo: con 90 km/h de máxima, el RS Lite no es un VMP ni puede circular legalmente por la vía pública española ni limitado, porque su velocidad por construcción lo excluye de la categoría. Su uso real es el circuito privado y los recintos cerrados, con protecciones de moto, no de patinete. Para calle, la categoría legal son los 25 km/h de los modelos certificados que encontrarás en el <a href=/comparador-patinetes/>comparador de patinetes</a>. Quien lo compre para otra cosa asume una sanción y un problema de seguro, no un capricho. 
 
 ## Mantenimiento y costes: recambios de nicho, batería protagonista
 
@@ -1769,7 +1769,7 @@ La batería de **2.880 Wh** es más grande que la de muchas motos eléctricas ur
 
 ## Uso real: un aparato de circuito, no de ciudad
 
-El RS Midnight tiene un uso legítimo y estrecho: rodar en **circuito privado** o en espacios cerrados donde su velocidad no sea un problema legal ni un peligro público. Como vehículo de transporte es un contrasentido: ilegal en vía pública española, imposible de asegurar para circular y demasiado pesado para la intermodalidad que da sentido a un patinete. Quien lo compre debe hacerlo con la misma mentalidad que quien compra una moto de cross sin matricular: el juguete es espectacular, el garaje y el remolque forman parte del presupuesto. Si buscas patinete para el día a día, la categoría legal está en el <a href=/comparador-patinetes/>comparador de patinetes</a>, y el rato de paddock lo ameniza nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El RS Midnight tiene un uso legítimo y estrecho: rodar en **circuito privado** o en espacios cerrados donde su velocidad no sea un problema legal ni un peligro público. Como vehículo de transporte es un contrasentido: ilegal en vía pública española, imposible de asegurar para circular y demasiado pesado para la intermodalidad que da sentido a un patinete. Quien lo compre debe hacerlo con la misma mentalidad que quien compra una moto de cross sin matricular: el juguete es espectacular, el garaje y el remolque forman parte del presupuesto. Si buscas patinete para el día a día, la categoría legal está en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
 ## Mantenimiento y costes: batería enorme, electrónica compleja
 
@@ -1895,7 +1895,7 @@ La cuenta es sencilla: con **675 Wh**, incluso descontando el optimismo habitual
 
 ## Uso real: kilómetros primero, diseño después
 
-El S1F es para quien hace distancia: repartidores urbanos por cuenta propia, usuarios de extrarradio con trayectos de 15-25 km o quien quiera cargar una o dos veces por semana en vez de cada noche. Su diseño genérico y sus 24 kg avisan de lo contrario: no es el patinete de subir a un quinto sin ascensor ni el de presumir. En España, además, su uso en vía pública exige dejarlo en el modo de **25 km/h**, porque en su configuración de 40 km/h queda fuera de la categoría VMP. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a> y ameniza la lectura con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El S1F es para quien hace distancia: repartidores urbanos por cuenta propia, usuarios de extrarradio con trayectos de 15-25 km o quien quiera cargar una o dos veces por semana en vez de cada noche. Su diseño genérico y sus 24 kg avisan de lo contrario: no es el patinete de subir a un quinto sin ascensor ni el de presumir. En España, además, su uso en vía pública exige dejarlo en el modo de **25 km/h**, porque en su configuración de 40 km/h queda fuera de la categoría VMP. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
 ## Mantenimiento y costes: batería grande, cuidados grandes
 
@@ -2036,7 +2036,7 @@ En España, un patinete como el L9 es un **vehículo de movilidad personal (VMP)
 
 ## L9 o S1F, y frente a la competencia: veredicto
 
-La comparativa decisiva es la interna: el propio análisis lo resume en que el **S1F hace casi lo mismo por 625 €**, es más rápido y se vende en Europa, mientras que el L9 es más eficiente, más contenido y no tiene precio oficial en euros. Contra patinetes de gran autonomía de otras marcas, el L9 gana en relación entre batería y peso y pierde en presencia comercial en España. Puedes comparar la gama de la marca, con el <a href=/patinetes/inmotion-s1f/>InMotion S1F</a> y el <a href=/patinetes/inmotion-climber/>InMotion Climber</a>, en el <a href=/comparador-patinetes/>comparador de patinetes</a>, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+La comparativa decisiva es la interna: el propio análisis lo resume en que el **S1F hace casi lo mismo por 625 €**, es más rápido y se vende en Europa, mientras que el L9 es más eficiente, más contenido y no tiene precio oficial en euros. Contra patinetes de gran autonomía de otras marcas, el L9 gana en relación entre batería y peso y pierde en presencia comercial en España. Puedes comparar la gama de la marca, con el <a href=/patinetes/inmotion-s1f/>InMotion S1F</a> y el <a href=/patinetes/inmotion-climber/>InMotion Climber</a>, en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
 **¿Merece la pena?** **Para quién sí:** para quien priorice autonomía real por encima de todo y pueda conseguirlo a precio competitivo en Europa. **Para quién no:** para quien compre en España con garantía local y precio cerrado: ahí el S1F, con red y PVP en euros, es hoy la compra más fácil de justificar.
 
@@ -2164,7 +2164,7 @@ El Hiboy S2 Lite es **el patinete del último kilómetro**: para quien vive a 3�
 
 No lo compres si: pesas más de 80 kg, tu ruta tiene cuestas serias, o quieres un único patinete que valga para todo. En esos casos, el salto a un 350 W con 300+ Wh (como el <a href=/blog/xiaomi-electric-scooter-4-pro-plus/>Xiaomi Electric Scooter 4 Pro Plus</a>) se nota en cada kilómetro.
 
-¿Te pica el gusanillo de los juegos? <a href=/juego-monos/>Prueba el juego de los monos</a> mientras decides.
+¿Te pica el gusanillo de los juegos? 
 
 <img src=/media/patinetes/hiboy-s2-lite-3.webp alt=Hiboy S2 Lite en el metro>
 
@@ -3151,7 +3151,7 @@ El iScooter iX5S es la compra racional para dos perfiles muy concretos: **riders
 
 Si pesas 70 kg y tu ruta es llana, te sobra la mitad de la potencia: un <a href=/blog/iscooter-ix7-pro/>iScooter iX7 Pro</a> es otra filosofía, y un urbano ligero te dará más agilidad. Pero si necesitas fuerza bruta barata, el iX5S es difícil de batir.
 
-¿Un rato de desconexión mientras lo decides? <a href=/juego-monos/>A ver si encuentras los monos</a>.
+¿Un rato de desconexión mientras lo decides? 
 
 
 ## La familia iX: iX5S frente a sus hermanos
@@ -3792,7 +3792,7 @@ El conjunto es coherente para su precio: motor con fuerza de sobra para ciudad c
 
 ## Uso real y autonomía: para quién encaja
 
-Unos **30 km reales** dan para mucho en ciudad: ida y vuelta al trabajo para la mayoría de usuarios, recados encadenados o reparto ligero en distancias cortas. El límite aparece cuando la jornada se alarga o cuando el conductor es pesado y el recorrido tiene cuestas constantes, porque la batería de 13Ah es, como dice la ficha, su techo. La potencia de 800 W cambia la experiencia frente a un urbano básico: mantiene el ritmo en pendientes y no obliga a ayudar con el pie en cada rampa de garaje. A cambio, sus 25,5 kg castigan si hay que plegarlo y cargarlo a diario en trenes o autobuses. Y una advertencia práctica: circularás limitado a 25 km/h, así que esos 800 W se traducen en aceleración y capacidad de subida, no en velocidad legal. Si combinas trayectos largos, su hermano <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, con 874 Wh según la propia comparativa de la ficha, es el paso lógico. Entre trayecto y trayecto, puedes buscar los monos del <a href=/juego-monos/>juego caza-monos</a> ocultos en la web.
+Unos **30 km reales** dan para mucho en ciudad: ida y vuelta al trabajo para la mayoría de usuarios, recados encadenados o reparto ligero en distancias cortas. El límite aparece cuando la jornada se alarga o cuando el conductor es pesado y el recorrido tiene cuestas constantes, porque la batería de 13Ah es, como dice la ficha, su techo. La potencia de 800 W cambia la experiencia frente a un urbano básico: mantiene el ritmo en pendientes y no obliga a ayudar con el pie en cada rampa de garaje. A cambio, sus 25,5 kg castigan si hay que plegarlo y cargarlo a diario en trenes o autobuses. Y una advertencia práctica: circularás limitado a 25 km/h, así que esos 800 W se traducen en aceleración y capacidad de subida, no en velocidad legal. Si combinas trayectos largos, su hermano <a href=/patinetes/kukirin-m4-max/>KuKirin M4 Max</a>, con 874 Wh según la propia comparativa de la ficha, es el paso lógico. 
 
 ## Mantenimiento y costes de uso
 
@@ -4276,7 +4276,7 @@ Con **60–65 km/h** de máxima, el LR10 **no es un VMP legal en vía pública e
 
 El LR10 fue un gran doble motor en su momento, pero **hoy no lo comprarías nuevo porque no existe nuevo**. Su interés está en el mercado de ocasión: si encuentras una unidad con batería sana por 600–800 €, tienes un 2.000 W con 1.080 Wh por la mitad de lo que costaba. Si no, el <a href=/blog/joyor-s5-pro/>Joyor S5 Pro</a> o el actual S10-S-Z te dan la misma filosofía con garantía y repuestos.
 
-¿Necesitas despejarte? <a href=/juego-monos/>Sal a cazar monos por la web</a>.
+¿Necesitas despejarte? 
 
 <img src=/media/patinetes/joyor-lr10-3.webp alt=Joyor LR10 en pista de tierra>
 

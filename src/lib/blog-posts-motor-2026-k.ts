@@ -91,7 +91,7 @@ Dos incógnitas más condicionan su encaje: le correspondería la etiqueta **Cer
 
 Si se acerca a lo homologado, su uso natural será cargar en casa y moverse a diario sin arrancar el generador, reservando los **900 km combinados** para escapadas largas. A cambio, con casi cinco metros aparcar en el centro será una tarea seria, y un EREV sigue teniendo un motor de gasolina que mantener. Sin pruebas independientes ni propietarios en Europa, afirmar más sobre consumo real o capacidad fuera de pista sería inventar.
 
-Mientras tanto, el rato se pasa rastreando monos escondidos entre nuestras fichas con el <a href=/juego-monos/>juego caza-monos</a>.
+
 
 ## Frente a los rivales que ya puedes comprar
 
@@ -201,7 +201,7 @@ Límites honestos: sin protección, en autopista el viento cansa; la Base no inc
 
 ## Mantenimiento y costes de uso
 
-La ficha del sitio recoge revisiones cada 10.000 km, el estándar de BMW Motorrad según la nota oficial: intervalo más corto que el de sus rivales japonesas (12.000 km en sus fichas), y la propia ficha advierte de que la red BMW suele ser más cara. Sin tarifa oficial cerrada, no inventamos cifras: pide el plan por escrito antes de firmar. Entre revisión y revisión, prueba el <a href=/juego-monos/>juego caza-monos</a>.
+La ficha del sitio recoge revisiones cada 10.000 km, el estándar de BMW Motorrad según la nota oficial: intervalo más corto que el de sus rivales japonesas (12.000 km en sus fichas), y la propia ficha advierte de que la red BMW suele ser más cara. Sin tarifa oficial cerrada, no inventamos cifras: pide el plan por escrito antes de firmar. 
 
 ## Carnet A2: encaje legal sin limitación
 
@@ -361,7 +361,7 @@ Si el concept derivara en un modelo de serie eléctrico, en España llevaría **
 
 ## El contexto: E-Space frente al ID. Buzz y al Espace SUV actual
 
-El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a> y, de paso, buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El hueco que Renault explora lo ocupa hoy, casi en solitario, el Volkswagen ID. Buzz, el otro gran intento de resucitar el monovolumen en clave eléctrica. Y dentro de la propia casa, el Espace actual es un SUV híbrido de 7 plazas: el concept sugiere que Renault no da el formato por cerrado. Puedes repasar todos los estrenos del salón en nuestra <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de los eléctricos del Salón de París 2026</a>, comparar los familiares que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>.
 
 **¿Merece la pena?** Como coche, no se puede comprar; como idea, es la declaración más coherente de Renault en años. **Para quién sí:** para familias que echan de menos el monovolumen de verdad y pueden esperar a ver qué llega a producción. **Para quién no:** para quien necesite un 7 plazas eléctrico este año: hoy la respuesta sigue estando en un concesionario, no en un stand.
 
@@ -453,7 +453,7 @@ Como eléctrica pura, la PV5 lleva **etiqueta Cero de la DGT**, con acceso libre
 
 ## Frente a Berlingo eléctrica e ID. Buzz Cargo: veredicto
 
-El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología, y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El post original sitúa bien el hueco: las furgonetas eléctricas de Stellantis —Berlingo y e-Partner— dominan el segmento por precio y red, y la Volkswagen ID. Buzz Cargo juega en una liga de precio superior, más de imagen que de reparto puro. La PV5 ataca el centro con argumentos de eléctrica nativa: plataforma dedicada, carga rápida de 30 minutos y modularidad PBV. Puedes comparar las alternativas que ya se venden en el <a href=/comparador-coches/>comparador de coches</a>, repasar la gama eléctrica de la marca con el <a href=/coches/kia-ev9-2024-precio-ficha-tecnica/>Kia EV9</a> como referencia de su tecnología.
 
 **¿Merece la pena?** Sobre el papel, es la candidata más seria a furgoneta eléctrica de referencia del reparto urbano en cuanto tenga precio español. **Para quién sí:** para autónomos y flotas con rutas urbanas o periurbanas diarias y acceso a carga en base. **Para quién no:** para quien haga rutas largas diarias sin infraestructura de carga, o necesite comprar ya con un precio cerrado: la PV5 aún debe publicar el suyo en España.
 
@@ -561,7 +561,7 @@ Ninguna marca presenta esta avalancha por casualidad. La normativa europea de CO
 
 ## Cómo seguir cada modelo en su ficha
 
-El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. Y entre ficha y ficha, puedes dedicar un rato al <a href=/juego-monos/>juego caza-monos</a>, donde hay monos ocultos repartidos por distintas páginas.
+El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-id-polo-2026-precio-ficha-tecnica/>ficha del Volkswagen ID.Polo</a>, la <a href=/coches/cupra-raval-2026-precio-ficha-tecnica/>ficha del Cupra Raval</a> y la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq</a> para comparar los tres compactos. Si te interesa la ofensiva china, tienes la <a href=/coches/leapmotor-b03-2026-precio-ficha-tecnica/>ficha del Leapmotor B03</a> y la <a href=/coches/leapmotor-d19-2026-precio-ficha-tecnica/>ficha del Leapmotor D19</a>; si buscas el urbano, la <a href=/coches/citroen-2cv-electrico-2028/>ficha del Citroën 2CV eléctrico</a>, y si miras al premium, la <a href=/coches/lancia-gamma-2026-precio-ficha-tecnica/>ficha del Lancia Gamma</a> y la <a href=/coches/smart-2-2026-precio-autonomia-paris/>ficha del smart #2</a>. 
 
 **Veredicto:** París 2026 merece la pena como mapa, no como lista de la compra. Lo sólido son los compactos y urbanos con precio y autonomía ya anunciados —Raval, Epiq e ID.Polo— y la presión real de las marcas chinas. Lo que todavía es promesa debe leerse como declaración de intenciones. La decisión acertada es esperar a los precios finales en España, comparar las fichas que encajen y no pagar hoy por un titular de salón.
 

@@ -921,7 +921,7 @@ Si no conducías tú, responde primero al requerimiento de identificación: apor
 
 ## Errores frecuentes que echan a perder un recurso en Barcelona
 
-El fallo más habitual es pagar con el 50 % y recurrir después, cuando la ley ya tiene esas alegaciones por no presentadas. Le siguen recurrir ante el organismo equivocado, contar solo días laborables y dejar pasar los 20 días naturales, no identificar al conductor cuando había requerimiento expreso y alegar sin prueba: decir «la señal no se veía» sin fotografía suele pesar poco. Entre recurso y recurso, tómate un minuto con el <a href=/juego-monos/>juego caza-monos</a>, pero que el descanso no te coma el plazo.
+El fallo más habitual es pagar con el 50 % y recurrir después, cuando la ley ya tiene esas alegaciones por no presentadas. Le siguen recurrir ante el organismo equivocado, contar solo días laborables y dejar pasar los 20 días naturales, no identificar al conductor cuando había requerimiento expreso y alegar sin prueba: decir «la señal no se veía» sin fotografía suele pesar poco. 
 
 ## Si no pagas ni recurres: recargo, vía ejecutiva y embargo
 
@@ -937,7 +937,7 @@ Ignorar la multa no la hace desaparecer. La ayuda de la sede del Ajuntament de B
 La Guardia Urbana (vías urbanas), la DGT (autopistas y rondas) y el Àrea Metropolitana de Barcelona (vías metropolitanas).
 
 ### ¿Cuánto es la multa por la ZBE de Barcelona?
-100 € por acceder sin etiqueta en días laborables de 7h a 20h en las Rondas (B-10 y B-20).
+200 € (260 € si hay episodio de contaminación declarado) por acceder sin etiqueta en días laborables de 7h a 20h en las Rondas (B-10 y B-20).
 
 ### ¿Dónde presento el recurso en Barcelona?
 En seu.barcelona.cat, buscando «Recursos contra sancions de trànsit», con idCAT, Cl@ve o DNI electrónico.
@@ -1165,7 +1165,7 @@ Si necesitas una estructura, parte del <a href=/blog/recurso-reposicion-multa-mo
 
 **Veredicto:** merece la pena recurrir cuando detectas un defecto comprobable —competencia dudosa, notificación irregular, señalización contraria a la ordenanza, agente sin identificar o precepto mal aplicado— y puedes sostenerlo con documentos dentro de plazo. En ese escenario, pasa primero tu boletín por el <a href=/#analizador>analizador gratuito de multas</a> para ordenar qué falla y qué prueba falta antes de registrar nada.
 
-No compensa recurrir por inercia confiando en que el ayuntamiento no contestará, ni cuando reconoces los hechos, la notificación es correcta y careces de prueba en contra: allí el escrito solo retrasa lo inevitable. Y entre expediente y expediente, un respiro: en la web también vive el <a href=/juego-monos/>juego caza-monos</a>, escondido entre páginas serias para quien prefiera perseguir primates digitales a perseguir plazos administrativos.
+No compensa recurrir por inercia confiando en que el ayuntamiento no contestará, ni cuando reconoces los hechos, la notificación es correcta y careces de prueba en contra: allí el escrito solo retrasa lo inevitable. 
 
 ## Preguntas frecuentes
 
@@ -1463,7 +1463,7 @@ La clasificación medioambiental de la DGT según el nivel de emisiones: CERO (a
 No puedes obtener la pegatina física siendo no residente, pero tu vehículo tiene una equivalencia según su norma Euro, año y combustible. Consúltala en dgt.es/etiqueta antes de tu viaje.
 
 ### ¿Cuánto es la multa por entrar en la ZBE de Barcelona sin etiqueta?
-500 € para turismos y 1.000 € para furgonetas, según esta guía.
+200 €, sanción única para cualquier vehículo sin autorización, y 260 € si hay un episodio de contaminación declarado (Ordenanza de la ZBE de Barcelona, art. 20; ajuntament.barcelona.cat).
 
 ### ¿Cómo sé si mi coche francés o alemán puede entrar en Barcelona?
 En zbe.barcelona.cat hay un buscador por matrícula extranjera. Si tu vehículo es Euro 6 gasolina o diésel, generalmente puedes entrar.

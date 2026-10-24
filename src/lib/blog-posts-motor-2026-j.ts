@@ -79,7 +79,7 @@ La lista de espera de unos 7.500 interesados es la cifra que la compañía manej
 
 Mientras el BIG llega a los concesionarios en 2027, el mercado español ya ofrece alternativas reales. La referencia de ventas está en la <a href=/coches/citroen-ami-2026-precio-ficha-tecnica/>ficha del Citroën Ami</a>, un ligero L6e mucho más barato y limitado a 45 km/h. El enfoque premium del formato lo representa la <a href=/coches/microlino-2026/>ficha del Microlino</a>, con su puerta frontal de homenaje al Isetta. Frente a ambos, el BIG promete algo que ninguno da: autonomía para salir de la ciudad sin calculadora.
 
-Y como en esta web hasta las noticias tienen su mono escondido, el <a href=/juego-monos/>juego caza-monos</a> también se pasea por los artículos de salones, por si quieres buscarlo mientras decides si la movilidad que viene es esto o un coche de verdad.
+
 
 **Veredicto:** el BIG es la propuesta de cuadriciclo más ambiciosa presentada en París por alcance y por planteamiento industrial, y merece atención precisamente porque se fabrica aquí. Pero hoy es una promesa con fecha de 2027 y un precio aún por confirmar por debajo de 18.000 €. Si necesitas moverte ya, Ami y Microlino existen; si puedes esperar y tu vida ocurre en un radio de 40 km, el Liux puede ser el primer L7e que no se queda en juguete urbano.
 

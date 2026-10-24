@@ -450,7 +450,7 @@ Su distintivo es la **C**, sin bonificaciones asociadas a electrificación. Perm
 
 ## Frente a sus hermanos: Performante y SE
 
-El <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Urus Performante</a> costaba 296.596 €, marcaba 3,3 s en el 0-100 y alcanzaba 306 km/h con idénticos 666 CV, orientado a quien prioriza agilidad sobre filtraje. El <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Urus SE</a> parte de 265.895 €, suma 800 CV, declara 3,4 s, 312 km/h y 60 km eléctricos, aunque su maletero cae a 454 litros. Entre ambos, el S conserva sencillez mecánica relativa dentro de lo estratosférico y el mayor maletero, empatado con el Performante. Y cuando termines de comparar toros, cambia de registro probando nuestro <a href=/juego-monos/>juego caza-monos</a>, que se oculta por las páginas de la web.
+El <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Urus Performante</a> costaba 296.596 €, marcaba 3,3 s en el 0-100 y alcanzaba 306 km/h con idénticos 666 CV, orientado a quien prioriza agilidad sobre filtraje. El <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Urus SE</a> parte de 265.895 €, suma 800 CV, declara 3,4 s, 312 km/h y 60 km eléctricos, aunque su maletero cae a 454 litros. Entre ambos, el S conserva sencillez mecánica relativa dentro de lo estratosférico y el mayor maletero, empatado con el Performante. 
 
 **Veredicto:** merece la pena si buscas el Urus de gasolina más equilibrado para viajar rápido con familia y equipaje, aceptando etiqueta C y gastos acordes a su peso. No encaja si necesitas ventajas de etiqueta CERO, uso urbano intensivo o la experiencia más radical de la gama: para lo primero manda el SE; para lo último, el Performante.
 
@@ -844,7 +844,7 @@ Al ser gasolina puro sin hibridación, el EVO luce etiqueta **C**, como recoge s
 | <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> | 338.577 € | 640 CV | 3,0 s |
 | <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a> | 350.782 € | 920 CV | 2,7 s |
 
-El Tecnica afila la propuesta con tracción trasera, el STO cobra su enfoque radical con un maletero de apenas 38 litros y el Temerario cambia de era con 920 CV híbridos. Entre comparativa y comparativa, también puedes rastrear el toro escondido en nuestro <a href=/juego-monos/>juego caza-monos</a> desperdigado por la web.
+El Tecnica afila la propuesta con tracción trasera, el STO cobra su enfoque radical con un maletero de apenas 38 litros y el Temerario cambia de era con 920 CV híbridos. 
 
 **Veredicto:** merece la pena para quien busque el Huracán más equilibrado y quiera conservar el V10 atmosférico con tracción total utilizable en carretera. No es compra sensata para uso urbano frecuente, presupuestos de mantenimiento ajustados ni quien necesite etiqueta ECO: ahí ni su precio de ocasión ni su etiqueta C juegan a favor.
 
@@ -947,7 +947,7 @@ Enviar **610 CV** solo atrás exige algo más que valentía: exige la electróni
 
 ## Uso real: se conduce los días buenos, se guarda los demás
 
-Su uso real es el de un superdeportivo de ocasión especial: salidas de fin de semana, rutas de curvas y eventos. Con **100 litros** de maletero, etiqueta C y un consumo de **13,8 l/100 km** homologado que en uso alegre será otro, no pretende ser otra cosa. En mojado exige las manos que su ficha reclama sin eufemismos. Quien lo compre como inversión emocional debe aceptar que su valor dependerá de kilómetros, historial y originalidad, no solo del escudo. Puedes cruzarlo con otros superdeportivos en el <a href=/comparador-coches/>comparador de coches</a> y pasar el rato con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Su uso real es el de un superdeportivo de ocasión especial: salidas de fin de semana, rutas de curvas y eventos. Con **100 litros** de maletero, etiqueta C y un consumo de **13,8 l/100 km** homologado que en uso alegre será otro, no pretende ser otra cosa. En mojado exige las manos que su ficha reclama sin eufemismos. Quien lo compre como inversión emocional debe aceptar que su valor dependerá de kilómetros, historial y originalidad, no solo del escudo. Puedes cruzarlo con otros superdeportivos en el <a href=/comparador-coches/>comparador de coches</a>.
 
 ## Mantenimiento y costes: la red oficial es parte del precio
 
@@ -1062,7 +1062,7 @@ Que el RWD sea el Huracán más lento de la gama EVO (3,5 s en el 0-100) es casi
 
 ## Uso real: el descapotable de los domingos perfectos
 
-El EVO RWD Spyder es un coche de ocasión especial: asfalto seco, carretera secundaria y techo abajo. Como coche de diario acumula los peajes de su especie (visibilidad con la capota puesta, maletero simbólico, atención permanente de miradas y móviles) y un consumo real que en uso alegre superará con holgura el homologado. Su valor, sin embargo, juega ya en otra liga: la producción ha terminado, no habrá más V10 nuevos de esta clase, y las unidades con tracción trasera y techo abierto son exactamente las que el coleccionismo premia. Puedes ver hacia dónde va la marca en la ficha del <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a> y entretener la espera del buen tiempo con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El EVO RWD Spyder es un coche de ocasión especial: asfalto seco, carretera secundaria y techo abajo. Como coche de diario acumula los peajes de su especie (visibilidad con la capota puesta, maletero simbólico, atención permanente de miradas y móviles) y un consumo real que en uso alegre superará con holgura el homologado. Su valor, sin embargo, juega ya en otra liga: la producción ha terminado, no habrá más V10 nuevos de esta clase, y las unidades con tracción trasera y techo abierto son exactamente las que el coleccionismo premia. Puedes ver hacia dónde va la marca en la ficha del <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a>.
 
 ## Mantenimiento y costes: la factura de un V10
 
@@ -1188,7 +1188,7 @@ Un PHEV de este nivel exige red oficial y recambios específicos: al tren motriz
 
 Frente a él, el <a href=/coches/ferrari-purosangue-2025-precio-ficha-tecnica/>Ferrari Purosangue</a> juega la carta del V12 atmosférico de 725 CV y un precio de 495.000 € según su ficha en este sitio: es la opción emocional, pero sin enchufe ni etiqueta Cero. El <a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Porsche Cayenne</a> parte de 118.067 € con 354 CV en su versión de acceso: mucho más asequible y racional, pero en otra liga prestacional. El Urus SE Performante queda en un territorio propio: prestaciones de superdeportivo, uso eléctrico urbano y formato SUV familiar.
 
-**Veredicto:** merece la pena para quien quiere el SUV más completo y potente de Sant'Agata y valora circular en eléctrico por la ciudad sin renunciar al V8. No es para quien busque ligereza, discreción o un coste de uso sensato: para eso están el SE estándar o rivales más terrenales. Y entre curva y curva, recuerda que en esta web también puedes echar una partida al <a href=/juego-monos/>juego caza-monos</a>.
+**Veredicto:** merece la pena para quien quiere el SUV más completo y potente de Sant'Agata y valora circular en eléctrico por la ciudad sin renunciar al V8. No es para quien busque ligereza, discreción o un coste de uso sensato: para eso están el SE estándar o rivales más terrenales. 
 
 ## Preguntas frecuentes
 
@@ -1295,7 +1295,7 @@ El STJ es un coche homologado para carretera con **etiqueta C**, sujeto a la ITV
 
 ## Rivales y veredicto: ¿merece la pena?
 
-Su comparación natural es su propio donante, el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a>, y su relevo en la gama es el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, ya en otra filosofía mecánica, con el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Revuelto</a> como techo de la casa. Compáralos en el <a href=/comparador-coches/>comparador de coches</a> y tómate un respiro con el <a href=/juego-monos/>juego caza-monos</a>.
+Su comparación natural es su propio donante, el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a>, y su relevo en la gama es el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, ya en otra filosofía mecánica, con el <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Revuelto</a> como techo de la casa. Compáralos en el <a href=/comparador-coches/>comparador de coches</a>.
 
 **Veredicto: ¿merece la pena?** Como coche, el STO ofrece el 95 % de la experiencia por una fracción de su cotización actual. Como objeto histórico —el último V10 atmosférico de Lamborghini, en 10 unidades—, el STJ merece la pena para el coleccionista que lo compró nuevo; en el mercado secundario, su precio ya paga la historia, no las prestaciones.
 
@@ -1415,7 +1415,7 @@ El Sterrato lleva **etiqueta C de la DGT**, como recoge su ficha: 337 g/km de CO
 
 ## Frente al Huracán Tecnica, al STO y al 911 Dakar: veredicto
 
-Dentro de la familia, el <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> es la elección de asfalto y el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> la de circuito; el Sterrato no compite con ninguno: compite con la idea de que un superdeportivo solo sirve en carreteras perfectas. Su único rival conceptual fuera de casa es el Porsche 911 Dakar, con la misma filosofía y otra ejecución. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a> y busca monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Dentro de la familia, el <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Huracán Tecnica</a> es la elección de asfalto y el <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Huracán STO</a> la de circuito; el Sterrato no compite con ninguno: compite con la idea de que un superdeportivo solo sirve en carreteras perfectas. Su único rival conceptual fuera de casa es el Porsche 911 Dakar, con la misma filosofía y otra ejecución. Enfréntalos en el <a href=/comparador-coches/>comparador de coches</a>.
 
 **¿Merece la pena?** **Para quién sí:** para el coleccionista que además quiere usar el coche: 1.499 unidades, el último V10 atmosférico y un concepto sin sucesor. **Para quién no:** para quien busque el Huracán más rápido en circuito o un todoterreno de verdad: el Sterrato es, deliberadamente, ninguna de las dos cosas.
 
@@ -1520,7 +1520,7 @@ La solución híbrida es la parte técnicamente interesante: en lugar de una bat
 
 ## Uso real: no está pensado para usarse, y ahí está su gracia
 
-Seamos honestos: nadie compra un LPI 800-4 para ir a trabajar. Su habitáculo es estrecho, la visibilidad trasera es casi nula, el maletero de 63 l admite poco más que una bolsa blanda y cada kilómetro suma o resta valor según el mercado de colección. Su uso real es el de los eventos, las concentraciones y la contemplación en el garaje, y en ese uso es imbatible: ningún Lamborghini moderno concentra tanta historia por centímetro. Quien busque un V12 para viajar tiene en la gama actual opciones más racionales; quien busque el Countach, solo tiene este, y ya no se vende nuevo. Mientras tanto, nuestro <a href=/juego-monos/>juego caza-monos</a> es gratis y no se agota.
+Seamos honestos: nadie compra un LPI 800-4 para ir a trabajar. Su habitáculo es estrecho, la visibilidad trasera es casi nula, el maletero de 63 l admite poco más que una bolsa blanda y cada kilómetro suma o resta valor según el mercado de colección. Su uso real es el de los eventos, las concentraciones y la contemplación en el garaje, y en ese uso es imbatible: ningún Lamborghini moderno concentra tanta historia por centímetro. Quien busque un V12 para viajar tiene en la gama actual opciones más racionales; quien busque el Countach, solo tiene este, y ya no se vende nuevo. 
 
 ## Mantenimiento y costes: territorio de servicio oficial
 
@@ -1650,7 +1650,7 @@ La ficha de este sitio asigna al Fenomeno la **etiqueta ECO de la DGT**, la que 
 
 ## ¿Con qué compite un coche de 29 unidades? Veredicto
 
-El Fenomeno no compite en una tabla de rivales: compite en la memoria de la marca, como el Lamborghini más potente de su historia, y frente a los hiperdeportivos de serie limitada de las casas rivales, donde la moneda no es solo la potencia sino la escasez y la asignación. Dentro de su propia casa, su significado es cerrar por arriba la era abierta por el Revuelto con el V12 atmosférico definitivo. Puedes situar la gama de Sant'Agata en el <a href=/comparador-coches/>comparador de coches</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El Fenomeno no compite en una tabla de rivales: compite en la memoria de la marca, como el Lamborghini más potente de su historia, y frente a los hiperdeportivos de serie limitada de las casas rivales, donde la moneda no es solo la potencia sino la escasez y la asignación. Dentro de su propia casa, su significado es cerrar por arriba la era abierta por el Revuelto con el V12 atmosférico definitivo. Puedes situar la gama de Sant'Agata en el <a href=/comparador-coches/>comparador de coches</a>.
 
 **¿Merece la pena?** La pregunta no se le puede hacer al mercado, porque el mercado no puede comprarlo: estaba agotado antes de presentarse. **Para quién sí:** para los 29 clientes elegidos, que poseen el techo histórico de potencia de Lamborghini. **Para quién no:** para cualquier otro, por imposibilidad material: el Fenomeno se contempla, se estudia y se desea desde fuera, que también es parte de su función para la marca.
 
@@ -1760,7 +1760,7 @@ La ficha le asigna **etiqueta ECO**, coherente con su condición de híbrido enc
 
 ## Rivales y veredicto: ¿merece la pena?
 
-Su rival natural es su propio hermano, el <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Fenomeno coupé</a>, y el resto de hiperdeportivos descapotables de serie ultracorta de las marcas italianas y británicas. Puedes seguir soñando en el <a href=/comparador-coches/>comparador de coches</a> y bajar a tierra con el <a href=/juego-monos/>juego caza-monos</a>.
+Su rival natural es su propio hermano, el <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Fenomeno coupé</a>, y el resto de hiperdeportivos descapotables de serie ultracorta de las marcas italianas y británicas. Puedes seguir soñando en el <a href=/comparador-coches/>comparador de coches</a>.
 
 **Veredicto: ¿merece la pena?** Para quién sí: para los 15 coleccionistas invitados, que adquieren el Lamborghini descapotable más exclusivo jamás fabricado y una pieza con trayectoria de valor casi asegurada por su escasez. Para quién no: para cualquier otro perfil, por la sencilla razón de que no se puede comprar; y como ejercicio de conducción pura, el coupé ofrece lo mismo con más rigidez y por menos dinero teórico.
 
