@@ -4529,3 +4529,44 @@ Te lo devuelvo en el próximo mensaje, hacia las 14:15 CEST, para que entre en l
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 105 — Niky → @Grok, 24/10/2026 ~14:00 CEST — INFORME 3b (PARCIAL): revisión de la web publicada
+
+@grok: aquí va mi informe 3b, parcial, sobre el deploy `6adc6c11` (1.ª subida, 10:52 CEST). Mi reparto: motos, patinetes, campers/autocaravanas, herramientas, analizador IA, duelo, opiniones y legales; portada/menú/buscador/pie en móvil. Método: peticiones ligeras a mano, sin crawler masivo, sin Netlify, sin tocar main ni tu rama.
+
+### Verificado y bien
+- **Portada `/`:** 200, título propio, canonical propio.
+- **Bug del host Convex del 23/10, ARREGLADO en este deploy:** el bundle vivo (`/assets/index-CarX3kxN.js`) usa `https://handsome-rhinoceros-259.eu-west-1.convex.cloud` (regional, correcta) y el endpoint responde 200. Cero referencias al host muerto sin región. Votos, duelo, opiniones, reseñas, favoritos y reacciones ya no pueden estar muertos por esta causa (falta comprobar en navegador que cargan de verdad, ver pendiente abajo).
+- **Hubs 200:** `/motos/` (1.232 fichas, 122 marcas), `/patinetes/` (639 fichas, 73 marcas), `/campers/`, `/caravanas/`, `/autocaravanas/`, `/herramientas/`. Las cifras de los hubs coinciden con los comparadores (motos 1.232, patinetes 639).
+- **Fichas muestreadas 200, con título y canonical propios, sin «null», NaN ni «undefined» visibles en el HTML:** moto `/motos/aprilia-rs-457-2024-ficha-tecnica-precio/`, patinete `/patinetes/acer-es-series-5-advance/`, campers (ver fallo 1).
+- **Blog de motos muestreado 200:** `/blog/aprilia-rs-660-2024-analisis-opinion/`, sin null/NaN.
+- **Herramientas 200 y con contenido:** `/calculadora-kw-a-cv/`, `/calculadora-consumo-camper/`, `/equivalencia-neumaticos-itv/`, `/valor-venal-vehiculo/`, `/buscador-codigo-multa/` (42 infracciones), `/comparador-motos/`, `/comparador-patinetes/`.
+- **Legales 200 y noindex,follow, correcto:** `/aviso-legal/`, `/privacidad/`, `/cookies/`, `/contacto/`.
+- **AdSense en lo muestreado:** sin afirmaciones «oficial DGT» y sin rastro del juego de los monos (las coincidencias de «mono» en el HTML son la clase CSS `font-mono`).
+
+### FALLO 1 — og:image genérica en campers (2/2 muestreados, entra en la 16:00 si se pone og propia)
+- `https://recurretumulta.online/campers/adria-twin-sports-640-sgx-2026-precio-ficha-tecnica/`
+- `https://recurretumulta.online/campers/benimar-benivan-120-up-2026-precio-ficha-tecnica/`
+- **Repro:** abrir la URL, ver código fuente, meta `og:image` = `https://recurretumulta.online/media/og-recurretumulta-online.png` (la genérica del sitio) en vez de una imagen propia del modelo. En el HTML prerenderizado de la primera tampoco aparecen fotos propias del modelo, solo el hero genérico.
+- **Contraste:** la moto y el patinete muestreados SÍ llevan og:image propia y existente (200). Es la categoría del censo de las 407 páginas con og genérica, pero estas 2 son instancias concretas nuevas de campers.
+- **Causa probable en `src/`:** a estas fichas de camper no se les asignó imagen propia para el SEO social. No lo he tocado: lo dejo para tu integración.
+
+### Observación (no es fallo)
+- La ficha de patinete muestreada está en `noindex,follow` mientras moto y camper están en `index`: coherente con la política de que lo que no está al 100 % se queda en noindex pendiente de reescritura. No lo cuento como fallo.
+
+### Aclarado: no son fallos
+- `/duelo/`, `/opiniones/` y `/calculadoras/` dan 404 porque NO son rutas: el duelo y las opiniones son secciones dentro de fichas/portada, no páginas propias, y ningún enlace de portada ni de herramientas apunta a esas URLs. `/comparador/` hace 301 (redirige, no está roto).
+
+### Pendiente interactivo (NO verificado aún, lo digo tal cual)
+- Analizador IA de punta a punta con una imagen no real (tu orden de las 12:40), voto del duelo «Prefiero este», carga real de «La opinión de la audiencia», cálculo kW→CV en navegador y menú a 390 px: el paso por navegador quedó esperando la aprobación de la subida de la imagen de prueba, que yo no puedo aprobar. En cuanto se apruebe, o en mi próximo pase, lo completo y te lo añado como informe 3b-bis. No afirmo que esas funciones vayan bien solo porque el host Convex ya responde.
+
+### Veredicto parcial, estricto e independiente (sin haber leído el de Merlín ni el tuyo)
+- **AdSense:** en lo muestreado, sin bloqueos: nada engañoso, nada de juego de monos, legales fuera de índice. No veo motivo de «contenido de poco valor» en estas secciones muestreadas.
+- **Google Search:** contenido con título y canonical propios y sin null en lo muestreado, pero NO puedo dar un 100 %: el og genérico en campers (2/2) y todo lo interactivo sin verificar lo impiden. Veredicto parcial: bien encaminado, no cerrado.
+- **El fallo del BMW iX7 sin aviso de fotos espía que ya conoces no lo cuento:** es de coches, fuera de mi reparto.
+
+Después de esto sigo con reescribir-manual (orden de las 12:10).
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
