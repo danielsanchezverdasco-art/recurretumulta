@@ -4603,3 +4603,61 @@ Restante: 0 ficheros nuevos. La parte-02 queda COMPLETA.
 No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, la integración de esta parte-02, o cualquier otra tarea que me encargues.
+
+## @grok lote listo g08 (lote parcial, NO es el cierre de la tarea-51)
+
+Lote parcial de reescribir-manual v2 (tarea-51): solo el fichero g08, nada más. Esto NO cierra la tarea-51: quedan pendientes g09–g12, y aún no se toca mantenimiento ni resto de FAQ (seguridad primero; eso viene después).
+
+- Rama: `reescribir-manual-merlin-v2-20261024`
+- Commit verificado contra la API: `890f1d24c66ddfca151710cc2188a00f47f027aa` — «reescribir-manual v2: g08 entero sin Euro NCAP, 9 secciones Seguridad con solo datos propios, 0 8-gramas compartidos en las secciones nuevas»
+- Head de partida verificado dos veces (antes de empezar y justo antes del commit): `9106b072` (g05); ningún otro agente había avanzado la rama ni entregado g08.
+- Fichero (único fichero del commit, sin force push, sin tocar main, sin Netlify, sin Cloudflare): `src/lib/blog-posts-autocaravanas-lote125-g08.ts` (109.912 bytes, blob `78917714` verificado en la rama)
+
+### Modelos tocados (9/9 posts del fichero)
+
+1. Benimar Mileo 243 2026
+2. Carado T 447 2026
+3. Chausson 720 First Line 2026
+4. Etrusco T 7400 SB 2026
+5. Hymer B-Class MasterLine I 780 2026
+6. Laika Kosmo H 1409 2026
+7. Pilote G740FGJ ÉVIDENCE 2026
+8. Rimor Sarus 95 Plus 2026
+9. Weinsberg CaraBus Grey Edition [FIRE] 600 MQ 2026
+
+### Método (el mismo de g01–g07)
+
+En cada post, sustitución ENTERA de la sección de seguridad: fuera el encabezado y el párrafo con Euro NCAP, y en su lugar un encabezado nuevo «## Seguridad: …» más un párrafo nuevo con solo datos propios y verificables de ese modelo tomados del propio post (base, medidas, distribución, equipamiento ya citado en él). No se ha inventado ningún dato nuevo. Títulos, slugs y excerpts congelados: verificados idénticos antes/después. Fuera de la sección de seguridad, el contenido de los 9 posts es idéntico antes/después. Formato original del fichero conservado (175 líneas antes y después; solo cambian 2 líneas de cabecera y una línea de contenido por post). FAQ sin tocar.
+
+Caso particular de g08 (declarado, sin improvisar): los 9 posts SÍ traían sección de seguridad, así que ninguno quedó sin tocar ni hubo que declarar posts sin sección. Pero sus títulos variaban: solo los posts 1–3 la titulaban «Seguridad…»; los posts 4–9 la titulaban con variantes de Euro NCAP («## Euro NCAP: sin evaluación para autocaravanas», «## Sin estrellas Euro NCAP, con base Mercedes», «## Estrellas Euro NCAP: no existen para este segmento», etc.). Se sustituyó la sección que sigue al Veredicto en cada post, sea cual sea su título. Además, en g08 la sección terminaba con un solo salto antes del siguiente encabezado (no con línea en blanco como en g04); la reescritura respeta esa convención del fichero.
+
+Datos propios destacados (todos del propio post, sin inventar): Mileo 243 con MMA de 3.500 kg para el carnet B pero hoja británica de 3.650 kg que hay que confirmar en la unidad; T 447 con 589 kg entre los 2.911 kg en orden de marcha y la MMA de 3.500 kg (resta, no dato publicado); 720 First Line con seis camas, ISOFIX en el Smart Lounge y carga útil sin publicar; T 7400 SB con gemelas de 217 cm, masa no oficial de 2.801 kg y opción de 3.650 kg que exigiría el C1; I 780 con 4.430 kg que exigen el C1 sobre chasis SLC; Kosmo H 1409 integral scudata de 4.400 kg con C1; G740FGJ ÉVIDENCE con 376 kg de carga útil oficial; Sarus 95 Plus con cinco plazas y carga útil sin publicar (pesar la unidad); CaraBus 600 MQ con Maximum payload publicado de 241 kg.
+
+### Medidas (verificador propio equivalente: las rutas `/workspace/seo/rev24/integral/manual.py` y `scripts/unicidad/` NO existen en esta máquina, así que se usó un verificador propio con la misma regla: normalización en minúsculas, sin HTML ni negritas, 8-gramas; corpus = los 12 ficheros g01…g12 de la rama v2 tras la entrega; sección de seguridad = encabezado con «Seguridad» si lo hay, si no la sección que sigue al Veredicto)
+
+(a) 8-gramas compartidos en las secciones nuevas: **0** en los tres frentes de sección — (i) dentro de g08: 0; (ii) frente a las ya reescritas (g01, g02, g03, g04, g05, g06, g07; 67 secciones): 0; (iii) frente al resto de secciones (las antiguas de g09–g12; 36 secciones): 0. Primera pasada: 42 dentro de g08, 25 frente a las reescritas y 5 frente al resto; se rompieron una a una cambiando el contenido (por ejemplo, quitar la tripleta uniforme de medidas y dar en cada sección solo la dimensión con relevancia para la seguridad de ese modelo, o apoyar la carga en otro dato propio del post), sin muletillas, sin sinónimos rotados y sin incisos de relleno. Transparencia: si se comparan las secciones nuevas contra TODO el texto del corpus (incluido el cuerpo de cada post), comparten 288 8-gramas, que son frases de datos literales del propio post (p. ej. el equipamiento FIRE de serie); con esa misma definición más estricta, g04 daba 163, así que el 0 entregado es el de nivel de sección, igual que en g04.
+
+(b) Menciones Euro NCAP en todo el fichero: antes **19** (18 en los posts + 1 en el comentario de cabecera), después **0** (incluido el comentario de cabecera, redactado a «seguridad con datos propios del modelo»).
+
+(c) 8-gramas del POST ENTERO contra los 12 ficheros, por post:
+
+| Post | 8-gramas totales | Compartidos | % |
+|---|---|---|---|
+| 1 Benimar Mileo 243 | 1.740 | 81 | 4,7 % |
+| 2 Carado T 447 | 1.801 | 150 | 8,3 % |
+| 3 Chausson 720 First Line | 1.716 | 155 | 9,0 % |
+| 4 Etrusco T 7400 SB | 1.516 | 107 | 7,1 % |
+| 5 Hymer B-Class MasterLine I 780 | 1.631 | 86 | 5,3 % |
+| 6 Laika Kosmo H 1409 | 1.530 | 125 | 8,2 % |
+| 7 Pilote G740FGJ ÉVIDENCE | 1.627 | 113 | 6,9 % |
+| 8 Rimor Sarus 95 Plus | 1.552 | 169 | 10,9 % |
+| 9 Weinsberg CaraBus 600 MQ | 1.576 | 143 | 9,1 % |
+
+**Declaración de noindex: como la cifra del post entero NO es 0 en ninguno de los 9 posts, los 9 posts de g08 siguen en noindex aunque la sección nueva dé 0.** La página entera sigue compartiendo plantilla en otras secciones (mantenimiento, FAQ, resto de secciones sin reescribir), así que no prometo un 0 % por página entera. El resto de la unicidad (mantenimiento, resto de FAQ y demás secciones sin reescribir) queda para las fases siguientes.
+
+### Pendiente declarado
+
+- Lote parcial g08 entregado y verificado; tarea-51 sigue abierta: faltan g09–g12, más mantenimiento y resto de FAQ en todos los lotes (seguridad primero).
+- Sin bloqueos: ningún post quedó sin tocar ni con formato distinto.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, resto de FAQ, mantenimiento, o lo que toque) y lo ejecuto.
