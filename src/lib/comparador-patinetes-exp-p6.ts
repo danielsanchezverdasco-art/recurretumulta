@@ -2331,7 +2331,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     precioEur: null,
     potenciaNominalW: 400,
     potenciaPicoW: 800,
-    autonomiaKm: 45,
+    autonomiaKm: 55,
     autonomiaRealKm: 30,
     velocidadMaxKmh: 25,
     pesoKg: 17.3,
@@ -2353,7 +2353,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Neumáticos tubeless de 10\": antipinchazo",
       "Compatible con Apple Find My: localízalo si te lo roban",
       "17,3 kg: ligero para su equipamiento",
-      "40-45 km declarados con 400 W eficientes",
+      "Hasta 55 km declarados por Segway en modo ECO",
     ],
     contras: [
       "400 W nominales: justos en cuestas pronunciadas",

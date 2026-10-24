@@ -173,7 +173,8 @@
     "/terminos",
     "/cookies",
     "/aviso-legal",
-    "/contacto"
+    "/contacto",
+    "/patinetes/turboant-thunder-t1"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",

@@ -2190,6 +2190,10 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     videoCanal: null,
     marca: "TurboAnt",
     modelo: "Thunder T1",
+    // 24/10/2026 (Grok decisión 2): NO es un patinete: es una bicicleta eléctrica fat.
+    // Aviso arriba de la ficha + fuera del comparador/listados de patinetes, noindex y fuera del sitemap.
+    avisoCategoria: "Bicicleta eléctrica fat: no es un patinete ni un VMP",
+    fueraDeComparador: true,
     precioEur: null,
     potenciaNominalW: 750,
     potenciaPicoW: null,

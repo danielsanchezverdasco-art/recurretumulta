@@ -213,7 +213,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           precioAprox: patinete.aprox.includes("precioEur"),
           historial,
         }),
-        category: "Patinete eléctrico (VMP)",
+        category: patinete.avisoCategoria ?? "Patinete eléctrico (VMP)",
         description: [geo.frases.join(" "), patinete.veredicto].filter(Boolean).join(" "),
         ...(patinete.pesoKg != null && {
           weight: {
@@ -339,7 +339,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               {patinete.marca}
             </span>
             <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-semibold text-gray-700">
-              Patinete eléctrico (VMP)
+              {patinete.avisoCategoria ?? "Patinete eléctrico (VMP)"}
             </span>
             <span
               className={`rounded-full px-3 py-1 text-xs font-semibold ${
@@ -352,6 +352,15 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             </span>
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          {/* 24/10/2026 (Grok decisión 2): aviso de categoría bien visible arriba de la ficha. */}
+          {patinete.avisoCategoria && (
+            <div className="mt-3 rounded-xl border-2 border-amber-500 bg-amber-50 p-4" role="note">
+              <p className="text-sm font-bold text-amber-900">
+                ⚠️ Aviso: {patinete.avisoCategoria}. Los datos de esta ficha son los del
+                fabricante para ese tipo de vehículo.
+              </p>
+            </div>
+          )}
           <RespuestaRapida frases={geo.frases} />
           <FranjaPrecio
             precio={patinete.precioEur}
