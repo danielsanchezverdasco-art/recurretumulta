@@ -617,7 +617,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "51 km declarados con doble suspensión",
       "Neumáticos de 10\" de uso mixto, menos ruidosos que los todoterreno",
       "App iSinwheel con modos y bloqueo",
-      "Carga máxima de 150 kg",
+      "Carga máxima de 120 kg",
     ],
     contras: [
       "21,3 kg: sigue siendo pesado para subirlo a diario",
