@@ -4257,3 +4257,25 @@ Dime qué más quieres que haga.
 **Estado de fotos (tarea en curso, sin solaparse):** caza-fotos-parte-02 va por el lote 47/58 (último commit 15:46 CEST, coordinador activo empujando ~1 lote/minuto). El aviso «@grok lote listo fotos parte-02» sale cuando complete 58/58 y se verifique contra el CSV del cruce 944; no antes.
 
 Dime qué más puedo hacer y en qué orden lo quieres: estoy disponible para seguir con las fotos, el texto único de coches o lo que marque la 15:15 en cuanto se confirmen reparto y datos.
+
+## @grok — caza-fotos-parte-02: lotes 48–58 subidos (relevo 24/10)
+
+Relevo de la subida parada en el lote 47/58. Antes de subir nada verifiqué que el head de `caza-fotos-parte-02` seguía en `8d71a093` (sin otro subidor activo) y reconstruí el criterio del subidor anterior contra los lotes 1–47: solo ficheros de fichas `ok` del CSV 944 que faltan en la rama, saltando los que ya están en la base (`main` = `16a6aea48`) y los bytes de aviso (nunca AVISO sobre REAL). Las 5 `falta` y las 5 `dudoso` NO se han subido; Li Auto i9 no está en la lista 944 y no entra. Sin tocar main, Netlify, Cloudflare ni force push; cada lote verificado contra el head tras subirlo.
+
+- Rama: `caza-fotos-parte-02` — head actual: `f168059545cb6556b0359194fbc4cf3153564fd0`
+- Lotes 48–58, 40 ficheros cada uno, 440 ficheros en total (fotos reales del clon `caza-final-wt`):
+  - 48 `67415f22` — /motos/kawasaki-eliminator-500-2025-ficha-tecnica-precio/ .. /motos/kawasaki-ninja-1100sx-2025-ficha-tecnica-precio/
+  - 49 `66e924a8` — /motos/kawasaki-ninja-1100sx-2025-ficha-tecnica-precio/ .. /motos/kawasaki-ninja-500-2026-ficha-tecnica-precio/
+  - 50 `a11c8db6` — /motos/kawasaki-ninja-500-2026-ficha-tecnica-precio/ .. /motos/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio/
+  - 51 `bca40a57` — /motos/kawasaki-ninja-h2-sx-2026-ficha-tecnica-precio/ .. /motos/kawasaki-versys-1000-s-2024-ficha-tecnica-precio/
+  - 52 `31e99dd8` — /motos/zontes-350r-2026/ .. /motos/kawasaki-w800-2024-ficha-tecnica-precio/
+  - 53 `4f641e3e` — /motos/kawasaki-w800-2024-ficha-tecnica-precio/ .. /motos/kawasaki-z125-2026-ficha-tecnica-precio/
+  - 54 `8bb5722c` — /motos/kawasaki-z125-2026-ficha-tecnica-precio/ .. /motos/kawasaki-z650rs-2025-ficha-tecnica-precio/
+  - 55 `6c6cf1ee` — /motos/kawasaki-z650rs-2025-ficha-tecnica-precio/ .. /motos/keeway-rkf-125-2024-ficha-tecnica-precio/
+  - 56 `704c24a6` — /motos/keeway-rkv-125c-2024-ficha-tecnica-precio/ .. /motos/ktm-125-smc-r-2025-ficha-tecnica-precio/
+  - 57 `1f085440` — /motos/ktm-125-smc-r-2025-ficha-tecnica-precio/ .. /motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio/
+  - 58 `f1680595` — /motos/ktm-1390-super-duke-r-evo-2025-ficha-tecnica-precio/ .. /motos/ktm-390-duke-2026-ficha-tecnica-precio/
+
+AVISO IMPORTANTE, sin mareos: el «/58» NO significa que la subida esté completa. El total real pendiente antes de este relevo era de 4.228 ficheros (fotos `ok` que faltaban en la rama), no 440: tras estos 11 lotes QUEDAN 3.788 ficheros, unos 95 lotes más de 40. La siguiente ficha pendiente es /motos/ktm-390-duke-2026-ficha-tecnica-precio/ y la última /campers/etrusco-cv-600-db-2026-precio-ficha-tecnica/. El siguiente turno debe continuar desde el lote 59 con el mismo criterio (solo `ok`, saltar base y bytes de aviso, nunca `falta`/`dudoso`, nunca force push) y conviene renumerar el total para no confundir: 58 era un denominador corto, no el final.
+
+@grok, he terminado esta tanda (lotes 48–58 en `caza-fotos-parte-02`, head `f1680595`). Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
