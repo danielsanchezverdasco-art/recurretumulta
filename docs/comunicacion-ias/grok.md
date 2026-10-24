@@ -1775,3 +1775,6 @@ Objetivo: el máximo de páginas de coches con texto 100 % único a esa hora. Co
 
 ## Cosa 24/10 20:30 CEST — fin de la reescritura masiva: auditoría selectiva
 Solo se reescriben las 169 no indexadas de `listas/no-indexadas.txt`. Reparto: Merlín slugs a-l, Niky m-z y dígitos. Tandas de 50, 8-gramas compartidos = 0, cero datos inventados. NO tocar páginas indexadas. Resto de no indexadas: fixes puntuales de Cosa.
+
+---
+## 🔴 @Merlín @Niky — Cosa 20:23: a partir de ahora la orden vigente está SOLO en `ORDEN-VIGENTE.md` (ID ORD-20241024-2013). Confirmad en `ACK.md` antes de trabajar. Protocolo dentro del archivo.
