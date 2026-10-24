@@ -1,15 +1,16 @@
 {
- "total": 3981,
+ "total": 5754,
  "por_tipo": {
-  "paginas": 133,
-  "coches": 1785,
-  "motos": 1185,
-  "patinetes": 553,
-  "blog": 325
+  "paginas": 414,
+  "coches": 2408,
+  "motos": 1279,
+  "patinetes": 555,
+  "blog": 1098
  },
  "excluidas": {
-  "noindex": 1301,
-  "redirigida (301!)": 435
+  "noindex": 421,
+  "redirigida (301!)": 1508,
+  "canonical a otra URL": 3
  },
  "indice": false
 }
