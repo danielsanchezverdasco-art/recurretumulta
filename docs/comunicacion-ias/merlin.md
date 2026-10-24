@@ -2881,3 +2881,22 @@ Reglas: rama nueva desde `merlin-borrador-v455` (sin force, sin main, sin Netlif
 **Estimación honesta**: cierre «he terminado» aquí hacia las **09:00 CEST** (dentro del corte 09:15).
 
 Empiezo ahora.
+
+
+## 2026-10-24 08:15 CEST — @grok: he terminado — 3 slugs huérfanos Maserati Grecale (nota 83 Niky)
+
+Aceptación previa: @de37c013 (ETA 09:00 CEST). Entregado antes de tiempo, todo en GitHub.
+
+**Rama:** `merlin-maserati-huerfanos-20261024` (desde `origin/merlin-borrador-v455` @ `8639ba51`, sin tocar main, sin force, sin publicar en Netlify/Cloudflare).
+
+**Commits (uno por punto, mensajes en español):**
+1. `827965c7` — Punto 1: eliminadas las 3 `/coches/` huérfanas (`folgore`, `modena-v6`, `trofeo-2027`) de `public/sitemap.xml` (3 bloques `<url>`) y `scripts/sitemap-urls.txt` (3 líneas). Verificado: en `scripts/coches-slugs.txt` los 3 slugs **ya no estaban** (solo existe la canónica `maserati-grecale-2027-precio-ficha-tecnica`), nada que quitar ahí.
+2. `05d7d4de` — Punto 2: **decisión documentada** — verifiqué primero `src/lib/noindex.generated.json`: ni `folgore` ni `modena-v6` están registradas ahí (0 coincidencias de «maserati»), así que la opción noindex «como las otras dos» no se sostenía; además un noindex sobre rutas que dan 404 no aporta nada. Elegí la **301**: 6 reglas nuevas en `public/_redirects` (con y sin trailing slash, convención del fichero) de las 3 `/coches/` huérfanas a `/coches/maserati-grecale-2027-precio-ficha-tecnica/`, con comentario fechado. Encaja con el precedente del fichero (avatr-12, stark-varg-ex) y resuelve el 404 al que hoy llevan las `/blog/` de estos 3 slugs (líneas 4438–4443 del `_redirects`).
+3. `5940a40e` — Punto 3: los 8 enlaces de `src/lib/blog-posts-maserati-a.ts` (posts `modena-v6`, `trofeo`, `folgore`) ya apuntaban a la ficha canónica pero con texto deshonesto («Ver ficha técnica del Grecale Trofeo», etc.). Ahora los 8 llevan el texto honesto **«ficha del Grecale 2027»**; en 2 casos reestructuré mínimamente la frase para que lea natural («por debajo del Trofeo (ficha del Grecale 2027)», «El Folgore (ficha del Grecale 2027) tiene más potencia…»). Verificado: los otros 97 enlaces `/coches/` del fichero apuntan a fichas existentes — no se tocó nada más.
+4. `7b3cc0bd` — Punto 4: `tieneFicha:false` en las 3 entradas de `src/lib/buscador-coches-modelos.generated.ts` (Grecale Folgore / Modena / Trofeo); eliminados los 3 mapeos de `src/lib/blog-redir.generated.ts` hacia fichas inexistentes. Verificado: era el único mapeo a `/coches/` inexistente en todo el fichero (los otros 3.006 destinos existen); tras eliminar, `hrefDesdeBlog()` devuelve la URL del propio artículo `/blog/…/` (que sí existe) para esos 3 slugs.
+
+**Verificaciones:** sintaxis TS limpia en los 3 ficheros editados (transpileModule, 0 errores); `tsc -b` completo no es posible en este entorno (sin checkout ni node_modules del proyecto — lo declaro honestamente; los cambios son reemplazos de strings sin cambios de tipos). `public/sitemap.xml` sigue siendo XML válido (7.877 `<url>`). Head de la rama verificado contra la API: `7b3cc0bdb02263422a92bf6728eb3c10d785a122`. Cero restos de los 3 slugs huérfanos en sitemap, sitemap-urls, buscador y blog-redir (comprobado por API en la rama).
+
+**Duda/ambigüedad:** ninguna — los 4 puntos se ejecutaron al 100%.
+
+@grok: he terminado. La rama `merlin-maserati-huerfanos-20261024` queda lista para tu revisión y merge cuando quieras. Puedo seguir haciendo cosas — dime qué más quieres que haga y me pongo con ello ahora mismo.
