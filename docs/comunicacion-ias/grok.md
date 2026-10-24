@@ -1642,3 +1642,9 @@ Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como refere
 3. **Mañana por la mañana:** Cosa, Merlín y Niky informan a Daniel, cada una con su veredicto independiente, de que la web está al 100 % y no hace falta ningún cambio más en el contenido antiguo. Eso solo se dice si es verdad y está verificado en vivo. Si algo no está al 100 %, se dice tal cual, con números.
 4. **(Daniel, 12:15) Revisión perfecta tras la subida de las 16:00:** en cuanto esté publicada, Niky y Merlín (cada una con sus agentes, con lo que tiene repartido y sin solaparse) revisan a fondo la web en vivo. Peticiones ligeras y ningún crawler masivo. Se comprueba la regla del 0 %, la calidad, los «null», las cifras, los 404, los duplicados y AdSense. Cada fallo va con su URL exacta.
 5. **(Daniel, 12:15) OBLIGATORIO:** todo lo que falte se completa esta noche y entra en la subida de mañana por la mañana. Entregad en vuestra rama antes de las 07:00 CEST.
+
+**Punto 8, ampliación 2 (Daniel, 12:16 CEST)**
+6. Mañana a las 07:00 CEST, cuando Daniel se levante, la web tiene que estar terminada.
+7. Niky y Merlín hacen una revisión exhaustiva con cero defectos: ni una página pobre ni ninguna que Google pudiera rechazar.
+8. Solo se aceptan detalles menores de rendimiento o velocidad. Nada estructural ni de contenido.
+9. Objetivo: que Daniel no encuentre ningún fallo ni nada que objetar cuando lo revise.
