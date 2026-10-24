@@ -1198,7 +1198,7 @@ Solo **limitado a 25 km/h** según la normativa VMP.
       "El Teverun Blade Q es el acceso a la marca: 624 Wh, 30 km, 33 km/h y 24 kg en formato compacto. Ficha técnica y para quién es.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "teverun blade q",
@@ -1214,70 +1214,51 @@ Solo **limitado a 25 km/h** según la normativa VMP.
     ],
     content: `<img src=/media/patinetes/teverun-blade-q-1.webp alt=Teverun Blade Q, vista lateral del patinete compacto>
 
-**¿Buscas solo los datos?** <a href=/patinetes/teverun-blade-q/>Ver ficha técnica del Teverun Blade Q</a>: batería, peso y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Solo te interesan las cifras?** <a href=/patinetes/teverun-blade-q/>Ficha técnica del Teverun Blade Q</a> y <a href=/comparador-patinetes/>enfréntalo a sus rivales en el comparador</a>.
 
-El **Teverun Blade Q** es la puerta de entrada a la marca: batería de **624 Wh** (48V 13Ah), **30 km declarados**, **33 km/h** y **24 kg** en un formato compacto y fácil de plegar. Para probar Teverun sin arruinarse.
+Teverun es una marca de culto. Entre los aficionados a los patinetes de altas prestaciones, el nombre evoca máquinas serias: chasis robustos, electrónica cuidada y una reputación ganada a pulso en la gama alta. El Blade Q es la puerta de entrada a ese mundo: el Teverun más accesible, en formato compacto, con 24 kg, 624 Wh de batería y 30 km declarados. La pregunta que todo aficionado se hace es si el apellido se nota también en el modelo pequeño. La respuesta, con la ficha en la mano, tiene matices.
 
-## Ficha técnica resumida
+Empecemos por el dato más llamativo por su ausencia: la potencia del motor no está publicada por la marca. Ni nominal ni pico. Es una laguna importante en un patinete de esta categoría, y la señalamos porque preferimos decirlo a inventarlo: si el motor es tu criterio de compra principal, aquí tendrás que guiarte por pruebas de usuarios o esperar a que Teverun publique la cifra. Lo que sí sabemos: 33 km/h de velocidad máxima y un comportamiento descrito como ágil en ciudad, coherente con un urbano compacto.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Contenido (según importador) |
-| **Batería** | 48V 13Ah (624 Wh) |
-| **Autonomía declarada** | 30 km |
-| **Autonomía real estimada** | ≈20 km |
-| **Velocidad máxima** | 33 km/h |
-| **Peso** | 24 kg |
+La batería es de 624 Wh (48V 13Ah), una capacidad solvente para el formato: 30 km declarados y unos 20 km reales según nuestra estimación conservadora. Y aquí hay que ser claros: 30 km declarados se quedan cortos para commuters largos. Si tu recorrido diario supera los 12-15 km, irás justo y cargarás cada día. Para ciudad pura —recados, trayectos de 5-8 km, último tramo multimodal— es suficiente y te da dos o tres días sin enchufar. Pero no lo compres pensando en rutas de 40 km, porque no es su guerra.
 
-¿Quieres el detalle completo? <a href=/patinetes/teverun-blade-q/>Ficha técnica completa del Teverun Blade Q</a>.
+El peso y el formato son sus grandes bazas: 24 kg en un formato compacto y fácil de plegar. Para ser un Teverun, es manejable: al maletero va bien, por casa se mueve sin drama y el plegado es de los que invitan a usarlo a diario. Como segundo patinete —el que dejas en la oficina o usas para los recados rápidos mientras el grande descansa— tiene todo el sentido del mundo.
 
-## Precio del Teverun Blade Q en España
-
-Es el Teverun más barato del catálogo, con precio variable según importador. Su argumento es claro: **entrar en la marca por poco dinero**.
+El precio que marca la ficha es de 2.449 €. Es una cifra que choca con la idea de "acceso asequible", y merece una explicación honesta: la ficha recoge ese valor como referencia, pero Teverun no publica una tarifa oficial verificable del Blade Q, así que el precio real lo pone el vendedor o distribuidor europeo y puede variar. Aun así, conviene tener claro que el apellido Teverun se paga: no es un patinete barato, es el Teverun barato. Si buscas el mejor precio por vatio, hay opciones chinas más agresivas; si buscas entrar en la marca con su reputación de construcción, este es el escalón.
 
 <img src=/media/patinetes/teverun-blade-q-2.webp alt=Detalle del Teverun Blade Q plegado>
 
-## Autonomía real vs declarada
+Un dato curioso de la ficha: el Blade Q Pro —su hermano con doble motor— marca 2.299 €, es decir, menos que los 2.449 € del Q básico, con mejores cifras en casi todo (700 W, 720 Wh, 40 km declarados, 50 km/h). Es una anomalía que probablemente refleja momentos o canales de venta distintos, y la contamos tal cual está en la ficha: si te cuadra el presupuesto, compara los dos antes de decidir, porque el Pro ofrece más por menos según estos datos.
 
-**30 km declarados** que en la práctica se quedan en **unos 20 km**. Es un patinete para trayectos cortos: si tu ruta supera los 8-10 km por trayecto, se te queda justo.
+¿Para quién es? Para el aficionado a Teverun que quiere la marca sin pagar la gama alta, para el que busca un segundo patinete compacto y manejable, para ciudad pura con trayectos cortos y para el que valora la construcción por encima de la ficha de potencia. ¿Para quién no? Para el commuter de 20 km diarios —30 km declarados no dan—, para el que compra por vatios —la potencia no está publicada—, para el cazador de chollos y para el que necesite precio oficial cerrado de la marca.
 
-## Frenos y neumáticos
+La normativa: con 33 km/h de máxima, en España debe ir limitado a 25 km/h en vía pública para ser un VMP legal sin matices —la propia ficha lo señala—, y la acera está prohibida como siempre.
 
-Frenos de disco y neumáticos estándar. Nada exótico, pero suficiente para 33 km/h y 24 kg.
-
-## Certificado DGT y normativa VMP
-
-A **33 km/h** no es legal en vía pública española sin limitar: los VMP están limitados a **25 km/h**, con **prohibición de aceras**. Limítalo y circula por donde toca.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Precio de entrada a Teverun | 30 km: autonomía justa |
-| 24 kg: manejable | Potencia sin publicar |
-| 624 Wh para ciudad | A 33 km/h hay que limitarlo |
-| Compacto y plegable | Acabados básicos |
-| Ideal como segundo patinete | Reventa floja |
+Nuestra valoración: el Blade Q es un patinete de marca premium en formato contenido, con sus luces y sus sombras bien definidas. Luces: 24 kg, formato compacto, 624 Wh, construcción Teverun. Sombras: potencia sin publicar, 30 km declarados justos para mucho uso y precio sin tarifa oficial. No es para todo el mundo, pero para su público —el que quiere un Teverun manejable para ciudad— cumple su papel.
 
 <img src=/media/patinetes/teverun-blade-q-3.webp alt=Teverun Blade Q en la ciudad>
 
 ## Preguntas frecuentes
 
-### ¿Para quién es el Blade Q?
-Para **trayectos cortos urbanos** (menos de 10 km) y para quien quiera probar la marca sin gastar mucho.
+### ¿Cuánto cuesta el Teverun Blade Q?
+La ficha marca 2.449 €, pero Teverun no publica una tarifa oficial verificable: el precio final depende del distribuidor europeo.
+
+### ¿Qué potencia tiene?
+La marca no publica la potencia del motor, ni nominal ni de pico. Es el gran dato ausente de su ficha.
 
 ### ¿Qué autonomía real tiene?
-Unos **20 km**, frente a 30 km declarados.
-
-### ¿Blade Q o Blade Q Pro?
-El Pro añade doble motor y más batería. Si te tienta la tracción total, el Pro; si no, el Q normal basta y sobra.
+30 km declarados; unos 20 km reales según nuestra estimación conservadora. Justo para commuters largos.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, como cualquier VMP.
+Con 33 km/h de máxima debe ir limitado a 25 km/h en vía pública.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Merece la pena mirar el Blade Q Pro?
+Según la ficha, el Pro (2.299 €) ofrece más —doble motor, más batería y más velocidad— por menos precio. Compáralos antes de decidir.
 
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+¿Te sancionaron con el patinete? <a href=https://recurretumulta.online/#analizador>Pásala por el analizador gratuito con IA</a> antes de pagar: te dice si es recurrible.
+
+*Cómo verificamos los datos: precio (2.449 €), batería (624 Wh, 48V 13Ah), autonomía (30 km declarados), velocidad (33 km/h) y peso (24 kg) tomados de la <a href=/patinetes/teverun-blade-q/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.teverun.com/>teverun.com</a>, web oficial de la marca. La autonomía real (20 km) es estimación propia conservadora. La marca no publica oficialmente la potencia del motor, la carga máxima, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "teverun-blade-q-pro",
@@ -1302,71 +1283,57 @@ El Pro añade doble motor y más batería. Si te tienta la tracción total, el P
     ],
     content: `<img src=/media/patinetes/teverun-blade-q-pro-1.webp alt=Teverun Blade Q Pro, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/teverun-blade-q-pro/>Ver ficha técnica del Teverun Blade Q Pro</a>: doble motor y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Directo a los números?** <a href=/patinetes/teverun-blade-q-pro/>Ficha técnica del Teverun Blade Q Pro</a> y <a href=/comparador-patinetes/>comparador frente a sus rivales</a>.
 
-El **Teverun Blade Q Pro** es un experimento divertido: **doble motor de 350 W** (700 W en total), batería de **720 Wh** (48V 15Ah), **40-50 km/h** y **40 km declarados**, todo en **24 kg** con **120 kg** de carga máxima.
+Tracción total en 24 kilos. Esa es la frase que resume al Teverun Blade Q Pro, y cuesta encontrar otro patinete que la pueda decir: doble motor de 350 W —700 W nominales en total— metidos en un formato ligero de 24 kg, con 720 Wh de batería, 40 km declarados y 50 km/h de velocidad máxima, por 2.299 € según la ficha. Es la versión con esteroides del Blade Q básico, y sobre el papel es una de las propuestas más interesantes de la gama de acceso de Teverun: prestaciones de doble motor sin el peso habitual de los dobles motores.
 
-## Ficha técnica resumida
+El doble motor es el protagonista. Dos motores de 350 W, uno por rueda, suman 700 W nominales —la potencia de pico no la publica la marca—. La tracción total se nota sobre todo en tres situaciones: al arrancar, donde el reparto del par da una salida limpia y contundente; en cuestas, donde dos motores empujan mejor que uno; y en firmes deslizantes, donde la tracción repartida da más aplomo. Con 50 km/h de máxima (dato aproximado en la ficha), en prestaciones se codea con patinetes bastante más caros y pesados. La propia ficha describe su ritmo como alegre para su tamaño, y es una buena definición: no es un misil, es un patinete ligero que anda mucho.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Contenido (según importador) |
-| **Motor** | Doble, 350 W + 350 W |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 40 km |
-| **Autonomía real estimada** | ≈27 km |
-| **Velocidad máxima** | 40-50 km/h |
-| **Peso / carga máx.** | 24 kg / 120 kg |
+Y lo de ligero no es un decir: 24 kg con doble motor y 720 Wh es una cifra excelente. La mayoría de los dobles motores se van a 30-35 kg; el Blade Q Pro consigue meter la tracción total en el peso de un urbano potente de un solo motor. Eso lo cambia todo en el día a día: al maletero va sin pelear, se mueve por casa, y la barrera psicológica de los 30 kg —a partir de la cual un patinete se vuelve un mueble— no se cruza. Además admite 120 kg de carga máxima, una cifra muy buena para su peso: el ratio peso/carga es de lo mejor de su categoría.
 
-¿Quieres el detalle completo? <a href=/patinetes/teverun-blade-q-pro/>Ficha técnica completa del Teverun Blade Q Pro</a>.
-
-## Precio del Teverun Blade Q Pro en España
-
-Precio de acceso a la tracción total, variable según importador. Su gracia es ofrecer **doble motor por poco dinero** en un formato ligero.
+La batería es de 720 Wh (48V 15Ah), con 40 km declarados y unos 27 km reales según nuestra estimación conservadora. Aquí hay que hacer una advertencia honesta que recoge la propia ficha: la autonomía real con los dos motores trabajando cae rápido. La tracción total come vatios, y si vas siempre a fondo con ambos motores, esos 27 km estimados se quedan cortos. El truco está en usar el modo de un solo motor para el día a día y reservar la tracción total para cuando la necesites: así la batería rinde lo que promete.
 
 <img src=/media/patinetes/teverun-blade-q-pro-2.webp alt=Detalle de la plataforma del Teverun Blade Q Pro>
 
-## Autonomía real vs declarada
+El precio de ficha es de 2.299 €, y aquí hay un dato que llama la atención: es menos que los 2.449 € que marca la ficha del Blade Q básico, con mejores cifras en casi todo —doble motor frente a potencia sin publicar, 720 Wh frente a 624 Wh, 40 km frente a 30 km declarados, 50 km/h frente a 33 km/h—. Probablemente refleja momentos o canales distintos, pero el mensaje para el comprador es claro: a igualdad de presupuesto, el Pro ofrece más por menos según estos datos. Eso sí, Teverun no publica una tarifa oficial verificable del Blade Q Pro, así que confirma el precio con el distribuidor.
 
-**40 km declarados** que con los dos motores se quedan en **unos 27 km reales**. La tracción total gasta: en modo single aguanta más.
+Los puntos a mejorar son los de la gama de entrada de una marca premium: componentes correctos pero no de lujo, poca información oficial —la marca tiene este modelo en segundo plano frente a sus gamas altas— y la potencia de pico sin publicar. Nada grave, pero si vienes de un Teverun grande notarás el escalón.
 
-## Frenos y neumáticos
+¿Para quién es? Para el que quiere tracción total sin cargar con 35 kg, para el aficionado a Teverun que busca el acceso a la marca con prestaciones, para ciudad y extrarradio con cuestas donde el doble motor brilla, y para quien valora el ratio peso/prestaciones por encima de todo. ¿Para quién no? Para el piso sin ascensor —24 kg se llevan, pero a diario cansan—, para el que hace rutas larguísimas —40 km declarados tienen su límite— y para el que necesite documentación oficial exhaustiva de la marca.
 
-Frenos de disco y neumáticos estándar para su segmento. Con 700 W totales y 24 kg, el equipo es suficiente sin alardes.
+La normativa es clara: con 50 km/h de máxima debe ir limitado a 25 km/h en vía pública española para circular como VMP legal, y la acera está prohibida.
 
-## Certificado DGT y normativa VMP
+¿Rivales? El iScooter iX7 Pro ofrece doble motor de 2.000 W y 80 km declarados por 486 € de ficha: muchísima más potencia bruta por muchísimo menos dinero, pero con 30 kg, acabados básicos y sin el respaldo de una marca de culto. La disyuntiva es filosofía pura: iX7 Pro para máximas prestaciones por euro, Blade Q Pro para tracción total ligera con construcción Teverun. Y en casa, el Blade Q básico: menos de todo por más precio según la ficha —el Pro es la compra lógica salvo que el precio real de mercado diga otra cosa—.
 
-A **40-50 km/h** no es un VMP legal en España: **25 km/h máximo**, **aceras prohibidas**. Úsalo limitado en vía pública o deslimitado solo en privado.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Doble motor en 24 kg | Potencia pico sin publicar |
-| 720 Wh: 40 km declarados | No legal a su velocidad en España |
-| 120 kg de carga máxima | La autonomía real cae en dual |
-| 40-50 km/h: alegre | Componentes de entrada |
-| Tracción total barata | La marca lo tiene en segundo plano |
+Nuestra valoración: el Blade Q Pro es el Teverun más inteligente de la gama de acceso. Meter 700 W de tracción total, 720 Wh y 120 kg de carga en 24 kg por 2.299 € de ficha es una hazaña de diseño, y para quien busca doble motor ligero hay pocas alternativas. Sus peros —autonomía que cae con los dos motores, poca información oficial, componentes de entrada— son asumibles. Si el precio de mercado respeta la ficha, es una compra muy seria.
 
 <img src=/media/patinetes/teverun-blade-q-pro-3.webp alt=Teverun Blade Q Pro en ruta urbana>
 
+El canal Lando Cycle lo prueba en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/7SZcDbWBpsc title="Prueba del Teverun Blade Q Pro por Lando Cycle" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Qué potencia tiene?
-**Dos motores de 350 W** (700 W combinados nominales).
+### ¿Cuánto cuesta el Teverun Blade Q Pro?
+La ficha marca 2.299 €, pero Teverun no publica una tarifa oficial verificable: confirma el precio con el distribuidor europeo.
 
 ### ¿Qué autonomía real tiene?
-Unos **27 km** en uso mixto con doble motor.
+40 km declarados; unos 27 km reales según nuestra estimación conservadora, menos si usas los dos motores a fondo siempre.
 
-### ¿Es mejor que el Blade Q normal?
-Tiene más motor y batería, pero también más peso y precio. Para ciudad tranquila, el Q normal basta.
+### ¿Pesa mucho para ser doble motor?
+24 kg es una cifra excelente: la mayoría de los dobles motores pesan 30-35 kg.
+
+### ¿Cuál elijo: Blade Q o Blade Q Pro?
+Según la ficha, el Pro da más por menos (2.299 € frente a 2.449 €). Salvo que el mercado diga otra cosa, el Pro es la compra lógica.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** como VMP.
+Con 50 km/h de máxima, debe ir limitado a 25 km/h en vía pública.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+¿Multa con el patinete? <a href=https://recurretumulta.online/#analizador>Revísala gratis con nuestra IA</a> antes de decidir si la pagas.
 
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+*Cómo verificamos los datos: precio (2.299 €), doble motor (700 W nominales, 2x350 W), batería (720 Wh, 48V 15Ah), autonomía (40 km declarados), velocidad (50 km/h), peso (24 kg) y carga máxima (120 kg) tomados de la <a href=/patinetes/teverun-blade-q-pro/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.teverun.com/>teverun.com</a>, web oficial de la marca. La autonomía real (27 km) es estimación propia conservadora, la velocidad figura como aproximada y la marca no publica oficialmente la potencia de pico, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT.*
+`,
   },
   // ────────────────────────── INMOTION (6) ─────────────────────────
   {
@@ -2171,71 +2138,55 @@ Sí: **21 km/h**, dentro del límite VMP de 25 km/h.
     ],
     content: `<img src=/media/patinetes/hiboy-max-pro-1.webp alt=Hiboy Max Pro, vista lateral completa>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-max-pro/>Ver ficha técnica del Hiboy Max Pro</a>: batería, motor y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Solo buscas las cifras?** <a href=/patinetes/hiboy-max-pro/>Ficha técnica completa del Hiboy Max Pro</a> y <a href=/comparador-patinetes/>comparador frente a sus rivales</a>.
 
-El **Hiboy Max Pro** es el superventas lógico de la marca: **720 Wh** (48V 15Ah), **75 km declarados**, motor de **500 W** (650 W de pico) y **23,4 kg**. Mucho patinete por su precio habitual.
+El Hiboy Max Pro es uno de esos patinetes que se hicieron un nombre a pulso en Estados Unidos antes de que Europa supiera pronunciar bien la marca. Allí es un superventas del commuter diario: gente que lo usa para ir a trabajar, para moverse por campus universitarios enormes y para el último tramo entre el parking y la oficina. Su receta no tiene misterio: batería grande, motor solvente, peso contenido y un precio que no asusta. Vamos a desgranarla con la ficha en la mano, porque aquí hay un matiz importante con el precio que conviene explicar desde el principio.
 
-## Ficha técnica resumida
+El precio que maneja nuestra ficha es de unos 600 €, pero ojo: es una estimación. Hiboy no vende oficialmente en España ni publica una tarifa en euros para el Max Pro; lo que existe es la tarifa oficial estadounidense, 656,98 $, convertida a euros al cambio del BCE del 19/10/2026 (1,1225) y redondeada. Es la mejor aproximación honesta disponible, y la marcamos como aproximada en la ficha. Si lo compras en Europa será a través de importadores o tiendas que lo traen de fuera, así que el precio final puede bailar según el vendedor, el envío y los aranceles. Dicho esto, moverse en torno a los 600 € lo coloca en plena guerra de los commuters con batería grande, que es donde quiere estar.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Gama media Hiboy |
-| **Motor** | 500 W (650 W de pico) |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 75 km |
-| **Autonomía real estimada** | ≈50 km |
-| **Velocidad máxima** | 35 km/h |
-| **Peso** | 23,4 kg |
+Y la batería es, sin duda, su gran argumento: 720 Wh (48V 15Ah). Para ponerlo en perspectiva, muchísimos urbanos populares se mueven entre 350 y 500 Wh; el Max Pro juega en otra liga de capacidad. Hiboy declara 75 km; nuestro cálculo conservador para uso mixto sitúa la autonomía real en unos 50 km. Son cifras de las que permiten olvidarse del cargador durante días: con un uso diario de 12-15 km, cargas dos veces por semana. Esa es la libertad que da una batería de 720 Wh, y es el motivo por el que este modelo tiene tantos defensores entre los que hacen kilómetros de verdad.
 
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-max-pro/>Ficha técnica completa del Hiboy Max Pro</a>.
+El motor acompaña: 500 W nominales con 650 W de pico. No es un doble motor ni pretende serlo; es un trasera clásico bien dimensionado para ciudad. Los 500 W nominales mueven con soltura a un adulto medio en llano y se defienden en cuestas moderadas, y los 650 W de pico aparecen al arrancar o al afrontar una rampa para que no se note el esfuerzo. A 35 km/h de velocidad máxima, en circuito privado o donde la normativa lo permita es un patinete alegre; en vía pública española, como casi todos sus rivales, deberá ir limitado a 25 km/h para circular como VMP legal. Aceras prohibidas, como siempre.
 
-## Precio del Hiboy Max Pro en España
-
-Gama media de Hiboy, con precio agresivo en ofertas. Su relación batería/precio es de las mejores del catálogo de la marca.
+El peso es otro punto a su favor: 23,4 kg. Para llevar 720 Wh encima es una cifra contenida —hay rivales con menos batería que pesan más—, y se nota al subirlo al maletero o al cargarlo un tramo de escaleras. No es un pluma, pero está en el lado amable de la balanza para su categoría.
 
 <img src=/media/patinetes/hiboy-max-pro-2.webp alt=Detalle de la batería del Hiboy Max Pro>
 
-## Autonomía real vs declarada
+Ahora, lo que no trae, porque también hay que contarlo. El asiento no está incluido de serie: si quieres ir sentado tendrás que buscar un accesorio compatible o mirar a su hermano el U2 Pro, que lo trae de fábrica. Los acabados son correctos sin lujos —plásticos funcionales, nada que deslumbre pero nada que se caiga a pedazos—, en la línea de lo que se espera por este precio. Y la app de Hiboy, según comentan usuarios, es mejorable: cumple para lo básico pero no esperes la pulcritud de las apps de las marcas premium europeas. Son peajes razonables para un patinete que pone casi todo el presupuesto en batería y motor.
 
-**75 km declarados** frente a **unos 50 km reales** en uso mixto. Aun así, 50 km reales dan para ir y volver al trabajo varios días sin cargar.
+¿Para quién es el Max Pro? Para el commuter que hace 10-20 km al día y quiere olvidarse de cargar cada noche. Para el que viene de un patinete de 350 Wh y está harto de mirar el porcentaje de batería a media tarde. Para el que busca el mejor coste por kilómetro de autonomía sin meterse en dobles motores ni en pesos de 30 kg. ¿Para quién no? Para el que necesita subirlo a un tercero sin ascensor a diario —23,4 kg se pueden llevar, pero todos los días cansa—, para el que quiere ir sentado de serie y para el que busca marca con servicio técnico oficial en cada esquina en España, porque Hiboy no tiene red oficial aquí y los repuestos llegan desde EE. UU. o la UE con sus plazos.
 
-## Frenos y neumáticos
+Comparándolo con la competencia: frente a urbanos de 500 Wh por precio similar, el Max Pro gana por goleada en autonomía; frente a dobles motores chinos del mismo rango de precio, pierde en prestaciones brutas pero gana en peso y en sencillez —un solo motor es un solo motor que mantener—. Y dentro de casa, frente al U2 Pro (750 W, 624 Wh, sillín de serie, 36,6 kg), el Max Pro es el ligero y el rutero; el U2 Pro, el de carga y potencia.
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar correcto para 35 km/h y 23,4 kg.
-
-## Certificado DGT y normativa VMP
-
-Ojo: declara **35 km/h**, así que en España debe circular **limitado a 25 km/h** para ser un VMP legal. Prohibido en **aceras**, como siempre.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 720 Wh: 75 km declarados | A 35 km/h hay que limitarlo |
-| 500 W con buen empuje | 50 km reales en uso mixto |
-| 23,4 kg: contenido | Sin sillín de serie |
-| 35 km/h en privado | Acabados sin lujos |
-| Buenos repuestos | App mejorable |
+Nuestra valoración: el Max Pro es un commuter muy honesto. No deslumbra en ningún apartado salvo en la batería, pero es que la batería es el apartado que más se nota en el día a día. 720 Wh por unos 600 €, con 23,4 kg y una marca con buena disponibilidad de repuestos en EE. UU. y la UE, es una ecuación difícil de superar si tu prioridad es hacer kilómetros sin pensar en el enchufe. El asterisco es el precio estimado y la ausencia de red oficial en España: cómpralo sabiendo dónde lo vas a mantener.
 
 <img src=/media/patinetes/hiboy-max-pro-3.webp alt=Hiboy Max Pro en carril bici>
 
+Puedes ver una prueba en profundidad en este vídeo del canal RK9 Rides:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/wAA8I7mAK9A title="Prueba del Hiboy Max Pro por RK9 Rides" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
+### ¿Cuánto cuesta el Hiboy Max Pro en España?
+No hay tarifa oficial en euros: nuestra ficha estima unos 600 € a partir de los 656,98 $ oficiales en EE. UU. El precio final depende del importador o tienda.
+
 ### ¿Qué autonomía real tiene?
-Unos **50 km** en uso mixto.
+75 km declarados y unos 50 km reales en uso mixto según nuestro cálculo conservador. Con 720 Wh es de los mejores en su rango de precio.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+A 35 km/h de máxima, debe limitarse a 25 km/h en vía pública. Hiboy no vende oficialmente aquí, así que revisa bien la homologación de la unidad que compres.
 
-### ¿Max Pro o KS4 Pro?
-El Max Pro tiene más batería (720 Wh frente a 417 Wh); el KS4 Pro es más ligero y compacto. Para autonomía, Max Pro.
+### ¿Trae asiento?
+No de serie. Si lo quieres con sillín, mira el Hiboy U2 Pro.
 
-### ¿Cuánto pesa?
-**23,4 kg**: razonable para su batería.
+### ¿Pesa mucho para su batería?
+23,4 kg con 720 Wh es una cifra contenida: hay rivales con menos batería que pesan más.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+¿Te han multado circulando con el patinete? <a href=https://recurretumulta.online/#analizador>Analiza la multa gratis con nuestra IA</a> antes de decidir si la pagas.
 
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+*Cómo verificamos los datos: precio estimado (~600 €, conversión de 656,98 $ al cambio BCE 19/10/2026), motor (500/650 W), batería (720 Wh, 48V 15Ah), autonomía (75 km declarados), velocidad (35 km/h) y peso (23,4 kg) tomados de la <a href=/patinetes/hiboy-max-pro/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.hiboy.com/>hiboy.com</a>, web oficial de la marca. La autonomía real (50 km) es estimación propia conservadora y el precio figura como aproximado en la ficha.*
+`,
   },
   {
     slug: "hiboy-titan",
@@ -2333,7 +2284,7 @@ Si valoras la **fiabilidad del motor** y el soporte a largo plazo, sí. Si solo 
       "El Hiboy ECOM 14 rompe moldes: sillín y cesta de serie, ruedas de 14\", 480 Wh y 50 km. Ficha técnica y vídeo del más práctico.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 7,
+    readTime: 6,
     locale: "all",
     keywords: [
       "hiboy ecom 14",
@@ -2349,76 +2300,57 @@ Si valoras la **fiabilidad del motor** y el soporte a largo plazo, sí. Si solo 
     ],
     content: `<img src=/media/patinetes/hiboy-ecom-14-1.webp alt=Hiboy ECOM 14 con sillín y cesta, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-ecom-14/>Ver ficha técnica del Hiboy ECOM 14</a>: sillín, cesta y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Vas con prisa?** <a href=/patinetes/hiboy-ecom-14/>Aquí tienes la ficha técnica del Hiboy ECOM 14</a> con todos los datos, y en el <a href=/comparador-patinetes/>comparador de patinetes</a> puedes enfrentarlo a sus rivales.
 
-El **Hiboy ECOM 14** no quiere ser un patinete más: trae **sillín y cesta de serie**, **ruedas de 14 pulgadas**, motor de **350 W** (450 W de pico) y **480 Wh** (48V 10Ah) para **50 km declarados**. Es casi una mini-bici eléctrica para recados.
+Sábado, diez de la mañana. La lista de la compra en el móvil, el súper a dos kilómetros de casa y el coche aparcado a tres calles de distancia, como siempre. Hay un tipo de desplazamiento que el coche hace mal —corto, con carga ligera, buscando aparcamiento para nada— y que el patinete clásico tampoco resuelve del todo, porque ir de pie con dos bolsas colgando del manillar es un deporte de riesgo. El Hiboy ECOM 14 nace exactamente para ese hueco: es uno de los pocos patinetes que sale de fábrica con sillín y cesta incluidos de serie, pensado para recados, para la compra pequeña y para quien prefiere ir sentado antes que de pie.
 
-## Ficha técnica resumida
+Su planteamiento se parece más a una mini-bicicleta eléctrica que a un patinete al uso. Te sientas en una postura erguida y relajada, la cesta delantera traga la mochila o la bolsa del pan, y las ruedas de 14 pulgadas —enormes comparadas con las 8 o 10 pulgadas habituales en patinetes— le dan una pisada estable que se nota sobre todo cuando vas cargado: los baches se suavizan, el conjunto vibra menos y la sensación es la de ir en algo serio, no en un juguete.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Gama media Hiboy |
-| **Motor** | 350 W (450 W de pico) |
-| **Batería** | 48V 10Ah (480 Wh) |
-| **Autonomía declarada** | 50 km |
-| **Autonomía real estimada** | ≈34 km |
-| **Velocidad máxima** | 35 km/h |
-| **Peso** | 26,5 kg |
+Los números que importan, según la ficha verificada: precio de 625 €, motor de 350 W nominales con 450 W de pico, batería de 480 Wh (48V 10Ah), 50 km de autonomía declarada, 35 km/h de velocidad máxima y 26,5 kg de peso. La autonomía real, con nuestra estimación conservadora, se queda en unos 34 km en uso mixto urbano, que para recados y trayectos de ida y vuelta al trabajo sobra en la mayoría de los casos.
 
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-ecom-14/>Ficha técnica completa del Hiboy ECOM 14</a>.
+El motor de 350 W hay que entenderlo en su contexto. No es un patinete para subir cuestas del 15 % con dos personas encima —la propia ficha avisa de que va justito con pasajero o en cuestas fuertes—, pero para llanear por ciudad con la compra o con la mochila del trabajo va sobrado. Los 450 W de pico le dan ese empujón extra al arrancar en un semáforo o al afrontar una rampita de garaje. Es un motor honesto para un uso honesto: desplazamientos tranquilos, sin pretensiones deportivas.
 
-## Precio del Hiboy ECOM 14 en España
+La batería de 480 Wh es generosa para este concepto. Con 48V y 10Ah, esos 50 km declarados se traducen en unos 34 km reales según nuestra estimación, y aquí conviene hacer cuentas de servilleta: si tu recorrido diario son 10 km entre idas y venidas, cargas cada tres días. Si lo usas solo para recados de fin de semana, una carga te dura la semana entera. Hiboy no publica el tiempo de carga oficial del ECOM 14, así que cuenta con una noche enchufado como referencia razonable para una batería de este tamaño.
 
-Gama media de Hiboy. Su valor está en el concepto: sillín + cesta incluidos, algo que la competencia cobra aparte.
+Hablemos del sillín y la cesta, que son el alma del aparato. El sillín cambia por completo la experiencia: a 25-35 km/h, ir sentado cansa muchísimo menos que ir de pie, y para personas con problemas de rodillas o de espalda puede ser la diferencia entre usar el patinete a diario o dejarlo criando polvo en el trastero. La cesta delantera, por su parte, es práctica de verdad —no un adorno—, aunque tiene su peaje: limita lo compacto que queda el plegado y suma peso al conjunto. Son 26,5 kg en total, que no es una cifra para subirlo a diario por tres pisos sin ascensor. Si vives en un bajo o tienes ascensor, perfecto; si no, piénsatelo.
+
+¿Para quién es? Para quien hace recados en un radio de 5-10 km, para el que va al trabajo a ritmo tranquilo y prefiere llegar sin sudar, para repartidores de paquetería ligera en llano y, en general, para cualquiera que mire un patinete clásico y piense "yo es que de pie no". ¿Para quién no es? Para el que busca emociones fuertes —35 km/h de máxima y 350 W no dan para eso—, para el que vive en un cuarto sin ascensor y para el que necesita plegarlo minúsculo para meterlo en el maletero cada día.
+
+Un apunte importante de normativa: con 35 km/h de velocidad máxima, en España este patinete debe circular limitado a 25 km/h en vía pública para ser un VMP legal, y como todo vehículo de movilidad personal tiene prohibida la acera. Es el peaje habitual de casi todos los patinetes con aspiraciones, y conviene tenerlo claro antes de comprar.
+
+¿Y la competencia? Dentro de la propia Hiboy, su rival natural es el U2 Pro: también con sillín y cesta, pero con 750 W, 624 Wh y 55 km declarados a cambio de 36,6 kg, diez kilos más. El ECOM 14 es el planteamiento ligero y urbano; el U2 Pro, el musculoso para quien necesita más chicha. Fuera de Hiboy, casi nadie ofrece sillín y cesta de serie a este precio, y ahí está su baza: 625 € por un concepto tan específico es difícil de batir.
 
 <img src=/media/patinetes/hiboy-ecom-14-2.webp alt=Detalle del sillín y la cesta del Hiboy ECOM 14>
 
-## Autonomía real vs declarada
+Nuestra valoración, con la ficha en la mano: el ECOM 14 no pretende ser el mejor patinete del mercado, pretende ser el más útil para un uso muy concreto, y en eso acierta. Las ruedas de 14 pulgadas son un acierto real de confort, la batería da para el uso previsto y el precio de 625 € es razonable para lo que ofrece. Sus puntos débiles son igual de claros: 26,5 kg pesan, 350 W no hacen milagros en cuestas y es un nicho —si un día lo quieres vender de segunda mano, tardarás más que con un patinete convencional—. Pero si tu vida son recados en un radio corto y odias ir de pie, pocos aparatos te van a dar más por ese dinero.
 
-**50 km declarados**; en uso real con el peso del conjunto (26,5 kg), calcula **unos 34 km**. Suficiente para recados diarios sin agobios.
+Puedes verlo en movimiento en el vídeo oficial de Hiboy:
 
-## Frenos y neumáticos
-
-Las **ruedas de 14 pulgadas** son su gran baza: más estables y cómodas que las de 10", tragan mejor los baches y dan aplomo con la cesta cargada.
-
-## Certificado DGT y normativa VMP
-
-Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Sillín y cesta incluidos | 26,5 kg: no para subirlo a diario |
-| Ruedas de 14": cómodas | 350 W justos con carga |
-| 50 km declarados | A 35 km/h hay que limitarlo |
-| Postura sentada | La cesta limita el plegado |
-| Ideal para recados | Nicho: reventa complicada |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title=\"Presentación del Hiboy ECOM 14\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title="Vídeo oficial del Hiboy ECOM 14" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/hiboy-ecom-14-3.webp alt=Hiboy ECOM 14 con cesta haciendo la compra>
 
 ## Preguntas frecuentes
 
-### ¿Trae sillín y cesta?
-Sí, **de serie**: es su seña de identidad.
+### ¿Cuánto cuesta el Hiboy ECOM 14?
+La ficha marca 625 €. Es un precio contenido para un patinete con sillín y cesta de serie y ruedas de 14 pulgadas.
 
 ### ¿Qué autonomía real tiene?
-Unos **34 km**.
-
-### ¿Es cómodo?
-Mucho: **sillín + ruedas de 14"** lo hacen el Hiboy más cómodo para trayectos con paradas.
+Hiboy declara 50 km; nuestra estimación conservadora para uso mixto urbano ronda los 34 km. Suficiente para varios días de recados sin cargar.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 35 km/h de máxima, debe ir limitado a 25 km/h en vía pública. Prohibido circular por aceras, como todo VMP.
 
-### ¿Para quién es?
-Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportividad, no es tu patinete.
+### ¿Pesa mucho?
+26,5 kg. No es para subirlo a casa a diario por escaleras, pero con ascensor o guardándolo en el bajo no hay problema.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿ECOM 14 o U2 Pro?
+El ECOM 14 es más ligero (26,5 kg frente a 36,6 kg) y más barato; el U2 Pro tiene mucho más motor (750 W) y más batería (624 Wh). Para recados tranquilos, ECOM 14; para ir cargado o con cuestas, U2 Pro.
 
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+Si te ponen una multa con el patinete, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito con IA</a> antes de pagarla: te dice si es recurrible.
+
+*Cómo verificamos los datos: precio (625 €), motor (350/450 W), batería (480 Wh), autonomía (50 km declarados), velocidad (35 km/h), peso (26,5 kg) y ruedas de 14" tomados de la <a href=/patinetes/hiboy-ecom-14/>ficha técnica</a>, con datos verificados el 2026-10-04 en la web oficial de la marca, <a href=https://www.hiboy.com/>hiboy.com</a>. La autonomía real (34 km) es estimación propia conservadora. Hiboy no publica oficialmente la carga máxima, el tiempo de carga, los frenos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "hiboy-ve1-pro",
@@ -2532,71 +2464,57 @@ El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para
     ],
     content: `<img src=/media/patinetes/hiboy-u2-pro-1.webp alt=Hiboy U2 Pro con sillín, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/hiboy-u2-pro/>Ver ficha técnica del Hiboy U2 Pro</a>: motor, sillín y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Directo a los datos?** <a href=/patinetes/hiboy-u2-pro/>Ficha técnica del Hiboy U2 Pro</a> y <a href=/comparador-patinetes/>compáralo en el comparador</a>.
 
-El **Hiboy U2 Pro** es el ECOM 14 con más motor: **sillín y cesta**, **750 W** (810 W de pico), **624 Wh** (48V 13Ah), **55 km declarados** y **40 km/h**. Para moverse cargado sin ir de pie.
+Hay un colectivo que mira los patinetes con otros ojos: los repartidores. Para ellos el patinete no es un capricho ni un juguete de fin de semana, es la herramienta que les da de comer, y sus prioridades son distintas: ir sentado para aguantar turnos de ocho horas, llevar carga sin ir haciendo equilibrios, tener motor de sobra para no quedarse clavado en una cuesta con la mochila llena e ir cómodo aunque el firme sea malo. El Hiboy U2 Pro parece diseñado escuchando a esa gente: sillín de serie, cesta, 750 W de motor y 624 Wh de batería. Es el Hiboy con sillín más potente del catálogo, y se nota que va a por un público que usa el patinete como se usa una furgoneta pequeña.
 
-## Ficha técnica resumida
+Empecemos por lo más llamativo, el motor: 750 W nominales con 810 W de pico. Es una cifra seria para un patinete con sillín. En la práctica significa que tira con alegría en llano incluso cargado, que las cuestas urbanas las sube sin drama y que el pico de 810 W le da ese extra al arrancar con peso. Aquí hay que ser honestos con un matiz que recoge la propia ficha: 810 W de pico se quedan algo cortos frente a los 750 nominales —en muchos rivales el pico duplica al nominal—, así que no esperes un patadón eléctrico al acelerar; es más un motor de fondo, de par constante, que un sprinter. Para repartir, que es su hábitat natural, ese carácter le va perfecto.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Gama media Hiboy |
-| **Motor** | 750 W (810 W de pico) |
-| **Batería** | 48V 13Ah (624 Wh) |
-| **Autonomía declarada** | 55 km |
-| **Autonomía real estimada** | ≈37 km |
-| **Velocidad máxima** | 40 km/h |
-| **Peso** | 36,6 kg |
+La batería es de 624 Wh (48V 13Ah), con 55 km declarados y unos 37 km reales según nuestra estimación conservadora. Para un uso intensivo de reparto es una autonomía trabajable: da para una mañana entera de recados en ciudad, y cargando en la pausa de mediodía se cubre el turno completo. Para un commuter normal que lo use para ir al trabajo, sobra para varios días.
 
-¿Quieres el detalle completo? <a href=/patinetes/hiboy-u2-pro/>Ficha técnica completa del Hiboy U2 Pro</a>.
+Y ahora el elefante en la habitación: 36,6 kg. Es un armario con ruedas, como dice sin rodeos la ficha. Sillín, cesta, batería de 624 Wh y chasis reforzado pesan, y aquí pesan mucho. Esto descarta de un plumazo a quien viva en un piso alto sin ascensor o necesite meterlo en el maletero a diario. El U2 Pro es un patinete para guardar en el bajo, en el garaje o en el local, y punto. Si tu caso es ese, el peso deja de ser un problema y pasa a ser una anécdota; si no, es un veto.
 
-## Precio del Hiboy U2 Pro en España
+El sillín y la cesta merecen capítulo propio. El sillín es amplio y está pensado para horas, no para postureo: cambia la ergonomía por completo y permite jornadas largas sin destrozarte las rodillas ni la espalda. La cesta delantera traga la compra, la mochila o la bolsa del reparto. El peaje, además del peso, es el plegado: con sillín, ningún patinete pliega compacto, y el U2 Pro no es una excepción. Es voluminoso plegado; asúmelo.
 
-Gama media de Hiboy. Interesante para repartidores urbanos por su combinación de sillín, potencia y cesta.
+Vamos con el tema del precio, porque aquí hay que ser claros: Hiboy no publica una tarifa oficial verificable del U2 Pro, así que nuestra ficha no fija precio. Lo verás anunciado en tiendas e importadores con cifras que bailan, y conviene comparar bien y desconfiar de chollos imposibles. Es el peaje de comprar una marca sin red oficial en España: el precio lo pone el vendedor, no la marca.
 
 <img src=/media/patinetes/hiboy-u2-pro-2.webp alt=Detalle del sillín del Hiboy U2 Pro>
 
-## Autonomía real vs declarada
+¿Para quién es? Para repartidores urbanos en llano o con cuestas moderadas, para quien hace recados pesados a diario, para personas con problemas de rodillas o espalda que necesitan ir sentadas sí o sí, y para el que quiere el patinete con sillín más capaz de Hiboy sin mirar el peso. ¿Para quién no? Para el urbanita de piso alto sin ascensor, para el que busca plegado compacto, para el que quiere emociones deportivas —40 km/h de máxima dan ritmo alegre, pero esto no es un juguete de circuito— y para el que necesite factura y garantía de red oficial española.
 
-**55 km declarados**; en uso real con carga, **unos 37 km**. El peso del conjunto (36,6 kg) penaliza.
+La normativa no perdona: con 40 km/h de velocidad máxima, en España debe circular limitado a 25 km/h en vía pública para ser un VMP en regla, y la acera está prohibida como para todos. Si lo vas a usar para repartir, este punto es crítico: una sanción por circular con un VMP deslimitado sale cara y te deja sin herramienta de trabajo.
 
-## Frenos y neumáticos
+¿Rivales? En casa, el ECOM 14: también con sillín y cesta, pero con 350 W, 480 Wh, 50 km declarados y 26,5 kg por 625 €. Es decir, diez kilos menos y concepto más ligero y barato, a cambio de bastante menos motor y batería. La elección es clara: ECOM 14 para recados tranquilos, U2 Pro para trabajo duro y carga. Fuera de Hiboy, los patinetes con sillín de este nivel de potencia suelen costar más o pesar parecido, así que el U2 Pro se defiende bien por concepto aunque el precio baile por vendedor.
 
-Frenos de disco y neumáticos anchos para mover con seguridad sus 36,6 kg a 40 km/h.
-
-## Certificado DGT y normativa VMP
-
-A **40 km/h** no es VMP legal sin limitar: en España, **25 km/h máximo** y **aceras prohibidas**.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 750 W con sillín | 36,6 kg: un armario |
-| 624 Wh: 55 km declarados | A 40 km/h hay que limitarlo |
-| Sillín y cesta | El sillín penaliza el plegado |
-| 40 km/h | 810 W de pico, justos |
-| Ideal repartidores | Nicho específico |
+Nuestra valoración: el U2 Pro es un patinete de nicho que conoce su nicho. No intenta gustar a todo el mundo: pesa 36,6 kg, no tiene precio oficial y el plegado es voluminoso. Pero para repartir o para moverse sentado con carga, sus 750 W, sus 624 Wh y su ergonomía de sillín lo convierten en una herramienta muy seria. Si encajas en su perfil, hay poco que se le parezca; si no encajas, ni lo mires.
 
 <img src=/media/patinetes/hiboy-u2-pro-3.webp alt=Hiboy U2 Pro con cesta en ruta>
 
+El canal Stonnie Dennis lo prueba a fondo en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/nrpbqeFGHlk title="Prueba del Hiboy U2 Pro por Stonnie Dennis" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Qué diferencia hay con el ECOM 14?
-Más motor (**750 W** frente a 350 W) y más batería (624 Wh frente a 480 Wh), pero también más peso.
-
-### ¿Qué autonomía real tiene?
-Unos **37 km**.
-
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Cuánto cuesta el Hiboy U2 Pro?
+Hiboy no publica una tarifa oficial verificable, así que no hay precio de referencia de la marca. Compara entre tiendas e importadores y desconfía de ofertas irreales.
 
 ### ¿Vale para repartir?
-Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
+Es su hábitat natural: sillín para turnos largos, cesta para la carga, 750 W para moverse cargado y 624 Wh para aguantar la jornada con una carga intermedia.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿Qué autonomía real tiene?
+55 km declarados; unos 37 km reales según nuestra estimación conservadora.
 
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+### ¿Es legal en España?
+Con 40 km/h de máxima debe ir limitado a 25 km/h en vía pública. Ojo si lo usas para trabajar: la sanción por ir deslimitado es grave.
+
+### ¿De verdad pesa 36,6 kg?
+Sí, y es su gran veto: solo para guardar en bajo o garaje.
+
+Si te sancionan con él, <a href=https://recurretumulta.online/#analizador>revisa la multa con nuestro analizador gratuito de IA</a> antes de pagar: muchas son recurribles.
+
+*Cómo verificamos los datos: motor (750/810 W), batería (624 Wh, 48V 13Ah), autonomía (55 km declarados), velocidad (40 km/h) y peso (36,6 kg) tomados de la <a href=/patinetes/hiboy-u2-pro/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.hiboy.com/>hiboy.com</a>, web oficial de la marca. La autonomía real (37 km) es estimación propia conservadora. Hiboy no publica oficialmente el precio, la carga máxima, el tiempo de carga, los frenos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "hiboy-ks4",
@@ -2882,7 +2800,7 @@ El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano 
       "El iScooter iX4 lleva los 800 W al campo: 720 Wh, 45 km/h y neumáticos mixtos por ~449 £. Ficha técnica completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "iscooter ix4",
@@ -2898,70 +2816,55 @@ El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano 
     ],
     content: `<img src=/media/patinetes/iscooter-ix4-1.webp alt=iScooter iX4, vista lateral del patinete off-road>
 
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix4/>Ver ficha técnica del iScooter iX4</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Quieres solo las cifras?** <a href=/patinetes/iscooter-ix4/>Ficha técnica del iScooter iX4</a> y <a href=/comparador-patinetes/>enfréntalo a sus rivales en el comparador</a>.
 
-El **iScooter iX4** es el aventurero de acceso de la marca: **800 W**, **720 Wh** (48V 15Ah), **45 km/h** y neumáticos mixtos para salir del asfalto, por **~449 £**.
+El asfalto está muy bien, pero hay toda una tribu de usuarios que en cuanto ven un camino de tierra, una pista forestal o un sendero de grava se les iluminan los ojos. Para ellos se inventó la categoría off-road de patinetes: máquinas con chasis reforzado, neumáticos de taco o mixtos y potencia de sobra para salir del carril bici. El problema es que esa categoría suele costar un riñón. El iScooter iX4 intenta romper esa barrera: enfoque off-road, 800 W de motor y 720 Wh de batería por 486 € según nuestra ficha. Es, sobre el papel, el off-road de acceso.
 
-## Ficha técnica resumida
+Vamos a los datos verificados. Motor de 800 W nominales —la potencia de pico no la publica la marca, así que nos quedamos con el nominal, que ya es una cifra respetable para este precio—. Batería de 720 Wh (48V 15Ah), la misma capacidad que montan commuters mucho más caros. Autonomía declarada de 42 km, con nuestra estimación conservadora en unos 28 km reales; la ficha marca la declarada como aproximada, así que tómalo como orden de magnitud más que como promesa. Velocidad máxima de 45 km/h y un precio de 486 € que lo coloca muy por debajo de lo que suele costar un off-road.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | ~449 £ (sin PVP oficial en euros) |
-| **Motor** | 800 W |
-| **Batería** | 48V 15Ah (720 Wh) |
-| **Autonomía declarada** | 40-45 km |
-| **Autonomía real estimada** | ≈28 km |
-| **Velocidad máxima** | 45 km/h |
+Lo primero que hay que decir con honestidad: la marca publica poca información oficial detallada del iX4. El peso no está publicado —y se nota pesado en mano, como reconoce la propia ficha—, la potencia de pico tampoco, y los detalles finos del equipamiento hay que confirmarlos con el vendedor. No es una marca con la transparencia de especificaciones de las grandes; es una marca de precio agresivo, y eso tiene estas contrapartidas. Comprar el iX4 es comprar una apuesta: muy buena sobre el papel, con menos red de información que otras opciones.
 
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-ix4/>Ficha técnica completa del iScooter iX4</a>.
+Dicho esto, lo que sí está claro es el concepto. Los 800 W con enfoque off-road significan que en pistas y caminos se defiende: tiene par para subir repechos de tierra y chasis reforzado para aguantar el traqueteo. Los neumáticos mixtos le permiten salir del asfalto sin ser un desastre sobre él —no son tacos puros de montaña, así que en ciudad no van ladrando—, un equilibrio sensato para quien hace mixto. La suspensión, eso sí, es básica para lo que promete el planteamiento: en un camino roto de verdad se nota que no es una horquilla de gama alta. Es un off-road de acceso, con todo lo que "de acceso" implica.
 
-## Precio del iScooter iX4 en España
+La batería de 720 Wh es el otro gran argumento. En uso off-road la autonomía real cae mucho —el campo come batería: desnivel, firme blando, acelerones—, así que esos 28 km estimados en mixto pueden quedarse en menos si te metes en faena seria por pistas. Aun así, partir de 720 Wh por 486 € es una base muy sólida; hay patinetes urbanos al doble de precio con menos batería.
 
-Unas **449 libras** en Reino Unido. Por ese dinero, pocos off-road ofrecen 48V y 15Ah.
+¿Para quién es? Para el que quiere probar el off-road sin dejarse 1.000 €, para el de pueblo con pistas y caminos que el patinete urbano no pisa, para el que hace mixto asfalto/tierra a diario. ¿Para quién no? Para el que busca un off-road serio de montaña —este no lo es—, para el que necesita saber el peso exacto porque lo sube a casa a diario, y para el que quiere marca con servicio técnico oficial y documentación impecable: aquí el servicio depende del vendedor.
+
+La legalidad, como siempre con estas potencias: sus 45 km/h de máxima obligan a activar el limitador a 25 km/h en cuanto pisa la vía pública española para circular como VMP, y la acera está prohibida. En campo privado o circuitos puedes disfrutarlo sin limitador, que es donde un off-road tiene sentido.
+
+¿Rivales? En la propia iScooter, el iX7 Pro: doble motor de 2.000 W, 80 km declarados, 60 km/h y 720 Wh por 486 € según la ficha —el mismo precio que el iX4—. La disyuntiva es clara: iX4 para el campo con un solo motor, iX7 Pro para prestaciones brutas en asfalto con tracción total. Fuera de la marca, los off-road de verdad empiezan bastante más arriba en precio, así que el iX4 juega casi solo en su rango.
+
+Nuestra valoración: el iX4 es una puerta de entrada honesta al off-road si aceptas sus condiciones —poca información oficial, peso sin publicar, suspensión básica—. Por 486 €, 800 W y 720 Wh con chasis reforzado es difícil pedir más; pero que nadie lo compre pensando que es un enduro: es un patinete polivalente con alma campera, y en ese papel cumple.
 
 <img src=/media/patinetes/iscooter-ix4-2.webp alt=Detalle del iScooter iX4>
 
-## Autonomía real vs declarada
+El canal BizdustryEV lo pone a prueba en este vídeo:
 
-**40-45 km declarados**; en campo, **unos 28 km reales**. El off-road gasta mucho más que el asfalto: llévalo cargado si sales al monte.
-
-## Frenos y neumáticos
-
-Frenos de disco y **neumáticos mixtos**: agarran en tierra sin ser un suplicio en asfalto. La suspensión es básica para lo que promete el concepto.
-
-## Certificado DGT y normativa VMP
-
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Y recuerda: los caminos y el campo tienen su propia normativa; el patinete no es una moto de enduro.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 800 W off-road | Peso sin publicar (pesado) |
-| 720 Wh por ~449 £ | A 45 km/h hay que limitarlo |
-| 45 km/h | En campo la autonomía cae |
-| Neumáticos mixtos | Suspensión básica |
-| Chasis reforzado | Poca info oficial |
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/UQF0VM5Ardw title="Prueba del iScooter iX4 por BizdustryEV" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/iscooter-ix4-3.webp alt=iScooter iX4 en camino de tierra>
 
 ## Preguntas frecuentes
 
-### ¿Vale para el campo?
-Para **pistas y caminos** sencillos, sí. No es una moto de enduro.
+### ¿Cuánto cuesta el iScooter iX4?
+Nuestra ficha marca 486 €. iScooter no publica una tarifa oficial verificable, así que confirma el precio con el vendedor.
+
+### ¿Es un off-road de verdad?
+Es un off-road de acceso: chasis reforzado y neumáticos mixtos para pistas y caminos, pero con suspensión básica. Para montaña seria hay que subir de presupuesto.
 
 ### ¿Qué autonomía real tiene?
-Unos **28 km**, menos en tierra.
+42 km declarados (dato aproximado); unos 28 km reales en mixto según nuestra estimación, menos en uso off-road exigente.
 
-### ¿iX4 o iX5S?
-El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si el presupuesto llega, iX5S.
+### ¿Cuánto pesa?
+La marca no publica el peso. Se nota pesado en mano: no es para subirlo a diario por escaleras.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h** en vía pública, sí.
+Sí, pero limitado: sus 45 km/h de máxima obligan a circular a 25 km/h en vía pública.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+¿Una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Pásala por el analizador gratuito con IA</a> antes de pagarla.
 
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+*Cómo verificamos los datos: precio (486 €), motor (800 W nominales), batería (720 Wh, 48V 15Ah), autonomía (42 km declarados), velocidad (45 km/h) tomados de la <a href=/patinetes/iscooter-ix4/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.iscooterglobal.co.uk/>iscooterglobal.co.uk</a>, web oficial de iScooter UK. La autonomía real (28 km) es estimación propia conservadora y la declarada figura como aproximada. La marca no publica oficialmente la potencia de pico, el peso, la carga máxima, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "iscooter-ix5s",
@@ -3064,7 +2967,7 @@ Para quien prioriza **fuerza y robustez** sobre ligereza: riders pesados, cuesta
       "El iScooter iX7 Pro democratiza la tracción total: doble motor de 1.000 W, 80 km y 60 km/h por ~709 £. Ficha técnica y vídeo.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 7,
+    readTime: 5,
     locale: "all",
     keywords: [
       "iscooter ix7 pro",
@@ -3080,76 +2983,53 @@ Para quien prioriza **fuerza y robustez** sobre ligereza: riders pesados, cuesta
     ],
     content: `<img src=/media/patinetes/iscooter-ix7-pro-1.webp alt=iScooter iX7 Pro, vista lateral del doble motor>
 
-**¿Buscas solo los datos?** <a href=/patinetes/iscooter-ix7-pro/>Ver ficha técnica del iScooter iX7 Pro</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Solo te interesan los números?** <a href=/patinetes/iscooter-ix7-pro/>Ficha técnica del iScooter iX7 Pro</a> y <a href=/comparador-patinetes/>comparador con sus rivales</a>.
 
-El **iScooter iX7 Pro** democratiza el doble motor: **2×1.000 W**, **80 km declarados**, **60 km/h** y **~30 kg** por **~709 £**. La tracción total más barata de Europa.
+La tracción total en patinetes era, hasta hace poco, un lujo: doble motor significaba gastarse más de mil euros casi siempre. El iScooter iX7 Pro dinamita esa idea con una propuesta que, leída en frío, cuesta creer: doble motor de 1.000 W —2.000 W en total—, 80 km de autonomía declarada, 60 km/h de velocidad máxima y 720 Wh de batería por 486 € según nuestra ficha. Es el doble motor más barato del catálogo europeo que tenemos registrado. La pregunta obligada es qué se sacrifica para llegar a ese precio, y la respuesta honesta es: acabados, información oficial y red de servicio. Vamos por partes.
 
-## Ficha técnica resumida
+El doble motor es el corazón del asunto. Dos motores de 1.000 W, uno por rueda, con 2.000 W tanto nominales como de pico según la ficha. En la práctica, la tracción total cambia la forma de acelerar: el reparto del par entre las dos ruedas da una salida contundente y mucho aplomo en firmes deslizantes o con gravilla, y en cuestas se nota la diferencia frente a un solo motor de potencia equivalente. Los 60 km/h de máxima lo colocan en la liga de las prestaciones altas —en circuito privado, se entiende—.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | ~709 £ (sin PVP oficial en euros) |
-| **Motor** | Doble, 1.000 W + 1.000 W |
-| **Batería** | 48V 15-17,5Ah (según versión) |
-| **Autonomía declarada** | 80 km |
-| **Autonomía real estimada** | ≈54 km |
-| **Velocidad máxima** | 60 km/h |
-| **Peso** | ≈30 kg |
+La batería es de 720 Wh (48V, 15 a 17,5 Ah según la versión). Ese "según la versión" no es un detalle menor: la propia ficha avisa de que conviene confirmar qué batería lleva la unidad que vas a comprar, porque hay versiones con 15 Ah y versiones con 17,5 Ah. Es el tipo de cosa que pasa con marcas de precio agresivo y catálogos que cambian rápido. La marca declara 80 km y nuestro cálculo conservador para uso mixto se queda en unos 54 km reales: autonomía generosa incluso usando los dos motores con alegría, aunque la tracción total come batería y a fondo con ambos motores la cifra cae.
 
-¿Quieres el detalle completo? <a href=/patinetes/iscooter-ix7-pro/>Ficha técnica completa del iScooter iX7 Pro</a>.
+El peso ronda los 30 kg —dato aproximado en la ficha—, que para un doble motor con 720 Wh es lo esperado. No es para llevarlo en brazos ni para subirlo a diario por escaleras; es para guardarlo en el bajo o el garaje y disfrutarlo en ruta. La dotación de iluminación es buena, un punto a favor para quien rueda al atardecer o de noche, y que se agradece en un patinete con estas prestaciones.
 
-## Precio del iScooter iX7 Pro en España
+Y ahora los peros, que los hay y hay que contarlos. Los acabados no están al nivel de las marcas premium: plásticos y ajustes correctos para el precio, sin más. El servicio técnico depende del vendedor —iScooter no tiene una red oficial consolidada en España—, así que elige bien dónde lo compras porque ahí estará tu garantía real. Y la información oficial es escasa: iScooter no publica una tarifa oficial verificable del iX7 Pro, así que el precio de 486 € de la ficha es la referencia a contrastar con el vendedor.
 
-Unas **709 libras** en Reino Unido. En España, vía distribuidores: sigue siendo el doble motor más barato del mercado europeo.
+¿Para quién es? Para el que quiere probar la tracción total sin arruinarse, para el que hace rutas largas y quiere autonomía de sobra, para el que rueda por firmes variados y valora el aplomo del doble motor. ¿Para quién no? Para el urbanita de piso sin ascensor, para el que quiere acabados premium, para el que necesita servicio técnico oficial cerca de casa y para el que busca un patinete legal sin limitaciones: con 60 km/h de máxima, en vía pública española debe ir limitado a 25 km/h, y la acera está prohibida como para todo VMP.
+
+¿Rivales? En casa, el iX4: 800 W, enfoque off-road, 720 Wh y 45 km/h por el mismo precio de ficha (486 €). La elección es de filosofía: iX4 para el campo con un motor, iX7 Pro para prestaciones en asfalto con dos. Fuera, los dobles motores de marcas consolidadas cuestan sensiblemente más; el iX7 Pro compite en precio con patinetes de un solo motor de gama media, y ahí está su trampa mortal para la competencia.
+
+Nuestra valoración: el iX7 Pro es la democratización de la tracción total hecha patinete. Por 486 € ofrece cifras —2.000 W, 80 km declarados, 60 km/h— que hace dos años costaban el triple. El peaje son los acabados, la información oficial escasa y un servicio técnico ligado al vendedor. Si lo compras con los ojos abiertos y eliges bien la tienda, es una de las mejores relaciones prestaciones/precio del mercado; si necesitas red oficial y mimo premium, mira más arriba en precio.
 
 <img src=/media/patinetes/iscooter-ix7-pro-2.webp alt=Detalle del doble motor del iScooter iX7 Pro>
 
-## Autonomía real vs declarada
+El canal Budget Cars And Bikes lo analiza en este vídeo:
 
-**80 km declarados**; en uso mixto con doble motor, **unos 54 km**. Ojo: se vende en versiones de **15Ah y 17,5Ah**; confirma cuál compras porque la autonomía cambia.
-
-## Frenos y neumáticos
-
-Frenos de disco y neumáticos de 10 pulgadas. A 60 km/h, el equipo va justo: es el punto a vigilar de este modelo.
-
-## Certificado DGT y normativa VMP
-
-Con **60 km/h**, ni se plantea en vía pública española sin limitar: **25 km/h máximo** como VMP. Todo lo demás, en privado.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Doble motor por ~709 £ | ~30 kg: pesado |
-| 80 km declarados | Batería según versión (15/17,5Ah) |
-| 60 km/h | Ilegal sin limitar en España |
-| Buena iluminación | Acabados no premium |
-| El doble motor más barato | Servicio según vendedor |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\"Prueba del iScooter iX7 Pro\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/x2V6uKuWscA title="Análisis del iScooter iX7 Pro por Budget Cars And Bikes" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción>
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Unas **709 £** en Reino Unido.
-
-### ¿Qué batería lleva?
-Según versión: **48V 15Ah o 17,5Ah**. Confírmalo antes de comprar.
+### ¿Cuánto cuesta el iScooter iX7 Pro?
+Nuestra ficha marca 486 €. iScooter no publica tarifa oficial verificable: confirma precio y versión de batería (15 o 17,5 Ah) con el vendedor.
 
 ### ¿Qué autonomía real tiene?
-Unos **54 km** con la batería grande.
+80 km declarados y unos 54 km reales en mixto según nuestro cálculo conservador. Con los dos motores a fondo, menos.
+
+### ¿Pesa mucho?
+Unos 30 kg (dato aproximado). Normal para un doble motor con 720 Wh; no es para subirlo por escaleras a diario.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 60 km/h de máxima debe circular limitado a 25 km/h en vía pública. Prohibido en aceras.
 
-### ¿Merece la pena?
-Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más arriba.
+### ¿iX4 o iX7 Pro?
+Mismo precio de ficha (486 €): iX4 para campo con un motor, iX7 Pro para prestaciones con tracción total.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+Si te multan con él, <a href=https://recurretumulta.online/#analizador>consulta gratis nuestro analizador con IA</a> antes de pagar la sanción.
 
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+*Cómo verificamos los datos: precio (486 €), doble motor (2.000/2.000 W), batería (720 Wh, 48V), autonomía (80 km declarados), velocidad (60 km/h) y peso (~30 kg) tomados de la <a href=/patinetes/iscooter-ix7-pro/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://www.iscooterglobal.co.uk/>iscooterglobal.co.uk</a>, web oficial de iScooter UK. La autonomía real (54 km) es estimación propia conservadora; peso y batería figuran como aproximados y la marca no publica oficialmente la carga máxima, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT.*
+`,
   },
   {
     slug: "iscooter-ix8",
@@ -3253,7 +3133,7 @@ Unos **45 km**.
       "El KuKirin G2 Max es el superventas: 1.000 W, 960 Wh, 80 km y 55 km/h por 684 €. Ficha técnica y vídeo del clásico de KuKirin.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 7,
+    readTime: 5,
     locale: "all",
     keywords: [
       "kukirin g2 max",
@@ -3271,74 +3151,57 @@ Unos **45 km**.
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g2-max/>Ver ficha técnica del KuKirin G2 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **KuKirin G2 Max** es el clásico superventas de la marca: **1.000 W**, **960 Wh** (48V 20Ah), **80 km declarados** y **55 km/h**, por **684 €** en la tienda europea. La compra segura de KuKirin.
+Hay patinetes que se venden por la ficha y patinetes que se venden por la calle. El KuKirin G2 Max es de los segundos: lo ves aparcado en portales, en grupos de riders, en vídeos de YouTube con cientos de miles de visitas. Es el clásico superventas de KuKirin, el modelo que convirtió a la marca en un nombre conocido en Europa. Y cuando un patinete lleva años vendiéndose bien, suele ser por un motivo muy simple: la ecuación precio/prestaciones cuadra. La del G2 Max cuadra así: 1.000 W, 960 Wh (48V 20Ah), 80 km declarados y 55 km/h por 684 € en la tienda oficial europea.
 
-## Ficha técnica resumida
+El motor de 1.000 W es el punto de partida. Un solo motor trasero de 1.000 W nominales da un empuje serio: acelera con decisión, sube cuestas urbanas sin protestar y mantiene cruceros altos sin ir forzado. No es la brutalidad de un doble motor, pero para el 90 % de los usos reales —ciudad, extrarradio, rutas de fin de semana— es más que suficiente, con la ventaja de la sencillez: un motor, un controlador, menos cosas que pueden fallar.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | 684 € |
-| **Motor** | 1.000 W |
-| **Batería** | 48V 20Ah (960 Wh) |
-| **Autonomía declarada** | 80 km |
-| **Autonomía real estimada** | ≈54 km |
-| **Velocidad máxima** | 55 km/h |
-| **Peso** | 31 kg |
+La batería de 960 Wh es su otro pilar: 48V y 20Ah que se traducen en 80 km declarados y unos 54 km reales según nuestra estimación conservadora. Es una autonomía de las buenas por debajo de 700 €, de las que te permiten usar el patinete toda la semana cargando un par de veces. La combinación de 1.000 W con 960 Wh está bien equilibrada: ni el motor se queda sin batería a la primera de cambio ni la batería va sobredimensionada para lo que el motor pide.
 
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-g2-max/>Ficha técnica completa del KuKirin G2 Max</a>.
+El precio merece un comentario: 684 € en eu-kukirin.com, la tienda oficial europea, y es un precio estable —pocas veces baja de ahí—. Esa estabilidad tiene una lectura positiva: no es un precio hinchado para luego hacer "ofertas" eternas; es su precio real, y lleva siéndolo mucho tiempo. Comprar en la tienda oficial europea además simplifica la garantía frente a comprar a vendedores sueltos.
 
-## Precio del KuKirin G2 Max en España
-
-**684 €** en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, la tienda oficial europea. Pocas veces baja de ahí: es su precio estable.
+El peso es de 31 kg. No vamos a edulcorarlo: es pesado para subirlo a casa. Para guardarlo en el bajo o el garaje no hay problema, pero si tu plan es subirlo a diario por escaleras, 31 kg se hacen largos. Es el peaje habitual de los 1.000 W con batería grande, y el G2 Max no es una excepción.
 
 <img src=/media/patinetes/kukirin-g2-max-2.webp alt=Detalle del manillar del KuKirin G2 Max>
 
-## Autonomía real vs declarada
+Donde el G2 Max brilla de verdad es en el ecosistema. Al ser un superventas con años en el mercado, tiene una comunidad de usuarios enorme: hay tutoriales para casi todo, recambios fáciles de encontrar y grupos donde se resuelven dudas en horas. Eso, que no sale en ninguna ficha técnica, vale muchísimo cuando algo falla o quieres mejorar alguna pieza. Es la ventaja de comprar el modelo popular frente al recién llegado desconocido.
 
-**80 km declarados**; en uso mixto, **unos 54 km reales**. Con 960 Wh, es de las mejores autonomías reales por debajo de 700 €.
+Y los puntos mejorables, porque los tiene: la calidad de los plásticos es mejorable —se nota que el presupuesto fue al motor y a la batería—, el cargador de serie es lento para 960 Wh —cargar 20Ah lleva su tiempo— y la app deja que desear según comentan usuarios. Nada grave, pero conviene saberlo: es un patinete de hardware, no de software.
 
-## Frenos y neumáticos
+Un apunte de honestidad técnica: la ficha no publica oficialmente los frenos ni los neumáticos de este modelo, así que no vamos a inventarlos aquí. Lo que sí podemos decir es que para 55 km/h y 31 kg necesitarás un equipo de frenada serio y revisarlo con frecuencia, sea cual sea el que monte tu unidad.
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar para 55 km/h y 31 kg. La comunidad de usuarios es enorme: hay tutoriales para casi todo.
+La normativa es la de siempre en esta liga: con 55 km/h de máxima, en España debe ir limitado a 25 km/h en vía pública para circular como VMP legal, y la acera está prohibida.
 
-## Certificado DGT y normativa VMP
+¿Rivales? En casa: el M4 Max (800 W, 1.000 W de pico, 874 Wh, 64 km declarados, 24 kg, sin precio oficial publicado) es la puerta de entrada ligera a KuKirin; el M5 Pro (1.000/1.200 W, 960 Wh, 70 km, sillín de serie, 729 €, 36,2 kg) es el rutero sentado. El G2 Max queda en medio como el equilibrado: más motor que el M4 Max, menos peso y precio que el M5 Pro, sin sillín. Fuera de la marca, pocos ofrecen 1.000 W y 960 Wh por 684 € con tienda oficial europea.
 
-Con **55 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 1.000 W por 684 € | 31 kg: pesado |
-| 960 Wh: 80 km declarados | A 55 km/h hay que limitarlo |
-| 55 km/h | Plásticos mejorables |
-| Gran comunidad y repuestos | Cargador lento |
-| Precio estable en la UE | App mejorable |
-
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GbJByObfUe4 title=\"Prueba del KuKirin G2 Max\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+Nuestra valoración, después de verlo años en el mercado: el G2 Max es el valor seguro de KuKirin. No es el más moderno ni el más refinado, pero su ecuación —1.000 W, 960 Wh, 80 km declarados, 684 € estables, comunidad enorme— sigue siendo difícil de batir. Si buscas un patinete potente y rutero sin complicarte la vida, este es el punto de partida contra el que hay que comparar todo lo demás.
 
 <img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria>
 
+El canal Noblex Tech lo prueba a fondo aquí:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/XqPkwr142QE title="Prueba del KuKirin G2 Max por Noblex Tech" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-**684 €** en la tienda oficial europea.
+### ¿Cuánto cuesta el KuKirin G2 Max?
+684 € en la tienda oficial europea (eu-kukirin.com). Es un precio estable desde hace tiempo.
 
 ### ¿Qué autonomía real tiene?
-Unos **54 km**.
-
-### ¿G2 Max o G2 Pro?
-El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
+80 km declarados; unos 54 km reales según nuestra estimación conservadora.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 55 km/h de máxima, debe ir limitado a 25 km/h en vía pública.
 
 ### ¿Pesa mucho?
-**31 kg**: no es para subirlo a diario por escaleras.
+31 kg: para bajo o garaje perfecto, para subir por escaleras a diario no.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+### ¿G2 Max o M5 Pro?
+El G2 Max es más ligero y barato, sin sillín; el M5 Pro trae sillín, más pico (1.200 W) y 120 kg de carga por 729 €, pero pesa 36,2 kg.
 
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+¿Te han sancionado con el patinete? <a href=https://recurretumulta.online/#analizador>Pasa la multa por nuestro analizador gratuito con IA</a> antes de pagarla.
+
+*Cómo verificamos los datos: precio (684 €), motor (1.000 W), batería (960 Wh, 48V 20Ah), autonomía (80 km declarados), velocidad (55 km/h) y peso (31 kg) tomados de la <a href=/patinetes/kukirin-g2-max/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, tienda oficial europea de la marca. La autonomía real (54 km) es estimación propia conservadora. La marca no publica oficialmente la potencia de pico, la carga máxima, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "kukirin-g4",
@@ -3445,7 +3308,7 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
       "El KuKirin M4 Max da 800 W, 874 Wh y 64 km por ~524 € en 24 kg. Ficha técnica del rey de la relación calidad-precio.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "kukirin m4 max",
@@ -3461,71 +3324,57 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
     ],
     content: `<img src=/media/patinetes/kukirin-m4-max-1.webp alt=KuKirin M4 Max, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-m4-max/>Ver ficha técnica del KuKirin M4 Max</a>: motor, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Directo a las cifras?** <a href=/patinetes/kukirin-m4-max/>Ficha técnica del KuKirin M4 Max</a> y <a href=/comparador-patinetes/>comparador con sus rivales</a>.
 
-El **KuKirin M4 Max** es el rey de la relación calidad-precio: **800 W** (1.000 W de pico), **874 Wh** (48V 18,2Ah), **64 km declarados** y **45 km/h** en **24 kg**, por **~524 €**.
+En todas las gamas hay un modelo que vive a la sombra de su hermano mayor y otro que vive a la sombra del pequeño. El KuKirin M4 Max vive en un punto curioso: por encima del M4 estándar, por debajo del M4 Pro, y con una propuesta muy clara —800 W nominales con 1.000 W de pico, 874 Wh de batería y solo 24 kg— para quien quiere iniciarse en KuKirin sin irse a los pesos pesados de la marca. La propia ficha lo define bien: buena base para iniciarse en KuKirin. Vamos a ver si los números sostienen esa promesa.
 
-## Ficha técnica resumida
+Motor: 800 W nominales y 1.000 W de pico. Es una combinación interesante porque el pico aquí sí acompaña al nominal: esos 1.000 W de pico se notan al arrancar y en repechos, dando una alegría que los 800 W solos no tendrían. En ciudad va sobrado para un adulto medio, sube cuestas moderadas sin drama y con 45 km/h de máxima tiene ritmo alegre para vías privadas o circuitos. No es un doble motor ni lo pretende; es un trasera bien resuelto para el día a día con aspiraciones.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | ~524 € |
-| **Motor** | 800 W (1.000 W de pico) |
-| **Batería** | 48V 18,2Ah (874 Wh) |
-| **Autonomía declarada** | 64 km |
-| **Autonomía real estimada** | ≈43 km |
-| **Velocidad máxima** | 45 km/h |
-| **Peso** | 24 kg |
+Batería: 874 Wh (48V 18,2Ah). Es mucha batería para un patinete de 24 kg, y ahí está una de las claves del M4 Max: 64 km declarados y unos 43 km reales según nuestra estimación conservadora, con un peso que no castiga. Esa relación batería/peso es de lo mejor de su rango: hay rivales con baterías similares que pesan 30 kg o más. Para el commuter que hace 10-15 km al día, esto significa cargar un par de veces por semana y olvidarse del enchufe.
 
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-m4-max/>Ficha técnica completa del KuKirin M4 Max</a>.
+El peso, 24 kg, merece subrayarse. En un mercado donde los 1.000 W se van a 30 kg con facilidad, un patinete con 800/1.000 W y 874 Wh que pesa 24 kg es una rareza agradable. No es un pluma —sigue sin ser para subirlo a pulso todos los días por tres pisos—, pero está en el límite de lo llevadero: al maletero va sin pelear, un tramo de escaleras se hace, y moverlo por casa no es una mudanza.
 
-## Precio del KuKirin M4 Max en España
+Ahora la parte delicada: el precio. KuKirin no publica un PVP oficial verificable del M4 Max en España, así que nuestra ficha no fija precio y nosotros no vamos a inventarlo. Lo verás anunciado en tiendas con cifras diversas; tómalas como lo que son, precios de vendedor, y compara. Es el peaje de las marcas sin tarifa oficial pública, y prefiero decírtelo claro que ponerte una cifra sin respaldo.
 
-Unos **524 €** (entre 499 y 549 € según la tienda europea). Da el 80 % del G2 Max por bastante menos dinero.
+Los puntos a mejorar son los típicos de la gama de entrada de KuKirin: acabados correctos sin lujos, suspensión básica —en firmes rotos se nota que no es una horquilla elaborada— y un display pequeño que con sol fuerte se lee regular. Nada que rompa la experiencia, pero si vienes de un patinete premium lo notarás. La ficha también deja caer un dato interesante: el M4 Pro ofrece más por poco más. Es decir, si tu presupuesto tiene algo de margen, compara los dos antes de decidir, porque el salto al Pro puede salir a cuenta.
 
 <img src=/media/patinetes/kukirin-m4-max-2.webp alt=Detalle del KuKirin M4 Max>
 
-## Autonomía real vs declarada
+¿Para quién es? Para el que quiere entrar en KuKirin con buen motor y buena batería sin cargar con 30 kg, para el commuter de 10-20 km diarios, para el que valora la relación batería/peso por encima de los acabados de lujo. ¿Para quién no? Para el que necesita precio oficial y garantía de red española consolidada, para el que busca suspensiones serias de serie y para el que quiera pantalla grande y legible.
 
-**64 km declarados**; en uso mixto, **unos 43 km reales**. Muy digno por 524 €.
+La normativa no cambia: con 45 km/h de máxima, en España debe circular limitado a 25 km/h en vía pública para ser un VMP legal, y la acera está prohibida.
 
-## Frenos y neumáticos
+¿Rivales? En casa, el ya mencionado M4 Pro —más por poco más, según la ficha— y el G2 Max (1.000 W, 960 Wh, 80 km declarados, 55 km/h, 684 €, 31 kg): el G2 Max da más motor y más batería por precio conocido, a cambio de siete kilos más. La disyuntiva es peso frente a potencia bruta. Fuera de KuKirin, pocos combinan 874 Wh con 24 kg en este rango.
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo correcto para 45 km/h y 24 kg.
-
-## Certificado DGT y normativa VMP
-
-Con **45 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 800 W por ~524 € | A 45 km/h hay que limitarlo |
-| 874 Wh: 64 km declarados | Acabados de entrada |
-| 24 kg: ligero | Suspensión básica |
-| 45 km/h | Display pequeño |
-| Ideal para iniciarse | El M4 Pro da más por poco más |
+Nuestra valoración: el M4 Max es el KuKirin para quien odia los patinetes pesados. Su combinación de 800/1.000 W, 874 Wh y 24 kg es genuinamente difícil de encontrar, y como puerta de entrada a la marca tiene todo el sentido. Sus peros —acabados de entrada, suspensión básica, display pequeño y precio sin oficializar— son reales pero no empañan lo esencial. Si el peso es tu filtro principal y quieres potencia de verdad, ponlo en la lista corta.
 
 <img src=/media/patinetes/kukirin-m4-max-3.webp alt=KuKirin M4 Max en ciudad>
 
+El canal GSMaholic lo analiza en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/0_SNYbbdS0w title="Análisis del KuKirin M4 Max por GSMaholic" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Unos **524 €** en tiendas europeas.
+### ¿Cuánto cuesta el KuKirin M4 Max?
+KuKirin no publica un PVP oficial verificable en España. Compara precios entre tiendas y desconfía de chollos irreales.
 
 ### ¿Qué autonomía real tiene?
-Unos **43 km**.
+64 km declarados; unos 43 km reales según nuestra estimación conservadora.
+
+### ¿Pesa mucho?
+24 kg: ligero para llevar 874 Wh y 800 W. De lo más llevadero de su categoría.
 
 ### ¿M4 Max o M4 Pro?
-El Pro tiene más de todo por poco más. Si el presupuesto es ajustado, el Max es imbatible.
+La ficha señala que el M4 Pro ofrece más por poco más: si tu presupuesto da margen, compáralos antes de decidir.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 45 km/h de máxima, debe ir limitado a 25 km/h en vía pública.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+¿Una sanción con el patinete? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagar: puede ser recurrible.
 
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+*Cómo verificamos los datos: motor (800/1.000 W), batería (874 Wh, 48V 18,2Ah), autonomía (64 km declarados), velocidad (45 km/h) y peso (24 kg) tomados de la <a href=/patinetes/kukirin-m4-max/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, tienda oficial europea de la marca. La autonomía real (43 km) es estimación propia conservadora. La marca no publica oficialmente el precio, la carga máxima, el tiempo de carga, los frenos, los neumáticos ni el certificado DGT de este modelo.*
+`,
   },
   {
     slug: "kukirin-a1",
@@ -3655,7 +3504,7 @@ El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 k
       "El KuKirin S1 Max es el urbano legal: 25 km/h, 350 W, 39 km, 16 kg y ruedas macizas por ~294 €. Ficha técnica completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "kukirin s1 max",
@@ -3671,71 +3520,57 @@ El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 k
     ],
     content: `<img src=/media/patinetes/kukirin-s1-max-1.webp alt=KuKirin S1 Max, vista lateral del patinete urbano>
 
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-s1-max/>Ver ficha técnica del KuKirin S1 Max</a>: 25 km/h, peso y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Vas con prisa?** <a href=/patinetes/kukirin-s1-max/>Ficha técnica del KuKirin S1 Max</a> y <a href=/comparador-patinetes/>compáralo con sus rivales</a>.
 
-El **KuKirin S1 Max** es el KuKirin urbano y legal: **25 km/h**, **350 W** (500 W de pico), **39 km declarados**, **16 kg** y **ruedas macizas de 8"**, por **~294 €**.
+De los trece patinetes de esta tanda, doce necesitan ir limitados para circular legalmente por la vía pública española. Uno no: el KuKirin S1 Max, con sus 25 km/h de velocidad máxima, es un VMP legal de fábrica, sin limitadores ni letra pequeña. Esa sola cifra lo convierte en el patinete más sensato de la lista para un perfil muy concreto —el estudiante, el urbanita del piso pequeño, el que lo combina con metro o tren—, y sus otras cifras acompañan: 16 kg, 350 W, 374 Wh y 39 km declarados. Es el KuKirin más barato y ligero de la familia, y se nota que está pensado para la ciudad real, no para el circuito.
 
-## Ficha técnica resumida
+Los 25 km/h son su carnet de identidad. En España, un VMP no puede superar los 25 km/h en vía pública, y casi todos los patinetes potentes del mercado superan esa cifra de serie y dependen de un limitador. El S1 Max no: sale de fábrica cumpliendo, lo que elimina de un plumazo el riesgo de sanciones por deslimitación y los debates sobre si el limitador es fiable. Para quien quiere circular tranquilo y en regla, eso vale mucho.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | ~294 € |
-| **Motor** | 350 W (500 W de pico) |
-| **Batería** | 36V 10,4Ah (374 Wh) |
-| **Autonomía declarada** | 39 km |
-| **Autonomía real estimada** | ≈26 km |
-| **Velocidad máxima** | 25 km/h |
-| **Peso / carga máx.** | 16 kg / 100 kg |
+El peso es su segundo gran argumento: 16 kg. Es menos de la mitad que la mayoría de sus hermanos de marca, y se nota en todo: subirlo al metro, cargarlo un tramo de escaleras, meterlo en el maletero o guardarlo en un piso pequeño dejan de ser operaciones logísticas. Además pliega compacto —la foto de detalle lo muestra—, así que en el transporte público no estorba más de lo necesario. Para el commuter multimodal (patinete + tren/metro), 16 kg es la cifra que lo hace viable.
 
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-s1-max/>Ficha técnica completa del KuKirin S1 Max</a>.
-
-## Precio del KuKirin S1 Max en España
-
-Unos **294 €** (entre 259 y 329 € según tienda). El KuKirin más barato y ligero: imbatible para ciudad.
+El motor es de 350 W nominales con 500 W de pico: honesto para ciudad llana, justo en cuestas. Aquí no hay milagros: con 350 W, las cuestas cuestan, y si tu ruta diaria incluye un repecho serio, lo notarás. Para llanear entre casa, la uni y el metro va sobrado; para subir puertos, no es su guerra. La batería de 374 Wh (36V 10,4Ah) declara 39 km y deja unos 26 km reales según nuestra estimación conservadora: suficiente para varios días de trayectos cortos —casa-estación, estación-trabajo— sin cargar a diario.
 
 <img src=/media/patinetes/kukirin-s1-max-2.webp alt=Detalle del KuKirin S1 Max plegado>
 
-## Autonomía real vs declarada
+Las ruedas merecen un apartado propio porque son su rasgo más polarizante: 8 pulgadas macizas de tipo honeycomb (panal). Ventaja: cero pinchazos, para siempre —ni un cristal ni un clavo te dejan tirado—. Inconveniente: en firmes malos son incómodas, porque sin aire no absorben nada y todo el traqueteo sube al manillar. Es el dilema clásico de las macizas: tranquilidad total a cambio de confort. Para ciudad con asfalto decente son perfectas; para adoquines y baches, se sufren.
 
-**39 km declarados**; en ciudad, **unos 26 km reales**. Para trayectos urbanos típicos, de sobra. Carga en **7-8 horas**.
+Los frenos combinan freno electrónico y freno de pie trasero. El freno de pie es simple y eficaz, aunque poco progresivo —o frena o no frena, con poco tacto intermedio—, así que conviene anticipar las frenadas. La carga máxima es de 100 kg, justita: si pesas cerca de esa cifra con mochila incluida, vas al límite. Y el tiempo de carga ronda las 7,5 horas (dato aproximado): una noche enchufado.
 
-## Frenos y neumáticos
+Sobre el precio, honestidad: KuKirin no publica una tarifa oficial verificable del S1 Max, así que nuestra ficha no fija precio. Lo verás en tiendas con cifras que rondan los 300 €; contrasta y compara, porque sin tarifa oficial el precio lo pone el vendedor.
 
-**Freno electrónico + freno de pie trasero**, con **ruedas macizas honeycomb de 8"**: cero pinchazos, cero mantenimiento. En firmes malos se nota su tamaño.
+¿Para quién es? Para estudiantes y trayectos cortos —su hábitat natural—, para el commuter multimodal que lo sube al tren, para el piso pequeño sin trastero, para quien quiere circular 100 % legal sin pensar en limitadores y para el que odia los pinchazos con toda su alma. ¿Para quién no? Para el de cuestas diarias —350 W se quedan cortos—, para riders cerca de 100 kg con carga, para el que rueda por firmes malos a diario y para el que busca emociones: 25 km/h son 25 km/h.
 
-## Certificado DGT y normativa VMP
+¿Rivales? Dentro de KuKirin no tiene rival directo: es el único urbano legal y ligero de la lista; el siguiente en peso es el M4 Max con 24 kg y 45 km/h. Fuera, compite con los urbanos de 350 W de Xiaomi, Segway y compañía, donde su baza son los 16 kg y las ruedas antipinchazo.
 
-A **25 km/h** es un VMP de manual: legal en España sin limitar, **prohibido en aceras** y por vías permitidas.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 16 kg y ~294 € | Ruedas de 8": incómodo en baches |
-| 25 km/h: legal sin líos | 100 kg de carga máxima |
-| Ruedas macizas: cero pinchazos | 7-8 h de carga |
-| 39 km declarados | 350 W: cuestas justas |
-| Ideal estudiantes | Freno de pie poco progresivo |
+Nuestra valoración: el S1 Max es el patinete más honesto de la tanda. No promete lo que no puede dar: 25 km/h legales, 16 kg, cero pinchazos y precio de entrada. Sus límites —cuestas, 100 kg de carga, confort en firme malo— están claros desde el primer párrafo de la ficha. Si tu uso es ciudad corta y transporte multimodal, es una compra redonda; si necesitas más, la propia KuKirin tiene escalones superiores.
 
 <img src=/media/patinetes/kukirin-s1-max-3.webp alt=KuKirin S1 Max en el transporte público>
 
+El canal Zerorider - la chaîne de la trottinette électrique lo muestra en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/2bSBpoBbfkM title="Vídeo del KuKirin S1 Max por Zerorider" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Es legal en España?
-Sí: **25 km/h**, sin necesidad de limitar.
+### ¿Cuánto cuesta el KuKirin S1 Max?
+KuKirin no publica una tarifa oficial verificable. Suele anunciarse en torno a los 300 € en tiendas: compara antes de comprar.
+
+### ¿Es legal en España sin limitar?
+Sí: con 25 km/h de máxima es un VMP legal de fábrica, sin necesidad de limitador.
 
 ### ¿Qué autonomía real tiene?
-Unos **26 km**.
+39 km declarados; unos 26 km reales según nuestra estimación conservadora. Ideal para trayectos cortos.
 
-### ¿Las ruedas son macizas?
-Sí: **honeycomb de 8"**, sin pinchazos.
+### ¿Las ruedas macizas son cómodas?
+No pinchan nunca, pero en firmes malos son incómodas. En asfalto decente, perfectas.
 
-### ¿Para quién es?
-Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
+### ¿Vale para cuestas?
+Justito: 350 W. Para ciudad llana va bien; con repechos diarios se queda corto.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
+¿Una multa circulando en regla? <a href=https://recurretumulta.online/#analizador>Compruébala gratis con nuestro analizador de IA</a> antes de pagar.
 
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+*Cómo verificamos los datos: motor (350/500 W), batería (374 Wh, 36V 10,4Ah), autonomía (39 km declarados), velocidad (25 km/h), peso (16 kg), carga máxima (100 kg), tiempo de carga (7,5 h), frenos (electrónico + pie) y ruedas macizas honeycomb de 8" tomados de la <a href=/patinetes/kukirin-s1-max/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, tienda oficial europea de la marca. La autonomía real (26 km) es estimación propia conservadora, el tiempo de carga figura como aproximado y la marca no publica oficialmente el precio ni el certificado DGT.*
+`,
   },
   {
     slug: "kukirin-g2-ultra",
@@ -3838,7 +3673,7 @@ El Ultra: tracción total y tecnología. El Max: más autonomía y menos precio.
       "El KuKirin M5 Pro es el rutero con sillín: 1.000 W, 960 Wh, 70 km, suspensión de cuatro brazos y 120 kg por 729 €. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "kukirin m5 pro",
@@ -3854,74 +3689,57 @@ El Ultra: tracción total y tecnología. El Max: más autonomía y menos precio.
     ],
     content: `<img src=/media/patinetes/kukirin-m5-pro-1.webp alt=KuKirin M5 Pro con sillín, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/patinetes/kukirin-m5-pro/>Ver ficha técnica del KuKirin M5 Pro</a>: sillín, motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Solo los datos?** <a href=/patinetes/kukirin-m5-pro/>Ficha técnica del KuKirin M5 Pro</a> y <a href=/comparador-patinetes/>compáralo en el comparador</a>.
 
-El **KuKirin M5 Pro** es el rutero con sillín de la marca: **1.000 W** (1.200 W de pico), **960 Wh** (48V 20Ah), **70 km declarados**, **52 km/h** y **suspensión de cuatro brazos**, con **sillín incluido** por **729 €**.
+Hay una forma de hacer kilómetros en patinete que no sale en los anuncios: sentado. No de pie, con las rodillas flexionadas durante media hora, sino sentado en un sillín de verdad, con la espalda recta y las piernas descansadas. El KuKirin M5 Pro es el rutero con sillín de la marca, y su propuesta se resume en cuatro cifras: 1.000 W nominales con 1.200 W de pico, 960 Wh de batería, 70 km declarados y 120 kg de carga máxima, por 729 €. Si tu idea de patinete ideal incluye un asiento, sigue leyendo, porque este es de los pocos que lo toman en serio.
 
-## Ficha técnica resumida
+El sillín no es un accesorio pegado con calzador: es parte del concepto. Cambia la ergonomía completa del aparato y lo convierte en una máquina de hacer kilómetros sin cansancio. Para personas con problemas de rodillas, para riders que hacen 20-30 km por salida o para quien simplemente prefiere ir sentado, la diferencia con un patinete clásico es abismal. El peaje es conocido: con sillín, el plegado es voluminoso y el patinete no es para todos los gustos ni todos los usos. Pero si encajas en el perfil, no hay color.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | 729 € |
-| **Motor** | 1.000 W (1.200 W de pico) |
-| **Batería** | 48V 20Ah (960 Wh) |
-| **Autonomía declarada** | 70 km |
-| **Autonomía real estimada** | ≈47 km |
-| **Velocidad máxima** | 52 km/h |
-| **Peso / carga máx.** | 36,2 kg / 120 kg |
+La suspensión es de cuatro brazos, y aquí el M5 Pro saca pecho: es una de las suspensiones más cómodas de su rango, diseñada para absorber irregularidades sin transmitirlas al rider. Combinada con el sillín y con ruedas de 11 pulgadas delante y 10 detrás —medidas generosas—, la rodadura es de las más confortables que puedes encontrar por este precio. Hacer 40 km sobre este conjunto cansa muchísimo menos que sobre un urbano rígido de ruedas pequeñas.
 
-¿Quieres el detalle completo? <a href=/patinetes/kukirin-m5-pro/>Ficha técnica completa del KuKirin M5 Pro</a>.
+El motor da 1.000 W nominales con 1.200 W de pico: empuje serio para mover el conjunto con alegría incluso cargado. Con 52 km/h de velocidad máxima tiene ritmo de sobra para vías privadas y circuitos, y en uso normal va sobrado en cuestas y adelantamientos. La batería de 960 Wh (48V 20Ah) declara 70 km y deja unos 47 km reales según nuestra estimación conservadora: autonomía de rutero de verdad, para salir sin mirar el porcentaje cada diez minutos.
 
-## Precio del KuKirin M5 Pro en España
-
-**729 €** en la tienda europea. Con sillín incluido y 960 Wh, no tiene rival directo en precio.
+Los frenos son de disco de 140 mm delante y detrás, un equipo adecuado para 36,2 kg y 52 km/h: discos de buen diámetro en las dos ruedas dan la confianza que un patinete de este peso y velocidad necesita. La carga máxima de 120 kg lo hace apto para riders corpulentos o para llevar equipaje en ruta.
 
 <img src=/media/patinetes/kukirin-m5-pro-2.webp alt=Detalle del sillín del KuKirin M5 Pro>
 
-## Autonomía real vs declarada
+Y ahora los peros, empezando por el más evidente: 36,2 kg. Es el más pesado de esta lista de KuKirin, y no hay forma de edulcorarlo. Sillín, batería de 960 Wh, suspensión de cuatro brazos y chasis para 120 kg pesan, y pesan mucho. Este patinete vive en el bajo o en el garaje; subirlo por escaleras es un deporte. El tiempo de carga es de unas 8,5 horas (dato aproximado): una noche enchufado para recuperar los 960 Wh, así que la rutina es cargar cada noche si lo usas a diario.
 
-**70 km declarados**; sentado y a ritmo tranquilo te acercas; en uso mixto, **unos 47 km**. La carga lleva **8-9 horas**.
+¿Para quién es? Para el rutero que quiere ir sentado, para el commuter de larga distancia que prioriza el confort, para riders corpulentos que necesitan 120 kg de carga máxima, para quien tiene problemas de rodillas o espalda y el patinete de pie le resulta inviable. ¿Para quién no? Para el piso sin ascensor, para el que necesita plegado compacto, para el que busca un patinete ligero y para el que quiera ir de pie: con sillín, este no es tu patinete.
 
-## Frenos y neumáticos
+La normativa: con 52 km/h de máxima, en España debe ir limitado a 25 km/h en vía pública para circular como VMP legal, y la acera está prohibida. Tenlo claro antes de comprar, como con todos los de su liga.
 
-**Discos de 140 mm** delante y detrás, con **rueda delantera de 11" y trasera de 10"** neumáticas. La suspensión de cuatro brazos es de lo más cómodo de KuKirin.
+¿Rivales? En casa, el G2 Max: 1.000 W, 960 Wh, 80 km declarados, 55 km/h, 684 € y 31 kg. Misma batería, motor similar, 45 € menos y cinco kilos menos... pero sin sillín y sin suspensión de cuatro brazos. La elección es de concepto: G2 Max para ir de pie ligero, M5 Pro para ir sentado cómodo. Fuera de KuKirin, los ruteros con sillín de este nivel son escasos, y a 729 € el M5 Pro se defiende bien.
 
-## Certificado DGT y normativa VMP
-
-Con **52 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**. Con sillín sigue siendo un VMP a efectos legales.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| Sillín incluido | 36,2 kg: el más pesado |
-| 960 Wh: 70 km declarados | 8-9 h de carga |
-| Suspensión de cuatro brazos | A 52 km/h hay que limitarlo |
-| 120 kg de carga máxima | El sillín no es para todos |
-| 52 km/h | Plegado voluminoso |
+Nuestra valoración: el M5 Pro es el KuKirin más especializado de la lista, y lo sabe. Sus 36,2 kg y su plegado voluminoso lo descartan para mucha gente, pero para su público —ruteros sentados, commuters largos, riders que necesitan confort— ofrece una combinación de sillín, suspensión de cuatro brazos, 1.200 W de pico y 960 Wh que pocos igualan por 729 €. Si el sillín te llama, este es tu patinete; si no, mira el G2 Max.
 
 <img src=/media/patinetes/kukirin-m5-pro-3.webp alt=KuKirin M5 Pro con sillín en ruta>
 
+El canal Movelectrics lo prueba en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oBHQ40GSTu4 title="Prueba del KuKirin M5 Pro por Movelectrics" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Trae sillín?
-Sí, **incluido de serie**.
+### ¿Cuánto cuesta el KuKirin M5 Pro?
+729 € según la ficha, en la tienda oficial europea de KuKirin.
 
 ### ¿Qué autonomía real tiene?
-Unos **47 km**.
+70 km declarados; unos 47 km reales según nuestra estimación conservadora.
 
-### ¿Es cómodo?
-Mucho: **sillín + suspensión de cuatro brazos** lo hacen el KuKirin más cómodo.
+### ¿De verdad pesa 36,2 kg?
+Sí, es el más pesado de la lista KuKirin. Solo para bajo o garaje.
+
+### ¿Es cómodo para rutas largas?
+Es su especialidad: sillín, suspensión de cuatro brazos y ruedas grandes. De lo más cómodo por este precio.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí: el sillín no cambia su categoría VMP.
+Con 52 km/h de máxima, debe circular limitado a 25 km/h en vía pública.
 
-### ¿Para quién es?
-Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.
+¿Te multaron con él? <a href=https://recurretumulta.online/#analizador>Revisa la sanción gratis con nuestra IA</a> antes de pagarla.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+*Cómo verificamos los datos: precio (729 €), motor (1.000/1.200 W), batería (960 Wh, 48V 20Ah), autonomía (70 km declarados), velocidad (52 km/h), peso (36,2 kg), carga máxima (120 kg), tiempo de carga (8,5 h), frenos de disco de 140 mm y ruedas de 11"/10" tomados de la <a href=/patinetes/kukirin-m5-pro/>ficha técnica</a>, con datos verificados el 2026-10-04 en <a href=https://eu-kukirin.com/>eu-kukirin.com</a>, tienda oficial europea de la marca. La autonomía real (47 km) es estimación propia conservadora, el tiempo de carga figura como aproximado y la marca no publica oficialmente el certificado DGT.*
+`,
   },
   // ────────────────────────── JOYOR (6) ─────────────────────────
   {
@@ -3931,7 +3749,7 @@ Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.
       "El Joyor LR8 es para hacer kilómetros: 500 W, 1.253 Wh, 72 km, 45 km/h y ruedas de 14\" en 38 kg. Ficha técnica completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "joyor lr8",
@@ -3947,71 +3765,53 @@ Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.
     ],
     content: `<img src=/media/patinetes/joyor-lr8-1.webp alt=Joyor LR8, vista lateral del patinete rutero>
 
-**¿Buscas solo los datos?** <a href=/patinetes/joyor-lr8/>Ver ficha técnica del Joyor LR8</a>: batería, ruedas y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Vas directo al grano?** <a href=/patinetes/joyor-lr8/>Ficha técnica del Joyor LR8</a> y <a href=/comparador-patinetes/>compáralo con sus rivales</a>.
 
-El **Joyor LR8** está hecho para tragar kilómetros: **500 W**, **1.253 Wh** (52V 24Ah), **72 km declarados**, **45 km/h** y **ruedas de 14 pulgadas** en **38,1 kg**.
+Hay patinetes que se compran con la cabeza y patinetes que se compran con las piernas: los ruteros pertenecen a la segunda categoría. Son máquinas para hacer kilómetros, para el que sale un domingo y vuelve con 40 km en las piernas —o mejor dicho, en la batería— y para el commuter de extrarradio que tiene la oficina a 15 km y no quiere depender del coche. El Joyor LR8 es un rutero de manual: batería enorme de 1.253 Wh, ruedas de 14 pulgadas, 72 km declarados y 45 km/h, por 770 € según la ficha. Pero tiene un rasgo que lo hace peculiar: pesa 38,1 kg para 500 W de motor. Esa descompensación merece un análisis honesto.
 
-## Ficha técnica resumida
+Empecemos por lo bueno, que es mucho. La batería de 1.253 Wh es sencillamente enorme: hablamos de más del doble de lo que llevan la mayoría de urbanos y de una cifra que roza lo que montan patinetes de 1.500 €. Con 72 km declarados y unos 50 km reales según nuestra estimación conservadora, el LR8 es de los pocos patinetes por debajo de 800 € que te permiten plantearte una ruta larga sin ansiedad de autonomía. Si tu uso es hacer kilómetros —rutas de fin de semana, desplazamientos largos—, la batería lo justifica todo.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | Sin PVP oficial en euros |
-| **Motor** | 500 W |
-| **Batería** | 52V 24Ah (1.253 Wh) |
-| **Autonomía declarada** | 72 km |
-| **Autonomía real estimada** | ≈48 km |
-| **Velocidad máxima** | 45 km/h |
-| **Peso / carga máx.** | 38,1 kg / 118 kg |
+Las ruedas de 14 pulgadas son su otro gran acierto. Son las más grandes de su rango de precio, y en un rutero eso se traduce en confort real: mejor absorción de irregularidades, más estabilidad a velocidad sostenida y menos vibraciones en rutas largas. Quien haya hecho 30 km sobre ruedas de 8 pulgadas sabe de lo que hablo; las de 14 son otro mundo. Además admite 118 kg de carga máxima, una cifra generosa que lo hace apto para riders corpulentos o para llevar algo de equipaje.
 
-¿Quieres el detalle completo? <a href=/patinetes/joyor-lr8/>Ficha técnica completa del Joyor LR8</a>.
+El motor es de 500 W nominales, con buena respuesta en llano según la ficha. Y aquí llega el pero estructural: 38,1 kg para 500 W es mucho peso para poca potencia. En llano no se nota —el motor va sobrado para mantener crucero—, pero en cuestas sostenidas o con rider pesado, esos 500 W tienen que mover casi 40 kg de patinete más el piloto, y ahí el LR8 no es un escalador. Es un rutero de llanear, no de puertos. Si tu ruta tiene desnivel serio, este dato debería pesarte (nunca mejor dicho) en la decisión.
 
-## Precio del Joyor LR8 en España
+Los frenos son de tambor, y hay que decirlo claro: tienen menos mordiente que los de disco. Para un patinete de 38 kg que rueda a 45 km/h, unos frenos de disco darían más confianza, sobre todo en mojado o en bajadas largas. No son inservibles —el tambor bien ajustado frena—, pero es el punto débil técnico más claro del conjunto. La ficha también señala un diseño algo tosco: no es un patinete bonito, es un patinete funcional. Y la postventa de Joyor en Europa es irregular, otro factor a tener en cuenta: compra en tienda con garantía clara.
 
-Sin PVP oficial publicado en euros; se distribuye en España a través de la red de Joyor. Es de los pocos patinetes con **1.253 Wh** en su gama.
+Un dato que juega a su favor: las reviews especializadas le dan un 8/10 y lo describen como fiable a largo plazo. No es un dato de laboratorio, es reputación acumulada de usuarios, y en marcas chinas con postventa irregular esa reputación vale oro. Sobre el precio, honestidad: Joyor no publica una tarifa oficial verificable del LR8, así que los 770 € de la ficha son la referencia a contrastar con el vendedor.
 
 <img src=/media/patinetes/joyor-lr8-2.webp alt=Detalle de las ruedas de 14 pulgadas del Joyor LR8>
 
-## Autonomía real vs declarada
+¿Para quién es? Para el rutero de llano, para el commuter de 10-20 km por trayecto, para el rider corpulento que necesita 118 kg de carga máxima, para el que prioriza autonomía y confort de rodadura por encima de todo. ¿Para quién no? Para el de cuestas fuertes —500 W y 38,1 kg no son amigos—, para el piso sin ascensor —38 kilos no se suben a diario—, para el que quiera frenos de disco y para el que busque diseño.
 
-**72 km declarados**; en uso mixto, **unos 48 km reales**. Es la cifra que importa: con 1.253 Wh, es de los ruteros más capaces.
+La normativa: con 45 km/h de máxima, en España debe ir limitado a 25 km/h en vía pública, y la acera está prohibida. Un rutero como este pide circuito o vía privada para disfrutarlo sin limitador, aunque limitado sigue siendo un commuter solvente.
 
-## Frenos y neumáticos
+¿Rivales? El KuKirin G2 Max: 1.000 W, 960 Wh, 80 km declarados y 55 km/h por 684 €. Comparados, el LR8 ofrece más batería (1.253 Wh frente a 960 Wh) y ruedas más grandes, pero el G2 Max duplica la potencia con siete kilos menos y cuesta menos. Si tus rutas tienen cuestas, el G2 Max; si son llanas y largas y valoras la rodadura de 14 pulgadas, el LR8 tiene su argumento.
 
-**Freno de tambor delantero y trasero**, con **neumáticos de 14"**: mucho paso por bache y estabilidad a 45 km/h. El tambor es fiable pero menos potente que el disco.
-
-## Certificado DGT y normativa VMP
-
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 1.253 Wh: 72 km declarados | 38,1 kg: pesadísimo |
-| Ruedas de 14": cómodas | Frenos de tambor: mejorables |
-| 118 kg de carga | A 45 km/h hay que limitarlo |
-| Diseño tipo scooter rutero | Plegado aparatoso |
-| Para hacer kilómetros de verdad | Precio variable según tienda |
+Nuestra valoración: el LR8 es un especialista honesto con un desequilibrio claro. Su batería y sus ruedas son de categoría superior a su precio; su relación peso/potencia y sus frenos de tambor, de categoría inferior. Para llanear muchos kilómetros es una compra con sentido; para todo lo demás, hay opciones más equilibradas. Cómpralo por lo que es, no por lo que parece.
 
 <img src=/media/patinetes/joyor-lr8-3.webp alt=Joyor LR8 en ruta larga>
 
 ## Preguntas frecuentes
 
-### ¿Qué autonomía real tiene?
-Unos **48 km**.
+### ¿Cuánto cuesta el Joyor LR8?
+Nuestra ficha marca 770 €. Joyor no publica una tarifa oficial verificable, así que contrasta el precio con el vendedor.
 
-### ¿Por qué las ruedas de 14"?
-Más **estabilidad y comodidad** en baches y firmes irregulares.
+### ¿Qué autonomía real tiene?
+72 km declarados; unos 50 km reales según nuestra estimación conservadora. Es su gran baza.
+
+### ¿Sube bien las cuestas?
+Es su punto débil: 500 W para 38,1 kg. En llano va sobrado; en cuestas fuertes, justo.
+
+### ¿Los frenos de tambor son suficientes?
+Frenan, pero con menos mordiente que los de disco. Para 38 kg y 45 km/h, el disco daría más confianza.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 45 km/h de máxima, debe circular limitado a 25 km/h en vía pública.
 
-### ¿Para quién es?
-Para **ruteros largos** que quieren autonomía por encima de todo.
+¿Te han puesto una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Nuestro analizador gratuito con IA</a> te dice si puedes recurrirla antes de pagar.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>, <a href=https://www.electricscooterguides.com/>Electric Scooter Guides</a>.*`,
+*Cómo verificamos los datos: precio (770 €), motor (500 W), batería (1.253 Wh), autonomía (72 km declarados), velocidad (45 km/h), peso (38,1 kg), carga máxima (118 kg), frenos de tambor y ruedas de 14" tomados de la <a href=/patinetes/joyor-lr8/>ficha técnica</a>, con datos verificados el 2026-10-04 en la review especializada de <a href=https://www.electricscooterguides.com/reviews/joyor-lr8>Electric Scooter Guides</a>. La autonomía real (50 km) es estimación propia conservadora; peso y batería figuran como aproximados y la marca no publica oficialmente el tiempo de carga ni el certificado DGT.*
+`,
   },
   {
     slug: "joyor-lr10",
@@ -4294,7 +4094,7 @@ Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.
       "El Joyor S10-S-Z es el doble motor urbano: 2x1.000 W, 1.080 Wh, 75 km, 60 km/h y amortiguación de largo recorrido por 609 €. Ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
-    readTime: 6,
+    readTime: 5,
     locale: "all",
     keywords: [
       "joyor s10 s z",
@@ -4310,72 +4110,56 @@ Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.
     ],
     content: `<img src=/media/patinetes/joyor-s10-s-z-1.webp alt=Joyor S10-S-Z, vista lateral del doble motor urbano>
 
-**¿Buscas solo los datos?** <a href=/patinetes/joyor-s10-s-z/>Ver ficha técnica del Joyor S10-S-Z</a>: doble motor y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+**¿Solo quieres la ficha?** <a href=/patinetes/joyor-s10-s-z/>Ficha técnica del Joyor S10-S-Z</a> y <a href=/comparador-patinetes/>comparador frente a rivales</a>.
 
-El **Joyor S10-S-Z** es el doble motor urbano de la marca: **dos motores de 1.000 W** (2.000 W), **1.080 Wh** (60V 18Ah), **75 km declarados**, **60 km/h** y amortiguación de largo recorrido, por **609 €**.
+609 €. Doble motor de 1.000 W. Frenos de disco hidráulicos delante y detrás. 1.080 Wh de batería. Si esas cuatro cifras te han hecho parpadear, es normal: el Joyor S10-S-Z es uno de los dobles motores urbanos más baratos del mercado, y por debajo de su precio hay que buscar mucho para encontrar tracción total con hidráulicos. La ficha lo deja claro desde la primera línea: 2.000 W nominales (2x1.000 W), 75 km declarados, 60 km/h y 27 kg. Vamos a ver qué hay detrás de los números, porque un precio así siempre esconde matices.
 
-## Ficha técnica resumida
+El doble motor es la estrella. Dos motores de 1.000 W dan una aceleración contundente y un comportamiento muy aplomo: la tracción total reparte el esfuerzo, sale con fuerza de los semáforos y sube cuestas urbanas sin inmutarse. Con 60 km/h de velocidad máxima, en prestaciones brutas juega en la liga de patinetes que cuestan el doble. Eso sí, la potencia de pico no está publicada por la marca, así que nos quedamos con los 2.000 W nominales, que ya son más que suficientes para calificarlo.
 
-| Dato | Valor |
-|---|---|
-| **Precio** | 609 € |
-| **Motor** | Doble, 1.000 W + 1.000 W |
-| **Batería** | 60V 18Ah (1.080 Wh) |
-| **Autonomía declarada** | 75 km |
-| **Autonomía real estimada** | ≈50 km |
-| **Velocidad máxima** | 60 km/h |
+Los frenos son el segundo gran argumento: disco hidráulico delantero y trasero. A este precio, lo habitual son frenos mecánicos o un hidráulico delante y mecánico detrás; que el S10-S-Z monte hidráulicos en las dos ruedas es un salto de calidad real en tacto y potencia de frenada. Para un patinete de 27 kg que alcanza 60 km/h, es además una cuestión de seguridad: frenar bien no es un lujo, es una necesidad.
 
-¿Quieres el detalle completo? <a href=/patinetes/joyor-s10-s-z/>Ficha técnica completa del Joyor S10-S-Z</a>.
+La batería es de 1.080 Wh (60V 18Ah), con 75 km declarados y unos 50 km reales según nuestra estimación conservadora. Los 60V —frente a los 48V habituales— le dan un plus de eficiencia y alegría al conjunto. El pero: 10-12 horas de carga, una noche entera enchufado. Es el peaje de las baterías grandes con cargador de serie modesto; si lo usas a diario, la rutina es cargarlo cada noche sí o sí. Y con los dos motores trabajando, la autonomía real cae respecto a ir en modo eco con uno solo: la tracción total se paga en vatios.
 
-## Precio del Joyor S10-S-Z en España
-
-**609 €** en la red de distribuidores españoles de Joyor. Incluso más barato que el T10 a cambio de un enfoque más urbano.
+El peso es una sorpresa agradable: 27 kg. Para ser un doble motor con más de 1 kWh de batería, es ligero —hay dobles motores que se van a 35 kg sin despeinarse—. Eso lo hace más llevadero para guardarlo y moverlo, aunque sigue sin ser un patinete para subir por escaleras a diario. La carga máxima es de 120 kg, generosa.
 
 <img src=/media/patinetes/joyor-s10-s-z-2.webp alt=Detalle de la amortiguación del Joyor S10-S-Z>
 
-## Autonomía real vs declarada
+El equipamiento urbano está bien resuelto: intermitentes y claxon de serie, detalles que muchos patinetes más caros no traen y que en ciudad se agradecen —señalizar un giro entre coches no debería ser un extra—. Los neumáticos son de 10 pulgadas en versión off-road, con taco para salir del asfalto; en ciudad pura hacen algo más de ruido y gastan algo más, pero dan versatilidad. La suspensión, eso sí, es menos elaborada que la del T10, su hermano de gama: la ficha lo señala como uno de sus contras, y se nota en firmes rotos.
 
-**75 km declarados**; en uso mixto, **unos 50 km reales**. La amortiguación de largo recorrido lo hace cómodo en firmes urbanos rotos.
+Hablemos del solape de gama, porque Joyor se pisa un poco: el T10 y el S10-S-Z compiten entre sí dentro de la propia marca. La ficha destaca que el S10-S-Z es aún más barato que el T10, y esa es su razón de existir: mismo concepto de doble motor urbano, precio más agresivo. Si dudas entre ambos, la decisión es de matices de equipamiento y de oferta del momento.
 
-## Frenos y neumáticos
+¿Para quién es? Para el que quiere tracción total sin pasar de 650 €, para el commuter exigente que valora los hidráulicos, para el que hace mixto ciudad/pista ligera gracias a los neumáticos off-road. ¿Para quién no? Para el piso sin ascensor —27 kg todos los días cansan—, para el que no puede cargar 11 horas por la noche, y para el que busque red oficial impecable: la postventa de Joyor en Europa es irregular, así que la tienda donde lo compres importa mucho.
 
-Frenos de disco y neumáticos de 10" con suspensión delantera y trasera de largo recorrido. Enfoque urbano: cómodo en baches, menos off-road que el LR10.
+Normativa: con 60 km/h de máxima, limitado a 25 km/h en vía pública española para ser un VMP legal, y prohibido en aceras. Como todos los de su liga.
 
-## Certificado DGT y normativa VMP
-
-Con **60 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
-
-## Puntos fuertes y débiles
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 2.000 W por 609 € | A 60 km/h, ilegal en vía pública |
-| 75 km declarados | Peso sin publicar (elevado) |
-| Amortiguación de largo recorrido | Acabados de entrada |
-| Más barato que el T10 | Menos conocido que el T10 |
-| Doble motor urbano cómodo | Red de talleres limitada |
+Nuestra valoración: el S10-S-Z es el doble motor urbano con mejor relación prestaciones/precio que hemos fichado en este rango. Hidráulicos en las dos ruedas, 1.080 Wh y 27 kg por 609 € es una combinación que la competencia no iguala. Sus peajes —11 horas de carga, suspensión mejorable, postventa irregular— son reales pero asumibles si compras con la cabeza. Si tu presupuesto ronda los 600 € y quieres tracción total, este es el patinete a batir.
 
 <img src=/media/patinetes/joyor-s10-s-z-3.webp alt=Joyor S10-S-Z en calles urbanas>
 
+El canal e-VRC lo prueba en este vídeo:
+
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/SmSiY1L3Mfk title="Prueba del Joyor S10-S-Z por e-VRC" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-**609 €** en distribuidores españoles.
+### ¿Cuánto cuesta el Joyor S10-S-Z?
+609 € según la ficha, en la web oficial de Joyor. Es de los dobles motores más baratos del mercado.
 
 ### ¿Qué autonomía real tiene?
-Unos **50 km**.
+75 km declarados; unos 50 km reales según nuestra estimación conservadora. A fondo con los dos motores, menos.
 
-### ¿S10-S-Z o T10?
-El S10-S-Z es más **urbano y barato** (609 €); el T10 aguanta **más carga** (120 kg). Para ciudad, S10-S-Z.
+### ¿Cuánto tarda en cargar?
+Unas 11 horas (dato aproximado): una noche entera. Planifica la rutina de carga.
+
+### ¿27 kg es mucho para un doble motor?
+No: es ligero para su categoría: hay dobles motores de 35 kg. Aun así, no es para escaleras diarias.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+Con 60 km/h de máxima debe ir limitado a 25 km/h en vía pública.
 
-### ¿Cuánto pesa?
-El peso oficial no está publicado, pero como todo doble motor es **elevado**: ténlo en cuenta para cargarlo y transportarlo.
+¿Multa con el patinete? <a href=https://recurretumulta.online/#analizador>Revísala gratis con nuestro analizador de IA</a> antes de pagar.
 
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+*Cómo verificamos los datos: precio (609 €), doble motor (2.000 W nominales), batería (1.080 Wh, 60V 18Ah), autonomía (75 km declarados), velocidad (60 km/h), peso (27 kg), carga máxima (120 kg), tiempo de carga (11 h), frenos de disco hidráulicos y neumáticos off-road de 10" tomados de la <a href=/patinetes/joyor-s10-s-z/>ficha técnica</a>, con datos verificados el 2026-10-04 en la página oficial del producto, <a href=https://joyor.com/products/joyor-s10-s-z-electric-scooter>joyor.com</a>. La autonomía real (50 km) es estimación propia conservadora, el tiempo de carga figura como aproximado y la marca no publica oficialmente la potencia de pico ni el certificado DGT.*
+`,
   },
 ];
