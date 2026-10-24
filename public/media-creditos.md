@@ -230,6 +230,10 @@
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-16-.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-10-1.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeoc_mj25_004.webp | Bürstner (foto oficial del kit de prensa del Campeo MJ25; alojada en web de tercero) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-hero.webp | https://www.am-online.com/news/bentley-reveals-first-edition-version-of-new-torcal-ev | Bentley Motors (prensa) / AM Online (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-oficial.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-interior.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-lateral.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
 
 ## Campers — lote niky-campers (19/10/2026)
 
