@@ -232,13 +232,7 @@ function InlineEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          {nota ?? (
-            <>
-              {inline?.nota ?? "Sin datos EuroNCAP: modelo no probado."} El programa europeo
-              ensaya los modelos de forma voluntaria (o por iniciativa propia), así que no todos
-              los coches del mercado tienen valoración oficial.
-            </>
-          )}
+          {nota ?? (inline?.nota ?? "Sin test EuroNCAP.")}
         </p>
       </section>
     );

@@ -57,7 +57,7 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
   // El historial solo se cita si su último punto coincide con el precio de la ficha.
   const histOk = !!ult && ok(d.precio) && ult.p === d.precio && (ult.m ?? "EUR") === "EUR";
   if (ok(d.precio)) {
-    const verif = histOk ? ` (${d.precioAprox ? "dato registrado" : "precio registrado"} el ${fecha(ult.f)})` : "";
+    const verif = ""; // (24/10 unicidad) la fecha del precio va como dato en la cabecera, no como coletilla
     const del = `${d.articulo === "El" ? "del" : "de la"} ${d.nombre}`;
     if (d.precioOrigen && ok(d.precioOrigen.price) && d.precioOrigen.priceCurrency !== "EUR") {
       const mon = MON[d.precioOrigen.priceCurrency] ?? d.precioOrigen.priceCurrency;
@@ -82,12 +82,12 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
       const mismas = pts.filter((p) => (p.m ?? "EUR") === "EUR");
       const primero = mismas[0];
       const delta = ult.p - primero.p;
-      const cambio =
-        mismas.length < 2 || delta === 0
-          ? `Su precio no ha cambiado desde que lo seguimos (${fecha(primero.f)}).`
-          : `Su precio ha ${delta < 0 ? "bajado" : "subido"} ${eur(Math.abs(delta))} desde el ${fecha(primero.f)}.`;
-      frases.push(cambio);
-      faq += " " + cambio;
+      // (24/10 unicidad) solo se cita si hay cambio real (dato propio); sin cambio no se dice nada.
+      if (mismas.length >= 2 && delta !== 0) {
+        const cambio = `Su precio ha ${delta < 0 ? "bajado" : "subido"} ${eur(Math.abs(delta))} desde el ${fecha(primero.f)}.`;
+        frases.push(cambio);
+        faq += " " + cambio;
+      }
     }
   }
   return {

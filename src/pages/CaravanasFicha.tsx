@@ -206,7 +206,7 @@ function Ficha({ auto }: { auto: Caravana }) {
       q: `¿Cuánto cuesta la ${nombre}?`,
       a:
         auto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
+          ? `La ${nombre} aún no tiene precio confirmado para España.`
           : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. Los extras y el equipamiento opcional no están incluidos en ese precio de partida.`,
     },
     {

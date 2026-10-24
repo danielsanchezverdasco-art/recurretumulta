@@ -706,8 +706,9 @@ function BlogPostPage() {
         </div>
 
         <div className="max-w-3xl mx-auto px-4 py-8 space-y-8">
-          {/* Inline CTA */}
-          <div
+          {/* Inline CTA (26/10: <aside>, caja complementaria común a todos los posts) */}
+          <aside
+            aria-label="Analizador de multas"
             className="bg-gradient-to-r from-red-600 to-rose-600 rounded-2xl p-5 text-white space-y-3"
           >
             <div className="flex items-center gap-3">
@@ -725,7 +726,7 @@ function BlogPostPage() {
                 <ArrowRight className="w-4 h-4 ml-2" />
               </Button>
             </Link>
-          </div>
+          </aside>
 
           {/* Ficha del modelo primero: la atracción fuerte, antes de la historia */}
           {cocheDestacado && (
@@ -803,6 +804,7 @@ function BlogPostPage() {
             </Suspense>
           )}
 
+          <aside aria-label="Analizador de multas">
           {/* Bottom CTA */}
           <Card className="border-2 border-red-200 overflow-hidden">
             <CardContent className="p-5 space-y-4">
@@ -840,6 +842,7 @@ function BlogPostPage() {
               </Link>
             </CardContent>
           </Card>
+          </aside>
 
           {/* Newsletter semanal: solo en artículos de motor */}
           {post.category === "Novedades Motor" && (

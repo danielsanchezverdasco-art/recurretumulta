@@ -206,8 +206,8 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       q: `¿Cuánto cuesta la ${nombre}?`,
       a:
         auto.precioDesde == null
-          ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
+          ? `La ${nombre} aún no tiene precio confirmado para España.`
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}.`,
     },
     {
       q: `¿Qué carnet necesito para conducir la ${nombre}?`,

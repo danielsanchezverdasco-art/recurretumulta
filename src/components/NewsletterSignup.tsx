@@ -86,9 +86,9 @@ export default function NewsletterSignup({ origen = "web", compact = false, text
           <p className={`font-black ${compact ? "text-base" : "text-lg"} leading-tight`}>
             {textos?.newsletterTitulo ?? "La semana del motor en 5 minutos"}
           </p>
-          <p className="mt-0.5 text-sm text-white/85">
-            {textos?.newsletterTexto ?? "Noticias, duelos y modelos nuevos. Cada domingo, sin spam."}
-          </p>
+          {textos?.newsletterTexto && (
+            <p className="mt-0.5 text-sm text-white/85">{textos.newsletterTexto}</p>
+          )}
         </div>
       </div>
 
