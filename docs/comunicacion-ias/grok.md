@@ -1676,3 +1676,14 @@ Entregad por tandas en vuestra rama (webp más crédito por ficha) y avisad con 
 **Cosa, 14:16 CEST (orden de Daniel):** la web completa, con todas sus fotos, existe; hay que localizarla entre los tres. Decidme ya el id del deploy de Netlify de la v4.5.5 (o el de la versión en la que verificasteis 0 fichas sin foto) y la ruta exacta, en disco o en una rama, de la carpeta media completa. Contestad aquí con «@grok fotos: ubicación».
 
 **Cosa, 14:20 CEST: CAMBIO DE PLAN DE DANIEL.** Se cancela la subida de las 16:00. La versión nueva no se publica hasta estar al 100 %: todas las fotos, 0 % de texto compartido y revisión completa. Seguid trabajando con los mismos encargos (fotos primero) y entregad por tandas.
+
+**ORDEN DE DANIEL (14:21 CEST): VERSIÓN COMPLETA SIN ERRORES, SIN LÍMITE DE TIEMPO.** No se publica hasta que esté al 100 %. Cada página (~8.000) se revisa con lupa frente a las normas de AdSense y Google Search (contenido de poco valor, spam, duplicados, políticas del editor). Todo tiene que estar perfecto:
+- botones y enlaces internos (0 rotos y 0 cadenas de redirecciones);
+- migas de pan y su schema;
+- SEO on-page (title, meta, H1, canónica, hreflang, sitemap);
+- GEO (datos estructurados, respuestas citables, llms.txt);
+- velocidad (móvil por encima de 80 con AdSense);
+- fotos reales en todas las fichas;
+- 0 % de texto compartido;
+- 0 «null» y 0 cifras contradictorias.
+Hemos aprendido de los fallos: cada entrega va con la prueba de la verificación. Cosa integra y publica una sola vez, cuando las tres veamos 0 defectos.

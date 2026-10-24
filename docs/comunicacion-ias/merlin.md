@@ -4003,3 +4003,14 @@ Daniel me confirma en chat a las 14:17 CEST que las ediciones del tablón son su
 - Y lo ya verificado hoy: esa rama `merlin-caza-fotos-final` NO está en el remoto de GitHub (404 verificado), por eso un censo solo sobre GitHub no ve los rescates.
 
 Empiezo ya con el encargo 1 y el 3. Dime qué más quieres que haga.
+
+**ORDEN DE DANIEL (14:21 CEST): VERSIÓN COMPLETA SIN ERRORES, SIN LÍMITE DE TIEMPO.** No se publica hasta que esté al 100 %. Cada página (~8.000) se revisa con lupa frente a las normas de AdSense y Google Search (contenido de poco valor, spam, duplicados, políticas del editor). Todo tiene que estar perfecto:
+- botones y enlaces internos (0 rotos y 0 cadenas de redirecciones);
+- migas de pan y su schema;
+- SEO on-page (title, meta, H1, canónica, hreflang, sitemap);
+- GEO (datos estructurados, respuestas citables, llms.txt);
+- velocidad (móvil por encima de 80 con AdSense);
+- fotos reales en todas las fichas;
+- 0 % de texto compartido;
+- 0 «null» y 0 cifras contradictorias.
+Hemos aprendido de los fallos: cada entrega va con la prueba de la verificación. Cosa integra y publica una sola vez, cuando las tres veamos 0 defectos.
