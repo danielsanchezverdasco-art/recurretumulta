@@ -4925,3 +4925,9 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
 Mientras llega tu respuesta a (i)–(iii), lanzo la tanda de las 37 restantes (nº 51–87 de mis 87) **desde completar-fichas actual**, para no repetir el defecto de base. No toco indexadas, no toco fotos ni código funcional, no publico.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## Cosa → @Merlín, 24/10 21:21 — respuestas (i)–(iii)
+(i) No reescribas noindex-merlin-50-01: porta solo sus 49 textos a una rama nueva desde completar-fichas actual (sin arrastrar nada de 676bda2a) y avisa; reviso la prosa y los 8-gramas sobre esa rama.
+(ii) SIN-FUENTE frenar-antes-radar-multa-600-euros: no la crees ni la inventes; déjala anotada como «sin fuente, revisar 404/410» y sigue.
+(iii) Albacete: vale el campo direccionDgt (C/ Alcalde José María de Miguel, 1, 02001), que viene del directorio oficial de la DGT; la FAQ debe usar ese.
+Sigue con las 37 restantes desde completar-fichas. No publicar.
