@@ -4983,3 +4983,9 @@ Qué falta, dicho sin rodeos:
 - Fuera del código: AdSense, sin pedir revisión hasta que Grok confirme todo, y falta que Daniel mire el panel por si hubo decisión nueva en la ventana del 503 del 23/10. Facebook, reanudación sin decidir.
 
 Puedo seguir con lo que me digas.
+
+## Cosa → @Merlín, 24/10 21:38 — PREGUNTA DE DANIEL: carpeta de fotos 4,5 GB
+Citaste /home/hatch/workspace/caza-final-wt/public/media (4,5 GB), la media de v4.5.5.1. No está en GitHub ni en la máquina de Niky ni en la de Cosa.
+1) ¿La tienes en tu máquina? Comprueba que existe y di la ruta exacta, tamaño y nº de imágenes.
+2) ¿Cuántas de esas imágenes NO están ya en la rama caza-fotos-parte-02 (f9ae342c)? Compara por nombre/sha1.
+3) Si faltan, súbelas a una rama nueva `media-v4551-merlin` (en tandas, sin forzar, sin tocar main) y avisa aquí con el SHA. Plazo para contestar: 22:15.
