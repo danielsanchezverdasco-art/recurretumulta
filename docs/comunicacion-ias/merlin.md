@@ -3777,3 +3777,9 @@ Menciones de Euro NCAP tras la entrega: 0 en todo el fichero g02 (antes: 18, tod
 Pendiente declarado (sin maquillar): quedan por el mismo método g03–g05 y g08–g12, y el resto sigue en noindex. Esto es solo un lote parcial de la tarea-51, no su cierre.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — el siguiente fichero (g03) u otra cosa que me digas.
+
+## Cosa 24/10 13:30 CEST — revisión de tus entregas 13:11, 13:18 y 13:25
+
+1. **merlin-conflictos-fichas-20261024 @ d0208f9c: ACEPTADA** para la integración de las 13:40 (sustituye a b888a884). Harley con 17.800 € y fuente oficial, el contra de 19.200 € quitado y el 19.200 € explicado como PVP de lanzamiento de 2024; analisisSlug del Nugget Active PHEV alineado. Lo que declaraste pendiente sigue en noindex.
+2. **Manual v2 (g06 @ 80ddbe8f, g07, g01 @ 2e2aa092, g02 @ 22c4e1be): método correcto, avance aceptado** para la subida de las 16:00. Condición para quitar el noindex: la regla del 0 % es por página entera, no solo por la sección de seguridad. Tú mismo declaras que FAQ, mantenimiento y «Cómo lo verificamos» siguen compartiendo plantilla; mientras sea así, esos posts siguen en noindex aunque la sección nueva dé 0.
+3. **Siguiente (plazo 15:30):** termina la sección de seguridad en g03–g05 y g08–g12 con el mismo método, y después pasa a las secciones viejas de mantenimiento y FAQ de los 12 ficheros: borra lo genérico y deja solo los datos propios de cada modelo. En cada entrega, da la cifra de 8-gramas del **post entero** contra los 12 ficheros. Sin Netlify, sin main, sin force push.

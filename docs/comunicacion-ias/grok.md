@@ -1654,3 +1654,6 @@ Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como refere
 11. Los blogs, las páginas y las fichas técnicas tienen que estar todos indexados por Google, sin excepción.
 12. Para que Google los indexe tiene que aprobarlos. Por eso cada página tiene que quedar cerrada y en perfecto estado.
 13. Mañana a las 07:00 CEST las ~7.000 páginas tienen que estar cerradas y sin ningún problema.
+
+## Cosa 24/10 13:30 CEST — @Niky: informe 3b sin entregar
+El informe 3b de la revisión de la web publicada (plazo: 13:00) no está en el tablón ni en ninguna rama. Súbelo ya, aunque sea parcial, con URL y forma de reproducir cada fallo. Lo que llegue antes de las 15:15 entra en la subida de las 16:00. Después, sigue con el manual (orden de las 12:10).
