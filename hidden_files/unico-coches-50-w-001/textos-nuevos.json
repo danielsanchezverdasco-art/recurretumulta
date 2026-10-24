@@ -1,0 +1,748 @@
+[
+ {
+  "type": "ficha",
+  "slug": "westfalia-columbus-2026-precio-ficha-tecnica",
+  "url": "/coches/westfalia-columbus-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-campers-westfalia.ts",
+  "texts": [
+   "El Columbus 600 concentra en 5,99 metros un aseo completo, ducha independiente incluida, y una cama transversal trasera siempre hecha",
+   "El Ducato 2.2 de Fiat, con 140 CV y 340 Nm, mueve con soltura una camper de 2,05 metros de anchura",
+   "Cuatro plazas homologadas y una dinette convertible permiten viajar en familia sin renunciar al salón",
+   "Desde 67.000 euros, el Columbus 600 queda por debajo de muchas autocaravanas de tamaño parecido",
+   "Westfalia reparte cocina, baño y dormitorio en 5,99 metros, una distribución poco habitual en esa longitud",
+   "Aparcarlo en una plaza estándar resulta prácticamente imposible: mide 5,99 metros de largo y 2,58 de alto",
+   "La cama transversal obliga a quien duerme pegado a la pared a saltar por encima de su pareja",
+   "El precio de 67.000 euros corresponde a la lista alemana y en España puede variar al alza",
+   "Etiqueta C de la DGT: el diésel queda fuera de las ventajas de las pegatinas ECO y Cero",
+   "La demanda alta de Westfalia alarga la espera desde el pedido hasta la entrega"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "westfalia-kepler-2026-precio-ficha-tecnica",
+  "url": "/coches/westfalia-kepler-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-campers-westfalia.ts",
+  "texts": [
+   "El Kepler baja la entrada a Westfalia hasta unos 57.000 euros sin renunciar al techo elevable",
+   "Con 5,30 metros de largo y 2,00 de alto, el Kepler cabe en muchos parkings donde una camper grande no entra",
+   "Su techo elevable añade una cama doble y eleva las plazas de noche a cuatro en 5,30 metros",
+   "La base Volkswagen aporta una red de talleres amplia y una reventa tradicionalmente sólida en España",
+   "Como camper compacta, el Kepler sirve de coche diario entre semana y de escapada el fin de semana",
+   "El Kepler no lleva baño fijo de serie, así que la higiene en ruta depende de instalaciones externas",
+   "Cuatro ocupantes en 5,30 metros viven justos cuando llueve y todo se hace dentro",
+   "Los 150 CV del Kepler cumplen sin sobrar cuando la camper va cargada a tope",
+   "El equipamiento de serie del Kepler es espartano y los extras suben rápido el precio final",
+   "Los 57.000 euros del Kepler son lista alemana, de modo que en España la cifra puede cambiar"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica",
+  "url": "/coches/westfalia-sven-hedin-man-tge-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-campers-man-ford.ts",
+  "texts": [
+   "El Sven Hedin estira su cama hasta 2,00 por 1,30 metros gracias al Pop-Out patentado de Westfalia",
+   "Su MAN TGE de 163 CV, con caja automática de ocho relaciones, hace llevaderos los viajes largos",
+   "Con solo 5,98 metros, el Sven Hedin se maniobra casi como una furgoneta grande",
+   "La carga útil de 498 kg según MAN está entre las mejores de su segmento de campers",
+   "Baño completo con ducha y nevera de compresor de 90 litros completan una camper pensada para vivir fuera",
+   "Desde 77.900 euros, el Sven Hedin se sitúa en el tramo alto de las campers de su tamaño",
+   "De serie solo duermen dos personas; las cuatro plazas de noche exigen el techo elevable opcional",
+   "Etiqueta C de la DGT: el diésel del Sven Hedin no accede a las ventajas de ECO ni de Cero",
+   "Con 2,59 metros de alto, el Sven Hedin no entra en parkings limitados a 2 metros",
+   "La red de servicio de Westfalia es más pequeña que la de Ford o Volkswagen en España"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-03-2024-precio-ficha-tecnica",
+  "url": "/coches/wey-03-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Wey 03 recorre 130 km en modo eléctrico WLTP, de sobra para el trayecto diario al trabajo sin gastar gasolina",
+   "Desde 47.900 euros en Alemania, el Wey 03 trae de serie un equipamiento muy completo para su precio",
+   "Sus 367 CV y un 0-100 en 7,3 segundos sobran para mover un SUV de 4,67 metros",
+   "Que un híbrido enchufable admita 50 kW en continua es raro, y eso acorta las paradas del Wey 03",
+   "El Wey 03 puede remolcar hasta 2.000 kg, así que admite caravana sin cambiar de coche",
+   "El Wey 03 solo se vende oficialmente en Alemania, con una red escasa fuera de Europa central",
+   "Su maletero de 517 litros queda justo para un SUV de 4,67 metros cargado en familia",
+   "La batería de 34 kWh del Wey 03 pesa y cuesta más de reemplazar que la de rivales más ligeros",
+   "La marca Wey aún genera dudas sobre depreciación y reventa en el mercado español",
+   "La versión AWD de 442 CV del Wey 03 cuesta 8.000 euros más que la de tracción delantera"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-05-2024-precio-ficha-tecnica",
+  "url": "/coches/wey-05-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Wey 05 combina 476 CV y 847 Nm, con las cuatro ruedas motrices, para bajar de 5,0 segundos en el 0-100",
+   "Sus 158 km eléctricos WLTP están entre los mejores registros de su clase de SUV enchufables",
+   "El Wey 05 logró 5 estrellas Euro NCAP en 2022, evaluado como Coffee 01",
+   "En Alemania, el Wey 05 trae cinco años de garantía sin tope de kilómetros; aparte, su batería aguanta cubierta ocho años o 160.000 km",
+   "Con solo 12 g/km de CO2, el Wey 05 obtiene etiqueta Cero y exenciones en España",
+   "Desde 59.900 euros, el Wey 05 entra en el terreno de precios del Audi Q5 o el BMW X3",
+   "Sus 2.410 kg se notan en consumos reales cuando la batería del Wey 05 va descargada",
+   "El maletero de 500 litros del Wey 05 queda por debajo del de rivales alemanes de su tamaño",
+   "La carga en continua del Wey 05 se limita a 50 kW, así que en viaje largo la batería se vacía rápido",
+   "Fuera de Alemania, la red de servicio de Wey es pequeña y complica la posventa"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-07-2024-precio-ficha-tecnica",
+  "url": "/coches/wey-07-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Wey 07 ofrece 5,16 metros de largo y 3,05 de batalla con seis plazas en tres filas",
+   "Su conjunto Hi4 combina un 1.5T de 170 CV con motores eléctricos en ambos ejes y cambio DHT de cuatro relaciones",
+   "La batería de 44,5 kWh del Wey 07 firma 185 km eléctricos WLTC y 1.308 km combinados en ciclo chino",
+   "La versión Intelligent Driving del Wey 07 añade LiDAR de 128 líneas, chip Nvidia Orin-X y NOA sin mapas",
+   "El Wey 07 equipa nevera de 7 litros entre menos 6 y 50 grados, pantalla trasera de 17,3 pulgadas y butacas capitán",
+   "En España el Wey 07 solo podría llegar por importación paralela: su venta oficial se limita a China y Rusia",
+   "Con la tercera fila desplegada, el maletero del Wey 07 se queda en 239 litros, escaso para seis ocupantes",
+   "Li Auto L8 y AITO M7 venden mucho más que el Wey 07 en China y le restan visibilidad comercial",
+   "La versión de exportación del Wey 07 renuncia al LiDAR de techo y a la pantalla del copiloto del Lanshan chino",
+   "El precio en euros del Wey 07 sale de convertir 299.800 yuanes, sin tarifa europea que lo respalde"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-gaoshan-7-2025-precio-ficha-tecnica",
+  "url": "/coches/wey-gaoshan-7-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Gaoshan 7 es el monovolumen familiar de batalla corta: 3.085 mm entre ejes y 5,05 metros de largo",
+   "Su Hi4 Performance suma un 1.5T de 125 kW con motores de 80 kW delante y 135 kW detrás, 337 kW y 644 Nm en conjunto",
+   "La batería ternaria de 44,28 kWh del Gaoshan 7 firma 172 km eléctricos WLTC y 945 km totales con el depósito lleno",
+   "El Coffee Pilot Ultra de serie del Gaoshan 7 usa LiDAR de 128 líneas, 27 sensores y chip Nvidia Orin-X",
+   "El habitáculo 2+2+3 del Gaoshan 7 trae puertas correderas eléctricas, pantalla trasera 3K de 17,3 pulgadas y nevera de 12,5 litros",
+   "Para comprarlo en Europa no hay tarifa ni red Wey: el Gaoshan 7 se concentra en China, Tailandia y Malasia",
+   "Los 37.150 euros de esta ficha salen de convertir 285.800 yuanes, sin impuestos, transporte ni homologación europea",
+   "La carga rápida del Gaoshan 7 tarda 26 minutos del 30 al 80 por ciento y en alterna a 6,6 kW necesita 6,5 horas",
+   "El Agile Turn Assist rebaja el radio de giro del Gaoshan 7 a 5,6 metros, pero 1,96 de ancho y 1,90 de alto castigan en garajes",
+   "Con las siete plazas en pie, en el Gaoshan 7 caben siete maletas de 20 pulgadas, cinco menos que en un Gaoshan 8"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-gaoshan-8-2025-precio-ficha-tecnica",
+  "url": "/coches/wey-gaoshan-8-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Gaoshan 8 estira su batalla hasta 3,14 metros dentro de 5,28 metros de largo, con habitabilidad máxima",
+   "Sus 452 CV con tracción total permiten un 0-100 en 5,7 segundos pese a ser un monovolumen de siete plazas",
+   "La variante 2026 del Gaoshan 8 monta una batería de 53,9 kWh y homologa 210 km eléctricos WLTC",
+   "Con siete plazas y asientos capitán, el Gaoshan 8 se enfrenta directamente al Toyota Alphard",
+   "El Gaoshan 8 añade equipamiento de lujo con pantalla trasera de entretenimiento para los pasajeros",
+   "El Gaoshan 8 no se vende oficialmente en Europa: su mercado es solo China",
+   "Un monovolumen de 5,28 metros como el Gaoshan 8 solo tiene sentido para quien necesite siete plazas reales",
+   "Del Gaoshan 8 no hay datos de carga rápida en continua publicados",
+   "El precio en euros del Gaoshan 8 sale de convertir 309.800 yuanes de la tarifa china, así que es orientativo",
+   "Del Gaoshan 8 no se ha encontrado videoprueba específica"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-gaoshan-9-2025-precio-ficha-tecnica",
+  "url": "/coches/wey-gaoshan-9-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El Gaoshan 9 es el tope de gama: motor 2.0T con 487 CV y 762 Nm de par",
+   "El Gaoshan 9 mide 5,41 metros y su batalla es de 3,27, lo que lo convierte en el monovolumen más grande de GWM",
+   "Sus seis plazas con asientos de gravedad cero y frigorífico buscan el confort de una sala de estar",
+   "La batería de 51,55 kWh del Gaoshan 9 es la mayor de toda la familia Gaoshan",
+   "El Gaoshan 9 se presentó como Wey 80 y G9 en el Salón de Shanghái de 2025",
+   "En Europa no hay venta oficial del Gaoshan 9: su mercado, de momento, es China en exclusiva",
+   "Del Gaoshan 9 no hay datos de autonomía eléctrica publicados",
+   "Los euros del Gaoshan 9 proceden de convertir 353.800 yuanes de la tarifa china, sin precio oficial europeo",
+   "Con 5,41 metros, el Gaoshan 9 resulta imposible de aparcar en muchas plazas españolas",
+   "Del Gaoshan 9 no se ha encontrado videoprueba específica"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-v8x-2026-precio-ficha-tecnica",
+  "url": "/coches/wey-v8x-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El V8X entrega 670 CV y 930 Nm, y baja de 4,5 segundos en el 0-100 siendo un SUV familiar",
+   "Su carga 6C a 800 voltios recupera del 30 al 80 % en solo 9 minutos",
+   "El V8X homologa hasta 312 km eléctricos WLTC y 1.659 km combinados con el depósito lleno",
+   "La arquitectura Super Hi4 del V8X usa un cambio DHT de 4 velocidades",
+   "El chip Thor-U del V8X alimenta una cabina de inteligencia artificial VLA",
+   "El V8X se lanzó en agosto de 2026, así que no tiene pruebas europeas ni historial",
+   "El V8X no tiene venta oficial europea: de momento solo se vende en China",
+   "Del V8X no hay tarifa oficial publicada: la preventa china se abrió sin anunciar precio",
+   "Las versiones Sport y Family del V8X tienen medidas distintas y confunden al elegir",
+   "La autonomía eléctrica del V8X es WLTC, una cifra orientativa y no WLTP"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wey-v9x-2026-precio-ficha-tecnica",
+  "url": "/coches/wey-v9x-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wey.ts",
+  "texts": [
+   "El V9X es el primer modelo de producción sobre la plataforma GWM One S, con Super Hi4 hasta 737 CV y 930 Nm",
+   "Su arquitectura de 800 voltios con carga 6C sube del 30 al 80 % en nueve minutos",
+   "La batería grande de 80 kWh del V9X homologa 470 km eléctricos CLTC, y el alcance total llega a 1.700 km",
+   "La suspensión neumática de doble cámara del V9X recorre 100 mm y su eje trasero direccional gira 10 grados",
+   "El V9X ofrece seis plazas en formato 2+2+2, con asiento de gravedad cero, pantalla trasera de 21,4 pulgadas y 31 altavoces",
+   "El V9X se presentó en Auto China 2026 y se vende en China desde el 18 de mayo, sin tarifa para España",
+   "En origen el V9X cuesta entre 349.800 y 389.800 yuanes; los 45.470 euros de esta ficha son una conversión orientativa",
+   "El V9X tiene dos carrocerías, de 5.205 y 5.299 mm, ambas con 2.025 mm de anchura y hasta 2.930 kg",
+   "Los 470 km eléctricos y 1.700 km totales del V9X son valores CLTC chinos, no WLTP europeos",
+   "El V9X no tiene prueba Euro NCAP publicada ni homologación europea"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wiesmann-project-thunderball-2025-precio-ficha-tecnica",
+  "url": "/coches/wiesmann-project-thunderball-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wiesmann.ts",
+  "texts": [
+   "El Project Thunderball combina 680 CV y 1.100 Nm en un roadster de unos 1.775 kg para un 0-100 en 2,9 segundos",
+   "Su arquitectura de 800 voltios admite carga ultrarrápida de 300 kW en corriente continua",
+   "La autonomía objetivo del Project Thunderball es de 500 km WLTP, de récord entre roadsters eléctricos",
+   "La fabricación artesanal en Dülmen permite co-crear cada Project Thunderball con su cliente",
+   "La producción del Project Thunderball se limita a 1.000 unidades, una exclusividad de colección",
+   "Desde 300.000 euros, el Project Thunderball juega en territorio de Bentley y Ferrari",
+   "Las entregas del Project Thunderball se retrasan: la producción prevista para 2024 sigue sin empezar",
+   "El maletero del Project Thunderball es de solo unos 180 litros delanteros, una practicidad mínima",
+   "La marca Wiesmann tiene una red de servicio muy reducida frente a Porsche o Mercedes",
+   "Del Project Thunderball no hay cifras oficiales de consumo, velocidad máxima ni prueba Euro NCAP"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-air-ev-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-air-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Air EV homologa 300 km de autonomía en su acabado Long Range",
+   "El diseño futurista del Air EV no pasa desapercibido en la calle",
+   "La tracción trasera y solo 888 kg de peso hacen ágil al Air EV en ciudad",
+   "El Air EV ofrece cuatro plazas en solo 2.974 mm de longitud",
+   "El Air EV se vende también como MG Comet EV en India",
+   "El Air EV no admite carga rápida en corriente continua",
+   "La velocidad máxima del Air EV se limita a 100 km/h",
+   "La recarga en alterna del Air EV es de solo 6,6 kW, unas 4 horas",
+   "El Air EV no se vende oficialmente en España",
+   "La habitabilidad trasera del Air EV es muy justa"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-bingo-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-bingo-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Bingo alcanza hasta 410 km de autonomía con la versión de 37,9 kWh",
+   "El diseño retro del Bingo recuerda a los utilitarios europeos clásicos",
+   "La carga rápida en continua del Bingo recupera del 30 al 80 % en 35 minutos",
+   "El Bingo supera las 400.000 unidades vendidas desde 2023",
+   "El precio de acceso del Bingo parte de 56.800 yuanes en China",
+   "La versión de 203 km del Bingo monta un motor de solo 41 CV",
+   "El Bingo no se vende oficialmente en España",
+   "La velocidad máxima del Bingo es de 130 km/h en las versiones potentes",
+   "Las calidades interiores del Bingo son mejorables",
+   "El Bingo carece de ayudas avanzadas a la conducción"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-bingo-plus-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-bingo-plus-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Bingo Plus hereda el nombre del Bingo y crece hasta 4.090 mm con un paquete de 50,6 kWh",
+   "El Bingo Plus homologa 510 km en ciclo CLTC y declara apenas 9,6 kWh cada 100 km",
+   "La descarga bidireccional del Bingo Plus entrega 3,3 kW hacia fuera para enchufar una cafetera o un portátil",
+   "Plegando la banqueta posterior, el Bingo Plus despeja hasta 1.450 litros de carga",
+   "El Bingo Plus admite corriente continua a 30 kW y rellena del 30 al 80 por ciento en torno a media hora",
+   "El corte electrónico del Bingo Plus a 140 km/h basta para autovía legal, pero un BYD Dolphin respira con más desahogo",
+   "El Bingo Plus se comercializó una temporada como Bingo SUV, un cambio de etiqueta que enreda catálogos y recambios",
+   "Wuling no opera red propia en España, así que un Bingo Plus implica importación paralela y posventa por cuenta propia",
+   "El Bingo Plus no esconde ningún cofre delantero, de modo que cables y trastos ocupan el compartimento trasero",
+   "La dotación de ayudas del Bingo Plus se queda corta frente a un Leapmotor T03 o un BYD Dolphin Surf europeos"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-bingo-s-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-bingo-s-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-lote2.ts",
+  "texts": [
+   "Por 10.600 euros, el Bingo S ofrece etiqueta Cero y cinco plazas en 4.265 mm",
+   "El Bingo S da el salto de la familia a formato todocamino sobre la arquitectura Tianyu S",
+   "El pack LFP de 41,9 kWh del Bingo S firma 430 km en ciclo CLTC para cubrir la semana laboral",
+   "Con 102 CV, 180 Nm y 150 km/h de punta, el Bingo S no se limita a callejear",
+   "El Bingo S contiene su peso en 1.300 kg y su silueta redondeada se aparta de tanto todocamino anguloso",
+   "Hacerse con un Bingo S desde España implica importación particular, sin concesionarios ni talleres homologados de Wuling",
+   "La autonomía del Bingo S se mide con el ciclo chino CLTC, así que en carretera y con climatización la distancia útil caerá",
+   "Frente a un BYD Dolphin ya asentado fuera de China, el valor futuro de un Bingo S en España es una incógnita",
+   "Euro NCAP jamás ha sometido al Bingo S a sus ensayos, así que falta una calificación independiente europea",
+   "Los materiales del Bingo S responden a un presupuesto contenido pensado para compradores chinos"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-cloud-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-cloud-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-lote2.ts",
+  "texts": [
+   "El Cloud homologa 460 km de autonomía por unos 22.000 euros",
+   "La pantalla de 15,6 pulgadas y los asientos lounge marcan el interior del Cloud",
+   "Los 134 CV del Cloud con 200 Nm bastan para un familiar eléctrico de 4,30 metros",
+   "La batería LFP del Cloud aporta seguridad y durabilidad frente a otras químicas",
+   "El Cloud pertenece al grupo SAIC, el mismo de MG, con respaldo industrial detrás",
+   "El Cloud no se vende en Europa",
+   "Los 134 CV del Cloud quedan justos para autopista con el coche cargado",
+   "La marca Wuling del Cloud es desconocida en Occidente",
+   "Los 460 km del Cloud son de ciclo chino, así que en WLTP serán menos",
+   "Del Cloud no hay datos de seguridad Euro NCAP"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-cloud-ev-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-cloud-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "La carrocería alta de 4.295 mm del Cloud EV esconde un habitáculo muy despejado para cinco ocupantes",
+   "El Cloud EV homologa 460 km y declara apenas 11 kWh a los cien, combinación que espacía las paradas",
+   "El propulsor delantero del Cloud EV rinde 136 CV con 330 Nm instantáneos para incorporaciones sin titubeos",
+   "El puesto de conducción del Cloud EV lo preside una pantalla enorme de 15,6 pulgadas con el entorno Ling OS 2.0",
+   "Recuperar energía del 30 al 80 por ciento en el Cloud EV lleva media hora en viajes largos",
+   "España queda fuera del mapa comercial del Cloud EV, así que hacerse con uno obliga a la importación paralela",
+   "En su mercado doméstico, el Cloud EV luce emblemas Baojun Yunduo, una identidad distinta que entorpece recambios",
+   "Los 23.400 euros estimados para Europa del Cloud EV chocan con tarifas chinas sensiblemente inferiores",
+   "Detrás de la segunda fila del Cloud EV quedan 382 litros, un volumen justo con cinco personas y equipaje",
+   "La punta del Cloud EV queda recortada a 150 km/h y su carga rápida se conforma con 30 kW"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-hongguang-mini-ev-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "Con un precio desde 44.800 yuanes, el Hongguang Mini EV es el eléctrico más barato del mundo",
+   "La quinta generación de 2025 del Hongguang Mini EV trae carrocería de 4 puertas y 4 plazas",
+   "El consumo del Hongguang Mini EV es de solo 9,2 kWh cada 100 km",
+   "En 35 minutos, la carga rápida en continua del Hongguang Mini EV sube del 30 al 80 %",
+   "El Hongguang Mini EV supera los 1,8 millones de unidades vendidas, el micro-EV chino más vendido",
+   "La autonomía del Hongguang Mini EV es de solo 205 km en ciclo CLTC, con una cifra real menor",
+   "La velocidad máxima del Hongguang Mini EV es de 100 km/h, así que solo sirve para ciudad",
+   "El Hongguang Mini EV no se vende oficialmente en España",
+   "El equipamiento del Hongguang Mini EV es espartano en la versión de acceso",
+   "El maletero del Hongguang Mini EV es testimonial con las 4 plazas ocupadas"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-hongguang-mini-ev-cabrio-2026-precio-ficha-tecnica",
+  "url": "/coches/wuling-hongguang-mini-ev-cabrio-2026-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-lote6.ts",
+  "texts": [
+   "El Hongguang Mini EV Cabrio es el descapotable eléctrico más barato del mundo, unos 11.990 euros en China",
+   "El Hongguang Mini EV Cabrio homologa 280 km CLTC, la mayor autonomía de la familia Mini EV",
+   "La capota de lona eléctrica del Hongguang Mini EV Cabrio incluye arco antivuelco",
+   "Con 2 plazas y 3,06 metros, el Hongguang Mini EV Cabrio es el juguete urbano definitivo",
+   "La producción limitada del Hongguang Mini EV Cabrio mantiene bien su valor de reventa en China",
+   "El Hongguang Mini EV Cabrio no se vende en España: su precio es orientativo convertido desde China",
+   "El Hongguang Mini EV Cabrio solo ofrece 2 plazas y un maletero mínimo",
+   "El Hongguang Mini EV Cabrio no trae pantalla central ni cámara trasera de serie",
+   "La velocidad máxima del Hongguang Mini EV Cabrio es de 100 km/h",
+   "Del Hongguang Mini EV Cabrio no hay datos Euro NCAP"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-journey-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-journey-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-lote5.ts",
+  "texts": [
+   "El Journey ofrece un monovolumen de 7 plazas y 5,15 metros desde unos 10.000 euros",
+   "El motor 1.5T del Journey entrega 147 CV y 250 Nm con cambio manual de 6 marchas",
+   "El Journey existe también en versión 100 por cien eléctrica, con 100 kW y 360 km de autonomía",
+   "Wuling es la marca más vendida de China en monovolúmenes, y el Journey lo aprovecha",
+   "El Journey resulta ideal para familias numerosas o para transporte de pasajeros",
+   "El Journey no se vende en Europa",
+   "El cambio manual del Journey en un monovolumen de 2025 deja sin opción automática",
+   "Los acabados del Journey son espartanos, pensados para el trabajo",
+   "La máxima del Journey es de 165 km/h, con prestaciones modestas",
+   "El consumo del Journey resulta elevado para su potencia"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Starlight recorre 150 km en modo eléctrico y luce etiqueta Cero de la DGT",
+   "La autonomía total del Starlight supera los 1.100 km con el depósito lleno",
+   "La berlina Starlight mide 4,84 metros, tamaño Toyota Camry, desde 88.800 yuanes",
+   "La carga rápida en continua del Starlight tarda 30 minutos en pasar del 30 al 80 %",
+   "El Cx del Starlight es de solo 0,228, el mejor de su categoría",
+   "La carga en alterna del Starlight se limita a 3,3 kW",
+   "El Starlight no se vende oficialmente en España",
+   "Los materiales interiores del Starlight son de plástico duro en la versión base",
+   "La red de servicio del Starlight es inexistente fuera de China",
+   "El Starlight no ofrece versión con más potencia eléctrica"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-730-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-730-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "En China, la versión PHEV Luxury del Starlight 730 cuesta 103.800 yuanes: siete plazas y enchufe por precio de utilitario europeo",
+   "La batalla de 2.910 mm del Starlight 730 deja 3.331 mm de longitud interior útil y una tercera fila reclinable hasta 127 grados",
+   "El maletero del Starlight 730 crece de 315 a 1.202 litros abatiendo la tercera fila con su plegado tipo magia",
+   "La puerta lateral corredera eléctrica del Starlight 730 esconde su guía bajo la ventanilla y sus asientos delanteros reclinan 180 grados",
+   "El Starlight 730 supera las 70.000 unidades vendidas en China y lidera los monovolúmenes de menos de 150.000 yuanes",
+   "Sin importador oficial en España, el Starlight 730 solo llegaría por importación paralela, sin red que haga efectiva su garantía",
+   "Los 125 km eléctricos y 1.100 km combinados del Starlight 730 se midieron con el ciclo CLTC chino, no con el europeo",
+   "SGMW no publica la potencia combinada ni el 0 a 100 del Starlight 730: del motor 1.5 solo constan 78 kW",
+   "Con la tercera fila levantada, el Starlight 730 solo ofrece 315 litros de maletero para toda la familia",
+   "La versión eléctrica pura del Starlight 730 sale más cara que este híbrido enchufable: 109.800 frente a 103.800 yuanes"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-730-ev-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-730-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Starlight 730 EV ofrece siete plazas reales en formato 2+2+3, con pasillo central de 230 mm hasta la tercera fila",
+   "La batería MAGIC LFP de 60 kWh del Starlight 730 EV carga 2C: del 30 al 80 por ciento en veinte minutos y anuncia 500 km CLTC",
+   "Las puertas correderas del Starlight 730 EV esconden sus raíles bajo la línea de ventanillas, algo inédito a este precio",
+   "Con la tercera fila abatida, el maletero del Starlight 730 EV llega a 1.202 litros y suma cuatro anclajes ISOFIX",
+   "La suspensión trasera independiente del Starlight 730 EV y sus 13,6 kWh cada 100 km son cifras de turismo en 4,91 metros",
+   "El Starlight 730 EV no tiene homologación ni venta oficial en Europa: solo se comercializa en China e Indonesia",
+   "Los 500 km del Starlight 730 EV son de ciclo CLTC chino, más permisivo que el WLTP, así que en autovía serán menos",
+   "Con 100 kW y 200 Nm para 1.810 kg y siete ocupantes, el 0 a 100 del Starlight 730 EV se queda en 12,2 segundos",
+   "La gama eléctrica china del Starlight 730 EV se limita al acabado Luxury de 109.800 yuanes, sin versión más barata",
+   "Sin red europea de Wuling, cualquier recambio del Starlight 730 EV dependería de importarlo desde Asia"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-ev-2025-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Starlight EV declara 510 km en ciclo CLTC, con batería de 54,5 kWh",
+   "Con 204 CV, el Starlight EV baja de 7,3 segundos en el 0-100",
+   "La carga rápida del Starlight EV recupera del 30 al 80 % en 15 a 20 minutos",
+   "El maletero del Starlight EV es de 540 litros, el mayor de la gama Starlight",
+   "El Starlight EV trae conducción autónoma de nivel 2 de serie",
+   "El Starlight EV no se vende oficialmente en España",
+   "La versión de acceso del Starlight EV, de 410 km, monta solo 136 CV",
+   "La pantalla del Starlight EV es de 10,1 pulgadas en el acabado base",
+   "En Europa, la marca del Starlight EV es poco conocida y su valor residual es una incógnita",
+   "Del Starlight EV no hay bomba de calor confirmada"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-s-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-s-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Starlight S combina 130 km eléctricos con 1.100 km de autonomía total",
+   "El Starlight S entrega 204 CV y 310 Nm, con un 0-100 de 7,9 segundos",
+   "Abatiendo los asientos, el maletero del Starlight S crece hasta 1.768 litros",
+   "Los asientos delanteros del Starlight S se convierten en camas",
+   "En Latinoamérica, el Starlight S se comercializa con el nombre Chevrolet Captiva PHEV",
+   "La versión de acceso del Starlight S solo ofrece 60 km eléctricos",
+   "El Starlight S no se vende oficialmente en España",
+   "El consumo real del Starlight S en modo híbrido es de 6 a 7 litros cada 100 km",
+   "El Starlight S no tiene tracción total",
+   "La carga en alterna del Starlight S es limitada"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-starlight-s-ev-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-starlight-s-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Starlight S EV anuncia 510 km en ciclo CLTC y una batería de 60 kWh",
+   "La carga 2C del Starlight S EV recupera 200 km de autonomía en 15 minutos",
+   "El Starlight S EV entrega 204 CV y 310 Nm a las ruedas delanteras",
+   "El Starlight S EV amplía su maletero hasta 1.768 litros cuando se abaten los asientos",
+   "El Starlight S EV se vende como Chevrolet Captiva EV en Latinoamérica y Oriente Medio",
+   "El Starlight S EV no se vende oficialmente en España",
+   "El Starlight S EV no tiene versión de tracción total",
+   "El peso del Starlight S EV es de casi 1.800 kg",
+   "Del Starlight S EV no hay bomba de calor confirmada",
+   "La marca del Starlight S EV resulta desconocida en Europa, así que su valor residual es incierto"
+  ]
+ },
+ {
+  "type": "ficha",
+  "slug": "wuling-yangguang-ev-2024-precio-ficha-tecnica",
+  "url": "/coches/wuling-yangguang-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/comparador-coches-wuling.ts",
+  "texts": [
+   "El Yangguang EV es un furgón eléctrico de 300 km desde 66.800 yuanes",
+   "La carga útil del Yangguang EV es de 1.250 kg con 9 metros cúbicos de volumen de carga",
+   "La carga rápida en continua del Yangguang EV sube del 30 al 80 % en 30 minutos",
+   "El Yangguang EV lidera las ventas de comerciales eléctricos en China, con 170.000 unidades",
+   "La tracción trasera del Yangguang EV resulta ideal para mover carga pesada",
+   "La velocidad máxima del Yangguang EV es de 90 km/h, así que solo sirve para reparto urbano",
+   "El Yangguang EV no se vende oficialmente en España",
+   "El interior del Yangguang EV es de vehículo de trabajo, sin lujos",
+   "La autonomía real del Yangguang EV es menor con la carga completa",
+   "Del Yangguang EV no hay versión de pasajeros confirmada en Europa"
+  ]
+ },
+ {
+  "type": "blog",
+  "slug": "westfalia-columbus-2026-analisis-opinion",
+  "url": "/blog/westfalia-columbus-2026-analisis-opinion/",
+  "file": "src/lib/blog-posts-campers-niky.ts",
+  "texts": [
+   "Westfalia Columbus 600 2026: camper de 5,99 metros con baño completo, cama transversal siempre hecha y base Fiat Ducato desde unos 66.000 euros en Alemania.",
+   "Si buscas una camper de gran volumen con baño de verdad y cama siempre hecha, el Columbus 600 encaja: mide 5,99 metros, se construye sobre el Fiat Ducato y parte de unos 66.000 euros en Alemania. Su distribución separa cocina, baño y dormitorio, y la cama transversal trasera queda hecha de día y de noche, así que la cama queda lista sin montar ni desmontar nada cada noche."
+  ],
+  "old_intro": "**¿Merece la pena el Westfalia Columbus 600 de 2026?** Sí, si buscas una camper de gran volumen con baño de verdad y cama siempre hecha: mide 5,99 metros, se construye sobre el Fiat Ducato y parte de "
+ },
+ {
+  "type": "blog",
+  "slug": "westfalia-kepler-2026-analisis-opinion",
+  "url": "/blog/westfalia-kepler-2026-analisis-opinion/",
+  "file": "src/lib/blog-posts-campers-niky.ts",
+  "texts": [
+   "Westfalia Kepler 2026: la camper más asequible de Westfalia, desde unos 57.000 euros, con techo elevable, cuatro plazas y 5,30 metros para uso diario.",
+   "El Kepler es la puerta de entrada a Westfalia: desde unos 57.000 euros, es la camper más asequible de la marca que inventó el concepto de camper. Con 5,30 metros y techo elevable, ofrece cuatro plazas de noche y un tamaño que permite usarla a diario, algo que una camper grande no permite."
+  ],
+  "old_intro": "El **Westfalia Kepler** es la **puerta de entrada a Westfalia**: desde **~57.000 €**, la camper más asequible de la marca que inventó el concepto. Compacta, con techo elevable y base Volkswagen."
+ },
+ {
+  "type": "blog",
+  "slug": "wey-03-2024-precio-ficha-tecnica",
+  "url": "/blog/wey-03-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey 03: SUV híbrido enchufable de 367 CV, 130 km eléctricos WLTP y carga de 50 kW desde 47.900 euros en Alemania.",
+   "El Wey 03 es el SUV híbrido enchufable de Great Wall bajo su marca premium, a la venta en Alemania desde febrero de 2024: mide 4,67 metros y combina un 2.0 turbo de 204 CV con un eléctrico de 163 CV, hasta 367 CV en total. Su batería de 34 kWh le da 130 km eléctricos WLTP, y parte de 47.900 euros en el acabado Premium."
+  ],
+  "old_intro": "El **Wey 03** es el SUV híbrido enchufable con el que la marca premium de Great Wall vende en Alemania desde febrero de 2024. Mide 4,67 metros, combina un 2.0 turbo de 204 CV con un motor eléctrico de"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-05-2024-precio-ficha-tecnica",
+  "url": "/blog/wey-05-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey 05: SUV insignia híbrido enchufable de 476 CV, 847 Nm y 158 km eléctricos WLTP desde 59.900 euros.",
+   "El Wey 05 es el SUV insignia híbrido enchufable que la marca premium de GWM vende en Alemania desde finales de 2023: un 2.0 turbo de 204 CV respaldado por dos motores eléctricos entregan 476 CV y 847 Nm, con tracción a las cuatro ruedas, y el 0-100 queda en 5,0 segundos. Mide 4,87 metros, homologa 158 km eléctricos WLTP y parte de 59.900 euros."
+  ],
+  "old_intro": "El **Wey 05** es el SUV insignia híbrido enchufable que la marca premium de GWM vende en Alemania desde finales de 2023. Un 2.0 turbo de 204 CV más dos motores eléctricos entregan **476 CV y 847 Nm** "
+ },
+ {
+  "type": "blog",
+  "slug": "wey-07-2024-precio-ficha-tecnica",
+  "url": "/blog/wey-07-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey 07: SUV grande de 5,16 metros, seis plazas y 517 CV híbrido enchufable con 185 km eléctricos WLTC.",
+   "El Wey 07 es el SUV grande de GWM bajo su marca premium: 5,16 metros, seis plazas y un sistema híbrido enchufable Hi4 con 517 CV. Su batería de 44,5 kWh le da 185 km eléctricos WLTC, y el restyling de mayo de 2025 actualizó su imagen y su equipamiento, y un 0-100 de 4,9 segundos."
+  ],
+  "old_intro": "El **Wey 07** es el SUV grande de la marca premium de GWM: 5,16 metros, **6 plazas**, sistema híbrido enchufable Hi4 con **517 CV** y un 0-100 en **4,9 segundos**. El restyling de mayo de 2025 (conoci"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-gaoshan-7-2025-precio-ficha-tecnica",
+  "url": "/blog/wey-gaoshan-7-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey Gaoshan 7: monovolumen híbrido enchufable de siete plazas, 5,05 metros y 172 km eléctricos WLTC.",
+   "El Gaoshan 7 es el monovolumen híbrido enchufable de acceso, firmado por la marca premium de GWM y lanzado en China en octubre de 2025: con 5,05 metros y siete plazas en configuración 2+2+3, combina una batería de 44,28 kWh con 172 km eléctricos WLTC y un sistema Hi4 que suma 452 CV en total."
+  ],
+  "old_intro": "El **Wey Gaoshan 7** es el monovolumen híbrido enchufable de acceso de la marca premium de GWM, lanzado en China en octubre de 2025. Con 5,05 metros, **7 plazas** en configuración 2+2+3 y un sistema H"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-gaoshan-8-2025-precio-ficha-tecnica",
+  "url": "/blog/wey-gaoshan-8-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey Gaoshan 8: monovolumen intermedio de 5,28 metros, siete plazas y 452 CV con tracción total.",
+   "El Gaoshan 8 es el monovolumen intermedio de la familia Gaoshan, lanzado en China en mayo de 2025: con 5,28 metros de largo y 3,14 de batalla, ofrece siete plazas con espacio interior generoso, 452 CV, tracción integral y un 0-100 de 5,7 segundos."
+  ],
+  "old_intro": "El **Wey Gaoshan 8** es el monovolumen intermedio de la familia Gaoshan, lanzado en China en mayo de 2025. Con **5,28 metros de largo** y 3,14 de batalla, ofrece 7 plazas con un espacio interior enorm"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-gaoshan-9-2025-precio-ficha-tecnica",
+  "url": "/blog/wey-gaoshan-9-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey Gaoshan 9: monovolumen insignia de 5,41 metros, seis plazas y 487 CV, presentado en Shanghái 2025.",
+   "El Gaoshan 9 es el monovolumen insignia de GWM, presentado en el Salón de Shanghái de 2025: mide 5,41 metros, su batalla es de 3,27, y es el vehículo más grande de la marca, con seis plazas, 487 CV, 762 Nm y una batería de 51,55 kWh."
+  ],
+  "old_intro": "El **Wey Gaoshan 9** es el monovolumen insignia de GWM, presentado en el Salón de Shanghái 2025. Con **5,41 metros de largo** y 3,27 de batalla, es el vehículo más grande de la marca. Su sistema híbri"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-v8x-2026-precio-ficha-tecnica",
+  "url": "/blog/wey-v8x-2026-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey V8X: SUV familiar híbrido enchufable de 670 CV con carga 6C a 800 voltios en 9 minutos.",
+   "El V8X es el SUV familiar híbrido enchufable que GWM puso a la venta en China en agosto de 2026, y su carta de presentación es la carga: una arquitectura de 800 voltios con carga 6C recupera del 30 al 80 % en 9 minutos. La versión tope combina el sistema Super Hi4 con 670 CV y 930 Nm, y un sprint de 0-100 de 4,5 segundos, con hasta 312 km eléctricos WLTC."
+  ],
+  "old_intro": "El **Wey V8X** es el SUV familiar híbrido enchufable que GWM lanzó en China en agosto de 2026. Su carta de presentación es la carga: arquitectura de **800 V con carga 6C** que pasa del 30 al 80 % en *"
+ },
+ {
+  "type": "blog",
+  "slug": "wey-v9x-2026-precio-ficha-tecnica",
+  "url": "/blog/wey-v9x-2026-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wey-a.ts",
+  "texts": [
+   "Wey V9X: SUV insignia de seis plazas con 737 CV, batería de 80 kWh y 470 km eléctricos CLTC.",
+   "El V9X es el SUV insignia de la marca premium de GWM, presentado en China en mayo de 2026: con 5,2 a 5,3 metros de largo y seis plazas, su sistema híbrido enchufable Hi4 entrega hasta 737 CV y 930 Nm, con un 0-100 entre 4,4 y 4,9 segundos. La batería de hasta 80 kWh le da 470 km eléctricos CLTC y 1.700 km combinados."
+  ],
+  "old_intro": "El **Wey V9X** es el SUV insignia de la marca premium de GWM, lanzado en China en mayo de 2026. Con 5,2-5,3 metros de largo y **6 plazas**, su sistema híbrido enchufable Hi4 con motor 2.0T entrega has"
+ },
+ {
+  "type": "blog",
+  "slug": "wiesmann-project-thunderball-2025-precio-ficha-tecnica",
+  "url": "/blog/wiesmann-project-thunderball-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wiesmann-a.ts",
+  "texts": [
+   "Wiesmann Project Thunderball: roadster eléctrico alemán de 680 CV, 2,9 segundos y 300.000 euros.",
+   "El Project Thunderball es el regreso de la mítica marca alemana de deportivos retro, esta vez en formato totalmente eléctrico: un roadster biplaza de tracción trasera con 680 CV y 1.100 Nm, y un 0-100 de 2,9 segundos. Su precio parte de 300.000 euros y la producción está limitada a 1.000 unidades fabricadas a mano en Dülmen."
+  ],
+  "old_intro": "El **Wiesmann Project Thunderball** es el regreso de la mítica marca alemana de deportivos retro, esta vez en formato 100 % eléctrico: un roadster biplaza de tracción trasera con **680 CV y 1.100 Nm**"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-air-ev-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-air-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Air EV: microcoche eléctrico de 2,97 metros, cuatro plazas y 300 km de autonomía Long Range.",
+   "El Air EV es el microcoche futurista y eléctrico de SAIC-GM-Wuling: con solo 2,97 metros de longitud ofrece cuatro plazas y 300 km de autonomía con el acabado Long Range, con un diseño que no pasa desapercibido y una tracción trasera poco habitual en su tamaño."
+  ],
+  "old_intro": "El **Wuling Air EV** es el microcoche eléctrico futurista de SAIC-GM-Wuling: con solo **2,97 metros** de longitud ofrece 4 plazas, **300 km de autonomía** en la versión Long Range y un diseño que pare"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-bingo-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-bingo-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Bingo: utilitario eléctrico retro de 3,95 metros y cinco puertas, con hasta 410 km de autonomía.",
+   "El Bingo, llamado Binguo en China, es el utilitario eléctrico de estética retro de Wuling: mide 3,95 metros, tiene cinco puertas y un diseño redondeado que recuerda a los clásicos europeos. La versión con batería de 37,9 kWh alcanza hasta 410 km de autonomía."
+  ],
+  "old_intro": "El **Wuling Bingo** (Binguo en China) es el utilitario eléctrico de estética retro de la marca: 3,95 metros, 5 puertas y un diseño redondeado que recuerda a los clásicos europeos. La versión intermedi"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-bingo-plus-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-bingo-plus-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Bingo Plus: versión SUV del Bingo, 4,09 metros, cinco plazas y 510 km CLTC con 50,6 kWh.",
+   "El Bingo Plus es la versión SUV del popular Bingo: mide 4,09 metros, ofrece cinco plazas y una batería de hasta 50,6 kWh que homologa 510 km en ciclo CLTC, con 102 CV y 180 Nm para moverse con soltura en ciudad y carretera."
+  ],
+  "old_intro": "El **Wuling Bingo Plus** es la versión SUV del popular Bingo: 4,09 metros, 5 plazas y una batería de hasta **50,6 kWh** con la que homologa **510 km de autonomía CLTC**, una cifra extraordinaria para "
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-cloud-ev-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-cloud-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Cloud EV: compacto eléctrico de 4,30 metros, 136 CV y 460 km de autonomía, vendido en Indonesia.",
+   "El Cloud EV es el compacto eléctrico que la marca vende en Indonesia desde mayo de 2024, y en China se comercializa como Baojun Yunduo: mide 4,30 metros, entrega 136 CV y homologa 460 km de autonomía con una batería de 50,6 kWh."
+  ],
+  "old_intro": "El **Wuling Cloud EV** es el compacto eléctrico que la marca vende en Indonesia desde mayo de 2024 (en China se comercializa como Baojun Yunduo): 4,30 metros, **136 CV**, batería de **50,6 kWh** y **4"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-hongguang-mini-ev-2025-precio-ficha-tecnica",
+  "url": "/blog/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Hongguang Mini EV: el micro-EV más vendido de China, con cuatro puertas, cuatro plazas y 205 km CLTC.",
+   "Desde su lanzamiento en 2020, el Hongguang Mini EV acumula más de 1,8 millones de unidades y es el coche eléctrico más vendido de la historia china, y la quinta generación de 2025 añade carrocería de cuatro puertas y cuatro plazas. Con 41 CV y 205 km CLTC, sigue siendo el micro-EV urbano por excelencia."
+  ],
+  "old_intro": "El **Wuling Hongguang Mini EV** es el coche eléctrico más vendido de la historia de China: desde su lanzamiento en 2020 acumula más de **1,8 millones de unidades** y en 2025 vendió 427.000, más que el"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight: berlina híbrida enchufable de 4,84 metros, 150 km eléctricos y más de 1.100 km totales.",
+   "El Starlight, llamado Xingguang en China, es la berlina híbrida enchufable de SAIC-GM-Wuling para el segmento D: mide 4,84 metros, tamaño Toyota Camry, y combina 150 km eléctricos con un alcance total que supera los 1.100 km gracias a su batería de 20,5 kWh."
+  ],
+  "old_intro": "El **Wuling Starlight** (Xingguang en China) es la berlina híbrida enchufable con la que SAIC-GM-Wuling asalta el segmento D: **4,84 metros** —tamaño Toyota Camry—, motor eléctrico de **177 CV**, bate"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-730-2025-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-730-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight 730: monovolumen de siete plazas y 4,91 metros con puertas correderas y 125 km eléctricos.",
+   "El Starlight 730 es el monovolumen de siete plazas de la familia Starlight, lanzado en 2025: mide 4,91 metros, usa puertas traseras correderas y combina una batería de 20,5 kWh con 125 km eléctricos en su versión híbrida enchufable."
+  ],
+  "old_intro": "El **Wuling Starlight 730** es el monovolumen de 7 plazas de la familia Starlight, lanzado en 2025: **4,91 metros**, puertas traseras **correderas**, sistema híbrido enchufable **Lingxi Power 3.0** co"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-730-ev-2025-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-730-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight 730 EV: monovolumen eléctrico de siete plazas, 60 kWh y 500 km CLTC.",
+   "El Starlight 730 EV es la versión totalmente eléctrica del monovolumen familiar: con 136 CV, una batería LFP de 60 kWh y 500 km de autonomía en ciclo CLTC, ofrece siete plazas en 4,91 metros sin depender de la gasolina."
+  ],
+  "old_intro": "El **Wuling Starlight 730 EV** es la versión 100 % eléctrica del monovolumen familiar: **136 CV**, batería LFP de **60 kWh**, **500 km de autonomía CLTC** y un consumo de solo **13,6 kWh/100 km**. Par"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-ev-2025-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-ev-2025-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight EV: berlina eléctrica de 204 CV, 54,5 kWh y 510 km CLTC con 0-100 en 7,3 segundos.",
+   "El Starlight EV es la versión totalmente eléctrica de la berlina china: con 204 CV, una batería LFP de 54,5 kWh y 510 km en ciclo CLTC, su 0-100 queda en 7,3 segundos y mantiene las cinco plazas de la berlina."
+  ],
+  "old_intro": "El **Wuling Starlight EV** es la versión 100 % eléctrica de la berlina china: **204 CV**, batería LFP de **54,5 kWh**, **510 km de autonomía CLTC** y un 0-100 km/h en **7,3 segundos**. La versión 510 "
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-s-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-s-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight S: SUV híbrido enchufable de 4,75 metros, 204 CV y 130 km eléctricos.",
+   "El Starlight S es el SUV de la familia Starlight: mide 4,75 metros, entrega 204 CV y 310 Nm, y su batería de 20,5 kWh le da 130 km eléctricos dentro de una autonomía total superior a 1.100 km."
+  ],
+  "old_intro": "El **Wuling Starlight S** es el SUV de la familia Starlight: 4,75 metros, **204 CV y 310 Nm**, batería de **20,5 kWh** con **130 km de autonomía eléctrica** y **1.100 km de autonomía total**. En China"
+ },
+ {
+  "type": "blog",
+  "slug": "wuling-starlight-s-ev-2024-precio-ficha-tecnica",
+  "url": "/blog/wuling-starlight-s-ev-2024-precio-ficha-tecnica/",
+  "file": "src/lib/blog-posts-wuling-a.ts",
+  "texts": [
+   "Wuling Starlight S EV: SUV eléctrico de 204 CV, 60 kWh y 510 km CLTC.",
+   "El Starlight S EV es la versión totalmente eléctrica del SUV familiar chino: con 204 CV y 310 Nm, una batería LFP de 60 kWh y 510 km en ciclo CLTC, repite las medidas del Starlight S sin motor de combustión."
+  ],
+  "old_intro": "El **Wuling Starlight S EV** es la versión 100 % eléctrica del SUV familiar chino: **204 CV y 310 Nm**, batería LFP de **60 kWh** con **510 km de autonomía CLTC** y carga rápida **2C** que recupera 20"
+ }
+]
