@@ -33,7 +33,16 @@ export default function CookiesPage() {
             <h1 className="text-3xl font-black text-gray-900">{"Política de Cookies"}</h1>
             <button
               type="button"
-              onClick={() => { try { localStorage.removeItem("rtm-cookie-consent"); } catch (e) { /* sin localStorage */ } window.location.reload(); }}
+              onClick={() => {
+                // 24/10/2026: sin aviso propio, el botón abre el mensaje de revocación del
+                // CMP certificado de Google (API pública googlefc). Se borra también la
+                // marca antigua del aviso propio.
+                try { localStorage.removeItem("rtm-cookie-consent"); } catch { /* sin localStorage */ }
+                const w = window as unknown as { googlefc?: { callbackQueue?: Array<() => void>; showRevocationMessage?: () => void } };
+                w.googlefc = w.googlefc || {};
+                w.googlefc.callbackQueue = w.googlefc.callbackQueue || [];
+                w.googlefc.callbackQueue.push(() => w.googlefc?.showRevocationMessage?.());
+              }}
               className="mt-3 rounded-lg border border-gray-300 px-3 py-1.5 text-sm font-semibold text-gray-800 hover:bg-gray-100"
             >
               Configurar cookies
