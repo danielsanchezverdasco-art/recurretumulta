@@ -1855,18 +1855,18 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 160,
     etiquetaDgt: "Cero",
     pros: [
-      "668 km de autonomía Long Range: récord entre los SUV eléctricos de 7 plazas",
-      "7 plazas reales con tercera fila utilizable por adultos",
-      "i-Cockpit panorámico de 21\" y más de 40 ADAS",
-      "Gama multienergía: eléctrico, híbrido y PHEV a elegir",
-      "Maletero de hasta 1.815 litros, el más modulable del segmento",
+      "Homologa 499 km de autonomía con su batería de 73 kWh, una cifra sólida para un SUV eléctrico de siete plazas",
+      "Siete plazas reales con una tercera fila utilizable por adultos en este E-5008 de 44.380 €",
+      "El i-Cockpit panorámico de 21 pulgadas suma más de 40 sistemas de ayuda",
+      "La gama multienergía permite elegir entre eléctrico, híbrido y PHEV",
+      "El maletero llega hasta 1.815 litros con asientos abatidos, el más modulable del segmento"
     ],
     contras: [
-      "2,4 toneladas: el peso se nota en consumo y agilidad",
-      "El Dual Motor roza los 54.160 €",
-      "Carga rápida de 160 kW, correcta pero no puntera",
-      "Diseño menos emocional que el de su hermano 3008",
-      "Rivales como el Skoda Peaq ofrecen más por menos",
+      "Con unas 2,4 toneladas, el peso de este E-5008 de 44.380 € se nota en consumo y agilidad",
+      "El Dual Motor sube bastante en precio",
+      "La carga rápida de 160 kW es correcta pero no puntera",
+      "El diseño de este E-5008 de 44.380 € resulta menos emocional que el de su hermano 3008",
+      "Rivales como el Skoda Peaq ofrecen más por menos"
     ],
     largoMm: 4791,
     anchoMm: 1895,
@@ -1908,7 +1908,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga domestica aprox 0,18 EUR/kWh",
+      "notas": "Consumo WLTP declarado en kWh/100 km; recarga doméstica aproximada a 0,18 €/kWh",
       "estimado": true
     },
     galeria: [

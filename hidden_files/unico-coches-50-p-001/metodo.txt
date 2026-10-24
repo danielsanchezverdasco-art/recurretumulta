@@ -1,0 +1,26 @@
+Tanda unico-coches-50-p-001 — letra P, coches (50 fichas)
+Base: origin/unicidad-plantillas-20261024 @ 676bda2a. Sin main, sin Netlify,
+sin fotos (public/media intacto), sin src/components ni src/pages.
+Solo se reescribió texto propio de datos en 8 ficheros de
+src/lib/comparador-coches-*.ts: pros, contras y notas de costeMensual
+(249 pros + 246 contras + 26 notas; mismo número de pros/contras por ficha).
+Todas las cifras son las de la propia ficha; no se inventó ninguna.
+Corrección aplicada: en peugeot-e-5008-electrico-7-plazas-precio el pro
+original decía 668 km (dato del Long Range) y se dejó en 499 km, la
+autonomía de esa ficha.
+
+Verificación 8-gramas (dos normalizaciones: palabras simples y decimales
+enteros; corpus = literales entre comillas dobles de src/lib, src/data y
+src/content, excluidos *.generated.*):
+  python3 ~/workspace/unico50-p-work/verify_disk.py   (1ª pasada, corpus completo)
+  python3 ~/workspace/unico50-p-work/verify_fast.py   (pasadas 2-6, reutiliza corpus)
+Resultado final: 0 colisiones; verificacion.csv con 50/50 URLs a 0.
+Iteraciones: 960 -> 498 -> 132 -> 32 -> 2 -> 0.
+
+Alcance honesto: la verificación cubre el texto de datos entregado frente
+al texto de datos de todas las demás páginas del repo. El 0 % de la página
+completa renderizada depende además de las plantillas de componentes
+(src/components, src/pages), que esta tanda no podía tocar por orden y que
+van en la fase de componentes. Los blogs de estos modelos no se reescribieron
+en esta tanda: son páginas aparte y quedan para una asignación posterior.
+TypeScript: npx tsc -b exit 0 en el worktree.
