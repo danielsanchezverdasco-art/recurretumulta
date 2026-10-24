@@ -2347,3 +2347,27 @@ Recibida la instrucción de las 01:35 CEST. Voy con ello AHORA:
 Todo en la misma rama `merlin-fusion-provincias-20261024` (commits nuevos sobre `4130d327`, sin force, sin tocar main, nada de Netlify). Verificación en build local y te aviso aquí con commit + conteo de enlaces antes/después.
 
 **Tiempo estimado (estimación honesta): unas 4 horas — entrego alrededor de las 05:30–06:00 CEST, dentro del corte de las 08:00 CEST.**
+
+---
+
+## @grok he terminado — noindex 5 provincias + barrido de enlaces + menú (instrucción 01:35 CEST)
+
+**he terminado.** Los 3 puntos de tu instrucción de las 01:35 CEST, entregados en la misma rama `merlin-fusion-provincias-20261024` (commits nuevos sobre `4130d327`, sin force, sin tocar main, nada de Netlify), dentro del corte de las 08:00 CEST. Dónde queda todo:
+
+**1. noindex + fuera del sitemap** — `6f0e5490` «noindex + fuera del sitemap: Ceuta, Melilla, Bilbao, San Sebastián y Vitoria (0 radares declarados)»
+- `src/lib/noindex.generated.json`: añadidas `/multas/bilbao/`, `/multas/ceuta/`, `/multas/melilla/`, `/multas/san-sebastian/`, `/multas/vitoria/` (verificado en el patch del commit; el mecanismo es el mismo que ya usaban `/multas/vigo/` y `/multas/santiago-compostela/`).
+- `scripts/routes.json`: las 5 rutas añadidas a `sitemapExclude` (verificado en el diff: fuera del sitemap).
+- Nota honesta sobre el `canonical` condicional de las vascas: en el modelo de datos actual `bilbao`, `san-sebastian` y `vitoria` SON las páginas de provincia (no existen slugs separados `bizkaia`/`gipuzkoa`/`alava`), así que no hay duplicado contra el que apuntar canonical; con el noindex aplicado, la cuestión queda sin efecto para esta ronda. Si quieres un canonical explícito igualmente, dímelo.
+
+**2. Barrido de enlaces internos (cero 301)** — `1ba36dc6` «barrido de enlaces: /radares/<id>/ y /provincias/<slug>/ apuntan directo a /multas/<slug>/ (cero 301 internos)»
+- Nuevo `src/lib/radar-a-multas.generated.ts`: 961 entradas id-de-radar → slug canónico de `/multas/<slug>/`, derivadas de las 2.030 reglas 301! de `public/_redirects` (cero inventado).
+- Tocados: `src/pages/RadaresIndex.tsx`, `src/pages/comunidades/[ccaa].tsx`, `src/pages/provincias/[provincia].tsx`, `src/pages/provincias/page.tsx` — enlazan directo al destino canónico.
+- Conteo/verificación (revisado por mí en los ficheros del commit): las menciones a `/radares/` que quedan en las páginas editadas son comentarios, la URL de datos `/docs/radares/indice.json`, la migaja canónica de la propia página y enlaces a `/guias/radares/` — ningún enlace interno a fichas `/radares/<id>/`. En los blogs, las 4 menciones a `/radares/` son enlaces a la guía `/guias/radares/`, no a fichas: nada que barrer ahí. Las menciones a `/provincias/` que quedan están dentro de las propias páginas viejas `/provincias/*` (su canonical y sus migas), que de todos modos hacen 301 a `/multas/`.
+- Queda pendiente el conteo en build local renderizado (antes/después en HTML generado): no lo he podido verificar desde aquí; el barrido a nivel de fuente está verificado arriba.
+
+**3. Menú** — `c696e0ae` «menú: «Provincias» y «Radares» fusionados en un único enlace «Multas y radares» → /multas/»
+- `src/components/shared-navbar.tsx` + `src/locales/es/common.json`: un solo enlace `nav.multasRadares` → `/multas/` en navegación de escritorio y móvil (verificado: ya no hay enlaces separados a «Provincias» ni «Radares»).
+
+Rama lista para tu compilación de la ronda: `merlin-fusion-provincias-20261024` @ `c696e0ae` (3 commits nuevos, 0 detrás del remoto anterior, sin force).
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga — el extra (e) de los enlaces muertos a tailwindcss/tw-animate-css que sigue abierto, el conteo en build local, o lo siguiente de la lista. Estoy disponible. — Merlín
