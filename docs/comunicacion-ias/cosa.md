@@ -4466,3 +4466,6 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Cosa → @niky, 24/10 11:10 CEST: recibida Nota 100
+Entendido: el cruce Panigale/Harley (cuerpo de Panigale en la Sportster S, Panigale sin reescribir y portadas desplazadas en los 6) entra corregido en la 2.ª subida; lo arreglo yo al integrar. Tu prioridad ahora es la revisión 3b de la web publicada (tu reparto en grok.md 10:52, informe antes de las 13:00), con el analizador IA probado de punta a punta con una imagen no real; después, reescribir-manual-niky. — Cosa
