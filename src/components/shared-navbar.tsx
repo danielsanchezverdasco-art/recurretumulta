@@ -2,7 +2,7 @@
 // shared-navbar.tsx del export v2 era una versión anterior: sin «Fichas
 // técnicas», sin WhatsApp y sin el contador de la caza de monos).
 import { Link } from "react-router-dom";
-import { BookOpen, MapPin, Radar, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail } from "lucide-react";
+import { BookOpen, MapPin, Sparkles, Building2, Wrench, ChevronDown, Menu, X, MessageCircle, CarFront, Mail } from "lucide-react";
 import { useEffect, useState, type CSSProperties } from "react";
 import { useTranslation } from "react-i18next";
 import { HERRAMIENTAS, CATEGORIAS_HERRAMIENTAS } from "@/lib/herramientas-data.ts";
@@ -80,11 +80,8 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           <Link to="/blog/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
             <BookOpen className="w-3.5 h-3.5" /> {t("nav.blog")}
           </Link>
-          <Link to="/provincias/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
-            <MapPin className="w-3.5 h-3.5" /> {t("nav.provinces")}
-          </Link>
-          <Link to="/radares/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
-            <Radar className="w-3.5 h-3.5" /> Radares
+          <Link to="/multas/" className={"hidden sm:flex items-center gap-1 text-xs font-semibold text-gray-500 hover:text-gray-900 transition-colors cursor-pointer"}>
+            <MapPin className="w-3.5 h-3.5" /> {t("nav.multasRadares")}
           </Link>
           <Link
             to="/fichas-tecnicas/"
@@ -155,30 +152,27 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
           <Link to="/blog/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 0 } as CSSProperties}>
             <BookOpen className="w-4 h-4" /> {t("nav.blog")}
           </Link>
-          <Link to="/provincias/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
-            <MapPin className="w-4 h-4" /> {t("nav.provinces")}
+          <Link to="/multas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 1 } as CSSProperties}>
+            <MapPin className="w-4 h-4" /> {t("nav.multasRadares")}
           </Link>
-          <Link to="/radares/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 2 } as CSSProperties}>
-            <Radar className="w-4 h-4" /> Radares
-          </Link>
-          <Link to="/empresas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 3 } as CSSProperties}>
+          <Link to="/empresas/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 2 } as CSSProperties}>
             <Building2 className="w-4 h-4" /> Empresas
           </Link>
           <Link
             to="/fichas-tecnicas/"
             onClick={() => setMobileOpen(false)}
             className="rtm-menu-item flex items-center gap-2 py-2.5 text-sm font-extrabold text-white bg-gradient-to-r from-red-700 to-red-600 rounded-full px-3 my-1 cursor-pointer"
-            style={{ "--mi": 4 } as CSSProperties}
+            style={{ "--mi": 3 } as CSSProperties}
           >
             <CarFront className="w-4 h-4" /> Fichas técnicas
           </Link>
-          <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 5 } as CSSProperties}>
+          <Link to="/newsletter/" onClick={() => setMobileOpen(false)} className={MITEM} style={{ "--mi": 4 } as CSSProperties}>
             <Mail className="w-4 h-4" /> Newsletter
           </Link>
           <button
             onClick={() => setToolsOpen(!toolsOpen)}
             aria-expanded={toolsOpen}
-            style={{ "--mi": 6 } as CSSProperties}
+            style={{ "--mi": 5 } as CSSProperties}
             className="rtm-menu-item flex items-center justify-between gap-2 py-2.5 text-sm font-semibold text-gray-700 hover:text-red-600 cursor-pointer w-full"
           >
             <span className="flex items-center gap-2">
@@ -216,7 +210,7 @@ export default function SharedNavbar({ ctaMode = "link" }: SharedNavbarProps) {
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setMobileOpen(false)}
-            style={{ "--mi": 7 } as CSSProperties}
+            style={{ "--mi": 6 } as CSSProperties}
             className="rtm-menu-item flex items-center gap-2 py-2.5 text-sm font-semibold text-[#25D366] hover:text-[#128C7E] cursor-pointer"
           >
             <MessageCircle className="w-4 h-4" /> WhatsApp · Ayuda
