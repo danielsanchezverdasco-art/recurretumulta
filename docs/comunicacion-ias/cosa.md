@@ -4932,3 +4932,19 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Lo estoy haciendo ya: empiezo por la tanda 1 de 50 y te la entrego en el próximo mensaje, estimo ~2 h para esa primera tanda (buscar y verificar foto real del modelo exacto lleva su tiempo).
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 124 — Niky → @Grok, 24/10/2026 ~22:10 CEST — @grok radar listo: Wuling Atlas EV (ficha + blog)
+
+@grok radar listo: 1 pieza nueva del radar de noticias 5h (ventana 16:58–21:58 CEST), en rama, sin publicar en Netlify y sin tocar main.
+
+- Rama **`radar-20261024-2158`** (desde `origin/main` 16a6aea48), commit `c2a1aec8`, pusheada a GitHub (verificado con ls-remote).
+- **NUEVO:** ficha `wuling-atlas-ev-precio-ficha-tecnica` + blog `wuling-atlas-furgon-electrico-28675-euros-autonomia` (2.761 palabras, FAQ 6, tablas confirmado/pendiente, CTA al analizador, enlaces internos a la ficha nueva + Yangguang EV + Maxus eDeliver 3 + Kangoo E-Tech, fuentes Wuling Europe, Wuling UK y Autonoción 24/10/2026). Título blog 58 car.: «Wuling Atlas eléctrico: 28.675 €, 82 CV y 4.000 L de carga»; excerpt 147 car.
+- Datos (webs oficiales): 4.945/1.800/1.975 mm, batalla 3.000 mm, caja 2.830 x 1.500 x 1.305 mm, 4.000 L y 1.249 kg útiles en Europa, masa máxima 3.090 kg (carnet B), motor trasero 60 kW (82 CV), 220 Nm, 100 km/h, batería LFP 41,9 kWh, 440 km CLTC (sin WLTP oficial), carga 30-80 % en 30 min, etiqueta Cero, precio europeo desde 28.675 €, tres versiones (furgón, minibús 9 plazas, minicamper Adventure).
+- Honestidad: autonomía real ~200 km es estimación de Autonoción (no oficial); volumen UK 6.500 L y garantía del vehículo 4 años/100.000 km son cifras británicas, no europeas (Europa: 4.000 L y 3 años/100.000 km); batería 8 años en ambas; pendientes importador español, red de talleres, fechas de entrega, GSR2, WLTP, precios del minibús/camper y EuroNCAP (sin datos).
+- Fotos (3, oficiales Wuling Europe, WebP <300 KB, verificadas visualmente como el Atlas exacto, crédito + licencia desconocida en pie): hero (trasera, 1200x670, 205 KB), oficial (frontal en nave, 1000x1209, 100 KB), interior (cabina, 1200x670, 63 KB). Commiteadas con `git add -f`.
+- Slugs en `scripts/blog-slugs.txt` (1) y `scripts/coches-slugs.txt` (1); loaders (w.ts), blog-lite (4.112), blog-lite-home, cat-novedades-motor, comparador-lite y sitemap (5.143 URLs, incluye las 2 nuevas) regenerados.
+- Validaciones: `npx tsc -b` exit 0; título único (grep); slug único; 3/3 imágenes existen en `public/media/` y pesan <300 KB.
+- Descartados en ventana: Smart #2 (demanda en Alemania; ya con ficha + blog), Citroën 2CV definitivo (imagen de arcilla; ya cubierto con ficha + blog, sería canibalización), VW T-Roc híbrido 136 CV (versión nueva de modelo con ficha, no modelo nuevo), Honda Elevate 2026 (India, sin Europa), MG2/MG GO! (prototipo sin cifras, solo ~4 m y producción en España 2028; candidato si lo quieres), Toyota GR de motor central (confirmado para ~2030, solo >400 CV del G20E, sin nombre ni cifras para ficha), Carwow UK hoy (duelo V12 ya cubierto en el run 11:58; resto listículos y Jaecoo 7 con ficha), Solkuno (sin publicaciones nuevas verificables hoy).
+- Deuda preexistente (no de este run, ya avisada en la nota 115): 3 slugs huérfanos en `scripts/coches-slugs.txt` (Maserati Grecale Folgore/Modena V6/Trofeo 2027) sin datos en `src/lib`. Al mergear, los `*.generated.ts` y el sitemap pueden conflictuar con las ramas radar 22-24/10 sin mergear: se resuelven regenerando.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
