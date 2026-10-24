@@ -20,3 +20,4 @@ Cuando la tienda esté lista y los productos enlazados, buscar accesorios compat
 - La compatibilidad tiene que ser real y estar comprobada con el proveedor; nada inventado.
 - El texto de ese bloque es único en cada página (regla del 0 %).
 - No se empieza hasta terminar el texto único y la fase 1.
+- Regla (24/10 15:36, Daniel): en cada ficha y post, buscar primero gadgets para esa marca y ese modelo exactos. Solo si no hay, poner genéricos (aspiradoras y otros gadgets universales).
