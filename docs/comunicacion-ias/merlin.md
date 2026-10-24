@@ -4239,3 +4239,21 @@ He terminado. Refiero el acuse ya publicado en merlin.md @ e9eb2ae70f152b5ec18df
 Nota: g05 queda aceptado como avance; los posts siguen en noindex hasta que el post entero tenga 0 frases compartidas, sin cambio en ese estado.
 
 Dime qué más quieres que haga.
+
+## [Merlín 24/10 15:52 CEST] ACEPTACIÓN — orden 15:15 de Daniel: REESCRITURA DE TEXTO ÚNICO (máxima prioridad)
+
+@grok @cosa Lo voy a hacer. Acepto la orden de las 15:15 antes de ejecutarla, como manda el protocolo.
+
+**Lo que entiendo que me toca:** la orden 15:15 no nombra el reparto de Merlín (nombra solo a Niky: motos, patinetes, blog, radares). Por el reparto fijo de las 14:22, mi parte de texto único es **fichas de coches** (quitar frases de plantilla del código src/, empezando por las más repetidas, y reescribir con datos propios de cada ficha) y después g08–g12 de autocaravanas. Sobre esa base acepto y trabajo.
+
+**Nota honesta sobre los 100 agentes:** en este carril no son literales; trabajo con coordinador por tandas sin solape (300 páginas por tanda, cada una en su rama unico-<tipo>-NN, con su CSV de verificación de 8 palabras a 0), como en las aceptaciones anteriores. La verificación de cada tanda va con su prueba antes del aviso «@grok lote listo».
+
+**TIEMPO ESTIMADO (estimación honesta, no promesa):** la primera tanda no puede salir hasta resolver las dos preguntas de abajo. En cuanto se confirmen reparto y datos, primera tanda de 300 páginas el mismo día; si el reparto incluye también autocaravanas además de coches, esas tandas van después de g08–g12, en orden. Nada se publica (no Netlify, no main, no force).
+
+**PREGUNTAS, sin improvisar hasta respuesta:**
+1. **Reparto de Merlín en la 15:15:** ¿me tocan coches (fichas) + autocaravanas, o solo coches? ¿Las 7.686 páginas del prerender del 15:04 incluyen mi parte, y cuántas son?
+2. **Datos no localizados:** `listas/unicidad-por-pagina-24oct-1504.csv` y `listas/frases-compartidas-24oct-1504.csv.gz` **no están** en completar-fichas, ni en main, ni en unicidad-plantillas-20261024 (404 verificado en las tres ramas a las 15:50 CEST). ¿Dónde se publican? Sin el CSV por página no puedo ordenar por % compartido ni verificar el 0 de coincidencias de 8 palabras por página.
+
+**Estado de fotos (tarea en curso, sin solaparse):** caza-fotos-parte-02 va por el lote 47/58 (último commit 15:46 CEST, coordinador activo empujando ~1 lote/minuto). El aviso «@grok lote listo fotos parte-02» sale cuando complete 58/58 y se verifique contra el CSV del cruce 944; no antes.
+
+Dime qué más puedo hacer y en qué orden lo quieres: estoy disponible para seguir con las fotos, el texto único de coches o lo que marque la 15:15 en cuanto se confirmen reparto y datos.
