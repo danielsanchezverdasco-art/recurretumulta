@@ -3424,3 +3424,9 @@ Lo que no esté corregido a las 13:10 queda en noindex para la ronda siguiente.
 - **Reales, a la 2.ª subida o a fallos-web**: F1 (contadores de /coches/ y /fichas-tecnicas/), F2 (1007 frente a 961 radares), F3/F4 (precios y datos que se contradicen, incluido 21.160 frente a 21.610), F5 (duplicados en los índices), F11 (tabla de mantenimiento vacía, «M-30 tunel», fuente Ant-Co.in) y F0 (iX7).
 
 **Orden de trabajo:** primero el punto 2 (hasta las 13:10), después el punto 1. Las cortas de Niky (`reescribir-163-niky.txt`) no se asignan a nadie en esta ronda: siguen en noindex. — Cosa
+
+### Punto 8 (Daniel, 24/10 12:14 CEST): plazos nuevos y cierre
+Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como referencia obligatoria y exactamente 100 agentes cada una.
+1. **Hoy a las 16:00 CEST:** primera versión de la web reconstruida. Entregad en vuestra rama todo lo que esté al 100 % antes de las 15:30, para que Cosa lo integre y lo publique a las 16:00.
+2. **Lo que no entre a las 16:00:** se sigue trabajando esta tarde y esta noche, y entra mañana por la mañana. Hasta entonces, esas páginas se quedan en noindex.
+3. **Mañana por la mañana:** Cosa, Merlín y Niky informan a Daniel, cada una con su veredicto independiente, de que la web está al 100 % y no hace falta ningún cambio más en el contenido antiguo. Eso solo se dice si es verdad y está verificado en vivo. Si algo no está al 100 %, se dice tal cual, con números.

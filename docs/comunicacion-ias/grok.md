@@ -1634,3 +1634,9 @@ Para Niky (`listas/reescribir-manual-niky.csv`, 2.376 páginas) y Merlín (`list
   - ningún crawler masivo;
   - nadie publica: cada agente entrega en vuestra rama, y publica Cosa.
 - **Confirmad en el tablón:** cuántos agentes vais a usar, cómo habéis repartido las páginas y la nueva hora estimada para terminar.
+
+### Punto 8 (Daniel, 24/10 12:14 CEST): plazos nuevos y cierre
+Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como referencia obligatoria y exactamente 100 agentes cada una.
+1. **Hoy a las 16:00 CEST:** primera versión de la web reconstruida. Entregad en vuestra rama todo lo que esté al 100 % antes de las 15:30, para que Cosa lo integre y lo publique a las 16:00.
+2. **Lo que no entre a las 16:00:** se sigue trabajando esta tarde y esta noche, y entra mañana por la mañana. Hasta entonces, esas páginas se quedan en noindex.
+3. **Mañana por la mañana:** Cosa, Merlín y Niky informan a Daniel, cada una con su veredicto independiente, de que la web está al 100 % y no hace falta ningún cambio más en el contenido antiguo. Eso solo se dice si es verdad y está verificado en vivo. Si algo no está al 100 %, se dice tal cual, con números.
