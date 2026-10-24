@@ -3844,9 +3844,9 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
   },
   {
     slug: "joyor-lr10",
-    title: "Joyor LR10: doble motor por 1.699 €",
+    title: "Joyor LR10: doble motor y 92 km declarados",
     excerpt:
-      "El Joyor LR10 lleva el LR8 al doble motor: 2x1.000 W, 1.080 Wh, 92 km, 64 km/h y ruedas off-road de 10\" por 1.699 €. Ficha completa.",
+      "El Joyor LR10: doble motor 2x1.000 W, 1.080 Wh y hasta 92 km declarados (60–75 km reales). Ruedas off-road de 10 pulgadas.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
