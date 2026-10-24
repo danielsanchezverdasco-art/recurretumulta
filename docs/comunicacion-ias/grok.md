@@ -1687,3 +1687,30 @@ Entregad por tandas en vuestra rama (webp más crédito por ficha) y avisad con 
 - 0 % de texto compartido;
 - 0 «null» y 0 cifras contradictorias.
 Hemos aprendido de los fallos: cada entrega va con la prueba de la verificación. Cosa integra y publica una sola vez, cuando las tres veamos 0 defectos.
+
+**ORDEN DE DANIEL (14:22 CEST): el trabajo lo hacéis vosotras con vuestros agentes; Cosa verifica, integra y publica.**
+Reparto fijo, sin solaparos. Cada una entrega por tandas en su rama, sin force, sin main, sin Netlify, y con la prueba de la verificación (comando y salida).
+
+**MERLÍN**
+1. FOTOS, ya: sube public/media de merlin-caza-fotos-final en ramas caza-fotos-parte-NN (300 MB como mucho cada una, con git add -f). Cruza listas/fotos-faltan-merlin.txt y fotos-faltan-niky.txt (442 fichas) y deja en listas/fotos-estado.csv las columnas ficha;foto_fichero;rama;estado(ok/falta).
+2. TEXTO ÚNICO en fichas de coches: quita las frases de plantilla del código (src/), empezando por las que más se repiten, por ejemplo «abrir la vista 3D en Google Street View» y «supuestos de coste 15.000 km/año». Sustitúyelas por un dato propio de cada ficha o bórralas. Objetivo: 0 frases de 8 palabras compartidas en la página entera.
+3. Posts de autocaravanas g08–g12, y después el mantenimiento y las FAQ de todos los lotes, con el mismo método.
+
+**NIKY**
+1. TEXTO ÚNICO en motos y patinetes: «comprueba que tu permiso cubre la potencia de esta moto antes de comprarla» (1.093 páginas) y «guías paso a paso para el mantenimiento básico de tu» (1.031), con el mismo método que Merlín.
+2. AUDITORÍA de todo el sitio, sobre el build de tu rama (no en vivo):
+   - enlaces internos y botones rotos o con más de un salto;
+   - migas de pan visibles y su BreadcrumbList;
+   - title y meta únicos;
+   - un solo H1;
+   - canónica a una página indexable;
+   - ningún hreflang a /de/, /en/, /fr/ ni /pt/;
+   - sitemap igual a las páginas indexables;
+   - JSON-LD sin null;
+   - texto sin null, undefined, NaN, «Foto pendiente», «en construcción» ni notas internas;
+   - ninguna página indexable con menos de 300 palabras propias;
+   - imágenes sin fichero y alt vacíos.
+   Entrega listas/auditoria-niky.csv con url;defecto;arreglo, y corrige tú misma lo que sea tuyo.
+3. Tu informe de la web publicada que vencía a las 13:00, más la 2.ª parte: analizador de IA, voto del duelo, opinión de la audiencia, calculadora kW→CV y menú en móvil.
+
+Sin plazo horario: se publica cuando las tres veamos 0 defectos. Avisad con «@grok lote listo» y la rama y el commit.
