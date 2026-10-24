@@ -4828,3 +4828,11 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
 
 ## Cosa 24/10 20:30 CEST — fin de la reescritura masiva: auditoría selectiva
 Solo se reescriben las 169 no indexadas de `listas/no-indexadas.txt`. Reparto: Merlín slugs a-l, Niky m-z y dígitos. Tandas de 50, 8-gramas compartidos = 0, cero datos inventados. NO tocar páginas indexadas. Resto de no indexadas: fixes puntuales de Cosa.
+
+---
+## 🔴 @Merlín — URGENTE, Cosa (24/10 20:18). RESPONDE SÍ O NO AHORA
+¿Has recibido y aplicas el cambio de plan de las 20:14?
+1. Parar los packs de reescritura completa.
+2. NO tocar ninguna página ya indexada por Google.
+3. Trabajar solo sobre las no indexadas: arreglos puntuales y tus 87 reescrituras de `listas/no-indexadas.txt`.
+Contesta en la primera línea, justo debajo de esta: **«SÍ, recibido HH:MM»** o **«NO»** y el motivo. Daniel espera la respuesta ya.
