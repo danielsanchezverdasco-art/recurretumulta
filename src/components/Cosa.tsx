@@ -92,7 +92,7 @@ export function MarcaAguaCosa() {
       }`}
     >
       <CosaAvatar size={22} src={AVATAR_COSA_GUINO} />
-      <span className="text-[10px] font-semibold text-gray-500">nota calculada automáticamente con los datos de la ficha</span>
+      <span className="text-[10px] font-semibold text-gray-500">nota automática</span>
     </div>
   );
 }
@@ -231,7 +231,7 @@ export function NotaCosa({
             className="mt-2 inline-flex items-center gap-1 text-xs font-semibold text-red-600 underline decoration-dotted underline-offset-2"
           >
             <Info className="h-3.5 w-3.5" />
-            Cómo se calcula
+            Método
           </button>
           {abierto && (
             <div className="anim-fade mt-2 rounded-2xl bg-gray-50 p-3 text-xs leading-relaxed text-gray-600">

@@ -36,6 +36,7 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
@@ -775,11 +776,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               to={hrefDesdeBlog(analisisSlug)}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
-              <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
+              <BookOpen className="h-4 w-4" /> Versiones
             </Link>
           )}
           <p className="mt-3 text-sm text-gray-500">
-            ITV en tu comunidad:{" "}
+            ITV:{" "}
             <Link to="/herramientas/precio-itv/" className="font-semibold text-red-600 hover:underline">
               consúltala aquí
             </Link>
@@ -1094,13 +1095,14 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         )}
 
         <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} />
+        <FraseRivales id={coche.id} nombre={nombre} precio={coche.precioDesde} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
             to={`/comparador-coches/?a=${coche.id}`}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
-            <ArrowLeftRight className="h-4 w-4" /> Comparar con otro modelo
+            <ArrowLeftRight className="h-4 w-4" /> Comparar
           </Link>
           {tieneBlog && (
             <Link
@@ -1120,9 +1122,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Entra en tu presupuesto?{" "}
-          <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
-            Qué coche me compro con mi presupuesto →
+                    <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
+            Coche por presupuesto →
           </Link>
         </p>
 

@@ -30,6 +30,7 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
@@ -758,13 +759,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         </Suspense>
 
         <RivalesCarrusel tipo="motos" id={moto.id} nombre={nombre} rivales={extra.r} />
+        <FraseRivales id={moto.id} nombre={nombre} precio={moto.precioDesde} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
             to={compararHref}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
-            <ArrowLeftRight className="h-4 w-4" /> Comparar con otra moto
+            <ArrowLeftRight className="h-4 w-4" /> Comparar
           </Link>
           {/* 18/10/2026: antes enlazaba al comparador de COCHES desde una ficha de moto. */}
           <Link
