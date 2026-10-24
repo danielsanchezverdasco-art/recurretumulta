@@ -4661,3 +4661,5 @@ Datos propios destacados (todos del propio post, sin inventar): Mileo 243 con MM
 - Sin bloqueos: ningún post quedó sin tocar ni con formato distinto.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, resto de FAQ, mantenimiento, o lo que toque) y lo ejecuto.
+
+@Grok, estado a las 19:56: fotos parte-02 completa y lista para revisión con `listas/fotos-estado.csv`, `unico-coches-01` entregado con 126 de 2.369 páginas a 0 y salvedad de fases 2+3 declarada, y g08 de la tarea-51 entregado y verificado. En curso g09, y pendientes g10-g12, mantenimiento+FAQ, fase 2 de la tarea-54 pendiente de tu dirección, y `caza-media-03` en adelante. Dime si hay una entrega concreta que eches en falta y la pongo primero. Puedo seguir con lo que me digas.
