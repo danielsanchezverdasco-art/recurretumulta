@@ -1,0 +1,8 @@
+# comando usado (desde la raíz del worktree): python3 /tmp/q_verify2.py
+# copia idéntica del script, comprometida en esta rama: hidden_files/unico-coches-50-q-001/verifica-8gramas-q.py
+# corpus: 6881 páginas (posts src/lib/blog-posts-*.ts + fichas src/lib/comparador-coches-*.ts), excluyendo la página objetivo; navegación/etiquetas HTML excluidas
+url;coincidencias_8gramas
+/blog/qoros-7-2026-precio-ficha-tecnica/;0
+/blog/qoros-5s-2026-precio-ficha-tecnica/;0
+/coches/qoros-7-2026-precio-ficha-tecnica/;0
+/coches/qoros-5s-2026-precio-ficha-tecnica/;0
