@@ -1284,7 +1284,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["autonomiaKm", "autonomiaRealKm"],
     pros: [
-      "Doble motor de 1.200 W (5.400 W de pico) con 2.100 Wh Samsung SDI",
+      "Dos motores de 1.200 W y 5.400 W de pico, con 2.100 Wh Samsung SDI",
       "120 km declarados: autonomía de gran turismo",
       "Chasis coreano atornillado más robusto que el Dualtron Thunder",
       "Suspensión hidráulica ajustable de 150 mm: la mejor de su época",
@@ -1293,7 +1293,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     contras: [
       "48 kg: un mueble con ruedas, imposible de portear",
       "21 horas de carga con un cargador (10 h con dos)",
-      "80 km/h: en España solo legal limitado a 25 km/h",
+      "80 km/h: en España solo se puede usar limitado a 25 km/h",
       "Precio de lanzamiento 3.590 €: gama premium sin red en España",
       "La tornillería del chasis atornillado se afloja con el uso: revisar a menudo",
     ],
@@ -1742,8 +1742,8 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["autonomiaKm", "autonomiaRealKm"],
     pros: [
-      "500 W con 1.512 W de pico: sube bordillos y rampas sin inmutarse",
-      "65 km de autonomía declarada: el de más rango de la familia Ey!",
+      "500 W nominales y 1.512 W de pico: sube bordillos y rampas sin inmutarse",
+      "65 km de autonomía declarada: el mayor rango de la familia Ey!",
       "Doble suspensión antichoque con altura libre extra: vale para todo terreno urbano",
       "Neumáticos de 10 pulgadas: confort alemán de verdad",
       "Marca de Hamburgo con estándares de calidad europeos desde 2012",
@@ -1952,7 +1952,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "IPX5 y 120 kg de carga máxima",
     ],
     contras: [
-      "20 km/h de máxima por homologación alemana",
+      "Máxima de 20 km/h por homologación alemana",
       "9 horas de carga: la mayor batería se nota",
       "21,6 kg: no es ligero",
       "Diseño sobrio: no busca llamar la atención",

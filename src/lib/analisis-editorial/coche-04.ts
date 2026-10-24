@@ -277,7 +277,7 @@ export const ANALISIS_COCHE_04: MapaAnalisis = {
   },
   "chery-fulwin-t11-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Fulwin T11 es el Chery más potente y también el más tecnológico: hasta 460 CV con tracción total, 220 km eléctricos en ciclo CLTC y 1.400 km de autonomía total. Pero lo que lo define no es la potencia, sino el interior: 6 plazas en configuración 2+2+2 con butacas individuales, pantalla de 30 pulgadas más otra de 17,3 en el techo para las plazas traseras, LiDAR en el techo y 23 altavoces. Un salón rodante.",
+      "El Fulwin T11 es el Chery más potente y también el más tecnológico: hasta 460 CV con tracción total, con 220 km eléctricos CLTC y una autonomía total de 1.400 km. Pero lo que lo define no es la potencia, sino el interior: 6 plazas en configuración 2+2+2 con butacas individuales, pantalla de 30 pulgadas más otra de 17,3 en el techo para las plazas traseras, LiDAR en el techo y 23 altavoces. Un salón rodante.",
       "Con 5,20 m de largo y 2.452 kg de peso, aparcarlo en ciudad será un reto y la agilidad no es su fuerte. De momento solo se vende en China, con la autonomía medida en ciclo CLTC —la europea sería menor— y una llegada a Europa sin confirmar, quizá de la mano de Ebro, Omoda o Jaecoo.",
       "Es para la familia numerosa que quiere viajar en primera clase sin pagarla. No es una opción actual en España. El T11 es el escaparate de hasta dónde llega Chery cuando no se pone límites de precio ni de tamaño: tecnología de concept en un coche de producción.",
     ],

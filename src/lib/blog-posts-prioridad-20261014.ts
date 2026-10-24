@@ -1706,11 +1706,11 @@ Misma mecánica; el X6 es coupé con menos altura y maletero.
 
 **Ficha completa del modelo:** <a href=/coches/citroen-c4-cactus-2025/>Ficha técnica del Citroën C4 Cactus</a>
 
-## Citroën C4 Cactus: lo que tienes que saber antes de comprar
+## Citroën C4 Cactus: lo que conviene saber antes de comprar
 
-El Citroën C4 Cactus (descatalogado, fin de producción 2020) es un suv compacto con motor gasolina / diésel. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+El Citroën C4 Cactus (descatalogado, fin de producción 2020) es un SUV compacto con motor de gasolina o diésel. Aquí tienes su precio de ocasión, su ficha técnica, su consumo, su maletero, su historia, su mantenimiento y las opiniones, con enlace a su ficha completa.
 
-**Precio:** 18.900 €. Precio aproximado no oficial de ocasión (mercado de ocasión; fin de producción 2020).
+**Precio:** 18.900 €. Precio aproximado no oficial de ocasión (segunda mano; fin de producción en 2020).
 
 **Dato clave:** 110 CV (81 kW) · Maletero 358 l · 0–100 10,8 s · 184 km/h.
 
@@ -1733,7 +1733,7 @@ El Citroën C4 Cactus (descatalogado, fin de producción 2020) es un suv compact
 | Batería | no aplica (térmico) |
 | Precio desde | 18.900 € |
 | EuroNCAP | 4 estrellas EuroNCAP (2014) — Citroën C4 Cactus: 82% adultos, 79% niños, 80% usuarios vulnerables. Fuente: Parkers. |
-| Garantía | Sin garantía de nuevo (fin de producción 2020). Ocasión según vendedor. |
+| Garantía | Sin garantía de coche nuevo, porque su producción terminó en 2020. La garantía de ocasión depende del vendedor. |
 
 <img src=/media/citroen-c4-cactus-2025-2.webp alt=Citroën C4 Cactus — 2018 blanco>
 
@@ -1746,15 +1746,15 @@ El Citroën C4 Cactus (descatalogado, fin de producción 2020) es un suv compact
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Citroën, misma marca): revisión anual o cada 20.000 km. Coste según taller.
+Como mantenimiento orientativo, esta ficha recoge el de un modelo similar de Citroën: revisión cada año o cada 20.000 km, con el coste según el taller.
 
 ## Garantía oficial
 
-Sin garantía de nuevo (fin de producción 2020). Ocasión según vendedor.
+Sin garantía de coche nuevo, porque su producción terminó en 2020. La garantía de ocasión depende del vendedor.
 
 ## ¿Para quién es?
 
-Si buscas un suv compacto con 110 CV y maletero de 358 l, el Citroën C4 Cactus de ocasión entra en tu lista. Compáralo con la misma marca antes de decidir.
+Si buscas un SUV compacto con 110 CV y 358 l de maletero, el C4 Cactus de ocasión puede entrar en tu lista. Compáralo con otros Citroën antes de decidir.
 
 ## Preguntas frecuentes
 
@@ -1788,7 +1788,7 @@ El C4 y el C3 Aircross.
 - <a href=/coches/citroen-c3-aircross-gasolina-2026-precio-ficha-tecnica/>Citroen C3 Aircross Gasolina 2026</a>
 - <a href=/coches/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica/>Citroen C5 Aircross 12 Puretech 130 2024</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*`,
+*Datos contrastados con la web oficial de Citroën y la prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*`,
   },
   {
     slug: "dacia-lodgy-2025-precio-opiniones",
@@ -3179,7 +3179,7 @@ Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años
 
 **Ficha completa del modelo:** <a href=/coches/honda-e-2023/>Honda e 2023 — ficha técnica</a>
 
-Honda e 2023: Urbano eléctrico. Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+Honda e 2023: Urbano eléctrico. Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Ese precio aproximado del Honda e procede de los últimos listados españoles de este modelo descatalogado.
 
 ## Ficha rápida
 
@@ -3187,7 +3187,7 @@ Honda e 2023: Urbano eléctrico. Precio aproximado no oficial: desde ~34.000 €
 |---|---|
 | Modelo | Honda e 2023 |
 | Categoría | Urbano eléctrico |
-| Precio (página) | Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores). |
+| Precio (página) | Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Ese precio aproximado del Honda e procede de los últimos listados españoles de este modelo descatalogado. |
 | Potencia | 154 CV (113 kW) |
 | Par | 315 Nm |
 | 0–100 km/h | 8,3 s |
@@ -3199,7 +3199,7 @@ Honda e 2023: Urbano eléctrico. Precio aproximado no oficial: desde ~34.000 €
 | Plazas | 4 |
 | Tracción | Trasera |
 | Cambio | Automático 1 velocidad |
-| Garantía | Garantía del fabricante en modelos parecidos (Honda Jazz, Honda Civic): 3 años; batería 8 años. Fuente: garantía Honda España en modelos parecidos. |
+| Garantía | 3 años del fabricante en modelos parecidos (Honda Jazz, Honda Civic); batería 8 años. Fuente: garantía Honda España en modelos parecidos. |
 | EuroNCAP | 4 estrellas EuroNCAP (Honda e, 2020). |
 
 <img src=/media/honda-e-2023-2.webp alt=Honda e 2023 — interior/trasera>
@@ -3228,13 +3228,13 @@ Honda e 2023: Urbano eléctrico. Precio aproximado no oficial: desde ~34.000 €
 | Plazas | 4 |
 | Tracción | Trasera |
 | Cambio | Automático 1 velocidad |
-| Garantía | Garantía del fabricante en modelos parecidos (Honda Jazz, Honda Civic): 3 años; batería 8 años. Fuente: garantía Honda España en modelos parecidos. |
-| Mantenimiento | Mantenimiento orientativo (modelo similar Honda Jazz e:HEV, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Honda Jazz e:HEV (misma marca). |
+| Garantía | 3 años del fabricante en modelos parecidos (Honda Jazz, Honda Civic); batería 8 años. Fuente: garantía Honda España en modelos parecidos. |
+| Mantenimiento | Para el mantenimiento, esta ficha toma como orientativo el del Honda Jazz e:HEV, modelo similar de la marca: una revisión al año, sin ningún mantenimiento de motor térmico porque es eléctrico, según el plan de mantenimiento del Honda Jazz e:HEV. |
 | EuroNCAP | 4 estrellas EuroNCAP (Honda e, 2020). |
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Honda Jazz e:HEV, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Honda Jazz e:HEV (misma marca).
+Para el mantenimiento, esta ficha toma como orientativo el del Honda Jazz e:HEV, modelo similar de la marca: una revisión al año, sin ningún mantenimiento de motor térmico porque es eléctrico, según el plan de mantenimiento del Honda Jazz e:HEV.
 
 ## Garantía
 
@@ -3257,11 +3257,11 @@ Garantía del fabricante en modelos parecidos (Honda Jazz, Honda Civic): 3 años
 
 ### ¿Cuánto cuesta el Honda e 2023?
 
-Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+Precio aproximado no oficial: desde ~34.000 € en España (últimos precios — descatalogado). Ese precio aproximado del Honda e procede de los últimos listados españoles de este modelo descatalogado.
 
 ### ¿Cuántos CV tiene el Honda e 2023?
 
-154 CV (113 kW) en la versión de referencia de esta ficha.
+El Honda e 2023 declara 154 CV (113 kW) en la versión que esta ficha toma como referencia.
 
 ### ¿Se vende el Honda e en España?
 
@@ -3299,7 +3299,7 @@ Garantía del fabricante en modelos parecidos (Honda Jazz, Honda Civic): 3 años
 
 **Ficha completa del modelo:** <a href=/coches/honda-nsx-2022/>Honda NSX Type S 2022 — ficha técnica</a>
 
-Honda NSX Type S 2022: Superdeportivo híbrido. Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+Honda NSX Type S 2022: Superdeportivo híbrido. Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Ese precio del Honda NSX Type S viene de los listados estadounidenses de este modelo, que no se vende en España.
 
 ## Ficha rápida
 
@@ -3307,7 +3307,7 @@ Honda NSX Type S 2022: Superdeportivo híbrido. Precio aproximado no oficial: de
 |---|---|
 | Modelo | Honda NSX Type S 2022 |
 | Categoría | Superdeportivo híbrido |
-| Precio (página) | Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Fuente de la aproximación: listados del mercado estadounidense (comparadores). |
+| Precio (página) | Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Ese precio del Honda NSX Type S viene de los listados estadounidenses de este modelo, que no se vende en España. |
 | Potencia | 608 CV (447 kW) |
 | Par | 667 Nm |
 | 0–100 km/h | 2,9 s |
@@ -3319,8 +3319,8 @@ Honda NSX Type S 2022: Superdeportivo híbrido. Precio aproximado no oficial: de
 | Plazas | 2 |
 | Tracción | Total AWD |
 | Cambio | Doble embrague 9 velocidades |
-| Garantía | Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos. |
-| EuroNCAP | Sin datos EuroNCAP (no se vende en Europa). |
+| Garantía | 3 años o 36.000 millas de Honda en modelos parecidos (Civic, CR-V), según la garantía Honda en EE.UU. |
+| EuroNCAP | No hay datos EuroNCAP para el NSX, porque no se vende en Europa. |
 
 <img src=/media/honda-nsx-2022-2.webp alt=Honda NSX Type S 2022 — interior/trasera>
 
@@ -3348,9 +3348,9 @@ Honda NSX Type S 2022: Superdeportivo híbrido. Precio aproximado no oficial: de
 | Plazas | 2 |
 | Tracción | Total AWD |
 | Cambio | Doble embrague 9 velocidades |
-| Garantía | Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos. |
+| Garantía | 3 años o 36.000 millas de Honda en modelos parecidos (Civic, CR-V), según la garantía Honda en EE.UU. |
 | Mantenimiento | Mantenimiento orientativo (modelo similar Honda Civic Type R, misma marca): mantenimiento de superdeportivo según uso. Fuente: plan de mantenimiento Honda Civic Type R (misma marca). |
-| EuroNCAP | Sin datos EuroNCAP (no se vende en Europa). |
+| EuroNCAP | No hay datos EuroNCAP para el NSX, porque no se vende en Europa. |
 
 ## Mantenimiento
 
@@ -3358,11 +3358,11 @@ Mantenimiento orientativo (modelo similar Honda Civic Type R, misma marca): mant
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos.
+Para el NSX, esta ficha recoge la garantía de Honda en modelos parecidos, el Civic y el CR-V: 3 años o 36.000 millas, según la garantía Honda en EE.UU.
 
 ## EuroNCAP
 
-Sin datos EuroNCAP (no se vende en Europa).
+No hay datos EuroNCAP para el NSX, porque no se vende en Europa.
 
 ## Enlaces internos
 
@@ -3377,23 +3377,23 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Cuánto cuesta el Honda NSX Type S 2022?
 
-Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Fuente de la aproximación: listados del mercado estadounidense (comparadores).
+Precio aproximado no oficial: desde ~170.000 $ en EE.UU. (Type S). No se vende en España. Ese precio del Honda NSX Type S viene de los listados estadounidenses de este modelo, que no se vende en España.
 
 ### ¿Cuántos CV tiene el Honda NSX Type S 2022?
 
-608 CV (447 kW) en la versión de referencia de esta ficha.
+La versión de referencia de esta ficha, el Honda NSX Type S 2022, declara 608 CV (447 kW).
 
 ### ¿Se vende el Honda NSX Type S en España?
 
-Esta ficha lo dice claramente y usa el precio del mercado donde se vende.
+El precio que recoge esta ficha es el del mercado estadounidense, donde se vende el Type S.
 
 ### ¿Qué EuroNCAP tiene el Honda NSX Type S?
 
-Sin datos EuroNCAP (no se vende en Europa).
+No hay datos EuroNCAP para el NSX, porque no se vende en Europa.
 
 ### ¿Qué garantía tiene el Honda NSX Type S?
 
-Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos.
+Para el NSX, esta ficha recoge la garantía de Honda en modelos parecidos, el Civic y el CR-V: 3 años o 36.000 millas, según la garantía Honda en EE.UU.
 
 ### ¿Merece la pena comprar el Honda NSX Type S?`,
   },
@@ -4374,7 +4374,7 @@ Garantía del fabricante en modelos parecidos (Jaguar XE, Jaguar F-Pace): 3 año
 
 **Ficha completa del modelo:** <a href=/coches/jeep-compass-trailhawk-2025/>Jeep Compass Trailhawk 2025 — ficha técnica</a>
 
-Jeep Compass Trailhawk 2025: SUV compacto 4x4. Precio aproximado no oficial: desde ~45.000 € en España. Fuente de la aproximación: listados del mercado español (comparadores).
+Jeep Compass Trailhawk 2025: SUV compacto 4x4. El precio aproximado no oficial parte de unos 45.000 € en España. El precio aproximado del Jeep Compass Trailhawk procede de los listados españoles recogidos para este modelo.
 
 ## Ficha rápida
 
@@ -4382,7 +4382,7 @@ Jeep Compass Trailhawk 2025: SUV compacto 4x4. Precio aproximado no oficial: des
 |---|---|
 | Modelo | Jeep Compass Trailhawk 2025 |
 | Categoría | SUV compacto 4x4 |
-| Precio (página) | Precio aproximado no oficial: desde ~45.000 € en España. Fuente de la aproximación: listados del mercado español (comparadores). |
+| Precio (página) | El precio aproximado no oficial parte de unos 45.000 € en España. El precio aproximado del Jeep Compass Trailhawk procede de los listados españoles recogidos para este modelo. |
 | Potencia | 240 CV (176 kW) |
 | Par | 270 Nm |
 | 0–100 km/h | 7,3 s |
@@ -4394,7 +4394,7 @@ Jeep Compass Trailhawk 2025: SUV compacto 4x4. Precio aproximado no oficial: des
 | Plazas | 5 |
 | Tracción | Total 4x4 |
 | Cambio | Automático 6 velocidades |
-| Garantía | Garantía del fabricante en modelos parecidos (Jeep Renegade, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos. |
+| Garantía | El Compass Trailhawk recoge aquí la garantía de Jeep en modelos parecidos, el Renegade y el Compass: 2 años, según la garantía Jeep en España. |
 | EuroNCAP | Jeep Compass base: 5 estrellas EuroNCAP (2017). Trailhawk sin prueba específica. |
 
 <img src=/media/jeep-compass-trailhawk-2025-2.webp alt=Jeep Compass Trailhawk 2025 — interior/trasera>
@@ -4413,7 +4413,7 @@ Jeep Compass Trailhawk 2025: SUV compacto 4x4. Precio aproximado no oficial: des
 | Apartado | Detalle |
 |---|---|
 | Motor | 1.3 T4 4xe PHEV |
-| Potencia | 240 CV (176 kW) — CV = kW × 1,36 |
+| Potencia | 240 CV (176 kW) — 1 kW equivale a 1,36 CV |
 | Par | 270 Nm |
 | 0–100 | 7,3 s |
 | Velocidad máxima | 200 km/h |
@@ -4423,17 +4423,17 @@ Jeep Compass Trailhawk 2025: SUV compacto 4x4. Precio aproximado no oficial: des
 | Plazas | 5 |
 | Tracción | Total 4x4 |
 | Cambio | Automático 6 velocidades |
-| Garantía | Garantía del fabricante en modelos parecidos (Jeep Renegade, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos. |
-| Mantenimiento | Mantenimiento orientativo (modelo similar Jeep Renegade, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Jeep Renegade (misma marca). |
+| Garantía | El Compass Trailhawk recoge aquí la garantía de Jeep en modelos parecidos, el Renegade y el Compass: 2 años, según la garantía Jeep en España. |
+| Mantenimiento | Como mantenimiento orientativo, esta ficha usa el del Jeep Renegade, modelo similar de la marca: revisión cada año o cada 15.000 km, según el plan de mantenimiento del Renegade. |
 | EuroNCAP | Jeep Compass base: 5 estrellas EuroNCAP (2017). Trailhawk sin prueba específica. |
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Jeep Renegade, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Jeep Renegade (misma marca).
+Como mantenimiento orientativo, esta ficha usa el del Jeep Renegade, modelo similar de la marca: revisión cada año o cada 15.000 km, según el plan de mantenimiento del Renegade.
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Jeep Renegade, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos.
+El Compass Trailhawk recoge aquí la garantía de Jeep en modelos parecidos, el Renegade y el Compass: 2 años, según la garantía Jeep en España.
 
 ## EuroNCAP
 
@@ -4452,11 +4452,11 @@ Jeep Compass base: 5 estrellas EuroNCAP (2017). Trailhawk sin prueba específica
 
 ### ¿Cuánto cuesta el Jeep Compass Trailhawk 2025?
 
-Precio aproximado no oficial: desde ~45.000 € en España. Fuente de la aproximación: listados del mercado español (comparadores).
+El precio aproximado no oficial parte de unos 45.000 € en España. El precio aproximado del Jeep Compass Trailhawk procede de los listados españoles recogidos para este modelo.
 
 ### ¿Cuántos CV tiene el Jeep Compass Trailhawk 2025?
 
-240 CV (176 kW) en la versión de referencia de esta ficha.
+El Jeep Compass Trailhawk 2025 declara 240 CV (176 kW) según la versión de referencia recogida en esta ficha.
 
 ### ¿Se vende el Jeep Compass Trailhawk en España?
 
@@ -4468,7 +4468,7 @@ Jeep Compass base: 5 estrellas EuroNCAP (2017). Trailhawk sin prueba específica
 
 ### ¿Qué garantía tiene el Jeep Compass Trailhawk?
 
-Garantía del fabricante en modelos parecidos (Jeep Renegade, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos.
+El Compass Trailhawk recoge aquí la garantía de Jeep en modelos parecidos, el Renegade y el Compass: 2 años, según la garantía Jeep en España.
 
 ### ¿Merece la pena comprar el Jeep Compass Trailhawk?`,
   },
@@ -5214,7 +5214,7 @@ Garantía del fabricante en modelos parecidos (Kia EV3, Kia EV6): 7 años / 150.
 
 **Ficha completa del modelo:** <a href=/coches/kia-soul-ev-2024/>Kia Soul EV 2024 — ficha técnica</a>
 
-Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). El precio aproximado del Kia Soul EV sale de los últimos listados españoles recogidos para este modelo descatalogado.
 
 ## Ficha rápida
 
@@ -5222,7 +5222,7 @@ Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38
 |---|---|
 | Modelo | Kia Soul EV 2024 |
 | Categoría | SUV urbano eléctrico |
-| Precio (página) | Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores). |
+| Precio (página) | Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). El precio aproximado del Kia Soul EV sale de los últimos listados españoles recogidos para este modelo descatalogado. |
 | Potencia | 204 CV (150 kW) |
 | Par | 395 Nm |
 | 0–100 km/h | 7,9 s |
@@ -5234,7 +5234,7 @@ Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38
 | Plazas | 5 |
 | Tracción | Delantera |
 | Cambio | Automático 1 velocidad |
-| Garantía | Garantía del fabricante en modelos parecidos (Kia Niro EV, Kia EV6): 7 años / 150.000 km; batería 7 años. Fuente: garantía Kia España en modelos parecidos. |
+| Garantía | 7 años / 150.000 km del fabricante en modelos parecidos (Kia Niro EV, Kia EV6); batería 7 años, según la garantía Kia en España. |
 | EuroNCAP | Sin datos EuroNCAP específicos para Soul EV. |
 
 <img src=/media/kia-soul-ev-2024-2.webp alt=Kia Soul EV 2024 — interior/trasera>
@@ -5253,7 +5253,7 @@ Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38
 | Apartado | Detalle |
 |---|---|
 | Motor | Eléctrico delantero |
-| Potencia | 204 CV (150 kW) — CV = kW × 1,36 |
+| Potencia | 204 CV (150 kW) — un kilovatio equivale a 1,36 CV |
 | Par | 395 Nm |
 | 0–100 | 7,9 s |
 | Velocidad máxima | 167 km/h |
@@ -5263,13 +5263,13 @@ Kia Soul EV 2024: SUV urbano eléctrico. Precio aproximado no oficial: desde ~38
 | Plazas | 5 |
 | Tracción | Delantera |
 | Cambio | Automático 1 velocidad |
-| Garantía | Garantía del fabricante en modelos parecidos (Kia Niro EV, Kia EV6): 7 años / 150.000 km; batería 7 años. Fuente: garantía Kia España en modelos parecidos. |
-| Mantenimiento | Mantenimiento orientativo (modelo similar Kia Niro EV, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Kia Niro EV (misma marca). |
+| Garantía | 7 años / 150.000 km del fabricante en modelos parecidos (Kia Niro EV, Kia EV6); batería 7 años, según la garantía Kia en España. |
+| Mantenimiento | El plan orientativo que recoge esta ficha es el del Kia Niro EV, el modelo de referencia de la marca: revisión cada año y ningún mantenimiento de motor térmico al ser eléctrico, según el plan de mantenimiento del Kia Niro EV. |
 | EuroNCAP | Sin datos EuroNCAP específicos para Soul EV. |
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Kia Niro EV, misma marca): revisión anual; sin mantenimiento de motor térmico. Fuente: plan de mantenimiento Kia Niro EV (misma marca).
+El plan orientativo que recoge esta ficha es el del Kia Niro EV, el modelo de referencia de la marca: revisión cada año y ningún mantenimiento de motor térmico al ser eléctrico, según el plan de mantenimiento del Kia Niro EV.
 
 ## Garantía
 
@@ -5292,11 +5292,11 @@ Sin datos EuroNCAP específicos para Soul EV.
 
 ### ¿Cuánto cuesta el Kia Soul EV 2024?
 
-Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). Fuente de la aproximación: últimos listados del mercado español (comparadores).
+Precio aproximado no oficial: desde ~38.000 € en España (últimos precios — descatalogado). El precio aproximado del Kia Soul EV sale de los últimos listados españoles recogidos para este modelo descatalogado.
 
 ### ¿Cuántos CV tiene el Kia Soul EV 2024?
 
-204 CV (150 kW) en la versión de referencia de esta ficha.
+Esta ficha toma como referencia una versión del Kia Soul EV 2024 con 204 CV (150 kW).
 
 ### ¿Se vende el Kia Soul EV en España?
 
@@ -5811,7 +5811,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "deportiva a1 2026",
       "aprilia rs 125 2026"
     ],
-    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>\n\n*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026.\n\n<a href=/motos/aprilia-rs-125-2026/>Ficha técnica de la Aprilia RS 125 2026</a>.\n\n## Aprilia RS 125 2026: precio, ficha y qué mirar antes de comprar\n\nLa Aprilia RS 125 2026 es una moto de categoría Deportiva con carnet A1. Declara 15 CV (11.0 kW) con 124.2 cc.\n\n## Precio en España\n\nPrecio aproximado no oficial desde 5.750 €. Precio aproximado no oficial: 5.750 € (Tarifa Piaggio, RS 125 E5+). El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de Aprilia o en un concesionario antes de comprar.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | Aprilia RS 125 2026 |\n| Categoría | Deportiva |\n| Carnet | A1 |\n| Cilindrada | 124.2 cc |\n| Potencia | 15 CV (11.0 kW) |\n| Par | 12 Nm |\n| Peso | 144 kg |\n| Depósito | 14.5 l |\n| Altura asiento | 820 mm |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n| Garantía | Garantía del fabricante en modelos parecidos (RS 660, Tuono 660, Tuareg 660, Grupo Piaggio): 3 años estándar + ampliación hasta 4 años (Piaggio, documento de garantía comercial). |\n\n<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>\n\n*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/.\n\n## Historia del modelo\n\n- 1992: nace la RS 125 (2T)\n- 2018: nueva generación 4T Euro 4\n- 2021: Euro 5, versión GP Replica\n\n## Mantenimiento\n\nMantenimiento orientativo (modelo similar RS 660 / Tuono 660, misma marca): revisiones periódicas según tabla de mantenimiento Aprilia, con controles a los 1.000, 10.000, 20.000 km y siguientes; cadena controlar/lubricar cada 1.000 km (manual Aprilia).\n\n## Garantía\n\nGarantía del fabricante en modelos parecidos (RS 660, Tuono 660, Tuareg 660, Grupo Piaggio): 3 años estándar + ampliación hasta 4 años (Piaggio, documento de garantía comercial).\n\n## Rivales y alternativas\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta Aprilia RS 125 2026 en España?\n\nPrecio: Precio aproximado no oficial: 5.750 € (Tarifa Piaggio, RS 125 E5+). Confirma el PVP en la web oficial o concesionario antes de comprar, porque las promociones cambian.\n\n### ¿Qué potencia tiene Aprilia RS 125 2026?\n\nPotencia declarada: 15 CV (11.0 kW) con 124.2 cc.\n\n### ¿Qué carnet hace falta para Aprilia RS 125 2026?\n\nCarnet A1 (verificar en ficha oficial).\n\n### ¿Tiene prueba EuroNCAP Aprilia RS 125 2026?\n\nNo.\n\n### ¿Qué garantía tiene Aprilia RS 125 2026?\n\nGarantía: Garantía del fabricante en modelos parecidos (RS 660, Tuono 660, Tuareg 660, Grupo Piaggio): 3 años estándar + ampliación hasta 4 años (Piaggio, documento de garantía comercial).\n\n### ¿Cada cuánto se revisa Aprilia RS 125 2026?\n\nMantenimiento: Mantenimiento orientativo (modelo similar RS 660 / Tuono 660, misma marca): revisiones periódicas según tabla de mantenimiento Aprilia, con controles a los 1.000, 10.000, 20.000 km y siguientes; cadena controlar/lubricar cada 1.000 km (manual Aprilia).\n\n## Enlaces\n\n- <a href=/motos/aprilia-rs-125-2026/>Ficha completa</a>\n- <a href=/motos/aprilia-tuono-125-2026/>Misma marca: aprilia-tuono-125-2026</a>\n- <a href=/motos/aprilia-rs-660-factory-2026/>Misma marca: aprilia-rs-660-factory-2026</a>\n- <a href=/motos/aprilia-tuono-660-factory-2026/>Misma marca: aprilia-tuono-660-factory-2026</a>\n- <a href=/motos/aprilia-tuareg-660-rally-2026/>Misma marca: aprilia-tuareg-660-rally-2026</a>\n- <a href=/motos/aprilia-sx-125-2026/>Misma marca: aprilia-sx-125-2026</a>\n\n*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Grupo Piaggio (3 años + ampliación hasta 4)</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*",
+    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>\n\n*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026.\n\n<a href=/motos/aprilia-rs-125-2026/>Ficha técnica de la Aprilia RS 125 2026</a>.\n\n## Aprilia RS 125 2026: precio, ficha técnica y qué conviene revisar antes de comprar\n\nLa RS 125 2026 de Aprilia es una deportiva de 125 para el carnet A1, con 15 CV (11,0 kW) y 124,2 cc.\n\n## Precio en España\n\nPrecio aproximado no oficial desde 5.750 €. Precio aproximado no oficial: 5.750 € (Tarifa Piaggio, RS 125 E5+). El precio puede cambiar según la promoción, la comunidad autónoma y los gastos de matriculación. Antes de comprar, compruébalo en la página oficial de Aprilia o en un concesionario.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | Aprilia RS 125 2026 |\n| Categoría | Deportiva |\n| Carnet | A1 |\n| Cilindrada | 124.2 cc |\n| Potencia | 15 CV (11.0 kW) |\n| Par | 12 Nm |\n| Peso | 144 kg |\n| Depósito | 14.5 l |\n| Altura asiento | 820 mm |\n| EuroNCAP | Sin prueba EuroNCAP: las motos no se someten a este test. |\n| Garantía | La garantía que cita esta ficha es la del fabricante para modelos parecidos de Aprilia (RS 660, Tuono 660 y Tuareg 660, del Grupo Piaggio): 3 años de serie, ampliables hasta 4 años según el documento de garantía comercial de Piaggio. |\n\n<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>\n\n*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/.\n\n## Historia del modelo\n\n- 1992: nace la RS 125 (2T)\n- 2018: nueva generación 4T Euro 4\n- 2021: Euro 5, versión GP Replica\n\n## Mantenimiento\n\nComo referencia de mantenimiento, esta ficha toma el de modelos similares de la marca (RS 660 y Tuono 660): revisiones según la tabla de Aprilia al millar, a los diez mil y a los veinte mil kilómetros, y siguientes, y la cadena, que el manual de Aprilia pide controlar y lubricar cada 1.000 km.\n\n## Garantía\n\nLa garantía que cita esta ficha es la del fabricante para modelos parecidos de Aprilia (RS 660, Tuono 660 y Tuareg 660, del Grupo Piaggio): 3 años de serie, ampliables hasta 4 años según el documento de garantía comercial de Piaggio.\n\n## Rivales y alternativas\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta Aprilia RS 125 2026 en España?\n\nPrecio: 5.750 € aproximados y no oficiales (Tarifa Piaggio, RS 125 E5+). Antes de comprar, confirma el precio en la web oficial o en un concesionario, porque las promociones cambian.\n\n### ¿Qué potencia tiene Aprilia RS 125 2026?\n\nLa potencia declarada de la RS 125 2026 es 15 CV (11,0 kW) con 124,2 cc.\n\n### ¿Qué carnet hace falta para Aprilia RS 125 2026?\n\nCarnet A1 (verificar en ficha oficial).\n\n### ¿Tiene prueba EuroNCAP Aprilia RS 125 2026?\n\nNo.\n\n### ¿Qué garantía tiene Aprilia RS 125 2026?\n\nGarantía: La garantía que cita esta ficha es la del fabricante para modelos parecidos de Aprilia (RS 660, Tuono 660 y Tuareg 660, del Grupo Piaggio): 3 años de serie, ampliables hasta 4 años según el documento de garantía comercial de Piaggio.\n\n### ¿Cada cuánto se revisa Aprilia RS 125 2026?\n\nMantenimiento: Como referencia de mantenimiento, esta ficha toma el de modelos similares de la marca (RS 660 y Tuono 660): revisiones según la tabla de Aprilia al millar, a los diez mil y a los veinte mil kilómetros, y siguientes, y la cadena, que el manual de Aprilia pide controlar y lubricar cada 1.000 km.\n\n## Enlaces\n\n- <a href=/motos/aprilia-rs-125-2026/>Ficha completa</a>\n- <a href=/motos/aprilia-tuono-125-2026/>Misma marca: aprilia-tuono-125-2026</a>\n- <a href=/motos/aprilia-rs-660-factory-2026/>Misma marca: aprilia-rs-660-factory-2026</a>\n- <a href=/motos/aprilia-tuono-660-factory-2026/>Misma marca: aprilia-tuono-660-factory-2026</a>\n- <a href=/motos/aprilia-tuareg-660-rally-2026/>Misma marca: aprilia-tuareg-660-rally-2026</a>\n- <a href=/motos/aprilia-sx-125-2026/>Misma marca: aprilia-sx-125-2026</a>\n\n*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Grupo Piaggio (3 años + ampliación hasta 4)</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*",
   },
   {
     slug: "aprilia-rs-660-factory-2026",

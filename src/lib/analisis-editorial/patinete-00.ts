@@ -113,7 +113,7 @@ Interesa al aficionado a los hiperpatinetes que busque una alternativa al format
 
   "apollo-explore-2024": `El Apollo Explore 2024 afina la fórmula del gran turismo: 1.000 vatios y 55 kilómetros declarados con solo 23 kilos, lo que lo convierte en el Apollo más ligero de la gama 2024 para esa potencia. Lleva frenos de disco delante y detrás más regenerativo, app con antirrobo y batería de 946 Wh: un conjunto equilibrado para quien quiere potencia sin cargar con 40 kilos.
 
-Los peros son los habituales de la marca en Europa: 1.400 vatios de pico se quedan justos en cuestas duras para un 1.000 nominal, el precio en España no está publicado y no declara IP66. Y aunque la ficha indica 25 km/h de máxima, la potencia invita a la prudencia legal.
+Los peros son los habituales de la marca en Europa: 1.400 vatios de pico se quedan justos en cuestas duras para un 1.000 nominal, en España no se ha publicado su precio y no declara IP66. Y aunque la ficha indica 25 km/h de máxima, la potencia invita a la prudencia legal.
 
 Es el Apollo más sensato para quien valore la relación peso-potencia y esté dispuesto a importar. Para España, sin distribución oficial, sigue siendo una compra de entusiasta: quien busque gran turismo con papeles europeos tiene opciones con certificación DGT en el mercado nacional.`,
 
@@ -482,9 +482,9 @@ Como toda bestia de este calibre, pide circuito: 48 kilos imposibles de portear 
 
 Es una máquina de colección para el aficionado a la hiperpotencia con garaje propio. En vía pública española no tiene encaje: es ingeniería coreana extrema para disfrutar donde la ley lo permite.`,
 
-  "currus-panther": `El Currus Panther es el NF11 en su esencia: doble motor de 1.200 vatios con 5.400 de pico y 2.100 Wh Samsung SDI, 120 kilómetros declarados de autonomía gran turismo, chasis coreano atornillado más robusto que el Dualtron Thunder y suspensión hidráulica ajustable de 150 mm, la mejor de su época. Es historia viva de los hiperpatinetes.
+  "currus-panther": `El Currus Panther es el NF11 en su esencia: dos motores que suman 1.200 vatios, con 5.400 de pico, y 2.100 Wh Samsung SDI, 120 kilómetros declarados de autonomía gran turismo, chasis coreano atornillado más robusto que el Dualtron Thunder y suspensión hidráulica ajustable de 150 mm, la mejor de su época. Es historia viva de los hiperpatinetes.
 
-Sus 48 kilos son un mueble con ruedas, la carga tarda 21 horas con un cargador y los 80 km/h solo son legales limitados a 25 km/h en España. Es potencia de otra era con peajes de otra era.
+Sus 48 kilos son un mueble con ruedas, la carga tarda 21 horas con un cargador y sus 80 km/h solo son legales si se limitan a 25 km/h en España. Es potencia de otra era con peajes de otra era.
 
 Para el nostálgico de los hiperpatinetes clásicos que lo use en circuito privado. No es una compra racional en 2026: es una pieza de colección con prestaciones brutales y usabilidad mínima. Los neumáticos tubeless anchos de 11 pulgadas y 90 milímetros dan una huella generosa que se nota en la estabilidad a alta velocidad, y poder cargar con dos cargadores reduce a 10 horas una carga eterna.`,
 

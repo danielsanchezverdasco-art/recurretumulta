@@ -284,7 +284,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
   },
   "egret-ey-1": {
     parrafos: [
-      "El Ey! 1 es el buque insignia de la nueva familia Ey! de Egret, marca de Hamburgo con estándares de calidad europeos desde 2012: 500 W nominales con 1.512 W de pico que suben bordillos y rampas sin inmutarse, 65 kilómetros de autonomía homologada con alrededor de 43 kilómetros efectivos calculados, el mayor rango de la familia. La doble suspensión antichoque con altura libre extra lo hace válido para todo el terreno urbano, sobre cubiertas de 10″ y con triple sistema de frenado. Cuesta 1.299 €.",
+      "El Ey! 1 es el modelo tope de la nueva familia Ey! de Egret, marca de Hamburgo con estándares de calidad europeos desde 2012: 500 W nominales y 1.512 W de pico que suben bordillos y rampas sin inmutarse, 65 kilómetros de autonomía homologada con alrededor de 43 kilómetros efectivos calculados, el mayor rango de la familia. La doble suspensión antichoque con altura libre extra lo hace válido para todo el terreno urbano, sobre cubiertas de 10″ y con triple sistema de frenado. Cuesta 1.299 €.",
       "El peaje es doble: precio premium alemán y 20 km/h de velocidad punta por la homologación alemana, con 8 horas de carga que obligan a cargarlo de noche. El fabricante no publica el peso oficial, y en España compite con modelos de 25 km/h por menos dinero. Calidad alemana sin concesiones para quien acepte ir más despacio a cambio de ir mejor.",
       "Egret no compite en precio: compite en tacto. Quien ha probado un Egret entiende por qué 1.299 € pueden tener sentido: acabados, frenada y una solidez que los baratos no imitan.",
     ],
@@ -308,8 +308,8 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
   },
   "egret-ey-6": {
     parrafos: [
-      "El Ey! 6 es el elegante de la familia: 450 W con 902 W de pico y 551 vatios-hora que declaran 55 kilómetros de rango, con alrededor de 37 kilómetros reales estimados, por 799 €. La suspensión integral, con horquilla delantera y trasera, los intermitentes en los puños de serie, una seguridad premium poco vista en este etiqueta, el triple freno de disco más tambor más electrónico y los neumáticos de 10″ con gel autosellante dibujan un urbano muy completo. Suma protección IPX5 y 120 kg de peso máximo admitido en 21,6 kg.",
-      "La contrapartida: 20 km/h de máxima por la homologación alemana, 9 horas de carga porque la batería grande se nota, y un diseño sobrio que no busca llamar la atención. En España hay alternativas de 25 km/h por etiqueta similar. Es el Egret con mejor relación rango-etiqueta si se aceptan los 20 km/h.",
+      "El Ey! 6 apuesta por la elegancia dentro de la familia: 450 W con 902 W de pico y 551 vatios-hora que declaran 55 kilómetros de rango, con alrededor de 37 kilómetros reales estimados, por 799 €. La suspensión integral, con horquilla delantera y trasera, los intermitentes en los puños de serie, una seguridad premium poco vista en este etiqueta, el triple freno de disco más tambor más electrónico y los neumáticos de 10″ con gel autosellante dibujan un urbano muy completo. Suma protección IPX5 y 120 kg de peso máximo admitido en 21,6 kg.",
+      "La contrapartida: máxima de 20 km/h por la homologación alemana, 9 horas de carga porque la batería grande se nota, y un diseño sobrio que no busca llamar la atención. En España hay alternativas de 25 km/h por etiqueta similar. Es el Egret con mejor relación rango-etiqueta si se aceptan los 20 km/h.",
       "Los intermitentes en los puños son un detalle de moto grande en un patinete: seguridad activa que casi nadie ofrece por 799 €. Para ciudad con tráfico, un argumento de peso.",
     ],
     veredicto: "Para el rutero urbano que quiere autonomía y equipamiento premium; no para quien necesite velocidad o ligereza.",

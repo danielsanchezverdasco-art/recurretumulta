@@ -921,10 +921,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Rueda trasera maciza: cero pinchazos atrás",
     ],
     contras: [
-      "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air Pro en Europa",
+      "Sin precio oficial: no hay tarifa oficial verificable para el Air Pro en Europa",
       "8,5 horas de carga: hay que cargarlo toda la noche",
       "La rueda trasera maciza transmite más vibración",
-      "A 35 km/h no es legal en vía pública española",
+      "A 35 km/h no puede circular por la vía pública española",
       "Sin suspensión ni intermitentes",
       "Precio oficial en España difícil de encontrar",
     ],
@@ -2704,7 +2704,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     aprox: ["autonomiaRealKm"],
     pros: [
       "Certificación ABE alemana: legal en Alemania",
-      "1.248 Wh (48V 26Ah): 90 km declarados",
+      "Batería de 1.248 Wh (48 V, 26 Ah) con 90 km declarados",
       "529 €: muy buen precio para esa batería",
       "22,1 kg: ligero para su autonomía",
       "Doble suspensión con patente propia de Joyor",

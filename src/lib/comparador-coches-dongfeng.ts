@@ -119,14 +119,14 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     aprox: ["precio"],
     pros: [
       "Sistema híbrido Mach Power de 241 CV con 540 Nm de par",
-      "Consumo contenido: 5,8 l/100 km en ciclo WLTC",
+      "5,8 l/100 km en ciclo WLTC de consumo contenido",
       "Interior amplio con maletero de 500 litros",
       "Equipamiento tecnológico de nivel superior (cámara 540°)",
-      "Garantía de 5 años/150.000 km y 8 años para la batería",
+      "Garantía que cubre 5 años o 150.000 km, y 8 años para la batería",
     ],
     contras: [
       "Sin versión enchufable: no accede a la etiqueta Cero",
-      "Marca aún desconocida para el gran público",
+      "Poco conocida aún para el gran público",
       "No se vende en España (solo mercados de exportación)",
       "Red de servicio fuera de China muy limitada",
       "Tamaño considerable: 4,72 m complican aparcar en ciudad",

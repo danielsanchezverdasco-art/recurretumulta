@@ -383,8 +383,8 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "byd-great-tang-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Great Tang es el SUV con el que BYD quiere demostrar que la carga ya no es un problema: arquitectura de 1.000 voltios, picos de 1.000 kW y del 10 al 70 % en 5 minutos. Con 130 kWh de batería promete hasta 950 kilómetros CLTC, siete plazas reales en configuración 2+2+3 y suspensión neumática de doble cámara. A unos 31.900 € en China, con 40.222 entregas en tres meses, el éxito comercial ya está probado.",
-      "Los asteriscos son de manual: los 950 km son ciclo chino, la carga de megavatio exige una infraestructura que no existe en Europa y sus 5,3 metros lo hacen inviable en nuestras ciudades. El precio europeo aún no está confirmado. Pero el Great Tang marca el camino: la autonomía y la carga dejan de ser argumentos cuando 5 minutos dan para 400 kilómetros. Es el futuro del SUV eléctrico familiar, aunque ese futuro aún no tenga fecha en España.",
+      "El Great Tang es el SUV con el que BYD quiere demostrar que la carga ya no es un problema: arquitectura de 1.000 voltios, picos de 1.000 kW y del 10 al 70 % en 5 minutos. Su batería de 130 kWh promete hasta 950 kilómetros CLTC, siete plazas reales en configuración 2+2+3 y suspensión neumática de doble cámara. A unos 31.900 € en China, con 40.222 entregas en tres meses, el éxito comercial ya está probado.",
+      "Los asteriscos son de manual: los 950 km son ciclo chino, para cargar a un megavatio haría falta una red que en Europa no existe y sus 5,3 metros lo hacen inviable en nuestras ciudades. El precio europeo aún no está confirmado. Pero el Great Tang marca el camino: la autonomía y la carga dejan de ser argumentos cuando 5 minutos dan para 400 kilómetros. Es el futuro del SUV eléctrico familiar, aunque ese futuro aún no tenga fecha en España.",
     ],
     veredicto: "Hecho a medida para familias chinas que quieren el SUV eléctrico definitivo; incompatible con Europa, sin fecha.",
   },
@@ -418,7 +418,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "byd-qin-plus-dm-i-2025-precio-ficha-tecnica": {
     parrafos: [
-      "Once mil euros. Esa es la cifra que lo cambia todo en el Qin Plus DM-i: por ese precio —en China—, BYD ofrece una berlina híbrida enchufable con 1.245 kilómetros de alcance total y 55 de ellos en modo eléctrico. Los 163 CV mueven el conjunto con dignidad —7,9 segundos hasta los 100— y la batería Blade LFP aporta la reputación de durabilidad de la marca. Cruzar un país sin repostar por el precio de una moto de media cilindrada: esa es la propuesta.",
+      "El Qin Plus DM-i cambia todo con una cifra: once mil euros. Por ese precio —en China—, BYD ofrece una berlina híbrida enchufable con 1.245 kilómetros de alcance total y 55 de ellos en modo eléctrico. Los 163 CV mueven el conjunto con dignidad —7,9 segundos hasta los 100— y la batería Blade LFP aporta la reputación de durabilidad de la marca. Cruzar un país sin repostar por el precio de una moto de media cilindrada: esa es la propuesta.",
       "Los acabados son correctos sin lujos, la batería de 8,3 kWh pide enchufe a diario y no hay carga rápida en continua. Pero el Qin Plus no se juzga por su equipamiento, sino por lo que representa: millones de unidades vendidas que financian la expansión mundial de BYD mientras en Europa el enchufable más barato supera los 25.000 €. No es un problema de tecnología, es un problema de escala industrial. Y China ya ganó esa partida.",
     ],
     veredicto: "La berlina enchufable más barata del mundo; en Europa, la prueba de lo que cuesta la escala.",

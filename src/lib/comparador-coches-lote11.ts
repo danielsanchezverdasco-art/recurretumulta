@@ -50,7 +50,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "436 CV y 650 Nm: el pick-up híbrido enchufable más potente de su clase",
-      "90 km WLTP en modo eléctrico: el día a día sin gastar gasolina",
+      "90 km WLTP en eléctrico para el uso diario sin tocar la gasolina",
       "Carga útil de 790 kg y 2.500 kg de remolque: un pick-up para trabajar de verdad",
       "V2L de 6 kW: alimenta herramientas y electrodomésticos donde no hay enchufe",
       "Llegada a España prevista en el segundo semestre de 2026 con la red BYD",

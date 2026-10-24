@@ -1360,7 +1360,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Hasta 460 CV con tracción total: el Chery más potente",
-      "220 km CLTC en eléctrico y 1.400 km de autonomía total",
+      "Autonomía total de 1.400 km (220 km CLTC en eléctrico)",
       "6 plazas 2+2+2 con butacas individuales en la segunda fila",
       "Pantalla de 30\" + pantalla de techo de 17,3\" para las plazas traseras",
       "LiDAR en el techo y 23 altavoces: arsenal tecnológico total",

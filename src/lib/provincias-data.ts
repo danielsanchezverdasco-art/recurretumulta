@@ -880,7 +880,7 @@ export const PROVINCIAS: Provincia[] = [
       "multas tráfico Albacete",
       "DGT Albacete recurso",
     ],
-    faq: [{ pregunta: "¿Cómo recurro en Albacete?", respuesta: "La Jefatura de Tráfico de Albacete está en Avda. de España, 3. También puedes usar sede.dgt.gob.es con certificado digital o Cl@ve." }],
+    faq: [{ pregunta: "¿Cómo recurro en Albacete?", respuesta: "La Jefatura Provincial de Tráfico de Albacete está en C/ Alcalde José María de Miguel, 1, 02001 Albacete. También puedes tramitarlo en la sede electrónica de la DGT, con certificado digital o Cl@ve." }],
   },
   {
     slug: "burgos",

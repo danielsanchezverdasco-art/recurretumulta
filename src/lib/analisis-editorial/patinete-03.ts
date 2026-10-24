@@ -62,9 +62,9 @@ export const ANALISIS_PATINETE_03: MapaAnalisis = {
   },
   "joyor-s5-pro": {
     parrafos: [
-      "El S5 Pro lleva el alcance urbana a otro nivel dentro de su tarifa: 90 km homologados —aproximadamente 61 en uso real— con un bloque energético de 1.248 Wh, cifras que normalmente pertenecen a modelos bastante más caros. La unidad motriz de 500 W es modesto pero suficiente para los 25 km/h legales, y los 22,1 kg de peso resultan sorprendentemente contenidos para semejante batería. A 529 €, es difícil encontrar más kilómetros por euro en el segmento VMP.",
+      "El S5 Pro lleva el alcance urbana a otro nivel dentro de su tarifa: 90 km homologados —aproximadamente 61 en uso real— gracias a sus 1.248 Wh de batería, cifras que normalmente pertenecen a modelos bastante más caros. La unidad motriz de 500 W es modesto pero suficiente para los 25 km/h legales, y los 22,1 kg de peso resultan sorprendentemente contenidos para semejante batería. A 529 €, es difícil encontrar más kilómetros por euro en el segmento VMP.",
       "Su velocidad máxima declarada es de 20 km/h, un escalón por debajo del límite legal de 25, lo que puede resultar frustrante en tramos abiertos donde otros VMP ruedan más rápido. La capacidad de carga de 120 kg y las gomas de 10 pulgadas completan un conjunto pensado para rodar mucho y despacio, no para correr. Es el vehículo del repartidor o del viajero diario de extrarradio: radio de acción bruta a precio mínimo.",
-      "Su gran baza es el acumulador de 1.248 Wh con 90 km homologados por 529 €, en apenas 22,1 kg: ligero para semejante alcance. Pero llega limitado a 20 km/h por la norma alemana —lento para España—, la certificación ABE no equivale al sello DGT español, y los 500 W van justos en cuestas con 120 kg encima. El display, además, se queda pequeño.",
+      "Su gran baza es una batería de 1.248 Wh que homologa 90 km por 529 €, en apenas 22,1 kg: ligera para semejante alcance. Pero su máxima está limitada a 20 km/h por la normativa alemana —lento para España—, la certificación ABE no equivale al sello DGT español, y los 500 W van justos en cuestas con 120 kg encima. El display, además, se queda pequeño.",
     ],
     veredicto: "Para quien necesita máxima autonomía citadina por poco dinero; no para quien priorice la velocidad punta legal.",
   },
