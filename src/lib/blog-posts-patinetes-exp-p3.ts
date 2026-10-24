@@ -2766,7 +2766,7 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
 |---|---|
 | **Motor** | 1.000 W |
 | **Batería** | 48 V 15 Ah (720 Wh) |
-| **Autonomía declarada** | 65 km |
+| **Autonomía declarada** | 64 km |
 | **Autonomía real estimada** | 40–45 km |
 | **Velocidad máxima** | 45 km/h (limitado a 25 en vía pública) |
 | **Ruedas** | 11" todoterreno |
@@ -2843,7 +2843,7 @@ Si pesas 70 kg y tu ruta es llana, te sobra la mitad de la potencia: un <a href=
 
 | Versión | Potencia | Acumulador | Autonomía | Carga límite | Precio orientativo |
 |---|---|---|---|---|---|
-| **iX5S** | **1.000 W** | **720 Wh** | 65 km | **150 kg** | ~430 € |
+| **iX5S** | **1.000 W** | **720 Wh** | 64 km | **150 kg** | ~430 € |
 | iX4 | 800 W | 720 Wh | 40–45 km | 150 kg | ~380 € |
 | iX7 Pro | 2 × 1.000 W | 960 Wh | 80 km | 150 kg | ~700 € |
 | iX3 | 800 W | 480 Wh | 40 km | 120 kg | ~330 € |
