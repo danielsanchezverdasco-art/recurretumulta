@@ -1186,8 +1186,8 @@ export const COCHES_LOTE2: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["800 V con SiC y LiDAR por ~28.000 €: tecnología de premium", "Doble oferta EV (620 km) y EREV (sin ansiedad de carga)", "2.922 mm de batalla: espacio de berlina grande", "Conducción asistida SDA de nivel 2+", "Diseño elegante y aerodinámico"],
-    contras: ["Precio aún no publicado: la estimación puede variar", "No se vende en Europa: sin red ni postventa", "Marca desconocida fuera de China", "Sin datos de seguridad Euro NCAP", "La versión EREV mantiene un motor de gasolina (mantenimiento dual)"],
+    pros: ["El C390 combina 800 V con SiC y LiDAR por unos 28.000 €: tecnología de premium", "Ofrece doble opción, EV con 620 km y EREV sin ansiedad de carga", "Con 2.922 mm de batalla, el espacio es de berlina grande", "La conducción asistida SDA del C390 es de nivel 2+", "El diseño del C390 es elegante y aerodinámico"],
+    contras: ["El precio del C390 aún no está publicado, así que la estimación puede variar", "No se vende en Europa: sin red ni postventa aquí", "Fuera de China, la marca Nevo es desconocida", "No hay datos de seguridad Euro NCAP para el C390", "La versión EREV mantiene un motor de gasolina, con mantenimiento dual"],
     imagen: "/media/nevo-c390-2025-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/nevo-c390-2025-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/nevo-c390-2025-precio-ficha-tecnica-3.webp",
@@ -1197,9 +1197,9 @@ export const COCHES_LOTE2: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-1.webp", alt: "Nevo C390 (Changan), berlina eléctrica con 800 V y LiDAR", ancho: 1600, alto: 913 },
-      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-2.webp", alt: "Changan Nevo C390, vista lateral de la berlina tecnológica", ancho: 1600, alto: 879 },
-      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-3.webp", alt: "Nevo C390, frontal con LiDAR integrado", ancho: 1600, alto: 743 },
+      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-1.webp", alt: "Berlina eléctrica Nevo C390 de Changan, con arquitectura de 800 V y LiDAR", ancho: 1600, alto: 913 },
+      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-2.webp", alt: "Vista lateral del Changan Nevo C390, berlina tecnológica", ancho: 1600, alto: 879 },
+      { src: "/media/nevo-c390-2025-precio-ficha-tecnica-3.webp", alt: "Frontal del Nevo C390 con el LiDAR integrado", ancho: 1600, alto: 743 },
     ],
     mantenimientoDIY: null,
     euroncap: {

@@ -446,20 +446,8 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     bateriaKwh: 102,
     cargaRapidaKw: 600,
     etiquetaDgt: "Cero",
-    pros: [
-      "697 CV (520 kW) y 700 Nm: 0-100 en 4,3 s para un SUV de 5,37 m",
-      "Cambio de batería en ~3 minutos en más de 4.000 estaciones en China",
-      "Arquitectura de 900 V con carga de hasta 600 kW (5C)",
-      "102 kWh CATL con 620 km CLTC y 6 plazas ejecutivas",
-      "Suspensión activa SkyRide y chips propios Shenji NX9031",
-    ],
-    contras: [
-      "Solo a la venta en China: sin precio ni fecha para Europa",
-      "El cambio de batería exige estaciones Nio, inexistentes en España",
-      "Sin homologación WLTP publicada (620 km en ciclo CLTC)",
-      "Desde ~66.130 € al cambio: territorio premium europeo",
-      "Peso y tamaño (5,37 m) complican el uso urbano",
-    ],
+    pros: ["Para un SUV de 5,37 m, el ES9 resuelve el 0-100 en 4,3 segundos con 697 CV, 520 kW, y 700 Nm", "El ES9 cambia de batería en unos 3 minutos en más de 4.000 estaciones en China", "La arquitectura de 900 V del ES9 admite carga de hasta 600 kW, a 5C", "La batería CATL de 102 kWh del ES9 da 620 km CLTC y 6 plazas ejecutivas", "El ES9 lleva suspensión activa SkyRide y chips propios Shenji NX9031"],
+    contras: ["El ES9 solo está a la venta en China: Europa no tiene precio ni fecha", "El cambio de batería del ES9 exige estaciones Nio, inexistentes en España", "El ES9 no tiene homologación WLTP publicada: 620 km en ciclo CLTC", "El ES9 parte de unos 66.130 € al cambio: territorio premium europeo", "El peso y el tamaño del ES9, de 5,37 m, complican el uso urbano"],
     largoMm: 5365,
     anchoMm: 2029,
     altoMm: 1870,
@@ -483,7 +471,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 212,
       notas:
-        "15.000 km/año, consumo estimado de 20 kWh/100 km (Nio no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "Para este ES9, el cálculo usa 15.000 kilómetros anuales y un consumo estimado de 20 kWh cada 100 km, porque Nio no publica WLTP; además, luz doméstica a 0,18 €/kWh y cobertura a todo riesgo. El modelo solo se vende en China y el precio es el cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -501,7 +489,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       },
       {
         src: "/media/nio-es9-2026-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Interior del Nio ES9, butacas ejecutivas de la segunda fila",
+        alt: "Habitáculo del Nio ES9 con las butacas ejecutivas traseras",
         ancho: 1280,
         alto: 720,
       },

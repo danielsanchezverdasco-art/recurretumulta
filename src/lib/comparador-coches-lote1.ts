@@ -1560,20 +1560,8 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     bateriaKwh: 102.0,
     cargaRapidaKw: 420,
     etiquetaDgt: "Cero",
-    pros: [
-      "707 CV y 700 Nm: 0-100 km/h en 3,9 s en un SUV familiar",
-      "Batería de 102 kWh con 655 km CLTC y carga de 420 kW",
-      "Batería de 120 kWh en camino: ~250 km en 5 minutos",
-      "Intercambio de batería: la seña de identidad de NIO",
-      "Programa BaaS: el precio baja al alquilar la batería",
-    ],
-    contras: [
-      "Precio orientativo de ~53.000 € con batería en China",
-      "Sin fecha de llegada a Europa confirmada",
-      "Red de intercambio de baterías inexistente fuera de China",
-      "Tamaño XXL: pensado para el mercado chino",
-      "Autonomía CLTC: la WLTP europea será menor",
-    ],
+    pros: ["El ES8, un SUV familiar, despacha el 0-100 en 3,9 segundos con 707 CV y 700 Nm", "La batería de 102 kWh del ES8 da 655 km CLTC y carga a 420 kW", "La batería de 120 kWh del ES8 está en camino y promete unos 250 km con 5 minutos de carga", "El intercambio de batería es la seña de identidad del ES8 y de NIO", "Con el programa BaaS del ES8, el precio baja al alquilar la batería"],
+    contras: ["El precio del ES8 es orientativo, unos 53.000 € con batería en China", "El ES8 no tiene fecha de llegada a Europa confirmada", "La red de intercambio de baterías del ES8 es inexistente fuera de China", "El tamaño XXL del ES8 está pensado para el mercado chino", "La autonomía del ES8 es CLTC: la WLTP europea será menor"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1596,13 +1584,13 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 190,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china con batería.",
+        "Cálculo para este ES8: 15.000 kilómetros al año, electricidad a 0,18 €/kWh y póliza a todo riesgo. El precio orientativo parte de la tarifa china con batería.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/nio-es8-2025-hero.webp",
-        alt: "NIO ES8 2025, nueva generación del SUV eléctrico (imagen oficial)",
+        alt: "La nueva generación del SUV eléctrico NIO ES8 2025, imagen oficial",
         ancho: 1920,
         alto: 1280,
       },
@@ -1614,7 +1602,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       },
       {
         src: "/media/nio-es8-2025-interior.webp",
-        alt: "NIO ES8, vista exterior del SUV de 707 CV",
+        alt: "Vista exterior del SUV NIO ES8 de 707 CV",
         ancho: 1920,
         alto: 1280,
       },

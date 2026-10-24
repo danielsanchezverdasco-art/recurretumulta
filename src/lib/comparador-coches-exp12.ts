@@ -873,20 +873,8 @@ export const COCHES_EXP12: CocheComparador[] = [
     bateriaKwh: 42.1,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: [
-      "Urbano eléctrico de 4,0 metros con tracción trasera",
-      "330 km de autonomía WLTP con batería LFP de 42,1 kWh",
-      "Carga rápida de 100 kW: del 10 al 80 % en 29 minutos",
-      "Frunk delantero de 92 litros",
-      "5 estrellas Euro NCAP en 2025",
-    ],
-    contras: [
-      "En España aún sin fecha de venta: en Países Bajos parte de 29.900 €",
-      "150 km/h de velocidad máxima",
-      "143 CV: justo para salir a autopista cargado",
-      "Sin maletero trasero publicado oficialmente",
-      "Marca premium china con red europea aún pequeña",
-    ],
+    pros: ["El Firefly es un urbano eléctrico de 4,0 metros con tracción trasera", "Con su batería LFP de 42,1 kWh, el Firefly homologa 330 km WLTP", "Con 100 kW de carga rápida, el Firefly recupera del 10 al 80 % en 29 minutos", "El frunk delantero del Firefly es de 92 litros", "El Firefly obtuvo 5 estrellas Euro NCAP en 2025"],
+    contras: ["El Firefly aún no tiene fecha de venta en España: en Países Bajos parte de 29.900 €", "El Firefly tiene una velocidad máxima de 150 km/h", "Los 143 CV del Firefly son justos para salir a autopista cargado", "El Firefly no tiene maletero trasero publicado oficialmente", "Nio es una marca premium china con red europea aún pequeña para el Firefly"],
     largoMm: 4003,
     anchoMm: 1885,
     altoMm: 1557,
@@ -904,13 +892,13 @@ export const COCHES_EXP12: CocheComparador[] = [
     galeria: [
       {
         src: "/media/nio-firefly-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nio Firefly 2025 urbano eléctrico en calle europea",
+        alt: "El urbano eléctrico Nio Firefly 2025 en una calle europea",
         ancho: 1920,
         alto: 1280,
       },
       {
         src: "/media/nio-firefly-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Nio Firefly 2025, vista delantera con faros redondos",
+        alt: "Vista delantera del Nio Firefly 2025 con sus faros redondos",
         ancho: 1920,
         alto: 1280,
       },
@@ -939,8 +927,8 @@ export const COCHES_EXP12: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Doble motor y 700 Nm para moverse como una berlina deportiva: 4,0 segundos hasta 100 km/h pese al portón familiar", "Con la batería de 100 kWh de esta versión declara 560 km WLTP, 125 km más que la variante de 75 kWh", "450 litros que pasan a 1.300 al abatir los respaldos 40:20:40, con una capacidad de remolque de 1.400 kg", "En los países europeos con estaciones Power Swap puedes salir con otra batería en menos de cinco minutos en vez de esperar una recarga completa"],
-    contras: ["Los 68.500 € son el precio alemán de la versión de 100 kWh: NIO no lanzó el ET5 Touring oficialmente en España ni tenía red propia aquí", "Para medir 4.790 mm de largo, 450 litros se quedan cortos en un familiar pensado para cargar en vacaciones", "La configuración básica ya ronda los 2.210 kg, un lastre que penaliza consumo y desgaste de neumáticos y frenos", "Su gran baza, el intercambio de batería, no se puede aprovechar en España y en Europa quedó limitado a los países de lanzamiento"],
+    pros: ["El ET5 Touring 2026 combina doble motor y 700 Nm para moverse como una berlina deportiva: 4,0 segundos hasta 100 km/h pese al portón familiar", "Con la batería de 100 kWh de esta versión, el ET5 Touring 2026 declara 560 km WLTP, 125 km más que la variante de 75 kWh", "El ET5 Touring 2026 ofrece 450 litros que pasan a 1.300 al abatir los respaldos 40:20:40, con una capacidad de remolque de 1.400 kg", "En los países europeos con estaciones Power Swap, el ET5 Touring 2026 puede salir con otra batería en menos de cinco minutos en vez de esperar una recarga completa"],
+    contras: ["Los 68.500 € del ET5 Touring 2026 son el precio alemán de la versión de 100 kWh: NIO no lanzó el ET5 Touring oficialmente en España ni tenía red propia aquí", "Para medir 4.790 mm de largo, los 450 litros del ET5 Touring 2026 se quedan cortos en un familiar pensado para cargar en vacaciones", "La configuración básica del ET5 Touring 2026 ya ronda los 2.210 kg, un lastre que penaliza consumo y desgaste de neumáticos y frenos", "La gran baza del ET5 Touring 2026, el intercambio de batería, no se puede aprovechar en España y en Europa quedó limitada a los países de lanzamiento"],
     largoMm: 4790,
     anchoMm: 1960,
     altoMm: 1499,
@@ -958,7 +946,7 @@ export const COCHES_EXP12: CocheComparador[] = [
     galeria: [
       {
         src: "/media/nio-et5-touring-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Nio ET5 Touring 2026 familiar eléctrico en carretera",
+        alt: "El familiar eléctrico Nio ET5 Touring 2026 rodando por carretera",
         ancho: 1920,
         alto: 1280,
       },
@@ -993,8 +981,8 @@ export const COCHES_EXP12: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: ["Sus dos motores suman 490 CV y 700 Nm y lo lanzan de 0 a 100 km/h en 4,5 s, cifras de SUV deportivo en un familiar eléctrico de 4.854 mm", "La batería se carga a 140 kW en continua y además es intercambiable en las estaciones Power Swap de NIO, una solución que sus rivales europeos no ofrecen", "Conserva 579 litros de maletero y cinco plazas pese a la tracción total, así que sirve para viajar cargado sin pasar a un SUV más grande", "Euro NCAP le otorgó cinco estrellas en 2024, con un 93 % en protección de ocupantes adultos según la nota oficial de NIO"],
-    contras: ["Pide 79.900 € con la batería de 100 kWh en propiedad para 500 km WLTP, una autonomía justa para ese precio (con BaaS, alquilando la batería con cuota mensual, sale más barato)", "El consumo declarado de 20,1 kWh/100 km anticipa paradas frecuentes en autovía si se viaja cargado y se aprovechan sus 490 CV", "La ventaja del intercambio de batería apenas se disfruta desde España: el lanzamiento europeo se limitó a Alemania, Países Bajos, Suecia, Dinamarca y Noruega", "Mide 1.995 mm de ancho, así que en garajes estrechos y calles viejas resulta mucho más aparatoso de lo que su longitud ya sugiere"],
+    pros: ["Los dos motores del EL6 2026 suman 490 CV y 700 Nm y tardan 4,5 segundos en llevarlo a 100 km/h, un ritmo de SUV deportivo en un familiar eléctrico de 4.854 mm", "La batería del EL6 2026 se carga a 140 kW en continua y además es intercambiable en las estaciones Power Swap de NIO, una solución que sus rivales europeos no ofrecen", "El EL6 2026 conserva 579 litros de maletero y cinco plazas pese a la tracción total, así que sirve para viajar cargado sin pasar a un SUV más grande", "Euro NCAP otorgó al EL6 cinco estrellas en 2024; la protección de ocupantes adultos llegó al 93 % según la nota oficial de NIO"],
+    contras: ["El EL6 2026 pide 79.900 € con la batería de 100 kWh en propiedad para 500 km WLTP, una autonomía justa para ese precio; con BaaS, alquilando la batería con cuota mensual, sale más barato", "El consumo declarado del EL6 2026, de 20,1 kWh cada 100 km, anticipa paradas frecuentes en autovía si se viaja cargado y se aprovechan sus 490 CV", "La ventaja del intercambio de batería del EL6 2026 apenas se disfruta desde España: el lanzamiento europeo se limitó a Alemania, Países Bajos, Suecia, Dinamarca y Noruega", "El EL6 2026 mide 1.995 mm de ancho, así que en garajes estrechos y calles viejas resulta mucho más aparatoso de lo que su longitud ya sugiere"],
     largoMm: 4854,
     anchoMm: 1995,
     altoMm: 1703,
@@ -1012,7 +1000,7 @@ export const COCHES_EXP12: CocheComparador[] = [
     galeria: [
       {
         src: "/media/nio-el6-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Nio EL6 2026 SUV eléctrico en paisaje de montaña",
+        alt: "Nio EL6 2026, SUV eléctrico fotografiado en la montaña",
         ancho: 1920,
         alto: 1280,
       },

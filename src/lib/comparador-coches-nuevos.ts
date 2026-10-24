@@ -4535,16 +4535,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     bateriaKwh: 1.2,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: [
-      "Etiqueta ECO con un precio de acceso contenido",
-      "Consumo homologado de 4,7 l/100 km",
-      "Diseño urbano con mucha personalidad",
-    ],
-    contras: [
-      "Maletero de 354 litros, justo para el segmento",
-      "Prestaciones modestas: 10,1 s de 0 a 100",
-      "La versión de gasolina equivalente es más barata",
-    ],
+    pros: ["El Juke Hybrid 143 CV combina etiqueta ECO con un precio de acceso contenido", "El consumo homologado del Juke Hybrid 143 CV es de 4,7 litros cada 100 km", "El Juke Hybrid 143 CV conserva un diseño urbano muy personal"],
+    contras: ["Los 354 litros del Juke Hybrid 143 CV son justos para el segmento", "Las prestaciones del Juke Hybrid 143 CV son modestas: 10,1 segundos de 0 a 100", "La versión de gasolina equivalente al Juke Hybrid 143 CV es más barata"],
     largoMm: 4210,
     anchoMm: 1800,
     altoMm: 1593,

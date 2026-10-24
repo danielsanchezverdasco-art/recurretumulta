@@ -1536,20 +1536,8 @@ export const COCHES_LOTE11: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: [
-      "1 MW (1.360 CV) con cuatro motores: uno por rueda",
-      "Récord de Nürburgring para eléctricos: 6:45.90",
-      "0-200 km/h en 7,1 s y 313 km/h de velocidad máxima",
-      "Batería intercambiable en 45 minutos: adiós a la espera de carga",
-      "Solo 16 unidades: el hiperdeportivo eléctrico más exclusivo del mundo",
-    ],
-    contras: [
-      "Precio orientativo (~1.400.000 €): nunca se vendió al público general",
-      "No es un coche de calle: es una máquina de récords",
-      "427 km de autonomía que se evaporan en circuito",
-      "Mantenimiento a medida, solo en el programa NIO",
-      "Sin pruebas Euro NCAP ni homologación europea",
-    ],
+    pros: ["Cuatro motores, uno por rueda, suman en el EP9 1 MW, equivalentes a 1.360 CV", "En Nürburgring, el EP9 marcó 6:45.90, récord entre los eléctricos", "El EP9 pasa de 0 a 200 km/h en 7,1 segundos y llega a 313 km/h de velocidad máxima", "La batería del EP9 se cambia en 45 minutos, sin espera de carga", "Solo se fabricaron 16 unidades del EP9: el hiperdeportivo eléctrico más exclusivo del mundo"],
+    contras: ["El EP9 nunca se vendió al público general: su precio orientativo ronda 1.400.000 €", "El EP9 no sirve para la calle: es una máquina de récords", "Los 427 km de autonomía del EP9 se evaporan en circuito", "El mantenimiento del EP9 es a medida, solo en el programa NIO", "El EP9 no tiene pruebas Euro NCAP ni homologación europea"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1572,7 +1560,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 3000,
       costeMensualTotal: 1250,
       notas:
-        "Estimación orientativa para un hiperdeportivo de colección con 15.000 km/año. Consumo estimado en 25 kWh/100 km.",
+        "Estimación orientativa para este hiperdeportivo de colección, el EP9, con 15.000 kilómetros al año y un consumo estimado de 25 kWh cada 100 km.",
       estimado: true,
     },
     galeria: [
@@ -1584,13 +1572,13 @@ export const COCHES_LOTE11: CocheComparador[] = [
       },
       {
         src: "/media/nio-ep9-2024-oficial.webp",
-        alt: "NIO EP9, vista frontal del hiperdeportivo de 1.360 CV",
+        alt: "Vista frontal del hiperdeportivo NIO EP9 de 1.360 CV",
         ancho: 1600,
         alto: 1199,
       },
       {
         src: "/media/nio-ep9-2024-interior.webp",
-        alt: "Cockpit del NIO EP9 con volante de competición",
+        alt: "El cockpit del NIO EP9 y su volante de competición",
         ancho: 1920,
         alto: 1080,
       },

@@ -1,0 +1,12 @@
+Comando de verificación (ejecutado en ~/workspace/wt-unico50-n-001, rama unico-coches-50-n-001):
+  python3 hidden_files-unico-n/verify_final.py
+Método: ventanas de 8 palabras (tokenización alfanumérica en minúsculas) del texto
+nuevo de cada ficha (pros, contras, notas de coste mensual, mantenimiento y alts)
+contra (a) todo el texto propio del resto del repo (fichas en
+src/lib/comparador-coches-*.ts y contenidos de blog en src/lib/blog-posts-*.ts,
+excluidas solo navegación y filas de tabla) y (b) el texto nuevo de las otras
+49 fichas de la tanda. Se excluyen del corpus los textos viejos sustituidos.
+Resultado final: FINAL_TOTAL_COLISIONES=0 en 50 fichas, 0 textos nuevos
+duplicados literales en otra página.
+Nota: los blogs de estos mismos slugs NO se reescriben en esta tanda (solo el
+texto de datos de las fichas); quedan para una asignación posterior.

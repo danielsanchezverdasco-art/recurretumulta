@@ -254,14 +254,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 7.6,
     consumo: 18.1,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "2.119 kg de peso que se notan en el consumo real, lejos de los 18,1 kWh/100 km homologados",
-      "Los 130 kW de carga quedan por debajo de rivales coreanos que superan los 200 kW",
-      "Solo disponible con tracción delantera; el e-4ORCE total cuesta bastante más",
-      "Ventas testimoniales en España (147 unidades en 2026): valor de reventa e infraestructura inciertos",
-      "A igualdad de precio, la competencia china ofrece más autonomía por euro",
-      "El sistema multimedia y los mandos táctiles están un paso por detrás de los mejores del segmento"
-    ],
+    contras: ["Los 2.119 kg del Ariya 87 kWh 242 2026 se notan en el consumo real, lejos de los 18,1 kWh cada 100 km homologados", "En continua, el Ariya 87 kWh 242 2026 admite hasta 130 kW, por debajo de rivales coreanos que superan los 200 kW", "El Ariya 87 kWh 242 2026 solo se ofrece con tracción delantera; el e-4ORCE total cuesta bastante más", "Las ventas del Ariya 87 kWh 242 2026 son testimoniales en España, 147 unidades en 2026: valor de reventa e infraestructura inciertos", "A igualdad de precio, la competencia china ofrece más autonomía por euro que el Ariya 87 kWh 242 2026", "El sistema multimedia y los mandos táctiles del Ariya 87 kWh 242 2026 quedan por detrás de los mejores del segmento"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
@@ -274,13 +267,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/nissan/ariya/2022/estandar/estandar/ariya-engage-178-kw-242-cv-87-kwh-4x2/datos",
     galeria: [
       {
-        alt: "Nissan Ariya 87 kWh 242 2026, vista lateral exterior",
+        alt: "Vista lateral exterior del Nissan Ariya 87 kWh 242 2026",
         alto: 865,
         ancho: 1538,
         src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Ariya 87 kWh 242 2026 con doble pantalla",
+        alt: "El interior del Nissan Ariya 87 kWh 242 2026 y su doble pantalla",
         alto: 675,
         ancho: 1200,
         src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-interior-oficial.webp"
@@ -303,14 +296,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 242,
     precioDesde: 44250,
-    pros: [
-      "535 km de autonomía WLTP: la versión de mayor alcance de toda la gama Ariya",
-      "5 estrellas Euro NCAP (2022) con un 93 % en asistentes de seguridad",
-      "242 CV y 300 Nm con tracción delantera: el equilibrio más sensato entre prestaciones y eficiencia",
-      "Carga rápida en continua de hasta 130 kW",
-      "Maletero de 468 litros y suelo completamente plano gracias a la plataforma CMF-EV",
-      "Desde 44.250 € es la forma más accesible de tener el Ariya con la batería grande de 87 kWh"
-    ],
+    pros: ["El Ariya 87 kWh 242 2026 anuncia 535 km de autonomía WLTP: la versión de mayor alcance de toda la gama Ariya", "Euro NCAP dio al Ariya 87 kWh 242 2026 cinco estrellas en 2022 y un 93 % en asistentes de seguridad", "El Ariya 87 kWh 242 2026 combina 242 CV y 300 Nm con tracción delantera: el equilibrio más sensato entre prestaciones y eficiencia", "El Ariya 87 kWh 242 2026 carga en continua hasta 130 kW", "El maletero del Ariya 87 kWh 242 2026, de 468 litros, tiene suelo completamente plano gracias a la plataforma CMF-EV", "Desde 44.250 €, el Ariya 87 kWh 242 2026 es la forma más accesible de tener el Ariya con la batería grande de 87 kWh"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: 160,
@@ -331,14 +317,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 8.6,
     consumo: 13.8,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "Carga rápida limitada a 105 kW, frente a los 150 kW de la versión de 75 kWh",
-      "La nueva generación aún no ha sido evaluada por Euro NCAP",
-      "Maletero de 437 litros, por debajo del Kia EV3 (460 L) o el Skoda Elroq (470 L)",
-      "Batería pequeña para viajar: en autopista real los 445 km WLTP se quedan cortos",
-      "Precio de partida elevado frente a rivales como el VW ID.3 o el Citroën ë-C4",
-      "Sin maletero delantero (frunk) para los cables de carga"
-    ],
+    contras: ["La carga rápida del Leaf 52 kWh se limita a 105 kW, frente a los 150 kW de la versión de 75 kWh", "Euro NCAP aún no ha evaluado la nueva generación del Leaf 52 kWh", "El maletero del Leaf 52 kWh, de 437 litros, queda por debajo del Kia EV3, de 460 litros, o el Skoda Elroq, de 470 litros", "El Leaf 52 kWh lleva batería pequeña para viajar: en autopista real, los 445 km WLTP se quedan cortos", "El precio de partida del Leaf 52 kWh es elevado frente a rivales como el VW ID.3 o el Citroën ë-C4", "El Leaf 52 kWh no tiene maletero delantero para los cables de carga"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
@@ -351,13 +330,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/nissan/leaf/informacion",
     galeria: [
       {
-        alt: "Nissan Leaf 52 kWh 2026, vista lateral exterior",
+        alt: "Vista lateral exterior del Nissan Leaf 52 kWh 2026",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Leaf 52 kWh 2026 con doble pantalla",
+        alt: "El interior del Nissan Leaf 52 kWh 2026 y su doble pantalla",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-interior-oficial.webp"
@@ -380,14 +359,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 177,
     precioDesde: 37080,
-    pros: [
-      "Desde 37.080 € es la puerta de acceso al nuevo Leaf 2026, ahora con formato crossover",
-      "445 km WLTP con solo 52 kWh: eficiencia desde 13,8 kWh/100 km, de las mejores del segmento",
-      "Cx de 0,25, el coeficiente aerodinámico más bajo entre sus rivales directos",
-      "177 CV y 345 Nm con un 0-100 en 8,6 s: más que suficiente para todo uso",
-      "Plataforma CMF-EV compartida con el Ariya y los Renault Megane y Scenic E-Tech",
-      "Garantía de la batería de 8 años o 160.000 km según la web oficial de Nissan España"
-    ],
+    pros: ["Desde 37.080 €, el Leaf 52 kWh es la puerta de acceso al nuevo Leaf 2026, ahora con formato crossover", "El Leaf 52 kWh anuncia 445 km WLTP con solo 52 kWh: eficiencia desde 13,8 kWh cada 100 km, de las mejores del segmento", "El Leaf 52 kWh tiene un Cx de 0,25, el coeficiente aerodinámico más bajo entre sus rivales directos", "El Leaf 52 kWh combina 177 CV y 345 Nm con un 0-100 en 8,6 segundos: más que suficiente para todo uso", "El Leaf 52 kWh usa la plataforma CMF-EV, compartida con el Ariya y los Renault Megane y Scenic E-Tech", "Según la web oficial de Nissan España, la garantía de la batería del Leaf 52 kWh cubre 8 años o 160.000 km"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: null,
@@ -408,14 +380,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 7.6,
     consumo: 13.8,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "Desde 42.080 €: el salto de precio respecto al 52 kWh es notable",
-      "La nueva generación aún no ha pasado las pruebas Euro NCAP",
-      "1.956 kg de peso que penalizan la agilidad en tramos revirados",
-      "Maletero de 437 litros, justo para un crossover familiar de 4,35 m",
-      "Sin maletero delantero para guardar los cables de carga",
-      "Los acabados altos (Advance, Evolve) pierden hasta 38 km de autonomía respecto al Engage"
-    ],
+    contras: ["El Leaf 75 kWh parte de 42.080 €: el salto de precio respecto al 52 kWh es notable", "El Leaf 75 kWh, nueva generación, aún no ha pasado las pruebas Euro NCAP", "Los 1.956 kg del Leaf 75 kWh penalizan la agilidad en tramos revirados", "El maletero del Leaf 75 kWh, de 437 litros, es justo para un crossover familiar de 4,35 m", "En el Leaf 75 kWh tampoco hay frunk donde guardar los cables de carga", "Los acabados altos del Leaf 75 kWh, Advance y Evolve, pierden hasta 38 km de autonomía respecto al Engage"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
@@ -428,13 +393,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/nissan/leaf/informacion",
     galeria: [
       {
-        alt: "Nissan Leaf 75 kWh 2026, vista lateral exterior",
+        alt: "El Nissan Leaf 75 kWh 2026, vista lateral exterior",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Leaf 75 kWh 2026 con doble pantalla",
+        alt: "Habitáculo del Nissan Leaf 75 kWh 2026 con doble pantalla",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-interior-oficial.webp"
@@ -457,14 +422,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 218,
     precioDesde: 42080,
-    pros: [
-      "622 km de autonomía WLTP: la mayor de su segmento, por delante del Kia EV3 y el Skoda Elroq",
-      "218 CV, 355 Nm y un 0-100 en 7,6 s con respuesta inmediata",
-      "Carga rápida de 150 kW: recupera hasta 420 km en unos 30 minutos",
-      "Eficiencia de referencia, desde 13,8 kWh/100 km gracias al Cx de 0,25",
-      "Gestión térmica de la batería mejorada para evitar los problemas de degradación de generaciones anteriores",
-      "Cuesta solo 5.000 € más que el 52 kWh Engage y ofrece 177 km extra de autonomía"
-    ],
+    pros: ["El Leaf 75 kWh homologa 622 km WLTP, la mayor cifra de su segmento, por delante del Kia EV3 y el Skoda Elroq", "El Leaf 75 kWh combina 218 CV y 355 Nm con un 0-100 en 7,6 segundos y respuesta inmediata", "La carga rápida del Leaf 75 kWh, de 150 kW, recupera hasta 420 km en unos 30 minutos", "La eficiencia del Leaf 75 kWh es de referencia, desde 13,8 kWh cada 100 km gracias al Cx de 0,25", "La gestión térmica de la batería del Leaf 75 kWh está mejorada para evitar los problemas de degradación de generaciones anteriores", "El Leaf 75 kWh cuesta solo 5.000 € más que el 52 kWh Engage y ofrece 177 km extra de autonomía"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: null,
