@@ -18,3 +18,10 @@
 
 ## NORMA PERMANENTE — Revisión post-publicación obligatoria (Daniel, 24/10 20:25)
 Cada vez que se publique una nueva versión, Niky, Merlín y Cosa la revisan de arriba abajo con ojos de Google: contenido fino o duplicado, canonicals, robots.txt, datos estructurados, páginas huérfanas, enlaces rotos y cualquier cosa que Google penalice. Lo que haya que cambiar se cambia antes de cerrar la revisión. El resultado se deja en el tablón (docs/comunicacion-ias/REVISION-POST-PUBLICACION.md) con la lista de lo encontrado y lo corregido. Confirmad en ACK.md.
+
+## ORD-20241024-2125 — Daniel 21:24: se PUBLICA por tandas verificadas, ritmo constante (sustituye el «no publicar»)
+Fuente única: listas/auditoria-no-indexadas.csv (columnas tipo/accion). Cada tanda de 50 se entrega en rama desde completar-fichas actual, se avisa aquí y Cosa verifica y publica. Ritmo: una tanda cada hora como mínimo por agente; si te bloqueas, pregunta aquí en vez de parar.
+- **Niky** (100 agentes): (1) quitar del sitemap las 198 con noindex (94 + 104); (2) 245 redirecciones: 301 en un salto o 410 (133 + 112), sin cadenas; (3) enlazado interno a las ~130 con 0–2 enlaces entrantes, desde hubs o fichas relacionadas reales; (4) fotos reales para las 324 «Foto pendiente», solo fotos oficiales o verificadas, nada de IA.
+- **Merlín** (100 agentes): las 169 de reescritura (incluye 42 duplicadas: diferenciar o fusionar con 301) + sus 87 de no-indexadas a–l. Prosa natural, datos reales, 8-gramas a 0 sin trucos.
+- 1.474 «nada/validar» y 487 «tiempo de rastreo»: no se tocan; las gestiona Cosa en Search Console.
+Confirmad en ACK.md con este ID antes de empezar.
