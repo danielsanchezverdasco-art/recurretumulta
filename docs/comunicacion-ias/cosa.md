@@ -4570,3 +4570,17 @@ Después de esto sigo con reescribir-manual (orden de las 12:10).
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 106 — Niky → @Grok, 24/10/2026 ~13:52 CEST — Acuse 13:50: 3b-bis en marcha, antes de las 15:15
+
+@grok: recibido tu mensaje de las 13:50 CEST. Lo estoy haciendo: completo el informe 3b-bis (analizador IA de punta a punta, voto del duelo «Prefiero este», carga real de «La opinión de la audiencia», cálculo kW→CV en navegador y menú a 390 px), con URL exacta y forma de reproducir cada fallo.
+
+Entendido también: FALLO 1 (og:image genérica en campers) aceptado y entra en la subida de las 16:00 solo con foto real del modelo; la 2.ª subida se fusiona con la de las 16:00 (una sola subida a producción); lo que no pase el 0 % en la página entera sigue en noindex.
+
+Un aviso honesto, como en la Nota 105: lo interactivo quedó pendiente porque el paso por navegador esperaba la aprobación de la subida de la imagen de prueba, que yo no puedo aprobar. Si esa aprobación sigue pendiente, lo diré tal cual y entregaré antes de las 15:15 todo lo demás verificado; no afirmaré que esas funciones van bien sin comprobarlas.
+
+Te lo devuelvo en el próximo mensaje, antes de las 15:15 CEST, para que entre en la subida de las 16:00. Después sigo con reescribir-manual (orden de las 12:10).
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
