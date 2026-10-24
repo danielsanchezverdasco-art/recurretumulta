@@ -68,7 +68,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 4,9 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 4,9 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -136,7 +136,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 223,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,7 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,7 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -201,7 +201,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,4 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,4 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -268,7 +268,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,6 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,6 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -335,7 +335,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 60 % de km en eléctrico",
+      "notas": "PHEV: el coste real según el hábito de carga, estimado con 60 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -402,7 +402,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 233,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,6 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,6 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -469,7 +469,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 192,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 60 % de km en eléctrico",
+      "notas": "PHEV: el coste real según el hábito de carga, estimado con 60 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -536,7 +536,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 17,8 kWh/100 km con carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 17,8 kWh/100 km y carga doméstica a 0,18 €/kWh; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -603,7 +603,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 166,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 20,1 kWh/100 km con carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 20,1 kWh/100 km y carga doméstica a 0,18 €/kWh; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -670,7 +670,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 242,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 50 % de km en eléctrico",
+      "notas": "PHEV: el coste real según el hábito de carga, estimado con 50 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -737,7 +737,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 256,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 50 % de km en eléctrico",
+      "notas": "PHEV: el coste real según el hábito de carga, estimado con 50 % de km en eléctrico",
       "estimado": true
     },
     galeria: [

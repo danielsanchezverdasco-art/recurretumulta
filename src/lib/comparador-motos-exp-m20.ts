@@ -308,7 +308,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       "Asiento a 705 mm: la más baja y accesible de la gama Kawasaki",
     ],
     contras: [
-      "229 kg en orden de marcha: se notan al moverla en parado",
+      "229 kg en orden de marcha, que se notan al moverla en parado",
       "Estriberas adelantadas: no apta para una conducción deportiva",
       "Suspensión trasera solo regulable en precarga",
       "Sin modos de conducción ni electrónica avanzada",
@@ -547,7 +547,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       ],
       trucos: [
         "La app Rideology muestra notificaciones y registro de rutas en la LCD.",
-        "Revisa la tensión de la cadena cada 1.000 km: el 451 la estira en rodaje.",
+        "Revisa la tensión de la cadena, revisable cada 1.000 km: el 451 la estira en rodaje.",
       ],
     },
   },
@@ -1083,7 +1083,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       trucos: [
         "Sin cadena: la transmisión por correa no necesita engrase.",
         "El sistema Easy Start arranca con una sola pulsación.",
-        "Revisa la presión de los neumáticos cada dos semanas: son estrechos.",
+        "controla la presión de los neumáticos cada dos semanas: son estrechos.",
       ],
     },
   },

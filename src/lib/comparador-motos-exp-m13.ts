@@ -157,7 +157,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     aprox: [],
     pros: [
       "Enduro 2T de 124,81 cc perfecta para iniciarse: ligera y juguetona",
-      "Se conduce con el A1 (o el B con 3 años): la puerta de entrada al enduro",
+      "Se conduce con el A1 o bien el B con 3 años): la puerta de entrada al enduro",
       "Precio de 9.999 €: contenida para una 2T de competición",
       "Chasis y parte ciclo renovados en 2025: más estabilidad y tracción",
       "Suspensiones KYB de cartucho cerrado y freno delantero flotante Galfer",
@@ -1296,7 +1296,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     ],
     contras: [
       "36.799 €: precio de superdeportiva italiana",
-      "Postura radical: incómoda para el día a día",
+      "postura radical, poco cómoda para el día a día",
       "Consumo y mantenimiento de altos vuelos",
       "Red de concesionarios muy pequeña en España",
       "El calor del motor se nota en ciudad",

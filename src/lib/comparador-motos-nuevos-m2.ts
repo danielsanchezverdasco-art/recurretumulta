@@ -72,16 +72,16 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "askoll-es2-evo-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
-          queSeCambia: "Inspección general + actualización de software + revisión de frenos y neumáticos",
+          queSeCambia: "inspección general, actualización de software y revisión de frenos y neumáticos",
           costeAproxEur: 80,
         },
         {
           nombre: "Frenos y sistema eléctrico (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de conexiones eléctricas",
+          queSeCambia: "Líquido de frenos, pastillas según desgaste y revisión de conexiones eléctricas",
           costeAproxEur: 140,
         },
       ],
@@ -153,16 +153,16 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "askoll-es3-evo-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
-          queSeCambia: "Inspección general + actualización de software + revisión de frenos y neumáticos",
+          queSeCambia: "inspección general, actualización de software y revisión de frenos y neumáticos",
           costeAproxEur: 80,
         },
         {
           nombre: "Frenos y sistema eléctrico (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de conexiones eléctricas",
+          queSeCambia: "Líquido de frenos, pastillas según desgaste y revisión de conexiones eléctricas",
           costeAproxEur: 140,
         },
       ],
@@ -234,16 +234,16 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "askoll-ngs2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
-          queSeCambia: "Inspección general + actualización de software + revisión de frenos y neumáticos",
+          queSeCambia: "inspección general, actualización de software y revisión de frenos y neumáticos",
           costeAproxEur: 80,
         },
         {
           nombre: "Frenos y sistema eléctrico (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de conexiones eléctricas",
+          queSeCambia: "Líquido de frenos, pastillas según desgaste y revisión de conexiones eléctricas",
           costeAproxEur: 140,
         },
       ],
@@ -315,16 +315,16 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "askoll-ngs3-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
-          queSeCambia: "Inspección general + actualización de software + revisión de frenos y neumáticos",
+          queSeCambia: "inspección general, actualización de software y revisión de frenos y neumáticos",
           costeAproxEur: 80,
         },
         {
           nombre: "Frenos y sistema eléctrico (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de conexiones eléctricas",
+          queSeCambia: "Líquido de frenos, pastillas según desgaste y revisión de conexiones eléctricas",
           costeAproxEur: 140,
         },
       ],
@@ -358,7 +358,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
       "Rueda alta: el formato más estable para el día a día",
       "Considerado el máximo referente de la marca en prestaciones y calidad",
       "Silencio y etiqueta Cero para moverse por cualquier ZBE",
-      "Vale con el A1 o el B convalidado",
+      "Se puede llevar con el A1 o el B convalidado",
       "Diseño italiano con acabados cuidados",
     ],
     contras: [
@@ -396,16 +396,16 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "askoll-xkp-80-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
-          queSeCambia: "Inspección general + actualización de software + revisión de frenos y neumáticos",
+          queSeCambia: "inspección general, actualización de software y revisión de frenos y neumáticos",
           costeAproxEur: 80,
         },
         {
           nombre: "Frenos y sistema eléctrico (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de conexiones eléctricas",
+          queSeCambia: "Líquido de frenos, pastillas según desgaste y revisión de conexiones eléctricas",
           costeAproxEur: 140,
         },
       ],
@@ -522,7 +522,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
       "Doble batería de 4,8 kWh extraíble",
       "Hasta 122 km de autonomía declarada",
       "Diseño icónico con tecnología moderna",
-      "Vale con el A1 o el B convalidado",
+      "Se puede llevar con el A1 o el B convalidado",
     ],
     contras: [
       "6.990 €: cara frente a scooters eléctricos equivalentes",
@@ -641,11 +641,11 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-robo-s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
-          queSeCambia: "Inspección general + revisión de frenos y neumáticos + aprietes",
+          queSeCambia: "inspección general, revisión de frenos y neumáticos, y aprietes",
           costeAproxEur: 60,
         },
         {
@@ -722,11 +722,11 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-miku-max-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
-          queSeCambia: "Inspección general + revisión de frenos y neumáticos + aprietes",
+          queSeCambia: "inspección general, revisión de frenos y neumáticos, y aprietes",
           costeAproxEur: 60,
         },
         {
@@ -765,7 +765,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
       "90 km/h con solo 71 kg: la más ligera de las 125e",
       "100 km de autonomía declarada",
       "Batería extraíble para cargar en casa",
-      "Vale con el A1 o el B convalidado",
+      "Se puede llevar con el A1 o el B convalidado",
       "Etiqueta Cero y coste por km ridículo",
     ],
     contras: [
@@ -803,11 +803,11 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-miku-super-125e-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
-          queSeCambia: "Inspección general + revisión de frenos y neumáticos + aprietes",
+          queSeCambia: "inspección general, revisión de frenos y neumáticos, y aprietes",
           costeAproxEur: 60,
         },
         {
@@ -846,7 +846,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
       "Solo 71 kg: muy manejable en ciudad",
       "Motor de 3.000 W con buena respuesta en bajos",
       "Batería de 40Ah con autonomía suficiente para el día a día",
-      "Vale con el A1 o el B convalidado",
+      "Se puede llevar con el A1 o el B convalidado",
       "Etiqueta Cero: acceso total a ZBE",
     ],
     contras: [
@@ -884,11 +884,11 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-rs-125e-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
-          queSeCambia: "Inspección general + revisión de frenos y neumáticos + aprietes",
+          queSeCambia: "inspección general, revisión de frenos y neumáticos, y aprietes",
           costeAproxEur: 60,
         },
         {
@@ -965,7 +965,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: "https://wearenextmotors.com",
     analisisSlug: "next-nx1-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
@@ -1046,7 +1046,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: "https://wearenextmotors.com",
     analisisSlug: "next-nxplus-ls-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
@@ -1127,7 +1127,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: "https://wearenextmotors.com",
     analisisSlug: "next-nxplus-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
@@ -1208,7 +1208,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: "https://wearenextmotors.com",
     analisisSlug: "next-mojito-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 4.000 km (inspección)",
+      intervalo: "cada 12 meses o 4.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 4.000 km",
@@ -1289,7 +1289,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: "https://wearenextmotors.com",
     analisisSlug: "next-nx2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",
@@ -1298,7 +1298,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
         },
         {
           nombre: "Frenos y transmisión (según desgaste)",
-          queSeCambia: "Líquido de frenos + pastillas (según desgaste) + revisión de correa",
+          queSeCambia: "líquido de frenos, pastillas según desgaste y revisión de correa",
           costeAproxEur: 150,
         },
       ],
@@ -1616,7 +1616,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "efun-pusa-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (inspección)",
+      intervalo: "cada 12 meses o 5.000 km (con inspección)",
       revisiones: [
         {
           nombre: "Inspección anual / 5.000 km",

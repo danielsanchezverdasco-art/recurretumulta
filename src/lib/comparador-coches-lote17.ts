@@ -804,7 +804,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el A6 Avant (C9) no ha sido probado de forma independiente; el A6 e-tron obtuvo 5 estrellas en 2025.",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con tope de 30.000 km o 24 meses, o bien fijo 15.000 km/12 meses",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -818,7 +818,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 420,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "programa LongLife de Audi, red oficial en España)",
     },
   },
 {
@@ -898,7 +898,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2025 (tanda de mayo, válido para Q5 y Q5 Sportback).",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con tope de 30.000 km o 24 meses, o bien fijo 15.000 km/12 meses",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -912,7 +912,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 430,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "programa LongLife de Audi, red oficial en España)",
     },
   },
 {
@@ -992,7 +992,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con tope de 30.000 km o 24 meses, o bien fijo 15.000 km/12 meses",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -1006,7 +1006,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 380,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "programa LongLife de Audi, red oficial en España)",
     },
   },
 {
@@ -1086,7 +1086,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2025 (87/86/80/78, válido para Q3 y Q3 Sportback).",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con tope de 30.000 km o 24 meses, o bien fijo 15.000 km/12 meses",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -1100,7 +1100,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 400,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "programa LongLife de Audi, red oficial en España)",
     },
   },
 {
@@ -1180,7 +1180,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "La calificación de 5 estrellas del A5 (2024) es válida para el S5 Avant.",
     },
     planMantenimiento: {
-      intervalo: "LongLife hasta 30.000 km o 24 meses, o fijo 15.000 km/12 meses",
+      intervalo: "LongLife con tope de 30.000 km o 24 meses, o bien fijo 15.000 km/12 meses",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -1194,7 +1194,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 550,
-      fuente: "Programa LongLife Audi (red oficial Audi España)",
+      fuente: "programa LongLife de Audi, red oficial en España)",
     },
   },
 {
@@ -1499,7 +1499,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "cambio de aceite a los 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
       revisiones: [
         {
           nombre: "Mantenimiento oficial (anual o 15.000 km)",
@@ -1507,8 +1507,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
+          queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen",
           costeAproxEur: 280,
         },
       ],
@@ -1578,7 +1578,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 141,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1611,7 +1611,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "cambio de aceite a los 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
       revisiones: [
         {
           nombre: "Mantenimiento oficial (anual o 15.000 km)",
@@ -1619,8 +1619,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
+          queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen",
           costeAproxEur: 280,
         },
       ],
@@ -1691,7 +1691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 151,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1717,7 +1717,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
+        "cambio de aceite a los 2 años o 30.000 km; servicio de inspección cada 2 años (MY21+)",
       revisiones: [
         {
           nombre: "Mantenimiento oficial (anual o 15.000 km)",
@@ -1725,8 +1725,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 120,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite, filtro de aceite y filtro de polvo y polen",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
+          queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen",
           costeAproxEur: 280,
         },
       ],
@@ -1901,7 +1901,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 276,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 7,6 l/100 km; todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 7,6 l/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1922,7 +1922,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km (LongLife); servicio de inspección anual a partir de los 2 años o 30.000 km",
+        "cambio de aceite a los 2 años o 30.000 km (LongLife); servicio de inspección anual a partir de los 2 años o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio de inspección (anual desde el 2.º año)",
@@ -1930,8 +1930,8 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 90,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
-          queSeCambia: "Aceite LongLife, filtro de aceite y filtro de polvo y polen",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
+          queSeCambia: "Aceite LongLife, filtro de aceite, filtro de polvo y polen",
           costeAproxEur: 280,
         },
       ],
@@ -2219,7 +2219,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección anual o 15.000 km a partir de la primera revisión",
+        "cambio de aceite a los 2 años o 30.000 km; servicio de inspección anual o 15.000 km a partir de la primera revisión",
       revisiones: [
         {
           nombre: "Servicio de inspección (anual o 15.000 km)",
@@ -2227,7 +2227,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 90,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
           queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen y filtro de aire",
           costeAproxEur: 280,
         },
@@ -2297,7 +2297,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 340,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 10,2 l/100 km; todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 10,2 l/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2318,7 +2318,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     },
     planMantenimiento: {
       intervalo:
-        "Cambio de aceite cada 2 años o 30.000 km; servicio de inspección anual o 15.000 km a partir de la primera revisión",
+        "cambio de aceite a los 2 años o 30.000 km; servicio de inspección anual o 15.000 km a partir de la primera revisión",
       revisiones: [
         {
           nombre: "Servicio de inspección (anual o 15.000 km)",
@@ -2326,7 +2326,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
           costeAproxEur: 90,
         },
         {
-          nombre: "Cambio de aceite y filtros (2 años o 30.000 km)",
+          nombre: "cambio de aceite y filtros, a los 2 años o 30.000 km)",
           queSeCambia: "Aceite, filtro de aceite, filtro de polvo y polen y filtro de aire",
           costeAproxEur: 280,
         },
@@ -2954,7 +2954,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite); cambio inicial de rodaje a los 800 km (cárter seco)",
+      intervalo: "12 meses o 15.000 km, según el sistema de vida útil del aceite); cambio inicial de rodaje a los 800 km (cárter seco)",
       revisiones: [
         {
           nombre: "Rodaje / 800 km",
@@ -3053,7 +3053,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite)",
+      intervalo: "12 meses o 15.000 km, según el sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -3251,7 +3251,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite)",
+      intervalo: "12 meses o 12.000 km, según el sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3350,7 +3350,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite)",
+      intervalo: "12 meses o 12.000 km, según el sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",

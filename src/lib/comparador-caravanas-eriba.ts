@@ -102,7 +102,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         {
           nombre: "Revisión anual de la caravana",
           queSeCambia:
-            "Estanqueidad, instalación de gas, electricidad, frenos, neumáticos y mecanismo del techo elevable",
+            "estanqueidad, instalación de gas, electricidad, frenos y neumáticos, y mecanismo del techo elevable",
           costeAproxEur: 200,
         },
       ],
@@ -209,7 +209,7 @@ export const CARAVANAS_ERIBA: CocheComparador[] = [
         {
           nombre: "Revisión anual de la caravana",
           queSeCambia:
-            "Estanqueidad, instalación de gas, electricidad, frenos, neumáticos y techo elevable",
+            "estanqueidad, instalación de gas, electricidad, frenos y neumáticos, y techo elevable",
           costeAproxEur: 200,
         },
       ],

@@ -61,7 +61,7 @@ El Omoda 9 juega en otra liga de prestaciones y tamaño (4,77 m frente a 4,50 m 
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista | 2.270 kg en vacío: el peso se nota en apoyos y frenadas |
+| 537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista | 2.270 kg en vacío, un peso que se nota en apoyos y frenadas |
 | 145 km eléctricos WLTP: la mayor autonomía eléctrica por debajo de 50.000 € | Con la batería agotada gasta 7-7,5 l/100 km reales, lejos del 1,7 homologado |
 | Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV | Maletero de 471 L mejorable para sus 4,77 metros |
 | Equipamiento premium de serie: Nappa, masaje, HUD de 50", 19 ADAS | Suspensión muy orientada al confort, algo blanda en secundarias |
@@ -95,7 +95,7 @@ Con 537 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecu
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   },
   {
     title: "Jaecoo 5: 19.990 €",
@@ -193,7 +193,7 @@ Da igual que sea chino, español o marciano: si te multan, <a href=https://recur
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   },
   {
     title: "Leapmotor B10: desde 27.000 €",
@@ -295,7 +295,7 @@ Fabricado en Zaragoza o en Shenzhen, la DGT multa igual: si te llega una, <a hre
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   },
   {
     title: "BYD Atto 2: desde 18.739 €",
@@ -392,7 +392,7 @@ Ni el más vendido se libra de los radares: si te cazan, <a href=https://recurre
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   },
   {
     title: "Ebro S700: desde 24.990 €",
@@ -490,6 +490,6 @@ Hecho en Barcelona y con 279 CV, el S700 invita a pisarle.
 
 ## Fuentes
 
-- <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
   }
 ];

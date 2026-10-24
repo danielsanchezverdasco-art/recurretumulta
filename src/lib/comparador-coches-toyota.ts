@@ -648,7 +648,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 334,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 10,1 l/100 km y diésel a precio de referencia 1,65 €/l; pick-up de trabajo: seguro y mantenimiento elevados",
+      "notas": "estimado con 15.000 km/año, consumo WLTP 10,1 l/100 km, con diésel a precio de referencia de 1,65 €/l; pick-up de trabajo: seguro y mantenimiento elevados",
       "estimado": true
     },
     galeria: [
@@ -729,7 +729,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y diésel a precio de referencia 1,65 €/l; monovolumen de 5 plazas con uso familiar intensivo",
+      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km, con diésel a precio de referencia de 1,65 €/l; monovolumen de 5 plazas con uso familiar intensivo",
       "estimado": true
     },
     galeria: [
@@ -812,7 +812,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 258,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo orientativo ~7 l/100 km y diésel a precio de referencia 1,65 €/l; monovolumen de 9 plazas con uso intensivo",
+      "notas": "estimado con 15.000 km/año, consumo orientativo ~7 l/100 km, con diésel a precio de referencia de 1,65 €/l; monovolumen de 9 plazas con uso intensivo",
       "estimado": true
     },
     galeria: [
@@ -1400,7 +1400,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 275,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo orientativo 7,3 l/100 km y diésel a precio de referencia 1,65 €/l; furgoneta de trabajo con uso intensivo",
+      "notas": "estimado con 15.000 km/año, consumo orientativo 7,3 l/100 km, con diésel a precio de referencia de 1,65 €/l; furgoneta de trabajo con uso intensivo",
       "estimado": true
     },
     galeria: [

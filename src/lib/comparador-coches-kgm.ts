@@ -65,7 +65,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 278,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l; 15.000 km/año supuestos",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l y 15.000 km anuales supuestos",
       "estimado": true
     },
     galeria: [
@@ -148,7 +148,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l; 15.000 km/año supuestos",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l y 15.000 km anuales supuestos",
       "estimado": true
     },
     galeria: [
@@ -238,7 +238,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 281,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km, ficha oficial KGM España); gasolina 95 aprox 1,85 EUR/l; 15.000 km/año supuestos",
+      "notas": "consumo WLTP declarado (l/100 km, ficha oficial KGM España); gasolina 95 aprox 1,85 EUR/l y 15.000 km anuales supuestos",
       "estimado": true
     },
     galeria: [
@@ -321,7 +321,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 272,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l; 15.000 km/año supuestos",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l y 15.000 km anuales supuestos",
       "estimado": true
     },
     galeria: [
@@ -404,7 +404,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 258,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l; 15.000 km/año supuestos",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l y 15.000 km anuales supuestos",
       "estimado": true
     },
     galeria: [
@@ -824,7 +824,7 @@ export const COCHES_KGM: CocheComparador[] = [
       "costeMensualTotal": 244,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 7,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 7,2 l/100 km, con gasolina a 1,85 €/l, con seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [

@@ -271,7 +271,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia y engrasa la cadena con regularidad: el par del bicilíndrico la castiga.",
-        "Ajusta la tensión según el manual, con la moto en el caballete lateral.",
+        "Ajusta la tensión siguiendo el manual, con la motocicleta en el caballete lateral.",
         "El DCT no requiere mantenimiento del embrague por parte del usuario.",
       ],
       trucos: [
@@ -344,7 +344,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
         "Comprueba la holgura según el manual.",
       ],
       trucos: [
-        "El filtro de aire está bajo el depósito: revisa su estado cada 12.000 km.",
+        "el filtro de aire queda bajo el depósito: revisa su estado cada 12.000 km.",
         "Con 144 kg, el caballete central opcional facilita el mantenimiento.",
       ],
     },
@@ -612,7 +612,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       trucos: [
-        "La correa del variador se revisa cada 12.000 km y se cambia según desgaste.",
+        "la correa del variador se controla cada 12.000 km y se cambia según desgaste.",
         "El Idle Stop tiene batería específica: no la sustituyas por una convencional.",
       ],
     },

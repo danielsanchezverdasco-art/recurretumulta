@@ -275,7 +275,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 223,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 6,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia",
+      "notas": "15.000 km/año; 6,2 l/100 km WLTP, con gasolina a 1,55 €/l; todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -356,7 +356,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 300,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 8,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
+      "notas": "15.000 km/año; 8,3 l/100 km WLTP y diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -518,7 +518,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 264,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 7,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
+      "notas": "15.000 km/año; 7,3 l/100 km WLTP y diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -599,7 +599,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 272,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 7,2 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); seguro de furgoneta a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 7,2 l/100 km WLTP y diésel a 1,45 €/l (campo precioGasolinaL), con seguro de furgoneta a todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -680,7 +680,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 5,6 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
+      "notas": "15.000 km/año; 5,6 l/100 km WLTP y diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -842,7 +842,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 315,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 8,2 l/100 km WLTP; gasolina a 1,55 €/l; seguro deportivo a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 8,2 l/100 km WLTP, con gasolina a 1,55 €/l; seguro deportivo a todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -1084,7 +1084,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 202,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP, con gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1165,7 +1165,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 217,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP, con gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [

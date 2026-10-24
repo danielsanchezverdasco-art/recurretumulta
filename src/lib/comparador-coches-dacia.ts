@@ -62,7 +62,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 191,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,2 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,2 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -103,7 +103,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     pros: [
       "13.940 € con etiqueta ECO de la DGT: la forma más barata de entrar en las ZBE",
       "Doble depósito (50 L gasolina + 40 L GLP): autonomía total de más de 1.000 km",
-      "El GLP cuesta cerca de la mitad que la gasolina por kilómetro",
+      "el GLP supone cerca de la mitad que la gasolina por kilómetro",
       "101 CV con 170 Nm: algo más de empuje que el TCe 90",
       "Instalación de GLP de fábrica, con garantía completa de Dacia",
     ],
@@ -240,7 +240,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,5 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,5 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -281,7 +281,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "15.820 € con etiqueta ECO: el crossover con GLP más barato de España",
       "Doble depósito gasolina + GLP: más de 1.000 km de autonomía total",
       "Etiqueta ECO: entra en las ZBE y aparca con bonificación en muchas ciudades",
-      "El GLP cuesta cerca de la mitad que la gasolina por kilómetro",
+      "el GLP supone cerca de la mitad que la gasolina por kilómetro",
       "La versión más vendida del coche más vendido: reventa asegurada",
     ],
     contras: [
@@ -405,7 +405,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,5 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,5 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -470,7 +470,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 6,0 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 6,0 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -536,7 +536,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 197,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km); seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -601,7 +601,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,4 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,4 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -666,7 +666,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 237,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 6,0 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 6,0 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -731,7 +731,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,7 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,7 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -796,7 +796,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km); seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -842,7 +842,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     ],
     contras: [
       "Con las 7 plazas en uso, el maletero se queda en 160 L",
-      "La tercera fila es para niños o trayectos cortos, como en todos los 7 plazas",
+      "la tercera fila sirve para niños o trayectos cortos, como en todos los 7 plazas",
       "Etiqueta C: el ECO-G 120 7 plazas da etiqueta ECO por 30 € más",
       "Peso de la versión 7 plazas no publicado por la marca",
       "Acceso a la tercera fila mejorable frente a puertas correderas",
@@ -861,7 +861,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 5,7 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 5,7 l/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -926,7 +926,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 197,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km); seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km/año; GLP a ~0,95 €/l (4,2 kg/100 km ≈ 7,8 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -992,7 +992,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 106,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "12.000 km/año; 0,18 €/kWh (doméstica) con consumo estimado ~14 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "12.000 km/año; 0,18 €/kWh (doméstica) con consumo estimado ~14 kWh/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1091,7 +1091,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       costeMensualTotal: 192,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 5.0 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo homologado WLTP de 5,0 l/100 km; seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1226,7 +1226,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       costeMensualTotal: 187,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.7 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l, con consumo WLTP de 4.7 l/100 km; seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1290,7 +1290,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       costeMensualTotal: 189,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.8 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l, con consumo WLTP de 4,8 l/100 km, con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1430,7 +1430,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       costeMensualTotal: 179,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 1.000 km/mes, gasóleo a 1,65 €/l y consumo WLTP de 4.8 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasóleo a 1,65 €/l, con consumo WLTP de 4,8 l/100 km, con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1506,7 +1506,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 207,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "15.000 km/año; gasolina a 1,60 €/l con consumo WLTP 4,2 l/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año; gasolina a 1,60 €/l y consumo WLTP 4,2 l/100 km, con seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [

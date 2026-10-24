@@ -84,7 +84,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-rsv4-factory-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
+      intervalo: "revisiones a los 1.000, 10.000, 20.000 km y siguientes, según la tabla de mantenimiento Aprilia)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -93,7 +93,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      fuente: "Orientativo (modelo RS 660 / Tuono 660 similares, misma marca, manual Aprilia)",
     },
   },
   {
@@ -117,7 +117,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: ["Llantas de radios de 21 pulgadas delante y 18 detrás, con neumáticos de tacos pensados para pistas y caminos", "Horquilla invertida de 41 mm con 240 mm de recorrido, un planteamiento de enduro de verdad y no de trail urbano disfrazado", "Discos ondulados de 260 mm delante y 220 mm detrás, con ABS Bosch dotado de función antivuelco en frenadas fuertes", "Chasis de acero de doble viga, compartido con la SX pero aquí al servicio de rodar fuera del asfalto", "Monocilíndrico de 124,2 cc, cuatro válvulas y refrigeración líquida, con respuesta llena en bajos y medios según Motofichas", "En 2025 se puso al día con homologación Euro 5+, iluminación LED y cuadro digital a color con ordenador de a bordo", "Estética minimalista de moto de campo, con placa protectora y variante gráfica Rally Tribute junto al Plata Speedway"],
+    pros: ["Llantas de radios delantera de 21 pulgadas y trasera de 18, con neumáticos de tacos pensados para pistas y caminos", "Horquilla invertida de 41 mm con 240 mm de recorrido, un planteamiento de enduro de verdad y no de trail urbano disfrazado", "Discos ondulados de 260 mm delante y 220 mm detrás, con ABS Bosch dotado de función antivuelco en frenadas fuertes", "Chasis de acero de doble viga, compartido con la SX pero aquí al servicio de rodar fuera del asfalto", "Monocilíndrico de 124,2 cc, cuatro válvulas y refrigeración líquida, con respuesta llena en bajos y medios según Motofichas", "En 2025 se puso al día con homologación Euro 5+, iluminación LED y cuadro digital a color con ordenador de a bordo", "Estética minimalista de moto de campo, con placa protectora y variante gráfica Rally Tribute junto al Plata Speedway"],
     contras: ["Los tacos que tanto ayudan en tierra penalizan sobre asfalto, sobre todo en mojado y en frenadas largas", "Con solo 7 litros de depósito, una salida por pistas obliga a planear la gasolinera mucho antes que en una trail con depósito grande", "La postura de enduro, con rueda delantera de 21 pulgadas, deja el asiento muy arriba: quien mida poco lo notará en cada parada y maniobra en parado", "El ABS que cita la ficha técnica oficial de Aprilia es de un solo canal, un esquema más sencillo que el de doble canal de otras 125 actuales", "No es una enduro de competición: Aprilia la plantea para aprender off-road, por debajo de una máquina radical de campo", "Los 4.500 euros figuran en esta ficha como precio aproximado, no como PVP cerrado, así que toca confirmarlo en concesionario", "A ritmos de vía rápida, con pasajero y equipaje ligero de trail, el techo del carnet A1 se hace notar en adelantamientos"],
     curiosidades: ["La gráfica Rally Tribute es un guiño directo al pasado off-road de Aprilia, la misma herencia que la marca reivindica para las RX y SX", "Comparte base técnica con la SX 125 supermotard, pero se separan en lo esencial: la RX calza 21/18 con tacos y la SX, 17 pulgadas de asfalto", "Su linaje en los catálogos españoles es largo: Motofichas lista generaciones de 2010-2016, 2018-2020 y 2021-2024 antes de la puesta al día Euro 5+ de 2025"],
     imagen: "/media/aprilia-rx-125-2026-hero.webp",
@@ -136,7 +136,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-rx-125-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
+      intervalo: "revisiones a los 1.000, 10.000, 20.000 km y siguientes, según la tabla de mantenimiento Aprilia)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -145,7 +145,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      fuente: "Orientativo (modelo RS 660 / Tuono 660 similares, misma marca, manual Aprilia)",
     },
   },
   {
@@ -188,7 +188,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-sr-gt-200-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
+      intervalo: "revisiones a los 1.000, 10.000, 20.000 km y siguientes, según la tabla de mantenimiento Aprilia)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -197,7 +197,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      fuente: "Orientativo (modelo RS 660 / Tuono 660 similares, misma marca, manual Aprilia)",
     },
   },
   {
@@ -262,7 +262,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     carga: null,
     etiquetaDgt: "C",
     aprox: [],
-    pros: ["Bicilíndrico de 659 cc adaptado a Euro 5+ con cuerpos de inyección de 52 mm: 80 CV a 9.250 rpm y 70 Nm a 6.500 rpm con medios más llenos que en la Tuareg original", "Kayaba de 43 mm con 240 mm de recorrido delante y detrás, pero con hidráulica revisada y muelles lineales en esta Rally para aguantar ritmo fuerte en pistas rotas", "Escape SC Project con silenciador de titanio de 60 mm y llantas Ergal doradas de 21 pulgadas delante y 18 detrás con cámara, pensadas para montar tacos o mousse", "Electrónica APRC con modos Urban, Explore, Off Road e Individual: en Off Road el ABS trasero se desconecta y el delantero se puede anular por completo", "Hija directa de la moto de Aprilia Racing que ganó la Africa Eco Race: guardabarros delantero alto, cubrecárter de aluminio más grueso y guía de cadena tipo enduro de serie", "Depósito de 18 litros colocado bajo para centralizar masas y zona delantera del asiento estrecha, que ayuda a pilotar de pie pese a ser una bicilíndrica de aventura"],
+    pros: ["Bicilíndrico de 659 cc adaptado a Euro 5+ con cuerpos de inyección de 52 mm: 80 CV a 9.250 rpm y 70 Nm a 6.500 rpm con medios más llenos que en la Tuareg original", "Kayaba de 43 mm con 240 mm de recorrido delante y detrás, pero con hidráulica revisada y muelles lineales en esta Rally para aguantar ritmo fuerte en pistas rotas", "Escape SC Project con silenciador de titanio de 60 mm y llantas Ergal doradas delantera de 21 pulgadas y trasera de 18, con cámara, pensadas para montar tacos o mousse", "Electrónica APRC con modos Urban, Explore, Off Road e Individual: en Off Road el ABS trasero se desconecta y el delantero se puede anular por completo", "Hija directa de la moto de Aprilia Racing que ganó la Africa Eco Race: guardabarros delantero alto, cubrecárter de aluminio más grueso y guía de cadena tipo enduro de serie", "Depósito de 18 litros colocado bajo para centralizar masas y zona delantera del asiento estrecha, que ayuda a pilotar de pie pese a ser una bicilíndrica de aventura"],
     contras: ["Asiento de la Rally a 913 mm según las pruebas de referencia, muy por encima de la Tuareg estándar: en parado y en maniobras lentas exige pierna y experiencia", "Los Pirelli Scorpion Rally STR de serie cumplen en asfalto y pista seca, pero en barro o tierra suelta se quedan cortos para el uso exigente que promete el apellido Rally", "Las llantas con cámara ganan en campo, pero un pinchazo es más laborioso de reparar en ruta que con el sistema tubeless de la Tuareg básica", "En la tarifa de 14.050 € el quickshifter sigue siendo un accesorio opcional y no viene montado de serie, pese al enfoque deportivo de esta versión", "El subchasis va integrado en el chasis y no se sustituye por separado si se dobla en una caída fuerte fuera del asfalto"],
     curiosidades: ["El nombre Tuareg viene de las Aprilia trail de finales de los 80 y de los 90; Noale lo recuperó al presentar la 660 en el Salón de Milán de 2021", "Proyecto Back to Africa: Jacopo Cerutti y Aprilia Racing ganaron la Africa Eco Race en 2024 y repitieron en 2025 tras casi 6.000 km hasta el Lago Rosa de Dakar", "La Rally de serie se desarrolló con la experiencia de GCorse y del propio Cerutti: mapa de motor más directo y suspensiones taradas para correr fuera del asfalto"],
     imagen: "/media/aprilia-tuareg-660-rally-2026-hero.webp",
@@ -281,7 +281,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-tuareg-660-rally-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
+      intervalo: "revisiones a los 1.000, 10.000, 20.000 km y siguientes, según la tabla de mantenimiento Aprilia)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -290,7 +290,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      fuente: "Orientativo (modelo RS 660 / Tuono 660 similares, misma marca, manual Aprilia)",
     },
   },
   {
@@ -337,7 +337,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-660-factory-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Controles a los 1.000, 10.000, 20.000 km y siguientes (tabla de mantenimiento Aprilia)",
+      intervalo: "revisiones a los 1.000, 10.000, 20.000 km y siguientes, según la tabla de mantenimiento Aprilia)",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -346,7 +346,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar RS 660 / Tuono 660, misma marca; manual Aprilia)",
+      fuente: "Orientativo (modelo RS 660 / Tuono 660 similares, misma marca, manual Aprilia)",
     },
   },
   {
@@ -471,7 +471,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-leoncino-800-trail-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
+      intervalo: "plazo de servicio cada 6.000 km",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -480,7 +480,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      fuente: "estimación orientativa tomando el TRK 502 similar (misma marca, reseña de propietario)",
     },
   },
   {
@@ -523,7 +523,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-tornado-500-2025",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
+      intervalo: "plazo de servicio cada 6.000 km",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -532,7 +532,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      fuente: "estimación orientativa tomando el TRK 502 similar (misma marca, reseña de propietario)",
     },
   },
   {
@@ -575,7 +575,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-trk-502-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
+      intervalo: "plazo de servicio cada 6.000 km",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -584,7 +584,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      fuente: "estimación orientativa tomando el TRK 502 similar (misma marca, reseña de propietario)",
     },
   },
   {
@@ -627,7 +627,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "benelli-trk-502x-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Intervalo de servicio cada 6.000 km",
+      intervalo: "plazo de servicio cada 6.000 km",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -636,7 +636,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         }
       ],
       costeAnualAproxEur: null,
-      fuente: "Orientativo (modelo similar TRK 502, misma marca; reseña de propietario)",
+      fuente: "estimación orientativa tomando el TRK 502 similar (misma marca, reseña de propietario)",
     },
   },
   {
@@ -719,7 +719,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-c-400-x-2026",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad C 400 X (plan de mantenimiento y confirmaciones de servicio), consultado en ManualsLib; sin costes publicados por BMW, por eso quedan a null", "intervalo": "Cada año o 10.000 km (lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro, test del vehículo con el sistema de diagnosis BMW y limpieza del filtro antipolvo delantero del variador CVT, según el plan de mantenimiento del manual del C 400 X"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Además de lo anterior, revisión del cartucho del filtro de aire, comprobación del juego de válvulas y control de la correa CVT con sustitución si corresponde, operaciones recogidas en el plan de mantenimiento BMW para este modelo"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad C 400 X (plan de mantenimiento y confirmaciones de servicio), consultado en ManualsLib; sin costes publicados por BMW, por eso quedan a null", "intervalo": "cada año o 10.000 km, según lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro, test del vehículo con el sistema de diagnosis BMW y limpieza del filtro antipolvo delantero del variador CVT, según el plan de mantenimiento del manual del C 400 X"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Además de lo anterior, revisión del cartucho del filtro de aire, comprobación del juego de válvulas y control de la correa CVT con sustitución si corresponde, operaciones recogidas en el plan de mantenimiento BMW para este modelo"}]},
   },
   {
     id: "bmw-ce-02-2026",
@@ -761,7 +761,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-ce-02-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
+      intervalo: "cada año o 10.000 km, según lo que ocurra primero)",
       revisiones: [
         {
           nombre: "Revisión menor (10.000 km)",
@@ -817,7 +817,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-f-900-gs-adventure-2026",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de mantenimiento del manual BMW Motorrad de la F 900 GS Adventure e intervalos de mantenimiento de BMW Motorrad (revisión anual independiente del kilometraje y mantenimiento adicional cada 10.000 km)", "intervalo": "Cada año o 10.000 km (lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual o de 10.000 km", "queSeCambia": "Prestación estándar BMW Motorrad con sustitución del aceite del motor y del filtro de aceite, según el plan de mantenimiento del manual de la F 900 GS Adventure"}, {"costeAproxEur": null, "nombre": "Revisión de 20.000 km", "queSeCambia": "Además de la prestación estándar: comprobación del juego de válvulas, cambio de todas las bujías y sustitución del cartucho del filtro de aire, según el plan de mantenimiento del manual"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos de todo el sistema la primera vez al cabo de un año y después cada dos años, según la nota del plan de mantenimiento del manual"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de mantenimiento del manual BMW Motorrad de la F 900 GS Adventure e intervalos de mantenimiento de BMW Motorrad (revisión anual independiente del kilometraje y mantenimiento adicional cada 10.000 km)", "intervalo": "cada año o 10.000 km, según lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual o de 10.000 km", "queSeCambia": "Prestación estándar BMW Motorrad con sustitución del aceite del motor y del filtro de aceite, según el plan de mantenimiento del manual de la F 900 GS Adventure"}, {"costeAproxEur": null, "nombre": "Revisión de 20.000 km", "queSeCambia": "Además de la prestación estándar: comprobación del juego de válvulas, cambio de todas las bujías y sustitución del cartucho del filtro de aire, según el plan de mantenimiento del manual"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos de todo el sistema la primera vez al cabo de un año y después cada dos años, según la nota del plan de mantenimiento del manual"}]},
   },
   {
     id: "bmw-f-900-r-2026",
@@ -858,7 +858,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://es.wikipedia.org/wiki/BMW_F900R",
     analisisSlug: "bmw-f-900-r-2026",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad F 900 R (plan de mantenimiento, ManualsLib) y guía de mantenimiento de la F 900 R de Europe Moto (bmw.europe-moto.com): aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km. Sin costes: no se ha encontrado tarifa oficial que los respalde.", "intervalo": "Cada año o 10.000 km (lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor (Advantec Ultimate 5W-40) y de su filtro, revisión del estado del cartucho del filtro de aire y comprobaciones del plan de mantenimiento BMW Motorrad"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Aceite de motor y filtro nuevos y sustitución del cartucho del filtro de aire; el plan del manual incluye además entre sus tareas programadas el cambio de bujías y la sustitución del líquido de frenos de todo el sistema"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad F 900 R (plan de mantenimiento, ManualsLib) y guía de mantenimiento de la F 900 R de Europe Moto (bmw.europe-moto.com): aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km. Sin costes: no se ha encontrado tarifa oficial que los respalde.", "intervalo": "cada año o 10.000 km, según lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor (Advantec Ultimate 5W-40) y de su filtro, revisión del estado del cartucho del filtro de aire y comprobaciones del plan de mantenimiento BMW Motorrad"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Aceite de motor y filtro nuevos y sustitución del cartucho del filtro de aire; el plan del manual incluye además entre sus tareas programadas el cambio de bujías y la sustitución del líquido de frenos de todo el sistema"}]},
   },
   {
     id: "bmw-g-310-gs-2025",
@@ -981,7 +981,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-m-1000-rr-2026",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de mantenimiento del manual de instrucciones de la BMW M 1000 RR y página oficial de intervalos de servicio de BMW Motorrad (revisión anual obligatoria y mantenimiento adicional cada 10.000 km)", "intervalo": "Cada año o 10.000 km (lo que ocurra primero), con control de rodaje inicial entre los 500 y los 1.200 km", "revisiones": [{"costeAproxEur": null, "nombre": "Control de rodaje (500-1.200 km)", "queSeCambia": "Primera revisión BMW Motorrad, con cambio de aceite de motor y de filtro de aceite"}, {"costeAproxEur": null, "nombre": "Revisión anual o cada 10.000 km", "queSeCambia": "Servicio BMW estándar de la M 1000 RR: aceite de motor y filtro, revisión general del vehículo y paso por el sistema de diagnosis de la marca"}, {"costeAproxEur": null, "nombre": "Revisión mayor (según diagnosis o cada 30.000 km)", "queSeCambia": "Comprobación del juego de válvulas del motor ShiftCam, sustitución de bujías y del cartucho del filtro de aire según el plan BMW; líquido de frenos y aceite de horquilla según su vencimiento por tiempo"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de mantenimiento del manual de instrucciones de la BMW M 1000 RR y página oficial de intervalos de servicio de BMW Motorrad (revisión anual obligatoria y mantenimiento adicional cada 10.000 km)", "intervalo": "cada año o 10.000 km, según lo que ocurra primero), con control de rodaje inicial entre los 500 y los 1.200 km", "revisiones": [{"costeAproxEur": null, "nombre": "Control de rodaje (500-1.200 km)", "queSeCambia": "Primera revisión BMW Motorrad, con cambio de aceite de motor y de filtro de aceite"}, {"costeAproxEur": null, "nombre": "Revisión anual o cada 10.000 km", "queSeCambia": "Servicio BMW estándar de la M 1000 RR: aceite de motor y filtro, revisión general del vehículo y paso por el sistema de diagnosis de la marca"}, {"costeAproxEur": null, "nombre": "Revisión mayor (según diagnosis o cada 30.000 km)", "queSeCambia": "Comprobación del juego de válvulas del motor ShiftCam, sustitución de bujías y del cartucho del filtro de aire según el plan BMW; líquido de frenos y aceite de horquilla según su vencimiento por tiempo"}]},
   },
   {
     id: "bmw-r-12-s-2026",
@@ -1023,7 +1023,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     analisisSlug: "bmw-r-12-s-2026",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Cada año o 10.000 km (lo que ocurra primero)",
+      intervalo: "cada año o 10.000 km, según lo que ocurra primero)",
       revisiones: [
         {
           nombre: "Revisión menor (10.000 km)",
@@ -1079,7 +1079,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-r-18-classic-2025",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad R 18, plan de mantenimiento (ManualsLib): control de rodaje entre 500 y 1.200 km y servicio BMW Motorrad anual", "intervalo": "Cada año o 10.000 km (lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro, comprobación del juego de válvulas y test breve con el sistema de diagnosis BMW Motorrad, según el plan de mantenimiento del manual de la R 18"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Aceite de motor con filtro, cambio del cartucho del filtro de aire, sustitución de bujías y comprobación del juego de válvulas, según el plan de mantenimiento del manual de la R 18"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones BMW Motorrad R 18, plan de mantenimiento (ManualsLib): control de rodaje entre 500 y 1.200 km y servicio BMW Motorrad anual", "intervalo": "cada año o 10.000 km, según lo que ocurra primero)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión menor (10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro, comprobación del juego de válvulas y test breve con el sistema de diagnosis BMW Motorrad, según el plan de mantenimiento del manual de la R 18"}, {"costeAproxEur": null, "nombre": "Revisión mayor (20.000 km)", "queSeCambia": "Aceite de motor con filtro, cambio del cartucho del filtro de aire, sustitución de bujías y comprobación del juego de válvulas, según el plan de mantenimiento del manual de la R 18"}]},
   },
   {
     id: "bmw-s-1000-xr-2026",
@@ -1143,7 +1143,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.hibridosyelectricos.com/motos/originales-motos-naked-trail-esta-marca-canadiense-han-bajado-precio-competir-con-fabricantes-tradicionales_82370_102.html",
     analisisSlug: "can-am-origin-2026-precio-ficha-tecnica",
     aprox: [],
-    pros: ["Horquilla invertida KYB de 43 mm con 255 mm de recorrido en ambos ejes y 274 mm de altura libre al suelo: cifras de trail pensadas para salir del asfalto", "Llantas de radios de 21 pulgadas delante y 18 detrás con Dunlop D605 mixtos, la combinación clásica para alternar carretera y pistas de tierra", "Suma los modos Off-Road y Off-Road+ a sus seis programas de conducción, con postura erguida que permite pilotar de pie por senderos", "El Rotax E-Power refrigerado por líquido empuja con 72 Nm desde parado, firma el 0 a 100 km/h en 4,3 segundos y su versión de 35 kW encaja en el carnet A2", "BRP cubre la moto durante dos años y la batería de 8,9 kWh durante cinco años o 50.000 km, un respaldo amplio para una trail eléctrica de acceso"],
+    pros: ["Horquilla invertida KYB de 43 mm con 255 mm de recorrido en ambos ejes y 274 mm de altura libre al suelo: cifras de trail pensadas para salir del asfalto", "Llantas de radios delantera de 21 pulgadas y trasera de 18, con Dunlop D605 mixtos, la combinación clásica para alternar carretera y pistas de tierra", "Suma los modos Off-Road y Off-Road+ a sus seis programas de conducción, con postura erguida que permite pilotar de pie por senderos", "El Rotax E-Power refrigerado por líquido empuja con 72 Nm desde parado, firma el 0 a 100 km/h en 4,3 segundos y su versión de 35 kW encaja en el carnet A2", "BRP cubre la moto durante dos años y la batería de 8,9 kWh durante cinco años o 50.000 km, un respaldo amplio para una trail eléctrica de acceso"],
     contras: ["Su autonomía combinada en ciclo WMTC se queda en 115 km y cae a 84 km rodando de forma sostenida a 80 km/h: escasa para una escapada trail larga lejos de un enchufe", "El conjunto resulta alto y estrecho para maniobrar a pie en campo, y a pilotos de talla baja les costará llegar con seguridad al suelo en paradas fuera de ruta", "Los Dunlop D605 montan cámara en medidas 90/90-R21 y 120/80-R18, así que un pinchazo en pista no se resuelve con un simple kit antipinchazos para tubeless", "No admite carga rápida de nivel 3: depende de su cargador integrado de 6,6 kW, con 50 minutos para pasar del 20 al 80 % y 1 hora y 30 minutos para la carga completa en nivel 2"],
     curiosidades: ["La versión Origin '73 homenajea 1973, el año en que Can-Am nació fabricando motos de motocross y enduro con motores Rotax", "Can-Am dejó de producir motocicletas en 1987 y no regresó a las dos ruedas hasta esta generación eléctrica que comparte con la Pulse", "En 1973 sus pilotos lograron oro, plata y bronce en los International Six Days y en 1974 coparon el podio de 250 cc del campeonato AMA de motocross", "Recupera la vocación Track 'n Trail de las Can-Am setenteras: una sola moto para el asfalto diario y para perderte por caminos sin cambiar de vehículo"],
     imagen: "/media/can-am-origin-2026-ficha-tecnica-precio-hero.webp",
@@ -1416,7 +1416,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/comparativa/ducati-desertx-rally--vs-moto_guzzi-stelvio-duecento_tributo--9767-10034.htm",
     analisisSlug: "ducati-desertx-rally-2025-precio-ficha-tecnica",
     aprox: [],
-    pros: ["Testastretta 11° de 937 cc con 110 CV a 9.250 rpm y 92 Nm a 6.500 rpm, el bicilíndrico desmodrómico de la Multistrada V2 llevado al campo", "Horquilla KYB de cartucho cerrado de 48 mm con 250 mm de recorrido, 20 mm más que la DesertX estándar, y tratamientos Kashima Coating y DLC propios del motocross", "280 mm de altura libre al suelo, guardabarros delantero alto y cubrecárter de carbono forjado: la Rally está pensada para piedras y roderas, no para postureo trail", "Llantas Takasago Excel de 21 pulgadas delante y 18 detrás, con bujes mecanizados y radios de acero al carbono, más un amortiguador de dirección Öhlins regulable de serie", "Depósito de 21 litros y seis modos de conducción con programas Enduro y Rally específicos, para alternar pista rápida y trialera sin cambiar de moto"],
+    pros: ["Testastretta 11° de 937 cc con 110 CV a 9.250 rpm y 92 Nm a 6.500 rpm, el bicilíndrico desmodrómico de la Multistrada V2 llevado al campo", "Horquilla KYB de cartucho cerrado de 48 mm con 250 mm de recorrido, 20 mm más que la DesertX estándar, y tratamientos Kashima Coating y DLC propios del motocross", "280 mm de altura libre al suelo, guardabarros delantero alto y cubrecárter de carbono forjado: la Rally está pensada para piedras y roderas, no para postureo trail", "Llantas Takasago Excel delantera de 21 pulgadas y trasera de 18, con bujes mecanizados y radios de acero al carbono, más un amortiguador de dirección Öhlins regulable de serie", "Depósito de 21 litros y seis modos de conducción con programas Enduro y Rally específicos, para alternar pista rápida y trialera sin cambiar de moto"],
     contras: ["23.290 € de tarifa: 5.400 € más que la DesertX básica de 17.890 €, un sobrecoste que solo se amortiza si el uso fuera del asfalto es habitual y exigente", "El asiento queda a 910 mm porque las suspensiones largas elevan la moto: en parado y en maniobras lentas, los pilotos por debajo de 1,75 m llegan de puntillas", "Las llantas Excel montan cámara, así que un pinchazo en mitad de una pista obliga a desmontar la rueda en lugar de resolverlo con un kit reparapinchazos tubeless", "El mantenimiento desmodrómico manda: Oil Service cada 15.000 km y Desmo Service cada 30.000 km según el plan recogido en esta ficha, un calendario más exigente que el de una trail japonesa convencional", "Los Pirelli Scorpion Rally STR de serie son un compromiso: ni taco suficiente para barro profundo ni goma asfáltica para viajar cargado, así que muchos propietarios acabarán cambiando de neumático según el uso"],
     curiosidades: ["El prototipo Scrambler DesertX del EICMA 2019 revivía la Cagiva Elefant con motor Ducati que Edi Orioli llevó a la victoria en el París-Dakar de 1990; la DesertX de producción llegó en 2022", "La decoración exclusiva de la Rally se llama Iron Giant y es un guiño directo al Erzbergrodeo, la carrera de hard enduro austriaca", "Sus tijas son piezas mecanizadas desde macizo, una solución de moto de competición que la DesertX estándar no equipa"],
     imagen: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hero.webp",

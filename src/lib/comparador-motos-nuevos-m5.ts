@@ -88,7 +88,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Piaggio España: sin plan de mantenimiento publicado para la gama 1 eléctrica",
+      fuente: "Piaggio España, sin plan de mantenimiento difundido para la gama 1 eléctrica",
     },
   },
   {
@@ -131,7 +131,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
       "Zeeho es la submarca eléctrica de CFMOTO, que fabrica motores para KTM",
       "Su presentación internacional se hizo en Barcelona, con la AE6+ como modelo de acceso",
       "Las baterías son de litio ATL (Amperex Technology), proveedor de grandes marcas de electrónica",
-      "En España se vende a través de la red de KTM España y CFMOTO",
+      "En España se vende mediante la red de KTM España y CFMOTO",
     ],
     imagen: "/media/motos/zeeho-ae6-plus-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -169,7 +169,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zeeho España: sin plan de mantenimiento publicado para la AE6+",
+      fuente: "Zeeho España, sin plan de mantenimiento difundido para la AE6+",
     },
   },
   {

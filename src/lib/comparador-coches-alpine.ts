@@ -703,7 +703,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "costeMensualTotal": 313,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 6,7 l/100 km; precio km77 69.800 €",
+      "notas": "15.000 km/año; gasolina a 1,85 €/l y consumo WLTP 6,7 l/100 km; precio km77 69.800 €",
       "estimado": true
     },
     "galeria": [

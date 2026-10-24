@@ -72,7 +72,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "qjmotor-fort-250-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -149,7 +149,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "benelli-302s-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -226,7 +226,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "ajp-pr3-240-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -302,7 +302,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "rieju-aventura-500-legend-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -378,7 +378,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "macbor-xr1-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -454,7 +454,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "wottan-storm-s-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -540,7 +540,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── MUTT MASTIFF 125 ─────────────────────────────────────────────────
@@ -607,7 +607,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "mutt-mastiff-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -683,7 +683,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bullit-hero-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -759,7 +759,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bluroc-legend-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -835,7 +835,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "fb-mondial-flex-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -911,7 +911,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "fb-mondial-imola-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -988,7 +988,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bsa-bantam-350-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -1064,7 +1064,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "norton-v4sv-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -1140,7 +1140,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "tm-en-300-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -1216,7 +1216,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "vent-baja-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -1258,7 +1258,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Precio orientativo muy bajo desde India",
     ],
     contras: [
-      "Precio orientativo convertido desde la tarifa oficial india (102.700 INR): no se vende en España",
+      "precio orientativo calculado desde la tarifa oficial india (102.700 INR): no se vende en España",
       "No se vende en Europa: solo India y Latinoamérica",
       "80 km/h de punta: justo para vías rápidas",
       "Tiempos de carga largos (5-6 horas)",
@@ -1302,7 +1302,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── REVOLT RV400 ─────────────────────────────────────────────────────
@@ -1335,7 +1335,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Sonidos de escape artificiales personalizables",
     ],
     contras: [
-      "Precio orientativo convertido desde la tarifa oficial india (139.950 INR): no se vende en España",
+      "precio orientativo calculado desde la tarifa oficial india (139.950 INR): no se vende en España",
       "No se vende en Europa: solo mercado indio",
       "3 kW: prestaciones de 125 justas",
       "85 km/h de punta",
@@ -1379,7 +1379,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
 
@@ -1413,7 +1413,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Respaldo de un gigante que fabrica para BMW",
     ],
     contras: [
-      "Precio orientativo convertido desde la tarifa oficial india (119.236 INR): no se vende en España",
+      "precio orientativo calculado desde la tarifa oficial india (119.236 INR): no se vende en España",
       "No se comercializa oficialmente en España",
       "82 km/h de punta: solo ciudad y vías urbanas",
       "4,4 kW: prestaciones modestas",
@@ -1457,7 +1457,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── KYMCO IONEX S7 ABS ───────────────────────────────────────────────
@@ -1533,7 +1533,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── MALAGUTI RST 125 ─────────────────────────────────────────────────
@@ -1600,7 +1600,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "malaguti-rst-125-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "sin programa publicado, consultado el 24/10/2026, y sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones según el manual del propietario",
@@ -1685,7 +1685,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── MECATECNO T8 ─────────────────────────────────────────────────────
@@ -1761,7 +1761,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
   // ── ELECTRIC MOTION ESCAPE R ─────────────────────────────────────────
@@ -1837,7 +1837,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para motos eléctricas (sin plan oficial publicado por la marca)",
+      fuente: "plan estándar de motos eléctricas (sin plan oficial de la marca publicado)",
     },
   },
 ];

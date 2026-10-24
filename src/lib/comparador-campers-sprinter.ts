@@ -87,7 +87,7 @@ export const CAMPERS_SPRINTER: CocheComparador[] = [
     analisisSlug: "hymer-grand-canyon-s-precio-ficha-tecnica",
     planMantenimiento: {
       intervalo:
-        "Mercedes-Benz Sprinter: servicio según indicador ASSYST (aprox. cada 2 años o 40.000 km)",
+        "Mercedes-Benz Sprinter: servicio según indicador ASSYST (aprox. cada 2 años o 40.000 kilómetros)",
       revisiones: [
         {
           nombre: "Servicio Sprinter (ASSYST)",
@@ -196,7 +196,7 @@ export const CAMPERS_SPRINTER: CocheComparador[] = [
     analisisSlug: "la-strada-regent-s-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes-Benz Sprinter: servicio según indicador ASSYST (aprox. cada 2 años o 40.000 km)",
+        "Mercedes-Benz Sprinter: servicio según indicador ASSYST (aprox. cada 2 años o 40.000 kilómetros)",
       revisiones: [
         {
           nombre: "Servicio Sprinter (ASSYST)",

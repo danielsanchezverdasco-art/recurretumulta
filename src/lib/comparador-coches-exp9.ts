@@ -873,7 +873,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 31.400 €: la berlina híbrida más barata del mercado",
-      "Consumo WLTP de 4,6 l/100 km",
+      "consumo homologado WLTP de 4,6 l/100 km",
       "Maletero de 471 litros, el mayor de la gama Corolla",
       "Etiqueta ECO y fiabilidad Toyota legendaria",
       "Ideal para taxistas y flotas: costes de uso mínimos",
@@ -1043,7 +1043,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 24.715 €: uno de los compactos más baratos con ECO",
-      "Consumo WLTP de 5,3 l/100 km",
+      "consumo homologado WLTP de 5,3 l/100 km",
       "Chasis de referencia: el más divertido de conducir de su clase",
       "Acabado ST-Line con estética deportiva",
       "Descuentos oficiales superiores a 6.000 €",
@@ -1783,7 +1783,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "El equilibrio perfecto entre consumo y prestaciones",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "precio en España aún sin confirmar por la marca",
       "Los diésel 320d siguen siendo más eficientes",
       "El 330i ofrece mucho más por poco más",
       "Equipamiento de serie mejorable para el segmento",
@@ -2053,7 +2053,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Posición de conducción elevada y buen acceso",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "precio en España aún sin confirmar por la marca",
       "El maletero pierde capacidad frente al GLA térmico",
       "Peso extra del sistema híbrido enchufable",
       "Carga en corriente alterna, sin carga rápida DC",
@@ -2085,10 +2085,10 @@ export const COCHES_EXP9: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 300 },
-        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
+        { nombre: "Service B / 30.000 km", queSeCambia: "Service A, filtro de aire, filtro del habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
       ],
       costeAnualAproxEur: 480,
-      fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
+      fuente: "Mercedes-Benz y su intervalo oficial (Service A/B)",
     },
     galeria: [
       {
@@ -2168,10 +2168,10 @@ export const COCHES_EXP9: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 350 },
-        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 550 },
+        { nombre: "Service B / 30.000 km", queSeCambia: "Service A, filtro de aire, filtro del habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 550 },
       ],
       costeAnualAproxEur: 550,
-      fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
+      fuente: "Mercedes-Benz y su intervalo oficial (Service A/B)",
     },
     galeria: [
       
@@ -2509,7 +2509,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "El referente sueco en confort y seguridad",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "precio en España aún sin confirmar por la marca",
       "Solo tracción delantera en el B5 gasolina",
       "El T8 Recharge enchufable tiene etiqueta CERO",
       "Consumo NEDC de 5,9 l/100 km, optimista",
@@ -2575,7 +2575,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Calidad de materiales premium escandinava",
     ],
     contras: [
-      "Precio en España sin confirmar por la marca",
+      "precio en España aún sin confirmar por la marca",
       "El S60 deja paso al eléctrico ES60",
       "Velocidad limitada a 180 km/h",
       "Maletero justo para la categoría",

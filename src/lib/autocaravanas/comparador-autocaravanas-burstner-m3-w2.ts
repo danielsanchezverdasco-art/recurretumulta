@@ -81,7 +81,7 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
     Para quién es: el Ixeo IT 680 G encaja con parejas o familias de cuatro que quieren una perfilada compacta con carnet B y valoran la flexibilidad de la cama basculante longitudinal: salón despejado de día, camas sin montajes de noche. No es para quien busque una cama fija siempre hecha —aquí la cama se recoge cada mañana—, ni para quien necesite lo último en ayudas a la conducción o una mecánica documentada al milímetro antes de comprar.`,
     pros: [
       "Cama basculante longitudinal pionera: se integra en el techo y no se ve de día",
-      "Se conduce con carnet B (3.500 kg de MMA)",
+      "se conduce con carnet B y 3.500 kg de MMA)",
       "Salón para cuatro con posibilidad de segunda cama doble debajo de la basculante",
       "Baño trasero de ancho completo con ducha separada y mucho almacenaje",
       "Cocina con buena encimera al no tener que alojar cama fija",
@@ -192,7 +192,7 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
 
     En precio no hay tarifa oficial que ofrecer: descatalogado y sin precio de catálogo vigente. En el mercado de ocasión europeo, los i920 G bien mantenidos cotizan en la franja alta de su edad —son vehículos que nuevos superaban ampliamente los 150.000 euros—, y las unidades sobre Mercedes con autonivelación y litio se pagan con prima. En España hay servicio oficial a través de la red del grupo Erwin Hymer, aunque conviene confirmar la disponibilidad de piezas específicas de célula para un modelo fuera de catálogo.
 
-    A cambio, quien la compra debe asumirla como lo que es: un vehículo de capricho con costes de capricho, donde cada revisión, cada neumático y cada noche de área se pagan en proporción a sus casi nueve metros. Pero para el viajero que hace del camino su casa durante meses, pocos integrales de su época ofrecen tanto. Cómo lo verificamos: dimensiones, pesos, carga útil, potencia y plazas proceden de la ficha técnica de distribuidor con datos del fabricante (Abacus, 2017); la descripción del interior, el garaje y la mecánica Mercedes de 2022, del anuncio detallado de Motorhome Depot. Todo verificado el 19/10/2026. Quedan sin dato el precio, el par, el consumo y las emisiones, no publicados en las fuentes consultadas.
+    A cambio, quien la compra debe asumirla como lo que es: un vehículo de capricho con costes de capricho, donde cada revisión, cada neumático y cada noche de área se pagan en proporción a sus casi nueve metros. Pero para el viajero que hace del camino su casa durante meses, pocos integrales de su época ofrecen tanto. Cómo lo verificamos: dimensiones, pesos, carga útil, potencia y plazas proceden de la ficha técnica de distribuidor con datos del fabricante (Abacus, 2017); la descripción del interior, el garaje y la mecánica Mercedes de 2022, del anuncio detallado de Motorhome Depot. Todo verificado el 19/10/2026. Quedan sin dato el precio, el par, el consumo y las emisiones, sin publicar en las fuentes consultadas.
 
     Para quién es: el Elegance I 920 G encaja con viajeros experimentados con carnet C1 que buscan el máximo confort en formato integral y un garaje de verdad, y que asumen —y pueden pagar— el mantenimiento de un vehículo de 5 toneladas y casi nueve metros. No es para quien tenga solo el carnet B, para quien aparque en ciudad o para presupuestos ajustados: aquí todo, del seguro al neumático, cuesta en proporción al tamaño.`,
     pros: [

@@ -482,7 +482,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 256,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8,5 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo estimado de 8,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -538,7 +538,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 248,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo declarado de 7,9 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo declarado de 7,9 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -801,7 +801,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 245,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo estimado de 8 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -869,7 +869,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 235,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 7,5 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo estimado de 7,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1098,7 +1098,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 226,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo mixto declarado de 7,5 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo mixto declarado de 7,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1164,7 +1164,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 228,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo medio declarado de 7 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo medio declarado de 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1308,7 +1308,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 238,
       notas:
-        "15.000 km/año, gasolina a 1,58 €/l y consumo WLTC declarado de 7,6 l/100 km.",
+        "15.000 km/año, con gasolina a 1,58 €/l y consumo WLTC declarado de 7,6 l/100 km.",
       estimado: true,
     },
     galeria: [

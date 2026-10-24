@@ -70,7 +70,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 146,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "PHEV 306 CV: uso mixto 50 % eléctrico (20 kWh/100 km a 0,18 €/kWh) + 50 % híbrido (6,5 l/100 km a 1,55 €/l); 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "PHEV 306 CV: uso mixto 50 % eléctrico (20 kWh/100 km a 0,18 €/kWh) + 50 % híbrido (6,5 l/100 km con 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -154,7 +154,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 168,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "HEV 160 CV: consumo estimado 5,2 l/100 km a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "HEV 160 CV: consumo estimado 5,2 l/100 km a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -302,7 +302,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 175,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "MHEV 140 CV: 6,0 l/100 km WLTP a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "MHEV 140 CV: 6,0 l/100 km WLTP a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "HEV 143 CV: 4,3 l/100 km WLTP a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "HEV 143 CV: 4,3 l/100 km WLTP a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [

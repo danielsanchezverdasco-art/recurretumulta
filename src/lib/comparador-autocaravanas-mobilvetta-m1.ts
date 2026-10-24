@@ -111,7 +111,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [
     },
     euroncap: null,
     notas:
-      "La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato publicado por el fabricante: dato no oficial · en revisión.",
+      "la etiqueta ambiental DGT C es una deducción editorial: diésel Euro 6, no un dato del fabricante; dato no oficial en revisión.",
     curiosidades:
       "La familia K-Yacht Tekno de Mobilvetta fue seleccionada en 2018 para el ADI Design Index —el anuario del diseño industrial italiano— en la categoría Mobility Design, codeándose con Ferrari, Alfa Romeo, Ducati, Maserati y Vespa, y quedó nominada al prestigioso premio Compasso d'Oro 2020. Fuente: Mobilvetta (web oficial): https://mobilvetta.it/es/estilo-italiano-mobilvetta-producto-seleccionado-por-adi/",
     fuenteNombre: "Mobilvetta (web oficial)",

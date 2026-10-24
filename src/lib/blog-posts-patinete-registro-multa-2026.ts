@@ -49,7 +49,7 @@ La obligación no es nueva de ayer, viene de dos normas encadenadas:
 
 | Documento / trámite | Obligatorio desde | Detalle |
 |---|---|---|
-| Inscripción en el Registro de Vehículos Personales Ligeros (DGT) | 30 de enero de 2026 | Trámite telemático en la <a href=https://sede.dgt.gob.es>sede electrónica de la DGT</a> o por teléfono en el 060; tasa de **8,67 €** |
+| Alta en el Registro de Vehículos Personales Ligeros (DGT) | 30 de enero de 2026 | Trámite telemático en la <a href=https://sede.dgt.gob.es>sede electrónica de la DGT</a> o por teléfono en el 060; tasa de **8,67 €** |
 | Etiqueta identificativa visible en el patinete | 30 de enero de 2026 | La emite la DGT tras la inscripción |
 | Seguro obligatorio de responsabilidad civil | 2026 (Ley 5/2025) | Cobertura mínima: 6,45 M € en daños personales y 1,3 M € en daños materiales |
 | Certificado de circulación (patinetes nuevos) | 22 de enero de 2024 | Desde esa fecha solo se venden patinetes con certificado |

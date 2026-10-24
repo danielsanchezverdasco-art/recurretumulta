@@ -39,7 +39,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Más de 426.000 unidades vendidas en China desde 2023",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "100 km/h de velocidad máxima: solo ciudad",
       "Maletero de 69 litros, testimonial",
       "210 km CLTC reales son ~170 km en uso normal",
@@ -127,7 +127,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Producción limitada: mantiene bien el valor de reventa en China",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Solo 2 plazas y maletero mínimo",
       "Sin pantalla central ni cámara trasera de serie",
       "100 km/h de velocidad máxima",
@@ -214,7 +214,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Dongfeng lo exporta a Latinoamérica, África y Oriente Medio",
     ],
     contras: [
-      "No se vende en España: precio orientativo de exportación",
+      "no se vende en España, con precio orientativo de exportación",
       "Datos técnicos oficiales escasos fuera de China",
       "Marca casi desconocida en Europa",
       "Sin datos EuroNCAP",
@@ -301,7 +301,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "0-50 km/h en 5,5 s: ágil en ciudad",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Autonomía oficial aún no publicada",
       "Marca desconocida fuera de China y algunos mercados asiáticos",
       "Sin datos EuroNCAP",
@@ -387,7 +387,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Se exporta al sudeste asiático y se ensambla en Malasia",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Las versiones básicas tardan 8-10 h en cargar (solo AC)",
       "Marca minúscula incluso dentro de China",
       "Sin datos EuroNCAP",
@@ -473,7 +473,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Se vende en Nepal, Sudáfrica y otros mercados emergentes",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Datos de potencia y batería no publicados oficialmente",
       "Red de servicio inexistente en Europa",
       "Sin datos EuroNCAP",
@@ -560,7 +560,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Equipamiento generoso: HUD, cámaras 360 y ayudas a la conducción",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Haima redujo mucho su actividad en China",
       "Consumo elevado para su tamaño",
       "Sin datos EuroNCAP",
@@ -818,7 +818,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Se vende en Sudáfrica, Colombia, Chile y Oriente Medio",
     ],
     contras: [
-      "No se vende en España: precio orientativo de exportación",
+      "no se vende en España, con precio orientativo de exportación",
       "Calidad de acabados por debajo de las japonesas",
       "Red de servicio inexistente en Europa",
       "Sin datos EuroNCAP",
@@ -904,7 +904,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Interior moderno con pantalla grande, muy por encima de su precio",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Consumo alto en la versión de gasolina",
       "Red de servicio inexistente en Europa",
       "Sin datos EuroNCAP",
@@ -1142,7 +1142,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Versiones diésel y de batalla larga disponibles",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Consumo y emisiones altos",
       "Acabados rústicos: es un 4x4 puro",
       "Sin datos EuroNCAP",
@@ -1304,7 +1304,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Segunda generación muy mejorada en calidad (2018)",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Potencia oficial de la versión Mach sin confirmar en fuentes occidentales",
       "Diseño discreto, sin carácter",
       "Sin datos EuroNCAP",
@@ -1467,7 +1467,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Versión también 100 % gasolina más barata",
     ],
     contras: [
-      "No se vende en España: precio orientativo de Arabia Saudí",
+      "no se vende en España, con precio orientativo de Arabia Saudí",
       "Marca desconocida en Europa",
       "Consumo alto cuando se agota la batería",
       "Sin datos EuroNCAP",
@@ -1553,7 +1553,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Portón trasero eléctrico y techo panorámico",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Haima redujo mucho su actividad",
       "Los monovolúmenes están de capa caída",
       "Sin datos EuroNCAP",
@@ -1726,7 +1726,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Carga útil y remolque de nivel profesional",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "El diésel tiene solo 163 CV para su tamaño",
       "Consumo elevado",
       "Sin datos EuroNCAP",
@@ -1812,7 +1812,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Se vende en Chile, Colombia y otros mercados latinos",
     ],
     contras: [
-      "No se vende en España: precio orientativo convertido desde China",
+      "no se vende en España, con precio orientativo convertido desde China",
       "Tamaño excesivo para ciudad europea",
       "Consumo alto",
       "Sin datos EuroNCAP",
@@ -1985,7 +1985,7 @@ export const COCHES_LOTE6: CocheComparador[] = [
       "Interior con doble pantalla y buen nivel de acabados",
     ],
     contras: [
-      "No se vende en España: precio orientativo de Qatar",
+      "no se vende en España, con precio orientativo de Qatar",
       "El 1.5T va justo con el coche cargado",
       "Red de servicio limitada en Europa",
       "Sin datos EuroNCAP",

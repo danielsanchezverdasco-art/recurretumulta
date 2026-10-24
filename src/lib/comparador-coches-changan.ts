@@ -74,7 +74,7 @@ export const COCHES_CHANGAN: CocheComparador[] = [
       "costeMensualTotal": 153,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación orientativa para 15.000 km/año: 16,0 kWh/100 km WLTP a 0,18 €/kWh; precio orientativo de gasolina incluido por requisito del formato (no aplica: es eléctrico puro)",
+      "notas": "estimación orientativa para 15.000 km/año: 16,0 kWh/100 km WLTP y 0,18 €/kWh; precio orientativo de gasolina incluido por requisito del formato (no aplica: es eléctrico puro)",
       "estimado": true
     },
     galeria: [

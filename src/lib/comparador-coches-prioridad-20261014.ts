@@ -1603,7 +1603,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1612,7 +1612,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: null,
@@ -1675,7 +1675,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1684,7 +1684,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 4,
@@ -1747,7 +1747,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1756,7 +1756,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 5,
@@ -1819,7 +1819,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1828,7 +1828,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 5,

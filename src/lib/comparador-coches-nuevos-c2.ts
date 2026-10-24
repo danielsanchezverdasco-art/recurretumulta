@@ -316,7 +316,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP para la eDeliver 3",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
@@ -485,7 +485,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP para la eDeliver 5",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
@@ -569,7 +569,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el P7+ aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + actualización de software", costeAproxEur: null },
       ],
@@ -653,7 +653,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el 001 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
@@ -770,7 +770,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     videoCanal: null,
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP para la berlina 007: Euro NCAP no ha publicado prueba propia del sedán. Su nota de 5 estrellas de 2026 corresponde al Zeekr 7 GT (el 007 GT familiar), modelo distinto, y no es trasladable a esta ficha."},
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
@@ -839,7 +839,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el EC6 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + actualización de software", costeAproxEur: null },
       ],
@@ -923,7 +923,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el EL8 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + actualización de software", costeAproxEur: null },
       ],
@@ -990,7 +990,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     videoCanal: null,
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP (C-NCAP 5 estrellas en China no equivale a Euro NCAP)."},
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
@@ -1543,7 +1543,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el T03 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen", costeAproxEur: null },
       ],
@@ -1767,7 +1767,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el B01 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen", costeAproxEur: null },
       ],
@@ -1851,7 +1851,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Z9 GT aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (eléctrico, inspección)",
+      intervalo: "cada 24 meses o 30.000 km (eléctrico, con inspección)",
       revisiones: [
         { nombre: "Inspección 24 meses / 30.000 km", queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan)", costeAproxEur: null },
       ],
