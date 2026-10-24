@@ -2361,7 +2361,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "La autonomía real ronda los 30 km",
       "Carga máxima no publicada",
       "Precio no publicado en España (en Amazon ronda los 500 €)",
-      "Sin suspensión: las ruedas de 10\" hacen lo que pueden",
+      "Sin suspensión trasera: solo doble muelle delantero",
     ],
     veredicto:
       "El F2 II es el urbano con papeles y cerebro: DGT, intermitentes e-Mark y Find My. La evolución sensata del F2 para quien quiere ir legal y conectado sin pagar de más.",
@@ -2369,7 +2369,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     fuenteUrl: "https://www.segway.com",
     mantenimientoDIY: {
       intervaloRevision: "Cada 3 meses o 500 km; revisión completa cada 6 meses; revisión mayor a los 5.000 km o 2 años (plan del manual Ninebot)",
-      presionNeumaticos: "50–55 PSI en ambos neumáticos, inflados por igual",
+      presionNeumaticos: "42-48 PSI en ambos neumáticos, inflados por igual",
       aprieteTornilleria: "Manillar y mástil: 5,5 ± 0,5 N·m; acelerador: 3,5 ± 0,1 N·m; maneta de freno: 5,5 ± 0,1 N·m; parte superior del mástil: 10 ± 0,5 N·m; base del freno de disco: 7,7 ± 0,2 N·m",
       actualizacionFirmware: "Conectar con la app Segway-Ninebot y actualizar el firmware a la última versión",
       trucos: [
