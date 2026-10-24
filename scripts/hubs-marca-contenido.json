@@ -1,0 +1,402 @@
+{
+ "coches/volkswagen": {
+  "nombre": "Volkswagen",
+  "title": "Volkswagen coches: 85 fichas técnicas para comparar",
+  "description": "85 fichas técnicas de coches Volkswagen: Golf GTI 2026, ID. Buzz e ID.4, con datos, versiones y equipamiento para comparar antes de decidir.",
+  "intro": "Pocos catálogos de coches resultan tan amplios como el de Volkswagen, y este listado permite recorrerlo sin perderse entre versiones parecidas. El Golf GTI 2026 representa al compacto con carácter deportivo pensado para quien disfruta conduciendo a diario, mientras el Golf Variant 1.5 se orienta a familias que necesitan más maletero sin subir a un segmento superior. La familia ID., con el ID.4 y el ID. Buzz, abre otra manera de entender la movilidad familiar: el primero como SUV de uso cotidiano y el segundo como furgoneta con vocación de ocio y viajes. Para el trabajo duro o las escapadas fuera del asfalto aparece el Amarok 3.0 V6, un pick-up robusto, y para dormir fuera de casa sin renunciar a la comodidad, la California eHybrid convierte cada ruta en una pequeña casa sobre ruedas. Quien busque un coche urbano, un familiar, un SUV o una camper encontrará aquí una opción con su propio enfoque. Al abrir cualquiera de los enlaces de esta colección descubrirás su ficha técnica completa, ordenada para comparar versiones, dimensiones y equipamiento con calma.",
+  "n": 85,
+  "url": "/coches/marca/volkswagen/"
+ },
+ "motos/honda": {
+  "nombre": "Honda",
+  "title": "Motos Honda: 74 fichas técnicas para elegir bien",
+  "description": "74 fichas técnicas de motos Honda: Africa Twin Adventure, CB750 Hornet y ADV350, con datos y versiones para encontrar tu moto ideal.",
+  "intro": "Honda cubre casi todos los caminos que puede imaginar un motorista, desde el trayecto urbano hasta la gran ruta, y esta selección ordena esa variedad por usos reales. La CB125F 2025 es la puerta de entrada más lógica para moverse por ciudad con una moto sencilla y manejable, mientras la CB750 Hornet 2025 seduce a quien ya busca una naked con más presencia para el día a día y las salidas de fin de semana. En el terreno de la aventura, la Africa Twin Adventure está pensada para viajar lejos, con capacidad para equipaje y rutas largas, y la ADV350 2024 ofrece un punto intermedio muy práctico: el confort de un scooter con aptitudes para salir del asfalto ligero. Los amantes de la deportividad encontrarán su referencia en la CBR1000RR-R Fireblade 2026, una máquina orientada al circuito y a la conducción más exigente. Navegar por estas fichas ayuda a distinguir qué moto encaja con tu experiencia, tu presupuesto de uso y tus trayectos habituales, porque al pulsar en cada modelo se despliega toda su información técnica de forma clara y comparada.",
+  "n": 74,
+  "url": "/motos/marca/honda/"
+ },
+ "coches/bmw": {
+  "nombre": "BMW",
+  "title": "Coches BMW: 71 fichas técnicas y comparativas",
+  "description": "71 fichas técnicas de coches BMW: i4 M50 xDrive, M2 Coupé 2026 e iX1, para comparar berlinas, SUV y deportivos de la marca.",
+  "intro": "El universo BMW se entiende mejor cuando se agrupa por sensaciones al volante, y aquí conviven berlinas elegantes, SUV familiares y deportivos de pura cepa. El i4 M50 xDrive muestra la vertiente más moderna de la berlina, con un planteamiento pensado para quien quiere un coche para todo sin renunciar al placer de conducir. En el extremo opuesto, el M2 Coupé 2026 concentra la esencia deportiva en un formato compacto, ideal para conductores que priorizan la agilidad y el carácter por encima del espacio. Entre medias, el iX1 eDrive20 2025 responde al perfil del SUV urbano y familiar, cómodo para la ciudad y suficiente para viajar, mientras el iX M70 xDrive se dirige a quien busca un SUV grande con presencia y prestaciones de alto nivel. La gama i5, representada por el i5 eDrive40 2026, completa el panorama para quienes necesitan una berlina amplia y refinada. Revisar estas fichas una a una permite afinar la elección según tamaño, uso y temperamento, ya que dentro de cada modelo aguarda su ficha técnica completa, lista para contrastar versiones y equipamientos.",
+  "n": 71,
+  "url": "/coches/marca/bmw/"
+ },
+ "coches/mercedes-benz": {
+  "nombre": "Mercedes-Benz",
+  "title": "Mercedes-Benz: 68 fichas, de Clase A a AMG",
+  "description": "68 fichas técnicas de coches Mercedes-Benz: Clase A 200, Clase S 500 y AMG G 63, con versiones y equipamiento para comparar.",
+  "intro": "Mercedes-Benz ha construido su prestigio combinando confort, tecnología y deportividad, y este conjunto refleja esa mezcla en todos los tamaños. La Clase A 200 funciona como acceso a la marca para quien busca un compacto refinado para la ciudad y los desplazamientos diarios. Al subir de nivel, la Clase C 200 y la Clase E 200 cubren el terreno de las berlinas familiares y ejecutivas, donde el silencio, el espacio y la comodidad en carretera mandan. La Clase S 500 representa la cúspide de ese confort, pensada para viajar con el máximo nivel de aislamiento y equipamiento. En el lado más apasionado, el AMG G 63 aporta el carácter todoterreno con imagen icónica, mientras el Mercedes-AMG GT 43 traslada la deportividad a una berlina de líneas musculosas. También hay sitio para el ocio familiar con la Clase V 300, una monovolumen amplia para grupos grandes. Explorar el listado permite situar cada modelo en su lugar natural, y al entrar en cualquiera de ellos tendrás delante su ficha técnica completa para valorar acabados y opciones sin prisas.",
+  "n": 68,
+  "url": "/coches/marca/mercedes-benz/"
+ },
+ "coches/audi": {
+  "nombre": "Audi",
+  "title": "Audi: 64 fichas técnicas de coches y SUV",
+  "description": "64 fichas técnicas de coches Audi: A3 Sportback 2025, Q3 2026 y A6 Avant, para comparar compactos, berlinas y SUV.",
+  "intro": "Audi ordena su gama alrededor de una idea muy reconocible: diseño sobrio, interior cuidado y una conducción segura en cualquier circunstancia. El A1 Sportback 2025 abre la puerta a la marca desde el segmento urbano, perfecto para moverse por ciudad con un coche compacto y bien terminado. Un escalón por encima, el A3 Sportback 2025 se convierte en el compacto polivalente por excelencia, válido tanto para el uso diario como para viajes en familia. Quien necesita más espacio encontrará en el A6 Avant un familiar amplio y cómodo, pensado para devorar kilómetros con equipaje, mientras el Q3 2026 responde al gusto actual por los SUV de tamaño medio, con posición de conducción elevada y versatilidad para todo. La vertiente más innovadora la encarna el Q4 e-tron 2025, un SUV que apuesta por una movilidad distinta dentro de la misma filosofía de confort. Quien recorra este índice podrá sopesar urbano, compacto, familiar o SUV y, al pulsar un nombre, revisar toda la información detallada de esa variante concreta antes de quedarse con una opción.",
+  "n": 64,
+  "url": "/coches/marca/audi/"
+ },
+ "motos/yamaha": {
+  "nombre": "Yamaha",
+  "title": "Motos Yamaha: 58 fichas, de scooter a naked",
+  "description": "58 fichas técnicas de motos Yamaha: MT-07, MT-09 SP y NMAX 125 2026, para comparar scooters, naked y motos de aventura.",
+  "intro": "Yamaha tiene una virtud poco común: sabe hacer motos divertidas en casi cualquier cilindrada, y esta colección lo demuestra sin rodeos. La MT-07 es la naked de referencia para quienes dan el salto a una moto con carácter, ágil en ciudad y gratificante en carreteras de curvas. Por encima, la MT-09 SP eleva esa misma fórmula hacia un público más experimentado, que busca sensaciones más intensas y un comportamiento más deportivo. Para el día a día urbano, el NMAX 125 2026 ofrece la practicidad de un scooter: fácil de aparcar, cómodo y perfecto para los desplazamientos cortos. La MT-125 2024, por su parte, permite iniciarse en el mundo de las naked con una moto ligera y accesible. Y cuando el plan incluye viajar o descubrir caminos, la Niken GT 2026 propone una interpretación distinta de la moto rutera, con una personalidad muy marcada. Comparar estas fichas sirve para acertar con el tipo de moto según tu experiencia y tus rutas, porque dentro de cada modelo encontrarás su ficha técnica completa, presentada de manera ordenada y fácil de consultar.",
+  "n": 58,
+  "url": "/motos/marca/yamaha/"
+ },
+ "coches/renault": {
+  "nombre": "Renault",
+  "title": "Renault: 56 fichas de urbanos, familiares y SUV",
+  "description": "56 fichas técnicas de coches Renault: 5 E-Tech 2026, Captur 2025 y Austral E-Tech 200, para comparar toda la gama actual.",
+  "intro": "Renault siempre ha sabido leer lo que necesita el conductor europeo, y su gama actual mezcla tradición popular con una renovación eléctrica muy visible. El 5 E-Tech 2026 recupera un nombre mítico para convertirlo en un urbano con encanto, ideal para la ciudad y para quienes buscan un coche con personalidad propia. El Captur 2025, en cambio, se sitúa como el SUV pequeño de referencia para familias jóvenes: compacto fuera, aprovechable dentro y cómodo para el uso diario. Quien viaja con frecuencia o necesita más espacio tiene en el Austral E-Tech 200 un SUV familiar equilibrado, con buen maletero y orientación al confort en carretera. La familia se completa con el Clio E-Tech 145, un utilitario polivalente que sigue siendo una de las opciones más sensatas para todo uso, y con el R4 E-Tech 52, que reinterpreta otro clásico en clave moderna y práctica. Este repertorio permite cotejar urbanos, SUV y familiares con criterio, y al pulsar cada nombre se muestra el documento íntegro de esa variante, con dotación y datos esenciales.",
+  "n": 56,
+  "url": "/coches/marca/renault/"
+ },
+ "motos/bmw": {
+  "nombre": "BMW Motorrad",
+  "title": "BMW Motorrad: 56 fichas técnicas de motos",
+  "description": "56 fichas técnicas de motos BMW Motorrad: R 12 2026, F 900 GS y C 400 GT, para comparar trail, roadster y scooters.",
+  "intro": "Bajo el nombre de BMW Motorrad conviven motos viajeras, trail aventureras, roadsters urbanas y scooters premium, todas con un denominador común: la búsqueda del viaje cómodo y seguro. La R 12 2026 encarna el espíritu roadster clásico de la marca, con una estética cuidada para disfrutar de la carretera sin prisas. En el mundo trail, la F 900 GS está concebida para quienes alternan asfalto y pistas, con una postura erguida y capacidad para cargar equipaje en rutas largas. La G 310 GS, por su parte, acerca esa misma vocación aventurera a los motoristas que empiezan o que prefieren una moto más ligera y manejable. Para la ciudad, el C 400 GT ofrece el confort de un scooter grande, perfecto para desplazamientos diarios con protección y espacio de carga. Y la CE 02 representa la apuesta más urbana y desenfadada, pensada para moverse por la ciudad con agilidad. Repasar estas fichas permite elegir entre viajar, explorar o desplazarse a diario, y al escoger un modelo se muestra su documento íntegro, con toda la información ordenada para cotejar.",
+  "n": 56,
+  "url": "/motos/marca/bmw/"
+ },
+ "coches/hyundai": {
+  "nombre": "Hyundai",
+  "title": "Hyundai: 55 fichas técnicas para comparar modelos",
+  "description": "55 fichas técnicas de coches Hyundai: i20 2026, Ioniq 5 2026 y Bayon 1.0 TGDi, para comparar urbanos, SUV y eléctricos.",
+  "intro": "Hyundai ha crecido hasta ofrecer una gama completa sin perder su enfoque práctico, y aquí se aprecia ese equilibrio entre modelos urbanos, SUV y propuestas innovadoras. El i20 2026 es el utilitario sensato para quien busca un coche manejable, económico de uso y suficiente para el día a día. El Bayon 1.0 TGDi da un paso más hacia el formato SUV urbano, con una posición de conducción algo más alta y un diseño juvenil que gusta a conductores jóvenes y familias pequeñas. En el terreno familiar, el i30 1.5 TGDi mantiene la fórmula del compacto polivalente, cómodo para viajar y con espacio para el equipaje. La modernidad llega con el Ioniq 5 2026, un modelo que rompe moldes por su diseño y su planteamiento tecnológico, dirigido a quienes quieren un coche distinto sin complicaciones. El Inster 2026, por último, completa la oferta urbana con un formato pequeño y simpático, pensado para la ciudad. Explorar el conjunto facilita encontrar el tamaño y el carácter adecuados, y cada modelo enlazado incluye su ficha técnica completa, lista para revisar versiones y equipamiento.",
+  "n": 55,
+  "url": "/coches/marca/hyundai/"
+ },
+ "coches/toyota": {
+  "nombre": "Toyota",
+  "title": "Toyota: 55 fichas de urbanos, híbridos y SUV",
+  "description": "55 fichas técnicas de coches Toyota: Corolla Cross 2026, C-HR 200H Advance y Aygo X 2026, para comparar toda la gama.",
+  "intro": "Hablar de Toyota es hablar de fiabilidad, eficiencia y una gama que cubre desde el coche urbano hasta el SUV familiar con naturalidad. El Aygo X 2026 es la opción más urbana y desenfadada, perfecta para moverse por calles estrechas y aparcar sin esfuerzo. Un escalón por encima, el Corolla 140H 2026 sigue siendo el compacto de referencia para quienes hacen muchos kilómetros y valoran la comodidad y el bajo consumo de uso. Su hermano, el Corolla Cross 2026, traslada esa misma filosofía a un SUV de tamaño medio, con más altura, más versatilidad y espacio para la familia. El C-HR 200H Advance aporta un diseño más atrevido dentro del mismo planteamiento, dirigido a conductores que buscan destacar sin renunciar a la practicidad. Y para los amantes de la conducción pura, el GR Yaris 2025 ofrece una experiencia radicalmente distinta, centrada en el disfrute al volante. Comparar estas fichas sirve para decidir según ciudad, familia o afición, y cada vínculo abre el expediente pormenorizado de ese modelo, con sus variantes y su dotación explicadas.",
+  "n": 55,
+  "url": "/coches/marca/toyota/"
+ },
+ "coches/ford": {
+  "nombre": "Ford",
+  "title": "Ford: 52 fichas técnicas de coches y SUV",
+  "description": "Las 52 fichas técnicas de coches Ford: Fiesta, Focus, Kuga, Mustang Mach-E y Bronco, con datos, versiones y equipamiento.",
+  "intro": "Ford combina en su gama actual coches pensados para el día a día con modelos de carácter mucho más aventurero, y esa mezcla se aprecia bien recorriendo las 52 fichas de este hub. El Fiesta encaja con quien busca un urbano ágil para moverse por ciudad y aparcar sin complicaciones, mientras el Focus responde al perfil de conductor que quiere un compacto cómodo para trayectos diarios y escapadas de fin de semana. El Kuga, por su parte, se orienta a familias que necesitan espacio, altura de conducción y versatilidad para viajar con equipaje. En el terreno eléctrico, el Mustang Mach-E representa la apuesta de la marca por un SUV de imagen deportiva y uso cotidiano, y el Bronco apela a quienes disfrutan del campo y de las rutas fuera del asfalto. Al desplegar cualquiera de los vínculos aparecerá el informe íntegro de ese coche, con variantes, medidas y dotación, pensado para cotejar con calma antes de decidir. Ese abanico tan amplio permite comparar perfiles muy distintos sin salir de la misma marca.",
+  "n": 52,
+  "url": "/coches/marca/ford/"
+ },
+ "coches/kia": {
+  "nombre": "Kia",
+  "title": "Kia: 51 fichas técnicas de coches eléctricos",
+  "description": "Explora las 51 fichas técnicas de coches Kia: Ceed, EV3, EV6, EV9 y Niro, con versiones, datos y equipamiento detallado.",
+  "intro": "Quien se acerca a Kia suele buscar un coche práctico, bien equipado y fácil de vivir, y las 51 fichas reunidas aquí muestran hasta qué punto esa idea atraviesa toda la gama. El Ceed es la opción natural para quien necesita un compacto equilibrado entre ciudad y carretera, con espacio suficiente para una familia pequeña. El Niro, en cambio, se dirige a conductores que priorizan la eficiencia en el uso diario sin renunciar a la postura elevada de un SUV. La familia eléctrica formada por el EV3, el EV6 y el EV9 cubre desde el SUV compacto urbano hasta el gran SUV familiar pensado para viajes largos con todos los ocupantes. Al pulsar en cada modelo se despliega su ficha técnica completa, donde podrás revisar versiones, medidas y dotación antes de elegir el que mejor encaja contigo. Además, la presencia de versiones híbridas y eléctricas en buena parte de la gama permite ajustar la elección al tipo de trayecto predominante, ya sea urbano, mixto o de larga distancia.",
+  "n": 51,
+  "url": "/coches/marca/kia/"
+ },
+ "coches/skoda": {
+  "nombre": "Škoda",
+  "title": "Škoda: 51 fichas técnicas de coches familiares",
+  "description": "Las 51 fichas técnicas de coches Škoda: Fabia, Kamiq, Karoq, Kodiaq y Elroq, con versiones, datos y equipamiento.",
+  "intro": "Škoda ha construido su reputación sobre coches racionales, amplios y pensados para aprovechar cada centímetro, y las 51 fichas de este apartado lo confirman modelo a modelo. El Fabia resulta ideal para conductores que quieren un utilitario manejable y económico para el uso diario, mientras el Kamiq añade la postura elevada y la practicidad de un SUV urbano sin complicar la vida en ciudad. El Karoq y el Kodiaq suben un peldaño en tamaño y maletero, orientados a familias que viajan con frecuencia y necesitan espacio real para ocupantes y equipaje. El Elroq, dentro de la gama eléctrica, traslada esa misma lógica al comprador que busca un SUV eléctrico funcional y sin estridencias. Siguiendo los enlaces de esta página accederás a la ficha técnica completa de cada variante, con sus medidas, versiones y equipamiento. Esa vocación práctica se nota también en detalles pensados para la vida familiar, como huecos de almacenaje bien resueltos y asientos traseros aprovechables para adultos en trayectos largos.",
+  "n": 51,
+  "url": "/coches/marca/skoda/"
+ },
+ "coches/peugeot": {
+  "nombre": "Peugeot",
+  "title": "Peugeot: 50 fichas técnicas de coches y SUV",
+  "description": "Descubre las 50 fichas técnicas de coches Peugeot: 208, 2008, 3008, 308 y 5008, con versiones, datos y equipamiento.",
+  "intro": "El catálogo de Peugeot se mueve entre el utilitario urbano y el gran SUV familiar con un denominador común: coches de diseño cuidado y comportamiento cómodo para el uso cotidiano. Las 50 fichas de este hub lo recorren de principio a fin. El 208 es la respuesta para quien circula sobre todo por ciudad y valora un coche compacto y fácil de aparcar, mientras el 2008 suma la altura y la versatilidad de un SUV pequeño para escapadas y trayectos mixtos. El 308 se dirige a quienes buscan un compacto con más aplomo en carretera, y el 3008 y el 5008 completan la oferta para familias que necesitan maletero generoso y hasta siete plazas en el caso del mayor. Desde cada vínculo se llega al documento íntegro de ese coche, con variantes, acabados y medidas para cotejar sin prisas. El conjunto resulta atractivo para quien valora un interior cuidado y una conducción suave, tanto en desplazamientos urbanos como en viajes por autovía con la familia.",
+  "n": 50,
+  "url": "/coches/marca/peugeot/"
+ },
+ "motos/ducati": {
+  "nombre": "Ducati",
+  "title": "Ducati: 49 fichas técnicas de motos italianas",
+  "description": "Las 49 fichas técnicas de motos Ducati: Monster, DesertX, Diavel V4, Hypermotard y Multistrada, con datos y versiones.",
+  "intro": "Decir Ducati es hablar de motos con carácter, y las 49 fichas de este hub permiten recorrer una gama que va de la naked urbana a la gran rutera sin perder esa identidad. La Monster es la puerta de entrada perfecta para quien quiere una moto ágil y divertida en el día a día, con una postura natural y un manejo sencillo en ciudad y carretera secundaria. La Hypermotard apela a pilotos que buscan sensaciones más juguetonas y una moto ligera para curvas, mientras la Diavel V4 se orienta a quienes prefieren una presencia imponente y una conducción relajada pero contundente. Para viajar lejos, la Multistrada ofrece comodidad y capacidad de carga, y la DesertX abre la puerta a pistas y aventuras fuera del asfalto. En cada enlace tienes la ficha técnica completa de la moto, con versiones y características detalladas. El resultado es una gama con mucha personalidad, en la que cada modelo tiene un carácter propio y un tipo de motorista al que va dirigido de forma bastante clara.",
+  "n": 49,
+  "url": "/motos/marca/ducati/"
+ },
+ "motos/kawasaki": {
+  "nombre": "Kawasaki",
+  "title": "Kawasaki: 48 fichas técnicas de motos Ninja",
+  "description": "Explora las 48 fichas técnicas de motos Kawasaki: Ninja 500, Ninja 650, Ninja ZX-10R, Eliminator 500 y KLE500.",
+  "intro": "La gama de Kawasaki reunida en estas 48 fichas combina deportividad, versatilidad y modelos pensados para iniciarse en la moto con buen pie. La familia Ninja, con la Ninja 500 y la Ninja 650 como referencias accesibles, se dirige a motoristas que disfrutan de la carretera y de una estética deportiva sin necesidad de una moto extrema, mientras la Ninja ZX-10R queda reservada para quienes buscan las máximas prestaciones en circuito y carretera abierta. La Eliminator 500, de aire custom, encaja con quien prefiere una postura baja y relajada para rodar con calma, y la KLE500 apunta al uso mixto entre asfalto y caminos. Al entrar en cada modelo se despliega su documento íntegro, con variantes, medidas y dotación, preparado para cotejarlo con otras motos de la marca. Esa variedad permite empezar con una moto manejable e ir subiendo de nivel dentro de la misma marca a medida que se gana experiencia en carretera.",
+  "n": 48,
+  "url": "/motos/marca/kawasaki/"
+ },
+ "coches/opel": {
+  "nombre": "Opel",
+  "title": "Opel: 44 fichas técnicas de coches y eléctricos",
+  "description": "Las 44 fichas técnicas de coches Opel: Corsa, Astra, Frontera, Grandland y Combo, con versiones, datos y equipamiento.",
+  "intro": "Opel ofrece una gama sensata y completa para el conductor que valora la practicidad por encima de las complicaciones, y las 44 fichas de este hub la presentan al detalle. El Corsa es el compañero ideal para la ciudad y los desplazamientos diarios, compacto, fácil de manejar y suficiente para una pareja o una familia pequeña. El Astra da el salto al segmento compacto para quienes recorren más kilómetros y quieren mayor aplomo y espacio interior, también en su versión familiar Sports Tourer. El Frontera y el Grandland cubren el terreno SUV, el primero como opción familiar asequible y el segundo como propuesta más amplia para viajes largos. El Combo, por último, responde a necesidades de carga y espacio casi de furgoneta. Pulsando en cada modelo se muestra su documento íntegro, con variantes, dotación y rasgos esenciales para cotejar sin prisas. En conjunto, la gama transmite una idea clara: coches sin complicaciones, con espacio suficiente y equipamiento pensado para el uso real de cada día.",
+  "n": 44,
+  "url": "/coches/marca/opel/"
+ },
+ "coches/cupra": {
+  "nombre": "Cupra",
+  "title": "Cupra: 43 fichas técnicas de coches deportivos",
+  "description": "Descubre las 43 fichas técnicas de coches Cupra: León, Formentor, Ateca, Born y Tavascan, con versiones y datos.",
+  "intro": "Cupra nació para darle un giro deportivo a la gama del grupo, y las 43 fichas de este apartado muestran cómo esa idea se aplica a casi todos los segmentos. El León es la base para quien quiere un compacto con temperamento, ágil en carretera y válido para el día a día, mientras el Formentor se ha convertido en la referencia de la marca entre los SUV: postura elevada, imagen marcada y versiones para casi todos los gustos. El Ateca mantiene un perfil más familiar dentro de ese mismo mundo SUV, y el Born y el Tavascan trasladan el carácter Cupra al coche eléctrico, el primero como compacto urbano y el segundo como SUV de mayor presencia. Cada nombre enlazado despliega el dossier detallado de esa variante, ordenado para confrontar acabados y configuraciones sin salir de esta página. El denominador común es una puesta a punto más viva que la de un coche convencional, sin renunciar por ello a la comodidad en los desplazamientos habituales.",
+  "n": 43,
+  "url": "/coches/marca/cupra/"
+ },
+ "coches/byd": {
+  "nombre": "BYD",
+  "title": "BYD: 42 fichas técnicas de coches eléctricos",
+  "description": "Las 42 fichas técnicas de coches BYD: Dolphin, Atto 3, Seal, Seal U y Sealion 7, con versiones, datos y equipamiento.",
+  "intro": "BYD ha irrumpido en el mercado europeo con una gama centrada en la electrificación, y las 42 fichas de este hub permiten conocerla sin salir de esta página. El Dolphin se presenta como un compacto eléctrico pensado para la ciudad y los trayectos cotidianos, manejable y suficiente para el uso diario. El Atto 3 sube a formato SUV para quienes necesitan más espacio y una postura de conducción elevada sin salir del mundo eléctrico. La familia Seal, con el Seal y el Seal U, se orienta a conductores que buscan una berlina o un SUV de mayor empaque para viajar con comodidad, y el Sealion 7 completa la oferta en el segmento de los SUV grandes. Desde los vínculos de abajo puede consultarse el dossier exhaustivo de cada coche, con variantes, medidas y dotación. Esa apuesta eléctrica se combina con interiores amplios y un equipamiento generoso, dos argumentos que pesan mucho en la decisión de quien cambia a un coche enchufable.",
+  "n": 42,
+  "url": "/coches/marca/byd/"
+ },
+ "coches/dacia": {
+  "nombre": "Dacia",
+  "title": "Dacia: 42 fichas técnicas de coches asequibles",
+  "description": "Explora las 42 fichas técnicas de coches Dacia: Sandero, Duster, Jogger, Bigster y Spring, con versiones y datos.",
+  "intro": "Pocas marcas entienden tan bien como Dacia lo que significa un coche honesto y funcional, y las 42 fichas de este hub son la mejor prueba de ello. El Sandero sigue siendo la opción lógica para quien necesita un coche sencillo y práctico para moverse a diario sin gastar de más, mientras el Spring se dirige a conductores urbanos que quieren dar el paso al coche eléctrico para trayectos cortos. El Duster encaja con familias y usuarios que buscan un SUV robusto, con espacio y capacidad para salidas al campo, y el Jogger responde a quienes necesitan siete plazas y un maletero generoso para viajar con toda la familia. El Bigster, el mayor de la gama, completa la oferta para quienes quieren más tamaño sin renunciar a la filosofía de la marca. Cada vínculo conduce al documento íntegro de ese modelo, con variantes, dotación y rasgos esenciales para decidir con criterio. El resultado es una gama coherente, en la que cada modelo cumple una función clara y ningún euro se gasta en adornos innecesarios para el uso cotidiano.",
+  "n": 42,
+  "url": "/coches/marca/dacia/"
+ },
+ "motos/qjmotor": {
+  "nombre": "QJMotor",
+  "title": "Motos QJMotor: 42 fichas técnicas y precios",
+  "description": "QJMotor en motos: 42 fichas técnicas con precio. Compara la SRK 125S, la SRK 800 y la SRT 450 RX antes de elegir tu próxima moto.",
+  "intro": "QJMotor ha ido ganando sitio entre quienes buscan una moto asequible sin renunciar a una gama amplia, y estas 42 fichas lo reflejan bien: hay opciones para empezar, para moverse por ciudad y para salir de ruta el fin de semana. La familia SRK concentra el carácter más deportivo de la marca, con la SRK 125S como puerta de entrada para los carnés más básicos y la SRK 800 para quien ya quiere una naked de mayor empaque. En el lado más aventurero, la SRT 450 RX apunta a quienes combinan asfalto y pistas, mientras que la Fort 350 EVO y la ATR 125 cubren el uso urbano y el scooter práctico de cada día. Es, en conjunto, una marca pensada para comparar con calma: modelos sencillos para aprender, monturas viajeras para escapadas y scooters para el trayecto diario. Al abrir cualquiera de las fichas vinculadas aparecerá su informe exhaustivo, con toda la información ordenada para valorar cada modelo antes de decidir.",
+  "n": 42,
+  "url": "/motos/marca/qjmotor/"
+ },
+ "motos/cfmoto": {
+  "nombre": "CFMoto",
+  "title": "CFMoto en motos: 41 fichas técnicas y precios",
+  "description": "CFMoto en motos: 41 fichas técnicas con precio. Descubre la 125NK, la 450NK, la 450MT y la 450SR, de la ciudad a la aventura.",
+  "intro": "Quien compara motos buscando equilibrio entre equipamiento, diseño y presupuesto suele acabar mirando CFMoto, y no es casualidad: su catálogo cubre casi todo el camino de un motorista, desde la primera moto hasta la gran trail. La 125NK abre la gama para quienes empiezan y necesitan una moto ligera de uso diario, mientras que la 450NK y la 450SR dan el salto a las medias cilindradas con planteamientos distintos, una naked polivalente y otra de corte más deportivo. Para los que sueñan con viajes largos, la 450MT aporta la versatilidad trail, y la 1000MT-X corona la oferta como opción de mayor empaque para rutas exigentes. Entre medias, la gama deja sitio también a monturas de estilo clásico y urbano. La gama también deja hueco a quienes buscan una moto de estilo clásico para el paseo tranquilo y a los que priorizan la practicidad urbana diaria. Desde cada enlace se accede a la ficha técnica completa del modelo, lista para comparar versiones y decidir sin prisas.",
+  "n": 41,
+  "url": "/motos/marca/cfmoto/"
+ },
+ "motos/ktm": {
+  "nombre": "KTM",
+  "title": "KTM: todas sus motos, 40 fichas técnicas",
+  "description": "KTM en motos: 40 fichas técnicas con precio. De la 125 Duke a la 1390 Super Duke, pasando por la 390 Adventure y la 790 Adventure.",
+  "intro": "El naranja de KTM se reconoce a distancia, y también su planteamiento: motos con carácter marcado, pensadas para quien disfruta conduciendo de verdad. La 125 Duke es la entrada natural a la marca para los más jóvenes, una naked ágil para ciudad y carretera secundaria. Un paso más arriba, la 390 Duke y la 390 Adventure se reparten el uso diario y las escapadas por caminos, según prefieras asfalto o mixto. La 790 Adventure amplía el radio de acción hacia los viajes con equipaje y las pistas, mientras que la 1390 Super Duke representa el extremo más radical de la gama, reservado a motoristas con experiencia que buscan sensaciones fuertes. En medio quedan opciones de enduro y supermotard para los amantes del campo y la diversión pura. Elegir entre tanta variedad exige comparar con calma, porque cada familia apunta a un uso muy distinto. Todas las fichas enlazadas desde aquí recogen la ficha técnica completa de su modelo, para revisar cada detalle antes de elegir.",
+  "n": 40,
+  "url": "/motos/marca/ktm/"
+ },
+ "motos/aprilia": {
+  "nombre": "Aprilia",
+  "title": "Aprilia: 39 motos con ficha técnica completa",
+  "description": "Aprilia en motos: 39 fichas técnicas con precio. RS 125, RS 457, RS 660, Tuareg 660 y SR GT 125: deportivas, trail y scooter.",
+  "intro": "Hablar de Aprilia es hablar de deportividad con acento italiano, pero su catálogo actual va mucho más allá de las motos de circuito. La RS 125 abre la puerta a los más jóvenes con una deportiva ligera y manejable, y la RS 457 continúa ese camino para quienes ya tienen más experiencia y quieren una moto de verdad sin saltar a las grandes cilindradas. La RS 660 se sitúa como la deportiva de peso medio de referencia para carretera y tandas ocasionales, mientras que la Tuareg 660 cambia el enfoque hacia la aventura, con una trail pensada para viajar y salir del asfalto. El lado urbano lo cubre la SR GT 125, un scooter con aspiraciones aventureras para el día a día. Además, la gama deja espacio para el scooter urbano con carácter, pensado para moverse por la ciudad con soltura cada día. Pulsando en cualquier modelo llegarás a su ficha técnica completa, con la información ordenada para comparar entre gamas.",
+  "n": 39,
+  "url": "/motos/marca/aprilia/"
+ },
+ "motos/triumph": {
+  "nombre": "Triumph",
+  "title": "Triumph: 39 motos, fichas técnicas y precios",
+  "description": "Triumph en motos: 39 fichas técnicas con precio. Bonneville T120, Speed 400, Scrambler 400 X, Daytona 660 y Tiger 1200.",
+  "intro": "Pocas marcas transmiten tanto carácter con solo verlas aparcadas como Triumph, y estas 39 fichas recorren ese mundo de clásicas modernas, roadsters y viajeras con calma. La Bonneville T120 encarna la elegancia atemporal para quien busca una moto con presencia y ritmo tranquilo, mientras que la Speed 400 acerca ese espíritu a los que empiezan, con una montura sencilla y divertida. La Scrambler 400 X añade un punto campero para escapadas por caminos, y la Daytona 660 recupera el pulso deportivo para los que prefieren curvas y carretera abierta. Para viajar en serio, la Tiger 1200 ofrece la cara más rutera de la gama, cómoda y equipada para largas distancias. En conjunto, es una marca para quienes valoran el diseño y la personalidad tanto como la propia conducción, sin prisas y con estilo. Al elegir un modelo, su enlace te lleva a la ficha técnica completa, donde puedes consultar sus datos y compararla con el resto de la gama.",
+  "n": 39,
+  "url": "/motos/marca/triumph/"
+ },
+ "coches/citroen": {
+  "nombre": "Citroën",
+  "title": "Citroën: 38 coches con ficha técnica y precio",
+  "description": "Citroën en coches: 38 fichas técnicas con precio. C3, ë-C3, C3 Aircross, C4 y C5 Aircross: urbanos, familiares y SUV.",
+  "intro": "Citroën lleva décadas siendo la opción cómoda y sensata para muchas familias españolas, y su gama actual mantiene esa idea con modelos para casi cada necesidad. El C3 es el urbano polivalente para moverse por ciudad sin complicaciones, y el ë-C3 traslada esa misma lógica a la movilidad eléctrica para el uso diario. Quien necesita algo más de espacio sin saltar a un coche grande encontrará en el C3 Aircross un SUV compacto y práctico, mientras que el C4 ofrece un punto más de empaque y confort para viajar. En lo alto de la gama, el C5 Aircross se dirige a familias que piden maletero, habitabilidad y una conducción relajada en carretera. Junto a ellos, la gama deja sitio a furgonetas y versiones eléctricas para el trabajo y el ocio. Abriendo cada modelo vinculado se consulta su documento íntegro, con toda la información reunida para cotejar con calma antes de comprar.",
+  "n": 38,
+  "url": "/coches/marca/citroen/"
+ },
+ "patinetes/dualtron": {
+  "nombre": "Dualtron",
+  "title": "Dualtron: 38 patinetes eléctricos, fichas técnicas",
+  "description": "Dualtron en patinetes eléctricos: 38 fichas técnicas. Mini, City, Popular, Spider Max y Achilleus para ciudad y rutas largas.",
+  "intro": "Dentro del mundo del patinete eléctrico, Dualtron ocupa el espacio de quienes piden más: más empuje, más autonomía para rutas largas y una construcción pensada para durar. El Mini es la opción más contenida de la marca, adecuada para trayectos urbanos y para quienes buscan un primer contacto con la gama. El City y el Popular se orientan al uso diario en ciudad, con planteamientos equilibrados entre portabilidad y prestaciones para ir y volver del trabajo o de clase. Para los que recorren distancias mayores o buscan sensaciones más intensas, el Spider Max y el Achilleus representan el lado más ambicioso del catálogo, con modelos pensados para rutas exigentes. Sea cual sea tu perfil, conviene comparar con atención antes de decidir. Antes de comprar, conviene valorar el uso real: no es lo mismo un trayecto corto diario que una ruta larga de fin de semana. Siguiendo cualquier enlace de esta selección llegarás a la ficha técnica completa de ese patinete, con sus datos ordenados para valorar cada opción.",
+  "n": 38,
+  "url": "/patinetes/marca/dualtron/"
+ },
+ "coches/porsche": {
+  "nombre": "Porsche",
+  "title": "Porsche: 37 coches con ficha técnica completa",
+  "description": "Porsche en coches: 37 fichas técnicas con precio. 911 Carrera, 911 GT3, Cayenne, Macan y Panamera: deportivos y SUV.",
+  "intro": "Porsche no necesita presentación, pero sí conviene ordenar su gama: junto a los deportivos de leyenda conviven SUV y berlinas que se usan cada día sin renunciar a las sensaciones. El 911 Carrera es el icono de la marca, la referencia para quien busca un deportivo puro de uso habitual, y el 911 GT3 lleva esa idea al extremo para los amantes de la conducción en circuito. En el terreno familiar, el Cayenne aporta espacio y presencia como SUV de gran tamaño, mientras que el Macan ofrece una alternativa más compacta y ágil para ciudad y carretera. El Panamera completa el conjunto como berlina amplia y confortable para viajar con estilo. Entre deportivos y modelos de uso diario, la gama permite elegir según el estilo de vida. La clave está en elegir según el uso: un deportivo para disfrutar, un SUV para la familia o una berlina para viajar. Cada modelo enlazado dispone de su ficha técnica completa, lista para consultar y comparar con el resto de la marca.",
+  "n": 37,
+  "url": "/coches/marca/porsche/"
+ },
+ "patinetes/cecotec": {
+  "nombre": "Cecotec",
+  "title": "Cecotec: 37 patinetes eléctricos con ficha técnica",
+  "description": "Cecotec en patinetes eléctricos: 37 fichas técnicas. Bongo Serie A, Bongo D30, Bongo M40, Bongo Serie X65 y Bongo Y45.",
+  "intro": "Si tu idea es un patinete eléctrico para el día a día sin complicarte, la familia Bongo de Cecotec es uno de los catálogos más amplios que vas a encontrar, y estas 37 fichas lo ordenan por gamas. La Bongo Serie A es la puerta de entrada sencilla para trayectos cortos y uso urbano básico, mientras que la Bongo D30 da un paso más en equipamiento para quienes se mueven a diario por la ciudad. La Bongo M40 se sitúa como opción intermedia y versátil, válida tanto para ir a trabajar como para recados y desplazamientos de ocio. Quienes buscan acabados más completos o modelos de mayor empaque pueden mirar la Bongo Serie X65 y la Bongo Y45, pensadas para un uso más intensivo. En conjunto, es una gama para comparar por uso real, no por la etiqueta. Desde cada modelo enlazado se abre su ficha técnica completa, con la información necesaria para acertar en la elección.",
+  "n": 37,
+  "url": "/patinetes/marca/cecotec/"
+ },
+ "coches/mg": {
+  "nombre": "MG",
+  "title": "MG: 36 coches con ficha técnica y precio",
+  "description": "MG en coches: 36 fichas técnicas con precio. MG 3, MG 4, MG 5, MG HS, MG Cyberster y MG Marvel R: de urbano a deportivo.",
+  "intro": "MG se ha convertido en una de las marcas que más se comparan antes de comprar un coche nuevo, y su gama explica por qué: cubre desde el urbano hasta el deportivo sin dejar fuera al familiar. El MG 3 es la opción compacta para ciudad y primer coche, ágil y fácil de aparcar, mientras que el MG 4 sube un escalón como compacto polivalente para el uso diario y los viajes. El MG 5 aporta la silueta familiar para quienes necesitan maletero y espacio sin irse a un SUV, y el MG HS cubre ese papel de SUV familiar con habitabilidad y presencia en carretera. Para los que buscan algo distinto, el MG Cyberster pone la nota descapotable y deportiva, y el MG Marvel R completa la oferta con un planteamiento más tecnológico. Revisando los enlaces de esta página encontrarás la ficha técnica completa de cada modelo, preparada para comparar y decidir con datos.",
+  "n": 36,
+  "url": "/coches/marca/mg/"
+ },
+ "motos/suzuki": {
+  "nombre": "Suzuki",
+  "title": "Suzuki motos: 36 modelos con ficha técnica y precio",
+  "description": "Las 36 fichas técnicas de motos Suzuki: Address 125, Burgman 400 y GSX-8S, con datos, versiones y precio para comparar antes de elegir.",
+  "intro": "Quien busca una moto Suzuki suele tener claro que quiere una máquina fiable para el día a día o para disfrutar en carretera, y esta colección de 36 fichas ayuda a ordenar esa decisión sin prisas. Entre los modelos reunidos destacan la Address 125, pensada para moverse por ciudad con agilidad; la Burgman 400, un scooter de gran tamaño orientado a trayectos cómodos y a quienes recorren distancias largas con frecuencia; la GSX-8S, una naked equilibrada para quien quiere sensaciones deportivas sin renunciar a un uso cotidiano; la GSX-R125, una deportiva ligera ideal para iniciarse; y la GSX-S1000GT, una sport-turismo para viajar con aplomo. La gama cubre así desde scooters urbanos hasta monturas de corte deportivo y rutero, de modo que conviene comparar primero el tipo de uso: ciudad, commuting, salidas de fin de semana o viajes. Al abrir cualquiera de los modelos enlazados encontrarás su ficha técnica completa, con sus versiones y datos ordenados para decidir con calma.",
+  "n": 36,
+  "url": "/motos/marca/suzuki/"
+ },
+ "patinetes/kaabo": {
+  "nombre": "Kaabo",
+  "title": "Kaabo: 35 patinetes eléctricos con ficha técnica",
+  "description": "Las 35 fichas de patinetes eléctricos Kaabo: Mantis 10 Pro, Mantis King GT y Wolf King GT, con datos y versiones para comparar modelos.",
+  "intro": "Kaabo se ha ganado un hueco entre quienes buscan un patinete eléctrico con carácter, y sus 35 fichas permiten comparar la gama con criterio antes de comprar. La familia Mantis, con modelos como el Mantis 10 Pro, encaja con usuarios urbanos que quieren un patinete sólido para desplazamientos diarios y escapadas ocasionales; el Mantis King GT sube un escalón para quienes priorizan una conducción más contundente y recorridos exigentes. La línea Skywalker, representada por el Skywalker 10H, se orienta a un perfil más equilibrado, útil tanto en ciudad como en trayectos mixtos. Por encima quedan nombres como el Wolf King GT y el Wolf Warrior 11, pensados para aficionados que buscan prestaciones serias y un chasis robusto fuera del uso puramente urbano. Conviene fijarse en el tipo de rueda, la postura de conducción y el uso previsto antes de decidir. Pulsando en un modelo concreto se abre su ficha técnica completa, con toda la información reunida en un solo lugar.",
+  "n": 35,
+  "url": "/patinetes/marca/kaabo/"
+ },
+ "patinetes/navee": {
+  "nombre": "NAVEE",
+  "title": "NAVEE: 35 patinetes eléctricos, fichas y modelos",
+  "description": "Las 35 fichas de patinetes eléctricos NAVEE: GT3 Pro, S65 y N65i, con datos y versiones para elegir el modelo urbano adecuado.",
+  "intro": "Para moverse por la ciudad sin complicaciones, NAVEE ofrece una gama amplia y fácil de entender, y aquí quedan reunidas sus 35 fichas para compararlas de un vistazo. Modelos como el S65 y el N65i responden al perfil del usuario urbano que busca un patinete práctico para ir al trabajo, a clase o hacer recados, con un diseño pensado para el uso diario. El G5 Max y el ST3 Pro, en cambio, se dirigen a quien recorre distancias algo mayores o quiere un plus de comodidad en trayectos mixtos. La serie GT, con el GT3 Pro como referencia, añade un enfoque más deportivo dentro de una gama que sigue siendo eminentemente urbana. Antes de elegir conviene pensar en la distancia habitual, el peso que se está dispuesto a manejar y si el patinete se guardará en casa o en un trastero. Desde los vínculos de esta recopilación se alcanza el documento íntegro de cada patinete, listo para cotejar variantes y detalles.",
+  "n": 35,
+  "url": "/patinetes/marca/navee/"
+ },
+ "motos/voge": {
+  "nombre": "Voge",
+  "title": "Motos Voge: 32 fichas técnicas, modelos y precios",
+  "description": "Las 32 fichas técnicas de motos Voge: 300 Rally, 525DSX y 900 DSX, con datos y versiones para comparar trail, naked y aventura.",
+  "intro": "Voge ha crecido deprisa entre motoristas que buscan una moto versátil sin entrar en gamas de precio alto, y estas 32 fichas recogen esa oferta con orden. La 125R es la puerta de entrada para quienes empiezan o necesitan una moto ligera para ciudad y carreteras secundarias. La 300 Rally, por su parte, tiene un aire aventurero y encaja con usuarios que disfrutan de pistas y escapadas fuera del asfalto sin buscar una montura de gran tamaño. En la zona media, la 525DSX y la 625DSX cubren el perfil trail de uso mixto: commuting entre semana y rutas el fin de semana. La 900 DSX corona la gama para viajeros que quieren una trail de mayor empaque para viajes largos y equipaje. Comparar cilindrada, ergonomía y vocación viajera ayuda mucho a acertar. Los vínculos de la recopilación llevan al documento íntegro de cada moto, con sus variantes y datos pormenorizados.",
+  "n": 32,
+  "url": "/motos/marca/voge/"
+ },
+ "coches/nissan": {
+  "nombre": "Nissan",
+  "title": "Nissan: 31 coches con ficha técnica, precio y datos",
+  "description": "Las 31 fichas técnicas de coches Nissan: Qashqai, Juke y Leaf, con datos, versiones y precio para comparar la gama antes de comprar.",
+  "intro": "Nissan combina en su gama coches urbanos, SUV familiares y modelos eléctricos, y las 31 fichas de esta colección permiten ver ese abanico sin perderse entre versiones. El Micra y el Juke son la opción natural para quien se mueve sobre todo por ciudad y busca un coche manejable y fácil de aparcar, con el Juke aportando un formato SUV compacto. El Qashqai y el X-Trail se orientan a familias y a conductores que hacen muchos kilómetros: el primero como SUV equilibrado para el día a día, el segundo con mayor espacio y vocación viajera. El Leaf y el Ariya representan la apuesta eléctrica de la marca, pensados para quienes disponen de un punto de recarga habitual y buscan un uso urbano y periurbano sin emisiones locales. Revisar el espacio, el tipo de motorización y el uso real ayuda a estrechar la lista. Siguiendo los vínculos aparecerá el documento íntegro de cada coche, con variantes y datos para cotejar.",
+  "n": 31,
+  "url": "/coches/marca/nissan/"
+ },
+ "patinetes/smartgyro": {
+  "nombre": "SmartGyro",
+  "title": "SmartGyro: 31 patinetes eléctricos y sus fichas",
+  "description": "Las 31 fichas de patinetes eléctricos SmartGyro: K2 Pro, Raptor Evo y Speedway Pro, con datos y versiones para comparar la gama.",
+  "intro": "SmartGyro es una de las marcas más conocidas en España dentro de los patinetes eléctricos, y sus 31 fichas ayudan a distinguir entre modelos que, a primera vista, pueden parecer parecidos. El K2 Pro y el Speedway Pro son buenas referencias para el usuario urbano que quiere un patinete fiable para desplazamientos diarios, con un equilibrio entre comodidad y facilidad de uso. La familia Crossover, con el Crossover Dual Pro, se dirige a quienes buscan más estabilidad y una conducción más asentada en trayectos mixtos. El Raptor Evo y el Rockway Pro Evo, por su parte, apuntan a un público más exigente, que valora una estructura robusta y un comportamiento serio fuera del simple trayecto corto. Antes de decidir, merece la pena valorar la distancia diaria, el terreno habitual y la frecuencia de uso. Los modelos enlazados abren su ficha técnica completa, donde se recogen versiones y datos de forma ordenada.",
+  "n": 31,
+  "url": "/patinetes/marca/smartgyro/"
+ },
+ "coches/chery": {
+  "nombre": "Chery",
+  "title": "Chery: 30 coches con ficha técnica y modelos",
+  "description": "Las 30 fichas técnicas de coches Chery: Tiggo 8, Tiggo 9 y eQ7, con datos y versiones para comparar SUV y modelos urbanos.",
+  "intro": "Chery llega al mercado español con una gama centrada en SUV y modelos urbanos de enfoque práctico, y estas 30 fichas permiten conocerla sin confundirla con otras marcas del mismo grupo. El eQ1 y el QQ Ice Cream son coches pequeños pensados para la ciudad: fáciles de mover, de aparcar y de usar en trayectos cortos del día a día. El eQ7 y el Fulwin T9 se sitúan en un segmento más familiar, con mayor espacio y vocación para viajes y uso mixto. Los Tiggo 8 y Tiggo 9, por su parte, son los SUV de mayor tamaño de la colección, orientados a familias que necesitan maletero, plazas cómodas y un coche polivalente para todo tipo de recorridos. Elegir entre ellos depende sobre todo del espacio necesario y del tipo de trayecto habitual. Los vínculos de esta recopilación conducen al informe exhaustivo de cada coche, con variantes y datos expuestos con claridad.",
+  "n": 30,
+  "url": "/coches/marca/chery/"
+ },
+ "coches/fiat": {
+  "nombre": "Fiat",
+  "title": "Fiat: 30 coches, fichas técnicas y precios",
+  "description": "Las 30 fichas técnicas de coches Fiat: 500e, Grande Panda y 600, con datos, versiones y precio para comparar la gama urbana.",
+  "intro": "Fiat siempre ha sabido hacer coches urbanos con personalidad, y las 30 fichas de esta colección muestran cómo esa idea sigue viva en su gama actual. El 500e y el Panda Pandina son los representantes más urbanos: compactos, ágiles y pensados para moverse por calles estrechas, aparcar sin esfuerzo y resolver el día a día con poco gasto de espacio. El Grande Panda y el 600 dan un paso más hacia el uso familiar, con mayor habitabilidad y un formato que encaja tanto en ciudad como en escapadas de fin de semana. El Doblò, por último, se dirige a quienes necesitan espacio de verdad, ya sea por familia numerosa, por aficiones que exigen carga o por un uso mixto entre lo personal y lo profesional. Comparar tamaño, motorización y necesidades de carga aclara la elección. Al entrar en un modelo enlazado verás su ficha técnica completa, con versiones y datos listos para comparar.",
+  "n": 30,
+  "url": "/coches/marca/fiat/"
+ },
+ "coches/jeep": {
+  "nombre": "Jeep",
+  "title": "Jeep: 30 coches con ficha técnica y aventura",
+  "description": "Las 30 fichas técnicas de coches Jeep: Avenger, Compass y Wrangler, con datos y versiones para comparar SUV urbanos y todoterreno.",
+  "intro": "Hablar de Jeep es hablar de SUV con carácter, pero su gama actual va mucho más allá del todoterreno puro, y estas 30 fichas lo dejan claro. El Avenger es el modelo más urbano de la colección: compacto y manejable, pensado para quien quiere el estilo Jeep sin renunciar a la facilidad de uso en ciudad. El Renegade y el Compass ocupan la zona media, como SUV polivalentes para familias y conductores que alternan ciudad, carretera y escapadas ocasionales fuera del asfalto. El Grand Cherokee aporta mayor empaque y confort para viajes largos, mientras el Wrangler sigue siendo la referencia para los aficionados a la aventura y a los caminos difíciles. Elegir bien pasa por ser honesto con el uso real: ciudad, familia, viaje o campo. Los vínculos disponibles abren el informe exhaustivo de cada coche, con variantes, datos y rasgos para decidir sin dudas y con toda la información necesaria.",
+  "n": 30,
+  "url": "/coches/marca/jeep/"
+ },
+ "coches/seat": {
+  "nombre": "SEAT",
+  "title": "SEAT: 30 coches con ficha técnica y precio",
+  "description": "Las 30 fichas técnicas de coches SEAT: Ibiza, León y Arona, con datos, versiones y precio para comparar la gama española.",
+  "intro": "SEAT sigue siendo una de las marcas más presentes en las carreteras españolas, y sus 30 fichas recogen una gama pensada para todos los usos cotidianos. El Ibiza es el urbano por excelencia: ágil, fácil de aparcar y perfecto para conductores que se mueven sobre todo por ciudad. El Arona añade el formato SUV compacto para quien busca una postura más alta sin perder manejabilidad. El León, junto con su variante familiar León Sportstourer, cubre el perfil del compacto polivalente: commuting diario, viajes en familia y un maletero que resuelve el fin de semana. El Ateca, por último, es el SUV de mayor tamaño de la colección, orientado a familias que necesitan espacio y una conducción cómoda en carretera. Antes de elegir conviene comparar con calma tamaño, espacio y tipo de trayecto habitual. Desde esta recopilación se puede revisar el expediente detallado de cada coche, con sus variantes y rasgos pormenorizados.",
+  "n": 30,
+  "url": "/coches/marca/seat/"
+ },
+ "motos/zontes": {
+  "nombre": "Zontes",
+  "title": "Zontes: 30 fichas técnicas de motos en España",
+  "description": "Descubre las 30 fichas técnicas de motos Zontes: 125M, 350E, 368G y 703F, con datos, versiones y comparativa para elegir.",
+  "intro": "Quien busca una moto práctica sin renunciar a un diseño llamativo suele acabar mirando el catálogo de Zontes, una marca que ha crecido con rapidez entre quienes se mueven a diario en ciudad y quienes dan sus primeros pasos en moto. Su gama cubre desde scooters ágiles para el tráfico urbano hasta modelos de mayor cilindrada pensados para escapadas de fin de semana, y eso explica que interese tanto a conductores noveles como a usuarios que quieren subir de cilindrada sin complicarse. Entre los nombres que encontrarás aquí destacan el 125M, pensado para la movilidad diaria; el 350E, un scooter de planteamiento más viajero; el 368G, orientado a un uso mixto con mayor presencia; y el 703F, la opción de la gama para quienes buscan una moto de mayor envergadura. Los modelos de menor cilindrada encajan con desplazamientos cortos, aparcamiento sencillo y un uso económico, mientras que las versiones más grandes se dirigen a trayectos más largos y a conductores con más experiencia. Al abrir cualquiera de las fichas vinculadas desde este índice tendrás a mano su documento íntegro, con sus datos, variantes y rasgos principales para cotejar con calma antes de decidir.",
+  "n": 30,
+  "url": "/motos/marca/zontes/"
+ },
+ "motos/benelli": {
+  "nombre": "Benelli",
+  "title": "Benelli: 29 fichas técnicas de motos clásicas",
+  "description": "Las 29 fichas técnicas de motos Benelli: TRK 502, Leoncino 800, Imperiale 400 y BN 125, para comparar modelos y versiones.",
+  "intro": "Hablar de Benelli es hablar de una marca con un acento claramente italiano en el diseño, pero con una gama pensada para el uso real de cada día. Sus motos atraen a quienes valoran una estética cuidada, un sonido característico y una posición de conducción cómoda, tanto para moverse por ciudad como para disfrutar de rutas con curvas. En este índice se reúnen modelos tan distintos como la TRK 502, una trail pensada para viajar con equipaje y afrontar carreteras secundarias; la Leoncino 800, con un aire scrambler que encaja con conductores que buscan estilo sin renunciar a la versatilidad; la Imperiale 400, de espíritu clásico para paseos tranquilos y un uso relajado; y la BN 125, una puerta de entrada ideal para quienes empiezan. Las trail se orientan a viajes y a un uso polivalente, las scrambler a un perfil más urbano y desenfadado, y las clásicas a quienes priorizan la sencillez y el disfrute pausado. Pulsando en cualquier modelo de la lista accederás a su ficha técnica detallada, donde se recogen sus especificaciones, versiones y rasgos distintivos.",
+  "n": 29,
+  "url": "/motos/marca/benelli/"
+ },
+ "coches/volvo": {
+  "nombre": "Volvo",
+  "title": "Volvo: 28 fichas técnicas de coches seguros",
+  "description": "Consulta las 28 fichas técnicas de coches Volvo: EX30, XC60, V60 y ES90, con versiones, datos y comparativa por modelo.",
+  "intro": "Volvo se ha ganado su reputación entre conductores que ponen la seguridad, el confort y la serenidad al volante por encima de cualquier estridencia. Su gama actual combina coches eléctricos, familiares y SUV de distintos tamaños, todos con un interior cuidado y una conducción pensada para hacer agradables los trayectos largos. El EX30 representa la entrada más urbana y manejable de la gama eléctrica, ideal para la ciudad y para familias que necesitan un segundo coche versátil; el XC60 se dirige a quienes buscan un SUV familiar equilibrado, cómodo en carretera y práctico en el día a día; el V60 encaja con conductores que prefieren un familiar con maletero generoso y un comportamiento aplomado; y el ES90 apunta a un perfil más viajero y tecnológico. Los modelos eléctricos atraen a conductores con acceso cómodo a recarga, mientras que los familiares e híbridos siguen siendo la opción de quienes hacen muchos kilómetros. Desde aquí puede entrarse en el documento íntegro de cada modelo para revisar sus datos, variantes y dotación con detalle.",
+  "n": 28,
+  "url": "/coches/marca/volvo/"
+ },
+ "coches/mazda": {
+  "nombre": "Mazda",
+  "title": "Mazda: 27 fichas técnicas de coches japoneses",
+  "description": "Las 27 fichas técnicas de coches Mazda: Mazda3, CX-30, CX-5, CX-80 y MX-5, con datos y versiones para comparar antes de comprar.",
+  "intro": "Pocos fabricantes cuidan tanto la sensación al volante como Mazda, y eso se nota en una gama donde incluso los modelos más familiares transmiten un tacto preciso y un interior bien resuelto. Quien elige esta marca suele buscar un coche agradable de conducir, con buen acabado y sin renunciar a la practicidad diaria. El Mazda3 es la opción compacta para conductores que hacen ciudad y carretera a partes iguales; el CX-30 ofrece la postura elevada de un SUV sin un tamaño excesivo, perfecto para familias jóvenes; el CX-5 sube un escalón en espacio y confort para viajes frecuentes; el CX-80 se orienta a familias numerosas o a quienes necesitan hasta siete plazas y un maletero amplio; y el MX-5 sigue siendo el roadster de referencia para disfrutar de la conducción en estado puro. Los SUV de la gama cubren desde el uso urbano hasta el familiar más exigente, mientras que el Mazda3 y el MX-5 apelan al placer de conducir. Siguiendo los enlaces de este hub llegarás a la ficha técnica íntegra de cada coche, con sus versiones y datos clave.",
+  "n": 27,
+  "url": "/coches/marca/mazda/"
+ },
+ "coches/lexus": {
+  "nombre": "Lexus",
+  "title": "Lexus: 26 fichas técnicas de coches premium",
+  "description": "Explora las 26 fichas técnicas de coches Lexus: LBX, NX 350h, RX 500h y RZ 450e, con versiones y datos para comparar.",
+  "intro": "Lexus ocupa un lugar propio dentro del mundo premium: interiores silenciosos, acabados cuidados hasta el último detalle y una apuesta decidida por la hibridación que hace la conducción urbana especialmente suave. Es la marca que eligen quienes buscan confort absoluto, fiabilidad a largo plazo y un coche que transmita calma en cada trayecto, ya sea en ciudad o en autopista. El LBX abre la gama como urbano premium, manejable y bien equipado para el día a día; el NX 350h se ha convertido en el SUV familiar de referencia para quienes necesitan espacio sin perder eficiencia; el RX 500h apunta a un público que quiere más presencia, más maletero y un nivel superior de confort; y el RZ 450e representa la vertiente eléctrica, pensada para conductores que ya pueden cargar con comodidad y priorizan el silencio. Las berlinas como el ES 300h, por su parte, siguen siendo la elección de quienes viajan mucho y valoran un gran confort. En el documento íntegro vinculado de cada modelo hallarás sus variantes, datos y rasgos principales.",
+  "n": 26,
+  "url": "/coches/marca/lexus/"
+ },
+ "coches/maserati": {
+  "nombre": "Maserati",
+  "title": "Maserati: 26 fichas técnicas de coches italianos",
+  "description": "Las 26 fichas técnicas de coches Maserati: Grecale, GranTurismo, GranCabrio y MC20, con datos y versiones de la gama.",
+  "intro": "El tridente de Maserati sigue siendo sinónimo de deportividad italiana, de motores con carácter y de un diseño que no pasa desapercibido. Quien se acerca a esta marca no busca simplemente desplazarse: busca un coche con personalidad, con un interior de inspiración artesanal y con unas prestaciones que se disfrutan en carreteras abiertas. El Grecale es el SUV de la gama y la puerta de entrada más versátil, adecuado para un uso diario con un toque distintivo; el GranTurismo encarna el gran coupé para viajar rápido y con elegancia; el GranCabrio añade a esa fórmula el placer de conducir descapotado; y el MC20 representa la máxima expresión deportiva de la marca, pensada para conductores que priorizan las sensaciones puras. Los modelos como el Ghibli o el Quattroporte, por su parte, mantienen la tradición de las berlinas deportivas con espacio para cuatro ocupantes. Si abres la ficha de cualquiera de estos modelos, verás su ficha técnica completa con versiones, datos y equipamiento.",
+  "n": 26,
+  "url": "/coches/marca/maserati/"
+ },
+ "patinetes/joyor": {
+  "nombre": "Joyor",
+  "title": "Joyor: 25 fichas de patinetes eléctricos",
+  "description": "Las 25 fichas de patinetes eléctricos Joyor: S5 Pro, S10-S, Y10 y G5, con datos y versiones para elegir tu modelo.",
+  "intro": "Joyor se ha hecho un hueco entre quienes usan el patinete eléctrico a diario para ir al trabajo, a clase o a hacer recados, con una gama amplia que va desde modelos sencillos y ligeros hasta otros de planteamiento más campero. Su público habitual valora la autonomía para el trayecto diario, una buena estabilidad y un plegado cómodo para guardar el patinete en casa o subirlo al transporte público. El S5 Pro encaja con desplazamientos urbanos habituales y un uso intensivo; el S10-S se orienta a quienes recorren distancias algo mayores y quieren mayor aplomo; el Y10 apunta a usuarios que buscan un patinete más robusto para un uso mixto; y el G5 cubre el perfil de quien empieza y necesita un modelo manejable y sencillo. Los modelos compactos son ideales para ciudad y trayectos cortos, mientras que los de mayor tamaño se adaptan mejor a caminos y a un uso más exigente. Tocando en cada modelo de este listado se abre su informe exhaustivo, con sus datos, variantes y puntos fuertes.",
+  "n": 25,
+  "url": "/patinetes/marca/joyor/"
+ },
+ "patinetes/segway-ninebot": {
+  "nombre": "Segway-Ninebot",
+  "title": "Segway-Ninebot: 25 fichas de patinetes eléctricos",
+  "description": "Consulta las 25 fichas de patinetes eléctricos Segway-Ninebot: Max G2, F2 Pro, E2 Plus y GT1, con datos y versiones.",
+  "intro": "Cuando se habla de patinetes eléctricos de uso urbano, Segway-Ninebot aparece casi siempre entre las primeras opciones, gracias a una gama ordenada, fácil de entender y pensada para el día a día. Sus modelos interesan tanto a estudiantes y trabajadores que recorren la ciudad como a familias que buscan un patinete fiable para trayectos cortos y ocio. El KickScooter Max G2 es la referencia para desplazamientos diarios con buena autonomía y comodidad; el F2 Pro se dirige a quienes quieren un equilibrio entre prestaciones y tamaño contenido; el E2 Plus resulta adecuado para empezar, con un manejo sencillo y un formato ligero; y el SuperScooter GT1 se orienta a un uso más deportivo y a usuarios con experiencia. Las series E y F cubren el uso urbano cotidiano, la gama Max añade versatilidad para trayectos más largos, y la línea GT se reserva para un perfil más exigente. Desde cualquier vínculo de este repertorio se alcanza el documento exhaustivo de ese patinete, con sus cifras y configuraciones disponibles.",
+  "n": 25,
+  "url": "/patinetes/marca/segway-ninebot/"
+ },
+ "coches/aixam": {
+  "nombre": "Aixam",
+  "title": "Aixam: 23 fichas de cuadriciclos ligeros",
+  "description": "Las 23 fichas de Aixam: cuadriciclos ligeros como el Minauto Access, con datos y versiones para la movilidad urbana.",
+  "intro": "Aixam ocupa un nicho muy concreto dentro de la movilidad: los cuadriciclos ligeros, vehículos pensados para moverse por ciudad y por entornos cercanos con un formato compacto, un manejo sencillo y un consumo contenido. Su público habitual incluye a conductores jóvenes que se inician en la movilidad, a personas que necesitan un vehículo práctico para trayectos cortos y a usuarios que buscan aparcar con facilidad en calles estrechas o en centros urbanos. En este hub, el ejemplo verificado de la gama es el Minauto Access, un cuadriciclo ligero orientado a la movilidad diaria, a los desplazamientos cortos y a un uso urbano sin complicaciones. Frente a un coche convencional, este tipo de vehículo se distingue por su tamaño reducido, su facilidad de uso y su enfoque eminentemente práctico, más cercano a un complemento de movilidad que a un coche familiar. Las fichas reunidas aquí permiten comparar las distintas variantes y configuraciones de cuadriciclo ligero de la marca. Al entrar en el documento íntegro vinculado de cada variante comprobarás sus datos, variantes y rasgos esenciales.",
+  "n": 23,
+  "url": "/coches/marca/aixam/"
+ },
+ "coches/hongqi": {
+  "nombre": "Hongqi",
+  "title": "Hongqi: 23 fichas técnicas de coches chinos",
+  "description": "Las 23 fichas técnicas de coches Hongqi: H9, HS5, HS7, H5 y E-QM5, con datos y versiones para conocer la gama.",
+  "intro": "Hongqi llega al mercado europeo con una propuesta poco habitual: berlinas y SUV de presencia imponente, interiores lujosos y un posicionamiento que recuerda a las grandes marcas de representación. Su público natural son conductores que buscan distinción y espacio, tanto para uso familiar como para desplazamientos profesionales en los que la imagen y el confort pesan tanto como la practicidad. El H9 es la berlina insignia, pensada para viajes largos y para quienes valoran un habitáculo amplio y refinado; el H5 ofrece una berlina de tamaño más contenido para un uso familiar y profesional; el H6 se orienta a un perfil algo más dinámico dentro de las berlinas; el HS5 cubre el segmento de los SUV familiares con un planteamiento práctico; y el HS7 sube de tamaño para familias que necesitan más espacio y presencia en carretera. El E-QM5, por su parte, representa la vertiente eléctrica de la gama. Navegando por los vínculos de este repertorio se mostrará el documento íntegro de cada coche, con sus variantes y datos principales.",
+  "n": 23,
+  "url": "/coches/marca/hongqi/"
+ }
+}

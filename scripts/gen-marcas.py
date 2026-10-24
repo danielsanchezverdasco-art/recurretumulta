@@ -102,6 +102,20 @@ for (c,slug),d in pags.items():
   for k in (3,2,1,0):
     d["description"]=f"Todas las fichas técnicas de {CATN[c]} {d['nombre']} ({n})"+(": "+", ".join(pr[:k])+(" y más" if n>k else "") if k else "")+". Precio, potencia, autonomía y etiqueta DGT."
     if len(d["description"])<=158: break
+# Contenido propio hubs-marca (tanda 1, 50 hubs, rama hubs-marca-188-merlin, revisado 24/10/2026):
+# title/description/intro propios; el número de fichas se recalcula con los items reales.
+try:
+  _CONT=json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"hubs-marca-contenido.json"),encoding="utf8"))
+except Exception:
+  _CONT={}
+for (_c,_s),_d in pags.items():
+  _o=_CONT.get(f"{_c}/{_s}")
+  if not _o: continue
+  _n=len(_d["items"]); _fix=lambda t: re.sub(rf'\b{_o["n"]}( fichas)',rf'{_n}\1',t)
+  _t,_ds=_fix(_o["title"]),_fix(_o["description"])
+  if len(_t)<=60: _d["title"]=_t
+  if len(_ds)<=155: _d["description"]=_ds
+  if _o.get("intro"): _d["intro"]=_fix(_o["intro"])
 assert len({d["title"] for d in pags.values()})==len(pags), "títulos duplicados"
 def poner(h,title,desc,url):
   h=re.sub(r"<title>[^<]*</title>",f"<title>{e(title)}</title>",h,count=1)
