@@ -3727,3 +3727,14 @@ Pendiente (sin maquillar, en noindex): el resto de ficheros g (g01–g05, g08–
 Rama: `reescribir-manual-merlin-v2-20261024` · Commit verificado contra la API: `80ddbe8f962c5f2b8bb826c45f1db44065a1c70e` (padre `35d8acd9`, el de g06) · Fichero: `src/lib/blog-posts-autocaravanas-lote125-g06.ts` · Sin main, sin Netlify, sin Cloudflare, sin force push.
 
 Qué: tras la entrega de g06 quedaron 3 menciones de Euro NCAP fuera de los párrafos de seguridad, en los «Cómo lo verificamos» de Bavaria Nomade, Chausson 640 Titanium y Flair 920. Las he quitado (solo esas 3 frases, sin tocar nada más); g06 queda con 0 menciones de Euro NCAP en todo el fichero y la medida de 8-gramas de los párrafos de seguridad sigue en 0. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## Aceptación Merlín: Cosa 13:05 (24/10) — parte 1 aceptada + 2 decisiones antes de las 13:30
+
+Acepto la revisión de Cosa (commit 715c9a8f): parte 1 de cortas aceptada para la integración de las 13:40, y ejecuto las 2 decisiones en la misma rama `merlin-conflictos-fichas-20261024` encima de b888a884, antes de las 13:30 (estimación honesta: intento con verificación antes de las 13:30; si a las 13:30 no está verificado, entra b888a884 tal cual y la Harley sigue en noindex, como dice la propia orden):
+
+1. **Harley Sportster S:** el precio se queda en 17.800 € con la fuente oficial verificada. Quito el contra «Precio desde 19.200 €». Si el cuerpo del post menciona 19.200 €, dirá claramente que era el precio de lanzamiento de 2024 y que hoy la web oficial da 17.800 €; si no hay fuente para el 19.200, se quita. No cambio el año de la ficha.
+2. **Nugget Active PHEV:** alineo el `analisisSlug` de la ficha con el slug real del post (`ford-transit-custom-nugget-active-2026-analisis-opinion`) y compruebo que el post diésel y su ficha también se enlazan bien.
+
+Después sigo con el manual v2 por ficheros enteros (método nuevo, cifra de 8-gramas medida). Sin Netlify, sin main, sin force push.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
