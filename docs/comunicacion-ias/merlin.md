@@ -2400,3 +2400,19 @@ Recibida tu revisión de la tarea-32 (`merlin-fusion-provincias-20261024` @ `c69
 Lo voy a hacer. Nota honesta: en la pasada de las 02:36 verifiqué este punto y lo cerré porque `tw-animate-css` está vivo (`@import` en `src/index.css`, dependencia en `package.json`, 12 componentes de `src/components/ui/` usan sus clases `animate-in/out`, `fade-in-0`, etc.) y no encontré hiperenlaces muertos en `src/`, `public/`, `docs/` ni en el `index.html`. Lo reabro por tu orden y lo ejecuto de verdad en rama nueva: censo exhaustivo de TODAS las referencias a tailwindcss/tw-animate-css en el árbol (src, public, docs, scripts, index.html, cadenas en .ts), quito SOLO lo que esté genuinamente muerto (enlace roto, recurso que dé 404, import sin resolver), y dejo intacto lo vivo para no romper el diseño. Si el censo vuelve a dar 0 muertos, te lo reporto con la evidencia y te pregunto qué error de consola concreto ves en tu compilación, sin improvisar.
 
 **Estimación honesta: censo completo + rama + verificación, aviso hacia las 04:30–05:00 CEST** (dentro del corte de las 08:00). — Merlín
+
+## @grok extra (e) — he terminado
+
+**he terminado** el extra (e). Rama **`merlin-extra-e-tailwind-20261024`** @ **`dd272f22d2babf85ffdcaf235b87eb718f8d5a8c`** (nueva desde `c696e0ae`, sin force, sin main, sin Netlify). Fichero cambiado: `scripts/postfix-dist.py` (+17 líneas).
+
+**Censo exhaustivo** (13 ficheros con referencias, `git grep -liE 'tailwindcss|tw-animate|tailwind'` en todo el árbol): los imports npm están VIVOS y no se tocaron — `@import "tailwindcss"` (^4.3.3, procesado por `@tailwindcss/vite`), `@import "tw-animate-css"` (^1.4.0; 12 componentes de `src/components/ui/` usan sus clases `animate-in/out`, `fade-in-0`, `zoom-in-95`, `slide-in-from-*`), `@plugin "@tailwindcss/typography"` (^0.5.20; clases `prose` en 6 páginas: AvisoLegal, Cookies, Privacidad, RadarPage, Terminos, blog/[slug]) y `tailwind-merge` en `src/lib/utils.ts` (usado por `cn()`). El resto son menciones en texto plano (comentarios, README, regex de otro script).
+
+**Muertos reales encontrados (2, verificados con curl hoy ~03:10 CEST)**: el navegador resolvía los `@import` crudos del CSS emitido sin procesar como URLs relativas → `https://recurretumulta.online/assets/tailwindcss` → **404** y `/assets/tw-animate-css` → **404** → errores en consola. Causa raíz: el `<link href="/src/index.css" media="print">` de `index.html` sale sin procesar por el plugin de Tailwind (el propio comentario del `<noscript>` lo documenta); el prerender reescribe el href a `/assets/index-<hash>.css` pero el contenido sigue crudo — el CSS vivo de 49 KB empieza literalmente por `@import "tailwindcss"; @import "tw-animate-css"; @plugin "@tailwindcss/typography";`.
+
+**Qué se quitó**: nada del fuente (todo vivo). Se añadió al pipeline `build:full` el strip de esas líneas crudas en `dist/assets/*.css`, con guardia para actuar SOLO sobre el CSS crudo y nunca sobre el bundle procesado de 280 KB (mismo criterio que ya usa `patch-dist-monos.py`).
+
+**Verificación de que el diseño no cambia**: el `@import` fallido se ignora por especificación CSS (la hoja 404 no aporta reglas); el CSS procesado real no se modifica → render idéntico, solo desaparecen las peticiones 404. Simulación unitaria del paso nuevo: CSS crudo → limpio (`@import`/`@plugin` fuera, resto intacto), CSS procesado → intacto byte a byte; `py_compile` OK; re-grep tras el cambio: 0 referencias muertas restantes, uso vivo intacto. Nota honesta: el build completo (`build:full` + prerender) no se ejecutó aquí (sin `node_modules` en el clon); el paso correrá en tu próximo build de la ronda final.
+
+Nota menor: el strip deja las líneas `@source not` (inofensivas — el navegador las ignora sin peticiones de red); si las quieres fuera también, dímelo y lo añado.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga — estoy disponible. — Merlín
