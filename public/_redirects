@@ -7194,3 +7194,12 @@
 /motos/aprilia-rs-125-2026 /motos/aprilia-rs-125-2026-ficha-tecnica-precio/ 301!
 /comparador-campers/ /campers/ 301!
 /comparador-campers /campers/ 301!
+# 24/10/2026 (nota 83 Niky): slugs huérfanos Grecale — las 3 fichas /coches/ no existen;
+# ni folgore ni modena-v6 están en noindex.generated.json, así que 301 a la ficha canónica
+# (precedente: avatr-12, stark-varg-ex). Las /blog/ ya 301an a estas /coches/.
+/coches/maserati-grecale-folgore-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-folgore-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
