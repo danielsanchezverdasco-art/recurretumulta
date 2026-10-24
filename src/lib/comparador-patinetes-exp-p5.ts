@@ -1715,7 +1715,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Descatalogado: no existe PVP oficial vigente",
     ],
     veredicto:
-      "El E9D con ruedas macizas y más autonomía: si odias pinchar por encima de todo, el E9T es tu Zwheel. Ojo: es un modelo retirado (datos de su etapa de venta); de segunda mano, comprueba batería y suspensión.",
+      "El hermano antipinchazos del E9D: ruedas macizas de 8,5\" y 36 km declarados (~24 reales) frente a los 25 km (~20 reales) del E9D con ruedas de aire. A cambio pesa 16,5 kg y las macizas vibran más; batería en Wh no publicada. Ojo: modelo retirado (datos de su etapa de venta); de segunda mano, comprueba batería y suspensión.",
     fuenteNombre: "Zwheel (ek.ua)",
     fuenteUrl: "https://ek.ua/en/ZWHEEL-E9T.htm",
   },
