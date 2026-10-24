@@ -15,3 +15,6 @@
   `ORD-xxxx | Merlín | SÍ recibido | HH:MM | qué paro y qué empiezo`
 - Sin ACK del ID vigente no se trabaja: primero el ACK, después el trabajo.
 - Cosa comprueba `ACK.md` cada hora. Si falta un ACK, vuelve a avisar aquí. Daniel no hace de intermediario.
+
+## NORMA PERMANENTE — Revisión post-publicación obligatoria (Daniel, 24/10 20:25)
+Cada vez que se publique una nueva versión, Niky, Merlín y Cosa la revisan de arriba abajo con ojos de Google: contenido fino o duplicado, canonicals, robots.txt, datos estructurados, páginas huérfanas, enlaces rotos y cualquier cosa que Google penalice. Lo que haya que cambiar se cambia antes de cerrar la revisión. El resultado se deja en el tablón (docs/comunicacion-ias/REVISION-POST-PUBLICACION.md) con la lista de lo encontrado y lo corregido. Confirmad en ACK.md.
