@@ -8,6 +8,8 @@ import { Badge } from "@/components/ui/badge.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { getProvinciaBySlug, PROVINCIAS, PORTAL_PAGO_MULTAS_DGT, PLAZO_ALEGACIONES_MULTAS, TELEFONO_ATENCION_DGT } from "@/lib/provincias-data.ts";
 import { RADARES_POR_PROVINCIA } from "@/lib/radares-por-provincia.generated.ts";
+// 24/10/2026 (orden Grok 03:05): mapa lazy al clic por radar; sin iframes en el HTML inicial.
+import MapaRadarLazy from "@/components/geo/MapaRadarLazy.tsx";
 import { HISTORIAS_PROVINCIA } from "@/lib/historias-provincias.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
@@ -354,18 +356,24 @@ export default function MultaProvinciaPage() {
                   {radaresProvincia.map((r) => (
                     <li key={r.id}>
                       <div
-                        className="flex items-center justify-between gap-2 border border-gray-200 rounded-xl px-3 py-2.5 bg-white"
+                        className="border border-gray-200 rounded-xl px-3 py-2.5 bg-white space-y-1.5"
                       >
-                        <span className="text-sm text-gray-700">
-                          <span className="font-bold text-gray-900">{r.carretera} pk {r.pk}</span>
-                          {r.municipio ? <> — {r.municipio}</> : null}
-                          {r.sentido ? <span className="text-gray-400"> ({r.sentido})</span> : null}
-                        </span>
-                        {r.limite != null ? (
-                          <span className="shrink-0 rounded-full bg-[#cd001d] px-2 py-0.5 text-[11px] font-extrabold text-white">{r.limite} km/h</span>
-                        ) : (
-                          <span className="shrink-0 text-[10px] font-semibold text-gray-400">límite no publicado</span>
-                        )}
+                        <div className="flex items-center justify-between gap-2">
+                          <span className="text-sm text-gray-700">
+                            <span className="font-bold text-gray-900">{r.carretera} pk {r.pk}</span>
+                            {r.municipio ? <> — {r.municipio}</> : null}
+                            {r.sentido ? <span className="text-gray-400"> ({r.sentido})</span> : null}
+                          </span>
+                          {r.limite != null ? (
+                            <span className="shrink-0 rounded-full bg-[#cd001d] px-2 py-0.5 text-[11px] font-extrabold text-white">{r.limite} km/h</span>
+                          ) : (
+                            <span className="shrink-0 text-[10px] font-semibold text-gray-400">límite no publicado</span>
+                          )}
+                        </div>
+                        {/* 24/10/2026 (orden Grok 03:05): mapa del radar SOLO con coordenadas oficiales
+                            (MapaRadarLazy no pinta nada sin ellas); carga al clic (cero iframes en el
+                            HTML inicial) y Street View como enlace por radar, nunca incrustado. */}
+                        <MapaRadarLazy lat={r.lat} lng={r.lon} titulo={`Radar ${r.carretera}, pk ${r.pk}`} />
                       </div>
                     </li>
                   ))}
