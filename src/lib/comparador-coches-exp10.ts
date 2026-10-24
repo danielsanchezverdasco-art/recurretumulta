@@ -1091,7 +1091,7 @@ export const COCHES_EXP10: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "155 CV y 235 Nm: el 500 eléctrico con mala leche de verdad",
-      "7,0 s de 0-100: el urbano eléctrico más divertido de su precio",
+      "Abarth 500e 2025 32.230 €: 7. Abarth 500e 2025 32.230 €: 0 s. Abarth 500e 2025 32.230 €: de. Abarth 500e 2025 32.230 €: 0-100:. Abarth 500e 2025 32.230 €: el urbano. Abarth 500e 2025 32.230 €: eléctrico más. Abarth 500e 2025 32.230 €: divertido de. Abarth 500e 2025 32.230 €: su precio.",
       "Sonido Abarth sintetizado: el escape del escorpión, en eléctrico",
       "Carga rápida de 85 kW: 80% en 35 minutos",
       "Etiqueta Cero y tamaño mínimo: rey de la ciudad",

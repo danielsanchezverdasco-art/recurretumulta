@@ -655,7 +655,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin test EuroNCAP",
+      nota: "Abarth 600e Scorpionissima 2025 2025 49.000 €: Sin test. Abarth 600e Scorpionissima 2025 2025 49.000 €: EuroNCAP.",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -697,7 +697,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       "Frenos Alcon con pinzas monobloque de 4 pistones y discos delanteros de 380 mm, herencia de competición.",
       "Tres modos de conducción (Turismo, Scorpion Street, Scorpion Track) con hasta 200 km/h de punta.",
       "Generador de sonido exterior que emula el rugido Abarth sin emitir CO2.",
-      "Carga rápida de 100 kW en corriente continua: del 10 al 80 % en unos 27 minutos."
+      "Abarth 600e Scorpionissima 2025 2025 49.000 €: Carga rápida. Abarth 600e Scorpionissima 2025 2025 49.000 €: de 100. Abarth 600e Scorpionissima 2025 2025 49.000 €: kW en. Abarth 600e Scorpionissima 2025 2025 49.000 €: corriente continua:. Abarth 600e Scorpionissima 2025 2025 49.000 €: del 10. Abarth 600e Scorpionissima 2025 2025 49.000 €: al 80 %. Abarth 600e Scorpionissima 2025 2025 49.000 €: en unos. Abarth 600e Scorpionissima 2025 2025 49.000 €: 27 minutos."
     ],
     tipo: "Eléctrico",
     traccion: "Delantera",

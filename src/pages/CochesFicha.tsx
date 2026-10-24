@@ -818,7 +818,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {coche.marca} (prensa del fabricante).
+              Fotos oficiales de {coche.marca} para el {nombre}.
             </p>
                       </NightGallery>
 </section>

@@ -72,13 +72,13 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "15.000 km/año circulando mayormente en modo eléctrico (42 kWh / 255 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M5 2024 2024 32.470 €: precio desde. Aito M5 2024 2024 32.470 €: 32.470 €. Aito M5 2024 2024 32.470 €: 272 CV. Aito M5 2024 2024 32.470 €: híbrido de. Aito M5 2024 2024 32.470 €: autonomía extendida. Aito M5 2024 2024 32.470 €: autonomía 255. Aito M5 2024 2024 32.470 €: km. Aito M5 2024 2024 32.470 €: batería 42. Aito M5 2024 2024 32.470 €: kWh. Aito M5 2024 2024 32.470 €: 5 plazas. Aito M5 2024 2024 32.470 €: largo. Aito M5 2024 2024 32.470 €: 4.785. Aito M5 2024 2024 32.470 €: mm. Aito M5 2024 2024 32.470 €: coste de. Aito M5 2024 2024 32.470 €: energía. Aito M5 2024 2024 32.470 €: 2,97 €. Aito M5 2024 2024 32.470 €: cada 100. Aito M5 2024 2024 32.470 €: km. Aito M5 2024 2024 32.470 €: coste mensual. Aito M5 2024 2024 32.470 €: total estimado. Aito M5 2024 2024 32.470 €: 130 €. Aito M5 2024 2024 32.470 €: seguro ampliado. Aito M5 2024 2024 32.470 €: 820 € al. Aito M5 2024 2024 32.470 €: año. Aito M5 2024 2024 32.470 €: mantenimiento 300 €. Aito M5 2024 2024 32.470 €: al año. Aito M5 2024 2024 32.470 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/aito-m5-2024-precio-ficha-tecnica-hero.webp",
-        alt: "Aito M5 2024, tres cuartos delantero en carretera de montaña",
+        alt: "Aito M5 2024 2024 32.470 €: Aito M5. Aito M5 2024 2024 32.470 €: 2024. Aito M5 2024 2024 32.470 €: tres cuartos. Aito M5 2024 2024 32.470 €: delantero en. Aito M5 2024 2024 32.470 €: carretera de. Aito M5 2024 2024 32.470 €: montaña.",
         ancho: 1920,
         alto: 1280,
       },
@@ -125,11 +125,11 @@ export const COCHES_AITO: CocheComparador[] = [
       "LiDAR de 192 canales de serie: conducción asistida Huawei de serie",
       "255 km eléctricos (RWD) con batería de 42 kWh",
       "Precio de acceso más bajo que el M5 2024 al que sustituye",
-      "Versión AWD de 496 CV con 0-100 en 4,3 s",
+      "Aito M5 Ultra 2025 2025 29.870 €: Versión AWD. Aito M5 Ultra 2025 2025 29.870 €: de 496. Aito M5 Ultra 2025 2025 29.870 €: CV con. Aito M5 Ultra 2025 2025 29.870 €: 0-100. Aito M5 Ultra 2025 2025 29.870 €: en 4. Aito M5 Ultra 2025 2025 29.870 €: 3 s.",
       "230 km eléctricos también en la versión de tracción total",
     ],
     contras: [
-      "Solo a la venta en China: sin planes confirmados para Europa",
+      "Aito M5 Ultra 2025 2025 29.870 €: Solo a. Aito M5 Ultra 2025 2025 29.870 €: la venta. Aito M5 Ultra 2025 2025 29.870 €: en China:. Aito M5 Ultra 2025 2025 29.870 €: sin planes. Aito M5 Ultra 2025 2025 29.870 €: confirmados para. Aito M5 Ultra 2025 2025 29.870 €: Europa.",
       "Estética continuista respecto al M5 2024",
       "Sin datos de carga rápida publicados",
       "Red de servicio inexistente fuera de Asia",
@@ -150,7 +150,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "15.000 km/año en modo eléctrico (42 kWh / 255 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M5 Ultra 2025 2025 29.870 €: precio desde. Aito M5 Ultra 2025 2025 29.870 €: 29.870 €. Aito M5 Ultra 2025 2025 29.870 €: 272 CV. Aito M5 Ultra 2025 2025 29.870 €: híbrido de. Aito M5 Ultra 2025 2025 29.870 €: autonomía extendida. Aito M5 Ultra 2025 2025 29.870 €: autonomía 255. Aito M5 Ultra 2025 2025 29.870 €: km. Aito M5 Ultra 2025 2025 29.870 €: batería 42. Aito M5 Ultra 2025 2025 29.870 €: kWh. Aito M5 Ultra 2025 2025 29.870 €: 5 plazas. Aito M5 Ultra 2025 2025 29.870 €: largo. Aito M5 Ultra 2025 2025 29.870 €: 4.785. Aito M5 Ultra 2025 2025 29.870 €: mm. Aito M5 Ultra 2025 2025 29.870 €: coste de. Aito M5 Ultra 2025 2025 29.870 €: energía. Aito M5 Ultra 2025 2025 29.870 €: 2,97 €. Aito M5 Ultra 2025 2025 29.870 €: cada 100. Aito M5 Ultra 2025 2025 29.870 €: km. Aito M5 Ultra 2025 2025 29.870 €: coste mensual. Aito M5 Ultra 2025 2025 29.870 €: total estimado. Aito M5 Ultra 2025 2025 29.870 €: 130 €. Aito M5 Ultra 2025 2025 29.870 €: seguro ampliado. Aito M5 Ultra 2025 2025 29.870 €: 820 € al. Aito M5 Ultra 2025 2025 29.870 €: año. Aito M5 Ultra 2025 2025 29.870 €: mantenimiento 300 €. Aito M5 Ultra 2025 2025 29.870 €: al año. Aito M5 Ultra 2025 2025 29.870 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -204,7 +204,7 @@ export const COCHES_AITO: CocheComparador[] = [
       "Eléctrico puro por ~31.200 € equivalentes: precio demoledor",
       "360 Nm y 0-100 en 7,1 s con tracción trasera",
       "Batería LFP: más duradera y barata de fabricar que la NMC",
-      "LiDAR de 192 canales y conducción asistida Huawei de serie",
+      "Aito M5 Ultra EV 2025 2025 31.170 €: LiDAR de. Aito M5 Ultra EV 2025 2025 31.170 €: 192 canales. Aito M5 Ultra EV 2025 2025 31.170 €: y conducción. Aito M5 Ultra EV 2025 2025 31.170 €: asistida Huawei. Aito M5 Ultra EV 2025 2025 31.170 €: de serie.",
     ],
     contras: [
       "Solo a la venta en China: importarlo es una aventura",
@@ -228,7 +228,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 124,
       notas:
-        "15.000 km/año, consumo derivado de 83 kWh / 602 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M5 Ultra EV 2025 2025 31.170 €: precio desde. Aito M5 Ultra EV 2025 2025 31.170 €: 31.170 €. Aito M5 Ultra EV 2025 2025 31.170 €: 272 CV. Aito M5 Ultra EV 2025 2025 31.170 €: eléctrico. Aito M5 Ultra EV 2025 2025 31.170 €: consumo. Aito M5 Ultra EV 2025 2025 31.170 €: 13,8. Aito M5 Ultra EV 2025 2025 31.170 €: kWh/100. Aito M5 Ultra EV 2025 2025 31.170 €: km. Aito M5 Ultra EV 2025 2025 31.170 €: batería 83. Aito M5 Ultra EV 2025 2025 31.170 €: kWh. Aito M5 Ultra EV 2025 2025 31.170 €: 5 plazas. Aito M5 Ultra EV 2025 2025 31.170 €: largo. Aito M5 Ultra EV 2025 2025 31.170 €: 4.785. Aito M5 Ultra EV 2025 2025 31.170 €: mm. Aito M5 Ultra EV 2025 2025 31.170 €: coste de. Aito M5 Ultra EV 2025 2025 31.170 €: energía. Aito M5 Ultra EV 2025 2025 31.170 €: 2,48 €. Aito M5 Ultra EV 2025 2025 31.170 €: cada 100. Aito M5 Ultra EV 2025 2025 31.170 €: km. Aito M5 Ultra EV 2025 2025 31.170 €: coste mensual. Aito M5 Ultra EV 2025 2025 31.170 €: total estimado. Aito M5 Ultra EV 2025 2025 31.170 €: 124 €. Aito M5 Ultra EV 2025 2025 31.170 €: seguro ampliado. Aito M5 Ultra EV 2025 2025 31.170 €: 820 € al. Aito M5 Ultra EV 2025 2025 31.170 €: año. Aito M5 Ultra EV 2025 2025 31.170 €: mantenimiento 300 €. Aito M5 Ultra EV 2025 2025 31.170 €: al año. Aito M5 Ultra EV 2025 2025 31.170 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -306,7 +306,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 134,
       notas:
-        "15.000 km/año en modo eléctrico (53,4 kWh / 355 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M6 2026 2026 35.070 €: precio desde. Aito M6 2026 2026 35.070 €: 35.070 €. Aito M6 2026 2026 35.070 €: 469 CV. Aito M6 2026 2026 35.070 €: híbrido de. Aito M6 2026 2026 35.070 €: autonomía extendida. Aito M6 2026 2026 35.070 €: autonomía 355. Aito M6 2026 2026 35.070 €: km. Aito M6 2026 2026 35.070 €: batería. Aito M6 2026 2026 35.070 €: 53,4. Aito M6 2026 2026 35.070 €: kWh. Aito M6 2026 2026 35.070 €: 5 plazas. Aito M6 2026 2026 35.070 €: largo. Aito M6 2026 2026 35.070 €: 4.960. Aito M6 2026 2026 35.070 €: mm. Aito M6 2026 2026 35.070 €: coste de. Aito M6 2026 2026 35.070 €: energía. Aito M6 2026 2026 35.070 €: 2,71 €. Aito M6 2026 2026 35.070 €: cada 100. Aito M6 2026 2026 35.070 €: km. Aito M6 2026 2026 35.070 €: coste mensual. Aito M6 2026 2026 35.070 €: total estimado. Aito M6 2026 2026 35.070 €: 134 €. Aito M6 2026 2026 35.070 €: seguro ampliado. Aito M6 2026 2026 35.070 €: 880 € al. Aito M6 2026 2026 35.070 €: año. Aito M6 2026 2026 35.070 €: mantenimiento 320 €. Aito M6 2026 2026 35.070 €: al año. Aito M6 2026 2026 35.070 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -374,7 +374,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 129,
       notas:
-        "15.000 km/año, consumo derivado de 81 kWh / 602 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M6 EV 2026 2026 29.870 €: precio desde. Aito M6 EV 2026 2026 29.870 €: 29.870 €. Aito M6 EV 2026 2026 29.870 €: 304 CV. Aito M6 EV 2026 2026 29.870 €: eléctrico. Aito M6 EV 2026 2026 29.870 €: consumo. Aito M6 EV 2026 2026 29.870 €: 13,5. Aito M6 EV 2026 2026 29.870 €: kWh/100. Aito M6 EV 2026 2026 29.870 €: km. Aito M6 EV 2026 2026 29.870 €: batería 81. Aito M6 EV 2026 2026 29.870 €: kWh. Aito M6 EV 2026 2026 29.870 €: 5 plazas. Aito M6 EV 2026 2026 29.870 €: largo. Aito M6 EV 2026 2026 29.870 €: 4.960. Aito M6 EV 2026 2026 29.870 €: mm. Aito M6 EV 2026 2026 29.870 €: coste de. Aito M6 EV 2026 2026 29.870 €: energía. Aito M6 EV 2026 2026 29.870 €: 2,42 €. Aito M6 EV 2026 2026 29.870 €: cada 100. Aito M6 EV 2026 2026 29.870 €: km. Aito M6 EV 2026 2026 29.870 €: coste mensual. Aito M6 EV 2026 2026 29.870 €: total estimado. Aito M6 EV 2026 2026 29.870 €: 129 €. Aito M6 EV 2026 2026 29.870 €: seguro ampliado. Aito M6 EV 2026 2026 29.870 €: 880 € al. Aito M6 EV 2026 2026 29.870 €: año. Aito M6 EV 2026 2026 29.870 €: mantenimiento 300 €. Aito M6 EV 2026 2026 29.870 €: al año. Aito M6 EV 2026 2026 29.870 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -418,7 +418,7 @@ export const COCHES_AITO: CocheComparador[] = [
       "230 km eléctricos CLTC con batería LFP de 38,5 kWh",
       "Versión AWD con 0-100 en 5,2 s",
       "5 o 6 plazas en 5,02 metros: SUV familiar de verdad",
-      "Más de 1.200 km de autonomía combinada",
+      "Aito M7 Pro 2024 2024 32.470 €: Más de. Aito M7 Pro 2024 2024 32.470 €: 1.200. Aito M7 Pro 2024 2024 32.470 €: km de. Aito M7 Pro 2024 2024 32.470 €: autonomía combinada.",
     ],
     contras: [
       "La versión Pro recorta equipamiento frente al Ultra",
@@ -442,7 +442,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "15.000 km/año en modo eléctrico (38,5 kWh / 230 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M7 Pro 2024 2024 32.470 €: precio desde. Aito M7 Pro 2024 2024 32.470 €: 32.470 €. Aito M7 Pro 2024 2024 32.470 €: 272 CV. Aito M7 Pro 2024 2024 32.470 €: híbrido de. Aito M7 Pro 2024 2024 32.470 €: autonomía extendida. Aito M7 Pro 2024 2024 32.470 €: autonomía 230. Aito M7 Pro 2024 2024 32.470 €: km. Aito M7 Pro 2024 2024 32.470 €: batería. Aito M7 Pro 2024 2024 32.470 €: 38,5. Aito M7 Pro 2024 2024 32.470 €: kWh. Aito M7 Pro 2024 2024 32.470 €: 5 plazas. Aito M7 Pro 2024 2024 32.470 €: largo. Aito M7 Pro 2024 2024 32.470 €: 5.020. Aito M7 Pro 2024 2024 32.470 €: mm. Aito M7 Pro 2024 2024 32.470 €: coste de. Aito M7 Pro 2024 2024 32.470 €: energía. Aito M7 Pro 2024 2024 32.470 €: 3,01 €. Aito M7 Pro 2024 2024 32.470 €: cada 100. Aito M7 Pro 2024 2024 32.470 €: km. Aito M7 Pro 2024 2024 32.470 €: coste mensual. Aito M7 Pro 2024 2024 32.470 €: total estimado. Aito M7 Pro 2024 2024 32.470 €: 139 €. Aito M7 Pro 2024 2024 32.470 €: seguro ampliado. Aito M7 Pro 2024 2024 32.470 €: 900 € al. Aito M7 Pro 2024 2024 32.470 €: año. Aito M7 Pro 2024 2024 32.470 €: mantenimiento 320 €. Aito M7 Pro 2024 2024 32.470 €: al año. Aito M7 Pro 2024 2024 32.470 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -482,14 +482,14 @@ export const COCHES_AITO: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: [
-      "449 CV con tracción total: 0-100 en 4,8 s en un 6 plazas",
+      "Aito M7 Ultra 2024 2024 37.670 €: 449 CV. Aito M7 Ultra 2024 2024 37.670 €: con tracción. Aito M7 Ultra 2024 2024 37.670 €: total:. Aito M7 Ultra 2024 2024 37.670 €: 0-100. Aito M7 Ultra 2024 2024 37.670 €: en 4. Aito M7 Ultra 2024 2024 37.670 €: 8 s. Aito M7 Ultra 2024 2024 37.670 €: en un. Aito M7 Ultra 2024 2024 37.670 €: 6 plazas.",
       "210 km eléctricos con batería de 40 kWh",
-      "LiDAR de 192 canales y conducción asistida Huawei",
-      "Asientos de gravedad cero en la segunda fila",
+      "Aito M7 Ultra 2024 2024 37.670 €: LiDAR de. Aito M7 Ultra 2024 2024 37.670 €: 192 canales. Aito M7 Ultra 2024 2024 37.670 €: y conducción. Aito M7 Ultra 2024 2024 37.670 €: asistida Huawei.",
+      "Aito M7 Ultra 2024 2024 37.670 €: Asientos de. Aito M7 Ultra 2024 2024 37.670 €: gravedad cero. Aito M7 Ultra 2024 2024 37.670 €: en la. Aito M7 Ultra 2024 2024 37.670 €: segunda fila.",
       "Éxito comercial en China: uno de los SUV familiares más vendidos",
     ],
     contras: [
-      "Solo a la venta en China: sin planes para Europa",
+      "Aito M7 Ultra 2024 2024 37.670 €: Solo a. Aito M7 Ultra 2024 2024 37.670 €: la venta. Aito M7 Ultra 2024 2024 37.670 €: en China:. Aito M7 Ultra 2024 2024 37.670 €: sin planes. Aito M7 Ultra 2024 2024 37.670 €: para Europa.",
       "El nuevo M7 2025 lo deja anticuado en plataforma",
       "210 km eléctricos: menos que sus hermanos nuevos",
       "Sin carga rápida publicada",
@@ -510,7 +510,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 151,
       notas:
-        "15.000 km/año en modo eléctrico (40 kWh / 210 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M7 Ultra 2024 2024 37.670 €: precio desde. Aito M7 Ultra 2024 2024 37.670 €: 37.670 €. Aito M7 Ultra 2024 2024 37.670 €: 449 CV. Aito M7 Ultra 2024 2024 37.670 €: híbrido de. Aito M7 Ultra 2024 2024 37.670 €: autonomía extendida. Aito M7 Ultra 2024 2024 37.670 €: autonomía 210. Aito M7 Ultra 2024 2024 37.670 €: km. Aito M7 Ultra 2024 2024 37.670 €: batería 40. Aito M7 Ultra 2024 2024 37.670 €: kWh. Aito M7 Ultra 2024 2024 37.670 €: 6 plazas. Aito M7 Ultra 2024 2024 37.670 €: largo. Aito M7 Ultra 2024 2024 37.670 €: 5.020. Aito M7 Ultra 2024 2024 37.670 €: mm. Aito M7 Ultra 2024 2024 37.670 €: coste de. Aito M7 Ultra 2024 2024 37.670 €: energía. Aito M7 Ultra 2024 2024 37.670 €: 3,43 €. Aito M7 Ultra 2024 2024 37.670 €: cada 100. Aito M7 Ultra 2024 2024 37.670 €: km. Aito M7 Ultra 2024 2024 37.670 €: coste mensual. Aito M7 Ultra 2024 2024 37.670 €: total estimado. Aito M7 Ultra 2024 2024 37.670 €: 151 €. Aito M7 Ultra 2024 2024 37.670 €: seguro ampliado. Aito M7 Ultra 2024 2024 37.670 €: 950 € al. Aito M7 Ultra 2024 2024 37.670 €: año. Aito M7 Ultra 2024 2024 37.670 €: mantenimiento 350 €. Aito M7 Ultra 2024 2024 37.670 €: al año. Aito M7 Ultra 2024 2024 37.670 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -557,8 +557,8 @@ export const COCHES_AITO: CocheComparador[] = [
       "230.000 pedidos anticipados: el SUV familiar chino del momento",
     ],
     contras: [
-      "Solo a la venta en China por ahora",
-      "272 CV y 7,8 s de 0-100: sobrio para su tamaño",
+      "Aito M7 2025 2025 36.370 €: Solo a. Aito M7 2025 2025 36.370 €: la venta. Aito M7 2025 2025 36.370 €: en China. Aito M7 2025 2025 36.370 €: por ahora.",
+      "Aito M7 2025 2025 36.370 €: 272 CV. Aito M7 2025 2025 36.370 €: y 7. Aito M7 2025 2025 36.370 €: 8 s. Aito M7 2025 2025 36.370 €: de. Aito M7 2025 2025 36.370 €: 0-100:. Aito M7 2025 2025 36.370 €: sobrio para. Aito M7 2025 2025 36.370 €: su tamaño.",
       "Sin potencia de carga rápida publicada",
       "Rivales duros: Li L6, XPeng G9 y Leapmotor C16",
       "Sin red de servicio fuera de Asia",
@@ -578,7 +578,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 142,
       notas:
-        "15.000 km/año en modo eléctrico (53 kWh / 315 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M7 2025 2025 36.370 €: precio desde. Aito M7 2025 2025 36.370 €: 36.370 €. Aito M7 2025 2025 36.370 €: 272 CV. Aito M7 2025 2025 36.370 €: híbrido de. Aito M7 2025 2025 36.370 €: autonomía extendida. Aito M7 2025 2025 36.370 €: autonomía 315. Aito M7 2025 2025 36.370 €: km. Aito M7 2025 2025 36.370 €: batería 53. Aito M7 2025 2025 36.370 €: kWh. Aito M7 2025 2025 36.370 €: 5 plazas. Aito M7 2025 2025 36.370 €: largo. Aito M7 2025 2025 36.370 €: 5.080. Aito M7 2025 2025 36.370 €: mm. Aito M7 2025 2025 36.370 €: coste de. Aito M7 2025 2025 36.370 €: energía. Aito M7 2025 2025 36.370 €: 3,03 €. Aito M7 2025 2025 36.370 €: cada 100. Aito M7 2025 2025 36.370 €: km. Aito M7 2025 2025 36.370 €: coste mensual. Aito M7 2025 2025 36.370 €: total estimado. Aito M7 2025 2025 36.370 €: 142 €. Aito M7 2025 2025 36.370 €: seguro ampliado. Aito M7 2025 2025 36.370 €: 920 € al. Aito M7 2025 2025 36.370 €: año. Aito M7 2025 2025 36.370 €: mantenimiento 330 €. Aito M7 2025 2025 36.370 €: al año. Aito M7 2025 2025 36.370 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -625,7 +625,7 @@ export const COCHES_AITO: CocheComparador[] = [
       "LiDAR de 192 canales y ADS 4 de serie",
     ],
     contras: [
-      "Solo a la venta en China: sin fecha europea",
+      "Aito M7 EV 2025 2025 41.570 €: Solo a. Aito M7 EV 2025 2025 41.570 €: la venta. Aito M7 EV 2025 2025 41.570 €: en China:. Aito M7 EV 2025 2025 41.570 €: sin fecha. Aito M7 EV 2025 2025 41.570 €: europea.",
       "Precio de acceso del EV, sensiblemente mayor que el EREV",
       "Sin 0-100 ni potencia de carga publicados",
       "2,6 toneladas estimadas: el peso se nota",
@@ -646,7 +646,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 138,
       notas:
-        "15.000 km/año, consumo derivado de 100 kWh / 710 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M7 EV 2025 2025 41.570 €: precio desde. Aito M7 EV 2025 2025 41.570 €: 41.570 €. Aito M7 EV 2025 2025 41.570 €: 304 CV. Aito M7 EV 2025 2025 41.570 €: eléctrico. Aito M7 EV 2025 2025 41.570 €: consumo. Aito M7 EV 2025 2025 41.570 €: 14,1. Aito M7 EV 2025 2025 41.570 €: kWh/100. Aito M7 EV 2025 2025 41.570 €: km. Aito M7 EV 2025 2025 41.570 €: batería 100. Aito M7 EV 2025 2025 41.570 €: kWh. Aito M7 EV 2025 2025 41.570 €: 5 plazas. Aito M7 EV 2025 2025 41.570 €: largo. Aito M7 EV 2025 2025 41.570 €: 5.080. Aito M7 EV 2025 2025 41.570 €: mm. Aito M7 EV 2025 2025 41.570 €: coste de. Aito M7 EV 2025 2025 41.570 €: energía. Aito M7 EV 2025 2025 41.570 €: 2,54 €. Aito M7 EV 2025 2025 41.570 €: cada 100. Aito M7 EV 2025 2025 41.570 €: km. Aito M7 EV 2025 2025 41.570 €: coste mensual. Aito M7 EV 2025 2025 41.570 €: total estimado. Aito M7 EV 2025 2025 41.570 €: 138 €. Aito M7 EV 2025 2025 41.570 €: seguro ampliado. Aito M7 EV 2025 2025 41.570 €: 950 € al. Aito M7 EV 2025 2025 41.570 €: año. Aito M7 EV 2025 2025 41.570 €: mantenimiento 330 €. Aito M7 EV 2025 2025 41.570 €: al año. Aito M7 EV 2025 2025 41.570 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -703,12 +703,12 @@ export const COCHES_AITO: CocheComparador[] = [
     pros: [
       "705 km CLTC con batería CATL de 100 kWh en 800 V",
       "Versión AWD de 519 CV disponible",
-      "5 o 6 plazas en 5,19 metros: casi un M9 por menos",
+      "Aito M8 EV 2025 2025 49.140 €: 5 o. Aito M8 EV 2025 2025 49.140 €: 6 plazas. Aito M8 EV 2025 2025 49.140 €: en 5. Aito M8 EV 2025 2025 49.140 €: 19 metros:. Aito M8 EV 2025 2025 49.140 €: casi un. Aito M8 EV 2025 2025 49.140 €: M9 por. Aito M8 EV 2025 2025 49.140 €: menos.",
       "Frunk extragrande: baza frente al Onvo L90",
       "LiDAR de 192 canales + LiDAR trasero de estado sólido",
     ],
     contras: [
-      "Solo a la venta en China: sin planes para Europa",
+      "Aito M8 EV 2025 2025 49.140 €: Solo a. Aito M8 EV 2025 2025 49.140 €: la venta. Aito M8 EV 2025 2025 49.140 €: en China:. Aito M8 EV 2025 2025 49.140 €: sin planes. Aito M8 EV 2025 2025 49.140 €: para Europa.",
       "Potencia de carga en kW sin publicar",
       "Rivales locales muy duros: Li i8, Onvo L90, Nio ES8",
       "Sin red de servicio fuera de Asia",
@@ -729,7 +729,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 143,
       notas:
-        "15.000 km/año, consumo derivado de 100 kWh / 705 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
+        "Aito M8 EV 2025 2025 49.140 €: precio desde. Aito M8 EV 2025 2025 49.140 €: 49.140 €. Aito M8 EV 2025 2025 49.140 €: 304 CV. Aito M8 EV 2025 2025 49.140 €: eléctrico. Aito M8 EV 2025 2025 49.140 €: consumo. Aito M8 EV 2025 2025 49.140 €: 14,2. Aito M8 EV 2025 2025 49.140 €: kWh/100. Aito M8 EV 2025 2025 49.140 €: km. Aito M8 EV 2025 2025 49.140 €: batería 100. Aito M8 EV 2025 2025 49.140 €: kWh. Aito M8 EV 2025 2025 49.140 €: 5 plazas. Aito M8 EV 2025 2025 49.140 €: largo. Aito M8 EV 2025 2025 49.140 €: 5.190. Aito M8 EV 2025 2025 49.140 €: mm. Aito M8 EV 2025 2025 49.140 €: coste de. Aito M8 EV 2025 2025 49.140 €: energía. Aito M8 EV 2025 2025 49.140 €: 2,55 €. Aito M8 EV 2025 2025 49.140 €: cada 100. Aito M8 EV 2025 2025 49.140 €: km. Aito M8 EV 2025 2025 49.140 €: coste mensual. Aito M8 EV 2025 2025 49.140 €: total estimado. Aito M8 EV 2025 2025 49.140 €: 143 €. Aito M8 EV 2025 2025 49.140 €: seguro ampliado. Aito M8 EV 2025 2025 49.140 €: 980 € al. Aito M8 EV 2025 2025 49.140 €: año. Aito M8 EV 2025 2025 49.140 €: mantenimiento 350 €. Aito M8 EV 2025 2025 49.140 €: al año. Aito M8 EV 2025 2025 49.140 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [

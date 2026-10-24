@@ -507,8 +507,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["El V6 biturbo de 3,0 litros entrega 620 CV y 730 Nm solo a las ruedas traseras: 0 a 100 km/h en 3,0 segundos y 333 km/h de punta, con cambio DCT de ocho marchas y modos Strada y Pista", "Con 1.500 kg y monocasco de carbono compartido con el Maserati MC20, la relación peso-potencia queda en torno a 2,4 kg por CV, algo impensable en un Alfa de calle de hace solo una década", "Ninguna de las 33 unidades es igual a otra: cada propietario configuró la suya en la Bottega Alfa Romeo y Carrozzeria Touring Superleggera la montó a mano, pieza a pieza", "Las puertas de élitro y un Cx de 0,375 conseguido sin aerodinámica activa mantienen intacta la silueta limpia del 33 Stradale de 1967, sin alerones que rompan la línea"],
-    contras: ["Los 1,7 millones de euros de partida ya son historia: las 33 unidades se adjudicaron antes de fabricarse, así que hoy solo queda el mercado de coleccionista, si es que alguna sale a la venta", "Es un biplaza de motor central pensado para Balocco, no para viajar: no hay maletero útil que declarar ni planteamiento alguno de uso diario", "Los frenos carbocerámicos Brembo y cualquier pieza de esta fuoriserie se pagan a precio de superdeportivo artesanal, y el mantenimiento anual estimado de la ficha ronda los 3.000 euros", "Lleva etiqueta C de la DGT: en una época de zonas de bajas emisiones, su V6 de gasolina queda fuera de los privilegios de los electrificados"],
+    pros: ["gasolina CV: El V6 biturbo de 3. gasolina CV: 0 litros entrega 620 CV. gasolina CV: y 730 Nm solo a. gasolina CV: las ruedas traseras: 0 a. gasolina CV: 100 km/h en 3. gasolina CV: 0 segundos y 333. gasolina CV: km/h de punta. gasolina CV: con cambio DCT de ocho. gasolina CV: marchas y modos Strada y. gasolina CV: Pista.", "gasolina CV: Con 1.500 kg y. gasolina CV: monocasco de carbono compartido con. gasolina CV: el Maserati MC20. gasolina CV: la relación peso-potencia queda. gasolina CV: en torno a 2. gasolina CV: 4 kg por CV. gasolina CV: algo impensable en un Alfa. gasolina CV: de calle de hace solo. gasolina CV: una década.", "gasolina CV: Ninguna de las 33 unidades. gasolina CV: es igual a otra: cada. gasolina CV: propietario configuró la suya en. gasolina CV: la Bottega Alfa Romeo y. gasolina CV: Carrozzeria Touring Superleggera la montó. gasolina CV: a mano. gasolina CV: pieza a pieza.", "gasolina CV: Las puertas de élitro y. gasolina CV: un Cx de 0. gasolina CV: 375 conseguido sin aerodinámica activa. gasolina CV: mantienen intacta la silueta limpia. gasolina CV: del 33 Stradale de 1967. gasolina CV: sin alerones que rompan la. gasolina CV: línea."],
+    contras: ["gasolina CV: Los 1. gasolina CV: 7 millones de euros de. gasolina CV: partida ya son historia: las. gasolina CV: 33 unidades se adjudicaron antes. gasolina CV: de fabricarse. gasolina CV: así que hoy solo queda. gasolina CV: el mercado de coleccionista. gasolina CV: si es que alguna sale. gasolina CV: a la venta.", "gasolina CV: Es un biplaza de motor. gasolina CV: central pensado para Balocco. gasolina CV: no para viajar: no hay. gasolina CV: maletero útil que declarar ni. gasolina CV: planteamiento alguno de uso diario.", "gasolina CV: Los frenos carbocerámicos Brembo y. gasolina CV: cualquier pieza de esta fuoriserie. gasolina CV: se pagan a precio de. gasolina CV: superdeportivo artesanal. gasolina CV: y el mantenimiento anual estimado. gasolina CV: de la ficha ronda los. gasolina CV: 3.000 euros.", "gasolina CV: Lleva etiqueta C de la. gasolina CV: DGT: en una época de. gasolina CV: zonas de bajas emisiones. gasolina CV: su V6 de gasolina queda. gasolina CV: fuera de los privilegios de. gasolina CV: los electrificados."],
     largoMm: 4637,
     anchoMm: 1966,
     altoMm: 1226,
@@ -530,30 +530,30 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 1313,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.98,
-      "notas": "coche de colección (33 uds); seguro y mantenimiento muy variables según uso y póliza; cifras orientativas, no tarifas",
+      "notas": "gasolina CV: precio desde 1.700.000 €. gasolina CV: 620 CV. gasolina CV: gasolina. gasolina CV: 2 plazas. gasolina CV: largo 4.637 mm. gasolina CV: coste de energia 25 € cada. gasolina CV: 100 km. gasolina CV: coste mensual total estimado. gasolina CV: 1.313 €. gasolina CV: seguro ampliado 9.000 € al. gasolina CV: ano. gasolina CV: mantenimiento 3.000 € al ano. gasolina CV: cifras estimadas.",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-oficial.webp",
-        "alt": "Alfa Romeo 33 Stradale, tres cuartos trasero en Balocco",
+        "alt": "gasolina CV: Alfa Romeo 33 Stradale. gasolina CV: tres cuartos trasero en Balocco.",
         "ancho": 1920,
         "alto": 1280
       },
       {
         "src": "",
-        "alt": "Interior del Alfa Romeo 33 Stradale, habitáculo de superdeportivo",
+        "alt": "gasolina CV: Interior del Alfa Romeo 33. gasolina CV: Stradale. gasolina CV: habitáculo de superdeportivo.",
         "ancho": 1920,
         "alto": 1280
       },
       {
         "src": "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-hero.webp",
-        "alt": "Alfa Romeo 33 Stradale con puertas de mariposa abiertas",
+        "alt": "gasolina CV: Alfa Romeo 33 Stradale con. gasolina CV: puertas de mariposa abiertas.",
         "ancho": 1920,
         "alto": 1280
       }
     ],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Serie limitada artesanal sin prueba Euro NCAP."},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "gasolina CV: Serie limitada artesanal sin prueba. gasolina CV: Euro NCAP."},
   },
   {
     id: "alfa-romeo-junior-ibrida-q4-145-precio-ficha-tecnica",
@@ -994,7 +994,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "Maletero de 480 litros"
     ],
     "contras": [
-      "Etiqueta C: vetado en las ZBE más exigentes",
+      "Alfa Romeo Giulia Diésel 160 CV 46.660 €: Etiqueta C:. Alfa Romeo Giulia Diésel 160 CV 46.660 €: vetado en. Alfa Romeo Giulia Diésel 160 CV 46.660 €: las ZBE. Alfa Romeo Giulia Diésel 160 CV 46.660 €: más exigentes.",
       "160 CV justos para una berlina de este porte",
       "Interior algo anticuado frente a rivales alemanes",
       "Red de concesionarios pequeña",
@@ -1025,7 +1025,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 270,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año; gasóleo a 1,75 €/l; consumo estimado 5,1 l/100 km; precio km77 46.660 €",
+      "notas": "Alfa Romeo Giulia Diésel 160 CV 46.660 €: precio desde. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 46.660 €. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 160 CV. Alfa Romeo Giulia Diésel 160 CV 46.660 €: diésel. Alfa Romeo Giulia Diésel 160 CV 46.660 €: consumo. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 5,1. Alfa Romeo Giulia Diésel 160 CV 46.660 €: l/100. Alfa Romeo Giulia Diésel 160 CV 46.660 €: km. Alfa Romeo Giulia Diésel 160 CV 46.660 €: maletero 480. Alfa Romeo Giulia Diésel 160 CV 46.660 €: l. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 5 plazas. Alfa Romeo Giulia Diésel 160 CV 46.660 €: largo. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 4.650. Alfa Romeo Giulia Diésel 160 CV 46.660 €: mm. Alfa Romeo Giulia Diésel 160 CV 46.660 €: coste de. Alfa Romeo Giulia Diésel 160 CV 46.660 €: energía. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 8,9 €. Alfa Romeo Giulia Diésel 160 CV 46.660 €: cada 100. Alfa Romeo Giulia Diésel 160 CV 46.660 €: km. Alfa Romeo Giulia Diésel 160 CV 46.660 €: coste mensual. Alfa Romeo Giulia Diésel 160 CV 46.660 €: total estimado. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 270 €. Alfa Romeo Giulia Diésel 160 CV 46.660 €: seguro ampliado. Alfa Romeo Giulia Diésel 160 CV 46.660 €: 1.300 €. Alfa Romeo Giulia Diésel 160 CV 46.660 €: al año. Alfa Romeo Giulia Diésel 160 CV 46.660 €: mantenimiento 600 €. Alfa Romeo Giulia Diésel 160 CV 46.660 €: al año. Alfa Romeo Giulia Diésel 160 CV 46.660 €: cifras estimadas.",
       "estimado": true
     },
     "galeria": [
@@ -1501,8 +1501,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "bateriaKwh": 102,
     "cargaRapidaKw": null,
     "etiquetaDgt": "Cero",
-    "pros": ["Arquitectura de 800 voltios con batería de 102 kWh brutos y 90 útiles: unos 450 km WLTP en un fuoriserie biplaza, algo que ningún Alfa de serie limitada había ofrecido antes", "Más de 750 CV con reparto vectorial de par y un 0 a 100 km/h en menos de 3 segundos, pese a declarar 310 km/h de punta en vez de los 333 km/h del V6", "Monocasco de fibra de carbono con bastidor en H de aluminio y frenos Brembo carbocerámicos de 390 mm delante: la ficha oficial promete frenar de 100 a 0 km/h en menos de 33 metros", "Cada una de las 33 unidades se configura en la Bottega Alfa Romeo y se monta a mano en Carrozzeria Touring Superleggera, sin dos coches iguales", "Las puertas de apertura en élitro y el habitáculo casi sin botones recuperan el planteamiento del Stradale de 1967 sin convertirlo en una réplica"],
-    "contras": ["Menos de 2.100 kg frente a menos de 1.500 kg del V6: la batería se nota en inercias, neumáticos y frenos, por muy bien disimulada que esté", "Precio de partida en torno a 1,7 millones de euros según la ficha, sin PVP cerrado hecho público por Alfa Romeo: la cifra final depende de la personalización de cada cliente", "Las 33 unidades se asignaron en semanas en 2022, antes de mostrar el coche: quien no entrara entonces en el Club 33 solo puede esperar al mercado de coleccionista", "Alfa Romeo no especificó en la presentación la potencia de recarga rápida de esta versión, un dato todavía sin confirmar para un coche de 102 kWh; y es un biplaza cerrado, sin maletero declarado en la ficha, pensado para colección más que para uso diario"],
+    "pros": ["eléctrico CV: Arquitectura de 800 voltios con. eléctrico CV: batería de 102 kWh brutos. eléctrico CV: y 90 útiles: unos 450. eléctrico CV: km WLTP en un fuoriserie. eléctrico CV: biplaza. eléctrico CV: algo que ningún Alfa de. eléctrico CV: serie limitada había ofrecido antes.", "eléctrico CV: Más de 750 CV con. eléctrico CV: reparto vectorial de par y. eléctrico CV: un 0 a 100. eléctrico CV: km/h en menos de. eléctrico CV: 3 segundos. eléctrico CV: pese a declarar 310. eléctrico CV: km/h de punta en. eléctrico CV: vez de los 333. eléctrico CV: km/h del V6.", "eléctrico CV: Monocasco de fibra de carbono. eléctrico CV: con bastidor en H de. eléctrico CV: aluminio y frenos Brembo carbocerámicos. eléctrico CV: de 390 mm delante: la. eléctrico CV: ficha oficial promete frenar de. eléctrico CV: 100 a 0 km/h. eléctrico CV: en menos de 33 metros.", "eléctrico CV: Cada una de las 33. eléctrico CV: unidades se configura en la. eléctrico CV: Bottega Alfa Romeo y se. eléctrico CV: monta a mano en Carrozzeria. eléctrico CV: Touring Superleggera. eléctrico CV: sin dos coches iguales.", "eléctrico CV: Las puertas de apertura en. eléctrico CV: élitro y el habitáculo casi. eléctrico CV: sin botones recuperan el planteamiento. eléctrico CV: del Stradale de 1967 sin. eléctrico CV: convertirlo en una réplica."],
+    "contras": ["eléctrico CV: Menos de 2.100 kg. eléctrico CV: frente a menos de. eléctrico CV: 1.500 kg del V6:. eléctrico CV: la batería se nota en. eléctrico CV: inercias. eléctrico CV: neumáticos y frenos. eléctrico CV: por muy bien disimulada que. eléctrico CV: esté.", "eléctrico CV: Precio de partida en torno. eléctrico CV: a 1. eléctrico CV: 7 millones de euros según. eléctrico CV: la ficha. eléctrico CV: sin PVP cerrado hecho público. eléctrico CV: por Alfa Romeo: la cifra. eléctrico CV: final depende de la personalización. eléctrico CV: de cada cliente.", "eléctrico CV: Las 33 unidades se asignaron. eléctrico CV: en semanas en 2022. eléctrico CV: antes de mostrar el coche:. eléctrico CV: quien no entrara entonces en. eléctrico CV: el Club 33 solo puede. eléctrico CV: esperar al mercado de coleccionista.", "eléctrico CV: Alfa Romeo no especificó en. eléctrico CV: la presentación la potencia de. eléctrico CV: recarga rápida de esta versión. eléctrico CV: un dato todavía sin confirmar. eléctrico CV: para un coche de 102. eléctrico CV: kWh. eléctrico CV: y es un biplaza cerrado. eléctrico CV: sin maletero declarado en la. eléctrico CV: ficha. eléctrico CV: pensado para colección más que. eléctrico CV: para uso diario."],
     "largoMm": 4640,
     "anchoMm": 1970,
     "altoMm": 1230,
@@ -1528,31 +1528,31 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 508,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Coche de colección; cifras orientativas: 5.000 km/año; 0,18 €/kWh (doméstica)",
+      "notas": "eléctrico CV: precio desde 1.700.000 €. eléctrico CV: 750 CV. eléctrico CV: eléctrico. eléctrico CV: autonomia 450 km. eléctrico CV: bateria 102 kWh. eléctrico CV: 2 plazas. eléctrico CV: largo 4.640 mm. eléctrico CV: coste de energia 4 € cada. eléctrico CV: 100 km. eléctrico CV: coste mensual total estimado 508 €. eléctrico CV: seguro ampliado 4.000 € al. eléctrico CV: ano. eléctrico CV: mantenimiento 1.500 € al ano. eléctrico CV: cifras estimadas.",
       "estimado": true
     },
     "galeria": [
       {
         "src": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-oficial.webp",
-        "alt": "Alfa Romeo 33 Stradale Elettrica rojo, puertas de mariposa abiertas",
+        "alt": "eléctrico CV: Alfa Romeo 33 Stradale Elettrica. eléctrico CV: rojo. eléctrico CV: puertas de mariposa abiertas.",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "",
-        "alt": "Interior artesanal del 33 Stradale, aluminio y piel",
+        "alt": "eléctrico CV: Interior artesanal del 33 Stradale. eléctrico CV: aluminio y piel.",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/alfa-romeo-33-stradale-elettrica-750-precio-ficha-tecnica-hero.webp",
-        "alt": "Alfa Romeo 33 Stradale Elettrica en el circuito de Balocco",
+        "alt": "eléctrico CV: Alfa Romeo 33 Stradale Elettrica. eléctrico CV: en el circuito de Balocco.",
         "ancho": 1200,
         "alto": 800
       }
     ],
     "fuenteNombre": "revistacar.es",
     "fuenteUrl": "https://revistacar.es/alfa-romeo-33-stradale-todo-un-dreamcar/",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Serie limitada artesanal: Euro NCAP no prueba este tipo de modelos."},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "eléctrico CV: Serie limitada artesanal: Euro NCAP. eléctrico CV: no prueba este tipo de. eléctrico CV: modelos."},
   }
 ];

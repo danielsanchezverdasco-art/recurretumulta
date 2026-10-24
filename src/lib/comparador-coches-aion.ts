@@ -49,11 +49,11 @@ export const COCHES_AION: CocheComparador[] = [
     aprox: ["pesoKg"],
     imagen: "/media/aion-v-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {"costeEnergia100km": 2.97, "costeMensualTotal": 143, "estimado": true, "mantenimientoAnual": 320, "notas": "Escenario calculado solo para este V: se parte de un consumo estimado de 16,5 kWh/100 km, a mitad de camino entre el dato homologado de 16,7 y el uso real, y de cargar en casa. La prueba de testcoches por autopista, con climatización, se fue a unos 21 kWh/100 km, así que en viaje el gasto por kilómetro sube. Ni el seguro ni los 320 € anuales de mantenimiento son tarifas de la marca: GAC no ha publicado en España el precio cerrado de su revisión bienal.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 480},
+    costeMensual: {"costeEnergia100km": 2.97, "costeMensualTotal": 143, "estimado": true, "mantenimientoAnual": 320, "notas": "Aion V 2025 37.995 €: precio desde. Aion V 2025 37.995 €: 37.995 €. Aion V 2025 37.995 €: 204 CV. Aion V 2025 37.995 €: eléctrico. Aion V 2025 37.995 €: autonomía 510. Aion V 2025 37.995 €: km. Aion V 2025 37.995 €: batería. Aion V 2025 37.995 €: 75,26. Aion V 2025 37.995 €: kWh. Aion V 2025 37.995 €: maletero 427. Aion V 2025 37.995 €: l. Aion V 2025 37.995 €: 5 plazas. Aion V 2025 37.995 €: largo. Aion V 2025 37.995 €: 4.605. Aion V 2025 37.995 €: mm. Aion V 2025 37.995 €: coste de. Aion V 2025 37.995 €: energía. Aion V 2025 37.995 €: 2,97 €. Aion V 2025 37.995 €: cada 100. Aion V 2025 37.995 €: km. Aion V 2025 37.995 €: coste mensual. Aion V 2025 37.995 €: total estimado. Aion V 2025 37.995 €: 143 €. Aion V 2025 37.995 €: seguro ampliado. Aion V 2025 37.995 €: 950 € al. Aion V 2025 37.995 €: año. Aion V 2025 37.995 €: mantenimiento 320 €. Aion V 2025 37.995 €: al año. Aion V 2025 37.995 €: cifras estimadas.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 480},
     galeria: [
       {
         src: "/media/aion-v-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Aion V eléctrico azul en carretera de montaña al atardecer",
+        alt: "Aion V 2025 37.995 €: Aion V. Aion V 2025 37.995 €: eléctrico azul. Aion V 2025 37.995 €: en carretera. Aion V 2025 37.995 €: de montaña. Aion V 2025 37.995 €: al atardecer.",
         ancho: 1920,
         alto: 1280,
       },
@@ -66,8 +66,8 @@ export const COCHES_AION: CocheComparador[] = [
       
     ],
     analisisSlug: "aion-v-2025-precio-ficha-tecnica",
-    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Prueba publicada en septiembre de 2025 sobre el Aion V Premium de volante a la izquierda: 88 % en adultos, 85 % en niños, 79 % en usuarios vulnerables y 78 % en ayudas a la conducción", "url": "https://euroncap.blob.core.windows.net/media/89287/euroncap-2025-aion-v-datasheet.pdf"},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Intervalo para España: coches.net y testcoches.es; contenido de la revisión: tabla oficial de mantenimientos de GAC Motor (Aion V). Sin coste publicado para España", "intervalo": "Cada 30.000 km o 2 años", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años / 30.000 km", "queSeCambia": "Inspección general con diagnóstico electrónico, revisión de la batería de alto voltaje y su cableado, de frenos y del circuito de refrigeración, y sustitución del filtro del habitáculo (filtro de A/C), según la tabla oficial de mantenimiento de GAC para el Aion V"}]},
+    euroncap: {"ano": 2025, "estrellas": 5, "nota": "Aion V 2025 37.995 €: Prueba publicada. Aion V 2025 37.995 €: en septiembre. Aion V 2025 37.995 €: de 2025. Aion V 2025 37.995 €: sobre el. Aion V 2025 37.995 €: Aion V. Aion V 2025 37.995 €: Premium de. Aion V 2025 37.995 €: volante a. Aion V 2025 37.995 €: la izquierda:. Aion V 2025 37.995 €: 88 % en. Aion V 2025 37.995 €: adultos. Aion V 2025 37.995 €: 85 % en. Aion V 2025 37.995 €: niños. Aion V 2025 37.995 €: 79 % en. Aion V 2025 37.995 €: usuarios vulnerables. Aion V 2025 37.995 €: y 78 %. Aion V 2025 37.995 €: en ayudas. Aion V 2025 37.995 €: a la. Aion V 2025 37.995 €: conducción.", "url": "https://euroncap.blob.core.windows.net/media/89287/euroncap-2025-aion-v-datasheet.pdf"},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Intervalo para España: coches.net y testcoches.es; contenido de la revisión: tabla oficial de mantenimientos de GAC Motor (Aion V). Sin coste publicado para España", "intervalo": "Aion V 2025 37.995 €: Cada. Aion V 2025 37.995 €: 30.000. Aion V 2025 37.995 €: km o. Aion V 2025 37.995 €: 2 años.", "revisiones": [{"costeAproxEur": null, "nombre": "Aion V 2025 37.995 €: Revisión de. Aion V 2025 37.995 €: los 2. Aion V 2025 37.995 €: años /. Aion V 2025 37.995 €: 30.000. Aion V 2025 37.995 €: km.", "queSeCambia": "Aion V 2025 37.995 €: Inspección general. Aion V 2025 37.995 €: con diagnóstico. Aion V 2025 37.995 €: electrónico. Aion V 2025 37.995 €: revisión de. Aion V 2025 37.995 €: la batería. Aion V 2025 37.995 €: de alto. Aion V 2025 37.995 €: voltaje y. Aion V 2025 37.995 €: su cableado. Aion V 2025 37.995 €: de frenos. Aion V 2025 37.995 €: y del. Aion V 2025 37.995 €: circuito de. Aion V 2025 37.995 €: refrigeración. Aion V 2025 37.995 €: y sustitución. Aion V 2025 37.995 €: del filtro. Aion V 2025 37.995 €: del habitáculo. Aion V 2025 37.995 €: (filtro de. Aion V 2025 37.995 €: A/C). Aion V 2025 37.995 €: según la. Aion V 2025 37.995 €: tabla oficial. Aion V 2025 37.995 €: de mantenimiento. Aion V 2025 37.995 €: de GAC. Aion V 2025 37.995 €: para el. Aion V 2025 37.995 €: Aion V."}]},
   },
   {
     id: "aion-ut-2025-precio-ficha-tecnica",
@@ -127,7 +127,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 131,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
+        "Aion UT 2025 30.995 €: precio desde. Aion UT 2025 30.995 €: 30.995 €. Aion UT 2025 30.995 €: 204 CV. Aion UT 2025 30.995 €: eléctrico. Aion UT 2025 30.995 €: consumo. Aion UT 2025 30.995 €: 16,4. Aion UT 2025 30.995 €: kWh/100. Aion UT 2025 30.995 €: km. Aion UT 2025 30.995 €: batería 60. Aion UT 2025 30.995 €: kWh. Aion UT 2025 30.995 €: maletero 440. Aion UT 2025 30.995 €: l. Aion UT 2025 30.995 €: 5 plazas. Aion UT 2025 30.995 €: largo. Aion UT 2025 30.995 €: 4.270. Aion UT 2025 30.995 €: mm. Aion UT 2025 30.995 €: coste de. Aion UT 2025 30.995 €: energía. Aion UT 2025 30.995 €: 2,95 €. Aion UT 2025 30.995 €: cada 100. Aion UT 2025 30.995 €: km. Aion UT 2025 30.995 €: coste mensual. Aion UT 2025 30.995 €: total estimado. Aion UT 2025 30.995 €: 131 €. Aion UT 2025 30.995 €: seguro ampliado. Aion UT 2025 30.995 €: 850 € al. Aion UT 2025 30.995 €: año. Aion UT 2025 30.995 €: mantenimiento 280 €. Aion UT 2025 30.995 €: al año. Aion UT 2025 30.995 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -182,9 +182,9 @@ export const COCHES_AION: CocheComparador[] = [
       "Motor de 150 kW (204 CV) con entrega suave y silenciosa",
     ],
     contras: [
-      "No se vende oficialmente en Europa ni en España",
-      "Autonomía CLTC: la real europea sería sensiblemente menor",
-      "Sin datos oficiales de carga rápida ni de consumo",
+      "Aion RT 2024 15.574 €: No se. Aion RT 2024 15.574 €: vende oficialmente. Aion RT 2024 15.574 €: en Europa. Aion RT 2024 15.574 €: ni en. Aion RT 2024 15.574 €: España.",
+      "Aion RT 2024 15.574 €: Autonomía CLTC:. Aion RT 2024 15.574 €: la real. Aion RT 2024 15.574 €: europea sería. Aion RT 2024 15.574 €: sensiblemente menor.",
+      "Aion RT 2024 15.574 €: Sin datos. Aion RT 2024 15.574 €: oficiales de. Aion RT 2024 15.574 €: carga rápida. Aion RT 2024 15.574 €: ni de. Aion RT 2024 15.574 €: consumo.",
       "Interior con mucho plástico duro en acabados de acceso",
       "Posventa inexistente fuera de Asia y Latinoamérica",
     ],
@@ -210,7 +210,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 121,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 14,5 kWh/100 km.",
+        "Aion RT 2024 15.574 €: precio desde. Aion RT 2024 15.574 €: 15.574 €. Aion RT 2024 15.574 €: 204 CV. Aion RT 2024 15.574 €: eléctrico. Aion RT 2024 15.574 €: autonomía 650. Aion RT 2024 15.574 €: km. Aion RT 2024 15.574 €: batería. Aion RT 2024 15.574 €: 68,1. Aion RT 2024 15.574 €: kWh. Aion RT 2024 15.574 €: 5 plazas. Aion RT 2024 15.574 €: largo. Aion RT 2024 15.574 €: 4.865. Aion RT 2024 15.574 €: mm. Aion RT 2024 15.574 €: coste de. Aion RT 2024 15.574 €: energía. Aion RT 2024 15.574 €: 2,61 €. Aion RT 2024 15.574 €: cada 100. Aion RT 2024 15.574 €: km. Aion RT 2024 15.574 €: coste mensual. Aion RT 2024 15.574 €: total estimado. Aion RT 2024 15.574 €: 121 €. Aion RT 2024 15.574 €: seguro ampliado. Aion RT 2024 15.574 €: 800 € al. Aion RT 2024 15.574 €: año. Aion RT 2024 15.574 €: mantenimiento 260 €. Aion RT 2024 15.574 €: al año. Aion RT 2024 15.574 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -293,7 +293,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 117,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
+        "Aion S Max 2024 18.187 €: precio desde. Aion S Max 2024 18.187 €: 18.187 €. Aion S Max 2024 18.187 €: 204 CV. Aion S Max 2024 18.187 €: eléctrico. Aion S Max 2024 18.187 €: consumo. Aion S Max 2024 18.187 €: 12,8. Aion S Max 2024 18.187 €: kWh/100. Aion S Max 2024 18.187 €: km. Aion S Max 2024 18.187 €: batería. Aion S Max 2024 18.187 €: 67,9. Aion S Max 2024 18.187 €: kWh. Aion S Max 2024 18.187 €: 5 plazas. Aion S Max 2024 18.187 €: largo. Aion S Max 2024 18.187 €: 4.863. Aion S Max 2024 18.187 €: mm. Aion S Max 2024 18.187 €: coste de. Aion S Max 2024 18.187 €: energía. Aion S Max 2024 18.187 €: 2,3 €. Aion S Max 2024 18.187 €: cada 100. Aion S Max 2024 18.187 €: km. Aion S Max 2024 18.187 €: coste mensual. Aion S Max 2024 18.187 €: total estimado. Aion S Max 2024 18.187 €: 117 €. Aion S Max 2024 18.187 €: seguro ampliado. Aion S Max 2024 18.187 €: 800 € al. Aion S Max 2024 18.187 €: año. Aion S Max 2024 18.187 €: mantenimiento 260 €. Aion S Max 2024 18.187 €: al año. Aion S Max 2024 18.187 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -336,7 +336,7 @@ export const COCHES_AION: CocheComparador[] = [
       "Sin venta oficial en Europa ni en España",
       "Batería de 59,4 kWh: autonomía contenida para viajar",
       "Maletero con tapa de berlina y boca de carga estrecha",
-      "Sin datos oficiales de carga rápida ni de 0-100 km/h",
+      "Aion S Plus 2024 16.874 €: Sin datos. Aion S Plus 2024 16.874 €: oficiales de. Aion S Plus 2024 16.874 €: carga rápida. Aion S Plus 2024 16.874 €: ni de. Aion S Plus 2024 16.874 €: 0-100. Aion S Plus 2024 16.874 €: km/h.",
       "Relevo generacional anunciado con el Aion RT",
     ],
     largoMm: 4810,
@@ -361,7 +361,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 116,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
+        "Aion S Plus 2024 16.874 €: precio desde. Aion S Plus 2024 16.874 €: 16.874 €. Aion S Plus 2024 16.874 €: 204 CV. Aion S Plus 2024 16.874 €: eléctrico. Aion S Plus 2024 16.874 €: consumo. Aion S Plus 2024 16.874 €: 12,9. Aion S Plus 2024 16.874 €: kWh/100. Aion S Plus 2024 16.874 €: km. Aion S Plus 2024 16.874 €: batería. Aion S Plus 2024 16.874 €: 59,4. Aion S Plus 2024 16.874 €: kWh. Aion S Plus 2024 16.874 €: 5 plazas. Aion S Plus 2024 16.874 €: largo. Aion S Plus 2024 16.874 €: 4.810. Aion S Plus 2024 16.874 €: mm. Aion S Plus 2024 16.874 €: coste de. Aion S Plus 2024 16.874 €: energía. Aion S Plus 2024 16.874 €: 2,32 €. Aion S Plus 2024 16.874 €: cada 100. Aion S Plus 2024 16.874 €: km. Aion S Plus 2024 16.874 €: coste mensual. Aion S Plus 2024 16.874 €: total estimado. Aion S Plus 2024 16.874 €: 116 €. Aion S Plus 2024 16.874 €: seguro ampliado. Aion S Plus 2024 16.874 €: 780 € al. Aion S Plus 2024 16.874 €: año. Aion S Plus 2024 16.874 €: mantenimiento 260 €. Aion S Plus 2024 16.874 €: al año. Aion S Plus 2024 16.874 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -401,7 +401,7 @@ export const COCHES_AION: CocheComparador[] = [
       "Pantalla de 14,6 pulgadas y ADAS de serie",
     ],
     contras: [
-      "Solo se vende en China y algunos mercados de exportación",
+      "Aion Y Plus 2024 12.974 €: Solo se. Aion Y Plus 2024 12.974 €: vende en. Aion Y Plus 2024 12.974 €: China y. Aion Y Plus 2024 12.974 €: algunos mercados. Aion Y Plus 2024 12.974 €: de exportación.",
       "Diseño exterior polarizante con líneas muy marcadas",
       "Sin cifras oficiales de aceleración ni de carga rápida",
       "Suspensión trasera de barra de torsión, menos refinada",
@@ -429,7 +429,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 270,
       costeMensualTotal: 121,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
+        "Aion Y Plus 2024 12.974 €: precio desde. Aion Y Plus 2024 12.974 €: 12.974 €. Aion Y Plus 2024 12.974 €: 204 CV. Aion Y Plus 2024 12.974 €: eléctrico. Aion Y Plus 2024 12.974 €: consumo. Aion Y Plus 2024 12.974 €: 13,3. Aion Y Plus 2024 12.974 €: kWh/100. Aion Y Plus 2024 12.974 €: km. Aion Y Plus 2024 12.974 €: batería. Aion Y Plus 2024 12.974 €: 61,7. Aion Y Plus 2024 12.974 €: kWh. Aion Y Plus 2024 12.974 €: maletero 405. Aion Y Plus 2024 12.974 €: l. Aion Y Plus 2024 12.974 €: 5 plazas. Aion Y Plus 2024 12.974 €: largo. Aion Y Plus 2024 12.974 €: 4.535. Aion Y Plus 2024 12.974 €: mm. Aion Y Plus 2024 12.974 €: coste de. Aion Y Plus 2024 12.974 €: energía. Aion Y Plus 2024 12.974 €: 2,39 €. Aion Y Plus 2024 12.974 €: cada 100. Aion Y Plus 2024 12.974 €: km. Aion Y Plus 2024 12.974 €: coste mensual. Aion Y Plus 2024 12.974 €: total estimado. Aion Y Plus 2024 12.974 €: 121 €. Aion Y Plus 2024 12.974 €: seguro ampliado. Aion Y Plus 2024 12.974 €: 820 € al. Aion Y Plus 2024 12.974 €: año. Aion Y Plus 2024 12.974 €: mantenimiento 270 €. Aion Y Plus 2024 12.974 €: al año. Aion Y Plus 2024 12.974 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -497,7 +497,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 270,
       costeMensualTotal: 122,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 13,9 kWh/100 km.",
+        "Aion Y 2024 14.274 €: precio desde. Aion Y 2024 14.274 €: 14.274 €. Aion Y 2024 14.274 €: 201 CV. Aion Y 2024 14.274 €: eléctrico. Aion Y 2024 14.274 €: consumo. Aion Y 2024 14.274 €: 13,9. Aion Y 2024 14.274 €: kWh/100. Aion Y 2024 14.274 €: km. Aion Y 2024 14.274 €: batería. Aion Y 2024 14.274 €: 63,2. Aion Y 2024 14.274 €: kWh. Aion Y 2024 14.274 €: maletero 405. Aion Y 2024 14.274 €: l. Aion Y 2024 14.274 €: 5 plazas. Aion Y 2024 14.274 €: largo. Aion Y 2024 14.274 €: 4.535. Aion Y 2024 14.274 €: mm. Aion Y 2024 14.274 €: coste de. Aion Y 2024 14.274 €: energía. Aion Y 2024 14.274 €: 2,5 €. Aion Y 2024 14.274 €: cada 100. Aion Y 2024 14.274 €: km. Aion Y 2024 14.274 €: coste mensual. Aion Y 2024 14.274 €: total estimado. Aion Y 2024 14.274 €: 122 €. Aion Y 2024 14.274 €: seguro ampliado. Aion Y 2024 14.274 €: 820 € al. Aion Y 2024 14.274 €: año. Aion Y 2024 14.274 €: mantenimiento 270 €. Aion Y 2024 14.274 €: al año. Aion Y 2024 14.274 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -575,7 +575,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 136,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16 kWh/100 km.",
+        "Aion V Plus 2024 20.774 €: precio desde. Aion V Plus 2024 20.774 €: 20.774 €. Aion V Plus 2024 20.774 €: 244 CV. Aion V Plus 2024 20.774 €: eléctrico. Aion V Plus 2024 20.774 €: autonomía 600. Aion V Plus 2024 20.774 €: km. Aion V Plus 2024 20.774 €: batería. Aion V Plus 2024 20.774 €: 69,9. Aion V Plus 2024 20.774 €: kWh. Aion V Plus 2024 20.774 €: maletero 405. Aion V Plus 2024 20.774 €: l. Aion V Plus 2024 20.774 €: 5 plazas. Aion V Plus 2024 20.774 €: largo. Aion V Plus 2024 20.774 €: 4.650. Aion V Plus 2024 20.774 €: mm. Aion V Plus 2024 20.774 €: coste de. Aion V Plus 2024 20.774 €: energía. Aion V Plus 2024 20.774 €: 2,88 €. Aion V Plus 2024 20.774 €: cada 100. Aion V Plus 2024 20.774 €: km. Aion V Plus 2024 20.774 €: coste mensual. Aion V Plus 2024 20.774 €: total estimado. Aion V Plus 2024 20.774 €: 136 €. Aion V Plus 2024 20.774 €: seguro ampliado. Aion V Plus 2024 20.774 €: 900 € al. Aion V Plus 2024 20.774 €: año. Aion V Plus 2024 20.774 €: mantenimiento 300 €. Aion V Plus 2024 20.774 €: al año. Aion V Plus 2024 20.774 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -653,7 +653,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 155,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 17,5 kWh/100 km.",
+        "Aion LX Plus 2024 37.258 €: precio desde. Aion LX Plus 2024 37.258 €: 37.258 €. Aion LX Plus 2024 37.258 €: 255 CV. Aion LX Plus 2024 37.258 €: eléctrico. Aion LX Plus 2024 37.258 €: autonomía. Aion LX Plus 2024 37.258 €: 1.008. Aion LX Plus 2024 37.258 €: km. Aion LX Plus 2024 37.258 €: batería. Aion LX Plus 2024 37.258 €: 144,9. Aion LX Plus 2024 37.258 €: kWh. Aion LX Plus 2024 37.258 €: 5 plazas. Aion LX Plus 2024 37.258 €: largo. Aion LX Plus 2024 37.258 €: 4.849. Aion LX Plus 2024 37.258 €: mm. Aion LX Plus 2024 37.258 €: coste de. Aion LX Plus 2024 37.258 €: energía. Aion LX Plus 2024 37.258 €: 3,15 €. Aion LX Plus 2024 37.258 €: cada 100. Aion LX Plus 2024 37.258 €: km. Aion LX Plus 2024 37.258 €: coste mensual. Aion LX Plus 2024 37.258 €: total estimado. Aion LX Plus 2024 37.258 €: 155 €. Aion LX Plus 2024 37.258 €: seguro ampliado. Aion LX Plus 2024 37.258 €: 1.050 €. Aion LX Plus 2024 37.258 €: al año. Aion LX Plus 2024 37.258 €: mantenimiento 340 €. Aion LX Plus 2024 37.258 €: al año. Aion LX Plus 2024 37.258 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -736,7 +736,7 @@ export const COCHES_AION: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 15 kWh/100 km. Precio aún no anunciado.",
+        "Aion Ray7 2026: 245 CV. Aion Ray7 2026: eléctrico. Aion Ray7 2026: autonomía 700. Aion Ray7 2026: km. Aion Ray7 2026: 5 plazas. Aion Ray7 2026: coste de. Aion Ray7 2026: energía. Aion Ray7 2026: 2,7 €. Aion Ray7 2026: cada 100. Aion Ray7 2026: km. Aion Ray7 2026: coste mensual. Aion Ray7 2026: total estimado. Aion Ray7 2026: 138 €. Aion Ray7 2026: seguro ampliado. Aion Ray7 2026: 950 € al. Aion Ray7 2026: año. Aion Ray7 2026: mantenimiento 300 €. Aion Ray7 2026: al año. Aion Ray7 2026: cifras estimadas.",
       estimado: true,
     },
     galeria: [

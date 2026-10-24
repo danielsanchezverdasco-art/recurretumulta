@@ -686,10 +686,10 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "AC Cars Cobra GT Roadster 2025 330.000 €: Sin datos. AC Cars Cobra GT Roadster 2025 330.000 €: EuroNCAP: los. AC Cars Cobra GT Roadster 2025 330.000 €: deportivos de. AC Cars Cobra GT Roadster 2025 330.000 €: producción limitada. AC Cars Cobra GT Roadster 2025 330.000 €: no pasan. AC Cars Cobra GT Roadster 2025 330.000 €: la prueba. AC Cars Cobra GT Roadster 2025 330.000 €: europea.",
     },
     planMantenimiento: {
-      intervalo: "No publicado públicamente; mantenimiento concertado con AC Cars.",
+      intervalo: "AC Cars Cobra GT Roadster 2025 330.000 €: No publicado. AC Cars Cobra GT Roadster 2025 330.000 €: públicamente. AC Cars Cobra GT Roadster 2025 330.000 €: mantenimiento concertado. AC Cars Cobra GT Roadster 2025 330.000 €: con AC. AC Cars Cobra GT Roadster 2025 330.000 €: Cars.",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "AC Cars (servicio oficial)",

@@ -1596,7 +1596,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 520,
       costeMensualTotal: 347,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Adria Matrix Supreme 2026 72.985 €: precio desde. Adria Matrix Supreme 2026 72.985 €: 72.985 €. Adria Matrix Supreme 2026 72.985 €: 150 CV. Adria Matrix Supreme 2026 72.985 €: diésel. Adria Matrix Supreme 2026 72.985 €: 5 plazas. Adria Matrix Supreme 2026 72.985 €: largo. Adria Matrix Supreme 2026 72.985 €: 7.380. Adria Matrix Supreme 2026 72.985 €: mm. Adria Matrix Supreme 2026 72.985 €: coste de. Adria Matrix Supreme 2026 72.985 €: energía. Adria Matrix Supreme 2026 72.985 €: 14,73 €. Adria Matrix Supreme 2026 72.985 €: cada 100. Adria Matrix Supreme 2026 72.985 €: km. Adria Matrix Supreme 2026 72.985 €: coste mensual. Adria Matrix Supreme 2026 72.985 €: total estimado. Adria Matrix Supreme 2026 72.985 €: 347 €. Adria Matrix Supreme 2026 72.985 €: seguro ampliado. Adria Matrix Supreme 2026 72.985 €: 1.450 €. Adria Matrix Supreme 2026 72.985 €: al año. Adria Matrix Supreme 2026 72.985 €: mantenimiento 520 €. Adria Matrix Supreme 2026 72.985 €: al año. Adria Matrix Supreme 2026 72.985 €: cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1624,19 +1624,19 @@ export const COCHES_LOTE16: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
+      nota: "Adria Matrix Supreme 2026 72.985 €: Sin datos. Adria Matrix Supreme 2026 72.985 €: EuroNCAP: las. Adria Matrix Supreme 2026 72.985 €: autocaravanas no. Adria Matrix Supreme 2026 72.985 €: se someten. Adria Matrix Supreme 2026 72.985 €: al programa. Adria Matrix Supreme 2026 72.985 €: de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "Adria Matrix Supreme 2026 72.985 €: 12 meses. Adria Matrix Supreme 2026 72.985 €: o. Adria Matrix Supreme 2026 72.985 €: 30.000. Adria Matrix Supreme 2026 72.985 €: km (mecánica). Adria Matrix Supreme 2026 72.985 €: prueba anual. Adria Matrix Supreme 2026 72.985 €: de estanqueidad.",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
-          queSeCambia: "Aceite + filtros + inspección general (base Fiat Ducato)",
+          queSeCambia: "Adria Matrix Supreme 2026 72.985 €: Aceite. Adria Matrix Supreme 2026 72.985 €: filtros. Adria Matrix Supreme 2026 72.985 €: inspección general. Adria Matrix Supreme 2026 72.985 €: (base Fiat. Adria Matrix Supreme 2026 72.985 €: Ducato).",
           costeAproxEur: 280,
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Adria Matrix Supreme 2026 72.985 €: Control de. Adria Matrix Supreme 2026 72.985 €: humedades de. Adria Matrix Supreme 2026 72.985 €: la célula. Adria Matrix Supreme 2026 72.985 €: (exigida para. Adria Matrix Supreme 2026 72.985 €: la garantía).",
           costeAproxEur: 180,
         },
       ],

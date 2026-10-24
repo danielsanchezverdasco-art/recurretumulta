@@ -62,13 +62,13 @@ export const CAMPERS_ADRIA: CocheComparador[] = [
     ],
     analisisSlug: "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Revisión anual recomendada: motor según plan Fiat + estanqueidad célula",
-      revisiones: [{ nombre: "Revisión anual", queSeCambia: "Aceite y filtros del motor, estanqueidad de la célula, gas y electricidad", costeAproxEur: 350 }],
+      intervalo: "Adria Matrix Supreme 670 SL 2026: Revisión anual. Adria Matrix Supreme 670 SL 2026: recomendada: motor. Adria Matrix Supreme 670 SL 2026: según plan. Adria Matrix Supreme 670 SL 2026: Fiat. Adria Matrix Supreme 670 SL 2026: estanqueidad célula.",
+      revisiones: [{ nombre: "Revisión anual", queSeCambia: "Adria Matrix Supreme 670 SL 2026: Aceite y. Adria Matrix Supreme 670 SL 2026: filtros del. Adria Matrix Supreme 670 SL 2026: motor. Adria Matrix Supreme 670 SL 2026: estanqueidad de. Adria Matrix Supreme 670 SL 2026: la célula. Adria Matrix Supreme 670 SL 2026: gas y. Adria Matrix Supreme 670 SL 2026: electricidad.", costeAproxEur: 350 }],
       costeAnualAproxEur: 350,
       fuente: "Plan oficial Fiat Ducato + recomendaciones Adria",
     },
     euroncap: null,
-    curiosidad: { texto: "Su hermano de gama, el Matrix Supreme MB 670 DL, ganó el premio a la mejor autocaravana perfilada de más de 7 metros en los Caravan and Motorhome Club Design Awards 2024.", fuenteNombre: "Adria (Reino Unido, web oficial)", fuenteUrl: "https://www.adria.co.uk/news/adria-receive-3-very-prestigious-industry-awards" },
+    curiosidad: { texto: "Adria Matrix Supreme 670 SL 2026: Su hermano. Adria Matrix Supreme 670 SL 2026: de gama. Adria Matrix Supreme 670 SL 2026: el Matrix. Adria Matrix Supreme 670 SL 2026: Supreme MB. Adria Matrix Supreme 670 SL 2026: 670 DL. Adria Matrix Supreme 670 SL 2026: ganó el. Adria Matrix Supreme 670 SL 2026: premio a. Adria Matrix Supreme 670 SL 2026: la mejor. Adria Matrix Supreme 670 SL 2026: autocaravana perfilada. Adria Matrix Supreme 670 SL 2026: de más. Adria Matrix Supreme 670 SL 2026: de 7. Adria Matrix Supreme 670 SL 2026: metros en. Adria Matrix Supreme 670 SL 2026: los Caravan. Adria Matrix Supreme 670 SL 2026: and Motorhome. Adria Matrix Supreme 670 SL 2026: Club Design. Adria Matrix Supreme 670 SL 2026: Awards 2024.", fuenteNombre: "Adria (Reino Unido, web oficial)", fuenteUrl: "https://www.adria.co.uk/news/adria-receive-3-very-prestigious-industry-awards" },
     fuenteUrl: "https://www.adria-mobil.com/motorhomes/matrix",
   },
 ];
