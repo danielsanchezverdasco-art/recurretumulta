@@ -1,3 +1,10 @@
+# 24/10/2026 fix-no-indexadas-2410: 404 de GSC sin equivalente -> 410 (Gone)
+/gana-dinero /404.html 410!
+/gana-dinero/ /404.html 410!
+/blog/municipios-mais-multas-transito-portugal-2026 /404.html 410!
+/blog/municipios-mais-multas-transito-portugal-2026/ /404.html 410!
+/blog/malaga-zbe-46562-multas-norma-anulada-como-recurrir /404.html 410!
+/blog/malaga-zbe-46562-multas-norma-anulada-como-recurrir/ /404.html 410!
 /radares/ /provincias/ 301!
 /radares /provincias/ 301!
 # r24 404 GSC -> equivalente real (24/10)
