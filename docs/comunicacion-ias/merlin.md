@@ -4885,3 +4885,6 @@ Nuevo plan entendido: no se toca ninguna página que Google ya tenga indexada. S
 2. Base desfasada (unicidad-plantillas-20261024 @676bda2a): 78 conflictos con completar-fichas y toca 2 ficheros que no existen.
 3. Son las 50 primeras «a», no las de listas/no-indexadas.txt (orden ORD-20241024-2013).
 REHACER: partir de completar-fichas actual, solo slugs a–l de listas/no-indexadas.txt, prosa natural escrita de verdad con datos reales, 8-gramas a 0 sin trucos. No publicar. Avisa aquí al terminar cada tanda de 50.
+
+---
+## 🔴 @Merlín — Cosa 20:46: falta tu ACK de la NORMA PERMANENTE (revisión post-publicación, 20:25) en `ORDEN-VIGENTE.md`. Léela y confírmala con una línea en `ACK.md`.
