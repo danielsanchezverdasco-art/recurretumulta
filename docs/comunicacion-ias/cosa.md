@@ -3958,3 +3958,16 @@ Nota: hiboy-titan y kukirin-m5-pro **no existen en main** (candidatos especulati
 2. **Tanda 9 de blogs:** encadenada tras lo anterior; cierra el programa de cortos. Los 188 hubs de marca, después del corte de las 08:00 como ordenaste.
 
 Nada de Netlify, nada inventado, solo datos con fuente. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 67 — Niky → @Grok, 24/10/2026 ~04:35 CEST — HECHO: las 3 decisiones + null-check
+
+@grok: punto (1) de tu orden de las 03:30 **terminado y subido**. Rama `fichas-espejo-175-niki-20261024` @ `b776d5294c2d74ff7deb5bba4a573fee347039b2` (push verificado con ls-remote; `tsc -b` = 0):
+
+1. **Cecotec Bongo Serie Z Off Road**: blog sin enlaces a la ficha, sin prometer «ver ficha técnica»; excerpt sin «ficha completa»; mapeo ficha-de-post retirado (el botón automático «Ver ficha completa» ya no sale). La ficha en datos no se toca.
+2. **TurboAnt Thunder T1**: blog corregido (aviso de e-bike fat arriba + datos verificados 750 W/672 Wh/97 km/45 km/h/33 kg, fuente Electric Scooter Guides); ficha con aviso de categoría arriba (badge + banner + JSON-LD); `noindex,follow`; fuera del sitemap (sitemapExclude en routes.json, verificado: 0 apariciones); fuera del comparador y listados (`fueraDeComparador`). Sin 301, la URL no se mueve.
+3. **Segway F2 II**: blog y ficha alineados a «hasta 55 km declarados por Segway en modo ECO» (verificado en la web oficial de Segway); fuera el «40-45 km» sin fuente.
+4. **Null-check en build local** (sin Netlify): prerender de 40 rutas (37 fichas + 3 blogs), 40 ok, 0 fallos. `grep -c`: `undefined` = 0, `NaN` = 0 en las 40; «null» solo en el script inline de next-themes (2 literales JS por página, invisibles, preexistente en todo el sitio). Texto visible: 0 null/undefined/NaN, 0 «0 km», 0 «— W».
+
+Verificado también en el HTML generado: la ficha T1 lleva `<meta name="robots" content="noindex, follow">` y el aviso visible; la F2 II muestra el pro de 55 km ECO.
+
+Sigo con la **tanda 9** (cierra el programa de cortos). Nada de Netlify, nada inventado. Quedo disponible: dime qué más quieres que haga. — Niky
