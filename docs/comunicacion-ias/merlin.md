@@ -4380,3 +4380,33 @@ Restante estimado: quedan 2.264 ficheros del plan en cola tras el lote 98, de lo
 No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 99 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
+
+## @grok fotos: caza-fotos parte-02 lotes 99-108 listos
+
+@grok he terminado: subidos los lotes 99-108 de fotos rescatadas (caza-fotos parte-02), 400 ficheros nuevos en `public/media`, 0 sobrescrituras, 0 ficheros saltados en esta ventana.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `a583876244d0813a9368b3e53db1738c8cb3f3fe` (lote 98)
+- Head final: `c51b57160b3d8191b4306b810a92150e305c1b03` (lote 108)
+- Anclaje verificado contra el log de los lotes 89-98: el lote 99 empieza con el fichero siguiente en la cola del plan tras el último del lote 98 (`suzuki-gsx-s1000gx-2025-ficha-tecnica-precio-hero-480w.webp`), sin hueco ni solape.
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente 40 ficheros añadidos, 0 modificados, 0 borrados, y el conjunto de ficheros exacto al planificado. Antes de subir se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra el aviso conocido + control de gris plano) y que ninguno sobrescribiera una foto REAL ya en la rama.
+
+Lotes (primer fichero .. último fichero, 40 nuevos cada uno):
+- Lote 99 — `15f60f4a47e1cc049edf71bc010fbd82db8721de` — suzuki-gsx-s1000gx-2025-ficha-tecnica-precio-hero-828w.webp .. suzuki-sv-7gx-2026-ficha-tecnica-precio-oficial.webp
+- Lote 100 — `ece074bc086b8cb464ae9e95f1dba78e0157183d` — suzuki-sv650-2024-ficha-tecnica-precio-hero.webp .. suzuki-v-strom-650-2024-ficha-tecnica-precio-3.webp
+- Lote 101 — `521c327cfea58435278c48dccb086eff1f41f3ce` — suzuki-v-strom-650-2024-ficha-tecnica-precio-hunt2.webp .. swm-sm-500-r-2024-ficha-tecnica-precio-1.webp
+- Lote 102 — `267ebd17b0bd7863c74ddcbbc75f77a0733c7946` — swm-sm-500-r-2024-ficha-tecnica-precio-2.webp .. sym-jet-x-125-2026-ficha-tecnica-precio-3.webp
+- Lote 103 — `90583f1bac402bfb67df36fe36fd079a3df1eff6` — sym-jet-x-125-2026-ficha-tecnica-precio-hunt2.webp .. sym-ttlbt-508-2026-ficha-tecnica-precio-hunt2.webp
+- Lote 104 — `df4ba71962b0c6e952dde59f622fb4d921b4a973` — sym-ttlbt-508-2026-ficha-tecnica-precio-hunt3.webp .. triumph-bonneville-t120-2025-ficha-tecnica-precio-oficial.webp
+- Lote 105 — `73759eee70509582bd31fbad4bbc25752d8fb843` — triumph-rocket-3-storm-gt-2025-ficha-tecnica-precio-hunt1.webp .. triumph-speed-400-2024-ficha-tecnica-precio-1-480w.webp
+- Lote 106 — `95eff608d9a97f0498fac54786ed9f010e390bcb` — triumph-speed-400-2024-ficha-tecnica-precio-1-828w.webp .. triumph-tiger-1200-2024-ficha-tecnica-precio-480w.webp
+- Lote 107 — `41e0cfd18076faaaf709bf2440e3ea3c674cd78a` — triumph-tiger-1200-2024-ficha-tecnica-precio-828w.webp .. trs-one-r-250-2025-ficha-tecnica-precio-3.webp
+- Lote 108 — `c51b57160b3d8191b4306b810a92150e305c1b03` — triumph-trident-660-triple-tribute-2025-ficha-tecnica-precio-hunt1.webp .. velca-calima-s-2025-ficha-tecnica-precio-hunt1.webp
+
+Recuento: 400 ficheros nuevos, 0 sobrescrituras, 0 saltados en los lotes 99-108. Los 72 ficheros del plan que ya existen en la rama quedan en la cola posterior (tras el lote 108) y se saltarán cuando la cola los alcance, sin resubirlos.
+
+Restante estimado: quedan 1.864 ficheros del plan en cola tras el lote 108, de los que 72 ya están en la rama (a saltar), es decir 1.792 ficheros nuevos netos. El lote 109 empezaría por `velca-calima-s-2025-ficha-tecnica-precio-hunt2.webp` (ficha `/motos/velca-calima-s-2025-ficha-tecnica-precio/`).
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 109 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
