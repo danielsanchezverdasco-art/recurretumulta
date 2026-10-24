@@ -638,5 +638,85 @@
   "intro": "Husqvarna mezcla tres mundos en una sola marca: las naked de diseño escandinavo, las trail de viaje y las de enduro de competición. Las Svartpilen 125, 401 y 801 y las Vitpilen 125, 401 y 801 son las naked y neo-retro para ciudad y carretera, con la 801 como tope de la familia. La Norden 901, también en Expedition y en versión 2026, es la trail para viajar lejos por asfalto y tierra. En campo puro están la FE 350, la FE 450 y la TE 300, además de la 701 Enduro y la 701 Supermoto, que llevan el monocilíndrico grande a la carretera y al circuito de asfalto. Elegir una Husqvarna es elegir primero el terreno: ciudad, viaje o campo, y después la cilindrada. Svartpilen para la ciudad, Norden para viajar y FE para el campo: tres apellidos, tres terrenos y una misma idea de moto ligera y manejable.",
   "n": 17,
   "url": "/motos/marca/husqvarna/"
+ },
+ "motos/niu": {
+  "nombre": "NIU",
+  "title": "NIU motos: 17 eléctricas, de NQi a RQi",
+  "description": "17 fichas técnicas de motos NIU: NQi Sport, MQi GT y FQi 500, con batería, autonomía y precio.",
+  "intro": "NIU en motos es la misma marca de los patinetes, pero con una gama eléctrica propia para ciudad y reparto. La familia NQi es la más extensa: NQi Sport, NQi Cargo, NQi GTS y las variantes NQiX 150, 300 y 500, que suben en potencia y autonomía. La MQi GT y la MQi GT Evo, junto a la MQi+ Sport, cubren el scooter urbano con buena autonomía. La FQi 500 y las FQiX 150 y 300 añaden opciones de mayor tamaño, y la RQi Sport y la XQi3 completan la oferta con un enfoque más deportivo y de moto ligera. La duda habitual es la misma que en cualquier eléctrico: autonomía real frente a peso y precio, y si la batería extraíble compensa. La NQi Sport sirve para ir a trabajar; la RQi Sport, para disfrutar. Entre ambas, la MQi GT y la FQi 500 cubren el resto de la ciudad eléctrica.",
+  "n": 17,
+  "url": "/motos/marca/niu/"
+ },
+ "patinetes/pure": {
+  "nombre": "Pure Electric",
+  "title": "Pure Electric: 17 patinetes, de Air a Advance",
+  "description": "17 fichas de patinetes Pure Electric: Air 4, Advance y Air Pro, con autonomía, velocidad y precio.",
+  "intro": "Pure Electric, la marca británica de patinetes, ordena su gama en dos líneas claras: Air y Advance. La línea Air empieza en el Air Go, el más ligero y urbano, y sube por el Air 4, el Air 5, el Air Pro, el Air Pro LR y el Air 4 Pro, hasta el Air 6 Pro+ como tope en autonomía. La línea Advance, con el Advance, el Advance+ y el Advance Flex, más el Flex, apuesta por más potencia y suspensión para trayectos más largos. La diferencia entre un Air Go y un Advance Flex es la diferencia entre un patinete para el último kilómetro y uno para ir a trabajar cada día. Para elegir conviene mirar autonomía, peso y si lleva suspensión delantera y trasera. Air para el último kilómetro y Advance para ir a trabajar cada día: dos líneas, dos pesos y dos autonomías que no conviene mezclar al comparar.",
+  "n": 17,
+  "url": "/patinetes/marca/pure/"
+ },
+ "coches/jac": {
+  "nombre": "JAC",
+  "title": "JAC: 16 coches, de E30X a T9",
+  "description": "16 fichas técnicas de coches JAC: E30X, JS6 y T9, con versiones, motores y precio para comparar.",
+  "intro": "JAC cubre casi todos los segmentos con una gama que mezcla eléctricos, SUV de combustión y pick-ups. Los eléctricos urbanos son el E30X, el E40X y el eJ7, con el J7 y el A5 Plus como berlinas. Los SUV de combustión e híbridos son el JS2 Pro, el JS4, el JS6, el X8 y el QX, este último también en versión PHEV. El RF8 PHEV es el monovolumen híbrido enchufable de la gama. Y los pick-ups son el T8 Pro, el T9, el T9 EV y el T9 PHEV, con versiones eléctricas e híbridas enchufables para trabajo y ocio. La amplitud obliga a decidir primero el tipo de coche y después la motorización, porque JAC ofrece el mismo formato con varias energías. Eléctrico urbano, SUV familiar o pick-up de trabajo: JAC ofrece los tres, pero cada uno pide mirar datos distintos, desde la batería hasta la carga útil y el consumo.",
+  "n": 16,
+  "url": "/coches/marca/jac/"
+ },
+ "coches/tesla": {
+  "nombre": "Tesla",
+  "title": "Tesla: 16 eléctricos, de Model 3 a Cybertruck",
+  "description": "16 fichas técnicas de coches Tesla: Model 3, Model Y y Cybertruck, con autonomía, versiones y precio.",
+  "intro": "Tesla reduce su gama a pocos nombres con muchas versiones, y esa es precisamente su complejidad. El Model 3 aparece en versión estándar, Gran Autonomía RWD y AWD, y Performance, y el Model Y repite el esquema con Gran Autonomía RWD y Tracción Total, 7 Plazas, L, Performance y Standard Gran Autonomía. El Model S Plaid y el Model X Plaid son las berlinas y SUV de altas prestaciones, y el Cybertruck el pick-up que rompe con todo lo anterior. El Cybercab anticipa el taxi autónomo y el Roadster el deportivo que la marca promete desde hace años. La comparación útil no es entre modelos, sino entre versiones del mismo modelo: autonomía, tracción y equipamiento cambian mucho el precio. En Tesla el modelo es casi lo de menos: la versión decide autonomía, tracción y precio. Un Model Y Standard y un Model Y Performance difieren en cada dato que importa: autonomía, tracción y precio.",
+  "n": 16,
+  "url": "/coches/marca/tesla/"
+ },
+ "coches/xpeng": {
+  "nombre": "XPeng",
+  "title": "XPeng: 16 eléctricos, de G6 a X9",
+  "description": "16 fichas técnicas de coches XPeng: G6, G9 y P7, con versiones, autonomía y precio de la gama eléctrica.",
+  "intro": "XPeng ordena sus eléctricos por letras: G para SUV, P para berlinas, M para monovolumen urbano y X para el monovolumen grande. El G6 es el SUV de acceso, con versiones Long Range, AWD Performance y 2026, y el G9 el SUV grande, también en AWD Performance. El G7 se sitúa entre ambos. Las berlinas son el P5, el P7 y el P7+, este último en Long Range y RWD Standard Range. El Mona M03 es el urbano asequible del grupo, el L03 PowerX una variante con extensor, y el X9 el monovolumen familiar grande. La gama cambia rápido entre años, así que conviene fijarse en el año del modelo además del nombre. La letra G, P, M o X indica el formato, pero el año del modelo indica la batería y el equipamiento real. Comparar un G6 2025 con un G6 2026 sin mirar el año es comparar dos coches distintos por dentro y por fuera.",
+  "n": 16,
+  "url": "/coches/marca/xpeng/"
+ },
+ "coches/lynk-co": {
+  "nombre": "Lynk & Co",
+  "title": "Lynk & Co: 15 coches, de 01 a 10 EM-P",
+  "description": "15 fichas técnicas de coches Lynk & Co: 01, 02 y 08 EM-P, con versiones híbridas enchufables y precio.",
+  "intro": "Lynk & Co nombra sus coches por números, y la gama se entiende mejor de menor a mayor. El 01 y el 02 son los SUV compactos de acceso, con el 01 en versiones 2025 y 2026. El 03 es la berlina, y el 05 EM-P, el 06 EM-P, el 07 EM-P y el 07 GT, el 08 y el 08 EM-P, el 09 y el 10 EM-P forman la escalera de SUV híbridos enchufables. El 900 EM-P es el SUV grande de la marca. Los Z10 y Z20 son los eléctricos puros del grupo. La sigla EM-P indica híbrido enchufable y es la clave para no confundir un 08 con un 08 EM-P. El número sube con el tamaño, pero la sigla EM-P sube con la tecnología: un 08 y un 08 EM-P comparten nombre y poco más. Mirar ambas cosas evita pagar por un híbrido que no lo es.",
+  "n": 15,
+  "url": "/coches/marca/lynk-co/"
+ },
+ "coches/mitsubishi": {
+  "nombre": "Mitsubishi",
+  "title": "Mitsubishi: 15 coches, de ASX a Outlander",
+  "description": "15 fichas técnicas de coches Mitsubishi: ASX, Colt y Eclipse Cross, con motores híbridos y precio.",
+  "intro": "Mitsubishi ha reconstruido su gama europea alrededor de tres nombres y el Outlander como buque insignia. El ASX aparece en versiones 100T, 120T, 130T, 130T MHEV y 180 HEV, con cambio manual y 7DCT según la versión. El Colt repite el esquema con 100T, 100T GLP y 160 HEV, como urbano polivalente. El Grandis, en 130T y 180 HEV, es el familiar compacto, y el Space Star 120 MPI Motion el urbano más asequible. El Eclipse Cross EV y su variante LFP abren la gama eléctrica, y el Outlander PHEV la cierra por arriba como SUV híbrido enchufable grande. La sigla T, MHEV o HEV indica el grado de hibridación, y el número indica la potencia: un 130T no es un 180 HEV aunque compartan carrocería. Entre el ASX, el Colt y el Outlander, la decisión pasa por tamaño, etiqueta y consumo, en ese orden, antes que por equipamiento. La sigla decide antes que el acabado.",
+  "n": 15,
+  "url": "/coches/marca/mitsubishi/"
+ },
+ "coches/roewe": {
+  "nombre": "Roewe",
+  "title": "Roewe: 15 coches, de i5 a D7",
+  "description": "15 fichas técnicas de coches Roewe: D7, RX5 e iMAX8, con versiones eléctricas e híbridas y precio.",
+  "intro": "Roewe, la marca de SAIC para el mercado chino que también se deja ver fuera, mezcla berlinas, SUV y monovolúmenes con varias energías. El i5 y el i6 son las berlinas de acceso, y el RX5 y el RX9 los SUV de combustión e híbridos. El eRX5 y el Ei5 aportan la variante eléctrica y familiar, y el Clever el urbano pequeño. La familia D es la más moderna: D5X DMH, D6, D7 EV y D7 DMH, con hibridación enchufable en las siglas DMH. El M7 DMH y el Jiayue 07 completan la oferta reciente, y el iMAX8 y el iMAX8 DMH son los monovolúmenes grandes. DMH significa híbrido enchufable y EV significa eléctrico puro: la misma carrocería puede llevar energías distintas y precios distintos. Entre el i5 urbano y el iMAX8 familiar, Roewe cubre casi todo el espectro con esas dos siglas como guía principal para elegir. Dos siglas ordenan todo el catálogo.",
+  "n": 15,
+  "url": "/coches/marca/roewe/"
+ },
+ "coches/tank": {
+  "nombre": "Tank",
+  "title": "Tank: 15 todoterreno, de 300 a 800",
+  "description": "15 fichas técnicas de coches Tank: Tank 300, Tank 500 y Tank 700, con versiones híbridas y todoterreno.",
+  "intro": "Tank es la marca todoterreno de Great Wall y su gama se lee por números crecientes y siglas de hibridación. El 300 es el todoterreno compacto, con versiones 2.0T, Diésel, HEV, Hi4-T y Hooke Trail, esta última la más orientada al campo. El 330 es una variante de mayor motor, y el 400 sube un escalón con Hi4-T y Hi4-Z. El 500, en 3.0T, HEV, Hi4-T y Hi4-Z, es el todoterreno grande familiar, y el 700, en Hi4-T y LWB Hi4-Z, y el 800 cierran la gama por arriba. La sigla Hi4 indica tracción total híbrida, y la diferencia entre Hi4-T y Hi4-Z está en la arquitectura del sistema. Hi4-T e Hi4-Z no son acabados: son dos formas de tracción total híbrida con comportamientos distintos fuera del asfalto. Y un 300 Hooke Trail no es un 300 normal con pegatinas, sino una preparación pensada para el campo serio. El campo serio pide siglas claras.",
+  "n": 15,
+  "url": "/coches/marca/tank/"
+ },
+ "motos/indian": {
+  "nombre": "Indian Motorcycle",
+  "title": "Indian Motorcycle: 15 motos americanas",
+  "description": "15 fichas técnicas de motos Indian Motorcycle: Scout, Chief y Challenger, con motor, versiones y precio.",
+  "intro": "Indian Motorcycle es la rival histórica de Harley y su gama se organiza en tres familias con carácter propio. La Scout es la de acceso y la más variada: 101 Scout, Scout Bobber, Scout Classic, Scout Sixty, Scout Sixty Classic, Scout Sixty Bobber y Sport Scout. La Chief es la custom clásica: Chief, Chief Bobber Dark Horse, Super Chief Limited y Sport Chief RT. Y las grandes viajeras son la Challenger, la Chieftain PowerPlus Dark Horse y la Pursuit Dark Horse, con carenado y maletas para ruta. La FTR 1200 Sport es la excepción deportiva de la gama, con un planteamiento más cercano a la naked. Scout, Chief y grandes viajeras: tres familias, tres posturas y tres pesos. La Scout Sixty es la entrada amable, la Pursuit Dark Horse la rutera con todo, y entre ambas la Chief mantiene el custom clásico americano de siempre para viajar. Tres familias, tres formas de rodar.",
+  "n": 15,
+  "url": "/motos/marca/indian/"
  }
 }
