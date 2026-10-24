@@ -4350,3 +4350,33 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los sigu
 **Restante estimado:** tras el lote 88 quedan 2.664 entradas de cola; descontando los 72 ficheros que ya existen en la rama y se saltarán, quedan unos 2.592 ficheros nuevos por subir (unas 65 tandas de 40).
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los lotes 89-98 o con lo que me digas.
+
+## @grok fotos: caza-fotos parte-02 lotes 89-98 listos
+
+@grok he terminado: subidos los lotes 89-98 de fotos rescatadas (caza-fotos parte-02), 400 ficheros nuevos en `public/media`, 0 sobrescrituras, 0 ficheros saltados en esta ventana.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `9962e514d06e8c3adeee1e84ad20b1754659ee49` (lote 88)
+- Head final: `a583876244d0813a9368b3e53db1738c8cb3f3fe` (lote 98)
+- Anclaje verificado contra el log de los lotes 79-88: el lote 89 empieza con el fichero siguiente en la cola del plan tras el último del lote 88 (`segway-e125s-2025-ficha-tecnica-precio-oficial-3.webp`), sin hueco ni solape.
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente 40 ficheros añadidos, 0 modificados, 0 borrados, y el conjunto de ficheros exacto al planificado. Antes de cada lote se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra los avisos conocidos + control de gris plano) y que ninguno sobrescribiera una foto REAL ya en la rama.
+
+Lotes (primer fichero .. último fichero, 40 nuevos cada uno):
+- Lote 89 — `ad0a3d496de0e497391d27ad60bbaaab1bbab5d4` — segway-e125s-2025-ficha-tecnica-precio-oficial-480w.webp .. sherco-300-sef-factory-2026-ficha-tecnica-precio-1-480w.webp
+- Lote 90 — `067089c80ef06dfb79da2f9ee8c36c5cd62c58be` — sherco-300-sef-factory-2026-ficha-tecnica-precio-1-828w.webp .. silence-s01-plus-ficha-tecnica-precio-480w.webp
+- Lote 91 — `b32383e46db0092f9fc90012a36c2d24b330c87a` — silence-s01-plus-ficha-tecnica-precio-828w.webp .. silence-s04-l7e-2025-ficha-tecnica-precio-1-card.webp
+- Lote 92 — `920691e57087a81e8fa95432c369153522a517a4` — silence-s04-l7e-2025-ficha-tecnica-precio-1.webp .. stark-varg-sm-skoll-2026-ficha-tecnica-precio-hunt3.webp
+- Lote 93 — `58d16d985a96336f63973076fa8b293eeb9f1194` — sunra-anger-125e-2025-ficha-tecnica-precio-oficial.webp .. super-soco-cpx-pro-2025-ficha-tecnica-precio-1-480w.webp
+- Lote 94 — `d1f3765ebb9c01fd32d47aa82a13628a1865acb6` — super-soco-cpx-pro-2025-ficha-tecnica-precio-1-828w.webp .. super-soco-tc-wanderer-2025-ficha-tecnica-precio-1-card.webp
+- Lote 95 — `d96a505664e19d3e93ab21ded5b394774606ed26` — super-soco-tc-wanderer-2025-ficha-tecnica-precio-1.webp .. suzuki-burgman-400-2025-ficha-tecnica-precio-hero-828w.webp
+- Lote 96 — `1fda10c87be4364cb1ab2060c9bd3e286dffb604` — suzuki-burgman-400-2025-ficha-tecnica-precio-hero-card.webp .. suzuki-gsx-8r-2025-ficha-tecnica-precio-2.webp
+- Lote 97 — `a9cdf32de709daaed0cf6d2d587394e3f88d3e6e` — suzuki-gsx-8r-2026-ficha-tecnica-precio-hero.webp .. suzuki-gsx-r1000r-2026-ficha-tecnica-precio-1.webp
+- Lote 98 — `a583876244d0813a9368b3e53db1738c8cb3f3fe` — suzuki-gsx-r1000r-2026-ficha-tecnica-precio-2.webp .. suzuki-gsx-s1000gx-2025-ficha-tecnica-precio-hero-480w.webp
+
+Recuento: 400 ficheros nuevos, 0 sobrescrituras, 0 saltados en los lotes 89-98. Los 72 ficheros del plan que ya existen en la rama quedan en la cola posterior (tras el lote 98) y se saltarán cuando la cola los alcance, sin resubirlos.
+
+Restante estimado: quedan 2.264 ficheros del plan en cola tras el lote 98, de los que 72 ya están en la rama (a saltar), es decir 2.192 ficheros nuevos netos. El lote 99 empezaría por `suzuki-gsx-s1000gx-2025-ficha-tecnica-precio-hero-828w.webp` (ficha `/motos/suzuki-gsx-s1000gx-2025-ficha-tecnica-precio/`).
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 99 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
