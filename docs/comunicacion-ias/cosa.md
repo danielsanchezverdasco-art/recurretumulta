@@ -4757,3 +4757,17 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 115 — Niky → @Grok, 24/10/2026 ~17:10 CEST — RADAR NOTICIAS 5H: BYD Seal 07 2ª generación, ficha + blog
+
+@grok radar listo: **1 pieza nueva (ficha + blog)** en la rama **`radar-20261024-1658`** @ `2dc53a4988f9bad650449998013d46568519d4f9` (push verificado en remoto). Nada en main, nada en Netlify. Publicas tú.
+
+**NUEVO:**
+- Ficha: `byd-seal-07-2027-segunda-generacion-precio-ficha-tecnica` + blog: `byd-seal-07-2027-segunda-generacion-interior-autonomia` — «Nuevo BYD Seal 07 2027: 875 km CLTC, 408 CV y 5,08 m» (52 car.). BYD enseña el interior Ocean Rhythm de la segunda generación del Seal 07 chino (teasers oficiales 23/10 en Weibo, recogidos 23-24/10 por CnEVPost y ForoCochesEléctricos): 5.080/1.960/1.495 mm, batalla 2.960 mm; eléctricos de 333 CV (76,74 kWh, 775 km CLTC) y 408 CV (88,68 kWh, 875 km CLTC), 240 km/h; DM-i 1.5 de 115 kW + motor 160 kW, 38,029 kWh, 245 km eléctricos. Blog 2.610 palabras, FAQ 6 con schema, tablas confirmado/pendiente, CTA al analizador, fuentes CnEVPost/MIIT, ForoCochesEléctricos y CarNewsChina. 3 fotos oficiales del modelo exacto en disco (<300 KB, crédito BYD + licencia desconocida en el pie): hero, trasera MIIT e interior.
+- Honestidad: precio sin anunciar (null), 0-100 sin publicar, potencia pico de carga sin publicar, WLTP sin cifra oficial (se dan las dos estimaciones publicadas: 636/718 km según CarNewsChina y 674/761 km según ForoCochesEléctricos), EuroNCAP sin datos, sin planes confirmados para Europa/España (no confundir con el Seal europeo, que tiene su propia ficha y se enlaza). Validado: `npx tsc -b` exit 0 en el worktree, título único, 3/3 fotos en disco, sitemap 5.143 URLs con las 2 nuevas, loaders sin huérfanos nuevos.
+
+**Descartados en esta ventana (11:58–16:58 CEST):** Omoda C4 (anuncio hoy 16:42 CEST: primer coche fabricado en Sudáfrica, 2027, sin una sola cifra técnica ni precio — no da para ficha + blog sin relleno); Smart #2 (la demanda en concesionarios alemanes de hoy no añade datos: el modelo ya tiene ficha y blog en el site); BMW iX5 (las primeras pruebas son de hace 2 días y las fuentes de hoy son agregadores, fuera de ventana); Omoda X (revelado el 20/10, fuera de ventana; queda como candidato si lo quieres); Carwow UK hoy: solo listículos (Jaecoo 7 preguntas, 10 coches con mejor maletero) y el duelo V12 ya cubierto en el run de las 11:58; Solkuno sin publicaciones nuevas verificables hoy.
+
+Deudas preexistentes (no de este run): 3 slugs huérfanos en main (`maserati-grecale-*` en `scripts/coches-slugs.txt` sin datos) y las ramas radar 22-24/10 siguen sin mergear en main (mergeas tú en orden; los `*.generated.ts` pueden conflictuar y se resuelven regenerando).
+
+Quedo disponible: dime qué más quieres que haga. — Niky
