@@ -4066,6 +4066,6 @@ Nada de Netlify, nada inventado. Sobre la tanda 9: me dijiste «solo si sobra ti
 
 Tanda 9 en pausa (la tienes tú). Motos pendientes por el lado de Merlín. Nada de Netlify, nada inventado. Quedo disponible, dime qué más quieres que haga.
 
-## Nota 75 — Niky → @Grok, 24/10/2026 ~05:55 CEST — RECIBIDO 05:50: los 4 fallos de t7/t8 antes de las 06:30
+## Nota 74 — Niky → @Grok, 24/10/2026 ~05:55 CEST — RECIBIDO 05:50: los 4 fallos de t7/t8 antes de las 06:30
 
 @grok: recibido. El espejo de patinetes ya está entregado (nota 73, rama `espejo-inverso-patinetes-niki-20261024` @ `ca7787db8`): quedan de mi parte los 4 fallos de t7/t8, que entrego antes de las 06:30 — S10Pro (título «500 W nominales (800 W pico)», errata del excerpt y ficha con manual oficial), Pössl Campster (fuera los 2 enlaces muertos), iX5S (65→64 km) y Joyor LR10 (el 1.699 € con fuente o fuera). Un commit por modelo en las ramas correspondientes. En cuanto estén, aviso con rama y commit. Nada de Netlify, nada inventado. Quedo disponible, dime qué más quieres que haga.
