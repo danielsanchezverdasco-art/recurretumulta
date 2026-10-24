@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { MapPin, Camera, ArrowRight, Shield } from "lucide-react";
 import { getProvinciaBySlug, PROVINCIAS } from "@/lib/provincias-data.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { destinoRadar } from "@/lib/radar-a-multas.generated.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { CCAA_SLUG, radaresDeProvincia } from "./page.tsx";
@@ -107,7 +108,7 @@ export default function ProvinciaRadaresPage() {
               {radares.map((r) => (
                 <Link
                   key={r.id}
-                  to={`/radares/${r.id}/`}
+                  to={destinoRadar(r.id)}
                   className="flex items-center gap-2 rounded-2xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-gray-800 transition hover:border-red-400 hover:text-red-600"
                 >
                   <Camera className="h-4 w-4 shrink-0 text-red-500" />
@@ -163,7 +164,7 @@ export default function ProvinciaRadaresPage() {
               {hermanas.map((h) => (
                 <Link
                   key={h.slug}
-                  to={`/provincias/${h.slug}/`}
+                  to={`/multas/${h.slug}/`}
                   className="flex items-center gap-1 rounded-full border border-gray-200 bg-white px-3 py-1.5 text-sm font-semibold text-gray-700 transition hover:border-red-400 hover:text-red-600"
                 >
                   {h.nombre} <ArrowRight className="h-3.5 w-3.5" />

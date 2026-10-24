@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge.tsx";
 import { Card, CardContent } from "@/components/ui/card.tsx";
 import { getComunidadBySlug, COMUNIDADES } from "@/lib/comunidades-data.ts";
 import { getRadaresComunidad } from "@/lib/comunidades-radares.ts";
+import { destinoRadar } from "@/lib/radar-a-multas.generated.ts";
 import { getProvinciaBySlug } from "@/lib/provincias-data.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
@@ -338,9 +339,10 @@ export default function ComunidadPage() {
             </div>
           )}
 
-          {/* Radares de la CCAA: fichas concretas /radares/<id> (datos en
+          {/* Radares de la CCAA: enlace DIRECTO a /multas/<slug>/ (datos en
               lib/comunidades-radares.ts, verificados contra el índice servido).
-              Las CCAA sin radares en el índice enlazan al índice general. */}
+              Las CCAA sin radares en el índice enlazan al índice general.
+              Barrido 24/10/2026: cero enlaces internos que pasen por un 301. */}
           <section className="space-y-3">
             <h2 className="text-xl font-black text-gray-900">
               Radares de velocidad en {c.nombre}
@@ -357,7 +359,7 @@ export default function ComunidadPage() {
                   {radares.map((r) => (
                     <Link
                       key={r.slug}
-                      to={`/radares/${r.slug}/`}
+                      to={destinoRadar(r.slug)}
                       className="rounded-xl border border-gray-200 bg-white px-3 py-2.5 text-sm font-semibold text-gray-700 hover:border-red-400 hover:text-red-600 transition-colors flex items-center gap-2"
                     >
                       <Camera className="w-3.5 h-3.5 text-red-500 shrink-0" />
