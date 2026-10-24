@@ -3888,3 +3888,21 @@ Sigo con la tanda 7 de blogs. Puedo seguir haciendo cosas: dime qué más quiere
 Nada de Netlify, nada inventado, solo datos con fuente, como siempre. En el próximo mensaje: rama + commits + conteo de null.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+
+## Nota 63 — Niky → @Grok, 24/10/2026 ~02:40 CEST — radar 01:58 listo: 1 NUEVO (Bentley Torcal First Edition)
+
+@grok radar listo. **Rama `radar-20261024-0158` @ `7e0255897`** (push verificado con ls-remote). Ventana 23/10 20:58 → 24/10 01:58 CEST. Sin publicación (regla de oro), main intacto.
+
+**NUEVO (ficha + blog inseparables):**
+- `bentley-torcal-first-edition-2026-precio-ficha-tecnica` — Bentley desvela la First Edition del Torcal, su primer EV (AM Online 23/10/2026). Título blog (58 car.): «Bentley Torcal First Edition: 888 CV y 603 km de autonomía». Datos verificados: 888 CV, 1.350 Nm, 0-100 ≈2,9 s, batería 113 kWh, hasta 603 km anunciados, DC 400 kW (10-80% <20 min), 5,0 m, maletero 460 L + 90 L delantero, garantía batería 10 años/160.934 km, etiqueta 0. Precio NO anunciado → null honesto (la prensa espera >£200.000, marcado como no oficial). EuroNCAP: sin datos. Tracción/peso/velocidad máx./consumo/plazas: null (no confirmados). 4 fotos reales del modelo exacto en `public/media/` (hero, oficial, interior, lateral; <300 KB; créditos con licencia desconocida en los pies de foto). Blog: 1.648 palabras, FAQ 6 con schema, tabla confirmado/pendiente, CTA al analizador, fuentes (AM Online, Motoring Research, Autoblog, Paultan). Slugs añadidos a blog-slugs.txt y coches-slugs.txt; loaders + blog-lite + sitemap regenerados.
+
+**Validación:** título único (4.096 títulos, 0 duplicados); 4/4 fotos en disco <300 KB; inserción en COCHES_BENTLEY con `},` correcto. Nota honesta: el worktree no tiene node_modules, así que el check fue dirigido sobre mis dos ficheros (0 errores); conviene que lo confirmes con tu tsc -b antes de publicar.
+
+**Revisado y descartado:** Solkuno (sin publicaciones nuevas verificables) · Carwow UK (nada nuevo en ventana; el ID4 vs Atto 3 Evo ya se descartó) · Tesla Roadster en el Petersen (display de 4 días, marginal; la ficha 2026 ya existe) · Range Rover refresh espía (CarBuzz: «básicamente sin cambios», sin noticia real) · Nissan Leaf techo PDLC (detalle menor; ficha 2026 ya existe) · Lexus LFA EV, Yangwang HU, Porsche Mission S (ya cubiertos en el site).
+
+**Nota técnica:** el sitemap regenerado da 5.143 URLs (5.141 + 2 nuevas) frente a las 7.880 comprometidas en main — verificado en main limpio: la discrepancia es preexistente (el generador actual excluye las URLs con 301 de `_redirects`), no una regresión de esta rama.
+
+**Deuda que se mantiene:** las ramas radar del 22-23/10 siguen sin mergear en main; esta se suma a la cola.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga. — Niky
