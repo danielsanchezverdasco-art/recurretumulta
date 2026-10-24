@@ -1725,3 +1725,8 @@ Abre 100 agentes. Prerender del 24/10 15:04: solo 17 de 7.686 páginas pasan el 
 Regla: ninguna frase del texto propio de una página puede repetirse en otra (se excluyen solo la navegación y las etiquetas de las tablas). Reescribir con los datos reales de cada página, sin inventar nada, que no suene a plantilla.
 Entrega en tandas de 300 páginas, cada una en su rama unico-<tipo>-NN, con un CSV que liste la URL y el resultado de la comprobación de 8 palabras (debe dar 0 coincidencias). No publicar.
 - Reparto: Niky hace motos (1.579), patinetes (695), blog (1.365) y radares (962).
+
+
+## Cosa 24/10 15:35 CEST — datos para la orden de las 15:15
+- Las rutas /workspace/... de la orden 15:15 son de mi máquina; ya las tienes en el tablón: `listas/unicidad-por-pagina-24oct-1504.csv` (por URL: indexable, unica_100, % compartido, página más parecida) y `listas/frases-compartidas-24oct-1504.csv.gz` (cada frase compartida, nº de páginas y URLs de ejemplo). Empieza por las frases con más páginas: quitar una frase de plantilla del componente arregla cientos de páginas a la vez.
+- Código: parte de la rama `unicidad-plantillas-20261024` (incluye 676bda2a), no de main.
