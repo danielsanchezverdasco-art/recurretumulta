@@ -819,6 +819,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/felo-fw-03-ficha-tecnica-precio/felo-fw-03-ficha-tecnica-precio-real-2.webp", alt: "FW-03 (foto: greatbiker.com, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/fotos-reales/felo-fw-03-ficha-tecnica-precio/felo-fw-03-ficha-tecnica-precio-real-3.webp", alt: "FW-03 (foto: japan.webike.net, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: "RymMDyIjWuk",
     videoCanal: "Los Electricos",
@@ -880,6 +882,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/felo-fw-07-ficha-tecnica-precio/felo-fw-07-ficha-tecnica-precio-real-2.webp", alt: "FW-07 (foto: movilidadelectrica.com, licencia desconocida)", ancho: 1024, alto: 724 },
+      { src: "/media/fotos-reales/felo-fw-07-ficha-tecnica-precio/felo-fw-07-ficha-tecnica-precio-real-3.webp", alt: "FW-07 (foto: motosan.es, licencia desconocida)", ancho: 1197, alto: 825 },
     ],
     videoId: "ZWw22sudYSc",
     videoCanal: "Muévete sin humos!!!",
@@ -1113,13 +1117,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-one-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/velca-one-2026-ficha-tecnica-precio-2.webp",
+        src: "/media//media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Velca ONE 2026, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/velca-one-2026-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/velca-one-2026-ficha-tecnica-precio/velca-one-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Velca ONE 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
@@ -1174,13 +1178,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-vortex-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/velca-vortex-2026-ficha-tecnica-precio-2.webp",
+        src: "/media//media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Velca Vortex 2026, vista lateral",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/velca-vortex-2026-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/velca-vortex-2026-ficha-tecnica-precio/velca-vortex-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Vortex 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
@@ -1370,9 +1374,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Con el Plan Moves IV su precio baja de 2.190 € a 1.490 €.",
       "Homologada como L1e (ciclomotor), no necesita ITV hasta los 3 años.",
     ],
-    imagen: "/media/velca-bora-2025-ficha-tecnica-precio-2.webp",
+    imagen: "/media//media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [{
-        src: "/media/velca-bora-2025-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/velca-bora-2025-ficha-tecnica-precio/velca-bora-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Bora 2025, vista frontal",
         ancho: 1200,
         alto: 675,
@@ -1427,13 +1431,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/velca-bora-plus-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/velca-bora-plus-2025-ficha-tecnica-precio-2.webp",
+        src: "/media//media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Velca Bora+ 2025, vista frontal del ciclomotor eléctrico",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/velca-bora-plus-2025-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/velca-bora-plus-2025-ficha-tecnica-precio/velca-bora-plus-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Velca Bora+ 2025, vista lateral con badge Bora+",
         ancho: 1200,
         alto: 675,
@@ -1546,7 +1550,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "La Blade Battery de BYD es famosa por su seguridad ante perforaciones.",
       "El diseño retro rinde homenaje a los scooters de los 90.",
     ],
-    imagen: "/media/nerva-spark-2026-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/nerva-spark-2026-ficha-tecnica-precio/nerva-spark-2026-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
         src: "/media/nerva-spark-2026-ficha-tecnica-precio-2.webp",
@@ -1560,6 +1564,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 675,
       },
+      { src: "/media/fotos-reales/nerva-spark-2026-ficha-tecnica-precio/nerva-spark-2026-ficha-tecnica-precio-real-1.webp", alt: "Spark (foto: soymotero.net, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/fotos-reales/nerva-spark-2026-ficha-tecnica-precio/nerva-spark-2026-ficha-tecnica-precio-real-2.webp", alt: "Spark (foto: 0-100.it, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1950,7 +1956,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "El motor 451 cc deriva del de la Eliminator 500.",
       "Las siglas SE identifican el acabado superior de la gama.",
     ],
-    imagen: "/media/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-ninja-500-se-2026-ficha-tecnica-precio/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-2.webp",
@@ -1964,6 +1970,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 600,
         alto: 450,
       },
+      { src: "/media/fotos-reales/kawasaki-ninja-500-se-2026-ficha-tecnica-precio/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-real-0.webp", alt: "Ninja 500 SE (foto: kawasaki.it, licencia desconocida)", ancho: 1920, alto: 1441 },
+      { src: "/media/fotos-reales/kawasaki-ninja-500-se-2026-ficha-tecnica-precio/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-real-2.webp", alt: "Ninja 500 SE (foto: totalmotorcycle.com, licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/fotos-reales/kawasaki-ninja-500-se-2026-ficha-tecnica-precio/kawasaki-ninja-500-se-2026-ficha-tecnica-precio-real-3.webp", alt: "Ninja 500 SE (foto: totalmotorcycle.com, licencia desconocida)", ancho: 2026, alto: 1351 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2263,6 +2272,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 992,
         alto: 558,
       },
+      { src: "/media/fotos-reales/aprilia-rs-125-2024-ficha-tecnica-precio/aprilia-rs-125-2024-ficha-tecnica-precio-real-0.webp", alt: "RS 125 (foto: 1000ps.com, licencia desconocida)", ancho: 2000, alto: 1562 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2908,6 +2918,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/bmw-r-12-gs-2025-ficha-tecnica-precio/bmw-r-12-gs-2025-ficha-tecnica-precio-real-2.webp", alt: "Primera revisión (1.000 km)", ancho: 800, alto: 600 },
+      { src: "/media/fotos-reales/bmw-r-12-gs-2025-ficha-tecnica-precio/bmw-r-12-gs-2025-ficha-tecnica-precio-real-3.webp", alt: "Primera revisión (1.000 km) (foto: motorcyclenews.com, licencia desconocida)", ancho: 822, alto: 548 },
     ],
     videoId: "IISsZ8O11uk",
     videoCanal: "Motosx1000",
@@ -3114,7 +3126,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "La Versys 1100 sustituye a la Versys 1000 a partir de 2025.",
       "\"Versys\" viene de \"versatile system\" (sistema versátil).",
     ],
-    imagen: "/media/kawasaki-versys-1100-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-versys-1100-2025-ficha-tecnica-precio/kawasaki-versys-1100-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-versys-1100-2025-ficha-tecnica-precio-2.webp",
@@ -3128,6 +3140,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-2025-ficha-tecnica-precio/kawasaki-versys-1100-2025-ficha-tecnica-precio-real-0.webp", alt: "Versys 1100 (foto: paultan.org, licencia desconocida)", ancho: 1776, alto: 1200 },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-2025-ficha-tecnica-precio/kawasaki-versys-1100-2025-ficha-tecnica-precio-real-2.webp", alt: "Versys 1100 (foto: mundomotero.com, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-2025-ficha-tecnica-precio/kawasaki-versys-1100-2025-ficha-tecnica-precio-real-3.webp", alt: "Versys 1100 (foto: japan.webike.net, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: "1vOOvjh4Gjc",
     videoCanal: "Motociclismo",
@@ -3300,7 +3315,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "En 2024 recibió un rediseño con más potencia: pasó a 170 CV.",
       "BMW la define como «adventure sport»: un híbrido entre trail y naked deportiva.",
     ],
-    imagen: "/media/bmw-s-1000-xr-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/bmw-s-1000-xr-2025-ficha-tecnica-precio/bmw-s-1000-xr-2025-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
         src: "/media/bmw-s-1000-xr-2025-ficha-tecnica-precio-2.webp",
@@ -3314,6 +3329,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 780,
       },
+      { src: "/media/fotos-reales/bmw-s-1000-xr-2025-ficha-tecnica-precio/bmw-s-1000-xr-2025-ficha-tecnica-precio-real-2.webp", alt: "S 1000 XR (foto: hornig.es, licencia desconocida)", ancho: 3000, alto: 2122 },
+      { src: "/media/fotos-reales/bmw-s-1000-xr-2025-ficha-tecnica-precio/bmw-s-1000-xr-2025-ficha-tecnica-precio-real-3.webp", alt: "S 1000 XR (foto: paultan.org, licencia desconocida)", ancho: 2121, alto: 1500 },
     ],
     videoId: "7FoL9CACD9I",
     videoCanal: "Two Wheels Achilles",
@@ -3831,7 +3848,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "La homologación Euro5+ llegó en 2025 junto al aumento de cilindrada hasta 1.099 cc.",
       "El paquete APRC aprende del estilo de conducción para anticipar la intervención electrónica.",
     ],
-    imagen: "/media/aprilia-tuono-v4-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/aprilia-tuono-v4-2025-ficha-tecnica-precio/aprilia-tuono-v4-2025-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
         src: "/media/aprilia-tuono-v4-2025-ficha-tecnica-precio-2.webp",
@@ -3893,7 +3910,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "La 1100 sustituyó a la Versys 1000 con más cilindrada y par.",
       "Es una de las trail asfálticas con mejor relación precio-prestaciones.",
     ],
-    imagen: "/media/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-versys-1100-se-2025-ficha-tecnica-precio/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-2.webp",
@@ -3907,6 +3924,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 675,
       },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-se-2025-ficha-tecnica-precio/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-real-0.webp", alt: "Versys 1100 SE (foto: webike.ph, licencia desconocida)", ancho: 1200, alto: 901 },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-se-2025-ficha-tecnica-precio/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-real-2.webp", alt: "Versys 1100 SE (foto: kawa-go.kawasaki.es, licencia desconocida)", ancho: 500, alto: 375 },
+      { src: "/media/fotos-reales/kawasaki-versys-1100-se-2025-ficha-tecnica-precio/kawasaki-versys-1100-se-2025-ficha-tecnica-precio-real-3.webp", alt: "Versys 1100 SE (foto: kawa-go.kawasaki.es, licencia desconocida)", ancho: 1500, alto: 1126 },
     ],
     videoId: "mBBfnqVt55I",
     videoCanal: "MotoAdv TV Channel",
@@ -3955,7 +3975,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Con el RAM-air la potencia declarada sube hasta los 210 CV.",
       "Las siglas RR identifican las versiones homologadas para competición.",
     ],
-    imagen: "/media/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-2.webp",
@@ -3969,6 +3989,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 854,
       },
+      { src: "/media/fotos-reales/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-real-0.webp", alt: "Ninja ZX-10RR (foto: kawasaki.eu, licencia desconocida)", ancho: 1600, alto: 1120 },
+      { src: "/media/fotos-reales/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-real-2.webp", alt: "Ninja ZX-10RR (foto: bikesxpress.nl, licencia desconocida)", ancho: 2160, alto: 1621 },
+      { src: "/media/fotos-reales/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio/kawasaki-ninja-zx-10rr-2025-ficha-tecnica-precio-real-3.webp", alt: "Ninja ZX-10RR (foto: totalmotorcycle.com, licencia desconocida)", ancho: 678, alto: 381 },
     ],
     videoId: "ONRCGISe6Lc",
     videoCanal: "City Ninja",
@@ -4017,7 +4040,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "El compresor lo fabrica la división aeroespacial de Kawasaki.",
       "Deriva de la Ninja H2R, la moto de serie más potente jamás creada.",
     ],
-    imagen: "/media/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-2.webp",
@@ -4031,6 +4054,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-real-0.webp", alt: "Ninja H2 SX (foto: kawasaki-india.com, licencia desconocida)", ancho: 1920, alto: 1441 },
+      { src: "/media/fotos-reales/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-real-2.webp", alt: "Ninja H2 SX (foto: kawasaki-india.com, licencia desconocida)", ancho: 1920, alto: 1441 },
+      { src: "/media/fotos-reales/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio/kawasaki-ninja-h2-sx-2025-ficha-tecnica-precio-real-3.webp", alt: "Ninja H2 SX (foto: sukoharjonews.com, licencia desconocida)", ancho: 1345, alto: 900 },
     ],
     videoId: null,
     videoCanal: null,
@@ -4079,7 +4105,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Indian recupera el nombre 101 casi un siglo después.",
       "Su V2 SpeedPlus es el motor más moderno de la marca americana.",
     ],
-    imagen: "/media/indian-101-scout-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/indian-101-scout-2025-ficha-tecnica-precio/indian-101-scout-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/indian-101-scout-2025-ficha-tecnica-precio-2.webp",
@@ -4093,6 +4119,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/indian-101-scout-2025-ficha-tecnica-precio/indian-101-scout-2025-ficha-tecnica-precio-real-2.webp", alt: "Primera revisión (800 km)", ancho: 768, alto: 512 },
+      { src: "/media/fotos-reales/indian-101-scout-2025-ficha-tecnica-precio/indian-101-scout-2025-ficha-tecnica-precio-real-3.webp", alt: "Primera revisión (800 km)", ancho: 1536, alto: 1024 },
     ],
     videoId: "3SW69x0sqrw",
     videoCanal: "Cycle World",
@@ -4172,6 +4200,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 675,
       },
+      { src: "/media/fotos-reales/indian-sport-scout-2025-ficha-tecnica-precio/indian-sport-scout-2025-ficha-tecnica-precio-real-1.webp", alt: "Primera revisión (800 km)", ancho: 1440, alto: 1079 },
+      { src: "/media/fotos-reales/indian-sport-scout-2025-ficha-tecnica-precio/indian-sport-scout-2025-ficha-tecnica-precio-real-2.webp", alt: "Primera revisión (800 km)", ancho: 1200, alto: 675 },
     ],
     videoId: "59glTDSNLIM",
     videoCanal: "Nostalgic Motorcycles",
@@ -4251,6 +4281,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/indian-super-chief-limited-2025-ficha-tecnica-precio/indian-super-chief-limited-2025-ficha-tecnica-precio-real-1.webp", alt: "Primera revisión (800 km)", ancho: 1650, alto: 928 },
+      { src: "/media/fotos-reales/indian-super-chief-limited-2025-ficha-tecnica-precio/indian-super-chief-limited-2025-ficha-tecnica-precio-real-2.webp", alt: "Primera revisión (800 km)", ancho: 1200, alto: 675 },
     ],
     videoId: "xZWzgVVX5kg",
     videoCanal: "Fuel Frenzy",
@@ -4612,6 +4644,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 799,
       },
+      { src: "/media/fotos-reales/zontes-350gk-2025-ficha-tecnica-precio/zontes-350gk-2025-ficha-tecnica-precio-real-1.webp", alt: "350GK", ancho: 1100, alto: 733 },
+      { src: "/media/fotos-reales/zontes-350gk-2025-ficha-tecnica-precio/zontes-350gk-2025-ficha-tecnica-precio-real-2.webp", alt: "350GK", ancho: 532, alto: 355 },
     ],
     videoId: "D66slDxulKM",
     videoCanal: "Motorbike Magazine",
@@ -4984,6 +5018,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 728,
       },
+      { src: "/media/fotos-reales/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio-real-1.webp", alt: "Eliminator 500 SE (foto: motoplanete.es, licencia desconocida)", ancho: 1000, alto: 722 },
+      { src: "/media/fotos-reales/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio/kawasaki-eliminator-500-se-2025-ficha-tecnica-precio-real-2.webp", alt: "Eliminator 500 SE (foto: kawasaki.com.au, licencia desconocida)", ancho: 767, alto: 430 },
     ],
     videoId: "MvpivJt1nfU",
     videoCanal: "MotorADN Canal TV",
@@ -5032,7 +5068,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "Kawasaki la presenta como 'The Original Icon', recuperando el diseño de las W de los 60.",
       "Con 143 kg es una de las motos clásicas más ligeras del mercado actual.",
     ],
-    imagen: "/media/kawasaki-w230-2026-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/kawasaki-w230-2026-ficha-tecnica-precio/kawasaki-w230-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/kawasaki-w230-2026-ficha-tecnica-precio-2.webp",
@@ -5046,6 +5082,9 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 785,
       },
+      { src: "/media/fotos-reales/kawasaki-w230-2026-ficha-tecnica-precio/kawasaki-w230-2026-ficha-tecnica-precio-real-0.webp", alt: "W230 (foto: visordown.com, licencia desconocida)", ancho: 1600, alto: 1201 },
+      { src: "/media/fotos-reales/kawasaki-w230-2026-ficha-tecnica-precio/kawasaki-w230-2026-ficha-tecnica-precio-real-2.webp", alt: "W230 (foto: kawasaki.de, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/fotos-reales/kawasaki-w230-2026-ficha-tecnica-precio/kawasaki-w230-2026-ficha-tecnica-precio-real-3.webp", alt: "W230 (foto: kawasaki-motors.com, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     videoId: "UXwiiFlzbKg",
     videoCanal: "KawasakiTHA",
@@ -5108,6 +5147,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 752,
       },
+      { src: "/media/fotos-reales/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio-real-2.webp", alt: "Eight Mile 125 LC (foto: macbor.es, licencia desconocida)", ancho: 1000, alto: 800 },
+      { src: "/media/fotos-reales/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio/macbor-eight-mile-125-lc-2025-ficha-tecnica-precio-real-3.webp", alt: "Eight Mile 125 LC (foto: macbor.es, licencia desconocida)", ancho: 1200, alto: 750 },
     ],
     videoId: "lzXLI2lnyuQ",
     videoCanal: "Macbor Motorbikes",
@@ -5170,6 +5211,8 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         ancho: 1200,
         alto: 834,
       },
+      { src: "/media/fotos-reales/moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio/moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio-real-2.webp", alt: "Seiemmezzo SCR 650 (foto: pioneerpowersports.com, licencia desconocida)", ancho: 1024, alto: 664 },
+      { src: "/media/fotos-reales/moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio/moto-morini-seiemmezzo-scr-650-2025-ficha-tecnica-precio-real-3.webp", alt: "Seiemmezzo SCR 650 (foto: motomorini.ba, licencia desconocida)", ancho: 1920, alto: 1334 },
     ],
     videoId: "jtq_vIOaH48",
     videoCanal: "Canariasenmoto",
@@ -5221,13 +5264,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-2.webp",
+        src: "/media//media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati Scrambler 800 Icon Dark 2025 negra, vista lateral",
         ancho: 1200,
         alto: 960,
       },
       {
-        src: "/media/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio/ducati-scrambler-800-icon-dark-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Scrambler 800 Icon Dark 2025 negra, frontal",
         ancho: 1200,
         alto: 675,
@@ -5300,13 +5343,13 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-2.webp",
+        src: "/media//media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Ducati Scrambler 800 Nightshift 2026 Emerald Green, detalle",
         ancho: 1200,
         alto: 1801,
       },
       {
-        src: "/media/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-3.webp",
+        src: "/media//media/fotos-reales/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio/ducati-scrambler-800-nightshift-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Ducati Scrambler 800 Nightshift 2026 Emerald Green, vista lateral",
         ancho: 1200,
         alto: 857,

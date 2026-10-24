@@ -853,9 +853,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/mg5-electric-2025-precio-ficha-tecnica-hunt1.webp", alt: "5 Electric (foto: Carbuyer / foto de prensa MG Motor UK, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mg5-electric-2025-precio-ficha-tecnica-hunt2.webp", alt: "5 Electric (foto: Paul Tan's Automotive News / render de prensa oficial MG, licencia desconocida)", ancho: 1260, alto: 658 },
+      { src: "/media/mg5-electric-2025-precio-ficha-tecnica-hunt3.webp", alt: "5 Electric (foto: Egear.be / render de prensa oficial MG, licencia desconocida)", ancho: 1250, alto: 703 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/mg5/2022/estandar/electric/mg5-electric-gran-autonomia/datos",
@@ -934,6 +934,9 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mg-marvel-r-2024-precio-ficha-tecnica-hunt1.webp", alt: "Marvel R (foto: MG Motors Dinamarca (web oficial MG), licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/mg-marvel-r-2024-precio-ficha-tecnica-hunt2.webp", alt: "Marvel R (foto: MG Motor Europe (banco de prensa oficial), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/mg-marvel-r-2024-precio-ficha-tecnica-hunt3.webp", alt: "Marvel R (foto: MG Motors Dinamarca (web oficial MG), licencia desconocida)", ancho: 1280, alto: 563 },
     ],
     fuenteNombre: "revistacar.es",
     fuenteUrl: "https://revistacar.es/el-mg-marvel-r-electric-ya-tiene-precio-oficial-en-espana/",
@@ -999,9 +1002,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cyberster Trophy (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cyberster Trophy (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mg-cyberster-trophy-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cyberster Trophy (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/cyberster/2024/estandar/estandar/cyberster/datos",
@@ -1085,6 +1088,9 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mg-cyberster-gt-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cyberster GT (foto: Mojelektromobil.sk (test MG Cyberster GT), licencia desconocida)", ancho: 1920, alto: 1282 },
+      { src: "/media/mg-cyberster-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cyberster GT (foto: Mojelektromobil.sk (test MG Cyberster GT), licencia desconocida)", ancho: 1920, alto: 1282 },
+      { src: "/media/mg-cyberster-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cyberster GT (foto: The Car Expert (prueba MG Cyberster GT, foto de prensa MG), licencia desconocida)", ancho: 1800, alto: 1200 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/cyberster/2024/estandar/estandar/cyberster-awd/datos",
@@ -1150,9 +1156,9 @@ export const COCHES_MG: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hunt1.webp", alt: "S5 EV Standard (foto: MG Motor (prensa oficial, vía Auto.pub), licencia desconocida)", ancho: 1863, alto: 876 },
+      { src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hunt2.webp", alt: "S5 EV Standard (foto: MG Motor (prensa oficial, vía Carwow España), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/mg-s5-ev-standard-2025-precio-ficha-tecnica-hunt3.webp", alt: "S5 EV Standard (foto: MG Motor (prensa oficial, vía Carwow España), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     fuenteNombre: "coches-electricos.org",
     fuenteUrl: "https://coches-electricos.org/noticias/ya-sabemos-el-precio-del-esperado-nuevo-mg-s5-ev/",
@@ -1231,6 +1237,9 @@ export const COCHES_MG: CocheComparador[] = [
         ancho: 2000,
         alto: 1120,
       },
+      { src: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-hunt1.webp", alt: "S5 EV Long Range (foto: MG (foto de prensa) via CarExpert, licencia desconocida)", ancho: 960, alto: 540 },
+      { src: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-hunt2.webp", alt: "S5 EV Long Range (foto: MG (foto de prensa) via Andersen Biler, concesionario MG, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-hunt3.webp", alt: "S5 EV Long Range (foto: MG (foto de prensa) via Carros Bem Montados, licencia desconocida)", ancho: 1280, alto: 735 },
     ],
     fuenteNombre: "MG Motor Europa (oficial)",
     fuenteUrl: "https://mgmotor.eu/es-ES/model/mgs5",
@@ -1313,7 +1322,10 @@ export const COCHES_MG: CocheComparador[] = [
         alt: "MG ZS EV Long Range Comfort, vista frontal",
         ancho: 1200,
         alto: 800
-      }
+      },
+      { src: "/media/mg-zs-ev-2024-precio-ficha-tecnica-hunt1.webp", alt: "ZS EV Long Range Comfort (foto: MG Motor Grecia (web oficial), licencia desconocida)", ancho: 1600, alto: 1092 },
+      { src: "/media/mg-zs-ev-2024-precio-ficha-tecnica-hunt2.webp", alt: "ZS EV Long Range Comfort (foto: MG Motor Grecia (web oficial), licencia desconocida)", ancho: 1100, alto: 875 },
+      { src: "/media/mg-zs-ev-2024-precio-ficha-tecnica-hunt3.webp", alt: "ZS EV Long Range Comfort (foto: MG Motor Grecia (web oficial), licencia desconocida)", ancho: 1200, alto: 620 },
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/mg/zs/2022/estandar/ev/zs-ev-autonomia-long-luxury/datos"
@@ -1398,7 +1410,10 @@ export const COCHES_MG: CocheComparador[] = [
         alt: "MG ZS EV Standard Range Comfort, vista frontal",
         ancho: 1200,
         alto: 800
-      }
+      },
+      { src: "/media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt1.webp", alt: "ZS EV Standard Range Comfort (foto: MG / Autocar India, licencia desconocida)", ancho: 1200, alto: 795 },
+      { src: "/media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt2.webp", alt: "ZS EV Standard Range Comfort (foto: MG / AutoScout24, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hunt3.webp", alt: "ZS EV Standard Range Comfort (foto: CarExpert, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/mg/zs/2022/estandar/ev/zs-ev-autonomia-long-luxury/datos"
@@ -1476,7 +1491,10 @@ export const COCHES_MG: CocheComparador[] = [
         alt: "MG5 Electric Standard Range Luxury, vista frontal",
         ancho: 1200,
         alto: 800
-      }
+      },
+      { src: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-hunt1.webp", alt: "MG5 Electric Standard Range Luxury (foto: DrivingElectric / coche de prensa MG Motor UK, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-hunt2.webp", alt: "MG5 Electric Standard Range Luxury (foto: DrivingElectric / coche de prensa MG Motor UK, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-hunt3.webp", alt: "MG5 Electric Standard Range Luxury (foto: km77, licencia desconocida)", ancho: 390, alto: 244 },
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/mg/mg5/2022/estandar/electric/mg5-electric-autonomia-standard-luxury/datos"
@@ -1554,7 +1572,10 @@ export const COCHES_MG: CocheComparador[] = [
         alt: "MG Marvel R Electric Performance AWD, vista frontal",
         ancho: 1200,
         alto: 800
-      }
+      },
+      { src: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-hunt1.webp", alt: "Marvel R Electric Performance AWD (foto: Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-hunt2.webp", alt: "Marvel R Electric Performance AWD (foto: Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-hunt3.webp", alt: "Marvel R Electric Performance AWD (foto: Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/mg/marvel-r/2021/estandar/electric/marvel-r-electric/datos"

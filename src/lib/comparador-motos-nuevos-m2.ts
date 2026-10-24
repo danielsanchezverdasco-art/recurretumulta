@@ -947,7 +947,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     imagen: "/media/next-nx1-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        src: "/media/next-nx1-2025-ficha-tecnica-precio-oficial-2.webp",
+        src: "/media/fotos-reales/next-nx1-2025-ficha-tecnica-precio/next-nx1-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Next NX1 2025, scooter eléctrico español, vista lateral",
         ancho: 1200,
         alto: 800,
@@ -1028,7 +1028,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     imagen: "/media/next-nxplus-ls-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
       {
-        src: "/media/next-nxplus-ls-2025-ficha-tecnica-precio-oficial-2.webp",
+        src: "/media/fotos-reales/next-nxplus-ls-2025-ficha-tecnica-precio/next-nxplus-ls-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Next NXPlus LS 2025, vista lateral",
         ancho: 1200,
         alto: 800,

@@ -63,7 +63,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
         alto: 1066,
       },
       {
-        src: "/media/wottan-storm-125-2025-precio-galeria-2.webp",
+        src: "/media/fotos-reales/wottan-storm-125-2025-ficha-tecnica-precio/wottan-storm-125-2025-ficha-tecnica-precio-real-3.webp",
         alt: "Wottan Storm 125 2025 circulando por ciudad",
         ancho: 1600,
         alto: 1066,
@@ -270,7 +270,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
         alto: 1066,
       },
       {
-        src: "/media/qjmotor-svt-650-2024-precio-galeria-1.webp",
+        src: "/media/fotos-reales/qjmotor-svt-650-2024-ficha-tecnica-precio/qjmotor-svt-650-2024-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor SVT 650 2024, detalle del motor V-twin de 645 cc",
         ancho: 1600,
         alto: 1066,

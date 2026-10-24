@@ -86,7 +86,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         alt: "Fiat 500e blanco perla en calle europea al atardecer",
         ancho: 2352,
         alto: 1008
-      }
+      },
+      { src: "/media/fiat-500e-2025-precio-ficha-tecnica-hunt1.webp", alt: "500e (foto: B2C Content Hub / prensa Fiat (500)RED, licencia desconocida)", ancho: 1600, alto: 800 },
+      { src: "/media/fiat-500e-2025-precio-ficha-tecnica-hunt2.webp", alt: "500e (foto: AutoAubaine / concesionario (unidad real 2025 blanca), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/fiat-500e-2025-precio-ficha-tecnica-hunt3.webp", alt: "500e (foto: MoparInsiders / prensa Fiat (interior La Prima), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/500/2021/3-puertas/electric/500e-berlina-icon-87-kw-118-cv/datos",
@@ -152,9 +155,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hunt1.webp", alt: "500 Hybrid (foto: Forza Italia (presentación oficial del Fiat 500 Hybrid en Mirafiori, Turín), licencia desconocida)", ancho: 1300, alto: 867 },
+      { src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hunt2.webp", alt: "500 Hybrid (foto: Quotidiano Motori / Fiat (foto de prensa del 500 Hybrid Torino), licencia desconocida)", ancho: 1585, alto: 1200 },
+      { src: "/media/fiat-500-hibrido-2025-precio-ficha-tecnica-hunt3.webp", alt: "500 Hybrid (foto: Forza Italia (presentación oficial del Fiat 500 Hybrid en Mirafiori, Turín), licencia desconocida)", ancho: 1300, alto: 867 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/500/2021/31/informacion?amp=1",
@@ -220,9 +223,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-pandina-2024-precio-ficha-tecnica-hunt1.webp", alt: "Pandina (foto: Fiat / Stellantis Media vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1002 },
+      { src: "/media/fiat-pandina-2024-precio-ficha-tecnica-hunt2.webp", alt: "Pandina (foto: Fiat / Stellantis Media vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1003 },
+      { src: "/media/fiat-pandina-2024-precio-ficha-tecnica-hunt3.webp", alt: "Pandina (foto: Fiat / Stellantis Media vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1002 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/panda/2021/estandar/datos?amp=1",
@@ -307,9 +310,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hunt1.webp", alt: "Grande Panda Hybrid (foto: Fiat / Stellantis vía DailyRevs, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hunt2.webp", alt: "Grande Panda Hybrid (foto: Fiat / Stellantis vía DailyRevs, licencia desconocida)", ancho: 1920, alto: 1156 },
+      { src: "/media/fiat-grande-panda-hibrido-2025-precio-ficha-tecnica-hunt3.webp", alt: "Grande Panda Hybrid (foto: Fiat / Stellantis vía DailyRevs, licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/grande-panda/2025/estandar/estandar/grande-panda-icon-12-mhev-81-kw-110-cv-ddct/datos",
@@ -387,7 +390,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         alt: "Fiat 600e verde oliva cargando en punto de recarga",
         ancho: 2352,
         alto: 1008
-      }
+      },
+      { src: "/media/fiat-600e-2025-precio-ficha-tecnica-hunt1.webp", alt: "600e (foto: Fiat / Stellantis (foto de prensa, vía EV Database), licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/fiat-600e-2025-precio-ficha-tecnica-hunt2.webp", alt: "600e (foto: Fiat / Stellantis (foto de prensa, vía DrivingElectric), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/fiat-600e-2025-precio-ficha-tecnica-hunt3.webp", alt: "600e (foto: Fiat / Stellantis (foto de prensa, vía Carscoops), licencia desconocida)", ancho: 2048, alto: 1366 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/600/2024/estandar/e/600e/datos",
@@ -453,9 +459,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt1.webp", alt: "600 Sport (foto: Fiat / Stellantis (foto de prensa difundida por ItalPassion), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt2.webp", alt: "600 Sport (foto: Fiat / Stellantis (foto de prensa difundida por ItalPassion), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/fiat-600-sport-145cv-2025-precio-ficha-tecnica-hunt3.webp", alt: "600 Sport (foto: Fiat / Stellantis (foto de prensa difundida por ItalPassion), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     fuenteNombre: "coches.net",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/fiat/600/4x4/5-puertas/mhev_sport_12_106kw_145cv_ddct_145cv_hibrido/116743/851007020251219/",
@@ -533,7 +539,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         alt: "Fiat Tipo sedán gris plata frente a edificio moderno",
         ancho: 2352,
         alto: 1008
-      }
+      },
+      { src: "/media/fiat-tipo-2024-precio-ficha-tecnica-hunt1.webp", alt: "Tipo (foto: Fiat / Stellantis (foto de prensa) vía Carwow España, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/fiat-tipo-2024-precio-ficha-tecnica-hunt2.webp", alt: "Tipo (foto: km77.com (galería Fiat Tipo 4 puertas 2021), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/fiat-tipo-2024-precio-ficha-tecnica-hunt3.webp", alt: "Tipo (foto: VehicleSizes.com, licencia desconocida)", ancho: 1700, alto: 870 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/tipo/2021/4-puertas/datos?amp=1",
@@ -599,9 +608,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-doblo-2024-precio-ficha-tecnica-hunt1.webp", alt: "Doblò (foto: arabalar.com.tr (foto de prensa Fiat), licencia desconocida)", ancho: 600, alto: 450 },
+      { src: "/media/fiat-doblo-2024-precio-ficha-tecnica-hunt2.webp", alt: "Doblò (foto: arabalar.com.tr (foto de prensa Fiat), licencia desconocida)", ancho: 600, alto: 450 },
+      { src: "/media/fiat-doblo-2024-precio-ficha-tecnica-hunt3.webp", alt: "Doblò (foto: ADAC Autokatalog (imagen del fabricante), licencia desconocida)", ancho: 2088, alto: 1175 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/doblo/2024/estandar/estandar/doblo-15-diesel-96-kw-130-cv-at8/datos",
@@ -655,9 +664,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt1.webp", alt: "E-Doblò (foto: km77.com (foto de prensa Fiat/Stellantis), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt2.webp", alt: "E-Doblò (foto: km77.com (foto de prensa Fiat/Stellantis), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/fiat-e-doblo-2024-precio-ficha-tecnica-hunt3.webp", alt: "E-Doblò (foto: EspacioFurgo / HighMotor (foto de prensa Fiat/Stellantis), licencia desconocida)", ancho: 798, alto: 466 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/doblo/informacion?amp=1",
@@ -724,9 +733,9 @@ export const COCHES_FIAT: CocheComparador[] = [
       estimado: true
     },
     galeria: [
-      
-      
-      
+      { src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt1.webp", alt: "E-Ulysse (foto: Fiat / Stellantis (foto de prensa) vía Carscoops, licencia desconocida)", ancho: 1920, alto: 1270 },
+      { src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt2.webp", alt: "E-Ulysse (foto: Fiat / Stellantis (foto de prensa) vía Carscoops, licencia desconocida)", ancho: 1600, alto: 898 },
+      { src: "/media/fiat-e-ulysse-2024-precio-ficha-tecnica-hunt3.webp", alt: "E-Ulysse (foto: Fiat / Stellantis (foto de prensa) vía Carscoops, licencia desconocida)", ancho: 1920, alto: 1498 },
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/fiat/ulysse/2024/talla-m/electrico/e-ulysse-talla-m-75-kwh/datos",
@@ -912,7 +921,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alt": "Fiat Grande Panda eléctrico en ciudad",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hunt1.webp", alt: "Grande Panda EV 113 CV (foto: Fiat / Stellantis (flota de prensa) vía Cochesyconcesionarios.com, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hunt2.webp", alt: "Grande Panda EV 113 CV (foto: Fiat / Stellantis (flota de prensa) vía Cochesyconcesionarios.com, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hunt3.webp", alt: "Grande Panda EV 113 CV (foto: Fiat / Stellantis (flota de prensa) vía Cochesyconcesionarios.com, licencia desconocida)", ancho: 1024, alto: 682 },
     ]
   },
   {
@@ -993,7 +1005,9 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alt": "Fiat 600 Hybrid en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-hunt1.webp", alt: "600 Hybrid 110 CV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1920, alto: 1062 },
+      { src: "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-hunt2.webp", alt: "600 Hybrid 110 CV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1920, alto: 1102 },
     ]
   },
   {
@@ -1074,7 +1088,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alt": "Fiat Ulysse en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hunt1.webp", alt: "Ulysse 2.0 BlueHDi 180 CV (foto: Fiat (foto de prensa oficial, republicada por Tuttosprint con crédito «Credit: Fiat»), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hunt2.webp", alt: "Ulysse 2.0 BlueHDi 180 CV (foto: Azzurra Store / Auto & Servizio S.r.l. (foto real de unidad en concesionario), licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/fiat-ulysse-20-bluehdi-180-2025-precio-ficha-tecnica-hunt3.webp", alt: "Ulysse 2.0 BlueHDi 180 CV (foto: Fiat (foto de prensa oficial, republicada por Tuttosprint con crédito «Credit: Fiat»), licencia desconocida)", ancho: 711, alto: 400 },
     ]
   },
   {
@@ -1155,7 +1172,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alt": "Fiat 500e 3+1 en ciudad",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt1.webp", alt: "500e 3+1 118 CV (foto: Wybór Kierowców, licencia desconocida)", ancho: 1920, alto: 1308 },
+      { src: "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt2.webp", alt: "500e 3+1 118 CV (foto: Fiat / Stellantis (foto de prensa la Prima Oro Rosa) vía AutoGreekNews, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/fiat-500e-3plus1-118-2025-precio-ficha-tecnica-hunt3.webp", alt: "500e 3+1 118 CV (foto: Wybór Kierowców, licencia desconocida)", ancho: 768, alto: 512 },
     ]
   },
   {
@@ -1236,7 +1256,10 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alt": "Fiat Tipo Cross Hybrid en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Tipo Cross 1.5 Hybrid 130 CV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1600, alto: 862 },
+      { src: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "Tipo Cross 1.5 Hybrid 130 CV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1600, alto: 893 },
+      { src: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "Tipo Cross 1.5 Hybrid 130 CV (foto: Calreyn88 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1008 },
     ]
   },
   {

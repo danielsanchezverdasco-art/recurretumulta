@@ -398,7 +398,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-srk600-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-srk600-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-srk600-2025-ficha-tecnica-precio/qjmotor-srk600-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor SRK 600 2025, detalle",
         ancho: 1200,
         alto: 800,
@@ -444,7 +444,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-srk400-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-srk400-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-srk400-2025-ficha-tecnica-precio/qjmotor-srk400-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor SRK 400 2025, detalle",
         ancho: 1200,
         alto: 800,
@@ -565,7 +565,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-srk-125j-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-srk-125j-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-srk-125j-2025-ficha-tecnica-precio/qjmotor-srk-125j-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor SRK 125J 2025, detalle",
         ancho: 1200,
         alto: 800,
@@ -625,7 +625,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-srv-600v-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-srv-600v-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-srv-600v-2025-ficha-tecnica-precio/qjmotor-srv-600v-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor SRV 600V 2025, detalle",
         ancho: 1200,
         alto: 800,
@@ -2848,7 +2848,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-fort-4-0-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-fort-4-0-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-fort-4-0-2025-ficha-tecnica-precio/qjmotor-fort-4-0-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor Fort 4.0 2025, detalle",
         ancho: 1200,
         alto: 800,

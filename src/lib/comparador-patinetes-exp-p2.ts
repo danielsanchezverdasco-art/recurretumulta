@@ -199,7 +199,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/patinetes/cecotec-bongo-serie-s-infinity-3.webp",
+        src: "/media/fotos-reales/cecotec-bongo-serie-s-infinity/cecotec-bongo-serie-s-infinity-real-2.webp",
         alt: "Cecotec Bongo Serie S Infinity circulando por ciudad",
         ancho: 1200,
         alto: 800,
@@ -1092,13 +1092,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-thunder-3-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-thunder-3-2.webp",
+        src: "/media/fotos-reales/dualtron-thunder-3/dualtron-thunder-3-real-2.webp",
         alt: "Frenos NUTT del Dualtron Thunder 3",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-thunder-3-3.webp",
+        src: "/media/fotos-reales/dualtron-thunder-3/dualtron-thunder-3-real-3.webp",
         alt: "Dualtron Thunder 3, patinete de altas prestaciones",
         ancho: 1200,
         alto: 800,
@@ -1146,13 +1146,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-new-storm-limited-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-new-storm-limited-2.webp",
+        src: "/media/fotos-reales/dualtron-new-storm-limited/dualtron-new-storm-limited-real-2.webp",
         alt: "Detalle del Dualtron New Storm Limited",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-new-storm-limited-3.webp",
+        src: "/media/fotos-reales/dualtron-new-storm-limited/dualtron-new-storm-limited-real-3.webp",
         alt: "Dualtron New Storm Limited, edición limitada",
         ancho: 1200,
         alto: 800,
@@ -1206,13 +1206,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-x-limited-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-x-limited-2.webp",
+        src: "/media/fotos-reales/dualtron-x-limited/dualtron-x-limited-real-2.webp",
         alt: "Detalle del Dualtron X Limited",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-x-limited-3.webp",
+        src: "/media/fotos-reales/dualtron-x-limited/dualtron-x-limited-real-3.webp",
         alt: "Dualtron X Limited, el tope de gama",
         ancho: 1200,
         alto: 800,
@@ -1266,13 +1266,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-victor-limited-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-victor-limited-2.webp",
+        src: "/media/fotos-reales/dualtron-victor-limited/dualtron-victor-limited-real-2.webp",
         alt: "Detalle del Dualtron Victor Limited",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-victor-limited-3.webp",
+        src: "/media/fotos-reales/dualtron-victor-limited/dualtron-victor-limited-real-3.webp",
         alt: "Dualtron Victor Limited en carretera",
         ancho: 1200,
         alto: 800,
@@ -1323,13 +1323,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-togo-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-togo-2.webp",
+        src: "/media/fotos-reales/dualtron-togo/dualtron-togo-real-2.webp",
         alt: "Detalle del Dualtron TOGO",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-togo-3.webp",
+        src: "/media/fotos-reales/dualtron-togo/dualtron-togo-real-3.webp",
         alt: "Dualtron TOGO en la ciudad",
         ancho: 1200,
         alto: 800,
@@ -1388,13 +1388,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-togo-plus-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-togo-plus-2.webp",
+        src: "/media/fotos-reales/dualtron-togo-plus/dualtron-togo-plus-real-2.webp",
         alt: "Pantalla EY2 del Dualtron TOGO Plus",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-togo-plus-3.webp",
+        src: "/media/fotos-reales/dualtron-togo-plus/dualtron-togo-plus-real-3.webp",
         alt: "Dualtron TOGO Plus circulando por ciudad",
         ancho: 1200,
         alto: 800,
@@ -1456,13 +1456,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-spider-2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-spider-2-2.webp",
+        src: "/media/fotos-reales/dualtron-spider-2/dualtron-spider-2-real-2.webp",
         alt: "Chasis del Dualtron Spider 2",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/dualtron-spider-2-3.webp",
+        src: "/media/fotos-reales/dualtron-spider-2/dualtron-spider-2-real-3.webp",
         alt: "Dualtron Spider 2, ligero y potente",
         ancho: 1200,
         alto: 800,

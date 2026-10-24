@@ -320,6 +320,7 @@ export const COCHES_EXP12: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/omoda-4-shs-2026-precio-ficha-tecnica-hunt1.webp", alt: "4 SHS (foto: Carz Automedia (carz.com.my), licencia desconocida)", ancho: 600, alto: 338 },
     ],
     analisisSlug: "omoda-4-shs-2026-precio-ficha-tecnica",
   },

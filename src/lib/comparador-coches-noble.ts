@@ -69,9 +69,9 @@ export const COCHES_NOBLE: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/noble-m500-2025-precio-ficha-tecnica-hunt1.webp", alt: "M500 (foto: evo Magazine, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/noble-m500-2025-precio-ficha-tecnica-hunt2.webp", alt: "M500 (foto: Autocar (reveal de producción 2022), licencia desconocida)", ancho: 900, alto: 596 },
+      { src: "/media/noble-m500-2025-precio-ficha-tecnica-hunt3.webp", alt: "M500 (foto: Autocar (reveal de producción 2022), licencia desconocida)", ancho: 900, alto: 596 },
     ],
   },
 ];

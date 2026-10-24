@@ -49,6 +49,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 2249, alto: 1500 },
+      { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 2250, alto: 1500 },
+      { src: "/media/mini-cooper-e-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 2004, alto: 1500 },
     ],
     analisisSlug: "mini-cooper-e-2024-precio-ficha-tecnica",
     videoId: null,
@@ -116,6 +119,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: MINI / BMW Group (foto de prensa) vía Car and Driving / Exchange and Mart, licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: MINI / BMW Group (foto de prensa) vía Car and Driving / Exchange and Mart, licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/mini-cooper-se-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: TopGear (prueba Mini Cooper SE Favoured 2024), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     analisisSlug: "mini-cooper-se-2024-precio-ficha-tecnica",
     videoId: null,
@@ -193,6 +199,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: Harvey Bold / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 859 },
+      { src: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: Harvey Bold / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 809 },
+      { src: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: Harvey Bold / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 864 },
     ],
     analisisSlug: "mini-cooper-c-2024-precio-ficha-tecnica",
     videoId: null,
@@ -270,6 +279,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 1000, alto: 1500 },
+      { src: "/media/mini-cooper-s-2024-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "mini-cooper-s-2024-precio-ficha-tecnica",
     videoId: null,
@@ -347,6 +359,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: CarsGuide (prueba Mini JCW 2025, unidad hatch eléctrica), licencia desconocida)", ancho: 1260, alto: 841 },
+      { src: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: CarsGuide (prueba Mini JCW 2025, unidad hatch eléctrica), licencia desconocida)", ancho: 1262, alto: 841 },
+      { src: "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: CompleteCar.ie (MINI John Cooper Works Electric 2025 review), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "mini-cooper-jcw-e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -424,6 +439,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: MINI / BMW Group (foto de prensa oficial, vía Careta), licencia desconocida)", ancho: 1000, alto: 714 },
+      { src: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: MINI (Image by MINI, vía Car Enthusiast), licencia desconocida)", ancho: 1500, alto: 938 },
+      { src: "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: Autocar Japan, licencia desconocida)", ancho: 1200, alto: 795 },
     ],
     analisisSlug: "mini-cooper-jcw-2025-precio-ficha-tecnica",
     videoId: null,
@@ -501,6 +519,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 999, alto: 1499 },
     ],
     analisisSlug: "mini-cooper-cabrio-s-2025-precio-ficha-tecnica",
     videoId: null,
@@ -578,6 +599,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: MINI / BMW Group (foto de prensa) via CarExpert, licencia desconocida)", ancho: 3000, alto: 2000 },
     ],
     analisisSlug: "mini-cooper-cabrio-c-2025-precio-ficha-tecnica",
     videoId: null,
@@ -655,6 +677,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: AutoExpress, licencia desconocida)", ancho: 845, alto: 475 },
+      { src: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mini-aceman-e-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: Motorverso, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "mini-aceman-e-2024-precio-ficha-tecnica",
     videoId: null,
@@ -722,6 +747,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-aceman-se-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: BMW Group Press / MINI, licencia desconocida)", ancho: 1000, alto: 1500 },
     ],
     analisisSlug: "mini-aceman-se-2024-precio-ficha-tecnica",
     videoId: null,
@@ -799,6 +827,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: AutoExpress, licencia desconocida)", ancho: 845, alto: 475 },
+      { src: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mini-aceman-jcw-e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     analisisSlug: "mini-aceman-jcw-e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -877,7 +908,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Countryman SE ALL4", ancho: 1200, alto: 653 },
-      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman SE ALL4", ancho: 1200, alto: 653 }
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman SE ALL4", ancho: 1200, alto: 653 },
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 999, alto: 1499 },
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: MINI / BMW Group via Careta, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/mini-countryman-se-all4-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     analisisSlug: "mini-countryman-se-all4-2024-precio-ficha-tecnica",
     videoId: null,
@@ -956,7 +990,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Mini Countryman JCW ALL4", ancho: 1200, alto: 653 },
-      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman JCW ALL4", ancho: 1200, alto: 653 }
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Mini Countryman JCW ALL4", ancho: 1200, alto: 653 },
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: CarExpert (foto de prensa MINI), licencia desconocida)", ancho: 1200, alto: 630 },
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: CarExpert (foto de prensa MINI), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mini-countryman-jcw-all4-2024-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: CarExpert (foto de prensa MINI), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "mini-countryman-jcw-all4-2024-precio-ficha-tecnica",
     videoId: null,
@@ -1034,6 +1071,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Concord Jaguar Land Rover (concesionario oficial Land Rover, Australia), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Concord Jaguar Land Rover (concesionario oficial Land Rover, Australia), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Concord Jaguar Land Rover (concesionario oficial Land Rover, Australia), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     analisisSlug: "land-rover-defender-110-d350-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1111,6 +1151,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Westside Auto Wholesale (concesionario, Perth, Australia), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Romans International (concesionario, Reino Unido), licencia desconocida)", ancho: 1440, alto: 756 },
+      { src: "/media/land-rover-defender-110-d300-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: MOD Sales (anuncio Defender 110 D300 HSE LHD), licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "land-rover-defender-110-d300-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1188,6 +1231,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: CarExpert (prueba del Defender 110 P525 V8), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover Warwick (concesionario oficial, unidad 2025 V8), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/land-rover-defender-110-p525-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: CarExpert (prueba del Defender 110 P525 V8), licencia desconocida)", ancho: 960, alto: 640 },
     ],
     analisisSlug: "land-rover-defender-110-p525-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1265,6 +1311,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: CAR Magazine (Bauer Media), licencia desconocida)", ancho: 1600, alto: 901 },
+      { src: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Strafford Cars (concesionario), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover (prensa) / AutoData, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "land-rover-defender-110-p400e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1342,6 +1391,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) / Autocar India, licencia desconocida)", ancho: 728, alto: 482 },
+      { src: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: MotorTrend (prueba First Edition), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) / Autocar India, licencia desconocida)", ancho: 640, alto: 424 },
     ],
     analisisSlug: "land-rover-defender-130-d300-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1419,6 +1471,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) / carsales.com.au, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) / carsales.com.au, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) / carsales.com.au, licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     analisisSlug: "land-rover-defender-130-p400-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1496,6 +1551,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Miranda Lightstone / The Car Guide (GuideAutoWeb), licencia desconocida)", ancho: 1024, alto: 639 },
+      { src: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Miranda Lightstone / The Car Guide (GuideAutoWeb), licencia desconocida)", ancho: 1024, alto: 640 },
+      { src: "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Marc-André Gauthier / The Car Guide (GuideAutoWeb), licencia desconocida)", ancho: 1024, alto: 640 },
     ],
     analisisSlug: "land-rover-defender-90-p400-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1574,7 +1632,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Land Rover Defender OCTA", ancho: 1200, alto: 742 },
-      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender OCTA", ancho: 1200, alto: 742 }
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Land Rover Defender OCTA", ancho: 1200, alto: 742 },
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover / JLR (foto de prensa oficial) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover / JLR (foto de prensa oficial) vía Wheelz.me, licencia desconocida)", ancho: 1500, alto: 1024 },
+      { src: "/media/land-rover-defender-octa-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover / JLR (foto de prensa oficial) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "land-rover-defender-octa-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1652,6 +1713,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Daniel Schmitt & Co. Classic Car Gallery (anuncio de unidad real Range Rover P530 SE 2025), licencia desconocida)", ancho: 1600, alto: 1021 },
+      { src: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Daniel Schmitt & Co. Classic Car Gallery (anuncio de unidad real Range Rover P530 SE 2025), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Daniel Schmitt & Co. Classic Car Gallery (anuncio de unidad real Range Rover P530 SE 2025), licencia desconocida)", ancho: 1600, alto: 1023 },
     ],
     analisisSlug: "land-rover-range-rover-p530-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1729,6 +1793,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover Wilmington (concesionario oficial Land Rover, anuncio certificado del VIN SALKP9FU6SA297400), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover Wilmington (concesionario oficial Land Rover, anuncio certificado del VIN SALKP9FU6SA297400), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover Wilmington (concesionario oficial Land Rover, anuncio certificado del VIN SALKP9FU6SA297400), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "land-rover-range-rover-p400-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1796,6 +1863,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hunt1.webp", alt: "Range Rover Sport D350 (foto: carsales.com.au (prueba del Range Rover Sport D350 Autobiography 2025), licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hunt2.webp", alt: "Range Rover Sport D350 (foto: carsales.com.au (prueba del Range Rover Sport D350 Autobiography 2025), licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hunt3.webp", alt: "Range Rover Sport D350 (foto: carsales.com.au (prueba del Range Rover Sport D350 Autobiography 2025), licencia desconocida)", ancho: 750, alto: 500 },
     ],
     analisisSlug: "land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1850,6 +1920,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: DoubleClutch.ca (prueba del Range Rover Sport P550e Autobiography 2025), licencia desconocida)", ancho: 1800, alto: 1200 },
+      { src: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: DoubleClutch.ca (prueba del Range Rover Sport P550e Autobiography 2025), licencia desconocida)", ancho: 1800, alto: 1200 },
+      { src: "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: DoubleClutch.ca (prueba del Range Rover Sport P550e Autobiography 2025), licencia desconocida)", ancho: 1200, alto: 1800 },
     ],
     analisisSlug: "land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1927,6 +2000,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover / JLR (prensa oficial), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: CarBuzz (foto de prensa Land Rover), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Carscoops, licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2004,6 +2080,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Jaguar Land Rover (foto de prensa oficial 24MY) vía CarBuzz, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Jaguar Land Rover (foto de prensa oficial 24MY) vía CarBuzz, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Jaguar Land Rover (foto de prensa oficial 24MY) vía CarBuzz, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2081,6 +2160,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover (foto de prensa) / Autoblog NL, licencia desconocida)", ancho: 1600, alto: 1038 },
+      { src: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover (foto de prensa de estudio) / Engear, licencia desconocida)", ancho: 800, alto: 545 },
+      { src: "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover (foto de prensa) / CarBuzz, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2158,6 +2240,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2235,6 +2320,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover Guam / DealerInspire — galería oficial del Land Rover Discovery 2025, licencia desconocida)", ancho: 1600, alto: 799 },
+      { src: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Drive.com.au — anuncio «Demo 2025 Grey Land Rover Discovery P360 Dynamic SE» (foto real de la unidad), licencia desconocida)", ancho: 960, alto: 540 },
+      { src: "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Land Rover Guam / DealerInspire — galería oficial del Land Rover Discovery 2025, licencia desconocida)", ancho: 1600, alto: 799 },
     ],
     analisisSlug: "land-rover-discovery-p360-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2312,6 +2400,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) vía Autonoción, licencia desconocida)", ancho: 1280, alto: 721 },
+      { src: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Land Rover (prensa oficial) vía Autonoción, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: LL Cars (concesionario, unidad P300e HSE real), licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2389,6 +2480,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio intermedio (foto: Land Rover Media / JLR (prensa oficial), licencia desconocida)", ancho: 1500, alto: 1071 },
+      { src: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio intermedio (foto: Autoblog / Land Rover, licencia desconocida)", ancho: 2076, alto: 1384 },
+      { src: "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio intermedio (foto: Autocar India (aeplcdn), licencia desconocida)", ancho: 1918, alto: 1079 },
     ],
     analisisSlug: "land-rover-discovery-sport-d200-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2467,7 +2561,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS3 Sedan", ancho: 1804, alto: 1203 },
-      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS3 Sedan", ancho: 1920, alto: 1280 }
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS3 Sedan", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Audi (foto de prensa oficial) vía Paul Tan, licencia desconocida)", ancho: 4961, alto: 3721 },
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Audi (foto de prensa oficial) vía Carscoops, licencia desconocida)", ancho: 2048, alto: 1536 },
+      { src: "/media/audi-rs3-sedan-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi (foto de prensa oficial, código A243770) vía Wheelz.me, licencia desconocida)", ancho: 1500, alto: 877 },
     ],
     analisisSlug: "audi-rs3-sedan-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2546,7 +2643,11 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS6 Avant performance", ancho: 1200, alto: 873 },
-      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS6 Avant performance", ancho: 1200, alto: 873 }
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS6 Avant performance", ancho: 1200, alto: 873 },
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Audi Sport (foto de prensa oficial) vía Supercars.net, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Audi Sport (foto de prensa oficial) vía Supercars.net, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi Sport (foto de prensa oficial) vía Supercars.net, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-rs6-avant-performance-2025-precio-ficha-tecnica-hunt4.webp", alt: "Servicio de aceite (foto: Audi Sport (foto de prensa oficial) vía Supercars.net, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "audi-rs6-avant-performance-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2653,6 +2754,11 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeAnualAproxEur: 450,
       fuente: "Plan oficial Audi España",
     },
+    galeria: [
+      { src: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Car Enthusiast / Dean Smith, licencia desconocida)", ancho: 1500, alto: 1001 },
+      { src: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: CompleteCar.ie / prensa Audi, licencia desconocida)", ancho: 1455, alto: 1000 },
+      { src: "/media/audi-s3-sportback-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: AutoJournal.cz, licencia desconocida)", ancho: 1200, alto: 800 },
+    ],
   },
   {
     id: "audi-sq5-sportback-2025-precio-ficha-tecnica",
@@ -2700,7 +2806,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi SQ5 Sportback", ancho: 1804, alto: 1203 },
-      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi SQ5 Sportback", ancho: 1200, alto: 801 }
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi SQ5 Sportback", ancho: 1200, alto: 801 },
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Audi (prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Audi (prensa oficial) vía GoAuto, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/audi-sq5-sportback-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi (prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     analisisSlug: "audi-sq5-sportback-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2779,7 +2888,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi A5 e-hybrid 367", ancho: 1804, alto: 1203 },
-      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi A5 e-hybrid 367", ancho: 1920, alto: 1280 }
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi A5 e-hybrid 367", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Autotriti (prueba del A5 e-hybrid quattro 367 PS), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Audi AG (prensa) vía Careta, licencia desconocida)", ancho: 400, alto: 300 },
+      { src: "/media/audi-a5-e-hybrid-367-2026-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi AG (web oficial), licencia desconocida)", ancho: 1080, alto: 1080 },
     ],
     analisisSlug: "audi-a5-e-hybrid-367-2026-precio-ficha-tecnica",
     videoId: null,
@@ -2858,7 +2970,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi Q5 e-hybrid 367", ancho: 1804, alto: 1203 },
-      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q5 e-hybrid 367", ancho: 1920, alto: 1280 }
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q5 e-hybrid 367", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Audi MediaCenter (foto de prensa oficial A250637, republicada por The Auto Magazine), licencia desconocida)", ancho: 1024, alto: 710 },
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Audi MediaCenter (foto de prensa oficial A250642, republicada por The Auto Magazine), licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/audi-q5-e-hybrid-367-2026-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi MediaCenter (foto de prensa oficial A250636, republicada por The Auto Magazine), licencia desconocida)", ancho: 1024, alto: 709 },
     ],
     analisisSlug: "audi-q5-e-hybrid-367-2026-precio-ficha-tecnica",
     videoId: null,
@@ -2937,7 +3052,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi RS Q8 performance", ancho: 1200, alto: 794 },
-      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS Q8 performance", ancho: 1200, alto: 794 }
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi RS Q8 performance", ancho: 1200, alto: 794 },
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: Audi (prensa) vía RPMWeb, licencia desconocida)", ancho: 2000, alto: 1125 },
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: Motoring Research (prueba RS Q8 Performance), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/audi-rs-q8-performance-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: Audi (prensa) vía RPMWeb, licencia desconocida)", ancho: 2000, alto: 1125 },
     ],
     analisisSlug: "audi-rs-q8-performance-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3016,7 +3134,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Audi Q7 55 TFSI", ancho: 1200, alto: 675 },
-      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q7 55 TFSI", ancho: 1200, alto: 675 }
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Audi Q7 55 TFSI", ancho: 1200, alto: 675 },
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio de aceite (foto: carsales.com.au (prueba del Audi Q7 55 TFSI quattro S line 2025), licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio de aceite (foto: carsales.com.au (prueba del Audi Q7 55 TFSI quattro S line 2025), licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/audi-q7-55-tfsi-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio de aceite (foto: carsales.com.au (prueba del Audi Q7 55 TFSI quattro S line 2025), licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     analisisSlug: "audi-q7-55-tfsi-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3095,7 +3216,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del BMW M4 CS", ancho: 1200, alto: 617 },
-      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M4 CS", ancho: 1200, alto: 617 }
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del BMW M4 CS", ancho: 1200, alto: 617 },
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: Autocar (foto de prensa del M4 CS), licencia desconocida)", ancho: 1200, alto: 795 },
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: BMW Group Press (foto oficial P90548624, vía BimmerToday), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-m4-cs-2024-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: BMW Group Press (foto oficial P90548570, vía Robb Report España), licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     analisisSlug: "bmw-m4-cs-2024-precio-ficha-tecnica",
     videoId: null,
@@ -3173,6 +3297,8 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: Metropol Magazine NZ (prueba de Ben Selby), licencia desconocida)", ancho: 800, alto: 518 },
+      { src: "/media/bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: Metropol Magazine NZ (prueba de Ben Selby), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     analisisSlug: "bmw-serie-2-active-tourer-225e-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3240,6 +3366,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: BMW Group Press (foto de prensa republicada por Drive.gr), licencia desconocida)", ancho: 1230, alto: 810 },
+      { src: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: BMW Group Press (P90444301), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-m240i-xdrive-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: BMW Group Press (P90444340), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "bmw-m240i-xdrive-2026-precio-ficha-tecnica",
     videoId: null,
@@ -3312,6 +3441,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite (foto: BMW Group (foto de prensa) vía Brian Jessel BMW, licencia desconocida)", ancho: 1000, alto: 640 },
+      { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite (foto: Nikista (galería BMW X5 M60i), licencia desconocida)", ancho: 2250, alto: 1500 },
+      { src: "/media/bmw-x5-m60i-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite (foto: Wolfe Motors (foto real de unidad X5 M60i), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "bmw-x5-m60i-2026-precio-ficha-tecnica",
     videoId: null,
@@ -3379,6 +3511,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio A (foto: Mercedes-Benz / Mercedes-AMG (prensa oficial), licencia desconocida)", ancho: 800, alto: 522 },
+      { src: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio A (foto: Mercedes-Benz / Mercedes-AMG (prensa oficial), licencia desconocida)", ancho: 800, alto: 533 },
+      { src: "/media/mercedes-amg-cle-53-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio A (foto: Mercedes-Benz / Mercedes-AMG (prensa oficial), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     analisisSlug: "mercedes-amg-cle-53-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3441,6 +3576,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hunt1.webp", alt: "Clase G 450 d (foto: Team-BHP (prueba del G 450 d W465), licencia desconocida)", ancho: 800, alto: 694 },
+      { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hunt2.webp", alt: "Clase G 450 d (foto: Team-BHP (prueba del G 450 d W465), licencia desconocida)", ancho: 800, alto: 647 },
+      { src: "/media/mercedes-clase-g-450-d-2026-precio-ficha-tecnica-hunt3.webp", alt: "Clase G 450 d (foto: Team-BHP (prueba del G 450 d W465), licencia desconocida)", ancho: 600, alto: 800 },
     ],
     analisisSlug: "mercedes-clase-g-450-d-2026-precio-ficha-tecnica",
     videoId: null,
@@ -3485,6 +3623,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hunt1.webp", alt: "AMG S 63 e-performance (foto: Mercedes-Benz Group / Mercedes-AMG (prensa oficial, foto 22C0399_004), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hunt2.webp", alt: "AMG S 63 e-performance (foto: Mercedes-Benz Group / Mercedes-AMG (prensa oficial, foto 22C0399_043), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica-hunt3.webp", alt: "AMG S 63 e-performance (foto: Mercedes-Benz Group / Mercedes-AMG (prensa oficial, foto 22C0399_001), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "mercedes-amg-s-63-e-performance-2026-precio-ficha-tecnica",
     videoId: null,
@@ -3539,6 +3680,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hunt1.webp", alt: "Servicio A (foto: CarExpert (prueba Mercedes-AMG CLA 45 S), licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hunt2.webp", alt: "Servicio A (foto: Careta / foto de prensa Mercedes-AMG, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hunt3.webp", alt: "Servicio A (foto: CarExpert (prueba Mercedes-AMG CLA 45 S), licencia desconocida)", ancho: 1600, alto: 1068 },
     ],
     analisisSlug: "mercedes-amg-cla-45-s-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3606,6 +3750,9 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenOficial: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hunt1.webp", alt: "AMG GLC 63 S e-performance (foto: Mercedes-AMG (foto de prensa) vía MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hunt2.webp", alt: "AMG GLC 63 S e-performance (foto: Mercedes-AMG (foto de prensa) vía MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica-hunt3.webp", alt: "AMG GLC 63 S e-performance (foto: Mercedes-AMG (foto de prensa, serie 23C0231) vía Autoproyecto, licencia desconocida)", ancho: 820, alto: 450 },
     ],
     analisisSlug: "mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3651,7 +3798,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen ID.Buzz GTX", ancho: 1200, alto: 637 },
-      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen ID.Buzz GTX", ancho: 1200, alto: 637 }
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Volkswagen ID.Buzz GTX", ancho: 1200, alto: 637 },
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión básica (foto: Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión básica (foto: CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión básica (foto: Volkswagen (foto de prensa oficial) vía MotaAuto, licencia desconocida)", ancho: 1600, alto: 994 },
     ],
     analisisSlug: "volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica",
     videoId: null,

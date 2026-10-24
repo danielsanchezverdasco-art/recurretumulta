@@ -61,6 +61,10 @@ export const CAMPERS_BUERSTNER: CocheComparador[] = [
       { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-2.webp", alt: "Dormitorio trasero del Bürstner Campeo C 600 con cama transversal", ancho: 1200, alto: 908 },
       { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior.webp", alt: "Salón comedor del Bürstner Campeo C 600 con techo elevable", ancho: 1200, alto: 768 },
       { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-2.webp", alt: "Interior familiar del Bürstner Campeo C 600 con cama del techo elevable", ancho: 1200, alto: 655 },
+      { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-cocina-oficial.webp", alt: "Revisión anual", ancho: 1400, alto: 933 },
+      { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Revisión anual", ancho: 1400, alto: 933 },
+      { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior2-oficial.webp", alt: "Revisión anual", ancho: 1400, alto: 933 },
+      { src: "/media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-oficial.webp", alt: "Revisión anual", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "buerstner-campeo-c-600-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {

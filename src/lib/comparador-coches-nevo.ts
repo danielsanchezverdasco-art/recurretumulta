@@ -73,9 +73,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-a05-2025-precio-ficha-tecnica-hunt1.webp", alt: "A05 (foto: 2nd Opinion / Changan Philippines (Inchcape), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/nevo-a05-2025-precio-ficha-tecnica-hunt2.webp", alt: "A05 (foto: 2nd Opinion / Changan Philippines (Inchcape), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/nevo-a05-2025-precio-ficha-tecnica-hunt3.webp", alt: "A05 (foto: 2nd Opinion / Changan Philippines (Inchcape), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "nevo-a05-2025-precio-ficha-tecnica",
   },
@@ -251,9 +251,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-a07-2025-precio-ficha-tecnica-hunt1.webp", alt: "A07 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
+      { src: "/media/nevo-a07-2025-precio-ficha-tecnica-hunt2.webp", alt: "A07 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
+      { src: "/media/nevo-a07-2025-precio-ficha-tecnica-hunt3.webp", alt: "A07 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "nevo-a07-2025-precio-ficha-tecnica",
   },
@@ -319,9 +319,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-e07-2025-precio-ficha-tecnica-hunt1.webp", alt: "E07 (foto: Changan Nevo / CarNewsChina, licencia desconocida)", ancho: 800, alto: 541 },
+      { src: "/media/nevo-e07-2025-precio-ficha-tecnica-hunt2.webp", alt: "E07 (foto: Changan Nevo / CarsElectric.gr, licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/nevo-e07-2025-precio-ficha-tecnica-hunt3.webp", alt: "E07 (foto: Changan Nevo / Nepal Drives, licencia desconocida)", ancho: 1200, alto: 686 },
     ],
     analisisSlug: "nevo-e07-2025-precio-ficha-tecnica",
   },
@@ -387,9 +387,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-q05-2025-precio-ficha-tecnica-hunt1.webp", alt: "Q05 (foto: Changan Nevo (prensa oficial, vía CnEVPost), licencia desconocida)", ancho: 1424, alto: 801 },
+      { src: "/media/nevo-q05-2025-precio-ficha-tecnica-hunt2.webp", alt: "Q05 (foto: Changan Nevo (prensa oficial, vía CnEVPost), licencia desconocida)", ancho: 1424, alto: 801 },
+      { src: "/media/nevo-q05-2025-precio-ficha-tecnica-hunt3.webp", alt: "Q05 (foto: Changan Nevo (prensa oficial, vía CnEVPost), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "nevo-q05-2025-precio-ficha-tecnica",
   },
@@ -455,9 +455,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-q06-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q06 (foto: Changan Nevo / ChineseCars.me, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/nevo-q06-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q06 (foto: Changan Nevo / ChineseCars.me, licencia desconocida)", ancho: 768, alto: 576 },
+      { src: "/media/nevo-q06-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q06 (foto: Changan Nevo / GadgetNews, licencia desconocida)", ancho: 620, alto: 465 },
     ],
     analisisSlug: "nevo-q06-2026-precio-ficha-tecnica",
   },
@@ -523,9 +523,9 @@ export const COCHES_NEVO: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/nevo-q07-2025-precio-ficha-tecnica-hunt1.webp", alt: "Q07 (foto: BitAuto / Changan Nevo (imagen de presentacion oficial), licencia desconocida)", ancho: 1267, alto: 950 },
+      { src: "/media/nevo-q07-2025-precio-ficha-tecnica-hunt2.webp", alt: "Q07 (foto: Changan Nevo (imagen oficial reproducida por Fordream Auto), licencia desconocida)", ancho: 1024, alto: 800 },
+      { src: "/media/nevo-q07-2025-precio-ficha-tecnica-hunt3.webp", alt: "Q07 (foto: Changan Azerbaijan (distribuidor oficial Changan), licencia desconocida)", ancho: 2000, alto: 1000 },
     ],
     analisisSlug: "nevo-q07-2025-precio-ficha-tecnica",
   },

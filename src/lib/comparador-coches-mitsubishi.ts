@@ -91,7 +91,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi Outlander PHEV 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Outlander PHEV (foto: Mitsubishi Motors Corporation (sala de prensa oficial), licencia desconocida)", ancho: 2500, alto: 1667 },
+      { src: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Outlander PHEV (foto: PruebaTuCoche / Mitsubishi Motors (foto de prensa), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Outlander PHEV (foto: CarExpert / Mitsubishi Motors (foto de prensa), licencia desconocida)", ancho: 960, alto: 640 },
     ],
     analisisSlug: "mitsubishi-outlander-phev-2025-precio-ficha-tecnica",
     fuenteNombre: "km77.com",
@@ -175,7 +178,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi Grandis 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Grandis 180 HEV (foto: AutoGreekNews (foto de prensa Mitsubishi), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Grandis 180 HEV (foto: HeadLight Magazine (foto de prensa Mitsubishi), licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Grandis 180 HEV (foto: Car250 (foto de prensa Mitsubishi), licencia desconocida)", ancho: 880, alto: 587 },
     ],
     analisisSlug: "mitsubishi-grandis-hev-2025-precio-ficha-tecnica",
     fuenteNombre: "mitsubishi-motors.es",
@@ -237,7 +243,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi Eclipse Cross eléctrico 2025 con doble pantalla de 12,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hunt1.webp", alt: "Eclipse Cross EV (foto: Mitsubishi Motors / Car2Day, licencia desconocida)", ancho: 1200, alto: 801 },
+      { src: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hunt2.webp", alt: "Eclipse Cross EV (foto: Mitsubishi Motors Europe (prensa, CDN Contentful), licencia desconocida)", ancho: 2200, alto: 1466 },
+      { src: "/media/mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica-hunt3.webp", alt: "Eclipse Cross EV (foto: Mitsubishi Motors / MotoQar, licencia desconocida)", ancho: 630, alto: 420 },
     ],
     analisisSlug: "mitsubishi-eclipse-cross-electrico-2025-precio-ficha-tecnica",
     fuenteNombre: "mitsubishi-motors.es",
@@ -323,7 +332,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi ASX 2025 con pantalla vertical de 10,4 pulgadas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hunt1.webp", alt: "ASX 130T MHEV (foto: Mitsubishi Motors, prensa oficial (vía Car250), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hunt2.webp", alt: "ASX 130T MHEV (foto: Mitsubishi Motors, prensa oficial (vía Car250), licencia desconocida)", ancho: 888, alto: 500 },
+      { src: "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hunt3.webp", alt: "ASX 130T MHEV (foto: AutoReview.nl, licencia desconocida)", ancho: 1600, alto: 1000 },
     ],
     analisisSlug: "mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica",
     fuenteNombre: "km77.com",
@@ -407,7 +419,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi Colt 2025 con pantalla táctil de 9,3 pulgadas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Colt 160 HEV (foto: Mitsubishi Motors (prensa) vía Periodismo del Motor, licencia desconocida)", ancho: 1280, alto: 852 },
+      { src: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Colt 160 HEV (foto: Mitsubishi Motors (prensa) vía Periodismo del Motor, licencia desconocida)", ancho: 1280, alto: 852 },
+      { src: "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Colt 160 HEV (foto: Mitsubishi Motors (prensa) vía Periodismo del Motor, licencia desconocida)", ancho: 1280, alto: 852 },
     ],
     analisisSlug: "mitsubishi-colt-hev-2025-precio-ficha-tecnica",
     fuenteNombre: "periodismodelmotor.com",
@@ -551,7 +566,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi Colt 100T con pantalla de 9,3 pulgadas",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hunt1.webp", alt: "Colt 100T (foto: Crestanevada (unidad real Colt 100T Kaiteki gasolina manual), licencia desconocida)", ancho: 1500, alto: 860 },
+      { src: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hunt2.webp", alt: "Colt 100T (foto: AutoUncle (unidad real Colt 100T Motion), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hunt3.webp", alt: "Colt 100T (foto: Carnovo (interior de anuncio Colt 100T Motion), licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     analisisSlug: "mitsubishi-colt-100t-2025-precio-ficha-tecnica",
     euroncap: {"ano": null, "estrellas": null, "nota": "Este Colt carece de ensayo propio en Euro NCAP. Su gemelo Renault Clio V, con la misma plataforma CMF-B, obtuvo cinco estrellas en la prueba de 2019, con un 96 % en ocupante adulto y un 89 % en infantil; esa nota pertenece al Renault y no se traslada como resultado del Mitsubishi", "url": null},
@@ -897,7 +915,10 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
         "alt": "Interior del Mitsubishi ASX 130T 7DCT con cuero negro y costuras naranjas",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-hunt1.webp", alt: "ASX 130T 7DCT (foto: VeoMotor, licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-hunt2.webp", alt: "ASX 130T 7DCT (foto: Mitsubishi Motors (prensa) / AutoBuzz.my, licencia desconocida)", ancho: 768, alto: 432 },
+      { src: "/media/mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica-hunt3.webp", alt: "ASX 130T 7DCT (foto: Mitsubishi Motors (prensa) / AutoBuzz.my, licencia desconocida)", ancho: 768, alto: 512 },
     ],
     analisisSlug: "mitsubishi-asx-130t-7dct-2026-precio-ficha-tecnica",
   },

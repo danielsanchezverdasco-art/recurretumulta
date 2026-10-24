@@ -54,6 +54,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-3008 Dual Motor (foto: Actu-Automobile (ensayo del E-3008 Dual Motor), licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-3008 Dual Motor (foto: Peugeot / Stellantis Media vía Quadis, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-3008 Dual Motor (foto: AutoRAI (prueba del E-3008 Dual Motor), licencia desconocida)", ancho: 1140, alto: 760 },
     ],
     videoId: null,
     videoCanal: null,
@@ -94,6 +97,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-5008 Dual Motor (foto: Actu-Automobile (ensayo del E-5008 Dual Motor), licencia desconocida)", ancho: 1024, alto: 684 },
+      { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-5008 Dual Motor (foto: Peugeot / Stellantis Media vía LusoMotores, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-5008 Dual Motor (foto: Peugeot (foto oficial) vía Autotoday, licencia desconocida)", ancho: 1200, alto: 890 },
     ],
     videoId: null,
     videoCanal: null,
@@ -148,6 +154,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-308 SW (foto: Peugeot (foto oficial de prensa, vía ArenaEV), licencia desconocida)", ancho: 1263, alto: 631 },
+      { src: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-308 SW (foto: Peugeot (foto oficial de prensa, vía ArenaEV), licencia desconocida)", ancho: 1263, alto: 631 },
+      { src: "/media/peugeot-e-308-sw-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-308 SW (foto: Peugeot (foto oficial de prensa, vía ArenaEV), licencia desconocida)", ancho: 1263, alto: 842 },
     ],
     videoId: null,
     videoCanal: null,
@@ -201,7 +210,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Peugeot 208 PureTech 100", ancho: 1984, alto: 1200 },
-      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 208 PureTech 100", ancho: 1920, alto: 1280 }
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Peugeot 208 PureTech 100", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hunt1.webp", alt: "208 PureTech 100 (foto: M. Coutinho Usados vía PiscaPisca (anuncio Peugeot 208 2024 gasolina 1.2), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hunt2.webp", alt: "208 PureTech 100 (foto: Samucar vía PiscaPisca (anuncio Peugeot 208 1.2 PureTech 2024 gasolina), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/peugeot-208-12-puretech-100-2026-precio-ficha-tecnica-hunt3.webp", alt: "208 PureTech 100 (foto: Samucar vía PiscaPisca (anuncio Peugeot 208 1.2 PureTech 2024 gasolina), licencia desconocida)", ancho: 1200, alto: 900 },
     ],
     videoId: null,
     videoCanal: null,
@@ -254,6 +266,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-Boxer (foto: Peugeot / Stellantis (foto de prensa oficial) vía Walkers Motor Group, licencia desconocida)", ancho: 1000, alto: 651 },
+      { src: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-Boxer (foto: Peugeot / Stellantis (foto de prensa oficial) vía RJTK Auto, licencia desconocida)", ancho: 1400, alto: 1050 },
+      { src: "/media/peugeot-e-boxer-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-Boxer (foto: Peugeot / Stellantis (foto de prensa oficial) vía Van Reviewer, licencia desconocida)", ancho: 1024, alto: 676 },
     ],
     videoId: null,
     videoCanal: null,
@@ -306,6 +321,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hunt1.webp", alt: "Rifter BlueHDi 130 (foto: Peugeot / Stellantis (prensa) vía Auto-Data.net, licencia desconocida)", ancho: 1700, alto: 944 },
+      { src: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hunt2.webp", alt: "Rifter BlueHDi 130 (foto: Peugeot / Stellantis (prensa) vía Auto-Data.net, licencia desconocida)", ancho: 1700, alto: 944 },
+      { src: "/media/peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica-hunt3.webp", alt: "Rifter BlueHDi 130 (foto: Peugeot (imagen de producto) vía Renting Almería, licencia desconocida)", ancho: 1370, alto: 700 },
     ],
     videoId: null,
     videoCanal: null,
@@ -346,6 +364,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hunt1.webp", alt: "Expert BlueHDi 180 (foto: Peugeot (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1052, alto: 592 },
+      { src: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hunt2.webp", alt: "Expert BlueHDi 180 (foto: Peugeot (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1052, alto: 592 },
+      { src: "/media/peugeot-expert-20-bluehdi-180-2026-precio-ficha-tecnica-hunt3.webp", alt: "Expert BlueHDi 180 (foto: Peugeot (prensa oficial) vía Autoblog Uruguay, licencia desconocida)", ancho: 1052, alto: 592 },
     ],
     videoId: null,
     videoCanal: null,
@@ -399,6 +420,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp", alt: "3008 Hybrid 136 (foto: Peugeot (prensa oficial) / Driving Enthusiast, licencia desconocida)", ancho: 1920, alto: 1191 },
+      { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hunt2.webp", alt: "3008 Hybrid 136 (foto: CarExpert, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-3008-12-hybrid-136-2025-precio-ficha-tecnica-hunt3.webp", alt: "3008 Hybrid 136 (foto: TopSpeed.gr, licencia desconocida)", ancho: 1920, alto: 1440 },
     ],
     videoId: null,
     videoCanal: null,
@@ -451,6 +475,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hunt1.webp", alt: "5008 Hybrid 136 (foto: CompleteCar.ie (ensayo del Peugeot 5008 Hybrid 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hunt2.webp", alt: "5008 Hybrid 136 (foto: CompleteCar.ie (ensayo del Peugeot 5008 Hybrid 2025), licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/peugeot-5008-12-hybrid-136-2025-precio-ficha-tecnica-hunt3.webp", alt: "5008 Hybrid 136 (foto: CarExpert Australia (Peugeot 5008 Hybrid 2025), licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     videoId: null,
     videoCanal: null,
@@ -492,7 +519,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Citroën Jumper BlueHDi 180", ancho: 2176, alto: 1152 },
-      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Jumper BlueHDi 180", ancho: 1920, alto: 1280 }
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Citroën Jumper BlueHDi 180", ancho: 1920, alto: 1280 },
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hunt1.webp", alt: "Jumper BlueHDi 180 (foto: Stellantis / Citroën vía Autotriti Pro, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hunt2.webp", alt: "Jumper BlueHDi 180 (foto: Stellantis / Citroën vía Autotriti Pro, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/citroen-jumper-22-bluehdi-180-2026-precio-ficha-tecnica-hunt3.webp", alt: "Jumper BlueHDi 180 (foto: Stellantis Argentina vía MotorMagazine, licencia desconocida)", ancho: 900, alto: 550 },
     ],
     videoId: null,
     videoCanal: null,
@@ -546,6 +576,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "C4 PureTech 130 (foto: AutoMagazin.sk, licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "C4 PureTech 130 (foto: AutoMagazin.sk, licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/citroen-c4-12-puretech-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "C4 PureTech 130 (foto: AutoMagazin.sk, licencia desconocida)", ancho: 900, alto: 600 },
     ],
     videoId: null,
     videoCanal: null,
@@ -650,6 +683,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "C5 Aircross PureTech 130 (foto: CarExpert / Citroën (prensa), licencia desconocida)", ancho: 1202, alto: 719 },
+      { src: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "C5 Aircross PureTech 130 (foto: CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/citroen-c5-aircross-12-puretech-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "C5 Aircross PureTech 130 (foto: Auto4Drive, licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     videoId: null,
     videoCanal: null,
@@ -702,6 +738,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hero-card.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ami Cargo (foto: Van Reviewer / Citroën UK (foto de prensa en prueba), licencia desconocida)", ancho: 1752, alto: 1168 },
+      { src: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ami Cargo (foto: Citroën / Stellantis (foto oficial de prensa My Ami Cargo), licencia desconocida)", ancho: 1920, alto: 1442 },
+      { src: "/media/citroen-ami-cargo-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ami Cargo (foto: Citroën (foto oficial del kit My Ami Cargo), licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     videoId: null,
     videoCanal: null,
@@ -754,6 +793,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-rocks-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-rocks-2026-precio-ficha-tecnica-hunt1.webp", alt: "Rocks (foto: Opel / Stellantis (prensa oficial, vía Infomotori), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/opel-rocks-2026-precio-ficha-tecnica-hunt2.webp", alt: "Rocks (foto: Opel / Stellantis (prensa oficial, vía Avtoplus), licencia desconocida)", ancho: 1400, alto: 788 },
+      { src: "/media/opel-rocks-2026-precio-ficha-tecnica-hunt3.webp", alt: "Rocks (foto: Opel / Stellantis (prensa oficial, vía Avtoplus), licencia desconocida)", ancho: 1400, alto: 788 },
     ],
     videoId: null,
     videoCanal: null,
@@ -806,6 +848,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Astra 1.2 Turbo 130 (foto: Opel / Stellantis (foto de prensa, vía CarChecker.pro), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Astra 1.2 Turbo 130 (foto: autofilou.at (prueba del Astra 1.2 Turbo GS gasolina), licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/opel-astra-12-turbo-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Astra 1.2 Turbo 130 (foto: DRIVE.gr (prueba del Astra 1.2 130 PS AT8), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,
@@ -858,6 +903,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Astra Sports Tourer 1.2 Turbo 130 (foto: Moniteur Automobile / Opel (foto de prensa), licencia desconocida)", ancho: 680, alto: 465 },
+      { src: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Astra Sports Tourer 1.2 Turbo 130 (foto: Moniteur Automobile / Opel (foto de prensa), licencia desconocida)", ancho: 1200, alto: 698 },
+      { src: "/media/opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Astra Sports Tourer 1.2 Turbo 130 (foto: Moniteur Automobile / Opel (foto de prensa), licencia desconocida)", ancho: 600, alto: 315 },
     ],
     videoId: null,
     videoCanal: null,
@@ -911,7 +959,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Opel Mokka 1.2 Turbo 130", ancho: 2048, alto: 1184 },
-      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Mokka 1.2 Turbo 130", ancho: 1920, alto: 1280 }
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Opel Mokka 1.2 Turbo 130", ancho: 1920, alto: 1280 },
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Mokka 1.2 Turbo 130 (foto: Avto Magazin (avtomagazin.com.mk, prueba del Mokka GS 1.2 Turbo 130 AT8), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Mokka 1.2 Turbo 130 (foto: Avto Magazin (avtomagazin.com.mk, prueba del Mokka GS 1.2 Turbo 130 AT8), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/opel-mokka-12-turbo-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Mokka 1.2 Turbo 130 (foto: Avto Magazin (avtomagazin.com.mk, prueba del Mokka GS 1.2 Turbo 130 AT8), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     videoId: null,
     videoCanal: null,
@@ -952,6 +1003,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Grandland 1.2 Turbo 130 (foto: Opel (foto de prensa) vía Mycamelleva, licencia desconocida)", ancho: 1600, alto: 685 },
+      { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "Grandland 1.2 Turbo 130 (foto: Opel (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/opel-grandland-12-turbo-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "Grandland 1.2 Turbo 130 (foto: Opel (foto de prensa) vía WyborKierowcow, licencia desconocida)", ancho: 1068, alto: 712 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1006,6 +1060,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Combo 1.5 Diésel 130 (foto: Arnold Chatz Cars / Cars.co.za, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Combo 1.5 Diésel 130 (foto: Arnold Chatz Cars / Cars.co.za, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/opel-combo-15-diesel-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Combo 1.5 Diésel 130 (foto: Regeljelease.nl (anuncio Opel Combo 2024 diésel), licencia desconocida)", ancho: 1920, alto: 1440 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1046,6 +1103,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hunt1.webp", alt: "Vivaro 2.0 Diésel 180 (foto: Opel / Stellantis (foto de prensa vía Karabag), licencia desconocida)", ancho: 1300, alto: 788 },
+      { src: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hunt2.webp", alt: "Vivaro 2.0 Diésel 180 (foto: Opel / Stellantis (foto de prensa vía EspacioFurgo), licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hunt3.webp", alt: "Vivaro 2.0 Diésel 180 (foto: Opel / Stellantis (foto de prensa vía EspacioFurgo), licencia desconocida)", ancho: 1536, alto: 1024 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1099,6 +1159,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hunt1.webp", alt: "Movano 2.2 Diésel 180 (foto: Opel / Wiveda (concesionario), licencia desconocida)", ancho: 1363, alto: 1024 },
+      { src: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hunt2.webp", alt: "Movano 2.2 Diésel 180 (foto: Opel / Wiveda (concesionario), licencia desconocida)", ancho: 1024, alto: 734 },
+      { src: "/media/opel-movano-22-diesel-180-2025-precio-ficha-tecnica-hunt3.webp", alt: "Movano 2.2 Diésel 180 (foto: Autovoorjou / Boss Vans, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1151,6 +1214,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-Scudo (foto: Fiat Professional (foto de prensa oficial, E-Scudo Primo gris Artense, oct-2024) vía EV Powered, licencia desconocida)", ancho: 850, alto: 567 },
+      { src: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-Scudo (foto: Fiat Professional (foto de prensa oficial, E-Scudo Primo gris Artense, oct-2024) vía Business Motoring, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/fiat-e-scudo-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-Scudo (foto: Fiat Professional (foto de prensa oficial, E-Scudo Primo gris Artense, oct-2024) vía EV Powered, licencia desconocida)", ancho: 750, alto: 500 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1203,6 +1269,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt1.webp", alt: "E-Ducato (foto: Fiat Professional / Car and Driving, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt2.webp", alt: "E-Ducato (foto: Viarent / Fiat Professional (stand IAA Transportation), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/fiat-e-ducato-2026-precio-ficha-tecnica-hunt3.webp", alt: "E-Ducato (foto: Van Fleet World / Fiat Professional, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1255,6 +1324,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hunt1.webp", alt: "Scudo 2.0 MultiJet 180 (foto: Fiat Professional (foto de prensa oficial del Scudo facelift, furgón blanco matrícula CV 024FI; EXIF © Simona Alampi) vía Rivervale, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hunt2.webp", alt: "Scudo 2.0 MultiJet 180 (foto: Rivervale (foto propia de su prueba del Fiat Scudo diésel, feb-2026), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/fiat-scudo-20-mjt-180-2026-precio-ficha-tecnica-hunt3.webp", alt: "Scudo 2.0 MultiJet 180 (foto: Fiat Professional (foto de prensa oficial del Scudo facelift, furgón blanco matrícula CV 024FI; EXIF © Simona Alampi) vía Rivervale, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1307,6 +1379,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ducato 2.2 MultiJet 180 (foto: Fiat Professional / CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ducato 2.2 MultiJet 180 (foto: Drive.com.au / concesionario Fiat (Australia), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/fiat-ducato-22-mjt-180-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ducato 2.2 MultiJet 180 (foto: Drive.com.au / concesionario Fiat (Australia), licencia desconocida)", ancho: 1050, alto: 700 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1359,6 +1434,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hunt1.webp", alt: "600 1.2 Turbo 100 (foto: CompleteCar.ie (prueba del Fiat 600 1.2 Hybrid 2024), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hunt2.webp", alt: "600 1.2 Turbo 100 (foto: CompleteCar.ie (prueba del Fiat 600 1.2 Hybrid 2024), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/fiat-600-12-turbo-100-2024-precio-ficha-tecnica-hunt3.webp", alt: "600 1.2 Turbo 100 (foto: Fiat / Stellantis (foto de prensa) vía Wybór Kierowców, licencia desconocida)", ancho: 696, alto: 428 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1411,6 +1489,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Tipo 1.6 MultiJet 130 (foto: Corvettec6r / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1094 },
+      { src: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Tipo 1.6 MultiJet 130 (foto: Charles from Port Chester, New York / Wikimedia Commons (vía Flickr), licencia CC BY 2.0)", ancho: 1500, alto: 1188 },
+      { src: "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Tipo 1.6 MultiJet 130 (foto: Kay195 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 888, alto: 477 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1463,6 +1544,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hunt1.webp", alt: "500e Cabrio (foto: Fiat (foto de prensa oficial) vía EV Database, licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hunt2.webp", alt: "500e Cabrio (foto: Fiat (foto de prensa oficial) vía EV Database, licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/fiat-500e-cabrio-118-2025-precio-ficha-tecnica-hunt3.webp", alt: "500e Cabrio (foto: Bilbasen (foto de prueba del Fiat 500e Cabriolet), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1515,6 +1599,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hunt1.webp", alt: "Compass 4xe PHEV 195 (foto: Jeep / Stellantis Media (vía Autopro), licencia desconocida)", ancho: 1024, alto: 708 },
+      { src: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hunt2.webp", alt: "Compass 4xe PHEV 195 (foto: Jeep / Stellantis Media (vía MoparInsiders), licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hunt3.webp", alt: "Compass 4xe PHEV 195 (foto: Jeep / Stellantis Media (vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1567,6 +1654,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hunt1.webp", alt: "Compass e-Hybrid 130 (foto: Jeep / Stellantis (web oficial Jeep), licencia desconocida)", ancho: 1440, alto: 787 },
+      { src: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hunt2.webp", alt: "Compass e-Hybrid 130 (foto: Jeep PGD (concesionario oficial Jeep), licencia desconocida)", ancho: 1450, alto: 555 },
+      { src: "/media/jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica-hunt3.webp", alt: "Compass e-Hybrid 130 (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1619,6 +1709,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Compass MultiJet 130 (foto: CarExpert Australia (foto de prueba, unidad Compass S-Limited 2022), licencia desconocida)", ancho: 1200, alto: 630 },
+      { src: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "Compass MultiJet 130 (foto: The Car Connection (foto de prueba, Compass Limited 2022), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "Compass MultiJet 130 (foto: TFLcar / Jeep (foto de prensa del interior del Compass 2022), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1659,6 +1752,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Compass 1.3 T 130 (foto: Jeep / Stellantis (foto de prensa) vía WhatCar.lv, licencia desconocida)", ancho: 1296, alto: 864 },
+      { src: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "Compass 1.3 T 130 (foto: Jeep / Stellantis (foto de prensa) vía TFLcar, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "Compass 1.3 T 130 (foto: Jeep / Stellantis (render oficial de prensa, Compass Night Eagle) vía MoparInsiders, licencia desconocida)", ancho: 2048, alto: 1152 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1713,6 +1809,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hunt1.webp", alt: "Compass 4xe 240 (foto: © M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1600, alto: 896 },
+      { src: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hunt2.webp", alt: "Compass 4xe 240 (foto: © M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1600, alto: 942 },
+      { src: "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hunt3.webp", alt: "Compass 4xe 240 (foto: Matti Blume / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1765,6 +1864,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hunt1.webp", alt: "Renegade MultiJet 130 (foto: Jeep / Stellantis (prensa oficial, vía Paul Tan), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hunt2.webp", alt: "Renegade MultiJet 130 (foto: Corvettec6r (Wikimedia Commons), licencia CC BY-SA 4.0)", ancho: 1600, alto: 1143 },
+      { src: "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hunt3.webp", alt: "Renegade MultiJet 130 (foto: Charles from Port Chester, New York (Wikimedia Commons), licencia CC BY 2.0)", ancho: 1600, alto: 1089 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1817,6 +1919,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hunt1.webp", alt: "Renegade T3 120 (foto: Motorionline, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hunt2.webp", alt: "Renegade T3 120 (foto: Revista Carro / foto de prensa Jeep, licencia desconocida)", ancho: 980, alto: 551 },
+      { src: "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hunt3.webp", alt: "Renegade T3 120 (foto: OcasionPlus, licencia desconocida)", ancho: 1440, alto: 752 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1869,6 +1974,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hunt1.webp", alt: "5 Turbo 3E (foto: Renault (imagen oficial de prensa del modelo de producción) vía Uncrate, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hunt2.webp", alt: "5 Turbo 3E (foto: Renault Nordic (activo oficial de prensa Renault), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/renault-5-turbo-3e-2026-precio-ficha-tecnica-hunt3.webp", alt: "5 Turbo 3E (foto: Renault Nordic (activo oficial de prensa Renault), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1921,6 +2029,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt1.webp", alt: "Espace E-Tech 200 (foto: Renault / Auto-Data.net, licencia desconocida)", ancho: 600, alto: 337 },
+      { src: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt2.webp", alt: "Espace E-Tech 200 (foto: Renault / Híbridos y Eléctricos, licencia desconocida)", ancho: 2000, alto: 1126 },
+      { src: "/media/renault-espace-2025-e-tech-200-precio-ficha-tecnica-hunt3.webp", alt: "Espace E-Tech 200 (foto: AutoRAI / Renault, licencia desconocida)", ancho: 1140, alto: 760 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1973,6 +2084,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt1.webp", alt: "Trafic E-Tech (foto: Renault Communications / AutoMais TV, licencia desconocida)", ancho: 1573, alto: 943 },
+      { src: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt2.webp", alt: "Trafic E-Tech (foto: Renault (prensa, activo R-DAM) / Espacio Furgo, licencia desconocida)", ancho: 1536, alto: 1152 },
+      { src: "/media/renault-trafic-e-tech-2026-precio-ficha-tecnica-hunt3.webp", alt: "Trafic E-Tech (foto: Renault (prensa) / Movilidad Eléctrica, licencia desconocida)", ancho: 980, alto: 605 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2025,6 +2139,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hunt1.webp", alt: "Master E-Tech (foto: Renault (prensa oficial) vía Sustainable Truck & Van, licencia desconocida)", ancho: 960, alto: 546 },
+      { src: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hunt2.webp", alt: "Master E-Tech (foto: Renault (prensa oficial) vía SLM Renault, licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/renault-master-e-tech-2026-precio-ficha-tecnica-hunt3.webp", alt: "Master E-Tech (foto: EV Powered, licencia desconocida)", ancho: 850, alto: 478 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2077,6 +2194,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hunt1.webp", alt: "Captur E-Tech 160 (foto: Renault (foto de prensa) vía Carsales, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hunt2.webp", alt: "Captur E-Tech 160 (foto: Renault (foto de prensa) vía Carsales, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/renault-captur-2026-e-tech-160-precio-ficha-tecnica-hunt3.webp", alt: "Captur E-Tech 160 (foto: Renault (foto de prensa) vía Traction.gr, licencia desconocida)", ancho: 1280, alto: 720 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2129,6 +2249,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hunt1.webp", alt: "Arkana E-Tech 145 (foto: Renault (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hunt2.webp", alt: "Arkana E-Tech 145 (foto: Renault (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 2766, alto: 1844 },
+      { src: "/media/renault-arkana-2026-e-tech-145-precio-ficha-tecnica-hunt3.webp", alt: "Arkana E-Tech 145 (foto: Renault (foto de prensa oficial) vía Autobics, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2181,6 +2304,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hunt1.webp", alt: "Grand Kangoo E-Tech (foto: Renault (prensa oficial), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hunt2.webp", alt: "Grand Kangoo E-Tech (foto: Renault vía electrive, licencia desconocida)", ancho: 1500, alto: 750 },
+      { src: "/media/renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica-hunt3.webp", alt: "Grand Kangoo E-Tech (foto: Renault (render CGI oficial del fabricante), licencia desconocida)", ancho: 2048, alto: 1366 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2233,6 +2359,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hunt1.webp", alt: "Trafic dCi 170 (foto: Renault (prensa) vía Carwow España, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hunt2.webp", alt: "Trafic dCi 170 (foto: Renault (prensa) vía Carwow España, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/renault-trafic-20-dci-170-2026-precio-ficha-tecnica-hunt3.webp", alt: "Trafic dCi 170 (foto: Drive.com.au / Renault Australia (prensa), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2285,6 +2414,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hunt1.webp", alt: "Master dCi 180 (foto: Renault (foto de prensa) vía AutoData1, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hunt2.webp", alt: "Master dCi 180 (foto: Renault (foto de prensa) vía AutoData1, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/renault-master-23-dci-180-2026-precio-ficha-tecnica-hunt3.webp", alt: "Master dCi 180 (foto: Renault (foto de prensa) vía Kolesa.ru, licencia desconocida)", ancho: 980, alto: 540 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2337,6 +2469,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hunt1.webp", alt: "Captur TCe 90 (foto: Wikimedia Commons, licencia desconocida)", ancho: 1280, alto: 939 },
+      { src: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hunt2.webp", alt: "Captur TCe 90 (foto: Njuskalo (anuncio Renault Captur TCe 90 Evolution), licencia desconocida)", ancho: 920, alto: 690 },
+      { src: "/media/renault-captur-2026-tce-90-precio-ficha-tecnica-hunt3.webp", alt: "Captur TCe 90 (foto: Messa T. (messa.it), licencia desconocida)", ancho: 1900, alto: 1425 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2389,6 +2524,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt1.webp", alt: "Jogger Hybrid 155 (foto: km77.com, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt2.webp", alt: "Jogger Hybrid 155 (foto: StartStop.sk, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/dacia-jogger-hybrid-155-2026-precio-ficha-tecnica-hunt3.webp", alt: "Jogger Hybrid 155 (foto: Car and Driving / Exchange and Mart, licencia desconocida)", ancho: 750, alto: 500 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2442,7 +2580,10 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Logan TCe 90", ancho: 1904, alto: 1168 },
-      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Logan TCe 90", ancho: 1920, alto: 1280 }
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Logan TCe 90", ancho: 1920, alto: 1280 },
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt1.webp", alt: "Logan TCe 90 (foto: Dacia (prensa oficial) vía Autoblog.md, licencia desconocida)", ancho: 1500, alto: 844 },
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt2.webp", alt: "Logan TCe 90 (foto: Dacia (prensa oficial) vía Autoblog.md, licencia desconocida)", ancho: 1500, alto: 844 },
+      { src: "/media/dacia-logan-tce-90-2026-precio-ficha-tecnica-hunt3.webp", alt: "Logan TCe 90 (foto: Dacia (prensa oficial) vía Autoblog.md, licencia desconocida)", ancho: 1500, alto: 844 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2495,6 +2636,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt1.webp", alt: "Duster Hybrid-G 150 4x4 (foto: Dacia (foto de prensa) vía CompleteCar, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt2.webp", alt: "Duster Hybrid-G 150 4x4 (foto: Dacia (foto de prensa) vía CompleteCar, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/dacia-duster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt3.webp", alt: "Duster Hybrid-G 150 4x4 (foto: Dacia (foto de prensa) vía CompleteCar, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,
@@ -2547,6 +2691,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     imagenOficial: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt1.webp", alt: "Bigster Hybrid-G 150 4x4 (foto: Adrien Cortesi / Vrelegume (foto de la presentacion del Bigster Hybrid-G 150 4x4), licencia desconocida)", ancho: 2048, alto: 1365 },
+      { src: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt2.webp", alt: "Bigster Hybrid-G 150 4x4 (foto: Dacia (foto de prensa) via CarThrottle, licencia desconocida)", ancho: 1500, alto: 844 },
+      { src: "/media/dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica-hunt3.webp", alt: "Bigster Hybrid-G 150 4x4 (foto: CompleteCar.ie (prueba del Dacia Bigster 2026 4x4 Hybrid en Francia), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: null,
     videoCanal: null,

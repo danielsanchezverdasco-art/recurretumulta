@@ -52,13 +52,13 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     imagen: "/media/motos/zero-ds-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/zero-ds-2026-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/zero-ds-2026-ficha-tecnica-precio/zero-ds-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Zero DS 2026, vista lateral en estudio",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/motos/zero-ds-2026-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-ds-2026-ficha-tecnica-precio/zero-ds-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Zero DS 2026 rodando por una pista de tierra",
         ancho: 1200,
         alto: 800,
@@ -124,13 +124,13 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     imagen: "/media/motos/zero-dsr-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/zero-dsr-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/zero-dsr-2025-ficha-tecnica-precio/zero-dsr-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Zero DSR 2025, detalle del frontal",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/motos/zero-dsr-2025-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-dsr-2025-ficha-tecnica-precio/zero-dsr-2025-ficha-tecnica-precio-real-3.webp",
         alt: "Zero DSR 2025 en una carretera de montaña",
         ancho: 1200,
         alto: 800,
@@ -183,7 +183,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/zero-fx-2025-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-fx-2025-ficha-tecnica-precio/zero-fx-2025-ficha-tecnica-precio-real-3.webp",
         alt: "Zero FX 2025 circulando por ciudad",
         ancho: 1200,
         alto: 800,
@@ -249,13 +249,13 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     imagen: "/media/motos/zero-xe-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/zero-xe-2026-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/zero-xe-2026-ficha-tecnica-precio/zero-xe-2026-ficha-tecnica-precio-real-2.webp",
         alt: "Zero XE 2026, detalle del chasis y la batería",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/motos/zero-xe-2026-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-xe-2026-ficha-tecnica-precio/zero-xe-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Zero XE 2026 en una pista forestal",
         ancho: 1200,
         alto: 800,
@@ -319,7 +319,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/zero-xb-2026-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-xb-2026-ficha-tecnica-precio/zero-xb-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Zero XB 2026 rodando por un camino",
         ancho: 1200,
         alto: 800,
@@ -383,7 +383,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/zero-ls1-2026-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/zero-ls1-2026-ficha-tecnica-precio/zero-ls1-2026-ficha-tecnica-precio-real-3.webp",
         alt: "Zero LS1 2026 aparcada en una calle europea",
         ancho: 1200,
         alto: 800,
@@ -499,16 +499,16 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
       "NIU la presentó como su primera moto eléctrica 'de verdad' para el A1",
       "El control de tracción es inédito en scooters eléctricos de este precio",
     ],
-    imagen: "/media/motos/niu-nqix-500-2026-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/niu-nqix-500-2026-ficha-tecnica-precio/niu-nqix-500-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
-        src: "/media/motos/niu-nqix-500-2026-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/niu-nqix-500-2026-ficha-tecnica-precio/niu-nqix-500-2026-ficha-tecnica-precio-real-2.webp",
         alt: "NIU NQiX 500 2026, detalle del frontal",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/motos/niu-nqix-500-2026-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/niu-nqix-500-2026-ficha-tecnica-precio/niu-nqix-500-2026-ficha-tecnica-precio-real-3.webp",
         alt: "NIU NQiX 500 2026 de noche en la ciudad",
         ancho: 1200,
         alto: 800,

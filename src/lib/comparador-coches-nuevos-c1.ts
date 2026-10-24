@@ -47,6 +47,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-oficial.webp", alt: "BYD Atto 2 DM-i azul, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Atto 2 DM-i con pantalla giratoria", ancho: 1600, alto: 900 },
+      { src: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: BYD (kit de prensa oficial Atto 2 DM-i) / GoNews, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: BYD (kit de prensa oficial Atto 2 DM-i) / GoNews, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: BYD (kit de prensa oficial Atto 2 DM-i) / GoNews, licencia desconocida)", ancho: 1000, alto: 681 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: versión DM-i no probada" },
     planMantenimiento: {
@@ -112,6 +115,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Sealion 05 DM-i, vista lateral", ancho: 1600, alto: 900 },
       { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Sealion 05 DM-i", ancho: 1600, alto: 900 },
+      { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: BYD (prensa oficial) vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 500 },
+      { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: CarNewsChina (presentación oficial BYD), licencia desconocida)", ancho: 800, alto: 521 },
+      { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: CarNewsChina (presentación oficial BYD), licencia desconocida)", ancho: 800, alto: 460 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -178,6 +184,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Qin L DM-i, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Qin L DM-i", ancho: 1600, alto: 900 },
+      { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: BYD (imágenes oficiales de lanzamiento, 17/04/2024) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: BYD (imágenes oficiales de lanzamiento, 17/04/2024) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: BYD (imágenes oficiales de lanzamiento, 17/04/2024) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -242,6 +251,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Song L EV, vista lateral de SUV coupé", ancho: 1600, alto: 900 },
       { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Song L EV", ancho: 1600, alto: 900 },
+      { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 40.000 km (foto: BYD (prensa oficial) vía Autoreview, licencia desconocida)", ancho: 1200, alto: 700 },
+      { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 40.000 km (foto: Autohome vía Car250, licencia desconocida)", ancho: 1488, alto: 1116 },
+      { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 40.000 km (foto: Bex Auto, licencia desconocida)", ancho: 890, alto: 668 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -306,6 +318,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Seal 06 GT rojo, vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-interior.webp", alt: "Interior deportivo del BYD Seal 06 GT", ancho: 1600, alto: 900 },
+      { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 40.000 km (foto: Paul Tan / BYD (prensa oficial), licencia desconocida)", ancho: 1894, alto: 991 },
+      { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 40.000 km (foto: Car250, licencia desconocida)", ancho: 2400, alto: 1600 },
+      { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 40.000 km (foto: Car250, licencia desconocida)", ancho: 2400, alto: 1600 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -370,6 +385,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Yuan Up, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Yuan Up", ancho: 1600, alto: 900 },
+      { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 40.000 km (foto: BYD (imagen oficial del fabricante, render de prensa) vía distribuidor oficial BYD Kazajistán, licencia desconocida)", ancho: 2878, alto: 1506 },
+      { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 40.000 km (foto: BYD (imagen oficial del fabricante) vía Za Rulem (zr.ru), licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 40.000 km (foto: BYD (imagen oficial del fabricante, render de prensa) vía BYD Uzbekistán, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -434,6 +452,10 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S6 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S6 EV", ancho: 1600, alto: 900 },
+      { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor Ucrania (distribuidor oficial MG), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: CarExpert (Australia), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor Ucrania (distribuidor oficial MG), licencia desconocida)", ancho: 1600, alto: 1012 },
+      { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt4.webp", alt: "Revisión bienal / 30.000 km (foto: CarExpert (Australia), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -498,6 +520,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "MG ZS Hybrid+ rojo, vista lateral", ancho: 1600, alto: 900 },
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG ZS Hybrid+", ancho: 1600, alto: 900 },
+      { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Prensa MG vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Prensa MG vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Autocar, licencia desconocida)", ancho: 1598, alto: 1066 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -563,6 +588,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/mg7-2025-precio-ficha-tecnica-oficial.webp", alt: "MG7, berlina fastback vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/mg7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del MG7", ancho: 1600, alto: 900 },
+      { src: "/media/mg7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: MG / SAIC vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/mg7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Autohome vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/mg7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: MG / SAIC vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -627,6 +655,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S5 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S5 EV", ancho: 1600, alto: 900 },
+      { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor (prensa) vía Penton Motor Group, licencia desconocida)", ancho: 841, alto: 473 },
+      { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: CarExpert (foto de prensa MG), licencia desconocida)", ancho: 744, alto: 496 },
+      { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor UK (prensa) vía CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -679,6 +710,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 4 Pro, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Tiggo 4 Pro", ancho: 1600, alto: 900 },
+      { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tiggo 4 Pro 1.5T (foto: Chery Australia (fotos oficiales del Tiggo 4 Pro 2025, vía iCarTea), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tiggo 4 Pro 1.5T (foto: Chery Australia (fotos oficiales del Tiggo 4 Pro 2025, vía iCarTea), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tiggo 4 Pro 1.5T (foto: Chery Australia (fotos oficiales del Tiggo 4 Pro 2025, vía iCarTea), licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP para este 1.5T de gasolina: la nota de 2025 es del Tiggo 4 híbrido, con el Ebro s400 como unidad probada"},
     planMantenimiento: {"intervalo": "Cada 10.000 km o al cumplirse un año, lo primero que suceda", "revisiones": [{"nombre": "Revisión de los 10.000 km o del primer año", "queSeCambia": "Cambio del aceite del motor y de su filtro, filtro de habitáculo nuevo y una inspección general del conjunto", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Referencia de servicio de Chery para el Tiggo 4 Pro de exportación; el modelo carece de programa español al no comercializarse aquí"},
@@ -736,6 +770,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 7 Pro, vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Tiggo 7 Pro", ancho: 1600, alto: 900 },
+      { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 10.000 km (foto: Chery / CMH Chery (chery.co.mz), licencia desconocida)", ancho: 1920, alto: 825 },
+      { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 10.000 km (foto: Chery International (cheryinternational.com), licencia desconocida)", ancho: 1920, alto: 960 },
+      { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 10.000 km (foto: Chery (prensa) vía AutoUA, licencia desconocida)", ancho: 1000, alto: 562 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -800,6 +837,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 8 Pro, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-interior.webp", alt: "Interior de 7 plazas del Chery Tiggo 8 Pro", ancho: 1600, alto: 900 },
+      { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 10.000 km (foto: CMH Chery Fourways (concesionario oficial Chery, Sudáfrica), licencia desconocida)", ancho: 1024, alto: 681 },
+      { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 10.000 km (foto: Cars.co.za (prueba del Chery Tiggo 8 Pro), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 10.000 km (foto: ZigWheels Filipinas / Chery (foto de prensa del Tiggo 8 Pro), licencia desconocida)", ancho: 930, alto: 620 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -864,6 +904,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/icaur-v23-2026-precio-ficha-tecnica-oficial.webp", alt: "iCAUR V23, todoterreno eléctrico retro", ancho: 1600, alto: 900 },
       { src: "/media/icaur-v23-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del iCAUR V23 con pantalla de 15,4 pulgadas", ancho: 1600, alto: 900 },
+      { src: "/media/icaur-v23-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Nepal Drives, licencia desconocida)", ancho: 1200, alto: 686 },
+      { src: "/media/icaur-v23-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: CnEVPost / foto de prensa Chery iCar, licencia desconocida)", ancho: 1200, alto: 681 },
+      { src: "/media/icaur-v23-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Paul Tan (paultan.org), licencia desconocida)", ancho: 1200, alto: 801 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -928,6 +971,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-oficial.webp", alt: "Chery Fulwin T8, SUV híbrido enchufable", ancho: 1600, alto: 900 },
       { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Fulwin T8", ancho: 1600, alto: 900 },
+      { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: BitAuto / Yiche (易车), licencia desconocida)", ancho: 800, alto: 533 },
+      { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: BitAuto / Yiche (易车), licencia desconocida)", ancho: 800, alto: 533 },
+      { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: BitAuto / Yiche (易车), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -992,6 +1038,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-oficial.webp", alt: "Deepal S07, SUV eléctrico de Changan", ancho: 1600, alto: 900 },
       { src: "/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Deepal S07", ancho: 1600, alto: 900 },
+      { src: "/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Changan Europe (web oficial), licencia desconocida)", ancho: 1440, alto: 1440 },
+      { src: "/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Motorbox (prueba del Deepal S07 2026; foto de estudio del fabricante), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/changan-deepal-s07-my26-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: HeadLight Magazine, licencia desconocida)", ancho: 900, alto: 600 },
     ],
     euroncap: { estrellas: 5, ano: 2025, url: null, nota: "5 estrellas Euro NCAP" },
     planMantenimiento: {
@@ -1056,6 +1105,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Monjaro, SUV premium", ancho: 1600, alto: 900 },
       { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Monjaro", ancho: 1600, alto: 900 },
+      { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Motorgy (foto real de unidad Monjaro 2023), licencia desconocida)", ancho: 1599, alto: 747 },
+      { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: ArendaCar / Cars&Go (foto real), licencia desconocida)", ancho: 1160, alto: 688 },
+      { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Major Auto (foto real de unidad Monjaro), licencia desconocida)", ancho: 960, alto: 720 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1120,6 +1172,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/geely-cityray-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Cityray, SUV compacto", ancho: 1600, alto: 900 },
       { src: "/media/geely-cityray-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Cityray", ancho: 1600, alto: 900 },
+      { src: "/media/geely-cityray-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Geely República Dominicana / Grupo Viamar (distribuidor oficial Geely), licencia desconocida)", ancho: 2560, alto: 1664 },
+      { src: "/media/geely-cityray-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Wikimedia Commons (foto real en calle del Boyue Cool, nombre chino del Cityray), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/geely-cityray-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Geely República Dominicana / Grupo Viamar (distribuidor oficial Geely), licencia desconocida)", ancho: 1366, alto: 768 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1184,6 +1239,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/geely-preface-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Preface, berlina premium", ancho: 1600, alto: 900 },
       { src: "/media/geely-preface-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Preface", ancho: 1600, alto: 900 },
+      { src: "/media/geely-preface-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: DubiCars / KAVAK (unidad real Geely Preface 2026 en estudio), licencia desconocida)", ancho: 1300, alto: 731 },
+      { src: "/media/geely-preface-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Auto.ru (unidad real Geely Preface a la venta en Rusia), licencia desconocida)", ancho: 584, alto: 438 },
+      { src: "/media/geely-preface-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: YallaMotor / CarPrices.ae (Geely Preface 2.0L GF 2025, EAU), licencia desconocida)", ancho: 900, alto: 500 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1248,6 +1306,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/geely-atlas-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Atlas, SUV familiar", ancho: 1600, alto: 900 },
       { src: "/media/geely-atlas-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Atlas", ancho: 1600, alto: 900 },
+      { src: "/media/geely-atlas-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Geely (imagen de prensa/estudio) vía Racer House, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/geely-atlas-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Dongchedi (medio chino, foto real de unidad) vía EmmetCars/InterCargo, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/geely-atlas-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Geely (foto de prensa) vía Kolesa.ru, licencia desconocida)", ancho: 874, alto: 491 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1312,6 +1373,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-oficial.webp", alt: "Haval Jolion HEV, SUV híbrido", ancho: 1600, alto: 900 },
       { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Jolion HEV", ancho: 1600, alto: 900 },
+      { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: GoAuto / foto de prensa GWM Haval, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert / foto de prensa GWM Haval, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: GWM Australia/Nueva Zelanda (oficial), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1376,6 +1440,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-oficial.webp", alt: "GWM Ora 05, SUV eléctrico", ancho: 1600, alto: 900 },
       { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Ora 05", ancho: 1600, alto: 900 },
+      { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: GWM (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: GWM (foto de prensa) vía Autopapo, licencia desconocida)", ancho: 1536, alto: 1025 },
+      { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: GWM (foto de prensa) vía Carros com Camanzi, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1440,6 +1507,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-oficial.webp", alt: "GWM Ora 03 GT, compacto eléctrico deportivo", ancho: 1600, alto: 900 },
       { src: "/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Ora 03 GT", ancho: 1600, alto: 900 },
+      { src: "/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Daily Car Blog, licencia desconocida)", ancho: 950, alto: 572 },
+      { src: "/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Auto Express, licencia desconocida)", ancho: 845, alto: 475 },
+      { src: "/media/gwm-ora-03-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Motorpoint, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: versión GT no probada" },
     planMantenimiento: {
@@ -1504,6 +1574,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/gwm-poer-2025-precio-ficha-tecnica-oficial.webp", alt: "GWM Poer, pick-up 4x4", ancho: 1600, alto: 900 },
       { src: "/media/gwm-poer-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Poer", ancho: 1600, alto: 900 },
+      { src: "/media/gwm-poer-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 10.000 km (foto: GWM (material oficial de prensa, vía Autoblog Uruguay), licencia desconocida)", ancho: 1013, alto: 570 },
+      { src: "/media/gwm-poer-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 10.000 km (foto: GWM (material oficial de prensa, vía Autoblog Uruguay), licencia desconocida)", ancho: 1283, alto: 722 },
+      { src: "/media/gwm-poer-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 10.000 km (foto: GWM (material oficial de prensa, vía Autoblog Uruguay), licencia desconocida)", ancho: 1600, alto: 833 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1556,6 +1629,9 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     galeria: [
       { src: "/media/haval-h6s-2025-precio-ficha-tecnica-oficial.webp", alt: "Haval H6S, SUV coupé", ancho: 1600, alto: 900 },
       { src: "/media/haval-h6s-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval H6S", ancho: 1600, alto: 900 },
+      { src: "/media/haval-h6s-2025-precio-ficha-tecnica-hunt1.webp", alt: "H6S (foto: GWM / AutoMais TV (foto de prensa), licencia desconocida)", ancho: 1366, alto: 820 },
+      { src: "/media/haval-h6s-2025-precio-ficha-tecnica-hunt2.webp", alt: "H6S (foto: Autofun Tailandia (foto real), licencia desconocida)", ancho: 1080, alto: 608 },
+      { src: "/media/haval-h6s-2025-precio-ficha-tecnica-hunt3.webp", alt: "H6S (foto: GWM / AutoMais TV (foto de prensa), licencia desconocida)", ancho: 1366, alto: 820 },
     ],
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: el H6S no consta probado por Euro NCAP; su nota de cinco estrellas de 2022 es de ANCAP (Australia)"},
     planMantenimiento: {"intervalo": "Cada 15.000 km recorridos o cuando se cumpla un año, para el 2.0 turbo del H6S", "revisiones": [{"nombre": "Visita anual del H6S 2.0 turbo", "queSeCambia": "Aceite nuevo para el motor GW4N20 con su filtro, filtro del habitáculo renovado y repaso de frenos, niveles y del cambio DCT de siete marchas", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Cadencia de servicio publicada para el H6 GT en Australia, el H6S con su nombre de exportación; GWM no opera en España"},

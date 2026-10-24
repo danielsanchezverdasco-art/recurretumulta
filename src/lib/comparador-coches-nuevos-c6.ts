@@ -55,7 +55,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1067,
         ancho: 1600,
         src: "/media/mobilize-duo-45-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/mobilize-duo-45-2025-precio-ficha-tecnica-hunt1.webp", alt: "Duo 45 2025 (foto: Mobilize / Renault Group (prensa oficial) vía Infomotori, licencia desconocida)", ancho: 853, alto: 1280 },
+      { src: "/media/mobilize-duo-45-2025-precio-ficha-tecnica-hunt2.webp", alt: "Duo 45 2025 (foto: Mobilize / Renault Group (prensa oficial) vía Infomotori, licencia desconocida)", ancho: 1280, alto: 974 },
+      { src: "/media/mobilize-duo-45-2025-precio-ficha-tecnica-hunt3.webp", alt: "Duo 45 2025 (foto: Mobilize / Renault Group (prensa oficial) vía Infomotori, licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -132,7 +135,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1067,
         ancho: 1600,
         src: "/media/mobilize-duo-80-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/mobilize-duo-80-2025-precio-ficha-tecnica-hunt1.webp", alt: "Duo 80 2025 (foto: Autozine (fotos de la prueba del Mobilize Duo 80 Pro), licencia desconocida)", ancho: 728, alto: 468 },
+      { src: "/media/mobilize-duo-80-2025-precio-ficha-tecnica-hunt2.webp", alt: "Duo 80 2025 (foto: Autozine (fotos de la prueba del Mobilize Duo 80 Pro), licencia desconocida)", ancho: 728, alto: 484 },
+      { src: "/media/mobilize-duo-80-2025-precio-ficha-tecnica-hunt3.webp", alt: "Duo 80 2025 (foto: Autozine (fotos de la prueba del Mobilize Duo 80 Pro), licencia desconocida)", ancho: 728, alto: 482 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -209,7 +215,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1067,
         ancho: 1600,
         src: "/media/mobilize-bento-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/mobilize-bento-2025-precio-ficha-tecnica-hunt1.webp", alt: "Bento 2025 (foto: Mobilize / Renault Group (serie de prensa oficial, vía Van Reviewer), licencia desconocida (prensa oficial Mobilize/Renault Group))", ancho: 1024, alto: 576 },
+      { src: "/media/mobilize-bento-2025-precio-ficha-tecnica-hunt2.webp", alt: "Bento 2025 (foto: Mobilize / Renault Group (serie de prensa oficial, vía Van Reviewer), licencia desconocida (prensa oficial Mobilize/Renault Group))", ancho: 1024, alto: 576 },
+      { src: "/media/mobilize-bento-2025-precio-ficha-tecnica-hunt3.webp", alt: "Bento 2025 (foto: Mobilize / Renault Group (serie de prensa oficial, vía Van Reviewer), licencia desconocida (prensa oficial Mobilize/Renault Group))", ancho: 1024, alto: 576 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -284,7 +293,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 675,
         ancho: 1200,
         src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ariya 87 kWh 242 2026 (foto: Auto10 (prueba propia), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ariya 87 kWh 242 2026 (foto: Auto10 (prueba propia), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ariya 87 kWh 242 2026 (foto: Auto10 (prueba propia), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     garantiaBateriaAnos: 8,
     garantiaBateriaDegradacionPct: null,
@@ -361,7 +373,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-hunt1.webp", alt: "Leaf 52 kWh 2026 (foto: Nissan (foto oficial), licencia desconocida)", ancho: 1024, alto: 552 },
+      { src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-hunt2.webp", alt: "Leaf 52 kWh 2026 (foto: Nissan (foto oficial de estudio), licencia desconocida)", ancho: 738, alto: 492 },
+      { src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-hunt3.webp", alt: "Leaf 52 kWh 2026 (foto: Nissan (foto oficial) vía Autoblog, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     garantiaBateriaAnos: 8,
     garantiaBateriaDegradacionPct: null,
@@ -438,7 +453,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-hunt1.webp", alt: "Leaf 75 kWh 2026 (foto: Nissan (foto oficial de prensa, vía km77), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-hunt2.webp", alt: "Leaf 75 kWh 2026 (foto: Nissan (foto oficial de prensa, vía Conceptcarz), licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-hunt3.webp", alt: "Leaf 75 kWh 2026 (foto: Nissan (foto oficial de prensa, vía Autocar), licencia desconocida)", ancho: 1200, alto: 795 },
     ],
     garantiaBateriaAnos: 8,
     garantiaBateriaDegradacionPct: null,
@@ -517,7 +535,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 532,
         ancho: 945,
         src: "/media/silence-s04-l6e-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt1.webp", alt: "S04 L6e 2025 (foto: Silence / Autoflotte, licencia desconocida)", ancho: 945, alto: 532 },
+      { src: "/media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt2.webp", alt: "S04 L6e 2025 (foto: Silence / Kleinwagenblog, licencia desconocida)", ancho: 1475, alto: 983 },
+      { src: "/media/silence-s04-l6e-2025-precio-ficha-tecnica-hunt3.webp", alt: "S04 L6e 2025 (foto: HWUpgrade, licencia desconocida)", ancho: 1200, alto: 900 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -597,7 +618,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 532,
         ancho: 945,
         src: "/media/silence-s04-l7e-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/silence-s04-l7e-2025-precio-ficha-tecnica-hunt1.webp", alt: "S04 L7e 2025 (foto: Autonotizen, licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/silence-s04-l7e-2025-precio-ficha-tecnica-hunt2.webp", alt: "S04 L7e 2025 (foto: Autoservicepraxis / Autohaus (prensa del lanzamiento del S04 L7e), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/silence-s04-l7e-2025-precio-ficha-tecnica-hunt3.webp", alt: "S04 L7e 2025 (foto: Autocar, licencia desconocida)", ancho: 1200, alto: 795 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -672,7 +696,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 675,
         ancho: 1200,
         src: "/media/abarth-600e-scorpionissima-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/abarth-600e-scorpionissima-2025-precio-ficha-tecnica-hunt1.webp", alt: "600e Scorpionissima 2025 (foto: Abarth (foto oficial de prensa) vía HeadLight Magazine, licencia desconocida)", ancho: 800, alto: 420 },
+      { src: "/media/abarth-600e-scorpionissima-2025-precio-ficha-tecnica-hunt2.webp", alt: "600e Scorpionissima 2025 (foto: Auto Republika (foto real de prueba), licencia desconocida)", ancho: 1024, alto: 496 },
+      { src: "/media/abarth-600e-scorpionissima-2025-precio-ficha-tecnica-hunt3.webp", alt: "600e Scorpionissima 2025 (foto: Abarth (foto oficial) vía Carscoops, licencia desconocida)", ancho: 2048, alto: 1366 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -752,7 +779,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 626,
         ancho: 626,
         src: "/media/invicta-pocco-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/invicta-pocco-2025-precio-ficha-tecnica-hunt1.webp", alt: "Pocco 2025 (foto: Invicta Electric vía QuéCocheMeCompro (galería del Pocco), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/invicta-pocco-2025-precio-ficha-tecnica-hunt2.webp", alt: "Pocco 2025 (foto: Invicta Electric vía QuéCocheMeCompro (galería del Pocco), licencia desconocida)", ancho: 506, alto: 800 },
+      { src: "/media/invicta-pocco-2025-precio-ficha-tecnica-hunt3.webp", alt: "Pocco 2025 (foto: Invicta Electric vía QuéCocheMeCompro (galería del Pocco), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -829,7 +859,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 800,
         ancho: 800,
         src: "/media/invicta-pony-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/invicta-pony-2025-precio-ficha-tecnica-hunt1.webp", alt: "Pony 2025 (foto: Invicta Electric (web oficial, tienda Pony), licencia desconocida)", ancho: 800, alto: 800 },
+      { src: "/media/invicta-pony-2025-precio-ficha-tecnica-hunt2.webp", alt: "Pony 2025 (foto: Auto10 (prueba del Invicta Pony), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/invicta-pony-2025-precio-ficha-tecnica-hunt3.webp", alt: "Pony 2025 (foto: Invicta Electric (web oficial), licencia desconocida)", ancho: 1000, alto: 499 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -907,7 +940,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 371,
         ancho: 659,
         src: "/media/invicta-spartan-ev-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/invicta-spartan-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Spartan EV 2025 (foto: Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
+      { src: "/media/invicta-spartan-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Spartan EV 2025 (foto: Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
+      { src: "/media/invicta-spartan-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Spartan EV 2025 (foto: Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
     ],
     garantiaBateriaAnos: 5,
     garantiaBateriaDegradacionPct: null,
@@ -986,7 +1022,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 497,
         ancho: 768,
         src: "/media/invicta-d2s-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/invicta-d2s-2025-precio-ficha-tecnica-hunt1.webp", alt: "D2S 27 kW 2025 (foto: Invicta Electric (tienda oficial, producto D2S 27kW), licencia desconocida)", ancho: 1153, alto: 1152 },
+      { src: "/media/invicta-d2s-2025-precio-ficha-tecnica-hunt2.webp", alt: "D2S 27 kW 2025 (foto: Invicta Electric vía Gamarra Korean Cars (galería del D2S), licencia desconocida)", ancho: 950, alto: 515 },
+      { src: "/media/invicta-d2s-2025-precio-ficha-tecnica-hunt3.webp", alt: "D2S 27 kW 2025 (foto: Invicta Electric (tienda oficial, producto D2S 27kW), licencia desconocida)", ancho: 873, alto: 665 },
     ],
     garantiaBateriaAnos: 5,
     garantiaBateriaDegradacionPct: null,
@@ -1060,7 +1099,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 683,
         ancho: 1024,
         src: "/media/volkswagen-taigo-10-tsi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/volkswagen-taigo-10-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Taigo 1.0 TSI 115 Más (foto: Volkswagen (foto de prensa) vía CarChecker, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/volkswagen-taigo-10-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Taigo 1.0 TSI 115 Más (foto: Volkswagen AG (foto de prensa oficial, EXIF Volkswagen AG) vía Motorvisión, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/volkswagen-taigo-10-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Taigo 1.0 TSI 115 Más (foto: Volkswagen (foto de prensa) vía ByMyCar, licencia desconocida)", ancho: 1536, alto: 1152 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1133,7 +1175,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 900,
         ancho: 1600,
         src: "/media/volkswagen-t-cross-10-tsi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/volkswagen-t-cross-10-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "T-Cross 1.0 TSI 115 Más (foto: Volkswagen (prensa) vía Cars.co.za, licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/volkswagen-t-cross-10-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "T-Cross 1.0 TSI 115 Más (foto: Volkswagen (prensa) vía Cars.co.za, licencia desconocida)", ancho: 768, alto: 576 },
+      { src: "/media/volkswagen-t-cross-10-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "T-Cross 1.0 TSI 115 Más (foto: Volkswagen (prensa) vía Cars.co.za, licencia desconocida)", ancho: 800, alto: 600 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1206,7 +1251,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 602,
         ancho: 1068,
         src: "/media/volkswagen-multivan-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/volkswagen-multivan-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Multivan 2.0 TDI 150 Life DSG (foto: Autohaus Moll vía mobile.de (anuncio Multivan Life 2.0 TDI DSG), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/volkswagen-multivan-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Multivan 2.0 TDI 150 Life DSG (foto: Vendedor vía AutoUncle (anuncio VW Multivan T7 Life Lang TDI DSG), licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/volkswagen-multivan-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Multivan 2.0 TDI 150 Life DSG (foto: Volkswagen (prensa oficial) vía eManualOnline, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1279,7 +1327,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 579,
         ancho: 821,
         src: "/media/skoda-karoq-20-tdi-150-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/skoda-karoq-20-tdi-150-2026-precio-ficha-tecnica-hunt1.webp", alt: "Karoq Selection 2.0 TDI 150 DSG (foto: Skoda Auto / Skoda Storyboard (prensa oficial), licencia desconocida)", ancho: 1920, alto: 1281 },
+      { src: "/media/skoda-karoq-20-tdi-150-2026-precio-ficha-tecnica-hunt2.webp", alt: "Karoq Selection 2.0 TDI 150 DSG (foto: Skoda Auto (prensa oficial) / CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/skoda-karoq-20-tdi-150-2026-precio-ficha-tecnica-hunt3.webp", alt: "Karoq Selection 2.0 TDI 150 DSG (foto: Skoda Auto (prensa oficial) / CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1352,7 +1403,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 947,
         ancho: 1600,
         src: "/media/seat-arona-fr-10-tsi-115-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/seat-arona-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt1.webp", alt: "Arona FR 1.0 TSI 115 (foto: Wheels Alive (ensayo del SEAT Arona FR Black Edition 1.0 TSI 115), licencia desconocida)", ancho: 1400, alto: 1028 },
+      { src: "/media/seat-arona-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt2.webp", alt: "Arona FR 1.0 TSI 115 (foto: Wheels Alive (ensayo del SEAT Arona FR Black Edition 1.0 TSI 115), licencia desconocida)", ancho: 1400, alto: 1127 },
+      { src: "/media/seat-arona-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt3.webp", alt: "Arona FR 1.0 TSI 115 (foto: Wheels Alive (ensayo del SEAT Arona FR Black Edition 1.0 TSI 115), licencia desconocida)", ancho: 1400, alto: 867 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1425,7 +1479,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1071,
         ancho: 1600,
         src: "/media/cupra-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/cupra-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hunt1.webp", alt: "León Sportstourer 1.5 TSI 150 (foto: Cupra (CGI oficial del fabricante) vía Autohaus Habinghorst, oferta León Sportstourer 1.5 TSI, licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/cupra-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hunt2.webp", alt: "León Sportstourer 1.5 TSI 150 (foto: Foto real de anuncio Mobile.de: Cupra León Sportstourer 1.5 TSI (Friedberg), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/cupra-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hunt3.webp", alt: "León Sportstourer 1.5 TSI 150 (foto: Cupra (prensa oficial) vía PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1498,7 +1555,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 785,
         ancho: 1088,
         src: "/media/skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica-hunt1.webp", alt: "Fabia Selection 1.0 TSI 95 (foto: CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica-hunt2.webp", alt: "Fabia Selection 1.0 TSI 95 (foto: CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-fabia-10-tsi-95-2026-precio-ficha-tecnica-hunt3.webp", alt: "Fabia Selection 1.0 TSI 95 (foto: CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1571,7 +1631,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 900,
         ancho: 1500,
         src: "/media/audi-q5-20-tdi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/audi-q5-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q5 Advanced 2.0 TDI 204 quattro S tronic (foto: CompleteCar.ie / Audi (foto de prensa del Q5 TDI, matrícula IN Q 5311), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/audi-q5-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q5 Advanced 2.0 TDI 204 quattro S tronic (foto: CompleteCar.ie / Audi (foto de prensa del Q5 TDI, matrícula IN Q 5311), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/audi-q5-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q5 Advanced 2.0 TDI 204 quattro S tronic (foto: CompleteCar.ie / Audi (foto del Q5 TDI de la prueba), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1646,7 +1709,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1066,
         ancho: 1600,
         src: "/media/lexus-ux-300h-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Lexus (pressroom oficial USA), licencia desconocida)", ancho: 1024, alto: 594 },
+      { src: "/media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Autocar, licencia desconocida)", ancho: 1599, alto: 1066 },
+      { src: "/media/lexus-ux-300h-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Wheelz.me / Lexus (prensa), licencia desconocida)", ancho: 1500, alto: 865 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1731,7 +1797,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1066,
         ancho: 1600,
         src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Carwow España (foto real de prueba, matrícula española 7873 MKT), licencia desconocida)", ancho: 3200, alto: 1800 },
+      { src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Hyundai Motor (foto oficial de prensa del Kona Electric; el cuadro muestra 490 km de autonomía), licencia desconocida)", ancho: 1500, alto: 1021 },
+      { src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Hyundai Motor (foto oficial de presentación del Kona Electric), licencia desconocida)", ancho: 1920, alto: 1200 },
     ],
     garantiaBateriaAnos: 8,
     garantiaBateriaDegradacionPct: null,
@@ -1817,7 +1886,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1200,
         ancho: 1600,
         src: "/media/toyota-yaris-130h-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/toyota-yaris-130h-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Toyota (prensa oficial, vía CarExpert), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/toyota-yaris-130h-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Toyota Europe Newsroom (prensa oficial Toyota), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/toyota-yaris-130h-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Autotijd (ensayo Toyota Yaris Hybrid 130 2025), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1902,7 +1974,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1066,
         ancho: 1600,
         src: "/media/lexus-lbx-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/lexus-lbx-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Lexus (foto de prensa, vía GoAuto), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/lexus-lbx-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Lexus (foto de prensa, vía MotorDream), licencia desconocida)", ancho: 1600, alto: 1062 },
+      { src: "/media/lexus-lbx-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Carsales Australia (interior Lexus LBX Sports Luxury), licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -1981,7 +2056,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 1189,
         ancho: 1600,
         src: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Toyota / Kobe Motor (concesionario oficial Toyota), licencia desconocida)", ancho: 1884, alto: 852 },
+      { src: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Toyota Ourense (Grupo Compostela), licencia desconocida)", ancho: 1440, alto: 1080 },
+      { src: "/media/toyota-corolla-5p-140h-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Toyota (prensa) vía Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -2072,7 +2150,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 900,
         ancho: 1600,
         src: "/media/hyundai-i30-15-tgdi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/hyundai-i30-15-tgdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Hyundai Motor (prensa oficial, vía Moniteur Automobile), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/hyundai-i30-15-tgdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Hyundai Motor (prensa oficial, vía AutoExpress), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/hyundai-i30-15-tgdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Hyundai Motor (prensa oficial, vía Wheelz.me), licencia desconocida)", ancho: 1500, alto: 822 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -2155,7 +2236,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 900,
         ancho: 1600,
         src: "/media/hyundai-bayon-10-tgdi-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/hyundai-bayon-10-tgdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Alexander-93 / Wikimedia Commons, licencia desconocida (Wikimedia Commons; la página del archivo devolvió 403 al intentar verificar autor/licencia en esta sesión — el patrón habitual de este autor en Commons es CC BY-SA 4.0, confirmar antes de publicar))", ancho: 1280, alto: 680 },
+      { src: "/media/hyundai-bayon-10-tgdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Alexander-93 / Wikimedia Commons, licencia desconocida (Wikimedia Commons; la página del archivo devolvió 403 al intentar verificar autor/licencia en esta sesión — el patrón habitual de este autor en Commons es CC BY-SA 4.0, confirmar antes de publicar))", ancho: 1280, alto: 697 },
+      { src: "/media/hyundai-bayon-10-tgdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Hyundai Motor (prensa oficial, kit de prensa del Bayon 2024) vía WionDrive, licencia desconocida)", ancho: 1170, alto: 658 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -2246,7 +2330,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW i4 M60 xDrive 2025 con pantalla curva",
         ancho: 700,
         alto: 464
-      }
+      },
+      { src: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal (foto: BMW Group (prensa) vía Carz Automedia Malaysia, licencia desconocida)", ancho: 1100, alto: 619 },
+      { src: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: BMW Group (prensa) vía Carz Automedia Malaysia, licencia desconocida)", ancho: 1100, alto: 619 },
+      { src: "/media/bmw-i4-m60-xdrive-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: BMW Group (prensa) vía Carz Automedia Malaysia, licencia desconocida)", ancho: 1100, alto: 619 },
     ],
     euroncap: {
       estrellas: 4,
@@ -2336,7 +2423,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Mercedes CLA 350 4MATIC 2025 con MBUX Superscreen",
         ancho: 1600,
         alto: 1066
-      }
+      },
+      { src: "/media/mercedes-cla-350-4matic-2025-precio-ficha-tecnica-hunt1.webp", alt: "Service A (foto: Mercedes-Benz (foto de prensa vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mercedes-cla-350-4matic-2025-precio-ficha-tecnica-hunt2.webp", alt: "Service A (foto: Mercedes-Benz (foto de prensa vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mercedes-cla-350-4matic-2025-precio-ficha-tecnica-hunt3.webp", alt: "Service A (foto: Mercedes-Benz (foto de prensa vía PassionAndCar), licencia desconocida)", ancho: 1200, alto: 799 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2426,7 +2516,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del MINI Countryman C 2025 con pantalla circular OLED",
         ancho: 1600,
         alto: 900
-      }
+      },
+      { src: "/media/mini-countryman-c-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 999, alto: 1499 },
+      { src: "/media/mini-countryman-c-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 999, alto: 1500 },
+      { src: "/media/mini-countryman-c-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW Group PressClub / MINI, licencia desconocida)", ancho: 1000, alto: 1500 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2511,7 +2604,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del MINI Countryman D 2025, igual que la gama U25",
         ancho: 1600,
         alto: 900
-      }
+      },
+      { src: "/media/mini-countryman-d-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: Michael Blumenstein / Auto Service Praxis (foto de prueba del Countryman D U25), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/mini-countryman-d-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: Michael Blumenstein / Auto Service Praxis (foto de prueba del Countryman D U25), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/mini-countryman-d-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: Michael Blumenstein / Auto Service Praxis (foto de prueba del Countryman D U25), licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2596,7 +2692,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW M135 xDrive 2025, puesto de conducción",
         ancho: 1600,
         alto: 1066
-      }
+      },
+      { src: "/media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: BMW Group / Autocosmos, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: BMW Group / Autocosmos, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/bmw-serie-1-m135-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW Group / Quatro Rodas, licencia desconocida)", ancho: 1170, alto: 706 },
     ],
     euroncap: {
       estrellas: 4,
@@ -2686,7 +2785,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW X1 M35i xDrive 2025",
         ancho: 1600,
         alto: 900
-      }
+      },
+      { src: "/media/bmw-x1-m35i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: BMW AG (foto de prensa oficial del X1 M35i, Frozen Pure Grey) vía MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/bmw-x1-m35i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: CarExpert (foto de prensa del BMW X1 M35i MY24, matrícula australiana V AY-173), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/bmw-x1-m35i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW AG (foto de prensa oficial, código P90509804) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2776,7 +2878,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW X2 M35i xDrive 2025",
         ancho: 1600,
         alto: 1067
-      }
+      },
+      { src: "/media/bmw-x2-m35i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: BMW Group PressClub, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/bmw-x2-m35i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: BMW Group PressClub, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/bmw-x2-m35i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW Group / Actualidad Motor, licencia desconocida)", ancho: 1024, alto: 614 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2868,7 +2973,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW X3 30e xDrive 2025",
         ancho: 1600,
         alto: 1200
-      }
+      },
+      { src: "/media/bmw-x3-30e-xdrive-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: BMW (foto de prensa) vía Paul Tan, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/bmw-x3-30e-xdrive-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: Autoblog.nl (prueba del BMW X3 30e xDrive G45), licencia desconocida)", ancho: 970, alto: 545 },
+      { src: "/media/bmw-x3-30e-xdrive-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW Sudáfrica (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1024 },
     ],
     euroncap: {
       estrellas: 5,
@@ -2958,7 +3066,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Mercedes-AMG GLC 43 2026",
         ancho: 1600,
         alto: 900
-      }
+      },
+      { src: "/media/mercedes-amg-glc-43-2026-precio-ficha-tecnica-hunt1.webp", alt: "Service A (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1185 },
+      { src: "/media/mercedes-amg-glc-43-2026-precio-ficha-tecnica-hunt2.webp", alt: "Service A (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1278 },
+      { src: "/media/mercedes-amg-glc-43-2026-precio-ficha-tecnica-hunt3.webp", alt: "Service A (foto: © M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1920, alto: 972 },
     ],
     euroncap: {
       estrellas: 5,
@@ -3048,7 +3159,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Porsche Cayenne Turbo GT 2025",
         ancho: 1600,
         alto: 900
-      }
+      },
+      { src: "/media/porsche-cayenne-turbo-gt-2025-precio-ficha-tecnica-hunt1.webp", alt: "Mantenimiento intermedio (foto: Porsche (foto de prensa oficial) vía The Supercar Blog, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/porsche-cayenne-turbo-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Mantenimiento intermedio (foto: Porsche (foto de prensa oficial) vía Sellatease, licencia desconocida)", ancho: 840, alto: 480 },
+      { src: "/media/porsche-cayenne-turbo-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Mantenimiento intermedio (foto: Porsche (foto de prensa oficial) vía The Torque Report, licencia desconocida)", ancho: 1580, alto: 1055 },
     ],
     euroncap: {
       estrellas: 5,
@@ -3138,7 +3252,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Porsche Panamera Turbo S E-Hybrid 2025",
         ancho: 800,
         alto: 500
-      }
+      },
+      { src: "/media/porsche-panamera-turbo-s-e-hybrid-2025-precio-ficha-tecnica-hunt1.webp", alt: "Mantenimiento intermedio (foto: Porsche AG / Porsche Danmark, licencia desconocida)", ancho: 1120, alto: 630 },
+      { src: "/media/porsche-panamera-turbo-s-e-hybrid-2025-precio-ficha-tecnica-hunt2.webp", alt: "Mantenimiento intermedio (foto: Porsche AG / Porsche Danmark, licencia desconocida)", ancho: 1120, alto: 630 },
+      { src: "/media/porsche-panamera-turbo-s-e-hybrid-2025-precio-ficha-tecnica-hunt3.webp", alt: "Mantenimiento intermedio (foto: Porsche AG / Porsche Danmark, licencia desconocida)", ancho: 1120, alto: 630 },
     ],
     euroncap: {
       estrellas: null,
@@ -3228,7 +3345,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW Serie 5 520i 2025",
         ancho: 1600,
         alto: 1066
-      }
+      },
+      { src: "/media/bmw-serie-5-520i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Cambio de aceite y filtro (foto: CarExpert (Australia), coche de prensa BMW 520i, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-serie-5-520i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cambio de aceite y filtro (foto: CarExpert (Australia), coche de prensa BMW 520i, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-serie-5-520i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cambio de aceite y filtro (foto: BMW Tang (concesionario, entrega de un G60 520i), licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     euroncap: {
       estrellas: 5,
@@ -3320,7 +3440,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del BMW iX M70 xDrive 2025",
         ancho: 1500,
         alto: 900
-      }
+      },
+      { src: "/media/bmw-ix-m70-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal (foto: BMW Group Press, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/bmw-ix-m70-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: BMW Group Press / DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-ix-m70-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: BMW Group Press, licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     euroncap: {
       estrellas: 5,
@@ -3410,7 +3533,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Porsche 911 Carrera 4 GTS 2026",
         ancho: 1500,
         alto: 1000
-      }
+      },
+      { src: "/media/porsche-911-carrera-4-gts-2026-precio-ficha-tecnica-hunt1.webp", alt: "Mantenimiento intermedio (foto: Porsche AG (foto de prensa) vía StuttCars, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/porsche-911-carrera-4-gts-2026-precio-ficha-tecnica-hunt2.webp", alt: "Mantenimiento intermedio (foto: Porsche AG (foto de prensa) vía StuttCars, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/porsche-911-carrera-4-gts-2026-precio-ficha-tecnica-hunt3.webp", alt: "Mantenimiento intermedio (foto: Porsche AG (foto de prensa) vía StuttCars, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     euroncap: {
       estrellas: null,
@@ -3500,7 +3626,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Range Rover Eléctrico 2026",
         ancho: 1200,
         alto: 675
-      }
+      },
+      { src: "/media/land-rover-range-rover-electrico-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión programada (foto: JLR / Land Rover (imagen oficial de presentación del Range Rover Electric) vía Fleet News, licencia desconocida)", ancho: 1400, alto: 934 },
+      { src: "/media/land-rover-range-rover-electrico-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión programada (foto: JLR / Land Rover (foto oficial del Range Rover Electric vadeando) vía Wonderful World of EVs, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/land-rover-range-rover-electrico-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión programada (foto: JLR / Land Rover (imagen oficial RANGE ROVER ELECTRIC INTERIOR 03) vía EVtrend, licencia desconocida)", ancho: 1600, alto: 935 },
     ],
     euroncap: {
       estrellas: null,
@@ -3585,7 +3714,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alt: "Interior del Range Rover Sport Eléctrico 2026",
         ancho: 500,
         alto: 357
-      }
+      },
+      { src: "/media/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión programada (foto: JLR / Land Rover (media oficial), licencia desconocida)", ancho: 750, alto: 422 },
+      { src: "/media/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión programada (foto: JLR (prensa oficial, vía Carscoops), licencia desconocida)", ancho: 780, alto: 438 },
+      { src: "/media/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión programada (foto: JLR (prensa oficial, vía AllAboutEVs), licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     euroncap: {
       estrellas: null,
@@ -3649,7 +3781,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 600,
         ancho: 800,
         src: "/media/evo-spazio-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/evo-spazio-2026-precio-ficha-tecnica-hunt1.webp", alt: "Spazio (foto: EVO España (landing oficial), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-spazio-2026-precio-ficha-tecnica-hunt2.webp", alt: "Spazio (foto: PassionAndCar / foto de prensa EVO, licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/evo-spazio-2026-precio-ficha-tecnica-hunt3.webp", alt: "Spazio (foto: PassionAndCar / foto de prensa EVO, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -3724,7 +3859,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 599,
         ancho: 899,
         src: "/media/evo-6-hev-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/evo-6-hev-2026-precio-ficha-tecnica-hunt1.webp", alt: "6 HEV (foto: EVO Auto España (landing oficial de la marca en España), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-6-hev-2026-precio-ficha-tecnica-hunt2.webp", alt: "6 HEV (foto: Auto EVO (importador oficial EVO, página del modelo 6 HEV), licencia desconocida)", ancho: 1232, alto: 840 },
+      { src: "/media/evo-6-hev-2026-precio-ficha-tecnica-hunt3.webp", alt: "6 HEV (foto: Auto EVO (importador oficial EVO, página del modelo 6 HEV), licencia desconocida)", ancho: 800, alto: 450 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -3801,7 +3939,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 666,
         ancho: 1600,
         src: "/media/swm-g03-edi-phev-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt1.webp", alt: "G03 EDI (foto: SWM Motors Madrid (concesionario oficial SWM), licencia desconocida)", ancho: 2560, alto: 1706 },
+      { src: "/media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt2.webp", alt: "G03 EDI (foto: SWM / Autonoción, licencia desconocida)", ancho: 1100, alto: 815 },
+      { src: "/media/swm-g03-edi-phev-2026-precio-ficha-tecnica-hunt3.webp", alt: "G03 EDI (foto: SWM / Autonoción, licencia desconocida)", ancho: 1100, alto: 734 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -3878,7 +4019,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 960,
         ancho: 1280,
         src: "/media/dr-5-stilnovo-2026-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt1.webp", alt: "5 Stilnovo (foto: Motorbox, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt2.webp", alt: "5 Stilnovo (foto: Motorbox, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/dr-5-stilnovo-2026-precio-ficha-tecnica-hunt3.webp", alt: "5 Stilnovo (foto: Motorbox, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,
@@ -3953,7 +4097,10 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
         alto: 900,
         ancho: 1600,
         src: "/media/morgan-supersport-2025-precio-ficha-tecnica-interior-oficial.webp"
-      }
+      },
+      { src: "/media/morgan-supersport-2025-precio-ficha-tecnica-hunt1.webp", alt: "Supersport (foto: Morgan Motor Company (prensa oficial) vía The Zenith Magazine, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/morgan-supersport-2025-precio-ficha-tecnica-hunt2.webp", alt: "Supersport (foto: Morgan Motor Company (prensa oficial) vía Autonoción, licencia desconocida)", ancho: 1130, alto: 848 },
+      { src: "/media/morgan-supersport-2025-precio-ficha-tecnica-hunt3.webp", alt: "Supersport (foto: Morgan Motor Company (prensa oficial) vía Carsales, licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     garantiaBateriaAnos: null,
     garantiaBateriaDegradacionPct: null,

@@ -91,6 +91,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 770,
         alto: 578,
       },
+      { src: "/media/jaecoo-5-gasolina-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Jaecoo (prensa) vía ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/jaecoo-5-gasolina-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Jaecoo (prensa) vía ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/jaecoo-5-gasolina-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Jaecoo (prensa) vía ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
     ],
   },
   {
@@ -176,6 +179,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 676,
       },
+      { src: "/media/dfsk-glory-580-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: DFSK Motors España (web oficial), licencia desconocida)", ancho: 680, alto: 382 },
+      { src: "/media/dfsk-glory-580-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: DFSK (prensa oficial) vía Buscouncoche, licencia desconocida)", ancho: 1500, alto: 890 },
+      { src: "/media/dfsk-glory-580-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: DFSK (prensa oficial) vía Mega Autos, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
   },
   {
@@ -258,6 +264,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1600,
         alto: 1200,
       },
+      { src: "/media/aito-m8-erev-2025-precio-ficha-tecnica-hunt1.webp", alt: "M8 EREV (foto: Aito / Carscoops, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/aito-m8-erev-2025-precio-ficha-tecnica-hunt2.webp", alt: "M8 EREV (foto: MIIT / CarNewsChina, licencia desconocida)", ancho: 1192, alto: 794 },
+      { src: "/media/aito-m8-erev-2025-precio-ficha-tecnica-hunt3.webp", alt: "M8 EREV (foto: Wancheng EV Car (foto real de exposición), licencia desconocida)", ancho: 1000, alto: 750 },
     ],
   },
   {
@@ -342,6 +351,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: EspacioFurgo (prueba real), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: EspacioFurgo (prueba real), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/maxus-edeliver-3-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: EspacioFurgo (prueba real), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
   },
   {
@@ -427,6 +439,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1600,
         alto: 1192,
       },
+      { src: "/media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 12 meses (foto: Maxus / Pós-Venda, licencia desconocida)", ancho: 624, alto: 397 },
+      { src: "/media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 12 meses (foto: Maxus / Revista Car, licencia desconocida)", ancho: 1600, alto: 1114 },
+      { src: "/media/maxus-deliver-7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 12 meses (foto: PruebasCoches, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
   },
   {
@@ -511,6 +526,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1005,
         alto: 802,
       },
+      { src: "/media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: SAIC Maxus (web oficial global), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: SAIC Maxus (web oficial global), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/maxus-edeliver-5-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: SAIC Maxus (web oficial global) — render oficial del fabricante, licencia desconocida)", ancho: 1600, alto: 937 },
     ],
   },
   {
@@ -595,6 +613,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1600,
         alto: 1066,
       },
+      { src: "/media/xpeng-p7-plus-long-range-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Xpeng (foto oficial de prensa, julio 2024) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/xpeng-p7-plus-long-range-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Xpeng (foto oficial de prensa, julio 2024) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/xpeng-p7-plus-long-range-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Xpeng (web oficial xpeng.com, página del P7+ en Finlandia), licencia desconocida)", ancho: 1012, alto: 760 },
     ],
   },
   {
@@ -679,6 +700,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1508,
         alto: 1130,
       },
+      { src: "/media/zeekr-001-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Zeekr (prensa oficial) vía CnEVPost, licencia desconocida)", ancho: 1200, alto: 698 },
+      { src: "/media/zeekr-001-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Zeekr (prensa oficial) vía CnEVPost, licencia desconocida)", ancho: 1200, alto: 682 },
+      { src: "/media/zeekr-001-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Zeekr (prensa oficial) vía CnEVPost — imagen oficial del fabricante, licencia desconocida)", ancho: 1200, alto: 712 },
     ],
   },
   {
@@ -726,9 +750,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Zeekr Europa, página oficial Zeekr Care (zeekr.eu/care, verificada el 22/10/2026): servicio cada dos años o 40.000 km; tabla oficial de mantenimiento de Zeekr con inspección, filtro de habitáculo, líquido de frenos, refrigerante y aceite del reductor. Sin precios oficiales publicados, por eso los costes quedan sin dato.", "intervalo": "Cada 2 años o 40.000 km en Europa (plan oficial Zeekr Care), lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 2 años o 40.000 km", "queSeCambia": "Inspección general programada con sustitución del filtro del habitáculo y comprobación o sustitución, según la tabla oficial Zeekr, del líquido de frenos, el refrigerante y el aceite del reductor trasero en esta versión de tracción trasera"}, {"costeAproxEur": null, "nombre": "Revisiones programadas siguientes cada 2 años o 40.000 km", "queSeCambia": "Repetición de la inspección oficial con los mismos puntos de control: filtro del habitáculo, líquido de frenos, refrigerante y lubricante del reductor, siempre en centro autorizado Zeekr para conservar la garantía ampliada"}]},
     galeria: [
-      
-      
-      
+      { src: "/media/zeekr-x-2025-precio-ficha-tecnica-hunt1.webp", alt: "X 2025 (foto: Zeekr vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/zeekr-x-2025-precio-ficha-tecnica-hunt2.webp", alt: "X 2025 (foto: Zeekr vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/zeekr-x-2025-precio-ficha-tecnica-hunt3.webp", alt: "X 2025 (foto: Zeekr vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
     ],
   },
   {
@@ -778,9 +802,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Zeekr Europa para eléctricos",
     },
     galeria: [
-      
-      
-      
+      { src: "/media/zeekr-007-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: NewAutoPost / Zeekr (prensa), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/zeekr-007-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: CarExpert / Zeekr (prensa), licencia desconocida)", ancho: 1600, alto: 1065 },
+      { src: "/media/zeekr-007-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Carup / Zeekr (prensa), licencia desconocida)", ancho: 1024, alto: 769 },
     ],
   },
   {
@@ -865,6 +889,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/nio-ec6-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: NIO (imagen oficial de lanzamiento, via CnEVPost), licencia desconocida)", ancho: 1200, alto: 678 },
+      { src: "/media/nio-ec6-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: NIO (imagen oficial de lanzamiento, via CnEVPost), licencia desconocida)", ancho: 1200, alto: 676 },
+      { src: "/media/nio-ec6-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Wancheng EV Car (foto real de unidad EC6 2025), licencia desconocida)", ancho: 1000, alto: 750 },
     ],
   },
   {
@@ -949,6 +976,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/nio-el8-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: NIO (web oficial), licencia desconocida)", ancho: 1240, alto: 849 },
+      { src: "/media/nio-el8-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: NIO (web oficial), licencia desconocida)", ancho: 1600, alto: 927 },
+      { src: "/media/nio-el8-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: NIO (web oficial), licencia desconocida)", ancho: 1600, alto: 1286 },
     ],
   },
   {
@@ -998,9 +1028,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Plan orientativo Denza/BYD para eléctricos",
     },
     galeria: [
-      
-      
-      
+      { src: "/media/denza-n7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza (prensa oficial) vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 580 },
+      { src: "/media/denza-n7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza (prensa oficial) vía CarNewsChina, licencia desconocida)", ancho: 800, alto: 592 },
+      { src: "/media/denza-n7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza (prensa oficial) vía CarNewsChina, licencia desconocida)", ancho: 1122, alto: 686 },
     ],
   },
   {
@@ -1063,7 +1093,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      
+      { src: "/media/lynk-co-01-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Lynk & Co (foto de prensa oficial 01P_Exterior_Mineral-green_04, vía Megautos), licencia desconocida)", ancho: 768, alto: 502 },
+      { src: "/media/lynk-co-01-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Lynk & Co (foto de prensa oficial, vía Moniteur Automobile), licencia desconocida)", ancho: 600, alto: 315 },
+      { src: "/media/lynk-co-01-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Lynk & Co (foto de prensa oficial, vía ActualidadMotor), licencia desconocida)", ancho: 1500, alto: 900 },
     ],
   },
   {
@@ -1247,6 +1279,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/leapmotor-c10-reev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Leapmotor / Stellantis (prensa, vía NewsAuto), licencia desconocida)", ancho: 780, alto: 470 },
+      { src: "/media/leapmotor-c10-reev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Leapmotor / Stellantis (prensa, vía NewsAuto), licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/leapmotor-c10-reev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Leapmotor / Stellantis (prensa, vía NewsAuto), licencia desconocida)", ancho: 1024, alto: 683 },
     ],
   },
   {
@@ -1314,7 +1349,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
-      
+      { src: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: CarNewsChina / Lynk & Co, licencia desconocida)", ancho: 800, alto: 532 },
+      { src: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: AutoIndustriya / Lynk & Co, licencia desconocida)", ancho: 768, alto: 512 },
+      { src: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autowereld, licencia desconocida)", ancho: 1440, alto: 960 },
     ],
   },
   {
@@ -1400,6 +1437,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/dfsk-f5-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/dfsk-f5-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Carwow España, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/dfsk-f5-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autonoción, licencia desconocida)", ancho: 1650, alto: 1100 },
     ],
   },
   {
@@ -1485,6 +1525,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/omoda-5-shs-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Omoda (foto de prensa oficial) vía Rutamotor, licencia desconocida)", ancho: 1170, alto: 784 },
+      { src: "/media/omoda-5-shs-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Omoda (foto de prensa) vía Autotypos, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/omoda-5-shs-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Parkers (prueba del Omoda 5 Hybrid), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
   },
   {
@@ -1569,6 +1612,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/leapmotor-t03-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: El Periódico de la Energía / Leapmotor-Stellantis, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/leapmotor-t03-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/leapmotor-t03-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: NearCharger / Leapmotor, licencia desconocida)", ancho: 1536, alto: 864 },
     ],
   },
   {
@@ -1636,9 +1682,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      
-      
-      
+      { src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Denza / BYD (material oficial de prensa, vía The EV Report), licencia desconocida)", ancho: 2560, alto: 1535 },
+      { src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/denza-d9-dm-i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
   },
   {
@@ -1706,9 +1752,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       fuente: "Intervalo estándar Denza/BYD",
     },
     galeria: [
-      
-      
-      
+      { src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Gaztormoz / Dongchedi (anuncio de unidad real Z9 DM), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Gaztormoz / Dongchedi (anuncio de unidad real Z9 DM), licencia desconocida)", ancho: 1600, alto: 1200 },
+      { src: "/media/denza-z9-dm-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Denza / CarNewsChina, licencia desconocida)", ancho: 800, alto: 450 },
     ],
   },
   {
@@ -1793,6 +1839,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 800,
         alto: 800,
       },
+      { src: "/media/leapmotor-b01-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Leapmotor / CarNewsChina, licencia desconocida)", ancho: 800, alto: 492 },
+      { src: "/media/leapmotor-b01-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: MIIT (China) vía Electrive, licencia desconocida)", ancho: 700, alto: 466 },
+      { src: "/media/leapmotor-b01-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Leapmotor (prensa oficial) vía Híbridos y Eléctricos, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
   },
   {
@@ -1877,6 +1926,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 768,
         alto: 576,
       },
+      { src: "/media/denza-z9-gt-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/denza-z9-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/denza-z9-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Denza / RACV, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
   },
   {
@@ -1959,6 +2011,9 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
         ancho: 915,
         alto: 450,
       },
+      { src: "/media/evo-cuatro-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cuatro 1.5T (foto: EVO España / DR Automobiles (landing oficial), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-cuatro-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cuatro 1.5T (foto: Fercam (concesionario oficial EVO/DR), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-cuatro-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cuatro 1.5T (foto: Auto EVO España (web oficial del modelo), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
   },
 ];

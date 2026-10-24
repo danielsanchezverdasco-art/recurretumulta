@@ -57,7 +57,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Zero colabora con Hero MotoCorp para desarrollar futuras plataformas eléctricas",
       "En Europa la garantía la respalda la aseguradora Real Garant Zurich",
     ],
-    imagen: "/media/motos/zero-sr-s-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/zero-sr-s-2025-ficha-tecnica-precio/zero-sr-s-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/motos/zero-sr-s-2025-ficha-tecnica-precio-2.webp",
@@ -66,7 +66,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/zero-sr-s-2025-ficha-tecnica-precio-1.webp",
+        src: "/media/fotos-reales/zero-sr-s-2025-ficha-tecnica-precio/zero-sr-s-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Zero SR/S 2025, vista tres cuartos",
         ancho: 1200,
         alto: 800,
@@ -123,7 +123,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     imagen: "/media/motos/zero-dsr-x-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/zero-dsr-x-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/zero-dsr-x-2025-ficha-tecnica-precio/zero-dsr-x-2025-ficha-tecnica-precio-real-2.webp",
         alt: "Zero DSR/X 2025, detalle",
         ancho: 1200,
         alto: 800,

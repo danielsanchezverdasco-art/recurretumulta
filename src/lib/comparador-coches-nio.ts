@@ -78,7 +78,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio ET5 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-et5-2025-precio-ficha-tecnica-hunt1.webp", alt: "ET5 (foto: conceptphoto.info / Wikimedia Commons, licencia CC BY 2.0)", ancho: 1280, alto: 855 },
+      { src: "/media/nio-et5-2025-precio-ficha-tecnica-hunt2.webp", alt: "ET5 (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 783 },
+      { src: "/media/nio-et5-2025-precio-ficha-tecnica-hunt3.webp", alt: "ET5 (foto: Zotyefan / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 960 },
     ],
     planMantenimiento: {"intervalo": "Sin revisión anual única fijada en el manual europeo: NIO prescribe operaciones por componente según tiempo o kilometraje, a realizar en un NIO Service Center", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución completa del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Refrigerante del sistema de propulsión", "queSeCambia": "Comprobación como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si no cumple el estándar técnico de NIO; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste como máximo al 5.º año o a los 100.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste como máximo al 10.º año o a los 200.000 km, lo primero que ocurra, y sustitución solo si es necesaria; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución cada 200.000 km"}]},
   },
@@ -148,7 +151,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio ET5 Touring 2025, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-et5-touring-2025-precio-ficha-tecnica-hunt1.webp", alt: "ET5 Touring (foto: NIO (foto oficial de prensa) vía Auto Express, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/nio-et5-touring-2025-precio-ficha-tecnica-hunt2.webp", alt: "ET5 Touring (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 854 },
+      { src: "/media/nio-et5-touring-2025-precio-ficha-tecnica-hunt3.webp", alt: "ET5 Touring (foto: 3ve-blog.de (prueba del NIO ET5 Touring), licencia desconocida)", ancho: 1280, alto: 960 },
     ],
     planMantenimiento: {"intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución solo si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 5.º año o a los 100.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 10.º año o a los 200.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}]},
   },
@@ -218,7 +224,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio ET7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-et7-2024-precio-ficha-tecnica-hunt1.webp", alt: "ET7 (foto: NIO (web oficial, carpeta ET7 2024), licencia desconocida)", ancho: 2560, alto: 1280 },
+      { src: "/media/nio-et7-2024-precio-ficha-tecnica-hunt2.webp", alt: "ET7 (foto: Carwow Deutschland, licencia desconocida)", ancho: 1125, alto: 633 },
+      { src: "/media/nio-et7-2024-precio-ficha-tecnica-hunt3.webp", alt: "ET7 (foto: Carwow (material de prensa NIO), licencia desconocida)", ancho: 1366, alto: 768 },
     ],
   },
   {
@@ -287,7 +296,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio EL6, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-el6-2024-precio-ficha-tecnica-hunt1.webp", alt: "EL6 (foto: NIO (web oficial), licencia desconocida)", ancho: 1600, alto: 800 },
+      { src: "/media/nio-el6-2024-precio-ficha-tecnica-hunt2.webp", alt: "EL6 (foto: NIO (web oficial), licencia desconocida)", ancho: 1600, alto: 1286 },
+      { src: "/media/nio-el6-2024-precio-ficha-tecnica-hunt3.webp", alt: "EL6 (foto: NIO (web oficial), licencia desconocida)", ancho: 1600, alto: 1286 },
     ],
     planMantenimiento: {"intervalo": "Según el manual oficial del EL6, no hay una revisión única anual: cada elemento sigue su propio plazo en el NIO Service Center (líquido de frenos cada 3 años; aceite de la caja de cambios cada 200.000 km; controles de refrigerante, pastillas y discos por años o kilometraje, lo que ocurra antes).", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 10.º año o a los 200.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}]},
   },
@@ -357,7 +369,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio EL7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-el7-2024-precio-ficha-tecnica-hunt1.webp", alt: "EL7 (foto: NIO (web oficial europea), licencia desconocida)", ancho: 1600, alto: 995 },
+      { src: "/media/nio-el7-2024-precio-ficha-tecnica-hunt2.webp", alt: "EL7 (foto: NIO (web oficial europea), licencia desconocida)", ancho: 1600, alto: 960 },
+      { src: "/media/nio-el7-2024-precio-ficha-tecnica-hunt3.webp", alt: "EL7 (foto: NIO (web oficial europea), licencia desconocida)", ancho: 1600, alto: 995 },
     ],
     planMantenimiento: {"intervalo": "Según el manual oficial del EL7: líquido de frenos cada 3 años; comprobación de refrigerante y de pastillas a más tardar al 5.º año o a los 100.000 km; comprobación de discos al 10.º año o a los 200.000 km; aceite de la caja de cambios cada 200.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL7"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si no cumple el estándar de Nio; si no se cambia, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar al 5.º año o a los 100.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar al 10.º año o a los 200.000 km, lo que llegue antes, y sustitución solo si es necesaria; si no se cambian, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL7"}]},
   },
@@ -439,7 +454,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio EL8, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-el8-2024-precio-ficha-tecnica-hunt1.webp", alt: "EL8 (foto: Nio (foto de prensa oficial) vía Carwow, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/nio-el8-2024-precio-ficha-tecnica-hunt2.webp", alt: "EL8 (foto: Nio (web oficial), licencia desconocida)", ancho: 1200, alto: 720 },
+      { src: "/media/nio-el8-2024-precio-ficha-tecnica-hunt3.webp", alt: "EL8 (foto: Nio (kit de prensa oficial Prezly), licencia desconocida)", ancho: 2048, alto: 1365 },
     ],
   },
   {
@@ -520,7 +538,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio EC6 2024, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-ec6-2024-precio-ficha-tecnica-hunt1.webp", alt: "EC6 (foto: NIO (web oficial), licencia desconocida)", ancho: 2560, alto: 1280 },
+      { src: "/media/nio-ec6-2024-precio-ficha-tecnica-hunt2.webp", alt: "EC6 (foto: Autohome vía Car250, licencia desconocida)", ancho: 1400, alto: 1050 },
+      { src: "/media/nio-ec6-2024-precio-ficha-tecnica-hunt3.webp", alt: "EC6 (foto: Autohome vía Car250, licencia desconocida)", ancho: 1400, alto: 1050 },
     ],
   },
   {
@@ -601,7 +622,10 @@ export const COCHES_NIO: CocheComparador[] = [
         "alt": "Nio EC7, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nio-ec7-2024-precio-ficha-tecnica-hunt1.webp", alt: "EC7 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/nio-ec7-2024-precio-ficha-tecnica-hunt2.webp", alt: "EC7 (foto: S5A-0043 / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 1280 },
+      { src: "/media/nio-ec7-2024-precio-ficha-tecnica-hunt3.webp", alt: "EC7 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
     ],
   },
   {

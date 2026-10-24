@@ -34,7 +34,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia RS 660 Factory 2026, vista lateral",
         ancho: 900,
         alto: 675,
-      }
+      },
+      { src: "/media/aprilia-rs-660-factory-2026-hunt1.webp", alt: "RS 660 Factory (foto: Aprilia (prensa oficial) / Rider Magazine, licencia desconocida)", ancho: 696, alto: 464 },
+      { src: "/media/aprilia-rs-660-factory-2026-hunt2.webp", alt: "RS 660 Factory (foto: Aprilia (prensa oficial) / Rider Magazine, licencia desconocida)", ancho: 696, alto: 464 },
+      { src: "/media/aprilia-rs-660-factory-2026-hunt3.webp", alt: "RS 660 Factory (foto: Aprilia (prensa oficial) / Rider Magazine, licencia desconocida)", ancho: 696, alto: 464 },
     ],
     videoId: null,
     videoCanal: null,
@@ -75,7 +78,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia RSV4 Factory 2026, vista lateral",
         ancho: 1200,
         alto: 740,
-      }
+      },
+      { src: "/media/aprilia-rsv4-factory-2026-hunt1.webp", alt: "Revisión periódica (foto: Aprilia (foto oficial MY26), licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/aprilia-rsv4-factory-2026-hunt2.webp", alt: "Revisión periódica (foto: Aprilia (foto oficial MY26), licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/aprilia-rsv4-factory-2026-hunt3.webp", alt: "Revisión periódica (foto: Aprilia (foto oficial MY26) vía Motocentrum Barth, licencia desconocida)", ancho: 686, alto: 515 },
     ],
     videoId: null,
     videoCanal: null,
@@ -127,7 +133,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia RX 125 2026, vista lateral",
         ancho: 920,
         alto: 566,
-      }
+      },
+      { src: "/media/aprilia-rx-125-2026-hunt1.webp", alt: "Revisión periódica (foto: Aprilia / Piaggio (asset oficial, galería RX 125 2025, color blanco/violeta), licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/aprilia-rx-125-2026-hunt2.webp", alt: "Revisión periódica (foto: K2 Moto (concesionario CZ), ficha «Aprilia RX 125 Varanus Black 2025», licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/aprilia-rx-125-2026-hunt3.webp", alt: "Revisión periódica (foto: 1000PS (galería Aprilia RX 125 2025, material de prensa Aprilia), licencia desconocida)", ancho: 992, alto: 558 },
     ],
     videoId: null,
     videoCanal: null,
@@ -179,7 +188,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia SR GT 200 2026, vista lateral",
         ancho: 1200,
         alto: 799,
-      }
+      },
+      { src: "/media/aprilia-sr-gt-200-2026-hunt1.webp", alt: "Revisión periódica (foto: Motoboom / TipMoto (anuncio Aprilia SR GT 200 EU5+ nueva 2026; foto de producto Aprilia), licencia desconocida)", ancho: 1600, alto: 1143 },
+      { src: "/media/aprilia-sr-gt-200-2026-hunt2.webp", alt: "Revisión periódica (foto: Motoboom / TipMoto (anuncio Aprilia SR GT 200 EU5+ nueva 2026; foto de producto Aprilia), licencia desconocida)", ancho: 1600, alto: 1143 },
+      { src: "/media/aprilia-sr-gt-200-2026-hunt3.webp", alt: "Revisión periódica (foto: TipMoto (anuncio Aprilia SR GT 200 Opalescent Light nueva 2026; foto de producto Aprilia), licencia desconocida)", ancho: 600, alto: 400 },
     ],
     videoId: null,
     videoCanal: null,
@@ -231,7 +243,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia SX 125 2026, vista lateral",
         ancho: 650,
         alto: 650,
-      }
+      },
+      { src: "/media/aprilia-sx-125-2026-hunt1.webp", alt: "SX 125 (foto: Passione 2 Ruote Moto Store (concesionario Aprilia, foto de producto SX 125), licencia desconocida)", ancho: 980, alto: 750 },
+      { src: "/media/aprilia-sx-125-2026-hunt2.webp", alt: "SX 125 (foto: Leupi Moto (MotoScout24, anuncio Aprilia SX 125 E5+), licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/aprilia-sx-125-2026-hunt3.webp", alt: "SX 125 (foto: Leupi Moto (MotoScout24, anuncio Aprilia SX 125 E5+), licencia desconocida)", ancho: 1920, alto: 1440 },
     ],
     videoId: null,
     videoCanal: null,
@@ -272,7 +287,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia Tuareg 660 Rally 2026, vista lateral",
         ancho: 1200,
         alto: 900,
-      }
+      },
+      { src: "/media/aprilia-tuareg-660-rally-2026-hunt1.webp", alt: "Revisión periódica (foto: Aprilia / prensa oficial, vía Ultimate Motorcycling (galería Aprilia Tuareg Rally), licencia desconocida)", ancho: 1620, alto: 1080 },
+      { src: "/media/aprilia-tuareg-660-rally-2026-hunt2.webp", alt: "Revisión periódica (foto: Aprilia / prensa oficial, vía Ultimate Motorcycling (galería Aprilia Tuareg Rally), licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/aprilia-tuareg-660-rally-2026-hunt3.webp", alt: "Revisión periódica (foto: Aprilia / prensa oficial, vía Ultimate Motorcycling (galería Aprilia Tuareg Rally), licencia desconocida)", ancho: 1620, alto: 1080 },
     ],
     videoId: null,
     videoCanal: null,
@@ -328,7 +346,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Aprilia Tuono 660 Factory 2026, vista lateral",
         ancho: 920,
         alto: 566,
-      }
+      },
+      { src: "/media/aprilia-tuono-660-factory-2026-hunt1.webp", alt: "Revisión periódica (foto: Aprilia (galería oficial), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     videoId: null,
     videoCanal: null,
@@ -380,7 +399,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benda Rock 300 2026, vista lateral",
         ancho: 1168,
         alto: 664,
-      }
+      },
+      { src: "/media/benda-rock-300-2026-hunt1.webp", alt: "Rock 300 (foto: Benda (foto oficial) vía Kurazh Sport, licencia desconocida)", ancho: 750, alto: 499 },
     ],
     videoId: null,
     videoCanal: null,
@@ -421,7 +441,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli Imperiale 400 2026, vista lateral",
         ancho: 1200,
         alto: 711,
-      }
+      },
+      { src: "/media/benelli-imperiale-400-2026-hunt1.webp", alt: "Imperiale 400 (foto: Benelli (foto de prensa) vía Autobics, licencia desconocida)", ancho: 1280, alto: 855 },
     ],
     videoId: null,
     videoCanal: null,
@@ -462,7 +483,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli Leoncino 800 Trail 2026, vista lateral",
         ancho: 1200,
         alto: 740,
-      }
+      },
+      { src: "/media/benelli-leoncino-800-trail-2026-hunt1.webp", alt: "Revisión cada 6.000 km (foto: 1000PS / Benelli, licencia desconocida)", ancho: 1200, alto: 740 },
     ],
     videoId: null,
     videoCanal: null,
@@ -514,7 +536,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli Tornado 500 2025, vista lateral",
         ancho: 1200,
         alto: 991,
-      }
+      },
+      { src: "/media/benelli-tornado-500-2025-hunt1.webp", alt: "Revisión cada 6.000 km (foto: Benelli / Moteo (Benelli Belgica, foto oficial EICMA 2023), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/benelli-tornado-500-2025-hunt2.webp", alt: "Revisión cada 6.000 km (foto: 1000PS / motorrad-bilder.at (foto de prensa Benelli), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/benelli-tornado-500-2025-hunt3.webp", alt: "Revisión cada 6.000 km (foto: Motomag Grecia (foto de prensa Benelli), licencia desconocida)", ancho: 1100, alto: 733 },
     ],
     videoId: null,
     videoCanal: null,
@@ -566,7 +591,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli TRK 502 2026, vista lateral",
         ancho: 800,
         alto: 450,
-      }
+      },
+      { src: "/media/benelli-trk-502-2026-hunt1.webp", alt: "Revisión cada 6.000 km (foto: Benelli (foto oficial, vía Moto Avilon), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     videoId: null,
     videoCanal: null,
@@ -618,7 +644,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli TRK 502 X 2026, vista lateral",
         ancho: 600,
         alto: 450,
-      }
+      },
+      { src: "/media/benelli-trk-502x-2026-hunt1.webp", alt: "Revisión cada 6.000 km (foto: Objectif Moto, licencia desconocida)", ancho: 1024, alto: 678 },
     ],
     videoId: null,
     videoCanal: null,
@@ -670,7 +697,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "Benelli TRK 702 2026, vista lateral",
         ancho: 1000,
         alto: 650,
-      }
+      },
+      { src: "/media/benelli-trk-702-2026-hunt1.webp", alt: "TRK 702 (foto: Benelli (foto oficial de catálogo) vía 1000PS, licencia desconocida)", ancho: 1400, alto: 1000 },
+      { src: "/media/benelli-trk-702-2026-hunt2.webp", alt: "TRK 702 (foto: Benelli vía carandbike, licencia desconocida)", ancho: 1000, alto: 600 },
     ],
     videoId: null,
     videoCanal: null,
@@ -711,7 +740,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad C 400 X 2026, vista lateral",
         ancho: 600,
         alto: 360,
-      }
+      },
+      { src: "/media/bmw-c-400-x-2026-hunt1.webp", alt: "C 400 X (foto: BMW Motorrad (foto de prensa oficial, vía MotoNewsWorld), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/bmw-c-400-x-2026-hunt2.webp", alt: "C 400 X (foto: BMW Motorrad (foto de prensa oficial, vía MotoNewsWorld), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/bmw-c-400-x-2026-hunt3.webp", alt: "C 400 X (foto: BMW Group PressClub (foto P90571792, vía BMW Motorrad CO2 Moto), licencia desconocida)", ancho: 1200, alto: 848 },
     ],
     videoId: null,
     videoCanal: null,
@@ -752,7 +784,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad CE 02 2026, vista lateral",
         ancho: 768,
         alto: 462,
-      }
+      },
+      { src: "/media/bmw-ce-02-2026-hunt1.webp", alt: "Revisión menor (10.000 km) (foto: BMW Group PressClub (foto oficial P90512794), licencia desconocida)", ancho: 2249, alto: 1500 },
     ],
     videoId: null,
     videoCanal: null,
@@ -809,7 +842,10 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad F 900 GS Adventure 2026, vista lateral",
         ancho: 930,
         alto: 523,
-      }
+      },
+      { src: "/media/bmw-f-900-gs-adventure-2026-hunt1.webp", alt: "F 900 GS Adventure (foto: BMW Motorrad / BMW Group Press (foto oficial de prensa P90520397), licencia desconocida)", ancho: 2250, alto: 1500 },
+      { src: "/media/bmw-f-900-gs-adventure-2026-hunt2.webp", alt: "F 900 GS Adventure (foto: BMW Motorrad / BMW Group Press (foto oficial de prensa P90520398), licencia desconocida)", ancho: 2250, alto: 1500 },
+      { src: "/media/bmw-f-900-gs-adventure-2026-hunt3.webp", alt: "F 900 GS Adventure (foto: BMW Motorrad / BMW Group Press (foto oficial de prensa P90520399), licencia desconocida)", ancho: 2250, alto: 1500 },
     ],
     videoId: null,
     videoCanal: null,
@@ -850,7 +886,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad F 900 R 2026, vista lateral",
         ancho: 1200,
         alto: 960,
-      }
+      },
+      { src: "/media/bmw-f-900-r-2026-hunt1.webp", alt: "F 900 R (foto: BMW Motorrad (foto de prensa) vía Ultimate Motorcycling, licencia desconocida)", ancho: 630, alto: 420 },
+      { src: "/media/bmw-f-900-r-2026-hunt2.webp", alt: "F 900 R (foto: BMW Motorrad (foto oficial de concesionario, código P0N4U) vía BMW Motorrad Ucrania, licencia desconocida)", ancho: 640, alto: 360 },
     ],
     videoId: null,
     videoCanal: null,
@@ -891,7 +929,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad G 310 GS 2025, vista lateral",
         ancho: 800,
         alto: 400,
-      }
+      },
+      { src: "/media/bmw-g-310-gs-2025-hunt1.webp", alt: "G 310 GS (foto: BMW Motorrad (foto oficial de estudio) vía WebBikeWorld, licencia desconocida)", ancho: 1600, alto: 1131 },
     ],
     videoId: null,
     videoCanal: null,
@@ -932,7 +971,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad G 310 R 2025, vista lateral",
         ancho: 1200,
         alto: 400,
-      }
+      },
+      { src: "/media/bmw-g-310-r-2025-hunt1.webp", alt: "G 310 R (foto: Erluw / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1000, alto: 562 },
     ],
     videoId: null,
     videoCanal: null,
@@ -973,7 +1013,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad M 1000 RR 2026, vista lateral",
         ancho: 1200,
         alto: 708,
-      }
+      },
+      { src: "/media/bmw-m-1000-rr-2026-hunt1.webp", alt: "M 1000 RR (foto: BMW Motorrad (foto de prensa) vía Careta.my, licencia desconocida)", ancho: 2048, alto: 1366 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1014,7 +1055,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad R 12 S 2026, vista lateral",
         ancho: 1029,
         alto: 686,
-      }
+      },
+      { src: "/media/bmw-r-12-s-2026-hunt1.webp", alt: "Revisión menor (10.000 km) (foto: BMW Motorrad (foto de prensa oficial) vía Ultimate Motorcycling, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1071,7 +1113,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
         alt: "BMW Motorrad R 18 Classic 2025, vista lateral",
         ancho: 1200,
         alto: 525,
-      }
+      },
+      { src: "/media/bmw-r-18-classic-2025-hunt1.webp", alt: "R 18 Classic (foto: BMW Group Press (prensa oficial BMW Motorrad), licencia desconocida)", ancho: 600, alto: 424 },
     ],
     videoId: null,
     videoCanal: null,
@@ -1106,7 +1149,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     contras: ["Los 21.780 euros de partida crecen rápido en la tarifa de Motofichas 2026: acabado Sport, paquete Dynamic, paquete Touring y paquete M se pagan aparte, con el M por encima de 3.700 euros", "Asiento a 850 mm en la versión 2024-2026, 10 mm más alto que el de 2020-2023: quien mida poco dependerá de las alturas alternativas o del kit de rebaja", "Transmisión secundaria por cadena en una moto de viaje de 170 CV: tensado, limpieza y engrase frecuentes donde una R 1300 GS ofrece cardán", "El cuatro en línea entrega su mejor cara arriba, con la potencia máxima a 11.000 rpm, y pide estirar marchas frente a bicilíndricas con más empuje a medio régimen", "La revisión grande llega cada 30.000 km con comprobación de válvulas y distribución, cambio de bujías y aceite de horquilla: es la visita cara del plan BMW"],
     curiosidades: ["Presentada en el EICMA de 2014 y comercializada en 2015 como derivada de la naked S 1000 R, compartiendo el cuatro en línea de la familia S 1000 RR pero con geometrías más turísticas y basculante más largo", "La segunda generación de 2020 estrenó motor procedente de la S 1000 RR y chasis nuevo, rebajó unos 10 kg y ya incorporó el bastidor Flex Frame de aluminio", "En 2024 ganó 5 CV hasta los 170 CV, rediseñó el asiento y la zaga con tomas de aire de competición, pintó el pico en el color de la carrocería y convirtió en equipamiento de serie el Headlight Pro, el Keyless Ride y la toma USB", "Para 2026 Motofichas recoge un nuevo color verde metalizado que sustituye al azul, mientras la base sirve también para la radical M 1000 XR"],
     imagen: "/media/bmw-s-1000-xr-2026-hero.webp",
-    galeria: [],
+    galeria: [
+      { src: "/media/bmw-s-1000-xr-2026-hunt1.webp", alt: "S 1000 XR (foto: BMW Motorrad (prensa oficial, vía Roadracing World), licencia desconocida)", ancho: 1920, alto: 961 },
+    ],
     videoId: null,
     videoCanal: null,
     fuenteNombre: "Motofichas",
@@ -1149,6 +1194,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/can-am-origin-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/can-am-origin-2026-ficha-tecnica-precio-2.webp", alt: "Can-Am Origin 2026, detalle", ancho: 661, alto: 495 },
+      { src: "/media/can-am-origin-2026-ficha-tecnica-precio-hunt1.webp", alt: "Origin (foto: GearJunkie (evento de prensa de BRP en Austin; foto real de la Origin con defensas accesorio), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/can-am-origin-2026-ficha-tecnica-precio-hunt2.webp", alt: "Origin (foto: Ultimate Motorcycling (prueba de la Can-Am Origin dual-sport), licencia desconocida)", ancho: 1068, alto: 712 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"}]},
@@ -1186,6 +1233,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/can-am-pulse-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/can-am-pulse-2026-ficha-tecnica-precio-2.webp", alt: "Can-Am Pulse 2026, detalle", ancho: 1237, alto: 927 },
+      { src: "/media/can-am-pulse-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Can-Am / BRP (can-am.brp.com, material MY26), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/can-am-pulse-2026-ficha-tecnica-precio-hunt2.webp", alt: "Revisión anual (foto: Scholly Motorrad / BRP (cabecera Can-Am Pulse 2026), licencia desconocida)", ancho: 2560, alto: 1707 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1230,6 +1279,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 300NK 2026, detalle", ancho: 1600, alto: 1120 },
+      { src: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-hunt1.webp", alt: "300NK (foto: CFMoto Australia (página oficial del modelo 300NK) vía Mojo Motorcycles, licencia desconocida)", ancho: 1440, alto: 990 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"}]},
@@ -1267,6 +1317,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/cfmoto-300sr-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/cfmoto-300sr-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 300SR 2026, detalle", ancho: 500, alto: 500 },
+      { src: "/media/cfmoto-300sr-2026-ficha-tecnica-precio-hunt1.webp", alt: "300SR (foto: Bikesales Australia (foto de prensa CFMoto del lanzamiento de la 300SR), licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario CFMoto 300SR en castellano, tablas de mantenimiento en rodaje (1.000 km) y periódico: aceite y filtro 6 meses/5.000 km, bujía cambio a 10.000 km, filtro de aire cambio a 20.000 km/24 meses, refrigerante 35.000 km/24 meses y holgura de válvulas a 40.000 km", "intervalo": "Rodaje a los 1.000 km y después aceite de motor y filtro cada 6 meses o 5.000 km, lo que ocurra antes, según el manual de usuario de la 300SR", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje a los 1.000 km", "queSeCambia": "Cambio de aceite de motor y filtro, limpieza del colador de aceite y revisión de refrigerante, ralentí, frenos, batería y funciones eléctricas según la tabla de rodaje del manual"}, {"costeAproxEur": null, "nombre": "Revisión periódica cada 5.000 km o 6 meses", "queSeCambia": "Cambio de aceite y filtro, limpieza del colador, limpieza del filtro de aire, revisión de bujía, embrague, sistema de aceleración, batería y fusibles según la tabla periódica del manual"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km", "queSeCambia": "Cambio de bujía, revisión de ralentí, partes eléctricas y cables a los 12 meses o 10.000 km, y controles de neumáticos, frenos y suspensión previstos en el manual"}, {"costeAproxEur": null, "nombre": "Intervenciones largas del manual", "queSeCambia": "Cambio del filtro de aire a los 20.000 km o 24 meses, cambio de refrigerante a los 35.000 km o 24 meses y revisión de la holgura de válvulas a los 40.000 km, sin coste publicado para España"}]},
@@ -1304,6 +1355,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-2.webp", alt: "CFMoto 650NK 2025, detalle", ancho: 1110, alto: 770 },
+      { src: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-hunt1.webp", alt: "650NK (foto: CFMoto Canada oficial, licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"}]},
@@ -1341,6 +1393,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 675SR-R 2026, detalle", ancho: 1600, alto: 973 },
+      { src: "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-hunt1.webp", alt: "675SR-R (foto: CFMOTO Deutschland (web oficial), licencia desconocida)", ancho: 1200, alto: 1500 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R de maintenanceschedule.com (intervalo base 10.000 km o 12 meses, rodaje a los 1.000 km y holgura de válvulas a los 40.000 km). Sin costes: ninguna fuente consultada publica un precio de revisión para España.", "intervalo": "Revisión de rodaje a los 1.000 km y después cada 10.000 km o 12 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (1.000 km)", "queSeCambia": "Cambio de aceite de motor y filtro de aceite; inspección de refrigerante, sistema de acelerador, componentes eléctricos, batería, fusibles, discos y pastillas de freno, nivel de líquido de frenos, latiguillos, presión y estado de neumáticos y suspensiones"}, {"costeAproxEur": null, "nombre": "Revisión periódica (cada 10.000 km o 12 meses)", "queSeCambia": "Mantenimiento programado según la tabla específica de la 675SR-R; sin coste publicado en la fuente consultada"}, {"costeAproxEur": null, "nombre": "Revisión de holgura de válvulas (40.000 km)", "queSeCambia": "Inspección de la holgura de válvulas del tricilíndrico; el acceso exige desmontar carenado y depósito, según la guía de mantenimiento del modelo"}]},
@@ -1378,6 +1431,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/cfmoto-800mt-explore-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/cfmoto-800mt-explore-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 800MT Explore 2026, detalle", ancho: 1388, alto: 980 },
+      { src: "/media/cfmoto-800mt-explore-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: CFMOTO Benelux (importador oficial), licencia desconocida)", ancho: 600, alto: 400 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1422,6 +1476,8 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-2.webp", alt: "Ducati DesertX Rally 2025, detalle", ancho: 780, alto: 430 },
+      { src: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Ducati (foto de prensa, código UC592848) vía Bike Travel Adventures, licencia desconocida)", ancho: 1333, alto: 2000 },
+      { src: "/media/ducati-desertx-rally-2025-ficha-tecnica-precio-hunt2.webp", alt: "Revisión anual (foto: Ducati (foto de prensa) vía Careta, licencia desconocida)", ancho: 1000, alto: 747 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1466,6 +1522,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-hypermotard-698-mono-rve-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-hypermotard-698-mono-rve-2025-ficha-tecnica-precio-2.webp", alt: "Ducati Hypermotard 698 Mono RVE 2025, detalle", ancho: 442, alto: 600 },
+      { src: "/media/ducati-hypermotard-698-mono-rve-2025-ficha-tecnica-precio-hunt1.webp", alt: "Hypermotard 698 Mono RVE (foto: Ducati prensa / Paul Tan, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati oficial, ficha técnica Hypermotard 698 Mono: Annual Service 12 meses, Oil Service 15.000 km/24 meses, reglaje de válvulas 30.000 km", "intervalo": "Oil Service cada 15.000 km o 24 meses y Annual Service cada 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Annual Service", "queSeCambia": "Revisión anual de controles, niveles y elementos de seguridad de la Hypermotard 698 Mono, aunque no se hayan alcanzado los kilómetros del Oil Service"}, {"costeAproxEur": null, "nombre": "Oil Service", "queSeCambia": "Cambio de aceite motor y filtro según el plan oficial Ducati de este modelo, con Oil Service programado cada 15.000 km o 24 meses"}, {"costeAproxEur": null, "nombre": "Reglaje de válvulas Desmo", "queSeCambia": "Comprobación y reglaje del juego de válvulas de la distribución desmodrómica del Superquadro Mono cada 30.000 km"}]},
@@ -1503,6 +1560,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-monster-v2-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-monster-v2-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Monster V2 2026, detalle", ancho: 1600, alto: 902 },
+      { src: "/media/ducati-monster-v2-2026-ficha-tecnica-precio-hunt1.webp", alt: "Monster V2 (foto: Ducati (foto de prensa oficial) vía Motoo, licencia desconocida)", ancho: 960, alto: 720 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, nota oficial de la nueva Monster recogida por Superbike News, y ficha de la Monster 2026 en Torquepedia: servicio de aceite 15.000 km o 24 meses y control de válvulas 45.000 km; SoyMotero, prueba a fondo de la Monster 2026, confirma los mismos intervalos", "intervalo": "Servicio de aceite cada 15.000 km o 24 meses; control del juego de válvulas cada 45.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de aceite — 15.000 km o 24 meses", "queSeCambia": "Cambio de aceite de motor y controles programados de Ducati para el nuevo V2 de 890 cc de esta Monster; no es un plan trasladado de la Multistrada V2 ni de la DesertX, es el intervalo publicado para este modelo"}, {"costeAproxEur": null, "nombre": "Control del juego de válvulas — 45.000 km", "queSeCambia": "Revisión y ajuste del juego de válvulas del motor con distribución variable IVT en la admisión y sin distribución desmodrómica, el intervalo largo que Ducati destaca como referente en su categoría"}]},
@@ -1540,6 +1598,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-2.webp", alt: "Ducati Multistrada V2 S 2025, detalle", ancho: 1056, alto: 594 },
+      { src: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hunt1.webp", alt: "Multistrada V2 S (foto: Ducati (foto de prensa MY25) vía Insella, licencia desconocida)", ancho: 1326, alto: 884 },
+      { src: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hunt2.webp", alt: "Multistrada V2 S (foto: MCN (prueba de la Multistrada V2 S 2025), licencia desconocida)", ancho: 1752, alto: 1168 },
+      { src: "/media/ducati-multistrada-v2-s-2025-ficha-tecnica-precio-hunt3.webp", alt: "Multistrada V2 S (foto: Ducati (web oficial, editorial de la nueva Multistrada V2), licencia desconocida)", ancho: 906, alto: 510 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati.com, especificaciones oficiales de la Multistrada V2: Oil Service 15.000 km/24 meses, Annual Service 12 meses y reglaje de válvulas a los 45.000 km", "intervalo": "Oil Service cada 15.000 km o 24 meses, con revisión anual cada 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Oil Service", "queSeCambia": "Cambio de aceite de motor y filtro con las comprobaciones generales del conjunto según el plan oficial Ducati para la Multistrada V2 de 890 cc"}, {"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección anual de seguridad y de estado general prevista por Ducati aunque no se haya alcanzado el kilometraje del Oil Service"}, {"costeAproxEur": null, "nombre": "Reglaje de válvulas", "queSeCambia": "Comprobación del juego de válvulas a los 45.000 km; este motor ya no usa distribución desmodrómica, sino muelles, por lo que desaparece el antiguo Desmo Service de 30.000 km de la V2 de 937 cc"}]},
@@ -1577,6 +1638,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-panigale-v2-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-panigale-v2-s-2025-ficha-tecnica-precio-2.webp", alt: "Ducati Panigale V2 S 2025, detalle", ancho: 992, alto: 558 },
+      { src: "/media/ducati-panigale-v2-s-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Ducati / InSella, licencia desconocida)", ancho: 1240, alto: 827 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1621,6 +1683,9 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Panigale V4 S 2026, detalle", ancho: 1600, alto: 902 },
+      { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hunt1.webp", alt: "Panigale V4 S (foto: Ducati Motor Holding (foto de prensa oficial MY25 Panigale V4 S, código UC662193) vía Moto-Connect, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hunt2.webp", alt: "Panigale V4 S (foto: Cycle News / Ducati (presentación Panigale V4 S 2025), licencia desconocida)", ancho: 730, alto: 487 },
+      { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-hunt3.webp", alt: "Panigale V4 S (foto: Cycle News / Ducati (presentación Panigale V4 S 2025), licencia desconocida)", ancho: 730, alto: 487 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses", "intervalo": "12.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión 1.000 km", "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"}, {"costeAproxEur": null, "nombre": "Oil Service cada 12.000 km", "queSeCambia": "Cambio de aceite de motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"}, {"costeAproxEur": null, "nombre": "Desmo Service cada 24.000 km", "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"}, {"costeAproxEur": null, "nombre": "Revisión anual cada 12 meses", "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"}]},
@@ -1658,6 +1723,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Scrambler 800 Full Throttle 2026, detalle", ancho: 800, alto: 600 },
+      { src: "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-hunt1.webp", alt: "Scrambler 800 Full Throttle (foto: Ducati (galería oficial MY25), licencia desconocida)", ancho: 906, alto: 510 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km; sin costes publicados, por eso costeAproxEur queda a null", "intervalo": "12.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Oil Service", "queSeCambia": "Aceite y filtro del bicilíndrico desmodrómico de 803 cc cada 12.000 km o al año, con primera revisión a los 1.000 km, según el programa de mantenimiento de Ducati para la Scrambler"}, {"costeAproxEur": null, "nombre": "Desmo Service", "queSeCambia": "A los 24.000 km: comprobación y ajuste del juego de válvulas de la distribución desmodrómica y sustitución de las correas de distribución, operación específica de este motor de dos válvulas por cilindro"}]},
@@ -1695,6 +1761,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-scrambler-icon-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-scrambler-icon-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Scrambler Icon 2026, detalle", ancho: 820, alto: 547 },
+      { src: "/media/ducati-scrambler-icon-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Ducati (foto oficial de prensa MY23, vía Motorionline), licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1739,6 +1806,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/ducati-streetfighter-v4-s-2026-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/ducati-streetfighter-v4-s-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Streetfighter V4 S 2026, detalle", ancho: 1600, alto: 902 },
+      { src: "/media/ducati-streetfighter-v4-s-2026-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Ducati (prensa oficial, estudio MY25) vía Road Racing World, licencia desconocida)", ancho: 1920, alto: 1120 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1783,6 +1851,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/energica-ego-plus-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/energica-ego-plus-2025-ficha-tecnica-precio-2.webp", alt: "Energica Ego+ 2025, detalle", ancho: 1200, alto: 600 },
+      { src: "/media/energica-ego-plus-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Energica Motor Company (foto oficial) vía Motoped, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1827,6 +1896,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-2.webp", alt: "Energica Eva EsseEsse9+ 2025, detalle", ancho: 1600, alto: 1427 },
+      { src: "/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: Energica (prensa oficial, vía InMoto/Moto.it), licencia desconocida (prensa oficial Energica))", ancho: 800, alto: 564 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1871,6 +1941,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/fantic-caballero-125-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/fantic-caballero-125-rally-2025-ficha-tecnica-precio-2.webp", alt: "Fantic Caballero 125 Rally 2025, detalle", ancho: 800, alto: 500 },
+      { src: "/media/fantic-caballero-125-rally-2025-ficha-tecnica-precio-hunt1.webp", alt: "Revisión anual (foto: motofichas.com (galería Fantic Caballero 125 Rally 2025), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
@@ -1915,6 +1986,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/fantic-caballero-500-rally-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/fantic-caballero-500-rally-2025-ficha-tecnica-precio-2.webp", alt: "Fantic Caballero 500 Rally 2025, detalle", ancho: 1600, alto: 1068 },
+      { src: "/media/fantic-caballero-500-rally-2025-ficha-tecnica-precio-hunt1.webp", alt: "Caballero 500 Rally (foto: BikesXpress (prueba), licencia desconocida)", ancho: 2000, alto: 1333 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario de la Fantic Caballero 500 alojado en pieces-fantic.com (primer servicio a los 1.000 km y resto cada 5.000 km) y prueba offroad de la Caballero 500 Rally 2025 de 1000PS, que confirma el intervalo de servicio de 5.000 km. Sin costes: ninguna fuente consultada publica tarifas de revisión.", "intervalo": "Primera revisión a los 1.000 km y siguientes cada 5.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (1.000 km)", "queSeCambia": "Primera inspección al terminar el rodaje según el manual de la Caballero 500; desde ese momento el nivel de aceite del motor se comprueba cada 1.000 km."}, {"costeAproxEur": null, "nombre": "Revisiones periódicas (cada 5.000 km)", "queSeCambia": "El plan del manual programa cambio de aceite de motor y de filtro de aceite con periodicidad anual, revisión del circuito de combustible, del filtro de aire y de la bujía, control del juego de válvulas y del sistema de refrigeración, cuyo líquido se cambia cada 3 años."}]},
@@ -1952,6 +2024,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     imagen: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-2.webp", alt: "FB Mondial HPS 125 2025, detalle", ancho: 1920, alto: 1280 },
+      { src: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hunt1.webp", alt: "HPS 125 (foto: FB Mondial (foto oficial), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     mantenimientoDIY: null,
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario HPS125 CBS/ABS Euro 5 (fb-mondial.es): tabla de mantenimiento periódico con hitos a 1.000/6.000/12.000/18.000/24.000 km y nota de control anual; desde los 30.000 km se repite el ciclo desde los 6.000 km", "intervalo": "Primera revisión a los 1.000 km y después a los 6.000, 12.000, 18.000 y 24.000 km, con control anual cuando no se alcance el kilometraje (manual Euro 5 de la HPS 125)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisiones programadas 1.000-24.000 km", "queSeCambia": "Aceite del motor SAE 10W-40 en todas las revisiones y filtro de aceite según la tabla del manual; además se comprueban bujía, juego de válvulas, ralentí de la inyección, filtro de aire (limpieza o cambio según tabla), refrigerante, frenos y diagnosis EFI/ABS con la herramienta Mondial"}, {"costeAproxEur": null, "nombre": "Cadena de transmisión", "queSeCambia": "Comprobación de tensión, alineación y estado con engrase cada 500 km, fuera del calendario de revisiones del taller"}, {"costeAproxEur": null, "nombre": "Líquidos por tiempo", "queSeCambia": "Líquido de frenos DOT 4 cada dos años, latiguillos de freno cada cuatro años y refrigerante cada tres años, según la tabla de mantenimiento periódico del manual"}]},

@@ -289,6 +289,8 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         ancho: 1024,
         alto: 716,
       },
+      { src: "/media/fotos-reales/cyclone-ra2/cyclone-ra2-real-1.webp", alt: "Primera revisión (1.000 km)", ancho: 1500, alto: 1000 },
+      { src: "/media/fotos-reales/cyclone-ra2/cyclone-ra2-real-2.webp", alt: "Primera revisión (1.000 km)", ancho: 900, alto: 600 },
     ],
     videoId: null,
     videoCanal: null,
@@ -361,7 +363,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         alto: 900,
       },
       {
-        src: "/media/qjmotor-srk-400rs-3.webp",
+        src: "/media/fotos-reales/qjmotor-srk-400rs/qjmotor-srk-400rs-real-2.webp",
         alt: "QJMotor SRK 400RS, detalle del frontal deportivo",
         ancho: 1200,
         alto: 899,
@@ -964,7 +966,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Es la deportiva más potente jamás fabricada por QJMotor.",
       "En España QJMotor la lista con 6 años de garantía como el resto de la gama.",
     ],
-    imagen: "/media/qjmotor-srk-921rr-1.webp",
+    imagen: "/media/fotos-reales/qjmotor-srk-921rr/qjmotor-srk-921rr-real-0.webp",
     galeria: [
       {
         src: "/media/qjmotor-srk-921rr-2.webp",
@@ -1040,10 +1042,10 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "El mirroring permite ver el GPS del móvil en la pantalla.",
       "Es la 125 más vendida de QJMotor en España.",
     ],
-    imagen: "/media/qjmotor-srk-125s-1.webp",
+    imagen: "/media/fotos-reales/qjmotor-srk-125s/qjmotor-srk-125s-real-0.webp",
     galeria: [
       {
-        src: "/media/qjmotor-srk-125s-2.webp",
+        src: "/media/fotos-reales/qjmotor-srk-125s/qjmotor-srk-125s-real-1.webp",
         alt: "QJMotor SRK 125S, vista lateral de la naked 125",
         ancho: 800,
         alto: 800,

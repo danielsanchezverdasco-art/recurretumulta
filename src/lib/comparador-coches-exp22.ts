@@ -710,6 +710,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/evo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/evo-4-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Auto Salone Internazionale / prensa DR Automobiles, licencia desconocida)", ancho: 980, alto: 652 },
+      { src: "/media/evo-4-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Auto-Evo (concesionario oficial EVO Italia) / prensa DR Automobiles, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-4-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: L'Automotive Srl (concesionario oficial EVO) / prensa DR Automobiles, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     analisisSlug: "evo-4-2025-precio-ficha-tecnica",
     videoId: null,
@@ -777,6 +780,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/evo-5-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/evo-5-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: EVO España / DR Automobiles (web oficial), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-5-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: PassionAndCar.fr, licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/evo-5-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autonoción, licencia desconocida)", ancho: 600, alto: 448 },
     ],
     analisisSlug: "evo-5-2025-precio-ficha-tecnica",
     videoId: null,
@@ -844,6 +850,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/evo-6-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/evo-6-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Automobili EVO (web oficial auto-evo.com), licencia desconocida)", ancho: 1232, alto: 840 },
+      { src: "/media/evo-6-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Fercam Virtual, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/evo-6-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Automobili EVO (web oficial auto-evo.com), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "evo-6-2026-precio-ficha-tecnica",
     videoId: null,
@@ -911,6 +920,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/evo-7-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/evo-7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Carnovo (foto de prensa EVO / DR Automobiles), licencia desconocida)", ancho: 600, alto: 330 },
+      { src: "/media/evo-7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Dielle Auto (concesionario EVO), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/evo-7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: EVO Automobili / DR Automobiles (web oficial), licencia desconocida)", ancho: 800, alto: 559 },
     ],
     analisisSlug: "evo-7-2025-precio-ficha-tecnica",
     videoId: null,
@@ -978,6 +990,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/evo-cross-4-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/evo-cross-4-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: EVO España (landing oficial) / DR Automobiles, licencia desconocida)", ancho: 2000, alto: 1340 },
+      { src: "/media/evo-cross-4-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: PassionAndCar (foto de prensa EVO), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/evo-cross-4-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: News24Horas (foto de prensa EVO), licencia desconocida)", ancho: 1024, alto: 576 },
     ],
     analisisSlug: "evo-cross-4-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1046,7 +1061,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/swm-g01-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G01", ancho: 1200, alto: 900 },
-      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G01", ancho: 1200, alto: 900 }
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G01", ancho: 1200, alto: 900 },
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1400, alto: 738 },
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1400, alto: 738 },
+      { src: "/media/swm-g01-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1400, alto: 738 },
     ],
     analisisSlug: "swm-g01-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1114,6 +1132,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/swm-g01f-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/swm-g01f-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1600, alto: 656 },
+      { src: "/media/swm-g01f-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1600, alto: 656 },
+      { src: "/media/swm-g01f-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia (web oficial), licencia desconocida)", ancho: 1600, alto: 656 },
     ],
     analisisSlug: "swm-g01f-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1181,6 +1202,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/swm-g03f-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors España (Grupo Shineray), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/swm-g03f-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia, licencia desconocida)", ancho: 1600, alto: 656 },
+      { src: "/media/swm-g03f-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: SWM Motors Italia, licencia desconocida)", ancho: 1000, alto: 600 },
     ],
     analisisSlug: "swm-g03f-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1249,7 +1273,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SWM G05 Pro", ancho: 1200, alto: 750 },
-      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G05 Pro", ancho: 1200, alto: 750 }
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del SWM G05 Pro", ancho: 1200, alto: 750 },
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: MAS Motors / foto de prensa SWM (Shineray), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: MAS Motors / foto de prensa SWM (Shineray), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/swm-g05-pro-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Avitqahu / foto de prensa SWM, licencia desconocida)", ancho: 1784, alto: 1338 },
     ],
     analisisSlug: "swm-g05-pro-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1317,6 +1344,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Group1 BAIC (concesionario oficial BAIC en Sudáfrica), licencia desconocida)", ancho: 1024, alto: 540 },
+      { src: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Auto Ellmann (concesionario BAIC en Alemania), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/baic-beijing-x55-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Group1 BAIC (concesionario oficial BAIC en Sudáfrica), licencia desconocida)", ancho: 1024, alto: 540 },
     ],
     analisisSlug: "baic-beijing-x55-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1394,6 +1424,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/baic-bj40-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/baic-bj40-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autonoticias.cl, licencia desconocida)", ancho: 2048, alto: 921 },
+      { src: "/media/baic-bj40-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Groupe Jeandot (concesionario BAIC) / BAIC, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/baic-bj40-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: BAIC Argentina (web oficial), licencia desconocida)", ancho: 2400, alto: 1697 },
     ],
     analisisSlug: "baic-bj40-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1461,6 +1494,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/baic-bj30-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/baic-bj30-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: BAIC Ecuador (importador oficial), licencia desconocida)", ancho: 1201, alto: 1201 },
+      { src: "/media/baic-bj30-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: BAIC Slovenia / Plan-net Avto (importador oficial), licencia desconocida)", ancho: 1600, alto: 832 },
+      { src: "/media/baic-bj30-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autera / BAIC Polonia, licencia desconocida)", ancho: 1600, alto: 1132 },
     ],
     analisisSlug: "baic-bj30-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1528,6 +1564,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Porównaj Chińskie Auta / BAIC, licencia desconocida)", ancho: 1920, alto: 1000 },
+      { src: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Otomoto News / BAIC, licencia desconocida)", ancho: 1080, alto: 654 },
+      { src: "/media/baic-beijing-5-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: ChceAuto / BAIC, licencia desconocida)", ancho: 1199, alto: 799 },
     ],
     analisisSlug: "baic-beijing-5-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1606,7 +1645,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eTerron 9", ancho: 1200, alto: 675 },
-      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eTerron 9", ancho: 1200, alto: 675 }
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eTerron 9", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: Prensa Maxus (vía CompleteVan.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: Maxus Deutschland / Kruszewski (prensa oficial), licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/maxus-eterron-9-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: Prensa Maxus (vía Van Fleet World), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "maxus-eterron-9-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1685,7 +1727,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus MIFA 9", ancho: 1200, alto: 546 },
-      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus MIFA 9", ancho: 1200, alto: 546 }
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus MIFA 9", ancho: 1200, alto: 546 },
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: OneShift by Carousell / New Gen Marketing, licencia desconocida)", ancho: 1000, alto: 546 },
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: OneShift by Carousell / New Gen Marketing, licencia desconocida)", ancho: 1000, alto: 546 },
+      { src: "/media/maxus-mifa-9-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: OneShift by Carousell / New Gen Marketing, licencia desconocida)", ancho: 1000, alto: 546 },
     ],
     analisisSlug: "maxus-mifa-9-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1764,7 +1809,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T60 Max", ancho: 1200, alto: 675 },
-      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T60 Max", ancho: 1200, alto: 675 }
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T60 Max", ancho: 1200, alto: 675 },
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Maxus / Astara (dossier de prensa oficial Brussels Motor Show 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Maxus / Astara (dossier de prensa oficial Brussels Motor Show 2025), licencia desconocida)", ancho: 750, alto: 500 },
+      { src: "/media/maxus-t60-max-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: MotorMais / foto de prensa Maxus, licencia desconocida)", ancho: 990, alto: 616 },
     ],
     analisisSlug: "maxus-t60-max-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1833,7 +1881,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 9", ancho: 1200, alto: 801 },
-      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 9", ancho: 1200, alto: 801 }
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 9", ancho: 1200, alto: 801 },
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hunt1.webp", alt: "eDeliver 9 (foto: Maxus / Prezly (sala de prensa oficial Maxus Bélgica), licencia desconocida)", ancho: 749, alto: 500 },
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hunt2.webp", alt: "eDeliver 9 (foto: Maxus / Prezly (sala de prensa oficial Maxus Bélgica), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/maxus-edeliver-9-2025-precio-ficha-tecnica-hunt3.webp", alt: "eDeliver 9 (foto: e-drivers.com (foto de prensa Maxus), licencia desconocida)", ancho: 1068, alto: 711 },
     ],
     analisisSlug: "maxus-edeliver-9-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1889,7 +1940,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus T90 EV", ancho: 1200, alto: 648 },
-      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T90 EV", ancho: 1200, alto: 648 }
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus T90 EV", ancho: 1200, alto: 648 },
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: Maxus Motors Suiza (sala de prensa oficial Maxus), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: DrivingElectric, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/maxus-t90-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: The Van Expert, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     analisisSlug: "maxus-t90-ev-2025-precio-ficha-tecnica",
     videoId: null,
@@ -1958,7 +2012,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Maxus eDeliver 7", ancho: 1200, alto: 960 },
-      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 7", ancho: 1200, alto: 960 }
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Maxus eDeliver 7", ancho: 1200, alto: 960 },
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hunt1.webp", alt: "eDeliver 7 (foto: Fleet Magazine Portugal, licencia desconocida)", ancho: 800, alto: 534 },
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hunt2.webp", alt: "eDeliver 7 (foto: Maxus Danmark / RSA Bil (importador oficial Maxus), licencia desconocida)", ancho: 1600, alto: 1087 },
+      { src: "/media/maxus-edeliver-7-2025-precio-ficha-tecnica-hunt3.webp", alt: "eDeliver 7 (foto: Maxus Motors Luxembourg (importador oficial Maxus), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "maxus-edeliver-7-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2013,6 +2070,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/mg-3-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mg-3-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: DivexMotor, licencia desconocida)", ancho: 720, alto: 405 },
+      { src: "/media/mg-3-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: DivexMotor, licencia desconocida)", ancho: 1140, alto: 641 },
+      { src: "/media/mg-3-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: DivexMotor, licencia desconocida)", ancho: 1140, alto: 641 },
     ],
     analisisSlug: "mg-3-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2091,7 +2151,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 3 Hybrid+", ancho: 1200, alto: 675 },
-      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 3 Hybrid+", ancho: 1200, alto: 675 }
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 3 Hybrid+", ancho: 1200, alto: 675 },
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: MG Motor (prensa) / Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: MG Motor (prensa) / Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
+      { src: "/media/mg-3-hybrid-plus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: MG Motor (prensa) / Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
     ],
     analisisSlug: "mg-3-hybrid-plus-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2160,7 +2223,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/mg-4-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del MG 4", ancho: 1200, alto: 615 },
-      { src: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 4", ancho: 1200, alto: 615 }
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del MG 4", ancho: 1200, alto: 615 },
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 24 meses / 30.000 km (foto: Autocritica.ro, licencia desconocida)", ancho: 1400, alto: 1400 },
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 24 meses / 30.000 km (foto: MG prensa / TopSpeed.sk, licencia desconocida)", ancho: 1280, alto: 865 },
+      { src: "/media/mg-4-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 24 meses / 30.000 km (foto: MG Motor Ucrania (oficial), licencia desconocida)", ancho: 1199, alto: 799 },
     ],
     analisisSlug: "mg-4-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2238,6 +2304,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 24 meses / 30.000 km (foto: MG Motor (galería oficial de concesionario MG), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 24 meses / 30.000 km (foto: MG Motor Europe (prensa oficial), licencia desconocida)", ancho: 600, alto: 600 },
+      { src: "/media/mg-4-xpower-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 24 meses / 30.000 km (foto: MG Motor Europe (prensa oficial), licencia desconocida)", ancho: 800, alto: 450 },
     ],
     analisisSlug: "mg-4-xpower-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2305,6 +2374,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/mg-5-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 24 meses / 30.000 km (foto: DrivingElectric, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mg-5-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 24 meses / 30.000 km (foto: DrivingElectric, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mg-5-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 24 meses / 30.000 km (foto: CompleteCar.ie / MG, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "mg-5-ev-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2383,7 +2455,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Xpeng G7", ancho: 1200, alto: 800 },
-      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Xpeng G7", ancho: 1200, alto: 800 }
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Xpeng G7", ancho: 1200, alto: 800 },
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: XPeng (prensa oficial) vía Carscoops, licencia desconocida)", ancho: 2560, alto: 1440 },
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: XPeng / registro MIIT vía CnEVPost, licencia desconocida)", ancho: 1200, alto: 684 },
+      { src: "/media/xpeng-g7-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: XPeng (prensa oficial) vía ZhytAuto, licencia desconocida)", ancho: 1200, alto: 582 },
     ],
     analisisSlug: "xpeng-g7-2026-precio-ficha-tecnica",
     videoId: null,
@@ -2461,6 +2536,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/im-motors-l6-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: IM Motors (vía CnEVPost), licencia desconocida)", ancho: 1200, alto: 612 },
+      { src: "/media/im-motors-l6-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: IM Motors (vía CnEVPost), licencia desconocida)", ancho: 1200, alto: 631 },
+      { src: "/media/im-motors-l6-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: IM Motors (vía CnEVPost), licencia desconocida)", ancho: 1200, alto: 638 },
     ],
     analisisSlug: "im-motors-l6-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2528,6 +2606,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/dfsk-500-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Traction.gr / DFSK, licencia desconocida)", ancho: 1068, alto: 601 },
+      { src: "/media/dfsk-500-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: DFSK Italia (dfskcar.it), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/dfsk-500-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Traction.gr / DFSK, licencia desconocida)", ancho: 1280, alto: 720 },
     ],
     analisisSlug: "dfsk-500-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2595,6 +2676,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt1.webp", alt: "Tiggo 4 (foto: Chery (foto de prensa) / Carsales Australia, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt2.webp", alt: "Tiggo 4 (foto: Chery Kazajistán (web oficial), licencia desconocida)", ancho: 770, alto: 520 },
+      { src: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hunt3.webp", alt: "Tiggo 4 (foto: Autotest Argentina, licencia desconocida)", ancho: 768, alto: 474 },
     ],
     analisisSlug: "chery-tiggo-4-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2650,7 +2734,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/nio-et7-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Nio ET7", ancho: 1200, alto: 581 },
-      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Nio ET7", ancho: 1200, alto: 581 }
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Nio ET7", ancho: 1200, alto: 581 },
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: NIO (prensa oficial), licencia desconocida)", ancho: 2880, alto: 1800 },
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: NIO (prensa oficial), licencia desconocida)", ancho: 686, alto: 686 },
+      { src: "/media/nio-et7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: NIO (prensa oficial), licencia desconocida)", ancho: 2560, alto: 1600 },
     ],
     analisisSlug: "nio-et7-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2718,6 +2805,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: Leapmotor (prensa oficial, vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: Leapmotor (prensa oficial, vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/leapmotor-a10-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: Leapmotor (prensa oficial, vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 395 },
     ],
     analisisSlug: "leapmotor-a10-2026-precio-ficha-tecnica",
     videoId: null,
@@ -2853,7 +2943,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Hongqi Tiangong 08", ancho: 1200, alto: 900 },
-      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Hongqi Tiangong 08", ancho: 1200, alto: 900 }
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hero.webp", alt: "Foto del Hongqi Tiangong 08", ancho: 1200, alto: 900 },
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 20.000 km / 24 meses (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 20.000 km / 24 meses (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
+      { src: "/media/hongqi-tiangong-08-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 20.000 km / 24 meses (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "hongqi-tiangong-08-2026-precio-ficha-tecnica",
     videoId: null,
@@ -2922,7 +3015,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS75 Plus", ancho: 1200, alto: 900 },
-      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS75 Plus", ancho: 1200, alto: 900 }
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS75 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Auto / DailyRevs, licencia desconocida)", ancho: 1400, alto: 1050 },
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Auto / CrissCross Auto, licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/changan-cs75-plus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Auto / Car250, licencia desconocida)", ancho: 1225, alto: 538 },
     ],
     analisisSlug: "changan-cs75-plus-2025-precio-ficha-tecnica",
     videoId: null,
@@ -2991,7 +3087,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS55 Plus", ancho: 1200, alto: 900 },
-      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS55 Plus", ancho: 1200, alto: 900 }
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS55 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan / Bash Auto (distribuidor oficial Changan), licencia desconocida)", ancho: 1440, alto: 600 },
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Pishraaneh (medio iraní del motor), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/changan-cs55-plus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Azerbaiyán (importador oficial), licencia desconocida)", ancho: 1920, alto: 1261 },
     ],
     analisisSlug: "changan-cs55-plus-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3060,7 +3159,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-K", ancho: 1200, alto: 900 },
-      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-K", ancho: 1200, alto: 900 }
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-K", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan / Zoomit, licencia desconocida)", ancho: 1080, alto: 720 },
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (concesionario oficial), licencia desconocida)", ancho: 1024, alto: 512 },
+      { src: "/media/changan-uni-k-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (concesionario oficial), licencia desconocida)", ancho: 720, alto: 350 },
     ],
     analisisSlug: "changan-uni-k-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3139,7 +3241,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-T", ancho: 1200, alto: 695 },
-      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-T", ancho: 1200, alto: 695 }
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-T", ancho: 1200, alto: 695 },
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial Changan), licencia desconocida)", ancho: 1024, alto: 688 },
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial Changan), licencia desconocida)", ancho: 1024, alto: 640 },
+      { src: "/media/changan-uni-t-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial Changan), licencia desconocida)", ancho: 1024, alto: 606 },
     ],
     analisisSlug: "changan-uni-t-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3208,7 +3313,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan UNI-V", ancho: 1200, alto: 900 },
-      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-V", ancho: 1200, alto: 900 }
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan UNI-V", ancho: 1200, alto: 900 },
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Zoerides / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 960 },
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 960 },
+      { src: "/media/changan-uni-v-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Zoerides / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "changan-uni-v-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3276,6 +3384,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/changan-uni-z-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Automobile (imagen oficial de presentación) vía ChinaPEV, licencia desconocida)", ancho: 1400, alto: 1030 },
+      { src: "/media/changan-uni-z-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Automobile (imagen oficial de presentación) vía ChinaPEV, licencia desconocida)", ancho: 1400, alto: 1030 },
+      { src: "/media/changan-uni-z-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Autohome vía chinamotor.by (unidad real UNI-Z PHEV en concesionario), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "changan-uni-z-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3344,7 +3455,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan CS35 Plus", ancho: 1200, alto: 900 },
-      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS35 Plus", ancho: 1200, alto: 900 }
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan CS35 Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial de Changan) / Changan Automobile, licencia desconocida)", ancho: 1024, alto: 573 },
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial de Changan) / Changan Automobile, licencia desconocida)", ancho: 1024, alto: 573 },
+      { src: "/media/changan-cs35-plus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Oman (distribuidor oficial de Changan) / Changan Automobile, licencia desconocida)", ancho: 1024, alto: 573 },
     ],
     analisisSlug: "changan-cs35-plus-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3413,7 +3527,10 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenInteriorOficial: "",
     galeria: [
       { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Changan Eado Plus", ancho: 1200, alto: 900 },
-      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Eado Plus", ancho: 1200, alto: 900 }
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hero.webp", alt: "Foto del Changan Eado Plus", ancho: 1200, alto: 900 },
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Philippines (importador oficial), licencia desconocida)", ancho: 1600, alto: 898 },
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Philippines (importador oficial), licencia desconocida)", ancho: 1600, alto: 898 },
+      { src: "/media/changan-eado-plus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión 15.000 km / 12 meses (foto: Changan Philippines (importador oficial), licencia desconocida)", ancho: 1600, alto: 898 },
     ],
     analisisSlug: "changan-eado-plus-2025-precio-ficha-tecnica",
     videoId: null,
@@ -3481,6 +3598,9 @@ export const COCHES_EXP22: CocheComparador[] = [
     imagenOficial: "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
+      { src: "/media/geely-coolray-2025-precio-ficha-tecnica-hunt1.webp", alt: "Coolray (foto: Geely Moldavia (distribuidor oficial Geely), licencia desconocida)", ancho: 1600, alto: 901 },
+      { src: "/media/geely-coolray-2025-precio-ficha-tecnica-hunt2.webp", alt: "Coolray (foto: Geely Moldavia (distribuidor oficial Geely), licencia desconocida)", ancho: 1600, alto: 923 },
+      { src: "/media/geely-coolray-2025-precio-ficha-tecnica-hunt3.webp", alt: "Coolray (foto: Geely Moldavia (distribuidor oficial Geely), licencia desconocida)", ancho: 1600, alto: 925 },
     ],
     analisisSlug: "geely-coolray-2025-precio-ficha-tecnica",
     videoId: null,

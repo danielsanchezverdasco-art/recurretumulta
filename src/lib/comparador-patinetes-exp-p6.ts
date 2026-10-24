@@ -1632,8 +1632,8 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z75-1.webp",
     galeria: [
-      { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-2.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/cecotec-bongo-serie-doble-z75-3.webp", alt: "Cecotec Bongo Serie Doble Z75 en carretera", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z75/cecotec-bongo-serie-doble-z75-real-1.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z75/cecotec-bongo-serie-doble-z75-real-2.webp", alt: "Cecotec Bongo Serie Doble Z75 en carretera", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1695,8 +1695,8 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     certificadoDgt: null,
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z85-1.webp",
     galeria: [
-      { src: "/media/patinetes/cecotec-bongo-serie-doble-z85-2.webp", alt: "Detalle de la batería del Cecotec Bongo Serie Doble Z85", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/cecotec-bongo-serie-doble-z85-3.webp", alt: "Cecotec Bongo Serie Doble Z85 en una ruta larga", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z85/cecotec-bongo-serie-doble-z85-real-1.webp", alt: "Detalle de la batería del Cecotec Bongo Serie Doble Z85", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z85/cecotec-bongo-serie-doble-z85-real-2.webp", alt: "Cecotec Bongo Serie Doble Z85 en una ruta larga", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1823,7 +1823,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     foto: "/media/patinetes/cecotec-bongo-serie-x65-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-serie-x65-connected-2.webp", alt: "Detalle del Cecotec Bongo Serie X65 Connected", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/cecotec-bongo-serie-x65-connected-3.webp", alt: "Cecotec Bongo Serie X65 Connected en la ciudad", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-serie-x65-connected/cecotec-bongo-serie-x65-connected-real-2.webp", alt: "Cecotec Bongo Serie X65 Connected en la ciudad", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -1950,7 +1950,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     foto: "/media/patinetes/cecotec-bongo-d30-xl-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-2.webp", alt: "Detalle del Cecotec Bongo D30 XL Connected", ancho: 1200, alto: 800 },
-      { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-3.webp", alt: "Cecotec Bongo D30 XL Connected aparcado", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/cecotec-bongo-d30-xl-connected/cecotec-bongo-d30-xl-connected-real-2.webp", alt: "Cecotec Bongo D30 XL Connected aparcado", ancho: 1200, alto: 800 },
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2614,7 +2614,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     certificadoDgt: true,
     foto: "/media/patinetes/niu-kqi1-pro-1.webp",
     galeria: [
-      { src: "/media/patinetes/niu-kqi1-pro-2.webp", alt: "Detalle del NIU KQi1 Pro", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/niu-kqi1-pro/niu-kqi1-pro-real-1.webp", alt: "Detalle del NIU KQi1 Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/niu-kqi1-pro-3.webp", alt: "NIU KQi1 Pro en una calle de Madrid", ancho: 1200, alto: 800 },
     ],
     aprox: ["precioEur", "autonomiaRealKm"],

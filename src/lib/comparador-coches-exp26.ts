@@ -86,6 +86,9 @@ export const COCHES_EXP26: CocheComparador[] = [
         ancho: 800,
         alto: 600,
       },
+      { src: "/media/lancia-ypsilon-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (foto: Lancia / Stellantis (foto de prensa oficial, vía Autodevot), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/lancia-ypsilon-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (foto: Lancia / Stellantis (foto de prensa oficial, vía GoNews), licencia desconocida)", ancho: 1600, alto: 790 },
+      { src: "/media/lancia-ypsilon-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (foto: Lancia / Stellantis (foto de prensa oficial, vía GoNews), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     mantenimientoDIY: null,
     euroncap: {
@@ -191,6 +194,9 @@ export const COCHES_EXP26: CocheComparador[] = [
         ancho: 490,
         alto: 327,
       },
+      { src: "/media/nissan-micra-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión periódica (foto: Nissan (foto de prensa oficial) / Automóvil Panamericano, licencia desconocida)", ancho: 1600, alto: 1058 },
+      { src: "/media/nissan-micra-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión periódica (foto: Nissan (foto de prensa oficial) / Carscoops, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/nissan-micra-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión periódica (foto: Nissan (foto de prensa oficial) / iMagazine, licencia desconocida)", ancho: 600, alto: 400 },
     ],
     mantenimientoDIY: null,
     euroncap: {
@@ -286,6 +292,9 @@ export const COCHES_EXP26: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/byd-sealion-05-2025-precio-ficha-tecnica-hunt1.webp", alt: "Plan de mantenimiento (foto: BYD (imagen oficial de prensa del lanzamiento) vía CarNewsChina, licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/byd-sealion-05-2025-precio-ficha-tecnica-hunt2.webp", alt: "Plan de mantenimiento (foto: BYD (imagen oficial de prensa del lanzamiento) vía CnEVPost, licencia desconocida)", ancho: 1200, alto: 662 },
+      { src: "/media/byd-sealion-05-2025-precio-ficha-tecnica-hunt3.webp", alt: "Plan de mantenimiento (foto: BYD (imagen oficial de prensa del lanzamiento) vía CnEVPost, licencia desconocida)", ancho: 1200, alto: 659 },
     ],
     mantenimientoDIY: null,
     euroncap: {
@@ -381,6 +390,9 @@ export const COCHES_EXP26: CocheComparador[] = [
         ancho: 1280,
         alto: 833,
       },
+      { src: "/media/jaecoo-j6-2025-precio-ficha-tecnica-hunt1.webp", alt: "Plan de mantenimiento (foto: Clarence Seow / SGCarmart, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/jaecoo-j6-2025-precio-ficha-tecnica-hunt2.webp", alt: "Plan de mantenimiento (foto: Clarence Seow / SGCarmart, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/jaecoo-j6-2025-precio-ficha-tecnica-hunt3.webp", alt: "Plan de mantenimiento (foto: Clarence Seow / SGCarmart, licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     mantenimientoDIY: null,
     euroncap: {
@@ -476,6 +488,9 @@ export const COCHES_EXP26: CocheComparador[] = [
         ancho: 1280,
         alto: 640,
       },
+      { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hunt1.webp", alt: "Plan de mantenimiento (foto: CarBase.my (galería exterior del Haval H6 Mk3 HEV en concesionario de Malasia); marca de agua translúcida «CarBase.my» en la parte inferior de la imagen, licencia desconocida)", ancho: 1200, alto: 801 },
+      { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hunt2.webp", alt: "Plan de mantenimiento (foto: Automacha (prueba en Malasia del GWM Haval H6 HEV), licencia desconocida)", ancho: 1600, alto: 1048 },
+      { src: "/media/gwm-haval-h6-2024-precio-ficha-tecnica-hunt3.webp", alt: "Plan de mantenimiento (foto: Carz.com.my / Caricarz (interior del Haval H6 HEV), licencia desconocida)", ancho: 1100, alto: 734 },
     ],
     mantenimientoDIY: null,
     euroncap: {

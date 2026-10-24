@@ -28,7 +28,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-eclipse-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-eclipse-2.webp",
+        src: "/media/fotos-reales/gotrax-eclipse/gotrax-eclipse-real-0.webp",
         alt: "Detalle del manillar y pantalla LED del Gotrax Eclipse",
         ancho: 1200,
         alto: 800,
@@ -463,7 +463,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
     foto: "/media/patinetes/gotrax-rival-1.webp",
     galeria: [
-      { src: "/media/patinetes/gotrax-rival-2.webp", alt: "Gotrax Rival plegado en una oficina", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/gotrax-rival/gotrax-rival-real-0.webp", alt: "Gotrax Rival plegado en una oficina", ancho: 1200, alto: 800 },
     ],
     precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
@@ -505,7 +505,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
     foto: "/media/patinetes/gotrax-g5-1.webp",
     galeria: [
-      { src: "/media/patinetes/gotrax-g5-2.webp", alt: "Gotrax G5 con suspensión delantera", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/gotrax-g5/gotrax-g5-real-0.webp", alt: "Gotrax G5 con suspensión delantera", ancho: 1200, alto: 800 },
     ],
     precioEur: 500, // 525 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
 
@@ -980,7 +980,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
     foto: "/media/patinetes/gotrax-fusion-1.webp",
     galeria: [
-      { src: "/media/patinetes/gotrax-fusion-2.webp", alt: "Gotrax Fusion con asiento plegable", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/gotrax-fusion/gotrax-fusion-real-0.webp", alt: "Gotrax Fusion con asiento plegable", ancho: 1200, alto: 800 },
     ],
     precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
@@ -1022,7 +1022,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
 
     foto: "/media/patinetes/gotrax-xr-elite-1.webp",
     galeria: [
-      { src: "/media/patinetes/gotrax-xr-elite-2.webp", alt: "Gotrax XR Elite en ciudad", ancho: 1200, alto: 800 },
+      { src: "/media/fotos-reales/gotrax-xr-elite/gotrax-xr-elite-real-0.webp", alt: "Gotrax XR Elite en ciudad", ancho: 1200, alto: 800 },
     ],
     precioEur: null, // la marca no publica tarifa oficial en su tienda oficial (verificado 20/10/2026)
 
@@ -1335,7 +1335,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-xr-ultra-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-xr-ultra-2.webp",
+        src: "/media/fotos-reales/gotrax-xr-ultra/gotrax-xr-ultra-real-0.webp",
         alt: "Gotrax XR Ultra con asiento opcional",
         ancho: 1200,
         alto: 800,
@@ -1771,7 +1771,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-g3-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-g3-2.webp",
+        src: "/media/fotos-reales/gotrax-g3/gotrax-g3-real-0.webp",
         alt: "Gotrax G3 con bloqueo digital",
         ancho: 1200,
         alto: 800,

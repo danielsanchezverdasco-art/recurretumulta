@@ -51,8 +51,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Passat Variant 2.0 TSI 265 CV R-Line Performance (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 DE)", ancho: 1920, alto: 930 },
+      { src: "/media/volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Passat Variant 2.0 TSI 265 CV R-Line Performance (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 DE)", ancho: 1920, alto: 916 },
+      { src: "/media/volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Passat Variant 2.0 TSI 265 CV R-Line Performance (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 DE)", ancho: 1920, alto: 916 },
     ],
     analisisSlug: "volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen España, página oficial Long Drive y Libro de Servicio oficial Volkswagen: inspección cada 2 años/30.000 km con aceite flexible o cada año/15.000 km con aceite fijo (verificado el 22/10/2026); sin coste publicado para esta versión, por eso coste null", "intervalo": "Cada 2 años o 30.000 km con cambio de aceite flexible; cada año o 15.000 km si el cambio de aceite es fijo (esquema oficial Volkswagen España)", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite", "queSeCambia": "Aceite original Volkswagen y filtro de aceite, con comprobación de frenos, neumáticos, alumbrado, batería, niveles y recorrido de prueba según el Libro de Servicio oficial"}, {"costeAproxEur": null, "nombre": "Servicio de inspección", "queSeCambia": "Diagnóstico electrónico y revisión de escape, suspensión, dirección, corrosión de carrocería y puntos de control del fabricante; las piezas desgastadas se sustituyen aparte"}, {"costeAproxEur": null, "nombre": "Operaciones adicionales del plan oficial", "queSeCambia": "Líquido de frenos, filtro de polvo y polen, filtro de aire y bujías cuando lo marque el Plan de Asistencia Técnica de este motor 2.0 TSI y su cambio DSG"}]},
@@ -108,8 +109,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Passat Variant 1.5 TSI eHybrid 204 CV (foto: Volkswagen Newsroom (prensa oficial Volkswagen), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Passat Variant 1.5 TSI eHybrid 204 CV (foto: Volkswagen / VW Press Schweiz (prensa oficial Volkswagen Suiza), licencia desconocida)", ancho: 1980, alto: 1321 },
+      { src: "/media/volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Passat Variant 1.5 TSI eHybrid 204 CV (foto: Volkswagen / VW Press Schweiz (prensa oficial Volkswagen Suiza), licencia desconocida)", ancho: 1980, alto: 1320 },
     ],
     analisisSlug: "volkswagen-passat-variant-ehybrid-2026-precio-ficha-tecnica",
   },
@@ -164,8 +166,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-tayron-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tayron 2.0 TDI 150 CV (foto: Autocritica.ro, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/volkswagen-tayron-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tayron 2.0 TDI 150 CV (foto: Autocritica.ro, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-tayron-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tayron 2.0 TDI 150 CV (foto: Auto-Mania.cz, licencia desconocida)", ancho: 800, alto: 451 },
     ],
     analisisSlug: "volkswagen-tayron-20-tdi-2026-precio-ficha-tecnica",
   },
@@ -208,8 +211,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-tayron-ehybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tayron 1.5 TSI eHybrid 204 CV (foto: Electrifying.com (prueba del Tayron eHybrid R-Line), licencia desconocida)", ancho: 1024, alto: 680 },
+      { src: "/media/volkswagen-tayron-ehybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tayron 1.5 TSI eHybrid 204 CV (foto: Electrifying.com (prueba del Tayron eHybrid R-Line), licencia desconocida)", ancho: 1024, alto: 680 },
+      { src: "/media/volkswagen-tayron-ehybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tayron 1.5 TSI eHybrid 204 CV (foto: Electrifying.com (prueba del Tayron eHybrid R-Line), licencia desconocida)", ancho: 1024, alto: 680 },
     ],
     analisisSlug: "volkswagen-tayron-ehybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen publica para híbridos enchufables e híbridos suaves: aceite cada 15.000 km o 1 año e inspección cada 30.000 km o 2 años (página oficial de servicio de Volkswagen, vw.com.cy, verificada el 22/10/2026); corroborado con el Libro de Servicio Volkswagen España para vehículos híbridos enchufables. Sin costes: Volkswagen España no publica un precio cerrado para el Tayron eHybrid, por eso quedan sin dato.", "intervalo": "Cambio de aceite cada 15.000 km o 1 año e inspección cada 30.000 km o 2 años, lo que ocurra antes (plan Volkswagen para híbridos enchufables)", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite / 15.000 km o 1 año", "queSeCambia": "Aceite del motor 1.5 TSI y filtro de aceite, con reinicio del indicador de servicio y comprobaciones asociadas al sistema híbrido"}, {"costeAproxEur": null, "nombre": "Servicio de Inspección / 30.000 km o 2 años", "queSeCambia": "Inspección de tren de rodaje, sistema eléctrico, motor, caja de cambios y carrocería según la hoja de servicio de Volkswagen, además del cambio de aceite que corresponda"}, {"costeAproxEur": null, "nombre": "Ciclo siguiente / 60.000 km o 4 años", "queSeCambia": "Repetición del ciclo de aceite e inspección; las operaciones periódicas se repiten en cada ciclo según el Libro de Servicio Volkswagen para híbridos enchufables"}]},
@@ -266,8 +270,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Servicio anual / 15.000 km (foto: Volkswagen (prensa oficial) vía Sportal / Blic, licencia desconocida)", ancho: 770, alto: 525 },
+      { src: "/media/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Servicio anual / 15.000 km (foto: Anuncio de concesionario británico de un Tiguan 1.5 eTSI 150 Match DSG (CogPlatform), licencia desconocida)", ancho: 975, alto: 731 },
+      { src: "/media/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Servicio anual / 15.000 km (foto: Carwow UK, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica",
     euroncap: {
@@ -335,8 +340,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tiguan 2.0 TDI 150 CV (foto: Wyborkierowcow.pl (prueba del Tiguan III 2.0 TDI SCR DSG), licencia desconocida)", ancho: 2048, alto: 1365 },
+      { src: "/media/volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tiguan 2.0 TDI 150 CV (foto: Volkswagen Newsroom (prensa oficial, DB2025AU00268), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tiguan 2.0 TDI 150 CV (foto: Volkswagen Newsroom (prensa oficial, DB2025AU00269), licencia desconocida)", ancho: 1600, alto: 1079 },
     ],
     analisisSlug: "volkswagen-tiguan-20-tdi-2026-precio-ficha-tecnica",
     euroncap: {"ano": 2024, "estrellas": 5, "nota": "Cinco estrellas en el ensayo de mayo de 2024: 83 % protegiendo a los adultos, 88 % a los niños, 84 % a peatones y ciclistas y 78 % en ayudas activas. La unidad evaluada era un Tiguan diésel de la configuración básica, como el de esta ficha", "url": null},
@@ -393,8 +399,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Golf Variant 2.0 TDI 150 CV (foto: Bidcar (anuncio Golf Variant 2.0 TDI Life DSG 2023, unidad real en estudio), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Golf Variant 2.0 TDI 150 CV (foto: Volkswagen UK (prensa Golf Estate) vía Agnew Volkswagen, licencia desconocida)", ancho: 1903, alto: 595 },
+      { src: "/media/volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Golf Variant 2.0 TDI 150 CV (foto: Bidcar (oferta Golf Variant TDI 150 DSG Life, unidad real), licencia desconocida)", ancho: 400, alto: 300 },
     ],
     analisisSlug: "volkswagen-golf-variant-20-tdi-2026-precio-ficha-tecnica",
   },
@@ -437,8 +444,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-t-roc-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "T-Roc 2.0 TDI 150 CV (foto: Autonoción (prueba Volkswagen T-Roc TDI 150 CV DSG R-Line 2022), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/volkswagen-t-roc-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "T-Roc 2.0 TDI 150 CV (foto: Autonoción (prueba Volkswagen T-Roc TDI 150 CV DSG R-Line 2022), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/volkswagen-t-roc-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "T-Roc 2.0 TDI 150 CV (foto: Autonoción (prueba Volkswagen T-Roc TDI 150 CV DSG R-Line 2022), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "volkswagen-t-roc-20-tdi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Libro de mantenimientos Volkswagen (edición 2024, PDF de servicio oficial): cambio de aceite cada 2 años o 30.000 km e inspección anual desde los 2 años o 30.000 km; sin precios públicos localizados para este T-Roc TDI, por eso los costes quedan sin dato. Verificado el 22/10/2026", "intervalo": "Cada 2 años o 30.000 km en servicio flexible LongLife; alternativa fija cada año o 15.000 km (plan de mantenimiento oficial Volkswagen recogido en su libro de mantenimientos)", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento oficial con cambio de aceite", "queSeCambia": "Aceite original Volkswagen y filtro de aceite, más comprobaciones de frenos, alumbrado, neumáticos, batería y niveles según el libro de mantenimientos de la marca"}, {"costeAproxEur": null, "nombre": "Servicio de inspección", "queSeCambia": "Diagnóstico electrónico y revisión de gases de escape, suspensión, dirección, carrocería y puntos de control del fabricante; cada año a partir de los 2 años o 30.000 km según ese mismo libro"}]},
@@ -494,8 +502,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica-hunt1.webp", alt: "Servicio anual / 15.000 km (foto: Volkswagen (foto de prensa) vía Cars.co.za, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica-hunt2.webp", alt: "Servicio anual / 15.000 km (foto: Volkswagen (foto de prensa) vía carsales, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica-hunt3.webp", alt: "Servicio anual / 15.000 km (foto: evo / Volkswagen, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     analisisSlug: "volkswagen-golf-gti-clubsport-2026-precio-ficha-tecnica",
     euroncap: {
@@ -563,8 +572,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt1.webp", alt: "ID.4 GTX 340 CV (foto: Volkswagen (foto de prensa) vía AA Lease, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt2.webp", alt: "ID.4 GTX 340 CV (foto: Volkswagen (foto de prensa) vía CarDekho, licencia desconocida)", ancho: 930, alto: 620 },
+      { src: "/media/volkswagen-id4-gtx-2026-precio-ficha-tecnica-hunt3.webp", alt: "ID.4 GTX 340 CV (foto: TopElectricSUV, licencia desconocida)", ancho: 768, alto: 576 },
     ],
     analisisSlug: "volkswagen-id4-gtx-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen Canarias, página oficial de mantenimiento para vehículos eléctricos (verificada el 22/10/2026): en Europa, para los modelos ID. la inspección toca después de dos años como máximo sin límite de kilómetros e incluye líquido de frenos y filtro interior; no se publica un coste cerrado para esta inspección, por lo que los costes quedan sin dato", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan oficial Volkswagen para los modelos ID. en Europa)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal de modelos ID.", "queSeCambia": "Inspección que incluye el cambio del líquido de frenos y del filtro interior, junto a la revisión de electrónica, motores y engranajes y carrocería, según publica Volkswagen Canarias para los vehículos eléctricos ID."}]},
@@ -609,8 +619,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-id7-gtx-2026-precio-ficha-tecnica-hunt1.webp", alt: "ID.7 GTX 340 CV (foto: Volkswagen Newsroom (foto de prensa oficial, DB2024AU00373), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-id7-gtx-2026-precio-ficha-tecnica-hunt2.webp", alt: "ID.7 GTX 340 CV (foto: Volkswagen Newsroom (foto de prensa oficial, DB2024AU01429), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-id7-gtx-2026-precio-ficha-tecnica-hunt3.webp", alt: "ID.7 GTX 340 CV (foto: Volkswagen Newsroom (foto de prensa oficial, DB2024AU01432), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "volkswagen-id7-gtx-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Volkswagen España (página oficial de la gama ID.: inspección al menos una vez cada dos años, independientemente del kilometraje) y Volkswagen Canarias (inspección ID. a los dos años como máximo sin límite de kilómetros, incluyendo líquido de frenos y filtro interior). Sin precio cerrado publicado por la marca para esta inspección, por lo que los costes quedan sin dato. Verificado el 22/10/2026.", "intervalo": "Cada 2 años como máximo, sin límite de kilómetros (plan oficial Volkswagen para los modelos ID., con inspección que incluye líquido de frenos y filtro interior)", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de inspección bienal gama ID.", "queSeCambia": "Inspección completa del ID.7 GTX con cambio del líquido de frenos y del filtro interior del habitáculo, además de comprobación de electrónica, motores y engranajes y carrocería, según publica Volkswagen para los modelos ID."}]},
@@ -655,8 +666,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/volkswagen-touareg-r-ehybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Touareg R eHybrid 462 CV (foto: Volkswagen Newsroom / Volkswagen AG, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-touareg-r-ehybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Touareg R eHybrid 462 CV (foto: Volkswagen Newsroom / Volkswagen AG, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-touareg-r-ehybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Touareg R eHybrid 462 CV (foto: Volkswagen Newsroom / Volkswagen AG, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "volkswagen-touareg-r-ehybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Libro de Mantenimiento Volkswagen (plan para híbridos enchufables, ediciones 2024 y 2025 consultadas el 22/10/2026): nota expresa de que en el Touareg el cambio de aceite es cada dos años o 30.000 km; inspección y líquido de frenos cada 2 años desde MY21. Sin precios oficiales publicados, por eso los costes van a null", "intervalo": "Cada 2 años o 30.000 km para el cambio de aceite en el Touareg (plan oficial Volkswagen para híbridos enchufables); servicio de inspección cada 2 años en coches desde MY21", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite Touareg PHEV (2 años / 30.000 km)", "queSeCambia": "Aceite de motor LongLife y filtro de aceite, según la nota específica para Touareg del Libro de Mantenimiento Volkswagen de híbridos enchufables"}, {"costeAproxEur": null, "nombre": "Servicio de Inspección (cada 2 años, desde MY21)", "queSeCambia": "Inspección general del vehículo con los puntos de control del fabricante y revisión del sistema híbrido y de la batería de servicio"}, {"costeAproxEur": null, "nombre": "Cambio de líquido de frenos (cada 2 años, desde MY21)", "queSeCambia": "Sustitución completa del líquido de frenos, operación que el plan Volkswagen fija cada 2 años en coches a partir de MY21"}]},
@@ -701,8 +713,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-a5-avant-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "A5 Avant e-hybrid 299 CV (foto: Audi (foto de prensa oficial A250319, reproducida por ooooiykyk.com), licencia desconocida)", ancho: 1024, alto: 640 },
+      { src: "/media/audi-a5-avant-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "A5 Avant e-hybrid 299 CV (foto: CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/audi-a5-avant-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "A5 Avant e-hybrid 299 CV (foto: Audi (web oficial, DAM emea-dam.audi.com), licencia desconocida)", ancho: 1080, alto: 1920 },
     ],
     analisisSlug: "audi-a5-avant-e-hybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España somete sus híbridos enchufables a inspección en Servicio Oficial cada dos años. En este A5 Avant esa pauta equivale a revisiones a los 30.000 km y a los 60.000 km, que pueden incluir aceite y filtro del 2.0 TFSI, filtro de polen, líquido de frenos y, en la segunda, bujías y aceite del cambio S tronic. La página oficial no publica una tarifa cerrada, por lo que el importe depende del servicio elegido.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/e-hybrid/"},
@@ -746,8 +759,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-a6-avant-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "A6 Avant e-hybrid 299 CV (foto: Audi (foto de prensa oficial, vía CarExpert), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/audi-a6-avant-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "A6 Avant e-hybrid 299 CV (foto: Audi (foto de prensa oficial, vía Infomotori), licencia desconocida)", ancho: 1280, alto: 870 },
+      { src: "/media/audi-a6-avant-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "A6 Avant e-hybrid 299 CV (foto: Audi (foto de prensa oficial, vía electrive), licencia desconocida)", ancho: 1800, alto: 1200 },
     ],
     analisisSlug: "audi-a6-avant-e-hybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España fija la revisión de sus modelos de gasolina cada dos años en un Servicio Oficial, según el Plan de Asistencia Técnica y el aviso de inspección del cuadro. En este e-hybrid esa visita cubre el cambio de aceite flexible del 2.0 TFSI, inspección técnica, bujías, filtros de aire y polen, líquido de frenos y aceite de la caja S tronic, partidas de los planes fulldrive oficiales. Audi no publica precio cerrado para esta versión.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/revisiones-periodicas/"},
@@ -791,8 +805,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-q5-sportback-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q5 Sportback e-hybrid 299 CV (foto: Audi AG (foto de prensa oficial, vía Autodevot), licencia desconocida)", ancho: 1000, alto: 600 },
+      { src: "/media/audi-q5-sportback-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q5 Sportback e-hybrid 299 CV (foto: Audi AG (foto de prensa oficial, CDN de Highmotor), licencia desconocida)", ancho: 880, alto: 588 },
+      { src: "/media/audi-q5-sportback-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q5 Sportback e-hybrid 299 CV (foto: TopElectricSUV, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     analisisSlug: "audi-q5-sportback-e-hybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España programa los híbridos enchufables con revisión cada dos años o 30.000 km: entonces tocan aceite y filtro de aceite, filtro de polvo y polen y líquido de frenos. A los cuatro años o 60.000 km se añaden filtro de aire, bujías del 2.0 TFSI y aceite del cambio S tronic. Audi no publica una tarifa cerrada para este Q5, así que el coste exacto debe pedirse al Servicio Oficial.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/e-hybrid/"},
@@ -848,8 +863,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q3 Sportback TDI 150 CV (foto: TopElectricSUV (foto real en Auto Zürich 2025), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q3 Sportback TDI 150 CV (foto: TopElectricSUV (foto real en Auto Zürich 2025), licencia desconocida)", ancho: 1024, alto: 680 },
+      { src: "/media/audi-q3-sportback-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q3 Sportback TDI 150 CV (foto: Chasing Cars, licencia desconocida)", ancho: 1240, alto: 697 },
     ],
     analisisSlug: "audi-q3-sportback-tdi-2026-precio-ficha-tecnica",
   },
@@ -892,8 +908,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q3 e-hybrid 272 CV (foto: Audi AG (foto de prensa oficial, vía GoNews), licencia desconocida)", ancho: 1600, alto: 1106 },
+      { src: "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q3 e-hybrid 272 CV (foto: AutoReview.nl (prueba del Audi Q3 e-hybrid), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q3 e-hybrid 272 CV (foto: Audi AG (foto oficial, vía oooo411 Audi Reference), licencia desconocida)", ancho: 1024, alto: 537 },
     ],
     analisisSlug: "audi-q3-e-hybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España fija la inspección periódica de sus modelos de combustión cada dos años, con aviso en el cuadro según el Plan de Asistencia Técnica. En este e-hybrid esa visita cubre el cambio de aceite flexible del 1.5 TFSI, la inspección técnica, bujías, filtros de aire y polen, líquido de frenos y el aceite con filtro de su caja S tronic de seis velocidades, partidas incluidas en los planes fulldrive oficiales de la marca.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/revisiones-periodicas/"},
@@ -937,8 +954,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-sq8-2026-precio-ficha-tecnica-hunt1.webp", alt: "SQ8 507 CV (foto: Audi AG (foto de prensa oficial) / CarBuzz, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/audi-sq8-2026-precio-ficha-tecnica-hunt2.webp", alt: "SQ8 507 CV (foto: Audi AG (EXIF: copyright AUDI AG) / MotorBeam, licencia desconocida)", ancho: 1024, alto: 666 },
+      { src: "/media/audi-sq8-2026-precio-ficha-tecnica-hunt3.webp", alt: "SQ8 507 CV (foto: Audi AG (EXIF: copyright AUDI AG) / Paul Tan, licencia desconocida)", ancho: 1200, alto: 628 },
     ],
     analisisSlug: "audi-sq8-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "El SQ8 TFSI sigue el plan Audi de servicio flexible: el cambio de aceite lo marca el cuadro según el uso, con tope de 30.000 km o 2 años, mientras con intervalo fijo la visita es cada 15.000 km o 12 meses. La inspección con cambio de aceite, filtro de polen y elemento del filtro de aire se sitúa en 30.000 km o 24 meses, según la tabla oficial Audi.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/revisiones-periodicas/"},
@@ -995,8 +1013,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-a3-allstreet-tfsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "A3 allstreet TFSI MHEV 150 CV (foto: Audi / Wheelz.me (galería de prensa del modelo), licencia desconocida)", ancho: 1500, alto: 848 },
+      { src: "/media/audi-a3-allstreet-tfsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "A3 allstreet TFSI MHEV 150 CV (foto: Audi / Wheelz.me (galería de prensa del modelo), licencia desconocida)", ancho: 1500, alto: 849 },
+      { src: "/media/audi-a3-allstreet-tfsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "A3 allstreet TFSI MHEV 150 CV (foto: Audi / Wheelz.me (galería de prensa del modelo), licencia desconocida)", ancho: 1500, alto: 1058 },
     ],
     analisisSlug: "audi-a3-allstreet-tfsi-2026-precio-ficha-tecnica",
   },
@@ -1039,8 +1058,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-q4-sportback-e-tron-45-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q4 Sportback e-tron 45 286 CV (foto: Audi (foto de prensa) vía CarBuzz, licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/audi-q4-sportback-e-tron-45-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q4 Sportback e-tron 45 286 CV (foto: Audi (foto de prensa, código A234520) vía Automujer, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/audi-q4-sportback-e-tron-45-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q4 Sportback e-tron 45 286 CV (foto: Audi (foto de prensa, código A234522) vía Kolesa, licencia desconocida)", ancho: 880, alto: 495 },
     ],
     analisisSlug: "audi-q4-sportback-e-tron-45-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España programa la inspección de sus eléctricos cada dos años, con hitos orientativos a los 2 años o 30.000 km y a los 4 años o 60.000 km. En este Sportback 45 no hay aceite de motor que sustituir; los trabajos probables son el filtro de polvo y polen y el líquido de frenos, además de las comprobaciones de iluminación, carrocería y sistemas del coche en un Servicio Oficial Audi.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/electricos/"},
@@ -1084,8 +1104,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/audi-q6-sportback-e-tron-2026-precio-ficha-tecnica-hunt1.webp", alt: "Q6 Sportback e-tron performance (foto: Audi (foto de prensa) vía MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-q6-sportback-e-tron-2026-precio-ficha-tecnica-hunt2.webp", alt: "Q6 Sportback e-tron performance (foto: Audi (foto de prensa) vía MotorGuru, licencia desconocida)", ancho: 850, alto: 550 },
+      { src: "/media/audi-q6-sportback-e-tron-2026-precio-ficha-tecnica-hunt3.webp", alt: "Q6 Sportback e-tron performance (foto: Audi (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 1200, alto: 630 },
     ],
     analisisSlug: "audi-q6-sportback-e-tron-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Audi España prescribe para sus eléctricos una inspección cada 2 años o 30.000 km, lo primero que ocurra, sin cambio de aceite por carecer de motor térmico. En esa visita se revisan frenos, refrigeración de alta tensión, iluminación y filtros, y pueden sustituirse el filtro de polvo y polen y el líquido de frenos; a los 4 años o 60.000 km se repite la misma pauta. Audi España no publica un precio cerrado para esta revisión del Q6.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.audi.es/es/servicios-cliente/mantenimiento-audi/electricos/"},
@@ -1130,8 +1151,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-elroq-60-2026-precio-ficha-tecnica-hunt1.webp", alt: "Elroq 60 204 CV (foto: Pete Gibson / Auto Express, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-elroq-60-2026-precio-ficha-tecnica-hunt2.webp", alt: "Elroq 60 204 CV (foto: Pete Gibson / Auto Express, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-elroq-60-2026-precio-ficha-tecnica-hunt3.webp", alt: "Elroq 60 204 CV (foto: Pete Gibson / Auto Express, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "skoda-elroq-60-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Skoda España no publica una tabla de intervalos específica del Elroq (verificado el 22/10/2026): su página de mantenimiento EV fija para el Enyaq, eléctrico MEB como el Elroq, una revisión cada 2 años sin depender del kilometraje, y su FAQ de eMobility sitúa la revisión de los demás modelos electrificados en 2 años o 30.000 km. Sin coste oficial publicado para el Elroq, los costes quedan sin dato", "intervalo": "Cada 2 años, sin kilometraje asociado publicado (criterio que Skoda España aplica a su eléctrico sobre plataforma MEB; el propio coche y la app MySkoda avisan de la cita, verificado el 22/10/2026)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección bienal del sistema eléctrico", "queSeCambia": "No se sustituye aceite ni filtros de motor porque no existen: se comprueba la batería de alto voltaje, el sistema de refrigeración, la propulsión y el diagnóstico del software, según la página de mantenimiento EV de Skoda España"}, {"costeAproxEur": null, "nombre": "Revisión de frenos, suspensión y climatización", "queSeCambia": "Inspección del sistema de frenos, de la suspensión y la dirección y del aire acondicionado, puntos que Skoda España enumera al revisar sus eléctricos; sustituciones solo si el desgaste lo exige"}, {"costeAproxEur": null, "nombre": "Comprobación de servicios conectados y componentes", "queSeCambia": "Verificación de los servicios de conexión y de los componentes sometidos a revisión periódica que Skoda España lista para sus vehículos eléctricos, además de neumáticos y líquidos accesibles al conductor"}]},
@@ -1175,8 +1197,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-elroq-50-2026-precio-ficha-tecnica-hunt1.webp", alt: "Elroq 50 170 CV (foto: Skoda (foto de prensa) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/skoda-elroq-50-2026-precio-ficha-tecnica-hunt2.webp", alt: "Elroq 50 170 CV (foto: Skoda (foto de prensa) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/skoda-elroq-50-2026-precio-ficha-tecnica-hunt3.webp", alt: "Elroq 50 170 CV (foto: Skoda (foto de prensa) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "skoda-elroq-50-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Catálogo oficial Škoda España del Elroq (intervalos ampliados hasta 45.000 km o 3 años, determinados por sensores) y página oficial Škoda de mantenimiento del vehículo eléctrico (qué se comprueba en cada visita); verificados el 22/10/2026. Škoda no publica un precio cerrado de revisión para el Elroq, por eso los costes quedan sin dato.", "intervalo": "Intervalo ampliado para el Elroq según sensores del vehículo, hasta un máximo de 45.000 km o 3 años; el cuadro de instrumentos avisa cuando toca revisión (catálogo oficial Škoda España del Elroq)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección periódica del eléctrico", "queSeCambia": "Sin sustitución programada de piezas: comprobación de la batería de alto voltaje, diagnóstico del software y verificación de los servicios de conexión en un Servicio Oficial Škoda"}, {"costeAproxEur": null, "nombre": "Revisión de componentes mecánicos y de seguridad", "queSeCambia": "Inspección de refrigeración, propulsión, suspensión, dirección, frenos y climatización, los sistemas que Škoda lista para la cobertura e-Care de sus eléctricos"}, {"costeAproxEur": null, "nombre": "Control estacional y previo a ITV", "queSeCambia": "Revisión del estado de neumáticos, frenos, batería, líquidos y faros, tal como describe la página oficial de mantenimiento de eléctricos de Škoda"}]},
@@ -1232,8 +1255,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-octavia-combi-rs-2026-precio-ficha-tecnica-hunt1.webp", alt: "Octavia Combi RS 265 CV (foto: Skoda Auto (foto de prensa oficial, coche de prensa 5SN 4374) vía concesionario Skoda Autovalas, licencia desconocida)", ancho: 1170, alto: 558 },
+      { src: "/media/skoda-octavia-combi-rs-2026-precio-ficha-tecnica-hunt2.webp", alt: "Octavia Combi RS 265 CV (foto: Skoda Auto (foto de prensa oficial) vía Carsales Australia, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/skoda-octavia-combi-rs-2026-precio-ficha-tecnica-hunt3.webp", alt: "Octavia Combi RS 265 CV (foto: Skoda Auto (foto de prensa oficial del facelift) vía Autocritica.ro, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "skoda-octavia-combi-rs-2026-precio-ficha-tecnica",
   },
@@ -1276,8 +1300,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-superb-combi-iv-2026-precio-ficha-tecnica-hunt1.webp", alt: "Superb Combi iV 204 CV (foto: Skoda Auto (prensa, vía Presspage), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-superb-combi-iv-2026-precio-ficha-tecnica-hunt2.webp", alt: "Superb Combi iV 204 CV (foto: Skoda Storyboard (prensa oficial Skoda), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-superb-combi-iv-2026-precio-ficha-tecnica-hunt3.webp", alt: "Superb Combi iV 204 CV (foto: AutoJournal.cz (galería de prensa Skoda), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     analisisSlug: "skoda-superb-combi-iv-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Škoda Auto (FAQ de electromovilidad, verificado el 22/10/2026): para modelos iV distintos del Enyaq, inspección 2 años/30.000 km, aceite flexible 2 años/30.000 km y aceite fijo 1 año/15.000 km; Škoda España (plan 2 años/30.000 km): aceite, filtro de aceite y filtro de polen, con verificaciones de frenos, suspensión, dirección y escape; Škoda Cyprus (iV Service & Maintenance): control de componentes eléctricos y de la refrigeración de la batería en cada servicio. Sin costes: ninguna de estas fuentes publica un precio aplicable a este Superb Combi iV, por eso quedan sin dato.", "intervalo": "Modelos iV (distintos del Enyaq): inspección a los 2 años o 30.000 km y aceite flexible en ese mismo plazo; con régimen fijo, aceite al año o 15.000 km, lo primero que ocurra (FAQ oficial de Škoda Auto para iV)", "revisiones": [{"costeAproxEur": null, "nombre": "Aceite fijo: 1 año o 15.000 km", "queSeCambia": "Sustitución del aceite del motor 1.5 TSI y de su filtro, según el régimen fijo que Škoda fija para modelos iV"}, {"costeAproxEur": null, "nombre": "Inspección y aceite flexible: 2 años o 30.000 km", "queSeCambia": "Aceite y filtro de aceite, filtro de polvo y polen, además de verificar batería, frenos, suspensión, dirección, escape y alumbrado"}, {"costeAproxEur": null, "nombre": "Control específico iV en cada servicio oficial", "queSeCambia": "Revisión de componentes eléctricos específicos y del sistema de refrigeración de la batería de alto voltaje, con diagnóstico de software del conjunto enchufable"}]},
@@ -1322,8 +1347,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Superb Combi 2.0 TSI 204 CV (foto: Skoda Auto / Skoda Storyboard (prensa oficial), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Superb Combi 2.0 TSI 204 CV (foto: Skoda Auto / Skoda Storyboard (prensa oficial), licencia desconocida)", ancho: 1440, alto: 960 },
+      { src: "/media/skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Superb Combi 2.0 TSI 204 CV (foto: Skoda Auto / Skoda Storyboard (prensa oficial), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     analisisSlug: "skoda-superb-combi-20-tsi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Página oficial de Škoda España «Plan de Mantenimiento de Coche con 2 años o 30.000 Km» (skoda.es/servicios-posventa/mantenimiento-dos-anos) y Catálogo de Servicios Škoda con el plan programado por kilometraje y años, verificados el 22/10/2026. Škoda España no publica un precio cerrado para estas operaciones en dichas páginas, por lo que los costes quedan sin dato.", "intervalo": "Primer servicio a los 2 años o 30.000 km según Škoda España; el plan programado oficial continúa después en escalones anuales de 15.000 km (45.000 km o 3 años, 60.000 km o 4 años y así sucesivamente)", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de mantenimiento a los 30.000 km o 2 años", "queSeCambia": "Aceite de motor y filtro de aceite nuevos, filtro de polvo y polen sustituido, escobillas revisadas y verificación de batería, alumbrado, frenos, suspensión, dirección, escape, carrocería y neumáticos"}, {"costeAproxEur": null, "nombre": "Escalones siguientes del plan programado Škoda", "queSeCambia": "Según el catálogo oficial de servicios, en las revisiones posteriores tocan además líquido de frenos, bujías en los motores de gasolina y filtro de aire, junto a la comprobación del estado de pastillas y discos"}]},
@@ -1380,8 +1406,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-octavia-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Octavia 2.0 TDI 150 CV (foto: Auto Express (galería del lanzamiento internacional del Octavia facelift 2024, coche de prensa Škoda matrícula DA X 2750), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/skoda-octavia-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Octavia 2.0 TDI 150 CV (foto: Autocritica.ro (showroom del Octavia facelift; mismo coche de prensa DA X 2750 que la foto 1), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/skoda-octavia-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Octavia 2.0 TDI 150 CV (foto: Škoda Francia, sala de prensa oficial (interior del Octavia facelift), licencia desconocida)", ancho: 1500, alto: 1001 },
     ],
     analisisSlug: "skoda-octavia-20-tdi-2026-precio-ficha-tecnica",
   },
@@ -1424,8 +1451,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-kamiq-15-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Kamiq 1.5 TSI 150 CV (foto: Skoda Laagri (imagen de prensa Skoda), licencia desconocida)", ancho: 1024, alto: 577 },
+      { src: "/media/skoda-kamiq-15-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Kamiq 1.5 TSI 150 CV (foto: Autogaleria.pl (imagen de prensa Skoda), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/skoda-kamiq-15-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Kamiq 1.5 TSI 150 CV (foto: Blog Verti (imagen de prensa Skoda), licencia desconocida)", ancho: 1000, alto: 600 },
     ],
     analisisSlug: "skoda-kamiq-15-tsi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de Mantenimiento Programado del Catálogo de Servicios de Skoda España y página oficial Skoda de mantenimiento a los 2 años o 30.000 km (primer servicio en ese hito, inspección al tercer año o 60.000 km); Skoda advierte de que las operaciones publicadas son genéricas y pueden variar según modelo, motorización y equipamiento. Sin tarifa oficial publicada para este Kamiq 1.5 TSI, por eso los costes van sin dato (verificado el 22/10/2026)", "intervalo": "Hasta 2 años o 30.000 km en servicio flexible LongLife (lo que ocurra primero), según el plan programado oficial de Skoda España; con uso severo la marca puede adelantar la visita y el plan concreto varía por motorización y equipamiento", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de mantenimiento (2 años o 30.000 km)", "queSeCambia": "Sustitución del aceite del motor y de su filtro, cambio del filtro de polvo y polen y comprobación de batería, alumbrado, frenos, neumáticos, suspensión, dirección y sistema de escape, según la página oficial Skoda de mantenimiento a los 2 años"}, {"costeAproxEur": null, "nombre": "Servicio de inspección (tercer año o 60.000 km)", "queSeCambia": "Inspección ampliada prevista en el plan programado del Catálogo de Servicios Skoda, con renovación del filtro de polvo y polen y del líquido de frenos en los hitos que marca esa tabla genérica de la marca"}]},
@@ -1469,8 +1497,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-scala-monte-carlo-2026-precio-ficha-tecnica-hunt1.webp", alt: "Scala Monte Carlo 1.5 TSI 150 CV (foto: Škoda Auto (foto de prensa oficial) vía Wheelz.me, licencia desconocida)", ancho: 1500, alto: 873 },
+      { src: "/media/skoda-scala-monte-carlo-2026-precio-ficha-tecnica-hunt2.webp", alt: "Scala Monte Carlo 1.5 TSI 150 CV (foto: Škoda Auto (foto de prensa oficial) vía Wheelz.me, licencia desconocida)", ancho: 1500, alto: 858 },
+      { src: "/media/skoda-scala-monte-carlo-2026-precio-ficha-tecnica-hunt3.webp", alt: "Scala Monte Carlo 1.5 TSI 150 CV (foto: WikiCars.cz (foto real de prueba del facelift 1.5 TSI DSG Monte Carlo), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     analisisSlug: "skoda-scala-monte-carlo-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Página oficial Skoda España de mantenimiento a los 2 años o 30.000 km y Catálogo de Servicios Skoda con su Plan de Mantenimiento Programado (inspección al tercer año o 60.000 km); sin tarifa cerrada publicada para el Scala 1.5 TSI, por eso los costes van sin dato (verificado el 22/10/2026)", "intervalo": "Cada 2 años o 30.000 km como máximo en el esquema programado que Skoda España publica para sus turismos de combustión", "revisiones": [{"costeAproxEur": null, "nombre": "Primera visita programada (2 años o 30.000 km)", "queSeCambia": "Cambio de aceite motor junto a su filtro, renovación del filtro antipolen y chequeo de batería, luces, frenos y neumáticos, tal como detalla la página oficial de mantenimiento bienal de Skoda"}, {"costeAproxEur": null, "nombre": "Inspección del tercer año o 60.000 km", "queSeCambia": "Revisión ampliada del plan programado, con filtro antipolen nuevo y sustitución del líquido de frenos según la tabla genérica del Catálogo de Servicios de la marca"}]},
@@ -1515,8 +1544,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica-hunt1.webp", alt: "Kamiq Monte Carlo 1.5 TSI 150 CV (foto: Carscoops (imagen de prensa Skoda), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica-hunt2.webp", alt: "Kamiq Monte Carlo 1.5 TSI 150 CV (foto: Carscoops (imagen de prensa Skoda), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica-hunt3.webp", alt: "Kamiq Monte Carlo 1.5 TSI 150 CV (foto: Carscoops (imagen de prensa Skoda), licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "skoda-kamiq-monte-carlo-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Página oficial Škoda España «Plan de Mantenimiento de Coche con 2 años o 30.000 Km» (skoda.es/servicios-posventa/mantenimiento-dos-anos) y Catálogo de Servicios Škoda con su tabla de plan programado por kilometraje y años, ambos verificados el 22/10/2026; ninguna de las dos fuentes publica un precio cerrado para el Kamiq 1.5 TSI DSG, por eso los costes van a null", "intervalo": "Primer servicio a los 2 años o 30.000 km, lo que ocurra primero (plan oficial Škoda España); el plan programado continúa después en escalones de 45.000 km o 3 años, 60.000 km o 4 años y sucesivos, según el catálogo de servicios de la marca", "revisiones": [{"costeAproxEur": null, "nombre": "Primer servicio programado (2 años o 30.000 km)", "queSeCambia": "Sustitución del aceite del motor y de su filtro, cambio del filtro de polvo y polen y verificación de batería, alumbrado, frenos, neumáticos, suspensión, dirección, escape y corrosión, según la página oficial de Škoda España para este hito"}, {"costeAproxEur": null, "nombre": "Servicio de inspección (tercer año o 60.000 km, después cada 2 años o 60.000 km)", "queSeCambia": "Inspección programada del catálogo de servicios Škoda, con filtro de polvo y polen y cambio del líquido de frenos en el escalón correspondiente, además de las comprobaciones de frenos, batería y neumáticos"}, {"costeAproxEur": null, "nombre": "Elementos del motor de gasolina y de la caja DSG en sus escalones programados", "queSeCambia": "Sustitución de bujías y filtro de aire del 1.5 TSI y cambio del aceite de la caja DSG de siete velocidades cuando lo marca el plan programado de Škoda; el catálogo no asigna en su tabla pública un coste cerrado a esta versión"}]},
@@ -1573,6 +1603,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ibiza FR 1.5 TSI 150 CV DSG (foto: SEAT prensa / CarsElectric, licencia desconocida)", ancho: 2560, alto: 1708 },
+      { src: "/media/seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ibiza FR 1.5 TSI 150 CV DSG (foto: SEAT prensa / Otomobil Israel, licencia desconocida)", ancho: 1280, alto: 873 },
+      { src: "/media/seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ibiza FR 1.5 TSI 150 CV DSG (foto: SEAT prensa / PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
     ],
     analisisSlug: "seat-ibiza-fr-15-tsi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía de Posventa SEAT 2022 publicada en la red oficial talleres.seat: recomienda el Mantenimiento Oficial cada 30.000 km o 2 años y detalla sus operaciones; verificada el 22/10/2026. Esa guía no publica una tarifa cerrada para el Ibiza 1.5 TSI de 2026, por lo que los costes quedan a null en lugar de estimarse.", "intervalo": "Mantenimiento Oficial SEAT cada 30.000 km o cada 2 años, lo que antes ocurra (Guía de Posventa SEAT 2022); el vencimiento concreto lo marca el indicador de intervalos de servicio del cuadro de instrumentos.", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento Oficial SEAT (30.000 km o 2 años)", "queSeCambia": "Aceite de motor y filtro de aceite, filtro de polvo y polen, y comprobación de discos y pastillas de freno, neumáticos, batería, niveles de anticongelante y líquido de frenos, alumbrado y estado de las correas, según la guía oficial de posventa."}, {"costeAproxEur": null, "nombre": "Operaciones adicionales según tiempo o kilometraje", "queSeCambia": "Líquido de frenos, bujías de encendido, filtro de aire y aceite del cambio DSG cuando corresponda a este 1.5 TSI automático, operaciones que la guía de posventa de SEAT lista como trabajos separados del mantenimiento base."}]},
@@ -1617,8 +1650,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/seat-arona-fr-15-tsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Arona FR 1.5 TSI 150 CV DSG (foto: SEAT (prensa oficial, foto Mikel Prieto) / PruebaTuCoche, licencia desconocida)", ancho: 1536, alto: 664 },
+      { src: "/media/seat-arona-fr-15-tsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Arona FR 1.5 TSI 150 CV DSG (foto: SEAT (prensa oficial) / AutoExpert, licencia desconocida)", ancho: 1024, alto: 806 },
+      { src: "/media/seat-arona-fr-15-tsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Arona FR 1.5 TSI 150 CV DSG (foto: SEAT (prensa oficial) / Avtomobilizem, licencia desconocida)", ancho: 1600, alto: 948 },
     ],
     analisisSlug: "seat-arona-fr-15-tsi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía Posventa SEAT 2022 (PDF en talleres.seat) para el Mantenimiento Oficial cada 30.000 km o 2 años y la operación de aceite DSG; manual de instrucciones del SEAT Arona 2025 para los intervalos de aceite QI4 fijo y QI6 flexible; ficha Tranquilidad SEAT del Arona (seat.es) para las operaciones por bloques de kilometraje. Verificado el 22/10/2026; SEAT no publica un precio cerrado vigente para esta versión, por eso todos los costes van a null", "intervalo": "Cambio de aceite fijo (QI4) cada 15.000 km o 1 año, o flexible (QI6) según el indicador del cuadro, según el manual del Arona; el Mantenimiento Oficial SEAT se recomienda cada 30.000 km o 2 años según la Guía Posventa SEAT", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite y filtro con inspección", "queSeCambia": "Aceite de motor y su filtro, más comprobaciones de neumáticos, frenos, batería, luces, niveles y fugas recogidas en el Mantenimiento Oficial SEAT"}, {"costeAproxEur": null, "nombre": "Servicio de inspección ampliada", "queSeCambia": "Inspección técnica del vehículo con operaciones por kilometraje de la ficha Tranquilidad SEAT del Arona: filtro de polen y, según bloque, bujías en gasolina y filtro de aire"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 2 años, según el plan de inspección y mantenimiento de SEAT"}, {"costeAproxEur": null, "nombre": "Aceite del cambio DSG", "queSeCambia": "Cambio de aceite del DSG cuando lo marque el plan de mantenimiento del vehículo, operación recogida en la Guía Posventa SEAT"}]},
@@ -1663,8 +1697,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ateca FR 2.0 TDI 150 CV DSG (foto: SEAT / SEAT-CUPRA Media Center (prensa oficial), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ateca FR 2.0 TDI 150 CV DSG (foto: SEAT / SEAT-CUPRA Media Center (prensa oficial), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ateca FR 2.0 TDI 150 CV DSG (foto: SEAT / SEAT-CUPRA Media Center (prensa oficial), licencia desconocida)", ancho: 1920, alto: 993 },
     ],
     analisisSlug: "seat-ateca-fr-20-tdi-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Plan de inspección y mantenimiento oficial SEAT y Guía SEAT Posventa 2020 (Mantenimiento Oficial cada 30.000 km o 2 años); verificado el 22/10/2026. Sin precios oficiales vigentes localizados para esta versión, por eso los costes quedan sin dato.", "intervalo": "Cambio de aceite cada 15.000 km o 1 año y servicio de inspección cada 30.000 km, según el plan de inspección y mantenimiento oficial de SEAT; el Mantenimiento Oficial SEAT se recomienda cada 30.000 km o 2 años", "revisiones": [{"costeAproxEur": null, "nombre": "Cambio de aceite y filtro (15.000 km o 1 año)", "queSeCambia": "Aceite de motor homologado y filtro de aceite, con comprobación de niveles según el plan oficial SEAT"}, {"costeAproxEur": null, "nombre": "Servicio de inspección (30.000 km)", "queSeCambia": "Inspección completa con cambio de aceite, verificación de frenos, neumáticos, batería, luces, líquido de frenos y ausencia de fugas"}, {"costeAproxEur": null, "nombre": "Líquido de frenos (cada 2 años)", "queSeCambia": "Sustitución del líquido de frenos por producto homologado, intervalo fijo bienal recogido en el plan oficial SEAT"}]},
@@ -1721,8 +1756,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/seat-leon-15-etsi-150-2026-precio-ficha-tecnica-hunt1.webp", alt: "León FR 1.5 eTSI 150 CV DSG (foto: SEAT (foto de presentación oficial) vía Autogefühl, licencia desconocida)", ancho: 1536, alto: 862 },
+      { src: "/media/seat-leon-15-etsi-150-2026-precio-ficha-tecnica-hunt2.webp", alt: "León FR 1.5 eTSI 150 CV DSG (foto: Europe-mobile (anuncio del modelo exacto 1.5 eTSI DSG 150 FR) vía Autrado, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/seat-leon-15-etsi-150-2026-precio-ficha-tecnica-hunt3.webp", alt: "León FR 1.5 eTSI 150 CV DSG (foto: AutoScout24 (anuncio León 1.5 eTSI 150 FR DSG), licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     analisisSlug: "seat-leon-15-etsi-150-2026-precio-ficha-tecnica",
   },
@@ -1777,6 +1813,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/seat-ibiza-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ibiza FR 1.0 TSI 115 CV DSG (foto: SEAT prensa / HDmotori, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/seat-ibiza-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ibiza FR 1.0 TSI 115 CV DSG (foto: SEAT prensa / Autonoción, licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/seat-ibiza-fr-10-tsi-115-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ibiza FR 1.0 TSI 115 CV DSG (foto: SEAT prensa / Autonoción, licencia desconocida)", ancho: 1280, alto: 800 },
     ],
     analisisSlug: "seat-ibiza-fr-10-tsi-115-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía Posventa SEAT 2022 (red oficial talleres.seat) para la frecuencia del Mantenimiento Oficial y ficha Tranquilidad SEAT del Ibiza KJ1 en seat.es (octubre de 2021) para las operaciones programadas; ninguna de las dos publica una tarifa vigente para esta versión, por lo que no se consigna coste (verificado el 22/10/2026)", "intervalo": "Cada 30.000 km o 2 años para el Mantenimiento Oficial SEAT (Guía Posventa SEAT 2022)", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento Oficial SEAT (30.000 km o 2 años)", "queSeCambia": "Cambio de aceite de motor y de su filtro, con verificación de neumáticos, discos y pastillas, batería, alumbrado, niveles, correas y ausencia de fugas, según la Guía Posventa SEAT"}, {"costeAproxEur": null, "nombre": "Operaciones programadas siguientes del Ibiza (KJ1)", "queSeCambia": "La ficha oficial Tranquilidad SEAT del Ibiza añade en los bloques posteriores líquido de frenos, filtro de polen, bujías en motores de gasolina y filtro de aire, además de inspección técnica; la misma ficha indica que las operaciones del cambio DSG se rigen por el plan de mantenimiento concreto de cada versión"}]},
@@ -1845,6 +1884,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-terramar-15-etsi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Terramar 1.5 eTSI 150 CV DSG (foto: Cupra (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-terramar-15-etsi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Terramar 1.5 eTSI 150 CV DSG (foto: Cupra (foto de prensa oficial) vía Motorlegend, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-terramar-15-etsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Terramar 1.5 eTSI 150 CV DSG (foto: Cupra España (web oficial), licencia desconocida)", ancho: 1920, alto: 1286 },
     ],
     analisisSlug: "cupra-terramar-15-etsi-2026-precio-ficha-tecnica",
   },
@@ -1911,6 +1953,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-terramar-20-tsi-204-2026-precio-ficha-tecnica-hunt1.webp", alt: "Terramar 2.0 TSI 204 CV DSG 4Drive (foto: Cupra (foto de prensa) vía PistonHeads — prueba del Terramar 2.0 TSI, licencia desconocida)", ancho: 1440, alto: 960 },
+      { src: "/media/cupra-terramar-20-tsi-204-2026-precio-ficha-tecnica-hunt2.webp", alt: "Terramar 2.0 TSI 204 CV DSG 4Drive (foto: Cupra (foto de prensa) vía PistonHeads — prueba del Terramar 2.0 TSI, licencia desconocida)", ancho: 1440, alto: 960 },
+      { src: "/media/cupra-terramar-20-tsi-204-2026-precio-ficha-tecnica-hunt3.webp", alt: "Terramar 2.0 TSI 204 CV DSG 4Drive (foto: Cupra (foto de prensa) vía PistonHeads — prueba del Terramar 2.0 TSI, licencia desconocida)", ancho: 1440, alto: 960 },
     ],
     analisisSlug: "cupra-terramar-20-tsi-204-2026-precio-ficha-tecnica",
   },
@@ -1965,6 +2010,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-formentor-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Formentor 2.0 TDI 150 CV DSG (foto: Grupo Compostela / Cupra Approved, licencia desconocida)", ancho: 1706, alto: 1280 },
+      { src: "/media/cupra-formentor-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Formentor 2.0 TDI 150 CV DSG (foto: Grupo Compostela / Cupra Approved, licencia desconocida)", ancho: 1706, alto: 1280 },
+      { src: "/media/cupra-formentor-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Formentor 2.0 TDI 150 CV DSG (foto: Grupo Compostela / Cupra Approved, licencia desconocida)", ancho: 1706, alto: 1280 },
     ],
     analisisSlug: "cupra-formentor-20-tdi-2026-precio-ficha-tecnica",
     euroncap: {"estrellas": 5, "ano": 2025, "url": "https://www.euroncap.com/en/results/cupra/formentor/57957", "nota": "Resultado Euro NCAP verificado para este modelo."},
@@ -2032,6 +2080,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-formentor-20-tsi-204-2026-precio-ficha-tecnica-hunt1.webp", alt: "Formentor 2.0 TSI 204 CV DSG 4Drive (foto: CUPRA / SEAT S.A. (foto de prensa oficial del restyling, matrícula 2024 CFO) vía Todotest; misma foto que ilustra la ficha exacta de km77, licencia desconocida)", ancho: 1031, alto: 637 },
+      { src: "/media/cupra-formentor-20-tsi-204-2026-precio-ficha-tecnica-hunt2.webp", alt: "Formentor 2.0 TSI 204 CV DSG 4Drive (foto: Concesionario vendedor vía AutoUncle (anuncio 'Nuevo 2026 Cupra Formentor 204 CV'), licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/cupra-formentor-20-tsi-204-2026-precio-ficha-tecnica-hunt3.webp", alt: "Formentor 2.0 TSI 204 CV DSG 4Drive (foto: CUPRA Austria (web oficial, interior nuevo Formentor 2024+), licencia desconocida)", ancho: 1352, alto: 760 },
     ],
     analisisSlug: "cupra-formentor-20-tsi-204-2026-precio-ficha-tecnica",
   },
@@ -2086,6 +2137,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica-hunt1.webp", alt: "León Sportstourer 2.0 TDI 150 CV DSG (foto: CUPRA / CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica-hunt2.webp", alt: "León Sportstourer 2.0 TDI 150 CV DSG (foto: CUPRA (prensa oficial) / PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
+      { src: "/media/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica-hunt3.webp", alt: "León Sportstourer 2.0 TDI 150 CV DSG (foto: CUPRA (prensa oficial) / Carsales, licencia desconocida)", ancho: 1022, alto: 682 },
     ],
     analisisSlug: "cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica",
     euroncap: {"estrellas": 5, "ano": 2025, "url": "https://www.seat-cupra-mediacenter.com/CUPRA-Brand/cupra-news/2025/CUPRA-Leon-Formentor-Born-secure-5Star-Euro-NCAP-rating-under-tougher-2025-standards", "nota": "Resultado Euro NCAP verificado para este modelo."},
@@ -2141,6 +2195,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-tavascan-endurance-286-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tavascan Endurance 286 CV 77 kWh (foto: CarExpert (serie de fotos del Cupra Tavascan Endurance MY25), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/cupra-tavascan-endurance-286-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tavascan Endurance 286 CV 77 kWh (foto: Tom White / CarsGuide, licencia desconocida)", ancho: 1262, alto: 841 },
+      { src: "/media/cupra-tavascan-endurance-286-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tavascan Endurance 286 CV 77 kWh (foto: Tom White / CarsGuide, licencia desconocida)", ancho: 1215, alto: 810 },
     ],
     analisisSlug: "cupra-tavascan-endurance-286-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "El Tavascan Endurance sigue el esquema de los eléctricos CUPRA: inspección cada dos años, sin aceite de motor que cambiar. En esa visita se comprueba el estado de salud de la batería de 77 kWh y se sustituyen el líquido de frenos y el filtro de polen, operaciones que cubren los planes CUPRA e-Care de la red oficial. El coste varía según taller y plan contratado.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.euroncap.com/en/results/cupra/tavascan/53133"},
@@ -2197,6 +2254,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-born-204-2026-precio-ficha-tecnica-hunt1.webp", alt: "Born 204 CV 59 kWh (foto: Cupra (prensa de lanzamiento) vía Evo, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/cupra-born-204-2026-precio-ficha-tecnica-hunt2.webp", alt: "Born 204 CV 59 kWh (foto: Cupra (prensa de lanzamiento) vía Carbuyer, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/cupra-born-204-2026-precio-ficha-tecnica-hunt3.webp", alt: "Born 204 CV 59 kWh (foto: Parkers (Bauer Media), foto de prensa Cupra, licencia desconocida)", ancho: 1752, alto: 1168 },
     ],
     analisisSlug: "cupra-born-204-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Sin aceite ni correas que sustituir, este Born trasero sigue el plan eléctrico de CUPRA: primera inspección a los dos años, con control del estado de salud de su batería de 59 kWh, cambio del líquido de frenos y sustitución del filtro de polen del habitáculo, operaciones recogidas en el plan e-CARE de la marca. Después, las revisiones pasan a ser anuales; neumáticos y pastillas quedan fuera del plan y se pagan aparte según desgaste.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://euroncap.blob.core.windows.net/media/91261/euroncap-2025-cupra-born-reassessment-datasheet.pdf"},
@@ -2265,6 +2325,9 @@ export const COCHES_EXP7: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/cupra-tavascan-190-2026-precio-ficha-tecnica-hunt1.webp", alt: "Tavascan 190 CV 58 kWh (foto: CUPRA / SEAT-CUPRA Media Center (vía SoloAuto), licencia desconocida)", ancho: 1340, alto: 754 },
+      { src: "/media/cupra-tavascan-190-2026-precio-ficha-tecnica-hunt2.webp", alt: "Tavascan 190 CV 58 kWh (foto: CUPRA / SEAT-CUPRA Media Center (vía SoloAuto), licencia desconocida)", ancho: 1380, alto: 920 },
+      { src: "/media/cupra-tavascan-190-2026-precio-ficha-tecnica-hunt3.webp", alt: "Tavascan 190 CV 58 kWh (foto: CUPRA / SEAT-CUPRA Media Center (vía SoloAuto), licencia desconocida)", ancho: 1024, alto: 585 },
     ],
     analisisSlug: "cupra-tavascan-190-2026-precio-ficha-tecnica",
   },
@@ -2307,8 +2370,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-macan-electric-2026-precio-ficha-tecnica-hunt1.webp", alt: "Macan Electric 360 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-macan-electric-2026-precio-ficha-tecnica-hunt2.webp", alt: "Macan Electric 360 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-macan-electric-2026-precio-ficha-tecnica-hunt3.webp", alt: "Macan Electric 360 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
     ],
     analisisSlug: "porsche-macan-electric-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla de servicios del Macan EV (tipo 95C3.1, desde 2024) de Porsche Centre Melbourne en dealer.porsche.com, dominio oficial de la red Porsche, verificada el 22/10/2026; sus precios están en dólares australianos y no se convierten, por eso los costes en euros quedan nulos. Porsche España no publica el plan detallado en su web.", "intervalo": "Sin plan oficial detallado publicado en abierto por Porsche España para el Macan Electric (verificado el 22/10/2026); la red oficial Porsche programa para el Macan EV inspecciones periódicas con partidas por tiempo, como el líquido de frenos cada 2 años", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección periódica del Macan EV", "queSeCambia": "Revisión general del vehículo en Centro Porsche: frenos, neumáticos, alumbrado, bajos y sistemas eléctricos, con lectura de la memoria de averías"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 2 años, según la tabla de partidas adicionales de la red oficial Porsche para el Macan EV"}, {"costeAproxEur": null, "nombre": "Sellante de neumáticos", "queSeCambia": "Sustitución del sellante antipinchazos cada 2 años, según la misma tabla oficial de la red Porsche para el Macan EV"}, {"costeAproxEur": null, "nombre": "Pastillas de freno delanteras y traseras", "queSeCambia": "Sustitución referenciada a los 90.000 km o 6 años en la tabla de la red oficial Porsche para el Macan EV, siempre según desgaste real"}]},
@@ -2365,8 +2429,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-hunt1.webp", alt: "Macan 4S Electric 516 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-hunt2.webp", alt: "Macan 4S Electric 516 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-hunt3.webp", alt: "Macan 4S Electric 516 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida (prensa oficial Porsche))", ancho: 1440, alto: 812 },
     ],
     analisisSlug: "porsche-macan-4s-electric-2026-precio-ficha-tecnica",
   },
@@ -2409,8 +2474,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-taycan-turbo-s-2026-precio-ficha-tecnica-hunt1.webp", alt: "Taycan Turbo S 952 CV (foto: Porsche (prensa oficial) vía TFLcar, licencia desconocida)", ancho: 1728, alto: 864 },
+      { src: "/media/porsche-taycan-turbo-s-2026-precio-ficha-tecnica-hunt2.webp", alt: "Taycan Turbo S 952 CV (foto: Porsche AG (web oficial), licencia desconocida)", ancho: 1720, alto: 1210 },
+      { src: "/media/porsche-taycan-turbo-s-2026-precio-ficha-tecnica-hunt3.webp", alt: "Taycan Turbo S 952 CV (foto: Porsche AG (web oficial), licencia desconocida)", ancho: 1600, alto: 1224 },
     ],
     analisisSlug: "porsche-taycan-turbo-s-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "El Centro Porsche Riverside publica para el Taycan revisión cada 2 años con sustitución del filtro de polen y cambio del líquido de frenos; el escalón europeo de 30.000 km coincide con el manual del Taycan y con la ficha del Turbo S recogida por CarExpert (servicio cada 24 meses o 30.000 km). Porsche España no publica tarifa cerrada, por lo que no se cita coste. Verificado el 22/10/2026.", "intervalo": "Cada 2 años o 30.000 km, lo que ocurra antes (plan Porsche para el Taycan eléctrico)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión bienal / 30.000 km", "queSeCambia": "Inspección multipunto con diagnóstico del sistema de alta tensión, sustitución del filtro de habitáculo y polen y cambio del líquido de frenos; sin aceite de motor por ser eléctrico puro"}, {"costeAproxEur": null, "nombre": "Revisión de los 4 años / 60.000 km", "queSeCambia": "Repetición del filtro de habitáculo y del líquido de frenos, con inspección ampliada de batería de alto voltaje, refrigeración, chasis, suspensión y frenos"}]},
@@ -2455,8 +2521,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-cayenne-s-e-hybrid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cayenne S E-Hybrid 519 CV (foto: Porsche AG (foto oficial de prensa), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/porsche-cayenne-s-e-hybrid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cayenne S E-Hybrid 519 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida)", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-cayenne-s-e-hybrid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cayenne S E-Hybrid 519 CV (foto: Porsche AG (foto oficial, vía StuttCars), licencia desconocida)", ancho: 770, alto: 578 },
     ],
     analisisSlug: "porsche-cayenne-s-e-hybrid-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla Cayenne Service de la red oficial Porsche (dealer.porsche.com): Annual Maintenance 15.000 km/1 año, Intermediate Maintenance 30.000 km/2 años, Major Maintenance 60.000 km/4 años y líquido de frenos cada 2 años; verificada el 22/10/2026. Porsche España no publica una tarifa cerrada para este S E-Hybrid, por lo que no se consigna ningún coste en euros.", "intervalo": "Mantenimiento anual cada 15.000 km o 1 año, intermedio cada 30.000 km o 2 años y mayor cada 60.000 km o 4 años, según la tabla de servicio Cayenne publicada por la red oficial Porsche", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento anual / 15.000 km o 1 año", "queSeCambia": "Aceite de motor y filtro de aceite, más inspección general de frenos, neumáticos, niveles y sistemas del vehículo"}, {"costeAproxEur": null, "nombre": "Mantenimiento intermedio / 30.000 km o 2 años", "queSeCambia": "Todo lo del servicio anual y sustitución del líquido de frenos, cuyo intervalo publicado es cada 2 años, con revisión del sistema híbrido y de alta tensión"}, {"costeAproxEur": null, "nombre": "Mantenimiento mayor / 60.000 km o 4 años", "queSeCambia": "Servicio intermedio más bujías y filtros según la tabla oficial de servicio Cayenne, con inspección completa de refrigeración, suspensión neumática y frenos"}]},
@@ -2501,8 +2568,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt1.webp", alt: "Panamera GTS 500 CV (foto: Porsche / CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt2.webp", alt: "Panamera GTS 500 CV (foto: Porsche / CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/porsche-panamera-gts-2026-precio-ficha-tecnica-hunt3.webp", alt: "Panamera GTS 500 CV (foto: Porsche / CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "porsche-panamera-gts-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía de mantenimiento del Panamera 2026 publicada por Porsche Milwaukee North, centro de la red oficial Porsche, verificada el 22/10/2026; Porsche España no publica tarifas en euros para este modelo, por eso todos los costes quedan sin dato", "intervalo": "Guía de Centro Porsche para el Panamera 2026: revisión anual o cada 10.000 millas, intermedia a los 2 años o 20.000 millas y mayor a los 4 años o 40.000 millas, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual o 10.000 millas", "queSeCambia": "Cambio de aceite y filtro con especificación aprobada por Porsche e inspección visual de frenos, neumáticos y bajos del coche"}, {"costeAproxEur": null, "nombre": "Intermedia a los 2 años o 20.000 millas", "queSeCambia": "Todo lo de la revisión anual más renovación del líquido de frenos y sustitución del filtro de habitáculo"}, {"costeAproxEur": null, "nombre": "Mayor a los 4 años o 40.000 millas", "queSeCambia": "Añade filtros de aire del motor y bujías en las versiones GTS, con inspección completa de chasis, correas y suspensión"}]},
@@ -2559,8 +2627,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-hunt1.webp", alt: "911 Carrera Cabriolet 394 CV (foto: Porsche AG (foto de prensa oficial) vía Stuttcars, licencia desconocida)", ancho: 1281, alto: 1920 },
+      { src: "/media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-hunt2.webp", alt: "911 Carrera Cabriolet 394 CV (foto: Porsche AG (foto de prensa oficial) vía Stuttcars, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-hunt3.webp", alt: "911 Carrera Cabriolet 394 CV (foto: Porsche AG (foto de prensa oficial) vía Stuttcars, licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     analisisSlug: "porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica",
   },
@@ -2603,8 +2672,9 @@ export const COCHES_EXP7: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/porsche-cayenne-gts-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cayenne GTS 500 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida)", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-cayenne-gts-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cayenne GTS 500 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida)", ancho: 1440, alto: 812 },
+      { src: "/media/porsche-cayenne-gts-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cayenne GTS 500 CV (foto: Porsche AG / Porsche Newsroom, licencia desconocida)", ancho: 1440, alto: 812 },
     ],
     analisisSlug: "porsche-cayenne-gts-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Calendario Cayenne Service de la red oficial Porsche (dealer.porsche.com): mantenimiento intermedio a 30.000 km/2 años, mayor a 60.000 km/4 años y líquido de frenos cada 2 años. Porsche España no publica una tarifa cerrada de mantenimiento para el Cayenne GTS, por lo que todos los costes van a null. Verificado el 22/10/2026", "intervalo": "Mantenimiento principal cada 2 años o 30.000 km, con mantenimiento mayor cada 4 años o 60.000 km, según el calendario Cayenne Service publicado por la red oficial Porsche", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento intermedio (2 años o 30.000 km)", "queSeCambia": "Aceite y filtro del motor junto a la inspección programada del conjunto que fija el calendario de servicio Porsche para el Cayenne"}, {"costeAproxEur": null, "nombre": "Líquido de frenos (cada 2 años)", "queSeCambia": "Sustitución completa del líquido de frenos, operación con cadencia bienal dentro del calendario de servicio del Cayenne"}, {"costeAproxEur": null, "nombre": "Mantenimiento mayor (4 años o 60.000 km)", "queSeCambia": "Alcance ampliado sobre el intermedio, con las sustituciones programadas por kilometraje y antigüedad que determine el Centro Porsche para cada unidad concreta"}]},

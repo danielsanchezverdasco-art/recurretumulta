@@ -109,7 +109,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero del nuevo Hyundai Tucson 2027 con pantalla central",
         "ancho": 588,
         "alto": 420
-      }
+      },
+      { src: "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-hunt1.webp", alt: "Tucson 2027 (foto: Hyundai Motor Company (foto oficial de presentación) vía km77.com, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-hunt2.webp", alt: "Tucson 2027 (foto: Hyundai Motor Company (foto oficial de presentación) vía km77.com, licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-hunt3.webp", alt: "Tucson 2027 (foto: Hyundai Motor Company (foto oficial de presentación) vía km77.com, licencia desconocida)", ancho: 800, alto: 450 },
     ],
   },
   {
@@ -205,7 +208,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Habitáculo de cuero marrón del Leapmotor C10",
         "ancho": 1000,
         "alto": 667
-      }
+      },
+      { src: "/media/leapmotor-c10-electrico-precio-ficha-tecnica-hunt1.webp", alt: "C10 (foto: Leapmotor (foto de prensa) vía Automotive Daily, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/leapmotor-c10-electrico-precio-ficha-tecnica-hunt2.webp", alt: "C10 (foto: Headlight Magazine (foto de prensa/spec del C10 EV), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/leapmotor-c10-electrico-precio-ficha-tecnica-hunt3.webp", alt: "C10 (foto: Car and Driving (prueba del Leapmotor C10 2025), licencia desconocida)", ancho: 2000, alto: 1125 },
     ],
   },
   {
@@ -313,7 +319,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero claro del Leapmotor T03",
         "ancho": 1023,
         "alto": 682
-      }
+      },
+      { src: "/media/leapmotor-t03-electrico-precio-ficha-tecnica-hunt1.webp", alt: "T03 (foto: Leapmotor vía Carscoops, licencia desconocida)", ancho: 1600, alto: 901 },
+      { src: "/media/leapmotor-t03-electrico-precio-ficha-tecnica-hunt2.webp", alt: "T03 (foto: Leapmotor vía EV Early News, licencia desconocida)", ancho: 1536, alto: 1137 },
+      { src: "/media/leapmotor-t03-electrico-precio-ficha-tecnica-hunt3.webp", alt: "T03 (foto: Leapmotor vía MoparInsiders, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
   },
   {
@@ -396,7 +405,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Puesto de conducción del Lynk & Co 02 con gran pantalla central",
         "ancho": 1200,
         "alto": 720
-      }
+      },
+      { src: "/media/lynk-co-02-electrico-precio-ficha-tecnica-hunt1.webp", alt: "02 (foto: Lynk & Co (prensa) vía CarsGuide, licencia desconocida)", ancho: 1490, alto: 841 },
+      { src: "/media/lynk-co-02-electrico-precio-ficha-tecnica-hunt2.webp", alt: "02 (foto: Lynk & Co (prensa) vía Lynk & Co Hedtke (concesionario oficial), licencia desconocida)", ancho: 2500, alto: 1247 },
+      { src: "/media/lynk-co-02-electrico-precio-ficha-tecnica-hunt3.webp", alt: "02 (foto: Nieuwenhuijse (concesionario Lynk & Co), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
   },
   {
@@ -506,7 +518,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero y pantalla del MG ZS Hybrid+",
         "ancho": 1200,
         "alto": 801
-      }
+      },
+      { src: "/media/mg-zs-hybrid-precio-ficha-tecnica-hunt1.webp", alt: "ZS Hybrid+ (foto: MG Motor (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mg-zs-hybrid-precio-ficha-tecnica-hunt2.webp", alt: "ZS Hybrid+ (foto: MG Motor Australia / CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/mg-zs-hybrid-precio-ficha-tecnica-hunt3.webp", alt: "ZS Hybrid+ (foto: MG Motor (foto de prensa) vía Nathaniel Cars, licencia desconocida)", ancho: 850, alto: 567 },
     ],
   },
   {
@@ -603,7 +618,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Asientos delanteros del Jaecoo 7",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica-hunt1.webp", alt: "7 SHS (foto: Carzanova, licencia desconocida)", ancho: 1200, alto: 628 },
+      { src: "/media/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica-hunt2.webp", alt: "7 SHS (foto: CarExpert (via RevDrive), licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica-hunt3.webp", alt: "7 SHS (foto: Carbuyer / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
   },
   {
@@ -705,7 +723,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero con doble pantalla del KGM Torres EVX",
         "ancho": 1200,
         "alto": 1200
-      }
+      },
+      { src: "/media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Torres EVX (foto: The EV Report / KGM (foto de prensa), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Torres EVX (foto: Licarco / Dolu Batarya, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/kgm-torres-evx-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Torres EVX (foto: Zakar Auto / KGM, licencia desconocida)", ancho: 1500, alto: 1125 },
     ],
   },
   {
@@ -806,7 +827,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Asientos de cuero acolchado del KGM Actyon",
         "ancho": 1200,
         "alto": 696
-      }
+      },
+      { src: "/media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt1.webp", alt: "Actyon (foto: KGM (prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt2.webp", alt: "Actyon (foto: KGM (prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/kgm-actyon-hibrido-precio-ficha-tecnica-hunt3.webp", alt: "Actyon (foto: KGM Italia (web oficial), licencia desconocida)", ancho: 1600, alto: 823 },
     ],
   },
   {
@@ -912,7 +936,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Ebro s800 PHEV negro en pueblo de montaña",
         "ancho": 1600,
         "alto": 1600
-      }
+      },
+      { src: "/media/ebro-s800-phev-precio-ficha-tecnica-hunt1.webp", alt: "S800 (foto: Ebro (web oficial ebroauto.com), licencia desconocida)", ancho: 1000, alto: 1000 },
+      { src: "/media/ebro-s800-phev-precio-ficha-tecnica-hunt2.webp", alt: "S800 (foto: Ebro (web oficial ebroauto.com), licencia desconocida)", ancho: 1000, alto: 641 },
+      { src: "/media/ebro-s800-phev-precio-ficha-tecnica-hunt3.webp", alt: "S800 (foto: Ebro (web oficial ebroauto.com), licencia desconocida)", ancho: 1000, alto: 563 },
     ],
   },
   {
@@ -1113,7 +1140,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Habitáculo de 7 plazas del DFSK E5",
         "ancho": 1200,
         "alto": 535
-      }
+      },
+      { src: "/media/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica-hunt1.webp", alt: "E5 (foto: Autonoción (prueba del DFSK E5 Intelligent en España), licencia desconocida)", ancho: 1600, alto: 1054 },
+      { src: "/media/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica-hunt2.webp", alt: "E5 (foto: Autonoción (prueba del DFSK E5 Intelligent en España), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/dfsk-e5-hibrido-enchufable-precio-ficha-tecnica-hunt3.webp", alt: "E5 (foto: Autonoción (prueba del DFSK E5 Intelligent en España), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
   },
   {
@@ -1224,7 +1254,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Puesto de conducción del Omoda 5 EV con doble pantalla",
         "ancho": 1080,
         "alto": 900
-      }
+      },
+      { src: "/media/omoda-5-ev-electrico-precio-ficha-tecnica-hunt1.webp", alt: "5 EV (foto: Autocar / Omoda (foto de prensa), licencia desconocida)", ancho: 1200, alto: 795 },
+      { src: "/media/omoda-5-ev-electrico-precio-ficha-tecnica-hunt2.webp", alt: "5 EV (foto: Omoda España / Omoda & Jaecoo (render oficial del fabricante), licencia desconocida)", ancho: 2000, alto: 1000 },
+      { src: "/media/omoda-5-ev-electrico-precio-ficha-tecnica-hunt3.webp", alt: "5 EV (foto: AutoMais TV / Omoda (foto real del interior), licencia desconocida)", ancho: 1320, alto: 792 },
     ],
   },
   {
@@ -1470,7 +1503,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero bicolor del Fiat Grande Panda",
         "ancho": 1200,
         "alto": 798
-      }
+      },
+      { src: "/media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Grande Panda (foto: Fiat / Stellantis (prensa) vía AutoScout24, licencia desconocida)", ancho: 818, alto: 460 },
+      { src: "/media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Grande Panda (foto: Fiat / Stellantis (prensa oficial) vía Carwow España, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/fiat-grande-panda-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Grande Panda (foto: Autotriti (prueba Fiat Grande Panda Electric), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
   },
   {
@@ -1588,7 +1624,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Habitáculo del Skoda Elroq Sportline",
         "ancho": 1600,
         "alto": 800
-      }
+      },
+      { src: "/media/skoda-elroq-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Elroq (foto: Škoda Auto (prensa) vía Paul Tan, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-elroq-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Elroq (foto: Škoda Auto (prensa) vía Group Fleet, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/skoda-elroq-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Elroq (foto: Škoda Auto (web oficial), licencia desconocida)", ancho: 1479, alto: 740 },
     ],
   },
   {
@@ -1699,7 +1738,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero del Kia EV3 con pantallas panorámicas",
         "ancho": 1200,
         "alto": 900
-      }
+      },
+      { src: "/media/kia-ev3-electrico-precio-ficha-tecnica-hunt1.webp", alt: "EV3 (foto: Kia (foto de prensa) / Electric Drive Magazin, licencia desconocida)", ancho: 980, alto: 653 },
+      { src: "/media/kia-ev3-electrico-precio-ficha-tecnica-hunt2.webp", alt: "EV3 (foto: Kia (foto de prensa) / ArenaEV, licencia desconocida)", ancho: 1200, alto: 688 },
+      { src: "/media/kia-ev3-electrico-precio-ficha-tecnica-hunt3.webp", alt: "EV3 (foto: electrive (prueba del Kia EV3 en Seúl), licencia desconocida)", ancho: 1400, alto: 933 },
     ],
   },
   {
@@ -1810,7 +1852,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Interior claro del Hyundai Inster",
         "ancho": 1130,
         "alto": 754
-      }
+      },
+      { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Inster (foto: Hyundai UK (prensa) / EVShift, licencia desconocida)", ancho: 750, alto: 501 },
+      { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Inster (foto: Hyundai Motor (oficial), licencia desconocida)", ancho: 1326, alto: 882 },
+      { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Inster (foto: Hyundai UK (prensa) / EV Fleet World (Foleon), licencia desconocida)", ancho: 800, alto: 534 },
     ],
   },
   {
@@ -1923,7 +1968,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Salpicadero del Citroën ë-C3 Aircross",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/citroen-e-c3-aircross-electrico-precio-ficha-tecnica-hunt1.webp", alt: "e-C3 Aircross (foto: Citroën (unidad de prensa) / CAR Magazine, licencia desconocida)", ancho: 2000, alto: 1125 },
+      { src: "/media/citroen-e-c3-aircross-electrico-precio-ficha-tecnica-hunt2.webp", alt: "e-C3 Aircross (foto: Citroën (foto oficial) / ArenaEV, licencia desconocida)", ancho: 1263, alto: 631 },
+      { src: "/media/citroen-e-c3-aircross-electrico-precio-ficha-tecnica-hunt3.webp", alt: "e-C3 Aircross (foto: Citroën (foto oficial) / ArenaEV, licencia desconocida)", ancho: 1263, alto: 842 },
     ],
   },
   {
@@ -2029,7 +2077,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Puesto de conducción del Opel Frontera Electric",
         "ancho": 1000,
         "alto": 667
-      }
+      },
+      { src: "/media/opel-frontera-electric-precio-ficha-tecnica-hunt1.webp", alt: "Frontera Electric (foto: Opel Automobile GmbH (foto de prensa) vía Sparneuwagen, licencia desconocida)", ancho: 1536, alto: 959 },
+      { src: "/media/opel-frontera-electric-precio-ficha-tecnica-hunt2.webp", alt: "Frontera Electric (foto: Opel (foto de prensa) vía einfach elektrisch, licencia desconocida)", ancho: 1536, alto: 960 },
+      { src: "/media/opel-frontera-electric-precio-ficha-tecnica-hunt3.webp", alt: "Frontera Electric (foto: Opel Automobile GmbH (foto de prensa) vía Auto Test und Technik, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
   },
   {
@@ -2123,6 +2174,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/nuevo-bmw-serie-3-i3-electrico-2026-precio-ficha-tecnica-hunt1.webp", alt: "i3 50 xDrive (foto: BMW Group PressClub (foto oficial P90632258), licencia desconocida)", ancho: 1200, alto: 1500 },
+      { src: "/media/nuevo-bmw-serie-3-i3-electrico-2026-precio-ficha-tecnica-hunt2.webp", alt: "i3 50 xDrive (foto: BMW Group PressClub (foto oficial P90632229), licencia desconocida)", ancho: 2248, alto: 1499 },
+      { src: "/media/nuevo-bmw-serie-3-i3-electrico-2026-precio-ficha-tecnica-hunt3.webp", alt: "i3 50 xDrive (foto: BMW Group PressClub (foto oficial P90632249), licencia desconocida)", ancho: 2248, alto: 1499 },
     ],
   },
 
@@ -2325,6 +2379,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 620,
         alto: 395,
       },
+      { src: "/media/audi-a2-e-tron-2026-precio-ficha-tecnica-hunt1.webp", alt: "A2 e-tron (foto: Audi AG (DAM oficial Audi), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/audi-a2-e-tron-2026-precio-ficha-tecnica-hunt2.webp", alt: "A2 e-tron (foto: Audi AG (foto de prensa) vía The Autopian, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/audi-a2-e-tron-2026-precio-ficha-tecnica-hunt3.webp", alt: "A2 e-tron (foto: Audi AG (foto de prensa) vía The Autopian, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
   },
   {
@@ -2407,6 +2464,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 974,
         alto: 511,
       },
+      { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-hunt1.webp", alt: "Roadster (foto: Tesla, Inc. (imagen oficial distribuida por Paul Tan), licencia desconocida)", ancho: 2048, alto: 1365 },
+      { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-hunt2.webp", alt: "Roadster (foto: Tesla, Inc. (fotograma oficial del evento de Waco, vía Paul Tan), licencia desconocida)", ancho: 2047, alto: 1035 },
+      { src: "/media/tesla-roadster-2026-retraso-precio-ficha-tecnica-hunt3.webp", alt: "Roadster (foto: Tesla, Inc. (foto oficial de prensa 2017, vía Teslarati), licencia desconocida)", ancho: 2048, alto: 1152 },
     ],
   },
   {
@@ -2478,6 +2538,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 1024,
         alto: 651,
       },
+      { src: "/media/xiaomi-yu7-suv-electrico-llegada-europa-hunt1.webp", alt: "YU7 (foto: Xiaomi (foto oficial) vía Autocar Philippines, licencia desconocida)", ancho: 1349, alto: 1011 },
+      { src: "/media/xiaomi-yu7-suv-electrico-llegada-europa-hunt2.webp", alt: "YU7 (foto: AutoExpress (foto de prueba en carretera), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/xiaomi-yu7-suv-electrico-llegada-europa-hunt3.webp", alt: "YU7 (foto: Xiaomi (foto oficial) vía Carscoops, licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
   },
   {
@@ -2537,6 +2600,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/li-auto-l6-ficha-tecnica-precio-hunt1.webp", alt: "L6 (foto: Dongchedi / AsiaExpressAuto (anuncio de unidad L6), licencia desconocida)", ancho: 1000, alto: 750 },
+      { src: "/media/li-auto-l6-ficha-tecnica-precio-hunt2.webp", alt: "L6 (foto: Dongchedi / AsiaExpressAuto (anuncio de unidad L6), licencia desconocida)", ancho: 1000, alto: 749 },
+      { src: "/media/li-auto-l6-ficha-tecnica-precio-hunt3.webp", alt: "L6 (foto: Future Mobility Tech (página de producto Li Auto L6), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
   },
   {
@@ -2608,6 +2674,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 1200,
         alto: 675,
       },
+      { src: "/media/aito-m9-huawei-ficha-tecnica-precio-hunt1.webp", alt: "M9 (foto: Paul Tan / Aito (foto oficial de lanzamiento), licencia desconocida)", ancho: 1260, alto: 660 },
+      { src: "/media/aito-m9-huawei-ficha-tecnica-precio-hunt2.webp", alt: "M9 (foto: Car250 / Dongchedi (foto de prensa), licencia desconocida)", ancho: 2048, alto: 1365 },
+      { src: "/media/aito-m9-huawei-ficha-tecnica-precio-hunt3.webp", alt: "M9 (foto: ChineseCars.me (Aito M9 2026), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
   },
   {
@@ -2618,7 +2687,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/yangwang-desconocidos-hero.webp", alt: "Foto del Yangwang U8", ancho: 1200, alto: 675 }
+      { src: "/media/yangwang-desconocidos-hero.webp", alt: "Foto del Yangwang U8", ancho: 1200, alto: 675 },
+      { src: "/media/yangwang-byd-u8-u9-europa-2027-hunt1.webp", alt: "U8 (foto: CompleteCar.ie (foto de prensa del evento BYD/Yangwang), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: "XFdE6NMgpuc",
     videoCanal: "CAR REVIEW",
@@ -2668,7 +2738,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/im-motors-desconocidos-hero.webp", alt: "Foto del IM Motors LS6", ancho: 1200, alto: 675 }
+      { src: "/media/im-motors-desconocidos-hero.webp", alt: "Foto del IM Motors LS6", ancho: 1200, alto: 675 },
+      { src: "/media/im-motors-ls6-nuevo-suv-electrico-model-y-hunt1.webp", alt: "LS6 (foto: CarExpert Australia, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/im-motors-ls6-nuevo-suv-electrico-model-y-hunt2.webp", alt: "LS6 (foto: Dolu Batarya, licencia desconocida)", ancho: 1536, alto: 974 },
     ],
     videoId: "dfjPACjgnXE",
     videoCanal: "MAD EV",
@@ -2757,6 +2829,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagen: "/media/li-auto-i8-hero.webp",
     galeria: [
       { src: "/media/li-auto-i8-hero.webp", alt: "Li Auto i8, SUV eléctrico de 6 plazas, vista exterior", ancho: 1200, alto: 675 },
+      { src: "/media/li-auto-i8-suv-electrico-6-plazas-precio-2026-hunt1.webp", alt: "i8 (foto: Li Auto (foto oficial, vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/li-auto-i8-suv-electrico-6-plazas-precio-2026-hunt2.webp", alt: "i8 (foto: Li Auto (foto oficial, vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
     ],
     opiniones: [],
   },
@@ -2768,7 +2842,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/geely-e2-electrico-barato-precio-espana-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/geely-e2-electrico-barato-precio-espana-hero.webp", alt: "Foto oficial del Geely E2", ancho: 1920, alto: 1280 }
+      { src: "/media/geely-e2-electrico-barato-precio-espana-hero.webp", alt: "Foto oficial del Geely E2", ancho: 1920, alto: 1280 },
+      { src: "/media/geely-e2-electrico-espana-13990-euros-ficha-hunt1.webp", alt: "E2 (foto: Geely vía AutoGreekNews, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/geely-e2-electrico-espana-13990-euros-ficha-hunt2.webp", alt: "E2 (foto: Geely vía Topspeed.gr, licencia desconocida)", ancho: 1855, alto: 787 },
     ],
     analisisSlug: "geely-e2-electrico-barato-precio-espana",
     videoId: "fRPebu_L1SE",
@@ -2821,7 +2897,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/dacia-tribrid-150-4x4-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/dacia-tribrid-150-4x4-hero.webp", alt: "Foto oficial del Dacia Tribrid 150 4x4", ancho: 1400, alto: 933 }
+      { src: "/media/dacia-tribrid-150-4x4-hero.webp", alt: "Foto oficial del Dacia Tribrid 150 4x4", ancho: 1400, alto: 933 },
+      { src: "/media/dacia-tribrid-150-4x4-tres-energias-hunt1.webp", alt: "Tribrid 150 4x4 (foto: CompleteCar.ie (prueba del Dacia Bigster Hybrid 150 4x4 en Francia), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/dacia-tribrid-150-4x4-tres-energias-hunt2.webp", alt: "Tribrid 150 4x4 (foto: CompleteCar.ie (prueba del Dacia Bigster Hybrid 150 4x4 en Francia), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/dacia-tribrid-150-4x4-tres-energias-hunt3.webp", alt: "Tribrid 150 4x4 (foto: CompleteCar.ie (prueba del Dacia Bigster Hybrid 150 4x4 en Francia), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: "QkvLWC6RXEU",
     videoCanal: "Motor1 España",
@@ -2870,7 +2949,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp", alt: "Foto oficial del Changan Nevo Q06", ancho: 1920, alto: 1280 }
+      { src: "/media/changan-nevo-q06-suv-electrico-paris-2026-hero.webp", alt: "Foto oficial del Changan Nevo Q06", ancho: 1920, alto: 1280 },
+      { src: "/media/changan-nevo-q06-suv-electrico-paris-2026-hunt1.webp", alt: "Nevo Q06 (foto: Changan Nevo (foto de prensa) vía EVCarNews, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/changan-nevo-q06-suv-electrico-paris-2026-hunt2.webp", alt: "Nevo Q06 (foto: Changan Nevo (foto de prensa) vía Carscoops, licencia desconocida)", ancho: 695, alto: 695 },
     ],
     videoId: "oAIYK4kcqoQ",
     videoCanal: "Car For Life Russia",
@@ -2921,7 +3002,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/volkswagen-id-aura-t6-xpeng-china-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/volkswagen-id-aura-t6-xpeng-china-hero.webp", alt: "Foto oficial del Volkswagen ID. Aura T6", ancho: 1920, alto: 1280 }
+      { src: "/media/volkswagen-id-aura-t6-xpeng-china-hero.webp", alt: "Foto oficial del Volkswagen ID. Aura T6", ancho: 1920, alto: 1280 },
+      { src: "/media/volkswagen-id-aura-t6-xpeng-china-hunt1.webp", alt: "ID. Aura T6 (foto: JustAnotherCarDesigner vía Wikimedia Commons, licencia CC0)", ancho: 1920, alto: 1280 },
     ],
     videoId: "dT4EtzfyN6c",
     videoCanal: "CARSbyML",
@@ -2990,7 +3072,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp", alt: "Foto oficial del Lynk & Co 07 GT", ancho: 1920, alto: 1280 }
+      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp", alt: "Foto oficial del Lynk & Co 07 GT", ancho: 1920, alto: 1280 },
+      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hunt1.webp", alt: "07 GT (foto: Lynk & Co (prensa) vía Autoblog, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hunt2.webp", alt: "07 GT (foto: Lynk & Co (prensa) vía LesEco Auto, licencia desconocida)", ancho: 1200, alto: 600 },
+      { src: "/media/lynk-co-07-gt-debut-europa-paris-2026-hunt3.webp", alt: "07 GT (foto: Lynk & Co (prensa oficial China), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     videoId: "8seHKPoPHhE",
     videoCanal: "Telescope",
@@ -3131,6 +3216,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         ancho: 1600,
         alto: 1066,
       },
+      { src: "/media/dacia-sandero-baja-precio-octubre-2026-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Dacia (foto de prensa de presentación) vía Rísbel Magazine, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     opiniones: [],
   },
@@ -3153,7 +3239,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp", alt: "Foto oficial del Hyundai i20", ancho: 1200, alto: 800 }
+      { src: "/media/hyundai-i20-baja-precio-octubre-2026-hero.webp", alt: "Foto oficial del Hyundai i20", ancho: 1200, alto: 800 },
+      { src: "/media/hyundai-i20-baja-precio-octubre-2026-hunt1.webp", alt: "i20 1.2 MPI (foto: Auto Express (foto de prensa Hyundai, coche de prensa UK), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/hyundai-i20-baja-precio-octubre-2026-hunt2.webp", alt: "i20 1.2 MPI (foto: Hyundai Motor Company (Hyundai Worldwide, página oficial de diseño del i20 BC3), licencia desconocida)", ancho: 544, alto: 360 },
     ],
     videoId: "e8vcAVBWyLY",
     videoCanal: "coches.net",
@@ -3203,7 +3291,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp", alt: "Foto oficial del Jetour G700", ancho: 1200, alto: 800 }
+      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hero.webp", alt: "Foto oficial del Jetour G700", ancho: 1200, alto: 800 },
+      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hunt1.webp", alt: "G700 (foto: Jetour (evento de presentación en Dubái) vía Icon.ink, licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hunt2.webp", alt: "G700 (foto: Jetour (foto de prensa) vía HotChinaCar, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/jetour-g700-903-cv-precio-ficha-tecnica-hunt3.webp", alt: "G700 (foto: DriveUAE (presentación Jetour G700 en Dubái), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: "d5BUo65JVVc",
     videoCanal: "OTO Drive",
@@ -3273,7 +3364,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4368, anchoMm: 1800, altoMm: 1456, pesoKg: 1346,
     consumo: 5.7, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 130,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-leon-15-tsi.webp", opiniones: [],
-    galeria: [{ src: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT León 1.5 TSI 115", ancho: 1200, alto: 800 }, ],
+    galeria: [{ src: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT León 1.5 TSI 115", ancho: 1200, alto: 800 },
+      { src: "/media/seat-leon-15-tsi-hunt1.webp", alt: "León 1.5 TSI (foto: Periodismo del Motor (prueba del León 1.5 TSI 150 CV), licencia desconocida)", ancho: 1068, alto: 711 },
+      { src: "/media/seat-leon-15-tsi-hunt2.webp", alt: "León 1.5 TSI (foto: SEAT (galería oficial SEAT UK), licencia desconocida)", ancho: 1708, alto: 960 },
+      { src: "/media/seat-leon-15-tsi-hunt3.webp", alt: "León 1.5 TSI (foto: CochesyConcesionarios (León 1.5 TSI 150 CV Xcellence), licencia desconocida)", ancho: 1024, alto: 682 },
+    ],
   },
   {
     id: "toyota-corolla-140h",
@@ -3300,6 +3395,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4370, anchoMm: 1790, altoMm: 1460, pesoKg: 1420,
     consumo: 4.4, consumoUnidad: "l/100 km", plazas: 5, parNm: 142, traccion: "Delantera", emisionesCo2: 100,
     aprox: ["bateriaKwh"], imagen: "/media/toyota-corolla-140h.webp", opiniones: [],
+    galeria: [
+      { src: "/media/toyota-corolla-140h-hunt1.webp", alt: "Corolla 140H (foto: El Periódico de la Energía (prueba real del Corolla 140H), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/toyota-corolla-140h-hunt2.webp", alt: "Corolla 140H (foto: El Periódico de la Energía (prueba real del Corolla 140H), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/toyota-corolla-140h-hunt3.webp", alt: "Corolla 140H (foto: El Periódico de la Energía (prueba real del Corolla 140H), licencia desconocida)", ancho: 1200, alto: 900 },
+    ],
   },
   {
     id: "renault-clio-e-tech-145",
@@ -3325,6 +3425,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4053, anchoMm: 1798, altoMm: 1439, pesoKg: 1323,
     consumo: 4.2, consumoUnidad: "l/100 km", plazas: 5, parNm: 148, traccion: "Delantera", emisionesCo2: 95,
     aprox: ["bateriaKwh"], imagen: "/media/renault-clio-e-tech-145.webp", opiniones: [],
+    galeria: [
+      { src: "/media/renault-clio-e-tech-145-hunt1.webp", alt: "Clio E-Tech 145 (foto: Gadget.ro (prueba del Clio E-Tech Full Hybrid 145) / Renault, licencia desconocida)", ancho: 950, alto: 491 },
+      { src: "/media/renault-clio-e-tech-145-hunt2.webp", alt: "Clio E-Tech 145 (foto: Renault / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/renault-clio-e-tech-145-hunt3.webp", alt: "Clio E-Tech 145 (foto: Car and Driving / Exchange and Mart (prueba del Clio E-Tech full hybrid), licencia desconocida)", ancho: 1600, alto: 1067 },
+    ],
   },
   {
     id: "volkswagen-golf-15-etsi",
@@ -3351,7 +3456,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4282, anchoMm: 1789, altoMm: 1483, pesoKg: 1373,
     consumo: 5.2, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 117,
     aprox: [], imagen: "/media/volkswagen-golf-15-etsi.webp", opiniones: [],
-    galeria: [{ src: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen Golf 1.5 eTSI R-Line", ancho: 1200, alto: 800 }, ],
+    galeria: [{ src: "/media/volkswagen-golf-15-etsi-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Volkswagen Golf 1.5 eTSI R-Line", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-golf-15-etsi-hunt1.webp", alt: "Golf 1.5 eTSI (foto: Autonoción, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/volkswagen-golf-15-etsi-hunt2.webp", alt: "Golf 1.5 eTSI (foto: Autonoción, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/volkswagen-golf-15-etsi-hunt3.webp", alt: "Golf 1.5 eTSI (foto: Autonoción, licencia desconocida)", ancho: 1600, alto: 1066 },
+    ],
   },
   {
     id: "toyota-c-hr-140h",
@@ -3378,6 +3487,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4362, anchoMm: 1832, altoMm: 1558, pesoKg: 1505,
     consumo: 4.7, consumoUnidad: "l/100 km", plazas: 5, parNm: 142, traccion: "Delantera", emisionesCo2: 105,
     aprox: ["bateriaKwh"], imagen: "/media/toyota-c-hr-140h.webp", opiniones: [],
+    galeria: [
+      { src: "/media/toyota-c-hr-140h-hunt1.webp", alt: "C-HR 140H (foto: Toyota / ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/toyota-c-hr-140h-hunt2.webp", alt: "C-HR 140H (foto: Toyota / ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/toyota-c-hr-140h-hunt3.webp", alt: "C-HR 140H (foto: Toyota / ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
+    ],
   },
   {
     id: "seat-arona-10-tsi",
@@ -3404,7 +3518,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4138, anchoMm: 1780, altoMm: 1552, pesoKg: 1213,
     consumo: 5.3, consumoUnidad: "l/100 km", plazas: 5, parNm: 200, traccion: "Delantera", emisionesCo2: 120,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-arona-10-tsi.webp", opiniones: [],
-    galeria: [{ src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 }, { src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 }],
+    galeria: [{ src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 }, { src: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del SEAT Arona 1.0 TSI 95", ancho: 1200, alto: 800 },
+      { src: "/media/seat-arona-10-tsi-hunt1.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / NetCarShow, licencia desconocida)", ancho: 1024, alto: 708 },
+      { src: "/media/seat-arona-10-tsi-hunt2.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / TractioN, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/seat-arona-10-tsi-hunt3.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / La Guía del Motor, licencia desconocida)", ancho: 1086, alto: 724 },
+    ],
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3431,6 +3549,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4186, anchoMm: 1805, altoMm: 1550, pesoKg: 1316,
     consumo: 5.4, consumoUnidad: "l/100 km", plazas: 5, parNm: 210, traccion: "Delantera", emisionesCo2: 121,
     aprox: [], imagen: "/media/ford-puma-10-ecoboost-mhev.webp", opiniones: [],
+    galeria: [
+      { src: "/media/ford-puma-10-ecoboost-mhev-hunt1.webp", alt: "Puma 1.0 EcoBoost mHEV (foto: Ford (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 1200, alto: 731 },
+      { src: "/media/ford-puma-10-ecoboost-mhev-hunt2.webp", alt: "Puma 1.0 EcoBoost mHEV (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 836 },
+      { src: "/media/ford-puma-10-ecoboost-mhev-hunt3.webp", alt: "Puma 1.0 EcoBoost mHEV (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 784 },
+    ],
   },
   {
     id: "renault-captur-e-tech-145",
@@ -3457,7 +3580,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4239, anchoMm: 1797, altoMm: 1575, pesoKg: 1445,
     consumo: 4.6, consumoUnidad: "l/100 km", plazas: 5, parNm: 148, traccion: "Delantera", emisionesCo2: 103,
     aprox: ["bateriaKwh"], imagen: "/media/renault-captur-e-tech-145.webp", opiniones: [],
-    galeria: [{ src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 }, { src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 }],
+    galeria: [{ src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 }, { src: "/media/renault-captur-e-tech-145-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Renault Captur E-Tech 145", ancho: 1200, alto: 800 },
+      { src: "/media/renault-captur-e-tech-145-hunt1.webp", alt: "Captur E-Tech 145 (foto: Autocritica.ro / prensa Renault (prueba del Captur E-Tech full hybrid facelift), licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/renault-captur-e-tech-145-hunt2.webp", alt: "Captur E-Tech 145 (foto: CompleteCar.ie (prueba del Captur E-Tech Full Hybrid 2024), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/renault-captur-e-tech-145-hunt3.webp", alt: "Captur E-Tech 145 (foto: Carsales.com.au / prensa Renault (Captur E-Tech Hybrid Esprit Alpine), licencia desconocida)", ancho: 1023, alto: 682 },
+    ],
   },
   {
     id: "toyota-yaris-120h",
@@ -3484,6 +3611,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 3940, anchoMm: 1745, altoMm: 1500, pesoKg: 1110,
     consumo: 4.3, consumoUnidad: "l/100 km", plazas: 5, parNm: 120, traccion: "Delantera", emisionesCo2: 87,
     aprox: ["bateriaKwh"], imagen: "/media/toyota-yaris-120h.webp", opiniones: [],
+    galeria: [
+      { src: "/media/toyota-yaris-120h-hunt1.webp", alt: "Yaris 120H (foto: Autonoción (prueba Toyota Yaris Hybrid 120H Active Tech 2021), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/toyota-yaris-120h-hunt2.webp", alt: "Yaris 120H (foto: Autonoción (prueba Toyota Yaris Hybrid 120H Active Tech 2021), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/toyota-yaris-120h-hunt3.webp", alt: "Yaris 120H (foto: Autonoción (prueba Toyota Yaris Hybrid 120H Active Tech 2021), licencia desconocida)", ancho: 1600, alto: 1067 },
+    ],
   },
   {
     id: "opel-corsa-12-turbo",
@@ -3509,6 +3641,11 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4060, anchoMm: 1765, altoMm: 1433, pesoKg: 1175,
     consumo: 5.2, consumoUnidad: "l/100 km", plazas: 5, parNm: 205, traccion: "Delantera", emisionesCo2: 116,
     aprox: [], imagen: "/media/opel-corsa-12-turbo.webp", opiniones: [],
+    galeria: [
+      { src: "/media/opel-corsa-12-turbo-hunt1.webp", alt: "Corsa 1.2 Turbo (foto: Wybor Kierowców, licencia desconocida)", ancho: 1536, alto: 939 },
+      { src: "/media/opel-corsa-12-turbo-hunt2.webp", alt: "Corsa 1.2 Turbo (foto: Autocritica / Opel (prensa), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/opel-corsa-12-turbo-hunt3.webp", alt: "Corsa 1.2 Turbo (foto: Autocosmos Chile, licencia desconocida)", ancho: 912, alto: 513 },
+    ],
   },
   {
     id: "peugeot-208-2026",
@@ -3528,7 +3665,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/peugeot-208-2026.webp", alt: "Foto del Peugeot 208 Turbo 100", ancho: 2400, alto: 1350 }
+      { src: "/media/peugeot-208-2026.webp", alt: "Foto del Peugeot 208 Turbo 100", ancho: 2400, alto: 1350 },
+      { src: "/media/peugeot-208-2026-hunt1.webp", alt: "208 Turbo 100 (foto: Vakgarage Frikkee (anuncio de un 208 1.2 PureTech 100 GT), licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/peugeot-208-2026-hunt2.webp", alt: "208 Turbo 100 (foto: Parkers (Bauer Media), foto de prueba en carretera, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-208-2026-hunt3.webp", alt: "208 Turbo 100 (foto: Stellantis & You UK (anuncio de un 208 1.2 PureTech Allure), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     videoId: "SPbs8SCL8Ww",
     videoCanal: "REVEL | Renting de Coches",
@@ -3586,7 +3726,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/citroen-c3-2026.webp", alt: "Foto del Citroën C3 1.2 Turbo 100", ancho: 1360, alto: 769 }
+      { src: "/media/citroen-c3-2026.webp", alt: "Foto del Citroën C3 1.2 Turbo 100", ancho: 1360, alto: 769 },
+      { src: "/media/citroen-c3-2026-hunt1.webp", alt: "C3 1.2 Turbo 100 (foto: CompleteCar.ie (fotos de prensa Citroën), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/citroen-c3-2026-hunt2.webp", alt: "C3 1.2 Turbo 100 (foto: CompleteCar.ie (fotos de prensa Citroën), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/citroen-c3-2026-hunt3.webp", alt: "C3 1.2 Turbo 100 (foto: CompleteCar.ie (fotos de prensa Citroën), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: "EebLT4DwvXs",
     videoCanal: "Periodismo del Motor",
@@ -3644,7 +3787,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/hyundai-i10-2026.webp", alt: "Foto del Hyundai i10 1.0 MPI 63", ancho: 800, alto: 533 }
+      { src: "/media/hyundai-i10-2026.webp", alt: "Foto del Hyundai i10 1.0 MPI 63", ancho: 800, alto: 533 },
+      { src: "/media/hyundai-i10-2026-hunt1.webp", alt: "i10 1.0 MPI 63 (foto: Hyundai Motor (foto de prensa oficial) vía Careta, licencia desconocida)", ancho: 1000, alto: 669 },
+      { src: "/media/hyundai-i10-2026-hunt2.webp", alt: "i10 1.0 MPI 63 (foto: Hyundai Motor (foto de prensa oficial) vía ADAC, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/hyundai-i10-2026-hunt3.webp", alt: "i10 1.0 MPI 63 (foto: Hyundai Motor (foto de prensa oficial) vía Careta, licencia desconocida)", ancho: 1000, alto: 667 },
     ],
     videoId: "dyAa0FAmO5E",
     videoCanal: "km77.com",
@@ -3703,7 +3849,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/kia-stonic-2026.webp", alt: "Foto del Kia Stonic 1.0 T-GDi 100", ancho: 1500, alto: 894 }
+      { src: "/media/kia-stonic-2026.webp", alt: "Foto del Kia Stonic 1.0 T-GDi 100", ancho: 1500, alto: 894 },
+      { src: "/media/kia-stonic-2026-hunt1.webp", alt: "Stonic 1.0 T-GDi 100 (foto: Actualidad Motor / Kia (fotos de prensa), licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/kia-stonic-2026-hunt2.webp", alt: "Stonic 1.0 T-GDi 100 (foto: Actualidad Motor / Kia (fotos de prensa), licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/kia-stonic-2026-hunt3.webp", alt: "Stonic 1.0 T-GDi 100 (foto: Actualidad Motor / Kia (fotos de prensa), licencia desconocida)", ancho: 1500, alto: 900 },
     ],
     videoId: "rXZAcvNqvbA",
     videoCanal: "coches.net",
@@ -3762,7 +3911,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/skoda-fabia-2026.webp", alt: "Foto del Skoda Fabia 1.0 MPI 80", ancho: 1600, alto: 1066 }
+      { src: "/media/skoda-fabia-2026.webp", alt: "Foto del Skoda Fabia 1.0 MPI 80", ancho: 1600, alto: 1066 },
+      { src: "/media/skoda-fabia-2026-hunt1.webp", alt: "Fabia 1.0 MPI 80 (foto: AutoJournal.cz, licencia desconocida)", ancho: 1178, alto: 811 },
+      { src: "/media/skoda-fabia-2026-hunt2.webp", alt: "Fabia 1.0 MPI 80 (foto: AutoJournal.cz, licencia desconocida)", ancho: 1147, alto: 822 },
+      { src: "/media/skoda-fabia-2026-hunt3.webp", alt: "Fabia 1.0 MPI 80 (foto: AutoJournal.cz, licencia desconocida)", ancho: 1200, alto: 847 },
     ],
     videoId: "i3GstOFFGyw",
     videoCanal: "coches.net",
@@ -3821,7 +3973,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/volkswagen-polo-2026.webp", alt: "Foto del Volkswagen Polo 1.0 TSI 95", ancho: 1024, alto: 576 }
+      { src: "/media/volkswagen-polo-2026.webp", alt: "Foto del Volkswagen Polo 1.0 TSI 95", ancho: 1024, alto: 576 },
+      { src: "/media/volkswagen-polo-2026-hunt1.webp", alt: "Polo 1.0 TSI 95 (foto: Volkswagen UK (foto de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/volkswagen-polo-2026-hunt2.webp", alt: "Polo 1.0 TSI 95 (foto: Volkswagen UK (foto de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/volkswagen-polo-2026-hunt3.webp", alt: "Polo 1.0 TSI 95 (foto: Volkswagen UK (foto de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     videoId: "oZM6MC2hd0g",
     videoCanal: "km77",
@@ -3880,7 +4035,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/seat-ibiza-2026.webp", alt: "Foto del SEAT Ibiza 1.0 MPI 80", ancho: 1600, alto: 1066 }
+      { src: "/media/seat-ibiza-2026.webp", alt: "Foto del SEAT Ibiza 1.0 MPI 80", ancho: 1600, alto: 1066 },
+      { src: "/media/seat-ibiza-2026-hunt1.webp", alt: "Ibiza 1.0 MPI 80 (foto: Autos Jaime de Paz (foto real de unidad a la venta, iPhone 13, EXIF 21/08/2026), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/seat-ibiza-2026-hunt2.webp", alt: "Ibiza 1.0 MPI 80 (foto: SEAT (prensa oficial del restyling 2026, vía Autonoción), licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/seat-ibiza-2026-hunt3.webp", alt: "Ibiza 1.0 MPI 80 (foto: SEAT (prensa oficial del restyling 2026, vía Autonoción), licencia desconocida)", ancho: 1280, alto: 800 },
     ],
     videoId: "LrxAED04GMA",
     videoCanal: "coches.net",
@@ -3938,7 +4096,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model 3", ancho: 1600, alto: 490 }
+      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model 3", ancho: 1600, alto: 490 },
+      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Model 3 (foto: Tesla (foto oficial de prensa, vía Tesla Oracle), licencia desconocida)", ancho: 1024, alto: 474 },
+      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Model 3 (foto: Tesla (foto oficial de prensa, vía Tesla Oracle), licencia desconocida)", ancho: 1024, alto: 448 },
+      { src: "/media/tesla-model-3-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Model 3 (foto: Tesla Model 3 Highland en exposición (foto real, vía TopElectricSUV), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: "5j9qyB7MMDY",
     videoCanal: "HolyCars TV",
@@ -3998,7 +4159,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model Y", ancho: 1280, alto: 720 }
+      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica.webp", alt: "Foto del Tesla Model Y", ancho: 1280, alto: 720 },
+      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Model Y (foto: Presse-Citron (foto real de presentación estática), licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Model Y (foto: Tesla (imagen oficial de prensa) vía nwradu.ro, licencia desconocida)", ancho: 1600, alto: 684 },
+      { src: "/media/tesla-model-y-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Model Y (foto: Autocar (foto real de prueba, Canon EOS 5D Mark IV según EXIF), licencia desconocida)", ancho: 1200, alto: 795 },
     ],
     videoId: "jg7IDgTrP0w",
     videoCanal: "Todos Eléctricos",
@@ -4058,7 +4222,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica.webp", alt: "Foto del BMW i4 eDrive40", ancho: 2248, alto: 1500 }
+      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica.webp", alt: "Foto del BMW i4 eDrive40", ancho: 2248, alto: 1500 },
+      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica-hunt1.webp", alt: "i4 eDrive40 (foto: MotorTrend (prueba del BMW i4 eDrive40 2025), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica-hunt2.webp", alt: "i4 eDrive40 (foto: MotorTrend (prueba del BMW i4 eDrive40 2025), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/bmw-i4-edrive40-electrico-precio-ficha-tecnica-hunt3.webp", alt: "i4 eDrive40 (foto: MotorTrend (prueba del BMW i4 eDrive40 2025), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     videoId: "YvihrbZqJ8Y",
     videoCanal: "Car Unplugged",
@@ -4111,7 +4278,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica.webp", alt: "Foto del Mercedes-Benz EQE 300", ancho: 740, alto: 416 }
+      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica.webp", alt: "Foto del Mercedes-Benz EQE 300", ancho: 740, alto: 416 },
+      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica-hunt1.webp", alt: "EQE 300 (foto: Mercedes-Benz (oficial, anuncio EQE 300 de Mercedes-Benz Gebrauchtwagen Stuttgart), licencia desconocida)", ancho: 740, alto: 416 },
+      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica-hunt2.webp", alt: "EQE 300 (foto: Auto2000 Prestige Cars (concesionario, anuncio EQE 300 89 kWh AMG Line Premium), licencia desconocida)", ancho: 1278, alto: 958 },
+      { src: "/media/mercedes-eqe-300-electrico-precio-ficha-tecnica-hunt3.webp", alt: "EQE 300 (foto: Mercedes-Benz (oficial, anuncio EQE 300 de Mercedes-Benz Gebrauchtwagen Stuttgart), licencia desconocida)", ancho: 740, alto: 416 },
     ],
     videoId: "qBkJn89C0SI",
     videoCanal: "km77.com",
@@ -4162,7 +4332,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica.webp", alt: "Foto del Audi Q4 e-tron 45", ancho: 1600, alto: 900 }
+      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica.webp", alt: "Foto del Audi Q4 e-tron 45", ancho: 1600, alto: 900 },
+      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Q4 e-tron 45 (foto: Bilbasen Blog (foto de prueba), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Q4 e-tron 45 (foto: CarExpert / Audi (foto de prensa), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/audi-q4-e-tron-45-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Q4 e-tron 45 (foto: CarExpert / Audi (foto de prensa), licencia desconocida)", ancho: 960, alto: 640 },
     ],
     videoId: "0rdv3DYWmZ4",
     videoCanal: "Periodismo del Motor",
@@ -4215,7 +4388,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID.4 Pro", ancho: 1600, alto: 1067 }
+      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID.4 Pro", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica-hunt1.webp", alt: "ID.4 Pro (foto: Volkswagen AG (servidor oficial de medios vw-mms.de, imagen DB2022AU00705), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica-hunt2.webp", alt: "ID.4 Pro (foto: Cars4Starters (foto de prensa Volkswagen ID.4 Pro), licencia desconocida)", ancho: 1155, alto: 770 },
+      { src: "/media/volkswagen-id4-pro-electrico-precio-ficha-tecnica-hunt3.webp", alt: "ID.4 Pro (foto: MotorBiscuit, licencia desconocida)", ancho: 1272, alto: 686 },
     ],
     videoId: "sO2qpBnsUTQ",
     videoCanal: "Real Car Test",
@@ -4266,7 +4442,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica.webp", alt: "Foto del Skoda Enyaq 60", ancho: 1600, alto: 1067 }
+      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica.webp", alt: "Foto del Skoda Enyaq 60", ancho: 1600, alto: 1067 },
+      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Enyaq 60 (foto: Skoda Auto (foto de prensa, vía electrive), licencia desconocida)", ancho: 1400, alto: 933 },
+      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Enyaq 60 (foto: Carwow, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/skoda-enyaq-60-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Enyaq 60 (foto: Skoda Auto (foto de prensa, vía Auto Express), licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     videoId: "CTs5r-q7mao",
     videoCanal: "MOTORK",
@@ -4308,7 +4487,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica.webp", alt: "Foto del Hyundai Ioniq 5", ancho: 1280, alto: 640 }
+      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica.webp", alt: "Foto del Hyundai Ioniq 5", ancho: 1280, alto: 640 },
+      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica-hunt1.webp", alt: "Ioniq 5 (foto: Hyundai Motor (imagen de prensa oficial del facelift 2025) vía Driving Enthusiast, licencia desconocida)", ancho: 1600, alto: 944 },
+      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Ioniq 5 (foto: Hyundai Motor (prensa facelift) vía Carbuyer, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/hyundai-ioniq-5-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Ioniq 5 (foto: Hyundai Motor (prensa facelift) vía Autocar India / Autocar Professional, licencia desconocida)", ancho: 1200, alto: 795 },
     ],
     videoId: "S1EC8YlrI88",
     videoCanal: "km77",
@@ -4352,7 +4534,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica.webp", alt: "Foto del Kia EV6", ancho: 1160, alto: 653 }
+      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica.webp", alt: "Foto del Kia EV6", ancho: 1160, alto: 653 },
+      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica-hunt1.webp", alt: "EV6 (foto: Kia (foto/render de prensa oficial del lanzamiento) vía Paul Tan, licencia desconocida)", ancho: 1920, alto: 1081 },
+      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica-hunt2.webp", alt: "EV6 (foto: Kia (foto/render de prensa oficial del lanzamiento) vía Paul Tan, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/kia-ev6-electrico-precio-ficha-tecnica-hunt3.webp", alt: "EV6 (foto: Kia (foto/render de prensa oficial del lanzamiento) vía Paul Tan, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     videoId: "Yyhw3mZ-HaM",
     videoCanal: "MiKilovatio",
@@ -4405,7 +4590,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID. Buzz", ancho: 1600, alto: 1067 }
+      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica.webp", alt: "Foto del Volkswagen ID. Buzz", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica-hunt1.webp", alt: "ID. Buzz (foto: Volkswagen (foto de prensa oficial) vía TopSpeed, licencia desconocida)", ancho: 825, alto: 464 },
+      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica-hunt2.webp", alt: "ID. Buzz (foto: Volkswagen (foto de prensa oficial) vía Autoreview NL, licencia desconocida)", ancho: 600, alto: 399 },
+      { src: "/media/volkswagen-id-buzz-electrico-precio-ficha-tecnica-hunt3.webp", alt: "ID. Buzz (foto: Volkswagen (foto de prensa oficial, ref. DB2022AU00759) vía MotorVolt, licencia desconocida)", ancho: 2048, alto: 1366 },
     ],
     videoId: "Id6QVjdpEdo",
     videoCanal: "Periodismo del Motor",
@@ -4457,7 +4645,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/nissan-qashqai-e-power-205.webp", alt: "Foto del Nissan Qashqai e-Power 205 CV", ancho: 1600, alto: 866 }
+      { src: "/media/nissan-qashqai-e-power-205.webp", alt: "Foto del Nissan Qashqai e-Power 205 CV", ancho: 1600, alto: 866 },
+      { src: "/media/nissan-qashqai-e-power-205-hunt1.webp", alt: "Qashqai e-Power 205 CV (foto: Nissan (foto de prensa) vía CarSifu / CloudFront Nissan, licencia desconocida)", ancho: 1024, alto: 766 },
+      { src: "/media/nissan-qashqai-e-power-205-hunt2.webp", alt: "Qashqai e-Power 205 CV (foto: Nissan (foto de prensa) vía Nissan Insider, licencia desconocida)", ancho: 1583, alto: 808 },
+      { src: "/media/nissan-qashqai-e-power-205-hunt3.webp", alt: "Qashqai e-Power 205 CV (foto: Nissan (foto de prensa) vía Nissan Insider, licencia desconocida)", ancho: 1024, alto: 682 },
     ],
     videoId: "0gr-Lmbmps4",
     videoCanal: "Híbridos y Eléctricos",
@@ -4518,7 +4709,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/nissan-juke-hybrid-143.webp", alt: "Foto del Nissan Juke Hybrid 143 CV", ancho: 1440, alto: 1152 }
+      { src: "/media/nissan-juke-hybrid-143.webp", alt: "Foto del Nissan Juke Hybrid 143 CV", ancho: 1440, alto: 1152 },
+      { src: "/media/nissan-juke-hybrid-143-hunt1.webp", alt: "Juke Hybrid 143 CV (foto: PruebaTuCoche (prueba Nissan Juke Hybrid en España), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/nissan-juke-hybrid-143-hunt2.webp", alt: "Juke Hybrid 143 CV (foto: PruebaTuCoche (prueba Nissan Juke Hybrid en España), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/nissan-juke-hybrid-143-hunt3.webp", alt: "Juke Hybrid 143 CV (foto: PruebaTuCoche (prueba Nissan Juke Hybrid en España), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     videoId: "BpeS1jLBJ4M",
     videoCanal: "km77",
@@ -4578,7 +4772,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mazda-cx-30-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-30 2.5 e-SKYACTIV G 140 CV", ancho: 765, alto: 431 }
+      { src: "/media/mazda-cx-30-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-30 2.5 e-SKYACTIV G 140 CV", ancho: 765, alto: 431 },
+      { src: "/media/mazda-cx-30-25-e-skyactiv-g-hunt1.webp", alt: "CX-30 2.5 e-SKYACTIV G 140 CV (foto: Autonoción, licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/mazda-cx-30-25-e-skyactiv-g-hunt2.webp", alt: "CX-30 2.5 e-SKYACTIV G 140 CV (foto: Autonoción, licencia desconocida)", ancho: 1280, alto: 800 },
+      { src: "/media/mazda-cx-30-25-e-skyactiv-g-hunt3.webp", alt: "CX-30 2.5 e-SKYACTIV G 140 CV (foto: Autonoción, licencia desconocida)", ancho: 1280, alto: 800 },
     ],
     videoId: "xeoOq2ofvrU",
     videoCanal: "coches.com",
@@ -4639,7 +4836,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/honda-cr-v-full-hybrid.webp", alt: "Foto del Honda CR-V Full Hybrid 184 CV", ancho: 1600, alto: 1066 }
+      { src: "/media/honda-cr-v-full-hybrid.webp", alt: "Foto del Honda CR-V Full Hybrid 184 CV", ancho: 1600, alto: 1066 },
+      { src: "/media/honda-cr-v-full-hybrid-hunt1.webp", alt: "CR-V Full Hybrid 184 CV (foto: Honda (foto de prensa) vía EV-Roads, licencia desconocida)", ancho: 1125, alto: 750 },
+      { src: "/media/honda-cr-v-full-hybrid-hunt2.webp", alt: "CR-V Full Hybrid 184 CV (foto: Honda (foto de prensa) vía DSF.my, licencia desconocida)", ancho: 1024, alto: 643 },
+      { src: "/media/honda-cr-v-full-hybrid-hunt3.webp", alt: "CR-V Full Hybrid 184 CV (foto: Honda (foto de prensa) vía Veículo Elétrico Blog, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     videoId: "EYw1hIZKHIc",
     videoCanal: "Periodismo del Motor",
@@ -4700,7 +4900,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/honda-hr-v-ehev.webp", alt: "Foto del Honda HR-V e:HEV 131 CV", ancho: 960, alto: 806 }
+      { src: "/media/honda-hr-v-ehev.webp", alt: "Foto del Honda HR-V e:HEV 131 CV", ancho: 960, alto: 806 },
+      { src: "/media/honda-hr-v-ehev-hunt1.webp", alt: "HR-V e:HEV 131 CV (foto: km77.com (prueba del HR-V e:HEV), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/honda-hr-v-ehev-hunt2.webp", alt: "HR-V e:HEV 131 CV (foto: Honda (foto de prensa, especificación europea) vía Paul Tan, licencia desconocida)", ancho: 1464, alto: 877 },
+      { src: "/media/honda-hr-v-ehev-hunt3.webp", alt: "HR-V e:HEV 131 CV (foto: CarExpert (review del HR-V e:HEV L), licencia desconocida)", ancho: 960, alto: 640 },
     ],
     videoId: "8v9fokoT9ZA",
     videoCanal: "km77",
@@ -4761,7 +4964,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/suzuki-vitara-14t-mild-hybrid.webp", alt: "Foto del Suzuki Vitara 1.4T Mild Hybrid 110 CV", ancho: 1600, alto: 1066 }
+      { src: "/media/suzuki-vitara-14t-mild-hybrid.webp", alt: "Foto del Suzuki Vitara 1.4T Mild Hybrid 110 CV", ancho: 1600, alto: 1066 },
+      { src: "/media/suzuki-vitara-14t-mild-hybrid-hunt1.webp", alt: "Vitara 1.4T Mild Hybrid 110 CV (foto: Eastbourne Motoring Centre (EMC Group), concesionario Suzuki, licencia desconocida)", ancho: 1440, alto: 756 },
+      { src: "/media/suzuki-vitara-14t-mild-hybrid-hunt2.webp", alt: "Vitara 1.4T Mild Hybrid 110 CV (foto: Autoblog.md (galería de prensa del Vitara facelift 2024), licencia desconocida)", ancho: 1500, alto: 844 },
+      { src: "/media/suzuki-vitara-14t-mild-hybrid-hunt3.webp", alt: "Vitara 1.4T Mild Hybrid 110 CV (foto: DailyRevs (galería Suzuki Vitara UK 2024), licencia desconocida)", ancho: 1600, alto: 1068 },
     ],
     videoId: "4lZBfJPNhJw",
     videoCanal: "Periodismo del Motor",
@@ -4822,7 +5028,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mitsubishi-asx-180-hev.webp", alt: "Foto del Mitsubishi ASX 180 HEV 160 CV", ancho: 1440, alto: 640 }
+      { src: "/media/mitsubishi-asx-180-hev.webp", alt: "Foto del Mitsubishi ASX 180 HEV 160 CV", ancho: 1440, alto: 640 },
+      { src: "/media/mitsubishi-asx-180-hev-hunt1.webp", alt: "ASX 180 HEV 160 CV (foto: Mitsubishi Motors (foto de prensa) / Edición Limitada, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/mitsubishi-asx-180-hev-hunt2.webp", alt: "ASX 180 HEV 160 CV (foto: Mitsubishi Motors (foto de prensa) / Revista 4x4, licencia desconocida)", ancho: 1417, alto: 797 },
+      { src: "/media/mitsubishi-asx-180-hev-hunt3.webp", alt: "ASX 180 HEV 160 CV (foto: Mitsubishi Motors / Mitsubishi Automotor (concesionario oficial), licencia desconocida)", ancho: 750, alto: 422 },
     ],
     videoId: "M7XsSixu-FI",
     videoCanal: "Prueba tu coche",
@@ -4882,7 +5091,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/jeep-avenger-electrico-156.webp", alt: "Foto del Jeep Avenger Eléctrico 156 CV", ancho: 1600, alto: 1066 }
+      { src: "/media/jeep-avenger-electrico-156.webp", alt: "Foto del Jeep Avenger Eléctrico 156 CV", ancho: 1600, alto: 1066 },
+      { src: "/media/jeep-avenger-electrico-156-hunt1.webp", alt: "Avenger Eléctrico 156 CV (foto: Jeep (foto de prensa) / CAR Magazine (Bauer Media), licencia desconocida)", ancho: 1600, alto: 1065 },
+      { src: "/media/jeep-avenger-electrico-156-hunt2.webp", alt: "Avenger Eléctrico 156 CV (foto: Jeep (foto de prensa) / Mobility Engineering (SAE), licencia desconocida)", ancho: 1600, alto: 750 },
+      { src: "/media/jeep-avenger-electrico-156-hunt3.webp", alt: "Avenger Eléctrico 156 CV (foto: Auto Express (prueba del Jeep Avenger eléctrico 2023), licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     videoId: "oV1_JSx4htQ",
     videoCanal: "Periodismo del Motor",
@@ -4981,7 +5193,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh"],
     imagen: "/media/alfa-romeo-junior-ibrida-145.webp",
     opiniones: [],
-    },
+    galeria: [
+      { src: "/media/alfa-romeo-junior-ibrida-145-hunt1.webp", alt: "Junior Ibrida 145 CV (foto: Automobile Magazine Türkiye (prueba Junior Ibrida 1.2 Hybrid 145 HP), licencia desconocida)", ancho: 696, alto: 522 },
+      { src: "/media/alfa-romeo-junior-ibrida-145-hunt2.webp", alt: "Junior Ibrida 145 CV (foto: Automobile Magazine Türkiye (prueba Junior Ibrida 1.2 Hybrid 145 HP), licencia desconocida)", ancho: 696, alto: 522 },
+      { src: "/media/alfa-romeo-junior-ibrida-145-hunt3.webp", alt: "Junior Ibrida 145 CV (foto: auto-illustrierte (Test Alfa Romeo Junior Ibrida), licencia desconocida)", ancho: 1600, alto: 1066 },
+    ],
+  },
   {
     id: "mazda-cx-5-25-e-skyactiv-g",
     mantenimientoDIY: {
@@ -5001,7 +5218,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mazda-cx-5-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-5 2.5 e-SKYACTIV G 141 CV", ancho: 1200, alto: 900 }
+      { src: "/media/mazda-cx-5-25-e-skyactiv-g.webp", alt: "Foto del Mazda CX-5 2.5 e-SKYACTIV G 141 CV", ancho: 1200, alto: 900 },
+      { src: "/media/mazda-cx-5-25-e-skyactiv-g-hunt1.webp", alt: "CX-5 2.5 e-SKYACTIV G 141 CV (foto: Mazda (fotos oficiales de prensa) vía BitAuto Global, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mazda-cx-5-25-e-skyactiv-g-hunt2.webp", alt: "CX-5 2.5 e-SKYACTIV G 141 CV (foto: Mazda (fotos oficiales de prensa) vía BitAuto Global, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mazda-cx-5-25-e-skyactiv-g-hunt3.webp", alt: "CX-5 2.5 e-SKYACTIV G 141 CV (foto: Mazda (fotos oficiales de prensa) vía BitAuto Global, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: "KSNXrYt_Fq8",
     videoCanal: "Diariomotor",
@@ -5062,7 +5282,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/toyota-rav4-hybrid-2026.webp", alt: "Foto del Toyota RAV4 Hybrid (2026)", ancho: 1200, alto: 800 }
+      { src: "/media/toyota-rav4-hybrid-2026.webp", alt: "Foto del Toyota RAV4 Hybrid (2026)", ancho: 1200, alto: 800 },
+      { src: "/media/toyota-rav4-hybrid-2026-hunt1.webp", alt: "RAV4 Hybrid (2026) (foto: Toyota (foto de prensa oficial, set Limited Storm Cloud) vía The Drive, licencia desconocida)", ancho: 1234, alto: 694 },
+      { src: "/media/toyota-rav4-hybrid-2026-hunt2.webp", alt: "RAV4 Hybrid (2026) (foto: Toyota (foto de prensa oficial, set Limited Storm Cloud; EXIF del fichero: Nathan Leach-Proffer) vía QuéAutoCompro, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/toyota-rav4-hybrid-2026-hunt3.webp", alt: "RAV4 Hybrid (2026) (foto: Toyota (foto de prensa oficial, set Limited) vía Carscoops, licencia desconocida)", ancho: 1600, alto: 1000 },
     ],
     videoId: "Zltc8ALagOY",
     videoCanal: "carwow España",
@@ -5115,7 +5338,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/honda-jazz-e-hev.webp", alt: "Foto del Honda Jazz e:HEV", ancho: 1400, alto: 700 }
+      { src: "/media/honda-jazz-e-hev.webp", alt: "Foto del Honda Jazz e:HEV", ancho: 1400, alto: 700 },
+      { src: "/media/honda-jazz-e-hev-hunt1.webp", alt: "Jazz e:HEV (foto: Honda (foto de prensa oficial) vía Car2Day, licencia desconocida)", ancho: 853, alto: 640 },
+      { src: "/media/honda-jazz-e-hev-hunt2.webp", alt: "Jazz e:HEV (foto: CarTimeline (foto de prensa Honda), licencia desconocida)", ancho: 600, alto: 400 },
+      { src: "/media/honda-jazz-e-hev-hunt3.webp", alt: "Jazz e:HEV (foto: Honda Pau (red oficial Honda) / Honda, licencia desconocida)", ancho: 960, alto: 960 },
     ],
     videoId: "DkcE38Fm8lM",
     videoCanal: "coches.net",
@@ -5167,7 +5393,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/honda-civic-e-hev.webp", alt: "Foto del Honda Civic e:HEV", ancho: 1200, alto: 800 }
+      { src: "/media/honda-civic-e-hev.webp", alt: "Foto del Honda Civic e:HEV", ancho: 1200, alto: 800 },
+      { src: "/media/honda-civic-e-hev-hunt1.webp", alt: "Civic e:HEV (foto: Honda (foto de prensa oficial) vía Mobiwisy, licencia desconocida)", ancho: 1200, alto: 827 },
+      { src: "/media/honda-civic-e-hev-hunt2.webp", alt: "Civic e:HEV (foto: Honda (foto de prensa oficial) vía Mobiwisy, licencia desconocida)", ancho: 1200, alto: 827 },
+      { src: "/media/honda-civic-e-hev-hunt3.webp", alt: "Civic e:HEV (foto: Honda (foto de prensa oficial) vía Mobiwisy, licencia desconocida)", ancho: 1200, alto: 827 },
     ],
     videoId: "ruHkoUcizmQ",
     videoCanal: "Garage Days by AutoScout24",
@@ -5219,7 +5448,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/kia-niro-hev-129.webp", alt: "Foto del Kia Niro HEV 129", ancho: 1024, alto: 555 }
+      { src: "/media/kia-niro-hev-129.webp", alt: "Foto del Kia Niro HEV 129", ancho: 1024, alto: 555 },
+      { src: "/media/kia-niro-hev-129-hunt1.webp", alt: "Niro HEV 129 (foto: MotorBiscuit / prensa Kia (Niro Hybrid 2023), licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/kia-niro-hev-129-hunt2.webp", alt: "Niro HEV 129 (foto: CarExpert (Niro Hybrid HEV GT-Line), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/kia-niro-hev-129-hunt3.webp", alt: "Niro HEV 129 (foto: MotorBiscuit / prensa Kia (Niro Hybrid 2023), licencia desconocida)", ancho: 1200, alto: 600 },
     ],
     videoId: "xHAagwB0KLk",
     videoCanal: "coches.net",
@@ -5270,7 +5502,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/hyundai-kona-hybrid-138.webp", alt: "Foto del Hyundai Kona Hybrid 138", ancho: 1126, alto: 653 }
+      { src: "/media/hyundai-kona-hybrid-138.webp", alt: "Foto del Hyundai Kona Hybrid 138", ancho: 1126, alto: 653 },
+      { src: "/media/hyundai-kona-hybrid-138-hunt1.webp", alt: "Kona Hybrid 138 (foto: Hyundai Motor (página oficial del Kona Hybrid, Hyundai Singapur), licencia desconocida)", ancho: 1600, alto: 1431 },
+      { src: "/media/hyundai-kona-hybrid-138-hunt2.webp", alt: "Kona Hybrid 138 (foto: Hyundai Motor Company (página oficial mundial del Kona HEV), licencia desconocida)", ancho: 1200, alto: 630 },
+      { src: "/media/hyundai-kona-hybrid-138-hunt3.webp", alt: "Kona Hybrid 138 (foto: icarcheck (prueba del Hyundai Kona 1.6 Hybrid 141 Intuitive HEV), licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     videoId: "pYVoZYKtIPo",
     videoCanal: "driverevel",
@@ -5322,7 +5557,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/kia-sportage-hev-239.webp", alt: "Foto del Kia Sportage HEV 239", ancho: 1600, alto: 1066 }
+      { src: "/media/kia-sportage-hev-239.webp", alt: "Foto del Kia Sportage HEV 239", ancho: 1600, alto: 1066 },
+      { src: "/media/kia-sportage-hev-239-hunt1.webp", alt: "Sportage HEV 239 (foto: Drive.gr (prueba Kia Sportage HEV 2WD MY2026), licencia desconocida)", ancho: 1230, alto: 810 },
+      { src: "/media/kia-sportage-hev-239-hunt2.webp", alt: "Sportage HEV 239 (foto: Drive.gr (prueba Kia Sportage HEV 2WD MY2026), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/kia-sportage-hev-239-hunt3.webp", alt: "Sportage HEV 239 (foto: Autoflotte (galería Kia Sportage Facelift 2026), licencia desconocida)", ancho: 945, alto: 532 },
     ],
     videoId: "-xWRx33KtPs",
     videoCanal: "JF Calero",
@@ -5374,7 +5612,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mazda-3-sedan-e-skyactiv-g.webp", alt: "Foto del Mazda Mazda3 Sedán 2.5 e-SKYACTIV G", ancho: 1260, alto: 710 }
+      { src: "/media/mazda-3-sedan-e-skyactiv-g.webp", alt: "Foto del Mazda Mazda3 Sedán 2.5 e-SKYACTIV G", ancho: 1260, alto: 710 },
+      { src: "/media/mazda-3-sedan-e-skyactiv-g-hunt1.webp", alt: "Mazda3 Sedán 2.5 e-SKYACTIV G (foto: Mazda vía CarBuzz, licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/mazda-3-sedan-e-skyactiv-g-hunt2.webp", alt: "Mazda3 Sedán 2.5 e-SKYACTIV G (foto: Mazda vía km77.com, licencia desconocida)", ancho: 390, alto: 244 },
+      { src: "/media/mazda-3-sedan-e-skyactiv-g-hunt3.webp", alt: "Mazda3 Sedán 2.5 e-SKYACTIV G (foto: Carscoops, licencia desconocida)", ancho: 1400, alto: 933 },
     ],
     videoId: "0uJIwcS72ac",
     videoCanal: "Loading Cars",
@@ -5435,7 +5676,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/skoda-octavia-15-tsi-mhev.webp", alt: "Foto del Skoda Octavia 1.5 TSI mHEV", ancho: 1448, alto: 799 }
+      { src: "/media/skoda-octavia-15-tsi-mhev.webp", alt: "Foto del Skoda Octavia 1.5 TSI mHEV", ancho: 1448, alto: 799 },
+      { src: "/media/skoda-octavia-15-tsi-mhev-hunt1.webp", alt: "Octavia 1.5 TSI mHEV (foto: Skoda (foto de prensa, vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/skoda-octavia-15-tsi-mhev-hunt2.webp", alt: "Octavia 1.5 TSI mHEV (foto: Skoda (foto de prensa, vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/skoda-octavia-15-tsi-mhev-hunt3.webp", alt: "Octavia 1.5 TSI mHEV (foto: Skoda Auto (Skoda Storyboard, prensa oficial), licencia desconocida)", ancho: 1440, alto: 960 },
     ],
     videoId: null,
     videoCanal: null,
@@ -5496,7 +5740,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/skoda-superb-15-tsi-mhev.webp", alt: "Foto del Skoda Superb 1.5 TSI mHEV", ancho: 1280, alto: 1440 }
+      { src: "/media/skoda-superb-15-tsi-mhev.webp", alt: "Foto del Skoda Superb 1.5 TSI mHEV", ancho: 1280, alto: 1440 },
+      { src: "/media/skoda-superb-15-tsi-mhev-hunt1.webp", alt: "Superb 1.5 TSI mHEV (foto: Autonoción (foto de prensa Skoda), licencia desconocida)", ancho: 768, alto: 480 },
+      { src: "/media/skoda-superb-15-tsi-mhev-hunt2.webp", alt: "Superb 1.5 TSI mHEV (foto: Skoda (foto de prensa difundida por Periodismo del Motor), licencia desconocida)", ancho: 1280, alto: 852 },
+      { src: "/media/skoda-superb-15-tsi-mhev-hunt3.webp", alt: "Superb 1.5 TSI mHEV (foto: Skoda (foto de prensa difundida por Periodismo del Motor), licencia desconocida)", ancho: 1280, alto: 852 },
     ],
     videoId: "SV2L2h_pUoE",
     videoCanal: "PruebaTuCoche",
@@ -5556,7 +5803,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/bmw-serie-3-318.webp", alt: "Foto del BMW Serie 3 318", ancho: 1536, alto: 1024 }
+      { src: "/media/bmw-serie-3-318.webp", alt: "Foto del BMW Serie 3 318", ancho: 1536, alto: 1024 },
+      { src: "/media/bmw-serie-3-318-hunt1.webp", alt: "Serie 3 318 (foto: Sam Surla / Visor.ph, licencia desconocida)", ancho: 1000, alto: 532 },
+      { src: "/media/bmw-serie-3-318-hunt2.webp", alt: "Serie 3 318 (foto: Sam Surla / Visor.ph, licencia desconocida)", ancho: 1000, alto: 600 },
+      { src: "/media/bmw-serie-3-318-hunt3.webp", alt: "Serie 3 318 (foto: Sam Surla / Visor.ph, licencia desconocida)", ancho: 1000, alto: 600 },
     ],
     videoId: null,
     videoCanal: null,
@@ -5616,7 +5866,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mercedes-clase-c-200.webp", alt: "Foto del Mercedes-Benz Clase C 200", ancho: 1600, alto: 1051 }
+      { src: "/media/mercedes-clase-c-200.webp", alt: "Foto del Mercedes-Benz Clase C 200", ancho: 1600, alto: 1051 },
+      { src: "/media/mercedes-clase-c-200-hunt1.webp", alt: "Clase C 200 (foto: Cristóbal Arjona / Luxury News Motor (Lifestyle Motor), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/mercedes-clase-c-200-hunt2.webp", alt: "Clase C 200 (foto: Cristóbal Arjona / Luxury News Motor (Lifestyle Motor), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/mercedes-clase-c-200-hunt3.webp", alt: "Clase C 200 (foto: Cristóbal Arjona / Luxury News Motor (Lifestyle Motor), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     videoId: "jWlPxisu4j4",
     videoCanal: "km77.com",
@@ -5676,7 +5929,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/volkswagen-passat-variant-15-etsi.webp", alt: "Foto del Volkswagen Passat Variant 1.5 eTSI", ancho: 1600, alto: 1067 }
+      { src: "/media/volkswagen-passat-variant-15-etsi.webp", alt: "Foto del Volkswagen Passat Variant 1.5 eTSI", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-passat-variant-15-etsi-hunt1.webp", alt: "Passat Variant 1.5 eTSI (foto: km77.com (foto de prensa Volkswagen), licencia desconocida)", ancho: 390, alto: 244 },
+      { src: "/media/volkswagen-passat-variant-15-etsi-hunt2.webp", alt: "Passat Variant 1.5 eTSI (foto: km77.com (foto de prensa Volkswagen), licencia desconocida)", ancho: 390, alto: 244 },
+      { src: "/media/volkswagen-passat-variant-15-etsi-hunt3.webp", alt: "Passat Variant 1.5 eTSI (foto: km77.com (foto de prensa Volkswagen), licencia desconocida)", ancho: 390, alto: 244 },
     ],
     videoId: "9jipLW7JCUs",
     videoCanal: "AutoScout24 España",
@@ -5737,7 +5993,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/mazda-mx-5-15-skyactiv-g.webp", alt: "Foto del Mazda MX-5 1.5 SKYACTIV-G", ancho: 1230, alto: 810 }
+      { src: "/media/mazda-mx-5-15-skyactiv-g.webp", alt: "Foto del Mazda MX-5 1.5 SKYACTIV-G", ancho: 1230, alto: 810 },
+      { src: "/media/mazda-mx-5-15-skyactiv-g-hunt1.webp", alt: "MX-5 1.5 SKYACTIV-G (foto: Auto-Data.net, licencia desconocida)", ancho: 1497, alto: 1000 },
+      { src: "/media/mazda-mx-5-15-skyactiv-g-hunt2.webp", alt: "MX-5 1.5 SKYACTIV-G (foto: BYmyCar (anuncio del vehículo), licencia desconocida)", ancho: 2133, alto: 1200 },
+      { src: "/media/mazda-mx-5-15-skyactiv-g-hunt3.webp", alt: "MX-5 1.5 SKYACTIV-G (foto: Hoonited (prueba del modelo), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     videoId: null,
     videoCanal: null,
@@ -5798,7 +6057,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/toyota-gr86-24-boxer.webp", alt: "Foto del Toyota GR86 2.4 Boxer", ancho: 1600, alto: 1243 }
+      { src: "/media/toyota-gr86-24-boxer.webp", alt: "Foto del Toyota GR86 2.4 Boxer", ancho: 1600, alto: 1243 },
+      { src: "/media/toyota-gr86-24-boxer-hunt1.webp", alt: "GR86 2.4 Boxer (foto: Toyota (sala de prensa Toyota Bélgica, Prezly), licencia desconocida)", ancho: 1500, alto: 1110 },
+      { src: "/media/toyota-gr86-24-boxer-hunt2.webp", alt: "GR86 2.4 Boxer (foto: Toyota (foto de prensa de lanzamiento, vía evo), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/toyota-gr86-24-boxer-hunt3.webp", alt: "GR86 2.4 Boxer (foto: Toyota Newsroom (vía TopSpeed), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     videoId: "jtjOe7mtbOI",
     videoCanal: "Garage Days by AutoScout24",
@@ -5858,7 +6120,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/bmw-m2-coupe.webp", alt: "Foto del BMW M2 Coupé", ancho: 1600, alto: 1066 }
+      { src: "/media/bmw-m2-coupe.webp", alt: "Foto del BMW M2 Coupé", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-m2-coupe-hunt1.webp", alt: "M2 Coupé (foto: BMW Group Press / BMW M GmbH, licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/bmw-m2-coupe-hunt2.webp", alt: "M2 Coupé (foto: BMW Group Press / BMW M GmbH, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/bmw-m2-coupe-hunt3.webp", alt: "M2 Coupé (foto: BMW Group Press / BMW M GmbH, licencia desconocida)", ancho: 1920, alto: 1440 },
     ],
     videoId: "zrbVzTJEH6A",
     videoCanal: "coches.net",
@@ -5918,7 +6183,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/bmw-m4-competition.webp", alt: "Foto del BMW M4 Competition", ancho: 1600, alto: 1066 }
+      { src: "/media/bmw-m4-competition.webp", alt: "Foto del BMW M4 Competition", ancho: 1600, alto: 1066 },
+      { src: "/media/bmw-m4-competition-hunt1.webp", alt: "M4 Competition (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 987 },
+      { src: "/media/bmw-m4-competition-hunt2.webp", alt: "M4 Competition (foto: LuvsMG481 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 791 },
+      { src: "/media/bmw-m4-competition-hunt3.webp", alt: "M4 Competition (foto: Damian B Oh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
     ],
     videoId: "uotjzSoJc9g",
     videoCanal: "km77.com",
@@ -5979,7 +6247,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/porsche-911-carrera-4s.webp", alt: "Foto del Porsche 911 Carrera 4S", ancho: 1000, alto: 563 }
+      { src: "/media/porsche-911-carrera-4s.webp", alt: "Foto del Porsche 911 Carrera 4S", ancho: 1000, alto: 563 },
+      { src: "/media/porsche-911-carrera-4s-hunt1.webp", alt: "911 Carrera 4S (foto: Porsche (foto de prensa oficial del 911 Carrera 4S 992.2, republicada por Stuttcars), licencia desconocida)", ancho: 1638, alto: 921 },
+      { src: "/media/porsche-911-carrera-4s-hunt2.webp", alt: "911 Carrera 4S (foto: Porsche (foto de prensa oficial del 911 Carrera 4S 992.2, republicada por Stuttcars), licencia desconocida)", ancho: 2560, alto: 1440 },
+      { src: "/media/porsche-911-carrera-4s-hunt3.webp", alt: "911 Carrera 4S (foto: Porsche AG (imagen oficial del fabricante en la página del modelo 911 Carrera 4S), licencia desconocida)", ancho: 2616, alto: 712 },
     ],
     videoId: "SJ5aMUHv6ew",
     videoCanal: "Coches SoyMotor.com",
@@ -6040,7 +6311,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/porsche-718-cayman-gt4-rs.webp", alt: "Foto del Porsche 718 Cayman GT4 RS", ancho: 1600, alto: 900 }
+      { src: "/media/porsche-718-cayman-gt4-rs.webp", alt: "Foto del Porsche 718 Cayman GT4 RS", ancho: 1600, alto: 900 },
+      { src: "/media/porsche-718-cayman-gt4-rs-hunt1.webp", alt: "718 Cayman GT4 RS (foto: Porsche Club Great Britain, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/porsche-718-cayman-gt4-rs-hunt2.webp", alt: "718 Cayman GT4 RS (foto: Elferspot (anuncio de unidad 2023), licencia desconocida)", ancho: 1800, alto: 1350 },
+      { src: "/media/porsche-718-cayman-gt4-rs-hunt3.webp", alt: "718 Cayman GT4 RS (foto: Vegas Auto Gallery (unidad 2023 en venta), licencia desconocida)", ancho: 767, alto: 511 },
     ],
     videoId: "mnqZYeHoWp0",
     videoCanal: "coches.net",
@@ -6090,7 +6364,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/alpine-a110.webp", alt: "Foto del Alpine A110", ancho: 1600, alto: 981 }
+      { src: "/media/alpine-a110.webp", alt: "Foto del Alpine A110", ancho: 1600, alto: 981 },
+      { src: "/media/alpine-a110-hunt1.webp", alt: "A110 (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1068 },
+      { src: "/media/alpine-a110-hunt2.webp", alt: "A110 (foto: CochesyConcesionarios (prueba del Alpine A110 1.8 252 CV), licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/alpine-a110-hunt3.webp", alt: "A110 (foto: CochesyConcesionarios (prueba del Alpine A110 1.8 252 CV), licencia desconocida)", ancho: 1024, alto: 682 },
     ],
     videoId: "LomhKC8G-CI",
     videoCanal: "coches.net",
@@ -6151,7 +6428,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/ford-mustang-gt-convertible.webp", alt: "Foto del Ford Mustang GT Convertible", ancho: 1024, alto: 683 }
+      { src: "/media/ford-mustang-gt-convertible.webp", alt: "Foto del Ford Mustang GT Convertible", ancho: 1024, alto: 683 },
+      { src: "/media/ford-mustang-gt-convertible-hunt1.webp", alt: "Mustang GT Convertible (foto: Ford (fotos de prensa del lanzamiento europeo) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/ford-mustang-gt-convertible-hunt2.webp", alt: "Mustang GT Convertible (foto: Ford (fotos de prensa del lanzamiento europeo) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/ford-mustang-gt-convertible-hunt3.webp", alt: "Mustang GT Convertible (foto: Ford (fotos de prensa del lanzamiento europeo) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     videoId: "LomhKC8G-CI",
     videoCanal: "coches.net",
@@ -6211,7 +6491,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/bmw-z4-sdrive20i.webp", alt: "Foto del BMW Z4 sDrive20i", ancho: 1220, alto: 813 }
+      { src: "/media/bmw-z4-sdrive20i.webp", alt: "Foto del BMW Z4 sDrive20i", ancho: 1220, alto: 813 },
+      { src: "/media/bmw-z4-sdrive20i-hunt1.webp", alt: "Z4 sDrive20i (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1050 },
+      { src: "/media/bmw-z4-sdrive20i-hunt2.webp", alt: "Z4 sDrive20i (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1003 },
+      { src: "/media/bmw-z4-sdrive20i-hunt3.webp", alt: "Z4 sDrive20i (foto: Tokumeigakarinoaoshima / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
     ],
     videoId: "eAlD56YLriE",
     videoCanal: "coches.net",
@@ -6272,7 +6555,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     imagenOficial: "",
     imagenInteriorOficial: "",
     galeria: [
-      { src: "/media/subaru-brz-24.webp", alt: "Foto del Subaru BRZ 2.4", ancho: 1600, alto: 1066 }
+      { src: "/media/subaru-brz-24.webp", alt: "Foto del Subaru BRZ 2.4", ancho: 1600, alto: 1066 },
+      { src: "/media/subaru-brz-24-hunt1.webp", alt: "BRZ 2.4 (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 878 },
+      { src: "/media/subaru-brz-24-hunt2.webp", alt: "BRZ 2.4 (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 855 },
+      { src: "/media/subaru-brz-24-hunt3.webp", alt: "BRZ 2.4 (foto: Ethan Llamas / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
     ],
     videoId: "MjNA7-BZiNM",
     videoCanal: "El Garage de Pepino",
@@ -6512,7 +6798,10 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     galeria: [
       { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Dacia Duster Hybrid 140", ancho: 1920, alto: 1280 },
       { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp", alt: "Foto del Dacia Duster Hybrid 140", ancho: 1600, alto: 1066 },
-      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Dacia Duster Hybrid 140", ancho: 1200, alto: 800 }
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp", alt: "Interior oficial del Dacia Duster Hybrid 140", ancho: 1200, alto: 800 },
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hunt1.webp", alt: "Duster Hybrid 140 (foto: Dacia (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hunt2.webp", alt: "Duster Hybrid 140 (foto: Dacia (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hunt3.webp", alt: "Duster Hybrid 140 (foto: Dacia (foto de prensa) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     videoId: "nvznUAWvySY",
     videoCanal: "carwow España (JF Calero)",

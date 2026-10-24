@@ -76,7 +76,10 @@ export const COCHES_FORD: CocheComparador[] = [
         "alt": "Interior del Ford Puma Gen-E",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Puma Gen-E (foto: Ford (foto de prensa de presentación) vía Villanyautósok, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Puma Gen-E (foto: Cars and Stuff (prueba Ford Puma Gen-E), licencia desconocida)", ancho: 1000, alto: 562 },
+      { src: "/media/ford-puma-gen-e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Puma Gen-E (foto: Ford (imagen oficial de prensa) vía ShiftDelete, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Frecuencia de servicio de 24 meses publicada en la ficha comercial de Parks Ford para el Puma Gen-E y confirmada por AutoExpress y Drive (revisión cada dos años), verificadas el 21/10/2026; Ford España no publica una tarifa cerrada de la revisión, por lo que los costes quedan sin dato", "intervalo": "Cada 24 meses (frecuencia de servicio publicada para el Puma Gen-E; las fuentes consultadas el 21/10/2026 no citan un límite de kilometraje asociado)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal del Gen-E", "queSeCambia": "Inspección en la red Ford de frenos, neumáticos, suspensión, dirección, batería de 12 V, circuito de refrigeración y sistema eléctrico de alta tensión, con comprobación del líquido de frenos y actualización de software si procede; sin aceite de motor, bujías ni escape que sustituir al ser eléctrico puro"}]},
   },
@@ -158,7 +161,10 @@ export const COCHES_FORD: CocheComparador[] = [
         "alt": "Interior del Ford Puma ST",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ford-puma-st-2025-precio-ficha-tecnica-hunt1.webp", alt: "Puma ST (foto: Carwow, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/ford-puma-st-2025-precio-ficha-tecnica-hunt2.webp", alt: "Puma ST (foto: carsales Australia / Ford (foto de prensa), licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/ford-puma-st-2025-precio-ficha-tecnica-hunt3.webp", alt: "Puma ST (foto: Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
   },
   {
@@ -401,7 +407,10 @@ export const COCHES_FORD: CocheComparador[] = [
         "alt": "Interior del Ford Focus ST",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ford-focus-st-2025-precio-ficha-tecnica-hunt1.webp", alt: "Focus ST (foto: Ford (foto de prensa) / Autoliveris, licencia desconocida)", ancho: 1600, alto: 1045 },
+      { src: "/media/ford-focus-st-2025-precio-ficha-tecnica-hunt2.webp", alt: "Focus ST (foto: Ford (foto de prensa) / Foray Motor Group, licencia desconocida)", ancho: 1380, alto: 776 },
+      { src: "/media/ford-focus-st-2025-precio-ficha-tecnica-hunt3.webp", alt: "Focus ST (foto: Ford (foto de prensa) / Hedin Automotive, licencia desconocida)", ancho: 700, alto: 466 },
     ],
   },
   {

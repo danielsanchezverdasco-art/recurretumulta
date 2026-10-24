@@ -304,7 +304,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "Se ofrece con llantas de aleación o de radios sin cámara según versión",
       "Es una de las trail del A2 más vendidas en España desde su lanzamiento",
     ],
-    imagen: "/media/motos/moto-morini-x-cape-700-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/moto-morini-x-cape-700-2025-ficha-tecnica-precio/moto-morini-x-cape-700-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/motos/moto-morini-x-cape-700-2025-ficha-tecnica-precio-2.webp",
@@ -313,7 +313,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/moto-morini-x-cape-700-2025-ficha-tecnica-precio-1.webp",
+        src: "/media/fotos-reales/moto-morini-x-cape-700-2025-ficha-tecnica-precio/moto-morini-x-cape-700-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Moto Morini X-Cape 700 2025, vista tres cuartos",
         ancho: 1200,
         alto: 800,
@@ -367,7 +367,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "El motor de 749 cc es un desarrollo completamente nuevo de la marca",
       "Moto Morini declara menos de 200 kg en orden de marcha, cifra de moto de 600",
     ],
-    imagen: "/media/motos/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/motos/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-2.webp",
@@ -376,7 +376,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-1.webp",
+        src: "/media/fotos-reales/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio/moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio-real-1.webp",
         alt: "Moto Morini Corsaro 750 Sport 2025, vista tres cuartos",
         ancho: 1200,
         alto: 800,
@@ -430,7 +430,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "Compite directamente con la KTM 390 Adventure y la Royal Enfield Himalayan 450",
       "El motor bicilíndrico de 450 cc es de desarrollo específico para este modelo",
     ],
-    imagen: "/media/motos/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/moto-morini-alltrhike-450-2026-ficha-tecnica-precio/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-real-1.webp",
     galeria: [
       {
         src: "/media/motos/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-2.webp",
@@ -439,7 +439,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-1.webp",
+        src: "/media/fotos-reales/moto-morini-alltrhike-450-2026-ficha-tecnica-precio/moto-morini-alltrhike-450-2026-ficha-tecnica-precio-real-1.webp",
         alt: "Moto Morini Alltrhike 450 2026, vista tres cuartos",
         ancho: 1200,
         alto: 800,

@@ -100,6 +100,9 @@ export const COCHES_EXP25: CocheComparador[] = [
         ancho: 1079,
         alto: 607,
       },
+      { src: "/media/lynk-co-z20-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección bienal (orientativa) (foto: Lynk & Co (prensa oficial) / Henk Scholten, licencia desconocida)", ancho: 2048, alto: 1536 },
+      { src: "/media/lynk-co-z20-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección bienal (orientativa) (foto: Lynk & Co (prensa oficial) / MotorOne, licencia desconocida)", ancho: 2560, alto: 2054 },
+      { src: "/media/lynk-co-z20-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección bienal (orientativa) (foto: Regeljelease (foto real de unidad europea), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     euroncap: {
       estrellas: 5,
@@ -204,6 +207,9 @@ export const COCHES_EXP25: CocheComparador[] = [
         ancho: 1200,
         alto: 900,
       },
+      { src: "/media/omoda-c7-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual (orientativa) (foto: Electrifying.com / Omoda (foto de prensa), licencia desconocida)", ancho: 1600, alto: 1062 },
+      { src: "/media/omoda-c7-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual (orientativa) (foto: CarExpert / Omoda (presentación oficial), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/omoda-c7-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual (orientativa) (foto: Rutamotor, licencia desconocida)", ancho: 1536, alto: 1024 },
     ],
     euroncap: {
       estrellas: null,
@@ -308,6 +314,9 @@ export const COCHES_EXP25: CocheComparador[] = [
         ancho: 1000,
         alto: 562,
       },
+      { src: "/media/opel-frontera-2024-precio-ficha-tecnica-hunt1.webp", alt: "Inspección bienal (foto: Opel / prensa oficial, vía The NewsMarket / AutoFutures, licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/opel-frontera-2024-precio-ficha-tecnica-hunt2.webp", alt: "Inspección bienal (foto: Opel / prensa oficial, vía Autogazette, licencia desconocida)", ancho: 1320, alto: 800 },
+      { src: "/media/opel-frontera-2024-precio-ficha-tecnica-hunt3.webp", alt: "Inspección bienal (foto: Opel / prensa oficial, vía MoparInsiders, licencia desconocida)", ancho: 2560, alto: 1440 },
     ],
     euroncap: {
       estrellas: null,
@@ -390,6 +399,9 @@ export const COCHES_EXP25: CocheComparador[] = [
         ancho: 1280,
         alto: 720,
       },
+      { src: "/media/gac-aion-v-2024-precio-ficha-tecnica-hunt1.webp", alt: "Inspección bienal (orientativa) (foto: Car250 / prensa GAC Aion, licencia desconocida)", ancho: 888, alto: 500 },
+      { src: "/media/gac-aion-v-2024-precio-ficha-tecnica-hunt2.webp", alt: "Inspección bienal (orientativa) (foto: CarNewsChina / prensa GAC Aion, licencia desconocida)", ancho: 1303, alto: 795 },
+      { src: "/media/gac-aion-v-2024-precio-ficha-tecnica-hunt3.webp", alt: "Inspección bienal (orientativa) (foto: GAC Group (web oficial), licencia desconocida)", ancho: 2100, alto: 1050 },
     ],
     euroncap: {"ano": 2025, "estrellas": 5, "nota": "Euro NCAP, septiembre de 2025, Aion V: 88 % en ocupantes adultos, 85 % en infantiles, 79 % en usuarios vulnerables y 78 % en asistentes de seguridad", "url": "https://euroncap.blob.core.windows.net/media/89287/euroncap-2025-aion-v-datasheet.pdf"},
     planMantenimiento: {
@@ -479,6 +491,9 @@ export const COCHES_EXP25: CocheComparador[] = [
         ancho: 480,
         alto: 480,
       },
+      { src: "/media/icar-03-2025-precio-ficha-tecnica-hunt1.webp", alt: "03 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/icar-03-2025-precio-ficha-tecnica-hunt2.webp", alt: "03 (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/icar-03-2025-precio-ficha-tecnica-hunt3.webp", alt: "03 (foto: Autosdeprimera / Wikimedia Commons, licencia CC BY 3.0)", ancho: 1600, alto: 960 },
     ],
     euroncap: {
       estrellas: null,

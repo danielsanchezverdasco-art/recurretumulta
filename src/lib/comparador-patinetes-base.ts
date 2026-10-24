@@ -116,7 +116,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-4-pro.webp",
     galeria: [
       {
-        src: "/media/patinetes/xiaomi-electric-scooter-4-pro-2.webp",
+        src: "/media/fotos-reales/xiaomi-electric-scooter-4-pro/xiaomi-electric-scooter-4-pro-real-2.webp",
         alt: "Xiaomi Electric Scooter 4 Pro en ciudad con conductor (foto oficial)",
         ancho: 1200,
         alto: 584,
@@ -818,7 +818,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-mini-special-dual-motor.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-mini-special-dual-motor-2.webp",
+        src: "/media/fotos-reales/dualtron-mini-special-dual-motor/dualtron-mini-special-dual-motor-real-2.webp",
         alt: "Dualtron Mini Special Dual Motor (foto oficial)",
         ancho: 1100,
         alto: 1422,
@@ -2073,8 +2073,11 @@ export const PATINETES_BASE: PatineteComparador[] = [
   ],
   veredicto: "El Hiboy S2 es la puerta de entrada perfecta si buscas un patinete barato, ligero y sin pinchazos para trayectos cortos. Su autonomía real (~17 km) lo limita a desplazamientos diarios modestos. Compara su ficha con el Hiboy S2 Pro antes de decidir si te compensa pagar más por el doble de autonomía.",
   fuenteNombre: "Hiboy — web oficial",
-  fuenteUrl: "https://hiboy.com/products/s2-electric-scooter-with-seat"
-},
+  fuenteUrl: "https://hiboy.com/products/s2-electric-scooter-with-seat",
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-s2/hiboy-s2-real-1.webp", alt: "S2 (foto: hiboy.com, licencia desconocida)", ancho: 1200, alto: 1200 },
+    ],
+  },
   {
   id: "hiboy-s2-pro",
   videoId: null,
@@ -2114,8 +2117,11 @@ export const PATINETES_BASE: PatineteComparador[] = [
   ],
   veredicto: "El S2 Pro es el Hiboy más equilibrado: 500 W, 40 km declarados y ruedas de 10\" con suspensión trasera por unos 470 €. Pierde fuelle en cuestas fuertes y sus 17 kg se notan al cargarlo. Compara su ficha con el Hiboy S2 antes de decidir si necesitas tanta batería.",
   fuenteNombre: "Hiboy — web oficial",
-  fuenteUrl: "https://www.hiboy.com/products/hiboy-s2pro-electric-scooter-for-daily-commuting"
-},
+  fuenteUrl: "https://www.hiboy.com/products/hiboy-s2pro-electric-scooter-for-daily-commuting",
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-s2-pro/hiboy-s2-pro-real-1.webp", alt: "S2 Pro (foto: hiboy.com, licencia desconocida)", ancho: 1600, alto: 1600 },
+    ],
+  },
   {
   id: "hiboy-max3",
   videoId: null,
@@ -2156,8 +2162,11 @@ export const PATINETES_BASE: PatineteComparador[] = [
   ],
   veredicto: "El Hiboy Max3 fue un superventas económico con deck ancho y neumáticos autorreparables, pero está descatalogado y lo sucede el Max Pro: no lo compres nuevo. Si lo encuentras de segunda mano, que sea barato y revisa el estado de la batería. Compara su ficha con el Hiboy S2 Pro antes de decidir.",
   fuenteNombre: "San Diego Bike Shop (distribuidor Hiboy)",
-  fuenteUrl: "https://www.sdbikeshop.com/product/hiboy-max3-9840.htm"
-},
+  fuenteUrl: "https://www.sdbikeshop.com/product/hiboy-max3-9840.htm",
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-max3/hiboy-max3-real-1.webp", alt: "Max3 (foto: scooter.guide, licencia desconocida)", ancho: 1280, alto: 1280 },
+    ],
+  },
   {
   id: "apollo-city-2024",
   videoId: null,
@@ -3826,7 +3835,10 @@ export const PATINETES_BASE: PatineteComparador[] = [
   veredicto: "El S2 Max es un gran urbano americano: 557 Wh y 65 km de autonomía. Pero sin distribución ni servicio en España, comprarlo es una apuesta; solo recomendable si lo encuentras con garantía europea.",
   fuenteNombre: "Hiboy (datos vía distribuidores)",
   fuenteUrl: "https://tiendamia.com.uy/p/amz/b09br8ccss/hiboy-s2-max-adult-electric-scooter-500w-motor-40-4-miles",
-},
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-s2-max/hiboy-s2-max-real-1.webp", alt: "S2 Max (foto: hiboy.com, licencia desconocida)", ancho: 1600, alto: 1600 },
+    ],
+  },
 {
   id: "hiboy-titan-pro",
   videoId: null,
@@ -3868,7 +3880,10 @@ export const PATINETES_BASE: PatineteComparador[] = [
   veredicto: "El Titan Pro es un monstruo todoterreno de doble motor pensado para el mercado americano. En España solo tiene sentido en circuito o finca privada; para la calle, su peso y potencia lo hacen poco práctico.",
   fuenteNombre: "Hiboy (web oficial, ficha Titan Pro 2026)",
   fuenteUrl: "https://www.hiboy.com/products/hiboy-titan-pro-electric-scooter-2026",
-},
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-titan-pro/hiboy-titan-pro-real-1.webp", alt: "Titan Pro (foto: hiboy.ca, licencia desconocida)", ancho: 1920, alto: 1920 },
+    ],
+  },
 {
   id: "turboant-x7-pro",
   videoId: null,
@@ -5077,6 +5092,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "El S2R Plus es un commuter americano correcto, con el acierto de la batería extraíble y el peso contenido. Pero sus 31 km/h reales lo dejan fuera de la legalidad española en vías públicas y, al no distribuirse aquí, el precio Eur queda sin verificar. Solo interesante si se usa en recinto privado o se limita la velocidad.",
     fuenteNombre: "Hiboy (web oficial)",
     fuenteUrl: "https://www.hiboy.com/products/hiboy-s2r-plus-electric-scooter",
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-s2r-plus/hiboy-s2r-plus-real-1.webp", alt: "S2R Plus (foto: hiboy.com, licencia desconocida)", ancho: 1600, alto: 1600 },
+    ],
   },
   {
     id: "joyor-s10s",
@@ -5571,6 +5589,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "El Hiboy KS4 Pro rinde bien sobre el papel y es un superventas en EE. UU., pero en España no tiene cabida legal: 31 km/h y 500 W lo dejan fuera de la normativa de VMP. Además, sin distribución oficial, cualquier avería es un problema. Solo para colección o uso privado fuera de vías públicas.",
     fuenteNombre: "Hiboy (oficial)",
     fuenteUrl: "https://www.hiboy.com/products/hiboy-ks4-pro-advanced-commuter-electric-scooter",
+    galeria: [
+      { src: "/media/fotos-reales/hiboy-ks4-pro/hiboy-ks4-pro-real-1.webp", alt: "KS4 Pro (foto: hiboy.com, licencia desconocida)", ancho: 1200, alto: 1200 },
+    ],
   },
   {
     id: "kukirin-g2-master",

@@ -29,13 +29,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-burn-e-3-max-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-burn-e-3-max-2.webp",
+        src: "/media/fotos-reales/nami-burn-e-3-max/nami-burn-e-3-max-real-0.webp",
         alt: "Detalle del manillar y la pantalla del Nami Burn-e 3 Max",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-burn-e-3-max-3.webp",
+        src: "/media/fotos-reales/nami-burn-e-3-max/nami-burn-e-3-max-real-1.webp",
         alt: "Nami Burn-e 3 Max circulando por ciudad",
         ancho: 1200,
         alto: 800,
@@ -99,13 +99,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-burn-e-3-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-burn-e-3-2.webp",
+        src: "/media/fotos-reales/nami-burn-e-3/nami-burn-e-3-real-0.webp",
         alt: "Detalle de la rueda delantera del Nami Burn-e 3",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-burn-e-3-3.webp",
+        src: "/media/fotos-reales/nami-burn-e-3/nami-burn-e-3-real-1.webp",
         alt: "Nami Burn-e 3 en carretera abierta",
         ancho: 1200,
         alto: 800,
@@ -168,13 +168,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-klima-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-klima-2.webp",
+        src: "/media/fotos-reales/nami-klima/nami-klima-real-0.webp",
         alt: "Detalle del manillar del Nami Klima",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-klima-3.webp",
+        src: "/media/fotos-reales/nami-klima/nami-klima-real-1.webp",
         alt: "Nami Klima circulando por la ciudad",
         ancho: 1200,
         alto: 800,
@@ -223,13 +223,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-klima-max-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-klima-max-2.webp",
+        src: "/media/fotos-reales/nami-klima-max/nami-klima-max-real-0.webp",
         alt: "Detalle de la batería y la plataforma del Nami Klima Max",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-klima-max-3.webp",
+        src: "/media/fotos-reales/nami-klima-max/nami-klima-max-real-1.webp",
         alt: "Nami Klima Max en uso urbano",
         ancho: 1200,
         alto: 800,
@@ -277,13 +277,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-blast-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-blast-2.webp",
+        src: "/media/fotos-reales/nami-blast/nami-blast-real-0.webp",
         alt: "Detalle del frontal del Nami Blast",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-blast-3.webp",
+        src: "/media/fotos-reales/nami-blast/nami-blast-real-1.webp",
         alt: "Nami Blast rodando por ciudad",
         ancho: 1200,
         alto: 800,
@@ -331,13 +331,13 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     foto: "/media/patinetes/nami-blast-max-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/nami-blast-max-2.webp",
+        src: "/media/fotos-reales/nami-blast-max/nami-blast-max-real-0.webp",
         alt: "Detalle de la doble suspensión del Nami Blast Max",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/nami-blast-max-3.webp",
+        src: "/media/fotos-reales/nami-blast-max/nami-blast-max-real-1.webp",
         alt: "Nami Blast Max en carretera",
         ancho: 1200,
         alto: 800,

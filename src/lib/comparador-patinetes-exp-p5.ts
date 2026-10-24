@@ -839,13 +839,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-gx1-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-gx1-2.webp",
+        src: "/media/fotos-reales/gotrax-gx1/gotrax-gx1-real-0.webp",
         alt: "Detalle de la doble suspensión del Gotrax GX1",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-gx1-3.webp",
+        src: "/media/fotos-reales/gotrax-gx1/gotrax-gx1-real-1.webp",
         alt: "Gotrax GX1 en una pista de tierra",
         ancho: 1200,
         alto: 800,
@@ -901,13 +901,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-gx2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-gx2-2.webp",
+        src: "/media/fotos-reales/gotrax-gx2/gotrax-gx2-real-0.webp",
         alt: "Detalle del doble motor del Gotrax GX2",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-gx2-3.webp",
+        src: "/media/fotos-reales/gotrax-gx2/gotrax-gx2-real-1.webp",
         alt: "Gotrax GX2 subiendo una cuesta empinada",
         ancho: 1200,
         alto: 800,
@@ -957,13 +957,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-g6-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-g6-2.webp",
+        src: "/media/fotos-reales/gotrax-g6/gotrax-g6-real-0.webp",
         alt: "Detalle del display LED del Gotrax G6",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-g6-3.webp",
+        src: "/media/fotos-reales/gotrax-g6/gotrax-g6-real-1.webp",
         alt: "Gotrax G6 circulando por un carril bici urbano",
         ancho: 1200,
         alto: 800,
@@ -1026,13 +1026,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-gxl-v2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-gxl-v2-2.webp",
+        src: "/media/fotos-reales/gotrax-gxl-v2/gotrax-gxl-v2-real-0.webp",
         alt: "Detalle del manillar del Gotrax GXL V2",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-gxl-v2-3.webp",
+        src: "/media/fotos-reales/gotrax-gxl-v2/gotrax-gxl-v2-real-1.webp",
         alt: "Gotrax GXL V2 plegado en un portal",
         ancho: 1200,
         alto: 800,
@@ -1094,13 +1094,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-g3-plus-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-g3-plus-2.webp",
+        src: "/media/fotos-reales/gotrax-g3-plus/gotrax-g3-plus-real-0.webp",
         alt: "Detalle de la plataforma del Gotrax G3 Plus",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-g3-plus-3.webp",
+        src: "/media/fotos-reales/gotrax-g3-plus/gotrax-g3-plus-real-1.webp",
         alt: "Gotrax G3 Plus en una zona peatonal",
         ancho: 1200,
         alto: 800,
@@ -1161,13 +1161,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-gx-zero-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-gx-zero-2.webp",
+        src: "/media/fotos-reales/gotrax-gx-zero/gotrax-gx-zero-real-0.webp",
         alt: "Detalle del chasis del Gotrax GX Zero",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-gx-zero-3.webp",
+        src: "/media/fotos-reales/gotrax-gx-zero/gotrax-gx-zero-real-1.webp",
         alt: "Gotrax GX Zero en un camino de tierra",
         ancho: 1200,
         alto: 800,
@@ -1217,13 +1217,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/gotrax-gx3-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/gotrax-gx3-2.webp",
+        src: "/media/fotos-reales/gotrax-gx3/gotrax-gx3-real-0.webp",
         alt: "Detalle de la rueda de 11 pulgadas del Gotrax GX3",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/gotrax-gx3-3.webp",
+        src: "/media/fotos-reales/gotrax-gx3/gotrax-gx3-real-1.webp",
         alt: "Gotrax GX3 en una pista off-road",
         ancho: 1200,
         alto: 800,
@@ -1504,13 +1504,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/zwheel-e12-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/zwheel-e12-2.webp",
+        src: "/media/fotos-reales/zwheel-e12/zwheel-e12-real-2.webp",
         alt: "Detalle de la doble suspensión del Zwheel E12",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/zwheel-e12-3.webp",
+        src: "/media/fotos-reales/zwheel-e12/zwheel-e12-real-3.webp",
         alt: "Zwheel E12 circulando por un campus universitario",
         ancho: 1200,
         alto: 800,
@@ -1644,13 +1644,13 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     foto: "/media/patinetes/zwheel-zwolf-duo-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/zwheel-zwolf-duo-2.webp",
+        src: "/media/fotos-reales/zwheel-zwolf-duo/zwheel-zwolf-duo-real-2.webp",
         alt: "Detalle del doble motor del Zwheel ZWolf Duo",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/patinetes/zwheel-zwolf-duo-3.webp",
+        src: "/media/fotos-reales/zwheel-zwolf-duo/zwheel-zwolf-duo-real-3.webp",
         alt: "Zwheel ZWolf Duo subiendo una cuesta urbana",
         ancho: 1200,
         alto: 800,

@@ -149,7 +149,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "El modo Reverse (marcha atras) es una ayuda real en pasos tecnicos",
       "Comparte filosofia con la Stark Varg, pero en formato y precio mas contenidos",
     ],
-    imagen: "/media/motos/sur-ron-ultra-bee-2025-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/sur-ron-ultra-bee-2025-ficha-tecnica-precio/sur-ron-ultra-bee-2025-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
         alt: "Sur-Ron Ultra Bee HP 2025, vista lateral en negro",

@@ -2010,7 +2010,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/kawasaki-ninja-7-hybrid-2024-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/kawasaki-ninja-7-hybrid-2024-ficha-tecnica-precio/kawasaki-ninja-7-hybrid-2024-ficha-tecnica-precio-real-3.webp",
         alt: "Kawasaki Ninja 7 Hybrid 2024 rodando en ciudad",
         ancho: 1200,
         alto: 800,

@@ -83,7 +83,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari 12Cilindri con volante de mandos y pantallas",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hunt1.webp", alt: "12Cilindri (foto: Mr.choppers vía Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1240 },
+      { src: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hunt2.webp", alt: "12Cilindri (foto: Ferrari (foto de prensa oficial del lanzamiento) vía CarExpert Australia, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hunt3.webp", alt: "12Cilindri (foto: Ferrari (foto de prensa oficial del lanzamiento) vía CarExpert Australia, licencia desconocida)", ancho: 1280, alto: 853 },
     ]
   },
   {
@@ -164,7 +167,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari 12Cilindri Spider con el cielo abierto",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-hunt1.webp", alt: "12Cilindri Spider (foto: Ferrari (prensa oficial, vía DailyRevs), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-hunt2.webp", alt: "12Cilindri Spider (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/ferrari-12cilindri-spider-2025-precio-ficha-tecnica-hunt3.webp", alt: "12Cilindri Spider (foto: Ferrari (prensa, vía Avto Magazin), licencia desconocida)", ancho: 1199, alto: 800 },
     ]
   },
   {
@@ -245,7 +251,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior de cuatro plazas del Ferrari Purosangue",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-purosangue-2025-precio-ficha-tecnica-hunt1.webp", alt: "Purosangue (foto: Ferrari (oficial), licencia desconocida)", ancho: 768, alto: 620 },
+      { src: "/media/ferrari-purosangue-2025-precio-ficha-tecnica-hunt2.webp", alt: "Purosangue (foto: Ferrari (oficial), licencia desconocida)", ancho: 1485, alto: 1080 },
+      { src: "/media/ferrari-purosangue-2025-precio-ficha-tecnica-hunt3.webp", alt: "Purosangue (foto: Ferrari (foto de prensa) vía Antar Motors, licencia desconocida)", ancho: 1200, alto: 675 },
     ]
   },
   {
@@ -326,7 +335,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari 296 GTB con volante de mandos",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-hunt1.webp", alt: "296 GTB (foto: Ferrari (prensa oficial) vía ADAC Autodatenbank, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-hunt2.webp", alt: "296 GTB (foto: Ferrari (prensa oficial) vía DrivingElectric, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/ferrari-296-gtb-2025-precio-ficha-tecnica-hunt3.webp", alt: "296 GTB (foto: MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
     ]
   },
   {
@@ -407,7 +419,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari 296 GTS con el cielo abierto",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hunt1.webp", alt: "296 GTS (foto: Ferrari S.p.A. (prensa oficial), licencia desconocida)", ancho: 1600, alto: 1031 },
+      { src: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hunt2.webp", alt: "296 GTS (foto: Ferrari S.p.A. (foto de prensa, vía Paul Tan), licencia desconocida)", ancho: 1200, alto: 748 },
+      { src: "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hunt3.webp", alt: "296 GTS (foto: CarExpert, licencia desconocida)", ancho: 1600, alto: 1066 },
     ]
   },
   {
@@ -488,7 +503,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior de carreras del Ferrari 296 Speciale con carbono expuesto",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hunt1.webp", alt: "296 Speciale (foto: Ferrari (foto de prensa oficial) vía AutoScout24, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hunt2.webp", alt: "296 Speciale (foto: CAR Magazine / Bauer Media (prueba del Ferrari 296 Speciale), licencia desconocida)", ancho: 1600, alto: 920 },
+      { src: "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hunt3.webp", alt: "296 Speciale (foto: Ferrari (foto de prensa oficial) vía EvoCars Magazin, licencia desconocida)", ancho: 1600, alto: 1066 },
     ]
   },
   {
@@ -670,7 +688,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior tecnológico del Ferrari SF90 Stradale con pantallas digitales",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-hunt1.webp", alt: "SF90 Stradale (foto: Ferrari (foto de prensa oficial) vía Ferrari Silicon Valley, concesionario oficial Ferrari, licencia desconocida)", ancho: 768, alto: 380 },
+      { src: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-hunt2.webp", alt: "SF90 Stradale (foto: Ferrari (foto de prensa oficial) vía Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-hunt3.webp", alt: "SF90 Stradale (foto: LUS.so (galería de venta de un SF90 Stradale 2022 real), licencia desconocida)", ancho: 1778, alto: 1000 },
     ]
   },
   {
@@ -751,7 +772,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari SF90 Spider con el techo abierto",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hunt1.webp", alt: "SF90 Spider (foto: Ferrari (foto de prensa oficial de lanzamiento) vía DSF.my, licencia desconocida)", ancho: 1280, alto: 897 },
+      { src: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hunt2.webp", alt: "SF90 Spider (foto: Collecting Cars, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hunt3.webp", alt: "SF90 Spider (foto: RM Sotheby's, licencia desconocida)", ancho: 1920, alto: 1440 },
     ]
   },
   {
@@ -832,7 +856,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior de competición del Ferrari SF90 XX Stradale",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hunt1.webp", alt: "SF90 XX Stradale (foto: Ferrari (foto oficial de prensa, CDN oficial ferrari.com), licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hunt2.webp", alt: "SF90 XX Stradale (foto: Ferrari (foto de prensa oficial) vía CarAndUser, licencia desconocida)", ancho: 1199, alto: 798 },
+      { src: "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hunt3.webp", alt: "SF90 XX Stradale (foto: Ferrari (foto de prensa oficial) vía Carscoops, licencia desconocida)", ancho: 2048, alto: 1366 },
     ]
   },
   {
@@ -913,7 +940,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Ferrari SF90 XX Spider, vista trasera de tres cuartos con alerón",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt1.webp", alt: "SF90 XX Spider (foto: RM Sotheby's / Supercars.net, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt2.webp", alt: "SF90 XX Spider (foto: RM Sotheby's / Supercars.net, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hunt3.webp", alt: "SF90 XX Spider (foto: Ferrari (prensa oficial, vía Auto123Channel), licencia desconocida)", ancho: 1920, alto: 1080 },
     ]
   },
   {
@@ -994,7 +1024,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior elegante del Ferrari Roma Spider con asientos de cuero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hunt1.webp", alt: "Roma Spider (foto: Ferrari (foto de prensa oficial) vía Bauer Media / Carwow, licencia desconocida)", ancho: 1700, alto: 1137 },
+      { src: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hunt2.webp", alt: "Roma Spider (foto: CompleteCar.ie (prueba Ferrari Roma Spider 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/ferrari-roma-spider-2025-precio-ficha-tecnica-hunt3.webp", alt: "Roma Spider (foto: Wikimedia Commons (autor no verificado, ver notas), licencia desconocida)", ancho: 960, alto: 569 },
     ]
   },
   {
@@ -1075,7 +1108,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior 2+2 del Ferrari Amalfi con acabados deportivos",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hunt1.webp", alt: "Amalfi (foto: Ferrari (foto de prensa de presentación) vía HDCarWallpapers, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hunt2.webp", alt: "Amalfi (foto: Ferrari (foto de prensa) vía Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/ferrari-amalfi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Amalfi (foto: Ferrari (foto de prensa) vía RPM, licencia desconocida)", ancho: 2160, alto: 1215 },
     ]
   },
   {
@@ -1156,7 +1192,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior minimalista del Ferrari Daytona SP3",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt1.webp", alt: "Daytona SP3 (foto: RM Sotheby's / Magneto Magazine, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt2.webp", alt: "Daytona SP3 (foto: RM Sotheby's, licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hunt3.webp", alt: "Daytona SP3 (foto: RM Sotheby's, licencia desconocida)", ancho: 960, alto: 540 },
     ]
   },
   {
@@ -1338,7 +1377,9 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari Roma con doble cabina y pantallas digitales",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-roma-2024-precio-ficha-tecnica-hunt1.webp", alt: "Roma (foto: Wikimedia Commons (foto en concesionario Ferrari), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/ferrari-roma-2024-precio-ficha-tecnica-hunt2.webp", alt: "Roma (foto: MotorTrend / Hot Rod (galería Ferrari Roma), licencia desconocida)", ancho: 1600, alto: 900 },
     ]
   },
   {
@@ -1419,7 +1460,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari Amalfi Spider con volante de botones físicos",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hunt1.webp", alt: "Amalfi Spider (foto: Ferrari S.p.A. / ferrari.com (prensa oficial), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hunt2.webp", alt: "Amalfi Spider (foto: Ferrari S.p.A. / ferrari.com (prensa oficial), licencia desconocida)", ancho: 1600, alto: 1600 },
+      { src: "/media/ferrari-amalfi-spider-2026-precio-ficha-tecnica-hunt3.webp", alt: "Amalfi Spider (foto: Ferrari S.p.A. / ferrari.com (prensa oficial), licencia desconocida)", ancho: 1600, alto: 900 },
     ]
   },
   {
@@ -1500,7 +1544,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior minimalista del Ferrari Luce con pantallas OLED",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-luce-2026-precio-ficha-tecnica-hunt1.webp", alt: "Luce (foto: Ferrari S.p.A. (web oficial Ferrari.com), licencia desconocida)", ancho: 1200, alto: 1200 },
+      { src: "/media/ferrari-luce-2026-precio-ficha-tecnica-hunt2.webp", alt: "Luce (foto: Ferrari S.p.A. (web oficial Ferrari.com), licencia desconocida)", ancho: 1200, alto: 1200 },
+      { src: "/media/ferrari-luce-2026-precio-ficha-tecnica-hunt3.webp", alt: "Luce (foto: Ferrari S.p.A. (web oficial Ferrari.com), licencia desconocida)", ancho: 1200, alto: 1200 },
     ]
   },
   {
@@ -1581,7 +1628,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior de competición del 296 Speciale Piloti con Alcántara ignífuga",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-hunt1.webp", alt: "296 Speciale Piloti (foto: Ferrari (foto de prensa oficial, set 296_WEC) vía AutoDrift.ae, licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-hunt2.webp", alt: "296 Speciale Piloti (foto: Ferrari (foto de prensa oficial) vía Carz / Caricarz, licencia desconocida)", ancho: 1100, alto: 733 },
+      { src: "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-hunt3.webp", alt: "296 Speciale Piloti (foto: Ferrari (foto de prensa oficial) vía Conceptcarz, licencia desconocida)", ancho: 1600, alto: 1067 },
     ]
   },
   {
@@ -1662,7 +1712,9 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del Ferrari 812 GTS con asientos deportivos",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-812-gts-2024-precio-ficha-tecnica-hunt1.webp", alt: "812 GTS (foto: Ferrari (foto de prensa oficial) vía Premier Financial Services, licencia desconocida)", ancho: 1200, alto: 583 },
+      { src: "/media/ferrari-812-gts-2024-precio-ficha-tecnica-hunt2.webp", alt: "812 GTS (foto: Ferrari (foto de prensa oficial) vía Oto Singapore, licencia desconocida)", ancho: 930, alto: 620 },
     ]
   },
   {
@@ -1743,7 +1795,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
         "alt": "Interior del 12Cilindri Manuale con la palanca de rejilla",
         "ancho": 1200,
         "alto": 800
-      }
+      },
+      { src: "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt1.webp", alt: "12Cilindri Manuale (foto: Ferrari (foto de prensa oficial) vía evo, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt2.webp", alt: "12Cilindri Manuale (foto: Ferrari (foto de prensa oficial) vía PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
+      { src: "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hunt3.webp", alt: "12Cilindri Manuale (foto: Ferrari (foto de prensa oficial) vía PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
     ]
   },
 ];

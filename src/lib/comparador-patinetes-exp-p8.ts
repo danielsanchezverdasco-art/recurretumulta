@@ -562,7 +562,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-pop-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-pop-2.webp",
+        src: "/media/fotos-reales/dualtron-pop/dualtron-pop-real-2.webp",
         alt: "Dualtron Pop circulando por carril bici urbano",
         ancho: 1200,
         alto: 800,
@@ -612,7 +612,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-pop-dual-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-pop-dual-2.webp",
+        src: "/media/fotos-reales/dualtron-pop-dual/dualtron-pop-dual-real-2.webp",
         alt: "Dualtron Pop Dual Motor en ciudad, detalle del chasis",
         ancho: 1200,
         alto: 800,
@@ -651,7 +651,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-mini-special-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-mini-special-2.webp",
+        src: "/media/fotos-reales/dualtron-mini-special/dualtron-mini-special-real-2.webp",
         alt: "Dualtron Mini Special Long Body, chasis alargado",
         ancho: 1200,
         alto: 800,
@@ -699,7 +699,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-mini-special-dual-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-mini-special-dual-2.webp",
+        src: "/media/fotos-reales/dualtron-mini-special-dual/dualtron-mini-special-dual-real-2.webp",
         alt: "Dualtron Mini Special Dual Motor, doble tracción",
         ancho: 1200,
         alto: 800,
@@ -738,7 +738,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-aminia-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-aminia-2.webp",
+        src: "/media/fotos-reales/dualtron-aminia/dualtron-aminia-real-2.webp",
         alt: "Dualtron Aminia Special, novedad 2025",
         ancho: 1200,
         alto: 800,
@@ -786,7 +786,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-aminia-long-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-aminia-long-2.webp",
+        src: "/media/fotos-reales/dualtron-aminia-long/dualtron-aminia-long-real-2.webp",
         alt: "Dualtron Aminia Long Body dual motor en ciudad",
         ancho: 1200,
         alto: 800,
@@ -834,7 +834,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-raptor-2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-raptor-2-2.webp",
+        src: "/media/fotos-reales/dualtron-raptor-2/dualtron-raptor-2-real-2.webp",
         alt: "Dualtron Raptor 2 compacto con ruedas de 8 pulgadas",
         ancho: 1200,
         alto: 800,
@@ -883,7 +883,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-compact-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-compact-2.webp",
+        src: "/media/fotos-reales/dualtron-compact/dualtron-compact-real-2.webp",
         alt: "Dualtron Compact, doble motor en formato compacto",
         ancho: 1200,
         alto: 800,
@@ -931,7 +931,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-eagle-pro-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-eagle-pro-2.webp",
+        src: "/media/fotos-reales/dualtron-eagle-pro/dualtron-eagle-pro-real-2.webp",
         alt: "Dualtron Eagle Pro con neumáticos anchos de 10 pulgadas",
         ancho: 1200,
         alto: 800,
@@ -968,7 +968,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-victory-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-victory-2.webp",
+        src: "/media/fotos-reales/dualtron-victory/dualtron-victory-real-2.webp",
         alt: "Dualtron Victory Luxury, tope de la serie Victor",
         ancho: 1200,
         alto: 800,
@@ -1017,7 +1017,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-city-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-city-2.webp",
+        src: "/media/fotos-reales/dualtron-city/dualtron-city-real-2.webp",
         alt: "Dualtron City con su rueda de 15 pulgadas",
         ancho: 1200,
         alto: 800,
@@ -1066,7 +1066,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-sonic-a-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-sonic-a-2.webp",
+        src: "/media/fotos-reales/dualtron-sonic-a/dualtron-sonic-a-real-2.webp",
         alt: "Dualtron Sonic Model A, novedad 2025 con luces RGB",
         ancho: 1200,
         alto: 800,
@@ -1115,7 +1115,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-new-storm-ltd-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-new-storm-ltd-2.webp",
+        src: "/media/fotos-reales/dualtron-new-storm-ltd/dualtron-new-storm-ltd-real-2.webp",
         alt: "Dualtron New Storm LTD, edición limitada 2025",
         ancho: 1200,
         alto: 800,
@@ -1163,7 +1163,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-spider-max-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-spider-max-2.webp",
+        src: "/media/fotos-reales/dualtron-spider-max/dualtron-spider-max-real-2.webp",
         alt: "Dualtron Spider Max, el ligero de la gama alta",
         ancho: 1200,
         alto: 800,
@@ -1200,7 +1200,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-ultra-2-upgrade-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-ultra-2-upgrade-2.webp",
+        src: "/media/fotos-reales/dualtron-ultra-2-upgrade/dualtron-ultra-2-upgrade-real-2.webp",
         alt: "Dualtron Ultra 2 Upgrade con neumáticos off-road",
         ancho: 1200,
         alto: 800,
@@ -1249,7 +1249,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-achilleus-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-achilleus-2.webp",
+        src: "/media/fotos-reales/dualtron-achilleus/dualtron-achilleus-real-2.webp",
         alt: "Dualtron Achilleus, gama alta equilibrada",
         ancho: 1200,
         alto: 800,
@@ -1286,7 +1286,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/dualtron-x2-up-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/dualtron-x2-up-2.webp",
+        src: "/media/fotos-reales/dualtron-x2-up/dualtron-x2-up-real-2.webp",
         alt: "Dualtron X2 UP con ruedas ultra-anchas de 13 pulgadas",
         ancho: 1200,
         alto: 800,
@@ -1811,7 +1811,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-phantom-2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-phantom-2-2.webp",
+        src: "/media/fotos-reales/apollo-phantom-2/apollo-phantom-2-real-0.webp",
         alt: "Apollo Phantom 2.0, rediseñado con IP66",
         ancho: 1200,
         alto: 800,
@@ -1851,7 +1851,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-phantom-stellar-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-phantom-stellar-2.webp",
+        src: "/media/fotos-reales/apollo-phantom-stellar/apollo-phantom-stellar-real-0.webp",
         alt: "Apollo Phantom Stellar, el más potente de Apollo",
         ancho: 1200,
         alto: 800,
@@ -1890,7 +1890,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-city-2-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-city-2-2.webp",
+        src: "/media/fotos-reales/apollo-city-2/apollo-city-2-real-0.webp",
         alt: "Apollo City 2.0 2026, diseño renovado",
         ancho: 1200,
         alto: 800,
@@ -1927,7 +1927,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-city-stellar-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-city-stellar-2.webp",
+        src: "/media/fotos-reales/apollo-city-stellar/apollo-city-stellar-real-0.webp",
         alt: "Apollo City Stellar 2026, doble motor urbano",
         ancho: 1200,
         alto: 800,
@@ -1964,7 +1964,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-city-pro-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-city-pro-2.webp",
+        src: "/media/fotos-reales/apollo-city-pro/apollo-city-pro-real-0.webp",
         alt: "Apollo City Pro 2024 en ciudad",
         ancho: 1200,
         alto: 800,
@@ -2001,7 +2001,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-pro-2024-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-pro-2024-2.webp",
+        src: "/media/fotos-reales/apollo-pro-2024/apollo-pro-2024-real-0.webp",
         alt: "Apollo Pro 2024 con ruedas de 12 pulgadas",
         ancho: 1200,
         alto: 800,
@@ -2050,7 +2050,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     foto: "/media/patinetes/apollo-explore-2024-1.webp",
     galeria: [
       {
-        src: "/media/patinetes/apollo-explore-2024-2.webp",
+        src: "/media/fotos-reales/apollo-explore-2024/apollo-explore-2024-real-0.webp",
         alt: "Apollo Explore 2024, ligero de 23 kg",
         ancho: 1200,
         alto: 800,

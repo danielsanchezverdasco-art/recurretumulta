@@ -69,6 +69,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/toyota-yaris-cross-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Toyota Motor Europe (prensa oficial) / CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/toyota-yaris-cross-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Toyota Motor Europe (prensa oficial) / CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/toyota-yaris-cross-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Periodismo del Motor, licencia desconocida)", ancho: 1280, alto: 852 },
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
@@ -145,6 +148,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/toyota-land-cruiser-250-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Toyota (foto de prensa) vía MotaAuto, licencia desconocida)", ancho: 1000, alto: 833 },
+      { src: "/media/toyota-land-cruiser-250-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Toyota (foto de prensa) vía MotaAuto, licencia desconocida)", ancho: 1000, alto: 616 },
+      { src: "/media/toyota-land-cruiser-250-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoReview.nl (prueba del Land Cruiser 250 en Marruecos), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -221,6 +227,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal (foto: Toyota (prensa oficial) vía Le Volant, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: Villanyautósok (prueba del bZ4X facelift, Hungría), licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: Moniteur Automobile (dossier facelift bZ4X 2025), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     euroncap: { estrellas: 5, ano: 2022, url: null, nota: null },
     planMantenimiento: {
@@ -297,6 +306,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/nissan-qashqai-e-power-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Nissan (prensa oficial) vía HeadLight Magazine, licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/nissan-qashqai-e-power-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: CarExpert (artículo del Qashqai e-Power 2026 de nueva generación), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/nissan-qashqai-e-power-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: Nissan (prensa oficial) vía HeadLight Magazine, licencia desconocida)", ancho: 900, alto: 600 },
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
@@ -373,6 +385,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/nissan-juke-hibrido-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Moniteur Automobile (prueba Nissan Juke Hybrid 2024, foto de prensa Nissan), licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/nissan-juke-hibrido-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Nissan (prensa oficial Juke MC 2024) vía Heddier Gruppe, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/nissan-juke-hibrido-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: AutoTrader UK (interior Juke 2024, cuadro con Energy Flow híbrido), licencia desconocida)", ancho: 1224, alto: 688 },
     ],
     euroncap: { estrellas: 5, ano: 2019, url: null, nota: null },
     planMantenimiento: {
@@ -437,8 +452,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     galeria: [
-      
-      
+      { src: "/media/nissan-interstar-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal (foto: Nissan / prensa oficial, vía Gumpen (concesionario Nissan, página del Interstar-e), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/nissan-interstar-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: Nissan / prensa oficial, vía electrive (presentación del Interstar-e eléctrico), licencia desconocida)", ancho: 1800, alto: 1200 },
+      { src: "/media/nissan-interstar-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: Nissan / prensa oficial, vía Gumpen (concesionario Nissan, página del Interstar-e), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: furgoneta no probada" },
     planMantenimiento: {
@@ -515,6 +531,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mazda-cx-5-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Mazda (foto de prensa) vía CarsGuide, licencia desconocida)", ancho: 1490, alto: 790 },
+      { src: "/media/mazda-cx-5-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Mazda (foto de prensa) vía TFLcar, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/mazda-cx-5-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: WardsAuto, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: nueva generación no probada" },
     planMantenimiento: {
@@ -581,6 +600,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/hyundai-i10-2026-precio-ficha-tecnica-hunt1.webp", alt: "i10 2026 (foto: Hyundai (foto de prensa) vía Log.com.tr, licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/hyundai-i10-2026-precio-ficha-tecnica-hunt2.webp", alt: "i10 2026 (foto: Hyundai (foto de prensa) vía AutoData1, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/hyundai-i10-2026-precio-ficha-tecnica-hunt3.webp", alt: "i10 2026 (foto: Hyundai (foto de prensa) vía AutoReview, licencia desconocida)", ancho: 2560, alto: 1699 },
     ],
     euroncap: {"ano": 2020, "estrellas": 3, "nota": "Tres estrellas en el ensayo publicado en diciembre de 2020: 69 % en ocupantes adultos, 75 % en protección infantil, 52 % en usuarios vulnerables y 59 % en asistencias a la seguridad", "url": "https://www.euroncap.com/press-media/latest-euro-ncap-ratings-refocus-attention-on-improving-vehicle-compatibility/"},
     planMantenimiento: {"fuente": "Hyundai España", "intervalo": "Una visita al taller cada 12 meses o al acumular 15.000 km con este i10, lo que llegue antes", "revisiones": [{"costeAproxEur": null, "nombre": "Mantenimiento anual del i10 1.0 de 63 CV", "queSeCambia": "Aceite nuevo y su filtro para el motor 1.0, renovación de los demás filtros cuando correspondan por kilometraje e inspección general del coche"}]},
@@ -649,6 +671,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/hyundai-tucson-n-line-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai (foto de prensa) vía Autonotizen, licencia desconocida)", ancho: 1140, alto: 641 },
+      { src: "/media/hyundai-tucson-n-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai (foto de prensa) vía Mega Autos, licencia desconocida)", ancho: 768, alto: 502 },
+      { src: "/media/hyundai-tucson-n-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Asphalt Singapore (foto real de prueba, Canon EOS 90D según EXIF), licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
@@ -713,8 +738,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     galeria: [
-      
-      
+      { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert, licencia desconocida)", ancho: 1920, alto: 1279 },
+      { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
     planMantenimiento: {
@@ -793,6 +819,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/hyundai-i20-n-line-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai Motor Europe (Hyundai News, prensa oficial), licencia desconocida)", ancho: 706, alto: 397 },
+      { src: "/media/hyundai-i20-n-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: AutoMoto Grecia (automoto.com.gr), licencia desconocida)", ancho: 1500, alto: 991 },
+      { src: "/media/hyundai-i20-n-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoMoto Grecia (automoto.com.gr), licencia desconocida)", ancho: 1500, alto: 984 },
     ],
     euroncap: { estrellas: 4, ano: 2021, url: null, nota: "4 estrellas Euro NCAP (2021)" },
     planMantenimiento: {
@@ -871,6 +900,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/hyundai-i30-n-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai Motor UK (coche de prensa, vía PistonHeads), licencia desconocida)", ancho: 1440, alto: 960 },
+      { src: "/media/hyundai-i30-n-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai Motor UK (coche de prensa, vía PistonHeads), licencia desconocida)", ancho: 1440, alto: 960 },
+      { src: "/media/hyundai-i30-n-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Hyundai Motor UK (coche de prensa, vía PistonHeads), licencia desconocida)", ancho: 1440, alto: 960 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: la versión N no se probó de forma independiente (el i30 obtuvo 5 estrellas en 2017)" },
     planMantenimiento: {
@@ -947,6 +979,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/kia-ev9-gt-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 999 },
+      { src: "/media/kia-ev9-gt-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 915 },
+      { src: "/media/kia-ev9-gt-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1054 },
     ],
     euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
     planMantenimiento: {
@@ -1023,6 +1058,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Kia (foto de prensa) vía AutoScout24, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Kia (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 960, alto: 540 },
+      { src: "/media/kia-stonic-hibrido-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Autogreeknews (prueba del 1.0 T-GDi 115 CV 7DCT), licencia desconocida)", ancho: 1000, alto: 667 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
     planMantenimiento: {
@@ -1087,6 +1125,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt1.webp", alt: "PV5 2026 (foto: Kia (foto oficial de prensa, vía TheAutoPH), licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt2.webp", alt: "PV5 2026 (foto: Kia (imagen oficial de estudio, vía EV-olution), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt3.webp", alt: "PV5 2026 (foto: Kia (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 1536, alto: 863 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses, lo que ocurra antes); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas (lo que ocurra antes), según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
@@ -1153,6 +1194,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/kia-ev5-gt-line-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Kia Corporation (prensa oficial EV5 GT-Line MY26) / Motortec, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/kia-ev5-gt-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Kia Corporation (prensa oficial EV5 GT-Line MY26) / Autoreview, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/kia-ev5-gt-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Kia Corporation (prensa oficial EV5 GT-Line MY26) / EVonline, licencia desconocida)", ancho: 1280, alto: 720 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados" },
     planMantenimiento: {
@@ -1229,6 +1273,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/kia-ev3-gt-line-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal / 30.000 km (foto: Kia (imagen oficial de prensa) vía Slatlem Bil, licencia desconocida)", ancho: 1200, alto: 810 },
+      { src: "/media/kia-ev3-gt-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Kia (imagen oficial de prensa) vía Carscoops, licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/kia-ev3-gt-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Kia / Autoreview (foto de prensa del GT-Line), licencia desconocida)", ancho: 1024, alto: 682 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
     planMantenimiento: {
@@ -1307,6 +1354,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/ford-bronco-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Fotógrafo vía Wikimedia Commons (autor no verificado, ver notas), licencia desconocida)", ancho: 1600, alto: 1152 },
+      { src: "/media/ford-bronco-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: AutoRAI.nl (prueba Ford Bronco Badlands 2024), licencia desconocida)", ancho: 1140, alto: 641 },
+      { src: "/media/ford-bronco-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: PruebaTuCoche (prueba Ford Bronco Badlands en España), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
     planMantenimiento: {
@@ -1385,6 +1435,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/ford-transit-city-2026-precio-ficha-tecnica-hunt1.webp", alt: "Transit City 2026 (foto: Ford Pro (imagen oficial de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/ford-transit-city-2026-precio-ficha-tecnica-hunt2.webp", alt: "Transit City 2026 (foto: Ford China / JMC vía Autoblog.gr, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/ford-transit-city-2026-precio-ficha-tecnica-hunt3.webp", alt: "Transit City 2026 (foto: Ford Pro (imagen oficial de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
@@ -1445,8 +1498,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     galeria: [
-      
-      
+      { src: "/media/ford-mustang-mach-e-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión bienal (foto: Calreyn88 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1236, alto: 931 },
+      { src: "/media/ford-mustang-mach-e-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1440 },
+      { src: "/media/ford-mustang-mach-e-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 930 },
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
@@ -1525,6 +1579,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/ford-focus-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Wikimedia Commons (autor en la página del archivo; página inaccesible por 403 en esta sesión), licencia desconocida)", ancho: 1920, alto: 965 },
+      { src: "/media/ford-focus-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Wikimedia Commons (autor en la página del archivo; página inaccesible por 403 en esta sesión), licencia desconocida)", ancho: 1920, alto: 1011 },
+      { src: "/media/ford-focus-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: Wikimedia Commons (autor en la página del archivo; página inaccesible por 403 en esta sesión), licencia desconocida)", ancho: 1920, alto: 975 },
     ],
     euroncap: { estrellas: 5, ano: 2018, url: null, nota: "Ford Focus Mk4: 5 estrellas EuroNCAP (2018)" },
     planMantenimiento: {
@@ -1602,6 +1659,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/ford-transit-connect-phev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Ford Pro (foto de prensa oficial, nombre de archivo TRANSIT_CONNECT_PHEV_SWB_ACTIVE_STUDIO) vía Autocritica.ro, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/ford-transit-connect-phev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Ford Pro (foto de prensa oficial del lanzamiento PHEV) vía Autonotizen.de, licencia desconocida)", ancho: 1200, alto: 900 },
+      { src: "/media/ford-transit-connect-phev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: Ford Pro (foto de prensa oficial, set europeo PHEV) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: furgoneta no probada" },
     planMantenimiento: {
@@ -1666,8 +1726,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     galeria: [
-      
-      
+      { src: "/media/tesla-model-s-plaid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Sustitución del filtro de habitáculo (foto: EV Database (galería del Tesla Model S Plaid MY26, fotos de prensa Tesla), licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/tesla-model-s-plaid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Sustitución del filtro de habitáculo (foto: EV Database (galería del Tesla Model S Plaid MY26, fotos de prensa Tesla), licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/tesla-model-s-plaid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Sustitución del filtro de habitáculo (foto: EV Database (galería del Tesla Model S Plaid MY26, fotos de prensa Tesla), licencia desconocida)", ancho: 768, alto: 432 },
     ],
     euroncap: { estrellas: 5, ano: 2022, url: null, nota: null },
     planMantenimiento: {
@@ -1744,6 +1805,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hunt1.webp", alt: "Sustitución del filtro de habitáculo (foto: Ethan Llamas / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 720 },
+      { src: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Sustitución del filtro de habitáculo (foto: Ethan Llamas / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 720 },
+      { src: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Sustitución del filtro de habitáculo (foto: Calreyn88 / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 929 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
     planMantenimiento: {
@@ -1820,6 +1884,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hunt1.webp", alt: "Cybertruck 2026 (foto: MotorTrend (prueba real del Cybertruck Dual Motor AWD; EXIF Canon EOS R3, foto de cámara real), licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hunt2.webp", alt: "Cybertruck 2026 (foto: MotorTrend (misma sesión de prueba del Cybertruck Dual Motor AWD), licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hunt3.webp", alt: "Cybertruck 2026 (foto: MotorTrend (primer contacto del Cybertruck Dual Motor Foundation Series), licencia desconocida)", ancho: 2048, alto: 1152 },
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: no homologado en Europa" },
     planMantenimiento: {

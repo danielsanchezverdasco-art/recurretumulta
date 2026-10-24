@@ -1415,7 +1415,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
         alto: 933,
       },
       {
-        src: "/media/hanway-furious-nk-125-2024-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/hanway-furious-nk-125-2024-ficha-tecnica-precio/hanway-furious-nk-125-2024-ficha-tecnica-precio-real-2.webp",
         alt: "Hanway Furious NK 125 S, lateral con chasis multitubular a la vista",
         ancho: 1400,
         alto: 933,

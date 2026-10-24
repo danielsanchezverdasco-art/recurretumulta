@@ -1429,7 +1429,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     imagen: "/media/motos/tvs-iqube-2026-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/tvs-iqube-2026-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/tvs-iqube-2026-ficha-tecnica-precio/tvs-iqube-2026-ficha-tecnica-precio-real-2.webp",
         alt: "TVS iQube, scooter eléctrico en ciudad",
         ancho: 1200,
         alto: 800,

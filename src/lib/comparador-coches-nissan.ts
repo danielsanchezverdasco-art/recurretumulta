@@ -102,7 +102,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Qashqai MHEV 158 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hunt1.webp", alt: "Qashqai 1.3 DIG-T MHEV 158 CV (foto: Carwow España / foto de prensa Nissan, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hunt2.webp", alt: "Qashqai 1.3 DIG-T MHEV 158 CV (foto: Nissan (prensa oficial) vía Paul Tan, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/nissan-qashqai-mhev-158-2026-precio-ficha-tecnica-hunt3.webp", alt: "Qashqai 1.3 DIG-T MHEV 158 CV (foto: Eastern Western Nissan / foto de prensa Nissan, licencia desconocida)", ancho: 960, alto: 540 },
     ],
   },
   {
@@ -183,7 +186,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Juke 1.0 DIG-T 114 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hunt1.webp", alt: "Juke 1.0 DIG-T 114 CV (foto: CarExpert / Nissan, licencia desconocida)", ancho: 1200, alto: 630 },
+      { src: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hunt2.webp", alt: "Juke 1.0 DIG-T 114 CV (foto: AutoGreekNews, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/nissan-juke-10-dig-t-2026-precio-ficha-tecnica-hunt3.webp", alt: "Juke 1.0 DIG-T 114 CV (foto: AutoGreekNews, licencia desconocida)", ancho: 1000, alto: 667 },
     ],
   },
   {
@@ -264,7 +270,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan X-Trail e-Power 204 CV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hunt1.webp", alt: "X-Trail e-Power 204 CV (foto: Nissan Autopolis (foto oficial Nissan), licencia desconocida)", ancho: 1500, alto: 650 },
+      { src: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hunt2.webp", alt: "X-Trail e-Power 204 CV (foto: Nissan via DailyRevs, licencia desconocida)", ancho: 1100, alto: 704 },
+      { src: "/media/nissan-x-trail-e-power-2026-precio-ficha-tecnica-hunt3.webp", alt: "X-Trail e-Power 204 CV (foto: AutoReview.nl, licencia desconocida)", ancho: 1599, alto: 1066 },
     ],
   },
   {
@@ -345,7 +354,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan X-Trail e-4ORCE 213 CV en pista de tierra",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hunt1.webp", alt: "X-Trail e-4ORCE 213 CV (foto: Driven Car Guide (foto de prensa Nissan), licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hunt2.webp", alt: "X-Trail e-4ORCE 213 CV (foto: Driven Car Guide (foto de prensa Nissan), licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/nissan-x-trail-e-4orce-2026-precio-ficha-tecnica-hunt3.webp", alt: "X-Trail e-4ORCE 213 CV (foto: Autowereld (concesionario Nissan NL), licencia desconocida)", ancho: 1280, alto: 960 },
     ],
   },
   {
@@ -426,7 +438,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nuevo Nissan Leaf 2026, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-leaf-2026-precio-ficha-tecnica-hunt1.webp", alt: "Leaf 2026 (foto: Nissan (foto oficial de prensa) vía RPMWeb, licencia desconocida)", ancho: 2000, alto: 1125 },
+      { src: "/media/nissan-leaf-2026-precio-ficha-tecnica-hunt2.webp", alt: "Leaf 2026 (foto: Nissan (foto oficial de prensa), licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/nissan-leaf-2026-precio-ficha-tecnica-hunt3.webp", alt: "Leaf 2026 (foto: Nissan (foto oficial de prensa) vía Autoblog, licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
   },
   {
@@ -507,7 +522,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Ariya eléctrico, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-ariya-2026-precio-ficha-tecnica-hunt1.webp", alt: "Ariya 87 kWh 242 CV (foto: MotorWatt EV Database (imagen de estudio Nissan), licencia desconocida)", ancho: 1200, alto: 600 },
+      { src: "/media/nissan-ariya-2026-precio-ficha-tecnica-hunt2.webp", alt: "Ariya 87 kWh 242 CV (foto: Nissan (foto de prensa oficial) vía Autotrade.ie, licencia desconocida)", ancho: 1536, alto: 923 },
+      { src: "/media/nissan-ariya-2026-precio-ficha-tecnica-hunt3.webp", alt: "Ariya 87 kWh 242 CV (foto: Nissan Canada (web oficial Nissan, gama Ariya 2026), licencia desconocida)", ancho: 1155, alto: 576 },
     ],
   },
   {
@@ -588,7 +606,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Micra eléctrico 2026, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hunt1.webp", alt: "Micra Eléctrico (foto: Nissan (prensa oficial, vía Actualidad Motor), licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hunt2.webp", alt: "Micra Eléctrico (foto: Nissan (prensa oficial, vía Actualidad Motor), licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/nissan-micra-electrico-2026-precio-ficha-tecnica-hunt3.webp", alt: "Micra Eléctrico (foto: Nissan (prensa oficial, vía Actualidad Motor), licencia desconocida)", ancho: 1500, alto: 900 },
     ],
   },
   {
@@ -669,7 +690,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Townstar Combi 1.3G, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hunt1.webp", alt: "Townstar Combi 1.3G 130 CV (foto: Nissan (prensa oficial) / CochesyConcesionarios, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hunt2.webp", alt: "Townstar Combi 1.3G 130 CV (foto: Nissan (prensa oficial) / Avtomobilizem, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/nissan-townstar-combi-13g-2026-precio-ficha-tecnica-hunt3.webp", alt: "Townstar Combi 1.3G 130 CV (foto: StartStop.sk (prueba), licencia desconocida)", ancho: 1067, alto: 1600 },
     ],
   },
   {
@@ -750,7 +774,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Townstar EV, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Townstar EV Combi (foto: Nissan (prensa oficial) / Sicilia Motori, licencia desconocida)", ancho: 1280, alto: 859 },
+      { src: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Townstar EV Combi (foto: Nissan (prensa oficial) / Sicilia Motori, licencia desconocida)", ancho: 1280, alto: 853 },
+      { src: "/media/nissan-townstar-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Townstar EV Combi (foto: Nissan (oficial, CDN Nissan Europe), licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
   },
   {
@@ -819,7 +846,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Primastar Combi, tres cuartos delantero",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-hunt1.webp", alt: "Primastar Combi 2.0 dCi 110 CV (foto: Distinxion (foto real de unidad Primastar Combi en exposición), licencia desconocida)", ancho: 1600, alto: 1122 },
+      { src: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-hunt2.webp", alt: "Primastar Combi 2.0 dCi 110 CV (foto: Android.com.pl (prueba del Primastar Combi L2), licencia desconocida)", ancho: 1536, alto: 1024 },
+      { src: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-hunt3.webp", alt: "Primastar Combi 2.0 dCi 110 CV (foto: Volumen4Motor (anuncio de unidad Primastar Combi 9 2.0 dCi 110 CV N-Connecta L2H1), licencia desconocida)", ancho: 1600, alto: 1200 },
     ],
     euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/v103/", "nota": "Resultado Euro NCAP verificado para este modelo."},
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "El mantenimiento principal de esta Combi 9 2.0 dCi de 81 kW está programado cada 40.000 km o 24 meses, según los datos de ficha recogidos por TotalRenting. Es un intervalo pensado para uso profesional de kilometraje alto, pero no elimina los consumibles propios del diésel —aceite, filtros, AdBlue y neumáticos— ni conviene apurarlo si el trabajo es urbano y con trayectos cortos. Ninguna fuente consultada publica un precio cerrado de revisión para España, así que no se da una cifra: pide presupuesto en un concesionario Nissan antes de firmar.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/"},
@@ -983,7 +1013,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Ariya eléctrico en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-hunt1.webp", alt: "Ariya 63 kWh (foto: Wikimedia Commons (autor por verificar en la página del archivo), licencia desconocida)", ancho: 1280, alto: 620 },
+      { src: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-hunt2.webp", alt: "Ariya 63 kWh (foto: Nissan (foto de prensa, versión EU) vía AutoScout24, licencia desconocida)", ancho: 1200, alto: 865 },
+      { src: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-hunt3.webp", alt: "Ariya 63 kWh (foto: Nissan (foto de prensa) vía GoAuto, licencia desconocida)", ancho: 1024, alto: 768 },
     ]
   },
   {
@@ -1064,7 +1097,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Ariya e-4ORCE en carretera de montaña",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-hunt1.webp", alt: "Ariya e-4ORCE 306 CV (foto: Nissan (press kit oficial Ariya e-4ORCE) vía Auto.pub, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-hunt2.webp", alt: "Ariya e-4ORCE 306 CV (foto: Nissan (press kit oficial Ariya e-4ORCE) vía Auto.pub, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-hunt3.webp", alt: "Ariya e-4ORCE 306 CV (foto: Nissan (press kit oficial Ariya e-4ORCE) vía Auto.pub, licencia desconocida)", ancho: 1024, alto: 683 },
     ]
   },
   {
@@ -1307,7 +1343,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Townstar Evalia eléctrica en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-hunt1.webp", alt: "Townstar Evalia EV (foto: Autowereld.nl / concesionario de Terwolde (unidad real Evalia N-Connecta L2 45 kWh), licencia desconocida)", ancho: 1280, alto: 962 },
+      { src: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Townstar Evalia EV (foto: Autowereld.nl / concesionario de Terwolde (unidad real Evalia N-Connecta L2 45 kWh), licencia desconocida)", ancho: 1280, alto: 962 },
+      { src: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Townstar Evalia EV (foto: Autowereld.nl / concesionario de Terwolde (unidad real Evalia N-Connecta L2 45 kWh), licencia desconocida)", ancho: 640, alto: 481 },
     ]
   },
   {
@@ -1376,7 +1415,10 @@ export const COCHES_NISSAN: CocheComparador[] = [
         "alt": "Nissan Primastar Combi dCi 170 en carretera",
         "ancho": 1920,
         "alto": 1280
-      }
+      },
+      { src: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-hunt1.webp", alt: "Primastar Combi dCi 170 (foto: Lukasz Pajak / Android.com.pl, licencia desconocida)", ancho: 1536, alto: 1024 },
+      { src: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-hunt2.webp", alt: "Primastar Combi dCi 170 (foto: Hop Auto (anuncio de unidad real), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/nissan-primastar-combi-dci170-2026-precio-ficha-tecnica-hunt3.webp", alt: "Primastar Combi dCi 170 (foto: Espace Nissan (concesionario Nissan), licencia desconocida)", ancho: 700, alto: 394 },
     ],
     euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/nissan/primastar/", "nota": "Resultado Euro NCAP verificado para este modelo."},
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "En la familia Primastar Combi con motor 2.0 dCi, el mantenimiento principal está pautado cada 40.000 km o 24 meses, lo que antes ocurra, según los datos de ficha de TotalRenting para la Combi 9 2.0 dCi. En un dCi 170 dedicado a lanzaderas conviene no apurar ese intervalo con el filtro de partículas si predominan los trayectos cortos urbanos, y confirmar siempre la pauta exacta en el libro de mantenimiento de la unidad, porque puede variar por mercado y fecha de fabricación.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/"},

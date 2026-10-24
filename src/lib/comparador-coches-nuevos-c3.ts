@@ -69,6 +69,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/volkswagen-t-cross-2025-precio-ficha-tecnica-oficial.webp", alt: "Volkswagen T-Cross 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/volkswagen-t-cross-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Volkswagen T-Cross 2025 con pantalla central", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-t-cross-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Volkswagen / prensa oficial, vía Cuyomotor, licencia desconocida)", ancho: 1024, alto: 689 },
+      { src: "/media/volkswagen-t-cross-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Autocar, licencia desconocida)", ancho: 1200, alto: 795 },
+      { src: "/media/volkswagen-t-cross-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: km77, licencia desconocida)", ancho: 800, alto: 450 },
     ],
     opiniones: [],
     costeMensual: {
@@ -142,6 +145,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-oficial.webp", alt: "Volkswagen ID.3 Neo 2026, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Volkswagen ID.3 Neo 2026", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Volkswagen (prensa oficial, foto DB2026AU00281) vía Auto-info.be, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Volkswagen (prensa oficial, foto DB2026AU00283) vía Auto-info.be, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Volkswagen (prensa oficial) vía Carnovo, licencia desconocida)", ancho: 1500, alto: 800 },
     ],
     opiniones: [],
     costeMensual: {
@@ -215,6 +221,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/volkswagen-tiguan-2025-precio-ficha-tecnica-oficial.webp", alt: "Volkswagen Tiguan 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/volkswagen-tiguan-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Volkswagen Tiguan 2025", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-tiguan-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Volkswagen AG (foto oficial de prensa, EXIF © Volkswagen AG) vía Paul Tan, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-tiguan-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Volkswagen AG (foto oficial de prensa de la presentación de la 3ª generación) vía Paul Tan, licencia desconocida)", ancho: 1600, alto: 1000 },
+      { src: "/media/volkswagen-tiguan-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Pickup Truck Talk (interior del VW Tiguan 2025, versión EE. UU. con volante a la izquierda), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     opiniones: [],
     costeMensual: {
@@ -288,6 +297,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/volkswagen-id4-2025-precio-ficha-tecnica-oficial.webp", alt: "Volkswagen ID.4 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/volkswagen-id4-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Volkswagen ID.4 2025", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-id4-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Drive.com.au / concesionario Volkswagen (Melbourne), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/volkswagen-id4-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Drive.com.au / concesionario Volkswagen (Melbourne), licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/volkswagen-id4-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Drive.com.au / concesionario Volkswagen (Melbourne), licencia desconocida)", ancho: 1920, alto: 1080 },
     ],
     opiniones: [],
     costeMensual: {
@@ -361,6 +373,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/volkswagen-golf-2025-precio-ficha-tecnica-oficial.webp", alt: "Volkswagen Golf 2025, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/volkswagen-golf-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Volkswagen Golf 2025", ancho: 1200, alto: 800 },
+      { src: "/media/volkswagen-golf-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Volkswagen (prensa) vía Chasing Cars, licencia desconocida)", ancho: 1240, alto: 698 },
+      { src: "/media/volkswagen-golf-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Chasing Cars, licencia desconocida)", ancho: 1240, alto: 698 },
+      { src: "/media/volkswagen-golf-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Volkswagen (prensa) vía Chasing Cars, licencia desconocida)", ancho: 1240, alto: 697 },
     ],
     opiniones: [],
     costeMensual: {
@@ -434,6 +449,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/renault-captur-2025-precio-ficha-tecnica-oficial.webp", alt: "Renault Captur 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/renault-captur-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Renault Captur 2025", ancho: 1200, alto: 800 },
+      { src: "/media/renault-captur-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1119 },
+      { src: "/media/renault-captur-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1278 },
+      { src: "/media/renault-captur-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1278 },
     ],
     opiniones: [],
     costeMensual: {
@@ -507,6 +525,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-oficial.webp", alt: "Renault Scenic E-Tech 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Renault Scenic E-Tech 2025", ancho: 1200, alto: 800 },
+      { src: "/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Which? / Renault, licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: CAR Magazine / Bauer, licencia desconocida)", ancho: 1600, alto: 920 },
+      { src: "/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Renault / electrive, licencia desconocida)", ancho: 1500, alto: 750 },
     ],
     opiniones: [],
     costeMensual: {
@@ -580,6 +601,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/renault-kangoo-2025-precio-ficha-tecnica-oficial.webp", alt: "Renault Kangoo 2025, vista lateral con puertas correderas", ancho: 1200, alto: 800 },
       { src: "/media/renault-kangoo-2025-precio-ficha-tecnica-interior.webp", alt: "Interior modular del Renault Kangoo 2025", ancho: 1200, alto: 800 },
+      { src: "/media/renault-kangoo-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 20.000 km (foto: Wikimedia Commons, licencia desconocida)", ancho: 1600, alto: 1027 },
+      { src: "/media/renault-kangoo-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Wybór Kierowców, licencia desconocida)", ancho: 1068, alto: 712 },
+      { src: "/media/renault-kangoo-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: MotorO2, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     opiniones: [],
     costeMensual: {
@@ -653,6 +677,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/renault-megane-e-tech-2025-precio-ficha-tecnica-oficial.webp", alt: "Renault Megane E-Tech 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/renault-megane-e-tech-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Renault Megane E-Tech 2025 con pantallas", ancho: 1200, alto: 800 },
+      { src: "/media/renault-megane-e-tech-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Renault (oficial), licencia desconocida)", ancho: 1280, alto: 720 },
+      { src: "/media/renault-megane-e-tech-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Renault (prensa) / EV Database, licencia desconocida)", ancho: 1536, alto: 864 },
+      { src: "/media/renault-megane-e-tech-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Autoreview.nl, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     opiniones: [],
     costeMensual: {
@@ -726,6 +753,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/renault-espace-2024-precio-ficha-tecnica-oficial.webp", alt: "Renault Espace 2024, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/renault-espace-2024-precio-ficha-tecnica-interior.webp", alt: "Interior de 7 plazas del Renault Espace 2024", ancho: 1200, alto: 800 },
+      { src: "/media/renault-espace-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Renault (prensa oficial) vía Híbridos y Eléctricos, licencia desconocida)", ancho: 2000, alto: 1126 },
+      { src: "/media/renault-espace-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Renault (prensa oficial) vía Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
+      { src: "/media/renault-espace-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Renault (prensa oficial) vía Híbridos y Eléctricos, licencia desconocida)", ancho: 659, alto: 371 },
     ],
     opiniones: [],
     costeMensual: {
@@ -799,6 +829,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/peugeot-3008-2025-precio-ficha-tecnica-oficial.webp", alt: "Peugeot 3008 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/peugeot-3008-2025-precio-ficha-tecnica-interior.webp", alt: "i-Cockpit del Peugeot 3008 2025 con pantalla de 21 pulgadas", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-3008-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert (prueba 3008 GT Premium Hybrid 2025), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/peugeot-3008-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Otoplus (anuncio 3008 Allure 1.2 Hybrid 136 e-DCS6 2025), licencia desconocida)", ancho: 1400, alto: 787 },
+      { src: "/media/peugeot-3008-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoAgora (prueba Peugeot 3008 Hybrid), licencia desconocida)", ancho: 1400, alto: 787 },
     ],
     opiniones: [],
     costeMensual: {
@@ -872,6 +905,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/peugeot-e-3008-2025-precio-ficha-tecnica-oficial.webp", alt: "Peugeot E-3008 2025 eléctrico, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/peugeot-e-3008-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Peugeot E-3008 2025", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-e-3008-2025-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: ArenaEV (prueba del E-3008 GT Electric 210, 73 kWh), licencia desconocida)", ancho: 1200, alto: 674 },
+      { src: "/media/peugeot-e-3008-2025-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: ArenaEV (prueba del E-3008 GT Electric 210, 73 kWh), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/peugeot-e-3008-2025-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: ArenaEV (prueba del E-3008 GT Electric 210, 73 kWh), licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     opiniones: [],
     costeMensual: {
@@ -945,6 +981,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/peugeot-2008-2025-precio-ficha-tecnica-oficial.webp", alt: "Peugeot 2008 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/peugeot-2008-2025-precio-ficha-tecnica-interior.webp", alt: "i-Cockpit del Peugeot 2008 2025", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-2008-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert Australia, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-2008-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert Australia, licencia desconocida)", ancho: 1920, alto: 1280 },
+      { src: "/media/peugeot-2008-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert Australia, licencia desconocida)", ancho: 1920, alto: 1280 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1018,6 +1057,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/peugeot-408-2025-precio-ficha-tecnica-oficial.webp", alt: "Peugeot 408 2025 fastback, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/peugeot-408-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Peugeot 408 2025", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-408-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Peugeot / Stellantis (prensa oficial, vía PassionAndCar), licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/peugeot-408-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Stellantis / Peugeot (prensa oficial), licencia desconocida)", ancho: 1200, alto: 667 },
+      { src: "/media/peugeot-408-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Autohled Magazín (foto real LHD), licencia desconocida)", ancho: 1920, alto: 1440 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1091,6 +1133,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/peugeot-308-2025-precio-ficha-tecnica-oficial.webp", alt: "Peugeot 308 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/peugeot-308-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Peugeot 308 2025", ancho: 1200, alto: 800 },
+      { src: "/media/peugeot-308-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Carbuyer / Peugeot (prensa), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/peugeot-308-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Carwow / Peugeot (prensa), licencia desconocida)", ancho: 1280, alto: 889 },
+      { src: "/media/peugeot-308-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Clicacoches, licencia desconocida)", ancho: 1024, alto: 768 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1164,6 +1209,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/citroen-c3-2024-precio-ficha-tecnica-oficial.webp", alt: "Citroën C3 2024 nueva generación, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/citroen-c3-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Citroën C3 2024", ancho: 1200, alto: 800 },
+      { src: "/media/citroen-c3-2024-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Citroën / prensa oficial, vía Motorpoint, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/citroen-c3-2024-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CompleteCar.ie (galería de la prueba del C3 1.2 gasolina 2024), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/citroen-c3-2024-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Le Blog Auto (prueba del Citroën C3 100 CV), licencia desconocida)", ancho: 1200, alto: 640 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1237,6 +1285,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/citroen-e-c3-2024-precio-ficha-tecnica-oficial.webp", alt: "Citroën ë-C3 2024 eléctrico, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/citroen-e-c3-2024-precio-ficha-tecnica-interior.webp", alt: "Interior del Citroën ë-C3 2024", ancho: 1200, alto: 800 },
+      { src: "/media/citroen-e-c3-2024-precio-ficha-tecnica-hunt1.webp", alt: "Inspección 24 meses / 30.000 km (foto: Carwow / prensa Citroën, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/citroen-e-c3-2024-precio-ficha-tecnica-hunt2.webp", alt: "Inspección 24 meses / 30.000 km (foto: Carbuyer, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/citroen-e-c3-2024-precio-ficha-tecnica-hunt3.webp", alt: "Inspección 24 meses / 30.000 km (foto: Electrifying.com, licencia desconocida)", ancho: 1024, alto: 680 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1310,6 +1361,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/citroen-c5-x-2025-precio-ficha-tecnica-oficial.webp", alt: "Citroën C5 X 2025, vista lateral", ancho: 1200, alto: 800 },
       { src: "/media/citroen-c5-x-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Citroën C5 X 2025", ancho: 1200, alto: 800 },
+      { src: "/media/citroen-c5-x-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/citroen-c5-x-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: JustAnotherCarDesigner / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/citroen-c5-x-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Dinkun Chen / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1067 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1383,6 +1437,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/opel-grandland-2025-precio-ficha-tecnica-oficial.webp", alt: "Opel Grandland 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/opel-grandland-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Opel Grandland 2025", ancho: 1200, alto: 800 },
+      { src: "/media/opel-grandland-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Opel / Stellantis (foto de prensa oficial, vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/opel-grandland-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Opel / Stellantis (foto de prensa oficial, vía PlanetCarsZ / NetCarShow), licencia desconocida)", ancho: 1280, alto: 960 },
+      { src: "/media/opel-grandland-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Opel / Stellantis (foto de prensa oficial, vía Standvirtual), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1456,6 +1513,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/opel-corsa-2026-precio-ficha-tecnica-oficial.webp", alt: "Opel Corsa 2026, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/opel-corsa-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Opel Corsa 2026", ancho: 1200, alto: 800 },
+      { src: "/media/opel-corsa-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Autonoción, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/opel-corsa-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Autonoción, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/opel-corsa-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Opel (foto de prensa) / Autocosmos, licencia desconocida)", ancho: 912, alto: 513 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1529,6 +1589,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/seat-leon-2025-precio-ficha-tecnica-oficial.webp", alt: "Seat León 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/seat-leon-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Seat León 2025", ancho: 1200, alto: 800 },
+      { src: "/media/seat-leon-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 939 },
+      { src: "/media/seat-leon-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Vauxford / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 916 },
+      { src: "/media/seat-leon-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: SEAT (foto oficial de prensa del lifting 2024) vía Autogaleria.pl, licencia desconocida)", ancho: 2560, alto: 1290 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1602,6 +1665,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/seat-ibiza-2025-precio-ficha-tecnica-oficial.webp", alt: "Seat Ibiza 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/seat-ibiza-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Seat Ibiza 2025", ancho: 1200, alto: 800 },
+      { src: "/media/seat-ibiza-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: SEAT (foto de prensa, vía DailyRevs), licencia desconocida)", ancho: 3238, alto: 2160 },
+      { src: "/media/seat-ibiza-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: SEAT (foto de prensa, vía DailyRevs), licencia desconocida)", ancho: 3238, alto: 2160 },
+      { src: "/media/seat-ibiza-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: SEAT (foto de prensa, vía DailyRevs), licencia desconocida)", ancho: 3156, alto: 2160 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1675,6 +1741,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/skoda-karoq-2025-precio-ficha-tecnica-oficial.webp", alt: "Skoda Karoq 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/skoda-karoq-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Skoda Karoq 2025", ancho: 1200, alto: 800 },
+      { src: "/media/skoda-karoq-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Skoda (foto oficial de prensa del Karoq restyling 2022, acabado Sportline) vía CompleteCar.ie, licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/skoda-karoq-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Wybór Kierowców (primera prueba del Skoda Karoq tras el restyling, Polonia), licencia desconocida)", ancho: 1600, alto: 1033 },
+      { src: "/media/skoda-karoq-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Skoda (foto oficial de prensa del Karoq restyling 2022) vía Carbuyer (galería del facelift), licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1748,6 +1817,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/dacia-sandero-2025-precio-ficha-tecnica-oficial.webp", alt: "Dacia Sandero 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/dacia-sandero-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Dacia Sandero 2025", ancho: 1200, alto: 800 },
+      { src: "/media/dacia-sandero-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: Mihnea Lazăr / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1067 },
+      { src: "/media/dacia-sandero-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Mihnea Lazăr / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1067 },
+      { src: "/media/dacia-sandero-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1920, alto: 1281 },
     ],
     opiniones: [],
     costeMensual: {
@@ -1821,6 +1893,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     galeria: [
       { src: "/media/fiat-500x-2025-precio-ficha-tecnica-oficial.webp", alt: "Fiat 500X 2025, vista tres cuartos delantera", ancho: 1200, alto: 800 },
       { src: "/media/fiat-500x-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Fiat 500X 2025", ancho: 1200, alto: 800 },
+      { src: "/media/fiat-500x-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión anual / 15.000 km (foto: ADAC (prueba Fiat 500X Hybrid), licencia desconocida)", ancho: 1500, alto: 750 },
+      { src: "/media/fiat-500x-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Fiat / Stellantis (foto oficial Fiat 500X Hybrid), licencia desconocida)", ancho: 1920, alto: 888 },
+      { src: "/media/fiat-500x-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Gruppo Zatti (concesionario Fiat, fotos reales de unidad 500X 1.5 Hybrid 130 CV DCT 2022), licencia desconocida)", ancho: 800, alto: 600 },
     ],
     opiniones: [],
     costeMensual: {

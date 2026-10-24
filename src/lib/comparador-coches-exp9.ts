@@ -60,8 +60,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-yaris-cross-130h-2025-precio-ficha-tecnica-hunt1.webp", alt: "Yaris Cross 130H (foto: Toyota (prensa oficial) / Autoreview.nl, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/toyota-yaris-cross-130h-2025-precio-ficha-tecnica-hunt2.webp", alt: "Yaris Cross 130H (foto: Toyota (prensa oficial) / Autoreview.nl, licencia desconocida)", ancho: 1200, alto: 675 },
+      { src: "/media/toyota-yaris-cross-130h-2025-precio-ficha-tecnica-hunt3.webp", alt: "Yaris Cross 130H (foto: Toyota (prensa oficial) / Autoreview.nl, licencia desconocida)", ancho: 2560, alto: 1707 },
     ],
     analisisSlug: "toyota-yaris-cross-130h-2025-precio-ficha-tecnica",
   },
@@ -116,8 +117,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-land-cruiser-2026-precio-ficha-tecnica-hunt1.webp", alt: "Land Cruiser 250 Hybrid 48V (foto: Toyota Europa (foto de prensa) vía NepalDrives, licencia desconocida)", ancho: 1200, alto: 686 },
+      { src: "/media/toyota-land-cruiser-2026-precio-ficha-tecnica-hunt2.webp", alt: "Land Cruiser 250 Hybrid 48V (foto: Toyota Europa (foto de prensa) vía Car250, licencia desconocida)", ancho: 1548, alto: 808 },
+      { src: "/media/toyota-land-cruiser-2026-precio-ficha-tecnica-hunt3.webp", alt: "Land Cruiser 250 Hybrid 48V (foto: AutoReview / Toyota Europa (foto de prensa), licencia desconocida)", ancho: 600, alto: 399 },
     ],
     analisisSlug: "toyota-land-cruiser-2026-precio-ficha-tecnica",
   },
@@ -172,8 +174,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-bz4x-2025-precio-ficha-tecnica-hunt1.webp", alt: "bZ4X Advance 73 kWh (foto: Toyota Europe (prensa) / Hybrid.cz, licencia desconocida)", ancho: 1024, alto: 682 },
+      { src: "/media/toyota-bz4x-2025-precio-ficha-tecnica-hunt2.webp", alt: "bZ4X Advance 73 kWh (foto: HeadLight Magazine, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/toyota-bz4x-2025-precio-ficha-tecnica-hunt3.webp", alt: "bZ4X Advance 73 kWh (foto: HeadLight Magazine, licencia desconocida)", ancho: 1000, alto: 667 },
     ],
     analisisSlug: "toyota-bz4x-2025-precio-ficha-tecnica",
   },
@@ -228,8 +231,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-gr86-2025-precio-ficha-tecnica-hunt1.webp", alt: "GR86 (foto: Toyota USA Newsroom (prensa oficial Toyota) vía EmptyTank, licencia desconocida)", ancho: 1024, alto: 702 },
+      { src: "/media/toyota-gr86-2025-precio-ficha-tecnica-hunt2.webp", alt: "GR86 (foto: Toyota USA Newsroom (prensa oficial Toyota) vía TMotorTrip, licencia desconocida)", ancho: 900, alto: 675 },
+      { src: "/media/toyota-gr86-2025-precio-ficha-tecnica-hunt3.webp", alt: "GR86 (foto: Toyota USA Newsroom (prensa oficial Toyota) vía Conceptcarz, licencia desconocida)", ancho: 1024, alto: 664 },
     ],
     analisisSlug: "toyota-gr86-2025-precio-ficha-tecnica",
   },
@@ -284,8 +288,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Civic e:HEV (foto: ZaVolantem.cz (prueba del facelift), licencia desconocida)", ancho: 600, alto: 400 },
+      { src: "/media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Civic e:HEV (foto: Honda (foto de prensa MMC) vía Car250, licencia desconocida)", ancho: 1600, alto: 999 },
+      { src: "/media/honda-civic-ehev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Civic e:HEV (foto: ZaVolantem.cz (prueba del facelift), licencia desconocida)", ancho: 960, alto: 540 },
     ],
     analisisSlug: "honda-civic-ehev-2025-precio-ficha-tecnica",
   },
@@ -340,8 +345,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-corolla-5p-140h-2025-precio-ficha-tecnica-hunt1.webp", alt: "Corolla 5p 140H (foto: Toyota (foto de prensa) / Autodevot, licencia desconocida)", ancho: 1024, alto: 576 },
+      { src: "/media/toyota-corolla-5p-140h-2025-precio-ficha-tecnica-hunt2.webp", alt: "Corolla 5p 140H (foto: Toyota Media (prensa oficial), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/toyota-corolla-5p-140h-2025-precio-ficha-tecnica-hunt3.webp", alt: "Corolla 5p 140H (foto: Toyota (render oficial del fabricante) / Avtonovice, licencia desconocida)", ancho: 1600, alto: 1130 },
     ],
     analisisSlug: "toyota-corolla-5p-140h-2025-precio-ficha-tecnica",
   },
@@ -396,8 +402,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/honda-hr-v-ehev-2025-precio-ficha-tecnica-hunt1.webp", alt: "HR-V e:HEV (foto: Honda (prensa) / Auto Online Magazin, licencia desconocida)", ancho: 1024, alto: 437 },
+      { src: "/media/honda-hr-v-ehev-2025-precio-ficha-tecnica-hunt2.webp", alt: "HR-V e:HEV (foto: Honda (prensa) / Tuttosprint, licencia desconocida)", ancho: 600, alto: 400 },
+      { src: "/media/honda-hr-v-ehev-2025-precio-ficha-tecnica-hunt3.webp", alt: "HR-V e:HEV (foto: Honda (prensa) / ActualidadMotor, licencia desconocida)", ancho: 1500, alto: 900 },
     ],
     analisisSlug: "honda-hr-v-ehev-2025-precio-ficha-tecnica",
   },
@@ -452,8 +459,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/honda-jazz-ehev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Jazz e:HEV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1280, alto: 692 },
+      { src: "/media/honda-jazz-ehev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Jazz e:HEV (foto: M 93 / Wikimedia Commons, licencia CC BY-SA 3.0 de)", ancho: 1280, alto: 747 },
+      { src: "/media/honda-jazz-ehev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Jazz e:HEV (foto: Honda UK (oficial), licencia desconocida)", ancho: 963, alto: 720 },
     ],
     analisisSlug: "honda-jazz-ehev-2025-precio-ficha-tecnica",
   },
@@ -508,8 +516,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/kia-sportage-hev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Sportage 1.6 T-GDi HEV 215 CV (foto: Kia (foto de prensa oficial, vía BlackXperience), licencia desconocida)", ancho: 1200, alto: 795 },
+      { src: "/media/kia-sportage-hev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Sportage 1.6 T-GDi HEV 215 CV (foto: Kia / Auto Express (foto de prensa oficial), licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/kia-sportage-hev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Sportage 1.6 T-GDi HEV 215 CV (foto: Drive Grecia (prueba real del Sportage HEV 2WD), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "kia-sportage-hev-2025-precio-ficha-tecnica",
   },
@@ -564,8 +573,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/kia-ev9-2025-precio-ficha-tecnica-hunt1.webp", alt: "EV9 RWD Long Range 204 CV (foto: Carwow / Kia (foto de prensa), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/kia-ev9-2025-precio-ficha-tecnica-hunt2.webp", alt: "EV9 RWD Long Range 204 CV (foto: Carwow / Kia (foto de prensa), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/kia-ev9-2025-precio-ficha-tecnica-hunt3.webp", alt: "EV9 RWD Long Range 204 CV (foto: Carwow / Kia (foto de prensa), licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "kia-ev9-2025-precio-ficha-tecnica",
   },
@@ -620,8 +630,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/kia-ev2-2026-precio-ficha-tecnica-hunt1.webp", alt: "EV2 Standard Range 147 CV (foto: Kia (prensa oficial), licencia desconocida)", ancho: 940, alto: 529 },
+      { src: "/media/kia-ev2-2026-precio-ficha-tecnica-hunt2.webp", alt: "EV2 Standard Range 147 CV (foto: Kia (prensa oficial), licencia desconocida)", ancho: 940, alto: 529 },
+      { src: "/media/kia-ev2-2026-precio-ficha-tecnica-hunt3.webp", alt: "EV2 Standard Range 147 CV (foto: Kia (prensa oficial), licencia desconocida)", ancho: 940, alto: 529 },
     ],
     analisisSlug: "kia-ev2-2026-precio-ficha-tecnica",
   },
@@ -676,8 +687,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/nissan-qashqai-e-power-190-2025-precio-ficha-tecnica-hunt1.webp", alt: "Qashqai e-POWER 190 CV (foto: CompleteCar.ie (prueba del Qashqai e-Power 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/nissan-qashqai-e-power-190-2025-precio-ficha-tecnica-hunt2.webp", alt: "Qashqai e-POWER 190 CV (foto: CompleteCar.ie (prueba del Qashqai e-Power 2025), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/nissan-qashqai-e-power-190-2025-precio-ficha-tecnica-hunt3.webp", alt: "Qashqai e-POWER 190 CV (foto: Nissan Europa (CDN oficial, salpicadero Tekna+ ePOWER LHD), licencia desconocida)", ancho: 1200, alto: 750 },
     ],
     analisisSlug: "nissan-qashqai-e-power-190-2025-precio-ficha-tecnica",
   },
@@ -732,8 +744,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/nissan-micra-ev-52kwh-2026-precio-ficha-tecnica-hunt1.webp", alt: "Micra EV Long Range 52 kWh 150 CV (foto: Nissan (foto de prensa) vía Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
+      { src: "/media/nissan-micra-ev-52kwh-2026-precio-ficha-tecnica-hunt2.webp", alt: "Micra EV Long Range 52 kWh 150 CV (foto: Nissan (foto de prensa) vía WhichCar, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/nissan-micra-ev-52kwh-2026-precio-ficha-tecnica-hunt3.webp", alt: "Micra EV Long Range 52 kWh 150 CV (foto: Nissan (foto de prensa) vía Actualidad Motor, licencia desconocida)", ancho: 1500, alto: 900 },
     ],
     analisisSlug: "nissan-micra-ev-52kwh-2026-precio-ficha-tecnica",
   },
@@ -788,8 +801,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/ford-capri-ev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Capri EV Rango Extendido RWD 286 CV (foto: Ford (press kit de lanzamiento, vía Automotive Daily), licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/ford-capri-ev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Capri EV Rango Extendido RWD 286 CV (foto: Ford (foto de prensa, vía CarExpert), licencia desconocida)", ancho: 960, alto: 640 },
+      { src: "/media/ford-capri-ev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Capri EV Rango Extendido RWD 286 CV (foto: Periodismo del Motor (prueba del Capri Premium Rango Extendido RWD 77 kWh), licencia desconocida)", ancho: 1280, alto: 852 },
     ],
     analisisSlug: "ford-capri-ev-2025-precio-ficha-tecnica",
   },
@@ -844,8 +858,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-camry-2025-precio-ficha-tecnica-hunt1.webp", alt: "Camry 2.5 Hybrid 231 CV (foto: Android.com.pl (prueba en Polonia), licencia desconocida)", ancho: 1536, alto: 1024 },
+      { src: "/media/toyota-camry-2025-precio-ficha-tecnica-hunt2.webp", alt: "Camry 2.5 Hybrid 231 CV (foto: Automachi / KLIMS 2024, licencia desconocida)", ancho: 1200, alto: 628 },
+      { src: "/media/toyota-camry-2025-precio-ficha-tecnica-hunt3.webp", alt: "Camry 2.5 Hybrid 231 CV (foto: Android.com.pl (prueba en Polonia), licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     analisisSlug: "toyota-camry-2025-precio-ficha-tecnica",
   },
@@ -900,8 +915,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/toyota-corolla-sedan-140h-2025-precio-ficha-tecnica-hunt1.webp", alt: "Corolla Sedan 140H (foto: Toyota Europe Newsroom (prensa oficial Toyota), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/toyota-corolla-sedan-140h-2025-precio-ficha-tecnica-hunt2.webp", alt: "Corolla Sedan 140H (foto: Toyota Europe Newsroom (prensa oficial Toyota), licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/toyota-corolla-sedan-140h-2025-precio-ficha-tecnica-hunt3.webp", alt: "Corolla Sedan 140H (foto: Toyota Europe Newsroom (prensa oficial Toyota), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "toyota-corolla-sedan-140h-2025-precio-ficha-tecnica",
   },
@@ -958,8 +974,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/ford/mustang/2024/fastback/estandar/mustang-fastback-gt-50-v8/datos",
     galeria: [
-      
-      
+      { src: "/media/ford-mustang-2025-precio-ficha-tecnica-hunt1.webp", alt: "Mustang GT Fastback 5.0 V8 446 CV (foto: Ford / Carscoops, licencia desconocida)", ancho: 1920, alto: 1080 },
+      { src: "/media/ford-mustang-2025-precio-ficha-tecnica-hunt2.webp", alt: "Mustang GT Fastback 5.0 V8 446 CV (foto: Ford / Autopapo, licencia desconocida)", ancho: 768, alto: 541 },
+      { src: "/media/ford-mustang-2025-precio-ficha-tecnica-hunt3.webp", alt: "Mustang GT Fastback 5.0 V8 446 CV (foto: Ford / Steeda, licencia desconocida)", ancho: 1170, alto: 400 },
     ],
     analisisSlug: "ford-mustang-2025-precio-ficha-tecnica",
   },
@@ -1014,8 +1031,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/ford-puma-mhev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Puma 1.0 EcoBoost mHEV 155 CV Powershift (foto: Ford (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 720, alto: 657 },
+      { src: "/media/ford-puma-mhev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Puma 1.0 EcoBoost mHEV 155 CV Powershift (foto: Ford (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 720, alto: 520 },
+      { src: "/media/ford-puma-mhev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Puma 1.0 EcoBoost mHEV 155 CV Powershift (foto: Ford (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 720, alto: 520 },
     ],
     analisisSlug: "ford-puma-mhev-2025-precio-ficha-tecnica",
   },
@@ -1070,8 +1088,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/ford-focus-mhev-2025-precio-ficha-tecnica-hunt1.webp", alt: "Focus ST-Line 1.0 EcoBoost mHEV 125 CV (foto: Ford (media.ford.com) vía ActualidadMotor, licencia desconocida)", ancho: 1024, alto: 614 },
+      { src: "/media/ford-focus-mhev-2025-precio-ficha-tecnica-hunt2.webp", alt: "Focus ST-Line 1.0 EcoBoost mHEV 125 CV (foto: Ford (media.ford.com) vía ActualidadMotor, licencia desconocida)", ancho: 1024, alto: 614 },
+      { src: "/media/ford-focus-mhev-2025-precio-ficha-tecnica-hunt3.webp", alt: "Focus ST-Line 1.0 EcoBoost mHEV 125 CV (foto: Carbuyer, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
     analisisSlug: "ford-focus-mhev-2025-precio-ficha-tecnica",
   },
@@ -1126,8 +1145,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-x3-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión según CBS (foto: BMW (foto de prensa, fotógrafo Daniel Kraus según EXIF) vía Paul Tan, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/bmw-x3-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión según CBS (foto: BMW (foto de prensa, fotógrafo Daniel Kraus según EXIF) vía Paul Tan, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/bmw-x3-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión según CBS (foto: BMW (foto de prensa, fotógrafo Daniel Kraus según EXIF) vía Paul Tan, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     analisisSlug: "bmw-x3-2025-precio-ficha-tecnica",
     euroncap: {
@@ -1198,8 +1218,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-i4-edrive35-2025-precio-ficha-tecnica-hunt1.webp", alt: "i4 eDrive35 286 CV (foto: BMW Group (foto de prensa) vía Carsales Australia, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/bmw-i4-edrive35-2025-precio-ficha-tecnica-hunt2.webp", alt: "i4 eDrive35 286 CV (foto: BMW Group (foto de prensa) vía Carsales Australia, licencia desconocida)", ancho: 1023, alto: 682 },
+      { src: "/media/bmw-i4-edrive35-2025-precio-ficha-tecnica-hunt3.webp", alt: "i4 eDrive35 286 CV (foto: BMW Group (foto de prensa) vía Carsales Australia, licencia desconocida)", ancho: 1023, alto: 682 },
     ],
     analisisSlug: "bmw-i4-edrive35-2025-precio-ficha-tecnica",
   },
@@ -1254,8 +1275,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-x1-xdrive25e-2025-precio-ficha-tecnica-hunt1.webp", alt: "X1 xDrive25e 245 CV (foto: Hedin Automotive / BMW Premium Selection vía Gebruikteauto.nl, licencia desconocida)", ancho: 1920, alto: 1440 },
+      { src: "/media/bmw-x1-xdrive25e-2025-precio-ficha-tecnica-hunt2.webp", alt: "X1 xDrive25e 245 CV (foto: Charles (Port Chester, New York) vía Wikimedia Commons, licencia CC0)", ancho: 1920, alto: 1440 },
+      { src: "/media/bmw-x1-xdrive25e-2025-precio-ficha-tecnica-hunt3.webp", alt: "X1 xDrive25e 245 CV (foto: Delcar / DasWeltAuto Brașov, licencia desconocida)", ancho: 833, alto: 625 },
     ],
     analisisSlug: "bmw-x1-xdrive25e-2025-precio-ficha-tecnica",
   },
@@ -1310,8 +1332,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-i5-edrive40-2025-precio-ficha-tecnica-hunt1.webp", alt: "i5 eDrive40 340 CV (foto: BMW Group (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/bmw-i5-edrive40-2025-precio-ficha-tecnica-hunt2.webp", alt: "i5 eDrive40 340 CV (foto: BMW Group (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/bmw-i5-edrive40-2025-precio-ficha-tecnica-hunt3.webp", alt: "i5 eDrive40 340 CV (foto: BMW Group (foto de prensa) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1068 },
     ],
     analisisSlug: "bmw-i5-edrive40-2025-precio-ficha-tecnica",
   },
@@ -1366,8 +1389,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-hunt1.webp", alt: "Serie 2 Coupé 220i 184 CV (foto: BMW Group (foto de prensa) vía Automedia.mx, licencia desconocida)", ancho: 2560, alto: 1708 },
+      { src: "/media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-hunt2.webp", alt: "Serie 2 Coupé 220i 184 CV (foto: BMW Group (foto de prensa) vía Automedia.mx, licencia desconocida)", ancho: 2560, alto: 1708 },
+      { src: "/media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-hunt3.webp", alt: "Serie 2 Coupé 220i 184 CV (foto: BMW Group (foto de prensa) vía Automedia.mx, licencia desconocida)", ancho: 2560, alto: 1706 },
     ],
     analisisSlug: "bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica",
   },
@@ -1422,8 +1446,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-hunt1.webp", alt: "Serie 4 Coupé 420i 184 CV (foto: Cars.co.za / concesionario BMW Approved Used (Sudáfrica), fotos reales del anuncio, licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-hunt2.webp", alt: "Serie 4 Coupé 420i 184 CV (foto: Cars.co.za / concesionario BMW Approved Used (Sudáfrica), fotos reales del anuncio, licencia desconocida)", ancho: 800, alto: 600 },
+      { src: "/media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-hunt3.webp", alt: "Serie 4 Coupé 420i 184 CV (foto: Cars.co.za / concesionario BMW Approved Used (Sudáfrica), fotos reales del anuncio, licencia desconocida)", ancho: 800, alto: 600 },
     ],
     analisisSlug: "bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica",
   },
@@ -1478,8 +1503,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-m440i-xdrive-2025-precio-ficha-tecnica-hunt1.webp", alt: "Revisión según CBS (foto: BMW Group (foto de prensa) vía MotorTrend, licencia desconocida)", ancho: 2048, alto: 1152 },
+      { src: "/media/bmw-m440i-xdrive-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión según CBS (foto: Autoweb.cz (primera prueba BMW M440i xDrive Coupé), licencia desconocida)", ancho: 960, alto: 540 },
+      { src: "/media/bmw-m440i-xdrive-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión según CBS (foto: BMW Group (foto de prensa) vía PlanetCarsZ, licencia desconocida)", ancho: 1280, alto: 925 },
     ],
     analisisSlug: "bmw-m440i-xdrive-2025-precio-ficha-tecnica",
     euroncap: {
@@ -1562,6 +1588,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-cla-250-plus-eq-2026-precio-ficha-tecnica-hunt1.webp", alt: "CLA 250+ con tecnología EQ 272 CV (foto: Mercedes-Benz (foto de prensa vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mercedes-cla-250-plus-eq-2026-precio-ficha-tecnica-hunt2.webp", alt: "CLA 250+ con tecnología EQ 272 CV (foto: Mercedes-Benz (foto de prensa vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
+      { src: "/media/mercedes-cla-250-plus-eq-2026-precio-ficha-tecnica-hunt3.webp", alt: "CLA 250+ con tecnología EQ 272 CV (foto: Mercedes-Benz (foto de prensa vía CompleteCar.ie), licencia desconocida)", ancho: 1500, alto: 1000 },
     ],
     analisisSlug: "mercedes-cla-250-plus-eq-2026-precio-ficha-tecnica",
   },
@@ -1616,6 +1645,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-glc-400-eq-2026-precio-ficha-tecnica-hunt1.webp", alt: "GLC 400 4MATIC con tecnología EQ 489 CV (foto: Mercedes-Benz AG (foto de prensa oficial) / Autocar Japan, licencia desconocida)", ancho: 1000, alto: 666 },
+      { src: "/media/mercedes-glc-400-eq-2026-precio-ficha-tecnica-hunt2.webp", alt: "GLC 400 4MATIC con tecnología EQ 489 CV (foto: Mercedes-Benz AG (foto de prensa oficial) / Autocar Japan, licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/mercedes-glc-400-eq-2026-precio-ficha-tecnica-hunt3.webp", alt: "GLC 400 4MATIC con tecnología EQ 489 CV (foto: Mercedes-Benz AG (foto de prensa oficial, copyright en EXIF) / Autocar Japan, licencia desconocida)", ancho: 1000, alto: 667 },
     ],
     analisisSlug: "mercedes-glc-400-eq-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mercedes-Benz España no publica intervalo fijo ni tarifa cerrada para este GLC eléctrico (verificado el 21/10/2026): sus condiciones ServiceCare remiten al cuaderno de servicio y a los sistemas ASSYST o ASSYST PLUS, y la página de mantenimiento de la red Mercedes-Benz describe los servicios ASSYST A y B a intervalos definidos por tiempo o distancia recorrida, sin precio único por modelo", "intervalo": "Sin plan oficial publicado por Mercedes-Benz para el GLC 400 con tecnología EQ (verificado el 21/10/2026); en los Mercedes el aviso lo marca el sistema ASSYST PLUS según tiempo, kilometraje y tipo de uso, con servicios ASSYST A y B alternos", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica ASSYST en taller autorizado Mercedes-Benz", "queSeCambia": "Inspección de la batería de alta tensión y del sistema eléctrico, comprobación de frenos, suspensión, dirección, climatización y neumáticos, sustitución del filtro de habitáculo cuando lo pida el servicio y renovación del líquido de frenos según el aviso del cuadro"}]},
@@ -1684,6 +1716,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-cla-sb-250-plus-eq-2026-precio-ficha-tecnica-hunt1.webp", alt: "CLA 250+ Shooting Brake con tecnología EQ 272 CV (foto: Mercedes-Benz / Electric Cars Report, licencia desconocida)", ancho: 640, alto: 426 },
+      { src: "/media/mercedes-cla-sb-250-plus-eq-2026-precio-ficha-tecnica-hunt2.webp", alt: "CLA 250+ Shooting Brake con tecnología EQ 272 CV (foto: Mercedes-Benz / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/mercedes-cla-sb-250-plus-eq-2026-precio-ficha-tecnica-hunt3.webp", alt: "CLA 250+ Shooting Brake con tecnología EQ 272 CV (foto: Auto-Test-und-Technik (prueba del CLA 250+ Shooting Brake) / Mercedes-Benz, licencia desconocida)", ancho: 1024, alto: 683 },
     ],
     analisisSlug: "mercedes-cla-sb-250-plus-eq-2026-precio-ficha-tecnica",
   },
@@ -1750,6 +1785,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/bmw-x6-xdrive40i-2026-precio-ficha-tecnica-hunt1.webp", alt: "X6 xDrive40i 381 CV (foto: Pete Gibson / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/bmw-x6-xdrive40i-2026-precio-ficha-tecnica-hunt2.webp", alt: "X6 xDrive40i 381 CV (foto: Pete Gibson / Auto Express, licencia desconocida)", ancho: 1260, alto: 710 },
+      { src: "/media/bmw-x6-xdrive40i-2026-precio-ficha-tecnica-hunt3.webp", alt: "X6 xDrive40i 381 CV (foto: ClassicCars.com Journal, licencia desconocida)", ancho: 1200, alto: 675 },
     ],
     analisisSlug: "bmw-x6-xdrive40i-2026-precio-ficha-tecnica",
   },
@@ -1816,6 +1854,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt1.webp", alt: "Revisión según CBS (foto: BMW / MotorShow, licencia desconocida)", ancho: 800, alto: 599 },
+      { src: "/media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión según CBS (foto: BMW / MotorShow, licencia desconocida)", ancho: 800, alto: 599 },
+      { src: "/media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión según CBS (foto: BMW / MotorShow, licencia desconocida)", ancho: 800, alto: 534 },
     ],
     analisisSlug: "bmw-serie-3-320i-2026-precio-ficha-tecnica",
     euroncap: {
@@ -1886,8 +1927,9 @@ export const COCHES_EXP9: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [
-      
-      
+      { src: "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt1.webp", alt: "Serie 8 840i Gran Coupé 333 CV (foto: Tokumeigakarinoaoshima / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt2.webp", alt: "Serie 8 840i Gran Coupé 333 CV (foto: Tokumeigakarinoaoshima / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1600, alto: 1200 },
+      { src: "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt3.webp", alt: "Serie 8 840i Gran Coupé 333 CV (foto: OWS Photography / Wikimedia Commons, licencia CC BY 4.0)", ancho: 1600, alto: 1280 },
     ],
     analisisSlug: "bmw-serie-8-840i-gc-2026-precio-ficha-tecnica",
   },
@@ -1954,6 +1996,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/bmw-z4-m40i-2026-precio-ficha-tecnica-hunt1.webp", alt: "Z4 M40i 340 CV (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 631 },
+      { src: "/media/bmw-z4-m40i-2026-precio-ficha-tecnica-hunt2.webp", alt: "Z4 M40i 340 CV (foto: Alexander-93 / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 637 },
+      { src: "/media/bmw-z4-m40i-2026-precio-ficha-tecnica-hunt3.webp", alt: "Z4 M40i 340 CV (foto: Damian B Oh / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 960 },
     ],
     analisisSlug: "bmw-z4-m40i-2026-precio-ficha-tecnica",
   },
@@ -2020,6 +2065,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-cle-200-coupe-2025-precio-ficha-tecnica-hunt1.webp", alt: "CLE 200 Coupé 204 CV (foto: M 93 (Wikimedia Commons), licencia CC BY-SA 3.0 DE)", ancho: 1600, alto: 805 },
+      { src: "/media/mercedes-cle-200-coupe-2025-precio-ficha-tecnica-hunt2.webp", alt: "CLE 200 Coupé 204 CV (foto: M 93 (Wikimedia Commons), licencia CC BY-SA 3.0 DE)", ancho: 1600, alto: 787 },
+      { src: "/media/mercedes-cle-200-coupe-2025-precio-ficha-tecnica-hunt3.webp", alt: "CLE 200 Coupé 204 CV (foto: Damian B Oh (Wikimedia Commons), licencia CC BY-SA 4.0)", ancho: 1100, alto: 825 },
     ],
     analisisSlug: "mercedes-cle-200-coupe-2025-precio-ficha-tecnica",
   },
@@ -2103,6 +2151,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-gla-250-e-2025-precio-ficha-tecnica-hunt1.webp", alt: "Service A / 15.000 km (foto: Mercedes-Benz Australia (prensa, vía RACQ), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/mercedes-gla-250-e-2025-precio-ficha-tecnica-hunt2.webp", alt: "Service A / 15.000 km (foto: Mercedes-Benz Australia (prensa, vía RACQ), licencia desconocida)", ancho: 1000, alto: 667 },
+      { src: "/media/mercedes-gla-250-e-2025-precio-ficha-tecnica-hunt3.webp", alt: "Service A / 15.000 km (foto: Mercedes-Benz Australia (prensa, vía RACQ), licencia desconocida)", ancho: 1000, alto: 667 },
     ],
     analisisSlug: "mercedes-gla-250-e-2025-precio-ficha-tecnica",
   },
@@ -2174,8 +2225,9 @@ export const COCHES_EXP9: CocheComparador[] = [
       fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
     },
     galeria: [
-      
-      
+      { src: "/media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hunt1.webp", alt: "Service A / 15.000 km (foto: EV Pulse, licencia desconocida)", ancho: 1600, alto: 1066 },
+      { src: "/media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hunt2.webp", alt: "Service A / 15.000 km (foto: MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
+      { src: "/media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hunt3.webp", alt: "Service A / 15.000 km (foto: MotorTrend, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "mercedes-gle-450-e-2026-precio-ficha-tecnica",
   },
@@ -2230,6 +2282,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-g-580-eq-2026-precio-ficha-tecnica-hunt1.webp", alt: "G 580 con tecnología EQ 587 CV (foto: Mercedes-Benz Group AG (foto de prensa oficial, EXIF con copyright Mercedes-Benz Group AG) vía Paul Tan, licencia desconocida)", ancho: 750, alto: 1125 },
+      { src: "/media/mercedes-g-580-eq-2026-precio-ficha-tecnica-hunt2.webp", alt: "G 580 con tecnología EQ 587 CV (foto: Mercedes-Benz (prensa oficial) vía Villanyautósok, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/mercedes-g-580-eq-2026-precio-ficha-tecnica-hunt3.webp", alt: "G 580 con tecnología EQ 587 CV (foto: Mercedes-Benz (prensa oficial, foto real Canon EOS R5) vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1067 },
     ],
     analisisSlug: "mercedes-g-580-eq-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Sin plan oficial específico publicado por Mercedes-Benz para el G 580 EQ (verificado el 21/10/2026); el vencimiento lo anuncia el indicador ASSYST PLUS del cuadro según tiempo transcurrido y uso del vehículo", "revisiones": [{"nombre": "Inspección periódica según ASSYST PLUS", "queSeCambia": "Comprobación del sistema de alta tensión y de la batería de 116 kWh, frenos, neumáticos, niveles, software y sustitución del filtro del habitáculo cuando el servicio lo requiere; sin aceite de motor al ser eléctrico puro", "costeAproxEur": null}, {"nombre": "Líquido de frenos en el servicio mayor bienal", "queSeCambia": "Sustitución del líquido de frenos y revisión ampliada del conjunto, partida ligada al tiempo en el esquema de servicios A/B que la red Mercedes-Benz aplica a la Clase G", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Mercedes-Benz España no publica intervalo ni tarifa cerrada para el G 580 EQ (verificado el 21/10/2026). El documento Mercedes-Benz Service Plans vigente en noviembre de 2024 lista 1 año/25.000 km para EQA, EQB, EQS y EQE y 1 año/20.000 km para los Clase G térmicos (463/465), sin fila alguna para el G 580 eléctrico, por lo que no se le asigna ninguno de esos intervalos como propio ni coste alguno"},
@@ -2286,6 +2341,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt1.webp", alt: "EQS SUV 580 4MATIC 544 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1065 },
+      { src: "/media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt2.webp", alt: "EQS SUV 580 4MATIC 544 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1065 },
+      { src: "/media/mercedes-eqs-suv-580-2026-precio-ficha-tecnica-hunt3.webp", alt: "EQS SUV 580 4MATIC 544 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1065 },
     ],
     analisisSlug: "mercedes-eqs-suv-580-2026-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Cada 12 meses o 25.000 km, lo primero que ocurra, según el plan de servicio publicado por Mercedes-Benz para el EQS SUV (código interno 296); el indicador ASSYST Plus del cuadro anuncia la fecha y el tipo de servicio", "revisiones": [{"nombre": "Servicio periódico (12 meses o 25.000 km)", "queSeCambia": "Inspección general del vehículo, sustitución del filtro de habitáculo y comprobación del sistema de alta tensión, frenos, neumáticos, niveles y software", "costeAproxEur": null}, {"nombre": "Líquido de frenos (cada 2 años)", "queSeCambia": "Sustitución del líquido de frenos, partida ligada al tiempo y no al kilometraje en el programa de mantenimiento de los eléctricos EQS", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Documento de planes de servicio de Mercedes-Benz que lista el EQS SUV (296) con intervalo de 1 año/25.000 km, corroborado por la ficha de especificaciones del modelo en CarExpert; Mercedes-Benz España no publica una tarifa cerrada para este modelo (verificado el 21/10/2026), por lo que no se asigna coste"},
@@ -2354,6 +2412,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-amg-gt-43-2026-precio-ficha-tecnica-hunt1.webp", alt: "Mercedes-AMG GT 43 Coupé 421 CV (foto: Mercedes-AMG (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1326, alto: 884 },
+      { src: "/media/mercedes-amg-gt-43-2026-precio-ficha-tecnica-hunt2.webp", alt: "Mercedes-AMG GT 43 Coupé 421 CV (foto: Mercedes-AMG (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1372, alto: 915 },
+      { src: "/media/mercedes-amg-gt-43-2026-precio-ficha-tecnica-hunt3.webp", alt: "Mercedes-AMG GT 43 Coupé 421 CV (foto: Mercedes-AMG (foto de prensa oficial) vía CarExpert, licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
     analisisSlug: "mercedes-amg-gt-43-2026-precio-ficha-tecnica",
   },
@@ -2408,6 +2469,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-eqv-300-largo-2026-precio-ficha-tecnica-hunt1.webp", alt: "EQV 300 Largo 204 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/mercedes-eqv-300-largo-2026-precio-ficha-tecnica-hunt2.webp", alt: "EQV 300 Largo 204 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1068 },
+      { src: "/media/mercedes-eqv-300-largo-2026-precio-ficha-tecnica-hunt3.webp", alt: "EQV 300 Largo 204 CV (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 1600, alto: 1068 },
     ],
     analisisSlug: "mercedes-eqv-300-largo-2026-precio-ficha-tecnica",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mercedes-Benz Vans publica en su página oficial de servicios para vehículos eléctricos el intervalo de 1 año o 40.000 km y el ISP de cuatro operaciones en cuatro años o 160.000 km (página del Reino Unido, con equivalente en la red oficial española); verificado el 21/10/2026. No hay tarifa única publicada para España, por eso los costes quedan sin dato.", "intervalo": "Cada 1 año o 40.000 km, lo primero que ocurra (intervalo oficial de Mercedes-Benz Vans para sus furgonetas eléctricas, aplicable a la EQV)", "revisiones": [{"costeAproxEur": null, "nombre": "Operación de mantenimiento programada", "queSeCambia": "Inspección de los componentes de alta tensión y de frenos, climatización, niveles y demás funciones del vehículo; las sustituciones se hacen según la especificación del fabricante. Al ser eléctrica no hay cambio de aceite de motor."}, {"costeAproxEur": null, "nombre": "Paquete de Mantenimiento Integrado (ISP) de serie", "queSeCambia": "Cubre las cuatro primeras operaciones de mantenimiento si se realizan dentro de los cuatro primeros años o hasta los 160.000 km, en un Taller Autorizado Mercedes-Benz; el paquete es transferible al nuevo propietario si el vehículo se vende dentro de ese periodo."}]},
@@ -2476,6 +2540,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt1.webp", alt: "Clase B 200 163 CV (foto: Auto Express, licencia desconocida)", ancho: 1600, alto: 901 },
+      { src: "/media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt2.webp", alt: "Clase B 200 163 CV (foto: Auto Express, licencia desconocida)", ancho: 1600, alto: 901 },
+      { src: "/media/mercedes-clase-b-200-2026-precio-ficha-tecnica-hunt3.webp", alt: "Clase B 200 163 CV (foto: Auto Express, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "mercedes-clase-b-200-2026-precio-ficha-tecnica",
   },
@@ -2542,6 +2609,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt1.webp", alt: "S90 B5 250 CV (foto: Seoul Economic Daily (sedaily.com), licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt2.webp", alt: "S90 B5 250 CV (foto: Seoul Economic Daily (sedaily.com), licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/volvo-s90-b5-2025-precio-ficha-tecnica-hunt3.webp", alt: "S90 B5 250 CV (foto: Seoul Economic Daily (sedaily.com), licencia desconocida)", ancho: 900, alto: 600 },
     ],
     analisisSlug: "volvo-s90-b5-2025-precio-ficha-tecnica",
   },
@@ -2608,6 +2678,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt1.webp", alt: "S60 B5 250 CV (foto: Volvo Cars (prensa oficial), licencia desconocida)", ancho: 1920, alto: 675 },
+      { src: "/media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt2.webp", alt: "S60 B5 250 CV (foto: Bishop Maserati / CarsCommerce (foto real de unidad S60 B5 Core 2024), licencia desconocida)", ancho: 1024, alto: 768 },
+      { src: "/media/volvo-s60-b5-2025-precio-ficha-tecnica-hunt3.webp", alt: "S60 B5 250 CV (foto: Volvista (Volvo Selekt Průhonice, foto real de unidad S60 B5 AWD Ultimate), licencia desconocida)", ancho: 1280, alto: 853 },
     ],
     analisisSlug: "volvo-s60-b5-2025-precio-ficha-tecnica",
   },
@@ -2674,6 +2747,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/suzuki-swift-2025-12-83cv-hibrido-precio-ficha-tecnica-hunt1.webp", alt: "Swift 1.2 Mild Hybrid S2 83 CV (foto: Suzuki (foto oficial de prensa, vía Conceptcarz), licencia desconocida)", ancho: 800, alto: 536 },
+      { src: "/media/suzuki-swift-2025-12-83cv-hibrido-precio-ficha-tecnica-hunt2.webp", alt: "Swift 1.2 Mild Hybrid S2 83 CV (foto: Suzuki (foto oficial de prensa, vía Autocar), licencia desconocida)", ancho: 900, alto: 600 },
+      { src: "/media/suzuki-swift-2025-12-83cv-hibrido-precio-ficha-tecnica-hunt3.webp", alt: "Swift 1.2 Mild Hybrid S2 83 CV (foto: Suzuki (foto de prensa en carretera, vía Wheels-Alive), licencia desconocida)", ancho: 1819, alto: 1154 },
     ],
     analisisSlug: "suzuki-swift-2025-12-83cv-hibrido-precio-ficha-tecnica",
   },
@@ -2740,6 +2816,9 @@ export const COCHES_EXP9: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica-hunt1.webp", alt: "Space Star 120 MPI 71 CV Motion (foto: Mitsubishi Motors (prensa oficial, Mitsubishi Motors Finlandia), licencia desconocida)", ancho: 1200, alto: 628 },
+      { src: "/media/mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica-hunt2.webp", alt: "Space Star 120 MPI 71 CV Motion (foto: Alexander Migl / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 745 },
+      { src: "/media/mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica-hunt3.webp", alt: "Space Star 120 MPI 71 CV Motion (foto: AutoExperts.cz, licencia desconocida)", ancho: 1010, alto: 670 },
     ],
     analisisSlug: "mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica",
   },

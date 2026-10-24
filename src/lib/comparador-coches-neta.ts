@@ -64,9 +64,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/neta-aya-2025-precio-ficha-tecnica-hunt1.webp", alt: "Aya (foto: AutoApp Singapore, licencia desconocida)", ancho: 1600, alto: 1067 },
+      { src: "/media/neta-aya-2025-precio-ficha-tecnica-hunt2.webp", alt: "Aya (foto: Hozon Auto / Neta (prensa oficial), licencia desconocida)", ancho: 800, alto: 410 },
+      { src: "/media/neta-aya-2025-precio-ficha-tecnica-hunt3.webp", alt: "Aya (foto: Hozon Auto / Neta (prensa oficial, vía Paul Tan), licencia desconocida)", ancho: 1600, alto: 926 },
     ],
     analisisSlug: "neta-aya-2025-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "Cada 1 año o 10.000 km, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual o cada 10.000 km", "queSeCambia": "Inspección del conjunto eléctrico (batería, motor y electrónica de control) junto con frenos, neumáticos y alumbrado; no hay aceite de motor que sustituir por ser un eléctrico puro"}, {"costeAproxEur": null, "nombre": "Sustitución de líquidos en la revisión", "queSeCambia": "Cambio de líquido de frenos y de aceite de la reductora cuando toca según el programa citado para el Neta V"}]},
@@ -129,6 +129,9 @@ export const COCHES_NETA: CocheComparador[] = [
         ancho: 1920,
         alto: 1280,
       },
+      { src: "/media/neta-x-2024-precio-ficha-tecnica-hunt1.webp", alt: "X (foto: Autopapo / Neta Brasil, licencia desconocida)", ancho: 1536, alto: 1024 },
+      { src: "/media/neta-x-2024-precio-ficha-tecnica-hunt2.webp", alt: "X (foto: Neta (material de prensa), licencia desconocida)", ancho: 1600, alto: 930 },
+      { src: "/media/neta-x-2024-precio-ficha-tecnica-hunt3.webp", alt: "X (foto: CariCarz, licencia desconocida)", ancho: 1100, alto: 825 },
     ],
     analisisSlug: "neta-x-2024-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
@@ -183,9 +186,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/neta-s-2024-precio-ficha-tecnica-hunt1.webp", alt: "S (foto: Hozon Neta (prensa oficial) vía GNEENE V, licencia desconocida)", ancho: 769, alto: 610 },
+      { src: "/media/neta-s-2024-precio-ficha-tecnica-hunt2.webp", alt: "S (foto: HugeAuto / Yiche, licencia desconocida)", ancho: 1200, alto: 800 },
+      { src: "/media/neta-s-2024-precio-ficha-tecnica-hunt3.webp", alt: "S (foto: PCauto Thailand, licencia desconocida)", ancho: 600, alto: 400 },
     ],
     analisisSlug: "neta-s-2024-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
@@ -240,9 +243,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hunt1.webp", alt: "S Hunter (foto: Neta / Hozon Auto (imágenes oficiales vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 507 },
+      { src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hunt2.webp", alt: "S Hunter (foto: Neta / Hozon Auto (imágenes oficiales vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 501 },
+      { src: "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hunt3.webp", alt: "S Hunter (foto: Neta / Hozon Auto (imágenes oficiales vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 533 },
     ],
     analisisSlug: "neta-s-shooting-brake-2024-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
@@ -297,9 +300,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/neta-gt-2024-precio-ficha-tecnica-hunt1.webp", alt: "GT (foto: Paul Tan / paultan.org, licencia desconocida)", ancho: 640, alto: 336 },
+      { src: "/media/neta-gt-2024-precio-ficha-tecnica-hunt2.webp", alt: "GT (foto: Nangluong.info.vn / Neta, licencia desconocida)", ancho: 1024, alto: 683 },
+      { src: "/media/neta-gt-2024-precio-ficha-tecnica-hunt3.webp", alt: "GT (foto: Carro.blog.br / Neta, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
     analisisSlug: "neta-gt-2024-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
@@ -354,9 +357,9 @@ export const COCHES_NETA: CocheComparador[] = [
       estimado: true,
     },
     galeria: [
-      
-      
-      
+      { src: "/media/neta-l-2024-precio-ficha-tecnica-hunt1.webp", alt: "L (foto: Neta / Hozon Auto (vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/neta-l-2024-precio-ficha-tecnica-hunt2.webp", alt: "L (foto: Neta / Hozon Auto (vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
+      { src: "/media/neta-l-2024-precio-ficha-tecnica-hunt3.webp", alt: "L (foto: Neta / Hozon Auto (vía CarNewsChina), licencia desconocida)", ancho: 800, alto: 450 },
     ],
     analisisSlug: "neta-l-2024-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},

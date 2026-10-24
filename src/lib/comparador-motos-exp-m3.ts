@@ -1564,7 +1564,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     imagen: "/media/motos/macbor-eight-mile-500-street-2024-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/macbor-eight-mile-500-street-2024-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/macbor-eight-mile-500-street-2024-ficha-tecnica-precio/macbor-eight-mile-500-street-2024-ficha-tecnica-precio-real-2.webp",
         alt: "Macbor Eight Mile 500 Street 2024, vista lateral custom",
         ancho: 1200,
         alto: 800,
@@ -1908,16 +1908,16 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     pros: ["Su bicilíndrico en V entrega 14,5 CV, muy cerca del tope permitido para el A1", "Con 15 litros de capacidad puedes espaciar bastante las paradas para repostar", "Estética bobber de líneas bajas que se sale de la típica 125 urbana", "Iluminación LED y pantalla digital aportan un toque actual al conjunto", "Cuesta 3.790 euros y llega con un equipamiento bastante redondo para empezar", "La postura relajada facilita moverse entre tráfico sin castigar la espalda"],
     contras: ["Ese precio la sitúa por encima de varias rivales chinas de cilindrada similar", "Es una moto voluminosa para su potencia, algo que se nota al exigirle ritmo", "No esperes ayudas electrónicas sofisticadas ni modos de conducción configurables", "En segunda mano cuesta más defender su valor que con marcas consolidadas", "Algunos plásticos y remates quedan por debajo de lo que sugiere su imagen"],
     curiosidades: ["Dentro de la gama 125 de Keeway, esta C busca un público más custom que deportivo", "Pocos modelos de acceso ofrecen un depósito tan generoso como sus 15 litros", "La letra final distingue esta propuesta clásica frente a otras RKV de la casa", "Nació pensando en quien accede con el B más tres años y quiere algo distinto a un scooter"],
-    imagen: "/media/motos/keeway-rkv-125c-2024-ficha-tecnica-precio-1.webp",
+    imagen: "/media/fotos-reales/keeway-rkv-125c-2024-ficha-tecnica-precio/keeway-rkv-125c-2024-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
-        src: "/media/motos/keeway-rkv-125c-2024-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/keeway-rkv-125c-2024-ficha-tecnica-precio/keeway-rkv-125c-2024-ficha-tecnica-precio-real-1.webp",
         alt: "Keeway RKV 125C 2024, vista lateral naked",
         ancho: 1200,
         alto: 800,
       },
       {
-        src: "/media/motos/keeway-rkv-125c-2024-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/keeway-rkv-125c-2024-ficha-tecnica-precio/keeway-rkv-125c-2024-ficha-tecnica-precio-real-2.webp",
         alt: "Keeway RKV 125C 2024 en ciudad",
         ancho: 1200,
         alto: 800,
@@ -2686,7 +2686,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         alto: 800,
       },
       {
-        src: "/media/motos/wottan-storm-x-125-2024-ficha-tecnica-precio-3.webp",
+        src: "/media/fotos-reales/wottan-storm-x-125-2024-ficha-tecnica-precio/wottan-storm-x-125-2024-ficha-tecnica-precio-real-3.webp",
         alt: "Wottan Storm X 125 2024 en ciudad",
         ancho: 1200,
         alto: 800,

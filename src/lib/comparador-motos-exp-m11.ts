@@ -565,7 +565,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     imagen: "/media/motos/qjmotor-atr-125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
       {
-        src: "/media/motos/qjmotor-atr-125-2025-ficha-tecnica-precio-2.webp",
+        src: "/media/fotos-reales/qjmotor-atr-125-2025-ficha-tecnica-precio/qjmotor-atr-125-2025-ficha-tecnica-precio-real-1.webp",
         alt: "QJMotor ATR 125 2025, detalle",
         ancho: 1200,
         alto: 800,
@@ -778,6 +778,8 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
         ancho: 1200,
         alto: 800,
       },
+      { src: "/media/fotos-reales/zontes-125d-2025-ficha-tecnica-precio/zontes-125d-2025-ficha-tecnica-precio-real-1.webp", alt: "125D", ancho: 2048, alto: 1151 },
+      { src: "/media/fotos-reales/zontes-125d-2025-ficha-tecnica-precio/zontes-125d-2025-ficha-tecnica-precio-real-2.webp", alt: "125D", ancho: 1200, alto: 800 },
     ],
     videoId: null,
     videoCanal: null,

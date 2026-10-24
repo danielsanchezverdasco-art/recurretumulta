@@ -548,7 +548,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       "Su motor iGet de 15 CV es el más potente homologado para el carnet A1 en scooters",
       "Aprilia lo diseñó pensando en las calles empedradas y los baches italianos",
     ],
-    imagen: "/media/aprilia-sr-gt-125-2025-ficha-tecnica-precio-oficial.webp",
+    imagen: "/media/fotos-reales/aprilia-sr-gt-125-2025-ficha-tecnica-precio/aprilia-sr-gt-125-2025-ficha-tecnica-precio-real-0.webp",
     galeria: [
       {
         src: "/media/aprilia-sr-gt-125-2025-ficha-tecnica-precio-oficial-2.webp",
