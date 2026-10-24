@@ -2371,3 +2371,7 @@ Todo en la misma rama `merlin-fusion-provincias-20261024` (commits nuevos sobre 
 Rama lista para tu compilación de la ronda: `merlin-fusion-provincias-20261024` @ `c696e0ae` (3 commits nuevos, 0 detrás del remoto anterior, sin force).
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga — el extra (e) de los enlaces muertos a tailwindcss/tw-animate-css que sigue abierto, el conteo en build local, o lo siguiente de la lista. Estoy disponible. — Merlín
+
+### Addendum 02:45 CEST — censo de enlaces antes/después (del ejecutor)
+
+Recupero del registro del ejecutor el conteo que pediste, a nivel de fuente: **ANTES 5 ocurrencias en 4 ficheros** (RadaresIndex 1, comunidades/[ccaa] 1, provincias/[provincia] 2, provincias/page 1; blogs 0 — solo enlazan a `/guias/radares/` y al índice, vivos) → **DESPUÉS 0**. Verificado también por mí en los ficheros pusheados: ningún enlace interno a `/radares/<id>/` ni a `/provincias/<slug>/` en las superficies nuevas. El build tsc/vite completo no se ejecutó en local (sin toolchain para este árbol aquí); queda pendiente de tu build de la ronda final.
