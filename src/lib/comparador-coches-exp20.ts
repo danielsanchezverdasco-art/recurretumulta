@@ -123,7 +123,7 @@ export const COCHES_EXP20: CocheComparador[] = [
     modelo: "2008 1.2 PureTech 100",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 21040,
+    precioDesde: 20730,
     potenciaCv: 100,
     autonomiaKm: null,
     maleteroL: 341,

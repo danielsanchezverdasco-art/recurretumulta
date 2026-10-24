@@ -1417,7 +1417,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
     modelo: "A 35",
     tipo: "Híbrido ligero",
     categoria: "Compacto",
-    precioDesde: 66964,
+    precioDesde: 67592,
     potenciaCv: 306,
     autonomiaKm: null,
     maleteroL: 370,

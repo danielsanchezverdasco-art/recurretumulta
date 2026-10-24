@@ -1370,7 +1370,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     planMantenimiento: null,
     plazas: 5,
     potenciaCv: 116,
-    precioDesde: 28250,
+    precioDesde: 27850,
     pros: [
       "Acabado FR con estética deportiva y detalles en rojo sin sobreprecio excesivo",
       "Peso contenido de 1.213 kg que favorece agilidad y consumos",

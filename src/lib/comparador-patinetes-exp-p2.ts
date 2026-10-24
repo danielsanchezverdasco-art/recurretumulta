@@ -695,7 +695,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "txiki go",
     marca: "Smartgyro",
     modelo: "Rockway GT",
-    precioEur: 689,
+    precioEur: 599,
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 60,

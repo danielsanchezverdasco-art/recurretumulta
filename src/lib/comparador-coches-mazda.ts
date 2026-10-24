@@ -1322,7 +1322,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "CX-5 2.5 e-SkyActiv G",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 33000,
+    precioDesde: 35200,
     potenciaCv: 141,
     autonomiaKm: null,
     maleteroL: 583,

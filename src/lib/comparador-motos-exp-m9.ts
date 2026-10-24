@@ -1639,7 +1639,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "TRK 902 Stradale 2025",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8990,
+    precioDesde: 8690,
     potenciaKw: 70,
     potenciaCv: 95.2,
     autonomiaKm: null,

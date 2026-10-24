@@ -1738,7 +1738,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     version: "Scrambler 800 Nightshift 2025",
     cilindradaCc: 803,
     categoria: "Custom",
-    precioDesde: 12990,
+    precioDesde: 13290,
     potenciaKw: 54,
     potenciaCv: 73,
     autonomiaKm: 290,

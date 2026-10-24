@@ -1399,7 +1399,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     modelo: "R4 E-Tech 40 kWh",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 28731,
+    precioDesde: 27954,
     potenciaCv: 122,
     autonomiaKm: 308,
     maleteroL: 375,

@@ -1660,7 +1660,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "eTerron 9",
     tipo: "Eléctrico",
     categoria: "Pick-up",
-    precioDesde: 69425,
+    precioDesde: 47871,
     potenciaCv: 442,
     autonomiaKm: 430,
     maleteroL: null,

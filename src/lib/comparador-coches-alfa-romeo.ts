@@ -921,7 +921,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "modelo": "Tonale Diésel 130 CV",
     "tipo": "Diésel",
     "categoria": "SUV",
-    "precioDesde": 35403,
+    "precioDesde": 34643,
     "potenciaCv": 131,
     "autonomiaKm": null,
     "maleteroL": 500,

@@ -13,7 +13,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "Atto 2 DM-i",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 28200,
+    precioDesde: 25990,
     potenciaCv: 212,
     autonomiaKm: 90,
     maleteroL: 425,

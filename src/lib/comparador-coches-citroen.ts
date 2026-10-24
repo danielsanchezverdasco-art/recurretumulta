@@ -1918,7 +1918,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     modelo: "C3 1.2 Turbo",
     tipo: "Gasolina",
     categoria: "Urbano",
-    precioDesde: 16500,
+    precioDesde: 18450,
     potenciaCv: 100,
     autonomiaKm: null,
     maleteroL: 310,

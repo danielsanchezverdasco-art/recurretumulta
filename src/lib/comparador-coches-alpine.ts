@@ -772,7 +772,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "modelo": "A110 R 70",
     "tipo": "Gasolina",
     "categoria": "Deportivo",
-    "precioDesde": 125200,
+    "precioDesde": 124799,
     "potenciaCv": 300,
     "autonomiaKm": null,
     "maleteroL": 196,

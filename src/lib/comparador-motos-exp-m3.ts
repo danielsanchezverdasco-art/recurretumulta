@@ -1733,7 +1733,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     version: "Montana XR5 510 2025",
     cilindradaCc: 510,
     categoria: "Trail",
-    precioDesde: 6199,
+    precioDesde: 5399,
     potenciaKw: 34.5,
     potenciaCv: 46.9,
     autonomiaKm: null,

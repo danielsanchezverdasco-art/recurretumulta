@@ -2187,7 +2187,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     modelo: "T 447",
     tipo: "Diésel",
     categoria: "Autocaravana",
-    precioDesde: 65900,
+    precioDesde: 66590,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

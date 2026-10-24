@@ -251,7 +251,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     modelo: "EQE SUV 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 83492,
+    precioDesde: 83244.2,
     potenciaCv: 320,
     autonomiaKm: 617,
     maleteroL: 520,

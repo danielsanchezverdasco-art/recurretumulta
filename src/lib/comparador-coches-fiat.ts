@@ -275,7 +275,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     modelo: "Grande Panda Hybrid",
     tipo: "Híbrido",
     categoria: "Urbano",
-    precioDesde: 19039,
+    precioDesde: 18200,
     potenciaCv: 110,
     autonomiaKm: null,
     maleteroL: 412,

@@ -545,7 +545,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     modelo: "SH350i",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 6450,
+    precioDesde: 6340,
     potenciaKw: 21.18,
     potenciaCv: 28.8,
     autonomiaKm: null,

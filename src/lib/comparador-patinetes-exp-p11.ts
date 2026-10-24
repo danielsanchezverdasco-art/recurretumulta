@@ -2028,7 +2028,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Zwheel",
     modelo: "ZLion X Max",
-    precioEur: 370,
+    precioEur: 499.99,
     potenciaNominalW: 400,
     potenciaPicoW: null,
     autonomiaKm: 40,

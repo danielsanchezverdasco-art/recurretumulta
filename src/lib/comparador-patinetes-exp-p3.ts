@@ -2650,7 +2650,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Wicka Wille",
     marca: "Joyor",
     modelo: "S5 Pro",
-    precioEur: 529,
+    precioEur: 509,
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 90,

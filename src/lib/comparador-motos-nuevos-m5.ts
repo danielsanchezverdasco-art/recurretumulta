@@ -259,7 +259,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     modelo: "e-Divine",
     version: "e-Divine 2025",
     categoria: "Scooter",
-    precioDesde: 3895,
+    precioDesde: 4995,
     potenciaKw: 3,
     potenciaCv: 4.1,
     autonomiaKm: 100,

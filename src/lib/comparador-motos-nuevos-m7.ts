@@ -5854,7 +5854,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     modelo: "Speed Twin 1200 RS",
     version: "Speed Twin 1200 RS 2025",
     categoria: "Retro",
-    precioDesde: 17595,
+    precioDesde: 17995,
     potenciaKw: 77.23,
     potenciaCv: 105,
     cilindradaCc: 1200,
