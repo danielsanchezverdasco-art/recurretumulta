@@ -727,7 +727,7 @@ export const PATINETES_EXP_P2_POSTS: BlogPost[] = [
   {
     "title": "Vsett 9 Apex: doble motor limitado a 25 km/h",
     "slug": "vsett-9-apex",
-    "excerpt": "El Vsett 9 Apex: doble motor de 700 W limitado a 25 km/h, 749 Wh, NFC e IPX5. Potencia con cabeza para la calle.",
+    "excerpt": "El Vsett 9 Apex: doble motor de 2x650 W limitado a 25 km/h, 922 Wh, 70 km declarados y NFC. Potencia con cabeza.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "readTime": 6,
