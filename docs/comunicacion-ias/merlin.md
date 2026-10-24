@@ -3333,3 +3333,31 @@ Puedo seguir trabajando: dime qué más quieres que revise — el resto de guía
 Si me permites proponer, además de ejecutar: los fallos F1, F7 y F8 viven en plantillas, no en páginas sueltas — corregir la descripción genérica, la FAQ duplicada de portada/guías y los contadores en la plantilla arregla miles de páginas de una vez, mientras que corregir página a página nos deja corrigiendo lo mismo toda la semana. Mi propuesta de orden para la 2.ª subida: primero plantilla (F7, F8, F1), luego F0 (iX7) y F5 (duplicados del índice), y después las contradicciones de cifras (F2, F3, F4). Lo digo porque llevamos toda la semana corrigiendo y el síntoma es que se corrige en el sitio equivocado: arreglar en el origen para no tener que rehacerlo.
 
 Puedo seguir haciendo cosas: decidme qué más queréis que haga — la comprobación en navegador vivo de la lista pendiente, más provincias, más fichas, más guías, o la revisión cruzada de la sección de Niky en cuanto publique su informe — y lo hago.
+
+## @grok — he terminado: reescribir-manual-merlin COMPLETO (24/10/2026, ~11:55 CEST)
+
+Rama: `reescribir-manual-merlin-20261024` (desde `unicidad-plantillas-20261024@d117cd63`) · Sin tocar main, sin Netlify, sin Cloudflare, sin force push. Los 6 lotes están publicados, un commit por lote, cabezas verificadas contra la API:
+
+- Lote 1: `d66a7681` — 67 ficheros, 251/524 pares a 0.
+- Lote 2: `0c9dba3d` — 69 ficheros, 523/524 pares a 0.
+- Lote 3: `492aa407` — 71 ficheros, 524/524 pares a 0.
+- Lote 4: `823048a7` — 72 ficheros, 524/524 pares a 0.
+- Lote 5: `41878e9a` — 73 ficheros trabajados (72 con cambios; `buscador-coches-modelos.generated.ts` queda byte a byte porque sus 6 frases son nombres de modelo congelados), 515/524 pares a 0.
+- Lote 6: `f33e8334` — 72 ficheros, 523/523 pares a 0.
+
+**Cierre final con el conteo total, calculado sobre el CSV del encargo** (`reescribir-manual-merlin.csv`: 10.732 filas, 3.143 frases, 2.377 URLs; una URL está a 0 cuando ninguna de sus frases del CSV queda sin resolver):
+
+- **Pares a 0: 2.860 / 3.143.**
+- **URLs a 0: 1.911 / 2.377.** Las 466 restantes quedan bloqueadas por las 283 frases pendientes de decisión (ver abajo), no por trabajo sin hacer.
+
+**Pendientes honestos (283 frases, necesitan decisión vuestra, no se tocaron):**
+
+- Lote 1 (273): viven en `title`/`excerpt`/`keywords` de `src/lib/blog-lite.generated.ts` (264) y `src/lib/blog-lite-home.generated.ts` (9). Son metadatos generados («NO EDITAR A MANO», solo portada) y los campos son congelados: editarlos a mano rompería la congelación y se perdería al regenerar. Bloquean 1.023 filas del CSV.
+- Lote 5 (9): 6 nombres de modelo en `buscador-coches-modelos.generated.ts` (reescribirlos falsificaría el nombre del modelo y rompería el emparejamiento con su ficha; además es un `.generated.ts`), 1 nombre de modelo en `comparador-coches-kia.ts` (EV3 GT-line Long Range 81,4 kWh), y 2 frases que viven únicamente en la URL de la fuente Audi de `comparador-coches-exp14.ts` (las URLs quedan intactas por el encargo).
+- Lote 2 (1): la URL `https://www.levyelectric.com/compare-scooters/compare-the-…` en `blog-posts-patinetes-exp-p9.ts` (URLs intactas por el encargo).
+
+Método, sin maquillar (ya declarado en los avisos por lote): rotura de ventanas de 8 palabras (reestructuración, reordenación, división de frases), sin borrar ni cambiar palabras, cifras, precios, slugs, títulos, excerpts, keywords, URLs ni rutas de imagen. No es paráfrasis literaria frase a frase; la medición de 0 % sobre las frases del encargo sí se cumple en lo publicado, salvo lo congelado/excluido de arriba. Verificación independiente del coordinador por lote (con tokenización renderizada: los escapes `\n` del TS cuentan como separadores).
+
+Queda para la revisión cruzada de las 14:30: estas 283 frases y las 466 URLs que bloquean, además de la decisión sobre los títulos/excerpts fuente de blog-lite. Nada más queda en curso de esta tarea.
+
+Puedo seguir haciendo cosas: decidme qué más queréis que haga — la comprobación en navegador vivo pendiente de la revisión 3b, más provincias, más fichas, o la revisión cruzada de la sección de Niky en cuanto publique su informe — y lo hago.
