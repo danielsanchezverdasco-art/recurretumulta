@@ -39,7 +39,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: justo en el límite del A2, sin limitar",
       "Entrega de par llena desde abajo: 52,3 Nm a 5.150 rpm, empuja en cualquier marcha",
-      "Asiento corrido a 804 mm y postura erguida: cómoda para el día a día y el finde",
+      "Asiento corrido a 804 mm y postura erguida, agradable para el día a día y el finde",
       "Precio contenido frente a cualquier twin europeo o japonés equivalente",
       "Embrague antirrebote y doble disco con ABS de doble canal de serie",
     ],
@@ -70,7 +70,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     fuenteUrl: "https://www.royalenfield.com/content/dam/royal-enfield/europe/motorcycles/interceptor/royal-enfield-interceptor-650-technical-specifications.pdf",
     analisisSlug: "royal-enfield-interceptor-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
       aceiteTipo: "10W-50 sintético API SL / JASO MA2",
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico, con la moto en el caballete.",
@@ -138,11 +138,11 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/royal-enfield/continental-gt-650",
     analisisSlug: "royal-enfield-continental-gt-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
       aceiteTipo: "10W-50 sintético API SL / JASO MA2",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 500-800 km, sobre todo tras lluvia.",
-        "Verifica la holgura con la moto en el caballete lateral.",
+        "Verifica la holgura con la moto sobre el caballete lateral.",
         "Ajusta por igual en ambos lados del basculante para no descentrar la rueda.",
       ],
       trucos: [
@@ -180,7 +180,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Puerto USB-C y faro LED de serie en la versión 2026",
     ],
     contras: [
-      "243 kg en orden de marcha: la más pesada de la familia 650",
+      "243 kg en orden de marcha y es la más pesada de la familia 650",
       "Prestaciones tranquilas: es una moto de paseo, no de sensaciones",
       "Suspensiones traseras de corto recorrido (90 mm)",
       "Sin electrónica avanzada: ni modos ni control de tracción",
@@ -206,7 +206,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     fuenteUrl: "https://www.royalenfield.com/es/es/motorcycles/classic-650/",
     analisisSlug: "royal-enfield-classic-650-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
       aceiteTipo: "10W-50 sintético API SL / JASO MA2",
       cadenaPasos: [
         "Engrasa la cadena con frecuencia: va muy expuesta al llevar guardacadenas corto.",
@@ -274,7 +274,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/royal-enfield/himalayan-450",
     analisisSlug: "royal-enfield-himalayan-450-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
       aceiteTipo: "10W-40 semisintético JASO MA2",
       cadenaPasos: [
         "Tras cada salida por tierra, limpia la cadena con desengrasante específico.",
@@ -342,7 +342,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/royal-enfield/super-meteor-650",
     analisisSlug: "royal-enfield-super-meteor-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
+      intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
       aceiteTipo: "10W-50 sintético API SL / JASO MA2",
       cadenaPasos: [
         "La cadena va carenada en parte: desmonta la tapa para limpiarla bien.",
@@ -385,7 +385,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Precio muy inferior al de la KTM 790 Adventure equivalente",
     ],
     contras: [
-      "231 kg en orden de marcha: pesada para el off-road serio",
+      "231 kg en orden de marcha y pesada para el off-road serio",
       "Suspensiones KYB correctas pero no a la altura de la electrónica",
       "Sin quickshifter en la versión Sport (lo lleva la Touring)",
       "Llantas de aleación: menos aptas para campo que las de radios",
@@ -456,7 +456,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "3.400 € más que la Sport por un equipamiento que no todos usan",
       "231 kg: sigue siendo pesada fuera del asfalto",
       "Sin suspensión electrónica (reservada a la Explore)",
-      "Consumo realista de 5,5-6 l/100 km si se le aprieta",
+      "Consumo realista de 5,5-6 l cada 100 km si se le aprieta",
       "Asiento de 825 mm: alta para pilotos bajos",
     ],
     curiosidades: [
@@ -552,7 +552,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       aceiteTipo: "10W-40 sintético JASO MA2",
       cadenaPasos: [
         "La cadena va muy expuesta: engrásala cada 500 km.",
-        "Comprueba la holgura con la moto en el caballete.",
+        "Comprueba la holgura con la moto sobre el caballete.",
         "Sustituye el kit de arrastre si los dientes del piñón están afilados.",
       ],
       trucos: [
@@ -730,7 +730,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "198 kg: pesado para moverlo en parado y en ciudad",
       "El ABS no es desconectable para pistas",
       "Postventa y recambios con plazos variables según zona",
-      "Consumo realista de 4-4,5 l/100 km si se viaja cargado",
+      "Consumo realista de 4-4,5 l cada 100 km si se viaja cargado",
       "La pantalla TFT puede deslumbrar con sol lateral",
     ],
     curiosidades: [
@@ -851,7 +851,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       "Naked 125 con 14,8 CV: roza el límite legal del A1",
       "Equipamiento impropio de su precio: TFT, ABS y arranque sin llave",
       "Solo 140 kg: agilísima en ciudad",
-      "Consumo de mechero: unos 2,5 l/100 km",
+      "Consumo de mechero: unos 2,5 l cada 100 km",
       "Estética moderna que no parece una 125 barata",
     ],
     contras: [
@@ -885,7 +885,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       aceiteTipo: "10W-40 semisintético JASO MA2",
       cadenaPasos: [
         "Engrasa la cadena cada 500 km: en ciudad se ensucia rápido.",
-        "Comprueba la holgura con la moto en el caballete lateral.",
+        "Comprueba la holgura con la moto sobre el caballete lateral.",
         "Tensa por igual en ambos lados del basculante.",
       ],
       trucos: [
@@ -1093,7 +1093,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       aceiteTipo: "10W-40 semisintético JASO MA2",
       cadenaPasos: [
         "Engrasa la cadena cada 500 km: el uso urbano la castiga.",
-        "Comprueba la holgura con la moto en el caballete lateral.",
+        "Comprueba la holgura con la moto sobre el caballete lateral.",
         "Limpia el cubrecadena al cambiar el aceite.",
       ],
       trucos: [
@@ -1167,7 +1167,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
       ],
       trucos: [
         "Los radios se revisan con una llave de radios cada 3.000 km.",
-        "El filtro de aire se ensucia rápido en pistas: míralo a menudo.",
+        "El filtro de aire se colmata rápido en pistas: míralo a menudo.",
       ],
     },
   },
@@ -1194,7 +1194,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: ["Con 47 CV (34,6 kW), la 530 TT de 2025 se queda justo en el techo del carnet A2: se conduce a plena potencia desde el primer día, sin limitación posterior que desmontar.", "Sus 196 kg se notan a favor al maniobrar en parado y en el tráfico lento, un peso que no intimida en una trail de dos plazas pensada para usar a diario.", "La estética scrambler, con el guardabarros alto que la propia ficha recomienda revisar de apriete, la separa de las trail A2 de corte puramente aventurero con las que comparte carnet.", "El asiento bajo y accesible que recoge la ficha facilita llegar al suelo a pilotos de distintas tallas, algo que en una bicilíndrica de este tamaño no es lo habitual.", "El precio de partida registrado para esta versión de 2025, 6.595 euros —marcado como aproximado en la ficha—, deja margen en el presupuesto para el seguro y el equipamiento del piloto."],
-    contras: ["Las suspensiones son básicas y sin regulación: quien alterne asfalto y pista cargado no podrá adaptar su comportamiento tocando un dial, porque no lo hay.", "La dotación electrónica es inexistente y la instrumentación, sencilla: ni modos de conducción ni control de tracción, así que la dosificación en mojado depende solo de la mano derecha.", "Los neumáticos de origen son de asfalto, no mixtos: pese al apellido TT, salir a pistas con garantías exige cambiarlos antes, como sugiere el propio apartado de trucos de la ficha.", "Mitt es una marca joven y su red de servicio sigue creciendo: fuera de las ciudades grandes conviene comprobar qué taller oficial queda cerca antes de comprarla."],
+    contras: ["Las suspensiones son básicas y sin regulación: quien alterne asfalto y pista cargado no podrá adaptar su comportamiento tocando un dial, porque no lo hay.", "La dotación electrónica es inexistente y la instrumentación, sencilla: sin modos de conducción y sin control de tracción, así que la dosificación en mojado depende solo de la mano derecha.", "Los neumáticos de origen son de asfalto, no mixtos: pese al apellido TT, salir a pistas con garantías exige cambiarlos antes, como sugiere el propio apartado de trucos de la ficha.", "Mitt es una marca joven y su red de servicio sigue creciendo: fuera de las ciudades grandes conviene comprobar qué taller oficial queda cerca antes de comprarla."],
     curiosidades: ["Mitt es la marca creada por Jets Marivent, la empresa española que la presentó en el EICMA de Milán como su apuesta para crecer fuera de España.", "Antes de venderse, la 530 TT se desveló todavía como prototipo en el salón Vive la Moto de Madrid, donde fue el centro de atención del stand de la marca."],
     imagen: "/media/motos/mitt-530-tt-2025-ficha-tecnica-precio-hero.webp",
     galeria: [

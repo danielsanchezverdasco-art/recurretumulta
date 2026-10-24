@@ -79,7 +79,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
 
     El precio merece un párrafo propio porque es a la vez su virtud y su trampa. 71.314 euros de tarifa en Francia para el año modelo 2026 es una cifra pública, verificable y comparable, algo rarísimo en el sector. Pero es tarifa de Francia: en España el PVP puede diferir por el IVA, el transporte y la política del importador, y no incluye las opciones que convierten al Ecovip 600 en la camper versátil que promete ser —el techo elevable, la quinta plaza, el cambio automático—. Aun así, como referencia para comparar con campers francesas y alemanas equivalentes, es oro: sus rivales directos rara vez publican siquiera el precio base.
 
-    Cómo lo verificamos: las dimensiones (599/205/265 cm), el chasis Fiat Ducato 35 Light con motor 2.2 de 140 CV, las cuatro plazas de asiento, las plazas para dormir 2+1+2, la cama trasera de 196x150/138 y la cama de techo elevable de 200x135 proceden de las listas oficiales de precios y fichas técnicas de Laika publicadas en laika.it, verificadas el 19 de octubre de 2026. El precio de 71.314 euros es el de la lista oficial Laika 2026 para Francia; Laika no publica tarifa para España. La masa en orden de marcha de 2.862 kg con tolerancia ±5 % es la de la lista oficial (la lista alemana indica 2.838 kg según mercado). Laika no publica la carga útil por modelo, así que no ofrecemos esa cifra.
+    Cómo lo verificamos: las dimensiones (599/205/265 cm), el chasis Fiat Ducato 35 Light con motor 2.2 de 140 CV, las cuatro plazas de asiento, las plazas para dormir 2+1+2, la cama trasera de 196x150/138 y la cama de techo elevable de 200x135 proceden de las listas oficiales de precios y fichas técnicas de Laika publicadas en laika.it, verificadas el 19 de octubre de 2026. Los 71.314 euros son el precio de la lista oficial Laika 2026 para Francia; Laika no publica tarifa para España. La masa en orden de marcha de 2.862 kg con tolerancia ±5 % es la de la lista oficial (la lista alemana indica 2.838 kg según mercado). Laika no publica la carga útil por modelo, así que no ofrecemos esa cifra.
 
     Para quién es: el Laika Ecovip 600 es para quien busca una camper de 5,99 metros con construcción italiana seria —doble suelo real, baño Vario con ducha separable y paquete de seguridad completo de serie— y valora poder comparar precios con una tarifa pública antes de negociar. No es para quien quiera la camper más barata del segmento ni para quien necesite cinco plazas sin pasar por la lista de opciones: la versatilidad familiar completa se paga aparte. El veredicto es que es la camper honesta del segmento: lo que promete lo publica, lo que publica lo cumple, y el precio de tarifa francés es la referencia más transparente que vas a encontrar en una camper de este tamaño.`,
     pros: [
@@ -154,7 +154,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
         },
       ],
       costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Laika",
+      fuente: "Plan de mantenimiento del Fiat Ducato y recomendaciones de Laika",
     },
     euroncap: null,
     fuenteNombre: "Laika (listas oficiales de precios y fichas técnicas, laika.it)",

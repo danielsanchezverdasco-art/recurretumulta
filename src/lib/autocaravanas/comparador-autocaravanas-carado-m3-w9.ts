@@ -3,7 +3,7 @@
 // para España), páginas de modelo T338 EDITION27 y V337. Verificado el 19/10/2026.
 // Notas honestas: precios oficiales ES publicados por la marca (69.490 € y 56.590 €);
 // la carga útil no la publica la marca (queda sin dato, prohibido calcularla); el T338
-// EDITION27 es la versión Ford Transit 165 CV con cambio automático de 8 marchas que
+// EDITION27 es la versión Ford Transit 165 CV y caja automática de 8 marchas que
 // Carado comercializa en España; el V337 base en España es el Citroën Jumper 140 CV.
 import type { Autocaravana } from "./tipos.ts";
 
@@ -58,7 +58,7 @@ export const AUTOCARAVANAS_CARADO_M3: Autocaravana[] = [
       "la publica), consumo, par y emisiones (no publicados por la marca).",
     curiosidades:
       "El T338 EDITION27 que Carado vende en España lleva de serie el Ford Transit 2.0 de " +
-      "165 CV con cambio automático de 8 marchas y una pantalla de 12 pulgadas con Apple " +
+      "165 CV y caja automática de 8 marchas y una pantalla de 12 pulgadas con Apple " +
       "CarPlay y Android Auto, además de cámara de visión trasera, climatizador y asientos " +
       "giratorios de cabina: un nivel de equipamiento de serie poco habitual en la gama de " +
       "acceso del grupo Hymer. Fuente: equipamiento de serie del T338 EDITION27 en " +
@@ -96,7 +96,7 @@ gas con dos bombonas de 11 kilos, hay cuatro enchufes de 230 V y cuatro USB repa
 y la carrocería presume de 7 años de garantía de estanqueidad. Es el equipamiento que
 hace unos años solo se veía dos escalones por encima en precio.
 
-En camas y plazas, la configuración de serie es de cuatro plazas de viaje y dos para
+En camas y plazas, la dotación de serie ofrece cuatro plazas de viaje y dos para
 dormir en las gemelas traseras. La opción interesante es la cama abatible sobre el
 salón (195 x 140-110 cm), que convierte el T 338 en un cuatro plazas para dormir sin
 tocar el garaje ni el salón: perfecta para parejas con dos niños o para llevar
@@ -226,7 +226,7 @@ kilo cuenta.`,
 
 Estrecho no equivale a agobiante, y el V 337 lo demuestra. Con 195 cm de altura interior, reparte el espacio con el plano que mejor rinde en este formato: salón delantero de banqueta con los asientos de cabina giratorios, cocina lateral flanqueada por un armario ropero alto que separa ambientes, baño compacto con ducha y, en la parte trasera, las gemelas longitudinales (200 x 70 y 195 x 80 cm) que con el suplemento opcional se funden en una superficie de 200-195 x 194. El garaje bajo las camas, con trampillas por ambos costados, acoge bicicletas y bultos. Agua limpia de 116 litros, grises de 92 y frigorífico de 78 litros con congelador de 11 están calculados para una pareja que rueda una o dos semanas sin sobresaltos. La cintura estrecha se agradece al volante: vira, aparca y se infiltra por callejuelas donde una perfilada de 2,32 metros ya calcula retrovisores.
 
-La versión española se apoya en el Citroën Jumper 2.2 BlueHDi de 140 CV con cambio manual de seis marchas y tracción delantera, y suma de serie Start&Stop con booster de carga, programador de velocidad, frenada de emergencia con detección de peatones, ayuda de mantenimiento de carril, lector de señales y alerta de fatiga: el arsenal de seguridad actual, sin asteriscos. En la célula, calefacción Truma Combi 4 de gas, claraboya panorámica de 70 x 50 sobre el salón, mosquitera en la puerta, preinstalaciones de televisión y de placa solar, y enchufes de 230 V y USB distribuidos. Techo y zaga en fibra de vidrio reforzada, con 7 años de garantía de estanqueidad. Existe alternativa Fiat Ducato desde 57.790 euros. Y un apunte para ex-camperistas: la postura al volante es la de un furgón grande, con visibilidad generosa y mandos cercanos, sin el salpicadero lejano de algunas integrales.
+La versión española se apoya en el Citroën Jumper 2.2 BlueHDi con 140 CV, tracción delantera y caja manual de seis marchas, y suma de serie Start&Stop con booster de carga, programador de velocidad, frenada de emergencia con detección de peatones, ayuda de mantenimiento de carril, lector de señales y alerta de fatiga: el arsenal de seguridad actual, sin asteriscos. En la célula, calefacción Truma Combi 4 de gas, claraboya panorámica de 70 x 50 sobre el salón, mosquitera en la puerta, preinstalaciones de televisión y de placa solar, y enchufes de 230 V y USB distribuidos. Techo y zaga en fibra de vidrio reforzada, con 7 años de garantía de estanqueidad. Existe alternativa Fiat Ducato desde 57.790 euros. Y un apunte para ex-camperistas: la postura al volante es la de un furgón grande, con visibilidad generosa y mandos cercanos, sin el salpicadero lejano de algunas integrales.
 
 Cuatro plazas para circular y dos camas en las gemelas de serie: el V 337 es una autocaravana de parejas, sin ambigüedades. No hay abatible ni literas, de modo que si la familia aumenta habrá que mirar al V 347, su hermano de 6,98 metros con cama abatible en el salón. A cambio, las camas son largas, se accede a ellas con escalones cómodos y el garaje queda despejado para todo el equipo.
 

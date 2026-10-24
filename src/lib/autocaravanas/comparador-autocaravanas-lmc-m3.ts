@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null, // la marca no publica carga útil; prohibido calcularla
-    consumo: null, // la prueba de camperstyle midió 9,6 l/100 km de media (dato de prensa, no oficial)
+    consumo: null, // la prueba de camperstyle midió 9,6 l cada 100 km de media (dato de prensa, no oficial)
     consumoUnidad: null,
     plazas: 4,
     plazasDormir: 4, // camas individuales traseras + cama abatible eléctrica sobre el salón
@@ -76,7 +76,7 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
       "alemana habla de 83.500 € de base en Alemania), cargaUtilKg, par, tracción y " +
       "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
       "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
-      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja sin dato porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
+      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja sin dato porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no muestra PVP por modelo en su web oficial y el precio base solo se consigue en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
       "marcas de agua ni imágenes de concesionario.",
     curiosidades:
       "El «Lift» de su denominación se toma al pie de la letra: una cama abatible " +
@@ -106,7 +106,7 @@ Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y 
       "Acceso XXL de 70 cm y 198 cm de altura interior: sensación de desahogo",
       "First Edition generosa (pantalla Zenec con CarPlay, bixenón, llantas de 16, asistentes del Transit)",
       "Garantía de estanqueidad de 12 años y construcción LLT orientada a durar",
-      "9,6 l/100 km medidos en prueba real: consumo contenido para 7 metros",
+      "9,6 l cada 100 km medidos en prueba real: consumo contenido para 7 metros",
     ],
     contras: [
       "Sin tarifa oficial para España: el precio real solo aparece en el concesionario",
@@ -206,7 +206,7 @@ y frigorífico de compresor de 132 litros con compartimento de congelación.
 En técnica, el Cruiser 740 EL se apoya en el Fiat Ducato con el motor 2.2 de 103 kW (140 CV), cambio
 automático y homologación Euro 6E de serie. Quien necesite más reserva puede optar por el 132 kW
 (180 CV) ligado al chasis Maxi, que además permite elevar la MMA de 3.500 a 3,65, 4,25 o incluso 4,4
-toneladas. Con 3.500 kg de serie se conduce con el carnet B, un argumento de peso en España frente a
+toneladas. Con 3.500 kg de serie puede llevarse con el permiso B, un argumento de peso en España frente a
 rivales que obligan al C1. La construcción sigue la tecnología Long Life de LMC: bajos de espuma XPS
 de alto rendimiento con PRFV, techo y frontales en PRFV, y 12 años de garantía de estanqueidad, una
 de las más largas del mercado. El equipamiento de serie es generoso: faros Full LED, cuadro digital

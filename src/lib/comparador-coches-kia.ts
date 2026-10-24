@@ -30,7 +30,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "Precio de acceso de 35.972 €: la berlina eléctrica más asequible de Kia en España",
       "440 km de autonomía WLTP con la batería pequeña: suficiente para el uso real",
-      "Consumo homologado de 14,7 kWh/100 km, de lo más eficiente del segmento C",
+      "Consumo homologado de 14,7 kWh cada 100 km, de lo más eficiente del segmento C",
       "Maletero de 435 L y plataforma E-GMP: espacio digno de un segmento superior",
       "Etiqueta Cero: acceso libre a ZBE y aparcamiento bonificado en muchas ciudades",
     ],
@@ -62,7 +62,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 137,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 14,7 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 14,7 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -120,7 +120,7 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "165 km/h de máxima y 8,4 s en el 0-100: prestaciones correctas, sin chispa",
-      "2.069 kg de peso: la eficiencia (17,8 kWh/100 km) no es de récord",
+      "2.069 kg de peso: la eficiencia (17,8 kWh cada 100 km) no es de récord",
       "Diseño continuista: cuesta distinguirlo de un Sportage a primera vista",
       "La versión GT de 313 CV aún no tiene precio confirmado en España",
       "Sin maletero delantero aprovechable como en otros E-GMP",
@@ -146,7 +146,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 17,8 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 17,8 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -205,7 +205,7 @@ export const COCHES_KIA: CocheComparador[] = [
     contras: [
       "85.165 €: territorio premium alemán, y la marca aún no juega ahí en imagen",
       "5,01 m de largo: aparcar en ciudad es un ejercicio de fe (y de cámaras)",
-      "2.664 kg: el consumo real (22,8 kWh/100 km) se dispara en autopista",
+      "2.664 kg: el consumo real (22,8 kWh cada 100 km) se dispara en autopista",
       "La tercera fila es justa para adultos en viajes largos",
       "Depreciación incierta: es el primer Kia de este precio en Europa",
     ],
@@ -230,7 +230,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 181,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 22,8 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento premium",
+      "notas": "15.000 km al año con un consumo homologado WLTP 22,8 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación por segmento premium",
       "estimado": true
     },
     galeria: [
@@ -288,7 +288,7 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "74.065 €: el doble que un EV6 GT-Line y cerca de un premium alemán de ocasión",
-      "20,6 kWh/100 km homologados: con el pie pesado la autonomía se evapora",
+      "20,6 kWh cada 100 km homologados: con el pie pesado la autonomía se evapora",
       "Suspensión firme: en ciudad bacheada cansa",
       "Maletero de 480 L: correcto, pero el enfoque deportivo resta practicidad",
       "Neumáticos y frenos de alto rendimiento: el mantenimiento pica",
@@ -314,7 +314,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 20,6 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados (deportivo eléctrico)",
+      "notas": "15.000 km al año con un consumo homologado WLTP 20,6 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación (deportivo eléctrico)",
       "estimado": true
     },
     galeria: [
@@ -398,7 +398,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 16,2 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 16,2 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -450,7 +450,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "65 km eléctricos WLTP: el commuting diario sin gastar una gota",
       "Etiqueta Cero por 41.540 €: el PHEV con mejor relación precio/etiqueta de Kia",
-      "Consumo homologado de 0,8 l/100 km si cargas a diario",
+      "Consumo homologado de 0,8 l cada 100 km si cargas a diario",
       "Maletero de 348 L pese a la batería: el formato crossover ayuda",
       "171 CV combinados: suficiente para todo sin estrés",
     ],
@@ -482,7 +482,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 119,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP combinado 0,8 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga (más carga = menos gasolina)",
+      "notas": "15.000 km al año con un consumo homologado WLTP combinado 0,8 l cada 100 km a 1,85 €/l; en PHEV, el coste real depende del hábito de carga (más carga = menos gasolina)",
       "estimado": true
     },
     galeria: [
@@ -508,7 +508,7 @@ export const COCHES_KIA: CocheComparador[] = [
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/kia/niro/2022/estandar/phev/niro-16-gdi-phev-171-cv-concept/datos",
   },
-  // 7. Kia Sportage Drive 1.6 T-GDi PHEV 252 CV 4x4 — SUV híbrido enchufable
+  // 7. Sportage Drive 1.6 T-GDi PHEV de Kia, 252 CV 4x4 — SUV híbrido enchufable
   {
     id: "kia-sportage-phev-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
@@ -534,7 +534,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "252 CV y 350 Nm con tracción total: el Sportage más potente y capaz",
       "66 km eléctricos WLTP: entra en la ZBE a diario sin emisiones",
-      "1,1 l/100 km homologados: el SUV familiar que menos gasta si cargas",
+      "1,1 l cada 100 km homologados: el SUV familiar que menos gasta si cargas",
       "Maletero de 540 L: apenas pierde frente al HEV pese a la batería",
       "Batería de 13,8 kWh: de las más grandes entre los PHEV generalistas",
     ],
@@ -566,7 +566,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP combinado 1,1 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
+      "notas": "15.000 km al año con un consumo homologado WLTP combinado 1,1 l cada 100 km a 1,85 €/l; en PHEV, el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -617,7 +617,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "7 plazas de verdad con 608 L de maletero (5 plazas): el familiar definitivo",
-      "215 CV híbridos con etiqueta ECO y 6,6 l/100 km para 1.896 kg",
+      "215 CV híbridos con etiqueta ECO y 6,6 l cada 100 km para 1.896 kg",
       "Precio desde 52.635 €: el SUV de 7 plazas híbrido más asequible de su tamaño",
       "Interior de calidad con pantallas curvas y mucho espacio en la segunda fila",
       "Garantía Kia de 7 años: tranquilidad para un coche familiar de uso intensivo",
@@ -626,7 +626,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "9,4 s en el 0-100: no es un coche para ir con prisa",
       "Etiqueta ECO, no Cero: en ZBE futuras podría tener restricciones",
       "4,81 m de largo: en parking subterráneo hay que medir bien",
-      "El diésel 2.2 gasta menos en autopista (6,0 l/100 km)",
+      "El diésel 2.2 gasta menos en autopista (6,0 l cada 100 km)",
       "Tercera fila pensada para niños o trayectos cortos",
     ],
     largoMm: 4815,
@@ -650,7 +650,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 273,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 6,6 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 6,6 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -709,7 +709,7 @@ export const COCHES_KIA: CocheComparador[] = [
     contras: [
       "61.425 €: el Sorento más caro de la gama",
       "2.105 kg: el peso lastra el consumo cuando se agota la batería",
-      "1,6 l/100 km homologados solo si cargas religiosamente cada noche",
+      "1,6 l cada 100 km homologados solo si cargas religiosamente cada noche",
       "Sin carga rápida: repostar electricidad solo en casa o en destino",
       "La tercera fila queda algo justa para adultos altos",
     ],
@@ -734,7 +734,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP combinado 1,6 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
+      "notas": "15.000 km al año con un consumo homologado WLTP combinado 1,6 l cada 100 km a 1,85 €/l; en PHEV, el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -786,7 +786,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "625 L de maletero: de los familiares compactos más capaces del mercado",
       "Precio desde 26.895 €: familiar por precio de utilitario equipado",
-      "5,4 l/100 km homologados: el 1.0 T-GDi gasta poco en uso real",
+      "5,4 l cada 100 km homologados: el 1.0 T-GDi gasta poco en uso real",
       "4,60 m bien aprovechados: cabe en plazas de parking normales",
       "Mecánica sencilla sin hibridación: mantenimiento barato",
     ],
@@ -818,7 +818,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 217,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 5,4 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,4 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -902,7 +902,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 234,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 5,7 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,7 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -954,7 +954,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "El urbano con estética deportiva por 21.365 €: GT-line sin sobreprecio desorbitado",
       "3,60 m: aparca donde un SUV ni lo intenta",
-      "5,5 l/100 km y 990 kg: gasta poco porque pesa poco",
+      "5,5 l cada 100 km y 990 kg: gasta poco porque pesa poco",
       "5 puertas y 5 plazas: practicidad de coche grande en formato mini",
       "Mecánica atmosférica sencilla: fiabilidad probada y mantenimiento barato",
     ],
@@ -986,7 +986,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 211,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 5,5 l/100 km a 1,85 €/l; seguro y mantenimiento estimados (urbano)",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,5 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación (urbano)",
       "estimado": true
     },
     galeria: [
@@ -1012,7 +1012,7 @@ export const COCHES_KIA: CocheComparador[] = [
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/kia/picanto/2024/estandar/estandar/picanto-12-dpi-gt-line/datos",
   },
-  // 13. Kia EV3 GT-line Long Range 81,4 kWh — SUV eléctrico compacto deportivo
+  // 13. EV3 GT-line Long Range de Kia, 81,4 kWh — SUV eléctrico compacto deportivo
   {
     id: "kia-ev3-gt-line-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
@@ -1044,7 +1044,7 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "48.795 €: 5.500 € más que el Earth Long Range con idéntica batería y motor",
-      "16,2 kWh/100 km: el GT-line gasta más que las versiones con llanta de 17",
+      "16,2 kWh cada 100 km: el GT-line gasta más que las versiones con llanta de 17",
       "1.885 kg: ágil no es la palabra",
       "Sin tracción total: el EV3 GT de 292 CV que viene lo dejará a medio camino",
       "El diseño GT-line se paga: paragolpes y llantas de 19 encarecen neumáticos",
@@ -1070,7 +1070,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 16,2 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 16,2 kWh cada 100 km a 0,18 €/kWh; seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -1121,7 +1121,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "39.990 € con etiqueta ECO: el Sportage electrificado más asequible",
-      "160 CV y 6,6 l/100 km: el equilibrio racional de la gama",
+      "160 CV y 6,6 l cada 100 km: el equilibrio racional de la gama",
       "562 L de maletero: el familiar sin renuncias",
       "Acabado Tech: equipamiento completo sin irse al tope de gama",
       "Hibridación ligera sin enchufe: cero cambios de hábitos",
@@ -1154,7 +1154,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 265,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 6,6 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 6,6 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -1180,7 +1180,7 @@ export const COCHES_KIA: CocheComparador[] = [
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/kia/sportage/2022/datos",
   },
-  // 15. Kia XCeed eDrive 1.6 PHEV 141 CV — crossover híbrido enchufable
+  // 15. XCeed eDrive 1.6 PHEV de Kia, 141 CV — crossover híbrido enchufable
   {
     id: "kia-xceed-phev-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: null,
@@ -1207,7 +1207,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "Etiqueta Cero por 38.490 €: el PHEV más barato de Kia",
       "48 km eléctricos WLTP: suficiente para el uso urbano diario",
       "Formato crossover compacto: más alto que un Ceed, más ágil que un Sportage",
-      "1,4 l/100 km homologados con la batería cargada",
+      "1,4 l cada 100 km homologados con la batería cargada",
       "Cambio DCT de 6 velocidades: sin el efecto scooter de los e-CVT",
     ],
     contras: [
@@ -1238,7 +1238,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP combinado 1,4 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
+      "notas": "15.000 km al año con un consumo homologado WLTP combinado 1,4 l cada 100 km a 1,85 €/l; en PHEV, el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -1289,7 +1289,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "32.195 € con cambio automático DCT y etiqueta ECO: el compacto racional",
-      "140 CV y 5,7 l/100 km: gasta como un utilitario",
+      "140 CV y 5,7 l cada 100 km: gasta como un utilitario",
       "9,7 s en el 0-100: más ágil que la mayoría de híbridos equivalentes",
       "357 L de maletero y 4,31 m: el compacto de siempre, bien hecho",
       "Sin enchufe ni complicaciones: hibridación ligera invisible",
@@ -1322,7 +1322,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 228,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 5,7 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,7 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -1373,7 +1373,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "2.2 CRDi de 193 CV y 440 Nm: el remolcador de la gama, ideal para caravana",
-      "6,0 l/100 km homologados: en autopista gasta menos que los híbridos",
+      "6,0 l cada 100 km homologados: en autopista gasta menos que los híbridos",
       "7 plazas y 616 L de maletero: el familiar diésel definitivo",
       "Depósito de 67 L: más de 1.000 km de autonomía real por repostaje",
       "Cambio DCT de 8 velocidades suave y rápido",
@@ -1406,7 +1406,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 260,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 6,0 l/100 km a 1,85 €/l (precio del gasóleo asimilado); seguro y mantenimiento estimados por segmento",
+      "notas": "15.000 km al año con un consumo homologado WLTP 6,0 l cada 100 km a 1,85 €/l (precio del gasóleo asimilado); seguro y mantenimiento como estimación por segmento",
       "estimado": true
     },
     galeria: [
@@ -1457,7 +1457,7 @@ export const COCHES_KIA: CocheComparador[] = [
     pros: [
       "1.0 T-GDi MHEV de 115 CV con etiqueta ECO: entra en todas las ZBE",
       "Cambio automático DCT de 7 velocidades, ideal para ciudad",
-      "5,4 l/100 km homologados: de los SUV urbanos más eficientes",
+      "5,4 l cada 100 km homologados: de los SUV urbanos más eficientes",
       "Maletero de 352 L, amplio para sus 4,17 metros",
       "Nueva generación 2026 con más tecnología y ayudas a la conducción"
     ],
@@ -1489,7 +1489,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 217,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 5,4 l/100 km a 1,85 €/l; seguro y mantenimiento estimados para un SUV urbano en España",
+      notas: "15.000 km al año con un consumo homologado WLTP 5,4 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación para un SUV urbano en España",
       estimado: true
     },
     galeria: [
@@ -1539,7 +1539,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "1.6 CRDi MHEV de 136 CV con etiqueta ECO: el diésel que entra en las ZBE",
-      "5,0 l/100 km homologados: consumo de utilitario en un SUV familiar",
+      "5,0 l cada 100 km homologados: consumo de utilitario en un SUV familiar",
       "Maletero de 526 L y gran habitabilidad trasera",
       "280 Nm desde 1.500 rpm: empuje diésel para viajar cargado",
       "40.490 €: uno de los SUV diésel más asequibles con ECO"
@@ -1572,7 +1572,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 211,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año; consumo WLTP 5,0 l/100 km a 1,65 €/l de diésel; seguro y mantenimiento estimados para un SUV medio en España",
+      notas: "15.000 km al año con un consumo homologado WLTP 5,0 l cada 100 km a 1,65 €/l de diésel; seguro y mantenimiento como estimación para un SUV medio en España",
       estimado: true
     },
     galeria: [
@@ -1617,7 +1617,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Etiqueta Cero con 50 km de autonomía eléctrica",
-      "1,3 l/100 km homologados; en real gasta menos de 5 l sin enchufar",
+      "1,3 l cada 100 km homologados; en real gasta menos de 5 l sin enchufar",
       "437 L de maletero: el familiar PHEV más práctico por precio",
       "141 CV y 265 Nm: suficiente para viajar en familia",
       "37.595 €: de los PHEV con Cero más asequibles"
@@ -1650,7 +1650,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 141,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año con recarga diaria (uso mixto 50% eléctrico a 0,18 €/kWh y 50% gasolina a 1,85 €/l); seguro y mantenimiento estimados",
+      notas: "15.000 km/año con recarga diaria (uso mixto 50% eléctrico a 0,18 €/kWh y 50% gasolina a 1,85 €/l); seguro y mantenimiento como estimación",
       estimado: true
     },
     galeria: [
@@ -1731,7 +1731,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 142,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 16,9 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un crossover eléctrico",
+      notas: "15.000 km al año con un consumo homologado WLTP 16,9 kWh cada 100 km a 0,18 €/kWh con recarga en casa, y seguro y mantenimiento como estimación para un crossover eléctrico",
       estimado: true
     },
     galeria: [
@@ -1781,7 +1781,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "1.5 MHEV de 140 CV con etiqueta ECO y 195 km/h de punta",
-      "6,3 l/100 km homologados para un crossover de 140 CV",
+      "6,3 l cada 100 km homologados para un crossover de 140 CV",
       "380 L de maletero y postura elevada sin ser un SUV",
       "31.615 €: bien equipado en acabado Tech",
       "Dinámica de turismo con estética crossover"
@@ -1814,7 +1814,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 246,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 6,3 l/100 km a 1,85 €/l; seguro y mantenimiento estimados para un crossover compacto en España",
+      notas: "15.000 km al año con un consumo homologado WLTP 6,3 l cada 100 km a 1,85 €/l, con seguro y mantenimiento como estimación para un crossover compacto en España",
       estimado: true
     },
     galeria: [
@@ -1897,7 +1897,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 131,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 15,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un compacto eléctrico",
+      notas: "15.000 km al año con un consumo homologado WLTP 15,8 kWh cada 100 km a 0,18 €/kWh con recarga en casa, y seguro y mantenimiento como estimación para un compacto eléctrico",
       estimado: true
     },
     galeria: [
@@ -1983,7 +1983,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 225,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo 5,4 l/100 km (dato del Tourer, orientativo) a 1,85 €/l; seguro y mantenimiento estimados para un compacto en España",
+      notas: "15.000 km al año; consumo 5,4 l cada 100 km (dato del Tourer, orientativo) a 1,85 €/l, con seguro y mantenimiento como estimación para un compacto en España",
       estimado: true
     },
     galeria: [
@@ -2036,7 +2036,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "204 CV con 0-100 en 7,5 segundos",
       "Maletero de 460 L, enorme para 4,31 metros",
       "Carga rápida de 102 kW",
-      "Dueños reales: consumos de 13,9 kWh/100 km de media"
+      "Dueños reales: consumos de 13,9 kWh cada 100 km de media"
     ],
     contras: [
       "La batería grande (605 km) cuesta unos 4.700 € más",
@@ -2066,7 +2066,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 120,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo estimado 13,4 kWh/100 km (batería 58,3 kWh / 436 km WLTP) a 0,18 €/kWh; seguro y mantenimiento estimados",
+      notas: "15.000 km al año; consumo estimado 13,4 kWh cada 100 km (batería 58,3 kWh / 436 km WLTP) a 0,18 €/kWh; seguro y mantenimiento como estimación",
       estimado: true
     },
     galeria: [

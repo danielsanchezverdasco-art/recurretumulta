@@ -28,7 +28,7 @@ El León es el modelo que lo empezó todo para Cupra como marca independiente, y
 | **Potencia** | 150 CV (250 Nm) |
 | **0-100 km/h** | 8,7 s |
 | **Velocidad máxima** | 215 km/h |
-| **Consumo WLTP** | 5,4 l/100 km |
+| **Consumo WLTP** | 5,4 l cada 100 km |
 | **Emisiones CO₂** | 122 g/km |
 | **Maletero** | 380 L |
 | **Largo × ancho × alto** | 4.398 × 1.799 × 1.444 mm |
@@ -64,7 +64,7 @@ Dentro, el León estrena el nuevo sistema multimedia del Grupo Volkswagen con pa
 
 La gama mecánica es una de las más completas del segmento:
 
-- **1.5 eTSI 150 CV (ECO):** microhíbrido de 48 V con cambio DSG. Homologa 5,4 l/100 km y 122 g/km. La compra sensata.
+- **1.5 eTSI 150 CV (ECO):** microhíbrido de 48 V con cambio DSG. Homologa 5,4 l cada 100 km y 122 g/km. La compra sensata.
 - **1.5 TSI 150 CV (C):** la puerta de entrada, con cambio manual. Sin hibridación, etiqueta C.
 - **2.0 TDI 150 CV (C):** el único diésel, con DSG. Para devoradores de kilómetros.
 - **eHybrid 204 CV y VZ eHybrid 272 CV (Cero):** híbridos enchufables con el nuevo 1.5 TSI, batería de 19,7 kWh netos, más de 100 km de autonomía eléctrica, carga a 11 kW en alterna y 50 kW en continua.
@@ -86,7 +86,7 @@ Frente al Golf, su primo del grupo, el León juega la carta del diseño y un pun
 | ✅ Pros | ❌ Contras |
 |---|---|
 | Restyling 2024 con frontal "nariz de tiburón" y Matrix LED de tres triángulos | La versión de acceso 1.5 TSI manual solo tiene etiqueta C |
-| 1.5 eTSI con etiqueta ECO y solo 5,4 l/100 km | Maletero de 380 L, por debajo del Golf |
+| 1.5 eTSI con etiqueta ECO y solo 5,4 l cada 100 km | Maletero de 380 L, por debajo del Golf |
 | Gama amplísima: hasta 325 CV y eHybrid con etiqueta Cero | Interior con mucho táctil: clima sin botones físicos |
 | Chasis MQB Evo muy bien puesto a punto | Los eHybrid pierden maletero: 270 L |
 | Hecho en Martorell: el compacto español de referencia | Precio alto frente a un SEAT León equivalente |
@@ -109,7 +109,7 @@ Sí, las versiones **1.5 eTSI** (microhíbridas de 48 V) llevan la etiqueta ECO 
 Nuevo frontal "nariz de tiburón", faros Matrix LED con firma de tres triángulos, logotipo trasero iluminado integrado en la banda luminosa, nuevo sistema multimedia del Grupo Volkswagen y una gama de motores renovada con los eHybrid de 204 y 272 CV.
 
 ### ¿Cuánto consume el Cupra León 1.5 eTSI?
-Homologa **5,4 l/100 km** en ciclo WLTP, con unas emisiones de 122 g/km de CO₂. Es una de las cifras más bajas entre los compactos deportivos de gasolina.
+Homologa **5,4 l cada 100 km** en ciclo WLTP, con unas emisiones de 122 g/km de CO₂. Es una de las cifras más bajas entre los compactos deportivos de gasolina.
 
 ### ¿Merece la pena el Cupra León eHybrid?
 Si puedes cargar a diario, sí: el eHybrid de 204 CV tiene etiqueta Cero, más de 100 km de autonomía eléctrica, batería de 19,7 kWh con carga rápida de 50 kW y cuesta 42.340 €. Si no tienes enchufe, el 1.5 eTSI con ECO es la compra más racional.
@@ -144,7 +144,7 @@ Comparte plataforma MQB Evo, motores y tecnología con el León berlina, pero a�
 | **Potencia** | 150 CV (250 Nm) |
 | **0-100 km/h** | 9,0 s |
 | **Velocidad máxima** | 216 km/h |
-| **Consumo WLTP** | 5,5 l/100 km |
+| **Consumo WLTP** | 5,5 l cada 100 km |
 | **Emisiones CO₂** | 123 g/km |
 | **Maletero** | 620 L |
 | **Largo × ancho × alto** | 4.657 × 1.799 × 1.438 mm |
@@ -178,7 +178,7 @@ Por lo demás, es un León de pleno derecho: mismo frontal de "nariz de tiburón
 
 ## Motores: hay un Sportstourer para cada uso
 
-- **1.5 eTSI 150 CV (ECO):** el más vendido. Gasta 5,5 l/100 km y entra en todas las ZBE.
+- **1.5 eTSI 150 CV (ECO):** el más vendido. Gasta 5,5 l cada 100 km y entra en todas las ZBE.
 - **2.0 TDI 150 CV (C):** el rutero. Diésel con DSG para quien hace 30.000 km al año.
 - **2.0 TSI 4Drive 204 CV (C):** gasolina con tracción total, solo en el familiar.
 - **eHybrid 204 CV (Cero):** enchufable con más de 100 km eléctricos y batería de 19,7 kWh. Ojo: el maletero baja a 470 L.
@@ -202,7 +202,7 @@ El Octavia Combi le gana por 20 litros de maletero y suele ser algo más barato;
 | ✅ Pros | ❌ Contras |
 |---|---|
 | Maletero de 620 L: de los más grandes del segmento | Pesa 1.447 kg: el 1.5 eTSI va justo con carga |
-| 1.5 eTSI con etiqueta ECO y solo 5,5 l/100 km | El diésel 2.0 TDI solo tiene etiqueta C |
+| 1.5 eTSI con etiqueta ECO y solo 5,5 l cada 100 km | El diésel 2.0 TDI solo tiene etiqueta C |
 | Mismo restyling 2024 que el León 5p | El eHybrid pierde 150 L de maletero (470 L) |
 | VZ de 333 CV con tracción 4Drive | Cuesta ~1.000 € más que el 5 puertas |
 | eHybrid con etiqueta Cero y +100 km eléctricos | Plazas traseras correctas, sin el espacio de un SUV |
@@ -332,7 +332,7 @@ El facelift de 2024 le sentó de maravilla: frontal con la nariz de tiburón, fi
 
 ## El 1.5 eTSI en un compacto: su hábitat natural
 
-Si en el Formentor el 1.5 eTSI va justo, en el León va en su salsa: aquí mueve 1.338 kg, casi 150 menos que el SUV. El resultado es un 0-100 en 8,9 segundos, 214 km/h de punta y un consumo homologado de 5,6-5,8 l/100 km con 128-133 g/km de CO₂. Son 250 Nm disponibles desde bajo régimen, así que en el día a día se mueve con soltura.
+Si en el Formentor el 1.5 eTSI va justo, en el León va en su salsa: aquí mueve 1.338 kg, casi 150 menos que el SUV. El resultado es un 0-100 en 8,9 segundos, 214 km/h de punta y un consumo homologado de 5,6-5,8 l cada 100 km con 128-133 g/km de CO₂. Son 250 Nm disponibles desde bajo régimen, así que en el día a día se mueve con soltura.
 
 El sistema mild hybrid de 48 V le da la etiqueta ECO sin cambiar la experiencia de uso: arranca suave, recupera energía en deceleraciones y apaga el motor en retenciones. No hay modo eléctrico, pero tampoco hay que cambiar ningún hábito. El DSG de 7 velocidades es rápido y en modo manual con las levas deja jugar.
 
@@ -375,7 +375,7 @@ El 1.5 eTSI parte de 31.752 €.
 Etiqueta ECO por la hibridación ligera de 48 V.
 
 ### ¿Cuánto consume?
-Homologa 5,6-5,8 l/100 km; en uso real, entre 6 y 7,5 según el uso.
+Homologa 5,6-5,8 l cada 100 km; en uso real, entre 6 y 7,5 según el uso.
 
 ### ¿Es deportivo con 150 CV?
 No es un GTI, pero su chasis está muy por encima de la media: es el compacto divertido de la categoría.
@@ -609,7 +609,7 @@ El **Cupra León VZ 325** es el León de serie más potente jamás fabricado: **
 | **0-100 km/h** | 5,4 s |
 | **Velocidad máxima** | 270 km/h |
 | **Maletero** | 380 L |
-| **Consumo** | ≈7,9 l/100 km (estimado) |
+| **Consumo** | ≈7,9 l cada 100 km (estimado) |
 | **Etiqueta DGT** | C |
 
 El VZ 325 existe para quien duda entre el 300 y el 333: quiere más potencia que el 300, pero prefiere la agilidad y el precio de la tracción delantera frente al 4x4 del 333. Los 325 CV lo ponen al nivel de los GTI más potentes del mercado.
@@ -655,7 +655,7 @@ Enfréntalos en <a href=/comparador-coches/>el comparador</a>.
 No. Es **tracción delantera** con diferencial autoblocante mecánico, frenos Akebono de 6 pistones y DCC de serie.
 
 ### ¿Qué velocidad máxima alcanza?
-**270 km/h**, con un 0-100 km/h en 5,4 segundos.
+**270 km/h**, con un 5,4 s en el 0-100 km/hegundos.
 
 ### ¿Merece la pena frente al León VZ de 300 CV?
 Si buscas el León definitivo y aceptas la serie limitada, sí: 25 CV más, autoblocante y equipo de circuito de serie.
@@ -790,7 +790,7 @@ El **Cupra León Sportstourer VZ 333** es el sleeper definitivo: un familiar de 
 | **Cambio** | DSG de 7 velocidades |
 | **0-100 km/h** | 4,8 s |
 | **Velocidad máxima** | 250 km/h |
-| **Consumo WLTP** | 8,3 l/100 km |
+| **Consumo WLTP** | 8,3 l cada 100 km |
 | **Emisiones CO₂** | 188 g/km |
 | **Maletero** | 620 L |
 | **Largo × ancho × alto** | 4.642 × 1.799 × 1.456 mm |
@@ -830,7 +830,7 @@ Precios de rivales orientativos de mercado.
 |---|---|
 | 333 CV con 4Drive | 55.820 €: el León más caro |
 | 620 L de maletero | Etiqueta C |
-| 420 Nm del 2.0 TSI | Consumo alto (8,3 l/100 km) |
+| 420 Nm del 2.0 TSI | Consumo alto (8,3 l cada 100 km) |
 | Sleeper: 333 CV de incógnito | Golf R Variant, gemelo más caro |
 | Chasis Cupra con torque splitter | Versión de nicho, poco stock |
 
@@ -849,7 +849,7 @@ Precios de rivales orientativos de mercado.
 Misma mecánica, diseño más atrevido y precio más contenido.
 
 ### ¿Gasta mucho?
-Si le exiges, más de 12 l/100 km.
+Si le exiges, más de 12 l cada 100 km.
 
 ### ¿Es un buen coche familiar?
 Sí: 620 L, 5 plazas amplias y 333 CV cuando vas solo. El familiar para quien no quiere renunciar a nada.
@@ -858,7 +858,7 @@ Sí: 620 L, 5 plazas amplias y 333 CV cuando vas solo. El familiar para quien no
 
 ## Cómo verificamos
 
-Precio (55.820 €), potencia (333 CV), par (420 Nm), consumo (8,3 l/100 km), emisiones (188 g/km), peso (1.651 kg) y maletero (620 L): ficha técnica independiente de la versión exacta, estado «Actual». EuroNCAP: el León obtuvo 5 estrellas en 2020 (<a href=https://www.euroncap.com/it/results/cupra/leon/43180>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
+Precio (55.820 €), potencia (333 CV), par (420 Nm), consumo (8,3 l cada 100 km), emisiones (188 g/km), peso (1.651 kg) y maletero (620 L): ficha técnica independiente de la versión exacta, estado «Actual». EuroNCAP: el León obtuvo 5 estrellas en 2020 (<a href=https://www.euroncap.com/it/results/cupra/leon/43180>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
 
 *Fuentes: <a href=https://www.tufichatecnica.com/cupra/leon/sportstourer/2024/cupra-leon-vz-2024-5p-20g-at7-333cv-b4j0>tufichatecnica.com</a>, <a href=https://soloauto.net/prueba-cupra-leon-sportstourer-vz-familiar-radical/>soloauto.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>EuroNCAP</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
@@ -888,13 +888,13 @@ Con 4.451 mm de largo, el Formentor juega en la liga de los SUV compactos, pero 
 | **Cambio** | DSG de 7 velocidades |
 | **Tracción** | Delantera |
 | **Etiqueta DGT** | ECO |
-| **Consumo WLTP** | 5,8-6,4 l/100 km |
+| **Consumo WLTP** | 5,8-6,4 l cada 100 km |
 | **Emisiones CO₂** | 132-144 g/km |
 | **Maletero** | 450 L |
 | **Largo × ancho × alto** | 4.451 × 1.839 × 1.511 mm |
 | **0-100 km/h** | 9,0 s |
 
-La hibridación ligera de 48 V le da la etiqueta ECO sin cambiar nada en la experiencia de uso: no se enchufa, no tiene modo eléctrico, solo suaviza el arranque, apaga el motor en retenciones y recupera energía al frenar. El consumo homologado es de 5,9-6,1 l/100 km con 134-139 g/km de CO₂. En uso real, calcula entre 6,5 y 8 litros según el pie.
+La hibridación ligera de 48 V le da la etiqueta ECO sin cambiar nada en la experiencia de uso: no se enchufa, no tiene modo eléctrico, solo suaviza el arranque, apaga el motor en retenciones y recupera energía al frenar. El consumo homologado es de 5,9-6,1 l cada 100 km con 134-139 g/km de CO₂. En uso real, calcula entre 6,5 y 8 litros según el pie.
 
 El cambio DSG de 7 velocidades es rápido y suave, y el chasis Cupra (más firme que un León normal, con dirección precisa) hace que hasta la versión básica transmita algo. No esperes el tacto de un VZ, pero tampoco el de un SUV anodino.
 
@@ -944,7 +944,7 @@ Etiqueta ECO por la hibridación ligera de 48 V.
 **150 CV** y 250 Nm, con cambio DSG de 7 velocidades.
 
 ### ¿Cuánto consume?
-Entre **5,8 y 6,4 l/100 km** (WLTP), con emisiones de 132 a 144 g/km de CO₂ según la web oficial de CUPRA.
+Entre **5,8 y 6,4 l cada 100 km** (WLTP), con emisiones de 132 a 144 g/km de CO₂ según la web oficial de CUPRA.
 
 ### ¿Qué maletero tiene?
 **450 litros**, el mayor de la gama junto al resto de versiones térmicas.
@@ -956,7 +956,7 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 
 ## Cómo verificamos
 
-Precio (35.883 €) y consumos WLTP (5,8-6,4 l/100 km): web oficial de CUPRA España, oferta de octubre de 2026. Precios VZ (57.594 €, 61.344 €, 52.980 €): tarifa oficial CUPRA de julio de 2026 (MY27). EuroNCAP: 5 estrellas en 2021 (<a href=https://www.euroncap.com/en/results/cupra/formentor/57957>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
+Precio (35.883 €) y consumos WLTP (5,8-6,4 l cada 100 km): web oficial de CUPRA España, oferta de octubre de 2026. Precios VZ (57.594 €, 61.344 €, 52.980 €): tarifa oficial CUPRA de julio de 2026 (MY27). EuroNCAP: 5 estrellas en 2021 (<a href=https://www.euroncap.com/en/results/cupra/formentor/57957>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
 
 *Fuentes: <a href=https://www.cupra.com/es-es/coches/formentor>CUPRA oficial</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/57957>EuroNCAP</a> y <a href=https://www.dgt.es>DGT</a>.*`
   },
@@ -1165,7 +1165,7 @@ El **Cupra Formentor VZ 265** es el punto dulce de la gama: el **2.0 TSI de 265 
 
 ## El VZ sensato
 
-El VZ 333 es más bestia, pero también más caro y más sediento. El 265 da el 90% de las sensaciones por menos dinero y con un consumo más llevadero (homologa 7,8-8,2 l/100 km; en real, 9-11 si le pisas, 8 si vas tranquilo). Es el motor que el chasis del Formentor estaba pidiendo.
+El VZ 333 es más bestia, pero también más caro y más sediento. El 265 da el 90% de las sensaciones por menos dinero y con un consumo más llevadero (homologa 7,8-8,2 l cada 100 km; en real, 9-11 si le pisas, 8 si vas tranquilo). Es el motor que el chasis del Formentor estaba pidiendo.
 
 En curva, el Formentor VZ es de lo mejor entre los SUV: dirección precisa, poco balanceo y una trasera que colabora si provocas. No es un deportivo puro (es alto y pesa), pero para un SUV, el tacto es excepcional.
 
@@ -1220,7 +1220,7 @@ Ser realistas: un VZ gasta más en todo. Neumáticos 245/40 R19 (unos 160-180 �
 0-100 en 5,9 s y 250 km/h de punta.
 
 ### ¿Gasta mucho?
-Homologa 7,8-8,2 l/100 km; en real, 9-11 si conduces con alegría.
+Homologa 7,8-8,2 l cada 100 km; en real, 9-11 si conduces con alegría.
 
 ### ¿Merece la pena frente al VZ 333?
 El 333 es más rápido, pero el 265 da casi todo por menos dinero.
@@ -1329,7 +1329,7 @@ Sí, **4Drive**: reparte el par entre ambos ejes, con cuatro salidas de escape.
 El Formentor ofrece 33 CV más por un precio en la misma liga, con el mismo grupo técnico.
 
 ### ¿Gasta mucho?
-Si le exiges, 12-14 l/100 km reales.
+Si le exiges, 12-14 l cada 100 km reales.
 
 ### ¿Merece la pena frente al VZ e-Hybrid 272?
 Solo si priorizas prestaciones puras: el híbrido (52.980 € en tarifa oficial) tiene etiqueta Cero y 120 km eléctricos por 8.364 € menos.
@@ -1597,7 +1597,7 @@ El precio del VZ 265 lo sitúa contra Tiguan R-Line, Kuga ST-Line y 3008 GT: el 
 4.519 mm de largo y 1.869 mm de ancho.
 
 ### ¿Gasta mucho?
-En real, 9-11 l/100 km según el uso.
+En real, 9-11 l cada 100 km según el uso.
 
 ### ¿Merece la pena frente al Formentor VZ 265?
 Si necesitas más espacio, sí. El Formentor es más ágil y barato.
@@ -1895,7 +1895,7 @@ Con 545 Nm al tren trasero, la mesura es tu aliada: Si te llega una denuncia de 
 
 **¿Buscas solo los datos?** <a href=/coches/cupra-tavascan-vz-340-2026-precio-ficha-tecnica/>Ver ficha técnica del Tavascan VZ 340</a>: 340 CV y prestaciones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Cupra Tavascan VZ 340** es el SUV coupé 100 % eléctrico de Cupra: **55.050 €**, con **340 CV**, tracción total y un **0-100 km/h en 5,5 segundos**. Batería de **77 kWh** para unos **522 km de autonomía** (aprox.) y el diseño más radical de la marca.
+El **Cupra Tavascan VZ 340** es el SUV coupé 100 % eléctrico de Cupra: **55.050 €**, con **340 CV**, tracción total y un **5,5 s en el 0-100 km/hegundos**. Batería de **77 kWh** para unos **522 km de autonomía** (aprox.) y el diseño más radical de la marca.
 
 ## Ficha técnica resumida: Tavascan VZ 340
 

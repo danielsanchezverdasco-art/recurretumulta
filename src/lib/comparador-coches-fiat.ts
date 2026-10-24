@@ -70,7 +70,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 98,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 13,8 kWh/100 km; recarga doméstica aprox 0,18 €/kWh; precio de tarifa España (km77)",
+      notas: "15.000 km al año con un consumo homologado WLTP 13,8 kWh cada 100 km, con recarga doméstica a unos 0,18 €/kWh; precio de tarifa España (km77)",
       estimado: true
     },
     galeria: [
@@ -116,7 +116,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     pros: [
       "El icono vuelve a Mirafiori con motor FireFly 1.0 y etiqueta ECO",
       "Desde 19.140 €: el 500 más barato de la gama actual",
-      "Consumo homologado de 5,3 l/100 km con depósito de 35 litros",
+      "Consumo homologado de 5,3 l cada 100 km con depósito de 35 litros",
       "Interior heredado del 500e: pantalla de 10,25\" y cuadro digital",
       "Tres carrocerías: berlina, 3+1 y cabrio",
     ],
@@ -148,7 +148,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 198,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,3 l/100 km; precio de tarifa España (autoscout24)",
+      notas: "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,3 l cada 100 km; precio de tarifa España (autoscout24)",
       estimado: true
     },
     galeria: [
@@ -183,7 +183,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 15.809 €: el Fiat nuevo más barato con etiqueta ECO",
-      "65 CV, 92 Nm y 5 l/100 km: mecánica sencilla y probada",
+      "65 CV, 92 Nm y 5 l cada 100 km: mecánica sencilla y probada",
       "3,65 m y 225 L de maletero: la ciudad es su hábitat",
       "Cuadro digital de 7\" y pantalla táctil con CarPlay y Android Auto",
       "Se seguirá fabricando hasta 2030: repuestos garantizados",
@@ -216,7 +216,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 182,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,0 l/100 km; precio de tarifa España (km77)",
+      notas: "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,0 l cada 100 km; precio de tarifa España (km77)",
       estimado: true
     },
     galeria: [
@@ -253,7 +253,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "110 CV, cambio automático y etiqueta ECO desde 19.039 €",
       "412 litros de maletero en menos de 4 metros",
       "Diseño retro con faros LED pixelados que no pasa desapercibido",
-      "Consumo homologado de 5 l/100 km y 115 g/km de CO2",
+      "Consumo homologado de 5 l cada 100 km y 115 g/km de CO2",
       "Plataforma Smart Car compartida con el Citroën C3",
     ],
     contras: [
@@ -303,7 +303,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 193,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,0 l/100 km; precio de tarifa España 2025 (km77)",
+      notas: "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,0 l cada 100 km; precio de tarifa España 2025 (km77)",
       estimado: true
     },
     galeria: [
@@ -371,7 +371,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 112,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 15,5 kWh/100 km; recarga doméstica aprox 0,18 €/kWh; precio versión Red, tarifa 05/2025 (km77)",
+      notas: "15.000 km al año con un consumo homologado WLTP 15,5 kWh cada 100 km, con recarga doméstica a unos 0,18 €/kWh; precio versión Red, tarifa 05/2025 (km77)",
       estimado: true
     },
     galeria: [
@@ -418,7 +418,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "145 CV y 230 Nm: el 600 más potente con etiqueta ECO",
       "0-100 en 8,5 s y 200 km/h: prestaciones de verdad",
       "Acabado Sport con llantas de 18\" y detalles deportivos",
-      "Consumo homologado de solo 4,9 l/100 km",
+      "Consumo homologado de solo 4,9 l cada 100 km",
       "Cambio automático e-DCT6 de doble embrague",
     ],
     contras: [
@@ -449,7 +449,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 213,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 4,9 l/100 km; precio oficial España (tarantas.news / coches.net)",
+      notas: "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 4,9 l cada 100 km; precio oficial España (tarantas.news / coches.net)",
       estimado: true
     },
     galeria: [
@@ -485,7 +485,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     pros: [
       "131 CV diésel y 520 L de maletero por 18.164 €",
       "El sedán nuevo más barato de su tamaño en España",
-      "Consumo homologado de 4,6 l/100 km: ideal para hacer kilómetros",
+      "Consumo homologado de 4,6 l cada 100 km: ideal para hacer kilómetros",
       "Mecánica 1.6 Multijet probadísima y barata de mantener",
       "4,54 m: berlina familiar sin postureo",
     ],
@@ -517,7 +517,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 225,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "20.000 km/año; gasóleo aprox 1,75 €/l (precioGasolinaL 1,85 como referencia del tipo); consumo WLTP 4,6 l/100 km; precio de tarifa España (km77)",
+      notas: "20.000 km/año; gasóleo aprox 1,75 €/l (precioGasolinaL 1,85 como referencia del tipo); consumo WLTP 4,6 l cada 100 km; precio de tarifa España (km77)",
       estimado: true
     },
     galeria: [
@@ -571,7 +571,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "Etiqueta C en todas las versiones térmicas",
       "Comportamiento y acabados de furgoneta, sin disimulo",
       "El E-Doblò eléctrico cuesta 14.000 € más por la misma carrocería",
-      "Consumo real en ciudad por encima de 7 l/100 km",
+      "Consumo real en ciudad por encima de 7 l cada 100 km",
       "Equipamiento de confort justo en versiones de acceso",
     ],
     largoMm: 4403,
@@ -595,7 +595,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 274,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "20.000 km/año; gasóleo aprox 1,75 €/l (precioGasolinaL 1,85 como referencia del tipo); consumo WLTP 5,5 l/100 km; precio de tarifa España (km77)",
+      notas: "20.000 km/año; gasóleo aprox 1,75 €/l (precioGasolinaL 1,85 como referencia del tipo); consumo WLTP 5,5 l cada 100 km; precio de tarifa España (km77)",
       estimado: true
     },
     galeria: [
@@ -651,7 +651,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 146,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "20.000 km/año; estimado a partir del consumo del E-Doblò 2023 (19,6 kWh/100 km WLTP); la versión 2024 no publica consumo; recarga a 0,18 €/kWh",
+      notas: "20.000 km/año; estimado a partir del consumo del E-Doblò 2023 (19,6 kWh cada 100 km WLTP); la versión 2024 no publica consumo; recarga a 0,18 €/kWh",
       estimado: true
     },
     galeria: [
@@ -695,7 +695,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     contras: [
       "Desde 56.475 €: precio de furgoneta premium",
       "350 km teóricos: en viaje largo hay que planificar las cargas",
-      "2.140 kg: el consumo real ronda los 28 kWh/100 km",
+      "2.140 kg: el consumo real ronda los 28 kWh cada 100 km",
       "En España solo se vende eléctrico: sin opción diésel",
       "Rivales gemelos de Stellantis (e-Traveller, Zafira-e) casi idénticos",
     ],
@@ -720,7 +720,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 183,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "20.000 km/año; consumo WLTP 27,6 kWh/100 km; recarga a 0,18 €/kWh; precio de tarifa España (km77)",
+      notas: "20.000 km/año; consumo WLTP 27,6 kWh cada 100 km; recarga a 0,18 €/kWh; precio de tarifa España (km77)",
       estimado: true
     },
     galeria: [
@@ -789,7 +789,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 50,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "8.000 km/año urbanos; estimado 7,2 kWh/100 km (5,4 kWh para 75 km de autonomía); 0,18 €/kWh (doméstica); cuadriciclo L6e sin distintivo DGT",
+      notas: "8.000 km/año urbanos; estimado 7,2 kWh cada 100 km (5,4 kWh para 75 km de autonomía); 0,18 €/kWh (doméstica); cuadriciclo L6e sin distintivo DGT",
       estimado: true
     },
     galeria: [
@@ -891,7 +891,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 110,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 17,4 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 17,4 kWh cada 100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -938,7 +938,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "4,8 l/100 km WLTP: muy eficiente para un B-SUV",
+      "4,8 l cada 100 km WLTP: muy eficiente para un B-SUV",
       "Etiqueta ECO de la DGT",
       "Maletero de 385 litros",
       "Diseño simpático estilo Dolce Vita",
@@ -972,7 +972,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km de gasolina (1,65 €/l); todo riesgo",
+      "notas": "15.000 km al año con un consumo homologado WLTP 4,8 l cada 100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1029,7 +1029,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "Solo diésel: etiqueta C y futuro incierto en las ZBE",
       "Desde ~48.990 €: precio elevado",
       "Comportamiento de vehículo comercial",
-      "Consumo real superior a 8 l/100 km cargado",
+      "Consumo real superior a 8 l cada 100 km cargado",
       "Acabados funcionales sin lujos",
     ],
     largoMm: 4981,
@@ -1053,7 +1053,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 208,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo 7,3 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional",
+      "notas": "15.000 km al año, consumo 7,3 l cada 100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional",
       "estimado": true
     },
     galeria: [
@@ -1134,7 +1134,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 111,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 10.000 km/año, consumo WLTP 14,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+      "notas": "estimación con 10.000 km/año, consumo WLTP 14,5 kWh cada 100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1181,7 +1181,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "5,3 l/100 km WLTP con etiqueta ECO de la DGT",
+      "5,3 l cada 100 km WLTP con etiqueta ECO de la DGT",
       "Maletero de 440 litros, de los mejores del segmento",
       "Estética Cross con mayor altura libre y barras de techo",
       "Cambio automático de doble embrague de 7 marchas",
@@ -1215,7 +1215,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 168,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo WLTP 5,3 l/100 km de gasolina (1,65 €/l); todo riesgo",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,3 l cada 100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1296,7 +1296,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 188,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo 6,7 l/100 km de gasolina (1,65 €/l); todo riesgo",
+      "notas": "15.000 km al año, consumo 6,7 l cada 100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [

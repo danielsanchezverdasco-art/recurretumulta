@@ -6,7 +6,7 @@
 // 3.011 kg en orden de marcha, 4+4 plazas, camas gemelas, precio base Italia 77.990 € con IVA),
 // artículo autoevolution.com (datos 6,99 m, 2,22 m, 2,83 m, motor 140 CV, MMA 3.500 kg).
 // Verificado el 19/10/2026.
-// Notas honestas: Hymer no publica tarifa oficial para España; el precio base de 77.990 €
+// Notas honestas: Hymer no ofrece tarifa oficial para España; el precio base de 77.990 €
 // es de Italia 2021 y no se usa como precio ES. La carga útil no la publica la marca (null).
 // Foto oficial: 1 (hymer.com, kit de prensa); resto, fotos de prensa y de concesionario
 
@@ -96,7 +96,7 @@ La base es el Fiat Ducato de chasis bajo para camping-car con batalla de 3.800 m
 
 En carretera, la Exsis-i se distingue de las integrales grandes desde el primer kilómetro: los 2,22 metros de ancho y la batalla de 3,8 metros la hacen dócil en rotondas y cambios de carril, y el parabrisas panorámico da una visibilidad que ninguna perfilada iguala. El Ducato de 140 CV mueve los 3.500 kg con solvencia en llano y se defiende en puertos; quien viaje siempre muy cargado o por alta montaña tiene la opción del 180 CV con cambio automático de nueve marchas. La altura de 2,83 metros exige atención en ramas bajas y parkings con gálibo, pero a cambio el interior respira con sus casi dos metros de altura libre. Es una autocaravana para hacer kilómetros sin cansarse, no para correr.
 
-Cómo lo verificamos. Las medidas (699/222/283 cm), la batalla (3.800 mm), la masa en orden de marcha (3.065 kg), la MMA (3.500 kg), el motor (Fiat Ducato 2.2 MultiJet 140 CV, 180 CV opcional), la tracción delantera, las 4 plazas, la calefacción Truma de 6 kW, los depósitos (120/90 l), el frigorífico (142 l), la batería (95 Ah AGM), el aislamiento (41/34/34 mm), la cama basculante (188x150 cm) y las puertas del garaje figuran en la ficha de catálogo Hymer reproducida por el distribuidor kemperiai365.lt. La review de camperonline.it (4 de enero de 2021) confirma 699x222x277 cm, MMA de 3.500 kg, 3.011 kg en orden de marcha, 4+4 plazas y camas gemelas con garaje, y autoevolution.com corrobora las cotas y la mecánica. Todo se contrastó el 19 de octubre de 2026. Hymer no publica tarifa oficial para España: el precio aplicado es el del Listino oficial Hymer Italia 2026 (111.900 €, «aprox»); los 77.990 € citados por camperonline.it son el precio base en Italia en 2021 y no son trasladables.
+Cómo lo verificamos. Las medidas (699/222/283 cm), la batalla (3.800 mm), la masa en orden de marcha (3.065 kg), la MMA (3.500 kg), el motor (Fiat Ducato 2.2 MultiJet 140 CV, 180 CV opcional), la tracción delantera, las 4 plazas, la calefacción Truma de 6 kW, los depósitos (120/90 l), el frigorífico (142 l), la batería (95 Ah AGM), el aislamiento (41/34/34 mm), la cama basculante (188x150 cm) y las puertas del garaje figuran en la ficha de catálogo Hymer reproducida por el distribuidor kemperiai365.lt. La review de camperonline.it (4 de enero de 2021) confirma 699x222x277 cm, MMA de 3.500 kg, 3.011 kg en orden de marcha, 4+4 plazas y camas gemelas con garaje, y autoevolution.com corrobora las cotas y la mecánica. Todo se contrastó el 19 de octubre de 2026. Hymer no ofrece tarifa oficial para España: el precio aplicado es el del Listino oficial Hymer Italia 2026 (111.900 €, «aprox»); los 77.990 € citados por camperonline.it son el precio base en Italia en 2021 y no son trasladables.
 
 Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una integral de verdad —parabrisas panorámico, garaje pasante, cocina seria— pero encuentran demasiado voluminosas las integrales de 2,35 m de ancho: esos 10-13 cm de menos se notan en pueblos, áreas y carreteras de montaña. La serie Pure, además, es para quien prefiere comprar equipada de fábrica antes que pelear con opcionales. Las camas gemelas traseras la hacen ideal para dormir cómodos dos adultos con independencia total. No es para familias de cuatro que viajen siempre juntas: la cama basculante es perfecta de forma ocasional, pero el día a día de cuatro con un solo baño compacto se hace largo. Tampoco para quien busque el precio más bajo del segmento: Hymer se paga, y la red oficial en España, aunque existente, es menos densa que la de las marcas francesas. Y como en toda integral de 3.500 kg tan equipada, la carga útil real de cada unidad hay que comprobarla en su ficha antes de firmar.`,
     pros: [
@@ -173,7 +173,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
       "proceden de la nota de prensa oficial de Hymer y de las fichas de catálogo 2026 de concesionarios " +
       "(TruckScout24, Schaffer-Mobil). Camas gemelas traseras de 190 y 186 cm, nevera de compresor de 154 l, " +
       "agua limpia 120 l y grises 100 l, según ficha técnica de catálogo (FindMyLeisureVehicle). " +
-      "En null: precio ES (Hymer no publica tarifa oficial en España), tara exacta, carga útil, consumo,  Precio: PVP oficial España del ML-T 570: la web oficial de Hymer en España publica la gama ML-T «desde 117.490 €» (precio basado en los precios de venta españoles) y la lista oficial de precios Hymer España 2027 (válida desde 01/07/2026) incluye el ML-T 570; la edición Xperience suma su pack homónimo (10.170 € según esa misma lista)." +
+      "En null: precio ES (Hymer no ofrece tarifa oficial en España), tara exacta, carga útil, consumo,  Precio: PVP oficial España del ML-T 570: la web oficial de Hymer en España publica la gama ML-T «desde 117.490 €» (precio basado en los precios de venta españoles) y la lista oficial de precios Hymer España 2027 (válida desde 01/07/2026) incluye el ML-T 570; la edición Xperience suma su pack homónimo (10.170 € según esa misma lista)." +
       "emisiones de CO2 y par motor (la marca no los publica para este conjunto).",
     curiosidades:
       "La edición Xperience del ML-T 570 se presentó en el Caravan Salon de Düsseldorf 2026 con acabado " +
@@ -188,9 +188,9 @@ verdad. La edición Xperience, renovada para la temporada 2026 y presentada en e
 Düsseldorf, añade un acabado exterior en gris Stone Grey y un nivel de equipamiento de serie que en
 otras gamas habría que pagar aparte.
 
-En medidas, hablamos de 6.740 mm de largo, 2.220 mm de ancho y 2.920 mm de alto, con una batalla de
+En medidas, hablamos de 6.740 × 2.220 × 2.920 mm (largo, ancho y alto), con una batalla de
 3.660 mm y una altura interior que supera los 1,91 m. La masa máxima autorizada es de 3.500 kg, de modo
-que se conduce con el carnet B. La distribución interior apuesta por las camas gemelas traseras —de 190
+que puede llevarse con el permiso B. La distribución interior apuesta por las camas gemelas traseras —de 190
 y 186 cm respectivamente, esta última 7 cm más larga que en generaciones anteriores—, un salón en L con
 cuatro plazas de viaje, cocina con tres fogones y nevera de compresor de 154 litros con compartimento
 congelador, y un baño compacto con ducha separada. El garaje trasero admite hasta 350 kg de carga, con
@@ -218,8 +218,7 @@ El depósito de gasóleo y el equipo multimedia original Mercedes con Android Au
 completan un conjunto pensado para devorar kilómetros por autopista con el aplomo de una berlina
 alemana.
 
-En precio y red comercial en España, Hymer no publica una tarifa oficial para nuestro mercado, por lo
-que no es posible dar una cifra de partida verificada: el precio se negocia en cada concesionario y
+En precio y red comercial en España, Hymer no publica una tarifa oficial para nuestro mercado, así que no es posible dar una cifra de partida verificada: el precio se negocia en cada concesionario y
 depende del equipamiento elegido. Como referencia, en el Reino Unido el catálogo 2026 parte de unas
 £109.370. En España la marca cuenta con una red de concesionarios oficiales repartidos por las
 principales provincias, con servicio postventa y recambios garantizados por el grupo Erwin Hymer. Es
@@ -231,7 +230,7 @@ prensa oficial de Hymer «Setting new standards: the compact Hymer ML-T 570» (h
 comunicado de novedades del Caravan Salon de Düsseldorf 2026 publicado por Out & About Live; las
 cifras de camas, nevera, depósitos y aislamiento, de las fichas técnicas de catálogo 2026
 distribuidas por la red de concesionarios (TruckScout24, Schaffer-Mobil, FindMyLeisureVehicle).
-Todo verificado el 19/10/2026. Lo que la marca no publica —precio oficial en España, tara exacta,
+Todo verificado el 19/10/2026. Lo que la marca no ofrece —precio oficial en España, tara exacta,
 carga útil, consumo y emisiones— queda declarado sin dato y en las notas de esta ficha.
 
 Para quién es: es la autocaravana ideal para una pareja viajera que quiere la calidad de
@@ -308,12 +307,12 @@ límite, y quien busque tracción total deberá mirar a la versión CrossOver en
     emisionesCo2: null,
     aprox: ["precioDesde"], // precio oficial Alemania; en España puede diferir
     notas:
-      "Cotas (709/229/298 cm), motor Mercedes Sprinter 315 CDI 110 kW/150 CV Euro VI-E, MRO 2.991 kg, MMA 3.500 kg, 4-5 plazas y 2-5 camas: datos técnicos oficiales de hymer.com (verificados 19/10/2026). Precio base 109.900 €: PVP oficial para Alemania; Hymer no publica tarifa oficial para España. Las 4 fotos son oficiales (prensa de Hymer GmbH und Co. KG vía campingcarlesite.com). Carga útil, consumo, par motor y emisiones: no publicados; quedan sin dato.",
+      "Cotas (709/229/298 cm), motor Mercedes Sprinter 315 CDI 110 kW/150 CV Euro VI-E, MRO 2.991 kg, MMA 3.500 kg, 4-5 plazas y 2-5 camas: datos técnicos oficiales de hymer.com (verificados 19/10/2026). Precio base 109.900 €: PVP oficial para Alemania; Hymer no ofrece tarifa oficial para España. Las 4 fotos son oficiales (prensa de Hymer GmbH und Co. KG vía campingcarlesite.com). Carga útil, consumo, par motor y emisiones: no publicados; quedan sin dato.",
     curiosidades:
       "Cuando Hymer presentó el Tramp S 585 en agosto de 2021, la novedad que más destacó la prensa no fue el chasis Mercedes ni las camas gemelas, sino el baño: el 585 renuncia a la ducha independiente para montar el «baño vario» con tabique pivotante, un sistema ya probado en otros modelos de la marca pero completamente rediseñado para esta distribución, que permite conservar un salón face-to-face amplio en solo 7,09 metros. Fuente: campingcarlesite.com, «HYMER Tramp S 585 : un nouveau modèle pour la gamme d'accès sur Mercedes» (https://www.campingcarlesite.com/camping-car-neuf/50197-hymer-tramp-s-585-un-nouveau-modele-pour-la-gamme-dacces-sur-mercedes), con fotos oficiales de Hymer.",
     descripcion: `El Hymer Tramp S 585 es la perfilada con la que Hymer —la marca que inventó la autocaravana moderna— democratiza el acceso a su mundo sobre base Mercedes: 7,09 metros de largo, camas gemelas traseras y el prestigio de la estrella en el morro, con un precio base oficial en Alemania de 109.900 euros que lo sitúa como la puerta de entrada a las perfiladas Hymer sobre Sprinter. Presentado en agosto de 2021 como gran novedad de la gama de acceso, el 585 lleva ya varias temporadas demostrando que «acceso» en Hymer no significa «básico».
 
-    En medidas y habitabilidad, el Tramp S 585 ofrece 709 cm de largo, 229 cm de ancho y 298 cm de alto, con una masa en orden de marcha de 2.991 kg para una MMA de 3.500 kg: queda dentro del carnet B con un margen de carga razonable para su categoría. La distribución es la clásica ganadora del segmento: salón delantero face-to-face junto a la cabina del Sprinter, cocina central bien equipada, baño vario con tabique pivotante y, al fondo, las camas gemelas longitudinales. Es el esquema que más parejas eligen cuando quieren una autocaravana «para siempre»: cada uno duerme en su cama sin molestar al otro, el salón face-to-face es el más cómodo para comer y conversar, y la cocina central queda a mano tanto desde el salón como desde las camas. La decisión más comentada del 585 es el baño: en lugar de una ducha independiente que habría robado medio metro al salón, Hymer monta su «baño vario» con tabique pivotante, completamente rediseñado para este modelo, que ofrece WC y ducha en un espacio compacto sin sacrificar la amplitud de la zona de día.
+    En medidas y habitabilidad, el Tramp S 585 ofrece 709 cm de largo, 229 cm de ancho y 298 cm de alto, con una masa en orden de marcha de 2.991 kg frente a una MMA de 3.500 kg: queda dentro del carnet B con un margen de carga razonable para su categoría. La distribución es la clásica ganadora del segmento: salón delantero face-to-face junto a la cabina del Sprinter, cocina central bien equipada, baño vario con tabique pivotante y, al fondo, las camas gemelas longitudinales. Es el esquema que más parejas eligen cuando quieren una autocaravana «para siempre»: cada uno duerme en su cama sin molestar al otro, el salón face-to-face es el más cómodo para comer y conversar, y la cocina central queda a mano tanto desde el salón como desde las camas. La decisión más comentada del 585 es el baño: en lugar de una ducha independiente que habría robado medio metro al salón, Hymer monta su «baño vario» con tabique pivotante, completamente rediseñado para este modelo, que ofrece WC y ducha en un espacio compacto sin sacrificar la amplitud de la zona de día.
 
     En tecnología y equipamiento, el Tramp S 585 juega con las cartas de la base Mercedes: el Sprinter aporta su chasis de largueros, una cabina de turismo con los sistemas de asistencia de la estrella y una imagen que impone respeto en cualquier camping. La célula Hymer suma su construcción PUAL —espuma de poliuretano entre aluminios, sin madera estructural—, mobiliario de diseño contemporáneo con superficies de alto brillo combinadas con maderas nobles, iluminación LED ambiental y los detalles que distinguen a la marca: armarios con cierre suave, claraboyas panorámicas y una cocina con frigorífico, fregadero y fuegos dimensionados para cocinar de verdad. La cama basculante eléctrica opcional sobre el salón y la transformación del face-to-face en cama permiten escalar la capacidad nocturna hasta las cinco plazas cuando la familia crece o los amigos se apuntan.
 

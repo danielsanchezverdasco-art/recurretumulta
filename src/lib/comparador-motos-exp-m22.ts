@@ -135,7 +135,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico tras cada salida.",
         "Engrasa con lubricante de alta adherencia, girando la rueda en el caballete.",
-        "Comprueba la tensión según el manual con la moto vertical.",
+        "Comprueba la tensión según el manual, con la moto en vertical.",
       ],
       trucos: [
         "Revisa pastillas: con 214 CV los frenos trabajan al límite.",
@@ -240,7 +240,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "Versión limitable a 35 kW para el carnet A2",
     ],
     contras: [
-      "223 kg en orden de marcha: pesada para el off-road exigente",
+      "223 kg en orden de marcha y pesada para el off-road exigente",
       "Asiento a 875 mm: intimidante para pilotos bajos",
       "18.090 €: la trail media más cara del segmento",
       "Protecciones y maletas son accesorios aparte",
@@ -407,7 +407,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y desengrasante suave.",
         "Engrasa con lubricante estándar para cadena con retenes.",
-        "Ajusta la tensión según el manual con la moto vertical.",
+        "Ajusta la tensión según el manual, con la moto en vertical.",
       ],
       trucos: [
         "El motor refrigerado por aire-aceite agradece cambios de aceite puntuales.",
@@ -447,7 +447,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "30.390 €: precio de superbike",
       "168 CV piden respeto: no es una custom tranquila",
       "El neumático de 240 mm condiciona la agilidad en curvas lentas",
-      "Consumo de 6,6 l/100 km y depósito de 20 l",
+      "Consumo de 6,6 l cada 100 km y depósito de 20 l",
       "Los accesorios originales tienen precios altos",
     ],
     curiosidades: [
@@ -884,7 +884,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida por tierra.",
         "Engrasa con lubricante de cera.",
-        "Ajusta la tensión según el manual con la moto vertical.",
+        "Ajusta la tensión según el manual, con la moto en vertical.",
       ],
       trucos: [
         "El monocilíndrico vibra: revisa el apriete de la tornillería cada revisión.",
@@ -1188,7 +1188,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     aprox: [],
     pros: [
       "El 'urban adventure': scooter con suspensiones de largo recorrido y manillar ancho",
-      "Motor iGet de 174 cc con Start & Stop: solo 2,6 l/100 km",
+      "Motor iGet de 174 cc con Start & Stop: solo 2,6 l cada 100 km",
       "Ruedas de 14\"/13\" con neumáticos mixtos: baches y adoquines sin drama",
       "148 kg: ágil en el tráfico denso",
       "Versiones Sport y Réplica con los colores de la RS-GP de MotoGP",
@@ -1251,7 +1251,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "15 CV al límite del A1 con solo 134 kg: diversión pura",
+      "15 CV, el tope del A1, con solo 134 kg: diversión pura",
       "Horquilla invertida de 41 mm y 240 mm de recorrido: parte ciclo de motard",
       "ABS Bosch monocanal con antivuelco: derrapes controlados",
       "En 2025 estrena pantalla digital a color y faro LED triangular",
@@ -1289,7 +1289,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico cada 500 km.",
         "Engrasa con lubricante de cera.",
-        "Ajusta la tensión según el manual con la moto vertical.",
+        "Ajusta la tensión según el manual, con la moto en vertical.",
       ],
       trucos: [
         "El monocilíndrico de 125 agradece cambios de aceite frecuentes.",

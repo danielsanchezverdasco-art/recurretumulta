@@ -228,7 +228,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 230,
         },
       ],
@@ -456,7 +456,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión cada 6.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -488,7 +488,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     pros: [
       "Primer tetracilíndrico de Voge: 99 CV a 11.500 rpm",
       "Brembo, ABS en curva e IMU por unos 9.000 €",
-      "0-100 km/h en 3,5 segundos y 235 km/h de punta",
+      "3,5 s en el 0-100 km/hegundos y 235 km/h de punta",
       "Limitable a 47 CV para el carnet A2",
       "Quickshifter y control de lanzamiento de serie",
     ],
@@ -532,7 +532,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -608,7 +608,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -641,7 +641,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "La trail A2 más barata del mercado: 2.995 €",
       "Ruedas de 21 y 18 pulgadas de verdad, no de postureo",
       "Suspensiones YUAN regulables delante y detrás",
-      "Solo 154 kg y consumo de 3,3 l/100 km",
+      "Solo 154 kg y consumo de 3,3 l cada 100 km",
       "Full LED, pantalla LCD y toma USB de serie",
     ],
     contras: [
@@ -760,7 +760,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 250,
         },
       ],
@@ -836,7 +836,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 230,
         },
       ],
@@ -912,7 +912,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 250,
         },
       ],
@@ -1064,7 +1064,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -1140,7 +1140,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -1216,12 +1216,12 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
       costeAnualAproxEur: 220,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
   {
@@ -1292,12 +1292,12 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
       costeAnualAproxEur: 220,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
   {
@@ -1325,7 +1325,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Trail-scrambler de acceso por solo 2.490 €",
       "141 kg: ligera y manejable",
       "Depósito de 16 litros, enorme para una 125",
-      "Conducible con carnet A1 o B con 3 años",
+      "Conducible con el carnet A1 o el B con 3 años",
       "Estética scrambler muy conseguida",
     ],
     contras: [
@@ -1373,7 +1373,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: 130,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
   {
@@ -1401,7 +1401,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
       "Trail 125 con orientación rally 50/50 por 2.490 €",
       "15 CV: el máximo legal para el A1",
       "Componentes robustos para off-road real",
-      "Conducible con carnet A1 o B con 3 años",
+      "Conducible con el carnet A1 o el B con 3 años",
       "Un escalón por encima de la RX1 Pro",
     ],
     contras: [
@@ -1449,7 +1449,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: 130,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
   {
@@ -1520,12 +1520,12 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 240,
         },
       ],
       costeAnualAproxEur: 240,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
   {
@@ -1596,12 +1596,12 @@ export const MOTOS_LOTE7: MotoComparador[] = [
         },
         {
           nombre: "Revisión 5.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías (según km)",
+          queSeCambia: "Aceite + filtro de aire + filtro de aceite + bujías (según km)",
           costeAproxEur: 220,
         },
       ],
       costeAnualAproxEur: 220,
-      fuente: "Cyclone Motor España; costes aproximados de red oficial",
+      fuente: "Cyclone Motor España; costes aproximados de la red oficial",
     },
   },
 ];

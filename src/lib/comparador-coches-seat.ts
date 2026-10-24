@@ -29,7 +29,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Maletero de 620 litros en un coche de 1.392 kg: carga como un familiar grande sin arrastrar el peso de un SUV, y eso se nota en el consumo de 5,7 l/100 km", "Con 23.213 € de precio de partida es la forma más barata de entrar en un familiar del segmento C con plataforma MQB Evo, la misma del Golf Variant, mucho más caro", "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria", "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros", "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España"],
+    pros: ["Maletero de 620 litros en un coche de 1.392 kg: carga como un familiar grande sin arrastrar el peso de un SUV, y eso se nota en el consumo de 5,7 l cada 100 km", "Con 23.213 € de precio de partida es la forma más barata de entrar en un familiar del segmento C con plataforma MQB Evo, la misma del Golf Variant, mucho más caro", "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria", "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros", "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España"],
     contras: ["Etiqueta C de la DGT: este 1.5 TSI sin hibridación no tiene las ventajas en ZBE ni en aparcamiento que sí da el 1.5 eTSI de la misma potencia con etiqueta ECO", "10,7 segundos de 0 a 100 km/h en vacío se quedan cortos en cuanto viajan cinco personas y el maletero de 620 litros va lleno: en puertos y al incorporarse toca reducir y apurar las marchas", "Solo tracción delantera y sin opción de cambio automático en esta versión concreta: quien quiera DSG tiene que saltar al eTSI y pagar la diferencia", "128 g/km de CO2 y un depósito pensado para un uso eficiente, no para olvidarse de repostar en viajes largos cargado, cuando el consumo real se aleja del WLTP"],
     largoMm: 4642,
     anchoMm: 1799,
@@ -52,7 +52,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un familiar compacto",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,7 l cada 100 km, con gasolina a 1,85 €/l; estimación de seguro y mantenimiento para un familiar compacto",
       "estimado": true
     },
     galeria: [
@@ -103,7 +103,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "116 CV por 19.670 €: el Ibiza más equilibrado entre precio y prestaciones",
-      "Motor 1.0 TSI tricilíndrico con buen empuje desde 2.200 rpm y consumo contenido (5,1 l/100 km)",
+      "Motor 1.0 TSI tricilíndrico con buen empuje desde 2.200 rpm y consumo contenido (5,1 l cada 100 km)",
       "El urbano español por excelencia: más de 6 millones de unidades desde 1984",
       "Comportamiento ágil en ciudad y aplomo en autopista para su tamaño",
       "Opción con cambio DSG de 7 velocidades para quien no quiera manual",
@@ -136,7 +136,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 5,1 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un urbano",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,1 l cada 100 km, con gasolina a 1,85 €/l; estimación de seguro y mantenimiento para un urbano",
       "estimado": true
     },
     galeria: [
@@ -195,7 +195,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "Etiqueta C: la versión mild-hybrid con ECO no llega hasta 2027",
       "25.227 € de partida: el Arona más caro, cerca de SUV del segmento C",
       "Suspensión algo firme en el acabado FR, menos cómoda en ciudad",
-      "El 1.5 TSI gasta más en ciudad que los 1.0 TSI (5,7 l/100 km homologados)",
+      "El 1.5 TSI gasta más en ciudad que los 1.0 TSI (5,7 l cada 100 km homologados)",
       "Rivales híbridos (etiqueta ECO) ya le sacan ventaja fiscal y en ZBE",
     ],
     largoMm: 4164,
@@ -219,7 +219,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 239,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un B-SUV",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,7 l cada 100 km, con gasolina a 1,85 €/l; estimación de seguro y mantenimiento para un B-SUV",
       "estimado": true
     },
     galeria: [
@@ -267,7 +267,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Es el eTSI con nervio de verdad: 150 CV y 250 Nm desde 1.500 rpm le dejan cerrar el 0 a 100 en 8,4 s y alcanzar 217 km/h, muy lejos de los 10,7 s del hermano de 115 CV con el que comparte bloque 1.5", "El sistema de 48 V trabaja donde más se nota en el día a día: arranques suaves tras el Stop&Start, apoyo eléctrico al salir de un semáforo y fases de vela con el motor apagado en retención, sin enchufes ni cables en el garaje", "Homologa 5,3 l/100 km y 121 g/km de CO2 pese a ser el microhíbrido rápido de la gama, y la etiqueta ECO llega desde 26.260 € sin tener que saltar al e-HYBRID enchufable", "DSG de 7 marchas de serie y sin alternativa manual: en atascos de la M-30 no hay pedal de embrague que gestionar y en carretera abierta las reducciones para adelantar son inmediatas", "La hibridación ligera no le roba ni un litro al maletero: mantiene los 380 litros del León de gasolina equivalente y su peso se queda en 1.364 kg, contenido para un compacto automático electrificado"],
+    pros: ["Es el eTSI con nervio de verdad: 150 CV y 250 Nm desde 1.500 rpm le dejan cerrar el 0 a 100 en 8,4 s y alcanzar 217 km/h, muy lejos de los 10,7 s del hermano de 115 CV con el que comparte bloque 1.5", "El sistema de 48 V trabaja donde más se nota en el día a día: arranques suaves tras el Stop&Start, apoyo eléctrico al salir de un semáforo y fases de vela con el motor apagado en retención, sin enchufes ni cables en el garaje", "Homologa 5,3 l cada 100 km y 121 g/km de CO2 pese a ser el microhíbrido rápido de la gama, y la etiqueta ECO llega desde 26.260 € sin tener que saltar al e-HYBRID enchufable", "DSG de 7 marchas de serie y sin alternativa manual: en atascos de la M-30 no hay pedal de embrague que gestionar y en carretera abierta las reducciones para adelantar son inmediatas", "La hibridación ligera no le roba ni un litro al maletero: mantiene los 380 litros del León de gasolina equivalente y su peso se queda en 1.364 kg, contenido para un compacto automático electrificado"],
     contras: ["Que no te venda nadie lo contrario: el motor de 48 V no empuja el coche por sí solo, así que en autopista a ritmo constante el ahorro frente a un 1.5 TSI sin hibridar es marginal", "Si quieres 150 CV con cambio manual, en la familia eTSI no existe: el DSG es obligatorio y parte de la factura de este León viene de esa caja, no del motor", "Los 380 litros se quedan cortos si vienes de mirar su propio hermano Sportstourer, que con la misma mecánica familiar anuncia 620 litros: en el cinco puertas, una sillita y dos maletas ya obligan a jugar al Tetris", "Etiqueta ECO y no CERO: frente al León e-HYBRID de 204 CV pierde ventajas en las ZBE más duras y en el estacionamiento regulado de ciudades como Madrid"],
     largoMm: 4368,
     anchoMm: 1800,
@@ -290,7 +290,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 233,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 5,3 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un compacto híbrido ligero",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,3 l cada 100 km, con gasolina a 1,85 €/l; estimación de seguro y mantenimiento para un compacto híbrido ligero",
       "estimado": true
     },
     galeria: [
@@ -339,7 +339,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Presentado en Martorell el 28 de enero de 2020, este León de cuarta generación hereda un nombre que ya sumaba 2,2 millones de unidades vendidas desde su debut en 1999", "Homologa 4,7 l/100 km y declara 900 km de autonomía, la combinación que lo convierte en el León para encadenar autopista entre repostajes de gasóleo", "Sus 150 CV y 360 Nm mueven un compacto de 4.368 mm y 1.449 kg hasta 215 km/h y firman el sprint hasta los cien en 8,5 segundos", "Euro NCAP lo ensayó en 2020 también con motor diésel y le concedió cinco estrellas, con un 92 % en protección de ocupantes adultos", "Comparte la plataforma MQB Evo con el Golf VIII y el Audi A3 Sportback, pero se diseña y se fabrica en Martorell, en Barcelona"],
+    pros: ["Presentado en Martorell el 28 de enero de 2020, este León de cuarta generación hereda un nombre que ya sumaba 2,2 millones de unidades vendidas desde su debut en 1999", "Homologa 4,7 l cada 100 km y declara 900 km de autonomía, la combinación que lo convierte en el León para encadenar autopista entre repostajes de gasóleo", "Sus 150 CV y 360 Nm mueven un compacto de 4.368 mm y 1.449 kg hasta 215 km/h y firman el sprint hasta los cien en 8,5 segundos", "Euro NCAP lo ensayó en 2020 también con motor diésel y le concedió cinco estrellas, con un 92 % en protección de ocupantes adultos", "Comparte la plataforma MQB Evo con el Golf VIII y el Audi A3 Sportback, pero se diseña y se fabrica en Martorell, en Barcelona"],
     contras: ["Con distintivo C de la DGT queda fuera de los privilegios de sus hermanos eTSI y e-Hybrid, con etiqueta ECO y Cero: en una zona de bajas emisiones estricta, el diésel paga primero", "Sale desde 29.102 € en esta ficha, el León sin electrificación más caro del comparador, y ese sobreprecio solo se recupera acumulando muchos kilómetros de carretera cada año", "Aunque la carrocería creció hasta 4.368 mm, el maletero se quedó en los 380 litros del León anterior, lejos de lo que carga un Skoda Octavia, su primo de plataforma", "El postratamiento con AdBlue y filtro de partículas sufre con los trayectos urbanos cortos, justo el uso contrario al que este 2.0 TDI rinde mejor", "Su habitáculo, estrenado en 2020, redujo los botones físicos en favor de la pantalla central: ajustar el clima en marcha obliga a apartar la vista más que en el León anterior"],
     largoMm: 4368,
     anchoMm: 1800,
@@ -405,7 +405,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "Etiqueta CERO con 133 km de autonomía eléctrica: entra en todas las ZBE sin restricciones",
       "204 CV y 7,7 s de 0 a 100: el León más rápido sin ser CUPRA",
-      "1,3 l/100 km homologados si se carga a diario: el commuting puede ser casi gratis",
+      "1,3 l cada 100 km homologados si se carga a diario: el commuting puede ser casi gratis",
       "Con el Plan Moves y la deducción del IRPF el precio efectivo baja mucho",
       "Si se agota la batería, el 1.5 TSI sigue funcionando como un híbrido normal",
     ],
@@ -437,7 +437,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 177,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año cargando a diario (70 % eléctrico a 0,18 €/kWh, 30 % gasolina a 5,0 l/100 km); sin carga diaria el coste se dispara",
+      "notas": "15.000 km/año cargando a diario (70 % eléctrico a 0,18 €/kWh, 30 % gasolina a 5,0 l cada 100 km); sin carga diaria el coste se dispara",
       "estimado": true
     },
     galeria: [
@@ -488,7 +488,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "150 CV con cambio manual disponible: el Ateca más divertido de conducir",
       "Maletero de 510 litros, entre los más grandes del segmento C",
-      "Motor 1.5 TSI con desconexión de cilindros: 6,2 l/100 km homologados",
+      "Motor 1.5 TSI con desconexión de cilindros: 6,2 l cada 100 km homologados",
       "Comportamiento dinámico de referencia: tacto SEAT preciso y ágil",
       "Precio de acceso de 29.501 € con buen equipamiento Style EVO Edition",
     ],
@@ -520,7 +520,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 258,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 6,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un C-SUV",
+      "notas": "15.000 km al año con un consumo homologado WLTP 6,2 l cada 100 km, con gasolina a 1,85 €/l; estimación de seguro y mantenimiento para un C-SUV",
       "estimado": true
     },
     galeria: [
@@ -568,7 +568,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Nació en 2016 como primer SUV de la historia de SEAT, diseñado en Martorell, y acumula más de 400.000 unidades vendidas en el mundo según coches.net", "Con 5,2 l/100 km homologados y 1.000 km de autonomía declarada, este 2.0 TDI está pensado para encadenar autopista sin parar a repostar a menudo", "Sus 360 Nm empujan un SUV de 1.514 kg y 4.381 mm: adelantar o subir un puerto con cinco ocupantes no exige exprimir el motor hasta arriba", "El maletero cubica 510 litros en esta versión de tracción delantera, sin el recorte hasta 485 litros que sufren los Ateca 4Drive", "Frente a su primo el Skoda Karoq, con el que comparte línea de producción en Kvasiny, el Ateca busca una conducción algo más directa y unas líneas más angulosas"],
+    pros: ["Nació en 2016 como primer SUV de la historia de SEAT, diseñado en Martorell, y acumula más de 400.000 unidades vendidas en el mundo según coches.net", "Con 5,2 l cada 100 km homologados y 1.000 km de autonomía declarada, este 2.0 TDI está pensado para encadenar autopista sin parar a repostar a menudo", "Sus 360 Nm empujan un SUV de 1.514 kg y 4.381 mm: adelantar o subir un puerto con cinco ocupantes no exige exprimir el motor hasta arriba", "El maletero cubica 510 litros en esta versión de tracción delantera, sin el recorte hasta 485 litros que sufren los Ateca 4Drive", "Frente a su primo el Skoda Karoq, con el que comparte línea de producción en Kvasiny, el Ateca busca una conducción algo más directa y unas líneas más angulosas"],
     contras: ["Arranca en 34.182 € según esta ficha, 2.902 € por encima del Ateca 2.0 TDI de 115 CV del mismo comparador, y un diésel así solo se amortiza acumulando muchos kilómetros de carretera al año", "Lleva a la venta desde 2016 con una única renovación profunda, la de 2020: su planteamiento cumple una década frente a un Nissan Qashqai o un Peugeot 3008 rehechos por completo después", "El ejemplar de esta ficha va unido a un doble embrague DSG de siete marchas, con su tacto y su mantenimiento propios, en lugar de a un cambio manual", "Con etiqueta C de la DGT y 135 g/km de CO2, en las zonas de bajas emisiones parte en desventaja frente a un Qashqai e-Power o un 3008 híbrido, ambos con distintivo ECO", "AdBlue, filtro de partículas y válvula EGR forman un postratamiento que encarece el uso y sufre con los trayectos cortos urbanos, justo donde un 1.5 EcoTSI de gasolina va más tranquilo"],
     largoMm: 4381,
     anchoMm: 1841,
@@ -583,7 +583,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     aprox: [],
     imagen: "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {"costeEnergia100km": 9.1, "costeMensualTotal": 230, "estimado": true, "mantenimientoAnual": 480, "notas": "Cálculo propio para este Ateca diésel: recorrer 15.000 km al año con su consumo homologado de 5,2 l/100 km y gasóleo pagado a 1,75 €/l da los 9,10 € por cada 100 km del cuadro; la póliza y la partida anual de mantenimiento son referencias orientativas de un SUV compacto, con el AdBlue ya contemplado dentro del mantenimiento", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 920, "seguroTercerosAnual": 480},
+    costeMensual: {"costeEnergia100km": 9.1, "costeMensualTotal": 230, "estimado": true, "mantenimientoAnual": 480, "notas": "Cálculo propio para este Ateca diésel: recorrer 15.000 km al año con su consumo homologado de 5,2 l cada 100 km y gasóleo pagado a 1,75 €/l da los 9,10 € por cada 100 km del cuadro; la póliza y la partida anual de mantenimiento son referencias orientativas de un SUV compacto, con el AdBlue ya contemplado dentro del mantenimiento", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 920, "seguroTercerosAnual": 480},
     galeria: [
       {
         "src": "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
@@ -634,7 +634,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "150 CV y 250 Nm: el Ibiza más potente de la gama, con cambio DSG de serie",
       "23.142 €: el utilitario español más rápido por menos de 24.000 €",
-      "5,7 l/100 km homologados: contenido para un 1.5 turbo de 150 CV",
+      "5,7 l cada 100 km homologados: contenido para un 1.5 turbo de 150 CV",
       "Restyling 2026: frontal hexagonal, faros LED y asientos bacquet en FR",
       "Maletero de 355 litros, de los mejores del segmento B"
     ],
@@ -666,7 +666,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -716,7 +716,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "19.230 €: el B-SUV más vendido de España por menos de 20.000 €",
-      "5,3 l/100 km y 124 g/km de CO₂: el Arona más eficiente en gasolina",
+      "5,3 l cada 100 km y 124 g/km de CO₂: el Arona más eficiente en gasolina",
       "1.191 kg: ligero, ágil en ciudad y barato de mantener",
       "Maletero de 400 litros, el mejor de su segmento",
       "Etiqueta C y 5 estrellas Euro NCAP"
@@ -749,7 +749,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 199,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -800,7 +800,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "23.182 €: el León 1.5 de 4 cilindros más barato, acabado Style",
       "115 CV y 220 Nm desde 1.500 rpm: empuje suficiente en el día a día",
-      "5,7 l/100 km: consumo contenido para un compacto gasolina",
+      "5,7 l cada 100 km: consumo contenido para un compacto gasolina",
       "Cambio manual de 6 velocidades: control total y mantenimiento barato",
       "Maletero de 380 litros y 5 plazas reales"
     ],
@@ -832,7 +832,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -880,8 +880,8 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Es la puerta de entrada a la etiqueta ECO en el León de 2026: 25.490 € y ya con el DSG de siete marchas incluido, sin tener que subir a los 150 CV para tener automático e hibridación ligera", "Homologa 5,2 l/100 km y 121 g/km de CO2 con 115 CV: para quien hace ciudad y circunvalaciones a diario, el apoyo de 48 V se nota justo en arranques y retenciones, que es donde un gasolina puro más gasta", "Mantiene el maletero de 380 litros del cinco puertas pese al sistema de 48 V, y mide 4.368 mm: no hay que saltar al Sportstourer familiar si no se necesita cargar más", "Su 1.5 de cuatro cilindros entrega 220 Nm, el mismo par que el 1.5 TSI 115 manual: no es un tricilíndrico recortado disfrazado de versión de acceso, sino el motor grande con la potencia contenida"],
-    contras: ["10,4 segundos de 0 a 100 km/h y 197 km/h de punta dejan claro su planteamiento: en incorporaciones cargado o adelantamientos largos se echa en falta el empuje de otra versión, no es un León para ir con prisas", "El sistema de 48 V asiste y permite avanzar a vela en según qué situaciones, pero no mueve el coche solo con electricidad: quien espere silencios de híbrido convencional al salir de un semáforo se llevará una decepción", "Por potencia es idéntico al 1.5 TSI 115 manual, así que lo que se paga de más es el DSG y la etiqueta ECO: si no se entra en zonas de bajas emisiones ni se quiere automático, la versión manual cumple con menos desembolso", "La etiqueta es ECO, no CERO: frente al León e-HYBRID enchufable pierde las ventajas de aparcamiento y acceso asociadas a la CERO, y en autopista pura la ayuda eléctrica apenas recorta el consumo de 5,2 l/100 km homologado"],
+    pros: ["Es la puerta de entrada a la etiqueta ECO en el León de 2026: 25.490 € y ya con el DSG de siete marchas incluido, sin tener que subir a los 150 CV para tener automático e hibridación ligera", "Homologa 5,2 l cada 100 km y 121 g/km de CO2 con 115 CV: para quien hace ciudad y circunvalaciones a diario, el apoyo de 48 V se nota justo en arranques y retenciones, que es donde un gasolina puro más gasta", "Mantiene el maletero de 380 litros del cinco puertas pese al sistema de 48 V, y mide 4.368 mm: no hay que saltar al Sportstourer familiar si no se necesita cargar más", "Su 1.5 de cuatro cilindros entrega 220 Nm, el mismo par que el 1.5 TSI 115 manual: no es un tricilíndrico recortado disfrazado de versión de acceso, sino el motor grande con la potencia contenida"],
+    contras: ["10,4 segundos de 0 a 100 km/h y 197 km/h de punta dejan claro su planteamiento: en incorporaciones cargado o adelantamientos largos se echa en falta el empuje de otra versión, no es un León para ir con prisas", "El sistema de 48 V asiste y permite avanzar a vela en según qué situaciones, pero no mueve el coche solo con electricidad: quien espere silencios de híbrido convencional al salir de un semáforo se llevará una decepción", "Por potencia es idéntico al 1.5 TSI 115 manual, así que lo que se paga de más es el DSG y la etiqueta ECO: si no se entra en zonas de bajas emisiones ni se quiere automático, la versión manual cumple con menos desembolso", "La etiqueta es ECO, no CERO: frente al León e-HYBRID enchufable pierde las ventajas de aparcamiento y acceso asociadas a la CERO, y en autopista pura la ayuda eléctrica apenas recorta el consumo de 5,2 l cada 100 km homologado"],
     largoMm: 4368,
     anchoMm: 1800,
     altoMm: 1456,
@@ -903,7 +903,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -953,7 +953,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "4,6 l/100 km: el León más ahorrador en viajes largos",
+      "4,6 l cada 100 km: el León más ahorrador en viajes largos",
       "300 Nm desde bajo régimen: empuje diésel ideal para autopista",
       "25.230 €: el diésel compacto más barato del Grupo VW",
       "Autonomía de más de 1.000 km por depósito",
@@ -987,7 +987,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1035,7 +1035,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Con 620 litros sin abatir ningún asiento, este Sportstourer carga el equipaje de unas vacaciones sin recurrir a un cofre de techo, y lo hace desde 24.284 euros con 150 CV bajo el capó.", "El 1.5 TSI entrega 250 Nm y firma el 0 a 100 km/h en 8,7 segundos, así que adelantar un camión con cinco ocupantes y el maletero lleno no exige planificarlo con antelación.", "Al no montar la batería de un híbrido enchufable, conserva intactos los 620 litros de maletero y solo mueve 1.397 kg, menos lastre que un familiar electrificado equivalente.", "Homologa 5,7 l/100 km y se fabrica en Martorell, donde también se desarrolló esta generación: recambios, accesorios y talleres que conocen el modelo no escasean en España.", "El cambio manual de seis marchas permite elegir la respuesta del 1.5 TSI en puertos y adelantamientos, algo que el DSG de las versiones eTSI de la gama no deja hacer del mismo modo."],
+    pros: ["Con 620 litros sin abatir ningún asiento, este Sportstourer carga el equipaje de unas vacaciones sin recurrir a un cofre de techo, y lo hace desde 24.284 euros con 150 CV bajo el capó.", "El 1.5 TSI entrega 250 Nm y firma el 8,7 s en el 0-100 km/hegundos, así que adelantar un camión con cinco ocupantes y el maletero lleno no exige planificarlo con antelación.", "Al no montar la batería de un híbrido enchufable, conserva intactos los 620 litros de maletero y solo mueve 1.397 kg, menos lastre que un familiar electrificado equivalente.", "Homologa 5,7 l cada 100 km y se fabrica en Martorell, donde también se desarrolló esta generación: recambios, accesorios y talleres que conocen el modelo no escasean en España.", "El cambio manual de seis marchas permite elegir la respuesta del 1.5 TSI en puertos y adelantamientos, algo que el DSG de las versiones eTSI de la gama no deja hacer del mismo modo."],
     contras: ["Es etiqueta C, no ECO: el eTSI 150 equivalente sí la lleva, y en ciudades con protocolo anticontaminación esa letra decide accesos y aparcamiento que este TSI puro no tiene.", "Quien busque cambio automático no lo encontrará en este TSI sin hibridar: la opción automática de 150 CV obliga a saltar al eTSI con DSG y a asumir su sobreprecio.", "El depósito es de solo 45 litros para un coche pensado para viajar cargado; en tiradas largas de autovía tocará repostar antes que en familiares con depósitos más grandes.", "En las zonas bajas de puertas y consola quedan plásticos duros al tacto, un recorte que se nota al pasar la mano en un habitáculo por lo demás muy digitalizado."],
     largoMm: 4642,
     anchoMm: 1799,
@@ -1058,7 +1058,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 229,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1109,7 +1109,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Etiqueta ECO por 26.240 €: el familiar ECO más barato",
-      "5,3 l/100 km: eficiencia diésel sin ser diésel",
+      "5,3 l cada 100 km: eficiencia diésel sin ser diésel",
       "Maletero intacto de 620 litros pese a la hibridación",
       "DSG de 7 velocidades de serie",
       "Ideal para entrar en ZBE sin enchufar nada"
@@ -1142,7 +1142,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 228,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1193,7 +1193,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "150 CV con etiqueta ECO: el equilibrio perfecto del familiar",
       "Acabado FR Special Edition: el ST más deportivo sin ser CUPRA",
-      "5,3 l/100 km con 150 CV: eficiencia de referencia",
+      "5,3 l cada 100 km con 150 CV: eficiencia de referencia",
       "Maletero de 620 litros y DSG de serie",
       "Entra en ZBE y aparca gratis en muchas ciudades"
     ],
@@ -1225,7 +1225,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 241,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1274,7 +1274,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "4,8 l/100 km y 360 Nm: el devorakilómetros definitivo",
+      "4,8 l cada 100 km y 360 Nm: el devorakilómetros definitivo",
       "DSG de 7 velocidades de serie con el TDI 150",
       "Diésel de bajo consumo, ideal para viajes largos",
       "Maletero de 620 litros para viajar en familia",
@@ -1308,7 +1308,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1358,7 +1358,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "25.820 €: el familiar diésel más barato del mercado",
-      "4,6 l/100 km: gasta menos que muchos híbridos en autopista",
+      "4,6 l cada 100 km: gasta menos que muchos híbridos en autopista",
       "300 Nm: empuja con solvencia pese a sus 115 CV",
       "Maletero de 620 litros",
       "Ideal para representantes y altos kilometrajes"
@@ -1391,7 +1391,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1444,14 +1444,14 @@ export const COCHES_SEAT: CocheComparador[] = [
       "Unos 126 km de autonomía eléctrica: la mayoría de días sin gasolina",
       "204 CV y 350 Nm: el León familiar más potente",
       "Maletero de 470 litros: el que menos pierde frente al térmico",
-      "1,3 l/100 km homologados con la batería cargada"
+      "1,3 l cada 100 km homologados con la batería cargada"
     ],
     contras: [
       "35.260 €: el León más caro de la gama SEAT",
       "Sin punto de carga en casa pierde gran parte de su sentido",
       "El maletero pierde 150 litros frente al ST térmico",
       "Peso extra de la batería: menos ágil en curvas",
-      "Consumo real sube a 6 l/100 km con la batería vacía"
+      "Consumo real sube a 6 l cada 100 km con la batería vacía"
     ],
     largoMm: 4642,
     anchoMm: 1799,
@@ -1474,7 +1474,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, 70% en eléctrico (0,18 €/kWh) y 30% en gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año, 70% en eléctrico (0,18 €/kWh) y 30% en gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1524,7 +1524,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "31.280 €: el Ateca diésel más barato, con cambio manual",
-      "4,8 l/100 km: el SUV familiar más ahorrador de la gama",
+      "4,8 l cada 100 km: el SUV familiar más ahorrador de la gama",
       "300 Nm: ideal para viajar cargado y remolcar",
       "Maletero de 510 litros y 5 plazas amplias",
       "Motor 2.0 TDI contrastado, con gran red de recambios"
@@ -1557,7 +1557,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [

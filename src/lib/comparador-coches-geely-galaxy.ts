@@ -79,7 +79,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.5,
       notas:
-        "Estimación orientativa: 12.7 kWh/100 km × 0,24 €/kWh; 15.000 km/año; mantenimiento de eléctrico (sin aceite ni distribución).",
+        "Estimación orientativa: 12.7 kWh cada 100 km × 0,24 €/kWh; 15.000 km al año; mantenimiento de eléctrico (sin aceite ni distribución).",
       estimado: true,
     },
     galeria: [
@@ -148,7 +148,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.4,
       notas:
-        "Estimación orientativa: consumo híbrido ~2,9 l/100 km a 1,40 €/l; 15.000 km/año; mantenimiento de PHEV con revisiones anuales.",
+        "Estimación orientativa: consumo híbrido ~2,9 l cada 100 km a 1,40 €/l; 15.000 km al año; mantenimiento de PHEV con revisiones anuales.",
       estimado: true,
     },
     galeria: [
@@ -196,7 +196,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "Interior espacioso con batalla de 2.785 mm y maletero de 528 L",
     ],
     contras: [
-      "Solo se vende en China: sin fecha de llegada a Europa",
+      "Solo se vende en China y no hay fecha de llegada a Europa",
       "Prestaciones modestas: 0-100 estimado de 8,2 s",
       "Carga rápida DC limitada (~22 kW)",
       "Diseño continuista, apenas cambia respecto al L7 original de 2023",
@@ -217,7 +217,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.4,
       notas:
-        "Estimación orientativa: ~1,3 l/100 km (WLTC) a 1,40 €/l en uso combinado; 15.000 km/año; mantenimiento de PHEV.",
+        "Estimación orientativa: ~1,3 l cada 100 km (WLTC) a 1,40 €/l en uso combinado; 15.000 km al año; mantenimiento de PHEV.",
       estimado: true,
     },
     galeria: [
@@ -294,7 +294,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.5,
       notas:
-        "Estimación orientativa: 10,7 kWh/100 km × 0,24 €/kWh; 15.000 km/año; mantenimiento mínimo de urbano eléctrico.",
+        "Estimación orientativa: 10,7 kWh cada 100 km × 0,24 €/kWh; 15.000 km al año; mantenimiento mínimo de urbano eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -343,7 +343,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     ],
     contras: [
       "Solo se vende en China: sin planes europeos confirmados",
-      "Consumo en modo descarga (~4 l/100 km) por encima del EM-i puro",
+      "Consumo en modo descarga (~4 l cada 100 km) por encima del EM-i puro",
       "Maletero de 405 L, justo para una berlina de 5 metros",
       "Pantalla táctil de 15,4 pulgadas como único mando: casi sin botones físicos",
     ],
@@ -356,7 +356,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     opiniones: [
       {
         texto:
-          "1.725 km de autonomía combinada según el análisis de ingeniería de Drive & RPM: el sistema NordThor EM-i con 3 l/100 km.",
+          "1.725 km de autonomía combinada según el análisis de ingeniería de Drive & RPM: el sistema NordThor EM-i con 3 l cada 100 km.",
         usuario: "Drive & RPM",
         fuente: "YouTube",
         url: "https://www.youtube.com/watch?v=_tQJAbZiisE",
@@ -371,7 +371,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.4,
       notas:
-        "Estimación orientativa: 3,43 l/100 km (CLTC) a 1,40 €/l; 15.000 km/año; mantenimiento de PHEV de 375 CV.",
+        "Estimación orientativa: 3,43 l cada 100 km (CLTC) a 1,40 €/l; 15.000 km al año; mantenimiento de PHEV de 375 CV.",
       estimado: true,
     },
     galeria: [
@@ -420,7 +420,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       "0-100 en 7,1 s y maletero de 535 L: equilibrio prestaciones/espacio",
     ],
     contras: [
-      "Solo se vende en China: sin fecha de llegada a Europa",
+      "Solo se vende en China y no hay fecha de llegada a Europa",
       "Carga rápida DC limitada (~36 kW)",
       "Motor 1.5 atmosférico de 82 kW: depende del apoyo eléctrico para brillar",
       "Acabados interiores más sencillos que el Starshine 8",
@@ -449,7 +449,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.4,
       notas:
-        "Estimación orientativa: 2,67 l/100 km (CLTC) a 1,40 €/l; 15.000 km/año; mantenimiento de PHEV.",
+        "Estimación orientativa: 2,67 l cada 100 km (CLTC) a 1,40 €/l; 15.000 km al año; mantenimiento de PHEV.",
       estimado: true,
     },
     galeria: [
@@ -526,7 +526,7 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
       precioKwh: 0.24,
       precioGasolinaL: 1.4,
       notas:
-        "Estimación orientativa: 4,8 l/100 km a 1,40 €/l; 15.000 km/año; mantenimiento y seguro de SUV premium de 858 CV.",
+        "Estimación orientativa: 4,8 l cada 100 km a 1,40 €/l; 15.000 km al año; mantenimiento y seguro de SUV premium de 858 CV.",
       estimado: true,
     },
     galeria: [

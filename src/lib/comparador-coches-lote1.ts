@@ -75,7 +75,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 152,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16,2 kWh/100 km.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16,2 kWh cada 100 km.",
       estimado: true,
     },
     galeria: [
@@ -103,7 +103,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo presentado en octubre de 2026, aún no probado.",
+      nota: "Sin datos EuroNCAP: un modelo presentado en octubre de 2026, aún no probado.",
     },
     planMantenimiento: {
       intervalo: "24 meses o 25.000 km (versión eléctrica)",
@@ -181,7 +181,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 208,
       notas:
-        "Estimación con 20.000 km/año (uso profesional), recarga a 0,18 €/kWh y todo riesgo. Consumo estimado en 27,5 kWh/100 km. Precio orientativo desde tarifa británica.",
+        "Estimación con 20.000 km/año (uso profesional), recarga a 0,18 €/kWh y todo riesgo. Consumo estimado en 27,5 kWh cada 100 km. Precio orientativo desde tarifa británica.",
       estimado: true,
     },
     galeria: [
@@ -282,7 +282,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 126,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 13,8 kWh/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Consumo estimado en 13,8 kWh cada 100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -383,7 +383,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 158,
       notas:
-        "15.000 km/año y todo riesgo. Cifras orientativas: el precio y varios datos técnicos aún no son oficiales.",
+        "15.000 km al año y todo riesgo. Cifras orientativas: el precio y varios datos técnicos aún no son oficiales.",
       estimado: true,
     },
     galeria: [
@@ -414,7 +414,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "La marca no tiene programa oficial publicado (consultado el 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones del manual del propietario",
@@ -488,7 +488,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 235,
       notas:
-        "15.000 km/año y todo riesgo. Precio y varios datos aún no oficiales; cifras orientativas.",
+        "15.000 km al año y todo riesgo. Precio y varios datos aún no oficiales; cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -620,7 +620,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: prototipo de bajo volumen, no probado.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "La marca no tiene programa oficial publicado (consultado el 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones del manual del propietario",
@@ -690,7 +690,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 178,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa internacional.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa internacional.",
       estimado: true,
     },
     galeria: [
@@ -725,7 +725,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida",
+          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + revisión híbrida",
           costeAproxEur: 250,
         },
       ],
@@ -811,7 +811,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo anunciado para 2028, aún no existe.",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
+      intervalo: "La marca no tiene programa oficial publicado (consultado el 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
           nombre: "Revisiones del manual del propietario",
@@ -852,7 +852,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
     pros: [
       "375 CV con tracción total: el Lancia más potente de la historia",
       "676 km WLTP: deportivo sin renunciar a viajar",
-      "0-100 km/h en 5,1 s con suspensión activa predictiva",
+      "5,1 s en el 0-100 km/h con suspensión activa predictiva",
       "Siglas HF Integrale: el apellido mítico de los rallys",
       "Llantas forjadas de 21\" y chasis específico deportivo",
     ],
@@ -885,7 +885,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 178,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 18,5 kWh/100 km.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Consumo estimado en 18,5 kWh cada 100 km.",
       estimado: true,
     },
     galeria: [
@@ -913,7 +913,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo presentado en octubre de 2026, aún no probado.",
+      nota: "Sin datos EuroNCAP: un modelo presentado en octubre de 2026, aún no probado.",
     },
     planMantenimiento: {
       intervalo: "24 meses o 25.000 km (versión eléctrica)",
@@ -986,7 +986,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 190,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1021,7 +1021,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida",
+          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + revisión híbrida",
           costeAproxEur: 280,
         },
       ],
@@ -1087,7 +1087,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 146,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio oficial en España sin descuentos.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio oficial en España sin descuentos.",
       estimado: true,
     },
     galeria: [
@@ -1188,7 +1188,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 228,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 5,2 l/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 5,2 l cada 100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -1223,7 +1223,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección híbrida",
+          queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + revisión híbrida",
           costeAproxEur: 230,
         },
       ],
@@ -1293,7 +1293,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 337,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 9,4 l/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 9,4 l cada 100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -1394,7 +1394,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 196,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1495,7 +1495,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 116,
       notas:
-        "Estimación con 12.000 km/año (uso urbano), 0,18 €/kWh (doméstica) y todo riesgo. Precio orientativo desde tarifa china.",
+        "Estimación con 12.000 km/año (uso urbano), 0,18 €/kWh (doméstica) y todo riesgo. Precio orientativo a partir de la tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1561,7 +1561,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     cargaRapidaKw: 420,
     etiquetaDgt: "Cero",
     pros: [
-      "707 CV y 700 Nm: 0-100 km/h en 3,9 s en un SUV familiar",
+      "707 CV y 700 Nm: 3,9 s en el 0-100 km/h en un SUV familiar",
       "Batería de 102 kWh con 655 km CLTC y carga de 420 kW",
       "Batería de 120 kWh en camino: ~250 km en 5 minutos",
       "Intercambio de batería: la seña de identidad de NIO",
@@ -1596,7 +1596,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 190,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china con batería.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china con batería.",
       estimado: true,
     },
     galeria: [
@@ -1624,7 +1624,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada.",
+      nota: "Sin datos EuroNCAP: la nueva generación todavía no ha sido probada.",
     },
     planMantenimiento: {
       intervalo: "12 meses o 20.000 km",
@@ -1697,7 +1697,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 172,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde preventa en Colombia.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio orientativo desde preventa en Colombia.",
       estimado: true,
     },
     galeria: [

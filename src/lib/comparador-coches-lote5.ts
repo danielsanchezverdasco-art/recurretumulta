@@ -31,7 +31,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     pros: [
       "Hasta 600 km de autonomía NEDC con la batería de 71,4 kWh",
       "Fue el primer coche de producción con LiDAR de serie (versión P)",
-      "208 CV y 310 Nm: 0-100 km/h en 7,5 segundos",
+      "208 CV y 310 Nm: 7,5 s en el 0-100 km/hegundos",
       "Maletero de 450 litros en una berlina de 4,81 metros",
       "Desde ~21.000 € en China: precio de utilitario con tamaño de berlina",
     ],
@@ -64,7 +64,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 115,
       notas:
-        "15.000 km/año, consumo implícito ~12,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~12,2 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -95,7 +95,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo vendido solo en China, no probado en Europa",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -167,7 +167,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 122,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -198,7 +198,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -270,7 +270,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 109,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -301,7 +301,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -373,7 +373,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 175,
       notas:
-        "15.000 km/año, consumo estimado ~7 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chileno).",
+        "15.000 km al año, consumo estimado ~7 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chileno).",
       estimado: true,
     },
     galeria: [
@@ -404,7 +404,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -450,7 +450,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     contras: [
       "No se vende fuera de China: imposible comprarlo en Europa",
       "5,22 metros de largo: solo para quien tenga dónde aparcarlo",
-      "Consumo elevado (~8 l/100 km) para los estándares actuales",
+      "Consumo elevado (~8 l cada 100 km) para los estándares actuales",
       "Diseño pensado para el gusto chino, no para Europa",
       "Precio de las versiones altas (Century) supera los 60.000 €",
     ],
@@ -476,7 +476,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 243,
       notas:
-        "15.000 km/año, consumo ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo ~8 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -504,10 +504,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -579,7 +579,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 125,
       notas:
-        "15.000 km/año, consumo implícito ~12,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~12,9 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -607,10 +607,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -682,7 +682,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 132,
       notas:
-        "15.000 km/año, consumo implícito ~16,6 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~16,6 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -713,7 +713,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -722,7 +722,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "digitaltrends.com",
     fuenteUrl: "https://www.digitaltrends.com",
@@ -750,7 +750,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "300 CV con tracción total y 0-100 en unos 6 segundos",
+      "300 CV con tracción total y 0-100 km/h en unos 6 segundos",
       "486 km de autonomía EPA con la batería de 85 kWh",
       "Interior de lujo con pantalla curva de 33 pulgadas",
       "Maletero de 744 litros, práctico para un premium",
@@ -785,7 +785,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 148,
       notas:
-        "15.000 km/año, consumo implícito ~17,5 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~17,5 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -816,7 +816,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -825,7 +825,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "autoanalitica.com.mx",
     fuenteUrl: "https://www.autoanalitica.com.mx",
@@ -863,7 +863,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       "No se vende en Europa: solo Norteamérica",
       "Desde ~72.000 €: precio de superlujo",
       "5,22 metros: un trasatlántico para aparcar",
-      "Consumo elevado (~21 kWh/100 km) por peso y potencia",
+      "Consumo elevado (~21 kWh cada 100 km) por peso y potencia",
       "La autonomía real en autopista baja de los 400 km",
     ],
     largoMm: 5220,
@@ -888,7 +888,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 177,
       notas:
-        "15.000 km/año, consumo implícito ~21,3 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~21,3 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -919,7 +919,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -928,7 +928,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "wardsauto.com",
     fuenteUrl: "https://www.wardsauto.com",
@@ -991,7 +991,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 180,
       notas:
-        "15.000 km/año, consumo implícito ~25,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~25,9 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1022,7 +1022,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1031,7 +1031,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "motorillustrated.com",
     fuenteUrl: "https://www.motorillustrated.com",
@@ -1094,7 +1094,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 161,
       notas:
-        "15.000 km/año, consumo implícito ~20,7 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~20,7 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1125,7 +1125,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1134,7 +1134,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "autocosmos.com",
     fuenteUrl: "https://www.autocosmos.com",
@@ -1197,7 +1197,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 173,
       notas:
-        "15.000 km/año, consumo implícito ~25,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km al año, consumo implícito ~25,9 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1228,7 +1228,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no lanzado en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1237,7 +1237,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "goodcarbadcar.net",
     fuenteUrl: "https://www.goodcarbadcar.net",
@@ -1300,7 +1300,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 211,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Modelo aún no lanzado: cifras orientativas.",
+        "15.000 km al año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Modelo aún no lanzado: cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -1331,7 +1331,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no lanzado, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1340,7 +1340,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de mantenimiento recomendado por el fabricante (EE. UU.)",
+      fuente: "Plan de mantenimiento sugerido por el fabricante (EE. UU.)",
     },
     fuenteNombre: "electrek.co",
     fuenteUrl: "https://electrek.co",
@@ -1403,7 +1403,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 107,
       notas:
-        "15.000 km/año, consumo implícito ~11,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~11,2 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1431,10 +1431,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1470,7 +1470,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["El 1.5 turbo A415TD entrega 190 CV y 260 Nm en un SUV de 4.562 mm: cifras de compacto deportivo en un coche pensado para China interior, no para postureo urbano.", "Con 1.917 mm de anchura y 2.700 mm de batalla, el habitáculo aprovecha de verdad el formato: hombros holgados delante y una banqueta trasera utilizable por adultos.", "El maletero parte de 605 litros en la versión de gasolina, un volumen que en Europa obligaría a mirar un segmento por encima pagando mucho más.", "El cambio de doble embrague de siete marchas y el 0 a 100 km/h en 8,8 segundos le dan una respuesta inmediata en incorporaciones, sin recurrir a un CVT.", "Su precio de referencia en China, en torno a 13.000 euros al cambio según la propia ficha, deja en evidencia el sobrecoste de cualquier SUV equivalente vendido en España."],
+    pros: ["El 1.5 turbo A415TD entrega 190 CV y 260 Nm en un SUV de 4.562 mm: cifras de compacto deportivo en un coche pensado para China interior, no para postureo urbano.", "Con 1.917 mm de anchura y 2.700 mm de batalla, el habitáculo aprovecha de verdad el formato: hombros holgados delante y una banqueta trasera utilizable por adultos.", "El maletero parte de 605 litros en la versión de gasolina, un volumen que en Europa obligaría a mirar un segmento por encima pagando mucho más.", "El cambio de doble embrague de siete marchas y el 8,8 s en el 0-100 km/hegundos le dan una respuesta inmediata en incorporaciones, sin recurrir a un CVT.", "Su precio de referencia en China, en torno a 13.000 euros al cambio según la propia ficha, deja en evidencia el sobrecoste de cualquier SUV equivalente vendido en España."],
     contras: ["En España no se puede comprar nuevo: no hay red Venucia, ni homologación europea, ni recambios garantizados fuera de la importación paralela por cuenta propia.", "Esta variante es gasolina pura, sin microhibridación ni etiqueta ECO de la DGT: se queda en etiqueta C y penaliza en zonas de bajas emisiones.", "La caída coupé del techo, que en las fotos vende deportividad, recorta altura libre en las plazas traseras y complica meter a un adulto alto detrás.", "No consta prueba Euro NCAP: al no comercializarse en Europa, quien lo importe viaja sin una referencia independiente de seguridad comparable a la de sus rivales."],
     largoMm: 4562,
     anchoMm: 1917,
@@ -1494,7 +1494,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 177,
       notas:
-        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo estimado ~7,5 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1520,7 +1520,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     analisisSlug: "venucia-v-online-2025-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP."},
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1580,7 +1580,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 175,
       notas:
-        "15.000 km/año, consumo estimado ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo estimado ~8 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1606,7 +1606,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     analisisSlug: "dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica",
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP."},
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1678,7 +1678,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 170,
       notas:
-        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo estimado ~7,5 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1709,7 +1709,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1781,7 +1781,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 144,
       notas:
-        "15.000 km/año, consumo estimado ~6,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado internacional).",
+        "15.000 km al año, consumo estimado ~6,5 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado internacional).",
       estimado: true,
     },
     galeria: [
@@ -1812,7 +1812,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1884,7 +1884,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 168,
       notas:
-        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo estimado ~7,5 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1912,10 +1912,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1987,7 +1987,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 200,
       notas:
-        "15.000 km/año, consumo estimado ~8,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo estimado ~8,5 l cada 100 km, gasolina a 1,6 €/l, con seguro a todo riesgo. Precio orientativo del coche (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2015,10 +2015,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 10.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -2090,7 +2090,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 75,
       notas:
-        "15.000 km/año, consumo implícito ~8,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~8,2 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2118,10 +2118,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -2193,7 +2193,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 97,
       notas:
-        "15.000 km/año, consumo implícito ~11,7 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado brasileño).",
+        "15.000 km al año, consumo implícito ~11,7 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado brasileño).",
       estimado: true,
     },
     galeria: [
@@ -2224,7 +2224,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no vendido en Europa, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -2296,7 +2296,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 79,
       notas:
-        "15.000 km/año, consumo implícito ~10 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~10 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2324,10 +2324,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -2399,7 +2399,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 70,
       notas:
-        "15.000 km/año, consumo implícito ~10,4 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km al año, consumo implícito ~10,4 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2427,10 +2427,10 @@ export const COCHES_LOTE5: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo exclusivo de China, no probado",
+      nota: "Sin datos EuroNCAP: modelo solo de China, no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 20.000 km, lo que antes ocurra",
+      intervalo: "Cada 12 meses o 20.000 km, según lo que llegue primero",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",

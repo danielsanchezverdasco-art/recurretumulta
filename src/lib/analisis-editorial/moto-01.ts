@@ -265,7 +265,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-c-400-x-2026": {
     parrafos: [
-      "El C 400 X de 2026 continúa la saga del scooter urbano de BMW nacida en 2018 y actualizada en 2021: 34 CV (25 kW) y 35 Nm de un 350 cc, con 199 kg declarados en orden de marcha y un depósito de 13 litros. Es la propuesta alemana para el commuting premium, con la electrónica y el acabado que caracterizan a la marca. La ficha sitúa su precio en un nivel orientativo de 7.690 €, aunque advierte de que no es oficial.",
+      "El C 400 X de 2026 continúa la saga del scooter urbano de BMW nacida en 2018 y actualizada en 2021: 34 CV (25 kW) y 35 Nm de un 350 cc, con 199 kg declarados en orden de marcha, con un depósito de 13 litros. Es la propuesta alemana para el commuting premium, con la electrónica y el acabado que caracterizan a la marca. La ficha sitúa su precio en un nivel orientativo de 7.690 €, aunque advierte de que no es oficial.",
       "La nota de la ficha invita a contrastar el PVP en la web oficial o en el punto de venta antes de comprometerse, y otro tanto cabe decir de la garantía, expresada con carácter orientativo. Superado ese trámite, el C 400 X de 2026 conserva su territorio: el scooter medio más tecnológico y costoso, dirigido a quien acumula kilómetros urbanos y prima la seguridad activa y la conectividad. De respetarse la cifra avanzada, continuará siendo la referencia premium entre los scooters medios.",
     ],
     veredicto: "Para el commuter premium que valora tecnología; confirmar el precio oficial antes de decidir.",
@@ -286,7 +286,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-ce-02-2026": {
     parrafos: [
-      "El CE 02 de 2026 mantiene la apuesta e-parkourer de BMW nacida en 2023: motor eléctrico de 11 kW (15 CV) con 55 Nm de par, 132 kg declarados y el máximo legal para el carnet A1. Es la eléctrica urbana de la hélice en su expresión más juvenil y desenfadada, pensada para la ciudad y para pilotos que valoran el diseño tanto como la movilidad. La ficha la sitúa en un precio orientativo de 8.425 €, no oficial.",
+      "El CE 02 de 2026 mantiene la apuesta e-parkourer de BMW nacida en 2023: motor eléctrico de 11 kW (15 CV) con 55 Nm de par, 132 kg declarados y el máximo legal para el carnet A1. Es la eléctrica urbana de la hélice en su expresión más juvenil y desenfadada, pensada para la ciudad y para pilotos que valoran el diseño tanto como la movilidad. La ficha la deja en un precio orientativo de 8.425 €, no oficial.",
       "La cifra de la ficha tiene valor indicativo, así que el PVP conviene verificarlo en la web oficial o en el concesionario antes de decidirse. El concepto, en cambio, llega consolidado a 2026: 15 CV eléctricos de entrega inmediata, 132 kg de ligereza y una estética rompedora que continúa sin rival directo en el mercado. Para el urbanita joven con carnet A1 que busca una eléctrica con personalidad propia y cero emisiones, el CE 02 mantiene su vitola de la opción más expresiva y divertida del segmento urbano.",
     ],
     veredicto: "Para jóvenes urbanos con A1 que buscan diseño eléctrico; verificar el precio oficial antes de comprar.",
@@ -294,7 +294,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   "bmw-ce-04-ficha-tecnica-precio": {
     parrafos: [
       "El CE 04 nació como ejercicio de estilo: el prototipo Concept Link de 2017 anticipaba el scooter del futuro, y BMW lo llevó a la producción casi sin cambios. Su motor guarda parentesco con los híbridos enchufables X3 xDrive30e y 225xe, y con 42 CV firma el 0 a 50 más fulgurante del segmento —2,6 segundos— pese a los 231 kg de la báscula. Una batería de 8,9 kWh le otorga 130 km de alcance.",
-      "El cargador veloz opcional de 6,9 kW repone del 20 al 80 % en tres cuartos de hora, y existe una variante de 11 kW para el A1 o el B con tres años de antigüedad. Es el más costoso de la comparativa —la tarifa supera los doce mil euros—, pero a cambio aúna empuje de moto, distintivo Cero y un diseño de ciencia ficción. Para el commuter que busca diferenciarse electrificando su rutina, no hay rival con tanto carácter.",
+      "El cargador veloz opcional de 6,9 kW repone del 20 al 80 % en tres cuartos de hora, y existe una variante de 11 kW para el A1 o el B con tres años de antigüedad, y es el más costoso de la comparativa —la tarifa supera los doce mil euros—, pero a cambio aúna empuje de moto, distintivo Cero y un diseño de ciencia ficción. Para el commuter que busca diferenciarse electrificando su rutina, no hay rival con tanto carácter.",
     ],
     veredicto: "Para el scooterista eléctrico que quiere lo máximo en prestaciones; no para quien mire el precio o el peso en parado.",
   },
@@ -324,7 +324,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
       "La F 450 R de 2026 lleva al mundo naked la mecánica de su hermana trail: cuarenta y ocho caballos en el límite del A2 y 175 kilos, el mejor cociente peso-potencia de las naked limitadas. El paquete de ayudas es de moto grande —frenada en curva con IMU, controles de tracción y de frenada motor, tres modos—, y su sonido resulta inconfundible gracias a una configuración de cigüeñal inédita en el segmento. El motor lo fabrica TVS en India, como en toda la familia F 450. Por 6.799 € es la naked A2 más avanzada tecnológicamente.",
       "De serie, la versión básica prescinde del cambio semiautomático Shift Assistant Pro y de la horquilla Sport; el embrague automático Easy Ride —que gestiona arrancadas y cambios sin intervención en la maneta— solo figura en la M Sport Innovation de 7.550 €. La factura, como es norma en la casa, se construye a base de opcionales. Con todo, la base mantiene lo esencial: 175 kilos, 48 caballos y unas ayudas —ABS en curva, DTC, DBC— sin parangón entre las naked limitadas al A2.",
     ],
-    veredicto: "Para el A2 que quiere la naked más tecnológica; no para quien busque la opción más barata sin extras.",
+    veredicto: \"Para el A2 que busca la naked más tecnológica; no para quien busque la opción más barata sin extras.",
   },
   "bmw-f-750-gs-2024-ficha-tecnica-precio": {
     parrafos: [
@@ -377,7 +377,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-f-900-gs-adventure-2026": {
     parrafos: [
-      "La F 900 GS Adventure de 2026 continúa la estirpe viajera nacida en 2024: 105 CV (77,2 kW) y 93 Nm del bicilíndrico de 895 cc, 246 kg declarados y un depósito de 23 litros para devorar distancias. La ficha la sitúa en un precio orientativo de 15.640 €, no oficial, así que conviene confirmarlo en el concesionario. Es la GS media con autonomía de grande, pensada para el viajero que no quiere la mole de la 1300.",
+      "La F 900 GS Adventure de 2026 continúa la estirpe viajera nacida en 2024: 105 CV (77,2 kW) y 93 Nm del bicilíndrico de 895 cc, 246 kg declarados y un depósito de 23 litros para devorar distancias. La ficha la deja en un precio orientativo de 15.640 €, no oficial, así que conviene confirmarlo en el concesionario. Es la GS media con autonomía de grande, pensada para el viajero que no quiere la mole de la 1300.",
       "Los 246 kg declarados confirman dónde se siente en casa: en la carretera, porque en el campo técnico cada kilo penaliza y aquí abundan. En cambio, para el gran turismo por asfalto y pistas en buen estado, la terna de 105 CV, 23 litros de depósito y electrónica BMW resulta difícil de batir en su franja. La tarifa publicada es orientativa y conviene ratificarla en el concesionario; de mantenerse, esta Adventure seguirá siendo la rutera media más completa de la gama GS.",
     ],
     veredicto: "Para el gran viaje en formato medio; confirmar el precio oficial y asumir su peso.",
@@ -405,7 +405,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-f-900-r-2026": {
     parrafos: [
-      "La F 900 R de 2026 en su ficha de nueva generación declara 105 CV (77 kW) y 92 Nm del bicilíndrico de 895 cc, con 211 kg en orden de marcha y un depósito de 13 litros. Nacida en 2020 como sustituta de la F 800 R y adaptada a la Euro 5 en 2022, es la naked media de BMW consolidada: motor probado, chasis conocido y una electrónica que ha ido creciendo con los años. La ficha la sitúa en un precio orientativo de 12.950 €, no oficial.",
+      "La F 900 R de 2026 en su ficha de nueva generación declara 105 CV (77 kW) y 92 Nm del bicilíndrico de 895 cc, con 211 kg en orden de marcha, con un depósito de 13 litros. Nacida en 2020 como sustituta de la F 800 R y adaptada a la Euro 5 en 2022, es la naked media de BMW consolidada: motor probado, chasis conocido y una electrónica que ha ido creciendo con los años. La ficha la deja en un precio orientativo de 12.950 €, no oficial.",
       "La tarifa indicada es orientativa y conviene contrastarla en el concesionario, ya que podría corresponder a una unidad con equipamiento opcional. Al margen de la cifra, la F 900 R continúa siendo la naked de BMW para el motorista que busca diversión sin desmesura: 105 CV ofrecen mucho juego en carretera, la parte ciclo transmite confianza y su equilibrio global la mantiene entre las naked medias más juiciosas y agradables del mercado actual.",
     ],
     veredicto: "Para la naked media probada y equilibrada; confirmar el precio, que figura como orientativo.",
@@ -447,7 +447,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-g-310-r-2025": {
     parrafos: [
-      "La G 310 R de 2025 mantiene su papel de naked de acceso a BMW: 34 CV (25 kW) y 28 Nm del 313 cc, con 158 kg declarados en orden de marcha —una cifra muy contenida— y un depósito de 11 litros. Nacida en 2016 y actualizada en 2021, es la pequeña naked de la hélice en plena madurez. La ficha la sitúa en un precio orientativo de 5.810 €, no oficial, que de confirmarse la haría aún más tentadora.",
+      "La G 310 R de 2025 mantiene su papel de naked de acceso a BMW: 34 CV (25 kW) y 28 Nm del 313 cc, con 158 kg declarados en orden de marcha —una cifra muy contenida— y un depósito de 11 litros. Nacida en 2016 y actualizada en 2021, es la pequeña naked de la hélice en plena madurez. La ficha la deja en un precio orientativo de 5.810 €, no oficial, que de confirmarse la haría aún más tentadora.",
       "Con 158 kg declarados figura entre las naked más ligeras de su entorno, y en la ciudad se percibe: ágil, dócil y perdonadora con los errores del novel. Sus fronteras son las sabidas —autopista justa y autonomía corta por el depósito de 11 litros—, pero como instrumento de aprendizaje y movilidad urbana con terminación premium, rinde a gran nivel. La ficha muestra un precio orientativo pendiente de confirmación oficial; de validarse, el A2 que busque su primera moto seria sin gran desembolso seguirá teniendo en la G 310 R de 2025 la BMW más juiciosa.",
     ],
     veredicto: "Para la primera naked ligera y económica; verificar el precio oficial antes de comprar.",
@@ -482,7 +482,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-m-1000-rr-2026": {
     parrafos: [
-      "La M 1000 RR de 2026 lleva la superbike de BMW un paso más allá: 212 CV (155,9 kW) y 113 Nm de un 999 cc, con 193 kg declarados en orden de marcha y un depósito de 17 litros. Nacida en 2021 y evolucionada entre 2023 y 2025, es la M de circuito en su expresión más afilada. La ficha la sitúa en un precio orientativo de 42.410,05 €, no oficial, así que conviene confirmarlo antes de soñar demasiado.",
+      "La M 1000 RR de 2026 lleva la superbike de BMW un paso más allá: 212 CV (155,9 kW) y 113 Nm de un 999 cc, con 193 kg declarados en orden de marcha, con un depósito de 17 litros. Nacida en 2021 y evolucionada entre 2023 y 2025, es la M de circuito en su expresión más afilada. La ficha la deja en un precio orientativo de 42.410,05 €, no oficial, así que conviene confirmarlo antes de soñar demasiado.",
       "Con 212 CV para 193 kg, la relación peso-potencia linda con lo irracional, y su hábitat continúa siendo el circuito: se trata de una moto de carreras homologada para circular, no de una rutera con aspiraciones. La evolución ininterrumpida desde 2021 evidencia que BMW no deja de afilar su arma de WorldSBK. El precio de la ficha es orientativo y exige confirmación, pero para el piloto de tandas que ansía lo último de la hélice, la M 1000 RR de 2026 representa la referencia absoluta.",
     ],
     veredicto: "Para el circuito con la superbike definitiva de BMW; confirmar el precio oficial, que es orientativo.",
@@ -559,7 +559,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   },
   "bmw-r-12-s-2026": {
     parrafos: [
-      "La R 12 S de 2026 continúa el homenaje a la R 90 S nacido en 2025: 109 CV (80,1 kW) y 115 Nm del bóxer de 1.170 cc, 220 kg declarados y un depósito de 14 litros. Es la roadster retro-deportiva de BMW, con la estética setentera y la mecánica probada de la familia Heritage. La ficha la sitúa en un precio orientativo de 22.495 €, no oficial, así que conviene confirmarlo en el concesionario.",
+      "La R 12 S de 2026 continúa el homenaje a la R 90 S nacido en 2025: 109 CV (80,1 kW) y 115 Nm del bóxer de 1.170 cc, 220 kg declarados y un depósito de 14 litros. Es la roadster retro-deportiva de BMW, con la estética setentera y la mecánica probada de la familia Heritage. La ficha la deja en un precio orientativo de 22.495 €, no oficial, así que conviene confirmarlo en el concesionario.",
       "Como en toda moto homenaje, su valía reside en la evocación antes que en las cifras: 109 CV no deslumbran sobre el papel, pero la amalgama de diseño setentero, historia y bóxer ejerce un magnetismo innegable. La tarifa publicada es orientativa y conviene verificarla en el concesionario antes de ilusionarse. Para el aficionado a las clásicas que desea una moto nueva con alma vintage, respaldo oficial y ese guiño a la R 90 S de 1973, la R 12 S de 2026 constituye la propuesta más emocional del catálogo Heritage.",
     ],
     veredicto: "Para el emocional del retro con garantía nueva; verificar el precio oficial antes de decidir.",
@@ -658,7 +658,7 @@ export const ANALISIS_MOTO_01: MapaAnalisis = {
   "bmw-r-18-roctane-2025-ficha-tecnica-precio": {
     parrafos: [
       "La BMW R 18 Roctane de 2025 es la bagger custom de la familia: Big Boxer de 1.802 cc con 158 Nm a solo 3.000 rpm —empuje de tractor—, estética bagger con maletas rígidas y rueda delantera de 21 pulgadas, y un asiento bajo a 720 mm que permite llegar al suelo con facilidad. Su motor es el bóxer de mayor cilindrada jamás fabricado en serie por BMW, y el nombre juega con rock y el octanaje de la gasolina. Por 28.930 € es estilo puro.",
-      "Desplazar 374 kg reclama respeto y anticipación, y los 91 CV frente a 28.930 € confirman que aquí se abona estilo, no caballería: el 0 a 100 en 5,46 segundos no engaña. La Roctane ni siquiera finge buscar la velocidad; aspira a ser deseada, con su rueda de 21 pulgadas, las maletas rígidas y el asiento a 720 mm que facilita apoyar los pies. El bóxer de mayor cilindrada jamás fabricado en serie por BMW late bajo ese diseño bagger. Para el customero esteta, es la R 18 más personal y teatral.",
+      "Desplazar 374 kg reclama respeto y anticipación, y los 91 CV frente a 28.930 € confirman que aquí se abona estilo, no caballería: el 5,46 s en el 0-100 km/hegundos no engaña. La Roctane ni siquiera finge buscar la velocidad; aspira a ser deseada, con su rueda de 21 pulgadas, las maletas rígidas y el asiento a 720 mm que facilita apoyar los pies. El bóxer de mayor cilindrada jamás fabricado en serie por BMW late bajo ese diseño bagger. Para el customero esteta, es la R 18 más personal y teatral.",
     ],
     veredicto: "Para el estilo bagger custom máximo; no para las prestaciones ni para pilotos sin experiencia en peso.",
   },

@@ -590,7 +590,7 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
   },
   "maserati-levante-modena-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Levante Modena es el escalón intermedio del SUV: 350 CV de gasolina y cinco plazas. Sin precio en la ficha, situado entre el GT híbrido y el Trofeo.",
+      "El Levante Modena es el escalón intermedio del SUV: 350 CV de gasolina y cinco plazas, y la ficha no trae precio, situado entre el GT híbrido y el Trofeo.",
       "El acabado Modena viste al Levante con más equipamiento y detalles exclusivos, manteniendo una potencia contenida. Es el Levante para quien encuentra el GT demasiado básico pero no necesita los 580 CV del Trofeo: el equilibrio de la gama, con el carácter italiano intacto.",
       "Entre el GT híbrido de 330 CV y el Trofeo de 580 CV, el Modena ocupa el espacio central del Levante con 350 CV de gasolina y una dotación superior. No persigue la eficiencia del primero ni la brutalidad del segundo: aspira a ser el SUV italiano que se disfruta cada día sin pedir nada a cambio. El lujo cotidiano también tiene su jerarquía, y el Modena la lidera por sensatez. El equilibrio, bien entendido, también puede ser apasionante.",
     ],
@@ -598,7 +598,7 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
   },
   "maserati-levante-trofeo-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Levante Trofeo es el SUV más potente de Maserati: 580 CV de gasolina y cinco plazas. Sin precio en la ficha, pero el tope de la gama Levante por definición.",
+      "El Levante Trofeo es el SUV más potente de Maserati: 580 CV de gasolina y cinco plazas, y la ficha no trae precio, pero el tope de la gama Levante por definición.",
       "580 CV en un SUV de cinco plazas: el Trofeo es la respuesta italiana a los SUV superdeportivos alemanes. El Levante más deseado y el más caro de mantener, con un carácter que ningún híbrido puede replicar. En la era de la electrificación, un SUV de 580 CV de gasolina es ya una declaración.",
       "580 CV en un SUV de cinco plazas: el Levante Trofeo es la prueba de que la familia y la pasión no están reñidas. Es el SUV italiano más visceral, con un sonido y un empuje que ningún híbrido puede igualar. Caro de comprar y de mantener, pero inolvidable de conducir. El rugido del Trofeo al arrancar en frío es de esas experiencias que justifican por sí solas la compra: la mecánica también es música, y esta suena muy alto.",
     ],
@@ -654,7 +654,7 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
   },
   "maserati-quattroporte-gt-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Quattroporte GT es la berlina insignia de Maserati en su versión de acceso: 350 CV de gasolina y cinco plazas. Sin precio en la ficha, pero la puerta de entrada a la berlina grande del tridente.",
+      "El Quattroporte GT es la berlina insignia de Maserati en su versión de acceso: 350 CV de gasolina y cinco plazas, y la ficha no trae precio, pero la puerta de entrada a la berlina grande del tridente.",
       "El Quattroporte es historia viva del automóvil italiano: seis generaciones de berlina deportiva de lujo. El GT mantiene la esencia —elegancia, confort y carácter— sin los excesos del Trofeo. La berlina para quien viaja con estilo y sin prisa.",
       "El Quattroporte es la berlina que inventó el concepto de gran turismo italiano de cuatro puertas, y el GT mantiene esa llama con 350 CV. Seis generaciones después, sigue siendo la alternativa con alma a las berlinas alemanas. El lujo italiano no se mide en gadgets, se mide en carácter. Su comprador valora la discreción del lujo italiano frente al exhibicionismo de otras marcas: el Quattroporte GT no necesita gritar para imponerse, y seis generaciones de historia pesan más que cualquier pantalla táctil.",
     ],
@@ -670,7 +670,7 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
   },
   "maserati-quattroporte-trofeo-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Quattroporte Trofeo es la berlina más potente de la historia de Maserati: 580 CV de gasolina y cinco plazas. Sin precio en la ficha, pero el tope absoluto de la berlina del tridente.",
+      "El Quattroporte Trofeo es la berlina más potente de la historia de Maserati: 580 CV de gasolina y cinco plazas, y la ficha no trae precio, pero el tope absoluto de la berlina del tridente.",
       "580 CV en una berlina de lujo de cinco plazas: el Trofeo es el sleeper por excelencia, capaz de todo sin levantar la voz. Como despedida de la era térmica en la gran berlina, tiene un valor simbólico además del prestacional. El Quattroporte definitivo para los puristas.",
       "580 CV en la berlina insignia: el Quattroporte Trofeo es el último mohicano de las grandes berlinas térmicas italianas. Cuando la electrificación complete su avance, este coche será recordado como el final de una era. Comprarlo ahora es asegurarse un pedazo de historia con matrícula. El Trofeo es el Quattroporte que se recordará: 580 CV de gasolina en la berlina insignia, un final de era con matrícula y con la banda sonora que solo la combustión sabe componer.",
     ],

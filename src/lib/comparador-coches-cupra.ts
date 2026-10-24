@@ -37,7 +37,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     aprox: [],
     pros: [
       "Restyling 2024: frontal 'nariz de tiburón', faros Matrix LED de tres triángulos y logo iluminado",
-      "El 1.5 eTSI de 150 CV lleva etiqueta ECO y homologa solo 5,4 l/100 km",
+      "El 1.5 eTSI de 150 CV lleva etiqueta ECO y homologa solo 5,4 l cada 100 km",
       "Gama amplísima: del 1.5 TSI de acceso al VZ de 325 CV y los eHybrid con etiqueta Cero",
       "Chasis MQB Evo muy bien puesto a punto: tacto deportivo sin renunciar al confort",
       "Hecho en Martorell: el compacto español que planta cara al Golf GTI y compañía",
@@ -63,7 +63,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 228,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,4 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un compacto de ~34.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,4 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un compacto de ~34.000 €",
       "estimado": true
     },
     galeria: [
@@ -121,7 +121,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     aprox: [],
     pros: [
       "Maletero de 620 L: de los más grandes entre los compactos familiares",
-      "El 1.5 eTSI de 150 CV con etiqueta ECO homologa solo 5,5 l/100 km",
+      "El 1.5 eTSI de 150 CV con etiqueta ECO homologa solo 5,5 l cada 100 km",
       "Mismo restyling 2024 que el León 5p: diseño Cupra sin complejos",
       "Versión VZ de 333 CV con tracción total 4Drive para quien quiera lo máximo",
       "eHybrid de 204 CV con etiqueta Cero y más de 100 km de autonomía eléctrica",
@@ -147,7 +147,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 234,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un familiar de ~35.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,5 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un familiar de ~35.000 €",
       "estimado": true
     },
     galeria: [
@@ -231,7 +231,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año y consumo supuesto de 13,5 kWh/100 km (sin dato WLTP publicado para la versión de acceso de 116 CV); seguro y mantenimiento orientativos",
+      "notas": "estimado con 15.000 km al año y consumo supuesto de 13,5 kWh cada 100 km (sin dato WLTP publicado para la versión de acceso de 116 CV); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -305,7 +305,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 132,
     "aprox": [],
     "pros": ["31.752 €: es el León más barato de la gama Cupra 2025 y la forma más económica de estrenar el compacto de Martorell", "Caja manual de seis velocidades con 150 CV y 250 Nm: el León de acceso se conduce con tres pedales, sin DSG", "Su sprint hasta los 100 km/h se cierra en 8,9 s y la punta se queda en 215 km/h pesando solo 1.373 kg", "Conserva los 380 litros de maletero de los VZ de 300 y 325 CV, sin batería que le robe espacio", "Heredó del restyling de 2024 el frontal de faros triangulares y la pantalla central de 12,9 pulgadas"],
-    "contras": ["Lleva etiqueta C de la DGT: el sistema mild-hybrid de 48 V que otorga la ECO está reservado al 1.5 eTSI automático", "Quien quiera cambio DSG tendrá que pagar el salto al eTSI; este 1.5 TSI solo se ofrece con el manual de seis marchas", "Sus 150 CV quedan lejos del carácter Cupra pleno: el VZ 300 tarda 3,2 s menos en el 0 a 100 km/h", "Por 10.588 € más, el e-Hybrid de 204 CV añade etiqueta Cero y 126 km de autonomía eléctrica homologada", "Homologa una media de 5,8 l/100 km, pero el uso urbano real ronda los 7,5 l/100 km estimados en esta ficha"],
+    "contras": ["Lleva etiqueta C de la DGT: el sistema mild-hybrid de 48 V que otorga la ECO está reservado al 1.5 eTSI automático", "Quien quiera cambio DSG tendrá que pagar el salto al eTSI; este 1.5 TSI solo se ofrece con el manual de seis marchas", "Sus 150 CV quedan lejos del carácter Cupra pleno: el VZ 300 tarda 3,2 s menos en el 0 a 100 km/h", "Por 10.588 € más, el e-Hybrid de 204 CV añade etiqueta Cero y 126 km de autonomía eléctrica homologada", "Homologa una media de 5,8 l cada 100 km, pero el uso urbano real ronda los 7,5 l cada 100 km estimados en esta ficha"],
     "imagen": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-oficial.webp",
     "imagenInteriorOficial": "/media/cupra-leon-15-tsi-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -367,7 +367,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Delantera",
     "emisionesCo2": 9,
     "aprox": [],
-    "pros": ["Homologa 126 km en modo eléctrico, cifra que lo sitúa por delante de compactos enchufables como el Volkswagen Golf eHybrid o el Peugeot 308 Hybrid para cubrir la semana laboral sin arrancar el térmico", "Reúne 204 CV y 350 Nm en un cinco puertas de tracción delantera que despacha el 0 a 100 en 7,7 segundos y, aun así, conserva la etiqueta Cero de la DGT", "Acepta recarga en corriente continua a 50 kW, así que una parada corta en un cargador público repone buena parte de su batería de 19,7 kWh sin convertir cada viaje en una espera eterna", "Mantiene el formato bajo y manejable del León de siempre: 4.368 mm de largo y 1.467 mm de alto, sin la carrocería elevada ni el volumen visual de sus hermanos SUV de Cupra", "La batería de tracción va respaldada por una cobertura de 8 años o 160.000 km, un colchón tranquilizador para quien estrena tecnología enchufable en su compacto de diario"],
+    "pros": ["Homologa 126 km en modo eléctrico, cifra que lo sitúa por delante de compactos enchufables como el Volkswagen Golf eHybrid o el Peugeot 308 Hybrid para cubrir la semana laboral sin arrancar el térmico", "Reúne 204 CV y 350 Nm en un cinco puertas de tracción delantera que despacha el 7,7 s en el 0-100 km/hegundos y, aun así, conserva la etiqueta Cero de la DGT", "Acepta recarga en corriente continua a 50 kW, así que una parada corta en un cargador público repone buena parte de su batería de 19,7 kWh sin convertir cada viaje en una espera eterna", "Mantiene el formato bajo y manejable del León de siempre: 4.368 mm de largo y 1.467 mm de alto, sin la carrocería elevada ni el volumen visual de sus hermanos SUV de Cupra", "La batería de tracción va respaldada por una cobertura de 8 años o 160.000 km, un colchón tranquilizador para quien estrena tecnología enchufable en su compacto de diario"],
     "contras": ["El maletero se queda en 270 litros para cinco ocupantes: la compra grande del mes o dos maletas medianas ya obligan a abatir respaldos o a renunciar a equipaje", "Arranca en 42.340 euros, un desembolso serio para un compacto que solo compensa si la mayoría de tus kilómetros salen del enchufe y no del depósito", "Marca 1.673 kg en la báscula, un lastre palpable en rotondas y frenadas que ningún compacto térmico equivalente tiene que arrastrar curva tras curva", "Sin plaza de garaje propia ni punto de carga en el trabajo, alimentarlo cada noche en la calle se convierte en una gestión constante que acaba cansando al más convencido", "Todo el empuje llega a las ruedas delanteras: con 350 Nm disponibles casi al instante, sobre mojado o al salir fuerte de un cruce la electrónica debe recortar para no perder tracción"],
     "imagen": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-leon-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
@@ -547,7 +547,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     pros: [
       "325 CV y 420 Nm con tracción delantera y diferencial autoblocante mecánico: el León más potente de la historia",
       "49.514 € (km77): producción limitada a 1.500 unidades para todo el mundo",
-      "0-100 km/h en 5,4 s y 270 km/h sin limitador: prestaciones de Golf R por menos dinero",
+      "5,4 s en el 0-100 km/h y 270 km/h sin limitador: prestaciones de Golf R por menos dinero",
       "Frenos Akebono de 6 pistones y chasis adaptativo DCC de serie",
       "Maletero de 380 L intacto: tan usable a diario como un León normal"
     ],
@@ -763,7 +763,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "contras": [
       "55.820 €: el León más caro de la historia",
       "Etiqueta C: sin ventajas en ZBE",
-      "Consumo real alto (8,3 l/100 km WLTP)",
+      "Consumo real alto (8,3 l cada 100 km WLTP)",
       "El Golf R Variant es su gemelo por más dinero",
       "Poco stock: es una versión de nicho"
     ],
@@ -854,14 +854,14 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 131,
     "aprox": [],
     "pros": ["Presentado en 2020, fue el primer CUPRA sin equivalente en SEAT: se diseñó y se fabrica en Martorell y toma el nombre del cabo mallorquín de Formentor", "El apoyo de 48 voltios permite rodar unos metros con el térmico apagado, recuperar energía al frenar y arrancar siempre desde ese sistema, sin tirar de la batería de 12 V", "Es el escalón de acceso del modelo tras el rediseño: 35.883 € y cambio DSG de siete velocidades de serie, sin alternativa manual en esta motorización", "La renovación de 2024 estrenó frontal de nariz de tiburón, firma lumínica triangular, logotipo trasero iluminado y pantalla de 12,9 pulgadas en el salpicadero", "Conserva íntegros los 450 litros de maletero, 105 más que los Formentor e-Hybrid, cuya batería de tracción sí ocupa espacio bajo el piso de carga"],
-    "contras": ["Pesa 1.482 kg y sus 250 Nm deben moverlo todo: con el coche cargado, en un adelantamiento conviene anticipar y dejar que el DSG busque la marcha corta", "La etiqueta ECO no da las ventajas de la Cero de los e-Hybrid: quien quiera 120 km sin quemar gasolina paga 43.480 € por el de 204 CV, 7.597 € más que este", "Sin opción de tracción total: el 4Drive queda para el VZ de 333 CV, mientras este eTSI, y hasta el VZ de 265 CV, tiran solo del eje delantero", "Detrás manda la silueta: la caída coupé del techo deja poco margen sobre la cabeza de los adultos altos en los viajes largos", "El gasto real se aleja del homologado: la propia estimación de costes de esta ficha trabaja con 7,8 l/100 km frente a los 5,9 l/100 km del ciclo WLTP"],
+    "contras": ["Pesa 1.482 kg y sus 250 Nm deben moverlo todo: con el coche cargado, en un adelantamiento conviene anticipar y dejar que el DSG busque la marcha corta", "La etiqueta ECO no da las ventajas de la Cero de los e-Hybrid: quien quiera 120 km sin quemar gasolina paga 43.480 € por el de 204 CV, 7.597 € más que este", "Sin opción de tracción total: el 4Drive queda para el VZ de 333 CV, mientras este eTSI, y hasta el VZ de 265 CV, tiran solo del eje delantero", "Detrás manda la silueta: la caída coupé del techo deja poco margen sobre la cabeza de los adultos altos en los viajes largos", "El gasto real se aleja del homologado: la propia estimación de costes de esta ficha trabaja con 7,8 l cada 100 km frente a los 5,9 l cada 100 km del ciclo WLTP"],
     "imagen": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
     "imagenInteriorOficial": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-interior-oficial.webp",
     "videoId": null,
     "videoCanal": null,
     "opiniones": [],
-    "costeMensual": {"costeEnergia100km": 12.9, "costeMensualTotal": 268, "estimado": true, "mantenimientoAnual": 400, "notas": "Cálculo propio para este eTSI suponiendo 15.000 km al año: el combustible se valora a 7,8 l/100 km reales y 1,65 € por litro, es decir 12,9 € cada 100 km; sumando la póliza amplia de 880 € y 400 € de revisiones resultan los 268 € mensuales. El precio por kWh no interviene: el sistema de 48 V no se enchufa a la red.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 880, "seguroTercerosAnual": 440},
+    "costeMensual": {"costeEnergia100km": 12.9, "costeMensualTotal": 268, "estimado": true, "mantenimientoAnual": 400, "notas": "Cálculo propio para este eTSI suponiendo 15.000 km al año: el combustible se valora a 7,8 l cada 100 km reales y 1,65 € por litro, es decir 12,9 € cada 100 km; sumando la póliza amplia de 880 € y 400 € de revisiones resultan los 268 € mensuales. El precio por kWh no interviene: el sistema de 48 V no se enchufa a la red.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 880, "seguroTercerosAnual": 440},
     "galeria": [
       {
         "src": "/media/cupra-formentor-15-etsi-2025-precio-ficha-tecnica-oficial.webp",
@@ -920,7 +920,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Delantera",
     "emisionesCo2": 9,
     "aprox": [],
-    "pros": ["Silueta de SUV coupé creada desde cero para Cupra, sin gemelo en SEAT, que aquí se combina con un conjunto enchufable de 204 CV y 350 Nm pensado para moverse a diario sin gastar gasolina", "Sus 120 km homologados en modo eléctrico permiten cubrir los trayectos cotidianos en silencio y acceder a zonas de bajas emisiones con el distintivo Cero de la DGT en el parabrisas", "El paquete de 19,7 kWh admite recarga rápida de hasta 50 kW, un recurso poco habitual entre SUV híbridos enchufables generalistas como el Kia Sportage PHEV o el Hyundai Tucson PHEV cuando surge un viaje imprevisto", "Acelera de 0 a 100 km/h en 7,9 segundos y alcanza 210 km/h, cifras que lo separan de propuestas familiares más pausadas y mantienen el carácter deportivo que se espera del primer modelo propio de la marca", "Con un consumo homologado de solo 0,4 l/100 km y 9 g/km de CO2 sobre el papel, resulta especialmente atractivo para empresas y autónomos que buscan un SUV de imagen sin renunciar a ventajas fiscales"],
+    "pros": ["Silueta de SUV coupé creada desde cero para Cupra, sin gemelo en SEAT, que aquí se combina con un conjunto enchufable de 204 CV y 350 Nm pensado para moverse a diario sin gastar gasolina", "Sus 120 km homologados en modo eléctrico permiten cubrir los trayectos cotidianos en silencio y acceder a zonas de bajas emisiones con el distintivo Cero de la DGT en el parabrisas", "El paquete de 19,7 kWh admite recarga rápida de hasta 50 kW, un recurso poco habitual entre SUV híbridos enchufables generalistas como el Kia Sportage PHEV o el Hyundai Tucson PHEV cuando surge un viaje imprevisto", "Acelera de 0 a 100 km/h en 7,9 segundos y alcanza 210 km/h, cifras que lo separan de propuestas familiares más pausadas y mantienen el carácter deportivo que se espera del primer modelo propio de la marca", "Con un consumo homologado de solo 0,4 l cada 100 km y 9 g/km de CO2 sobre el papel, resulta especialmente atractivo para empresas y autónomos que buscan un SUV de imagen sin renunciar a ventajas fiscales"],
     "contras": ["La factura arranca en 43.480 euros, un desembolso considerable si lo comparamos con las versiones de gasolina del propio Formentor y difícil de amortizar para quien recorra pocos kilómetros al año", "El hueco bajo el portón se queda en 345 litros, volumen justo para el equipaje de una familia y claramente inferior al que ofrecen alternativas enchufables de corte más práctico como el Peugeot 3008 híbrido enchufable", "Sobre la báscula marca 1.717 kg con tracción delantera, así que en puertos de montaña o rotondas enlazadas se nota una inercia que no tienen los Formentor térmicos más ligeros", "Todo su sentido depende de enchufarlo cada noche en casa o en la oficina; sin ese hábito, el motor de gasolina asume el esfuerzo y la promesa de eficiencia se diluye por completo", "No existe variante con tracción total en esta motorización, una ausencia que penaliza a quien necesita seguridad extra sobre nieve o pistas frente a SUV enchufables con reparto a las cuatro ruedas"],
     "imagen": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-ehybrid-204-2025-precio-ficha-tecnica-oficial.webp",
@@ -997,8 +997,8 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Delantera",
     "emisionesCo2": 10,
     "aprox": [],
-    "pros": ["Estrena la segunda generación del sistema e-HYBRID de CUPRA: un 1.5 TSI de 177 CV trabaja junto a un propulsor eléctrico y al cambio DSG de doble embrague, con 272 CV conjuntos y 400 Nm de par máximo", "La batería útil crece hasta 19,7 kWh y sostiene los 120 km de autonomía eléctrica de esta ficha; admite 11 kW en corriente alterna —la generación anterior se quedaba en 3,6— y carga rápida continua de 50 kW, que devuelve la batería del 10 al 80 % en aproximadamente 26 minutos", "Es un VZ del rediseño presentado a finales de abril de 2024: frontal en nariz de tiburón, firma lumínica de tres triángulos, logotipo trasero iluminado y una pantalla central que crece hasta 12,9 pulgadas", "Puede montar en opción los frenos Brembo con pinzas de cuatro pistones y discos perforados de 370 × 32 mm, un extra que CUPRA ofrece en los VZ e-HYBRID de 272 CV del Formentor y del León", "Con 0,5 l/100 km ponderados y 10 g/km de CO₂ en la ficha circula con etiqueta Cero de la DGT y puede cubrir el día a día urbano sin arrancar el motor de gasolina, pero firma 7,2 s en el 0 a 100 km/h y 220 km/h de punta cuando se le exige"],
-    "contras": ["El salto desde el e-Hybrid de 204 CV cuesta 5.680 € (49.160 frente a 43.480 € en las fichas de esta gama) y no compra ni más batería —ambos comparten la de 19,7 kWh— ni más maletero: lo que se paga es el plus de 68 CV y el acabado VZ", "La batería bajo el piso de carga recorta el maletero a 345 litros, 105 menos que los 450 de un Formentor eTSI o un VZ 265 de gasolina, y también por debajo de los 375 litros de un Audi Q3 enchufable o los 410 de un BMW X2", "Todo el empuje va a las ruedas delanteras: con 272 CV y 400 Nm no existe versión 4Drive de este enchufable, porque la tracción total queda reservada a versiones de gasolina como el VZ 333 de las fichas hermanas", "Es el Formentor más pesado de la gama aquí comparada, con 1.742 kg, y combina esa masa con un depósito de gasolina de solo 40 litros: en un viaje largo sin posibilidad de enchufar, los repostajes hay que planificarlos con más margen", "Su consumo oficial de 0,5 l/100 km solo aparece enchufándolo a diario: con la batería agotada, los datos JATO recogidos por coches.net sitúan el gasto medio en 5,6 l/100 km, así que sin enchufe habitual la etiqueta Cero no se traduce en facturas bajas"],
+    "pros": ["Estrena la segunda generación del sistema e-HYBRID de CUPRA: un 1.5 TSI de 177 CV trabaja junto a un propulsor eléctrico y al cambio DSG de doble embrague, con 272 CV conjuntos y 400 Nm de par máximo", "La batería útil crece hasta 19,7 kWh y sostiene los 120 km de autonomía eléctrica de esta ficha; admite 11 kW en corriente alterna —la generación anterior se quedaba en 3,6— y carga rápida continua de 50 kW, que devuelve la batería del 10 al 80 % en aproximadamente 26 minutos", "Es un VZ del rediseño presentado a finales de abril de 2024: frontal en nariz de tiburón, firma lumínica de tres triángulos, logotipo trasero iluminado y una pantalla central que crece hasta 12,9 pulgadas", "Puede montar en opción los frenos Brembo con pinzas de cuatro pistones y discos perforados de 370 × 32 mm, un extra que CUPRA ofrece en los VZ e-HYBRID de 272 CV del Formentor y del León", "Con 0,5 l cada 100 km ponderados y 10 g/km de CO₂ en la ficha circula con etiqueta Cero de la DGT y puede cubrir el día a día urbano sin arrancar el motor de gasolina, pero firma 7,2 s en el 0 a 100 km/h, con 220 km/h de punta cuando se le exige"],
+    "contras": ["El salto desde el e-Hybrid de 204 CV cuesta 5.680 € (49.160 frente a 43.480 € en las fichas de esta gama) y no compra ni más batería —ambos comparten la de 19,7 kWh— ni más maletero: lo que se paga es el plus de 68 CV y el acabado VZ", "La batería bajo el piso de carga recorta el maletero a 345 litros, 105 menos que los 450 de un Formentor eTSI o un VZ 265 de gasolina, y también por debajo de los 375 litros de un Audi Q3 enchufable o los 410 de un BMW X2", "Todo el empuje va a las ruedas delanteras: con 272 CV y 400 Nm no existe versión 4Drive de este enchufable, porque la tracción total queda reservada a versiones de gasolina como el VZ 333 de las fichas hermanas", "Es el Formentor más pesado de la gama aquí comparada, con 1.742 kg, y combina esa masa con un depósito de gasolina de solo 40 litros: en un viaje largo sin posibilidad de enchufar, los repostajes hay que planificarlos con más margen", "Su consumo oficial de 0,5 l cada 100 km solo aparece enchufándolo a diario: con la batería agotada, los datos JATO recogidos por coches.net sitúan el gasto medio en 5,6 l cada 100 km, así que sin enchufe habitual la etiqueta Cero no se traduce en facturas bajas"],
     "imagen": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-oficial.webp",
     "imagenInteriorOficial": "/media/cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -1376,7 +1376,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "emisionesCo2": 191,
     "aprox": [],
     "pros": ["Su nombre homenajea al óvalo peraltado de Terramar, en Sant Pere de Ribes, el circuito donde CUPRA se presentó como marca independiente en 2018", "Se ensambla en Győr (Hungría) junto al Audi Q3 y comparte la plataforma MQB Evo con el Volkswagen Tiguan, pero con puesta a punto deportiva propia", "El 2.0 TSI de 265 CV y 400 Nm, con DSG de siete marchas y tracción total 4Drive, firma 5,9 s en el 0 a 100 y 243 km/h de punta", "Sin batería de tracción que le robe sitio: carga 508 litros de maletero, 108 más que los Terramar híbridos enchufables, limitados a 400 litros", "Pesa 1.750 kg, 154 menos que el VZ e-Hybrid de 272 CV, y suma el control de chasis adaptativo DCC junto a los modos de conducción CUPRA"],
-    "contras": ["Es el Terramar más caro de esta tarifa: 55.074 €, 2.064 € por encima del VZ e-Hybrid de 272 CV, que además luce etiqueta Cero de la DGT", "Sus 191 g/km de CO2 lo colocan en el tramo del 9,75 % del impuesto de matriculación y su etiqueta C queda fuera de las ventajas de la Cero en las ZBE", "El gasto manda en el presupuesto: homologa 8,6 l/100 km y la estimación de esta ficha trabaja ya con 9,0 reales, unos 15 € de gasolina cada 100 km", "Cero electrificación en un SUV de 2025: ni microhibridación que suavice el consumo urbano ni enchufe que rebaje la factura; todo sale del depósito de 60 litros", "Su rival más incómodo duerme en casa: el Volkswagen Tiguan comparte plataforma MQB Evo y unas medidas casi calcadas, con la misma base técnica y una imagen más discreta"],
+    "contras": ["Es el Terramar más caro de esta tarifa: 55.074 €, 2.064 € por encima del VZ e-Hybrid de 272 CV, que además luce etiqueta Cero de la DGT", "Sus 191 g/km de CO2 lo colocan en el tramo del 9,75 % del impuesto de matriculación y su etiqueta C queda fuera de las ventajas de la Cero en las ZBE", "El gasto manda en el presupuesto: homologa 8,6 l cada 100 km y la estimación de esta ficha trabaja ya con 9,0 reales, unos 15 € de gasolina cada 100 km", "Cero electrificación en un SUV de 2025: ni microhibridación que suavice el consumo urbano ni enchufe que rebaje la factura; todo sale del depósito de 60 litros", "Su rival más incómodo duerme en casa: el Volkswagen Tiguan comparte plataforma MQB Evo y unas medidas casi calcadas, con la misma base técnica y una imagen más discreta"],
     "imagen": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-hero.webp",
     "imagenInteriorOficial": "/media/cupra-terramar-vz-265-2025-precio-ficha-tecnica-interior-oficial.webp",
@@ -1472,7 +1472,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía aproximada",
+      "notas": "consumo estimado aprox 16,5 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía aproximada",
       "estimado": true
     },
     "galeria": [
@@ -1555,7 +1555,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 17 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía aproximada",
+      "notas": "consumo estimado aprox 17 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía aproximada",
       "estimado": true
     },
     "galeria": [
@@ -1639,7 +1639,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 150,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 18 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía y 0-100 aproximados",
+      "notas": "consumo estimado aprox 18 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía y 0-100 aproximados",
       "estimado": true
     },
     "galeria": [
@@ -1723,7 +1723,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 156,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 19 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía y carga aproximadas",
+      "notas": "consumo estimado aprox 19 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía y carga aproximadas",
       "estimado": true
     },
     "galeria": [
@@ -1776,7 +1776,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": null,
     "aprox": [],
-    "pros": ["La tracción total 4Drive viene de serie en esta versión de 190 CV: es el Ateca de gasolina que no se queda vendido con lluvia, nieve ligera o una pista de tierra, sin tener que saltar al de 300 CV.", "Con 190 CV y 320 Nm hace el 0 a 100 km/h en 7,2 s y llega a 212 km/h: prestaciones de compacto deportivo metidas en un SUV de 4,38 m que sigue entrando en cualquier garaje comunitario.", "El maletero se queda en 485 litros con la tracción total, cifra usable para una familia de cinco sin recurrir a cofre de techo en cada escapada.", "Parte de 45.760 € según la ficha: es la puerta de entrada al Ateca con 4Drive, por debajo del escalón de potencia que históricamente encabezaba la gama."],
+    "pros": ["La tracción total 4Drive viene de serie en esta versión de 190 CV: es el Ateca de gasolina que no se queda vendido con lluvia, nieve ligera o una pista de tierra, sin tener que saltar al de 300 CV.", "Con 190 CV y 320 Nm firma el 7,2 s en el 0-100 km/h y llega a 212 km/h: prestaciones de compacto deportivo metidas en un SUV de 4,38 m que sigue entrando en cualquier garaje comunitario.", "El maletero se queda en 485 litros con la tracción total, cifra usable para una familia de cinco sin recurrir a cofre de techo en cada escapada.", "Parte de 45.760 € según la ficha: es la puerta de entrada al Ateca con 4Drive, por debajo del escalón de potencia que históricamente encabezaba la gama."],
     "contras": ["Etiqueta C de la DGT y sin ningún tipo de hibridación: en ciudades con zona de bajas emisiones cada vez más restrictiva, este 190 CV envejece peor que un rival con distintivo ECO.", "Es un modelo veterano derivado del SEAT Ateca de 2016: plataforma e interior corresponden a la generación anterior, y se nota frente al Formentor o al propio Terramar en pantallas y acabados.", "El Terramar ya es su sucesor natural en la gama Cupra, así que compras un coche a final de ciclo: bueno para negociar precio, malo para valor residual a medio plazo.", "La tracción 4Drive y el peso de un SUV de gasolina se pagan en consumo real, sobre todo en ciudad y en trayectos cortos, donde este 2.0 TSI no tiene ayuda eléctrica que lo disimule."],
     "imagen": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-hero.webp",
     "imagenOficial": "/media/cupra-ateca-190-2025-precio-ficha-tecnica-oficial.webp",
@@ -1815,7 +1815,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
         "alto": 800
       }
     ],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP propios: no consta un ensayo específico del Cupra Ateca 190 4Drive de 2025 en Euro NCAP. El coche del que deriva, el SEAT Ateca, obtuvo cinco estrellas en el ensayo de 2016, con un 93 % en protección de ocupantes adultos y un 84 % en infantil, pero esa valoración expiró en enero de 2023 y no debe presentarse como resultado vigente ni como nota del Cupra de 2025."},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos Euro NCAP propios: no consta un ensayo específico del Cupra Ateca 190 4Drive de 2025 en Euro NCAP. El coche del que deriva, el SEAT Ateca, obtuvo cinco estrellas en el ensayo de 2016, con un 93 % de protección de ocupantes adultos y un 84 % en infantil, pero esa valoración expiró en enero de 2023 y no debe presentarse como resultado vigente ni como nota del Cupra de 2025."},
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el programa de mantenimiento oficial de Cupra para el Ateca, el filtro de polvo y polen se sustituye cada 2 años o 20.000 km, el filtro de aire cada 2 años o 30.000 km, el líquido de frenos primero a los 3 años y después cada 2 años, y las bujías cada 4 años o 40.000 km. Para el cambio DSG figuran intervalos propios según la versión de la caja, de hasta 120.000 km en la de siete marchas referenciada en el programa. Es un programa de Cupra México, no un tarifario español: confirma intervalos y precios de cada revisión en un servicio oficial Cupra en España antes de comprar, porque no se ha encontrado un coste de revisión verificable para este mercado.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.cupraoficial.mx/content/dam/countries/mx/cupra-website/descargas/programas/ateca/Programa_mantenimiento_CUPRA_Ateca_cars-maintenance_program-brochure-KH76-NA-03-2021.pdf"},
   },
   {
@@ -1946,7 +1946,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 124,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 15 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía sin dato oficial",
+      "notas": "consumo estimado aprox 15 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía sin dato oficial",
       "estimado": true
     },
     "galeria": [
@@ -2047,7 +2047,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 15,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh",
+      "notas": "consumo estimado aprox 15,5 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh",
       "estimado": true
     },
     "galeria": [
@@ -2148,7 +2148,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "costeMensualTotal": 137,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "consumo estimado aprox 16,5 kWh/100 km; recarga doméstica aprox 0,18 EUR/kWh; autonomía sin dato oficial",
+      "notas": "consumo estimado aprox 16,5 kWh cada 100 km; recarga en casa aprox 0,18 EUR/kWh; autonomía sin dato oficial",
       "estimado": true
     },
     "galeria": [

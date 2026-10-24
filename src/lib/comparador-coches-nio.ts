@@ -57,7 +57,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 111,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado oficial WLTP 18,6-20,8 kWh/100 km (nio.com/de_DE); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo combinado oficial WLTP 18,6-20,8 kWh cada 100 km (nio.com/de_DE); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -127,7 +127,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 112,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado oficial WLTP 19,3-21,9 kWh/100 km (nio.com/de_DE/et5-touring); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo combinado oficial WLTP 19,3-21,9 kWh cada 100 km (nio.com/de_DE/et5-touring); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -197,7 +197,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 125,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo medio WLTP aprox 20 kWh/100 km; recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo medio WLTP aprox 20 kWh cada 100 km; recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -266,7 +266,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado oficial WLTP 20,4-22,3 kWh/100 km (nio.com/de_DE/el6); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo combinado oficial WLTP 20,4-22,3 kWh cada 100 km (nio.com/de_DE/el6); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -313,7 +313,7 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 100,
     cargaRapidaKw: null, // 125-130 kW según fuente; sin dato oficial único
     etiquetaDgt: "Cero",
-    pros: ["Dos motores, uno por eje, suman 653 CV y 850 Nm: con tracción a las cuatro ruedas despacha el 0 a 100 en 3,9 segundos y no se detiene hasta los 200 km/h", "La homologación WLTP le atribuye 513 km de alcance máximo, una cifra que reduce la dependencia del enchufe en trayectos largos con un SUV de este tamaño", "El acumulador, de 100 kWh, no tiene por qué comprarse incorporado al coche: bajo la modalidad BaaS queda en alquiler y, llegado el momento de reponer carga, una instalación automatizada retira el conjunto exhausto y monta otro listo para circular", "Detrás de la segunda fila quedan 658 litros para cargar; con cinco plazas y 4.912 mm de longitud, está pensado para viajar en familia sin renunciar a un SUV grande", "Las pruebas europeas de choque le otorgaron la valoración más alta posible, las cinco estrellas. Al margen de ese resultado, el apartado de sensores incorpora un lidar, y la dotación de retención incluye siete airbags. A ello se suma una suspensión neumática con amortiguación CDC y una capacidad de remolque de 2.000 kg"],
+    pros: ["Dos motores, uno por eje, suman 653 CV y 850 Nm: con tracción a las cuatro ruedas despacha el 3,9 s en el 0-100 km/hegundos y no se detiene hasta los 200 km/h", "La homologación WLTP le atribuye 513 km de alcance máximo, una cifra que reduce la dependencia del enchufe en trayectos largos con un SUV de este tamaño", "El acumulador, de 100 kWh, no tiene por qué comprarse incorporado al coche: bajo la modalidad BaaS queda en alquiler y, llegado el momento de reponer carga, una instalación automatizada retira el conjunto exhausto y monta otro listo para circular", "Detrás de la segunda fila quedan 658 litros para cargar; con cinco plazas y 4.912 mm de longitud, está pensado para viajar en familia sin renunciar a un SUV grande", "Las pruebas europeas de choque le otorgaron la valoración más alta posible, las cinco estrellas. Al margen de ese resultado, el apartado de sensores incorpora un lidar, y la dotación de retención incluye siete airbags. A ello se suma una suspensión neumática con amortiguación CDC y una capacidad de remolque de 2.000 kg"],
     contras: ["La tarifa alemana parte de 94.900 euros: pagas precio de marca premium consolidada sin disponer, a cambio, de una red comercial comparable en extensión", "Quien lo quiera hoy tiene que mirar hacia el norte y el centro de Europa —además de Portugal—, donde NIO sí ha abierto ventas; el mercado español, en cambio, sigue sin canal oficial para adquirirlo", "La báscula marca 2.500 kg, un lastre que exige más de los frenos, castiga los neumáticos y aleja cualquier pretensión de agilidad en carreteras de curvas", "En su país de origen se comercializa como ES7; la sigla europea EL7 responde al litigio mantenido con Audi, una dualidad que complica seguir su trayectoria y comparar versiones entre mercados", "Al tratarse de un fabricante con escasa trayectoria en el lujo europeo, nadie puede anticipar con datos cómo cotizará un EL7 usado dentro de unos años"],
     largoMm: 4912,
     anchoMm: 1987,
@@ -336,7 +336,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 18,5 kWh/100 km (TEL, evspecs.org); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo WLTP 18,5 kWh cada 100 km (TEL, evspecs.org); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -418,7 +418,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado aprox 21,2-22 kWh/100 km (driveduel.de); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
+      "notas": "consumo combinado aprox 21,2-22 kWh cada 100 km (driveduel.de); recarga domestica aprox 0,18 EUR/kWh; 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -626,8 +626,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: ["Con dos motores, tracción total, 490 CV y 700 Nm, esta berlina de 4.790 mm firma el 0 a 100 km/h en 4,0 segundos y 200 km/h de punta, un ritmo que no esperas de la versión de acceso de 75 kWh.", "La batería de 75 kWh homologa 456 km WLTP y deja el precio en 59.500 € con la batería en propiedad, el punto justo si no necesitas pagar el salto a los 100 kWh para hacer a diario ciudad y viajes medios.", "Donde exista una Power Swap Station puedes salir con otra batería cargada en unos tres minutos en lugar de quedarte enchufado, una carta que ni el Tesla Model 3 ni el Hyundai Ioniq 6, sus rivales señalados por Euro NCAP, pueden jugar.", "Con el protocolo endurecido de 2023 logró cinco estrellas y un 96 % en protección de ocupantes adultos, y la unidad probada por Euro NCAP llevaba precisamente el pack de 75 kWh de esta ficha."],
-    contras: ["Esos 456 km WLTP se acortan frente a los 590 km que anuncia la variante de 100 kWh y el consumo oficial de 17,9 kWh/100 km castiga sobre todo en autopista, justo donde más autonomía se echa en falta.", "La carga rápida se detiene en 140 kW, y en España no puedes compensarlo con el intercambio de batería porque, según Wikipedia, las estaciones de NIO solo operan en China, Noruega y Alemania.", "A pesar de cubicar 475 litros, el maletero es el de una berlina de tres volúmenes sin portón trasero amplio, así que meter un bulto alto o una bicicleta es mucho menos práctico que en el ET5 Touring familiar.", "Con 1.960 mm de anchura entra justo en muchas plazas de garaje españolas y la red propia de NIO aquí sigue siendo testimonial, lo que complica revisiones, recambios del LiDAR del techo y reparaciones de carrocería."],
+    pros: ["Con dos motores, tracción total, 490 CV y 700 Nm, esta berlina de 4.790 mm firma el 4,0 s en el 0-100 km/hegundos y 200 km/h de punta, un ritmo que no esperas de la versión de acceso de 75 kWh.", "La batería de 75 kWh homologa 456 km WLTP y deja el precio en 59.500 € con la batería en propiedad, el punto justo si no necesitas pagar el salto a los 100 kWh para hacer a diario ciudad y viajes medios.", "Donde exista una Power Swap Station puedes salir con otra batería cargada en unos tres minutos en lugar de quedarte enchufado, una carta que ni el Tesla Model 3 ni el Hyundai Ioniq 6, sus rivales señalados por Euro NCAP, pueden jugar.", "Con el protocolo endurecido de 2023 logró cinco estrellas y un 96 % en protección de ocupantes adultos, y la unidad probada por Euro NCAP llevaba precisamente el pack de 75 kWh de esta ficha."],
+    contras: ["Esos 456 km WLTP se acortan frente a los 590 km que anuncia la variante de 100 kWh y el consumo oficial de 17,9 kWh cada 100 km castiga sobre todo en autopista, justo donde más autonomía se echa en falta.", "La carga rápida se detiene en 140 kW, y en España no puedes compensarlo con el intercambio de batería porque, según Wikipedia, las estaciones de NIO solo operan en China, Noruega y Alemania.", "A pesar de cubicar 475 litros, el maletero es el de una berlina de tres volúmenes sin portón trasero amplio, así que meter un bulto alto o una bicicleta es mucho menos práctico que en el ET5 Touring familiar.", "Con 1.960 mm de anchura entra justo en muchas plazas de garaje españolas y la red propia de NIO aquí sigue siendo testimonial, lo que complica revisiones, recambios del LiDAR del techo y reparaciones de carrocería."],
     largoMm: 4790,
     anchoMm: 1960,
     altoMm: 1499,
@@ -649,7 +649,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 175,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 17,9 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP 17,9 kWh cada 100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -706,7 +706,7 @@ export const COCHES_NIO: CocheComparador[] = [
     ],
     contras: [
       "435 km: menos autonomía que la berlina equivalente",
-      "18,4 kWh/100 km: el familiar gasta algo más",
+      "18,4 kWh cada 100 km: el familiar gasta algo más",
       "Red NIO en España aún en expansión",
       "Precio alto frente a familiares térmicos",
       "Sin bola de remolque de serie en todas las versiones"
@@ -732,7 +732,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 176,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 18,4 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP 18,4 kWh cada 100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -780,7 +780,7 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: ["Sus dos motores suman 653 CV y 850 Nm con tracción total y dejan el 0 a 100 km/h en 3,8 s, cifras de deportivo en una berlina de representación de 5.101 mm.", "Con el pack de 75 kWh homologa 445 km WLTP y admite carga rápida de hasta 140 kW, un planteamiento pensado para usarlo a diario y salir a carretera sin ir justo de autonomía.", "El pack se puede sustituir en una Power Swap Station en vez de esperar junto al cargador, una alternativa que su rival directo, el Tesla Model S, no ofrece.", "Para semejante potencia el consumo homologado se contiene en 17,7 kWh/100 km, con etiqueta Cero de la DGT y cinco plazas en un habitáculo de coche de representación."],
+    pros: ["Sus dos motores suman 653 CV y 850 Nm con tracción total y dejan el 3,8 s en el 0-100 km/h, cifras de deportivo en una berlina de representación de 5.101 mm.", "Con el pack de 75 kWh homologa 445 km WLTP y admite carga rápida de hasta 140 kW, un planteamiento pensado para usarlo a diario y salir a carretera sin ir justo de autonomía.", "El pack se puede sustituir en una Power Swap Station en vez de esperar junto al cargador, una alternativa que su rival directo, el Tesla Model S, no ofrece.", "Para semejante potencia el consumo homologado se contiene en 17,7 kWh cada 100 km, con etiqueta Cero de la DGT y cinco plazas en un habitáculo de coche de representación."],
     contras: ["Te quedas en 445 km WLTP frente a los 580 km de la variante de 100 kWh: en viajes largos esa diferencia se paga en paradas adicionales.", "Los 81.900 € de partida lo colocan en tarifa de premium alemán asentado, pero NIO no tiene en Europa una red comercial y de servicio comparable a la de esas marcas.", "Mide 5.101 mm de largo y 1.987 mm de ancho: en parkings estrechos, calles de barrio y maniobras en ciudad se nota en cada giro.", "El pico de carga de 140 kW se queda corto para una berlina de este precio y tamaño si tu uso habitual es enlazar tramos largos de autovía."],
     largoMm: 5101,
     anchoMm: 1987,
@@ -803,7 +803,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 17,7 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP 17,7 kWh cada 100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -851,8 +851,8 @@ export const COCHES_NIO: CocheComparador[] = [
     bateriaKwh: 75,
     cargaRapidaKw: 140,
     etiquetaDgt: "Cero",
-    pros: ["Con 490 CV, 700 Nm y tracción total reparte el empuje entre los dos motores y firma el 0 a 100 km/h en 4,5 segundos, un registro de SUV deportivo dentro de un familiar de 65.500 €.", "El maletero declara 579 litros y llega a 1.430 litros abatiendo la banqueta trasera 40/20/40, volumen aprovechable en un cuerpo de 4.854 mm pensado para viajar con cinco ocupantes.", "La batería de 75 kWh no solo admite carga rápida a 140 kW: también es extraíble para el sistema Power Swap de NIO, una solución que ni el BMW iX3 ni el Audi Q6 e-tron proponen a sus clientes.", "Su dotación con LiDAR sobre el techo se tradujo en resultado tangible en Euro NCAP 2024: cinco estrellas y un 93 % en protección de ocupantes adultos, la nota más alta de sus apartados de ocupante."],
-    contras: ["Esta batería de 75 kWh se queda en 406 km WLTP, 123 km menos que los 529 km homologados por el mismo EL6 con el pack de 100 kWh, así que en ruta larga tocará parar bastante antes.", "El consumo homologado de 20,1 kWh/100 km delata a un SUV grande y pesado: mantener el ritmo en autopista recorta con rapidez esa autonomía de 406 km.", "Mide 1.995 mm de anchura y solo ofrece cinco plazas, sin tercera fila opcional: en garajes estrechos maniobra con incomodidad y no sirve a quien necesita llevar a siete.", "NIO no lo lanzó comercialmente en España, sino en Alemania, Países Bajos, Noruega, Suecia y Dinamarca, por lo que comprarlo y mantenerlo desde España implica salir de su red oficial inicial."],
+    pros: ["Con 490 CV, 700 Nm y tracción total reparte el empuje entre los dos motores y firma el 4,5 s en el 0-100 km/hegundos, un registro de SUV deportivo dentro de un familiar de 65.500 €.", "El maletero declara 579 litros y llega a 1.430 litros abatiendo la banqueta trasera 40/20/40, volumen aprovechable en un cuerpo de 4.854 mm pensado para viajar con cinco ocupantes.", "La batería de 75 kWh no solo admite carga rápida a 140 kW: también es extraíble para el sistema Power Swap de NIO, una solución que ni el BMW iX3 ni el Audi Q6 e-tron proponen a sus clientes.", "Su dotación con LiDAR sobre el techo se tradujo en resultado tangible en Euro NCAP 2024: cinco estrellas y un 93 % en protección de ocupantes adultos, la nota más alta de sus apartados de ocupante."],
+    contras: ["Esta batería de 75 kWh se queda en 406 km WLTP, 123 km menos que los 529 km homologados por el mismo EL6 con el pack de 100 kWh, así que en ruta larga tocará parar bastante antes.", "El consumo homologado de 20,1 kWh cada 100 km delata a un SUV grande y pesado: mantener el ritmo en autopista recorta con rapidez esa autonomía de 406 km.", "Mide 1.995 mm de anchura y solo ofrece cinco plazas, sin tercera fila opcional: en garajes estrechos maniobra con incomodidad y no sirve a quien necesita llevar a siete.", "NIO no lo lanzó comercialmente en España, sino en Alemania, Países Bajos, Noruega, Suecia y Dinamarca, por lo que comprarlo y mantenerlo desde España implica salir de su red oficial inicial."],
     largoMm: 4854,
     anchoMm: 1995,
     altoMm: 1703,
@@ -874,7 +874,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 196,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo WLTP 20,1 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año con un consumo homologado WLTP 20,1 kWh cada 100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -931,7 +931,7 @@ export const COCHES_NIO: CocheComparador[] = [
     ],
     contras: [
       "391 km WLTP: la autonomía más corta de la gama NIO",
-      "22,6 kWh/100 km aprox.: el que más gasta",
+      "22,6 kWh cada 100 km aprox.: el que más gasta",
       "85.900 €: precio de X5/Q7 sin su red de servicio",
       "2,4 toneladas: se notan en consumo y agilidad",
       "Tamaño XXL: 4,91 m complican el día a día urbano"
@@ -957,7 +957,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año, consumo aprox. 22,6 kWh/100 km (rango oficial 21,6-23,5) y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
+      "notas": "15.000 km al año, consumo aprox. 22,6 kWh cada 100 km (rango oficial 21,6-23,5) y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1040,7 +1040,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 268,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación orientativa con 15.000 km/año y recarga a 0,18 €/kWh; sin precio europeo oficial, el coste real puede variar mucho",
+      "notas": "estimación orientativa con 15.000 km al año y recarga a 0,18 €/kWh; sin precio europeo oficial, el coste real puede variar mucho",
       "estimado": true
     },
     galeria: [

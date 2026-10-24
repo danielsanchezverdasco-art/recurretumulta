@@ -35,7 +35,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     ],
     contras: [
       "78.045 €: precio de superdeportivo para una berlina eléctrica",
-      "Consumo de 18,7 kWh/100 km en uso exigente, por encima de la media del segmento",
+      "Consumo de 18,7 kWh cada 100 km en uso exigente, por encima de la media del segmento",
       "Maletero de 401 litros, justo para su tamaño (4,94 m)",
       "2.305 kg: el peso se nota en tramos revirados pese al reparto de par",
       "La red de recarga ultrarrápida sigue siendo escasa fuera de las grandes ciudades",
@@ -61,7 +61,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio 78.045 € (carnovo, 10/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 78.045 € (carnovo, 10/2026)",
       "estimado": true
     },
     galeria: [
@@ -136,7 +136,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 218,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; hidrógeno a ~15 €/kg; precio 71.000 € (carwow, 10/2026)",
+      "notas": "15.000 km al año; hidrógeno a ~15 €/kg; precio 71.000 € (carwow, 10/2026)",
       "estimado": true
     },
     galeria: [
@@ -180,7 +180,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "Motor 1.0 turbo de 90 CV y 172 Nm: el urbano más divertido de su precio",
       "Estética N Line con detalles deportivos por 23.290 €",
       "3,67 metros: aparca en cualquier sitio y gira en muy poco espacio",
-      "Consumo contenido de 5,4 l/100 km para un gasolina turbo",
+      "Consumo contenido de 5,4 l cada 100 km para un gasolina turbo",
       "Garantía oficial Hyundai de 5 años sin límite de kilometraje",
     ],
     contras: [
@@ -211,7 +211,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 102,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 23.290 € (km77, tarifa 01/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 23.290 € (km77, tarifa 01/2026)",
       "estimado": true
     },
     galeria: [
@@ -274,7 +274,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 112,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio 43.450 € (motorgiga, tarifa 08/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 43.450 € (motorgiga, tarifa 08/2026)",
       "estimado": true
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Parrilla negra con patrón de bandera a cuadros, llantas de 17 pulgadas, antiniebla trasero triangular y doble salida de escape cromada: se distingue del i20 normal sin disfrazarse de otra cosa", "El sistema de 48 V le da la etiqueta ECO y deja el consumo declarado en 5,2 l/100 km con 119 g/km de CO2, cifras útiles para moverse por Madrid sin restricciones de un gasolina puro", "Interior con firma propia: asientos deportivos con logotipo N y costuras rojas, volante N de cuero perforado y pedales metálicos, detalles que no lleva ningún otro acabado del i20", "Con 4.075 mm de largo conserva un maletero de 352 litros, así que el acabado deportivo no se paga recortando el equipaje de un utilitario de cinco puertas", "El 1.0 T-GDI de 100 CV y 172 Nm mueve sus 1.165 kg con soltura en ciudad y en incorporaciones, que es donde este N Line va a pasar la mayor parte de su vida"],
+    pros: ["Parrilla negra con patrón de bandera a cuadros, llantas de 17 pulgadas, antiniebla trasero triangular y doble salida de escape cromada: se distingue del i20 normal sin disfrazarse de otra cosa", "El sistema de 48 V le da la etiqueta ECO y deja el consumo declarado en 5,2 l cada 100 km con 119 g/km de CO2, cifras útiles para moverse por Madrid sin restricciones de un gasolina puro", "Interior con firma propia: asientos deportivos con logotipo N y costuras rojas, volante N de cuero perforado y pedales metálicos, detalles que no lleva ningún otro acabado del i20", "Con 4.075 mm de largo conserva un maletero de 352 litros, así que el acabado deportivo no se paga recortando el equipaje de un utilitario de cinco puertas", "El 1.0 T-GDI de 100 CV y 172 Nm mueve sus 1.165 kg con soltura en ciudad y en incorporaciones, que es donde este N Line va a pasar la mayor parte de su vida"],
     contras: ["No es un i20 N: comparte mecánica y base con el i20 1.0 T-GDI convencional, y su 0 a 100 km/h en 11,1 segundos deja claro que el salto del N Line es estético, no prestacional", "Por 26.716 € queda lejos del utilitario accesible que fue el i20 en sus primeras generaciones, y la diferencia frente a un i20 MHEV sin este acabado se paga solo por imagen y equipamiento", "El tricilíndrico se deja notar al ralentí y cuando se le exige, con una sonoridad y unas vibraciones que recuerdan que bajo el capó no hay un motor distinto al del resto de la gama", "Las plazas traseras siguen siendo justas para adultos altos en viajes largos, un límite de la carrocería que ni las costuras rojas ni las llantas de 17 pulgadas pueden disimular"],
     largoMm: 4075,
     anchoMm: 1775,
@@ -338,7 +338,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 105,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 26.716 € (quecochemecompro, 10/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 26.716 € (quecochemecompro, 10/2026)",
       "estimado": true
     },
     galeria: [
@@ -380,15 +380,15 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "412 km de autonomía WLTP con 71,2 kWh y carga de 150 kW (10-80 % en 30 minutos)",
+      "412 km de autonomía WLTP con 71,2 kWh y una carga de 150 kW (del 10 al 80 % en 30 minutos)",
       "Plataforma E-GMP.S: maletero de 1.330 litros y 5 plazas reales con piso plano",
       "4 estrellas EuroNCAP (2025): el primer comercial ligero eléctrico evaluado",
       "V2L y V2G: alimenta herramientas o devuelve energía a la red",
-      "Garantía Kia de 7 años o 150.000 km, la mejor del segmento",
+      "La garantía Kia cubre 7 años o 150.000 km, la mejor del segmento",
     ],
     contras: [
       "135 km/h de velocidad máxima: no es para autopistas alemanas",
-      "2.145 kg: el peso se nota en consumos reales (19,3 kWh/100 km)",
+      "2.145 kg: el peso se nota en consumos reales (19,3 kWh cada 100 km)",
       "46.446 € en la versión Long Range: caro frente a una furgoneta diésel",
       "La versión de 7 plazas llegará más tarde, de momento solo 5",
       "Red de concesionarios PBV aún en despliegue en España",
@@ -414,7 +414,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 118,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio 46.446 € (tarifa Kia, 10/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 46.446 € (tarifa Kia, 10/2026)",
       "estimado": true
     },
     galeria: [
@@ -455,15 +455,15 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "180 CV con microhibridación de 48 V y etiqueta ECO",
+      "180 CV con sistema microhíbrido de 48 V y etiqueta ECO",
       "Acabado GT-Line: el más completo, con asientos ventilados y portón eléctrico",
       "5 estrellas EuroNCAP (2022): 87 % en ocupante adulto",
       "Maletero de 536 litros y 5 plazas amplias para una familia",
-      "Garantía Kia de 7 años o 150.000 km",
+      "La garantía Kia cubre 7 años o 150.000 km",
     ],
     contras: [
       "44.307 €: el GT-Line se acerca al precio del híbrido completo",
-      "7,0 l/100 km reales: la microhibridación no hace milagros",
+      "7,0 l cada 100 km reales: la microhibridación no hace milagros",
       "El cambio DCT de 7 velocidades duda a baja velocidad en ciudad",
       "Por este precio, el Sportage HEV de 239 CV gasta menos y corre más",
       "Pantalla curva panorámica solo en los acabados altos",
@@ -489,7 +489,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 44.307 € (elyex, 10/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 44.307 € (elyex, 10/2026)",
       "estimado": true
     },
     galeria: [
@@ -552,7 +552,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 125,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio 54.570 € (km77, tarifa 01/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 54.570 € (km77, tarifa 01/2026)",
       "estimado": true
     },
     galeria: [
@@ -569,7 +569,7 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Hyundai Canarias (web oficial hyundai.com) publica que solo IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica una tarifa cerrada para esta revisión, por lo que no se da coste. Verificado el 22/10/2026", "intervalo": "Cada 2 años o 30.000 km, lo primero que se cumpla (pauta oficial Hyundai específica para IONIQ 5 e IONIQ 6, distinta del año o 15.000 km del resto de la gama)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años o 30.000 km", "queSeCambia": "Inspección programada sin cambio de aceite, porque no hay motor térmico: comprobación del sistema eléctrico y de la batería auxiliar de 12 V, del circuito de refrigeración y de los frenos, cuyo líquido el manual del propietario contempla sustituir dentro del calendario de mantenimiento"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas cada 2 años o 30.000 km adicionales", "queSeCambia": "Repetición de las inspecciones de refrigeración, frenos, sistema eléctrico y estado de la batería, con aviso previo en el cuadro de instrumentos cuando se acerca la visita, según publica Hyundai"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Hyundai Canarias (web oficial hyundai.com) publica que solo IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, según lo que se cumpla primero; Hyundai no publica una tarifa cerrada para esta revisión, por lo que no se da coste. Verificado el 22/10/2026", "intervalo": "Cada 2 años o 30.000 kilómetros, según lo que ocurra primero (pauta oficial Hyundai específica para IONIQ 5 e IONIQ 6, distinta del año o 15.000 km del resto de la gama)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años o 30.000 km", "queSeCambia": "Inspección programada sin cambio de aceite, porque no hay motor térmico: comprobación del sistema eléctrico y de la batería auxiliar de 12 V, del circuito de refrigeración y de los frenos, cuyo líquido el manual del propietario contempla sustituir dentro del calendario de mantenimiento"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas cada 2 años o 30.000 km adicionales", "queSeCambia": "Repetición de las inspecciones de refrigeración, frenos, sistema eléctrico y estado de la batería, con aviso previo en el cuadro de instrumentos cuando se acerca la visita, según publica Hyundai"}]},
   },
   {
     id: "kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica",
@@ -595,7 +595,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "612 km de autonomía WLTP: el eléctrico con más autonomía por euro de su segmento",
-      "Consumo de solo 14,9 kWh/100 km gracias al Cx de 0,23",
+      "Consumo de solo 14,9 kWh cada 100 km gracias al Cx de 0,23",
       "4 estrellas EuroNCAP (2025), 5★ con el pack de seguridad DriveWise",
       "Maletero de 490 litros con portón amplio: cabe hasta una bolsa de golf",
       "V2L de 3,6 kW y V2G de 10 kW: la berlina como batería doméstica",
@@ -628,7 +628,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 118,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio 50.626 € (ago 2025, sin descuentos)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 50.626 € (ago 2025, sin descuentos)",
       "estimado": true
     },
     galeria: [
@@ -669,7 +669,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: ["Sus 288 CV combinados convierten a esta variante N Line en la más prestacional del Tucson actual, con 380 Nm para incorporaciones y adelantamientos viajando con la familia y el equipaje.", "Los 67 km eléctricos homologados cubren la mayoría de los trayectos laborables entre semana, siempre que el enchufe de casa o del trabajo forme parte de la rutina diaria del propietario.", "A diferencia de otros enchufables que sacrifican mucho volumen, aquí quedan 558 litros útiles para el equipaje familiar sin necesidad de recurrir a un cofre de techo en vacaciones.", "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones y, con 65 g/km homologados, queda exento del impuesto de matriculación en España.", "El habitáculo renovado reúne dos pantallas de 12,3 pulgadas bajo un único cristal y recupera mandos físicos para el climatizador, más seguros de accionar sin apartar la vista."],
-    contras: ["Partir de 50.325 € coloca a este Tucson muy por encima de las versiones híbridas de su propia gama y ya en territorio de SUV enchufables con emblema premium.", "Los 1.832 kg declarados penalizan agilidad y desgaste de neumáticos: en un puerto de montaña manda la prudencia de un SUV pesado, no la ligereza que sugiere el apellido N Line.", "La recarga se limita a corriente alterna de hasta 7,2 kW, sin opción de carga rápida en continua, así que recuperar batería durante un viaje largo resulta poco práctico.", "Quien no lo enchufe a diario arrastrará la batería descargada como lastre permanente, y el gasto de gasolina quedará lejos de los 2,9 l/100 km oficiales pensados para un uso con recargas frecuentes.", "El depósito se queda en 42 litros, una cifra modesta para escapadas largas en modo híbrido que obliga a repostar con más frecuencia de la esperada en un SUV familiar."],
+    contras: ["Partir de 50.325 € coloca a este Tucson muy por encima de las versiones híbridas de su propia gama y ya en territorio de SUV enchufables con emblema premium.", "Los 1.832 kg declarados penalizan agilidad y desgaste de neumáticos: en un puerto de montaña manda la prudencia de un SUV pesado, no la ligereza que sugiere el apellido N Line.", "La recarga se limita a corriente alterna de hasta 7,2 kW, sin opción de carga rápida en continua, así que recuperar batería durante un viaje largo resulta poco práctico.", "Quien no lo enchufe a diario arrastrará la batería descargada como lastre permanente, y el gasto de gasolina quedará lejos de los 2,9 l cada 100 km oficiales pensados para un uso con recargas frecuentes.", "El depósito se queda en 42 litros, una cifra modesta para escapadas largas en modo híbrido que obliga a repostar con más frecuencia de la esperada en un SUV familiar."],
     largoMm: 4510,
     anchoMm: 1865,
     altoMm: 1650,
@@ -691,7 +691,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 132,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; 60 % eléctrico; precio 50.325 € (km77, tarifa 02/2026)",
+      "notas": "15.000 km al año; 60 % eléctrico; precio 50.325 € (km77, tarifa 02/2026)",
       "estimado": true
     },
     galeria: [
@@ -733,7 +733,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "4,7 l/100 km reales: el Kona más eficiente sin enchufe",
+      "4,7 l cada 100 km reales: el Kona más eficiente sin enchufe",
       "Etiqueta ECO con 138 CV combinados y cambio automático de serie",
       "4 estrellas EuroNCAP (2023) para la segunda generación del Kona",
       "Maletero de 466 litros: no pierde espacio frente al gasolina",
@@ -767,7 +767,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 122,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 36.540 € (km77, tarifa 08/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 36.540 € (km77, tarifa 08/2026)",
       "estimado": true
     },
     galeria: [
@@ -808,11 +808,11 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "1.5 turbo de 140 CV con microhibridación: 5,7 l/100 km y etiqueta ECO",
+      "1.5 turbo de 140 CV con microhibridación: 5,7 l cada 100 km y etiqueta ECO",
       "4 estrellas EuroNCAP (2019): 88 % en ocupante adulto",
       "Cambio DCT de 7 velocidades de serie en el GT-Line",
       "34.995 € con un equipamiento muy completo por el precio",
-      "Garantía Kia de 7 años o 150.000 km, la mejor del segmento",
+      "La garantía Kia cubre 7 años o 150.000 km, la mejor del segmento",
     ],
     contras: [
       "El Ceed se despide: es el último año del modelo antes del relevo",
@@ -842,7 +842,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 115,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 34.995 € (km77, tarifa 08/2024)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 34.995 € (km77, tarifa 08/2024)",
       "estimado": true
     },
     galeria: [
@@ -883,7 +883,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "239 CV con 5,8 l/100 km: el SUV híbrido más equilibrado de su tamaño",
+      "239 CV con 5,8 l cada 100 km: el SUV híbrido más equilibrado de su tamaño",
       "Maletero de 616 litros: el más grande entre los SUV híbridos compactos",
       "5 estrellas EuroNCAP (2021): 86 % en ocupante adulto",
       "0-100 en 7,8 s: prestaciones de GTI con consumo de utilitario",
@@ -917,7 +917,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 47.475 € (km77, tarifa 02/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 47.475 € (km77, tarifa 02/2026)",
       "estimado": true
     },
     galeria: [
@@ -966,7 +966,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: sin ventajas fiscales ni de acceso a ZBE",
-      "6,5 l/100 km oficiales; en conducción alegre supera los 8",
+      "6,5 l cada 100 km oficiales; en conducción alegre supera los 8",
       "El i30 N de 280 CV hace que este N Line sepa a poco",
       "Interior algo anticuado frente al i30 de nueva generación que viene",
       "146 g/km de CO₂: paga impuesto de matriculación del 4,75 %",
@@ -992,7 +992,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 122,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 34.350 € (km77, tarifa 05/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 34.350 € (km77, tarifa 05/2026)",
       "estimado": true
     },
     galeria: [
@@ -1041,7 +1041,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     ],
     contras: [
       "45.440 €: más caro que el Kona eléctrico de 204 CV",
-      "7,0 l/100 km oficiales; en ciudad supera los 9 sin despeinarse",
+      "7,0 l cada 100 km oficiales; en ciudad supera los 9 sin despeinarse",
       "Etiqueta C: sin ventajas en ZBE ni aparcamiento",
       "164 g/km de CO₂: paga el tramo alto del impuesto de matriculación",
       "La tracción total penaliza consumo y peso (1.540 kg)",
@@ -1067,7 +1067,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; precio 45.440 € (km77, tarifa 08/2026)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,65 €; precio 45.440 € (km77, tarifa 08/2026)",
       "estimado": true
     },
     galeria: [

@@ -66,7 +66,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 155,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; precio de tarifa 38.500 €, 33.570 € con descuentos (km77, 06/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio de tarifa 38.500 €, 33.570 € con descuentos (km77, 06/2026)",
       "estimado": true
     },
     galeria: [
@@ -122,7 +122,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     contras: [
       "322 km de autonomía WLTP: la menor de la gama Junior",
       "Desde 41.923 €: se acerca al precio de un Tesla Model Y",
-      "Consumo de 18,6 kWh/100 km, alto para el segmento",
+      "Consumo de 18,6 kWh cada 100 km, alto para el segmento",
       "Plazas traseras justas para adultos altos",
       "Sin tracción total disponible",
     ],
@@ -147,7 +147,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; carga doméstica a 0,18 €/kWh; seguro más caro por potencia y precio (km77, 06/2026)",
+      "notas": "15.000 km al año; carga en casa a 0,18 €/kWh; seguro más caro por potencia y precio (km77, 06/2026)",
       "estimado": true
     },
     galeria: [
@@ -198,7 +198,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "Etiqueta ECO: entra en todas las ZBE sin restricciones",
       "Maletero de 500 litros, de los más grandes del segmento",
       "5 estrellas Euro NCAP, vigentes tras la actualización de 2025",
-      "Consumo real contenido: 5,7 l/100 km WLTP",
+      "Consumo real contenido: 5,7 l cada 100 km WLTP",
     ],
     contras: [
       "Plataforma compartida con el Jeep Compass",
@@ -228,7 +228,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 282,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina 95 a 1,85 €/l; precio Sprint 1.5 Hybrid 160 TCT (km77, 08/2025)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,85 €; precio Sprint 1.5 Hybrid 160 TCT (km77, 08/2025)",
       "estimado": true
     },
     galeria: [
@@ -274,8 +274,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     bateriaKwh: 15.5,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["El eje trasero lo mueve únicamente su propulsor eléctrico de 90 kW, así que la tracción integral aparece sin árbol de transmisión mecánico intermedio", "Homologa 65 km sin emisiones con cada carga completa y luce etiqueta Cero, margen suficiente para encadenar desplazamientos urbanos entre semana conservando intacta la gasolina", "Frente a alternativas como BMW X1 xDrive30e o Mercedes-Benz GLA 250 e, aporta 280 CV y una punta de 206 km/h con planteamiento claramente prestacional", "Enchufado a 7,4 kW en alterna, su acumulador de 15,5 kWh queda listo en aproximadamente dos horas y media, un gesto viable cada noche en garaje propio", "La batería queda respaldada durante ocho años o 160.000 km hasta el 70 % de capacidad, cobertura que tranquiliza pensando en reventa dentro del mercado usado"],
-    contras: ["El hueco bajo el piso recorta el volumen útil hasta 385 litros, quedando 115 litros por debajo del Tonale híbrido ligero de 160 CV", "Sobre la báscula declara 1.910 kg en esta ficha, lastre perceptible al enlazar curvas cerradas pese al empuje disponible en salida", "La tarifa de partida, 47.488 euros, lo sitúa ya mirando de frente a BMW X1 y Mercedes-Benz GLA en sus versiones enchufables equivalentes", "No admite carga en corriente continua: fuera de casa dependerás de postes lentos de alterna, poco prácticos para recuperar autonomía durante viajes largos", "Su gasto homologado de 1,3 l/100 km presupone recargar con frecuencia; sin enchufe cotidiano, el motor térmico asumirá casi todo el trabajo y la ventaja se diluye"],
+    pros: ["El eje trasero lo mueve únicamente su propulsor eléctrico de 90 kW, así que la tracción integral aparece sin árbol de transmisión mecánico intermedio", "Homologa 65 km sin emisiones con cada carga completa y luce etiqueta Cero, margen suficiente para encadenar desplazamientos urbanos entre semana conservando intacta la gasolina", "Frente a alternativas como BMW X1 xDrive30e o Mercedes-Benz GLA 250 e, aporta 280 CV y una punta de 206 km/h con planteamiento claramente prestacional", "Enchufado a 7,4 kW en alterna, su acumulador de 15,5 kWh queda listo en aproximadamente dos horas y media, un gesto viable cada noche en garaje propio", "La batería queda cubierta ocho años o 160.000 km, hasta conservar el 70 % de capacidad, cobertura que tranquiliza pensando en reventa dentro del mercado usado"],
+    contras: ["El hueco bajo el piso recorta el volumen útil hasta 385 litros, quedando 115 litros por debajo del Tonale híbrido ligero de 160 CV", "Sobre la báscula declara 1.910 kg en esta ficha, lastre perceptible al enlazar curvas cerradas pese al empuje disponible en salida", "La tarifa de partida, 47.488 euros, lo sitúa ya mirando de frente a BMW X1 y Mercedes-Benz GLA en sus versiones enchufables equivalentes", "No admite carga en corriente continua: fuera de casa dependerás de postes lentos de alterna, poco prácticos para recuperar autonomía durante viajes largos", "Su gasto homologado de 1,3 l cada 100 km presupone recargar con frecuencia; sin enchufe cotidiano, el motor térmico asumirá casi todo el trabajo y la ventaja se diluye"],
     largoMm: 4528,
     anchoMm: 1841,
     altoMm: 1601,
@@ -356,7 +356,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "Etiqueta C: sin las ventajas fiscales de las ECO y Cero",
       "Interior menos tecnológico que el de los alemanes",
       "Gama envejecida: la nueva generación no llega hasta 2028",
-      "Consumo real elevado en ciudad (12,2 l/100 km en ciclo bajo)",
+      "Consumo real elevado en ciudad (12,2 l cada 100 km en ciclo bajo)",
       "Desde 65.100 € en el acabado Veloce",
     ],
     largoMm: 4650,
@@ -380,7 +380,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 367,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina 95 a 1,85 €/l; seguro caro por potencia (km77, tarifa 06/2025)",
+      "notas": "15.000 km al año; el litro de gasolina 95 a 1,85 €; seguro caro por potencia (km77, tarifa 06/2025)",
       "estimado": true
     },
     galeria: [
@@ -428,7 +428,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "El D-SUV más dinámico del segmento por chasis y dirección",
-      "Diésel eficiente: 5,8 l/100 km y unos 1.000 km de autonomía",
+      "Diésel eficiente: 5,8 l cada 100 km y unos 1.000 km de autonomía",
       "Maletero de 525 litros, amplio para viajar",
       "Plataforma Giorgio de tracción trasera, única en el segmento",
       "450 Nm de par: empuja con fuerza desde abajo",
@@ -461,7 +461,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 298,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; diésel a 1,70 €/l (el campo precioGasolinaL usa 1,85 €/l de referencia); tarifa km77 06/2026",
+      "notas": "15.000 km al año; diésel a 1,70 €/l (el campo precioGasolinaL usa 1,85 €/l de referencia); tarifa km77 06/2026",
       "estimado": true
     },
     galeria: [
@@ -588,7 +588,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "Desde 31.993 €: unos 4.600 € más que el Ibrida delantero",
       "Maletero reducido a 340 litros por el eje trasero eléctrico",
       "9,1 s en el 0-100: no es más rápido, solo tracciona mejor",
-      "Consumo algo mayor: 5,2 l/100 km",
+      "Consumo algo mayor: 5,2 l cada 100 km",
       "Peso de 1.575 kg, el más alto de los Junior híbridos"
     ],
     "largoMm": 4173,
@@ -612,7 +612,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 253,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,2 l/100 km; precio km77 desde 31.993 €",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,2 l cada 100 km; precio km77 desde 31.993 €",
       "estimado": true
     },
     "galeria": [
@@ -695,7 +695,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 277,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,7 l/100 km; precio de ocasión orientativo",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,7 l cada 100 km; precio de ocasión orientativo",
       "estimado": true
     },
     "galeria": [
@@ -778,7 +778,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 277,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 5,7 l/100 km; precio km77 37.737 €",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo WLTP 5,7 l cada 100 km; precio km77 37.737 €",
       "estimado": true
     },
     "galeria": [
@@ -829,13 +829,13 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "pros": [
       "El Tonale más barato: desde 35.403 €",
       "320 Nm desde 1.500 rpm: empuja bien en carretera",
-      "Consumo real contenido: unos 5,5 l/100 km en uso mixto",
+      "Consumo real contenido: unos 5,5 l cada 100 km en uso mixto",
       "Ideal para hacer muchos kilómetros al año",
       "500 litros de maletero y 5 estrellas Euro NCAP"
     ],
     "contras": [
-      "Etiqueta C: sin acceso a las ZBE más restrictivas",
-      "10,9 s en el 0-100: el más lento de la gama",
+      "Etiqueta C: sin entrada en las ZBE más restrictivas",
+      "10,9 s en el 0-100, el registro más lento de la gama",
       "El diésel tiene los días contados en el segmento",
       "Sonoridad diésel impropia de un premium",
       "Sin hibridación: 142 g/km de CO2"
@@ -861,7 +861,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 265,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año; gasóleo a 1,75 €/l; consumo WLTP 5,4 l/100 km; precio km77 35.403 €",
+      "notas": "15.000 km al año; gasóleo a 1,75 €/l; consumo WLTP 5,4 l cada 100 km; precio km77 35.403 €",
       "estimado": true
     },
     "galeria": [
@@ -910,7 +910,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "cargaRapidaKw": null,
     "etiquetaDgt": "Cero",
     "pros": ["Su eje trasero eléctrico aporta tracción integral sin árbol de transmisión, solución distinta a la de un Audi Q3 TFSI e convencional", "Los 61 km homologados en modo eléctrico permiten cubrir desplazamientos laborables entre semana si lo enchufas cada noche en casa", "Etiqueta Cero de la DGT con 270 CV combinados: accede a zonas restringidas donde un BMW X1 de gasolina ya penaliza", "La batería de 15,5 kWh conserva cobertura oficial hasta ocho años o 160.000 km con suelo del 70 % de capacidad", "Con 4,52 metros de largo mantiene cinco plazas reales y aun así firma 6,6 segundos hasta 100 km/h"],
-    "contras": ["Por 46.498 euros queda muy cerca de premium alemanes mejor acabados y por encima de enchufables generalistas equivalentes", "El maletero cae a 385 litros, 115 menos que el Tonale diésel de esta gama, y limita equipaje familiar voluminoso", "Pesa 1.910 kg según ficha, un lastre evidente en rotondas enlazadas y en frenadas largas de puerto", "No admite carga rápida en corriente continua, así que recuperar energía durante un viaje exige paradas largas en alterna", "Si olvidas enchufarlo a menudo, su consumo homologado de 3,4 l/100 km deja de describir el gasto real"],
+    "contras": ["Por 46.498 euros queda muy cerca de premium alemanes mejor acabados y por encima de enchufables generalistas equivalentes", "El maletero cae a 385 litros, 115 menos que el Tonale diésel de esta gama, y limita equipaje familiar voluminoso", "Pesa 1.910 kg según ficha, un lastre evidente en rotondas enlazadas y en frenadas largas de puerto", "No admite carga rápida en corriente continua, así que recuperar energía durante un viaje exige paradas largas en alterna", "Si olvidas enchufarlo a menudo, su consumo homologado de 3,4 l cada 100 km deja de describir el gasto real"],
     "largoMm": 4522,
     "anchoMm": 1841,
     "altoMm": 1601,
@@ -936,7 +936,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 253,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; 50 % de km en eléctrico (0,18 €/kWh); precio km77 46.498 €",
+      "notas": "15.000 km al año; 50 % de km en eléctrico (0,18 €/kWh); precio km77 46.498 €",
       "estimado": true
     },
     "galeria": [
@@ -988,7 +988,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "etiquetaDgt": "C",
     "pros": [
       "La berlina diésel con mejor chasis del segmento",
-      "Consumo contenido para hacer kilómetros: ~5,1 l/100 km",
+      "Consumo contenido para hacer kilómetros: ~5,1 l cada 100 km",
       "Propulsión trasera: tacto de conducción único",
       "Desde 46.660 €, la Giulia más accesible",
       "Maletero de 480 litros"
@@ -1025,7 +1025,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 270,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año; gasóleo a 1,75 €/l; consumo estimado 5,1 l/100 km; precio km77 46.660 €",
+      "notas": "15.000 km al año; gasóleo a 1,75 €/l; consumo estimado 5,1 l cada 100 km; precio km77 46.660 €",
       "estimado": true
     },
     "galeria": [
@@ -1076,7 +1076,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "pros": [
       "211 CV y 470 Nm: el diésel más potente de la gama",
       "Tracción total Q4: motricidad en cualquier clima",
-      "6,8 s en el 0-100 con consumo de ~5,6 l/100 km",
+      "6,8 s en el 0-100 con consumo de ~5,6 l cada 100 km",
       "El mejor chasis del segmento con motor rutero",
       "Autonomía enorme con el depósito lleno"
     ],
@@ -1111,7 +1111,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 293,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año; gasóleo a 1,75 €/l; consumo estimado 5,6 l/100 km; precio motorgiga 51.360 €",
+      "notas": "15.000 km al año; gasóleo a 1,75 €/l; consumo estimado 5,6 l cada 100 km; precio motorgiga 51.360 €",
       "estimado": true
     },
     "galeria": [
@@ -1168,7 +1168,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     ],
     "contras": [
       "Desde 100.400 €: territorio BMW M3 y Mercedes-AMG",
-      "Consumo real muy alto si se le exige (~10,1 l/100 km)",
+      "Consumo real muy alto si se le exige (~10,1 l cada 100 km)",
       "Mantenimiento y seguro de superdeportivo",
       "Plazas traseras y maletero normales, no amplios",
       "Depreciación fuerte en el mercado de ocasión"
@@ -1196,7 +1196,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 459,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo estimado 10,1 l/100 km; precio ~100.400 €",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo estimado 10,1 l cada 100 km; precio ~100.400 €",
       "estimado": true
     },
     "galeria": [
@@ -1253,7 +1253,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     ],
     "contras": [
       "Desde 67.050 €: caro frente a BMW X3 o Audi Q5",
-      "Consumo real alto: ~8,5 l/100 km homologados",
+      "Consumo real alto: ~8,5 l cada 100 km homologados",
       "Etiqueta C en plena era de ZBE",
       "Interior por detrás de los alemanes en tecnología",
       "Suspensión firme: no es el más cómodo"
@@ -1281,7 +1281,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 367,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo estimado 8,5 l/100 km; precio motorgiga 67.050 €",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo estimado 8,5 l cada 100 km; precio motorgiga 67.050 €",
       "estimado": true
     },
     "galeria": [
@@ -1331,7 +1331,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "etiquetaDgt": "C",
     "pros": [
       "210 CV y 470 Nm con tracción total Q4",
-      "El Stelvio rutero: ~6,3 l/100 km y gran autonomía",
+      "El Stelvio rutero: ~6,3 l cada 100 km y gran autonomía",
       "Más barato que el 2.0 gasolina de 280 CV",
       "Chasis deportivo con motor de gran tirada",
       "525 litros de maletero"
@@ -1368,7 +1368,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 308,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "15.000 km/año; gasóleo a 1,75 €/l; consumo estimado 6,3 l/100 km; precio 54.910 €",
+      "notas": "15.000 km al año; gasóleo a 1,75 €/l; consumo estimado 6,3 l cada 100 km; precio 54.910 €",
       "estimado": true
     },
     "galeria": [
@@ -1425,7 +1425,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     ],
     "contras": [
       "Desde 110.900 €: más que un Porsche Macan GTS",
-      "Consumo desmedido si se aprovecha (~10,5 l/100 km)",
+      "Consumo desmedido si se aprovecha (~10,5 l cada 100 km)",
       "1,9 toneladas: la física se nota en circuito",
       "Mantenimiento de altos vuelos",
       "Últimas unidades: fin de producción inminente"
@@ -1453,7 +1453,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
       "costeMensualTotal": 480,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo estimado 10,5 l/100 km; precio ~110.900 €",
+      "notas": "15.000 km al año; gasolina a 1,85 €/l, con un consumo estimado 10,5 l cada 100 km; precio ~110.900 €",
       "estimado": true
     },
     "galeria": [
@@ -1501,7 +1501,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "bateriaKwh": 102,
     "cargaRapidaKw": null,
     "etiquetaDgt": "Cero",
-    "pros": ["Arquitectura de 800 voltios con batería de 102 kWh brutos y 90 útiles: unos 450 km WLTP en un fuoriserie biplaza, algo que ningún Alfa de serie limitada había ofrecido antes", "Más de 750 CV con reparto vectorial de par y un 0 a 100 km/h en menos de 3 segundos, pese a declarar 310 km/h de punta en vez de los 333 km/h del V6", "Monocasco de fibra de carbono con bastidor en H de aluminio y frenos Brembo carbocerámicos de 390 mm delante: la ficha oficial promete frenar de 100 a 0 km/h en menos de 33 metros", "Cada una de las 33 unidades se configura en la Bottega Alfa Romeo y se monta a mano en Carrozzeria Touring Superleggera, sin dos coches iguales", "Las puertas de apertura en élitro y el habitáculo casi sin botones recuperan el planteamiento del Stradale de 1967 sin convertirlo en una réplica"],
+    "pros": ["Arquitectura de 800 voltios con batería de 102 kWh brutos y 90 útiles: unos 450 km WLTP en un fuoriserie biplaza, algo que ningún Alfa de serie limitada había ofrecido antes", "Más de 750 CV con reparto vectorial de par y un 0-100 km/h en menos de 3 segundos, pese a declarar 310 km/h de punta en vez de los 333 km/h del V6", "Monocasco de fibra de carbono con bastidor en H de aluminio y frenos Brembo carbocerámicos de 390 mm delante: la ficha oficial promete frenar de 100 a 0 km/h en menos de 33 metros", "Cada una de las 33 unidades se configura en la Bottega Alfa Romeo y se monta a mano en Carrozzeria Touring Superleggera, sin dos coches iguales", "Las puertas de apertura en élitro y el habitáculo casi sin botones recuperan el planteamiento del Stradale de 1967 sin convertirlo en una réplica"],
     "contras": ["Menos de 2.100 kg frente a menos de 1.500 kg del V6: la batería se nota en inercias, neumáticos y frenos, por muy bien disimulada que esté", "Precio de partida en torno a 1,7 millones de euros según la ficha, sin PVP cerrado hecho público por Alfa Romeo: la cifra final depende de la personalización de cada cliente", "Las 33 unidades se asignaron en semanas en 2022, antes de mostrar el coche: quien no entrara entonces en el Club 33 solo puede esperar al mercado de coleccionista", "Alfa Romeo no especificó en la presentación la potencia de recarga rápida de esta versión, un dato todavía sin confirmar para un coche de 102 kWh; y es un biplaza cerrado, sin maletero declarado en la ficha, pensado para colección más que para uso diario"],
     "largoMm": 4640,
     "anchoMm": 1970,

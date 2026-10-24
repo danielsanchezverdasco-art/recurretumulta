@@ -60,7 +60,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 155,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del habito de carga",
+      "notas": "consumo combinado homologado WLTP (l/100 km); en PHEV, el coste real varía según el hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -110,7 +110,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "646 km de autonomía: de las mejores del segmento, y 936 km reales demostrados",
       "7 plazas de verdad, sin rival directo en el grupo VW por este precio",
       "Maletero de 927 L (7 plazas), el más grande de su categoría",
-      "Carga rápida de 200 kW y consumo ajustado (15 kWh/100 km)",
+      "Carga rápida de 200 kW y consumo ajustado (15 kWh cada 100 km)",
       "Interior de calidad con materiales blandos y equipamiento de serie generoso",
     ],
     contras: [
@@ -172,8 +172,8 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
         resetAceiteNota: "Mismo procedimiento que el R5 E-Tech 2024 (plataforma AmpR Small). Pulsar START SIN pisar el freno.",
         intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (plataforma AmpR Small)",
-        filtroPolenPasos: ["Abre la puerta del acompañante.", "Localiza la trampilla del filtro bajo la guantera, en la zona de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
+        filtroPolenUbicacion: "Debajo del salpicadero, a los pies del acompañante (plataforma AmpR Small)",
+        filtroPolenPasos: ["Abre la puerta del acompañante.", "Encuentra la trampilla del filtro debajo de la guantera, a la altura de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=LN-mjgwTqdw",
         videoTutorialTitulo: "Comment effacer le défaut faire révision ? #shorts #renault #astuces #revision",
     },
@@ -344,7 +344,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado aprox 2,0 l/100 km combinado por segmento (PHEV SUV premium); depende del habito de carga",
+      "notas": "sin consumo WLTP publicado; estimado aprox 2,0 l cada 100 km combinado por segmento (PHEV SUV premium); depende del habito de carga",
       "estimado": true
     },
     galeria: [
@@ -375,8 +375,8 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
         resetAceiteNota: "El Twingo E-Tech comparte plataforma AmpR Small con el R5: mismo procedimiento.",
         intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (plataforma AmpR Small)",
-        filtroPolenPasos: ["Abre la puerta del acompañante.", "Localiza la trampilla del filtro bajo la guantera, en la zona de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
+        filtroPolenUbicacion: "Debajo del salpicadero, a los pies del acompañante (plataforma AmpR Small)",
+        filtroPolenPasos: ["Abre la puerta del acompañante.", "Encuentra la trampilla del filtro debajo de la guantera, a la altura de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=LN-mjgwTqdw",
         videoTutorialTitulo: "Comment effacer le défaut faire révision ? #shorts #renault #astuces #revision",
     },
@@ -402,7 +402,7 @@ export const COCHES_BASE: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Desde 17.463 €: el eléctrico europeo más barato",
-      "Consumo real bajísimo: 12,6 kWh/100 km en prueba independiente",
+      "Consumo real bajísimo: 12,6 kWh cada 100 km en prueba independiente",
       "Etiqueta Cero de la DGT: entra en todas las ZBE sin restricciones",
       "Diseño icónico + interior modular (hasta 1.000 L con asientos abatidos)",
       "Google integrado, V2L y hasta 24 ayudas a la conducción por menos de 20.000 €",
@@ -483,7 +483,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
     pros: [
-      "45.000 € financiando con la campaña oficial hasta el 31/10/2026 (tarifa 52.053 €)",
+      "45.000 € con financiación de la campaña oficial vigente hasta el 31/10/2026 (tarifa 52.053 €)",
       "537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista",
       "145 km eléctricos WLTP: el PHEV con más autonomía eléctrica del mercado español",
       "Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV",
@@ -492,7 +492,7 @@ export const COCHES_BASE: CocheComparador[] = [
     ],
     contras: [
       "2.270 kg en vacío: el peso se nota en apoyos y frenadas",
-      "Con la batería agotada gasta 7-7,5 l/100 km reales, lejos del 1,7 homologado",
+      "Con la batería agotada gasta 7-7,5 l cada 100 km reales, lejos del 1,7 homologado",
       "Maletero de 471 L mejorable para sus 4,77 metros",
       "Suspensión muy orientada al confort, algo blanda en secundarias",
       "Marca joven: red de posventa en despliegue y valor residual incierto",
@@ -537,7 +537,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 143,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del habito de carga",
+      "notas": "consumo combinado homologado WLTP (l/100 km); en PHEV, el coste real varía según el hábito de carga",
       "estimado": true
     },
         galeria: [
@@ -591,7 +591,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Detalles prácticos: linterna extraíble, cabina pet-friendly, V2L",
     ],
     contras: [
-      "El gasolina gasta 7,0 l/100 km y lleva etiqueta C: queda atrás en eficiencia",
+      "El gasolina gasta 7,0 l cada 100 km y lleva etiqueta C: queda atrás en eficiencia",
       "Prestaciones justas del gasolina: 10,2 s en el 0-100",
       "Maletero oficial de 442 L: mejorable frente a rivales como el MG ZS",
       "El EV pesa 1.785 kg, 265 kg más que el gasolina",
@@ -631,7 +631,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 262,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 a unos 1,85 EUR/l",
       "estimado": true
     },
     galeria: [
@@ -759,10 +759,10 @@ export const COCHES_BASE: CocheComparador[] = [
     id: "byd-atto-2-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Enciende el coche y espera a que cargue por completo la pantalla central (sistema DiLink).", "Entra en Ajustes (icono de engranaje) de la pantalla táctil.", "Ve a Servicio → Mantenimiento inteligente (Intelligent Maintenance).", "Verás los kilómetros restantes hasta la próxima revisión; pulsa sobre el intervalo para modificarlo.", "Fija el intervalo oficial del plan de mantenimiento (eléctricos: 30.000 km / 24 meses) y confirma. El aviso de revisión queda reiniciado."],
-        intervaloMantenimiento: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos, con efecto retroactivo desde 2024)",
-        filtroPolenUbicacion: "Detrás de la guantera (ubicación estándar en la gama BYD)",
-        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Si es necesario, desengancha o desmonta la guantera para acceder a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento (pestañas o tornillos según versión).", "Antes de sacarlo, fíjate en la dirección de la flecha de flujo de aire impresa en el filtro viejo.", "Extrae el filtro usado y mételo en su embalaje para desecharlo.", "Inserta el filtro nuevo con la flecha de flujo de aire en la misma dirección que el anterior.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
+        resetAceitePasos: ["Enciende el coche y espera a que cargue por completo la pantalla central (sistema DiLink).", "Entra en Ajustes (icono de engranaje) de la pantalla táctil.", "Ve a Servicio → Mantenimiento inteligente (Intelligent Maintenance).", "Verás los kilómetros restantes hasta la próxima revisión; pulsa sobre el intervalo para modificarlo.", "Deja fijado el intervalo del plan de mantenimiento oficial (eléctricos: 30.000 km / 24 meses) y valida: el aviso de revisión se reinicia."],
+        intervaloMantenimiento: "Cada 24 meses o 30.000 km, según lo que llegue antes (programa oficial BYD para Europa en eléctricos, retroactivo desde 2024)",
+        filtroPolenUbicacion: "Detrás de la guantera; es la posición habitual en los BYD",
+        filtroPolenPasos: ["Apaga el coche por completo.", "Abre la guantera del lado del copiloto.", "Si es necesario, desengancha la guantera o desmóntala para llegar a la tapa del alojamiento del filtro.", "Retira la tapa del alojamiento (pestañas o tornillos según versión).", "Antes de extraerlo, observa hacia dónde apunta la flecha de flujo de aire marcada en el filtro usado.", "Extrae el filtro usado y mételo en su embalaje para desecharlo.", "Monta el filtro nuevo orientando su flecha de flujo de aire igual que la del anterior.", "Vuelve a colocar la tapa del alojamiento y monta de nuevo la guantera.", "Enciende el coche y prueba la climatización para comprobar el caudal de aire."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=DsJCBuqNVCE",
         videoTutorialTitulo: "CÓMO Cambiar el periodo de mantenimiento de tu ByD eléctrico",
     },
@@ -794,7 +794,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Éxito probado: +14.000 uds en 2026 y líder PHEV con el DM-i",
     ],
     contras: [
-      "Consumo real alto en autopista: 20,1 kWh/100 km en la prueba del Comfort",
+      "Consumo real alto en autopista: 20,1 kWh cada 100 km en la prueba del Comfort",
       "Software mejorable: navegación y traducciones por debajo del hardware",
       "Las versiones básicas solo cargan a 65 kW en DC",
       "Maletero justo (400-450 L), peor con los cables dentro",
@@ -870,9 +870,9 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["En la pantalla táctil central, entra en el menú 'Ajuste de vehículo'.", "Busca el apartado 'Consejos de Mantenimiento' y déjalo en ON si quieres que el coche te avise de la próxima revisión.", "Entra en 'Restablecimiento del kilometraje de mantenimiento'.", "Ajusta el kilometraje del próximo mantenimiento y confirma. El aviso queda reseteado."],
         resetAceiteNota: "Procedimiento del manual de usuario oficial del Ebro S700 (2024, en español, ver. T1E24FLLHDOM24ESEU03).",
-        intervaloMantenimiento: "12 meses o 15.000 km (lo que antes ocurra) — plan oficial Ebro",
+        intervaloMantenimiento: "12 meses o 15.000 km (lo que llegue antes) — plan oficial Ebro",
         filtroPolenUbicacion: "Detrás de la guantera (plataforma Chery Tiggo 7; el manual Ebro indica su sustitución en cada revisión, realizada por el servicio autorizado)",
-        filtroPolenPasos: ["Abre la guantera y vacíala por completo.", "Presiona los laterales de la guantera hacia dentro para abatirla y acceder al alojamiento del filtro.", "Retira la tapa rectangular del alojamiento del filtro de climatizador.", "Extrae el filtro usado fijándote en la orientación de la flecha de flujo de aire.", "Coloca el filtro nuevo con la flecha en la misma dirección, cierra la tapa y vuelve a montar la guantera."],
+        filtroPolenPasos: ["Abre la guantera y vacíala por completo.", "Aprieta los laterales de la guantera hacia adentro para abatirla y llegar al alojamiento del filtro.", "Retira la tapa rectangular del alojamiento del filtro de climatizador.", "Extrae el filtro usado fijándote en la orientación de la flecha de flujo de aire.", "Pon el filtro nuevo con la flecha orientada igual, cierra la tapa y vuelve a colocar la guantera."],
         filtroAirePasos: ["Apaga el motor y todos los consumidores eléctricos; desconecta el borne negativo de la batería.", "Retira los 3 tornillos de la carcasa del filtro de aire del motor.", "Afloja la abrazadera sinfín y desconecta el manguito de admisión de la carcasa.", "Retira la carcasa superior y extrae el elemento filtrante usado.", "Coloca el elemento nuevo y monta todo en orden inverso. El manual Ebro recomienda sustituirlo cada 1 año o 15.000 km."],
         videoTutorialUrl: "https://www.youtube.com/shorts/oVJ3jdBZacs",
         videoTutorialTitulo: "CHERY TİGGO 2022 MODEL YAĞ BAKIM SIFIRLAMA - OİL RESET - ANAHTAR LAMBASI SÖNDÜRME NASIL YAPILIR? | KOCAMAN OTO SERVİS",
@@ -945,7 +945,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 262,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 a unos 1,85 EUR/l",
       "estimado": true
     },
     galeria: [
@@ -1103,7 +1103,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "45.990 €: más caro que un Model Y básico (39.990 €)",
       "Marca recién llegada: el valor de reventa es una incógnita",
       "La versión REEV de autonomía extendida no se vende en España",
-      "Consumo de 17,6 kWh/100 km, mejorable para su batería",
+      "Consumo de 17,6 kWh cada 100 km, mejorable para su batería",
       "Diseño muy llamativo que no es para todos los gustos",
     ],
     largoMm: 4750,
@@ -1237,11 +1237,11 @@ export const COCHES_BASE: CocheComparador[] = [
     id: "dacia-bigster-hybrid-precio-espana",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
-        resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
+        resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Desde el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), busca en el menú la pantalla 'intervalo de revisión' o 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto, vuelve a darlo y comprueba que el aviso ya no aparece."],
         resetAceiteNota: "Bigster Hybrid 155: mismo sistema que Duster Hybrid.",
         intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Lado del acompañante, bajo la guantera, junto a la consola central",
-        filtroPolenPasos: ["Echa hacia atrás al máximo el asiento del acompañante.", "Localiza bajo el salpicadero, en el lado del copiloto junto a la consola central, la tapa del cajetín del filtro.", "Levanta la patilla inferior de la tapa y tira de la empuñadura para extraer el filtro usado en el sentido de la flecha.", "Introduce el filtro nuevo empezando por la parte superior, cierra la tapa y devuelve el asiento a su posición."],
+        filtroPolenUbicacion: "Junto a la consola central, del lado del acompañante y bajo la guantera",
+        filtroPolenPasos: ["Echa hacia atrás al máximo el asiento del acompañante.", "Localiza bajo el salpicadero, en el lado del copiloto junto a la consola central, la tapa del cajetín del filtro.", "Levanta la patilla inferior de la tapa y tira de la empuñadura para sacar el filtro usado en el sentido de la flecha.", "Introduce el filtro nuevo empezando por la parte superior, cierra la tapa y devuelve el asiento a su posición."],
         filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire.", "Suelta las fijaciones de la tapa (clips o tornillos).", "Extrae el filtro usado, limpia el alojamiento y coloca el filtro nuevo en la misma orientación.", "Cierra la tapa, fija las grapas y cierra el capó."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=YqwYEZNCcUU",
         videoTutorialTitulo: "Cómo resetear luz de servicio en Dacia o Renault Logan 2, Sandero Stepway 2, Lodgy, Dokker, Duster",
@@ -1269,7 +1269,7 @@ export const COCHES_BASE: CocheComparador[] = [
     pros: [
       "29.390 €: el C-SUV híbrido más barato del mercado",
       "546 L de maletero (1.851 L abatidos) y 220 mm de altura libre",
-      "Consumo de 4,6 l/100 km con etiqueta ECO",
+      "Consumo de 4,6 l cada 100 km con etiqueta ECO",
       "Componentes del sistema híbrido fabricados en Valladolid",
       "Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid",
     ],
@@ -1326,7 +1326,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 202,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 a unos 1,85 EUR/l",
       "estimado": true
     },
     galeria: [
@@ -1469,7 +1469,7 @@ export const COCHES_BASE: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "El monovolumen eléctrico más lujoso a la venta en España, sin discusión",
-      "482 km WLTP reales y consumos medidos de ~22 kWh/100 km",
+      "482 km WLTP reales y consumos medidos de ~22 kWh cada 100 km",
       "7 plazas de verdad con segunda fila de avión privado",
       "Ya a la venta en España con red en marcha",
       "5 estrellas C-NCAP y etiqueta CERO",
@@ -1556,7 +1556,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Versión Summit aventurera: off-road ligero de verdad",
     ],
     contras: [
-      "El consumo real sube: 23,5 kWh/100 km en autopista según pruebas",
+      "El consumo real sube: 23,5 kWh cada 100 km en autopista según pruebas",
       "Precio: desde 53.150 €, ya no es el smart barato de antes",
       "2,2-2,4 toneladas: se nota en agilidad y consumo",
       "La marca aún arrastra la imagen del microcoche urbano",
@@ -1615,8 +1615,8 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
         resetAceiteNota: "El A390 (plataforma AmpR Medium) usa el mismo sistema de revisión de la familia E-Tech. Verificado en manual A390 (vía inspirauto): mismo método de 10 s que el A110/Renault.",
         intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (plataforma AmpR Medium)",
-        filtroPolenPasos: ["Abre la puerta del acompañante.", "Localiza la trampilla del filtro bajo la guantera, en la zona de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
+        filtroPolenUbicacion: "Debajo del salpicadero, a los pies del acompañante (plataforma AmpR Medium)",
+        filtroPolenPasos: ["Abre la puerta del acompañante.", "Encuentra la trampilla del filtro debajo de la guantera, a la altura de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=LN-mjgwTqdw",
         videoTutorialTitulo: "Comment effacer le défaut faire révision ? #shorts #renault #astuces #revision",
     },
@@ -1725,8 +1725,8 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
         resetAceiteNota: "El 4 E-Tech comparte plataforma AmpR Small y sistema con el R5 E-Tech: mismo procedimiento (START sin freno + OK 10 s).",
         intervaloMantenimiento: "30.000 km o 2 años",
-        filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (plataforma AmpR Small)",
-        filtroPolenPasos: ["Abre la puerta del acompañante.", "Localiza la trampilla del filtro bajo la guantera, en la zona de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
+        filtroPolenUbicacion: "Debajo del salpicadero, a los pies del acompañante (plataforma AmpR Small)",
+        filtroPolenPasos: ["Abre la puerta del acompañante.", "Encuentra la trampilla del filtro debajo de la guantera, a la altura de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=LN-mjgwTqdw",
         videoTutorialTitulo: "Comment effacer le défaut faire révision ? #shorts #renault #astuces #revision",
     },
@@ -1826,11 +1826,11 @@ export const COCHES_BASE: CocheComparador[] = [
     id: "peugeot-e-5008-electrico-7-plazas-precio",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Con el contacto cortado, mantén pulsado el botón '00' situado a la derecha del velocímetro, en el cuadro.", "Sin soltar el botón, da el contacto (sin arrancar).", "Aparece una cuenta atrás en la pantalla del cuadro.", "Suelta el botón cuando la cuenta atrás termine.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
-        resetAceiteNota: "Al ser eléctrico no hay aviso de cambio de aceite, sino de revisión/servicio. Procedimiento STLA Medium (botón '00' + contacto).",
+        resetAceitePasos: ["Con el contacto cortado, mantén presionado el botón '00' del cuadro, a la derecha del velocímetro.", "Sin soltar el botón, da el contacto (sin arrancar).", "Aparece una cuenta atrás en la pantalla del cuadro.", "Suelta el botón cuando la cuenta atrás termine.", "Quita el contacto, vuelve a darlo y comprueba que el aviso ya no aparece."],
+        resetAceiteNota: "Al ser eléctrico, no existe aviso de cambio de aceite: es de revisión/servicio. Procedimiento STLA Medium (botón '00' + contacto).",
         intervaloMantenimiento: "25.000 km o 2 años",
-        filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (plataforma STLA Medium)",
-        filtroPolenPasos: ["Abre la puerta del acompañante y retira la alfombrilla.", "Localiza la tapa del alojamiento del filtro bajo el salpicadero, en la zona de los pies del copiloto.", "Desmonta la parte inferior del guarnecido (tapa) para acceder al cajetín del filtro.", "Extrae el filtro usado anotando su orientación (flecha de flujo de aire).", "Coloca el filtro nuevo respetando la flecha, vuelve a montar la tapa y el guarnecido."],
+        filtroPolenUbicacion: "Debajo del salpicadero, a los pies del acompañante (plataforma STLA Medium)",
+        filtroPolenPasos: ["Abre la puerta del acompañante y retira la alfombrilla.", "Encuentra la tapa del alojamiento del filtro debajo del salpicadero, a los pies del copiloto.", "Desmonta la parte inferior del guarnecido (tapa) para acceder al cajetín del filtro.", "Retira el filtro usado anotando en qué sentido apunta (flecha de flujo de aire).", "Coloca el filtro nuevo respetando la flecha, vuelve a montar la tapa y el guarnecido."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=Y9w6j15lkEE",
         videoTutorialTitulo: "How to - Service Interval (PMS) counter RESET - Peugeot - Tutorial Help",
     },
@@ -1940,7 +1940,7 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceiteNota: "Mismo procedimiento que el Spring 2024 (misma base).",
         intervaloMantenimiento: "30.000 km o 1 año",
         filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante",
-        filtroPolenPasos: ["Abre la puerta del acompañante.", "Localiza la trampilla del filtro bajo la guantera, en la zona de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
+        filtroPolenPasos: ["Abre la puerta del acompañante.", "Encuentra la trampilla del filtro debajo de la guantera, a la altura de los pies.", "Abre la trampilla (va encajada, sin tornillos) y extrae el filtro usado.", "Coloca el filtro nuevo respetando el sentido del flujo de aire y cierra la trampilla."],
     },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
@@ -1964,7 +1964,7 @@ export const COCHES_BASE: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Desde 16.245 €: el eléctrico más barato del mercado",
-      "12,4 kWh/100 km, de los consumos más bajos del mercado",
+      "12,4 kWh cada 100 km, de los consumos más bajos del mercado",
       "Cuadro de instrumentos digital de 7\" de serie",
       "Asistente de mantenimiento de carril de serie",
     ],
@@ -2149,7 +2149,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 108,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "sin consumo WLTP publicado; estimado ≈15 kWh/100 km por segmento y batería; 15.000 km/año; cifras aproximadas (oct-2026)",
+      "notas": "sin consumo WLTP publicado; estimado ≈15 kWh cada 100 km por segmento y batería; 15.000 km al año; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2221,7 +2221,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 115,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con uso mayoritario en eléctrico (≈12 kWh/100 km) + gasolina ocasional; 15.000 km/año; cifras aproximadas (oct-2026)",
+      "notas": "estimación con uso mayoritario en eléctrico (≈12 kWh cada 100 km) + gasolina ocasional; 15.000 km al año; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2252,12 +2252,12 @@ export const COCHES_BASE: CocheComparador[] = [
     id: "volkswagen-golf-8-2026-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
-        resetAceitePasos: ["Contacto puesto sin arrancar el motor.", "En el cuadro digital (Virtual Cockpit), muestra la vista 'Autonomía' (Range).", "Mantén pulsado el botón OK del volante multifunción durante unos 5 segundos hasta que aparezca el menú de servicio.", "Selecciona 'Resetear servicio de cambio de aceite' (y 'Resetear inspección' si procede) y confirma con OK."],
+        resetAceitePasos: ["Contacto puesto sin arrancar el motor.", "En el cuadro digital (Virtual Cockpit), muestra la vista 'Autonomía' (Range).", "Deja presionado unos 5 segundos el botón OK del volante multifunción hasta que se abra el menú de servicio.", "Elige 'Resetear servicio de cambio de aceite' y, si hace falta, 'Resetear inspección'; valida con OK."],
         resetAceiteNota: "Si el reseteo se hace manualmente, el coche puede pasar a intervalo fijo (15.000 km / 1 año) aunque tuviera programado el flexible LongLife.",
         intervaloMantenimiento: "30.000 km o 2 años (flexible/LongLife, PR QG1) / 15.000 km o 1 año (fijo, PR QG0/QG2)",
         filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (detrás del panel de moqueta)",
         filtroPolenPasos: ["Retira la alfombrilla del acompañante y localiza los dos tornillos de plástico de giro bajo el salpicadero.", "Gíralos a mano en sentido antihorario y retira el panel de moqueta (va encajado, sin clips).", "Verás la caja rectangular del filtro: desliza la tapa inferior hacia la derecha y retírala.", "Extrae el filtro hacia abajo con cuidado, anotando su orientación.", "Coloca el filtro nuevo (respeta la flecha de flujo de aire), recoloca la tapa deslizándola a la izquierda hasta bloquear y vuelve a montar el panel de moqueta."],
-        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire (airbox) en la parte superior del motor 1.5 eTSI.", "Suelta los clips metálicos de la tapa de la caja (o los tornillos, según versión).", "Levanta la tapa, extrae el filtro viejo anotando su orientación.", "Limpia el interior de la caja, coloca el filtro nuevo, cierra la tapa y fija los clips.", "Cierra el capó."],
+        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire (airbox) en la parte superior del motor 1.5 eTSI.", "Suelta los clips metálicos de la tapa de la caja (o los tornillos, según versión).", "Levanta la tapa, extrae el filtro viejo anotando su orientación.", "Limpia la caja por dentro, pon el filtro nuevo, cierra la tapa y asegura los clips.", "Cierra el capó."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=BkFFpWfyfZM",
         videoTutorialTitulo: "VW Golf 8, Tiguan, Jetta, Passat B9 (2021-2026)- Cum resetezi Interval Service Schimb Ulei (Revizie)",
     },
@@ -2283,7 +2283,7 @@ export const COCHES_BASE: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El compacto más equilibrado del mercado: chasis, dirección y calidad de rodadura de referencia",
-      "1.5 eTSI 150 CV con DSG: 8,4 s de 0-100 y solo 5,2 l/100 km, con etiqueta ECO",
+      "1.5 eTSI 150 CV con DSG: 8,4 s de 0-100 y solo 5,2 l cada 100 km, con etiqueta ECO",
       "Gama amplísima: del 1.5 TSI de 115 CV al GTI de 265 CV, el Clubsport de 300 CV y el R de 333 CV",
       "El 8.5 corrige el Mk8: pantalla de 12,9 pulgadas, botones físicos en el volante y asistente con IA",
       "Maletero de 381 L y 5 plazas reales: sirve para todo, todos los días",
@@ -2316,7 +2316,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "1.5 eTSI 150 DSG: 5,2 l/100 km WLTP; 15.000 km/año; gasolina a 1,55 €/l; cifras aproximadas (oct-2026)",
+      "notas": "1.5 eTSI 150 DSG: 5,2 l cada 100 km WLTP; 15.000 km al año; gasolina a 1,55 €/l; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2398,7 +2398,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 229,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.5,
-      "notas": "2.0 TDI 150 DSG: 6,2 l/100 km; 15.000 km/año; diésel a 1,50 €/l; seguro de camper; cifras aproximadas (oct-2026)",
+      "notas": "2.0 TDI 150 DSG: 6,2 l cada 100 km; 15.000 km al año; diésel a 1,50 €/l; seguro de camper; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2427,9 +2427,9 @@ export const COCHES_BASE: CocheComparador[] = [
     id: "volkswagen-id-buzz-2026-precio-ficha-tecnica",
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
-        resetAceitePasos: ["Contacto puesto.", "En el cuadro digital, muestra la vista 'Autonomía' (Range).", "Mantén pulsado el botón OK del volante durante unos 5 segundos hasta abrir el menú de servicio.", "Selecciona 'Resetear inspección/servicio' y confirma."],
-        resetAceiteNota: "En los eléctricos el aviso es de revisión/inspección, no de cambio de aceite.",
-        intervaloMantenimiento: "Inspección cada 2 años, sin límite de kilometraje (programa de mantenimiento fijo para eléctricos, QI9)",
+        resetAceitePasos: ["Contacto puesto.", "En el cuadro digital, abre la vista 'Autonomía' (Range).", "Mantén pulsado el botón OK del volante durante unos 5 segundos hasta abrir el menú de servicio.", "Selecciona 'Resetear inspección/servicio' y confirma."],
+        resetAceiteNota: "En los eléctricos, el aviso corresponde a revisión/inspección, no a cambio de aceite.",
+        intervaloMantenimiento: "Inspección cada 2 años, sin tope de kilometraje (programa fijo de mantenimiento para eléctricos, QI9)",
         filtroPolenUbicacion: "Entre el panel frontal y el cortafuegos, bajo el capó delantero (acceso muy complicado)",
         filtroPolenPasos: ["ATENCIÓN: en el ID. Buzz el cambio del filtro de polen NO es un DIY razonable.", "Requiere abrir la trampilla delantera de servicio, desconectar conectores eléctricos y el depósito del lavaparabrisas, desatornillar paneles superiores a ambos lados y retirar el capó/panel frontal para llegar al alojamiento del filtro, entre el panel y el cortafuegos.", "Por la complejidad y el riesgo de dañar paneles o conexiones, se recomienda hacerlo en el taller."],
         videoTutorialUrl: "https://www.youtube.com/watch?v=ntkPLpNMVhQ",
@@ -2490,7 +2490,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 131,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "Pro 286 CV: 19,2 kWh/100 km WLTP; 15.000 km/año; 0,18 €/kWh (doméstica); cifras aproximadas (oct-2026)",
+      "notas": "Pro 286 CV: 19,2 kWh cada 100 km WLTP; 15.000 km al año; 0,18 €/kWh (doméstica); cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2574,7 +2574,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 84,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "consumo estimado ≈14 kWh/100 km (sin WLTP combinado publicado para la Select); 15.000 km/año; cifras aproximadas (oct-2026)",
+      "notas": "consumo estimado ≈14 kWh cada 100 km (sin WLTP combinado publicado para la Select); 15.000 km al año; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2595,19 +2595,19 @@ export const COCHES_BASE: CocheComparador[] = [
     mantenimientoDIY: {
       resetAceiteTitulo: "Resetear aviso de revisión/mantenimiento",
       resetAceitePasos: [
-        "Con el coche apagado, pulsa el botón de arranque sin pisar el freno (modo ACC).",
+        "Con el coche apagado, presiona el botón de arranque sin tocar el freno (modo ACC).",
         "En la pantalla central, ve a Ajustes → Vehículo → Intervalo de servicio.",
-        "Selecciona 'Restablecer' y confirma. El aviso de revisión queda reiniciado.",
+        "Selecciona 'Restablecer' y confirma. El aviso de revisión se reinicia.",
       ],
-      intervaloMantenimiento: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial Hyundai para eléctricos)",
+      intervaloMantenimiento: "Cada 24 meses o 30.000 km, según lo que llegue antes (programa oficial Hyundai para eléctricos)",
       filtroPolenUbicacion: "Detrás de la guantera del copiloto",
       filtroPolenPasos: [
         "Apaga el coche por completo.",
         "Abre la guantera del copiloto y vacíala.",
         "Presiona los laterales de la guantera hacia dentro para descolgarla.",
-        "Retira la tapa del alojamiento del filtro de polen.",
-        "Extrae el filtro usado fijándote en la dirección de la flecha de flujo.",
-        "Inserta el filtro nuevo con la flecha en la misma dirección.",
+        "Retira la tapa que cubre el alojamiento del filtro de polen.",
+        "Saca el filtro usado fijándote en el sentido de la flecha de flujo.",
+        "Monta el filtro nuevo con la flecha orientada igual.",
         "Vuelve a colocar la tapa y monta la guantera.",
       ],
     },

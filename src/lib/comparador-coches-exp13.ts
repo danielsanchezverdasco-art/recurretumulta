@@ -34,7 +34,7 @@ export const COCHES_EXP13: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: ["Por 19.890 € corona la gama Spring y, con etiqueta Cero, entra y aparca con ventajas en las zonas de bajas emisiones", "Su batería de solo 26,8 kWh se conforma con 13,3 kWh cada 100 km homologados y anuncia 227 km entre recargas", "Media Nav de 10 pulgadas con navegador, cámara de marcha atrás, dos tomas USB-C y duplicación inalámbrica del móvil vía Android Auto o Apple CarPlay", "La carga bidireccional del Extreme permite alimentar aparatos externos desde la batería, un extra rarísimo en un urbano de este precio", "La batería queda cubierta hasta los ocho años o los 120.000 km recorridos, con una capacidad mínima garantizada del 75 %"],
-    contras: ["Euro NCAP le dio una sola estrella en diciembre de 2021, con protección pobre del pecho y la pelvis del conductor", "Firmar 13,7 segundos en el 0 a 100 y detenerse en 125 km/h delata su terreno: rondas urbanas y poco más allá", "Pagar 1.000 € sobre el Expression 65 no compra ni un caballo más: motor y batería de 26,8 kWh son idénticos, solo cambia el equipamiento", "Homologa cuatro plazas y un maletero de 288 litros útil para la compra semanal, escaso si viajan cuatro con equipaje", "La continua se queda en 30 kW justo cuando la gama Spring renovada anuncia 40 kW y cargas del 20 al 80 % en 29 minutos"],
+    contras: ["Euro NCAP le dio una sola estrella en diciembre de 2021, con protección pobre del pecho y la pelvis del conductor", "Firmar 13,7 segundos en el 0 a 100 km/h, con detenerse en 125 km/h delata su terreno: rondas urbanas y poco más allá", "Pagar 1.000 € sobre el Expression 65 no compra ni un caballo más: motor y batería de 26,8 kWh son idénticos, solo cambia el equipamiento", "Homologa cuatro plazas y un maletero de 288 litros útil para la compra semanal, escaso si viajan cuatro con equipaje", "La continua se queda en 30 kW justo cuando la gama Spring renovada anuncia 40 kW y cargas del 20 al 80 % en 29 minutos"],
     largoMm: 3701,
     anchoMm: 1583,
     altoMm: 1519,
@@ -97,7 +97,7 @@ export const COCHES_EXP13: CocheComparador[] = [
       "Etiqueta Cero y 0 g/km: exento del impuesto de matriculación",
     ],
     contras: [
-      "2.293 kg en vacío: el peso se nota en consumos reales (~20 kWh/100 km)",
+      "2.293 kg en vacío: el peso se nota en consumos reales (~20 kWh cada 100 km)",
       "Desde 49.160 €: 3.000 € más que el 5008 híbrido enchufable",
       "9,7 s de 0-100: correcto, pero sin chispa para 210 CV",
       "Tercera fila justa para adultos en viajes largos",
@@ -296,7 +296,7 @@ export const COCHES_EXP13: CocheComparador[] = [
     ],
     contras: [
       "12,1 s de 0-100: el motor de 113 CV va justo con carga",
-      "18,2 kWh/100 km: consumo alto para su batería de 44 kWh",
+      "18,2 kWh cada 100 km: consumo alto para su batería de 44 kWh",
       "La versión de 54 kWh (408 km) cuesta solo 2.100 € más",
       "Interior sencillo con mucho plástico duro",
       "Sin prueba Euro NCAP publicada del modelo",
@@ -356,13 +356,13 @@ export const COCHES_EXP13: CocheComparador[] = [
     pros: [
       "Desde 17.300 €: el Corsa más barato de la gama",
       "1.2 turbo de 101 CV y 205 Nm: solvente en ciudad y carretera",
-      "5,1 l/100 km WLTP: contenido para un gasolina puro",
+      "5,1 l cada 100 km WLTP: contenido para un gasolina puro",
       "Maletero de 309 litros, de los mejores del segmento B",
       "Cambio manual de 6 velocidades: control total y mantenimiento simple",
     ],
     contras: [
       "Etiqueta C: sin ventajas en ZBE frente al Corsa Hybrid (ECO)",
-      "116 g/km de CO2: paga impuesto de matriculación",
+      "116 g/km de CO2, lo que supone pagar el impuesto de matriculación",
       "El Hybrid de 110 CV cuesta 3.150 € más pero gasta menos",
       "Interior con plásticos duros en el acabado Edition",
       "9,9 s de 0-100: correcto sin más",

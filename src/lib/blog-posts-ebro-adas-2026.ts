@@ -64,7 +64,7 @@ No es una ocurrencia aislada: **Omoda & Jaecoo** y **Lepas**, marcas con las que
 
 ## El s800 PHEV MY2027, en contexto
 
-La función llega con la evolución del modelo para el año 2027, que también retoca diseño, confort y calidad percibida. Lo que no cambia es lo esencial: el sistema híbrido enchufable de **279 CV** conjuntos, **hasta 90 km de autonomía eléctrica** y **más de 1.100 km de autonomía total**, con **7 plazas** de serie, uno de sus grandes argumentos frente a rivales. Con esas cifras, lleva la **etiqueta Cero de la DGT**: acceso libre a las Zonas de Bajas Emisiones. Más detalles en la <a href=https://www.dgt.es>web de la DGT</a>.
+La función llega con la evolución del modelo para el año 2027, que también retoca diseño, confort y calidad percibida. Lo que no cambia es lo esencial: el sistema híbrido enchufable de **279 CV** conjuntos, **hasta 90 km de autonomía eléctrica** y **más de 1.100 km de autonomía total**, con **7 plazas** de serie, uno de sus grandes argumentos frente a rivales. Con esas cifras, lleva la **etiqueta Cero de la DGT**: entrada libre a las Zonas de Bajas Emisiones. Más detalles en la <a href=https://www.dgt.es>web de la DGT</a>.
 
 ¿Te cuadra como coche familiar? <a href=/comparador-coches/>Compáralo con sus rivales en el comparador</a> y echa un ojo a nuestro <a href=/coches/ebro-s900-phev-2026-precio-ficha-tecnica/>análisis del Ebro S900 PHEV</a>, su hermano mayor de 7 plazas.
 

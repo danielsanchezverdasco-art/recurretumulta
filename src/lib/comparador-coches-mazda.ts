@@ -36,7 +36,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "3,8 l/100 km WLTP y etiqueta ECO: el utilitario Mazda más eficiente",
+      "3,8 l cada 100 km WLTP y etiqueta ECO: el utilitario Mazda más eficiente",
       "Sistema híbrido Toyota de 116 CV, probado y fiable",
       "Desde 26.850 €: precio contenido para un híbrido",
       "Compacto de 3,94 m, ideal para ciudad y aparcar",
@@ -70,7 +70,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 3,8 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un urbano híbrido de ~27.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 3,8 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un urbano híbrido de ~27.000 €",
       "estimado": true
     },
     galeria: [
@@ -119,7 +119,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     pros: [
       "Desde 26.265 €: el Mazda3 de acceso con etiqueta ECO",
       "Motor 2.5 atmosférico de 140 CV, suave y sin turbo",
-      "6,0 l/100 km WLTP para un gasolina de este tamaño",
+      "6,0 l cada 100 km WLTP para un gasolina de este tamaño",
       "Calidad de acabado por encima de los generalistas",
       "Diseño Kodo atemporal que no envejece"
     ],
@@ -151,7 +151,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 6,0 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un compacto de ~26.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 6,0 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un compacto de ~26.000 €",
       "estimado": true
     },
     galeria: [
@@ -198,7 +198,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "186 CV con 5,6 l/100 km: potencia y eficiencia a la vez",
+      "186 CV con 5,6 l cada 100 km: potencia y eficiencia a la vez",
       "Motor X con encendido por compresión, único en el mercado",
       "8,0 s de 0-100 y 216 km/h: el Mazda3 más rápido en gasolina",
       "Etiqueta ECO con un gasolina atmosférico de 2.0",
@@ -232,7 +232,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 211,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,6 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un compacto de ~32.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,6 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un compacto de ~32.000 €",
       "estimado": true
     },
     galeria: [
@@ -280,7 +280,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Maletero de 450 litros: 92 más que el 5 puertas",
-      "186 CV con 5,5 l/100 km, el sedán eficiente",
+      "186 CV con 5,5 l cada 100 km, el sedán eficiente",
       "Silueta de 3 volúmenes elegante y diferenciada",
       "Etiqueta ECO para circular por las ZBE",
       "Acabado Takumi con materiales de nivel premium"
@@ -313,7 +313,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 213,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,5 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para una berlina de ~35.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,5 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para una berlina de ~35.000 €",
       "estimado": true
     },
     galeria: [
@@ -361,7 +361,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "186 CV y 8,3 s de 0-100: el CX-30 más prestacional en gasolina",
-      "5,8 l/100 km WLTP con etiqueta ECO",
+      "5,8 l cada 100 km WLTP con etiqueta ECO",
       "Postura de conducción elevada sin perder tacto Mazda",
       "Maletero de 430 litros, el mejor de la gama CX-30",
       "Acabado Takumi con cuero y detalles premium"
@@ -394,7 +394,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 222,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,8 l/100 km y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un SUV compacto de ~37.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,8 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un SUV compacto de ~37.000 €",
       "estimado": true
     },
     galeria: [
@@ -451,7 +451,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "Maletero de 130 litros: solo para escapadas ligeras",
       "Etiqueta C: sin acceso libre a todas las ZBE",
       "Habitáculo muy justo para conductores altos",
-      "6,9 l/100 km si se disfruta como merece",
+      "6,9 l cada 100 km si se disfruta como merece",
       "Equipamiento tecnológico básico frente a rivales"
     ],
     largoMm: 3915,
@@ -475,7 +475,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 251,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 6,9 l/100 km y gasolina a 1,65 €/l; seguro de deportivo y mantenimiento orientativos para un roadster de ~36.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 6,9 l cada 100 km, con gasolina a 1,65 €/l; seguro de deportivo y mantenimiento orientativos para un roadster de ~36.000 €",
       "estimado": true
     },
     galeria: [
@@ -556,7 +556,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 255,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 6,9 l/100 km y gasolina a 1,65 €/l; seguro de deportivo y mantenimiento orientativos para un targa de ~38.500 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 6,9 l cada 100 km, con gasolina a 1,65 €/l; seguro de deportivo y mantenimiento orientativos para un targa de ~38.500 €",
       "estimado": true
     },
     galeria: [
@@ -605,7 +605,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     pros: [
       "85 km de autonomía eléctrica: el día a día sin gasolina",
       "Motor rotativo como generador: adiós a la ansiedad de autonomía",
-      "Etiqueta Cero con 1,0 l/100 km y 21 g/km de CO2",
+      "Etiqueta Cero con 1,0 l cada 100 km y 21 g/km de CO2",
       "Puertas freestyle sin pilar B: acceso muy original",
       "Interior con corcho y materiales reciclados"
     ],
@@ -637,7 +637,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año y uso mixto (mayoría en eléctrico): ~3,5 €/100 km entre recargas a 0,18 €/kWh y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un PHEV de ~30.500 €",
+      "notas": "estimado con 15.000 km al año y uso mixto (mayoría en eléctrico): ~3,5 €/100 km entre recargas a 0,18 €/kWh y gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un PHEV de ~30.500 €",
       "estimado": true
     },
     galeria: [
@@ -685,7 +685,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "328 CV y 500 Nm: el Mazda más potente de la historia",
-      "64 km eléctricos y etiqueta Cero con 1,4 l/100 km",
+      "64 km eléctricos y etiqueta Cero con 1,4 l cada 100 km",
       "Maletero de 570 litros, familiar de verdad",
       "Tracción total y 8 velocidades: aplomo en cualquier firme",
       "Interior premium con madera de arce y nappa"
@@ -718,7 +718,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 183,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año y uso mixto con recarga habitual: ~4,0 €/100 km entre electricidad a 0,18 €/kWh y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un SUV PHEV de ~46.000 €",
+      "notas": "estimado con 15.000 km al año y uso mixto con recarga habitual: ~4,0 €/100 km entre electricidad a 0,18 €/kWh y gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un SUV PHEV de ~46.000 €",
       "estimado": true
     },
     galeria: [
@@ -765,7 +765,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "5,0 l/100 km reales en un SUV de 4,75 m: récord de eficiencia",
+      "5,0 l cada 100 km reales en un SUV de 4,75 m: récord de eficiencia",
       "Seis cilindros en línea diésel, suavidad de otro nivel",
       "Propulsión trasera: el CX-60 más equilibrado y ligero",
       "Desde 44.533 €: el CX-60 grande más asequible",
@@ -799,7 +799,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 229,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,0 l/100 km y diésel a 1,60 €/l; seguro y mantenimiento orientativos para un SUV diésel de ~44.500 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,0 l cada 100 km y diésel a 1,60 €/l; estimación de seguro y mantenimiento para un SUV diésel de ~44.500 €",
       "estimado": true
     },
     galeria: [
@@ -847,7 +847,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "254 CV y 550 Nm: el diésel más potente y refinado del segmento",
-      "7,4 s de 0-100 con solo 5,3 l/100 km WLTP",
+      "7,4 s de 0-100 con solo 5,3 l cada 100 km WLTP",
       "Tracción total i-Activ para nieve y firmes deslizantes",
       "Seis en línea: empuje lineal sin el lag de los 4 cilindros",
       "Gran rutero: silencioso, estable y con 1.000 km de autonomía"
@@ -880,7 +880,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 248,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 5,3 l/100 km y diésel a 1,60 €/l; seguro y mantenimiento orientativos para un SUV diésel AWD de ~49.500 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,3 l cada 100 km y diésel a 1,60 €/l; estimación de seguro y mantenimiento para un SUV diésel AWD de ~49.500 €",
       "estimado": true
     },
     galeria: [
@@ -961,7 +961,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 202,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año y uso mixto con recarga habitual: ~4,5 €/100 km entre electricidad a 0,18 €/kWh y gasolina a 1,65 €/l; seguro y mantenimiento orientativos para un SUV PHEV 7 plazas de ~52.500 €",
+      "notas": "estimado con 15.000 km al año y uso mixto con recarga habitual: ~4,5 €/100 km entre electricidad a 0,18 €/kWh y gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un SUV PHEV 7 plazas de ~52.500 €",
       "estimado": true
     },
     galeria: [
@@ -1042,7 +1042,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 150,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 16,6 kWh/100 km y recarga en casa a 0,18 €/kWh; seguro y mantenimiento orientativos para una berlina eléctrica de ~40.500 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 16,6 kWh cada 100 km y recarga en casa a 0,18 €/kWh; estimación de seguro y mantenimiento para una berlina eléctrica de ~40.500 €",
       "estimado": true
     },
     galeria: [
@@ -1123,7 +1123,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 154,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 16,5 kWh/100 km y recarga en casa a 0,18 €/kWh; seguro y mantenimiento orientativos para una berlina eléctrica de ~42.000 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 16,5 kWh cada 100 km y recarga en casa a 0,18 €/kWh; estimación de seguro y mantenimiento para una berlina eléctrica de ~42.000 €",
       "estimado": true
     },
     galeria: [
@@ -1177,7 +1177,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "10-80 % en 24 minutos en carga rápida"
     ],
     contras: [
-      "18,9 kWh/100 km: consumo alto para su tamaño",
+      "18,9 kWh cada 100 km: consumo alto para su tamaño",
       "7,9 s de 0-100: prestacionalmente discreto",
       "La pantalla de 26 pulgadas puede distraer",
       "Marca nueva en eléctricos puros: red de carga propia nula",
@@ -1204,7 +1204,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 168,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimado con 15.000 km/año, consumo WLTP 18,9 kWh/100 km y recarga en casa a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico de ~46.200 €",
+      "notas": "estimado con 15.000 km al año con un consumo homologado WLTP 18,9 kWh cada 100 km y recarga en casa a 0,18 €/kWh; estimación de seguro y mantenimiento para un SUV eléctrico de ~46.200 €",
       "estimado": true
     },
     galeria: [
@@ -1252,7 +1252,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El urbano japonés con mejor tacto de conducción",
-      "Microhibridación e-SkyActiv G: etiqueta ECO y 5,5 l/100 km",
+      "Microhibridación e-SkyActiv G: etiqueta ECO y 5,5 l cada 100 km",
       "Cambio manual preciso y chasis divertido",
       "Fiabilidad japonesa legendaria",
       "Precio de acceso de la gama Mazda",
@@ -1285,7 +1285,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 198,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km al año; consumo 5,5 l cada 100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1366,7 +1366,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km al año; consumo 5,9 l cada 100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1417,7 +1417,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "2.5 atmosférico de 140 CV con etiqueta ECO",
       "Calidad interior premium por precio generalista",
       "Diseño Kodo atemporal",
-      "5,8 l/100 km con 2,5 litros de cilindrada",
+      "5,8 l cada 100 km con 2,5 litros de cilindrada",
     ],
     contras: [
       "Maletero de 430 L: justo frente a un Qashqai",
@@ -1447,7 +1447,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km al año; consumo 5,8 l cada 100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1497,7 +1497,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "1.003 kg: el roadster ligero por excelencia",
       "Tracción trasera y capota manual: purismo total",
       "El descapotable más vendido de la historia",
-      "6,3 l/100 km: deportivo y frugal",
+      "6,3 l cada 100 km: deportivo y frugal",
       "Revalorización: un MX-5 cuidado no pierde valor",
     ],
     contras: [
@@ -1528,7 +1528,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 224,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 6,3 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km al año; consumo 6,3 l cada 100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1609,7 +1609,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 134,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 19 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km al año; consumo 19 kWh cada 100 km WLTP; carga en casa a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1658,7 +1658,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     pros: [
       "3.3 diésel de 6 cilindros y 254 CV: suavidad de otro nivel",
       "7 plazas reales en 4,99 m",
-      "5,7 l/100 km con 2.130 kg: el diésel bien hecho",
+      "5,7 l cada 100 km con 2.130 kg: el diésel bien hecho",
       "550 Nm y tracción total: remolca 2.500 kg",
       "Etiqueta ECO con microhibridación",
     ],
@@ -1690,7 +1690,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
+      "notas": "15.000 km al año; consumo 5,7 l cada 100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
       "estimado": true
     },
     galeria: [

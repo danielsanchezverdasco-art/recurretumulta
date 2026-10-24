@@ -40,7 +40,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "453 km de autonomía WLTP con la batería de 72,8 kWh",
       "Precio de acceso razonable para un premium eléctrico: desde 51.500 €",
       "Etiqueta Cero de la DGT: entra en todas las ZBE sin restricciones",
-      "Consumo contenido de 16,6 kWh/100 km y 0-100 en 7,5 s",
+      "Consumo contenido de 16,6 kWh cada 100 km y 0-100 en 7,5 s",
       "Acabados y refinamiento de verdadero premium japonés",
     ],
     contras: [
@@ -71,7 +71,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 153,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,6 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 16,6 kWh cada 100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -124,7 +124,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "Desde 59.600 €: el SUV híbrido premium más equilibrado de Lexus",
       "243 CV del sistema híbrido de cuarta generación",
       "Maletero de 545 litros, al nivel de los mejores del segmento",
-      "Consumo de solo 5,7 l/100 km en la versión de acceso",
+      "Consumo de solo 5,7 l cada 100 km en la versión de acceso",
       "Etiqueta ECO: entra en las ZBE con restricciones leves",
     ],
     contras: [
@@ -147,7 +147,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     aprox: [],
     imagen: "/media/lexus-nx-350h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
-    costeMensual: {"costeEnergia100km": 10.5, "costeMensualTotal": 283, "estimado": true, "mantenimientoAnual": 450, "notas": "Estimación para el NX 350h Premium+ de tracción delantera con su consumo WLTP de 5,7 l/100 km y 1.500 km mensuales, sin contar ayudas ni descuentos", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1050, "seguroTercerosAnual": 550},
+    costeMensual: {"costeEnergia100km": 10.5, "costeMensualTotal": 283, "estimado": true, "mantenimientoAnual": 450, "notas": "Estimación para el NX 350h Premium+ de tracción delantera con su consumo WLTP de 5,7 l cada 100 km y 1.500 km mensuales, sin contar ayudas ni descuentos", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1050, "seguroTercerosAnual": 550},
     galeria: [
       {
         "src": "/media/lexus-nx-350h-2024-precio-ficha-tecnica-oficial.webp",
@@ -231,7 +231,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 2,9 l/100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
+      "notas": "consumo WLTP 2,9 l cada 100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -282,7 +282,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "250 CV con el híbrido de cuarta generación: suavidad total",
-      "Consumo de 6,3 l/100 km para un SUV de 4,89 metros",
+      "Consumo de 6,3 l cada 100 km para un SUV de 4,89 metros",
       "Etiqueta ECO y tracción total de serie",
       "Interior con la mejor calidad de materiales de su segmento",
       "Espacio para las piernas trasero superior al de sus rivales",
@@ -315,7 +315,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 321,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 6,3 l/100 km; 1.500 km/mes; modelo descatalogado a finales de 2024 (solo mercado de ocasión)",
+      "notas": "consumo WLTP 6,3 l cada 100 km; 1.500 km/mes; modelo descatalogado a finales de 2024 (solo mercado de ocasión)",
       "estimado": true
     },
     galeria: [
@@ -399,7 +399,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 181,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 1,1 l/100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
+      "notas": "consumo WLTP 1,1 l cada 100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -457,7 +457,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     contras: [
       "Desde 112.650 €: territorio Porsche Cayenne y BMW X5",
-      "Consumo de 8,1 l/100 km: nada frugal para ser híbrido",
+      "Consumo de 8,1 l cada 100 km: nada frugal para ser híbrido",
       "Maletero de 461 litros, pequeño para un SUV grande",
       "Etiqueta ECO, no Cero: paga en las ZBE más estrictas",
       "Solo se vende en acabado F Sport: sin versión discreta",
@@ -483,7 +483,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 396,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 8,1 l/100 km; 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 8,1 l cada 100 km; 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -567,7 +567,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,7 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 16,7 kWh cada 100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -651,7 +651,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 182,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 18,2 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; modelo descatalogado en mayo de 2025",
+      "notas": "consumo WLTP 18,2 kWh cada 100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; modelo descatalogado en mayo de 2025",
       "estimado": true
     },
     galeria: [
@@ -701,8 +701,8 @@ export const COCHES_LEXUS: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "196 CV con la sexta generación del sistema híbrido Lexus (0-100 km/h en 8,0 s)",
-      "Solo 4,8 l/100 km homologados: la berlina grande más frugal",
+      "196 CV con la sexta generación del sistema híbrido Lexus (8,0 s en el 0-100 km/h)",
+      "Solo 4,8 l cada 100 km homologados: la berlina grande más frugal",
       "5,14 metros de berlina de representación por 61.500 €",
       "Etiqueta ECO y Lexus Safety System+ 4.0 de serie",
       "Mismo precio de acceso que el eléctrico ES 350e: eliges tecnología",
@@ -735,7 +735,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 271,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 4,8 l/100 km (tracción delantera); 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 4,8 l cada 100 km (tracción delantera); 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -848,7 +848,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 15 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
+      "notas": "consumo estimado 15 kWh cada 100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -932,7 +932,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 182,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 16,5 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
+      "notas": "consumo estimado 16,5 kWh cada 100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -990,7 +990,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     contras: [
       "Desde 139.000 € y hasta 168.000 € en el Luxury",
-      "Consumo de 9,4 l/100 km: nada frugal",
+      "Consumo de 9,4 l cada 100 km: nada frugal",
       "Maletero de 400 litros, pequeño para su tamaño",
       "Pesa 2.485 kg: se nota en carreteras reviradas",
       "El mercado de berlinas grandes casi ha desaparecido",
@@ -1016,7 +1016,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 457,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 9,4 l/100 km; 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 9,4 l cada 100 km; 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -1074,7 +1074,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     ],
     contras: [
       "Se dejó de vender en enero de 2025: solo queda en ocasión",
-      "Consumo de 11,6 l/100 km y etiqueta C de la DGT",
+      "Consumo de 11,6 l cada 100 km y etiqueta C de la DGT",
       "Maletero de 197 litros: para un fin de semana, y justo",
       "Desde 156.000 €: precio de superdeportivo italiano",
       "Cuatro plazas teóricas: las traseras son testimoniales",
@@ -1100,7 +1100,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 539,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 11,6 l/100 km; 1.500 km/mes; modelo descatalogado en enero de 2025 (solo mercado de ocasión)",
+      "notas": "consumo WLTP 11,6 l cada 100 km; 1.500 km/mes; modelo descatalogado en enero de 2025 (solo mercado de ocasión)",
       "estimado": true
     },
     galeria: [
@@ -1151,7 +1151,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "359 CV híbridos con 0-100 en 5,0 s y 250 km/h",
-      "Consumo de 8,1 l/100 km: razonable para un coupé de este nivel",
+      "Consumo de 8,1 l cada 100 km: razonable para un coupé de este nivel",
       "Etiqueta ECO de la DGT",
       "El coupé híbrido más bello del mercado, sin discusión",
       "Solo se vendió hasta enero de 2025: exclusividad garantizada",
@@ -1184,7 +1184,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 433,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 8,1 l/100 km; 1.500 km/mes; modelo descatalogado en enero de 2025 (solo mercado de ocasión)",
+      "notas": "consumo WLTP 8,1 l cada 100 km; 1.500 km/mes; modelo descatalogado en enero de 2025 (solo mercado de ocasión)",
       "estimado": true
     },
     galeria: [
@@ -1268,7 +1268,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 209,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 19 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes; seguro estimado para un SUV premium de 88.000 €",
+      "notas": "consumo estimado 19 kWh cada 100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes; seguro estimado para un SUV premium de 88.000 €",
       "estimado": true
     },
     galeria: [

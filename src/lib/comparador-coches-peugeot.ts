@@ -70,7 +70,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 143,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 14 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un utilitario eléctrico",
+      "notas": "15.000 km al año con un consumo homologado WLTP 14 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un utilitario eléctrico",
       "estimado": true
     },
     galeria: [
@@ -120,7 +120,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 20.290 €: el 208 más barato con etiqueta ECO",
-      "Consumo WLTP de 4,5 l/100 km y solo 102 g/km de CO2",
+      "Consumo WLTP de 4,5 l cada 100 km y solo 102 g/km de CO2",
       "Cambio automático e-DCS6 de serie, perfecto para ciudad",
       "0 a 100 en 9,8 s: más vivo que su potencia sugiere",
       "Sin enchufe: cero preocupaciones de carga",
@@ -153,7 +153,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
+      "notas": "15.000 km al año con un consumo homologado WLTP 4,5 l cada 100 km, con gasolina a 1,55 €/l; estimación de seguro y mantenimiento para un utilitario híbrido",
       "estimado": true
     },
     galeria: [
@@ -201,8 +201,8 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["Homologa 405 km WLTP gracias a los 54 kWh que la renovación de 2023 montó bajo el piso, un salto claro frente al e-2008 original presentado en 2019", "Acepta recargas a 100 kW en corriente continua y a 11 kW en alterna: enchufe doméstico durante la noche y paradas breves cuando toca viajar", "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones sin las limitaciones que ya condicionan incluso al 2008 Hybrid de su propia gama", "El puesto de conducción i-Cockpit 3D con pantalla central de 10 pulgadas sigue sin equivalente entre los SUV urbanos eléctricos que rondan su precio", "Firmar 15,3 kWh/100 km homologados con carrocería SUV y 1.625 kg tiene mérito: gasta como un utilitario eléctrico pese a su formato elevado"],
-    contras: ["Arranca en 33.545 euros compartiendo motor y batería con el Opel Mokka Electric y el Jeep Avenger eléctricos: pagas el diseño Peugeot, no una mecánica distinta", "Esos 341 litros de maletero saben a poco en un coche vendido como familiar urbano: sillita, compra semanal y equipaje blando ya obligan a encajar piezas", "Tarda 9,1 segundos en el 0 a 100 y se planta en 150 km/h de máxima, prestaciones de coche tranquilo pese a costar como un compacto", "Pesa 1.625 kg, mucho para un turismo de 4,30 metros: en puertos y rotondas enlazadas la inercia manda más que sus 156 CV", "Su carrocería jamás pasó por Euro NCAP en versión eléctrica: la nota de 2019 corresponde al 2008 de combustión y no puede traspasarse a este E-2008"],
+    pros: ["Homologa 405 km WLTP gracias a los 54 kWh que la renovación de 2023 montó bajo el piso, un salto claro frente al e-2008 original presentado en 2019", "Acepta recargas a 100 kW en corriente continua y a 11 kW en alterna: enchufe doméstico durante la noche y paradas breves cuando toca viajar", "La etiqueta Cero de la DGT le abre las zonas de bajas emisiones sin las limitaciones que ya condicionan incluso al 2008 Hybrid de su propia gama", "El puesto de conducción i-Cockpit 3D con pantalla central de 10 pulgadas sigue sin equivalente entre los SUV urbanos eléctricos que rondan su precio", "Firmar 15,3 kWh cada 100 km homologados con carrocería SUV y 1.625 kg tiene mérito: gasta como un utilitario eléctrico pese a su formato elevado"],
+    contras: ["Arranca en 33.545 euros compartiendo motor y batería con el Opel Mokka Electric y el Jeep Avenger eléctricos: pagas el diseño Peugeot, no una mecánica distinta", "Esos 341 litros de maletero saben a poco en un coche vendido como familiar urbano: sillita, compra semanal y equipaje blando ya obligan a encajar piezas", "Tarda 9,1 segundos en el 0 a 100 km/h, con se planta en 150 km/h de máxima, prestaciones de coche tranquilo pese a costar como un compacto", "Pesa 1.625 kg, mucho para un turismo de 4,30 metros: en puertos y rotondas enlazadas la inercia manda más que sus 156 CV", "Su carrocería jamás pasó por Euro NCAP en versión eléctrica: la nota de 2019 corresponde al 2008 de combustión y no puede traspasarse a este E-2008"],
     largoMm: 4304,
     anchoMm: 1775,
     altoMm: 1550,
@@ -224,7 +224,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 15,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km al año con un consumo homologado WLTP 15,3 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo eléctrico supuesto de 18 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro deportivo orientativo",
+      "notas": "15.000 km al año, consumo eléctrico supuesto de 18 kWh cada 100 km a 0,18 €/kWh, cargando en casa; seguro deportivo orientativo",
       "estimado": true
     },
     galeria: [
@@ -380,7 +380,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 15 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un compacto eléctrico",
+      "notas": "15.000 km al año con un consumo homologado WLTP 15 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un compacto eléctrico",
       "estimado": true
     },
     galeria: [
@@ -429,7 +429,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Con 85 km eléctricos WLTP, quien tenga enchufe en casa puede encadenar la semana laboral entera sin que el motor de gasolina despierte entre trayecto y trayecto.", "El conjunto suma 196 CV con 360 Nm de par: deja el 0 a 100 en 7,6 segundos y firma 225 km/h de punta, el registro más rápido entre los 308 de este fichero.", "A diferencia del E-308 puramente eléctrico, aquí un viaje largo no exige planificar paradas de carga: agotada la batería queda el depósito, y aun así luce el distintivo Cero.", "Declara 361 litros de maletero, exactamente el mismo volumen que el E-308 eléctrico de la propia gama: instalar la batería no le ha robado espacio frente a su hermano.", "Su cinco puertas mide 4.367 mm, 269 mm menos que el SW enchufable: en ciudad y al aparcar se maneja con mucha menos carrocería que vigilar por el retrovisor."],
+    pros: ["Con 85 km eléctricos WLTP, quien tenga enchufe en casa puede encadenar la semana laboral entera sin que el motor de gasolina despierte entre trayecto y trayecto.", "El conjunto suma 196 CV con 360 Nm de par: deja el 7,6 s en el 0-100 km/hegundos y firma 225 km/h de punta, el registro más rápido entre los 308 de este fichero.", "A diferencia del E-308 puramente eléctrico, aquí un viaje largo no exige planificar paradas de carga: agotada la batería queda el depósito, y aun así luce el distintivo Cero.", "Declara 361 litros de maletero, exactamente el mismo volumen que el E-308 eléctrico de la propia gama: instalar la batería no le ha robado espacio frente a su hermano.", "Su cinco puertas mide 4.367 mm, 269 mm menos que el SW enchufable: en ciudad y al aparcar se maneja con mucha menos carrocería que vigilar por el retrovisor."],
     contras: ["La tarifa arranca en 35.830 euros y se acerca peligrosamente al eléctrico puro: solo 1.520 euros lo separan del E-308 de 37.350 euros que vende la misma marca.", "Quien necesite cargar bultos mirará al familiar: por 3.950 euros más, el SW enchufable eleva el maletero desde estos 361 litros hasta los 548 litros.", "Pesa 1.698 kilos para ser un compacto de tracción delantera, un lastre que penaliza agilidad y gasto real cuando la parte eléctrica ya no aporta empuje.", "La casilla de carga rápida en corriente continua queda vacía en su ficha: recuperar autonomía fuera de casa depende de postes de alterna y de tener paciencia.", "En Euro NCAP se quedó en cuatro estrellas en 2022, con los asistentes puntuados al 65 %: un Skoda Octavia coetáneo presume de cinco en este segmento."],
     largoMm: 4367,
     anchoMm: 1852,
@@ -452,7 +452,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un compacto PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); estimación de seguro y mantenimiento para un compacto PHEV",
       "estimado": true
     },
     galeria: [
@@ -504,7 +504,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Maletero de 608 litros: el familiar compacto más capaz",
-      "Consumo WLTP de 4,8 l/100 km con etiqueta ECO",
+      "Consumo WLTP de 4,8 l cada 100 km con etiqueta ECO",
       "145 CV con el nuevo sistema híbrido e-DCS6 de 2026",
       "Desde 27.670 €: familiar híbrido a precio de generalista",
       "4,64 m de largo sin renunciar a aparcar en ciudad",
@@ -537,7 +537,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 205,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un familiar híbrido",
+      "notas": "15.000 km al año con un consumo homologado WLTP 4,8 l cada 100 km, con gasolina a 1,55 €/l; estimación de seguro y mantenimiento para un familiar híbrido",
       "estimado": true
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); estimación de seguro y mantenimiento para un familiar PHEV",
       "estimado": true
     },
     galeria: [
@@ -660,7 +660,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Fastback original: berlina, coupé y SUV en un solo coche",
-      "Consumo WLTP de 5,0 l/100 km con 145 CV híbridos",
+      "Consumo WLTP de 5,0 l cada 100 km con 145 CV híbridos",
       "Maletero de 536 litros con portón práctico",
       "Desde 31.720 €: acceso asequible al segmento D",
       "Etiqueta ECO sin necesidad de enchufar",
@@ -693,7 +693,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 5,0 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para una berlina híbrida",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,0 l cada 100 km, con gasolina a 1,55 €/l; estimación de seguro y mantenimiento para una berlina híbrida",
       "estimado": true
     },
     galeria: [
@@ -741,7 +741,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     bateriaKwh: 14.6,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Conjunto de 180 CV térmicos más 125 CV eléctricos: 241 CV combinados y cambio e-DCS7 de siete marchas, una combinación exclusiva del 408 dentro de Peugeot", "Los 85 km eléctricos homologados cubren la jornada urbana sin arrancar el motor de gasolina, manteniendo la etiqueta Cero de la DGT en esta versión", "Recarga completa en 2 horas y 5 minutos con wallbox de 7,4 kW, un tiempo asumible durante una noche o una jornada laboral completa", "Portón de fastback sobre 4.687 mm de carrocería: boca de carga más práctica que la tapa estrecha de una berlina convencional de tres volúmenes", "Consumo homologado de 2,6 l/100 km cuando la batería de 14,6 kWh se aprovecha con recargas frecuentes entre trayectos cortos y medianos"],
+    pros: ["Conjunto de 180 CV térmicos más 125 CV eléctricos: 241 CV combinados y cambio e-DCS7 de siete marchas, una combinación exclusiva del 408 dentro de Peugeot", "Los 85 km eléctricos homologados cubren la jornada urbana sin arrancar el motor de gasolina, manteniendo la etiqueta Cero de la DGT en esta versión", "Recarga completa en 2 horas y 5 minutos con wallbox de 7,4 kW, un tiempo asumible durante una noche o una jornada laboral completa", "Portón de fastback sobre 4.687 mm de carrocería: boca de carga más práctica que la tapa estrecha de una berlina convencional de tres volúmenes", "Consumo homologado de 2,6 l cada 100 km cuando la batería de 14,6 kWh se aprovecha con recargas frecuentes entre trayectos cortos y medianos"],
     contras: ["Maletero de 415 litros en esta versión enchufable, un recorte claro frente a los 536 litros anunciados por Stellantis para el 408 en 2022", "1.771 kg de peso: el sobrepeso del sistema enchufable se deja sentir frente a un 408 Hybrid 145, más ligero y sencillo de mantener", "Sin carga en corriente continua y con el cargador de 7,4 kW en alterna ofrecido como opción, según la nota oficial de Stellantis", "Cuatro estrellas Euro NCAP obtenidas en 2022, por debajo de las cinco que presumen muchos familiares europeos lanzados en los últimos años", "41.450 euros de partida en acabado Allure: posicionamiento alto para la parte alta del segmento C, antes de sumar opciones y wallbox doméstico"],
     largoMm: 4687,
     anchoMm: 1848,
@@ -764,7 +764,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (60 % eléctrico a 0,18 €/kWh con 40 % de gasolina a 1,55 €/l); estimación de seguro y mantenimiento para una berlina PHEV",
       "estimado": true
     },
     galeria: [
@@ -849,7 +849,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 14,8 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para una berlina eléctrica",
+      "notas": "15.000 km al año con un consumo homologado WLTP 14,8 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para una berlina eléctrica",
       "estimado": true
     },
     galeria: [
@@ -932,7 +932,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 16,7 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km al año con un consumo homologado WLTP 16,7 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1015,7 +1015,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 17,1 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico de gran autonomía",
+      "notas": "15.000 km al año con un consumo homologado WLTP 17,1 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un SUV eléctrico de gran autonomía",
       "estimado": true
     },
     galeria: [
@@ -1064,7 +1064,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: ["Homologa 87 kilómetros sin quemar gasolina, margen suficiente para encadenar varios días laborables de ida y vuelta al trabajo enchufando únicamente en casa por la noche.", "El conjunto enchufable entrega 194 CV junto a 350 Nm y firma 7,8 segundos hasta los 100 km/h, cifras impropias de un familiar que declara 19 g/km.", "Su puesto i-Cockpit estrena pantalla panorámica curvada de 21 pulgadas sobre un volante pequeño, una firma interior que ni Tucson ni Rafale intentan copiar.", "Con las cinco plazas ocupadas retiene 520 litros para equipaje, así que electrificarse aquí no obliga a viajar con bolsas blandas entre las piernas traseras.", "Llenar su depósito de 55 litros suma la reserva térmica a la carga eléctrica, combinación pensada para cruzar media península sin planificar paradas alrededor de un enchufe."],
-    contras: ["La tarifa arranca en 41.160 euros, posicionamiento que lo empuja contra enchufables de marcas con imagen premium y exige justificar cada euro frente al Hybrid de casa.", "Euro NCAP lo dejó en cuatro estrellas durante 2025, lastrado por un 62 % en asistentes, mientras Rafale o Enyaq presumen de la máxima calificación posible.", "Sobre la báscula declara 1.953 kilos, el sobrepeso de cargar motor 1.6, batería y depósito juntos, perceptible cuando la carretera se retuerce o toca frenar fuerte.", "Recuperar energía en ruta queda limitado a corriente alterna: la ficha no registra carga en continua, así que una pausa breve de café apenas suma kilómetros eléctricos.", "El 0,9 l/100 km homologado se sostiene enchufando con disciplina; quien lo use como gasolina convencional arrastrará casi dos toneladas y verá cómo el consumo se dispara."],
+    contras: ["La tarifa arranca en 41.160 euros, posicionamiento que lo empuja contra enchufables de marcas con imagen premium y exige justificar cada euro frente al Hybrid de casa.", "Euro NCAP lo dejó en cuatro estrellas durante 2025, lastrado por un 62 % en asistentes, mientras Rafale o Enyaq presumen de la máxima calificación posible.", "Sobre la báscula declara 1.953 kilos, el sobrepeso de cargar motor 1.6, batería y depósito juntos, perceptible cuando la carretera se retuerce o toca frenar fuerte.", "Recuperar energía en ruta queda limitado a corriente alterna: la ficha no registra carga en continua, así que una pausa breve de café apenas suma kilómetros eléctricos.", "El 0,9 l cada 100 km homologado se sostiene enchufando con disciplina; quien lo use como gasolina convencional arrastrará casi dos toneladas y verá cómo el consumo se dispara."],
     largoMm: 4542,
     anchoMm: 1895,
     altoMm: 1641,
@@ -1086,7 +1086,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (65 % eléctrico a 0,18 €/kWh y 35 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (65 % eléctrico a 0,18 €/kWh y 35 % gasolina a 1,55 €/l); estimación de seguro y mantenimiento para un SUV PHEV",
       "estimado": true
     },
     galeria: [
@@ -1138,7 +1138,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "7 plazas reales con maletero de 748 litros en configuración 5 plazas",
-      "Consumo WLTP de 5,6 l/100 km para un 7 plazas de 4,79 m",
+      "Consumo WLTP de 5,6 l cada 100 km para un 7 plazas de 4,79 m",
       "Desde 34.950 €: el 7 plazas híbrido más asequible",
       "Etiqueta ECO sin enchufar",
       "Segunda fila con tres asientos individuales deslizantes",
@@ -1171,7 +1171,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 5,6 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un SUV híbrido de 7 plazas",
+      "notas": "15.000 km al año con un consumo homologado WLTP 5,6 l cada 100 km, con gasolina a 1,55 €/l; estimación de seguro y mantenimiento para un SUV híbrido de 7 plazas",
       "estimado": true
     },
     galeria: [
@@ -1223,7 +1223,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "El único 7 plazas PHEV generalista con etiqueta Cero",
       "91 km de autonomía eléctrica para el día a día",
       "226 CV combinados con 748 litros de maletero",
-      "Consumo homologado de 2,8 l/100 km",
+      "Consumo homologado de 2,8 l cada 100 km",
       "Desde 41.180 €: 7 plazas enchufables sin irse a premium",
     ],
     contras: [
@@ -1254,7 +1254,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 250,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV de 7 plazas",
+      "notas": "15.000 km al año, uso mixto estimado (60 % eléctrico a 0,18 €/kWh con 40 % de gasolina a 1,55 €/l); estimación de seguro y mantenimiento para un SUV PHEV de 7 plazas",
       "estimado": true
     },
     galeria: [
@@ -1325,7 +1325,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 260,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (60 % eléctrico a 0,18 €/kWh con 40 % de gasolina a 1,55 €/l); estimación de seguro y mantenimiento para una berlina PHEV",
       "estimado": true
     },
     galeria: [
@@ -1379,7 +1379,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "El familiar PHEV más elegante: 530 litros y etiqueta Cero",
       "224 CV y 360 Nm con 240 km/h de velocidad máxima",
       "62 km de autonomía eléctrica",
-      "Consumo homologado de 1,5 l/100 km y 33 g/km",
+      "Consumo homologado de 1,5 l cada 100 km y 33 g/km",
       "Acabado Allure completo desde 46.810 €",
     ],
     contras: [
@@ -1410,7 +1410,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 265,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
+      "notas": "15.000 km al año, uso mixto estimado (60 % eléctrico a 0,18 €/kWh con 40 % de gasolina a 1,55 €/l); estimación de seguro y mantenimiento para un familiar PHEV",
       "estimado": true
     },
     galeria: [
@@ -1468,7 +1468,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     contras: [
       "11,5 s de 0 a 100 y 132 km/h de punta: ritmo pausado",
       "1.854 kg: pesa como un SUV grande",
-      "Consumo de 18,3 kWh/100 km, alto por la aerodinámica",
+      "Consumo de 18,3 kWh cada 100 km, alto por la aerodinámica",
       "Acabados sencillos, de origen furgoneta",
       "La autonomía real en invierno ronda los 220 km",
     ],
@@ -1493,7 +1493,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año, consumo WLTP 18,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un combi eléctrico",
+      "notas": "15.000 km al año con un consumo homologado WLTP 18,3 kWh cada 100 km a 0,18 €/kWh, cargando en casa; estimación de seguro y mantenimiento para un combi eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1542,7 +1542,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: ["Ocho plazas reales en 4,98 metros y todavía 1.000 litros para equipaje con todas ocupadas, combinación que ningún SUV de siete asientos iguala", "Quien necesite salir de la ciudad puede pedir la batería de 75 kWh y estirar el alcance homologado hasta 350 km WLTP", "Sus 136 CV y 260 Nm mueven en silencio un formato pensado para lanzaderas, VTC y familias numerosas, con etiqueta Cero", "Acepta carga rápida de 100 kW en continua, ritmo útil para turnos profesionales que no pueden aparcarla durante horas", "Deriva del Peugeot Expert comercial, así que comparte taller, recambios y lógica de flota con una furgoneta que las empresas ya conocen"],
-    contras: ["Los 224 km WLTP de esta batería de 50 kWh se quedan cortos en cuanto el servicio incluye autovía con ocho viajeros", "En alterna se conforma con 7,4 kW de serie, así que llenar la batería en casa es tarea de muchas horas", "Su velocidad punta está limitada a 130 km/h, sin margen alguno sobre el límite legal español en autopista", "Pesa 2.027 kg en vacío, lastre que explica un consumo homologado de 24 kWh/100 km, alto incluso entre monovolúmenes eléctricos", "El acabado Business de esta ficha prioriza el trabajo: el ambiente tipo lounge queda reservado al Business VIP, más caro"],
+    contras: ["Los 224 km WLTP de esta batería de 50 kWh se quedan cortos en cuanto el servicio incluye autovía con ocho viajeros", "En alterna se conforma con 7,4 kW de serie, así que llenar la batería en casa es tarea de muchas horas", "Su velocidad punta está limitada a 130 km/h, sin margen alguno sobre el límite legal español en autopista", "Pesa 2.027 kg en vacío, lastre que explica un consumo homologado de 24 kWh cada 100 km, alto incluso entre monovolúmenes eléctricos", "El acabado Business de esta ficha prioriza el trabajo: el ambiente tipo lounge queda reservado al Business VIP, más caro"],
     largoMm: 4981,
     anchoMm: 1920,
     altoMm: 1890,
@@ -1564,7 +1564,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 280,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 20.000 km/año (uso profesional), consumo eléctrico supuesto de 24 kWh/100 km a 0,18 €/kWh con carga en base; seguro y mantenimiento orientativos para un monovolumen eléctrico",
+      "notas": "estimación con 20.000 km/año (uso profesional), consumo eléctrico supuesto de 24 kWh cada 100 km a 0,18 €/kWh, cargando en base; estimación de seguro y mantenimiento para un monovolumen eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1649,7 +1649,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 212,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con consumo WLTP 5,5 l/100 km × 1,60 €/l; 15.000 km/año",
+      "notas": "estimación con consumo WLTP 5,5 l cada 100 km × 1,60 €/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1732,7 +1732,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 192,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con uso 70 % eléctrico (18 kWh/100 km × 0,18 €/kWh) y 30 % gasolina (7 l/100 km × 1,60 €/l); 15.000 km/año",
+      "notas": "estimación con uso 70 % eléctrico (18 kWh cada 100 km × 0,18 €/kWh) y 30 % gasolina (7 l cada 100 km × 1,60 €/l); 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1782,7 +1782,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "145 CV con etiqueta ECO desde 24.200 €",
-      "4,9 l/100 km homologados",
+      "4,9 l cada 100 km homologados",
       "0-100 en 8,3 s: ágil en ciudad",
       "Diseño musculoso de SUV urbano",
       "i-Cockpit 3D de serie",
@@ -1815,7 +1815,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 205,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con consumo WLTP 4,9 l/100 km × 1,60 €/l; 15.000 km/año",
+      "notas": "estimación con consumo WLTP 4,9 l cada 100 km × 1,60 €/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1886,7 +1886,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "uso profesional 20.000 km/año; consumo estimado 20 kWh/100 km × 0,18 €/kWh; seguro y mantenimiento orientativos de furgoneta eléctrica",
+      "notas": "uso profesional 20.000 km/año; consumo estimado 20 kWh cada 100 km × 0,18 €/kWh; seguro y mantenimiento orientativos de furgoneta eléctrica",
       "estimado": true
     },
     galeria: [
@@ -1970,7 +1970,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 209,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "uso profesional 20.000 km/año; consumo WLTP 20,5 kWh/100 km × 0,18 €/kWh; precio orientativo según prensa especializada",
+      "notas": "uso profesional 20.000 km/año; consumo WLTP 20,5 kWh cada 100 km × 0,18 €/kWh; precio orientativo según prensa especializada",
       "estimado": true
     },
     galeria: [

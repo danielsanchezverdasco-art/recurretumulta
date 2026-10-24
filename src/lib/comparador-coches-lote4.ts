@@ -84,7 +84,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Bugatti (programa de servicio oficial).",
@@ -170,7 +170,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Rimac Automobili.",
@@ -256,7 +256,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Koenigsegg.",
@@ -342,7 +342,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio personalizado Pagani Automobili.",
@@ -428,7 +428,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con De Tomaso Automobili.",
@@ -686,7 +686,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con AC Cars.",
@@ -772,7 +772,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Dallara.",
@@ -858,7 +858,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio personalizado Automobili Pininfarina.",
@@ -944,7 +944,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Hennessey Special Vehicles.",
@@ -1030,7 +1030,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con SSC North America.",
@@ -1116,7 +1116,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Czinger Vehicles.",
@@ -1202,7 +1202,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio Gordon Murray Automotive.",
@@ -1288,7 +1288,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio Gordon Murray Automotive.",
@@ -1460,7 +1460,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Automobili Turismo e Sport.",
@@ -1546,7 +1546,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Zagato / Iso Rivolta.",

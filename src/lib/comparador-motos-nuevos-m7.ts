@@ -45,7 +45,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Version M con top case integrado de 35 litros por solo 50 euros mas: fabricado en un 90% con materiales reciclados y sistema de estanqueidad patentado",
       "Solo 120 kg en orden de marcha y asiento a 770 mm: agil entre el trafico y accesible para cualquier estatura",
       "Garantia oficial de 4 anos segun la tarifa de Peugeot Motocycles Espana, por encima de los 2-3 anos habituales del segmento",
-      "Consumo contenido de 2,5 a 3,0 l/100 km segun datos de distribuidores: barato de usar a diario",
+      "Consumo contenido de 2,5 a 3,0 l cada 100 km segun datos de distribuidores: barato de usar a diario",
       "Tarifa oficial de 2.249 euros, con promocion oficial a 1.999 euros o 49 euros al mes",
     ],
     contras: [
@@ -86,7 +86,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Peugeot Motocycles Espana: sin plan de mantenimiento publicado para el Kisbee M 125",
-      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -123,7 +123,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor de 11 CV con refrigeracion liquida y tecnologias LFE y ACG de baja friccion: declara solo 2,1 l/100 km",
+      "Motor de 11 CV con refrigeracion liquida y tecnologias LFE y ACG de baja friccion: declara solo 2,1 l cada 100 km",
       "Deposito de 8 litros: unos 380 km de autonomia teorica, de las mejores del segmento deportivo",
       "Estetica deportiva heredera del mitico Speedfight de los 90, un icono con mas de 25 anos de historia",
       "Cuadro de instrumentos digital con retroiluminacion deportiva, toma USB y toma de 12 V bajo el asiento",
@@ -168,7 +168,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Peugeot Motocycles Espana: sin plan de mantenimiento publicado para el Speedfight 4 125",
-      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Peugeot Motocycles Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -210,7 +210,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Navegacion Turn-by-Turn en el cuadro digital y conectividad Bluetooth: tecnologia inedita por este precio",
       "Intermitentes LED secuenciales delanteros, un detalle visual propio de gamas superiores",
       "Ruedas de 14 pulgadas (110/80-14 y 120/70-14): mas aplomo que los 12 pulgadas tipicos de su precio",
-      "Consumo inferior a 2 l/100 km con deposito de 5 litros: unos 250 km de autonomia",
+      "Consumo inferior a 2 l cada 100 km con deposito de 5 litros: unos 250 km de autonomia",
     ],
     contras: [
       "9,8 CV de potencia: la cifra mas baja del segmento, justa con pasajero o en cuestas",
@@ -250,7 +250,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Hero MotoCorp Espana: sin plan de mantenimiento publicado para la Xoom 125R",
-      intervalo: "Sin programa publicado por Hero MotoCorp Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Hero MotoCorp Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -295,7 +295,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Luz de emergencia integrada, util en ciudad",
     ],
     contras: [
-      "139 kg en orden de marcha: pesada para un 125 de rueda baja, se nota en parado",
+      "139 kg en orden de marcha y pesada para un 125 de rueda baja, se nota en parado",
       "Ruedas de 12 pulgadas (120/70-12): muy agil, pero con menos aplomo en baches que un rueda alta",
       "Velocidad maxima de 92 km/h: sin margen para rondas rapidas o circunvalaciones",
       "Nota media de 3,2 sobre 5 en motorbikemag (6 votos): las opiniones de usuarios estan divididas",
@@ -332,7 +332,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Morbidelli MBP Espana: sin plan de mantenimiento publicado para la SC125RE",
-      intervalo: "Sin programa publicado por Morbidelli MBP Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Morbidelli MBP Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -375,13 +375,13 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Motor de 125 cc con 4 valvulas y refrigeracion liquida: unos 15 CV, el tope legal del carnet A1",
       "Ruedas de 16 pulgadas: rueda alta con gran aplomo en baches y alcantarillas",
       "Smart Key con inmovilizador, ABS en ambas ruedas, cuadro LCD, Full LED y Start & Stop de serie",
-      "Baul trasero (top case) de serie y hueco bajo el asiento para un casco integral",
+      "Baul trasero (top case) de serie y un hueco bajo el asiento donde cabe un casco integral",
       "Deposito de 7,8 litros: buena autonomia para un rueda alta",
       "6 anos de garantia oficial, la mas amplia del segmento",
     ],
     contras: [
       "Red QJMotor en Espana en expansion: menos talleres que Honda o Yamaha, aunque crece rapido",
-      "134 kg en orden de marcha: pesado para un rueda alta de 16 pulgadas",
+      "134 kg en orden de marcha y pesado para un rueda alta de 16 pulgadas",
       "Marca china con pocos anos en Europa: el valor de reventa esta por demostrar",
       "La garantia de 6 anos exige pasar todas las revisiones en la red oficial con recambio original",
       "Estetica inspirada en la Honda SH 125: poco caracter propio en el diseno",
@@ -389,7 +389,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     curiosidades: [
       "Su diseno toma como referencia directa la Honda SH 125, lider historica del segmento rueda alta",
       "El deposito de 7,8 litros supera en 0,8 litros al de la propia SH 125",
-      "Incluye sistema Start & Stop, que apaga el motor en los semaforos para ahorrar combustible",
+      "Incluye sistema Start & Stop, que detiene el motor en los semáforos para ahorrar combustible",
       "QJMotor ofrece 6 anos de garantia, el triple que la mayoria de marcas generalistas",
     ],
     imagen: "/media/motos/qjmotor-sq-16-2025-ficha-tecnica-precio-oficial.webp",
@@ -615,7 +615,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Motor de 125 cc con refrigeracion liquida: 11,5 CV y 11 Nm, con consumo homologado de 2,5 l/100 km",
+      "Motor de 125 cc con refrigeracion liquida: 11,5 CV y 11 Nm, con consumo homologado de 2,5 l cada 100 km",
       "ABS de doble canal, control de traccion (TCS) y aviso de frenada de emergencia (ESS) de serie",
       "Camara frontal HD integrada: graba los trayectos como un dashcam",
       "Pantalla LCD a color de 7 pulgadas con navegacion Turn-by-Turn y arranque keyless",
@@ -623,7 +623,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "5 anos de garantia oficial de Voge Espana",
     ],
     contras: [
-      "140 kg en orden de marcha: pesado para un 125 urbano, se nota al moverlo en parado",
+      "140 kg en orden de marcha y pesado para un 125 urbano, se nota al moverlo en parado",
       "Tanta tecnologia (camara HD, navegacion, TCS) encarece el precio frente al SR16 Air, 500 euros mas barato",
       "La camara frontal HD graba los trayectos: util, pero plantea dudas de privacidad y gestion de videos",
       "Diseno conservador de rueda alta: quien busque deportividad mirara al SR1 de la misma marca",
@@ -660,7 +660,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Voge Espana: sin plan de mantenimiento publicado para el SR16",
-      intervalo: "Sin programa publicado por Voge Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Voge Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -746,7 +746,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Keeway Espana: sin plan de mantenimiento publicado para la Icon 125 S",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Keeway Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -828,7 +828,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Keeway Espana: sin plan de mantenimiento publicado para la Gemma 125",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Keeway Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -914,7 +914,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "FB Mondial Espana: sin plan de mantenimiento publicado para la Imola 125",
-      intervalo: "Sin programa publicado por FB Mondial Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por FB Mondial Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -996,7 +996,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Malaguti/KSR Espana: sin plan de mantenimiento publicado para la Spectre GP 125",
-      intervalo: "Sin programa publicado por Malaguti Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Malaguti Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1078,7 +1078,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "SYM Espana: sin plan de mantenimiento publicado para la Jet Evo 125 ABS",
-      intervalo: "Sin programa publicado por SYM Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por SYM Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1163,7 +1163,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Keeway Espana: sin plan de mantenimiento publicado para la XDV 125 EVO Pro",
-      intervalo: "Sin programa publicado por Keeway Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Keeway Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1248,7 +1248,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Linhai Espana: sin plan de mantenimiento publicado para la ADV Buck 125",
-      intervalo: "Sin programa publicado por Linhai Espana (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Linhai Espana (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1330,7 +1330,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Letbe/Wellta Motors: sin plan de mantenimiento publicado para la Island 125",
-      intervalo: "Sin programa publicado por Letbe (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por Letbe (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1376,7 +1376,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     contras: [
       "11,7 CV: la prueba de motorpasionmoto avisa de que anda notablemente menos que un Kymco, Yamaha u Honda",
-      "142 kg en orden de marcha: pesada para sus dimensiones compactas",
+      "142 kg en orden de marcha y pesada para sus dimensiones compactas",
       "El hueco bajo el asiento solo admite un casco jet, no un integral",
       "El tapizado del asiento se siente suelto segun la prueba: en frenadas el cuerpo se desliza",
       "El keyless es 'un poco trampa': hay que meter el mando, segun motorpasionmoto",
@@ -1412,7 +1412,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "motorbikemag.es: intervalos de mantenimiento cada 3.000 km",
-      intervalo: "Cada 3.000 km segun motorbikemag (consultado 11/10/2026)",
+      intervalo: "Cada 3.000 km segun motorbikemag (consultado el 11/10/2026)",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1496,7 +1496,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "MITT/Jets Marivent: sin plan de mantenimiento publicado para la City Vision 125",
-      intervalo: "Sin programa publicado por MITT (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Sin programa publicado por MITT (consultado el 11/10/2026); se aconseja una inspection anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1553,7 +1553,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     curiosidades: [
       "Nerva ofrece las baterías en renting por 39,90 €/mes: a los 5 años se sustituyen por unas nuevas y el precio baja a 4.480 €",
       "Las baterías están diseñadas para una segunda vida como almacenamiento energético estacionario",
-      "Equivale a un 125 cc: se conduce con el carnet B convalidado",
+      "Equivale a un 125 cc: puede llevarse con el permiso B convalidado",
       "El modo Eco limita la velocidad a 50 km/h para exprimir los 150 km de autonomía",
     ],
     imagen: "/media/motos/nerva-exe-2026-ficha-tecnica-precio-oficial.webp",
@@ -1612,7 +1612,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     contras: [
       "Monoplaza: el baúl ocupa el lugar del pasajero",
-      "181 kg en orden de marcha: pesada para moverse en parado",
+      "181 kg en orden de marcha y pesada para moverse en parado",
       "5.590 €, precio elevado frente a ciclomotores de reparto",
       "Sin hueco bajo el asiento para el casco",
       "La autonomía real baja con carga máxima y ritmo de reparto intenso",
@@ -2829,7 +2829,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     ],
     pros: [
       "Precio de 2.490 €: una de las naked A1 más asequibles del mercado (SoyMotero).",
-      "Consumo declarado de 1,7 l/100 km con depósito de 13,5 l: autonomía teórica de unos 790 km.",
+      "Consumo declarado de 1,7 l cada 100 km con depósito de 13,5 l: autonomía teórica de unos 790 km.",
       "Parte ciclo impropia de su precio: horquilla invertida de 35 mm y monoamortiguador con precarga regulable.",
       "Instrumentación LCD con marcha engranada e indicador de autonomía, más completa que la de muchas rivales.",
       "Chasis multitubular de acero y estética agresiva: no parece una 125.",
@@ -2870,7 +2870,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "benelli-bn-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Benelli España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -2946,7 +2946,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "benelli-tornado-naked-t-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Benelli España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Benelli España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -2987,7 +2987,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Chasis y ergonomía específicos de deportiva; no es una Duke con carenado (Motociclismo.es).",
       "Estética inspirada en la RC16 de MotoGP.",
       "Pantalla TFT y ABS de doble canal de serie.",
-      "Consumo homologado de solo 2,42 l/100 km.",
+      "Consumo homologado de solo 2,42 l cada 100 km.",
       "Bajas vibraciones y tacto refinado para una 125 (foro125).",
     ],
     contras: [
@@ -3025,7 +3025,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por KTM España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por KTM España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3065,7 +3065,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Control de tracción y ABS Bosch de doble canal de serie.",
       "Ergonomía cómoda para el día a día pese a su estética agresiva (Canarias en Moto).",
       "Preparada para montar quickshift opcional.",
-      "Depósito de 14,5 l y consumo de 2,6 l/100 km: buena autonomía.",
+      "Depósito de 14,5 l y consumo de 2,6 l cada 100 km: buena autonomía.",
       "144 kg en orden de marcha: ligera para su equipamiento.",
     ],
     contras: [
@@ -3103,7 +3103,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Aprilia España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Aprilia España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3142,7 +3142,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Fiabilidad y acabados Honda: la referencia del segmento A2 ligero.",
       "31 CV con entrega noble y predecible, ideal para noveles del A2.",
       "Solo 144 kg: muy ligera para una 300.",
-      "Consumo real en torno a 3,2 l/100 km.",
+      "Consumo real en torno a 3,2 l cada 100 km.",
       "Avisador lumínico de cambio de marcha a 7.500 rpm.",
       "Alto valor de reventa en el mercado de ocasión.",
     ],
@@ -3181,7 +3181,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb300r-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Honda España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Honda España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3220,7 +3220,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Freno delantero de 300 mm con tacto bestial (moto125.cc).",
       "Arranque sin llave (keyless) y equipamiento de serie amplio.",
       "Estética scrambler distintiva, con horquilla invertida dorada.",
-      "Consumo real de 2,5-2,7 l/100 km según propietarios (foro125).",
+      "Consumo real de 2,5-2,7 l cada 100 km según propietarios (foro125).",
     ],
     contras: [
       "Motor perezoso en bajos: solo rinde con alegría desde 6.500 rpm (motos.net).",
@@ -3257,7 +3257,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125g1-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3306,7 +3306,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Red de servicio más pequeña que Honda o Yamaha.",
       "Valor de reventa aún incierto.",
       "Asiento a 795 mm.",
-      "Consumo de 3,7 l/100 km, algo alto para su cilindrada.",
+      "Consumo de 3,7 l cada 100 km, algo alto para su cilindrada.",
     ],
     curiosidades: [
       "Es la evolución de la Zontes R310, con motor crecido a 348 cc.",
@@ -3335,7 +3335,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-350r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3375,11 +3375,11 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Equipamiento de serie amplísimo: parrilla porta baúl, topes anticaída, USB y piñas retroiluminadas.",
       "14,6 CV con modos de conducción Eco y Sport.",
       "ABS Bosch de doble canal.",
-      "Telemetría verificada por moto125.cc: 108,7 km/h de punta y 3,02 l/100 km.",
+      "Telemetría verificada por moto125.cc: 108,7 km/h de punta y 3,02 l cada 100 km.",
       "Disco delantero de 300 mm con pinza de doble pistón.",
     ],
     contras: [
-      "0-100 km/h en 28,5 s: la más lenta del comparador (moto125.cc).",
+      "28,5 s en el 0-100 km/h: la más lenta del comparador (moto125.cc).",
       "Velocidad máxima de 109 km/h, justa para autovía.",
       "Entre 150 y 159 kg: muy pesada para una 125.",
       "Autonomía de solo 205 km por su consumo y depósito de 12,5 l.",
@@ -3413,7 +3413,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "zontes-125z2-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Zontes España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Zontes España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3489,7 +3489,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "cfmoto-125nk-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por CFMOTO España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por CFMOTO España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3567,7 +3567,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-r125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no tiene programa oficial publicado (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3614,7 +3614,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Pocas pruebas independientes en vídeo.",
       "Red de concesionarios pequeña.",
       "Reventa incierta.",
-      "Sin control de tracción ni modos de conducción.",
+      "Sin control de tracción y sin modos de conducción.",
     ],
     curiosidades: [
       "QJMotor pertenece al grupo Geely, dueño también de Volvo y Lotus.",
@@ -3643,7 +3643,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "qjmotor-srk-125-s-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por QJMotor España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por QJMotor España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3682,7 +3682,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "2.888 €: imbatible en relación precio-equipamiento.",
       "5 años de garantía y seguro del primer año gratis.",
       "15 CV con solo 136 kg: de las más ligeras del segmento.",
-      "Consumo de 2,3 l/100 km.",
+      "Consumo de 2,3 l cada 100 km.",
       "ABS de doble canal de serie.",
       "Basculante asimétrico de aluminio tipo banana.",
     ],
@@ -3721,7 +3721,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-125r-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no tiene programa oficial publicado (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3797,7 +3797,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-300ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no tiene programa oficial publicado (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3873,7 +3873,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "voge-500ac-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Voge España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Voge España no tiene programa oficial publicado (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3951,7 +3951,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "husqvarna-vitpilen-125-2025",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Husqvarna España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Husqvarna España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4027,7 +4027,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-crossfire-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4103,7 +4103,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4139,7 +4139,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     pros: [
       "250 cc por 3.999 €: acceso barato al carnet A2.",
       "Estética retro muy cuidada, con fuelles en la horquilla.",
-      "Consumo de 3,1 l/100 km y unos 370 km de autonomía.",
+      "Consumo de 3,1 l cada 100 km y unos 370 km de autonomía.",
       "Ergonomía neutra y cómoda, incluso para pilotos altos.",
       "Acabados propios de una moto europea (MotorbikeMag).",
       "Motor que gira redondo y sin vibraciones molestas.",
@@ -4179,7 +4179,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "brixton-cromwell-250-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Brixton España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Brixton España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4220,7 +4220,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Caja de 6 marchas.",
       "Horquilla invertida.",
       "Cuadro digital completo con cuentavueltas en arco.",
-      "Consumo real en torno a 2 l/100 km.",
+      "Consumo real en torno a 2 l cada 100 km.",
     ],
     contras: [
       "13 CV: no llega al límite de 15 CV.",
@@ -4228,7 +4228,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Servicio postventa criticado por sus dueños.",
       "La primera hornada dio fallos de embrague.",
       "Reventa baja.",
-      "Sin control de tracción ni modos de conducción.",
+      "Sin control de tracción y sin modos de conducción.",
     ],
     curiosidades: [
       "Es la prima-hermana de la Benelli BN 125: ambas son del grupo QianJiang.",
@@ -4257,7 +4257,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "keeway-rkf-125-2026",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin programa oficial publicado por Keeway España (consultado 11/10/2026); se recomienda inspección anual en servicio oficial",
+      intervalo: "Sin programa oficial publicado por Keeway España (consultado el 11/10/2026); se aconseja una inspección anual en servicio oficial",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -4424,7 +4424,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Posición de conducción erguida y espaciosa, apta para pilotos altos",
     ],
     contras: [
-      "246 kg en orden de marcha: pesada para el off-road técnico",
+      "246 kg en orden de marcha y pesada para el off-road técnico",
       "15.430 € de partida; con paquetes Dynamic o Touring el precio se dispara",
       "El asiento de serie peca de duro en tiradas largas según la prensa especializada",
       "Vibraciones perceptibles del bicilíndrico en la zona alta del cuentavueltas",
@@ -5596,7 +5596,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "harley-davidson-road-king-special-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación; Harley-Davidson recomienda revisión anual o cada 8.000 km según manual",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación; Harley-Davidson recomienda revisión anual o cada 8.000 km según manual",
       revisiones: [
         {
           nombre: "Revisión anual / 8.000 km",
@@ -5643,7 +5643,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "Garantía de 5 años (3+2) en España: la más amplia del segmento custom americano",
     ],
     contras: [
-      "382 kg en orden de marcha: la más pesada del lote, solo apta para pilotos con experiencia",
+      "382 kg en orden de marcha y es la más pesada del lote, solo apta para pilotos con experiencia",
       "35.890 €: precio premium que la sitúa por encima de la competencia directa de Milwaukee",
       "El acabado Dark Horse en negro mate es espectacular pero delicado: se marca con facilidad",
       "Radio de giro amplio y batalla larga: torpe en ciudad y en maniobras lentas",
@@ -5678,7 +5678,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "indian-chieftain-powerplus-dark-horse-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -5687,7 +5687,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Sin tarifa de mantenimiento comprobada para España en esta investigación",
     },
   },
   {
@@ -5757,7 +5757,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "bmw-k-1600-gtl-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación; BMW Motorrad establece revisiones anuales o cada 10.000 km según manual",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación; BMW Motorrad establece revisiones anuales o cada 10.000 km según manual",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -6164,7 +6164,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z-h2-se-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -6173,7 +6173,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Sin tarifa de mantenimiento comprobada para España en esta investigación",
     },
   },
   {
@@ -6241,7 +6241,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "aprilia-tuono-v4-factory-1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -6250,7 +6250,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Sin tarifa de mantenimiento comprobada para España en esta investigación",
     },
   },
   {
@@ -6400,7 +6400,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "kawasaki-z1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "Sin plan de mantenimiento verificado en esta investigación",
+      intervalo: "Sin plan de mantenimiento comprobado en esta investigación",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -6409,7 +6409,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin tarifa de mantenimiento verificada para España en esta investigación",
+      fuente: "Sin tarifa de mantenimiento comprobada para España en esta investigación",
     },
   },
   {

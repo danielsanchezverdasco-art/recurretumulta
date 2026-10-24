@@ -45,7 +45,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     contras: [
       "322.400 € en España: solo para bolsillos muy profundos",
       "Maletero de 210 + 150 l: justo para viajar en pareja",
-      "12,2 l/100 km y 276 g/km de CO2: etiqueta C y consumo de superdeportivo",
+      "12,2 l cada 100 km y 276 g/km de CO2: etiqueta C y consumo de superdeportivo",
       "Mantenimiento de superdeportivo: cada revisión y cada juego de neumáticos pican",
       "Acceso complicado por las puertas diédricas y visibilidad trasera limitada",
     ],
@@ -70,7 +70,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 882,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km/año, consumo WLTP 12,2 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo en España. Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km al año con un consumo homologado WLTP 12,2 l cada 100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo en España. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -212,7 +212,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 595,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh/100 km a 0,18 €/kWh) y 50 % en gasolina (~4,8 l/100 km a 1,85 €/l), 15.000 km/año; sin consumo WLTP publicado para el coupé MY2025. Seguro y mantenimiento de superdeportivo híbrido. Todo aproximado.",
+      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh cada 100 km a 0,18 €/kWh) y 50 % en gasolina (~4,8 l cada 100 km a 1,85 €/l), 15.000 km al año; sin consumo WLTP publicado para el coupé MY2025. Seguro y mantenimiento de superdeportivo híbrido. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -293,7 +293,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 612,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh/100 km a 0,18 €/kWh) y 50 % en gasolina (4,8 l/100 km WLTP, km77, a 1,85 €/l), 15.000 km/año. Seguro y mantenimiento de superdeportivo híbrido descapotable. Todo aproximado.",
+      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh cada 100 km a 0,18 €/kWh) y 50 % en gasolina (4,8 l cada 100 km WLTP, km77, a 1,85 €/l), 15.000 km al año, con seguro y mantenimiento de superdeportivo híbrido descapotable. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -348,7 +348,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     ],
     contras: [
       "298.650 € en España: gran turismo a precio de superdeportivo",
-      "11,9 l/100 km y 270 g/km de CO2: etiqueta C",
+      "11,9 l cada 100 km y 270 g/km de CO2: etiqueta C",
       "Sin Apple CarPlay ni Android Auto de serie",
       "Solo dos plazas: práctico para ser un McLaren, no para ser un GT",
       "McLaren prevé su fin de producción en 2027",
@@ -374,7 +374,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 841,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km/año, consumo WLTP 11,9 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de gran turismo de altas prestaciones en España. Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km al año con un consumo homologado WLTP 11,9 l cada 100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de gran turismo de altas prestaciones en España. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -455,7 +455,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 1982,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km/año, consumo 13,6 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento estimados por tramo de hiperdeportivo de colección (2,4 M€, 399 unidades). Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km al año, consumo 13,6 l cada 100 km (km77) a 1,85 €/l, con seguro y mantenimiento como estimación por tramo de hiperdeportivo de colección (2,4 M€, 399 unidades). Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -617,7 +617,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 1425,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; serie limitada High Sport de 200 unidades; consumo estimado ~12,5 l/100 km",
+      "notas": "cifras orientativas para 1.000 km/mes; serie limitada High Sport de 200 unidades; consumo estimado ~12,5 l cada 100 km",
       "estimado": true
     },
     galeria: [

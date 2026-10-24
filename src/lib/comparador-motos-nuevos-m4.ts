@@ -30,7 +30,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm"],
     pros: [
       "7.350 €: la trail A2 de referencia en relación calidad-precio, con el respaldo de la red Honda",
-      "Bicilíndrico de 471 cc y 47 CV: suave, fiable y con consumos reales en torno a 3,3 l/100 km",
+      "Bicilíndrico de 471 cc y 47 CV: suave, fiable y con consumos reales en torno a 3,3 l cada 100 km",
       "Depósito de 17,7 litros: más de 500 km de autonomía teórica entre repostajes",
       "Ergonomía pensada para viajar: asiento cómodo, pantalla ajustable y buena protección aerodinámica",
       "Embrague asistido/antirrebote de serie, que facilita los cambios y evita bloqueos en reducciones",
@@ -38,7 +38,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     ],
     contras: [
       "Velocidad máxima contenida (algo menos de 160 km/h): en autopista va justa cargada",
-      "Sin control de tracción ni modos de conducción: electrónica básica frente a rivales más nuevas",
+      "Sin control de tracción y sin modos de conducción: electrónica básica frente a rivales más nuevas",
       "Suspensiones sencillas: en uso campero exigen más al piloto que una trail de enfoque off-road",
       "El parabrisas genera turbulencias para pilotos altos según varias pruebas",
       "Instrumentación LCD mejorable frente a las TFT de la competencia actual",
@@ -86,7 +86,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia CB500)",
+      fuente: "Manual oficial de Honda España (intervalos de la familia CB500)",
     },
   },
   {
@@ -115,8 +115,8 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Monocilíndrico de 399 cc con 45 CV: el más potente y rabioso del segmento trail A2",
       "Electrónica de moto grande: ABS en curva, control de tracción desconectable y modos de conducción",
       "Pantalla TFT de 5\" con conectividad Bluetooth de serie",
-      "176 kg en orden de marcha: ligera y manejable en pistas para su categoría",
-      "Consumo medio de 3,4 l/100 km: unos 426 km de autonomía con sus 14,5 litros",
+      "176 kg en orden de marcha, siendo ligera y manejable en pistas para su categoría",
+      "Consumo medio de 3,4 l cada 100 km: unos 426 km de autonomía con sus 14,5 litros",
     ],
     contras: [
       "7.499 €: precio de roadster 700 para una 390, la más cara de su segmento",
@@ -201,7 +201,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Calidad de acabados y valor de reventa superiores a la media del segmento",
     ],
     contras: [
-      "224 kg en orden de marcha: pesada para el off-road serio",
+      "224 kg en orden de marcha y pesada para el off-road serio",
       "Los extras (ESA, quickshifter, maletas) disparan el precio final muy por encima del base",
       "Mantenimiento en servicio oficial BMW más caro que la competencia japonesa",
       "Con 77 CV se queda corta frente a rivales de 95 CV por precio similar",
@@ -439,7 +439,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["autonomiaKm", "pesoKg"],
     pros: [
-      "Monocilíndrico de 249 cc con tecnología SEP: unos 26 CV con consumos cercanos a 3 l/100 km",
+      "Monocilíndrico de 249 cc con tecnología SEP: unos 26 CV con consumos cercanos a 3 l cada 100 km",
       "167 kg en orden de marcha: una de las trails A2 más ligeras del mercado",
       "Estética V-Strom con el clásico pico de pato: imagen de trail grande en formato pequeño",
       "Motor derivado de la Gixxer 250: mecánica sencilla, probada y barata de mantener",
@@ -525,7 +525,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Bicilíndrico de 471 cc con 47 CV y control de tracción HSTC desconectable",
       "Pantalla TFT de 5\" con Honda RoadSync: navegación y conectividad de serie",
       "Horquilla invertida Showa de 41 mm y doble disco delantero de 296 mm",
-      "Consumo de 3,6 l/100 km con 17,5 litros: unos 480 km de autonomía",
+      "Consumo de 3,6 l cada 100 km con 17,5 litros: unos 480 km de autonomía",
       "196 kg en orden de marcha: 3 kg menos que la CB500X a la que sustituye",
     ],
     contras: [
@@ -578,7 +578,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
+      fuente: "Manual oficial de Honda España (intervalos de la familia 500)",
     },
   },
   {
@@ -771,8 +771,8 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "7.475 €: la deportiva A2 de Honda con estética de CBR1000RR-R",
       "Bicilíndrico de 471 cc y 47 CV: el tope legal del A2 con entrega suave y progresiva",
       "191 kg en orden de marcha: ligera y ágil para una deportiva carenada",
-      "Consumo contenido (~3,6 l/100 km) con 17,7 litros: unos 490 km de autonomía",
-      "Horquilla invertida Showa SFF-BP de 41 mm y doble disco delantero",
+      "Consumo contenido (~3,6 l cada 100 km) con 17,7 litros: unos 490 km de autonomía",
+      "Horquilla invertida Showa SFF-BP de 41 mm con doble disco delantero",
       "Posición de conducción menos radical que una supersport: usable a diario",
     ],
     contras: [
@@ -825,7 +825,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
+      fuente: "Manual oficial de Honda España (intervalos de la familia 500)",
     },
   },
   {
@@ -936,7 +936,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "Chasis multitubular y suspensiones WP Apex: parte ciclo de moto grande",
       "147 kg en seco: ligera y muy ágil entre el tráfico",
       "Monocilíndrico de 124,7 cc con 15 CV: el tope legal del A1",
-      "Consumo mínimo (~2,5 l/100 km) con 13,7 litros: más de 500 km de autonomía",
+      "Consumo mínimo (~2,5 l cada 100 km) con 13,7 litros: más de 500 km de autonomía",
       "Se puede conducir con el carnet B con 3 años de antigüedad",
     ],
     contras: [
@@ -1263,7 +1263,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "5.799 €: la 125 deportiva de Yamaha con estética de YZF-R1",
       "Motor de 124,7 cc con distribución variable VVA: más par en medios y mejor eficiencia",
       "142 kg en orden de marcha: una de las 125 más ligeras",
-      "Consumo homologado de 2,13 l/100 km con 11,5 litros: unos 540 km de autonomía",
+      "Consumo homologado de 2,13 l cada 100 km con 11,5 litros: unos 540 km de autonomía",
       "Chasis Deltabox y horquilla invertida de 41 mm: parte ciclo seria",
       "Se conduce con el carnet B con 3 años de antigüedad",
     ],
@@ -1271,7 +1271,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "5.799 €: cara frente a las 125 chinas que cuestan la mitad",
       "15 CV: en autopista va justa, es una moto de carreteras secundarias",
       "Postura deportiva que cansa en ciudad",
-      "Sin control de tracción ni modos de conducción",
+      "Sin control de tracción y sin modos de conducción",
       "El sistema VVA añade complejidad mecánica frente a motores más simples",
       "Asiento del pasajero muy pequeño",
     ],
@@ -1345,7 +1345,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "3.899 €: la 125 deportiva japonesa más asequible, con genes GSX-R",
       "134 kg: la más ligera de las 125 deportivas, agilísima",
       "Motor de 124 cc con 15 CV: el tope del A1 con fiabilidad Suzuki",
-      "Consumo mínimo (~2,1 l/100 km) con 11 litros: más de 500 km de autonomía",
+      "Consumo mínimo (~2,1 l cada 100 km) con 11 litros: más de 500 km de autonomía",
       "Arranque sin llave y cuadro LCD completo de serie",
       "Se conduce con el carnet B con 3 años de antigüedad",
     ],
@@ -1444,7 +1444,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
       "El nombre Bonneville viene de las salinas de Bonneville (Utah), donde Triumph batió récords en los 50",
       "El motor de 900 cc con cigüeñal a 270º le da un sonido inconfundible",
       "La T100 es la puerta de entrada a la familia Bonneville desde 2002",
-      "Su consumo de 4,1 l/100 km le da unos 354 km de autonomía con 14,5 litros",
+      "Su consumo de 4,1 l cada 100 km le da unos 354 km de autonomía con 14,5 litros",
     ],
     imagen: "/media/triumph-bonneville-t100-2026-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -1508,7 +1508,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     aprox: ["autonomiaKm"],
     pros: [
       "4.887 €: la custom clásica más vendida del mundo a precio imbatible",
-      "Motor serie J de 349 cc con 20,2 CV: suave, con bajos llenos y consumo de ~2,8 l/100 km",
+      "Motor serie J de 349 cc con 20,2 CV: suave, con bajos llenos y consumo de ~2,8 l cada 100 km",
       "Velocidad máxima de 114 km/h: honesta y suficiente para su filosofía",
       "13 litros de depósito: más de 400 km de autonomía real",
       "Navegador Tripper de serie en las versiones equipadas",
@@ -1728,7 +1728,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual oficial Honda España (intervalos de la familia 500)",
+      fuente: "Manual oficial de Honda España (intervalos de la familia 500)",
     },
   },
   {

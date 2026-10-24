@@ -41,7 +41,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Solo 16,2 kg para un patinete de su tamaño: se pliega y queda 70 % más estrecho",
     ],
     contras: [
-      "Precio estimado desde la tarifa oficial de Reino Unido (499 £): en España solo vía importación o retailers",
+      "Precio estimado a partir de la tarifa oficial de Reino Unido (499 £): en España solo vía importación o retailers",
       "Autonomía real (~40 km) lejos de los 57,5 km máximos declarados",
       "Sin suspensión: en adoquines se nota",
       "La postura frontal no gusta a todo el mundo",
@@ -52,7 +52,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-buying-guide",
     mantenimientoDIY: {
       presionNeumaticos: "Revisar presión cada 2 semanas; los tubeless con líquido sellante aguantan pinchazos pequeños",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
       trucos: ["Los frenos de tambor necesitan poco mantenimiento: revisar el cable cada 6 meses"],
     },
   },
@@ -92,7 +92,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Doble freno de tambor: frenada fiable y casi sin mantenimiento",
     ],
     contras: [
-      "Es el Pure más caro: precio estimado desde la tarifa oficial de Reino Unido (899 £)",
+      "Es el Pure más caro: precio estimado a partir de la tarifa oficial de Reino Unido (899 £)",
       "52 km declarados que en real se quedan en ~35 km",
       "Sin suspensión pese al precio",
       "La batería de 342 Wh se queda justa para su precio",
@@ -103,7 +103,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteUrl: "https://www.pixmania.com/es/es/pure-electric-advance-flex-25-kmh-gris-95-ah-276630.html",
     mantenimientoDIY: {
       presionNeumaticos: "Neumáticos hinchables de 10\": mantener 3,4 bar (50 PSI)",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
     },
   },
   {
@@ -153,7 +153,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteUrl: "https://scooterhut.com.au/products/pure-electric-scooter-pure-advance",
     mantenimientoDIY: {
       presionNeumaticos: "Tubeless de 10\": revisar presión mensualmente",
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
       trucos: ["El freno regenerativo KERS alarga la vida de las zapatas del tambor delantero"],
     },
   },
@@ -203,7 +203,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-weight-limit",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
     },
   },
   {
@@ -352,7 +352,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Dentro de la familia Air 6, esta Pro+ ocupa el hueco intermedio con criterio: más alcance que la versión básica sin llegar al escalón Ultra. Encaja con quien acumula kilómetros cada semana y valora comodidad, estanqueidad y empuje, asumiendo su peso considerable y la escasa información oficial sobre batería y recarga.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-weight-limit",
-    mantenimientoDIY: {"intervaloRevision": "Antes de cada salida, chequeo rápido de presiones, frenos, luces, plegado y tornillería; cada mes o 300 km, inspección de neumáticos, cables, cargador y limpieza; cada 6 meses o 1.500 km, revisión completa de seguridad; cada año o 3.000 km, servicio completo con revisión de rodamientos y puntos de plegado, según la guía oficial de mantenimiento de Pure Electric", "presionNeumaticos": "35 psi en la gama Air 6 según la guía oficial de Pure Electric, con neumáticos tubeless de 10 pulgadas; comprueba la presión antes de cada salida, porque rodar fuera de la recomendada afecta a agarre, autonomía y garantía", "ajusteFrenosPasos": ["Antes de salir, aprieta la maneta y comprueba que la respuesta es firme, sin tacto esponjoso ni recorrido excesivo", "Verifica que el freno de tambor delantero esté correctamente regulado, como exige el manual de Pure, y que el freno eléctrico regenerativo trasero actúa al frenar", "Ten en cuenta que con la batería recién cargada al completo la regeneración se reduce para protegerla, sobre todo al iniciar una bajada: el tambor debe estar a punto antes de empezar", "En la revisión semestral o cada 1.500 km, revisa y ajusta ambos frenos; si aparece holgura en maneta, cierre o dirección, deja de usarlo y contacta con el soporte oficial"], "aprieteTornilleria": "Repasa antes de cada trayecto manillar, bisagra de plegado, frenos y ejes de ambas ruedas; en la revisión de los 6 meses o 1.500 km aprieta la tornillería al par indicado en el manual, porque las fijaciones autoblocantes se aflojan con el uso", "actualizacionFirmware": "A través de la app oficial Pure Electric (iOS/Android)", "trucos": ["Límpialo con un paño o esponja ligeramente húmedos y sécalo después; nunca uses hidrolimpiadora ni productos agresivos, según el manual de la marca", "Si va a estar parado una temporada, guárdalo en sitio seco y alejado del sol directo y recarga la batería al menos una vez al mes", "Con la autonomía real estimada de unos 50 km, planifica la recarga por uso y no por obligación diaria: espaciar enchufes simplifica la rutina sin quedarte tirado"]},
+    mantenimientoDIY: {"intervaloRevision": "Antes de cada salida, chequeo rápido de presiones, frenos, luces, plegado y tornillería; cada mes o 300 km, inspección de neumáticos, cables, cargador y limpieza; cada 6 meses o 1.500 km, revisión completa de seguridad; cada año o 3.000 km, servicio completo con revisión de rodamientos y puntos de plegado, según la guía oficial de mantenimiento de Pure Electric", "presionNeumaticos": "35 psi en la gama Air 6 según la guía oficial de Pure Electric, con neumáticos tubeless de 10 pulgadas; comprueba la presión antes de cada salida, porque rodar fuera de la recomendada afecta a agarre, autonomía y garantía", "ajusteFrenosPasos": ["Antes de salir, aprieta la maneta y comprueba que la respuesta es firme, sin tacto esponjoso ni recorrido excesivo", "Verifica que el freno de tambor delantero esté correctamente regulado, como exige el manual de Pure, y que el freno eléctrico regenerativo trasero actúa al frenar", "Ten en cuenta que con la batería recién cargada al completo la regeneración se reduce para protegerla, sobre todo al iniciar una bajada: el tambor debe estar a punto antes de empezar", "En la revisión semestral o cada 1.500 km, revisa y ajusta ambos frenos; si aparece holgura en maneta, cierre o dirección, deja de usarlo y contacta con el soporte oficial"], "aprieteTornilleria": "Repasa antes de cada trayecto manillar, bisagra de plegado, frenos y ejes de ambas ruedas; en la revisión de los 6 meses o 1.500 km aprieta la tornillería al par indicado en el manual, porque las fijaciones autoblocantes se aflojan con el uso", "actualizacionFirmware": "Desde la app oficial Pure Electric (iOS/Android)", "trucos": ["Límpialo con un paño o esponja ligeramente húmedos y sécalo después; nunca uses hidrolimpiadora ni productos agresivos, según el manual de la marca", "Si va a estar parado una temporada, guárdalo en sitio seco y alejado del sol directo y recarga la batería al menos una vez al mes", "Con la autonomía real estimada de unos 50 km, planifica la recarga por uso y no por obligación diaria: espaciar enchufes simplifica la rutina sin quedarte tirado"]},
   },
   {
     id: "pure-air-6-ultra",
@@ -427,7 +427,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "IP65 y 120 kg de carga máxima",
     ],
     contras: [
-      "Precio estimado desde la tarifa oficial de Reino Unido (649 £): el Pure más caro sin ser edición especial",
+      "Precio estimado a partir de la tarifa oficial de Reino Unido (649 £): el Pure más caro sin ser edición especial",
       "Peso no publicado pero será el más pesado de la gama",
       "1900 W limitados a 25 km/h: la potencia solo se nota en cuestas",
       "Disponibilidad inicial limitada (preventa)",
@@ -437,7 +437,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/blogs/all/electric-scooter-weight-limit",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
       trucos: ["El disco trasero extra exige revisar pastillas cada 1.000 km si abusas de la frenada"],
     },
   },
@@ -477,7 +477,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
       "Sube pendientes de hasta el 23 % con sus 1200 W de pico",
     ],
     contras: [
-      "Precio estimado desde la tarifa oficial de Reino Unido (499 £); de momento, venta en Reino Unido",
+      "Precio estimado a partir de la tarifa oficial de Reino Unido (499 £); de momento, venta en Reino Unido",
       "Peso no publicado",
       "La postura frontal no es para todos",
       "60 km declarados que en real serán ~40",
@@ -487,7 +487,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/collections/pure-escape-electric-scooters",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
       trucos: ["La horquilla telescópica delantera necesita limpieza tras rodar con barro"],
     },
   },
@@ -537,7 +537,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://www.pureelectric.com/collections/pure-escape-electric-scooters",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Pure Electric (iOS/Android)",
+      actualizacionFirmware: "Desde la app oficial Pure Electric (iOS/Android)",
     },
   },
   {
@@ -586,7 +586,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY2)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY2)",
       trucos: ["Los frenos de tambor apenas necesitan mantenimiento: revisa el cable cada 6 meses"],
     },
   },
@@ -626,7 +626,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY2)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY2)",
     },
   },
   {
@@ -674,7 +674,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
     },
   },
   {
@@ -713,7 +713,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Taller del Patinete (distribuidor España)",
     fuenteUrl: "https://tallerdelpatinete.es",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
     },
   },
   {
@@ -761,7 +761,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
     },
   },
   {
@@ -809,7 +809,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
     },
   },
   {
@@ -857,7 +857,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
       trucos: ["Las ruedas sólidas no se pinchan pero transmiten más vibración: revisa la tornillería cada 3 meses"],
     },
   },
@@ -906,7 +906,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
     },
   },
   {
@@ -991,7 +991,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
       trucos: ["Los cartuchos de suspensión son reemplazables: elige dureza según tu peso"],
     },
   },
@@ -1040,7 +1040,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY3)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY3)",
       trucos: ["La batería es extraíble: puedes cargarla en casa sin subir el patinete"],
     },
   },
@@ -1138,7 +1138,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY4)",
     },
   },
   {
@@ -1223,7 +1223,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY4)",
       trucos: ["Tras rutas de tierra, limpia los discos y revisa la presión de los neumáticos"],
     },
   },
@@ -1309,7 +1309,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Catálogo oficial Minimotors 2025",
     fuenteUrl: "https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Dualtron (Bluetooth, display EY4)",
+      actualizacionFirmware: "Desde la app Dualtron (Bluetooth, display EY4)",
     },
   },
   {
@@ -1825,7 +1825,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Apollo Scooters (web oficial)",
     fuenteUrl: "https://apolloscooters.co/products/apollo-phantom-2-0",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      actualizacionFirmware: "Desde la app Apollo (iOS/Android)",
       trucos: ["El gel PunctureGuard sella pinchazos, pero revisa la presión cada dos semanas"],
     },
   },
@@ -1865,7 +1865,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Electric Scooter Guide (ficha técnica)",
     fuenteUrl: "https://electricscooterguide.com/best-electric-scooters/apollo-phantom-stellar/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      actualizacionFirmware: "Desde la app Apollo (iOS/Android)",
     },
   },
   {
@@ -2024,7 +2024,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Ride and Glide (ficha técnica)",
     fuenteUrl: "https://rideandglide.co.uk/product/apollo-pro/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      actualizacionFirmware: "Desde la app Apollo (iOS/Android)",
       trucos: ["Activa el GPS antirrobo desde la app el primer día"],
     },
   },
@@ -2073,7 +2073,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     fuenteNombre: "Electric Scooter Guides (ficha técnica)",
     fuenteUrl: "https://electricscooterguides.com/best-electric-scooters/apollo-explore/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Apollo (iOS/Android)",
+      actualizacionFirmware: "Desde la app Apollo (iOS/Android)",
     },
   },
 ];

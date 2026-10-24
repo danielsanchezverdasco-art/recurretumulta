@@ -62,8 +62,8 @@ export const CAMPERS_ADRIA: CocheComparador[] = [
     ],
     analisisSlug: "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Revisión anual recomendada: motor según plan Fiat + estanqueidad célula",
-      revisiones: [{ nombre: "Revisión anual", queSeCambia: "Aceite y filtros del motor, estanqueidad de la célula, gas y electricidad", costeAproxEur: 350 }],
+      intervalo: "Revisión anual recomendada: motor según el plan Fiat y estanqueidad de la célula",
+      revisiones: [{ nombre: "Revisión anual", queSeCambia: "Estanqueidad de la célula, electricidad y gas, y aceite y filtros del motor", costeAproxEur: 350 }],
       costeAnualAproxEur: 350,
       fuente: "Plan oficial Fiat Ducato + recomendaciones Adria",
     },

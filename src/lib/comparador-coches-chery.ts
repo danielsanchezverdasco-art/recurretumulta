@@ -55,7 +55,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     aprox: ["precioDesde", "maleteroL", "ceroCien", "velocidadMax"],
     pros: [
       "204 CV y 310 Nm con el sistema Chery Super Hybrid de 5.ª generación: el B-SUV híbrido más potente de su precio",
-      "0-100 km/h en 8,9 s y 120 g/km de CO₂ con solo 5,3 l/100 km: prestaciones de compacto superior",
+      "8,9 s en el 0-100 km/h y 120 g/km de CO₂ con solo 5,3 l cada 100 km: prestaciones de compacto superior",
       "Desde £19.995 en Reino Unido (~23.100 €): más barato que el Dacia Duster híbrido con 49 CV más",
       "Garantía de 7 años/160.000 km del coche y 8 años de la batería: la más larga de su segmento",
       "Doble pantalla de 12,3 pulgadas con Android Auto y CarPlay inalámbricos de serie en las dos versiones",
@@ -83,7 +83,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 189,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Híbrido autorrecargable: sin coste de recarga.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Híbrido autorrecargable: sin coste de recarga.",
       estimado: true,
     },
     galeria: [
@@ -175,7 +175,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 146,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -253,7 +253,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 159,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -331,7 +331,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 180,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -381,9 +381,9 @@ export const COCHES_CHERY: CocheComparador[] = [
       "Buen aislamiento y confort de marcha",
     ],
     contras: [
-      "Consumo de 7,9 l/100 km, alto frente a los híbridos",
+      "Consumo de 7,9 l cada 100 km, alto frente a los híbridos",
       "Etiqueta C: sin ventajas en ZBE",
-      "No se vende en Europa (solo China y exportación)",
+      "No se vende en Europa (únicamente China y exportación)",
       "Reventa incierta fuera de China",
       "Sin versión 7 plazas en esta variante",
     ],
@@ -409,7 +409,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 256,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
       estimado: true,
     },
     galeria: [
@@ -498,7 +498,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 161,
       notas:
-        "Estimación orientativa con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Sin PVP oficial: cálculo puramente orientativo de un modelo aún no a la venta.",
+        "Estimación orientativa con 15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Sin PVP oficial: cálculo puramente orientativo de un modelo aún no a la venta.",
       estimado: true,
     },
     galeria: [
@@ -583,7 +583,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Modelo aún no a la venta: sin PVP.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Modelo aún no a la venta: sin PVP.",
       estimado: true,
     },
     galeria: [
@@ -677,7 +677,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 109,
       notas:
-        "Estimación con 12.000 km/año, consumo estimado de 15 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. A la venta en Tailandia y Sudáfrica; en Europa llegará en 2027 sin precio confirmado.",
+        "Estimación con 12.000 km/año, consumo estimado de 15 kWh cada 100 km, 0,18 €/kWh (doméstica) y todo riesgo. A la venta en Tailandia y Sudáfrica; en Europa llegará en 2027 sin precio confirmado.",
       estimado: true,
     },
     galeria: [
@@ -707,7 +707,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
-      intervalo: "Sin mantenimiento térmico; inspecciones periódicas según manual Chery (no publicado en abierto)",
+      intervalo: "Sin mantenimiento térmico; revisiones periódicas según el manual Chery (no publicado en abierto)",
       revisiones: [
         {
           nombre: "Inspección periódica",
@@ -811,7 +811,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 135,
       costeMensualTotal: 205,
       notas:
-        "15.000 km/año, consumo medio orientativo de 7,0 l/100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (59.900 ¥); no se vende en España.",
+        "15.000 km al año, consumo medio orientativo de 7,0 l cada 100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (59.900 ¥); no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -894,7 +894,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 218,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
       estimado: true,
     },
     galeria: [
@@ -983,7 +983,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     ],
     contras: [
       "No se vende en Europa; la apuesta de Chery aquí son los híbridos enchufables",
-      "Consumo WLTC de 6,5 l/100 km: los PHEV gastan mucho menos",
+      "Consumo WLTC de 6,5 l cada 100 km: los PHEV gastan mucho menos",
       "Marca sin imagen en el segmento de berlinas fuera de China",
       "Reventa incierta en mercados de exportación",
       "Etiqueta C sin ventajas ambientales en ciudad",
@@ -1010,7 +1010,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 204,
       notas:
-        "15.000 km/año, consumo WLTC de 6,5 l/100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (99.900 ¥); no se vende en España.",
+        "15.000 km al año, consumo WLTC de 6,5 l cada 100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (99.900 ¥); no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -1093,7 +1093,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 137,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1159,7 +1159,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 125,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1225,7 +1225,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1273,7 +1273,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     cargaRapidaKw: 30,
     etiquetaDgt: "Cero",
     pros: ["Sus 610 CV y la tracción a las cuatro ruedas lo dejan en 4,9 s hasta 100 km/h, terreno de SUV deportivos europeos mucho más caros", "La batería de 34,46 kWh anuncia 200 km sin gastar gasolina en homologación china, margen sobrado para encadenar la semana laboral sin arrancar el térmico", "Firmó una marca Guinness de 2.100 km combinando depósito lleno y batería cargada, su mejor carta frente a Toyota RAV4 Plug-in o Hyundai Tucson PHEV", "Deja la batería al 80 % tras unos 18 minutos enchufado, partiendo del 30 %: una parada breve antes de seguir ruta", "Convertidos, sus 24.700 € dejan en evidencia el sobreprecio europeo frente a rivales como el BYD Seal U DM-i o el MG HS PHEV"],
-    contras: ["Su venta se limita al mercado chino: hacerse con uno aquí implicaría importarlo por cuenta propia", "Fuera de China no dispone de concesionarios ni talleres propios, así que recambios y averías quedan en tierra de nadie", "Esos 200 km eléctricos salen del ciclo CLTC, bastante más optimista que el WLTP europeo, por lo que la cifra real bajaría", "Una batería tan grande castiga la báscula y se nota en inercias, en frenada y en desgaste de neumáticos", "Euro NCAP todavía no lo ha sometido a sus ensayos, así que no existe nota oficial que avale su seguridad"],
+    contras: ["Su venta se limita al mercado chino: hacerse con uno aquí implicaría importarlo por cuenta propia", "Fuera de China no dispone de concesionarios ni talleres propios, así que recambios y averías quedan en tierra de nadie", "Esos 200 km eléctricos salen del ciclo CLTC, bastante más optimista que el WLTP europeo, así que la cifra real bajaría", "Una batería tan grande castiga la báscula y se nota en inercias, en frenada y en desgaste de neumáticos", "Euro NCAP todavía no lo ha sometido a sus ensayos, así que no existe nota oficial que avale su seguridad"],
     largoMm: null,
     anchoMm: null,
     altoMm: null,
@@ -1296,7 +1296,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 158,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1374,7 +1374,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 90,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1452,7 +1452,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 116,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
+        "15.000 km al año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1520,7 +1520,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 248,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia de China.",
+        "15.000 km al año; gasolina 1,60 €/l; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1603,7 +1603,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 146,
       notas:
-        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km al año con carga diaria en casa (0,18 €/kWh), gasolina a 1,60 euros el litro, con seguro a todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1656,7 +1656,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       "161 CV modestos frente a Hilux o Ranger",
       "Más cara que su gemela Rely R8",
       "Sin fecha de llegada a Europa (a la venta en Argentina y China)",
-      "Consumo medio de 8,7 l/100 km en uso intensivo",
+      "Consumo medio de 8,7 l cada 100 km en uso intensivo",
       "Sin datos EuroNCAP publicados",
     ],
     largoMm: 5370,
@@ -1682,7 +1682,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 273,
       notas:
-        "15.000 km/año, consumo medio declarado de 8,7 l/100 km, diésel a 1,55 €/l y todo riesgo. Precio de referencia de Argentina (US$ 32.500, unos 28.920 € al cambio del 18/10/2026).",
+        "15.000 km al año, consumo medio declarado de 8,7 l cada 100 km, diésel a 1,55 €/l, con seguro a todo riesgo. Precio de referencia de Argentina (US$ 32.500, unos 28.920 € al cambio del 18/10/2026).",
       estimado: true,
     },
     galeria: [
@@ -1782,7 +1782,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "EREV: 60% de km en eléctrico (20 kWh/100 km) + 40% con el generador de gasolina (8,5 l/100 km); 15.000 km/año; luz 0,18 €/kWh y gasolina 1,55 €/l (España, oct-2026); cifras aproximadas",
+      "notas": "EREV: 60% de km en eléctrico (20 kWh cada 100 km) + 40% con el generador de gasolina (8,5 l cada 100 km); 15.000 km al año; luz 0,18 €/kWh y gasolina 1,55 €/l (España, oct-2026); cifras aproximadas",
       "estimado": true
     },
     galeria: [
@@ -1823,11 +1823,11 @@ export const COCHES_CHERY: CocheComparador[] = [
     mantenimientoDIY: {
       resetAceiteTitulo: "Resetear aviso de revisión/mantenimiento",
       resetAceitePasos: [
-        "Con el coche apagado, pulsa el botón de arranque sin pisar el freno.",
+        "Con el coche apagado, presiona el botón de arranque sin tocar el freno.",
         "En la pantalla central, ve a Ajustes → Mantenimiento → Intervalo de servicio.",
         "Selecciona 'Restablecer' y confirma.",
       ],
-      intervaloMantenimiento: "Cada 12 meses o 15.000 km, lo que antes ocurra (estimación para EREV; confirmar con la red oficial a su llegada en 2027)",
+      intervaloMantenimiento: "Cada 12 meses o 15.000 km, según lo que llegue primero (estimación para EREV; confirmar con la red oficial a su llegada en 2027)",
       filtroPolenUbicacion: "Detrás de la guantera del copiloto (ubicación estándar)",
       filtroPolenPasos: [
         "Apaga el coche por completo.",
@@ -1916,11 +1916,11 @@ export const COCHES_CHERY: CocheComparador[] = [
     mantenimientoDIY: {
       resetAceiteTitulo: "Resetear aviso de revisión/mantenimiento",
       resetAceitePasos: [
-        "Con el coche apagado, pulsa el botón de arranque sin pisar el freno.",
+        "Con el coche apagado, presiona el botón de arranque sin tocar el freno.",
         "En la pantalla central, ve a Ajustes → Mantenimiento → Intervalo de servicio.",
         "Selecciona 'Restablecer' y confirma.",
       ],
-      intervaloMantenimiento: "Cada 12 meses o 15.000 km, lo que antes ocurra (estimación para EREV; confirmar con la red oficial a su llegada en 2027)",
+      intervaloMantenimiento: "Cada 12 meses o 15.000 km, según lo que llegue primero (estimación para EREV; confirmar con la red oficial a su llegada en 2027)",
       filtroPolenUbicacion: "Detrás de la guantera del copiloto (ubicación estándar)",
       filtroPolenPasos: [
         "Apaga el coche por completo.",
