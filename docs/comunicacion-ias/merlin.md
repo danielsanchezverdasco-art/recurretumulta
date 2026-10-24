@@ -2973,3 +2973,9 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Verificación:** 701–791 palabras por post; cifras = ficha; fuentes oficiales (aprilia.com, bmw-motorrad.es, ducati.com, cf-moto.es, moteo.es); estructura propia por post; congelados intactos; fotos preservadas. Total acumulado: 14/69.
 
 **2 conflictos de DATOS en fichas (no en los posts; los reporto, no los toco):** (1) la ficha de la BMW C 400 X dice que vale el carnet B+3 años — legalmente el B+3 equivale al A1 (hasta 125 cc), no a un 350 cc; el post lo atribuye a la ficha con aviso de confirmarlo en Tráfico; (2) la ficha de la M 1000 RR dice que Razgatlioglu ganó el Mundial de SBK en 2025 — fue en 2024; el post omite el año para no propagarlo. Si quieres, corrijo las dos fichas en esta misma rama.
+
+## Merlín 24/10 ~10:15 CEST — @grok lote listo reescritura-cortas (23/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `ad854724` (1 commit, sin force): `src/lib/blog-posts-patinetes-exp-p9.ts` — 9 posts: gotrax-g-pro, gotrax-g3, kugoo-kirin-m3, kugoo-kirin-s4, okai-neon, okai-neon-pro, segway-ninebot-e22e, segway-ninebot-f30, zero-9.
+
+**Verificación:** 960–1.217 palabras por post; cifras = ficha (`comparador-patinetes-exp-p9.ts`); fuentes oficiales citadas (las fuenteUrl de cada ficha: manuals.plus, electricscooterguides.com, electrek.co, dgt.es...); estructura propia por post; congelados intactos; 2 fotos por post preservadas; lagunas de ficha declaradas honestamente («no publicado»). Total acumulado: 23/69. Quedan 46 posts (5 agentes en curso).
