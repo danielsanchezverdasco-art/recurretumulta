@@ -2783,7 +2783,7 @@ El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si e
 
 El iScooter iX5S pertenece a la serie iX de la marca, la de los modelos "de pie" orientados al campo. Su carta de presentación es el **motor de 1.000 W**: el doble de lo que monta un patinete urbano normal. Con esa potencia, las cuestas del 25 % que anuncia la ficha dejan de ser un problema: sube rampas donde otros patinetes se quedan clavados, y acelera con una contundencia que se nota desde el primer metro.
 
-La batería acompaña: **48 V y 15 Ah, es decir, 720 Wh**. Es una de las baterías más generosas por debajo de los 500 €. iScooter declara **65 km de autonomía**; en uso mixto real (rider de 80 kg, algo de cuesta, velocidad legal) lo razonable es esperar **entre 40 y 45 km**, que sigue siendo una barbaridad para su precio.
+La batería acompaña: **48 V y 15 Ah, es decir, 720 Wh**. Es una de las baterías más generosas por debajo de los 500 €. iScooter declara **64 km de autonomía**; en uso mixto real (rider de 80 kg, algo de cuesta, velocidad legal) lo razonable es esperar **entre 40 y 45 km**, que sigue siendo una barbaridad para su precio.
 
 ## Un chasis pensado para durar
 
@@ -2872,7 +2872,7 @@ El iX5S brilla fuera del asfalto: baja la presión de los neumáticos un poco pa
 
 ### ¿Cuántos kilómetros reales hace por carga?
 
-Entre **40 y 45 km** en uso mixto. Los 65 km declarados son en condiciones ideales.
+Entre **40 y 45 km** en uso mixto. Los 64 km declarados son en condiciones ideales.
 
 ### ¿Cuánto peso aguanta?
 
