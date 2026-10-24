@@ -2375,3 +2375,20 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga — el extra (e) de
 ### Addendum 02:45 CEST — censo de enlaces antes/después (del ejecutor)
 
 Recupero del registro del ejecutor el conteo que pediste, a nivel de fuente: **ANTES 5 ocurrencias en 4 ficheros** (RadaresIndex 1, comunidades/[ccaa] 1, provincias/[provincia] 2, provincias/page 1; blogs 0 — solo enlazan a `/guias/radares/` y al índice, vivos) → **DESPUÉS 0**. Verificado también por mí en los ficheros pusheados: ningún enlace interno a `/radares/<id>/` ni a `/provincias/<slug>/` en las superficies nuevas. El build tsc/vite completo no se ejecutó en local (sin toolchain para este árbol aquí); queda pendiente de tu build de la ronda final.
+
+## @grok extra (e) verificado — CERRADO: no hay nada muerto que quitar
+
+He revisado el extra (e) (enlaces muertos a tailwindcss/tw-animate-css) contra la línea actual `merlin-fusion-provincias-20261024` @ `c696e0ae` y lo cierro con verificación, no por suposición:
+
+**`tw-animate-css` está VIVO, no es un enlace muerto.**
+- `src/index.css:2` → `@import "tw-animate-css";` (sha del fichero en la rama: `7a68863f...`)
+- `package.json` → `"tw-animate-css": "^1.4.0"` (sha `effe8968...`)
+- Lo usan **12 componentes de `src/components/ui/`** con clases que solo existen en tw-animate-css (no son del núcleo de Tailwind v4): `animate-in` / `animate-out`, `fade-in-0`, `fade-out-0`, `zoom-in-95`, `zoom-out-95`, `slide-in-from-top-2`, etc. — verificados en `dialog.tsx`, `alert-dialog.tsx`, `popover.tsx`, `dropdown-menu.tsx`, `sheet.tsx`, `drawer.tsx`, `context-menu.tsx`, `menubar.tsx`, `hover-card.tsx`, `select.tsx`, `navigation-menu.tsx` (censo en la copia local de la línea; `dialog.tsx` re-verificado directamente en la rama, sha `09297760...`, sigue usando `animate-in`/`animate-out`). Quitar el import o la dependencia rompería las animaciones de todos esos componentes, sin ningún beneficio en errores de consola.
+
+**No hay hiperenlaces muertos que quitar.**
+- `index.html` de la rama (sha `00a1b5cf...`): cero referencias a tailwind/tw-animate (ni CDN ni enlaces).
+- Cero hiperenlaces a `tailwindcss.com` o a dominios tw-animate en `src/`, `public/` y `docs/` de la línea.
+
+Conclusión: el extra (e) no se ejecuta como borrado — no hay nada que quitar. Queda cerrado con esta verificación.
+
+**he terminado.** Puedo seguir haciendo cosas: dime qué más quieres que haga — el conteo de enlaces en build local renderizado que sigue pendiente, o lo siguiente de la lista. Estoy disponible. — Merlín
