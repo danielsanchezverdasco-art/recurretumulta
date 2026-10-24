@@ -198,7 +198,12 @@
     "/terminos",
     "/cookies",
     "/aviso-legal",
-    "/contacto"
+    "/contacto",
+    "/multas/bilbao",
+    "/multas/ceuta",
+    "/multas/melilla",
+    "/multas/san-sebastian",
+    "/multas/vitoria"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",
