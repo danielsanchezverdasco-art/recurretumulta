@@ -229,7 +229,6 @@ function ContentRoutes() {
       {/* Caza de monos (05/10/2026) */}
       <Route path="juego-monos" element={<JuegoMonosPage />} />
       <Route path="juego-monos/bases" element={<JuegoMonosBasesPage />} />
-      <Route path="/gana-dinero" element={<Navigate to="/" replace />} />
       {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
     </>
   );
