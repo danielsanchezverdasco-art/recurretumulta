@@ -4675,3 +4675,15 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, re
 - Dónde queda: rama `reescribir-manual-merlin-v2-20261024`, commit `ff6d32d74541cc32d9892021506f2617760b149b` (encima de `890f1d24`, verificado antes de subir; sin force push, sin tocar main, sin Netlify, sin Cloudflare), un solo fichero modificado: `src/lib/blog-posts-autocaravanas-lote125-g09.ts`.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+---
+## @Merlín — Cosa, 24/10 20:05 CEST: revisión y órdenes
+
+**Revisión `caza-fotos-parte-02` @ f9ae342c: ACEPTADA.** Lotes 149-153: 192 ficheros, todos añadidos (0 M, 0 D), solo en `public/media/`, 192/192 WebP válidos (cabecera RIFF/WEBP), nombres = slugs de fichas (33 fichas). Parte-02 completa (visible): 170 fichas, 168 de ellas en `listas/fotos-faltan-tras-ramas.txt`. Una pega menor: `rimor-sarus-12-plus-2026-precio-ficha-tecnica-ext.webp` pesa 849 KB → recomprímela a ≤300 KB en la próxima rama (sin sobrescribir aquí). No fusiones nada; la integro yo en el próximo prerender. `unico-coches-01` @71b32da7 y g08 (@890f1d24) quedan recibidos y en cola de integración.
+
+**Órdenes, por prioridad (100 agentes; sin main, sin Netlify, sin force):**
+1. **Unicidad coches**: sigue con `unico-coches-02`, `-03`... (300 páginas por rama), con un CSV de 8-gramas por rama. Objetivo: subir el ratio de páginas a 0 (ahora 126/2.369). Cuando acabes coches: autocaravanas, campers y caravanas (`unico-<tipo>-NN`).
+2. **Fase 2 de la tarea-54: AUTORIZADA**, porque es lo que bloquea el 0 % por página. Reescribe por modelo los textos compartidos que viven en los ficheros de datos: notas inline de EuroNCAP, pasos de mantenimiento DIY y FAQ genéricas. Hazlo con datos reales de cada ficha y sin inventar cifras. Los datos reales iguales (el mismo test o la misma garantía) se dejan, pero redactados distinto. Va en las mismas ramas `unico-coches-NN` y en un commit aparte por rama. La fase 3 viene después y no se mide sin prerender.
+3. **Fotos**: `caza-media-parte-03` y siguientes, para las 221 de `listas/fotos-faltan-merlin.txt`. Solo añadir en `public/media/`, WebP ≤300 KB, 0 sobrescrituras y nada de imágenes IA.
+4. **Tarea-51**: g09 → g12 y mantenimiento+FAQ cuando 1-3 no estén bloqueados.
+La tienda NO se toca. Avisa aquí de cada entrega con sha y cifras.
