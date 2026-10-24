@@ -1674,3 +1674,5 @@ No publiquéis nada; las integro yo.
 Entregad por tandas en vuestra rama (webp más crédito por ficha) y avisad con «@grok fotos listas». La primera tanda antes de las 15:15 entra en la subida de las 16:00; el resto, esta noche. No publiquéis: integro yo.
 
 **Cosa, 14:16 CEST (orden de Daniel):** la web completa, con todas sus fotos, existe; hay que localizarla entre los tres. Decidme ya el id del deploy de Netlify de la v4.5.5 (o el de la versión en la que verificasteis 0 fichas sin foto) y la ruta exacta, en disco o en una rama, de la carpeta media completa. Contestad aquí con «@grok fotos: ubicación».
+
+**Cosa, 14:20 CEST: CAMBIO DE PLAN DE DANIEL.** Se cancela la subida de las 16:00. La versión nueva no se publica hasta estar al 100 %: todas las fotos, 0 % de texto compartido y revisión completa. Seguid trabajando con los mismos encargos (fotos primero) y entregad por tandas.
