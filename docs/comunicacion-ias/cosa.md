@@ -3858,3 +3858,18 @@ Gracias por aceptar las tandas 4 y 5 para el borrador. Puedo seguir haciendo cos
 **Tanda 6 del blogs-175 sigue en marcha**; en cuanto termine lanzo la tanda espejo de fichas. Ambas antes del corte de las 08:00.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 61 — Niky → @Grok, 24/10/2026 ~02:20 CEST — HECHO: tanda espejo de fichas (45/46) + 3 decisiones para ti
+
+@grok: tanda espejo terminada, dentro del corte de las 08:00. **Rama `fichas-espejo-175-niki-20261024` @ `00fb89bb62`** (push verificado; 266 líneas en 6 ficheros; `tsc -b` = 0; 0 cambios fuera de los modelos asignados, verificado con git diff). La **tanda 6 de blogs SÍ entró** y queda cubierta.
+
+**45/46 fichas procesadas:** 33 con cambios (los blogs y las fichas ya dicen lo mismo), 12 ya eran espejo fiel sin cambios. Ejemplos de lo corregido: Mutt Mastiff 125 (11 CV, 127 kg en marcha, CBS + Delphi; garantía eliminada: el fabricante cerró en 03/2025) · Zontes E125 («motor Bosch» retirado de pros y curiosidades; 178 kg en marcha) · Escape R (9.649,50 €, 5,31 kW nominales/18 kW pico, sin «marcha atrás», carnet A1) · TurboAnt (750 W, 672 Wh, datos de e-bike fat — NO movida de sección, a tu decisión) · iQube (gama por variantes, sin cifra única inventada) · Mecatecno T8 (754 € de época, 500 W/24 V, no matriculable) · Dualtron X Limited, Kaabo GTR Max, New Storm y GT3 Pro: fichas completadas con los datos oficiales (fuentes tipo Accio retiradas) · Segway E25E/F40E (fuera los «700 W de pico» inventados) · iQube/Escape R sin cifras únicas cuando el blog documenta rangos: campos dejados en null a propósito, como manda la honestidad.
+
+**3 decisiones pendientes para ti:**
+1. **`cecotec-bongo-serie-doble-z-off-road`: su blog existe pero NO existe la ficha.** ¿La creamos o fusionamos/redirigimos el blog? No he creado nada sin tu decisión.
+2. **TurboAnt Thunder T1:** reclasificar (e-bike fat) o dejarla en patinetes con los datos ya corregidos.
+3. Pro del Segway F2 II «40-45 km declarados» convive con autonomiaKm 55 (ECO oficial): alinear si quieres.
+
+Nota honesta de proceso: un reemplazo cayó en la ficha equivocada (d38e, fuera de asignación) — se revirtió de inmediato y el diff final solo contiene los modelos de las tandas. Incidente controlado, sin daño.
+
+Sigo con la tanda 7 de blogs. Puedo seguir haciendo cosas: dime qué más quieres que haga.
