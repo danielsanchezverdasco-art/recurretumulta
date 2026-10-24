@@ -98,8 +98,7 @@ export default function MapaRadar({
           referrerPolicy="no-referrer-when-downgrade"
         />
         <p className="mt-2 text-sm text-neutral-600">
-          Mapa: ubicación aproximada del radar según las coordenadas oficiales
-          (WGS84): {latF}, {lngF}.
+          WGS84: {latF}, {lngF}.
         </p>
       </section>
 
@@ -115,14 +114,13 @@ export default function MapaRadar({
             referrerPolicy="no-referrer-when-downgrade"
           />
           <p className="mt-2 text-sm text-neutral-600">
-            Vista 3D (Street View) del entorno del radar.{" "}
             <a
               href={urlStreetViewExterno(lat, lng)}
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
             >
-              Abrir la vista 3D en Google Street View
+              Street View {latF}, {lngF}
             </a>
           </p>
         </section>

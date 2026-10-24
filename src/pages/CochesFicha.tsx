@@ -339,19 +339,16 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " (ciclo chino CLTC)" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
           },
         ]),
-    {
-      q: `¿Cuánto maletero tiene el ${nombre}?`,
-      a: tp?.faqMaletero ??
-        (coche.maleteroL == null
-          ? `El volumen de maletero del ${nombre} no está publicado por una fuente fiable: lo añadiremos en cuanto haya dato oficial.`
-          : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`),
-    },
+    // (26/10 unicidad) sin dato de maletero (ni texto propio) no hay FAQ
+    ...(coche.maleteroL == null && !tp?.faqMaletero
+      ? []
+      : [{ q: `¿Cuánto maletero tiene el ${nombre}?`, a: tp?.faqMaletero ?? `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.` }]),
     ...(coche.etiquetaDgt
       ? [
           {
             q: tp?.faqPreguntaEtiqueta ?? `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: tp?.faqEtiqueta ?? (sinTarifaEspana(coche)
-              ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
+              ? `Le correspondería la ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt}; aún sin tarifa en España.`
               : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}».`),
           },
         ]
@@ -769,13 +766,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                     {PRECIO_ORIGEN[coche.id]?.pais === "Alemania" ? ", IVA alemán 19 %" : ""}; sin tarifa en España)
                   </>
                 )}
-                {coche.aprox.includes("precioDesde") && (
-                  <>
-                    {" "}
-                    (estimación: {coche.marca} aún no ha publicado la tarifa oficial
-                    para España; precio orientativo calculado desde el mercado de origen)
-                  </>
-                )}
+                {coche.aprox.includes("precioDesde") && " (estimación)"}
                 .
               </>
             )}{" "}
@@ -875,10 +866,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             aria-label="Opiniones de propietarios"
           >
             <h2 className="text-xl font-extrabold text-gray-900">Lo que dicen los dueños</h2>
-            <p className="mt-2 text-sm text-gray-600">
-              Opiniones reales de propietarios en foros y comunidades. No las filtramos ni
-              las inventamos: hay de todo, lo bueno y lo malo.
-            </p>
             <div className="mt-4 space-y-4">
               {coche.opiniones!.map((o, i) => (
                 <blockquote key={i} className="rounded-2xl bg-gray-50 p-4">
@@ -953,19 +940,14 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             {tp?.costeNota ? (
               <p className="mt-3 text-xs text-gray-500">{tp.costeNota}</p>
             ) : (
-            <p className="mt-3 text-xs text-gray-500">
-              Supuestos (10/2026): 15.000 km/año
-              {costeUsaLuz && (
-                <>, luz a {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh</>
-              )}
-              {costeUsaCombustible && (
-                <>
-                  {costeUsaLuz ? " y" : ","} gasolina 95 a{" "}
-                  {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
-                </>
-              )}
-              . {coche.costeMensual.notas}
-            </p>
+              // 26/10 (unicidad): supuestos como datos cortos, no como frase de plantilla
+              <dl className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-xs text-gray-500">
+                <dt className="sr-only">Supuestos</dt>
+                <dd>15.000 km/año (10/2026)</dd>
+                {costeUsaLuz && <dd>Luz {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh</dd>}
+                {costeUsaCombustible && <dd>Gasolina 95 {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l</dd>}
+                {coche.costeMensual.notas && <dd>{coche.costeMensual.notas}</dd>}
+              </dl>
             )}
           </section>
         )}
@@ -1014,9 +996,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
-            <p className="mt-1 text-sm text-gray-600">
-              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
-            </p>
+            {tp?.mantenimientoIntro && <p className="mt-1 text-sm text-gray-600">{tp.mantenimientoIntro}</p>}
             {coche.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
                 🗓️ Intervalo oficial: {coche.mantenimientoDIY.intervaloMantenimiento}
@@ -1093,9 +1073,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <ArrowLeftRight className="h-5 w-5 text-red-600" /> Duelos y comparativas
             </h2>
-            <p className="mt-2 text-sm text-gray-600">
-              Lo enfrentamos cara a cara con sus rivales directos en Novedades Motor:
-            </p>
             <ul className="mt-3 space-y-2">
               {duelos.map((d) => (
                 <li key={d.slug}>

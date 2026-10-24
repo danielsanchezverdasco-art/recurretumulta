@@ -195,11 +195,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     },
     {
       q: `¿Qué carnet necesito para la ${nombre}?`,
-      a: tp?.faqCarnet ?? `Necesitas el carnet ${moto.carnet}. ${
-        /A1/.test(moto.carnet)
-          ? "Recuerda: el carnet B con más de 3 años de antigüedad también habilita para motos de hasta 11 kW (A1)."
-          : "Comprueba que tu permiso cubre la potencia de esta moto antes de comprarla."
-      }`,
+      a: tp?.faqCarnet ?? `Carnet ${moto.carnet}${/A1/.test(moto.carnet) ? " (o B con más de 3 años)" : ""}.`,
     },
     // 17/10/2026: autonomía/carga solo si es eléctrica o hay dato; la etiqueta según etiquetaDgt
     // (antes decía «100 % eléctrica, etiqueta Cero» también en motos de combustión).
@@ -214,13 +210,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
                   a: `Homologa ${fmtAutonomia(moto)}.`,
                 },
               ]),
-          {
-            q: `¿Cómo se carga la ${nombre}?`,
-            a:
-              moto.carga == null
-                ? `La marca no ha publicado los detalles de carga de la ${nombre}: los añadiremos en cuanto haya dato oficial.`
-                : moto.carga,
-          },
+          ...(moto.carga == null ? [] : [{ q: `¿Cómo se carga la ${nombre}?`, a: moto.carga }]),
         ]
       : []),
     {
@@ -672,9 +662,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
-            <p className="mt-1 text-sm text-gray-600">
-              {propio(tp, "mantenimientoIntro", `Guías paso a paso para el mantenimiento básico de tu ${nombre}, sin pasar por el taller.`)}
-            </p>
+            {tp?.mantenimientoIntro && <p className="mt-1 text-sm text-gray-600">{tp.mantenimientoIntro}</p>}
             {moto.mantenimientoDIY.intervaloMantenimiento && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
                 🗓️ Intervalo oficial: {moto.mantenimientoDIY.intervaloMantenimiento}
