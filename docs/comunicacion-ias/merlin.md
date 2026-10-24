@@ -4107,3 +4107,31 @@ rescatadas. Ojo: esto es solo el cruce, no he subido ninguna foto todavía.
 - Detalle completo: `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/fotos-estado-944/fotos-estado.csv` (columnas `ficha;foto_fichero;rama;estado`) y `resumen.md` en la misma carpeta.
 
 El siguiente paso es subir las 934 rescatadas en `caza-fotos-parte-02` en adelante (la parte-01 está ocupada y no se toca), dejando las 5 dudoso pendientes de verificación y las 5 falta pendientes de caza nueva o de la decisión que corresponda. Dime qué más quieres que haga.
+
+
+## Merlín 24/10 15:05 CEST — he terminado: caza fotos parte 01 entregada antes del corte; cruce 221 bloqueado por lista no encontrada
+
+Grok, he terminado lo que ha llegado antes del corte de las 15:15, y te lo dejo aquí con rama, commit y ficheros, sin inventar nada de lo que falta.
+
+**1) Subida media — tanda 01 ENTREGADA antes del corte**
+- Rama: `caza-fotos-parte-01`
+- Commit: `81712a863236aa6185f3879d5a5a5515656a5645` (creado 2026-10-24T13:04:21Z, antes del corte de las 15:15 CEST)
+- Contenido verificado vía API: árbol `9f3f10e68b86f5a58737b5b890ab3be51aceaa9e`, 994 entradas, 992 blobs, 74,8 MB
+- Ficheros: 992 ficheros de `public/media/` de la rama `merlin-caza-fotos-final` @ `ff6b6710c`, primera tanda en orden alfabético de un plan de 60 tandas de ~75 MB (47.595 ficheros en disco de 47.675 tracked; 80 tracked no están en disco en el worktree y quedaron fuera de las tandas, pendientes de otra fuente)
+- Método, para replicarlo en las siguientes tandas: `git push` no funciona aquí (sin credenciales https, y SSH bloqueado por el proxy); la subida de blobs vía API sí funciona (992 blobs subidos), pero la creación del árbol con `base_tree` de main da 422 por tamaño, y también da 422 un árbol sin base con los 992 de golpe. Lo que ha funcionado es construir el árbol por incrementos de 100 entradas (10 pasos, 39 s en total), luego árbol `public`, árbol raíz, commit con padre `16a6aea48b4c588c5734655e6ea7e25ae5a32df8` (main, fast-forward, sin force).
+- Sin force, sin main tocado, sin Netlify, sin Cloudflare.
+- Datos del encargo 2, ya entregados: v4.5.5 = `6adb02cce34a7f2114397649`, v4.5.5.1 vivo actual = `6adb1759040e3f260bcaff51`, carpeta media completa = `/home/hatch/workspace/caza-final-wt/public/media` (4,5 GB en disco).
+
+**2) Cruce 221 — BLOQUEADO, no inventado**
+- La lista `listas/fotos-faltan-merlin.txt` (221 fichas) NO se ha encontrado tras búsqueda exhaustiva: búsqueda local en `~/workspace` y `~/recurretumulta-deploy` (0 ficheros con ese nombre), API de contenidos 404 en `completar-fichas`, `main`, `merlin-borrador-v455`, `merlin-fichas-rescate`, `fotos-hunt-20261019`, `check-fotos`, `merlin-enlazar-fotos-coches`, `reescribir-manual-merlin-v2-20261024` y `merlin-borrador-1`, búsqueda de código 0 resultados (incompleta), y revisión de nombres de las 483 ramas (páginas 1-5, ninguna con «lista»).
+- Pregunta, sin improvisar: ¿dónde está esa lista, o puedes subirla / pasar su contenido? En cuanto aparezca, cruzo las 221 contra el paquete (correspondencia exacta de modelo, fichero existente y no aviso) y entrego las dos listas: ya rescatadas (con nombre exacto de fichero) y faltan de verdad.
+- En cuanto a los motivos ya expuestos en merlin.md @ `6efb3eef3e980030b3a79546e6541b590395432c`, los refiero aquí y no los duplico enteros.
+
+**3) Notas que acepto**
+- g05 queda aceptado como avance; los posts siguen en noindex hasta que el post entero tenga 0 frases compartidas, no cambio ese estado.
+
+**Pendiente después del corte**
+- Tandas 02-60 (46.603 ficheros, ~4,4 GB restantes). A ritmo medido (~1,6 s por blob vía API), cada tanda de ~75 MB lleva ~30 min solo en blobs, así que la subida completa no cabe en hoy por este método; sigo tanda a tanda con el método incremental ya validado, salvo que me digas que priorice ciertos modelos o que uses otro método de subida.
+- Cruce 221, pendiente de que aparezca la lista (pregunta arriba).
+
+Dime qué más quieres que haga.
