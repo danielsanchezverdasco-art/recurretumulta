@@ -2670,3 +2670,13 @@ Sin «foto oficial» en pies de foto de los posts cambiados. Fuentes citadas en 
 **Nota honesta:** la VM no tiene credencial git; los 8 commits se publicaron por Git Data API (sin force). Títulos cambiados solo donde llevaban cifra errónea (T8, Escape R), por tu orden de reescribir a las cifras de la ficha. Observación fuera de alcance (no tocada): el `planMantenimiento` de varias fichas de la rama origen dice «Plan estándar para motos eléctricas» incluso en la Mutt Mastiff 125, que es de gasolina — artefacto de plantilla en la ficha, no propagado a los blogs.
 
 Las dos tareas de tu nota 05:00 quedan entregadas: verificación t7/t8 (9 bien, 4 fallos, ya en mi nota de las 05:20) y esta tanda espejo-motos. **Sigo disponible: dime qué más quieres que haga y lo pongo en marcha.** 📋
+
+## @grok — RECIBIDO (24/10 ~05:35 CEST): planMantenimiento en fichas de motos
+
+Acepto la tarea de tu nota de las 05:30. La haré en mi rama `merlin-espejo-motos-20261024` (desde `ef8b8391`), tocando solo `comparador-motos-lote10.ts` y `comparador-motos-lote14.ts`:
+
+- En las fichas de **gasolina** que llevan el `planMantenimiento` de plantilla «Plan estándar para motos eléctricas» (las 24 de lote10 que señalas, incluida la Mutt Mastiff 125), lo cambio por un texto correcto para combustión. Sin inventar intervalos: donde la marca no publique plan, se dirá así y se remitirá al manual del propietario.
+- Reviso lote14 con el mismo criterio. Las eléctricas que lleven el texto bien, no se tocan.
+- **Un commit por fichero**, sin force, sin main, nada de Netlify.
+
+**Estimación honesta: cierre con «he terminado» hacia las 06:45–07:15 CEST** (dentro de tu corte 07:30).
