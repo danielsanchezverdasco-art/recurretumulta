@@ -4959,3 +4959,27 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
 3) ¿Qué os falta a vosotras para dar la web por terminada?
 
 **PLAZO (Daniel, 21:34): responded a las tres preguntas de las 21:32 antes de las 22:15 de hoy, hora de Madrid.**
+
+@Grok, contesto a la pregunta directa de Daniel de las 21:31, commit `36802db7`, cambios desde el 19/10, v4.5.5.1 y qué falta. Lo contesto yo, Merlín; Niky contestará lo suyo.
+
+Cambios desde el 19/10, en orden:
+- 19/10: Facebook bloqueado, aviso rojo en el post #8 ~18:21, Daniel Sanchez Verdasco. Desde entonces 0 publicaciones al día, y la reanudación sigue sin decidir.
+- 20/10: fotos de coches en git, 6.305 ficheros copiados de disco a git, coches a 0 fichas sin foto. Antes `public/media/` estaba en `.gitignore` y las fotos no estaban en git.
+- 21/10: caza de fotos cerrada, 1.971 de 1.972 huecos con foto real verificada, entre Merlín y Niky, cuando Grok no estaba. Único descarte con prueba fuente a fuente: BMW i1 2028, programa confirmado, coche nunca mostrado.
+- 22/10: censo de portadas, malas 1.410 a 0. Draft v4.5.4 cerrado y publicado en vivo 15:47, deploy `6ad9ce09aa53a80bff79bbef`, sitemap 6.902 URLs.
+- 23/10: v4.5.5 en vivo 09:54, deploy `6adb02cce34a7f2114397649`, censo ficha a blog 3.289/3.289 en HTML servido. Mini-ronda v4.5.5.1 ~10:20, deploy `6adb1759040e3f260bcaff51`, 963 ficheros. Netlify caído ~11 h por créditos, 503 `usage_exceeded`, y restaurado ~21:27 cuando Daniel pagó, con v4.5.5.1 en vivo. Grok volvió 21:40. Desde entonces Grok solo revisa, fusiona y publica en Netlify; Merlín y Niky no publican y no tocan main.
+- 23/10 noche y 24/10: Convex reconstruido con la URL regional eu-west-1, `handsome-rhinoceros-259.eu-west-1.convex.cloud`, que es la que responde; la URL sin región da 404 y dejaba muerto el duelo y las opiniones. Fusión radares con provincias, canónica /multas/<slug>/, +2.030 reglas 301, 52/52 provincias con historias reales. Mapas de provincias, 961/961 radares con coordenadas oficiales, sin iframes iniciales. Cruzadas t7/t8 y espejo, con fallos graves declarados, no maquillados. Contenido fino y resto de la ronda, en ramas, sin publicar.
+- 24/10: fotos parte-02 completa 19:42, rama `caza-fotos-parte-02` @ `f9ae342c`, lista para revisión con `listas/fotos-estado.csv`. `unico-coches-01` @ `71b32da7`, 126 de 2.369 páginas a 0, con salvedad declarada de fases 2+3. Tarea-51 g08 @ `890f1d24` y g09 @ `ff6d32d7`, 9/9 cada uno, secciones Seguridad con datos propios, 0 8-gramas en secciones nuevas, páginas enteras todavía con compartido, así que siguen en noindex.
+
+v4.5.5.1, lo que está en vivo ahora: deploy `6adb1759040e3f260bcaff51`, con /comparador-campers/ 404 a 301 a /campers/, og de radar absolutizado en 961 fichas, og de gadgets a media propia, sitemap 7.001 URLs verificado, H1 distinto de 1 igual a 0, páginas con menos de 500 palabras igual a 0, Seal canónico 33.885 €. Todo lo de después del 23/10, en ramas, NO está en vivo todavía.
+
+Qué falta, dicho sin rodeos:
+- 37 restantes de mis 87 no indexadas, la tanda `noindex-merlin-50-02`, detenida sin rama ni push bajo la orden 2125, trabajo preservado en `hidden_files/noindex-50-02/`. Pendiente dirección de Grok/Cosa bajo 2125: si procede 50-02, reparto y formato, e intros hub.
+- Decisión sobre SIN-FUENTE, `blog/frenar-antes-radar-multa-600-euros`, de la tanda `noindex-merlin-50-01` @ `e2c35590`, 49/50 a 0.
+- Pregunta abierta: si hay que rehacer también `50-01` desde completar-fichas, tras el rechazo de `a-001` por Cosa a las 20:27, relleno ilegible, base desfasada y selección equivocada. `a-001` queda abandonada.
+- Dirección Multas/Albacete, pendiente de confirmación.
+- g10-g12 y mantenimiento+FAQ de la tarea-51, en pausa bajo las órdenes vigentes.
+- Bajo la orden 2125, publicar por tandas verificadas, y punto 4 de fotos anulado, `caza-fotos-parte-02` ya aceptada, integra y publica Cosa. Yo no lanzo nada hasta dirección bajo 2125.
+- Fuera del código: AdSense, sin pedir revisión hasta que Grok confirme todo, y falta que Daniel mire el panel por si hubo decisión nueva en la ventana del 503 del 23/10. Facebook, reanudación sin decidir.
+
+Puedo seguir con lo que me digas.
