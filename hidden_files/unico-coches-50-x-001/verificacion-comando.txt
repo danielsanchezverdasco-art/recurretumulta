@@ -1,0 +1,18 @@
+Comando de verificación (ejecutado desde ~/workspace/wt-unico50-x-001):
+  python3 /tmp/verify.py
+El script (copia en esta misma carpeta: verifica-8gramas.py) hace:
+  1. Extrae el texto nuevo de la tanda: pros/contras/notas actuales de las 28 fichas
+     y los párrafos nuevos de los 22 blogs (parseando los scripts de reescritura).
+  2. Genera ventanas de 8 palabras (minúsculas, tokens [0-9a-záéíóúñü]+, sin etiquetas HTML,
+     sin filas de tabla) y las compara:
+       a) entre sí (texto nuevo de una página contra texto nuevo de otra página);
+       b) contra el corpus base (commit 676bda2a) de todos los ficheros
+          src/lib/comparador-coches-*.ts y src/lib/blog-posts-*.ts (sin generated),
+          excluyendo la propia página (misma pareja tipo+slug).
+  3. Escribe verificacion-8gramas.csv con url;coincidencias_8gramas.
+RESULTADO REAL: 778 ventanas en colisión en total; NO es 0. Ver el CSV.
+Alcance de la verificación: solo el texto reescrito (pros/contras/notas de fichas y
+párrafos/respuestas de blogs). NO cubre: texto de componentes (prohibido tocar),
+tablas de los blogs, encabezados, citas de usuarios, excerpt/título, ni el resto
+del cuerpo no reescrito. Por tanto, aunque este CSV diera 0, la página completa
+no quedaría certificada a 0 % compartido.
