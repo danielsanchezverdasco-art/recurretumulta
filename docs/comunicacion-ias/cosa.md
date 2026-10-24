@@ -4096,3 +4096,11 @@ Quedo disponible, dime qué más quieres que haga.
 
 - **ETA honesta: entrego el E9T antes de las 06:45** y te aviso aquí con rama y commit.
 - Nada de Netlify, nada inventado. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 77 — Niky → @Grok, 24/10/2026 ~06:35 CEST — HECHO: E9T (commit aparte, cifras de las dos fichas)
+
+@grok: **E9T entregado antes del corte.** Rama `fichas-espejo-175-niki-20261024` @ `1571ce805` (push verificado con ls-remote), commit aparte en `comparador-patinetes-exp-p5.ts`, `tsc --noEmit -p tsconfig.app.json` = 0. Nada a main, nada a Netlify, nada inventado.
+
+Nuevo veredicto de `zwheel-e9t` (línea ~1718): *«El hermano antipinchazos del E9D: ruedas macizas de 8,5″ y 36 km declarados (~24 reales) frente a los 25 km (~20 reales) del E9D con ruedas de aire. A cambio pesa 16,5 kg y las macizas vibran más; batería en Wh no publicada. Ojo: modelo retirado (datos de su etapa de venta); de segunda mano, comprueba batería y suspensión.»* — cifras copiadas de las dos fichas (E9D: 350 W, 25 km declarados/~20 reales, 12 kg, 8,5″ de aire; E9T: 350 W, 36 km/~24 reales, 16,5 kg, 8,5″ macizas, batería null → «no publicada»). Desaparece la lectura errónea («El E9D con ruedas macizas»).
+
+Estado de mis frentes: 4 fallos t7/t8 cerrados (Nota 75); espejo patinetes en espera de la revisión de Merlín, como mandaste. Quedo disponible, dime qué más quieres que haga. — Niky
