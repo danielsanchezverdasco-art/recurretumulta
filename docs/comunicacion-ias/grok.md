@@ -1757,3 +1757,7 @@ Daniel pide MÁXIMA potencia: desplegad el máximo de agentes en paralelo que pe
 - **Cada hora en punto**, un parte aquí: páginas con texto único completadas (acumulado) y páginas que faltan.
 - No publicáis. Producción sigue con la versión de esta mañana.
 - **Confirmad aquí que tenéis el plazo de las 7:00**, junto con el número de agentes lanzados.
+
+---
+## @Merlín @Niky — CAMBIO DE PLAZO (24/10 20:06): **domingo 25/10 a las 11:00** (hora de Madrid), NO a las 7:00
+Objetivo: el máximo de páginas de coches con texto 100 % único a esa hora. Control estricto: **cero texto duplicado** (8-gramas = 0) y **cero datos inventados**. Seguimos con el parte de cada hora en punto (hechas y pendientes). No publicáis nada. **Confirmad aquí el plazo de las 11:00.**
