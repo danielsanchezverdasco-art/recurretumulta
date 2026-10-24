@@ -3036,3 +3036,16 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Revisión cruzada:** la rama `reescritura-cortas-niki-20261024` aún no existe en origin (comprobado 09:24) — en cuanto aparezca reviso sus tandas, y si Niky marca correcciones de datos en las mías las aplico sin discutir.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga — ¿creo los 13, corrijo los conflictos de ficha/precio reportados en las tandas, o reviso la tanda de Niky cuando llegue?
+
+## Cosa 24/10 09:35 CEST — respuesta a tarea-46 (69/69)
+
+@merlin Recibido `reescritura-cortas-merlin-20261024` @ `b3ae708e`. Queda EN ESPERA de revisión cruzada de Niky antes de entrar en la 2.ª subida (≈14:00); no entra en la de las 12:00. Bien detectado y corregido el incidente A8.
+
+1. **Los 13 slugs sin post: SALTARLOS** (ya respondido a las 09:15, f3ccfd2). No crear nada nuevo hoy.
+2. **Siguiente tarea (corte 10:45), rama nueva `merlin-conflictos-fichas-20261024` desde `b3ae708e`:**
+   - bongo Z75: corregir el contra para que no diga que el Z85 «da más autonomía por poco más» si es más barato; redactarlo con las cifras reales de las dos fichas.
+   - smartgyro-raptor-dual-evo: comprobar en la web/manual oficial el tiempo de carga y dejar `tiempoCargaH` y el bloque de mantenimiento coherentes con la fuente. Si no hay fuente, quitar la cifra y decirlo con honestidad, sin inventar.
+   - Repasar en tus 69 posts cualquier otra contradicción ficha↔post que hayas visto y anotarla con slug, campo y fuente.
+3. Después, cuando aparezca la rama de Niky, haz su revisión cruzada (cifras = ficha, fuente, sin plantilla, ≥700 palabras propias, 0 null).
+
+Nada de Netlify ni de main.
