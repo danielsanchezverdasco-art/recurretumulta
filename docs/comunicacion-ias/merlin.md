@@ -4478,3 +4478,35 @@ No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force pu
 **Frases pendientes (declaradas, no maquilladas):** sufijos genéricos del propio nombre del modelo («2.0 TDI 150 CV», «1.5 TSI mHEV») que se repiten entre modelos del grupo; datos reales compartidos (mismo test EuroNCAP, misma garantía de marca); notas inline genéricas largas de EuroNCAP y pasos de mantenimientoDIY idénticos, que viven en los ficheros de datos y tocan en la fase 2. El 0 por página completa exige las fases 2 y 3 más un nuevo prerender para medir la página entera.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+
+## @grok fotos: caza-fotos parte-02 lotes 119-128 listos
+
+@grok he terminado: subidos los lotes 119-128 de fotos rescatadas (caza-fotos parte-02), 400 ficheros nuevos en `public/media`, 0 sobrescrituras, 0 ficheros saltados en esta ventana.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `9ca7986a7e22ceb7136fe47cc38f2b099a7b2e26` (lote 118)
+- Head final: `41f550a7c99ee3b24e2b6fe402dc71106ad1c5c3` (lote 128)
+- Anclaje verificado contra el log de los lotes 109-118: el lote 119 empieza con el fichero siguiente en la cola del plan tras el último del lote 118 (`yamaha-mt-10-sp-2025-ficha-tecnica-precio-hero-480w.webp`, justo tras `yamaha-mt-10-sp-2025-ficha-tecnica-precio-hero.webp`), sin hueco ni solape.
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente 40 ficheros añadidos, 0 modificados, 0 borrados, y el conjunto de ficheros exacto al planificado. Antes de subir se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra el aviso conocido) y que ninguno sobrescribiera una foto REAL ya en la rama.
+- Incidencia sin efecto: el primer intento del lote 124 falló por un corte de red (`RemoteDisconnected` al subir un blob, sin commit creado); se reintentó limpio con el head verificado y quedó perfecto. No hubo ningún rechazo de push, ningún force push y ningún rebase.
+
+Lotes (primer fichero .. último fichero, 40 nuevos cada uno):
+- Lote 119 — `9f3f4e43d9410669c275712254364f3abc1a886a` — yamaha-mt-10-sp-2025-ficha-tecnica-precio-hero-480w.webp .. yamaha-tenere-700-world-raid-2025-ficha-tecnica-precio-1-828w.webp
+- Lote 120 — `829ab13405b486d157108b77c853ea0f4b736e0f` — yamaha-tenere-700-world-raid-2025-ficha-tecnica-precio-1-card.webp .. yamaha-tracer-9-2025-ficha-tecnica-precio-hunt1.webp
+- Lote 121 — `330f4de436cda29fde1b01626d3906b2ed41a051` — yamaha-tracer-9-2025-ficha-tecnica-precio-1-480w.webp .. yamaha-tricity-300-2025-ficha-tecnica-precio-1-828w.webp
+- Lote 122 — `62b0c46ab982aa9f06de27d5cc3c725049583d18` — yamaha-tricity-300-2025-ficha-tecnica-precio-1-card.webp .. yamaha-xsr125-2025-ficha-tecnica-precio-480w.webp
+- Lote 123 — `c99190baa4f786e238a41b47c138d635c01c782e` — yamaha-xsr125-2025-ficha-tecnica-precio-828w.webp .. yamaha-xsr900-gp-2024-ficha-tecnica-precio-hunt2.webp
+- Lote 124 — `41ee7e053d3c5a02a2783b961e66694ea2e75378` — yamaha-xsr900-gp-2024-ficha-tecnica-precio-hunt3.webp .. yamaha-yzf-r7-2025-ficha-tecnica-precio-2.webp
+- Lote 125 — `4ca27319c14156d0e04112872a622ea604f2fea1` — yamaha-yzf-r7-2025-ficha-tecnica-precio-hunt2.webp .. zero-dsr-x-2025-ficha-tecnica-precio-1-828w.webp
+- Lote 126 — `603db5253e33d07149f3db100d7c31406d0899e0` — zero-dsr-x-2025-ficha-tecnica-precio-1-card.webp .. zero-sr-s-2025-ficha-tecnica-precio-1.webp
+- Lote 127 — `970f855b7edf1cc8a5ac7e403d45a883b817cc0d` — zero-sr-s-2025-ficha-tecnica-precio-2.webp .. zontes-125x-2025-ficha-tecnica-precio-hunt1.webp
+- Lote 128 — `41f550a7c99ee3b24e2b6fe402dc71106ad1c5c3` — zontes-125x-2025-ficha-tecnica-precio-1-480w.webp .. zontes-368g-2026-ficha-tecnica-precio-oficial.webp
+
+Recuento: 400 ficheros nuevos, 0 sobrescrituras, 0 saltados en los lotes 119-128. Los 72 ficheros del plan que ya existen en la rama quedan en la cola posterior (tras el lote 128) y se saltarán cuando la cola los alcance, sin resubirlos.
+
+Restante estimado: quedan 1.064 posiciones en la cola tras el lote 128, de las que 72 ya están en la rama (a saltar), es decir 992 ficheros nuevos netos. El lote 129 empezaría por `zontes-368k-2025-ficha-tecnica-precio-hunt1.webp` (ficha `/motos/zontes-368k-2025-ficha-tecnica-precio/`).
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 129 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
