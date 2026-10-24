@@ -109,7 +109,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica china",
       "Aion RT lidar"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "aion-s-max-2024-precio-ficha-tecnica",
@@ -242,7 +242,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica 2026",
       "GAC Aion Ray7"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "aito-m5-2024-precio-ficha-tecnica",
@@ -7737,7 +7737,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c baic bj40",
       "suv gasolina baic"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-m2-cs-2025-precio-ficha-tecnica",
@@ -8174,7 +8174,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c dfsk 500",
       "suv gasolina dfsk"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "dongfeng-aeolus-l7-2025-precio-ficha-tecnica",
@@ -10207,7 +10207,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico premium 2025",
       "cayenne electric vs eqs suv"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "range-rover-electric-2025-precio-ficha-tecnica",
@@ -11936,7 +11936,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero mg u9 ev",
       "pick-up eléctrico mg"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "kgm-rexton-sports-2026-precio-ficha-tecnica",
@@ -12107,7 +12107,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta c tvr griffith",
       "deportivo gasolina tvr"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "rivian-r2-2026-precio-ficha-tecnica",
@@ -12848,7 +12848,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "comprar bmw serie 3",
       "serie 3 vs rivales"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-serie-4-2025-precio-ficha-tecnica",
@@ -13703,7 +13703,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bentley mulliner convertible",
       "descapotable más potente bentley"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bentley-bentayga-s-2024-precio-ficha-tecnica",
@@ -13855,7 +13855,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV 5 estrellas C-NCAP",
       "FAW T99"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bestune-e01-2025-precio-ficha-tecnica",
@@ -14003,7 +14003,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bmw 330e 292 cv ficha",
       "berlina phev etiqueta cero"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-serie-4-420d-gran-coupe-2026-precio-ficha-tecnica",
@@ -14075,7 +14075,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica premium 2026",
       "bmw i5 vs tesla model 3"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-ix1-xdrive30-2026-precio-ficha-tecnica",
@@ -14093,7 +14093,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv eléctrico premium 2026",
       "bmw ix1 vs audi q4"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-ix2-xdrive30-2026-precio-ficha-tecnica",
@@ -14404,7 +14404,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-seal-2024-precio-ficha-tecnica",
-    "title": "BYD Seal Design: 570 km y 313 CV por 49.490 €",
+    "title": "BYD Seal Design: 570 km y 313 CV por 33.885 €",
     "excerpt": "Precio y ficha técnica del BYD Seal Design: berlina eléctrica de 313 CV, 570 km de autonomía, carga de 150 kW y 5 estrellas Euro NCAP.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
@@ -15801,7 +15801,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Chery Tiggo X ficha",
       "Tiggo X Europa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "chery-q-2027-precio-ficha-tecnica",
@@ -16679,7 +16679,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "roadster británico 2025",
       "Morgan más rápido"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "morgan-super-3-2025-precio-ficha-tecnica",
@@ -16869,7 +16869,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "utilitario híbrido 2025",
       "Ypsilon ECO"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "lancia-ypsilon-electric-2025-precio-ficha-tecnica",
@@ -26884,7 +26884,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sf90 stradale autonomía eléctrica",
       "ferrari sf90 0-100"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ferrari-sf90-spider-2025-precio-ficha-tecnica",
@@ -26960,7 +26960,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ferrari capota lona",
       "ferrari roma spider maletero"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ferrari-amalfi-2026-precio-ficha-tecnica",
@@ -26979,7 +26979,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ferrari amalfi vs roma",
       "ferrari amalfi spider"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ferrari-daytona-sp3-2025-precio-ficha-tecnica",
@@ -29446,7 +29446,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV chino gasolina",
       "Hongqi HS5 consumo"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "hongqi-hs6-phev-2025-precio-ficha-tecnica",
@@ -29598,7 +29598,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "H9 337 CV",
       "berlina china lujo"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "hongqi-e-qm5-2025-precio-ficha-tecnica",
@@ -30390,7 +30390,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "JAC 6 PHEV precio",
       "rival BYD Song Plus"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "jac-qx-2025-precio-ficha-tecnica",
@@ -30599,7 +30599,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "coche eléctrico ciudad",
       "JAC e-JS1"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "sehol-x6-2024-precio-ficha-tecnica",
@@ -31777,7 +31777,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ceed 1.5 mhev dct",
       "compacto híbrido ligero"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "kia-sorento-diesel-2025-precio-ficha-tecnica",
@@ -31867,7 +31867,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ev6 carga 258 kw",
       "crossover electrico 582 km"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "kia-xceed-15-mhev-2025-precio-ficha-tecnica",
@@ -32492,7 +32492,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "D19 1300 km",
       "Leapmotor D19 híbrido"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "leapmotor-paris-2026-b03-d19-debut-europa",
@@ -34341,7 +34341,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 125 deportivo",
       "fb mondial imola prueba"
     ],
-    "readTime": 10
+    "readTime": 9
   },
   {
     "slug": "bsa-bantam-350-2026-precio-ficha-tecnica",
@@ -34629,7 +34629,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica barata",
       "Seal 06 EV 800V"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "byd-seal-08-2026-precio-autonomia",
@@ -34647,7 +34647,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "berlina eléctrica insignia BYD",
       "Seal 08 carga megavatio"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "byd-song-l-dm-i-2025-precio-autonomia",
@@ -34953,7 +34953,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "monovolumen eléctrico lujo",
       "Volvo EM90 738 km"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "byd-song-pro-dm-i-2025-precio-autonomia",
@@ -35583,7 +35583,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Nissan Patrol precio",
       "Patrol NISMO"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "subaru-trailseeker-2026-precio-autonomia",
@@ -35619,7 +35619,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "EZ-60 autonomía",
       "Mazda eléctrico China"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "toyota-bz5-2026-precio-autonomia",
@@ -35763,7 +35763,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Blazer EV SS",
       "Chevrolet eléctrico"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "tesla-model-y-l-2026-precio-autonomia",
@@ -36077,7 +36077,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked 150 china",
       "motos 150 baratas"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "voge-525r-naked-a2-precio",
@@ -36566,7 +36566,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportiva 660 2026",
       "Daytona 660 A2"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "bmw-r-12-gs-2026-precio-ficha",
@@ -37052,7 +37052,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "autocaravana Adria",
       "perfilada cama isla"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "mclouis-menfys-2026-precio-camper",
@@ -37106,7 +37106,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "perfilada 7 metros",
       "Roller Team ficha"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "possl-summit-600-2026-precio-camper",
@@ -38518,7 +38518,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "SUV eléctrico 7 plazas",
       "Escalade IQ batería 205 kWh"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "gmc-hummer-ev-2025-precio-ficha-tecnica",
@@ -39931,7 +39931,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Speedster 125 2025",
       "scooter carnet B"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "fantic-stealth-500-2026-ficha-tecnica-precio",
@@ -40251,7 +40251,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Benda motos",
       "cruiser A2"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "zontes-703t-etc-2026-ficha-tecnica-precio",
@@ -40459,7 +40459,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tinbot españa",
       "rs1 autonomía"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "tromox-mino-2025-ficha-tecnica-precio",
@@ -42220,7 +42220,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "artura 10 unidades",
       "mso artura 2026"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica",
@@ -43773,7 +43773,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Salón de París 2026 novedades",
       "Liux BIG autonomía"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "velca-nude-eon-motos-electricas-espanolas",
@@ -46449,7 +46449,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "125d vs",
       "moto 125 potente"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "benelli-trk-251-2025-ficha-tecnica-precio",
@@ -46563,7 +46563,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "125 scrambler española",
       "moto estilo 70"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "macbor-xr5-500-2025-ficha-tecnica-precio",
@@ -47399,7 +47399,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "honda crf opiniones",
       "trail ligera 2025"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "honda-crf450rx-2025-ficha-tecnica-precio",
@@ -49513,7 +49513,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "maxitrail 2025 comparativa",
       "multistrada v4 vs gs 1300"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ducati-diavel-v4-2024-ficha-tecnica-precio",
@@ -49665,7 +49665,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "triumph trident prueba",
       "trident 660 opiniones"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "triumph-speed-twin-900-2024-ficha-tecnica-precio",
@@ -49703,7 +49703,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "speed twin 1200 rs",
       "triumph modern classic"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "triumph-tiger-sport-660-2025-ficha-tecnica-precio",
@@ -52366,7 +52366,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "trk 702 vs 702 x",
       "benelli adventure 2024"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "benelli-trk-502-2024-ficha-tecnica-precio",
@@ -52471,7 +52471,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "montana xr5 vs trk 502 x",
       "macbor trail 2025"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "macbor-eight-mile-125-lc-2024-ficha-tecnica-precio",
@@ -52492,7 +52492,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "macbor 125 custom",
       "moto custom carnet b"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "macbor-rockster-125-evo-2025-ficha-tecnica-precio",
@@ -54920,7 +54920,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor enduro 125 2025",
       "fantic vs gasgas 125"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "fantic-xef-250-2025-ficha-tecnica-precio",
@@ -55025,7 +55025,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scrambler italiana 700",
       "mejor scrambler media"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "sherco-300-se-factory-2026-ficha-tecnica-precio",
@@ -55277,7 +55277,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trail sencilla",
       "mejor trail ligera"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "beta-alp-x-2025-ficha-tecnica-precio",
@@ -55466,7 +55466,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "jordi tarrés trs",
       "mejor moto trial 2025"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "trs-one-r-250-2025-ficha-tecnica-precio",
@@ -55634,7 +55634,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trial exclusiva",
       "lampkin 12 mundiales"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "mecatecno-dragonfly-e-2025-ficha-tecnica-precio",
@@ -55718,7 +55718,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "mejor 50 enduro 2025",
       "rieju figueres"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "rieju-aventura-125-2024-ficha-tecnica-precio",
@@ -58447,7 +58447,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "NIU España",
       "etiqueta Cero"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "cfmoto-675nk-2025-ficha-tecnica-precio",
@@ -60826,7 +60826,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sustituto ZS EV",
       "MG S5 EV 2026"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "chery-tiggo-4-pro-15t-2026-precio-ficha-tecnica",
@@ -61263,7 +61263,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "shooting brake eléctrico",
       "zeekr 001 carga rápida"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "zeekr-x-2025-precio-ficha-tecnica",
@@ -61320,7 +61320,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv coupé eléctrico chino",
       "nio españa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "nio-el8-2026-precio-ficha-tecnica",
@@ -61358,7 +61358,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "denza byd españa",
       "suv coupé eléctrico chino"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "lynk-co-01-2026-precio-ficha-tecnica",
@@ -61434,7 +61434,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "phev más seguro 2025",
       "lynk co 08 españa"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "dfsk-f5-2025-precio-ficha-tecnica",
@@ -61491,7 +61491,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "leapmotor t03 opiniones",
       "urbano eléctrico barato"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "denza-d9-dm-i-2025-precio-ficha-tecnica",
@@ -63258,7 +63258,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto eléctrica reparto",
       "next nxplus opiniones"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "next-nxplus-2025-ficha-tecnica-precio",
@@ -64455,7 +64455,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "casco obligatorio patinete multa",
       "multa patinete acera 200 euros"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "intercomunicador-casco-moto-legal-octubre-2026",
@@ -65227,7 +65227,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "compacto eléctrico 2025 comparativa",
       "astra electric prueba"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica",
@@ -65436,7 +65436,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "furgoneta etiqueta cero reparto",
       "vivaro electric ficha técnica"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "opel-mokka-gse-2025-precio-ficha-tecnica",
@@ -67022,7 +67022,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hyper scooter 72v",
       "nami burn-e 3 españa"
     ],
-    "readTime": 7
+    "readTime": 6
   },
   {
     "slug": "nami-klima",
@@ -69080,7 +69080,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 29 km autonomía",
       "gotrax barato"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "gotrax-gx-zero",
@@ -78180,7 +78180,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Roewe D6 520 km",
       "berlina eléctrica barata"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "roewe-m7-dmh-2025-precio-ficha-tecnica",
@@ -78313,7 +78313,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Maxus G20 Roewe",
       "minivan china"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "roewe-imax8-dmh-2024-precio-ficha-tecnica",
@@ -81213,7 +81213,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "utilitario hibrido 2025",
       "yaris gr sport ficha"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "toyota-rav4-hev-2025-precio-ficha-tecnica",
@@ -82555,7 +82555,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Voyah Courage batería grande",
       "carga 5.5C Voyah"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "voyah-taishan-2026-precio-ficha-tecnica",
@@ -82574,7 +82574,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "rival Aito M9",
       "Huawei ADS 4 Voyah"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "voyah-dream-9-2026-precio-ficha-tecnica",
@@ -83485,7 +83485,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hiperdeportivo eléctrico chino",
       "Kimi Raikkonen Zeekr"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "zeekr-007-2025-precio-ficha-tecnica",

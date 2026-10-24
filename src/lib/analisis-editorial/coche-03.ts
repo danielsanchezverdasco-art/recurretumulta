@@ -453,7 +453,7 @@ export const ANALISIS_COCHE_03: MapaAnalisis = {
   },
   "byd-seal-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Seal Design es el eléctrico que puso a BYD en el radar de los premium europeos: 570 kilómetros de autonomía, 313 CV con tracción trasera, 5,9 segundos hasta los 100 y un coeficiente aerodinámico de 0,219 que explica su eficiencia. El diseño, premiado internacionalmente, y las 5 estrellas Euro NCAP completan un paquete que a 49.490 € planta cara al Tesla Model 3 en su propio terreno. La carga rápida de 150 kW no es de récord, pero es suficiente para viajar sin dramas.",
+      "El Seal Design es el eléctrico que puso a BYD en el radar de los premium europeos: 570 kilómetros de autonomía, 313 CV con tracción trasera, 5,9 segundos hasta los 100 y un coeficiente aerodinámico de 0,219 que explica su eficiencia. El diseño, premiado internacionalmente, y las 5 estrellas Euro NCAP completan un paquete que a 33.885 € planta cara al Tesla Model 3 en su propio terreno. La carga rápida de 150 kW no es de récord, pero es suficiente para viajar sin dramas.",
       "Sus debilidades son las de una marca en despliegue: la imagen premium aún no está al nivel de los alemanes, la pantalla multimedia tiene menús mejorables, el radio de giro es amplio y la red de servicio es más reducida que la competencia. El maletero, sin portón, penaliza la practicidad frente a un Model 3. Pero el Seal fue el primer BYD que demostró que los chinos podían hacer berlinas eléctricas deseables, no solo baratas. El pionero con estilo.",
     ],
     veredicto: "La elección lógica para una berlina eléctrica con diseño a precio contenido; un error si necesitas la mejor red de servicio.",
