@@ -225,7 +225,6 @@ function Duelo({ tipo, slug, nombre, img, rival }: { tipo: TipoFicha; slug: stri
       <h3 id={idT} className="flex items-center gap-2 text-base font-extrabold text-gray-900">
         <Swords className="h-4 w-4 text-red-600" aria-hidden="true" /> Duelo: ¿cuál te llevas?
       </h3>
-      <p className="mt-1 text-xs text-gray-500">Su rival natural: mismo segmento y precio parecido.</p>
       <div className="relative mt-3 grid grid-cols-2 gap-2.5">
         <LadoDuelo nombre={nombre} precio={rival.precioPropio} img={img} votos={vF} pct={pF} elegido={d?.mio === slug}
           onVotar={() => v(slug)} deshabilitado={enviando || d === undefined} hayVotos={total > 0} color="bg-red-500" emoji={EMOJI[tipo]} />

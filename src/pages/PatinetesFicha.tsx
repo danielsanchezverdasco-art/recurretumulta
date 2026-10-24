@@ -171,13 +171,15 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
           : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
     },
-    {
-      q: `¿Cuál es la autonomía real del ${nombre}?`,
-      a:
-        patinete.autonomiaRealKm == null
-          ? `No hay una estimación fiable de autonomía real para el ${nombre}: preferimos no inventarla.`
-          : `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
-    },
+    // (24/10 unicidad) sin dato publicado no hay FAQ de autonomía
+    ...(patinete.autonomiaRealKm == null
+      ? []
+      : [
+          {
+        q: `¿Cuál es la autonomía real del ${nombre}?`,
+            a: `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
+          },
+        ]),
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
       a:
@@ -698,12 +700,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           )}
         </section>
 
-        <p className="mt-4 text-center text-sm text-gray-500">
-          ¿Buscas coche en vez de patinete?{" "}
-          <Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">
-            Ver el comparador de coches →
-          </Link>
-        </p>
 
         
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
@@ -744,6 +740,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         </div>
         <BarraInferiorFicha compararHref={compararHref} precio={patinete.precioEur} aprox={precioAprox} />
       </main>
+      <nav aria-label="Herramientas" className="mx-auto max-w-6xl px-4 pb-6 text-center text-sm"><Link to="/comparador-coches/" className="font-semibold text-red-600 hover:underline">Comparador de coches</Link></nav>
       <SharedFooter
         editorial={{
           ambito: "patinetes",

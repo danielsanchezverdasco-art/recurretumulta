@@ -693,26 +693,12 @@ function BlogPostPage() {
         </div>
 
         <div className="max-w-3xl mx-auto px-4 py-8 space-y-8">
-          {/* Inline CTA */}
-          <div
-            className="bg-gradient-to-r from-red-600 to-rose-600 rounded-2xl p-5 text-white space-y-3"
-          >
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center shrink-0">
-                <Sparkles className="w-5 h-5" />
-              </div>
-              <div>
-                <p className="font-black text-sm">¿Tienes una multa de este tipo?</p>
-                <p className="text-white/80 text-xs">Analízala gratis con IA — sabemos en segundos si tiene errores anulables.</p>
-              </div>
-            </div>
-            <Link to="/#analizador" className="block">
-              <Button className="bg-white text-red-600 hover:bg-white/90 font-black rounded-xl w-full h-11 text-sm">
-                Analizar mi multa gratis ahora
-                <ArrowRight className="w-4 h-4 ml-2" />
-              </Button>
+          {/* (24/10 unicidad) CTA del analizador: botón corto, sin frase de plantilla */}
+          <aside aria-label="Analizador de multas">
+            <Link to="/#analizador" className="inline-flex items-center gap-2 rounded-xl bg-red-600 px-4 py-2.5 text-sm font-black text-white hover:bg-red-700">
+              <Sparkles className="w-4 h-4" /> Analizar mi multa
             </Link>
-          </div>
+          </aside>
 
           {/* Ficha del modelo primero: la atracción fuerte, antes de la historia */}
           {cocheDestacado && (
@@ -790,43 +776,11 @@ function BlogPostPage() {
             </Suspense>
           )}
 
-          {/* Bottom CTA */}
-          <Card className="border-2 border-red-200 overflow-hidden">
-            <CardContent className="p-5 space-y-4">
-              <div className="flex items-start gap-3">
-                <img
-                  src="/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png"
-                  alt="RecurreTuMulta.online"
-                  className="w-10 h-10 rounded-2xl object-contain shrink-0 bg-white p-1 shadow-md shadow-red-200"
-                />
-                <div>
-                  <p className="font-black text-gray-900">¿Tu multa encaja con alguno de estos casos?</p>
-                  <p className="text-xs text-gray-500 mt-0.5">
-                    Sube tu multa a RecurreTuMulta.online y la IA detectará automáticamente qué defectos tiene y qué argumentos usar. El análisis es completamente gratis.
-                  </p>
-                </div>
-              </div>
-              <ul className="space-y-1.5">
-                {[
-                  "Análisis con IA en menos de 60 segundos",
-                  "% de viabilidad del recurso",
-                  "Argumentos legales específicos de tu multa",
-                  "PDF del recurso completo por 4,99€",
-                ].map((b) => (
-                  <li key={b} className="flex items-center gap-2 text-xs text-gray-600">
-                    <Check className="w-3.5 h-3.5 text-red-500 shrink-0" />
-                    {b}
-                  </li>
-                ))}
-              </ul>
-              <Link to="/#analizador" className="block">
-                <Button className="w-full font-black h-12 text-base bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-lg shadow-red-200">
-                  <Sparkles className="w-4 h-4 mr-2" />
-                  Analizar mi multa — Gratis
-                </Button>
-              </Link>
-            </CardContent>
-          </Card>
+          <aside aria-label="Analizador de multas" className="text-center">
+            <Link to="/#analizador" className="inline-flex items-center gap-2 rounded-xl bg-red-600 px-5 py-3 font-black text-white hover:bg-red-700">
+              <Sparkles className="w-4 h-4" /> Analizar mi multa
+            </Link>
+          </aside>
 
           {/* Newsletter semanal: solo en artículos de motor */}
           {post.category === "Novedades Motor" && (

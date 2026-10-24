@@ -84,9 +84,6 @@ export default function NewsletterSignup({ origen = "web", compact = false }: Pr
           <p className={`font-black ${compact ? "text-base" : "text-lg"} leading-tight`}>
             La semana del motor en 5 minutos
           </p>
-          <p className="mt-0.5 text-sm text-white/85">
-            Noticias, duelos y modelos nuevos. Cada domingo, sin spam.
-          </p>
         </div>
       </div>
 

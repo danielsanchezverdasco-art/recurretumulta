@@ -331,16 +331,18 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       q: `¿Cuánto cuesta el ${nombre}?`,
       a:
         coche.precioDesde == null
-          ? `El ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie. Tienes el detalle de las versiones disponibles en el análisis completo.`
-          : `${geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`} El desglose por versiones y acabados, con y sin ayudas, está en el análisis completo del modelo.`,
+          ? `El ${nombre} aún no tiene precio confirmado para España.`
+          : geo.faqPrecio ?? `El ${nombre} parte de ${fmtPrecio(coche.precioDesde)}.`,
     },
-    {
-      q: `¿Cuál es la autonomía del ${nombre}?`,
-      a:
-        coche.autonomiaKm == null
-          ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
-    },
+    // (24/10 unicidad) sin dato publicado no hay FAQ de autonomía
+    ...(coche.autonomiaKm == null
+      ? []
+      : [
+          {
+        q: `¿Cuál es la autonomía del ${nombre}?`,
+            a: `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
+          },
+        ]),
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
       a:
@@ -354,15 +356,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: sinTarifaEspana(coche)
               ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
-              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
-                  coche.etiquetaDgt === "Cero"
-                    ? "Puede circular por todas las ZBE sin restricciones."
-                    : coche.etiquetaDgt === "ECO"
-                      ? "Puede circular por las ZBE, pero algunas ciudades con ZBE estrictas aplican restricciones a los ECO."
-                      : coche.etiquetaDgt === "C"
-                        ? "Revisa las restricciones de tu ZBE local, ya que con etiqueta C algunas ciudades restringen el acceso."
-                        : "Revisa las restricciones de tu ZBE local antes de entrar."
-                }`,
+              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}».`,
           },
         ]
       : []),
@@ -726,12 +720,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </p>
         </section>
 
-        <section className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6" aria-label="ZBE de Madrid">
-          <h2 className="text-xl font-extrabold text-gray-900">
-            ¿Puede entrar en la ZBE de Madrid?
-          </h2>
-          <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
-        </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
           <div className="flex flex-wrap items-center justify-between gap-3">
@@ -768,7 +756,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                 .
               </>
             )}{" "}
-            El detalle de versiones, acabados y opciones está en nuestro análisis:
           </p>
           <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
@@ -940,7 +927,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               </tbody>
             </table>
             <p className="mt-3 text-xs text-gray-500">
-              Estimación orientativa (octubre 2026): supone 15.000 km al año
+              Supuestos (10/2026): 15.000 km/año
               {costeUsaLuz && (
                 <>, luz a {String(coche.costeMensual.precioKwh).replace(".", ",")} €/kWh</>
               )}
@@ -950,8 +937,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                   {String(coche.costeMensual.precioGasolinaL).replace(".", ",")} €/l
                 </>
               )}
-              . {coche.costeMensual.notas} El coste real depende de tu uso, tu tarifa y tu
-              aseguradora.
+              . {coche.costeMensual.notas}
             </p>
           </section>
         )}
@@ -1114,32 +1100,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           )}
         </section>
 
-        <p className="mt-4 text-center text-sm text-gray-500">
-          ¿Cuántos años de batería dan las marcas?{" "}
-          <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">
-            Ver el ranking de garantías de batería →
-          </Link>
-        </p>
-
-        <p className="mt-2 text-center text-sm text-gray-500">
-                    <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
-            Coche por presupuesto →
-          </Link>
-        </p>
-
-        <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Cuánto consume de verdad?{" "}
-          <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">
-            Calculadora de autonomía real →
-          </Link>
-        </p>
-
-        <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Puede entrar en las ZBE?{" "}
-          <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">
-            Calculadora de etiqueta DGT →
-          </Link>
-        </p>
 
         
         <section id="faq" className="mt-10 scroll-mt-32" aria-label="Preguntas frecuentes">
@@ -1181,6 +1141,13 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         {/* 18/10/2026: una sola barra inferior (comparar + WhatsApp) en lugar de CTA fijo + burbuja */}
         <BarraInferiorFicha compararHref={compararHref} precio={coche.precioDesde} aprox={precioAprox} />
       </main>
+      {/* (24/10 unicidad) herramientas como enlaces cortos, fuera de main/article */}
+      <nav aria-label="Herramientas" className="mx-auto flex max-w-6xl flex-wrap justify-center gap-x-4 gap-y-1 px-4 pb-6 text-sm">
+        <Link to="/comparador-garantia-bateria/" className="font-semibold text-red-600 hover:underline">Garantías de batería</Link>
+        <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">Coche por presupuesto</Link>
+        <Link to="/calculadora-autonomia-real/" className="font-semibold text-red-600 hover:underline">Autonomía real</Link>
+        <Link to="/calculadora-etiqueta-dgt/" className="font-semibold text-red-600 hover:underline">Etiqueta DGT</Link>
+      </nav>
       <SharedFooter
         editorial={{
           ambito: "coches",
