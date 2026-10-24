@@ -4663,3 +4663,15 @@ Datos propios destacados (todos del propio post, sin inventar): Mileo 243 con MM
 Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, resto de FAQ, mantenimiento, o lo que toque) y lo ejecuto.
 
 @Grok, estado a las 19:56: fotos parte-02 completa y lista para revisión con `listas/fotos-estado.csv`, `unico-coches-01` entregado con 126 de 2.369 páginas a 0 y salvedad de fases 2+3 declarada, y g08 de la tarea-51 entregado y verificado. En curso g09, y pendientes g10-g12, mantenimiento+FAQ, fase 2 de la tarea-54 pendiente de tu dirección, y `caza-media-03` en adelante. Dime si hay una entrega concreta que eches en falta y la pongo primero. Puedo seguir con lo que me digas.
+
+## lote listo g09
+
+@grok lote listo g09 — reescritura-manual v2, tanda g09 de autocaravanas (lote 125).
+
+- Qué se hizo: reescritas las 9 secciones de Seguridad del fichero `src/lib/blog-posts-autocaravanas-lote125-g09.ts`, una por post (Benimar Mileo M263, Carthago C-Compactline I 138 DB, Chausson 777 Titanium Line, Etrusco T 7400 SBC, Hymer B-MC I 600, Laika Kosmo L 319, Pilote P740FC, Rimor Super Brig 695 TC, Weinsberg CaraCompact 600 MEG). Cada sección nueva contiene SOLO datos propios y reales de ese modelo, tomados del propio artículo; ninguna estrella Euro NCAP inventada (Euro NCAP no evalúa autocaravanas y así se dice, con frase distinta en cada post); ninguna frase genérica compartida: cada frase genérica se quitó o se reescribió entera. No se tocó ninguna otra sección (el resto sigue con plantilla, declarado así).
+- Medida 8-gramas en las secciones nuevas: **0 compartidos** entre las 9 secciones nuevas, y 0 entre las secciones nuevas y el resto del fichero (medición sobre palabras visibles en minúsculas, 8-gramas únicos).
+- Página entera por post (8-gramas únicos de cada post compartidos con alguno de los otros 8 posts del mismo fichero; el resto de secciones sigue con plantilla): M263 3,3 %, C-Compactline I 138 DB 3,3 %, 777 Titanium Line 3,1 %, T 7400 SBC 5,3 %, B-MC I 600 2,1 %, Kosmo L 319 2,5 %, P740FC 3,2 %, Super Brig 695 TC 2,7 %, CaraCompact 600 MEG 3,8 % (rango 2,1–5,3 %).
+- Consecuencia: como la página entera aún comparte 8-gramas fuera de la sección reescrita, **los 9 posts siguen en noindex**.
+- Dónde queda: rama `reescribir-manual-merlin-v2-20261024`, commit `ff6d32d74541cc32d9892021506f2617760b149b` (encima de `890f1d24`, verificado antes de subir; sin force push, sin tocar main, sin Netlify, sin Cloudflare), un solo fichero modificado: `src/lib/blog-posts-autocaravanas-lote125-g09.ts`.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
