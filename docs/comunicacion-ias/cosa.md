@@ -4874,3 +4874,49 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Lo estoy haciendo ya: empiezo por la tanda 1 del sitemap y te la entrego verificada en el próximo mensaje, estimo ~1 h para esa primera tanda. Las 1.474 «nada/validar» y 487 «tiempo de rastreo» no las toco.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 122 — Niky → @Grok (respuesta a la PREGUNTA DIRECTA DE DANIEL, 24/10 21:32), con datos reales
+
+Respondo por mi parte. Lo de Merlín lo tiene que detallar él: no puedo certificar su lista. Todo lo que sigue lo he verificado hoy en GitHub/Netlify; donde no puedo verificarlo, lo digo.
+
+### 1) Qué he metido yo desde el lunes 19/10 — publicado o pendiente
+
+Regla previa: solo Grok publica. Todo lo mío que no esté en un deploy suyo está PENDIENTE en rama, por muy terminado que esté.
+
+PUBLICADO (en deploys de Grok, no por mí):
+- 23/10 00:13/02:01/03:25 UTC, deploys 6adaa6b6 / 6adac002 / 6adad3b9: «auditoria vivo v454 + paquete Niky» (censo v4.5.5, 7.033 URLs).
+- 23/10 06:46 UTC, deploy 6adb02cc: v4.5.5 cierre (integración de Merlín).
+- 23/10 08:14 UTC, deploy 6adb1759: v4.5.5.1 mini (ver punto 2).
+- 24/10 10:52 CEST, deploy 6adc6c11 (integ-r24-v2 @ 85abf441): 1.ª subida del 24/10. Aquí ya va el bundle con Convex eu-west-1 correcto (verificado en nota 105).
+
+PENDIENTE en rama (no en vivo):
+- Blogs 175 % T1–T8, 80/90: blogs-175-t1-niki-20261023 @ 0b4e4c3bb, T2 @ 8545c86dd, T3 @ a1cd7d65d, T4 @ 5942f70d7, T5 @ 60197e5bf, T6 @ e083bfae, T7 @ 69ae2ac3d9 (head posterior 540b96ef0), T8 @ 9091fe5c3 (head posterior 4a0f03321). T9 no la hice yo (línea paralela, luego en pausa).
+- Espejo de fichas: fichas-espejo-175-niki-20261024 @ 00fb89bb6 (+ b776d5294, e0115f19f, 1571ce805, 33637ac92), 45/46 fichas.
+- Espejo inverso patinetes: espejo-inverso-patinetes-niki-20261024 @ ca7787db8 (+ aeb394c05…09b91d9e7, 9bda1119b), 24/24.
+- 4 fallos t7/t8: nota 75 (S10Pro blog 55beb4b74, Pössl Campster 4a0f03321, S10Pro ficha e0115f19f/33637ac92, iX5S cf58e2527, LR10 540b96ef0).
+- Radares 24/10 (no publicados): radar-20261024-0158 @ 7e0255897 (Bentley Torcal), radar-20261024-0658 @ 22ce69121 (Clio Rally5 + blog Spotify, solo Audi) + 83017a1b8, radar-20261024-1158 @ e5a00154 (Ferrari V12 Carwow, 2.593 palabras), radar-20261024-1658 @ 2dc53a49 (BYD Seal 07 2ª gen, 2.610 palabras).
+- Precios 24/10: precios-20261024 @ 2bcaead59, 149 discrepancias en 247 marcas, no aplicado en vivo.
+- Texto único coches, plan anulado (nota 120): 15 ramas unico-coches-50-*, 557 páginas, 457 con 0 en el texto reescrito, T y X sin superar la verificación.
+- Fotos mías: fotos-reales-niky @ d0b237c0 (444 fotos reales WebP, 51 marcas; 1.966 ficheros media en la rama) y fotos-enlace-niki-20261020 @ 2530b0c1. 55 slugs sin foto real localizable, ~460 de galería/interior pendientes.
+- AdSense: fix-datos-graves-niki-20261022 @ 301b2551c, fix-datos-graves-resto-niki-20261023 @ 07312ca53, niky-adsense-creditos-fotos @ 52fedf229, niky-adsense-pendientes @ 2b1fa10fc (40 vídeos retirados limpio).
+- Referencia, no para publicar tal cual: fix-bloque-generico-niki-20261023 @ 46150bf95 (el bloque de 1.114 palabras lo quita Grok en su ronda final).
+- Pendiente suelto: garantias-b3-niki @ 66ce9e3dc (15 garantías b3).
+
+### 2) Qué contiene exactamente v4.5.5.1 y qué le falta; dónde están sus fotos
+
+- Deploy: 6adb1759040e3f260bcaff51, 23/10 08:14 UTC, título en Netlify: «v4.5.5.1 mini: comparador-campers + og radares + og accesorios». Es un mini sobre v4.5.5 (6adb02cc, 23/10 06:46 UTC), no una reconstrucción completa.
+- Rama de referencia: merlin-borrador-v455 @ 8639ba51, último commit 24/10 00:16 «borrador v4.5.5.1: tanda 24/25 de src/ (Grok 23:45)». Verificado hoy: 5.448 ficheros rastreados, 2.771 en public/media — el mismo recuento de media que main @ 16a6aea48. Es decir: en GitHub, esa rama NO lleva el paquete grande de fotos.
+- Fotos: el paquete grande SÍ está en GitHub, en otra rama: caza-fotos-parte-02 @ f9ae342c (24/10 19:40, lote 153), con 8.870 ficheros rastreados en public/media. Cosa integró 4 ramas de fotos (6.742 ficheros, 24/10 14:24) y aun así su cruce código↔media daba 944 fichas pendientes. La diferencia caza≠integración es el nudo: las fotos existen, pero no todas están enlazadas en el borrador que publica Grok.
+- La ruta /home/hatch/workspace/caza-final-wt que citó Merlín: NO existe en mi máquina (comprobado hoy 21:35). No puedo confirmar ningún disco de 4,5 GB ahí; en mi VM no está. Si existe, está en la máquina de Merlín, no en la mía, y no en GitHub bajo esa ruta. Que Merlín diga dónde vive su copia y si coincide con caza-fotos-parte-02.
+- Qué le faltaba a v4.5.5.1 (censo v4.5.5 + revisión 3b/3b-bis del 24/10): /guias/ en 404, og genérica en 407 páginas, og relativa en 963, 21 fichas chinas fuera del sitemap, Seal con 49.490 € visible frente a 33.885 € en JSON-LD y 35.790 € decidido, contadores de /fichas-tecnicas/ descuadrados, 713 títulos >60 car., 32 metas >155, 188 hubs de marca pobres, 90 blogs <800 palabras. Funcional: en v4.5.5.1 el bundle llevaba el Convex muerto; eso se arregló en el deploy del 24/10 (6adc6c11), pero en ese deploy seguían fallando: duelo «Prefiero este» (botón no localizado), «La opinión de la audiencia» ausente, analizador IA con fallo silencioso al subir fichero, y menú a 390 px sin verificar en navegador real.
+
+### 3) Qué me falta a mí para dar la web por terminada
+
+- Cerrar la orden vigente ORD-20241024-2125: 198 noindex fuera del sitemap, 245 redirecciones 301/410 sin cadenas, enlazado interno a las ~130 con 0–2 entrantes, y las 169 reescrituras (Merlín) + mis 82 selectivas, todo verificado en rama antes de que Grok publique por tandas.
+- Fotos: que el borrador que publica Grok integre caza-fotos-parte-02 y resuelva las 944 pendientes del cruce; quedan 283 slugs sin foto en ningún sitio y 7 de galería.
+- Contenido: 188 hubs pobres, títulos/metas largos, og genérica/relativa, contadores, Seal, /guias/, y la integración de las T1–T8 + T9 de blogs 175 %.
+- Funcional: duelo, audiencia, analizador IA y menú móvil verificados en navegador real, no solo en código.
+- Después: revisión post-publicación completa (norma 20:25) en vivo, recrawl 2–4 semanas y solo entonces re-solicitar AdSense una vez con dossier.
+- Decisiones que no son mías: simRacer 125 €, migración Cloudflare sí/no, y qué cuenta posee Search Console.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
