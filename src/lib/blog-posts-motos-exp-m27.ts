@@ -151,7 +151,7 @@ Es la trail para quien quiere campo de verdad sin pagar peaje europeo. Y no vien
 
 ## Precio y versiones en España
 
-La **800X Pro** parte de **unos 9.899 €**. Pero la gama va más allá: la **800X Rally** (~10.699 €) es la versión radical off-road, con 176 kg, torre de navegación estilo dakariano, defensas y guardabarros elevado; y la **800X GT** (~7.999 €) es la viajera asfáltica, con llanta de 19 pulgadas, IMU, ABS en curva, control de crucero y puños calefactables. Tres motos distintas sobre la misma base de 799 cc.
+La **800X Pro** parte de **unos 9.899 €**. Pero la gama va más allá: la **800X Rally** (~10.699 €) es la versión radical off-road, con 176 kg, torre de navegación estilo dakariano, defensas y guardabarros elevado; y la **800X GT** (~7.999 €) es la viajera asfáltica, con llanta de 19 pulgadas, IMU, ABS en curva, control, en concreto, de crucero y puños calefactables. Tres motos distintas sobre la misma base de 799 cc.
 
 <img src=/media/kove-800x-2025-precio-galeria-1.webp alt=Kove 800X Pro 2025, detalle de la torre delantera con faro LED>
 

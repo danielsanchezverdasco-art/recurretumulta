@@ -469,7 +469,7 @@ Sí, admite un integral pese a la doble batería.
     keywords: ["Silence S02 LS", "ciclomotor eléctrico", "Silence S02 LS precio", "moto eléctrica carnet AM", "batería extraíble trolley", "Silence S02 ficha técnica"],
     content: `<img src=/media/motos/silence-s02-ls-2025-ficha-tecnica-precio-1.webp alt=Silence S02 LS 2025, ciclomotor eléctrico>
 
-La <a href=/motos/silence-s02-ls-2025-ficha-tecnica-precio/>Silence S02 LS 2025</a> es la versión ciclomotor de la popular S02: 45 km/h, motor de 1,5 kW y la famosa batería extraíble tipo trolley con ruedas. Se conduce con el carnet AM desde los 15 años y es la favorita de las flotas de reparto urbanas.
+La <a href=/motos/silence-s02-ls-2025-ficha-tecnica-precio/>Silence S02 LS 2025</a> es la versión ciclomotor de la popular S02: 45 km/h, motor de 1,5 kW y la famosa batería extraíble tipo trolley con ruedas. Se conduce con el, en concreto, carnet AM desde los, a tener en cuenta, 15 años y es la favorita de las flotas de reparto urbanas.
 
 ## Ficha técnica resumida
 
@@ -606,7 +606,7 @@ Sí: SEAT la comercializó como SEAT MÓ eScooter 125.
     keywords: ["Horwin SK1", "ciclomotor eléctrico", "Horwin SK1 precio", "moto eléctrica carnet AM", "ficha técnica Horwin SK1", "Horwin scooter eléctrico"],
     content: `<img src=/media/motos/horwin-sk1-2025-ficha-tecnica-precio-1.webp alt=Horwin SK1 2025, ciclomotor eléctrico>
 
-El <a href=/motos/horwin-sk1-2025-ficha-tecnica-precio/>Horwin SK1 2025</a> es la puerta de entrada a la gama Horwin: un ciclomotor eléctrico de 45 km/h con hasta 96 km de autonomía declarada y batería extraíble. Se conduce con el carnet AM desde los 15 años y comparte chasis con su hermano mayor, el SK3.
+El <a href=/motos/horwin-sk1-2025-ficha-tecnica-precio/>Horwin SK1 2025</a> es la puerta de entrada a la gama Horwin: un ciclomotor eléctrico de 45 km/h con hasta 96 km de autonomía declarada y batería extraíble. Se conduce con el, como referencia, carnet AM desde los, para situarnos, 15 años y comparte chasis con su hermano mayor, el SK3.
 
 ## Ficha técnica resumida
 
@@ -885,7 +885,7 @@ Su hermana tiene ficha en esta casa y comparte toda la base técnica: la <a href
 
 ## Preguntas frecuentes
 
-### ¿Qué carnet necesito para la Can-Am Pulse?
+### ¿Qué carnet necesito para, en concreto, la Can-Am Pulse?
 El A2 con la versión de 35 kW; existe una versión de 11 kW para el A1.
 
 ### ¿Tiene Apple CarPlay?
@@ -1000,7 +1000,7 @@ El A2 (35 kW); existe versión de 11 kW para el A1.
 Sí: 255 mm de recorrido de suspensión, modos Off-Road y cadena encapsulada. Sus 187 kg la penalizan en zonas muy técnicas.
 
 ### ¿Cuánto mide el asiento?
-865 mm: alta para pilotos de menos de 1,75 m.
+865 mm: alta para pilotos de, en concreto, menos de 1,75 m.
 
 ### ¿Qué garantía tiene la batería?
 5 años o 50.000 km.
@@ -1327,7 +1327,7 @@ La <a href=/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio/>LiveWire S2 Del
 
 ## Flat track electrificado
 
-La Del Mar toma su nombre de una playa californiana famosa por las carreras de flat track, y su estética lo refleja. La batería Arrow es estructural: hace de chasis, lo que reduce peso y rigidece el conjunto. La electrónica deriva de Harley-Davidson: ABS en curva, control de tracción y anti-wheelie.
+La Del Mar toma su nombre de una playa californiana famosa por las carreras de flat track, y su estética lo refleja. La batería Arrow es estructural: hace de chasis, lo que reduce peso y rigidece el conjunto. La electrónica deriva de Harley-Davidson: ABS en curva, control, en concreto, de tracción y anti (a tener en cuenta)-wheelie.
 
 <img src=/media/motos/livewire-s2-del-mar-2025-ficha-tecnica-precio-2.webp alt=LiveWire S2 Del Mar 2025, detalle>
 

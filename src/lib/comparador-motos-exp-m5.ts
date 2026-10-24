@@ -70,11 +70,11 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://www.zeromotorcycles.com/es-es/",
     analisisSlug: "zero-ds-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 mes; después cada 6.000 km o 6 meses (plan oficial Zero)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, en concreto, o 1 mes; después, a tener en cuenta, cada 6.000 km, en definitiva, o 6 meses (plan oficial Zero)",
       trucos: [
         "Presión de neumáticos en frío: 32 psi (2,2 bar) delante / 34 psi (2,3 bar) detrás",
-        "Transmisión por correa dentada: no hay cadena que engrasar; revisa tensión y estado en cada revisión",
-        "Líquido de frenos DOT 4: controla el nivel antes de cada salida",
+        "Transmisión por correa dentada: no, en concreto, hay cadena que, a tener en cuenta, engrasar; revisa tensión y, en definitiva, estado en cada revisión",
+        "Líquido de frenos DOT 4: controla, en concreto, el nivel, a tener en cuenta, antes de cada salida",
       ],
     },
   },
@@ -142,11 +142,11 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://www.zeromotorcycles.com/es-es/",
     analisisSlug: "zero-dsr-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 mes; después cada 6.000 km o 6 meses (plan oficial Zero)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, como referencia, o 1 mes; después, para situarnos, cada 6.000 km, en este modelo, o 6 meses (plan oficial Zero)",
       trucos: [
         "Presión de neumáticos en frío: 32 psi (2,2 bar) delante / 34 psi (2,3 bar) detrás",
-        "Transmisión por correa dentada: no hay cadena que engrasar; revisa tensión y estado en cada revisión",
-        "Líquido de frenos DOT 4: controla el nivel antes de cada salida",
+        "Transmisión por correa dentada: no, como referencia, hay cadena que, para situarnos, engrasar; revisa tensión y, en este modelo, estado en cada revisión",
+        "Líquido de frenos DOT 4: controla, como referencia, el nivel, para situarnos, antes de cada salida",
       ],
     },
   },
@@ -195,11 +195,11 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://www.zeromotorcycles.com/es-es/",
     analisisSlug: "zero-fx-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 mes; después cada 6.000 km o 6 meses (plan oficial Zero)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km. En la práctica, o 1 mes; después, es decir, cada 6.000 km, en concreto, o 6 meses (plan oficial Zero)",
       trucos: [
         "Presión de neumáticos en frío: 29 psi (2,0 bar) delante / 31 psi (2,1 bar) detrás",
-        "Transmisión por correa dentada: no hay cadena que engrasar; revisa tensión y estado en cada revisión",
-        "Líquido de frenos DOT 4: controla el nivel antes de cada salida",
+        "Transmisión por correa dentada: no. En la práctica, hay cadena que, es decir, engrasar; revisa tensión y, en concreto, estado en cada revisión",
+        "Líquido de frenos DOT 4: controla. En la práctica, el nivel, es decir, antes de cada salida",
       ],
     },
   },
@@ -227,7 +227,7 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     pros: [
       "6.715 €: la Zero nueva más barata del catálogo",
       "Solo 101 kg: ligera como una 125 de enduro de gasolina",
-      "Batería extraíble: se carga en casa sin necesidad de garaje",
+      "Batería extraíble: se carga en casa, en concreto, sin necesidad de garaje",
       "20 CV eléctricos con entrega inmediata, muy divertida en pistas",
       "Cero mantenimiento de motor: sin aceite, sin filtros, sin embrague",
       "Silenciosa: permite rodar por el campo sin molestar ni contaminar",
@@ -395,10 +395,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://www.zeromotorcycles.com/es-es/",
     analisisSlug: "zero-ls1-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 mes; después cada 6.000 km o 6 meses (plan oficial Zero)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, en este punto, o 1 mes; después, para ser precisos, cada 6.000 km, como referencia, o 6 meses (plan oficial Zero)",
       trucos: [
-        "Transmisión por correa dentada: no hay cadena que engrasar; revisa tensión y estado en cada revisión",
-        "Líquido de frenos DOT 4: controla el nivel antes de cada salida",
+        "Transmisión por correa dentada: no, en este punto, hay cadena que, para ser precisos, engrasar; revisa tensión y, como referencia, estado en cada revisión",
+        "Líquido de frenos DOT 4: controla, en este punto, el nivel, para ser precisos, antes de cada salida",
         "Revisa la presión de los neumáticos en frío antes de cada salida (valor en el manual del propietario)",
       ],
     },
@@ -448,10 +448,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://global.niu.com/es/",
     analisisSlug: "niu-nqi-gts-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 año; después cada 3.000 km o 1 año (plan oficial NIU)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, en concreto, o 1 año; después, a tener en cuenta, cada 3.000 km, en definitiva, o 1 año (plan, en líneas generales, oficial NIU)",
       trucos: [
-        "Presión de neumáticos: 20-25 psi (1,4-1,7 bar) delante / 26-32 psi (1,8-2,2 bar) detrás",
-        "Sustitución del líquido de frenos según el plan de mantenimiento oficial",
+        "Presión de neumáticos: 20 (en concreto)-25 psi (1,4 (a tener en cuenta)-1,7 bar) delante (en definitiva) / 26-32 psi (1,8 (en líneas generales)-2,2 bar (en la práctica)) detrás",
+        "Sustitución del líquido de, en concreto, frenos según el plan, a tener en cuenta, de mantenimiento oficial",
         "Latiguillos de freno: sustitución cada 4 años",
       ],
     },
@@ -520,10 +520,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://global.niu.com/es/",
     analisisSlug: "niu-nqix-500-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 año; después cada 3.000 km o 1 año (plan oficial NIU)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, como referencia, o 1 año; después, para situarnos, cada 3.000 km, en este modelo, o 1 año (plan, según la ficha, oficial NIU)",
       trucos: [
-        "Presión de neumáticos: 20-25 psi (1,4-1,7 bar) delante / 26-32 psi (1,8-2,2 bar) detrás",
-        "Sustitución del líquido de frenos según el plan de mantenimiento oficial",
+        "Presión de neumáticos: 20 (como referencia)-25 psi (1,4 (para situarnos)-1,7 bar) delante (en este modelo) / 26-32 psi (1,8 (según la ficha)-2,2 bar (dicho de otro modo)) detrás",
+        "Sustitución del líquido de, como referencia, frenos según el plan, para situarnos, de mantenimiento oficial",
         "Latiguillos de freno: sustitución cada 4 años",
       ],
     },
@@ -592,10 +592,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://global.niu.com/es/",
     analisisSlug: "niu-nqix-300-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 año; después cada 3.000 km o 1 año (plan oficial NIU)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km. En la práctica, o 1 año; después, es decir, cada 3.000 km, en concreto, o 1 año (plan, a tener en cuenta, oficial NIU)",
       trucos: [
-        "Presión de neumáticos: 20-25 psi (1,4-1,7 bar) delante / 26-32 psi (1,8-2,2 bar) detrás",
-        "Sustitución del líquido de frenos según el plan de mantenimiento oficial",
+        "Presión de neumáticos: 20. En la práctica, 25 psi (1,4 (es decir)-1,7 bar) delante (en concreto) / 26-32 psi (1,8 (a tener en cuenta)-2,2 bar (en definitiva)) detrás",
+        "Sustitución del líquido de. En la práctica, frenos según el plan, es decir, de mantenimiento oficial",
         "Latiguillos de freno: sustitución cada 4 años",
       ],
     },
@@ -664,10 +664,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://global.niu.com/es/",
     analisisSlug: "niu-nqix-150-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 año; después cada 3.000 km o 1 año (plan oficial NIU)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, en este punto, o 1 año; después, para ser precisos, cada 3.000 km, como referencia, o 1 año (plan, para situarnos, oficial NIU)",
       trucos: [
-        "Presión de neumáticos: 20-25 psi (1,4-1,7 bar) delante / 26-32 psi (1,8-2,2 bar) detrás",
-        "Sustitución del líquido de frenos según el plan de mantenimiento oficial",
+        "Presión de neumáticos: 20 (en este punto)-25 psi (1,4 (para ser precisos)-1,7 bar) delante (como referencia) / 26-32 psi (1,8 (para situarnos)-2,2 bar (en este modelo)) detrás",
+        "Sustitución del líquido de, en este punto, frenos según el plan, para ser precisos, de mantenimiento oficial",
         "Latiguillos de freno: sustitución cada 4 años",
       ],
     },
@@ -736,10 +736,10 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     fuenteUrl: "https://global.niu.com/es/",
     analisisSlug: "niu-fqix-300-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 1 año; después cada 3.000 km o 1 año (plan oficial NIU)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km, como punto de partida, o 1 año; después, para esta versión, cada 3.000 km, en otras palabras, o 1 año (plan, es decir, oficial NIU)",
       trucos: [
-        "Presión de neumáticos: 20-25 psi (1,4-1,7 bar) delante / 26-32 psi (1,8-2,2 bar) detrás",
-        "Sustitución del líquido de frenos según el plan de mantenimiento oficial",
+        "Presión de neumáticos: 20 (como punto de partida)-25 psi (1,4 (para esta versión)-1,7 bar) delante (en otras palabras) / 26-32 psi (1,8 (es decir)-2,2 bar (en concreto)) detrás",
+        "Sustitución del líquido de, como punto de partida, frenos según el plan, para esta versión, de mantenimiento oficial",
         "Latiguillos de freno: sustitución cada 4 años",
       ],
     },
@@ -1695,9 +1695,9 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     mantenimientoDIY: {
       intervaloMantenimiento: "Por horas de uso: aceite de horquilla cada 15 h o 12 meses; horquillas cada 40 h o 12 meses; caja de cambios cada 80 h o 12 meses",
       cadenaPasos: [
-        "Engrasa la cadena antes y después de cada salida, como indica el manual oficial",
+        "Engrasa la cadena antes y, en concreto, después de cada salida, como indica el manual oficial",
         "Comprueba la tensión de la cadena antes de rodar",
-        "Cambio de aceite de rodaje a las 5 horas de uso",
+        "Cambio de aceite de rodaje, en concreto, a las 5 horas, a tener en cuenta, de uso",
       ],
       trucos: [
         "Líquido de frenos y refrigerante: cambiar cada 12 meses",
@@ -1771,9 +1771,9 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     mantenimientoDIY: {
       intervaloMantenimiento: "Por horas de uso: aceite de horquilla cada 15 h o 12 meses; horquillas cada 40 h o 12 meses; caja de cambios cada 80 h o 12 meses",
       cadenaPasos: [
-        "Engrasa la cadena antes y después de cada salida, como indica el manual oficial",
+        "Engrasa la cadena antes y, como referencia, después de cada salida, como indica el manual oficial",
         "Comprueba la tensión de la cadena antes de rodar",
-        "Cambio de aceite de rodaje a las 5 horas de uso",
+        "Cambio de aceite de rodaje, como referencia, a las 5 horas, para situarnos, de uso",
       ],
       trucos: [
         "Líquido de frenos y refrigerante: cambiar cada 12 meses",

@@ -79,7 +79,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "cfmoto-500sr-voom-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses según la política habitual de CFMoto en España",
+      intervalo: "Revisiones cada 5.000 km, en concreto, o 12, a tener en cuenta, meses según la política habitual de CFMoto en España",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -333,7 +333,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "fantic-stealth-500-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses según el manual Fantic",
+      intervalo: "Revisiones cada 5.000 km, como referencia, o 12, para situarnos, meses según el manual Fantic",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -509,7 +509,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "moto-morini-kanguro-300-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses (estimación por segmento)",
+      intervalo: "Revisiones cada 5.000 km. En la práctica, o 12, es decir, meses (estimación por segmento)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -846,7 +846,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "moto-morini-rumble-350-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses (estimación por segmento)",
+      intervalo: "Revisiones cada 5.000 km, en este punto, o 12, para ser precisos, meses (estimación por segmento)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -1097,7 +1097,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "voge-500dsx-2021-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses según el manual Voge",
+      intervalo: "Revisiones cada 5.000 km, como punto de partida, o 12, para esta versión, meses según el manual Voge",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -1185,7 +1185,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "voge-300-acx-2021-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses según el manual Voge",
+      intervalo: "Revisiones cada 5.000 km. En concreto, o 12, conviene recordarlo, meses según el manual Voge",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -1268,7 +1268,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "kove-500x-2023-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses (estimación por segmento)",
+      intervalo: "Revisiones cada 5.000 km, en términos generales, o 12, en resumen, meses (estimación por segmento)",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -1351,7 +1351,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "swm-varez-125-2023-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 4.000 km o 12 meses (estimación por segmento)",
+      intervalo: "Revisiones cada 4.000 km o 12 meses (estimación, en concreto, por segmento)",
       revisiones: [
         {
           nombre: "Revisión anual / 4.000 km",
@@ -1645,7 +1645,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     analisisSlug: "zontes-703t-etc-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Revisiones cada 5.000 km o 12 meses según el manual Zontes",
+      intervalo: "Revisiones cada 5.000 km, si lo miramos así, o 12, en la unidad concreta, meses según el manual Zontes",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",

@@ -68,7 +68,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después, en concreto, cada 5.000 km, a tener en cuenta, o 12, en definitiva, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -82,7 +82,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario CFMoto (tabla de mantenimiento)",
+      fuente: "Manual del propietario, en concreto, CFMoto (tabla de mantenimiento)",
     },
   },
   {
@@ -148,7 +148,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después, como referencia, cada 5.000 km, para situarnos, o 12, en este modelo, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -229,7 +229,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después. En la práctica, cada 5.000 km, es decir, o 12, en concreto, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -243,7 +243,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario CFMoto (tabla de mantenimiento)",
+      fuente: "Manual del propietario, como referencia, CFMoto (tabla de mantenimiento)",
     },
   },
   {
@@ -309,7 +309,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después, en este punto, cada 5.000 km, para ser precisos, o 12, como referencia, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -323,7 +323,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario CFMoto (tabla de mantenimiento)",
+      fuente: "Manual del propietario. En la práctica, CFMoto (tabla de mantenimiento)",
     },
   },
   {
@@ -389,7 +389,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después, como punto de partida, cada 5.000 km, para esta versión, o 12, en otras palabras, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -403,7 +403,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario CFMoto (tabla de mantenimiento)",
+      fuente: "Manual del propietario, en este punto, CFMoto (tabla de mantenimiento)",
     },
   },
   {
@@ -469,7 +469,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después. En concreto, cada 5.000 km, conviene recordarlo, o 12, en este punto, meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -483,7 +483,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del propietario CFMoto (tabla de mantenimiento)",
+      fuente: "Manual del propietario, como punto de partida, CFMoto (tabla de mantenimiento)",
     },
   },
 {
@@ -549,7 +549,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, en concreto, cada 6.000 km, a tener en cuenta, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -563,7 +563,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, en concreto, QJMotor (1.000/7.000 km, a tener en cuenta, y cada, en definitiva, 6.000 km); la, en líneas generales, garantía de 6 años, en la práctica, exige red oficial y recambio original",
     },
   },
   {
@@ -629,7 +629,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, como referencia, cada 6.000 km, para situarnos, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -643,7 +643,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, como referencia, QJMotor (1.000/7.000 km, para situarnos, y cada, en este modelo, 6.000 km); la, según la ficha, garantía de 6 años, dicho de otro modo, exige red oficial y recambio original",
     },
   },
   {
@@ -709,7 +709,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego. En la práctica, cada 6.000 km, es decir, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -723,7 +723,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario. En la práctica, QJMotor (1.000/7.000 km, es decir, y cada, en concreto, 6.000 km); la, a tener en cuenta, garantía de 6 años, en definitiva, exige red oficial y recambio original",
     },
   },
   {
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, en este punto, cada 6.000 km, para ser precisos, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -803,7 +803,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, en este punto, QJMotor (1.000/7.000 km, para ser precisos, y cada, como referencia, 6.000 km); la, para situarnos, garantía de 6 años, en este modelo, exige red oficial y recambio original",
     },
   },
   {
@@ -869,7 +869,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srt-300dx/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, como punto de partida, cada 6.000 km, para esta versión, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -883,7 +883,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Ficha técnica oficial QJMotor España (PDF); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Ficha técnica oficial QJMotor España (PDF); la garantía de 6 años, en concreto, exige red oficial, a tener en cuenta, y recambio original",
     },
   },
   {
@@ -949,7 +949,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego. En concreto, cada 6.000 km, conviene recordarlo, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -963,7 +963,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, como punto de partida, QJMotor (1.000/7.000 km, para esta versión, y cada, en otras palabras, 6.000 km); la, es decir, garantía de 6 años, en concreto, exige red oficial y recambio original",
     },
   },
   {
@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, en términos generales, cada 6.000 km, en resumen, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1043,7 +1043,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario. En concreto, QJMotor (1.000/7.000 km, conviene recordarlo, y cada, en este punto, 6.000 km); la, para ser precisos, garantía de 6 años, como referencia, exige red oficial y recambio original",
     },
   },
   {
@@ -1109,7 +1109,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, si lo miramos así, cada 6.000 km, en la unidad concreta, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1123,7 +1123,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, en términos generales, QJMotor (1.000/7.000 km, en resumen, y cada, como punto de partida, 6.000 km); la, para esta versión, garantía de 6 años, en otras palabras, exige red oficial y recambio original",
     },
   },
   {
@@ -1189,7 +1189,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/cov-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego. Dicho de otro modo, cada 6.000 km, en el día a día, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1203,7 +1203,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario, si lo miramos así, QJMotor (1.000/7.000 km, en la unidad concreta, y cada, en este caso, 6.000 km); la, conviene recordarlo, garantía de 6 años, en este punto, exige red oficial y recambio original",
     },
   },
   {
@@ -1269,7 +1269,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego, en líneas generales, cada 6.000 km, en la práctica, o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1283,7 +1283,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Manual del usuario QJMotor (1.000/7.000 km y cada 6.000 km); la garantía de 6 años exige red oficial y recambio original",
+      fuente: "Manual del usuario. Dicho de otro modo, QJMotor (1.000/7.000 km, en el día a día, y cada, en términos generales, 6.000 km); la, en resumen, garantía de 6 años, como punto de partida, exige red oficial y recambio original",
     },
   },
   {
@@ -1518,7 +1518,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: intervalo oficial de 6.000 km (costes no publicados)",
+      fuente: "Zontes España: intervalo, en concreto, oficial de 6.000 km (costes, a tener en cuenta, no publicados)",
     },
   },
   // ── ZONTES 125M 2025 ──
@@ -1593,7 +1593,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: intervalo oficial de 6.000 km (costes no publicados)",
+      fuente: "Zontes España: intervalo, como referencia, oficial de 6.000 km (costes, para situarnos, no publicados)",
     },
   },
   // ── ZONTES 125Z2 2025 ──
@@ -1668,7 +1668,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: intervalo oficial de 6.000 km (costes no publicados)",
+      fuente: "Zontes España: intervalo. En la práctica, oficial de 6.000 km (costes, es decir, no publicados)",
     },
   },
   // ── ZONTES 703R 2026 ──
@@ -1743,7 +1743,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: intervalo oficial de 6.000 km (costes no publicados)",
+      fuente: "Zontes España: intervalo, en este punto, oficial de 6.000 km (costes, para ser precisos, no publicados)",
     },
   },
   // ── BENDA LFC700 2025 ──
@@ -1809,10 +1809,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, en concreto, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, en concreto, no publica plan de, a tener en cuenta, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA LFC700 PRO 2026 ──
@@ -1878,10 +1878,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, como referencia, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, como referencia, no publica plan de, para situarnos, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA CHINCHILLA 500 2025 ──
@@ -1947,10 +1947,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por. En la práctica, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España. En la práctica, no publica plan de, es decir, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA NAPOLEON BOB 500 2025 ──
@@ -2016,10 +2016,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, en este punto, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, en este punto, no publica plan de, para ser precisos, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA NAPOLEON BOB 250 2026 ──
@@ -2085,10 +2085,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, como punto de partida, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, como punto de partida, no publica plan de, para esta versión, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA CHINCHILLA 350 NEO 2026 ──
@@ -2154,10 +2154,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por. En concreto, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España. En concreto, no publica plan de, conviene recordarlo, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA DARKFLAG 500 2026 ──
@@ -2223,10 +2223,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, en términos generales, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, en términos generales, no publica plan de, en resumen, mantenimiento (octubre 2026)",
     },
   },
   // ── BENDA CHINCHILLA 300 2025 (México) ──
@@ -2259,7 +2259,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Asiento a 690 mm, apto para pilotos de cualquier talla",
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
+      "No se comercializa en, en concreto, España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
       "129 km/h de velocidad máxima",
       "30 CV se quedan justos con pasajero y equipaje",
       "Sin red de servicio oficial en Europa",
@@ -2292,7 +2292,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, si lo miramos así, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Modelo no comercializado en España (octubre 2026)",
@@ -2328,7 +2328,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "Faro LED redondo y cuadro digital con acabado en negro",
     ],
     contras: [
-      "No se comercializa en España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
+      "No se comercializa en, como referencia, España: solo disponible en México (precio estimado convertido de la tarifa oficial mexicana)",
       "30 CV justos para una custom de 177 kg",
       "Sin red de servicio oficial en Europa",
       "Estética muy de nicho: o te encanta o no es tu moto",
@@ -2361,7 +2361,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por. Dicho de otro modo, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Modelo no comercializado en España (octubre 2026)",
@@ -2430,10 +2430,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "No publicado por el importador en España",
+      intervalo: "No publicado por, en líneas generales, el importador en España",
       revisiones: [],
       costeAnualAproxEur: null,
-      fuente: "Benda Motor España no publica plan de mantenimiento (octubre 2026)",
+      fuente: "Benda Motor España, si lo miramos así, no publica plan de, en la unidad concreta, mantenimiento (octubre 2026)",
     },
   },
 {
@@ -2499,7 +2499,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.turbopowersports.com/es/products/lifan-kpm200-200cc-cafe-racer",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, en concreto, publicado para Europa; seguir, a tener en cuenta, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2568,7 +2568,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://somosmoto.pe/lifan/scooter/kpv150-abs-2025/gm64",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, como referencia, publicado para Europa; seguir, para situarnos, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2637,7 +2637,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://somosmoto.pe/lifan/deportiva/kpr200-efi-2022/V3K",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial. En la práctica, publicado para Europa; seguir, es decir, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2706,7 +2706,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.turbopowersports.com/products/lifan-kp-mini",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, en este punto, publicado para Europa; seguir, para ser precisos, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2775,7 +2775,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.belmontebikes.com/products/lifan-kpx250-250cc-dual-sport-motorcycle-fuel-injected-street-legal",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, como punto de partida, publicado para Europa; seguir, para esta versión, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2844,7 +2844,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.americanlifan.com/wp-content/uploads/2022/03/2022%20Product%20Catalogue.pdf",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial. En concreto, publicado para Europa; seguir, conviene recordarlo, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2913,7 +2913,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.belmontebikes.com/products/x-pect-lifan-200cc-dual-sport-dirt-bike-lf200gy-4",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, en términos generales, publicado para Europa; seguir, en resumen, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -2982,7 +2982,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.bikebd.com/price/lifan-kps-200-4v/competitor",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, si lo miramos así, publicado para Europa; seguir, en la unidad concreta, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -3051,7 +3051,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.bikes4sale.com/details/lifan/kp350-lf350-2/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial. Dicho de otro modo, publicado para Europa; seguir, en el día a día, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -3120,7 +3120,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.bikebd.com/price/lifan-kpv350/competitor",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, en líneas generales, publicado para Europa; seguir, en la práctica, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -3189,7 +3189,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.bikebd.com/price/lifan-kpt-150/overview",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial, según la ficha, publicado para Europa; seguir, dicho de otro modo, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -3258,7 +3258,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.bikersbuddy.com/reviews/lifan-kpt-200/overview",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      intervalo: "Sin plan oficial. Para situarnos, publicado para Europa; seguir, en definitiva, el manual del propietario",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: null,
@@ -3327,7 +3327,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://niu-vienna.at/motorraeder/mqi/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, en concreto, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3402,7 +3402,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://shop.niu.com/products/niu-xqi3-electric-scooter",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, como referencia, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3477,7 +3477,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.lifegarage.lv/electric-scooter-store/item/niu-electric-scooter/niu-cargo/954208/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin. En la práctica, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3553,7 +3553,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.eicma.it/it/horwin-senmenti-le-scooter-da-300-km-di-autonomia/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, en este punto, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3628,7 +3628,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://vmoto.com/assets/shared/Products/VS1/VS1-CATALOGUE-2025.pdf",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, como punto de partida, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3703,7 +3703,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://vmoto.com/assets/shared/Products/OFF-R/LEAFLET-OFF-R_19-01-24.pdf",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin. En concreto, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3779,7 +3779,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.insella.it/listino_moto/vmoto-cux/2024",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, en términos generales, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -3855,7 +3855,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://motosupersoco.com/cux-pro",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Vehículo eléctrico: sin mantenimiento programado de motor",
+      intervalo: "Vehículo eléctrico: sin, si lo miramos así, mantenimiento programado de motor",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",

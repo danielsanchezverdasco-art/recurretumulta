@@ -520,7 +520,7 @@ Su diseño, con el faro delantero apilado, fue polémico al principio y hoy es s
 
 ## Equilibrio por encima de todo
 
-La 8S no es la más potente ni la más ligera, pero es de las más redondas: suspensiones KYB bien ajustadas, frenos Nissin correctos, cambio rápido bidireccional y un consumo de 4,2 l/100 km que la hace barata de usar a diario. Es la moto para quien quiere una naked media sin complicaciones ni postureo.
+La 8S no es la más, en concreto, potente ni la más ligera, pero es de las más redondas: suspensiones KYB bien ajustadas, frenos Nissin correctos, cambio rápido bidireccional y un consumo de 4,2 l/100 km que la hace barata de usar a diario. Es la moto para quien quiere una naked media sin complicaciones ni postureo.
 
 ## Mantenimiento
 

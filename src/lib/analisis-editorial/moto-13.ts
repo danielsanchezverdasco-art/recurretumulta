@@ -56,7 +56,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   "triumph-speed-twin-1200-2025-ficha-tecnica-precio": {
     parrafos: [
       "La Speed Twin 1200 de 2025 es la Bonneville con malas intenciones: el bicilíndrico High Power de 1.200 cc entrega 105 CV y 112 Nm, cifras que la sitúan muy por encima de las clásicas tranquilas de la gama. El chasis, derivado de la Thruxton R, le da una dinámica deportiva impropia de su estética retro, y el ABS y el control de tracción optimizados para curvas permiten explotarla sin miedo. Por 15.295 €, es la retro que no pide perdón por correr.",
-      "La instrumentación mixta LCD y TFT con conectividad moderniza el puesto de mando sin romper la estética, y los cuatro años de garantía sin límite de kilómetros dan una tranquilidad que pocas rivales ofrecen. Quien quiera la RS con Öhlins y Brembo Stylema puede subir a la versión de 17.595 €. Es la moto para el nostálgico que no ha perdido las ganas de ir deprisa.",
+      "La instrumentación mixta LCD y TFT con conectividad moderniza el puesto de mando sin romper la estética, y los cuatro años de garantía, en concreto, sin límite de kilómetros dan una tranquilidad que pocas rivales ofrecen. Quien quiera la RS con Öhlins y Brembo Stylema puede subir a la versión de 17.595 €. Es la moto para el nostálgico que no ha perdido las ganas de ir deprisa.",
     ],
     veredicto: "Para el amante de lo retro con carnet A que no renuncia a prestaciones; no para quien busque una clásica tranquila.",
   },
@@ -133,7 +133,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   "triumph-tiger-1200-gt-pro-2026-ficha-tecnica-precio": {
     parrafos: [
       "La Tiger 1200 GT Pro de 2026 afina la propuesta maxitrail de Triumph con un argumento comercial demoledor: 20.195 €, un precio más contenido que el de la BMW R 1300 GS equivalente, manteniendo el tricilíndrico de 1.160 cc con 150 CV y entrega lineal. La transmisión por cardán sigue eliminando el mantenimiento de la cadena, y las suspensiones electrónicas Showa semiactivas adaptan la moto a cada situación sin tocar nada.",
-      "Los cuatro años de garantía sin límite de kilometraje dan una tranquilidad inusual en el segmento premium, y el carácter del triple T-plane la distingue de las bóxer y las twin rivales. Es la maxitrail para el viajero con carnet A que quiere el máximo motor y equipamiento sin pagar el peaje de la marca alemana. La relación entre lo que cuesta y lo que ofrece es su mejor baza.",
+      "Los cuatro años de, en concreto, garantía sin límite de kilometraje dan una tranquilidad inusual en el segmento premium, y el carácter del triple T-plane la distingue de las bóxer y las twin rivales. Es la maxitrail para el viajero con carnet A que quiere el máximo motor y equipamiento sin pagar el peaje de la marca alemana. La relación entre lo que cuesta y lo que ofrece es su mejor baza.",
     ],
     veredicto: "Para el viajero exigente con carnet A que busca alternativa a la GS; no para quien necesite la moto más ligera o más campera.",
   },
@@ -182,13 +182,13 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   "triumph-tiger-sport-800-2025-ficha-tecnica-precio": {
     parrafos: [
       "La Tiger Sport 800 de 2025 es la sport-turismo divertida de Triumph: el tricilíndrico de 798 cc entrega 115 CV con una entrega en medios que invita a jugar en carreteras de curvas. El Triumph Shift Assist de serie (quickshifter de subida y bajada), la IMU de seis ejes con ABS en curva y control de tracción optimizado, y las suspensiones con reglajes completos y 150 mm de recorrido componen una parte ciclo muy seria.",
-      "El control de crucero, los tres modos de conducción y un catálogo de más de 40 accesorios la hacen tan válida para el día a día como para las vacaciones. Por 12.295 €, con cuatro años de garantía sin límite de kilómetros, es la sport-turismo para el motorista con carnet A que se aburre con las trail sosas. Los 214 kg se manejan con soltura gracias a un chasis muy logrado.",
+      "El control de crucero, los tres modos de conducción y un catálogo de más de 40 accesorios la hacen tan válida para el día a día como para las vacaciones. Por 12.295 €, con cuatro años de garantía, como referencia, sin límite de kilómetros, es la sport-turismo para el motorista con carnet A que se aburre con las trail sosas. Los 214 kg se manejan con soltura gracias a un chasis muy logrado.",
     ],
     veredicto: "Para el rutero deportivo con carnet A que quiere diversión y versatilidad; no para el turismo puro de grandes distancias a dúo.",
   },
   "triumph-tiger-sport-800-2026-ficha-tecnica-precio": {
     parrafos: [
-      "La Tiger Sport 800 de 2026 mantiene el tricilíndrico de 798 cc con 115 CV y su gran entrega en medios, la seña de identidad de esta sport-turismo. La electrónica sigue siendo de moto grande: IMU con ABS y control de tracción en curva, quickshifter de serie, y un mantenimiento cada 16.000 km que está entre los más espaciados del segmento. Los cuatro años de garantía sin límite de kilometraje dan una confianza que pocas rivales igualan.",
+      "La Tiger Sport 800 de 2026 mantiene el tricilíndrico de 798 cc con 115 CV y su gran entrega en medios, la seña de identidad de esta sport-turismo. La electrónica sigue siendo de moto grande: IMU con ABS y control de tracción en curva, quickshifter de serie, y un mantenimiento cada 16.000 km que está entre los más espaciados del segmento. Los cuatro años de, como referencia, garantía sin límite de kilometraje dan una confianza que pocas rivales igualan.",
       "La novedad de la gama 2026 es la versión Tour, que añade maletas de serie para quien viaja cargado sin querer pasar por el catálogo de accesorios. Por 12.445 €, es la sport-turismo para el motorista con carnet A que quiere una moto divertida entre semana y viajera el fin de semana. El triple, una vez más, marca la diferencia frente a la competencia bicilíndrica.",
     ],
     veredicto: "Para el A que busca una sport-turismo divertida y bien garantizada; no para quien necesite una GT de gran turismo puro.",
@@ -196,7 +196,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   "triumph-trident-660-2025-ficha-tecnica-precio": {
     parrafos: [
       "La Trident 660 de 2025 es la naked media con el motor más carismático del segmento: el tricilíndrico de 660 cc entrega 81 CV con un sonido y una elasticidad que ningún bicilíndrico puede replicar. Con 189 kg en orden de marcha es ligera y ágil, y la horquilla Showa SFF-BF mejorada en 2025 afina aún más su comportamiento en curvas. Por 8.595 €, es la puerta de entrada al mundo triple de Triumph.",
-      "Se puede limitar a 47 CV para el carnet A2 sin perder su esencia, la TFT en color con conectividad moderniza el puesto de mando y los cuatro años de garantía sin límite de kilómetros la blindan frente a la competencia japonesa. Es la naked para quien empieza con una moto de verdad o para quien vuelve a las motos buscando diversión sin complicaciones.",
+      "Se puede limitar a 47 CV para el carnet A2 sin perder su esencia, la TFT en color con conectividad moderniza el puesto de mando y los cuatro años de garantía. En la práctica, sin límite de kilómetros la blindan frente a la competencia japonesa. Es la naked para quien empieza con una moto de verdad o para quien vuelve a las motos buscando diversión sin complicaciones.",
     ],
     veredicto: "Para el A2 o A que quiere el triple más accesible y divertido; no para quien busque 100 CV o protección para viajar.",
   },
@@ -210,7 +210,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   "triumph-trident-660-triple-tribute-2025-ficha-tecnica-precio": {
     parrafos: [
       "La Trident 660 Triple Tribute de 2025 es una edición especial con historia: rinde homenaje a la 'Slippery Sam', la Triumph que ganó cinco TT de la Isla de Man en los años setenta, con una decoración exclusiva que la distingue de cualquier otra naked. Sobre la base de la Trident 660 —tricilíndrico de 81 CV, 189 kg, limitable para el A2—, añade el Triumph Shift Assist de serie, un nuevo modo Sport y la electrónica optimizada para curvas con IMU.",
-      "Por 8.745 €, con cuatro años de garantía sin límite de kilómetros, es la Trident para el entusiasta que valora la historia de la marca y quiere una moto con un plus de exclusividad sin pagar un plus desorbitado. El quickshifter bidireccional y el modo Sport le dan además un punto más de diversión que la versión estándar. Una naked con alma de carreras clásicas.",
+      "Por 8.745 €, con cuatro años de garantía, en este punto, sin límite de kilómetros, es la Trident para el entusiasta que valora la historia de la marca y quiere una moto con un plus de exclusividad sin pagar un plus desorbitado. El quickshifter bidireccional y el modo Sport le dan además un punto más de diversión que la versión estándar. Una naked con alma de carreras clásicas.",
     ],
     veredicto: "Para el fan de Triumph con A o A2 que quiere una edición con historia; no para quien busque la Trident más barata.",
   },
@@ -275,7 +275,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
       "La Urbet Gadiro E-125 de 2025 es la naked eléctrica española que se toma en serio la autonomía: con dos baterías extraíbles de 72 V y 35 Ah alcanza hasta 160 km declarados, una cifra que deja atrás a la mayoría de equivalentes a 125. El motor QS de 3.000 W la lleva hasta 90 km/h, y detalles como la marcha atrás, los tres modos de conducción, la horquilla invertida y el CBS hablan de un desarrollo cuidado. Las ruedas de 17 pulgadas le dan aplomo de moto de verdad.",
       "Por 2.995 €, con carnet A1 —válido con el B de coche—, es una de las eléctricas con mejor relación entre autonomía y precio del mercado español. Urbet es marca española con diseño propio, y eso se nota en una moto pensada para nuestras ciudades. Los 110 kg la hacen manejable, y las baterías extraíbles resuelven el problema de la carga sin garaje.",
     ],
-    veredicto: "Para el conductor con B que quiere una 125 eléctrica con autonomía real; no para quien necesite más velocidad punta.",
+    veredicto: "Para el conductor, en concreto, con B que quiere una 125 eléctrica con autonomía real; no para quien necesite más velocidad punta.",
   },
   "urbet-riazor-2025-ficha-tecnica-precio": {
     parrafos: [
@@ -331,7 +331,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
       "La Velca Nude Lite de 2026 democratiza la naked eléctrica: por 3.990 € es una de las eléctricas con carnet de coche más baratas de España. Las baterías extraíbles dan 80 km con una y 160 km con la segunda, flexibilidad total según el uso del día. Con 114 kg es ligera y manejable en ciudad, y la pantalla TFT de 7 pulgadas le da un aire moderno impropio de su precio.",
       "Los 90 km/h de velocidad máxima la limitan al ámbito urbano y periurbano, pero ahí es donde brilla: ágil, silenciosa y con un coste de uso mínimo. Es la Nude para quien quiere el concepto —naked eléctrica, baterías extraíbles, etiqueta Cero— sin pagar el precio de la versión completa. La eléctrica de acceso con mejor relación entre lo que cuesta y lo que ofrece.",
     ],
-    veredicto: "Para el conductor con B que quiere una naked eléctrica barata para ciudad; no para carretera ni grandes autonomías.",
+    veredicto: "Para el conductor, como referencia, con B que quiere una naked eléctrica barata para ciudad; no para carretera ni grandes autonomías.",
   },
   "velca-one-2026-ficha-tecnica-precio": {
     parrafos: [
@@ -405,17 +405,17 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
   },
   "vespa-gts-125-2025-ficha-tecnica-precio": {
     parrafos: [
-      "La Vespa GTS 125 de 2025 es la Vespa grande con motor pequeño: 14 CV, casi el máximo legal para el carnet A1, en el chasis grande y estable de la GTS, la más rutera de las 125 de la marca. Con 148 kg es ligera para su tamaño, y se conduce con el carnet B con tres años de antigüedad, lo que la abre a miles de conductores sin carnet de moto. Los acabados premium y la gran capacidad de carga la hacen práctica además de bonita.",
+      "La Vespa GTS 125 de 2025 es la Vespa grande con motor pequeño: 14 CV, casi el máximo legal para el carnet A1, en el chasis grande y estable de la GTS, la más rutera de las 125 de la marca. Con 148 kg es ligera para su tamaño, y se conduce con el, en concreto, carnet B con tres, a tener en cuenta, años de antigüedad, lo que la abre a miles de conductores sin carnet de moto. Los acabados premium y la gran capacidad de carga la hacen práctica además de bonita.",
       "Por 6.250 € es la GTS para quien quiere la Vespa grande sin sacarse el A2: presencia, estabilidad y ese chasis que transmite seguridad en carretera. No es la más rápida ni la más barata del segmento 125, pero ninguna rival ofrece el mismo conjunto de imagen, calidad y valor de reventa. La Vespa grande, al alcance del carnet de coche.",
     ],
-    veredicto: "Para el conductor con B que quiere la Vespa grande sin carnet A2; no para quien busque la 125 más barata o más deportiva.",
+    veredicto: "Para el conductor con, en concreto, B que quiere la Vespa grande sin carnet A2; no para quien busque la 125 más barata o más deportiva.",
   },
   "vespa-gts-125-2026-ficha-tecnica-precio": {
     parrafos: [
       "La Vespa GTS 125 de 2026 viste el traje grande de la casa con motor de acceso: la carrocería generosa de la GTS, la más imponente de las Vespa clásicas, movida por el iGet de 14 CV, un propulsor vivo y refinado para su cilindrada. El monocasco de chapa de acero le confiere esa rigidez y esa sensación de solidez que ningún bastidor tubular imita, y que se percibe nada más subirse.",
       "El equipo de seguridad está a la altura de los tiempos —disco delantero con ABS y control de tracción ASR—, y su condición de gran turismo urbana la hace ideal para quien recorre distancias medias a diario. Por 6.250 € y con el carnet B de tres años de antigüedad, es la Vespa para conductores de coche que quieren presencia y aplomo sin sacarse otro carnet. El icono, en formato XL.",
     ],
-    veredicto: "Para el conductor con B que quiere la Vespa más imponente sin carnet de moto; no para el uso más económico posible.",
+    veredicto: "Para el conductor con, como referencia, B que quiere la Vespa más imponente sin carnet de moto; no para el uso más económico posible.",
   },
   "vespa-gts-300-2024-ficha-tecnica-precio": {
     parrafos: [
@@ -457,18 +457,18 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
       "La Vespa Primavera Elettrica 70 de 2025 une dos mundos: la silueta más querida de Vespa, con su chapa de acero y su diseño icónico, y una mecánica eléctrica silenciosa con etiqueta Cero. Los 70 km/h de velocidad máxima ya sirven para rondas y vías rápidas urbanas, y la carga completa en cuatro horas en cualquier enchufe doméstico elimina la necesidad de infraestructura especial. Los 80 km de autonomía en ciclo WMTC con su batería de 4,2 kWh cubren la semana urbana.",
       "Por 7.600 €, con carnet A1 válido con el B con tres años y 130 kg, la TFT a color con conectividad Bluetooth moderniza la experiencia clásica. Es la Vespa eléctrica para quien no quiere elegir entre el mito y el futuro: el diseño de siempre, el silencio del mañana y la red Vespa detrás. La electrificación con encanto italiano.",
     ],
-    veredicto: "Para el conductor con B que quiere la Primavera en eléctrico sin renunciar al mito; no para quien busque autonomía máxima.",
+    veredicto: "Para el conductor con. En la práctica, B que quiere la Primavera en eléctrico sin renunciar al mito; no para quien busque autonomía máxima.",
   },
   "vespa-primavera-rst-125-2025-ficha-tecnica-precio": {
     parrafos: [
-      "La Vespa Primavera RST 125 de 2025 es el icono italiano en versión 125: el estilo eterno de la Primavera, la Vespa pequeña por excelencia, con un motor de 124 cc suave y económico. Se conduce con el carnet B con tres años de antigüedad, y su ligereza y agilidad hacen de la ciudad su hábitat natural. Los acabados y los materiales son de primera, como manda la tradición de la casa.",
+      "La Vespa Primavera RST 125 de 2025 es el icono italiano en versión 125: el estilo eterno de la Primavera, la Vespa pequeña por excelencia, con un motor de 124 cc suave y económico. Se conduce con el, como referencia, carnet B con tres, para situarnos, años de antigüedad, y su ligereza y agilidad hacen de la ciudad su hábitat natural. Los acabados y los materiales son de primera, como manda la tradición de la casa.",
       "Por 5.250 € ofrece además el mejor argumento racional de una Vespa: el valor de reventa. Una Primavera no se deprecia como otras motos; es casi una inversión emocional con retorno. Es la Vespa para quien quiere el icono en su formato más puro y urbano, sin complicaciones y con la garantía de que siempre habrá alguien dispuesto a comprarla.",
     ],
     veredicto: "Para el urbanita con B que quiere el icono Vespa puro; no para carretera ni para quien busque la 125 más barata.",
   },
   "vespa-sprint-rst-125-s-2025-ficha-tecnica-precio": {
     parrafos: [
-      "La Vespa Sprint RST 125 S de 2025 es la Primavera con carácter deportivo: llantas y detalles en negro, una estética más agresiva que no pierde la elegancia Vespa. Es la versión para quien encuentra la Primavera estándar demasiado clásica y quiere un punto de actitud sin renunciar al mito. El motor de 11 CV es el mismo dócil y económico, y se conduce con el carnet B con tres años de antigüedad.",
+      "La Vespa Sprint RST 125 S de 2025 es la Primavera con carácter deportivo: llantas y detalles en negro, una estética más agresiva que no pierde la elegancia Vespa. Es la versión para quien encuentra la Primavera estándar demasiado clásica y quiere un punto de actitud sin renunciar al mito. El motor de 11 CV es el mismo dócil y económico, y se conduce con el. En la práctica, carnet B con tres, es decir, años de antigüedad.",
       "Muy ligera y divertida en ciudad, con los acabados S exclusivos que la diferencian del resto de la gama, mantiene el excelente valor de reventa de toda Vespa. Por 5.450 € es la 125 para el joven —o el joven de espíritu— que quiere estilo con un punto rebelde. La Vespa que se mira dos veces en el semáforo.",
     ],
     veredicto: "Para quien quiere la Vespa 125 con estética deportiva; no para quien prefiera el clasicismo puro de la Primavera.",
@@ -492,7 +492,7 @@ export const ANALISIS_MOTO_13: MapaAnalisis = {
       "La VMoto Stash de 2025 es la naked eléctrica con actitud: 125 km/h con el modo boost la convierten en la 125 eléctrica más rápida del mercado, con 14,4 kW de pico y 9 kW nominales que dan un empuje de moto grande. El diseño streetfighter agresivo no pasa desapercibido, y el compartimento de carga delantero —único en una naked— añade una practicidad inesperada. La batería de 7,2 kWh está entre las mayores de su categoría.",
       "Por 6.492 €, con 143 kg, 80 km de autonomía declarada y carnet A1 válido con el B con tres años, logra un buen equilibrio entre ciudad y salidas de fin de semana. No es la eléctrica más barata ni la de mayor autonomía, pero es la que más emociones promete por euro: la naked eléctrica para quien no quiere renunciar a la diversión por ir en eléctrico.",
     ],
-    veredicto: "Para el conductor con B que quiere la 125 eléctrica más emocionante; no para quien priorice autonomía o precio mínimo.",
+    veredicto: "Para el conductor con, en este punto, B que quiere la 125 eléctrica más emocionante; no para quien priorice autonomía o precio mínimo.",
   },
   "vmoto-tc-max-2024-ficha-tecnica-precio": {
     parrafos: [

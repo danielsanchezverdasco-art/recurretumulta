@@ -329,7 +329,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   "yadea-ks3-lite": {
     parrafos: [
       "El KS3 Lite es el pluma global: solo 14 kg, de los patinetes adultos más ligeros, con 300 W, batería de 187 Wh y 20 km declarados —unos 13 reales—. Los neumáticos macizos de 8,5 pulgadas eliminan pinchazos y mantenimiento, y la app ofrece bloqueo antirrobo y modos de conducción —peatón, estándar y sport—. Se vende por 499 € en Italia con chasis de aluminio plegable muy compacto, que cabe en un maletero pequeño. La ficha es del distribuidor EagsBike.",
-      "La autonomía es corta —13 km reales— y sin suspensión los baches se notan mucho con ruedas macizas. El motor va justo en cuestas con conductor pesado, la batería pequeña se degrada antes con uso intensivo y la carga máxima es de 100 kg. Sin certificado DGT confirmado: la ficha recuerda que los VMP no certificados solo pueden circular hasta el 22/01/2027.",
+      "La autonomía es corta —13 km reales— y sin suspensión los baches se notan mucho con ruedas macizas. El motor va justo en cuestas con conductor pesado, la batería pequeña se degrada antes con uso intensivo y la carga máxima, en concreto, es de 100 kg. Sin certificado DGT confirmado: la ficha recuerda que los VMP no certificados solo pueden circular hasta el 22/01/2027.",
       "Perfecto como patinete de recados cortos que se carga a pulso sin esfuerzo. Para commuting serio o cuestas, se queda corto en todo.",
     ],
     veredicto: "Ultraligero de 14 kg para recados cortos; con autonomía mínima y sin DGT confirmado.",
@@ -472,8 +472,8 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-1s": {
     parrafos: [
-      "El Mi Electric Scooter 1S es el clásico que lo empezó todo: 250 W nominales con 500 de pico, batería de 280 Wh, 30 km declarados —unos 20 reales—, 12,5 kg y freno E-ABS delantero más disco trasero, con neumáticos de 8,5 pulgadas. La carga completa tarda 5,5 horas y su precio de ocasión es muy bajo, con repuestos abundantes. La ficha es de xiaomiadictos.",
-      "Está descatalogado y es anterior al Manual VMP: sin certificado DGT, así que su encaje legal actual es problemático. La autonomía real es justa para trayectos largos, el motor de 250 W sufre en cuestas pronunciadas y la carga máxima es de 100 kg.",
+      "El Mi Electric Scooter 1S es el clásico que lo empezó todo: 250 W nominales con 500 de, en concreto, pico, batería de 280 Wh, 30 km declarados —unos 20 reales—, 12,5 kg y freno E-ABS delantero más disco trasero, con neumáticos de 8,5 pulgadas. La carga completa tarda 5,5 horas y su precio de ocasión es muy bajo, con repuestos abundantes. La ficha es de xiaomiadictos.",
+      "Está descatalogado y es anterior al Manual VMP: sin certificado DGT, así que su encaje legal actual es problemático. La autonomía real es justa para trayectos largos, el motor de 250 W sufre en cuestas pronunciadas y la carga máxima, como referencia, es de 100 kg.",
       "Solo tiene sentido de segunda mano y muy barato, como patinete de recados o para aprender sin miedo a arañarlo. Como compra principal en 2026, los modelos con certificado lo han dejado atrás en todo lo que importa. Sus 12,5 kg siguen siendo una cifra excelente.",
     ],
     veredicto: "El clásico descatalogado: barato de ocasión, pero sin DGT y superado.",
@@ -505,14 +505,14 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   "xiaomi-electric-scooter-4-lite": {
     parrafos: [
       "El 4 Lite de segunda generación es el más barato de la gama: unos 255 € en PcComponentes, 16,2 kg, plegado en 3 segundos y 300 W nominales con 390 de pico. La batería de 221 Wh declara 25 km —unos 17 reales—, los neumáticos sin cámara de 10 pulgadas eliminan la cámara que pincha y el KERS recupera energía en la frenada, con E-ABS más tambor. Se conecta a Xiaomi Home por Bluetooth y la ficha indica certificado DGT.",
-      "La autonomía es corta —17 km reales—, no trae suspensión y la carga máxima es de 100 kg. La carga tarda unas 8 horas y la potencia es justa: le cuesta en cuestas del 15 %.",
+      "La autonomía es corta —17 km reales—, no trae suspensión y la carga máxima. En la práctica, es de 100 kg. La carga tarda unas 8 horas y la potencia es justa: le cuesta en cuestas del 15 %.",
       "El primer patinete ideal por precio y peso, para trayectos cortos en llano. Como único medio con cuestas o distancia, se queda pequeño enseguida. El plegado en 3 segundos es un punto práctico muy valorado.",
     ],
     veredicto: "El Xiaomi más barato: 255 € y 16,2 kg para trayectos cortos llanos.",
   },
   "xiaomi-electric-scooter-4-lite-2nd-gen": {
     parrafos: [
-      "El 4 Lite (2nd Gen) afina la fórmula del Lite: 300 W nominales con 500 de pico, batería de 225 Wh, 25 km declarados —unos 16 reales—, 16,2 kg y 100 kg de carga máxima, por 255 € en PcComponentes. Añade intermitentes traseros de serie —un extra raro en este precio—, cumple la norma EN17128:2020 y se conecta a Xiaomi Home, con neumáticos de 10 pulgadas sin cámara.",
+      "El 4 Lite (2nd Gen) afina la fórmula del Lite: 300 W nominales con 500 de, como referencia, pico, batería de 225 Wh, 25 km declarados —unos 16 reales—, 16,2 kg y 100 kg de carga máxima, por 255 € en PcComponentes. Añade intermitentes traseros de serie —un extra raro en este precio—, cumple la norma EN17128:2020 y se conecta a Xiaomi Home, con neumáticos de 10 pulgadas sin cámara.",
       "Los 16 km reales solo sirven para trayectos cortos, el motor va justo en cuestas y no trae suspensión: solo asfalto en buen estado. El certificado DGT no está verificado públicamente —conviene confirmar el número en la lista oficial antes de comprar— y la carga tarda 8 horas.",
       "El Lite con intermitentes para quien valora la señalización por 255 €. La autonomía mínima y la DGT sin confirmar piden revisar la lista oficial antes de pasar por caja. Los intermitentes traseros marcan la diferencia.",
     ],
@@ -528,7 +528,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-4-pro-2nd-gen": {
     parrafos: [
-      "El 4 Pro (2nd Gen) es la revisión que baja el precio: 550 €, 400 W nominales con 1.000 de pico, batería de 468 Wh con 60 km declarados —unos 40 reales— y solo 19 kg, notablemente más ligero que el 5 Max con la misma autonomía declarada. Suma intermitentes con homologación E-Mark, tubeless anchos de 60 mm que absorben el asfalto roto y certificado DGT verificado para circular por la vía pública. La ficha es de Xiaomi España.",
+      "El 4 Pro (2nd Gen) es la revisión que baja el precio: 550 €, 400 W nominales con, en concreto, 1.000 de pico, batería de 468 Wh con 60 km, en concreto, declarados —unos 40 reales— y solo 19 kg, notablemente más ligero que el 5 Max con la misma autonomía declarada. Suma intermitentes con homologación E-Mark, tubeless anchos de 60 mm que absorben el asfalto roto y certificado DGT verificado para circular por la vía pública. La ficha es de Xiaomi España.",
       "Xiaomi no publica el tiempo de carga oficial, los 40 km reales quedan lejos de los 60 declarados y no trae suspensión delantera: en adoquines se nota. La pantalla es sencilla, sin las funciones de la serie 6, y la segunda generación apenas cambia respecto a la primera salvo los intermitentes.",
       "El punto dulce de la serie 4: 60 km declarados, 19 kg y certificado por 550 €. Quien quiera pantalla TFT o más confort mirará la serie 6.",
     ],
@@ -536,7 +536,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-4-pro-max": {
     parrafos: [
-      "El 4 Pro Max es el tope de la serie 4: certificado DGT B1025, motor trasero de 400 W nominales con 960 de pico que sube pendientes del 22 %, batería de 367 Wh con 60 km declarados —unos 40 reales— y suspensión delantera de doble cilindro. Los intermitentes van integrados en los puños, el faro tiene modo automático según la luz ambiente y los run-flat de 10 pulgadas autosellantes siguen rodando aunque pierdan aire. La tracción trasera da más estabilidad en cuestas y giros. Cuesta unos 530 €.",
+      "El 4 Pro Max es el tope de la serie 4: certificado DGT B1025, motor trasero de 400 W nominales con 960 de pico que sube pendientes del 22 %, batería de 367 Wh con 60 km, como referencia, declarados —unos 40 reales— y suspensión delantera de doble cilindro. Los intermitentes van integrados en los puños, el faro tiene modo automático según la luz ambiente y los run-flat de 10 pulgadas autosellantes siguen rodando aunque pierdan aire. La tracción trasera da más estabilidad en cuestas y giros. Cuesta unos 530 €.",
       "Pesa 21,3 kg y la carga tarda unas 9 horas —el cargador rápido de 3 h se vende aparte—. La carga máxima es de 110 kg, la certificación es IPX4 —solo salpicaduras— y el color Golden Tan es llamativo. Obliga a activarlo en la app Xiaomi Home antes del primer uso.",
       "El 4 más completo y seguro para circular legal, con detalles que ningún hermano ofrece. El peso y la carga lenta son el peaje.",
     ],
@@ -560,7 +560,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-5": {
     parrafos: [
-      "El Electric Scooter 5 es el base de la quinta generación: 400 €, 350 W nominales con 700 de pico, batería de 477 Wh con 60 km declarados —unos 40 reales—, 20,1 kg y 120 kg de carga máxima. El freno combina tambor delantero con E-ABS trasero y los tubeless de 10 pulgadas eliminan la cámara. La ficha indica certificado DGT.",
+      "El Electric Scooter 5 es el base de la quinta generación: 400 €, 350 W nominales con 700 de pico, batería de 477 Wh, en concreto, con 60 km declarados (a tener en cuenta) —unos 40 reales—, 20,1 kg y 120 kg de carga máxima. El freno combina tambor delantero con E-ABS trasero y los tubeless de 10 pulgadas eliminan la cámara. La ficha indica certificado DGT.",
       "La carga tarda 9 horas con el cargador estándar y los 20,1 kg se notan en escaleras. Los frenos de tambor tienen menos mordiente que un disco y la autonomía real queda en unos 40 km, lejos de los 60 declarados.",
       "La entrada a la serie 5 con 60 km declarados por 400 €: una propuesta redonda para commuting. El 5 Pro añade pico de potencia por el mismo precio. Los 477 Wh por 400 € son una gran relación, y pocos rivales dan 60 km declarados por ese dinero.",
     ],
@@ -568,7 +568,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-5-max": {
     parrafos: [
-      "El 5 Max es el confortable de la serie: 600 €, 400 W nominales con 1.000 de pico, batería de 477 Wh con 60 km declarados —unos 40 reales— y doble suspensión con muelle hidráulico, la más cómoda de la gama Xiaomi. Suma intermitentes integrados —un extra de seguridad poco común en este precio—, resistencia IPX5 para lluvia ligera y certificado DGT verificado para circular con total legalidad. Los tubeless de 10 pulgadas tienen 60 mm de ancho. La ficha es de PcComponentes.",
+      "El 5 Max es el confortable de la serie: 600 €, 400 W nominales con, como referencia, 1.000 de pico, batería de 477 Wh, como referencia, con 60 km declarados (para situarnos) —unos 40 reales— y doble suspensión con muelle hidráulico, la más cómoda de la gama Xiaomi. Suma intermitentes integrados —un extra de seguridad poco común en este precio—, resistencia IPX5 para lluvia ligera y certificado DGT verificado para circular con total legalidad. Los tubeless de 10 pulgadas tienen 60 mm de ancho. La ficha es de PcComponentes.",
       "Pesa 22,3 kg: se nota al subirlo a un piso o cargarlo en el coche. La carga tarda 9 horas, el cargador rápido se vende por separado y no trae pantalla TFT a color como la serie 6.",
       "El Xiaomi para quien prioriza confort de marcha y seguridad con papeles en regla. El peso es su único gran pero. La suspensión hidráulica no tiene rival en Xiaomi.",
     ],
@@ -576,7 +576,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-5-plus": {
     parrafos: [
-      "El 5 Plus es el de las ruedas grandes: 499,99 €, 400 W nominales con 900 de pico, batería de 477 Wh con 60 km declarados —unos 41 reales— y neumáticos sin cámara de 12 pulgadas que dan más estabilidad y comodidad que la media. La suspensión combina doble horquilla hidráulica delante con doble muelle detrás, y el sistema TCS antideslizante busca una tracción segura, con IPX5, luces inteligentes automáticas y certificado DGT. La ficha es de Topes de Gama.",
+      "El 5 Plus es el de las ruedas grandes: 499,99 €, 400 W nominales con 900 de pico, batería de 477 Wh. En la práctica, con 60 km declarados (es decir) —unos 41 reales— y neumáticos sin cámara de 12 pulgadas que dan más estabilidad y comodidad que la media. La suspensión combina doble horquilla hidráulica delante con doble muelle detrás, y el sistema TCS antideslizante busca una tracción segura, con IPX5, luces inteligentes automáticas y certificado DGT. La ficha es de Topes de Gama.",
       "Pesa 26,6 kg: nada portable. La carga tarda unas 9 horas —pensado para cargar de noche—, es voluminoso para guardarlo en casa y cuesta más que la serie 4 básica. Xiaomi no publica la capacidad exacta en Wh.",
       "Para quien quiere rodar cómodo y seguro con ruedas de 12 pulgadas y no lo moverá a pulso. El 5 Max es más ligero con la misma batería. El TCS aporta seguridad en mojado.",
     ],
@@ -584,7 +584,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-5-pro": {
     parrafos: [
-      "El 5 Pro repite la receta del 5 a secas y le sube el pico: mismos 400 €, misma batería de 477 Wh con 60 km declarados —unos 40 en la práctica— y mismo certificado DGT en ficha, pero el motor entrega 400 W nominales con 1.000 de pico frente a los 700 del base. Pesa 22,4 kg, admite 120 kg y mantiene el freno de tambor delantero con E-ABS trasero más tubeless de 10 pulgadas.",
+      "El 5 Pro repite la receta del 5 a secas y le sube el pico: mismos 400 €, misma batería de 477 Wh, en este punto, con 60 km declarados (para ser precisos) —unos 40 en la práctica— y mismo certificado DGT en ficha, pero el motor entrega 400 W nominales con. En la práctica, 1.000 de pico frente a los 700 del base. Pesa 22,4 kg, admite 120 kg y mantiene el freno de tambor delantero con E-ABS trasero más tubeless de 10 pulgadas.",
       "La carga tarda 9 horas, los 22,4 kg pesan en escaleras y la autonomía real ronda los 40 km. Sin suspensión ni pantalla avanzada, es un planteamiento espartano frente al 5 Max.",
       "El 5 con más empuje por el mismo precio que el base: la elección lógica si los 400 € mandan. El Max justifica su sobreprecio en confort y equipamiento. Mil vatios de pico por 400 € es una cifra demoledora en su rango de precio.",
     ],
@@ -608,7 +608,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-6-lite": {
     parrafos: [
-      "El 6 Lite es la entrada con suspensión: unos 330 €, 300 W nominales con 500 de pico, batería de 216 Wh con 25 km declarados —unos 16 reales— y suspensión delantera de doble resorte, rara en la gama de entrada. La prensa —MundoXiaomi— lo da como serie homologada DGT, se conecta a Xiaomi Home y la carga máxima es de 100 kg, con neumáticos de 10 pulgadas con cámara.",
+      "El 6 Lite es la entrada con suspensión: unos 330 €, 300 W nominales con 500 de. En la práctica, pico, batería de 216 Wh con 25 km declarados —unos 16 reales— y suspensión delantera de doble resorte, rara en la gama de entrada. La prensa —MundoXiaomi— lo da como serie homologada DGT, se conecta a Xiaomi Home y la carga máxima, en este punto, es de 100 kg, con neumáticos de 10 pulgadas con cámara.",
       "Los 16 km reales son muy limitados, Xiaomi no publica peso ni tiempo de carga oficiales y los neumáticos con cámara tienen más riesgo de pinchazo que los tubeless. El motor va justo para cuestas.",
       "Buena opción como segundo patinete o para trayectos cortos con algo de confort. Como único medio, la autonomía no da. La suspensión de doble resorte es rara por 330 €. Como segundo patinete para recados, tiene sentido, siempre que haya otro para los días largos.",
     ],
@@ -624,7 +624,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-electric-scooter-6-pro": {
     parrafos: [
-      "El 6 Pro es el rutero de la serie 6: 550 €, 400 W nominales con 1.000 de pico, batería de 477 Wh con 70 km declarados —unos 45 reales—, doble suspensión, control de tracción TCS y ruedas todoterreno tubeless de 12 pulgadas. La prensa especializada —Xiaomi España— lo da como serie homologada DGT y admite 120 kg.",
+      "El 6 Pro es el rutero de la serie 6: 550 €, 400 W nominales con, en este punto, 1.000 de pico, batería de 477 Wh con 70 km declarados —unos 45 reales—, doble suspensión, control de tracción TCS y ruedas todoterreno tubeless de 12 pulgadas. La prensa especializada —Xiaomi España— lo da como serie homologada DGT y admite 120 kg.",
       "Pesa 27,3 kg: imposible llevarlo a pulso con comodidad. La carga tarda 9 horas, la autonomía real ronda los 45-49 km y por 550 € compite con el 5 Max, más ligero y casi igual de capaz. La serie recién llegada tiene pocas opiniones de largo plazo.",
       "El 6 para rutas largas con ruedas todoterreno. Si el peso importa, el 5 Max hace casi lo mismo con 5 kg menos. El TCS y las ruedas todoterreno lo hacen rutero de verdad; lástima de 27,3 kg en la báscula, que lo condenan en ciudad.",
     ],
@@ -640,7 +640,7 @@ export const ANALISIS_PATINETE_06: MapaAnalisis = {
   },
   "xiaomi-essential": {
     parrafos: [
-      "El Mi Electric Scooter Essential es el Xiaomi mínimo: 12 kg, 250 W nominales con 500 de pico, batería de 187 Wh, 20 km declarados —unos 13 reales— y 20 km/h de máxima en su versión original. El freno combina E-ABS delantero con disco trasero, las ruedas son neumáticas de 8,5 pulgadas y la carga completa tarda solo 3,5 horas. Costaba unos 300 €. La ficha es de xiaomiadictos.",
+      "El Mi Electric Scooter Essential es el Xiaomi mínimo: 12 kg, 250 W nominales con 500 de, en este punto, pico, batería de 187 Wh, 20 km declarados —unos 13 reales— y 20 km/h de máxima en su versión original. El freno combina E-ABS delantero con disco trasero, las ruedas son neumáticas de 8,5 pulgadas y la carga completa tarda solo 3,5 horas. Costaba unos 300 €. La ficha es de xiaomiadictos.",
       "Descatalogado y anterior al Manual VMP: sin certificado DGT. La autonomía real es escasa —13 km— y la carga máxima de 100 kg es justa.",
       "El más barato y ligero de su época, hoy solo viable de ocasión para recados mínimos por el barrio. La falta de DGT lo deja fuera como compra seria en 2026. Las 3,5 horas de carga eran su mejor dato. Hoy, cualquier Xiaomi con DGT lo supera en todo, y queda como pieza de museo asequible.",
     ],

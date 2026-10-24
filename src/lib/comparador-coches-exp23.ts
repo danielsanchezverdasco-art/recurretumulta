@@ -40,7 +40,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Interior minimalista con pantalla OLED redonda de serie",
     ],
     contras: [
-      "Solo 4 plazas y maletero de 200 litros",
+      "Solo 4 plazas y, en concreto, maletero de 200 litros",
       "305 km de autonomía, justos para viajar",
       "Carga rápida de solo 75 kW",
       "Precio elevado para un urbano de 3,86 metros",
@@ -72,9 +72,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025); la calificación cubre las versiones eléctricas E, SE y JCW E",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en concreto, ocurra antes, según indicador, a tener en cuenta, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 190 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, en concreto, general + actualización de software", costeAproxEur: 190 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 190,
@@ -139,9 +139,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025); la calificación cubre las versiones eléctricas E, SE y JCW E",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, como referencia, ocurra antes, según indicador, para situarnos, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 190 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, como referencia, general + actualización de software", costeAproxEur: 190 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 190,
@@ -185,7 +185,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: restricciones futuras en las ZBE",
-      "Solo 4 plazas y maletero de 200 litros",
+      "Solo 4 plazas y, como referencia, maletero de 200 litros",
       "Las versiones eléctricas ya tienen 5 estrellas EuroNCAP; la C no está probada",
       "156 CV se quedan cortos frente al Cooper S por poca diferencia de precio",
     ],
@@ -216,10 +216,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que. En la práctica, ocurra antes, según indicador, es decir, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 280 },
-        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 450 },
+        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de, en concreto, frenos + bujías según kilometraje", costeAproxEur: 450 },
       ],
       costeAnualAproxEur: 280,
       fuente: "Plan oficial Mini España",
@@ -262,7 +262,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     ],
     contras: [
       "Etiqueta C: restricciones futuras en las ZBE",
-      "Solo 4 plazas y maletero de 200 litros",
+      "Solo 4 plazas y. En la práctica, maletero de 200 litros",
       "Versión de gasolina sin prueba EuroNCAP",
       "El JCW de gasolina ofrece 27 CV más por poco más",
     ],
@@ -293,10 +293,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en este punto, ocurra antes, según indicador, para ser precisos, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 300 },
-        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 480 },
+        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de, como referencia, frenos + bujías según kilometraje", costeAproxEur: 480 },
       ],
       costeAnualAproxEur: 300,
       fuente: "Plan oficial Mini España",
@@ -338,7 +338,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       "Etiqueta Cero con prestaciones de deportivo",
     ],
     contras: [
-      "Solo 4 plazas y maletero de 200 litros",
+      "Solo 4 plazas y, en este punto, maletero de 200 litros",
       "La autonomía cae si se exprime el modo sport",
       "Precio de deportivo para un urbano de 3,86 metros",
       "Suspensión firme: incómodo en ciudad con baches",
@@ -370,9 +370,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025); la calificación cubre las versiones eléctricas E, SE y JCW E",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, como punto de partida, ocurra antes, según indicador, para esta versión, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 200 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección. En la práctica, general + actualización de software", costeAproxEur: 200 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 340 },
       ],
       costeAnualAproxEur: 200,
@@ -416,7 +416,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     ],
     contras: [
       "Más lento que el JCW eléctrico (5,9 s) y con etiqueta C",
-      "Solo 4 plazas y maletero de 200 litros",
+      "Solo 4 plazas y, como punto de partida, maletero de 200 litros",
       "Versión de gasolina sin prueba EuroNCAP",
       "Consumo real alto si se disfruta",
     ],
@@ -447,7 +447,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que. En concreto, ocurra antes, según indicador, conviene recordarlo, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 330 },
         { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + pastillas según uso", costeAproxEur: 520 },
@@ -524,10 +524,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en términos generales, ocurra antes, según indicador, en resumen, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección + revisión de la capota", costeAproxEur: 310 },
-        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 490 },
+        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de. En la práctica, frenos + bujías según kilometraje", costeAproxEur: 490 },
       ],
       costeAnualAproxEur: 310,
       fuente: "Plan oficial Mini España",
@@ -601,10 +601,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, si lo miramos así, ocurra antes, según indicador, en la unidad concreta, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección + revisión de la capota", costeAproxEur: 290 },
-        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 460 },
+        { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de, en este punto, frenos + bujías según kilometraje", costeAproxEur: 460 },
       ],
       costeAnualAproxEur: 290,
       fuente: "Plan oficial Mini España",
@@ -678,9 +678,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025), junto al Mini Cooper eléctrico",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que. Dicho de otro modo, ocurra antes, según indicador, en el día a día, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 190 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, en este punto, general + actualización de software", costeAproxEur: 190 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 190,
@@ -745,9 +745,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025), junto al Mini Cooper eléctrico",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en líneas generales, ocurra antes, según indicador, en la práctica, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 190 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, como punto de partida, general + actualización de software", costeAproxEur: 190 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 190,
@@ -822,9 +822,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2025), junto al Mini Cooper eléctrico",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, según la ficha, ocurra antes, según indicador, dicho de otro modo, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 200 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección. En concreto, general + actualización de software", costeAproxEur: 200 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 340 },
       ],
       costeAnualAproxEur: 200,
@@ -901,9 +901,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (diciembre 2024), según comunicado oficial de BMW Group",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que. Para situarnos, ocurra antes, según indicador, en definitiva, CBS)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 210 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, en términos generales, general + actualización de software", costeAproxEur: 210 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 350 },
       ],
       costeAnualAproxEur: 210,
@@ -980,7 +980,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (diciembre 2024) del Mini Countryman",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, para situarnos, ocurra antes, según indicador, en este modelo, CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 350 },
         { nombre: "Revisión grande (2 años)", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + pastillas según uso", costeAproxEur: 550 },
@@ -1060,7 +1060,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 550 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 850 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, en concreto, de transmisión y, a tener en cuenta, diferenciales", costeAproxEur: 850 },
       ],
       costeAnualAproxEur: 550,
       fuente: "Plan oficial Land Rover España",
@@ -1137,7 +1137,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 530 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 820 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, como referencia, de transmisión y, para situarnos, diferenciales", costeAproxEur: 820 },
       ],
       costeAnualAproxEur: 530,
       fuente: "Plan oficial Land Rover España",
@@ -1214,7 +1214,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 650 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 950 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido, en concreto, de frenos + bujías según kilometraje", costeAproxEur: 950 },
       ],
       costeAnualAproxEur: 650,
       fuente: "Plan oficial Land Rover España",
@@ -1290,8 +1290,8 @@ export const COCHES_EXP23: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "34.000 km o 24 meses",
       revisiones: [
-        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 600 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 900 },
+        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro, en concreto, de habitáculo + inspección del, a tener en cuenta, sistema híbrido", costeAproxEur: 600 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, en concreto, de alta tensión", costeAproxEur: 900 },
       ],
       costeAnualAproxEur: 600,
       fuente: "Plan oficial Land Rover España",
@@ -1368,7 +1368,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 560 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 860 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión. En la práctica, de transmisión y, es decir, diferenciales", costeAproxEur: 860 },
       ],
       costeAnualAproxEur: 560,
       fuente: "Plan oficial Land Rover España",
@@ -1445,7 +1445,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 580 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 880 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, en este punto, de transmisión y, para ser precisos, diferenciales", costeAproxEur: 880 },
       ],
       costeAnualAproxEur: 580,
       fuente: "Plan oficial Land Rover España",
@@ -1522,7 +1522,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 570 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 870 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, como punto de partida, de transmisión y, para esta versión, diferenciales", costeAproxEur: 870 },
       ],
       costeAnualAproxEur: 570,
       fuente: "Plan oficial Land Rover España",
@@ -1875,8 +1875,8 @@ export const COCHES_EXP23: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "34.000 km o 24 meses",
       revisiones: [
-        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 700 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 1050 },
+        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro, como referencia, de habitáculo + inspección del, para situarnos, sistema híbrido", costeAproxEur: 700 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, como referencia, de alta tensión", costeAproxEur: 1050 },
       ],
       costeAnualAproxEur: 700,
       fuente: "Plan oficial Land Rover España",
@@ -2029,8 +2029,8 @@ export const COCHES_EXP23: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "34.000 km o 24 meses",
       revisiones: [
-        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 480 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 750 },
+        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro. En la práctica, de habitáculo + inspección del, es decir, sistema híbrido", costeAproxEur: 480 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión. En la práctica, de alta tensión", costeAproxEur: 750 },
       ],
       costeAnualAproxEur: 480,
       fuente: "Plan oficial Land Rover España",
@@ -2107,7 +2107,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 450 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 720 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de, en concreto, frenos + revisión de transmisión", costeAproxEur: 720 },
       ],
       costeAnualAproxEur: 450,
       fuente: "Plan oficial Land Rover España",
@@ -2184,7 +2184,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 550 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 850 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de, como referencia, frenos + revisión de transmisión", costeAproxEur: 850 },
       ],
       costeAnualAproxEur: 550,
       fuente: "Plan oficial Land Rover España",
@@ -2261,7 +2261,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 600 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 920 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de. En la práctica, frenos + revisión de transmisión", costeAproxEur: 920 },
       ],
       costeAnualAproxEur: 600,
       fuente: "Plan oficial Land Rover España",
@@ -2337,8 +2337,8 @@ export const COCHES_EXP23: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "34.000 km o 24 meses",
       revisiones: [
-        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 500 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 780 },
+        { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro, en este punto, de habitáculo + inspección del, para ser precisos, sistema híbrido", costeAproxEur: 500 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión, en este punto, de alta tensión", costeAproxEur: 780 },
       ],
       costeAnualAproxEur: 500,
       fuente: "Plan oficial Land Rover España",
@@ -2415,7 +2415,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 470 },
-        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 750 },
+        { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de, en este punto, frenos + revisión de transmisión", costeAproxEur: 750 },
       ],
       costeAnualAproxEur: 470,
       fuente: "Plan oficial Land Rover España",
@@ -2491,10 +2491,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión RS no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, en concreto, o 24 meses (servicio, a tener en cuenta, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 450 },
-        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 700 },
+        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de, como punto de partida, frenos + bujías según kilometraje", costeAproxEur: 700 },
       ],
       costeAnualAproxEur: 550,
       fuente: "Plan oficial Audi España",
@@ -2570,7 +2570,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión RS no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, como referencia, o 24 meses (servicio, para situarnos, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 650 },
         { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + revisión de frenos carbocerámicos", costeAproxEur: 1100 },
@@ -2645,10 +2645,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión S no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km. En la práctica, o 24 meses (servicio, es decir, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 380 },
-        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 600 },
+        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de. En concreto, frenos + bujías según kilometraje", costeAproxEur: 600 },
       ],
       costeAnualAproxEur: 450,
       fuente: "Plan oficial Audi España",
@@ -2724,7 +2724,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión S no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, en este punto, o 24 meses (servicio, para ser precisos, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 450 },
         { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión del sistema MHEV", costeAproxEur: 650 },
@@ -2803,10 +2803,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (ronda de diciembre de 2024) del nuevo Audi A5",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, como punto de partida, o 24 meses (servicio, para esta versión, flexible LongLife)",
       revisiones: [
-        { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 420 },
-        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 650 },
+        { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro, como punto de partida, de habitáculo + inspección del, para esta versión, sistema híbrido", costeAproxEur: 420 },
+        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión, como punto de partida, de alta tensión", costeAproxEur: 650 },
       ],
       costeAnualAproxEur: 480,
       fuente: "Plan oficial Audi España",
@@ -2882,10 +2882,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión e-hybrid no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km. En concreto, o 24 meses (servicio, conviene recordarlo, flexible LongLife)",
       revisiones: [
-        { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 440 },
-        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 680 },
+        { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro. En concreto, de habitáculo + inspección del, conviene recordarlo, sistema híbrido", costeAproxEur: 440 },
+        { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión. En concreto, de alta tensión", costeAproxEur: 680 },
       ],
       costeAnualAproxEur: 500,
       fuente: "Plan oficial Audi España",
@@ -2961,7 +2961,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión RS no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, en términos generales, o 24 meses (servicio, en resumen, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 700 },
         { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + revisión de frenos carbocerámicos", costeAproxEur: 1200 },
@@ -3040,7 +3040,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión actual no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible LongLife)",
+      intervalo: "30.000 km, si lo miramos así, o 24 meses (servicio, en la unidad concreta, flexible LongLife)",
       revisiones: [
         { nombre: "Servicio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 520 },
         { nombre: "Servicio de inspección", queSeCambia: "Aceite + filtros + líquido de frenos + revisión del sistema MHEV", costeAproxEur: 780 },
@@ -3119,7 +3119,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión CS no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en concreto, ocurra antes, según CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 600 },
         { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + revisión de frenos M", costeAproxEur: 1000 },
@@ -3196,10 +3196,10 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión 225e no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, como referencia, ocurra antes, según CBS)",
       revisiones: [
-        { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 380 },
-        { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 600 },
+        { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro, en términos generales, de habitáculo + inspección del, en resumen, sistema híbrido", costeAproxEur: 380 },
+        { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de frenos + revisión, en términos generales, de alta tensión", costeAproxEur: 600 },
       ],
       costeAnualAproxEur: 380,
       fuente: "Plan oficial BMW España",
@@ -3258,10 +3258,10 @@ export const COCHES_EXP23: CocheComparador[] = [
     },
     euroncap: {"estrellas": 4, "ano": 2022, "url": "https://www.euroncap.com/press-media/euro-ncap-twenty-five-years-on-new-polo-taigo-megane-and-nx-earn-highest-accolades/", "nota": "Resultado Euro NCAP verificado para este modelo."},
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según CBS)",
+      intervalo: "30.000 km o 24 meses (lo que. En la práctica, ocurra antes, según CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 420 },
-        { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 700 },
+        { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de, en términos generales, frenos + bujías según kilometraje", costeAproxEur: 700 },
       ],
       costeAnualAproxEur: 480,
       fuente: "Plan oficial BMW España",
@@ -3335,7 +3335,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión M60i no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, según CBS)",
+      intervalo: "30.000 km o 24 meses (lo que, en este punto, ocurra antes, según CBS)",
       revisiones: [
         { nombre: "Cambio de aceite", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 600 },
         { nombre: "Revisión grande", queSeCambia: "Aceite + filtros + líquido de frenos + bujías + revisión del sistema MHEV", costeAproxEur: 950 },
@@ -3400,7 +3400,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "30.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 500 },
-        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 800 },
+        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de, si lo miramos así, frenos + bujías según kilometraje", costeAproxEur: 800 },
       ],
       costeAnualAproxEur: 600,
       fuente: "Plan oficial Mercedes-Benz España",
@@ -3565,7 +3565,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       intervalo: "30.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 480 },
-        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 780 },
+        { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de. Dicho de otro modo, frenos + bujías según kilometraje", costeAproxEur: 780 },
       ],
       costeAnualAproxEur: 580,
       fuente: "Plan oficial Mercedes-Benz España",
@@ -3675,9 +3675,9 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión GTX no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (servicio flexible, sin límite de kilómetros para el plan básico)",
+      intervalo: "30.000 km. Dicho de otro modo, o 24 meses (servicio, en el día a día, flexible, sin límite de kilómetros para el plan básico)",
       revisiones: [
-        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección general + actualización de software", costeAproxEur: 220 },
+        { nombre: "Revisión básica", queSeCambia: "Filtro de habitáculo + inspección, si lo miramos así, general + actualización de software", costeAproxEur: 220 },
         { nombre: "Revisión completa (2 años)", queSeCambia: "Filtro de habitáculo + líquido de frenos + revisión del sistema de alta tensión", costeAproxEur: 380 },
       ],
       costeAnualAproxEur: 220,

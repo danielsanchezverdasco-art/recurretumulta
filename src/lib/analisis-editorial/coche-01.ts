@@ -238,7 +238,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-a1-2025-precio-ficha-tecnica": {
     parrafos: [
       "El A1 Sportback es el carnet de acceso al universo Audi: el premium más asequible de la marca, con un maletero de 335 litros que lidera entre los utilitarios de su clase y una calidad de acabados muy superior a la de un Polo. Con 4,03 metros, es imbatible en la ciudad, y el consumo de 5,5 litros cada 100 km lo hace barato de mantener.",
-      "Es el primer coche premium ideal o el segundo coche de la familia que no quiere renunciar a la imagen. No es para quien busque emociones: el 1.0 TFSI de 116 CV va justo en autopista con carga, la plaza central trasera es testimonial y la etiqueta C no da ventajas en las ZBE. Además, la producción se retira durante 2026: es un fin de ciclo.",
+      "Es el primer coche premium ideal o el segundo coche de la familia que no quiere renunciar a la imagen. No es para quien busque emociones: el 1.0 TFSI de 116 CV va justo en autopista con carga, la plaza central trasera es testimonial y la etiqueta C no, en concreto, da ventajas en las, a tener en cuenta, ZBE. Además, la producción se retira durante 2026: es un fin de ciclo.",
       "El A1 vive una paradoja: es el Audi más barato y, al mismo tiempo, uno de los utilitarios más caros del mercado. Frente al MINI —su rival natural—, ofrece más maletero y discreción donde el británico pone carisma. Frente al Polo con el que comparte base, la diferencia la pagan el logotipo y los acabados. Como fin de serie, las unidades en stock pueden ser una oportunidad; como apuesta de futuro, llega tarde.",
     ],
     veredicto: "El Audi más asequible en su despedida: premium urbano con los días contados.",
@@ -270,7 +270,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-a3-sedan-2025": {
     parrafos: [
       "El A3 Sedan es la variante de tres volúmenes del compacto de Audi: misma base que el Sportback, pero con un maletero de 425 litros que le da un plus de capacidad para quien viaja con equipaje. Con 150 CV, cinco plazas y las cinco estrellas EuroNCAP de 2020, es la berlina compacta premium discreta por excelencia.",
-      "Es el coche para quien prefiere la silueta clásica de berlina al portón del Sportback y valora esos litros extra de maletero. No es para el que busque la última novedad: el formato sedán compacto pierde adeptos cada año frente a los SUV, y la ficha recoge un precio aproximado no oficial, señal de que la comercialización es limitada.",
+      "Es el coche para quien prefiere la silueta clásica de berlina al portón del Sportback y valora esos litros extra de maletero. No es para el, en concreto, que busque la última novedad: el formato sedán compacto pierde adeptos cada año frente a los SUV, y la ficha recoge un precio aproximado no oficial, señal de que la comercialización es limitada.",
       "Frente al A3 Sportback, el Sedan ofrece más maletero a cambio de menos versatilidad: sin portón, cargar objetos voluminosos es más complicado. Frente al BMW Serie 2 Gran Coupé, su rival natural, la batalla es de matices entre dos berlinas compactas premium en un segmento que se estrecha. Es el A3 para clásicos: quien lo elige sabe exactamente lo que quiere y por qué.",
     ],
     veredicto: "La berlina compacta para clásicos: más maletero que el Sportback en un formato en retirada.",
@@ -318,7 +318,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-a6-avant-2025": {
     parrafos: [
       "La nueva generación C9 del A6 Avant estrena la plataforma PPC con hibridación ligera de 48 voltios de serie y mantiene el 2.0 TDI de 204 CV como la opción lógica: el diésel más eficiente del segmento con etiqueta ECO. El maletero de 565 litros lo convierte, junto al BMW Serie 5 Touring, en el familiar premium más práctico, y la dirección a las cuatro ruedas opcional le da agilidad de compacto en un coche de 4,99 metros.",
-      "Es el familiar ejecutivo para quien hace kilómetros y no quiere oír hablar de enchufes. No es para el que busque el precio más bajo: 65.570 euros de partida, más caro que el BMW 520d Touring equivalente, y los 204 CV van justos para casi dos toneladas. La pantalla del acompañante como extra caro y los 5 litros menos de maletero por la hibridación son detalles que chirrían.",
+      "Es el familiar ejecutivo para quien hace kilómetros y no quiere oír hablar de enchufes. No es para el que, en concreto, busque el precio más bajo: 65.570 euros de partida, más caro que el BMW 520d Touring equivalente, y los 204 CV van justos para casi dos toneladas. La pantalla del acompañante como extra caro y los 5 litros menos de maletero por la hibridación son detalles que chirrían.",
       "Frente al Serie 5 Touring, el A6 ofrece más tecnología de chasis y un interior más espectacular; frente al Clase E Estate, más dinamismo y menos confort de alfombra. El diésel con etiqueta ECO es su gran argumento en 2026: autonomía total, consumos contenidos y acceso a las ZBE. Para el viajero incansable, sigue sin haber alternativa mejor.",
     ],
     veredicto: "El familiar ejecutivo diésel con etiqueta ECO: la herramienta definitiva para devorar kilómetros.",
@@ -357,7 +357,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   },
   "audi-a6-e-tron-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El A6 Sportback e-tron es la demostración de que la aerodinámica sigue siendo la mejor batería: con un Cx de 0,21 —el más bajo de la historia de Audi— y un consumo de 13,7 kWh cada 100 km, homologa 624 km WLTP con la batería de 83 kWh. La carga rápida de 225 kW recupera del 10 al 80 % en 21 minutos, y la etiqueta Cero abre todas las ZBE sin pedir permiso.",
+      "El A6 Sportback e-tron es la demostración de que la aerodinámica sigue siendo la mejor batería: con un Cx de 0,21 —el más bajo de la historia de Audi— y un consumo de 13,7 kWh cada 100 km, homologa 624 km WLTP con la batería de 83 kWh. La carga rápida de 225 kW recupera del 10 al, en concreto, 80 % en 21 minutos, y la etiqueta Cero abre todas las ZBE sin pedir permiso.",
       "Es la berlina eléctrica para el viajero que hace kilómetros de verdad y quiere eficiencia sin renunciar al confort ejecutivo. No es para quien busque el precio de entrada más bajo del segmento: parte de 67.980 euros —dato de la ficha; el salto a la batería de 100 kWh encarece—, y en autovía real la autonomía se queda en unos 350-380 km. Los 2.175 kilos se notan en los apoyos fuertes.",
       "Frente al BMW i5 y el Mercedes EQE, el A6 e-tron juega la carta de la eficiencia: menos batería para más kilómetros, la receta del A2 original aplicada a la berlina ejecutiva. La arquitectura de 400 voltios en esta versión —sin llegar a los 270 kW de sus hermanos mayores— es su único lunar técnico. Es el eléctrico para quien entendió que en la era eléctrica, la aerodinámica es el nuevo motor.",
     ],
@@ -438,7 +438,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-q4-e-tron-45-2025-precio-ficha-tecnica": {
     parrafos: [
       "La denominación 45 esconde la versión más equilibrada del Q4: 286 CV y 545 Nm con tracción trasera, 543 km de autonomía WLTP y un 0-100 de 6,7 segundos que por fin le dan alegría al SUV eléctrico de acceso de Audi. El maletero de 520 litros en 4,59 metros sigue siendo una de sus mejores bazas, y las cinco estrellas EuroNCAP avalan la seguridad.",
-      "Es el Q4 para quien encontró la versión básica demasiado tranquila pero no quiere saltar de segmento. No es para el que busque la última tecnología de carga: los 135 kW en continua están por debajo de los 800 voltios de la competencia coreana, y el software del MMI sigue un paso por detrás del de BMW. Los 2.145 kilos, además, elevan el consumo real por encima del homologado.",
+      "Es el Q4 para quien encontró la versión básica demasiado tranquila pero no quiere saltar de segmento. No es para el, como referencia, que busque la última tecnología de carga: los 135 kW en continua están por debajo de los 800 voltios de la competencia coreana, y el software del MMI sigue un paso por detrás del de BMW. Los 2.145 kilos, además, elevan el consumo real por encima del homologado.",
       "Frente al Q4 e-tron de acceso, el 45 justifica su precio —desde 58.710 euros— con 82 CV extra y 100 km más de autonomía: es el salto que convierte al Q4 en un coche redondo. Frente al Enyaq 85 con la misma base, la batalla es de imagen contra precio. Y frente al Model Y, el Audi ofrece interior más cuidado a cambio de peor ecosistema de carga. Es el Q4 que Audi debería haber lanzado desde el principio.",
     ],
     veredicto: "286 CV y 543 km: la versión que convierte al Q4 e-tron en el coche redondo que prometía ser.",
@@ -454,7 +454,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-q4-sportback-e-tron-45-2026-precio-ficha-tecnica": {
     parrafos: [
       "Once kilómetros: eso regala la silueta Sportback al Q4 e-tron 45 frente a su hermano de techo alto, hasta 554 km WLTP. La aerodinámica, una vez más, demuestra ser la batería más barata. Con 286 CV, 545 Nm, tracción trasera y un 0-100 de 6,7 segundos, es además el Q4 más bonito de la gama sin renunciar a 535 litros de maletero.",
-      "Es el Q4 del que quiere estética coupé con premio en autonomía. No es para el que busque el precio más bajo: 59.960 euros en edición Genuine, 2.145 kilos y 180 km/h de punta limitada. Los plásticos interiores, mejorables, son el lunar de un conjunto por lo demás redondo.",
+      "Es el Q4 del que quiere estética coupé con premio en autonomía. No es para el que, como referencia, busque el precio más bajo: 59.960 euros en edición Genuine, 2.145 kilos y 180 km/h de punta limitada. Los plásticos interiores, mejorables, son el lunar de un conjunto por lo demás redondo.",
       "Frente al Q4 SUV, el Sportback es la elección que no castiga: más autonomía, mejor imagen, maletero incluso mayor. Frente al Enyaq Coupé, su primo checo, la diferencia es de imagen y acabado. Es el Q4 definitivo para quien ya había decidido el 45: la carrocería bonita que además llega más lejos.",
     ],
     veredicto: "La carrocería bonita regala 11 km: el Q4 más atractivo también es el de más alcance.",
@@ -470,7 +470,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-q5-2025-precio-ficha-tecnica": {
     parrafos: [
       "La nueva generación del Q5 estrena la plataforma PPC y la hibridación ligera MHEV plus de 24 CV con etiqueta ECO: el SUV medio premium más vendido de Audi en Europa se renueva por completo. Con 204 CV, un maletero de 520 litros con asientos traseros deslizantes y un interior dominado por las pantallas, es el Q5 más tecnológico de la historia.",
-      "Es el SUV familiar para el cliente fiel de Audi que quiere lo último sin cambiar de marca. No es para el que busque el precio de antes: 63.000 euros de partida suponen un salto notable, el TFSI de acceso solo lleva tracción delantera y las pantallas táctiles para casi todo eliminan botones físicos. El BMW X3, además, ofrece 6 cilindros en su rango alto.",
+      "Es el SUV familiar para el cliente fiel de Audi que quiere lo último sin cambiar de marca. No es para el, en concreto, que busque el precio de antes: 63.000 euros de partida suponen un salto notable, el TFSI de acceso solo lleva tracción delantera y las pantallas táctiles para casi todo eliminan botones físicos. El BMW X3, además, ofrece 6 cilindros en su rango alto.",
       "Frente al X3 y el GLC, el nuevo Q5 apuesta por la tecnología y la eficiencia frente a la tradición mecánica: la etiqueta ECO de serie en toda la gama es su gran argumento. El diésel y el quattro encarecen bastante, pero son los que completan la oferta. Es el SUV que sostiene las cuentas de Audi en Europa: no puede fallar, y no falla.",
     ],
     veredicto: "El SUV que sostiene a Audi en Europa, renovado: más tecnología y etiqueta ECO de serie.",
@@ -494,15 +494,15 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-q5-sportback-e-hybrid-2026-precio-ficha-tecnica": {
     parrafos: [
       "El Q5 Sportback e-hybrid combina tres conceptos que hace cinco años parecían incompatibles: silueta coupé, 299 CV híbridos enchufables y etiqueta Cero en el SUV más vendido de Audi. Con 99 km de autonomía eléctrica, un 0-100 de 6,2 segundos y carga en alterna a 11 kW que llena la batería en 2,5 horas, es la versión más completa de la gama Q5.",
-      "Es el SUV para quien quiere el Q5 con la estética más afilada y la conciencia más tranquila. No es para el que busque el precio más ajustado: parte de 70.570 euros, pesa 2.225 kilos y no tiene carga rápida en continua. El Q5 TDI, además, cuesta 8.000 euros menos y para hacer kilómetros sigue siendo mejor herramienta.",
+      "Es el SUV para quien quiere el Q5 con la estética más afilada y la conciencia más tranquila. No es para el que. En la práctica, busque el precio más ajustado: parte de 70.570 euros, pesa 2.225 kilos y no tiene carga rápida en continua. El Q5 TDI, además, cuesta 8.000 euros menos y para hacer kilómetros sigue siendo mejor herramienta.",
       "Frente al Q5 Sportback de gasolina, el e-hybrid se justifica si el enchufe es diario y la ciudad es tu hábitat: si no, el sobreprecio no se amortiza. Frente al X4 xDrive30e —su rival natural—, el Audi ofrece más autonomía eléctrica. Es el SUV medio premium que mejor resume 2026: coupé por fuera, eléctrico entre semana, gasolina el fin de semana.",
     ],
     veredicto: "Coupé, enchufable y con etiqueta Cero: el Q5 Sportback que resume el año 2026 en un coche.",
   },
   "audi-q6-e-tron-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Q6 e-tron es el primer Audi construido sobre la plataforma PPE de 800 voltios que comparte con el Porsche Macan eléctrico: 541 km WLTP, carga de 225 kW que recupera del 10 al 80 % en 21 minutos y un interior con pantalla panorámica y materiales reciclados. La tracción trasera de la versión básica le da un tacto más ágil que el de la mayoría de SUV eléctricos.",
-      "Es el SUV eléctrico para quien quiere la última tecnología del grupo Volkswagen sin pagar el sobreprecio de Porsche. No es para el que busque el precio más bajo del segmento: parte de 69.870 euros, más que un Tesla Model Y equivalente, y en autovía real la autonomía cae a unos 300 km. Los 2.200 kilos se notan en ciudad y en carreteras lentas.",
+      "El Q6 e-tron es el primer Audi construido sobre la plataforma PPE de 800 voltios que comparte con el Porsche Macan eléctrico: 541 km WLTP, carga de 225 kW que recupera del 10 al, como referencia, 80 % en 21 minutos y un interior con pantalla panorámica y materiales reciclados. La tracción trasera de la versión básica le da un tacto más ágil que el de la mayoría de SUV eléctricos.",
+      "Es el SUV eléctrico para quien quiere la última tecnología del grupo Volkswagen sin pagar el sobreprecio de Porsche. No es para el que, en este punto, busque el precio más bajo del segmento: parte de 69.870 euros, más que un Tesla Model Y equivalente, y en autovía real la autonomía cae a unos 300 km. Los 2.200 kilos se notan en ciudad y en carreteras lentas.",
       "La comparativa con el Macan eléctrico es la más interesante: misma plataforma, filosofías distintas —el Porsche más deportivo, el Audi más familiar y tecnológico—. Frente al Model Y, el Q6 ofrece mejor interior y carga más rápida a cambio de un precio superior y peor red de carga. La batería de 100 kWh, reservada a versiones más caras, es la que de verdad exprime la plataforma PPE.",
     ],
     veredicto: "La plataforma PPE de 800 V a precio de Audi: tecnología de Porsche sin el sobreprecio de Porsche.",
@@ -533,7 +533,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   },
   "audi-q7-55-tfsi-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Q7 55 TFSI es la alternativa de gasolina al diésel dominante: un V6 de 340 CV con 7 plazas, etiqueta ECO y 740 litros de maletero en configuración de cinco plazas. Con suspensión neumática de serie, es el SUV grande de Audi más equilibrado para quien recela del diésel.",
+      "El Q7 55 TFSI es la alternativa de gasolina al diésel dominante: un V6 de 340 CV con 7 plazas, etiqueta ECO y 740 litros de maletero en, en concreto, configuración de cinco plazas. Con suspensión neumática de serie, es el SUV grande de Audi más equilibrado para quien recela del diésel.",
       "Es el Q7 para quien hace menos kilómetros y prefiere la suavidad de la gasolina al par del diésel. No es para el que busque consumos contenidos: el consumo real es alto, los 5,06 metros son un transatlántico en ciudad y el diseño acusa los años pese al restyling. El Q8, además, es más moderno por poco más.",
       "Frente al Q7 TDI, el 55 TFSI se justifica si el kilometraje anual es moderado y se valora el refinamiento; para devorar kilómetros, el diésel sigue mandando. Frente al BMW X7 xDrive40i, la batalla es entre los dos grandes SUV de gasolina alemanes. Es el Q7 para el que quiere siete plazas sin el estigma del diésel: una minoría, pero existente.",
     ],
@@ -566,7 +566,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-rs-q3-sportback-2025-precio-ficha-tecnica": {
     parrafos: [
       "El RS Q3 Sportback es un nicho dentro de un nicho dentro de otro nicho: un SUV compacto con silueta coupé y el cinco cilindros de 400 CV, el motor más carismático que se puede comprar en este formato. Un 0-100 de 4,5 segundos con 530 litros de maletero: las cifras de un deportivo con la practicidad de un familiar.",
-      "Es el coche del fan incondicional del 2.5 TFSI que necesita altura libre. No es para el que busque la última generación —pertenece a la anterior—, ni para el que mire el consumo: 9,6 litros homologados que la realidad supera con creces. Los 83.560 euros son muchos por un Q3, y la etiqueta C no ayuda.",
+      "Es el coche del fan incondicional del 2.5 TFSI que necesita altura libre. No es para el. En la práctica, que busque la última generación —pertenece a la anterior—, ni para el que mire el consumo: 9,6 litros homologados que la realidad supera con creces. Los 83.560 euros son muchos por un Q3, y la etiqueta C no ayuda.",
       "Frente al GLA 45 AMG y el X2 M35i, el Audi gana por el motor: ningún cuatro cilindros suena así. Frente al RS Q3 de techo alto, la diferencia es solo estética. Es el capricho del que ya lo tiene todo y quiere el cinco cilindros en formato familiar: irracional, caro y absolutamente delicioso.",
     ],
     veredicto: "400 CV y cinco cilindros en un SUV coupé: el capricho más sonoro del segmento.",
@@ -606,14 +606,14 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-rs4-avant-2025": {
     parrafos: [
       "El RS 4 Avant es el familiar deportivo que inventó su propio segmento: 450 CV, un maletero de 505 litros, un 0-100 de 4,1 segundos y cinco estrellas EuroNCAP. La receta del familiar que corre como un deportivo y carga como un familiar sigue intacta después de más de dos décadas.",
-      "Es el familiar para quien quiere un RS usable a diario sin saltar al RS6. No es para el que busque la última novedad: el RS5 Avant híbrido enchufable ya lo supera en potencia y etiqueta, y la ficha recoge un precio aproximado no oficial. Es el fin de una era para el RS4 de combustión pura.",
+      "Es el familiar para quien quiere un RS usable a diario sin saltar al RS6. No es para el, en este punto, que busque la última novedad: el RS5 Avant híbrido enchufable ya lo supera en potencia y etiqueta, y la ficha recoge un precio aproximado no oficial. Es el fin de una era para el RS4 de combustión pura.",
       "Frente al BMW M3 Touring —su gran rival—, el RS 4 ofrece tracción total y discreción donde el bávaro pone espectáculo. Frente al RS5 Avant e-hybrid que lo releva, el RS4 es la última oportunidad del familiar deportivo sin enchufe. Quien busque el RS familiar clásico, este es su momento: la historia no se repetirá.",
     ],
     veredicto: "450 CV sin enchufe: el último RS4 de combustión pura antes del relevo híbrido.",
   },
   "audi-rs5-avant-2025-precio-ficha-tecnica": {
     parrafos: [
-      "639 CV híbridos enchufables, 0-100 en 3,6 segundos y etiqueta Cero: el RS 5 Avant es el familiar más rápido con enchufe que existe. El V6 biturbo de siempre, ahora ayudado por un motor eléctrico, entrega 84 km de autonomía eléctrica para el día a día y 285 km/h de punta para el día que toque. Es el sucesor espiritual del RS4 Avant, más grande y mucho más potente.",
+      "639 CV híbridos enchufables, 0-100 en 3,6 segundos y etiqueta Cero: el RS 5 Avant es el familiar más rápido con enchufe que existe. El V6 biturbo de siempre, ahora ayudado por un motor eléctrico, entrega 84 km de autonomía eléctrica para el, en concreto, día a día y 285 km/h de punta para el día que toque. Es el sucesor espiritual del RS4 Avant, más grande y mucho más potente.",
       "Es el familiar para quien se niega a elegir entre la pasión y la etiqueta: corre como un superdeportivo y entra en todas las ZBE. No es para el que busque el RS más barato: con 128.060 euros es el familiar enchufable más caro del segmento, el maletero baja a 361 litros y no tiene carga rápida en continua —solo 11 kW en alterna—. El peso del sistema híbrido, además, lastra la agilidad.",
       "Frente al BMW M5 Touring —más potencia por precio similar—, el Audi ofrece mejor autonomía eléctrica y un formato algo más compacto. Frente al RS6 Avant de gasolina, el RS 5 es la opción con enchufe y etiqueta Cero a cambio de menos maletero y menos mito. Es el familiar definitivo para la era de las restricciones: 639 CV que no necesitan pedir permiso para entrar en la ciudad.",
     ],
@@ -670,7 +670,7 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-s5-2025-precio-ficha-tecnica": {
     parrafos: [
       "El S5 estrena el V6 3.0 TFSI de 367 CV con el sistema MHEV plus: 550 Nm, un 0-100 de 4,5 segundos, tracción total quattro con reparto deportivo y etiqueta ECO que abre todas las ZBE. Es la berlina deportiva de Audi con conciencia ambiental, con interior S, asientos deportivos y acabados específicos.",
-      "Es la berlina para quien quiere seis cilindros y etiqueta ECO en el mismo coche. No es para el que busque el precio de un S4: 93.160 euros es tarifa de M3 sin ser un RS, los 2.025 kilos se notan en carreteras reviradas y el maletero de 417 litros es justo para una berlina familiar. El consumo real, si se aprovechan los 367 CV, es elevado.",
+      "Es la berlina para quien quiere seis cilindros y etiqueta ECO en el mismo coche. No es para el, como referencia, que busque el precio de un S4: 93.160 euros es tarifa de M3 sin ser un RS, los 2.025 kilos se notan en carreteras reviradas y el maletero de 417 litros es justo para una berlina familiar. El consumo real, si se aprovechan los 367 CV, es elevado.",
       "Frente al BMW M340i xDrive —su rival natural—, el S5 ofrece la etiqueta ECO como gran baza fiscal y de acceso urbano. Frente al S5 Avant, la berlina es más barata pero menos práctica: la tentación del familiar es real. Es el S5 que demuestra que los seis cilindros pueden sobrevivir a la era de las restricciones con un poco de ayuda eléctrica.",
     ],
     veredicto: "V6 de 367 CV con etiqueta ECO: la berlina deportiva que no necesita pedir permiso.",
@@ -678,14 +678,14 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
   "audi-s5-avant-2025": {
     parrafos: [
       "El S5 Avant monta el último V6 no enchufable de Audi: un 3.0 TFSI de 367 CV con hibridación ligera plus, 0-100 en 4,5 segundos —más rápido que el BMW M340i Touring y con mejor sonido— y tracción quattro con diferencial deportivo. Las cinco estrellas Euro NCAP 2024, válidas para el S5, garantizan la seguridad máxima con 367 CV.",
-      "Es el familiar deportivo para el purista que aún no quiere enchufes. No es para el que busque el precio más ajustado: 95.510 euros, 10.000 más que el M340i Touring con prestaciones similares. El V6 MHEV plus añade 200 kilos frente al antiguo S4 —se nota en el morro—, el consumo real ronda los 11 litros en conducción deportiva y el sonido, muy filtrado por el filtro de partículas, emociona menos que antes.",
+      "Es el familiar deportivo para el purista que aún no quiere enchufes. No es para el que, como punto de partida, busque el precio más ajustado: 95.510 euros, 10.000 más que el M340i Touring con prestaciones similares. El V6 MHEV plus añade 200 kilos frente al antiguo S4 —se nota en el morro—, el consumo real ronda los 11 litros en conducción deportiva y el sonido, muy filtrado por el filtro de partículas, emociona menos que antes.",
       "Frente al M340i Touring, el S5 defiende la etiqueta ECO y un interior más tecnológico; frente al futuro RS5 e-hybrid, es la última oportunidad del seis cilindros puro. Es el familiar para quien sabe que los V6 sin enchufe tienen los días contados y quiere despedirse por la puerta grande: corre, suena —aunque filtrado— y lleva la etiqueta que abre ciudades.",
     ],
     veredicto: "El último V6 puro de Audi en formato familiar: 367 CV para despedirse por la puerta grande.",
   },
   "audi-s6-avant-e-tron-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El S6 Avant e-tron es el familiar eléctrico más rápido de Audi: 551 CV, 0-100 en 3,9 segundos y 647 km WLTP, la mayor autonomía de cualquier Audi eléctrico. La carga de 270 kW recupera del 10 al 80 % en 21 minutos, el maletero de 529 litros iguala al del A6 Avant de combustión y la etiqueta Cero con tracción total quattro completa un conjunto sin fisuras sobre el papel.",
+      "El S6 Avant e-tron es el familiar eléctrico más rápido de Audi: 551 CV, 0-100 en 3,9 segundos y 647 km WLTP, la mayor autonomía de cualquier Audi eléctrico. La carga de 270 kW recupera del 10 al. En la práctica, 80 % en 21 minutos, el maletero de 529 litros iguala al del A6 Avant de combustión y la etiqueta Cero con tracción total quattro completa un conjunto sin fisuras sobre el papel.",
       "Es el familiar para quien quiere prestaciones de deportivo sin renunciar a la practicidad ni a la etiqueta Cero. No es para el que busque el S6 más barato: con 106.880 euros es el familiar eléctrico premium más caro, y pesa más de 2,3 toneladas. La red de carga ultrarrápida, además, sigue siendo irregular en España fuera de los grandes ejes.",
       "Frente al S6 Sportback con la misma mecánica y menor precio, el Avant se justifica solo si necesitas el maletero: la prima familiar es real. Frente al BMW i5 M60 Touring, la batalla es entre los dos familiares eléctricos más rápidos de Alemania, con el Audi por delante en autonomía. La depreciación de los eléctricos premium es la gran incógnita: comprar este coche es apostar a que el mercado los querrá de ocasión.",
     ],

@@ -465,7 +465,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 220,
       notas:
-        "15.000 km/año, consumo estimado de 7,5 l/100 km y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año, consumo estimado de 7,5, en concreto, l/100 km, en concreto, y todo, a tener en cuenta, riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [

@@ -568,7 +568,7 @@ El seguimiento se hace modelo a modelo. Consulta la <a href=/coches/volkswagen-i
 ## Preguntas frecuentes
 
 ### ¿Cuándo es el Salón de París 2026?
-Del **12 al 18 de octubre de 2026** en Paris Expo Porte de Versailles; el día de prensa es el 12.
+Del **12 al 18 de octubre, en concreto, de 2026** en Paris, a tener en cuenta, Expo Porte de Versailles; el día de prensa es el 12.
 
 ### ¿Qué marcas chinas van al Salón de París 2026?
 **20 marcas chinas** con 7 estrenos mundiales, entre ellas BYD/Denza, XPeng, Leapmotor y Li Auto (debut europeo del i6).

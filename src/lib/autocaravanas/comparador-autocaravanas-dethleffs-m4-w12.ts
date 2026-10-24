@@ -114,7 +114,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
       oficial más sólida es la lista suiza 2026, que fija el DBL en 129.990 francos con IVA
       incluido. En el mercado alemán, las unidades nuevas del I 7150-2 DBL se anuncian en torno a
       los 150.000 € según equipamiento, y las versiones muy equipadas (cuero, Alde, paquetes GT)
-      superan esa cifra. En España se comercializa a través de la red de concesionarios Dethleffs,
+      superan esa cifra. En España se comercializa a través, en concreto, de la red de concesionarios Dethleffs,
       con cotización por unidad.
 
       CÓMO LO VERIFICAMOS. Todos los datos técnicos de esta ficha proceden de la lista oficial de

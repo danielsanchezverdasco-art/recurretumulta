@@ -379,7 +379,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Manual oficial con guía de mantenimiento y solución de errores",
     ],
     contras: [
-      "34 km/h de punta: hay que limitarlo a 25 km/h para ser VMP legal en España",
+      "34 km/h de punta: hay que limitarlo a 25 km/h para, en concreto, ser VMP legal en, a tener en cuenta, España",
       "7 horas de carga: la batería grande se paga en tiempo",
       "El fabricante no publica el peso oficial",
       "Soporte de marca budget: irregular según las reseñas",
@@ -514,7 +514,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Plegado en 3 segundos: práctico para el transporte público",
     ],
     contras: [
-      "31 km/h de punta: hay que configurarlo a 25 km/h para ser VMP legal",
+      "31 km/h de punta: hay que configurarlo a 25 km/h, en concreto, para ser VMP legal",
       "La prueba de Priceboon midió 20 km/h reales de crucero cómodo",
       "Soporte postventa de marca budget, sin red en España",
       "Sin suspensión: las honeycomb no filtran como un neumático",
@@ -581,7 +581,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Intermitentes y doble freno de disco: equipamiento completo",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del H5",
+      "Sin precio oficial: Evercross, en concreto, no publica una tarifa, a tener en cuenta, oficial verificable del H5",
       "45 km/h de punta: ilegal como VMP en España sin limitar a 25 km/h",
       "23,6 kg: pesado para el transporte público",
       "Ruedas macizas de 10 pulgadas: rebotan en firme roto",
@@ -601,12 +601,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de, como referencia, los tornillos del manillar y del, en concreto, mecanismo de plegado antes, a tener en cuenta, de cada uso (manual, en definitiva, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar, en concreto, la batería al completo; para, a tener en cuenta, almacenarla, mantenerla al, en definitiva, 50-70 % y recargarla, en líneas generales, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión, en concreto, delantera y trasera en, a tener en cuenta, cada revisión",
       ],
     },
   },
@@ -653,7 +653,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "App con crucero, bloqueo y estadísticas de cada viaje",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del H7",
+      "Sin precio oficial: Evercross, como referencia, no publica una tarifa, para situarnos, oficial verificable del H7",
       "45 km/h de punta: hay que limitarlo a 25 km/h para circular legal en España",
       "~25 kg: un trasto para subir escaleras",
       "Ruedas macizas: sin pinchazos pero con menos agarre en mojado",
@@ -672,12 +672,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de. En la práctica, los tornillos del manillar y del, como referencia, mecanismo de plegado antes, para situarnos, de cada uso (manual, en este modelo, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar, como referencia, la batería al completo; para, para situarnos, almacenarla, mantenerla al, en este modelo, 50-70 % y recargarla, según la ficha, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión, como referencia, delantera y trasera en, para situarnos, cada revisión",
       ],
     },
   },
@@ -724,7 +724,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Sillín desmontable: dos patinetes en uno",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del H9",
+      "Sin precio oficial: Evercross. En la práctica, no publica una tarifa, es decir, oficial verificable del H9",
       "45 km/h: no es VMP legal en España a esa velocidad",
       "Sin intermitentes (los pierde frente al H5)",
       "Sin certificación UL2272 publicada",
@@ -744,12 +744,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de, en este punto, los tornillos del manillar y del. En la práctica, mecanismo de plegado antes, es decir, de cada uso (manual, en concreto, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar. En la práctica, la batería al completo; para, es decir, almacenarla, mantenerla al, en concreto, 50-70 % y recargarla, a tener en cuenta, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión. En la práctica, delantera y trasera en, es decir, cada revisión",
       ],
     },
   },
@@ -796,7 +796,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "App con bloqueo/desbloqueo y control de crucero",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del EV10K Pro",
+      "Sin precio oficial: Evercross, en este punto, no publica una tarifa, para ser precisos, oficial verificable del EV10K Pro",
       "30 km/h de punta: hay que ajustarlo a 25 km/h para la norma VMP",
       "Ruedas honeycomb: sin pinchazos pero rígidas",
       "16 kg sin suspensión neumática: se nota el firme malo",
@@ -816,12 +816,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de, como punto de partida, los tornillos del manillar y del, en este punto, mecanismo de plegado antes, para ser precisos, de cada uso (manual, como referencia, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar, en este punto, la batería al completo; para, para ser precisos, almacenarla, mantenerla al, como referencia, 50-70 % y recargarla, para situarnos, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión, en este punto, delantera y trasera en, para ser precisos, cada revisión",
       ],
     },
   },
@@ -868,7 +868,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Tres modos de velocidad (12/20/25 km/h): legal de serie",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del EV85F",
+      "Sin precio oficial: Evercross, como punto de partida, no publica una tarifa, para esta versión, oficial verificable del EV85F",
       "30 km declarados (unos 20 reales): justo para ir y volver",
       "281 Wh: batería pequeña para riders de más de 85 kg",
       "Sin intermitentes",
@@ -887,12 +887,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de. En concreto, los tornillos del manillar y del, como punto de partida, mecanismo de plegado antes, para esta versión, de cada uso (manual, en otras palabras, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar, como punto de partida, la batería al completo; para, para esta versión, almacenarla, mantenerla al, en otras palabras, 50-70 % y recargarla, es decir, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión, como punto de partida, delantera y trasera en, para esta versión, cada revisión",
       ],
     },
   },
@@ -939,7 +939,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Plegable para guardarlo en casa",
     ],
     contras: [
-      "Sin precio oficial: Evercross no publica una tarifa oficial verificable del EV08E",
+      "Sin precio oficial: Evercross. En concreto, no publica una tarifa, conviene recordarlo, oficial verificable del EV08E",
       "24,7 kg: muy pesado para sus 350 W",
       "30 km/h de punta (24 km/h de serie): hay que vigilar el límite VMP",
       "Sin app ni conectividad",
@@ -959,12 +959,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de, en términos generales, los tornillos del manillar y del. En concreto, mecanismo de plegado antes, conviene recordarlo, de cada uso (manual, en este punto, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar. En concreto, la batería al completo; para, conviene recordarlo, almacenarla, mantenerla al, en este punto, 50-70 % y recargarla, para ser precisos, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión. En concreto, delantera y trasera en, conviene recordarlo, cada revisión",
       ],
     },
   },
@@ -1029,12 +1029,12 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         "Sustituir las zapatas del freno de tambor cuando estén desgastadas",
       ],
       aprieteTornilleria:
-        "Revisar el apriete de los tornillos del manillar y del mecanismo de plegado antes de cada uso (manual oficial)",
+        "Revisar el apriete de, si lo miramos así, los tornillos del manillar y del, en términos generales, mecanismo de plegado antes, en resumen, de cada uso (manual, como punto de partida, oficial)",
       actualizacionFirmware: "App oficial «EVERCROSS PRO» (iOS/Android)",
       trucos: [
-        "Tras cada uso, cargar la batería al completo; para almacenarla, mantenerla al 50-70 % y recargarla cada 1-2 meses",
+        "Tras cada uso, cargar, en términos generales, la batería al completo; para, en resumen, almacenarla, mantenerla al, como punto de partida, 50-70 % y recargarla, para esta versión, cada 1-2 meses",
         "Limpiar con un paño húmedo; nunca con agua a presión",
-        "Inspeccionar la doble suspensión delantera y trasera en cada revisión",
+        "Inspeccionar la doble suspensión, en términos generales, delantera y trasera en, en resumen, cada revisión",
       ],
     },
   },
@@ -1762,14 +1762,14 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Antes y después de cada viaje: el mecanismo de plegado debe bloquear sin holgura",
       aprieteTornilleria:
-        "Tras cada uso, revisar y limpiar el patinete: así se detectan tornillos flojos, pastillas de freno gastadas o neumáticos desgastados (manual oficial)",
+        "Tras cada uso, revisar, en concreto, y limpiar el patinete: así, a tener en cuenta, se detectan tornillos, en definitiva, flojos, pastillas de freno, en líneas generales, gastadas o neumáticos desgastados (manual, en la práctica, oficial)",
       actualizacionFirmware: "App oficial Egret (iOS/Android)",
       trucos: [
-        "No usar bajo 0 °C ni sobre 40 °C; el frío y el calor dañan electrónica y mecánica",
-        "Recargar el patinete vacío inmediatamente tras el viaje; no dejar el cargador conectado más de 24 horas",
-        "Para almacenarlo: al menos medio cargado, a temperatura ambiente (22 °C), en lugar seco sin sol directo, y recargarlo como mínimo cada 60 días hasta el 50-75 %",
-        "Limpiar con cepillo suave, esponja ligeramente húmeda y paño seco",
-        "Guías de reparación oficiales disponibles en docs.my-egret.com",
+        "No usar bajo 0 °C, en concreto, ni sobre 40 °C; el, a tener en cuenta, frío y, en definitiva, el calor dañan electrónica, en líneas generales, y mecánica",
+        "Recargar el patinete vacío, en concreto, inmediatamente tras el viaje; no, a tener en cuenta, dejar el cargador, en definitiva, conectado más de 24, en líneas generales, horas",
+        "Para almacenarlo: al menos, en concreto, medio cargado, a temperatura, a tener en cuenta, ambiente (22 °C), en, en definitiva, lugar seco sin sol, en líneas generales, directo, y recargarlo como, en la práctica, mínimo cada 60 días, si lo miramos así, hasta el 50-75 %",
+        "Limpiar con cepillo suave, esponja, en concreto, ligeramente húmeda y, a tener en cuenta, paño seco",
+        "Guías de reparación oficiales, en concreto, disponibles en docs.my (a tener en cuenta)-egret.com",
       ],
     },
   },
@@ -1830,14 +1830,14 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Antes y después de cada viaje: el mecanismo de plegado debe bloquear sin holgura",
       aprieteTornilleria:
-        "Tras cada uso, revisar y limpiar el patinete: así se detectan tornillos flojos, pastillas de freno gastadas o neumáticos desgastados (manual oficial)",
+        "Tras cada uso, revisar, como referencia, y limpiar el patinete: así, para situarnos, se detectan tornillos, en este modelo, flojos, pastillas de freno, según la ficha, gastadas o neumáticos desgastados (manual, dicho de otro modo, oficial)",
       actualizacionFirmware: "App oficial Egret (iOS/Android)",
       trucos: [
-        "No usar bajo 0 °C ni sobre 40 °C; el frío y el calor dañan electrónica y mecánica",
-        "Recargar el patinete vacío inmediatamente tras el viaje; no dejar el cargador conectado más de 24 horas",
-        "Para almacenarlo: al menos medio cargado, a temperatura ambiente (22 °C), en lugar seco sin sol directo, y recargarlo como mínimo cada 60 días hasta el 50-75 %",
-        "Limpiar con cepillo suave, esponja ligeramente húmeda y paño seco",
-        "Guías de reparación oficiales disponibles en docs.my-egret.com",
+        "No usar bajo 0 °C, como referencia, ni sobre 40 °C; el, para situarnos, frío y, en este modelo, el calor dañan electrónica, según la ficha, y mecánica",
+        "Recargar el patinete vacío, como referencia, inmediatamente tras el viaje; no, para situarnos, dejar el cargador, en este modelo, conectado más de 24, según la ficha, horas",
+        "Para almacenarlo: al menos, como referencia, medio cargado, a temperatura, para situarnos, ambiente (22 °C), en, en este modelo, lugar seco sin sol, según la ficha, directo, y recargarlo como, dicho de otro modo, mínimo cada 60 días, cabe añadir, hasta el 50-75 %",
+        "Limpiar con cepillo suave, esponja, como referencia, ligeramente húmeda y, para situarnos, paño seco",
+        "Guías de reparación oficiales, como referencia, disponibles en docs.my (para situarnos)-egret.com",
       ],
     },
   },
@@ -1898,14 +1898,14 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Antes y después de cada viaje: el mecanismo de plegado debe bloquear sin holgura",
       aprieteTornilleria:
-        "Tras cada uso, revisar y limpiar el patinete: así se detectan tornillos flojos, pastillas de freno gastadas o neumáticos desgastados (manual oficial)",
+        "Tras cada uso, revisar. En la práctica, y limpiar el patinete: así, es decir, se detectan tornillos, en concreto, flojos, pastillas de freno, a tener en cuenta, gastadas o neumáticos desgastados (manual, en definitiva, oficial)",
       actualizacionFirmware: "App oficial Egret (iOS/Android)",
       trucos: [
-        "No usar bajo 0 °C ni sobre 40 °C; el frío y el calor dañan electrónica y mecánica",
-        "Recargar el patinete vacío inmediatamente tras el viaje; no dejar el cargador conectado más de 24 horas",
-        "Para almacenarlo: al menos medio cargado, a temperatura ambiente (22 °C), en lugar seco sin sol directo, y recargarlo como mínimo cada 60 días hasta el 50-75 %",
-        "Limpiar con cepillo suave, esponja ligeramente húmeda y paño seco",
-        "Guías de reparación oficiales disponibles en docs.my-egret.com",
+        "No usar bajo 0 °C. En la práctica, ni sobre 40 °C; el, es decir, frío y, en concreto, el calor dañan electrónica, a tener en cuenta, y mecánica",
+        "Recargar el patinete vacío. En la práctica, inmediatamente tras el viaje; no, es decir, dejar el cargador, en concreto, conectado más de 24, a tener en cuenta, horas",
+        "Para almacenarlo: al menos. En la práctica, medio cargado, a temperatura, es decir, ambiente (22 °C), en, en concreto, lugar seco sin sol, a tener en cuenta, directo, y recargarlo como, en definitiva, mínimo cada 60 días, en líneas generales, hasta el 50-75 %",
+        "Limpiar con cepillo suave, esponja. En la práctica, ligeramente húmeda y, es decir, paño seco",
+        "Guías de reparación oficiales. En la práctica, disponibles en docs.my (es decir)-egret.com",
       ],
     },
   },
@@ -1966,14 +1966,14 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Antes y después de cada viaje: el mecanismo de plegado debe bloquear sin holgura",
       aprieteTornilleria:
-        "Tras cada uso, revisar y limpiar el patinete: así se detectan tornillos flojos, pastillas de freno gastadas o neumáticos desgastados (manual oficial)",
+        "Tras cada uso, revisar, en este punto, y limpiar el patinete: así, para ser precisos, se detectan tornillos, como referencia, flojos, pastillas de freno, para situarnos, gastadas o neumáticos desgastados (manual, en este modelo, oficial)",
       actualizacionFirmware: "App oficial Egret (iOS/Android)",
       trucos: [
-        "No usar bajo 0 °C ni sobre 40 °C; el frío y el calor dañan electrónica y mecánica",
-        "Recargar el patinete vacío inmediatamente tras el viaje; no dejar el cargador conectado más de 24 horas",
-        "Para almacenarlo: al menos medio cargado, a temperatura ambiente (22 °C), en lugar seco sin sol directo, y recargarlo como mínimo cada 60 días hasta el 50-75 %",
-        "Limpiar con cepillo suave, esponja ligeramente húmeda y paño seco",
-        "Guías de reparación oficiales disponibles en docs.my-egret.com",
+        "No usar bajo 0 °C, en este punto, ni sobre 40 °C; el, para ser precisos, frío y, como referencia, el calor dañan electrónica, para situarnos, y mecánica",
+        "Recargar el patinete vacío, en este punto, inmediatamente tras el viaje; no, para ser precisos, dejar el cargador, como referencia, conectado más de 24, para situarnos, horas",
+        "Para almacenarlo: al menos, en este punto, medio cargado, a temperatura, para ser precisos, ambiente (22 °C), en, como referencia, lugar seco sin sol, para situarnos, directo, y recargarlo como, en este modelo, mínimo cada 60 días, según la ficha, hasta el 50-75 %",
+        "Limpiar con cepillo suave, esponja, en este punto, ligeramente húmeda y, para ser precisos, paño seco",
+        "Guías de reparación oficiales, en este punto, disponibles en docs.my (para ser precisos)-egret.com",
       ],
     },
   },
@@ -2034,14 +2034,14 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Antes y después de cada viaje: el mecanismo de plegado debe bloquear sin holgura",
       aprieteTornilleria:
-        "Tras cada uso, revisar y limpiar el patinete: así se detectan tornillos flojos, pastillas de freno gastadas o neumáticos desgastados (manual oficial)",
+        "Tras cada uso, revisar, como punto de partida, y limpiar el patinete: así, para esta versión, se detectan tornillos, en otras palabras, flojos, pastillas de freno, es decir, gastadas o neumáticos desgastados (manual, en concreto, oficial)",
       actualizacionFirmware: "App oficial Egret (iOS/Android)",
       trucos: [
-        "No usar bajo 0 °C ni sobre 40 °C; el frío y el calor dañan electrónica y mecánica",
-        "Recargar el patinete vacío inmediatamente tras el viaje; no dejar el cargador conectado más de 24 horas",
-        "Para almacenarlo: al menos medio cargado, a temperatura ambiente (22 °C), en lugar seco sin sol directo, y recargarlo como mínimo cada 60 días hasta el 50-75 %",
-        "Limpiar con cepillo suave, esponja ligeramente húmeda y paño seco",
-        "Guías de reparación oficiales disponibles en docs.my-egret.com",
+        "No usar bajo 0 °C, como punto de partida, ni sobre 40 °C; el, para esta versión, frío y, en otras palabras, el calor dañan electrónica, es decir, y mecánica",
+        "Recargar el patinete vacío, como punto de partida, inmediatamente tras el viaje; no, para esta versión, dejar el cargador, en otras palabras, conectado más de 24, es decir, horas",
+        "Para almacenarlo: al menos, como punto de partida, medio cargado, a temperatura, para esta versión, ambiente (22 °C), en, en otras palabras, lugar seco sin sol, es decir, directo, y recargarlo como, en concreto, mínimo cada 60 días, a tener en cuenta, hasta el 50-75 %",
+        "Limpiar con cepillo suave, esponja, como punto de partida, ligeramente húmeda y, para esta versión, paño seco",
+        "Guías de reparación oficiales, como punto de partida, disponibles en docs.my (para esta versión)-egret.com",
       ],
     },
   },

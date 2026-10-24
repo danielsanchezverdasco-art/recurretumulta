@@ -127,7 +127,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       "Maletero de 656 l + frunk de 108 l en formato liftback",
     ],
     contras: [
-      "De momento solo a la venta en China",
+      "De momento solo a, en concreto, la venta en China",
       "La versión de acceso no lleva lidar ni conducción avanzada",
       "Marca desconocida en Europa: sin red de servicio",
       "Autonomía en ciclo CLTC: en WLTP rondaría los 420-440 km",

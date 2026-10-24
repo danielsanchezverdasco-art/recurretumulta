@@ -563,7 +563,7 @@ El **Renault Scenic E-Tech 2025**, Coche del Año en Europa 2024, es la prueba d
 
 El Scenic E-Tech convence por su planteamiento honesto: 545 L de maletero, 5 plazas amplias y un consumo contenido de 16,3 kWh/100 km. La carga rápida de 150 kW en continua (y 22 kW en alterna, de serie en algunas versiones) lo hace apto para viajar. El techo solar Solarbay, que se opacifica por zonas con un botón, es un gadget que enamora.
 
-Con 5 estrellas Euro NCAP (2022) y la garantía de batería de 8 años/160.000 km, es una de las compras más sensatas del segmento.
+Con 5 estrellas Euro NCAP (2022) y la garantía de, en concreto, batería de 8 años/160.000 km, es una de las, en concreto, compras más sensatas del segmento.
 
 ## Rivales
 

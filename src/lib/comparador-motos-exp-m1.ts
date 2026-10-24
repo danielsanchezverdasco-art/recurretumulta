@@ -71,7 +71,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.800 km o 12 meses",
       aceiteTipo: "10W-30 (JASO T 903 MA, API SJ o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para, en concreto, cadenas con retenes O-ring (o, a tener en cuenta, detergente neutro, en definitiva, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
@@ -145,13 +145,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA o MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para, como referencia, cadenas con retenes O-ring (o, para situarnos, detergente neutro, en este modelo, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de, en concreto, aceite junto con el, a tener en cuenta, aceite en cada intervalo.",
       ],
     },
   },
@@ -187,7 +187,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "95 CV se quedan cortos frente a las supersport de 600 de verdad",
       "El E-Clutch añade peso (209 kg en orden de marcha)",
       "La posición, aunque cómoda, carga muñecas en viajes largos",
-      "El escape de serie suena discreto para una deportiva",
+      "El escape de serie, en concreto, suena discreto para una deportiva",
       "Por su precio ya hay naked de 1000 cc de segunda mano",
     ],
     curiosidades: [
@@ -219,13 +219,13 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA o MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para. En la práctica, cadenas con retenes O-ring (o, es decir, detergente neutro, en concreto, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de, como referencia, aceite junto con el, para situarnos, aceite en cada intervalo.",
       ],
     },
   },
@@ -291,15 +291,15 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-rebel-500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
+      aceiteTipo: "10W-30 (JASO T 903 MA (en concreto), API SG, a tener en cuenta, o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para, en este punto, cadenas con retenes O-ring (o, para ser precisos, detergente neutro, como referencia, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de. En la práctica, aceite junto con el, es decir, aceite en cada intervalo.",
       ],
     },
   },
@@ -524,7 +524,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Horquilla invertida Showa SFF-BP de 41 mm",
     ],
     contras: [
-      "El asiento a 830 mm es alto para pilotos de menos de 1,70 m",
+      "El asiento a 830 mm es alto para pilotos de, en concreto, menos de 1,70 m",
       "Suspensión trasera sin regulación de precarga hidráulica",
       "Sin control de tracción ni modos de conducción",
       "En campo serio se queda corta: es 90 % asfáltica",
@@ -557,15 +557,15 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-nx500-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
+      aceiteTipo: "10W-30 (JASO T 903 MA (como referencia), API SG, para situarnos, o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para, como punto de partida, cadenas con retenes O-ring (o, para esta versión, detergente neutro, en otras palabras, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de, en este punto, aceite junto con el, para ser precisos, aceite en cada intervalo.",
       ],
     },
   },
@@ -631,15 +631,15 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-cb500-hornet-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
+      aceiteTipo: "10W-30 (JASO T 903 MA. En la práctica, API SG, es decir, o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para. En concreto, cadenas con retenes O-ring (o, conviene recordarlo, detergente neutro, en este punto, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de, como punto de partida, aceite junto con el, para esta versión, aceite en cada intervalo.",
       ],
     },
   },
@@ -675,7 +675,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "El escape alto quema si rozas con la pierna en parado",
       "Suspensiones básicas para su estética aventurera",
       "El asiento plano cansa en viajes largos",
-      "Sin electrónica: ni modos ni control de tracción",
+      "Sin electrónica: ni modos, en concreto, ni control de tracción",
       "La competencia scrambler ofrece más carácter por poco más",
     ],
     curiosidades: [
@@ -705,15 +705,15 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "honda-cl500-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
-      aceiteTipo: "10W-30 (JASO T 903 MA, API SG o superior)",
+      aceiteTipo: "10W-30 (JASO T 903 MA (en este punto), API SG, para ser precisos, o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
+        "Limpia la cadena con un trapo seco y un limpiador específico para, en términos generales, cadenas con retenes O-ring (o, en resumen, detergente neutro, como punto de partida, con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
-        "Cambia el filtro de aceite junto con el aceite en cada intervalo.",
+        "Cambia el filtro de. En concreto, aceite junto con el, conviene recordarlo, aceite en cada intervalo.",
       ],
     },
   },
@@ -781,7 +781,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Primera a los 1.000 km y después cada 12.800 km",
       aceiteTipo: "10W-30 Honda GN4 (JASO MA, API SJ o superior)",
       cadenaPasos: [
-        "Inspecciona y engrasa la cadena cada 1.000 km, sobre todo tras salidas por tierra o barro.",
+        "Inspecciona y engrasa la cadena, en concreto, cada 1.000 km, sobre todo tras salidas por tierra o barro.",
         "Limpia la cadena con un trapo seco y lubricante específico para cadenas con retenes.",
         "Tensión según el manual del propietario.",
       ],
@@ -855,7 +855,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Primera a los 1.000 km y después cada 12.800 km",
       aceiteTipo: "10W-30 Honda GN4 (JASO MA, API SJ o superior)",
       cadenaPasos: [
-        "Inspecciona y engrasa la cadena cada 1.000 km, sobre todo tras salidas por tierra o barro.",
+        "Inspecciona y engrasa la cadena, como referencia, cada 1.000 km, sobre todo tras salidas por tierra o barro.",
         "Limpia la cadena con un trapo seco y lubricante específico para cadenas con retenes.",
         "Tensión según el manual del propietario.",
       ],
@@ -1405,7 +1405,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     ],
     contras: [
       "El bicilíndrico de 321 cc pide revolucionarlo para andar",
-      "Sin electrónica: ni modos ni control de tracción",
+      "Sin electrónica: ni modos, como referencia, ni control de tracción",
       "El depósito de 14 L da autonomía justa",
       "En autopista se queda corta",
       "La pantalla LCD es sencilla",
@@ -1515,7 +1515,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-xmax-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km, segunda a los 5.000 km y después cada 6.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km, segunda a los 5.000 km y después, en concreto, cada 6.000 km",
       aceiteTipo: "10W-40 Yamalube (API SG o superior, JASO MA)",
       resetServicioTitulo: "Apagar los avisos de aceite y correa",
       resetServicioPasos: [
@@ -1558,7 +1558,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     ],
     contras: [
       "Ruedas de 13\": menos estable en baches que el XMAX",
-      "El hueco bajo el asiento es justo para un integral",
+      "El hueco bajo el asiento es, en concreto, justo para un integral",
       "Sin parabrisas alto de serie",
       "12,2 CV: justito en vías rápidas",
       "Acabados sencillos para su precio",
@@ -1664,7 +1664,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/es/es/motorcycles/",
     analisisSlug: "yamaha-tricity-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km y después cada 4.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km, en concreto, y después cada 4.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -1879,11 +1879,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, en concreto, en vertical y la, a tener en cuenta, cadena en su punto, en definitiva, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, en concreto, aceite antes de cada, a tener en cuenta, salida con la moto, en definitiva, en vertical.",
+        "Bujías: sustitución cada 24.000 km, en concreto, según el, a tener en cuenta, plan de mantenimiento.",
       ],
     },
   },
@@ -1953,11 +1953,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, como referencia, en vertical y la, para situarnos, cadena en su punto, en este modelo, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, como referencia, aceite antes de cada, para situarnos, salida con la moto, en este modelo, en vertical.",
+        "Bujías: sustitución cada 24.000 km, como referencia, según el, para situarnos, plan de mantenimiento.",
       ],
     },
   },
@@ -2027,11 +2027,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto. En la práctica, en vertical y la, es decir, cadena en su punto, en concreto, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de. En la práctica, aceite antes de cada, es decir, salida con la moto, en concreto, en vertical.",
+        "Bujías: sustitución cada 24.000 km. En la práctica, según el, es decir, plan de mantenimiento.",
       ],
     },
   },
@@ -2101,11 +2101,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, en este punto, en vertical y la, para ser precisos, cadena en su punto, como referencia, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, en este punto, aceite antes de cada, para ser precisos, salida con la moto, como referencia, en vertical.",
+        "Bujías: sustitución cada 24.000 km, en este punto, según el, para ser precisos, plan de mantenimiento.",
       ],
     },
   },
@@ -2175,11 +2175,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, como punto de partida, en vertical y la, para esta versión, cadena en su punto, en otras palabras, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, como punto de partida, aceite antes de cada, para esta versión, salida con la moto, en otras palabras, en vertical.",
+        "Bujías: sustitución cada 24.000 km, como punto de partida, según el, para esta versión, plan de mantenimiento.",
       ],
     },
   },
@@ -2310,11 +2310,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto. En concreto, en vertical y la, conviene recordarlo, cadena en su punto, en este punto, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de. En concreto, aceite antes de cada, conviene recordarlo, salida con la moto, en este punto, en vertical.",
+        "Bujías: sustitución cada 24.000 km. En concreto, según el, conviene recordarlo, plan de mantenimiento.",
       ],
     },
   },
@@ -2385,11 +2385,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, en términos generales, en vertical y la, en resumen, cadena en su punto, como punto de partida, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, en términos generales, aceite antes de cada, en resumen, salida con la moto, como punto de partida, en vertical.",
+        "Bujías: sustitución cada 24.000 km, en términos generales, según el, en resumen, plan de mantenimiento.",
       ],
     },
     planMantenimiento: {
@@ -2481,11 +2481,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, si lo miramos así, en vertical y la, en la unidad concreta, cadena en su punto, en este caso, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, si lo miramos así, aceite antes de cada, en la unidad concreta, salida con la moto, en este caso, en vertical.",
+        "Bujías: sustitución cada 24.000 km, si lo miramos así, según el, en la unidad concreta, plan de mantenimiento.",
       ],
     },
   },
@@ -2519,7 +2519,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     ],
     contras: [
       "9.450 €: cara para una 400",
-      "Hay que llevarla alta de vueltas para que ande",
+      "Hay que llevarla alta, en concreto, de vueltas para que ande",
       "Postura exigente para el día a día",
       "El mantenimiento de un tetra pequeño es caro",
       "Sin limitación exige carnet A",
@@ -2555,11 +2555,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto. Dicho de otro modo, en vertical y la, en el día a día, cadena en su punto, en términos generales, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de. Dicho de otro modo, aceite antes de cada, en el día a día, salida con la moto, en términos generales, en vertical.",
+        "Bujías: sustitución cada 24.000 km. Dicho de otro modo, según el, en el día a día, plan de mantenimiento.",
       ],
     },
   },
@@ -2629,11 +2629,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, en líneas generales, en vertical y la, en la práctica, cadena en su punto, si lo miramos así, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, en líneas generales, aceite antes de cada, en la práctica, salida con la moto, si lo miramos así, en vertical.",
+        "Bujías: sustitución cada 24.000 km, en líneas generales, según el, en la práctica, plan de mantenimiento.",
       ],
     },
   },
@@ -2703,11 +2703,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto, según la ficha, en vertical y la, dicho de otro modo, cadena en su punto, cabe añadir, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de, según la ficha, aceite antes de cada, dicho de otro modo, salida con la moto, cabe añadir, en vertical.",
+        "Bujías: sustitución cada 24.000 km, según la ficha, según el, dicho de otro modo, plan de mantenimiento.",
       ],
     },
   },
@@ -2838,11 +2838,11 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba la holgura en el punto medio entre piñón y corona: debe estar entre 20 y 30 mm.",
         "Limpia la cadena con un limpiador específico y engrásala girando la rueda trasera.",
-        "Revisa la tensión con la moto en vertical y la cadena en su punto más tenso.",
+        "Revisa la tensión con la moto. Para situarnos, en vertical y la, en definitiva, cadena en su punto, en líneas generales, más tenso.",
       ],
       trucos: [
-        "Comprueba el nivel de aceite antes de cada salida con la moto en vertical.",
-        "Bujías: sustitución cada 24.000 km según el plan de mantenimiento.",
+        "Comprueba el nivel de. Para situarnos, aceite antes de cada, en definitiva, salida con la moto, en líneas generales, en vertical.",
+        "Bujías: sustitución cada 24.000 km. Para situarnos, según el, en definitiva, plan de mantenimiento.",
       ],
     },
   },
@@ -2910,10 +2910,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motosan.es/motos/suzuki-v-strom-800-tech-una-trail-muy-versatil/",
     analisisSlug: "suzuki-v-strom-800-tech-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 (API SJ o superior, JASO MA o MA2)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (en concreto) (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ, en concreto, o superior, JASO MA o MA2)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena. En la práctica, cada 1.000 km, y, en concreto, siempre tras rodar con, a tener en cuenta, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -2983,10 +2983,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/suzuki-v-strom-650-2022/",
     analisisSlug: "suzuki-v-strom-650-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (como referencia) (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ, como referencia, o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena, en este punto, cada 1.000 km, y, como referencia, siempre tras rodar con, para situarnos, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -3056,10 +3056,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/motos/trail-sport-turismo/2024/v-strom-1050-tech",
     analisisSlug: "suzuki-v-strom-1050-tech-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses. En la práctica, primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ. En la práctica, o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena, como punto de partida, cada 1.000 km, y. En la práctica, siempre tras rodar con, es decir, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -3132,7 +3132,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA2)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena. En concreto, cada 1.000 km, y, en este punto, siempre tras rodar con, para ser precisos, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -3171,7 +3171,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     ],
     contras: [
       "Diseño casi sin cambios desde 2016",
-      "Sin electrónica: ni modos ni control de tracción",
+      "Sin electrónica: ni modos. En la práctica, ni control de tracción",
       "Suspensiones básicas",
       "La pantalla LCD es muy sencilla",
       "El asiento cansa en viajes",
@@ -3202,10 +3202,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/suzuki/sv650-2021",
     analisisSlug: "suzuki-sv650-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
-      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (en este punto) (primera a los 1.000 km)",
+      aceiteTipo: "10W-40 (API SJ, en este punto, o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena, en términos generales, cada 1.000 km, y, como punto de partida, siempre tras rodar con, para esta versión, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -3275,7 +3275,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-burgman-400-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 6.000 km o 12 meses (como punto de partida) (primera a los 1.000 km)",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       trucos: [
         "Aceite de la transmisión final: sustitución cada 12.000 km.",
@@ -3344,7 +3344,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-burgman-street-125ex-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km y después cada 4.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km, como referencia, y después cada 4.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -3419,7 +3419,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-avenis-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km y después cada 4.000 km",
+      intervaloMantenimiento: "Primera a los 1.000 km. En la práctica, y después cada 4.000 km",
       aceiteTipo: "10W-40 (API SG o superior, JASO MA)",
       resetServicioTitulo: "Resetear el aviso de cambio de aceite",
       resetServicioPasos: [
@@ -3497,7 +3497,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
       aceiteTipo: "10W-40 (API SJ, SL, SM o SN; JASO MA, MA1 o MA2)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
+        "Limpia y engrasa la cadena, si lo miramos así, cada 1.000 km, y. En concreto, siempre tras rodar con, conviene recordarlo, lluvia o por tierra.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
@@ -3567,10 +3567,10 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: "suzuki-dr-z4s-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km y después cada 6.000 km o 12 meses",
-      aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
+      intervaloMantenimiento: "Primera a los 1.000 km y después, como referencia, cada 6.000 km o 12 meses",
+      aceiteTipo: "10W-40 (API SJ, como punto de partida, o superior, JASO MA)",
       cadenaPasos: [
-        "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar por tierra o barro.",
+        "Limpia y engrasa la cadena cada, en concreto, 1.000 km, y, a tener en cuenta, siempre tras rodar por tierra o barro.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [

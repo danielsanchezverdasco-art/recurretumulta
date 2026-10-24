@@ -65,7 +65,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 223,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,3 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para compacto premium.",
+      notas: "15.000 km/año: energía 5,3 l/100 km × 1,85 €/l (en concreto); seguro y, a tener en cuenta, mantenimiento orientativos para compacto premium.",
       estimado: true
     },
     galeria: [
@@ -148,7 +148,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 233,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,2 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium compacto.",
+      notas: "15.000 km/año: energía 5,2 l/100 km × 1,85 €/l (como referencia); seguro y, para situarnos, mantenimiento orientativos para coupé premium compacto.",
       estimado: true
     },
     euroncap: {
@@ -158,7 +158,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Serie 2 Gran Coupé (F44) no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, en concreto, Service): el vehículo determina, a tener en cuenta, cuándo necesita mantenimiento según, en definitiva, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -240,7 +240,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 226,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 4,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina premium diésel.",
+      notas: "15.000 km/año: energía 4,9 l/100 km × 1,85 €/l. En la práctica, seguro y, es decir, mantenimiento orientativos para berlina premium diésel.",
       estimado: true
     },
     euroncap: {
@@ -250,7 +250,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW Serie 3 (G20), 2019",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, como referencia, Service): el vehículo determina, para situarnos, cuándo necesita mantenimiento según, en este modelo, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -302,7 +302,7 @@ export const COCHES_BMW: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "292 CV y 0-100 en 5,9 s: prestaciones de deportivo con etiqueta Cero",
-      "101 km de autonomía eléctrica: el día a día sin gastar una gota",
+      "101 km de autonomía eléctrica: el, en concreto, día a día sin gastar una gota",
       "Acceso libre a ZBE y aparcamiento bonificado en muchas ciudades",
       "Mismo tacto de Serie 3: no pierde dinamismo por ser híbrido",
       "En modo eléctrico es silencioso y muy suave en ciudad",
@@ -411,7 +411,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 229,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,0 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium diésel.",
+      notas: "15.000 km/año: energía 5,0 l/100 km × 1,85 €/l (en este punto); seguro y, para ser precisos, mantenimiento orientativos para coupé premium diésel.",
       estimado: true
     },
     galeria: [
@@ -494,7 +494,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 255,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,1 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina ejecutiva diésel.",
+      notas: "15.000 km/año: energía 5,1 l/100 km × 1,85 €/l (como punto de partida); seguro y, para esta versión, mantenimiento orientativos para berlina ejecutiva diésel.",
       estimado: true
     },
     euroncap: {
@@ -504,7 +504,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW Serie 5 (G60), 2024",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based. En la práctica, Service): el vehículo determina, es decir, cuándo necesita mantenimiento según, en concreto, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -758,7 +758,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW X1 (U11), 2022; el iX1 comparte carrocería",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, en este punto, Service): el vehículo determina, para ser precisos, cuándo necesita mantenimiento según, como referencia, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -1070,7 +1070,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW i4, 2022",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, como punto de partida, Service): el vehículo determina, para esta versión, cuándo necesita mantenimiento según, en otras palabras, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -1240,7 +1240,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 244,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV compacto premium.",
+      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l. En concreto, seguro y, conviene recordarlo, mantenimiento orientativos para SUV compacto premium.",
       estimado: true
     },
     euroncap: {
@@ -1250,7 +1250,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW X1 (U11), 2022",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based. En concreto, Service): el vehículo determina, conviene recordarlo, cuándo necesita mantenimiento según, en este punto, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -1335,7 +1335,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 244,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV coupé compacto premium.",
+      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l (en términos generales); seguro y, en resumen, mantenimiento orientativos para SUV coupé compacto premium.",
       estimado: true
     },
     galeria: [
@@ -1418,7 +1418,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 298,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 6,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV medio premium.",
+      notas: "15.000 km/año: energía 6,9 l/100 km × 1,85 €/l (si lo miramos así); seguro y, en la unidad concreta, mantenimiento orientativos para SUV medio premium.",
       estimado: true
     },
     euroncap: {
@@ -1428,7 +1428,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW X3 (G45), 2025",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, en términos generales, Service): el vehículo determina, en resumen, cuándo necesita mantenimiento según, como punto de partida, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -1508,7 +1508,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 363,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 8,5 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV grande premium.",
+      notas: "15.000 km/año: energía 8,5 l/100 km × 1,85 €/l. Dicho de otro modo, seguro y, en el día a día, mantenimiento orientativos para SUV grande premium.",
       estimado: true
     },
     galeria: [
@@ -1591,7 +1591,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 398,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año: energía 9,6 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV de lujo de 7 plazas.",
+      notas: "15.000 km/año: energía 9,6 l/100 km × 1,85 €/l (en líneas generales); seguro y, en la práctica, mantenimiento orientativos para SUV de lujo de 7 plazas.",
       estimado: true
     },
     galeria: [
@@ -1684,7 +1684,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el BMW XM no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based, si lo miramos así, Service): el vehículo determina, en la unidad concreta, cuándo necesita mantenimiento según, en este caso, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -1769,7 +1769,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 335,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con uso mixto: 60 % eléctrico (22 kWh/100 km × 0,18 €/kWh) y 40 % gasolina (10 l/100 km × 1,60 €/l); 15.000 km/año; todo riesgo y mantenimiento orientativos de berlina deportiva",
+      "notas": "estimación con uso mixto: 60 % eléctrico (22 kWh/100 km × 0,18 €/kWh) y 40 % gasolina (10 l/100 km × 1,60 (en concreto) €/l); 15.000, a tener en cuenta, km/año; todo riesgo y mantenimiento orientativos de berlina deportiva",
       "estimado": true
     },
     galeria: [
@@ -1915,7 +1915,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 293,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con uso mixto 50 % eléctrico (20 kWh/100 km × 0,18 €/kWh) y 50 % gasolina (9 l/100 km × 1,60 €/l); 15.000 km/año",
+      "notas": "estimación con uso mixto 50 % eléctrico (20 kWh/100 km × 0,18 €/kWh) y 50 % gasolina (9 l/100 km × 1,60 (como referencia) €/l); 15.000, para situarnos, km/año",
       "estimado": true
     },
     euroncap: {
@@ -1925,7 +1925,7 @@ export const COCHES_BMW: CocheComparador[] = [
       nota: "Prueba del BMW X5 (G05), 2018",
     },
     planMantenimiento: {
-      intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
+      intervalo: "CBS (Condition Based. Dicho de otro modo, Service): el vehículo determina, en el día a día, cuándo necesita mantenimiento según, en términos generales, el uso real",
       revisiones: [
         { nombre: "Revisión según CBS", queSeCambia: "Lo indicado por el cuadro de mandos: aceite y filtro de aceite, filtros, pastillas de freno, líquido de frenos e inspección general", costeAproxEur: null },
       ],
@@ -2012,7 +2012,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 347,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con consumo WLTP 7,5 l/100 km × 1,60 €/l; 15.000 km/año; todo riesgo y mantenimiento orientativos de compacto deportivo",
+      "notas": "estimación con consumo WLTP 7,5 l/100 km × 1,60. En la práctica, l; 15.000, es decir, km/año; todo riesgo y mantenimiento orientativos de compacto deportivo",
       "estimado": true
     },
     galeria: [

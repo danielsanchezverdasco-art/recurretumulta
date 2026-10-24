@@ -40,7 +40,7 @@ export const CAMPERS_DREAMER: CocheComparador[] = [
       "Marca de acceso del grupo Rapido: acabados más sencillos que en un Rapido",
       "Solo 3 plazas de noche de serie (la tercera, en la dinette)",
       "Cocina compacta con poco plano de trabajo",
-      "Red de concesionarios más pequeña que la de las grandes marcas",
+      "Red de concesionarios más pequeña, en concreto, que la de las grandes marcas",
     ],
     opiniones: [],
     galeria: [

@@ -106,7 +106,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el SL nunca ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o, en concreto, 25.000 km (Service, a tener en cuenta, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -115,12 +115,12 @@ const COCHES_LOTE12_A: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido, en concreto, de frenos + inspección completa",
           costeAproxEur: 650,
         },
       ],
       costeAnualAproxEur: 535,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento, en concreto, Mercedes-Benz (Service A/B, a tener en cuenta, alternos)",
     },
   },
   {
@@ -372,7 +372,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo + inspección general",
+          queSeCambia: "Aceite LongLife + filtro de, en concreto, aceite + filtro de habitáculo + inspección general",
           costeAproxEur: 280,
         },
         {
@@ -483,7 +483,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo + inspección general",
+          queSeCambia: "Aceite LongLife + filtro de, como referencia, aceite + filtro de habitáculo + inspección general",
           costeAproxEur: 280,
         },
         {
@@ -587,7 +587,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2024, válida para la generación F70.",
     },
     planMantenimiento: {
-      intervalo: "Según CBS (Condition Based Service), aprox. 24 meses o 30.000 km",
+      intervalo: "Según CBS (Condition, en concreto, Based Service), aprox. 24 meses, a tener en cuenta, o 30.000, en definitiva, km",
       revisiones: [
         {
           nombre: "Cambio de aceite + microfiltro",
@@ -601,7 +601,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "BMW Condition Based Service (CBS): el coche avisa según uso real",
+      fuente: "BMW Condition Based, en concreto, Service (CBS): el coche, a tener en cuenta, avisa según uso real",
     },
     fuenteNombre: "autonocion.com",
     fuenteUrl: "https://www.autonocion.com/opinion-y-prueba-bmw-serie-1-120d-2025/",
@@ -695,7 +695,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       nota: "4 estrellas EuroNCAP (2025) del BMW Serie 2 Gran Coupé (F74): 78% en protección de ocupantes adultos.",
     },
     planMantenimiento: {
-      intervalo: "Según CBS (Condition Based Service), aprox. 24 meses o 30.000 km",
+      intervalo: "Según CBS (Condition, como referencia, Based Service), aprox. 24 meses, para situarnos, o 30.000, en este modelo, km",
       revisiones: [
         {
           nombre: "Cambio de aceite + microfiltro",
@@ -709,7 +709,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "BMW Condition Based Service (CBS): el coche avisa según uso real",
+      fuente: "BMW Condition Based, como referencia, Service (CBS): el coche, para situarnos, avisa según uso real",
     },
     fuenteNombre: "bmw.es",
     fuenteUrl: "https://www.bmw.es/es/all-models/2-series/2-series-gran-coupe/datos-tecnicos-bmw-serie2-gran-coupe.html",
@@ -803,7 +803,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2019, válida para la generación G20/G21.",
     },
     planMantenimiento: {
-      intervalo: "Según CBS (Condition Based Service), aprox. 24 meses o 30.000 km",
+      intervalo: "Según CBS (Condition. En la práctica, Based Service), aprox. 24 meses, es decir, o 30.000, en concreto, km",
       revisiones: [
         {
           nombre: "Cambio de aceite + microfiltro",
@@ -817,7 +817,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "BMW Condition Based Service (CBS): el coche avisa según uso real",
+      fuente: "BMW Condition Based. En la práctica, Service (CBS): el coche, es decir, avisa según uso real",
     },
     fuenteNombre: "auto-data.net",
     fuenteUrl: "https://www.auto-data.net/es/bmw-3-series-sedan-g20-lci-facelift-2022-320d-190hp-mild-hybrid-steptronic-45820",
@@ -914,7 +914,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Serie 4 Coupé no ha sido probado (el Serie 3 de 2019 logró 5 estrellas).",
     },
     planMantenimiento: {
-      intervalo: "Según CBS (Condition Based Service), aprox. 24 meses o 30.000 km",
+      intervalo: "Según CBS (Condition, en este punto, Based Service), aprox. 24 meses, para ser precisos, o 30.000, como referencia, km",
       revisiones: [
         {
           nombre: "Cambio de aceite + microfiltro",
@@ -928,7 +928,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "BMW Condition Based Service (CBS): el coche avisa según uso real",
+      fuente: "BMW Condition Based, en este punto, Service (CBS): el coche, para ser precisos, avisa según uso real",
     },
   },
   {
@@ -1020,7 +1020,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el X4 no ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "Según CBS (Condition Based Service), aprox. 24 meses o 30.000 km",
+      intervalo: "Según CBS (Condition, como punto de partida, Based Service), aprox. 24 meses, para esta versión, o 30.000, en otras palabras, km",
       revisiones: [
         {
           nombre: "Cambio de aceite + microfiltro",
@@ -1034,7 +1034,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 300,
-      fuente: "BMW Condition Based Service (CBS): el coche avisa según uso real",
+      fuente: "BMW Condition Based, como punto de partida, Service (CBS): el coche, para esta versión, avisa según uso real",
     },
   },
   {
@@ -1130,7 +1130,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
-          queSeCambia: "Aceite LongLife + filtro de aceite + filtro de habitáculo",
+          queSeCambia: "Aceite LongLife + filtro de. En la práctica, aceite + filtro de habitáculo",
           costeAproxEur: 300,
         },
         {
@@ -1447,7 +1447,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2018, válida para la gama Clase A (W177).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o, como referencia, 25.000 km (Service, para situarnos, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1456,12 +1456,12 @@ const COCHES_LOTE12_D: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido, como referencia, de frenos + inspección completa",
           costeAproxEur: 590,
         },
       ],
       costeAnualAproxEur: 485,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento, como referencia, Mercedes-Benz (Service A/B, para situarnos, alternos)",
     },
   },
   {
@@ -1553,7 +1553,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2018, válida para la gama Clase A (W177).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o. En la práctica, 25.000 km (Service, es decir, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1562,12 +1562,12 @@ const COCHES_LOTE12_D: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido. En la práctica, de frenos + inspección completa",
           costeAproxEur: 590,
         },
       ],
       costeAnualAproxEur: 485,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento. En la práctica, Mercedes-Benz (Service A/B, es decir, alternos)",
     },
   },
   {
@@ -1659,7 +1659,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama Clase C (W206).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o, en este punto, 25.000 km (Service, para ser precisos, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1668,12 +1668,12 @@ const COCHES_LOTE12_D: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido, en este punto, de frenos + inspección completa",
           costeAproxEur: 590,
         },
       ],
       costeAnualAproxEur: 485,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento, en este punto, Mercedes-Benz (Service A/B, para ser precisos, alternos)",
     },
   },
   {
@@ -1765,7 +1765,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama Clase C (W206).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o, como punto de partida, 25.000 km (Service, para esta versión, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1774,12 +1774,12 @@ const COCHES_LOTE12_D: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido, como punto de partida, de frenos + inspección completa",
           costeAproxEur: 650,
         },
       ],
       costeAnualAproxEur: 535,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento, como punto de partida, Mercedes-Benz (Service A/B, para esta versión, alternos)",
     },
   },
   {
@@ -1871,7 +1871,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2019, válida para la gama Clase G.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o. En concreto, 25.000 km (Service, conviene recordarlo, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1880,12 +1880,12 @@ const COCHES_LOTE12_D: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido. En concreto, de frenos + inspección completa",
           costeAproxEur: 650,
         },
       ],
       costeAnualAproxEur: 535,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento. En concreto, Mercedes-Benz (Service A/B, conviene recordarlo, alternos)",
     },
   },
 ];
@@ -2083,7 +2083,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLS no ha sido probado (el GLE de 2019 logró 5 estrellas).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
+      intervalo: "12 meses o, en términos generales, 25.000 km (Service, en resumen, A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -2092,12 +2092,12 @@ const COCHES_LOTE12_E: CocheComparador[] = [
         },
         {
           nombre: "Service B",
-          queSeCambia: "Aceite + filtros + bujías + líquido de frenos + inspección completa",
+          queSeCambia: "Aceite + filtros + bujías + líquido, en términos generales, de frenos + inspección completa",
           costeAproxEur: 590,
         },
       ],
       costeAnualAproxEur: 485,
-      fuente: "Plan de mantenimiento Mercedes-Benz (Service A/B alternos)",
+      fuente: "Plan de mantenimiento, en términos generales, Mercedes-Benz (Service A/B, en resumen, alternos)",
     },
   },
   {

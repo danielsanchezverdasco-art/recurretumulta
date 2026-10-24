@@ -161,7 +161,7 @@ export const ANALISIS_MOTO_04: MapaAnalisis = {
     parrafos: [
       "SM significa supermotard, una disciplina nacida en Estados Unidos en los años setenta que mezcla asfalto y tierra, y la SM 700 2026 la interpreta a la manera de GasGas: el mismo monocilíndrico de 74 CV de la ES 700 en formato supermotard, con llantas de 17 pulgadas y neumáticos deportivos para brillar en curvas ratoneras. Cuesta 10.949 €.",
       "La postura erguida y el manillar ancho proporcionan un control total en ciudad, aunque el asiento alto y duro la hace incómoda para el pasajero y la ausencia de protección aerodinámica se nota en cuanto se sale a carretera abierta. Comparte base con la KTM 690 SMC R, la reina de las supermotard.",
-      "Con carnet A y etiqueta C, es la moto de quien se divierte trazando rotondas y puertos de montaña enlazados, no devorando autovías. Pura diversión monocilíndrica con el respaldo del grupo KTM y 693 cc de carácter. Quien busque una moto para todo conviene que mire hacia otro lado: la SM 700 solo entiende de diversión inmediata.",
+      "Con carnet A y, en concreto, etiqueta C, es la moto de quien se divierte trazando rotondas y puertos de montaña enlazados, no devorando autovías. Pura diversión monocilíndrica con el respaldo del grupo KTM y 693 cc de carácter. Quien busque una moto para todo conviene que mire hacia otro lado: la SM 700 solo entiende de diversión inmediata.",
     ],
     veredicto: "Para el amante de las curvas lentas y la ciudad que quiere la supermotard más divertida del grupo KTM.",
   },
@@ -225,7 +225,7 @@ export const ANALISIS_MOTO_04: MapaAnalisis = {
     parrafos: [
       "La Breakout 2025 es el chopper de fábrica de Harley-Davidson: un estilo nacido como homenaje a las dragster de los años setenta, con un enorme neumático trasero de 240 mm —de los más anchos montados en una moto de serie— que le otorga una presencia brutal. Es de las Harley que más miradas atrae, y eso en Milwaukee es mucho decir.",
       "El motor Milwaukee-Eight 117 de 1.923 cc entrega 103 CV con un par infinito desde abajo, perfecto para rodar con calma y contundencia. Pero la factura es seria: 32.700 €, 309 kg y una distancia entre ejes larga que la hacen torpe en ciudad y en curvas cerradas. Es una moto para lucirse en rectas y bulevares, no para puertos de montaña.",
-      "Con carnet A y etiqueta C, es la custom para quien compra con el corazón y quiere la Harley más espectacular del catálogo Softail. Nadie elige la Breakout por lógica; se elige por deseo, y en ese terreno es imbatible.",
+      "Con carnet A y, como referencia, etiqueta C, es la custom para quien compra con el corazón y quiere la Harley más espectacular del catálogo Softail. Nadie elige la Breakout por lógica; se elige por deseo, y en ese terreno es imbatible.",
     ],
     veredicto: "Para quien quiere la Harley más llamativa y espectacular, y asume su precio y su torpeza.",
   },

@@ -127,7 +127,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 140,
       notas:
-        "15.000 km/año cargando a diario en casa (0,18 €/kWh). Precio del coche no confirmado oficialmente.",
+        "15.000 km/año, en concreto, cargando a diario en, a tener en cuenta, casa (0,18 €/kWh). Precio del coche no confirmado oficialmente.",
       estimado: true,
     },
     galeria: [

@@ -106,8 +106,8 @@ motorización de 160 CV en opción, aunque en la gama 2026 el 140 CV es el motor
 depósito de gasóleo es de 90 litros y el conjunto se mueve con soltura gracias a un peso contenido
 propio de su carrocería estrecha.
 
-En precio y red comercial en España, Itineo no publica tarifa oficial para nuestro mercado, por lo
-que no es posible dar un precio de partida verificado: cada distribuidor aplica la tarifa francesa
+En precio y red comercial en España, Itineo no publica tarifa oficial, en concreto, para nuestro mercado, por, a tener en cuenta, lo
+que no, en concreto, es posible dar un, a tener en cuenta, precio de partida verificado: cada distribuidor aplica la tarifa francesa
 con sus adaptaciones. Como referencia, la prensa especializada francesa sitúa la gama Famili Compact
 2027 entre 75.900 € (CM660) y 83.900 € (CJ660 edición 20.º aniversario). En España la marca se
 comercializa a través de la red de distribuidores del grupo Rapido, con presencia en las principales
@@ -135,7 +135,7 @@ numerosas la propia Itineo ofrece el SBD700 o el SB740 en la gama Famili de anch
       "Mecánica Peugeot Boxer 140 CV probada, con servicio en toda Europa",
     ],
     contras: [
-      "Itineo no publica precio oficial en España: cada distribuidor aplica su tarifa",
+      "Itineo no publica precio oficial, en concreto, en España: cada distribuidor aplica su tarifa",
       "La estrechez resta amplitud al salón frente a integrales de 2,32-2,35 m",
       "Solo 4 plazas: insuficiente para familias de cinco o más",
       "El depósito de agua limpia de 110 l es justo para cuatro personas varios días",
@@ -249,8 +249,8 @@ típico de un integral, ofrece una visibilidad excelente que facilita la conducc
 salto desde un turismo, y el radio de giro contenido para sus casi siete metros permite maniobrar en
 campings sin ayuda externa.
 
-En precio y red comercial en España, Itineo no publica tarifa oficial para nuestro mercado, por lo
-que no es posible dar un precio de partida verificado. Como referencia, la prensa francesa lo situó
+En precio y red comercial en España, Itineo no publica tarifa oficial, como referencia, para nuestro mercado, por, para situarnos, lo
+que no, como referencia, es posible dar un, para situarnos, precio de partida verificado. Como referencia, la prensa francesa lo situó
 en su lanzamiento en torno a los 76.600 € y la tarifa 2027 de la gama Famili parte de 78.900 € para
 el SBD700. En España se comercializa a través de la red de distribuidores del grupo Rapido. Merece
 la pena negociar el pack de equipamiento familiar —que suele incluir toldo, portabicicletas y panel
@@ -277,7 +277,7 @@ compensa en parte.`,
       "Banqueta con Isofix y construcción de poliéster anti-granizo con 7 años de estanqueidad",
     ],
     contras: [
-      "Itineo no publica precio oficial en España: cada distribuidor aplica su tarifa",
+      "Itineo no publica precio oficial, como referencia, en España: cada distribuidor aplica su tarifa",
       "Las literas restan altura útil al garaje trasero frente a un integral con camas gemelas",
       "Con seis ocupantes y equipaje, el margen hasta los 3.500 kg exige controlar el peso",
       "El motor de 140 CV es justo si se viaja siempre a plena carga por autopista",

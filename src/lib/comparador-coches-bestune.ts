@@ -152,7 +152,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 254,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido, en concreto, desde yuanes (≈0,13 (a tener en cuenta) €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -557,7 +557,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 125,
       notas:
-        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido, como referencia, desde yuanes (≈0,13 (para situarnos) €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -713,7 +713,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 315,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido. En la práctica, desde yuanes (≈0,13 (es decir) €/CNY).",
       estimado: true,
     },
     galeria: [

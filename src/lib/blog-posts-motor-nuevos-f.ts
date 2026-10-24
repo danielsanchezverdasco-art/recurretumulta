@@ -508,7 +508,7 @@ Un matiz sobre el maletero: km77 publica 599 L (su propia medición), pero la **
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 503 km de autonomía WLTP, de las mejores del segmento | Consumo alto: 19,3 kWh/100 km |
+| 503 km de autonomía WLTP, de, en concreto, las mejores del segmento | Consumo alto: 19,3 kWh/100 km |
 | Garantía de batería de 10 años o 1.000.000 km | Marca en reconstrucción (ex-SsangYong) |
 | Batería LFP Blade de BYD: duradera y segura | Solo tracción delantera |
 | Maletero de 839 L según ficha oficial, enorme | Carga rápida de 120 kW, mejorable |
@@ -638,7 +638,7 @@ El **Actyon** recupera un nombre histórico de SsangYong para el nuevo KGM: un S
 | ✅ Pros | ❌ Contras |
 |---|---|
 | 204 CV con sistema híbrido desarrollado por BYD | Sin versión enchufable ni eléctrica |
-| Maletero de 668 L, de los más grandes del segmento | Marca poco conocida tras el cambio SsangYong → KGM |
+| Maletero de 668 L, de los más grandes del segmento | Marca poco conocida tras, en concreto, el cambio SsangYong → KGM |
 | Etiqueta ECO con 5,9 l/100 km | 1.735 kg para 204 CV |
 | Diseño coupé llamativo y 4,74 m de presencia | Red de concesionarios pequeña en España |
 | Precio con financiación desde 35.300 € | Sin opción de tracción total |

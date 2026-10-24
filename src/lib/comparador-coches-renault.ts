@@ -66,7 +66,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 131,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 3,9 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 3,9 l/100 km; 12.000, en concreto, km/año; gasolina, a tener en cuenta, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 146,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 4,6 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 4,6 l/100 km; 12.000, como referencia, km/año; gasolina, para situarnos, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -228,7 +228,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 149,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 4,7 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 4,7 l/100 km; 12.000. En la práctica, km/año; gasolina, es decir, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 169,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 5,8 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 5,8 l/100 km; 12.000, en este punto, km/año; gasolina, para ser precisos, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -390,7 +390,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 154,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 4,7 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 4,7 l/100 km; 12.000, como punto de partida, km/año; gasolina, para esta versión, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -714,7 +714,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 100,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo estimado aprox 15,5 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "consumo estimado aprox 15,5 kWh/100 km; 12.000, en concreto, km/año; carga, a tener en cuenta, en casa 0,18 €/kWh; estimado",
       "estimado": true
     },
     galeria: [
@@ -783,7 +783,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 114,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 19,2 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "consumo WLTP 19,2 kWh/100 km; 12.000, como referencia, km/año; carga, para situarnos, en casa 0,18 €/kWh; estimado",
       "estimado": true
     },
     galeria: [
@@ -866,7 +866,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 185,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 6,7 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 6,7 l/100 km; 12.000. En concreto, km/año; gasolina, conviene recordarlo, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -947,7 +947,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 98,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo estimado aprox 15 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "consumo estimado aprox 15 kWh/100 km; 12.000. En la práctica, km/año; carga, es decir, en casa 0,18 €/kWh; estimado",
       "estimado": true
     },
     galeria: [
@@ -1089,7 +1089,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 98,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 15,1 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "consumo WLTP 15,1 kWh/100 km; 12.000, en este punto, km/año; carga, para ser precisos, en casa 0,18 €/kWh; estimado",
       "estimado": true
     },
     galeria: [
@@ -1170,7 +1170,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 5,8 l/100 km; 12.000 km/año; gasolina 1,60 €/l; estimado",
+      "notas": "consumo WLTP 5,8 l/100 km; 12.000, en términos generales, km/año; gasolina, en resumen, 1,60 €/l; estimado",
       "estimado": true
     },
     galeria: [
@@ -1251,7 +1251,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
       "costeMensualTotal": 107,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "consumo WLTP 16,3 kWh/100 km; 12.000 km/año; carga en casa 0,18 €/kWh; estimado",
+      "notas": "consumo WLTP 16,3 kWh/100 km; 12.000, como punto de partida, km/año; carga, para esta versión, en casa 0,18 €/kWh; estimado",
       "estimado": true
     },
     galeria: [

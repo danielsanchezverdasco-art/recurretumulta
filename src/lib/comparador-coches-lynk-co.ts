@@ -387,7 +387,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "costeMensualTotal": 150,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento C-SUV; el modelo no se vende en España",
+      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento C-SUV; el modelo no, en concreto, se vende en España",
       "estimado": true
     },
     galeria: [
@@ -470,7 +470,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento B-SUV; el modelo no se vende en España",
+      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento B-SUV; el modelo no, como referencia, se vende en España",
       "estimado": true
     },
     galeria: [
@@ -636,7 +636,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "costeMensualTotal": 299,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año con consumo 7,9 l/100 km a 1,85 €/l; seguro y mantenimiento orientativos del segmento E-SUV; el modelo no se vende en España",
+      "notas": "estimado: 15.000 km/año con consumo 7,9 l/100 km a 1,85 €/l; seguro y mantenimiento orientativos del segmento E-SUV; el modelo no. En la práctica, se vende en España",
       "estimado": true
     },
     galeria: [
@@ -719,7 +719,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
       "costeMensualTotal": 221,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento F-SUV; el modelo no se vende en España",
+      "notas": "estimado: 15.000 km/año, 60 % de los km en modo eléctrico; seguro y mantenimiento orientativos del segmento F-SUV; el modelo no, en este punto, se vende en España",
       "estimado": true
     },
     galeria: [

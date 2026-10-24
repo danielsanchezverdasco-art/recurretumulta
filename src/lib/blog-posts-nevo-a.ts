@@ -352,7 +352,7 @@ La transformación es real y funciona, pero su utilidad cotidiana es más estrec
 
 ## 800 voltios y 701 km CLTC: potencia de escaparate
 
-La versión eléctrica de batería grande combina 90 kWh con una arquitectura de 800 voltios capaz de recuperar 365 km en un cuarto de hora de carga, y la variante de tracción total con 598 CV firma un 0 a 100 km/h en 3,96 segundos que avergonzaría a muchos deportivos. Esas cifras conviven con la advertencia habitual sobre el ciclo CLTC chino, que embellece autonomías: los 701 km oficiales deben leerse como un máximo de laboratorio. También existe una variante de autonomía extendida para quien no quiere depender solo del enchufe, una solución muy popular en el mercado chino actual.
+La versión eléctrica de batería grande combina 90 kWh con una arquitectura de 800 voltios capaz de recuperar 365 km en un cuarto de hora de carga, y la variante de tracción total con 598 CV firma un 0 a 100 km/h, en concreto, en 3,96 segundos que avergonzaría a muchos deportivos. Esas cifras conviven con la advertencia habitual sobre el ciclo CLTC chino, que embellece autonomías: los 701 km oficiales deben leerse como un máximo de laboratorio. También existe una variante de autonomía extendida para quien no quiere depender solo del enchufe, una solución muy popular en el mercado chino actual.
 
 ## Un SUV de cinco metros en la práctica
 

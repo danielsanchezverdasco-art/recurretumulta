@@ -74,7 +74,7 @@ De serie incluye pantalla central de gran formato, techo panorámico, cámaras 3
 
 ## Cuánto cuesta mantenerlo
 
-Estimación orientativa con 15.000 km al año: unos **122 €/mes**, desglosados en 39 € de electricidad (17,1 kWh/100 km a 0,18 €/kWh), 67 € de seguro a todo riesgo, 17 € de mantenimiento y el resto en impuestos. Como eléctrico con etiqueta Cero, se ahorra el impuesto de matriculación y entra gratis en todas las ZBE.
+Estimación orientativa con 15.000 km al año: unos **122 €/mes**, desglosados en 39 € de electricidad (17,1 kWh/100 km a, en concreto, 0,18 €/kWh), 67 € de seguro a todo riesgo, 17 € de mantenimiento y el resto en impuestos. Como eléctrico con etiqueta Cero, se ahorra el impuesto de matriculación y entra gratis en todas las ZBE.
 
 <img src=/media/lynk-co-z20-2025-precio-ficha-tecnica-interior.webp alt="Interior del Lynk & Co Z20 2025">
 
@@ -247,7 +247,7 @@ La gama eléctrica parte de los **24.900 €** del 44 kWh Edition (308 km WLTP) 
 
 ## Cuánto cuesta mantenerlo
 
-Estimación orientativa con 15.000 km al año: unos **120 €/mes**, con 41 € de electricidad (18 kWh/100 km a 0,18 €/kWh), 63 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero, sin impuesto de matriculación y acceso libre a las ZBE.
+Estimación orientativa con 15.000 km al año: unos **120 €/mes**, con 41 € de electricidad (18 kWh/100 km a, como referencia, 0,18 €/kWh), 63 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero, sin impuesto de matriculación y acceso libre a las ZBE.
 
 <img src=/media/opel-frontera-2024-precio-ficha-tecnica-interior.webp alt="Interior del Opel Frontera 2024">
 
@@ -340,7 +340,7 @@ Un dato clave: el Aion V europeo **se ensambla en la planta de Magna Steyr en Gr
 
 ## Cuánto cuesta mantenerlo
 
-Estimación orientativa con 15.000 km al año: unos **121 €/mes**, con 38 € de electricidad (16,7 kWh/100 km a 0,18 €/kWh), 67 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero y sin impuesto de matriculación.
+Estimación orientativa con 15.000 km al año: unos **121 €/mes**, con 38 € de electricidad (16,7 kWh/100 km, en concreto, a 0,18 €/kWh), 67 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero y sin impuesto de matriculación.
 
 <img src=/media/gac-aion-v-2024-precio-ficha-tecnica-interior.webp alt="Interior del GAC Aion V 2024">
 

@@ -165,7 +165,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 926,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año y consumo WLTP de 11,2 l/100 km (km77); seguro y mantenimiento orientativos para un superdeportivo híbrido",
+      "notas": "15.000 km/año, en concreto, y consumo WLTP de 11,2 l/100 km (km77); seguro y mantenimiento orientativos para un superdeportivo híbrido",
       "estimado": true
     },
     galeria: [
@@ -253,7 +253,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 652,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: estimado mixto 50 % eléctrico (39,5 kWh/100 km a 0,18 €/kWh) y 50 % gasolina (2,1 l/100 km a 1,85 €/l), con 15.000 km/año; depende mucho del hábito de carga",
+      "notas": "PHEV: estimado mixto 50 % eléctrico (39,5 kWh/100 km a, en concreto, 0,18 €/kWh) y 50 % gasolina (2,1 l/100 km a 1,85 €/l), con 15.000 km/año; depende mucho del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -422,7 +422,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 826,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año y consumo WLTP de 14,1 l/100 km (km77); solo mercado de ocasión/stock desde 2025",
+      "notas": "15.000 km/año, como referencia, y consumo WLTP de 14,1 l/100 km (km77); solo, en concreto, mercado de ocasión (a tener en cuenta)/stock desde 2025",
       "estimado": true
     },
     galeria: [
@@ -510,7 +510,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 777,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año y consumo WLTP de 14,5 l/100 km (km77); solo mercado de ocasión/stock",
+      "notas": "15.000 km/año. En la práctica, y consumo WLTP de 14,5 l/100 km (km77); solo, como referencia, mercado de ocasión (para situarnos)/stock",
       "estimado": true
     },
     galeria: [
@@ -747,7 +747,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 784,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año y consumo WLTP de 13,7 l/100 km (km77); solo mercado de ocasión/stock",
+      "notas": "15.000 km/año, en este punto, y consumo WLTP de 13,7 l/100 km (km77); solo. En la práctica, mercado de ocasión (es decir)/stock",
       "estimado": true
     },
     galeria: [
@@ -828,7 +828,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 786,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año y consumo WLTP de 13,8 l/100 km (km77); solo mercado de ocasión/stock",
+      "notas": "15.000 km/año, como punto de partida, y consumo WLTP de 13,8 l/100 km (km77); solo, en este punto, mercado de ocasión (para ser precisos)/stock",
       "estimado": true
     },
     galeria: [
@@ -1051,7 +1051,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 960,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 14,5 l/100 km (sin dato WLTP publicado; pieza de colección, apenas circula)",
+      "notas": "15.000 km/año; consumo supuesto de 14,5 l/100 km (sin, en concreto, dato WLTP publicado; pieza de colección, apenas circula)",
       "estimado": true
     },
     galeria: [
@@ -1132,7 +1132,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 865,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 14,0 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo supuesto de 14,0 l/100 km (sin dato, en concreto, WLTP publicado para esta, a tener en cuenta, versión)",
       "estimado": true
     },
     galeria: [
@@ -1213,7 +1213,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "costeMensualTotal": 1347,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 15,0 l/100 km (sin dato WLTP publicado; pieza de colección)",
+      "notas": "15.000 km/año; consumo supuesto de 15,0 l/100 km (sin, en concreto, dato WLTP publicado; pieza de colección)",
       "estimado": true
     },
     galeria: [

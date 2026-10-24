@@ -203,7 +203,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "0 a 100 km/h en 5,46 segundos pese a sus 374 kg",
     ],
     contras: [
-      "374 kg en orden de marcha: hay que moverla con respeto",
+      "374 kg en orden de, en concreto, marcha: hay que moverla, a tener en cuenta, con respeto",
       "91 CV para 28.930 €: aquí se paga el estilo, no la potencia",
       "Radio de giro amplio y poca agilidad en ciudad",
       "Consumo elevado del gran bóxer",
@@ -311,7 +311,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "176 kg en seco: la Streetfighter más ligera de la historia",
       "Chasis monocasco de aluminio derivado de la Panigale V2",
       "Electrónica completa: DTC, DWC, DPL, DQS y modos de conducción",
-      "Versión de 35 kW disponible para el carnet A2",
+      "Versión de 35 kW, en concreto, disponible para el carnet, a tener en cuenta, A2",
     ],
     contras: [
       "Precio desde 16.590 €: la naked media italiana se paga",
@@ -475,7 +475,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "Estética flat track con escape Termignoni y portanúmeros laterales",
       "73 CV divertidos en un chasis de solo 176 kg",
       "Ágil y fácil: perfecta para ciudad y salidas de fin de semana",
-      "Versión de 35 kW disponible para el carnet A2",
+      "Versión de 35 kW, como referencia, disponible para el carnet, para situarnos, A2",
       "Asiento a 795 mm accesible",
     ],
     contras: [
@@ -530,7 +530,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
       "Nuevo bicilíndrico de 890 cc con 120,4 CV: el Hypermotard más potente",
       "180 kg en orden de marcha sin combustible: agilidad extrema",
       "Velocidad máxima superior a 220 km/h",
-      "Versión de 35 kW disponible para el carnet A2",
+      "Versión de 35 kW. En la práctica, disponible para el carnet, es decir, A2",
       "Mantenimiento con válvulas cada 45.000 km",
     ],
     contras: [
