@@ -251,7 +251,7 @@ Es una división sensata: el conductor mantiene los ojos en la carretera con voz
 
 ## Por qué este movimiento importa más de lo que parece
 
-Spotify aportó en el anuncio dos cifras que explican la apuesta: el **34 % de sus usuarios mensuales** y el **77 % de sus suscriptores Premium** escuchan en el coche (datos de Spotify en su newsroom). El coche no es un escenario más para el streaming: es, junto al móvil, el escenario donde se juega la batalla por los oídos del usuario Premium.
+El coche no es un escenario más para el streaming: es, junto al móvil, el escenario donde se juega la batalla por los oídos del usuario Premium.
 
 A eso hay que sumar la escala. Los **47 mercados** cubiertos —Europa, América del Norte y del Sur, Asia, África y Australia (según Audi)— y los **777 millones de usuarios** dibujan el mayor desembarco de una app nativa de música en el automóvil hasta la fecha. Y hay una dimensión estratégica que no debería pasar desapercibida: Spotify avisa de que Audi es **el primer fabricante**, no el último. La compañía planea llevar la experiencia a más socios automovilísticos a lo largo del próximo año. Quien hoy ve a Audi como pionero verá mañana una carrera: el fabricante que no ofrezca una app nativa de música quedará atrás en la experiencia de a bordo.
 
@@ -275,7 +275,6 @@ El giro es revelador. Donde el Car Thing intentaba cubrir cualquier coche viejo 
 | Inicio de sesión con QR, sin emparejar el móvil para reproducir | ✅ Confirmado (Spotify) |
 | 47 mercados: Europa, América del Norte y del Sur, Asia, África y Australia | ✅ Confirmado (Spotify newsroom; Audi detalla los continentes) |
 | Vídeos, letras, Jam y DJ; restricciones en marcha, todo al aparcar | ✅ Confirmado (Spotify y Audi) |
-| 34 % de usuarios mensuales y 77 % de Premium escuchan en el coche | ✅ Confirmado (Spotify newsroom) |
 | 777 millones de usuarios; 300 millones Premium (Q2 2026) | ✅ Confirmado (Audi cita la cifra; Spotify la declaró en Q2 2026, vía MBW) |
 | Posible necesidad del paquete Audi connect | ⚠️ Aviso de Spotify: "may be required"; depende del mercado |
 | Q7 y Q9 con la app | ⏳ Anunciado (Audi); llegará con el lanzamiento de cada modelo |
