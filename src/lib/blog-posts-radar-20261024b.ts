@@ -196,6 +196,8 @@ El responsable de desarrollo de negocio automovilístico de Spotify, **Jonathan 
 
 Desde la otra orilla del anuncio, **Audi** presume de primicia: es **el primer fabricante del mundo** en integrar la experiencia nativa completa de Spotify directamente en el vehículo. El desarrollo se hizo en tándem con **Cariad**, la unidad de software del Grupo Volkswagen, sobre **Android Automotive OS**.
 
+Un matiz importante para no llevarse a engaño: **por ahora es solo Audi, no el resto del grupo Volkswagen**. Que Cariad sea del grupo no convierte esto en un lanzamiento para VW, Skoda, SEAT/CUPRA o Porsche: Spotify no ha anunciado ninguno de ellos para esta app nativa, solo dice que durante el próximo año la extenderá a más socios, sin nombres ni fechas. En un VW de hoy se puede escuchar Spotify por Android Auto o CarPlay, como siempre, pero eso no es esta app nativa, que corre instalada en el propio coche.
+
 Audi traza una línea clara entre lo anterior y lo nuevo. Hasta ahora, la tienda de apps de la marca incluía una versión de Spotify **basada en plantillas** —layouts y controles estandarizados—. La app nativa, en cambio, ofrece una interfaz más completa y una gama más amplia de contenido, adaptada a las pantallas múltiples del coche. Las funciones nuevas "por primera vez" son, según Audi: **vídeos musicales, letras en tiempo real, Spotify Jam y Spotify DJ**, que se ajustan automáticamente según el vehículo esté circulando o parado.
 
 Los modelos soportados se reparten entre las dos arquitecturas recientes de la marca: la **Premium Platform Electric (PPE)** para los eléctricos y la **Premium Platform Combustion (PPC)** para los modelos de combustión. Esa cobertura dual es la que permite que la app llegue a la vez a eléctricos puros y a modelos térmicos, algo que los propietarios de A5, Q5 y A6 de combustión apreciarán: no es una novedad exclusiva de la gama eléctrica.
@@ -278,6 +280,7 @@ El giro es revelador. Donde el Car Thing intentaba cubrir cualquier coche viejo 
 | 777 millones de usuarios; 300 millones Premium (Q2 2026) | ✅ Confirmado (Audi cita la cifra; Spotify la declaró en Q2 2026, vía MBW) |
 | Posible necesidad del paquete Audi connect | ⚠️ Aviso de Spotify: "may be required"; depende del mercado |
 | Q7 y Q9 con la app | ⏳ Anunciado (Audi); llegará con el lanzamiento de cada modelo |
+| Resto del grupo Volkswagen (VW, Skoda, SEAT/CUPRA, Porsche) | ⏳ No anunciado para esta app nativa: solo Audi por ahora |
 | Más fabricantes en 2027 | ⏳ Planes de Spotify: "this is just the beginning" |
 | Funciones exactas de la pantalla del acompañante por acabado | ⏳ Sin detallar: depende del equipamiento del coche |
 | Versión anterior basada en plantillas desde 2023 | 📰 Reportado por MBW: el Audi Application Store ya incluía una versión de Spotify desde 2023 |
