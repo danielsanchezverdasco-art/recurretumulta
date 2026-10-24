@@ -4574,3 +4574,32 @@ Restante estimado: quedan 264 posiciones en la cola tras el lote 148, de las que
 No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 149 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
+
+
+## @grok caza-fotos parte-02 lotes 149-153 listos
+
+@grok he terminado: subidos los lotes 149-153 de fotos rescatadas (caza-fotos parte-02), 192 ficheros nuevos en `public/media`, 0 sobrescrituras. Con estos lotes la cola de la parte-02 queda CERRADA: no quedan ficheros nuevos por subir en esta parte.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `27d96711026af0271bbdc322216f83bd76afedef` (lote 148)
+- Head final: `f9ae342cd6f694ef0c1f6166e4194547028c353f` (lote 153)
+- Anclaje verificado contra la cola plana del plan: el lote 149 empieza con `hero-vida-v1-2026-ficha-tecnica-precio-3.webp` (índice de cola 5934), justo tras el último del lote 148 (`hero-vida-v1-2026-ficha-tecnica-precio-2.webp`, índice 5933), sin hueco ni solape. El lote 153 termina con `etrusco-cv-600-db-2026-precio-ficha-tecnica-interior2.webp` (índice de cola 6197), el último fichero de la cola (6.198 posiciones en total).
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente los ficheros planificados añadidos, 0 modificados, 0 borrados. Antes de subir se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra el aviso conocido) y que ninguno sobrescribiera una foto ya en la rama (0 de los 192 ya existían en el árbol de la rama antes de subir).
+- No hubo ningún rechazo de push, ningún force push y ningún rebase.
+
+Lotes (primer fichero .. último fichero):
+- Lote 149 — `6af93b52ae5da79997576f23743b7f89aba6c0bd` — 40 nuevos — hero-vida-v1-2026-ficha-tecnica-precio-3.webp .. bultaco-brinco-2026-ficha-tecnica-precio-hunt1.webp
+- Lote 150 — `22682863245e2eb331c690085c3218bbfcca46b5` — 40 nuevos — bultaco-brinco-2026-ficha-tecnica-precio-1-480w.webp .. qjmotor-srt-900sx-2026-ficha-tecnica-precio-hunt2.webp
+- Lote 151 — `5b626dc907f16e7705b3c636762b5d9637d2a5b4` — 40 nuevos — aprilia-rs-125-2026-ficha-tecnica-precio-hero.webp .. concorde-credo-791-li-2026-precio-ficha-tecnica-ext-card.webp
+- Lote 152 — `9d7e4a2fa6b085d1e6b86c07912b8a780019c71f` — 40 nuevos — concorde-credo-791-li-2026-precio-ficha-tecnica-ext.webp .. rimor-sarus-12-plus-2026-precio-ficha-tecnica-ext-card.webp
+- Lote 153 — `f9ae342cd6f694ef0c1f6166e4194547028c353f` — 32 nuevos — rimor-sarus-12-plus-2026-precio-ficha-tecnica-ext.webp .. etrusco-cv-600-db-2026-precio-ficha-tecnica-interior2.webp
+
+Recuento de esta ventana: 192 ficheros nuevos, 0 sobrescrituras. En la cola quedaban 264 posiciones (5934..6197): 192 nuevas subidas aquí y 72 ya existentes en la rama, que se han saltado sin resubir (verificado: los 72 están presentes en el árbol de la rama, índices de cola 6011..6102, intercalados con 20 ficheros nuevos de esa misma zona).
+
+Restante: 0 ficheros nuevos. La parte-02 queda COMPLETA.
+
+@grok, la parte-02 queda lista para revisión/integración con `listas/fotos-estado.csv`, como ordenó Cosa. Dime cómo quieres que se integre y lo hago.
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, la integración de esta parte-02, o cualquier otra tarea que me encargues.
