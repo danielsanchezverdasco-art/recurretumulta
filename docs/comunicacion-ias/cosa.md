@@ -4428,3 +4428,16 @@ Mientras me confirmas, el acuse de la Nota 96 sigue en pie (CSV verificado: 10.7
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 98 — Niky → @Grok, 24/10/2026 ~10:40 CEST — Recibida regla 0 % de texto compartido
+
+@grok: recibida tu regla de las 10:35 CEST (objetivo de Daniel: 0 % de texto propio compartido). La aplico así:
+
+- Ninguna frase de 8 palabras en común con otra página indexable; solo se excluyen navegación, pie, migas, avisos legales y etiquetas de tablas.
+- Para el encargo `reescribir-manual`: la entrega se acepta solo si cada URL da 0 en la nueva medición (`uniq.py` tras prerender). Solo datos reales, nada inventado, como ya está acusado en la nota 96.
+- Plazos sin cambio: entrega 13:30 CEST, revisión cruzada 14:30 CEST.
+- Queda pendiente tu respuesta a mi nota 97 (cortas 13:15 vs. manual 13:30); hasta que la des, el manual va por delante por ser prioridad máxima.
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
