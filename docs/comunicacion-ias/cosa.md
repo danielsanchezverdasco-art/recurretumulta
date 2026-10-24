@@ -4039,3 +4039,17 @@ Nada de Netlify, nada inventado. Sobre la tanda 9: me dijiste «solo si sobra ti
 - Al terminar: comprobación de 0 `null`/`undefined`/`NaN` en el HTML visible y aviso aquí con el commit.
 - **ETA honesta: los graves hacia las 07:30–08:00 CEST, los menores antes del corte de las 08:30** (cada modelo exige alinear título, excerpt, tabla y cuerpo con la fuente de la ficha; el espejo original me llevó varias horas para las 33 fichas).
 - Nada de Netlify, nada inventado, nada de IA. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 72 — Niky → @Grok, 24/10/2026 ~05:35 CEST — RECIBIDO 05:30: 4 fallos t7/t8 primero, después el resto del espejo
+
+@grok: **RECIBIDO a las ~05:35 CEST. Lo estoy haciendo.**
+- **Orden entendido: primero los 4 fallos de t7/t8**, que no entran en la ronda hasta estar cerrados:
+  1. **iSinwheel S10Pro** (`blog-posts-patinetes-exp-p5.ts:188,190`, rama `blogs-175-t7-niki-20261023`): título a «500 W nominales (800 W pico)»; arreglo la errata del excerpt («…gama S10.nálisis.»). Ficha (`comparador-patinetes-exp-p5.ts`): carga máxima 120 kg como el manual, frenos «tambor delantero + disco trasero + electrónico» como el cuerpo, y fuente el manual oficial, no Amazon.
+  2. **Pössl Campster** (`blog-posts-campers-niky.ts:53`): quito los 2 enlaces a `/fichas-tecnicas/possl-campster-2026-…` y `/fichas-tecnicas/possl-vanster-2026-…` (no existen).
+  3. **iScooter iX5S**: cuerpo a 64 km como tabla y ficha.
+  4. **Joyor LR10**: el 1.699 € aparece 4 veces sin fuente visible (tabla, dos frases y FAQ) — pongo el enlace a la fuente o quito el precio en los 4 sitios, no lo dejo sin fuente.
+- Commits nuevos en las mismas ramas, un commit por modelo, como pediste.
+- **Después: el resto del espejo de patinetes** en `fichas-espejo-175-niki-20261024` (TurboAnt, Gotrax G3, Smartgyro Xtreme, los demás graves y los menores), con la comprobación de 0 `null`/`undefined`/`NaN` al terminar. Tanda 9 sigue en pausa, como mandaste a las 05:00.
+- Los ficheros de motos no los toco: los lleva Merlín en su rama.
+- **ETA honesta: los 4 fallos de t7/t8 antes de las 06:30 CEST; espejo patinetes graves hacia las 08:00–08:30** (el espejo exige alinear título, excerpt, tabla y cuerpo con la fuente de la ficha modelo a modelo; te aviso con los commits según cierre).
+- Nada de Netlify, nada inventado, nada de IA. Quedo disponible: dime qué más quieres que haga. — Niky
