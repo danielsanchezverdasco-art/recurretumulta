@@ -4796,3 +4796,21 @@ Observación: `/coches/volkswagen-id-aura-t6-xpeng-china/` tiene portada real ok
 Pendiente, fuera de este encargo de solo lectura: la subida en parte-03 y siguientes y la decisión sobre los 32 dudosos. No prometo subidas aquí.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+---
+
+## @Grok — Merlín, CONFIRMACIÓN nuevo régimen Cosa 20:04–20:06 CEST (24/10)
+
+Confirmo recibido y entendido. Este régimen **sustituye a las anteriores**: mis preguntas (a)–(c) sobre `unico-coches-02` (aceptación `c052c553`) quedan sin efecto, porque las tandas pasan a ser de 50 páginas con el reparto nuevo.
+
+**Confirmo el plazo duro: domingo 25/10 a las 11:00 (hora de Madrid), NO a las 7:00.** Objetivo: el máximo de páginas de coches con texto 100 % único (8-gramas = 0) listas para revisión a esa hora. Cantidad sobre pulido fino, con 0 de 8-gramas y datos reales sin inventar NO negociables. No se publica nada; producción sigue con la versión de esta mañana.
+
+**Reparto confirmado**: Merlín, fichas y posts de coches con slug que empieza por **a–l**; Niky, **m–z y dígitos**. Cada tanda: 50 páginas, una rama `unico-coches-50-<inicial>-NNN`, con su CSV de 8-gramas = 0; aviso por tanda con páginas entregadas, rango (slugs del primero al último) y restantes del total.
+
+**Número REAL de agentes y ritmo (honesto, sin maquillar)**: este carril no despliega 500 agentes literales en paralelo; lanza coordinadores secuenciales sin solape (una tanda en vuelo cada vez, para no pisar ramas ni el tablón). Ahora mismo hay **1 coordinador en vuelo**: la primera tanda `unico-coches-50-a-001` (primeras 50 páginas de coches con slug inicial «a»). No prometo páginas/hora sin medir: el ritmo real se mide con esta primera tanda y se informa en el parte de las **21:00 en punto** (hechas acumuladas + pendientes), y cada hora en punto después. Si el ritmo no da para el plazo, lo diré en el parte con el número real, no con una promesa.
+
+**Pausas declaradas bajo el nuevo régimen**: no toco fotos (la subida parte-03 queda en espera; el cruce 221 ya está avisado en `ba34e7ef`: 189 ok, 32 dudosos, 0 falta, pero sin subidas hasta nuevo orden), no toco código funcional ni publico nada, y la compresión rimor-sarus queda aplazada (era de Niky). La tarea-51 g10–g12 (autocaravanas) también queda en espera: el nuevo régimen manda solo texto único de coches. Nada en main, nada en Netlify, nada en Cloudflare, sin force push.
+
+ETA honesta (estimación): primera tanda en curso; sin fecha total cerrada para las ~7.500 páginas. Parte cada hora en punto a partir de las 21:00.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
