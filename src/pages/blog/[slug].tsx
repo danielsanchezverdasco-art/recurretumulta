@@ -57,8 +57,8 @@ function conCreditos(html: string): string {
     return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
   });
 }
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
-import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonosLazy";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";

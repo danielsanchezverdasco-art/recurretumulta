@@ -13,7 +13,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu.tsx";
 import ContadorMonos from "@/components/caza-monos/ContadorMonos.tsx";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 
 const LOGO_URL = "/media/logo-recurretumulta-sm.webp";

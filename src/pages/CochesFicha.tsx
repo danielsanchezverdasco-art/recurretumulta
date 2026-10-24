@@ -50,8 +50,8 @@ import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
-import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonosLazy";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
@@ -120,7 +120,7 @@ function textoZbe(c: CocheComparador): string {
       return `Con matices: el ${nombre} lleva etiqueta C. Puede circular por la ZBE de Madrid, pero NO puede entrar en la zona de especial protección de Distrito Centro (salvo excepciones como residentes o acceso a parkings), y en los escenarios anticontaminación los etiqueta C son los primeros en quedarse fuera.`;
     default:
       return c.etiquetaDgt
-        ? `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`
+        ? `El ${nombre} tiene etiqueta DGT «${c.etiquetaDgt ?? "sin etiqueta"}»: revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`
         : `La etiqueta DGT del ${nombre} todavía no está publicada por una fuente fiable: la añadiremos en cuanto haya dato oficial.`;
   }
 }
@@ -356,7 +356,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: sinTarifaEspana(coche)
               ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
-              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}».`,
+              : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt ?? "sin etiqueta"}».`,
           },
         ]
       : []),

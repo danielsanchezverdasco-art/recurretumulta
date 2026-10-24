@@ -3,7 +3,7 @@ import { Fragment } from "react";
 import { Link } from "react-router-dom";
 import { Camera, MessageCircle } from "lucide-react";
 import { useTranslation } from "react-i18next";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import FirmaEditorial, { type EditorialProps } from "@/components/eeat/FirmaEditorial.tsx";
 

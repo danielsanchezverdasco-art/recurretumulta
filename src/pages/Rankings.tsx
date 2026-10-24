@@ -300,7 +300,7 @@ export default function Rankings() {
                     </span>
                   </p>
                   <p className="mt-1 text-xs text-gray-500">
-                    {c.tipo} · {c.categoria} · {c.etiquetaDgt}
+                    {c.tipo} · {c.categoria} · {c.etiquetaDgt ?? "sin etiqueta"}
                   </p>
                 </div>
               </MorphCard>

@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { CosaAvatar } from "@/components/Cosa.tsx";
 import { AVATAR_COSA_404 } from "@/lib/cosa.ts";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 
 export default function NotFound() {

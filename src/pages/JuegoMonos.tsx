@@ -284,6 +284,7 @@ function JuegoMonosPage() {
     title: "Encuentra los monos y gana 1.500 €",
     description: "Caza de monos: 350 monos escondidos por la web. El 1º en encontrar los 350 gana 1.500 € + 1 año de recursos ilimitados; quien encuentre el mono dorado, 1 año gratis.",
     canonical: "/juego-monos",
+    noindex: true,
     image: "https://recurretumulta.online/media/og-caza-monos-1500e.jpg",
     keywords: ["caza de monos", "juego", "premio 1500 euros", "gana dinero"],
   });

@@ -384,7 +384,7 @@ function generarMotivo(top: CochePresupuesto, grupo: CochePresupuesto[], presupu
     .reduce((a, b) => ((a.maleteroL ?? 0) >= (b.maleteroL ?? 0) ? a : b), grupo[0]);
 
   if (top.id === masBarato.id && (top.etiquetaDgt === "ECO" || top.etiquetaDgt === "Cero")) {
-    return `El más barato con etiqueta ${top.etiquetaDgt}: entra en tu presupuesto y en las ZBE.`;
+    return `El más barato con etiqueta ${top.etiquetaDgt ?? "sin etiqueta"}: entra en tu presupuesto y en las ZBE.`;
   }
   if (top.id === masBarato.id) {
     return `El que más presupuesto deja en el bolsillo: ${top.precioDesde.toLocaleString("es-ES")} €.`;
@@ -400,7 +400,7 @@ function generarMotivo(top: CochePresupuesto, grupo: CochePresupuesto[], presupu
     return `Etiqueta Cero con ${eurosLibres.toLocaleString("es-ES")} € de margen en tu presupuesto.`;
   }
   if (top.potenciaCv !== null && top.potenciaCv >= 150) {
-    return `${top.potenciaCv} CV con etiqueta ${top.etiquetaDgt}: potencia y eficiencia sin salirte del presupuesto.`;
+    return `${top.potenciaCv} CV con etiqueta ${top.etiquetaDgt ?? "sin etiqueta"}: potencia y eficiencia sin salirte del presupuesto.`;
   }
   return `La mejor combinación de precio, consumo y etiqueta por debajo de ${presupuesto.toLocaleString("es-ES")} €.`;
 }

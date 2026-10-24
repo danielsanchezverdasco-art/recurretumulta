@@ -15,7 +15,7 @@ import { useTranslation as d } from "react-i18next";
 import { cn as b } from "@/lib/utils.ts";
 import { Button as ne } from "@/components/ui/button.tsx";
 import { Link as S } from "react-router-dom";
-import w from "@/components/caza-monos/MonoEscondido.tsx";
+import w from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId as T } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { CosaAvatar as E } from "@/components/Cosa.tsx";
 import { Card as O, CardContent as D } from "@/components/ui/card.tsx";

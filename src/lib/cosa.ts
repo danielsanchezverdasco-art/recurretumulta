@@ -167,7 +167,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
       clave: "eficiencia",
       etiqueta: "Eficiencia (estimada por etiqueta DGT)",
       puntos: p,
-      nota: p != null ? `etiqueta ${input.etiquetaDgt} (estimación)` : "—",
+      nota: p != null ? `etiqueta ${input.etiquetaDgt ?? "sin etiqueta"} (estimación)` : "—",
     });
   } else {
     crudos.push({ clave: "eficiencia", etiqueta: "Consumo", puntos: null, nota: "—" });

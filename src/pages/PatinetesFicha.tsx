@@ -42,8 +42,8 @@ const SpecBar = lazy(() => import("@/components/motion.tsx").then((m) => ({ defa
 const Speedometer = lazy(() => import("@/components/motion.tsx").then((m) => ({ default: m.Speedometer })));
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
-import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
+import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonosLazy";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";

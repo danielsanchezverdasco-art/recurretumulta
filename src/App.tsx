@@ -10,7 +10,7 @@ import WhatsAppBubble from "./components/whatsapp-bubble.tsx";
 // convex/react en el chunk inicial (07/10/2026, PageSpeed). Retorna null.
 const ReferralCapture = lazy(() => import("./components/creadores/ReferralCapture.tsx"));
 import { CazaMonosProvider } from "./components/caza-monos/CazaMonosContext.tsx";
-import MonoEscondido from "./components/caza-monos/MonoEscondido.tsx";
+import MonoEscondido from "./components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId } from "./components/caza-monos/CazaMonosContext.tsx";
 // Caza de monos (05/10/2026): el JS del juego va en chunk diferido para no tocar
 // el LCP (exigencia de Daniel). El provider (contexto) sí es estático y ligero.

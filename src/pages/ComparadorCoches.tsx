@@ -9,7 +9,7 @@ import HeroVS from "@/components/HeroVS.tsx";
 import BarraComparar from "@/components/BarraComparar.tsx";
 import DueloVS, { type FilaDuelo } from "@/components/DueloVS.tsx";
 import { elegirCosaIndice, type NotaCosaInput } from "@/lib/cosa.ts";
-import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
+import MonoEscondido from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CompartirBotones from "@/components/CompartirBotones.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
