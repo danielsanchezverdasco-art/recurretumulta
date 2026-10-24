@@ -1052,8 +1052,16 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["Con 702 km de autonomía CLTC y 530 CV con tracción total, hace el 0 a 100 km/h en 4,3 segundos sin dejar de ser una berlina pensada para ir detrás", "Mide 5.480 mm y anuncia 3.370 mm de batalla, y esta configuración renuncia a la quinta plaza: solo 4 asientos para dar todo el espacio a la fila trasera", "El conjunto Huawei ADS con LiDAR y el habitáculo de representación lo colocan frente al Mercedes-Maybach Clase S, no frente a una berlina eléctrica al uso", "La dirección a las cuatro ruedas y la suspensión neumática activa tienen aquí un trabajo muy concreto: hacer maniobrable una carrocería de 5,48 m de largo"],
-    contras: ["En España no hay compra oficial posible: Maextro no tiene red comercial ni de servicio en Europa, así que cualquier unidad llegaría por importación paralela", "Sus 2.000 mm de ancho y sus 5.480 mm de largo castigan en aparcamientos, garajes y calles estrechas, por mucho que ayude el eje trasero direccional", "No existe nota EuroNCAP que lo respalde: sin ensayo independiente publicado, su seguridad en choque no se puede comparar con la de sus rivales europeos", "Estrena marca, alianza Huawei-JAC y modelo a la vez: no hay historial de fiabilidad, recambios ni valor de reventa en Europa para un gasto cercano a los 130.000 € aproximados de la ficha"],
+    pros: [
+      "Con 702 km CLTC, 530 CV y tracción total, el sprint a 100 km/h se resuelve en 4,3 s",
+      "La batalla de 3.370 mm deja solo 4 asientos y todo el espacio para atrás",
+      "El equipo Huawei ADS con LiDAR la enfrenta al Maybach, no a una berlina corriente",
+      "Dirección trasera y suspensión neumática activa doman los 5,48 m de carrocería",],
+    contras: [
+      "Sin red comercial Maextro en Europa, comprarla aquí exige importación paralela",
+      "Los 2,00 m de ancho y 5,48 m de largo castigan garajes y calles estrechas",
+      "No hay ensayo EuroNCAP publicado que permita comparar su seguridad en choque",
+      "Marca, alianza Huawei-JAC y modelo son nuevos: sin historial de fiabilidad ni reventa en Europa",],
     imagen: "/media/maextro-s800-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/maextro-s800-2024-precio-ficha-tecnica-interior.webp",
