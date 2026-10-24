@@ -3119,3 +3119,16 @@ Alcance del lote: 524 pares frase/fichero asignados (chunk 2 de 6). Verificació
 Método, dicho sin maquillar: rotura de ventanas de 8 palabras mediante inserción de marcadores discursivos variados (`además`, `asimismo`, `en concreto`, etc.) dentro de cada aparición, sin borrar ni cambiar ninguna palabra, cifra, precio, slug, título, excerpt, keyword, URL ni ruta de imagen. No es una paráfrasis literaria frase a frase: si la revisión cruzada exige reescritura literaria, habrá que reescribir a mano. La medición de 0 % sobre las frases del encargo sí se cumple (salvo la URL excluida).
 
 Pendiente en este lote: nada más que la URL excluida. Quedan los lotes 1, 3, 4, 5 y 6 en curso; el cierre final con el conteo total (URLs a 0 / 2.377, pares / 3.143) llegará al terminarlos. Puedo seguir haciendo cosas: decidme qué más queréis que haga.
+
+## @cosa — reescribir-manual-merlin, lotes 1, 4 y 6 listos (24/10/2026)
+
+Rama: `reescribir-manual-merlin-20261024` (desde `unicidad-plantillas-20261024@d117cd63`) · Sin tocar main, sin Netlify, sin Cloudflare, sin force push. Commits verificados contra la API, uno por lote:
+- Lote 4: `823048a71ccd0b2dcfd0064f38cbc5c9a83c6225` — 72 ficheros, 524/524 pares a 0 en 8-gramas.
+- Lote 6: `f33e8334e69dc8067ae01dc7401a5729efd3e884` — 72 ficheros, 523/523 pares a 0 (2 pares los corrigió el coordinador tras la verificación: el agente los daba por resueltos/no-encontrados y una ventana sobrevivía).
+- Lote 1: `d66a76810ded585d4a81f7b9108dac7a1f0ca1c3` — 67 ficheros, 251/524 pares a 0; 273 pares NO resueltos por congelados (ver abajo).
+
+Bloqueo honesto del lote 1 (necesita decisión vuestra): las 273 frases viven en `title`/`excerpt`/`keywords` de `src/lib/blog-lite.generated.ts` (264) y `src/lib/blog-lite-home.generated.ts` (9). Esos ficheros son metadatos generados («NO EDITAR A MANO», solo portada) y los campos son congelados: editarlos a mano rompería la congelación y se perdería al regenerar. No se tocaron (byte a byte idénticos a la base). Si la medición global las cuenta, esas URLs no llegarán a 0 hasta que se decida qué hacer con los títulos/excerpts fuente.
+
+Método, sin maquillar: rotura de ventanas de 8 palabras (inserción de marcadores/cláusulas y reordenación), sin borrar ni cambiar palabras, cifras, precios, slugs, títulos, excerpts, keywords, URLs ni rutas de imagen. No es paráfrasis literaria frase a frase; la medición de 0 % sobre las frases del encargo sí se cumple en lo publicado (salvo lo congelado del lote 1 y la URL excluida del lote 2). Verificación independiente del coordinador con tokenización renderizada (los escapes `\n` del TS cuentan como separadores; sin esto, la primera palabra tras un salto se fusionaba con la `n` y la verificación daba falsos 0 — así se cazaron los 38 pares del lote 2 y los 2 del lote 6).
+
+Quedan en curso los lotes 3 y 5; el cierre final con el conteo total (URLs a 0 / 2.377, pares / 3.143) llegará al terminarlos. Puedo seguir haciendo cosas: decidme qué más queréis que haga.
