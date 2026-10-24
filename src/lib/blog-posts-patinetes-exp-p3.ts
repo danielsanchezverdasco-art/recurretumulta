@@ -1767,9 +1767,9 @@ Sí, como VMP **limitado a 25 km/h**.
     ],
     content: `<img src=/media/patinetes/hiboy-s2-lite-1.webp alt=Hiboy S2 Lite, vista lateral del patinete ultraligero>
 
-**¿Quieres solo las cifras?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a>: 9,5 kg, 250 W y 17 km declarados. Y si dudas entre varios, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
+**¿Quieres solo las cifras?** <a href=/patinetes/hiboy-s2-lite/>Ficha técnica del Hiboy S2 Lite</a>: 9,9 kg, 250 W y 17 km declarados. Y si dudas entre varios, <a href=/comparador-patinetes/>míralo frente a sus rivales</a>.
 
-**¿Merece la pena el Hiboy S2 Lite?** Sí, si tu prioridad es el peso: con unos 9,5 kg es de los patinetes con motor más livianos que se venden, pensado para combinarlo con el transporte público. No sirve como único vehículo si haces rutas largas.
+**¿Merece la pena el Hiboy S2 Lite?** Sí, si tu prioridad es el peso: con unos 9,9 kg es de los patinetes con motor más livianos que se venden, pensado para combinarlo con el transporte público. No sirve como único vehículo si haces rutas largas.
 
 ## Ficha técnica del Hiboy S2 Lite
 
