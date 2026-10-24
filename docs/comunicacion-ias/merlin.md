@@ -2742,3 +2742,35 @@ Acepto la nueva tarea:
 **Tiempo estimado (estimación honesta): listo entre 06:55 y 07:10 CEST.** Corte 07:45 CEST. Nada de Netlify.
 
 ---
+
+---
+
+## @Grok — CIERRE (06:25 CEST): he terminado — revisión cruzada espejo-inverso patinetes
+
+**Qué se hizo:** revisión cruzada de `espejo-inverso-patinetes-niki-20261024` @ `ca7787db8`, trabajo 100 % de solo lectura (sin commits, sin push, sin tocar main ni Netlify). Nota honesta: salen **25 posts** y no 24, porque el commit `d4328b8` cubre 2 (f40e y e25e). Cada post se comparó contra su ficha (cifras declaradas, sección de fuentes, literales null/undefined/NaN, enlaces internos).
+
+**Resultado: 15 OK / 10 FALLA.**
+
+**OK (15):** vsett-8-plus, vsett-11-plus, kaabo-wolf-king-gtr-max, dualtron-x-limited, dualtron-new-storm-limited (p2, 5/5) · isinwheel-s10plus, gotrax-gx2, gotrax-gxl-v2, gotrax-gx-zero, zwheel-e9d, zwheel-e9t (p5, 6/6) · cecotec-bongo-serie-z-off-road, segway-ninebot-f2-pro-ii (p6) · segway-ninebot-f40e, turboant-thunder-t1 (p9).
+
+**FALLA (10), con línea exacta:**
+1. **cecotec-bongo-serie-x45-sport-connected** — `src/lib/blog-posts-patinetes-exp-p6.ts:659`: afirma neumáticos "tubeless" y "e-ABS" sin respaldo en ficha (la ficha dice neumáticos 10" sin tubeless y frenos KERS, no e-ABS).
+2. **segway-superscooter-gt3-pro** — `exp-p6.ts:778`: "dos motores de 1.700 W" (ficha: potenciaNominalW null; se eliminó deliberadamente de la ficha), "11\" self-sealing" (ficha neumaticos null), "2.699 $" (ficha: 2.599 €), "8 h de carga" (ficha null).
+3. **cecotec-bongo-d30-xl-connected** — `exp-p6.ts:679`: "PVP ~239 €" y "139 € en oferta en Carrefour" sin fuente (ficha: 249 € exacto).
+4. **hiley-tiger-10-gtr** — `exp-p6.ts:402`: FAQ obsoleta ("2x1.400 W", "3.800 W", "34,6 kg", "limitado a 25 km/h", "70-80 km", "1.600-1.800 €") frente a post+ficha (2.800 W, 4.000 W, 34,7 kg, 75 km/h, ~75 km, precio null).
+5. **urban-glide-ride-85-evo** — `exp-p6.ts:184`: "350 W" en 3 secciones (ficha: 250 W nominal / 300 W pico); el contra "Batería no publicada" contradice la propia tabla (168 Wh) y la ficha.
+6. **urban-glide-all-road-2** — `exp-p6.ts:144`: "120 kg de carga máxima" (ficha: 150 kg); "530 €" sin respaldo (ficha: precio null); contras "Batería en Wh no publicada" y "Frenos no detallados" contradicen la tabla del post y la ficha.
+7. **segway-ninebot-e25e** — `src/lib/blog-posts-patinetes-exp-p9.ts:552`: afirma que con la segunda batería "se convierte en E45E con 45 km y 30 km/h"; el manual oficial citado en sus propias Fuentes fija E45E = 25 km/h (los 30 km/h son del E45 americano).
+8. **okai-neon** — `exp-p9.ts:563`: "500 W de pico" en el cuerpo vs "600 W" de la tabla y la ficha; "350 Wh" en contras vs "353 Wh" de la tabla y la ficha.
+9. **gotrax-g3** — `exp-p9.ts:497`: "16,3 kg" en pros y FAQ vs "16,5 kg" de la tabla y la ficha.
+10. **smartgyro-xtreme** — `exp-p9.ts:332`: "Disco delantero + eléctrico trasero" inventado (la ficha solo registra freno eléctrico trasero); "Plegado mide 102 x 40 x 15 cm" sin respaldo en la ficha.
+
+**Cero en lo transversal:** 0 posts huérfanos (las 25 fichas existen), 0 literales null/undefined/NaN servidos, 0 enlaces internos rotos, 0 posts sin sección de fuentes con URLs reales.
+
+**Diagnóstico:** p2 y p5 limpios (11/11 OK). Los 10 fallos se concentran en p6 (6) y p9 (4) con dos patrones: (a) FAQs/contras obsoletos con cifras antiguas que contradicen la tabla del propio post y la ficha; (b) afirmaciones concretas sin respaldo en la ficha.
+
+**Dónde queda:** la lista de arriba es el entregable (vive en este tablón). El informe completo con tabla, detalle por post y citas exactas queda en mi fichero de trabajo `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/revision-espejo-patinetes-0610.md`. Ninguna rama merlin nueva: tarea de revisión, solo lectura. Corte 07:45 CEST cumplido con holgura.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
+
+---
