@@ -4542,3 +4542,35 @@ Restante estimado: quedan 664 posiciones en la cola tras el lote 138, de las que
 No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 139 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
+
+
+## @grok fotos: caza-fotos parte-02 lotes 139-148 listos
+
+@grok he terminado: subidos los lotes 139-148 de fotos rescatadas (caza-fotos parte-02), 400 ficheros nuevos en `public/media`, 0 sobrescrituras, 0 ficheros saltados en esta ventana.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `fba1b69ce448424d5c30b5aef12399b2c74f3e9f` (lote 138)
+- Head final: `27d96711026af0271bbdc322216f83bd76afedef` (lote 148)
+- Anclaje verificado contra la cola plana del plan: el lote 139 empieza con `voge-300rally-2024-ficha-tecnica-precio-oficial-3.webp` (índice de cola 5534), justo tras el último del lote 138 (`voge-300rally-2024-ficha-tecnica-precio-oficial-2.webp`, índice 5533), sin hueco ni solape.
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente 40 ficheros añadidos, 0 modificados, 0 borrados, y el conjunto de ficheros exacto al planificado. Antes de subir se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra el aviso conocido) y que ninguno sobrescribiera una foto REAL ya en la rama.
+- No hubo ningún rechazo de push, ningún force push y ningún rebase.
+
+Lotes (primer fichero .. último fichero, 40 nuevos cada uno):
+- Lote 139 — `2b38ab62af003eb4b1ce8af0d984229a3894332b` — voge-300rally-2024-ficha-tecnica-precio-oficial-3.webp .. kawasaki-z-h2-se-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 140 — `d6ab6a02275079a88db2da69fc0dcae22c13cc1c` — kawasaki-z-h2-se-2025-ficha-tecnica-precio-oficial-3.webp .. sur-ron-light-bee-x-2025-ficha-tecnica-precio-3.webp
+- Lote 141 — `0600cb8af2a45b21a9dff9ba683673a6ddbdfa6b` — sur-ron-light-bee-x-2025-ficha-tecnica-precio-hunt2.webp .. alrendo-ts-bravo-2025-ficha-tecnica-precio-1-828w.webp
+- Lote 142 — `da6ad59457f4ca597c93aa5612185085cc20ef7a` — alrendo-ts-bravo-2025-ficha-tecnica-precio-1-card.webp .. felo-fw-06-2025-ficha-tecnica-precio-hunt3.webp
+- Lote 143 — `4d2af0d0d45f617f90d1d731b3f3809316183054` — ovaobike-mcr-s-2025-ficha-tecnica-precio-hunt1.webp .. honda-u-go-2025-ficha-tecnica-precio-1-card.webp
+- Lote 144 — `fe2869a5c092ef73349855038948576957013395` — honda-u-go-2025-ficha-tecnica-precio-1.webp .. ather-450x-2025-ficha-tecnica-precio-hunt2.webp
+- Lote 145 — `65a3dd79d1c65bbb869a63ed155fb645e47dd96a` — ather-450x-2025-ficha-tecnica-precio-hunt3.webp .. rieju-aventura-500-legend-2026-ficha-tecnica-precio-1-828w.webp
+- Lote 146 — `5c1c8881bee5a0530f4b003c297d0c281749b440` — rieju-aventura-500-legend-2026-ficha-tecnica-precio-1-card.webp .. mutt-mastiff-125-2026-ficha-tecnica-precio-3.webp
+- Lote 147 — `457af35e537f170fd083219bafe0e1cdb05ee4db` — mutt-mastiff-125-2026-ficha-tecnica-precio-hunt2.webp .. bsa-bantam-350-2026-ficha-tecnica-precio-1-480w.webp
+- Lote 148 — `27d96711026af0271bbdc322216f83bd76afedef` — bsa-bantam-350-2026-ficha-tecnica-precio-1-828w.webp .. hero-vida-v1-2026-ficha-tecnica-precio-2.webp
+
+Recuento: 400 ficheros nuevos, 0 sobrescrituras, 0 saltados en los lotes 139-148. Los 72 ficheros del plan que ya existen en la rama quedan más adelante en la cola (índices 6011 en adelante) y se saltarán cuando la cola los alcance, sin resubirlos.
+
+Restante estimado: quedan 264 posiciones en la cola tras el lote 148, de las que 72 ya están en la rama (a saltar), es decir 192 ficheros nuevos netos. El lote 149 empezaría por el fichero del índice de cola 5934 (siguiente tras `hero-vida-v1-2026-ficha-tecnica-precio-2.webp`, índice 5933).
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 149 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
