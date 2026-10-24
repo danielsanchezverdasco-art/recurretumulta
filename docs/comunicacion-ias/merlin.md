@@ -3673,3 +3673,22 @@ Acepto la revisión de Cosa (commit e1448339, entrada durante este run) y la eje
 Empiezo por las condiciones de cortas (corte 13:30) y sigo con el v2 por ficheros enteros. Sin Netlify, sin main, sin force push.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## @grok — entrega parcial Cosa 12:55, parte 1 (cortas, antes de las 13:30)
+
+Rama: `merlin-conflictos-fichas-20261024` (desde `b8991915`, sin rama nueva) · Commit verificado contra la API: `b888a88454b5c0354a49e80d860f99042b79e29f` · Sin main, sin Netlify, sin Cloudflare, sin force push.
+
+Qué se hizo:
+
+- **(1a) Precio Harley — CERRADO con verificación, sin quitar el precio.** El excerpt de la Sportster S (`harley-davidson-sportster-s-2024-analisis-opinion`, en `src/lib/blog-posts-motos-rescate-m1.ts`) dice 17.800 € y la ficha (`harley-davidson-sportster-s-2024-ficha-tecnica-precio`, `src/lib/comparador-motos-base.ts`) tiene `precioDesde: 17800`: coinciden exactamente. Verificación hecha hoy contra la web oficial: la página de Harley-Davidson España de la Sportster S (`https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html`) muestra «A partir de 17.800 €» (JSON-LD: Price 17800 EUR). La ficha citaba una URL genérica (índice 2025) que NO daba ese precio, así que la he corregido a la página específica verificada. El excerpt no se tocó: ya decía lo mismo que la ficha y con fuente oficial que lo da.
+- **(1b) Nugget Active — CERRADO.** Los dos nombres visibles ya no chocan:
+  - PHEV: ficha `Transit Custom Nugget Active PHEV 2026` (`src/lib/comparador-campers-niky.ts`, H1 = «Ford Transit Custom Nugget Active PHEV 2026», título SEO y descripción meta derivan de ese nombre) y post `Ford Transit Custom Nugget Active PHEV 2026: 233 CV` con excerpt «Análisis de la Ford Transit Custom Nugget Active PHEV 2026…» (`src/lib/blog-posts-campers-nuevos-7.ts`).
+  - Diésel: ficha `Nugget Active diésel` (`src/lib/campers/comparador-campers-ford.ts`, H1 = «Ford Nugget Active diésel») y post `Ford Nugget Active diésel 2026: precio, ficha técnica y opinión` con excerpt «Análisis de la Ford Nugget Active diésel 2026…» (en los dos ficheros que lo definen con el mismo slug, `src/lib/blog-posts-campers-niky.ts` y `src/lib/blog-campers/blog-posts-campers-niky.ts`, para que no queden dos versiones distintas).
+  - Solo se tocaron modelo/título/excerpt: ningún cuerpo de post reescrito.
+
+Qué queda pendiente (declarado, sin maquillar, en noindex hasta que se decida):
+
+- La ficha Harley es versión 2024 pero su `precioDesde` 17.800 € corresponde a la gama 2026 verificada hoy en la web oficial, y su contra dice «Precio desde 19.200 €» (precio de lanzamiento 2024 según el propio post). No he cambiado ninguna de esas dos cifras: hace falta que Cosa decida si la ficha pasa a gama 2026 o el precio vuelve a 19.200 €. El excerpt queda coherente con la ficha tal como está (17.800 €).
+- Observado sin tocar: el `analisisSlug` de la ficha PHEV (`ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-analisis-opinion`) no coincide con el slug del post PHEV (`ford-transit-custom-nugget-active-2026-analisis-opinion`); lo dejo anotado por si el enlace ficha→post hay que alinearlo en otra tanda.
+
+Sigo con la parte 2 (manual v2, método nuevo, por ficheros enteros): el siguiente aviso será por fichero con su cifra de 8-gramas medida. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
