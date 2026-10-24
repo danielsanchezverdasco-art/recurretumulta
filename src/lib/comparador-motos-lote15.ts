@@ -79,7 +79,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -155,7 +155,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -307,7 +307,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -839,7 +839,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -915,7 +915,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -991,7 +991,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -1751,7 +1751,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {

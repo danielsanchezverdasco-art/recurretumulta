@@ -63,7 +63,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 450,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,1 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,1 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 459,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,5 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,5 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -222,7 +222,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 455,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,3 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,3 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -298,7 +298,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 488,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,5 l/100 km WLTP × 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,5 l/100 km WLTP a 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -374,7 +374,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 554,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 11,5 l/100 km WLTP × 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. Peso aproximado. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 11,5 l/100 km WLTP a 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. Peso aproximado. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -440,7 +440,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 577,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 13,8 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche (el uso en circuito encarece neumáticos y frenos). No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 13,8 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche (el uso en circuito encarece neumáticos y frenos). No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -516,7 +516,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 610,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 13,4 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche (uso en circuito no incluido). No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 13,4 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche (uso en circuito no incluido). No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -592,7 +592,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 496,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,8 l/100 km WLTP × 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,8 l/100 km WLTP a 1,85 €/l (el T-Hybrid no se enchufa); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -668,7 +668,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 208,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 16,7 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 16,7 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -749,7 +749,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 236,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 17,6 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 17,6 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -813,7 +813,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 265,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 17,8 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 17,8 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -890,7 +890,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 309,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 20,6 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 20,6 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -966,7 +966,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 238,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 18,7 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 18,7 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1042,7 +1042,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 439,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 9,6 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 9,6 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1113,7 +1113,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 283,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 3,0 l/100 km WLTP × 1,85 €/l; en un enchufable el coste real depende del hábito de carga (cargando a diario en casa baja mucho). Seguro y mantenimiento estimados en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 3,0 l/100 km WLTP a 1,85 €/l; en un enchufable el gasto real depende del hábito de carga (cargando a diario en casa baja mucho). Seguro y mantenimiento estimados en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1179,7 +1179,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 327,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 3,5 l/100 km WLTP × 1,85 €/l; en un enchufable el coste real depende del hábito de carga. Seguro y mantenimiento estimados en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 3,5 l/100 km WLTP a 1,85 €/l; en un enchufable el gasto real depende del hábito de carga. Seguro y mantenimiento estimados en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1243,7 +1243,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 207,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 17,8 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 17,8 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1298,7 +1298,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 237,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 18,3 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 18,3 kWh/100 km WLTP × 0,18 €/kWh (carga doméstica); todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1365,7 +1365,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 464,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,7 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,7 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1431,7 +1431,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 303,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 3,9 l/100 km WLTP × 1,85 €/l; en un enchufable el coste real depende del hábito de carga (cargando a diario en casa baja mucho). Seguro y mantenimiento estimados en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 3,9 l/100 km WLTP a 1,85 €/l; en un enchufable el gasto real depende del hábito de carga (cargando a diario en casa baja mucho). Seguro y mantenimiento estimados en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1507,7 +1507,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 467,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 10,8 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa para 15.000 km/año: energía = 10,8 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1583,7 +1583,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 355,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 4,7 l/100 km WLTP × 1,85 €/l; en un enchufable el coste real depende del hábito de carga (sin cargar, el V8 supera los 12 l/100 km reales). Seguro y mantenimiento estimados en red oficial Porsche. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 4,7 l/100 km WLTP a 1,85 €/l; en un enchufable el gasto real depende del hábito de carga (sin cargar, el V8 supera los 12 l/100 km reales). Seguro y mantenimiento estimados en la red oficial Porsche. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1659,7 +1659,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       costeMensualTotal: 552,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación orientativa con 15.000 km/año: energía = 12,7 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. Modelo de fin de serie: solo unidades en stock. No son tarifas reales.",
+      notas: "Estimación orientativa con 15.000 km/año: energía = 12,7 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. Modelo de fin de serie: solo unidades en stock. No son tarifas reales.",
       estimado: true,
     },
     galeria: [
@@ -1735,7 +1735,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "costeMensualTotal": 271,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 20,5 kWh/100 km WLTP (aprox.) × 0,18 €/kWh; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 20,5 kWh/100 km WLTP (aprox.) × 0,18 €/kWh; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. No son tarifas reales.",
       "estimado": true,
     },
     galeria: [
@@ -1816,7 +1816,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
       "costeMensualTotal": 543,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 12,3 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Porsche. Modelo de fin de serie: solo unidades en stock. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 12,3 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en la red oficial Porsche. Modelo de fin de serie: solo unidades en stock. No son tarifas reales.",
       "estimado": true,
     },
     galeria: [

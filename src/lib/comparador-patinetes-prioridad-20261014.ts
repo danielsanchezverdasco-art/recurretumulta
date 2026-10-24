@@ -36,7 +36,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de los frenos; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -72,7 +72,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de tambor delantero + freno motor; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -108,7 +108,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste del doble tambor + freno motor electrónico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -144,7 +144,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco mecánico + freno regenerativo; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -180,7 +180,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -208,7 +208,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Empuje de pico cifrado en 6.640 W, pensado para arranques muy enérgicos", "Paquete energético de 2.268 Wh que permite plantear jornadas larguísimas entre recargas", "Promete 130 km por carga frente a unos 84 km reales estimados", "Detención confiada a hidráulica con ABS, combinación reservada a modelos extremos", "Gomas de 11 pulgadas sin cámara y estructura preparada para soportar 150 kg"],
-    contras: ["Desarrolla 100 km/h, cuatro veces el techo de 25 km/h exigido a un VMP en España, así que queda fuera de esa categoría y relegado a recintos privados cerrados", "Sus 43 kg convierten cualquier escalera o maletero en un esfuerzo serio diario", "La ficha carece de importe en euros confirmado; el coste en dólares recogido era orientativo, no oficial español", "El tiempo necesario para recargarlo no consta entre los datos recopilados de esta unidad", "Lo estimado en uso real baja a 84 km, muy lejos de los 130 km anunciados"],
+    contras: ["Desarrolla 100 km/h, cuatro veces el techo de 25 km/h que se exige a un VMP en España, así que queda fuera de esa categoría y relegado a recintos privados cerrados", "Sus 43 kg convierten cualquier escalera o maletero en un esfuerzo serio diario", "La ficha carece de importe en euros confirmado; el coste en dólares recogido era orientativo, no oficial español", "El tiempo necesario para recargarlo no consta entre los datos recopilados de esta unidad", "Lo estimado en uso real baja a 84 km, muy lejos de los 130 km anunciados"],
     veredicto: "Storm persigue distancia y aceleración extremas: reúne 6.640 W de pico, 2.268 Wh y una promesa de 130 km —84 km reales estimados— en un conjunto de 43 kg capaz de cargar 150 kg. Ese planteamiento choca con la norma española para VMP, cuyo diseño debe moverse entre 6 y 25 km/h según la DGT; con 100 km/h declarados, este Dualtron solo encaja en espacios privados cerrados. Interesa únicamente a quien asuma esa limitación y valore su hidráulica con ABS y sus ruedas de 11 pulgadas sin cámara.",
     fuenteNombre: "Levyelectric.com",
     fuenteUrl: "https://www.levyelectric.com/compare-scooters/compare-the-minimotors-dualtron-storm-and-the-minimotors-dualtron-eagle-pro",
@@ -216,7 +216,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos hidráulicos + abs; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos ."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos ."],
     },
   },
   {
@@ -244,7 +244,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Acumulador de 2.100 Wh que respalda los 121 km declarados por carga completa", "Propulsión nominal de 5.400 W con empuje sobrado incluso llevando equipaje encima", "Pinzas hidráulicas sobre discos de 160 mm, con ABS, acordes a su velocidad punta", "Cubiertas de 11 pulgadas sin cámara combinadas con suspensión de goma regulable mediante cartuchos intercambiables", "Admite hasta 150 kg de carga, margen poco habitual entre patinetes de altas prestaciones"],
-    contras: ["Su punta de 80 km/h desborda el techo de 25 km/h exigido a un VMP en España", "Tampoco consta certificado DGT en los datos recogidos para este modelo concreto", "Mover 43 kg en brazos convierte cualquier escalera en un suplicio diario", "Sin precio en euros en la ficha: solo aparece referencia no oficial de 3.699 dólares", "De los 121 km anunciados se pasa a unos 78 km estimados en uso real"],
+    contras: ["Su punta de 80 km/h desborda el techo de 25 km/h que se exige a un VMP en España", "Tampoco consta certificado DGT en los datos recogidos para este modelo concreto", "Mover 43 kg en brazos convierte cualquier escalera en un suplicio diario", "Sin precio en euros en la ficha: solo aparece referencia no oficial de 3.699 dólares", "De los 121 km anunciados se pasa a unos 78 km estimados en uso real"],
     veredicto: "El Thunder juega en otra liga frente a un patinete urbano corriente: 5.400 W, batería de 2.100 Wh y una punta de 80 km/h lo acercan más a una máquina recreativa que a un medio de transporte diario. Precisamente por esa velocidad no encaja como VMP en España —aquí el techo legal se queda en 25 km/h y no consta certificado DGT—, así que su terreno debería limitarse a espacios privados. Suma frenos hidráulicos con ABS y ruedas de 11 pulgadas, pero carga con 43 kg, un precio solo referenciado en dólares (3.699, no oficial) y un tiempo de recarga sin concretar en la ficha.",
     fuenteNombre: "Electricscooterguides.com",
     fuenteUrl: "https://www.electricscooterguides.com/review/compare-the-dualtron-thunder-electric-scooter-and-the-xiaomi-mi-pro-2",
@@ -252,7 +252,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos hidráulicos + abs, discos de 160 mm; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 11\" sin cámara."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 11\" sin cámara."],
     },
   },
   {
@@ -288,7 +288,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco delantero y trasero + abs; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 11\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 11\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -316,7 +316,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Empuje nominal de 8.300 W, muy por encima de los 5.400 W del Dualtron Thunder", "Acumulador de 3.024 Wh pensado para rutas largas lejos de casa", "Recorre 100 km según fabricante, con unos 65 km reales estimados", "Admite hasta 150 kg entre piloto y equipaje sin quedarse corto", "Doble muelle en la suspensión junto a cubiertas tubeless y discos"],
-    contras: ["Sus 106 km/h cuadruplican el tope de 25 km/h exigido a un VMP", "Queda fuera de la vía pública española: uso reservado a recintos cerrados privados", "Con 65,8 kg moverlo por escaleras o meterlo en un maletero resulta inviable", "Sin PVP en euros en la ficha: solo constan 6.490 dólares no oficiales", "Para semejante velocidad la ficha únicamente cita discos genéricos, sin ABS ni hidráulica"],
+    contras: ["Sus 106 km/h cuadruplican el tope de 25 km/h que se exige a un VMP", "Queda fuera de la vía pública española: uso reservado a recintos cerrados privados", "Con 65,8 kg moverlo por escaleras o meterlo en un maletero resulta inviable", "Sin PVP en euros en la ficha: solo constan 6.490 dólares no oficiales", "Para semejante velocidad la ficha únicamente cita discos genéricos, sin ABS ni hidráulica"],
     veredicto: "El X2 representa el escalón extremo de MiniMotors: 8.300 W nominales, batería de 3.024 Wh y punta de 106 km/h con 65,8 kg de conjunto. Esa combinación lo saca directamente de la categoría VMP en España, donde el límite legal se sitúa en 25 km/h, así que su terreno son fincas y circuitos privados, nunca calles ni carriles bici. Quien busque desplazamiento urbano homologado debe mirar otro modelo; quien quiera prestaciones brutas para espacios cerrados, pagando los 6.490 dólares recogidos sin carácter oficial, encontrará aquí autonomía declarada de 100 km y margen de carga hasta 150 kg.",
     fuenteNombre: "Levyelectric.com",
     fuenteUrl: "https://www.levyelectric.com/compare-scooters/compare-the-minimotors-dualtron-x-ii-and-the-fluid-freeride-horizon",
@@ -324,7 +324,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos ."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos ."],
     },
   },
   {
@@ -360,7 +360,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco hidráulicos; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 13\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 13\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -396,7 +396,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de tambor delantero y trasero; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -587,7 +587,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco mecánico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo de los neumáticos 10\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -645,7 +645,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       { alt: "Kugoo Kirin G2 Pro, vista en detalle", alto: 720, ancho: 720, src: "/media/patinetes/kugoo-kirin-g2-pro-2.webp" },
     ],
     aprox: ["autonomiaRealKm"],
-    pros: ["Manillar regulable en altura con tres posiciones: se adapta a conductores de distinta estatura, algo que la propia KuKirin destaca como seña de este G2 Pro frente a un mástil fijo", "Seis puntos de luz en total: faro LED delantero, luz trasera que se enciende al frenar y cuatro laterales que en la prueba de ForoCochesEléctricos funcionaban también como intermitentes para señalizar los giros", "Batería de 720 Wh (48 V y 15 Ah en esta ficha) con 35 km reales ya anotados: la prueba española midió que, mezclando el segundo y el tercer modo sin cuidar el consumo, cuesta bajar de esa cifra por carga", "Discos mecánicos de 120 mm delante y detrás, combinados con unas ruedas todoterreno de solo 9 pulgadas: es el G2 con la rueda más pequeña de la familia, por debajo de las de 10 pulgadas del G2 Max"],
+    pros: ["Manillar regulable en altura con tres posiciones: se adapta a conductores de distinta estatura, algo que la propia KuKirin destaca como seña de este G2 Pro frente a un mástil fijo", "Seis puntos de luz en total: faro LED delantero, luz trasera que se enciende al frenar y cuatro laterales que en la prueba de ForoCochesEléctricos funcionaban también como intermitentes para señalizar los giros", "Batería de 720 Wh (15 Ah a 48 V en esta ficha) con 35 km reales ya anotados: la prueba española midió que, mezclando el segundo y el tercer modo sin cuidar el consumo, cuesta bajar de esa cifra por carga", "Discos mecánicos de 120 mm delante y detrás, combinados con unas ruedas todoterreno de solo 9 pulgadas: es el G2 con la rueda más pequeña de la familia, por debajo de las de 10 pulgadas del G2 Max"],
     contras: ["El tercer modo desata los 45 km/h con una entrega brusca a poca velocidad, según la prueba: son 20 km/h más que el tope de 25 km/h admitido para un VMP en España, así que deslimitado su sitio es un recinto privado, no la vía pública", "Plegarlo tiene truco y no es rápido: el enganche se hace a mano y solo coincide si antes subes el manillar a su posición más alta; sumado a los 25 kg de esta ficha, no es un patinete para andar subiendo y bajando escaleras cada día", "Recargar de vacío a lleno exige una noche entera: el cargador de 54,6 V y 2 A necesita unas 8 horas según el manual, sin opción de carga rápida para un imprevisto entre trayectos"],
     veredicto: "El G2 Pro es el escalón de acceso a la familia G2 de KuKirin: 600 W y 770 € en esta ficha, con la rueda de 9 pulgadas y la batería contenida que lo separan del G2 Max de 1.000 W. Lo suyo no es el dato bruto, sino el equipamiento poco habitual en su tamaño: manillar con tres alturas, intermitentes laterales, sillín incluido de serie en la unidad probada en España y muelles en ambos ejes. A cambio pide paciencia al cargar —unas 8 horas—, al plegarlo —enganche manual condicionado a la altura del manillar— y mesura con el tercer modo, que lo saca de la normativa de VMP.",
     fuenteNombre: "Geekmaxi.com",
@@ -708,7 +708,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Su batería de 52 V y 936 Wh sostiene los 70 km declarados y deja unos 45 km reales estimados en esta ficha: margen de sobra para no cargar cada día", "El motor de 1.200 W nominales, con 1.450 W de pico, está orientado a rampas; KuKirin anuncia para el G3 capacidad de subida de 23°", "Discos de 140 mm en las dos ruedas, apoyados por el freno electrónico, para detener con solvencia un patinete que alcanza 50 km/h", "La suspensión de brazos basculantes en ambos ejes y los neumáticos todoterreno de 10,5\" delatan su planteamiento mixto: asfalto irregular y pista compacta, no solo carril urbano liso", "Con certificación IPX4 aguanta salpicaduras y lluvia fina en un trayecto corto, sin que eso lo convierta en patinete para rodar bajo un chaparrón"],
-    contras: ["Su velocidad punta de 50 km/h duplica el tope de 25 km/h exigido a un VMP en España, así que su sitio no es la vía pública", "Esos 31 kg se notan en cuanto toca cargar con él: subir escaleras, levantarlo a un maletero alto o combinarlo con bus y tren dejan de ser planes razonables", "Recargar los 936 Wh lleva una noche entera: las fuentes del modelo hablan de 8 a 12 horas según la versión del manual, nada de una carga rápida entre trayectos"],
+    contras: ["Su velocidad punta de 50 km/h duplica el tope de 25 km/h que se exige a un VMP en España, así que su sitio no es la vía pública", "Esos 31 kg se notan en cuanto toca cargar con él: subir escaleras, levantarlo a un maletero alto o combinarlo con bus y tren dejan de ser planes razonables", "Recargar los 936 Wh lleva una noche entera: las fuentes del modelo hablan de 8 a 12 horas según la versión del manual, nada de una carga rápida entre trayectos"],
     veredicto: "Por 699 €, el KuKirin G3 juega a todoterreno de un solo motor: 1.200 W con 1.450 W de pico, batería de 936 Wh con 70 km declarados —45 km reales estimados en esta ficha— y discos de 140 mm en las dos ruedas. Su límite no es la potencia, sino el contexto: a 50 km/h queda fuera del marco VMP español y sus 31 kg castigan cualquier uso intermodal. Encaja si tienes recorrido fuera de la vía pública, sitio fijo para guardarlo y horas por delante para cargarlo.",
     fuenteNombre: "Alphascootz.eu",
     fuenteUrl: "https://alphascootz.eu/shop/e-scooters/kukirin-g3-electric-scooter/",
@@ -778,7 +778,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -814,7 +814,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -850,7 +850,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -886,7 +886,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -922,7 +922,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -958,7 +958,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -994,7 +994,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -1030,7 +1030,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {
@@ -1128,7 +1128,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
       aprieteTornilleria: "Tornillos de manillar y plegado.",
-      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
+      trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Comprueba presión y dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
   {

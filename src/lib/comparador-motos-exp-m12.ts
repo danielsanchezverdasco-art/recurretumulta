@@ -1444,7 +1444,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
       "23.990 €: la bagger americana más asequible del mercado",
     ],
     contras: [
-      "322 kg en orden de marcha: solo para pilotos con experiencia",
+      "322 kg en orden de marcha: solo apta para pilotos con experiencia",
       "El motor de 1.890 cc consume y calienta en ciudad",
       "Suspensión trasera de corto recorrido en asfalto roto",
       "Sin control de crucero adaptativo ni radar",

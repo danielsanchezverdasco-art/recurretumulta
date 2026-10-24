@@ -225,7 +225,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 167,
       notas:
-        "15.000 km/año mayoritariamente en modo eléctrico (22 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+        "15.000 km/año mayoritariamente en modo eléctrico (22 kWh/100 km a 0,18 euros el kWh); sin datos WLTP oficiales publicados.",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 181,
       notas:
-        "15.000 km/año mayoritariamente en modo eléctrico (24 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+        "15.000 km/año mayoritariamente en modo eléctrico (24 kWh/100 km a 0,18 euros el kWh); sin datos WLTP oficiales publicados.",
       estimado: true,
     },
     galeria: [

@@ -245,7 +245,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
+      intervalo: "24 meses o 40.000 km (lo que llegue antes)",
       revisiones: [
         { nombre: "Revisión bienal / 40.000 km", queSeCambia: "Filtro de polen + líquido de frenos + inspección de batería y sistemas eléctricos", costeAproxEur: null },
       ],
@@ -309,7 +309,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
+      intervalo: "24 meses o 40.000 km (lo que llegue antes)",
       revisiones: [
         { nombre: "Revisión bienal / 40.000 km", queSeCambia: "Filtro de polen + líquido de frenos + inspección de batería y sistemas eléctricos", costeAproxEur: null },
       ],
@@ -373,7 +373,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
+      intervalo: "24 meses o 40.000 km (lo que llegue antes)",
       revisiones: [
         { nombre: "Revisión bienal / 40.000 km", queSeCambia: "Filtro de polen + líquido de frenos + inspección de batería y sistemas eléctricos", costeAproxEur: null },
       ],
@@ -1064,7 +1064,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
         { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento Geely (modelo no comercializado en España)",
+      fuente: "Estándar de mantenimiento Geely (modelo sin comercializar en España)",
     },
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: velocidadMax, consumo, emisionesCo2 — vídeo sin asignar (campo opcional).
@@ -1128,7 +1128,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
         { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento Geely (modelo no comercializado en España)",
+      fuente: "Estándar de mantenimiento Geely (modelo sin comercializar en España)",
     },
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: maleteroL, ceroCien, emisionesCo2 — vídeo sin asignar (campo opcional).
@@ -1192,7 +1192,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
         { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento Geely (modelo no comercializado en España)",
+      fuente: "Estándar de mantenimiento Geely (modelo sin comercializar en España)",
     },
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: maleteroL, ceroCien, velocidadMax, pesoKg, consumo, emisionesCo2 — vídeo sin asignar (campo opcional).
@@ -1256,7 +1256,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
         { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Estándar de mantenimiento Geely (modelo no comercializado en España)",
+      fuente: "Estándar de mantenimiento Geely (modelo sin comercializar en España)",
     },
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw, garantiaBateriaDegradacionPct, pesoKg, emisionesCo2 — vídeo sin asignar (campo opcional).

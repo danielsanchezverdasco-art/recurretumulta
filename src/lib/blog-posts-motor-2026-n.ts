@@ -101,7 +101,7 @@ El mensaje es claro: los salones que Europa abandonó, China los está ocupando.
 3. **Fabricado en Europa = blindado.** Los chinos que se fabrican aquí (el <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Leapmotor B05</a> se hará en Figueruelas, Zaragoza) esquivan los aranceles por definición. Es un argumento más para mirar qué modelo viene de qué fábrica.
 4. **Las marcas nuevas necesitan red.** Aito quiere que el 20 % de sus ventas sean fuera de China en tres años (hoy es menos del 1 %) y presenta en París cuatro SUV eléctricos de gama alta. Ojo con comprar una marca sin red de servicio en España: el precio es tentador, pero la posventa manda.
 
-Consulta la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de estrenos eléctricos del Salón de París 2026</a> para ver qué modelos se presentan, y <a href=/comparador-coches/>compáralos cara a cara en el comparador de coches</a>.
+Consulta la <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de estrenos eléctricos del Salón de París 2026</a> para ver qué modelos se presentan, y <a href=/comparador-coches/>compáralos cara a cara en nuestro comparador de coches</a>.
 
 ## Preguntas frecuentes
 

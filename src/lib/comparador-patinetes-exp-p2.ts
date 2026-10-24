@@ -103,8 +103,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Pixmania",
     fuenteUrl: "https://www.pixmania.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app oficial de Cecotec (conectividad Bluetooth)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
     },
   },
   {
@@ -161,9 +161,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PlanetOutlet",
     fuenteUrl: "https://www.planetoutlet.es/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "El freno de disco trasero es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
+        "El freno de disco trasero es mecánico: ajustar el cable desde el tensor del manillar cuando la maneta llega al puño",
         "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
       ],
       trucos: [
@@ -225,13 +225,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "tradeinn",
     fuenteUrl: "https://www.tradeinn.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "El freno de disco es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
+        "El freno de disco es mecánico: ajustar el cable desde el tensor del manillar cuando la maneta llega al puño",
         "El e-ABS regenerativo no requiere ajuste mecánico",
       ],
       trucos: [
-        "Los neumáticos tubeless se reparan con mecha sin desmontar la rueda",
+        "Los neumáticos tubeless se reparan con mecha y sin desmontar la rueda",
       ],
     },
   },
@@ -290,10 +290,10 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://cecotec.es/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los tornillos de la base ancha",
+      actualizacionFirmware: "Con la app oficial de Cecotec (conectividad Bluetooth)",
+      aprieteTornilleria: "Revisar los tornillos de la base ancha, el mecanismo de plegado y la potencia del manillar, con cada eje de rueda",
       ajusteFrenosPasos: [
-        "El freno de disco trasero es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
+        "El freno de disco trasero es mecánico: ajustar el cable desde el tensor del manillar cuando la maneta llega al puño",
         "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
         "El eABS delantero no requiere ajuste mecánico",
       ],
@@ -356,15 +356,15 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PlanetOutlet",
     fuenteUrl: "https://www.planetoutlet.es/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado Mazinger, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado Mazinger y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "El freno de disco es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
+        "El freno de disco es mecánico: ajustar el cable desde el tensor del manillar cuando la maneta llega al puño",
         "El freno manual trasero (guardabarros) se ajusta por desgaste: sustituir la goma cuando no muerda",
       ],
       trucos: [
         "La batería es intercambiable: una segunda batería duplica la autonomía a 90 km",
-        "Los neumáticos tubeless se reparan con mecha sin desmontar",
+        "Los neumáticos tubeless se reparan con mecha y sin desmontar",
       ],
     },
   },
@@ -466,9 +466,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión SXƧ",
+      aprieteTornilleria: "Revisar los anclajes de la suspensión SXƧ, el mecanismo de plegado y la potencia del manillar, con cada eje de rueda",
       ajusteFrenosPasos: [
-        "El freno de disco es mecánico: tensar el cable desde el tensor del manillar si la maneta llega al puño",
+        "El freno de disco es mecánico: ajustar el cable desde el tensor del manillar cuando la maneta llega al puño",
         "El e-ABS regenerativo se configura desde la pantalla (intensidad de frenada)",
       ],
     },
@@ -527,10 +527,10 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Fnac",
     fuenteUrl: "https://www.fnac.es/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado Mazinger, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado Mazinger y los ejes de cada rueda",
       trucos: [
-        "Los neumáticos tubeless se reparan con mecha sin desmontar la rueda",
+        "Los neumáticos tubeless se reparan con mecha y sin desmontar la rueda",
       ],
     },
   },
@@ -589,8 +589,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "soysuper",
     fuenteUrl: "https://soysuper.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android), si el modelo la soporta",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android), si el modelo la soporta",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
     },
   },
   {
@@ -648,10 +648,10 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android) con NFC",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android) con NFC",
+      aprieteTornilleria: "Revisar los anclajes de la suspensión, el mecanismo de plegado y la potencia del manillar, con cada eje de rueda",
       trucos: [
-        "Los neumáticos tubeless se reparan con mecha sin desmontar la rueda",
+        "Los neumáticos tubeless se reparan con mecha y sin desmontar la rueda",
         "Regular la precarga de la suspensión según tu peso mejora el confort y la autonomía",
       ],
     },
@@ -710,8 +710,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
     },
   },
   {
@@ -768,8 +768,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de ambas ruedas motrices",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda motriz",
       trucos: [
         "Usar el modo monomotor en llano alarga mucho la autonomía",
       ],
@@ -829,8 +829,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       trucos: [
         "Con baterías grandes, no dejarlo meses al 100 % ni al 0 %: el 50-60 % es ideal para guardarlo",
       ],
@@ -936,11 +936,11 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteUrl: "https://www.smartgyro.es/",
     mantenimientoDIY: {
       presionNeumaticos: "2,48 bar",
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
         "Triple sistema de frenada: revisar el desgaste de las zapatas/pastillas cada 500 km",
-        "Si el freno es de disco mecánico, tensar el cable desde el tensor del manillar",
+        "Si el freno es de disco mecánico, ajustar el cable desde el tensor del manillar",
       ],
       trucos: [
         "Mantener 2,48 bar en los neumáticos optimiza autonomía y evita llantazos",
@@ -1001,8 +1001,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       trucos: [
         "Con baterías grandes, evitar guardarlo meses al 100 %: el 50-60 % alarga su vida",
       ],
@@ -1062,8 +1062,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de ambas ruedas motrices",
+      actualizacionFirmware: "Con la app Smartgyro Core (iOS/Android)",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda motriz",
       trucos: [
         "Usar el modo monomotor en llano alarga mucho la autonomía",
         "Con 20000 mAh, cargarlo siempre con su cargador original",
@@ -1113,7 +1113,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteUrl: "https://dualtronusa.com/",
     mantenimientoDIY: {
       presionNeumaticos: "Revisar la presión de los runflat de 11\" cada 2 semanas (el fabricante no publica un valor único)",
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
       ajusteFrenosPasos: [
         "Frenos hidráulicos NUTT: si la maneta se hunde, purgar el circuito en un taller especializado",
         "Revisar el desgaste de las pastillas cada 1.000 km: con 51 kg y 100 km/h se gastan rápido",
@@ -1178,7 +1178,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Dualtron Nordic (tienda oficial)",
     fuenteUrl: "https://www.dualtronnordic.com/en/shop/electric-scooter-919/dualtron-storm-limited-gen-2-126",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
       trucos: [
         "Con 3780 Wh, usar siempre el cargador original y no dejarlo cargando sin supervisión",
       ],
@@ -1238,7 +1238,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "MiniMotors USA (tienda oficial)",
     fuenteUrl: "https://dualtronusa.com/products/dualtron-limited",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
       trucos: [
         "Con 5040 Wh, la carga completa lleva muchas horas: planificarla de noche",
       ],
@@ -1298,7 +1298,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Accio",
     fuenteUrl: "https://www.accio.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
     },
   },
   {
@@ -1356,7 +1356,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteUrl: "https://www.minimotors.com/",
     mantenimientoDIY: {
       presionNeumaticos: "50 PSI (3,4 bar) en los neumáticos de 9\"",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
         "Los frenos de tambor se tensan desde el tensor del cable en el manillar",
         "El ABS/EBS electrónico no requiere ajuste mecánico",
@@ -1423,7 +1423,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteUrl: "https://mazrider.com/",
     mantenimientoDIY: {
       presionNeumaticos: "50 PSI (3,4 bar) en los neumáticos de 9\" (70/50-6.1)",
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
+      aprieteTornilleria: "Revisar los anclajes de la suspensión, el mecanismo de plegado y la potencia del manillar, con cada eje de rueda",
       ajusteFrenosPasos: [
         "Los frenos de tambor se tensan desde el tensor del cable en el manillar",
         "El ABS/EBS electrónico se configura desde la pantalla EY2",
@@ -1492,7 +1492,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       presionNeumaticos: "45-50 PSI en los neumáticos de 10x2,25\"",
       aprieteTornilleria: "Revisar los anclajes de la suspensión de goma, el cartucho trasero, la potencia del manillar y los ejes",
       ajusteFrenosPasos: [
-        "Los discos son mecánicos: tensar el cable desde el tensor del manillar",
+        "Los discos son mecánicos: ajustar el cable desde el tensor del manillar",
         "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
         "El ABS se gestiona desde el acelerador EYE",
       ],
@@ -1557,9 +1557,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Kaabo Store EU",
     fuenteUrl: "https://kaabostore.eu/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "Los discos son mecánicos: tensar el cable desde el tensor del manillar",
+        "Los discos son mecánicos: ajustar el cable desde el tensor del manillar",
         "El EABS electrónico no requiere ajuste mecánico",
       ],
       trucos: [
@@ -1603,7 +1603,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH"],
     pros: ["Un motor buje en cada rueda con selección entre tracción trasera o total: en llano basta un motor y en repechos entra el delantero", "Basculantes delantero y trasero con doble amortiguador de muelle, la arquitectura que distingue a los Mantis de los patinetes de horquilla recta", "Pack de 60 V y 18,2 Ah alojado en la tabla, con 75 km declarados y unos 51 km reales estimados en esta ficha", "Discos de 140 mm con pinzas semi-hidráulicas en ambos ejes y apoyo del freno electrónico EABS al accionar las manetas", "Cubiertas neumáticas de diez por tres pulgadas, más balón que las de 2,5 habituales en este diámetro", "Chasis plegable de aluminio con sellado IPX5 y 30 kg: la mitad que los 62 kg del Wolf King GTR de la propia Kaabo"],
-    contras: ["Kaabo no publica para este V2 un PVP cerrado en euros en España, así que el importe final depende del distribuidor que lo importe", "Fuera del recinto privado no encaja como VMP en España: su planteamiento de 60 V y doble tracción supera el marco de 25 km/h y en la ficha no consta certificado DGT", "La recarga completa pide entre ocho y diez horas con el cargador de serie, sin el doble puerto de carga rápida que sí ofrece el Mantis King GT", "Rodar siempre con los dos motores recorta de forma clara el alcance: de los 75 km declarados se pasa a la estimación real de 51 km recogida en la ficha", "Ser el doble motor ligero de Kaabo no lo hace portable: 30 kg a pulso siguen siendo un castigo en escaleras y transporte público"],
+    contras: ["Kaabo no publica para este V2 un PVP cerrado en euros en España, así que el importe final depende del distribuidor que lo importe", "Fuera del recinto privado no encaja como VMP en España: su planteamiento de 60 V y doble tracción supera el marco de 25 km/h y su ficha no trae certificado DGT", "La recarga completa pide entre ocho y diez horas con el cargador de serie, sin el doble puerto de carga rápida que sí ofrece el Mantis King GT", "Rodar siempre con los dos motores recorta de forma clara el alcance: de los 75 km declarados se pasa a la estimación real de 51 km recogida en la ficha", "Ser el doble motor ligero de Kaabo no lo hace portable: 30 kg a pulso siguen siendo un castigo en escaleras y transporte público"],
     veredicto:
       "El Mantis 10 Plus V2 es el Kaabo prestacional de tamaño contenido: mantiene los basculantes con doble amortiguador y los discos de 140 mm de la familia Mantis, suma una batería de 1.092 Wh y se queda en 30 kg, lejos de los Wolf grandes. La actualización de 2025 que recoge Electric Kicks añade la pantalla central KM03 con desbloqueo NFC y carga USB. Su sitio en España es el uso privado y recreativo, no el desplazamiento legal como VMP.",
     fuenteNombre: "Electric Kicks",
@@ -1664,7 +1664,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Storm Rides",
     fuenteUrl: "https://stormrides.nz/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
       ajusteFrenosPasos: [
         "Frenos hidráulicos: si la maneta se hunde, purgar el circuito en taller",
       ],
@@ -1727,7 +1727,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Kaabo Mantis (oficial)",
     fuenteUrl: "https://kaabomantis.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
         "Sistema hidráulico de alta presión: si la maneta se hunde, purgar en taller",
         "El EABS electrónico no requiere ajuste mecánico",
@@ -1819,7 +1819,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Evolt",
     fuenteUrl: "https://evolt.eu/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión y los ejes de cada rueda motriz",
       ajusteFrenosPasos: [
         "Frenos hidráulicos de 140 mm: purgar el circuito en taller si la maneta se hunde",
         "El EABS electrónico no requiere ajuste mecánico",
@@ -1870,9 +1870,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Ride Hub",
     fuenteUrl: "https://ridehub.com.au/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "El freno de disco trasero es mecánico: tensar el cable desde el tensor del manillar",
+        "El freno de disco trasero es mecánico: ajustar el cable desde el tensor del manillar",
         "El E-ABS electrónico no requiere ajuste mecánico",
       ],
       trucos: [
@@ -1935,9 +1935,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Ecoscooter",
     fuenteUrl: "https://ecoscooter.ee/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los anclajes de la suspensión",
+      aprieteTornilleria: "Revisar los anclajes de la suspensión, el mecanismo de plegado y la potencia del manillar, con cada eje de rueda",
       ajusteFrenosPasos: [
-        "Los discos son mecánicos: tensar el cable desde el tensor del manillar",
+        "Los discos son mecánicos: ajustar el cable desde el tensor del manillar",
         "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
       ],
     },
@@ -2039,7 +2039,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Vsett (oficial)",
     fuenteUrl: "https://vsett.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
         "Los frenos de tambor se tensan desde el tensor del cable en el manillar",
         "Revisar el desgaste de las zapatas cada 1.000 km",
@@ -2100,9 +2100,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Freshly Charged",
     fuenteUrl: "https://freshlycharged.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda",
       ajusteFrenosPasos: [
-        "El freno de disco es mecánico: tensar el cable desde el tensor del manillar",
+        "El freno de disco es mecánico: ajustar el cable desde el tensor del manillar",
         "Centrar la pinza aflojando sus dos tornillos, apretar la maneta y volver a apretar",
       ],
     },
@@ -2217,7 +2217,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "eBike Super Shop",
     fuenteUrl: "https://ebikesupershop.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar los anclajes de la suspensión hidráulica, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, los anclajes de la suspensión hidráulica y los ejes de cada rueda motriz",
       ajusteFrenosPasos: [
         "Frenos hidráulicos de 4 pistones: purgar el circuito en taller si la maneta se hunde",
         "Revisar las pastillas cada 1.000 km",
@@ -2278,7 +2278,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Vsett (oficial)",
     fuenteUrl: "https://vsett.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda motriz",
       trucos: [
         "Con 1680 Wh, evitar guardarlo meses al 100 %: el 50-60 % alarga su vida",
       ],
@@ -2337,7 +2337,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     fuenteNombre: "Accio",
     fuenteUrl: "https://www.accio.com/",
     mantenimientoDIY: {
-      aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de ambas ruedas motrices",
+      aprieteTornilleria: "Revisar la potencia del manillar, el mecanismo de plegado y los ejes de cada rueda motriz",
     },
   },
   {

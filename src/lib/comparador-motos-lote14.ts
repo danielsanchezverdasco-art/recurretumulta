@@ -382,7 +382,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -687,7 +687,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -840,7 +840,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -994,7 +994,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 320,
         },
       ],
@@ -1222,7 +1222,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -1831,7 +1831,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],

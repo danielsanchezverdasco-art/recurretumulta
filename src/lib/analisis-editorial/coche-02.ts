@@ -310,7 +310,7 @@ export const ANALISIS_COCHE_02: MapaAnalisis = {
   },
   "bentley-continental-gt-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El nuevo Continental GT marca un antes y un después en la historia de Bentley: 680 CV híbridos enchufables, 84 km de autonomía eléctrica y etiqueta Cero por 286.330 €. Es el gran turismo que ha definido el segmento durante dos décadas, reinventado para la era de las restricciones urbanas sin perder su esencia de devorador de autopistas.",
+      "El nuevo Continental GT marca un antes y un después en la historia de Bentley: 680 CV híbridos enchufables, 84 km de autonomía eléctrica con etiqueta Cero por 286.330 €. Es el gran turismo que ha definido el segmento durante dos décadas, reinventado para la era de las restricciones urbanas sin perder su esencia de devorador de autopistas.",
       "La hibridación le sienta bien al concepto GT: el par instantáneo del motor eléctrico mejora la respuesta en adelantamientos y los 84 km permiten salir de la ciudad en silencio antes de despertar al V8 en carretera abierta. El 0-100 en 3,7 segundos lo mantiene entre los coupés más rápidos del mundo, con la conciencia tranquila de la etiqueta Cero.",
       "Para el cliente tradicional de Bentley, es la transición perfecta: todo el carácter, ninguna preocupación con las zonas de bajas emisiones. El Continental GT demuestra que la electrificación, bien entendida, no diluye la esencia del gran turismo sino que la hace viable para la próxima década."
     ],
@@ -374,7 +374,7 @@ export const ANALISIS_COCHE_02: MapaAnalisis = {
   },
   "bentley-flying-spur-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Flying Spur es la berlina de Bentley reinventada para la era híbrida: 680 CV enchufables, 80 km de autonomía eléctrica y etiqueta Cero por 214.411 €. Es el gran turismo de cuatro puertas, el coche para quien necesita plazas traseras de verdad pero se niega a conducir un SUV.",
+      "El Flying Spur es la berlina de Bentley reinventada para la era híbrida: 680 CV enchufables, 80 km de autonomía eléctrica con etiqueta Cero por 214.411 €. Es el gran turismo de cuatro puertas, el coche para quien necesita plazas traseras de verdad pero se niega a conducir un SUV.",
       "Su hibridación es especialmente acertada en una berlina de representación: el silencio eléctrico en la ciudad para llegar sin molestar, y el empuje del V8 en carretera para recordar quién manda. El 0-100 en 3,9 segundos lo hace más rápido que la mayoría de deportivos, sin que sus ocupantes lo noten entre tanto cuero y madera.",
       "Frente a un Mercedes-Maybach S o un Rolls-Royce Ghost, el Flying Spur ofrece más carácter dinámico con la misma opulencia, y ahora con etiqueta Cero como argumento urbano. Es la berlina para el conductor que aún disfruta conduciendo, aunque su coche parezca hecho para el chófer."
     ],
@@ -494,7 +494,7 @@ export const ANALISIS_COCHE_02: MapaAnalisis = {
   },
   "bmw-530e-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El BMW 530e es la berlina ejecutiva híbrida enchufable por excelencia: 299 CV, 101 km de autonomía eléctrica y etiqueta Cero por 73.350 €. Es el coche de empresa definitivo para la era de las zonas de bajas emisiones: silencioso y limpio en la ciudad, contundente en autopista y con la imagen que se espera en la puerta de un cliente.",
+      "El BMW 530e es la berlina ejecutiva híbrida enchufable por excelencia: 299 CV, 101 km de autonomía eléctrica con etiqueta Cero por 73.350 €. Es el coche de empresa definitivo para la era de las zonas de bajas emisiones: silencioso y limpio en la ciudad, contundente en autopista y con la imagen que se espera en la puerta de un cliente.",
       "Sus 101 km eléctricos permiten cubrir el trayecto diario casa-oficina sin gastar una gota de gasolina, y el 0-100 en 6,3 segundos garantiza que no se echa de menos un seis cilindros en el día a día. Frente al diésel, que fue el rey indiscutible de este segmento, el 530e ofrece la misma lógica de gran rutero con acceso garantizado a todas las ciudades.",
       "Para flotas y ejecutivos, la ecuación fiscal es imbatible: etiqueta Cero, consumo real bajo en uso mixto y valor residual sólido. Es la Serie 5 más sensata de la gama actual y, probablemente, la que mejor ha entendido su época. La berlina de empresa perfecta para 2026."
     ],

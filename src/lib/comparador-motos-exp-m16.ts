@@ -62,7 +62,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/st125-dax",
     analisisSlug: "honda-dax-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 km o 12 meses (la primera a los 1.000 km)",
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
@@ -130,7 +130,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/monkey-125",
     analisisSlug: "honda-monkey-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 4.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "Cada 4.000 km o 12 meses (la primera a los 1.000 km)",
       aceiteTipo: "10W-30 (Honda 4-STROKE MOTORCYCLE OIL)",
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
@@ -411,7 +411,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       ],
       trucos: [
         "En la versión DCT, el aceite del doble embrague comparte cárter: respeta el nivel al milímetro.",
-        "El control de crucero se activa a partir de 40 km/h.",
+        "El control de crucero entra en funcionamiento a partir de 40 km/h.",
       ],
     },
   },
@@ -542,7 +542,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       aceiteTipo: "10W-30 (Honda 4-STROKE SCOOTER OIL)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por correa no necesita engrase.",
+        "Sin cadena: la transmisión por correa no pide engrase.",
         "Revisa la correa de transmisión según el plan del manual (desgaste prematuro en ciudad).",
         "El filtro de aire del variador se ensucia rápido en ciudad: revísalo cada 6.000 km.",
       ],
@@ -745,7 +745,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida con agua a presión moderada y limpiador específico.",
         "Engrasa con lubricante específico para off-road, que repele el barro.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Comprueba la tensión con la moto sobre el caballete y ajusta según el manual.",
       ],
       trucos: [
         "El filtro de aire se limpia o cambia tras cada salida en polvo.",
@@ -813,7 +813,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida con agua a presión moderada y limpiador específico.",
         "Engrasa con lubricante específico para off-road.",
-        "Comprueba la tensión con la moto en el caballete y ajusta según el manual.",
+        "Comprueba la tensión con la moto sobre el caballete y ajusta según el manual.",
       ],
       trucos: [
         "El depósito de 7,9 l da para rutas largas de enduro.",
@@ -913,7 +913,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     pros: [
       "Tricilíndrico CP3 de 119 CV: empuje y sonido en cualquier marcha",
       "Depósito de 19 l con 5 l/100 km: unos 380 km de autonomía",
-      "Electrónica completa: IMU, ABS en curva, control de crucero y quickshifter",
+      "Electrónica al completo: IMU, ABS en curva, control de crucero y quickshifter",
       "Cúpula regulable, pantalla TFT y conectividad de serie",
       "Asiento regulable en altura (845/860 mm)",
     ],
@@ -952,7 +952,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El control de crucero se activa a partir de 40 km/h: ideal en autopista.",
+        "El control de crucero entra en funcionamiento a partir de 40 km/h: ideal en autopista.",
         "Con 5 l/100 km y 19 l, calcula repostar cada 350 km con margen.",
       ],
     },

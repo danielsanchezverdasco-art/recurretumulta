@@ -31,7 +31,7 @@ export const ANALISIS_COCHE_04: MapaAnalisis = {
     parrafos: [
       "El Super Seven 600 responde a una pregunta que nadie se hacía en voz alta: ¿y si el clásico de los sesenta se pudiera usar a diario? Combina la carrocería retro con el modesto tricilíndrico Suzuki de 86 CV, el mismo del Seven 170, y el resultado es el Seven vintage más barato de mantener: 4,8 l/100 km, mecánica sencilla y 44.643 € de entrada.",
       "No engaña a nadie con las prestaciones —86 CV son 86 CV—, pero tampoco lo pretende. Su baza es otra: la estética de época sin los achaques de un coche de 1968, sin carburadores caprichosos ni óxido estructural. A cambio aceptas lo inevitable: sin ayudas electrónicas, confort casi inexistente, maletero de 120 litros y una red de servicio mínima en España.",
-      "Es para quien siempre quiso un clásico británico y descubrió que los clásicos de verdad viven en el taller. No es para quien busque emociones fuertes ni para quien necesite justificar la compra con cifras: este Caterham se compra con el corazón y se disfruta con calma.",
+      "Es para quien siempre quiso un clásico británico y descubrió que los clásicos de verdad viven en el taller. No es para quien busque emociones fuertes ni para quien necesite justificar la compra con cifras: este Caterham se compra con el corazón y se goza con calma.",
     ],
     veredicto: "El clásico sin dramas: estética de los sesenta con mecánica sencilla y consumo de utilitario.",
   },
@@ -39,7 +39,7 @@ export const ANALISIS_COCHE_04: MapaAnalisis = {
     parrafos: [
       "El Benben E-Star demuestra que el coche eléctrico barato ya existe: solo que vive en China. Por unos 9.200 € al cambio ofrece 75 CV, 170 Nm y 310 km de autonomía en ciclo CLTC con batería LFP de 31 kWh, en un urbano de 3,77 m y cinco plazas. Changan, uno de los cuatro grandes grupos estatales chinos, lo vende como quien vende electrodomésticos.",
       "La ficha enfría el entusiasmo con dos datos: no se vende en Europa, y sus 101 km/h de velocidad máxima lo confinan a la ciudad por decreto. El maletero de 147 litros es justo para la compra semanal y no hay carga rápida publicada. La garantía de 8 años para la batería, eso sí, revela una confianza en el producto que muchas marcas europeas no se atreven a firmar.",
-      "Es el espejo en el que debería mirarse el mercado europeo: un eléctrico urbano digno por menos de 10.000 € es técnicamente posible. No es una opción de compra real en España —sin red, sin homologación—, sino la prueba de cuánto margen tienen los precios si alguien se atreve a intentarlo aquí.",
+      "Es el espejo en el que debería mirarse el mercado europeo: un eléctrico urbano digno por menos de 10.000 € es técnicamente posible. No es una compra real posible en España —sin red, sin homologación—, sino la prueba de cuánto margen tienen los precios si alguien se atreve a intentarlo aquí.",
     ],
     veredicto: "El eléctrico de 9.200 € que Europa no puede comprar: la referencia incómoda del segmento.",
   },
@@ -487,7 +487,7 @@ export const ANALISIS_COCHE_04: MapaAnalisis = {
     parrafos: [
       "El Spark EUV recupera un nombre mítico para un concepto nuevo: eléctrico urbano por unos 20.000 €, con 100 CV, 300 km de autonomía y batería de 42 kWh. Seis airbags, ADAS con frenado autónomo y crucero adaptativo, maletero de 355 litros —enorme para 4 metros— y carga rápida en continua de serie. Basado en el Baojun Yep Plus: mecánica probada en China con insignia americana.",
       "Los 100 CV son suficientes en ciudad y justos en autopista, la autonomía no da para salir de la urbe y la velocidad máxima es de 150 km/h. No se vende en Europa ni hay planes anunciados, y el interior es sencillo acorde a su precio. Pero como propuesta de movilidad urbana eléctrica asequible, los números cuadran.",
-      "Es para el conductor urbano de los mercados donde se vende que quiere electrificarse por poco dinero. No es una opción europea. El Spark EUV es un ciudadano global: ingeniería china, nombre americano y precio de utilitario. La industria del automóvil en 2026, resumida en 4 metros.",
+      "Es para el conductor urbano de los mercados donde se vende que quiere electrificarse por poco dinero. No es una alternativa europea. El Spark EUV es un ciudadano global: ingeniería china, nombre americano y precio de utilitario. La industria del automóvil en 2026, resumida en 4 metros.",
     ],
     veredicto: "El urbano eléctrico de 20.000 € con alma global: barato, práctico y fuera de Europa.",
   },

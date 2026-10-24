@@ -152,7 +152,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
     parrafos: [
       "El ID.3 de 2026 es el compacto eléctrico que ha madurado a base de críticas: 231 CV y 310 Nm con 0 a 100 en 7,1 segundos, 553 km de autonomía con 77 kWh, el mayor alcance de la gama, y tracción trasera. Tras la bajada general de precios, parte de 35.490 € en España.",
       "El lunar sigue siendo el precio frente a los chinos: el MG4 parte de 26.480 € y el BYD Dolphin de 26.990 €, ambos con menos alcance pero mucha menos factura. La velocidad máxima, limitada a 160 km/h, y un maletero de 383 litros sin frunk completan un cuadro mejorable.",
-      "La bajada general de precios lo deja en 35.490 €, y la garantía de batería de 8 años o 160.000 km es su mejor argumento frente a los chinos: tranquilidad a largo plazo. Los 310 Nm y la propulsión trasera le dan un tacto superior al de los tracción delantera. El Pro de 204 CV y 434 km por 33.625 € es la alternativa sensata.",
+      "La bajada general de precios lo deja en 35.490 €, y la garantía de la batería de 8 años o 160.000 km es su mejor argumento frente a los chinos: tranquilidad a largo plazo. Los 310 Nm y la propulsión trasera le dan un tacto superior al de los tracción delantera. El Pro de 204 CV y 434 km por 33.625 € es la alternativa sensata.",
     ],
     veredicto: "Para quien valora red, garantía y equilibrio europeo por encima del precio más bajo.",
   },
@@ -183,7 +183,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volkswagen-id4-gtx-2026-precio-ficha-tecnica": {
     parrafos: [
       "El ID.4 GTX de 340 CV es el SUV eléctrico de Volkswagen para conductores que no se conforman: tracción total, 0 a 100 en 5,4 segundos y 529 km de autonomía con 79 kWh. La carga rápida de 185 kW, del 10 al 80 % en unos 25 minutos, está entre lo mejor de la gama ID. Desde 52.855 €, es además el GTX más barato de la familia.",
-      "Los 2.248 kg se notan en curva, la punta está limitada a 180 km/h y el interior abusa de los táctiles. El ID.4 Pro de 286 CV cuesta unos 11.000 € menos, así que la deportividad se paga con todas las letras.",
+      "Los 2.248 kg se notan en curva, la punta queda limitada a 180 km/h y el interior abusa de los táctiles. El ID.4 Pro de 286 CV cuesta unos 11.000 € menos, así que la deportividad se paga con todas las letras.",
       "Los 2.248 kg se notan en curva, pero en recta los 340 CV y la tracción total lo hacen rapidísimo: 5,4 segundos. La carga de 185 kW está entre lo mejor de la gama. Es el GTX más barato de la familia ID, y para el conductor que viene de un GTI, la transición al eléctrico no tiene por qué ser aburrida.",
     ],
     veredicto: "Para quien quiere un SUV familiar que acelere como un deportivo.",
@@ -199,7 +199,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volkswagen-id5-2025-precio-ficha-tecnica": {
     parrafos: [
       "El ID.5 es el ID.4 con traje de coupé: idéntica base técnica, con 286 CV, 545 Nm y 6,7 segundos de 0 a 100, pero 554 km de autonomía, porque la silueta coupé no penaliza el alcance. El maletero, con 549 litros, supera en 6 al del ID.4 pese a la caída del techo, y las 5 estrellas Euro NCAP de 2022 completan la ficha.",
-      "Desde 44.020 €, cuesta unos 2.600 € más que el ID.4 equivalente por el diseño. Los 2.131 kg lastran la agilidad, la plaza central trasera sufre con el techo y la punta está limitada a 180 km/h.",
+      "Desde 44.020 €, cuesta unos 2.600 € más que el ID.4 equivalente por el diseño. Los 2.131 kg lastran la agilidad, la plaza central trasera sufre con el techo y la punta queda limitada a 180 km/h.",
       "La silueta coupé no penaliza la autonomía, con 554 km, y el maletero supera en 6 litros al del ID.4: el diseño no cuesta practicidad. Las 5 estrellas Euro NCAP de 2022 y los 545 Nm completan un SUV eléctrico con carácter. Los 2.600 € extra sobre el ID.4 son el precio de la elegancia.",
     ],
     veredicto: "Para quien quiere el ID.4 con silueta coupé y paga el plus de diseño.",
@@ -215,7 +215,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volkswagen-id7-2026-precio-ficha-tecnica": {
     parrafos: [
       "El ID.7 es la berlina que pone a Volkswagen a la altura de Tesla donde importa: 702 km de autonomía WLTP, la mayor de toda la gama ID, con 13,7 kWh/100 km que rozan lo increíble para su tamaño. Carga rápida de 200 kW en continua y 11 kW en alterna, 286 CV y 545 Nm traseros: una ejecutiva ágil por 59.030 €.",
-      "Pesa 2.226 kg, mide 4,96 metros que complican aparcar en ciudad y la punta está limitada a 180 km/h. El maletero de 532 litros, ampliable a 1.586 abatiendo, es correcto sin deslumbrar.",
+      "Pesa 2.226 kg, mide 4,96 metros que complican aparcar en ciudad y la punta queda limitada a 180 km/h. El maletero de 532 litros, ampliable a 1.586 abatiendo, es correcto sin deslumbrar.",
       "La carga de 200 kW en continua y 11 kW en alterna lo hacen apto para cualquier infraestructura, y el maletero ampliable a 1.586 litros le da versatilidad de familiar. Con 86 kWh recorre lo que otros necesitan 100 para lograr: la eficiencia como filosofía. Sus 4,96 metros exigen sensores y cámara al aparcar.",
     ],
     veredicto: "Para grandes rodadores: la berlina eléctrica generalista con más autonomía.",
@@ -223,7 +223,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volkswagen-id7-gtx-2025-precio-ficha-tecnica": {
     parrafos: [
       "El ID.7 GTX es la berlina eléctrica más rápida de Volkswagen: 340 CV, tracción total y 0 a 100 en 5,4 segundos, con 588 km WLTP gracias a los 86 kWh y carga rápida de 200 kW. Sus 4,96 metros esconden una batalla de 2.971 mm, habitabilidad de limusina, y las 5 estrellas Euro NCAP de 2024 valen para toda la gama.",
-      "Desde 63.090 € entra en territorio premium alemán, pesa 2.325 kg en vacío y la punta está limitada a 180 km/h. El ID.7 Pro de 286 CV ofrece casi lo mismo desde 54.475 €, así que el GTX se justifica por sensaciones.",
+      "Desde 63.090 € entra en territorio premium alemán, pesa 2.325 kg en vacío y la punta queda limitada a 180 km/h. El ID.7 Pro de 286 CV ofrece casi lo mismo desde 54.475 €, así que el GTX se justifica por sensaciones.",
       "La batalla de 2.971 mm se traduce en un espacio trasero de limusina: la berlina eléctrica para viajar en la parte de atrás. Los 200 kW de carga y los 588 km lo hacen gran viajero. El ID.7 Pro de 286 CV ofrece casi lo mismo desde 54.475 €, así que el GTX es para quien quiere el extra de empuje y la tracción total.",
     ],
     veredicto: "Para quien quiere la berlina eléctrica rápida, segura y con gran autonomía.",
@@ -231,7 +231,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volkswagen-id7-gtx-2026-precio-ficha-tecnica": {
     parrafos: [
       "La versión 2026 del ID.7 GTX no cambia la fórmula porque no necesita cambiarla: 340 CV, tracción total, 588 km de autonomía y carga de 200 kW por 63.090 €. Es el Volkswagen eléctrico más prestacional con carrocería berlina, con un 0 a 100 en 5,4 segundos que lo mete en la conversación de los deportivos eléctricos.",
-      "El debate frente al ID.7 normal es filosófico: 114 km menos de alcance a cambio de 54 CV extra, tracción total y un chasis más afilado. Pesa 2.325 kg, la punta está limitada a 180 km/h y el maletero se queda en 532 litros.",
+      "El debate frente al ID.7 normal es filosófico: 114 km menos de alcance a cambio de 54 CV extra, tracción total y un chasis más afilado. Pesa 2.325 kg, la punta queda limitada a 180 km/h y el maletero se queda en 532 litros.",
       "Con 16,4 kWh/100 km homologados, ni siquiera el GTX puede llamarse derrochador: la eficiencia de la plataforma MEB brilla incluso con 340 CV bajo el pie derecho. Para quien viene de un deportivo térmico y busca sensaciones sin renunciar a una autonomía de 588 km, es la opción más sensata entre las berlinas eléctricas prestacionales.",
     ],
     veredicto: "Para quien prioriza las prestaciones sin renunciar a una gran autonomía.",
@@ -623,7 +623,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volvo-ex30-twin-motor-2025-precio-ficha-tecnica": {
     parrafos: [
       "Con 428 CV, tracción total, 543 Nm y un 0 a 100 en 3,6 segundos, el EX30 Twin Motor Performance es un cohete con chapa de Volvo: el sleeper definitivo, porque nadie espera esto de un sueco. Los 450 km de autonomía pese a la potencia y el precio de 47.000 € lo ponen en la órbita de deportivos eléctricos que cuestan el doble.",
-      "El maletero se queda en 318 litros, pesa 1.960 kg que se notan en curva y la punta está limitada a 180 km/h. Son unos 5.000 € más que el Single Motor, un plus asumible para duplicar la diversión.",
+      "El maletero se queda en 318 litros, pesa 1.960 kg que se notan en curva y la punta queda limitada a 180 km/h. Son unos 5.000 € más que el Single Motor, un plus asumible para duplicar la diversión.",
       "Los 543 Nm catapultan los 1.960 kg en 3,6 segundos: la física se rinde ante el par eléctrico. Son 5.000 € más que el Single Motor por duplicar la potencia y añadir tracción total. La punta, limitada a 180 km/h, es lo único que recuerda que sigue siendo un Volvo familiar.",
     ],
     veredicto: "Para quien quiere el Volvo más rápido de la historia por 47.000 €.",
@@ -743,7 +743,7 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
   "volvo-xc40-b5-2025-precio-ficha-tecnica": {
     parrafos: [
       "El XC40 B5 une el SUV compacto premium sueco con etiqueta ECO y un 2.0 turbo microhíbrido de 184 CV y 350 Nm. La calidad de materiales y la seguridad Volvo de serie, con un maletero de 443 litros en 4,44 metros, dibujan el XC40 de combustión más redondo, por 44.000 €.",
-      "A ese precio, un Qashqai o un Tucson cuestan menos; con 7,0 l/100 km gasta más que un híbrido completo y la punta está limitada a 180 km/h por filosofía Volvo. El B3 de 163 CV es más barato y suficiente para la ciudad.",
+      "A ese precio, un Qashqai o un Tucson cuestan menos; con 7,0 l/100 km gasta más que un híbrido completo y la punta queda limitada a 180 km/h por filosofía Volvo. El B3 de 163 CV es más barato y suficiente para la ciudad.",
       "Los 350 Nm del 2.0 turbo se notan al viajar cargado: reserva siempre disponible. La punta, limitada a 180 km/h por filosofía Volvo, no limita a nadie en la práctica. En 4,44 metros, aparca en cualquier sitio: el SUV compacto premium sin complejos. Un Qashqai o un Tucson cuestan menos por tamaño similar.",
     ],
     veredicto: "Para quien viaja con el XC40 cargado y quiere esos 21 CV extra.",

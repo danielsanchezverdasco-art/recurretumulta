@@ -1101,7 +1101,7 @@ No como Chery; su gemelo es el Jaecoo 7.
 
 **¿Buscas solo los datos?** <a href=/coches/chery-tiggo-8-pro-2026-precio-ficha-tecnica/>Ver la ficha técnica del Chery Tiggo 8 Pro</a>: motor, plazas y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **Chery Tiggo 8 Pro** es el SUV grande de Chery: **7 plazas reales**, **2.0 turbo de 254 CV y 390 Nm**, y una versión **híbrida enchufable de 342 CV** con 18,4 kWh. Equipamiento de lujo (head-up display, audio Sony, techo panorámico) y **7 airbags**. El familiar chino definitivo.
+El **Chery Tiggo 8 Pro** es el SUV grande de Chery: **7 plazas reales**, **2.0 turbo con 254 CV y 390 Nm**, y una versión **híbrida enchufable de 342 CV** con 18,4 kWh. Equipamiento de lujo (head-up display, audio Sony, techo panorámico) y **7 airbags**. El familiar chino definitivo.
 
 ## Ficha técnica resumida
 

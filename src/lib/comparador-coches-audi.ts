@@ -61,7 +61,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 223,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -142,7 +142,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -223,7 +223,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 336,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -304,7 +304,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 267,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -385,7 +385,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 336,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -466,7 +466,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 152,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -547,7 +547,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -596,7 +596,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     pros: [
       "120 km eléctricos WLTP: el PHEV compacto con más autonomía eléctrica",
       "272 CV combinados y 400 Nm: prestaciones de deportivo (0-100 en 6,8 s)",
-      "Carga rápida en continua de 50 kW, rara en un híbrido enchufable",
+      "Carga rápida en continua de 50 kW, poco habitual en un híbrido enchufable",
       "Etiqueta 0 de la DGT: entra en todas las ZBE",
       "Nueva generación 2025 con firmas lumínicas digitales personalizables",
     ],
@@ -604,7 +604,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "58.270 €: el PHEV cuesta casi 12.000 € más que el Q3 de acceso",
       "Maletero reducido a 375 L por la batería",
       "1.900 kg: el peso lastra la agilidad",
-      "Si no se carga a diario, el consumo de gasolina se dispara",
+      "Si no se carga a diario, el gasto en gasolina se dispara",
       "La versión e-hybrid solo se ofrece con tracción delantera",
     ],
     largoMm: 4531,
@@ -628,7 +628,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado WLTP declarado (l/100 km); depende del hábito de carga; precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo combinado WLTP declarado (l/100 km); depende del hábito de carga; gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -709,7 +709,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 275,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -790,7 +790,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 360,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -871,7 +871,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 156,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -952,7 +952,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 335,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasóleo aprox 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasóleo a unos 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1033,7 +1033,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 354,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasóleo aprox 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasóleo a unos 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1114,7 +1114,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -1195,7 +1195,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 258,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -1276,7 +1276,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 348,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasóleo aprox 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasóleo a unos 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1357,7 +1357,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 536,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1438,7 +1438,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 525,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1519,7 +1519,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 246,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1567,7 +1567,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "639 CV híbridos enchufables: 0-100 en 3,6 s con etiqueta Cero",
-      "84 km eléctricos WLTP: el día a día sin gastar gasolina",
+      "84 km eléctricos WLTP para el día a día sin gastar gasolina",
       "285 km/h de punta: el familiar más rápido con enchufe",
       "Tracción total quattro con el V6 biturbo de siempre",
       "El sucesor espiritual del RS4 Avant, más grande y potente",
@@ -1600,7 +1600,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 286,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo combinado WLTP declarado (l/100 km); depende del hábito de carga; precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo combinado WLTP declarado (l/100 km); depende del hábito de carga; gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1681,7 +1681,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -1762,7 +1762,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 473,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (l/100 km); precio gasolina 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado (l/100 km); gasolina a 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1843,7 +1843,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 201,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica aprox 0,18 EUR/kWh; 15.000 km/año",
+      "notas": "consumo WLTP declarado (kWh/100 km); recarga doméstica a unos 0,18 EUR/kWh; 15.000 km al año",
       "estimado": true
     },
     galeria: [
@@ -2005,7 +2005,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 401,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 9,4 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi Sport. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 9,4 l/100 km WLTP a 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi Sport. No son tarifas reales.",
       "estimado": true,
     },
     galeria: [
@@ -2062,7 +2062,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "Primicia mundial: paneles OLED digitales curvados en 3D (512 segmentos en 6 paneles)",
       "V6 TDI de 299 CV y 630 Nm con MHEV plus y compresor eléctrico: 0-100 en 6,5 s",
       "El Audi más grande jamás fabricado: 5,31 m, 7 plazas y maletero de 684 L",
-      "Etiqueta ECO de la DGT: entra en las ZBE sin restricciones",
+      "Etiqueta ECO de la DGT: acceso a las ZBE sin restricciones",
       "Puertas automáticas, el techo panorámico más grande de Audi y Bang & Olufsen de 1.360 W",
     ],
     contras: [
@@ -2086,7 +2086,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 361,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 7,7 l/100 km WLTP × 1,85 €/l (precio gasóleo aprox); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 7,7 l/100 km WLTP a 1,85 €/l (precio gasóleo aprox); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi. No son tarifas reales.",
       "estimado": true,
     },
     euroncap: {

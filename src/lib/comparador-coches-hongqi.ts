@@ -540,7 +540,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 167,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Coste energético estimado combinando recarga doméstica y gasolina.",
+        "15.000 km al año, uso mixto eléctrico/gasolina con todo riesgo. Coste energético estimado combinando recarga doméstica y gasolina.",
       estimado: true,
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 191,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
+        "15.000 km al año, uso mixto eléctrico/gasolina con todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
       estimado: true,
     },
     galeria: [
@@ -948,7 +948,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 165,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Consumo de 4,4 l/100 km con batería descargada (WLTC).",
+        "15.000 km al año, uso mixto eléctrico/gasolina con todo riesgo. Consumo de 4,4 l/100 km con batería descargada (WLTC).",
       estimado: true,
     },
     galeria: [
@@ -1207,7 +1207,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 225,
       notas:
-        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
+        "15.000 km al año, uso mixto eléctrico/gasolina con todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
       estimado: true,
     },
     galeria: [

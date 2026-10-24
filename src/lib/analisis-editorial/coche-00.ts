@@ -53,7 +53,7 @@ export const ANALISIS_COCHE_00: MapaAnalisis = {
   "adria-twin-600-spb-2026-precio-ficha-tecnica": {
     parrafos: [
       "La Twin 600 SPB es la camper para quien quiere viajar aparcando como un turismo grande. Con 5,99 metros —bajo la barrera psicológica de los seis— cabe en una plaza normal y se mueve por ciudad sin el estrés de una autocaravana. La distribución SPB monta cama transversal fija de 196 x 145 sobre un garaje generoso, la fórmula que hizo de la familia Twin un estándar europeo.",
-      "El diésel de 140 CV mueve con soltura un conjunto ligero; las cuatro plazas permiten viajar en familia aunque dormir cuatro adultos cada noche sea justo. Su hábitat natural: dos personas más invitados ocasionales. Como en toda la gama, sin tarifa oficial en España: el precio se negocia en el concesionario.",
+      "El diésel de 140 CV mueve con soltura un conjunto ligero; las cuatro plazas permiten viajar en familia aunque dormir cuatro adultos cada noche sea justo. Su hábitat natural: dos personas más invitados ocasionales. Como en toda la gama, sin precio oficial en España: el precio se negocia en el concesionario.",
       "Te encantará si eres pareja activa —bici, surf, escalada— y valoras aparcar en cualquier sitio todo el año. Te frustrará si necesitas cuatro camas fijas o el máximo espacio interior por euro.",
     ],
     veredicto: "Te encantará si priorizas compacidad y aparcamiento; te frustrará si necesitas camas para cuatro.",
@@ -620,7 +620,7 @@ export const ANALISIS_COCHE_00: MapaAnalisis = {
   },
   "alfa-romeo-stelvio-quadrifoglio-520-precio-ficha-tecnica": {
     parrafos: [
-      "El Stelvio Quadrifoglio ostentó el récord del SUV más rápido en Nürburgring: 520 CV, 3,8 segundos en el 0-100 y un V6 biturbo con ADN de Maranello en un familiar de 525 litros. Por 110.900 euros, es el SUV italiano definitivo, el que demostró que un vehículo alto y familiar podía emocionar como un deportivo puro.",
+      "El Stelvio Quadrifoglio ostentó el récord del SUV más rápido en Nürburgring: 520 CV, un 0-100 en 3,8 segundos y un V6 biturbo con ADN de Maranello en un familiar de 525 litros. Por 110.900 euros, es el SUV italiano definitivo, el que demostró que un vehículo alto y familiar podía emocionar como un deportivo puro.",
       "El duelo con el Porsche Macan GTS es inevitable y desfavorable en acabados interiores, digitalización y reventa. Pero el Quadrifoglio ofrece lo que el alemán no vende a ningún precio: carácter latino, una banda sonora inconfundible y el trébol en la aleta delantera. Es el SUV para quien el automóvil es una pasión, no un electrodoméstico.",
       "Su público es el alfista con 110.000 euros y hueco en el garaje para el juguete definitivo de la marca. No es su público el comprador racional que maximiza la inversión: un Macan GTS es más completo, más refinado y pierde menos valor con el tiempo.",
     ],

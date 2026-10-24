@@ -93,7 +93,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 24.000 km", queSeCambia: "Aceite + correa de transmisión + rodillos del variador", costeAproxEur: 220 },
       ],
       costeAnualAproxEur: 150,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -178,7 +178,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 24.000 km", queSeCambia: "Aceite + correa + rodillos del variador", costeAproxEur: 240 },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -245,7 +245,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       intervaloMantenimiento: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MA)",
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km; es una operación sencilla con la tapa lateral.",
+        "El filtro de aire se sustituye cada 18.000 km; es una operación sencilla con la tapa lateral.",
         "Correa de transmisión: inspección cada 12.000 km, cambio hacia los 24.000 km.",
         "Ideal para aprender mecánica básica: todo es accesible y barato.",
       ],
@@ -259,7 +259,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 24.000 km", queSeCambia: "Aceite + correa + rodillos", costeAproxEur: 210 },
       ],
       costeAnualAproxEur: 140,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -344,7 +344,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 20.000 km", queSeCambia: "Aceite + correa de transmisión + rodillos", costeAproxEur: 260 },
       ],
       costeAnualAproxEur: 190,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -425,7 +425,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 20.000 km", queSeCambia: "Aceite + correa + rodillos del variador", costeAproxEur: 240 },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -493,7 +493,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       aceiteTipo: "10W-40 (Yamalube)",
       trucos: [
         "Al ser el Yamaha más sencillo, su mantenimiento es el más barato de la gama.",
-        "Correa y rodillos: inspección cada 6.000 km, cambio hacia los 20.000 km.",
+        "Correa y rodillos: inspección cada 6.000 km, sustitución hacia los 20.000 km.",
         "Las pastillas de freno delanteras son económicas y fáciles de cambiar.",
       ],
     },
@@ -505,7 +505,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + bujía + filtro de aire", costeAproxEur: 130 },
       ],
       costeAnualAproxEur: 130,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -732,7 +732,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       intervaloMantenimiento: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
       aceiteTipo: "5W-40 sintético",
       trucos: [
-        "Correa: inspección cada 10.000 km, cambio hacia los 20.000 km.",
+        "Correa: inspección cada 10.000 km, sustitución hacia los 20.000 km.",
         "El filtro de aire se cambia cada 10.000 km.",
         "Las ruedas altas agradecen presiones correctas: revísalas cada dos semanas.",
       ],
@@ -813,7 +813,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       aceiteTipo: "10W-40",
       trucos: [
         "Kymco recomienda revisiones cada 5.000 km o un año; cada una ronda los 52 €.",
-        "Correa y rodillos: inspección cada 5.000 km, cambio hacia los 20.000 km.",
+        "Correa y rodillos: inspección cada 5.000 km, sustitución hacia los 20.000 km.",
         "El filtro de aire se cambia cada 10.000 km.",
       ],
     },
@@ -894,7 +894,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       aceiteTipo: "10W-40",
       trucos: [
         "Revisiones cada 5.000 km por unos 52 €: el mantenimiento más barato del segmento.",
-        "Correa: inspección cada 5.000 km, cambio hacia los 20.000 km.",
+        "Correa: inspección cada 5.000 km, sustitución hacia los 20.000 km.",
         "El filtro de aire se cambia cada 10.000 km.",
       ],
     },
@@ -1221,7 +1221,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Revisa el desgaste de piñón y corona cada 12.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "El filtro de aire se sustituye cada 18.000 km.",
         "La bujía, cada 12.000 km: es de fácil acceso.",
         "Una cadena bien cuidada dura más de 25.000 km en una 125.",
       ],
@@ -1234,7 +1234,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + bujía + filtro de aire + kit de arrastre (inspección)", costeAproxEur: 160 },
       ],
       costeAnualAproxEur: 160,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -1306,7 +1306,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "El kit de arrastre completo cuesta poco: no apures una cadena gastada.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "El filtro de aire se sustituye cada 18.000 km.",
         "Revisa el juego de válvulas cada 12.000 km: en este motor es sencillo.",
         "Con un mantenimiento básico supera los 100.000 km sin abrir motor.",
       ],
@@ -1319,7 +1319,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + bujía + filtro de aire + reglaje de válvulas", costeAproxEur: 140 },
       ],
       costeAnualAproxEur: 130,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -1404,7 +1404,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + bujía + filtro de aire", costeAproxEur: 160 },
       ],
       costeAnualAproxEur: 170,
-      fuente: "Intervalos según manual oficial Honda; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Honda; costes orientativos de taller españoles",
     },
   },
   {
@@ -1489,7 +1489,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + filtro + bujía + filtro de aire", costeAproxEur: 170 },
       ],
       costeAnualAproxEur: 180,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -1574,7 +1574,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + filtro + bujía + filtro de aire", costeAproxEur: 170 },
       ],
       costeAnualAproxEur: 180,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -1660,7 +1660,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         { nombre: "Revisión / 12.000 km", queSeCambia: "Aceite + bujía + filtro de aire", costeAproxEur: 140 },
       ],
       costeAnualAproxEur: 140,
-      fuente: "Intervalos según manual oficial Yamaha; costes orientativos de taller en España",
+      fuente: "Intervalos según el manual oficial Yamaha; costes orientativos de taller españoles",
     },
   },
   {
@@ -1817,7 +1817,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
         "Kit de arrastre: inspección cada 12.000 km.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 18.000 km.",
+        "El filtro de aire se sustituye cada 18.000 km.",
         "La bujía de iridio dura hasta los 24.000 km.",
         "Revisa el refrigerante: es de refrigeración líquida.",
       ],

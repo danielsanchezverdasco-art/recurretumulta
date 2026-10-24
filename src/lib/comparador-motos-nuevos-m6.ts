@@ -79,7 +79,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "sym-jet-14-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por SYM España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por SYM España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -93,7 +93,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "SYM España: sin plan de mantenimiento publicado para el Jet 14 125",
+      fuente: "SYM España: sin plan de mantenimiento a la vista para el Jet 14 125",
     },
   },
   {
@@ -162,7 +162,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "sym-cruisym-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por SYM España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por SYM España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -176,7 +176,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "SYM España: sin plan de mantenimiento publicado para el Cruisym 125",
+      fuente: "SYM España: sin plan de mantenimiento a la vista para el Cruisym 125",
     },
   },
   {
@@ -245,7 +245,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "kymco-agility-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Kymco España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Kymco España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -259,7 +259,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Kymco España: sin plan de mantenimiento publicado para el Agility S 125",
+      fuente: "Kymco España: sin plan de mantenimiento a la vista para el Agility S 125",
     },
   },
   {
@@ -329,7 +329,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "zontes-350d-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Zontes España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Zontes España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -343,7 +343,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: sin plan de mantenimiento publicado para el 350D",
+      fuente: "Zontes España: sin plan de mantenimiento a la vista para el 350D",
     },
   },
   {
@@ -412,7 +412,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "zontes-125m-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Zontes España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Zontes España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -426,7 +426,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zontes España: sin plan de mantenimiento publicado para el 125M",
+      fuente: "Zontes España: sin plan de mantenimiento a la vista para el 125M",
     },
   },
   {
@@ -496,7 +496,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "voge-sr1-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Voge España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Voge España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -510,7 +510,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Voge España: sin plan de mantenimiento publicado para el SR1 125",
+      fuente: "Voge España: sin plan de mantenimiento a la vista para el SR1 125",
     },
   },
   {
@@ -580,7 +580,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "aprilia-sr-gt-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Aprilia España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Aprilia España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -594,7 +594,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Aprilia España: sin plan de mantenimiento publicado para el SR GT 125",
+      fuente: "Aprilia España: sin plan de mantenimiento a la vista para el SR GT 125",
     },
   },
   {
@@ -664,7 +664,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "italjet-dragster-125-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Italjet España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Italjet España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -678,7 +678,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Italjet España: sin plan de mantenimiento publicado para el Dragster 125",
+      fuente: "Italjet España: sin plan de mantenimiento a la vista para el Dragster 125",
     },
   },
   {
@@ -740,7 +740,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "yadea-g5-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Yadea España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Yadea España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -821,7 +821,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "niu-mqi-gt-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por NIU España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por NIU España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -902,7 +902,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "segway-e110s-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Segway España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Segway España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -983,7 +983,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "horwin-ek1-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Horwin España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Horwin España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -997,7 +997,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Horwin España: sin plan de mantenimiento publicado para el EK1",
+      fuente: "Horwin España: sin plan de mantenimiento a la vista para el EK1",
     },
   },
   {
@@ -1064,7 +1064,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "efun-tiger-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Efun España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Efun España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1078,7 +1078,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Efun España: sin plan de mantenimiento publicado para el Tiger",
+      fuente: "Efun España: sin plan de mantenimiento a la vista para el Tiger",
     },
   },
   {
@@ -1145,7 +1145,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "next-nx2-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Next Motors (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Next Motors (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1227,7 +1227,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "sunra-miku-max-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Sunra España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Sunra España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1308,7 +1308,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "silence-s01-plus-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Silence España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Silence España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1322,7 +1322,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Silence España: sin plan de mantenimiento publicado para el S01+",
+      fuente: "Silence España: sin plan de mantenimiento a la vista para el S01+",
     },
   },
   {
@@ -1472,7 +1472,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "harley-davidson-pan-america-1250-st-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Harley-Davidson España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Harley-Davidson España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1554,7 +1554,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "harley-davidson-road-glide-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Harley-Davidson España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Harley-Davidson España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1636,7 +1636,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "harley-davidson-street-bob-114-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Harley-Davidson España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Harley-Davidson España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",
@@ -1718,7 +1718,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "indian-challenger-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "Sin programa publicado por Indian Motorcycle España (consultado 09/10/2026); se recomienda inspección anual",
+      intervalo: "Sin programa publicado por Indian Motorcycle España (revisado 09/10/2026); se recomienda inspección anual",
       revisiones: [
         {
           nombre: "Inspección anual recomendada",

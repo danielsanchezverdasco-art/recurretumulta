@@ -172,7 +172,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo 12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual (orientativa)",
@@ -181,7 +181,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China y EAU); orientativo según práctica de EREV",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China y EAU); orientativo según práctica de EREV",
     },
   },
   {
@@ -234,7 +234,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -243,7 +243,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -308,7 +308,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo 12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual (orientativa)",
@@ -317,7 +317,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de EREV",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo según práctica de EREV",
     },
   },
   {
@@ -382,7 +382,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -391,7 +391,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China y Asia); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China y Asia); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -423,7 +423,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["Con una batería de 94,5 kWh, esta versión de tracción trasera declara 700 km en ciclo CLTC, una medición china más optimista que la WLTP europea.", "El motor trasero rinde 313 CV y 370 Nm y completa el 0 a 100 km/h en 6,7 s sin necesidad de añadir un segundo motor delantero.", "Incorpora tres sensores LiDAR y el sistema Huawei ADS 2.0 de serie, un despliegue de sensores poco habitual incluso entre berlinas premium europeas.", "Su pantalla panorámica de 35,4 pulgadas en 4K, junto a la central de 15,6 pulgadas y los asientos delanteros de gravedad cero, define un habitáculo pensado para viajar tumbado en parado y conectado en marcha."],
+    pros: ["Con una batería de 94,5 kWh, esta versión de tracción trasera declara 700 km en ciclo CLTC, una medición china más optimista que la WLTP europea.", "El motor trasero rinde 313 CV y 370 Nm y firma un 0 a 100 km/h de 6,7 s sin necesidad de añadir un segundo motor delantero.", "Incorpora tres sensores LiDAR y el sistema Huawei ADS 2.0 de serie, un despliegue de sensores poco habitual incluso entre berlinas premium europeas.", "Su pantalla panorámica de 35,4 pulgadas en 4K, junto a la central de 15,6 pulgadas y los asientos delanteros de gravedad cero, define un habitáculo pensado para viajar tumbado en parado y conectado en marcha."],
     contras: ["No tiene luneta trasera, por lo que la visión hacia atrás depende por completo de la cámara y del retrovisor interior digital.", "No se comercializa oficialmente en España: el desembarco europeo anunciado para 2027 empezará con los 06T y 07L, así que este 12 carece aquí de red, recambios y asistencia propia.", "Medir 5.020 mm de largo y 1.999 mm de ancho lo convierte en un coche incómodo para garajes estrechos y calles antiguas, pese a ser una berlina de cinco plazas.", "Esta variante de 313 CV es la pausada de la familia: sus 6,7 s quedan muy lejos de los 3,9 s del bimotor de 578 CV, y su entorno HarmonyOS está construido alrededor de servicios y aplicaciones de China."],
     imagen: "/media/avatr-12-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/avatr-12-2024-precio-ficha-tecnica-oficial.webp",
@@ -444,7 +444,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -453,7 +453,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -518,7 +518,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -527,7 +527,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -592,7 +592,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -601,7 +601,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China y Oceanía); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China y Oceanía); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -666,7 +666,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -675,7 +675,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -825,7 +825,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -834,7 +834,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -887,7 +887,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -896,7 +896,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -949,7 +949,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -958,7 +958,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -1011,7 +1011,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -1020,7 +1020,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -1073,7 +1073,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -1082,7 +1082,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
   {
@@ -1130,7 +1130,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     opiniones: [],
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Modelo solo para China, sin prueba Euro NCAP."},
     planMantenimiento: {
-      intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
+      intervalo: "Sin programa oficial publicado en Europa; orientativo: cada 24 meses o 30.000 km (inspección)",
       revisiones: [
         {
           nombre: "Inspección bienal (orientativa)",
@@ -1139,7 +1139,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin manual oficial accesible en España (modelo solo a la venta en China); orientativo según práctica de turismos eléctricos",
+      fuente: "Sin manual oficial a mano en España (modelo a la venta solo en China); orientativo, según la práctica de turismos eléctricos",
     },
   },
 {
@@ -1187,7 +1187,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     opiniones: [],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "No publicado por la marca para este modelo",
+      intervalo: "La marca no lo publica para este modelo",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "GWM no publica el plan de mantenimiento del Tank 330 (solo a la venta en China)"
@@ -1238,7 +1238,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     opiniones: [],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "No publicado por la marca para este modelo",
+      intervalo: "La marca no lo publica para este modelo",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Ora no publica el plan de mantenimiento del Ballet Cat (solo a la venta en China)"
@@ -1289,7 +1289,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     opiniones: [],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "No publicado por la marca para este modelo",
+      intervalo: "La marca no lo publica para este modelo",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Haval no publica el plan de mantenimiento del Shenshou (mercado chino)"
@@ -1340,7 +1340,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     opiniones: [],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "No publicado por la marca para este modelo",
+      intervalo: "La marca no lo publica para este modelo",
       revisiones: [],
       costeAnualAproxEur: null,
       fuente: "Haval no publica el plan de mantenimiento del Cool Dog"
@@ -1394,7 +1394,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
-      fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
+      fuente: "GWM Australia: cada 12 meses o 15.000 km de mantenimiento; garantía de 7 años sin límite de km (tarifas en AUD, no publicadas en EUR)"
     }
   },
   {
@@ -1445,7 +1445,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
-      fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
+      fuente: "GWM Australia: cada 12 meses o 15.000 km de mantenimiento; garantía de 7 años sin límite de km (tarifas en AUD, no publicadas en EUR)"
     }
   },
   {
@@ -1496,7 +1496,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
-      fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
+      fuente: "GWM Australia: cada 12 meses o 15.000 km de mantenimiento; garantía de 7 años sin límite de km (tarifas en AUD, no publicadas en EUR)"
     }
   },
   {
@@ -1547,7 +1547,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
-      fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
+      fuente: "GWM Australia: cada 12 meses o 15.000 km de mantenimiento; garantía de 7 años sin límite de km (tarifas en AUD, no publicadas en EUR)"
     }
   },
 {
@@ -1628,7 +1628,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Inspección general + filtro de polen; líquido de frenos y refrigerante según estado", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -1709,7 +1709,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Inspección general + filtro de polen; líquido de frenos según estado", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -1779,7 +1779,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite del extensor + filtros + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -1845,7 +1845,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 117,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real varía con el hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
@@ -1860,7 +1860,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -1926,7 +1926,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 113,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real varía con el hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
@@ -1941,7 +1941,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2007,7 +2007,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 112,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real varía con el hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
@@ -2022,7 +2022,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2088,7 +2088,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 117,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real varía con el hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
@@ -2103,7 +2103,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2173,7 +2173,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite del extensor + filtros + inspección general", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2243,7 +2243,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Aceite + filtros + inspección del sistema híbrido y la suspensión neumática", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2324,7 +2324,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Inspección general + filtro de polen; líquido de frenos según estado", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
   {
@@ -2394,7 +2394,7 @@ export const COCHES_EXP24: CocheComparador[] = [
         { nombre: "Revisión según manual del fabricante", queSeCambia: "Inspección general + filtro de polen; líquido de frenos según estado", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
-      fuente: "Sin plan oficial publicado; intervalos orientativos según manual del fabricante",
+      fuente: "Sin plan oficial a mano; intervalos orientativos según el manual del fabricante",
     },
   },
 {

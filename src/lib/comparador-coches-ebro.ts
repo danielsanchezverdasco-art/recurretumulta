@@ -70,7 +70,7 @@ export const COCHES_EBRO: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP declarado 5,7 l/100 km; gasolina 95 aprox 1,85 EUR/l; 15.000 km/año",
+      "notas": "consumo WLTP declarado 5,7 l/100 km; gasolina 95 a unos 1,85 EUR/l; 15.000 km/año",
       "estimado": true
     },
     galeria: [

@@ -181,7 +181,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 431,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "10 l/100 km WLTP (ficha oficial Maserati); 15.000 km/año; gasolina 1,65 €/l",
+      notas: "10 l/100 km WLTP según ficha oficial Maserati; 15.000 km al año; gasolina 1,65 €/l",
       estimado: true,
     },
     galeria: [
@@ -258,7 +258,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 512,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "estimado ~11,5 l/100 km (sin WLTP 2027 publicado); 15.000 km/año; gasolina 1,65 €/l",
+      notas: "estimado ~11,5 l/100 km (sin WLTP 2027 publicado); 15.000 km al año; gasolina 1,65 €/l",
       estimado: true,
     },
     galeria: [
@@ -335,7 +335,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 268,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "22,8 kWh/100 km WLTP (ficha oficial Maserati); 15.000 km/año; 0,18 €/kWh en casa",
+      notas: "22,8 kWh/100 km WLTP según ficha oficial Maserati; 15.000 km al año; 0,18 €/kWh en casa",
       estimado: true,
     },
     galeria: [
@@ -412,7 +412,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 456,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "10 l/100 km WLTP (ficha oficial Maserati); 15.000 km/año; gasolina 1,65 €/l",
+      notas: "10 l/100 km WLTP según ficha oficial Maserati; 15.000 km al año; gasolina 1,65 €/l",
       estimado: true,
     },
     galeria: [
@@ -489,7 +489,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 537,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "estimado ~11,5 l/100 km (sin WLTP 2027 publicado); 15.000 km/año; gasolina 1,65 €/l",
+      notas: "estimado ~11,5 l/100 km (sin WLTP 2027 publicado); 15.000 km al año; gasolina 1,65 €/l",
       estimado: true,
     },
     galeria: [
@@ -566,7 +566,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 286,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "23,4 kWh/100 km WLTP (ficha oficial Maserati); 15.000 km/año; 0,18 €/kWh en casa",
+      notas: "23,4 kWh/100 km WLTP según ficha oficial Maserati; 15.000 km al año; 0,18 €/kWh en casa",
       estimado: true,
     },
     galeria: [
@@ -700,7 +700,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 691,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "11,7 l/100 km WLTP (prensa especializada); 15.000 km/año; gasolina 1,65 €/l",
+      notas: "11,7 l/100 km WLTP (prensa especializada); 15.000 km al año; gasolina 1,65 €/l",
       estimado: true,
     },
     galeria: [
@@ -777,7 +777,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       costeMensualTotal: 698,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "11,6 l/100 km WLTP (km77); 15.000 km/año; gasolina 1,65 €/l; uso en circuito no incluido",
+      notas: "11,6 l/100 km WLTP (km77); 15.000 km al año; gasolina 1,65 €/l; uso en circuito no incluido",
       estimado: true,
     },
     galeria: [

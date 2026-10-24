@@ -1662,8 +1662,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: null,
     pesoKg: 1575,
     planMantenimiento: {
-      fuente: "Lexus España: intervalo oficial 15.000 km o 1 año; costes no publicados por la marca",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Lexus España: intervalo en vigor 15.000 km o 1 año; sin costes publicados por la marca",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1833,8 +1833,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: 185,
     pesoKg: 1265,
     planMantenimiento: {
-      fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Toyota España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1918,8 +1918,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: null,
     pesoKg: 1265,
     planMantenimiento: {
-      fuente: "Lexus España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Lexus España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1997,8 +1997,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: 185,
     pesoKg: 1420,
     planMantenimiento: {
-      fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Toyota España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -2268,7 +2268,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo oficial para eléctricos; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo oficial para eléctricos; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2345,7 +2345,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Mejor resultado de su categoría en 2025 (Best Performer)."
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 1 año (Service A y Service B alternos)",
+      intervalo: "Cada 15.000 km o cada año (Service A y Service B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -2358,7 +2358,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones no publicados por la marca"
+      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Mercedes-Benz España",
     fuenteUrl: "https://www.mercedes-benz.es"
@@ -2435,7 +2435,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en diciembre de 2024 sobre la generación U25."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2443,7 +2443,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "MINI España: intervalo CBS oficial; precios de revisiones no publicados por la marca"
+      fuente: "MINI España: intervalo CBS oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "MINI España",
     fuenteUrl: "https://www.mini.es"
@@ -2520,7 +2520,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en diciembre de 2024 sobre la generación U25."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2528,7 +2528,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "MINI España: intervalo CBS oficial; precios de revisiones no publicados por la marca"
+      fuente: "MINI España: intervalo CBS oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "MINI España",
     fuenteUrl: "https://www.mini.es"
@@ -2605,7 +2605,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba de septiembre de 2025: 78/84/85/80 % en las cuatro áreas."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2618,7 +2618,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2695,7 +2695,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (2022) sobre la generación U11; URL del resultado oficial no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2708,7 +2708,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es/es/coches-bmw/m/x1-m35i/bmw-x1-m35i-xdrive.html"
@@ -2785,7 +2785,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Resultado publicado el 09/07/2024 sobre la base del X1 (misma plataforma)."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2798,7 +2798,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2877,7 +2877,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (2025) sobre la generación G45; URL del resultado oficial no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2890,7 +2890,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2967,7 +2967,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en 2022 sobre la generación X254."
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 1 año (Service A y Service B alternos)",
+      intervalo: "Cada 15.000 km o cada año (Service A y Service B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -2980,7 +2980,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones no publicados por la marca"
+      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Mercedes-Benz España",
     fuenteUrl: "https://www.mercedes-benz.es"
@@ -3070,7 +3070,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3160,7 +3160,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3237,7 +3237,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (enero de 2024) confirmada por comunicado oficial de BMW; URL del resultado no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -3250,7 +3250,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "coches.net",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/bmw/serie_5/berlina/4-puertas/520i_208cv_hibrido/473/785069820251101/"
@@ -3342,7 +3342,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo oficial para eléctricos; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo oficial para eléctricos; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -3432,7 +3432,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3517,7 +3517,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Land Rover España: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Land Rover España: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Land Rover España",
     fuenteUrl: "https://www.landrover.es"
@@ -3602,7 +3602,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Land Rover España: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Land Rover España: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Land Rover España",
     fuenteUrl: "https://www.landrover.es"

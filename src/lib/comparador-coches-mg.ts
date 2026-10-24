@@ -68,7 +68,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 206,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 6,1 l/100 km WLTP a 1,85 €/l; seguro y mantenimiento orientativos de un urbano de gasolina en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 6,1 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un urbano de gasolina en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 222,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 6,6 l/100 km WLTP a 1,85 €/l; seguro y mantenimiento orientativos de un SUV urbano de gasolina en España. Precio desde 14.990 € con financiación. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 6,6 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un SUV urbano de gasolina en España. Precio desde 14.990 € con financiación. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 249,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 7,6 l/100 km WLTP a 1,85 €/l; seguro y mantenimiento orientativos de un SUV medio de gasolina en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 7,6 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un SUV medio de gasolina en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -302,7 +302,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 210,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 5,5 l/100 km WLTP a 1,85 €/l; seguro y mantenimiento orientativos de un SUV híbrido en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 5,5 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un SUV híbrido en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -368,7 +368,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 115,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~15,5 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~15,5 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos para un compacto eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -446,7 +446,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 113,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~14,2 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~14,2 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos para un compacto eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -537,7 +537,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 116,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~14,7 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~14,7 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos para un compacto eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -615,7 +615,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 124,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~14,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~14,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos para un compacto eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -693,7 +693,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 163,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 18,7 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto deportivo eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 18,7 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos de un compacto deportivo eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -771,7 +771,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 115,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 15,5 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un compacto eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 15,5 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos para un compacto eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -849,7 +849,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 119,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 17,5 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un familiar eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 17,5 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos de un familiar eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -917,7 +917,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 139,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 19,4 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 19,4 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -995,7 +995,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 197,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 16,7 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un descapotable eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 16,7 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos de un descapotable eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -1063,7 +1063,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 222,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: 19,1 kWh/100 km WLTP a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un descapotable deportivo eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: 19,1 kWh/100 km WLTP a 0,18 euros el kWh (recarga doméstica); con seguro y mantenimiento orientativos de un descapotable deportivo eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -1146,7 +1146,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 113,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~14,4 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~14,4 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -1214,7 +1214,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 117,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación para 1.000 km/mes: ~13,3 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peajes ni aparcamiento.",
+      notas: "Estimación para 1.000 km/mes: ~13,3 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento orientativos de un SUV eléctrico en España. Sin peaje ni aparcamientos.",
       estimado: true,
     },
     galeria: [
@@ -1292,7 +1292,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 136,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 17,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un SUV eléctrico",
+      notas: "15.000 km/año; consumo WLTP 17,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento estimados para un SUV eléctrico",
       estimado: true
     },
     galeria: [
@@ -1377,7 +1377,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 135,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 17,3 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados",
+      notas: "15.000 km/año; consumo WLTP 17,3 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento estimados",
       estimado: true
     },
     galeria: [
@@ -1460,7 +1460,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 137,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 18,4 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un familiar eléctrico",
+      notas: "15.000 km/año; consumo WLTP 18,4 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento estimados para un familiar eléctrico",
       estimado: true
     },
     galeria: [
@@ -1538,7 +1538,7 @@ export const COCHES_MG: CocheComparador[] = [
       costeMensualTotal: 164,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; consumo WLTP 20,9 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un SUV eléctrico prestacional",
+      notas: "15.000 km/año; consumo WLTP 20,9 kWh/100 km a 0,18 €/kWh (recarga doméstica); con seguro y mantenimiento estimados para un SUV eléctrico prestacional",
       estimado: true
     },
     galeria: [

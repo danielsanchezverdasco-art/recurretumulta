@@ -782,7 +782,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 937,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,0 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo estimado de 16,0 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -863,7 +863,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 978,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,0 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo estimado de 16,0 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -944,7 +944,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 990,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo estimado de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -1025,7 +1025,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 990,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo estimado de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -1187,7 +1187,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 1287,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,0 l/100 km (pieza única Coachbuild, sin datos publicados)",
+      "notas": "15.000 km/año; consumo estimado de 16,0 l/100 km (pieza única Coachbuild, sin datos publicados)",
       "estimado": true
     },
     galeria: [
@@ -1268,7 +1268,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 978,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,0 l/100 km (misma mecánica que el Ghost, sin dato WLTP propio)",
+      "notas": "15.000 km/año; consumo estimado de 16,0 l/100 km (misma mecánica que el Ghost, sin dato WLTP propio)",
       "estimado": true
     },
     galeria: [
@@ -1349,7 +1349,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
       "costeMensualTotal": 1032,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo supuesto de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo estimado de 16,5 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [

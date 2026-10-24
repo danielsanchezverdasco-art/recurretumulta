@@ -140,7 +140,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; tarifa 40.775 € (km77, 02/2026)",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; tarifa 40.775 € (km77, 02/2026)",
       "estimado": true
     },
     galeria: [
@@ -240,7 +240,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; sin consumo WLTP publicado para la versión 288 CV: estimado 2,0 l/100 km en uso mixto con carga habitual; gasolina 95 a 1,65 €/l; PVP 43.169 € (quecochemecompro.com)",
+      "notas": "15.000 km/año; sin consumo WLTP publicado para la versión 288 CV: estimado 2,0 l/100 km en uso mixto con carga habitual; gasolina 95 a 1,65 euros el litro; PVP 43.169 € (quecochemecompro.com)",
       "estimado": true
     },
     galeria: [
@@ -502,7 +502,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; desde 48.640 € según el comparador oficial de hyundai.es",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; desde 48.640 € según el comparador oficial de hyundai.es",
       "estimado": true
     },
     galeria: [
@@ -664,7 +664,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 147,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; 3,8 l/100 km WLTP en modo híbrido, cargando a diario el coste real es menor; gasolina 95 a 1,65 €/l; desde 54.210 € (hyundai.es)",
+      "notas": "15.000 km/año; 3,8 l/100 km WLTP en modo híbrido, cargando a diario el coste real es menor; gasolina 95 a 1,65 euros el litro; desde 54.210 € (hyundai.es)",
       "estimado": true
     },
     galeria: [
@@ -764,7 +764,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 119,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; tarifa 30.290 € (km77, 08/2025)",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; tarifa 30.290 € (km77, 08/2025)",
       "estimado": true
     },
     galeria: [
@@ -926,7 +926,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 124,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; microhíbrido 48V (etiqueta ECO); tarifa 36.025 € (km77, 08/2025)",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; microhíbrido 48V (etiqueta ECO); tarifa 36.025 € (km77, 08/2025)",
       "estimado": true
     },
     galeria: [
@@ -1007,7 +1007,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 121,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; tarifa 33.040 € (km77, 08/2026)",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; tarifa 33.040 € (km77, 08/2026)",
       "estimado": true
     },
     galeria: [
@@ -1107,7 +1107,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 110,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; gasolina 95 a 1,65 €/l; tarifa 29.250 € (km77, listado 02/2026)",
+      "notas": "15.000 km/año; gasolina 95 a 1,65 euros el litro; tarifa 29.250 € (km77, listado 02/2026)",
       "estimado": true
     },
     galeria: [
@@ -1176,7 +1176,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       "costeMensualTotal": 105,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año; consumo WLTP sin publicar para la versión 48V: estimado 5,4 l/100 km; gasolina 95 a 1,65 €/l; tarifa 25.970 € (km77, 01/2026)",
+      "notas": "15.000 km/año; consumo WLTP sin publicar para la versión 48V: estimado 5,4 l/100 km; gasolina 95 a 1,65 euros el litro; tarifa 25.970 € (km77, 01/2026)",
       "estimado": true
     },
     galeria: [
@@ -1408,7 +1408,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 128,
       precioKwh: 0.18,
       precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 15.6 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 15.6 kWh/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1570,7 +1570,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 122,
       precioKwh: 0.18,
       precioGasolinaL: 0.18,
-      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 14.3 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, electricidad a 0,18 €/kWh y consumo WLTP de 14.3 kWh/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1646,7 +1646,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 234,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 7.0 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 7.0 l/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1741,7 +1741,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 189,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.8 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 4.8 l/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1817,7 +1817,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 192,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 5.2 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y un consumo WLTP de 5.2 l/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1893,7 +1893,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       costeMensualTotal: 205,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 5.9 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y un consumo WLTP de 5.9 l/100 km; con seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [

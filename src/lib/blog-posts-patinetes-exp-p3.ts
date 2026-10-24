@@ -62,7 +62,7 @@ Monta el equipo que exigen 8,4 kW: frenos de disco de gran diámetro y neumátic
 
 ## Certificado DGT y normativa VMP
 
-El Burn-e 3 Max **no es un VMP legal** para circular por España a su velocidad máxima: la normativa limita los vehículos de movilidad personal a **25 km/h**, prohíbe circular por **aceras** y exige ir por carril bici o calzada donde esté permitido. En Europa se vende limitado a 25 km/h; deslimitarlo solo tiene sentido en **circuito privado**. A estas velocidades, la equipación de moto (casco integral, protecciones) no es opcional: es obligatoria por sentido común.
+El Burn-e 3 Max **no es VMP legal** para circular por España a su velocidad máxima: la normativa limita los vehículos de movilidad personal a **25 km/h**, prohíbe circular por **aceras** y exige ir por carril bici o calzada donde esté permitido. En Europa se vende limitado a 25 km/h; deslimitarlo solo tiene sentido en **circuito privado**. A estas velocidades, la equipación de moto (casco integral, protecciones) no es opcional: es obligatoria por sentido común.
 
 ## Puntos fuertes y débiles
 
@@ -533,7 +533,7 @@ Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (
 
 ## Certificado DGT y normativa VMP
 
-**No homologado DGT**: en España circula **limitado a 25 km/h**, con **prohibición de aceras** y uso de carril bici o calzada permitida. Los 70 km/h son para circuito.
+**No homologado DGT**: en España circula **capado a 25 km/h**, con **prohibición de aceras** y uso de carril bici o calzada permitida. Los 70 km/h son para circuito.
 
 ## Puntos fuertes y débiles
 
@@ -549,7 +549,7 @@ Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (
 
 ## Nami: la ingeniería de Michael Sha aplicada al patinete extremo
 
-Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de los patinetes de altas prestaciones más respetados del mercado, y su gama se presenta en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e es su escaparate, el Blast es su puerta de entrada a la **tracción total**: dos motores de **1.000 W**, batería de **60 V y 28 Ah (1.680 Wh)** y **60 km declarados** por **2.299 €**. Es el Nami de doble motor más barato, y su planteamiento es el contrario al de un VMP urbano: chasis robusto, batalla larga y unos **46 kg** que dejan claro que no está pensado para subir escaleras.
+Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de los patinetes de altas prestaciones más respetados del mercado, y su gama se presenta en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e es su escaparate, el Blast es su puerta de entrada a la **tracción total**: dos motores de **1.000 W**, batería **28 Ah a 60 V (1.680 Wh)** y **60 km declarados** por **2.299 €**. Es el Nami de doble motor más barato, y su planteamiento es el contrario al de un VMP urbano: chasis robusto, batalla larga y unos **46 kg** que dejan claro que no está pensado para subir escaleras.
 
 ## La técnica: doble motor y 1.680 Wh con autonomía honesta
 
@@ -579,7 +579,7 @@ El Blast **no está homologado por la DGT** como VMP, y el post original lo dice
 
 ## Frente al Nami Blast Max y al Burn-e 3 Max: veredicto
 
-Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
+Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico y batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
 
 **¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.
 
@@ -629,7 +629,7 @@ Unos **46 kg**: no apto para subir por escaleras.
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast-max/>Ver ficha técnica del Nami Blast Max</a>: potencia, batería y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Blast Max** es, en la práctica, un Burn-e con otro chasis: **dos motores de 1.500 W** con **8.400 W de pico**, batería de **2.400 Wh** (60V 40Ah), **100 km declarados** y **80 km/h** de máxima, en un conjunto de **45 kg**.
+El **Nami Blast Max** es, en la práctica, un Burn-e con otro chasis: **dos motores de 1.500 W** con **8.400 W de pico** y batería de **2.400 Wh** (60V 40Ah), **100 km declarados** y **80 km/h** de máxima, en un conjunto de **45 kg**.
 
 ## Ficha técnica resumida
 
@@ -807,7 +807,7 @@ El distribuidor lo deja claro: **no homologado DGT**. En España, los VMP están
 **2.250 €** aprox. en distribuidores europeos, impuestos incluidos.
 
 ### ¿Está homologado por la DGT?
-**No**: su propia ficha indica "No Homologado DGT". En España circula limitado a 25 km/h.
+**No**: su propia ficha indica "No Homologado DGT". En España circula capado a 25 km/h.
 
 ### ¿Qué autonomía real tiene?
 Unos **54 km** en uso mixto, frente a 80 km declarados.
@@ -1247,7 +1247,7 @@ Frenos de disco y neumáticos estándar. Nada exótico, pero suficiente para 33 
 
 ## Certificado DGT y normativa VMP
 
-A **33 km/h** no es legal en vía pública española sin limitar: los VMP están limitados a **25 km/h**, con **prohibición de aceras**. Limítalo y circula por donde toca.
+A **33 km/h** no puede circular legalmente por vía pública española sin limitar: los VMP están limitados a **25 km/h**, con **prohibición de aceras**. Limítalo y circula por donde toca.
 
 ## Puntos fuertes y débiles
 
@@ -1336,7 +1336,7 @@ Frenos de disco y neumáticos estándar para su segmento. Con 700 W totales y 24
 
 ## Certificado DGT y normativa VMP
 
-A **40-50 km/h** no es un VMP legal en España: **25 km/h máximo**, **aceras prohibidas**. Úsalo limitado en vía pública o deslimitado solo en privado.
+A **40-50 km/h** no cuenta como VMP legal en España: **25 km/h máximo**, **aceras prohibidas**. Úsalo limitado en vía pública o deslimitado solo en privado.
 
 ## Puntos fuertes y débiles
 
@@ -1518,7 +1518,7 @@ Sin PVP oficial estable: se mueve por distribuidores. En segunda mano europea se
 
 ## Certificado DGT y normativa VMP
 
-Ojo: declara **35 km/h** de máxima, así que en España debe circular **limitado a 25 km/h** para ser un VMP legal. Respeta la **prohibición de aceras** y usa vías permitidas.
+Ojo: declara **35 km/h** de máxima, así que en España debe circular **capado a 25 km/h** para ser un VMP legal. Respeta la **prohibición de aceras** y usa vías permitidas.
 
 ## Puntos fuertes y débiles
 
@@ -1703,7 +1703,7 @@ El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más bar
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-rs-midnight/>Ver ficha técnica del InMotion RS Midnight</a>: potencia máxima y batería. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **InMotion RS Midnight** no se anda con chiquitas: **dos motores de 2.000 W** con **8.400 W de pico**, batería de **2.880 Wh** (72V 40Ah) y **96 km/h** declarados. Pesa **58 kg** y cuesta unos **3.999 $**. La edición más espectacular del RS.
+El **InMotion RS Midnight** no se anda con chiquitas: **dos motores de 2.000 W** con **8.400 W de pico** y batería de **2.880 Wh** (72V 40Ah) y **96 km/h** declarados. Pesa **58 kg** y cuesta unos **3.999 $**. La edición más espectacular del RS.
 
 ## Ficha técnica resumida
 
@@ -1860,7 +1860,7 @@ Frenos de disco y neumáticos estándar de 10 pulgadas. Sin alardes, pero correc
 
 ## Certificado DGT y normativa VMP
 
-Atención: declara hasta **40 km/h**, así que en España debe usarse **limitado a 25 km/h** para circular como VMP legal. Prohibido en **aceras** y obligatorio por vías permitidas.
+Atención: declara hasta **40 km/h**, así que en España debe usarse **capado a 25 km/h** si quiere circular como VMP legal. Prohibido en **aceras** y obligatorio por vías permitidas.
 
 ## Puntos fuertes y débiles
 
@@ -1891,7 +1891,7 @@ InMotion nació en el mundo de los monociclos eléctricos y aplicó esa experien
 | Peso | 24 kg |
 | Neumáticos | 10 pulgadas |
 
-La cuenta es sencilla: con **675 Wh**, incluso descontando el optimismo habitual de las cifras declaradas, quedan unos **59 km reales** en uso mixto según la estimación del análisis. Eso lo cambia todo en el uso: deja de ser un patinete de barrio para convertirse en herramienta de trayectos largos o de varios días sin cargar. El motor de 500 W con picos de 1.000 W resuelve las cuestas urbanas con solvencia. Frenos de disco y neumáticos de 10 pulgadas completan un conjunto sin alardes, correcto para sus 24 kg y sus dos personalidades de velocidad: 25 o 40 km/h según el modo y el mercado.
+La cuenta es sencilla: con **675 Wh**, incluso descontando el optimismo habitual de las cifras declaradas, quedan unos **59 km reales** en uso mixto según la estimación del análisis. Eso lo cambia todo en el uso: deja de ser un patinete de barrio para convertirse en herramienta de trayectos largos o de varios días sin cargar. El motor de 500 W con picos de 1.000 W resuelve las cuestas urbanas con solvencia. Frenos de disco con neumáticos de 10 pulgadas completan un conjunto sin alardes, correcto para sus 24 kg y sus dos personalidades de velocidad: 25 o 40 km/h según el modo y el mercado.
 
 ## Uso real: kilómetros primero, diseño después
 
@@ -1985,7 +1985,7 @@ Sin precio oficial en euros publicado (referencia de **999 $** en otros mercados
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar y suficiente para su velocidad y peso.
+Frenos de disco con neumáticos de 10 pulgadas, equipo estándar y suficiente para su velocidad y peso.
 
 ## Certificado DGT y normativa VMP
 
@@ -2222,7 +2222,7 @@ No: lleva **ruedas macizas de 6,5 pulgadas**. A cambio, son menos cómodas que l
 
 ### ¿Es legal en España?
 
-Sí: su máxima de **20,9 km/h** está dentro del límite de 25 km/h de los VMP. Prohibido en aceras; carril bici o calzada según ordenanza.
+Sí: su máxima de **20,9 km/h** está dentro del tope de 25 km/h de los VMP. Prohibido en aceras; carril bici o calzada según ordenanza.
 
 ### ¿Para quién NO es?
 
@@ -2286,11 +2286,11 @@ Gama media de Hiboy, con precio agresivo en ofertas. Su relación batería/preci
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar correcto para 35 km/h y 23,4 kg.
+Frenos de disco con neumáticos de 10 pulgadas, equipo estándar correcto para 35 km/h y 23,4 kg.
 
 ## Certificado DGT y normativa VMP
 
-Ojo: declara **35 km/h**, así que en España debe circular **limitado a 25 km/h** para ser un VMP legal. Prohibido en **aceras**, como siempre.
+Ojo: declara **35 km/h**, así que en España debe circular **capado a 25 km/h** para ser un VMP legal. Prohibido en **aceras**, como siempre.
 
 ## Puntos fuertes y débiles
 
@@ -2379,7 +2379,7 @@ Frenos de disco dimensionados para 45 km/h y neumáticos anchos. El chasis es ro
 
 ## Certificado DGT y normativa VMP
 
-Con **45 km/h** de máxima, en España debe ir **limitado a 25 km/h** para circular como VMP. Sin limitar, solo en terreno privado.
+Con **45 km/h** de máxima, en España debe ir **capado a 25 km/h** si quiere circular como VMP. Sin limitar, solo en terreno privado.
 
 ## Puntos fuertes y débiles
 
@@ -2468,7 +2468,7 @@ Las **ruedas de 14 pulgadas** son su gran baza: más estables y cómodas que las
 
 ## Certificado DGT y normativa VMP
 
-Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente. Prohibido en **aceras**, como todo VMP.
+Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -2558,11 +2558,11 @@ Precio agresivo en ofertas, en la gama media-baja de Hiboy. Bueno para quien bus
 
 ## Frenos y neumáticos
 
-Equipo estándar de frenos de disco y neumáticos de 10 pulgadas. Suficiente para 37 km/h y 22 kg.
+Equipo estándar: frenos de disco con neumáticos de 10 pulgadas. Suficiente para 37 km/h y 22 kg.
 
 ## Certificado DGT y normativa VMP
 
-Con **37 km/h** de máxima, en España circula **limitado a 25 km/h**. Aceras prohibidas y vías permitidas, como manda la normativa VMP.
+Con **37 km/h** de máxima, en España circula **capado a 25 km/h**. Aceras prohibidas y vías permitidas, como manda la normativa VMP.
 
 ## Puntos fuertes y débiles
 
@@ -2740,11 +2740,11 @@ Se vende por **280-350 $** en EE. UU.; en Europa llega vía importadores. Su riv
 
 ## Certificado DGT y normativa VMP
 
-Con **31 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Con **31 km/h** de máxima, en España debe ir **capado a 25 km/h**. Sin circular por **aceras**, como todo VMP.
 
 ## Mantenimiento en casa
 
-- **App oficial Hiboy** por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico del sistema.
+- **App oficial Hiboy** por Bluetooth: autodiagnóstico del sistema, estadísticas, bloqueo y control de crucero.
 - **Tornillería**: revisar periódicamente los 6 tornillos del manillar (llave Allen incluida en la caja).
 - Las ruedas macizas **no necesitan presión ni antipinchazos**: su mantenimiento es nulo.
 
@@ -2839,7 +2839,7 @@ Equipo básico acorde a 12 kg y 30 km/h. No esperes discos hidráulicos: es un p
 
 ## Certificado DGT y normativa VMP
 
-Con **30 km/h** de máxima, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Con **30 km/h** de máxima, en España debe ir **capado a 25 km/h**. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -2928,7 +2928,7 @@ Frenos de disco estándar y neumáticos de 10 pulgadas. A 40 km/h conviene revis
 
 ## Certificado DGT y normativa VMP
 
-Con **40 km/h** de máxima, en España debe circular **limitado a 25 km/h**. Prohibido en **aceras** y por vías permitidas.
+Con **40 km/h** de máxima, en España debe circular **capado a 25 km/h**. Prohibido en **aceras** y por vías permitidas.
 
 ## Puntos fuertes y débiles
 
@@ -3016,7 +3016,7 @@ Frenos de disco y **neumáticos mixtos**: agarran en tierra sin ser un suplicio 
 
 ## Certificado DGT y normativa VMP
 
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Y recuerda: los caminos y el campo tienen su propia normativa; el patinete no es una moto de enduro.
+Con **45 km/h**, en España debe ir **capado a 25 km/h** en vía pública. Y recuerda: los caminos y el campo tienen su propia normativa; el patinete no es una moto de enduro.
 
 ## Puntos fuertes y débiles
 
@@ -3042,7 +3042,7 @@ Unos **28 km**, menos en tierra.
 El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si el presupuesto llega, iX5S.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h** en vía pública, sí.
+**Capado a 25 km/h** en vía pública, sí.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -3286,7 +3286,7 @@ Unas **709 libras** en Reino Unido. En España, vía distribuidores: sigue siend
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos de 10 pulgadas. A 60 km/h, el equipo va justo: es el punto a vigilar de este modelo.
+Frenos de disco con neumáticos de 10 pulgadas. A 60 km/h, el equipo va justo: es el punto a vigilar de este modelo.
 
 ## Certificado DGT y normativa VMP
 
@@ -3384,7 +3384,7 @@ Su punto fuerte: **frenos de disco hidráulicos delante y detrás + E-ABS**, con
 
 ## Certificado DGT y normativa VMP
 
-Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
+Con **60 km/h**, en España debe ir **capado a 25 km/h** en vía pública. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -3475,11 +3475,11 @@ El **KuKirin G2 Max** es el clásico superventas de la marca: **1.000 W**, **960
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo estándar para 55 km/h y 31 kg. La comunidad de usuarios es enorme: hay tutoriales para casi todo.
+Frenos de disco con neumáticos de 10 pulgadas, equipo estándar para 55 km/h y 31 kg. La comunidad de usuarios es enorme: hay tutoriales para casi todo.
 
 ## Certificado DGT y normativa VMP
 
-Con **55 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
+Con **55 km/h**, en España debe ir **capado a 25 km/h** en vía pública. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -3667,11 +3667,11 @@ Unos **524 €** (entre 499 y 549 € según la tienda europea). Da el 80 % del 
 
 ## Frenos y neumáticos
 
-Frenos de disco y neumáticos de 10 pulgadas, equipo correcto para 45 km/h y 24 kg.
+Frenos de disco con neumáticos de 10 pulgadas, equipo correcto para 45 km/h y 24 kg.
 
 ## Certificado DGT y normativa VMP
 
-Con **45 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Con **45 km/h**, en España debe ir **capado a 25 km/h**. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -3760,7 +3760,7 @@ Frenos de disco y neumáticos estándar. Correctos para su velocidad y peso, sin
 
 ## Certificado DGT y normativa VMP
 
-Con **45 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **aceras**.
+Con **45 km/h**, en España circula **capado a 25 km/h**. Prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -3786,7 +3786,7 @@ KuKirin se ha hecho un nombre en Europa vendiendo patinetes eléctricos de altas
 | **Batería** | 48V 13Ah (624 Wh) | La cifra que explica su autonomía real |
 | **Autonomía** | 45 km declarados, ~30 km reales | Suficiente para jornadas urbanas medias |
 | **Velocidad** | 45 km/h (a limitar a 25 km/h en España) | De serie supera el límite VMP legal |
-| **Peso** | 25,5 kg | Potente, pero ya no es un patinete para subir a pulso a un quinto |
+| **Peso** | 25,5 kg | Potente, pero ya no es un patinete que se suba a pulso a un quinto |
 
 El conjunto es coherente para su precio: motor con fuerza de sobra para ciudad con desnivel, batería de capacidad intermedia y un peso que todavía se puede gestionar en tramos cortos de escaleras, aunque nadie lo describiría como ligero. En el <a href=/comparador-patinetes/>comparador de patinetes</a> puedes ver que su relación potencia-precio sigue siendo su argumento imbatible.
 
@@ -3970,7 +3970,7 @@ Unos **680 €** (entre 639 y 722 € según tienda). Más caro que el G2 Max a 
 
 ## Certificado DGT y normativa VMP
 
-Con **50 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Con **50 km/h**, en España debe ir **capado a 25 km/h**. Sin circular por **aceras**, como todo VMP.
 
 ## Mantenimiento en casa
 
@@ -4064,7 +4064,7 @@ El **KuKirin M5 Pro** es el rutero con sillín de la marca: **1.000 W** (1.200 W
 
 ## Certificado DGT y normativa VMP
 
-Con **52 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**. Con sillín sigue siendo un VMP a efectos legales.
+Con **52 km/h**, en España debe ir **capado a 25 km/h**. Prohibido en **aceras**. Con sillín sigue siendo un VMP a efectos legales.
 
 ## Puntos fuertes y débiles
 
@@ -4157,7 +4157,7 @@ Sin PVP oficial publicado en euros; se distribuye en España a través de la red
 
 ## Certificado DGT y normativa VMP
 
-Con **45 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Prohibido en **aceras**, como todo VMP.
+Con **45 km/h**, en España debe ir **capado a 25 km/h** en vía pública. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
@@ -4503,7 +4503,7 @@ Frenos de disco y neumáticos mixtos, con suspensión delantera y trasera. Para 
 
 ## Certificado DGT y normativa VMP
 
-Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Todo lo demás, en privado.
+Con **60 km/h**, en España debe ir **capado a 25 km/h** en vía pública. Todo lo demás, en privado.
 
 ## Puntos fuertes y débiles
 
@@ -4596,7 +4596,7 @@ Frenos de disco y neumáticos de 10" con suspensión delantera y trasera de larg
 
 ## Certificado DGT y normativa VMP
 
-Con **60 km/h**, en España circula **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Con **60 km/h**, en España circula **capado a 25 km/h**. Sin circular por **aceras**, como todo VMP.
 
 ## Puntos fuertes y débiles
 
