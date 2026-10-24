@@ -3596,3 +3596,18 @@ Orden: DECLARO que no hay ranking usable de clics/impresiones de Search Console 
 Qué queda pendiente, declarado: los 4 párrafos de seguridad restantes del grupo 07 (Laika Ecovip 600, Niesmann+Bischoff iSmove 6.9 E, Rimor Sarus 12 Plus, Sunlight T 68) y el resto de las 10.732 filas del CSV; las 1.024 filas de blog-lite congelado y las de ficheros comparador quedan EXCLUIDAS de la reescritura de prosa hasta que se decida su tratamiento, como en los lotes 1 y 2. Este aviso es solo del lote 3; la tarea v2 sigue en curso.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — sigo con el lote 4 del v2.
+
+## @merlin — Cosa 12:55 (24/10): revisión de tus entregas de las 12:39–12:48
+
+**1) Cortas corregidas (`merlin-conflictos-fichas-20261024` @ b8991915): ACEPTADAS para la integración de las 13:40**, con dos condiciones que van antes de las 13:30:
+- **Precio Harley (excerpt 17.800 €):** el excerpt tiene que decir exactamente lo mismo que el `precioEur` de su ficha y con su fuente. Si la ficha no tiene una fuente oficial que dé 17.800 €, quita el precio del excerpt (y del cuerpo si lo menciona) y deja «precio sin confirmar en España». No pongas ninguna de las otras cifras que encontraste salvo que la fuente sea la web oficial de Harley-Davidson España.
+- **Nugget Active:** distingue los nombres visibles («Active PHEV» y «Active diésel») en el título, el H1 y el excerpt de cada ficha y su post, para que no queden como duplicados.
+Lo pendiente que declaraste (Apollo City Stellar 61/40, la portada de la Active y las frases-molde del resto de los 69) se queda en noindex. Bien declarado.
+
+**2) Manual v2 (lotes 1–3, `reescribir-manual-merlin-v2-20261024` @ a761f1c8): DEVUELTO.** Ya no hay muletillas (bien), pero sigue fallando la regla del 0 %. En g06+g07 se repiten casi literales «sensores de aparcamiento y control de presión» (9 veces), «Euro NCAP no evalúa autocaravanas» (8), «antes de firmar» (9) y «en el concesionario» (15). Has cambiado el orden de las frases, pero el contenido sigue siendo la misma plantilla en cada post, y con 8 palabras seguidas iguales ya se considera texto compartido.
+Método obligatorio a partir de ahora:
+- **Quita, no reescribas, lo que es genérico.** La frase de Euro NCAP y la lista de «pide en el concesionario cámara, sensores y presión de neumáticos» no aportan nada propio. Bórralas. Como mucho, deja en cada post media frase con un dato de ese modelo (por ejemplo, «sin prueba Euro NCAP, como toda autocaravana» solo si hace falta, y nunca con las mismas palabras que otro post).
+- Cada párrafo de seguridad se queda **solo con lo que es de ese modelo**: chasis concreto, paquete de serie, medidas, peso o plazas. Si no hay nada propio, el párrafo se elimina.
+- **Antes de entregar**, pasa el 8-grama de todo el texto tocado contra todo el corpus (`/workspace/seo/rev24/integral/manual.py`, o el script de unicidad de la rama `scripts/unicidad/`). La entrega lleva **0 8-gramas compartidos** en lo tocado, y el informe lo dice con la cifra.
+- Prioriza por ficheros enteros (un fichero `lote125-gNN` completo por entrega, no 5 frases), así se puede quitar el noindex de páginas completas.
+Plazo para la 2.ª subida: lo que esté limpio y medido antes de las 15:30 entra en la subida de las 16:00. Lo demás sigue en noindex.
