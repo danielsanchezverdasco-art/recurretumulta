@@ -1,0 +1,82 @@
+{
+ "coches/volkswagen": {
+  "nombre": "Volkswagen",
+  "title": "Volkswagen coches: 85 fichas técnicas para comparar",
+  "description": "85 fichas técnicas de coches Volkswagen: Golf GTI 2026, ID. Buzz e ID.4, con datos, versiones y equipamiento para comparar antes de decidir.",
+  "intro": "Pocos catálogos de coches resultan tan amplios como el de Volkswagen, y este listado permite recorrerlo sin perderse entre versiones parecidas. El Golf GTI 2026 representa al compacto con carácter deportivo pensado para quien disfruta conduciendo a diario, mientras el Golf Variant 1.5 se orienta a familias que necesitan más maletero sin subir a un segmento superior. La familia ID., con el ID.4 y el ID. Buzz, abre otra manera de entender la movilidad familiar: el primero como SUV de uso cotidiano y el segundo como furgoneta con vocación de ocio y viajes. Para el trabajo duro o las escapadas fuera del asfalto aparece el Amarok 3.0 V6, un pick-up robusto, y para dormir fuera de casa sin renunciar a la comodidad, la California eHybrid convierte cada ruta en una pequeña casa sobre ruedas. Quien busque un coche urbano, un familiar, un SUV o una camper encontrará aquí una opción con su propio enfoque. Al abrir cualquiera de los enlaces de esta colección descubrirás su ficha técnica completa, ordenada para comparar versiones, dimensiones y equipamiento con calma.",
+  "n": 85,
+  "url": "/coches/marca/volkswagen/"
+ },
+ "motos/honda": {
+  "nombre": "Honda",
+  "title": "Motos Honda: 74 fichas técnicas para elegir bien",
+  "description": "74 fichas técnicas de motos Honda: Africa Twin Adventure, CB750 Hornet y ADV350, con datos y versiones para encontrar tu moto ideal.",
+  "intro": "Honda cubre casi todos los caminos que puede imaginar un motorista, desde el trayecto urbano hasta la gran ruta, y esta selección ordena esa variedad por usos reales. La CB125F 2025 es la puerta de entrada más lógica para moverse por ciudad con una moto sencilla y manejable, mientras la CB750 Hornet 2025 seduce a quien ya busca una naked con más presencia para el día a día y las salidas de fin de semana. En el terreno de la aventura, la Africa Twin Adventure está pensada para viajar lejos, con capacidad para equipaje y rutas largas, y la ADV350 2024 ofrece un punto intermedio muy práctico: el confort de un scooter con aptitudes para salir del asfalto ligero. Los amantes de la deportividad encontrarán su referencia en la CBR1000RR-R Fireblade 2026, una máquina orientada al circuito y a la conducción más exigente. Navegar por estas fichas ayuda a distinguir qué moto encaja con tu experiencia, tu presupuesto de uso y tus trayectos habituales, porque al pulsar en cada modelo se despliega toda su información técnica de forma clara y comparada.",
+  "n": 74,
+  "url": "/motos/marca/honda/"
+ },
+ "coches/bmw": {
+  "nombre": "BMW",
+  "title": "Coches BMW: 71 fichas técnicas y comparativas",
+  "description": "71 fichas técnicas de coches BMW: i4 M50 xDrive, M2 Coupé 2026 e iX1, para comparar berlinas, SUV y deportivos de la marca.",
+  "intro": "El universo BMW se entiende mejor cuando se agrupa por sensaciones al volante, y aquí conviven berlinas elegantes, SUV familiares y deportivos de pura cepa. El i4 M50 xDrive muestra la vertiente más moderna de la berlina, con un planteamiento pensado para quien quiere un coche para todo sin renunciar al placer de conducir. En el extremo opuesto, el M2 Coupé 2026 concentra la esencia deportiva en un formato compacto, ideal para conductores que priorizan la agilidad y el carácter por encima del espacio. Entre medias, el iX1 eDrive20 2025 responde al perfil del SUV urbano y familiar, cómodo para la ciudad y suficiente para viajar, mientras el iX M70 xDrive se dirige a quien busca un SUV grande con presencia y prestaciones de alto nivel. La gama i5, representada por el i5 eDrive40 2026, completa el panorama para quienes necesitan una berlina amplia y refinada. Revisar estas fichas una a una permite afinar la elección según tamaño, uso y temperamento, ya que dentro de cada modelo aguarda su ficha técnica completa, lista para contrastar versiones y equipamientos.",
+  "n": 71,
+  "url": "/coches/marca/bmw/"
+ },
+ "coches/mercedes-benz": {
+  "nombre": "Mercedes-Benz",
+  "title": "Mercedes-Benz: 68 fichas, de Clase A a AMG",
+  "description": "68 fichas técnicas de coches Mercedes-Benz: Clase A 200, Clase S 500 y AMG G 63, con versiones y equipamiento para comparar.",
+  "intro": "Mercedes-Benz ha construido su prestigio combinando confort, tecnología y deportividad, y este conjunto refleja esa mezcla en todos los tamaños. La Clase A 200 funciona como acceso a la marca para quien busca un compacto refinado para la ciudad y los desplazamientos diarios. Al subir de nivel, la Clase C 200 y la Clase E 200 cubren el terreno de las berlinas familiares y ejecutivas, donde el silencio, el espacio y la comodidad en carretera mandan. La Clase S 500 representa la cúspide de ese confort, pensada para viajar con el máximo nivel de aislamiento y equipamiento. En el lado más apasionado, el AMG G 63 aporta el carácter todoterreno con imagen icónica, mientras el Mercedes-AMG GT 43 traslada la deportividad a una berlina de líneas musculosas. También hay sitio para el ocio familiar con la Clase V 300, una monovolumen amplia para grupos grandes. Explorar el listado permite situar cada modelo en su lugar natural, y al entrar en cualquiera de ellos tendrás delante su ficha técnica completa para valorar acabados y opciones sin prisas.",
+  "n": 68,
+  "url": "/coches/marca/mercedes-benz/"
+ },
+ "coches/audi": {
+  "nombre": "Audi",
+  "title": "Audi: 64 fichas técnicas de coches y SUV",
+  "description": "64 fichas técnicas de coches Audi: A3 Sportback 2025, Q3 2026 y A6 Avant, para comparar compactos, berlinas y SUV.",
+  "intro": "Audi ordena su gama alrededor de una idea muy reconocible: diseño sobrio, interior cuidado y una conducción segura en cualquier circunstancia. El A1 Sportback 2025 abre la puerta a la marca desde el segmento urbano, perfecto para moverse por ciudad con un coche compacto y bien terminado. Un escalón por encima, el A3 Sportback 2025 se convierte en el compacto polivalente por excelencia, válido tanto para el uso diario como para viajes en familia. Quien necesita más espacio encontrará en el A6 Avant un familiar amplio y cómodo, pensado para devorar kilómetros con equipaje, mientras el Q3 2026 responde al gusto actual por los SUV de tamaño medio, con posición de conducción elevada y versatilidad para todo. La vertiente más innovadora la encarna el Q4 e-tron 2025, un SUV que apuesta por una movilidad distinta dentro de la misma filosofía de confort. Quien recorra este índice podrá sopesar urbano, compacto, familiar o SUV y, al pulsar un nombre, revisar toda la información detallada de esa variante concreta antes de quedarse con una opción.",
+  "n": 64,
+  "url": "/coches/marca/audi/"
+ },
+ "motos/yamaha": {
+  "nombre": "Yamaha",
+  "title": "Motos Yamaha: 58 fichas, de scooter a naked",
+  "description": "58 fichas técnicas de motos Yamaha: MT-07, MT-09 SP y NMAX 125 2026, para comparar scooters, naked y motos de aventura.",
+  "intro": "Yamaha tiene una virtud poco común: sabe hacer motos divertidas en casi cualquier cilindrada, y esta colección lo demuestra sin rodeos. La MT-07 es la naked de referencia para quienes dan el salto a una moto con carácter, ágil en ciudad y gratificante en carreteras de curvas. Por encima, la MT-09 SP eleva esa misma fórmula hacia un público más experimentado, que busca sensaciones más intensas y un comportamiento más deportivo. Para el día a día urbano, el NMAX 125 2026 ofrece la practicidad de un scooter: fácil de aparcar, cómodo y perfecto para los desplazamientos cortos. La MT-125 2024, por su parte, permite iniciarse en el mundo de las naked con una moto ligera y accesible. Y cuando el plan incluye viajar o descubrir caminos, la Niken GT 2026 propone una interpretación distinta de la moto rutera, con una personalidad muy marcada. Comparar estas fichas sirve para acertar con el tipo de moto según tu experiencia y tus rutas, porque dentro de cada modelo encontrarás su ficha técnica completa, presentada de manera ordenada y fácil de consultar.",
+  "n": 58,
+  "url": "/motos/marca/yamaha/"
+ },
+ "coches/renault": {
+  "nombre": "Renault",
+  "title": "Renault: 56 fichas de urbanos, familiares y SUV",
+  "description": "56 fichas técnicas de coches Renault: 5 E-Tech 2026, Captur 2025 y Austral E-Tech 200, para comparar toda la gama actual.",
+  "intro": "Renault siempre ha sabido leer lo que necesita el conductor europeo, y su gama actual mezcla tradición popular con una renovación eléctrica muy visible. El 5 E-Tech 2026 recupera un nombre mítico para convertirlo en un urbano con encanto, ideal para la ciudad y para quienes buscan un coche con personalidad propia. El Captur 2025, en cambio, se sitúa como el SUV pequeño de referencia para familias jóvenes: compacto fuera, aprovechable dentro y cómodo para el uso diario. Quien viaja con frecuencia o necesita más espacio tiene en el Austral E-Tech 200 un SUV familiar equilibrado, con buen maletero y orientación al confort en carretera. La familia se completa con el Clio E-Tech 145, un utilitario polivalente que sigue siendo una de las opciones más sensatas para todo uso, y con el R4 E-Tech 52, que reinterpreta otro clásico en clave moderna y práctica. Este repertorio permite cotejar urbanos, SUV y familiares con criterio, y al pulsar cada nombre se muestra el documento íntegro de esa variante, con dotación y datos esenciales.",
+  "n": 56,
+  "url": "/coches/marca/renault/"
+ },
+ "motos/bmw": {
+  "nombre": "BMW Motorrad",
+  "title": "BMW Motorrad: 56 fichas técnicas de motos",
+  "description": "56 fichas técnicas de motos BMW Motorrad: R 12 2026, F 900 GS y C 400 GT, para comparar trail, roadster y scooters.",
+  "intro": "Bajo el nombre de BMW Motorrad conviven motos viajeras, trail aventureras, roadsters urbanas y scooters premium, todas con un denominador común: la búsqueda del viaje cómodo y seguro. La R 12 2026 encarna el espíritu roadster clásico de la marca, con una estética cuidada para disfrutar de la carretera sin prisas. En el mundo trail, la F 900 GS está concebida para quienes alternan asfalto y pistas, con una postura erguida y capacidad para cargar equipaje en rutas largas. La G 310 GS, por su parte, acerca esa misma vocación aventurera a los motoristas que empiezan o que prefieren una moto más ligera y manejable. Para la ciudad, el C 400 GT ofrece el confort de un scooter grande, perfecto para desplazamientos diarios con protección y espacio de carga. Y la CE 02 representa la apuesta más urbana y desenfadada, pensada para moverse por la ciudad con agilidad. Repasar estas fichas permite elegir entre viajar, explorar o desplazarse a diario, y al escoger un modelo se muestra su documento íntegro, con toda la información ordenada para cotejar.",
+  "n": 56,
+  "url": "/motos/marca/bmw/"
+ },
+ "coches/hyundai": {
+  "nombre": "Hyundai",
+  "title": "Hyundai: 55 fichas técnicas para comparar modelos",
+  "description": "55 fichas técnicas de coches Hyundai: i20 2026, Ioniq 5 2026 y Bayon 1.0 TGDi, para comparar urbanos, SUV y eléctricos.",
+  "intro": "Hyundai ha crecido hasta ofrecer una gama completa sin perder su enfoque práctico, y aquí se aprecia ese equilibrio entre modelos urbanos, SUV y propuestas innovadoras. El i20 2026 es el utilitario sensato para quien busca un coche manejable, económico de uso y suficiente para el día a día. El Bayon 1.0 TGDi da un paso más hacia el formato SUV urbano, con una posición de conducción algo más alta y un diseño juvenil que gusta a conductores jóvenes y familias pequeñas. En el terreno familiar, el i30 1.5 TGDi mantiene la fórmula del compacto polivalente, cómodo para viajar y con espacio para el equipaje. La modernidad llega con el Ioniq 5 2026, un modelo que rompe moldes por su diseño y su planteamiento tecnológico, dirigido a quienes quieren un coche distinto sin complicaciones. El Inster 2026, por último, completa la oferta urbana con un formato pequeño y simpático, pensado para la ciudad. Explorar el conjunto facilita encontrar el tamaño y el carácter adecuados, y cada modelo enlazado incluye su ficha técnica completa, lista para revisar versiones y equipamiento.",
+  "n": 55,
+  "url": "/coches/marca/hyundai/"
+ },
+ "coches/toyota": {
+  "nombre": "Toyota",
+  "title": "Toyota: 55 fichas de urbanos, híbridos y SUV",
+  "description": "55 fichas técnicas de coches Toyota: Corolla Cross 2026, C-HR 200H Advance y Aygo X 2026, para comparar toda la gama.",
+  "intro": "Hablar de Toyota es hablar de fiabilidad, eficiencia y una gama que cubre desde el coche urbano hasta el SUV familiar con naturalidad. El Aygo X 2026 es la opción más urbana y desenfadada, perfecta para moverse por calles estrechas y aparcar sin esfuerzo. Un escalón por encima, el Corolla 140H 2026 sigue siendo el compacto de referencia para quienes hacen muchos kilómetros y valoran la comodidad y el bajo consumo de uso. Su hermano, el Corolla Cross 2026, traslada esa misma filosofía a un SUV de tamaño medio, con más altura, más versatilidad y espacio para la familia. El C-HR 200H Advance aporta un diseño más atrevido dentro del mismo planteamiento, dirigido a conductores que buscan destacar sin renunciar a la practicidad. Y para los amantes de la conducción pura, el GR Yaris 2025 ofrece una experiencia radicalmente distinta, centrada en el disfrute al volante. Comparar estas fichas sirve para decidir según ciudad, familia o afición, y cada vínculo abre el expediente pormenorizado de ese modelo, con sus variantes y su dotación explicadas.",
+  "n": 55,
+  "url": "/coches/marca/toyota/"
+ }
+}
