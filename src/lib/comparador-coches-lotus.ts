@@ -69,7 +69,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 197,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -225,7 +225,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 167,
       notas:
-        "Estimación con 15.000 km/año mayoritariamente en modo eléctrico (22 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+        "15.000 km/año mayoritariamente en modo eléctrico (22 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 181,
       notas:
-        "Estimación con 15.000 km/año mayoritariamente en modo eléctrico (24 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+        "15.000 km/año mayoritariamente en modo eléctrico (24 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
       estimado: true,
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 161,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -464,7 +464,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 181,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -547,7 +547,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 321,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -625,7 +625,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 650,
       costeMensualTotal: 320,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -708,7 +708,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 700,
       costeMensualTotal: 374,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -786,7 +786,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
       mantenimientoAnual: 750,
       costeMensualTotal: 342,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [

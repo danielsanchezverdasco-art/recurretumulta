@@ -64,7 +64,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Jaecoo 5 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + bujías (según plan)", costeAproxEur: null },
@@ -146,10 +146,10 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión GLP (si aplica)", costeAproxEur: null },
@@ -231,7 +231,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "No publicado para Europa (modelo no comercializado en España)",
@@ -400,7 +400,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP para la Deliver 7",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 40.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + filtro de gasoil", costeAproxEur: null },
@@ -1042,7 +1042,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     videoCanal: null,
     euroncap: {"estrellas": 5, "ano": 2021, "url": "https://www.euroncap.com/press-media/powershift-five-star-safety-across-the-energy-spectrum/", "nota": "Resultado Euro NCAP verificado para este modelo."},
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + bujías (según plan)", costeAproxEur: null },
@@ -1132,7 +1132,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "No publicado para Europa (modelo no comercializado en España)",
@@ -1220,7 +1220,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2024 (89 % adultos, 85 % niños)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión del extensor", costeAproxEur: null },
@@ -1293,7 +1293,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP sep-2025 (90 % adultos, 87 % niños)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión del sistema híbrido", costeAproxEur: null },
@@ -1370,10 +1370,10 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión GLP (si aplica)", costeAproxEur: null },
@@ -1458,7 +1458,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP 2022 (Omoda 5)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión del sistema híbrido", costeAproxEur: null },
@@ -1627,7 +1627,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el D9 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión del sistema híbrido", costeAproxEur: null },
@@ -1697,7 +1697,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Z9 aún no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección", costeAproxEur: null },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + revisión del sistema híbrido", costeAproxEur: null },

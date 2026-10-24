@@ -992,7 +992,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       "costeMensualTotal": 106,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "12.000 km/año; recarga doméstica a 0,18 €/kWh con consumo estimado ~14 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      "notas": "12.000 km/año; 0,18 €/kWh (doméstica) con consumo estimado ~14 kWh/100 km; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1109,7 +1109,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Dacia España (dacia.es), artículo oficial de mantenimiento de híbridos: fija el intervalo del Duster híbrido en 12 meses o 30.000 km y sitúa la revisión periódica de un HEV entre 150 y 300 € según operaciones, sin tarifa cerrada publicada para este modelo, por lo que no se consigna coste anual cerrado", "intervalo": "Cada 12 meses o 30.000 km, lo que ocurra antes, según Dacia España para la versión híbrida del Duster", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica 12 meses / 30.000 km", "queSeCambia": "Revisión del motor térmico 1.6 (aceite y controles habituales), inspección visual y por diagnóstico del sistema eléctrico de alta tensión —batería de tracción, inversor y cableado— y de la batería de 12 V, comprobación del sistema de refrigeración, frenos y códigos de avería"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Dacia España (dacia.es), artículo oficial de mantenimiento de híbridos: fija el intervalo del Duster híbrido en 12 meses o 30.000 km y sitúa la revisión periódica de un HEV entre 150 y 300 € según operaciones, sin tarifa cerrada publicada para este modelo, por lo que no se consigna coste anual cerrado", "intervalo": "Cada 12 meses o 30.000 km, según Dacia España para la versión híbrida del Duster", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica 12 meses / 30.000 km", "queSeCambia": "Revisión del motor térmico 1.6 (aceite y controles habituales), inspección visual y por diagnóstico del sistema eléctrico de alta tensión —batería de tracción, inversor y cableado— y de la batería de 12 V, comprobación del sistema de refrigeración, frenos y códigos de avería"}]},
   },
   {
     id: "dacia-bigster-eco-g-140-2025-precio-ficha-tecnica",

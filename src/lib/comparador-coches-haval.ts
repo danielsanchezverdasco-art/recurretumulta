@@ -70,7 +70,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 243,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y revisiones oficiales.",
+        "15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y revisiones oficiales.",
       estimado: true,
     },
     galeria: [
@@ -138,7 +138,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y revisiones oficiales.",
+        "15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y revisiones oficiales.",
       estimado: true,
     },
     galeria: [
@@ -221,7 +221,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 176,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -289,7 +289,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 238,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado. Consumo estimado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado. Consumo estimado.",
       estimado: true,
     },
     galeria: [
@@ -323,7 +323,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: no se comercializa en Europa. 5 estrellas ANCAP (2021, Australia), protocolo no trasladable a EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
@@ -392,7 +392,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -461,7 +461,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 191,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -569,7 +569,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 340,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y mantenimiento de todoterreno. Consumo estimado.",
+        "15.000 km/año, gasolina a 1,60 €/l, seguro ampliado y mantenimiento de todoterreno. Consumo estimado.",
       estimado: true,
     },
     galeria: [
@@ -637,7 +637,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 270,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado. Consumo estimado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado. Consumo estimado.",
       estimado: true,
     },
     galeria: [
@@ -671,7 +671,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el H3 solo se comercializa en China y Rusia",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
@@ -740,7 +740,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 312,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado. Consumo estimado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado. Consumo estimado.",
       estimado: true,
     },
     galeria: [
@@ -843,7 +843,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 254,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado. Consumo estimado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado. Consumo estimado.",
       estimado: true,
     },
     galeria: [
@@ -877,7 +877,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Dargo no se comercializa en Europa",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
@@ -934,7 +934,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 170,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -1003,7 +1003,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -1038,7 +1038,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Raptor no se comercializa en Europa y no ha sido probado",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
@@ -1107,7 +1107,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 180,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -1141,7 +1141,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo de 2026 solo a la venta en China",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual / 10.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
       ],
@@ -1198,7 +1198,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 149,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -1254,7 +1254,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y seguro ampliado.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y seguro ampliado.",
       estimado: true,
     },
     galeria: [
@@ -1322,7 +1322,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 207,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro ampliado.",
+        "15.000 km/año; gasolina 1,60 €/l; seguro ampliado.",
       estimado: true,
     },
     galeria: [

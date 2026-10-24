@@ -89,7 +89,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       mantenimientoAnual: 900,
       costeMensualTotal: 390,
       notas:
-        "Estimación con 15.000 km/año, consumo medio de 9,3 l/100 km a 1,60 €/l y todo riesgo de gama alta.",
+        "15.000 km/año, consumo medio de 9,3 l/100 km a 1,60 €/l y todo riesgo de gama alta.",
       estimado: true,
     },
     galeria: [
@@ -853,7 +853,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 519,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP aproximado de 10,2 l/100 km (rango oficial 9,7-10,7)",
+      "notas": "15.000 km/año y consumo WLTP aproximado de 10,2 l/100 km (rango oficial 9,7-10,7)",
       "estimado": true
     },
     galeria: [
@@ -1056,7 +1056,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 478,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 9,5 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo supuesto de 9,5 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -1198,7 +1198,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 670,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año y consumo WLTP de 12,4 l/100 km (km77)",
+      "notas": "15.000 km/año y consumo WLTP de 12,4 l/100 km (km77)",
       "estimado": true
     },
     galeria: [
@@ -1279,7 +1279,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 558,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 10,8 l/100 km (sin dato WLTP publicado para esta versión)",
+      "notas": "15.000 km/año; consumo supuesto de 10,8 l/100 km (sin dato WLTP publicado para esta versión)",
       "estimado": true
     },
     galeria: [
@@ -1360,7 +1360,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 614,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo WLTP 11,4 l/100 km (datos oficiales Maserati)",
+      "notas": "15.000 km/año; consumo WLTP 11,4 l/100 km (datos oficiales Maserati)",
       "estimado": true
     },
     "fuenteNombre": "Maserati España (Quattroporte Modena oficial)",
@@ -1372,7 +1372,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "nota": "Sin datos EuroNCAP: el Quattroporte no ha sido probado por Euro NCAP",
     },
     "planMantenimiento": {
-      "intervalo": "20.000 km o 24 meses (lo que ocurra antes)",
+      "intervalo": "20.000 km o 24 meses",
       "revisiones": [
         {
           "nombre": "Revisión programada / 20.000 km",
@@ -1644,7 +1644,7 @@ export const COCHES_MASERATI: CocheComparador[] = [
       "costeMensualTotal": 799,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año; consumo supuesto de 11,5 l/100 km (misma mecánica que el MC20, sin dato WLTP propio publicado)",
+      "notas": "15.000 km/año; consumo supuesto de 11,5 l/100 km (misma mecánica que el MC20, sin dato WLTP propio publicado)",
       "estimado": true
     },
     galeria: [

@@ -284,7 +284,7 @@ Como vehículo con más de 40 km de autonomía eléctrica, le correspondería la
 - <a href=https://www.autonocion.com>Autonocion: la gama Nevo de Changan</a>
 - <a href=https://www.globalchangan.com>Changan Automobile, web oficial global</a>
 
-<p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches/>compárala con las berlinas que se venden en España</a>. Y si tienes una multa pendiente, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA antes de recurrir</a>.</p>
+<p>Una berlina de 4,9 m por 14.400 €: <a href=/comparador-coches/>compárala con las berlinas que se venden en España</a>. </p>
 `,
     locale: "all",
   },
@@ -495,7 +495,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del nuevo Nevo Q05 EV</a>
 - <a href=https://www.testcoches.es>Testcoches: los SUV eléctricos chinos más baratos</a>
 
-<p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos de España</a>. Y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrir</a>.</p>
+<p>Un SUV eléctrico con lidar por 10.400 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos de España</a>. </p>
 
 
 *Fuentes: <a href=https://www.globalchangan.com/newsroom/CHANGAN-THAILAND-Officially-Launches-NEVO-Q05.html>Changan (web oficial global, lanzamiento del NEVO Q05)</a> y <a href=https://www.dgt.es>DGT</a>.*`,
@@ -604,7 +604,7 @@ Como eléctrico puro, le correspondería la etiqueta Cero.
 - <a href=https://k.sina.cn>Sina Auto: especificaciones del Nevo Q06</a>
 - <a href=https://www.autonocion.com>Autonocion: el nuevo SUV eléctrico de Changan</a>
 
-<p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos que se venden en España</a>. Y si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
+<p>800 V y lidar de serie por 18.200 €: <a href=/comparador-coches/>compáralo con los SUV eléctricos que se venden en España</a>. </p>
 
 *Fuentes: web oficial de <a href=https://www.changan.com.cn>Changan</a> (casa matriz de Nevo) y normativa de la <a href=https://www.dgt.es>DGT</a>.*`,
     locale: "all",
@@ -717,7 +717,7 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
 - <a href=https://k.sina.cn>Sina Auto: lanzamiento del Nevo Q07</a>
 - <a href=https://www.autonocion.com>Autonocion: la gama SUV de Nevo</a>
 
-<p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches/>compáralo con los SUV híbridos de España</a>. Y antes de recurrir una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.</p>
+<p>Un SUV familiar PHEV de 1.400 km por 16.900 €: <a href=/comparador-coches/>compáralo con los SUV híbridos de España</a>. </p>
 
 
 *Fuentes: <a href=https://www.changan.com.cn>Changan — web oficial de la marca</a> y <a href=https://changan.az/en/model/nevo-q07/>Changan — página oficial del Nevo Q07</a>.*`,

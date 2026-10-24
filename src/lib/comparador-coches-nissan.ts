@@ -405,7 +405,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 87,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 13,8 kWh/100 km y recarga doméstica a 0,18 €/kWh; con el Plan Auto+ y financiación el precio baja sensiblemente",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 13,8 kWh/100 km y 0,18 €/kWh (doméstica); con el Plan Auto+ y financiación el precio baja sensiblemente",
       "estimado": true
     },
     galeria: [
@@ -486,7 +486,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 108,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 18,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; los descuentos comerciales reducen mucho el PVP de tarifa",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 18,4 kWh/100 km y 0,18 €/kWh (doméstica); los descuentos comerciales reducen mucho el PVP de tarifa",
       "estimado": true
     },
     galeria: [
@@ -567,7 +567,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 78,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 10.000 km/año urbanos, consumo WLTP 14,7 kWh/100 km y recarga doméstica a 0,18 €/kWh; con ayudas y descuentos el precio efectivo baja hasta ~17.550 €",
+      "notas": "estimación con 10.000 km/año urbanos, consumo WLTP 14,7 kWh/100 km y 0,18 €/kWh (doméstica); con ayudas y descuentos el precio efectivo baja hasta ~17.550 €",
       "estimado": true
     },
     galeria: [
@@ -729,7 +729,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 96,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 18,6 kWh/100 km y recarga doméstica a 0,18 €/kWh; ideal para reparto urbano con rutas de menos de 200 km/día",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 18,6 kWh/100 km y 0,18 €/kWh (doméstica); ideal para reparto urbano con rutas de menos de 200 km/día",
       "estimado": true
     },
     galeria: [
@@ -798,7 +798,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 191,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 7,0 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
+      "notas": "15.000 km/año, consumo WLTP 7,0 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
       "estimado": true
     },
     galeria: [
@@ -881,7 +881,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 18,1 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -962,7 +962,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,6 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 17,6 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1043,7 +1043,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 19,9 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 19,9 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1124,7 +1124,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 24,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 24,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1205,7 +1205,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 115,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 14,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 14,1 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1286,7 +1286,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 19,3 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 19,3 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1355,7 +1355,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo 7,9 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
+      "notas": "15.000 km/año, consumo 7,9 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
       "estimado": true
     },
     galeria: [

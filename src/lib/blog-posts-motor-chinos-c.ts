@@ -308,7 +308,7 @@ Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO** de la DGT. <a h
 ### ¿Hay una versión híbrida del S07?
 En otros mercados existe el **S07 REEV** (autonomía extendida con generador de gasolina), pero **no se vende en España** y no hay fecha confirmada.
 
-Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema. Y si alguna vez te llega una multa —eléctrico o no, los radares no discriminan—, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema. 
 
 ## Fuentes
 

@@ -105,7 +105,7 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
       "Sunlight pesa cada T 68 al salir de la línea de producción y comunica el peso real al concesionario, dentro de una horquilla oficial de 2.857 a 3.157 kg: en esta marca el peso declarado no es una estimación, es una medición por unidad. Fuente: https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adventure/",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -220,7 +220,7 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
       "El A 70 incluye de serie 7 años de garantía de estanqueidad, una cobertura por encima de la media de las capuchinas generalistas y una de las bazas silenciosas de Sunlight dentro del grupo Hymer. Fuente: https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
+        "Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",
@@ -335,7 +335,7 @@ Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios e
       "Sunlight publica el PVP del Cliff 640 Adventure para España (60.990 €) en su web oficial: una transparencia casi única en el sector, donde lo habitual es remitir al concesionario sin dar cifras. Fuente: https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

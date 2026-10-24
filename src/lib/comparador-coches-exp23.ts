@@ -62,7 +62,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 111,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -129,7 +129,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 118,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -206,7 +206,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 205,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -283,7 +283,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 222,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -360,7 +360,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 130,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -437,7 +437,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 251,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -514,7 +514,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 232,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -591,7 +591,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 218,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -668,7 +668,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 118,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -735,7 +735,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 122,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -812,7 +812,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 135,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -891,7 +891,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 142,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -970,7 +970,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 276,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1047,7 +1047,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 320,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1057,7 +1057,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 550 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 850 },
@@ -1124,7 +1124,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 310,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1134,7 +1134,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 530 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 820 },
@@ -1201,7 +1201,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 445,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1211,7 +1211,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 650 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 950 },
@@ -1278,7 +1278,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 250,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -1288,7 +1288,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 600 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 900 },
@@ -1355,7 +1355,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 329,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1365,7 +1365,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 560 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 860 },
@@ -1432,7 +1432,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 401,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1442,7 +1442,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 580 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 880 },
@@ -1509,7 +1509,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 389,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1519,7 +1519,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 570 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión y diferenciales", costeAproxEur: 870 },
@@ -1588,7 +1588,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 489,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1598,7 +1598,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2020) del Land Rover Defender",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 800 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de la suspensión 6D", costeAproxEur: 1200 },
@@ -1665,7 +1665,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 471,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1675,7 +1675,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2022) del Range Rover",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 900 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de suspensión neumática", costeAproxEur: 1400 },
@@ -1742,7 +1742,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 423,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1752,7 +1752,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2022) del Range Rover",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 850 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de suspensión neumática", costeAproxEur: 1300 },
@@ -1863,7 +1863,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 275,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -1873,7 +1873,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2022) del Range Rover Sport",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 700 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 1050 },
@@ -1940,7 +1940,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 491,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -1950,7 +1950,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2022) del Range Rover Sport",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 950 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de la suspensión 6D", costeAproxEur: 1400 },
@@ -2017,7 +2017,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 206,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -2027,7 +2027,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2019) del Range Rover Evoque",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 480 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 750 },
@@ -2094,7 +2094,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 254,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2104,7 +2104,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2019) del Range Rover Evoque",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 450 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 720 },
@@ -2171,17 +2171,17 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 294,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 550 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 850 },
@@ -2248,7 +2248,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 356,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2258,7 +2258,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP (2017) del Land Rover Discovery",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 600 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 920 },
@@ -2325,17 +2325,17 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 212,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección del sistema híbrido", costeAproxEur: 500 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de alta tensión", costeAproxEur: 780 },
@@ -2402,17 +2402,17 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 263,
       precioKwh: 0,
       precioGasolinaL: 1.58,
-      notas: "Estimación con 15.000 km/año y gasóleo a 1,58 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasóleo 1,58 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "34.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "34.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio intermedio", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 470 },
         { nombre: "Servicio completo", queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión de transmisión", costeAproxEur: 750 },
@@ -2481,7 +2481,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 330,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2560,7 +2560,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 456,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2635,7 +2635,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 292,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2714,7 +2714,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 307,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2793,7 +2793,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 201,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -2872,7 +2872,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 211,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -2951,7 +2951,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 470,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -3030,7 +3030,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 355,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -3109,7 +3109,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 402,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -3186,7 +3186,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 177,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año combinando uso eléctrico y gasolina. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año combinando uso eléctrico y gasolina.",
       estimado: true,
     },
     euroncap: {
@@ -3253,7 +3253,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 301,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {"estrellas": 4, "ano": 2022, "url": "https://www.euroncap.com/press-media/euro-ncap-twenty-five-years-on-new-polo-taigo-megane-and-nx-earn-highest-accolades/", "nota": "Resultado Euro NCAP verificado para este modelo."},
@@ -3325,7 +3325,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 429,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -3392,12 +3392,12 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 355,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP propios: no consta prueba específica de la versión Mercedes-AMG CLE 53 en euroncap.com, por lo que no se le atribuyen estrellas de otra versión o modelo."},
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "30.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 500 },
         { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 800 },
@@ -3552,7 +3552,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 354,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -3562,7 +3562,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: versión AMG no probada",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "30.000 km o 24 meses",
       revisiones: [
         { nombre: "Servicio A", queSeCambia: "Aceite + filtro de aceite + filtro de habitáculo + inspección", costeAproxEur: 480 },
         { nombre: "Servicio B", queSeCambia: "Aceite + filtros + líquido de frenos + bujías según kilometraje", costeAproxEur: 780 },
@@ -3665,7 +3665,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       costeMensualTotal: 159,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {

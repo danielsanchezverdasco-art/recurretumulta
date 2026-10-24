@@ -316,7 +316,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       nota: "Prueba del Mercedes-Benz Clase E (W214), 2024: 92 % adulto, 90 % infantil; Best in Class Euro NCAP 2024",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 25.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 320 },
         { nombre: "Service B / 50.000 km", queSeCambia: "Service A + filtro de aire, filtro de combustible diésel, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 520 },
@@ -495,7 +495,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLA (H247) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 280 },
         { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 450 },
@@ -593,7 +593,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLB (X247) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 290 },
         { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 470 },
@@ -695,7 +695,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       { nombre: "GLC 220 d 4MATIC", precio: 64647 },
     ],
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: null },
         { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: null },
@@ -1996,7 +1996,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       "costeMensualTotal": 580,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 13,2 l/100 km WLTP (aprox.) × 1,85 €/l; seguro a todo riesgo y mantenimiento estimados por tramo de precio en red oficial Mercedes-AMG. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 13,2 l/100 km WLTP (aprox.) × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Mercedes-AMG. No son tarifas reales.",
       "estimado": true,
     },
     galeria: [

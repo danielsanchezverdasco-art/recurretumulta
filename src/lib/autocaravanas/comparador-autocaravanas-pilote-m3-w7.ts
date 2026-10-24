@@ -90,7 +90,7 @@ export const AUTOCARAVANAS_PILOTE_M3: Autocaravana[] = [
     ],
     analisisSlug: "pilote-p720fgj-evidence-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Pilote (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -175,7 +175,7 @@ export const AUTOCARAVANAS_PILOTE_M3: Autocaravana[] = [
     ],
     analisisSlug: "pilote-vega-v630j-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Pilote (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

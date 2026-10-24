@@ -90,7 +90,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial en España sin ayudas.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio oficial en España sin ayudas.",
       estimado: true,
     },
     galeria: [
@@ -121,7 +121,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el eVitara aún no ha sido probado.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -191,7 +191,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial Genesis España.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio oficial Genesis España.",
       estimado: true,
     },
     galeria: [
@@ -222,7 +222,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama GV60.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -292,7 +292,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 115,
       notas:
-        "Estimación con 12.000 km/año (uso urbano), recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa mexicana.",
+        "Estimación con 12.000 km/año (uso urbano), 0,18 €/kWh (doméstica) y todo riesgo. Precio orientativo desde tarifa mexicana.",
       estimado: true,
     },
     galeria: [
@@ -400,7 +400,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -613,7 +613,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -683,7 +683,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 144,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -714,7 +714,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -789,7 +789,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 128,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -890,7 +890,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 118,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1011,7 +1011,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1081,7 +1081,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 229,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -1114,7 +1114,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la nueva generación no se ha probado en Europa (5 estrellas ANCAP, 2025)",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1204,7 +1204,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1274,7 +1274,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 177,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial Genesis España.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio oficial Genesis España.",
       estimado: true,
     },
     galeria: [
@@ -1305,7 +1305,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2021, válida para la gama GV70.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1375,7 +1375,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 201,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo: la marca aún no lo ha anunciado.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo: la marca aún no lo ha anunciado.",
       estimado: true,
     },
     galeria: [
@@ -1406,7 +1406,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: presentado en septiembre de 2026, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1476,7 +1476,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 242,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -1507,7 +1507,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1583,7 +1583,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -1691,7 +1691,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo: sin tarifa europea anunciada.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo: sin tarifa europea anunciada.",
       estimado: true,
     },
     galeria: [
@@ -1882,7 +1882,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 194,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -2005,7 +2005,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -2075,7 +2075,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 306,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -2106,7 +2106,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -2196,7 +2196,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -2266,7 +2266,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa estadounidense.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa estadounidense.",
       estimado: true,
     },
     galeria: [
@@ -2367,7 +2367,7 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 193,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa oficial estadounidense.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa oficial estadounidense.",
       estimado: true,
     },
     galeria: [

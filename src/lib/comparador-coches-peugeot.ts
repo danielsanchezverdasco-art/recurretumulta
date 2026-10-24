@@ -70,7 +70,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 143,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 14 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un utilitario eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 14 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un utilitario eléctrico",
       "estimado": true
     },
     galeria: [
@@ -153,7 +153,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
       "estimado": true
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 15,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 15,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo eléctrico supuesto de 18 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro deportivo orientativo",
+      "notas": "15.000 km/año, consumo eléctrico supuesto de 18 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro deportivo orientativo",
       "estimado": true
     },
     galeria: [
@@ -380,7 +380,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 15 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un compacto eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 15 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un compacto eléctrico",
       "estimado": true
     },
     galeria: [
@@ -405,7 +405,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     ],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com",
-    planMantenimiento: {"intervalo": "Revisión inicial a 1 año o 12.500 km; después, cada 2 años o 25.000 km, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial", "queSeCambia": "Control general del vehículo y de la eficacia de la climatización; la nota técnica indica que no se realiza recalado del estado de salud (SOH) de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión periódica", "queSeCambia": "Inspección programada cada 25.000 km o 2 años, incluyendo el control de la eficacia de la climatización"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 2 años"}, {"costeAproxEur": null, "nombre": "Filtro de habitáculo", "queSeCambia": "Sustitución del filtro de habitáculo cada 25.000 km o 2 años"}]},
+    planMantenimiento: {"intervalo": "Revisión inicial a 1 año o 12.500 km; después, cada 2 años o 25.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial", "queSeCambia": "Control general del vehículo y de la eficacia de la climatización; la nota técnica indica que no se realiza recalado del estado de salud (SOH) de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión periódica", "queSeCambia": "Inspección programada cada 25.000 km o 2 años, incluyendo el control de la eficacia de la climatización"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 2 años"}, {"costeAproxEur": null, "nombre": "Filtro de habitáculo", "queSeCambia": "Sustitución del filtro de habitáculo cada 25.000 km o 2 años"}]},
   },
   {
     id: "peugeot-308-phev-195-2026-precio-ficha-tecnica",
@@ -452,7 +452,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un compacto PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un compacto PHEV",
       "estimado": true
     },
     galeria: [
@@ -537,7 +537,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 205,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un familiar híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un familiar híbrido",
       "estimado": true
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (70 % eléctrico a 0,18 €/kWh y 30 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
       "estimado": true
     },
     galeria: [
@@ -693,7 +693,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 215,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,0 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para una berlina híbrida",
+      "notas": "15.000 km/año, consumo WLTP 5,0 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para una berlina híbrida",
       "estimado": true
     },
     galeria: [
@@ -764,7 +764,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
       "estimado": true
     },
     galeria: [
@@ -849,7 +849,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 14,8 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para una berlina eléctrica",
+      "notas": "15.000 km/año, consumo WLTP 14,8 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para una berlina eléctrica",
       "estimado": true
     },
     galeria: [
@@ -932,7 +932,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 16,7 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 16,7 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1015,7 +1015,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,1 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico de gran autonomía",
+      "notas": "15.000 km/año, consumo WLTP 17,1 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico de gran autonomía",
       "estimado": true
     },
     galeria: [
@@ -1086,7 +1086,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (65 % eléctrico a 0,18 €/kWh y 35 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (65 % eléctrico a 0,18 €/kWh y 35 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV",
       "estimado": true
     },
     galeria: [
@@ -1171,7 +1171,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,6 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un SUV híbrido de 7 plazas",
+      "notas": "15.000 km/año, consumo WLTP 5,6 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un SUV híbrido de 7 plazas",
       "estimado": true
     },
     galeria: [
@@ -1254,7 +1254,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 250,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV de 7 plazas",
+      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un SUV PHEV de 7 plazas",
       "estimado": true
     },
     galeria: [
@@ -1325,7 +1325,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 260,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para una berlina PHEV",
       "estimado": true
     },
     galeria: [
@@ -1410,7 +1410,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 265,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
+      "notas": "15.000 km/año, uso mixto supuesto (60 % eléctrico a 0,18 €/kWh y 40 % gasolina a 1,55 €/l); seguro y mantenimiento orientativos para un familiar PHEV",
       "estimado": true
     },
     galeria: [
@@ -1493,7 +1493,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un combi eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 18,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un combi eléctrico",
       "estimado": true
     },
     galeria: [

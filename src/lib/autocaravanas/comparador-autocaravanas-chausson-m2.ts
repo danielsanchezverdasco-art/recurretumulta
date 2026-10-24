@@ -101,7 +101,7 @@ export const AUTOCARAVANAS_CHAUSSON_M2: Autocaravana[] = [
     analisisSlug: "chausson-640-first-line-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión base (Ford Transit)",
@@ -212,7 +212,7 @@ export const AUTOCARAVANAS_CHAUSSON_M2: Autocaravana[] = [
     analisisSlug: "chausson-650-first-line-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión base (Ford Transit)",
@@ -323,7 +323,7 @@ export const AUTOCARAVANAS_CHAUSSON_M2: Autocaravana[] = [
     analisisSlug: "chausson-720-first-line-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión base (Ford Transit)",

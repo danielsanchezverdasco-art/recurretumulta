@@ -84,7 +84,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 235,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -112,7 +112,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP (ANCAP: 5 estrellas, 2025).",
+      nota: "Sin test EuroNCAP (ANCAP: 5 estrellas, 2025).",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -185,7 +185,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 19 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 19 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -286,7 +286,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 15 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 15 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -387,7 +387,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 150,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 16 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -490,7 +490,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 20 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -593,7 +593,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 192,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -621,7 +621,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -696,7 +696,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 182,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 18 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 18 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -724,7 +724,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Anual o cada 20.000 km (programa IM Motors en China; sin plan europeo publicado)",
@@ -797,7 +797,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 181,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -825,7 +825,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -900,7 +900,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo homologado de 10,8 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo homologado de 10,8 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -928,7 +928,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
@@ -1003,7 +1003,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1026,7 +1026,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -1101,7 +1101,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 192,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 20 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1129,7 +1129,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Anual o cada 20.000 km (programa Fangchengbao en China; sin plan europeo publicado)",
@@ -1202,7 +1202,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 204,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1230,7 +1230,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (programa GAC Trumpchi en China; sin plan europeo publicado)",
@@ -1303,7 +1303,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 188,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1331,7 +1331,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (programa Hongqi en China; sin plan europeo publicado)",
@@ -1404,7 +1404,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1432,7 +1432,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km (red Omoda/Jaecoo/Chery en España; sin plan específico publicado para el Fulwin A9L)",
@@ -1484,7 +1484,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     aprox: ["precioDesde", "largoMm"],
     imagen: "/media/gac-trumpchi-gs4-max-2026-hero.webp",
     opiniones: [],
-    costeMensual: {"costeEnergia100km": 11.2, "costeMensualTotal": 268, "estimado": true, "mantenimientoAnual": 450, "notas": "Para este Max de gasolina se estiman 7,0 l/100 km —frente a los 6,8 WLTC declarados en China— a 1,60 €/l, con 15.000 km anuales y seguro a todo riesgo incluido en el total.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 990, "seguroTercerosAnual": 540},
+    costeMensual: {"costeEnergia100km": 11.2, "costeMensualTotal": 268, "estimado": true, "mantenimientoAnual": 450, "notas": "Para este Max de gasolina se estiman 7,0 l/100 km —frente a los 6,8 WLTC declarados en China— a 1,60 €/l, con 15.000 km anuales; todo riesgo incluido en el total.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 990, "seguroTercerosAnual": 540},
     galeria: [
       {
         src: "/media/gac-trumpchi-gs4-max-2026-hero.webp",
@@ -1510,7 +1510,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "GAC Motor — programa latinoamericano del modelo; Europa sin programa publicado", "intervalo": "Cada 10.000 km o 12 meses en los mercados latinoamericanos donde se comercializa el GS4 Max; GAC no publica un programa europeo para este modelo", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 10.000 km del 1.5 TGDI", "queSeCambia": "Cambio de aceite y de su filtro, sustitución del filtro de habitáculo y revisión general del vehículo"}]},
   },
@@ -1673,7 +1673,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 246,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 7 l/100 km.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1701,7 +1701,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (programa Changan en China; sin plan europeo publicado)",
@@ -1774,7 +1774,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -1802,7 +1802,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km (red oficial Bestune en España)",
@@ -1932,7 +1932,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -2033,7 +2033,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 252,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 7 l/100 km.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2134,7 +2134,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 292,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 24 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 24 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2162,7 +2162,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Sin programa europeo (modelo a la venta solo en China)",
@@ -2235,7 +2235,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -2263,7 +2263,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -2336,7 +2336,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 210,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Híbrido enchufable: el coste real depende del uso eléctrico.",
       estimado: true,
     },
     galeria: [
@@ -2359,7 +2359,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa)",
@@ -2434,7 +2434,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo homologado de 6,45 l/100 km.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo homologado de 6,45 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2462,7 +2462,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km, lo que antes ocurra (plan oficial MG para gasolina)",

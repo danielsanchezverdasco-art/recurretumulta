@@ -292,7 +292,7 @@ export const COCHES_EXP26: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Según manual oficial BYD (consultar red oficial de la marca)",
@@ -387,7 +387,7 @@ export const COCHES_EXP26: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Según manual oficial Jaecoo (consultar red oficial de la marca)",
@@ -482,7 +482,7 @@ export const COCHES_EXP26: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (5 estrellas ANCAP 2022)",
+      nota: "Sin test EuroNCAP (5 estrellas ANCAP 2022)",
     },
     planMantenimiento: {
       intervalo: "Según manual oficial GWM (consultar red oficial de la marca)",

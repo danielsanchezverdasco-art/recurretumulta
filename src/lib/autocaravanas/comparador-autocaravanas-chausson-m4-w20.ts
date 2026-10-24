@@ -94,7 +94,7 @@ export const AUTOCARAVANAS_CHAUSSON_M4: Autocaravana[] = [
     ],
     analisisSlug: "chausson-v594-road-line-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Citroën Jumper: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Citroën Jumper)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Chausson (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

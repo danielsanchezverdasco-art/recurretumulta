@@ -114,7 +114,7 @@ Para quién es: para familias de cuatro a seis miembros que necesitan seis camas
     analisisSlug: "roller-team-zefiro-675-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",
@@ -230,7 +230,7 @@ Para quién es: para familias de cuatro o cinco que quieren una perfilada compac
     analisisSlug: "roller-team-kronos-294-tl-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

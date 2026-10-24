@@ -103,7 +103,7 @@ export const AUTOCARAVANAS_PILOTE_M2: Autocaravana[] = [
     analisisSlug: "pilote-v630j-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

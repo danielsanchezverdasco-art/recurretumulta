@@ -108,7 +108,7 @@ Perfil de comprador: el Palace 88 LB encaja con parejas viajeras de alto poder a
     analisisSlug: "morelo-palace-88-lb-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Iveco Daily: revisión cada 1 año o 40.000 km (lo que ocurra antes, según plan Iveco)",
+        "Iveco Daily: 1 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Iveco Daily (1 año / 40.000 km)",

@@ -67,7 +67,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 142,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 17 kWh/100 km al no estar homologado el ciclo WLTP de consumo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 17 kWh/100 km al no estar homologado el ciclo WLTP de consumo.",
       estimado: true,
     },
     galeria: [
@@ -141,7 +141,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 156,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo WLTP de 20,9 kWh/100 km (versión 111 kWh).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo WLTP de 20,9 kWh/100 km (versión 111 kWh).",
       estimado: true,
     },
     galeria: [
@@ -233,7 +233,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 115,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 16 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -301,7 +301,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 17 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 17 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -389,7 +389,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 234,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde pesos mexicanos (20,78 MXN/€, 18/10/2026), aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde pesos mexicanos (20,78 MXN/€, 18/10/2026), aproximado.",
       estimado: true,
     },
     galeria: [
@@ -472,7 +472,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 253,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -540,7 +540,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 167,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Coste energético estimado combinando recarga doméstica y gasolina.",
+        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Coste energético estimado combinando recarga doméstica y gasolina.",
       estimado: true,
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 191,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
+        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
       estimado: true,
     },
     galeria: [
@@ -676,7 +676,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 267,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -744,7 +744,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 223,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -812,7 +812,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 191,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -880,7 +880,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 233,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -948,7 +948,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 165,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Consumo de 4,4 l/100 km con batería descargada (WLTC).",
+        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. Consumo de 4,4 l/100 km con batería descargada (WLTC).",
       estimado: true,
     },
     galeria: [
@@ -1071,7 +1071,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 278,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -1139,7 +1139,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 110,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes, aproximado.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes, aproximado.",
       estimado: true,
     },
     galeria: [
@@ -1207,7 +1207,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 225,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
+        "15.000 km/año, uso mixto eléctrico/gasolina y todo riesgo. La potencia indicada es la del motor eléctrico; la combinada no está publicada.",
       estimado: true,
     },
     galeria: [
@@ -1275,7 +1275,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 311,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo. Consumo estimado en 9 l/100 km por tamaño y peso.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo. Consumo estimado en 9 l/100 km por tamaño y peso.",
       estimado: true,
     },
     galeria: [
@@ -1343,7 +1343,7 @@ export const COCHES_HONGQI: CocheComparador[] = [
       mantenimientoAnual: 700,
       costeMensualTotal: 389,
       notas:
-        "Estimación con 15.000 km/año, uso mixto y todo riesgo. Consumo estimado en 10 l/100 km equivalentes. La potencia combinada es la publicada por la marca.",
+        "15.000 km/año, uso mixto y todo riesgo. Consumo estimado en 10 l/100 km equivalentes. La potencia combinada es la publicada por la marca.",
       estimado: true,
     },
     galeria: [

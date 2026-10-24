@@ -67,7 +67,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -223,7 +223,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 81,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7,5 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7,5 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 140,
       costeMensualTotal: 70,
       notas:
-        "Estimación con 10.000 km/año, consumo de 6 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 6 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -392,7 +392,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -470,7 +470,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 79,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -548,7 +548,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 170,
       costeMensualTotal: 82,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -938,7 +938,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 76,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y recarga doméstica a 0,18 €/kWh. Todo riesgo incluido.",
+        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [

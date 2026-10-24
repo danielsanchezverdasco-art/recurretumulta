@@ -298,7 +298,7 @@ export const COCHES_LEVC: CocheComparador[] = [
       
     ],
     analisisSlug: "levc-l380-2024-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado. LEVC anticipó en su lanzamiento que esperaba las 5 estrellas, pero Euro NCAP no ha publicado ensayo alguno del L380; la nota existente (5 estrellas, 90 % global) corresponde al C-NCAP chino y a la versión Pro de 116 kWh", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP. LEVC anticipó en su lanzamiento que esperaba las 5 estrellas, pero Euro NCAP no ha publicado ensayo alguno del L380; la nota existente (5 estrellas, 90 % global) corresponde al C-NCAP chino y a la versión Pro de 116 kWh", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Sin plan oficial localizado: ni LEVC ni Geely Galaxy publican intervalos ni operaciones del L380 para Europa; no se trasladan la pauta genérica de Geely en China ni los intervalos de 40.000 km del TX y la VN5 británicos, porque son modelos y mercados distintos", "intervalo": "LEVC no ha difundido un calendario de revisiones para este L380 fuera de China, y en España el modelo nunca llegó a comercializarse", "revisiones": []},
   },
 ];

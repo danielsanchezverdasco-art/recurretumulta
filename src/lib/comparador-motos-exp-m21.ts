@@ -77,7 +77,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El modo DEMO desbloquea la electrónica completa los primeros 1.000 km: pruébalo antes de decidir.",
@@ -145,7 +145,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El ABS con modo Supermoto permite derrapar la trasera en circuito.",
@@ -213,7 +213,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena 525 X-Ring con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 190 CV, el neumático trasero 200/55 se gasta rápido: vigila el desgaste.",
@@ -281,7 +281,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El filtro de aire se cambia cada 10.000 km; el reglaje de válvulas, cada 20.000 km.",
@@ -485,7 +485,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con el carnet B y 3 años de antigüedad no necesitas sacarte el A1.",
@@ -618,7 +618,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Las suspensiones regulables merecen un reglaje profesional según tu peso.",
@@ -686,7 +686,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El launch control de serie ayuda en salidas rápidas sin quemar embrague.",

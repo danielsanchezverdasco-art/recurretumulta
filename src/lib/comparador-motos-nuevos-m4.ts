@@ -72,7 +72,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cb500x-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -154,7 +154,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-390-adventure-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "7.500 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
@@ -236,7 +236,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "bmw-f-750-gs-2024-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -318,7 +318,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-tiger-850-sport-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
@@ -400,7 +400,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-versys-x-300-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -482,7 +482,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-v-strom-250sx-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -564,7 +564,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-nx500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -646,7 +646,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "cfmoto-450mt-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -728,7 +728,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "voge-300rally-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -811,7 +811,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cbr500r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -893,7 +893,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "kawasaki-ninja-zx-4rr-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -975,7 +975,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-125-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "7.500 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
@@ -1057,7 +1057,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ktm-rc-390-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "7.500 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 7.500 km",
@@ -1139,7 +1139,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "aprilia-rs-125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1221,7 +1221,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "zontes-703r-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 5.000 km",
@@ -1303,7 +1303,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "yamaha-yzf-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1385,7 +1385,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "suzuki-gsx-r125-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -1468,7 +1468,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "triumph-bonneville-t100-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 16.000 km",
@@ -1550,7 +1550,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-classic-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
@@ -1632,7 +1632,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "royal-enfield-meteor-350-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses, primera revisión a los 500 km",
       revisiones: [
         {
           nombre: "Primera revisión / 500 km",
@@ -1714,7 +1714,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "honda-cl500-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -1796,7 +1796,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "ducati-scrambler-800-nightshift-2025-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses, Desmo Service (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses, Desmo Service",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -1878,7 +1878,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "benelli-leoncino-500-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",
@@ -1960,7 +1960,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     analisisSlug: "macbor-eight-mile-500-scr-2026-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 6.000 km",

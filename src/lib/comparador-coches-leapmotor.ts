@@ -399,7 +399,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 115,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el C01 no se vende en España; cálculo con recarga doméstica a 0,18 €/kWh y consumo estimado de 18,5 kWh/100 km; el coste real en China difiere",
+      "notas": "estimación proxy: el C01 no se vende en España; cálculo con 0,18 €/kWh (doméstica) y consumo estimado de 18,5 kWh/100 km; el coste real en China difiere",
       "estimado": true
     },
     galeria: [
@@ -557,7 +557,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 120,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el C01 4WD no se vende en España; recarga doméstica a 0,18 €/kWh y consumo estimado de 21 kWh/100 km",
+      "notas": "estimación proxy: el C01 4WD no se vende en España; 0,18 €/kWh (doméstica) y consumo estimado de 21 kWh/100 km",
       "estimado": true
     },
     galeria: [
@@ -626,7 +626,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 118,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el C11 no se vende en España; recarga doméstica a 0,18 €/kWh y consumo estimado de 19 kWh/100 km",
+      "notas": "estimación proxy: el C11 no se vende en España; 0,18 €/kWh (doméstica) y consumo estimado de 19 kWh/100 km",
       "estimado": true
     },
     galeria: [
@@ -764,7 +764,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 120,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el C16 no se vende en España; recarga doméstica a 0,18 €/kWh y consumo estimado de 19,5 kWh/100 km",
+      "notas": "estimación proxy: el C16 no se vende en España; 0,18 €/kWh (doméstica) y consumo estimado de 19,5 kWh/100 km",
       "estimado": true
     },
     galeria: [
@@ -1001,7 +1001,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 150,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el D19 aún no está a la venta; recarga doméstica a 0,18 €/kWh y consumo estimado de 23 kWh/100 km",
+      "notas": "estimación proxy: el D19 aún no está a la venta; 0,18 €/kWh (doméstica) y consumo estimado de 23 kWh/100 km",
       "estimado": true
     },
     galeria: [
@@ -1156,7 +1156,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 82,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.58,
-      "notas": "Estimación con 16 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio europeo sin anunciar; cifras de la versión presentada en París 2026",
+      "notas": "Estimación con 16 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio europeo sin anunciar; cifras de la versión presentada en París 2026",
       "estimado": true
     },
     galeria: [

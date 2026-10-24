@@ -72,7 +72,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "Estimación con 15.000 km/año circulando mayormente en modo eléctrico (42 kWh / 255 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año circulando mayormente en modo eléctrico (42 kWh / 255 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -150,7 +150,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico (42 kWh / 255 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico (42 kWh / 255 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -228,7 +228,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 124,
       notas:
-        "Estimación con 15.000 km/año, consumo derivado de 83 kWh / 602 km CLTC, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo derivado de 83 kWh / 602 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -306,7 +306,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 134,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico (53,4 kWh / 355 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico (53,4 kWh / 355 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -374,7 +374,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 129,
       notas:
-        "Estimación con 15.000 km/año, consumo derivado de 81 kWh / 602 km CLTC, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo derivado de 81 kWh / 602 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -442,7 +442,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico (38,5 kWh / 230 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico (38,5 kWh / 230 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -510,7 +510,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico (40 kWh / 210 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico (40 kWh / 210 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -578,7 +578,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 142,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico (53 kWh / 315 km CLTC), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico (53 kWh / 315 km CLTC), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -646,7 +646,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, consumo derivado de 100 kWh / 710 km CLTC, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo derivado de 100 kWh / 710 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -729,7 +729,7 @@ export const COCHES_AITO: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 143,
       notas:
-        "Estimación con 15.000 km/año, consumo derivado de 100 kWh / 705 km CLTC, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo derivado de 100 kWh / 705 km CLTC, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [

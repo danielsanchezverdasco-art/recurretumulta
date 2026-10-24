@@ -61,7 +61,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 140,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -137,7 +137,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 163,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, recarga doméstica a 0,18 €/kWh y consumo estimado de 16,5 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, 0,18 €/kWh (doméstica) y consumo estimado de 16,5 kWh/100 km; seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -213,7 +213,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 150,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -333,7 +333,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 152,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -710,7 +710,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 205,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (recarga doméstica a 0,18 €/kWh, gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (0,18 €/kWh (doméstica), gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -929,7 +929,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 203,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (recarga doméstica a 0,18 €/kWh, gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (0,18 €/kWh (doméstica), gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1081,7 +1081,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 121,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [

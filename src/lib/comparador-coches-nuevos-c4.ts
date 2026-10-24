@@ -72,7 +72,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -146,9 +146,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -300,7 +300,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -376,7 +376,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2019, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -518,7 +518,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: nueva generación no probada" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -652,7 +652,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -718,7 +718,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -796,7 +796,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 4, ano: 2021, url: null, nota: "4 estrellas Euro NCAP (2021)" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -874,7 +874,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: la versión N no se probó de forma independiente (el i30 obtuvo 5 estrellas en 2017)" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1026,7 +1026,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1088,8 +1088,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses, lo que ocurra antes); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas (lo que ocurra antes), según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas, según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
   },
   {
     id: "kia-ev5-gt-line-2026-precio-ficha-tecnica",
@@ -1308,9 +1308,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP en Europa" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1386,7 +1386,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "Según plan de mantenimiento Ford",
       revisiones: [],
@@ -1528,7 +1528,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2018, url: null, nota: "Ford Focus Mk4: 5 estrellas EuroNCAP (2018)" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1605,7 +1605,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: furgoneta no probada" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1745,7 +1745,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP en Europa" },
     planMantenimiento: {
       intervalo: "Sin mantenimiento programado por el fabricante",
       revisiones: [

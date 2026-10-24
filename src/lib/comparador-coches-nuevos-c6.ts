@@ -38,7 +38,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -115,7 +115,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -192,7 +192,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Europa Press",
@@ -344,7 +344,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -421,7 +421,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -500,7 +500,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hibridosyelectricos.com",
@@ -580,7 +580,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hibridosyelectricos.com",
@@ -655,7 +655,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -735,7 +735,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -812,7 +812,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -890,7 +890,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -969,7 +969,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -1189,7 +1189,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77",
@@ -2055,7 +2055,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hyundai.news / km77.com",
@@ -3144,7 +3144,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 30.000 km (lo que ocurra primero)",
@@ -3416,7 +3416,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 30.000 km (lo que ocurra primero)",
@@ -3506,7 +3506,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 34.000 km (lo que ocurra primero)",
@@ -3591,7 +3591,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 34.000 km (lo que ocurra primero)",
@@ -3632,7 +3632,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "EVO / Europa Press",
@@ -3707,7 +3707,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -3784,7 +3784,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -3861,7 +3861,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Autonoción",
@@ -3936,7 +3936,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Autocar / Quantum Gallery",

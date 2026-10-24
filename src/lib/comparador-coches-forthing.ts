@@ -67,7 +67,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 249,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -135,7 +135,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 205,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio estimado.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio estimado.",
       estimado: true,
     },
     galeria: [
@@ -203,7 +203,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 251,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Sin precio europeo: coste orientativo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Sin precio europeo: coste orientativo.",
       estimado: true,
     },
     galeria: [
@@ -557,7 +557,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 257,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -625,7 +625,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 252,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio de referencia argentino convertido.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia argentino convertido.",
       estimado: true,
     },
     galeria: [

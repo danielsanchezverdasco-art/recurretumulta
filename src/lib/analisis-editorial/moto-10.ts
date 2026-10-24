@@ -301,7 +301,7 @@ export const ANALISIS_MOTO_10: MapaAnalisis = {
   },
   "qjmotor-srt-900-sx-2026-ficha-tecnica-precio": {
     parrafos: [
-      "La SRT 900 SX 2026 es la trail tecnológica de QJMotor: 904 cc, 95 CV y sistema ADAS con radar de ángulo muerto y dashcam, en oferta de lanzamiento a 8.299 € con maletas y seguro a todo riesgo. La primera trail china que vende electrónica de asistencia como argumento. Marzocchi, Brembo y ABS Bosch desconectable, con 24 litros de depósito para grandes etapas: la 900 SX no escatima en chasis.",
+      "La SRT 900 SX 2026 es la trail tecnológica de QJMotor: 904 cc, 95 CV y sistema ADAS con radar de ángulo muerto y dashcam, en oferta de lanzamiento a 8.299 € con maletas; todo riesgo. La primera trail china que vende electrónica de asistencia como argumento. Marzocchi, Brembo y ABS Bosch desconectable, con 24 litros de depósito para grandes etapas: la 900 SX no escatima en chasis.",
       "El radar de ángulo muerto y la dashcam son novedades reales en el segmento asequible: la seguridad activa deja de ser patrimonio de las maxitrail premium. Con 95 CV y la oferta con maletas y seguro, la 900 SX sale a competir con las europeas en su propio terreno. El ABS desconectable permite salidas al campo sin pelearse con la electrónica, y los 24 litros dan autonomía de raid.",
       "Matices: 190 km/h de máxima, peso de maxitrail —263 kilos en la Touring— y radar trasero opcional, no de serie. Conviene leer la letra pequeña de la oferta. Pero como demostración tecnológica a precio contenido, marca un antes y un después. La marca aún construye su red de servicio en España: verificar la cobertura en tu zona antes de comprar es obligado.",
     ],

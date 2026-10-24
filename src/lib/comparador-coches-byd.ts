@@ -67,7 +67,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 124,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -150,7 +150,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -227,7 +227,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -304,7 +304,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -541,7 +541,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 152,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -606,7 +606,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 164,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -677,7 +677,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 169,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -756,7 +756,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 187,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -833,7 +833,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -909,7 +909,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 20,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 20,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -990,7 +990,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 122,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 15,9 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 15,9 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1059,7 +1059,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 123,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario y gasolina en viajes; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario y gasolina en viajes; todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1128,7 +1128,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 126,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario (105 km EV) y gasolina en viajes; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año combinando uso eléctrico diario (105 km EV) y gasolina en viajes; todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1237,7 +1237,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado ~22 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado ~22 kWh/100 km.",
       estimado: true,
     },
     galeria: [

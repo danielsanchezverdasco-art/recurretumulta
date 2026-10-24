@@ -77,7 +77,7 @@ export const COCHES_HONDA: CocheComparador[] = [
       "costeMensualTotal": 310,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; 8,2 l/100 km WLTP × 1,85 €/l; seguro a todo riesgo estimado para deportivo de 329 CV; la venta nueva en Europa cesó en diciembre de 2025 (solo stock)",
+      "notas": "15.000 km/año; 8,2 l/100 km WLTP × 1,85 €/l; todo riesgo estimado para deportivo de 329 CV; la venta nueva en Europa cesó en diciembre de 2025 (solo stock)",
       "estimado": true
     },
     galeria: [

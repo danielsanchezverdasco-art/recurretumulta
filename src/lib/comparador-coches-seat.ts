@@ -52,7 +52,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un familiar compacto",
+      "notas": "15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un familiar compacto",
       "estimado": true
     },
     galeria: [
@@ -136,7 +136,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,1 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un urbano",
+      "notas": "15.000 km/año, consumo WLTP 5,1 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un urbano",
       "estimado": true
     },
     galeria: [
@@ -219,7 +219,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 239,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un B-SUV",
+      "notas": "15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un B-SUV",
       "estimado": true
     },
     galeria: [
@@ -290,7 +290,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 233,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,3 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un compacto híbrido ligero",
+      "notas": "15.000 km/año, consumo WLTP 5,3 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un compacto híbrido ligero",
       "estimado": true
     },
     galeria: [
@@ -437,7 +437,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 177,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año cargando a diario (70 % eléctrico a 0,18 €/kWh, 30 % gasolina a 5,0 l/100 km); sin carga diaria el coste se dispara",
+      "notas": "15.000 km/año cargando a diario (70 % eléctrico a 0,18 €/kWh, 30 % gasolina a 5,0 l/100 km); sin carga diaria el coste se dispara",
       "estimado": true
     },
     galeria: [
@@ -520,7 +520,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 258,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 6,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un C-SUV",
+      "notas": "15.000 km/año, consumo WLTP 6,2 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un C-SUV",
       "estimado": true
     },
     galeria: [
@@ -666,7 +666,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -749,7 +749,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 199,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -832,7 +832,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -903,7 +903,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -987,7 +987,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 219,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1058,7 +1058,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 229,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1142,7 +1142,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 228,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1225,7 +1225,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 241,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1308,7 +1308,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1391,7 +1391,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1474,7 +1474,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, 70% en eléctrico (0,18 €/kWh) y 30% en gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, 70% en eléctrico (0,18 €/kWh) y 30% en gasolina a 1,85 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1557,7 +1557,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "costeMensualTotal": 240,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP homologado y diésel a 1,75 €/l; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [

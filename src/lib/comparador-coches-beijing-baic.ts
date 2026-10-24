@@ -75,7 +75,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 247,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -153,7 +153,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -231,7 +231,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 311,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 10 l/100 km y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año, consumo estimado de 10 l/100 km y todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 229,
       notas:
-        "Estimación con 15.000 km/año, uso mayoritario en modo eléctrico y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año, uso mayoritario en modo eléctrico y todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -387,7 +387,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 319,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -465,7 +465,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 220,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 7,5 l/100 km y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año, consumo estimado de 7,5 l/100 km y todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -547,7 +547,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 205,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 7 l/100 km y todo riesgo. Precio convertido desde yuanes (76.800 ¥ ≈ 10.200 €).",
+        "15.000 km/año, consumo estimado de 7 l/100 km y todo riesgo. Precio convertido desde yuanes (76.800 ¥ ≈ 10.200 €).",
       estimado: true,
     },
     galeria: [
@@ -639,7 +639,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 130,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -713,7 +713,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       
     ],
     analisisSlug: "arcfox-alfa-s5-2024-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
   {
     id: "arcfox-kaola-2024-precio-ficha-tecnica",
@@ -773,7 +773,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes.",
       estimado: true,
     },
     galeria: [
@@ -847,6 +847,6 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
       
     ],
     analisisSlug: "arcfox-kaola-s-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
 ];

@@ -12,7 +12,7 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 
 // ── Planes de mantenimiento oficiales (orden de Daniel, 2026-10-07) ─────────
 const M_HONDA = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -29,7 +29,7 @@ const M_HONDA = {
   fuente: "Manual oficial Honda España",
 };
 const M_YAMAHA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -46,7 +46,7 @@ const M_YAMAHA = {
   fuente: "Manual oficial Yamaha España",
 };
 const M_KAWASAKI = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -80,7 +80,7 @@ const M_KAWASAKI_EV = {
   fuente: "Manual oficial Kawasaki España",
 };
 const M_SUZUKI = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -97,7 +97,7 @@ const M_SUZUKI = {
   fuente: "Manual oficial Suzuki España",
 };
 const M_KTM_PEQUENA = {
-  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 7.500 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -114,7 +114,7 @@ const M_KTM_PEQUENA = {
   fuente: "Manual oficial KTM España",
 };
 const M_KTM_GRANDE = {
-  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 15.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
@@ -131,7 +131,7 @@ const M_KTM_GRANDE = {
   fuente: "Manual oficial KTM España",
 };
 const M_HUSQVARNA_PEQUENA = {
-  intervalo: "Cada 7.500 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 7.500 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 7.500 km / 12 meses",
@@ -148,7 +148,7 @@ const M_HUSQVARNA_PEQUENA = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_HUSQVARNA_GRANDE = {
-  intervalo: "Cada 15.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 15.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 12 meses",
@@ -165,7 +165,7 @@ const M_HUSQVARNA_GRANDE = {
   fuente: "Manual oficial Husqvarna España",
 };
 const M_GASGAS = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -182,7 +182,7 @@ const M_GASGAS = {
   fuente: "Manual oficial GasGas España",
 };
 const M_BMW = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -199,7 +199,7 @@ const M_BMW = {
   fuente: "Manual oficial BMW Motorrad España",
 };
 const M_DUCATI_V2 = {
-  intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 12.000 km / 12 meses",
@@ -216,7 +216,7 @@ const M_DUCATI_V2 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_DUCATI_V4 = {
-  intervalo: "Cada 15.000 km o 24 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 15.000 km o 24 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 15.000 km / 24 meses",
@@ -233,7 +233,7 @@ const M_DUCATI_V4 = {
   fuente: "Manual oficial Ducati España",
 };
 const M_APRILIA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -250,7 +250,7 @@ const M_APRILIA = {
   fuente: "Manual oficial Aprilia España",
 };
 const M_MOTO_GUZZI = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.500 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.500 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -267,7 +267,7 @@ const M_MOTO_GUZZI = {
   fuente: "Manual oficial Moto Guzzi España",
 };
 const M_PIAGGIO = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -284,7 +284,7 @@ const M_PIAGGIO = {
   fuente: "Manual oficial Piaggio España",
 };
 const M_VESPA = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -301,7 +301,7 @@ const M_VESPA = {
   fuente: "Manual oficial Vespa España",
 };
 const M_TRIUMPH = {
-  intervalo: "Cada 16.000 km (10.000 millas) o 12 meses, lo que ocurra antes (primera revisión a los 800 km)",
+  intervalo: "Cada 16.000 km (10.000 millas) o 12 meses (primera revisión a los 800 km)",
   revisiones: [
     {
       nombre: "Revisión 16.000 km / 12 meses",
@@ -318,7 +318,7 @@ const M_TRIUMPH = {
   fuente: "Manual oficial Triumph España",
 };
 const M_ROYAL_ENFIELD = {
-  intervalo: "Cada 10.000 km o 12 meses, lo que ocurra antes (primera revisión a los 500 km)",
+  intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 500 km)",
   revisiones: [
     {
       nombre: "Revisión 10.000 km / 12 meses",
@@ -335,7 +335,7 @@ const M_ROYAL_ENFIELD = {
   fuente: "Manual oficial Royal Enfield España",
 };
 const M_PEUGEOT = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -352,7 +352,7 @@ const M_PEUGEOT = {
   fuente: "Manual oficial Peugeot Motocycles España",
 };
 const M_KYMCO = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",
@@ -369,7 +369,7 @@ const M_KYMCO = {
   fuente: "Manual oficial Kymco España",
 };
 const M_SYM = {
-  intervalo: "Cada 6.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+  intervalo: "Cada 6.000 km o 12 meses (primera revisión a los 1.000 km)",
   revisiones: [
     {
       nombre: "Revisión 6.000 km / 12 meses",

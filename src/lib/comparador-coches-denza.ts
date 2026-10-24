@@ -149,7 +149,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -232,7 +232,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 132,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 15 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 15 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -388,7 +388,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 153,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 20 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 20 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -544,7 +544,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 135,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -705,7 +705,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 150,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 19 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 19 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -782,7 +782,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 137,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 17 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 17 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -938,7 +938,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 183,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1016,7 +1016,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 250,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 22 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 22 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1094,7 +1094,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 19 kWh/100 km (76 kWh / 400 km WLTP, dato oficial).",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 19 kWh/100 km (76 kWh / 400 km WLTP, dato oficial).",
       estimado: true,
     },
     euroncap: {
@@ -1197,7 +1197,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       mantenimientoAnual: 800,
       costeMensualTotal: 283,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 22 kWh/100 km. En circuito el coste real es muy superior.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 22 kWh/100 km. En circuito el coste real es muy superior.",
       estimado: true,
     },
     galeria: [
@@ -1403,7 +1403,7 @@ export const COCHES_DENZA: CocheComparador[] = [
       nota: "Sin prueba Euro NCAP publicada; 5 estrellas ANCAP 2025 (protocolo alineado con Euro NCAP).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",

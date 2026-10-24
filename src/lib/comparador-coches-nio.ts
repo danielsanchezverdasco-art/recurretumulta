@@ -150,7 +150,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    planMantenimiento: {"intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución solo si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 5.º año o a los 100.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 10.º año o a los 200.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}]},
+    planMantenimiento: {"intervalo": "Según el manual oficial del ET5 Touring, en condiciones normales de uso: líquido de frenos cada 3 años y aceite de la caja de cambios cada 200.000 km; refrigerante, pastillas y discos se comprueban por años o kilómetros y se sustituyen solo si es necesario. El manual no publica costes, por eso costeAproxEur es null en todas las revisiones.", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años"}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km"}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, y sustitución solo si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 5.º año o a los 100.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación del desgaste a más tardar en el 10.º año o a los 200.000 km y sustitución solo si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km"}]},
   },
   {
     id: "nio-et7-2024-precio-ficha-tecnica",
@@ -289,7 +289,7 @@ export const COCHES_NIO: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    planMantenimiento: {"intervalo": "Según el manual oficial del EL6, no hay una revisión única anual: cada elemento sigue su propio plazo en el NIO Service Center (líquido de frenos cada 3 años; aceite de la caja de cambios cada 200.000 km; controles de refrigerante, pastillas y discos por años o kilometraje, lo que ocurra antes).", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 5.º año o a los 100.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 10.º año o a los 200.000 km, lo que ocurra antes, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}]},
+    planMantenimiento: {"intervalo": "Según el manual oficial del EL6, no hay una revisión única anual: cada elemento sigue su propio plazo en el NIO Service Center (líquido de frenos cada 3 años; aceite de la caja de cambios cada 200.000 km; controles de refrigerante, pastillas y discos por años o kilometraje).", "revisiones": [{"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos cada 3 años, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Aceite de la caja de cambios", "queSeCambia": "Sustitución del aceite de la caja de cambios cada 200.000 km, según el manual oficial del EL6."}, {"costeAproxEur": null, "nombre": "Refrigerante", "queSeCambia": "Comprobación a más tardar en el 5.º año o a los 100.000 km, y sustitución si es necesario; si no se sustituye, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Pastillas de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 5.º año o a los 100.000 km, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}, {"costeAproxEur": null, "nombre": "Discos de freno", "queSeCambia": "Comprobación de desgaste a más tardar en el 10.º año o a los 200.000 km, y sustitución si es necesario; si no se sustituyen, nueva comprobación cada 2 años o 40.000 km."}]},
   },
   {
     id: "nio-el7-2024-precio-ficha-tecnica",
@@ -649,7 +649,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 175,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,9 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 17,9 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -732,7 +732,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 176,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 18,4 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -803,7 +803,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,7 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 17,7 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -874,7 +874,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 196,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 20,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo WLTP 20,1 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -957,7 +957,7 @@ export const COCHES_NIO: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación con 15.000 km/año, consumo aprox. 22,6 kWh/100 km (rango oficial 21,6-23,5) y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año, consumo aprox. 22,6 kWh/100 km (rango oficial 21,6-23,5) y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [

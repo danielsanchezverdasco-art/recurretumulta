@@ -758,7 +758,7 @@ El carnet manda más que el precio:
 
 El matiz: si tienes el A2 y dudas entre la C6 y la CUV e:, pregúntate dónde aparcas. Sin garaje con enchufe, las baterías extraíbles de la Honda valen oro; con garaje, la C6 es mucho más moto. <a href=/comparador-motos/>Pásate por el comparador de motos</a> y míralas cara a cara.
 
-Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
+Y un recordatorio de la casa: también en eléctrico, los límites de velocidad aplican. 
 
 ## Preguntas frecuentes
 

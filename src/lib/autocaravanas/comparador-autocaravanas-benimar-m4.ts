@@ -108,7 +108,7 @@ Para quién es: para familias de cuatro (dos adultos y dos niños como máximo, 
     ],
     analisisSlug: "benimar-benivan-120-up-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -205,7 +205,7 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     ],
     analisisSlug: "benimar-sport-363-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión anual o cada 30.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: revisión anual o cada 30.000 km",
       revisiones: [
         { nombre: "Revisión base (Ford Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -292,7 +292,7 @@ Para quién es: para familias de cinco o seis que necesitan dormir todos en cama
     ],
     analisisSlug: "benimar-mileo-268-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

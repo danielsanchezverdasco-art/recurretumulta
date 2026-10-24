@@ -152,7 +152,7 @@ autocaravanas con garaje pasante.`,
     ],
     analisisSlug: "knaus-boxdrive-600-xl-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base MAN TGE: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base MAN TGE: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (MAN TGE)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 240 },
@@ -293,7 +293,7 @@ campings con parcelas generosas.`,
     ],
     analisisSlug: "knaus-live-i-700-meg-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 240 },

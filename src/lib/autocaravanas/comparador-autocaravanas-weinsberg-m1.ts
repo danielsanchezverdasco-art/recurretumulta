@@ -103,7 +103,7 @@ La red del grupo Knaus Tabbert es otro argumento silencioso: concesionarios por 
     analisisSlug: "weinsberg-carabus-grey-edition-fire-600-mq-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

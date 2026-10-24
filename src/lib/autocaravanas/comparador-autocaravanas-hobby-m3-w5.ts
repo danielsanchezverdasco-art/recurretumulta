@@ -95,7 +95,7 @@ export const AUTOCARAVANAS_HOBBY_M3: Autocaravana[] = [
     ],
     analisisSlug: "hobby-optima-de-luxe-t70-ge-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Hobby (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -182,7 +182,7 @@ export const AUTOCARAVANAS_HOBBY_M3: Autocaravana[] = [
     ],
     analisisSlug: "hobby-vantana-k60-ft-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Hobby (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

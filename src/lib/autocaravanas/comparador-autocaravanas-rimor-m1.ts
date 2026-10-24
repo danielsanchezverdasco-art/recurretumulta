@@ -103,7 +103,7 @@ La red de Rimor en España, a través del importador del grupo, cubre las princi
     analisisSlug: "rimor-superbrig-687-tc-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit: revisión cada 2 años o 60.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit: 2 años / 60.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 60.000 km)",

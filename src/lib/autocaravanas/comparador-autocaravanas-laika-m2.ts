@@ -112,7 +112,7 @@ Perfil de comprador: el Kreos L 5009 encaja con parejas viajeras de alto poder a
     analisisSlug: "laika-kreos-l-5009-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -238,7 +238,7 @@ Perfil de comprador: el Kosmo H 1409 encaja con parejas que quieren estrenarse e
     analisisSlug: "laika-kosmo-h-1409-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

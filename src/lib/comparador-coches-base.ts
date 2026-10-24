@@ -2254,7 +2254,7 @@ export const COCHES_BASE: CocheComparador[] = [
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
         resetAceitePasos: ["Contacto puesto sin arrancar el motor.", "En el cuadro digital (Virtual Cockpit), muestra la vista 'Autonomía' (Range).", "Mantén pulsado el botón OK del volante multifunción durante unos 5 segundos hasta que aparezca el menú de servicio.", "Selecciona 'Resetear servicio de cambio de aceite' (y 'Resetear inspección' si procede) y confirma con OK."],
         resetAceiteNota: "Si el reseteo se hace manualmente, el coche puede pasar a intervalo fijo (15.000 km / 1 año) aunque tuviera programado el flexible LongLife.",
-        intervaloMantenimiento: "30.000 km o 2 años (flexible/LongLife, PR QG1) / 15.000 km o 1 año (fijo, PR QG0/QG2), lo que ocurra antes",
+        intervaloMantenimiento: "30.000 km o 2 años (flexible/LongLife, PR QG1) / 15.000 km o 1 año (fijo, PR QG0/QG2)",
         filtroPolenUbicacion: "Bajo el salpicadero, en la zona de los pies del acompañante (detrás del panel de moqueta)",
         filtroPolenPasos: ["Retira la alfombrilla del acompañante y localiza los dos tornillos de plástico de giro bajo el salpicadero.", "Gíralos a mano en sentido antihorario y retira el panel de moqueta (va encajado, sin clips).", "Verás la caja rectangular del filtro: desliza la tapa inferior hacia la derecha y retírala.", "Extrae el filtro hacia abajo con cuidado, anotando su orientación.", "Coloca el filtro nuevo (respeta la flecha de flujo de aire), recoloca la tapa deslizándola a la izquierda hasta bloquear y vuelve a montar el panel de moqueta."],
         filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire (airbox) en la parte superior del motor 1.5 eTSI.", "Suelta los clips metálicos de la tapa de la caja (o los tornillos, según versión).", "Levanta la tapa, extrae el filtro viejo anotando su orientación.", "Limpia el interior de la caja, coloca el filtro nuevo, cierra la tapa y fija los clips.", "Cierra el capó."],
@@ -2490,7 +2490,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "costeMensualTotal": 131,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "Pro 286 CV: 19,2 kWh/100 km WLTP; 15.000 km/año; recarga doméstica a 0,18 €/kWh; cifras aproximadas (oct-2026)",
+      "notas": "Pro 286 CV: 19,2 kWh/100 km WLTP; 15.000 km/año; 0,18 €/kWh (doméstica); cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -2618,7 +2618,7 @@ export const COCHES_BASE: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo demasiado reciente, aún no probado",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      intervalo: "Cada 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 30.000 km",

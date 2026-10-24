@@ -107,7 +107,7 @@ export const AUTOCARAVANAS_MCLOUIS_M2: Autocaravana[] = [
     analisisSlug: "mclouis-menfys-van-3-maxi-s-line-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper 2.2 BlueHDi: revisión cada 2 años o 40.000 km (según plan Citroën)",
+        "Citroën Jumper 2.2 BlueHDi: 2 años / 40.000 km (según plan Citroën)",
       revisiones: [
         {
           nombre: "Revisión Jumper (2 años / 40.000 km)",

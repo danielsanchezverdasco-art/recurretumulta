@@ -103,7 +103,7 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
     ],
     analisisSlug: "giottiline-therry-34-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Stellantis (Peugeot Boxer/Citroën Jumper/Fiat Ducato): revisión cada 2 años o 40.000 km según plan del fabricante",
+      intervalo: "Base Stellantis (Peugeot Boxer/Citroën Jumper/Fiat Ducato): 2 años / 40.000 km según plan del fabricante",
       revisiones: [
         { nombre: "Revisión base (furgón)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Giottiline (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -198,7 +198,7 @@ Para quién es. El Siena 330 encaja con parejas que hacen escapadas y vacaciones
     ],
     analisisSlug: "giottiline-siena-330-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Stellantis (Citroën Jumper/Fiat Ducato): revisión cada 2 años o 40.000 km según plan del fabricante",
+      intervalo: "Base Stellantis (Citroën Jumper/Fiat Ducato): 2 años / 40.000 km según plan del fabricante",
       revisiones: [
         { nombre: "Revisión base (furgón)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Giottiline (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

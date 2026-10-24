@@ -104,7 +104,7 @@ Para quién es: para parejas viajeras que quieren un furgón con verdadero baño
     ],
     analisisSlug: "dreamer-d62-select-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dreamer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -197,7 +197,7 @@ Para quién: familias de cuatro que quieren furgón —no perfilada— con cuatr
     ],
     analisisSlug: "dreamer-d68-up-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dreamer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades + revisión del techo elevable", costeAproxEur: 280 },

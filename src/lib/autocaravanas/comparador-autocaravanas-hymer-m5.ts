@@ -99,7 +99,7 @@ export const AUTOCARAVANAS_HYMER_M5: Autocaravana[] = [
     ],
     analisisSlug: "hymer-b-mc-i-600-whiteline-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Hymer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 280 },

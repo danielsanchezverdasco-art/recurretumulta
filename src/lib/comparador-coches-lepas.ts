@@ -69,7 +69,7 @@ export const COCHES_LEPAS: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 121,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~14,4 kWh/100 km (65 kWh / 450 km WLTP), recarga doméstica a 0,18 €/kWh y todo riesgo. Sin precio oficial publicado.",
+        "15.000 km/año, consumo implícito ~14,4 kWh/100 km (65 kWh / 450 km WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Sin precio oficial publicado.",
       estimado: true,
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_LEPAS: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~14,4 kWh/100 km (65 kWh / 450 km WLTP), recarga doméstica a 0,18 €/kWh y todo riesgo. Sin precio oficial publicado.",
+        "15.000 km/año, consumo implícito ~14,4 kWh/100 km (65 kWh / 450 km WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Sin precio oficial publicado.",
       estimado: true,
     },
     galeria: [
@@ -200,7 +200,7 @@ export const COCHES_LEPAS: CocheComparador[] = [
       "Es un concept: sin motorización, potencia ni autonomía confirmadas",
       "Sin fecha de producción ni precio: estudio de diseño, no un modelo de serie",
       "Lepas no ha dicho si llegará a Europa ni en qué versiones",
-      "Sin datos EuroNCAP: modelo no probado",
+      "Sin test EuroNCAP",
       "La versión de calle, si existe, cambiará respecto al prototipo"
     ],
     largoMm: null,

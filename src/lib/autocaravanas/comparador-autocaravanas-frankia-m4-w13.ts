@@ -199,7 +199,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
     ],
     analisisSlug: "frankia-titan-i-840-gd-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 400 },
         { nombre: "Revisión célula Frankia (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, doble suelo", costeAproxEur: 300 },
@@ -346,7 +346,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
     ],
     analisisSlug: "frankia-platin-i-8400-qd-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión anual o cada 30.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: revisión anual o cada 30.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 500 },
         { nombre: "Revisión célula Frankia (anual recomendada)", queSeCambia: "Estanqueidad, gas, Alde, electricidad, humedades", costeAproxEur: 350 },

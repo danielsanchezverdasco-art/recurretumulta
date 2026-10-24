@@ -73,7 +73,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisión del juego de válvulas cada 38.000 km: trabajo de taller.",
@@ -147,7 +147,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -221,7 +221,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -295,7 +295,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -561,7 +561,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -635,7 +635,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -709,7 +709,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes O-ring (o detergente neutro con un cepillo suave).",
         "Engrasa con lubricante tipo Pro Honda HP Chain Lube o equivalente, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -783,7 +783,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Inspecciona y engrasa la cadena cada 1.000 km, sobre todo tras salidas por tierra o barro.",
         "Limpia la cadena con un trapo seco y lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Tras rutas off-road, revisa el filtro de aire con más frecuencia de lo indicado.",
@@ -857,7 +857,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Inspecciona y engrasa la cadena cada 1.000 km, sobre todo tras salidas por tierra o barro.",
         "Limpia la cadena con un trapo seco y lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Tras rutas off-road, revisa el filtro de aire con más frecuencia de lo indicado.",
@@ -1139,7 +1139,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Filtro de aceite: a los 1.000 km y después cada 20.000 km.",
@@ -1214,7 +1214,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Filtro de aceite: a los 1.000 km y después cada 20.000 km.",
@@ -1294,7 +1294,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -1367,7 +1367,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Filtro de aceite: a los 1.000 km y después cada 20.000 km.",
@@ -1447,7 +1447,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -2914,7 +2914,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA o MA2)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Líquido de frenos: sustitución cada 2 años.",
@@ -2987,7 +2987,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Líquido de frenos: sustitución cada 2 años.",
@@ -3060,7 +3060,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Líquido de frenos: sustitución cada 2 años.",
@@ -3133,7 +3133,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA2)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisión del juego de válvulas cada 24.000 km.",
@@ -3206,7 +3206,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Líquido de frenos: sustitución cada 2 años.",
@@ -3498,7 +3498,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ, SL, SM o SN; JASO MA, MA1 o MA2)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar con lluvia o por tierra.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El filtro de aceite se cambia junto con el aceite en cada intervalo.",
@@ -3571,7 +3571,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       aceiteTipo: "10W-40 (API SJ o superior, JASO MA)",
       cadenaPasos: [
         "Limpia y engrasa la cadena cada 1.000 km, y siempre tras rodar por tierra o barro.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Comprueba el nivel de aceite con la varilla sin roscarla, solo apoyada en el orificio.",

@@ -1163,7 +1163,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es/es/motocicletas/panigale/panigale-v2",
     analisisSlug: "ducati-panigale-v2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -2556,7 +2556,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
     analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -2808,7 +2808,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorpasionmoto.com/naked/honda-cb1000-hornet-2025-precio/amp",
     analisisSlug: "honda-cb1000-hornet-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3286,7 +3286,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-650-2024",
     analisisSlug: "kawasaki-ninja-650-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -3467,7 +3467,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/yamaha-xmax-300-tech-max-2023/",
     analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -4589,7 +4589,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/yamaha-mt-125-2024-precio-ficha-tecnica/",
     analisisSlug: "yamaha-mt-125-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -5157,7 +5157,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.husqvarna-motorcycles.com/es-es/models/travel/norden-901-2026.html",
     analisisSlug: "husqvarna-norden-901-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -6335,7 +6335,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/s-1000-rr-2023",
     analisisSlug: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -6760,7 +6760,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/piaggio/beverly-400",
     analisisSlug: "piaggio-beverly-400-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -7210,7 +7210,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/honda/gb350s",
     analisisSlug: "honda-gb350s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -7694,7 +7694,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/honda-cmx1100-rebel-2023/",
     analisisSlug: "honda-rebel-1100-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",

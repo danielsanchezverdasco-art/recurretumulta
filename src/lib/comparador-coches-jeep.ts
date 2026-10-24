@@ -790,7 +790,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 15,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 15,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -872,7 +872,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 17,4 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -953,7 +953,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año combinando uso eléctrico diario y gasolina en viajes; seguro a todo riesgo",
+      "notas": "15.000 km/año combinando uso eléctrico diario y gasolina en viajes; todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1034,7 +1034,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 365,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 10,4 l/100 km de gasolina (1,65 €/l); seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 10,4 l/100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [

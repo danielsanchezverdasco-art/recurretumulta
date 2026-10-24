@@ -113,7 +113,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Sealion 05 DM-i, vista lateral", ancho: 1600, alto: 900 },
       { src: "/media/byd-sealion-05-dm-i-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Sealion 05 DM-i", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 20.000 km (lo que antes ocurra)",
       revisiones: [
@@ -179,7 +179,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Qin L DM-i, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/byd-qin-l-dm-i-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Qin L DM-i", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 20.000 km (lo que antes ocurra)",
       revisiones: [
@@ -243,7 +243,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Song L EV, vista lateral de SUV coupé", ancho: 1600, alto: 900 },
       { src: "/media/byd-song-l-ev-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Song L EV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
       revisiones: [
@@ -307,7 +307,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Seal 06 GT rojo, vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/byd-seal-06-gt-2025-precio-ficha-tecnica-interior.webp", alt: "Interior deportivo del BYD Seal 06 GT", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
       revisiones: [
@@ -371,7 +371,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-oficial.webp", alt: "BYD Yuan Up, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/byd-yuan-up-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del BYD Yuan Up", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 40.000 km (lo que antes ocurra)",
       revisiones: [
@@ -435,7 +435,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S6 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S6 EV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -499,7 +499,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-oficial.webp", alt: "MG ZS Hybrid+ rojo, vista lateral", ancho: 1600, alto: 900 },
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG ZS Hybrid+", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -564,7 +564,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg7-2025-precio-ficha-tecnica-oficial.webp", alt: "MG7, berlina fastback vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/mg7-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del MG7", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -628,7 +628,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-oficial.webp", alt: "MG S5 EV, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del MG S5 EV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -737,7 +737,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 7 Pro, vista tres cuartos", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-7-pro-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Tiggo 7 Pro", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (lo que antes ocurra)",
       revisiones: [
@@ -801,7 +801,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-oficial.webp", alt: "Chery Tiggo 8 Pro, vista tres cuartos delantera", ancho: 1600, alto: 900 },
       { src: "/media/chery-tiggo-8-pro-2026-precio-ficha-tecnica-interior.webp", alt: "Interior de 7 plazas del Chery Tiggo 8 Pro", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (lo que antes ocurra)",
       revisiones: [
@@ -865,7 +865,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/icaur-v23-2026-precio-ficha-tecnica-oficial.webp", alt: "iCAUR V23, todoterreno eléctrico retro", ancho: 1600, alto: 900 },
       { src: "/media/icaur-v23-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del iCAUR V23 con pantalla de 15,4 pulgadas", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -929,7 +929,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-oficial.webp", alt: "Chery Fulwin T8, SUV híbrido enchufable", ancho: 1600, alto: 900 },
       { src: "/media/chery-fulwin-t8-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Chery Fulwin T8", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1057,7 +1057,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Monjaro, SUV premium", ancho: 1600, alto: 900 },
       { src: "/media/geely-monjaro-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Monjaro", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1121,7 +1121,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/geely-cityray-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Cityray, SUV compacto", ancho: 1600, alto: 900 },
       { src: "/media/geely-cityray-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Cityray", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1185,7 +1185,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/geely-preface-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Preface, berlina premium", ancho: 1600, alto: 900 },
       { src: "/media/geely-preface-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Preface", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1249,7 +1249,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/geely-atlas-2025-precio-ficha-tecnica-oficial.webp", alt: "Geely Atlas, SUV familiar", ancho: 1600, alto: 900 },
       { src: "/media/geely-atlas-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del Geely Atlas", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1313,7 +1313,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-oficial.webp", alt: "Haval Jolion HEV, SUV híbrido", ancho: 1600, alto: 900 },
       { src: "/media/haval-jolion-hev-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del Haval Jolion HEV", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1377,7 +1377,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-oficial.webp", alt: "GWM Ora 05, SUV eléctrico", ancho: 1600, alto: 900 },
       { src: "/media/gwm-ora-05-2026-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Ora 05", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -1505,7 +1505,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/gwm-poer-2025-precio-ficha-tecnica-oficial.webp", alt: "GWM Poer, pick-up 4x4", ancho: 1600, alto: 900 },
       { src: "/media/gwm-poer-2025-precio-ficha-tecnica-interior.webp", alt: "Interior del GWM Poer", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "12 meses o 10.000 km (lo que antes ocurra)",
       revisiones: [

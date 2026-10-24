@@ -129,7 +129,7 @@ Admite carga rápida en corriente continua de hasta 400 kW (arquitectura de 800 
 
 Bentley no ha confirmado si la producción estará limitada ni ha dado fecha para las primeras entregas. La marca la describe como una "versión de lanzamiento" que agrupa de serie equipamientos que normalmente se venden como opciones.
 
-**¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+
 
 *Fuentes: <a href=https://www.am-online.com/news/bentley-reveals-first-edition-version-of-new-torcal-ev>AM Online — "Bentley Torcal First Edition unveiled" (23/10/2026)</a>, <a href=https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/>Motoring Research — presentación del Torcal (23/09/2026)</a>, <a href=https://www.autoblog.com/news/bentleys-first-electric-suv-gets-an-876-hp-first-edition>Autoblog — First Edition (22/10/2026)</a>, <a href=https://paultan.org/2026/09/24/bentley-torcal-debuts-brands-first-bev-with-up-to-888-ps-1350-nm-600-km-wltp-up-to-400-kw-dc-charging/>Paultan — datos de lanzamiento y precios en Reino Unido</a>.*`,
   },

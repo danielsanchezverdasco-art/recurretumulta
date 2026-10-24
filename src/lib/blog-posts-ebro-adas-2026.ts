@@ -70,7 +70,7 @@ La función llega con la evolución del modelo para el año 2027, que también r
 
 ## Menos menús, menos distracciones (y menos multas)
 
-Hay un ángulo que nos toca de cerca: trastear con la pantalla en marcha para silenciar ayudas es una **distracción**, y las distracciones salen caras. Un perfil que deja el coche a tu gusto antes de salir reduce toqueteos en marcha. Y recuerda: si el aviso de velocidad te pilla un día con el pie pesado y te cae una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: muchos avisos de radar tienen defectos recurribles.
+Hay un ángulo que nos toca de cerca: trastear con la pantalla en marcha para silenciar ayudas es una **distracción**, y las distracciones salen caras. Un perfil que deja el coche a tu gusto antes de salir reduce toqueteos en marcha. 
 
 ## Preguntas frecuentes
 

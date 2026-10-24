@@ -1800,7 +1800,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "triumph-speed-400-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según ficha oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según ficha oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / 12 meses",
@@ -1882,7 +1882,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "triumph-scrambler-400-x-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según ficha oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según ficha oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / 12 meses",
@@ -1964,7 +1964,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "honda-cbr500r-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "12.000 km o 12 meses, según manual oficial Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / 12 meses",
@@ -2046,7 +2046,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     analisisSlug: "yamaha-xsr700-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes), según manual oficial Yamaha",
+      intervalo: "10.000 km o 12 meses, según manual oficial Yamaha",
       revisiones: [
         {
           nombre: "Revisión 10.000 km / 12 meses",

@@ -156,7 +156,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 267,
       notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 8,5 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 8,5 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -248,7 +248,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 268,
       notas:
-        "Estimación con 15.000 km/año, consumo mixto de 8,4 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo mixto de 8,4 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -331,7 +331,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 251,
       notas:
-        "Estimación con 15.000 km/año, consumo de 7,44 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo de 7,44 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -414,7 +414,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 260,
       notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 8,0 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 8,0 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -480,7 +480,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 269,
       notas:
-        "Estimación con 15.000 km/año, consumo WLTP de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo WLTP de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -499,7 +499,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       
     ],
     analisisSlug: "jetour-x90-plus-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "jetour-x95-2024-precio-ficha-tecnica",
@@ -559,7 +559,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 268,
       notas:
-        "Estimación con 15.000 km/año, consumo de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo de 8,1 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -637,7 +637,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 314,
       notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 10,0 l/100 km a 1,58 €/l y todo riesgo.",
+        "15.000 km/año, consumo medio estimado de 10,0 l/100 km a 1,58 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -665,7 +665,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: null,
     fuenteNombre: "TopAuto / cars.co.za (lanzamiento en Sudáfrica)",
@@ -781,7 +781,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 166,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -800,7 +800,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       
     ],
     analisisSlug: "jetour-t1-i-dm-2025-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "jetour-t2-i-dm-2024-precio-ficha-tecnica",
@@ -848,7 +848,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -867,7 +867,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       
     ],
     analisisSlug: "jetour-t2-i-dm-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "jetour-t2-i-dm-xwd-2026-precio-ficha-tecnica",
@@ -927,7 +927,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 187,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -993,7 +993,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1012,7 +1012,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       
     ],
     analisisSlug: "jetour-shanhai-l6-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "jetour-shanhai-l7-2024-precio-ficha-tecnica",
@@ -1060,7 +1060,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 166,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1084,7 +1084,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       },
     ],
     analisisSlug: "jetour-shanhai-l7-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "jetour-shanhai-l9-2024-precio-ficha-tecnica",
@@ -1132,7 +1132,7 @@ export const COCHES_JETOUR: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 174,
       notas:
-        "Estimación con 15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto con carga doméstica a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1151,6 +1151,6 @@ export const COCHES_JETOUR: CocheComparador[] = [
       
     ],
     analisisSlug: "jetour-shanhai-l9-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
 ];

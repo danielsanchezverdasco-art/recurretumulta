@@ -55,7 +55,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -159,7 +159,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 76,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -236,7 +236,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Aixam España, aixam-mega.com: páginas oficiales «Mantenimiento de un AIXAM: ¿qué tener en cuenta?» y «Mantenimiento AIXAM: calendario completo y costes reales por modelo». Sin precio cerrado de revisión publicado por la marca, por eso los costes quedan sin dato", "intervalo": "Primera revisión al año o a los 1.000 km; siguientes hitos a los 5.000 y a los 10.000 km, con cadencia al menos anual, según Aixam", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión / 1 año o 1.000 km", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles con reposición de los que lo necesiten y control de neumáticos, frenos, amortiguadores, soportes, instalación eléctrica y lunas, según la guía oficial de mantenimiento de Aixam"}, {"costeAproxEur": null, "nombre": "Revisión de los 5.000 km", "queSeCambia": "Repite los controles de la primera visita y suma la comprobación de batería, fuelles, articulaciones y transmisión, los elementos añadidos que Aixam detalla para este hito kilométrico"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km y siguientes", "queSeCambia": "Inspección en profundidad del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración, tal como describe Aixam a partir de este kilometraje"}]},
   },
   {
@@ -357,7 +357,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 137,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -435,7 +435,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 134,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -556,7 +556,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -647,7 +647,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 83,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -725,7 +725,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 135,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -790,7 +790,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -856,7 +856,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 83,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -934,7 +934,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 76,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -999,7 +999,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (~3,5 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (~3,5 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1065,7 +1065,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 98,
       notas:
-        "Estimación con 15.000 km/año, recarga a 0,18 €/kWh (~10 kWh/100 km estimados) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, recarga a 0,18 €/kWh (~10 kWh/100 km estimados) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1131,7 +1131,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 98,
       notas:
-        "Estimación con 15.000 km/año, recarga a 0,18 €/kWh (~10 kWh/100 km estimados) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, recarga a 0,18 €/kWh (~10 kWh/100 km estimados) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1208,7 +1208,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 73,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1285,7 +1285,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1362,7 +1362,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1439,7 +1439,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1516,7 +1516,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1588,7 +1588,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado. La última campaña de Euro NCAP sobre cuadriciclos es de 2016, probó pesados de otra generación y ningún Easy figura en su programa de turismos", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP. La última campaña de Euro NCAP sobre cuadriciclos es de 2016, probó pesados de otra generación y ningún Easy figura en su programa de turismos", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Guía de mantenimiento publicada por Aixam España en aixam-mega.com (calendario de revisiones de sus coches sin carnet); Aixam no publica un precio cerrado por revisión para el Easy, por eso los costes quedan a null", "intervalo": "Para este Access, la casa francesa fija el estreno en taller a los 1.000 km o al cumplir un año; la segunda cita cae a los 5.000 km y, pasados los 10.000 km, cada visita se convierte en una revisión en profundidad", "revisiones": [{"costeAproxEur": null, "nombre": "Estreno del Kubota Z482: un año o 1.000 km", "queSeCambia": "Aceites nuevos con su filtro, niveles medidos y repuestos donde haga falta, además de repasar neumáticos, frenado, amortiguación, soportes, instalación eléctrica y cristales"}, {"costeAproxEur": null, "nombre": "Segunda cita de este Access, a los 5.000 km", "queSeCambia": "Se repite lo de la primera visita y se suman la batería de arranque, los fuelles, las articulaciones y el conjunto de la transmisión por variador"}, {"costeAproxEur": null, "nombre": "Revisiones en profundidad desde los 10.000 km", "queSeCambia": "Inspección completa del cuadriciclo con aceite renovado otra vez y las aletas del radiador del bicilíndrico dejadas limpias de polvo"}]},
   },
   {
@@ -1644,7 +1644,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado. El Easy es un cuadriciclo ligero (L6e) y Euro NCAP no lo ha ensayado: sus únicas campañas sobre cuadriciclos (2014 y 2016) evaluaron modelos pesados (L7e), con criterios distintos a los de un turismo.", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP. El Easy es un cuadriciclo ligero (L6e) y Euro NCAP no lo ha ensayado: sus únicas campañas sobre cuadriciclos (2014 y 2016) evaluaron modelos pesados (L7e), con criterios distintos a los de un turismo.", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manuales oficiales de usuario de Aixam (programa de revisiones de los diésel Kubota) y calendario de mantenimiento publicado en aixam-mega.com", "intervalo": "Primera revisión de rodaje entre los 500 y los 1.000 km o a los 3 meses; desde ahí, una revisión anual o cada 5.000 km, lo primero que llegue", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión de rodaje (500-1.000 km o 3 meses)", "queSeCambia": "Aceite del motor con filtro de aceite nuevo, control del aceite del puente inversor, niveles de refrigerante y de líquido de frenos, funcionamiento de los frenos, presión de neumáticos y batería de arranque"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas (una al año o cada 5.000 km)", "queSeCambia": "Cambio de aceite y de filtro de aceite, vaciado del puente inversor, filtro de gasóleo nuevo, limpieza o sustitución del filtro de aire, control de correas, del variador CVT y de las bujías de incandescencia, reapriete de tornillería y paralelismo"}, {"costeAproxEur": null, "nombre": "Trabajos adicionales (cada 10.000 km)", "queSeCambia": "Las operaciones de las revisiones sucesivas más una inspección en profundidad del conjunto y la limpieza de las aletas del radiador; el manual añade renovar el líquido de frenos cada año y el refrigerante cada dos años"}]},
   },
 ]

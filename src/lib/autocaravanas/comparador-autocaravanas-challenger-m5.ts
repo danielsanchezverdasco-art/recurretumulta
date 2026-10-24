@@ -129,7 +129,7 @@ export const AUTOCARAVANAS_CHALLENGER_M5: Autocaravana[] = [
     analisisSlug: "challenger-287-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que antes ocurra, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km (lo que antes ocurra, según plan Ford)",
       revisiones: [
         {
           nombre: "Revisión base (Ford Transit)",

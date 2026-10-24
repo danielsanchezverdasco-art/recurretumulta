@@ -596,7 +596,7 @@ export const COCHES_EXP11: CocheComparador[] = [
       },
     ],
     analisisSlug: "im-l6-2026-precio-ficha-tecnica",
-    planMantenimiento: {"intervalo": "Cada 12 meses o 15.000 millas, lo que ocurra antes, en su versión europea MG IM5 (Reino Unido); revisión mayor cada 2 años o 30.000 km según el manual", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual", "queSeCambia": "Inspección general del vehículo según las instrucciones de mantenimiento del manual del MG IM5, sin coste en euros publicado para España"}, {"costeAproxEur": null, "nombre": "Revisión mayor bienal", "queSeCambia": "Revisión mayor cada 2 años o 30.000 km e incluye el cambio del líquido de frenos, recomendado cada dos años en el manual del MG IM5"}]},
+    planMantenimiento: {"intervalo": "Cada 12 meses o 15.000 millas, en su versión europea MG IM5 (Reino Unido); revisión mayor cada 2 años o 30.000 km según el manual", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual", "queSeCambia": "Inspección general del vehículo según las instrucciones de mantenimiento del manual del MG IM5, sin coste en euros publicado para España"}, {"costeAproxEur": null, "nombre": "Revisión mayor bienal", "queSeCambia": "Revisión mayor cada 2 años o 30.000 km e incluye el cambio del líquido de frenos, recomendado cada dos años en el manual del MG IM5"}]},
   },
   {
     id: "im-ls6-2025-precio-ficha-tecnica",
@@ -760,7 +760,7 @@ export const COCHES_EXP11: CocheComparador[] = [
       },
     ],
     analisisSlug: "levc-l380-2025-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
   {
     id: "levc-tx-2025-precio-ficha-tecnica",

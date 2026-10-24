@@ -109,7 +109,7 @@ En Pamplona, España. Es uno de los eléctricos *Made in Spain* más asequibles 
 
 No: es un acabado (versión) del Skoda Epiq, que ya está a la venta. La ficha técnica del modelo es la del <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>Skoda Epiq 2026</a>.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+**¿Tienes una multa y no sabes si puedes recurrirla?** 
 
 *Fuentes: <a href=https://etiqueta0.com/noticias/skoda-epiq-sportline-salon-paris-2026-etiqueta-0>etiqueta0 (Skoda Epiq Sportline en París)</a>, <a href=https://www.autonocion.com/epiq-sportline-suv-electrico/>Autonocion (datos técnicos Epiq 40/55)</a>, <a href=https://www.hibridosyelectricos.com/coches/skoda-epiq-precio-medidas-motor-interior-maletero_89334_102.html>Híbridos y Eléctricos (ficha y precios del Epiq)</a>, <a href=https://www.motortenerife.com/texto-diario/mostrar/6051843/koda-epiq-sportline-nuevo-diseno-dinamico-deportivo-gama-electrica>Motor Tenerife (paquetes y llegada a Canarias)</a>.*`,
   },
@@ -205,7 +205,7 @@ La Alpine Performance Platform: la nueva arquitectura para deportivos eléctrico
 
 El 12 de octubre de 2026, en el Salón del Automóvil de París, coincidiendo con el 55.º aniversario del A310 original (1971).
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+**¿Tienes una multa y no sabes si puedes recurrirla?** 
 
 *Fuentes: <a href=https://www.autonocion.com/alpine-a310-vision-2026/>Autonocion (datos y galería del concept)</a>, <a href=https://www.hibridosyelectricos.com/coches/alpine-se-inspira-en-anos-70-presenta-espectacular-coche-electrico-recupera-nombre-a310_89857_102.html>Híbridos y Eléctricos (plataforma APP y no-producción)</a>, <a href=https://www.km77.com/coches/alpine/a310-vision-prototipo/informacion>km77 (medidas y datos técnicos)</a>, <a href=https://madridpress.com/art/351400/alpine-a310-vision>MadridPress (presentación en París)</a>.*`,
   },

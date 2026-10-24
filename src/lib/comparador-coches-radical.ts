@@ -74,7 +74,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 2500,
       costeMensualTotal: 383,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~15 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (neumáticos, frenos, revisiones del motor RPE).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~15 l/100 km en pista); todo riesgo y mantenimiento de competición (neumáticos, frenos, revisiones del motor RPE).",
       estimado: true,
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 3500,
       costeMensualTotal: 503,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~18 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (slicks, frenos, revisiones del motor RPE).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~18 l/100 km en pista); todo riesgo y mantenimiento de competición (slicks, frenos, revisiones del motor RPE).",
       estimado: true,
     },
     galeria: [
@@ -230,7 +230,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 5000,
       costeMensualTotal: 658,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~20 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (motor turbo, slicks, frenos).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~20 l/100 km en pista); todo riesgo y mantenimiento de competición (motor turbo, slicks, frenos).",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 8000,
       costeMensualTotal: 983,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista con el V6 biturbo), seguro a todo riesgo y mantenimiento de superdeportivo de competición.",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista con el V6 biturbo); todo riesgo y mantenimiento de superdeportivo de competición.",
       estimado: true,
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 8000,
       costeMensualTotal: 983,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista), seguro a todo riesgo y mantenimiento de superdeportivo de competición.",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista); todo riesgo y mantenimiento de superdeportivo de competición.",
       estimado: true,
     },
     galeria: [

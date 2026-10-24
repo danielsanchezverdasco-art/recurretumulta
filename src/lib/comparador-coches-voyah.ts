@@ -75,7 +75,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 199,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -153,7 +153,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 165,
       notas:
-        "Estimación con 15.000 km/año (mayoría en modo eléctrico), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (mayoría en modo eléctrico), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -231,7 +231,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 182,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 178,
       notas:
-        "Estimación con 15.000 km/año (mayoría en modo eléctrico), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (mayoría en modo eléctrico), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -398,7 +398,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 172,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -478,7 +478,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -544,7 +544,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 179,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -622,7 +622,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 185,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -688,7 +688,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 215,
       notas:
-        "Estimación con 15.000 km/año (mayoría en modo eléctrico), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (mayoría en modo eléctrico), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -706,7 +706,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "voyah-dream-9-2026-precio-ficha-tecnica",
@@ -755,7 +755,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 222,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -773,7 +773,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "voyah-dream-9-phev-2026-precio-ficha-tecnica",
@@ -822,7 +822,7 @@ export const COCHES_VOYAH: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 218,
       notas:
-        "Estimación con 15.000 km/año (mayoría en modo eléctrico), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (mayoría en modo eléctrico), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -840,6 +840,6 @@ export const COCHES_VOYAH: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
 ];

@@ -144,7 +144,7 @@ notan— o si el presupuesto no admite ni el precio base ni el coste de mantener
     ],
     analisisSlug: "morelo-loft-82-m-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Iveco Daily: revisión anual o cada 40.000 km (según plan del fabricante)",
+      intervalo: "Base Iveco Daily: revisión anual o cada 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Iveco Daily 3.0)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Morelo (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, doble suelo", costeAproxEur: 350 },

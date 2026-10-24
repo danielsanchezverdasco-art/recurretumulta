@@ -1442,7 +1442,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-bkx-300-s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 4.000 km",

@@ -65,7 +65,7 @@ export const CAMPERS_GRUPO4: CocheComparador[] = [
       { src: "/media/possl-summit-600-2026-precio-ficha-tecnica-oficial-interior.webp", alt: "Pössl Summit 600: salón interior", ancho: 1200, alto: 800 },
       { src: "/media/possl-summit-600-2026-precio-ficha-tecnica-oficial-interior-2.webp", alt: "Pössl Summit 600: cocina", ancho: 1200, alto: 800 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     fuenteUrl: "https://www.campervans.de/news-termine/neuheiten/laengsbett-poessl-summit-600-l/",
         cargaUtilKg: null,
     curiosidad: {

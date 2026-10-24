@@ -547,7 +547,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: los descapotables de serie especial no son probados por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      intervalo: "Mantenimiento programado anual o cada 20.000 km, incluido durante 7 años",
       revisiones: [
         {
           nombre: "Ferrari Genuine Maintenance (7 años)",
@@ -1215,7 +1215,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no son probados por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      intervalo: "Mantenimiento programado anual o cada 20.000 km, incluido durante 7 años",
       revisiones: [
         {
           nombre: "Ferrari Genuine Maintenance (7 años)",

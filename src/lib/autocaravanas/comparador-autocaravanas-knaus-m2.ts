@@ -123,7 +123,7 @@ Perfil de comprador: el BoxStar 600 MQ encaja con parejas o familias pequeñas q
     analisisSlug: "knaus-boxstar-600-mq-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -249,7 +249,7 @@ Perfil de comprador: el Sky TI 650 MF encaja con parejas que viajan con un terce
     analisisSlug: "knaus-sky-ti-650-mf-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -376,7 +376,7 @@ Perfil de comprador: el Van TI 650 MEG Vansation encaja con parejas que suben de
     analisisSlug: "knaus-van-ti-650-meg-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

@@ -68,7 +68,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -151,7 +151,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 264,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -234,7 +234,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 128,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -312,7 +312,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 140,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -390,7 +390,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 143,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -456,7 +456,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -535,7 +535,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 170,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -614,7 +614,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 224,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 22 kWh/100 km (Zeekr no publica WLTP del Grand), recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo estimado de 22 kWh/100 km (Zeekr no publica WLTP del Grand), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -641,7 +641,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "Sin mantenimiento térmico; inspecciones periódicas según manual Zeekr (no publicado en abierto)",
@@ -716,7 +716,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 187,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China; llegada a Europa anunciada.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China; llegada a Europa anunciada.",
       estimado: true,
     },
     galeria: [
@@ -794,7 +794,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 141,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [

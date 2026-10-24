@@ -70,7 +70,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 270,
       costeMensualTotal: 118,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -148,7 +148,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -226,7 +226,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 129,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -304,7 +304,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 191,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -382,7 +382,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 137,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -469,7 +469,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -552,7 +552,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 144,
       notas:
-        "Estimación con 15.000 km/año: uso mixto eléctrico/gasolina con recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año: uso mixto eléctrico/gasolina con 0,18 €/kWh (doméstica) y todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -618,7 +618,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año: uso mixto eléctrico/gasolina con recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año: uso mixto eléctrico/gasolina con 0,18 €/kWh (doméstica) y todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -697,7 +697,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 161,
       notas:
-        "Estimación con 15.000 km/año: uso mixto eléctrico/gasolina con recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año: uso mixto eléctrico/gasolina con 0,18 €/kWh (doméstica) y todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [
@@ -775,7 +775,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año: uso mixto eléctrico/gasolina con recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año: uso mixto eléctrico/gasolina con 0,18 €/kWh (doméstica) y todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [

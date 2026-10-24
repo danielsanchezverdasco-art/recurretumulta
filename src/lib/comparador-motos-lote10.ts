@@ -531,7 +531,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "ebroh-bravo-gle-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1293,7 +1293,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "hero-vida-v1-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1370,7 +1370,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "revolt-rv400-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1448,7 +1448,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "tvs-iqube-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1524,7 +1524,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "kymco-ionex-s7-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1676,7 +1676,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "bultaco-brinco-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1752,7 +1752,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "mecatecno-t8-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1828,7 +1828,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     analisisSlug: "electric-motion-escape-r-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",

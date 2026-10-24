@@ -81,7 +81,7 @@ export const COCHES_GEELY: CocheComparador[] = [
       "costeMensualTotal": 158,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh; sin ayudas ni campañas; autonomía y consumo varían según versión (430/475 km WLTP)",
+      "notas": "15.000 km/año y 0,18 €/kWh (doméstica); sin ayudas ni campañas; autonomía y consumo varían según versión (430/475 km WLTP)",
       "estimado": true
     },
     galeria: [
@@ -177,7 +177,7 @@ export const COCHES_GEELY: CocheComparador[] = [
       "costeMensualTotal": 172,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y carga habitual en casa; consumo WLTP ponderado 2,4 l/100 km; sin cargar, el consumo real sube notablemente",
+      "notas": "15.000 km/año y carga habitual en casa; consumo WLTP ponderado 2,4 l/100 km; sin cargar, el consumo real sube notablemente",
       "estimado": true
     },
     galeria: [

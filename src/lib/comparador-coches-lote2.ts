@@ -52,7 +52,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar BAIC para todoterrenos)",
@@ -116,7 +116,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar BAIC para eléctricos)",
@@ -180,7 +180,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 15.000 km (plan estándar de la red oficial en España)",
@@ -244,7 +244,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para las versiones eléctricas",
@@ -308,7 +308,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -372,7 +372,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -438,7 +438,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado; al ser eléctrico solo requiere inspección anual",
@@ -502,7 +502,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Dongfeng)",
@@ -566,7 +566,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan oficial BYD Europa para eléctricos)",
@@ -630,7 +630,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Foton)",
@@ -694,7 +694,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar GAC para eléctricos)",
@@ -758,7 +758,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar GAC)",
@@ -822,7 +822,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan GAC para híbridos enchufables en mercados de exportación)",
@@ -886,7 +886,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar Geely para PHEV)",
@@ -950,7 +950,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1014,7 +1014,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
@@ -1078,7 +1078,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar del grupo Chery)",
@@ -1142,7 +1142,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Según plan del importador (consultar red oficial MHERO en España)",
@@ -1206,7 +1206,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para eléctricos",
@@ -1270,7 +1270,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 10.000 km (plan estándar JAC)",
@@ -1334,7 +1334,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (plan estándar para eléctricos)",
@@ -1398,7 +1398,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1462,7 +1462,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan publicado para Europa; en China, revisión anual para eléctricos",
@@ -1526,7 +1526,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Cada 12 meses o 20.000 km (plan estándar)",
@@ -1590,7 +1590,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan de mantenimiento publicado: al ser eléctrico solo requiere inspección anual de frenos, neumáticos y batería",

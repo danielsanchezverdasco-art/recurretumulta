@@ -69,7 +69,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 105,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio chino convertido a 0,13 €/CNY; orientativo para España.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio chino convertido a 0,13 €/CNY; orientativo para España.",
       estimado: true,
     },
     galeria: [
@@ -155,7 +155,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 128,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 15,5 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo estimado de 15,5 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -247,7 +247,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 128,
       notas:
-        "Estimación con 15.000 km/año en uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año en uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 152,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 20,5 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo estimado de 20,5 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -383,7 +383,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 110,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 13,5 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo estimado de 13,5 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -451,7 +451,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 134,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 17 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, consumo estimado de 17 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -519,7 +519,7 @@ export const COCHES_NEVO: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 135,
       notas:
-        "Estimación con 15.000 km/año en uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año en uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [

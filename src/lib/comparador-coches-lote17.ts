@@ -73,7 +73,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 385,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 8,2 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 8,2 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -155,7 +155,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 295,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 18,5 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 18,5 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -171,7 +171,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km (vehículo eléctrico, sin cambio de aceite)",
@@ -249,7 +249,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 750,
       costeMensualTotal: 620,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 10,2 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 10,2 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -343,7 +343,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 295,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 6,8 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 6,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -425,7 +425,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 240,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,7 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 15,7 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -503,7 +503,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 260,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 14,5 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 14,5 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -519,7 +519,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 25.000 km o 12 meses (eléctrico, sin cambio de aceite)",
@@ -597,7 +597,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 280,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,2 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 15,2 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -613,7 +613,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 25.000 km o 12 meses (eléctrico, sin cambio de aceite)",
@@ -691,7 +691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 650,
       costeMensualTotal: 520,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 9,8 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 9,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -785,7 +785,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 330,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -879,7 +879,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 430,
       costeMensualTotal: 350,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -973,7 +973,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 290,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 6,5 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 6,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1067,7 +1067,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 285,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, recarga a 0,18 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1161,7 +1161,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 430,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 8,8 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 8,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1255,7 +1255,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 164,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo estimado de 21 kWh/100 km y seguro a todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo estimado de 21 kWh/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1355,7 +1355,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 16,8 kWh/100 km y seguro a todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo WLTP de 16,8 kWh/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1466,7 +1466,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 165,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, recarga a 0,18 €/kWh, consumos WLTP de 0,5 l/100 km y 18,9 kWh/100 km, y seguro a todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, recarga a 0,18 €/kWh, consumos WLTP de 0,5 l/100 km y 18,9 kWh/100 km,; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1578,7 +1578,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 141,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica) y seguro a todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,8 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1691,7 +1691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 151,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica) y seguro a todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1713,7 +1713,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo:
@@ -1797,7 +1797,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 167,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 24,1 kWh/100 km y seguro a todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo WLTP de 24,1 kWh/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1819,7 +1819,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Servicio de inspección cada 2 años (Plan de Mantenimiento Gama ID.)",
@@ -1901,7 +1901,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 276,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 7,6 l/100 km y seguro a todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 7,6 l/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2000,7 +2000,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 110,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 15,5 kWh/100 km y seguro a todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo WLTP de 15,5 kWh/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2099,7 +2099,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 110,
       costeMensualTotal: 140,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo WLTP de 15,5 kWh/100 km y seguro a todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo WLTP de 15,5 kWh/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2198,7 +2198,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 202,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo WLTP de 4,9 l/100 km y seguro a todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo WLTP de 4,9 l/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2297,7 +2297,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 340,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 10,2 l/100 km y seguro a todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 10,2 l/100 km; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2412,7 +2412,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 189,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 5,0 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 5,0 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2522,7 +2522,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 136,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 16,1 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 16,1 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2628,7 +2628,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 661,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 19 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 19 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2647,7 +2647,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "La variante Electrified (batería de 87,2 kWh) se añadió a la validez de la prueba el 28/06/2023.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (Servicio 1); 24 meses o 24.000 km (Servicio 2), lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km (Servicio 1); 24 meses o 24.000 km (Servicio 2)",
       revisiones: [
         {
           nombre: "Servicio 1 / 12.000 km",
@@ -2732,7 +2732,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 759,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 22 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 22 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2751,7 +2751,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "La variante Magma no se probó por separado; la prueba de 5 estrellas cubre la gama GV60.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (Servicio 1); 24 meses o 24.000 km (Servicio 2), lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km (Servicio 1); 24 meses o 24.000 km (Servicio 2)",
       revisiones: [
         {
           nombre: "Servicio 1 / 12.000 km",
@@ -2836,7 +2836,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 564,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 17,5 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 17,5 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2855,7 +2855,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       nota: "Reevaluado en julio de 2025 con 4 estrellas tras mejorar la retención de las plazas traseras (la prueba de 2024 dio 3 estrellas).",
     },
     planMantenimiento: {
-      intervalo: "2 años o 30.000 km, lo que ocurra antes",
+      intervalo: "2 años o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión principal / 30.000 km",
@@ -2935,7 +2935,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 900,
       costeMensualTotal: 4148,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo de superdeportivo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo de superdeportivo.",
       estimado: true,
     },
     galeria: [
@@ -2951,7 +2951,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite); cambio inicial de rodaje a los 800 km (cárter seco)",
@@ -3034,7 +3034,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 800,
       costeMensualTotal: 3403,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 13 l/100 km y todo riesgo de superdeportivo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 13 l/100 km y todo riesgo de superdeportivo.",
       estimado: true,
     },
     galeria: [
@@ -3050,10 +3050,10 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (según sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -3133,7 +3133,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 700,
       costeMensualTotal: 4442,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 17,5 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 17,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -3149,10 +3149,10 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (según testigo de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (según testigo de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -3232,7 +3232,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 650,
       costeMensualTotal: 4061,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 16 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -3248,10 +3248,10 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3331,7 +3331,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 750,
       costeMensualTotal: 4343,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 17 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 17 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -3347,10 +3347,10 @@ export const COCHES_LOTE17: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite), lo que ocurra antes",
+      intervalo: "12 meses o 12.000 km (según sistema de vida útil del aceite)",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3430,7 +3430,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,20 €/kWh, consumo de 18,4 kWh/100 km y todo riesgo. Precio con ayudas del Plan Auto+ adelantadas por la marca.",
+        "15.000 km/año, 0,20 €/kWh (doméstica), consumo de 18,4 kWh/100 km y todo riesgo. Precio con ayudas del Plan Auto+ adelantadas por la marca.",
       estimado: true,
     },
     galeria: [
@@ -3525,7 +3525,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 200,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,20 €/kWh, consumo de 20,1 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,20 €/kWh (doméstica), consumo de 20,1 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [

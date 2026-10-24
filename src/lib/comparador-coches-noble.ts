@@ -65,7 +65,7 @@ export const COCHES_NOBLE: CocheComparador[] = [
       mantenimientoAnual: 2500,
       costeMensualTotal: 689,
       notas:
-        "Estimación con 15.000 km/año y consumo estimado de 12,5 l/100 km (sin cifra oficial WLTP). Seguro a todo riesgo y mantenimiento estimados para un superdeportivo artesanal de producción muy limitada.",
+        "15.000 km/año y consumo estimado de 12,5 l/100 km (sin cifra oficial WLTP). Seguro a todo riesgo y mantenimiento estimados para un superdeportivo artesanal de producción muy limitada.",
       estimado: true,
     },
     galeria: [

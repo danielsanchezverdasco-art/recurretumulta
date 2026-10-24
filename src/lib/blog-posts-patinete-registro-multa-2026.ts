@@ -96,6 +96,6 @@ Sí. La Ley 5/2025 establece el **seguro obligatorio de responsabilidad civil** 
 Sí. Además de las multas, el agente puede **inmovilizar el vehículo** y ordenar su **retirada al depósito municipal** hasta que regularices la situación.
 
 ### ¿Puedo recurrir una multa por patinete sin registro ni seguro?
-Sí, como cualquier sanción de tráfico. Revisa la fecha de los hechos, la identificación del vehículo y la tipificación aplicada. <a href=https://recurretumulta.online/>Analiza tu multa gratis con IA</a> antes de pagar: el pago con descuento cierra la puerta al recurso.`
+Sí, como cualquier sanción de tráfico. Revisa la fecha de los hechos, la identificación del vehículo y la tipificación aplicada. `
   }
 ];

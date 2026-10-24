@@ -486,7 +486,7 @@ Gasolina: C; híbrido HEV: ECO; híbrido enchufable PHEV: CERO, con acceso a las
 ### ¿Ebro S700 o MG HS PHEV?
 El MG HS ofrece 100 km eléctricos y precio de derribo en oferta (24.540 €); el S700, fabricación en España, mejor garantía y una marca con historia. Prueba los dos antes de decidir.
 
-Hecho en Barcelona y con 279 CV, el S700 invita a pisarle. Si un radar te pilla, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a> antes de pagar: a veces hasta los PHEV tienen defectos de forma.
+Hecho en Barcelona y con 279 CV, el S700 invita a pisarle. 
 
 ## Fuentes
 

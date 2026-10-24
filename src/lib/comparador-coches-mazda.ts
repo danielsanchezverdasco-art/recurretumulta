@@ -1285,7 +1285,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 198,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1366,7 +1366,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1447,7 +1447,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1528,7 +1528,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 224,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 6,3 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 6,3 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1609,7 +1609,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 134,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 19 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 19 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1690,7 +1690,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; diésel a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
+      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
       "estimado": true
     },
     galeria: [

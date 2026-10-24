@@ -94,7 +94,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -125,7 +125,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "El VW Caddy obtuvo 5 estrellas EuroNCAP en 2021; la reevaluación de 2025 con el protocolo actual le dio 4 estrellas.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (servicio LongLife)",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -202,7 +202,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 332,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -233,7 +233,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Grand California no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (servicio LongLife)",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -310,7 +310,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 302,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -341,7 +341,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Transit Custom Nugget no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 40.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 40.000 km",
       revisiones: [
         {
           nombre: "Revisión / 40.000 km",
@@ -418,7 +418,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -449,7 +449,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Marco Polo no ha sido probado; la Clase V base obtuvo 5 estrellas en 2014.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A/B alternos)",
       revisiones: [
         {
           nombre: "Service A / 25.000 km",
@@ -526,7 +526,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 281,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -557,7 +557,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Vito Tourer actual no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A/B alternos)",
       revisiones: [
         {
           nombre: "Service A / 25.000 km",
@@ -634,7 +634,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 219,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -665,7 +665,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Citan Tourer no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -742,7 +742,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 321,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -773,7 +773,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Sprinter no ha sido probado en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -848,7 +848,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 319,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -879,7 +879,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Crafter no ha sido probado en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (servicio LongLife)",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -956,7 +956,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 323,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo. Precio orientativo con IVA.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo. Precio orientativo con IVA.",
       estimado: true,
     },
     galeria: [
@@ -987,7 +987,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin estrellas EuroNCAP de turismos; evaluado en el programa Euro NCAP Commercial Van Safety 2024.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 40.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 40.000 km",
       revisiones: [
         {
           nombre: "Revisión / 40.000 km",
@@ -1062,7 +1062,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 188,
       notas:
-        "Estimación con 15.000 km/año, recarga a 0,18 €/kWh, consumo de 24,4 kWh/100 km y todo riesgo.",
+        "15.000 km/año, recarga a 0,18 €/kWh, consumo de 24,4 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1093,7 +1093,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el eVito no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 25.000 km",
@@ -1168,7 +1168,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 270,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1199,7 +1199,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Zafira Life no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -1274,7 +1274,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 259,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 7 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo de 7 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1305,7 +1305,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Trafic SpaceClass no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión / 30.000 km",
@@ -1380,7 +1380,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 267,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1411,7 +1411,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el SpaceTourer Campster no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -1490,7 +1490,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 364,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1596,7 +1596,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 520,
       costeMensualTotal: 347,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1702,7 +1702,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 314,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1870,7 +1870,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 340,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1976,7 +1976,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -2082,7 +2082,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
+        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
       estimado: true,
     },
     galeria: [
@@ -2250,7 +2250,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 185,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 5,1 l/100 km y todo riesgo.",
+        "15.000 km/año, gasolina a 1,60 €/l, consumo de 5,1 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2281,7 +2281,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "0 estrellas en 2018 (45 % adultos, 16 % niños): el modelo 312 no incorporaba asistentes de seguridad modernos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -2356,7 +2356,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 142,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,9 kWh/100 km y todo riesgo.",
+        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 15,9 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2387,7 +2387,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "5 estrellas en 2021: 93 % en ocupantes adultos, 89 % en niños, 76 % en peatones y 85 % en asistentes.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (Plan de Inspección), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (Plan de Inspección)",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -2462,7 +2462,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 84,
       notas:
-        "Estimación con 10.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 5,9 kWh/100 km y todo riesgo.",
+        "Estimación con 10.000 km/año, 0,18 €/kWh (doméstica), consumo de 5,9 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2493,7 +2493,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: los cuadriciclos y microcoches no entran en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 20.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 20.000 km",
@@ -2563,7 +2563,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 107,
       notas:
-        "Estimación con 10.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 13,3 kWh/100 km y todo riesgo.",
+        "Estimación con 10.000 km/año, 0,18 €/kWh (doméstica), consumo de 13,3 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2594,7 +2594,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el smart EQ fortwo no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",

@@ -208,11 +208,6 @@ export default function MultaProvinciaPage() {
             >
               {seoOverride?.h1 ?? <>Recurrir multas de tráfico en {p.nombre}</>}
             </h1>
-            <p
-              className="text-white/80 text-sm md:text-base leading-relaxed max-w-xl"
-            >
-              Quién tramita tu multa en {p.nombre}, dónde presentar el recurso, plazos, radares y zonas de bajas emisiones.
-            </p>
             <div
               className="flex items-center gap-2 text-xs text-white/60 pt-1"
             >
@@ -277,7 +272,6 @@ export default function MultaProvinciaPage() {
               </div>
               <div>
                 <p className="font-black text-sm">¿Tienes una multa de {p.nombre}?</p>
-                <p className="text-white/80 text-xs">Nuestra herramienta puede detectar posibles defectos de forma. Gratis y sin garantía de resultado.</p>
               </div>
             </div>
             <Link to="/#analizador" className="block">
@@ -327,7 +321,6 @@ export default function MultaProvinciaPage() {
                 ) : (
                   <p className="text-xs text-gray-400">Sin radares fijos destacados</p>
                 )}
-                <p className="text-[11px] text-gray-400">Tramos donde la DGT suele colocar controles de velocidad fijos o móviles.</p>
               </CardContent>
             </Card>
           </div>
@@ -350,7 +343,7 @@ export default function MultaProvinciaPage() {
             {radaresProvincia.length > 0 ? (
               <>
                 <p className="text-sm text-gray-600">
-                  {radaresProvincia.length} {radaresProvincia.length === 1 ? "radar fijo" : "radares fijos"} del listado oficial: carretera, punto kilométrico, sentido, municipio y límite de velocidad.
+                  {radaresProvincia.length} {radaresProvincia.length === 1 ? "radar fijo" : "radares fijos"}.
                 </p>
                 <ul className="grid sm:grid-cols-2 gap-2">
                   {radaresProvincia.map((r) => (
@@ -378,7 +371,7 @@ export default function MultaProvinciaPage() {
                     </li>
                   ))}
                 </ul>
-                <p className="text-[11px] text-gray-400">Fuente: listado oficial de radares fijos ({fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre}, <a href={fuenteRadaresDe(slugRadares).url} target="_blank" rel="noopener noreferrer" className="underline">{fuenteRadaresDe(slugRadares).urlTexto}</a>) — datos verificados el 24/10/2026. La ausencia de un radar en esta lista no significa que no exista.</p>
+                <p className="text-[11px] text-gray-400">Fuente: listado oficial de radares fijos ({fuenteRadaresDe(slugRadares).art} {fuenteRadaresDe(slugRadares).nombre}, <a href={fuenteRadaresDe(slugRadares).url} target="_blank" rel="noopener noreferrer" className="underline">{fuenteRadaresDe(slugRadares).urlTexto}</a>) — 24/10/2026.</p>
               </>
             ) : (
               <p className="text-sm text-gray-600">
@@ -392,7 +385,6 @@ export default function MultaProvinciaPage() {
           {(HISTORIAS_PROVINCIA[p.slug] ?? []).length > 0 && (
             <section className="space-y-3">
               <h2 className="text-xl font-black text-gray-900">Historias reales: radares y multas en {p.nombre}</h2>
-              <p className="text-sm text-gray-600">Noticias reales sobre controles de velocidad y sanciones en la provincia, cada una con su fuente.</p>
               <div className="space-y-3">
                 {(HISTORIAS_PROVINCIA[p.slug] ?? []).map((h, i) => (
                   <article key={i} className="border border-gray-200 rounded-2xl p-4 space-y-1.5">
@@ -423,7 +415,6 @@ export default function MultaProvinciaPage() {
                     </li>
                   ))}
                 </ul>
-                <p className="text-xs text-amber-700">Las multas de ZBE se anulan frecuentemente por falta de señalización o error en la etiqueta del vehículo.</p>
               </CardContent>
             </Card>
           )}
@@ -449,8 +440,6 @@ export default function MultaProvinciaPage() {
                 ? <>Si la denuncia es de carretera, preséntala ante el {auto.nombre} ({auto.urlTexto}).</>
                 : <>Si la denuncia es de la DGT, preséntala ante la {p.dgtDelegacion} ({p.emailDgt}) o en sede.dgt.gob.es.</>}
               {" "}Si es del Ayuntamiento de {p.capital}, ante el propio ayuntamiento.
-              {" "}<strong>Alegaciones:</strong> {PLAZO_ALEGACIONES_MULTAS} de la denuncia. <strong>Recurso de reposición:</strong> 1 mes desde la resolución sancionadora.
-              {" "}Explicamos el procedimiento completo en la <Link to="/multas/" className="text-red-600 hover:underline">guía general para recurrir multas</Link>.
             </p>
           </section>
 
@@ -469,7 +458,7 @@ export default function MultaProvinciaPage() {
             </div>
           )}
 
-<p className="text-sm text-gray-600">Importes y puntos de cada infracción: <Link to="/buscador-codigo-multa/" className="text-red-700 underline">buscador de códigos de multa</Link>.</p> {/* Fuentes oficiales */} <p className="text-xs text-gray-500">Fuentes: <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="underline">RDL 6/2015 (BOE)</a> · {auto ? <a href={auto.url} target="_blank" rel="noopener noreferrer" className="underline">{auto.nombre}</a> : <a href="https://sede.dgt.gob.es" target="_blank" rel="noopener noreferrer" className="underline">sede.dgt.gob.es</a>}</p> {/* Guías relacionadas (A1: reducidas) */} <section className="space-y-2"> <h2 className="text-lg font-black text-gray-900">Guías relacionadas</h2> <ul className="space-y-1 text-sm"> <li><Link to="/guias/vicios-forma/" className="text-red-700 underline">Vicios de forma que pueden anular una multa</Link></li> {p.multas.radares.length > 0 && (<li><Link to="/guias/radares/" className="text-red-700 underline">Radares y cómo recurrir sus multas</Link></li>)} {p.multas.zonasBajas.length > 0 && (<li><Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="text-red-700 underline">Cómo recurrir multas de la ZBE</Link></li>)} {slug === "madrid" && (<li><Link to="/blog/multa-trafico-madrid-recurrir/" className="text-red-700 underline">Multa de tráfico en Madrid: cómo recurrir</Link></li>)} {slug === "barcelona" && (<li><Link to="/blog/multa-trafico-barcelona-recurrir/" className="text-red-700 underline">Multa de tráfico en Barcelona: cómo recurrir</Link></li>)} </ul> </section>
+{/* Fuentes oficiales */} <p className="text-xs text-gray-500">Fuentes: <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="underline">RDL 6/2015 (BOE)</a> · {auto ? <a href={auto.url} target="_blank" rel="noopener noreferrer" className="underline">{auto.nombre}</a> : <a href="https://sede.dgt.gob.es" target="_blank" rel="noopener noreferrer" className="underline">sede.dgt.gob.es</a>}</p> {/* Guías relacionadas (A1: reducidas) */} <nav aria-label="Guías relacionadas" className="space-y-2"> <h2 className="text-lg font-black text-gray-900">Guías relacionadas</h2> <ul className="space-y-1 text-sm"> <li><Link to="/guias/vicios-forma/" className="text-red-700 underline">Vicios de forma que pueden anular una multa</Link></li> {p.multas.radares.length > 0 && (<li><Link to="/guias/radares/" className="text-red-700 underline">Radares y cómo recurrir sus multas</Link></li>)} {p.multas.zonasBajas.length > 0 && (<li><Link to="/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="text-red-700 underline">Cómo recurrir multas de la ZBE</Link></li>)} {slug === "madrid" && (<li><Link to="/blog/multa-trafico-madrid-recurrir/" className="text-red-700 underline">Multa de tráfico en Madrid: cómo recurrir</Link></li>)} {slug === "barcelona" && (<li><Link to="/blog/multa-trafico-barcelona-recurrir/" className="text-red-700 underline">Multa de tráfico en Barcelona: cómo recurrir</Link></li>)} </ul> </nav>
           <Card className="border-2 border-red-200">
             <CardContent className="p-5 space-y-4">
               <p className="font-black text-gray-900">¿Tienes una multa en {p.nombre}?</p>

@@ -69,7 +69,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
       "estimado": true
     },
     galeria: [
@@ -140,7 +140,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 120,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 14,2 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un utilitario eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 14,2 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un utilitario eléctrico",
       "estimado": true
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo estimado 17 kWh/100 km (WLTP no publicado) y recarga doméstica a 0,18 €/kWh; seguro deportivo orientativo",
+      "notas": "15.000 km/año, consumo estimado 17 kWh/100 km (WLTP no publicado) y 0,18 €/kWh (doméstica); seguro deportivo orientativo",
       "estimado": true
     },
     galeria: [
@@ -359,7 +359,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 16,0 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 16,0 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -444,7 +444,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un SUV híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un SUV híbrido",
       "estimado": true
     },
     galeria: [
@@ -515,7 +515,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 130,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 15,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 15,4 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -599,7 +599,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,7 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un compacto híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,7 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un compacto híbrido",
       "estimado": true
     },
     galeria: [
@@ -670,7 +670,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y uso mixto (carga diaria): coste combinado aprox 5,5 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año y uso mixto (carga diaria): coste combinado aprox 5,5 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -743,7 +743,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 14,8 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un compacto eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 14,8 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un compacto eléctrico",
       "estimado": true
     },
     galeria: [
@@ -815,7 +815,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 15,0 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un familiar eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 15,0 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un familiar eléctrico",
       "estimado": true
     },
     galeria: [
@@ -888,7 +888,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 185,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y uso mixto (carga diaria): coste combinado aprox 5,5 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año y uso mixto (carga diaria): coste combinado aprox 5,5 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -973,7 +973,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 205,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un familiar híbrido",
+      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km y gasolina a 1,60 €/l; seguro y mantenimiento orientativos para un familiar híbrido",
       "estimado": true
     },
     galeria: [
@@ -1107,7 +1107,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año y uso mixto (carga diaria): coste combinado aprox 6,0 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
+      "notas": "15.000 km/año y uso mixto (carga diaria): coste combinado aprox 6,0 €/100 km entre gasolina a 1,60 €/l y recarga a 0,18 €/kWh; seguro y mantenimiento orientativos",
       "estimado": true
     },
     galeria: [
@@ -1180,7 +1180,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,0 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 17,0 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un SUV eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1252,7 +1252,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 175,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,3 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico de gran autonomía",
+      "notas": "15.000 km/año, consumo WLTP 17,3 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un SUV eléctrico de gran autonomía",
       "estimado": true
     },
     galeria: [
@@ -1324,7 +1324,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un SUV eléctrico de altas prestaciones",
+      "notas": "15.000 km/año, consumo WLTP 17,5 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un SUV eléctrico de altas prestaciones",
       "estimado": true
     },
     galeria: [
@@ -1396,7 +1396,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,0 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un monovolumen eléctrico",
+      "notas": "15.000 km/año, consumo WLTP 18,0 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un monovolumen eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1469,7 +1469,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 23,8 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para un monovolumen eléctrico de 8 plazas",
+      "notas": "15.000 km/año, consumo WLTP 23,8 kWh/100 km y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para un monovolumen eléctrico de 8 plazas",
       "estimado": true
     },
     galeria: [
@@ -1542,7 +1542,7 @@ export const COCHES_OPEL: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con 15.000 km/año, consumo estimado 24 kWh/100 km (WLTP no publicado) y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento orientativos para una furgoneta eléctrica",
+      "notas": "15.000 km/año, consumo estimado 24 kWh/100 km (WLTP no publicado) y 0,18 €/kWh (doméstica); seguro y mantenimiento orientativos para una furgoneta eléctrica",
       "estimado": true
     },
     galeria: [
@@ -1568,7 +1568,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     fuenteNombre: "espaciofurgo.com",
     fuenteUrl: "https://www.espaciofurgo.com/ficha/opel-vivaro-electric/",
     euroncap: {"estrellas": 4, "ano": 2025, "url": "https://commercial-vehicles.euroncap.com/assessments/opel/vivaro/v107/", "nota": "Resultado Euro NCAP verificado para este modelo."},
-    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la documentación de Vauxhall para el Vivaro Electric (el gemelo británico del Opel), toca inspección inicial a las 12.500 millas o al año y servicio cada 25.000 millas o 2 años, lo que ocurra antes. Opel España incluye en sus revisiones filtro de habitáculo, revisión de batería, cambio de líquido de frenos e inspección de frenos, luces y electrónica, y remite al manual del propietario para el plan exacto de cada unidad: confírmalo allí antes de pedir cita.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://manuals.plus/vauxhall/2026a-vivaro-electric-including-diesel-range-manual"},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la documentación de Vauxhall para el Vivaro Electric (el gemelo británico del Opel), toca inspección inicial a las 12.500 millas o al año y servicio cada 25.000 millas o 2 años. Opel España incluye en sus revisiones filtro de habitáculo, revisión de batería, cambio de líquido de frenos e inspección de frenos, luces y electrónica, y remite al manual del propietario para el plan exacto de cada unidad: confírmalo allí antes de pedir cita.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://manuals.plus/vauxhall/2026a-vivaro-electric-including-diesel-range-manual"},
   },
   {
     id: "opel-mokka-gse-2025-precio-ficha-tecnica",

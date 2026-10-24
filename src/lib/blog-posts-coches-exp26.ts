@@ -109,7 +109,7 @@ No: la generación de 2024 aún no ha sido probada por EuroNCAP.
 
 *Fuentes: <a href=https://www.km77.com/coches/lancia/ypsilon/2024/estandar/datos>km77.com</a>, <a href=https://www.lancia.com> Lancia oficial</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+**¿Te han puesto una multa?**`
   },
   {
     "title": "Nissan Micra 2025: eléctrico desde 27.700 €",
@@ -213,7 +213,7 @@ No hay prueba publicada de la nueva generación eléctrica.
 
 *Fuentes: <a href=https://www.km77.com/coches/nissan/micra/2026/5-puertas/datos?amp=1>km77.com</a>, <a href=https://www.nissan.es>Nissan España</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+**¿Te han puesto una multa?**`
   },
   {
     "title": "BYD Sealion 05: SUV eléctrico trasera",
@@ -310,7 +310,7 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 *Fuentes: <a href=https://www.byd.com>BYD oficial</a>, <a href=https://es.wikipedia.org/wiki/BYD_Sealion_05_EV>Wikipedia</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+**¿Te han puesto una multa?**`
   },
   {
     "title": "Jaecoo J6 2025: SUV eléctrico 4x4 de 279 CV",
@@ -406,7 +406,7 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 *Fuentes: <a href=https://www.auto-data.net/es/jaecoo-j6-69.77-kwh-279hp-electric-4wd-54193>auto-data.net</a>, <a href=https://www.jaecoo.es>Jaecoo España</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+**¿Te han puesto una multa?**`
   },
   {
     "title": "GWM Haval H6 2024: híbrido de 243 CV con ECO",
@@ -504,6 +504,6 @@ Logró 5 estrellas ANCAP en 2022; EuroNCAP aún no lo ha probado.
 
 *Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+**¿Te han puesto una multa?**`
   },
 ];

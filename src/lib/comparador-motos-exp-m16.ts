@@ -67,7 +67,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El embrague centrífugo no requiere ajustes: si patina, es trabajo de taller.",
@@ -135,7 +135,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 1,1 l de cárter, el nivel de aceite hay que vigilarlo con frecuencia.",
@@ -203,7 +203,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "La cadena va semicarenada: limpia con trapo seco y limpiador específico.",
         "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El filtro de aire se cambia cada 4.000 km.",
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El control de tracción HSTC se puede desconectar para el off-road ligero.",
@@ -339,7 +339,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Tras el off-road, limpia a fondo la cadena: el polvo la desgasta el doble.",
@@ -407,7 +407,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "En la versión DCT, el aceite del doble embrague comparte cárter: respeta el nivel al milímetro.",
@@ -475,7 +475,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El E-Clutch no necesita mantenimiento específico, pero no lo fuerces en parado con marcha metida.",
@@ -609,7 +609,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El modo Track de la TFT registra tiempos por vuelta en circuito.",
@@ -677,7 +677,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "La suspensión electrónica no necesita reglajes manuales: elige el modo y listo.",
@@ -881,7 +881,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Bujías NGK LMAR8A-9: dos unidades, apriete a 13 Nm.",
@@ -949,7 +949,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El control de crucero se activa a partir de 40 km/h: ideal en autopista.",
@@ -1017,7 +1017,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El carenado se desmonta por paneles: no fuerces las pestañas de plástico.",

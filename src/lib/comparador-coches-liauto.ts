@@ -497,6 +497,6 @@ export const COCHES_LIAUTO: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
 ];

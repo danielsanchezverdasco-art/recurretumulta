@@ -125,7 +125,7 @@ Sí, si es una marca con red en España: los precios son los mejores del mercado
 
 *Fuentes: <a href=https://lado.mx/noticia/22029570/>EFE</a> (París, 11 de octubre de 2026), <a href=https://www.reuters.com/es/negocio/E6RW3GA3MRLQPMQHXQKLFRUORI-2026-10-09/>Reuters</a> (09/10/2026), <a href=https://capital.es/actualidad/el-salon-del-automovil-de-paris-reunira-mas-de-60-estrenos-mundiales/225398/>Capital.es</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-toyota-marcas-coches-ausentes-salon-paris-2026/20261009094056064093.html>Somos Eléctricos</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 
 **También te puede interesar:** <a href=/blog/citroen-2cv-electrico-2026-paris/>el 2CV eléctrico se presenta hoy en París</a> · <a href=/blog/ue-china-freno-hibridos-enchufables/>el pacto UE-China sobre híbridos</a> · <a href=/blog/leapmotor-b05-vs-gac-aion-ut-cual-comprar/>duelo: Leapmotor B05 vs GAC AION UT</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 `

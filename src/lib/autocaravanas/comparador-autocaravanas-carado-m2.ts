@@ -245,7 +245,7 @@ Perfil de comprador: la A 361 PRO encaja con familias de 4 a 6 miembros que nece
     analisisSlug: "carado-a-361-pro-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

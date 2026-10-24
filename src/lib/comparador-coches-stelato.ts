@@ -70,7 +70,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 156,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -149,7 +149,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -228,7 +228,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 156,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -309,7 +309,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 170,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -416,7 +416,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 183,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [

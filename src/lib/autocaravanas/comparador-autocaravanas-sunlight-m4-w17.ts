@@ -117,7 +117,7 @@ Para quién es: la T 69 L encaja con familias de cuatro que quieren cama queen, 
     analisisSlug: "sunlight-t-69-l-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Citroën Jumper: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+        "Base Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",
@@ -237,7 +237,7 @@ Para quién es: la I 68 encaja con quien siempre soñó con una integral y no qu
     analisisSlug: "sunlight-i-68-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+        "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

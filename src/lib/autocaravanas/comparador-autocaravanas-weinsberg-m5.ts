@@ -92,7 +92,7 @@ A quién le encaja: a parejas que persiguen una perfilada manejable y angosta pa
     ],
     analisisSlug: "weinsberg-caracompact-600-meg-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Weinsberg (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 230 },

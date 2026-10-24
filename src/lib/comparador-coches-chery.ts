@@ -83,7 +83,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 189,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Híbrido autorrecargable: sin coste de recarga.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Híbrido autorrecargable: sin coste de recarga.",
       estimado: true,
     },
     galeria: [
@@ -175,7 +175,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 146,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -253,7 +253,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -331,7 +331,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 180,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -409,7 +409,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio de referencia del mercado chino.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
       estimado: true,
     },
     galeria: [
@@ -583,7 +583,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Modelo aún no a la venta: sin PVP.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Modelo aún no a la venta: sin PVP.",
       estimado: true,
     },
     galeria: [
@@ -677,7 +677,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 109,
       notas:
-        "Estimación con 12.000 km/año, consumo estimado de 15 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. A la venta en Tailandia y Sudáfrica; en Europa llegará en 2027 sin precio confirmado.",
+        "Estimación con 12.000 km/año, consumo estimado de 15 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. A la venta en Tailandia y Sudáfrica; en Europa llegará en 2027 sin precio confirmado.",
       estimado: true,
     },
     galeria: [
@@ -704,7 +704,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "Sin mantenimiento térmico; inspecciones periódicas según manual Chery (no publicado en abierto)",
@@ -762,7 +762,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Arrizo 5 no ha sido probado por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión pequeña (cada 5.000 km)",
@@ -811,7 +811,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 135,
       costeMensualTotal: 205,
       notas:
-        "Estimación con 15.000 km/año, consumo medio orientativo de 7,0 l/100 km, gasolina a 1,60 €/l, seguro a todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (59.900 ¥); no se vende en España.",
+        "15.000 km/año, consumo medio orientativo de 7,0 l/100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (59.900 ¥); no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -894,7 +894,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 218,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio de referencia del mercado chino.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del mercado chino.",
       estimado: true,
     },
     galeria: [
@@ -961,7 +961,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Arrizo 8 no ha sido probado por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión pequeña (cada 5.000 km)",
@@ -1010,7 +1010,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 204,
       notas:
-        "Estimación con 15.000 km/año, consumo WLTC de 6,5 l/100 km, gasolina a 1,60 €/l, seguro a todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (99.900 ¥); no se vende en España.",
+        "15.000 km/año, consumo WLTC de 6,5 l/100 km, gasolina a 1,60 €/l; todo riesgo y revisiones cada 5.000 km. Precio convertido del PVP oficial en China (99.900 ¥); no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -1093,7 +1093,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 137,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1159,7 +1159,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1225,7 +1225,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1296,7 +1296,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 158,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1374,7 +1374,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 90,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1452,7 +1452,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 116,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1520,7 +1520,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 248,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1603,7 +1603,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 146,
       notas:
-        "Estimación con 15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
+        "15.000 km/año cargando en casa a diario (0,18 €/kWh), gasolina a 1,60 €/l y todo riesgo. Precio de referencia de China.",
       estimado: true,
     },
     galeria: [
@@ -1682,7 +1682,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 273,
       notas:
-        "Estimación con 15.000 km/año, consumo medio declarado de 8,7 l/100 km, diésel a 1,55 €/l y todo riesgo. Precio de referencia de Argentina (US$ 32.500, unos 28.920 € al cambio del 18/10/2026).",
+        "15.000 km/año, consumo medio declarado de 8,7 l/100 km, diésel a 1,55 €/l y todo riesgo. Precio de referencia de Argentina (US$ 32.500, unos 28.920 € al cambio del 18/10/2026).",
       estimado: true,
     },
     galeria: [
@@ -1709,7 +1709,7 @@ export const COCHES_CHERY: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "No publicado en abierto para la Himla; consultar manual Chery Argentina",

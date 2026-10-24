@@ -93,7 +93,7 @@ Para quién es: encaja con parejas que viajan mucho y quieren una perfilada ampl
     ],
     analisisSlug: "knaus-sky-ti-700-meg-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -180,7 +180,7 @@ Para quién es: perfecto para parejas que quieren una perfilada ágil y estrecha
     ],
     analisisSlug: "knaus-van-ti-640-meg-vansation-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base VW Crafter: revisión cada 2 años o 50.000 km (LongLife, según plan del fabricante)",
+      intervalo: "Base VW Crafter: 2 años / 50.000 km (LongLife, según plan del fabricante)",
       revisiones: [
         { nombre: "Revisión base (VW Crafter)", queSeCambia: "Aceite LongLife + filtros + inspección general", costeAproxEur: 380 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

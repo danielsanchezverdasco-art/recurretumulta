@@ -91,7 +91,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     analisisSlug: "dethleffs-alpa-i-7820-2-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato Maxi: revisión cada 2 años o 40.000 km (según plan Fiat); célula: control anual de estanqueidad",
+        "Base Fiat Ducato Maxi: 2 años / 40.000 km (según plan Fiat); célula: control anual de estanqueidad",
       revisiones: [
         {
           nombre: "Revisión base Fiat Ducato Maxi (2 años / 40.000 km)",
@@ -232,7 +232,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     analisisSlug: "dethleffs-globetrail-600-dr-performance-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "VW Crafter 2.0 TDI: revisión cada 2 años o 40.000 km (según plan Volkswagen)",
+        "VW Crafter 2.0 TDI: 2 años / 40.000 km (según plan Volkswagen)",
       revisiones: [
         {
           nombre: "Revisión VW Crafter (2 años / 40.000 km)",

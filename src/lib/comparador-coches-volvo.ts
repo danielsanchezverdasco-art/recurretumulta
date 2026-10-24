@@ -1279,7 +1279,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 145,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 17 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 17 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1360,7 +1360,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 147,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 18 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 18 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1441,7 +1441,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 252,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 7 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 7 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1522,7 +1522,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 288,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 8 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 8 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1591,7 +1591,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 220,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1672,7 +1672,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 298,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 8,5 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 8,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1753,7 +1753,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 256,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 7,2 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 7,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1822,7 +1822,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 220,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1903,7 +1903,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 264,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 7,6 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 7,6 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1984,7 +1984,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
       "costeMensualTotal": 277,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 7,4 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 7,4 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [

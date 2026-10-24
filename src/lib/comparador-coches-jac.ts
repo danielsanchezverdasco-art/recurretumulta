@@ -66,7 +66,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 117,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 15,5 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 15,5 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -139,7 +139,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 250,
       notas:
-        "Estimación con 15.000 km/año, consumo declarado de 7,6 l/100 km (NEDC, Australia) y gasóleo a 1,55 €/l.",
+        "15.000 km/año, consumo declarado de 7,6 l/100 km (NEDC, Australia) y gasóleo a 1,55 €/l.",
       estimado: true,
     },
     galeria: [
@@ -170,7 +170,7 @@ export const COCHES_JAC: CocheComparador[] = [
       nota: "Sin prueba EuroNCAP; 5 estrellas ANCAP 2024 (protocolos 2023-25)",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -242,7 +242,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 154,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 24 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 24 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -311,7 +311,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 204,
       notas:
-        "Estimación con 15.000 km/año: 2,6 l/100 km en prueba real (Auckland-Whangarei, Auto Trader NZ) más recarga doméstica.",
+        "15.000 km/año: 2,6 l/100 km en prueba real (Auckland-Whangarei, Auto Trader NZ) más recarga doméstica.",
       estimado: true,
     },
     galeria: [
@@ -414,7 +414,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 145,
       notas:
-        "Estimación con 15.000 km/año y coste energético medio estimado de 4,50 €/100 km cargando a diario en casa.",
+        "15.000 km/año y coste energético medio estimado de 4,50 €/100 km cargando a diario en casa.",
       estimado: true,
     },
     galeria: [
@@ -482,7 +482,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8,5 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -538,7 +538,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 248,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo declarado de 7,9 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo declarado de 7,9 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -630,7 +630,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 167,
       notas:
-        "Estimación con 15.000 km/año y coste energético medio estimado de 5 €/100 km cargando a diario en casa.",
+        "15.000 km/año y coste energético medio estimado de 5 €/100 km cargando a diario en casa.",
       estimado: true,
     },
     galeria: [
@@ -723,7 +723,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 124,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 16 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 16 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -801,7 +801,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 245,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 8 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -869,7 +869,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 235,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 7,5 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo estimado de 7,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -937,7 +937,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 15,5 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 15,5 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1015,7 +1015,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 267,
       notas:
-        "Estimación con 15.000 km/año, gasóleo a 1,55 €/l y consumo mixto declarado de 8,5 l/100 km.",
+        "15.000 km/año, gasóleo a 1,55 €/l y consumo mixto declarado de 8,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1098,7 +1098,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 226,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo mixto declarado de 7,5 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo mixto declarado de 7,5 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1164,7 +1164,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 228,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo medio declarado de 7 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo medio declarado de 7 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1242,7 +1242,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 98,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo estimado de 12 kWh/100 km.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y consumo estimado de 12 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -1308,7 +1308,7 @@ export const COCHES_JAC: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 238,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y consumo WLTC declarado de 7,6 l/100 km.",
+        "15.000 km/año, gasolina a 1,58 €/l y consumo WLTC declarado de 7,6 l/100 km.",
       estimado: true,
     },
     galeria: [

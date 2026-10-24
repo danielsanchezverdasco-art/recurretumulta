@@ -75,7 +75,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 460,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 13,2 l/100 km (SL 63 4MATIC+).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 13,2 l/100 km (SL 63 4MATIC+).",
       estimado: true,
     },
     galeria: [
@@ -106,7 +106,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el SL nunca ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -169,7 +169,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo WLTP de 15,9 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo WLTP de 15,9 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -247,7 +247,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 139,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo WLTP de 16,4 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo WLTP de 16,4 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -337,7 +337,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       mantenimientoAnual: 460,
       costeMensualTotal: 228,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 5,5 l/100 km (2.0 TDI 200 CV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 5,5 l/100 km (2.0 TDI 200 CV).",
       estimado: true,
     },
     galeria: [
@@ -368,7 +368,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2017.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (LongLife)",
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
@@ -448,7 +448,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       mantenimientoAnual: 460,
       costeMensualTotal: 214,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 5,2 l/100 km (2.0 TDI 122 CV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 5,2 l/100 km (2.0 TDI 122 CV).",
       estimado: true,
     },
     galeria: [
@@ -479,7 +479,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2015.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (LongLife)",
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
@@ -556,7 +556,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 194,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 4,3 l/100 km (120d 163 CV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 4,3 l/100 km (120d 163 CV).",
       estimado: true,
     },
     galeria: [
@@ -664,7 +664,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 218,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 5,2 l/100 km (220 MHEV 170 CV).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 5,2 l/100 km (220 MHEV 170 CV).",
       estimado: true,
     },
     galeria: [
@@ -772,7 +772,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 213,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 4,9 l/100 km (320d 190 CV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 4,9 l/100 km (320d 190 CV).",
       estimado: true,
     },
     galeria: [
@@ -883,7 +883,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 251,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 6,3 l/100 km (420i).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 6,3 l/100 km (420i).",
       estimado: true,
     },
     galeria: [
@@ -989,7 +989,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 241,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 5,7 l/100 km (xDrive20d).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 5,7 l/100 km (xDrive20d).",
       estimado: true,
     },
     galeria: [
@@ -1095,7 +1095,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 262,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 7,1 l/100 km (45 TFSI).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 7,1 l/100 km (45 TFSI).",
       estimado: true,
     },
     galeria: [
@@ -1126,7 +1126,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       nota: "4 estrellas EuroNCAP en la prueba de 2015.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (LongLife)",
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
@@ -1201,7 +1201,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 458,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 12,9 l/100 km (V10 performance).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 12,9 l/100 km (V10 performance).",
       estimado: true,
     },
     galeria: [
@@ -1232,7 +1232,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el R8 nunca ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -1307,7 +1307,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 421,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 12,1 l/100 km (RS 7 performance).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 12,1 l/100 km (RS 7 performance).",
       estimado: true,
     },
     galeria: [
@@ -1338,7 +1338,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2018, válida para la gama A7 Sportback.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (LongLife), lo que ocurra antes",
+      intervalo: "24 meses o 30.000 km (LongLife)",
       revisiones: [
         {
           nombre: "Inspección + aceite y filtros",
@@ -1416,7 +1416,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 308,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 8,5 l/100 km (A 35 4MATIC).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 8,5 l/100 km (A 35 4MATIC).",
       estimado: true,
     },
     galeria: [
@@ -1447,7 +1447,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2018, válida para la gama Clase A (W177).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1522,7 +1522,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 333,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 9,0 l/100 km (A 45 S 4MATIC+).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 9,0 l/100 km (A 45 S 4MATIC+).",
       estimado: true,
     },
     galeria: [
@@ -1553,7 +1553,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2018, válida para la gama Clase A (W177).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1628,7 +1628,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       mantenimientoAnual: 480,
       costeMensualTotal: 327,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 8,7 l/100 km (C 43 4MATIC).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 8,7 l/100 km (C 43 4MATIC).",
       estimado: true,
     },
     galeria: [
@@ -1659,7 +1659,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama Clase C (W206).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1734,7 +1734,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 317,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 7,3 l/100 km (C 63 S E Performance).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 7,3 l/100 km (C 63 S E Performance).",
       estimado: true,
     },
     galeria: [
@@ -1765,7 +1765,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2022, válida para la gama Clase C (W206).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1840,7 +1840,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 500,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 14,8 l/100 km (G 63).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 14,8 l/100 km (G 63).",
       estimado: true,
     },
     galeria: [
@@ -1871,7 +1871,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2019, válida para la gama Clase G.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -1951,7 +1951,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 2000,
       costeMensualTotal: 841,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 8,7 l/100 km. Mantenimiento específico AMG One.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 8,7 l/100 km. Mantenimiento específico AMG One.",
       estimado: true,
     },
     galeria: [
@@ -2052,7 +2052,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 377,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 10,1 l/100 km (GLS 450 4MATIC).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 10,1 l/100 km (GLS 450 4MATIC).",
       estimado: true,
     },
     galeria: [
@@ -2083,7 +2083,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLS no ha sido probado (el GLE de 2019 logró 5 estrellas).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A y B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 25.000 km (Service A y B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -2146,7 +2146,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 189,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo WLTP de 22 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo WLTP de 22 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -2176,7 +2176,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       url: null,
       nota: "5 estrellas EuroNCAP en la prueba de 2018.",
     },
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Calendario verificado el 22/10/2026: la ficha del EV400 en la red Jaguar Approved (Lloyd Motor Group) declara un intervalo de servicio de 21.000 millas y la guía de mantenimiento de eléctricos Jaguar de RCV lo expresa como una revisión cada 2 años o 21.000 millas, con hito adicional a las 63.000 millas o seis años. Jaguar no publica en abierto una tarifa en euros para España, por lo que los costes quedan sin dato.", "intervalo": "Cada 2 años o 34.000 km (21.000 millas), lo que ocurra antes, según el calendario oficial del I-PACE eléctrico", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal o a los 34.000 km", "queSeCambia": "Inspección completa con diagnóstico electrónico, control de la batería de tracción de 90 kWh y de ambos motores, sustitución del filtro del habitáculo, renovación del líquido de frenos, revisión de frenos, suspensión y neumáticos, y actualización de software"}, {"costeAproxEur": null, "nombre": "Revisión mayor a los 6 años o 63.000 millas (unos 101.000 km)", "queSeCambia": "El contenido de la revisión bienal más los controles ampliados que el calendario del modelo concentra hacia los seis años, incluida la comprobación del circuito de refrigeración de la batería y de los módulos de potencia y carga"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Calendario verificado el 22/10/2026: la ficha del EV400 en la red Jaguar Approved (Lloyd Motor Group) declara un intervalo de servicio de 21.000 millas y la guía de mantenimiento de eléctricos Jaguar de RCV lo expresa como una revisión cada 2 años o 21.000 millas, con hito adicional a las 63.000 millas o seis años. Jaguar no publica en abierto una tarifa en euros para España, por lo que los costes quedan sin dato.", "intervalo": "Cada 2 años o 34.000 km (21.000 millas), según el calendario oficial del I-PACE eléctrico", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada bienal o a los 34.000 km", "queSeCambia": "Inspección completa con diagnóstico electrónico, control de la batería de tracción de 90 kWh y de ambos motores, sustitución del filtro del habitáculo, renovación del líquido de frenos, revisión de frenos, suspensión y neumáticos, y actualización de software"}, {"costeAproxEur": null, "nombre": "Revisión mayor a los 6 años o 63.000 millas (unos 101.000 km)", "queSeCambia": "El contenido de la revisión bienal más los controles ampliados que el calendario del modelo concentra hacia los seis años, incluida la comprobación del circuito de refrigeración de la batería y de los módulos de potencia y carga"}]},
   },
   {
     id: "jaguar-f-pace-2025-precio-ficha-tecnica",
@@ -2236,7 +2236,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 283,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 7,4 l/100 km (D300 MHEV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 7,4 l/100 km (D300 MHEV).",
       estimado: true,
     },
     galeria: [
@@ -2267,7 +2267,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2017.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 34.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 34.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 34.000 km",
@@ -2337,7 +2337,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 251,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo. Consumo WLTP de 6,4 l/100 km (D200 MHEV).",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 6,4 l/100 km (D200 MHEV).",
       estimado: true,
     },
     galeria: [
@@ -2368,7 +2368,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2017.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 34.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 34.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 34.000 km",
@@ -2438,7 +2438,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 376,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 10,9 l/100 km (V8 450 AWD).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 10,9 l/100 km (V8 450 AWD).",
       estimado: true,
     },
     galeria: [
@@ -2469,7 +2469,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el F-Type nunca ha sido probado por Euro NCAP.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 34.000 km, lo que ocurra antes",
+      intervalo: "24 meses o 34.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 34.000 km",
@@ -2539,7 +2539,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       mantenimientoAnual: 230,
       costeMensualTotal: 184,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo WLTP de 5,0 l/100 km (1.0 MHEV 125 CV).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo WLTP de 5,0 l/100 km (1.0 MHEV 125 CV).",
       estimado: true,
     },
     galeria: [
@@ -2570,7 +2570,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2017.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",

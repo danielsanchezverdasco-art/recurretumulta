@@ -899,7 +899,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-g-310-gs-2025",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones y programa de mantenimiento BMW G 310 GS; guía de mantenimiento G 310 GS de europe-moto.com (aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km)", "intervalo": "Cada año o cada 10.000 km, lo que ocurra antes; control de rodaje inicial entre 500 y 1.200 km", "revisiones": [{"costeAproxEur": null, "nombre": "Control de rodaje (500-1.200 km)", "queSeCambia": "Primera revisión BMW Motorrad tras el rodaje, con las comprobaciones del programa de mantenimiento del manual de la G 310 GS"}, {"costeAproxEur": null, "nombre": "Revisión anual / 10.000 km", "queSeCambia": "Cambio de aceite de motor y de filtro de aceite, revisión del filtro de aire, comprobación de cadena, frenos, refrigerante y diagnóstico con el sistema BMW Motorrad"}, {"costeAproxEur": null, "nombre": "Revisión de 20.000 km", "queSeCambia": "Servicio anual o de 10.000 km más sustitución del filtro de aire y revisión de la bujía; el líquido de frenos se cambia al primer año y después cada dos años según el programa del manual"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de instrucciones y programa de mantenimiento BMW G 310 GS; guía de mantenimiento G 310 GS de europe-moto.com (aceite y filtro cada 10.000 km, filtro de aire cada 20.000 km)", "intervalo": "Cada año o cada 10.000 km; control de rodaje inicial entre 500 y 1.200 km", "revisiones": [{"costeAproxEur": null, "nombre": "Control de rodaje (500-1.200 km)", "queSeCambia": "Primera revisión BMW Motorrad tras el rodaje, con las comprobaciones del programa de mantenimiento del manual de la G 310 GS"}, {"costeAproxEur": null, "nombre": "Revisión anual / 10.000 km", "queSeCambia": "Cambio de aceite de motor y de filtro de aceite, revisión del filtro de aire, comprobación de cadena, frenos, refrigerante y diagnóstico con el sistema BMW Motorrad"}, {"costeAproxEur": null, "nombre": "Revisión de 20.000 km", "queSeCambia": "Servicio anual o de 10.000 km más sustitución del filtro de aire y revisión de la bujía; el líquido de frenos se cambia al primer año y después cada dos años según el programa del manual"}]},
   },
   {
     id: "bmw-g-310-r-2025",
@@ -940,7 +940,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: "bmw-g-310-r-2025",
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario BMW G 310 R (BMW Motorrad, manuals.bmw-motorrad.com): rodaje 500-1.200 km y servicio anual o cada 10.000 km", "intervalo": "Revisión de rodaje entre 500 y 1.200 km; después, servicio anual o cada 10.000 km, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (500-1.200 km)", "queSeCambia": "Revisión de rodaje BMW con cambio de aceite de motor incluido, según el manual del propietario de la G 310 R"}, {"costeAproxEur": null, "nombre": "Servicio BMW (anual o 10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro dentro del servicio estándar BMW; el plan del manual incluye además la comprobación del juego de válvulas entre sus operaciones de mantenimiento"}, {"costeAproxEur": null, "nombre": "Líquido de frenos (primer año y después cada 2 años)", "queSeCambia": "Cambio del líquido de frenos de todo el sistema, con la cadencia que marca el plan de mantenimiento del manual de la G 310 R"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario BMW G 310 R (BMW Motorrad, manuals.bmw-motorrad.com): rodaje 500-1.200 km y servicio anual o cada 10.000 km", "intervalo": "Revisión de rodaje entre 500 y 1.200 km; después, servicio anual o cada 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (500-1.200 km)", "queSeCambia": "Revisión de rodaje BMW con cambio de aceite de motor incluido, según el manual del propietario de la G 310 R"}, {"costeAproxEur": null, "nombre": "Servicio BMW (anual o 10.000 km)", "queSeCambia": "Cambio de aceite de motor con filtro dentro del servicio estándar BMW; el plan del manual incluye además la comprobación del juego de válvulas entre sus operaciones de mantenimiento"}, {"costeAproxEur": null, "nombre": "Líquido de frenos (primer año y después cada 2 años)", "queSeCambia": "Cambio del líquido de frenos de todo el sistema, con la cadencia que marca el plan de mantenimiento del manual de la G 310 R"}]},
   },
   {
     id: "bmw-m-1000-rr-2026",
@@ -1151,7 +1151,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/can-am-origin-2026-ficha-tecnica-precio-2.webp", alt: "Can-Am Origin 2026, detalle", ancho: 661, alto: 495 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Según la ficha oficial BRP de la Origin, su guardacadena cerrado protege la cadena silenciosa y un tensor automático mantiene la tensión sin ajustes periódicos; al ser eléctrica no hay aceite de motor que cambiar y la revisión se centra en frenos, neumáticos con cámara y estado de la batería.", "intervalo": "12 meses o 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería"}]},
   },
   // ── CAN-AM PULSE 2026 ─────────────────────────────
   {
@@ -1189,7 +1189,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
       ],
@@ -1232,7 +1232,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-300nk-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 300NK 2026, detalle", ancho: 1600, alto: 1120 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Mantenimiento orientativo para la CFMOTO 300NK 2026; sin coste publicado por ausencia de tarifa oficial localizada para este modelo en España", "intervalo": "12 meses o 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo aplicado a esta naked de 292 cc: primera comprobación tras el rodaje y después revisiones periódicas con cambio de aceite y filtro, control de cadena, frenos con ABS y horquilla invertida; pendiente de contrastar con el manual español de la 300NK"}]},
   },
   // ── CFMOTO 300SR 2026 ─────────────────────────────
   {
@@ -1269,7 +1269,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-300sr-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 300SR 2026, detalle", ancho: 500, alto: 500 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario CFMoto 300SR en castellano, tablas de mantenimiento en rodaje (1.000 km) y periódico: aceite y filtro 6 meses/5.000 km, bujía cambio a 10.000 km, filtro de aire cambio a 20.000 km/24 meses, refrigerante 35.000 km/24 meses y holgura de válvulas a 40.000 km", "intervalo": "Rodaje a los 1.000 km y después aceite de motor y filtro cada 6 meses o 5.000 km, lo que ocurra antes, según el manual de usuario de la 300SR", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje a los 1.000 km", "queSeCambia": "Cambio de aceite de motor y filtro, limpieza del colador de aceite y revisión de refrigerante, ralentí, frenos, batería y funciones eléctricas según la tabla de rodaje del manual"}, {"costeAproxEur": null, "nombre": "Revisión periódica cada 5.000 km o 6 meses", "queSeCambia": "Cambio de aceite y filtro, limpieza del colador, limpieza del filtro de aire, revisión de bujía, embrague, sistema de aceleración, batería y fusibles según la tabla periódica del manual"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km", "queSeCambia": "Cambio de bujía, revisión de ralentí, partes eléctricas y cables a los 12 meses o 10.000 km, y controles de neumáticos, frenos y suspensión previstos en el manual"}, {"costeAproxEur": null, "nombre": "Intervenciones largas del manual", "queSeCambia": "Cambio del filtro de aire a los 20.000 km o 24 meses, cambio de refrigerante a los 35.000 km o 24 meses y revisión de la holgura de válvulas a los 40.000 km, sin coste publicado para España"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario CFMoto 300SR en castellano, tablas de mantenimiento en rodaje (1.000 km) y periódico: aceite y filtro 6 meses/5.000 km, bujía cambio a 10.000 km, filtro de aire cambio a 20.000 km/24 meses, refrigerante 35.000 km/24 meses y holgura de válvulas a 40.000 km", "intervalo": "Rodaje a los 1.000 km y después aceite de motor y filtro cada 6 meses o 5.000 km, según el manual de usuario de la 300SR", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje a los 1.000 km", "queSeCambia": "Cambio de aceite de motor y filtro, limpieza del colador de aceite y revisión de refrigerante, ralentí, frenos, batería y funciones eléctricas según la tabla de rodaje del manual"}, {"costeAproxEur": null, "nombre": "Revisión periódica cada 5.000 km o 6 meses", "queSeCambia": "Cambio de aceite y filtro, limpieza del colador, limpieza del filtro de aire, revisión de bujía, embrague, sistema de aceleración, batería y fusibles según la tabla periódica del manual"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km", "queSeCambia": "Cambio de bujía, revisión de ralentí, partes eléctricas y cables a los 12 meses o 10.000 km, y controles de neumáticos, frenos y suspensión previstos en el manual"}, {"costeAproxEur": null, "nombre": "Intervenciones largas del manual", "queSeCambia": "Cambio del filtro de aire a los 20.000 km o 24 meses, cambio de refrigerante a los 35.000 km o 24 meses y revisión de la holgura de válvulas a los 40.000 km, sin coste publicado para España"}]},
   },
   // ── CFMOTO 650NK 2025 ─────────────────────────────
   {
@@ -1306,7 +1306,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-650nk-2025-ficha-tecnica-precio-2.webp", alt: "CFMoto 650NK 2025, detalle", ancho: 1110, alto: 770 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025", "intervalo": "12 meses o 10.000 km (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario 400NK/650NK consultado en Scribd para la especificación de aceite y los datos del motor (45 kW a 8.750 rpm y 56 Nm a 7.000 rpm); el intervalo se mantiene tal como estaba en la ficha y su coste no se ha podido contrastar en una fuente oficial de CFMoto España para la 650NK 2025", "intervalo": "12 meses o 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual", "queSeCambia": "Plan orientativo, no la tabla oficial de la 650NK: comprobaciones propias de su bicilíndrico de 649,3 cc con refrigeración líquida, aceite 10W-40 de especificación JASO MA2 según su manual compartido con la 400NK, cadena de transmisión, frenos J.Juan y niveles, pendientes de confirmación con el manual español del modelo"}]},
   },
   // ── CFMOTO 675SR-R 2026 ─────────────────────────────
   {
@@ -1343,7 +1343,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/cfmoto-675sr-r-2026-ficha-tecnica-precio-2.webp", alt: "CFMoto 675SR-R 2026, detalle", ancho: 1600, alto: 973 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R de maintenanceschedule.com (intervalo base 10.000 km o 12 meses, rodaje a los 1.000 km y holgura de válvulas a los 40.000 km). Sin costes: ninguna fuente consultada publica un precio de revisión para España.", "intervalo": "Revisión de rodaje a los 1.000 km y después cada 10.000 km o 12 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (1.000 km)", "queSeCambia": "Cambio de aceite de motor y filtro de aceite; inspección de refrigerante, sistema de acelerador, componentes eléctricos, batería, fusibles, discos y pastillas de freno, nivel de líquido de frenos, latiguillos, presión y estado de neumáticos y suspensiones"}, {"costeAproxEur": null, "nombre": "Revisión periódica (cada 10.000 km o 12 meses)", "queSeCambia": "Mantenimiento programado según la tabla específica de la 675SR-R; sin coste publicado en la fuente consultada"}, {"costeAproxEur": null, "nombre": "Revisión de holgura de válvulas (40.000 km)", "queSeCambia": "Inspección de la holgura de válvulas del tricilíndrico; el acceso exige desmontar carenado y depósito, según la guía de mantenimiento del modelo"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario de la CFMoto 675SR (cfmotoitaly.it, tabla de rodaje: aceite y filtro a los 1.000 km) y guía de mantenimiento específica de la 675SR-R de maintenanceschedule.com (intervalo base 10.000 km o 12 meses, rodaje a los 1.000 km y holgura de válvulas a los 40.000 km). Sin costes: ninguna fuente consultada publica un precio de revisión para España.", "intervalo": "Revisión de rodaje a los 1.000 km y después cada 10.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de rodaje (1.000 km)", "queSeCambia": "Cambio de aceite de motor y filtro de aceite; inspección de refrigerante, sistema de acelerador, componentes eléctricos, batería, fusibles, discos y pastillas de freno, nivel de líquido de frenos, latiguillos, presión y estado de neumáticos y suspensiones"}, {"costeAproxEur": null, "nombre": "Revisión periódica (cada 10.000 km o 12 meses)", "queSeCambia": "Mantenimiento programado según la tabla específica de la 675SR-R; sin coste publicado en la fuente consultada"}, {"costeAproxEur": null, "nombre": "Revisión de holgura de válvulas (40.000 km)", "queSeCambia": "Inspección de la holgura de válvulas del tricilíndrico; el acceso exige desmontar carenado y depósito, según la guía de mantenimiento del modelo"}]},
   },
   // ── CFMOTO 800MT EXPLORE 2026 ─────────────────────────────
   {
@@ -1381,7 +1381,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar gama CFMoto / 450MT, misma marca): control de rodaje a los 1.000 km y después cada 6 meses o…", costeAproxEur: null },
       ],
@@ -1425,7 +1425,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Multistrada V2 / DesertX / Hypermotard 698, misma marca): Oil Service cada 15.000 km y Desmo…", costeAproxEur: null },
       ],
@@ -1580,7 +1580,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
       ],
@@ -1623,7 +1623,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/ducati-panigale-v4-s-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Panigale V4 S 2026, detalle", ancho: 1600, alto: 902 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses", "intervalo": "12.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión 1.000 km", "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"}, {"costeAproxEur": null, "nombre": "Oil Service cada 12.000 km", "queSeCambia": "Cambio de aceite de motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"}, {"costeAproxEur": null, "nombre": "Desmo Service cada 24.000 km", "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"}, {"costeAproxEur": null, "nombre": "Revisión anual cada 12 meses", "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual de usuario Ducati Panigale V4 (2024) y mantenimiento oficial Ducati: Oil Service cada 12.000 km, Desmo Service cada 24.000 km y servicio anual cada 12 meses", "intervalo": "12.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión 1.000 km", "queSeCambia": "Control inicial tras el rodaje: dispositivos eléctricos de seguridad, iluminación, controles, nivel de refrigerante y prueba en carretera, con registro del cupón de servicio"}, {"costeAproxEur": null, "nombre": "Oil Service cada 12.000 km", "queSeCambia": "Cambio de aceite de motor y sustitución del filtro de aceite en el Desmosedici Stradale de 1.103 cc"}, {"costeAproxEur": null, "nombre": "Desmo Service cada 24.000 km", "queSeCambia": "Comprobación y ajuste del juego de válvulas desmodrómicas de las 16 válvulas del V4 a 90º"}, {"costeAproxEur": null, "nombre": "Revisión anual cada 12 meses", "queSeCambia": "Revisión por tiempo aunque no se alcancen los 12.000 km: controles generales, frenos, cadena y actualización de vencimientos en el cuadro"}]},
   },
   // ── DUCATI SCRAMBLER 800 FULL THROTTLE 2026 ─────────────────────────────
   {
@@ -1660,7 +1660,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
       { src: "/media/ducati-scrambler-800-full-throttle-2026-ficha-tecnica-precio-2.webp", alt: "Ducati Scrambler 800 Full Throttle 2026, detalle", ancho: 800, alto: 600 },
     ],
     mantenimientoDIY: null,
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km; sin costes publicados, por eso costeAproxEur queda a null", "intervalo": "12.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Oil Service", "queSeCambia": "Aceite y filtro del bicilíndrico desmodrómico de 803 cc cada 12.000 km o al año, con primera revisión a los 1.000 km, según el programa de mantenimiento de Ducati para la Scrambler"}, {"costeAproxEur": null, "nombre": "Desmo Service", "queSeCambia": "A los 24.000 km: comprobación y ajuste del juego de válvulas de la distribución desmodrómica y sustitución de las correas de distribución, operación específica de este motor de dos válvulas por cilindro"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Ducati, página oficial de mantenimiento (ducati.com/es/es/servicio-de-mantenimiento/mantenimiento): Oil Service espaciado a 12.000 km y Desmo Service a 24.000 km; sin costes publicados, por eso costeAproxEur queda a null", "intervalo": "12.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Oil Service", "queSeCambia": "Aceite y filtro del bicilíndrico desmodrómico de 803 cc cada 12.000 km o al año, con primera revisión a los 1.000 km, según el programa de mantenimiento de Ducati para la Scrambler"}, {"costeAproxEur": null, "nombre": "Desmo Service", "queSeCambia": "A los 24.000 km: comprobación y ajuste del juego de válvulas de la distribución desmodrómica y sustitución de las correas de distribución, operación específica de este motor de dos válvulas por cilindro"}]},
   },
   // ── DUCATI SCRAMBLER ICON 2026 ─────────────────────────────
   {
@@ -1698,7 +1698,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
       ],
@@ -1742,7 +1742,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Scrambler 800 / Panigale V4, misma marca): Oil Service cada 12.000 km y Desmo Service cada 24.000…", costeAproxEur: null },
       ],
@@ -1786,7 +1786,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
       ],
@@ -1830,7 +1830,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Inspección general + pastillas de freno + neumáticos + diagnóstico de batería", costeAproxEur: null },
       ],
@@ -1874,7 +1874,7 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     ],
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         { nombre: "Revisión anual", queSeCambia: "Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control de nivel de aceite cada 1.000 km, cambio de aceite anual,…", costeAproxEur: null },
       ],

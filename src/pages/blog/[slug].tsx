@@ -693,13 +693,6 @@ function BlogPostPage() {
         </div>
 
         <div className="max-w-3xl mx-auto px-4 py-8 space-y-8">
-          {/* (24/10 unicidad) CTA del analizador: botón corto, sin frase de plantilla */}
-          <aside aria-label="Analizador de multas">
-            <Link to="/#analizador" className="inline-flex items-center gap-2 rounded-xl bg-red-600 px-4 py-2.5 text-sm font-black text-white hover:bg-red-700">
-              <Sparkles className="w-4 h-4" /> Analizar mi multa
-            </Link>
-          </aside>
-
           {/* Ficha del modelo primero: la atracción fuerte, antes de la historia */}
           {cocheDestacado && (
             <div className="mb-6">
@@ -776,12 +769,6 @@ function BlogPostPage() {
             </Suspense>
           )}
 
-          <aside aria-label="Analizador de multas" className="text-center">
-            <Link to="/#analizador" className="inline-flex items-center gap-2 rounded-xl bg-red-600 px-5 py-3 font-black text-white hover:bg-red-700">
-              <Sparkles className="w-4 h-4" /> Analizar mi multa
-            </Link>
-          </aside>
-
           {/* Newsletter semanal: solo en artículos de motor */}
           {post.category === "Novedades Motor" && (
             <NewsletterSignup origen="articulo-motor" compact />
@@ -849,9 +836,18 @@ function BlogPostPage() {
 
           <AdBanner slotId={AD_SLOTS.horizontal} format="horizontal" className="rounded-xl overflow-hidden" />
 
+        </div>
+      </main>
+      {/* (24/10 unicidad) CTA, relacionados y pie fuera de <main> */}
+      <div className="max-w-3xl mx-auto px-4 pb-8 space-y-8">
+          <aside aria-label="Analizador de multas" className="text-center">
+            <Link to="/#analizador" className="inline-flex items-center gap-2 rounded-xl bg-red-600 px-5 py-3 font-black text-white hover:bg-red-700">
+              <Sparkles className="w-4 h-4" /> Analizar mi multa
+            </Link>
+          </aside>
           {/* Related posts */}
           {related.length > 0 && (
-            <div className="space-y-4">
+            <nav aria-label="Artículos relacionados" className="space-y-4">
               <p className="text-xs font-bold uppercase tracking-widest text-gray-400">Artículos relacionados</p>
               <div className="space-y-3">
                 {related.map((rp) => (
@@ -868,13 +864,12 @@ function BlogPostPage() {
                   </Link>
                 ))}
               </div>
-            </div>
+            </nav>
           )}
 
           {/* Footer */}
           <SharedFooter editorial={false} />
-        </div>
-      </main>
+      </div>
     </div>
   );
 }

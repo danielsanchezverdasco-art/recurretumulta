@@ -123,7 +123,7 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
     analisisSlug: "burstner-ixeo-it-680-g-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 48.000 km (lo que antes ocurra, según plan Fiat)",
+        "Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat Ducato)",
@@ -239,7 +239,7 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
     analisisSlug: "burstner-elegance-i-920-g-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato / Mercedes Sprinter: revisión cada 2 años o 48.000 km (según plan del fabricante de la base)",
+        "Base Fiat Ducato / Mercedes Sprinter: 2 años / 48.000 km (según plan del fabricante de la base)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat/Mercedes)",

@@ -263,7 +263,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       nota: "5 estrellas con el paquete de seguridad opcional (Safety Pack); 4 estrellas de serie",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Inspección anual / 15.000 km",
@@ -413,7 +413,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "ano": 2020,
       "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
     },
-    "planMantenimiento": {"fuente": "Programa de mantenimiento oficial CUPRA León y manual de instrucciones CUPRA León (servicio fijo QI4)", "intervalo": "15.000 km o 12 meses, lo que ocurra antes (servicio fijo QI4); el indicador de intervalos del cuadro avisa del vencimiento", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de aceite e inspección cada 15.000 km o 12 meses", "queSeCambia": "Aceite de motor y filtro de aceite, con inspección general del vehículo y puesta a cero del indicador de servicio"}, {"costeAproxEur": null, "nombre": "Cada 2 años o 20.000 km", "queSeCambia": "Filtro de polvo y polen del habitáculo"}, {"costeAproxEur": null, "nombre": "Cada 2 años o 30.000 km", "queSeCambia": "Filtro de aire del motor y limpieza de su carcasa"}, {"costeAproxEur": null, "nombre": "Líquido de frenos: primera sustitución a los 3 años y después cada 2 años", "queSeCambia": "Líquido de frenos nuevo según la especificación indicada por la marca"}, {"costeAproxEur": null, "nombre": "Cada 4 años o 40.000 km", "queSeCambia": "Bujías de encendido del motor de gasolina"}, {"costeAproxEur": null, "nombre": "Cada 60.000 km, cambio DSG de 6 marchas del e-Hybrid", "queSeCambia": "Aceite y filtro del cambio de doble embrague"}]},
+    "planMantenimiento": {"fuente": "Programa de mantenimiento oficial CUPRA León y manual de instrucciones CUPRA León (servicio fijo QI4)", "intervalo": "15.000 km o 12 meses (servicio fijo QI4); el indicador de intervalos del cuadro avisa del vencimiento", "revisiones": [{"costeAproxEur": null, "nombre": "Servicio de aceite e inspección cada 15.000 km o 12 meses", "queSeCambia": "Aceite de motor y filtro de aceite, con inspección general del vehículo y puesta a cero del indicador de servicio"}, {"costeAproxEur": null, "nombre": "Cada 2 años o 20.000 km", "queSeCambia": "Filtro de polvo y polen del habitáculo"}, {"costeAproxEur": null, "nombre": "Cada 2 años o 30.000 km", "queSeCambia": "Filtro de aire del motor y limpieza de su carcasa"}, {"costeAproxEur": null, "nombre": "Líquido de frenos: primera sustitución a los 3 años y después cada 2 años", "queSeCambia": "Líquido de frenos nuevo según la especificación indicada por la marca"}, {"costeAproxEur": null, "nombre": "Cada 4 años o 40.000 km", "queSeCambia": "Bujías de encendido del motor de gasolina"}, {"costeAproxEur": null, "nombre": "Cada 60.000 km, cambio DSG de 6 marchas del e-Hybrid", "queSeCambia": "Aceite y filtro del cambio de doble embrague"}]},
   },
   {
     id: "cupra-leon-vz-300-2025-precio-ficha-tecnica",
@@ -503,7 +503,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Revisión anual / 15.000 km",
@@ -610,7 +610,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       url: "https://www.seat-cupra-mediacenter.es/CUPRA-Brand/noticias/2025/cupra-leon-formentor-born-obtienen-calificacion-5-estrellas-euro-ncap-bajo-estrictas-normas-2025",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -712,7 +712,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Revisión anual / 15.000 km",
@@ -812,7 +812,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/it/results/cupra/leon/43180",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Revisión anual / 15.000 km",
@@ -966,7 +966,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "ano": 2021,
       "url": "https://www.euroncap.com/en/results/cupra/formentor/57957",
     },
-    "planMantenimiento": {"intervalo": "15.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión — 15.000 km o 12 meses", "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen sustituido, inspección general del vehículo y comprobación del sistema híbrido y del estado de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas — cada 15.000 km o 12 meses", "queSeCambia": "Repetición del servicio de cambio de aceite y filtro de aceite, renovación del filtro de polen cuando corresponda según inspección, revisión general del conjunto y verificación del sistema híbrido y de la batería de tracción"}]},
+    "planMantenimiento": {"intervalo": "15.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión — 15.000 km o 12 meses", "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen sustituido, inspección general del vehículo y comprobación del sistema híbrido y del estado de la batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas — cada 15.000 km o 12 meses", "queSeCambia": "Repetición del servicio de cambio de aceite y filtro de aceite, renovación del filtro de polen cuando corresponda según inspección, revisión general del conjunto y verificación del sistema híbrido y de la batería de tracción"}]},
   },
   {
     id: "cupra-formentor-vz-ehybrid-272-2025-precio-ficha-tecnica",
@@ -1123,7 +1123,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "url": "https://www.euroncap.com/en/results/cupra/formentor/57957",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Revisión anual / 15.000 km",
@@ -1277,7 +1277,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "ano": 2025,
       "url": "https://news.euroncap.com/safercars/choose-a-car/cupra-terramar---euro-ncap-2025-results---5-stars/s/1606b13e-5000-4dd7-b2cb-9ef9d2f3b868",
     },
-    "planMantenimiento": {"costeAnualAproxEur": null, "fuente": "https://www.cupraofficial.co/posventa/cupra-care", "intervalo": "15.000 km o 12 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión: 15.000 km o 1 año", "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen si corresponde por uso, revisión de frenos, niveles de fluidos, neumáticos, alumbrado y diagnóstico electrónico del sistema híbrido"}, {"costeAproxEur": null, "nombre": "Segunda revisión: 30.000 km o 2 años", "queSeCambia": "De nuevo aceite y filtro de aceite, sustitución de los filtros que el plan del fabricante asigne a este kilometraje, inspección de suspensión, dirección y batería, y comprobación de frenos y fluidos"}, {"costeAproxEur": null, "nombre": "Tercera revisión: 45.000 km o 3 años", "queSeCambia": "Repetición del servicio de aceite y filtro de aceite, revisión completa de frenos, suspensión y dirección, chequeo del sistema de alto voltaje y diagnóstico electrónico general del vehículo"}]},
+    "planMantenimiento": {"costeAnualAproxEur": null, "fuente": "https://www.cupraofficial.co/posventa/cupra-care", "intervalo": "15.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión: 15.000 km o 1 año", "queSeCambia": "Aceite del motor y filtro de aceite nuevos, filtro de polen si corresponde por uso, revisión de frenos, niveles de fluidos, neumáticos, alumbrado y diagnóstico electrónico del sistema híbrido"}, {"costeAproxEur": null, "nombre": "Segunda revisión: 30.000 km o 2 años", "queSeCambia": "De nuevo aceite y filtro de aceite, sustitución de los filtros que el plan del fabricante asigne a este kilometraje, inspección de suspensión, dirección y batería, y comprobación de frenos y fluidos"}, {"costeAproxEur": null, "nombre": "Tercera revisión: 45.000 km o 3 años", "queSeCambia": "Repetición del servicio de aceite y filtro de aceite, revisión completa de frenos, suspensión y dirección, chequeo del sistema de alto voltaje y diagnóstico electrónico general del vehículo"}]},
   },
   {
     id: "cupra-terramar-vz-ehybrid-272-2025-precio-ficha-tecnica",
@@ -1978,7 +1978,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "nota": "5 estrellas con el paquete de seguridad opcional (Safety Pack); 4 estrellas de serie",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Inspección anual / 15.000 km",
@@ -2079,7 +2079,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "nota": "5 estrellas con el paquete de seguridad opcional (Safety Pack); 4 estrellas de serie",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Inspección anual / 15.000 km",
@@ -2180,7 +2180,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
       "nota": "5 estrellas con el paquete de seguridad opcional (Safety Pack); 4 estrellas de serie",
     },
     "planMantenimiento": {
-      "intervalo": "15.000 km o 12 meses (lo que ocurra antes)",
+      "intervalo": "15.000 km o 12 meses",
       "revisiones": [
         {
           "nombre": "Inspección anual / 15.000 km",

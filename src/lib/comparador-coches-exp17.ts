@@ -66,7 +66,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 309,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -197,7 +197,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 289,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -273,7 +273,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 363,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -349,7 +349,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -373,7 +373,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la reevaluación del Golf 8 (2022).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -450,7 +450,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 278,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -526,7 +526,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -602,7 +602,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 270,
       costeMensualTotal: 198,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -626,7 +626,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "3 estrellas EuroNCAP en la reevaluación de 2025 con el protocolo actual; la prueba original de 2019 obtuvo 5 estrellas.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -703,7 +703,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 216,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -779,7 +779,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 257,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -803,7 +803,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2025.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -880,7 +880,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 221,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -956,7 +956,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 310,
       costeMensualTotal: 225,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1032,7 +1032,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 246,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1108,7 +1108,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 250,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1184,7 +1184,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 179,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [

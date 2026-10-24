@@ -66,7 +66,7 @@ Hasta **1.008 km en ciclo CLTC** en las versiones de tracción trasera (la prens
 ### ¿Cuánto cuesta el BYD Great Han?
 En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España porque no se vende en Europa.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 `,
 },
 {
@@ -133,7 +133,7 @@ El estreno mundial del **E-Space Concept**, el nuevo Megane E-Tech (LFP 67 kWh, 
 ### ¿Qué significa el LFP para los precios?
 Las baterías de litio-ferrofosfato son más baratas y duraderas que las NMC actuales. Masificarlas en Twingo, R5, Megane, Scenic y R4 es la vía de Renault para **bajar el precio de sus eléctricos** sin perder autonomía.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 `,
 },
 ];

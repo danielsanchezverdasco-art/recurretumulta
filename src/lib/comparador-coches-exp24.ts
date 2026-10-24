@@ -95,7 +95,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (plan de inspección Volkswagen para la gama ID)",
@@ -169,7 +169,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
@@ -231,7 +231,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -305,7 +305,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 12 meses o 15.000 km",
@@ -379,7 +379,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -441,7 +441,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -515,7 +515,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -589,7 +589,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -663,7 +663,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -721,7 +721,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "KhlD5oHhdqg",
     videoCanal: "King Panda",
     opiniones: [],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado. Su 93,9 % procede del C-NCAP chino (2024, sobre un M9 Max eléctrico); Aito declara aspirar a las cinco estrellas europeas cuando venda en Europa a partir de 2027"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP. Su 93,9 % procede del C-NCAP chino (2024, sobre un M9 Max eléctrico); Aito declara aspirar a las cinco estrellas europeas cuando venda en Europa a partir de 2027"},
     planMantenimiento: {"intervalo": "Sin plan oficial del M9 publicado en Europa; referencia del manual Aito del extensor H15RT: primera revisión a los 3 meses o 3.000 km de funcionamiento del generador, luego anual o cada 10.000 km de ese uso", "revisiones": [{"nombre": "Primera revisión del extensor (referencia H15RT)", "queSeCambia": "Aceite de grado SP o superior y filtro de aceite del generador 1.5, a los 3 meses o cuando el extensor acumule 3.000 km, lo primero que llegue", "costeAproxEur": null}, {"nombre": "Aceite y filtro del extensor (referencia H15RT)", "queSeCambia": "Sustitución cada año o cada 10.000 km de funcionamiento del generador; el filtro de aire se revisa y limpia en ese mismo ritmo y se cambia a los 2 años o 20.000 km de uso del extensor", "costeAproxEur": null}, {"nombre": "Bujías y refrigerante del extensor (referencia H15RT)", "queSeCambia": "Bujías al tercer año o tras acumular el generador 30.000 km de funcionamiento y refrigerante al cuarto año o a los 100.000 km recorridos; el líquido de frenos se renueva cada 3 años o 60.000 km", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual de usuario Aito (programa del M7, que comparte el extensor H15RT de 112 kW con este M9 de 2024), traducido del chino; sin costes en euros porque Aito no vende ni mantiene el M9 en Europa"},
   },
   {
@@ -771,7 +771,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Referencia orientativa sin respaldo de un manual europeo: Aito no publicó programa de mantenimiento para España de este modelo vendido solo en China desde el 20 de marzo de 2025; intervalos trasladados de la práctica habitual en EREV", "intervalo": "Sin calendario oficial para Europa de este M9 2025; como referencia orientativa, una revisión al año o al cumplir 15.000 km, lo primero que llegue", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión orientativa al año o a los 15.000 km", "queSeCambia": "Sustitución de aceite y filtro en el generador 1.5 turbo de 118 kW, filtro del habitáculo nuevo y chequeo de la batería NMC de 52 kWh, la suspensión neumática y el sistema de frenos"}]},
   },
@@ -822,7 +822,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -884,7 +884,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -946,7 +946,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -1008,7 +1008,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -1070,7 +1070,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado para Europa; orientativo 24 meses o 30.000 km (inspección)",
@@ -1185,7 +1185,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "FRbshaQX_kI",
     videoCanal: "Алихан Журтов",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",
       revisiones: [],
@@ -1236,7 +1236,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "yTGl8ggGCSw",
     videoCanal: "ZonaMotor con Jesús Fernández",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",
       revisiones: [],
@@ -1287,7 +1287,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "1PJgMDKPlRI",
     videoCanal: "Borderless Car",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",
       revisiones: [],
@@ -1338,7 +1338,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",
       revisiones: [],
@@ -1389,9 +1389,9 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "3viCvX9UjnI",
     videoCanal: "CarExpert",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado (sin resultado ANCAP publicado)" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP (sin resultado ANCAP publicado)" },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
       fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
@@ -1440,9 +1440,9 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "2NPaVNVpgp8",
     videoCanal: "Wheels By The Ocean",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado (5 estrellas ANCAP 2021, protocolo australiano)" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP (5 estrellas ANCAP 2021, protocolo australiano)" },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
       fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
@@ -1491,9 +1491,9 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "_89RVgu9Ekc",
     videoCanal: "The Right Car",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
       fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
@@ -1542,9 +1542,9 @@ export const COCHES_EXP24: CocheComparador[] = [
     videoId: "AzIMHQl7srg",
     videoCanal: "Chasing Cars",
     opiniones: [],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [{ nombre: "Servicio cada 12 meses o 15.000 km", queSeCambia: "Aceite, filtros e inspección según plan GWM Australia", costeAproxEur: null }],
       costeAnualAproxEur: null,
       fuente: "GWM Australia: mantenimiento cada 12 meses/15.000 km; garantía 7 años sin límite de km (precios en AUD, no publicados en EUR)"
@@ -1613,14 +1613,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 118,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro y mantenimiento orientativos; varían según perfil.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo. Seguro y mantenimiento orientativos; varían según perfil.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -1694,14 +1694,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 99,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro y mantenimiento orientativos; varían según perfil.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo. Seguro y mantenimiento orientativos; varían según perfil.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -1771,7 +1771,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -1845,14 +1845,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 117,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -1926,14 +1926,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 113,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTP combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2007,14 +2007,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 112,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2088,14 +2088,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 117,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
+      notas: "15.000 km/año y consumo WLTC combinado declarado (l/100 km); PHEV: el coste real depende del hábito de carga. Seguro y mantenimiento orientativos.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2165,7 +2165,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2235,7 +2235,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2309,14 +2309,14 @@ export const COCHES_EXP24: CocheComparador[] = [
       costeMensualTotal: 129,
       precioKwh: 0.18,
       precioGasolinaL: 0,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro y mantenimiento orientativos; varían según perfil.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo. Seguro y mantenimiento orientativos; varían según perfil.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin plan oficial publicado en España",
@@ -2459,7 +2459,7 @@ export const COCHES_EXP24: CocheComparador[] = [
       nota: "Prueba de 2024 sobre la versión 800V; la versión 2025 (900V) aún no ha sido evaluada",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -2532,10 +2532,10 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión 10.000 km / 6 meses",
@@ -2608,10 +2608,10 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión 10.000 km / 6 meses",
@@ -2684,10 +2684,10 @@ export const COCHES_EXP24: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión 10.000 km / 6 meses",

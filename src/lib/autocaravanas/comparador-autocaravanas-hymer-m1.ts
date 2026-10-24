@@ -122,7 +122,7 @@ Para quién es: la Hymer Grand Canyon S es para la pareja viajera que quiere una
     analisisSlug: "hymer-grand-canyon-s-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+        "Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",
@@ -259,7 +259,7 @@ Para quién es: la Hymer B-MC I 600 es para la pareja que quiere la integral pre
     analisisSlug: "hymer-b-mc-i-600-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+        "Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",
@@ -406,7 +406,7 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
     analisisSlug: "hymer-ml-t-580-4x4-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+        "Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",

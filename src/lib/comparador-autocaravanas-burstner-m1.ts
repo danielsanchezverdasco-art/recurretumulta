@@ -131,7 +131,7 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
     analisisSlug: "burstner-lyseo-td-690-g-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

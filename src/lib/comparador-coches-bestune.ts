@@ -69,7 +69,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 246,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. El B70 se vende en España desde 28.900 €.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. El B70 se vende en España desde 28.900 €.",
       estimado: true,
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 254,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -230,7 +230,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio de referencia del importador en Costa Rica.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de referencia del importador en Costa Rica.",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 239,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio de tarifa en España.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de tarifa en España.",
       estimado: true,
     },
     galeria: [
@@ -391,7 +391,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 249,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio de tarifa en España.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio de tarifa en España.",
       estimado: true,
     },
     galeria: [
@@ -474,7 +474,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 256,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio convertido desde pesos mexicanos.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde pesos mexicanos.",
       estimado: true,
     },
     galeria: [
@@ -557,7 +557,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -635,7 +635,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 142,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo (uso profesional). Precio convertido desde pesos filipinos.",
+        "15.000 km/año, 0,18 €/kWh (doméstica); todo riesgo (uso profesional). Precio convertido desde pesos filipinos.",
       estimado: true,
     },
     galeria: [
@@ -713,7 +713,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 315,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y seguro a todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -796,7 +796,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 70,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros ampliado. Precio convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros ampliado. Precio convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [

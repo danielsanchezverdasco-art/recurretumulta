@@ -67,7 +67,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Al ser refrigerada por aire, vigila el nivel de aceite con más frecuencia en verano.",
@@ -135,7 +135,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena tras cada salida campera con limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para off-road, que repele el polvo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Tras el off-road, limpia el filtro de aire: el polvo lo satura rápido.",
@@ -203,7 +203,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El modo Rain suaviza la entrega: ideal para rodar con la versión limitada A2.",
@@ -271,7 +271,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El carenado se desmonta por paneles: no fuerces las pestañas de plástico.",
@@ -339,7 +339,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "La cadena va parcialmente carenada: limpia con trapo y limpiador específico.",
         "Engrasa con lubricante específico para cadenas con retenes.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El sistema Ergo-Fit permite cambiar la posición de las estriberas en el conce.",
@@ -407,7 +407,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El faro redondo LED admite bombillas auxiliares sin romper la estética.",
@@ -475,7 +475,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El control de tracción se puede desconectar para circuito.",
@@ -543,7 +543,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "La app Rideology muestra notificaciones y registro de rutas en la LCD.",
@@ -611,7 +611,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 12 l de depósito, reposta cada 250 km para no apurar la reserva.",
@@ -679,7 +679,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "La precarga del amortiguador se regula con un mando remoto: ajústala con carga.",
@@ -878,7 +878,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El V-twin es de bajo mantenimiento: reglaje de válvulas cada 24.000 km.",
@@ -946,7 +946,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Los semimanillares admiten contrapesos más pesados para reducir vibraciones.",
@@ -1014,7 +1014,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "La suspensión electrónica no necesita reglajes manuales: elige el modo y listo.",
@@ -1280,7 +1280,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El motor agradece el aceite 10W-40 de calidad: gira muy alto.",
@@ -1348,7 +1348,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante específico para cadenas, girando la rueda trasera para repartirlo.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El quickshifter bidireccional funciona mejor por encima de 3.000 rpm.",

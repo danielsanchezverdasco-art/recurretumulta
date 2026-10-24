@@ -77,7 +77,7 @@ export const COCHES_WEY: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 171,
       notas:
-        "Estimación con 15.000 km/año (consumo WLTP ponderado 0,5 L + 25,2 kWh/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (consumo WLTP ponderado 0,5 L + 25,2 kWh/100 km), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -155,7 +155,7 @@ export const COCHES_WEY: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año (consumo WLTP ponderado 0,4 L + 24,4 kWh/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (consumo WLTP ponderado 0,4 L + 24,4 kWh/100 km), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -284,7 +284,7 @@ export const COCHES_WEY: CocheComparador[] = [
       },
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Wey/GWM: no se ha localizado plan oficial europeo del Gaoshan 7; no se trasladan cadencias de otros Wey ni de mercados asiáticos", "intervalo": "Sin intervalo oficial publicado para España: el Gaoshan 7 no se comercializa en el mercado español", "revisiones": []},
   },
   {
@@ -346,7 +346,7 @@ export const COCHES_WEY: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año (70 % en modo eléctrico, resto en híbrido ~7,2 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (70 % en modo eléctrico, resto en híbrido ~7,2 L/100 km), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -424,7 +424,7 @@ export const COCHES_WEY: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 201,
       notas:
-        "Estimación con 15.000 km/año (70 % en modo eléctrico, resto en híbrido ~7,5 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (70 % en modo eléctrico, resto en híbrido ~7,5 L/100 km), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -502,7 +502,7 @@ export const COCHES_WEY: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año (85 % en modo eléctrico, resto en híbrido ~6,5 L/100 km), recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año (85 % en modo eléctrico, resto en híbrido ~6,5 L/100 km), 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -580,7 +580,7 @@ export const COCHES_WEY: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Wey/GWM: sin plan oficial europeo publicado para el V9X", "intervalo": "No publicado para Europa (modelo no comercializado en España)", "revisiones": []},
   },
 ];

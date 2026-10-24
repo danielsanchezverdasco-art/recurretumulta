@@ -90,7 +90,7 @@ Para quién es: encaja con parejas viajeras de alto poder adquisitivo que quiere
     ],
     analisisSlug: "le-voyageur-heritage-lvxh-8-7-cf-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Le Voyageur (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 300 },
@@ -175,7 +175,7 @@ Para quién es: encaja con parejas que quieren un integral de lujo manejable —
     ],
     analisisSlug: "le-voyageur-heritage-lvxh-7-9-cf-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Le Voyageur (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 300 },

@@ -478,7 +478,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 113,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación orientativa con consumo estimado ~15 kWh/100 km y recarga doméstica a 0,18 €/kWh; sin precio oficial en España (desde 31.990 € en Alemania), base 15.000 km/año",
+      "notas": "estimación orientativa con consumo estimado ~15 kWh/100 km y 0,18 €/kWh (doméstica); sin precio oficial en España (desde 31.990 € en Alemania), base 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -505,7 +505,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     fuenteNombre: "somoselectricos",
     fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/"
@@ -567,7 +567,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 123,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación orientativa con consumo estimado ~15,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; base 15.000 km/año",
+      "notas": "estimación orientativa con consumo estimado ~15,5 kWh/100 km y 0,18 €/kWh (doméstica); base 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -1138,7 +1138,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación orientativa con consumo estimado ~16,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; base 15.000 km/año",
+      "notas": "estimación orientativa con consumo estimado ~16,5 kWh/100 km y 0,18 €/kWh (doméstica); base 15.000 km/año",
       "estimado": true
     },
     galeria: [

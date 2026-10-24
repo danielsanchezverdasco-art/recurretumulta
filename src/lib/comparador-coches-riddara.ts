@@ -57,7 +57,7 @@ export const COCHES_RIDDARA: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 149,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro todo riesgo. El precio de compra es estimado desde el mercado chino (la marca no vende en España).",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro todo riesgo. El precio de compra es estimado desde el mercado chino (la marca no vende en España).",
       estimado: true,
     },
     galeria: [
@@ -137,7 +137,7 @@ export const COCHES_RIDDARA: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 181,
       notas:
-        "Estimación con 15.000 km/año combinando carga eléctrica diaria (100 km de autonomía eléctrica) y uso del motor 1.5 turbo, más seguro todo riesgo. Precio de compra estimado desde China.",
+        "15.000 km/año combinando carga eléctrica diaria (100 km de autonomía eléctrica) y uso del motor 1.5 turbo, más seguro todo riesgo. Precio de compra estimado desde China.",
       estimado: true,
     },
     galeria: [

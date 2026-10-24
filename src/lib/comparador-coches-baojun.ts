@@ -69,7 +69,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 91,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 100,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -225,7 +225,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 106,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -303,7 +303,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 113,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -369,7 +369,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 118,
       notas:
-        "Estimación en modo eléctrico (12,6 kWh/100 km) con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
+        "Estimación en modo eléctrico (12,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -435,7 +435,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 118,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -501,7 +501,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 126,
       notas:
-        "Estimación en modo eléctrico (14,6 kWh/100 km) con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
+        "Estimación en modo eléctrico (14,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -579,7 +579,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 89,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [

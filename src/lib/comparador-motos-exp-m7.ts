@@ -67,7 +67,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes (o detergente neutro con cepillo suave).",
         "Engrasa con lubricante para cadenas deportivas, girando la rueda trasera para repartirlo de forma uniforme.",
-        "Comprueba la tensión con la moto en vertical y ajusta según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite con la moto en vertical y el motor frío antes de cada salida.",
@@ -268,7 +268,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y cepillo suave, sobre todo tras pistas de tierra.",
         "Engrasa con lubricante de cadena y reparte girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El filtro de aire va bajo el depósito: revisarlo es tarea de taller, no lo fuerces.",
@@ -335,7 +335,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes.",
         "Engrasa con lubricante de cadena, girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual del propietario.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Consumo real de 4,3 l/100 km: con 15,2 L supera los 340 km de autonomía.",
@@ -531,7 +531,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes y un trapo.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El escape bajo se ensucia mucho: límpialo con producto específico para cromados.",
@@ -605,7 +605,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/honda/sh-350-i",
     analisisSlug: "honda-sh350i-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -751,7 +751,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con un trapo y limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite cada 1.000 km: los monocilíndricos pequeños consumen algo.",
@@ -948,7 +948,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El CP3 consume unos 5 l/100 km: con 14 L tienes 280 km de autonomía.",
@@ -1015,7 +1015,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes tras cada salida exigente.",
         "Engrasa con lubricante de cadena de altas prestaciones.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El CP4 es tragón: calcula 260 km de autonomía con los 17 L.",
@@ -1082,7 +1082,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
@@ -1333,7 +1333,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 5 l/100 km y 19 L tienes más de 350 km de autonomía.",
@@ -1462,7 +1462,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El CP3 es fiable: con mantenimiento al día supera los 100.000 km.",
@@ -1520,7 +1520,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/sport/yamaha/125cc",
     analisisSlug: "yamaha-yzf-r125-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -1597,7 +1597,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
@@ -1731,7 +1731,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
@@ -1798,7 +1798,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Si haces circuito, cambia el aceite cada 2 tandas.",
@@ -1865,7 +1865,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El bicilíndrico de 451 cc es nuevo y muy fiable.",
@@ -1984,7 +1984,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Si haces circuito, cambia el aceite cada 2 tandas.",
@@ -2051,7 +2051,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Si haces circuito, cambia el aceite cada 2 tandas.",
@@ -2118,7 +2118,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
@@ -2185,7 +2185,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
@@ -2252,7 +2252,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 3,8 l/100 km y 13 L tienes más de 340 km de autonomía.",
@@ -2319,7 +2319,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 5,7 l/100 km y 19 L tienes más de 330 km de autonomía.",
@@ -2386,7 +2386,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El compresor exige un mantenimiento escrupuloso del filtro de aire.",
@@ -2455,7 +2455,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El quickshifter agradece una cadena bien tensada y engrasada.",
@@ -2524,7 +2524,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El bicilíndrico calienta: revisa el nivel de refrigerante cada 3.000 km.",
@@ -2593,7 +2593,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 152 CV, el neumático trasero pide revisión de presiones cada 500 km.",
@@ -2661,7 +2661,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena tras cada salida de campo.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
         "Revisa que los retenes no tengan barro incrustado.",
       ],
       trucos: [
@@ -2731,7 +2731,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El V-twin es duro: respeta los intervalos de reglaje de válvulas del manual.",
@@ -2800,7 +2800,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "En las 125 el intervalo de aceite es más corto: no lo estires.",
@@ -2868,7 +2868,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso supermotard, limpia y engrasa la cadena cada 500 km.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
         "Vigila el desgaste del kit de arrastre: el mono castiga la cadena.",
       ],
       trucos: [
@@ -3003,7 +3003,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "En las 125 el aceite se degrada antes: respeta los 6.000 km.",
@@ -3072,7 +3072,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El motor K5 es duro: respeta los intervalos de reglaje de válvulas.",
@@ -3141,7 +3141,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Con 195 CV, revisa el kit de arrastre cada 5.000 km.",
@@ -3209,7 +3209,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
         "En uso off-road, limpia y engrasa la cadena tras cada salida.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
         "Vigila el desgaste del kit de arrastre reforzado.",
       ],
       trucos: [
@@ -3279,7 +3279,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico para retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Viajando cargado, sube la precarga trasera según el manual.",

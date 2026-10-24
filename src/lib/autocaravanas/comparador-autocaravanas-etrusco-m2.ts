@@ -116,7 +116,7 @@ Perfil de comprador: viajeros en pareja que pernoctan en lechos separados, rueda
     analisisSlug: "etrusco-t-6900-sb-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -243,7 +243,7 @@ Perfil de comprador: familias de 4 que priorizan el espacio interior sin dar el 
     analisisSlug: "etrusco-t-7400-sbc-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -368,7 +368,7 @@ Perfil de comprador: el CV 600 SB encaja con parejas activas que usan el camper 
     analisisSlug: "etrusco-cv-600-sb-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

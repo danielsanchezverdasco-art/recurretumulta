@@ -120,7 +120,7 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
     analisisSlug: "elnagh-baron-565-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

@@ -108,7 +108,7 @@ export const AUTOCARAVANAS_WESTFALIA_M2: Autocaravana[] = [
     analisisSlug: "westfalia-james-cook-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes Sprinter 2.0: revisión cada 2 años o 40.000 km (según plan Mercedes)",
+        "Mercedes Sprinter 2.0: 2 años / 40.000 km (según plan Mercedes)",
       revisiones: [
         {
           nombre: "Revisión Sprinter (2 años / 40.000 km)",

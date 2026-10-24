@@ -71,7 +71,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 153,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,6 kWh/100 km; recarga doméstica a 0,18 €/kWh; 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 16,6 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -171,7 +171,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/lexus/nx/2022/estandar",
     euroncap: {"ano": 2022, "estrellas": 5, "nota": "5 estrellas Euro NCAP (prueba publicada el 02/03/2022); la propia ficha oficial de Euro NCAP declara la calificación aplicable a la variante 2.5 petrol hybrid 350h 4x2, que es la de esta ficha", "url": "https://www.euroncap.com/en/results/lexus/nx/45229"},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Lexus España (mantenimiento programado de 1 año o 15.000 km y Chequeo Integral del Sistema Híbrido incluido en cada mantenimiento) y plan publicado para el NX (intermedio 15.000 km, principal 30.000 km); Lexus no publica precios cerrados de revisión, dependen del centro", "intervalo": "15.000 km o 12 meses (lo que ocurra antes)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión intermedia / 15.000 km o 12 meses", "queSeCambia": "Aceite y filtro de aceite + Chequeo Integral del Sistema Híbrido (HHC) de batería, propulsión y refrigeración, incluido en cada mantenimiento Lexus"}, {"costeAproxEur": null, "nombre": "Revisión principal / 30.000 km o 24 meses", "queSeCambia": "Aceite y filtros + líquido de frenos y comprobaciones de frenos, dirección, suspensión, luces, motor y carrocería, según la relación de operaciones del mantenimiento Lexus"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Lexus España (mantenimiento programado de 1 año o 15.000 km y Chequeo Integral del Sistema Híbrido incluido en cada mantenimiento) y plan publicado para el NX (intermedio 15.000 km, principal 30.000 km); Lexus no publica precios cerrados de revisión, dependen del centro", "intervalo": "15.000 km o 12 meses", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión intermedia / 15.000 km o 12 meses", "queSeCambia": "Aceite y filtro de aceite + Chequeo Integral del Sistema Híbrido (HHC) de batería, propulsión y refrigeración, incluido en cada mantenimiento Lexus"}, {"costeAproxEur": null, "nombre": "Revisión principal / 30.000 km o 24 meses", "queSeCambia": "Aceite y filtros + líquido de frenos y comprobaciones de frenos, dirección, suspensión, luces, motor y carrocería, según la relación de operaciones del mantenimiento Lexus"}]},
   },
   // 3. Lexus NX 450h+ (híbrido enchufable, 2024+)
   {
@@ -231,7 +231,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 2,9 l/100 km con batería cargada; el coste real depende del hábito de carga; recarga doméstica a 0,18 €/kWh; 1.500 km/mes",
+      "notas": "consumo WLTP 2,9 l/100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -399,7 +399,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 181,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 1,1 l/100 km con batería cargada; el coste real depende del hábito de carga; recarga doméstica a 0,18 €/kWh; 1.500 km/mes",
+      "notas": "consumo WLTP 1,1 l/100 km con batería cargada; el coste real depende del hábito de carga; 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -567,7 +567,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,7 kWh/100 km; recarga doméstica a 0,18 €/kWh; 1.500 km/mes; sin ayudas ni descuentos",
+      "notas": "consumo WLTP 16,7 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; sin ayudas ni descuentos",
       "estimado": true
     },
     galeria: [
@@ -651,7 +651,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 182,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 18,2 kWh/100 km; recarga doméstica a 0,18 €/kWh; 1.500 km/mes; modelo descatalogado en mayo de 2025",
+      "notas": "consumo WLTP 18,2 kWh/100 km; 0,18 €/kWh (doméstica); 1.500 km/mes; modelo descatalogado en mayo de 2025",
       "estimado": true
     },
     galeria: [
@@ -779,7 +779,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "nota": "Sin datos EuroNCAP: el nuevo ES de octava generación (2026) no ha sido sometido a pruebas Euro NCAP publicadas"
     },
     planMantenimiento: {
-      "intervalo": "12 meses o 15.000 km (lo que ocurra antes)",
+      "intervalo": "12 meses o 15.000 km",
       "revisiones": [
         { "nombre": "Revisión anual / 15.000 km", "queSeCambia": "Aceite + filtros + inspección del sistema híbrido", "costeAproxEur": null },
         { "nombre": "Revisión / 30.000 km", "queSeCambia": "Revisión anual + elementos adicionales según el plan Lexus", "costeAproxEur": null }
@@ -848,7 +848,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 15 kWh/100 km (Lexus aún no publica el WLTP oficial); recarga doméstica a 0,18 €/kWh; 1.500 km/mes",
+      "notas": "consumo estimado 15 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -932,7 +932,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 182,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 16,5 kWh/100 km (Lexus aún no publica el WLTP oficial); recarga doméstica a 0,18 €/kWh; 1.500 km/mes",
+      "notas": "consumo estimado 16,5 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes",
       "estimado": true
     },
     galeria: [
@@ -1268,7 +1268,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
       "costeMensualTotal": 209,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado 19 kWh/100 km (Lexus aún no publica el WLTP oficial); recarga doméstica a 0,18 €/kWh; 1.500 km/mes; seguro estimado para un SUV premium de 88.000 €",
+      "notas": "consumo estimado 19 kWh/100 km (Lexus aún no publica el WLTP oficial); 0,18 €/kWh (doméstica); 1.500 km/mes; seguro estimado para un SUV premium de 88.000 €",
       "estimado": true
     },
     galeria: [

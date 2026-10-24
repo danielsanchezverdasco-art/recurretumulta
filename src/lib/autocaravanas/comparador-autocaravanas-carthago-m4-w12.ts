@@ -154,7 +154,7 @@ export const AUTOCARAVANAS_CARTHAGO_M4: Autocaravana[] = [
     ],
     analisisSlug: "carthago-liner-for-two-i-53-l-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Iveco Daily: revisión anual o cada 40.000 km (según plan del fabricante)",
+      intervalo: "Base Iveco Daily: revisión anual o cada 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Iveco Daily)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Carthago (anual recomendada)", queSeCambia: "Estanqueidad, Alde, gas, electricidad, humedades", costeAproxEur: 350 },

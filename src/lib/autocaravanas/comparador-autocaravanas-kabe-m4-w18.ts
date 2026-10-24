@@ -87,7 +87,7 @@ Para quién es: encaja con viajeros que priorizan el invierno por encima de todo
     ],
     analisisSlug: "kabe-travel-master-imperial-i880-lgb-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Kabe (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, suelo radiante", costeAproxEur: 300 },

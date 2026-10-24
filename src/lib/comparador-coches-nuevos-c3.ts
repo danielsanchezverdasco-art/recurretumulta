@@ -74,7 +74,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.6, seguroTercerosAnual: 420, seguroAmpliadoAnual: 750,
       mantenimientoAnual: 250, costeMensualTotal: 164, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
       estimado: true,
     },
     fuenteNombre: "km77",
@@ -147,7 +147,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 2.7, seguroTercerosAnual: 450, seguroAmpliadoAnual: 820,
       mantenimientoAnual: 180, costeMensualTotal: 96, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 15,0 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 15,0 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "volkswagen.es",
@@ -220,7 +220,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.4, seguroTercerosAnual: 480, seguroAmpliadoAnual: 880,
       mantenimientoAnual: 300, costeMensualTotal: 183, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
       estimado: true,
     },
     fuenteNombre: "km77",
@@ -293,7 +293,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 2.9, seguroTercerosAnual: 500, seguroAmpliadoAnual: 950,
       mantenimientoAnual: 200, costeMensualTotal: 103, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 15,9 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 15,9 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "km77",
@@ -366,7 +366,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.5, seguroTercerosAnual: 440, seguroAmpliadoAnual: 790,
       mantenimientoAnual: 260, costeMensualTotal: 165, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
       estimado: true,
     },
     fuenteNombre: "km77",
@@ -439,7 +439,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.1, seguroTercerosAnual: 410, seguroAmpliadoAnual: 730,
       mantenimientoAnual: 240, costeMensualTotal: 168, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,7 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,7 l/100 km",
       estimado: true,
     },
     fuenteNombre: "renault.es",
@@ -512,7 +512,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 2.9, seguroTercerosAnual: 480, seguroAmpliadoAnual: 900,
       mantenimientoAnual: 180, costeMensualTotal: 101, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 16,3 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 16,3 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "renault.es",
@@ -585,7 +585,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 10.2, seguroTercerosAnual: 450, seguroAmpliadoAnual: 800,
       mantenimientoAnual: 260, costeMensualTotal: 187, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 6,4 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 6,4 l/100 km",
       estimado: true,
     },
     fuenteNombre: "renault.es",
@@ -658,7 +658,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 2.8, seguroTercerosAnual: 470, seguroAmpliadoAnual: 880,
       mantenimientoAnual: 180, costeMensualTotal: 99, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 15,5 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 15,5 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "renault.es",
@@ -731,7 +731,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 7.5, seguroTercerosAnual: 520, seguroAmpliadoAnual: 980,
       mantenimientoAnual: 320, costeMensualTotal: 164, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 4,7 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 4,7 l/100 km",
       estimado: true,
     },
     fuenteNombre: "renault.es",
@@ -804,7 +804,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.0, seguroTercerosAnual: 470, seguroAmpliadoAnual: 860,
       mantenimientoAnual: 280, costeMensualTotal: 175, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
       estimado: true,
     },
     fuenteNombre: "peugeot.es",
@@ -877,7 +877,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 3.2, seguroTercerosAnual: 520, seguroAmpliadoAnual: 990,
       mantenimientoAnual: 200, costeMensualTotal: 110, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 17,7 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 17,7 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "peugeot.es",
@@ -950,7 +950,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.8, seguroTercerosAnual: 420, seguroAmpliadoAnual: 740,
       mantenimientoAnual: 240, costeMensualTotal: 165, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,5 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,5 l/100 km",
       estimado: true,
     },
     fuenteNombre: "peugeot.es",
@@ -1023,7 +1023,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.8, seguroTercerosAnual: 460, seguroAmpliadoAnual: 830,
       mantenimientoAnual: 270, costeMensualTotal: 171, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,5 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,5 l/100 km",
       estimado: true,
     },
     fuenteNombre: "peugeot.es",
@@ -1096,7 +1096,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.6, seguroTercerosAnual: 440, seguroAmpliadoAnual: 790,
       mantenimientoAnual: 260, costeMensualTotal: 166, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
       estimado: true,
     },
     fuenteNombre: "peugeot.es",
@@ -1169,7 +1169,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.0, seguroTercerosAnual: 390, seguroAmpliadoAnual: 690,
       mantenimientoAnual: 220, costeMensualTotal: 163, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
       estimado: true,
     },
     fuenteNombre: "citroen.es",
@@ -1242,7 +1242,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 3.1, seguroTercerosAnual: 410, seguroAmpliadoAnual: 740,
       mantenimientoAnual: 170, costeMensualTotal: 101, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y consumo de 17,0 kWh/100 km",
+      notas: "15.000 km/año, 0,18 €/kWh (doméstica) y consumo de 17,0 kWh/100 km",
       estimado: true,
     },
     fuenteNombre: "citroen.es",
@@ -1315,7 +1315,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.1, seguroTercerosAnual: 480, seguroAmpliadoAnual: 870,
       mantenimientoAnual: 290, costeMensualTotal: 178, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,7 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,7 l/100 km",
       estimado: true,
     },
     fuenteNombre: "citroen.es",
@@ -1388,7 +1388,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.0, seguroTercerosAnual: 460, seguroAmpliadoAnual: 840,
       mantenimientoAnual: 270, costeMensualTotal: 173, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,6 l/100 km",
       estimado: true,
     },
     fuenteNombre: "opel.es",
@@ -1461,7 +1461,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.5, seguroTercerosAnual: 400, seguroAmpliadoAnual: 710,
       mantenimientoAnual: 230, costeMensualTotal: 159, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
       estimado: true,
     },
     fuenteNombre: "opel.es",
@@ -1534,7 +1534,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.6, seguroTercerosAnual: 430, seguroAmpliadoAnual: 770,
       mantenimientoAnual: 250, costeMensualTotal: 164, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,4 l/100 km",
       estimado: true,
     },
     fuenteNombre: "seat.es",
@@ -1607,7 +1607,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.3, seguroTercerosAnual: 390, seguroAmpliadoAnual: 690,
       mantenimientoAnual: 220, costeMensualTotal: 155, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,2 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,2 l/100 km",
       estimado: true,
     },
     fuenteNombre: "seat.es",
@@ -1680,7 +1680,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.4, seguroTercerosAnual: 430, seguroAmpliadoAnual: 770,
       mantenimientoAnual: 250, costeMensualTotal: 175, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
       estimado: true,
     },
     fuenteNombre: "skoda.es",
@@ -1753,7 +1753,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.5, seguroTercerosAnual: 360, seguroAmpliadoAnual: 640,
       mantenimientoAnual: 200, costeMensualTotal: 153, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
       estimado: true,
     },
     fuenteNombre: "dacia.es",
@@ -1826,7 +1826,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 9.4, seguroTercerosAnual: 420, seguroAmpliadoAnual: 750,
       mantenimientoAnual: 240, costeMensualTotal: 173, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "Estimación con 15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
+      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,9 l/100 km",
       estimado: true,
     },
     fuenteNombre: "fiat.es",

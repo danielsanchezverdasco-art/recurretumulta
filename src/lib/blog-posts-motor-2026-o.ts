@@ -374,7 +374,7 @@ Un monocilíndrico de **449,6 cc con distribución desmodrómica** (Desmo450), 4
 Aceite y filtro cada **2.500 km**, holgura de válvulas cada **5.000 km** y servicio principal del motor cada **11.500 km**, según Ducati.
 
 ### ¿Qué garantía tiene?
-**12 meses u 80 horas**, lo que ocurra antes.
+**12 meses u 80 horas**.
 
 ### ¿Es la primera enduro de Ducati?
 Es su **primera moto de enduro moderna**: Ducati no tenía una enduro de serie en las últimas décadas.

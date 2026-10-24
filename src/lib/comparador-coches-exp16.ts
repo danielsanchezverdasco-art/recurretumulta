@@ -69,7 +69,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 215,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 184,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -223,7 +223,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -300,7 +300,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -377,7 +377,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 173,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -454,7 +454,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 214,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -531,7 +531,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,19 €/kWh y todo riesgo.",
+        "15.000 km/año, 0,19 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -608,7 +608,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 210,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -685,7 +685,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 234,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -752,7 +752,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 157,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -829,7 +829,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 236,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
+        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -906,7 +906,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 241,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -983,7 +983,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 205,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1060,7 +1060,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 208,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1137,7 +1137,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 145,
       notas:
-        "Estimación con 15.000 km/año, uso mayoritario en eléctrico y todo riesgo.",
+        "15.000 km/año, uso mayoritario en eléctrico y todo riesgo.",
       estimado: true,
     },
     galeria: [

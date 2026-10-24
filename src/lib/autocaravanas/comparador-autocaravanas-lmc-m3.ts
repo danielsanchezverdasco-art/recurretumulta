@@ -124,7 +124,7 @@ Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y 
     ],
     analisisSlug: "lmc-tourer-lift-h-664-g-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ford Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 380 },
         { nombre: "Revisión célula LMC (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -261,7 +261,7 @@ rápido.`,
     ],
     analisisSlug: "lmc-cruiser-740-el-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula LMC (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

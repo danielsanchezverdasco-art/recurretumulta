@@ -69,7 +69,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 121,
       notas:
-        "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Modelo solo a la venta en China; cifras orientativas.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China; cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 173,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa (2,49 l/100 km en el reto Guinness). Modelo solo a la venta en China.",
+        "15.000 km/año cargando a diario en casa (2,49 l/100 km en el reto Guinness). Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -235,7 +235,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 177,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa. Modelo solo a la venta en China; cifras orientativas.",
+        "15.000 km/año cargando a diario en casa. Modelo solo a la venta en China; cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -318,7 +318,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 106,
       notas:
-        "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Modelo solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -401,7 +401,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 163,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa. La potencia indicada es la del motor eléctrico; la combinada no está publicada. Solo a la venta en China.",
+        "15.000 km/año cargando a diario en casa. La potencia indicada es la del motor eléctrico; la combinada no está publicada. Solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -491,7 +491,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       },
     ],
     analisisSlug: "roewe-rx5-2024-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
   {
     id: "roewe-erx5-2024-precio-ficha-tecnica",
@@ -551,7 +551,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 185,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa. Modelo solo a la venta en China (su equivalente MG HS PHEV sí se vende en Europa).",
+        "15.000 km/año cargando a diario en casa. Modelo solo a la venta en China (su equivalente MG HS PHEV sí se vende en Europa).",
       estimado: true,
     },
     galeria: [
@@ -634,7 +634,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 307,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. El vídeo es del MG RX9, la versión de exportación del mismo modelo.",
+        "15.000 km/año; gasolina 1,60 €/l. El vídeo es del MG RX9, la versión de exportación del mismo modelo.",
       estimado: true,
     },
     galeria: [
@@ -717,7 +717,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 207,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Se vende fuera de China como MG5. Cifras orientativas.",
+        "15.000 km/año; gasolina 1,60 €/l. Se vende fuera de China como MG5. Cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -800,7 +800,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Datos de la versión de gran autonomía (61,1 kWh).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Datos de la versión de gran autonomía (61,1 kWh).",
       estimado: true,
     },
     galeria: [
@@ -883,7 +883,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 323,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Modelo solo a la venta en China.",
+        "15.000 km/año; gasolina 1,60 €/l. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -966,7 +966,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 208,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa. Modelo solo a la venta en China.",
+        "15.000 km/año cargando a diario en casa. Modelo solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -1049,7 +1049,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 208,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Modelo 2026 solo a la venta en China.",
+        "15.000 km/año; gasolina 1,60 €/l. Modelo 2026 solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -1145,7 +1145,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa (EREV: circula casi siempre en eléctrico). Modelo 2026 solo a la venta en China.",
+        "15.000 km/año cargando a diario en casa (EREV: circula casi siempre en eléctrico). Modelo 2026 solo a la venta en China.",
       estimado: true,
     },
     galeria: [

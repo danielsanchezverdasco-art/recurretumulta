@@ -65,7 +65,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 189,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -153,7 +153,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 102,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (16,7 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (16,7 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -234,7 +234,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 198,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 185,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -396,7 +396,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 186,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (4,7 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -465,7 +465,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 100,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (14,9 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (14,9 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -548,7 +548,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 100,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (14,5 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (14,5 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -629,7 +629,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 208,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (5,3 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -710,7 +710,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 151,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (2,5 l/100 km) × 1,85 €/l, suponiendo carga diaria; si no se carga, el coste real sube mucho. Seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (2,5 l/100 km) × 1,85 €/l, suponiendo carga diaria; si no se carga, el coste real sube mucho. Seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -791,7 +791,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 206,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (5,1 l/100 km) × 1,85 €/l; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -872,7 +872,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 221,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (5,5 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (5,5 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -953,7 +953,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 275,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (7,2 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (7,2 l/100 km) × precio medio del gasóleo; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1034,7 +1034,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 121,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (18 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (18 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1115,7 +1115,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía según consumo WLTP (24,1 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía según consumo WLTP (24,1 kWh/100 km) × 0,18 €/kWh; seguro y mantenimiento estimados por segmento. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1196,7 +1196,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 57,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación con 15.000 km/año: energía estimada (~7,3 kWh/100 km) × 0,18 €/kWh; seguro de cuadriciclo y mantenimiento mínimos estimados. Cifra orientativa, no tarifa.",
+      "notas": "15.000 km/año: energía estimada (~7,3 kWh/100 km) × 0,18 €/kWh; seguro de cuadriciclo y mantenimiento mínimos estimados. Cifra orientativa, no tarifa.",
       "estimado": true
     },
     galeria: [
@@ -1304,7 +1304,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 132,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 17,9 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 17,9 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1385,7 +1385,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 206,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,4 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,4 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1466,7 +1466,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 131,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 17,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 17,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1535,7 +1535,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 188,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1616,7 +1616,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 203,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1758,7 +1758,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 26 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico; uso profesional ligero",
+      "notas": "15.000 km/año; consumo 26 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico; uso profesional ligero",
       "estimado": true
     },
     galeria: [
@@ -1827,7 +1827,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 206,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1897,7 +1897,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,6 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,6 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1980,7 +1980,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
       "costeMensualTotal": 242,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 6,8 l/100 km WLTP; diésel a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de diésel con AdBlue; uso profesional ligero",
+      "notas": "15.000 km/año; consumo 6,8 l/100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue; uso profesional ligero",
       "estimado": true
     },
     galeria: [

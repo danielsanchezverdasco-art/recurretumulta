@@ -36,6 +36,29 @@ def fichas(cat,pref,todas):
   return r
 EMPRESA=re.compile(r"\b(fundad|sede|origen|grupo|propiedad|pertenece|matriz|divisi[oó]n|fabricante|marca (?:china|alemana|italiana|francesa|japonesa|coreana|británica|española|estadounidense|sueca|india|taiwanesa|austriaca|checa|rumana|holandesa|neerlandesa)|desde \d{4}|en \d{4}|nacid|compañ|empresa|startup|filial|subsidiaria)",re.I)
 recortes=[]
+def solo_dato(f,n):
+  f=f.strip()
+  if f.startswith(("Cada ficha","Si te ha llegado","Desde el ","Ojo también","Recuerda que")): return ""
+  m=re.match(r"Por tipo de motor, las (\d+) versiones con dato se reparten así: (.+)\.$",f)
+  if m: return f"Motor ({m[1]} versiones): {m[2]}."
+  m=re.match(r"Todas las versiones con dato publicado son (.+)\.$",f)
+  if m: return f"Motor: {m[1]} (todas)."
+  m=re.match(r"Por tipo de moto, hay (.+)\.$",f)
+  if m: return "Tipo: "+re.sub(r"(\d+) de tipo ",r"\1 ",m[1])+"."
+  if f.startswith(("En cuanto a la etiqueta","Por etiqueta DGT")):
+    e=re.findall(r"(\d+) (?:llevan|lleva|con) (?:la )?etiqueta (0 emisiones|ECO|C|B)",f)
+    return ("Etiqueta DGT: "+", ".join(f"{a} con {b}" for a,b in e)+".") if e else ""
+  if f.startswith("Según el permiso"):
+    e=re.findall(r"(\d+) se puedes? llevar con el carnet (\w+)|(\d+) se pueden llevar con el carnet (\w+)",f)
+    e=[(a or c,b or d) for a,b,c,d in e]
+    return ("Carnet: "+", ".join(f"{a} con {b}" for a,b in e)+".") if e else ""
+  m=re.match(r"Los precios de partida que recogemos van desde (.+?) del (.+?) hasta (.+?) del (.+?)\.$",f)
+  if m: return f"Precio de partida: {m[1]} ({m[2]}) – {m[3]} ({m[4]})."
+  m=re.match(r"De estos modelos, (\d+) tienen? verificado el certificado",f)
+  if m: return f"Certificado DGT verificado: {m[1]} de {n}."
+  if f.startswith("En ninguno de estos modelos hemos podido verificar"): return f"Certificado DGT verificado: 0 de {n}."
+  return f
+
 def intro(cat,slug,marca,n,fusion):
   t=I.get(f"{cat}/marca/{slug}",{}).get("intro","").strip()
   frases=re.split(r"(?<=[.»])\s+(?=[A-ZÁÉÍÓÚÑ¿])",t)
@@ -45,7 +68,9 @@ def intro(cat,slug,marca,n,fusion):
   resto=[f for f in resto if not EMPRESA.search(f) or f.startswith(("Por ","En cuanto","Los precios","El precio","Cada ficha","Si te ha","Según","En ninguno","Desde el"))]
   if quitadas: recortes.append((f"{cat}/{slug}"," ".join(quitadas)))
   base=f"En esta página reunimos las {n} fichas técnicas de {CATN[cat]} {marca} que tenemos publicadas." if n!=1 else f"En esta página reunimos la ficha técnica de {CATN[cat]} {marca} que tenemos publicada."
-  return " ".join([base]+resto)
+  # 24/10 (unicidad): frases de plantilla -> solo el dato; consejos genéricos fuera. Nada inventado.
+  base=f"{n} fichas técnicas de {CATN[cat]} {marca}." if n!=1 else f"1 ficha técnica de {CATN[cat]} {marca}."
+  return " ".join([base]+[x for x in (solo_dato(f,n) for f in resto) if x])
 def bc(items): return {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":k+1,"name":n,"item":O+u} for k,(n,u) in enumerate(items)]}
 def ld(o,idn): return f'<script type="application/ld+json" data-seo-id="{idn}">'+json.dumps(o,ensure_ascii=False).replace("</","<\\/")+"</script>"
 

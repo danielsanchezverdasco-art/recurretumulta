@@ -64,7 +64,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 199,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. El S800 no se vende en España: cifras orientativas para un uso equivalente.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. El S800 no se vende en España: cifras orientativas para un uso equivalente.",
       estimado: true,
     },
     galeria: [
@@ -132,7 +132,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 223,
       notas:
-        "Estimación con 15.000 km/año y coste energético mixto electricidad+gasolina. El S800 no se vende en España: cifras orientativas para un uso equivalente.",
+        "15.000 km/año y coste energético mixto electricidad+gasolina. El S800 no se vende en España: cifras orientativas para un uso equivalente.",
       estimado: true,
     },
     galeria: [

@@ -67,7 +67,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 129,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY); solo a la venta en China.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY); solo a la venta en China.",
       estimado: true,
     },
     galeria: [
@@ -145,7 +145,7 @@ export const COCHES_LUXEED: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 191,
       notas:
-        "Estimación con 15.000 km/año en uso mixto eléctrico/combustible, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY); solo a la venta en China.",
+        "15.000 km/año en uso mixto eléctrico/combustible, 0,18 €/kWh (doméstica) y todo riesgo. Precio convertido desde yuanes (≈0,13 €/CNY); solo a la venta en China.",
       estimado: true,
     },
     galeria: [

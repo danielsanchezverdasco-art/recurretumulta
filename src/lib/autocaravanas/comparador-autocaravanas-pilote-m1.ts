@@ -94,7 +94,7 @@ export const AUTOCARAVANAS_PILOTE_M1: Autocaravana[] = [
     analisisSlug: "pilote-v600g-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -227,7 +227,7 @@ Origen de los datos: las medidas (7,56 × 2,30 × 2,85 m), las 4 plazas de viaje
     analisisSlug: "pilote-g740fgj-evidence-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

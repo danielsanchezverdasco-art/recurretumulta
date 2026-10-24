@@ -114,7 +114,7 @@ export const AUTOCARAVANAS_XGO_M2: Autocaravana[] = [
     analisisSlug: "xgo-dynamic-35-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -237,7 +237,7 @@ export const AUTOCARAVANAS_XGO_M2: Autocaravana[] = [
     analisisSlug: "xgo-dynamic-95-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

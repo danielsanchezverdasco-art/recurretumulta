@@ -126,7 +126,7 @@ Para quién es: la Chausson 640 Titanium es para la pareja o la familia pequeña
     analisisSlug: "chausson-640-titanium-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

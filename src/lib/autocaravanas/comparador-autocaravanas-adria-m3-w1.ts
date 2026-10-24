@@ -95,7 +95,7 @@ export const AUTOCARAVANAS_ADRIA_M3: Autocaravana[] = [
     ],
     analisisSlug: "adria-matrix-axess-670-sl-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato / Citroën Jumper: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato / Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ducato/Jumper)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Adria (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -186,7 +186,7 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     ],
     analisisSlug: "adria-sonic-700-sl-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Adria (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 280 },
@@ -273,7 +273,7 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     ],
     analisisSlug: "adria-twin-sports-640-sgx-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Adria (anual recomendada)", queSeCambia: "Estanqueidad, gas, techo elevable, humedades", costeAproxEur: 250 },

@@ -65,7 +65,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 223,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,3 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para compacto premium.",
+      notas: "15.000 km/año: energía 5,3 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para compacto premium.",
       estimado: true
     },
     galeria: [
@@ -148,7 +148,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 233,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,2 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium compacto.",
+      notas: "15.000 km/año: energía 5,2 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium compacto.",
       estimado: true
     },
     euroncap: {
@@ -240,7 +240,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 226,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 4,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina premium diésel.",
+      notas: "15.000 km/año: energía 4,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina premium diésel.",
       estimado: true
     },
     euroncap: {
@@ -335,7 +335,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 188,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año y carga diaria: energía 2,4 l/100 km × 1,85 €/l (ponderado WLTP); sin carga habitual el coste real sube mucho.",
+      notas: "15.000 km/año y carga diaria: energía 2,4 l/100 km × 1,85 €/l (ponderado WLTP); sin carga habitual el coste real sube mucho.",
       estimado: true
     },
     galeria: [
@@ -411,7 +411,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 229,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,0 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium diésel.",
+      notas: "15.000 km/año: energía 5,0 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium diésel.",
       estimado: true
     },
     galeria: [
@@ -494,7 +494,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 255,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,1 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina ejecutiva diésel.",
+      notas: "15.000 km/año: energía 5,1 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para berlina ejecutiva diésel.",
       estimado: true
     },
     euroncap: {
@@ -589,7 +589,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 182,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año y carga diaria: energía 2,1 l/100 km × 1,85 €/l (ponderado WLTP); sin carga habitual el coste real sube mucho.",
+      notas: "15.000 km/año y carga diaria: energía 2,1 l/100 km × 1,85 €/l (ponderado WLTP); sin carga habitual el coste real sube mucho.",
       estimado: true
     },
     galeria: [
@@ -665,7 +665,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 153,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 14,7 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 14,7 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     galeria: [
@@ -748,7 +748,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 143,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 17 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 17 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     euroncap: {
@@ -838,7 +838,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 140,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 16,3 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 16,3 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     galeria: [
@@ -977,7 +977,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 207,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 21,9 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 21,9 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     galeria: [
@@ -1060,7 +1060,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 169,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 17,6 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 17,6 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     euroncap: {
@@ -1155,7 +1155,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 233,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 18,5 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
+      notas: "15.000 km/año: energía 18,5 kWh/100 km × 0,18 €/kWh (carga doméstica); en carga pública el coste por km se multiplica.",
       estimado: true
     },
     galeria: [
@@ -1240,7 +1240,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 244,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV compacto premium.",
+      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV compacto premium.",
       estimado: true
     },
     euroncap: {
@@ -1335,7 +1335,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 244,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV coupé compacto premium.",
+      notas: "15.000 km/año: energía 5,7 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV coupé compacto premium.",
       estimado: true
     },
     galeria: [
@@ -1418,7 +1418,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 298,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 6,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV medio premium.",
+      notas: "15.000 km/año: energía 6,9 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV medio premium.",
       estimado: true
     },
     euroncap: {
@@ -1508,7 +1508,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 363,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 8,5 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV grande premium.",
+      notas: "15.000 km/año: energía 8,5 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV grande premium.",
       estimado: true
     },
     galeria: [
@@ -1591,7 +1591,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 398,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año: energía 9,6 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV de lujo de 7 plazas.",
+      notas: "15.000 km/año: energía 9,6 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para SUV de lujo de 7 plazas.",
       estimado: true
     },
     galeria: [
@@ -1674,7 +1674,7 @@ export const COCHES_BMW: CocheComparador[] = [
       costeMensualTotal: 256,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 15.000 km/año y carga diaria: energía estimada ≈4,5 €/100 km (sin consumo WLTP publicado en las fuentes consultadas); seguro y mantenimiento de SUV de lujo.",
+      notas: "15.000 km/año y carga diaria: energía estimada ≈4,5 €/100 km (sin consumo WLTP publicado en las fuentes consultadas); seguro y mantenimiento de SUV de lujo.",
       estimado: true
     },
     euroncap: {
@@ -1769,7 +1769,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 335,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con uso mixto: 60 % eléctrico (22 kWh/100 km × 0,18 €/kWh) y 40 % gasolina (10 l/100 km × 1,60 €/l); 15.000 km/año; seguro a todo riesgo y mantenimiento orientativos de berlina deportiva",
+      "notas": "estimación con uso mixto: 60 % eléctrico (22 kWh/100 km × 0,18 €/kWh) y 40 % gasolina (10 l/100 km × 1,60 €/l); 15.000 km/año; todo riesgo y mantenimiento orientativos de berlina deportiva",
       "estimado": true
     },
     galeria: [
@@ -2012,7 +2012,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 347,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con consumo WLTP 7,5 l/100 km × 1,60 €/l; 15.000 km/año; seguro a todo riesgo y mantenimiento orientativos de compacto deportivo",
+      "notas": "estimación con consumo WLTP 7,5 l/100 km × 1,60 €/l; 15.000 km/año; todo riesgo y mantenimiento orientativos de compacto deportivo",
       "estimado": true
     },
     galeria: [
@@ -2095,7 +2095,7 @@ export const COCHES_BMW: CocheComparador[] = [
       "costeMensualTotal": 212,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.6,
-      "notas": "estimación con consumo WLTP 18,2 kWh/100 km × 0,18 €/kWh; 15.000 km/año; seguro a todo riesgo y mantenimiento orientativos de berlina ejecutiva",
+      "notas": "estimación con consumo WLTP 18,2 kWh/100 km × 0,18 €/kWh; 15.000 km/año; todo riesgo y mantenimiento orientativos de berlina ejecutiva",
       "estimado": true
     },
     galeria: [
@@ -2191,7 +2191,7 @@ export const COCHES_BMW: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado todavía"
+      nota: "Sin test EuroNCAP todavía"
     },
     planMantenimiento: null,
     mantenimientoDIY: null,
@@ -2242,7 +2242,7 @@ export const COCHES_BMW: CocheComparador[] = [
     contras: [
       "Prototipo cazado: todos los datos oficiales están pendientes",
       "Precio y potencia sin confirmar",
-      "Sin datos EuroNCAP: modelo no probado",
+      "Sin test EuroNCAP",
       "Sin plataforma eléctrica dedicada (usa la CLAR actualizada)",
     ],
     largoMm: null,

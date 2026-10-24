@@ -64,7 +64,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 170,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,5 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento y potencia",
+      "notas": "consumo WLTP 16,5 kWh/100 km; 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento y potencia",
       "estimado": true
     },
     galeria: [
@@ -145,7 +145,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 118,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 13,6 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 13,6 kWh/100 km; 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -226,7 +226,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 149,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 16,2 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento y potencia",
+      "notas": "consumo WLTP 16,2 kWh/100 km; 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento y potencia",
       "estimado": true
     },
     galeria: [
@@ -368,7 +368,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 130,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 14 kWh/100 km (km77); 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 14 kWh/100 km (km77); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -449,7 +449,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 129,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 12,7 kWh/100 km; 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 12,7 kWh/100 km; 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -604,7 +604,7 @@ export const COCHES_TESLA: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado ~16 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      "notas": "consumo estimado ~16 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [

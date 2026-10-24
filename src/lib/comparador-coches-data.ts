@@ -210,7 +210,7 @@ export interface CocheComparador {
     resetAceiteTitulo: string;      // ej. "Resetear aviso de aceite"
     resetAceitePasos: string[];     // pasos numerados específicos del modelo
     resetAceiteNota?: string;       // ej. "En algunas versiones requiere diagnosis OBD"
-    intervaloMantenimiento?: string; // ej. "15.000 km o 12 meses (lo que ocurra antes)" según marca oficial
+    intervaloMantenimiento?: string; // ej. "15.000 km o 12 meses" según marca oficial
     filtroPolenUbicacion: string;   // ej. "Detrás de la guantera"
     filtroPolenPasos: string[];     // pasos para cambiarlo
     filtroAirePasos?: string[];     // pasos para el filtro de aire del motor
@@ -222,11 +222,11 @@ export interface CocheComparador {
     estrellas: number | null;   // 0-5; null = sin prueba publicada
     ano: number | null;         // año de la prueba
     url: string | null;         // enlace oficial euroncap.com
-    nota?: string | null;       // ej. "Sin datos EuroNCAP: modelo no probado"
+    nota?: string | null;       // ej. "Sin test EuroNCAP"
   } | null;
   // ── Plan de mantenimiento oficial (OBLIGATORIO desde 2026-10-07, orden de Daniel) ──
   planMantenimiento?: {
-    intervalo: string;          // ej. "15.000 km o 12 meses (lo que ocurra antes)"
+    intervalo: string;          // ej. "15.000 km o 12 meses"
     revisiones: {               // qué se cambia en cada revisión
       nombre: string;           // ej. "Revisión anual / 15.000 km"
       queSeCambia: string;      // ej. "Aceite + filtro aceite + filtro polen + inspección"

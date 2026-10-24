@@ -94,15 +94,8 @@ export default function ProvinciaRadaresPage() {
         {radares.length > 0 ? (
           <>
             <p className="mt-4 text-base leading-relaxed text-gray-700">
-              En {p.nombre} tenemos fichados <strong>{radares.length} radares</strong> del listado
-              oficial{carreteras.length > 0 ? <> — entre otras vías, en la {carreteras.join(", la ")} —</> : null}.
-              Cada uno enlaza a su ficha con mapa, Street View y los datos exactos: carretera, punto
-              kilométrico, sentido de la marcha, tipo de radar, límite de velocidad y municipio.
-            </p>
-            <p className="mt-3 text-base leading-relaxed text-gray-700">
-              Si tu multa viene de uno de ellos, abre su ficha antes de pagar: allí verás qué
-              revisar (verificación metrológica en vigor, señalización del límite y foto que
-              identifique tu vehículo) y cómo analizar la denuncia gratis con nuestra IA.
+              {p.nombre}: <strong>{radares.length} radares</strong> del listado
+              oficial{carreteras.length > 0 ? <> ({carreteras.join(", ")})</> : null}.
             </p>
             <div className="mt-6 grid grid-cols-1 gap-2 sm:grid-cols-2">
               {radares.map((r) => (
@@ -125,35 +118,28 @@ export default function ProvinciaRadaresPage() {
           </>
         ) : (
           <p className="mt-4 text-base leading-relaxed text-gray-700">
-            En el listado oficial con el que trabajamos no consta ningún radar fijo, de tramo o de
-            cabina con ficha propia en {p.nombre}. No significa que no puedas recibir una multa de
-            radar aquí: los radares móviles no se publican en ningún listado. Si te ha llegado una
-            denuncia, analízala gratis con nuestra IA antes de pagarla.
+            {p.nombre}: 0 radares fijos, de tramo o de cabina en el listado oficial.
           </p>
         )}
 
-        <section className="mt-10 rounded-3xl border border-gray-200 bg-white p-5">
+        <nav aria-label="Multas en la provincia" className="mt-10 rounded-3xl border border-gray-200 bg-white p-5">
           <h2 className="flex items-center gap-2 text-lg font-black text-gray-900">
             <Shield className="h-5 w-5 text-red-600" /> ¿Una multa en {p.nombre}?
           </h2>
           <p className="mt-2 text-sm leading-relaxed text-gray-700">
-            En la página de{" "}
             <Link to={`/multas/${p.slug}/`} className="font-semibold text-red-600 hover:underline">
-              multas en {p.nombre}
-            </Link>{" "}
-            tienes el organismo que tramita las sanciones en la provincia, los plazos de alegaciones
-            y dónde presentar el recurso.
+              Multas en {p.nombre}
+            </Link>
             {ccaaSlug ? (
               <>
-                {" "}Y en{" "}
+                {" · "}
                 <Link to={`/comunidades/${ccaaSlug}/`} className="font-semibold text-red-600 hover:underline">
                   {p.ccaa}
-                </Link>{" "}
-                verás el marco completo de la comunidad autónoma.
+                </Link>
               </>
             ) : null}
           </p>
-        </section>
+        </nav>
 
         {hermanas.length > 0 ? (
           <section className="mt-10">

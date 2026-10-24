@@ -656,7 +656,7 @@ El GT3 (241.652 €) es el deportivo usable; el RS (286.470 €) es el arma de c
 ### ¿Se revaloriza?
 Históricamente, los 911 RS (996, 997, 991) han subido de precio en el mercado de colección. Nada está garantizado, pero el pedigrí acompaña.
 
-Un coche así pide circuito cerrado: en carretera, los límites son sagrados. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Un coche así pide circuito cerrado: en carretera, los límites son sagrados. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-gt3-models/>Porsche España — 911 GT3 RS</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
     `,
@@ -1374,7 +1374,7 @@ Menos: sin carga diaria, el consumo real sube y se pierde la gran ventaja del si
 ### ¿Y el Turbo E-Hybrid?
 El Turbo (680 CV, 211.318 €) es el capricho prestacional; el 4 E-Hybrid es la compra racional. Misma etiqueta, 76.000 € de diferencia.
 
-Con 280 km/h de punta y etiqueta Cero, que no te confundan: los límites son iguales para todos. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Con 280 km/h de punta y etiqueta Cero, que no te confundan: los límites son iguales para todos. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/panamera/panamera-models/>Porsche España — gama Panamera</a>, <a href=https://www.km77.com/coches/porsche/panamera>km77 — Porsche Panamera</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-panamera>hibridosyelectricos.com — Panamera E-Hybrid</a>.*
     `,
@@ -1464,7 +1464,7 @@ Homologa 3,5 l/100 km (WLTP), pero sin cargar a diario el V8 biturbo supera los 
 ### ¿Merece la pena frente al 4 E-Hybrid?
 El 4 E-Hybrid (470 CV, 135.065 €) es la compra racional; el Turbo añade 210 CV y el V8 por 76.000 € más. Solo para caprichosos... con muy buen gusto.
 
-315 km/h de máxima en una berlina familiar: la tentación es grande, la denuncia también. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+315 km/h de máxima en una berlina familiar: la tentación es grande, la denuncia también. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/panamera/panamera-models/>Porsche España — gama Panamera</a>, <a href=https://www.km77.com/coches/porsche/panamera>km77 — Porsche Panamera</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
@@ -1648,7 +1648,7 @@ El Cayenne (120.307 €) es más grande, más versátil y también lleva etiquet
 ### ¿Tiene 7 plazas?
 No: el Macan es estrictamente de **5 plazas**. Para 7 plazas hay que mirar a otras marcas.
 
-3,3 segundos hasta los 100: en ciudad, eso es denuncia casi segura si te pasas. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+3,3 segundos hasta los 100: en ciudad, eso es denuncia casi segura si te pasas. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/macan/macan-electric-models/>Porsche España — Macan Electric</a>, <a href=https://www.km77.com/coches/porsche/macan>km77 — Porsche Macan</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
@@ -1832,7 +1832,7 @@ Pierde su gran baza: sin carga diaria, el consumo real sube por encima de los 10
 ### ¿E-Hybrid o Turbo E-Hybrid?
 El E-Hybrid (470 CV, 120.307 €) es el equilibrado; el Turbo (740 CV, 192.942 €) es el despropósito maravilloso. Entre medias, 72.000 € de diferencia.
 
-254 km/h de máxima con etiqueta Cero: la DGT no distingue. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+254 km/h de máxima con etiqueta Cero: la DGT no distingue. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-cayenne>hibridosyelectricos.com — Cayenne E-Hybrid</a>.*
     `,
@@ -2013,7 +2013,7 @@ Homologa 4,7 l/100 km (WLTP), pero sin carga diaria el V8 biturbo supera los **1
 ### ¿Merece la pena frente al E-Hybrid normal?
 El E-Hybrid (470 CV, 120.307 €) es el racional; el Turbo añade 270 CV, el V8 y 72.000 € a la factura. Puro capricho... glorioso capricho.
 
-740 CV y 2,6 toneladas: una combinación que la DGT vigila de cerca. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+740 CV y 2,6 toneladas: una combinación que la DGT vigila de cerca. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
@@ -2103,7 +2103,7 @@ No: es una **capota manual ultraligera** de dos piezas. Purismo total... e incom
 ### ¿Se revalorizará?
 Todo apunta a que sí: último roadster atmosférico de Porsche, motor de GT3, producción limitada y fin de la combustión en el 718. Los ingredientes del clásico futuro están todos.
 
-Un roadster así pide carreteras de curvas... y respeto a los límites. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Un roadster así pide carreteras de curvas... y respeto a los límites. 
 
 *Fuentes: <a href=https://www.porsche.com/spain/es/models/718/718-spyder-rs/>Porsche España — 718 Spyder RS</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/718>km77 — Porsche 718</a>.*
     `,

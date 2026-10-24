@@ -436,7 +436,7 @@ export default function ComunidadPage() {
                 </tbody>
               </table>
             </div>
-            <p className="text-xs text-gray-500">Si pagas dentro de los primeros 20 días naturales obtienes un 50% de descuento por pronto pago, pero renuncias a recurrir la sanción.</p>
+            <p className="text-xs text-gray-500">Alegaciones: 20 días naturales desde la notificación. Pronto pago: −50 % (renuncia al recurso). Impago: vía ejecutiva, recargo del 20 %.</p>
           </section>
 
           {/* FAQ */}
@@ -489,7 +489,7 @@ export default function ComunidadPage() {
           )}
 
           {/* Guías relacionadas */}
-          <section className="rounded-2xl border border-gray-200 bg-white p-4 md:p-6 space-y-3">
+          <nav aria-label="Guías relacionadas" className="rounded-2xl border border-gray-200 bg-white p-4 md:p-6 space-y-3">
             <h2 className="text-lg md:text-xl font-black text-gray-900">Guías relacionadas</h2>
             <ul className="space-y-2 text-sm">
               <li><Link to="/blog/como-recurrir-multa-dgt-sin-abogado/" className="text-red-700 underline">Cómo recurrir una multa de la DGT sin abogado</Link></li>
@@ -500,10 +500,10 @@ export default function ComunidadPage() {
               <li><Link to="/guias/radares/" className="text-red-700 underline">Guía: radares de tráfico y cómo recurrir sus multas</Link></li>
               <li><Link to="/herramientas/" className="text-red-700 underline">Herramientas gratis: calculadoras y conversores</Link></li>
             </ul>
-          </section>
+          </nav>
 
           {/* Otras comunidades */}
-          <div className="space-y-3">
+          <nav aria-label="Otras comunidades" className="space-y-3">
             <p className="text-xs font-bold uppercase tracking-widest text-gray-400">Otras comunidades autónomas</p>
             <div className="flex flex-wrap gap-2">
               {otrasComunidades.map((o) => (
@@ -516,7 +516,7 @@ export default function ComunidadPage() {
                 </Link>
               ))}
             </div>
-          </div>
+          </nav>
 
         </div>
       </main>

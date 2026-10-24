@@ -76,7 +76,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "No publicado para Europa (modelo no comercializado en España)",
@@ -168,7 +168,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 188,
       notas:
-        "Estimación con 15.000 km/año, consumo eléctrico declarado de 22,2 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. En viajes largos con el generador 1.5T el coste de gasolina es adicional. Modelo solo a la venta en China y Rusia; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo eléctrico declarado de 22,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. En viajes largos con el generador 1.5T el coste de gasolina es adicional. Modelo solo a la venta en China y Rusia; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -195,7 +195,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "No publicado en abierto fuera de China (motor 1.5T como generador)",
@@ -406,7 +406,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP.",
+      nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
@@ -483,7 +483,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 212,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 20 kWh/100 km (Nio no publica WLTP), recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo estimado de 20 kWh/100 km (Nio no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -510,7 +510,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "Sin mantenimiento térmico; inspecciones periódicas según manual Nio China (no publicado en abierto)",
@@ -637,7 +637,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 159,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado de 17 kWh/100 km (Stelato no publica WLTP), recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
+        "15.000 km/año, consumo estimado de 17 kWh/100 km (Stelato no publica WLTP), 0,18 €/kWh (doméstica) y todo riesgo. Modelo solo a la venta en China; precio al cambio del 18/10/2026.",
       estimado: true,
     },
     galeria: [
@@ -664,7 +664,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado (18/10/2026)",
+      nota: "Sin test EuroNCAP (18/10/2026)",
     },
     planMantenimiento: {
       intervalo: "Sin mantenimiento térmico; inspecciones periódicas según manual Huawei/BAIC China (no publicado en abierto)",
@@ -865,7 +865,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "No publicado para Europa (modelo no comercializado en España)",

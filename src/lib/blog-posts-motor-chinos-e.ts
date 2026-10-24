@@ -201,7 +201,7 @@ El 4 es más alto, más largo y más práctico (más maletero, 5 plazas más des
 ### ¿Tiene etiqueta CERO de la DGT?
 Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. 
 
 ## Fuentes
 
@@ -402,7 +402,7 @@ Es un urbano: 130 km/h de máxima y 250 km de autonomía. Para ciudad y alrededo
 ### ¿Merece la pena frente al Citroën ë-C3?
 El ë-C3 ofrece más autonomía (320 km) y 5 plazas, pero cuesta unos 5.000 € más. Si buscas el eléctrico más barato posible y te mueves por ciudad, el Spring sigue sin rival en precio.
 
-Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>. Si te cazan, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis</a> antes de pagar.
+Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>. 
 
 ## Fuentes
 

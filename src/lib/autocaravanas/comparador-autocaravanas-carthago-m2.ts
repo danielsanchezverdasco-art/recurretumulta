@@ -111,7 +111,7 @@ Perfil de comprador: la C-Compactline I 138 DB encaja con parejas o familias peq
     analisisSlug: "carthago-c-compactline-i-138-db-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -237,7 +237,7 @@ Perfil de comprador: el C-Tourer T 145 RB LE encaja con parejas viajeras que hac
     analisisSlug: "carthago-c-tourer-t-145-rb-le-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

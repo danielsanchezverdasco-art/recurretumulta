@@ -123,7 +123,7 @@ Para quién es: la Hobby Optima OnTour Edition F V65 GE es para la pareja que qu
     analisisSlug: "hobby-optima-ontour-edition-f-v65-ge-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

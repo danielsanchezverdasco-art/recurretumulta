@@ -223,7 +223,7 @@ El BaaS baja el precio de acceso (390.000 yuanes frente a 498.000 con batería e
 - <a href=https://www.youtube.com/watch?v=0fegZZGZGdM>prueba en vídeo del NIO ES9 (YouTube)</a>
 - <a href=https://www.tiktok.com/@solkuno/video/7626695858117086477>Solkuno en TikTok</a>
 
-Si conduces una bestia así, un despiste con el acelerador sale caro. ¿Te ha llegado una multa? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.`
+Si conduces una bestia así, un despiste con el acelerador sale caro. `
   },
   {
     "title": "Lotus Eletre R+: 918 CV que humillan al Lamborghini",

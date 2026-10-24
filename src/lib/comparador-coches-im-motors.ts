@@ -69,7 +69,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 124,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio convertido desde la tarifa china (219.900 yuanes); la autonomía es ciclo CLTC.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde la tarifa china (219.900 yuanes); la autonomía es ciclo CLTC.",
       estimado: true,
     },
     galeria: [
@@ -137,7 +137,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 132,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio convertido desde la tarifa china (299.900 yuanes); la autonomía es ciclo CLTC.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde la tarifa china (299.900 yuanes); la autonomía es ciclo CLTC.",
       estimado: true,
     },
     galeria: [
@@ -205,7 +205,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 147,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio convertido desde la tarifa china (329.900 yuanes); la autonomía es ciclo CLTC.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio convertido desde la tarifa china (329.900 yuanes); la autonomía es ciclo CLTC.",
       estimado: true,
     },
     galeria: [

@@ -109,7 +109,7 @@ export const AUTOCARAVANAS_RAPIDO_M2: Autocaravana[] = [
     analisisSlug: "rapido-v62-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2: revisión cada 2 años o 40.000 km (según plan Peugeot)",
+        "Peugeot Boxer 2.2: 2 años / 40.000 km (según plan Peugeot)",
       revisiones: [
         {
           nombre: "Revisión Boxer (2 años / 40.000 km)",

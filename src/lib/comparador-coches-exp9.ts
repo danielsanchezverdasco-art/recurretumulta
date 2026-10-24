@@ -1486,7 +1486,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
@@ -2082,7 +2082,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLA (H247) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 300 },
         { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
@@ -2165,7 +2165,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLE (V167 / 2026) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 350 },
         { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 550 },

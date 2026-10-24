@@ -93,7 +93,7 @@ BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.0
 
 *Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",
@@ -178,7 +178,7 @@ Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y
 
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html>hibridosyelectricos.com (22/10/2026)</a>, <a href=https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/>nota de prensa oficial Lexus</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",
@@ -261,7 +261,7 @@ Omoda lo define como un **producto global**, así que es probable que llegue a E
 
 *Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",
@@ -333,6 +333,6 @@ Sin precio oficial. Por posicionamiento (sucesor espiritual del LFA, rival del T
 
 *Fuentes: <a href=https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/>thesupercarblog.com (22/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
 ];

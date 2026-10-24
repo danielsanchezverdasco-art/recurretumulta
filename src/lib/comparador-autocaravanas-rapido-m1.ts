@@ -89,7 +89,7 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     analisisSlug: "rapido-606f-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan del fabricante del portador)",
+        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión del portador (2 años / 40.000 km)",

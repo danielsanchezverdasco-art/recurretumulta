@@ -130,7 +130,7 @@ export const AUTOCARAVANAS_PILOTE_M5: Autocaravana[] = [
     analisisSlug: "pilote-p740fc-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 40.000 km (lo que antes ocurra, según plan Fiat)",
+        "Base Fiat Ducato: 2 años / 40.000 km (lo que antes ocurra, según plan Fiat)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat Ducato)",

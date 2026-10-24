@@ -68,7 +68,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -148,7 +148,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -229,7 +229,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -309,7 +309,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -389,7 +389,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -469,7 +469,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -549,7 +549,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -629,7 +629,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -709,7 +709,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -869,7 +869,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srt-300dx/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -949,7 +949,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1109,7 +1109,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1189,7 +1189,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/cov-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1269,7 +1269,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1349,7 +1349,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/modelos/sr16/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1429,7 +1429,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1509,7 +1509,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1584,7 +1584,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1659,7 +1659,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1734,7 +1734,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",

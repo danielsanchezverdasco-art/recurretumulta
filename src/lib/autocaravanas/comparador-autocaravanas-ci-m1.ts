@@ -152,7 +152,7 @@ Para quién es: el CI Horon 84 XT es para la familia de cuatro o cinco que quier
     analisisSlug: "ci-horon-84-xt-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit 2.0: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

@@ -137,7 +137,7 @@ El HS Hybrid+ se suma a la ofensiva de los híbridos chinos en España que conta
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el MG HS Hybrid+ en España?
-Desde **29.990 €** (Comfort) y 32.490 € (Luxury), con campaña de lanzamiento de hasta 4.000 € de descuento y seguro a todo riesgo gratis.
+Desde **29.990 €** (Comfort) y 32.490 € (Luxury), con campaña de lanzamiento de hasta 4.000 € de descuento; todo riesgo gratis.
 
 ### ¿Qué potencia tiene el MG HS Hybrid+?
 **225 CV** (165 kW) combinados, con un 0-100 km/h en 7,9 segundos.

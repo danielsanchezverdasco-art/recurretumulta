@@ -68,7 +68,7 @@ export const COCHES_DELAGE: CocheComparador[] = [
       mantenimientoAnual: 6000,
       costeMensualTotal: 2070,
       notas:
-        "Estimación con 15.000 km/año y un consumo estimado de 16 l/100 km (la marca no homologa cifra WLTP). Hiperdeportivo de 30 unidades: el seguro a todo riesgo y el mantenimiento del V12 dominan el coste.",
+        "15.000 km/año y un consumo estimado de 16 l/100 km (la marca no homologa cifra WLTP). Hiperdeportivo de 30 unidades: el seguro a todo riesgo y el mantenimiento del V12 dominan el coste.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_DELAGE: CocheComparador[] = [
       mantenimientoAnual: 6000,
       costeMensualTotal: 2070,
       notas:
-        "Estimación con 15.000 km/año y un consumo estimado de 16 l/100 km (la marca no homologa cifra WLTP). Hiperdeportivo de 30 unidades: el seguro a todo riesgo y el mantenimiento del V12 dominan el coste.",
+        "15.000 km/año y un consumo estimado de 16 l/100 km (la marca no homologa cifra WLTP). Hiperdeportivo de 30 unidades: el seguro a todo riesgo y el mantenimiento del V12 dominan el coste.",
       estimado: true,
     },
     galeria: [

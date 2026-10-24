@@ -77,7 +77,7 @@ Si valoras la frenada y la suspensión, sí: el sobreprecio se amortiza solo con
 - <a href=http://moteo.es/kawasaki-z900-2025-ficha-tecnica-precio-y-fotos/>Moteo — Kawasaki Z900 2025: ficha técnica, precio y fotos</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z900-se/>Motorbikemag — ficha técnica Kawasaki Z900 SE</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Kawasaki Ninja 1100SX SE 2026: sport-turismo",
@@ -154,7 +154,7 @@ Sí: es su razón de ser. Posición erguida, carenado protector y asiento pensad
 - <a href=https://www.motofichas.com/marcas/kawasaki>Motofichas — catálogo Kawasaki: precios y fichas</a>
 - <a href=https://www.motosan.es/motos/kawasaki-ninja-1100sx-se-la-ninja-que-convierte-cada-viaje-en-una-carretera-de-curvas/>Motosan — Kawasaki Ninja 1100SX SE: la Ninja que convierte cada viaje en una carretera de curvas</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Kawasaki Meguro S1 2026: la retro japonesa",
@@ -223,7 +223,7 @@ Solo 143 kg, de las más ligeras con marchas.
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/kawasaki>Motofichas — catálogo Kawasaki: precios y fichas</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Kawasaki W800 2024: la clásica de verdad",
@@ -295,7 +295,7 @@ No: ni modos ni control de tracción. Solo ABS, inyección y embrague antirrebot
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/kawasaki/w800-2024>Motofichas — Kawasaki W800 2024: precio y ficha técnica</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Kawasaki Z500 SE 2025: naked A2 con TFT",
@@ -407,7 +407,7 @@ Sí, sin limitación: tiene 45,4 CV y el límite son 47,6 CV.
 - <a href=https://foromotos.net/threads/ficha-técnica-kawasaki-z500-se-2025.13151/>ForoMotos — Ficha técnica Kawasaki Z500 SE 2025</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z500-2024/>Motorbikemag — ficha técnica Kawasaki Z500</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Suzuki GSX-8R 2026: deportiva para el A2",
@@ -482,7 +482,7 @@ Horquilla invertida Showa SFF-BP delante y monoamortiguador con precarga detrás
 - <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/suzuki-gsx-8r-2024/>Motorbikemag — Suzuki GSX-8R: precio, fotos y ficha técnica</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Suzuki GSX-8S 2026: la naked bicilíndrica",
@@ -553,7 +553,7 @@ La 8S es naked y la 8R es la versión carenada deportiva; comparten chasis y mot
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Suzuki SV-7GX 2026: la SV se hace crossover",
@@ -625,7 +625,7 @@ Es su planteamiento: posición erguida, pantalla regulable y depósito de más d
 - <a href=https://espanatimes.com/2026/09/21/el-v2-de-645-cc-vuelve-con-73-cv-y-quickshifter-por-7-999-euros/>España Times — el V2 de 645 cc vuelve con 73 CV y quickshifter por 7.999 €</a>
 - <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Suzuki V-Strom 800RE 2025: trail asfáltica",
@@ -734,7 +734,7 @@ Unos 400 km gracias a los 20 litros y un consumo de 4,4 l/100 km.
 *Fuentes:*
 - <a href=https://lamoto.com.ar/noticias/suzuki-v-strom-800re-precio-detalles/>La Moto — Suzuki V-Strom 800RE: fotos, potencia, precio y más</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 - <a href=https://www.globalsuzuki.com/motorcycle/smgs/products/2024v-strom800/>Suzuki Global — V-Strom 800 oficial: motor de 776 cc, llanta delantera de 19 pulgadas y pinzas radiales</a>`,
   },
   {
@@ -810,7 +810,7 @@ Más de lo que parece: posición relativamente cómoda, 20 litros y control de c
 - <a href=https://www.motofichas.com/marcas/suzuki/hayabusa-1300>Motofichas — Suzuki Hayabusa 1300 2025-2026: precio y ficha técnica</a>
 - <a href=https://soymotero.net/noticia/nueva-suzuki-hayabusa-edicion-especial-2026/>Soymotero — la Suzuki Hayabusa Edición Especial 2026 llega a España</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "KTM 790 Duke 2024: vuelve 'La Scalpel'",
@@ -821,7 +821,7 @@ Más de lo que parece: posición relativamente cómoda, 20 litros y control de c
     readTime: 7,
     locale: "all",
     keywords: ["KTM 790 Duke", "790 Duke 2024 precio", "KTM 790 Duke ficha técnica", "naked 105 CV", "La Scalpel KTM", "790 Duke A2"],
-    content: `<img src=/media/motos/ktm-790-duke-2024-ficha-tecnica-precio-hero.webp alt=KTM 790 Duke 2024 naranja, naked deportiva 'La Scalpel'>\n\nLa <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio/>KTM 790 Duke 2024</a> marcó el regreso de "La Scalpel", la naked con la que KTM redefinió el segmento medio en 2017. El relanzamiento de 2023 la trajo de vuelta con el bicilíndrico LC8c de 799 cc y 105 CV, electrónica con IMU y un peso de 174 kg, por 9.549 €. Afilada como un bisturí.\n\n## Ficha técnica resumida\n\n| Dato | KTM 790 Duke 2024 |\n|---|---|\n| Motor | 2 cilindros en paralelo LC8c, 799 cc |\n| Potencia | 77 kW (105 CV) a 9.000 rpm |\n| Par | 86 Nm a 8.000 rpm |\n| Peso | 174 kg en orden de marcha |\n| Depósito | 14 litros |\n| Electrónica | IMU, MTC, ABS en curva, 4 modos, quickshifter |\n| Suspensiones | WP APEX |\n| Pantalla | TFT de 5 pulgadas |\n| Precio | 9.549 € |\n| Carnet | A (limitable a A2 con kit) |\n\n## El bisturí original\n\nLa 790 Duke nació en 2017 como la naked media definitiva: 105 CV en 169 kg de entonces, con una agilidad quirúrgica que le valió el apodo. Tras unos años de ausencia, volvió en 2023 con la electrónica puesta al día: control de tracción MTC sensible a la inclinación, ABS en curva, anti-wheelie, launch control y cuatro modos de conducción (Rain, Street, Sport y Track).\n\nEl LC8c empuja con contundencia desde abajo gracias a sus 86 Nm, y el chasis multitubular con suspensiones WP APEX mantiene la precisión legendaria. Es una moto que invita a buscar la curva siguiente.\n\n<img src=/media/motos/ktm-790-duke-2024-ficha-tecnica-precio-oficial.webp alt=KTM 790 Duke 2024 naranja, naked deportiva 'La Scalpel'>\n\n## Lo que cuesta la precisión\n\nEl depósito de 14 litros limita la autonomía y el quickshifter y el control de crucero son opcionales de pago, algo mejorable por 9.549 €. A cambio, ofrece un paquete electrónico que sus rivales japonesas no igualan a este precio, y una garantía oficial KTM de <strong>4 años</strong> en la gama Street.\n\n## Mantenimiento\n\nRevisiones cada 15.000 km según el plan KTM (con control anual). El bicilíndrico es robusto y los consumibles tienen precio medio. La garantía de 4 años es un argumento de peso frente a la competencia.\n\n## Precio y rivales\n\nCuesta <strong>9.549 €</strong>. Sus rivales son la <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio/>Yamaha MT-09 2025</a>, la <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio/>Triumph Street Triple 765 2024</a> y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio/>KTM 990 Duke 2024</a>, su hermana mayor. La 790 gana en precio y agilidad; pierde en potencia bruta.\n\n## De dónde viene la 790 Duke: el hueco que KTM quiso recuperar\n\nLa primera 790 Duke apareció en 2017 con el primer bicilíndrico en paralelo de KTM, el LC8c. Después la gama creció hacia arriba y el modelo perdió protagonismo, hasta que KTM lo recuperó en 2023 y lo mantuvo en 2024. La intención es clara: ofrecer el carácter Scalpel por debajo de 10.000 € sin obligar a saltar a una Duke mayor. Puedes contrastar los datos declarados en la <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio/>ficha completa de la KTM 790 Duke 2024</a>.\n\n## El LC8c y la parte ciclo, sin adornos\n\nEl LC8c es un bicilíndrico en paralelo de **799 cc** con refrigeración líquida, gestión Bosch, acelerador electrónico y cambio de seis marchas. Esta casa recoge **105 CV a 9.000 rpm y 86 Nm a 8.000 rpm**; KTM comunica 87 Nm en su material oficial de 2024. El motor actúa como elemento portante del chasis de acero al cromo-molibdeno, clave en los **174 kg** declarados.\n\n| Elemento | Dato de la 790 Duke 2024 |\n|---|---|\n| Horquilla | WP APEX invertida de 43 mm, 140 mm |\n| Amortiguador | WP APEX, 150 mm de recorrido |\n| Frenos | Doble disco de 300 mm delante, 240 mm detrás |\n| Asiento | 825 mm de altura |\n| Cadena | 520 con retenes en X |\n| Modos | Rain, Street y Sport, Track opcional |\n\nLa electrónica gira en torno a la IMU: tracción sensible a la inclinación, ABS en curva con modo Supermoto y anti-wheelie, todo gestionado desde la TFT de 5 pulgadas.\n\n## Uso real: brillante en puertos, justa para viajar\n\nEn trayectos cortos y salidas de curvas encaja muy bien: es estrecha, cambia de dirección con poca inercia y el bicilíndrico empuja desde abajo. Sus límites también son claros. El depósito de **14 litros** y la autonomía estimada de 250-280 km obligan a planificar rutas largas; no hay protección contra el viento, el asiento de 825 mm puede resultar alto para pilotos bajos y las vibraciones a medio régimen, señaladas en su ficha, se notan en autovía. Como moto única sirve si tu uso principal no es viajar lejos a dúo con equipaje. Entre salida y salida, haz una pausa con <a href=/juego-monos/>la caza de monos escondidos tras cada curva de la Scalpel naranja</a>.\n\n## Mantenimiento y costes: certezas y huecos\n\nEl plan citado en este artículo fija revisiones cada **15.000 km, con control anual**, y la garantía oficial KTM es de **4 años** en la gama Street. El resto no admite tarifas inventadas: cadena, pastillas, neumáticos deportivos y líquidos son consumibles cuyo importe depende del taller y de tu ritmo. Ojo: quickshifter y control de crucero son opcionales de pago sobre los 9.549 € de base.\n\n## Carnet e ITV: A para la de 105 CV, matiz en el A2\n\nLa versión de 105 CV exige el **carnet A**. KTM ofrece además en Europa una variante de **95 CV** para titulares del A2, que es la base que permite limitar a 35 kW; no des por hecho que cualquier unidad de 105 CV se puede limitar sin comprobar su versión y su ficha técnica. En España, una motocicleta así pasa la primera ITV a los cuatro años de matricularse y después cada dos años, con atención a frenos, alumbrado, neumáticos, transmisión y emisiones. La limitación debe ir correctamente anotada y el escape, homologado.\n\n## Rivales y veredicto: ligereza frente a potencia\n\nLa <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio/>Yamaha MT-09 2025</a> declara en su ficha 119 CV y 193 kg por 11.299 € orientativos: más potencia, más peso y más precio que los 9.549 € de la KTM. La <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio/>Triumph Street Triple 765 2024</a> sube a 120 CV y 189 kg por 10.795 €, y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio/>KTM 990 Duke 2024</a> juega otra liga con 123 CV, 190 kg y 15.699 €. La 790 no gana por cifras absolutas; gana cuando mandan agilidad, electrónica y precio.\n\n**Veredicto:** ¿merece la pena? Sí, en especial para quien tenga el carnet A y busque una naked media ligera y precisa para carretera de curvas sin pasar de 10.000 € de base, y también en su variante de 95 CV si vienes del A2. No, si tu prioridad es viajar lejos a dúo, si prefieres la entrega de un tricilíndrico o si necesitas limitar una unidad concreta de 105 CV sin verificar antes su homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta la KTM 790 Duke 2024?\n9.549 € en España.\n\n### ¿Por qué la llaman 'La Scalpel'?\nPor su precisión quirúrgica en curva: fue su apodo desde el lanzamiento en 2017.\n\n### ¿Se puede llevar con el A2?\nSí, con el kit de limitación oficial a 35 kW.\n\n### ¿Cuánto pesa?\n174 kg en orden de marcha.\n\n### ¿Qué garantía tiene?\n4 años de garantía oficial KTM en la gama Street.\n\n### ¿Qué autonomía tiene?\nCon 14 litros y un consumo realista, unos 250-280 km.\n\n*Fuentes:, <a href=https://www.ktm.com>web oficial de KTM</a>*\n- <a href=https://www.motorbikemag.es/ficha-tecnica/ktm-790-duke-2024/>Motorbikemag — KTM 790 Duke 2024: precio y ficha técnica</a>\n- <a href=http://moteo.es/ktm-790-duke-2024-precio-ficha-tecnica/>Moteo — KTM 790 Duke 2024: precio, ficha técnica y fotos</a>\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+    content: `<img src=/media/motos/ktm-790-duke-2024-ficha-tecnica-precio-hero.webp alt=KTM 790 Duke 2024 naranja, naked deportiva 'La Scalpel'>\n\nLa <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio/>KTM 790 Duke 2024</a> marcó el regreso de "La Scalpel", la naked con la que KTM redefinió el segmento medio en 2017. El relanzamiento de 2023 la trajo de vuelta con el bicilíndrico LC8c de 799 cc y 105 CV, electrónica con IMU y un peso de 174 kg, por 9.549 €. Afilada como un bisturí.\n\n## Ficha técnica resumida\n\n| Dato | KTM 790 Duke 2024 |\n|---|---|\n| Motor | 2 cilindros en paralelo LC8c, 799 cc |\n| Potencia | 77 kW (105 CV) a 9.000 rpm |\n| Par | 86 Nm a 8.000 rpm |\n| Peso | 174 kg en orden de marcha |\n| Depósito | 14 litros |\n| Electrónica | IMU, MTC, ABS en curva, 4 modos, quickshifter |\n| Suspensiones | WP APEX |\n| Pantalla | TFT de 5 pulgadas |\n| Precio | 9.549 € |\n| Carnet | A (limitable a A2 con kit) |\n\n## El bisturí original\n\nLa 790 Duke nació en 2017 como la naked media definitiva: 105 CV en 169 kg de entonces, con una agilidad quirúrgica que le valió el apodo. Tras unos años de ausencia, volvió en 2023 con la electrónica puesta al día: control de tracción MTC sensible a la inclinación, ABS en curva, anti-wheelie, launch control y cuatro modos de conducción (Rain, Street, Sport y Track).\n\nEl LC8c empuja con contundencia desde abajo gracias a sus 86 Nm, y el chasis multitubular con suspensiones WP APEX mantiene la precisión legendaria. Es una moto que invita a buscar la curva siguiente.\n\n<img src=/media/motos/ktm-790-duke-2024-ficha-tecnica-precio-oficial.webp alt=KTM 790 Duke 2024 naranja, naked deportiva 'La Scalpel'>\n\n## Lo que cuesta la precisión\n\nEl depósito de 14 litros limita la autonomía y el quickshifter y el control de crucero son opcionales de pago, algo mejorable por 9.549 €. A cambio, ofrece un paquete electrónico que sus rivales japonesas no igualan a este precio, y una garantía oficial KTM de <strong>4 años</strong> en la gama Street.\n\n## Mantenimiento\n\nRevisiones cada 15.000 km según el plan KTM (con control anual). El bicilíndrico es robusto y los consumibles tienen precio medio. La garantía de 4 años es un argumento de peso frente a la competencia.\n\n## Precio y rivales\n\nCuesta <strong>9.549 €</strong>. Sus rivales son la <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio/>Yamaha MT-09 2025</a>, la <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio/>Triumph Street Triple 765 2024</a> y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio/>KTM 990 Duke 2024</a>, su hermana mayor. La 790 gana en precio y agilidad; pierde en potencia bruta.\n\n## De dónde viene la 790 Duke: el hueco que KTM quiso recuperar\n\nLa primera 790 Duke apareció en 2017 con el primer bicilíndrico en paralelo de KTM, el LC8c. Después la gama creció hacia arriba y el modelo perdió protagonismo, hasta que KTM lo recuperó en 2023 y lo mantuvo en 2024. La intención es clara: ofrecer el carácter Scalpel por debajo de 10.000 € sin obligar a saltar a una Duke mayor. Puedes contrastar los datos declarados en la <a href=/motos/ktm-790-duke-2024-ficha-tecnica-precio/>ficha completa de la KTM 790 Duke 2024</a>.\n\n## El LC8c y la parte ciclo, sin adornos\n\nEl LC8c es un bicilíndrico en paralelo de **799 cc** con refrigeración líquida, gestión Bosch, acelerador electrónico y cambio de seis marchas. Esta casa recoge **105 CV a 9.000 rpm y 86 Nm a 8.000 rpm**; KTM comunica 87 Nm en su material oficial de 2024. El motor actúa como elemento portante del chasis de acero al cromo-molibdeno, clave en los **174 kg** declarados.\n\n| Elemento | Dato de la 790 Duke 2024 |\n|---|---|\n| Horquilla | WP APEX invertida de 43 mm, 140 mm |\n| Amortiguador | WP APEX, 150 mm de recorrido |\n| Frenos | Doble disco de 300 mm delante, 240 mm detrás |\n| Asiento | 825 mm de altura |\n| Cadena | 520 con retenes en X |\n| Modos | Rain, Street y Sport, Track opcional |\n\nLa electrónica gira en torno a la IMU: tracción sensible a la inclinación, ABS en curva con modo Supermoto y anti-wheelie, todo gestionado desde la TFT de 5 pulgadas.\n\n## Uso real: brillante en puertos, justa para viajar\n\nEn trayectos cortos y salidas de curvas encaja muy bien: es estrecha, cambia de dirección con poca inercia y el bicilíndrico empuja desde abajo. Sus límites también son claros. El depósito de **14 litros** y la autonomía estimada de 250-280 km obligan a planificar rutas largas; no hay protección contra el viento, el asiento de 825 mm puede resultar alto para pilotos bajos y las vibraciones a medio régimen, señaladas en su ficha, se notan en autovía. Como moto única sirve si tu uso principal no es viajar lejos a dúo con equipaje. Entre salida y salida, haz una pausa con <a href=/juego-monos/>la caza de monos escondidos tras cada curva de la Scalpel naranja</a>.\n\n## Mantenimiento y costes: certezas y huecos\n\nEl plan citado en este artículo fija revisiones cada **15.000 km, con control anual**, y la garantía oficial KTM es de **4 años** en la gama Street. El resto no admite tarifas inventadas: cadena, pastillas, neumáticos deportivos y líquidos son consumibles cuyo importe depende del taller y de tu ritmo. Ojo: quickshifter y control de crucero son opcionales de pago sobre los 9.549 € de base.\n\n## Carnet e ITV: A para la de 105 CV, matiz en el A2\n\nLa versión de 105 CV exige el **carnet A**. KTM ofrece además en Europa una variante de **95 CV** para titulares del A2, que es la base que permite limitar a 35 kW; no des por hecho que cualquier unidad de 105 CV se puede limitar sin comprobar su versión y su ficha técnica. En España, una motocicleta así pasa la primera ITV a los cuatro años de matricularse y después cada dos años, con atención a frenos, alumbrado, neumáticos, transmisión y emisiones. La limitación debe ir correctamente anotada y el escape, homologado.\n\n## Rivales y veredicto: ligereza frente a potencia\n\nLa <a href=/motos/yamaha-mt-09-2025-ficha-tecnica-precio/>Yamaha MT-09 2025</a> declara en su ficha 119 CV y 193 kg por 11.299 € orientativos: más potencia, más peso y más precio que los 9.549 € de la KTM. La <a href=/motos/triumph-street-triple-765-2024-ficha-tecnica-precio/>Triumph Street Triple 765 2024</a> sube a 120 CV y 189 kg por 10.795 €, y la <a href=/motos/ktm-990-duke-2024-ficha-tecnica-precio/>KTM 990 Duke 2024</a> juega otra liga con 123 CV, 190 kg y 15.699 €. La 790 no gana por cifras absolutas; gana cuando mandan agilidad, electrónica y precio.\n\n**Veredicto:** ¿merece la pena? Sí, en especial para quien tenga el carnet A y busque una naked media ligera y precisa para carretera de curvas sin pasar de 10.000 € de base, y también en su variante de 95 CV si vienes del A2. No, si tu prioridad es viajar lejos a dúo, si prefieres la entrega de un tricilíndrico o si necesitas limitar una unidad concreta de 105 CV sin verificar antes su homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta la KTM 790 Duke 2024?\n9.549 € en España.\n\n### ¿Por qué la llaman 'La Scalpel'?\nPor su precisión quirúrgica en curva: fue su apodo desde el lanzamiento en 2017.\n\n### ¿Se puede llevar con el A2?\nSí, con el kit de limitación oficial a 35 kW.\n\n### ¿Cuánto pesa?\n174 kg en orden de marcha.\n\n### ¿Qué garantía tiene?\n4 años de garantía oficial KTM en la gama Street.\n\n### ¿Qué autonomía tiene?\nCon 14 litros y un consumo realista, unos 250-280 km.\n\n*Fuentes:, <a href=https://www.ktm.com>web oficial de KTM</a>*\n- <a href=https://www.motorbikemag.es/ficha-tecnica/ktm-790-duke-2024/>Motorbikemag — KTM 790 Duke 2024: precio y ficha técnica</a>\n- <a href=http://moteo.es/ktm-790-duke-2024-precio-ficha-tecnica/>Moteo — KTM 790 Duke 2024: precio, ficha técnica y fotos</a>\n\n**¿Te han puesto una multa?**`,
   },
   {
     title: "KTM 390 Duke 2025: 45 CV para el A2",
@@ -925,7 +925,7 @@ No: unos 3,4-3,8 l/100 km en uso real.
 - <a href=https://www.motoplanete.es/ktm/11028/390-Duke-2025/contact.html>Motoplanete — KTM 390 Duke 2025: ficha, precio y opinión</a>
 - <a href=https://www.plusmoto.com/ktm-390-duke-2025-que-cambia-respecto-a-la-anterior-y-a-quien-le-encaja.html>Plusmoto — KTM 390 Duke 2025: qué cambia respecto a la anterior</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "KTM 1390 Super Duke R Evo 2025: 190 CV",
@@ -1038,7 +1038,7 @@ Los 30 años de la saga Super Duke.
 - <a href=https://motos.coches.net/comparativa/ktm-1390_super_duke-r_evo--vs-triumph-speed_triple_1200_rr_breitling--9528-9604.htm>Motos.net — comparativa KTM 1390 Super Duke R Evo</a>
 - <a href=https://www.mundomotero.com/motos/ktm/1390-super-duke-r>Mundomotero — KTM 1390 Super Duke R: precio y ficha técnica</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 - <a href=https://www.ktm.com/es-co/models/naked-bike/2025-ktm-1390-superdukerevo.html>KTM oficial — 2025 KTM 1390 Super Duke R Evo</a>`,
   },
   {
@@ -1150,7 +1150,7 @@ En tierra, sí, por suspensiones y geometría; en asfalto y confort, la estánda
 - <a href=https://www.mundomotero.com/motos/ktm/890-adventure-r>Mundomotero — KTM 890 Adventure R 2025: precio y ficha técnica</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/ktm-890-adventure-r/>Motorbikemag — ficha técnica KTM 890 Adventure R</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+**¿Te han puesto una multa?**
 
 *Fuentes: datos oficiales del modelo en <a href=https://www.ktm.com>ktm.com, web oficial de KTM</a> y normativa de permisos de la <a href=https://www.dgt.es>DGT</a>.*`,
   },
@@ -1225,6 +1225,6 @@ Con uso de competición, los intervalos son cortos: seguir el manual y el uso re
 - <a href=https://www.motoplanete.es/ktm/11124/450-EXC-F-2025/contact.html>Motoplanete — KTM 450 EXC-F 2025: datos técnicos, precio y opinión</a>
 - <a href=https://www.motofichas.com/marcas/ktm>Motofichas — catálogo KTM: precios y fichas</a>
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
 ];

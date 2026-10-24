@@ -100,7 +100,7 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
 
 *Fuentes: <a href=https://www.lynkco.com/es-es/offers>Lynk & Co España</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Omoda C7 2025: PHEV de 279 CV y 92 km",
@@ -187,7 +187,7 @@ Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
 
 *Fuentes: <a href=https://www.pruebatucoche.es/omoda-7-shs-prueba/>pruebatucoche.es</a>, <a href=https://www.motormundial.es/omoda-7-shs-ya-con-precios-oficiales/2026/02/08/>motormundial.es</a>, <a href=https://www.coches.net/noticias/omoda-7-shs-prueba-de-contacto>coches.net</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "Opel Frontera Electric desde 24.900 €",
@@ -273,7 +273,7 @@ Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barat
 
 *Fuentes: <a href=https://www.km77.com/coches/opel/frontera/2025/estandar/electrico/frontera-electric/datos>km77.com</a>, <a href=https://opel-canarias.com/gama/opel-frontera-electric/>Opel Canarias</a>, <a href=https://www.motormundial.es/opel-frontera-electric-extended-range/2025/07/27/>motormundial.es</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "GAC Aion V: 510 km desde 37.995 €",
@@ -366,7 +366,7 @@ De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el 
 
 *Fuentes: <a href=https://www.km77.com/coches/gac/aion-v/2024/estandar/informacion>km77.com</a>, <a href=https://soloauto.net/gac-espana-aion-v-aion-ut-coches-electricos/>soloauto.net</a>, <a href=https://testcoches.es/pruebas/es-tan-feo-como-bueno-he-probado-el-gac-aion-v-y-sorprende-mucho-mas-de-lo-que-aparenta/>testcoches.es</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
   {
     title: "iCar 03: el SUV eléctrico off-road de Chery",
@@ -452,6 +452,6 @@ Es la denominación de Chery para su tracción total inteligente (intelligent Wh
 
 *Fuentes: <a href=https://www.cherycr.com/wp-content/uploads/2025/05/F.-Tecnica-iCar-03_2025.pdf>Chery (ficha técnica oficial)</a>, <a href=https://autosdeprimera.com/noticias/noticias-nacionales/chery-icar-03-colombia/>autosdeprimera.com</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?**`,
   },
 ];

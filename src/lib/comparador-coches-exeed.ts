@@ -127,7 +127,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 140,
       notas:
-        "Estimación con 15.000 km/año cargando a diario en casa (0,18 €/kWh). Precio del coche no confirmado oficialmente.",
+        "15.000 km/año cargando a diario en casa (0,18 €/kWh). Precio del coche no confirmado oficialmente.",
       estimado: true,
     },
     galeria: [
@@ -262,7 +262,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 266,
       notas:
-        "Estimación con 15.000 km/año y consumo medio estimado de 9,5 l/100 km para un 7 plazas de 2,4 toneladas.",
+        "15.000 km/año y consumo medio estimado de 9,5 l/100 km para un 7 plazas de 2,4 toneladas.",
       estimado: true,
     },
     galeria: [
@@ -336,7 +336,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       
     ],
     analisisSlug: "exeed-vx-c-dm-2025-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado. El VX de gasolina obtuvo 5 estrellas en el C-NCAP chino de 2021 con un 92,4 %, una prueba distinta que no equivale a una calificación Euro NCAP.", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP. El VX de gasolina obtuvo 5 estrellas en el C-NCAP chino de 2021 con un 92,4 %, una prueba distinta que no equivale a una calificación Euro NCAP.", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Exeed/Chery: sin plan de mantenimiento europeo localizado para la versión C-DM; no se trasladan intervalos de otros mercados ni de otros modelos de Chery", "intervalo": "Sin intervalo oficial publicado para Europa: Exeed no comercializa este VX C-DM en España", "revisiones": []},
   },
   {
@@ -511,7 +511,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 103,
       notas:
-        "Estimación con 15.000 km/año, consumo medio estimado de 17 kWh/100 km y recarga doméstica a 0,18 €/kWh.",
+        "15.000 km/año, consumo medio estimado de 17 kWh/100 km y 0,18 €/kWh (doméstica).",
       estimado: true,
     },
     galeria: [
@@ -589,7 +589,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año en uso mixto (mayoría en modo eléctrico), cargando en casa.",
+        "15.000 km/año en uso mixto (mayoría en modo eléctrico), cargando en casa.",
       estimado: true,
     },
     galeria: [
@@ -667,7 +667,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 101,
       notas:
-        "Estimación con 15.000 km/año, consumo CLTC de 11,7 kWh/100 km y recarga doméstica a 0,18 €/kWh.",
+        "15.000 km/año, consumo CLTC de 11,7 kWh/100 km y 0,18 €/kWh (doméstica).",
       estimado: true,
     },
     galeria: [
@@ -745,7 +745,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año en uso mixto, cargando en casa. Precio del coche no confirmado.",
+        "15.000 km/año en uso mixto, cargando en casa. Precio del coche no confirmado.",
       estimado: true,
     },
     galeria: [
@@ -845,7 +845,7 @@ export const COCHES_EXEED: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año en uso mixto, cargando en casa. Precio convertido del PVP oficial chino (144.900 yuanes a 7,50 CNY/€, 18/10/2026).",
+        "15.000 km/año en uso mixto, cargando en casa. Precio convertido del PVP oficial chino (144.900 yuanes a 7,50 CNY/€, 18/10/2026).",
       estimado: true,
     },
     galeria: [

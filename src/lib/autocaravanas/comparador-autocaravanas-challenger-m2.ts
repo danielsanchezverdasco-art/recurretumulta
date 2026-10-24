@@ -117,7 +117,7 @@ Perfil de comprador: el 270 encaja con parejas —con o sin hijos pequeños— q
     analisisSlug: "challenger-270-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit 2.0: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",
@@ -246,7 +246,7 @@ Perfil de comprador: la 380 encaja con familias de cuatro a seis miembros que ne
     analisisSlug: "challenger-380-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit 2.0: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

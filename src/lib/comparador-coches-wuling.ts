@@ -68,7 +68,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 87,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 109,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 97,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -290,7 +290,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 102,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -356,7 +356,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 111,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -435,7 +435,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 154,
       notas:
-        "Estimación con 15.000 km/año, 60 % en modo eléctrico (recarga doméstica a 0,18 €/kWh) y 40 % en gasolina a 1,58 €/l, todo riesgo.",
+        "15.000 km/año, 60 % en modo eléctrico (0,18 €/kWh (doméstica)) y 40 % en gasolina a 1,58 €/l, todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -518,7 +518,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 116,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -596,7 +596,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 161,
       notas:
-        "Estimación con 15.000 km/año, 60 % en modo eléctrico (recarga doméstica a 0,18 €/kWh) y 40 % en gasolina a 1,58 €/l, todo riesgo.",
+        "15.000 km/año, 60 % en modo eléctrico (0,18 €/kWh (doméstica)) y 40 % en gasolina a 1,58 €/l, todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -674,7 +674,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 121,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -753,7 +753,7 @@ export const COCHES_WULING: CocheComparador[] = [
       
     ],
     analisisSlug: "wuling-starlight-730-2025-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Wuling Indonesia (wuling.id), nota oficial de posventa del Darion del 5 de noviembre de 2025: coste total publicado de 12,6 millones de rupias hasta los 42.500 km (5,5 años), sin equivalente oficial en euros", "intervalo": "Primera revisión a los 5.000 km; las siguientes se espacian 7.500 km, según el plan oficial de Wuling para el Darion PHEV, nombre del Starlight 730 en Indonesia", "revisiones": [{"costeAproxEur": null, "nombre": "Revisiones periódicas del PHEV (cada 7.500 km desde los 5.000 km)", "queSeCambia": "Aceite de motor y su filtro, aceite de la transmisión híbrida DHT, bujías, filtro de aire del motor, filtro del habitáculo, líquido de frenos, refrigerante del motor y del sistema híbrido y filtro del cánister de carbono, según la relación oficial de piezas publicada por Wuling Indonesia para el Darion PHEV"}]},
   },
   {
@@ -810,7 +810,7 @@ export const COCHES_WULING: CocheComparador[] = [
       
     ],
     analisisSlug: "wuling-starlight-730-ev-2025-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Wuling Motors Indonesia, nota oficial de postventa del Darion (Starlight 730) EV del 5/11/2025: coste total publicado solo en rupias para Indonesia (3,4 millones IDR hasta 55.000 km o 5,5 años), sin equivalente oficial en euros; por eso costeAproxEur queda sin dato", "intervalo": "Primera revisión al cumplir 5.000 km; a partir de ahí, una cada 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión / 5.000 km", "queSeCambia": "Inspección inicial del Darion EV (el Starlight 730 fuera de China) según el manual del propietario; el plan periódico de Wuling para este EV trabaja sobre aceite del reductor, filtro del aire acondicionado, refrigerante y líquido de frenos"}, {"costeAproxEur": null, "nombre": "Revisiones periódicas / cada 10.000 km", "queSeCambia": "Sustitución programada, según kilometraje, del aceite del reductor, el filtro del habitáculo, el refrigerante y el líquido de frenos, con inspección de la batería MAGIC, el motor eléctrico y su controlador"}]},
   },
   {
@@ -871,7 +871,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 230,
       costeMensualTotal: 97,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -949,7 +949,7 @@ export const COCHES_WULING: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 119,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [

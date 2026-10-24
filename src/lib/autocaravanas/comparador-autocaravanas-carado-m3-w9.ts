@@ -156,7 +156,7 @@ kilo cuenta.`,
     ],
     analisisSlug: "carado-t-338-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ford Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 380 },
         { nombre: "Revisión célula Carado (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -260,7 +260,7 @@ Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravan
     ],
     analisisSlug: "carado-v-337-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Citroën Jumper: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Citroën Jumper)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Carado (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

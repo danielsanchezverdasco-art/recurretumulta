@@ -85,7 +85,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general y aprietes", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -170,7 +170,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 100 },
@@ -251,7 +251,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -336,7 +336,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -417,7 +417,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 100 },
@@ -498,7 +498,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 85 },
@@ -578,7 +578,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 150 },
@@ -658,7 +658,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 110 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 180 },
@@ -738,7 +738,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía", costeAproxEur: 150 },
@@ -818,7 +818,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "5.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
         { nombre: "Revisión / 5.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
@@ -899,7 +899,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "5.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
         { nombre: "Revisión / 5.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 52 },
@@ -1140,7 +1140,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1227,7 +1227,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 90 },
@@ -1312,7 +1312,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
@@ -1397,7 +1397,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite 10W-30 + inspección general", costeAproxEur: 100 },
@@ -1482,7 +1482,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -1567,7 +1567,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 90 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 110 },
@@ -1653,7 +1653,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 90 },
@@ -1738,7 +1738,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "10.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 5W-40 + filtro + inspección general", costeAproxEur: 100 },
         { nombre: "Revisión / 10.000 km", queSeCambia: "Aceite + filtro + bujía + inspección general", costeAproxEur: 170 },
@@ -1823,7 +1823,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + filtro + inspección general", costeAproxEur: 80 },
         { nombre: "Revisión / 6.000 km", queSeCambia: "Aceite + filtro + inspección general", costeAproxEur: 100 },
@@ -1908,7 +1908,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 80 },
@@ -1993,7 +1993,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
       ],
     },
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.000 km",
+      intervalo: "4.000 km o 12 meses; primera revisión a los 1.000 km",
       revisiones: [
         { nombre: "Primera revisión / 1.000 km", queSeCambia: "Aceite 10W-40 + inspección general", costeAproxEur: 70 },
         { nombre: "Revisión / 4.000 km", queSeCambia: "Aceite + inspección general", costeAproxEur: 80 },

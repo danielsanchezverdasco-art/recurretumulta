@@ -152,7 +152,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Nota de prensa oficial de McLaren Automotive del 750S (abril de 2023): plan de mantenimiento incluido de tres años e intervalo de un año o 15.000 km; contenido de las revisiones según el programa de mantenimiento programado publicado por McLaren Palm Beach, concesionario oficial de la marca", "intervalo": "Un año o 15.000 km recorridos, lo primero que se cumpla; el 750S incluía de serie un plan de mantenimiento programado de tres años", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 12 meses / 15.000 km", "queSeCambia": "Aceite sintético y filtro de aceite del V8 M840T de 4,0 litros, filtro de aire del motor nuevo e inspección multipunto de dirección, articulaciones de suspensión, radiadores, frenos, niveles de líquidos, conexiones eléctricas, ruedas y kit reparapinchazos"}, {"costeAproxEur": null, "nombre": "Revisión de los 24 meses / 30.000 km", "queSeCambia": "Se repiten aceite, filtro e inspección multipunto, con comprobación detallada adicional de la dirección electrohidráulica, la suspensión Proactive Chassis Control III, los radiadores y los discos carbocerámicos de 390 mm delante y 380 mm detrás"}]},
   },
   {

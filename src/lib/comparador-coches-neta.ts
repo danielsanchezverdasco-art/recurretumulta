@@ -60,7 +60,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 76,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -69,7 +69,7 @@ export const COCHES_NETA: CocheComparador[] = [
       
     ],
     analisisSlug: "neta-aya-2025-precio-ficha-tecnica",
-    planMantenimiento: {"intervalo": "Cada 1 año o 10.000 km, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual o cada 10.000 km", "queSeCambia": "Inspección del conjunto eléctrico (batería, motor y electrónica de control) junto con frenos, neumáticos y alumbrado; no hay aceite de motor que sustituir por ser un eléctrico puro"}, {"costeAproxEur": null, "nombre": "Sustitución de líquidos en la revisión", "queSeCambia": "Cambio de líquido de frenos y de aceite de la reductora cuando toca según el programa citado para el Neta V"}]},
+    planMantenimiento: {"intervalo": "Cada 1 año o 10.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica anual o cada 10.000 km", "queSeCambia": "Inspección del conjunto eléctrico (batería, motor y electrónica de control) junto con frenos, neumáticos y alumbrado; no hay aceite de motor que sustituir por ser un eléctrico puro"}, {"costeAproxEur": null, "nombre": "Sustitución de líquidos en la revisión", "queSeCambia": "Cambio de líquido de frenos y de aceite de la reductora cuando toca según el programa citado para el Neta V"}]},
   },
   {
     id: "neta-x-2024-precio-ficha-tecnica",
@@ -117,7 +117,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 88,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -131,7 +131,7 @@ export const COCHES_NETA: CocheComparador[] = [
       },
     ],
     analisisSlug: "neta-x-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "neta-s-2024-precio-ficha-tecnica",
@@ -179,7 +179,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 105,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -188,7 +188,7 @@ export const COCHES_NETA: CocheComparador[] = [
       
     ],
     analisisSlug: "neta-s-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "neta-s-shooting-brake-2024-precio-ficha-tecnica",
@@ -236,7 +236,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 101,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China (169.900 yuanes, versión EREV 300); no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China (169.900 yuanes, versión EREV 300); no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -245,7 +245,7 @@ export const COCHES_NETA: CocheComparador[] = [
       
     ],
     analisisSlug: "neta-s-shooting-brake-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "neta-gt-2024-precio-ficha-tecnica",
@@ -293,7 +293,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 112,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -302,7 +302,7 @@ export const COCHES_NETA: CocheComparador[] = [
       
     ],
     analisisSlug: "neta-gt-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "neta-l-2024-precio-ficha-tecnica",
@@ -350,7 +350,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 98,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros. El precio es conversión del PVP en China; no se vende en España.",
       estimado: true,
     },
     galeria: [
@@ -359,7 +359,7 @@ export const COCHES_NETA: CocheComparador[] = [
       
     ],
     analisisSlug: "neta-l-2024-precio-ficha-tecnica",
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "neta-l-erev-2024-precio-ficha-tecnica",
@@ -451,7 +451,7 @@ export const COCHES_NETA: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 110,
       notas:
-        "Estimación mixta (eléctrico + gasolina) con 15.000 km/año, recarga doméstica a 0,18 €/kWh, gasolina a 1,60 €/l y seguro a terceros. Precio convertido del PVP oficial en China (129.900 ¥); no se vende en España.",
+        "Estimación mixta (eléctrico + gasolina) con 15.000 km/año, 0,18 €/kWh (doméstica), gasolina a 1,60 €/l y seguro a terceros. Precio convertido del PVP oficial en China (129.900 ¥); no se vende en España.",
       estimado: true,
     },
     galeria: [

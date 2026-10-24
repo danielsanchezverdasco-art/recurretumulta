@@ -209,7 +209,7 @@ export const COCHES_EXP25: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "Sin programa oficial publicado en España; orientativo 12 meses o 15.000 km",
@@ -313,7 +313,7 @@ export const COCHES_EXP25: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (plan de inspección de la gama eléctrica Opel)",
@@ -484,7 +484,7 @@ export const COCHES_EXP25: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",

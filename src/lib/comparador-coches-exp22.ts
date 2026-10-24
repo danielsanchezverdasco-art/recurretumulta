@@ -54,17 +54,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 253,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 280 },
@@ -133,17 +133,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 270,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 280 },
@@ -212,17 +212,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 273,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 280 },
@@ -281,17 +281,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 271,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -360,17 +360,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 179,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 220 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 320 },
@@ -439,17 +439,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 327,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de transmisión 4x4", costeAproxEur: 220 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquidos de transmisión y diferenciales (según plan)", costeAproxEur: 350 },
@@ -508,17 +508,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 282,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 200 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 300 },
@@ -577,17 +577,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 297,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 200 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 300 },
@@ -646,17 +646,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 248,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
@@ -723,17 +723,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 261,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
@@ -790,17 +790,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 264,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
@@ -857,17 +857,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 267,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
@@ -924,17 +924,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 275,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 280 },
@@ -991,17 +991,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 261,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
@@ -1060,17 +1060,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 271,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
@@ -1127,17 +1127,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 273,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
@@ -1194,17 +1194,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 279,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 180 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 270 },
@@ -1263,17 +1263,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 290,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 280 },
@@ -1330,17 +1330,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 268,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 200 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 300 },
@@ -1407,17 +1407,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 334,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de transmisión 4x4", costeAproxEur: 230 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquidos de transmisión y diferenciales (según plan)", costeAproxEur: 350 },
@@ -1474,17 +1474,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 241,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 210 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 310 },
@@ -1541,17 +1541,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 173,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 220 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 320 },
@@ -1620,7 +1620,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 217,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -1630,7 +1630,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
@@ -1699,17 +1699,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 198,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
@@ -1778,17 +1778,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 302,
       precioKwh: 0,
       precioGasolinaL: 1.5,
-      notas: "Estimación con 15.000 km/año y diésel a 1,50 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; diésel 1,50 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de transmisión 4x4", costeAproxEur: 230 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + filtro de gasoil + líquidos de transmisión (según plan)", costeAproxEur: 380 },
@@ -1903,17 +1903,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 191,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
@@ -2026,7 +2026,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 221,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2036,7 +2036,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 160 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 250 },
@@ -2105,7 +2105,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 185,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
@@ -2115,7 +2115,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
@@ -2174,7 +2174,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 138,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -2184,7 +2184,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (lo que ocurra antes)",
+      intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
         { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
@@ -2251,7 +2251,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 161,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -2261,7 +2261,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (lo que ocurra antes)",
+      intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 130 },
         { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 220 },
@@ -2318,17 +2318,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 138,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (lo que ocurra antes)",
+      intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
         { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
@@ -2397,17 +2397,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 166,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
@@ -2474,17 +2474,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 171,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
@@ -2541,17 +2541,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 251,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
@@ -2664,7 +2664,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 205,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
@@ -2674,7 +2674,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       nota: null,
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 160 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 260 },
@@ -2731,17 +2731,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 124,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
@@ -2798,17 +2798,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 186,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 230 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 330 },
@@ -2867,17 +2867,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 189,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "20.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
         { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
@@ -2936,17 +2936,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 278,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3005,17 +3005,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 268,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3074,17 +3074,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 307,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 200 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 300 },
@@ -3153,17 +3153,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 271,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3222,17 +3222,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 262,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3289,17 +3289,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 172,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año, mayoría en modo eléctrico a 0,18 €/kWh.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 210 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 310 },
@@ -3358,17 +3358,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 256,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3427,17 +3427,17 @@ export const COCHES_EXP22: CocheComparador[] = [
       costeMensualTotal: 245,
       precioKwh: 0,
       precioGasolinaL: 1.65,
-      notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
+      notas: "15.000 km/año; gasolina 1,65 €/l.",
       estimado: true,
     },
     euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección de 30 puntos", costeAproxEur: 190 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 290 },
@@ -3491,7 +3491,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
     planMantenimiento: {"costeAnualAproxEur": 230, "fuente": "Plan oficial Geely España", "intervalo": "Cada año como máximo, o al cumplir 15.000 km si se llega antes a ese kilometraje", "revisiones": [{"costeAproxEur": 190, "nombre": "Revisión 15.000 km / 12 meses", "queSeCambia": "En el 1.5 turbo se renuevan aceite y su filtro, se monta filtro de polen nuevo y se revisan 30 puntos de control del coche"}, {"costeAproxEur": 290, "nombre": "Revisión 30.000 km / 24 meses", "queSeCambia": "A lo ya hecho en la primera visita se suman un filtro de aire del motor nuevo y la sustitución del líquido del circuito de frenos, si el plan lo marca para esta revisión"}]},
   },

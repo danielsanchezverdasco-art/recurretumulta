@@ -5836,7 +5836,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-speed-twin-1200-rs-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según plan oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
@@ -5918,7 +5918,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-street-triple-765-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según plan oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
@@ -6000,7 +6000,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-street-triple-765-rx-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según plan oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
@@ -6082,7 +6082,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-rebel-1100-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "12.000 km o 12 meses, según manual oficial Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",
@@ -6318,7 +6318,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "triumph-trident-800-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes), según plan oficial Triumph",
+      intervalo: "16.000 km o 12 meses, según plan oficial Triumph",
       revisiones: [
         {
           nombre: "Revisión 16.000 km / anual",
@@ -6479,7 +6479,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb650r-e-clutch-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "12.000 km o 12 meses, según manual oficial Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",
@@ -6561,7 +6561,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     analisisSlug: "honda-cb1000-gt-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento:     {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes), según manual oficial Honda",
+      intervalo: "12.000 km o 12 meses, según manual oficial Honda",
       revisiones: [
         {
           nombre: "Revisión 12.000 km / anual",

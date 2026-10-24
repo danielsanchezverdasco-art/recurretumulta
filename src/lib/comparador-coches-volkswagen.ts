@@ -63,7 +63,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 123,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo supuesto 15,5 kWh/100 km (sin dato WLTP verificado para esta versión); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo supuesto 15,5 kWh/100 km (sin dato WLTP verificado para esta versión); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -132,7 +132,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 129,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 13,7 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; 13,7 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -275,7 +275,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 223,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; 6,2 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 6,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -356,7 +356,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 300,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 8,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 8,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -437,7 +437,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 200,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto supuesto (60 % eléctrico); carga doméstica a 0,18 €/kWh y gasolina a 1,55 €/l; seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; uso mixto supuesto (60 % eléctrico); carga doméstica a 0,18 €/kWh y gasolina a 1,55 €/l; todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -518,7 +518,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 264,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 7,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 7,3 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -680,7 +680,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.45,
-      "notas": "15.000 km/año; 5,6 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; 5,6 l/100 km WLTP; diésel a 1,45 €/l (campo precioGasolinaL); todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -1004,7 +1004,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 197,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto supuesto (70 % eléctrico a 17,8 kWh/100 km); carga doméstica a 0,18 €/kWh y gasolina a 1,55 €/l; seguro a todo riesgo con franquicia",
+      "notas": "15.000 km/año; uso mixto supuesto (70 % eléctrico a 17,8 kWh/100 km); carga doméstica a 0,18 €/kWh y gasolina a 1,55 €/l; todo riesgo con franquicia",
       "estimado": true
     },
     galeria: [
@@ -1084,7 +1084,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 202,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1165,7 +1165,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 217,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1234,7 +1234,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 203,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1317,7 +1317,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 196,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,4 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,4 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1398,7 +1398,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 208,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1479,7 +1479,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 202,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1560,7 +1560,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1641,7 +1641,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 15,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 15,5 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1722,7 +1722,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 15,9 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 15,9 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1803,7 +1803,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 143,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 16,1 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 16,1 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1884,7 +1884,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 222,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; diésel a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
+      "notas": "15.000 km/año; consumo 5,2 l/100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
       "estimado": true
     },
     galeria: [
@@ -1953,7 +1953,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 203,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de híbrido enchufable",
+      "notas": "15.000 km/año; uso mixto 50 % eléctrico (18 kWh/100 km) y 50 % gasolina (7 l/100 km); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de híbrido enchufable",
       "estimado": true
     },
     galeria: [
@@ -1977,7 +1977,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       },
     ],
     euroncap: {"estrellas": 5, "ano": 2024, "url": "https://www.volkswagen-newsroom.com/en/press-releases/new-tiguan-awarded-5-stars-in-current-euro-ncap-safety-assessment-18414/download", "nota": "Resultado Euro NCAP verificado para este modelo."},
-    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Volkswagen recomienda para sus modelos nuevos una primera inspección con servicio de aceite a las 9.300 millas —unos 15.000 km— o a los 12 meses, lo que ocurra antes, y mantener ese ciclo anual en los primeros años, según Carbuyer al recoger la pauta de la marca para el Tiguan. En un eHybrid no conviene saltárselo aunque circules mucho en eléctrico: el motor de gasolina, su aceite y el líquido de frenos envejecen igual, y la ficha estima 380 euros al año de mantenimiento sin presentarlo como tarifa oficial.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.carbuyer.co.uk:443/volkswagen/tiguan/305394/volkswagen-tiguan-review-family-suv-with-a-trusted-formula/reliability"},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Volkswagen recomienda para sus modelos nuevos una primera inspección con servicio de aceite a las 9.300 millas —unos 15.000 km— o a los 12 meses, y mantener ese ciclo anual en los primeros años, según Carbuyer al recoger la pauta de la marca para el Tiguan. En un eHybrid no conviene saltárselo aunque circules mucho en eléctrico: el motor de gasolina, su aceite y el líquido de frenos envejecen igual, y la ficha estima 380 euros al año de mantenimiento sin presentarlo como tarifa oficial.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.carbuyer.co.uk:443/volkswagen/tiguan/305394/volkswagen-tiguan-review-family-suv-with-a-trusted-formula/reliability"},
   },
   {
     id: "volkswagen-id-tiguan",
@@ -2044,7 +2044,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
       "costeMensualTotal": 118,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo supuesto 15 kWh/100 km (sin dato WLTP verificado para esta versión); carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo supuesto 15 kWh/100 km (sin dato WLTP verificado para esta versión); carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [

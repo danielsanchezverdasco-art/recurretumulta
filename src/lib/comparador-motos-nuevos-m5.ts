@@ -236,7 +236,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     analisisSlug: "seat-mo-125-performance-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 5.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",

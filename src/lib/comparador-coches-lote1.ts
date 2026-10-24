@@ -75,7 +75,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 152,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 16,2 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 16,2 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -106,7 +106,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo presentado en octubre de 2026, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 25.000 km (versión eléctrica), lo que ocurra antes",
+      intervalo: "24 meses o 25.000 km (versión eléctrica)",
       revisiones: [
         {
           nombre: "Revisión bienal / 25.000 km",
@@ -212,7 +212,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la versión eléctrica aún no ha sido probada (el D-Max diésel logró 5 estrellas en 2020).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -282,7 +282,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 13,8 kWh/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 13,8 kWh/100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -310,10 +310,10 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado fuera de China.",
+      nota: "Sin test EuroNCAP fuera de China.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -383,7 +383,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 158,
       notas:
-        "Estimación con 15.000 km/año y todo riesgo. Cifras orientativas: el precio y varios datos técnicos aún no son oficiales.",
+        "15.000 km/año y todo riesgo. Cifras orientativas: el precio y varios datos técnicos aún no son oficiales.",
       estimado: true,
     },
     galeria: [
@@ -488,7 +488,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 235,
       notas:
-        "Estimación con 15.000 km/año y todo riesgo. Precio y varios datos aún no oficiales; cifras orientativas.",
+        "15.000 km/año y todo riesgo. Precio y varios datos aún no oficiales; cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -519,7 +519,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no lanzado oficialmente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -690,7 +690,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 178,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa internacional.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa internacional.",
       estimado: true,
     },
     galeria: [
@@ -721,7 +721,7 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -885,7 +885,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 178,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Consumo estimado en 18,5 kWh/100 km.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Consumo estimado en 18,5 kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -916,7 +916,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo presentado en octubre de 2026, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 25.000 km (versión eléctrica), lo que ocurra antes",
+      intervalo: "24 meses o 25.000 km (versión eléctrica)",
       revisiones: [
         {
           nombre: "Revisión bienal / 25.000 km",
@@ -986,7 +986,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 190,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1017,7 +1017,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1087,7 +1087,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 146,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio oficial en España sin descuentos.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio oficial en España sin descuentos.",
       estimado: true,
     },
     galeria: [
@@ -1118,7 +1118,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP publicados: GWM anunció la homologación de 5 estrellas, pendiente de publicación oficial.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1188,7 +1188,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 228,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 5,2 l/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 5,2 l/100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -1219,7 +1219,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1293,7 +1293,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 337,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo. Consumo estimado en 9,4 l/100 km. Precio orientativo desde mercados LatAm.",
+        "15.000 km/año; gasolina 1,60 €/l; todo riesgo. Consumo estimado en 9,4 l/100 km. Precio orientativo desde mercados LatAm.",
       estimado: true,
     },
     galeria: [
@@ -1324,7 +1324,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 10.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 10.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1394,7 +1394,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 196,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1425,7 +1425,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1495,7 +1495,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 116,
       notas:
-        "Estimación con 12.000 km/año (uso urbano), recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china.",
+        "Estimación con 12.000 km/año (uso urbano), 0,18 €/kWh (doméstica) y todo riesgo. Precio orientativo desde tarifa china.",
       estimado: true,
     },
     galeria: [
@@ -1526,7 +1526,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no homologado aún en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1596,7 +1596,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 190,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde tarifa china con batería.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde tarifa china con batería.",
       estimado: true,
     },
     galeria: [
@@ -1627,7 +1627,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 20.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1697,7 +1697,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 172,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio orientativo desde preventa en Colombia.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio orientativo desde preventa en Colombia.",
       estimado: true,
     },
     galeria: [
@@ -1728,7 +1728,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "12 meses o 15.000 km",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",

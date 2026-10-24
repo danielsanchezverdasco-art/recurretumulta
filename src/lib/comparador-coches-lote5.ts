@@ -64,7 +64,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 115,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~12,2 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~12,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -167,7 +167,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 122,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -270,7 +270,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 109,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -373,7 +373,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~7 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chileno).",
+        "15.000 km/año, consumo estimado ~7 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chileno).",
       estimado: true,
     },
     galeria: [
@@ -476,7 +476,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 243,
       notas:
-        "Estimación con 15.000 km/año, consumo ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -579,7 +579,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 125,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~12,9 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~12,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -682,7 +682,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 132,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~16,6 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~16,6 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -785,7 +785,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 148,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~17,5 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~17,5 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -888,7 +888,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 177,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~21,3 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~21,3 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -991,7 +991,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 180,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~25,9 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~25,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1094,7 +1094,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 161,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~20,7 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~20,7 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1197,7 +1197,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 173,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~25,9 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
+        "15.000 km/año, consumo implícito ~25,9 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado estadounidense).",
       estimado: true,
     },
     galeria: [
@@ -1300,7 +1300,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 211,
       notas:
-        "Estimación con 15.000 km/año, uso mixto eléctrico/gasolina, recarga doméstica a 0,18 €/kWh y todo riesgo. Modelo aún no lanzado: cifras orientativas.",
+        "15.000 km/año, uso mixto eléctrico/gasolina, 0,18 €/kWh (doméstica) y todo riesgo. Modelo aún no lanzado: cifras orientativas.",
       estimado: true,
     },
     galeria: [
@@ -1403,7 +1403,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 107,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~11,2 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~11,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1494,7 +1494,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 177,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1580,7 +1580,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 175,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo estimado ~8 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1678,7 +1678,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 170,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1781,7 +1781,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 144,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~6,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado internacional).",
+        "15.000 km/año, consumo estimado ~6,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado internacional).",
       estimado: true,
     },
     galeria: [
@@ -1884,7 +1884,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 168,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -1987,7 +1987,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 200,
       notas:
-        "Estimación con 15.000 km/año, consumo estimado ~8,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo estimado ~8,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2090,7 +2090,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~8,2 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~8,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2193,7 +2193,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 97,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~11,7 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado brasileño).",
+        "15.000 km/año, consumo implícito ~11,7 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado brasileño).",
       estimado: true,
     },
     galeria: [
@@ -2296,7 +2296,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 79,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~10 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~10 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [
@@ -2399,7 +2399,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 70,
       notas:
-        "Estimación con 15.000 km/año, consumo implícito ~10,4 kWh/100 km, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "15.000 km/año, consumo implícito ~10,4 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
       estimado: true,
     },
     galeria: [

@@ -112,7 +112,7 @@ Perfil de comprador: el Campeo C 600 encaja con parejas que quieren su primer ca
     analisisSlug: "burstner-campeo-c-600-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -237,7 +237,7 @@ Perfil de comprador: el Lyseo TD 744 encaja con parejas que viajan mucho y quier
     analisisSlug: "burstner-lyseo-td-744-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -364,7 +364,7 @@ Perfil de comprador: este C 644 está pensado para parejas que viajan acompañad
     analisisSlug: "burstner-eliseo-c-644-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

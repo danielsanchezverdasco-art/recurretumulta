@@ -59,7 +59,7 @@ export const COCHES_ONVO: CocheComparador[] = [
       mantenimientoAnual: 260,
       costeMensualTotal: 117,
       notas:
-        "Estimación con 15.000 km/año, 13 kWh/100 km reales y recarga doméstica a 0,18 €/kWh. El modelo solo se vende en China: seguro y mantenimiento extrapolados de SUV eléctricos equivalentes.",
+        "15.000 km/año, 13 kWh/100 km reales y 0,18 €/kWh (doméstica). El modelo solo se vende en China: seguro y mantenimiento extrapolados de SUV eléctricos equivalentes.",
       estimado: true,
     },
     galeria: [
@@ -138,7 +138,7 @@ export const COCHES_ONVO: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 126,
       notas:
-        "Estimación con 15.000 km/año, 16 kWh/100 km reales y recarga doméstica a 0,18 €/kWh. El modelo solo se vende en China: seguro y mantenimiento extrapolados de SUV eléctricos grandes equivalentes.",
+        "15.000 km/año, 16 kWh/100 km reales y 0,18 €/kWh (doméstica). El modelo solo se vende en China: seguro y mantenimiento extrapolados de SUV eléctricos grandes equivalentes.",
       estimado: true,
     },
     galeria: [

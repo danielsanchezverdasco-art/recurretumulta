@@ -121,7 +121,7 @@ export const AUTOCARAVANAS_POSSL_M5: Autocaravana[] = [
     analisisSlug: "possl-summit-shine-600-r-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato / Citroën Jumper / Peugeot Boxer: revisión cada 2 años o 48.000 km (según plan del fabricante de la base)",
+        "Base Fiat Ducato / Citroën Jumper / Peugeot Boxer: 2 años / 48.000 km (según plan del fabricante de la base)",
       revisiones: [
         {
           nombre: "Revisión base (Stellantis)",

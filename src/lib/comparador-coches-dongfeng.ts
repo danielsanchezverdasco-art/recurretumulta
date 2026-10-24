@@ -68,7 +68,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 114,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 210,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -302,7 +302,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 156,
       notas:
-        "Estimación con 15.000 km/año en modo eléctrico, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año en modo eléctrico, 0,18 €/kWh (doméstica) y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -380,7 +380,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 110,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -458,7 +458,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 211,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -488,7 +488,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
     },
   },
   {
@@ -549,7 +549,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 217,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,58 €/l y todo riesgo.",
+        "15.000 km/año; gasolina 1,58 €/l; todo riesgo.",
       estimado: true,
     },
     galeria: [

@@ -69,7 +69,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 264,
       notas:
-        "Estimación con 15.000 km/año, diésel a 1,45 €/l (precioGasolinaL usado como precio del diésel) y seguro a todo riesgo.",
+        "15.000 km/año, diésel a 1,45 €/l (precioGasolinaL usado como precio del diésel); todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 199,
       notas:
-        "Estimación con 15.000 km/año: 60 % en eléctrico (recarga doméstica a 0,18 €/kWh) y 40 % en gasolina a 8,3 l/100 km. Consumo ponderado homologado 1,9 l/100 km.",
+        "15.000 km/año: 60 % en eléctrico (0,18 €/kWh (doméstica)) y 40 % en gasolina a 8,3 l/100 km. Consumo ponderado homologado 1,9 l/100 km.",
       estimado: true,
     },
     galeria: [
@@ -225,7 +225,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 259,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,55 €/l. Sin precio oficial en euros: en Australia parte de 55.990 AUD drive-away.",
+        "15.000 km/año; gasolina 1,55 €/l. Sin precio oficial en euros: en Australia parte de 55.990 AUD drive-away.",
       estimado: true,
     },
     galeria: [
@@ -303,7 +303,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 276,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Precio convertido de 198.800 yuanes (≈0,13 €/CNY); no se vende en Europa.",
+        "15.000 km/año; gasolina 1,60 €/l. Precio convertido de 198.800 yuanes (≈0,13 €/CNY); no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -390,7 +390,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 350,
       notas:
-        "Estimación con 15.000 km/año y un consumo supuesto de 12 l/100 km (neumáticos todoterreno y aerodinámica de ladrillo). Precio en China: 250.000 ¥ (≈33.200 €); sin venta en Europa.",
+        "15.000 km/año y un consumo supuesto de 12 l/100 km (neumáticos todoterreno y aerodinámica de ladrillo). Precio en China: 250.000 ¥ (≈33.200 €); sin venta en Europa.",
       estimado: true,
     },
     galeria: [
@@ -481,7 +481,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 212,
       notas:
-        "Estimación con 15.000 km/año: 60 % en eléctrico y 40 % en gasolina a 8,8 l/100 km con batería descargada. Sin precio oficial en euros.",
+        "15.000 km/año: 60 % en eléctrico y 40 % en gasolina a 8,8 l/100 km con batería descargada. Sin precio oficial en euros.",
       estimado: true,
     },
     galeria: [
@@ -559,7 +559,7 @@ export const COCHES_TANK: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 232,
       notas:
-        "Estimación con 15.000 km/año: 70 % en eléctrico (26,7 kWh/100 km a 0,18 €/kWh) y 30 % en gasolina a 8,3 l/100 km. Sin precio oficial en euros.",
+        "15.000 km/año: 70 % en eléctrico (26,7 kWh/100 km a 0,18 €/kWh) y 30 % en gasolina a 8,3 l/100 km. Sin precio oficial en euros.",
       estimado: true,
     },
     galeria: [
@@ -637,7 +637,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 400,
       costeMensualTotal: 330,
       notas:
-        "Estimación con 15.000 km/año y gasolina a 1,60 €/l. Precio convertido de 335.000 yuanes (≈0,13 €/CNY); no se vende en Europa.",
+        "15.000 km/año; gasolina 1,60 €/l. Precio convertido de 335.000 yuanes (≈0,13 €/CNY); no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -722,7 +722,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 400,
       costeMensualTotal: 322,
       notas:
-        "Estimación con 15.000 km/año, gasolina a 1,55 €/l y consumo de 10,8 l/100 km (unos 35 km/galón según pruebas en Colombia). Sin precio oficial en euros.",
+        "15.000 km/año, gasolina a 1,55 €/l y consumo de 10,8 l/100 km (unos 35 km/galón según pruebas en Colombia). Sin precio oficial en euros.",
       estimado: true,
     },
     galeria: [
@@ -800,7 +800,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 350,
       costeMensualTotal: 213,
       notas:
-        "Estimación con 15.000 km/año: 65 % en eléctrico y 35 % en gasolina a 8,4 l/100 km con batería descargada. Precio convertido de 335.800 yuanes.",
+        "15.000 km/año: 65 % en eléctrico y 35 % en gasolina a 8,4 l/100 km con batería descargada. Precio convertido de 335.800 yuanes.",
       estimado: true,
     },
     galeria: [
@@ -878,7 +878,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 380,
       costeMensualTotal: 245,
       notas:
-        "Estimación con 15.000 km/año: 70 % en eléctrico y 30 % en gasolina. Precio convertido de 363.800 yuanes (≈0,13 €/CNY).",
+        "15.000 km/año: 70 % en eléctrico y 30 % en gasolina. Precio convertido de 363.800 yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -956,7 +956,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 420,
       costeMensualTotal: 258,
       notas:
-        "Estimación con 15.000 km/año: 60 % en eléctrico y 40 % en gasolina. Precio convertido de 428.000 yuanes (≈0,13 €/CNY).",
+        "15.000 km/año: 60 % en eléctrico y 40 % en gasolina. Precio convertido de 428.000 yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -1034,7 +1034,7 @@ aprox: ["precioDesde"],
       mantenimientoAnual: 450,
       costeMensualTotal: 283,
       notas:
-        "Estimación con 15.000 km/año para un PHEV de casi 3 toneladas: 65 % en eléctrico y 35 % en gasolina. Modelo aún no lanzado oficialmente.",
+        "15.000 km/año para un PHEV de casi 3 toneladas: 65 % en eléctrico y 35 % en gasolina. Modelo aún no lanzado oficialmente.",
       estimado: true,
     },
     galeria: [

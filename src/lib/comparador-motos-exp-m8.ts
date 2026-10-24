@@ -472,7 +472,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y cepillo suave tras cada salida off-road.",
         "Engrasa con lubricante adherente; en tierra, mejor cera de cadena que aceite.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Tras el campo, lava el radiador a baja presión para no doblar las aletas.",
@@ -608,7 +608,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con limpiador específico y cepillo suave.",
         "Engrasa con lubricante adherente cada 500-800 km o tras la lluvia.",
-        "Comprueba la tensión con la moto en vertical según el manual.",
+        "Tensión según el manual del propietario.",
       ],
       trucos: [
         "El filtro de aire está bajo el depósito: revísalo cada 10.000 km.",

@@ -195,7 +195,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "Prueba del Hyundai Tucson (NX4), 2021",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -457,7 +457,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Staria no ha sido probado por Euro NCAP (sí tiene 5 estrellas ANCAP, 2021)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -719,7 +719,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "4 estrellas Euro NCAP (2023, nueva generación SX2)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1062,7 +1062,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "Prueba del Hyundai i30 (PD), 2017",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1426,7 +1426,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Cada 2 años o 30.000 km, lo que ocurra antes (plan oficial Hyundai para IONIQ 5 e IONIQ 6)", "revisiones": [{"nombre": "Revisión bienal / 30.000 km", "queSeCambia": "Inspección general del sistema eléctrico, estado de la batería de alto voltaje y de la auxiliar de 12 V, control de frenos y de refrigeración, y filtro de habitáculo según calendario del manual", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Hyundai Canarias, posventa oficial en hyundai.com (verificado el 22/10/2026): los IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica un coste cerrado para esta revisión, por eso el coste queda sin dato"},
+    planMantenimiento: {"intervalo": "Cada 2 años o 30.000 km (plan oficial Hyundai para IONIQ 5 e IONIQ 6)", "revisiones": [{"nombre": "Revisión bienal / 30.000 km", "queSeCambia": "Inspección general del sistema eléctrico, estado de la batería de alto voltaje y de la auxiliar de 12 V, control de frenos y de refrigeración, y filtro de habitáculo según calendario del manual", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Hyundai Canarias, posventa oficial en hyundai.com (verificado el 22/10/2026): los IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica un coste cerrado para esta revisión, por eso el coste queda sin dato"},
     euroncap: {"estrellas": 5, "ano": 2021, "url": "https://www.hyundai.news/newsroom/dam/eu/models/20211027_euro_ncap_rating/hyundai-ioniq-5-2021-euro-ncap-datasheet.pdf", "nota": "5 estrellas Euro NCAP (octubre de 2021): 88 % en ocupante adulto, 86 % en infantil, 63 % en usuarios vulnerables y 88 % en asistencias"},
   },
   {
@@ -1460,7 +1460,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "5 estrellas Euro NCAP (noviembre 2022); 'Best in Class' 2022 en su categoría",
     },
     planMantenimiento: {
-      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      intervalo: "Cada 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Revisión bienal / 30.000 km",
@@ -1696,7 +1696,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "4 estrellas Euro NCAP (2023, nueva generación SX2)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1943,7 +1943,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Staria no ha sido probado por Euro NCAP (sí tiene 5 estrellas ANCAP, 2021)",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -2027,7 +2027,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       nota: "Prueba del Hyundai Tucson (NX4), 2021",
     },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",

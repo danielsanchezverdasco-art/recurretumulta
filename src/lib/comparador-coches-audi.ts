@@ -2005,7 +2005,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 401,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 9,4 l/100 km WLTP × 1,85 €/l; seguro a todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi Sport. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 9,4 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi Sport. No son tarifas reales.",
       "estimado": true,
     },
     galeria: [
@@ -2086,7 +2086,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       "costeMensualTotal": 361,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa con 15.000 km/año: energía = 7,7 l/100 km WLTP × 1,85 €/l (precio gasóleo aprox); seguro a todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi. No son tarifas reales.",
+      "notas": "Estimación orientativa con 15.000 km/año: energía = 7,7 l/100 km WLTP × 1,85 €/l (precio gasóleo aprox); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi. No son tarifas reales.",
       "estimado": true,
     },
     euroncap: {
@@ -2096,7 +2096,7 @@ export const COCHES_AUDI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Q9 aún no ha sido sometido a las pruebas",
     },
     planMantenimiento: {
-      intervalo: "30.000 km o 2 años (lo que ocurra antes)",
+      intervalo: "30.000 km o 2 años",
       revisiones: [
         { nombre: "Revisión 30.000 km / 2 años", queSeCambia: "Aceite y filtro de aceite, filtros, líquido de frenos e inspección general según el plan de mantenimiento Audi", costeAproxEur: null },
       ],

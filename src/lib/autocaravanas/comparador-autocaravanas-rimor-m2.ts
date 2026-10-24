@@ -114,7 +114,7 @@ Perfil de comprador: el Sarus 95 Plus encaja con parejas que viajan con hijos ma
     analisisSlug: "rimor-sarus-95-plus-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -237,7 +237,7 @@ Perfil de comprador: el Sarus 12 Plus encaja con familias con niños que buscan 
     analisisSlug: "rimor-sarus-12-plus-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -361,7 +361,7 @@ Perfil de comprador: la Super Brig 695 TC encaja con familias de cuatro que quie
     analisisSlug: "rimor-super-brig-695-tc-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Ford Transit 2.0: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit 2.0: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

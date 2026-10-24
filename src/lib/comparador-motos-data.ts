@@ -104,7 +104,7 @@ export interface MotoComparador {
   } | null;
   // ── Plan de mantenimiento oficial (OBLIGATORIO desde 2026-10-07, orden de Daniel) ──
   planMantenimiento?: {
-    intervalo: string;          // ej. "6.000 km o 12 meses (lo que ocurra antes)"
+    intervalo: string;          // ej. "6.000 km o 12 meses"
     revisiones: {               // qué se cambia en cada revisión
       nombre: string;           // ej. "Revisión anual / 6.000 km"
       queSeCambia: string;      // ej. "Aceite 10W-40 + filtro aceite + inspección general"

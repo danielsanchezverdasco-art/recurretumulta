@@ -72,7 +72,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       mantenimientoAnual: 800,
       costeMensualTotal: 368,
       notas:
-        "Estimación con 15.000 km/año en uso mixto (EREV: electricidad + gasolina del generador), seguro a todo riesgo de vehículo de lujo. estimado: true porque no se vende en Europa.",
+        "15.000 km/año en uso mixto (EREV: electricidad + gasolina del generador); todo riesgo de vehículo de lujo. estimado: true porque no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -155,7 +155,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       mantenimientoAnual: 900,
       costeMensualTotal: 415,
       notas:
-        "Estimación con 15.000 km/año en uso mixto EREV, seguro a todo riesgo de ultra lujo. estimado: true porque no se vende en Europa.",
+        "15.000 km/año en uso mixto EREV; todo riesgo de ultra lujo. estimado: true porque no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -238,7 +238,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       mantenimientoAnual: 1000,
       costeMensualTotal: 412,
       notas:
-        "Estimación con 12.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo de hypercar. estimado: true porque no se vende en Europa.",
+        "Estimación con 12.000 km/año, 0,18 €/kWh (doméstica); todo riesgo de hypercar. estimado: true porque no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -399,7 +399,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       mantenimientoAnual: 600,
       costeMensualTotal: 262,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. estimado: true porque no se vende en Europa.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. estimado: true porque no se vende en Europa.",
       estimado: true,
     },
     galeria: [
@@ -477,7 +477,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
       mantenimientoAnual: 700,
       costeMensualTotal: 270,
       notas:
-        "Estimación con 15.000 km/año en uso mixto PHEV. estimado: true; precio y consumos oficiales aún sin publicar.",
+        "15.000 km/año en uso mixto PHEV. estimado: true; precio y consumos oficiales aún sin publicar.",
       estimado: true,
     },
     galeria: [

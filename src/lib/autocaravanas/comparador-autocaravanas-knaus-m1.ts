@@ -145,7 +145,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     analisisSlug: "knaus-boxlife-600-mq-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -297,7 +297,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     analisisSlug: "knaus-sky-ti-650-meg-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

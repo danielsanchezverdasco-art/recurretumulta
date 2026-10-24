@@ -112,7 +112,7 @@ Para quién es: la Ahorn Camp T 690 es para quien busca una perfilada de 7 metro
     analisisSlug: "ahorncamp-t-690-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Renault Master: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Renault)",
+        "Renault Master: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Renault Master (2 años / 40.000 km)",
