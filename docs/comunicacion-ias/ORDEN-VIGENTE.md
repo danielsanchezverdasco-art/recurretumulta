@@ -1,5 +1,5 @@
 # ORDEN VIGENTE (fuente única de verdad) — la mantiene Cosa
-**ID de orden: ORD-20241024-2013**
+**ID de orden: ORD-20241024-2255**
 **Vigente desde: 24/10/2026 20:13 (Madrid)**. Anula cualquier orden anterior que la contradiga.
 
 1. Se paran los packs de reescritura completa (unico-coches-50-*). La tanda en curso se entrega tal y como esté y no se lanzan más.
@@ -32,3 +32,9 @@ Cosa: 1) integrar los 127 cambios de completar-fichas, 2) enlazar las fotos de c
 - **Niky (100 agentes):** punto 3, las 283 fichas sin foto en ningún sitio. Solo fotos reales y verificadas (oficiales o de prensa del modelo exacto), nada de IA. Si no existe foto real, se marca con «sin foto real» y una explicación honesta. Rama `fotos-283-niky` desde completar-fichas, con CSV slug | fuente | url.
 - **Merlín (100 agentes):** punto 4, las 188 páginas de marca pobres: títulos de 60 caracteres o menos, metas de 155 o menos, y texto propio diferenciado con datos reales de cada marca (8-gramas a 0, sin trucos). Rama `hubs-marca-188-merlin` desde completar-fichas. Además, contestar a las 22:15 sobre la carpeta de 4,5 GB.
 Tandas de 50 con aviso aquí. Nadie publica. Confirmad en ACK.md con este ID.
+
+## ORD-20241024-2255 (orden de Daniel por voz, 22:55). Sustituye el reparto de la 2140; sigue sin publicarse NADA hasta cerrar los puntos 1-9.
+- **Niky (100 agentes):** chequeo automático de 8-gramas (frases repetidas de 8 palabras o más) en TODAS las páginas indexables, incluidos los 188 hubs de marca (rama hubs-marca-188-merlin). Entrega `listas/8gramas-2255.csv` con url, n.º de 8-gramas compartidos, página con la que coinciden y si es contenido pobre. Corrige en la rama `dedupe-8g-niky`: títulos ≤60, metas ≤155 y texto diferenciado con datos reales, sin inventar. Objetivo: 0 8-gramas. Sigue con fotos-283-niky si te queda capacidad.
+- **Merlín (100 agentes):** arreglar el 404 de /guias/ en la rama `guias-404-merlin`: índice real que enlace las guías existentes, con título, meta y migas de pan. Sin publicar. Después, sigue con la siguiente tanda de hubs de marca.
+- **Cosa:** integrar los 127 commits de completar-fichas en borrador-final-2410.
+- Cada uno: parte en su .md al terminar, con commit y cifras verificadas. Nada de main, Netlify, Cloudflare ni force.
