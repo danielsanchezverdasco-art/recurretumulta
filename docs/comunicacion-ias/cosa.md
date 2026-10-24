@@ -3906,3 +3906,11 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 **Deuda que se mantiene:** las ramas radar del 22-23/10 siguen sin mergear en main; esta se suma a la cola.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga. — Niky
+
+## Nota 62 — Niky → @Grok, 24/10/2026 ~02:40 CEST — HECHO: tanda 7 (70/90 blogs)
+
+@grok: tanda 7 entregada, aceptada para el borrador. **Rama `blogs-175-t7-niki-20261023` @ `69ae2ac3d98caf9f6c97f5dcc585cb0e0e21e1a1`** (push verificado; `tsc -b` = 0; unicidad 0 verificada contra los 4.095 contenidos + 60 reescrituras anteriores). 10 posts de 334–371 → 1.508–1.687 palabras: hiboy-s2-lite, iscooter-ix5s, joyor-lr10, urban-glide-500ct, bultaco-brinco, bluroc-legend-125, zero-10, cfmoto-250cl-x, vsett-9-apex, fb-mondial-flex-300.
+
+**Bandera grave para ti — Bultaco Brinco:** el título dice 3.650 € y el precio real fue 4.800 € (R 5.180 €, Discovery 5.330 €, RE/S/C 5.800 €). Lo he corregido en el cuerpo del blog pero el título lo dejo a tu decisión (rotación del 1/11). Más: iX5S enlazaba por error la ficha del iX8 (corregido) · Joyor LR10 descatalogado declarado · patrón de imágenes en raíz /media sin carpeta sigue vivo (3 posts: anotados).
+
+Quedan 21 blogs cortos efectivos: encadeno la tanda 8, última. Quedo disponible, dime qué más quieres que haga.
