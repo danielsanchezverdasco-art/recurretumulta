@@ -40,8 +40,8 @@ export const COCHES_EXP17: CocheComparador[] = [
     contras: [
       "Consumo elevado: 10,4 l/100 km homologados",
       "Precio desde 60.912 €, muy por encima de un Hilux o un D-Max",
-      "5,39 metros de largo: aparcar en ciudad es un reto",
-      "Etiqueta C: vetado en las ZBE más restrictivas a futuro",
+      "Con 5,39 metros de longitud, aparcarlo en ciudad resulta complicado",
+      "Su etiqueta C puede dejarlo fuera de las ZBE más exigentes con el tiempo",
       "Mantenimiento de pick-up premium: revisiones más caras que un SUV",
     ],
     largoMm: 5390,
@@ -66,7 +66,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 309,
       notas:
-        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
+        "Base de cálculo: 15.000 km al año, gasóleo a 1,55 € el litro, seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [

@@ -1431,16 +1431,16 @@ export const COCHES_LOTE17: CocheComparador[] = [
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
     pros: [
-      "117 km de autonomía eléctrica: el día a día urbano sin gastar gasolina",
+      "Sus 117 km eléctricos bastan para el día a día urbano sin quemar gasolina",
       "Etiqueta Cero con 150 CV: entra en todas las ZBE",
-      "Carga rápida en continua de 50 kW, rara en un híbrido enchufable",
+      "La carga rápida en continua llega a 50 kW, algo poco habitual entre híbridos enchufables",
       "Disponible en 5 y 7 plazas y en versión Cargo para profesionales",
       "Desde 35.770 €: uno de los híbridos enchufables de 7 plazas más asequibles",
     ],
     contras: [
       "150 CV se quedan justos con la furgoneta cargada o en autopista",
       "La batería resta espacio bajo el piso frente al Caddy diésel",
-      "Sin datos oficiales de 0-100 km/h ni peso en vacío",
+      "No hay cifras oficiales publicadas de 0 a 100 km/h ni de peso en vacío",
       "Exige enchufe en casa o en la empresa para rentabilizar el sistema híbrido",
       "El precio sube rápido con los acabados superiores (Outdoor, Maxi)",
     ],
@@ -1466,7 +1466,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 165,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, recarga a 0,18 €/kWh, consumos WLTP de 0,5 l/100 km y 18,9 kWh/100 km,; todo riesgo.",
+        "Hipótesis de gasto: 15.000 km anuales, con gasolina a 1,60 € el litro y recarga a 0,18 € el kWh, con consumos WLTP de 0,5 litros cada 100 km y 18,9 kWh cada 100 km, más seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1691,7 +1691,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 151,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP ponderado de 0,9 l/100 km (sin contar la recarga eléctrica); todo riesgo.",
+        "Hipótesis: 15.000 km al año, gasolina a 1,60 € el litro; el consumo WLTP ponderado es de 0,9 litros cada 100 km sin contar la recarga eléctrica, y el seguro es a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1797,7 +1797,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 105,
       costeMensualTotal: 167,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica), consumo WLTP de 24,1 kWh/100 km; todo riesgo.",
+        "El cálculo mensual parte de 15.000 km al año, recarga doméstica a 0,18 € el kWh, un consumo WLTP de 24,1 kWh cada 100 km, con seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1869,12 +1869,12 @@ export const COCHES_LOTE17: CocheComparador[] = [
       "325 CV: el Golf de serie más potente de la historia",
       "270 km/h de velocidad máxima",
       "Edición 50.º aniversario limitada a 350 unidades en España",
-      "5,3 s de 0 a 100 km/h con autoblocante electrónico",
+      "Con autoblocante electrónico, acelera hasta 100 km/h en 5,3 s",
       "Chasis rebajado y puesta a punto específica de la edición",
     ],
     contras: [
       "56.990 €: precio de compacto premium por un Golf",
-      "Etiqueta C y 173 g/km de CO₂: paga impuesto de matriculación",
+      "Lleva etiqueta C y emite 173 g/km de CO2, así que paga impuesto de matriculación",
       "7,6 l/100 km WLTP: el consumo real deportivo supera los 10 litros",
       "Maletero de 374 litros: justo para un compacto de este precio",
       "Las 350 unidades españolas se agotaron en días: solo mercado de ocasión",
@@ -1901,7 +1901,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
       mantenimientoAnual: 185,
       costeMensualTotal: 276,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo WLTP de 7,6 l/100 km; todo riesgo.",
+        "Se calcula con 15.000 km anuales, gasolina a 1,60 € el litro, consumo WLTP de 7,6 litros cada 100 km y cobertura a todo riesgo.",
       estimado: true,
     },
     galeria: [

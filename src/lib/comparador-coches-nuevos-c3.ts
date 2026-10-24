@@ -331,7 +331,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
       "El compacto de referencia: equilibrio total entre confort y dinamismo",
       "Golf 8.5 con los errores del 8 corregidos: botones físicos en el volante",
       "Gama completísima: gasolina, diésel, GTE, GTI, GTI Clubsport y R",
-      "Consumo de 5,3 l/100 km en el 1.5 TSI de 116 CV",
+      "El 1.5 TSI de 116 CV registra un consumo de 5,3 litros cada 100 km",
       "Valor residual altísimo: el Golf se vende solo en el mercado de ocasión",
     ],
     contras: [
@@ -349,10 +349,10 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     videoCanal: null,
     euroncap: { estrellas: 5, ano: 2022, url: null, nota: "5 estrellas Euro NCAP (2022, Golf 8)" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que antes ocurra)",
+      intervalo: "Cada 12 meses o 15.000 km, según lo que llegue antes",
       revisiones: [
-        { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general", costeAproxEur: null },
-        { nombre: "Revisión 30.000 km / 2 años", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos", costeAproxEur: null },
+        { nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite, filtro de aceite, filtro de polen y revisión general", costeAproxEur: null },
+        { nombre: "Revisión 30.000 km / 2 años", queSeCambia: "Todo lo anterior, más filtro de aire y líquido de frenos", costeAproxEur: null },
       ],
       costeAnualAproxEur: null,
       fuente: "Plan de mantenimiento oficial Volkswagen España",
@@ -366,7 +366,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     costeMensual: {
       costeEnergia100km: 8.5, seguroTercerosAnual: 440, seguroAmpliadoAnual: 790,
       mantenimientoAnual: 260, costeMensualTotal: 165, precioKwh: 0.18, precioGasolinaL: 1.6,
-      notas: "15.000 km/año, gasolina a 1,60 €/l y consumo WLTP de 5,3 l/100 km",
+      notas: "Anualidad de referencia: 15.000 km, gasolina a 1,60 € el litro y consumo WLTP de 5,3 litros cada 100 km.",
       estimado: true,
     },
     fuenteNombre: "km77",

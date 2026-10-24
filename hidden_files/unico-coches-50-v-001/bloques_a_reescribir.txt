@@ -1,0 +1,16 @@
+
+===== BLOG /blog/vinfast-vf-6-2026-precio-ficha-tecnica/ col=2 =====
+FILE: src/lib/blog-posts-batch2b-5.ts
+  [6] :: VinFast necesita ganarse la confianza en Europa, y para eso juega dos bazas: siete años o 160.000 km de garantía, con un precio muy competitivo.
+
+===== FICHA /coches/volkswagen-amarok-2026-precio-ficha-tecnica/ col=1 =====
+FILE: src/lib/comparador-coches-exp17.ts
+  [10] literal_en_span=SI :: Se parte de 15.000 km al año, con gasóleo a 1,55 € el litro y seguro a todo riesgo.
+
+===== FICHA /coches/volkswagen-caddy-california-2025/ col=1 =====
+FILE: src/lib/comparador-coches-lote16.ts
+  [10] literal_en_span=SI :: Se supone un uso de 15.000 km anuales, con gasóleo a 1,55 € el litro y un consumo de 5,6 litros cada 100 km, más cobertura a todo riesgo.
+
+===== FICHA /coches/volkswagen-golf-gti-edition-50-2026/ col=2 =====
+FILE: src/lib/comparador-coches-lote17.ts
+  [3] literal_en_span=SI :: Con autoblocante electrónico, firma un 0 a 100 km/h en 5,3 s

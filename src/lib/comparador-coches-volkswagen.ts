@@ -485,14 +485,14 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "9 plazas (3+3+3): la lanzadera familiar y profesional por excelencia",
-      "2.0 TDI de 150 CV y 360 Nm: mecánica probada y frugal",
+      "El TDI 2.0 de 150 CV y 360 Nm es una mecánica probada y de consumo contenido",
       "52.412 € impuestos incluidos para el modelo 2026 batalla corta",
       "7,3 l/100 km WLTP: contenido para un 9 plazas de 2,2 toneladas",
       "5,05 m de largo: más manejable que la batalla larga",
     ],
     contras: [
       "13,4 s de 0-100: las prestaciones no son su fuerte",
-      "Etiqueta C: sin acceso a ZBE en episodios de alta contaminación",
+      "Con etiqueta C, en episodios de alta contaminación puede quedarse sin acceso a las ZBE",
       "175 km/h de velocidad máxima",
       "Interior funcional con plásticos duros: prima la durabilidad",
       "El cambio automático de 8 velocidades encarece la factura",
@@ -728,7 +728,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "265 CV y 370 Nm: el GTI de segunda fase más potente de la historia",
-      "0-100 en 5,9 s y 250 km/h: prestaciones de auténtico deportivo",
+      "Un 0 a 100 en 5,9 segundos, hasta 250 km/h de punta: prestaciones de deportivo de verdad",
       "Desde 42.730 € con descuento oficial: precio final verificado",
       "DSG de 7 velocidades y diferencial electrónico VAQ de serie",
       "Maletero de 374 L: tan práctico como un Golf normal",
@@ -1051,9 +1051,9 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El compacto de referencia: chasis preciso y aplomo legendario",
-      "5,2 l/100 km y etiqueta ECO con 150 CV: el equilibrio perfecto",
+      "Con 150 CV, 5,2 litros cada 100 km y etiqueta ECO: un equilibrio difícil de igualar",
       "224 km/h de punta y 0-100 en 8,4 s: sobrado para todo",
-      "Calidad de rodadura y acabados por encima de la media del segmento",
+      "Rodadura y acabados por encima de lo habitual en su segmento",
       "Valor de reventa altísimo: el Golf apenas se deprecia",
     ],
     contras: [
@@ -1211,7 +1211,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     bateriaKwh: 19.7,
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
-    pros: ["Con 272 CV y 400 Nm hace el 0 a 100 km/h en 6,6 segundos y, a la vez, lleva etiqueta Cero de la DGT: es el Golf que entra en la ZBE sin renunciar a apretar", "Acepta carga rápida de 50 kW en corriente continua, una rareza entre los híbridos enchufables que en la práctica acorta las paradas frente a rivales que solo cargan en alterna", "La batería de 19,7 kWh le da margen eléctrico de sobra para el trayecto diario casa-trabajo sin arrancar el 1.5 TSI, que es donde un GTE se defiende o se hunde", "Mantiene la fórmula discreta del GTE: detalles en azul en lugar del rojo del GTI y una carrocería de Golf de siempre, sin estridencias para quien no quiere ir anunciándose"],
+    pros: ["272 CV y 400 Nm le dan un 0 a 100 km/h de 6,6 segundos y, al mismo tiempo, la etiqueta Cero de la DGT abre las ZBE sin renunciar a apretar", "Cargar rápido en continua a 50 kW resulta una rareza entre híbridos enchufables y en la práctica acorta las paradas frente a rivales que solo cargan en alterna", "La batería de 19,7 kWh le da margen eléctrico de sobra para el trayecto diario casa-trabajo sin arrancar el 1.5 TSI, que es donde un GTE se defiende o se hunde", "Mantiene la fórmula discreta del GTE: detalles en azul en lugar del rojo del GTI y una carrocería de Golf de siempre, sin estridencias para quien no quiere ir anunciándose"],
     contras: ["Parte de 45.900 euros según la ficha: es mucho dinero por un Golf de cinco puertas, lo pague quien lo pague, aunque sea el más potente con etiqueta Cero", "Pesa 1.668 kg y se le nota: en cambios de apoyo y frenadas largas el GTE no tiene la agilidad de un GTI de gasolina, por mucho diferencial electrónico que lleve", "El maletero se queda en 345 litros porque la batería ocupa su espacio; para llevar la compra vale, para meter equipaje de cuatro ya hay que pensárselo", "Si no lo enchufas a diario, pierde el sentido: sin cargar, arrastras peso extra y el consumo del gasolina se acerca al de un Golf convencional sin ninguna ventaja a cambio"],
     largoMm: 4282,
     anchoMm: 1789,

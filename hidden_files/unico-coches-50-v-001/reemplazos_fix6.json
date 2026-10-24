@@ -1,0 +1,11 @@
+[
+{"tipo": "ficha", "slug": "volkswagen-amarok-2026-precio-ficha-tecnica",
+ "viejo": "Se parte de 15.000 km al año, con gasóleo a 1,55 € el litro y seguro a todo riesgo.",
+ "nuevo": "Base de cálculo: 15.000 km al año, gasóleo a 1,55 € el litro, seguro a todo riesgo."},
+{"tipo": "ficha", "slug": "volkswagen-golf-gti-edition-50-2026",
+ "viejo": "Con autoblocante electrónico, firma un 0 a 100 km/h en 5,3 s",
+ "nuevo": "Con autoblocante electrónico, el 0 a 100 km/h se queda en 5,3 s"},
+{"tipo": "blog", "slug": "vinfast-vf-6-2026-precio-ficha-tecnica",
+ "viejo": "VinFast necesita ganarse la confianza en Europa, y para eso juega dos bazas: siete años o 160.000 km de garantía, con un precio muy competitivo.",
+ "nuevo": "VinFast necesita ganarse la confianza en Europa, y para eso juega dos bazas: siete años o 160.000 km de garantía, más un precio muy competitivo."}
+]

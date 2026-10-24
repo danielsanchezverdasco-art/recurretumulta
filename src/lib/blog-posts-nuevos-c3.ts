@@ -366,7 +366,7 @@ La versión GTX (340 CV) es 4Motion; el Pro es tracción trasera.
 
 <a href=/coches/volkswagen-golf-2025-precio-ficha-tecnica/>Ficha técnica del Volkswagen Golf 2025</a>.
 
-El **Volkswagen Golf 2025** (la actualización 8.5) es el compacto que lo inventó todo, y sigue siendo la referencia: ha corregido los pecados del Golf 8 (vuelven los botones físicos en el volante), mantiene una gama amplísima y parte de **27.945 €** con el 1.5 TSI de 116 CV. Del utilitario al R de 333 CV, hay un Golf para cada conductor.
+El Golf 2025 de Volkswagen (la actualización 8.5) es el compacto que lo inventó todo: sigue siendo la referencia tras corregir los pecados del Golf 8 (vuelven los botones físicos en el volante), mantiene una gama amplísima y parte de 27.945 € con el TSI 1.5 de 116 CV. Del utilitario al R de 333 CV, hay un Golf para cada conductor.
 
 ## Precio y versiones del Golf 2025
 
@@ -394,7 +394,7 @@ El **Volkswagen Golf 2025** (la actualización 8.5) es el compacto que lo invent
 
 ## El compacto total
 
-El Golf 8.5 mantiene lo mejor del concepto: calidad de rodadura superior, chasis equilibrado y un interior ahora más lógico. El 1.5 TSI de 116 CV gasta 5,3 l/100 km y empuja con dignidad (9,9 s), aunque lleva etiqueta C. Quien quiera ECO tiene los eTSI; quien quiera emociones, el GTI (265 CV) o el R (333 CV); y quien busque eficiencia con enchufe, el GTE de 272 CV con etiqueta CERO.
+El Golf 8.5 conserva lo mejor del concepto: calidad de rodadura superior, chasis equilibrado y un interior ahora más lógico. El 1.5 TSI de 116 CV homologa 5,3 l/100 km y empuja con dignidad (9,9 s), aunque lleva etiqueta C. Quien quiera ECO tiene los eTSI; quien quiera emociones, el GTI (265 CV) o el R (333 CV); y quien busque eficiencia con enchufe, el GTE de 272 CV con etiqueta CERO.
 
 Con 5 estrellas Euro NCAP (2022) y un valor residual altísimo, el Golf sigue siendo apuesta segura.
 
@@ -413,7 +413,7 @@ Desde 27.945 € con el motor 1.5 TSI de 116 CV.
 Sí: los eTSI son mild-hybrid con etiqueta ECO, y el GTE es híbrido enchufable con etiqueta CERO.
 
 ### ¿Qué consumo tiene el Golf 1.5 TSI?
-5,3 l/100 km en ciclo WLTP.
+En ciclo WLTP, 5,3 l/100 km.
 
 ### ¿Cuántos caballos tiene el Golf GTI 2025?
 265 CV; el Clubsport llega a 300 CV y el R a 333 CV.

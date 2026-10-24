@@ -1,0 +1,11 @@
+Comando de verificación (ejecutado desde la raíz del worktree, rama unico-coches-50-v-001):
+  python3 hidden_files/unico-coches-50-v-001/extraer_corpus.py
+  python3 hidden_files/unico-coches-50-v-001/medir_colisiones.py hidden_files/unico-coches-50-v-001/tanda50.json
+Resultado: paginas: 50, grams en colision (tanda): 0
+CSV: hidden_files/unico-coches-50-v-001/verificacion.csv (url;coincidencias_8gramas, todo 0)
+Métrica: ventanas de 8 palabras por bloques de texto propio de datos (fichas y blogs),
+normalización en minúsculas con puntuación separada; excluidas navegación y etiquetas de tablas.
+Evolución de grams en colisión: 962 -> 310 -> 73 -> 22 -> 6 -> 2 -> 0.
+Nota TypeScript: npx tsc -b no puede correr limpio en este worktree porque no tiene
+node_modules instalado (17.599 errores de módulos/tipos ausentes, 0 errores de sintaxis
+y 0 errores en los ficheros de datos editados). Es una limitación del entorno, no de la tanda.

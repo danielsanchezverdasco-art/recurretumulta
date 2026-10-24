@@ -1403,7 +1403,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 107,
       notas:
-        "15.000 km/año, consumo implícito ~11,2 kWh/100 km, 0,18 €/kWh (doméstica) y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "Cálculo para 15.000 km anuales con el consumo implícito de 11,2 kWh cada 100 km, recarga doméstica a 0,18 € el kWh y seguro a todo riesgo; el precio del coche es orientativo y corresponde al mercado chino.",
       estimado: true,
     },
     galeria: [
@@ -1470,7 +1470,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["El 1.5 turbo A415TD entrega 190 CV y 260 Nm en un SUV de 4.562 mm: cifras de compacto deportivo en un coche pensado para China interior, no para postureo urbano.", "Con 1.917 mm de anchura y 2.700 mm de batalla, el habitáculo aprovecha de verdad el formato: hombros holgados delante y una banqueta trasera utilizable por adultos.", "El maletero parte de 605 litros en la versión de gasolina, un volumen que en Europa obligaría a mirar un segmento por encima pagando mucho más.", "El cambio de doble embrague de siete marchas y el 0 a 100 km/h en 8,8 segundos le dan una respuesta inmediata en incorporaciones, sin recurrir a un CVT.", "Su precio de referencia en China, en torno a 13.000 euros al cambio según la propia ficha, deja en evidencia el sobrecoste de cualquier SUV equivalente vendido en España."],
+    pros: ["El 1.5 turbo A415TD entrega 190 CV y 260 Nm en un SUV de 4.562 mm: cifras de compacto deportivo en un coche pensado para China interior, no para postureo urbano.", "Con 1.917 mm de anchura y 2.700 mm de batalla, el habitáculo aprovecha de verdad el formato: hombros holgados delante y una banqueta trasera utilizable por adultos.", "El maletero parte de 605 litros en la versión de gasolina, un volumen que en Europa obligaría a mirar un segmento por encima pagando mucho más.", "En incorporaciones responde al instante gracias al doble embrague de siete relaciones y a un 0 a 100 km/h de 8,8 segundos, sin necesidad de un cambio CVT.", "Su precio de referencia en China, en torno a 13.000 euros al cambio según la propia ficha, deja en evidencia el sobrecoste de cualquier SUV equivalente vendido en España."],
     contras: ["En España no se puede comprar nuevo: no hay red Venucia, ni homologación europea, ni recambios garantizados fuera de la importación paralela por cuenta propia.", "Esta variante es gasolina pura, sin microhibridación ni etiqueta ECO de la DGT: se queda en etiqueta C y penaliza en zonas de bajas emisiones.", "La caída coupé del techo, que en las fotos vende deportividad, recorta altura libre en las plazas traseras y complica meter a un adulto alto detrás.", "No consta prueba Euro NCAP: al no comercializarse en Europa, quien lo importe viaja sin una referencia independiente de seguridad comparable a la de sus rivales."],
     largoMm: 4562,
     anchoMm: 1917,
@@ -1494,7 +1494,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 177,
       notas:
-        "15.000 km/año, consumo estimado ~7,5 l/100 km, gasolina a 1,6 €/l y todo riesgo. Precio del coche orientativo (mercado chino).",
+        "Supuesto anual de 15.000 km: consumo estimado de 7,5 litros cada 100 km, gasolina a 1,6 € el litro y cobertura a todo riesgo. El importe del coche es una referencia orientativa del mercado chino.",
       estimado: true,
     },
     galeria: [

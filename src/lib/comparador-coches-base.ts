@@ -2283,9 +2283,9 @@ export const COCHES_BASE: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "El compacto más equilibrado del mercado: chasis, dirección y calidad de rodadura de referencia",
-      "1.5 eTSI 150 CV con DSG: 8,4 s de 0-100 y solo 5,2 l/100 km, con etiqueta ECO",
+      "El eTSI 1.5 de 150 CV con DSG tarda 8,4 segundos en el 0 a 100, gasta solo 5,2 litros cada 100 km y lleva etiqueta ECO",
       "Gama amplísima: del 1.5 TSI de 115 CV al GTI de 265 CV, el Clubsport de 300 CV y el R de 333 CV",
-      "El 8.5 corrige el Mk8: pantalla de 12,9 pulgadas, botones físicos en el volante y asistente con IA",
+      "En el 8.5 se corrigen los fallos del Mk8 con display de 12,9 pulgadas, mandos físicos en el volante y asistente con IA",
       "Maletero de 381 L y 5 plazas reales: sirve para todo, todos los días",
     ],
     contras: [
@@ -2372,7 +2372,7 @@ export const COCHES_BASE: CocheComparador[] = [
     ],
     contras: [
       "Desde 69.650 € en versión Beach Camper: el capricho camper más caro del mercado",
-      "La Ocean diésel roza los 79.000 € con IVA: precio de autocaravana",
+      "La Ocean diésel se acerca a 79.000 € con IVA, una cifra propia de autocaravana",
       "Depósitos de agua pequeños frente a una autocaravana de verdad",
       "2.250 kg en orden de marcha: el consumo real se resiente cuando va cargada",
       "Menos de 2 m de altura: bien para parkings, justo para estar de pie dentro",

@@ -1634,8 +1634,8 @@ export const COCHES_LOTE3: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "Desde 35.550 € en Europa: precio muy competitivo",
-      "Garantía de 7 años o 160.000 km",
+      "Precio europeo desde 35.550 €, muy competitivo dentro de su segmento",
+      "Cobertura de 7 años o 160.000 km incluida",
       "Versión Plus de 204 CV con 379-410 km de autonomía",
       "Carga rápida de 100 kW",
       "Diseño Pininfarina",
@@ -1722,10 +1722,10 @@ export const COCHES_LOTE3: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "cargaRapidaKw"],
     pros: [
-      "Versión Eco de 204 CV con 450 km de autonomía",
-      "Versión Plus AWD de 354 CV y 500 Nm",
+      "La Eco rinde 204 CV y homologa 450 km de autonomía",
+      "La Plus AWD entrega 354 CV y 500 Nm de par",
       "Batería de 75,3 kWh",
-      "Garantía de 7 años o 160.000 km",
+      "Siete años o 160.000 kilómetros de garantía en toda la gama",
       "Precio europeo estimado desde ~35.000 €",
     ],
     contras: [

@@ -305,13 +305,13 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       "El 2.0 TDI de 200 CV homologa solo 5,5 l/100 km: devorakilómetros nato",
       "Maletero de 565 litros en el Shooting Brake",
       "4,87 metros de presencia con diseño de coupé de cuatro puertas",
-      "Gama desde 41.400 € con el 1.5 TSI de 150 CV",
+      "El acceso a la gama cuesta 41.400 € y monta el 1.5 TSI de 150 CV",
       "5 estrellas EuroNCAP (2017)",
     ],
     contras: [
       "El TDI de 200 CV sube a 58.230 €",
       "Modelo al final de su vida comercial: sin sucesor confirmado",
-      "El 2.0 TSI de 190 CV (7,9 s, 233 km/h) gasta notablemente más",
+      "El 2.0 TSI de 190 CV, con 7,9 s y 233 km/h, consume claramente más",
       "Pantalla y mandos táctiles poco intuitivos en marcha",
       "Plaza central trasera estrecha para su tamaño",
     ],
@@ -337,7 +337,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
       mantenimientoAnual: 460,
       costeMensualTotal: 228,
       notas:
-        "15.000 km/año; diésel 1,55 €/l; todo riesgo. Consumo WLTP de 5,5 l/100 km (2.0 TDI 200 CV).",
+        "Base: 15.000 km al año y gasóleo a 1,55 € el litro, con seguro a todo riesgo; el consumo WLTP de referencia es 5,5 litros cada 100 km para el 2.0 TDI de 200 CV.",
       estimado: true,
     },
     galeria: [

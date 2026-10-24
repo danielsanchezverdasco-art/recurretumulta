@@ -3346,7 +3346,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     precioDesde: 34970, potenciaCv: 150, autonomiaKm: null, maleteroL: 381,
     ceroCien: 8.4, velocidadMax: 224, bateriaKwh: null, cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Etiqueta ECO gracias a la microhibridación de 48 V", "Referencia del segmento por calidad de rodadura y acabados", "Cambio DSG de 7 velocidades de serie"],
+    pros: ["Con la microhibridación de 48 V consigue la etiqueta ECO", "Referencia del segmento por calidad de rodadura y acabados", "Cambio DSG de 7 velocidades de serie"],
     contras: ["Precio elevado: parte de casi 35.000 €", "La hibridación ligera apenas reduce el consumo real"],
     largoMm: 4282, anchoMm: 1789, altoMm: 1483, pesoKg: 1373,
     consumo: 5.2, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 117,

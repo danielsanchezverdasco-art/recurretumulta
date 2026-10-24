@@ -230,7 +230,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "131 km de autonomía eléctrica homologada",
       "Carga rápida en CC de 40 kW, rara en un compacto enchufable",
       "El Golf de siempre con etiqueta Cero y espíritu GTI",
-      "Consumo homologado de 0,4 l/100 km y 8 g/km de CO2",
+      "Homologa 0,4 litros cada 100 km y 8 gramos de CO2 por kilómetro",
     ],
     contras: [
       "Maletero de solo 273 litros: la batería se lo come",

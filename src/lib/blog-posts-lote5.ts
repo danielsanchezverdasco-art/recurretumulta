@@ -1023,9 +1023,9 @@ Jeep no lo ha confirmado, pero la marca sí opera en Europa.
 
 <a href=/coches/venucia-d60-ev-2025-precio-ficha-tecnica/>Ficha técnica del Venucia D60 EV</a>.
 
-El **Venucia D60 EV** es la berlina eléctrica sensata de la alianza Dongfeng-Nissan: **163 CV y 280 Nm**, batería LFP de **47 kWh** y **420 km de autonomía CLTC**. Mide 4,77 metros y su maletero cubica **525 litros**. En China parte de unos **129.800 yuanes, unos ~17.000 €** al cambio.
+Sensata y eléctrica: así es la berlina D60 EV de la alianza Dongfeng-Nissan, con 163 CV, 280 Nm, batería LFP de 47 kWh y 420 km de autonomía CLTC. Sus 4,77 metros esconden un maletero de 525 litros, y en China arranca en unos 129.800 yuanes, alrededor de 17.000 € al cambio.
 
-Venucia es la marca asequible de la joint venture entre Dongfeng y Nissan, y el D60 EV es su superventas eléctrico: una berlina familiar sin complicaciones, con la fiabilidad de la ingeniería japonesa y el precio de la fabricación china. Con la <a href=https://www.dgt.es>etiqueta Cero de la DGT</a>, sería un taxi perfecto.
+Detrás de Venucia está la alianza entre Dongfeng y Nissan, y su D60 EV funciona como superventas eléctrico de esa marca asequible: una berlina familiar sin complicaciones, con ingeniería de origen japonés y precio de fabricación china. Al llevar la etiqueta Cero de la DGT, encajaría muy bien como taxi.
 
 ## Ficha técnica resumida
 
@@ -1045,7 +1045,7 @@ Venucia es la marca asequible de la joint venture entre Dongfeng y Nissan, y el 
 
 ## Precio del D60 EV
 
-En China la gama se mueve entre 129.800 y 159.800 yuanes (~17.000-21.000 €). Es uno de los eléctricos con mejor relación tamaño/precio del mercado chino, rival del <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>BYD Qin Plus</a> en su versión EV.
+La horquilla china va de 129.800 a 159.800 yuanes, más o menos entre 17.000 y 21.000 €. Pocos eléctricos del mercado chino ofrecen tanto tamaño por ese dinero; su rival directo es el BYD Qin Plus en versión EV.
 
 <img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-oficial.webp alt=\"Venucia D60 EV blanco, vista lateral en estudio\">
 
@@ -1060,7 +1060,7 @@ Su rival natural es el BYD Qin EV. <a href=/comparador-coches/>Enfréntalos en e
 ## Curiosidades que lo hacen único
 
 - Venucia significa "Venus" en latín adaptado al chino.
-- Es uno de los eléctricos favoritos de las flotas de taxi chinas.
+- Las flotas de taxi chinas lo tienen entre sus eléctricos preferidos.
 - Su batería LFP admite miles de ciclos de carga.
 - El D60 de gasolina fue un superventas antes de la versión EV.
 - Dongfeng-Nissan es una de las joint ventures más antiguas de China.
@@ -1073,7 +1073,7 @@ Desde unos 129.800 yuanes (~17.000 €) en China.
 
 ### ¿Qué autonomía tiene?
 
-420 km en ciclo CLTC con la batería de 47 kWh.
+Con la batería de 47 kWh homologa 420 km en ciclo CLTC.
 
 ### ¿Qué potencia tiene?
 
@@ -1104,9 +1104,9 @@ No. Venucia solo opera en China.
 
 <a href=/coches/venucia-v-online-2025-precio-ficha-tecnica/>Ficha técnica del Venucia V-Online</a>.
 
-El **Venucia V-Online** (también llamado Xing) es el SUV coupé de la marca barata de Dongfeng-Nissan: un **1.5 turbo de 190 CV y 260 Nm** con cambio de **doble embrague de 7 velocidades**, que acelera de 0 a 100 en **8,8 segundos**. En China parte de unos **99.800 yuanes, unos ~13.000 €** al cambio.
+El V-Online de Venucia, conocido también como Xing, es el SUV coupé de la marca barata de Dongfeng-Nissan: monta un 1.5 turbo de 190 CV y 260 Nm con doble embrague de 7 velocidades y un 0 a 100 en 8,8 segundos. En China arranca en unos 99.800 yuanes, cerca de 13.000 € al cambio.
 
-Su maletero cubica **605 litros** y el diseño de techo descendente le da un aire deportivo sin renunciar al espacio familiar. La <a href=https://www.dgt.es>etiqueta C de la DGT</a> le correspondería como gasolina moderno.
+El maletero cubica 605 litros y el techo descendente le da un aire deportivo sin quitar espacio familiar. Como gasolina moderno, la DGT le daría la etiqueta C.
 
 ## Ficha técnica resumida
 
@@ -1154,7 +1154,7 @@ Desde unos 99.800 yuanes (~13.000 €) en China.
 
 ### ¿Qué motor tiene?
 
-Un 1.5 turbo de gasolina con 190 CV y 260 Nm, de origen Mitsubishi.
+El motor es un 1.5 turbo de gasolina, 190 CV y 260 Nm, con origen Mitsubishi.
 
 ### ¿Qué cambio lleva?
 
@@ -1166,7 +1166,7 @@ Hace el 0-100 en 8,8 segundos, ágil para un SUV familiar.
 
 ### ¿Tiene etiqueta C?
 
-Sí, como gasolina moderno le correspondería la etiqueta C.
+Sí: al ser un gasolina moderno, le corresponde la etiqueta C.
 
 ### ¿Se vende en España?
 

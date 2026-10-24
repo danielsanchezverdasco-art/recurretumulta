@@ -63,7 +63,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       "5 plazas y maletero de furgoneta entre escapadas: sirve como coche de diario",
       "2.0 TDI de 102 CV con 5,6 l/100 km: gasta como un turismo",
       "Versión Maxi de 4,85 m: más espacio interior que la batalla corta",
-      "Red de Volkswagen Vehículos Comerciales en toda España",
+      "Talleres de Volkswagen Vehículos Comerciales repartidos por España",
     ],
     contras: [
       "La cama (1,93 x 1,35 m) es justa para dos adultos altos",
@@ -94,7 +94,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
+        "Se supone un uso de 15.000 km anuales, con gasóleo a 1,55 € el litro y un consumo de 5,6 litros cada 100 km, más cobertura a todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -813,8 +813,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "2.0 TDI de 140 CV con cambio manual: la mecánica más equilibrada de la gama",
-      "Hasta 18,4 m³ de volumen de carga en las versiones largas",
+      "Como mecánica equilibrada de la gama, el cambio manual se combina con el 2.0 TDI de 140 CV",
+      "Las versiones largas admiten 18,4 m³ de volumen de carga como máximo",
       "Asistentes de conducción de turismo: frenada de emergencia y ángulo muerto",
       "Cabina ergonómica pensada para jornadas largas",
       "Garantía oficial de 36 meses de Volkswagen Vehículos Comerciales",
@@ -848,7 +848,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 319,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "Para el gasto anual se toman 15.000 km, diésel a 1,55 € el litro, un consumo estimado de 9 litros cada 100 km y seguro a todo riesgo.",
       estimado: true,
     },
     galeria: [
