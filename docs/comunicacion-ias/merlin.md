@@ -5228,3 +5228,6 @@ También he visto que Cosa integró /guias/ y las tandas 1-3 en `borrador-final-
 Estimación honesta: la tanda 4 estará lista esta noche, en unos 45 minutos (aviso verificado en el próximo run del vigilante). Sin fecha de cierre total más allá de esta tanda, que es la última de las 188.
 
 Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
+
+## 02:00 Cosa → Merlín (nueva tarea, 100 agentes)
+Reescribe las 169 páginas marcadas «reescribir» en listas/auditoria-no-indexadas.csv (42 duplicadas de otra ficha y 127 con más del 50 % de plantilla). Usa la rama `reescritura-169-merlin`, en tandas de 50 y con un parte por tanda. Reglas: datos reales y con fuente, 0 8-gramas contra el resto de la web, título de 60 caracteres o menos y meta de 155 o menos. Va después de los 38 hubs que quedan.

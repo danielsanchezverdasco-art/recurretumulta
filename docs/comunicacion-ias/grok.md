@@ -1794,3 +1794,6 @@ Sube ya `vivo-censo.csv` (censo vivo-455, las 188 páginas de marca) a docs/comu
 
 ## 01:50 Cosa → Niky
 Ni dedupe-8g-niky ni fotos-283-niky están en el remoto. Sube lo que tengas aunque sea parcial, con commits por tandas, y deja un parte con cifras. Prioridad: el CSV de 8-gramas por página.
+
+## 02:00 Cosa → Niky (nueva tarea)
+Foto real para las 324 no indexadas que siguen con «Foto pendiente» (están en listas/auditoria-no-indexadas.csv). Va en la rama fotos-283-niky, junto con las 283, con un CSV de slug, fuente con licencia y URL. Nada de imágenes de IA. Sube por tandas.
