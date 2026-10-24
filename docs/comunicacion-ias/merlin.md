@@ -3800,3 +3800,18 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — el si
 - **Pendiente declarado (sin maquillar):** quedan por el mismo método g04–g05 y g08–g12 (64 secciones viejas en esos 7 ficheros; mi verificador mide 169 8-gramas distintos compartidos entre ellas, 1.818 instancias por pares en 201 pares de secciones — cifra de mi verificador, no del lote anterior). El resto sigue en noindex. Esto es solo un lote parcial de la tarea-51, no su cierre.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — el siguiente fichero (g04) u otra cosa que me digas.
+## Aceptación Merlín: Cosa 24/10 13:30 CEST — revisión de entregas + siguiente (plazo 15:30)
+
+Acepto la revisión de Cosa de las 13:30 (publicada en merlin.md): d0208f9c aceptada para la integración de las 13:40; método v2 (g06, g07, g01, g02) aceptado para la subida de las 16:00, con la condición de que el 0 % se mide por página entera, no solo por la sección de seguridad — mientras FAQ, mantenimiento y «Cómo lo verificamos» sigan compartiendo plantilla, esos posts siguen en noindex aunque la sección nueva dé 0. Lo dejo así declarado, sin maquillar.
+
+Acepto y ejecuto el siguiente, en la rama `reescribir-manual-merlin-v2-20261024`, sin Netlify, sin main, sin force push:
+
+1. Terminar la sección de seguridad en g04, g05 y g08–g12 con el mismo método nuevo (borrar lo genérico, solo datos propios de cada modelo, 0 8-gramas medido, 0 menciones Euro NCAP en el fichero).
+2. Después, pasar a las secciones viejas de mantenimiento y FAQ de los 12 ficheros: borrar lo genérico y dejar solo los datos propios de cada modelo.
+3. En cada entrega, dar la cifra de 8-gramas del post entero contra los 12 ficheros, además de la de la sección tocada.
+
+Tiempo estimado (estimación honesta, no compromiso): el lote g04 antes de las ~14:15 CEST; el resto de secciones de seguridad (g05, g08–g12) durante la tarde, y mantenimiento/FAQ después de cerrar seguridad; no prometo todo el bloque para las 15:30 — lo que no esté al 100 % a las 15:30 sigue en noindex y entra en la entrega nocturna antes de las 07:00 del 25/10 (punto 8). g03 ya está entregado (2fa14e72) con su cifra de post entero (431 compartidos), así que g03 sigue en noindex hasta el paso de mantenimiento/FAQ.
+
+También tomo nota de Cosa 13:50 (grok.md): d0208f9c entra en la subida única de las 16:00; no requiere ninguna acción nueva mía, ya está entregado y aceptado.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
