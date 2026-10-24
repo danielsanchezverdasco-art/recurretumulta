@@ -878,5 +878,85 @@
   "intro": "Ligier se mueve en un segmento propio, el de los cuadriciclos, donde el carnet y el uso urbano mandan más que la potencia. La familia JS50 articula la oferta con el JS50 Select, el JS50 Select Confort, el JS50 Elite y el JS50 Ultimate, además del JS50 Eléctrico, una escalera de acabados dentro del mismo modelo. La familia Myli amplía el planteamiento con el Myli, el Myli Diésel, el Myli L7e y el Myli MAX en sus variantes Confort y L7e, además del Myli LAB como propuesta diferenciada. La convivencia de versiones eléctricas, diésel y L7e dentro de una misma gama obliga a mirar cada ficha con atención: no todos los Myli ni todos los JS50 se conducen con el mismo permiso ni sirven para el mismo recorrido. Comparar las fichas por familia y por energía deja claro qué cuadriciclo encaja con cada necesidad urbana. El Myli LAB, por su planteamiento diferenciado, muestra que Ligier también explora usos distintos al cuadriciclo urbano tradicional.",
   "n": 12,
   "url": "/coches/marca/ligier/"
+ },
+ "coches/lotus": {
+  "nombre": "Lotus",
+  "title": "Lotus: 12 fichas, Eletre, Emeya y Emira",
+  "description": "12 fichas técnicas de coches Lotus: Eletre, Emeya, Emira y Evija, con datos y versiones para comparar la gama eléctrica y deportiva.",
+  "intro": "Lotus vive un momento de cambio en el que conviven su herencia deportiva y una gama eléctrica nueva, y esta colección recoge ambas caras. El Eletre es el SUV eléctrico de la marca, con versiones que van del Eletre 600 al Eletre R+ y al Eletre X H1000, además del Eletre 900 Sport, una gama interna que muestra hasta dónde llega el modelo por potencia y equipamiento. El Emeya sigue ese camino como berlina eléctrica, con el Emeya 600 GT y el Emeya 900 Sport como referencias. Frente a ellos, el Emira mantiene el espíritu deportivo clásico de Lotus con el Emira Turbo, el Emira Turbo SE, el Emira 420 Sport y el Emira V6 SE, cuatro lecturas de un mismo deportivo. El Evija cierra la colección como hiperdeportivo eléctrico aparte. Comparar un Eletre con un Emira deja ver el contraste entre los dos Lotus actuales: SUV eléctrico de gran tamaño frente a deportivo ligero de enfoque tradicional.",
+  "n": 12,
+  "url": "/coches/marca/lotus/"
+ },
+ "coches/xiaomi": {
+  "nombre": "Xiaomi",
+  "title": "Xiaomi coches: 12 fichas, SU7, YU7 y SkyNomad",
+  "description": "12 fichas técnicas de coches Xiaomi: SU7, YU7 y SkyNomad N70 y N90, con datos y versiones para comparar la gama eléctrica de la marca.",
+  "intro": "Xiaomi ha entrado en el mundo del coche eléctrico con tres nombres que conviene distinguir desde el principio. El SU7 es la berlina de la marca, con el SU7, el SU7 Pro y el SU7 Max como escalera de potencia y equipamiento. El YU7 traslada esa propuesta al formato SUV, con el YU7, el YU7 Pro y el YU7 Max, además de una ficha general del YU7 que resume el modelo. La familia SkyNomad abre un tercer camino con el N70 Pro y el N70 Max por un lado y el N90 Max y el N90 Max Explorer por otro, dos tamaños dentro de una misma idea de SUV eléctrico. Al comparar las fichas se aprecia que Xiaomi repite un esquema claro: un modelo base, una versión Pro intermedia y una Max en lo alto, un patrón que facilita elegir sin tener que aprenderse una nomenclatura nueva en cada modelo.",
+  "n": 12,
+  "url": "/coches/marca/xiaomi/"
+ },
+ "motos/beta": {
+  "nombre": "Beta",
+  "title": "Beta: 12 fichas de enduro y trial, RR y Alp",
+  "description": "12 fichas técnicas de motos Beta: RR X-Pro, RR 480, Alp, Evo y Xtrainer, con datos y versiones para comparar la gama off-road.",
+  "intro": "Beta es una marca de off-road puro, y su catálogo se lee mejor separando el enduro del trial y de las trail ligeras. La familia RR concentra el enduro con la RR 480, la RR 4T 125 R y las RR X-Pro 300 y 350, modelos pensados para la competición y el uso exigente fuera del asfalto. La Xtrainer 300 ocupa un lugar intermedio, como enduro más accesible y manejable para quien se inicia en el campo. La familia Alp, con la Alp 200, la Alp 4.0 y la Alp X, aporta la vertiente más viajera y polivalente dentro del mismo espíritu todoterreno. La Evo 300 cierra la gama por el lado del trial, una disciplina distinta donde pesan la ligereza y la precisión más que la velocidad. Abrir las fichas por familias evita mezclar motos que, aunque compartan marca, están pensadas para terrenos y niveles de experiencia muy distintos.",
+  "n": 12,
+  "url": "/motos/marca/beta/"
+ },
+ "motos/fantic": {
+  "nombre": "Fantic",
+  "title": "Fantic: 12 fichas, Caballero, XE y XEF",
+  "description": "12 fichas técnicas de motos Fantic: Caballero 125, 500 y 700, XE, XEF, Issimo City y Stealth 500, con datos para comparar.",
+  "intro": "Fantic mezcla en su catálogo dos mundos que rara vez conviven en una misma marca: la moto clásica de estilo scrambler y la moto de enduro de competición. La familia Caballero es la cara clásica, con la Caballero 125 Scrambler y la Caballero 125 Rally, la Caballero 500 y la Caballero 500 Rally y la Caballero 700, una escalera de cilindradas dentro de una misma estética. La familia XE y XEF representa el lado competitivo, con la XE 125 y la XE 300 y las XEF 250, XEF 310 y XEF 450 para el enduro serio. La Stealth 500 añade una naked de carácter urbano, y la Issimo City cubre la movilidad eléctrica ligera para la ciudad. Ante tanta variedad, cada ficha hay que situarla en su familia: una Caballero y una XEF comparten poco más que la marca, porque apuntan a usos opuestos. La Issimo City, como eléctrica ligera, recuerda que Fantic también piensa en la ciudad, no solo en el campo y la competición.",
+  "n": 12,
+  "url": "/motos/marca/fantic/"
+ },
+ "patinetes/inokim": {
+  "nombre": "Inokim",
+  "title": "Inokim: 12 patinetes, Light, Quick y OX",
+  "description": "12 fichas de patinetes eléctricos Inokim: Light 2, Mini 2, Quick 3 y 4, OX, OX Hero y OXO, con autonomía y datos para comparar.",
+  "intro": "Inokim organiza sus patinetes en tres familias que se distinguen por el tamaño y la vocación. La familia Light, con el Light 2 y el Light 2 Max, y la Mini 2, cubre el uso urbano ligero, con modelos pensados para plegar, transportar y guardar con facilidad. La familia Quick, con el Quick 3, el Quick 4, el Quick 4 Hero y el Quick 4 Super, sube en autonomía y prestaciones manteniendo un formato todavía urbano. La familia OX cambia de registro: el OX, el OX Hero, el Ox Super y el OXO son patinetes más grandes y capaces, orientados a recorridos largos y a usuarios que priorizan la autonomía sobre la ligereza. Elegir entre un Light y un OX es, en el fondo, elegir entre portabilidad y alcance, y las fichas de esta colección permiten comparar esa decisión con cifras de autonomía y peso en cada modelo. El OXO, en lo alto de la familia OX, resume bien el salto entre un patinete urbano ligero y uno de gran autonomía.",
+  "n": 12,
+  "url": "/patinetes/marca/inokim/"
+ },
+ "patinetes/segway": {
+  "nombre": "Segway",
+  "title": "Segway: 12 patinetes KickScooter y SuperScooter",
+  "description": "12 fichas de patinetes eléctricos Segway: KickScooter E2, E25D, F65, P65E, Max G2 E y SuperScooter GT, con autonomía y datos.",
+  "intro": "La gama Segway recogida aquí se distingue de la familia Segway-Ninebot por sus modelos propios, y conviene leerla como una escalera de usos. La serie E abre la gama con el E2 E, el E2 Plus E, el E25D y el E45D, patinetes urbanos para desplazamientos diarios con autonomías contenidas. El F65 y el P65E suben un escalón en tamaño y capacidad, y el P100SE apunta a recorridos más largos dentro del formato KickScooter. El Max G2 E se sitúa como una opción de gama media-alta con mayor alcance, mientras el SuperScooter GT1, el GT1E y el GT3 Pro, junto con el ZT3 Pro E, ocupan la parte alta prestacional. La diferencia entre un E2 y un GT3 Pro no es de marca sino de categoría: del patinete urbano de uso diario al superscooter de altas prestaciones, con pesos, frenos y autonomías muy distintos que las fichas detallan modelo a modelo.",
+  "n": 12,
+  "url": "/patinetes/marca/segway/"
+ },
+ "coches/bestune": {
+  "nombre": "Bestune",
+  "title": "Bestune: 11 fichas, B70, T77, T90 y Pony",
+  "description": "11 fichas técnicas de coches Bestune: B70, B70S, T55, T77, T90, T99, M9, NAT y Pony, con datos y versiones para comparar.",
+  "intro": "Bestune cubre con su gama casi todos los formatos de SUV y algún modelo singular, y por eso conviene recorrerla por tamaños. El Pony es el modelo más pequeño y urbano de la colección, una propuesta distinta frente al resto de la gama. El T55 y el T77 forman la zona compacta, con el T90 y el T99 subiendo hacia los SUV grandes. El B70 y el B70S aportan la silueta de berlina y de SUV coupé, mientras el M9 y el NAT cubren el formato monovolumen para familias y uso profesional. El E01 y el Yueyi 07 completan la oferta con planteamientos eléctricos dentro del catálogo. Al comparar las fichas se ve que Bestune no apuesta por un solo tipo de cliente: del urbano pequeño al monovolumen grande, cada modelo tiene un público distinto, y esa variedad es justo lo que esta colección ordena. El NAT, con su enfoque de monovolumen, es el modelo que mejor muestra la vocación familiar y profesional de Bestune.",
+  "n": 11,
+  "url": "/coches/marca/bestune/"
+ },
+ "coches/im": {
+  "nombre": "IM Motors",
+  "title": "IM Motors: 11 fichas, L6, L7, LS6 y LS9",
+  "description": "11 fichas técnicas de coches IM Motors: L6, L7, LS6, LS7 y LS9, con datos y versiones para comparar la gama eléctrica completa.",
+  "intro": "En IM Motors, la inicial del modelo ya orienta: L para berlinas y LS para SUV. En berlinas están el L6 y el L6 Max, además de una ficha general del L6, y el L7, un conjunto que permite comparar dos tamaños de berlina eléctrica dentro de la misma marca. En SUV están el LS6 y el LS6 Max, el LS7, el LS7 Max y el LS7 Ultra, y el LS9 como modelo grande en lo alto de la gama. La repetición de los apellidos Max y Ultra indica el escalón de equipamiento y potencia dentro de cada modelo, un sistema que se entiende rápido al leer varias fichas seguidas. Comparar un L6 con un LS6, por ejemplo, deja ver la diferencia entre berlina y SUV sin cambiar de marca ni de filosofía eléctrica, porque toda la gama comparte el mismo planteamiento. El LS9, como modelo grande de la gama, deja ver hasta dónde llega IM Motors cuando sube de tamaño sin cambiar de filosofía.",
+  "n": 11,
+  "url": "/coches/marca/im/"
+ },
+ "coches/mclaren": {
+  "nombre": "McLaren",
+  "title": "McLaren: 11 fichas, 750S, Artura, GTS y W1",
+  "description": "11 fichas técnicas de coches McLaren: 750S, Artura, GTS, GT y W1, con datos y versiones para comparar la gama de superdeportivos.",
+  "intro": "McLaren concentra su gama en pocos modelos con muchas variantes, y cada nombre tiene un carácter propio dentro del mundo de los superdeportivos. El 750S es el modelo central, con el 750S Spider, el 750S Le Mans y el 750S MCL38 Celebration como ediciones y carrocerías distintas sobre la misma base. El Artura forma la segunda familia, con el Artura, el Artura Spider y el Artura 1000GP by MSO, una gama híbrida que baja el acceso a la marca sin renunciar al rendimiento. El GTS y el GT cubren el lado más viajero y polivalente, mientras el W1 se sitúa en la cima como hiperdeportivo aparte. El 788HS completa la colección como modelo singular de altas prestaciones. Leer las fichas en orden permite distinguir qué es una variante, qué es una edición especial y qué es un modelo nuevo, algo esencial en una marca donde los nombres se parecen. El 788HS, como modelo singular, demuestra que McLaren reserva hueco para ediciones de carácter extremo fuera de sus familias principales.",
+  "n": 11,
+  "url": "/coches/marca/mclaren/"
+ },
+ "coches/subaru": {
+  "nombre": "Subaru",
+  "title": "Subaru: 11 fichas, Forester, Outback y Solterra",
+  "description": "11 fichas técnicas de coches Subaru: Forester, Outback, Crosstrek, BRZ, Solterra y Uncharted, con datos y versiones para comparar.",
+  "intro": "Subaru mantiene una gama reconocible por su tracción total y su enfoque práctico, con modelos que se distinguen por el formato más que por la moda. El Forester y el Outback son los pilares de la marca, con el E-Outback como lectura eléctrica del segundo, y el Crosstrek como SUV compacto para el día a día. El BRZ aporta el contrapunto deportivo de tracción trasera dentro de una gama dominada por la tracción total. El Solterra y el Solterra Trek 4WD representan la apuesta eléctrica, mientras la familia Uncharted, con el Uncharted, el Uncharted Field y el Uncharted Touring, abre un capítulo nuevo de SUV eléctricos. El Trailseeker completa la colección como propuesta aventurera. Comparar estas fichas ayuda a ver que Subaru no multiplica modelos sin sentido: cada uno cubre un tamaño y un uso, del deportivo al familiar eléctrico. El Trailseeker, como propuesta aventurera, encaja con la imagen de Subaru de coches pensados para salir del asfalto con comodidad.",
+  "n": 11,
+  "url": "/coches/marca/subaru/"
  }
 }
