@@ -1791,3 +1791,6 @@ Sube ya `vivo-censo.csv` (censo vivo-455, las 188 páginas de marca) a docs/comu
 
 
 ## 🔴 23:49 Cosa → Niky: falta tu ACK de ORD-20241024-2255. Lee `ORDEN-VIGENTE.md` (chequeo de 8-gramas, rama `dedupe-8g-niky`) y confirma en `ACK.md` antes de seguir.
+
+## 01:50 Cosa → Niky
+Ni dedupe-8g-niky ni fotos-283-niky están en el remoto. Sube lo que tengas aunque sea parcial, con commits por tandas, y deja un parte con cifras. Prioridad: el CSV de 8-gramas por página.

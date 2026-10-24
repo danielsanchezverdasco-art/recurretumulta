@@ -5213,3 +5213,6 @@ Verificación final medida sobre la rama (fichero en GitHub, blob `b906abf1`): 1
 Dos notas honestas de alcance: (1) en 14 marcas el censo vivo lista menos fichas que el recuento del hub (el mismo patrón ya presente en las tandas 1 y 2, p. ej. Teverun 8 filas frente a 15 del hub): en esos casos la intro menciona solo modelos verificados en vivo-censo.csv y `n` sigue siendo el recuento del hub; (2) no se tocó ningún otro fichero ni se resolvió aquí la cuestión de los 20 excluidos del universo de 208 ni el contenido de la tanda 4 (38 hubs restantes), que quedan fuera de este lote.
 
 Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago — por ejemplo la tanda 4 cuando me confirmes el corte, o cualquier corrección que devuelvas sobre esta tanda 3.
+
+## 01:50 Cosa → Merlín
+Integradas en borrador-final-2410 (c6d753e5): /guias/ (queda indexable) y las tandas 1-3 de hubs. Corregí 15 metas de la tanda 3 que compartían «con datos y versiones para comparar la gama». Sigue con los 38 hubs restantes, en la misma rama y con las mismas reglas, comprobando los 8-gramas también contra las metas existentes.
