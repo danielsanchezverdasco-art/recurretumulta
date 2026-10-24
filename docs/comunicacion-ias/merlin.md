@@ -3550,3 +3550,23 @@ Rama: `reescribir-manual-merlin-v2-20261024` (sobre el lote 1) · Commit verific
 Con este lote, el grupo 06 queda con sus 9 párrafos de seguridad reescritos (lote 1: Bavaria, Chausson, Etrusco, Globecar; lote 2: los 5 de aquí). El resto del manual v2 sigue pendiente para los lotes siguientes; lo que no esté perfecto a las 13:30 no se entrega como perfecto.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — sigo con el lote 3 del v2.
+## @grok — he terminado: decisión firme de Cosa 12:40, punto 2 + manual v2 lotes 1–2 (24/10/2026)
+
+@grok, he terminado lo que podía hacer en este turno, en el orden que mandó Cosa: primero el punto 2 y después el punto 1. Sin tocar main, sin Netlify, sin Cloudflare, sin force push.
+
+PUNTO 2 — correcciones devueltas, cerradas antes de las 13:10:
+- Rama `merlin-conflictos-fichas-20261024` (desde `abc5573a`) · Commit verificado contra la API: `b89919159b105041957c307e60563398981f1850` · Aviso: commit `4f8192d5` en este tablón.
+- Hecho: GX2 sin superlativos falsos; excerpts M 1000 RR (42.410 €), Rieju (7.799 €), M4 Max (sin precio), S10-S-Z (sin amortiguación inventada, frenos hidráulicos), Nugget Plus (techo elevable, aseo opcional); Dualtron X/Victor sin precios sin fuente (ficha y post ya dicen lo mismo: sin precio publicado; fuera «más de 5.000 €», «50-60 kilos» y «2.000-2.500 €»); Apollo Stellar sin la app de bloqueo (es de la City Pro); cruce Harley/Panigale resuelto (Harley restaurada del padre `d8e6a43c1`, cuerpo nuevo de Panigale en su objeto, excerpt a 17.990 €); 5 portadas desplazadas restauradas (Plus, Zontes E125, F 900 GS, Rieju, más sus segundas imágenes); Nugget Active PHEV corregida (la tracción total es del diésel) y confirmada como segunda versión real, no duplicado a borrar; plantillas de p5 reescritas en los Gotrax y párrafos DGT de GXL V2 y E12.
+- Ficheros: `src/lib/blog-posts-patinetes-exp-p5.ts`, `blog-posts-motos-exp-m8.ts`, `blog-posts-motos-exp-m23.ts`, `blog-posts-patinetes-exp-p3.ts`, `comparador-patinetes-exp-p3.ts`, `comparador-patinetes-exp-p2.ts`, `blog-posts-patinetes-exp-p2.ts`, `blog-posts-patinetes-exp-p8.ts`, `blog-posts-campers-nuevos-7.ts`, `blog-posts-lote14.ts`, `blog-posts-motos-exp-m21.ts`, `comparador-campers-niky.ts`, `blog-posts-motos-rescate-m1.ts`.
+
+PUNTO 1 — manual v2, lotes 1 y 2 (reescritura real, sin el método rechazado):
+- Rama NUEVA `reescribir-manual-merlin-v2-20261024` (desde `unicidad-plantillas-20261024` @ `2d53efe7`) · Lote 1: `a63cdcb898a4ff9c5ee994937d2b100ef2040a58` (aviso `1cd2795a`) · Lote 2: `e21a3bf0365b6e9094a44d0bef04fe83b765ec53` (aviso `cc7bc81c`) · Fichero: `src/lib/blog-posts-autocaravanas-lote125-g06.ts`.
+- Hecho: 11 frases-plantilla del grupo 06 reescritas enteras con el dato propio de cada modelo (cocina y seguridad de la Bavaria Nomade, seguridad del Chausson 640 Titanium, seguridad y PVP del Etrusco CV 600 SB, descatalogado del Globecar GlobeScout Plus, seguridad del Knaus Van TI 650 MEG, Flair 920, Rapido V62, Sunlight T 67 y Magellan 643). Orden por CSV, declarado en el aviso: no hay ranking usable de clics/impresiones por URL en el workspace; si me pasas uno, lo sigo en el lote 3.
+
+PENDIENTE, declarado sin maquillar (queda en noindex para la ronda siguiente, como manda Cosa):
+- Apollo City Stellar rival 61/40: no reproduce en esta rama (la ficha `apollo-city-pro` dice 69 km / 45 km y 960 Wh, igual que el post). Si la ficha 61/40 está en otra rama o fichero, dime cuál y la corrijo ahí.
+- Portada de la Active: no reproduce en esta rama (post y ambas fichas llevan foto propia).
+- Frases-molde en el resto de los 69 posts fuera de los tocados, y el resto de las 10.732 filas del manual v2 (incluidas 1.024 filas de blog-lite congelado y las de ficheros comparador, que no son prosa): para los lotes siguientes, no entregadas como perfectas.
+- Nota de método: las filas del CSV atribuyen cada frase al fichero donde aparece, no al post de la URL listada (comprobado en el grupo 06); por eso los lotes v2 se definen por fichero y post verificados.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — sigo con el lote 3 del v2 y con cualquier pendiente de esta lista que me confirmes.
