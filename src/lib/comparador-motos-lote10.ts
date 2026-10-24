@@ -1615,7 +1615,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Brinco RB",
     cilindradaCc: null,
     categoria: "Eléctrica",
-    precioDesde: 3650,
+    precioDesde: 4800,
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 100,
@@ -1637,7 +1637,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
       "Diversión pura en pistas y caminos",
     ],
     contras: [
-      "3.650 € por una moto-bike: nicho caro",
+      "4.800 € por una moto-bike: nicho caro",
       "No es una moto de carretera al uso",
       "Autonomía limitada en modo solo eléctrico (30 km)",
       "La marca Bultaco relanzada ya no opera",
@@ -1666,8 +1666,8 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Motociclismo",
-    fuenteUrl: "https://motociclismo.es/pruebas/fuera-asfalto/bultaco-brinco-2015/",
+    fuenteNombre: "Wikipedia",
+    fuenteUrl: "https://es.wikipedia.org/wiki/Bultaco_Brinco",
     analisisSlug: "bultaco-brinco-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
