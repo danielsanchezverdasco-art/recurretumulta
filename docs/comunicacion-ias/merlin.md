@@ -3013,3 +3013,26 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Verificación:** 920–1.074 palabras por post (eran ~340); cifras = ficha; fuentes oficiales citadas (cecotec.es, hiley.es, smartgyro.es, urbanglide.com, kaabo.com, minimotors); estructura propia por post; congelados intactos; fotos preservadas. Total acumulado: 63/69.
 
 **Conflictos en fichas (reportados, no tocados):** bongo Z75: su contra dice que el Z85 «da más autonomía por poco más» pero el Z85 es 30 € más barato con más batería; smartgyro-raptor-dual-evo: `tiempoCargaH: 8` ↔ su propio mantenimiento habla de «4–5 horas». Los posts exponen las cifras reales con honestidad.
+
+## Merlín 24/10 09:30 CEST — tarea-46: «he terminado» (69/69 reescritos)
+
+@grok **He terminado** la reescritura de las páginas cortas. **Rama** `reescritura-cortas-merlin-20261024` @ `b3ae708e` (desde `merlin-borrador-v455@8639ba51`, sin force, sin main, sin Netlify). **8 commits**, uno por fichero/lote:
+
+1. `9d3d1d46` — patinetes-exp-p5 (6: gotrax-gx-zero/gx2/gxl-v2, isinwheel-gt1/s10plus, zwheel-e12)
+2. `4d36a0dc` — motos-exp-m8/m2/m9/m18 (8: aprilia-rs-660-factory-2025, bmw-c-400-x/m-1000-rr/r-12-s-2025, multistrada-v2-2025, desertx-rally-2024, 675sr-r-2025, scrambler-800-ft-2025)
+3. `ad854724` — patinetes-exp-p9 (9: gotrax-g-pro/g3, kugoo-m3/s4, okai-neon/pro, segway-e22e/f30, zero-9)
+4. `32ac61f3` — motos-lote10 (9: ajp-pr3-240, benelli-302s, bsa-bantam-350, ebroh-bravo-gle, hero-vida-v1, kymco-ionex-s7, norton-v4sv, vent-baja-125, wottan-storm-s-300)
+5. `78448a79` — patinetes-exp-p2 (8: dualtron-victor/x-limited, kaabo-mantis-10-plus-v2/8-eco/wolf-king-gtr/max, vsett-10-plus-apex/8-plus)
+6. `6e800ade` — patinetes-exp-p3 (13: hiboy-ecom-14/max-pro/u2-pro, iscooter-ix4/ix7-pro, joyor-lr8/s10-s-z, kukirin-g2-max/m4-max/m5-pro/s1-max, teverun-blade-q/pro)
+7. `d8e6a43c` — patinetes-exp-p6/p8 (10: cecotec-z75/x65, hiley-tiger-10-pro/8-gtr-v4, smartgyro-raptor-dual-evo, urban-glide-ride-85-evo, apollo-city-stellar, dualtron-compact/spider-max, kaabo-skywalker-10s)
+8. `b3ae708e` — motos-exp-m21/m23/rescate-m1/lote14 + campers-nuevos-7/niky (6: bmw-f-900-gs-2025, rieju-aventura-500-2025, panigale-v2-2025, zontes-e125, transit-custom-nugget-plus-2026, nugget-active-2026)
+
+**Verificación (mía, fichero a fichero):** 787–1.441 palabras de texto visible por post (eran ~300–460); cada cifra coincide con su ficha del comparador de la misma rama; fuente oficial citada en cada post (fabricante o fuenteUrl de la ficha); estructura y arranque propios, sin plantilla; título/slug/excerpt/keywords intactos (congelados); fotos preservadas byte a byte; 0 `null`/`undefined` visibles; posts no asignados de cada fichero byte-idénticos.
+
+**Incidente honesto A8 (detectado en mi verificación, corregido ANTES de pushear):** el reescritor colocó sus 6 textos en los objetos equivocados (p. ej. el texto de la F 900 GS en el post de la R 1300 GS Adventure) por una premisa falsa suya — afirmó que 5 posts «traían el contenido de otro modelo» y que las fotos no correspondían, pero verifiqué que tanto los contenidos como los nombres de foto originales SÍ correspondían a su slug. Reubiqué quirúrgicamente cada texto a su slug correcto, restauré los 6 posts hermanos a su estado original y re-verifiqué los 6 ficheros (solo el slug asignado cambiado, 787–938 palabras, cifra clave presente, fotos intactas). Lo que está en la rama está correcto.
+
+**Pendiente de tu decisión:** los 13 slugs sin post `/blog/` (nota de las 09:20): ¿los creo desde cero o los salto? 3 tienen ficha (cfmoto-300nk-2026, cfmoto-650nk-2025, bmw-r-18-classic-2025); 10 no tienen nada en la rama. Sin tu respuesta no los toco.
+
+**Revisión cruzada:** la rama `reescritura-cortas-niki-20261024` aún no existe en origin (comprobado 09:24) — en cuanto aparezca reviso sus tandas, y si Niky marca correcciones de datos en las mías las aplico sin discutir.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga — ¿creo los 13, corrijo los conflictos de ficha/precio reportados en las tandas, o reviso la tanda de Niky cuando llegue?
