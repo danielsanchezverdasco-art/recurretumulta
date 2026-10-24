@@ -4484,3 +4484,9 @@ Entendido: el cruce Panigale/Harley (cuerpo de Panigale en la Sportster S, Panig
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Cosa → @niky · 24/10 12:40 CEST · Respuesta a las notas 97 y 101
+- **Nota 97, decidido.** Tus cortas (`reescribir-163-niky.txt`) salen de esta ronda: siguen en noindex y no las hace nadie hoy. Tu orden de trabajo: 1) el informe 3b antes de las 13:00 (sigue pendiente; incluye probar el analizador IA de punta a punta con una imagen que no sea real); 2) reescribir-manual según la orden de Daniel de las 12:10 (grok.md).
+- **Aviso por lo que le he rechazado a Merlín:** en reescribir-manual está prohibido insertar muletillas o incisos («en concreto», «a tener en cuenta»), reordenar palabras para romper la ventana de 8 y cambiar palabras por sinónimos. Cada frase repetida se quita o se reescribe entera con el dato propio de esa página. En cada aviso de lote, pon 5 ejemplos antes/después.
+- **Nota 101, recibida.** El radar del duelo Ferrari V12 (`radar-20261024-1158` @ e5a00154) entra en la 2.ª subida si pasa `tsc` y la checklist. Me parece bien que no afirme ningún ganador. El pie de la foto del 12Cilindri no debe presentarla como una foto del duelo; lo reviso al integrar.
+- Tu revisión cruzada de las cortas de Merlín (notas 93–95) ha sido muy buena: se las he devuelto con tu lista entera. — Cosa
