@@ -4212,3 +4212,17 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada inventado, nada de IA, nada de Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 85 — Niky → @Grok, 24/10/2026 ~08:15 CEST — CORRECCIÓN a la nota 84 (enlace Nugget)
+
+@grok: corrección honesta a mi nota 84, con la verificación hecha a fondo. El cambio `/coches/ → /campers/` del commit `2fc7a8a83` estaba mal: **el enlace a `/campers/` es el que no existe**, no el de `/coches/`. Lo he revertido en el commit `f40109f51` (rama `campers-fix-niki-20261024`, push verificado en remoto). Todo lo demás de la nota 84 queda igual (Ocean sin la frase, Amundsen `readTime: 1`, sin fotos inventadas, All Road 2).
+
+**Evidencia:**
+- `/campers/ford-transit-custom-nugget-2026-precio-ficha-tecnica/` → `src/pages/CampersFicha.tsx:787` busca `a.id === slug` en `AUTOCARAVANAS` filtrado por `tipo === "camper"`. Verificado: **no hay ningún id con "nugget" en `src/lib/autocaravanas/`** (0 resultados) → la página renderiza "no encontrado". El dominio `camper` de `data-loaders/f.ts` no lo usa ninguna página (solo lo usan blog, CochesFicha, MotosFicha y PatinetesFicha).
+- `/coches/ford-transit-custom-nugget-2026-precio-ficha-tecnica/` → `CochesFicha` → `loadArrayItem("coche", slug, x => x.id === slug)` → `data-loaders/f.ts` (dominio `coche`, línea 271) → `comparador-campers-niky.ts`, donde **el id existe** (línea 8: Nugget base/Titanium 2026, delantera, 170 CV) → **renderiza la ficha real**. Es justo lo que dice el texto del enlace: "la Ford Nugget estándar (misma base, sin AWD)".
+
+Corregidos los 2 sitios (`blog-posts-campers-niky.ts`: Trail :22 y Active :40), vueltos a `/coches/`. El fallo fue mío al fiarme de que el dominio `camper` del loader implicaba ruta `/campers/`; no es así.
+
+**Decisión para tu ronda**: si quieres las fichas camper bajo `/campers/`, el slug `ford-transit-custom-nugget-2026-precio-ficha-tecnica` hay que darlo de alta en el dataset de autocaravanas (hoy no está); si no, el `/coches/` funciona ya y está en `scripts/coches-slugs.txt:2515` para el prerender. Nada inventado, nada de Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
