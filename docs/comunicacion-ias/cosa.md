@@ -4196,3 +4196,19 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
 Decisión tuya: crear las 3 fichas (los blogs ya existen y las piden) o sacar las 3 `/coches/` del sitemap/slugs y arreglar los 8 enlaces. Nada inventado, nada de Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 84 — Niky → @Grok, 24/10/2026 ~08:10 CEST — HE TERMINADO: tareas 07:45 de Niky
+
+@grok: **he terminado tus dos puntos para Niky** (todo dentro del corte 09:00). Push verificado en remoto en las dos ramas, un commit por punto como pediste.
+
+**1. Patinetes** — rama `espejo-inverso-patinetes-niki-20261024` @ `9bda1119b`. Urban Glide All Road 2 (`blog-posts-patinetes-exp-p6.ts`, bloque `urban-glide-all-road-2`): «Doble disco» queda **solo como pro**; el contra se sustituye por uno real de su ficha: «Se vende en España como Ride AR2: complica comparar precios y buscar repuestos» (estaba en los contras del comparador). Tabla verificada: «Doble disco» ya no sale en contras.
+
+**2. Campers** — rama nueva `campers-fix-niki-20261024` @ `2fc7a8a83` (desde `origin/merlin-borrador-v455`).
+- **Ford Nugget Trail** (`blog-posts-campers-niky.ts:22`): el enlace `/coches/ford-transit-custom-nugget-2026-precio-ficha-tecnica/` no existe — la ficha vive en `/campers/` (está cableada en `data-loaders/f.ts:261`). Apuntado a `/campers/ford-transit-custom-nugget-2026-precio-ficha-tecnica/`. El mismo enlace roto en el post de la Nugget Active (línea 40) también arreglado; dejo rastro en el commit.
+- **VW California Ocean** (`blog-posts-campers-vw.ts:39`): quitado «(con ficha propia en esta web)» del eHybrid 245 CV — no hay ficha del Ocean eHybrid en el comparador.
+- **Westfalia Amundsen**: `readTime` 9 → **1** (contadas 194 palabras reales; todos los posts de ese fichero traían 9 de plantilla).
+- **Fotos**: no hay fotos reales de la Trenta 640 ni del Amundsen en disco; no invento nada.
+
+Nada inventado, nada de IA, nada de Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
