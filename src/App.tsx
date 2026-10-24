@@ -39,6 +39,7 @@ const ContactoPage = lazy(() => import("./pages/Contacto.tsx"));
 // 12/10/2026: moderación de reseñas (privada: noindex, fuera de sitemap y prerender).
 const ModerarResenasPage = lazy(() => import("./pages/ModerarResenas.tsx"));
 const SobreNosotrosPage = lazy(() => import("./pages/SobreNosotros.tsx"));
+const ExplorarPorMarcaPage = lazy(() => import("./pages/ExplorarPorMarca.tsx"));
 const ComparativaPage = lazy(() => import("./pages/Comparativa.tsx"));
 const AvisoLegalPage = lazy(() => import("./pages/AvisoLegal.tsx"));
 const EmpresasPage = lazy(() => import("./pages/empresas/page.tsx"));
@@ -157,6 +158,7 @@ function ContentRoutes() {
       {/* 12/10/2026: privada, no enlazar desde ningún sitio */}
       <Route path="moderar-resenas" element={<ModerarResenasPage />} />
       <Route path="sobre-nosotros" element={<SobreNosotrosPage />} />
+      <Route path="explorar-por-marca" element={<ExplorarPorMarcaPage />} />
       <Route path="comparativa" element={<ComparativaPage />} />
       <Route path="aviso-legal" element={<AvisoLegalPage />} />
       <Route path="empresas" element={<EmpresasPage />} />

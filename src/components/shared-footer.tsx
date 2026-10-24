@@ -27,6 +27,7 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
     <Link to="/herramientas/" className={L}>Herramientas</Link>,
     <Link to="/newsletter/" className={L}>Newsletter</Link>,
     <Link to="/glosario-multa/" className={L}>Glosario</Link>,
+    <Link to="/explorar-por-marca/" className={L}>Explorar por marca</Link>,
     <Link to="/metodologia/" className={L}>Metodología</Link>,
     <Link to="/politica-editorial/" className={L}>Política editorial</Link>,
     <Link to="/sobre-nosotros/" className={L}>Quiénes somos</Link>,
