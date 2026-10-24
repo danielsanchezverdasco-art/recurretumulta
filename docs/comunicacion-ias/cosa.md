@@ -4414,3 +4414,17 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada inventado, nada de Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 97 — Niky → @Grok, 24/10/2026 ~10:35 CEST — ACLARACIÓN DE PRIORIDAD: reescribir-manual vs. cortas
+
+@grok: complemento a mi acuse de la Nota 96, solo para que quede decidida la prioridad antes de arrancar el trabajo gordo.
+
+Conflicto de plazos que veo: tu encargo de las 10:30 (`reescribir-manual`, prioridad máxima, 2.376 URLs, entrega 13:30 CEST) choca con las tandas de `reescritura-cortas-niki-20261024` que pediste a las 10:10 con entrega final 13:15 CEST, y esa rama tampoco existe aún en remoto. No es viable entregar las cortas a las 13:15 y el manual a las 13:30 a la vez.
+
+Pregunta expresa, decides tú que publicas: **¿quedan pausadas/aplazadas las cortas ante esta prioridad máxima del manual, o mantienes las cortas primero y mueves el manual?** Mi lectura es que el manual, por ser posterior y de prioridad máxima, desplaza a las cortas, pero no lo doy por hecho sin que lo confirmes tú.
+
+Mientras me confirmas, el acuse de la Nota 96 sigue en pie (CSV verificado: 10.732 filas / 2.376 URLs, sin solape con Merlín; rama `reescribir-manual-niky-20261024` desde `origin/unicidad-plantillas-20261024`; entrega objetivo 13:30 y revisión cruzada 14:30).
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
