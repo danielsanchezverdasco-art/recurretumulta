@@ -127,7 +127,17 @@ export default function GaleriaFicha({
                 fetchPriority={i === 0 ? "high" : undefined}
                 decoding={i === 0 ? "sync" : "async"}
                 draggable={false}
-                onError={() => marcarRota(f.src)}
+                onError={(e) => {
+                  // 24/10/2026: un fallo de la variante -480w/-828w no es una foto rota:
+                  // se reintenta con la imagen base (lo hace el listener global de
+                  // index.html, "g", o este handler, "r"). Solo si falla la base se marca.
+                  const im = e.currentTarget;
+                  if (im.dataset.fbVar === "g") { im.dataset.fbVar = "g2"; return; }
+                  if (!im.dataset.fbVar && /-(480|828)w\.webp/.test(im.currentSrc || "")) {
+                    im.dataset.fbVar = "r"; im.removeAttribute("srcset"); im.removeAttribute("sizes"); im.src = f.src; return;
+                  }
+                  marcarRota(f.src);
+                }}
                 className={`aspect-video w-full select-none ${fit}`}
               />
             </figure>

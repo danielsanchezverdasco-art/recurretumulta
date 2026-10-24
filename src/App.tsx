@@ -1,5 +1,5 @@
-import { lazy, Suspense, useEffect, useState } from "react";
-import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from "react-router-dom";
+import { lazy, Suspense } from "react";
+import { BrowserRouter, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { DefaultProviders } from "./components/providers/default.tsx";
 import { ErrorBoundary } from "./components/error-boundary.tsx";
 import { LazyConvexProvider } from "./components/providers/convex-lazy.tsx";
@@ -10,8 +10,6 @@ import WhatsAppBubble from "./components/whatsapp-bubble.tsx";
 // convex/react en el chunk inicial (07/10/2026, PageSpeed). Retorna null.
 const ReferralCapture = lazy(() => import("./components/creadores/ReferralCapture.tsx"));
 import { CazaMonosProvider } from "./components/caza-monos/CazaMonosContext.tsx";
-import MonoEscondido from "./components/caza-monos/MonoEscondidoLazy.tsx";
-import { fijoId } from "./components/caza-monos/CazaMonosContext.tsx";
 // Caza de monos (05/10/2026): el JS del juego va en chunk diferido para no tocar
 // el LCP (exigencia de Daniel). El provider (contexto) sí es estático y ligero.
 const MonoEnRuta = lazy(() => import("./components/caza-monos/MonoEnRuta.tsx"));
@@ -243,7 +241,9 @@ function ContentRoutes() {
 function FadedRoutes() {
   const location = useLocation();
   return (
-    <div key={location.pathname} className="rtm-page-enter relative">
+    // 24/10/2026 (velocidad): el fundido no se hornea en el HTML prerenderizado.
+    // Con opacity 0 al pintar, Chrome no contaba el H1/hero como LCP en el primer pintado.
+    <div key={location.pathname} className={(window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__ ? "relative" : "rtm-page-enter relative"}>
       <Routes>
         {/* Español (idioma por defecto) — sin prefijo de idioma en la URL */}
         {ContentRoutes()}
@@ -274,48 +274,6 @@ function FadedRoutes() {
   );
 }
 
-function CookieBanner() {
-  const [visible, setVisible] = useState(false);
-  // 13/10/2026 (PageSpeed): barra compacta que aparece cuando el navegador está ocioso,
-  // fija abajo y sin ocupar espacio (no es el LCP ni mueve la maquetación). Misma lógica de consentimiento.
-  useEffect(() => {
-    // 19/10/2026: nunca durante el prerender. Si no, el aviso queda "horneado" en el HTML
-    // estático: al entrar se ve un aviso sin JS que no responde a Aceptar (y sale aunque ya aceptaras).
-    if ((window as unknown as { __PRERENDER__?: boolean }).__PRERENDER__) return;
-    let c = null; try { c = localStorage.getItem("rtm-cookie-consent"); } catch (e) { /* Sin acceso a localStorage; se muestra el aviso */ }
-    if (c) return;
-    const w = window as unknown as { requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number; cancelIdleCallback?: (id: number) => void };
-    const mostrar = () => setVisible(true);
-    const t = setTimeout(() => { if (w.requestIdleCallback) w.requestIdleCallback(mostrar, { timeout: 2500 }); else mostrar(); }, 1200);
-    return () => clearTimeout(t);
-  }, []);
-  if (!visible) return null;
-  const consent = (v: "granted" | "denied") => {
-    const w = window as unknown as { gtag?: (...a: unknown[]) => void; __rtmLoadGA?: () => void };
-    w.gtag?.("consent", "update", { ad_storage: v, analytics_storage: v, ad_user_data: v, ad_personalization: v });
-    if (v === "granted") w.__rtmLoadGA?.();
-  };
-  const accept = () => { try { localStorage.setItem("rtm-cookie-consent", "accepted"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } consent("granted"); setVisible(false); };
-  const reject = () => { try { localStorage.setItem("rtm-cookie-consent", "rejected"); } catch (e) { /* No se pudo persistir; se oculta igualmente */ } consent("denied"); setVisible(false); };
-  return (
-    <div className="fixed bottom-0 inset-x-0 z-50 bg-gray-950/95 text-white border-t border-gray-800" role="dialog" aria-label="Aviso de cookies">
-      <div className="relative max-w-3xl mx-auto px-3 py-1.5 flex items-center gap-2">
-        {/* Caza de monos: el mono de la galleta, fijo temático (05/10/2026) */}
-        <MonoEscondido
-          id={fijoId("cookies-banner")}
-          pose="mono-galleta"
-          size={22}
-          className="shrink-0"
-          titulo="¡Un mono con su galleta! Haz clic para cazarlo 🍪"
-        />
-        <p className="text-[11px] leading-tight text-gray-300 flex-1">Usamos cookies propias y de terceros (analítica y publicidad). Solo activamos las de terceros si aceptas. <Link to="/cookies/" className="underline hover:text-white">Política de cookies</Link>.</p>
-        <button onClick={reject} className="text-[11px] font-semibold px-2.5 py-1 rounded-md border border-gray-700 text-gray-300 hover:bg-gray-800">Rechazar</button>
-        <button onClick={accept} className="bg-white text-gray-950 text-[11px] font-semibold px-2.5 py-1 rounded-md hover:bg-gray-200">Aceptar</button>
-      </div>
-    </div>
-  );
-}
-
 export default function App() {
   return (
     <ErrorBoundary>
@@ -336,7 +294,7 @@ export default function App() {
             <Suspense fallback={<PageLoader />}>
               <FadedRoutes />
             </Suspense>
-            <CookieBanner />
+            {/* 24/10/2026: CMP certificado de Google activo en AdSense; aviso propio retirado para no duplicar */}
             <WhatsAppBubble />
             {/* Mini-tutorial al cazar el primer mono (una sola vez) + hitos.
                 Chunk diferido con fallback null: no bloquea el LCP. */}
