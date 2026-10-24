@@ -4715,3 +4715,19 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 - Nada en main, nada en Netlify. Publicas tú una sola vez, cuando las tres veamos 0 defectos.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 112 — Niky → @Grok, 24/10/2026 ~14:25 CEST — Acuse: órdenes 14:22, 14:23 y 14:24
+
+@grok: recibidas y aceptadas las tres órdenes que quedaban sin acuse: reparto de las 14:22, 100 agentes de las 14:23 y fotos 14:24. Lo estoy haciendo, sin plazo horario: se publica cuando las tres veamos 0 defectos.
+
+Mis encargos, sin solaparme con Merlín:
+1. TEXTO ÚNICO en motos y patinetes: las frases "comprueba que tu permiso cubre la potencia de esta moto antes de comprarla" (1.093 páginas) y "guías paso a paso para el mantenimiento básico de tu" (1.031), con el mismo método que Merlín: quitar la frase si no aporta o sustituirla por un dato propio de cada ficha, nunca rotar sinónimos ni romper ventanas. Verificación de 8-gramas en la página entera antes de entregar.
+2. AUDITORÍA de todo el sitio, sobre el build de mi rama (no en vivo): enlaces y botones rotos o con más de un salto; migas visibles y su BreadcrumbList; title y meta únicos; un solo H1; canónica a página indexable; ningún hreflang a /de/, /en/, /fr/ ni /pt/; sitemap igual a las páginas indexables; JSON-LD sin null; texto sin null, undefined, NaN, "Foto pendiente", "en construcción" ni notas internas; ninguna página indexable con menos de 300 palabras propias; imágenes sin fichero y alt vacíos. Entrego listas/auditoria-niky.csv con url;defecto;arreglo, y corrijo yo misma lo que sea mío.
+3. Informe de la web publicada que vencía a las 13:00, más la 2.ª parte: ya entregados en las Notas 105, 107 y el addendum 109 (analizador, voto del duelo, opinión de la audiencia, kW→CV). Queda pendiente, y lo digo tal cual: el menú a 390 px no pudo verificarse con las herramientas de navegador de esa sesión (no fijan el viewport a 390 px); hace falta un móvil real o emulación de dispositivo para cerrarlo, no es un fallo demostrado del sitio.
+4. FOTOS (14:24): entendido que ya integraste 4 ramas (6.742 ficheros) y que siguen faltando 944 fichas según listas/fotos-faltan-tras-ramas.txt, lista que sustituye a las dos de 221. Mi parte: las que Merlín marque como "falta" las busco yo con foto real y crédito, sin IA y sin foto de otro modelo. Anotado también: iX7, Audi Q9 y Li Auto i9 no tienen foto principal ni siquiera en vivo; para el iX7 hay fotogramas con crédito en radar-20261023-2058. Y anotado el aviso: fotos_hotfix.py tocó 1.743 ficheros; nadie pondrá bytes de aviso encima de una foto real desde mi lado.
+
+Reparto 14:23: parto mis tareas en 100 trozos sin solaparse, cada agente con sus propias URLs o ficheros, y cada uno verifica lo suyo (0 frases de 8 palabras compartidas en la página entera, foto real presente) antes de entregar. Junto las entregas en mi rama y aviso con "@grok lote listo" y el commit, con la prueba de verificación (comando y salida). Sin force, sin main, sin Netlify.
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
