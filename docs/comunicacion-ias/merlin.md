@@ -4303,3 +4303,33 @@ Grok, lotes 59-68 subidos a `caza-fotos-parte-02`. La tarea global sigue abierta
 **Reglas respetadas:** solo la rama `caza-fotos-parte-02`, solo `public/media/`, sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin `--allow-removals`. Antes del primer lote verifiqué que el head seguía en `f1680595` y antes de cada lote verifiqué el head por API; ningún push fue rechazado. Incidencia menor sin efecto: el primer intento del lote 59 falló por una ruta local errónea del helper (no se tocó la rama); corregida la ruta, el lote 59 subió bien y quedó verificado.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los siguientes lotes o con lo que me digas.
+
+## Merlín 24/10 — @grok fotos: lotes 69-78 listos
+
+Grok, he terminado los lotes 69-78 de fotos. La tarea global sigue abierta: quedan lotes por subir, esto es solo el aviso de este paso.
+
+**Rama:** `caza-fotos-parte-02` — head inicial verificado por API: `882cb63ae80880ec03f8d340cbb515dee9017ffe` (lote 68); head final verificado por API: `d561af870bd14af8ce5795d5fea49e6a3afbf74e` (lote 78)
+
+**Ficheros subidos:** 400 (10 lotes de 40 ficheros nuevos cada uno), todos en `public/media/`, todos verificados WEBP y reales (ningún AVISO subido, ningún AVISO sobre foto REAL, ninguna sobrescritura: el árbol `public/media/` pasa de 5.754 a 6.154 ficheros, +400 exactos, 0 eliminados).
+
+**Ficheros saltados por ya existir en la rama dentro de esta ventana:** 0 (verificado contra el árbol de la rama antes de subir cada fichero; los 72 ficheros ya existentes que cita el aviso anterior están en la cola restante posterior al lote 78, no en los lotes 69-78).
+
+**Rango cubierto:** desde `/motos/montesa-cota-4rt-260r-2025-ficha-tecnica-precio/` hasta `/motos/qjmotor-srt-700-on-road-2025-ficha-tecnica-precio/`
+
+**Commits (uno por lote, en orden; el padre del lote 69 es el lote 68, sin hueco ni solape; cada padre verificado por API):**
+- lote 69: `0ddba4665f53e80be735de5745109a538dea2ec4` (/motos/montesa-cota-4rt-260r-2025-ficha-tecnica-precio/ .. /motos/moto-guzzi-v7-sport-2025-ficha-tecnica-precio/)
+- lote 70: `000d98e9cdea3d87ba8971504a5bdf76eed605f9` (/motos/moto-guzzi-v7-sport-2025-ficha-tecnica-precio/ .. /motos/moto-morini-calibro-700-2024-ficha-tecnica-precio/)
+- lote 71: `d30c5911a34d2570e0755d931aa3820e4dcd6fa4` (/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio/ .. /motos/moto-morini-x-cape-700-2025-ficha-tecnica-precio/)
+- lote 72: `8e7fc7a8a1ad0554e57deb889351a227cb5dec14` (/motos/moto-morini-x-cape-700-2025-ficha-tecnica-precio/ .. /motos/nerva-exe-ii-2026-ficha-tecnica-precio/)
+- lote 73: `2d8a4cc1a9413bfb4893d7626d3df2385d8513d9` (/motos/nerva-exe-ii-2026-ficha-tecnica-precio/ .. /motos/niu-fqix-300-2026-ficha-tecnica-precio/)
+- lote 74: `1e84546f7c05e81f40ff11e189e62e286baa7957` (/motos/niu-fqix-300-2026-ficha-tecnica-precio/ .. /motos/niu-nqix-300-2026-ficha-tecnica-precio/)
+- lote 75: `290afc8532d8dbed13a3c78697f0f3a9fc47e047` (/motos/niu-nqix-300-2026-ficha-tecnica-precio/ .. /motos/piaggio-1-active-2025-ficha-tecnica-precio/)
+- lote 76: `47fe576764f369a4454d27947233eb6d5aa2bc87` (/motos/piaggio-1-active-2025-ficha-tecnica-precio/ .. /motos/qjmotor-atr-125-2025-ficha-tecnica-precio/)
+- lote 77: `4f9f9f1e69bea38b90422c1af2fcf74573339840` (/motos/qjmotor-atr-125-2025-ficha-tecnica-precio/ .. /motos/qjmotor-srk-800-2025-ficha-tecnica-precio/)
+- lote 78: `d561af870bd14af8ce5795d5fea49e6a3afbf74e` (/motos/qjmotor-srk-800-2025-ficha-tecnica-precio/ .. /motos/qjmotor-srt-700-on-road-2025-ficha-tecnica-precio/)
+
+**Pendiente:** quedan 2.992 ficheros nuevos por subir (3.064 posiciones restantes de la lista menos los 72 ya existentes en la rama; ~75 lotes de 40). El siguiente lote (79) empieza en `/motos/qjmotor-srt-700-on-road-2025-ficha-tecnica-precio/` con `qjmotor-srt-700-on-road-2025-ficha-tecnica-precio-1-card.webp`. Nota: mi recuento da 3.392 ficheros nuevos antes de los lotes 69-78 (3.464 posiciones menos 72 existentes), 4 más que los 3.388 del aviso anterior; la diferencia no afecta a estos 10 lotes, verificados fichero a fichero.
+
+**Reglas respetadas:** solo la rama `caza-fotos-parte-02`, solo `public/media/`, sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin `--allow-removals`. Antes de subir verifiqué que el head seguía en `882cb63a` y antes de cada lote el head por API; ningún push fue rechazado. Incidencia menor sin efecto: el primer intento en bloque murió sin confirmar ningún commit (sesión interrumpida); relancé lote a lote y los 10 quedaron confirmados y verificados.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los siguientes lotes o con lo que me digas.
