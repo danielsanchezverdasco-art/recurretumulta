@@ -124,7 +124,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
   },
   {
@@ -633,7 +633,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
     fuenteNombre: "CarNewsChina (ficha del Song L DM-i)",
     fuenteUrl: "https://carnewschina.com/2024/06/13/byd-song-l-dm-i-revealed-specs-in-china-as-its-ready-for-launch/",
@@ -837,7 +837,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
     fuenteNombre: "CarNewsChina (lanzamiento del 2026 Seal 05 DM-i)",
     fuenteUrl: "https://carnewschina.com/2025/10/11/2026-byd-seal-05-dm-i-with-2000-km-range-enters-market-at-11200-usd/",
@@ -1038,7 +1038,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
     fuenteNombre: "EV Central / BYD (especificaciones oficiales en Australia)",
     fuenteUrl: "https://evcentral.com.au/byd-sealion-8-phev-priced-from-56990-first-seven-seat-suv-from-chinese-giant-undercuts-most-rivals/",
@@ -1233,7 +1233,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa GAC Trumpchi en China; sin plan europeo publicado)",
+      intervalo: "O 10.000 km (programa, Cada 12 meses GAC Trumpchi en China; sin plan europeo publicado)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1334,7 +1334,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa Hongqi en China; sin plan europeo publicado)",
+      intervalo: "O 10.000 km (programa, Cada 12 meses Hongqi en China; sin plan europeo publicado)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1704,7 +1704,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin test EuroNCAP.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa Changan en China; sin plan europeo publicado)",
+      intervalo: "O 10.000 km (programa, Cada 12 meses Changan en China; sin plan europeo publicado)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -1963,7 +1963,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo presentado en 2025, aún no probado.",
     },
     planMantenimiento: {
-      intervalo: "Cada 12 meses o 10.000 km (programa GAC Trumpchi en China; sin plan europeo publicado)",
+      intervalo: "O 10.000 km (programa, Cada 12 meses GAC Trumpchi en China; sin plan europeo publicado)",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -2275,7 +2275,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
   },
   {
@@ -2371,7 +2371,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa (costes de taller no publicados)",
+      fuente: "De taller no publicados, Plan oficial BYD Europa (costes)",
     },
     fuenteNombre: "AutoChina / AICarGlobal (ficha técnica del Xia)",
     fuenteUrl: "https://autochina.blog/byd-xia-review-2025-hybrid-mpv-price-specs-range/",

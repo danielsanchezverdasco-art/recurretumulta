@@ -255,7 +255,7 @@ Es su punto débil: electrónico delante y de pie detrás. Anticipa las frenadas
 Sí: son **macizas tipo honeycomb**, no pinchan nunca.
 
 ### ¿Es legal en España?
-Limitado a 25 km/h y fuera de las aceras, sí.
+De, y fuera, Limitado a 25 km/h las aceras, sí.
 
 ### ¿Merece la pena?
 Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 Pro.
@@ -371,7 +371,7 @@ Al llegar a casa, el C1 Pro se pliega y busca rincón, pero el sillín conviene 
 Hasta **45 km/h** en el modo más alto; 24 y 32 km/h en los otros dos.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h**. A 45 km/h no es un VMP legal.
+Solo **limitado a 25 km/h**. A es un VMP legal, 45 km/h no.
 
 ### ¿El sillín se puede quitar?
 Sí: es **extraíble** y se usa de pie o sentado.
@@ -447,7 +447,7 @@ El fabricante habla de hasta 60 km en condiciones ideales; los distribuidores eu
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **40 km/h** de punta lo sacan de la normativa VMP: **hay que limitarlo a 25 km/h** para circular legal, siempre fuera de las **aceras**.
+Sin certificado DGT verificado. Sus **40 km/h** de punta lo sacan de la normativa VMP: **para, a 25 km/h, hay que limitarlo circular legal, siempre fuera de las **aceras**.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/EoBCLNTaPI8 title="Bogist M5 Pro: unboxing y prueba" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
@@ -457,7 +457,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=EoBCLNTaPI8>unboxing y prueba de
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 500 W y 624 Wh por ~429 € | 40 km/h: hay que limitarlo a 25 km/h |
+| 500 W y 624 Wh por ~429 € | 40 a 25 km/h, que limitarlo, km/h: hay |
 | Ruedas de 12": pisan de todo | 25 kg: pesado para subirlo a casa |
 | Doble disco: frena en serio | Estética de minimoto: canta mucho |
 | Sillín + cesta: el más práctico | Soporte en España testimonial |
@@ -547,7 +547,7 @@ El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si l
       "bogist m5 pro s autonomía",
       "patinete con sillín barato",
     ],
-    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\n\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\n\nEl **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Precio** | 429 € |\n| **Motor** | 500 W |\n| **Batería** | 48V 15Ah (720 Wh) |\n| **Autonomía declarada** | 40 km |\n| **Autonomía real estimada** | ≈27 km |\n| **Velocidad máxima** | ≈50 km/h |\n| **Peso** | 24,2 kg |\n| **Carga máxima** | 120 kg |\n| **Ruedas** | 12,5" neumáticas |\n| **Frenos** | Doble disco |\n\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\n\n## Precio del Bogist M5 Pro S en España\n\n**429 €** fue el precio de oferta en Francia; en España se mueve en ese entorno en distribuidores. Por 720 Wh con sillín y doble disco, no tiene rival directo.\n\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\n\n## Autonomía real vs declarada\n\nDeclara **40 km** con sus 720 Wh. En uso realista (sillín, 500 W, peso medio), espera **25-30 km**: una semana de desplazamientos cortos sin enchufar.\n\n## Frenos y neumáticos\n\n**Doble disco** y neumáticos de **12,5 pulgadas** con dibujo específico que mejora agarre y frenada. La plataforma rígida prima ligereza y maniobrabilidad frente al Pro normal.\n\n## Certificado DGT y normativa VMP\n\nSin certificado DGT verificado. Su punta de **~50 km/h** lo deja fuera de la normativa VMP: **imprescindible limitarlo a 25 km/h** y no pisar la **acera** jamás.\n\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\n\nVídeo: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en YouTube — prueba completa del Bogist M5 Pro S.\n\n## Puntos fuertes y débiles\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 720 Wh: la mayor batería Bogist | ~50 km/h: hay que limitarlo a 25 km/h |\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\n\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\n\n## De dónde sale el M5 Pro S: la gama M5 de Bogist\n\nBogist es una marca china de venta online, sin red comercial propia en España. Su gama M5 agrupa minimotos eléctricas con sillín y motor de **500 W**: sentarse y hacer recados sin depender del coche. El **M5 Pro S** evoluciona al M5 Pro subiendo la batería de 624 Wh a **720 Wh** y montando neumáticos de **12,5 pulgadas**. No es un patinete de pie: su estética de ciclomotor y sus **24,2 kg** lo orientan a guardarlo en garaje o trastero. Su ficha, la del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>, recoge todos sus datos.\n\n## Profundidad técnica: qué significan sus 720 Wh\n\nLa cifra clave no es la velocidad, sino la energía. Con **48 V y 15 Ah** suma 720 Wh, la batería mayor del catálogo Bogist de este sitio. Eso explica los **40 km** declarados y por qué la estimación realista baja a **25-30 km**: la marca mide en condiciones favorables; en ciudad mandan arranques, cuestas, frío y peso del conductor. Sus 500 W sirven para llanear y superar rampas urbanas moderadas sentado.\n\n| Dato técnico | Bogist M5 Pro S | Qué implica |\n|---|---|---|\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\n| Frenos | Doble disco | Dos frenos independientes |\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\n\nEl fabricante no publica tiempo de carga oficial en su ficha de este sitio: cualquier cifra de horas de una tienda es dato del vendedor, no especificación verificada.\n\n## Uso real y mantenimiento\n\nEncaja si tus trayectos son cortos y repetidos, con sitio para aparcarlo abajo: recados o un polígono cercano sin subir escaleras con él a pulso. El sillín se agradece frente a ir de pie varios kilómetros. No encaja si combinas a diario con metro o tren o vives sin ascensor: pesa 24,2 kg y se ve como una minimoto. Tampoco si priorizas servicio técnico cercano, porque la red de repuestos en Europa es limitada según su propia ficha.\n\nDel mantenimiento solo cabe hablar en general, sin tarifa oficial española: presión, desgaste de pastillas, holguras en la tija del sillín y cuidar la batería evitando descargas completas prolongadas. El coste relevante será la disponibilidad de cubiertas, pastillas y recambio de batería, no la electricidad de 720 Wh. Pregunta al vendedor si sirve esos consumibles en Europa. Para contrastar, mira el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\n\n## Normativa en España: el límite de 25 km/h manda\n\nCon una punta cercana a **50 km/h**, el M5 Pro S no encaja como VMP tal cual sale de la caja. La normativa de la <a href=https://www.dgt.es>DGT</a> fija **25 km/h** máximos para los vehículos de movilidad personal, prohíbe aceras, vías interurbanas, travesías, autopistas, autovías y túneles urbanos, y exige certificado de circulación para los modelos comercializados desde el 22 de enero de 2024, con placa de marcaje. Su ficha indica **sin certificado DGT verificado**: limitarlo a 25 km/h no basta para darlo por homologado; exige al vendedor el certificado de esta versión antes de pagar.\n\n## Frente a sus hermanos M5 y veredicto\n\nContra el <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el Pro S gana batería —720 frente a 624 Wh— y media pulgada de rueda, pero pierde carga: **120 kg frente a 150 kg**. Contra el <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte 720 Wh, aunque el Plus declara 55 km frente a 40 km y no publica precio en su ficha, mientras el Pro S se ha visto a **429 € en Francia**: precio de origen, orientativo para España, no tarifa oficial española. Si dudas, lee el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\n\n**Veredicto:** ¿merece la pena? Sí, para quien busca autonomía sentada barata por vatio-hora y asume comprarlo online, si el vendedor acredita su certificado y queda limitado a 25 km/h. Para quién sí: trayectos cortos con garaje o planta baja. Para quién no: quien necesite subirlo a un piso o circular sin dudas de homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bogist M5 Pro S?\n**429 €** en oferta en Francia; precio similar en distribuidores españoles.\n\n### ¿Qué diferencia hay con el M5 Pro normal?\nMás batería (**720 Wh** frente a 624 Wh), ruedas de 12,5" y plataforma más compacta.\n\n### ¿Qué autonomía real tiene?\nDeclara 40 km; calcula **25-30 km** en uso real.\n\n### ¿Es legal en España?\nSolo **limitado a 25 km/h**.\n\n### ¿Cuánto pesa?\n**24,2 kg**.\n\n### ¿Merece la pena frente al M5 Pro+?\nEl Plus promete 55 km declarados; el Pro S está probado por medios. Ante la duda, el S.\n\n\n\n*Fuentes: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>prueba de Geekmaxi</a> y <a href=https://www.gleeride.com/collections/all-products/products/bogist-m5-pro-s-folding-electric-scooter-with-seat>ficha en Gleeride</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
+    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\n\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\n\nEl **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Precio** | 429 € |\n| **Motor** | 500 W |\n| **Batería** | 48V 15Ah (720 Wh) |\n| **Autonomía declarada** | 40 km |\n| **Autonomía real estimada** | ≈27 km |\n| **Velocidad máxima** | ≈50 km/h |\n| **Peso** | 24,2 kg |\n| **Carga máxima** | 120 kg |\n| **Ruedas** | 12,5" neumáticas |\n| **Frenos** | Doble disco |\n\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\n\n## Precio del Bogist M5 Pro S en España\n\n**429 €** fue el precio de oferta en Francia; en España se mueve en ese entorno en distribuidores. Por 720 Wh con sillín y doble disco, no tiene rival directo.\n\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\n\n## Autonomía real vs declarada\n\nDeclara **40 km** con sus 720 Wh. En uso realista (sillín, 500 W, peso medio), espera **25-30 km**: una semana de desplazamientos cortos sin enchufar.\n\n## Frenos y neumáticos\n\n**Doble disco** y neumáticos de **12,5 pulgadas** con dibujo específico que mejora agarre y frenada. La plataforma rígida prima ligereza y maniobrabilidad frente al Pro normal.\n\n## Certificado DGT y normativa VMP\n\nSin certificado DGT verificado. Su punta de **~50 km/h** lo deja fuera de la normativa VMP: **imprescindible limitarlo a 25 km/h** y no pisar la **acera** jamás.\n\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\n\nVídeo: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en YouTube — prueba completa del Bogist M5 Pro S.\n\n## Puntos fuertes y débiles\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 720 Wh: la mayor batería Bogist | ~50 a 25 km/h, que limitarlo, km/h: hay |\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\n\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\n\n## De dónde sale el M5 Pro S: la gama M5 de Bogist\n\nBogist es una marca china de venta online, sin red comercial propia en España. Su gama M5 agrupa minimotos eléctricas con sillín y motor de **500 W**: sentarse y hacer recados sin depender del coche. El **M5 Pro S** evoluciona al M5 Pro subiendo la batería de 624 Wh a **720 Wh** y montando neumáticos de **12,5 pulgadas**. No es un patinete de pie: su estética de ciclomotor y sus **24,2 kg** lo orientan a guardarlo en garaje o trastero. Su ficha, la del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>, recoge todos sus datos.\n\n## Profundidad técnica: qué significan sus 720 Wh\n\nLa cifra clave no es la velocidad, sino la energía. Con **48 V y 15 Ah** suma 720 Wh, la batería mayor del catálogo Bogist de este sitio. Eso explica los **40 km** declarados y por qué la estimación realista baja a **25-30 km**: la marca mide en condiciones favorables; en ciudad mandan arranques, cuestas, frío y peso del conductor. Sus 500 W sirven para llanear y superar rampas urbanas moderadas sentado.\n\n| Dato técnico | Bogist M5 Pro S | Qué implica |\n|---|---|---|\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\n| Frenos | Doble disco | Dos frenos independientes |\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\n\nEl fabricante no publica tiempo de carga oficial en su ficha de este sitio: cualquier cifra de horas de una tienda es dato del vendedor, no especificación verificada.\n\n## Uso real y mantenimiento\n\nEncaja si tus trayectos son cortos y repetidos, con sitio para aparcarlo abajo: recados o un polígono cercano sin subir escaleras con él a pulso. El sillín se agradece frente a ir de pie varios kilómetros. No encaja si combinas a diario con metro o tren o vives sin ascensor: pesa 24,2 kg y se ve como una minimoto. Tampoco si priorizas servicio técnico cercano, porque la red de repuestos en Europa es limitada según su propia ficha.\n\nDel mantenimiento solo cabe hablar en general, sin tarifa oficial española: presión, desgaste de pastillas, holguras en la tija del sillín y cuidar la batería evitando descargas completas prolongadas. El coste relevante será la disponibilidad de cubiertas, pastillas y recambio de batería, no la electricidad de 720 Wh. Pregunta al vendedor si sirve esos consumibles en Europa. Para contrastar, mira el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\n\n## Normativa en España: el límite de 25 km/h manda\n\nCon una punta cercana a **50 km/h**, el M5 Pro S no encaja como VMP tal cual sale de la caja. La normativa de la <a href=https://www.dgt.es>DGT</a> fija **25 km/h** máximos para los vehículos de movilidad personal, prohíbe aceras, vías interurbanas, travesías, autopistas, autovías y túneles urbanos, y exige certificado de circulación para los modelos comercializados desde el 22 de enero de 2024, con placa de marcaje. Su ficha indica **sin certificado DGT verificado**: limitarlo a 25 km/h no basta para darlo por homologado; exige al vendedor el certificado de esta versión antes de pagar.\n\n## Frente a sus hermanos M5 y veredicto\n\nContra el <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el Pro S gana batería —720 frente a 624 Wh— y media pulgada de rueda, pero pierde carga: **120 kg frente a 150 kg**. Contra el <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte 720 Wh, aunque el Plus declara 55 km frente a 40 km y no publica precio en su ficha, mientras el Pro S se ha visto a **429 € en Francia**: precio de origen, orientativo para España, no tarifa oficial española. Si dudas, lee el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\n\n**Veredicto:** ¿merece la pena? Sí, para quien busca autonomía sentada barata por vatio-hora y asume comprarlo online, si el vendedor acredita su certificado y queda limitado a 25 km/h. Para quién sí: trayectos cortos con garaje o planta baja. Para quién no: quien necesite subirlo a un piso o circular sin dudas de homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bogist M5 Pro S?\n**429 €** en oferta en Francia; precio similar en distribuidores españoles.\n\n### ¿Qué diferencia hay con el M5 Pro normal?\nMás batería (**720 Wh** frente a 624 Wh), ruedas de 12,5" y plataforma más compacta.\n\n### ¿Qué autonomía real tiene?\nDeclara 40 km; calcula **25-30 km** en uso real.\n\n### ¿Es legal en España?\nSolo **limitado a 25 km/h**.\n\n### ¿Cuánto pesa?\n**24,2 kg**.\n\n### ¿Merece la pena frente al M5 Pro+?\nEl Plus promete 55 km declarados; el Pro S está probado por medios. Ante la duda, el S.\n\n\n\n*Fuentes: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>prueba de Geekmaxi</a> y <a href=https://www.gleeride.com/collections/all-products/products/bogist-m5-pro-s-folding-electric-scooter-with-seat>ficha en Gleeride</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
   },
   {
     slug: "bogist-m5-pro-plus",
@@ -638,7 +638,7 @@ Ir sentado cambia el carácter del vehículo: el sillín y la cesta trasera lo a
 
 ## Normativa VMP: dónde queda el M5 Pro+ en España
 
-La normativa de la DGT reserva la categoría de vehículo de movilidad personal a los patinetes de una plaza, sin sillín salvo excepciones muy concretas, con velocidad máxima de 25 km/h y certificado obligatorio para los comercializados desde enero de 2024. El M5 Pro+, con sillín y 500 W, solo encaja en la vía pública limitado a 25 km/h y fuera de las aceras, y su falta de certificado DGT verificado es el punto que cualquier comprador debe resolver con el vendedor antes de pagar. En vías interurbanas y travesías manda la misma prudencia que con cualquier VMP.
+La normativa de la DGT reserva la categoría de vehículo de movilidad personal a los patinetes de una plaza, sin sillín salvo excepciones muy concretas, con velocidad máxima de 25 km/h y certificado obligatorio para los comercializados desde enero de 2024. El M5 Pro+, con sillín y 500 W, solo encaja en la vía pública de, y fuera, limitado a 25 km/h las aceras, y su falta de certificado DGT verificado es el punto que cualquier comprador debe resolver con el vendedor antes de pagar. En vías interurbanas y travesías manda la misma prudencia que con cualquier VMP.
 
 ## M5 Pro+ o M5 Pro S: veredicto
 
@@ -732,13 +732,13 @@ Declara **43 km**; en uso real con sus 500 W calcula **25-30 km**. La cuádruple
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **~34 km/h** de punta obligan a **limitarlo a 25 km/h** para la normativa VMP española: nada de **aceras**, siempre por carril bici o calzada.
+Sin certificado DGT verificado. Sus **~34 km/h** de punta obligan a **limitarlo para la normativa VMP, a 25 km/h española: nada de **aceras**, siempre por carril bici o calzada.
 
 ## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 500 W y 609 Wh: el Aovopro serio | ~34 km/h: hay que limitarlo a 25 km/h |
+| 500 W y 609 Wh: el Aovopro serio | ~34 a 25 km/h, que limitarlo, km/h: hay |
 | Cuádruple suspensión: muy cómodo | 7 horas de carga |
 | Tubeless autosellantes de 10" | Sin peso oficial publicado |
 | IP65: aguanta la lluvia | Soporte de marca budget |
@@ -1128,7 +1128,7 @@ Sin certificado DGT verificado. Sus **~45 km/h** lo excluyen del VMP legal: **ha
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 800 W y 480 Wh por ~490 € | ~45 km/h: hay que limitarlo a 25 km/h |
+| 800 W y 480 Wh por ~490 € | ~45 a 25 km/h, que limitarlo, km/h: hay |
 | Sillín desmontable: dos en uno | 23,6 kg: pesado |
 | 150 kg de carga máxima | Ruedas macizas: rebotan |
 | App con bloqueo y crucero | Sin servicio técnico en España |
@@ -1245,7 +1245,7 @@ Declara **45 km**; con 720 Wh y 800 W, en uso mixto espera **unos 30 km**. Sufic
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado (la UL2272 es de seguridad eléctrica, no de circulación). Sus **~45 km/h** exigen **limitarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
+Sin certificado DGT verificado (la UL2272 es de seguridad eléctrica, no de circulación). Sus **~45 km/h** exigen **limitarlo para la normativa VMP, a 25 km/h; prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -1280,7 +1280,7 @@ La lectura técnica es clara: 720 Wh es una batería grande para un patinete de 
 
 ## Uso real: commuting suburbano con sillín, no última milla
 
-El H7 cobra sentido en un uso concreto: trayectos de 5-15 km desde zonas residenciales, con el sillín puesto y sin combinar con transporte público. Ahí, la batería grande, la postura sentada y la suspensión lo hacen más cómodo que cualquier patinete ligero. Fuera de ese escenario, sus 25 kg lo vetan para subirlo a un piso sin ascensor o meterlo en un metro abarrotado, y las ruedas macizas piden prudencia con lluvia. Tampoco es un patinete de ocio deportivo: es una herramienta de desplazamiento con pretensiones todoterreno ligeras, y quien lo compre con esa expectativa acertará.
+El H7 cobra sentido en un uso concreto: trayectos de 5-15 km desde zonas residenciales, con el sillín puesto y sin combinar con transporte público. Ahí, la batería grande, la postura sentada y la suspensión lo hacen más cómodo que cualquier patinete ligero. Fuera de ese escenario, sus 25 kg lo vetan para subirlo en, o meterlo, sin ascensor, a un piso un metro abarrotado, y las ruedas macizas piden prudencia con lluvia. Tampoco es un patinete de ocio deportivo: es una herramienta de desplazamiento con pretensiones todoterreno ligeras, y quien lo compre con esa expectativa acertará.
 
 ## Mantenimiento, costes y normativa VMP en España
 
@@ -1371,7 +1371,7 @@ Declara **45 km**; con 672 Wh calcula **unos 30 km** reales. La dieta de 5 kg ay
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. A **~45 km/h** no es VMP legal: **limitar a 25 km/h** y circular fuera de **aceras**.
+Sin certificado DGT verificado. Es VMP legal, A **~45 km/h** no: **limitar a 25 km/h** y circular fuera de **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -1407,7 +1407,7 @@ Con **672 Wh**, la autonomía declarada de 45 km se traduce en unos **30 km real
 
 ## Uso real: ligero para llevar, ilegal sin limitar
 
-El H9 tiene sentido para quien combina patinete con tramos a pie, escaleras o transporte público: ahí sus 20 kg marcan la diferencia frente a los 25 kg del H7. Pero hay que repetir lo que ya dice su análisis: a unos **45 km/h no es un VMP legal en España**; su uso en vía pública exige limitarlo a 25 km/h, y aun así la legalidad plena requiere el certificado correspondiente, que no consta verificado para este modelo. Sin esa limitación, su terreno es el espacio privado. Compáralo con alternativas homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+El H9 tiene sentido para quien combina patinete con tramos a pie, escaleras o transporte público: ahí sus 20 kg marcan la diferencia frente a los 25 kg del H7. Pero hay que repetir lo que ya dice su análisis: a unos **es un VMP legal, 45 km/h no en España**; su uso en vía pública exige limitarlo a 25 km/h, y aun así la legalidad plena requiere el certificado correspondiente, que no consta verificado para este modelo. Sin esa limitación, su terreno es el espacio privado. Compáralo con alternativas homologables en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
 ## Mantenimiento y costes: sencillo, con la posventa por escrito
 
@@ -1543,7 +1543,7 @@ Para trayectos urbanos de ida y vuelta de hasta unos 20 km, el EV10K Pro cumple 
 
 ## Mantenimiento y normativa VMP en España
 
-El mantenimiento es sencillo: presión y estado de las ruedas (aunque sean macizas, se desgastan), tornillería del plegado, freno de disco y su pastilla, y cuidar la batería evitando descargas completas prolongadas. En normativa, la <a href=https://www.dgt.es>DGT</a> es clara con los vehículos de movilidad personal: velocidad máxima de 25 km/h, prohibido circular por aceras y obligatoriedad de certificado de circulación para los VMP comercializados en España. El EV10K Pro declara unos 30 km/h de punta, así que hay que limitarlo a 25 km/h para circular legalmente, y en este análisis consta sin certificado DGT verificado: antes de comprarlo, exige al vendedor la documentación del certificado si lo vas a usar en vía pública.
+El mantenimiento es sencillo: presión y estado de las ruedas (aunque sean macizas, se desgastan), tornillería del plegado, freno de disco y su pastilla, y cuidar la batería evitando descargas completas prolongadas. En normativa, la <a href=https://www.dgt.es>DGT</a> es clara con los vehículos de movilidad personal: velocidad máxima de 25 km/h, prohibido circular por aceras y obligatoriedad de certificado de circulación para los VMP comercializados en España. El EV10K Pro declara unos 30 km/h de punta, así que para, a 25 km/h, hay que limitarlo circular legalmente, y en este análisis consta sin certificado DGT verificado: antes de comprarlo, exige al vendedor la documentación del certificado si lo vas a usar en vía pública.
 
 ## Rivales y veredicto: ¿merece la pena?
 
@@ -2410,7 +2410,7 @@ Declara **100-120 km**; con 1.680 Wh y conducción tranquila, **70-80 km** reale
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. A **70 km/h** no es VMP legal en España: solo **limitado a 25 km/h** y fuera de **aceras**.
+Sin certificado DGT verificado. A **70 en España, es VMP legal, km/h** no: solo **de, y fuera, limitado a 25 km/h **aceras**.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/QCSvLqYurt4 title="Prueba del Currus NF por Electrek" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
@@ -2538,7 +2538,7 @@ Sin datos oficiales publicados. Por parentesco con el NF, cabe esperar hidráuli
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Como hiperpatinete de doble motor, en España solo tendría encaje **limitado a 25 km/h** y fuera de **aceras**.
+Sin certificado DGT verificado. Como hiperpatinete de doble motor, en España solo tendría encaje **de, y fuera, limitado a 25 km/h **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -2904,7 +2904,7 @@ Declara **50 km**; en ciudad con sus 500 W, espera **30-35 km** reales. Sigue si
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **40 km/h** de punta exigen **limitarlo a 25 km/h** para la normativa VMP española; prohibido en **aceras**.
+Sin certificado DGT verificado. Sus **40 km/h** de punta exigen **limitarlo para la normativa VMP, a 25 km/h española; prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -2941,7 +2941,7 @@ La rueda maciza elimina el pinchazo de la ecuación, que es la avería más frec
 
 ## Qué exige la normativa española para circular con él
 
-Como vehículo de movilidad personal, el GT SE debe circular limitado a 25 km/h, por carriles bici y calzadas autorizadas, nunca por aceras. Los VMP comercializados en España deben contar con el certificado de circulación de la DGT, y este modelo declara no tenerlo verificado: antes de comprarlo de ocasión o importado conviene exigir el certificado y la factura, porque sin esa documentación el patinete puede quedar fuera de la legalidad aunque se limite la velocidad. El casco depende de la ordenanza de cada municipio, aunque sobre ruedas macizas es una recomendación difícil de discutir.
+Como vehículo de movilidad personal, el GT SE debe circular limitado a 25 km/h, por carriles bici y calzadas autorizadas, nunca por aceras. Los VMP comercializados en España deben contar con y, de la DGT, de circulación, el certificado este modelo declara no tenerlo verificado: antes de comprarlo de ocasión o importado conviene exigir el certificado y la factura, porque sin esa documentación el patinete puede quedar fuera de la legalidad aunque se limite la velocidad. El casco depende de la ordenanza de cada municipio, aunque sobre ruedas macizas es una recomendación difícil de discutir.
 
 ## GT SE o Booster Sport: veredicto
 
@@ -3408,7 +3408,7 @@ Egret es la marca de Walberg Urban Electrics, empresa de Hamburgo que lleva desd
 | Tiempo de carga | 5,5 h |
 | Ruedas | 10 pulgadas |
 
-La lectura honesta de la batería es la que ya hace el post original: con **275 Wh** no hay milagro posible, y los 30 km declarados se quedan en unos 20 reales. A cambio, el conjunto pesa **18,6 kg**, es plegable y se carga en 5,5 horas en cualquier enchufe. Es un patinete de última milla en estado puro: tren o coche hasta la ciudad, y el Ey! 3 para los últimos kilómetros llanos. En cuestas fuertes, los 350 W se quedan justos, como reconoce el propio análisis en sus contras.
+La lectura honesta de la batería es la que ya hace el post original: con **275 Wh** no hay milagro posible, y los en unos 20, se quedan, 30 km declarados reales. A cambio, el conjunto pesa **18,6 kg**, es plegable y se carga en 5,5 horas en cualquier enchufe. Es un patinete de última milla en estado puro: tren o coche hasta la ciudad, y el Ey! 3 para los últimos kilómetros llanos. En cuestas fuertes, los 350 W se quedan justos, como reconoce el propio análisis en sus contras.
 
 ## Uso real: el de subir escaleras sin odiarlo
 
@@ -3756,7 +3756,7 @@ Declara **52 km**; ERideHero midió **29 km** reales en modo normal. La batería
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **~32 km/h** de punta piden **limitarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
+Sin certificado DGT verificado. Sus **~32 km/h** de punta piden **limitarlo para la normativa VMP, a 25 km/h; prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -3854,7 +3854,7 @@ Declara **56 km** (35 millas); con 600 Wh y 800 W de pico, en uso mixto espera *
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **~45 km/h** lo dejan fuera del VMP legal: **hay que limitarlo a 25 km/h** para España, y prohibido en **aceras**.
+Sin certificado DGT verificado. Sus **~45 km/h** lo dejan fuera del VMP legal: **para, a 25 km/h, hay que limitarlo España, y prohibido en **aceras**.
 
 ## Puntos fuertes y débiles
 
@@ -3952,7 +3952,7 @@ Declara **25 km**; con 238 Wh calcula **15-17 km** reales. Es el patinete del ca
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado. Sus **26 km/h** de punta están al límite: conviene **ajustarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
+Sin certificado DGT verificado. Sus **26 km/h** de punta están al límite: conviene **ajustarlo para la normativa VMP, a 25 km/h; prohibido en **aceras**.
 
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GsIdlTVaHr0 title="Análisis del Turboant M10 Lite" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 

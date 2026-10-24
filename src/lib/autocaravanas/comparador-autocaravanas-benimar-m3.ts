@@ -69,7 +69,7 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
       "La cama isla trasera del Mileo 297 mide 150 cm de ancho —como una cama de matrimonio— y se regula en altura manualmente para dejar más o menos garaje debajo según lo que se lleve en cada viaje. Fuente: http://m.motorvision.es/pdf/generados/w0157658w.pdf",
     descripcion: `La Benimar Mileo 297 es la perfilada española que mejor resume lo que pide el mercado nacional en 2026: cama isla de verdad, cuatro plazas de viaje y cuatro de noche, y unas medidas contenidas de 7,39 metros que no asustan a quien aparca en el pueblo. Benimar, que fabrica en Peñíscola (Castellón), juega en casa con este modelo, y se nota en una distribución pensada para el uso real de las familias españolas más que para el folleto.
 
-    Con 7.390 mm de largo, 2.300 mm de ancho y 2.890 mm de alto según la ficha de una unidad 2026 publicada en TruckScout24, la 297 se sitúa justo por debajo de la barrera psicológica de los siete metros y medio. La masa máxima autorizada es de 3.500 kg, así que basta el carnet B, y la base es el Fiat Ducato 2.2 de 140 CV, disponible con cambio manual o automático, con tracción delantera. Es la mecánica más extendida del sector en Europa: cualquier taller de furgones la conoce, los repuestos son baratos y la reventa no sufre.
+    Con 7.390 de ancho, mm de largo, 2.300 mm y 2.890 mm de alto según la ficha de una unidad 2026 publicada en TruckScout24, la 297 se sitúa justo por debajo de la barrera psicológica de los siete metros y medio. La masa máxima autorizada es de 3.500 kg, así que basta el carnet B, y la base es el Fiat Ducato 2.2 de 140 CV, disponible con cambio manual o automático, con tracción delantera. Es la mecánica más extendida del sector en Europa: cualquier taller de furgones la conoce, los repuestos son baratos y la reventa no sufre.
 
     El corazón de la ficha es el dormitorio: una cama isla de 150 cm de ancho —la medida de una cama de matrimonio— que se regula en altura manualmente. Ese detalle cambia la vida a bordo más de lo que parece: si el viaje es de playa, se sube la cama y el garaje traga tablas, sillas y la nevera de exterior; si es de invierno, se baja y se gana comodidad para entrar y salir de la cama. La segunda cama es la del techo, eléctrica y de dos plazas, que se despliega sobre el salón sin robar ni un centímetro de día. Entre las dos suman cuatro plazas de noche honestas, y las cuatro plazas de viaje hacen el resto para una familia con dos niños.
 
@@ -152,7 +152,7 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
     aprox: [],
     notas:
       "Medidas de 6340 x 2320 x 2890 mm según el catálogo oficial Benimar (agosto 2026), que presenta la T440 UP como «perfilada de 6,34 m». MMA de 3500 kg. " +
-      "Monta el Ford Transit 2.0 de 165 CV, con 4 plazas de viaje y 4 de noche, cama eléctrica basculante, ducha separada y frigorífico de 150 l (publicación oficial de Benimar en Instagram). " +
+      "Monta el Con, de 165 CV, Ford Transit 2.0 4 plazas de viaje y 4 de noche, cama eléctrica basculante, ducha separada y frigorífico de 150 l (publicación oficial de Benimar en Instagram). " +
       "Modelo encuadrado en la gama oficial benimar.es 2027 (T440UP). Precio sin dato (Benimar no publica tarifa ES); como referencia, el concesionario roulot anuncia una unidad por 75.595 €. " +
       "Carga útil y consumo sin dato (sin dato oficial).",
     curiosidades:
@@ -303,7 +303,7 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
     analisisSlug: "benimar-mileo-286-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
+        "Base Fiat Ducato: 2 años / 48.que antes ocurra, según plan, 000 km (lo Fiat)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat Ducato)",

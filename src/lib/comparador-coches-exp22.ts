@@ -372,7 +372,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 220 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 220 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 260,
@@ -1486,7 +1486,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 210 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 210 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 310 },
       ],
       costeAnualAproxEur: 250,
@@ -1553,7 +1553,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 220 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 220 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 320 },
       ],
       costeAnualAproxEur: 260,
@@ -1633,7 +1633,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 250 },
       ],
       costeAnualAproxEur: 180,
       fuente: "Plan oficial Maxus España",
@@ -1712,7 +1712,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 230 },
       ],
       costeAnualAproxEur: 170,
       fuente: "Plan oficial Maxus España",
@@ -1916,7 +1916,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 230 },
       ],
       costeAnualAproxEur: 170,
       fuente: "Plan oficial Maxus España",
@@ -2117,7 +2117,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 170 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 170 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 260 },
       ],
       costeAnualAproxEur: 210,
@@ -2187,7 +2187,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
-        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
+        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 200 },
       ],
       costeAnualAproxEur: 140,
       fuente: "Plan oficial MG España",
@@ -2264,7 +2264,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 130 },
-        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 220 },
+        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 220 },
       ],
       costeAnualAproxEur: 150,
       fuente: "Plan oficial MG España",
@@ -2299,7 +2299,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["precioDesde", "potenciaCv", "autonomiaKm", "maleteroL", "ceroCien", "velocidadMax", "bateriaKwh", "cargaRapidaKw", "largoMm", "anchoMm", "altoMm", "consumo", "parNm", "garantiaBateriaAnos", "garantiaBateriaKm", "garantiaBateriaDegradacionPct"],
-    pros: ["Maletero de 479 litros en una carrocería familiar de 4,60 m: carga la compra grande, el perro o el material de fin de semana sin tener que saltar a un SUV eléctrico", "Batería Long Range de 61,1 kWh con 400 km WLTP y consumo homologado de 17,5 kWh/100 km, margen de sobra para no depender del cargador cada día", "156 CV y 280 Nm dejan el 0 a 100 km/h en 7,7 s, un ritmo impropio de un familiar pensado para gastar poco", "Desde 25.100 € según la ficha y con la batería cubierta 7 años o 150.000 km hasta el 70 % de capacidad, la entrada a un familiar con etiqueta Cero queda muy por debajo de los familiares eléctricos que llegaron después, como el Peugeot e-308 SW"],
+    pros: ["Maletero de 479 litros en una carrocería familiar de 4,60 m: carga la compra grande, el perro o el material de fin de semana sin tener que saltar a un SUV eléctrico", "Batería Long Range de 61,1 kWh con 400 km WLTP y consumo homologado de 17,5 kWh/100 km, margen de sobra para no depender del cargador cada día", "156 CV y 280 Nm dejan el en 7,7, 0 a 100 km/h s, un ritmo impropio de un familiar pensado para gastar poco", "Desde 25.100 € según la ficha y con la batería cubierta 7 años o 150.000 km hasta el 70 % de capacidad, la entrada a un familiar con etiqueta Cero queda muy por debajo de los familiares eléctricos que llegaron después, como el Peugeot e-308 SW"],
     contras: ["La carga rápida se limita a 87 kW, así que en viaje largo cada parada se alarga más que en los eléctricos familiares posteriores", "No consta un ensayo Euro NCAP propio de este modelo, por lo que su comportamiento en choque no se puede contrastar con una nota oficial", "El tarado blando de la suspensión provoca balanceo en curva y la dirección transmite poca información, algo que se nota cuando el maletero va cargado", "Su producción cesó a principios de 2025, así que como coche nuevo depende del stock remanente y su futuro pasa por el mercado de ocasión"],
     imagen: "",
     imagenOficial: "/media/mg-5-ev-2025-precio-ficha-tecnica-hero.webp",
@@ -2331,7 +2331,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "24 meses o 30.000 km",
       revisiones: [
         { nombre: "Revisión 24 meses / 30.000 km", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
-        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
+        { nombre: "Revisión 48 meses / 60.000 km", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 200 },
       ],
       costeAnualAproxEur: 140,
       fuente: "Plan oficial MG España",
@@ -2410,7 +2410,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 140 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 230 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 230 },
       ],
       costeAnualAproxEur: 170,
       fuente: "Plan oficial Xpeng España",
@@ -2487,7 +2487,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 250 },
       ],
       costeAnualAproxEur: 180,
       fuente: "Plan oficial IM Motors España",
@@ -2590,7 +2590,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv", "maleteroL", "largoMm", "anchoMm", "altoMm", "parNm"],
     pros: ["Motor ACTECO 1.5 turbo de 147 CV: entrega los 210 Nm entre 1.750 y 4.000 rpm, así que adelanta sin necesidad de estirar las marchas", "El Tiggo 4 Pro Urban con volante a la derecha logró las cinco estrellas de ANCAP, con un 88 % en protección de ocupantes adultos", "Su origen es el Tiggo 5x chino de 2017: fuera de China se rebautizó Tiggo 4 y el rediseño de 2024 le puso la franja LED trasera a todo lo ancho", "Chery Australia lo cubre con siete años de garantía sin tope de kilómetros y otros siete de revisiones con precio cerrado"],
-    contras: ["Sin hibridación alguna se queda con la etiqueta C de la DGT, mientras su hermano CSH luce la ECO", "En las pruebas argentinas el gasto urbano rondó los 11 l/100 km: este turbo bebe más en ciudad que en carretera", "Los 340 litros de maletero quedan cortos cuando viajan sus cinco ocupantes con el equipaje de unas vacaciones", "La prueba Euro NCAP de diciembre de 2025, con cuatro estrellas, corresponde al Tiggo 4 híbrido CSH, no a esta versión de gasolina"],
+    contras: ["Sin hibridación alguna de la DGT, con la etiqueta C, se queda, mientras su hermano CSH luce la ECO", "En las pruebas argentinas el gasto urbano rondó los 11 l/100 km: este turbo bebe más en ciudad que en carretera", "Los 340 litros de maletero quedan cortos cuando viajan sus cinco ocupantes con el equipaje de unas vacaciones", "La prueba Euro NCAP de diciembre de 2025, con cuatro estrellas, corresponde al Tiggo 4 híbrido CSH, no a esta versión de gasolina"],
     imagen: "",
     imagenOficial: "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
@@ -2677,7 +2677,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 160 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 260 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 260 },
       ],
       costeAnualAproxEur: 190,
       fuente: "Plan oficial NIO Europa",
@@ -2744,7 +2744,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 120 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 200 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 200 },
       ],
       costeAnualAproxEur: 140,
       fuente: "Plan oficial Leapmotor España",
@@ -2810,7 +2810,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 230 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 230 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 330 },
       ],
       costeAnualAproxEur: 270,
@@ -2880,7 +2880,7 @@ export const COCHES_EXP22: CocheComparador[] = [
       intervalo: "20.000 km o 24 meses",
       revisiones: [
         { nombre: "Revisión 20.000 km / 24 meses", queSeCambia: "Filtro de polen + inspección + actualización de software", costeAproxEur: 150 },
-        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "Lo anterior + líquido de frenos + revisión del sistema de refrigeración de la batería", costeAproxEur: 250 },
+        { nombre: "Revisión 40.000 km / 48 meses", queSeCambia: "De la batería, de refrigeración, del sistema, de frenos + revisión, Lo anterior + líquido", costeAproxEur: 250 },
       ],
       costeAnualAproxEur: 180,
       fuente: "Plan oficial Hongqi España",
@@ -3054,7 +3054,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv", "largoMm", "anchoMm", "altoMm", "parNm"],
     pros: ["Su 2.0 turbo entrega 233 CV y 390 Nm, cifras de SUV grande europeo y muy por encima de lo habitual por los 18.700 € aproximados que marca esta ficha", "La tracción total va unida a un cambio automático Aisin de ocho velocidades, una combinación pensada para viajar cargado y con mal tiempo, no para un uso solo urbano", "Con 4.865 mm de largo y 1.948 mm de ancho para cinco plazas, es el buque insignia de la gama UNI y se sitúa por tamaño cerca de un Cayenne Coupé", "Es el segundo modelo de la familia UNI tras el UNI-T, con la parrilla sin marco, los tiradores enrasados y la barra de luz trasera como señas propias"],
-    contras: ["Ese precio de 18.700 € figura como aproximado y la venta oficial en España no está confirmada, así que hoy no es un precio cerrable en un concesionario español", "En esta versión de gasolina no hay hibridación que suavice la factura: la propia ficha estima 14,85 € de gasolina cada 100 km y se queda con la etiqueta C de la DGT", "No consta una calificación EuroNCAP para el UNI-K, un vacío importante cuando se le compara con rivales europeos que sí publican sus estrellas y el año del ensayo", "Sus 1.948 mm de anchura complican garajes y aparcamientos estrechos, y la red comercial y de recambios de Changan en Europa sigue siendo mucho más corta que la de una marca generalista asentada"],
+    contras: ["Ese precio de 18.700 € figura como aproximado y la venta oficial en España no está confirmada, así que hoy no es un precio cerrable en un concesionario español", "En esta versión de gasolina no hay hibridación que suavice la factura: la propia ficha estima 14,85 € de gasolina cada 100 km y de la DGT, con la etiqueta C, se queda", "No consta una calificación EuroNCAP para el UNI-K, un vacío importante cuando se le compara con rivales europeos que sí publican sus estrellas y el año del ensayo", "Sus 1.948 mm de anchura complican garajes y aparcamientos estrechos, y la red comercial y de recambios de Changan en Europa sigue siendo mucho más corta que la de una marca generalista asentada"],
     imagen: "/media/changan-uni-k-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/changan-uni-k-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
@@ -3301,7 +3301,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [
-        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección del sistema híbrido", costeAproxEur: 210 },
+        { nombre: "Revisión 15.000 km / 12 meses", queSeCambia: "Aceite + del sistema híbrido, de polen + inspección, filtro de aceite + filtro", costeAproxEur: 210 },
         { nombre: "Revisión 30.000 km / 24 meses", queSeCambia: "Lo anterior + filtro de aire + líquido de frenos (según plan)", costeAproxEur: 310 },
       ],
       costeAnualAproxEur: 250,

@@ -122,7 +122,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     contras: [
       "4.099 €: sigue siendo un desembolso enorme",
       "47 kg: traslúcido como trasto urbano diario",
-      "En España solo legal limitado a 25 km/h: pagas potencia que no puedes usar en vía pública",
+      "A 25 km/h, En España solo legal limitado: pagas potencia que no puedes usar en vía pública",
       "Mantenimiento de gama alta: no es un patinete para cualquier taller",
       "La batería tarda muchas horas en cargar al 100 %",
     ],
@@ -421,14 +421,14 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "https://mazrider.com/en/products/electric-scooter-teverun-fighter-eleven-60-v-26-ah",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
       aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar periódicamente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       intervaloRevision:
         "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 1-2 meses",
+        "Sobre la electrónica, a presión, sin agua, Limpiar con paño húmedo",
       ],
     },
   },
@@ -488,7 +488,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "https://www.green220.com/en/e-scooters/463-electric-scooter-teverun-fighter-11plus-60-v-35-ah-3701522001434.html",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
     },
   },
   {
@@ -547,7 +547,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, BMS inteligente y bloqueo NFC",
+        "De conducción, por Bluetooth: modos, App oficial Teverun, BMS inteligente y bloqueo NFC",
     },
   },
   {
@@ -606,14 +606,14 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.teverun.com/",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
       aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar periódicamente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       intervaloRevision:
         "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 1-2 meses",
+        "Sobre la electrónica, a presión, sin agua, Limpiar con paño húmedo",
       ],
     },
   },
@@ -672,14 +672,14 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.teverun.com/",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
       aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar periódicamente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       intervaloRevision:
         "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 1-2 meses",
+        "Sobre la electrónica, a presión, sin agua, Limpiar con paño húmedo",
       ],
     },
   },
@@ -739,14 +739,14 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.teverun.com/",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
       aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar periódicamente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       intervaloRevision:
         "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 1-2 meses",
+        "Sobre la electrónica, a presión, sin agua, Limpiar con paño húmedo",
       ],
     },
   },
@@ -806,14 +806,14 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.teverun.com/",
     mantenimientoDIY: {
       actualizacionFirmware:
-        "App oficial Teverun por Bluetooth: modos de conducción, ajustes del TFT y bloqueo NFC",
+        "App y bloqueo NFC, del TFT, de conducción, ajustes, por Bluetooth: modos, oficial Teverun",
       aprieteTornilleria:
-        "Revisar periódicamente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar periódicamente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       intervaloRevision:
         "Revisar periódicamente la presión de los neumáticos y el sistema de frenos hidráulicos",
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 1-2 meses",
-        "Limpiar con paño húmedo, sin agua a presión sobre la electrónica",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 1-2 meses",
+        "Sobre la electrónica, a presión, sin agua, Limpiar con paño húmedo",
       ],
     },
   },
@@ -1249,10 +1249,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       actualizacionFirmware:
         "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
       aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+        "Y fijaciones estén seguros (manual oficial Hiboy, que tornillos, tuercas, de cada salida, Comprobar antes)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
+        "Limpiar con paño a presión ni productos agresivos, de agua, húmedo: nada",
+        "Y pastillas, de frenos, el desgaste, Revisar periódicamente",
       ],
     },
   },
@@ -1314,10 +1314,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       actualizacionFirmware:
         "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
       aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+        "Y fijaciones estén seguros (manual oficial Hiboy, que tornillos, tuercas, de cada salida, Comprobar antes)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
+        "Limpiar con paño a presión ni productos agresivos, de agua, húmedo: nada",
+        "Y pastillas, de frenos, el desgaste, Revisar periódicamente",
       ],
     },
   },
@@ -1379,10 +1379,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       actualizacionFirmware:
         "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
       aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+        "Y fijaciones estén seguros (manual oficial Hiboy, que tornillos, tuercas, de cada salida, Comprobar antes)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
+        "Limpiar con paño a presión ni productos agresivos, de agua, húmedo: nada",
+        "Y pastillas, de frenos, el desgaste, Revisar periódicamente",
       ],
     },
   },
@@ -1452,7 +1452,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       trucos: [
         "El LED del cargador pasa de rojo a verde al completar la carga; no dejarlo cargando más tiempo del necesario",
         "No conectar el cargador con el puerto húmedo y cubrir el puerto cuando no se usa",
-        "Limpiar con paño húmedo: nada de agua a presión",
+        "A presión, de agua, Limpiar con paño húmedo: nada",
       ],
     },
   },
@@ -1514,10 +1514,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       actualizacionFirmware:
         "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
       aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+        "Y fijaciones estén seguros (manual oficial Hiboy, que tornillos, tuercas, de cada salida, Comprobar antes)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
+        "Limpiar con paño a presión ni productos agresivos, de agua, húmedo: nada",
+        "Y pastillas, de frenos, el desgaste, Revisar periódicamente",
       ],
     },
   },
@@ -1579,10 +1579,10 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       actualizacionFirmware:
         "App oficial Hiboy por Bluetooth: estadísticas, bloqueo, control de crucero y autodiagnóstico",
       aprieteTornilleria:
-        "Comprobar antes de cada salida que tornillos, tuercas y fijaciones estén seguros (manual oficial Hiboy)",
+        "Y fijaciones estén seguros (manual oficial Hiboy, que tornillos, tuercas, de cada salida, Comprobar antes)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni productos agresivos",
-        "Revisar periódicamente el desgaste de frenos y pastillas",
+        "Limpiar con paño a presión ni productos agresivos, de agua, húmedo: nada",
+        "Y pastillas, de frenos, el desgaste, Revisar periódicamente",
       ],
     },
   },
@@ -1704,18 +1704,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.co.uk/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -1776,18 +1776,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.co.uk/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -1848,18 +1848,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.co.uk/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -1908,7 +1908,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     ],
     contras: [
       "27 kg: pesado para el día a día urbano",
-      "A 45 km/h no es VMP legal en España",
+      "A en, es VMP legal, 45 km/h no España",
       "El plegado con tanta suspensión es aparatoso",
       "La marca no publica el tiempo de carga",
       "Para ciudad pura hay opciones más ligeras",
@@ -1919,18 +1919,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -1991,18 +1991,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.co.uk/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -2062,18 +2062,18 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter",
     mantenimientoDIY: {
       presionNeumaticos:
-        "La presión recomendada viene indicada en el flanco del neumático (manual oficial)",
+        "Del neumático (manual oficial, en el flanco, La presión recomendada viene indicada)",
       actualizacionFirmware:
-        "App oficial iScooter por Bluetooth (iOS/Android): permite actualizaciones de firmware y ajustes",
+        "Y ajustes, de firmware, por Bluetooth (iOS/Android): permite actualizaciones, App oficial iScooter",
       aprieteTornilleria:
-        "Revisar el apriete de todos los tornillos antes de cada salida (manual oficial)",
+        "De cada salida (manual oficial, los tornillos antes, de todos, Revisar el apriete)",
       ajusteFrenosPasos: [
         "Revisar periódicamente manetas, cables y pastillas de freno",
         "Si el freno se nota flojo o demasiado tenso, ajustar la tensión del cable o consultar a un técnico",
       ],
       trucos: [
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
         "Usar siempre el cargador original",
       ],
     },
@@ -2134,12 +2134,12 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://eu-kukirin.com/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
+        "Mantener la el manual oficial KuKirin, del neumático (según, en el flanco, presión indicada)",
       aprieteTornilleria:
-        "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
+        "Los tornillos estén apretados (manual oficial, que todos, Revisar periódicamente)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
         "Revisar periódicamente pastillas y cables de freno",
       ],
     },
@@ -2245,7 +2245,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     ],
     contras: [
       "Sin precio oficial: KuKirin no publica un PVP oficial verificable del M4 Max en España",
-      "A 45 km/h no es VMP legal en España",
+      "A en, es VMP legal, 45 km/h no España",
       "Acabados de gama de entrada",
       "La suspensión es básica",
       "El display es pequeño y poco legible al sol",
@@ -2257,7 +2257,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://eu-kukirin.com/",
     mantenimientoDIY: {
       aprieteTornilleria:
-        "Revisar regularmente el apriete de todos los tornillos y tuercas (manual oficial)",
+        "Revisar regularmente el y tuercas (manual oficial, los tornillos, apriete de todos)",
       ajusteFrenosPasos: [
         "Si el freno va demasiado tenso: aflojar la tuerca del brazo de freno con una llave, alargar ligeramente el cable y volver a apretar",
         "Si la frenada es débil: aflojar la tuerca, alargar más el cable y probar el freno",
@@ -2326,12 +2326,12 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://eu-kukirin.com/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
+        "Mantener la el manual oficial KuKirin, del neumático (según, en el flanco, presión indicada)",
       aprieteTornilleria:
-        "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
+        "Los tornillos estén apretados (manual oficial, que todos, Revisar periódicamente)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
         "Revisar periódicamente pastillas y cables de freno",
       ],
     },
@@ -2392,12 +2392,12 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://eu-kukirin.com/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
+        "Mantener la el manual oficial KuKirin, del neumático (según, en el flanco, presión indicada)",
       aprieteTornilleria:
-        "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
+        "Los tornillos estén apretados (manual oficial, que todos, Revisar periódicamente)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
         "Revisar periódicamente pastillas y cables de freno",
       ],
     },
@@ -2514,12 +2514,12 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     fuenteUrl: "https://eu-kukirin.com/",
     mantenimientoDIY: {
       presionNeumaticos:
-        "Mantener la presión indicada en el flanco del neumático (según el manual oficial KuKirin)",
+        "Mantener la el manual oficial KuKirin, del neumático (según, en el flanco, presión indicada)",
       aprieteTornilleria:
-        "Revisar periódicamente que todos los tornillos estén apretados (manual oficial)",
+        "Los tornillos estén apretados (manual oficial, que todos, Revisar periódicamente)",
       trucos: [
-        "Limpiar con paño húmedo: nada de agua a presión ni sumergirlo",
-        "Para guardarlo mucho tiempo, dejar la batería al 50-70 % y recargarla cada 30-60 días",
+        "A presión, de agua, Limpiar con paño húmedo: nada ni sumergirlo",
+        "Y recargarla cada, al 50-70, la batería, Para guardarlo mucho tiempo, dejar 30-60 días",
         "Revisar periódicamente pastillas y cables de freno",
       ],
     },
@@ -2571,7 +2571,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Sin precio oficial: Joyor no publica una tarifa oficial verificable del LR8",
       "38,1 kg: muy pesado para su potencia",
       "Frenos de tambor: menos mordiente que el disco",
-      "A 45 km/h no es VMP legal en España",
+      "A en, es VMP legal, 45 km/h no España",
       "Diseño algo tosco",
       "La marca Joyor tiene postventa irregular en Europa",
     ],
@@ -2583,16 +2583,16 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       intervaloRevision:
         "Inspeccionar el patinete y los neumáticos cada mes, comprobando el apriete de los tornillos (manual oficial)",
       aprieteTornilleria:
-        "Comprobar cada mes que los tornillos estén bien apretados; si están flojos, apretarlos (manual oficial)",
+        "Si están flojos, apretarlos (manual oficial, que los tornillos estén bien apretados, Comprobar cada mes)",
       ajusteFrenosPasos: [
         "Frenar en condiciones normales con la maneta trasera; la delantera o el pie solo en emergencias (manual oficial)",
         "Un frenazo brusco puede bloquear las ruedas y dañar el neumático",
       ],
       trucos: [
-        "El control de crucero se activa manteniendo el acelerador a la misma presión durante 3 segundos",
-        "Arranque seguro: el motor solo arranca con el patinete en movimiento, dando una patada primero",
-        "Batería de polímero de litio con unos 1.000 ciclos de vida media: cargarla a tope antes del primer uso",
-        "Neumáticos desgastados o pinchados: sustituirlos en el distribuidor oficial",
+        "A la misma presión durante 3 segundos, el acelerador, se activa manteniendo, de crucero, El control",
+        "Una patada primero, en movimiento, dando, con el patinete, el motor solo arranca, Arranque seguro",
+        "Del primer uso, a tope antes, de vida media: cargarla, con unos 1.000 ciclos, de litio, Batería de polímero",
+        "En el distribuidor oficial, o pinchados: sustituirlos, Neumáticos desgastados",
       ],
     },
   },
@@ -2654,16 +2654,16 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       intervaloRevision:
         "Inspeccionar el patinete y los neumáticos cada mes, comprobando el apriete de los tornillos (manual oficial)",
       aprieteTornilleria:
-        "Comprobar cada mes que los tornillos estén bien apretados; si están flojos, apretarlos (manual oficial)",
+        "Si están flojos, apretarlos (manual oficial, que los tornillos estén bien apretados, Comprobar cada mes)",
       ajusteFrenosPasos: [
         "Frenar en condiciones normales con la maneta trasera; la delantera o el pie solo en emergencias (manual oficial)",
         "Un frenazo brusco puede bloquear las ruedas y dañar el neumático",
       ],
       trucos: [
-        "El control de crucero se activa manteniendo el acelerador a la misma presión durante 3 segundos",
-        "Arranque seguro: el motor solo arranca con el patinete en movimiento, dando una patada primero",
-        "Batería de polímero de litio con unos 1.000 ciclos de vida media: cargarla a tope antes del primer uso",
-        "Neumáticos desgastados o pinchados: sustituirlos en el distribuidor oficial",
+        "A la misma presión durante 3 segundos, el acelerador, se activa manteniendo, de crucero, El control",
+        "Una patada primero, en movimiento, dando, con el patinete, el motor solo arranca, Arranque seguro",
+        "Del primer uso, a tope antes, de vida media: cargarla, con unos 1.000 ciclos, de litio, Batería de polímero",
+        "En el distribuidor oficial, o pinchados: sustituirlos, Neumáticos desgastados",
       ],
     },
   },
@@ -2724,16 +2724,16 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       intervaloRevision:
         "Inspeccionar el patinete y los neumáticos cada mes, comprobando el apriete de los tornillos (manual oficial)",
       aprieteTornilleria:
-        "Comprobar cada mes que los tornillos estén bien apretados; si están flojos, apretarlos (manual oficial)",
+        "Si están flojos, apretarlos (manual oficial, que los tornillos estén bien apretados, Comprobar cada mes)",
       ajusteFrenosPasos: [
         "Frenar en condiciones normales con la maneta trasera; la delantera o el pie solo en emergencias (manual oficial)",
         "Un frenazo brusco puede bloquear las ruedas y dañar el neumático",
       ],
       trucos: [
-        "El control de crucero se activa manteniendo el acelerador a la misma presión durante 3 segundos",
-        "Arranque seguro: el motor solo arranca con el patinete en movimiento, dando una patada primero",
-        "Batería de polímero de litio con unos 1.000 ciclos de vida media: cargarla a tope antes del primer uso",
-        "Neumáticos desgastados o pinchados: sustituirlos en el distribuidor oficial",
+        "A la misma presión durante 3 segundos, el acelerador, se activa manteniendo, de crucero, El control",
+        "Una patada primero, en movimiento, dando, con el patinete, el motor solo arranca, Arranque seguro",
+        "Del primer uso, a tope antes, de vida media: cargarla, con unos 1.000 ciclos, de litio, Batería de polímero",
+        "En el distribuidor oficial, o pinchados: sustituirlos, Neumáticos desgastados",
       ],
     },
   },
@@ -2794,16 +2794,16 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       intervaloRevision:
         "Inspeccionar el patinete y los neumáticos cada mes, comprobando el apriete de los tornillos (manual oficial)",
       aprieteTornilleria:
-        "Comprobar cada mes que los tornillos estén bien apretados; si están flojos, apretarlos (manual oficial)",
+        "Si están flojos, apretarlos (manual oficial, que los tornillos estén bien apretados, Comprobar cada mes)",
       ajusteFrenosPasos: [
         "Frenar en condiciones normales con la maneta trasera; la delantera o el pie solo en emergencias (manual oficial)",
         "Un frenazo brusco puede bloquear las ruedas y dañar el neumático",
       ],
       trucos: [
-        "El control de crucero se activa manteniendo el acelerador a la misma presión durante 3 segundos",
-        "Arranque seguro: el motor solo arranca con el patinete en movimiento, dando una patada primero",
-        "Batería de polímero de litio con unos 1.000 ciclos de vida media: cargarla a tope antes del primer uso",
-        "Neumáticos desgastados o pinchados: sustituirlos en el distribuidor oficial",
+        "A la misma presión durante 3 segundos, el acelerador, se activa manteniendo, de crucero, El control",
+        "Una patada primero, en movimiento, dando, con el patinete, el motor solo arranca, Arranque seguro",
+        "Del primer uso, a tope antes, de vida media: cargarla, con unos 1.000 ciclos, de litio, Batería de polímero",
+        "En el distribuidor oficial, o pinchados: sustituirlos, Neumáticos desgastados",
       ],
     },
   },
@@ -2864,16 +2864,16 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       intervaloRevision:
         "Inspeccionar el patinete y los neumáticos cada mes, comprobando el apriete de los tornillos (manual oficial)",
       aprieteTornilleria:
-        "Comprobar cada mes que los tornillos estén bien apretados; si están flojos, apretarlos (manual oficial)",
+        "Si están flojos, apretarlos (manual oficial, que los tornillos estén bien apretados, Comprobar cada mes)",
       ajusteFrenosPasos: [
         "Frenar en condiciones normales con la maneta trasera; la delantera o el pie solo en emergencias (manual oficial)",
         "Un frenazo brusco puede bloquear las ruedas y dañar el neumático",
       ],
       trucos: [
-        "El control de crucero se activa manteniendo el acelerador a la misma presión durante 3 segundos",
-        "Arranque seguro: el motor solo arranca con el patinete en movimiento, dando una patada primero",
-        "Batería de polímero de litio con unos 1.000 ciclos de vida media: cargarla a tope antes del primer uso",
-        "Neumáticos desgastados o pinchados: sustituirlos en el distribuidor oficial",
+        "A la misma presión durante 3 segundos, el acelerador, se activa manteniendo, de crucero, El control",
+        "Una patada primero, en movimiento, dando, con el patinete, el motor solo arranca, Arranque seguro",
+        "Del primer uso, a tope antes, de vida media: cargarla, con unos 1.000 ciclos, de litio, Batería de polímero",
+        "En el distribuidor oficial, o pinchados: sustituirlos, Neumáticos desgastados",
       ],
     },
   },

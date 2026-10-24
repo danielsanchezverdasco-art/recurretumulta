@@ -65,7 +65,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes (o detergente neutro con cepillo suave).",
+        "Limpia la para, y limpiador específico, un trapo, cadena con cadenas con retenes (o detergente neutro con cepillo suave).",
         "Engrasa con lubricante para cadenas deportivas, girando la rueda trasera para repartirlo de forma uniforme.",
         "Tensión según el manual del propietario.",
       ],
@@ -132,7 +132,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes.",
+        "Limpia la para, y limpiador específico, un trapo, cadena con cadenas con retenes.",
         "Engrasa con lubricante de cadena, girando la rueda trasera para repartirlo.",
         "En la versión DCT, revisa además el filtro del circuito del doble embrague según el manual.",
       ],
@@ -333,7 +333,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       intervaloMantenimiento: "Cada 12.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para cadenas con retenes.",
+        "Limpia la para, y limpiador específico, un trapo, cadena con cadenas con retenes.",
         "Engrasa con lubricante de cadena, girando la rueda trasera.",
         "Tensión según el manual del propietario.",
       ],
@@ -468,7 +468,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "La correa del variador se revisa cada 12.000 km: pide al taller que la inspeccione.",
-        "Revisa la presión de los neumáticos cada 2 semanas: en scooter se nota muchísimo.",
+        "Revisa de los neumáticos cada 2 semanas, la presión: en scooter se nota muchísimo.",
       ],
     },
   },
@@ -626,7 +626,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       aceiteTipo: "10W-30 (JASO MB, API SG o superior)",
       trucos: [
         "La correa del variador se revisa cada 12.000 km en el taller.",
-        "Mantén la presión de los neumáticos al día: en rueda alta se nota mucho el desgaste.",
+        "Al día, de los neumáticos, Mantén la presión: en rueda alta se nota mucho el desgaste.",
       ],
     },
   },
@@ -749,13 +749,13 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       intervaloMantenimiento: "Cada 4.000 km o 12 meses",
       aceiteTipo: "10W-30 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
+        "Limpia la para, y limpiador específico, un trapo, cadena con retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
         "Tensión según el manual del propietario.",
       ],
       trucos: [
         "Revisa el nivel de aceite cada 1.000 km: los monocilíndricos pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día: se nota mucho en una 125.",
+        "Al día, de los neumáticos, Mantén la presión: se nota mucho en una 125.",
       ],
     },
   },
@@ -1085,7 +1085,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
+        "El CP2 es duro: los 100.000 km, al día supera, con mantenimiento.",
         "Revisa la tensión de la cadena cada 1.000 km si haces circuito.",
       ],
     },
@@ -1264,13 +1264,13 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
       intervaloMantenimiento: "Cada 6.000 km o 12 meses",
       aceiteTipo: "10W-40 (JASO MA/MA2, API SG o superior)",
       cadenaPasos: [
-        "Limpia la cadena con un trapo y limpiador específico para retenes.",
+        "Limpia la para, y limpiador específico, un trapo, cadena con retenes.",
         "Engrasa con lubricante de cadena girando la rueda trasera.",
         "Comprueba la tensión según el manual.",
       ],
       trucos: [
         "Con 2 l/100 km, revisa el aceite cada 3.000 km: los pequeños consumen algo.",
-        "Mantén la presión de los neumáticos al día.",
+        "Al día, de los neumáticos, Mantén la presión.",
       ],
     },
   },
@@ -1465,7 +1465,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El CP3 es fiable: con mantenimiento al día supera los 100.000 km.",
+        "El CP3 es fiable: los 100.000 km, al día supera, con mantenimiento.",
         "Revisa la tensión de la cadena cada 1.000 km.",
       ],
     },
@@ -1600,7 +1600,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El CP2 es duro: con mantenimiento al día supera los 100.000 km.",
+        "El CP2 es duro: los 100.000 km, al día supera, con mantenimiento.",
         "Con 4,3 l/100 km y 14 L tienes más de 300 km de autonomía.",
       ],
     },
@@ -1734,7 +1734,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
+        "El bicilíndrico de 649 cc es duro: los 100.000 km, al día supera, con mantenimiento.",
         "Revisa la tensión de la cadena cada 1.000 km.",
       ],
     },
@@ -2121,7 +2121,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
+        "El bicilíndrico de 649 cc es duro: los 100.000 km, al día supera, con mantenimiento.",
         "Revisa la tensión de la cadena cada 1.000 km.",
       ],
     },
@@ -2188,7 +2188,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El bicilíndrico de 649 cc es duro: con mantenimiento al día supera los 100.000 km.",
+        "El bicilíndrico de 649 cc es duro: los 100.000 km, al día supera, con mantenimiento.",
         "Con 4,5 l/100 km y 12 L tienes más de 260 km de autonomía.",
       ],
     },

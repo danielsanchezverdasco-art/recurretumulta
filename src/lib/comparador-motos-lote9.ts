@@ -88,7 +88,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Sur-Ron: sin plan de mantenimiento publicado para la Light Bee X",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -173,7 +173,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Sur-Ron: sin plan de mantenimiento publicado para la Ultra Bee",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -259,7 +259,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Sur-Ron: sin plan de mantenimiento publicado para la Storm Bee",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -344,7 +344,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Talaria: sin plan de mantenimiento publicado para la Sting R MX4",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -429,7 +429,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Talaria: sin plan de mantenimiento publicado para la Sting RMX5 Pro",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -516,7 +516,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Talaria: sin plan de mantenimiento publicado para la XXX TL2500",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -601,7 +601,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Alrendo: sin plan de mantenimiento publicado para la TS Bravo",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -688,7 +688,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Tinbot: sin plan de mantenimiento publicado para la RS1",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -775,7 +775,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Tromox: sin plan de mantenimiento publicado para la Mino",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -862,7 +862,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Doohan: sin plan de mantenimiento publicado para el iTank",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -948,7 +948,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Felo: sin plan de mantenimiento publicado para la FW-06",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1033,7 +1033,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Ovaobike: sin plan de mantenimiento publicado para la MCR-S",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1118,7 +1118,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "RGNT: sin plan de mantenimiento publicado para la No.1",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1203,7 +1203,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     planMantenimiento:     {
       costeAnualAproxEur: null,
       fuente: "Zeeho: sin plan de mantenimiento publicado para la City Sport",
-      intervalo: "Sin programa publicado (consultado 11/10/2026); se recomienda inspection anual",
+      intervalo: "Se recomienda inspection, Sin programa publicado (consultado 11/10/2026 anual",
       revisiones: [
         {
           costeAproxEur: null,

@@ -80,7 +80,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     contras: [
       "Precio de 6.999 €: la versión X cuesta 1.500 € menos con el mismo motor",
       "Asiento a 870 mm: alta para pilotos de talla media-baja",
-      "165 kg en seco que se notan en parado y en maniobras",
+      "165 kg en seco y en maniobras, en parado, que se notan",
       "Para encontrar la chispa hay que girar el acelerador: arriba no empuja con la rabia de una KTM grande",
       "Enfocada al campo: en autopista el guardabarros alto y la ergonomía penalizan",
     ],
@@ -1025,7 +1025,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/ducati-hypermotard-698-mono-2024-precio-ficha-tecnica/",
     analisisSlug: "ducati-hypermotard-698-mono-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Oil Service cada 15.000 km o 24 meses + revisión anual cada 12 meses (Desmo cada 30.000 km)",
+      intervaloMantenimiento: "O 24 meses, Oil Service cada 15.000 km + revisión anual cada 12 meses (Desmo cada 30.000 km)",
       aceiteTipo: "SAE 15W-50 API SP/JASO MA2 (Shell Advance 4T Ultra 15W-50)",
     },
   },
@@ -1140,7 +1140,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     fuenteUrl: "https://ducatimadrid.com/motocicletas/ducati-supersport/",
     analisisSlug: "ducati-supersport-950-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km o 6 meses; Oil Service cada 15.000 km o 24 meses; revisión anual cada 12 meses (Desmo cada 30.000 km)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km o 6 meses; O 24 meses, Oil Service cada 15.000 km; revisión anual cada 12 meses (Desmo cada 30.000 km)",
       aceiteTipo: "SAE 15W-50/JASO MA2, Shell Advance 4T Ultra 15W-50 (API SN), 3,2 l con filtro",
       cadenaPasos: [
         "Medir el juego de la cadena en el tramo inferior: debe estar entre 35 y 37 mm",
@@ -1975,7 +1975,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     ],
     contras: [
       "14.050 €: la TT Travel se va a 14.999 €",
-      "230 kg en orden de marcha: pesada para el off-road serio",
+      "230 kg en orden para el off-road serio, de marcha: pesada",
       "Sensor de la pata de cabra expuesto para el off-road (motorbikemag)",
       "La cúpula cubre poco, pensada más en la estética que en la función (motostrail)",
       "Refrigeración por aire: en ciudad agradece ritmos tranquilos",
@@ -2237,7 +2237,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/moto-morini-x-cape-650-2022/",
     analisisSlug: "moto-morini-x-cape-650-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km y después cada 6.000 km o 6 meses",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km y o 6 meses, después cada 6.000 km",
       aceiteTipo: "10W-40 totalmente sintético API SN",
       trucos: ["Engrase de cadena: cada 600 km; comprobar la tensión cada 1.000 km"],
     },
@@ -2353,7 +2353,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/moto-morini/seiemmezzo",
     analisisSlug: "moto-morini-seiemmezzo-scr-650-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km y después cada 6.000 km o 6 meses",
+      intervaloMantenimiento: "Primera revisión a los 1.000 km y o 6 meses, después cada 6.000 km",
       aceiteTipo: "10W-40 totalmente sintético API SN",
       trucos: ["Engrase de cadena: cada 600 km; comprobar la tensión cada 1.000 km"],
     },

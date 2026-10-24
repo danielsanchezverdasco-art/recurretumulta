@@ -59,7 +59,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "http://www.mi.com/es/product/xiaomi-electric-scooter-5-max/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
       trucos: ["El conector de carga está en la parte superior del mástil, fácil de acceder"],
     },
   },
@@ -117,7 +117,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "Xiaomi España",
     fuenteUrl: "https://www.mi.com/es/app/product/xiaomi-electric-scooter-4-pro-2nd-gen/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -174,7 +174,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/xiaomi-electric-scooter-4-lite-2nd-gen-patinete-electrico-300w-negro",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -231,7 +231,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MundoXiaomi",
     fuenteUrl: "https://www.mundoxiaomi.com/patinetes/nuevos-xiaomi-electric-scooter-6-homologados-estilosos-todo-terreno-autonomia-para-salvarte-quedarte-tirado",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -288,7 +288,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MundoXiaomi",
     fuenteUrl: "https://www.mundoxiaomi.com/patinetes/nuevos-xiaomi-electric-scooter-6-homologados-estilosos-todo-terreno-autonomia-para-salvarte-quedarte-tirado",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -345,7 +345,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "Xiaomi España",
     fuenteUrl: "https://www.mi.com/es/product/xiaomi-electric-scooter-6-pro/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -402,7 +402,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MundoXiaomi",
     fuenteUrl: "https://www.mundoxiaomi.com/patinetes/nuevos-xiaomi-electric-scooter-6-homologados-estilosos-todo-terreno-autonomia-para-salvarte-quedarte-tirado",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -459,7 +459,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-xiaomi-electric-scooter-6-ultra-potencia-max-1200-w-potencia-nom-500-w-carga-max-140-kg-12500-mah-25-kmh-negroamarillo-1621435.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Xiaomi Home (iOS/Android)",
+      actualizacionFirmware: "Xiaomi Home (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -516,7 +516,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://mediamarkt.es/es/product/_patinete-electrico-segway-ninebot-max-g3-e-potencia-max-2000-w-potencia-nominal-700w-carga-max-130-kg-12750-mah-25-kmh-gris-1596642.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      actualizacionFirmware: "Segway Mobility (iOS/Android, de la app oficial, A través)",
       trucos: ["La carga flash 3x con cargador de CC opcional baja la carga a unas 2,5 horas"],
     },
   },
@@ -575,7 +575,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-segway-ninebot-f3-pro-potencia-max-1200w-potencia-nominal-550w-carga-max-120-kg-477-mah-25-kmh-gris-y-negro-1598240.html",
     mantenimientoDIY: {
       presionNeumaticos: "2,9-3,3 bar (42-48 psi, según el manual oficial)",
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      actualizacionFirmware: "Segway Mobility (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -633,7 +633,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "Decathlon España",
     fuenteUrl: "https://www.Decathlon.es/es/p/patinete-electrico-segway-ninebot-e3-pro-e/_/R-p-377700",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      actualizacionFirmware: "Segway Mobility (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -691,7 +691,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "El Corte Inglés",
     fuenteUrl: "https://www.elcorteingles.es/electronica/A49720443-patinete-electrico-plegable-segway-ninebot-kickscooter-e2-pro-e/?parentCategoryId=997.22141646011",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      actualizacionFirmware: "Segway Mobility (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -748,7 +748,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-segway-ninebot-gt3-e-pot-max-2400-w-carga-max-150-kg-95-km-autonomia-vel-25-kmh-19209-mah-gris-152143121.html",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial Segway Mobility (iOS/Android)",
+      actualizacionFirmware: "Segway Mobility (iOS/Android, de la app oficial, A través)",
     },
   },
   {
@@ -1009,7 +1009,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "Worten Canarias",
     fuenteUrl: "https://canarias.worten.es/productos/patinete-electrico-navee-s40-350w-autonomia-40-km-gris-8169549",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial NAVEE (iOS/Android)",
+      actualizacionFirmware: "De la app oficial NAVEE (iOS/Android, A través)",
     },
   },
   {
@@ -1066,7 +1066,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/navee-gt3-max-patinete-electrico-1000w-doble-suspension-12700-mah-75km-bms-app-certificado-dgt-gris",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial NAVEE (iOS/Android)",
+      actualizacionFirmware: "De la app oficial NAVEE (iOS/Android, A través)",
     },
   },
   {
@@ -1123,7 +1123,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     fuenteNombre: "Clipset",
     fuenteUrl: "https://clipset.com/navee-st3-pro-scooter-autonomia-precio-prueba-opinion-informacio-caracteristicas/",
     mantenimientoDIY: {
-      actualizacionFirmware: "A través de la app oficial NAVEE (iOS/Android)",
+      actualizacionFirmware: "De la app oficial NAVEE (iOS/Android, A través)",
     },
   },
   {

@@ -39,7 +39,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       "Dirección asistida y asiento calefactable: exclusivas de Ligier",
     ],
     contras: [
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Precio de acceso de 13.990 €, muy por encima de un Citroën Ami",
       "Carga doméstica lenta: hasta 9,6 horas en la batería grande",
       "Solo 2 plazas y sin carga rápida en continua",
@@ -67,7 +67,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -119,7 +119,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "Etiqueta C: restricciones en las ZBE frente al eléctrico",
       "Motor diésel de 8 CV: ruidoso y con vibraciones en ciudad",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Solo 78 g/km de CO2, pero emisiones reales de NOx",
       "Los diésel de cuadriciclos tienen peor reventa que los eléctricos",
     ],
@@ -145,7 +145,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 111,
       notas:
-        "Estimación con 10.000 km/año, consumo de 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -223,7 +223,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 81,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7,5 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo,5 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -275,7 +275,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "Autonomía de solo unos 80 km: uso estrictamente urbano",
       "Acabado de acceso: clima y dirección asistida son extras",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Batería pequeña sin carga rápida: planificar la recarga nocturna",
       "Nuevo en el mercado (2026): reventa aún por demostrar",
     ],
@@ -309,7 +309,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 140,
       costeMensualTotal: 70,
       notas:
-        "Estimación con 10.000 km/año, consumo de 6 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 6 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -364,7 +364,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       "Silencioso y sin emisiones: etiqueta Cero de la DGT",
     ],
     contras: [
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Sin carga rápida: solo recarga doméstica en enchufe",
       "Acabado intermedio: el Confort añade mucho por 4.500 € más",
       "Datos de maletero y dimensiones aún no publicados",
@@ -392,7 +392,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -443,7 +443,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     ],
     contras: [
       "18.990 €: precio de utilitario eléctrico de verdad por un biplaza L6e",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Sin carga rápida: solo recarga doméstica",
       "A este precio, el MAX Confort L7e (19.990 €) corre a 83 km/h",
       "Seguro y mantenimiento de microcoche, no de ciclomotor",
@@ -470,7 +470,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 79,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -548,7 +548,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 170,
       costeMensualTotal: 82,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -600,7 +600,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "Acabado básico: sin clima ni dirección asistida de serie",
       "Etiqueta C: peor que la Cero del eléctrico en las ZBE",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Radio 1DIN sencilla frente a la tablet de 10\" de los Elite",
       "El Select Confort añade clima y dirección por solo 2.200 € más",
     ],
@@ -626,7 +626,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 111,
       notas:
-        "Estimación con 10.000 km/año, consumo de 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -678,7 +678,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "Sin pantalla táctil de serie (es opcional con el Pack Multimedia)",
       "Etiqueta C: peor que la Cero del eléctrico en las ZBE",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "El Elite añade la tablet de 10\" y el pack HIFI por 2.300 € más",
       "Asientos Confort, menos envolventes que los del Elite/Ultimate",
     ],
@@ -704,7 +704,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 230,
       costeMensualTotal: 114,
       notas:
-        "Estimación con 10.000 km/año, consumo de 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -756,7 +756,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "19.990 €: ya en precio de utilitarios de ocasión con más capacidades",
       "Etiqueta C en la versión diésel",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "El Ultimate añade el pack Connect y el 6.0 HIFI por 1.500 € más",
       "Consumo real del diésel sube en uso urbano con paradas constantes",
     ],
@@ -782,7 +782,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 240,
       costeMensualTotal: 116,
       notas:
-        "Estimación con 10.000 km/año, consumo de 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -834,7 +834,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     contras: [
       "21.490 €: precio de coche de verdad por un cuadriciclo L6e",
       "Etiqueta C en la versión diésel",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "El Elite ofrece casi lo mismo por 1.500 € menos",
       "Depreciación alta: los tope de gama pierden más valor",
     ],
@@ -860,7 +860,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 119,
       notas:
-        "Estimación con 10.000 km/año, consumo de 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
+        "De, Estimación con 10.000 km/año, consumo 3,0 l/100 km y gasóleo a 1,58 €/l. Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [
@@ -911,7 +911,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     ],
     contras: [
       "Desde 16.490 €: notablemente más caro que el diésel equivalente",
-      "Velocidad limitada a 45 km/h por homologación L6e",
+      "Por homologación L6e, a 45 km/h, Velocidad limitada",
       "Sin carga rápida: solo recarga doméstica lenta",
       "159 km teóricos; en invierno la cifra real baja",
       "El Myli MAX ofrece la misma batería por 2.000 € menos",
@@ -938,7 +938,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
       mantenimientoAnual: 160,
       costeMensualTotal: 76,
       notas:
-        "Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
+        "Estimación de 7, con 10.000 km/año, consumo kWh/100 km y 0,18 €/kWh (doméstica). Todo riesgo incluido.",
       estimado: true,
     },
     galeria: [

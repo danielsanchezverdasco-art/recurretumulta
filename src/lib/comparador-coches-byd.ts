@@ -381,7 +381,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 157,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación mixta a diario, con 15.000 km/año cargando: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
@@ -463,7 +463,7 @@ export const COCHES_BYD: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 161,
       notas:
-        "Estimación mixta con 15.000 km/año cargando a diario: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
+        "Estimación mixta a diario, con 15.000 km/año cargando: coste por 100 km entre electricidad (0,18 €/kWh) y gasolina (1,60 €/l).",
       estimado: true,
     },
     galeria: [
@@ -582,7 +582,7 @@ export const COCHES_BYD: CocheComparador[] = [
     bateriaKwh: 91.3,
     cargaRapidaKw: 232,
     etiquetaDgt: "Cero",
-    pros: ["Dos motores, tracción a las cuatro ruedas y 530 CV con 690 Nm: firma el 0 a 100 km/h en 4,5 segundos, territorio de SUV deportivos de marcas premium", "La batería Blade de 91,3 kWh homologa 502 km WLTP, una cifra sólida para un tracción total de 2.435 kg que no renuncia a las prestaciones", "Acepta carga en corriente continua de hasta 232 kW, así que las paradas en viajes largos se acortan frente a buena parte de sus rivales eléctricos", "BYD cubre la batería durante ocho años o 200.000 km, y el conjunto llega con etiqueta Cero de la DGT para circular sin restricciones urbanas", "Pensado para familia viajera: batalla de 2,93 metros, 520 litros de maletero trasero y otros 58 litros bajo el capó delantero para guardar los cables"],
+    pros: ["Dos motores, tracción a las cuatro ruedas y 530 CV con 690 Nm: firma en 4, a 100 km/h, el 0,5 segundos, territorio de SUV deportivos de marcas premium", "La batería Blade de 91,3 kWh homologa 502 km WLTP, una cifra sólida para un tracción total de 2.435 kg que no renuncia a las prestaciones", "Acepta carga en corriente continua de hasta 232 kW, así que las paradas en viajes largos se acortan frente a buena parte de sus rivales eléctricos", "BYD cubre la batería durante ocho años o 200.000 km, y el conjunto llega con etiqueta Cero de la DGT para circular sin restricciones urbanas", "Pensado para familia viajera: batalla de 2,93 metros, 520 litros de maletero trasero y otros 58 litros bajo el capó delantero para guardar los cables"],
     contras: ["Sus 2.435 kg en orden de marcha penalizan todo: frenadas largas, neumáticos caros y una agilidad lejos de lo que sugieren sus 530 CV", "El consumo homologado de 21,9 kWh/100 km es elevado y en autopista a 120 km/h la autonomía real queda muy por debajo de los 502 km WLTP", "Con 54.390 euros, este Excellence ya juega contra Tesla Model Y o Polestar 4 y queda lejos de la imagen de BYD asequible de otros modelos", "Las ayudas electrónicas resultan intrusivas en conducción real: el asistente de mantenimiento de carril interviene con brusquedad y los avisos sonoros cansan hasta desconectarlos", "El chasis prioriza el confort y balancea al enlazar curvas con ritmo, con una dirección ligera que no acompaña al empuje de sus dos motores"],
     largoMm: 4830,
     anchoMm: 1925,
@@ -629,7 +629,7 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    planMantenimiento: {"intervalo": "BYD fija para sus eléctricos puros, y por tanto para este Sealion 7 Excellence, una revisión cada dos años o 30.000 km, lo que ocurra primero, en sustitución del anterior paso anual por taller. La visita se limita a inspección general, filtro del habitáculo y controles de frenos, neumáticos y software, sin aceites ni distribución que sustituir. El coste orientativo por revisión ronda los 160-240 euros en la red oficial española.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
+    planMantenimiento: {"intervalo": "BYD fija para sus eléctricos puros, y por tanto para este Sealion 7 Excellence, una revisión cada dos que ocurra, años o 30.000 km, lo primero, en sustitución del anterior paso anual por taller. La visita se limita a inspección general, filtro del habitáculo y controles de frenos, neumáticos y software, sin aceites ni distribución que sustituir. El coste orientativo por revisión ronda los 160-240 euros en la red oficial española.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
   },
   {
     id: "byd-han-2024-precio-ficha-tecnica",
@@ -695,7 +695,7 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "BYD reestructuró en octubre de 2024 el plan de sus eléctricos puros en España: la revisión del Han pasa cada dos años o 30.000 km, lo primero que ocurra, con carácter retroactivo para clientes anteriores. Al no haber motor térmico, la visita se centra en la inspección general del vehículo en Servicio Oficial. Como coste orientativo, la comparativa de Autocasión sitúa las revisiones BYD entre 160 y 240 euros por visita.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
+    planMantenimiento: {"intervalo": "BYD reestructuró en octubre de 2024 el plan de sus eléctricos puros en España: la revisión del Han pasa cada dos que, años o 30.000 km, lo primero ocurra, con carácter retroactivo para clientes anteriores. Al no haber motor térmico, la visita se centra en la inspección general del vehículo en Servicio Oficial. Como coste orientativo, la comparativa de Autocasión sitúa las revisiones BYD entre 160 y 240 euros por visita.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.autocasion.com/actualidad/reportajes/coches-electricos-mantenimiento-mas-bajo-comparativa-revisiones-periodicas/"},
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: no se ha localizado resultado publicado en euroncap.com para el BYD Han; las cinco estrellas que circulan para este modelo corresponden a C-NCAP chino, no al programa europeo", "url": null},
   },
   {
@@ -990,7 +990,7 @@ export const COCHES_BYD: CocheComparador[] = [
       "costeMensualTotal": 122,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 15,9 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+      "notas": "año, consumo WLTP, estimación con 12.000 km 15,9 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1225,7 +1225,7 @@ export const COCHES_BYD: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+      fuente: "Para vehículos eléctricos, Plan oficial BYD Europa",
     },
     opiniones: [],
     costeMensual: {

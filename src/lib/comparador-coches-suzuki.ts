@@ -68,7 +68,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
       "costeMensualTotal": 185,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.7,
-      "notas": "12.000 km/año; energía = 5,0 l/100 km × 1,70 €/l; seguro y mantenimiento estimados por segmento B-SUV",
+      "notas": "12.000 km/año; energía = 5,0 l/100 km × 1,70 €/l; seguro, en concreto, y mantenimiento estimados por segmento B-SUV",
       "estimado": true
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
       "costeMensualTotal": 195,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.7,
-      "notas": "12.000 km/año; energía = 5,4 l/100 km × 1,70 €/l; seguro y mantenimiento estimados por segmento C-SUV",
+      "notas": "12.000 km/año; energía = 5,4 l/100 km × 1,70 €/l; seguro, en este caso, y mantenimiento estimados por segmento C-SUV",
       "estimado": true
     },
     galeria: [
@@ -236,7 +236,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.7,
-      "notas": "12.000 km/año; energía = 5,1 l/100 km × 1,70 €/l; seguro y mantenimiento estimados por segmento C-SUV",
+      "notas": "12.000 km/año; energía = 5,1 l/100 km × 1,70 €/l; seguro, en concreto, y mantenimiento estimados por segmento C-SUV",
       "estimado": true
     },
     galeria: [
@@ -404,7 +404,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
       "costeMensualTotal": 174,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.7,
-      "notas": "12.000 km/año; energía = 4,5 l/100 km × 1,70 €/l; seguro y mantenimiento estimados por segmento de familiares",
+      "notas": "12.000 km/año; energía = 4,5 l/100 km × 1,70 €/l; seguro, en este caso, y mantenimiento estimados por segmento de familiares",
       "estimado": true
     },
     galeria: [

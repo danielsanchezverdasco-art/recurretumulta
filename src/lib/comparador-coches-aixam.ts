@@ -55,7 +55,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -97,7 +97,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: los cuadriciclos ligeros (L6e) no se someten a pruebas Euro NCAP",
     },
-    planMantenimiento: {"intervalo": "Revisión al menos una vez al año o entre 5.000 y 10.000 km, con primera revisión a los 1.000 km o al año", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión a los 1.000 km o 1 año", "queSeCambia": "Comprobación general sin cambio de aceite por ser eléctrico: niveles de líquido de frenos, frenos, neumáticos, amortiguadores, sistema eléctrico y batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Repetición de los controles anteriores más inspección de batería de tracción, fuelles, articulaciones y transmisión, además de luces y presión de neumáticos"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km y sucesivas anuales", "queSeCambia": "Revisión en profundidad de frenos, suspensión, dirección, neumáticos y sistema eléctrico y de carga; la batería de tracción se comprueba en cada mantenimiento según Aixam"}]},
+    planMantenimiento: {"intervalo": "Revisión al menos una vez al año o entre 5.000 y 10.000 km, con o, a los 1.000 km, primera revisión al año", "revisiones": [{"costeAproxEur": null, "nombre": "O, a los 1.000 km, Primera revisión 1 año", "queSeCambia": "Comprobación general sin cambio de aceite por ser eléctrico: niveles de líquido de frenos, frenos, neumáticos, amortiguadores, sistema eléctrico y batería de tracción"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Repetición de los controles anteriores más inspección de batería de tracción, fuelles, articulaciones y transmisión, además de luces y presión de neumáticos"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km y sucesivas anuales", "queSeCambia": "Revisión en profundidad de frenos, suspensión, dirección, neumáticos y sistema eléctrico y de carga; la batería de tracción se comprueba en cada mantenimiento según Aixam"}]},
     fuenteNombre: "auto-data.net (ficha técnica eAIXAM eCity) + Aixam España",
     fuenteUrl: "https://www.auto-data.net/es/aixam-eaixam-ecity-5.1-kwh-8hp-vsd-46814",
   },
@@ -159,7 +159,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 76,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~6,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -236,7 +236,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 133,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -278,7 +278,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: ["El Sport se distingue del Pack por las llantas de aleación negras de 15 pulgadas, los paragolpes específicos y los embellecedores en negro brillante", "Tablet de 7 pulgadas que espeja el móvil vía Apple CarPlay o Android Auto, cuadro TFT de 3,5 pulgadas y cámara con radares para maniobrar marcha atrás", "Su bicilíndrico Kubota Z482 Euro 5+ prescinde de AdBlue y de filtro de partículas, una solución que la prensa de la marca presenta como única en este segmento", "Su depósito de unos 16 litros le permite enlazar entre 400 y 500 kilómetros entre repostajes, según la propia Aixam, sin depender de ningún enchufe", "La gama City de 2025, dentro de la familia Ambition, estrena frontal con faros Full LED y el color Azul Colvert metalizado sobre una carrocería de solo 2.762 mm"],
-    contras: ["Pagar 16.699 € por este Sport supone 1.900 € más que un City Pack diésel con el idéntico Kubota de 8 CV y el mismo límite legal de velocidad", "Por esos mismos 16.699 € la casa vende el e-City Sport eléctrico, con etiqueta Cero, mientras este diésel se queda con la C y con el ruido propio de un bicilíndrico", "El apellido Sport no trae el chasis sport ni las llantas diamantadas de 16 pulgadas: ese hardware queda reservado al City GTO de la misma gama", "Homologado como cuadriciclo ligero L6e, su techo de 45 km/h lo deja para ciudad y trayectos cortos por vías convencionales, no para desplazamientos largos", "Su calendario oficial marca la primera revisión al año o a los 1.000 kilómetros, un primer paso por taller mucho más temprano que en un turismo diésel convencional"],
+    contras: ["Pagar 16.699 € por este Sport supone 1.900 € más que un City Pack diésel con el idéntico Kubota de 8 CV y el mismo límite legal de velocidad", "Por esos mismos 16.699 € la casa vende el e-City Sport eléctrico, con etiqueta Cero, mientras este diésel se queda con la C y con el ruido propio de un bicilíndrico", "El apellido Sport no trae el chasis sport ni las llantas diamantadas de 16 pulgadas: ese hardware queda reservado al City GTO de la misma gama", "Homologado como cuadriciclo ligero L6e, su techo de 45 km/h lo deja para ciudad y trayectos cortos por vías convencionales, no para desplazamientos largos", "Su calendario oficial marca la primera revisión al año, según la fuente, o a los 1.000 kilómetros, un primer paso por taller mucho más temprano que en un turismo diésel convencional"],
     largoMm: 2762,
     anchoMm: 1500,
     altoMm: null,
@@ -309,7 +309,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       
     ],
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Aixam España, aixam-mega.com: páginas oficiales «Mantenimiento de un AIXAM: ¿qué tener en cuenta?» y «Mantenimiento AIXAM: calendario completo y costes reales por modelo». Sin precio cerrado de revisión publicado por la marca, por eso los costes quedan sin dato", "intervalo": "Primera revisión al año o a los 1.000 km; siguientes hitos a los 5.000 y a los 10.000 km, con cadencia al menos anual, según Aixam", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión / 1 año o 1.000 km", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles con reposición de los que lo necesiten y control de neumáticos, frenos, amortiguadores, soportes, instalación eléctrica y lunas, según la guía oficial de mantenimiento de Aixam"}, {"costeAproxEur": null, "nombre": "Revisión de los 5.000 km", "queSeCambia": "Repite los controles de la primera visita y suma la comprobación de batería, fuelles, articulaciones y transmisión, los elementos añadidos que Aixam detalla para este hito kilométrico"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km y siguientes", "queSeCambia": "Inspección en profundidad del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración, tal como describe Aixam a partir de este kilometraje"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Aixam España, aixam-mega.com: páginas oficiales «Mantenimiento de un AIXAM: ¿qué tener en cuenta?» y «Mantenimiento AIXAM: calendario completo y costes reales por modelo». Sin precio cerrado de revisión publicado por la marca, por eso los costes quedan sin dato", "intervalo": "Los 1.000 km, o a, al año, Primera revisión; siguientes hitos a los 5.000 y a los 10.000 km, con cadencia al menos anual, según Aixam", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión / 1 año o 1.000 km", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles con reposición de los que lo necesiten y control de neumáticos, frenos, amortiguadores, soportes, instalación eléctrica y lunas, según la guía oficial de mantenimiento de Aixam"}, {"costeAproxEur": null, "nombre": "Revisión de los 5.000 km", "queSeCambia": "Repite los controles de la primera visita y suma la comprobación de batería, fuelles, articulaciones y transmisión, los elementos añadidos que Aixam detalla para este hito kilométrico"}, {"costeAproxEur": null, "nombre": "Revisión de los 10.000 km y siguientes", "queSeCambia": "Inspección en profundidad del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración, tal como describe Aixam a partir de este kilometraje"}]},
   },
   {
     id: "aixam-city-gto-2025-precio-ficha-tecnica",
@@ -357,7 +357,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 137,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -375,7 +375,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Primera revisión al año o a los 1.000 km; siguientes a los 5.000 km y a los 10.000 km, y al menos una revisión anual o cada 5.000-10.000 km según la guía oficial de Aixam España", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y sustitución de los que sean necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Mismos controles que en la primera revisión y, además, comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km y sucesivas", "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración; revisión de niveles (aceite, líquido de frenos y refrigerante), frenos, estado y presión de neumáticos, luces y batería"}]},
+    planMantenimiento: {"intervalo": "Los 1.000 km, o a, al año, Primera revisión; siguientes a los 5.000 km y a los 10.000 km, y al menos una revisión anual o cada 5.000-10.000 km según la guía oficial de Aixam España", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y sustitución de los que sean necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Mismos controles que en la primera revisión y, además, comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km y sucesivas", "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración; revisión de niveles (aceite, líquido de frenos y refrigerante), frenos, estado y presión de neumáticos, luces y batería"}]},
   },
   {
     id: "aixam-city-eclipse-2025-precio-ficha-tecnica",
@@ -435,7 +435,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 134,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -508,7 +508,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       
     ],
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin estrellas que asignar a este Coupé Sport: figura como cuadriciclo ligero L6e y Euro NCAP no lo ha sometido a su programa de turismos, así que cualquier puntuación sería inventada", "url": null},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Aixam España (aixam-mega.com): artículos oficiales sobre el mantenimiento de un AIXAM y su calendario de revisiones", "intervalo": "Primera revisión al año o a los 1.000 km; después, control anual con pasos señalados a los 5.000 y a los 10.000 km, según el calendario que Aixam España publica para sus coches sin carnet", "revisiones": [{"costeAproxEur": null, "nombre": "Primera visita del Coupé Sport, al año o a los 1.000 km", "queSeCambia": "Cambio de aceites y de filtro, ajuste de los niveles que lo necesiten y repaso de neumáticos, frenos, amortiguadores, soportes, parte eléctrica y lunas"}, {"costeAproxEur": null, "nombre": "Control de los 5.000 km", "queSeCambia": "Se repiten las comprobaciones de la primera visita y se añaden batería, fuelles, articulaciones y transmisión de este diésel"}, {"costeAproxEur": null, "nombre": "Revisión profunda de los 10.000 km", "queSeCambia": "Inspección a fondo del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Aixam España (aixam-mega.com): artículos oficiales sobre el mantenimiento de un AIXAM y su calendario de revisiones", "intervalo": "Los 1.000 km, o a, al año, Primera revisión; después, control anual con pasos señalados a los 5.000 y a los 10.000 km, según el calendario que Aixam España publica para sus coches sin carnet", "revisiones": [{"costeAproxEur": null, "nombre": "Primera visita del Coupé Sport, al año o a, como se indica, los 1.000 km", "queSeCambia": "Cambio de aceites y de filtro, ajuste de los niveles que lo necesiten y repaso de neumáticos, frenos, amortiguadores, soportes, parte eléctrica y lunas"}, {"costeAproxEur": null, "nombre": "Control de los 5.000 km", "queSeCambia": "Se repiten las comprobaciones de la primera visita y se añaden batería, fuelles, articulaciones y transmisión de este diésel"}, {"costeAproxEur": null, "nombre": "Revisión profunda de los 10.000 km", "queSeCambia": "Inspección a fondo del conjunto, con renovación del aceite y limpieza de las aletas del radiador de refrigeración"}]},
   },
   {
     id: "aixam-coupe-gti-2025-precio-ficha-tecnica",
@@ -556,7 +556,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -623,7 +623,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     bateriaKwh: 7.89,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Con el permiso AM puedes ponerte a sus mandos sin esperar al carnet B, porque está homologado como cuadriciclo ligero L6e", "Declara 130 km por carga y se alimenta en un enchufe de casa, sin depender de cargadores públicos para el uso diario; su batería suma 7,89 kWh", "Anuncia 1.000 litros de maletero en una carrocería coupé de apenas 3,00 metros de largo y 425 kg, muy manejable entre calles estrechas", "La etiqueta Cero de la DGT le abre el centro urbano y las zonas de bajas emisiones que vetan a los sin carnet de combustión", "Frente a un Citroën Ami básico o a un Microcar de acceso, juega la carta del coupé bien equipado y con imagen deportiva GTI"],
+    pros: ["Con el permiso AM puedes ponerte a sus mandos sin esperar al carnet B, porque está homologado como cuadriciclo ligero L6e", "Declara 130 km por carga y se alimenta en un enchufe de casa, sin depender de cargadores públicos para el uso diario; su batería suma 7,89 kWh", "Anuncia 1.000 litros de maletero en una carrocería coupé de apenas 3,00 metros de largo y 425 kg, muy manejable entre calles estrechas", "Le abre, de la DGT, La etiqueta Cero el centro urbano y las zonas de bajas emisiones que vetan a los sin carnet de combustión", "Frente a un Citroën Ami básico o a un Microcar de acceso, juega la carta del coupé bien equipado y con imagen deportiva GTI"],
     contras: ["Cuesta 19.699 €, un importe difícil de justificar si solo buscas transporte básico sin carnet; Ligier y Microcar ofrecen alternativas más sencillas", "Por su homologación L6e va capado a 45 km/h, así que queda fuera de autovías y vías rápidas: su terreno natural es la ciudad", "Sus 8 CV y 40 Nm mueven el conjunto en llano urbano, pero se quedan justos con dos ocupantes a bordo y pendientes pronunciadas", "Únicamente viajan dos personas, por lo que no sirve como único vehículo familiar ni para llevar a un tercer pasajero ocasional", "Carece de carga rápida en continua, de modo que recuperar energía fuera de casa exige una toma convencional y bastante paciencia"],
     largoMm: 3000,
     anchoMm: 1500,
@@ -647,7 +647,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 83,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 y seguro ampliado. Cifras estimadas, kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -725,7 +725,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 135,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -790,7 +790,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 138,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -808,7 +808,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Primera revisión al año o a los 1.000 km; después, revisiones periódicas al menos una vez al año o entre 5.000 y 10.000 km según uso", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año / 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición y reposición de niveles si hace falta, y control de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Mismos controles que en la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km", "queSeCambia": "Revisión en profundidad del estado general del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración"}]},
+    planMantenimiento: {"intervalo": "Los 1.000 km, o a, al año, Primera revisión; después, revisiones periódicas al menos una vez al año o entre 5.000 y 10.000 km según uso", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año / 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición y reposición de niveles si hace falta, y control de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Mismos controles que en la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km", "queSeCambia": "Revisión en profundidad del estado general del vehículo, renovación del aceite y limpieza de las aletas del radiador de refrigeración"}]},
   },
   {
     id: "aixam-e-crossover-premium-2025-precio-ficha-tecnica",
@@ -856,7 +856,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 83,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (6,7 y seguro ampliado. Cifras estimadas, kWh/100 km.",
       estimado: true,
     },
     galeria: [
@@ -874,7 +874,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Revisión anual o cada 5.000-10.000 km; primera revisión al año o a los 1.000 km, según Aixam", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Comprobación de niveles, neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas; en la versión eléctrica desaparecen los cambios de aceite propios de un motor de combustión"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Repetición de los controles anteriores y revisión añadida de la batería de tracción, los fuelles, las articulaciones y la transmisión"}, {"costeAproxEur": null, "nombre": "Revisiones desde los 10.000 km", "queSeCambia": "Revisión en profundidad del vehículo, con control de la batería y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"}]},
+    planMantenimiento: {"intervalo": "Revisión anual o cada 5.000-10.000 km; los 1.000 km, o a, al año, primera revisión, según Aixam", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Comprobación de niveles, neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas; en la versión eléctrica desaparecen los cambios de aceite propios de un motor de combustión"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Repetición de los controles anteriores y revisión añadida de la batería de tracción, los fuelles, las articulaciones y la transmisión"}, {"costeAproxEur": null, "nombre": "Revisiones desde los 10.000 km", "queSeCambia": "Revisión en profundidad del vehículo, con control de la batería y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"}]},
   },
   {
     id: "aixam-e-scouty-evo-2025-precio-ficha-tecnica",
@@ -934,7 +934,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 76,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -999,7 +999,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 151,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (~3,5 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
+        "15.000 a 1,55 €/l (~3, km/año, gasóleo,5 l/100 km estimados) y seguro ampliado. Cifras estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1017,7 +1017,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Primera revisión al año o a los 1.000 km; después a los 5.000 km y a los 10.000 km, según el calendario oficial de Aixam-Mega", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y reposición de los necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Los mismos elementos de la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km", "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de la refrigeración"}]},
+    planMantenimiento: {"intervalo": "Los 1.000 km, o a, al año, Primera revisión; después a los 5.000 km y a los 10.000 km, según el calendario oficial de Aixam-Mega", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Cambio de aceites y de filtro, medición de niveles y reposición de los necesarios, revisión de neumáticos, frenos, amortiguadores, soportes, sistema eléctrico y lunas"}, {"costeAproxEur": null, "nombre": "Revisión a los 5.000 km", "queSeCambia": "Los mismos elementos de la primera revisión, añadiendo comprobación de batería, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisión a los 10.000 km", "queSeCambia": "Revisión en profundidad del estado del vehículo, renovación del aceite y limpieza de las aletas del radiador de la refrigeración"}]},
   },
   {
     id: "aixam-e-truck-furgon-van-2025-precio-ficha-tecnica",
@@ -1083,7 +1083,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"intervalo": "Primera revisión al año o a los 1.000 km; después, control a los 5.000 km y revisiones en profundidad desde los 10.000 km, con periodicidad al menos anual, según la guía de mantenimiento publicada por Aixam en España. En la versión eléctrica no hay cambios de aceite de motor.", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Inspección general adaptada a la versión eléctrica: comprobación del sistema eléctrico y de carga, niveles, neumáticos, frenos, amortiguadores, soportes y lunas; sin cambio de aceite de motor al carecer de propulsor de combustión"}, {"costeAproxEur": null, "nombre": "Revisión de los 5.000 km", "queSeCambia": "Repetición de los controles anteriores y revisión específica de batería de tracción, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisiones desde los 10.000 km", "queSeCambia": "Revisión en profundidad del conjunto, con control del rendimiento de la batería de tracción y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"}]},
+    planMantenimiento: {"intervalo": "Los 1.000 km, o a, al año, Primera revisión; después, control a los 5.000 km y revisiones en profundidad desde los 10.000 km, con periodicidad al menos anual, según la guía de mantenimiento publicada por Aixam en España. En la versión eléctrica no hay cambios de aceite de motor.", "revisiones": [{"costeAproxEur": null, "nombre": "Primera revisión (1 año o 1.000 km)", "queSeCambia": "Inspección general adaptada a la versión eléctrica: comprobación del sistema eléctrico y de carga, niveles, neumáticos, frenos, amortiguadores, soportes y lunas; sin cambio de aceite de motor al carecer de propulsor de combustión"}, {"costeAproxEur": null, "nombre": "Revisión de los 5.000 km", "queSeCambia": "Repetición de los controles anteriores y revisión específica de batería de tracción, fuelles, articulaciones y transmisión"}, {"costeAproxEur": null, "nombre": "Revisiones desde los 10.000 km", "queSeCambia": "Revisión en profundidad del conjunto, con control del rendimiento de la batería de tracción y del sistema de carga, además de frenos, suspensión, dirección y neumáticos"}]},
   },
   {
     id: "aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica",
@@ -1208,7 +1208,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 73,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1285,7 +1285,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1362,7 +1362,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 130,
       notas:
-        "15.000 km/año, gasóleo a 1,55 €/l (3,1 l/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/y seguro ampliado. Cifras estimadas, 3,1 l/100 km, a 1,55 €/l, año, gasóleo.",
       estimado: true,
     },
     galeria: [
@@ -1439,7 +1439,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 74,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [
@@ -1516,7 +1516,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 75,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,5 kWh/100 km) y seguro ampliado. Cifras estimadas.",
+        "15.000 km/año, 0,18 €/kWh (doméstica) (~7,y seguro ampliado. Cifras, 5 kWh/100 km estimadas.",
       estimado: true,
     },
     galeria: [

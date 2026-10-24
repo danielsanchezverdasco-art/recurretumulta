@@ -320,7 +320,7 @@ export const COCHES_EXP21: CocheComparador[] = [
       costeMensualTotal: 399,
       precioKwh: 0.24,
       precioGasolinaL: 1.65,
-      notas: "15.000 km/año cargando a diario (0,24 €/kWh) y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos.",
+      notas: "15.000 km/año cargando a diario (0,24 €/a 1,65 €/l. Seguro, kWh) y gasolina, mantenimiento e impuesto orientativos.",
       estimado: true,
     },
   },

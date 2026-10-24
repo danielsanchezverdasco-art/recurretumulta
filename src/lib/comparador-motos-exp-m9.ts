@@ -268,7 +268,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     pros: [
       "15 CV al límite legal del A1, con motor DOHC de 4 válvulas y refrigeración líquida",
       "Pantalla TFT de 5\\\" con navegación por Google Maps: tecnología de moto grande",
-      "Control de tracción y ABS de doble canal de serie en una 125",
+      "De doble canal, y ABS, Control de tracción de serie en una 125",
       "Horquilla invertida de 37 mm y freno delantero de 292 mm con pinza radial",
       "3.895 € (con promociones de 3.395 €): rompe el mercado de las 125",
     ],
@@ -714,7 +714,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: ["Bicilíndrico de 494 cc pensado solo para Voge, con 47,6 CV justo en el techo del A2 y un par de 44,5 Nm que empuja sin obligarte a ir siempre arriba de vueltas", "Pantalla TFT de 7 pulgadas con brillo automático, Bluetooth para gestionar llamadas y aviso específico si un neumático pierde presión de golpe, algo rarísimo en una neo-retro de este precio", "Rueda delantera de 19 pulgadas con llanta de radios cruzados y neumáticos de dibujo mixto: mantiene el aire scrambler sin renunciar a una pista sencilla cuando se acaba el asfalto", "Depósito de 19 litros heredado de la 500 AC: con esa capacidad no tienes que planificar cada salida larga alrededor de la siguiente gasolinera", "Cinco años de garantía de serie en España, un respaldo poco habitual en una A2 cuyo precio en la ficha figura como aproximado, desde 6.317 euros"],
-    contras: ["198 kg en orden de marcha son muchos para una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha", "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta", "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia", "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera"],
+    contras: ["198 para, son muchos, de marcha, kg en orden una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha", "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta", "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia", "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera"],
     curiosidades: ["Las siglas AC significan Advanced Classic: es la etiqueta que Voge reserva a sus neo-retro que mezclan formas de inspiración clásica con tecnología actual", "Aunque Voge es la marca premium de Loncin, este motor de 494 cc no se cede a otras marcas: según la propia presentación, nació en exclusiva para la plataforma 525"],
     imagen: "/media/motos/voge-525acx-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1296,7 +1296,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1367,7 +1367,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1461,7 +1461,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1532,7 +1532,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1603,7 +1603,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1675,7 +1675,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1746,7 +1746,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1817,7 +1817,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1888,7 +1888,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -2706,7 +2706,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "15 CV, el máximo legal para el A1",
       "Solo 108 kg, la más ligera de su clase",
       "TFT de 5 pulgadas con mirroring y navegación",
-      "Control de tracción y ABS de doble canal",
+      "De doble canal, y ABS, Control de tracción",
       "Hueco para dos cascos integrales",
     ],
     contras: [

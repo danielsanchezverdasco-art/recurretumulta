@@ -94,7 +94,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo, año, diésel 5,6 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -134,7 +134,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Servicio mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión del módulo camper",
+          queSeCambia: "Aceite + del, de frenos + revisión, todos los filtros + líquido módulo camper",
           costeAproxEur: 450,
         },
       ],
@@ -202,7 +202,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 332,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
+        "15.000 km/año, diésel a de 9,5 l/100, 1,55 €/l, consumo estimado km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -310,7 +310,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 302,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8,5 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 8,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -350,7 +350,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Revisión mayor / 80.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión del techo elevable",
+          queSeCambia: "Aceite + del, de frenos + revisión, todos los filtros + líquido techo elevable",
           costeAproxEur: 420,
         },
       ],
@@ -418,7 +418,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -463,7 +463,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 380,
-      fuente: "Mercedes-Benz Service Care (red oficial Mercedes-Benz)",
+      fuente: "Red oficial Mercedes-Benz, Mercedes-Benz Service Care)",
     },
   },
   {
@@ -526,7 +526,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 281,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -571,7 +571,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 365,
-      fuente: "Mercedes-Benz Service Care (red oficial Mercedes-Benz)",
+      fuente: "Red oficial Mercedes-Benz, Mercedes-Benz Service Care)",
     },
   },
   {
@@ -634,7 +634,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 219,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo, año, diésel 5,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -679,7 +679,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 280,
-      fuente: "Mercedes-Benz Service Care (red oficial Mercedes-Benz)",
+      fuente: "Red oficial Mercedes-Benz, Mercedes-Benz Service Care)",
     },
   },
   {
@@ -742,7 +742,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 321,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -787,7 +787,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: 390,
-      fuente: "Mercedes-Benz Service Care (red oficial Mercedes-Benz)",
+      fuente: "Red oficial Mercedes-Benz, Mercedes-Benz Service Care)",
     },
   },
   {
@@ -848,7 +848,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 319,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -956,7 +956,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 323,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo. Precio orientativo con IVA.",
+        "15.000 km/año, diésel a de 9,5 l/100, 1,55 €/l, consumo estimado km y todo riesgo. Precio orientativo con IVA.",
       estimado: true,
     },
     galeria: [
@@ -996,7 +996,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Revisión mayor / 80.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión del cambio Hi-Matic",
+          queSeCambia: "Aceite + del, de frenos + revisión, todos los filtros + líquido cambio Hi-Matic",
           costeAproxEur: 450,
         },
       ],
@@ -1168,7 +1168,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 270,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo, año, diésel 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1274,7 +1274,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 259,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 7 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo, año, diésel 7 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1380,7 +1380,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 267,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1420,7 +1420,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Revisión mayor / 60.000 km",
-          queSeCambia: "Aceite + todos los filtros + líquido de frenos + revisión del techo elevable",
+          queSeCambia: "Aceite + del, de frenos + revisión, todos los filtros + líquido techo elevable",
           costeAproxEur: 420,
         },
       ],
@@ -1490,7 +1490,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 364,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 10 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo.",
       estimado: true,
     },
     galeria: [
@@ -1521,7 +1521,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -1530,7 +1530,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 180,
         },
       ],
@@ -1596,7 +1596,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 520,
       costeMensualTotal: 347,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9,5 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo.",
       estimado: true,
     },
     galeria: [
@@ -1627,7 +1627,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -1636,7 +1636,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 180,
         },
       ],
@@ -1702,7 +1702,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 314,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo.",
       estimado: true,
     },
     galeria: [
@@ -1733,7 +1733,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Menfys no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -1742,7 +1742,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 170,
         },
       ],
@@ -1870,7 +1870,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 340,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9,5 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo.",
       estimado: true,
     },
     galeria: [
@@ -1901,7 +1901,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: las autocaravanas no se someten al programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -1910,7 +1910,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 170,
         },
       ],
@@ -1976,7 +1976,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo.",
       estimado: true,
     },
     galeria: [
@@ -2007,7 +2007,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Summit 600 no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -2016,7 +2016,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 170,
         },
       ],
@@ -2082,7 +2082,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
+        "15.000 km/de, a 1,55 €/l, consumo estimado, año, diésel 9 de estanqueidad, riesgo e incluye prueba anual, l/100 km, todo. Precio orientativo.",
       estimado: true,
     },
     galeria: [
@@ -2113,7 +2113,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: la Vantana no ha sido probada de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km (mecánica) + prueba anual de estanqueidad",
+      intervalo: "de estanqueidad, o 30.000 km (mecánica) + prueba anual, 12 meses",
       revisiones: [
         {
           nombre: "Revisión mecánica anual / 30.000 km",
@@ -2122,7 +2122,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
         },
         {
           nombre: "Prueba anual de estanqueidad",
-          queSeCambia: "Control de humedades de la célula (exigida para la garantía)",
+          queSeCambia: "Para la garantía, de la célula (exigida, Control de humedades)",
           costeAproxEur: 170,
         },
       ],
@@ -2250,7 +2250,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 185,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo de 5,1 l/100 km y todo riesgo.",
+        "15.000 km/de, a 1,60 €/l, consumo, año, gasolina 5,1 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [

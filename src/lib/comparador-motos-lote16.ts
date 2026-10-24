@@ -3383,7 +3383,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3397,7 +3397,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {
@@ -3457,7 +3457,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3471,7 +3471,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {
@@ -3536,7 +3536,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3550,7 +3550,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {
@@ -3615,7 +3615,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3629,7 +3629,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {
@@ -3694,7 +3694,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3708,7 +3708,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {
@@ -3773,7 +3773,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
+      intervalo: "y cada 8.000 km, 1.600 km (primera o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3787,7 +3787,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalo estándar Harley-Davidson según manual del propietario (1.000 mi primera / 5.000 mi)",
+      fuente: "Mi primera / 5.000 mi, del propietario (1.000, Intervalo estándar Harley-Davidson según manual)",
     },
   },
   {

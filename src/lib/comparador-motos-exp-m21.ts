@@ -72,7 +72,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motoplanete.es/ktm/11022/790-Duke-2025/contact.html",
     analisisSlug: "ktm-790-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
@@ -140,7 +140,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/990-duke",
     analisisSlug: "ktm-990-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
@@ -208,7 +208,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/1390-super-duke-r",
     analisisSlug: "ktm-1390-super-duke-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena 525 X-Ring con limpiador específico para cadenas con retenes.",
@@ -276,7 +276,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-390-adventure-x-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+      intervaloMantenimiento: "Primera después cada 10.000 km, a los 1.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
@@ -284,7 +284,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
         "Tensión según el manual del propietario.",
       ],
       trucos: [
-        "El filtro de aire se cambia cada 10.000 km; el reglaje de válvulas, cada 20.000 km.",
+        "Se cambia cada 10.000 km, de aire, El filtro; el reglaje de válvulas, cada 20.000 km.",
         "Tras el off-road, limpia la cadena a fondo: el polvo la desgasta el doble.",
       ],
     },
@@ -344,7 +344,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ktm/790-adventure",
     analisisSlug: "ktm-790-adventure-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena tras cada salida de tierra con agua a presión moderada.",
@@ -412,7 +412,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm/1390-super-adventure-r",
     analisisSlug: "ktm-1390-super-adventure-r-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena tras cada salida de tierra con agua a presión moderada.",
@@ -480,7 +480,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.ktm.com/es-es/powerdeals/2026-Finance-Campaign.html",
     analisisSlug: "ktm-125-duke-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+      intervaloMantenimiento: "Primera después cada 10.000 km, a los 1.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
@@ -552,7 +552,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "Con 398 kg, la presión de los neumáticos es crítica: revísala cada dos semanas.",
         "El Big Bóxer lleva 4 l de aceite: respeta el nivel al milímetro.",
       ],
@@ -613,7 +613,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-990-duke-r-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Cada 15.000 km o 12 meses (primera a los 1.000 km)",
+      intervaloMantenimiento: "A, o 12 meses (primera, Cada 15.000 km los 1.000 km)",
       aceiteTipo: "10W-50 (Motorex Power Synt 4T)",
       cadenaPasos: [
         "Limpia la cadena con un limpiador específico para cadenas con retenes.",
@@ -681,7 +681,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: "ktm-390-duke-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera a los 1.000 km; después cada 10.000 km o 12 meses",
+      intervaloMantenimiento: "Primera después cada 10.000 km, a los 1.000 km o 12 meses",
       aceiteTipo: "15W-50 (Motorex Formula 4T)",
       cadenaPasos: [
         "Limpia la cadena con un trapo seco y un limpiador específico para cadenas con retenes.",
@@ -754,7 +754,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "El cardán sí necesita su aceite: se cambia según el plan de mantenimiento.",
         "Revisa el nivel de aceite del bóxer con la moto en vertical y el motor templado.",
       ],
@@ -819,7 +819,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "El control adaptativo de altura se calibra solo: no lo fuerces en parado.",
         "Con 30 l, reposta cada 500 km aunque el ordenador diga que queda más.",
       ],
@@ -1020,7 +1020,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "El bóxer de aire/aceite pide vigilar el nivel con frecuencia en verano.",
         "El reglaje de válvulas del bóxer es accesible: las culatas quedan a mano.",
       ],
@@ -1085,7 +1085,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "Con 345 kg, la presión de los neumáticos es crítica: revísala cada dos semanas.",
         "El Big Bóxer lleva 4 l de aceite: respeta el nivel al milímetro.",
       ],
@@ -1286,7 +1286,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
       aceiteTipo: "5W-40 (BMW Motorrad ADVANTEC Ultimate)",
       cadenaPasos: [],
       trucos: [
-        "Sin cadena: la transmisión por cardán no necesita engrase ni tensado.",
+        "Por cardán no necesita engrase ni tensado, la transmisión, Sin cadena.",
         "La limitación a 35 kW para el A2 la hace el concesionario con kit oficial.",
         "El asiento bajo y el manillar alto la hacen ideal para pilotos de poca estatura.",
       ],

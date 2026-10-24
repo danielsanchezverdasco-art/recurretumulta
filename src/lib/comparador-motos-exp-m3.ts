@@ -79,7 +79,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -117,7 +117,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       "El asiento del pasajero es testimonial",
       "Sin modos de conducción ni control de tracción",
       "Las vibraciones se notan en el manillar a alto régimen",
-      "La red de servicio es más pequeña que la de las marcas japonesas",
+      "Que la, es más pequeña, de servicio, La red de las marcas japonesas",
     ],
     curiosidades: [
       "Comparte la base mecánica con la 450SR y la 450MT",
@@ -151,7 +151,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -223,7 +223,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -276,7 +276,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -347,7 +347,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -415,7 +415,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.qjmotor.es",
     analisisSlug: "qjmotor-srk-800rr-2026-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o una vez al año (lo que llegue antes)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
       aceiteTipo: "Sintético SJ 10W-50 o SN 15W-50",
       cadenaPasos: [
         "Inspecciona, lubrica y ajusta la cadena cada 1.000 km",
@@ -423,7 +423,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         "Comprueba la holgura de la cadena entre los dos piñones y el estado de los dientes",
       ],
       trucos: [
-        "Verifica cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante",
+        "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       ],
     },
   },
@@ -490,7 +490,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.qjmotor.es",
     analisisSlug: "qjmotor-srk-800-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o una vez al año (lo que llegue antes)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
       aceiteTipo: "Sintético SJ 10W-50 o SN 15W-50",
       cadenaPasos: [
         "Inspecciona, lubrica y ajusta la cadena cada 1.000 km",
@@ -498,7 +498,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         "Comprueba la holgura de la cadena entre los dos piñones y el estado de los dientes",
       ],
       trucos: [
-        "Verifica cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante",
+        "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       ],
     },
   },
@@ -565,7 +565,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.qjmotor.es",
     analisisSlug: "qjmotor-srt-550-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o una vez al año (lo que llegue antes)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
       aceiteTipo: "Sintético SJ 10W-50 o SN 15W-50",
       cadenaPasos: [
         "Inspecciona, lubrica y ajusta la cadena cada 1.000 km",
@@ -573,7 +573,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         "Comprueba la holgura de la cadena entre los dos piñones y el estado de los dientes",
       ],
       trucos: [
-        "Verifica cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante",
+        "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       ],
     },
   },
@@ -640,7 +640,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.qjmotor.es",
     analisisSlug: "qjmotor-srv-300-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o una vez al año (lo que llegue antes)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
       aceiteTipo: "Sintético SJ 10W-50 o SN 15W-50; capacidad aprox. 1,5 l (1,3 l con cambio de filtro)",
       cadenaPasos: [
         "Inspecciona, lubrica y ajusta la cadena cada 1.000 km",
@@ -648,7 +648,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         "Comprueba la holgura de la cadena entre los dos piñones y el estado de los dientes",
       ],
       trucos: [
-        "Verifica cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante",
+        "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       ],
     },
   },
@@ -697,7 +697,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.qjmotor.es",
     analisisSlug: "qjmotor-srt-700-on-road-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Primera revisión a los 1.000 km; después cada 6.000 km o una vez al año (lo que llegue antes)",
+      intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
       aceiteTipo: "Sintético SJ 10W-50 o SN 15W-50",
       cadenaPasos: [
         "Inspecciona, lubrica y ajusta la cadena cada 1.000 km",
@@ -705,7 +705,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
         "Comprueba la holgura de la cadena entre los dos piñones y el estado de los dientes",
       ],
       trucos: [
-        "Verifica cada 1.000 km la presión de los neumáticos y los niveles de aceite y refrigerante",
+        "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       ],
     },
   },
@@ -970,7 +970,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Comprueba y limpia la cadena de transmisión cada 1.000 km",
         "Tensa y engrasa la cadena según el programa del manual",
-        "Revisa el desgaste de piñón y corona en cada revisión",
+        "Revisa en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1038,11 +1038,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es",
     analisisSlug: "voge-525dsx-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km); refrigerante cada 2 años",
+      intervaloMantenimiento: "Aceite y a los, 6.000 km (primera revisión, filtro de aceite cada 1.000 km); refrigerante cada 2 años",
       cadenaPasos: [
         "Revisa el engrase de la cadena en cada revisión y lubrícala si ruedas con lluvia",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1109,11 +1109,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es",
     analisisSlug: "voge-525acx-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km); refrigerante cada 2 años",
+      intervaloMantenimiento: "Aceite y a los, 6.000 km (primera revisión, filtro de aceite cada 1.000 km); refrigerante cada 2 años",
       cadenaPasos: [
         "Revisa el engrase de la cadena en cada revisión y lubrícala si ruedas con lluvia",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1185,7 +1185,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Revisa el engrase de la cadena en cada revisión",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1316,9 +1316,9 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-trk-702-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (revisiones a los 1.000, 7.000 y 13.000 km); refrigerante cada 2 años",
+      intervaloMantenimiento: "Aceite y refrigerante cada 2 años, y 13.000 km, a los 1.000, 7.000, 6.000 km (revisiones, filtro de aceite cada",
       cadenaPasos: [
-        "Controla la tensión de la cadena cada 500 km y después de cada lavado o uso con lluvia",
+        "Controla la con lluvia, o uso, de cada lavado, y después, la cadena cada 500 km, tensión de",
         "Limpia y lubrica la cadena; comprueba que la rueda trasera esté bien alineada",
         "Sustituye piñón, corona y retenes con cada cambio de cadena",
       ],
@@ -1369,9 +1369,9 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-trk-702x-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (revisiones a los 1.000, 7.000 y 13.000 km); refrigerante cada 2 años",
+      intervaloMantenimiento: "Aceite y refrigerante cada 2 años, y 13.000 km, a los 1.000, 7.000, 6.000 km (revisiones, filtro de aceite cada",
       cadenaPasos: [
-        "Controla la tensión de la cadena cada 500 km y después de cada lavado o uso con lluvia",
+        "Controla la con lluvia, o uso, de cada lavado, y después, la cadena cada 500 km, tensión de",
         "Limpia y lubrica la cadena; comprueba que la rueda trasera esté bien alineada",
         "Sustituye piñón, corona y retenes con cada cambio de cadena",
       ],
@@ -1422,10 +1422,10 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-trk-502-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (revisiones a los 1.000, 7.000 y 13.000 km); refrigerante cada 2 años o 13.000 km",
+      intervaloMantenimiento: "Aceite y refrigerante cada 2 años, y 13.000 km, a los 1.000, 7.000, 6.000 km (revisiones, filtro de aceite cada o 13.000 km",
       aceiteTipo: "Cambio de aceite: 2,9 l (3,0 l si se desmonta el filtro de aceite)",
       cadenaPasos: [
-        "Controla la tensión de la cadena cada 500 km y después de cada lavado o uso con lluvia",
+        "Controla la con lluvia, o uso, de cada lavado, y después, la cadena cada 500 km, tensión de",
         "Limpia y lubrica la cadena; comprueba que la rueda trasera esté bien alineada",
         "Sustituye piñón, corona y retenes con cada cambio de cadena",
       ],
@@ -1479,10 +1479,10 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-trk-502x-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (revisiones a los 1.000, 7.000 y 13.000 km); refrigerante cada 2 años o 13.000 km",
+      intervaloMantenimiento: "Aceite y refrigerante cada 2 años, y 13.000 km, a los 1.000, 7.000, 6.000 km (revisiones, filtro de aceite cada o 13.000 km",
       aceiteTipo: "Cambio de aceite: 2,9 l (3,0 l si se desmonta el filtro de aceite)",
       cadenaPasos: [
-        "Controla la tensión de la cadena cada 500 km y después de cada lavado o uso con lluvia",
+        "Controla la con lluvia, o uso, de cada lavado, y después, la cadena cada 500 km, tensión de",
         "Limpia y lubrica la cadena; comprueba que la rueda trasera esté bien alineada",
         "Sustituye piñón, corona y retenes con cada cambio de cadena",
       ],
@@ -1649,7 +1649,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Revisa la cadena, el piñón y la corona cada 1.000 km (inspección y engrase)",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1807,11 +1807,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.keeway.com",
     analisisSlug: "keeway-rkf-125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite de motor cada 4.000 km (primera revisión a los 1.000 km); líquido de frenos cada 2 años y latiguillos cada 4 años",
+      intervaloMantenimiento: "Aceite de motor cada 4.000 km (y latiguillos cada 4 años, de frenos cada 2 años, a los 1.000 km); líquido, primera revisión",
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1878,7 +1878,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.keeway.com",
     analisisSlug: "keeway-vieste-300-xdv-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite de motor cada 4.000 km (primera revisión a los 1.000 km); líquido de frenos cada 2 años y latiguillos cada 4 años",
+      intervaloMantenimiento: "Aceite de motor cada 4.000 km (y latiguillos cada 4 años, de frenos cada 2 años, a los 1.000 km); líquido, primera revisión",
       trucos: [
         "Correa de transmisión: sustitución cada 24.000 km según el manual",
       ],
@@ -1929,11 +1929,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.keeway.com",
     analisisSlug: "keeway-rkv-125c-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite de motor cada 4.000 km (primera revisión a los 1.000 km); líquido de frenos cada 2 años y latiguillos cada 4 años",
+      intervaloMantenimiento: "Aceite de motor cada 4.000 km (y latiguillos cada 4 años, de frenos cada 2 años, a los 1.000 km); líquido, primera revisión",
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -1982,11 +1982,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.keeway.com",
     analisisSlug: "keeway-k-light-125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite de motor cada 4.000 km (primera revisión a los 1.000 km); líquido de frenos cada 2 años y latiguillos cada 4 años",
+      intervaloMantenimiento: "Aceite de motor cada 4.000 km (y latiguillos cada 4 años, de frenos cada 2 años, a los 1.000 km); líquido, primera revisión",
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -2054,11 +2054,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.brixton-motorcycles.com",
     analisisSlug: "brixton-crossfire-500-x-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km; después, revisión al menos una vez al año)",
+      intervaloMantenimiento: "Aceite y filtro de aceite cada, en concreto, 6.000 km (primera al año, una vez, al menos, los 1.000 km; después, revisión, revisión a)",
       cadenaPasos: [
         "Controla, limpia y engrasa la cadena y el piñón en cada revisión",
         "Comprueba la tensión de la cadena y el estado de la corona",
-        "Cambia el líquido de frenos cada 2 años y los latiguillos cada 4 años",
+        "Cambia el y los latiguillos cada 4 años, líquido de frenos cada 2 años",
       ],
     },
   },
@@ -2107,11 +2107,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.brixton-motorcycles.com",
     analisisSlug: "brixton-cromwell-125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km; después, revisión al menos una vez al año)",
+      intervaloMantenimiento: "Aceite y filtro de aceite cada, según la fuente, 6.000 km (primera al año, una vez, al menos, los 1.000 km; después, revisión, revisión a)",
       cadenaPasos: [
         "Controla, limpia y engrasa la cadena y el piñón en cada revisión",
         "Comprueba la tensión de la cadena y el estado de la corona",
-        "Cambia el líquido de frenos cada 2 años y los latiguillos cada 4 años",
+        "Cambia el y los latiguillos cada 4 años, líquido de frenos cada 2 años",
       ],
     },
   },
@@ -2160,11 +2160,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.brixton-motorcycles.com",
     analisisSlug: "brixton-felsberg-125-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km; después, revisión al menos una vez al año)",
+      intervaloMantenimiento: "Aceite y filtro de aceite cada, en este caso, 6.000 km (primera al año, una vez, al menos, los 1.000 km; después, revisión, revisión a)",
       cadenaPasos: [
         "Controla, limpia y engrasa la cadena y el piñón en cada revisión",
         "Comprueba la tensión de la cadena y el estado de la corona",
-        "Cambia el líquido de frenos cada 2 años y los latiguillos cada 4 años",
+        "Cambia el y los latiguillos cada 4 años, líquido de frenos cada 2 años",
       ],
     },
   },
@@ -2213,11 +2213,11 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     fuenteUrl: "https://www.brixton-motorcycles.com",
     analisisSlug: "brixton-cromwell-250-2024-ficha-tecnica-precio",
     mantenimientoDIY: {
-      intervaloMantenimiento: "Aceite y filtro de aceite cada 6.000 km (primera revisión a los 1.000 km; después, revisión al menos una vez al año)",
+      intervaloMantenimiento: "Aceite y filtro de aceite cada, como se indica, 6.000 km (primera al año, una vez, al menos, los 1.000 km; después, revisión, revisión a)",
       cadenaPasos: [
         "Controla, limpia y engrasa la cadena y el piñón en cada revisión",
         "Comprueba la tensión de la cadena y el estado de la corona",
-        "Cambia el líquido de frenos cada 2 años y los latiguillos cada 4 años",
+        "Cambia el y los latiguillos cada 4 años, líquido de frenos cada 2 años",
       ],
     },
   },
@@ -2289,7 +2289,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Limpia la cadena con desengrasante específico y sécala bien antes de engrasar",
         "Engrasa la cadena con lubricante específico tras cada lavado o uso con lluvia",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -2595,7 +2595,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Lubrica la cadena cada 500 km",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },
@@ -2648,7 +2648,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
       cadenaPasos: [
         "Lubrica la cadena cada 500 km",
         "Limpia la cadena con desengrasante específico antes de engrasar",
-        "Comprueba la tensión y el desgaste de piñón y corona en cada revisión",
+        "Comprueba la tensión y en cada revisión, y corona, de piñón, el desgaste",
       ],
     },
   },

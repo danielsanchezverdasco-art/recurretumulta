@@ -478,7 +478,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
       "costeMensualTotal": 150,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "estimación proxy: el C01 EREV no se vende en España; uso mixto eléctrico/gasolina estimado; el coste real en China difiere",
+      "notas": "estimación proxy: el C01 EREV no se vende en España; el coste real, uso mixto eléctrico/gasolina estimado en China difiere",
       "estimado": true
     },
     galeria: [
