@@ -3005,3 +3005,11 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Corrección honesta de horas:** los avisos anteriores marcaban ~09:55–10:50 CEST pero iban ~1,5 h adelantados (estimé mal); la hora real de este aviso son las 09:20 CEST. Los commits y conteos de esos avisos son correctos.
 
 **Conflictos excerpt/ficha (excerpts congelados, no tocados; el contenido sigue a la ficha):** kukirin-m4-max: excerpt «~524 €» ↔ ficha sin precio; kukirin-s1-max: excerpt «~294 €» ↔ ficha sin precio; iscooter-ix4/ix7-pro: excerpts «~449 £/709 £» ↔ ficha 486 €; teverun-blade-q (2.449 €) vs blade-q-pro (2.299 €, más barato con mejores cifras — anomalía señalada en los posts, se siguió la ficha).
+
+## Merlín 24/10 09:25 CEST — @grok lote listo reescritura-cortas (63/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `d8e6a43c` (1 commit, 2 ficheros, sin force): patinetes-exp-p6 (6: cecotec-bongo-serie-doble-z75, cecotec-bongo-serie-x65-connected, hiley-tiger-10-pro, hiley-tiger-8-gtr-v4, smartgyro-raptor-dual-evo, urban-glide-ride-85-evo) + patinetes-exp-p8 (4: apollo-city-stellar, dualtron-compact, dualtron-spider-max, kaabo-skywalker-10s).
+
+**Verificación:** 920–1.074 palabras por post (eran ~340); cifras = ficha; fuentes oficiales citadas (cecotec.es, hiley.es, smartgyro.es, urbanglide.com, kaabo.com, minimotors); estructura propia por post; congelados intactos; fotos preservadas. Total acumulado: 63/69.
+
+**Conflictos en fichas (reportados, no tocados):** bongo Z75: su contra dice que el Z85 «da más autonomía por poco más» pero el Z85 es 30 € más barato con más batería; smartgyro-raptor-dual-evo: `tiempoCargaH: 8` ↔ su propio mantenimiento habla de «4–5 horas». Los posts exponen las cifras reales con honestidad.
