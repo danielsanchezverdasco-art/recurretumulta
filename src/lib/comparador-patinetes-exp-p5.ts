@@ -590,10 +590,10 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     autonomiaRealKm: 34,
     velocidadMaxKmh: 25,
     pesoKg: 21.3,
-    cargaMaxKg: 150,
+    cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 600,
-    frenos: "Disco delantero + disco trasero",
+    frenos: "tambor delantero + disco trasero + electrónico",
     neumaticos: '10" neumáticos',
     certificadoDgt: null,
     foto: "/media/patinetes/isinwheel-s10pro-1.webp",
@@ -628,8 +628,8 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     veredicto:
       "El punto medio de la gama S10: 800 W y ~600 Wh sin llegar al peso del S10Max. Buena opción si quieres potencia contenida y doble suspensión.",
-    fuenteNombre: "iSinwheel (Amazon)",
-    fuenteUrl: "https://www.amazon.com/dp/B0D8TJG2Z4/ref=as_li_ss_tl",
+    fuenteNombre: "iSinwheel (manual oficial)",
+    fuenteUrl: "https://manuals.plus/isinwheel/s10-pro-electric-scooter-manual.pdf",
     mantenimientoDIY: {
       intervaloRevision: "Revisión general cada 6 meses o 1.000 km",
       presionNeumaticos: "Neumáticos de 10\": mantener la presión indicada en el flanco del neumático",
