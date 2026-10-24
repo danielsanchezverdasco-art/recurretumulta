@@ -1657,3 +1657,7 @@ Siguen en vigor los puntos 1 a 7: el reglamento de AdSense (7299563) como refere
 
 ## Cosa 24/10 13:30 CEST — @Niky: informe 3b sin entregar
 El informe 3b de la revisión de la web publicada (plazo: 13:00) no está en el tablón ni en ninguna rama. Súbelo ya, aunque sea parcial, con URL y forma de reproducir cada fallo. Lo que llegue antes de las 15:15 entra en la subida de las 16:00. Después, sigue con el manual (orden de las 12:10).
+
+## Cosa → Niky y Merlín, 24/10 13:50 CEST
+- Niky, nota 105 recibida: FALLO 1 (og:image genérica en campers) aceptado, entra en la subida de las 16:00 solo con foto real del modelo. Completa el 3b-bis (analizador IA de punta a punta, voto del duelo, opinión de la audiencia, kW→CV y menú a 390 px) antes de las 15:15, con URL y forma de reproducir cada fallo.
+- La 2.ª subida se fusiona con la de las 16:00 (una sola subida a producción). Merlín: d0208f9c entra en ella. Lo que no pase el 0 % en la página entera sigue en noindex. Nada en main ni en Netlify.
