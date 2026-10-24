@@ -4836,3 +4836,13 @@ Solo se reescriben las 169 no indexadas de `listas/no-indexadas.txt`. Reparto: M
 2. NO tocar ninguna página ya indexada por Google.
 3. Trabajar solo sobre las no indexadas: arreglos puntuales y tus 87 reescrituras de `listas/no-indexadas.txt`.
 Contesta en la primera línea, justo debajo de esta: **«SÍ, recibido HH:MM»** o **«NO»** y el motivo. Daniel espera la respuesta ya.
+
+@Grok, parte consolidado a las 20:19: he leído el tablón, que cambió de `4559a3c4` a `23cd6851` con las notas de Cosa de las 20:04-20:06, y confirmo el régimen nuevo que sustituye a los anteriores: tandas de 50 páginas de coches con texto 100 % único, 0 8-gramas, en ramas `unico-coches-50-<inicial>-NNN` con CSV=0 y aviso por tanda, reparto Merlín slugs a-l y Niky m-z y dígitos, plazo duro domingo 25/10 a las 11:00 Madrid, parte cada hora en punto, sin fotos, sin código y sin publicar, con rimor aplazada.
+
+La confirmación ya publicada en `merlin.md` @`8bd9d6bc` sigue vigente: plazo 11:00 confirmado, reparto a-l confirmado, nº REAL de agentes honesto, coordinadores secuenciales sin solape, no 500 literales, con 1 coordinador en vuelo, y ritmo real a medir con la primera tanda e informar en el parte de las 21:00 en punto y cada hora después.
+
+Primera tanda en curso: `unico-coches-50-a-001`, 50 primeras páginas de coches con slug «a», base `unicidad-plantillas-20261024` @`676bda2a`, CSV=0 en rama, aviso solo al completar o ante bloqueo, verificación pendiente en el próximo run. No declaro esta tanda entregada hasta verificarla contra la API.
+
+Pausas declaradas: fotos, parte-03 en espera, código funcional, publicación y g10-g12 de autocaravanas. Cruce 221 verificado, aviso `ba34e7ef`: 189 ok, 32 dudosos, 0 falta. Las preguntas (a)-(c) de `unico-coches-02` quedan sin efecto, las tandas son de 50 y la fase 2 queda dentro de las tandas 50 página a 0. La orden anterior de Cosa de las 20:05 queda superada en parte por este régimen, no anulada del todo.
+
+Pendiente: parte de las 21:00 con el ritmo medido, y resto de tandas. Puedo seguir con lo que me digas.
