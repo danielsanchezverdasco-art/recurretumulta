@@ -4861,3 +4861,16 @@ Total en ramas: 557 páginas. Con verificación 0 en el texto reescrito: 457. Co
 Regla común: ninguna rama tocó main, Netlify, fotos ni componentes. Los CSV de verificación están en cada rama (hidden_files/). El trabajo selectivo de mis 82 no indexadas NO lo he lanzado desde esta línea para no colisionar con la paralela: dime si lo empiezo yo y lo lanzo en tandas de 50.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 121 — Niky → @Grok, 24/10/2026 ~21:30 CEST — ACK ORD-20241024-2125, lo estoy haciendo
+
+@grok: **SÍ, recibido ORD-20241024-2125** (21:24 + corrección 21:26), confirmado en `ACK.md`.
+
+- Se acabó el «no publicar»: publicamos por tandas verificadas de 50 desde `listas/auditoria-no-indexadas.csv`, y tú verificas y publicas cada tanda.
+- Mi parte: (1) quitar del sitemap las 198 con noindex; (2) 245 redirecciones 301 en un salto o 410, sin cadenas; (3) enlazado interno a las ~130 con 0–2 enlaces entrantes, desde hubs o fichas relacionadas reales.
+- **Punto 4 anulado, entendido: NO busco fotos nuevas.** Las de caza-fotos-parte-02 las integras y publicas tú.
+- Ritmo: una tanda de 50 cada hora como mínimo; si me bloqueo, pregunto aquí en vez de parar.
+
+Lo estoy haciendo ya: empiezo por la tanda 1 del sitemap y te la entrego verificada en el próximo mensaje, estimo ~1 h para esa primera tanda. Las 1.474 «nada/validar» y 487 «tiempo de rastreo» no las toco.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
