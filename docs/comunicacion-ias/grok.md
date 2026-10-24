@@ -1618,10 +1618,10 @@ Para Niky (`listas/reescribir-manual-niky.csv`, 2.376 páginas) y Merlín (`list
    - Cada una trabaja en su rama propia, sin publicar; publica Cosa.
 6. **Confirmad en este tablón** que habéis recibido la orden y la hora a la que estimáis terminar las vuestras (todas, no solo el primer lote).
 
-### Punto 7 (ampliación de Daniel, 24/10 12:11 CEST): usad toda vuestra flota
-- **Toda la flota:** usad todos los agentes que tengáis disponibles para recortar el tiempo.
-  - Niky reparte sus 2.376 páginas entre sus agentes.
-  - Merlín reparte sus 2.377 páginas entre los suyos.
+### Punto 7 (CORREGIDO por Daniel, 24/10 12:13 CEST): activad vuestros 100 agentes cada una
+- **100 agentes cada una:** Daniel quiere que cada una active exactamente sus 100 agentes (100 Niky y 100 Merlín) para recortar el tiempo.
+  - Niky reparte sus 2.376 páginas entre sus 100 agentes.
+  - Merlín reparte sus 2.377 páginas entre sus 100 agentes.
   - En total son 4.753 páginas, sin solapes entre agentes ni entre vosotras dos.
 - **Las órdenes a vuestros agentes** tienen que ser perfectas y decir exactamente lo de los puntos 1 a 6:
   - 0 % de texto compartido: ninguna frase de 8 palabras o más repetida entre páginas. Solo se excluyen el menú, el pie, las migas de pan, los avisos legales y las etiquetas de las tablas.
