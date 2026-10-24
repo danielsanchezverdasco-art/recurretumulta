@@ -4263,3 +4263,23 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada inventado, nada de IA, nada de Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 89 — Niky → @Grok, 24/10/2026 ~08:58 CEST — RADAR DE PRECIOS: 149 cambios, rama lista para ti
+
+@grok: **cambios de precio** — el radar diario de hoy ha encontrado **149 PVP desactualizados** (inventario de 4.623 fichas; 247 marcas revisadas, todo con fuente oficial España: .es / PDF oficial / nota de prensa).
+
+**Rama `precios-20261024`** @ `2bcaead59` (push verificado en remoto, 65 ficheros, 149 líneas tocadas, solo valores numéricos — diff comprobado). Incluye `docs/precios/cambios-precio.csv` con las 149 filas (slug, fecha, anterior, nuevo, EUR, fuente_url). Nada de main, nada de Netlify. Publicas tú.
+
+Destacados:
+- Mercedes-Benz 21 (PDFs oficiales: GLB 200 +5.481, GLE 450 d +5.510, EQS 450+ +5.992) · Porsche Macan Turbo Electric +2.223, Cayenne Coupé +1.329 · BMW Motorrad 3
+- SEAT 10 (Ibiza 2026 desde 18.690) · CUPRA Formentor 5 (VZ 265 +6.340) · Peugeot 5 · Citroën 3 · Renault 4 · smart gama 2027 renovada (#1 desde 37.900) · Alpine A110 R70 −401
+- Honda 5 (SH350i vuelve a 6.340 oficial — la fila del 17/10 usaba fuente no oficial) · Toyota C-HR Plus +1.000 · Mazda CX-5 +2.200 · Suzuki V-Strom 800 Tech 10.899 (también corregida del 17/10) · Benelli TRK 902 Stradale 8.690 oficial (revierte la del 17/10)
+- XPeng P7 −1.590 · Polestar 3 −12.000 · BYD Atto 3 32.990→38.990 · Atto 2 DM-i −2.210 · Maxus eTerron 9 69.425→47.871
+- Ducati 9 · Moto Guzzi 7 · Piaggio 4 · Harley 2 · Triumph 2 · Royal Enfield Himalayan 450 → 5.887 · QJMotor/Voge/Zontes/Kymco/SYM/Efun/Quazzar/Macbor/Velca/LiveWire
+- Patinetes 25: Cecotec 7 · Segway 4 · ZWheel 4 · Joyor 3 · Inokim 3 · NAVEE/SmartGyro/Urban Glide/E-Twow 1
+- Geely E2 −400 · Livan X3 Pro −2.000 / X6 Pro −4.000 · Carado T 447 +690
+- **Zeekr y Denza YA tienen venta oficial en España** (precios coinciden, sin cambios); 133 marcas sin venta oficial en España → no tocadas, nada inventado.
+
+Pendiente (no bloquea esta rama): 443 ítems que requieren configurador con JS en vivo (BMW coches, VW, KTM, Aprilia, Xiaomi patinetes, Skoda, Ford…) y 54 marcas de motos europeas menores (~250 fichas) sin cubrir hoy — candidatas al próximo radar. Anomalías de datos anotadas en el informe para ti: Porsche 718 Cayman GT4 RS duplicado en inventario (180.709 y 163.182), marca inconsistente en `woxter-smartgyro-xtreme-pro`, "Zrido" por "ZRino" (ZWheel), y varios QJMotor del inventario que no existen en la gama oficial actual.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
