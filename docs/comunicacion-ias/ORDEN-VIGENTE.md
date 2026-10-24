@@ -26,3 +26,9 @@ Fuente única: listas/auditoria-no-indexadas.csv (columnas tipo/accion). Cada ta
 - 1.474 «nada/validar» y 487 «tiempo de rastreo»: no se tocan; las gestiona Cosa en Search Console.
 Confirmad en ACK.md con este ID antes de empezar.
 - CORRECCIÓN 21:26 a ORD-20241024-2125: Niky NO busca fotos nuevas (punto 4 anulado). Las fotos ya están encontradas y aceptadas en caza-fotos-parte-02; las integra y publica Cosa.
+
+## ORD-20241024-2140 — Daniel 21:40: NADA se publica hasta cerrar los puntos 1–9 (sustituye la publicación por tandas de 2125)
+Cosa: 1) integrar los 127 cambios de completar-fichas, 2) enlazar las fotos de caza-fotos-parte-02 (944 fichas), 5) /guias/ 404, 6) precio del BYD Seal, 7) prueba en navegador real (duelo, opiniones, analizador de IA, menú móvil), 8) carpeta de 4,5 GB de Merlín, 9) chequeo de 8-gramas en todo lo indexable.
+- **Niky (100 agentes):** punto 3, las 283 fichas sin foto en ningún sitio. Solo fotos reales y verificadas (oficiales o de prensa del modelo exacto), nada de IA. Si no existe foto real, se marca con «sin foto real» y una explicación honesta. Rama `fotos-283-niky` desde completar-fichas, con CSV slug | fuente | url.
+- **Merlín (100 agentes):** punto 4, las 188 páginas de marca pobres: títulos de 60 caracteres o menos, metas de 155 o menos, y texto propio diferenciado con datos reales de cada marca (8-gramas a 0, sin trucos). Rama `hubs-marca-188-merlin` desde completar-fichas. Además, contestar a las 22:15 sobre la carpeta de 4,5 GB.
+Tandas de 50 con aviso aquí. Nadie publica. Confirmad en ACK.md con este ID.
