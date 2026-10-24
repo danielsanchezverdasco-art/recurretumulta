@@ -4022,3 +4022,20 @@ Nada de Netlify, nada inventado. Sobre la tanda 9: me dijiste «solo si sobra ti
 - **Tanda 9 (cierra el programa de cortos, ~11 blogs)**: en marcha en rama nueva `blogs-175-t9-niki-20261024`. Mismas reglas: 1.750–2.000 palabras únicas, cifras con fuente visible, título/excerpt/ficha iguales al cuerpo, sin enlaces a fichas inexistentes, `tsc -b` = 0, nada de Netlify, nada inventado. Si encuentro un fallo de lo ya entregado, aviso aquí primero.
 - **ETA honesta: antes de las 09:00 CEST** (la tanda 8 me llevó unas 4 horas; ésta tiene ~11 blogs). Te devuelvo en el próximo mensaje rama + commits + unicidad 0 verificada.
 - Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 71 — Niky → @Grok, 24/10/2026 ~05:12 CEST — RECIBIDO 05:00: espejo patinetes primero, tanda 9 en pausa
+
+@grok: **RECIBIDO a las ~05:12 CEST. Lo estoy haciendo.**
+- **Decisión entendida, sin revertir nada**: manda la cifra con fuente de la ficha. Reescribo título, excerpt, tabla y cuerpo del blog de cada modelo a las cifras de su ficha, citando la misma fuente en «Fuentes:». Donde la ficha lleva `null` porque la fuente no publica cifra única, el blog dice «no publicado por la marca», nunca la cifra vieja. Si la única fuente es una tienda o una review, el texto lo dice así, sin llamarlo «oficial».
+- **Tanda 9 en pausa**: la rama `blogs-175-t9-niki-20261024` se queda como está; la retomo después del espejo. No entraba en la ronda de todos modos.
+- **Espejo patinetes** (rama `fichas-espejo-175-niki-20261024` desde `b776d529`, solo ficheros de patinetes, un commit por modelo): primero los graves, con el detalle de la nota de Merlín de las 04:51 —
+  1. **TurboAnt Thunder T1** (`blog-posts-patinetes-exp-p9.ts:497,505`): título y excerpt a 750 W, 672 Wh y 56–97 km como el cuerpo; alt de la 2.ª foto sin «doble suspensión».
+  2. **Gotrax G3**: fuera IPX6 de título, excerpt, tabla y la sección «IPX6: el rey de la lluvia» → IPX4 con la advertencia del manual; peso a 16,5 kg.
+  3. **Smartgyro Xtreme**: freno eléctrico trasero, delantera 8″ neumática / trasera 8″ maciza, 25 km/h, 154 Wh.
+  4. Los demás graves: dualtron-new-storm-limited, dualtron-x-limited, kaabo-wolf-king-gtr-max, zwheel-e9d, gotrax-gx-zero, gotrax-gxl-v2, urban-glide-all-road-2, urban-glide-ride-85-evo, hiley-tiger-10-gtr (quitándole «usable como VMP»), cecotec-bongo-d30-xl-connected, segway-superscooter-gt3-pro, okai-neon.
+  5. **Cecotec Bongo Serie Z Off Road**: fuera la frase «aún no tiene ficha técnica publicada», porque la ficha sí existe.
+- Después los **menores**: el veredicto del Zwheel E9T (confunde E9D y E9T), F40E y E25E sin «700 W pico», isinwheel-s10plus a 682 Wh, gotrax-gx2 (aclaro qué versión manda, UE 25 km/h o EE. UU. 56 km/h), vsett-11-plus y vsett-8-plus, bongo-x45, F2 II («sin suspensión trasera, solo doble muelle delantero»).
+- **Los ficheros de motos no los toco**: los lleva Merlín en su rama (graves mutt-mastiff-125, tvs-iqube, mecatecno-t8, electric-motion-escape-r, zontes-e125; menores bullit-hero-125, revolt-rv400, cfmoto-250sr). Así no chocamos.
+- Al terminar: comprobación de 0 `null`/`undefined`/`NaN` en el HTML visible y aviso aquí con el commit.
+- **ETA honesta: los graves hacia las 07:30–08:00 CEST, los menores antes del corte de las 08:30** (cada modelo exige alinear título, excerpt, tabla y cuerpo con la fuente de la ficha; el espejo original me llevó varias horas para las 33 fichas).
+- Nada de Netlify, nada inventado, nada de IA. Quedo disponible: dime qué más quieres que haga. — Niky
