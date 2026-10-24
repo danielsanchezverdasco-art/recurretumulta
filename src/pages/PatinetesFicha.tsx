@@ -163,38 +163,22 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const precioAprox = patinete.aprox.includes("precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
+  // (24/10 plantillas) FAQ solo con datos propios de la ficha; sin dato, sin pregunta.
   const FAQS = [
-    {
-      q: `¿Cuánto cuesta el ${nombre}?`,
-      a:
-        patinete.precioEur == null
-          ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
-          : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
-    },
-    // (24/10 unicidad) sin dato publicado no hay FAQ de autonomía
+    ...(patinete.precioEur == null
+      ? []
+      : [{ q: `¿Cuánto cuesta el ${nombre}?`, a: geo.faqPrecio ?? `${fmtPrecio(patinete.precioEur)}.` }]),
     ...(patinete.autonomiaRealKm == null
       ? []
       : [
           {
-        q: `¿Cuál es la autonomía real del ${nombre}?`,
-            a: `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
+            q: `¿Cuál es la autonomía real del ${nombre}?`,
+            a: `Declarada: ${fmtKm(patinete.autonomiaKm)}. Estimada en ciudad: ≈${patinete.autonomiaRealKm} km.`,
           },
         ]),
-    {
-      q: `¿El ${nombre} tiene certificado de la DGT?`,
-      a:
-        patinete.certificadoDgt === true
-          ? `Sí: según el fabricante, el ${nombre} cumple la normativa española vigente para VMP. Aun así, conserva el certificado y comprueba que el número de serie coincide con el de la documentación.`
-          : `No hemos podido verificar el certificado DGT del ${nombre} en una fuente oficial, así que aparece como «No verificado». Antes de comprar, pide al vendedor el certificado de circulación: sin él, el patinete no es legal en España.`,
-    },
-    {
-      q: `¿Necesito seguro para el ${nombre}?`,
-      a: `Desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para los VMP en España (Ley 5/2025). Además, desde el 30 de enero de 2026 los patinetes deben inscribirse en el Registro de Vehículos Personales Ligeros de la DGT. Tienes todos los detalles en nuestra guía de patinetes eléctricos.`,
-    },
-    {
-      q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
-      a: `En nuestro comparador de patinetes eléctricos, cara a cara con los otros 9 modelos de la base: precio, potencia, autonomía, peso y puntos fuertes y débiles.`,
-    },
+    ...(patinete.certificadoDgt === true
+      ? [{ q: `¿El ${nombre} tiene certificado de la DGT?`, a: `Sí.` }]
+      : []),
   ];
 
   const jsonLd = {
@@ -534,11 +518,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               })}
             </tbody>
           </table>
-          <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> estimación
-            «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
-            confirmarlo en una fuente oficial.
-          </p>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -601,9 +580,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             <h2 className="flex items-center gap-2 text-xl font-extrabold text-gray-900">
               <Wrench className="h-5 w-5 text-red-600" /> Mantenimiento en casa
             </h2>
-            <p className="mt-1 text-sm text-gray-600">
-              Guías paso a paso para el mantenimiento básico de tu {nombre}, sin pasar por el taller.
-            </p>
             {patinete.mantenimientoDIY.intervaloRevision && (
               <p className="mt-2 rounded-lg bg-red-50 border border-red-200 px-3 py-2 text-xs font-semibold text-red-800">
                 🗓️ Intervalo de revisión: {patinete.mantenimientoDIY.intervaloRevision}

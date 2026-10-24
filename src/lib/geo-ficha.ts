@@ -66,13 +66,13 @@ export function frasesGeo(d: DatosGeo): { frases: string[]; faqPrecio: string | 
       faq = `${sujeto} cuesta ${resto}`;
     } else if (d.precioOrigen?.pais && ok(d.precioOrigen.price)) {
       // 18/10/2026: tarifa oficial publicada solo para otro país (p. ej. Alemania): se cita tal cual.
-      const resto = `desde ${eur(d.precioOrigen.price)} en ${d.precioOrigen.pais} (tarifa oficial de la marca); aún no tiene precio oficial en España.`;
+      const resto = `desde ${eur(d.precioOrigen.price)} en ${d.precioOrigen.pais}.`;
       precioTxt = `Cuesta ${resto}`;
       faq = `${sujeto} cuesta ${resto}`;
     } else if (d.precioAprox) {
-      const resto = `en España es de aprox. ${eur(d.precio)}, una estimación porque la marca aún no lo ha publicado${verif}.`;
-      precioTxt = `Su precio de partida ${resto}`;
-      faq = `El precio de partida ${del} ${resto}`;
+      // (24/10 plantillas) solo el dato: cifra y que es estimación
+      precioTxt = `≈ ${eur(d.precio)} (estimación)${verif}.`;
+      faq = precioTxt;
     } else {
       precioTxt = `Cuesta desde ${eur(d.precio)} en España${verif}.`;
       faq = `${sujeto} cuesta desde ${eur(d.precio)} en España${verif}.`;

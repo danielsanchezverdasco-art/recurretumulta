@@ -412,7 +412,7 @@ export default function RadarPage() {
                 className="rounded-lg shadow"
               />
               <p className="text-xs text-slate-500 mt-2">
-                Ubicación aproximada según las coordenadas DGT (WGS84): {radar.lat}, {radar.lon}.
+                WGS84: {radar.lat}, {radar.lon}.
               </p>
             </section>
 
@@ -439,7 +439,7 @@ export default function RadarPage() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-blue-700 underline hover:text-blue-900"
                 >
-                  Abrir la vista 3D en Google Street View
+                  Street View {radar.lat}, {radar.lon}
                   <ExternalLink size={14} aria-hidden="true" />
                 </a>
               </p>
