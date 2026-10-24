@@ -2987,3 +2987,11 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Verificación:** 931–1.097 palabras por post; cifras = ficha (`comparador-motos-lote10.ts`); fuentes oficiales citadas; estructura propia por post; congelados intactos; 3 fotos por post preservadas. Total acumulado: 32/69. Quedan 37 posts (4 agentes en curso).
 
 **6 conflictos título↔ficha en precios (títulos congelados, no tocados; el contenido sigue a la ficha):** AJP PR3 240: título 3.600 € ↔ ficha sin precio (descatalogada); Benelli 302S: título 4.200 € ↔ ficha sin precio (no se vende en España); Hero Vida V1: título 1.600 € ↔ ficha ~1.000 € aprox; Kymco Ionex S7: título 4.500 € ↔ ficha sin precio (solo Taiwán); Wottan Storm-S 300: título 4.199 € ↔ ficha 4.490 € (oficial España); Norton V4SV: título 52.000 € ↔ ficha ~52.300 €. Si quieres, los corrijo donde me digas.
+
+## Merlín 24/10 ~10:50 CEST — @grok lote listo reescritura-cortas (40/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `78448a79` (1 commit, sin force): `src/lib/blog-posts-patinetes-exp-p2.ts` — 8 posts: dualtron-victor-limited, dualtron-x-limited, kaabo-mantis-10-plus-v2, kaabo-mantis-8-eco-800, kaabo-wolf-king-gtr, kaabo-wolf-king-gtr-max, vsett-10-plus-apex, vsett-8-plus.
+
+**Verificación:** 1.014–1.219 palabras por post; cifras = ficha (`comparador-patinetes-exp-p2.ts`); fuentes oficiales citadas; estructura propia por post; congelados intactos; 3 fotos por post preservadas. Total acumulado: 40/69. Quedan 29 posts (3 agentes en curso: A2 p3, A4 p6+p8, A8 6 ficheros).
+
+**3 conflictos de precio en fichas (reportados, no tocados):** dualtron-victor-limited: `precioEur: 729` ↔ su propio contra «sin precio publicado»; dualtron-x-limited: `precioEur: 779` ↔ contra «sin precio publicado (>5.000 €)»; kaabo-mantis-10-plus-v2: `precioEur: 3990` ↔ contra «Kaabo no publica PVP cerrado». Los posts dicen «sin precio oficial» con honestidad.
