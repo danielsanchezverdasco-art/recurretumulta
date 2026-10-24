@@ -617,7 +617,7 @@ function BlogPostPage() {
       <ReadingProgress />
       <SharedNavbar />
 
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero con imagen de fondo y animación de entrada */}
         <div className="relative overflow-hidden">
           {heroSrc ? (
@@ -920,7 +920,7 @@ function BlogPostPage() {
           {/* Footer */}
           <SharedFooter editorial={false} />
         </div>
-      </div>
+      </main>
     </div>
   );
 }

@@ -414,16 +414,16 @@ const COCHES_LOTE1_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + filtro de polen + líquido de frenos + diagnóstico de batería",
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "iCaur no publica un plan de mantenimiento oficial para el V25; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      fuente: "iCaur: sin plan de mantenimiento publicado para el V25",
     },
   },
 ];
@@ -620,16 +620,16 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: prototipo de bajo volumen, no probado.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + filtro de polen + líquido de frenos + diagnóstico de batería",
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Caterham no publica un plan de mantenimiento oficial para el Project V; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      fuente: "Caterham: sin plan de mantenimiento publicado para el Project V",
     },
   },
   {
@@ -811,16 +811,16 @@ const COCHES_LOTE1_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo anunciado para 2028, aún no existe.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + filtro de polen + líquido de frenos + diagnóstico de batería",
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Polestar no publica un plan de mantenimiento oficial para el 7; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      fuente: "Polestar: sin plan de mantenimiento publicado para el 7",
     },
   },
 ];
@@ -1163,7 +1163,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
       "Híbrido no enchufable: etiqueta ECO, no Cero",
       "No se vende oficialmente en Europa",
       "Batería de solo 2,1 kWh: el modo eléctrico es testimonial",
-      "Marca en construcción fuera de Asia y Latinoamérica",
+      "Marca en despliegue fuera de Asia y Latinoamérica",
       "El 2.0 Atkinson pide vueltas si se le exige",
     ],
     largoMm: 4680,

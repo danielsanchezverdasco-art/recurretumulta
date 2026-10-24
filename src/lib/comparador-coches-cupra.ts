@@ -663,7 +663,7 @@ export const COCHES_CUPRA: CocheComparador[] = [
     "contras": [
       "Precio sin confirmar en tarifa oficial",
       "La batería resta maletero frente a los 620 L del ST térmico",
-      "Sin carga rápida en continua",
+      "Carga rápida en continua limitada a 50 kW",
       "Peso extra del sistema híbrido",
       "Solo tiene sentido si cargas a diario"
     ],

@@ -332,7 +332,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     modelo: "Jazz e:HEV",
     tipo: "Híbrido",
     categoria: "Urbano",
-    precioDesde: 26000,
+    precioDesde: 26400,
     potenciaCv: 122,
     autonomiaKm: null,
     maleteroL: 304,
@@ -349,7 +349,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       "Visibilidad excelente gracias al pilar A partido",
     ],
     contras: [
-      "Desde 26.000 €: muy caro para un urbano",
+      "Desde 26.400 €: muy caro para un urbano",
       "Diseño monovolumen que no gusta a todos",
       "Motor de 122 CV con tacto algo rumoroso a fondo",
       "Pantalla multimedia con gráficos mejorables",

@@ -742,7 +742,7 @@ export const ANALISIS_MOTO_07: MapaAnalisis = {
   "kymco-ionex-s7-2026-ficha-tecnica-precio": {
     parrafos: [
       "El Ionex S7 es la apuesta eléctrica urbana de Kymco: 7,2 kW con prestaciones de 125 de gasolina de verdad, ABS de doble canal —raro en eléctricas urbanas—, baterías extraíbles e intercambiables en estaciones y 77 km de autonomía WMTC homologada. La red de distribución y servicio de Kymco España, consolidada, supone una ventaja frente a startups eléctricas.",
-      "La tarifa es orientativa sin precio oficial confirmado —unos 4.500 euros—, los 77 km quedan justos para más que ciudad, la red de estaciones de intercambio es pequeña en España, el peso es elevado por las baterías y no hay carga rápida en enchufe doméstico confirmada. Moto para un ecosistema aún en construcción.",
+      "La tarifa es orientativa sin precio oficial confirmado —unos 4.500 euros—, los 77 km quedan justos para más que ciudad, la red de estaciones de intercambio es pequeña en España, el peso es elevado por las baterías y no hay carga rápida en enchufe doméstico confirmada. Moto para un ecosistema aún en despliegue.",
       "Como eléctrica urbana con respaldo de marca tradicional, el S7 tiene lógica para flotas y commuters con punto de intercambio cercano. Para el particular sin infraestructura próxima, la gasolina sigue siendo más práctica. Las baterías extraíbles e intercambiables en estaciones y el ABS de doble canal, raro en eléctricas urbanas, son sus argumentos más diferenciales.",
     ],
     veredicto: "Para el commuter urbano con acceso a estaciones de intercambio; no para más allá de la ciudad ni sin infraestructura cercana.",

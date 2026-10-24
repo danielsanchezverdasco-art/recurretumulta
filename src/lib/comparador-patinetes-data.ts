@@ -74,6 +74,11 @@ export interface PatineteComparador {
   } | null;
   /** 18/10/2026: versiones reales con precio (tabla en la ficha). Sin dato = no se muestra. Nunca inventar. */
   versiones?: { nombre: string; precio: number | null; potenciaCv?: number | null; autonomiaKm?: number | null; aprox?: boolean }[];
+  /** 24/10/2026 (Grok decisión 2): la ficha NO es un patinete VMP (p. ej. e-bike fat).
+   *  Texto del aviso que se muestra arriba de la ficha y sustituye la etiqueta de categoría. */
+  avisoCategoria?: string;
+  /** 24/10/2026 (Grok decisión 2): fuera del comparador y de los listados de patinetes. La ficha sigue existiendo en su URL. */
+  fueraDeComparador?: boolean;
 }
 
 /** Normaliza texto para comparar marcas/modelos: minúsculas, sin tildes. */
@@ -103,7 +108,11 @@ export const PATINETES_COMPARADOR: PatineteComparador[] = [
 const REDIR_PAT = FICHAS_REDIRIGIDAS_PAT as Record<string, string>;
 export const PATINETES_PUBLICADOS: PatineteComparador[] = PATINETES_COMPARADOR.filter((p) => {
   // Cualquier 301 forzado (a otra ficha o, si "", al hub de marca) = sin ficha propia publicada.
-  return REDIR_PAT[`patinetes/${p.id}`] === undefined;
+  if (REDIR_PAT[`patinetes/${p.id}`] !== undefined) return false;
+  // 24/10/2026 (Grok decisión 2): no es un VMP (p. ej. TurboAnt Thunder T1, e-bike fat):
+  // fuera del comparador y de los listados de patinetes. La ficha sigue en su URL.
+  if (p.fueraDeComparador) return false;
+  return true;
 });
 
 /** ¿Está el modelo en la base local? Devuelve su id o null. */

@@ -144,14 +144,8 @@
       @layer base{img{max-width:100%;height:auto}}
       .hj-root{min-height:378px;background:#0d0f0a}
     </style>
-    <link
-      href="/src/index.css"
-      rel="stylesheet"
-      media="print"
-      onload="this.media='all'"
-    />
     <!-- OJO: este <noscript> es el que hace que Vite emita el CSS PROCESADO de Tailwind
-         (el <link media=print> de arriba sale sin procesar). No quitarlo. -->
+         (24/10: quitado el <link media=print> sin procesar: emitía @import "tailwindcss"/"tw-animate-css" = 404 en consola). No quitarlo. -->
     <noscript><link href="/src/index.css" rel="stylesheet" /></noscript>
 
     <!-- ═══════════════════════════════════════════════════════
@@ -266,84 +260,16 @@
     <script type="module" src="/src/main.tsx"></script>
 
     <noscript>
-      <main>
-        <p class="seo-fallback-title">Recurrir Multa DGT Gratis con IA — RecurreTuMulta.online</p>
-        <p>RecurreTuMulta.online es la herramienta de inteligencia artificial para <strong>recurrir multas DGT gratis</strong> en España. Sube tu multa, la IA analiza el documento en busca de posibles vicios de forma y genera el recurso de reposición listo para presentar. <strong>Recurrir multa</strong> nunca fue tan fácil.</p>
-
-        <h2>Cómo recurrir una multa DGT en 3 pasos</h2>
-        <ol>
-          <li>Sube el PDF o foto de tu multa DGT o municipal</li>
-          <li>La IA analiza los vicios de forma en segundos</li>
-          <li>Descarga el recurso de reposición en PDF listo para presentar</li>
-        </ol>
-        <p>Para <strong>recurrir una multa DGT</strong> solo necesitas estos 3 pasos. El análisis es gratuito. Solo pagas 4,99€ si quieres el PDF del recurso completo.</p>
-
-        <h2>¿Qué multas DGT se pueden recurrir?</h2>
-        <ul>
-          <li><strong>Multas de exceso de velocidad</strong> — radar fijo, radar móvil, radar de tramo</li>
-          <li><strong>Multas por semáforo en rojo</strong> — cámara de semáforo</li>
-          <li><strong>Multas de aparcamiento</strong> — zona azul, zona verde, vado</li>
-          <li><strong>Multas por uso del teléfono al volante</strong></li>
-          <li><strong>Multas por no llevar cinturón</strong></li>
-          <li><strong>Multas por adelantamiento indebido</strong></li>
-        </ul>
-        <p>Puedes <strong>recurrir una multa DGT</strong> cuando existen vicios de forma: falta de firma del agente, notificación incorrecta, radar sin calibración, plazo de prescripción superado. La IA analiza tu documento en busca de estos posibles defectos.</p>
-
-        <h2>Recurrir multa DGT sin abogado — Es legal y gratis</h2>
-        <p>Cualquier ciudadano puede <strong>recurrir una multa de tráfico</strong> sin abogado: con alegaciones en los 20 días naturales desde la notificación de la denuncia o, si ya hay sanción, con un recurso de reposición en el plazo de 1 mes desde la resolución sancionadora. Ambos trámites son gratuitos. RecurreTuMulta.online automatiza la redacción del recurso a partir de los defectos e indicios que la IA detecta en tu documento.</p>
-
-        <h2>Preguntas frecuentes sobre recurrir multas DGT</h2>
-        <h3>¿Es gratis recurrir una multa DGT?</h3>
-        <p>Sí. El análisis de vicios de forma con IA es 100% gratuito. Solo pagas 4,99€ si quieres el PDF del recurso completo. <strong>Recurrir multa DGT gratis</strong> está al alcance de todos.</p>
-        <h3>¿Cuánto tiempo tengo para recurrir una multa?</h3>
-        <p>Tienes 20 días naturales desde la notificación de la denuncia para presentar alegaciones contra la multa, y 1 mes desde la resolución sancionadora para el recurso de reposición. Si pagas con el descuento del 50%, renuncias a recurrir. Actúa rápido si quieres conservar tu derecho a recurrir.</p>
-        <h3>¿Qué son los vicios de forma en una multa?</h3>
-        <p>Son errores en la tramitación que pueden servir de base para <strong>recurrir una multa de tráfico</strong>: falta del número TIP del agente, ausencia de hora exacta, radar sin verificación metrológica vigente, señalización previa insuficiente, notificación defectuosa o matrícula errónea. La IA analiza tu documento en busca de estos posibles defectos.</p>
-        <h3>¿Necesito abogado para recurrir una multa?</h3>
-        <p>No. El recurso de reposición es un trámite administrativo gratuito que no requiere abogado. Solo necesitarías representación legal si llevas el caso a la vía contencioso-administrativa.</p>
-        <h3>¿Garantiza RecurreTuMulta.online el éxito del recurso?</h3>
-        <p>No. El resultado de cada recurso depende del contenido concreto de la multa y de la decisión de la administración. La IA analiza tu documentación en busca de posibles defectos e indicios que podrían ser relevantes, pero no puede garantizar un resultado.</p>
-
-        <h2>Recurrir multas en las 50 provincias de España</h2>
-        <p>Guías específicas para <strong>recurrir multas</strong> en todas las provincias:</p>
-        <ul>
-          <li><a href="/multas/madrid">Recurrir multa en Madrid</a></li>
-          <li><a href="/multas/barcelona">Recurrir multa en Barcelona</a></li>
-          <li><a href="/multas/valencia">Recurrir multa en Valencia</a></li>
-          <li><a href="/multas/sevilla">Recurrir multa en Sevilla</a></li>
-          <li><a href="/multas/malaga">Recurrir multa en Málaga</a></li>
-          <li><a href="/multas/zaragoza">Recurrir multa en Zaragoza</a></li>
-          <li><a href="/multas/bilbao">Recurrir multa en Bilbao</a></li>
-          <li><a href="/multas/alicante">Recurrir multa en Alicante</a></li>
-        </ul>
-
-        <h2>Radares DGT en España: tipos y cómo recurrirlos</h2>
-        <p>Los <strong>radares de la DGT</strong> son el origen de la mayoría de multas por exceso de velocidad en España. Existen varios tipos: radar fijo de carretera, <strong>radar de tramo o de sección</strong> (mide velocidad media entre dos puntos), radar móvil de agente de tráfico, radar de semáforo en rojo y cinemómetro de control de acceso. Cada tipo tiene requisitos técnicos distintos y puede tener vicios de forma diferentes que permiten <strong>recurrir la multa de radar</strong>.</p>
-        <p>Para <strong>recurrir una multa de radar</strong> los defectos más frecuentes son: falta de certificado de verificación metrológica del aparato, ausencia de señalización previa reglamentaria a 150 metros, error en la identificación del vehículo o del conductor, o defecto en la notificación de la denuncia.</p>
-
-        <h2>Puntos del carnet de conducir — cómo recuperarlos</h2>
-        <p>El <strong>permiso de conducir por puntos</strong> en España otorga 12 puntos iniciales (8 puntos para conductores noveles en los 2 primeros años). Las infracciones graves y muy graves restan puntos. Para <strong>recuperar puntos del carnet</strong> existen tres vías: el curso de recuperación parcial (hasta 4 puntos), el transcurso de 2 años sin sanciones firmes con pérdida de puntos (recuperación total hasta 12) o, tras perderlos todos, 6 meses sin permiso más curso y examen. Puedes consultar tus puntos en la sede electrónica de la DGT.</p>
-        <p>Si recurres con éxito una <strong>multa con pérdida de puntos</strong>, también se anulan los puntos retirados. Es una razón más para valorar el recurso antes de pagar.</p>
-
-        <h2>Tabla de multas por exceso de velocidad 2026</h2>
-        <ul>
-          <li><strong>Hasta 20 km/h de exceso</strong>: 100 € — 0 puntos</li>
-          <li><strong>20 a 40 km/h de exceso</strong>: 300 € — 2 puntos</li>
-          <li><strong>40 a 60 km/h de exceso</strong>: 400 € — 4 puntos</li>
-          <li><strong>Más de 60 km/h de exceso</strong>: 600 € — 6 puntos (retirada de permiso)</li>
-        </ul>
-
-        <h2>Multa por alcoholemia en España 2026</h2>
-        <p>La <strong>multa por dar positivo en alcoholemia</strong> depende del nivel de alcohol detectado. El límite general es 0,25 mg/l en aire espirado (o 0,5 g/l en sangre), y para noveles y profesionales el límite baja a 0,15 mg/l. Entre 0,25 y 0,50 mg/l la multa es de <strong>500 € y 4 puntos</strong>. Superar 0,60 mg/l puede conllevar hasta 6 puntos y 1.000 €, o incluso delito penal. El etilómetro también puede tener vicios de forma si no tiene la verificación en vigor, lo que permite <strong>recurrir la multa por alcoholemia</strong>.</p>
-
-        <h2>Multa por ITV caducada en España 2026</h2>
-        <p>Circular con la <strong>ITV caducada</strong> conlleva una multa de <strong>200 € sin pérdida de puntos</strong> (infracción grave). Si la ITV ha sido revisada pero con deficiencias muy graves no subsanadas, la multa es de 100 €. La Inspección Técnica de Vehículos debe realizarse en los plazos establecidos según la antigüedad del vehículo. Si la notificación de la multa tiene defectos de forma, también puede recurrirse.</p>
-
-        <h2>Multa por circular sin seguro obligatorio 2026</h2>
-        <p>Conducir sin <strong>seguro obligatorio del vehículo</strong> es una infracción muy grave que conlleva multa de <strong>601 € a 3.005 €</strong>, sin pérdida de puntos, y posible inmovilización del vehículo. La DGT comprueba el seguro mediante el Fichero Informativo de Vehículos Asegurados (FIVA). Si existe un error en la notificación o en la identificación del vehículo, la multa por circular sin seguro también puede recurrirse.</p>
-
-        <img src="/media/og-recurretumulta-online.png" alt="RecurreTuMulta.online — Recurrir multas DGT gratis con inteligencia artificial" width="1200" height="630" loading="lazy" />
-      </main>
+      <div style="font-family:system-ui,sans-serif;max-width:42rem;margin:2rem auto;padding:0 1rem;text-align:center">
+        <p><strong>RecurreTuMulta.online</strong> necesita JavaScript para funcionar. Actívalo para analizar tu multa gratis con IA, o visita nuestras secciones:</p>
+        <nav>
+          <a href="/blog/">Blog</a> ·
+          <a href="/multas/">Multas por provincia</a> ·
+          <a href="/guias/radares/">Guía de radares</a> ·
+          <a href="/herramientas/">Herramientas</a> ·
+          <a href="/contacto/">Contacto</a>
+        </nav>
+      </div>
     </noscript>
   </body>
 </html>

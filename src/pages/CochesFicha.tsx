@@ -36,6 +36,7 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
 import OtrasFichasMarca from "@/components/OtrasFichasMarca.tsx";
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
@@ -338,7 +339,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       a:
         coche.autonomiaKm == null
           ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}. Ten en cuenta que la cifra real depende de tu conducción y de la temperatura.`,
+          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
     },
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
@@ -372,7 +373,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       ? [
           {
             q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
-            a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con rivales y vídeo. En esta misma ficha tienes el botón «Leer nuestro análisis» para abrirlo.`,
+            a: `Pulsa «Leer nuestro análisis».`,
           },
         ]
       : []),
@@ -570,10 +571,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
-            <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
-            fuertes y débiles extraídos de nuestro análisis. Si un dato no
-            está publicado por una fuente fiable, no lo mostramos en vez de inventarlo.
             Fuente:{" "}
             {coche.fuenteUrl ? (
               <a
@@ -725,7 +722,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
           </p>
         </section>
 
@@ -734,12 +731,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             ¿Puede entrar en la ZBE de Madrid?
           </h2>
           <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
-          <p className="mt-3 text-xs text-gray-500">
-            En 2026 todos los municipios españoles de más de 50.000 habitantes tienen su
-            propia Zona de Bajas Emisiones, y cada una aplica sus restricciones según la
-            etiqueta DGT: las Cero entran en todas, las ECO casi siempre, y las C y B
-            dependen del escenario anticontaminación y de la zona.
-          </p>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -785,11 +776,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               to={hrefDesdeBlog(analisisSlug)}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
-              <BookOpen className="h-4 w-4" /> Ver versiones en el análisis
+              <BookOpen className="h-4 w-4" /> Versiones
             </Link>
           )}
           <p className="mt-3 text-sm text-gray-500">
-            ITV en tu comunidad:{" "}
+            ITV:{" "}
             <Link to="/herramientas/precio-itv/" className="font-semibold text-red-600 hover:underline">
               consúltala aquí
             </Link>
@@ -1104,13 +1095,14 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         )}
 
         <RivalesCarrusel tipo="coches" id={coche.id} nombre={nombre} rivales={extra.r} />
+        <FraseRivales id={coche.id} nombre={nombre} precio={coche.precioDesde} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
             to={`/comparador-coches/?a=${coche.id}`}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
-            <ArrowLeftRight className="h-4 w-4" /> Comparar con otro modelo
+            <ArrowLeftRight className="h-4 w-4" /> Comparar
           </Link>
           {tieneBlog && (
             <Link
@@ -1130,9 +1122,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         </p>
 
         <p className="mt-2 text-center text-sm text-gray-500">
-          ¿Entra en tu presupuesto?{" "}
-          <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
-            Qué coche me compro con mi presupuesto →
+                    <Link to="/mejor-coche-por-presupuesto/" className="font-semibold text-red-600 hover:underline">
+            Coche por presupuesto →
           </Link>
         </p>
 
@@ -1162,13 +1153,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id={(coche.opiniones?.length ?? 0) > 0 ? undefined : "opiniones"} className="scroll-mt-32">

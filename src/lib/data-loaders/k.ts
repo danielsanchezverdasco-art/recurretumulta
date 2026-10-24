@@ -463,6 +463,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ktm-rc-390-2024-ficha-tecnica-precio": () => import("../comparador-motos-exp-m2.ts"),
     "ktm-rc-390-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m4.ts"),
     "ktm-rc-390-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
+    "kymco-agility-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m6.ts"),
     "kymco-agility-nx-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-exp-m4.ts"),
     "kymco-agility-s-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m12.ts"),
     "kymco-agility-s-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m3.ts"),

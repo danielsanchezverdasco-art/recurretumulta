@@ -3984,7 +3984,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "/media/chausson-s514-first-line-2026-precio-ficha-tecnica/chausson-s514-first-line-2026-precio-ficha-tecnica-oficial.webp",
+    "heroSrc": "/media/chausson-s514-first-line-2026-precio-ficha-tecnica-oficial.webp",
     "heroAlt": "Chausson S514 First Line 2026, perfilada estrecha de 5,99 m",
     "keywords": [
       "Chausson S514 First Line",
@@ -7894,7 +7894,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "changan-cs75-plus-2025-precio-ficha-tecnica",
     "title": "Changan CS75 Plus: el SUV más vendido de la marca",
-    "excerpt": "El Changan CS75 Plus llega con 185 CV: precio de referencia en su mercado de origen: 14.800 €. Datos, pros, contras y ficha técnica.",
+    "excerpt": "El Changan CS75 Plus llega con 188 CV: precio de referencia en su mercado de origen: 14.800 €. Datos, pros, contras y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -7904,7 +7904,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "changan cs75 plus precio",
       "changan cs75 plus ficha técnica",
       "changan cs75 plus opiniones",
-      "changan cs75 plus 185 cv",
+      "changan cs75 plus 188 cv",
       "etiqueta c changan cs75 plus",
       "suv gasolina changan"
     ],
@@ -8065,7 +8065,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "changan-uni-z-2025-precio-ficha-tecnica",
     "title": "Changan UNI-Z: SUV híbrido con etiqueta Cero",
-    "excerpt": "El Changan UNI-Z llega con novedades importantes: precio de referencia en su mercado de origen: 12.100 €. Datos, pros, contras y ficha técnica.",
+    "excerpt": "El Changan UNI-Z llega con novedades importantes: precio de referencia en su mercado de origen: 16.700 €. Datos, pros, contras y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -8634,8 +8634,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "haval-h7-2025-precio-ficha-tecnica",
-    "title": "Haval H7: híbrido de 243 CV y 7 años de garantía",
-    "excerpt": "El Haval H7: garantía de 7 años sin límite de km. Precio en España aún por confirmar.",
+    "title": "Haval H7: España desde 28.000 €, híbrido de 243 CV",
+    "excerpt": "El Haval H7 llega a España en octubre de 2026 desde 28.000 €: SUV híbrido de 243 CV, 5,7 l/100 km, etiqueta ECO y 7 años de garantía.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -9565,8 +9565,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "mercedes-amg-glc-63-s-e-performance-2025-precio-ficha-tecnica",
-    "title": "AMG GLC 63 S: 680 CV híbridos con etiqueta Cero",
-    "excerpt": "El Mercedes-AMG GLC 63 S e-performance es el SUV compacto más potente: 680 CV, 1.020 Nm, 0-100 en 3,5 s y etiqueta Cero.",
+    "title": "AMG GLC 63 S: 680 CV híbridos con etiqueta ECO",
+    "excerpt": "El Mercedes-AMG GLC 63 S e-performance es el SUV compacto más potente: 680 CV, 1.020 Nm, 0-100 en 3,5 s y etiqueta ECO.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -11542,9 +11542,9 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "icaur-v25-2026-precio-ficha-tecnica",
     "title": "455 CV con pinta de Defender: el iCaur V25",
-    "excerpt": "El iCaur V25 llega con 455 CV: parte de aún por confirmar oficialmente. Datos, pros, contras y ficha técnica.",
+    "excerpt": "El iCaur V25 se presenta en Wuhu y confirma su llegada a Europa: 455 CV EREV, 150 km eléctricos y preventa en China desde 139.800 yuanes. España, en la hoja de ruta.",
     "category": "Novedades Motor",
-    "date": "2026-10-12",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/icaur-v25-2026-hero.webp",
     "heroAlt": "iCaur V25, vista exterior",
@@ -11556,7 +11556,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "etiqueta cero icaur v25",
       "suv eléctrico de autonomía extendida icaur"
     ],
-    "readTime": 6
+    "readTime": 8
   },
   {
     "slug": "tank-800-2026-precio-ficha-tecnica",
@@ -11846,7 +11846,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "bmw-i3-neue-klasse-2026-precio-ficha-tecnica",
     "title": "El nuevo i3: hasta 906 km de autonomía",
-    "excerpt": "El BMW i3 (Neue Klasse) llega con 374 CV y 710 km WLTP (hasta 906 km en la versión de mayor autonomía) de autonomía: parte de 58.400 €. Datos, pros, contras y ficha técnica.",
+    "excerpt": "El BMW i3 (Neue Klasse) llega con 374 CV y 710 km WLTP (hasta 906 km en la versión de mayor autonomía) de autonomía: parte de 57.740 €. Datos, pros, contras y ficha técnica.",
     "category": "Novedades Motor",
     "date": "2026-10-12",
     "locale": "all",
@@ -14169,8 +14169,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-i7-xdrive60-2026-precio-ficha-tecnica",
-    "title": "BMW i7 xDrive60: lujo eléctrico de 544 CV, 139.600 €",
-    "excerpt": "El BMW i7 xDrive60: berlina de lujo eléctrica con 544 CV, 624 km de autonomía, pantalla de cine de 31 pulgadas y etiqueta Cero, 139.600 €.",
+    "title": "BMW i7 xDrive60: lujo eléctrico de 544 CV, 141.090 €",
+    "excerpt": "El BMW i7 xDrive60: berlina de lujo eléctrica con 544 CV, 624 km de autonomía, pantalla de cine de 31 pulgadas y etiqueta Cero, 141.090 €.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -14914,7 +14914,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Vanster precio",
       "Pössl camper compacta"
     ],
-    "readTime": 5
+    "readTime": 9
   },
   {
     "slug": "possl-summit-640-2026-analisis-opinion",
@@ -14978,7 +14978,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Columbus precio",
       "Westfalia camper"
     ],
-    "readTime": 5
+    "readTime": 9
   },
   {
     "slug": "westfalia-amundsen-2026-analisis-opinion",
@@ -16146,10 +16146,10 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "citroen-e-c3-2026-precio-ficha-tecnica",
-    "title": "Citroën ë-C3 2026: 323 km por 21.400 €",
-    "excerpt": "El Citroën ë-C3 se vende en España desde 21.400 €: 113 CV, 323 km de autonomía y carga rápida de 100 kW. Análisis, precios y rivales.",
+    "title": "Citroën ë-C3 2026: 212 km desde 11.950 € con ayudas",
+    "excerpt": "El Citroën ë-C3 cuesta desde 11.950 € con Plan Auto+ y promociones: 212 km de autonomía, carga rápida y etiqueta Cero. Precios oficiales de toda la gama.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/citroen-e-c3-2026-precio-ficha-tecnica-hero.webp",
     "heroAlt": "Citroën ë-C3 eléctrico azul aparcado en una calle de casco antiguo europeo",
@@ -16160,7 +16160,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "e-c3 vs dacia spring",
       "coche electrico 20000 euros"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica",
@@ -17862,7 +17862,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "xpeng-mona-m03-2025-precio-ficha-tecnica",
     "title": "Xpeng Mona M03: 620 km por 15.200 €",
-    "excerpt": "Ficha del Xpeng Mona M03 2025: berlina eléctrica de 218 CV, 620 km CLTC, maletero de 621 l y Cx de 0,194. Solo en China.",
+    "excerpt": "Ficha del Xpeng Mona M03 2025: berlina eléctrica de 190 CV, 515 km CLTC, maletero de 621 l y Cx de 0,194. Solo en China.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -17871,7 +17871,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "keywords": [
       "Xpeng Mona M03",
       "Mona M03 precio",
-      "Mona M03 218 CV",
+      "Mona M03 190 CV",
       "Mona M03 autonomía",
       "Xpeng Mona Europa",
       "berlina eléctrica barata"
@@ -18225,7 +18225,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "title": "Cupra Raval VZ: el GTI eléctrico",
     "excerpt": "Precio y ficha técnica del Cupra Raval VZ: 226 CV, 386 km de autonomía, 6,8 s de 0 a 100 y maletero de 441 litros. Desde 39.040 €.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/cupra-raval-vz-2025-precio-ficha-tecnica-hero.webp",
     "heroAlt": "Cupra Raval VZ 2025 eléctrico en ciudad europea",
@@ -18237,7 +18237,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urbano eléctrico deportivo",
       "Raval vs ID.Polo"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "audi-a6-avant-e-tron-performance-2025-precio-ficha-tecnica",
@@ -18831,8 +18831,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-jazz-ehev-2024-precio-ficha-tecnica",
-    "title": "Honda Jazz e:HEV 2024: 122 CV ECO desde 26.000 €",
-    "excerpt": "Precio y ficha técnica del Honda Jazz e:HEV 2024: 122 CV, 4,6 l/100 km, 5 estrellas Euro NCAP y etiqueta ECO desde 26.000 €.",
+    "title": "Honda Jazz e:HEV 2024: 122 CV ECO desde 26.400 €",
+    "excerpt": "Precio y ficha técnica del Honda Jazz e:HEV 2024: 122 CV, 4,6 l/100 km, 5 estrellas Euro NCAP y etiqueta ECO desde 26.400 €.",
     "category": "Coches",
     "date": "2026-10-07",
     "locale": "all",
@@ -27520,7 +27520,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "title": "Nuevo Hyundai Tucson 2027: 292 CV",
     "excerpt": "Hyundai ha presentado en Nueva York la nueva generación del Tucson 2027: diseño \\u00abArt of Steel\\u00bb, gasolina de 150 CV, híbrido de 245 CV e",
     "category": "Actualidad",
-    "date": "2026-10-03",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/nuevo-hyundai-tucson-2027-hero.webp",
     "heroAlt": "Nuevo Hyundai Tucson 2027 gris grafito circulando por una carretera española al atardecer",
@@ -27532,7 +27532,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "José Muñoz Hyundai China",
       "Tucson 2027 ficha técnica"
     ],
-    "readTime": 7
+    "readTime": 8
   },
   {
     "slug": "audi-a2-e-tron-2026-precio-ficha-tecnica",
@@ -34256,7 +34256,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "mutt-mastiff-125-2026-precio-ficha-tecnica",
     "title": "Mastiff 125: custom vintage por 3.599 €",
-    "excerpt": "La Mutt Mastiff 125: custom vintage británica de 125 cc, 12 CV y solo 105 kg por 3.599 €. Estilo setentero para el carnet A1.",
+    "excerpt": "La Mutt Mastiff 125: custom vintage británica de 125 cc, 11 CV y 127 kg por 3.599 € según el distribuidor Life Motorcycles. Estilo setentero para el carnet A1.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34305,7 +34305,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scrambler 125 2025",
       "bluroc legend 125 prueba"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "fb-mondial-flex-300-2026-precio-ficha-tecnica",
@@ -34323,7 +34323,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "naked 300 neo retro",
       "fb mondial flex 300 prueba"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "fb-mondial-imola-125-2026-precio-ficha-tecnica",
@@ -34341,7 +34341,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 125 deportivo",
       "fb mondial imola prueba"
     ],
-    "readTime": 2
+    "readTime": 10
   },
   {
     "slug": "bsa-bantam-350-2026-precio-ficha-tecnica",
@@ -34395,7 +34395,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "enduro 2t 300 2025",
       "tm racing españa"
     ],
-    "readTime": 2
+    "readTime": 9
   },
   {
     "slug": "vent-baja-125-2026-precio-ficha-tecnica",
@@ -34436,7 +34436,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "revolt-rv400-2026-precio-ficha-tecnica",
     "title": "RV400: moto eléctrica por 1.400 €",
-    "excerpt": "La Revolt RV400: naked eléctrica india con 150 km de autonomía en modo Eco, batería extraíble y app conectada. Precio orientativo de 1.400 €.",
+    "excerpt": "La Revolt RV400: naked eléctrica india con 150 km de autonomía declarada (ciclo IDC), batería extraíble y app conectada. Precio orientativo de 1.400 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34454,7 +34454,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "tvs-iqube-2026-precio-ficha-tecnica",
     "title": "iQube: scooter eléctrico por 3.900 €",
-    "excerpt": "El TVS iQube: scooter eléctrico indio con 100 km de autonomía, pantalla TFT de 7 pulgadas y carga rápida. Precio orientativo de 3.900 €.",
+    "excerpt": "El TVS iQube: scooter eléctrico indio con pantalla TFT de 7 pulgadas y cargador portátil de 950 W. Precio orientativo de 3.900 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34507,8 +34507,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bultaco-brinco-2026-precio-ficha-tecnica",
-    "title": "Brinco: la moto-bike eléctrica por 3.650 €",
-    "excerpt": "La Bultaco Brinco: la primera moto-bike eléctrica del mundo. Pedaleas o aceleras, 60 km/h y batería extraíble por 3.650 €.",
+    "title": "Bultaco Brinco: precio real desde 4.800 € y ficha técnica",
+    "excerpt": "La Bultaco Brinco: la primera moto-bike eléctrica del mundo. Pedaleas o aceleras, 60 km/h y batería extraíble desde 4.800 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34521,12 +34521,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto bike eléctrica",
       "bultaco brinco segunda mano"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "mecatecno-t8-2026-precio-ficha-tecnica",
-    "title": "T8: trial eléctrica infantil por 1.162 €",
-    "excerpt": "La Mecatecno T8: trial eléctrica para niños, silenciosa y sin humos, con solo 24 kg. Precio de 960 € + IVA. La puerta al trial.",
+    "title": "T8: trial eléctrica infantil por 754 €",
+    "excerpt": "La Mecatecno T8: trial eléctrica para niños, silenciosa y sin humos. Precio de época de 754 € según Motorpasión Moto. La puerta al trial.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -34543,8 +34543,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "electric-motion-escape-r-2026-precio-ficha-tecnica",
-    "title": "Escape R: trial eléctrica de 3,5 kWh por 11.676 €",
-    "excerpt": "La Electric Motion Escape R 2026: trial eléctrica francesa con batería de 3,5 kWh, 61 km de autonomía y marcha atrás por 11.675,90 €.",
+    "title": "Escape R: trial eléctrica de 3,5 kWh por 9.649,50 €",
+    "excerpt": "La Electric Motion Escape R 2026: trial eléctrica francesa con batería de 3,5 kWh, unas 3,5 horas de autonomía y antirretroceso en pendiente por 9.649,50 € según Trialworld.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -36026,7 +36026,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "neo-retro 250 china",
       "motos neo-retro"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "voge-300acx-scrambler-precio",
@@ -37724,8 +37724,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "bmw-i3-neue-klasse-2026-precio-ficha",
-    "title": "BMW i3: 906 km de autonomía por 58.400 €",
-    "excerpt": "El nuevo BMW i3 de la era Neue Klasse: berlina eléctrica con 800 V, hasta 906 km WLTP y 469 CV desde 58.400 €.",
+    "title": "BMW i3: 906 km de autonomía por 57.740 €",
+    "excerpt": "El nuevo BMW i3 de la era Neue Klasse: berlina eléctrica con 800 V, hasta 906 km WLTP y 469 CV desde 57.740 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -44461,22 +44461,24 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "nio-firefly-precio-espana-ficha-tecnica",
-    "title": "NIO Firefly: 143 CV",
-    "excerpt": "Firefly, la marca asequible de NIO: utilitario eléctrico de 4 metros, 143 CV, tracción trasera y 330 km WLTP, a la venta en media Europa por 29.900 €.",
+    "title": "NIO Firefly: batería de 60 kWh con 560 km de autonomía",
+    "excerpt": "Firefly estrena batería CATL de 60 kWh: 560 km CLTC, mismo tamaño y peso, y los dueños actuales pueden actualizarla. En China desde 136.800 yuanes.",
     "category": "Novedades Motor",
-    "date": "2026-10-02",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/nio-firefly-precio-espana-ficha-tecnica-hero.webp",
-    "heroAlt": "Pequeño coche eléctrico urbano NIO Firefly blanco con faros redondos aparcado en una plaza de casco antiguo europeo",
+    "heroAlt": "NIO Firefly blanco, vista delantera tres cuartos con sus faros de triple círculo",
     "keywords": [
       "nio firefly precio españa",
       "nio firefly análisis",
       "nio firefly europa",
       "coche eléctrico urbano chino 2026",
       "nio firefly autonomía",
+      "nio firefly 60 kwh",
+      "nio firefly 560 km",
       "nio firefly vs renault 5"
     ],
-    "readTime": 5
+    "readTime": 7
   },
   {
     "slug": "dacia-bigster-hybrid-precio-espana",
@@ -66369,8 +66371,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "smartgyro-rockway-gts",
-    "title": "Smartgyro Rockway GTS: 75 km de autonomía",
-    "excerpt": "El Smartgyro Rockway GTS por 779 €: 75 km declarados y 1000 W. El rutero puro de la gama Rockway. Ficha y análisis.",
+    "title": "Smartgyro Rockway GTS: 60 km declarados",
+    "excerpt": "El Smartgyro Rockway GTS por 779 €: 60 km declarados, 800 W y certificado DGT. El rutero puro de la gama Rockway. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66386,7 +66388,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "smartgyro rutero",
       "rockway gts opiniones"
     ],
-    "readTime": 2
+    "readTime": 9
   },
   {
     "slug": "smartgyro-rockway-pro",
@@ -66495,8 +66497,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "dualtron-new-storm-limited",
-    "title": "Dualtron New Storm Limited: 11500 W",
-    "excerpt": "El Dualtron New Storm Limited: 11500 W de potencia máxima, 84 V y 45 Ah (3780 Wh). Edición limitada de Minimotors.",
+    "title": "Dualtron New Storm Limited: 11500 W y 180 km",
+    "excerpt": "El Dualtron New Storm Limited: 5000 W nominales y 11500 W de pico, 3780 Wh, 180 km y 100 km/h. 42.990 SEK en la tienda oficial nórdica.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66512,12 +66514,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "minimotors storm",
       "dualtron más potente"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "dualtron-x-limited",
-    "title": "Dualtron X Limited: 12000 W y 5040 Wh",
-    "excerpt": "El Dualtron X Limited: 12000 W de potencia máxima, 84 V y 60 Ah (5040 Wh), 110 km/h. El techo de Minimotors.",
+    "title": "Dualtron X Limited: 12000 W, 5040 Wh y 169 km",
+    "excerpt": "El Dualtron X Limited: 12000 W de pico, 5040 Wh (84 V, 60 Ah), 169 km, 110 km/h y 82,6 kg. Tarifa en EE. UU.: 5.799 $, según MiniMotors USA (tienda oficial).",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66789,8 +66791,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kaabo-wolf-king-gtr-max",
-    "title": "Kaabo Wolf King GTR Max: 200 km de autonomía",
-    "excerpt": "El Kaabo Wolf King GTR Max: 200 km declarados y 2880 Wh. El patinete con más autonomía del mercado.",
+    "title": "Kaabo Wolf King GTR Max: 200 km y 105 km/h",
+    "excerpt": "El Kaabo Wolf King GTR Max: 13.440 W de pico, 2880 Wh, 200 km declarados, 105 km/h y 67 kg. 3.799 $ en la tienda americana.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66853,7 +66855,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "vsett-9-apex",
     "title": "Vsett 9 Apex: doble motor limitado a 25 km/h",
-    "excerpt": "El Vsett 9 Apex: doble motor de 700 W limitado a 25 km/h, 749 Wh, NFC e IPX5. Potencia con cabeza para la calle.",
+    "excerpt": "El Vsett 9 Apex: doble motor de 2x650 W limitado a 25 km/h, 922 Wh, 70 km declarados y NFC. Potencia con cabeza.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -66869,7 +66871,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete ipx5",
       "vsett 749 wh"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "vsett-10-plus-apex",
@@ -67434,7 +67436,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hiboy barato",
       "patinete plegable ligero"
     ],
-    "readTime": 2
+    "readTime": 9
   },
   {
     "slug": "hiboy-max-pro",
@@ -67664,7 +67666,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete robusto",
       "iscooter 486"
     ],
-    "readTime": 2
+    "readTime": 9
   },
   {
     "slug": "iscooter-ix7-pro",
@@ -67898,8 +67900,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "joyor-lr10",
-    "title": "Joyor LR10: doble motor por 1.699 €",
-    "excerpt": "El Joyor LR10 lleva el LR8 al doble motor: 2x1.000 W, 1.080 Wh, 92 km, 64 km/h y ruedas off-road de 10\" por 1.699 €. Ficha completa.",
+    "title": "Joyor LR10: doble motor y 92 km declarados",
+    "excerpt": "El Joyor LR10: doble motor 2x1.000 W, 1.080 Wh y hasta 92 km declarados (60–75 km reales). Ruedas off-road de 10 pulgadas.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -67917,7 +67919,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 92 km",
       "joyor lr10 vs lr8"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "joyor-s5-pro",
@@ -68893,8 +68895,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "isinwheel-s10pro",
-    "title": "iSinwheel S10Pro: 800 W equilibrados",
-    "excerpt": "iSinwheel S10Pro: 800 W, batería de ~600 Wh, 51 km declarados y doble suspensión. El punto medio de la gama S10. Ficha y análisis.",
+    "title": "iSinwheel S10Pro: 500 W nominales (800 W pico), 51 km",
+    "excerpt": "iSinwheel S10Pro: 500 W nominales (800 W de pico), 600 Wh, 51 km declarados y doble suspensión. El punto medio de la gama S10. Análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -68910,7 +68912,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete doble suspensión",
       "isinwheel gama s10"
     ],
-    "readTime": 2
+    "readTime": 10
   },
   {
     "slug": "isinwheel-gt1",
@@ -68952,12 +68954,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "isinwheel s9pro opiniones",
       "patinete metro"
     ],
-    "readTime": 2
+    "readTime": 10
   },
   {
     "slug": "isinwheel-s10plus",
     "title": "iSinwheel S10Plus: 750 W, el más redondo",
-    "excerpt": "iSinwheel S10Plus: 750 W, batería de ~720 Wh, 50 km declarados y 19 kg. El S10 más equilibrado para todo. Ficha y análisis.",
+    "excerpt": "iSinwheel S10Plus: 750 W, batería de ~682 Wh (según Amazon), 50 km declarados y 19 kg. El S10 más equilibrado para todo. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69041,7 +69043,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gotrax-gxl-v2",
     "title": "Gotrax GXL V2: el más barato de la marca",
-    "excerpt": "Gotrax GXL V2: 250 W, 20 km declarados y precio mínimo. El Gotrax de entrada para trayectos cortos y llanos. Ficha y análisis.",
+    "excerpt": "Gotrax GXL V2: 250 W, 19 km declarados y precio mínimo. El Gotrax de entrada para trayectos cortos y llanos. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69083,7 +69085,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "gotrax-gx-zero",
     "title": "Gotrax GX Zero: doble motor de acceso",
-    "excerpt": "Gotrax GX Zero: doble motor de 2x500 W desde 799 $, 51 km declarados. El doble motor más barato de Gotrax. Ficha y análisis.",
+    "excerpt": "Gotrax GX Zero: doble motor de 2x500 W, PVP de 1.199 $ y 51 km declarados. El doble motor más barato de Gotrax. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69229,8 +69231,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "zwheel-e9d",
-    "title": "Zwheel E9D: 11 kg para el metro",
-    "excerpt": "Zwheel E9D: solo 11 kg, 350 W, suspensión y 30 km declarados. El Zwheel más ligero, pensado para el metro. Ficha y análisis.",
+    "title": "Zwheel E9D: 12 kg para el metro",
+    "excerpt": "Zwheel E9D: solo 12 kg, 350 W, suspensión y 25 km declarados. El Zwheel más ligero, pensado para el metro. Ficha y análisis.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69239,7 +69241,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "keywords": [
       "zwheel e9d",
       "zwheel e9d precio",
-      "patinete 11 kg",
+      "patinete 12 kg",
       "zwheel ligero",
       "patinete metro",
       "zwheel opiniones",
@@ -69419,7 +69421,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "urban-glide-all-road-2",
     "title": "Urban Glide All Road 2: el término medio",
-    "excerpt": "Urban Glide All Road 2: 500 W, 40 km declarados y 120 kg de carga por ~530 €. Ficha técnica, autonomía real y veredicto.",
+    "excerpt": "Urban Glide All Road 2: 500 W, 480 Wh, 40 km declarados y 150 kg de carga. Ficha técnica, autonomía real y veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69461,7 +69463,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "urban-glide-ride-85-evo",
     "title": "Urban Glide Ride 85 Evo: urbano mínimo",
-    "excerpt": "Urban Glide Ride 85 Evo: 350 W, doble suspensión delantera y ~20 km declarados. El urbano barato de Urban Glide, ficha y veredicto.",
+    "excerpt": "Urban Glide Ride 85 Evo: 250 W (300 W de pico), 168 Wh, 20 km declarados y 247 € aprox. El urbano barato de Urban Glide, ficha y veredicto.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69561,7 +69563,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ecross pro xs autonomía",
       "patinete todoterreno barato"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "urban-glide-ride-100-city",
@@ -69582,7 +69584,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urban glide city",
       "ride 100 city autonomía"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "urban-glide-100-shark",
@@ -69603,7 +69605,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete barato potente",
       "100 shark opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "urban-glide-eon-x",
@@ -69645,7 +69647,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "urban glide boulanger",
       "urbanride 85 opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "urban-glide-urbanride-85-city",
@@ -69666,7 +69668,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete barato boulanger",
       "urban glide 85 city opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "urban-glide-ride-100xs",
@@ -69687,12 +69689,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete cuatro modos",
       "ride 100xs opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "hiley-tiger-10-gtr",
-    "title": "Hiley Tiger 10 GTR: 3.800 W de hyper-scooter",
-    "excerpt": "Hiley Tiger 10 GTR: doble motor 2x1.400 W, 1.800 Wh y 110 km declarados con NUTT hidráulicos. Ficha del tope de gama Hiley.",
+    "title": "Hiley Tiger 10 GTR: 4.000 W de hyper-scooter",
+    "excerpt": "Hiley Tiger 10 GTR: 2.800 W (4.000 W de pico), 1.800 Wh y 80 km declarados con NUTT hidráulicos. Ficha del tope de gama Hiley.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69750,7 +69752,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 873 wh",
       "maxspeed x10 opiniones"
     ],
-    "readTime": 6
+    "readTime": 3
   },
   {
     "slug": "hiley-maxspeed-x8",
@@ -69771,7 +69773,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hiley ligero",
       "patinete motor trasero"
     ],
-    "readTime": 5
+    "readTime": 1
   },
   {
     "slug": "hiley-tiger-10-pro",
@@ -69813,7 +69815,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "tiger 10 lite 65 kmh",
       "tiger lite opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "hiley-tiger-8-gtr-v4",
@@ -69923,7 +69925,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cecotec-bongo-serie-z-off-road",
     "title": "Cecotec Bongo Z Off Road: ruedas de 12\" y bambú",
-    "excerpt": "Cecotec Bongo Serie Z Off Road: ruedas de 12\" tubeless, plataforma de bambú y batería extraíble. El Bongo más especial, ficha completa.",
+    "excerpt": "Cecotec Bongo Serie Z Off Road: ruedas de 12\" tubeless, plataforma de bambú y batería extraíble. El Bongo más especial, analizado a fondo.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69939,7 +69941,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete campo cecotec",
       "z off road opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "cecotec-bongo-serie-x65-connected",
@@ -69965,7 +69967,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "cecotec-bongo-serie-x45-sport-connected",
     "title": "Cecotec Bongo X45 Sport: 16 kg y 45 km por 419 €",
-    "excerpt": "Cecotec Bongo Serie X45 Sport Connected: 450/900 W, 16 kg, 45 km y tubeless por 419 €. El ligero con autonomía, ficha completa.",
+    "excerpt": "Cecotec Bongo Serie X45 Sport Connected: 450/900 W, 16 kg, 45 km y freno KERS por 419 € aprox. El ligero con autonomía, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -69985,8 +69987,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "cecotec-bongo-d30-xl-connected",
-    "title": "Cecotec Bongo D30 XL: DGT por 139 €",
-    "excerpt": "Cecotec Bongo D30 XL Connected: homologado DGT, ruedas de 10\" y 30 km por 139 € en oferta. El chollo con papeles, ficha completa.",
+    "title": "Cecotec Bongo D30 XL: DGT por 249 €",
+    "excerpt": "Cecotec Bongo D30 XL Connected: homologado DGT, ruedas de 10\" y 30 km por 249 € de PVP. El chollo con papeles, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70023,7 +70025,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 75 km",
       "leger pro opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "speedway-leger",
@@ -70044,7 +70046,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "speedway leger opiniones",
       "patinete 748 wh"
     ],
-    "readTime": 4
+    "readTime": 2
   },
   {
     "slug": "speedway-mini-4-pro",
@@ -70065,7 +70067,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete ligero 748 wh",
       "mini 4 pro opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "sxt-light-plus-v",
@@ -70086,12 +70088,12 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete batería samsung",
       "patinete ultraligero suspensión"
     ],
-    "readTime": 6
+    "readTime": 2
   },
   {
     "slug": "segway-superscooter-gt3-pro",
     "title": "Segway GT3 Pro: 7.000 W y 138 km declarados",
-    "excerpt": "Segway SuperScooter GT3 Pro: 2x1.700 W, 7.000 W de pico, 2.160 Wh y 80 km/h. El hyper-scooter de Segway, ficha completa.",
+    "excerpt": "Segway SuperScooter GT3 Pro: 7.000 W de pico, 2.160 Wh y 80 km/h. El hyper-scooter de Segway, ficha completa.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -70149,7 +70151,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ninebot f2 pro ii opiniones",
       "f2 pro ii vs f2 ii"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "navee-v40i",
@@ -70170,7 +70172,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "v40i opiniones",
       "patinete 17 kg"
     ],
-    "readTime": 5
+    "readTime": 1
   },
   {
     "slug": "navee-v50i",
@@ -70191,7 +70193,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "v50i vs v40i",
       "patinete navee 367 wh"
     ],
-    "readTime": 5
+    "readTime": 1
   },
   {
     "slug": "navee-n65i",
@@ -70212,7 +70214,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete intermitentes",
       "n65i opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "navee-v25i-pro",
@@ -70233,7 +70235,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete pantalla grande",
       "v25i pro opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "navee-v40-pro",
@@ -70254,7 +70256,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete faro automático",
       "v40 pro opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "niu-kqi1-pro",
@@ -70275,7 +70277,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 15 kg",
       "kqi1 pro opiniones"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "ruptor-r3",
@@ -70296,7 +70298,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ruptor opiniones",
       "patinete 150 kg carga"
     ],
-    "readTime": 5
+    "readTime": 2
   },
   {
     "slug": "ruptor-r6",
@@ -70317,7 +70319,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "patinete 1600w",
       "ruptor r6 opiniones"
     ],
-    "readTime": 5
+    "readTime": 1
   },
   {
     "slug": "xiaomi-electric-scooter-6-essential",
@@ -71934,8 +71936,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "kugoo-kirin-s4",
-    "title": "Kugoo Kirin S4: 360 Wh y ruedas de 10\"",
-    "excerpt": "El Kugoo Kirin S4 monta 350 W, 360 Wh, 40 km declarados y neumáticos de aire de 10\" con recuperación de energía. El urbano equilibrado: lo analizamos.",
+    "title": "Kugoo Kirin S4: 360 Wh y ruedas de 10\\\\\"",
+    "excerpt": "El Kugoo Kirin S4 monta 350 W, 360 Wh, 40 km declarados y neumáticos de aire de 10\\\\\" con recuperación de energía. El urbano equilibrado: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72068,7 +72070,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "smartgyro-xtreme",
     "title": "Smartgyro Xtreme: 10 kg y 239 €",
-    "excerpt": "El Smartgyro Xtreme monta 250 W, 15 km declarados, 24 km/h y solo 10 kg por 239 €. El español ultraligero de entrada: lo analizamos.",
+    "excerpt": "El Smartgyro Xtreme monta 250 W, 154 Wh, 25 km/h y solo 10 kg por 239 €. El español ultraligero de entrada: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72352,8 +72354,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "gotrax-g3",
-    "title": "Gotrax G3: IPX6 y bloqueo digital",
-    "excerpt": "El Gotrax G3 monta 300 W (430 W de pico), 281 Wh, 29 km declarados, IPX6 y bloqueo digital. El urbano estanco: lo analizamos.",
+    "title": "Gotrax G3: IPX4 y bloqueo digital",
+    "excerpt": "El Gotrax G3 monta 300 W (430 W de pico), 281 Wh, 29 km declarados, IPX4 y bloqueo digital. Ojo con la lluvia: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72361,7 +72363,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroAlt": "Gotrax G3 en la ciudad",
     "keywords": [
       "Gotrax G3",
-      "patinete IPX6",
+      "patinete IPX4",
       "Gotrax G3 especificaciones",
       "patinete 300W",
       "patinete bloqueo digital",
@@ -72371,8 +72373,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "turboant-thunder-t1",
-    "title": "TurboAnt Thunder T1: 632 Wh off-road",
-    "excerpt": "El TurboAnt Thunder T1 monta 500 W, 632 Wh, 34 km declarados, doble suspensión e IP54. El off-road americano: lo analizamos.",
+    "title": "TurboAnt Thunder T1: 750 W y 672 Wh",
+    "excerpt": "El TurboAnt Thunder T1 es una e-bike fat con 750 W, 672 Wh y 56–97 km de autonomía pedaleando. No es un patinete: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72380,13 +72382,13 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroAlt": "TurboAnt Thunder T1 en tierra",
     "keywords": [
       "TurboAnt Thunder T1",
-      "patinete 632Wh",
+      "Thunder T1 672Wh",
       "Thunder T1 especificaciones",
       "patinete off-road",
       "TurboAnt patinete",
       "patinete 500W"
     ],
-    "readTime": 2
+    "readTime": 8
   },
   {
     "slug": "xiaomi-electric-scooter-4-pro-plus",
@@ -72410,7 +72412,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "segway-ninebot-f40e",
     "title": "Segway F40E: 25 km/h y 17,1 kg",
-    "excerpt": "El Segway Ninebot F40E monta 350 W (700 W de pico), 367 Wh, 40 km declarados, 25 km/h e IPX5. El Ninebot europeo ligero: lo analizamos.",
+    "excerpt": "El Segway Ninebot F40E monta 350 W, 367 Wh, 40 km declarados, 25 km/h e IPX5. El Ninebot europeo ligero: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72448,7 +72450,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "segway-ninebot-e25e",
     "title": "Segway E25E: 25 km/h y 14,4 kg",
-    "excerpt": "El Segway Ninebot E25E monta 300 W (700 W de pico), 215 Wh, 25 km declarados y 14,4 kg. El clásico europeo: lo analizamos.",
+    "excerpt": "El Segway Ninebot E25E monta 300 W, 215 Wh, 25 km declarados y 14,4 kg. El clásico europeo: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72467,7 +72469,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "okai-neon",
     "title": "Okai Neon: diseño con IPX5",
-    "excerpt": "El Okai Neon monta 250 W (500 W de pico), 350 Wh, 40 km declarados, IPX5 y diseño LED. El urbano con estilo: lo analizamos.",
+    "excerpt": "El Okai Neon monta 300 W (600 W de pico), 353 Wh, 40 km declarados, IPX5 y diseño LED. El urbano con estilo: lo analizamos.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -72477,7 +72479,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Okai Neon",
       "patinete Okai",
       "Neon especificaciones",
-      "patinete 350Wh",
+      "patinete 353Wh",
       "patinete IPX5",
       "patinete diseño"
     ],
@@ -77108,6 +77110,156 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "bmw-serie-7-2027-precio-autonomia-carwow",
+    "title": "BMW Serie 7 2027: 728 km de autonomía y desde 121.400 €",
+    "excerpt": "El BMW Serie 7 2027 ya tiene precios en España: desde 121.400 € con 728 km WLTP. Seis versiones, pantalla 8K de 31,3 pulgadas y tecnología Neue Klasse.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/bmw-serie-7-2027-frontal.webp",
+    "heroAlt": "BMW Serie 7 2027, frontal con parrilla iluminada y faros divididos",
+    "keywords": [
+      "BMW Serie 7 2027 precio",
+      "BMW Serie 7 2027 autonomía",
+      "BMW i7 50 xDrive",
+      "BMW Serie 7 2027 ficha técnica",
+      "Carwow BMW Serie 7",
+      "BMW Serie 7 2027 España"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "lexus-tz-espana-precio-88-000-euros-2026",
+    "title": "Lexus TZ: 6 plazas y 540 km desde 88.000 € en España",
+    "excerpt": "El Lexus TZ ya se vende en España desde 88.000 €: SUV eléctrico de 5,10 m con 6 plazas, hasta 540 km WLTP, batería de 95,8 kWh y tracción total.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/lexus-tz-2026-verde-gaia.webp",
+    "heroAlt": "Lexus TZ en color Verde Gaia, frontal tres cuartos",
+    "keywords": [
+      "Lexus TZ precio",
+      "Lexus TZ España",
+      "Lexus TZ ficha técnica",
+      "Lexus TZ 450e",
+      "Lexus TZ 550e",
+      "SUV eléctrico 6 plazas"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "omoda-x-prototipo-presentacion-wuhu-2026",
+    "title": "Omoda X: SUV chino con cámara térmica y alma off-road",
+    "excerpt": "Omoda presenta el X: prototipo SUV de estética mecha con cámara térmica de 90 m y versiones híbridas, enchufables y eléctricas. Sin precio aún.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/omoda-x-2026-trasera.webp",
+    "heroAlt": "Omoda X, vista trasera tres cuartos con firma lumínica en forma de rayo",
+    "keywords": [
+      "Omoda X",
+      "Omoda X precio",
+      "Omoda X ficha técnica",
+      "Omoda X 2026",
+      "nuevo SUV Omoda",
+      "Omoda prototipo"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "lexus-lfa-ev-espia-espana-prototipo-2027",
+    "title": "Lexus LFA eléctrico: cazado en España con cambio simulado",
+    "excerpt": "El prototipo del Lexus LFA eléctrico, cazado en España con camuflaje: tira LED trasera, alerón activo y cambio simulado patentado. Llegada en 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/lexus-lfa-ev-concept-trasera.webp",
+    "heroAlt": "Lexus Electrified Sport concept, vista trasera con tira LED",
+    "keywords": [
+      "Lexus LFA eléctrico",
+      "Lexus LFA EV",
+      "LFA EV 2027",
+      "Lexus LFA fotos espía",
+      "Lexus deportivo eléctrico"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "xpeng-p7-nueva-generacion-europa-confirmado-2026",
+    "title": "XPeng P7: confirmado en Europa, 594 CV y 820 km de autonomía",
+    "excerpt": "XPeng confirma el nuevo P7 en Europa: berlina de 5 m, hasta 594 CV, 820 km CLTC y carga 800 V del 10 al 80 % en 11 min. Precio aún sin anunciar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/xpeng-p7-2025-nueva-generacion-europa-hero.webp",
+    "heroAlt": "XPeng P7 de nueva generación, berlina eléctrica deportiva vista tres cuartos delantera",
+    "keywords": [
+      "XPeng P7 Europa",
+      "nuevo XPeng P7 precio",
+      "XPeng P7 594 CV",
+      "XPeng P7 autonomía 820 km",
+      "berlina eléctrica china Europa",
+      "XPeng P7 vs Tesla Model 3"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "mg2-electrico-2027-ferrol-precio",
+    "title": "MG2: el eléctrico de 4 metros que se fabricará en Ferrol",
+    "excerpt": "MG lanzará en 2027 su utilitario eléctrico de 4 m y 5 puertas, rival del Renault 5. Se ensamblará en la planta SAIC de Ferrol desde finales de 2028.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/mg2-2027-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "MG Go concept, adelanto del futuro MG2 eléctrico, vista tres cuartos delantera",
+    "keywords": [
+      "MG2 precio",
+      "MG2 eléctrico 2027",
+      "MG2 fábrica Ferrol",
+      "MG2 vs Renault 5",
+      "MG Go concept",
+      "coche eléctrico fabricado en España"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "cupra-raval-vz-custom-abt-2026-pedidos",
+    "title": "Cupra Raval VZ Custom by ABT: 226 CV y estética de carreras",
+    "excerpt": "El Cupra Raval VZ Custom by ABT ya admite pedidos: 226 CV, 386 km y pack aerodinámico inspirado en el UrbanRebel. Precio del pack, por anunciar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/cupra-raval-vz-custom-abt-2026-hero.webp",
+    "heroAlt": "Cupra Raval VZ Custom by ABT, utilitario eléctrico con kit aerodinámico ABT y llantas negras de 19 pulgadas",
+    "keywords": [
+      "Cupra Raval ABT",
+      "Raval VZ Custom precio",
+      "Cupra Raval 226 CV",
+      "Raval by ABT pedidos",
+      "Cupra Raval autonomía"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "nissan-z-kaze-concept-t-top-2026",
+    "title": "Nissan Z Kaze: techo T-top y llantas NISMO para el Z",
+    "excerpt": "Nissan presenta el Z Kaze en la ZCON 2026: techo T-top, color Pacific Teal, llantas NISMO LMGT2 restauradas y piezas GReddy. Homenaje al tuning de los 90.",
+    "category": "Novedades Motor",
+    "date": "2026-10-22",
+    "locale": "all",
+    "heroSrc": "/media/nissan-z-kaze-concept-2026-hero.webp",
+    "heroAlt": "Nissan Z Kaze concept en color Pacific Teal con techo T-top, vista tres cuartos delantera",
+    "keywords": [
+      "Nissan Z Kaze",
+      "Nissan Z T-top",
+      "Z Kaze concept",
+      "Nissan ZCON 2026",
+      "NISMO LMGT2",
+      "Nissan Z descapotable"
+    ],
+    "readTime": 3
+  },
+  {
     "slug": "omoda-x-2027-suv-chino-vadea-70-cm",
     "title": "OMODA X 2027: el SUV chino de 4,65 m que vadea 70 cm",
     "excerpt": "OMODA presenta el X en China: SUV campero de 4,65 m con 70 cm de vadeo, tracción total e híbrido enchufable. Visión nocturna térmica y producción en 2027.",
@@ -77126,6 +77278,177 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Chery International User Summit"
     ],
     "readTime": 6
+  },
+  {
+    "slug": "lepas-aura-concept-2026-presentacion",
+    "title": "Lepas Aura: el concept car que adelanta el futuro de Chery",
+    "excerpt": "LEPAS presenta el Aura, su primer concept car: familiar plateado con pantalla en el frontal que proyecta imágenes y faros de leopardo.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/lepas-aura-concept-2026-hero.webp",
+    "heroAlt": "Lepas Aura concept car, familiar plateado con pantalla frontal en la presentación de Wuhu",
+    "keywords": [
+      "Lepas Aura",
+      "Lepas Aura concept",
+      "Lepas concept car 2026",
+      "Aura Chery",
+      "Lepas diseño leopardo",
+      "LEPAS Global Elegance Night"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "lepas-l6-primeras-pruebas-385-km-autonomia",
+    "title": "Lepas L6: 385 km de autonomía real en sus primeras pruebas",
+    "excerpt": "Auto Express prueba el Lepas L6 en China: 385 km de autonomía real (450 km WLTP), interior de gran calidad y puesta a punto por mejorar.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/lepas-l6-pruebas-2026-hero.webp",
+    "heroAlt": "Lepas L6 naranja, vista delantera tres cuartos en estudio",
+    "keywords": [
+      "Lepas L6 pruebas",
+      "Lepas L6 autonomía real",
+      "Lepas L6 385 km",
+      "Lepas L6 opinión",
+      "Lepas L6 España precio",
+      "Lepas L6 Auto Express"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "lexus-tz-2026-precio-ficha-tecnica",
+    "title": "Lexus TZ: SUV eléctrico de 6 plazas desde 88.000 €",
+    "excerpt": "El Lexus TZ ya se vende en España: SUV eléctrico de 6 plazas, hasta 540 km de autonomía, tracción total y precios oficiales desde 88.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/lexus-tz-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Lexus TZ 550e eléctrico, vista delantera tres cuartos",
+    "keywords": [
+      "Lexus TZ precio España",
+      "Lexus TZ 2026",
+      "Lexus TZ autonomía",
+      "Lexus TZ 450e",
+      "Lexus TZ 550e",
+      "Lexus TZ 6 plazas"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "lepas-aura-concept-2026-precio-ficha-tecnica",
+    "title": "Lepas Aura: el concept shooting brake de 3 puertas",
+    "excerpt": "Lepas, la marca de Chery, presenta el Aura: un concept shooting brake de 3 puertas con frontal 'enfadado' de inspiración Audi. Sin fecha de producción.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/lepas-aura-concept-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Lepas Aura Concept, vista lateral del shooting brake de 3 puertas en el escenario de presentación",
+    "keywords": [
+      "Lepas Aura concept",
+      "Lepas Aura shooting brake",
+      "Lepas Chery nuevo modelo",
+      "Lepas Aura precio",
+      "Lepas marca España",
+      "Lepas Aura producción"
+    ],
+    "readTime": 5
+  },
+  {
+    "slug": "chery-volt-dragon-carga-1440-kw",
+    "title": "Chery Volt-Dragon: 1.440 kW para 500 km en 5 minutos",
+    "excerpt": "Chery presenta la carga Volt-Dragon de 1.440 kW: 500 km en 5 minutos y 20.000 estaciones para 2029. Guerra de la megacarga con BYD y CATL.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/chery-volt-dragon-carga-1440-kw-hero.webp",
+    "heroAlt": "Estación de carga rápida de Chery con dos coches eléctricos",
+    "keywords": [
+      "Chery Volt-Dragon",
+      "carga 1440 kW",
+      "carga ultrarrápida coche eléctrico",
+      "Chery 500 km 5 minutos",
+      "estaciones carga Chery 2029",
+      "BYD Flash Charging CATL Shenxing"
+    ],
+    "readTime": 3
+  },
+  {
+    "slug": "toyota-corolla-60-aniversario-2026-precio",
+    "title": "Toyota Corolla 60 Aniversario: 35.550 €, ¿qué trae?",
+    "excerpt": "Toyota lanza el Corolla 60 Aniversario desde 35.550 €: edición especial ECO, 1.750 € más que el Style, por los 9,5 millones de Corollas vendidos en Europa.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/toyota-corolla-60-aniversario-2026-precio-hero.webp",
+    "heroAlt": "Toyota Corolla 60 Aniversario rojo junto al Corolla original de 1966",
+    "keywords": [
+      "Toyota Corolla 60 aniversario precio",
+      "Corolla edición especial 2026",
+      "Toyota Corolla 35.550 euros",
+      "Corolla Style 60 Aniversario",
+      "Toyota Corolla etiqueta ECO",
+      "Corolla 9,5 millones Europa"
+    ],
+    "readTime": 2
+  },
+  {
+    "slug": "audi-q9-2026-precio-ficha-tecnica",
+    "title": "Audi Q9 2026: precio desde 108.400 €, 299 CV diésel",
+    "excerpt": "El Audi Q9 estrena los paneles OLED digitales curvos, primicia mundial anunciada hoy por Audi: 5,31 m, 7 plazas, V6 TDI de 299 CV y precio desde 108.400 €.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/audi-q9-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Audi Q9 2026 en azul Waitomo, vista delantera tres cuartos",
+    "keywords": [
+      "Audi Q9 precio",
+      "Audi Q9 2026",
+      "Audi Q9 ficha técnica",
+      "Audi Q9 OLED",
+      "Audi Q9 diésel 299 CV",
+      "Audi Q9 7 plazas"
+    ],
+    "readTime": 7
+  },
+  {
+    "slug": "bmw-ix7-2027-precio-ficha-tecnica",
+    "title": "BMW iX7 2027: el SUV eléctrico de 7 plazas, cazado",
+    "excerpt": "El BMW iX7, primer SUV eléctrico de 7 plazas de BMW, cazado en Nürburgring: parrilla ancha, faros divididos y debut previsto para mediados de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-23",
+    "locale": "all",
+    "heroSrc": "/media/bmw-ix7-2027-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "BMW iX7 prototipo camuflado en Nürburgring",
+    "keywords": [
+      "BMW iX7 2027",
+      "BMW iX7 precio",
+      "BMW iX7 ficha técnica",
+      "BMW iX7 fotos espía",
+      "BMW iX7 autonomía",
+      "BMW X7 eléctrico 2027"
+    ],
+    "readTime": 4
+  },
+  {
+    "slug": "bentley-torcal-first-edition-2026-precio-ficha-tecnica",
+    "title": "Bentley Torcal First Edition: 888 CV y 603 km de autonomía",
+    "excerpt": "Bentley desvela la First Edition del Torcal, su primer coche 100 % eléctrico: 888 CV, 1.350 Nm, batería de 113 kWh con hasta 603 km de autonomía y carga de 400 kW. El precio aún no es oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-10-24",
+    "locale": "all",
+    "heroSrc": "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Bentley Torcal First Edition, primer eléctrico de Bentley, vista tres cuartos delantera en blanco",
+    "keywords": [
+      "Bentley Torcal First Edition",
+      "Bentley Torcal precio",
+      "Bentley Torcal ficha técnica",
+      "Bentley eléctrico 888 CV",
+      "Torcal First Edition autonomía",
+      "Bentley Torcal 2026"
+    ],
+    "readTime": 9
   },
   {
     "slug": "radical-sr1-xxr-2025-precio-ficha-tecnica",
@@ -78998,10 +79321,10 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica",
-    "title": "Skoda Kodiaq iV: 121 km eléctricos desde 38.375 €",
-    "excerpt": "El Skoda Kodiaq iV PHEV de 204 CV ofrece hasta 121 km eléctricos, etiqueta Cero y 910 L de maletero desde 38.375 €.",
+    "title": "Škoda Kodiaq 2026: Laurin & Klement y PHEV de 200 kW",
+    "excerpt": "Novedad 23/10/2026: el Skoda Kodiaq suma el acabado tope Laurin & Klement y un PHEV de 200 kW (272 CV) con 25,7 kWh y carga DC de 50 kW.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/skoda-kodiaq-iv-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     "heroAlt": "Skoda Kodiaq iV cargando en punto doméstico",
@@ -79011,9 +79334,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "kodiaq iv autonomía eléctrica",
       "kodiaq phev 204 cv",
       "suv híbrido enchufable 7 plazas",
-      "kodiaq iv etiqueta cero"
+      "kodiaq iv etiqueta cero",
+      "kodiaq laurin klement",
+      "kodiaq phev 272 cv"
     ],
-    "readTime": 3
+    "readTime": 5
   },
   {
     "slug": "skoda-scala-10-tsi-2026-precio-ficha-tecnica",
@@ -79239,7 +79564,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "title": "smart #2 2026: el biplaza eléctrico vuelve a París",
     "excerpt": "El smart #2 se presenta el 12 de octubre en París: biplaza eléctrico con batería CATL de 35,8 kWh, 290 km WLTP y 82 CV. Desde 19.990 € (Pure).",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
     "heroAlt": "smart #2 rojo, trasera tres cuartos con la insignia #2",
@@ -81587,8 +81912,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "volkswagen-id-tiguan-2026-precio-ficha-tecnica",
-    "title": "Volkswagen ID. Tiguan: 454 km por 32.400 €",
-    "excerpt": "Precio y ficha del Volkswagen ID. Tiguan: SUV eléctrico de 190 CV, 454 km WLTP, batería de 58 kWh y etiqueta Cero desde 32.400 €.",
+    "title": "Volkswagen ID. Tiguan: desde 39.590 € con 454 km en España",
+    "excerpt": "Precio y ficha del Volkswagen ID. Tiguan: SUV eléctrico de 190 CV, 454 km WLTP, batería de 58 kWh y etiqueta Cero. Configurador abierto en España desde 39.590 €.",
     "category": "Novedades Motor",
     "date": "2026-10-11",
     "locale": "all",
@@ -81599,11 +81924,11 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ID. Tiguan autonomía",
       "ID. Tiguan ficha técnica",
       "SUV eléctrico Volkswagen 2027",
-      "ID. Tiguan 32.400",
+      "ID. Tiguan 39.590",
       "sustituto ID.4",
-      "ID. Tiguan preventa"
+      "ID. Tiguan configurador España"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "volvo-ex90-2025-precio-ficha-tecnica",

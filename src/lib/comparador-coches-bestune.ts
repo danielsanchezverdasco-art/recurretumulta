@@ -290,7 +290,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
       "0-100 en 9,8 s: prestaciones justitas",
       "Etiqueta C, sin hibridación disponible",
       "Consumo de 7,1-7,5 l/100 km en uso real",
-      "Red de concesionarios aún en construcción en Europa",
+      "Red de concesionarios aún en despliegue en Europa",
       "Diseño veterano: el modelo es de 2018",
     ],
     imagen: "/media/bestune-t77-2026-precio-ficha-tecnica-hero.webp",

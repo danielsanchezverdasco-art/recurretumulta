@@ -8,96 +8,30 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import EtiquetaDGT from "@/components/EtiquetaDGT.tsx";
 import { fmtMiles } from "@/lib/formato.ts";
+import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
+// Categorías reales por pestaña (orden Grok 23/10/2026): cada pestaña posee
+// EXACTAMENTE un dataset y los contadores salen de los datos, no de literales.
+// Ver src/lib/fichas-categorias.ts (causa raíz: COCHES_COMPARADOR mezcla
+// campers y autocaravanas entre los coches; allí viven también las
+// correcciones de v455 de 20-21/10/2026 sobre qué ficha va a qué pestaña).
 import {
-  COCHES_COMPARADOR,
-  type CocheComparador,
-} from "@/lib/comparador-coches-data.ts";
-// 20/10/2026 (arreglos borrador 2 — bug 2): COCHES_COMPARADOR mezcla fichas
-// que NO son coches: los arrays CAMPERS_* (33 fichas de campers/autocaravanas
-// con forma de coche) y 8 autocaravanas del lote 16. Por eso las pestañas de
-// Coches/Motos/Patinetes enseñaban autocaravanas y el filtro de marcas de
-// Coches incluía Adria, Benimar, Carado, Chausson, Hobby, McLouis, Pössl y
-// Roller Team. Sus páginas viven en /coches/<id>/ (no se pierde ninguna),
-// pero en este hub cada una va a SU pestaña: campers → Campers,
-// autocaravanas del lote 16 → Autocaravanas.
-import { CAMPERS_ADRIA } from "@/lib/comparador-campers-adria.ts";
-import { CAMPERS_BUERSTNER } from "@/lib/comparador-campers-buerstner.ts";
-import { CAMPERS_CAMPEREVE } from "@/lib/comparador-campers-campereve.ts";
-import { CAMPERS_CHAUSSON } from "@/lib/comparador-campers-chausson.ts";
-import { CAMPERS_DREAMER } from "@/lib/comparador-campers-dreamer.ts";
-import { CAMPERS_FONT_VENDOME } from "@/lib/comparador-campers-font-vendome.ts";
-import { CAMPERS_FORD } from "@/lib/comparador-campers-ford.ts";
-import { CAMPERS_GRUPO4 } from "@/lib/comparador-campers-grupo4.ts";
-import { CAMPERS_HYMER } from "@/lib/comparador-campers-hymer.ts";
-import { CAMPERS_JAPONESAS } from "@/lib/comparador-campers-japonesas.ts";
-import { CAMPERS_LAIKA_SUNLIGHT } from "@/lib/comparador-campers-laika-sunlight.ts";
-import { CAMPERS_MAN_FORD } from "@/lib/comparador-campers-man-ford.ts";
-import { CAMPERS_NIKY_ESPANOLAS } from "@/lib/comparador-campers-niky.ts";
-import { CAMPERS_PILOTE } from "@/lib/comparador-campers-pilote.ts";
-import { CAMPERS_POSSL } from "@/lib/comparador-campers-possl.ts";
-import { CAMPERS_RAPIDO } from "@/lib/comparador-campers-rapido.ts";
-import { CAMPERS_ROLLER_OTROS } from "@/lib/comparador-campers-roller-otros.ts";
-import { CAMPERS_SPRINTER } from "@/lib/comparador-campers-sprinter.ts";
-import { CAMPERS_VOLKSWAGEN } from "@/lib/comparador-campers-volkswagen.ts";
-import { CAMPERS_VW } from "@/lib/comparador-campers-vw.ts";
-import { CAMPERS_WESTFALIA } from "@/lib/comparador-campers-westfalia.ts";
-const IDS_CAMPERS_EN_COCHES = new Set<string>(
-  [
-    CAMPERS_ADRIA, CAMPERS_BUERSTNER, CAMPERS_CAMPEREVE, CAMPERS_CHAUSSON,
-    CAMPERS_DREAMER, CAMPERS_FONT_VENDOME, CAMPERS_FORD, CAMPERS_GRUPO4,
-    CAMPERS_HYMER, CAMPERS_JAPONESAS, CAMPERS_LAIKA_SUNLIGHT, CAMPERS_MAN_FORD,
-    CAMPERS_NIKY_ESPANOLAS, CAMPERS_PILOTE, CAMPERS_POSSL, CAMPERS_RAPIDO,
-    CAMPERS_ROLLER_OTROS, CAMPERS_SPRINTER, CAMPERS_VOLKSWAGEN, CAMPERS_VW,
-    CAMPERS_WESTFALIA,
-  ].flatMap((arr) => arr.map((f) => f.id))
-);
-// 21/10/2026 (bug filtro RV, partición estricta por tipo): campers reales que
-// viven en arrays de coches genéricos y no en los CAMPERS_* — sin esto caían
-// en la pestaña Coches. Y dos furgones camper que estaban en el conjunto de
-// autocaravanas del lote 16 (Pössl Summit 600 y Hobby Vantana son camper,
-// no autocaravanas: salían en AMBAS pestañas según la ficha gemela).
-for (const id of [
-  "possl-summit-600-2026",
-  "hobby-vantana-2026",
-  "volkswagen-california-t7-2026-precio-ficha-tecnica",
-  "volkswagen-caddy-california-2025",
-  "volkswagen-grand-california-2026",
-  "volkswagen-california-ehybrid-2026",
-  "ford-transit-custom-nugget-2025",
-  "ford-transit-nugget-plus-2025",
-  "ford-transit-custom-nugget-2026-precio-ficha-tecnica",
-  "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica",
-  "ford-transit-custom-nugget-plus-2026-precio-ficha-tecnica",
-]) IDS_CAMPERS_EN_COCHES.add(id);
-const IDS_AUTOCARAVANAS_LOTE16 = new Set<string>([
-  "benimar-mileo-286-2026",
-  "adria-matrix-supreme-2026",
-  "mclouis-menfys-2026",
-  "chausson-640-2026",
-  "roller-team-zefiro-696-2026",
-  "carado-t-447-2026",
-  // 21/10/2026: Adria Matrix Supreme 670 SL es una perfilada (autocaravana)
-  // aunque su ficha vive en el array CAMPERS_ADRIA — salía en Campers.
-  "adria-matrix-supreme-670-sl-2026-precio-ficha-tecnica",
-]);
+  COCHES_FICHAS,
+  MOTOS_FICHAS,
+  PATINETES_FICHAS,
+  CAMPERS_FICHAS,
+  AUTOCARAVANAS_FICHAS,
+  CARAVANAS_FICHAS,
+  CONTEOS_FICHAS,
+  type FichaRv,
+  type TabFichas,
+} from "@/lib/fichas-categorias.ts";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 // Fecha real de publicación de cada ficha (scripts/gen-fichas-fechas.mjs)
 import FICHAS_FECHAS from "@/lib/fichas-fechas.generated.json";
 const FECHAS = FICHAS_FECHAS as Record<string, string>;
 const tsFicha = (id: string) => (FECHAS[id] ? Date.parse(FECHAS[id]) : 0);
-import {
-  MOTOS_PUBLICADAS,
-  type MotoComparador,
-} from "@/lib/comparador-motos-data.ts";
-import {
-  PATINETES_PUBLICADOS,
-  type PatineteComparador,
-} from "@/lib/comparador-patinetes-data.ts";
-// Autocaravanas y campers: índice consolidado (src/lib/autocaravanas/index.ts)
-import { AUTOCARAVANAS } from "@/lib/autocaravanas";
-// 20/10/2026 (merlin-caravanas-rutas-v4): pestaña Caravanas con las 72
-// fichas de src/lib/caravanas (ruta /caravanas/<slug>/ ya cableada).
-import { CARAVANAS } from "@/lib/caravanas";
+import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
+import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { Caravana } from "@/lib/caravanas/tipos.ts";
 import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
 import { normalizarEtiquetaDgt } from "@/components/EtiquetaDGT.tsx";
@@ -166,6 +100,7 @@ type FichaCard = {
   foto: string | null;
   fotoAlt: string;
   precio: number | null;
+  precioAprox: boolean;
   badge: string;
   etiquetaDgt: string | null;
   specs: Array<{ v: string; l: string }>;
@@ -180,18 +115,23 @@ const ES_ELECTRICO_COCHE = /eléctrico|enchufable|autonomía extendida/i;
 // 4 dígitos (5800 → «5800 €») y las motos salían sin separador de miles.
 const fmtPrecio = (v: number | null) =>
   v == null ? "Precio no disponible" : fmtMiles(v) + " €";
+// Precio de tarjeta: con ≈ cuando el dato es aproximado (orden Grok).
+const fmtPrecioCard = (f: FichaCard) =>
+  f.precioAprox && f.precio != null ? `≈ ${fmtPrecio(f.precio)}` : fmtPrecio(f.precio);
+const esPrecioAprox = (r: unknown) => {
+  const aprox = (r as { aprox?: unknown }).aprox;
+  return Array.isArray(aprox) && aprox.includes("precioDesde");
+};
 const fmtNum = (v: number | null, suf: string) =>
   v == null ? "—" : `${String(v).replace(".", ",")} ${suf}`;
 
-function cocheACard(c: CocheComparador): FichaCard {
-  // Recategorización (bug 2): las fichas de origen camper/autocaravana que
-  // viven en el catálogo de coches van a su pestaña, no a la de Coches.
-  // 21/10/2026: el conjunto de autocaravanas manda sobre el de campers
-  // (la Matrix Supreme 670 SL vive en un array CAMPERS_* pero es perfilada).
-  const esAutocaravana = IDS_AUTOCARAVANAS_LOTE16.has(c.id);
-  const esCamper = !esAutocaravana && IDS_CAMPERS_EN_COCHES.has(c.id);
+type KindCoche = "coche" | "camper" | "autocaravana";
+const BADGE_RV: Record<KindCoche, string | null> = { coche: null, camper: "Camper", autocaravana: "Autocaravana" };
+// kind = pestaña dueña del dataset de origen (ver TODAS): las filas camper/
+// autocaravana del catálogo de coches mantienen su ruta /coches/<id>/.
+function cocheACard(c: CocheComparador, kind: KindCoche = "coche"): FichaCard {
   return {
-    kind: esCamper ? "camper" : esAutocaravana ? "autocaravana" : "coche",
+    kind,
     id: c.id,
     marca: marcaCanon(c.marca),
     modelo: c.modelo,
@@ -200,7 +140,8 @@ function cocheACard(c: CocheComparador): FichaCard {
     foto: c.imagenOficial || c.imagen || null,
     fotoAlt: `${c.marca} ${c.modelo}`,
     precio: c.precioDesde,
-    badge: esCamper ? "Camper" : esAutocaravana ? "Autocaravana" : c.tipo,
+    precioAprox: false,
+    badge: BADGE_RV[kind] ?? c.tipo,
     etiquetaDgt: etiquetaCanon(c.etiquetaDgt),
     specs: [
       { v: fmtNum(c.potenciaCv, "CV"), l: "potencia" },
@@ -233,6 +174,7 @@ function motoACard(m: MotoComparador): FichaCard {
     foto: m.imagen ?? null,
     fotoAlt: `Foto oficial de la ${m.marca} ${m.modelo}`,
     precio: m.precioDesde,
+    precioAprox: false,
     badge: m.categoria,
     etiquetaDgt: etiquetaCanon(m.etiquetaDgt),
     specs: [
@@ -264,6 +206,7 @@ function patineteACard(p: PatineteComparador): FichaCard {
     foto: p.foto || null,
     fotoAlt: `Patinete eléctrico ${p.marca} ${p.modelo}`,
     precio: p.precioEur,
+    precioAprox: false,
     badge: p.certificadoDgt === true ? "Certificado DGT" : "Patinete",
     etiquetaDgt: null,
     specs: [
@@ -309,6 +252,7 @@ function autocaravanaACard(a: Autocaravana): FichaCard {
     foto: a.imagenOficial || a.imagen || null,
     fotoAlt: `${a.marca} ${a.modelo}`,
     precio: a.precioDesde,
+    precioAprox: esPrecioAprox(a),
     badge: ETIQUETA_TIPO_AUTO[a.tipo] ?? a.tipo,
     etiquetaDgt: etiquetaCanon(a.etiquetaDgt),
     specs: [
@@ -334,10 +278,9 @@ function autocaravanaACard(a: Autocaravana): FichaCard {
   };
 }
 
-// Dedupe por ruta: el catálogo de coches trae un id repetido
-// (buerstner-campeo-c-600 viene en dos arrays CAMPERS_*) y sin esto la
-// misma tarjeta salía dos veces y el contador del título no cuadraba
-// con la suma real de fichas únicas.
+// (El dedupe de ids repetidos —p. ej. buerstner-campeo-c-600, que viene en
+// dos arrays CAMPERS_*— se hace ahora en src/lib/fichas-categorias.ts, para
+// que contador = tarjetas reales.)
 function caravanaACard(a: Caravana): FichaCard {
   return {
     kind: "caravana",
@@ -349,6 +292,7 @@ function caravanaACard(a: Caravana): FichaCard {
     foto: a.imagenOficial || a.imagen || null,
     fotoAlt: `${a.marca} ${a.modelo}`,
     precio: a.precioDesde,
+    precioAprox: esPrecioAprox(a),
     badge: "Caravana",
     etiquetaDgt: null, // las caravanas no llevan etiqueta DGT (remolque sin motor)
     specs: [
@@ -368,20 +312,23 @@ function caravanaACard(a: Caravana): FichaCard {
   };
 }
 
-const _rutasVistas = new Set<string>();
-const TODAS: FichaCard[] = [
-  ...COCHES_COMPARADOR.map(cocheACard),
-  ...MOTOS_PUBLICADAS.map(motoACard),
-  ...PATINETES_PUBLICADOS.map(patineteACard),
-  ...AUTOCARAVANAS.map(autocaravanaACard),
-  ...CARAVANAS.map(caravanaACard),
-].filter((f) => {
-  if (_rutasVistas.has(f.ruta)) return false;
-  _rutasVistas.add(f.ruta);
-  return true;
-});
+const rvACard = (r: FichaRv, kind: "camper" | "autocaravana"): FichaCard =>
+  r.origen === "coches"
+    ? cocheACard(r.ficha, kind)
+    : { ...autocaravanaACard(r.ficha), kind };
 
-type Tab = "coche" | "moto" | "patinete" | "autocaravana" | "camper" | "caravana";
+// Cada tarjeta recibe el `kind` de la pestaña dueña de su dataset:
+// imposible que una ficha salga en una pestaña que no es la suya.
+const TODAS: FichaCard[] = [
+  ...COCHES_FICHAS.map((c) => cocheACard(c)),
+  ...MOTOS_FICHAS.map(motoACard),
+  ...PATINETES_FICHAS.map(patineteACard),
+  ...AUTOCARAVANAS_FICHAS.map((r) => rvACard(r, "autocaravana")),
+  ...CAMPERS_FICHAS.map((r) => rvACard(r, "camper")),
+  ...CARAVANAS_FICHAS.map(caravanaACard),
+];
+
+type Tab = TabFichas;
 const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "coche", label: "Coches", plural: "coches" },
   { id: "moto", label: "Motos", plural: "motos" },
@@ -390,6 +337,9 @@ const TABS: Array<{ id: Tab; label: string; plural: string }> = [
   { id: "camper", label: "Campers", plural: "campers" },
   { id: "caravana", label: "Caravanas", plural: "caravanas" },
 ];
+// Solo se muestran las pestañas cuyo dataset real tiene fichas: el contador
+// sale de CONTEOS_FICHAS (calculado de los arrays de datos, nunca literales).
+const TABS_VISIBLES = TABS.filter((t) => (CONTEOS_FICHAS[t.id] ?? 0) > 0);
 
 const SELECT_CLASE =
   "w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20";
@@ -446,7 +396,7 @@ function TarjetaFicha({ ficha }: { ficha: FichaCard }) {
               {ficha.modelo}
             </h3>
             <p className="text-base font-extrabold tracking-tight text-[#cd001d] sm:text-lg">
-              {fmtPrecio(ficha.precio)}
+              {fmtPrecioCard(ficha)}
             </p>
             <div className="grid grid-cols-3 rounded-lg bg-gray-100 py-1.5 text-center">
               {ficha.specs.map((s, i) => (
@@ -704,8 +654,8 @@ export default function FichasTecnicasPage() {
           role="tablist"
           aria-label="Tipo de vehículo"
         >
-          {TABS.map((t) => {
-            const n = TODAS.filter((f) => f.kind === t.id).length;
+          {TABS_VISIBLES.map((t) => {
+            const n = CONTEOS_FICHAS[t.id];
             const activa = tab === t.id;
             return (
               <button
@@ -899,7 +849,7 @@ export default function FichasTecnicasPage() {
               >
                 <span className="block text-sm font-extrabold text-gray-900">{nombre}</span>
                 <span className="mt-0.5 block text-xs text-gray-500">
-                  {TODAS.filter((f) => f.kind === kind).length} fichas →
+                  {CONTEOS_FICHAS[kind]} fichas →
                 </span>
               </Link>
             ))}

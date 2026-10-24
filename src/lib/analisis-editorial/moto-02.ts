@@ -616,7 +616,7 @@ export const ANALISIS_MOTO_02: MapaAnalisis = {
   "cyclone-battlo": {
     parrafos: [
       "La Cyclone Battlo 125 es la naked deportiva del catálogo español de la marca, y su motor es su mejor carta de presentación: refrigeración líquida, doble árbol de levas y 4 válvulas para 15 CV, de lo más avanzado entre las 125 chinas. Con ABS de serie, caja de 6 marchas y homologación Euro 5+, su ficha técnica no tiene complejos.",
-      "Por 2.880 € incluye 3 años de garantía oficial, un respaldo serio para una marca aún poco conocida en España. Los 149 kilos la hacen algo pesada para una 125, y el depósito de 13 litros es justo, con revisiones oficiales cada 3.000 km o un año, más frecuentes que la media. Como primera naked deportiva del A1 con tecnología de moto grande, su propuesta es honesta: mucho motor por poco dinero, a cambio de asumir una red comercial en construcción.",
+      "Por 2.880 € incluye 3 años de garantía oficial, un respaldo serio para una marca aún poco conocida en España. Los 149 kilos la hacen algo pesada para una 125, y el depósito de 13 litros es justo, con revisiones oficiales cada 3.000 km o un año, más frecuentes que la media. Como primera naked deportiva del A1 con tecnología de moto grande, su propuesta es honesta: mucho motor por poco dinero, a cambio de asumir una red comercial en despliegue.",
     ],
     veredicto: "Para el A1 que priorice la mecánica avanzada por poco dinero; no para quien busque marca consolidada.",
   },

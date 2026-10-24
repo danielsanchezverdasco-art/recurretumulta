@@ -7,7 +7,7 @@
 // añadidos `descripcion`, `plazasDormir` y `notas`.
 // NOTA DE NOMENCLATURA: el «726 EB» no existe en la gama Integra Line GT (el EB es de la Profila T);
 // el integral de camas gemelas oficial 2026 es el IL 726 EF, que es el que se ficha aquí.
-// Eura Mobil no publica PVP de fábrica: precioDesde en null, sin inventar.
+// Eura Mobil no publica PVP de fábrica: sin precio oficial publicado, sin inventar.
 // FOTOS OFICIALES + curiosidades (agente F5, 19/10/2026): 1 ext + 2 int oficiales de prensa del fabricante.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 

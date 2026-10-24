@@ -691,7 +691,7 @@ export const ANALISIS_MOTO_08: MapaAnalisis = {
   "morbidelli-t502x-2026-ficha-tecnica-precio": {
     parrafos: [
       "La T502X de 2026 sube la apuesta sin subir el precio: 47,6 CV en el límite legal del A2, 198 kg en orden de marcha y TFT de 7 pulgadas con conectividad y navegación, por los mismos 5.390 € de 2025. Presentada en EICMA 2024 como rival de la Honda NX500, la Morbidelli de Qianjiang —grupo de Benelli y QJMotor— afina su trail estrella. Los cinco mil trescientos noventa euros la mantienen como una de las trail A2 mejor equipadas por su tarifa.",
-      "La red sigue siendo pequeña en pleno relanzamiento y los 45 Nm van justos con pasajero y equipaje: los peajes de una marca en construcción frente a las japonesas asentadas. Con red aún pequeña, conviene tener un concesionario cerca antes de decidir.",
+      "La red sigue siendo pequeña en pleno relanzamiento y los 45 Nm van justos con pasajero y equipaje: los peajes de una marca en despliegue frente a las japonesas asentadas. Con red aún pequeña, conviene tener un concesionario cerca antes de decidir.",
       "Frente a la 2025, más potencia y menos peso por el mismo dinero: la 2026 es la compra lógica salvo liquidación agresiva de la anterior. El mismo A2 que quiere lo máximo por su dinero. El salto frente a la 2025 —más potencia, menos peso, mismo precio— la convierte en la opción lógica de la gama.",
     ],
     veredicto: "Más potente y ligera que la 2025 por el mismo precio; la 2026 es la compra lógica.",

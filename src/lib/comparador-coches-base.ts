@@ -495,7 +495,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Con la batería agotada gasta 7-7,5 l/100 km reales, lejos del 1,7 homologado",
       "Maletero de 471 L mejorable para sus 4,77 metros",
       "Suspensión muy orientada al confort, algo blanda en secundarias",
-      "Marca joven: red de posventa en construcción y valor residual incierto",
+      "Marca joven: red de posventa en despliegue y valor residual incierto",
     ],
     largoMm: 4775,
     anchoMm: 1920,
@@ -595,7 +595,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Prestaciones justas del gasolina: 10,2 s en el 0-100",
       "Maletero oficial de 442 L: mejorable frente a rivales como el MG ZS",
       "El EV pesa 1.785 kg, 265 kg más que el gasolina",
-      "Competencia feroz (MG ZS) y red de posventa aún en construcción",
+      "Competencia feroz (MG ZS) y red de posventa aún en despliegue",
     ],
     largoMm: 4380,
     anchoMm: 1860,
@@ -688,7 +688,7 @@ export const COCHES_BASE: CocheComparador[] = [
       "Maletero de 430 L, justo para un SUV de 4,52 m",
       "La curva de carga cae con fuerza a partir del 90%",
       "Dinámica orientada al confort: no es para quien busque reacciones vivas",
-      "Marca recién llegada (octubre 2024): red y valor residual en construcción",
+      "Marca recién llegada (octubre 2024): red y valor residual en despliegue",
       "El precio promo de 22.500 € exige financiación y ayudas",
     ],
     largoMm: 4515,
@@ -1174,6 +1174,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
+      "Nueva versión de 60 kWh (CATL) con 560 km CLTC desde el 23/10/2026, con el mismo tamaño de batería",
       "Tracción trasera en el segmento B: diversión garantizada",
       "335 L de maletero + 92 L de frunk: aprovechamiento de 10",
       "Batería intercambiable (Power Swap) cuando llegue la red",
@@ -1229,6 +1230,123 @@ export const COCHES_BASE: CocheComparador[] = [
         "alt": "Interior del NIO Firefly, salpicadero claro",
         "ancho": 1200,
         "alto": 800
+      }
+    ],
+  },
+  {
+    id: "dacia-bigster-hybrid-precio-espana",
+    mantenimientoDIY: {
+        resetAceiteTitulo: "Resetear aviso de cambio de aceite",
+        resetAceitePasos: ["Da el contacto sin arrancar el motor.", "Con el botón del ordenador de a bordo (en la palanca derecha o en los mandos del volante), navega por el menú hasta la pantalla de 'intervalo de revisión' / 'autonomía de revisión'.", "Mantén pulsado el botón OK durante unos 10 segundos, hasta que la indicación parpadee y quede fija con el nuevo intervalo.", "Quita el contacto y vuelve a darlo para comprobar que el aviso ha desaparecido."],
+        resetAceiteNota: "Bigster Hybrid 155: mismo sistema que Duster Hybrid.",
+        intervaloMantenimiento: "30.000 km o 2 años",
+        filtroPolenUbicacion: "Lado del acompañante, bajo la guantera, junto a la consola central",
+        filtroPolenPasos: ["Echa hacia atrás al máximo el asiento del acompañante.", "Localiza bajo el salpicadero, en el lado del copiloto junto a la consola central, la tapa del cajetín del filtro.", "Levanta la patilla inferior de la tapa y tira de la empuñadura para extraer el filtro usado en el sentido de la flecha.", "Introduce el filtro nuevo empezando por la parte superior, cierra la tapa y devuelve el asiento a su posición."],
+        filtroAirePasos: ["Abre el capó y localiza la caja del filtro de aire.", "Suelta las fijaciones de la tapa (clips o tornillos).", "Extrae el filtro usado, limpia el alojamiento y coloca el filtro nuevo en la misma orientación.", "Cierra la tapa, fija las grapas y cierra el capó."],
+        videoTutorialUrl: "https://www.youtube.com/watch?v=YqwYEZNCcUU",
+        videoTutorialTitulo: "Cómo resetear luz de servicio en Dacia o Renault Logan 2, Sandero Stepway 2, Lodgy, Dokker, Duster",
+    },
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/dacia-bigster-hybrid-precio-espana-oficial.webp",
+    imagenInteriorOficial: "/media/dacia-bigster-hybrid-precio-espana-interior-oficial.webp",
+    videoId: "Kmp-y-nU954",
+    videoCanal: "coches.net",
+    marca: "Dacia",
+    modelo: "Bigster Hybrid 155",
+    tipo: "Híbrido",
+    categoria: "SUV",
+    precioDesde: 29420,
+    potenciaCv: 156,
+    autonomiaKm: null,
+    maleteroL: 546,
+    ceroCien: 9.7,
+    velocidadMax: 180,
+    bateriaKwh: 1.4,
+    cargaRapidaKw: null,
+    etiquetaDgt: "ECO",
+    pros: [
+      "29.390 €: el C-SUV híbrido más barato del mercado",
+      "546 L de maletero (1.851 L abatidos) y 220 mm de altura libre",
+      "Consumo de 4,6 l/100 km con etiqueta ECO",
+      "Componentes del sistema híbrido fabricados en Valladolid",
+      "Gama completa: gasolina, GLP, híbrido y 4x4 Tribrid",
+    ],
+    contras: [
+      "156 CV y 9,7 s de 0-100: prestaciones justas",
+      "Etiqueta ECO, no CERO: pagará en las ZBE más estrictas",
+      "Interior espartano: plásticos duros en los acabados de acceso",
+      "Solo 5 plazas: sin opción de 7 como otros C-SUV",
+      "Alta demanda: puede haber lista de espera en algunas versiones",
+    ],
+    largoMm: 4570,
+    anchoMm: 1813,
+    altoMm: 1711,
+    pesoKg: 1419,
+    consumo: 4.6,
+    consumoUnidad: "l/100 km",
+    plazas: 5,
+    parNm: 205,
+    traccion: "Delantera",
+    emisionesCo2: 105,
+    aprox: [],
+    imagen: "/media/dacia-bigster-hybrid-precio-espana-hero.webp",
+    opiniones: [
+      {
+        "texto": "Acabo de venir de probar el bigster y la verdad que no me ha gustado nada, a la que he salido a autovia vibraba se notaba mucho el ruido",
+        "usuario": "Kickass",
+        "fuente": "forocoches",
+        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
+      },
+      {
+        "texto": "Contras: poca potencia, motor nuevo, peores acabados, es un dacia",
+        "usuario": "Kickass",
+        "fuente": "forocoches",
+        "url": "https://forocoches.com/foro/showthread.php?t=10645056"
+      },
+      {
+        "texto": "El espacio longitudinal atrás me recordó a mí Ibiza 6l, espacio de utilitario.",
+        "usuario": "juanma-ax",
+        "fuente": "forocoches",
+        "url": "https://forocoches.com/foro/showthread.php?t=8390114&page=10"
+      },
+      {
+        "texto": "Según salimos del concesionario, a los 10 km el coche se paró, se bloqueó dirección, se bloquearon frenos, y se paró en seco",
+        "usuario": "Propietario anónimo (Trustpilot)",
+        "fuente": "trustpilot",
+        "url": "https://es.trustpilot.com/review/dacia.es"
+      }
+    ],
+    costeMensual: {
+      "costeEnergia100km": 8.5,
+      "seguroTercerosAnual": 450,
+      "seguroAmpliadoAnual": 800,
+      "mantenimientoAnual": 350,
+      "costeMensualTotal": 202,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.85,
+      "notas": "consumo WLTP declarado (l/100 km); gasolina 95 aprox 1,85 EUR/l",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-2.webp",
+        "alt": "Dacia Bigster Hybrid 4x4, vista lateral",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/dacia-bigster-hybrid-precio-espana-oficial-3.webp",
+        "alt": "Dacia Bigster Hybrid 155 Journey, vista tres cuartos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/dacia-bigster-hybrid-precio-espana-interior-oficial-2.webp",
+        "alt": "Interior del Dacia Bigster, salpicadero",
+        "ancho": 1200,
+        "alto": 795
       }
     ],
   },
@@ -2009,7 +2127,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 167,
     etiquetaDgt: "Cero",
     pros: ["La carga en continua de hasta 167 kW pasa del 30 al 80 % en unos 18 minutos: para una batería de solo 51,87 kWh, eso convierte una parada de viaje en un café y no en una espera larga.", "El maletero no es un número vacío: 500 litros, doble fondo de 72 litros bajo el piso y un frunk delantero de 49 litros como accesorio, con respaldos 60/40 que lo dejan en 1.040 litros.", "El precio que se anuncia en España, 26.615 € al contado, baja de un PVP de 29.990 € gracias a la campaña de lanzamiento y al adelanto del Programa Auto+, y aun así mantiene de serie cámara de 360º y asientos eléctricos con memoria, calefacción y ventilación.", "La batería es LFP de 51,87 kWh, una química elegida por durabilidad y coste, y la cubre una garantía de propulsión de 10 años sin límite de kilómetros; el coche completo tiene 7 años o 300.000 km.", "Con 4,31 metros y una batalla de 2,72 metros, deja unas plazas traseras desahogadas y con el suelo plano para ser el coche principal, no solo el segundo coche de casa."],
-    contras: ["El anzuelo de 26.615 € no es el precio de tarifa: sin campaña ni Programa Auto+ son 29.990 €, y financiado baja a 24.500 € a costa de entrada y 36 meses de cuotas, así que hay que comparar el coste final y no el cartel.", "Los 340 km WLTP combinados dan para el día a día, pero para viajar obligan a planificar paradas; los 521 km que a veces se destacan son solo la cifra en ciclo urbano, no la mixta.", "No consta todavía una prueba Euro NCAP propia del Vigo y la red española está en construcción, con 25 concesionarios anunciados y la meta de 30 a finales de 2026: comprar hoy es también apostar por esa expansión.", "Hay un único acabado y solo se elige el color; además, las primeras pruebas en España señalan una dirección con demasiada desmultiplicación y unas ayudas a la conducción intrusivas a ritmo alto."],
+    contras: ["El anzuelo de 26.615 € no es el precio de tarifa: sin campaña ni Programa Auto+ son 29.990 €, y financiado baja a 24.500 € a costa de entrada y 36 meses de cuotas, así que hay que comparar el coste final y no el cartel.", "Los 340 km WLTP combinados dan para el día a día, pero para viajar obligan a planificar paradas; los 521 km que a veces se destacan son solo la cifra en ciclo urbano, no la mixta.", "No consta todavía una prueba Euro NCAP propia del Vigo y la red española está en despliegue, con 25 concesionarios anunciados y la meta de 30 a finales de 2026: comprar hoy es también apostar por esa expansión.", "Hay un único acabado y solo se elige el color; además, las primeras pruebas en España señalan una dirección con demasiada desmultiplicación y unas ayudas a la conducción intrusivas a ritmo alto."],
     largoMm: 4310,
     anchoMm: null,
     altoMm: null,

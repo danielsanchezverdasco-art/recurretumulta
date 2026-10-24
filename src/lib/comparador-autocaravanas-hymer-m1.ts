@@ -8,7 +8,7 @@
 // Correcciones aplicadas: eliminado el bloque costeMensual; añadidos descripcion
 // (>=800 palabras por ficha, con ángulos y estructuras diferentes), notas y
 // plazasDormir; analisisSlug actualizado a -analisis-opinion; fotos renombradas a
-// -ext.webp (prohibido «-oficial» en m1); cargaUtilKg en null (no publicada);
+// -ext.webp (prohibido «-oficial» en m1); carga útil sin dato publicado (no publicada);
 // precio del B-MC I 600 corregido a 141.000 € («desde» oficial de la gama B-MC I en
 // Alemania, nota de prensa Hymer) y plazas del ML-T 580 4x4 a 4 (dato oficial).
 // Precios en «aprox»: son PVP recomendado en Alemania y pueden diferir en España.

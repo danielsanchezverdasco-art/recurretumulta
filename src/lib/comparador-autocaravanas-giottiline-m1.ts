@@ -6,7 +6,7 @@
 // especializada, no la portada de la marca); eliminado el bloque `costeMensual`;
 // `analisisSlug` nuevo; añadidos `descripcion`, `plazasDormir` y `notas`.
 // Giottiline no publica PVP ni ficha técnica detallada del Siena 322 para 2026:
-// precioDesde en null; pesoKg en «aprox» (dato no oficial · en revisión).
+// sin precio oficial publicado; pesoKg en «aprox» (dato no oficial · en revisión).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [

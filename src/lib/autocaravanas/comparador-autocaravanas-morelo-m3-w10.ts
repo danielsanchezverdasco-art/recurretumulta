@@ -112,7 +112,7 @@ página oficial de la gama Loft en morelo-reisemobile.de, consultada el 19/10/20
 la serie y las plazas, de la ficha de alpacacamping.de. El layout "82 LB" asignado no existe en la
 documentación oficial actual, por lo que se sustituyó por el 82 M, con plano oficial publicado. La
 longitud exacta del layout y la altura total no las publica Morelo (solo el rango de la gama,
-7,99–8,39 m) y quedan en null, igual que la carga útil, el consumo y las emisiones.
+7,99–8,39 m) y quedan sin dato, igual que la carga útil, el consumo y las emisiones.
 
 Para quién es: para quien sueña con un liner alemán de verdad —construcción de bastidor, doble
 suelo técnico, central eléctrica testada por VDE— sin subir al medio millón de euros de las gamas

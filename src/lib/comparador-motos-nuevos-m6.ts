@@ -4,7 +4,7 @@
 // Datos verificados el 2026-10-09 en webs oficiales de las marcas, motofichas.com,
 // motorbikemag.es, hibridosyelectricos.com, soymotero.net, motos.net, tarifas
 // oficiales España y prensa del motor.
-// Cero cifras inventadas: lo no verificado va como null con explicación honesta.
+// Cero cifras inventadas: lo no verificado va sin dato, con explicación honesta.
 // EuroNCAP no evalúa motocicletas ni ciclomotores: no existen estrellas para
 // ninguno de estos modelos (se indica en cada artículo).
 // Descartadas durante la investigación: Vespa Sprint 150 2025 (la versión 150 no
@@ -177,6 +177,89 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
       ],
       costeAnualAproxEur: null,
       fuente: "SYM España: sin plan de mantenimiento publicado para el Cruisym 125",
+    },
+  },
+  {
+    id: "kymco-agility-125-2025-ficha-tecnica-precio",
+    marca: "Kymco",
+    modelo: "Agility S 125",
+    version: "Agility S 125 2025",
+    categoria: "Scooter",
+    precioDesde: 2350,
+    potenciaKw: 8.2,
+    potenciaCv: 11,
+    cilindradaCc: 125,
+    autonomiaKm: null,
+    autonomiaCiclo: null,
+    bateriaKwh: null,
+    velocidadMax: null,
+    ceroCincuenta: null,
+    pesoKg: 133,
+    plazas: 2,
+    carnet: "A1",
+    carga: null,
+    etiquetaDgt: "C",
+    aprox: [],
+    pros: [
+      "2.350 €: uno de los 125 de rueda alta más baratos del mercado español",
+      "Consumo de 2,1 l/100 km: con 7 litros de depósito supera los 330 km de autonomía",
+      "Rueda delantera de 16 pulgadas: aplomo y precisión entre el tráfico, ideal para el carnet B",
+      "Iluminación Full LED y dos tomas USB (una en el contrascudo y otra en el cofre)",
+      "Suelo plano y asiento a dos alturas: cómodo y práctico para el día a día",
+      "2.310 unidades matriculadas en el primer semestre de 2026: el 8.º dos ruedas más vendido de España",
+      "Motor Euro5+ de 2 válvulas, sencillo y barato de mantener",
+    ],
+    contras: [
+      "11 CV: el menos potente de esta comparativa, justo en cuestas con pasajero",
+      "Frenada combinada CBS en lugar de ABS (el ABS llegó con el Agility NX 2026)",
+      "Instrumentación LCD básica sin conectividad ni pantalla a color",
+      "Diseño continuista: la estética apenas ha cambiado en años",
+      "Depósito de 7 litros, justo frente a los 12 del Cruisym o los 9 del SR GT",
+      "Asiento a 800 mm: algo alto para los conductores más bajos",
+    ],
+    curiosidades: [
+      "La familia Agility supera las 100.000 unidades matriculadas en España desde 2009",
+      "Kymco la define con la etiqueta 'Green Power' por la reducción del 21% en el consumo",
+      "Es el scooter que sostiene las ventas de Kymco en España año tras año",
+      "El Agility NX 125 de cuarta generación (2026) lo releva con ABS y control de tracción por 2.490 €",
+    ],
+    imagen: "/media/motos/kymco-agility-125-2025-ficha-tecnica-precio-oficial.webp",
+    galeria: [
+      {
+        src: "/media/motos/kymco-agility-125-2025-ficha-tecnica-precio-oficial-2.webp",
+        alt: "Kymco Agility S 125 2025 marrón, vista de perfil lateral",
+        ancho: 1200,
+        alto: 800,
+      },
+      {
+        src: "/media/motos/kymco-agility-125-2025-ficha-tecnica-precio-oficial-3.webp",
+        alt: "Kymco Agility S 125 2025 blanco, vista frontal en tres cuartos",
+        ancho: 1200,
+        alto: 800,
+      },
+    ],
+    videoId: null,
+    videoCanal: null,
+    fuenteNombre: "moteo.es y motofichas.com — Kymco Agility S 125 2025 (2.350 €)",
+    fuenteUrl: "https://moteo.es/kymco-agility-s-125-2025-ficha-tecnica-precio-y-fotos/",
+    analisisSlug: "kymco-agility-125-2025-ficha-tecnica-precio",
+    mantenimientoDIY: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado por Kymco España (consultado 09/10/2026); se recomienda inspección anual",
+      revisiones: [
+        {
+          nombre: "Inspección anual recomendada",
+          queSeCambia: "Aceite y filtro, filtro de aire, bujía, correa de transmisión y reglaje de válvulas (2 válvulas)",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Frenos y neumáticos",
+          queSeCambia: "Pastillas de los discos de 260 y 240 mm y neumáticos 100/80-16 y 120/70-14 según desgaste",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco España: sin plan de mantenimiento publicado para el Agility S 125",
     },
   },
   {

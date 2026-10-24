@@ -35,6 +35,7 @@
     "/calculadora-consumo-camper",
     "/equivalencia-neumaticos-itv",
     "/valor-venal-vehiculo",
+    "/guias",
     "/guias/radares",
     "/guias/patinetes-electricos",
     "/guias/zbe",
@@ -198,7 +199,13 @@
     "/terminos",
     "/cookies",
     "/aviso-legal",
-    "/contacto"
+    "/contacto",
+    "/multas/bilbao",
+    "/multas/ceuta",
+    "/multas/melilla",
+    "/multas/san-sebastian",
+    "/multas/vitoria",
+    "/patinetes/turboant-thunder-t1"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",

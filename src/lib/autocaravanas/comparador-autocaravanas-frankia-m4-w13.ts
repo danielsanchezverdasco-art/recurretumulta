@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       "depósito diésel 90 L, agua limpia 150 L / residuales 130 L: exposés de " +
       "caraworld.de y alpacacamping.de de unidades del modelo. precioDesde=null: " +
       "Frankia no publica tarifa oficial en España. carnetNecesario=C1 por la MMA " +
-      "de 5.000 kg. cargaUtilKg=null: no publicada por la marca. Fotos: 4 oficiales  Precio: se deja en null porque el Titan I 840 GD no figura como tal en la Preisliste oficial vigente de Frankia localizada (2026); sin tarifa oficial vigente verificable para esta designación." +
+      "de 5.000 kg. cargaUtilKg=null: no publicada por la marca. Fotos: 4 oficiales  Precio: se deja sin dato porque el Titan I 840 GD no figura como tal en la Preisliste oficial vigente de Frankia localizada (2026); sin tarifa oficial vigente verificable para esta designación." +
       "del folleto Frankia Titan 2023.",
     curiosidades:
       "Frankia es una empresa del grupo Pilote, el gigante francés de las " +
@@ -111,7 +111,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       las capacidades de agua salen de los exposés de caraworld.de y alpacacamping.de
       correspondientes a unidades del I 840 GD. La denominación «I 8400 GD» sin apellido
       pertenece a generaciones anteriores de la marca, así que se reemplazó por el Titan I
-      840 GD vigente, tal como figura en el manifest. El precio queda en null porque
+      840 GD vigente, tal como figura en el manifest. El precio queda sin dato porque
       Frankia no publica tarifa oficial en España.
 
       Para quién es: el Titan I 840 GD cuadra con parejas o familias que buscan un integral
@@ -167,7 +167,7 @@ export const AUTOCARAVANAS_FRANKIA_M4: Autocaravana[] = [
       caraworld.de y alpacacamping.de de unidades del I 840 GD. La denominación
       «I 8400 GD» sin apellido corresponde a generaciones antiguas de la marca, por
       lo que se sustituyó por el Titan I 840 GD actual, como consta en el manifest.
-      El precio queda en null porque Frankia no publica tarifa oficial en España.
+      El precio queda sin dato porque Frankia no publica tarifa oficial en España.
 
       Para quién es: el Titan I 840 GD encaja con parejas o familias que quieren un
       integral grande con camas gemelas, doble suelo y 5 toneladas de MMA sin subir

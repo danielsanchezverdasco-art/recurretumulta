@@ -1,6 +1,6 @@
 // Autocaravanas Campérêve — lote Merlín 4 (18/10/2026), corrección b/c/d (22:15).
 // Campérêve no publica la ficha técnica completa del Magellan 643: fuenteNombre/
-// fuenteUrl en null. VERIFICACIÓN 18/10/2026: descripcion propia ≥800 palabras añadida
+// fuenteUrl sin dato. VERIFICACIÓN 18/10/2026: descripcion propia ≥800 palabras añadida
 // (antes excluida del primer lote, orden Grok 22:15). Correcciones: eliminado
 // costeMensual; campos de concesionario/prensa en «aprox» con nota
 // «dato no oficial · en revisión»; añadidos notas y plazasDormir (null);

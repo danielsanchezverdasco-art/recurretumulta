@@ -571,7 +571,7 @@ export const ANALISIS_PATINETE_01: MapaAnalisis = {
   "fluid-mosquito": {
     parrafos: [
       "El Mosquito hace honor a su nombre: 500 vatios nominales en 13 kg, un peso pluma con motor serio, con 461 Wh que declaran 30 kilómetros y alrededor de 19 kilómetros reales calculados a 25 km/h de máxima. Es el formato para quien lo carga a pulso a diario: metro, oficina, piso sin ascensor.",
-      "La ficha, sin embargo, está en construcción: sin datos oficiales de frenos, cubiertas, peso máximo admitido ni tiempo de carga, sin certificado DGT verificado y con PVP en dólares no oficial. Trece kilos son una gran noticia; la letra pequeña, menos.",
+      "La ficha, sin embargo, está en despliegue: sin datos oficiales de frenos, cubiertas, peso máximo admitido ni tiempo de carga, sin certificado DGT verificado y con PVP en dólares no oficial. Trece kilos son una gran noticia; la letra pequeña, menos.",
       "Si Fluid completa la ficha y aclara la homologación, será un ultraligero a considerar; hoy es una promesa con buena base. Los 461 Wh en 13 kg son una densidad notable: mucha energía en poco peso, la receta del ultraligero bien resuelto. A 25 km/h de máxima, es potencia contenida en formato mínimo.",
     ],
     veredicto: "Para el que cuenta cada kilo y puede esperar; no para la compra inmediata.",

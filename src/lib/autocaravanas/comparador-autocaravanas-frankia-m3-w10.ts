@@ -10,7 +10,7 @@
 // por el Frankia F-Line I 680 SG, layout vigente con ficha de expositor 2026 verificada.
 // Notas honestas: precio ES no publicado (guía UK £130.530); potencia por layout no publicada
 // (gama F-Line en Fiat Ducato 140/180 CV); carga útil de 1.110 kg según la ficha del expositor
-// (no dato de marca), por lo que cargaUtilKg queda en null.
+// (no dato de marca), por lo que cargaUtilKg queda sin dato.
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_FRANKIA_M3: Autocaravana[] = [
@@ -60,8 +60,8 @@ export const AUTOCARAVANAS_FRANKIA_M3: Autocaravana[] = [
       "catálogo oficial vigente de la gama F-Line (los layouts de 7 m son I 680, I 680 SG y I 680 PLUS, " +
       "según el catálogo 'F-Line Experience'); se sustituye por el I 680 SG. La potencia por layout no " +
       "la publica Frankia (la gama F-Line monta Fiat Ducato 2.2 de 140/180 CV); la carga útil de 1.110 kg " +
-      "procede de la ficha del expositor, no de la marca, y queda en null. Sin tarifa oficial para España:  Precio: se deja en null porque la designación I 680 SG no figura en la Preisliste oficial vigente de Frankia (2026: la gama F-Line 680 se ofrece como I 680 PLUS); sin tarifa oficial vigente verificable para esta designación." +
-      "precioDesde en null. Carnet C1 obligatorio (4.500 kg).",
+      "procede de la ficha del expositor, no de la marca, y queda sin dato. Sin tarifa oficial para España:  Precio: se deja sin dato porque la designación I 680 SG no figura en la Preisliste oficial vigente de Frankia (2026: la gama F-Line 680 se ofrece como I 680 PLUS); sin tarifa oficial vigente verificable para esta designación." +
+      "sin precio oficial publicado. Carnet C1 obligatorio (4.500 kg).",
     curiosidades:
       "Frankia ofrece 11 años de garantía contra la entrada de agua gracias a su construcción Thermo Guard Plus (fuente: prueba del Frankia Together I 740 Plus en Out & About Live, https://www.outandaboutlive.co.uk/motorhomes/reviews/frankia-together-i-740-plus-motorhome). " +
       "La construcción Thermo Guard Plus (PRFV resistente al granizo y ventanas Seitz S7 enrasadas), una de las garantías de " +
@@ -115,7 +115,7 @@ oficial de Frankia en el NEC 2026 (PDF descargado y leído el 19/10/2026); la vi
 I 680 SG y las características de la gama (4,5 t, redondel, doble suelo), del catálogo oficial
 "F-Line Experience"; la garantía de 11 años y la construcción Thermo Guard Plus, de la prueba de
 Out & About Live. El "I 680 QD" asignado no existe en el catálogo vigente y se sustituyó por el
-I 680 SG. Quedan en null el precio en España, la potencia por layout, la carga útil de marca, el
+I 680 SG. Quedan sin dato el precio en España, la potencia por layout, la carga útil de marca, el
 consumo y las emisiones, por no estar publicados.
 
 Para quién es: para parejas que quieren una integral premium compacta, con la calidad de

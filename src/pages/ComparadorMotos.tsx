@@ -392,6 +392,12 @@ export default function ComparadorMotosPage() {
       />
 
       <main className="mx-auto max-w-5xl px-4 pb-24 pt-6 sm:px-6">
+        {/* Migas de pan visibles (23/10/2026) */}
+        <nav aria-label="Migas de pan" className="mb-4 flex items-center gap-1.5 text-xs text-gray-500">
+          <Link to="/" className="hover:text-gray-900">Inicio</Link>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page" className="text-gray-900">Comparador de motos</span>
+        </nav>
         <div className="mb-4 flex justify-end">
           <CompartirBotones
             titulo="Comparador de motos eléctricas"

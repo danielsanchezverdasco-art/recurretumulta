@@ -9,7 +9,7 @@
 // datos verificables, por lo que se mantiene (la verificación por nota de prensa está permitida).
 // Notas honestas: precio ES no publicado (en UK partía de £84.500-85.000 en 2024); altura total no
 // publicada para este layout; carga útil de 485 kg publicada por la prensa (MMM), no por la marca,
-// por lo que cargaUtilKg queda en null.
+// por lo que cargaUtilKg queda sin dato.
 // Fotos: imágenes de marketing oficiales de Pilote reutilizadas en el anuncio de alquiler verificado
 // del modelo exacto (2024 Pilote A696G Atlas); se marcan como no oficiales por honestidad.
 import type { Autocaravana } from "./tipos.ts";
@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_PILOTE_M3B: Autocaravana[] = [
       "diferencial de deslizamiento limitado mecánico, llantas negras de 16'' y neumáticos de cuatro " +
       "estaciones. En null: precio en España (no publicado; en UK partía de £84.500 en 2024), altura total, " +
       "carga útil (485 kg según la prensa, no dato de marca), consumo y emisiones. Fotos: imágenes de " +
-      "marketing de Pilote del modelo exacto, obtenidas del anuncio verificado de una unidad 2024; se  Precio: se deja en null porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable." +
+      "marketing de Pilote del modelo exacto, obtenidas del anuncio verificado de una unidad 2024; se  Precio: se deja sin dato porque Groupe Pilote no publica tarifas/PVP en abierto en sus webs oficiales (Pilote, Bavaria, Le Voyageur, Mooveo, Font Vendôme): los precios se facilitan a través de su red de concesionarios; sin PVP oficial verificable." +
       "marcan como no oficiales.",
     curiosidades:
       "El Atlas nació para celebrar el 60.º aniversario de Pilote en 2023 y supuso el regreso de la marca " +
@@ -114,7 +114,7 @@ Cómo lo verificamos: la existencia del modelo, las medidas (6,99 m, 2,19 m, 3.5
 plazas, el motor Ford de 170 CV con automático y el precio de partida en UK (£84.500-85.000 en
 2024) proceden de la presentación de la gama en Out & About Live y de su prueba completa del
 A696G, contrastadas con la web oficial de Pilote UK, todo el 19/10/2026. La altura total y la
-carga útil de marca no están publicadas (la prensa cita 485 kg de carga útil) y quedan en null;
+carga útil de marca no están publicadas (la prensa cita 485 kg de carga útil) y quedan sin dato;
 tampoco hay tarifa oficial para España. Las fotos son imágenes oficiales de marketing de Pilote del
 A696G exacto, localizadas en el anuncio verificado de una unidad de 2024, y se marcan como no
 oficiales por honestidad.

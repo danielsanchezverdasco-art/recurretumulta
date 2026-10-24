@@ -21,6 +21,7 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
   const { t } = useTranslation("common");
   const items = [
     <Link to="/blog/" className={L}>{t("nav.blog")} DGT</Link>,
+    <Link to="/guias/" className={L}>Guías</Link>,
     <Link to="/provincias/" className={L}>52 {t("nav.provinces")}</Link>,
     <Link to="/radares/" className={L}>Radares</Link>,
     <Link to="/herramientas/" className={L}>Herramientas</Link>,

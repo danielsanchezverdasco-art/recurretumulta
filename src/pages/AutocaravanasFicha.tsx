@@ -419,9 +419,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: MMA, carnet necesario, carga útil, plazas para
-            dormir y de viaje, dimensiones y precio. Si un dato no está publicado
-            por una fuente fiable, no lo mostramos en vez de inventarlo. Fuente:{" "}
+            Fuente:{" "}
             {auto.fuenteUrl ? (
               <a
                 href={auto.fuenteUrl}
@@ -493,7 +491,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
           </p>
         </section>
 

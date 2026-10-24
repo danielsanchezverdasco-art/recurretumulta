@@ -1035,7 +1035,7 @@ export const COCHES_EXP10: CocheComparador[] = [
       "Maletero de 309 litros, menor que el híbrido",
       "425 km teóricos: en autopista real baja notablemente",
       "Sin prueba EuroNCAP de la nueva generación",
-      "Red comercial Lancia aún en construcción",
+      "Red comercial Lancia aún en despliegue",
     ],
     largoMm: 4075,
     anchoMm: 1755,

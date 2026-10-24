@@ -401,10 +401,7 @@ export default function CalculadoraConsumoCamperPage() {
       </section>
 
       <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8">
-        <figure className="mb-8">
-  <video src="/media/camper-montana.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: autocaravana circulando por una carretera de montaña" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: una camper disfrutando de una carretera de montaña.</figcaption>
-</figure>
+
 <h2 className="text-2xl font-bold mb-4">Cómo se calcula el consumo de tu camper</h2>
         <ul className="space-y-4 text-slate-600">
           <li>
@@ -504,7 +501,6 @@ export default function CalculadoraConsumoCamperPage() {
         </ul>
       </section>
 
-      
               <figure className="my-8 overflow-hidden rounded-3xl border border-slate-200 shadow-sm max-w-3xl mx-auto">
           <img src="/media/file_PmAVYwZqh0sxFbR69Tkk5itK.webp" alt="Furgoneta camper con paneles solares: cálculo del consumo energético diario y la batería necesaria" width={1920} height={1280} loading="lazy" className="w-full h-auto block" />
         </figure>

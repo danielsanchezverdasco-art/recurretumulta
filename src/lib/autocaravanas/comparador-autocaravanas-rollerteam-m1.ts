@@ -5,7 +5,7 @@
 // 3.500 kg, 6 plazas para dormir, 6 cinturones —5 con automático—, Ford Transit 2.0 TDI 130 CV).
 // La gama Auto-Roller es exclusiva del mercado británico (en rollerteam.it no existe).
 // Calefacción: 6 kW gas/eléctrica (oficial; la marca "Truma Combi 6E" es de prensa).
-// Precio en España no verificado: precioDesde en null (no inventar).
+// Precio en España no verificado: sin precio oficial publicado (no inventar).
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [
@@ -146,7 +146,7 @@ Para el comprador español, la vía sensata es el mercado de ocasión británico
     },
     euroncap: null,
     notas:
-      "La marca no publica la carga útil del modelo: se muestran la MMA (3.500 kg) y la masa en orden de marcha (2.935 kg), ambas oficiales, sin calcular. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja en null porque no se ha podido verificar una tarifa oficial abierta de Roller Team para estos modelos (la marca no expone PVP por modelo en su web oficial); sin PVP oficial verificable.",
+      "La marca no publica la carga útil del modelo: se muestran la MMA (3.500 kg) y la masa en orden de marcha (2.935 kg), ambas oficiales, sin calcular. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque no se ha podido verificar una tarifa oficial abierta de Roller Team para estos modelos (la marca no expone PVP por modelo en su web oficial); sin PVP oficial verificable.",
     fuenteNombre: "Roller Team (web oficial UK, PDF especificaciones 2026)",
     fuenteUrl:
       "https://www.rollerteammotorhomes.co.uk/wp-content/uploads/sites/4/2025/06/auto-roller-tech-spec-tables-2026.pdf",

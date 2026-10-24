@@ -3,7 +3,7 @@
 // 599 × 205 × 258 cm, 140 CV, 4 personas, 3 camas —4 máx.—, masa en orden de marcha 2.750 kg,
 // MMA 3.500 kg, «Maximum payload» 241 kg publicado por la marca con nota al pie, garantía de
 // estanqueidad de 10 años, frigorífico de compresor de 95 l, Truma Combi 4, agua 102/90 l).
-// Weinsberg no publica PVP: precioDesde en null (remite al configurador/concesionario).
+// Weinsberg no publica PVP: sin precio oficial publicado (remite al configurador/concesionario).
 // F9b (19/10/2026): 4 fotos oficiales (2 ext + 2 int, web oficial weinsberg.com) + curiosidades.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 

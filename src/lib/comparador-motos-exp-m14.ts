@@ -999,7 +999,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
       "Unos 7.010 € convertidos de su tarifa británica: cara para 5,5 kW nominales",
       "Sin ABS: frenada combinada CBS",
       "Las baterías extraíbles suman peso y ocupan el hueco bajo el asiento",
-      "Red de distribución europea aún en construcción",
+      "Red de distribución europea aún en despliegue",
       "Diseño algo anodino frente a la competencia",
     ],
     curiosidades: [

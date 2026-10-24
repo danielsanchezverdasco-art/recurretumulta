@@ -317,10 +317,7 @@ export default function SenalesTraficoPage() {
             <p className="text-sm text-gray-600 leading-relaxed">
               Por eso existe el recurso: una multa por señalización es anulable si la señal no era visible, estaba deteriorada o era contradictoria. Si te ha llegado una, no la pagues a ciegas: primero comprueba si se puede recurrir.
             </p>
-            <figure>
-              <video src="/media/senales-video.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: circulación por una carretera española pasando junto a señales de tráfico" />
-              <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: señales de tráfico en una carretera española.</figcaption>
-            </figure>
+
           </section>
 
           {/* Enlaces internos + CTA */}

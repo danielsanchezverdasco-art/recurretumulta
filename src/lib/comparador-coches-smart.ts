@@ -19,6 +19,12 @@ export const COCHES_SMART: CocheComparador[] = [
     // (exterior + interior). La galería muestra solo el interior para no
     // repetir el hero. Mantenimiento: A VERIFICAR (smart aún no
     // publica el programa del #2) → costeMensual: null, sin cifras inventadas.
+    // ACTUALIZADO 23/10/2026 (radar noticias): lanzamiento confirmado el
+    // 5/11/2026 en China (410 km CLTC), pedidos ya abiertos en España desde
+    // 19.990 € (Pure), Europa en primavera de 2027 con 290 km WLTP
+    // (provisional). Galería ampliada con 3 fotos reales verificadas del
+    // modelo de producción (Wikimedia Commons Y.Leclercq CC BY-SA 4.0 +
+    // nota de prensa oficial smart).
     id: "smart-2-2026-precio-autonomia-paris",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
@@ -32,6 +38,12 @@ export const COCHES_SMART: CocheComparador[] = [
     tipo: "Eléctrico",
     categoria: "Urbano",
     precioDesde: 19990,
+    versiones: [
+      { nombre: "Pure", precio: 19990 },
+      { nombre: "Pure+", precio: 20990 },
+      { nombre: "Premium", precio: 24490 },
+      { nombre: "Couture Edition (999 uds. en Europa)", precio: 25690 },
+    ],
     potenciaCv: 82,
     autonomiaKm: 290,
     maleteroL: 305,
@@ -78,6 +90,24 @@ export const COCHES_SMART: CocheComparador[] = [
         "alt": "Interior del smart #2 con volante smart, pantalla de 10,1 pulgadas y aireadores de turbina",
         "ancho": 1280,
         "alto": 720
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-delantera.webp",
+        "alt": "Smart #2 de producción, vista delantera de tres cuartos (Salón de París 2026)",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-trasera.webp",
+        "alt": "Smart #2 de producción, vista trasera de tres cuartos",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/smart-2-2026-precio-autonomia-paris-galeria-interior2.webp",
+        "alt": "Interior del smart #2 de producción, salpicadero con doble pantalla",
+        "ancho": 1200,
+        "alto": 800
       }
     ],
     euroncap: {
@@ -704,7 +734,7 @@ export const COCHES_SMART: CocheComparador[] = [
       }
     ],
     euroncap: {"ano": 2022, "estrellas": 5, "nota": "Cinco estrellas en la prueba de 2022 de la gama #1: 96 % en ocupante adulto, 89 % en infantil, 71 % en usuarios vulnerables y 88 % en asistentes. La unidad ensayada fue la de un solo motor trasero con la batería de 66 kWh y la calificación cubre toda la gama, incluido este Pulse de dos motores", "url": "https://www.euroncap.com/en/results/smart/%231/48000"},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Intervalo: datos JATO de la gama smart #1 publicados por quecochemecompro (mantenimiento principal cada 30.000 km y 24 meses para el #1 eléctrico). smart no publica precio cerrado de la revisión en España: costes en null", "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión principal de los 30.000 km o 2 años", "queSeCambia": "En el taller revisan ambos propulsores eléctricos y el pack NMC de 66 kWh, miran pastillas, discos y gomas, comprueban el circuito de refrigeración y la electrónica de potencia y renuevan el filtro de polen; el líquido de frenos se sustituye cuando lo marque el programa de la marca. Aceite de motor no hay que cambiar: el Pulse es eléctrico puro y esa partida desaparece"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Intervalo: datos JATO de la gama smart #1 publicados por quecochemecompro (mantenimiento principal cada 30.000 km y 24 meses para el #1 eléctrico). smart no publica precio cerrado de la revisión en España: costes sin dato", "intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión principal de los 30.000 km o 2 años", "queSeCambia": "En el taller revisan ambos propulsores eléctricos y el pack NMC de 66 kWh, miran pastillas, discos y gomas, comprueban el circuito de refrigeración y la electrónica de potencia y renuevan el filtro de polen; el líquido de frenos se sustituye cuando lo marque el programa de la marca. Aceite de motor no hay que cambiar: el Pulse es eléctrico puro y esa partida desaparece"}]},
   },
   {
     id: "smart-1-brabus-2025-precio-ficha-tecnica",
@@ -1238,7 +1268,7 @@ export const COCHES_SMART: CocheComparador[] = [
       }
     ],
     euroncap: {"estrellas": 5, "ano": 2025, "url": "https://www.euroncap.com/press-media/euro-ncap-names-best-in-class-cars-tested-in-2025/", "nota": "Cinco estrellas Euro NCAP en 2025 y premio Best in Class entre los SUV grandes del año: 88 % en ocupante adulto, 93 % en infantil, 84 % en usuarios vulnerables y 92 % en asistentes. La unidad evaluada fue un #5 Pro y la calificación es la de la gama #5"},
-    planMantenimiento: {"intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes", "revisiones": [{"nombre": "Revisión principal de los 30.000 km o 2 años", "queSeCambia": "Inspección completa del tren eléctrico de dos motores y de la batería NMC de alta tensión, con control de frenos, neumáticos, refrigeración y electrónica, y sustitución del filtro del habitáculo y del líquido de frenos cuando lo marque el programa de la marca; no hay aceite de motor que cambiar porque es un eléctrico puro", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Intervalo: datos JATO de la gama smart #5 publicados por quecochemecompro para los acabados Premium y Brabus (mismo programa de mantenimiento principal para el #5). smart no publica precio cerrado de la revisión en España: costes en null"},
+    planMantenimiento: {"intervalo": "Mantenimiento principal cada 30.000 km o 24 meses, lo que ocurra antes", "revisiones": [{"nombre": "Revisión principal de los 30.000 km o 2 años", "queSeCambia": "Inspección completa del tren eléctrico de dos motores y de la batería NMC de alta tensión, con control de frenos, neumáticos, refrigeración y electrónica, y sustitución del filtro del habitáculo y del líquido de frenos cuando lo marque el programa de la marca; no hay aceite de motor que cambiar porque es un eléctrico puro", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Intervalo: datos JATO de la gama smart #5 publicados por quecochemecompro para los acabados Premium y Brabus (mismo programa de mantenimiento principal para el #5). smart no publica precio cerrado de la revisión en España: costes sin dato"},
   },
   {
     id: "smart-5-summit-edition-2025-precio-ficha-tecnica",

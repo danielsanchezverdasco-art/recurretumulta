@@ -2,6 +2,7 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import { DriveInImage } from "@/components/motion.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
+import SharedFooter from "@/components/shared-footer.tsx";
 
 const FAQ_SCHEMA = {"@context":"https://schema.org","@graph":[
 {"@type":"FAQPage","@id":"https://recurretumulta.online/guias/zbe#faq","mainEntity":[
@@ -90,10 +91,6 @@ export default function GuiaZbePage() {
         </table>
       </div>
 
-      <figure className="mb-8">
-  <video src="/media/guia-zbe.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: calle de Madrid con señal de zona de bajas emisiones" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: una zona de bajas emisiones en una ciudad española.</figcaption>
-</figure>
       <figure className="my-8">
         <img src="/media/zbe-camara-control.webp" alt="Cámara de control de tráfico en una calle de Madrid con señal de Zona de Bajas Emisiones" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>
@@ -128,6 +125,7 @@ export default function GuiaZbePage() {
       <a href="https://recurretumulta.online/" className="inline-block bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-xl transition">Analizar mi multa</a>
       </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

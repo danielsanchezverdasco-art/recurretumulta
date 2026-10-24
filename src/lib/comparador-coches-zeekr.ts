@@ -43,7 +43,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       "2.275 kg en vacío: se nota en consumos y agilidad",
       "Arquitectura de 400 V: carga más lenta que sus hermanos 800 V",
       "Radio de giro de 11,8 m: aparcar en ciudad cuesta",
-      "Marca nueva en España: red de servicio aún en construcción",
+      "Marca nueva en España: red de servicio aún en despliegue",
     ],
     largoMm: 4955,
     anchoMm: 1999,
@@ -474,7 +474,7 @@ export const COCHES_ZEEKR: CocheComparador[] = [
       },
       
     ],
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Libro oficial de garantía Zeekr (edición GCC-UAE de 30/04/2024): mantenimiento periódico cada 20.000 km o 12 meses y tabla de servicios con filtro de habitáculo a 12 meses/20.000 km, líquido de frenos a 24 meses, refrigerante a 48 meses y aceite del reductor a 40.000 km. Verificado el 22/10/2026; Zeekr no publica precios de revisión en España, por eso los costes quedan en null", "intervalo": "Cada 12 meses o 20.000 km, lo que ocurra primero (libro oficial de garantía y mantenimiento Zeekr, edición de 2024)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección 12 meses / 20.000 km", "queSeCambia": "Inspección general del vehículo y sustitución del filtro del habitáculo, que la tabla oficial de servicios sitúa cada 12 meses o 20.000 km"}, {"costeAproxEur": null, "nombre": "Líquido de frenos a los 24 meses", "queSeCambia": "Sustitución del líquido de frenos cada 24 meses según la tabla oficial de servicios Zeekr de 2024"}, {"costeAproxEur": null, "nombre": "Refrigerante y aceite del reductor", "queSeCambia": "Refrigerante cada 48 meses y aceite del reductor cada 40.000 km según la tabla oficial de servicios Zeekr de 2024"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Libro oficial de garantía Zeekr (edición GCC-UAE de 30/04/2024): mantenimiento periódico cada 20.000 km o 12 meses y tabla de servicios con filtro de habitáculo a 12 meses/20.000 km, líquido de frenos a 24 meses, refrigerante a 48 meses y aceite del reductor a 40.000 km. Verificado el 22/10/2026; Zeekr no publica precios de revisión en España, por eso los costes quedan sin dato", "intervalo": "Cada 12 meses o 20.000 km, lo que ocurra primero (libro oficial de garantía y mantenimiento Zeekr, edición de 2024)", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección 12 meses / 20.000 km", "queSeCambia": "Inspección general del vehículo y sustitución del filtro del habitáculo, que la tabla oficial de servicios sitúa cada 12 meses o 20.000 km"}, {"costeAproxEur": null, "nombre": "Líquido de frenos a los 24 meses", "queSeCambia": "Sustitución del líquido de frenos cada 24 meses según la tabla oficial de servicios Zeekr de 2024"}, {"costeAproxEur": null, "nombre": "Refrigerante y aceite del reductor", "queSeCambia": "Refrigerante cada 48 meses y aceite del reductor cada 40.000 km según la tabla oficial de servicios Zeekr de 2024"}]},
   },
   {
     id: "zeekr-009-2026-precio-ficha-tecnica",

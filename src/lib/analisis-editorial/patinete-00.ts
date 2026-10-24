@@ -522,11 +522,11 @@ Ideal para quien quiera un Dualtron de verdad con DGT y haga rutas larguísimas.
 
 Los 900 vatios para 25,6 kilos son correctos sin más, no hay precio ni tiempo de carga oficiales y al ser gama nueva hay pocos repuestos aún en España. Es una apuesta de futuro con presente a medias.
 
-Para el fan de Dualtron que quiera lo último en formato urbano y acepte la espera de repuestos. No es para quien necesite comprar con todos los datos hoy: es novedad con la red en construcción. Los intermitentes con luz de freno integrados son seguridad activa moderna en un Dualtron urbano, y el IPX5 le permite salir con lluvia sin las precauciones de modelos más delicados. Como novedad 2025, representa la dirección futura de MiniMotors en el segmento urbano: más electrónica, más seguridad activa y diseño renovado.`,
+Para el fan de Dualtron que quiera lo último en formato urbano y acepte la espera de repuestos. No es para quien necesite comprar con todos los datos hoy: es novedad con la red en despliegue. Los intermitentes con luz de freno integrados son seguridad activa moderna en un Dualtron urbano, y el IPX5 le permite salir con lluvia sin las precauciones de modelos más delicados. Como novedad 2025, representa la dirección futura de MiniMotors en el segmento urbano: más electrónica, más seguridad activa y diseño renovado.`,
 
   "dualtron-aminia-long": `El Dualtron Aminia Long Body lleva el concepto al doble motor: 1.800 vatios nominales con 65 kilómetros declarados y batería Samsung de 1.092 Wh en 30 kilos, con tubeless de 9 pulgadas, IPX5 e intermitentes delanteros y traseros de serie. Es el Aminia para quien quiere tracción total en formato urbano.
 
-Sin precio oficial en España, con frenos de tambor para 1.800 vatios donde el disco sería mejor y siendo novedad 2025 con red de repuestos en construcción, tiene sus asteriscos. Los tambores con ABS y EBS cumplen, pero no sobran.
+Sin precio oficial en España, con frenos de tambor para 1.800 vatios donde el disco sería mejor y siendo novedad 2025 con red de repuestos en despliegue, tiene sus asteriscos. Los tambores con ABS y EBS cumplen, pero no sobran.
 
 Ideal para el entusiasta Dualtron que busque doble motor urbano moderno. No es para quien exija la mejor frenada posible ni para compras con datos cerrados: es potencia doble con frenos justos. Los 1.800 vatios nominales en 30 kilos dan un empuje de doble motor sin llegar a los pesos brutales de la gama alta, y la batería Samsung de 52 voltios y 21 amperios-hora es de celdas contrastadas.`,
 

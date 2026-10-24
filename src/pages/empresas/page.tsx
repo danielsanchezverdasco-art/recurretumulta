@@ -193,6 +193,7 @@ export default function EmpresasPage() {
   return (
     <div className="min-h-screen bg-white flex flex-col">
       <SharedNavbar />
+      <main>
 
       {/* ── HERO ── */}
       <PageHero
@@ -419,6 +420,7 @@ export default function EmpresasPage() {
         </div>
       </section>
 
+      </main>
       <SharedFooter />
     </div>
   );

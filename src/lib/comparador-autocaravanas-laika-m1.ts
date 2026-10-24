@@ -11,7 +11,7 @@
 // Correcciones aplicadas: (a) descripcion propia ≥800 palabras por ficha, con «Cómo lo
 // verificamos» y «Para quién es»; (b) notas con procedencia de cada dato; (c) plazasDormir
 // investigado: 5 en ambas (2 de serie + 3 con opciones); (d) bloque costeMensual eliminado;
-// (e) cargaUtilKg en null (Laika no publica la carga útil por modelo; prohibido el cálculo
+// (e) carga útil sin dato publicado (Laika no publica la carga útil por modelo; prohibido el cálculo
 // MMA−MRO; se retiró la cifra de 638 kg calculada en la versión anterior); (f) analisisSlug
 // en formato «-analisis-opinion»; (g) fuenteNombre/fuenteUrl con PDF oficiales de laika.it;
 // (h) Ecovip 600: 71.314 € en «aprox» como «precio de tarifa en Francia»; Kosmo L 319:
@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "pesoKg"],
     notas:
-      "Precio en «aprox» porque es precio de tarifa en Francia (lista oficial Laika 2026, 71.314 €): Laika publica tarifa por país y no hay lista para España, así que el PVP español puede diferir por impuestos y política del importador. El peso (2.862 kg) es la masa en orden de marcha de la lista oficial con tolerancia ±5 % y va en «aprox» porque varía según mercado y configuración (la lista alemana indica 2.838 kg). Dimensiones, motor, plazas y camas, de las fichas técnicas oficiales de laika.it. Laika no publica la carga útil por modelo: queda en null.",
+      "Precio en «aprox» porque es precio de tarifa en Francia (lista oficial Laika 2026, 71.314 €): Laika publica tarifa por país y no hay lista para España, así que el PVP español puede diferir por impuestos y política del importador. El peso (2.862 kg) es la masa en orden de marcha de la lista oficial con tolerancia ±5 % y va en «aprox» porque varía según mercado y configuración (la lista alemana indica 2.838 kg). Dimensiones, motor, plazas y camas, de las fichas técnicas oficiales de laika.it. Laika no publica la carga útil por modelo: queda sin dato.",
     curiosidades:
       "Laika publicaba en su propia web el precio del Ecovip 600 desglosado por país —70.502 € en Italia, 68.768 € en Alemania, 71.314 € en Francia, 69.924 € en España, 87.573 € en Holanda…—, una transparencia tarifaria casi inédita entre los fabricantes europeos de autocaravanas, que suelen ocultar el precio tras el concesionario. Fuente: página oficial del modelo en laika.it (captura de 2025 en Wayback Machine): https://web.archive.org/web/2025/https://www.laika.it/en/product-range/ecovip/campervans/",
     descripcion: `Hay un gesto que dice mucho de una marca en el mundo de las campers: publicar el precio. Laika lo hace. Mientras la mayoría de fabricantes europeos esconden sus tarifas detrás del configurador del concesionario, Laika publica listas oficiales de precios por país, con cada modelo, cada opción y cada pack tarifado a la vista de todos. El Ecovip 600 de 2026 cuesta 71.314 euros según la lista oficial francesa, y esa cifra —con el asterisco de que es tarifa de Francia y no de España— permite hacer algo casi imposible en este sector: comparar con números reales antes de pisar un concesionario. Esa transparencia es el primer argumento del Ecovip 600, y no es casualidad: es la seña de identidad de una marca toscana que lleva décadas construyendo autocaravanas y que ha decidido competir también en honestidad comercial.

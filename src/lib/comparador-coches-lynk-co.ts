@@ -98,7 +98,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
   {
     id: "lynk-co-08-phev-2025-precio-ficha-tecnica",
     garantiaBateriaAnos: 8,
-    garantiaBateriaKm: 150000,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useSeo } from "@/hooks/use-seo.ts";
-import { Shield, ArrowLeft } from "lucide-react";
+import { Shield } from "lucide-react";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
@@ -27,9 +27,12 @@ export default function PrivacidadPage() {
       <SharedNavbar />
 
       <main className="max-w-3xl mx-auto px-4 pt-[73px] pb-12 space-y-8">
-        <Link to="/" className="inline-flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-800 transition-colors">
-          <ArrowLeft className="w-3.5 h-3.5" /> Volver al inicio
-        </Link>
+        {/* Migas de pan visibles (23/10/2026) */}
+        <nav aria-label="Migas de pan" className="flex items-center gap-1.5 text-xs text-gray-500">
+          <Link to="/" className="hover:text-gray-900">Inicio</Link>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page" className="text-gray-900">Política de Privacidad</span>
+        </nav>
 
         <div className="space-y-3">
           <div className="flex items-center gap-3">

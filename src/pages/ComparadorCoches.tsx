@@ -542,6 +542,12 @@ export default function ComparadorCochesPage() {
       />
 
       <main className="mx-auto max-w-5xl px-3 pb-16 sm:px-4">
+        {/* Migas de pan visibles (23/10/2026) */}
+        <nav aria-label="Migas de pan" className="flex items-center gap-1.5 pt-4 text-xs text-gray-500">
+          <Link to="/" className="hover:text-gray-900">Inicio</Link>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page" className="text-gray-900">Comparador de coches</span>
+        </nav>
         <div className="mt-4 flex justify-end">
           <CompartirBotones
             titulo="Comparador de coches eléctricos e híbridos"

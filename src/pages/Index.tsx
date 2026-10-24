@@ -951,7 +951,7 @@ function $() {
           children: (0, B.jsx)(ae, {}),
         }),
       (0, B.jsx)(u, { ctaMode: `scroll` }),
-      (0, B.jsxs)(`div`, {
+      (0, B.jsxs)(`main`, {
         className: `pt-[49px]`,
         children: [
           (0, B.jsxs)(`div`, {

@@ -29,6 +29,7 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
@@ -215,7 +216,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           precioAprox: patinete.aprox.includes("precioEur"),
           historial,
         }),
-        category: "Patinete eléctrico (VMP)",
+        category: patinete.avisoCategoria ?? "Patinete eléctrico (VMP)",
         description: [geo.frases.join(" "), patinete.veredicto].filter(Boolean).join(" "),
         ...(patinete.pesoKg != null && {
           weight: {
@@ -342,7 +343,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
               {patinete.marca}
             </span>
             <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-semibold text-gray-700">
-              Patinete eléctrico (VMP)
+              {patinete.avisoCategoria ?? "Patinete eléctrico (VMP)"}
             </span>
             <span
               className={`rounded-full px-3 py-1 text-xs font-semibold ${
@@ -355,6 +356,15 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             </span>
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          {/* 24/10/2026 (Grok decisión 2): aviso de categoría bien visible arriba de la ficha. */}
+          {patinete.avisoCategoria && (
+            <div className="mt-3 rounded-xl border-2 border-amber-500 bg-amber-50 p-4" role="note">
+              <p className="text-sm font-bold text-amber-900">
+                ⚠️ Aviso: {patinete.avisoCategoria}. Los datos de esta ficha son los del
+                fabricante para ese tipo de vehículo.
+              </p>
+            </div>
+          )}
           <RespuestaRapida frases={geo.frases} />
           <FranjaPrecio
             precio={patinete.precioEur}
@@ -363,14 +373,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: precio, potencia, autonomía declarada y{" "}
-            <Marker>autonomía real estimada</Marker>,
-            peso, frenos y <Marker>certificado DGT</Marker>, con puntos fuertes y débiles honestos. Si un
-            dato no está publicado por una fuente fiable, aparece como «No publicado» en
-            vez de inventarlo. Datos verificados el 02/10/2026 en la web oficial de{" "}
-            {patinete.marca}.
-          </p>
-          <p className="mt-2 text-xs text-gray-500">
             Fuente:{" "}
             <a
               href={patinete.fuenteUrl}
@@ -531,7 +533,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
             «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
             confirmarlo en una fuente oficial.
           </p>
@@ -671,6 +673,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         {/* 20/10/2026 (fix plantilla): sin sección «Seguridad EuroNCAP» en patinetes — Euro NCAP no prueba patinetes. */}
 
         <RivalesCarrusel tipo="patinetes" id={patinete.id} nombre={nombre} rivales={extra.r} />
+        <FraseRivales id={patinete.id} nombre={nombre} precio={patinete.precioEur} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
@@ -714,13 +717,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

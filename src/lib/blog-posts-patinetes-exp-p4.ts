@@ -3144,7 +3144,7 @@ Sin certificado DGT español verificado; es un VMP **homologado en Alemania a 20
 
 ## Egret: ingeniería de Hamburgo desde 2012
 
-Egret es la marca de patinetes de Walberg Urban Electrics, una empresa de Hamburgo que lleva fabricando scooters eléctricos desde 2012, mucho antes del boom de los VMP compartidos. Esa trayectoria explica el posicionamiento del Ey! 1: no compite en precio con los fabricantes chinos de volumen, compite en construcción, frenos y acabado, con la homologación alemana como carta de presentación. En Alemania los e-scooters están limitados a 20 km/h por ley, y esa es la razón de la velocidad máxima de este modelo: no es una limitación técnica, es la configuración de su mercado de origen. La familia Ey! es su gama actual y el 1 es el tope: más potencia de pico, más autonomía declarada y el chasis con doble suspensión antichoque.
+Egret es la marca de patinetes de Walberg Urban Electrics, una empresa de Hamburgo que lleva fabricando scooters eléctricos desde 2012, mucho antes del boom de los VMP compartidos. Esa trayectoria explica el posicionamiento del Ey! 1: no compite en precio con los fabricantes chinos de volumen, compite en despliegue, frenos y acabado, con la homologación alemana como carta de presentación. En Alemania los e-scooters están limitados a 20 km/h por ley, y esa es la razón de la velocidad máxima de este modelo: no es una limitación técnica, es la configuración de su mercado de origen. La familia Ey! es su gama actual y el 1 es el tope: más potencia de pico, más autonomía declarada y el chasis con doble suspensión antichoque.
 
 ## Técnica a fondo: pico de 1.512 W y triple freno
 
@@ -3654,7 +3654,7 @@ Egret es la marca de **Walberg Urban Electrics GmbH**, una empresa de Hamburgo q
 
 ## Lo que se sabe y lo que aún no: honestidad de ficha
 
-Este análisis no va a inventarse lo que la marca aún no publica. Del Ey! 7 constan su precio de **449 €**, el motor Bosch, las ruedas **tubeless de 10 pulgadas**, los **tres modos de conducción** y su venta desde el 28 de mayo de 2025. No constan oficialmente ni la potencia, ni la batería, ni la autonomía, ni el peso. Eso tiene dos lecturas: la amable es que es un lanzamiento reciente con ficha en construcción; la práctica es que, sin autonomía declarada, ningún comprador debería firmar a ciegas. Cuando Egret publique los datos, esta ficha se actualizará; hasta entonces, lo que sigue es contexto y normativa, no cifras prestadas de sus hermanos.
+Este análisis no va a inventarse lo que la marca aún no publica. Del Ey! 7 constan su precio de **449 €**, el motor Bosch, las ruedas **tubeless de 10 pulgadas**, los **tres modos de conducción** y su venta desde el 28 de mayo de 2025. No constan oficialmente ni la potencia, ni la batería, ni la autonomía, ni el peso. Eso tiene dos lecturas: la amable es que es un lanzamiento reciente con ficha en despliegue; la práctica es que, sin autonomía declarada, ningún comprador debería firmar a ciegas. Cuando Egret publique los datos, esta ficha se actualizará; hasta entonces, lo que sigue es contexto y normativa, no cifras prestadas de sus hermanos.
 
 ## Normativa VMP en España: lo que sí está claro
 

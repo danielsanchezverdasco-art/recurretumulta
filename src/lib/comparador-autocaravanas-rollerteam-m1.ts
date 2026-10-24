@@ -5,7 +5,7 @@
 // 3.500 kg, 6 plazas para dormir, 6 cinturones —5 con automático—, Ford Transit 2.0 TDI 130 CV).
 // La gama Auto-Roller es exclusiva del mercado británico (en rollerteam.it no existe).
 // Calefacción: 6 kW gas/eléctrica (oficial; la marca "Truma Combi 6E" es de prensa).
-// Precio en España no verificado: precioDesde en null (no inventar).
+// Precio en España no verificado: sin precio oficial publicado (no inventar).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_ROLLERTEAM_M1: Autocaravana[] = [

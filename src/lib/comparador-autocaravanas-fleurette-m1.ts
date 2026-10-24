@@ -5,7 +5,7 @@
 // `analisisSlug` nuevo; añadidos `descripcion`, `plazasDormir` y `notas`.
 // NOTA DE TRANSPARENCIA: el modelo más próximo documentado por la marca es el Baxter
 // 68 LMC; las plazas de cama no están publicadas en el catálogo consultado.
-// Fleurette no publica PVP: precioDesde en null, sin inventar.
+// Fleurette no publica PVP: sin precio oficial publicado, sin inventar.
 // CURIOSIDAD (agente F5, 19/10/2026). PENDIENTE: sin foto oficial de exterior del 68LM en material del fabricante.
 // FIX-benimar 19/10/2026: integrados 2 interiores oficiales del catálogo oficial
 // (fleurette-florium.fr); el fabricante no publica exterior del 68LM exacto

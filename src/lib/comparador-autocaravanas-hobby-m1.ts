@@ -5,8 +5,8 @@
 // Correcciones aplicadas: eliminado el bloque costeMensual; añadidos descripcion
 // (>=800 palabras), notas y plazasDormir; analisisSlug actualizado a
 // -analisis-opinion; fotos renombradas a -ext.webp (prohibido «-oficial» en
-// m1); precioDesde en null (Hobby no publica PVP oficial por modelo);
-// cargaUtilKg en null (no publicada); dimensiones, potencia y MMA en «aprox»
+// m1); sin precio oficial publicado (Hobby no publica PVP oficial por modelo);
+// carga útil sin dato publicado (no publicada); dimensiones, potencia y MMA en «aprox»
 // (proceden de la red oficial de concesionarios, no de un PDF abierto del fabricante).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
@@ -61,7 +61,7 @@ export const AUTOCARAVANAS_HOBBY_M1: Autocaravana[] = [
       "traccion",
     ],
     notas:
-      "Hobby publica la ficha técnica 2026 en su configurador web, sin PDF abierto descargable; los datos técnicos (6,78/2,23/2,90 m, 3.500 kg, 140 CV, 4 plazas, camas gemelas de 193x76 y 185x76, frigorífico de 133 l, agua 100/96 l, Truma Combi 6) proceden de fichas coherentes de la red oficial de concesionarios para el año modelo 2026 y van marcados en «aprox». Hobby no publica PVP oficial por modelo (precioDesde en null): la nota de prensa oficial de lanzamiento de la gama citaba 72.920 € «desde» en Alemania, una referencia orientativa de gama, no el precio de este modelo. La «F» del nombre indica chasis Fiat (existe la misma distribución con «C» de Citroën).",
+      "Hobby publica la ficha técnica 2026 en su configurador web, sin PDF abierto descargable; los datos técnicos (6,78/2,23/2,90 m, 3.500 kg, 140 CV, 4 plazas, camas gemelas de 193x76 y 185x76, frigorífico de 133 l, agua 100/96 l, Truma Combi 6) proceden de fichas coherentes de la red oficial de concesionarios para el año modelo 2026 y van marcados en «aprox». Hobby no publica PVP oficial por modelo (sin precio oficial publicado): la nota de prensa oficial de lanzamiento de la gama citaba 72.920 € «desde» en Alemania, una referencia orientativa de gama, no el precio de este modelo. La «F» del nombre indica chasis Fiat (existe la misma distribución con «C» de Citroën).",
     curiosidades:
       "En enero de 2026 Hobby recibió en la feria CMT de Stuttgart el premio del jurado Clever Campen 2026 en la categoría de autocaravanas —otorgado por la revista Clever Campen, del grupo Motor Presse Stuttgart—, que reconoce innovaciones prácticas con valor real para el campista; el jurado destacó además su política de precios especialmente transparente. Fuente: portal oficial de prensa de Hobby (https://mediaportal.hobby-caravan.de/en/press-releases/).",
     descripcion: `Hobby es el mayor fabricante de caravanas del mundo y, sin embargo, en España sigue siendo una marca de iniciados: quien la conoce suele repetir. La Optima OnTour Edition F V65 GE es la explicación de ese boca a boca en formato perfilada: 6,78 metros sobre chasis Fiat Ducato con el paquete HobbyKomplett ALL-INCLUSIVE de serie, es decir, con el equipamiento que en otras marcas se paga como una lista interminable de extras ya incluido en el precio de fábrica. Toldo, navegación con cámara trasera, antena satélite con televisión, llantas de aleación y climatizador de cabina: todo viene de serie. La filosofía es la contraria a la de las marcas que anuncian un precio base tentador y luego te pasan la factura de los opcionales; aquí el precio que negocias en el concesionario es el de un vehículo listo para salir de viaje.

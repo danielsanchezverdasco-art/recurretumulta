@@ -6,7 +6,7 @@
 // null con nota.
 // Correcciones aplicadas: eliminado costeMensual; añadidos descripcion (>=800 palabras, con
 // «Cómo lo verificamos» y «Para quién es»), notas y plazasDormir; analisisSlug actualizado a
-// -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
+// -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); carga útil sin dato publicado
 // (la marca no la publica para el modelo exacto; NUNCA se calcula MMA−MRO); todos los campos
 // numéricos del modelo en «aprox» por proceder de fuente secundaria («dato no oficial»).
 // Corrección F4 (19/10/2026): añadido campo curiosidades con fuente enlazada; añadido plano

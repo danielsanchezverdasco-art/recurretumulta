@@ -447,7 +447,7 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     parrafos: [
       "El Air 6 es el commuter serio de Pure: 924 W de pico, 45 km de autonomía y 21,4 kg, con tambor más eléctrico regenerativo. Es el salto de la gama Air al uso intensivo diario, con más presencia y más distancia.",
       "Los 21,4 kg lo alejan de la multimodalidad ligera, pero a cambio ofrece un patinete más estable y capaz para trayectos largos. La frenada regenerativa ayuda a estirar la autonomía en ciudad con paradas frecuentes.",
-      "Sin potencia nominal, batería ni precio en la ficha, el Air 6 está a medio definir comercialmente. Su hueco natural es el commuter de 15-20 km diarios que quiere un Pure con más empaque que el Air 4. Hasta que Pure concrete cifras y papeles, una opción en construcción. Pure lo posiciona como el salto al uso serio: más presencia, más distancia y la misma filosofía de ligereza de la marca británica.",
+      "Sin potencia nominal, batería ni precio en la ficha, el Air 6 está a medio definir comercialmente. Su hueco natural es el commuter de 15-20 km diarios que quiere un Pure con más empaque que el Air 4. Hasta que Pure concrete cifras y papeles, una opción en despliegue. Pure lo posiciona como el salto al uso serio: más presencia, más distancia y la misma filosofía de ligereza de la marca británica.",
     ],
     veredicto: "El commuter con empaque de Pure: 45 km y 924 W de pico, a falta de cifras definitivas.",
   },

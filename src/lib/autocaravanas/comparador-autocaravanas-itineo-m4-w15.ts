@@ -61,7 +61,7 @@ export const AUTOCARAVANAS_ITINEO_M4: Autocaravana[] = [
       "Boxer 2.2 l de 140 CV, camas gemelas de 80x210/190 cm con extensión king-size de 150x202 cm en " +
       "opción y cama de cabina basculante de 140x188 cm según extracto de tarifa oficial (concesionario " +
       "AJD). Nevera 128 l, agua limpia 110 l y grises 90 l, batería 2x100 Ah, calefacción Truma Combi 4, " +
-      "según fichas de catálogo de la red de distribución. En null: precio ES (Itineo no publica tarifa  Precio: se deja en null porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "según fichas de catálogo de la red de distribución. En null: precio ES (Itineo no publica tarifa  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "oficial en España), tara exacta, carga útil, consumo y emisiones.",
     curiosidades:
       "Con solo 2,19 m de anchura de carrocería, el CJ660 es uno de los integrales más estrechos del " +
@@ -120,7 +120,7 @@ equipamiento opcional, del extracto de tarifa oficial distribuido por la red de 
 precios de referencia franceses, del análisis de la colección 2027 en CampingCarLeSite; y la
 descripción de la gama estrecha, de la presentación oficial recogida por CamperLife. Todo verificado
 el 19/10/2026. Lo que la marca no publica —precio oficial en España, tara exacta, carga útil,
-consumo y emisiones— queda declarado en null y en las notas de esta ficha.
+consumo y emisiones— queda declarado sin dato y en las notas de esta ficha.
 
 Para quién es: es el integral ideal para una pareja —o una pareja con dos niños pequeños— que
 prioriza la maniobrabilidad y quiere aparcar y circular sin el estrés de un 2,35 m de ancho, sin
@@ -203,7 +203,7 @@ numerosas la propia Itineo ofrece el SBD700 o el SB740 en la gama Famili de anch
       "(ITINEO_CT-2026). Motor Fiat Ducato 2.0 l de 140 CV. Masa en orden de marcha 2.995 kg y carga " +
       "útil de catálogo UK 505 kg según ficha técnica de distribuidor (FindMyLeisureVehicle); no se " +
       "traslada a cargaUtilKg por ser cifra de mercado británico. Literas traseras, cama basculante de " +
-      "cabina de 140x190 cm y cama de dinette según documentación de la red. En null: precio ES (Itineo  Precio: se deja en null porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "cabina de 140x190 cm y cama de dinette según documentación de la red. En null: precio ES (Itineo  Precio: se deja sin dato porque Itineo (Groupe Rapido) no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "no publica tarifa oficial en España), tara exacta, consumo y emisiones.",
     curiosidades:
       "El SBD700 se lanzó en 2024 como el primer integral Itineo de menos de 7 metros capaz de dormir " +
@@ -261,7 +261,7 @@ técnica oficial de Itineo (documento ITINEO_CT-2026); la masa en orden de march
 la ficha técnica de distribuidor británico; el lanzamiento y enfoque familiar, de la cobertura de
 CamperOnLine Magazine y CamperLife; y los precios franceses de referencia, del análisis de la
 colección 2027 en CampingCarLeSite. Todo verificado el 19/10/2026. Lo que la marca no publica
-—precio oficial en España, consumo y emisiones— queda declarado en null y en las notas.
+—precio oficial en España, consumo y emisiones— queda declarado sin dato y en las notas.
 
 Para quién es: es el integral perfecto para una familia de cuatro a seis miembros que quiere un
 clase A auténtico sin saltar a los 7,40 metros ni al carnet C1, con camas fijas para los niños y

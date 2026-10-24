@@ -1387,7 +1387,7 @@ Eléctrico puro: **revisión cada 24 meses o 30.000 km** en la red Changan Deepa
 
 ## Precio y rivales
 
-Desde 45.990 €, compite con el **Tesla Model Y** (más red de carga), el **BYD Sealion 7** (su rival chino directo), el **MG S6 EV** (misma receta, misma horquilla) y el **Skoda Enyaq**. El Deepal gana en carga (200 kW), garantía y seguridad Euro NCAP; pierde en red comercial, aún en construcción.
+Desde 45.990 €, compite con el **Tesla Model Y** (más red de carga), el **BYD Sealion 7** (su rival chino directo), el **MG S6 EV** (misma receta, misma horquilla) y el **Skoda Enyaq**. El Deepal gana en carga (200 kW), garantía y seguridad Euro NCAP; pierde en red comercial, aún en despliegue.
 
 ## Veredicto: el chino serio
 
@@ -1973,7 +1973,7 @@ La subida de potencia frente al Ora 03 normal (171 CV frente a 143 CV) y el 0-10
 
 El Ora 03 GT es un coche de diario urbano y periurbano: tamaño contenido, respuesta inmediata y una autonomía que cubre la semana laboral media sin cargar a diario. Sus límites honestos son los del formato (plazas traseras y maletero de compacto corto) y los de la marca: la red comercial de GWM en España es joven frente a MG o BYD, y eso afecta a la prueba, a la entrega y a la reventa. A cambio, es difícil encontrar un eléctrico con más personalidad por sus registros de precio: la versión de 171 CV figura desde 31.990 € en registros españoles de 2025, como recoge la FAQ de este análisis. Compáralo en el <a href=/comparador-coches/>comparador de coches</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
 
-## Mantenimiento y costes: eléctrico sencillo, marca en construcción
+## Mantenimiento y costes: eléctrico sencillo, marca en despliegue
 
 GWM no ha publicado en España una tabla de tarifas de mantenimiento del Ora 03 GT que podamos citar, y no la inventamos. Lo verificable es el patrón de los eléctricos de su clase: sin aceite ni distribución, el gasto ordinario se reduce a neumáticos, frenos (con menor desgaste por la regeneración), filtros y las revisiones programadas, con la batería de 63 kWh como componente crítico cubierto por la garantía del fabricante. Antes de comprar, la tarea pendiente es confirmar concesionario y servicio oficial cercanos: en una marca en despliegue, ese dato vale tanto como el descuento.
 

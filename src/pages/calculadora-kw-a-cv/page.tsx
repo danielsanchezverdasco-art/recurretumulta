@@ -74,10 +74,7 @@ export default function CalculadoraKwACvPage() {
         </section>
 
         <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8">
-          <figure className="mb-8">
-  <video src="/media/kw-cv-motor.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: primer plano del motor de un coche" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: el motor, donde se mide la potencia de tu coche.</figcaption>
-</figure>
+
       <figure className="my-8">
         <img src="/media/kw-cv-equivalencia.webp" alt="Motor de coche moderno: equivalencia de potencia entre kilovatios (kW) y caballos de vapor (CV)" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>

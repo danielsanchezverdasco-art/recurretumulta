@@ -882,7 +882,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     contras: [
       "Precio en España no publicado: la gran incógnita", 
       "120 kg en vacío: pesada para un scooter urbano", 
-      "Marca joven en Europa: red de servicio en construcción", 
+      "Marca joven en Europa: red de servicio en despliegue", 
       "Carga completa lenta (5 h) sin el cargador rápido opcional", 
       "Estética agresiva que no es para todos los gustos"
     ],
@@ -1653,7 +1653,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
       "6.590 €: precio de scooter premium", 
       "Batería enorme: peso elevado (no publicado, pero considerable)", 
       "6 horas para la carga completa", 
-      "Marca china con red en construcción en España", 
+      "Marca china con red en despliegue en España", 
       "Tanta autonomía es innecesaria para un uso urbano normal"
     ],
     curiosidades: [

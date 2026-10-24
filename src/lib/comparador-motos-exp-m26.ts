@@ -1779,7 +1779,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
       "287 kg: muy pesada, solo para pilotos con experiencia",
       "Precio de 11.990 €, en territorio de customs japonesas con más red",
       "El motor tetracilíndrico exige llevarlo alto de vueltas, poco custom",
-      "Importador joven en España: red de talleres y repuestos en construcción",
+      "Importador joven en España: red de talleres y repuestos en despliegue",
       "Deportividad y peso: no es una moto para ciudad ni para empezar",
     ],
     curiosidades: [

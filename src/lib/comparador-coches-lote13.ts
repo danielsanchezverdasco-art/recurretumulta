@@ -323,17 +323,24 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada 12.000 km: rotación de neumáticos + inspección multipunto; filtro de habitáculo cada 36.000 km o 24 meses (plan oficial GM)",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 150,
+          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
+          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 150,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "GM: programa oficial de mantenimiento para sus vehículos eléctricos (manual del propietario)",
     },
+    fuenteNombre: "GM — Manual del propietario Chevrolet Blazer EV 2025",
+    fuenteUrl: "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2025/chevrolet/blazer_ev/25_CHEV_Blazer_EV_OM_en_US_U_18108609E_2025DEC08_5P.pdf",
   },
   {
     id: "toyota-bz7-2026-precio-ficha-tecnica",
@@ -424,16 +431,16 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 160,
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Toyota no publica un plan de mantenimiento oficial para el bZ7; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 160,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "Toyota: sin plan de mantenimiento publicado para el bZ7",
     },
     fuenteNombre: "hibridosyelectricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/toyota-electrico-513-metros-tecnologia-huawei-llega-mercado-por-18400-aunque-no-podras-comprarlo_86197_102.html",
@@ -516,16 +523,16 @@ const COCHES_LOTE13_A: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo aún no comercializado.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (lo que ocurra antes)",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Honda no publica un plan de mantenimiento oficial para el GT; sigue las revisiones periódicas del manual del propietario",
           costeAproxEur: null,
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      fuente: "Honda: sin plan de mantenimiento publicado para el GT",
     },
   },
   {
@@ -813,16 +820,16 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no homologado aún en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 160,
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Mazda no publica un plan de mantenimiento oficial para el EZ-60; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 160,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "Mazda: sin plan de mantenimiento publicado para el EZ-60",
     },
   },
   {
@@ -914,16 +921,16 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 150,
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Toyota no publica un plan de mantenimiento oficial para el bZ5; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 150,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "Toyota: sin plan de mantenimiento publicado para el bZ5",
     },
   },
   {
@@ -1607,17 +1614,24 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada 12.000 km: rotación de neumáticos + inspección multipunto; filtro de habitáculo cada 36.000 km o 24 meses (plan oficial GM)",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 200,
+          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
+          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 200,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "GM: programa oficial de mantenimiento para sus vehículos eléctricos (manual del propietario)",
     },
+    fuenteNombre: "GM — Manual del propietario Chevrolet Blazer EV 2025",
+    fuenteUrl: "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2025/chevrolet/blazer_ev/25_CHEV_Blazer_EV_OM_en_US_U_18108609E_2025DEC08_5P.pdf",
   },
   {
     id: "tesla-model-y-l-2026-precio-ficha-tecnica",
@@ -1899,17 +1913,19 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Rotación de neumáticos y servicios requeridos cada 12.000 km + inspección multipunto (plan oficial GM/GMC)",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 250,
+          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
+          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 250,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "GMC: programa oficial de mantenimiento (manual del propietario Sierra EV 2025)",
     },
+    fuenteNombre: "GMC — Manual del propietario Sierra EV 2025",
+    fuenteUrl: "https://www.manual.nz/gmc/sierra-ev-2025/manual?p=428",
   },
   {
     id: "skoda-kylaq-2025-precio-ficha-tecnica",
@@ -2281,16 +2297,16 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 20.000 km, lo que ocurra antes",
+      intervalo: "Sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario",
       revisiones: [
         {
-          nombre: "Revisión anual / 20.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 200,
+          nombre: "Revisiones del manual del propietario",
+          queSeCambia: "Honda no publica un plan de mantenimiento oficial para el Prologue; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 200,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el Prologue",
     },
   },
   {
@@ -2382,17 +2398,24 @@ const COCHES_LOTE13_C: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
+      intervalo: "Cada 12.000 km: rotación de neumáticos + inspección multipunto; filtro de habitáculo cada 36.000 km o 24 meses (plan oficial GM)",
       revisiones: [
         {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección general + filtro de habitáculo + actualización de software",
-          costeAproxEur: 250,
+          nombre: "Rotación de neumáticos + inspección multipunto (cada 12.000 km)",
+          queSeCambia: "Rotación de neumáticos, inspección multipunto del vehículo y lubricación de componentes de carrocería",
+          costeAproxEur: null,
+        },
+        {
+          nombre: "Filtro de aire del habitáculo (cada 36.000 km o 24 meses)",
+          queSeCambia: "Sustitución del filtro de aire del habitáculo",
+          costeAproxEur: null,
         },
       ],
-      costeAnualAproxEur: 250,
-      fuente: "Plan estándar para vehículos eléctricos (sin plan oficial publicado por la marca)",
+      costeAnualAproxEur: null,
+      fuente: "GM: programa oficial de mantenimiento para sus vehículos eléctricos (manual del propietario)",
     },
+    fuenteNombre: "GM — Manual del propietario Chevrolet Blazer EV 2025",
+    fuenteUrl: "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2025/chevrolet/blazer_ev/25_CHEV_Blazer_EV_OM_en_US_U_18108609E_2025DEC08_5P.pdf",
   },
 ];
 

@@ -1689,6 +1689,91 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     videoId: "qZSnZCwy4_M"
   },
   {
+    altoMm: 1580,
+    analisisSlug: null,
+    anchoMm: 1825,
+    aprox: [
+      "autonomiaKm"
+    ],
+    autonomiaKm: 508,
+    bateriaKwh: 65.4,
+    cargaRapidaKw: 100,
+    categoria: "SUV",
+    ceroCien: 8.1,
+    consumo: 16.8,
+    consumoUnidad: "kWh/100 km",
+    contras: [
+      "EuroNCAP 2023: solo 4 estrellas para la segunda generación del Kona",
+      "Precio desde 42.450 € elevado frente a rivales chinos eléctricos",
+      "En EE.UU. se pausa la venta del Kona EV 2026 por estrategia de gama",
+      "Peso de 1.773 kg penaliza agilidad en carreteras reviradas",
+      "Autonomía real en autopista inferior a los 508 km WLTP anunciados"
+    ],
+    emisionesCo2: 0,
+    etiquetaDgt: "Cero",
+    euroncap: {
+      ano: 2023,
+      estrellas: 4,
+      nota: "4 estrellas EuroNCAP 2023 para la segunda generación (80% adulto, 83% infantil); la marca no publica URL directa del informe",
+      url: null
+    },
+    fuenteNombre: "hyundai.news / carnovo.com / motorgiga.com",
+    fuenteUrl: "https://www.hyundai.news/eu/models/suv/kona/press-kit.html",
+    galeria: [
+      {
+        alt: "Hyundai Kona Eléctrico 2026 vista exterior",
+        alto: 666,
+        ancho: 1600,
+        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp"
+      },
+      {
+        alt: "Interior del Hyundai Kona Eléctrico 2026 con doble pantalla de 12,3 pulgadas",
+        alto: 1066,
+        ancho: 1600,
+        src: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp"
+      }
+    ],
+    garantiaBateriaAnos: 8,
+    garantiaBateriaDegradacionPct: null,
+    garantiaBateriaKm: 160000,
+    id: "hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica",
+    imagen: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-interior-oficial.webp",
+    imagenOficial: "/media/hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica-oficial.webp",
+    largoMm: 4355,
+    maleteroL: 466,
+    marca: "Hyundai",
+    modelo: "Kona Eléctrico 65 kWh",
+    parNm: 255,
+    pesoKg: 1773,
+    planMantenimiento: {
+      fuente: "hyundai.com/es: intervalo oficial cada año o 15.000 km; costes no publicados",
+      intervalo: "Cada 1 año o 15.000 km",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Revisión anual",
+          queSeCambia: "Inspección general, filtro habitáculo, líquido frenos según plan"
+        }
+      ]
+    },
+    plazas: 5,
+    potenciaCv: 204,
+    precioDesde: 42450,
+    pros: [
+      "Autonomía WLTP de hasta 508 km con batería de 65,4 kWh útiles",
+      "Carga rápida DC de 100 kW y carga AC trifásica de 11 kW",
+      "Maletero de 466 litros más 27 litros de frunk delantero",
+      "Etiqueta Cero con acceso total a ZBE y aparcamiento bonificado",
+      "Garantía de batería de 8 años o 160.000 km oficial Hyundai"
+    ],
+    tipo: "Eléctrico",
+    traccion: "Delantera",
+    velocidadMax: 172,
+    videoCanal: null,
+    videoId: null
+  },
+  {
     altoMm: 1500,
     analisisSlug: null,
     anchoMm: 1745,

@@ -1254,7 +1254,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "Alien Rides",
     marca: "Currus",
     modelo: "Panther (NF11)",
-    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la web oficial de Currus está inactiva/en construcción y no publica precios.
+    precioEur: null, // Sin precio oficial en EUR verificado el 21/10/2026: No publicado: la web oficial de Currus está inactiva/en despliegue y no publica precios.
     potenciaNominalW: 2400,
     potenciaPicoW: 5400,
     autonomiaKm: 120,

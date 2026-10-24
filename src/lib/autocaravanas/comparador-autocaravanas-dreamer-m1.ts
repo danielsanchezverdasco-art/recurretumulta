@@ -6,7 +6,7 @@
 // PVP oficial: el precio va en «aprox» con nota «precio de tarifa en Bélgica».
 // Correcciones aplicadas: eliminado costeMensual; añadidos descripcion (>=800 palabras, con
 // «Cómo lo verificamos» y «Para quién es»), notas y plazasDormir; analisisSlug actualizado a
-// -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); cargaUtilKg en null
+// -analisis-opinion; fotos a -ext.webp/-interior.webp (sin «-oficial»); carga útil sin dato publicado
 // (la marca no la publica para el modelo exacto); potencia y precio en «aprox» («no oficial»:
 // prensa y concesionarios); peso en vacío en «aprox» (concesionario, versión Essential).
 // NOTA DE NOMBRE: el nombre comercial oficial es "D55 UP" (gama Fun); se mantiene el

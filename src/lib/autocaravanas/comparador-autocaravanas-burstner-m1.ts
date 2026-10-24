@@ -44,7 +44,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     pesoKg: 2990, // página oficial: masa en orden de marcha 2.990 kg (±5 %; rango 2.841–3.140 kg)
     mmaKg: 3500, // página oficial: 3.500 kg
     carnetNecesario: "B",
-    cargaUtilKg: null, // la marca publica 160 kg de masa para equipamiento opcional, que no es carga útil: va en null
+    cargaUtilKg: null, // la marca publica 160 kg de masa para equipamiento opcional, que no es carga útil: va sin dato
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // página oficial: 4-5 plazas
@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "potenciaCv"],
     notas:
-      "Precio de tarifa en Suiza (82.530 CHF, PVP publicado en buerstner.com); puede diferir en España. Medidas, masas y plazas, de la tabla técnica oficial del modelo. Los 160 kg publicados son masa para equipamiento opcional, no carga útil: el campo cargaUtilKg va en null. Potencia: «dato no oficial · en revisión».",
+      "Precio de tarifa en Suiza (82.530 CHF, PVP publicado en buerstner.com); puede diferir en España. Medidas, masas y plazas, de la tabla técnica oficial del modelo. Los 160 kg publicados son masa para equipamiento opcional, no carga útil: el campo cargaUtilKg va sin dato. Potencia: «dato no oficial · en revisión».",
     curiosidades:
       "El Lyseo TD 690 G fue uno de los pocos modelos elegidos por Bürstner para estrenar el asiento "
       + "Vario-Seat, un invento concebido a mediados de la década de 2010 que convierte el asiento lateral del "
@@ -64,7 +64,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
       + "(https://www.motorhomesforsale.co.nz/resources/blog/the-top-five-innovations-of-b%C3%BCrstner-motorhomes).",
     descripcion: `La Bürstner Lyseo TD 690 G es una autocaravana perfilada de 6,99 metros que ocupa un lugar especial en el catálogo de la marca alemana: la gama Lyseo TD es la perfilada con cama basculante sobre el salón, el formato que permite dormir hasta cinco personas en menos de 7 metros sin recurrir a la capuchina. La «G» de la denominación identifica la distribución con camas gemelas traseras, la más demandada por las parejas que quieren dormir cada noche en camas hechas. Es una perfilada pensada para viajar todo el año, con el aislamiento «winterproof» y el suelo Thermofloor que Bürstner ofrece de serie y que pocas generalistas incluyen sin pasar por caja.
 
-Los datos oficiales, publicados por Bürstner en la página del modelo, son completos y permiten comprar con la calculadora en la mano: 699 cm de largo, 230 cm de ancho y 295 cm de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La masa en orden de marcha es de 2.990 kg con una tolerancia de ±5 % (rango real entre 2.841 y 3.140 kg según la configuración), y la marca publica además la masa reservada para equipamiento opcional: 160 kg. Ojo: esos 160 kg son la masa máxima para opcionales, un concepto distinto de la carga útil, así que la ficha no calcula ni publica carga útil y ese campo va en null. Con 160 kg de margen para extras hay que elegir el equipamiento con la calculadora en la mano, porque entre el toldo, la batería auxiliar, el portabicicletas y el aire acondicionado el margen se agota deprisa. Las plazas homologadas son de 4 a 5 para viajar y de 2 a 5 para dormir: de serie duermen dos en las camas gemelas traseras, y con la cama basculante sobre el salón y la quinta plaza opcionales se llega a cinco.
+Los datos oficiales, publicados por Bürstner en la página del modelo, son completos y permiten comprar con la calculadora en la mano: 699 cm de largo, 230 cm de ancho y 295 cm de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La masa en orden de marcha es de 2.990 kg con una tolerancia de ±5 % (rango real entre 2.841 y 3.140 kg según la configuración), y la marca publica además la masa reservada para equipamiento opcional: 160 kg. Ojo: esos 160 kg son la masa máxima para opcionales, un concepto distinto de la carga útil, así que la ficha no calcula ni publica carga útil y ese campo va sin dato. Con 160 kg de margen para extras hay que elegir el equipamiento con la calculadora en la mano, porque entre el toldo, la batería auxiliar, el portabicicletas y el aire acondicionado el margen se agota deprisa. Las plazas homologadas son de 4 a 5 para viajar y de 2 a 5 para dormir: de serie duermen dos en las camas gemelas traseras, y con la cama basculante sobre el salón y la quinta plaza opcionales se llega a cinco.
 
 Las camas gemelas traseras, de 199 y 190 cm con colchones de espuma multizona, son el corazón de la distribución: se duerme sin montar ni desmontar nada, y debajo queda un garaje generoso para el equipo voluminoso. El baño combina un diseño inteligente con mampara pivotante que mantiene seca la zona de cambio durante la ducha, y la cocina monta un frigorífico de 142 litros más 15 de congelador, una capacidad de nevera grande en una perfilada de menos de 7 metros. El depósito de agua limpia es de 100 litros y la calefacción es combinada de gas y agua caliente, un conjunto pensado para aguantar varios días lejos de áreas de servicio. El techo y el suelo son de GRP (poliéster reforzado con fibra de vidrio), materiales que resisten el granizo y envejecen mejor que el aluminio tradicional.
 

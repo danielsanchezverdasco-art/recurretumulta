@@ -1,8 +1,8 @@
 // Autocaravanas Niesmann+Bischoff — lote Merlín 4 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
 // Datos verificados: web oficial niesmann-bischoff.com (página oficial del modelo iSmove; la marca
 // no publica página dedicada a la implantación 6.9 E ni las plazas: plazas en «no oficial» desde
-// distribuidores, plazasDormir en null). Precio base de prensa alemana ~114.850 € en Alemania
-// MY2026, no oficial: precioDesde en null.
+// distribuidores, plazasDormir sin dato). Precio base de prensa alemana ~114.850 € en Alemania
+// MY2026, no oficial: sin precio oficial publicado.
 import type { Autocaravana } from "./tipos.ts";
 
 export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
@@ -111,7 +111,7 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
     },
     euroncap: null,
     notas:
-      "«dato no oficial · en revisión»: las plazas de viaje (4) son consenso de distribuidores del modelo exacto; el fabricante no las publica. La marca tampoco publica página dedicada a la implantación 6.9 E (la fuente es la página oficial del modelo iSmove) ni las plazas para dormir. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Precio: se deja en null porque Niesmann+Bischoff no publica lista de precios abierta verificable: el precio base solo se obtiene en su configurador oficial en línea y vía red de concesionarios; sin tarifa oficial en abierto.",
+      "«dato no oficial · en revisión»: las plazas de viaje (4) son consenso de distribuidores del modelo exacto; el fabricante no las publica. La marca tampoco publica página dedicada a la implantación 6.9 E (la fuente es la página oficial del modelo iSmove) ni las plazas para dormir. La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante. Precio: se deja sin dato porque Niesmann+Bischoff no publica lista de precios abierta verificable: el precio base solo se obtiene en su configurador oficial en línea y vía red de concesionarios; sin tarifa oficial en abierto.",
     curiosidades:
       "En los premios Promobil readers' choice 2026 —votados por los lectores de la revista alemana—, Niesmann+Bischoff logró un triplete: el iSmove quedó segundo en la categoría premium, acompañando al Arto, que ganó la suya. Fuente: Niesmann+Bischoff (nota de prensa oficial): https://www.niesmann-bischoff.com/en/presse/promobil-readers-choice-awards-2026/",
     fuenteNombre: "Niesmann+Bischoff (web oficial) («no oficial»: plazas, dato de distribuidores; el fabricante no lo publica)",

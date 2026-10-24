@@ -63,7 +63,7 @@ La versión **REEV** (eléctrico de autonomía extendida) combina un motor de ga
 
 | ✅ Pros | ❌ Contras |
 |---|---|
-| 420 km de autonomía WLTP para un SUV familiar de 4,74 m | Marca nueva en España: red de servicio en construcción |
+| 420 km de autonomía WLTP para un SUV familiar de 4,74 m | Marca nueva en España: red de servicio en despliegue |
 | Batería LFP de 69,9 kWh: más duradera y sin cobalto | Consumo alto para un eléctrico (19,8 kWh/100 km) |
 | 218 CV, etiqueta CERO y carga rápida de 83 kW | Carga rápida de 83 kW, lejos de los 100+ kW de rivales |
 | Precio ajustado: 32.824 € según tarifa de septiembre 2025 | Interior y acabados menos refinados que los europeos |
@@ -151,7 +151,7 @@ El precio oficial de lanzamiento fue de **18.600 €**. km77 recoge una tarifa d
 | Precio de lanzamiento de 18.600 €: de los eléctricos más baratos | Solo 4 plazas y maletero de 210 L: muy justo |
 | 265 km de autonomía WLTP, suficiente para ciudad | 95 CV y 130 km/h: coche solo para ciudad |
 | Etiqueta CERO: entra en todas las <a href=https://recurretumulta.online/guias/zbe>ZBE</a> sin restricciones | Interior sencillo con plásticos duros |
-| Premio carwow «Automóvil Urbano del Año 2025» | Marca nueva: postventa en construcción |
+| Premio carwow «Automóvil Urbano del Año 2025» | Marca nueva: postventa en despliegue |
 | Carga rápida en DC de 48 kW | Prestaciones modestas frente al Dacia Spring |
 
 ## Míralo en vídeo
@@ -1161,7 +1161,7 @@ El P7+ se defiende con tamaño, maletero y velocidad de carga. Pierde, de moment
 
 ## Mantenimiento y garantía
 
-Al ser eléctrico, el mantenimiento es sencillo: XPeng establece revisiones cada **20.000 km o 12 meses**, con inspección general, filtro de habitáculo, niveles y actualizaciones de software. La batería de tracción tiene **8 años o 160.000 km de garantía** con un mínimo del 70 % de capacidad. Ojo: la red de talleres en España está en construcción, así que conviene tener un servicio oficial a distancia razonable antes de firmar.
+Al ser eléctrico, el mantenimiento es sencillo: XPeng establece revisiones cada **20.000 km o 12 meses**, con inspección general, filtro de habitáculo, niveles y actualizaciones de software. La batería de tracción tiene **8 años o 160.000 km de garantía** con un mínimo del 70 % de capacidad. Ojo: la red de talleres en España está en despliegue, así que conviene tener un servicio oficial a distancia razonable antes de firmar.
 
 ## ¿Y la seguridad?
 

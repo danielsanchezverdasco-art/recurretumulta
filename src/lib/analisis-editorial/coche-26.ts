@@ -25,7 +25,7 @@ export const ANALISIS_COCHE_26: MapaAnalisis = {
   "zeekr-007-2026-precio-ficha-tecnica": {
     parrafos: [
       "La versión 2026 del 007 repite la receta que lo convirtió en un fenómeno doméstico: berlina de casi 4,9 metros, 422 CV de propulsión trasera, batería de 75 kWh y 500 kW de pico, entre los más rápidos del planeta. Declara 688 km de autonomía con un consumo contenido de 12,5 kWh/100 km, cifras que hacen que la ansiedad de autonomía suene a problema de otra década. El 0-100 en 5,1 segundos y los 210 km/h de punta completan un conjunto muy serio.",
-      "La actualización no cambia lo esencial, y tampoco los límites geográficos: sigue circunscrito al mercado chino, sin precio ni fecha oficial para España, y su maletero aún carece de dato oficial publicado. Tampoco hay test Euro NCAP disponible. Con 2.150 kg y una red europea todavía en construcción, es un coche brillante que, visto desde aquí, queda en el terreno de la especulación.",
+      "La actualización no cambia lo esencial, y tampoco los límites geográficos: sigue circunscrito al mercado chino, sin precio ni fecha oficial para España, y su maletero aún carece de dato oficial publicado. Tampoco hay test Euro NCAP disponible. Con 2.150 kg y una red europea todavía en despliegue, es un coche brillante que, visto desde aquí, queda en el terreno de la especulación.",
     ],
     veredicto:
       "La berlina eléctrica china más redonda del momento... que nadie puede comprar en Europa.",
@@ -113,7 +113,7 @@ export const ANALISIS_COCHE_26: MapaAnalisis = {
   "zeekr-x-2025-precio-ficha-tecnica": {
     parrafos: [
       "La versión 2025 del X añade el argumento definitivo para convencer a los escépticos: 5 estrellas Euro NCAP, que lo convirtieron en el eléctrico más seguro de 2024. Por lo demás mantiene la fórmula —37.137 €, 272 CV traseros, 330 km WLTP, batería de 49 kWh y 362 litros de maletero— en un SUV de 4,43 metros pensado para la ciudad, con interior cuidado y sonido Yamaha. La variante Privilege ofrece 428 CV con tracción total para quien busque más chispa sin cambiar de modelo.",
-      "Los límites no cambian: autonomía justa en el acceso, carga de 130 kW mejorable, plazas traseras estrechas para los más altos y una marca aún joven en España, con la red en construcción y un valor de reventa por demostrar. La etiqueta Cero, eso sí, le abre todas las ZBE sin restricciones. Pero con ese expediente de seguridad, es la compra racional del segmento si el uso es mayoritariamente urbano.",
+      "Los límites no cambian: autonomía justa en el acceso, carga de 130 kW mejorable, plazas traseras estrechas para los más altos y una marca aún joven en España, con la red en despliegue y un valor de reventa por demostrar. La etiqueta Cero, eso sí, le abre todas las ZBE sin restricciones. Pero con ese expediente de seguridad, es la compra racional del segmento si el uso es mayoritariamente urbano.",
     ],
     veredicto:
       "El urbano eléctrico chino con mejor expediente de seguridad; la compra racional si el uso es mayoritariamente ciudadano.",

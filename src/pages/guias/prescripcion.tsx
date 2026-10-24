@@ -3,6 +3,7 @@ import { DriveInImage } from "@/components/motion.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 import CalculadoraPrescripcion from "@/components/CalculadoraPrescripcion.tsx";
+import SharedFooter from "@/components/shared-footer.tsx";
 
 const FAQ_SCHEMA = {"@context":"https://schema.org","@graph":[
 {"@type":"FAQPage","@id":"https://recurretumulta.online/guias/prescripcion#faq","mainEntity":[
@@ -134,6 +135,7 @@ export default function GuiaPrescripcionPage() {
       <a href="https://recurretumulta.online/" className="inline-block bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-xl transition">Analizar mi multa</a>
       </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

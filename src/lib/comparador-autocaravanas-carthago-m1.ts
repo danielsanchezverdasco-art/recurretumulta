@@ -1,7 +1,7 @@
 // Autocaravanas Carthago — lote Merlín 1 (18/10/2026), corrección b/c/d (22:15).
 // El C-Tourer I 148 LE es de la gama 2024 (en 2025 pasó a C1-tourer y en 2026 a
 // C2-tourer); Carthago no publica ficha oficial de este modelo descatalogado:
-// fuenteNombre/fuenteUrl en null. Correcciones: eliminado costeMensual; campos de
+// fuenteNombre/fuenteUrl sin dato. Correcciones: eliminado costeMensual; campos de
 // concesionario en «aprox» con nota «dato no oficial · en revisión»; añadidos
 // descripcion, notas y plazasDormir (null); analisisSlug a -analisis-opinion.
 // NOTA: el id se mantiene por orden expresa (las URL no se tocan).

@@ -25,9 +25,6 @@ export default function AnalisisEditorial({ slug }: { slug: string }) {
           {analisis.veredicto}
         </p>
       ) : null}
-      <p className="mt-3 text-xs text-gray-500">
-        Análisis editorial de recurretumulta elaborado a partir de la ficha técnica del modelo.
-      </p>
     </section>
   );
 }

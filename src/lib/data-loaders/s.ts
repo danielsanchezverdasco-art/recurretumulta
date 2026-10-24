@@ -615,6 +615,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "sym-cruisym-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m6.ts"),
     "sym-cruisym-300-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m12.ts"),
     "sym-cruisym-400-2026-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
+    "sym-cruisym-alpha-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-lote16.ts"),
     "sym-fiddle-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m24.ts"),
     "sym-fiddle-125-2026-ficha-tecnica-precio": () => import("../comparador-motos-nuevos-m3.ts"),
     "sym-fugue-125-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m12.ts"),

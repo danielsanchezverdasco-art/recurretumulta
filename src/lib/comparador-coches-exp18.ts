@@ -391,7 +391,7 @@ export const COCHES_EXP18: CocheComparador[] = [
       "2.145 kg: el peso se nota en consumos reales (19,3 kWh/100 km)",
       "46.446 € en la versión Long Range: caro frente a una furgoneta diésel",
       "La versión de 7 plazas llegará más tarde, de momento solo 5",
-      "Red de concesionarios PBV aún en construcción en España",
+      "Red de concesionarios PBV aún en despliegue en España",
     ],
     largoMm: 4695,
     anchoMm: 1895,

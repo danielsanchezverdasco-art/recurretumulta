@@ -103,7 +103,7 @@ export default function ProvinciasIndexPage() {
                 return (
                   <Link
                     key={p.slug}
-                    to={`/provincias/${p.slug}/`}
+                    to={`/multas/${p.slug}/`}
                     className="flex items-center justify-between gap-2 rounded-2xl border border-gray-200 bg-white px-4 py-3 font-semibold text-gray-800 transition hover:border-red-400 hover:text-red-600"
                   >
                     <span className="flex items-center gap-2">

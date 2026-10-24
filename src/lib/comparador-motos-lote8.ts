@@ -642,7 +642,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
       "Sin precio oficial: de momento solo presentada, sin comercialización confirmada",
       "La autonomía no ha sido comunicada; la Kemper naked declara 140 km",
       "Postura deportiva: menos cómoda que la naked para el día a día",
-      "Red Yadea en España aún en construcción",
+      "Red Yadea en España aún en despliegue",
       "El carenado completo encarecerá las caídas en parado",
       "Pesa lo que pesa: las deportivas eléctricas no son ligeras",
     ],

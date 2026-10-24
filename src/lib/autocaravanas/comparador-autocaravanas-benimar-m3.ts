@@ -4,9 +4,9 @@
 // Instagram oficial de Benimar (vía autoyas.com), ficha de concesionario Mundovan (Mileo 297),
 // ficha TruckScout24 (Mileo 297: dimensiones y mecánica), PDF motorvision.es (cama isla Mileo 297),
 // anuncio de concesionario roulot (referencia de precio Tessoro 440 UP). Verificado el 19/10/2026.
-// Notas honestas: Benimar no publica PVP en su web española; los precios quedan en null y
+// Notas honestas: Benimar no publica PVP en su web española; los precios quedan sin dato y
 // solo se citan referencias de concesionario en el texto con su fuente. La carga útil no se
-// publica para estos modelos y queda en null (prohibido calcularla).
+// publica para estos modelos y queda sin dato (prohibido calcularla).
 // Autocaravanas Benimar — lote Merlín 3 (19/10/2026).
 // Fuentes: review de Caravan Club con cifras de la literatura del fabricante
 // (https://www.caravanclub.co.uk/blog/product-and-outfit-reviews/motorhome-reviews/benimar-mileo-286/),
@@ -16,7 +16,7 @@
 // Verificado el 19/10/2026.
 // NOTAS HONESTAS: el modelo asignado (benimar-first-332) no existe —sin resultados en
 // catálogos ni prensa— y se sustituye por el Benimar Mileo 286, modelo real y documentado.
-// Benimar no publica tarifa oficial para España: precioDesde queda en null. La potencia de
+// Benimar no publica tarifa oficial para España: precioDesde queda sin dato. La potencia de
 // 180 CV y la caja automática de 9 velocidades corresponden a la variante 2.2 Multijet
 // (literatura del fabricante); las primeras unidades (2016) montaban el 2.3 de 150 CV manual
 // con MMA de 3.650 kg. La carga útil de 1.269 kg es la publicada por el fabricante en su
@@ -75,13 +75,13 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
 
     El salón delantero, con los asientos de cabina giratorios, da juego para comer, jugar a las cartas o teletrabajar una mañana de lluvia, y la cocina viene dimensionada para cocinar de verdad, no solo para calentar. El baño completo con ducha separada evita el apaño de la ducha sobre el WC que todavía se ve en campers baratos. En conjunto, es una célula luminosa y bien ventilada, con la claraboya delantera aportando la luz que las perfiladas necesitan para no parecer un pasillo.
 
-    Del precio, la honestidad que exige el brief: Benimar no publica PVP en su web española, así que el campo queda en null. Como referencia de mercado, el concesionario Mundovan anuncia una unidad del Mileo 297 en 87.723 euros; es el precio de un concesionario concreto con su equipamiento concreto, no una tarifa oficial, y sirve como orden de magnitud. Lo sensato es pedir presupuesto cerrado en dos o tres concesionarios Benimar —la marca tiene red en toda España— con el pack de chasis, el toldo, la placa solar y la batería auxiliar desglosados, porque ahí es donde se gana o se pierde dinero.
+    Del precio, la honestidad que exige el brief: Benimar no publica PVP en su web española, así que el campo queda sin dato. Como referencia de mercado, el concesionario Mundovan anuncia una unidad del Mileo 297 en 87.723 euros; es el precio de un concesionario concreto con su equipamiento concreto, no una tarifa oficial, y sirve como orden de magnitud. Lo sensato es pedir presupuesto cerrado en dos o tres concesionarios Benimar —la marca tiene red en toda España— con el pack de chasis, el toldo, la placa solar y la batería auxiliar desglosados, porque ahí es donde se gana o se pierde dinero.
 
     En el uso cotidiano, la Mileo 297 se defiende con argumentos que solo se aprecian viviéndola: la cama isla permite levantarse sin pasar por encima de la pareja, la cocina con sus fuegos y su horno —según equipamiento— invita a cocinar en ruta en lugar de tirar de bocadillos, y el baño con ducha separada convierte una semana de viaje en algo sostenible y no en un campamento. Los armarios altos y el garaje bajo la cama absorben la ropa de cuatro sin que la célula parezca un trastero, y la regulación en altura de la cama isla se convierte en el ajuste que se hace en cada viaje según lo que se cargue debajo.
 
     ¿Para quién es? Para la familia española de cuatro que quiere su primera autocaravana «de verdad» sin irse a ocho metros ni a presupuestos alemanes; para la pareja que viaja mucho y valora la cama isla regulable y el servicio postventa nacional; y para quien compra pensando en la reventa, porque Benimar es la marca española más líquida en ocasión. No es para quien necesita cinco plazas de viaje, ni para quien busca una integral con su parabrisas panorámico, ni para quien hace mucha montaña en invierno y prefiere calefacción de gasóleo (aquí manda el gas, como en la mayoría del segmento).
 
-    Cómo lo verificamos: la existencia del Mileo 297 en la gama 2026 se comprobó en la publicación oficial de Benimar en Instagram (recogida por autoyas.com) y en la ficha del concesionario Mundovan. Las dimensiones, la MMA y la mecánica proceden de la ficha de una unidad 2026 en TruckScout24. La cama isla de 150 cm regulable en altura consta en el PDF de motorvision.es. El precio español queda en null porque Benimar no lo publica; la referencia de Mundovan se cita como precio de concesionario con su fuente. Datos verificados el 19/10/2026.`,
+    Cómo lo verificamos: la existencia del Mileo 297 en la gama 2026 se comprobó en la publicación oficial de Benimar en Instagram (recogida por autoyas.com) y en la ficha del concesionario Mundovan. Las dimensiones, la MMA y la mecánica proceden de la ficha de una unidad 2026 en TruckScout24. La cama isla de 150 cm regulable en altura consta en el PDF de motorvision.es. El precio español queda sin dato porque Benimar no lo publica; la referencia de Mundovan se cita como precio de concesionario con su fuente. Datos verificados el 19/10/2026.`,
     pros: [
       "Cama isla de 150 cm regulable en altura: dormitorio de matrimonio y garaje a la carta",
       "7,39 metros y 3.500 kg: carnet B y maniobrabilidad de perfilada contenida",
@@ -153,8 +153,8 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
     notas:
       "Medidas de 6340 x 2320 x 2890 mm según el catálogo oficial Benimar (agosto 2026), que presenta la T440 UP como «perfilada de 6,34 m». MMA de 3500 kg. " +
       "Monta el Ford Transit 2.0 de 165 CV, con 4 plazas de viaje y 4 de noche, cama eléctrica basculante, ducha separada y frigorífico de 150 l (publicación oficial de Benimar en Instagram). " +
-      "Modelo encuadrado en la gama oficial benimar.es 2027 (T440UP). Precio en null (Benimar no publica tarifa ES); como referencia, el concesionario roulot anuncia una unidad por 75.595 €. " +
-      "Carga útil y consumo en null (sin dato oficial).",
+      "Modelo encuadrado en la gama oficial benimar.es 2027 (T440UP). Precio sin dato (Benimar no publica tarifa ES); como referencia, el concesionario roulot anuncia una unidad por 75.595 €. " +
+      "Carga útil y consumo sin dato (sin dato oficial).",
     curiosidades:
       "La Tessoro 440 UP, con 6,34 metros, es la benjamina de la gama UP: la familia Benimar que se reconoce por la cama basculante eléctrica sobre el salón y por el garaje trasero de volumen regulable. Fuente: catálogo oficial Benimar (agosto 2026) y web oficial benimar.es.",
     descripcion: `Dormir cuatro con dignidad no exige siete metros: la Benimar Tessoro 440 UP lo demuestra. Con 6,34 metros según el catálogo oficial de agosto de 2026, es la más corta de la gama UP —la familia Benimar de la cama basculante eléctrica— y su idea es de una simpleza genial: de día, salón despejado con garaje detrás; de noche, la cama eléctrica desciende del techo y el dormitorio aparece sin tocar un cojín.
@@ -169,7 +169,7 @@ El precio, como en toda la gama. Benimar no publica PVP en su web española: nul
 
 En carretera y en el día a día. Los 6,34 metros se traducen en una autocaravana que, con paciencia, entra en el parking del supermercado; que no exige parcela grande en el camping; que en una secundaria se comporta casi como un furgón grande. Del consumo no hay cifra oficial que citar, pero la aerodinámica contenida y el peso ajustado de la Tessoro juegan a su favor, y con 165 CV los puertos se coronan sin bajar a tercera ni ver pasar a los camiones. Es el formato perfecto para la escapada improvisada de fin de semana: se carga en una tarde y se deja en la puerta de casa sin pedir permiso al vecindario.
 
-Cómo lo verificamos: la T440 UP figura en la gama oficial de benimar.es (Tessoro 2027) y en el catálogo oficial de agosto de 2026, que la describe como «perfilada de 6,34 m»; de ese catálogo salen las medidas. El motor Ford de 165 CV, las 4 plazas, la cama eléctrica basculante, la ducha independiente y el frigo de 150 l constan en la publicación oficial de Benimar en Instagram. El precio español queda en null porque la marca no lo publica; la referencia de roulot se cita como precio de concesionario, con su fuente. Datos verificados el 19/10/2026.
+Cómo lo verificamos: la T440 UP figura en la gama oficial de benimar.es (Tessoro 2027) y en el catálogo oficial de agosto de 2026, que la describe como «perfilada de 6,34 m»; de ese catálogo salen las medidas. El motor Ford de 165 CV, las 4 plazas, la cama eléctrica basculante, la ducha independiente y el frigo de 150 l constan en la publicación oficial de Benimar en Instagram. El precio español queda sin dato porque la marca no lo publica; la referencia de roulot se cita como precio de concesionario, con su fuente. Datos verificados el 19/10/2026.
 
 Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete metros y medio; la familia con dos niños —ellos en la basculante, los padres en la cama trasera—; quien aparca en ciudad o en parcelas pequeñas y cuenta cada metro. No es para quien sueñe con cama isla fija (aquí la protagonista es la basculante), ni para quien necesite cinco plazas de viaje, ni para quien recela de los mecanismos eléctricos y prefiere la cama fija de toda la vida.`,
     pros: [
@@ -241,7 +241,7 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Motor 2.2 Multijet de 180 CV con cambio automático de 9 velocidades y 450 Nm según la literatura del fabricante recogida por Caravan Club (MRO 3.131 kg, MTPLM 4.400 kg, 6,95 x 2,30 x 2,89 m, depósito de 90 l). Las primeras unidades del modelo (2016) se vendían con el 2.3 Multijet de 150 CV manual y MMA de 3.650 kg, según ficha de distribuidor. La carga útil de 1.269 kg es la cifra de «user payload» publicada por el fabricante, no un cálculo. Quedan en null: precio oficial en España (Benimar no publica tarifa), consumo, emisiones de CO2 y autonomía.",
+      "Motor 2.2 Multijet de 180 CV con cambio automático de 9 velocidades y 450 Nm según la literatura del fabricante recogida por Caravan Club (MRO 3.131 kg, MTPLM 4.400 kg, 6,95 x 2,30 x 2,89 m, depósito de 90 l). Las primeras unidades del modelo (2016) se vendían con el 2.3 Multijet de 150 CV manual y MMA de 3.650 kg, según ficha de distribuidor. La carga útil de 1.269 kg es la cifra de «user payload» publicada por el fabricante, no un cálculo. Quedan sin dato: precio oficial en España (Benimar no publica tarifa), consumo, emisiones de CO2 y autonomía.",
     curiosidades:
       "Desde la temporada 2017, toda la gama Mileo se fabrica con construcción completamente sin madera («wood free»), una decisión de Benimar para proteger mejor la célula de la humedad y las filtraciones. Fuente: CaravanTimes, «The all new Benimar Mileo» (https://www.caravantimes.co.uk/save%20for%20laters-brand/newsletter-the-all-new-benimar-mileo-from-marquis-leisure/).",
     descripcion: `La Benimar Mileo 286 es una autocaravana perfilada de 6,95 metros que resume muy bien por qué la marca de Peñíscola se ha ganado fama de ofrecer la mejor relación calidad-precio del mercado europeo. Pertenece a la gama Mileo, la familia de perfiladas sobre chasis Fiat Ducato con la que Benimar ataca el segmento medio: ni la más barata ni la más lujosa, pero con un equipamiento de serie tan completo que en otros fabricantes habría que pagarlo como un largo listado de extras. La 286 es, dentro de esa gama, la versión pensada para parejas que quieren viajar con desahogo y recibir invitados de vez en cuando sin renunciar a una cama siempre hecha.
@@ -256,7 +256,7 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
 
     En precio, Benimar no publica tarifa oficial para España, así que no hay cifra de catálogo que dar: el precio lo pone cada concesionario según equipamiento y promociones. Como referencia, en Reino Unido la versión 180 CV automática se anunciaba en torno a las 88.000 libras. En España, la red de distribuidores Benimar es amplia —la fábrica está en Peñíscola (Castellón) y la marca pertenece al grupo Trigano—, por lo que pedir presupuesto y probar la 286 (o su equivalente actual en la gama) es sencillo en casi cualquier provincia. En el mercado de ocasión, las 286 de 2016-2019 con el 2.3 de 150 CV son una de las compras más razonables del segmento: mecánica probada, célula sin madera y un precio contenido.
 
-    Cómo lo verificamos: las dimensiones, pesos, motor y par proceden de la literatura del fabricante recogida en la prueba de Caravan Club; los datos de la variante 2016 (2.3 de 150 CV, MMA de 3.650 kg, distribución detallada) de la ficha de un distribuidor británico; la descripción de la gama Mileo (chasis Fiat, perfiladas de 289 cm) de la web oficial benimar.es; y el dato de la construcción sin madera desde 2017 de CaravanTimes. Todo verificado el 19/10/2026. Quedan en null el precio oficial español, el consumo y las emisiones, que el fabricante no publica.
+    Cómo lo verificamos: las dimensiones, pesos, motor y par proceden de la literatura del fabricante recogida en la prueba de Caravan Club; los datos de la variante 2016 (2.3 de 150 CV, MMA de 3.650 kg, distribución detallada) de la ficha de un distribuidor británico; la descripción de la gama Mileo (chasis Fiat, perfiladas de 289 cm) de la web oficial benimar.es; y el dato de la construcción sin madera desde 2017 de CaravanTimes. Todo verificado el 19/10/2026. Quedan sin dato el precio oficial español, el consumo y las emisiones, que el fabricante no publica.
 
     Para quién es: la Mileo 286 encaja con parejas viajeras que quieren una cama siempre hecha, un salón de verdad para cuatro y un garaje sin subir a los siete metros y medio. También con quien busca una ocasión fiable y bien equipada sin pagar el sobreprecio de las marcas premium alemanas. No es para quien solo tenga el carnet B y no quiera sacarse el C1 (necesario con sus 4.400 kg de MMA), ni para quien necesite cinco o seis plazas: aquí hay cuatro, y punto.`,
     pros: [

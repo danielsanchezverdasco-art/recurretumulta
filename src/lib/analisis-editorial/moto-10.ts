@@ -183,7 +183,7 @@ export const ANALISIS_MOTO_10: MapaAnalisis = {
     parrafos: [
       "La SRK 921RR es la deportiva del tetracilíndrico de 921 cc con ADN de MV Agusta: 129,2 CV, 235 km/h de velocidad máxima declarada y 9.000 €. Es la superbike china con pedigrí italiano, una combinación que hace unos años sonaba a ciencia ficción. Brembo Stylema, horquilla Marzocchi, ABS Bosch en curva, TFT y quickshifter: la parte ciclo y la electrónica están al nivel de su motor.",
       "El vínculo con MV Agusta marca su carácter: potencia arriba, sonido de cuatro cilindros y estética agresiva derivada de la técnica de Varese. Por 9.000 € no existe otra deportiva de 130 CV con este linaje ni esta presencia. Es el paquete completo de superbike moderna, con ayudas que permiten pilotar 129 CV con confianza en circuito.",
-      "Los peros son los de una marca en construcción: distribución europea aún limitada, con pocos puntos de venta y servicio, y 215 kilos, bastantes para una deportiva —las japonesas están 15-20 kilos por debajo—. Para el entusiasta que valora la exclusividad y acepta sus servidumbres. El consumo se dispara si se le exige, como en toda tetracilíndrica de 130 CV: no es una moto para mirar el surtidor.",
+      "Los peros son los de una marca en despliegue: distribución europea aún limitada, con pocos puntos de venta y servicio, y 215 kilos, bastantes para una deportiva —las japonesas están 15-20 kilos por debajo—. Para el entusiasta que valora la exclusividad y acepta sus servidumbres. El consumo se dispara si se le exige, como en toda tetracilíndrica de 130 CV: no es una moto para mirar el surtidor.",
     ],
     veredicto: "130 CV con ADN MV Agusta por 9.000 €; solo para entusiastas que asuman red limitada y peso.",
   },

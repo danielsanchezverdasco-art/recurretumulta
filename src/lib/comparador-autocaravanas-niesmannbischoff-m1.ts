@@ -1,8 +1,8 @@
 // Autocaravanas Niesmann+Bischoff — lote Merlín 4 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
 // Datos verificados: web oficial niesmann-bischoff.com (página oficial del modelo iSmove; la marca
 // no publica página dedicada a la implantación 6.9 E ni las plazas: plazas en «no oficial» desde
-// distribuidores, plazasDormir en null). Precio base de prensa alemana ~114.850 € en Alemania
-// MY2026, no oficial: precioDesde en null.
+// distribuidores, plazasDormir sin dato). Precio base de prensa alemana ~114.850 € en Alemania
+// MY2026, no oficial: sin precio oficial publicado.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [

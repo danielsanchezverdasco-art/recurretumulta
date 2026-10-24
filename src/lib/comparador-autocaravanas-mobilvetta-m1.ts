@@ -2,7 +2,7 @@
 // Datos verificados: mobilvetta.it (web oficial del modelo; la web muestra la temporada anterior,
 // pero la ficha del K-Yacht Tekno Line 86 sigue vigente). Motor Fiat Ducato de 140 CV y longitud
 // oficial de 7,45 m (corrección 4, 18/10/2026: la cifra de 180 CV era de anuncios, no oficial).
-// Mobilvetta no publica PVP: precioDesde en null, sin inventar. Carga útil no publicada: null.
+// Mobilvetta no publica PVP: sin precio oficial publicado, sin inventar. Carga útil no publicada: null.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_MOBILVETTA_M1: Autocaravana[] = [

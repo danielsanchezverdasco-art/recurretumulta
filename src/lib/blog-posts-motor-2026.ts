@@ -384,7 +384,7 @@ El duelo más interesante sería en casa: el Q06 mide solo 9 cm más que el Deep
 | Hasta 700 km de autonomía (CLTC) y 800 V de arquitectura | Los aranceles de la UE encarecerían mucho su precio aquí |
 | LiDAR de serie y 560 TOPS: el ADAS más ambicioso de su segmento | La normativa europea recortaría sus funciones de conducción asistida |
 | Versión EREV con hasta 1.600 km de autonomía total | Canibalizaría al Deepal S07, que acaba de llegar a España |
-| Interior muy equipado: masaje, nevera, pantalla trasera, frunk de 196 L | Marca aún en construcción en Europa: red y reventa por demostrar |
+| Interior muy equipado: masaje, nevera, pantalla trasera, frunk de 196 L | Marca aún en despliegue en Europa: red y reventa por demostrar |
 
 ## Preguntas frecuentes
 

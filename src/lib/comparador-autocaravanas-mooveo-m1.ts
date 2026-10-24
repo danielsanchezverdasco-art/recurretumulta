@@ -2,7 +2,7 @@
 // VERIFICACIÓN 18/10/2026: descripcion propia ≥800 palabras añadida (antes fuera del primer lote, orden Grok 22:15).
 // Datos: catálogo oficial Mooveo TEI 2026 (grupo Rapido) — «no oficial» para el TEI-60FB:
 // descatalogado de la gama 2026 (sustituido por el TEI-62DH), valores de exposés de
-// concesionarios. El fabricante no publica PVP: precioDesde en null.
+// concesionarios. El fabricante no publica PVP: sin precio oficial publicado.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_MOOVEO_M1: Autocaravana[] = [

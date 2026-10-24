@@ -6,7 +6,7 @@
 // 606F: ficha oficial del modelo + guide technique de la colección 2026 (perfilada Serie 6F,
 // «4 couchages» oficial, 6,69 m, PTAC 3,5/3,65 T, carga útil oficial 520 kg, Peugeot Boxer 2,2
 // 140 CV, cama de techo eléctrica, Truma Combi 4 diésel). Rapido NO publica precios por modelo
-// en su web pública: precioDesde en null (no inventar).
+// en su web pública: sin precio oficial publicado (no inventar).
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
 
 export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [

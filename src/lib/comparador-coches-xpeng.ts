@@ -429,7 +429,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     // Fuentes: autonocion.com, somoselectricos.com, elperiodicodelaenergia.com,
     // hibridosyelectricos.com, periodismodelmotor.com, apmc.cat, veomotor.com.
     // Cero cifras inventadas: lo no publicado (velocidad máx., peso, consumo
-    // WLTP, par, EuroNCAP, plan de mantenimiento) queda en null/omitido.
+    // WLTP, par, EuroNCAP, plan de mantenimiento) queda sin dato/omitido.
     id: "xpeng-l03-2026-precio-espana",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,

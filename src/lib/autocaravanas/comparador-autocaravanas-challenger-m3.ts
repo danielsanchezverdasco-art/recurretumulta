@@ -19,12 +19,12 @@
 // artículo de Camprest sobre la gama (http://camprest.com/en/blog/motorhome-caravan-news/challenger-closer-than-you-think).
 // Verificado el 19/10/2026.
 // NOTAS HONESTAS: Challenger (grupo Trigano) no publica tarifa oficial para España:
-// precioDesde queda en null. La potencia indicada (130 CV) es la de la versión base Break
+// precioDesde queda sin dato. La potencia indicada (130 CV) es la de la versión base Break
 // con cambio manual según la ficha oficial; la versión Etape monta el 2.0 de 165 CV con
 // automático de 8 velocidades. Aguas: la ficha PDF oficial indicaba 150 l de agua
 // limpia, pero la página oficial del modelo (octubre 2026) da 105 l de agua limpia y
 // 100 l de grises — se usa la cifra de la página oficial, discrepancia anotada.
-// La carga útil no la publica la marca: queda en null (prohibido calcularla). Fotos de
+// La carga útil no la publica la marca: queda sin dato (prohibido calcularla). Fotos de
 // anuncios de unidades reales del modelo exacto (sin marcas de agua), ≥1600 px.
 
 // --- Fuentes y notas del modelo 396 (w3) ---
@@ -35,7 +35,7 @@
 // Verificado el 19/10/2026.
 // Notas honestas: el Challenger 396 pertenece a la era Genesis (2018–2024 aprox.) y NO
 // figura en el catálogo 2026 de la marca (comprobado en su sitemap oficial de modelos).
-// No hay precio oficial actual: queda en null. La cifra de 50.490 € citada en la ficha
+// No hay precio oficial actual: queda sin dato. La cifra de 50.490 € citada en la ficha
 // corresponde al PVP de lanzamiento en 2018 (fuente: groupejean-auto.fr) y es solo
 // histórica. Las fotos interiores proceden del catálogo oficial 2019 (páginas del
 // sistema Duo Bed, específicas del 396); la foto exterior es una captura del vídeo
@@ -84,7 +84,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     notas:
-      "Perfilada sobre Ford Transit 2.0 (130 CV manual en versión Break, 165 CV automático de 8 velocidades en versión Etape), según ficha oficial de Challenger Suiza: 7,19 x 2,35 x 2,92 m, 3.069/3.500 kg, 4 plazas, cama central de 160x190 y cama abatible de 140x190 (opcional), calefacción Truma Combi de 4.000 W (6.000 W diésel en opción), agua limpia de 105 l y grises de 100 l según la página oficial del modelo (ch.challenger-motorhomes.com/modell/328/); la ficha PDF oficial indicaba 150 l de agua limpia (discrepancia entre fuentes oficiales, anotada). Cocina con 2 fuegos y frigorífico compresor de 140 l, ducha independiente y garaje, según ficha de distribuidor. Precio de referencia: 67.490 CHF en Suiza (web oficial, octubre 2026) — referencia extranjera; Challenger no publica tarifa oficial para España. Quedan en null: precio oficial en España, carga útil, par, consumo y emisiones, no publicados por la marca. Precio: PVP oficial Francia de la página oficial del modelo (challenger-camping-cars.fr, datos estructurados JSON-LD); no hay tarifa oficial para España.",
+      "Perfilada sobre Ford Transit 2.0 (130 CV manual en versión Break, 165 CV automático de 8 velocidades en versión Etape), según ficha oficial de Challenger Suiza: 7,19 x 2,35 x 2,92 m, 3.069/3.500 kg, 4 plazas, cama central de 160x190 y cama abatible de 140x190 (opcional), calefacción Truma Combi de 4.000 W (6.000 W diésel en opción), agua limpia de 105 l y grises de 100 l según la página oficial del modelo (ch.challenger-motorhomes.com/modell/328/); la ficha PDF oficial indicaba 150 l de agua limpia (discrepancia entre fuentes oficiales, anotada). Cocina con 2 fuegos y frigorífico compresor de 140 l, ducha independiente y garaje, según ficha de distribuidor. Precio de referencia: 67.490 CHF en Suiza (web oficial, octubre 2026) — referencia extranjera; Challenger no publica tarifa oficial para España. Quedan sin dato: precio oficial en España, carga útil, par, consumo y emisiones, no publicados por la marca. Precio: PVP oficial Francia de la página oficial del modelo (challenger-camping-cars.fr, datos estructurados JSON-LD); no hay tarifa oficial para España.",
     curiosidades:
       "Challenger bautiza sus perfiladas solo con números, y cada número identifica una distribución: el 328 es la variante con cama central trasera y cama abatible eléctrica en 7,19 metros. Fuente: Camprest, «Challenger - closer than you think» (http://camprest.com/en/blog/motorhome-caravan-news/challenger-closer-than-you-think).",
     descripcion: `La Challenger 328 es la perfilada francesa que mejor resume la filosofía de la marca del grupo Trigano: mucho espacio útil, mecánica Ford probada y un precio que pone las cosas difíciles a las alemanas. Con 7,19 metros de largo, es la variante con cama central trasera de la gama de perfiladas Challenger, un formato que muchos viajeros consideran el ideal cuando se viaja en pareja: cada uno se levanta sin pasar por encima del otro y la cama está siempre hecha.
@@ -99,7 +99,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
 
     En precio, Challenger no publica tarifa oficial para España, así que no hay cifra de catálogo: el precio lo fija cada concesionario. Como referencia, en Francia una unidad 328 Graphite Ultimate de 2024 con el 170 CV automático se anunciaba en torno a los 60.000 €, y las unidades nuevas 2026 Etape con packs rondan los 80.000 € de precio de catálogo alemán. En España, la red de Challenger —marca del gigante Trigano, con fábrica en Tournon-sur-Rhône— tiene presencia a través de distribuidores multimarca, por lo que conviene pedir presupuesto en varios y comparar el equipamiento incluido: los packs marcan mucha diferencia en el precio final.
 
-    Cómo lo verificamos: dimensiones, pesos, potencias, camas y calefacción proceden de la ficha oficial de Challenger Suiza en PDF; el detalle del equipamiento de la versión Etape 2026 (packs, aguas, ampliación a 4,1 t), del anuncio de un distribuidor alemán en TruckScout24; la cocina, el frigorífico y el precio de referencia francés, de la ficha de Groupe Jean. Todo verificado el 19/10/2026. Quedan en null el precio oficial español, la carga útil, el par, el consumo y las emisiones, no publicados por la marca. La discrepancia en el depósito de agua limpia (150 l oficial frente a 105 l en anuncios 2026) queda anotada.
+    Cómo lo verificamos: dimensiones, pesos, potencias, camas y calefacción proceden de la ficha oficial de Challenger Suiza en PDF; el detalle del equipamiento de la versión Etape 2026 (packs, aguas, ampliación a 4,1 t), del anuncio de un distribuidor alemán en TruckScout24; la cocina, el frigorífico y el precio de referencia francés, de la ficha de Groupe Jean. Todo verificado el 19/10/2026. Quedan sin dato el precio oficial español, la carga útil, el par, el consumo y las emisiones, no publicados por la marca. La discrepancia en el depósito de agua limpia (150 l oficial frente a 105 l en anuncios 2026) queda anotada.
 
     Para quién es: la Challenger 328 encaja con parejas que quieren cama central siempre hecha, cuatro plazas reales y carnet B, con un presupuesto más ajustado que el de las premium alemanas. La versión Etape con Arctic es además una candidata seria para viajar todo el año. No es para quien necesite cinco o seis plazas, para quien busque una mecánica con mucho brío en la versión básica de 130 CV ni para quien quiera moverse con agilidad por ciudad: 7,19 metros mandan.`,
     pros: [
@@ -200,7 +200,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Procedencia de los datos: dimensiones (7,46 x 2,35 x 2,89 m), PTAC 3.500 kg,  Precio: se deja en null porque el modelo 396 ya no figura en la gama oficial vigente de Challenger (la web oficial redirige a la lista de modelos actuales, sin 396); sin tarifa oficial vigente verificable." +
+      "Procedencia de los datos: dimensiones (7,46 x 2,35 x 2,89 m), PTAC 3.500 kg,  Precio: se deja sin dato porque el modelo 396 ya no figura en la gama oficial vigente de Challenger (la web oficial redirige a la lista de modelos actuales, sin 396); sin tarifa oficial vigente verificable." +
       "motor Fiat Ducato 2.3 Multijet de 140 CV, 4 plazas en circulación y 4 en " +
       "couchage proceden del anuncio de una unidad de 2021 en Yescapa " +
       "(yescapa.co.uk/campers/101199); el chasis Ford Transit 2.0 de 130 CV de las " +
@@ -231,7 +231,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
 
     Del precio hay que hablar con honestidad. Challenger no publica PVP actual del 396 porque el modelo ya no está en gama. La única cifra oficial que existe es histórica: 50.490 € era su precio de lanzamiento en 2018 según la ficha técnica de la época. Hoy la 396 solo se encuentra en el mercado de ocasión, donde su cotización depende del año, los kilómetros y el equipamiento. En España, la red de concesionarios Challenger —integrada en el grupo Trigano— sigue dando servicio a estos modelos para repuestos y mantenimiento de la célula, y cualquier taller multimarca puede ocuparse de la base Fiat o Ford. Si te interesa una, busca unidades a partir de 2020 y exige el libro de mantenimiento de la célula: la estanqueidad es el punto crítico en cualquier autocaravana con años.
 
-    Cómo lo verificamos (19/10/2026): las dimensiones, el PTAC, el motor Fiat Ducato 2.3 Multijet de 140 CV, las 4 plazas en circulación y las 4 de couchage proceden del anuncio detallado de una unidad de 2021 en Yescapa; el chasis Ford de las primeras unidades y el precio histórico de 2018 proceden de la ficha de groupejean-auto.fr; el sistema Duo Bed, sus medidas y el Premio Europeo de la Innovación 2018 proceden del catálogo oficial Challenger 2019 (páginas 13 a 15); y la ausencia del modelo en la gama actual se comprobó en el sitemap oficial de modelos de challenger-camping-cars.fr. Los datos sin fuente verificable quedan en null y así se declara.
+    Cómo lo verificamos (19/10/2026): las dimensiones, el PTAC, el motor Fiat Ducato 2.3 Multijet de 140 CV, las 4 plazas en circulación y las 4 de couchage proceden del anuncio detallado de una unidad de 2021 en Yescapa; el chasis Ford de las primeras unidades y el precio histórico de 2018 proceden de la ficha de groupejean-auto.fr; el sistema Duo Bed, sus medidas y el Premio Europeo de la Innovación 2018 proceden del catálogo oficial Challenger 2019 (páginas 13 a 15); y la ausencia del modelo en la gama actual se comprobó en el sitemap oficial de modelos de challenger-camping-cars.fr. Los datos sin fuente verificable quedan sin dato y así se declara.
 
     Para quién es: la Challenger 396 encaja con familias de dos adultos y dos niños que buscan una perfilada de ocasión con una idea de espacio realmente distinta y no quieren una litera fija que se coma medio salón. No es para quien necesita cinco plazas homologadas, para quien busca un modelo nuevo con garantía de fábrica, ni para parejas sin hijos: hay perfiladas de dos camas más racionales y baratas para ese uso. Si el Duo Bed te ha conquistado, verifica en persona que el mecanismo eléctrico funciona suave y sin ruidos: es su seña de identidad y debe estar impecable.`,
     pros: [

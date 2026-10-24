@@ -59,7 +59,7 @@ export const AUTOCARAVANAS_MALIBU_M3: Autocaravana[] = [
       "precioDesde (Malibu no publica PVP para España; el portal alemán alpacacamping.de " +
       "sitúa el precio de partida en torno a 65.000 € en Alemania, cifra aproximada y no " +
       "oficial), pesoKg (sin dato oficial; un anuncio cita 3.144 kg), cargaUtilKg, consumo, " +
-      "par, tracción y emisiones (la marca no los publica). Plazas para dormir: 2 de serie,  Precio: se deja en null porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
+      "par, tracción y emisiones (la marca no los publica). Plazas para dormir: 2 de serie,  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
       "4 con el techo elevable opcional family-for-4.",
     curiosidades:
       "El Van diversity coupé 640 LE K puede pedirse con unos característicos «ojos de buey» " +
@@ -130,7 +130,7 @@ Van diversity y ficha del modelo 640 LE K) el 19/10/2026 y contrastamos medidas,
 motorizaciones y equipamiento con anuncios detallados de concesionarios alemanes en
 truckscout24 (unidades nuevas y matriculadas del modelo exacto). Los datos sin respaldo
 oficial —precio para España, masa en orden de marcha, carga útil, consumos— quedan
-declarados en null en la ficha técnica y explicados en las notas.
+declarados sin dato en la ficha técnica y explicados en las notas.
 
 Para quién es: para parejas viajeras que quieren una camper grande, bien aislada y con
 acabado premium sin saltar a una perfilada; para quien duerme mejor en camas gemelas
@@ -216,7 +216,7 @@ segmento: Malibu juega en la parte alta y lo cobra.`,
       "precioDesde (Malibu no publica PVP para España; la guía 2026 británica parte de " +
       "74.340 £, precio de otro mercado), cargaUtilKg, consumo, par, tracción y emisiones " +
       "(la marca no los publica). En la gama 2026 el modelo figura en el configurador " +
-      "oficial como «I 500 RB-QB comfort 4.2 t». Fotos: prueba de prensa de Out & About Live  Precio: se deja en null porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
+      "oficial como «I 500 RB-QB comfort 4.2 t». Fotos: prueba de prensa de Out & About Live  Precio: se deja sin dato porque Malibu (grupo Carthago) solo ofrece el precio base por modelo en su configurador en línea; sin PVP abierto verificable por modelo." +
       "sobre la unidad exacta (no oficiales de fábrica), sin marcas de agua ni concesionario.",
     curiosidades:
       "Malibu diseñó un garaje específico para los modelos con cama queen como el I 500 QB: " +
@@ -284,7 +284,7 @@ y garaje Pedelec; prueba «Malibu I 500 QB Touring» de Peter Vaughan en
 outandaboutlive.co.uk para comportamiento, precios británicos y equipamiento opcional;
 y guía «Malibu motorhomes: 2026 essential guide» del mismo medio para el precio de
 partida 2026. Lo no publicado por la marca (precio en España, carga útil, consumos)
-queda en null y declarado en las notas.
+queda sin dato y declarado en las notas.
 
 Para quién es: para parejas que quieren una integral premium con cama queen accesible
 por los dos lados y baño de verdad, sin pagar lo que cuesta una Carthago; para quien

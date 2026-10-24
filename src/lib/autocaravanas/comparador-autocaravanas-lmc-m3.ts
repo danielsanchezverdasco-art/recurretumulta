@@ -17,7 +17,7 @@
 // de LMC (la gama Explorer I se descatalogó; la web oficial solo lista Tracer, Tourer y Cruiser).
 // Se sustituye por el LMC Cruiser 740 EL, perfilada actual de la marca, con datos oficiales completos.
 // Notas honestas: precio 91.990 € = PVP recomendado en Alemania (la marca advierte que puede variar
-// por país); cargaUtilKg queda en null porque LMC no publica carga útil como tal (solo la masa para
+// por país); cargaUtilKg queda sin dato porque LMC no publica carga útil como tal (solo la masa para
 // equipamiento opcional del fabricante); plazas dormir 2 de serie (hasta 5 con techo elevable opcional);
 // consumo, emisiones y autonomía no publicados por la marca.
 
@@ -72,11 +72,11 @@ export const AUTOCARAVANAS_LMC_M3: Autocaravana[] = [
       "(manual o automático); camas: abatible delantera de 213x110-55, individuales " +
       "centrales de 200x88 y traseras de 185x88/200x88 según la configuración; depósitos " +
       "de 100 l de agua y 90 l de grises, batería de 95 Ah y calefacción Truma Combi de " +
-      "gas. Quedan en null precioDesde (la marca no publica PVP para España; la prensa " +
+      "gas. Quedan sin dato precioDesde (la marca no publica PVP para España; la prensa " +
       "alemana habla de 83.500 € de base en Alemania), cargaUtilKg, par, tracción y " +
       "emisiones. La masa en orden de marcha varía entre fuentes: 3.035 kg según " +
       "camperstyle y 3.048 kg según alpacacamping. Imágenes de la prueba de prensa de " +
-      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja en null porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
+      "camperstyle.de con la unidad exacta (no son fotos oficiales de fábrica), sin  Precio: se deja sin dato porque no se ha localizado lista de precios oficial abierta de LMC (Erwin Hymer Group): la marca no expone PVP por modelo en su web oficial y el precio base solo se obtiene en su configurador en línea; solo constan precios de concesionarios y portales, que no se usan como oficiales." +
       "marcas de agua ni imágenes de concesionario.",
     curiosidades:
       "El «Lift» de su denominación se toma al pie de la letra: una cama abatible " +
@@ -98,7 +98,7 @@ En mecánica, el Ford Transit 2.0 EcoBlue de 130 CV con caja manual de seis velo
 
 En precio y red comercial en España, LMC no publica tarifa oficial para nuestro país, así que el precio figura como «no publicado». Como orientación —alemana, sin validez oficial para España—, la prensa especializada menciona un precio de salida de 83.500 euros en Alemania para la First Edition. En España la marca se comercializa a través de concesionarios multimarca y de la red del grupo Hymer; merece la pena pedir presupuesto cerrado, porque el paso del 130 al 170 CV, la caja automática y los paquetes modifican sensiblemente la factura final.
 
-Cómo lo verificamos: prueba exhaustiva «LMC Tourer Lift Ford H 664 G» de Stefan Blanz en camperstyle.de (consultada el 19/10/2026), con mediciones técnicas propias y vehículo facilitado por LMC; ficha de la serie Tourer Lift Ford en alpacacamping.de para cotejar medidas, pesos y depósitos; y anuncios de unidades del modelo exacto en truckscout24 y camprest.com para confirmar motores y plazas. Lo que la marca no publica (precio en España, carga útil, par, emisiones) permanece en null y queda declarado en las notas.
+Cómo lo verificamos: prueba exhaustiva «LMC Tourer Lift Ford H 664 G» de Stefan Blanz en camperstyle.de (consultada el 19/10/2026), con mediciones técnicas propias y vehículo facilitado por LMC; ficha de la serie Tourer Lift Ford en alpacacamping.de para cotejar medidas, pesos y depósitos; y anuncios de unidades del modelo exacto en truckscout24 y camprest.com para confirmar motores y plazas. Lo que la marca no publica (precio en España, carga útil, par, emisiones) permanece sin dato y queda declarado en las notas.
 
 Para quién es: familias de cuatro que buscan una perfilada con camas gemelas y abatible eléctrica a un precio de partida contenido; conductores que aprecian el Ford Transit actual con sus asistentes de conducción; viajeros de todo el año que valoran la calefacción Truma, el depósito de grises calefactado y los 12 años de garantía de estanqueidad. No encaja con quien necesite cinco plazas (no existen en este modelo) ni con quien desee una automática sin pagarla: el cambio automático solo se combina con el motor de 170 CV y siempre como opción.`,
     pros: [
@@ -227,9 +227,9 @@ Cómo lo verificamos: todos los datos técnicos, medidas y precios proceden de l
 Cruiser 740 EL publicada en lmc-caravan.com, consultada el 19/10/2026. El modelo asignado
 originalmente (Explorer I 675 G) no aparece en la gama oficial actual de LMC —la marca solo lista
 Tracer, Tourer y Cruiser—, por lo que se sustituyó por este modelo vigente con datos completos. La
-carga útil queda en null porque LMC no la publica como tal (prohibido calcularla restando masas);
+carga útil queda sin dato porque LMC no la publica como tal (prohibido calcularla restando masas);
 el consumo, las emisiones de CO2 y el par motor no figuran en la documentación oficial y también
-quedan en null.
+quedan sin dato.
 
 Para quién es: parejas viajeras que quieren una perfilada de 7,4 metros con camas gemelas
 convertibles, carnet B y un equipamiento de serie muy completo por unos 92.000 euros de base en

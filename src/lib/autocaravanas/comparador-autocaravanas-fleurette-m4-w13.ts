@@ -57,7 +57,7 @@ export const AUTOCARAVANAS_FLEURETTE_M4: Autocaravana[] = [
       "eléctrico opcional sobre el salón añade la cuarta plaza. precioDesde=null: " +
       "Fleurette no publica tarifa; la venta es por red de concesionarios. " +
       "cargaUtilKg=null: la marca no publica la carga útil (prohibido calcularla). " +
-      "Fotos: las cuatro son oficiales de Fleurette (web y catálogo 2025); no se  Precio: se deja en null porque Fleurette no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
+      "Fotos: las cuatro son oficiales de Fleurette (web y catálogo 2025); no se  Precio: se deja sin dato porque Fleurette no publica PVP en su web oficial (los precios se obtienen en su red de concesionarios); sin tarifa oficial abierta verificable." +
       "localizó ningún exterior verificado del 70 LMF, queda anotado como hueco.",
     curiosidades:
       "Fleurette presume de ser el único fabricante europeo que construye sus " +

@@ -23,7 +23,7 @@ export type CocheSemanaOverride = {
 };
 
 /**
- * OVERRIDE EDITORIAL: pon aquí el pick manual o deja null para rotación automática.
+ * OVERRIDE EDITORIAL: pon aquí el pick manual o deja sin dato para rotación automática.
  * Ejemplo:
  *   { id: "renault-5-e-tech-2026-precio-autonomia",
  *     titular: "El coche de la semana: el urbano que sí convence",

@@ -637,7 +637,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       "Precio en España sin confirmar",
       "Sin prueba EuroNCAP publicada",
       "Consumo elevado con 912 CV",
-      "Red Zeekr en España en construcción",
+      "Red Zeekr en España en despliegue",
       "Tamaño grande: 4,98 m para ciudad",
     ],
     imagen: "/media/zeekr-001-2026-precio-ficha-tecnica-hero.webp",
@@ -724,7 +724,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
       url: null,
       nota: "5 estrellas Euro NCAP 2024 (91 % adultos, 90 % niños)",
     },
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Zeekr Europa, página oficial Zeekr Care (zeekr.eu/care, verificada el 22/10/2026): servicio cada dos años o 40.000 km; tabla oficial de mantenimiento de Zeekr con inspección, filtro de habitáculo, líquido de frenos, refrigerante y aceite del reductor. Sin precios oficiales publicados, por eso los costes quedan en null.", "intervalo": "Cada 2 años o 40.000 km en Europa (plan oficial Zeekr Care), lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 2 años o 40.000 km", "queSeCambia": "Inspección general programada con sustitución del filtro del habitáculo y comprobación o sustitución, según la tabla oficial Zeekr, del líquido de frenos, el refrigerante y el aceite del reductor trasero en esta versión de tracción trasera"}, {"costeAproxEur": null, "nombre": "Revisiones programadas siguientes cada 2 años o 40.000 km", "queSeCambia": "Repetición de la inspección oficial con los mismos puntos de control: filtro del habitáculo, líquido de frenos, refrigerante y lubricante del reductor, siempre en centro autorizado Zeekr para conservar la garantía ampliada"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Zeekr Europa, página oficial Zeekr Care (zeekr.eu/care, verificada el 22/10/2026): servicio cada dos años o 40.000 km; tabla oficial de mantenimiento de Zeekr con inspección, filtro de habitáculo, líquido de frenos, refrigerante y aceite del reductor. Sin precios oficiales publicados, por eso los costes quedan sin dato.", "intervalo": "Cada 2 años o 40.000 km en Europa (plan oficial Zeekr Care), lo primero que se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 2 años o 40.000 km", "queSeCambia": "Inspección general programada con sustitución del filtro del habitáculo y comprobación o sustitución, según la tabla oficial Zeekr, del líquido de frenos, el refrigerante y el aceite del reductor trasero en esta versión de tracción trasera"}, {"costeAproxEur": null, "nombre": "Revisiones programadas siguientes cada 2 años o 40.000 km", "queSeCambia": "Repetición de la inspección oficial con los mismos puntos de control: filtro del habitáculo, líquido de frenos, refrigerante y lubricante del reductor, siempre en centro autorizado Zeekr para conservar la garantía ampliada"}]},
     galeria: [
       
       
@@ -1265,7 +1265,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     cargaRapidaKw: 85,
     etiquetaDgt: "Cero",
     garantiaBateriaAnos: 8,
-    garantiaBateriaKm: 150000,
+    garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
     largoMm: 4820,
     anchoMm: 1915,

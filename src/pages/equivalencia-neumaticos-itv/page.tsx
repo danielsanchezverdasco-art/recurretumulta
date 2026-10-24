@@ -59,10 +59,6 @@ export default function EquivalenciaNeumaticosItvPage() {
           </div>
           </section>
 
-              <figure className="mb-8">
-  <video src="/media/neumaticos.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: primer plano de la banda de rodadura de un neumático" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: el dibujo del neumático, lo que revisa la ITV.</figcaption>
-</figure>
       <figure className="my-8">
         <img src="/media/neumaticos-comparativa-medidas.webp" alt="Dos neumáticos de medidas distintas comparados lado a lado con una cinta métrica en un taller" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>

@@ -109,6 +109,9 @@ Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene 
 
 ## Fuentes
 
+- <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>CarNewsChina: Nio's Firefly launches 60 kWh battery version (23/10/2026)</a>
+- <a href=https://cnevpost.com/2026/10/23/nio-firefly-launches-60-kwh-battery-pack/>CnEVPost: Nio Firefly launches larger 60-kWh battery pack (23/10/2026)</a>
+- <a href=https://www.somoselectricos.com/coches-electricos/nio-revoluciona-coche-electrico-pequeno-560-km-autonomia-bateria-actualizable/20261023104558064636.html>Somos Eléctricos: el Firefly alcanza los 560 km (23/10/2026)</a>
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
@@ -312,11 +315,11 @@ Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.onli
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   },
   {
-    title: "NIO Firefly: 143 CV",
+    title: "NIO Firefly: batería de 60 kWh con 560 km de autonomía",
     slug: "nio-firefly-precio-espana-ficha-tecnica",
-    excerpt: "Firefly, la marca asequible de NIO: utilitario eléctrico de 4 metros, 143 CV, tracción trasera y 330 km WLTP, a la venta en media Europa por 29.900 €.",
+    excerpt: "Firefly estrena batería CATL de 60 kWh: 560 km CLTC, mismo tamaño y peso, y los dueños actuales pueden actualizarla. En China desde 136.800 yuanes.",
     category: "Novedades Motor",
-    date: "2026-10-02",
+    date: "2026-10-23",
     readTime: 7,
     locale: "all",
     keywords: [
@@ -325,15 +328,35 @@ Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.onli
       "nio firefly europa",
       "coche eléctrico urbano chino 2026",
       "nio firefly autonomía",
+      "nio firefly 60 kwh",
+      "nio firefly 560 km",
       "nio firefly vs renault 5"
     ],
-    content: `<img src=/media/nio-firefly-precio-espana-ficha-tecnica-hero.webp alt=Pequeño coche eléctrico urbano NIO Firefly blanco con faros redondos aparcado en una plaza de casco antiguo europeo>
+    content: `<img src=/media/nio-firefly-precio-espana-ficha-tecnica-hero.webp alt=NIO Firefly blanco, vista delantera tres cuartos con sus faros de triple círculo>
+
+*Foto: Wikimedia Commons (licencia por confirmar; no es imagen oficial de la marca).*
 
 **¿Buscas solo los datos?** <a href=/coches/nio-firefly-precio-espana-ficha-tecnica/>Ver ficha técnica del NIO Firefly</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**Firefly** ("luciérnaga") es la tercera marca del grupo **NIO**, tras NIO y Onvo, y su misión es clara: ser el MINI de los chinos, un utilitario eléctrico urbano con acabado premium. Presentado en diciembre de 2024 y a la venta en China desde abril de 2025, ya rueda por **Países Bajos, Noruega, Austria, Bélgica, Portugal y Singapur** por **29.900 €**. En España aún no tiene fecha ni precio oficiales, pero "llegará próximamente". Y con más de **80.000 unidades entregadas** en China, no es una promesa vacía.
+**Firefly** ("luciérnaga") es la tercera marca del grupo **NIO**, tras NIO y Onvo, y su misión es clara: ser el MINI de los chinos, un utilitario eléctrico urbano con acabado premium. Presentado en diciembre de 2024 y a la venta en China desde abril de 2025, ya rueda por **Países Bajos, Noruega, Austria, Bélgica, Portugal y Singapur** por **29.900 €**. En España aún no tiene fecha ni precio oficiales, pero "llegará próximamente". Y con más de **90.000 unidades entregadas** en China (octubre de 2026), no es una promesa vacía.
 
-El dato más NIO de todos: es **compatible con el sistema de intercambio de baterías Power Swap**, aunque la modalidad de alquiler de batería (BaaS) aún no funciona en Europa y la marca prepara estaciones específicas más baratas. Ojo: la futura versión de 161 CV con batería de 60 kWh **no sería compatible** con el intercambio, según filtraciones.
+El dato más NIO de todos: es **compatible con el sistema de intercambio de baterías Power Swap**, aunque la modalidad de alquiler de batería (BaaS) aún no funciona en Europa y la marca prepara estaciones específicas más baratas. Y la noticia de hoy lo confirma: la nueva batería de 60 kWh **sí es intercambiable**, y los propietarios actuales pueden actualizar la suya pagando la diferencia.
+
+## Novedad del 23/10/2026: batería CATL de 60 kWh con 560 km
+
+**Firefly ha lanzado hoy en China la esperada versión con batería de 60 kWh suministrada por CATL**: la autonomía sube de 420 a **560 km en ciclo CLTC** (+140 km, un 33 % más) **sin cambiar el tamaño ni el peso** de la batería, gracias a celdas ternarias de litio de 187,2 Wh/kg.
+
+| | Batería 42,1 kWh | Batería 60 kWh (nueva) |
+|---|---|---|
+| **Química** | LFP (Sunwoda) | Ternaria de litio (CATL) |
+| **Autonomía CLTC** | 420 km | 560 km |
+| **Autonomía WLTP** | 330 km | ~450 km (estimación de la prensa, sin cifra oficial) |
+| **Precio en China** | desde 119.800 yuanes | desde 136.800 yuanes |
+| **Alquiler de batería (BaaS)** | 399 yuanes/mes | 599 yuanes/mes |
+
+Lo más interesante: **los que ya tienen un Firefly pueden actualizar**. Quien compró el coche con la batería en propiedad paga la diferencia (**17.000 yuanes**, unos 2.530 dólares); quien usa el alquiler BaaS paga un servicio de actualización de **3.000 yuanes**. Al ser compatible con el intercambio (Power Swap), el cambio se hace en minutos en una estación.
+
+En Europa la versión de 60 kWh aún no tiene fecha: por ahora seguimos con la de 42,1 kWh y 330 km WLTP.
 
 ## Precio: en España, pendiente
 
@@ -344,9 +367,9 @@ El dato más NIO de todos: es **compatible con el sistema de intercambio de bate
 
 Se mueve, por tanto, en el entorno de los **30.000 €** en Europa, con dos acabados (Select y Comfort) cuyo desglose de equipamiento está pendiente de confirmación.
 
-<img src=/media/nio-firefly-precio-espana-ficha-tecnica-oficial.webp alt=NIO Firefly, urbano eléctrico, vista frontal>
+<img src=/media/nio-firefly-precio-espana-ficha-tecnica-oficial.webp alt=NIO Firefly, urbano eléctrico, vista trasera tres cuartos>
 
-<img src=/media/nio-firefly-precio-espana-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del nio firefly precio espana ficha tecnica>
+<img src=/media/nio-firefly-precio-espana-ficha-tecnica-interior-oficial.webp alt=Interior del NIO Firefly: volante de dos radios y pantalla central de 13,2 pulgadas>
 
 ¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
@@ -396,7 +419,10 @@ Vídeo: <a href=https://www.youtube.com/watch?v=MZeTJNeHWio>Todos Eléctricos</a
 Precio español **no publicado**. En Países Bajos cuesta 29.900 € con IVA, así que se moverá en el entorno de los 30.000 €.
 
 ### ¿La batería del Firefly se puede intercambiar?
-Es **compatible con el Power Swap** de NIO, pero la red europea de estaciones específicas aún está en despliegue y el alquiler de batería (BaaS) no funciona todavía en Europa.
+Es **compatible con el Power Swap** de NIO, pero la red europea de estaciones específicas aún está en despliegue y el alquiler de batería (BaaS) no funciona todavía en Europa. En China, los propietarios ya pueden actualizar a la batería de 60 kWh mediante el intercambio: 17.000 yuanes de diferencia si la batería es en propiedad, o 3.000 yuanes de servicio si usan BaaS.
+
+### ¿Qué autonomía tiene la versión de 60 kWh?
+**560 km en ciclo CLTC** (el ciclo de homologación chino, más optimista que el WLTP). La prensa especializada estima unos 450 km WLTP, pero aún no hay cifra oficial. De momento esta versión solo se vende en China.
 
 ### ¿Qué autonomía tiene?
 **330 km WLTP** combinados (hasta 470 km en uso puramente urbano), con una batería LFP de 42,1 kWh.

@@ -7,11 +7,11 @@
 // Correcciones aplicadas: (a) descripcion propia ≥800 palabras, con «Cómo lo verificamos»
 // y «Para quién es»; (b) notas con procedencia de cada dato y motivo de cada «aprox»;
 // (c) plazasDormir investigado: 4 (cama trasera + salón convertible); (d) bloque
-// costeMensual eliminado; (e) cargaUtilKg en null por orden de Grok (19/10/2026, agente F7): McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022), pero el campo queda en null sin calcular MMA−MRO; la cifra se documenta en notas con su fuente. Verificado el 19/10/2026: no existe catálogo McLouis 2025 ni 2026 con el MC4 231 (la gama 2025 trae MC4 Slim/321/360/365/373/379/381/86x/87x/881 y la web 2026 ya no lista el 231); se mantiene «catálogo 2022»; (f) analisisSlug en
+// costeMensual eliminado; (e) carga útil sin dato publicado por orden de Grok (19/10/2026, agente F7): McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022), pero el campo queda sin dato sin calcular MMA−MRO; la cifra se documenta en notas con su fuente. Verificado el 19/10/2026: no existe catálogo McLouis 2025 ni 2026 con el MC4 231 (la gama 2025 trae MC4 Slim/321/360/365/373/379/381/86x/87x/881 y la web 2026 ya no lista el 231); se mantiene «catálogo 2022»; (f) analisisSlug en
 // formato «-analisis-opinion»; (g) fuenteNombre/fuenteUrl: web oficial mclouis.com (la
 // página del modelo ya no existe; se cita la fuente 2022 en notas); (h) precioDesde null
 // (sin PVP oficial); (i) fotos en formato «-ext.webp» / «-interior.webp»; (l) potenciaCv,
-// pesoKg en «aprox» (datos del catálogo 2022, sin ficha 2026; cargaUtilKg en null por orden Grok 19/10/2026; la potencia
+// pesoKg en «aprox» (datos del catálogo 2022, sin ficha 2026; carga útil sin dato publicado por orden Grok 19/10/2026; la potencia
 // puede variar según la unidad: Fiat 120 CV o Ford 170 CV según año y pack).
 import type { Autocaravana } from "./tipos.ts";
 
@@ -46,7 +46,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     pesoKg: 2758, // «aprox»: catálogo oficial 2022 (2.758–2.898 kg según equipamiento)
     mmaKg: 3500, // catálogo oficial 2022
     carnetNecesario: "B",
-    cargaUtilKg: null, // orden Grok 19/10/2026: campo en null; McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022), documentada en notas sin calcular MMA−MRO
+    cargaUtilKg: null, // orden Grok 19/10/2026: campo sin dato; McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022), documentada en notas sin calcular MMA−MRO
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // 4 plazas de circulación con cinturón
@@ -56,7 +56,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["potenciaCv", "pesoKg"],
     notas:
-      "Todos los datos técnicos proceden del catálogo oficial McLouis 2022, última tabla técnica oficial publicada con el MC4 231 (el PDF original ya no está disponible en línea); van en «aprox» porque la marca aún no publica la ficha 2026 y el modelo no figura en el listino 2026, por lo que su continuidad en gama es dudosa. La potencia (120 CV) puede variar según la unidad: la prensa especializada (camperlife.it) documenta el MC4 231 sobre Ford Transit 2.0 con 170 CV en el Pack 200; confirmar la motorización con el concesionario. McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022); por orden de revisión el campo cargaUtilKg queda en null y no se calcula MMA−MRO. Sin PVP oficial: precioDesde en null. Precio: se deja en null porque el MC4 231 (Serie 200) no figura en el listino oficial vigente de McLouis (Italia 2026: Slim, Serie 300, Serie 800 y Menfys); sin tarifa oficial vigente verificable para este modelo.",
+      "Todos los datos técnicos proceden del catálogo oficial McLouis 2022, última tabla técnica oficial publicada con el MC4 231 (el PDF original ya no está disponible en línea); van en «aprox» porque la marca aún no publica la ficha 2026 y el modelo no figura en el listino 2026, por lo que su continuidad en gama es dudosa. La potencia (120 CV) puede variar según la unidad: la prensa especializada (camperlife.it) documenta el MC4 231 sobre Ford Transit 2.0 con 170 CV en el Pack 200; confirmar la motorización con el concesionario. McLouis publica una carga útil de 602 a 742 kg según equipamiento (catálogo 2022); por orden de revisión el campo cargaUtilKg queda sin dato y no se calcula MMA−MRO. Sin PVP oficial: sin precio oficial publicado. Precio: se deja sin dato porque el MC4 231 (Serie 200) no figura en el listino oficial vigente de McLouis (Italia 2026: Slim, Serie 300, Serie 800 y Menfys); sin tarifa oficial vigente verificable para este modelo.",
     curiosidades:
       "El 231 nació en 2021 dentro de la Serie 200, la gama con la que McLouis eliminó la madera de la estructura: paredes y techo con revestimiento de fibra de vidrio por dentro y por fuera, aislamiento de PS impermeable y 5 años de garantía anti-infiltración. Fuente: McLouis, «McLouis presents the SERIES 200» (https://www.mclouis.com/mclouis-presents-the-series-200/).",
     descripcion: `El McLouis MC4 231 es la ficha más honesta de este lote porque empieza reconociendo lo que no sabe: este modelo no aparece en el listino McLouis de 2026 y la marca aún no publica sus fichas técnicas para la temporada. La última tabla técnica oficial que lo incluye es el catálogo de 2022, y todo lo que sigue procede de ahí, de la prueba que le dedicó la prensa especializada italiana y de las fichas de concesionarios que aún lo venden en stock. Comprar un MC4 231 hoy es comprar un modelo en el limbo: posiblemente una de las últimas unidades de una generación que se apaga, con todo lo bueno y todo lo arriesgado que eso implica. Lo bueno es el precio que suelen tener las unidades de fin de serie; lo arriesgado, que conviene preguntar por el soporte de recambios antes de firmar.

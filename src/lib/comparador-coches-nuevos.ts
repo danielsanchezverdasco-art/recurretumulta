@@ -40,6 +40,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
+      "Récord de preventa: 15.045 pedidos el primer día en Corea (21/10/2026), un 39 % más que la 4.ª gen",
       "Cambio de generación total: diseño «Art of Steel» rompedor, por fin con carácter",
       "Gama 100 % electrificada en Europa: gasolina 150 CV, híbrido 245 CV y PHEV 292 CV",
       "PHEV con 81 km de autonomía eléctrica y etiqueta Cero: blindado para las ZBE",
@@ -84,6 +85,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
         "alt": "Nuevo Hyundai Tucson 2027 gris, vista tres cuartos delantera",
         "ancho": 1200,
         "alto": 800
+      },
+      {
+        "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-galeria-hero2.webp",
+        "alt": "Hyundai Tucson 2027 de 5.ª generación, vista tres cuartos delantera con la barra lumínica H-Edge",
+        "ancho": 1200,
+        "alto": 610
+      },
+      {
+        "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-galeria-trasera.webp",
+        "alt": "Hyundai Tucson 2027 de 5.ª generación, vista trasera con las lámparas Prism",
+        "ancho": 768,
+        "alto": 378
       },
       {
         "src": "/media/nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica-oficial-3.webp",
@@ -131,7 +144,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Existe versión REEV con 145 km eléctricos (desde 33.724 €)",
     ],
     contras: [
-      "Marca nueva en España: red de servicio en construcción",
+      "Marca nueva en España: red de servicio en despliegue",
       "Consumo alto para un eléctrico (19,8 kWh/100 km)",
       "Carga rápida de 83 kW, lejos de los 100+ kW de rivales",
       "Interior y acabados menos refinados que los europeos",
@@ -230,7 +243,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Solo 4 plazas y maletero de 210 L: muy justo",
       "95 CV y 130 km/h: coche solo para ciudad",
       "Interior sencillo con plásticos duros",
-      "Marca nueva: postventa en construcción",
+      "Marca nueva: postventa en despliegue",
       "Prestaciones modestas frente al Dacia Spring",
     ],
     largoMm: 3620,
@@ -2318,7 +2331,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     id: "tesla-roadster-2026-retraso-precio-ficha-tecnica",
     // 17/10/2026: actualizada a la presentación de Waco (15/10/2026, producción en 2028).
     // Fuente: anuncio de Tesla en X y crónicas de InsideEVs, Jalopnik y TechCrunch (ver /blog/tesla-roadster-2028-presentacion/).
-    // Tesla no ha publicado potencia, batería, medidas, peso ni precio: se dejan en null en vez de inventarlos.
+    // Tesla no ha publicado potencia, batería, medidas, peso ni precio: se dejan sin dato en vez de inventarlos.
     marca: "Tesla",
     modelo: "Roadster",
     tipo: "Eléctrico",
@@ -2884,7 +2897,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Sin fecha ni precio confirmado para Europa",
       "Los aranceles de la UE encarecerían mucho su precio",
       "Autonomía de 700 km en ciclo chino CLTC, no WLTP",
-      "Marca aún en construcción en Europa",
+      "Marca aún en despliegue en Europa",
     ],
     largoMm: 4840,
     anchoMm: 1970,

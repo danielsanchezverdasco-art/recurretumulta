@@ -77,6 +77,14 @@
 | /media/skoda-enyaq-coupe-85x-2026-1.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
 | /media/skoda-enyaq-coupe-85x-2026-1-card.webp | https://www.skoda-storyboard.com/en/press-kits/new-skoda-enyaq-press-kit-2/ | Škoda | prensa |
 | /media/mercedes-amg-cle-53-cabrio-2025-1.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
+| /media/bmw-serie-7-2027-frontal.webp | https://geeksroom.com/2026/04/bmaw-7-series-2027/145686/ | BMW (kit de prensa, vía medio) | prensa |
+| /media/bmw-serie-7-2027-lateral.webp | https://mikeshouts.com/2027-bmw-7-series-bmw-i7-neue-klasse/ | BMW (kit de prensa, vía medio) | prensa |
+| /media/lexus-tz-2026-verde-gaia.webp | https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/ | Lexus (prensa oficial) | prensa |
+| /media/lexus-tz-550e-2026.webp | https://media.lexus.co.uk/images/lexus-tz-images-2026/ | Lexus UK (prensa oficial) | prensa |
+| /media/omoda-x-2026-trasera.webp | https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html | Omoda (kit de prensa, vía medio) | prensa |
+| /media/omoda-x-2026-interior.webp | https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html | Omoda (kit de prensa, vía medio) | prensa |
+| /media/lexus-lfa-ev-concept-trasera.webp | https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/ | Lexus (concept Electrified Sport, vía medio) | prensa |
+| /media/lexus-lfa-ev-concept-frontal.webp | https://discoverev.co.uk/ev-news/lexus-rz-450e-ev-launched | Lexus (concept Electrified Sport, vía medio) | prensa |
 | /media/mercedes-amg-cle-53-cabrio-2025-1-card.webp | https://media.mercedes-benz.com/article/057a4c29-2698-49fb-8847-810a5bd0192e | Mercedes-AMG | prensa |
 | /media/velca-vortex-2026-ficha-tecnica-precio-1.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
 | /media/velca-vortex-2026-ficha-tecnica-precio-1-card.webp | https://www.velcamotor.com/velca-vortex | Velca | prensa |
@@ -230,6 +238,13 @@
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-16-.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeo_mj_2021-10-1.webp | Bürstner (foto oficial del kit de prensa del Campeo; alojada en web de tercero) | prensa |
 | /media/buerstner-campeo-c-600-2026-precio-ficha-tecnica-interior-2.webp | https://theroyalcamper.com/wp-content/uploads/2025/01/campeoc_mj25_004.webp | Bürstner (foto oficial del kit de prensa del Campeo MJ25; alojada en web de tercero) | prensa |
+| /media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-oficial.webp | https://paultan.org/2026/01/23/tesla-model-3-standard-malaysia/ (imagen directa: https://paultan.org/cn/image/2025/10/2026-tesla-model-3-standard-14.jpg) | Tesla (foto oficial del kit de prensa del Model 3 2026; alojada en web de tercero) | prensa |
+| /media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-oficial.webp | https://www.autocar.co.uk/car-review/seat/ibiza (imagen: kit de prensa SEAT del Ibiza 2026 facelift, servida vía Autocar) | SEAT (prensa) / Autocar (distribución; licencia desconocida) | prensa |
+| /media/dacia-sandero-tce-90-2026-precio-ficha-tecnica-oficial.webp | https://www.autocar.co.uk/car-news/new-cars/new-look-2026-dacia-sandero-priced-£14,765 (imagen: kit de prensa Dacia del Sandero 2026 facelift, servida vía Autocar) | Dacia (prensa) / Autocar (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-hero.webp | https://www.am-online.com/news/bentley-reveals-first-edition-version-of-new-torcal-ev | Bentley Motors (prensa) / AM Online (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-oficial.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-interior.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
+| /media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-lateral.webp | https://www.motoringresearch.com/car-news/new-bentley-torcal-electric-suv-launch/ | Bentley Motors (prensa) / Motoring Research (distribución; licencia desconocida) | prensa |
 
 ## Campers — lote niky-campers (19/10/2026)
 
@@ -289,3 +304,23 @@ Ver ~/workspace/tmp-campers-man-ford/creditos-campers-man-ford.md para URLs exac
 - vw-california-ocean-2026-precio-ficha-tecnica-oficial-1.webp: Kit de prensa oficial VW, vía accamper.com.
 - vw-california-ocean-2026-precio-ficha-tecnica-interior-oficial-1.webp: Mismo interior que Coast (fuente: Motoring Research, vanreviewer.co.uk).
 - vw-california-beach-2026-precio-ficha-tecnica-interior-oficial-1.webp: Kit de prensa oficial VW, vía espaciofurgo.com (módulo cocina extraíble Beach).
+- mg2-2027-precio-ficha-tecnica-oficial.webp: Concept MG Go (Goodwood 2026), vía drivespark.com (https://www.drivespark.com/four-wheelers/2026/mg-go-cyber-concepts-revealed-at-goodwood-festival-of-speed-087471.html). Licencia desconocida.
+- mg2-2027-precio-ficha-tecnica-oficial-2.webp: Concept MG Go trasera (Goodwood 2026), vía topelectricsuv.com. Licencia desconocida.
+- mg2-2027-precio-ficha-tecnica-hero.webp: Copia de la oficial (concept MG Go).
+- cupra-raval-vz-custom-abt-2026-hero.webp: Kit de prensa Cupra (Raval VZ Custom by ABT), vía autonocion.com (https://www.autonocion.com/cupra-raval-by-abt/). Licencia desconocida.
+- cupra-raval-vz-custom-abt-2026-detalle.webp: Kit de prensa Cupra (Raval VZ Custom by ABT, trasera con spoiler ABT), vía autonocion.com. Licencia desconocida.
+- xpeng-p7-2025-nueva-generacion-europa-hero.webp: Kit de prensa XPeng (nuevo P7 2ª gen), vía evmagz.com. Licencia desconocida.
+- xpeng-p7-2025-nueva-generacion-europa-2.webp: Kit de prensa XPeng (nuevo P7 2ª gen en marcha), vía drive.gr. Licencia desconocida.
+- nissan-z-kaze-concept-2026-hero.webp: Kit de prensa Nissan USA (Z Kaze concept, ZCON 2026), vía wsupercars.com. Licencia desconocida.
+- nissan-z-kaze-concept-2026-detalle.webp: Kit de prensa Nissan USA (Z Kaze concept lateral), vía wsupercars.com. Licencia desconocida.
+
+## Radar 23/10/2026 00:58 — LEPAS AURA + primeras pruebas Lepas L6
+- lepas-aura-concept-2026-hero.webp: LEPAS AURA, vista delantera 3/4 en la presentación de Wuhu. Fuente: vrum.com.br (https://www.vrum.com.br/noticias/2026/10/7525657-lepas-apresenta-conceito-aura-e-promete-mudar-design-de-seus-carros.html), foto original de Autocar.co.uk. Verificada visualmente (familiar plateado, pantalla frontal "Lepas"). Licencia desconocida.
+- lepas-aura-concept-2026-trasera.webp: LEPAS AURA, vista trasera 3/4 con piloto de una pieza. Misma fuente y licencia.
+- lepas-l6-pruebas-2026-hero.webp: Lepas L6 naranja, vista delantera 3/4 en estudio. Fuente: forococheselectricos.com (https://forococheselectricos.com/noticias/lepas-l6-electrico-primeras-pruebas-precio-espana-20261022-42540.html). Verificada visualmente (Lepas L6, distinto encuadre que las 3 fotos del blog existente). Licencia desconocida.
+- lepas-l6-pruebas-2026-interior.webp: Interior del Lepas L6 con volante Lepas y pantalla vertical de 13,2". Misma fuente y licencia.
+
+## Radar 23/10/2026 15:58 — Lexus TZ (precios España)
+- lexus-tz-2026-precio-ficha-tecnica-hero.webp: Lexus TZ 550e, vista delantera 3/4. Fuente: Auto Express (https://www.autoexpress.co.uk/lexus/369528/lexus-tz-suv-pictures), foto de prensa de Lexus. Verificada visualmente (TZ 550e, frontal con ópticas twin-L). Licencia desconocida.
+- lexus-tz-2026-precio-ficha-tecnica-oficial.webp: Lexus TZ 450e, vista trasera 3/4 con piloto de ancho completo. Fuente: Carscoops (https://www.carscoops.com/2026/05/lexus-tz-electric-suv/), foto de prensa de Lexus. Verificada visualmente (trasera con letrero LEXUS iluminado y badge TZ 450e). Licencia desconocida.
+- lexus-tz-2026-precio-ficha-tecnica-interior.webp: Interior del Lexus TZ, puesto de conducción con pantalla de 14 pulgadas. Fuente: newsroom Lexus Italia (https://newsroom.lexus.it/lexus-presenta-tz-un-suv-elettrico-a-6-posti-tutto-nuovo/), foto oficial de prensa de Lexus. Verificada visualmente (cockpit TZ con Mark Levinson y luz ambiental). Licencia desconocida.

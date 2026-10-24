@@ -65,7 +65,7 @@ El Omoda 9 juega en otra liga de prestaciones y tamaño (4,77 m frente a 4,50 m 
 | 145 km eléctricos WLTP: la mayor autonomía eléctrica por debajo de 50.000 € | Con la batería agotada gasta 7-7,5 l/100 km reales, lejos del 1,7 homologado |
 | Carga rápida en DC de 65 kW (30-80% en 25 min), rara en un PHEV | Maletero de 471 L mejorable para sus 4,77 metros |
 | Equipamiento premium de serie: Nappa, masaje, HUD de 50", 19 ADAS | Suspensión muy orientada al confort, algo blanda en secundarias |
-| Etiqueta CERO: acceso a las <a href=https://recurretumulta.online/guias/zbe>ZBE</a> sin restricciones | Marca joven: red de posventa en construcción y valor residual incierto |
+| Etiqueta CERO: acceso a las <a href=https://recurretumulta.online/guias/zbe>ZBE</a> sin restricciones | Marca joven: red de posventa en despliegue y valor residual incierto |
 
 <iframe src=https://www.youtube.com/embed/1HvyGzm3Aa8 title=El Omoda 9 en la prueba de esquiva y el eslalon style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ Los hemos enfrentado en detalle: <a href=/blog/byd-atto-2-vs-jaecoo-5-cual-compr
 | Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador | Prestaciones justas del gasolina: 10,2 s en el 0-100 |
 | El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO | Datos de maletero contradictorios según la fuente (410/442/480 L) |
 | Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base | El EV pesa 1.785 kg, 265 kg más que el gasolina |
-| Detalles prácticos: linterna extraíble, cabina pet-friendly, V2L | Competencia feroz (MG ZS) y red de posventa aún en construcción |
+| Detalles prácticos: linterna extraíble, cabina pet-friendly, V2L | Competencia feroz (MG ZS) y red de posventa aún en despliegue |
 
 <iframe src=https://www.youtube.com/embed/PGysqWUSeDE title=Prueba del Jaecoo 5 style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ El Deepal S05 carga a 200 kW (mejor que el B10) y está en promoción agresiva; 
 | 218 CV y 434 km WLTP desde 27.000 €: relación precio/producto rompedora | Maletero de 430 L, justo para un SUV de 4,52 m |
 | Carga rápida de 140/168 kW con batería LFP: excelente por este precio | La curva de carga cae con fuerza a partir del 90% |
 | Tracción trasera, rara en el segmento | Dinámica orientada al confort: no es para quien busque reacciones vivas |
-| Interior tecnológico: pantalla de 14,6", LEAP OS 4.0, chip Qualcomm 8155 | Marca recién llegada (octubre 2024): red y valor residual en construcción |
+| Interior tecnológico: pantalla de 14,6", LEAP OS 4.0, chip Qualcomm 8155 | Marca recién llegada (octubre 2024): red y valor residual en despliegue |
 | Se fabricará en Zaragoza desde octubre de 2026 + etiqueta CERO | El precio promo de 22.500 € exige financiación y ayudas |
 
 <iframe src=https://www.youtube.com/embed/E-1mN3hJxWE title=Primer vistazo al Leapmotor B10 style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>

@@ -1748,4 +1748,103 @@ export const COCHES_BENTLEY: CocheComparador[] = [
       }
     ]
   },
+  {
+    id: "bentley-torcal-first-edition-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: 10,
+    garantiaBateriaKm: 160934,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "Bentley",
+    modelo: "Torcal First Edition 2026",
+    tipo: "Eléctrico",
+    categoria: "Berlina",
+    precioDesde: null,
+    potenciaCv: 888,
+    autonomiaKm: 603,
+    maleteroL: 460,
+    ceroCien: 2.9,
+    velocidadMax: null,
+    bateriaKwh: 113,
+    cargaRapidaKw: 400,
+    etiquetaDgt: "0",
+    pros: [
+      "888 CV y 1.350 Nm: la mecánica más potente jamás montada en un Bentley, con el 0-100 km/h en unos 2,9 s",
+      "Batería de 113 kWh con hasta 603 km de autonomía anunciada y carga ultrarrápida de 400 kW (10-80 % en menos de 20 min)",
+      "Garantía de la batería de 10 años o 160.934 km, por encima del estándar del sector",
+      "First Edition con fibra de carbono de serie, llantas exclusivas de 22\", equipo Naim de 28 altavoces y 1.780 W y puertas eléctricas",
+      "Primera suspensión totalmente activa de Bentley y 'Dynamic Symphony' con instrumentos musicales reales en lugar de ruido de motor"
+    ],
+    contras: [
+      "Precio aún sin anunciar: la prensa británica lo sitúa por encima de las 200.000 £",
+      "Sin datos EuroNCAP: el Torcal aún no ha pasado las pruebas de choque",
+      "Autonomía de 603 km sin ciclo de homologación confirmado (datos europeos pendientes)",
+      "Velocidad máxima, peso y plazas sin confirmar por Bentley",
+      "Primer eléctrico de la marca: fiabilidad a largo plazo por demostrar"
+    ],
+    largoMm: 5000,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: null,
+    parNm: 1350,
+    traccion: null,
+    emisionesCo2: 0,
+    aprox: ["ceroCien", "autonomiaKm"],
+    imagen: "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 3.8,
+      "seguroTercerosAnual": 2900,
+      "seguroAmpliadoAnual": 5400,
+      "mantenimientoAnual": 1800,
+      "costeMensualTotal": 850,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.65,
+      "notas": "estimación orientativa para 1.000 km/mes; sin precio oficial ni consumo WLTP publicado por Bentley: cifras provisionales pendientes de la homologación europea",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Bentley Torcal First Edition blanco, vista tres cuartos delantera",
+        "ancho": 1200,
+        "alto": 890
+      },
+      {
+        "src": "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-oficial.webp",
+        "alt": "Bentley Torcal eléctrico en plata con la parrilla iluminada de diamantes",
+        "ancho": 1200,
+        "alto": 676
+      },
+      {
+        "src": "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-lateral.webp",
+        "alt": "Bentley Torcal verde, vista lateral con llantas de 22 pulgadas",
+        "ancho": 1200,
+        "alto": 676
+      },
+      {
+        "src": "/media/bentley-torcal-first-edition-2026-precio-ficha-tecnica-interior.webp",
+        "alt": "Interior del Bentley Torcal con pantalla OLED curva y altavoz Naim",
+        "ancho": 1200,
+        "alto": 676
+      }
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: el Torcal aún no ha sido sometido a las pruebas"
+    },
+    planMantenimiento: {
+      intervalo: "Sin plan publicado por Bentley Motors para el Torcal",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: "Bentley Motors: sin plan publicado para el Torcal"
+    }
+  },
 ];

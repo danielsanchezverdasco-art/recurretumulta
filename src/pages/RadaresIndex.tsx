@@ -1,7 +1,8 @@
 // src/pages/RadaresIndex.tsx
 // Índice /radares/ — radares agrupados por comunidad autónoma.
 // Como aún no hay páginas por comunidad, el índice lista directamente los
-// radares agrupados por comunidad, cada uno con enlace a /radares/<id_unico>/.
+// radares agrupados por comunidad, cada uno con enlace DIRECTO a su página
+// canónica /multas/<slug>/ (barrido 24/10/2026: cero enlaces internos que pasen por un 301).
 // CARGA DE DATOS: igual que src/pages/RadarPage.tsx (agente 3/6), los datos
 // viven en docs/radares/indice.json y se sirven bajo /docs/radares/; se
 // cargan con fetch en cliente. Interfaz esperada:
@@ -12,6 +13,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { Search, SlidersHorizontal, ChevronDown, FileText, Camera, AlertTriangle } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { destinoRadar } from "@/lib/radar-a-multas.generated.ts";
 import { DriveInImage } from "@/components/motion.tsx";
 import { Badge } from "@/components/ui/badge.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
@@ -348,7 +350,7 @@ export default function RadaresIndexPage() {
                     {items.map((r) => (
                       <li key={r.id_unico}>
                         <Link
-                          to={`/radares/${r.id_unico}/`}
+                          to={destinoRadar(r.id_unico)}
                           className="flex h-full flex-col gap-1.5 rounded-xl border border-gray-200 bg-white p-3.5 shadow-sm transition hover:border-[#cd001d] hover:shadow-md"
                         >
                           <div className="flex items-start justify-between gap-2">

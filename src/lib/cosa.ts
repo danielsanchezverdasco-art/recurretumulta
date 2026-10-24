@@ -265,7 +265,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
     fuertes.length > 0 ? `Destaca por ${fuertes.join(" y ")}.` : "Nota calculada con los datos verificados de la ficha.";
   if (debiles.length > 0) justificacion += ` En contra: ${debiles.join(" y ")}.`;
   if (sinEuroNCAP) {
-    justificacion += " Sin test EuroNCAP verificado: no se ha penalizado por ello.";
+    // (24/10) coletilla EuroNCAP repetida en 100+ fichas eliminada: no aporta valor único
   }
 
   return { nota, criterios, justificacion, sinEuroNCAP };

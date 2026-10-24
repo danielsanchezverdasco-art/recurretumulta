@@ -6,7 +6,7 @@
 // Verificado el 19/10/2026.
 // Notas honestas: Knaus publica su Preisliste oficial (MJ2027-1, EUR IVA 19% incl.; sin tarifa para
 // España): precioDesde del L!VE I 700 MEG = Grundpreis oficial (87.530 €, «aprox»); el BoxDrive 600 XL
-// queda en null (descatalogado). Se citan como referencia el precio de catálogo del configurador y
+// queda sin dato (descatalogado). Se citan como referencia el precio de catálogo del configurador y
 // los precios de lista de concesionarios alemanes. La altura del Boxdrive varía entre 2.971 y 3.200 mm según configuración en las fichas
 // de la red; se adopta 3.200 mm (valor más repetido) con la variación declarada. La tara exacta
 // depende del equipamiento → pesoKg null; la carga útil no la publica la marca como cifra de
@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_KNAUS_M4: Autocaravana[] = [
     emisionesCo2: null,
     aprox: [],
     notas:
-      "Procedencia de los datos: 5.986 x 2.040 x 3.200 mm, MMA 3.500 kg, base MAN TGE 35, motor 2.0 TDI  Precio: se deja en null porque el BoxDrive (MAN TGE) está descatalogado y no consta Grundpreis EUR en la lista oficial vigente de Knaus (sustituido); la única referencia oficial localizada es el configurador Knaus UK en GBP, no convertible a tarifa EUR." +
+      "Procedencia de los datos: 5.986 x 2.040 x 3.200 mm, MMA 3.500 kg, base MAN TGE 35, motor 2.0 TDI  Precio: se deja sin dato porque el BoxDrive (MAN TGE) está descatalogado y no consta Grundpreis EUR en la lista oficial vigente de Knaus (sustituido); la única referencia oficial localizada es el configurador Knaus UK en GBP, no convertible a tarifa EUR." +
       "de 120 kW/163 CV (opcional 130 kW/177 CV), cambio automático de 8 velocidades, 4 plazas de viaje " +
       "y 4 de noche según fichas de catálogo de la red de distribución (AlpaCamping, TruckScout24, " +
       "Caraworld) y ficha de configuración oficial del configurador de knaus.com (modelo 2025). Camas: " +
@@ -119,7 +119,7 @@ Cómo lo verificamos: dimensiones, motor, cambio, plazas, camas y equipamiento p
 de configuración oficial generada en el configurador de knaus.com y de las fichas técnicas de
 catálogo distribuidas por la red (AlpaCamping, TruckScout24, Caraworld). Todo verificado el
 19/10/2026. Lo que la marca no publica —precio oficial en España, tara exacta, carga útil, consumo
-y emisiones— queda declarado en null y en las notas de esta ficha. La altura total varía según
+y emisiones— queda declarado sin dato y en las notas de esta ficha. La altura total varía según
 configuración en las fichas de la red (2.971–3.200 mm); se adopta 3.200 mm con la variación
 declarada.
 
@@ -262,7 +262,7 @@ agradece, mientras que el 140 CV manual resulta más económico de compra y mant
 Cómo lo verificamos: dimensiones, motor, cambio, plazas, camas, depósitos y equipamiento proceden
 de las fichas técnicas de catálogo del modelo 2026 distribuidas por la red (Caraworld, TruckScout24)
 con datos de fabricante. Todo verificado el 19/10/2026. Lo que la marca no publica —precio oficial
-en España, consumo y emisiones— queda declarado en null y en las notas de esta ficha.
+en España, consumo y emisiones— queda declarado sin dato y en las notas de esta ficha.
 
 Para quién es: es el integral ideal para una familia o una pareja que quiere el espacio y el confort
 de un clase A de 7,5 metros con camas gemelas y garaje pasante, y que ya tiene —o está dispuesta a

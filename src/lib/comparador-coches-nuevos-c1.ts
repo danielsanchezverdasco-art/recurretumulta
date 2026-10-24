@@ -977,7 +977,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       "Desde 45.990 €: rival directo del Tesla Model Y con más equipamiento",
     ],
     contras: [
-      "Marca recién llegada a España: red de concesionarios en construcción",
+      "Marca recién llegada a España: red de concesionarios en despliegue",
       "Consumo de 17,6 kWh/100 km, algo alto para su potencia",
       "Sin versión de acceso barata: solo un acabado muy equipado",
       "Valor de reventa aún incierto en el mercado español",

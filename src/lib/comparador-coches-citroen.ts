@@ -102,7 +102,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     modelo: "ë-C3",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: 21400,
+    precioDesde: 11950,
     potenciaCv: 113,
     autonomiaKm: 323,
     maleteroL: 310,
@@ -112,7 +112,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "Desde 21.400 €: el eléctrico europeo más asequible del segmento B",
+      "Desde 11.950 € con Plan Auto+ y promociones: el eléctrico más barato de España",
       "323 km de autonomía WLTP con batería LFP de 44 kWh",
       "Carga rápida de 100 kW (20-80 % en 26 min) y 11 kW en alterna",
       "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",

@@ -70,7 +70,7 @@ export const ANALISIS_COCHE_04: MapaAnalisis = {
   "changan-deepal-s07-my26-2026-precio-ficha-tecnica": {
     parrafos: [
       "El Deepal S07 MY26 demuestra que Changan va en serio en Europa: 258 CV de propulsión trasera, 500 km WLTP con batería LFP de 78 kWh y carga ultrarrápida de 200 kW que recupera del 10 al 80 % en 24 minutos. Por 46.990 € se coloca frente al Tesla Model Y con más equipamiento de serie y 5 estrellas Euro NCAP en el bolsillo.",
-      "La ficha también cuenta la otra mitad: marca recién llegada, red de concesionarios en construcción y un valor de reventa aún incierto en España. El consumo de 17,6 kWh/100 km es algo alto para su potencia, y solo existe un acabado muy equipado —sin versión de acceso barata—. Son los peajes de comprar la primera oleada de cualquier marca.",
+      "La ficha también cuenta la otra mitad: marca recién llegada, red de concesionarios en despliegue y un valor de reventa aún incierto en España. El consumo de 17,6 kWh/100 km es algo alto para su potencia, y solo existe un acabado muy equipado —sin versión de acceso barata—. Son los peajes de comprar la primera oleada de cualquier marca.",
       "Es para el early adopter que quiere un eléctrico familiar serio sin pagar la tasa Tesla ni la tasa premium alemana: maletero de 510 litros más un frunk de 125, garantía de 7 años y tecnología de sobra. No es para quien necesite una red consolidada detrás; ese comprador llegará dentro de dos años, cuando Deepal ya sea una marca conocida.",
     ],
     veredicto: "El anti-Model Y chino con 500 km y 200 kW: la apuesta seria de Changan en Europa.",

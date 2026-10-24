@@ -256,6 +256,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "dacia-bigster-2026-tce-140-precio-ficha-tecnica": () => import("../comparador-coches-exp19.ts"),
     "dacia-bigster-eco-g-140-2025-precio-ficha-tecnica": () => import("../comparador-coches-dacia.ts"),
     "dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp8.ts"),
+    "dacia-bigster-hybrid-precio-espana": () => import("../comparador-coches-base.ts"),
     "dacia-bigster-tce-130-4x4-2025-precio-ficha-tecnica": () => import("../comparador-coches-dacia.ts"),
     "dacia-bigster-tce-140-2025-precio-ficha-tecnica": () => import("../comparador-coches-dacia.ts"),
     "dacia-duster-2026-eco-g-120-precio-ficha-tecnica": () => import("../comparador-coches-exp19.ts"),
@@ -447,6 +448,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ducati-xdiavel-v4-2025-ficha-tecnica-precio": () => import("../comparador-motos-exp-m2.ts"),
   },
   patinete: {
+    "denver-sel-1080": () => import("../comparador-patinetes-base.ts"),
     "denver-sel-10800f": () => import("../comparador-patinetes-exp-p5.ts"),
     "denver-sel-10810fdb": () => import("../comparador-patinetes-exp-p5.ts"),
     "dualtron-achilleus": () => import("../comparador-patinetes-exp-p8.ts"),

@@ -21,7 +21,7 @@ export const ANALISIS_MOTO_14: MapaAnalisis = {
   "voge-625dsx-2025-ficha-tecnica-precio": {
     parrafos: [
       "La 625DSX de 2025 ocupa un hueco con mucha lógica: el trail A2 que se puede limitar. Su bicilíndrico de 581 cc rinde 63 CV —reducibles a 47 para el carnet medio— y empuja con buenos bajos, que es lo que de verdad importa en una montura de este planteamiento. Cuesta 6.592 euros, y la referencia que maneja la propia ficha es reveladora: su rival natural sería la Kawasaki Versys 650, notablemente más cara para una propuesta equivalente. Postura erguida, protección y autonomía viajera sin pagar peaje japonés.",
-      "No obstante, conviene tener claras sus fronteras: 206 kilos en orden de marcha la inhabilitan para el campo exigente y se dejan sentir en cada maniobra, y la red de talleres de Voge en España continúa en construcción, un factor tangible a la hora de firmar. A cambio, comparte base mecánica con otras trail del grupo Loncin —plataforma rodada— y viste de aventura con credenciales suficientes para pistas sencillas y grandes viajes por asfalto.",
+      "No obstante, conviene tener claras sus fronteras: 206 kilos en orden de marcha la inhabilitan para el campo exigente y se dejan sentir en cada maniobra, y la red de talleres de Voge en España continúa en despliegue, un factor tangible a la hora de firmar. A cambio, comparte base mecánica con otras trail del grupo Loncin —plataforma rodada— y viste de aventura con credenciales suficientes para pistas sencillas y grandes viajes por asfalto.",
     ],
     veredicto: "Para el A2 que sueña con viajar en trail sin presupuesto japonés; descartada para el off-road serio.",
   },

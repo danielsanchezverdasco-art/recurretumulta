@@ -30,6 +30,7 @@ import ProsContras from "@/components/ficha/ProsContras.tsx";
 import VideoYoutube from "@/components/ficha/VideoYoutube.tsx";
 import TablaVersiones from "@/components/ficha/TablaVersiones.tsx";
 import RivalesCarrusel from "@/components/ficha/RivalesCarrusel.tsx";
+import FraseRivales from "@/components/ficha/FraseRivales.tsx";
 import DescargarFichaPDF from "@/components/DescargarFichaPDF.tsx";
 import BotonCazachollos from "@/components/BotonCazachollos.tsx";
 import { fmtEur, fmtMiles } from "@/lib/formato.ts";
@@ -392,20 +393,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            {esElectrica ? (
-              <>
-                Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
-              </>
-            ) : (
-              conCilindrada ? (
-                <>Ficha técnica completa: precio, potencia, <Marker>cilindrada</Marker>,{" "}</>
-              ) : (
-                <>Ficha técnica completa: precio, potencia,{" "}</>
-              )
-            )}
-            <Marker>carnet necesario</Marker> y <Marker>etiqueta DGT</Marker>, con puntos
-            fuertes y débiles. Si un dato no está publicado por una
-            fuente fiable, no lo mostramos en vez de inventarlo. Fuente:{" "}
+            Fuente:{" "}
             {moto.fuenteUrl ? (
               <a
                 href={moto.fuenteUrl}
@@ -579,7 +567,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
           </p>
         </section>
 
@@ -771,13 +759,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         </Suspense>
 
         <RivalesCarrusel tipo="motos" id={moto.id} nombre={nombre} rivales={extra.r} />
+        <FraseRivales id={moto.id} nombre={nombre} precio={moto.precioDesde} rivales={extra.r} />
 
         <section className="mt-8 grid gap-3 sm:grid-cols-2" aria-label="Comparar modelo">
           <Link
             to={compararHref}
             className="inline-flex items-center justify-center gap-2 rounded-2xl border-2 border-red-600 bg-white px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
           >
-            <ArrowLeftRight className="h-4 w-4" /> Comparar con otra moto
+            <ArrowLeftRight className="h-4 w-4" /> Comparar
           </Link>
           {/* 18/10/2026: antes enlazaba al comparador de COCHES desde una ficha de moto. */}
           <Link
@@ -800,13 +789,6 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

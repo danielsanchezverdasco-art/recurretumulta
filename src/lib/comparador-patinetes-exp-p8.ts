@@ -802,7 +802,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     contras: [
       "Sin precio oficial en España",
       "Frenos de tambor con 1800 W: el disco sería mejor",
-      "Novedad 2025: red de repuestos en construcción",
+      "Novedad 2025: red de repuestos en despliegue",
     ],
     veredicto:
       "El Aminia Long Body dual lleva la fórmula Aminia al doble motor: 1800 W nominales, 65 km declarados y 30 kg. El dual motor urbano más moderno del catálogo 2025.",

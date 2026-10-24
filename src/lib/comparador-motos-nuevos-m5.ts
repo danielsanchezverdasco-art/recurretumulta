@@ -3,7 +3,7 @@
 // Modelos vendidos en España 2024-2026, no duplicados de M1-M4.
 // Datos verificados el 2026-10-08 en webs oficiales, motofichas.com,
 // motorbikemag.es, hibridosyelectricos.com, prensa del motor y tarifas oficiales.
-// Cero cifras inventadas: lo no verificado va como null con explicación honesta.
+// Cero cifras inventadas: lo no verificado va sin dato, con explicación honesta.
 // EuroNCAP no evalúa motocicletas ni ciclomotores: no existen estrellas para
 // ninguno de estos modelos (se indica en cada artículo).
 // Esquema: MotoComparador (comparador-motos-data.ts).

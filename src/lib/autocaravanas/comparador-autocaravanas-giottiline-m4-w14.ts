@@ -8,7 +8,7 @@
 // Notas honestas: Giottiline no publica en su web tarifa oficial para España ni
 // ficha técnica detallada por modelo (longitudes sí constan en el catálogo oficial
 // 2019); MMA, anchuras y alturas de la gama Therry no aparecen en el material oficial
-// consultado y quedan en null. Fotos de prensa y de anuncios de concesionarios del
+// consultado y quedan sin dato. Fotos de prensa y de anuncios de concesionarios del
 // modelo exacto (ninguna procede del dominio giottiline.com).
 import type { Autocaravana } from "./tipos.ts";
 
@@ -60,7 +60,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M4: Autocaravana[] = [
       "lalbacaravaning.com 'PACK THERRY 2022/23'. En null: precio (Giottiline no publica tarifa ES), MMA, altura, peso, consumo y tracción (sin fuente oficial). " +
       "Fotos (verificación 19/10/2026): 3 fotos OFICIALES del catálogo oficial Giottiline 2019 (https://www.camperonline.it/magazine/cataloghi/2019-giottiline.pdf, " +
       "página del Therry T34): salón comedor, cama central posterior y baño. La foto exterior es real del modelo exacto (anuncio de concesionario, sin rótulos " +
-      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible.  Precio: se deja en null porque el Therry 34 no figura en el listino oficial vigente de Giottiline (colección 2025/2026); sin tarifa oficial vigente verificable para este modelo." +
+      "ni marcas de agua): el catálogo oficial solo incluye un render ilustrado del exterior, no una foto, así que se mantiene la mejor foto real disponible.  Precio: se deja sin dato porque el Therry 34 no figura en el listino oficial vigente de Giottiline (colección 2025/2026); sin tarifa oficial vigente verificable para este modelo." +
       "Anchura 232 cm tomada del diagrama de planta del catálogo oficial 2019.",
     curiosidades:
       "El T34 estrenó en la temporada 2020 una distribución inédita en la gama Therry: cama central posterior en solo 6,99 metros, con la zona de baño " +
@@ -77,7 +77,7 @@ El equipamiento de serie de la gama Therry, según el pack 2022/23 publicado por
 
 En marcha, el T34 se comporta como lo que es: una perfilada sobre furgón ligero con el centro de gravedad contenido y una aerodinámica razonable gracias al cupolino perfilado. La review británica destaca el buen nivel de la cabina, con asientos giratorios con reposabrazos, aire acondicionado y cámara de marcha atrás de doble lente de serie en aquella configuración, además de un techo solar practicable sobre la cabina con huecos de almacenaje a los lados. La dirección asistida y el control de crucero hacen llevaderos los tramos largos de autopista, y los 6,99 metros totales permiten encarar rotondas y cambios de sentido sin la aprensión que provocan las perfiladas de 7,4 metros. Quien venga de un furgón camper notará el salto en habitabilidad; quien venga de una integral grande, el salto en agilidad.
 
-Cómo lo verificamos. La existencia del modelo y su longitud de 699 cm constan en el catálogo oficial Giottiline 2019 (PDF alojado en camperonline.it con membrete www.giottiline.com) y en el artículo de prensa "Anteprime 2020: Giottiline presenta i nuovi Siena" (camperonline.it, 7 de agosto de 2019), que describe la distribución con cama central posterior y baño en ambientes independientes. La prueba de outandaboutlive.co.uk ("Giottiline Therry T34 motorhome") aporta la mecánica (Peugeot Boxer 130 CV, opción 160 CV), la cama de 1,88x1,50 m y las cuatro plazas para dormir. El pack de equipamiento 2022/23 está publicado en lalbacaravaning.com. Todo se contrastó el 19 de octubre de 2026. Giottiline no publica tarifa oficial para España, así que el precio queda en null: cualquier cifra que circule en anuncios corresponde a unidades concretas de concesionario, no a tarifa de marca.
+Cómo lo verificamos. La existencia del modelo y su longitud de 699 cm constan en el catálogo oficial Giottiline 2019 (PDF alojado en camperonline.it con membrete www.giottiline.com) y en el artículo de prensa "Anteprime 2020: Giottiline presenta i nuovi Siena" (camperonline.it, 7 de agosto de 2019), que describe la distribución con cama central posterior y baño en ambientes independientes. La prueba de outandaboutlive.co.uk ("Giottiline Therry T34 motorhome") aporta la mecánica (Peugeot Boxer 130 CV, opción 160 CV), la cama de 1,88x1,50 m y las cuatro plazas para dormir. El pack de equipamiento 2022/23 está publicado en lalbacaravaning.com. Todo se contrastó el 19 de octubre de 2026. Giottiline no publica tarifa oficial para España, así que el precio queda sin dato: cualquier cifra que circule en anuncios corresponde a unidades concretas de concesionario, no a tarifa de marca.
 
 Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama central siempre hecha —levantarse de noche sin trepar por encima del otro no tiene precio— y un baño separado de verdad, sin renunciar a una longitud contenida que facilite aparcar y maniobrar. También para quien valora la dotación de serie italiana (Truma con CP Plus, cámara trasera, depósitos calefactados) sin pagar el sobreprecio de las marcas del norte. No es para quien necesite cinco o seis plazas reales de forma habitual: la quinta plaza es opcional y de compromiso, y la carga útil sobre un chasis ligero con tanto equipamiento exige vigilar la báscula. Tampoco para quien busque una red comercial densa en España: la presencia de Giottiline aquí es limitada y conviene localizar servicio antes de comprar.`,
     pros: [
@@ -88,7 +88,7 @@ Para quién es. La Therry T34 encaja con parejas viajeras que quieren cama centr
       "Longitud contenida (699 cm) que facilita maniobrar y aparcar frente a perfiladas de 7,4 m",
     ],
     contras: [
-      "La marca no publica tarifa oficial para España ni ficha técnica completa (MMA, anchura y altura en null)",
+      "La marca no publica tarifa oficial para España ni ficha técnica completa (MMA, anchura y altura sin dato)",
       "Red comercial y de servicio limitada en España frente a marcas alemanas o francesas",
       "La quinta plaza es opcional y de compromiso; no es una 5 plazas real",
       "Carga útil a vigilar: mucho equipamiento de serie sobre chasis ligero de 3.500 kg",

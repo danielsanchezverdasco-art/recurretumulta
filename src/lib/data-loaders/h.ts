@@ -414,6 +414,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": () => import("../comparador-coches-exp14.ts"),
     "hyundai-kona-electrico-2026-precio-ficha-tecnica": () => import("../comparador-coches-hyundai.ts"),
     "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica": () => import("../comparador-coches-hyundai.ts"),
+    "hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica": () => import("../comparador-coches-nuevos-c6.ts"),
     "hyundai-kona-electrico-n-line-2026-precio-ficha-tecnica": () => import("../comparador-coches-exp18.ts"),
     "hyundai-kona-gasolina-2025-precio-ficha-tecnica": () => import("../comparador-coches-hyundai.ts"),
     "hyundai-kona-hibrido-2025-precio-ficha-tecnica": () => import("../comparador-coches-hyundai.ts"),

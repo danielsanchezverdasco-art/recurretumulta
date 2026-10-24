@@ -63,7 +63,7 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   "gwm-haval-h6-2024-precio-ficha-tecnica": {
     parrafos: [
       "El Haval H6 híbrido a la venta en España es la vía de acceso más sensata a la marca china: 243 CV combinados con un gasto homologado de 5,9 l/100 km, distintivo ECO en un SUV de 4,70 metros y 560 litros de capacidad de carga. Las cinco estrellas ANCAP de 2022 respaldan su protección y la pantalla de 14,6 pulgadas con CarPlay y Android Auto sin cables lo mantiene vigente. Los 530 Nm de par combinado le dan un empuje sorprendente en recuperaciones. Es el familiar híbrido que compite por dotación y precio, sin pedir enchufe.",
-      "GWM no comunica tarifa oficial en nuestro país, el ensayo EuroNCAP no existe —solo el australiano—, casi todas las funciones viven en la táctil sin botones físicos, no hay rueda de repuesto y la cobertura posventa está en construcción. Con más de cuatro millones de unidades acumuladas del H6, su fiabilidad está probada en las condiciones más exigentes. La propuesta de valor convence; la confianza en la marca hay que construirla kilómetro a kilómetro."
+      "GWM no comunica tarifa oficial en nuestro país, el ensayo EuroNCAP no existe —solo el australiano—, casi todas las funciones viven en la táctil sin botones físicos, no hay rueda de repuesto y la cobertura posventa está en despliegue. Con más de cuatro millones de unidades acumuladas del H6, su fiabilidad está probada en las condiciones más exigentes. La propuesta de valor convence; la confianza en la marca hay que construirla kilómetro a kilómetro."
     ],
     veredicto: "Para familias que quieran espacio híbrido con ECO a precio ajustado; no para quien exija talleres consolidados.",
   },
@@ -196,7 +196,7 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   "haval-h6-hev-2025-precio-ficha-tecnica": {
     parrafos: [
       "El H6 HEV es el Haval comprable en España con distintivo ECO: híbrido integral de 243 CV y 530 Nm, 5,9 l/100 km homologados para su envergadura, 560 litros de maletero ampliables a 1.445 y depósito de 61 litros para un alcance total generoso. y los 1.445 litros con asientos abatidos lo hacen apto para las mudanzas familiares. El familiar híbrido sin enchufe que juega al espacio y la eficiencia, entrando en las ZBE sin pegatina adicional.",
-      "Los 33.800 € lo colocan en la franja alta generalista, el cambio DHT flaquea a ritmo fuerte, el habitáculo vive en la pantalla táctil, la imagen de marca está en construcción y la reventa es una incógnita. Los 530 Nm del sistema híbrido garantizan recuperaciones contundentes con el coche cargado. Producto competente que pide un acto de fe en la marca: la ficha convence, el logo aún no. Su maletero de 560 litros lo sitúa entre los mejores del segmento."
+      "Los 33.800 € lo colocan en la franja alta generalista, el cambio DHT flaquea a ritmo fuerte, el habitáculo vive en la pantalla táctil, la imagen de marca está en despliegue y la reventa es una incógnita. Los 530 Nm del sistema híbrido garantizan recuperaciones contundentes con el coche cargado. Producto competente que pide un acto de fe en la marca: la ficha convence, el logo aún no. Su maletero de 560 litros lo sitúa entre los mejores del segmento."
     ],
     veredicto: "Para familias que antepongan espacio, eficiencia y ECO; no para quien busque marca asentada.",
   },
@@ -252,7 +252,7 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   "haval-jolion-pro-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Jolion Pro es el Haval tangible en España: desde 27.500 €, 177 CV con 270 Nm, 0-100 en 7,9 segundos —entre lo mejor del segmento— y diseño exterior agresivo de aires premium. Sus 7,9 segundos de 0 a 100 lo colocan entre los SUV compactos más rápidos de su precio en España, y el diseño agresivo le da una presencia que sus rivales generalistas no ofrecen por 27.500 €. El compacto chino que discute prestaciones con los generalistas europeos, con marca en expansión y concesionarios en crecimiento.",
-      "Aquí solo en gasolina —el híbrido vive en otros mercados—, 381 litros justos de maletero ante europeos, 7,4 l/100 km mejorables frente a híbridos, imagen por consolidar y talleres más escasos que los tradicionales. Los 270 Nm desde bajo régimen explican su nervio. Producto competitivo con marca en construcción: la apuesta española de Haval. Pesa 1.595 kg, una cifra contenida para su tamaño y equipamiento."
+      "Aquí solo en gasolina —el híbrido vive en otros mercados—, 381 litros justos de maletero ante europeos, 7,4 l/100 km mejorables frente a híbridos, imagen por consolidar y talleres más escasos que los tradicionales. Los 270 Nm desde bajo régimen explican su nervio. Producto competitivo con marca en despliegue: la apuesta española de Haval. Pesa 1.595 kg, una cifra contenida para su tamaño y equipamiento."
     ],
     veredicto: "Para quien quiera prestaciones a buen precio confiando en la marca; no para maletero o hibridación.",
   },
@@ -532,7 +532,7 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   "hongqi-eh7-2024-precio-ficha-tecnica": {
     parrafos: [
       "El EH7 es la berlina eléctrica con la que Hongqi se presenta en Europa: casi 5 metros, 510 km de autonomía WLTP, 344 CV de propulsión trasera y un precio en Francia desde 49.990 €, por debajo de rivales europeos. La versión AWD de 612 CV con 0-100 en 3,5 segundos y 640 km añade picante a la gama, y la pantalla de 15,5 pulgadas con HUD de realidad aumentada lo ponen al día. El diseño de la era New Hongqi abandona el clasicismo del H9 por algo más moderno.",
-      "La red comercial y de servicio en Europa aún es muy pequeña, la potencia de carga rápida en continua no la publica la marca, el maletero no está comunicado oficialmente, la depreciación es incierta al ser marca nueva y la versión RWD de 344 CV tarda 6,2 segundos en el 0-100. Buen producto, marca en construcción: el dilema de todo recién llegado chino premium."
+      "La red comercial y de servicio en Europa aún es muy pequeña, la potencia de carga rápida en continua no la publica la marca, el maletero no está comunicado oficialmente, la depreciación es incierta al ser marca nueva y la versión RWD de 344 CV tarda 6,2 segundos en el 0-100. Buen producto, marca en despliegue: el dilema de todo recién llegado chino premium."
     ],
     veredicto: "Para early adopters que quieran berlina eléctrica grande a precio contenido; no para quien exija red de servicio consolidada.",
   },

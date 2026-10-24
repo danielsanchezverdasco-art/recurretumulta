@@ -2,7 +2,7 @@
 // Fuentes: carado.com/es/es (web oficial en español, con precios y datos técnicos oficiales
 // para España), páginas de modelo T338 EDITION27 y V337. Verificado el 19/10/2026.
 // Notas honestas: precios oficiales ES publicados por la marca (69.490 € y 56.590 €);
-// la carga útil no la publica la marca (queda en null, prohibido calcularla); el T338
+// la carga útil no la publica la marca (queda sin dato, prohibido calcularla); el T338
 // EDITION27 es la versión Ford Transit 165 CV con cambio automático de 8 marchas que
 // Carado comercializa en España; el V337 base en España es el Citroën Jumper 140 CV.
 import type { Autocaravana } from "./tipos.ts";
@@ -123,7 +123,7 @@ Cómo lo verificamos: la ficha del modelo en carado.com/es/es
 (https://carado.com/es/es/autocaravanas/perfiladas/t338-ed27), revisada el
 19/10/2026, de donde tomamos precio, medidas, pesos y dotación de serie; más la ficha
 del T338 en carado.com/de/en para contrastar la variante con chasis Citroën. Todo lo
-que la marca no publica (carga útil, consumos, par, emisiones) figura en null en la
+que la marca no publica (carga útil, consumos, par, emisiones) figura sin dato en la
 ficha y explicado en las notas, sin excepciones.
 
 Para quién es: para parejas que buscan su primera perfilada grande —siete metros,
@@ -211,7 +211,7 @@ kilo cuenta.`,
       "camas traseras de 200x70 / 195x80 (ampliables a 200-195x194 como opción); " +
       "frigorífico de 78 l con 11 l de congelador; calefacción Combi 4 de gas; 116/20 l " +
       "de agua; 92 l de grises; cuatro tomas de 230 V; dos USB; gas en 2x11 kg. " +
-      "Permanecen en null: cargaUtilKg (no publicada), consumo, par y emisiones (sin " +
+      "Permanecen sin dato: cargaUtilKg (no publicada), consumo, par y emisiones (sin " +
       "dato oficial).",
     curiosidades:
       "El V 337 milita en la gama «Van» de Carado: perfiladas estrechas de tan solo " +
@@ -234,7 +234,7 @@ El Jumper 2.2 de 140 CV es un clásico conocido: fiable, con recambios en cualqu
 
 En precio y red en España, la cifra es oficial y clara: 56.590 euros con IVA en la versión Citroën (57.790 en la Fiat), publicada en la web española de Carado. Habrá que añadir lo que cada viajero necesite —toldo, portabicicletas, segunda batería—, pero el punto de partida figura entre los más bajos de las perfiladas nuevas con camas gemelas. La red del grupo Hymer cubre todo el país con servicio oficial y garantía europea.
 
-Cómo lo verificamos: página oficial del modelo en carado.com/es/es (https://carado.com/es/es/autocaravanas/vans/v337), consultada el 19/10/2026, con precio de base, ficha técnica y dotación de serie; y el artículo «Meet Carado's Slim Motorhomes» de outandaboutlive.co.uk como contexto de la gama Van estrecha. Los apartados sin cifra oficial (carga útil, consumos, par, emisiones) permanecen en null y figuran en las notas.
+Cómo lo verificamos: página oficial del modelo en carado.com/es/es (https://carado.com/es/es/autocaravanas/vans/v337), consultada el 19/10/2026, con precio de base, ficha técnica y dotación de serie; y el artículo «Meet Carado's Slim Motorhomes» de outandaboutlive.co.uk como contexto de la gama Van estrecha. Los apartados sin cifra oficial (carga útil, consumos, par, emisiones) permanecen sin dato y figuran en las notas.
 
 Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravana nueva, estrecha y manejable por menos de 57.000 euros; conductores que aparcan en ciudad o ruedan por puertos de montaña y agradecen cada centímetro de menos; durmientes de camas gemelas que viajan ligeros. No es para familias (dos camas y ninguna abatible disponible en este modelo) ni para quien exija una ducha separada generosa: el baño es compacto y resolutivo, lo que corresponde a 6,66 metros.`,
     pros: [

@@ -3,7 +3,7 @@
 // 599 × 205 × 258 cm, 140 CV, 4 personas, 3 camas —4 máx.—, masa en orden de marcha 2.750 kg,
 // MMA 3.500 kg, «Maximum payload» 241 kg publicado por la marca con nota al pie, garantía de
 // estanqueidad de 10 años, frigorífico de compresor de 95 l, Truma Combi 4, agua 102/90 l).
-// Weinsberg no publica PVP: precioDesde en null (remite al configurador/concesionario).
+// Weinsberg no publica PVP: sin precio oficial publicado (remite al configurador/concesionario).
 // F9b (19/10/2026): 4 fotos oficiales (2 ext + 2 int, web oficial weinsberg.com) + curiosidades.
 import type { Autocaravana } from "./tipos.ts";
 
@@ -123,7 +123,7 @@ La red del grupo Knaus Tabbert es otro argumento silencioso: concesionarios por 
     },
     euroncap: null,
     notas:
-      "El «Maximum payload» de 241 kg es el publicado por Weinsberg para el 600 MQ, con nota al pie y definición particular de la marca en su ficha oficial; no es un cálculo. Plazas para dormir: 3 de serie (4 máx. con cama de invitada opcional). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja en null porque la única tarifa oficial localizada de Weinsberg (Knaus Tabbert) es la lista de precios oficial de Weinsberg Suecia 2026, en coronas suecas (CaraBus GREY Edition [FIRE] 600 MQ: 876.200 SEK); no se ha verificado tarifa oficial en euros y no se convierte sin fuente oficial.",
+      "El «Maximum payload» de 241 kg es el publicado por Weinsberg para el 600 MQ, con nota al pie y definición particular de la marca en su ficha oficial; no es un cálculo. Plazas para dormir: 3 de serie (4 máx. con cama de invitada opcional). La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión. Precio: se deja sin dato porque la única tarifa oficial localizada de Weinsberg (Knaus Tabbert) es la lista de precios oficial de Weinsberg Suecia 2026, en coronas suecas (CaraBus GREY Edition [FIRE] 600 MQ: 876.200 SEK); no se ha verificado tarifa oficial en euros y no se convierte sin fuente oficial.",
     curiosidades:
       "Hasta la tapicería lleva el apellido de la edición: la Grey Edition [FIRE] incluye de serie la tapicería especial «FUSION GREY» con el bordado [FIRE] en los respaldos, además de los gráficos exteriores específicos «EDITION [FIRE]». Fuente: ficha oficial del modelo 600 MQ en weinsberg.com (https://weinsberg.com/en-uk/camper-vans/grey-edition-fire/layout-plans/600-mq/).",
     fuenteNombre: "Weinsberg (web oficial)",

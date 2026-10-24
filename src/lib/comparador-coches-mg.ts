@@ -1559,4 +1559,84 @@ export const COCHES_MG: CocheComparador[] = [
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/mg/marvel-r/2021/estandar/electric/marvel-r-electric/datos"
   },
+  {
+    // Radar 22/10/2026 — MG2 (2027): futuro utilitario eléctrico de MG, adelantado por el
+    // concept MG Go (Goodwood 2026). Lanzamiento previsto 2ª mitad de 2027; ensamblaje en
+    // la planta SAIC de Ferrol (España) desde finales de 2028. Rival del Renault 5 E-Tech.
+    // Datos técnicos aún sin confirmar por MG: precio/potencia/batería son expectativas
+    // de prensa (Autocar), marcadas con aprox y nota. Verificación: ForoCochesEléctricos
+    // (22/10/2026) + Autocar vía europesays.com (22/10/2026).
+    id: "mg2-2027-precio-ficha-tecnica",
+    garantiaBateriaAnos: 7,
+    garantiaBateriaKm: 150000,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/mg2-2027-precio-ficha-tecnica-oficial.webp",
+    imagenInteriorOficial: "",
+    videoId: null,
+    videoCanal: null,
+    marca: "MG",
+    modelo: "MG2",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: 23500,
+    potenciaCv: 151,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: null,
+    bateriaKwh: 43,
+    cargaRapidaKw: null,
+    etiquetaDgt: "Cero",
+    pros: [
+      "Utilitario eléctrico de ~4 metros y 5 puertas, rival directo del Renault 5 E-Tech",
+      "Diseño del estudio MG de Londres con guiños al MGB GT, cercano al concept Go",
+      "Se fabricará en España: planta SAIC en Ferrol desde finales de 2028 (120.000 uds/año)",
+      "Precio objetivo asequible: la prensa británica pronostica unas 20.000 £",
+      "Garantía MG de 7 años o 150.000 km también para la batería de tracción",
+    ],
+    contras: [
+      "Precio oficial aún sin publicar: las 20.000 £ son un pronóstico de Autocar, no un PVP",
+      "Datos técnicos sin confirmar: 151 CV y 43 kWh LFP son expectativas de prensa",
+      "Lanzamiento previsto para la segunda mitad de 2027: aún falta más de un año",
+      "Producción española no antes de finales de 2028 (al principio, kits CKD desde China)",
+      "Nombre definitivo sin confirmar: podría llamarse MG2 o mantener el nombre Go",
+    ],
+    largoMm: 4000,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: null,
+    plazas: 5,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: 0,
+    aprox: ["precioDesde", "potenciaCv", "bateriaKwh", "largoMm"],
+    imagen: "/media/mg2-2027-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    galeria: [
+      {
+        src: "/media/mg2-2027-precio-ficha-tecnica-oficial.webp",
+        alt: "MG Go concept, adelanto del futuro MG2 eléctrico, vista tres cuartos",
+        ancho: 600,
+        alto: 338,
+      },
+      {
+        src: "/media/mg2-2027-precio-ficha-tecnica-oficial-2.webp",
+        alt: "MG Go concept, adelanto del futuro MG2 eléctrico, vista trasera en Goodwood",
+        ancho: 1024,
+        alto: 768,
+      },
+    ],
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: modelo aún no lanzado",
+    },
+    planMantenimiento: null,
+    analisisSlug: "mg2-electrico-2027-ferrol-precio",
+    fuenteNombre: "ForoCochesEléctricos · Autocar (vía europesays.com)",
+    fuenteUrl: "https://forococheselectricos.com/noticias/mg2-electrico-fabricacion-ferrol-espana-2028-20261022-42532.html"
+  },
 ];

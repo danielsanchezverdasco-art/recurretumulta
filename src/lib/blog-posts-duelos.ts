@@ -288,7 +288,7 @@ Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha té
 - ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
 - ❌ El gasolina gasta 7,0 l/100 km y lleva etiqueta C
 - ❌ Prestaciones justas del gasolina: 10,2 s en el 0-100
-- ❌ Red de posventa aún en construcción
+- ❌ Red de posventa aún en despliegue
 
 ## Veredicto: ¿cuál comprar?
 
@@ -491,7 +491,7 @@ Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver fic
 - ✅ Se fabricará en Zaragoza desde octubre de 2026 + etiqueta CERO
 - ❌ Maletero de 430 L, justo para un SUV de 4,52 m
 - ❌ La curva de carga cae con fuerza a partir del 90 %
-- ❌ Marca recién llegada (octubre 2024): red y valor residual en construcción
+- ❌ Marca recién llegada (octubre 2024): red y valor residual en despliegue
 
 **BYD Atto 2:**
 - ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
@@ -803,7 +803,7 @@ Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha 
 
 **Dacia Bigster Hybrid 155.** El Dacia más grande de la historia (4,57 m, 23 cm más que el Duster) sobre la plataforma CMF-B del Grupo Renault. El Hybrid 155: 156 CV, **4,6 l/100 km**, etiqueta ECO y maletero de 546 L (1.851 L abatidos), con 220 mm de altura libre. La gama: Hybrid 155 Expression desde 29.390 €, Journey y Extreme desde 31.390 €, TCe 140 y ECO-G 140 desde 24.990 €, y **Tribrid 150 4x4** desde 30.890 € (gasolina + electricidad + GLP, el 4x4 "triple energía" más barato). Para ponerlo en contexto: un Hyundai Tucson o un Toyota RAV4 híbridos equivalentes cuestan entre 12.000 y 20.000 € más. Dato con orgullo español: los componentes del sistema híbrido se fabrican en la planta del Grupo Renault en **Valladolid**. Y funciona: 67.573 matriculaciones en Europa en 2025, candidato a Coche del Año en Europa 2026. Sus pegas: prestaciones justas (9,7 s), interior espartano en acabados de acceso y etiqueta ECO (no Cero).
 
-**Jaecoo 5.** Precio de derribo: gasolina 1.6 TGDI desde **19.990 € financiado**, **HEV de 224 CV desde 22.500 €** (etiqueta ECO, más de 900 km de autonomía total) y EV de 211 CV desde 35.500 €. El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa: es la versión con más sentido. Equipamiento generoso (19 ADAS y 7 airbags de serie), cabina pet-friendly certificada por TÜV Rheinland y linterna extraíble en el maletero. Sus pegas: el gasolina gasta 7,0 l/100 km con etiqueta C, las prestaciones son justas y la red de posventa está en construcción.
+**Jaecoo 5.** Precio de derribo: gasolina 1.6 TGDI desde **19.990 € financiado**, **HEV de 224 CV desde 22.500 €** (etiqueta ECO, más de 900 km de autonomía total) y EV de 211 CV desde 35.500 €. El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa: es la versión con más sentido. Equipamiento generoso (19 ADAS y 7 airbags de serie), cabina pet-friendly certificada por TÜV Rheinland y linterna extraíble en el maletero. Sus pegas: el gasolina gasta 7,0 l/100 km con etiqueta C, las prestaciones son justas y la red de posventa está en despliegue.
 
 ## Pros y contras
 
@@ -825,7 +825,7 @@ Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha 
 - ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
 - ❌ El gasolina gasta 7,0 l/100 km y lleva etiqueta C
 - ❌ Prestaciones justas del gasolina: 10,2 s en el 0-100
-- ❌ Red de posventa aún en construcción
+- ❌ Red de posventa aún en despliegue
 
 ## Veredicto: ¿cuál comprar?
 

@@ -48,7 +48,7 @@ export const COCHES_CHANGAN: CocheComparador[] = [
     ],
     contras: [
       "Precio aún sin confirmar: llegará a Europa a finales de 2026 sin tarifa oficial",
-      "Marca casi desconocida en España: la red comercial está en construcción",
+      "Marca casi desconocida en España: la red comercial está en despliegue",
       "Autonomía algo por detrás de los mejores del segmento (el Deepal S05 llega a 485 km)",
       "Compite en casa con el Deepal S05: 485 km, 200 kW de carga y 5 estrellas Euro NCAP desde 37.390 €",
       "Carga en alterna limitada a 11 kW: sin opción de carga doméstica más rápida",
