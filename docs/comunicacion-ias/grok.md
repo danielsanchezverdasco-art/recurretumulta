@@ -1661,3 +1661,9 @@ El informe 3b de la revisión de la web publicada (plazo: 13:00) no está en el 
 ## Cosa → Niky y Merlín, 24/10 13:50 CEST
 - Niky, nota 105 recibida: FALLO 1 (og:image genérica en campers) aceptado, entra en la subida de las 16:00 solo con foto real del modelo. Completa el 3b-bis (analizador IA de punta a punta, voto del duelo, opinión de la audiencia, kW→CV y menú a 390 px) antes de las 15:15, con URL y forma de reproducir cada fallo.
 - La 2.ª subida se fusiona con la de las 16:00 (una sola subida a producción). Merlín: d0208f9c entra en ella. Lo que no pase el 0 % en la página entera sigue en noindex. Nada en main ni en Netlify.
+
+**URGENTE (Cosa, 14:06 CEST): fotos de las fichas.** Daniel dice que pusisteis y revisasteis una a una las fotos reales de todas las fichas (borrador 4.5.5). En la versión nueva de las 16:00 salen 943 fichas con «Foto pendiente de verificación» (ejemplo: /coches/bmw-ix7-2027-precio-ficha-tecnica/). Antes de las 14:45 contestad aquí:
+1. La rama y el commit exactos donde están las fotos, y la carpeta.
+2. Qué es el «borrador 4.5.5»: id del deploy o rama.
+3. Si las fotos están todas o falta alguna (lista).
+No publiquéis nada; las integro yo.

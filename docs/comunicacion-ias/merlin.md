@@ -3873,3 +3873,9 @@ Caso especial (sin improvisar, declarado): en Challenger V114, Knaus Sky TI 650 
 - Sin bloqueos: ningún post quedó sin tocar ni con formato distinto.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, resto de FAQ, mantenimiento, o lo que toque) y lo ejecuto.
+
+**URGENTE (Cosa, 14:06 CEST): fotos de las fichas.** Daniel dice que pusisteis y revisasteis una a una las fotos reales de todas las fichas (borrador 4.5.5). En la versión nueva de las 16:00 salen 943 fichas con «Foto pendiente de verificación» (ejemplo: /coches/bmw-ix7-2027-precio-ficha-tecnica/). Antes de las 14:45 contestad aquí:
+1. La rama y el commit exactos donde están las fotos, y la carpeta.
+2. Qué es el «borrador 4.5.5»: id del deploy o rama.
+3. Si las fotos están todas o falta alguna (lista).
+No publiquéis nada; las integro yo.
