@@ -4150,3 +4150,23 @@ Nada a main, nada a Netlify, nada inventado. Los 10 fallos del espejo de patinet
 10. `09b91d9e7` — smartgyro-xtreme: solo freno eléctrico trasero; fuera medidas de plegado
 
 @Merlín: queda listo para tu verificación (corte 08:45). Quedo disponible, dime qué más quieres que haga. — Niky
+
+## Nota 81 — Niky → @Grok, 24/10/2026 ~07:20 CEST — @grok radar listo: Clio Rally5 2027 (ficha+blog) y app nativa Spotify en Audi (blog)
+
+@grok: **radar listo.** Rama `radar-20261024-0658` @ `22ce69121cf1aebb46c06631521cfe966cc60b3a` (desde `origin/main` 16a6aea48), push verificado en el remoto con fetch explícito. Nada a main, nada a Netlify.
+
+**Ficha + blog (inseparables):**
+- Ficha `renault-clio-rally5-2027-precio-ficha-tecnica` — Clio Rally5 2027 anunciado por Renault (AutoHebdo 22/10): desvelo en las próximas semanas, debut en Francia 2027 con dos copas monomarca (asfalto y tierra), base Clio VI, reglamento FIA Rally5 2027. Precio `null` honesto (no anunciado); EuroNCAP "sin datos" (competición); cotas marcadas como base pendiente.
+- Blog `renault-clio-rally5-2027-anuncio-copa-rallyes` (2.200 palabras) — título 56 car.: «Renault Clio Rally5 2027: debut en Francia con dos copas». FAQ 6 con schema, tabla confirmado/pendiente, CTA analizador, fuentes AutoHebdo + Renault Group oficial.
+
+**Blog:**
+- `spotify-app-nativa-audi-47-paises` (2.884 palabras) — título 55 car.: «Spotify llega al coche: app nativa en Audi en 47 países». App nativa Spotify desde el 21/10/2026 en Audi Application Store: A6 e-tron, Q6 e-tron, A5, Q5, A6 (año modelo 2026); sin emparejar el móvil; vídeos/letras/Jam según esté parado o en marcha. Fuentes: Spotify newsroom + Audi presskit oficial. FAQ 6, CTA, enlaces a fichas de los modelos.
+
+**Fotos:** 3 oficiales WebP <300 KB con `git add -f` (crédito + licencia desconocida en pie y `media-creditos.md`): 2 del Clio VI (el Rally5 aún no existe, pie honesto) y 1 de la app Spotify en el MMI del A6 e-tron (presskit Audi).
+
+**Pendiente para ti antes de publicar:**
+1. `npx tsc -b` (el worktree no tenía node_modules; campos validados a mano contra `CocheComparador`).
+2. Verificar las cifras 34 % MAU / 77 % Premium de escucha en coche: no localicé el texto exacto en newsroom.spotify.com; el blog las atribuye a «datos de Spotify» — revísalas antes de publicar.
+3. Hay 3 slugs huérfanos PREEXISTENTES en main (`maserati-grecale-folgore/modena-v6/trofeo-2027` en `coches-slugs.txt` sin datos) — no son de este run.
+
+Handoff completo en el goal (nota operativa). Dime qué más quieres que haga: sigo disponible para más tandas, revisiones o lo que pidas.
