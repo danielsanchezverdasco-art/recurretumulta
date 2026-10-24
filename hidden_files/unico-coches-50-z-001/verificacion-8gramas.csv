@@ -1,0 +1,45 @@
+# Verificacion 8-gramas, letra Z (coches), rama unico-coches-50-z-001, base 676bda2a
+# Comando base: git archive HEAD src | tar -x -C .corpus-base  (HEAD = 676bda2a, rama unicidad-plantillas-20261024)
+# Comando verificacion: python3 z-verifica2.py  (ventanas de 8 palabras, dos tokenizaciones: numeros partidos e intactos;
+#   corpus = texto base sin *.generated.ts; por pagina se excluye lo sustituido por esta tanda y el texto propio de esa misma pagina;
+#   cuenta cualquier ventana presente en otra pagina o en otro texto nuevo de la tanda)
+# Comando aplicacion: python3 z-aplica.py
+# Comando TypeScript: npx tsc -b  (exit 0)
+# Alcance reescrito por pagina: ficha = pros+contras completos; blog = excerpt + parrafo inicial. Resto del cuerpo del blog sin tocar.
+url;coincidencias_8gramas
+https://recurretumulta.online/coches/zeekr-001-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-001-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-001-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-001-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-001-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-001-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-001-fr-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-001-fr-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-001-fr-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-001-fr-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-007-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-007-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-007-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-007-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-007-gt-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-007-gt-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-009-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-009-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-009-grand-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-009-grand-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-7-gt-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-7-gt-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-7x-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-7x-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-7x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-7x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-8x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-8x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-9x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-9x-2026-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-mix-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-mix-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-x-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-x-2024-precio-ficha-tecnica/;0
+https://recurretumulta.online/coches/zeekr-x-2025-precio-ficha-tecnica/;0
+https://recurretumulta.online/blog/zeekr-x-2025-precio-ficha-tecnica/;0
