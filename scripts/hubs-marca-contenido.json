@@ -718,5 +718,85 @@
   "intro": "Indian Motorcycle es la rival histórica de Harley y su gama se organiza en tres familias con carácter propio. La Scout es la de acceso y la más variada: 101 Scout, Scout Bobber, Scout Classic, Scout Sixty, Scout Sixty Classic, Scout Sixty Bobber y Sport Scout. La Chief es la custom clásica: Chief, Chief Bobber Dark Horse, Super Chief Limited y Sport Chief RT. Y las grandes viajeras son la Challenger, la Chieftain PowerPlus Dark Horse y la Pursuit Dark Horse, con carenado y maletas para ruta. La FTR 1200 Sport es la excepción deportiva de la gama, con un planteamiento más cercano a la naked. Scout, Chief y grandes viajeras: tres familias, tres posturas y tres pesos. La Scout Sixty es la entrada amable, la Pursuit Dark Horse la rutera con todo, y entre ambas la Chief mantiene el custom clásico americano de siempre para viajar. Tres familias, tres formas de rodar.",
   "n": 15,
   "url": "/motos/marca/indian/"
+ },
+ "motos/keeway": {
+  "nombre": "Keeway",
+  "title": "Keeway: 15 motos 125 y custom",
+  "description": "15 fichas técnicas de motos Keeway: RKF 125, Superlight 125 y Vieste 125, con motor, versiones y precio.",
+  "intro": "Keeway cubre el segmento de acceso con motos de 125 y custom ligeras, y su catálogo se entiende por estilos. La RKF 125 y la RKV 125C son las naked urbanas, y la TX 125 S la trail ligera para empezar. La K-Light 125 y la K Light 250V, junto a la Superlight 125 y la Superlight 125V, forman el grupo custom de rueda delantera grande y asiento bajo. La Sixties 125, la Icon 125 S y la Gemma 125 añaden el toque retro y scooter, y la Vieste 125, la Vieste 300 XDV y la XDV 125 EVO Pro cubren el scooter y el crossover. La V302C es la custom de mayor cilindrada del grupo. La mayoría son motos de carnet A1 o B, y la elección pasa por altura de asiento, peso y estilo. Una RKF 125 y una Superlight 125 no se parecen en nada salvo en la cilindrada, y esa es la gracia del catálogo.",
+  "n": 15,
+  "url": "/motos/marca/keeway/"
+ },
+ "patinetes/teverun": {
+  "nombre": "Teverun",
+  "title": "Teverun: 15 patinetes de altas prestaciones",
+  "description": "15 fichas de patinetes eléctricos Teverun: Fighter 11, Fighter Supreme y Blade Mini, con autonomía y precio.",
+  "intro": "Teverun no hace patinetes urbanos ligeros: hace máquinas de altas prestaciones con doble motor y autonomía larga. La familia Blade Mini, con el Blade Mini Pro y el Blade Mini Ultra, es la entrada a ese mundo, con potencia y autonomía por encima de la media. La familia Fighter sube la apuesta: Fighter Mini, Fighter Mini Pro, Fighter 11 y Fighter Supreme, este último también en versión 7260R, con potencias que multiplican las de un patinete urbano normal. El Tetra es la propuesta más extrema en autonomía declarada. Aquí la comparación no es por precio, sino por potencia, batería, frenos y peso, porque un Fighter Supreme no se compra para ir a comprar el pan. Un Fighter Supreme no se mide con la vara de un patinete urbano: se mide por frenos, batería y chasis. Quien compra Teverun compra potencia, y la ficha técnica es donde esa potencia se demuestra o se desmiente.",
+  "n": 15,
+  "url": "/patinetes/marca/teverun/"
+ },
+ "coches/aito": {
+  "nombre": "Aito",
+  "title": "Aito: 14 SUV, de M5 a M9",
+  "description": "14 fichas técnicas de coches Aito: M5, M7 y M9, con versiones eléctricas y de autonomía extendida.",
+  "intro": "Aito nombra sus SUV por números y los ofrece en eléctrico y en versión de autonomía extendida, y esa doble oferta es su seña de identidad. El M5, también en Ultra y Ultra EV, es el SUV de acceso. El M6 y el M6 EV suben un escalón, y el M7, en Pro, Ultra y EV, es el familiar grande. El M8, en versión estándar, EREV y EV, y el M9, el buque insignia, cierran la gama por arriba. La sigla EREV indica la versión con extensor de autonomía, que combina batería con un motor de combustión que solo genera electricidad. Para elegir conviene decidir primero el tamaño y después la energía: eléctrico puro o EREV. M5, M7, M8 y M9 no son solo tamaños: son formas de viajar, y la sigla EREV añade la red de seguridad del extensor. Elegir entre eléctrico puro y EREV es la decisión que más condiciona el uso real.",
+  "n": 14,
+  "url": "/coches/marca/aito/"
+ },
+ "coches/jaecoo": {
+  "nombre": "Jaecoo",
+  "title": "Jaecoo: 14 SUV, de 5 a 8",
+  "description": "14 fichas técnicas de coches Jaecoo: Jaecoo 5, Jaecoo 7 y Jaecoo 8, con versiones híbridas y precio.",
+  "intro": "Jaecoo es la marca hermana de Omoda dentro de Chery y su gama se resume en tres números: 5, 7 y 8, con variantes de cada uno. El Jaecoo 5 aparece en versión 1.6 TGDI, EV y SHS, y el J5 EV es su variante eléctrica. El Jaecoo 6, en EV y AWD, añade un SUV eléctrico compacto, y el J6 es su denominación alternativa. El Jaecoo 7, en versión estándar, SHS y J7 SHS, es el SUV familiar de referencia, y el Jaecoo 8, en SHS y J8 SHS, el grande de la gama. La sigla SHS indica el sistema híbrido enchufable de la marca, y es la clave para distinguir un 7 de un 7 SHS. Del 5 al 8, Jaecoo sube en tamaño y en precio, pero la sigla SHS es la que cambia el consumo y la etiqueta. Un 7 SHS y un 7 de combustión no son el mismo coche en ningún dato que importe.",
+  "n": 14,
+  "url": "/coches/marca/jaecoo/"
+ },
+ "coches/polestar": {
+  "nombre": "Polestar",
+  "title": "Polestar: 14 eléctricos, de 2 a 7",
+  "description": "14 fichas técnicas de coches Polestar: Polestar 2, Polestar 3 y Polestar 4, con autonomía y precio.",
+  "intro": "Polestar nombra sus coches por números y su gama actual va del 2 al 7 con un hueco para el futuro. El Polestar 2, en versiones estándar, Long Range, Long Range Dual Motor y Performance, es la berlina eléctrica de acceso. El Polestar 3, también en Dual Motor y Performance, es el SUV grande, y el Polestar 4, en versión estándar, SUV y SUV Dual Motor, el SUV coupé. El Polestar 5 y su variante Performance son la berlina deportiva de mayor tamaño, el Polestar 6 Roadster el descapotable que llegará, y el Polestar 7 el próximo SUV compacto. La diferencia entre un Dual Motor y un Performance está en potencia y equipamiento, no en autonomía necesariamente. Dual Motor añade tracción total y Performance añade potencia, pero ninguno regala autonomía: cada versión equilibra las tres cosas de forma distinta. Por eso el número del modelo dice menos que la versión que lo acompaña.",
+  "n": 14,
+  "url": "/coches/marca/polestar/"
+ },
+ "coches/suzuki": {
+  "nombre": "Suzuki",
+  "title": "Suzuki coches: 14 fichas, de Swift a eVitara",
+  "description": "14 fichas técnicas de coches Suzuki: Swift, eVitara y Fronx, con motores híbridos, versiones y precio.",
+  "intro": "La gama de coches Suzuki en este listado combina urbanos, SUV y el primer eléctrico de la marca, y se entiende mejor por tamaños. El Swift, también en versión Sport y Mild Hybrid, y el Ignis son los urbanos, con el Fronx como crossover pequeño. El S-Cross y el Vitara, en versiones Mild Hybrid y Strong Hybrid, cubren el SUV compacto familiar, y el Jimny Pro 1.5 4WD es el todoterreno puro de la gama. El Swace y el Across, este último PHEV, son los familiares con tecnología híbrida, y el eVitara y el e Vitara 49 kWh son los eléctricos. Mild Hybrid ayuda al motor de combustión y Strong Hybrid puede mover el coche solo con electricidad en ciudad. Esa diferencia, más que la potencia máxima, separa un Swift de un eVitara, y la ficha la deja clara en consumo, etiqueta y precio final de cada versión. La energía marca la diferencia real.",
+  "n": 14,
+  "url": "/coches/marca/suzuki/"
+ },
+ "coches/voyah": {
+  "nombre": "Voyah",
+  "title": "Voyah: 14 eléctricos premium, de Free a Dream",
+  "description": "14 fichas técnicas de coches Voyah: Free, Dream y Courage, con versiones eléctricas e híbridas enchufables.",
+  "intro": "Voyah es la marca premium eléctrica de Dongfeng y su gama se organiza en cuatro nombres con variantes claras. El Free y el Free+, también en EREV, son los SUV de referencia. El Dream, el Dream+ y el Dream 9, este último también en PHEV, son los monovolúmenes de lujo para viajar. El Courage, en versión estándar, AWD y 2026, con su variante de 109 kWh, es el SUV más reciente. El Passion, el Passion S y el Passion L PHEV son las berlinas de la gama, y el Taishan PHEV el SUV grande híbrido enchufable. La sigla EREV y PHEV indica las versiones con extensor o híbridas enchufables frente a las eléctricas puras. Free para viajar en SUV, Dream para viajar en monovolumen y Courage para estrenar la gama más reciente: tres respuestas a la misma pregunta. Las siglas EREV y PHEV añaden la opción híbrida a cada una de ellas.",
+  "n": 14,
+  "url": "/coches/marca/voyah/"
+ },
+ "motos/macbor": {
+  "nombre": "Macbor",
+  "title": "Macbor: 14 motos, de XR1 a Eight Mile",
+  "description": "14 fichas técnicas de motos Macbor: Montana XR1 125 EVO, Rockster 125 y Eight Mile 500, con motor y precio.",
+  "intro": "Macbor es una marca española con tres líneas bien distintas: Montana para viajar, Rockster para el estilo y Eight Mile para el custom. La Montana XR1 125 EVO y la XR1 125 son la aventura ligera de carnet A1, y la Montana XR5, también en 500 y 510, sube hacia la trail de media cilindrada. La Rockster 125 EVO, la Rockster Flat 125 EVO y la Rockster 410 cubren la naked y la scrambler urbana. La Shifter 125 EVO es la naked de acceso, y la Eight Mile 125 LC y la Eight Mile 500, en SCR y Street, son el custom de la casa. La elección pasa por el uso: aventura, ciudad o custom, y por el carnet disponible. Montana para viajar, Rockster para lucir y Eight Mile para el custom: tres líneas españolas con públicos distintos. La XR1 y la XR5 comparten apellido y poco más en cilindrada y uso.",
+  "n": 14,
+  "url": "/motos/marca/macbor/"
+ },
+ "patinetes/kukirin": {
+  "nombre": "KuKirin",
+  "title": "KuKirin: 14 patinetes, de G2 a G4 Max",
+  "description": "14 fichas de patinetes eléctricos KuKirin: G2, G3 y G4 Max, con autonomía, velocidad y precio.",
+  "intro": "KuKirin ordena sus patinetes por familias G, y la escalera se recorre de menor a mayor potencia. El G2 es la base urbana, con el G2 Pro y el G2 Master como variantes más equipadas y el G2 Ultra como tope de esa familia. El G3 y el G3 Pro suben en autonomía y velocidad, y el C1 Pro añade una opción con asiento para un uso distinto. El M5 Pro y el S1 Max cubren la zona media-alta, y el G4 Max es el buque insignia con la mayor autonomía y velocidad del catálogo. La diferencia entre un G2 y un G4 Max no es solo de precio: es de peso, frenos y uso, porque el segundo ya es un patinete de altas prestaciones. Del G2 al G4 Max, KuKirin sube en potencia y en peso a la vez: la familia G se recorre mirando ambos datos juntos. Potencia y peso suben siempre juntos.",
+  "n": 14,
+  "url": "/patinetes/marca/kukirin/"
+ },
+ "patinetes/niu": {
+  "nombre": "NIU",
+  "title": "NIU patinetes: 14 KQi, de 100F a 300X",
+  "description": "14 fichas de patinetes eléctricos NIU: KQi 100F, KQi3 Max y KQi Air, con autonomía, velocidad y precio.",
+  "intro": "NIU concentra toda su gama de patinetes en la familia KQi, y los números indican el escalón dentro de ella. Los KQi 100F y 100P son la entrada ligera, y los KQi 200F y 200P suben en autonomía. Los KQi 300P y 300X son la zona media-alta, con el 300X como opción de mayor alcance. La serie KQi1, con el Sport y el Pro, y la KQi2 Pro cubren el uso diario con buen equilibrio entre peso y autonomía. La KQi3, en Sport, Pro y Max, es la gama alta urbana, y los KQi Air y Air X son los más ligeros y plegables de la marca. Elegir un KQi es elegir entre peso, autonomía y precio, en ese orden. 100F, 200P, 300X: los números de la familia KQi ordenan peso y autonomía de menor a mayor. El Air y el Air X rompen esa escala por ligereza, no por potencia.",
+  "n": 14,
+  "url": "/patinetes/marca/niu/"
  }
 }
