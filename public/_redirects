@@ -1,5 +1,22 @@
 /radares/ /provincias/ 301!
 /radares /provincias/ 301!
+# r24 404 GSC -> equivalente real (24/10)
+/de /  301!
+/de/ /  301!
+/de/cookies /cookies/ 301!
+/de/cookies/ /cookies/ 301!
+/de/multas/cordoba /multas/cordoba/ 301!
+/de/multas/cordoba/ /multas/cordoba/ 301!
+/de/multas/santiago-compostela /multas/santiago-compostela/ 301!
+/de/multas/santiago-compostela/ /multas/santiago-compostela/ 301!
+/de/blog/dgt-organismo-trafico-espana-como-funciona /blog/dgt-organismo-trafico-espana-como-funciona/ 301!
+/de/blog/dgt-organismo-trafico-espana-como-funciona/ /blog/dgt-organismo-trafico-espana-como-funciona/ 301!
+/blog/li-l6-2025-precio-ficha-tecnica /coches/li-auto-l6-ficha-tecnica-precio/ 301!
+/blog/li-l6-2025-precio-ficha-tecnica/ /coches/li-auto-l6-ficha-tecnica-precio/ 301!
+/blog/opel-corsa-12-turbo /coches/opel-corsa-12-turbo/ 301!
+/blog/opel-corsa-12-turbo/ /coches/opel-corsa-12-turbo/ 301!
+/blog/ansr-imt-multas-transito-portugal-como-recurrir /blog/multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea/ 301!
+/blog/ansr-imt-multas-transito-portugal-como-recurrir/ /blog/multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea/ 301!
 # marcas (gen-marcas.py)
 /coches/marca/mercedes/ /coches/marca/mercedes-benz/ 301!
 /coches/marca/mercedes /coches/marca/mercedes-benz/ 301!

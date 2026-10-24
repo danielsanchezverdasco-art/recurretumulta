@@ -461,7 +461,7 @@ Donde cobra sentido es en un karting, un circuito ratonero o una carretera de mo
 
 Fuera de ese hábitat aparecen límites honestos. El depósito de **7,2 litros** recorta cualquier escapada larga, el asiento a **930 mm** castiga en trayectos sostenidos y la autopista se vuelve un trámite ruidoso sin protección aerodinámica. Como segunda moto para tandas encaja; como única moto para todo, exige un propietario muy convencido.
 
-Entre sesiones, prueba a localizar monos ocultos en el <a href=/juego-monos/>juego caza-monos</a> imaginando la cruzada de esta 450 al salir de la chicane del karting con el Suter patinando.
+
 
 ## Tenerla en casa: mantenimiento de carreras y carnet A
 

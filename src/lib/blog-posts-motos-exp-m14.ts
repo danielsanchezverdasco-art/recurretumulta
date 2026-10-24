@@ -207,7 +207,7 @@ El corazón del FQi son sus **dos baterías extraíbles de 72 V**: se sacan, se 
 
 ## Uso real: el 125 de los que no tienen garaje
 
-El FQi 500 resuelve el problema clásico del vehículo eléctrico urbano: dónde cargarlo. Si vives en un piso sin plaza con enchufe, las baterías extraíbles son la diferencia entre poder y no poder tener un scooter eléctrico. Su uso natural es el trayecto casa-trabajo con desvíos, a ritmos de ciudad y anillo urbano. No es una moto de fin de semana ni de autovía: con unos 80 km reales y 95 km/h de punta, su territorio es la ciudad y su periferia cercana. Compáralo con el resto en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+El FQi 500 resuelve el problema clásico del vehículo eléctrico urbano: dónde cargarlo. Si vives en un piso sin plaza con enchufe, las baterías extraíbles son la diferencia entre poder y no poder tener un scooter eléctrico. Su uso natural es el trayecto casa-trabajo con desvíos, a ritmos de ciudad y anillo urbano. No es una moto de fin de semana ni de autovía: con unos 80 km reales y 95 km/h de punta, su territorio es la ciudad y su periferia cercana. Compáralo con el resto en el <a href=/comparador-motos/>comparador de motos</a>.
 
 ## Costes de uso: la ventaja eléctrica, sin cifras inventadas
 
@@ -314,7 +314,7 @@ El motor Bosch de **6,5 kW** y las dos baterías de 72 V suman **3,74 kWh**. La 
 
 ## Uso real: dos personas, rondas y la periferia cercana
 
-Con 100 km/h puede usar rondas y vías rápidas cortas sin ser un obstáculo, y con **275 kg de carga útil** lleva a dos adultos con compra. Su límite es el de su batería: 60 km reales marcan un radio de acción urbano y periurbano, no una moto de escapadas. Para el trayecto casa-trabajo con desvíos es exactamente su escenario. Compáralo con otros equivalentes a 125 en el <a href=/comparador-motos/>comparador de motos</a> y ameniza la carga con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Con 100 km/h puede usar rondas y vías rápidas cortas sin ser un obstáculo, y con **275 kg de carga útil** lleva a dos adultos con compra. Su límite es el de su batería: 60 km reales marcan un radio de acción urbano y periurbano, no una moto de escapadas. Para el trayecto casa-trabajo con desvíos es exactamente su escenario. Compáralo con otros equivalentes a 125 en el <a href=/comparador-motos/>comparador de motos</a>.
 
 ## Costes de uso: la ventaja eléctrica y la garantía de 2 años
 
@@ -430,7 +430,7 @@ La ventaja estructural del eléctrico se nota en el bolsillo: no hay aceite, fil
 
 Dentro de la propia marca, el <a href=/motos/niu-mqi-gt-evo-ficha-tecnica-precio/>NIU MQi GT Evo</a> ofrece 5 kW, 100 km/h y unos 75 km de autonomía por 4.599 € según su ficha en este sitio: es la alternativa de corte más clásico. El <a href=/motos/niu-nqix-300-2026-ficha-tecnica-precio/>NQiX 300</a> queda como escalón inferior de la misma familia para quien no necesita tanta punta ni el Boost.
 
-**Veredicto:** el NQiX 500 merece la pena para el usuario urbano que quiere lo más completo de NIU: seguridad activa, baterías ligeras extraíbles y prestaciones sobradas para ciudad y rondas. No es para hacer autopista a diario ni para quien necesite más de 80 km reales entre cargas sin planificar. Y si te queda batería al llegar a casa, gasta la tuya un rato en el <a href=/juego-monos/>juego caza-monos</a>.
+**Veredicto:** el NQiX 500 merece la pena para el usuario urbano que quiere lo más completo de NIU: seguridad activa, baterías ligeras extraíbles y prestaciones sobradas para ciudad y rondas. No es para hacer autopista a diario ni para quien necesite más de 80 km reales entre cargas sin planificar. 
 
 ## Preguntas frecuentes
 
@@ -867,7 +867,7 @@ El 0-100 en **3,8 s** la pone en territorio de naked media de gasolina, y los 72
 
 ## Uso real: ciudadana brillante, viajera limitada
 
-La Pulse es una moto de ciudad y corona metropolitana excelente: silenciosa, fulgurante en semáforos y con autonomía urbana declarada de 160 km que en uso real dará para varios días de trayectos. Fuera de ahí, la velocidad máxima de 129 km/h permite autovía, pero el consumo a ritmo alto y la ausencia de carga rápida cierran la puerta a las rutas largas. Es, en resumen, una segunda moto perfecta o una primera moto urbana con aspiraciones. Compárala en el <a href=/comparador-motos/>comparador de motos</a> y ameniza las cargas con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+La Pulse es una moto de ciudad y corona metropolitana excelente: silenciosa, fulgurante en semáforos y con autonomía urbana declarada de 160 km que en uso real dará para varios días de trayectos. Fuera de ahí, la velocidad máxima de 129 km/h permite autovía, pero el consumo a ritmo alto y la ausencia de carga rápida cierran la puerta a las rutas largas. Es, en resumen, una segunda moto perfecta o una primera moto urbana con aspiraciones. Compárala en el <a href=/comparador-motos/>comparador de motos</a>.
 
 ## Mantenimiento y garantía: 5 años de batería que dan tranquilidad
 
@@ -987,7 +987,7 @@ La Origin de 35 kW se conduce con el **carnet A2**, y existe una versión de **1
 
 ## Frente a la Pulse y a las trail A2 de gasolina: veredicto
 
-Sus rivales naturales son su hermana <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse</a>, pensada para asfalto urbano, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Origin del año anterior</a> y las trail A2 de gasolina de toda la vida. Frente a estas últimas, la Origin gana en tecnología, en silencio y en coste de uso urbano, y pierde en lo que pierde todo eléctrico de aventura hoy: autonomía fuera del asfalto y red de carga en zonas rurales. Puedes enfrentar las trail del mercado en el <a href=/comparador-motos/>comparador de motos</a> y entretener la espera con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Sus rivales naturales son su hermana <a href=/motos/can-am-pulse-2024-ficha-tecnica-precio/>Can-Am Pulse</a>, pensada para asfalto urbano, la <a href=/motos/can-am-origin-2024-ficha-tecnica-precio/>Origin del año anterior</a> y las trail A2 de gasolina de toda la vida. Frente a estas últimas, la Origin gana en tecnología, en silencio y en coste de uso urbano, y pierde en lo que pierde todo eléctrico de aventura hoy: autonomía fuera del asfalto y red de carga en zonas rurales. Puedes enfrentar las trail del mercado en el <a href=/comparador-motos/>comparador de motos</a>.
 
 **¿Merece la pena?** Es la trail eléctrica A2 más completa y tecnológica que se puede comprar, y también una compra de nicho. **Para quién sí:** para quien haga pistas cercanas a casa o a un punto de carga, valore el silencio y quiera la plataforma más avanzada del segmento. **Para quién no:** para quien encadene jornadas largas de campo lejos de enchufes: ahí, hoy, una trail A2 de gasolina sigue siendo la herramienta correcta.
 
@@ -1090,7 +1090,7 @@ La TC Max se conduce con **carnet A1**, y también con el **permiso B con tres a
 
 ## Rivales y veredicto: ¿merece la pena?
 
-Sus rivales naturales están en la propia casa: la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>TC Wanderer</a> y la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>TS Hunter</a>, además de las 125 de gasolina de estética clásica. Compáralas en el <a href=/comparador-motos/>comparador de motos</a> y tómate un descanso con el <a href=/juego-monos/>juego caza-monos</a>.
+Sus rivales naturales están en la propia casa: la <a href=/motos/super-soco-tc-wanderer-2025-ficha-tecnica-precio/>TC Wanderer</a> y la <a href=/motos/super-soco-ts-hunter-2025-ficha-tecnica-precio/>TS Hunter</a>, además de las 125 de gasolina de estética clásica. Compáralas en el <a href=/comparador-motos/>comparador de motos</a>.
 
 **Veredicto: ¿merece la pena?** Por los 4.500-5.000 € que ronda en Europa, la TC Max merece la pena para uso urbano diario con posibilidad de cargar la batería en casa: estilo, silencio y mantenimiento mínimo. Para quien necesite salir a carretera abierta con frecuencia o valore la autonomía por encima de todo, una 125 de gasolina seguirá siendo más práctica.
 
@@ -1200,7 +1200,7 @@ El CPx Pro se conduce con el **carnet A1** o con el **carnet B con tres años de
 
 ## Frente al CPx básico y a las 125 de gasolina: veredicto
 
-La comparativa interna manda: el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> básico es suficiente para ciudad pura, y el Pro cobra su sobreprecio en potencia, velocidad y batería. Frente a los maxi-scooters de 125 de gasolina, el CPx Pro gana en coste de energía por kilómetro, suavidad y simplicidad mecánica, y pierde en repostaje instantáneo y en red. Dentro de la propia casa, el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini</a> cubre el extremo urbano y ligero opuesto. Sin PVP oficial publicado en España, la compra exige confirmar precio y condiciones en el distribuidor. Puedes comparar las opciones en el <a href=/comparador-motos/>comparador de motos</a> y buscar monos en nuestro <a href=/juego-monos/>juego caza-monos</a>.
+La comparativa interna manda: el <a href=/motos/super-soco-cpx-ficha-tecnica-precio/>Super Soco CPx</a> básico es suficiente para ciudad pura, y el Pro cobra su sobreprecio en potencia, velocidad y batería. Frente a los maxi-scooters de 125 de gasolina, el CPx Pro gana en coste de energía por kilómetro, suavidad y simplicidad mecánica, y pierde en repostaje instantáneo y en red. Dentro de la propia casa, el <a href=/motos/super-soco-cu-mini-2025-ficha-tecnica-precio/>Super Soco CU Mini</a> cubre el extremo urbano y ligero opuesto. Sin PVP oficial publicado en España, la compra exige confirmar precio y condiciones en el distribuidor. Puedes comparar las opciones en el <a href=/comparador-motos/>comparador de motos</a>.
 
 **¿Merece la pena?** **Para quién sí:** para el usuario de 125 que quiere el salto eléctrico completo, con prestaciones de vía rápida y carga doméstica con baterías extraíbles. **Para quién no:** para quien necesite guardar un casco integral bajo el asiento a diario o repostar en dos minutos: la gasolina sigue ganando en eso, y el CPx Pro lo compensa en todo lo demás.
 

@@ -680,7 +680,7 @@ Honda y Kawasaki piden revisión cada 12.000 km o 12 meses —la Kawasaki añade
 
 Las tres nacen para el mismo permiso: el A2 limita a 35 kW, y por eso la BMW declara exactamente 35 kW, la Honda 34,6 kW y la Kawasaki 33,4 kW. Ninguna necesita limitación adicional. Con la potencia topada por norma, la diferencia real la ponen el peso, la electrónica, el precio y el coste de mantenerla.
 
-**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. Y entre ficha y ficha, prueba el <a href=/juego-monos/>juego caza-monos</a> repartido por la web.
+**Veredicto:** no hay una ganadora única, hay una ganadora por perfil. Si estrenas A2 y quieres la moto más completa y tecnológica, la **BMW F 450 R**, asumiendo revisiones más caras y una base sin extras. Si buscas equilibrio, reventa fácil y gastos contenidos durante años, la **Honda CB500 Hornet**. Si el presupuesto es el factor decisivo y prefieres gastar la diferencia en equipamiento o en el seguro, la **Kawasaki Z500**. 
 
 ## Preguntas frecuentes
 

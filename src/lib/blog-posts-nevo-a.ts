@@ -247,7 +247,7 @@ Sus puntos débiles también son claros: sin red europea de la marca, con una au
 
 ## Veredicto: ¿merece la pena el Nevo A07?
 
-**Veredicto:** en China es una de las berlinas electrificadas con mejor relación tamaño-precio del mercado, y su fórmula EREV encaja con el uso de buena parte de los conductores europeos. En España ni se vende ni tiene fecha: lo más cercano de la familia Changan aquí es su gama a través de otras marcas del grupo, y en clave de berlina eléctrica disponible, el <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> es la referencia real. Queda como aviso de lo que viene; mientras tanto, el <a href=/juego-monos/>juego caza-monos</a> sí está disponible.
+**Veredicto:** en China es una de las berlinas electrificadas con mejor relación tamaño-precio del mercado, y su fórmula EREV encaja con el uso de buena parte de los conductores europeos. En España ni se vende ni tiene fecha: lo más cercano de la familia Changan aquí es su gama a través de otras marcas del grupo, y en clave de berlina eléctrica disponible, el <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> es la referencia real. 
 
 ## Por dentro: pantalla 2.5K y silencio de marcha
 
@@ -360,7 +360,7 @@ Con 5.045 mm de largo y casi dos metros de ancho, el E07 es un coche pensado par
 
 ## Rivales y veredicto: no tiene rival, y ese es el punto
 
-En el catálogo de la propia Changan, el <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> representa la cara sensata de la marca, y el resto de SUV transformables simplemente no existe en el mercado europeo con el que solemos comparar en el <a href=/comparador-coches/>comparador del sitio</a>. **Veredicto:** el E07 merece atención como fenómeno de ingeniería y de marketing, y su precio chino desde unos 26.000 € al cambio hace soñar; pero para un comprador español no es una alternativa adquirible, sino una ventana a lo que China ya vende en casa. Como ventana, pocas hay más espectaculares. Si te ha picado la curiosidad, en el <a href=/juego-monos/>juego caza-monos</a> hay otra caza abierta, la de los monos repartidos por la web.
+En el catálogo de la propia Changan, el <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> representa la cara sensata de la marca, y el resto de SUV transformables simplemente no existe en el mercado europeo con el que solemos comparar en el <a href=/comparador-coches/>comparador del sitio</a>. **Veredicto:** el E07 merece atención como fenómeno de ingeniería y de marketing, y su precio chino desde unos 26.000 € al cambio hace soñar; pero para un comprador español no es una alternativa adquirible, sino una ventana a lo que China ya vende en casa. Como ventana, pocas hay más espectaculares. 
 
 ## Preguntas frecuentes
 
@@ -467,7 +467,7 @@ Como eléctrico puro, el mantenimiento se reduce a frenos, neumáticos, líquido
 
 ## Rivales y veredicto: ¿merece la pena?
 
-En la propia casa, el <a href=/coches/nevo-q07-2025-precio-ficha-tecnica/>Nevo Q07</a> juega en un tamaño superior y el <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Changan Deepal S07</a> representa el escalón más aspiracional del grupo. Frente a los SUV eléctricos compactos que sí se venden en España, el Q05 gana en precio teórico y carga rápida, y pierde en todo lo demás: disponibilidad, red y garantía. **Veredicto:** merece la pena seguirlo de cerca como termómetro de hasta dónde puede bajar el precio de un SUV eléctrico bien equipado; como compra desde España hoy, no es una opción real. Para quien necesite coche ya, toca mirar el mercado europeo. Y mientras tanto, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+En la propia casa, el <a href=/coches/nevo-q07-2025-precio-ficha-tecnica/>Nevo Q07</a> juega en un tamaño superior y el <a href=/coches/changan-deepal-s07-my26-2026-precio-ficha-tecnica/>Changan Deepal S07</a> representa el escalón más aspiracional del grupo. Frente a los SUV eléctricos compactos que sí se venden en España, el Q05 gana en precio teórico y carga rápida, y pierde en todo lo demás: disponibilidad, red y garantía. **Veredicto:** merece la pena seguirlo de cerca como termómetro de hasta dónde puede bajar el precio de un SUV eléctrico bien equipado; como compra desde España hoy, no es una opción real. Para quien necesite coche ya, toca mirar el mercado europeo. 
 
 ## Preguntas frecuentes
 
@@ -576,7 +576,7 @@ Como todo eléctrico, elimina aceite, bujías y escapes, y la frenada regenerati
 
 ## Rivales y veredicto: ¿merece la pena el Nevo Q06?
 
-**Veredicto:** en China, el Q06 merece la pena como golpe sobre la mesa: 800 V, lidar de serie y hasta 449 CV por precios que en Europa serían de segmento inferior. Desde España, su papel hoy es el de escaparate: marca el listón que tendrán que saltar los SUV eléctricos que sí se venden aquí, empezando por el <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a>. Si te van los eléctricos chinos de altos vuelos, el <a href=/blog/nio-ec6-2026-precio-ficha-tecnica/>análisis del NIO EC6</a> es tu siguiente lectura. Todos los datos del Q06, en su <a href=/coches/nevo-q06-2026-precio-ficha-tecnica/>ficha técnica</a>. Y entre carga y carga, prueba nuestro <a href=/juego-monos/>juego caza-monos</a>.
+**Veredicto:** en China, el Q06 merece la pena como golpe sobre la mesa: 800 V, lidar de serie y hasta 449 CV por precios que en Europa serían de segmento inferior. Desde España, su papel hoy es el de escaparate: marca el listón que tendrán que saltar los SUV eléctricos que sí se venden aquí, empezando por el <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a>. Si te van los eléctricos chinos de altos vuelos, el <a href=/blog/nio-ec6-2026-precio-ficha-tecnica/>análisis del NIO EC6</a> es tu siguiente lectura. Todos los datos del Q06, en su <a href=/coches/nevo-q06-2026-precio-ficha-tecnica/>ficha técnica</a>. 
 
 ## Preguntas frecuentes
 
@@ -689,7 +689,7 @@ El Q07 **no ha sido evaluado por Euro NCAP**: su seguridad en Europa es, por aho
 
 ## Rivales y veredicto: ¿merece la pena?
 
-En su propia casa, la berlina <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> (218 CV y desde 14.400 € en nuestra ficha) comparte filosofía electrificada en formato sedán, y el <a href=/coches/changan-cs75-plus-2025-precio-ficha-tecnica/>Changan CS75 Plus</a> (185 CV y 14.800 €) es la alternativa de gasolina convencional del grupo. **Veredicto:** en China, el Q07 es una propuesta familiar difícil de igualar por precio, espacio y autonomía total declarada. En España merece la pena como termómetro de hacia dónde va el PHEV chino, no como compra: sin homologación, sin red y sin nota de seguridad europea, importarlo es un proyecto, no una adquisición racional. De momento, lo que sí puedes cazar aquí es el <a href=/juego-monos/>juego caza-monos</a>.
+En su propia casa, la berlina <a href=/coches/nevo-a07-2025-precio-ficha-tecnica/>Nevo A07</a> (218 CV y desde 14.400 € en nuestra ficha) comparte filosofía electrificada en formato sedán, y el <a href=/coches/changan-cs75-plus-2025-precio-ficha-tecnica/>Changan CS75 Plus</a> (185 CV y 14.800 €) es la alternativa de gasolina convencional del grupo. **Veredicto:** en China, el Q07 es una propuesta familiar difícil de igualar por precio, espacio y autonomía total declarada. En España merece la pena como termómetro de hacia dónde va el PHEV chino, no como compra: sin homologación, sin red y sin nota de seguridad europea, importarlo es un proyecto, no una adquisición racional. 
 
 ## Preguntas frecuentes
 

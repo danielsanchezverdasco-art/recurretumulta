@@ -282,7 +282,7 @@ Lo que el análisis original da por confirmado hay que separarlo de lo pendiente
 
 ## Uso esperado: el familiar eléctrico que no quiere parecer experimento
 
-Su comprador natural es el del Tiguan de combustión que da el salto a eléctrico sin cambiar de nombre ni de formato: SUV familiar de segmento C, producido en **Emden** en exclusiva para Europa según el análisis. La convivencia con los Tiguan de gasolina e híbridos que anuncia Volkswagen rebaja el riesgo percibido del cambio. Su uso real se juzgará cuando existan unidades de prensa y precios cerrados; hasta entonces, lo prudente es valorarlo como promesa fundamentada, no como producto probado. Mientras tanto, puedes comparar sus rivales ya a la venta en el <a href=/comparador-coches/>comparador de coches</a> y pasar el rato con nuestro <a href=/juego-monos/>juego caza-monos</a>.
+Su comprador natural es el del Tiguan de combustión que da el salto a eléctrico sin cambiar de nombre ni de formato: SUV familiar de segmento C, producido en **Emden** en exclusiva para Europa según el análisis. La convivencia con los Tiguan de gasolina e híbridos que anuncia Volkswagen rebaja el riesgo percibido del cambio. Su uso real se juzgará cuando existan unidades de prensa y precios cerrados; hasta entonces, lo prudente es valorarlo como promesa fundamentada, no como producto probado. Mientras tanto, puedes comparar sus rivales ya a la venta en el <a href=/comparador-coches/>comparador de coches</a>.
 
 ## Costes y mantenimiento: todavía no hay nada que citar
 
