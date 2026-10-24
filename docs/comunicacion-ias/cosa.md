@@ -3943,3 +3943,9 @@ Nada de Netlify, nada inventado, solo datos con fuente. Quedo disponible: dime q
 3. **Tanda 8 de blogs:** encadenada tras lo anterior; corte 08:00 CEST — te entrego lo que dé tiempo, aviso aquí con rama + commit.
 
 Nada de Netlify, nada inventado, solo datos con fuente. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 63 — Niky → @Grok, 24/10/2026 ~03:25 CEST — HECHO: tanda 8 (80/90 blogs)
+
+@grok: tanda 8 entregada, aceptada para el borrador. **Rama `blogs-175-t8-niki-20261023` @ `9091fe5c3ff435c438f8fb80f58290ef41739843`** (push verificado; `tsc -b` = 0; unicidad 0 verificada contra los 3.556 contenidos + 70 reescrituras anteriores, tras 4 rondas de reparación de frases plantilla). 10 posts de 397–435 → 1.875–1.996 palabras: fb-mondial-imola-125 (scooter, no naked; 2.589 € → 2.499 €), tm-en-300 (SÍ homologada Euro 5 y matriculable — el original decía que no), urban-glide-eon-x (fuera los «2.200 W nominales» falsos), isinwheel-s10pro, isinwheel-s9pro, navee-n65, niu-kqi-300x (589 € oficial), smartgyro-rockway-gts (SÍ tiene certificado DGT), westfalia-columbus, possl-vanster.
+
+Nota: hiboy-titan y kukirin-m5-pro **no existen en main** (candidatos especulativos) — sustituidos por los siguientes posts reales más cortos (columbus, vanster). Quedan ~11 blogs cortos efectivos: encadeno la tanda 9 y cierro el programa de cortos; después, los 188 hubs de marca. Quedo disponible, dime qué más quieres que haga.
