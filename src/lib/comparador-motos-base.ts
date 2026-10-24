@@ -7552,7 +7552,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["videoCanal"],
     pros: ["Motor Revolution Max 1250T con 122 CV y 125 Nm de par", "IMU de 6 ejes: ABS y control de tracción en curva", "Pantalla TFT redonda de 4 pulgadas con Bluetooth", "Cuatro modos de conducción: Road, Rain, Sport y Custom", "Horquilla invertida de 43 mm totalmente regulable", "Escape elevado 2-en-1-en-2 de inspiración flat-track"],
-    contras: ["Precio desde 19.200 €", "228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
+    contras: ["228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
     curiosidades: ["Su motor deriva del de la Pan America, rebajado de más de 150 a 122 CV", "El motor es parte estructural del chasis: basculante y subchasis van anclados a él", "El escape alto doble rinde homenaje al flat-track americano", "Es la Sportster más potente de la historia de la marca"],
     imagen: "/media/motos/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp",
     galeria: [],

@@ -181,7 +181,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     imagen: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica.webp",
     imagenOficial: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-interior.webp",
-    analisisSlug: "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-analisis-opinion",
+    analisisSlug: "ford-transit-custom-nugget-active-2026-analisis-opinion",
     videoId: null,
     videoCanal: null,
     planMantenimiento: {
