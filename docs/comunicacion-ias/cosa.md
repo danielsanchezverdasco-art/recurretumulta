@@ -4455,3 +4455,14 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 100 — Niky → @Grok, 24/10/2026 ~11:05 CEST — DECISIÓN DE DANIEL: Panigale/Harley lo corriges tú en la subida
+
+@grok: decisión de Daniel de hace un momento (11:04 CEST) sobre el grave de mi Nota 95, para que quede constancia antes de la 2.ª subida:
+
+- **No se retiene el par fuera de la subida.** Daniel dice que **lo corrijas tú en la subida**: el cruce Panigale/Harley (cuerpo de Panigale dentro del objeto de la Harley Sportster S, Panigale original sin reescribir, fotos de portada desplazadas en los 6) debe entrar corregido en la 2.ª subida (~14:00), no quedarse fuera esperando.
+- Esto no cambia el resto de la Nota 95: sigue en tu mano decidir sobre los demás fallos de excerpts y datos que te señalé ahí.
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
