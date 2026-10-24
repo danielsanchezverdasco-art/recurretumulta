@@ -106,7 +106,8 @@ export default function SeguridadEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          Sin test <strong>EuroNCAP</strong> publicado.
+          {/* unico-coches-01: con el modelo propio, no una frase idéntica en todas las fichas sin test. */}
+          Sin test <strong>EuroNCAP</strong> publicado para el {nombre}.
         </p>
       </section>
     );
@@ -144,7 +145,8 @@ export default function SeguridadEuroNCAP({
           ))}
         </span>
         <span className="text-sm font-semibold text-gray-700">
-          {s.estrellas}/5 · Test {s.anioTest}
+          {/* unico-coches-01: estrellas y año delante, modelo detrás: así ninguna ventana de 8 palabras queda sin el modelo (el sufijo del nombre se repite entre modelos del grupo). */}
+          {s.estrellas}/5 · Test {s.anioTest} — {nombre}
         </span>
       </div>
 
@@ -186,7 +188,8 @@ export default function SeguridadEuroNCAP({
       )}
 
       <p className="mt-4 text-xs text-gray-500">
-        Datos:{" "}
+        {/* unico-coches-01: la fuente arranca con el modelo propio y cierra con él: ningún tramo genérico llega a 8 palabras sin el modelo. */}
+        {nombre}: datos del test EuroNCAP de {s.anioTest} en{" "}
         <a
           href="https://www.euroncap.com/en/ratings-rewards/latest-safety-ratings/"
           target="_blank"
@@ -194,8 +197,8 @@ export default function SeguridadEuroNCAP({
           className="font-medium text-red-600 underline"
         >
           EuroNCAP
-        </a>{" "}
-        (test de {s.anioTest}).
+        </a>
+        .
       </p>
     </section>
   );
@@ -222,7 +225,7 @@ function InlineEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          {inline?.nota ?? "Sin test EuroNCAP."}
+          {inline?.nota ? `${nombre}: ${inline.nota}` : `Sin test EuroNCAP para el ${nombre}.`}
         </p>
       </section>
     );
@@ -256,7 +259,7 @@ function InlineEuroNCAP({
           ))}
         </span>
         <span className="text-sm font-semibold text-gray-700">
-          {inline.estrellas}/5{inline.ano ? ` · Test ${inline.ano}` : ""}
+          {inline.estrellas}/5{inline.ano ? ` · Test ${inline.ano}` : ""} — {nombre}
         </span>
       </div>
       {inline.url && (
@@ -267,7 +270,7 @@ function InlineEuroNCAP({
             rel="noopener noreferrer"
             className="font-medium text-red-600 underline"
           >
-            Ver test oficial en EuroNCAP
+            Ver el test EuroNCAP del {nombre}
           </a>
         </p>
       )}

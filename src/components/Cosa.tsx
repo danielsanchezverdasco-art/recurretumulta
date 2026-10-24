@@ -155,10 +155,15 @@ export function NotaCosa({
   entrada,
   nombre,
   fichaId,
+  conPrefijoModelo,
+  sufijoNombre,
 }: {
   entrada: NotaCosaInput;
   nombre: string;
   fichaId?: string;
+  /** unico-coches-01: solo lo pasan las fichas de coches; el resto de plantillas no cambia. */
+  conPrefijoModelo?: boolean;
+  sufijoNombre?: string | null;
 }) {
   const { ref, inView } = useInView<HTMLElement>(0.3);
   const [estrellas, setEstrellas] = useState<number | null | undefined>(
@@ -213,7 +218,8 @@ export function NotaCosa({
         </div>
         <div className="min-w-0 flex-1">
           <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-            <h2 className="text-xl font-extrabold text-gray-900">La nota de Cosa</h2>
+            {/* unico-coches-01: en coches el titular lleva el modelo propio: «La nota de Cosa 7,5/10» se repetía en todas las fichas con la misma nota. */}
+            <h2 className="text-xl font-extrabold text-gray-900">{conPrefijoModelo ? `La nota de Cosa para el ${nombre}${sufijoNombre ? ` ${sufijoNombre}` : ""}` : "La nota de Cosa"}</h2>
             <p className={`text-3xl font-black tracking-tight ${colorNota}`}>
               {/* 14/10/2026 (AdSense): nota real en el HTML, sin contador desde 0,0 */}
               {resultado.nota.toFixed(1).replace(".", ",")}
@@ -221,6 +227,8 @@ export function NotaCosa({
             </p>
           </div>
           {/* 24/10 (unicidad): solo datos (criterios y puntos), sin frase de plantilla */}
+          {/* unico-coches-01: en coches esta línea NO se pinta: los triples (etiqueta, puntos) son idénticos en cientos de fichas y ningún prefijo los desambigua (las ventanas interiores no tocan el modelo). El desglose completo sigue en «Método» con los mismos datos. */}
+          {!conPrefijoModelo && (
           <p className="mt-1.5 text-sm text-gray-600">
             {[...resultado.criterios]
               .filter((c) => c.peso > 0)
@@ -229,6 +237,7 @@ export function NotaCosa({
               .map((c) => `${c.etiqueta} ${c.puntos.toFixed(1).replace(".", ",")}`)
               .join(" · ")}
           </p>
+          )}
           <p className="mt-1 text-xs text-gray-500">
             Nota automática (<a href="/metodologia/" className="underline">método</a>)
           </p>

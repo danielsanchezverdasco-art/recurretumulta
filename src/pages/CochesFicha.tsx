@@ -593,6 +593,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         <NotaCosa
           nombre={nombre}
           fichaId={coche.id}
+          conPrefijoModelo
+          sufijoNombre={anioModelo(coche.id) ?? undefined}
           entrada={{
             precioEur: coche.precioDesde,
             precioNoOficialEspana: sinTarifaEspana(coche),
@@ -757,10 +759,9 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             const g = garantiaDeMarca(coche.marca, "coches");
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${coche.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
-                {/* 20/10/2026: cortar solo en fin de frase (". "), no en cualquier
-                    punto: el split(".") truncaba «100.000 km» a «100» (Toyota). */}
-                {g.nota ? <span className="text-gray-400"> ({g.nota.split(". ")[0]})</span> : null}
+                {/* unico-coches-01: solo el dato propio (marca, precio, modelo, año, años/km) y cierre con el modelo: la nota genérica de marca se repetía íntegra en todas sus fichas, así que sale de la ficha (sigue en los datos de garantía de la marca). */}
+                {`🛡️ Garantía oficial ${coche.marca}${coche.precioDesde != null ? ` desde ${coche.aprox.includes("precioDesde") ? "≈ " : ""}${fmtPrecio(coche.precioDesde)}` : ""} para el ${nombre}${anioModelo(coche.id) ? ` ${anioModelo(coche.id)}` : ""}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {` · ${nombre}${anioModelo(coche.id) ? ` ${anioModelo(coche.id)}` : ""}.`}
               </p>
             ) : null;
           })()}
@@ -818,7 +819,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              Fotos oficiales de {coche.marca} (prensa del fabricante).
+              {/* unico-coches-01: pie con modelo + año + precio + nº de fotos propios, y cierre con el modelo: el pie genérico se repetía en todas las fichas de la marca. */}
+              Fotos oficiales de {coche.marca} para el {nombre}
+              {anioModelo(coche.id) ? ` ${anioModelo(coche.id)}` : ""}
+              {coche.precioDesde != null ? ` desde ${coche.aprox.includes("precioDesde") ? "≈ " : ""}${fmtPrecio(coche.precioDesde)}` : ""} (en la galería del {nombre}
+              {anioModelo(coche.id) ? ` ${anioModelo(coche.id)}` : ""}: {coche.galeria!.length} fotos).
             </p>
                       </NightGallery>
 </section>
@@ -932,7 +937,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
         )}
 
         <Suspense fallback={null}>
-          <SeguridadEuroNCAPLayz fichaId={coche.id} nombre={nombre} inline={coche.euroncap} />
+          {/* unico-coches-01: el nombre lleva el año del modelo para que los textos de seguridad no se repitan entre variantes del mismo modelo. */}
+          <SeguridadEuroNCAPLayz fichaId={coche.id} nombre={`${nombre}${anioModelo(coche.id) ? ` ${anioModelo(coche.id)}` : ""}`} inline={coche.euroncap} />
         </Suspense>
 
         {coche.planMantenimiento && (
