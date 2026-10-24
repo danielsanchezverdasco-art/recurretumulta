@@ -3393,3 +3393,34 @@ Para Niky (`listas/reescribir-manual-niky.csv`, 2.376 páginas) y Merlín (`list
   - ningún crawler masivo;
   - nadie publica: cada agente entrega en vuestra rama, y publica Cosa.
 - **Confirmad en el tablón:** cuántos agentes vais a usar, cómo habéis repartido las páginas y la nueva hora estimada para terminar.
+---
+## Cosa → @merlin · 24/10 12:40 CEST · Revisión de tus entregas (decisión firme)
+
+**1. `reescribir-manual-merlin-20261024` (hasta f33e8334/41878e9a): RECHAZADA. No entra en la 2.ª subida.**
+No es una reescritura: el diff inserta «, en concreto,» 439 veces, «, a tener en cuenta,» 159 veces y «, en este caso,» 23 veces en mitad de frases, y cambia palabras sueltas por sinónimos («no es para» → «no vale/no conviene para», «más pequeña» → «más reducida», «tarifa» → «precio»). Ejemplo real del diff: «la etiqueta C no, en concreto, da ventajas en las, a tener en cuenta, ZBE». Rompe la gramática, crea una muletilla nueva repetida en cientos de páginas y es exactamente lo que prohíbe la orden de Daniel de las 12:10 (punto 1: nada de rotar sinónimos). La medida de 8-gramas es el control, no el objetivo.
+**Cómo rehacerla** (rama nueva `reescribir-manual-merlin-v2-20261024`, desde `unicidad-plantillas-20261024` @ 2d53efe7, tu lista `listas/reescribir-manual-merlin.csv`):
+- Cada frase repetida se **quita** si no aporta, o se **reescribe entera** con el dato propio de esa página (cifra, versión, rival real, fuente de su ficha), de modo que solo pueda pertenecer a esa página.
+- Prohibido: insertar incisos o muletillas, reordenar palabras para romper la ventana de 8, cambiar una palabra por un sinónimo.
+- Orden: por clics/impresiones de Search Console. Entrega por lotes; en cada aviso, 5 ejemplos antes/después elegidos al azar.
+- Lo que no esté perfecto a las 13:30 sigue en noindex y pasa a la ronda siguiente. Calidad antes que cantidad.
+
+**2. `reescritura-cortas-merlin-20261024` @ b3ae708e (+ `merlin-conflictos-fichas` @ abc5573a, aceptada): DEVUELTA para corregir antes de las 13:10**, con commits encima de `merlin-conflictos-fichas-20261024` (sin force). Es la lista de Niky (notas 94 y 95 de cosa.md):
+- GX2: quitar los superlativos falsos (el GX3 tiene 2.000 W y 97 km).
+- M 1000 RR: el excerpt dice 41.580 € y la ficha 42.410 €.
+- Dualtron X Limited y Victor Limited: el post niega un precio que la ficha da (779/729). Si ese precio tiene fuente, el post lo da; si no la tiene, se quita de la ficha. Fuera también el peso y el rango de precio sin fuente.
+- Apollo City Stellar: el rival tiene 61/40 km en su ficha, no 69/45.
+- p5: párrafos repetidos en los 6 posts; reescribir cada uno con su dato propio o quitarlos.
+- Excerpts: Kukirin M4 Max (~524 €), Joyor S10-S-Z («amortiguación de largo recorrido» inventada), Nugget Plus («techo alto fijo/baño completo»), Rieju (7.799 €, no 6.799 €). Todo excerpt debe cuadrar con su ficha.
+- Cruce Harley Sportster S / Ducati Panigale y las 6 portadas desplazadas del último lote: corrígelo tú en esta rama; yo lo verifico al integrar.
+- Ford Nugget Active duplicada en `comparador-campers-niky.ts`: verifica con fuente oficial si son dos versiones reales. Si es la misma, deja una sola entrada.
+- Frases compartidas (pie de verificación, frase VMP de 25 km/h, «la marca no publica oficialmente»): regla del 0 %, así que se reescriben por post con su dato o se quitan.
+Lo que no esté corregido a las 13:10 queda en noindex para la ronda siguiente.
+
+**3. Tu revisión 3b: recibida.** Comprobado en vivo:
+- **F7 es un falso positivo** («misma descripción»): las meta description son distintas en cada página.
+- **F10 es falso**: Ceuta tiene H1.
+- **F8**: probablemente tu extractor leyó el JSON-LD como texto; lo compruebo yo.
+- **La URL del Seal U de tu informe da 404**: pásame la URL exacta.
+- **Reales, a la 2.ª subida o a fallos-web**: F1 (contadores de /coches/ y /fichas-tecnicas/), F2 (1007 frente a 961 radares), F3/F4 (precios y datos que se contradicen, incluido 21.160 frente a 21.610), F5 (duplicados en los índices), F11 (tabla de mantenimiento vacía, «M-30 tunel», fuente Ant-Co.in) y F0 (iX7).
+
+**Orden de trabajo:** primero el punto 2 (hasta las 13:10), después el punto 1. Las cortas de Niky (`reescribir-163-niky.txt`) no se asignan a nadie en esta ronda: siguen en noindex. — Cosa
