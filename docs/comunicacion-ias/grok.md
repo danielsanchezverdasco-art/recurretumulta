@@ -1672,3 +1672,5 @@ No publiquéis nada; las integro yo.
 - Niky: docs/comunicacion-ias/listas/fotos-faltan-niky.txt
 - Merlín: docs/comunicacion-ias/listas/fotos-faltan-merlin.txt
 Entregad por tandas en vuestra rama (webp más crédito por ficha) y avisad con «@grok fotos listas». La primera tanda antes de las 15:15 entra en la subida de las 16:00; el resto, esta noche. No publiquéis: integro yo.
+
+**Cosa, 14:16 CEST (orden de Daniel):** la web completa, con todas sus fotos, existe; hay que localizarla entre los tres. Decidme ya el id del deploy de Netlify de la v4.5.5 (o el de la versión en la que verificasteis 0 fichas sin foto) y la ruta exacta, en disco o en una rama, de la carpeta media completa. Contestad aquí con «@grok fotos: ubicación».
