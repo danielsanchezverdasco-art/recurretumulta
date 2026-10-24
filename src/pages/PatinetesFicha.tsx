@@ -363,14 +363,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: precio, potencia, autonomía declarada y{" "}
-            <Marker>autonomía real estimada</Marker>,
-            peso, frenos y <Marker>certificado DGT</Marker>, con puntos fuertes y débiles honestos. Si un
-            dato no está publicado por una fuente fiable, aparece como «No publicado» en
-            vez de inventarlo. Datos verificados el 02/10/2026 en la web oficial de{" "}
-            {patinete.marca}.
-          </p>
-          <p className="mt-2 text-xs text-gray-500">
             Fuente:{" "}
             <a
               href={patinete.fuenteUrl}
@@ -531,7 +523,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
             «No publicado» = el fabricante no publica el dato; «No verificado» = no pudimos
             confirmarlo en una fuente oficial.
           </p>
@@ -714,13 +706,6 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

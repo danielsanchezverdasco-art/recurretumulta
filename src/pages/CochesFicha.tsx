@@ -338,7 +338,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       a:
         coche.autonomiaKm == null
           ? `No hay una autonomía publicada por ninguna fuente fiable para el ${nombre}, así que preferimos no inventarla: no la mostramos en la ficha.`
-          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}. Ten en cuenta que la cifra real depende de tu conducción y de la temperatura.`,
+          : `Homologa ${fmtKm(coche.autonomiaKm)}${/híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? " en modo eléctrico" : ""}${coche.cicloAutonomia === "CLTC" ? " en el ciclo chino CLTC, más optimista que el WLTP europeo" : /híbrido|enchufable|autonomía extendida/i.test(coche.tipo) ? "" : " (WLTP)"}.`,
     },
     {
       q: `¿Cuánto maletero tiene el ${nombre}?`,
@@ -372,7 +372,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       ? [
           {
             q: `¿Dónde puedo leer el análisis completo del ${nombre}?`,
-            a: `En nuestro análisis de Novedades Motor, con ficha técnica, curiosidades, comparativa con rivales y vídeo. En esta misma ficha tienes el botón «Leer nuestro análisis» para abrirlo.`,
+            a: `Pulsa «Leer nuestro análisis».`,
           },
         ]
       : []),
@@ -570,10 +570,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>,{" "}
-            <Marker>batería</Marker>, maletero y <Marker>etiqueta DGT</Marker>, con puntos
-            fuertes y débiles extraídos de nuestro análisis. Si un dato no
-            está publicado por una fuente fiable, no lo mostramos en vez de inventarlo.
             Fuente:{" "}
             {coche.fuenteUrl ? (
               <a
@@ -725,7 +721,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
           </p>
         </section>
 
@@ -734,12 +730,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             ¿Puede entrar en la ZBE de Madrid?
           </h2>
           <p className="mt-3 text-gray-700">{textoZbe(coche)}</p>
-          <p className="mt-3 text-xs text-gray-500">
-            En 2026 todos los municipios españoles de más de 50.000 habitantes tienen su
-            propia Zona de Bajas Emisiones, y cada una aplica sus restricciones según la
-            etiqueta DGT: las Cero entran en todas, las ECO casi siempre, y las C y B
-            dependen del escenario anticontaminación y de la zona.
-          </p>
         </section>
 
         <section id="precio" className="rtm-card mt-8 scroll-mt-32 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6">
@@ -1162,13 +1152,6 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id={(coche.opiniones?.length ?? 0) > 0 ? undefined : "opiniones"} className="scroll-mt-32">

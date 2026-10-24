@@ -392,20 +392,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             datos={datosClave}
           />
           <p className="mt-3 text-sm text-gray-600">
-            {esElectrica ? (
-              <>
-                Ficha técnica completa: precio, potencia, <Marker>autonomía</Marker>, batería,{" "}
-              </>
-            ) : (
-              conCilindrada ? (
-                <>Ficha técnica completa: precio, potencia, <Marker>cilindrada</Marker>,{" "}</>
-              ) : (
-                <>Ficha técnica completa: precio, potencia,{" "}</>
-              )
-            )}
-            <Marker>carnet necesario</Marker> y <Marker>etiqueta DGT</Marker>, con puntos
-            fuertes y débiles. Si un dato no está publicado por una
-            fuente fiable, no lo mostramos en vez de inventarlo. Fuente:{" "}
+            Fuente:{" "}
             {moto.fuenteUrl ? (
               <a
                 href={moto.fuenteUrl}
@@ -579,7 +566,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             </tbody>
           </table>
           <p className="mt-3 text-xs text-gray-500">
-            <strong>≈</strong> / «dato no oficial · en revisión» = cifra aproximada (estimación cuando no hay dato oficial publicado; se actualizará con el dato oficial).
+            <strong>≈</strong> estimación
           </p>
         </section>
 
@@ -800,13 +787,6 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             ))}
           </div>
         </section>
-
-        <p className="mt-8 text-sm text-gray-600">
-          🏆 ¿Qué modelos gustan más a los lectores?{" "}
-          <Link to="/favoritos-del-mes/" className="font-semibold text-red-600 hover:underline">
-            Mira los favoritos del mes
-          </Link>
-        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">

@@ -222,8 +222,7 @@ export function NotaCosa({
           </div>
           <p className="mt-1.5 text-sm text-gray-600">{resultado.justificacion}</p>
           <p className="mt-1 text-xs text-gray-500">
-            Cosa es el asistente de RecurreTuMulta.online. Esta nota no es una prueba ni una opinión: se calcula
-            automáticamente con los datos de la ficha (<a href="/metodologia/" className="underline">método</a>).
+            Nota automática (<a href="/metodologia/" className="underline">método</a>)
           </p>
           <button
             type="button"

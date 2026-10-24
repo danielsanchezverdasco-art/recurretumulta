@@ -56,10 +56,10 @@ function Seguimiento({ fecha }: { fecha: string }) {
       className="mt-1 flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-xs text-gray-600"
     >
       <span className="hp-pulso" aria-hidden="true" />
-      <span className="font-semibold text-green-800">Seguimiento de precio activo</span>
+      <span className="font-semibold text-green-800">Seguimiento</span>
       <span aria-hidden="true">·</span>
       <span>
-        Última comprobación: <time dateTime={fecha}>{txt}</time>
+        <time dateTime={fecha}>{txt}</time>
       </span>
     </p>
   );
@@ -235,7 +235,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
       </div>
       <Seguimiento fecha={ultimo.f} />
       <p className="mt-1 text-sm text-gray-800">
-        Precio actual: <strong>{precioTxt}</strong> ({aprox ? "dato aproximado, registrado" : "registrado"}{" "}
+        <strong>{precioTxt}</strong> ({aprox ? "≈ " : ""}
         <time dateTime={ultimo.f}>{fmtFecha(ultimo.f)}</time>)
       </p>
 
@@ -367,8 +367,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
 
       {unico ? (
         <p className="mt-2 text-xs text-gray-500">
-          Todavía no hemos registrado cambios de precio del {nombre}. Cada subida o bajada que detecte nuestro radar
-          aparecerá aquí con su fecha y su fuente, y el gráfico se irá completando.
+          Sin cambios registrados.
         </p>
       ) : null}
       <div className="mt-3 overflow-x-auto">
@@ -414,8 +413,7 @@ export default function HistorialPrecios({ slug, nombre }: { slug: string; nombr
         </table>
       </div>
       <p className="mt-2 text-xs text-gray-500">
-        Precio de partida{moneda !== "EUR" ? ` (${moneda})` : ""}. Solo registramos cambios con fecha y fuente; nunca
-        estimamos precios pasados.
+        Precio de partida{moneda !== "EUR" ? ` (${moneda})` : ""}.
       </p>
     </div>
   );

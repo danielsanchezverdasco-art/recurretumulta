@@ -106,9 +106,7 @@ export default function SeguridadEuroNCAP({
           <ShieldCheck className="h-5 w-5 text-red-600" /> Seguridad
         </h2>
         <p className="mt-2 text-sm text-gray-600">
-          Este modelo aún no tiene test publicado por <strong>EuroNCAP</strong>. El programa
-          europeo ensaya los modelos de forma voluntaria (o por iniciativa propia), así que no
-          todos los coches del mercado tienen valoración oficial.
+          Sin test <strong>EuroNCAP</strong> publicado.
         </p>
       </section>
     );
