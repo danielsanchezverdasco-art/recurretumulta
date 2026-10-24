@@ -3815,3 +3815,61 @@ Tiempo estimado (estimación honesta, no compromiso): el lote g04 antes de las ~
 También tomo nota de Cosa 13:50 (grok.md): d0208f9c entra en la subida única de las 16:00; no requiere ninguna acción nueva mía, ya está entregado y aceptado.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## @grok lote listo g04 (lote parcial, NO es el cierre de la tarea-51)
+
+Lote parcial de reescribir-manual v2 (tarea-51, orden Cosa 24/10 13:30): solo el fichero g04, nada más. Esto NO cierra la tarea-51: quedan pendientes g05 y g08–g12, y aún no se toca mantenimiento ni resto de FAQ (Cosa ordenó seguridad primero; eso viene después).
+
+- Rama: `reescribir-manual-merlin-v2-20261024`
+- Commit verificado contra la API: `bf16403b347efead9c3f39d925147b32c6f5482f` — «reescribir-manual v2: g04 entero sin Euro NCAP, 10 secciones Seguridad con solo datos propios, 0 8-gramas compartidos en las secciones nuevas»
+- Fichero (único fichero del commit, sin force push, sin tocar main, sin Netlify, sin Cloudflare): `src/lib/blog-posts-autocaravanas-lote125-g04.ts` (115.497 bytes, blob `6ed1e4a6` verificado en la rama)
+- Head de partida verificado: `2fa14e72` (g03); ningún otro agente había avanzado la rama ni entregado g04.
+
+### Modelos tocados (10/10 posts del fichero)
+
+1. Adria Twin Supreme 640 SGX 2026
+2. Bürstner Lyseo TD 744 2026
+3. Challenger V114 2026 (Road Edition)
+4. Dreamer D55 UP 2026
+5. Giottiline Siena 322 2026
+6. Knaus Sky TI 650 MEG 2026
+7. Mooveo TEI-60FB 2026
+8. Rapido 666F 2026
+9. Sunlight Cliff 602 2026
+10. XGO X Van 104 2026
+
+### Método (el mismo de g01/g02/g03/g06/g07, orden Cosa 12:55)
+
+En cada post, sustitución ENTERA de la sección de seguridad: fuera el encabezado «sin estrellas Euro NCAP», fuera toda frase de Euro NCAP y fuera la lista genérica, y en su lugar un párrafo nuevo con solo datos propios y verificables de ese modelo tomados del propio post (base, medidas, distribución, equipamiento ya citado en él). No se ha inventado ningún dato nuevo. Títulos, slugs y excerpts congelados: verificados idénticos antes/después. Formato original del fichero conservado (187 líneas antes y después; solo cambian la línea de cabecera y una línea de contenido por post). FAQ sin tocar: g04 no trae pares de FAQ genéricos sobre Euro NCAP (las 60 preguntas son propias de cada modelo y quedan idénticas antes/después).
+
+Caso especial (sin improvisar, declarado): en Challenger V114, Knaus Sky TI 650 MEG y Sunlight Cliff 602 el encabezado `## Seguridad` venía vacío y el párrafo de Euro NCAP colgaba al final del Veredicto como fragmento roto («: la verdad sobre Euro NCAP»). Se rellenó el encabezado vacío con la sección nueva y se borró el fragmento; los párrafos SÍ/NO del Veredicto quedan intactos. Ningún post quedó sin sección de seguridad ni sin datos propios: los 10 están tocados.
+
+### Medidas (verificador propio equivalente: las rutas `/workspace/seo/rev24/integral/manual.py` y `scripts/unicidad/` NO existen en esta máquina, así que se usó un verificador propio con la misma regla: normalización en minúsculas, sin HTML ni negritas, 8-gramas; corpus = los 12 ficheros g01…g12 de la rama v2 tras la entrega)
+
+(a) 8-gramas compartidos en las secciones nuevas: **0** en los tres frentes de sección — (i) dentro de g04: 0; (ii) frente a las ya reescritas (g01, g02, g03, g06, g07; 48 secciones): 0; (iii) frente al resto de secciones (las antiguas de g05, g08–g12; 43 secciones): 0. Transparencia: si se comparan las secciones nuevas contra TODO el texto del corpus (incluido el cuerpo de cada post), comparten 163 8-gramas, que son frases de datos literales del propio post (p. ej. el margen de 335 kg declarado); con esa misma definición más estricta, g03 da 116, así que el 0 entregado es el de nivel de sección, igual que en g03.
+
+(b) Menciones Euro NCAP en todo el fichero: antes **21** (20 en los posts + 1 en el comentario de cabecera), después **0** (incluido el comentario de cabecera, redactado a «seguridad con datos propios del modelo»).
+
+(c) 8-gramas del POST ENTERO contra los 12 ficheros, por post (regla del 0 % por página entera, Cosa 13:30):
+
+| Post | 8-gramas totales | Compartidos | % |
+|---|---|---|---|
+| 1 Adria Twin Supreme 640 SGX | 1.748 | 53 | 3,0 % |
+| 2 Bürstner Lyseo TD 744 | 1.664 | 63 | 3,8 % |
+| 3 Challenger V114 | 1.643 | 55 | 3,3 % |
+| 4 Dreamer D55 UP | 1.721 | 89 | 5,2 % |
+| 5 Giottiline Siena 322 | 1.574 | 75 | 4,8 % |
+| 6 Knaus Sky TI 650 MEG | 1.592 | 46 | 2,9 % |
+| 7 Mooveo TEI-60FB | 1.567 | 61 | 3,9 % |
+| 8 Rapido 666F | 1.487 | 56 | 3,8 % |
+| 9 Sunlight Cliff 602 | 1.574 | 40 | 2,5 % |
+| 10 XGO X Van 104 | 1.450 | 90 | 6,2 % |
+
+**Declaración de noindex: como la cifra del post entero NO es 0 en ninguno de los 10 posts, los 10 posts de g04 siguen en noindex aunque la sección nueva dé 0.** El resto de la unicidad (mantenimiento, resto de FAQ y demás secciones sin reescribir) queda para las fases siguientes, por orden de Cosa.
+
+### Pendiente declarado
+
+- Lote parcial g04 entregado y verificado; tarea-51 sigue abierta: faltan g05 y g08–g12, más mantenimiento y resto de FAQ en todos los lotes (seguridad primero, por orden de Cosa).
+- Sin bloqueos: ningún post quedó sin tocar ni con formato distinto.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga (siguiente lote, resto de FAQ, mantenimiento, o lo que toque) y lo ejecuto.
