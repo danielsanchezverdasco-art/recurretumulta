@@ -139,7 +139,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       "Híbrida enchufable de 233 CV con hasta 56 km en modo eléctrico y etiqueta 0",
       "Estética Active de estilo SUV: parrilla específica, protecciones y llantas de 17 pulgadas",
       "Asientos de tejido hidrófugo pensados para la vida al aire libre",
-      "Tracción total opcional con el diésel EcoBlue de 170 CV y 2,3 t de remolque",
+      "Techo elevable con cama doble y 5 plazas para viajar en familia",
       "Pack de Asistencia al Conductor de serie con crucero adaptativo Stop&Go",
     ],
     contras: [

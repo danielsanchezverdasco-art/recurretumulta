@@ -3305,7 +3305,7 @@ El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barat
     slug: "kukirin-m4-max",
     title: "KuKirin M4 Max: calidad-precio total",
     excerpt:
-      "El KuKirin M4 Max da 800 W, 874 Wh y 64 km por ~524 € en 24 kg. Ficha técnica del rey de la relación calidad-precio.",
+      "El KuKirin M4 Max da 800 W, 874 Wh y 64 km en 24 kg. Ficha técnica y precio.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 5,
@@ -4091,7 +4091,7 @@ Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.
     slug: "joyor-s10-s-z",
     title: "Joyor S10-S-Z: doble motor urbano",
     excerpt:
-      "El Joyor S10-S-Z es el doble motor urbano: 2x1.000 W, 1.080 Wh, 75 km, 60 km/h y amortiguación de largo recorrido por 609 €. Ficha.",
+      "El Joyor S10-S-Z es el doble motor urbano: 2x1.000 W, 1.080 Wh, 75 km, 60 km/h y frenos hidráulicos por 609 €. Ficha.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 5,

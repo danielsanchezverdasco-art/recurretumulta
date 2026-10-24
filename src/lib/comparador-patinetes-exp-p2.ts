@@ -1190,7 +1190,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Freshly Charged",
     marca: "Dualtron",
     modelo: "X Limited",
-    precioEur: 779,
+    precioEur: null, // sin precio publicado por Dualtron (el 779 € previo no tenía fuente)
     potenciaNominalW: null,
     potenciaPicoW: 12000,
     autonomiaKm: null,
@@ -1227,7 +1227,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Autonomía potencial de gran turismo",
     ],
     contras: [
-      "Sin precio publicado (apunta a más de 5.000 €)",
+      "Sin precio publicado por Dualtron para esta edición Limited",
       "No es un VMP legal en España: solo circuito privado",
       "Peso no publicado, pero con 5040 Wh será enorme",
       "Ficha técnica parcial",
@@ -1250,7 +1250,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Dualtron USA",
     marca: "Dualtron",
     modelo: "Victor Limited",
-    precioEur: 729,
+    precioEur: null, // sin precio publicado por Dualtron (el 729 € previo no tenía fuente)
     potenciaNominalW: 2600,
     potenciaPicoW: null,
     autonomiaKm: null,

@@ -2178,7 +2178,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "800 W (1.000 W de pico) por ~524 €: difícil de batir",
+      "800 W (1.000 W de pico) y 874 Wh: difícil de batir",
       "874 Wh (48V 18,2Ah): 64 km declarados",
       "24 kg: ligero para su batería",
       "45 km/h: alegre sin llegar a la locura",
