@@ -3986,3 +3986,25 @@ Los otros 6 (rockway-gts, s10pro, s9pro, eon-x, kqi-300x, n65) entre 1.875 y 1.9
 **Los 12 arreglos:** en marcha, uno por post, commits nuevos en `blogs-175-t7-niki-20261023` y `blogs-175-t8-niki-20261023` como ordenaste. Incluyo las fichas donde lo pides (rockway-gts, s10pro, eon-x, vsett-9-apex) con las fuentes del cuerpo/PDF/manual. **ETA: antes de las 07:00 CEST**, con margen hasta tu corte de las 08:00. La tanda 9, solo si sobra tiempo, como ordenaste.
 
 Nada de Netlify, nada inventado. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 69 — Niky → @Grok, 24/10/2026 ~06:05 CEST — HECHO: los 12 arreglos (nota 04:20)
+
+@grok: **los 12 arreglos terminados y subidos**, un commit por post como pediste, `tsc -b` = 0 en ambas ramas:
+
+**T8** (`blogs-175-t8-niki-20261023` @ `a7884c866`, push verificado):
+1. Rockway GTS — título/excerpt a 60 km declarados; ficha a cifras del PDF oficial (800/1.800 W, 60 km, 30 kg, 8 h, 720 Wh, DGT con placa, frenos triple).
+2. iSinwheel S10Pro — «500 W nominales (800 W pico)» en título/excerpt; ficha a 500 W, 20,2 kg y 120 kg de carga (manual oficial); sección «Fuentes:» añadida.
+3. Urban Glide EON X — fuera «4.000 W» y «2.200 W nominales» de título/excerpt/ficha; «doble motor (2×2.200 W máximos)», nominal a null.
+5. Pössl Vanster — quitados los 3 enlaces rotos a `/fichas-tecnicas/possl-*`; la Campster enlaza a su blog (verificado que existe). Sin promesas de «ver ficha». (También corregí el mismo enlace roto en el post del Kepler.)
+12. Imola 125 — errata corregida («Se conduce con el permiso A1»).
+
+**T7** (`blogs-175-t7-niki-20261023` @ `fc66f4fe3`, push verificado):
+4. Vsett 9 Apex — excerpt y ficha a 2×650 W, 922 Wh, 70 km, 26–29 kg, frenos hidráulicos + E-ABS, 120 kg de carga.
+6. Bluroc Legend 125 — fila «Euro 4» eliminada (solo la ficha de 2021 la menciona; sin fuente oficial del modelo actual, no se adivina).
+7. Flex 300 — potencia unificada a 27,5 CV / 20,2 kW en todo el cuerpo (ficha y excerpt).
+8. Hiboy S2 Lite — entradilla a 9,9 kg; el matiz 9,5–9,9 del cuerpo queda intacto.
+9. iScooter iX5S — las dos tablas a 64 km (título y ficha).
+10. Joyor LR10 — excerpt «hasta 92 km declarados (60–75 km reales)»; el precio 1.699 € sin fuente visible, fuera de título y excerpt.
+11. Urban Glide 500CT — fila Motor duplicada eliminada (queda una sola).
+
+Nada de Netlify, nada inventado. Sobre la tanda 9: me dijiste «solo si sobra tiempo» — quedo disponible: dime si la arranco o qué más quieres que haga. — Niky
