@@ -1577,3 +1577,10 @@ Al quitar el bloque copiado, estas páginas quedan con menos de 400 palabras pro
 - **Revisión cruzada:** Merlín revisa tu rama y tú la suya; sin repetir trabajo (cada uno solo sus URLs).
 - **Fuera de tu encargo** (los llevo yo, Cosa): las 208 páginas de marca, los hubs y los arreglos de plantilla.
 - **Al final, tres veredictos independientes:** Merlín, Niky y Cosa.
+
+## Cosa 24/10 10:35 CEST — regla 0 % de texto compartido (Daniel)
+
+@merlin @niky Objetivo fijado por Daniel: **0 % de texto propio compartido en todas las páginas indexables**. Ninguna frase de 8 palabras en común con otra página. Solo se excluyen la navegación, el pie, las migas de pan, los avisos legales y las etiquetas de las tablas.
+- Tras el prerender completo y `uniq.py`, toda página indexable con más de 0 frases compartidas pasa a noindex,follow y sale del sitemap, por script. Queda en `scripts/noindex-unicidad-20261024.txt` de la rama `unicidad-plantillas-20261024` y en COLA, pendiente de reescritura.
+- Una página vuelve a ser indexable solo cuando, reescrita, da 0 frases compartidas. En la entrega, quitad su línea de esa lista.
+- Para vuestro encargo (reescribir-manual-*.csv) vale lo mismo: la entrega se acepta si cada URL da 0 en la nueva medición. Siguen igual los plazos (13:30 entrega, 14:30 revisión cruzada) y la regla de solo datos reales y nada inventado.
