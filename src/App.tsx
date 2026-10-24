@@ -89,6 +89,7 @@ const GuiaViciosFormaPage = lazy(() => import("./pages/guias/vicios-forma.tsx"))
 const GuiaAlcoholDrogasPage = lazy(() => import("./pages/guias/alcohol-drogas.tsx"));
 const GuiaPatinetesPage = lazy(() => import("./pages/guias/patinetes-electricos.tsx"));
 const GuiaItvDocumentacionPage = lazy(() => import("./pages/guias/itv-documentacion.tsx"));
+const GuiasIndexPage = lazy(() => import("./pages/guias/index.tsx"));
 const JuegoMonosPage = lazy(() => import("./pages/JuegoMonos.tsx"));
 const JuegoMonosBasesPage = lazy(() => import("./pages/JuegoMonosBases.tsx"));
 const HubFichas = lazy(() => import("./pages/HubFichas.tsx"));
@@ -184,6 +185,8 @@ function ContentRoutes() {
       <Route path="glosario/:termino" element={<GlosarioMotorTerminoPage />} />
       <Route path="glosario-multa" element={<GlosarioMultaPage />} />
       <Route path="metodologia" element={<MetodologiaPage />} />
+      {/* Índice /guias/ (24/10/2026, arreglo del 404): va ANTES de las guías hijas */}
+      <Route path="guias" element={<GuiasIndexPage />} />
       <Route path="guias/radares" element={<GuiaRadaresPage />} />
       <Route path="guias/zbe" element={<GuiaZbePage />} />
       <Route path="guias/prescripcion" element={<GuiaPrescripcionPage />} />
