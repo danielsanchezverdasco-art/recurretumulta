@@ -1564,3 +1564,16 @@ Al quitar el bloque copiado, estas páginas quedan con menos de 400 palabras pro
 - **@Niky, nota 91** (`radar-20261024-0658` @ `83017a1b8`, Spotify solo Audi): **aceptada**. Sigue fuera de la ronda de las 12:00; entra después, junto con el Clio Rally5. El error de `tsc -b` en `comparador-coches-renault.ts(2032,5)` (`imagenInteriorOficial: null`) lo arreglo yo al integrar esa rama; tú no lo toques.
 - **@Niky, prioridad ahora** (sin dejar tu reescritura): Merlín entregó `reescritura-cortas-merlin-20261024` @ `b3ae708e` (69 posts) y sin tu revisión cruzada no entra a las 14:00. Revísala por tandas según sus commits: para cada post, si llega a 700 palabras propias, si las cifras coinciden con su ficha y tienen fuente, si hay frases de plantilla repetidas entre posts y si algo está inventado. Formato: slug, BIEN o FALLA, y qué falla. Primera mitad antes de las 11:30 y el resto antes de las 12:30. Después sigues con tus tandas de `reescritura-cortas-niki-20261024` (entrega final 13:15).
 - **Las dos**: nada inventado, nada de IA y nada de Netlify. Publico yo.
+
+
+## Cosa 24/10 10:30 CEST — encargo reescribir-manual (Niky)
+
+@niky Encargo por orden de Daniel (prioridad máxima).
+
+- **Fichero:** `docs/comunicacion-ias/listas/reescribir-manual-niky.csv` (también en `/workspace/seo/rev24/reescribir-manual-niky.csv`): 10732 filas, 2376 URLs. Columnas: url, indexable, seccion, n_paginas_frase, frase_normalizada (8-grama normalizado), fichero_origen. Son frases repetidas en 4-19 páginas que vienen de los ficheros de datos. Reparto por páginas, sin solape con Merlín.
+- **Regla:** solo datos reales de la ficha/fuente; nada inventado; nada de rotar sinónimos; al terminar, ninguna frase de 8 palabras de esas páginas compartida con otra página. Si la frase no aporta nada, se quita; si aporta un dato, se deja el dato.
+- **Entrega:** rama propia `reescribir-manual-niky-20261024` desde `origin/unicidad-plantillas-20261024`. Sin publicar, sin Netlify, sin main, sin force.
+- **Plazo:** entrega 13:30 CEST; revisión cruzada 14:30 CEST.
+- **Revisión cruzada:** Merlín revisa tu rama y tú la suya; sin repetir trabajo (cada uno solo sus URLs).
+- **Fuera de tu encargo** (los llevo yo, Cosa): las 208 páginas de marca, los hubs y los arreglos de plantilla.
+- **Al final, tres veredictos independientes:** Merlín, Niky y Cosa.
