@@ -282,7 +282,7 @@
  "patinetes/smartgyro": {
   "nombre": "SmartGyro",
   "title": "SmartGyro: 31 patinetes eléctricos y sus fichas",
-  "description": "Las 31 fichas de patinetes eléctricos SmartGyro: K2 Pro, Raptor Evo y Speedway Pro, con datos y versiones para comparar la gama.",
+  "description": "Las 31 fichas de patinetes eléctricos SmartGyro: K2 Pro, Raptor Evo y Speedway Pro, con datos y versiones SmartGyro para comparar la gama.",
   "intro": "SmartGyro es una de las marcas más conocidas en España dentro de los patinetes eléctricos, y sus 31 fichas ayudan a distinguir entre modelos que, a primera vista, pueden parecer parecidos. El K2 Pro y el Speedway Pro son buenas referencias para el usuario urbano que quiere un patinete fiable para desplazamientos diarios, con un equilibrio entre comodidad y facilidad de uso. La familia Crossover, con el Crossover Dual Pro, se dirige a quienes buscan más estabilidad y una conducción más asentada en trayectos mixtos. El Raptor Evo y el Rockway Pro Evo, por su parte, apuntan a un público más exigente, que valora una estructura robusta y un comportamiento serio fuera del simple trayecto corto. Antes de decidir, merece la pena valorar la distancia diaria, el terreno habitual y la frecuencia de uso. Los modelos enlazados abren su ficha técnica completa, donde se recogen versiones y datos de forma ordenada.",
   "n": 31,
   "url": "/patinetes/marca/smartgyro/"
@@ -798,5 +798,405 @@
   "intro": "NIU concentra toda su gama de patinetes en la familia KQi, y los números indican el escalón dentro de ella. Los KQi 100F y 100P son la entrada ligera, y los KQi 200F y 200P suben en autonomía. Los KQi 300P y 300X son la zona media-alta, con el 300X como opción de mayor alcance. La serie KQi1, con el Sport y el Pro, y la KQi2 Pro cubren el uso diario con buen equilibrio entre peso y autonomía. La KQi3, en Sport, Pro y Max, es la gama alta urbana, y los KQi Air y Air X son los más ligeros y plegables de la marca. Elegir un KQi es elegir entre peso, autonomía y precio, en ese orden. 100F, 200P, 300X: los números de la familia KQi ordenan peso y autonomía de menor a mayor. El Air y el Air X rompen esa escala por ligereza, no por potencia.",
   "n": 14,
   "url": "/patinetes/marca/niu/"
+ },
+ "coches/kgm": {
+  "nombre": "KGM",
+  "title": "KGM coches: 13 fichas, de Torres a Rexton",
+  "description": "13 fichas técnicas de coches KGM: Torres EVX y HEV, Korando e-Motion, Actyon, Tivoli y Rexton, con datos y versiones para comparar.",
+  "intro": "La gama de KGM se entiende mejor si se recorre por familias, porque cada nombre cubre un uso distinto dentro del mismo catálogo. El Torres abre el recorrido con tres lecturas complementarias: el Torres EVX eléctrico, el Torres HEV híbrido y el Torres G15T de gasolina, de modo que un mismo SUV admite tres formas de moverse. El Korando sigue esa lógica con el Korando e-Motion eléctrico y el Korando de gasolina, mientras el Actyon aparece tanto en versión de gasolina como híbrida para quien busca un SUV coupé sin salir de la marca. Para el trabajo y el ocio al aire libre están el Rexton y el Rexton Sports, con el Musso y el Musso EVX como pick-ups de planteamiento más directo. El Tivoli y el Tivoli Grand cierran la oferta por abajo, como SUV compactos para el día a día. Cada ficha de esta colección detalla versiones, potencias y equipamiento, así que comparar un Torres con un Korando o un Musso con un Rexton se hace con cifras concretas y sin mezclar gamas.",
+  "n": 13,
+  "url": "/coches/marca/kgm/"
+ },
+ "coches/omoda": {
+  "nombre": "Omoda",
+  "title": "Omoda: 13 fichas, del 5 al 9 SHS",
+  "description": "13 fichas técnicas de coches Omoda: 5, 4, C7, 7 SHS, 9 SHS y S5, con datos, versiones híbridas y eléctricas para comparar antes de elegir.",
+  "intro": "Omoda ordena su oferta con números, y esos números marcan el tamaño y la ambición de cada modelo. El 5 es la puerta de entrada, disponible como 5 de gasolina, 5 EV eléctrico y 5 SHS híbrido, además de la variante 5 SHS-H, lo que permite comparar tres energías sin cambiar de modelo. El 4 sigue el mismo esquema con el 4, el 4 EV y el 4 SHS, mientras el C7 y el 7 SHS suben un escalón en tamaño y presencia. El 9 SHS ocupa la parte alta de la gama como SUV grande híbrido, y el S5 aporta una silueta de berlina dentro de una oferta dominada por los SUV. El X, presentado como modelo aparte, anticipa por dónde puede crecer la marca en los próximos años. Abrir las fichas en orden, del 5 al 9 SHS, deja ver con claridad qué cambia al subir de número: dimensiones, potencia y equipamiento, sin sorpresas entre versiones de nombre parecido.",
+  "n": 13,
+  "url": "/coches/marca/omoda/"
+ },
+ "coches/zeekr": {
+  "nombre": "Zeekr",
+  "title": "Zeekr: 13 fichas eléctricas, del 001 al 9X",
+  "description": "13 fichas técnicas de coches Zeekr: 001, 007, 7X, 009, Mix y X, todas eléctricas, con datos y versiones Zeekr para comparar la gama completa.",
+  "intro": "Zeekr construye toda su gama sobre la propulsión eléctrica, así que la diferencia entre sus modelos no está en el combustible sino en el formato y el carácter. El 001 es la berlina de referencia, con la variante 001 FR como interpretación más radical del mismo modelo, y el 007 y el 007 GT añaden una berlina y un familiar de planteamiento más viajero. El 7X y el 7 GT trasladan esa idea al mundo SUV, mientras el 009 y el 009 Grand apuestan por el monovolumen grande y lujoso. El Mix juega con un formato distinto, más compacto y urbano, y el X cierra la gama por abajo como SUV pequeño. El 8X y el 9X completan el catálogo por arriba, con cifras de potencia que los sitúan entre los modelos más potentes de la marca. Recorrer las fichas de esta página permite distinguir cada Zeekr por su silueta y su uso, sin confundir números que se parecen.",
+  "n": 13,
+  "url": "/coches/marca/zeekr/"
+ },
+ "motos/moto-guzzi": {
+  "nombre": "Moto Guzzi",
+  "title": "Moto Guzzi: 13 fichas, V7, V85 y Stelvio",
+  "description": "13 fichas técnicas de motos Moto Guzzi: V7 Stone y Sport, V85 TT, V100 Mandello, Stelvio y V9 Bobber, con datos y versiones para elegir.",
+  "intro": "Moto Guzzi mantiene una gama corta donde cada familia tiene una personalidad muy marcada, y eso facilita elegir sin perderse entre variantes. La familia V7 es la más amplia: la V7 de 2024, la V7 Stone de 2025 y 2026, la V7 Special y la V7 Sport forman un conjunto de motos clásicas para rodar a diario y escaparse en rutas cortas. La V85 aporta el espíritu viajero y aventurero con la V85 TT, la V85 Strada y la V85 TT Travel, tres formas de entender la misma base según el equipamiento y la orientación rutera. La V100 Mandello y la V100 Mandello S suben el listón hacia una moto más moderna y potente, mientras la Stelvio representa la gran trail de la marca para viajes largos. La V9 Bobber cierra la gama con un estilo custom muy personal. Comparar estas fichas ayuda a decidir entre clásica, trail o custom sin salir de Mandello.",
+  "n": 13,
+  "url": "/motos/marca/moto-guzzi/"
+ },
+ "motos/super-soco": {
+  "nombre": "Super Soco",
+  "title": "Super Soco: 13 fichas eléctricas urbanas",
+  "description": "13 fichas técnicas de motos eléctricas Super Soco: CPx, CUx, TC Max, TSx y TC Wanderer, con datos y versiones para moverte por ciudad.",
+  "intro": "El catálogo de Super Soco gira en torno a la moto eléctrica para ciudad, organizado alrededor de dos ideas: scooters prácticos y motos de estilo clásico con motor eléctrico. La familia CUx, con la CUx, la CUx Pro y la CU Mini, cubre el uso diario más sencillo, pensada para trayectos cortos y aparcamiento fácil. La CPx y la CPx Pro suben un escalón en tamaño y capacidad, manteniendo el enfoque de scooter para la ciudad. En el lado más motero están la TC Max, la TC125 y la TC50, además de la TC Wanderer, que comparten estética de moto clásica con propulsión eléctrica. La TSx 50, la TS Hunter y la TSX125 completan una oferta donde conviven ciclomotores y motos de 125. La F01 añade una propuesta distinta dentro del mismo planteamiento urbano. Revisar las fichas en orden permite separar qué modelo encaja con cada carnet y cada trayecto habitual.",
+  "n": 13,
+  "url": "/motos/marca/super-soco/"
+ },
+ "motos/zero": {
+  "nombre": "Zero Motorcycles",
+  "title": "Zero Motorcycles: 13 fichas eléctricas",
+  "description": "13 fichas técnicas de motos eléctricas Zero: SR/F, SR/S, SR, DSR, FX, S y DS, con datos y versiones Zero Motorcycles para comparar la gama eléctrica.",
+  "intro": "Zero Motorcycles apuesta solo por la electricidad, así que elegir una Zero es elegir entre formatos, no entre combustibles. La SR/F y la SR/S forman la pareja de referencia entre las naked y las deportivas de carenado, con la SR como opción más accesible dentro de la misma familia. La DSR y la DSR/X llevan ese planteamiento al terreno trail, para quien quiere una eléctrica capaz de salir del asfalto. La S y la DS cubren los escalones de entrada de cada familia, mientras la FX y la FXE apuestan por motos ligeras y ágiles para ciudad y pistas sencillas. La LS1 y la XB y la XE completan la gama con propuestas más específicas y compactas. Al comparar las fichas se aprecia que la diferencia principal está en la potencia, la autonomía y el peso, tres datos que conviene mirar juntos antes de decidir entre una naked, una trail o una moto ligera.",
+  "n": 13,
+  "url": "/motos/marca/zero/"
+ },
+ "patinetes/hiley": {
+  "nombre": "Hiley",
+  "title": "Hiley: 13 patinetes, familia Tiger al completo",
+  "description": "13 fichas de patinetes eléctricos Hiley: Tiger 10 GTR, Tiger 10 V5, Tiger EVO y Maxspeed X9, con autonomía y datos para comparar.",
+  "intro": "Hiley gira alrededor de la familia Tiger, y dentro de ella cada apellido marca un salto claro en prestaciones. El Tiger 10 GTR y el Tiger 10 V5 son las referencias de 10 pulgadas, con el V5 Performance como variante más equipada del mismo modelo. El Tiger 8 GT-R V4 baja el tamaño de rueda y se mueve en un registro más compacto, mientras el Tiger EVO GT y el Tiger EVO GTR forman una pareja de enfoque deportivo dentro de la gama EVO. El Tiger Supra Pro ocupa la parte alta con la mayor autonomía anunciada de los modelos recogidos aquí. El Maxspeed X9 queda como una opción distinta, más sencilla y urbana, frente al carácter prestacional de los Tiger. Mirar las fichas con la autonomía al lado del peso y la potencia ayuda a entender que un Tiger no es un patinete urbano cualquiera: es una máquina de altas prestaciones que exige valorar bien el uso real antes de elegir.",
+  "n": 13,
+  "url": "/patinetes/marca/hiley/"
+ },
+ "patinetes/vsett": {
+  "nombre": "Vsett",
+  "title": "Vsett: 13 patinetes, del 8 al 11+ Super",
+  "description": "13 fichas de patinetes eléctricos Vsett: 8, 9+ Lite, 9+R, 10+, 11+ Super y 11+ Super 72V, con autonomía y datos para comparar.",
+  "intro": "Vsett numera sus patinetes de forma que el número ya adelanta el escalón: a mayor número, mayor tamaño y mayores prestaciones. El 8 es la entrada a la marca, un modelo urbano para desplazamientos habituales sin complicaciones. El 9+ Lite y el 9+R forman la zona media, con el segundo como variante más potente dentro de la familia 9. El 10+ sube el listón en autonomía y velocidad, y el 11+ Super y el 11+ Super 72V ocupan la parte alta con la mayor capacidad de batería de la gama. Entre un 8 y un 11+ Super media un salto completo: más peso, frenos más serios y un trayecto tipo distinto, porque el segundo ya pertenece a la categoría de patinetes de altas prestaciones. Recorrer las fichas de menor a mayor número permite ver esa escalera completa y decidir en qué peldaño se queda cada usuario según su recorrido diario.",
+  "n": 13,
+  "url": "/patinetes/marca/vsett/"
+ },
+ "coches/exeed": {
+  "nombre": "Exeed",
+  "title": "Exeed: 12 fichas, LX, RX, VX y Sterra",
+  "description": "12 fichas técnicas de coches Exeed: LX, RX, TXL, VX y Sterra ES y ET, con datos y versiones híbridas y eléctricas para comparar.",
+  "intro": "Exeed combina dos líneas de producto que conviene no mezclar: la gama de combustión e híbrida y la familia Sterra eléctrica. En la primera están el LX y el LX C-DM, el RX y el RX C-DM, el TXL y el VX con su variante VX C-DM, un conjunto de SUV que cubre del compacto al grande con versiones híbridas enchufables en varios modelos. La familia Sterra, con el Sterra ES y el Sterra ES REEV y el Sterra ET y el Sterra ET REEV, apuesta por la electricidad con variantes de autonomía extendida que cambian la forma de plantear los viajes largos. El ET5 completa la oferta como modelo independiente dentro del catálogo. Al abrir las fichas conviene fijarse en las siglas: C-DM y REEV indican sistemas de propulsión distintos, y esa diferencia se nota más circulando a diario que en la talla o la dotación de cada versión. El Sterra ET, con su variante REEV, es un buen punto de partida para entender cómo plantea Exeed los viajes largos en eléctrico.",
+  "n": 12,
+  "url": "/coches/marca/exeed/"
+ },
+ "coches/ligier": {
+  "nombre": "Ligier",
+  "title": "Ligier: 12 fichas de cuadriciclos Myli y JS50",
+  "description": "12 fichas técnicas de coches Ligier: JS50 y Myli en versiones eléctricas, diésel y L7e, con datos para comparar los cuadriciclos de la marca.",
+  "intro": "Ligier se mueve en un segmento propio, el de los cuadriciclos, donde el carnet y el uso urbano mandan más que la potencia. La familia JS50 articula la oferta con el JS50 Select, el JS50 Select Confort, el JS50 Elite y el JS50 Ultimate, además del JS50 Eléctrico, una escalera de acabados dentro del mismo modelo. La familia Myli amplía el planteamiento con el Myli, el Myli Diésel, el Myli L7e y el Myli MAX en sus variantes Confort y L7e, además del Myli LAB como propuesta diferenciada. La convivencia de versiones eléctricas, diésel y L7e dentro de una misma gama obliga a mirar cada ficha con atención: no todos los Myli ni todos los JS50 se conducen con el mismo permiso ni sirven para el mismo recorrido. Comparar las fichas por familia y por energía deja claro qué cuadriciclo encaja con cada necesidad urbana. El Myli LAB, por su planteamiento diferenciado, muestra que Ligier también explora usos distintos al cuadriciclo urbano tradicional.",
+  "n": 12,
+  "url": "/coches/marca/ligier/"
+ },
+ "coches/lotus": {
+  "nombre": "Lotus",
+  "title": "Lotus: 12 fichas, Eletre, Emeya y Emira",
+  "description": "12 fichas técnicas de coches Lotus: Eletre, Emeya, Emira y Evija, con datos y versiones Lotus para comparar la gama eléctrica y deportiva.",
+  "intro": "Lotus vive un momento de cambio en el que conviven su herencia deportiva y una gama eléctrica nueva, y esta colección recoge ambas caras. El Eletre es el SUV eléctrico de la marca, con versiones que van del Eletre 600 al Eletre R+ y al Eletre X H1000, además del Eletre 900 Sport, una gama interna que muestra hasta dónde llega el modelo por potencia y equipamiento. El Emeya sigue ese camino como berlina eléctrica, con el Emeya 600 GT y el Emeya 900 Sport como referencias. Frente a ellos, el Emira mantiene el espíritu deportivo clásico de Lotus con el Emira Turbo, el Emira Turbo SE, el Emira 420 Sport y el Emira V6 SE, cuatro lecturas de un mismo deportivo. El Evija cierra la colección como hiperdeportivo eléctrico aparte. Comparar un Eletre con un Emira deja ver el contraste entre los dos Lotus actuales: SUV eléctrico de gran tamaño frente a deportivo ligero de enfoque tradicional.",
+  "n": 12,
+  "url": "/coches/marca/lotus/"
+ },
+ "coches/xiaomi": {
+  "nombre": "Xiaomi",
+  "title": "Xiaomi coches: 12 fichas, SU7, YU7 y SkyNomad",
+  "description": "12 fichas técnicas de coches Xiaomi: SU7, YU7 y SkyNomad N70 y N90, con datos y versiones Xiaomi para comparar la gama eléctrica de la marca.",
+  "intro": "Xiaomi ha entrado en el mundo del coche eléctrico con tres nombres que conviene distinguir desde el principio. El SU7 es la berlina de la marca, con el SU7, el SU7 Pro y el SU7 Max como escalera de potencia y equipamiento. El YU7 traslada esa propuesta al formato SUV, con el YU7, el YU7 Pro y el YU7 Max, además de una ficha general del YU7 que resume el modelo. La familia SkyNomad abre un tercer camino con el N70 Pro y el N70 Max por un lado y el N90 Max y el N90 Max Explorer por otro, dos tamaños dentro de una misma idea de SUV eléctrico. Al comparar las fichas se aprecia que Xiaomi repite un esquema claro: un modelo base, una versión Pro intermedia y una Max en lo alto, un patrón que facilita elegir sin tener que aprenderse una nomenclatura nueva en cada modelo.",
+  "n": 12,
+  "url": "/coches/marca/xiaomi/"
+ },
+ "motos/beta": {
+  "nombre": "Beta",
+  "title": "Beta: 12 fichas de enduro y trial, RR y Alp",
+  "description": "12 fichas técnicas de motos Beta: RR X-Pro, RR 480, Alp, Evo y Xtrainer, con datos y versiones Beta para comparar la gama off-road.",
+  "intro": "Beta es una marca de off-road puro, y su catálogo se lee mejor separando el enduro del trial y de las trail ligeras. La familia RR concentra el enduro con la RR 480, la RR 4T 125 R y las RR X-Pro 300 y 350, modelos pensados para la competición y el uso exigente fuera del asfalto. La Xtrainer 300 ocupa un lugar intermedio, como enduro más accesible y manejable para quien se inicia en el campo. La familia Alp, con la Alp 200, la Alp 4.0 y la Alp X, aporta la vertiente más viajera y polivalente dentro del mismo espíritu todoterreno. La Evo 300 cierra la gama por el lado del trial, una disciplina distinta donde pesan la ligereza y la precisión más que la velocidad. Abrir las fichas por familias evita mezclar motos que, aunque compartan marca, están pensadas para terrenos y niveles de experiencia muy distintos.",
+  "n": 12,
+  "url": "/motos/marca/beta/"
+ },
+ "motos/fantic": {
+  "nombre": "Fantic",
+  "title": "Fantic: 12 fichas, Caballero, XE y XEF",
+  "description": "12 fichas técnicas de motos Fantic: Caballero 125, 500 y 700, XE, XEF, Issimo City y Stealth 500, con datos para comparar.",
+  "intro": "Fantic mezcla en su catálogo dos mundos que rara vez conviven en una misma marca: la moto clásica de estilo scrambler y la moto de enduro de competición. La familia Caballero es la cara clásica, con la Caballero 125 Scrambler y la Caballero 125 Rally, la Caballero 500 y la Caballero 500 Rally y la Caballero 700, una escalera de cilindradas dentro de una misma estética. La familia XE y XEF representa el lado competitivo, con la XE 125 y la XE 300 y las XEF 250, XEF 310 y XEF 450 para el enduro serio. La Stealth 500 añade una naked de carácter urbano, y la Issimo City cubre la movilidad eléctrica ligera para la ciudad. Ante tanta variedad, cada ficha hay que situarla en su familia: una Caballero y una XEF comparten poco más que la marca, porque apuntan a usos opuestos. La Issimo City, como eléctrica ligera, recuerda que Fantic también piensa en la ciudad, no solo en el campo y la competición.",
+  "n": 12,
+  "url": "/motos/marca/fantic/"
+ },
+ "patinetes/inokim": {
+  "nombre": "Inokim",
+  "title": "Inokim: 12 patinetes, Light, Quick y OX",
+  "description": "12 fichas de patinetes eléctricos Inokim: Light 2, Mini 2, Quick 3 y 4, OX, OX Hero y OXO, con autonomía y datos para comparar.",
+  "intro": "Inokim organiza sus patinetes en tres familias que se distinguen por el tamaño y la vocación. La familia Light, con el Light 2 y el Light 2 Max, y la Mini 2, cubre el uso urbano ligero, con modelos pensados para plegar, transportar y guardar con facilidad. La familia Quick, con el Quick 3, el Quick 4, el Quick 4 Hero y el Quick 4 Super, sube en autonomía y prestaciones manteniendo un formato todavía urbano. La familia OX cambia de registro: el OX, el OX Hero, el Ox Super y el OXO son patinetes más grandes y capaces, orientados a recorridos largos y a usuarios que priorizan la autonomía sobre la ligereza. Elegir entre un Light y un OX es, en el fondo, elegir entre portabilidad y alcance, y las fichas de esta colección permiten comparar esa decisión con cifras de autonomía y peso en cada modelo. El OXO, en lo alto de la familia OX, resume bien el salto entre un patinete urbano ligero y uno de gran autonomía.",
+  "n": 12,
+  "url": "/patinetes/marca/inokim/"
+ },
+ "patinetes/segway": {
+  "nombre": "Segway",
+  "title": "Segway: 12 patinetes KickScooter y SuperScooter",
+  "description": "12 fichas de patinetes eléctricos Segway: KickScooter E2, E25D, F65, P65E, Max G2 E y SuperScooter GT, con autonomía y datos.",
+  "intro": "La gama Segway recogida aquí se distingue de la familia Segway-Ninebot por sus modelos propios, y conviene leerla como una escalera de usos. La serie E abre la gama con el E2 E, el E2 Plus E, el E25D y el E45D, patinetes urbanos para desplazamientos diarios con autonomías contenidas. El F65 y el P65E suben un escalón en tamaño y capacidad, y el P100SE apunta a recorridos más largos dentro del formato KickScooter. El Max G2 E se sitúa como una opción de gama media-alta con mayor alcance, mientras el SuperScooter GT1, el GT1E y el GT3 Pro, junto con el ZT3 Pro E, ocupan la parte alta prestacional. La diferencia entre un E2 y un GT3 Pro no es de marca sino de categoría: del patinete urbano de uso diario al superscooter de altas prestaciones, con pesos, frenos y autonomías muy distintos que las fichas detallan modelo a modelo.",
+  "n": 12,
+  "url": "/patinetes/marca/segway/"
+ },
+ "coches/bestune": {
+  "nombre": "Bestune",
+  "title": "Bestune: 11 fichas, B70, T77, T90 y Pony",
+  "description": "11 fichas técnicas de coches Bestune: B70, B70S, T55, T77, T90, T99, M9, NAT y Pony, con datos y versiones para comparar.",
+  "intro": "Bestune cubre con su gama casi todos los formatos de SUV y algún modelo singular, y por eso conviene recorrerla por tamaños. El Pony es el modelo más pequeño y urbano de la colección, una propuesta distinta frente al resto de la gama. El T55 y el T77 forman la zona compacta, con el T90 y el T99 subiendo hacia los SUV grandes. El B70 y el B70S aportan la silueta de berlina y de SUV coupé, mientras el M9 y el NAT cubren el formato monovolumen para familias y uso profesional. El E01 y el Yueyi 07 completan la oferta con planteamientos eléctricos dentro del catálogo. Al comparar las fichas se ve que Bestune no apuesta por un solo tipo de cliente: del urbano pequeño al monovolumen grande, cada modelo tiene un público distinto, y esa variedad es justo lo que esta colección ordena. El NAT, con su enfoque de monovolumen, es el modelo que mejor muestra la vocación familiar y profesional de Bestune.",
+  "n": 11,
+  "url": "/coches/marca/bestune/"
+ },
+ "coches/im": {
+  "nombre": "IM Motors",
+  "title": "IM Motors: 11 fichas, L6, L7, LS6 y LS9",
+  "description": "11 fichas técnicas de coches IM Motors: L6, L7, LS6, LS7 y LS9, con datos y versiones IM Motors para comparar la gama eléctrica completa.",
+  "intro": "En IM Motors, la inicial del modelo ya orienta: L para berlinas y LS para SUV. En berlinas están el L6 y el L6 Max, además de una ficha general del L6, y el L7, un conjunto que permite comparar dos tamaños de berlina eléctrica dentro de la misma marca. En SUV están el LS6 y el LS6 Max, el LS7, el LS7 Max y el LS7 Ultra, y el LS9 como modelo grande en lo alto de la gama. La repetición de los apellidos Max y Ultra indica el escalón de equipamiento y potencia dentro de cada modelo, un sistema que se entiende rápido al leer varias fichas seguidas. Comparar un L6 con un LS6, por ejemplo, deja ver la diferencia entre berlina y SUV sin cambiar de marca ni de filosofía eléctrica, porque toda la gama comparte el mismo planteamiento. El LS9, como modelo grande de la gama, deja ver hasta dónde llega IM Motors cuando sube de tamaño sin cambiar de filosofía.",
+  "n": 11,
+  "url": "/coches/marca/im/"
+ },
+ "coches/mclaren": {
+  "nombre": "McLaren",
+  "title": "McLaren: 11 fichas, 750S, Artura, GTS y W1",
+  "description": "11 fichas técnicas de coches McLaren: 750S, Artura, GTS, GT y W1, con datos y versiones McLaren para comparar la gama de superdeportivos.",
+  "intro": "McLaren concentra su gama en pocos modelos con muchas variantes, y cada nombre tiene un carácter propio dentro del mundo de los superdeportivos. El 750S es el modelo central, con el 750S Spider, el 750S Le Mans y el 750S MCL38 Celebration como ediciones y carrocerías distintas sobre la misma base. El Artura forma la segunda familia, con el Artura, el Artura Spider y el Artura 1000GP by MSO, una gama híbrida que baja el acceso a la marca sin renunciar al rendimiento. El GTS y el GT cubren el lado más viajero y polivalente, mientras el W1 se sitúa en la cima como hiperdeportivo aparte. El 788HS completa la colección como modelo singular de altas prestaciones. Leer las fichas en orden permite distinguir qué es una variante, qué es una edición especial y qué es un modelo nuevo, algo esencial en una marca donde los nombres se parecen. El 788HS, como modelo singular, demuestra que McLaren reserva hueco para ediciones de carácter extremo fuera de sus familias principales.",
+  "n": 11,
+  "url": "/coches/marca/mclaren/"
+ },
+ "coches/subaru": {
+  "nombre": "Subaru",
+  "title": "Subaru: 11 fichas, Forester, Outback y Solterra",
+  "description": "11 fichas técnicas de coches Subaru: Forester, Outback, Crosstrek, BRZ, Solterra y Uncharted, con datos y versiones para comparar.",
+  "intro": "Subaru mantiene una gama reconocible por su tracción total y su enfoque práctico, con modelos que se distinguen por el formato más que por la moda. El Forester y el Outback son los pilares de la marca, con el E-Outback como lectura eléctrica del segundo, y el Crosstrek como SUV compacto para el día a día. El BRZ aporta el contrapunto deportivo de tracción trasera dentro de una gama dominada por la tracción total. El Solterra y el Solterra Trek 4WD representan la apuesta eléctrica, mientras la familia Uncharted, con el Uncharted, el Uncharted Field y el Uncharted Touring, abre un capítulo nuevo de SUV eléctricos. El Trailseeker completa la colección como propuesta aventurera. Comparar estas fichas ayuda a ver que Subaru no multiplica modelos sin sentido: cada uno cubre un tamaño y un uso, del deportivo al familiar eléctrico. El Trailseeker, como propuesta aventurera, encaja con la imagen de Subaru de coches pensados para salir del asfalto con comodidad.",
+  "n": 11,
+  "url": "/coches/marca/subaru/"
+ },
+ "motos/gasgas": {
+  "nombre": "GasGas",
+  "title": "GasGas: 11 fichas de enduro, SM y trial",
+  "description": "11 fichas técnicas de motos GasGas: EC 125, 250 y 350F, SM 700, ES 700, MC 450F y TXT, con datos para comparar la gama off-road.",
+  "intro": "GasGas es una marca de competición, y su catálogo se entiende separando el enduro de la supermotard y el trial. La familia EC concentra el enduro con la EC 125, la EC 250, la EC 250F y la EC 350F, cuatro cilindradas y dos tipos de motor para cubrir desde la iniciación hasta la competición seria. La SM 700, en sus versiones de 2024 y 2026, traslada la base de enduro al asfalto como supermotard, mientras la ES 700 hace lo mismo en formato trail para viajes y uso mixto. La MC 450F representa la vertiente de motocross dentro de la marca, y la TXT GP 250 y la TXT Racing 300 cierran la gama por el lado del trial. Esa separación por disciplinas es la clave para leer las fichas: una EC y una TXT pueden compartir marca y cilindrada parecida y estar pensadas para mundos completamente distintos. La MC 450F, como representante del motocross, completa una gama donde cada disciplina tiene su modelo de referencia.",
+  "n": 11,
+  "url": "/motos/marca/gasgas/"
+ },
+ "motos/horwin": {
+  "nombre": "Horwin",
+  "title": "Horwin: 11 fichas eléctricas, EK, CR6 y SK",
+  "description": "11 fichas técnicas de motos eléctricas Horwin: EK1, EK3, CR6, DS1, SK1, SK3, HT5 y Senmenti 0, con datos para comparar.",
+  "intro": "Horwin apuesta por la moto eléctrica en varios formatos, y su catálogo se organiza por familias de letras que conviene aprender. La familia EK, con la EK1 y la EK3, cubre el scooter eléctrico urbano en dos escalones de prestaciones. La CR6 y la CR6 Pro aportan el estilo de moto clásica con motor eléctrico, una combinación que busca a quien quiere estética tradicional sin gasolina. La DS1 se mueve en un registro distinto, más orientado al uso diario práctico, mientras la SK1 y la SK3 amplían la oferta de scooters eléctricos. La HT5 y la Senmenti 0 completan la gama con propuestas singulares dentro del mismo planteamiento eléctrico. Al revisar las fichas conviene comparar alcance y velocidad punta de cada modelo, porque dentro de Horwin conviven scooters de ciudad con modelos de mayores prestaciones, y la letra de la familia no siempre adelanta el escalón. La Senmenti 0, como propuesta singular, muestra que Horwin también deja espacio a modelos fuera de sus familias principales.",
+  "n": 11,
+  "url": "/motos/marca/horwin/"
+ },
+ "motos/moto-morini": {
+  "nombre": "Moto Morini",
+  "title": "Moto Morini: 11 fichas, X-Cape y Seiemmezzo",
+  "description": "11 fichas técnicas de motos Moto Morini: X-Cape 650, 700 y 1200, Seiemmezzo, Calibro, Corsaro y Kanguro, con datos para elegir.",
+  "intro": "Moto Morini combina en su gama la trail aventurera, la clásica y la custom, y cada familia tiene un nombre que conviene situar. La familia X-Cape es la más amplia, con la X-Cape 650, la X-Cape 700 y la X-Cape 1200, tres cilindradas para tres niveles de ambición viajera dentro del mismo concepto trail. La Seiemmezzo STR 650 y la Seiemmezzo SCR 650 forman la pareja clásica, una de carretera y otra de estilo scrambler, sobre la misma base. La Calibro 700 y la Calibro Bagger cubren el mundo custom, mientras la Corsaro 750 Sport aporta el carácter deportivo y la Alltrhike 450 y la Kanguro 300 y la Rumble 350 completan la oferta por abajo y por el lado más campero. Leer las fichas por familias evita confundir una X-Cape con una Seiemmezzo, dos motos de la misma marca pensadas para viajes muy distintos. La Rumble 350, en la parte baja de la gama, es una buena puerta de entrada para conocer el estilo de Moto Morini.",
+  "n": 11,
+  "url": "/motos/marca/moto-morini/"
+ },
+ "motos/piaggio": {
+  "nombre": "Piaggio",
+  "title": "Piaggio: 11 fichas, Beverly, Medley y MP3",
+  "description": "11 fichas técnicas de motos Piaggio: Beverly 310 y 400, Liberty 125, Medley, MP3 y Piaggio 1, con datos para comparar la gama scooter.",
+  "intro": "Piaggio es la marca del scooter por excelencia, y su gama actual cubre del scooter eléctrico ligero al de tres ruedas de gran tamaño. La familia Piaggio 1, con el 1, el 1 Active y el 1+, representa la movilidad eléctrica urbana más sencilla, pensada para trayectos cortos y uso diario. La Liberty 125 y la Medley 125 y la Medley 200 forman la zona media de rueda alta, scooters prácticos para ciudad y extrarradio. La Beverly 310 y la Beverly 400 suben hacia el scooter de mayor tamaño y prestaciones, para quien hace también carretera. La MP3 400 y la MP3 530 cierran la gama con el concepto de tres ruedas, que aporta estabilidad y una sensación distinta en ciudad. Comparar las fichas por tamaño de rueda y por cilindrada permite situar cada Piaggio en su uso real, del eléctrico urbano al maxiscooter de tres ruedas. La MP3 530, en lo alto de la gama de tres ruedas, representa el salto máximo dentro del mundo Piaggio hacia la estabilidad y la capacidad.",
+  "n": 11,
+  "url": "/motos/marca/piaggio/"
+ },
+ "motos/yadea": {
+  "nombre": "Yadea",
+  "title": "Yadea: 11 fichas eléctricas, G5, Kemper y Keeness",
+  "description": "11 fichas técnicas de motos eléctricas Yadea: G5, C1S Pro, Kemper, Keeness, Y1S y Voltguard, con datos para comparar la gama.",
+  "intro": "Yadea traslada al mundo de la moto su experiencia en movilidad eléctrica, con una gama que mezcla scooters urbanos y motos de mayor ambición. El G5 y el G5 S forman la base de scooters eléctricos para la ciudad, con el C1S Pro como variante más equipada dentro de esa idea. El Y1S y el Y1S Pro amplían la oferta urbana, mientras el Fierider y el E8S Pro aportan modelos de planteamiento distinto dentro del mismo catálogo eléctrico. El Kemper y el Kemper RC suben el listón hacia motos eléctricas de mayores prestaciones, y el Keeness y el Voltguard completan la colección con propuestas singulares. La variedad de nombres puede confundir, así que conviene leer las fichas fijándose en alcance y velocidad punta de cada modelo: dentro de Yadea conviven scooters de barrio con motos pensadas para trayectos más largos. El Voltguard, como modelo singular, añade variedad a una gama donde conviven scooters urbanos y motos de mayores prestaciones.",
+  "n": 11,
+  "url": "/motos/marca/yadea/"
+ },
+ "coches/aion": {
+  "nombre": "Aion",
+  "title": "Aion: 10 fichas eléctricas, UT, Y, V y S",
+  "description": "10 fichas técnicas de coches eléctricos Aion: UT, Y, Y Plus, V, S, S Max, S Plus, RT, LX Plus y Ray7, con datos para comparar.",
+  "intro": "Aion ordena su gama eléctrica con letras que marcan el formato, y aprenderlas facilita mucho la comparación. La familia Y, con el Y y el Y Plus, cubre el SUV compacto eléctrico para uso familiar. La familia S, con el S Plus, el S Max y el RT, aporta berlinas eléctricas de distintos tamaños, mientras la familia V, con el V y el V Plus, sube hacia SUV de mayor tamaño. El UT es la propuesta más urbana y compacta de la colección, y el LX Plus y el Ray7 completan la oferta por arriba y por el lado más singular. Al recorrer las fichas se aprecia que Aion no duplica modelos sin motivo: cada letra y cada apellido señalan un tamaño y un público, de modo que comparar un Y con un V o un S con un UT es comparar formatos distintos dentro de una misma filosofía eléctrica.",
+  "n": 10,
+  "url": "/coches/marca/aion/"
+ },
+ "coches/ds": {
+  "nombre": "DS Automobiles",
+  "title": "DS Automobiles: 10 fichas, DS N°4, N°7 y N°8",
+  "description": "10 fichas técnicas de coches DS Automobiles: DS 3, DS N°4, DS N°7, DS N°8 y DS 9, con datos y versiones DS Automobiles para comparar la gama.",
+  "intro": "DS Automobiles ha renovado su nomenclatura con la letra N y un número, y esta colección recoge la gama en ese momento de transición. El DS 3 y el DS 3 E-TENSE 156 representan el modelo compacto, con su versión eléctrica como referencia. El DS N°4, con el DS N°4 E-TENSE 213 y el DS N°4 Hybrid 145, muestra la convivencia de eléctrico e híbrido dentro del mismo modelo. El DS N°7 es el SUV de tamaño medio de la marca, mientras el DS N°8, con el DS N°8 FWD Long Range 245 y el DS N°8 AWD Long Range 350, ocupa la parte alta como SUV eléctrico grande. El DS 9 E-Tense cierra la colección como berlina de representación. Leer las fichas con atención a las cifras de los apellidos ayuda a distinguir versiones que comparten nombre pero no potencia ni autonomía. El DS 9 E-Tense, como berlina de representación, mantiene vivo el lado más elegante de DS frente a sus SUV eléctricos.",
+  "n": 10,
+  "url": "/coches/marca/ds/"
+ },
+ "coches/forthing": {
+  "nombre": "Forthing",
+  "title": "Forthing: 10 fichas, Friday, T5, S7 y U-Tour",
+  "description": "10 fichas técnicas de coches Forthing: Friday EV y REEV, T5, T5 EVO, S7, U-Tour y V9, con datos para comparar la gama.",
+  "intro": "Forthing combina SUV, monovolúmenes y modelos eléctricos con nombres propios que conviene situar antes de comparar. El Friday es la referencia eléctrica, con el Friday EV y el Friday REEV, dos formas de entender la autonomía en un mismo modelo. El T5 y el T5 EVO forman la pareja de SUV de combustión e híbridos, con el T5 EVO HEV como variante híbrida. El S7, con el S7 EV y el S7 REEV, traslada la idea del Friday a otro formato, mientras el U-Tour y el U-Tour HEV cubren el monovolumen familiar. El V9 completa la gama como modelo grande de planteamiento propio. La clave para leer estas fichas está en las siglas: EV, REEV y HEV señalan sistemas de propulsión distintos, y esa diferencia marca el día a día más que las dimensiones o la dotación de cada versión. El V9, como modelo grande de planteamiento propio, cierra una gama donde cada nombre cubre un formato distinto.",
+  "n": 10,
+  "url": "/coches/marca/forthing/"
+ },
+ "coches/gwm": {
+  "nombre": "GWM",
+  "title": "GWM: 10 fichas, Haval, Ora y Poer",
+  "description": "10 fichas técnicas de coches GWM: Haval H6, Ora 03, Ora 07, Poer, Cannon Alpha y King Kong Poer, con datos para comparar.",
+  "intro": "GWM agrupa bajo sus siglas varias submarcas, y esta colección las reúne para que se puedan comparar sin perderse. Haval está representada por el Haval H6, el SUV de referencia de la marca. Ora aporta la gama eléctrica urbana y compacta con el Ora 03, el Ora 03 GT, el Ora 5 y el Ora 05, además del Ora 07 como berlina eléctrica de mayor tamaño. La línea de pick-ups corre a cargo del Poer, el King Kong Poer y el Cannon Alpha, con el Cannon Alpha PHEV como variante híbrida enchufable. Esa convivencia de SUV, eléctricos y pick-ups dentro de unas mismas siglas puede confundir, así que cada ficha hay que encuadrarla en su submarca: un Ora y un Poer comparten grupo pero no cliente, no formato ni tipo de uso. Las fichas ordenan esa variedad por modelos y versiones. El Cannon Alpha PHEV, como híbrido enchufable, muestra que la línea de pick-ups de GWM también mira a la electrificación.",
+  "n": 10,
+  "url": "/coches/marca/gwm/"
+ },
+ "motos/velca": {
+  "nombre": "Velca",
+  "title": "Velca: 10 fichas eléctricas, Bora, Calima y ONE",
+  "description": "10 fichas técnicas de motos eléctricas Velca: Bora, Bora+, Calima, Eon, Nude, ONE, Tramontana S y Vortex, con datos para elegir.",
+  "intro": "Velca es una marca española de moto eléctrica urbana, y su gama se organiza alrededor de scooters de estilo propio con nombres evocadores. La Bora y la Bora+ forman la pareja central, con la segunda como evolución más equipada de la primera. La Calima 50 y la Calima S cubren el acceso a la marca en formato ciclomotor eléctrico, mientras la Eon y la ONE apuestan por diseños más compactos y urbanos. La Nude y la Nude Lite, junto con la Tramontana S y la Vortex, completan una oferta donde el diseño pesa tanto como las prestaciones. Al comparar las fichas conviene sopesar alcance, formato y peso juntos, porque dentro de Velca conviven ciclomotores de ciudad con scooters de mayor alcance, y el nombre no siempre adelanta el escalón. La Vortex, como una de las propuestas más recientes de la colección, completa una gama española de diseño muy personal. La Calima S, como variante de la familia Calima, refuerza el acceso eléctrico urbano dentro de la gama Velca.",
+  "n": 10,
+  "url": "/motos/marca/velca/"
+ },
+ "motos/vespa": {
+  "nombre": "Vespa",
+  "title": "Vespa: 10 fichas, Primavera, GTS y GTV",
+  "description": "10 fichas técnicas de motos Vespa: Primavera, Primavera Elettrica, GTS 125, 300 y 310, GTV 310 y Sprint RST, con datos para elegir.",
+  "intro": "Vespa mantiene una gama corta donde el estilo es tan importante como la cilindrada, y cada familia tiene su público. La Primavera es la referencia urbana, con la Primavera RST 125 y la Primavera Elettrica y la Primavera Elettrica 70 como lecturas de gasolina y eléctricas del mismo icono. La GTS sube de tamaño con la GTS 125, la GTS 300 y la GTS 310, una escalera que permite pasar del scooter urbano al de mayor capacidad para carretera. La GTV 310, en sus versiones de 2025 y 2026, aporta una estética más clásica y deportiva dentro de la gama grande. La Elettrica 70 completa la oferta eléctrica para la ciudad. Comparar estas fichas ayuda a decidir entre Primavera y GTS, entre gasolina y eléctrica, y entre 125 y 300, tres decisiones que definen qué Vespa encaja con cada usuario y cada carnet. La Sprint RST 125, dentro de la familia Primavera, aporta una lectura más deportiva del scooter urbano clásico de Vespa.",
+  "n": 10,
+  "url": "/motos/marca/vespa/"
+ },
+ "patinetes/etwow": {
+  "nombre": "E-TWOW",
+  "title": "E-TWOW: 10 patinetes, Booster y GT",
+  "description": "10 fichas de patinetes eléctricos E-TWOW: Booster S, Booster Plus, Booster Sport, Booster V y GT SE, GT SL y GT Sport, con datos.",
+  "intro": "E-TWOW se distingue por patinetes ligeros y compactos, y su catálogo se organiza en dos familias claras. La familia Booster, con el Booster S, el Booster Plus S, el Booster Sport y el Booster V, además del S2 Booster Plus, cubre el uso urbano con modelos pensados para plegar y transportar con facilidad. La familia GT sube un escalón con el GT SE, el GT SE Sport, el GT SL, el GT Sport y el GT 2024, modelos de mayores prestaciones dentro del mismo planteamiento ligero. La diferencia entre un Booster y un GT no está solo en la potencia: está en el peso, en la autonomía y en el tipo de trayecto para el que cada uno está pensado. Leer las fichas de ambas familias juntas permite elegir entre la máxima ligereza y un punto más de prestaciones sin salir de la marca. El S2 Booster Plus, dentro de la familia Booster, refuerza la idea de E-TWOW de patinetes ligeros para la ciudad.",
+  "n": 10,
+  "url": "/patinetes/marca/etwow/"
+ },
+ "patinetes/razor": {
+  "nombre": "Razor",
+  "title": "Razor: 10 patinetes, E Prime y E300S",
+  "description": "10 fichas de patinetes eléctricos Razor: E Prime, E Prime Air, E Prime III, C35 y E300S, con autonomía y datos para comparar.",
+  "intro": "Razor es una marca conocida por sus patinetes de iniciación, y su gama eléctrica se entiende como una escalera de autonomía y tamaño. La familia E Prime articula la oferta con el E Prime, el E Prime Air y el E Prime III, tres modelos urbanos de autonomías contenidas para desplazamientos cortos. El C35 sube un escalón en autonomía y formato, mientras el E300S aporta una propuesta distinta, con asiento y un planteamiento más cercano al ciclomotor eléctrico que al patinete urbano clásico. Cada ficha hay que leerla por su uso previsto: un E Prime y un E300S comparten marca pero no usuario, porque uno resuelve trayectos breves y el otro recorridos más largos y cómodos. Las fichas de esta colección detallan autonomía y velocidad de cada modelo para comparar sin confundir familias. El E300S, con su asiento, es el modelo que más se aparta del patinete urbano clásico dentro de la gama Razor.",
+  "n": 10,
+  "url": "/patinetes/marca/razor/"
+ },
+ "patinetes/zwheel": {
+  "nombre": "ZWheel",
+  "title": "ZWheel: 10 patinetes, E9D, E12 y ZLion",
+  "description": "10 fichas de patinetes eléctricos ZWheel: E9D, E12, ZCougar, ZFox Max, ZLion Pro, ZLion X Max y Zrido, con autonomía y datos.",
+  "intro": "ZWheel organiza su gama con series de letras que señalan formato y público, y aprenderlas ayuda a no mezclar modelos. La serie E, con el E9D y el E12, cubre el uso urbano con autonomías contenidas y formatos compactos. El ZCougar y el ZFox Max suben hacia modelos de mayor tamaño y alcance, mientras la familia ZLion, con el ZLion Pro y el ZLion X Max, ocupa la parte alta de la gama en prestaciones. La familia Zrido, con el Zrido SE y el Zrido Duo, aporta un planteamiento distinto, con el Duo como modelo de dos plazas dentro de la colección. Comparar las fichas por series permite ver que ZWheel no ofrece un solo tipo de patinete: del urbano ligero al de mayor autonomía y al de dos plazas, cada serie tiene un uso propio que las cifras de cada ficha dejan claro. El Zrido Duo, con su planteamiento de dos plazas, es el modelo más singular de una gama por lo demás urbana.",
+  "n": 10,
+  "url": "/patinetes/marca/zwheel/"
+ },
+ "coches/baojun": {
+  "nombre": "Baojun",
+  "title": "Baojun: 9 fichas, Xiangjing, Enjoy y Yunduo",
+  "description": "9 fichas técnicas de coches Baojun: Xiangjing EV y PHEV, Enjoy y Yunduo, con datos y versiones Baojun para comparar la gama de la marca.",
+  "intro": "Baojun concentra su gama en pocos nombres con variantes de propulsión, y eso hace que cada ficha cuente. El Xiangjing es el modelo central, con el Xiangjing EV eléctrico y el Xiangjing PHEV híbrido enchufable, dos formas de moverse con el mismo coche. El Enjoy aporta un monovolumen de planteamiento práctico para familias y uso profesional, mientras el Yunduo cubre el formato compacto eléctrico con un enfoque urbano. Las demás fichas de la colección siguen esa misma lógica: pocos nombres, versiones eléctricas e híbridas y formatos pensados para el uso diario. Al comparar las fichas conviene fijarse en las siglas EV y PHEV, porque dentro de Baojun la diferencia entre dos fichas de nombre parecido suele estar en la propulsión, no en el tamaño ni en el diseño. El Yunduo, como compacto eléctrico, muestra que Baojun también piensa en la ciudad dentro de una gama de pocos nombres. El Enjoy, con su formato de monovolumen práctico, es el modelo que mejor resume el lado familiar de Baojun.",
+  "n": 9,
+  "url": "/coches/marca/baojun/"
+ },
+ "coches/deepal": {
+  "nombre": "Deepal",
+  "title": "Deepal: 9 fichas, S05, S07, S09 y L06",
+  "description": "9 fichas técnicas de coches Deepal: S05, S07, S09, L06, L07 y G318, con datos y versiones Deepal para comparar la gama eléctrica.",
+  "intro": "Deepal distingue sus modelos con letras que señalan el formato: la S para los SUV y la L para las berlinas. La familia S cubre del compacto al grande con el S05, el S05 PHEV y el S05 AWD, el S07 y el S09, una escalera que permite comparar tamaños y sistemas de propulsión dentro de la misma letra. La familia L aporta las berlinas con el L06 y el L07, dos tamaños para dos públicos distintos. El G318 completa la colección como modelo de planteamiento aventurero, al margen de ambas líneas. Al leer las fichas conviene prestar atención a los apellidos PHEV y AWD, porque indican si el modelo es híbrido enchufable o de tracción total, dos datos que cambian el uso diario más que el equipamiento. La gama de Deepal se entiende así como un sistema de letras y apellidos, no como una lista de nombres sueltos. El L07, como berlina de mayor tamaño, permite comparar dos escalones de berlina sin salir de la familia L.",
+  "n": 9,
+  "url": "/coches/marca/deepal/"
+ },
+ "coches/ebro": {
+  "nombre": "Ebro",
+  "title": "Ebro: 9 fichas, S400, S700, S800 y S900",
+  "description": "9 fichas técnicas de coches Ebro: S400, S700, S800 y S900 PHEV, con datos y versiones Ebro para comparar la gama de la marca.",
+  "intro": "Ebro ha vuelto al mercado con una gama de SUV numerados, y la cifra ya adelanta el tamaño de cada modelo. El S400 abre la colección como el modelo más compacto, con el S400 Excellence como versión más equipada. El S700 forma el núcleo de la gama, con el S700, el S700 PHEV y el S700 HEV, tres lecturas de propulsión sobre el mismo modelo que conviene comparar con calma. El S800 y el S800 PHEV suben hacia el SUV grande familiar, mientras el S900 PHEV ocupa la parte alta de la colección. La repetición de las siglas PHEV y HEV dentro de un mismo número es la clave de lectura de esta marca: el número dice el tamaño, y las siglas dicen cómo se mueve. Las fichas de esta página permiten comparar cada S700 con su variante híbrida sin mezclar tamaños ni versiones. El S900 PHEV, en lo alto de la colección, marca el techo de una gama numerada que empezó en el S400.",
+  "n": 9,
+  "url": "/coches/marca/ebro/"
+ },
+ "motos/brixton": {
+  "nombre": "Brixton",
+  "title": "Brixton: 9 fichas, Cromwell, Crossfire y Felsberg",
+  "description": "9 fichas técnicas de motos Brixton: Cromwell 125, 250 y 1200, Crossfire 125 y 500 y Felsberg 125, con datos para comparar.",
+  "intro": "Brixton construye su gama alrededor de tres familias de estilo clásico con cilindradas escalonadas. La familia Cromwell es la más amplia, con la Cromwell 125, la Cromwell 250 y la Cromwell 1200, tres tamaños para tres niveles de experiencia dentro de la misma estética. La familia Crossfire aporta el lado scrambler con la Crossfire 125, la Crossfire 125 XS, la Crossfire 500 X y la Crossfire 500 STORR, modelos de campo y carretera con carácter aventurero. La Felsberg 125 completa la oferta como propuesta urbana de iniciación. Al comparar las fichas se aprecia que Brixton no multiplica modelos sin criterio: cada familia tiene su estilo y cada cilindrada su público, de modo que elegir entre una Cromwell y una Crossfire es elegir entre clásica de carretera y scrambler de campo, antes incluso de mirar la cilindrada. La Felsberg 125, como urbana de iniciación, es la puerta de entrada más sencilla al estilo clásico de Brixton.",
+  "n": 9,
+  "url": "/motos/marca/brixton/"
+ },
+ "motos/silence": {
+  "nombre": "Silence",
+  "title": "Silence: 9 fichas eléctricas, S01, S02 y S04",
+  "description": "9 fichas técnicas de motos eléctricas Silence: S01, S01+, S02, S02 HS, S02 LS, S03 y S04, con datos para comparar la gama.",
+  "intro": "La gama de Silence está pensada para ciudad y reparto en eléctrico, y se lee por números y apellidos. La familia S01, con el S01 y el S01+, cubre el scooter eléctrico de uso diario para ciudad. La familia S02 amplía el planteamiento con el S02, el S02 HS y el S02 LS, tres variantes que se distinguen por su orientación y su equipamiento. El S03 sube un escalón en tamaño y capacidad, mientras el S04, con el S04 L6e y el S04 L7e, cierra la gama con modelos de cuatro ruedas ligeros pensados para la ciudad y el reparto. La presencia de las categorías L6e y L7e en los apellidos es un dato clave: indica el tipo de vehículo y el permiso necesario, algo que conviene comprobar en cada ficha antes de comparar un S02 con un S04, porque no pertenecen a la misma categoría. El S03, por encima de las familias S01 y S02, marca el salto de tamaño dentro de la gama eléctrica de Silence.",
+  "n": 9,
+  "url": "/motos/marca/silence/"
+ },
+ "patinetes/evercross": {
+  "nombre": "Evercross",
+  "title": "Evercross: 9 patinetes, H5, H7, H9 y EV",
+  "description": "9 fichas de patinetes eléctricos Evercross: H5, H7, H9, A1, C3, EV08E, EV85F y EV10K Pro, con autonomía y datos para comparar.",
+  "intro": "Evercross organiza sus patinetes en series que se distinguen por la letra inicial, y esa letra ya adelanta el planteamiento. La serie H, con el H5, el H7 y el H9, forma una escalera de prestaciones dentro del mismo formato urbano. La serie EV, con el EV08E, el EV85F y el EV10K Pro, cubre modelos de acceso y de mayor capacidad, con el EV10K Pro como referencia alta de la serie. El A1 y el C3 completan la gama con propuestas propias fuera de las dos series principales. Al comparar las fichas conviene sopesar alcance y peso de cada modelo, porque dentro de Evercross conviven patinetes ligeros de trayecto corto con modelos de mayor alcance, y la letra de la serie ayuda a situar cada uno antes de mirar las cifras concretas. El EV10K Pro, como referencia alta de la serie EV, resume el salto de prestaciones dentro de Evercross.",
+  "n": 9,
+  "url": "/patinetes/marca/evercross/"
+ },
+ "patinetes/inmotion": {
+  "nombre": "Inmotion",
+  "title": "Inmotion: 9 patinetes, Air, Climber y RS",
+  "description": "9 fichas de patinetes eléctricos Inmotion: Air, Air Pro, Climber y RS, con autonomía y datos para comparar la gama de la marca.",
+  "intro": "Inmotion concentra su gama de patinetes en pocos modelos muy diferenciados, y eso facilita elegir sin perderse. El Air y el Air Pro forman la pareja urbana, con el segundo como variante más capaz en autonomía dentro del mismo formato ligero. El Climber sube el planteamiento hacia un patinete de mayores prestaciones para trayectos más exigentes, mientras el RS ocupa la parte alta como modelo de altas prestaciones, con una autonomía y una velocidad que lo sitúan en otra categoría frente a los Air. Las demás fichas siguen esa misma escalera, del urbano ligero al prestacional. Al comparar las fichas conviene valorar alcance y peso a la vez, porque en Inmotion el salto del Air al RS no es solo de precio: es de formato, de frenada y de tipo de trayecto para el que cada modelo está pensado. El RS, en lo alto de la gama, deja claro que Inmotion no solo hace patinetes urbanos ligeros.",
+  "n": 9,
+  "url": "/patinetes/marca/inmotion/"
+ },
+ "patinetes/isinwheel": {
+  "nombre": "iSinwheel",
+  "title": "iSinwheel: 9 patinetes, S9, S10 y GT",
+  "description": "9 fichas de patinetes eléctricos iSinwheel: S9Pro, S9Max, S10Pro, S10Plus, S10Max, GT1, GT2 y M2, con autonomía y datos.",
+  "intro": "iSinwheel ordena sus patinetes por series numeradas, y ese número marca el escalón dentro de la gama. La serie S9, con el S9Pro y el S9Max, cubre el acceso con autonomías contenidas para la ciudad. La serie S10 sube un peldaño con el S10Pro, el S10Plus y el S10Max, tres variantes que permiten afinar entre autonomía y equipamiento sin cambiar de serie. La serie GT cambia de registro con el GT1 y el GT2, modelos de mayores prestaciones dentro de la marca. El M2 completa la colección como propuesta propia fuera de las series principales. Al leer las fichas conviene comparar el alcance de cada variante, porque dentro de una misma serie la diferencia entre un Pro y un Max puede ser justo el dato que decide el modelo para un trayecto diario concreto. El M2, fuera de las series principales, aporta variedad a un catálogo ordenado por números y letras.",
+  "n": 9,
+  "url": "/patinetes/marca/isinwheel/"
+ },
+ "patinetes/nami": {
+  "nombre": "Nami",
+  "title": "Nami: 9 patinetes, Burn-E y Stellar",
+  "description": "9 fichas de patinetes eléctricos Nami: Burn-E 2, Burn-E 2 Max, Burn-E 2 Max Viper y Stellar, con autonomía y datos para comparar.",
+  "intro": "Nami se sitúa en el extremo prestacional del mundo del patinete, y sus modelos se reconocen por autonomías muy por encima de la media urbana. El Burn-E 2 y el Burn-E 2 Max forman la referencia de la marca, con el Burn-E 2 Max Viper como variante de carácter más radical dentro de la misma familia. El Stellar aporta un planteamiento distinto, más contenido y urbano, frente al carácter extremo de los Burn-E. Las demás fichas mantienen esa misma filosofía: patinetes de gran batería y altas prestaciones para usuarios que recorren distancias largas. Al comparar las fichas de Nami conviene valorar alcance, peso y potencia a la vez, porque son máquinas que exigen valorar el trayecto real y la experiencia del usuario antes de elegir entre un Stellar y un Burn-E. El Stellar, frente a los Burn-E, demuestra que Nami también tiene un registro más contenido y urbano. El Burn-E 2 Max Viper, como variante radical, marca el carácter extremo que define a la familia Burn-E.",
+  "n": 9,
+  "url": "/patinetes/marca/nami/"
+ },
+ "patinetes/turboant": {
+  "nombre": "TurboAnt",
+  "title": "TurboAnt: 9 patinetes, M10, X7, V8 y R9",
+  "description": "9 fichas de patinetes eléctricos TurboAnt: M10, M10 Lite, M10 Pro, X7 Pro, X7 Max, V8 y R9, con autonomía y datos para comparar.",
+  "intro": "TurboAnt organiza su gama en familias de letras que anticipan formato y público. La familia M10 es la más amplia, con el M10, el M10 Lite y el M10 Pro, tres escalones de autonomía y equipamiento dentro del mismo modelo urbano. La familia X7, con el X7 Pro y el X7 Max, sube hacia modelos de mayor alcance para trayectos más largos. El V8 y el R9 completan la colección con propuestas propias, el primero de carácter más prestacional y el segundo como opción urbana diferenciada. El resto de la gama sigue esa misma lógica de familias y variantes. Al comparar las fichas conviene revisar el alcance de cada variante, porque en TurboAnt la diferencia entre un Lite y un Pro puede decidir si el patinete sirve para el trayecto diario completo o solo para una parte de él. El R9, como opción urbana diferenciada, completa una gama organizada en familias claras y variantes escalonadas.",
+  "n": 9,
+  "url": "/patinetes/marca/turboant/"
+ },
+ "coches/dfsk": {
+  "nombre": "DFSK",
+  "title": "DFSK: 8 fichas, Glory, Seres, E5 y F5",
+  "description": "8 fichas técnicas de coches DFSK: Glory 580, Seres 3, Seres 5, E5, F5, 500 y 600, con datos y versiones para comparar.",
+  "intro": "DFSK reúne bajo sus siglas modelos de varias líneas, y esta colección los ordena para compararlos sin confundir nombres. El Glory 580 representa el SUV familiar de la marca, mientras el Seres 3 y el Seres 5 aportan la vertiente eléctrica con dos tamaños distintos. El E5 y el E5 Plus forman la pareja de SUV híbridos y eléctricos de planteamiento más reciente, y el F5 completa la oferta SUV con un formato propio. El 500 y el 600 cierran la gama por abajo y por el lado más urbano. La convivencia de Glory, Seres y E5 dentro de unas mismas siglas puede despistar, así que cada ficha hay que ubicarla en su línea: un Seres y un Glory comparten grupo pero no formato ni tipo de propulsión, y esa diferencia es la que define para qué usuario sirve cada modelo. El 600, en la parte baja de la colección, cierra una gama donde conviven SUV familiares, eléctricos y pick-ups ligeros.",
+  "n": 8,
+  "url": "/coches/marca/dfsk/"
+ },
+ "coches/li-auto": {
+  "nombre": "Li Auto",
+  "title": "Li Auto: 8 fichas, L6, L7, L8, L9 y MEGA",
+  "description": "8 fichas técnicas de coches Li Auto: L6, L7, L8, L9, i6, i8, i9 y MEGA, con datos y versiones Li Auto para comparar la gama.",
+  "intro": "En Li Auto, la letra inicial de cada modelo señala propulsión y formato a la vez. La familia L, con el L6, el L7, el L8 y el L9, forma una escalera de SUV de autonomía extendida, del más compacto al más grande, con un sistema de nomenclatura que facilita comparar tamaños de un vistazo. La familia i, con el i6, el i8 y el i9, representa la vertiente eléctrica pura de la marca, con tres tamaños dentro del mismo planteamiento. El MEGA completa la colección como monovolumen eléctrico de carácter propio, fuera de ambas líneas. Al revisar las fichas conviene atender a la letra inicial de cada modelo, porque dentro de Li Auto la L y la i no son un capricho: señalan dos formas distintas de entender la autonomía y los viajes largos. El MEGA, como monovolumen eléctrico, es el modelo que más se aparta de las familias L e i de Li Auto.",
+  "n": 8,
+  "url": "/coches/marca/li-auto/"
+ },
+ "coches/livan": {
+  "nombre": "Livan",
+  "title": "Livan: 8 fichas, Maple, X3, X6 y S6",
+  "description": "8 fichas técnicas de coches Livan: Maple 60S, Maple 80V, 7, 8, 9, X3 Pro, X6 Pro y S6 Pro, con datos para comparar.",
+  "intro": "Livan combina modelos numerados y la familia Maple, y esa mezcla es la mejor guía para entender su gama. Los modelos 7, 8 y 9 forman una escalera numerada de SUV y monovolúmenes, con el 9 como referencia de mayor tamaño. La familia Maple, con el Maple 60S y el Maple 80V, aporta la vertiente eléctrica e intercambiable de la marca, pensada para un uso urbano y profesional distinto. El X3 Pro y el X6 Pro completan la oferta SUV por abajo y por el centro, mientras el S6 Pro cierra la colección como propuesta propia. Al comparar las fichas conviene separar los numerados de los Maple, porque pertenecen a planteamientos distintos dentro de la misma marca: unos apuestan por el formato familiar tradicional y otros por la movilidad eléctrica urbana. El S6 Pro, como propuesta propia, cierra una colección donde conviven modelos numerados, la familia Maple y SUV compactos de planteamiento distinto.",
+  "n": 8,
+  "url": "/coches/marca/livan/"
+ },
+ "coches/nevo": {
+  "nombre": "Nevo",
+  "title": "Nevo: 8 fichas, A07, Q05, Q07 y E07",
+  "description": "8 fichas técnicas de coches Nevo: A07, A05, A06, Q05, Q06, Q07, E07 y C390, con datos y versiones Nevo para comparar la gama.",
+  "intro": "Nevo ordena su gama con letras que señalan el formato, y esa inicial es la mejor guía para comparar. La familia A, con el A05, el A06 y el A07, cubre las berlinas de distintos tamaños dentro de la marca. La familia Q, con el Q05, el Q06 y el Q07, traslada la oferta al mundo SUV, con tres tamaños para tres públicos. El E07 aporta un formato propio a medio camino entre SUV y pick-up, mientras el C390 completa la colección como modelo singular. Al leer las fichas conviene mirar la letra antes que el número, porque un A07 y un Q07 comparten cifra pero no formato: una es berlina y otro es SUV, y esa diferencia define el uso diario mucho más que el equipamiento o la potencia de cada versión. El C390, como modelo singular, completa una gama ordenada por letras donde cada inicial señala un formato.",
+  "n": 8,
+  "url": "/coches/marca/nevo/"
+ },
+ "coches/stelato": {
+  "nombre": "Stelato",
+  "title": "Stelato: 8 fichas, S9, S9T y G9",
+  "description": "8 fichas técnicas de coches Stelato: S9, S9 EREV, S9T, S9T EREV, G9 y G9 EREV, con datos y versiones Stelato para comparar la gama.",
+  "intro": "Stelato concentra su gama en tres nombres con variantes de propulsión, y por eso conviene leer cada ficha con atención a los apellidos. El S9 es el modelo central, con el S9, el S9 EREV y las versiones de distintos años, además del S9T y el S9T EREV como variantes de carrocería familiar. El G9, con el G9 y el G9 EREV, completa la colección como SUV grande de la marca. La sigla EREV es la clave de lectura: indica autonomía extendida y cambia la forma de plantear los viajes largos frente a las versiones eléctricas puras. Comparar un S9 con un S9T o un G9 con su variante EREV permite ver que, dentro de Stelato, la diferencia importante no siempre está en el tamaño, sino en la carrocería y en el sistema de propulsión de cada versión. El G9 EREV, con autonomía extendida, muestra que Stelato aplica la misma receta de propulsión a sus dos carrocerías principales.",
+  "n": 8,
+  "url": "/coches/marca/stelato/"
+ },
+ "coches/wey": {
+  "nombre": "Wey",
+  "title": "Wey: 8 fichas, 03, 05, 07 y Gaoshan",
+  "description": "8 fichas técnicas de coches Wey: 03, 05, 07, Gaoshan 7, Gaoshan 8, Gaoshan 9, V8X y V9X, con datos para comparar la gama.",
+  "intro": "Wey combina modelos numerados y la familia Gaoshan, y esa doble vía es la pauta para entender su gama. Los numerados, con el 03, el 05 y el 07, forman una escalera de SUV de distintos tamaños, del compacto al grande. La familia Gaoshan, con el Gaoshan 7, el Gaoshan 8 y el Gaoshan 9, cubre el formato monovolumen de lujo para familias y uso con chófer. El V8X y el V9X completan la colección como modelos de altas prestaciones dentro de la marca. Al comparar las fichas conviene separar primero los numerados de los Gaoshan, porque un 07 y un Gaoshan 8 pueden compartir tamaño aproximado y tener públicos opuestos: uno busca SUV familiar y otro monovolumen de representación, dos usos que las fichas distinguen con claridad. El V9X, en lo alto prestacional, cierra una gama donde conviven SUV numerados y monovolúmenes Gaoshan. El Gaoshan 9, en lo alto de la familia Gaoshan, cierra la oferta de monovolúmenes de Wey por tamaño.",
+  "n": 8,
+  "url": "/coches/marca/wey/"
  }
 }
