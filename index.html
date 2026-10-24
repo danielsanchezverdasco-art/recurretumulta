@@ -54,8 +54,8 @@
       window.dataLayer = window.dataLayer || [];
       function gtag() { window.dataLayer.push(arguments); }
       window.gtag = gtag;
-      // 18/10/2026: Consent Mode v2. Todo denegado por defecto; GA solo se carga
-      // si el usuario ha aceptado en el aviso de cookies (rtm-cookie-consent).
+      // 18/10/2026: Consent Mode v2. Todo denegado por defecto. 24/10/2026: el aviso
+      // propio se retiró; quien aceptó en él (rtm-cookie-consent) conserva el granted.
       gtag('consent', 'default', { ad_storage: 'denied', analytics_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
       var ok = false;
       try { ok = localStorage.getItem('rtm-cookie-consent') === 'accepted'; } catch (e) { ok = false; }
@@ -65,7 +65,8 @@
       var done = false;
       function load() {
         if (done) return;
-        try { if (localStorage.getItem('rtm-cookie-consent') !== 'accepted') return; } catch (e) { return; }
+        // 24/10/2026: sin aviso propio, GA se carga siempre con Consent Mode (denegado por
+        // defecto); el CMP certificado de Google actualiza el consentimiento.
         done = true;
         var s = document.createElement('script');
         s.async = true;
