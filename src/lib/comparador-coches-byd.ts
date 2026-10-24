@@ -104,7 +104,7 @@ export const COCHES_BYD: CocheComparador[] = [
     modelo: "Seal Design",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 33885,
+    precioDesde: 37115,
     potenciaCv: 313,
     autonomiaKm: 570,
     maleteroL: 485,
@@ -114,7 +114,7 @@ export const COCHES_BYD: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "33.885 € financiando con la campaña oficial hasta el 31/10/2026 (40.775 € al contado; PVP 41.990 €): Easy Plan con financiación mínima de 6.000 € a 36 meses, descuento promocional, aportación obligatoria Auto+ y avance Auto+ de 3.375 € e incentivo CAE de 950 €; válido en Península y Baleares",
+      "37.115 € con campañas, Plan Auto+, CAE y oferta de financiación (42.990 € con campañas y Plan Auto+; PVP recomendado 49.490 €), según la tarifa oficial de BYD España de abril de 2026 para Península y Baleares",
       "Autonomía de 570 km, una de las mejores de su segmento",
       "313 CV con tracción trasera: 0-100 en 5,9 s",
       "Carga rápida de 150 kW",

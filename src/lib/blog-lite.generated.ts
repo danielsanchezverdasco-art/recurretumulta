@@ -14404,7 +14404,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-seal-2024-precio-ficha-tecnica",
-    "title": "BYD Seal Design: 570 km y 313 CV por 33.885 €",
+    "title": "BYD Seal Design: 570 km y 313 CV por 37.115 €",
     "excerpt": "Precio y ficha técnica del BYD Seal Design: berlina eléctrica de 313 CV, 570 km de autonomía, carga de 150 kW y 5 estrellas Euro NCAP.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
