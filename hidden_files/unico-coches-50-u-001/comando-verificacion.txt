@@ -1,0 +1,10 @@
+cd ~/workspace/wt-unico50-u-001
+python3 hidden_files/unico-coches-50-u-001/check-8gramas-u.py --from-worktree
+# Salida final: TOTAL colisiones: 0 (710 tokens post A, 1313 tokens post B;
+# corpus 6.192.899 8-gramas del resto del repo, excluidos los dos posts propios,
+# *.generated.ts, data-loaders y *-slugs.ts; se comprueba tambien A contra B).
+# tsc: ln -s ~/workspace/recurretumulta-github/node_modules node_modules && npx tsc -b
+# tsc: intento 24/10 ~20:40 CEST -> npx tsc -b MUERTO por OOM (exit 137, Killed), sin error de tipos.
+# Sustituto: chequeo de sintaxis TS de los dos ficheros editados con ts.transpileModule
+# (0 errores en ambos). El cambio solo toca dos literales "content": no se tocan
+# tipos, campos, slugs, titulos ni estructura, asi que no puede introducir un error de tipos.
