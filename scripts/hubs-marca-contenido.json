@@ -1358,5 +1358,85 @@
   "intro": "El apellido Radical ya anuncia el planteamiento, pero sus cinco fichas permiten comprobar hasta qué punto es literal. Cada ficha detalla el peso, la potencia y la aerodinámica, elementos que en estos coches importan más que el equipamiento de confort o el espacio interior. La aerodinámica genera apoyo a alta velocidad y cambia el comportamiento en curva, un aspecto que solo se entiende leyendo las cifras y no mirando fotografías. El peso reducido, combinado con una potencia elevada, produce aceleraciones y frenadas que exigen un piloto consciente de lo que lleva entre manos. Al recorrer las cinco fichas se percibe la gradación de la gama, desde los modelos más accesibles dentro de su filosofía hasta los más cercanos a un coche de carreras. Esta colección no pretende convencer a nadie de que un Radical sirva para todo; pretende que quien lo considere lo haga conociendo sus cifras y sus renuncias.",
   "n": 5,
   "url": "/coches/marca/radical/"
+ },
+ "motos/livewire": {
+  "nombre": "LiveWire",
+  "title": "LiveWire motos: 5 fichas eléctricas",
+  "description": "5 fichas técnicas de motos eléctricas LiveWire con autonomía, potencia y equipamiento para valorar la gama eléctrica con datos reales.",
+  "intro": "La moto eléctrica tiene sus propias reglas de comparación, y las cinco fichas de LiveWire están reunidas para aplicarlas con orden. Cada ficha recoge la autonomía, la entrega de potencia y la dotación, además del formato, porque una moto eléctrica urbana no se valora igual que una de carretera. La autonomía debe leerse junto a la velocidad habitual y al peso del conjunto, ya que circular rápido recorta el alcance mucho más que en ciudad. La red de carga y el tiempo de recarga también condicionan la experiencia, sobre todo para quien no dispone de enchufe en casa. Al repasar las cinco fichas se aprecia la orientación de cada modelo y el salto entre ellos, sin mezclar categorías distintas. Con esa lectura, la gama eléctrica deja de parecer un experimento y se convierte en una serie de alternativas tangibles, cada una con sus datos y su público. También conviene revisar el mantenimiento previsto y la garantía, dos datos que condicionan el coste real de uso.",
+  "n": 5,
+  "url": "/motos/marca/livewire/"
+ },
+ "motos/trs": {
+  "nombre": "TRS",
+  "title": "TRS motos: 5 fichas de trial puro",
+  "description": "5 fichas técnicas de motos TRS con peso, motor y geometría detallados para elegir tu moto de trial según nivel y uso.",
+  "intro": "El trial es una disciplina donde cada gramo y cada centímetro cuentan, y las cinco fichas de TRS permiten comparar con ese nivel de detalle. Cada ficha precisa el peso, la motorización y la geometría, datos que definen si una moto responde con precisión en zonas técnicas o si está pensada para aprender sin castigar los errores. Un piloto que empieza necesita una moto dócil y ligera que perdone, mientras un competidor buscará respuesta inmediata y ajustes finos. La geometría, a menudo olvidada, determina la estabilidad en parado y la facilidad para cambiar de apoyo en obstáculos. Al leer las cinco fichas seguidas se entiende la escalera de la gama y lo que varía realmente al pasar de un modelo a otro, más allá del color o del acabado. La posición de los pies y la altura del manillar completan la ergonomía que decide el control en zonas lentas. El trial premia la técnica sobre la potencia, y estas fichas ayudan a elegir la herramienta adecuada para desarrollarla.",
+  "n": 5,
+  "url": "/motos/marca/trs/"
+ },
+ "motos/wottan": {
+  "nombre": "Wottan",
+  "title": "Wottan motos: 5 fichas urbanas y de carretera",
+  "description": "5 fichas técnicas de motos Wottan con datos de cilindrada, peso y dotación para valorar cada moto según carnet y trayectos.",
+  "intro": "Hay marcas que se entienden mejor cuando se ordenan sus modelos por el carnet necesario y por el trayecto habitual, y Wottan es un buen ejemplo. Las cinco fichas de esta colección indican la cilindrada, la masa y la dotación de cada moto, información que basta para separar las opciones urbanas de las pensadas para carretera. Un scooter ligero para el día a día no se compara con una moto de mayor cilindrada usando la misma vara de medir, porque sus exigencias de mantenimiento, consumo y seguridad son distintas. La altura del asiento y la maniobrabilidad en parado también merecen atención, especialmente para quien se inicia o retoma la moto después de años. Al completar las cinco fichas, la gama queda ordenada por usos reales y no por una lista sin criterio. Elegir entonces es sencillo: basta con reconocer el propio trayecto en la ficha correspondiente. El consumo y la facilidad de mantenimiento cierran una comparación que debe ser práctica antes que espectacular.",
+  "n": 5,
+  "url": "/motos/marca/wottan/"
+ },
+ "patinetes/kugoo": {
+  "nombre": "Kugoo",
+  "title": "Kugoo patinetes: 5 fichas para desplazarte",
+  "description": "5 fichas de patinetes eléctricos Kugoo con autonomía, peso y ruedas comparados para elegir el modelo de tu día a día.",
+  "intro": "El patinete que funciona es el que se usa todos los días sin pensar en él, y las cinco fichas de Kugoo ayudan a encontrarlo. Cada ficha compara la autonomía, el peso y el tamaño de rueda, tres datos que resumen casi toda la experiencia de uso. Una rueda mayor rueda mejor sobre adoquines y juntas, pero añade peso; una autonomía generosa da tranquilidad, pero puede venir con una batería más pesada. El equilibrio entre ambos extremos depende del recorrido: calles lisas y cortas piden ligereza, mientras trayectos largos con firme irregular agradecen rueda y batería. Al leer las cinco fichas en orden se distinguen los modelos urbanos compactos de los pensados para más alcance, y se ve qué sacrificio hace cada uno. La decisión final no debería tomarse por el precio más bajo ni por la cifra más alta, sino por la ficha que describe el trayecto que realmente harás.",
+  "n": 5,
+  "url": "/patinetes/marca/kugoo/"
+ },
+ "patinetes/soflow": {
+  "nombre": "SoFlow",
+  "title": "SoFlow patinetes: 5 fichas eléctricas urbanas",
+  "description": "5 fichas de patinetes eléctricos SoFlow con autonomía, plegado y peso detallados para moverte por la ciudad con comodidad.",
+  "intro": "Moverse por la ciudad con un patinete debería ser sencillo, y las cinco fichas de SoFlow están pensadas para que la elección también lo sea. Cada ficha detalla la autonomía, el plegado y el peso, datos que determinan si el patinete se pliega con una mano, si cabe en un maletero pequeño y si aguanta la jornada sin pasar por el enchufe. El plegado merece una atención especial, porque un mecanismo incómodo termina por dejar el patinete siempre desplegado y ocupando sitio. La autonomía, por su parte, conviene valorarla con margen: un trayecto de ida y vuelta con cuestas consume más que la cifra ideal del fabricante. Al comparar las cinco fichas se aprecia qué modelos priorizan la compacidad y cuáles ofrecen más alcance, y esa diferencia es la que orienta la compra. Un buen patinete urbano no se nota cuando funciona; se nota cuando no estorba. La iluminación y la visibilidad nocturna también merecen una mirada, porque gran parte del uso urbano ocurre con poca luz.",
+  "n": 5,
+  "url": "/patinetes/marca/soflow/"
+ },
+ "patinetes/zero": {
+  "nombre": "Zero",
+  "title": "Zero patinetes: 5 fichas eléctricas para ciudad",
+  "description": "5 fichas de patinetes eléctricos Zero con autonomía, potencia y peso comparados para elegir tu patinete urbano sin dudas.",
+  "intro": "El nombre Zero aparece también en el mundo de la moto eléctrica, pero esta colección se centra solo en sus patinetes, con cinco fichas propias. Cada ficha compara la autonomía, la potencia y el peso, datos que permiten situar cada modelo entre el patinete urbano ligero y el de mayores prestaciones. La potencia conviene valorarla junto al peso total, porque un motor fuerte en un chasis pesado no siempre se traduce en mejor aceleración ni en mayor agilidad. La autonomía, como siempre, depende del peso del usuario, de las pendientes y de la velocidad media, así que debe leerse con margen. Al recorrer las cinco fichas se separan los modelos pensados para recorridos breves de los que aguantan trayectos más exigentes, y se entiende qué aporta cada escalón. La calidad de los neumáticos y la eficacia de frenada completan una ficha que debe leerse entera antes de comprar. Con esa comparación, la compra se decide por el uso real y no por el nombre compartido con otra categoría.",
+  "n": 5,
+  "url": "/patinetes/marca/zero/"
+ },
+ "coches/levc": {
+  "nombre": "LEVC",
+  "title": "LEVC coches: 4 fichas de espacio y trabajo",
+  "description": "4 fichas técnicas de coches LEVC con espacio, accesibilidad y equipamiento para valorar sus modelos de uso profesional y familiar.",
+  "intro": "Hay coches que se compran pensando en los pasajeros antes que en el conductor, y las cuatro fichas de LEVC pertenecen a esa clase. Cada ficha describe el espacio interior, la accesibilidad y el equipamiento, datos que importan tanto a una familia numerosa como a un uso profesional con pasajeros frecuentes. La facilidad de acceso, la altura del techo y la amplitud de las puertas traseras son detalles que se agradecen a diario y que no aparecen en una fotografía. También conviene mirar la versatilidad del interior, porque un coche que transporta personas un día puede necesitar espacio de carga al siguiente. Al leer las cuatro fichas seguidas se aprecia el enfoque común de la gama y las diferencias entre modelos, sin perderse en variantes irrelevantes. Esta colección está pensada para quien valora el coche por lo que permite llevar dentro, no por cómo se ve desde fuera. La durabilidad de los interiores y la facilidad de limpieza también importan cuando el coche trabaja todos los días.",
+  "n": 4,
+  "url": "/coches/marca/levc/"
+ },
+ "coches/morgan": {
+  "nombre": "Morgan",
+  "title": "Morgan coches: 4 fichas de clásicos actuales",
+  "description": "4 fichas técnicas de coches Morgan con datos de motor, chasis y dotación para valorar sus deportivos artesanales.",
+  "intro": "Morgan fabrica coches que parecen venir de otra época y, sin embargo, sus cuatro fichas se leen con los mismos criterios que cualquier coche actual. Cada ficha detalla el motor, el chasis y el equipamiento, datos que permiten separar el encanto artesanal de las prestaciones reales. El estilo clásico atrae a primera vista, pero la decisión debería pasar por la posición de conducción, la visibilidad y la facilidad de uso diario, aspectos que una ficha bien leída revela sin engaños. La construcción artesanal implica también un carácter propio en la conducción, con sensaciones que no se encuentran en un coche de producción masiva. Al recorrer las cuatro fichas se entienden las diferencias entre modelos y el grado de practicidad de cada uno, desde los más puristas hasta los más utilizables. Quien se acerque a Morgan buscando solo nostalgia encontrará aquí los números que completan la historia. El mantenimiento especializado y la disponibilidad de recambios son preguntas sensatas antes de enamorarse del diseño.",
+  "n": 4,
+  "url": "/coches/marca/morgan/"
+ },
+ "coches/onvo": {
+  "nombre": "Onvo",
+  "title": "Onvo coches: 4 fichas eléctricas familiares",
+  "description": "4 fichas técnicas de coches eléctricos Onvo con espacio, autonomía y equipamiento para comparar la gama familiar eléctrica.",
+  "intro": "Una gama familiar eléctrica de cuatro modelos se puede estudiar entera sin dejarse ninguno, y estas fichas de Onvo lo permiten. Cada ficha reúne el espacio interior, la autonomía y el equipamiento, tres datos que deciden si un coche sirve como único vehículo de la casa. El espacio trasero y el maletero se notan cada día con niños, compras o equipaje de vacaciones, mucho más que cualquier detalle estético. La autonomía debe contrastarse con los viajes habituales y con la posibilidad de cargar en casa, porque un coche familiar no puede vivir pendiente del cargador. Al completar las cuatro fichas se percibe la lógica de la gama y el perfil de familia al que se orienta cada modelo. Con esa visión, la elección se hace comparando necesidades reales con cifras reales, que es la única comparación que no defrauda después. La facilidad para instalar sillas infantiles y el acceso a las plazas traseras son detalles que una familia nota desde el primer día.",
+  "n": 4,
+  "url": "/coches/marca/onvo/"
+ },
+ "motos/can-am": {
+  "nombre": "Can-Am",
+  "title": "Can-Am motos: 4 fichas de tres ruedas y más",
+  "description": "4 fichas técnicas de motos Can-Am con motor, estabilidad y equipamiento para comparar sus modelos de tres ruedas y carretera.",
+  "intro": "Can-Am juega en una categoría propia dentro del mundo de la moto, y sus cuatro fichas permiten entenderla sin ideas preconcebidas. Cada ficha detalla el motor, la estabilidad y el equipamiento, datos que explican por qué un vehículo de tres ruedas se conduce de forma distinta a una moto convencional. La estabilidad adicional cambia la confianza en curva y en frenada, y también el tipo de motorista al que se dirige cada modelo. La posición de conducción y el espacio para pasajero y equipaje son otros aspectos que conviene leer con atención, porque definen si el vehículo servirá para escapadas en pareja o para un uso más individual. Al recorrer las cuatro fichas se distinguen las propuestas de la gama y el salto entre ellas, sin mezclar conceptos diferentes. Esta colección no busca convencer a nadie de cambiar de categoría, sino ofrecer las cifras para valorarla con conocimiento. La protección frente al viento y la capacidad de equipaje completan la valoración de un vehículo pensado para viajar acompañado.",
+  "n": 4,
+  "url": "/motos/marca/can-am/"
  }
 }
