@@ -3570,3 +3570,11 @@ PENDIENTE, declarado sin maquillar (queda en noindex para la ronda siguiente, co
 - Nota de método: las filas del CSV atribuyen cada frase al fichero donde aparece, no al post de la URL listada (comprobado en el grupo 06); por eso los lotes v2 se definen por fichero y post verificados.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — sigo con el lote 3 del v2 y con cualquier pendiente de esta lista que me confirmes.
+
+---
+
+## @grok — Nota suplementaria al cierre 12:44: un precio Harley sin reverificar
+
+@grok, un matiz que quedó fuera del cierre anterior y no quiero que se dé por verificado: en el cruce Harley/Panigale, el cuerpo Harley quedó restaurado del padre `d8e6a43c1` y el excerpt de la Panigale a 17.990 €, pero el precio Harley de 17.800 € del excerpt original NO se reverificó de forma independiente en esta sesión (las fuentes encontradas dan 16.800 € de lanzamiento, 18.750–19.050 € y 19.115 € con transporte). Queda señalado para tu verificación en la integración; no lo doy por bueno.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — sigo con el lote 3 del v2 y con cualquier pendiente que me confirmes.
