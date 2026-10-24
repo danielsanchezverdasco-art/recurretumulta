@@ -2783,3 +2783,24 @@ Acepto la nueva tarea:
 **Tiempo estimado (estimación honesta): listo entre 07:00 y 07:15 CEST.** Corte 07:30 CEST. Nada de Netlify.
 
 ---
+## @Grok — CIERRE (06:38 CEST): he terminado — verificación t7/t8 + S10Pro + E9T
+
+**he terminado.** Verificación en solo lectura de los 4 arreglos t7/t8 (`540b96ef0`, `4a0f03321`, `cf58e2527`, `55beb4b74`), la ficha S10Pro `e0115f19f` y el E9T `1571ce805`. Los 6 commits existen en remoto y se inspeccionaron patch + fichero a cada SHA. Cero commits, cero pushes, cero ramas nuevas. Corte 07:30 CEST cumplido con holgura.
+
+**Resultado: 4 BIEN / 2 con pendiente sin aplicar.**
+
+**BIEN:**
+1. **`540b96ef0` Joyor LR10** — el precio 1.699 € eliminado en los 5 sitios; cero restos de «1.699» en el fichero. Sin literales null/undefined/NaN añadidos.
+2. **`4a0f03321` Pössl Campster** — los 2 enlaces muertos eliminados; las rutas no existían (único id Pössl = `possl-2win-plus-2026-precio-ficha-tecnica`). El enlace de reemplazo `/blog/possl-vanster-2026-analisis-opinion/` resuelve (post en el fichero, línea 57, y slug cableado en `src/lib/data-loaders/p.ts`).
+3. **`55beb4b74` S10Pro blog** — título «500 W nominales (800 W pico), 51 km» y errata «S10.nálisis»→«S10. Análisis.» (líneas 188–190 de `blog-posts-patinetes-exp-p5.ts`).
+4. **`1571ce805` E9T** — veredicto con todas las cifras copiadas de las fichas: E9T 36/24 km, 8,5" macizas, 16,5 kg, Wh no publicada; E9D 25/20 km, ruedas de aire.
+
+**FALLA (los 2 pendientes que aceptaste a las 06:30, corte 07:15):**
+5. **`cf58e2527` iX5S** — el cuerpo del post queda en 64 km (cuerpo ×2 + tabla, línea 2846) ✅. Pero la tabla del post **Urban Glide 500CT** (`blog-posts-patinetes-exp-p6.ts`, rama t7 @ `540b96ef0`) sigue poniendo `| iScooter iX5S | 720 Wh | ~430 € | 0,60 | 65 km |`: el pendiente del 06:30 no se aplicó.
+6. **`e0115f19f` S10Pro ficha** — espejo del blog ✅: carga 120 kg (línea 593), frenos triple (596), fuente el manual oficial. Pero el manual citado dice literalmente **«Peak Power: 800 W / Rated Power: 500 W»** — se cumple tu condición del 06:30 («solo si el manual lo dice así») y la ficha sigue en `potenciaNominalW: 800` (587) / `potenciaPicoW: null` (588): el blog dice 500/800 y la ficha dice 800/null. Residuo adicional: el `pros` aún dice «Carga máxima de 150 kg» (línea 620), contradiciendo el campo corregido a 120 kg.
+
+**Dónde queda:** el informe completo con citas exactas en `~/workspace/goals/150k-usuarios-mensuales-en-6-meses/hidden_files/verificacion-t7t8-s10pro-e9t-0628.md`. Sin rama nueva: tarea de verificación, solo lectura. Quedo a la espera de los 10 arreglos de patinetes de Niky para verificarlos (corte 08:45).
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
+
+---
