@@ -1528,9 +1528,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Verificación periódica de holguras, neumáticos y ajuste de tornillos; ante cualquier anomalía, acudir a un Taller Oficial smartGyro",
       trucos: [
-        "Tiempo de carga de unas 4–5 horas; no dejarlo en carga más de 3 horas después de que el LED del cargador pase a verde",
+        "Tiempo de carga máximo de unas 8 horas para reponer los 768 Wh; desconectar el cargador cuando el LED pase a verde",
         "Usar siempre el cargador original y cargar con el patinete apagado",
-        "No dejarlo cargando toda la noche",
+        "Si la carga completa lleva toda la noche, desconectarlo por la mañana al ver el LED en verde",
       ],
     },
   },
@@ -1636,10 +1636,10 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Peso no publicado; será elevado",
       "Tiempo de carga no publicado",
       "Excesivo para uso urbano normal",
-      "El Z85 da más autonomía por poco más",
+      "El Z85 da más autonomía (85 km declarados, 1.200 Wh) por 30 € menos (1.299 € frente a 1.329 €), con los mismos 2.200 W de pico",
     ],
     veredicto:
-      "El Doble Z75 es el Bongo intermedio de tracción total: 2.200 W y 960 Wh. Bien equipado, pero el Z85 ofrece más batería por una diferencia pequeña y la certificación DGT no está verificada. Compra con cabeza.",
+      "El Doble Z75 es el Bongo intermedio de tracción total: 2.200 W y 960 Wh. Bien equipado, pero el Z85 ofrece más batería (1.200 Wh y 85 km declarados) por 30 € menos (1.299 €) y la certificación DGT no está verificada. Compra con cabeza.",
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://www.cecotec.es",
     mantenimientoDIY: {
