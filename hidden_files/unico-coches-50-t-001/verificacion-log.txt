@@ -1,0 +1,65 @@
+corpus: 50/672 ficheros, 1031501 hashes distintos
+corpus: 100/672 ficheros, 1645735 hashes distintos
+corpus: 150/672 ficheros, 2292451 hashes distintos
+corpus: 200/672 ficheros, 2827603 hashes distintos
+corpus: 250/672 ficheros, 3625709 hashes distintos
+corpus: 300/672 ficheros, 3920959 hashes distintos
+corpus: 350/672 ficheros, 4048866 hashes distintos
+corpus: 400/672 ficheros, 4178770 hashes distintos
+corpus: 450/672 ficheros, 4402206 hashes distintos
+corpus: 500/672 ficheros, 4684061 hashes distintos
+corpus: 550/672 ficheros, 5043152 hashes distintos
+corpus: 600/672 ficheros, 5450596 hashes distintos
+corpus: 650/672 ficheros, 5580614 hashes distintos
+corpus final: 672 ficheros, 5736070 hashes distintos
+tank-300-2-0t-2024-precio-ficha-tecnica -> 7
+tank-300-diesel-2025-precio-ficha-tecnica -> 9
+tank-300-hev-2024-precio-ficha-tecnica -> 5
+tank-300-hi4-t-2025-precio-ficha-tecnica -> 3
+tank-300-hooke-trail-2026-precio-ficha-tecnica -> 0
+tank-330-2024-precio-ficha-tecnica -> 1
+tank-400-hi4-t-2025-precio-ficha-tecnica -> 7
+tank-400-hi4-z-2025-precio-ficha-tecnica -> 10
+tank-500-3-0t-2024-precio-ficha-tecnica -> 13
+tank-500-hev-2024-precio-ficha-tecnica -> 3
+tank-500-hi4-t-2025-precio-ficha-tecnica -> 7
+tank-500-hi4-z-2025-precio-ficha-tecnica -> 5
+tank-700-hi4-t-2024-precio-ficha-tecnica -> 3
+tank-700-lwb-hi4-z-2025-precio-ficha-tecnica -> 1
+tank-800-2026-precio-ficha-tecnica -> 12
+tesla-cybercab-2026-precio-ficha-tecnica -> 0
+tesla-cybertruck-2026-precio-ficha-tecnica -> 7
+tesla-model-3-electrico-precio-ficha-tecnica -> 4
+tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica -> 12
+tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica -> 13
+tesla-model-3-performance-2025-precio-ficha-tecnica -> 17
+tesla-model-s-plaid-2026-precio-ficha-tecnica -> 23
+tesla-model-x-plaid-2026-precio-ficha-tecnica -> 23
+tesla-model-y-7-plazas-2026-precio-ficha-tecnica -> 14
+tesla-model-y-electrico-precio-ficha-tecnica -> 4
+tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica -> 4
+tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica -> 2
+tesla-model-y-l-2026-precio-ficha-tecnica -> 9
+tesla-model-y-performance-2026-precio-ficha-tecnica -> 18
+tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica -> 10
+tesla-roadster-2026-retraso-precio-ficha-tecnica -> 1
+togg-t10x-2026-precio-ficha-tecnica -> 7
+toyota-aygo-x-2025-precio-ficha-tecnica -> 1
+toyota-aygo-x-hybrid-2025-precio-ficha-tecnica -> 7
+toyota-bz3x-2026-precio-ficha-tecnica -> 9
+toyota-bz4x-2025-precio-ficha-tecnica -> 13
+toyota-bz4x-2026-precio-ficha-tecnica -> 9
+toyota-bz4x-224-2025-precio-ficha-tecnica -> 18
+toyota-bz4x-precio-ficha-tecnica -> 4
+toyota-bz4x-touring-2026-precio-ficha-tecnica -> 4
+toyota-bz5-2026-precio-ficha-tecnica -> 4
+toyota-bz7-2026-precio-ficha-tecnica -> 3
+toyota-c-hr-140h -> 6
+toyota-c-hr-200h-2025-precio-ficha-tecnica -> 17
+toyota-c-hr-gr-sport-2025-precio-ficha-tecnica -> 13
+toyota-c-hr-phev-2025-precio-ficha-tecnica -> 7
+toyota-c-hr-plus-2026-precio-ficha-tecnica -> 13
+toyota-c-hr-plus-230-2025-precio-ficha-tecnica -> 12
+toyota-camry-2025-precio-ficha-tecnica -> 1
+toyota-corolla-140h -> 8
+TOTAL coincidencias: 403
