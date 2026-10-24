@@ -4510,3 +4510,35 @@ Restante estimado: quedan 1.064 posiciones en la cola tras el lote 128, de las q
 No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 129 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
+
+
+## @grok fotos: caza-fotos parte-02 lotes 129-138 listos
+
+@grok he terminado: subidos los lotes 129-138 de fotos rescatadas (caza-fotos parte-02), 400 ficheros nuevos en `public/media`, 0 sobrescrituras, 0 ficheros saltados en esta ventana.
+
+- Rama: `caza-fotos-parte-02`
+- Head inicial verificado antes de empezar: `41f550a7c99ee3b24e2b6fe402dc71106ad1c5c3` (lote 128)
+- Head final: `fba1b69ce448424d5c30b5aef12399b2c74f3e9f` (lote 138)
+- Anclaje verificado contra la cola plana del plan: el lote 129 empieza con `zontes-368k-2025-ficha-tecnica-precio-hunt1.webp` (índice de cola 5134), justo tras el último del lote 128 (`zontes-368g-2026-ficha-tecnica-precio-oficial.webp`, índice 5133), sin hueco ni solape.
+- Cada lote verificado contra la API de GitHub: 1 commit por lote, padre encadenado con el anterior, exactamente 40 ficheros añadidos, 0 modificados, 0 borrados, y el conjunto de ficheros exacto al planificado. Antes de subir se comprobó que ningún fichero fuera un aviso (RIFF/WEBP + MD5 contra el aviso conocido) y que ninguno sobrescribiera una foto REAL ya en la rama.
+- No hubo ningún rechazo de push, ningún force push y ningún rebase.
+
+Lotes (primer fichero .. último fichero, 40 nuevos cada uno):
+- Lote 129 — `351a6887a89f2a30863a24b746843c75440aa028` — zontes-368k-2025-ficha-tecnica-precio-hunt1.webp .. peugeot-kisbee-m-125-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 130 — `2bf55a5767ba4c96ceb5c687b42235a337438ea0` — peugeot-kisbee-m-125-2025-ficha-tecnica-precio-oficial-3.webp .. keeway-gemma-125-2024-ficha-tecnica-precio-oficial-2.webp
+- Lote 131 — `66cec2c35118a7c7cbe360263e34c54a5b1ba3da` — keeway-gemma-125-2024-ficha-tecnica-precio-oficial-3.webp .. cyclone-rt1-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 132 — `c6c00cbcc7dce0a8b43615cc70aa5995c483c01f` — cyclone-rt1-2025-ficha-tecnica-precio-oficial-3.webp .. super-soco-tc125-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 133 — `75fc7e5ac1d6e11852f2ca88af6b47ee6bb6d838` — super-soco-tc125-2025-ficha-tecnica-precio-oficial-3.webp .. sunra-grace-49e-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 134 — `6cd846368c5369e43455a597158de093bb3f0738` — sunra-grace-49e-2025-ficha-tecnica-precio-oficial-3.webp .. kawasaki-z-125-2026-oficial-2.webp
+- Lote 135 — `09293a11e946e515a4e4a62ec310da832f6a136a` — kawasaki-z-125-2026-oficial-3.webp .. voge-500ac-2026-oficial-2.webp
+- Lote 136 — `2748a9f5e18f6b4bc6359637ba232dac043eeaca` — voge-500ac-2026-oficial-3.webp .. bmw-f-900-gs-adventure-2025-ficha-tecnica-precio-oficial-2.webp
+- Lote 137 — `c56487edc2ef176a0ba0cf45132bc740e8ad4ff6` — bmw-f-900-gs-adventure-2025-ficha-tecnica-precio-oficial-3.webp .. bmw-r-1300-gs-adventure-2026-ficha-tecnica-precio-oficial-2.webp
+- Lote 138 — `fba1b69ce448424d5c30b5aef12399b2c74f3e9f` — bmw-r-1300-gs-adventure-2026-ficha-tecnica-precio-oficial-3.webp .. voge-300rally-2024-ficha-tecnica-precio-oficial-2.webp
+
+Recuento: 400 ficheros nuevos, 0 sobrescrituras, 0 saltados en los lotes 129-138. Los 72 ficheros del plan que ya existen en la rama quedan más adelante en la cola (índices 6011 en adelante) y se saltarán cuando la cola los alcance, sin resubirlos.
+
+Restante estimado: quedan 664 posiciones en la cola tras el lote 138, de las que 72 ya están en la rama (a saltar), es decir 592 ficheros nuevos netos. El lote 139 empezaría por `voge-300rally-2024-ficha-tecnica-precio-oficial-3.webp` (ficha `/motos/voge-300rally-2024-ficha-tecnica-precio/`).
+
+No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force push.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — por ejemplo, seguir con los lotes 139 en adelante de esta misma cola, o cualquier otra tarea que me encargues.
