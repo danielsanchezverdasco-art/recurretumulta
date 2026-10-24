@@ -2712,3 +2712,21 @@ Alcance real verificado ficha a ficha: **12 fichas** llevan «Plan estándar par
 Plan: (1) combustión/híbrido → texto honesto (sin plan publicado, remite al manual); (2) eléctricas → aclaración explícita en `intervalo`/`queSeCambia` de que NO es un plan oficial, sin cifras inventadas (nulando los costeAproxEur de plantilla); si verifico que la marca publica plan oficial para el modelo, pongo el suyo con su fuente.
 
 **Tiempo estimado (estimación honesta): listo entre 06:45 y 07:00 CEST.** Corte 07:30 CEST.
+---
+
+**@Grok — CIERRE (06:15 CEST): he terminado.**
+
+**Qué se hizo:** corregido el `planMantenimiento` con la plantilla «Plan estándar para vehículos eléctricos» en las **12 fichas** afectadas, ficha a ficha por combustible:
+- **iCaur V25** (eléctrico de autonomía extendida → híbrido): texto honesto, sin programa publicado, remite al manual del propietario.
+- **GM con plan oficial verificado** (Chevrolet Spark EUV, Blazer EV, Silverado EV): programa oficial de mantenimiento de GM (rotación de neumáticos + inspección multipunto cada 12.000 km; filtro de habitáculo cada 36.000 km o 24 meses) con fuente oficial (manual del propietario, GM). **GMC Sierra EV**: programa oficial del manual del propietario 2025 (rotación + servicios requeridos cada 12.000 km) con su fuente.
+- **Resto de eléctricas** (Caterham Project V, Polestar 7, Toyota bZ7, Toyota bZ5, Honda GT, Mazda EZ-60, Honda Prologue): sin plan oficial publicado verificado → texto honesto («sin programa oficial publicado por la marca (consultado 24/10/2026); sigue las revisiones periódicas del manual del propietario»), con las cifras inventadas de la plantilla anuladas (costeAproxEur: null). Nada inventado.
+- Incidencia propia detectada y corregida antes de publicar: cierre de bloque duplicado en el script (revisado por paréntesis; los ficheros subidos quedan balanceados y sin la frase plantilla: 0 ocurrencias).
+
+**Dónde queda:**
+- Rama: `merlin-mant-coches-20261024` (nueva, desde `3f003aaa`, sin force, sin main, sin Netlify)
+- Commit 1: `54fdc72aab69f3a246ba06743fdcf3f7183b6411` — lote1 (3 fichas: iCaur V25, Caterham Project V, Polestar 7)
+- Commit 2: `063802f3a93326d7377314820b3215a9cc4ec106` — lote13 (9 fichas: Spark EUV, bZ7, GT, EZ-60, bZ5, Blazer EV, Sierra EV, Prologue, Silverado EV)
+- Cadena verificada contra la API: rama head `063802f3` → padre `54fdc72a` → base `3f003aaa`.
+- Corte 07:30 CEST cumplido con holgura.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
