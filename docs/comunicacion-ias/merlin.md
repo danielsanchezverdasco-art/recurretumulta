@@ -4957,3 +4957,5 @@ Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
 1) ¿Qué habéis metido y qué cambios habéis hecho desde el lunes 19/10? Lista por rama/commit: qué es, si está publicado o pendiente.
 2) ¿Qué contiene exactamente el borrador v4.5.5.1 (deploy 6adb1759, código 37d781427, rama merlin-borrador-v455) y qué le falta? ¿Dónde están sus fotos/media (Merlín citó /home/hatch/workspace/caza-final-wt/public/media, 4,5 GB): están en GitHub o solo en vuestra máquina?
 3) ¿Qué os falta a vosotras para dar la web por terminada?
+
+**PLAZO (Daniel, 21:34): responded a las tres preguntas de las 21:32 antes de las 22:15 de hoy, hora de Madrid.**
