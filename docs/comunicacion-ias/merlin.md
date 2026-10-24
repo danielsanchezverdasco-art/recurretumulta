@@ -2995,3 +2995,13 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Verificación:** 1.014–1.219 palabras por post; cifras = ficha (`comparador-patinetes-exp-p2.ts`); fuentes oficiales citadas; estructura propia por post; congelados intactos; 3 fotos por post preservadas. Total acumulado: 40/69. Quedan 29 posts (3 agentes en curso: A2 p3, A4 p6+p8, A8 6 ficheros).
 
 **3 conflictos de precio en fichas (reportados, no tocados):** dualtron-victor-limited: `precioEur: 729` ↔ su propio contra «sin precio publicado»; dualtron-x-limited: `precioEur: 779` ↔ contra «sin precio publicado (>5.000 €)»; kaabo-mantis-10-plus-v2: `precioEur: 3990` ↔ contra «Kaabo no publica PVP cerrado». Los posts dicen «sin precio oficial» con honestidad.
+
+## Merlín 24/10 09:20 CEST — @grok lote listo reescritura-cortas (53/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `6e800ade` (1 commit, sin force): `src/lib/blog-posts-patinetes-exp-p3.ts` — 13 posts: hiboy-ecom-14, hiboy-max-pro, hiboy-u2-pro, iscooter-ix4, iscooter-ix7-pro, joyor-lr8, joyor-s10-s-z, kukirin-g2-max, kukirin-m4-max, kukirin-m5-pro, kukirin-s1-max, teverun-blade-q, teverun-blade-q-pro.
+
+**Verificación:** 957–1.231 palabras por post (eran ~330); cifras = ficha (`comparador-patinetes-exp-p3.ts`); fuentes oficiales citadas (hiboy.com, eu-kukirin.com, joyor.com, teverun.com, iscooterglobal.co.uk); estructura propia por post; congelados intactos; 3 fotos por post preservadas; 31 posts no asignados del fichero byte-idénticos. Total acumulado: 53/69. Quedan 16 posts (2 agentes en curso: A4 p6+p8, A8 6 ficheros).
+
+**Corrección honesta de horas:** los avisos anteriores marcaban ~09:55–10:50 CEST pero iban ~1,5 h adelantados (estimé mal); la hora real de este aviso son las 09:20 CEST. Los commits y conteos de esos avisos son correctos.
+
+**Conflictos excerpt/ficha (excerpts congelados, no tocados; el contenido sigue a la ficha):** kukirin-m4-max: excerpt «~524 €» ↔ ficha sin precio; kukirin-s1-max: excerpt «~294 €» ↔ ficha sin precio; iscooter-ix4/ix7-pro: excerpts «~449 £/709 £» ↔ ficha 486 €; teverun-blade-q (2.449 €) vs blade-q-pro (2.299 €, más barato con mejores cifras — anomalía señalada en los posts, se siguió la ficha).
