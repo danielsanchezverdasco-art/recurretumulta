@@ -798,5 +798,85 @@
   "intro": "NIU concentra toda su gama de patinetes en la familia KQi, y los números indican el escalón dentro de ella. Los KQi 100F y 100P son la entrada ligera, y los KQi 200F y 200P suben en autonomía. Los KQi 300P y 300X son la zona media-alta, con el 300X como opción de mayor alcance. La serie KQi1, con el Sport y el Pro, y la KQi2 Pro cubren el uso diario con buen equilibrio entre peso y autonomía. La KQi3, en Sport, Pro y Max, es la gama alta urbana, y los KQi Air y Air X son los más ligeros y plegables de la marca. Elegir un KQi es elegir entre peso, autonomía y precio, en ese orden. 100F, 200P, 300X: los números de la familia KQi ordenan peso y autonomía de menor a mayor. El Air y el Air X rompen esa escala por ligereza, no por potencia.",
   "n": 14,
   "url": "/patinetes/marca/niu/"
+ },
+ "coches/kgm": {
+  "nombre": "KGM",
+  "title": "KGM coches: 13 fichas, de Torres a Rexton",
+  "description": "13 fichas técnicas de coches KGM: Torres EVX y HEV, Korando e-Motion, Actyon, Tivoli y Rexton, con datos y versiones para comparar.",
+  "intro": "La gama de KGM se entiende mejor si se recorre por familias, porque cada nombre cubre un uso distinto dentro del mismo catálogo. El Torres abre el recorrido con tres lecturas complementarias: el Torres EVX eléctrico, el Torres HEV híbrido y el Torres G15T de gasolina, de modo que un mismo SUV admite tres formas de moverse. El Korando sigue esa lógica con el Korando e-Motion eléctrico y el Korando de gasolina, mientras el Actyon aparece tanto en versión de gasolina como híbrida para quien busca un SUV coupé sin salir de la marca. Para el trabajo y el ocio al aire libre están el Rexton y el Rexton Sports, con el Musso y el Musso EVX como pick-ups de planteamiento más directo. El Tivoli y el Tivoli Grand cierran la oferta por abajo, como SUV compactos para el día a día. Cada ficha de esta colección detalla versiones, potencias y equipamiento, así que comparar un Torres con un Korando o un Musso con un Rexton se hace con cifras concretas y sin mezclar gamas.",
+  "n": 13,
+  "url": "/coches/marca/kgm/"
+ },
+ "coches/omoda": {
+  "nombre": "Omoda",
+  "title": "Omoda: 13 fichas, del 5 al 9 SHS",
+  "description": "13 fichas técnicas de coches Omoda: 5, 4, C7, 7 SHS, 9 SHS y S5, con datos, versiones híbridas y eléctricas para comparar antes de elegir.",
+  "intro": "Omoda ordena su oferta con números, y esos números marcan el tamaño y la ambición de cada modelo. El 5 es la puerta de entrada, disponible como 5 de gasolina, 5 EV eléctrico y 5 SHS híbrido, además de la variante 5 SHS-H, lo que permite comparar tres energías sin cambiar de modelo. El 4 sigue el mismo esquema con el 4, el 4 EV y el 4 SHS, mientras el C7 y el 7 SHS suben un escalón en tamaño y presencia. El 9 SHS ocupa la parte alta de la gama como SUV grande híbrido, y el S5 aporta una silueta de berlina dentro de una oferta dominada por los SUV. El X, presentado como modelo aparte, anticipa por dónde puede crecer la marca en los próximos años. Abrir las fichas en orden, del 5 al 9 SHS, deja ver con claridad qué cambia al subir de número: dimensiones, potencia y equipamiento, sin sorpresas entre versiones de nombre parecido.",
+  "n": 13,
+  "url": "/coches/marca/omoda/"
+ },
+ "coches/zeekr": {
+  "nombre": "Zeekr",
+  "title": "Zeekr: 13 fichas eléctricas, del 001 al 9X",
+  "description": "13 fichas técnicas de coches Zeekr: 001, 007, 7X, 009, Mix y X, todas eléctricas, con datos y versiones para comparar la gama completa.",
+  "intro": "Zeekr construye toda su gama sobre la propulsión eléctrica, así que la diferencia entre sus modelos no está en el combustible sino en el formato y el carácter. El 001 es la berlina de referencia, con la variante 001 FR como interpretación más radical del mismo modelo, y el 007 y el 007 GT añaden una berlina y un familiar de planteamiento más viajero. El 7X y el 7 GT trasladan esa idea al mundo SUV, mientras el 009 y el 009 Grand apuestan por el monovolumen grande y lujoso. El Mix juega con un formato distinto, más compacto y urbano, y el X cierra la gama por abajo como SUV pequeño. El 8X y el 9X completan el catálogo por arriba, con cifras de potencia que los sitúan entre los modelos más potentes de la marca. Recorrer las fichas de esta página permite distinguir cada Zeekr por su silueta y su uso, sin confundir números que se parecen.",
+  "n": 13,
+  "url": "/coches/marca/zeekr/"
+ },
+ "motos/moto-guzzi": {
+  "nombre": "Moto Guzzi",
+  "title": "Moto Guzzi: 13 fichas, V7, V85 y Stelvio",
+  "description": "13 fichas técnicas de motos Moto Guzzi: V7 Stone y Sport, V85 TT, V100 Mandello, Stelvio y V9 Bobber, con datos y versiones para elegir.",
+  "intro": "Moto Guzzi mantiene una gama corta donde cada familia tiene una personalidad muy marcada, y eso facilita elegir sin perderse entre variantes. La familia V7 es la más amplia: la V7 de 2024, la V7 Stone de 2025 y 2026, la V7 Special y la V7 Sport forman un conjunto de motos clásicas para rodar a diario y escaparse en rutas cortas. La V85 aporta el espíritu viajero y aventurero con la V85 TT, la V85 Strada y la V85 TT Travel, tres formas de entender la misma base según el equipamiento y la orientación rutera. La V100 Mandello y la V100 Mandello S suben el listón hacia una moto más moderna y potente, mientras la Stelvio representa la gran trail de la marca para viajes largos. La V9 Bobber cierra la gama con un estilo custom muy personal. Comparar estas fichas ayuda a decidir entre clásica, trail o custom sin salir de Mandello.",
+  "n": 13,
+  "url": "/motos/marca/moto-guzzi/"
+ },
+ "motos/super-soco": {
+  "nombre": "Super Soco",
+  "title": "Super Soco: 13 fichas eléctricas urbanas",
+  "description": "13 fichas técnicas de motos eléctricas Super Soco: CPx, CUx, TC Max, TSx y TC Wanderer, con datos y versiones para moverte por ciudad.",
+  "intro": "El catálogo de Super Soco gira en torno a la moto eléctrica para ciudad, organizado alrededor de dos ideas: scooters prácticos y motos de estilo clásico con motor eléctrico. La familia CUx, con la CUx, la CUx Pro y la CU Mini, cubre el uso diario más sencillo, pensada para trayectos cortos y aparcamiento fácil. La CPx y la CPx Pro suben un escalón en tamaño y capacidad, manteniendo el enfoque de scooter para la ciudad. En el lado más motero están la TC Max, la TC125 y la TC50, además de la TC Wanderer, que comparten estética de moto clásica con propulsión eléctrica. La TSx 50, la TS Hunter y la TSX125 completan una oferta donde conviven ciclomotores y motos de 125. La F01 añade una propuesta distinta dentro del mismo planteamiento urbano. Revisar las fichas en orden permite separar qué modelo encaja con cada carnet y cada trayecto habitual.",
+  "n": 13,
+  "url": "/motos/marca/super-soco/"
+ },
+ "motos/zero": {
+  "nombre": "Zero Motorcycles",
+  "title": "Zero Motorcycles: 13 fichas eléctricas",
+  "description": "13 fichas técnicas de motos eléctricas Zero: SR/F, SR/S, SR, DSR, FX, S y DS, con datos y versiones para comparar la gama eléctrica.",
+  "intro": "Zero Motorcycles apuesta solo por la electricidad, así que elegir una Zero es elegir entre formatos, no entre combustibles. La SR/F y la SR/S forman la pareja de referencia entre las naked y las deportivas de carenado, con la SR como opción más accesible dentro de la misma familia. La DSR y la DSR/X llevan ese planteamiento al terreno trail, para quien quiere una eléctrica capaz de salir del asfalto. La S y la DS cubren los escalones de entrada de cada familia, mientras la FX y la FXE apuestan por motos ligeras y ágiles para ciudad y pistas sencillas. La LS1 y la XB y la XE completan la gama con propuestas más específicas y compactas. Al comparar las fichas se aprecia que la diferencia principal está en la potencia, la autonomía y el peso, tres datos que conviene mirar juntos antes de decidir entre una naked, una trail o una moto ligera.",
+  "n": 13,
+  "url": "/motos/marca/zero/"
+ },
+ "patinetes/hiley": {
+  "nombre": "Hiley",
+  "title": "Hiley: 13 patinetes, familia Tiger al completo",
+  "description": "13 fichas de patinetes eléctricos Hiley: Tiger 10 GTR, Tiger 10 V5, Tiger EVO y Maxspeed X9, con autonomía y datos para comparar.",
+  "intro": "Hiley gira alrededor de la familia Tiger, y dentro de ella cada apellido marca un salto claro en prestaciones. El Tiger 10 GTR y el Tiger 10 V5 son las referencias de 10 pulgadas, con el V5 Performance como variante más equipada del mismo modelo. El Tiger 8 GT-R V4 baja el tamaño de rueda y se mueve en un registro más compacto, mientras el Tiger EVO GT y el Tiger EVO GTR forman una pareja de enfoque deportivo dentro de la gama EVO. El Tiger Supra Pro ocupa la parte alta con la mayor autonomía anunciada de los modelos recogidos aquí. El Maxspeed X9 queda como una opción distinta, más sencilla y urbana, frente al carácter prestacional de los Tiger. Mirar las fichas con la autonomía al lado del peso y la potencia ayuda a entender que un Tiger no es un patinete urbano cualquiera: es una máquina de altas prestaciones que exige valorar bien el uso real antes de elegir.",
+  "n": 13,
+  "url": "/patinetes/marca/hiley/"
+ },
+ "patinetes/vsett": {
+  "nombre": "Vsett",
+  "title": "Vsett: 13 patinetes, del 8 al 11+ Super",
+  "description": "13 fichas de patinetes eléctricos Vsett: 8, 9+ Lite, 9+R, 10+, 11+ Super y 11+ Super 72V, con autonomía y datos para comparar.",
+  "intro": "Vsett numera sus patinetes de forma que el número ya adelanta el escalón: a mayor número, mayor tamaño y mayores prestaciones. El 8 es la entrada a la marca, un modelo urbano para desplazamientos habituales sin complicaciones. El 9+ Lite y el 9+R forman la zona media, con el segundo como variante más potente dentro de la familia 9. El 10+ sube el listón en autonomía y velocidad, y el 11+ Super y el 11+ Super 72V ocupan la parte alta con la mayor capacidad de batería de la gama. Entre un 8 y un 11+ Super media un salto completo: más peso, frenos más serios y un trayecto tipo distinto, porque el segundo ya pertenece a la categoría de patinetes de altas prestaciones. Recorrer las fichas de menor a mayor número permite ver esa escalera completa y decidir en qué peldaño se queda cada usuario según su recorrido diario.",
+  "n": 13,
+  "url": "/patinetes/marca/vsett/"
+ },
+ "coches/exeed": {
+  "nombre": "Exeed",
+  "title": "Exeed: 12 fichas, LX, RX, VX y Sterra",
+  "description": "12 fichas técnicas de coches Exeed: LX, RX, TXL, VX y Sterra ES y ET, con datos y versiones híbridas y eléctricas para comparar.",
+  "intro": "Exeed combina dos líneas de producto que conviene no mezclar: la gama de combustión e híbrida y la familia Sterra eléctrica. En la primera están el LX y el LX C-DM, el RX y el RX C-DM, el TXL y el VX con su variante VX C-DM, un conjunto de SUV que cubre del compacto al grande con versiones híbridas enchufables en varios modelos. La familia Sterra, con el Sterra ES y el Sterra ES REEV y el Sterra ET y el Sterra ET REEV, apuesta por la electricidad con variantes de autonomía extendida que cambian la forma de plantear los viajes largos. El ET5 completa la oferta como modelo independiente dentro del catálogo. Al abrir las fichas conviene fijarse en las siglas: C-DM y REEV indican sistemas de propulsión distintos, y esa diferencia se nota más circulando a diario que en la talla o la dotación de cada versión. El Sterra ET, con su variante REEV, es un buen punto de partida para entender cómo plantea Exeed los viajes largos en eléctrico.",
+  "n": 12,
+  "url": "/coches/marca/exeed/"
+ },
+ "coches/ligier": {
+  "nombre": "Ligier",
+  "title": "Ligier: 12 fichas de cuadriciclos Myli y JS50",
+  "description": "12 fichas técnicas de coches Ligier: JS50 y Myli en versiones eléctricas, diésel y L7e, con datos para comparar los cuadriciclos de la marca.",
+  "intro": "Ligier se mueve en un segmento propio, el de los cuadriciclos, donde el carnet y el uso urbano mandan más que la potencia. La familia JS50 articula la oferta con el JS50 Select, el JS50 Select Confort, el JS50 Elite y el JS50 Ultimate, además del JS50 Eléctrico, una escalera de acabados dentro del mismo modelo. La familia Myli amplía el planteamiento con el Myli, el Myli Diésel, el Myli L7e y el Myli MAX en sus variantes Confort y L7e, además del Myli LAB como propuesta diferenciada. La convivencia de versiones eléctricas, diésel y L7e dentro de una misma gama obliga a mirar cada ficha con atención: no todos los Myli ni todos los JS50 se conducen con el mismo permiso ni sirven para el mismo recorrido. Comparar las fichas por familia y por energía deja claro qué cuadriciclo encaja con cada necesidad urbana. El Myli LAB, por su planteamiento diferenciado, muestra que Ligier también explora usos distintos al cuadriciclo urbano tradicional.",
+  "n": 12,
+  "url": "/coches/marca/ligier/"
  }
 }
