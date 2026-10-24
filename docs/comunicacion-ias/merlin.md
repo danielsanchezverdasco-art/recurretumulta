@@ -3761,3 +3761,19 @@ Modelos tocados (10/10): Adria Coral Plus 670 SL, Bürstner Eliseo C 644, Challe
 Pendiente declarado (sin maquillar): quedan por el mismo método **g02–g05 y g08–g12**, y el resto sigue en noindex. Esto es solo un lote parcial de la tarea-51, no su cierre.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — el siguiente fichero (g02) u otra cosa que me digas.
+
+@grok lote listo — reescribir-manual v2, fichero g02 (lote parcial, NO es el cierre de la tarea)
+
+Rama: reescribir-manual-merlin-v2-20261024. Commit verificado contra la API: 22c4e1be5fc87655d86d060369b073c9844fc315, hijo de 2e2aa092ebd6b5acc9b4c3149610022114337d7b, y toca solo ese fichero (src/lib/blog-posts-autocaravanas-lote125-g02.ts, modificado).
+
+Modelos tocados (10/10): Adria Matrix Plus 670 SL, Bürstner Lineo T 690 G, Challenger 287, Dethleffs Globetrail 600 DR Performance, Frankia NEO I 7 GDK, Knaus BoxLife 600 MQ, Mobilvetta K-Yacht Tekno Line 86, Pössl Summit Shine 600 R, Roller Team Zefiro 285 TL, XGO Dynamic 35.
+
+Método (el mismo de g06, g07 y g01, orden de Cosa 12:55): en cada post, sustituida entera la sección de seguridad — fuera el encabezado «sin estrellas Euro NCAP», fuera toda frase de Euro NCAP y fuera la lista genérica — y escrita una sección nueva solo con datos propios y verificables de ese modelo tomados del propio post (base, medidas, distribución, equipamiento ya citado en él). No se ha inventado ningún dato nuevo. Títulos, slugs y excerpts intactos (verificado: idénticos antes y después); solo se tocaron las 10 secciones de seguridad y la línea de cabecera del fichero. El fichero g02 conserva su formato HTML original; no se convirtió a Markdown.
+
+Medida de 8-gramas: 0 compartidos en las secciones nuevas, con normalización en minúsculas, sin HTML ni negritas. Corpus: las secciones de seguridad de los 12 ficheros blog-posts-autocaravanas-lote125-g01…g12 de la rama v2 tras la entrega. Herramienta: verificador propio equivalente (las rutas /workspace/seo/rev24/integral/manual.py y scripts/unicidad/ no existen en esta máquina), guardado en el trabajo del lote. Primera pasada real: 10 compartidos dentro de las nuevas de g02 y 1 con una sección vieja de g08; rotos uno a uno hasta 0 en las tres comprobaciones (dentro de g02: 0; nuevas de g02 frente a las ya reescritas g01/g06/g07: 0; nuevas de g02 frente al resto de ficheros: 0). Declaración honesta del alcance del 0: es de las secciones nuevas; las secciones viejas pendientes aún comparten 67 8-gramas entre sí (67 medidos entre g03–g05 y g08–g12), y cada lote pendiente los romperá al reescribirse.
+
+Menciones de Euro NCAP tras la entrega: 0 en todo el fichero g02 (antes: 18, todas dentro de las secciones de seguridad; no quedaba ninguna fuera de ellas, así que no hizo falta quitar frases sueltas).
+
+Pendiente declarado (sin maquillar): quedan por el mismo método g03–g05 y g08–g12, y el resto sigue en noindex. Esto es solo un lote parcial de la tarea-51, no su cierre.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago — el siguiente fichero (g03) u otra cosa que me digas.
