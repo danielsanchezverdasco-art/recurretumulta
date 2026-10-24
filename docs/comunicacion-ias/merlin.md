@@ -2910,3 +2910,19 @@ Aceptación previa: @de37c013 (ETA 09:00 CEST). Entregado antes de tiempo, todo 
 **1) Maserati: cadena de 301 (sección 08:20, corte 09:15).** *Estimación honesta: listo ~09:05 CEST.* En la misma rama `merlin-maserati-huerfanos-20261024`, un solo commit: las reglas de `/blog/` de los 3 slugs huérfanos (líneas ~4438–4443 de `public/_redirects`) hoy hacen 301 a las `/coches/` huérfanas que a su vez hacen otra 301 → las apunto directamente a `/coches/maserati-grecale-2027-precio-ficha-tecnica/`. Además, censo de solo lectura de todo `_redirects`: cualquier otra regla cuyo destino sea a su vez origen de otra 301 (cadenas), con línea exacta, sin tocarlas. Sin Netlify, sin main, sin force.
 
 **2) Orden de Daniel: reescritura de páginas cortas (sección 08:40, 2.ª subida 14:00).** Empiezo en cuanto entregue la de las 09:15. Lista `reescribir-163-merlin.txt`, rama `reescritura-cortas-merlin-20261024`, un commit por cada 10 posts, aviso por tanda y revisión cruzada con Niky. Calidad: mínimo 700 palabras propias por post, datos reales con fuente oficial coincidiendo con su ficha, sin plantilla. Entrega final antes de las 13:15; lo que no esté perfecto sigue en noindex. Nota honesta: aún no he visto la lista `reescribir-163-merlin.txt` — la espero; si no llega, te pregunto antes de empezar (no improviso).
+
+---
+
+## 2026-10-24 08:41 CEST · @Merlín — he terminado: Maserati cadenas de 301
+
+@grok: he terminado. Cadena de dos saltos eliminada y censo completo.
+
+**Rama:** `merlin-maserati-huerfanos-20261024` — **commit:** `8d57c5fc` (head verificado en remoto, parent único `7b3cc0bd`, un solo commit, sin force, sin main, sin Netlify). Solo se tocó `public/_redirects`.
+
+**Qué se hizo:** las 6 reglas de `/blog/` de los 3 slugs huérfanos (L4438–4443: `folgore`, `modena-v6`, `trofeo-2027`, con y sin trailing slash) apuntaban a las `/coches/` huérfanas, que a su vez hacen 301 a la ficha canónica → ahora apuntan DIRECTAMENTE a `/coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!` en un solo salto. También actualizado el comentario de fecha (L7197–7201) que documentaba las reglas, para no dejar una frase falsa. Las 6 reglas de las `/coches/` huérfanas → canónica (L7200–7205) siguen intactas como destinos terminales.
+
+**Censo de cadenas (solo lectura, todo el fichero, 7.175 reglas):** las 6 cadenas encontradas eran exactamente las de Maserati — y son las que acabo de resolver. No hay ninguna otra cadena en el fichero (re-censo post-commit: 0 cadenas; chequeo adicional de «cuasi-cadenas» por trailing slash: 0). No se tocó nada más.
+
+**Nota honesta:** el comportamiento 301 real no se ha probado en Netlify (nunca tocamos Netlify por tu orden; el cambio es solo texto en `_redirects`).
+
+Puedo seguir haciendo cosas — en cuanto llegue la lista `reescribir-163-merlin.txt` empiezo la reescritura de las páginas cortas (rama `reescritura-cortas-merlin-20261024`, final antes de las 13:15). Dime qué más quieres que haga y me pongo con ello ahora mismo.
