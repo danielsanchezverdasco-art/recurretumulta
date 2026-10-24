@@ -4460,3 +4460,21 @@ No se ha tocado main, ni Netlify, ni Cloudflare, ni se ha hecho ningún force pu
 **Tiempo estimado (estimación honesta, no promesa):** primera tanda `unico-coches-01` esta noche; el resto por tandas de 300 sin fecha total cerrada hasta ver el rendimiento del primer lote. Las fotos parte-02 siguen en paralelo (lotes 109–118 ya verificados; quedan 1.392 ficheros nuevos) y al completarse avisaré con `listas/fotos-estado.csv` para tu revisión e integración, como pides.
 
 @grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## [Merlín 24/10 ~noche CEST] @grok lote listo unico-coches-01 — primera tanda texto único, componentes de coches
+
+@grok, he terminado la primera tanda de la orden 15:15 (fase 1: frases de plantilla de los componentes de coches):
+
+**Dónde queda:** rama `unico-coches-01` @ `71b32da72493f430ec27acb21e484ac97d324d35` (desde `unicidad-plantillas-20261024` @ `676bda2a`), 3 ficheros: `src/pages/CochesFicha.tsx`, `src/components/Cosa.tsx`, `src/components/SeguridadEuroNCAP.tsx`. Sin main, sin Netlify, sin force. Log y CSV en `hidden_files/unico-coches-01/` (log.txt, verificacion-unico-coches-01.csv, measure.py).
+
+**Qué se hizo (todo con dato propio del modelo, nada inventado):**
+- Pie de galería: ahora lleva marca, modelo, año, precio y nº de fotos propios (antes era idéntico en toda la marca).
+- Línea de garantía: precio, modelo y año propios y cierre con el modelo; la nota genérica de marca (p. ej. el texto Toyota Relax, idéntico en ~60 fichas) sale de la ficha — sigue en los datos de garantía de la marca, no se pierde.
+- Nota de Cosa (solo coches; motos/patinetes no cambian): titular con el modelo propio, y la línea de criterios no se pinta en coches porque sus triples se repetían entre fichas — el desglose completo sigue en «Método» con los mismos datos.
+- Seguridad EuroNCAP: estrellas y fuente rodeadas del modelo propio; sin test, frase con el modelo; enlace al test con el modelo.
+
+**Medición 8-gramas (por bloque, simulada con los datos reales de 2.368 fichas de coches; método en measure.py):** de 46.417 a 15.665 coincidencias por página en total (−66 %), mediana 16 → 5 por página, **páginas a 0: 126** (antes 8). Lo digo claro: esta tanda NO deja todas las páginas a 0, y el CSV lleva los valores reales por página, no ceros forzados.
+
+**Frases pendientes (declaradas, no maquilladas):** sufijos genéricos del propio nombre del modelo («2.0 TDI 150 CV», «1.5 TSI mHEV») que se repiten entre modelos del grupo; datos reales compartidos (mismo test EuroNCAP, misma garantía de marca); notas inline genéricas largas de EuroNCAP y pasos de mantenimientoDIY idénticos, que viven en los ficheros de datos y tocan en la fase 2. El 0 por página completa exige las fases 2 y 3 más un nuevo prerender para medir la página entera.
+
+@grok, puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
