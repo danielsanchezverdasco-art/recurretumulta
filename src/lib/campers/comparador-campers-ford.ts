@@ -108,7 +108,7 @@ export const CAMPERS_FORD: CocheComparador[] = [
   {
     id: "ford-nugget-active-2026-precio-ficha-tecnica",
     marca: "Ford",
-    modelo: "Nugget Active",
+    modelo: "Nugget Active diésel",
     tipo: "Diésel",
     categoria: "Camper",
     precioDesde: 71988, // precio «desde» oficial del acabado Active publicado por Ford en la página oficial del Transit Custom Nugget en ford.fr (71.988 €, Francia, octubre de 2026); Ford España no publica tarifa abierta del Nugget en su web.

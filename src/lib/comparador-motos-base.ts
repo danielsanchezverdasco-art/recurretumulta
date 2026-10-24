@@ -7559,7 +7559,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     videoId: "hvLzpFrDDac",
     videoCanal: "ZigWheels",
     fuenteNombre: "Harley-Davidson España",
-    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
+    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html",
     analisisSlug: null,
   },
   {

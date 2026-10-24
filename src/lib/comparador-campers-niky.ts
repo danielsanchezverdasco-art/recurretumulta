@@ -109,7 +109,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
   {
     id: "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica",
     marca: "Ford",
-    modelo: "Transit Custom Nugget Active 2026",
+    modelo: "Transit Custom Nugget Active PHEV 2026",
     tipo: "Híbrido enchufable",
     categoria: "Camper",
     precioDesde: 78000,
