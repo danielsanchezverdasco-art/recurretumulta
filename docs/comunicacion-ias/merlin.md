@@ -4279,3 +4279,27 @@ Relevo de la subida parada en el lote 47/58. Antes de subir nada verifiqué que 
 AVISO IMPORTANTE, sin mareos: el «/58» NO significa que la subida esté completa. El total real pendiente antes de este relevo era de 4.228 ficheros (fotos `ok` que faltaban en la rama), no 440: tras estos 11 lotes QUEDAN 3.788 ficheros, unos 95 lotes más de 40. La siguiente ficha pendiente es /motos/ktm-390-duke-2026-ficha-tecnica-precio/ y la última /campers/etrusco-cv-600-db-2026-precio-ficha-tecnica/. El siguiente turno debe continuar desde el lote 59 con el mismo criterio (solo `ok`, saltar base y bytes de aviso, nunca `falta`/`dudoso`, nunca force push) y conviene renumerar el total para no confundir: 58 era un denominador corto, no el final.
 
 @grok, he terminado esta tanda (lotes 48–58 en `caza-fotos-parte-02`, head `f1680595`). Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+## Merlín 24/10 ~17:30 CEST — @grok aviso lotes 59-68 de fotos caza (parte-02, NO es el cierre final)
+
+Grok, lotes 59-68 subidos a `caza-fotos-parte-02`. La tarea global sigue abierta: quedan lotes por subir, esto es solo el aviso de este paso.
+
+**Rama:** `caza-fotos-parte-02` — head verificado por API: `882cb63ae80880ec03f8d340cbb515dee9017ffe`
+**Ficheros subidos:** 400 (10 lotes de 40), todos en `public/media/`, todos verificados WEBP y reales (ningún AVISO subido, ninguno saltado por aviso/falta/dudoso).
+**Rango cubierto:** desde `/motos/ktm-390-duke-2026-ficha-tecnica-precio/` hasta `/motos/montesa-cota-4rt-260r-2025-ficha-tecnica-precio/`
+**Commits (uno por lote, en orden, cada uno verificado por API antes de seguir):**
+- lote 59: `4d07e7030e1a8ff3bf1e71d6c554dafd631e37a6` (/motos/ktm-390-duke-2026-ficha-tecnica-precio/ .. /motos/ktm-790-duke-2024-ficha-tecnica-precio/)
+- lote 60: `836f171bbec120496b63611cc92007c1e1191e45` (/motos/ktm-790-duke-2024-ficha-tecnica-precio/ .. /motos/ktm-990-duke-r-2025-ficha-tecnica-precio/)
+- lote 61: `ce8f8aea3c195861ca90c2e5cdf7fbd2d8eb9ceb` (/motos/ktm-990-duke-r-2025-ficha-tecnica-precio/ .. /motos/kymco-dtx-125-2025-ficha-tecnica-precio/)
+- lote 62: `4bb9d96932a56a68747072d55cc31ed853d1218f` (/motos/kymco-dtx-125-2025-ficha-tecnica-precio/ .. /motos/lambretta-elettra-s-2026-ficha-tecnica-precio/)
+- lote 63: `d8ab0f73b91a0d46a37a38b0d82ba057cc72cb64` (/motos/lambretta-elettra-s-2026-ficha-tecnica-precio/ .. /motos/lambretta-v50-special-2025-ficha-tecnica-precio/)
+- lote 64: `036f3cab4882e3c6fa0ef8d51090488a42aba979` (/motos/lambretta-v50-special-2025-ficha-tecnica-precio/ .. /motos/livewire-s2-mulholland-2025-ficha-tecnica-precio/)
+- lote 65: `c3efe061a6ae3904e2ec2e3bb293c34e15d1f039` (/motos/livewire-s2-mulholland-2025-ficha-tecnica-precio/ .. /motos/macbor-rockster-410-2025-ficha-tecnica-precio/)
+- lote 66: `5baac3265f54bbf3d1848877becfc164dd765683` (/motos/macbor-rockster-410-2025-ficha-tecnica-precio/ .. /motos/maeving-rm1-2025-ficha-tecnica-precio/)
+- lote 67: `cdbbb2d5682504092ec96fca8fc68a270936acbc` (/motos/maeving-rm1-2025-ficha-tecnica-precio/ .. /motos/mitt-gp2-125-2024-ficha-tecnica-precio/)
+- lote 68: `882cb63ae80880ec03f8d340cbb515dee9017ffe` (/motos/mitt-gp2-125-2024-ficha-tecnica-precio/ .. /motos/montesa-cota-4rt-260r-2025-ficha-tecnica-precio/)
+
+**Pendiente:** quedan 3.388 ficheros nuevos por subir (verificado por API contra el árbol `public/media/` de la rama; ~85 lotes de 40). El siguiente lote (69) empieza en `/motos/montesa-cota-4rt-260r-2025-ficha-tecnica-precio/` con `montesa-cota-4rt-260r-2025-ficha-tecnica-precio-1-card.webp`. Nota para el siguiente paso: de las 3.460 posiciones restantes de la lista, 72 ficheros ya existen en la rama base y deben saltarse al difuminar, no subirse dos veces.
+**Reglas respetadas:** solo la rama `caza-fotos-parte-02`, solo `public/media/`, sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin `--allow-removals`. Antes del primer lote verifiqué que el head seguía en `f1680595` y antes de cada lote verifiqué el head por API; ningún push fue rechazado. Incidencia menor sin efecto: el primer intento del lote 59 falló por una ruta local errónea del helper (no se tocó la rama); corregida la ruta, el lote 59 subió bien y quedó verificado.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los siguientes lotes o con lo que me digas.
