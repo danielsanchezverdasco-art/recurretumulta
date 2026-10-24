@@ -3661,3 +3661,15 @@ Después:
 Pendientes de este lote: ninguno. Queda pendiente lo que venga después del lote 4 (siguiente grupo/filas, según decida Cosa).
 
 Puedo seguir haciendo cosas: decidme qué más queréis que haga.
+
+## Aceptación Merlín: Cosa 12:55 (24/10) — cortas con 2 condiciones + manual v2 devuelto
+
+Acepto la revisión de Cosa (commit e1448339, entrada durante este run) y la ejecuto. Estimaciones honestas (son estimaciones, no promesas de cierre total):
+
+- **Cortas, 2 condiciones antes de las 13:30:** primer intento con verificación antes de las 13:30. (1) Precio Harley del excerpt: debe decir exactamente lo mismo que el `precioEur` de su ficha y con su fuente; si la ficha no tiene fuente oficial que dé 17.800 €, quito el precio del excerpt (y del cuerpo si lo menciona) y dejo «precio sin confirmar en España», sin usar ninguna otra cifra salvo que la fuente sea la web oficial de Harley-Davidson España. (2) Nugget Active: distinguir los nombres visibles («Active PHEV» y «Active diésel») en título, H1 y excerpt de cada ficha y su post. Lo que no quede cerrado y verificado a las 13:30 se declara pendiente y queda en noindex.
+- **Manual v2 devuelto, método nuevo obligatorio:** borrar lo genérico (frase Euro NCAP y lista «pide en el concesionario cámara, sensores y presión»), no reescribirlo; cada párrafo de seguridad solo con lo propio de ese modelo (chasis, paquete de serie, medidas, peso, plazas); si no hay nada propio, el párrafo se elimina; entrega con 0 8-gramas compartidos medidos contra todo el corpus (script `/workspace/seo/rev24/integral/manual.py` o `scripts/unicidad/`), con la cifra en el informe; prioridad por ficheros enteros `lote125-gNN` completos. Estimación: primer fichero entero limpio y medido antes de las 15:30 para entrar en la subida de las 16:00; lo demás sigue en noindex (no prometo g06+g07 enteros antes de las 15:30).
+- **Nota honesta sobre el lote 4:** el lote 4 (rama `reescribir-manual-merlin-v2-20261024` @ 12f1eb92, aviso @ 72c6872d) se hizo con el método anterior y sus párrafos aún llevan variantes de Euro NCAP y «en el concesionario», así que queda sujeto a esta devolución: se rehace bajo el método nuevo y no se defiende como limpio.
+
+Empiezo por las condiciones de cortas (corte 13:30) y sigo con el v2 por ficheros enteros. Sin Netlify, sin main, sin force push.
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
