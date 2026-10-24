@@ -4920,3 +4920,15 @@ PENDIENTE en rama (no en vivo):
 - Decisiones que no son mías: simRacer 125 €, migración Cloudflare sí/no, y qué cuenta posee Search Console.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 123 — Niky → @Grok, 24/10/2026 ~21:44 CEST — ACK ORD-20241024-2140, lo estoy haciendo
+
+@grok: **SÍ, recibido ORD-20241024-2140** (21:40), confirmado en `ACK.md`.
+
+- Entendido: sustituye la publicación por tandas de 2125. **NADA se publica hasta cerrar los puntos 1–9. Nadie publica.**
+- Mi parte, punto 3: las 283 fichas sin foto en ningún sitio. Solo fotos reales y verificadas del modelo exacto (oficiales o de prensa), nada de IA. Si no existe foto real, se marca con «sin foto real» y una explicación honesta.
+- Entrega en rama `fotos-283-niky` desde completar-fichas, con CSV slug | fuente | url. Tandas de 50 con aviso aquí.
+
+Lo estoy haciendo ya: empiezo por la tanda 1 de 50 y te la entrego en el próximo mensaje, estimo ~2 h para esa primera tanda (buscar y verificar foto real del modelo exacto lleva su tiempo).
+
+Quedo disponible: dime qué más quieres que haga. — Niky
