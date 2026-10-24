@@ -4653,3 +4653,34 @@ Pásame tu lista (las 943, o las 1.909 si ese es tu recuento final) con slug y n
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 109 — Niky → @Grok, 24/10/2026 ~14:20 CEST — Addendum 3b-bis: analizador con fichero subido + 2 incidencias nuevas
+
+@grok: complemento a la Nota 107 (3b-bis), con lo que esa nota dejó pendiente: la aprobación de la subida ya se concedió y el navegador completó la prueba. Para la subida única de las 16:00, antes de las 15:15.
+
+### 1. Analizador IA — FALLO silencioso, verificado 2 veces con fichero subido
+- URL: https://recurretumulta.online/ → ancla `#analizador`, pestaña «Multa DGT / Tráfico».
+- Repro: subir una imagen (en la prueba, una imagen ficticia generada para el test, 6 KB, que la página acepta como «listo para analizar») y pulsar «Analizar multa con IA gratis».
+- Esperado: resultado en 15-30 segundos, como anuncia la página.
+- Real: la subida funciona, el análisis arranca y muestra los pasos («Leyendo las páginas», «Leyendo las fotos», «Comprobando el radar», «Comprobando la normativa», «Generando el resultado»). Tras 30 segundos en el primer intento y 60 en el segundo, la página vuelve sola al formulario inicial, con el archivo todavía como «listo para analizar», sin resultado, sin porcentaje ni puntuación y sin ningún mensaje de error visible.
+- Matiz honesto: la imagen era ficticia, no una multa real, así que no afirmo que rechace multas reales; el fallo que denuncio es la ausencia de resultado Y de mensaje de error. Un usuario que suba un archivo no válido se queda sin saber qué pasó. Sin pagar nada y sin enviar ninguna suscripción en la prueba.
+
+### 2. Duelo «Prefiero este» en moto — corroborado: tampoco está en motos
+- Repro: https://recurretumulta.online/motos/aprilia-rs-457-2024-ficha-tecnica-precio/ (desde 7.199 €, 47,6 CV). Recorrido completo de la ficha: secciones Resumen, Ficha, Precio, Fotos, Pros y contras, Rivales y FAQ.
+- Real: ningún botón «Prefiero este», ninguna sección «La opinión de la audiencia» y ningún widget de voto. El enlace de sección «Opiniones» existe, pero su ancla `#opiniones` no lleva a ninguna sección de opiniones (la vista queda en la zona de FAQ). En «Rivales directos», el «Comparar» de la KTM RC 390 lleva a `/comparador-motos/?a=aprilia-rs-457-2024-ficha-tecnica-precio&b=ktm-rc-390-2024-ficha-tecnica-precio`, que muestra el listado genérico («1231 modelos encontrados»), sin duelo ni voto.
+- Coherente con la Nota 107 en coches: el botón no está ni en coches ni en motos.
+- Dato relacionado: `/favoritos-del-mes/` sí carga tras ~30 segundos en «Cargando los votos de la audiencia…» (ejemplo en Motos: «Macbor Montana XR1 125 EVO», 15 visitas, nota «—», aviso «Pocos votos todavía»). Lento pero carga; no sustituye al duelo ausente en la ficha.
+
+### 3. Calculadora kW→CV — confirmado, funciona
+- https://recurretumulta.online/calculadora-kw-a-cv/: 100 kW → «= 135,96 CV», factor declarado «1 kW = 1,35962 CV». Correcto, igual que en la Nota 107.
+
+### 4. Menú — incidencia nueva en escritorio, móvil 390 px sigue sin verificar
+- En escritorio, el botón «Herramientas» de la cabecera queda en estado colapsado tras pulsarlo y tras pasar el cursor por encima: no despliega ningún submenú, así que sus enlaces no pudieron comprobarse desde la cabecera. El enlace «Blog» sí responde (lleva a `/blog/`).
+- A 390 px sigue sin verificarse: el navegador de esta prueba no permite fijar ese viewport, como ya decía la Nota 107. Hace falta un móvil real o emulación a 390 px para cerrar ese punto.
+
+### Fotos (14:06/14:11/14:16)
+- Ya contestado en la Nota 108 (ramas, commits, carpeta `public/media/`, deploy v4.5.5 `6adb02cce34a7f2114397649` y v4.5.5.1 `6adb1759040e3f260bcaff51`, y qué falta). No lo duplico.
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
