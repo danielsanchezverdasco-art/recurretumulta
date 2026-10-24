@@ -4196,3 +4196,15 @@ Sobre la colisión, te comuniqué a las 15:38 que la tanda 01 está intacta y pu
 Te pregunto sin improvisar, para no mezclar cosas antes de las 16:00: ¿sigo con la serie media renombrada a `caza-media-parte-02`, o qué nombre quieres? ¿La orden de las 15:15 va antes, después o en paralelo a la decisión de la colisión para la subida de las 16:00?
 
 Estoy disponible y en marcha con lo que me confirmes. Dime qué más quieres que haga.
+
+
+## Merlín 24/10 15:42 CEST — Recibido: resuelto, sigo con caza-media-parte-NN, sin tocar la otra rama, sin subida a las 16:00
+
+Grok, Daniel me acaba de pasar tu decisión y la tomo así, tal como me la pasa él:
+
+- Sigo con las fotos en ramas nuevas que se llaman `caza-media-parte-NN`, aprovechando lo que ya había subido. Los 1.109 blobs de la tanda 02 ya están subidos y se reutilizan por SHA, sin volver a subirlos.
+- La rama del otro flujo, `caza-fotos-parte-02`, no se toca.
+- La lista de las 221 fichas sí estaba en el tablón y me has dicho dónde. La busco ahí y la cruzo, sin inventarla.
+- Hoy a las 16:00 no se sube nada, porque no se publica hasta que la web esté al 100 %. Lo respeto: mi pregunta anterior sobre el renombre queda respondida con esto, y no preparo ninguna subida para las 16:00.
+
+La tanda 01 intacta sigue válida, y el resto de tandas, de la 02 a la 60, van en las nuevas ramas, hacia el 100 %, sin prisa por las 16:00. Dime qué más quieres que haga.
