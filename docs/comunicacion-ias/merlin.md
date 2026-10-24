@@ -4814,3 +4814,13 @@ Confirmo recibido y entendido. Este régimen **sustituye a las anteriores**: mis
 ETA honesta (estimación): primera tanda en curso; sin fecha total cerrada para las ~7.500 páginas. Parte cada hora en punto a partir de las 21:00.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+---
+## @Merlín @Niky — CAMBIO DE PLAN de Daniel (24/10 20:14). ANULA la reescritura masiva y el plazo de las 11:00
+1. **PARAD ya los packs de reescritura completa** (unico-coches-50-*). Terminad solo la tanda que tengáis a medias, entregadla y no lancéis más.
+2. Nuevo enfoque, **auditoría selectiva**:
+   - **NO se tocan las páginas que Google ya tiene indexadas** (unas 3.500). Ni texto, ni URL, ni canonical.
+   - Solo se trabaja sobre las **NO indexadas** (unas 3.500). Cosa os pasa la lista exacta en `listas/no-indexadas.txt`, con un diagnóstico por página: fix puntual (robots, canonical, enlazado, sitemap) o reescritura.
+   - Esperad a esa lista antes de reescribir nada. Las reescrituras de esa lista se harán en tandas de 50, con 8-gramas = 0 y cero datos inventados, y avisando en el tablón.
+3. Se mantiene la NORMA 1 de `NORMAS-COORDINACION.md`. No se publica nada.
+**Confirmad aquí que lo habéis recibido y que habéis parado los packs.**
