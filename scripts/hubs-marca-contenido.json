@@ -1118,5 +1118,85 @@
   "intro": "Evercross organiza sus patinetes en series que se distinguen por la letra inicial, y esa letra ya adelanta el planteamiento. La serie H, con el H5, el H7 y el H9, forma una escalera de prestaciones dentro del mismo formato urbano. La serie EV, con el EV08E, el EV85F y el EV10K Pro, cubre modelos de acceso y de mayor capacidad, con el EV10K Pro como referencia alta de la serie. El A1 y el C3 completan la gama con propuestas propias fuera de las dos series principales. Al comparar las fichas conviene sopesar alcance y peso de cada modelo, porque dentro de Evercross conviven patinetes ligeros de trayecto corto con modelos de mayor alcance, y la letra de la serie ayuda a situar cada uno antes de mirar las cifras concretas. El EV10K Pro, como referencia alta de la serie EV, resume el salto de prestaciones dentro de Evercross.",
   "n": 9,
   "url": "/patinetes/marca/evercross/"
+ },
+ "patinetes/inmotion": {
+  "nombre": "Inmotion",
+  "title": "Inmotion: 9 patinetes, Air, Climber y RS",
+  "description": "9 fichas de patinetes eléctricos Inmotion: Air, Air Pro, Climber y RS, con autonomía y datos para comparar la gama de la marca.",
+  "intro": "Inmotion concentra su gama de patinetes en pocos modelos muy diferenciados, y eso facilita elegir sin perderse. El Air y el Air Pro forman la pareja urbana, con el segundo como variante más capaz en autonomía dentro del mismo formato ligero. El Climber sube el planteamiento hacia un patinete de mayores prestaciones para trayectos más exigentes, mientras el RS ocupa la parte alta como modelo de altas prestaciones, con una autonomía y una velocidad que lo sitúan en otra categoría frente a los Air. Las demás fichas siguen esa misma escalera, del urbano ligero al prestacional. Al comparar las fichas conviene valorar alcance y peso a la vez, porque en Inmotion el salto del Air al RS no es solo de precio: es de formato, de frenada y de tipo de trayecto para el que cada modelo está pensado. El RS, en lo alto de la gama, deja claro que Inmotion no solo hace patinetes urbanos ligeros.",
+  "n": 9,
+  "url": "/patinetes/marca/inmotion/"
+ },
+ "patinetes/isinwheel": {
+  "nombre": "iSinwheel",
+  "title": "iSinwheel: 9 patinetes, S9, S10 y GT",
+  "description": "9 fichas de patinetes eléctricos iSinwheel: S9Pro, S9Max, S10Pro, S10Plus, S10Max, GT1, GT2 y M2, con autonomía y datos.",
+  "intro": "iSinwheel ordena sus patinetes por series numeradas, y ese número marca el escalón dentro de la gama. La serie S9, con el S9Pro y el S9Max, cubre el acceso con autonomías contenidas para la ciudad. La serie S10 sube un peldaño con el S10Pro, el S10Plus y el S10Max, tres variantes que permiten afinar entre autonomía y equipamiento sin cambiar de serie. La serie GT cambia de registro con el GT1 y el GT2, modelos de mayores prestaciones dentro de la marca. El M2 completa la colección como propuesta propia fuera de las series principales. Al leer las fichas conviene comparar el alcance de cada variante, porque dentro de una misma serie la diferencia entre un Pro y un Max puede ser justo el dato que decide el modelo para un trayecto diario concreto. El M2, fuera de las series principales, aporta variedad a un catálogo ordenado por números y letras.",
+  "n": 9,
+  "url": "/patinetes/marca/isinwheel/"
+ },
+ "patinetes/nami": {
+  "nombre": "Nami",
+  "title": "Nami: 9 patinetes, Burn-E y Stellar",
+  "description": "9 fichas de patinetes eléctricos Nami: Burn-E 2, Burn-E 2 Max, Burn-E 2 Max Viper y Stellar, con autonomía y datos para comparar.",
+  "intro": "Nami se sitúa en el extremo prestacional del mundo del patinete, y sus modelos se reconocen por autonomías muy por encima de la media urbana. El Burn-E 2 y el Burn-E 2 Max forman la referencia de la marca, con el Burn-E 2 Max Viper como variante de carácter más radical dentro de la misma familia. El Stellar aporta un planteamiento distinto, más contenido y urbano, frente al carácter extremo de los Burn-E. Las demás fichas mantienen esa misma filosofía: patinetes de gran batería y altas prestaciones para usuarios que recorren distancias largas. Al comparar las fichas de Nami conviene valorar alcance, peso y potencia a la vez, porque son máquinas que exigen valorar el trayecto real y la experiencia del usuario antes de elegir entre un Stellar y un Burn-E. El Stellar, frente a los Burn-E, demuestra que Nami también tiene un registro más contenido y urbano. El Burn-E 2 Max Viper, como variante radical, marca el carácter extremo que define a la familia Burn-E.",
+  "n": 9,
+  "url": "/patinetes/marca/nami/"
+ },
+ "patinetes/turboant": {
+  "nombre": "TurboAnt",
+  "title": "TurboAnt: 9 patinetes, M10, X7, V8 y R9",
+  "description": "9 fichas de patinetes eléctricos TurboAnt: M10, M10 Lite, M10 Pro, X7 Pro, X7 Max, V8 y R9, con autonomía y datos para comparar.",
+  "intro": "TurboAnt organiza su gama en familias de letras que anticipan formato y público. La familia M10 es la más amplia, con el M10, el M10 Lite y el M10 Pro, tres escalones de autonomía y equipamiento dentro del mismo modelo urbano. La familia X7, con el X7 Pro y el X7 Max, sube hacia modelos de mayor alcance para trayectos más largos. El V8 y el R9 completan la colección con propuestas propias, el primero de carácter más prestacional y el segundo como opción urbana diferenciada. El resto de la gama sigue esa misma lógica de familias y variantes. Al comparar las fichas conviene revisar el alcance de cada variante, porque en TurboAnt la diferencia entre un Lite y un Pro puede decidir si el patinete sirve para el trayecto diario completo o solo para una parte de él. El R9, como opción urbana diferenciada, completa una gama organizada en familias claras y variantes escalonadas.",
+  "n": 9,
+  "url": "/patinetes/marca/turboant/"
+ },
+ "coches/dfsk": {
+  "nombre": "DFSK",
+  "title": "DFSK: 8 fichas, Glory, Seres, E5 y F5",
+  "description": "8 fichas técnicas de coches DFSK: Glory 580, Seres 3, Seres 5, E5, F5, 500 y 600, con datos y versiones para comparar.",
+  "intro": "DFSK reúne bajo sus siglas modelos de varias líneas, y esta colección los ordena para compararlos sin confundir nombres. El Glory 580 representa el SUV familiar de la marca, mientras el Seres 3 y el Seres 5 aportan la vertiente eléctrica con dos tamaños distintos. El E5 y el E5 Plus forman la pareja de SUV híbridos y eléctricos de planteamiento más reciente, y el F5 completa la oferta SUV con un formato propio. El 500 y el 600 cierran la gama por abajo y por el lado más urbano. La convivencia de Glory, Seres y E5 dentro de unas mismas siglas puede despistar, así que cada ficha hay que ubicarla en su línea: un Seres y un Glory comparten grupo pero no formato ni tipo de propulsión, y esa diferencia es la que define para qué usuario sirve cada modelo. El 600, en la parte baja de la colección, cierra una gama donde conviven SUV familiares, eléctricos y pick-ups ligeros.",
+  "n": 8,
+  "url": "/coches/marca/dfsk/"
+ },
+ "coches/li-auto": {
+  "nombre": "Li Auto",
+  "title": "Li Auto: 8 fichas, L6, L7, L8, L9 y MEGA",
+  "description": "8 fichas técnicas de coches Li Auto: L6, L7, L8, L9, i6, i8, i9 y MEGA, con datos y versiones para comparar la gama.",
+  "intro": "En Li Auto, la letra inicial de cada modelo señala propulsión y formato a la vez. La familia L, con el L6, el L7, el L8 y el L9, forma una escalera de SUV de autonomía extendida, del más compacto al más grande, con un sistema de nomenclatura que facilita comparar tamaños de un vistazo. La familia i, con el i6, el i8 y el i9, representa la vertiente eléctrica pura de la marca, con tres tamaños dentro del mismo planteamiento. El MEGA completa la colección como monovolumen eléctrico de carácter propio, fuera de ambas líneas. Al revisar las fichas conviene atender a la letra inicial de cada modelo, porque dentro de Li Auto la L y la i no son un capricho: señalan dos formas distintas de entender la autonomía y los viajes largos. El MEGA, como monovolumen eléctrico, es el modelo que más se aparta de las familias L e i de Li Auto.",
+  "n": 8,
+  "url": "/coches/marca/li-auto/"
+ },
+ "coches/livan": {
+  "nombre": "Livan",
+  "title": "Livan: 8 fichas, Maple, X3, X6 y S6",
+  "description": "8 fichas técnicas de coches Livan: Maple 60S, Maple 80V, 7, 8, 9, X3 Pro, X6 Pro y S6 Pro, con datos para comparar.",
+  "intro": "Livan combina modelos numerados y la familia Maple, y esa mezcla es la mejor guía para entender su gama. Los modelos 7, 8 y 9 forman una escalera numerada de SUV y monovolúmenes, con el 9 como referencia de mayor tamaño. La familia Maple, con el Maple 60S y el Maple 80V, aporta la vertiente eléctrica e intercambiable de la marca, pensada para un uso urbano y profesional distinto. El X3 Pro y el X6 Pro completan la oferta SUV por abajo y por el centro, mientras el S6 Pro cierra la colección como propuesta propia. Al comparar las fichas conviene separar los numerados de los Maple, porque pertenecen a planteamientos distintos dentro de la misma marca: unos apuestan por el formato familiar tradicional y otros por la movilidad eléctrica urbana. El S6 Pro, como propuesta propia, cierra una colección donde conviven modelos numerados, la familia Maple y SUV compactos de planteamiento distinto.",
+  "n": 8,
+  "url": "/coches/marca/livan/"
+ },
+ "coches/nevo": {
+  "nombre": "Nevo",
+  "title": "Nevo: 8 fichas, A07, Q05, Q07 y E07",
+  "description": "8 fichas técnicas de coches Nevo: A07, A05, A06, Q05, Q06, Q07, E07 y C390, con datos y versiones para comparar la gama.",
+  "intro": "Nevo ordena su gama con letras que señalan el formato, y esa inicial es la mejor guía para comparar. La familia A, con el A05, el A06 y el A07, cubre las berlinas de distintos tamaños dentro de la marca. La familia Q, con el Q05, el Q06 y el Q07, traslada la oferta al mundo SUV, con tres tamaños para tres públicos. El E07 aporta un formato propio a medio camino entre SUV y pick-up, mientras el C390 completa la colección como modelo singular. Al leer las fichas conviene mirar la letra antes que el número, porque un A07 y un Q07 comparten cifra pero no formato: una es berlina y otro es SUV, y esa diferencia define el uso diario mucho más que el equipamiento o la potencia de cada versión. El C390, como modelo singular, completa una gama ordenada por letras donde cada inicial señala un formato.",
+  "n": 8,
+  "url": "/coches/marca/nevo/"
+ },
+ "coches/stelato": {
+  "nombre": "Stelato",
+  "title": "Stelato: 8 fichas, S9, S9T y G9",
+  "description": "8 fichas técnicas de coches Stelato: S9, S9 EREV, S9T, S9T EREV, G9 y G9 EREV, con datos y versiones para comparar la gama.",
+  "intro": "Stelato concentra su gama en tres nombres con variantes de propulsión, y por eso conviene leer cada ficha con atención a los apellidos. El S9 es el modelo central, con el S9, el S9 EREV y las versiones de distintos años, además del S9T y el S9T EREV como variantes de carrocería familiar. El G9, con el G9 y el G9 EREV, completa la colección como SUV grande de la marca. La sigla EREV es la clave de lectura: indica autonomía extendida y cambia la forma de plantear los viajes largos frente a las versiones eléctricas puras. Comparar un S9 con un S9T o un G9 con su variante EREV permite ver que, dentro de Stelato, la diferencia importante no siempre está en el tamaño, sino en la carrocería y en el sistema de propulsión de cada versión. El G9 EREV, con autonomía extendida, muestra que Stelato aplica la misma receta de propulsión a sus dos carrocerías principales.",
+  "n": 8,
+  "url": "/coches/marca/stelato/"
+ },
+ "coches/wey": {
+  "nombre": "Wey",
+  "title": "Wey: 8 fichas, 03, 05, 07 y Gaoshan",
+  "description": "8 fichas técnicas de coches Wey: 03, 05, 07, Gaoshan 7, Gaoshan 8, Gaoshan 9, V8X y V9X, con datos para comparar la gama.",
+  "intro": "Wey combina modelos numerados y la familia Gaoshan, y esa doble vía es la pauta para entender su gama. Los numerados, con el 03, el 05 y el 07, forman una escalera de SUV de distintos tamaños, del compacto al grande. La familia Gaoshan, con el Gaoshan 7, el Gaoshan 8 y el Gaoshan 9, cubre el formato monovolumen de lujo para familias y uso con chófer. El V8X y el V9X completan la colección como modelos de altas prestaciones dentro de la marca. Al comparar las fichas conviene separar primero los numerados de los Gaoshan, porque un 07 y un Gaoshan 8 pueden compartir tamaño aproximado y tener públicos opuestos: uno busca SUV familiar y otro monovolumen de representación, dos usos que las fichas distinguen con claridad. El V9X, en lo alto prestacional, cierra una gama donde conviven SUV numerados y monovolúmenes Gaoshan. El Gaoshan 9, en lo alto de la familia Gaoshan, cierra la oferta de monovolúmenes de Wey por tamaño.",
+  "n": 8,
+  "url": "/coches/marca/wey/"
  }
 }
