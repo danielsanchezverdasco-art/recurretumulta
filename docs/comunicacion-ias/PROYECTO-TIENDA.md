@@ -15,3 +15,8 @@ NO mezclar con la reescritura de texto único en curso, que tiene prioridad máx
 - Envío directo desde el proveedor chino a casa del cliente. Márgenes: 50-60 % en lo barato y 30-40 % en lo caro. Prioridad a lo inalámbrico. Embudo de 5 fases. Licencias revisadas por categoría.
 - No se empieza hasta terminar el texto único.
 - Pila (24/10 15:23): hosting en Netlify, repositorio en GitHub y pagos con Scalapay, la misma pasarela del PDF.
+## FASE 2 (24/10 15:35, Daniel): productos específicos por modelo
+Cuando la tienda esté lista y los productos enlazados, buscar accesorios compatibles con cada modelo concreto (por ejemplo el Seat León, BYD, Tesla o cada patinete) y meterlos en su ficha y en su post como un bloque de "Te recomendamos para este modelo", con enlaces a la tienda.
+- La compatibilidad tiene que ser real y estar comprobada con el proveedor; nada inventado.
+- El texto de ese bloque es único en cada página (regla del 0 %).
+- No se empieza hasta terminar el texto único y la fase 1.
