@@ -25,7 +25,7 @@ export const EBRO_ADAS_POSTS: BlogPost[] = [
 
 Si conduces un coche nuevo, conoces el ritual: arrancas, sales del garaje y empieza el concierto. Pitido del aviso de velocidad, vibración del mantenimiento de carril, alertas que no pediste... y tú, uno por uno, desactivando menús antes de salir a la carretera. La culpa no es del coche: la **normativa europea obliga a que buena parte de los ADAS se reactiven en cada arranque**. El **Ebro s800 PHEV MY2027** ha decidido plantarle cara con **perfiles personales**: configuras una vez qué ayudas quieres y cómo, y el coche lo recuerda.
 
-<a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ver ficha técnica del Ebro S800</a>
+<a href=/coches/ebro-s800-phev-precio-ficha-tecnica/>Ficha técnica del Ebro S800</a>
 
 ## El problema: la UE te los enciende cada mañana
 

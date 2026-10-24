@@ -24,7 +24,7 @@ export const LAMBORGHINI_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/lamborghini-revuelto-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Revuelto naranja en carretera de montaña al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Ver ficha técnica del Lamborghini Revuelto</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Ficha técnica del Lamborghini Revuelto</a>.
 
 El **Lamborghini Revuelto** es el sucesor del Aventador y el primer HPEV (híbrido de altas prestaciones) de Sant'Agata Bolognese: un V12 atmosférico de 6,5 litros apoyado por tres motores eléctricos que suman **1.015 CV** combinados. En España parte de **573.327 €** según <a href=https://www.actualidadmotor.com/coches/lamborghini/lamborghini-revuelto/>actualidadmotor</a> y <a href=https://www.quadis.es/precios/lamborghini/revuelto/466406>Quadis</a>. Acelera de 0 a 100 km/h en 2,5 segundos y supera los 350 km/h.
 
@@ -44,7 +44,7 @@ El **Lamborghini Revuelto** es el sucesor del Aventador y el primer HPEV (híbri
 | **Largo / ancho / alto** | 4.947 / 2.033 / 1.160 mm |
 | **Peso** | 1.772 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Ficha técnica completa del Revuelto</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-revuelto-2024-precio-ficha-tecnica/>Ficha técnica completa del Revuelto</a> con pros, contras, costes mensuales y galería.
 
 ## El V12 se niega a morir
 
@@ -112,7 +112,7 @@ Si te ha llegado una multa con tu superdeportivo, <a href=https://recurretumulta
     ],
     "content": `<img src=/media/lamborghini-temerario-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Temerario verde Mantis en circuito al amanecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Ver ficha técnica del Lamborghini Temerario</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Ficha técnica del Lamborghini Temerario</a>.
 
 El **Lamborghini Temerario** es el sucesor del Huracán y el segundo HPEV de la marca: un V8 biturbo de 4,0 litros completamente nuevo que gira hasta **10.000 rpm**, apoyado por tres motores eléctricos para sumar **920 CV**. En España parte de **350.782 €** (<a href=https://www.coches.net/s/lamborghini/temerario/>coches.net</a>, <a href=https://www.quecochemecompro.com/precios/lamborghini-temerario/>quecochemecompro</a>). Hace el 0-100 km/h en 2,7 segundos y alcanza 343 km/h.
 
@@ -133,7 +133,7 @@ El **Lamborghini Temerario** es el sucesor del Huracán y el segundo HPEV de la 
 | **Maletero** | 112 litros |
 | **Peso** | 1.690 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Ficha técnica completa del Temerario</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Ficha técnica completa del Temerario</a> con pros, contras, costes mensuales y galería.
 
 ## Adiós al V10, hola a las 10.000 rpm
 
@@ -201,7 +201,7 @@ Si te ha llegado una multa con tu Temerario, <a href=https://recurretumulta.onli
     ],
     "content": `<img src=/media/lamborghini-urus-se-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE negro en carretera de costa al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Ver ficha técnica del Lamborghini Urus SE</a>: precio, potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Ficha técnica del Lamborghini Urus SE</a>.
 
 El **Lamborghini Urus SE** es el primer híbrido enchufable de la marca y el Urus más potente hasta la fecha: un V8 biturbo de 4,0 litros más un motor eléctrico que suman **800 CV** y 950 Nm. En España parte de **265.895 €** (<a href=https://www.quadis.es/precios/lamborghini/urus/197711>Quadis</a>). Acelera de 0 a 100 km/h en 3,4 segundos, alcanza 312 km/h y recorre **60 km en modo 100 % eléctrico**.
 
@@ -221,7 +221,7 @@ El **Lamborghini Urus SE** es el primer híbrido enchufable de la marca y el Uru
 | **Maletero** | 454 litros |
 | **Peso** | 2.505 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus SE</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-urus-se-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus SE</a> con pros, contras, costes mensuales y galería.
 
 ## El Super SUV se enchufa
 
@@ -288,7 +288,7 @@ Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#a
     ],
     "content": `<img src=/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus Performante azul en carretera de montaña al amanecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Ver ficha técnica del Urus Performante</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Ficha técnica del Urus Performante</a>.
 
 El **Lamborghini Urus Performante** fue la versión más radical del Super SUV con motor de gasolina puro: **666 CV**, 850 Nm, 47 kg menos que el Urus S y un modo Rally inédito. En España costaba **296.596 €** según <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/performante/urus-performante/datos>km77</a>. Su producción terminó con la llegada del Urus SE híbrido: hoy solo existe de ocasión o stock.
 
@@ -307,7 +307,7 @@ El **Lamborghini Urus Performante** fue la versión más radical del Super SUV c
 | **Maletero** | 616 litros |
 | **Peso** | 2.225 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus Performante</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-urus-performante-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus Performante</a> con pros, contras, costes mensuales y galería.
 
 ## Récord en Pikes Peak y modo Rally
 
@@ -374,7 +374,7 @@ Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#a
     ],
     "content": `<img src=/media/lamborghini-urus-s-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus S rojo Rosso Mars en carretera de costa al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>Ver ficha técnica del Lamborghini Urus S</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>Ficha técnica del Lamborghini Urus S</a>.
 
 El **Lamborghini Urus S** era la versión de acceso a los 666 CV: el mismo V8 biturbo del Performante con un enfoque más confortable y un precio de **265.443 €** en España (<a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>km77</a>). Como toda la gama de gasolina, dejó de fabricarse con la llegada del Urus SE híbrido enchufable.
 
@@ -394,7 +394,7 @@ El **Lamborghini Urus S** era la versión de acceso a los 666 CV: el mismo V8 bi
 | **Maletero** | 616 litros |
 | **Peso** | 2.272 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus S</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-urus-s-2024-precio-ficha-tecnica/>Ficha técnica completa del Urus S</a> con pros, contras, costes mensuales y galería.
 
 ## El Urus equilibrado
 
@@ -495,7 +495,7 @@ Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#a
     ],
     "content": `<img src=/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Tecnica verde en puerto de montaña al amanecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán Tecnica</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Ficha técnica del Huracán Tecnica</a>.
 
 El **Lamborghini Huracán Tecnica** fue el canto del cisne del V10 atmosférico con tracción trasera: **640 CV**, eje trasero direccional y el chasis más afilado sin llegar al extremismo del STO. Costaba **262.042 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/coupe/tecnica/huracan-tecnica/datos>km77</a>). La producción terminó en agosto de 2024.
 
@@ -516,7 +516,7 @@ El **Lamborghini Huracán Tecnica** fue el canto del cisne del V10 atmosférico 
 | **Maletero** | 100 litros |
 | **Peso** | 1.379 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán Tecnica</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán Tecnica</a> con pros, contras, costes mensuales y galería.
 
 ## El Huracán más puro sin ser un STO
 
@@ -583,7 +583,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán STO azul Blu Laufey en circuito al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán STO</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Ficha técnica del Huracán STO</a>.
 
 El **Lamborghini Huracán STO** (Super Trofeo Omologata) es un coche de carreras matriculable: la tecnología del Super Trofeo EVO y del GT3 EVO llevada a la calle. **640 CV**, solo **1.339 kg** y el 75 % de la carrocería en fibra de carbono. Costaba **338.577 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/coupe/sto/huracan-sto/datos>km77</a>): el Huracán más caro de la historia.
 
@@ -602,7 +602,7 @@ El **Lamborghini Huracán STO** (Super Trofeo Omologata) es un coche de carreras
 | **Maletero** | 38 litros |
 | **Peso** | 1.339 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán STO</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-sto-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán STO</a> con pros, contras, costes mensuales y galería.
 
 ## Un Super Trofeo con matrícula
 
@@ -669,7 +669,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO Spyder amarillo en carretera de costa al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO Spyder</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica/>Ficha técnica del Huracán EVO Spyder</a>.
 
 El **Lamborghini Huracán EVO Spyder** es el descapotable de la gama: **640 CV** de V10 atmosférico a cielo abierto, capota de lona que se pliega en 17 segundos (hasta a 50 km/h) y las mismas prestaciones del coupé. Costaba **274.805 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>km77</a>). La producción terminó en agosto de 2024.
 
@@ -689,7 +689,7 @@ El **Lamborghini Huracán EVO Spyder** es el descapotable de la gama: **640 CV**
 | **Maletero** | 100 litros |
 | **Peso** | 1.542 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO Spyder</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO Spyder</a> con pros, contras, costes mensuales y galería.
 
 ## El V10 se escucha mejor sin techo
 
@@ -755,7 +755,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-2024-precio-ficha-tecnica/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO naranja en carretera de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ficha técnica del Huracán EVO</a>.
 
 El **Lamborghini Huracán EVO** es el coupé de acceso a la gama final del Huracán: **639 CV** de V10 atmosférico, tracción total con eje trasero direccional y el sistema LDVI que lo convierte en un coche distinto en cada modo. Costaba **249.826 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>km77</a>). La producción terminó en 2024.
 
@@ -774,7 +774,7 @@ El **Lamborghini Huracán EVO** es el coupé de acceso a la gama final del Hurac
 | **Largo / ancho / alto** | 4.520 / 1.933 / 1.165 mm |
 | **Maletero** | 100 litros |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-evo-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO</a> con pros, contras, costes mensuales y galería.
 
 ## El equilibrio de la gama Huracán
 
@@ -782,7 +782,7 @@ El EVO es el punto dulce: más barato que el STO y el Tecnica, pero con 639 CV y
 
 <img src=/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-oficial.webp alt=Lamborghini Huracán EVO, vista lateral en estudio>
 
-El V10 sube hasta las 8.500 rpm con un sonido que ya es historia: el relevo, el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, usa un V8 biturbo híbrido. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>).
+El V10 sube hasta las 8.500 rpm con un sonido que ya es historia: el relevo, el <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Temerario</a>, usa un V8 biturbo híbrido.
 
 ## Versiones y precios del Huracán EVO
 
@@ -887,7 +887,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-interior-oficial.webp alt=Lamborghini Huracán EVO RWD azul en carretera secundaria>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán EVO RWD</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ficha técnica del Huracán EVO RWD</a>.
 
 El **Lamborghini Huracán EVO RWD** es la versión purista: **610 CV** enviados solo al eje trasero, sin el eje delantero motriz. Costaba **216.444 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>km77</a>), el Huracán más barato de la gama final.
 
@@ -906,7 +906,7 @@ El **Lamborghini Huracán EVO RWD** es la versión purista: **610 CV** enviados 
 | **Largo / ancho / alto** | 4.520 / 1.933 / 1.165 mm |
 | **Maletero** | 100 litros |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO RWD</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán EVO RWD</a> con pros, contras, costes mensuales y galería.
 
 ## El Huracán para puristas
 
@@ -914,7 +914,7 @@ Sin el diferencial delantero, el RWD es más ligero y mucho más juguetón: el m
 
 <img src=/media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-oficial.webp alt=Lamborghini Huracán EVO RWD, vista lateral en estudio>
 
-Con 3,3 s de 0-100 sigue siendo rapidísimo, y el V10 a 8.500 rpm suena igual de glorioso. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara superdeportivos por presupuesto</a>.
+Con 3,3 s de 0-100 sigue siendo rapidísimo, y el V10 a 8.500 rpm suena igual de glorioso. <a href=/mejor-coche-por-presupuesto/>Compara superdeportivos por presupuesto</a>.
 
 ## Pros y contras
 
@@ -1002,7 +1002,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán EVO RWD Spyder descapotado en costa>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ver ficha técnica del EVO RWD Spyder</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ficha técnica del EVO RWD Spyder</a>.
 
 El **Lamborghini Huracán EVO RWD Spyder** combina lo mejor de dos mundos: el V10 atmosférico a cielo abierto y la tracción trasera purista. Costaba **238.700 €** en España (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>km77</a>).
 
@@ -1020,7 +1020,7 @@ El **Lamborghini Huracán EVO RWD Spyder** combina lo mejor de dos mundos: el V1
 | **Etiqueta DGT** | C |
 | **Largo / ancho / alto** | 4.520 / 1.933 / 1.180 mm |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ficha técnica completa del EVO RWD Spyder</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica/>Ficha técnica completa del EVO RWD Spyder</a> con pros, contras, costes mensuales y galería.
 
 ## El descapotable para puristas
 
@@ -1028,7 +1028,7 @@ La capota de lona se pliega en 17 segundos (hasta a 50 km/h) y la luneta trasera
 
 <img src=/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-oficial.webp alt=Lamborghini Huracán EVO RWD Spyder, vista lateral en estudio>
 
-En vídeo: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba del Huracán EVO RWD Spyder (coches.net)</a>. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara descapotables por presupuesto</a>.
+En vídeo: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba del Huracán EVO RWD Spyder (coches.net)</a>. <a href=/mejor-coche-por-presupuesto/>Compara descapotables por presupuesto</a>.
 
 ## Pros y contras
 
@@ -1118,7 +1118,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/lamborghini-urus-se-performante-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Urus SE Performante en carretera de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ver ficha técnica del Urus SE Performante</a>: potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ficha técnica del Urus SE Performante</a>.
 
 El **Lamborghini Urus SE Performante**, presentado el 4 de julio de 2026, es el Urus más potente de la historia: **812 CV** combinados de un V8 biturbo híbrido enchufable, con **más de 60 km de autonomía eléctrica** y etiqueta **Cero**. El precio aún no ha sido anunciado.
 
@@ -1137,7 +1137,7 @@ El **Lamborghini Urus SE Performante**, presentado el 4 de julio de 2026, es el 
 | **Etiqueta DGT** | Cero |
 | **Peso** | 2.473 kg |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ficha técnica completa del Urus SE Performante</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-urus-se-performante-2026-precio-ficha-tecnica/>Ficha técnica completa del Urus SE Performante</a> con pros, contras, costes mensuales y galería.
 
 ## El Urus definitivo
 
@@ -1229,7 +1229,7 @@ Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#a
     ],
     "content": `<img src=/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán STJ en circuito al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-stj-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán STJ</a>: potencia y detalles. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-stj-2024-precio-ficha-tecnica/>Ficha técnica del Huracán STJ</a>.
 
 El **Lamborghini Huracán STJ** es el punto final de la saga Huracán: **10 unidades** numeradas, basadas en el STO, con **640 CV** del V10 atmosférico y un paquete aerodinámico específico de fibra de carbono. Agotado desde su presentación.
 
@@ -1246,7 +1246,7 @@ El **Lamborghini Huracán STJ** es el punto final de la saga Huracán: **10 unid
 | **Etiqueta DGT** | C |
 | **Plazas** | 2 |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-stj-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán STJ</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-stj-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán STJ</a> con pros, contras, costes mensuales y galería.
 
 ## Homenaje al Super Trofeo
 
@@ -1254,7 +1254,7 @@ Las siglas STJ rinden tributo al campeonato monomarca Super Trofeo. Sobre la bas
 
 <img src=/media/lamborghini-huracan-stj-2024-precio-ficha-tecnica-oficial.webp alt=Lamborghini Huracán STJ, vista lateral en estudio>
 
-Con solo 10 unidades, su valor de reventa está blindado: es una pieza de museo con matrícula. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>).
+Con solo 10 unidades, su valor de reventa está blindado: es una pieza de museo con matrícula.
 
 ## Pros y contras
 
@@ -1342,7 +1342,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Huracán Sterrato derrapando en pista de tierra>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ver ficha técnica del Huracán Sterrato</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ficha técnica del Huracán Sterrato</a>.
 
 El **Lamborghini Huracán Sterrato** es el superdeportivo para lo marrón: suspensión elevada, protecciones de bajos, faros LED adicionales y neumáticos de tacos. Costaba **299.515 €** (<a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>km77</a>) y se limitaron a **1.499 unidades**.
 
@@ -1360,7 +1360,7 @@ El **Lamborghini Huracán Sterrato** es el superdeportivo para lo marrón: suspe
 | **Peso** | 1.470 kg |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán Sterrato</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica/>Ficha técnica completa del Huracán Sterrato</a> con pros, contras, costes mensuales y galería.
 
 ## Un Huracán para la tierra
 
@@ -1368,7 +1368,7 @@ La idea parecía una locura y funcionó: el Sterrato mantiene el V10 de 610 CV p
 
 <img src=/media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-oficial.webp alt=Lamborghini Huracán Sterrato, vista lateral en estudio>
 
-Es el Huracán más singular y uno de los más cotizados de ocasión. Lleva etiqueta **C** (<a href=https://www.cupra.com/es-es/hibridos-y-electricos/etiquetas-dgt>criterios de la DGT</a>). <a href=/mejor-coche-por-presupuesto/>Compara superdeportivos por presupuesto</a>.
+Es el Huracán más singular y uno de los más cotizados de ocasión. <a href=/mejor-coche-por-presupuesto/>Compara superdeportivos por presupuesto</a>.
 
 ## Pros y contras
 
@@ -1458,7 +1458,7 @@ Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.onlin
     ],
     "content": `<img src=/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-hero.webp alt=Lamborghini Countach LPI 800-4 blanco en carretera italiana>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica/>Ver ficha técnica del Countach LPI 800-4</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica/>Ficha técnica del Countach LPI 800-4</a>.
 
 El **Lamborghini Countach LPI 800-4** revive el mito: **814 CV** de V12 6.5 con hibridación ligera de 48 V (supercondensador), **112 unidades** y 355 km/h. Su precio rondó los **2,4 millones de euros** (aprox.).
 
@@ -1478,7 +1478,7 @@ El **Lamborghini Countach LPI 800-4** revive el mito: **814 CV** de V12 6.5 con 
 | **Etiqueta DGT** | ECO |
 | **Largo / ancho / alto** | 4.870 / 2.099 / 1.139 mm |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica/>Ficha técnica completa del Countach LPI 800-4</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica/>Ficha técnica completa del Countach LPI 800-4</a> con pros, contras, costes mensuales y galería.
 
 ## El homenaje definitivo
 
@@ -1575,7 +1575,7 @@ Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.on
     ],
     "content": `<img src=/media/fotos-reales/lamborghini-fenomeno-2025-precio-ficha-tecnica/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno negro en circuito nocturno>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ver ficha técnica del Fenomeno</a>: precio, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ficha técnica del Fenomeno</a>.
 
 El **Lamborghini Fenomeno**, presentado el 16 de agosto de 2025, es el Lamborghini más potente de la historia: **1.080 CV** combinados de un V12 6.5 atmosférico (835 CV) y tres motores eléctricos. Solo **29 unidades**, a unos **3 millones de euros** (aprox.).
 
@@ -1594,7 +1594,7 @@ El **Lamborghini Fenomeno**, presentado el 16 de agosto de 2025, es el Lamborghi
 | **Peso** | 1.771 kg |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ficha técnica completa del Fenomeno</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-fenomeno-2025-precio-ficha-tecnica/>Ficha técnica completa del Fenomeno</a> con pros, contras, costes mensuales y galería.
 
 ## La cima de Sant'Agata
 
@@ -1693,7 +1693,7 @@ Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.on
     ],
     "content": `<img src=/media/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica-hero.webp alt=Lamborghini Fenomeno Roadster descapotado en costa italiana>
 
-**¿Buscas solo los datos?** <a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Ver ficha técnica del Fenomeno Roadster</a>: potencia y detalles. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Ficha técnica del Fenomeno Roadster</a>.
 
 El **Lamborghini Fenomeno Roadster**, presentado en mayo de 2026, es el Lamborghini más exclusivo jamás fabricado: **15 unidades** con los **1.080 CV** híbridos del Fenomeno coupé, pero a cielo abierto. Precio no anunciado (se rumorean unos 7 M$).
 
@@ -1710,7 +1710,7 @@ El **Lamborghini Fenomeno Roadster**, presentado en mayo de 2026, es el Lamborgh
 | **Etiqueta DGT** | ECO |
 | **Plazas** | 2 |
 
-¿Quieres el detalle completo? <a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Ficha técnica completa del Fenomeno Roadster</a> con pros, contras, costes mensuales y galería.
+<a href=/coches/lamborghini-fenomeno-roadster-2026-precio-ficha-tecnica/>Ficha técnica completa del Fenomeno Roadster</a> con pros, contras, costes mensuales y galería.
 
 ## 15 unidades para la historia
 

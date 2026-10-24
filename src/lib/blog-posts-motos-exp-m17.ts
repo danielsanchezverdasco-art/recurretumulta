@@ -75,9 +75,7 @@ Si valoras la frenada y la suspensión, sí: el sobreprecio se amortiza solo con
 
 *Fuentes:*
 - <a href=http://moteo.es/kawasaki-z900-2025-ficha-tecnica-precio-y-fotos/>Moteo — Kawasaki Z900 2025: ficha técnica, precio y fotos</a>
-- <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z900-se/>Motorbikemag — ficha técnica Kawasaki Z900 SE</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z900-se/>Motorbikemag — ficha técnica Kawasaki Z900 SE</a>`,
   },
   {
     title: "Kawasaki Ninja 1100SX SE 2026: sport-turismo",
@@ -152,9 +150,7 @@ Sí: es su razón de ser. Posición erguida, carenado protector y asiento pensad
 
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/kawasaki>Motofichas — catálogo Kawasaki: precios y fichas</a>
-- <a href=https://www.motosan.es/motos/kawasaki-ninja-1100sx-se-la-ninja-que-convierte-cada-viaje-en-una-carretera-de-curvas/>Motosan — Kawasaki Ninja 1100SX SE: la Ninja que convierte cada viaje en una carretera de curvas</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motosan.es/motos/kawasaki-ninja-1100sx-se-la-ninja-que-convierte-cada-viaje-en-una-carretera-de-curvas/>Motosan — Kawasaki Ninja 1100SX SE: la Ninja que convierte cada viaje en una carretera de curvas</a>`,
   },
   {
     title: "Kawasaki Meguro S1 2026: la retro japonesa",
@@ -221,9 +217,7 @@ Solo 143 kg, de las más ligeras con marchas.
 2 años de garantía oficial Kawasaki.
 
 *Fuentes:*
-- <a href=https://www.motofichas.com/marcas/kawasaki>Motofichas — catálogo Kawasaki: precios y fichas</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motofichas.com/marcas/kawasaki>Motofichas — catálogo Kawasaki: precios y fichas</a>`,
   },
   {
     title: "Kawasaki W800 2024: la clásica de verdad",
@@ -293,9 +287,7 @@ No: ni modos ni control de tracción. Solo ABS, inyección y embrague antirrebot
 2 años oficiales, ampliables a 4 con la Garantía Plus.
 
 *Fuentes:*
-- <a href=https://www.motofichas.com/marcas/kawasaki/w800-2024>Motofichas — Kawasaki W800 2024: precio y ficha técnica</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motofichas.com/marcas/kawasaki/w800-2024>Motofichas — Kawasaki W800 2024: precio y ficha técnica</a>`,
   },
   {
     title: "Kawasaki Z500 SE 2025: naked A2 con TFT",
@@ -405,9 +397,7 @@ Sí, sin limitación: tiene 45,4 CV y el límite son 47,6 CV.
 
 *Fuentes:, <a href=https://www.kawasaki.es/es_es/Motorcycles/Supernaked.html>Kawasaki España</a>*
 - <a href=https://foromotos.net/threads/ficha-técnica-kawasaki-z500-se-2025.13151/>ForoMotos — Ficha técnica Kawasaki Z500 SE 2025</a>
-- <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z500-2024/>Motorbikemag — ficha técnica Kawasaki Z500</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motorbikemag.es/ficha-tecnica/kawasaki-z500-2024/>Motorbikemag — ficha técnica Kawasaki Z500</a>`,
   },
   {
     title: "Suzuki GSX-8R 2026: deportiva para el A2",
@@ -480,9 +470,7 @@ Horquilla invertida Showa SFF-BP delante y monoamortiguador con precarga detrás
 
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
-- <a href=https://www.motorbikemag.es/ficha-tecnica/suzuki-gsx-8r-2024/>Motorbikemag — Suzuki GSX-8R: precio, fotos y ficha técnica</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motorbikemag.es/ficha-tecnica/suzuki-gsx-8r-2024/>Motorbikemag — Suzuki GSX-8R: precio, fotos y ficha técnica</a>`,
   },
   {
     title: "Suzuki GSX-8S 2026: la naked bicilíndrica",
@@ -551,9 +539,7 @@ La 8S es naked y la 8R es la versión carenada deportiva; comparten chasis y mot
 2 años de garantía oficial Suzuki.
 
 *Fuentes:*
-- <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>`,
   },
   {
     title: "Suzuki SV-7GX 2026: la SV se hace crossover",
@@ -623,9 +609,7 @@ Es su planteamiento: posición erguida, pantalla regulable y depósito de más d
 
 *Fuentes:*
 - <a href=https://espanatimes.com/2026/09/21/el-v2-de-645-cc-vuelve-con-73-cv-y-quickshifter-por-7-999-euros/>España Times — el V2 de 645 cc vuelve con 73 CV y quickshifter por 7.999 €</a>
-- <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motofichas.com/marcas/sport/suzuki/a-2>Motofichas — deportivas Suzuki carnet A2: precios y datos</a>`,
   },
   {
     title: "Suzuki V-Strom 800RE 2025: trail asfáltica",
@@ -734,7 +718,6 @@ Unos 400 km gracias a los 20 litros y un consumo de 4,4 l/100 km.
 *Fuentes:*
 - <a href=https://lamoto.com.ar/noticias/suzuki-v-strom-800re-precio-detalles/>La Moto — Suzuki V-Strom 800RE: fotos, potencia, precio y más</a>
 
-**¿Te han puesto una multa?**
 - <a href=https://www.globalsuzuki.com/motorcycle/smgs/products/2024v-strom800/>Suzuki Global — V-Strom 800 oficial: motor de 776 cc, llanta delantera de 19 pulgadas y pinzas radiales</a>`,
   },
   {
@@ -808,9 +791,7 @@ Más de lo que parece: posición relativamente cómoda, 20 litros y control de c
 
 *Fuentes:*
 - <a href=https://www.motofichas.com/marcas/suzuki/hayabusa-1300>Motofichas — Suzuki Hayabusa 1300 2025-2026: precio y ficha técnica</a>
-- <a href=https://soymotero.net/noticia/nueva-suzuki-hayabusa-edicion-especial-2026/>Soymotero — la Suzuki Hayabusa Edición Especial 2026 llega a España</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://soymotero.net/noticia/nueva-suzuki-hayabusa-edicion-especial-2026/>Soymotero — la Suzuki Hayabusa Edición Especial 2026 llega a España</a>`,
   },
   {
     title: "KTM 790 Duke 2024: vuelve 'La Scalpel'",
@@ -923,9 +904,7 @@ No: unos 3,4-3,8 l/100 km en uso real.
 
 *Fuentes:, <a href=https://www.ktm.com>web oficial de KTM</a>*
 - <a href=https://www.motoplanete.es/ktm/11028/390-Duke-2025/contact.html>Motoplanete — KTM 390 Duke 2025: ficha, precio y opinión</a>
-- <a href=https://www.plusmoto.com/ktm-390-duke-2025-que-cambia-respecto-a-la-anterior-y-a-quien-le-encaja.html>Plusmoto — KTM 390 Duke 2025: qué cambia respecto a la anterior</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.plusmoto.com/ktm-390-duke-2025-que-cambia-respecto-a-la-anterior-y-a-quien-le-encaja.html>Plusmoto — KTM 390 Duke 2025: qué cambia respecto a la anterior</a>`,
   },
   {
     title: "KTM 1390 Super Duke R Evo 2025: 190 CV",
@@ -1038,7 +1017,6 @@ Los 30 años de la saga Super Duke.
 - <a href=https://motos.coches.net/comparativa/ktm-1390_super_duke-r_evo--vs-triumph-speed_triple_1200_rr_breitling--9528-9604.htm>Motos.net — comparativa KTM 1390 Super Duke R Evo</a>
 - <a href=https://www.mundomotero.com/motos/ktm/1390-super-duke-r>Mundomotero — KTM 1390 Super Duke R: precio y ficha técnica</a>
 
-**¿Te han puesto una multa?**
 - <a href=https://www.ktm.com/es-co/models/naked-bike/2025-ktm-1390-superdukerevo.html>KTM oficial — 2025 KTM 1390 Super Duke R Evo</a>`,
   },
   {
@@ -1118,8 +1096,6 @@ Con 20 litros y un bicilíndrico que en pista bebe sin miramientos, la autonomí
 
 La electrónica ayuda sin domesticar: el ABS con modo Offroad deja bloquear la rueda trasera para pivotar en grava, y el control de tracción sensible a la inclinación permite derrapes medidos a la salida de las curvas lentas. El modo Rally, opcional, añade ajuste fino del deslizamiento para quien ya sabe lo que hace.
 
-
-
 ## El coste de jugar en serio en la tierra
 
 Las revisiones cada 15.000 km y la garantía de 4 años dan tranquilidad mecánica, pero el presupuesto real de una 890 R incluye consumibles de guerra: neumáticos mixtos que en tierra se cuentan por miles de kilómetros y no por decenas de miles, protecciones, y el mantenimiento extra de suspensiones si el uso es intenso. La Honda y la Yamaha rivales salen más baratas de mantener; ninguna ofrece este nivel de chasis.
@@ -1149,8 +1125,6 @@ En tierra, sí, por suspensiones y geometría; en asfalto y confort, la estánda
 *Fuentes:*
 - <a href=https://www.mundomotero.com/motos/ktm/890-adventure-r>Mundomotero — KTM 890 Adventure R 2025: precio y ficha técnica</a>
 - <a href=https://www.motorbikemag.es/ficha-tecnica/ktm-890-adventure-r/>Motorbikemag — ficha técnica KTM 890 Adventure R</a>
-
-**¿Te han puesto una multa?**
 
 *Fuentes: datos oficiales del modelo en <a href=https://www.ktm.com>ktm.com, web oficial de KTM</a> y normativa de permisos de la <a href=https://www.dgt.es>DGT</a>.*`,
   },
@@ -1223,8 +1197,6 @@ Con uso de competición, los intervalos son cortos: seguir el manual y el uso re
 
 *Fuentes:*
 - <a href=https://www.motoplanete.es/ktm/11124/450-EXC-F-2025/contact.html>Motoplanete — KTM 450 EXC-F 2025: datos técnicos, precio y opinión</a>
-- <a href=https://www.motofichas.com/marcas/ktm>Motofichas — catálogo KTM: precios y fichas</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motofichas.com/marcas/ktm>Motofichas — catálogo KTM: precios y fichas</a>`,
   },
 ];

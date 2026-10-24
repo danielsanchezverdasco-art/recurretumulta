@@ -130,8 +130,6 @@ Porsche no ha dado fecha. Algunas publicaciones apuntan al **año-modelo 2029**.
 
 No. El concept prescinde de pantalla central: lleva **cinco relojes redondos** con el cuentarrevoluciones analógico de 8.000 rpm en el centro y un soporte MagSafe retráctil para el móvil. Los mandos son físicos, con nuevos controles "push-pull".
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** 
-
 *Fuentes: <a href=https://www.batmangarage.com/news/porsche-mission-s.html>Batman Garage (revelado oficial, diseño e interior, con datos de Porsche Newsroom)</a>, <a href=https://carsbase.com/news/2026/porsche-debuts-mid-engine-mission-s-nid5841>CarsBase (presentación en Nueva York y especificaciones estimadas)</a>, <a href=https://www.europesays.com/germany/110271/>EuropeSays (la filtración horas antes del revelado)</a>, <a href=https://luxe.digital/news/porsche-mission-s-mid-engine-supercar-concept/>Luxe Digital (estrategia Sportwagenschmiede '35 y posicionamiento)</a>.*`,
   },
   {
@@ -240,8 +238,6 @@ En **Alemania**, el GT 53 cuesta desde **113.050 €**. Los GT 55 y GT 63 todav�
 ### ¿Cuándo llega?
 
 Primero sale el GT 53. Los GT 55 y GT 63 llegarán más tarde; Autocar habla de abril de 2027. Mercedes-Benz España todavía no ha dado una fecha de entregas.
-
-**¿Tienes una multa y no sabes si puedes recurrirla?** 
 
 *Fuentes: <a href=https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/mercedes-benz/mercedes-amg-gt-suv-neuvorstellung/>ADAC (datos técnicos, carga, autonomía, peso y precio en Alemania)</a>, <a href=https://www.autocar.co.uk/car-news/electric-cars/new-mercedes-amg-gt-suv-revealed-1153bhp-family-supercar>Autocar (versiones, prestaciones y calendario)</a>, <a href=https://www.auto-motor-und-sport.de/neuheiten/mercedes-amg-gt-suv-e-suv-mit-v8-sound-und-schaltgefuehl/>Auto Motor und Sport (medidas, maletero, potencia continua y sonido simulado)</a>, <a href=https://www.moniteurautomobile.be/actu-auto/nouveaux-modeles/mercedes-amg-gt-suv.html>Moniteur Automobile (aerodinámica, pantallas y suspensión)</a>, <a href=https://insideevs.com/news/812320/amg-gt-suv-ev-reveal/>InsideEVs (carga y equivalencia hp/CV)</a>, <a href=https://www.thesupercarblog.com/leaked-here-is-our-first-look-at-the-all-electric-mercedes-amg-gt-suv/>The Supercar Blog (imágenes difundidas antes del estreno)</a>.*`,
   },

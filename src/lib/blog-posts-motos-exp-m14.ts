@@ -69,9 +69,7 @@ Es la Zero más rutera por su carenado, pero la autonomía en autopista obliga a
 
 *Fuentes:*
 - <a href=https://www.zeromotorcycles.com>Zero Motorcycles — web oficial</a>
-- <a href=https://www.rideapart.com>rideapart.com — cobertura de la garantía europea de Zero</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.rideapart.com>rideapart.com — cobertura de la garantía europea de Zero</a>`,
   },
   {
     title: "Zero DSR/X 2025: la trail eléctrica",
@@ -139,9 +137,7 @@ Sí, el modo Parking permite moverla marcha atrás con el acelerador.
 
 *Fuentes:*
 - <a href=https://www.zeromotorcycles.com>Zero Motorcycles — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — precio europeo de la DSR/X</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.thepack.news>thepack.news — precio europeo de la DSR/X</a>`,
   },
   {
     title: "NIU FQi 500: scooter eléctrico 2025",
@@ -245,9 +241,7 @@ No: las dos baterías ocupan todo el hueco. Hay que usar un baúl o llevar el ca
 
 *Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — presentación del FQi 500 en Europa</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.1000ps.com>1000ps.com — presentación del FQi 500 en Europa</a>`,
   },
   {
     title: "NIU MQi GT Evo: 100 km/h eléctricos",
@@ -352,9 +346,7 @@ Sí, con 3 años de antigüedad, como todo equivalente a 125.
 
 *Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del MQi GT Evo</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del MQi GT Evo</a>`,
   },
   {
     title: "NIU NQiX 500: el scooter más rápido",
@@ -454,9 +446,7 @@ Sí, admite un integral pese a la doble batería.
 
 *Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del NQiX 500</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del NQiX 500</a>`,
   },
   {
     title: "Silence S02 LS: ciclomotor eléctrico",
@@ -522,9 +512,7 @@ En Barcelona: Silence produce sus propias baterías en la Zona Franca.
 
 *Fuentes:*
 - <a href=https://www.silence.eco>Silence — web oficial</a>
-- <a href=https://www.silence.eco>Silence — documentación de garantía</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.silence.eco>Silence — documentación de garantía</a>`,
   },
   {
     title: "Silence S01+: 133 km de autonomía",
@@ -591,9 +579,7 @@ Sí: SEAT la comercializó como SEAT MÓ eScooter 125.
 
 *Fuentes:*
 - <a href=https://www.silence.eco>Silence — web oficial</a>
-- <a href=https://www.silence.eco>Silence — documentación de garantía</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.silence.eco>Silence — documentación de garantía</a>`,
   },
   {
     title: "Horwin SK1: el ciclomotor eléctrico",
@@ -659,9 +645,7 @@ Es una marca austriaca con producción en China y distribución europea propia.
 
 *Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos del SK1</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.thepack.news>thepack.news — datos del SK1</a>`,
   },
   {
     title: "Horwin EK3: diseño y 95 km/h",
@@ -728,9 +712,7 @@ Sí, con 3 años de antigüedad.
 
 *Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.autoevolution.com>autoevolution.com — prueba del Horwin EK3</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.autoevolution.com>autoevolution.com — prueba del Horwin EK3</a>`,
   },
   {
     title: "Horwin CR6: café racer eléctrica",
@@ -797,9 +779,7 @@ Sí, con 3 años de antigüedad.
 
 *Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.motorcyclenews.com>motorcyclenews.com — datos de la gama CR6</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.motorcyclenews.com>motorcyclenews.com — datos de la gama CR6</a>`,
   },
   {
     title: "Can-Am Pulse: naked eléctrica A2",
@@ -905,9 +885,7 @@ BRP, el grupo canadiense de Bombardier Recreational Products.
 
 *Fuentes:*
 - <a href=https://can-am.brp.com/on-road/2025/can-am-pulse.html>Can-Am — ficha oficial de la Pulse</a>
-- <a href=https://www.electrek.co>electrek.co — garantía y datos de la gama eléctrica Can-Am</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.electrek.co>electrek.co — garantía y datos de la gama eléctrica Can-Am</a>`,
   },
   {
     title: "Can-Am Origin: trail eléctrica A2",
@@ -1013,9 +991,7 @@ Sí: BRP confirma su venta en concesionarios oficiales en España.
 
 *Fuentes:*
 - <a href=https://can-am.brp.com/on-road/2025/can-am-origin.html>Can-Am — ficha oficial de la Origin</a>
-- <a href=https://www.electrek.co>electrek.co — datos de la gama eléctrica Can-Am</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.electrek.co>electrek.co — datos de la gama eléctrica Can-Am</a>`,
   },
   {
     title: "Super Soco TC Max: café racer A1",
@@ -1120,9 +1096,7 @@ Sí, con 3 años de antigüedad.
 
 *Fuentes:*
 - <a href=https://www.vmoto.com>Vmoto Super Soco — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos de la gama Super Soco</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.thepack.news>thepack.news — datos de la gama Super Soco</a>`,
   },
   {
     title: "Super Soco CPx Pro: 115 km/h",
@@ -1226,9 +1200,7 @@ Sí, con 3 años de antigüedad.
 
 *Fuentes:*
 - <a href=https://www.vmoto.com>Vmoto Super Soco — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos del CPx Pro</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.thepack.news>thepack.news — datos del CPx Pro</a>`,
   },
   {
     title: "Maeving RM1: la retro eléctrica",
@@ -1295,9 +1267,7 @@ Una empresa británica fundada por exingenieros de Triumph en Coventry.
 
 *Fuentes:*
 - <a href=https://maeving.com>Maeving — web oficial</a>
-- <a href=https://maeving.com/blogs/maeving-news/maeving-expands-in-europe-with-launch-in-france>Maeving — expansión europea</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://maeving.com/blogs/maeving-news/maeving-expands-in-europe-with-launch-in-france>Maeving — expansión europea</a>`,
   },
   {
     title: "LiveWire S2 Del Mar: 82 CV",
@@ -1365,9 +1335,7 @@ Que forma parte del chasis: ahorra peso y aumenta la rigidez.
 
 *Fuentes:*
 - <a href=https://www.livewire.com/s2-del-mar/>LiveWire — ficha oficial de la S2 Del Mar</a>
-- <a href=https://www.livewire.com>LiveWire — garantía oficial</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.livewire.com>LiveWire — garantía oficial</a>`,
   },
   {
     title: "Yadea Keeness: naked eléctrica A1",
@@ -1433,9 +1401,7 @@ El mayor fabricante mundial de vehículos eléctricos ligeros, con sede en China
 
 *Fuentes:*
 - <a href=https://www.yadea.com>Yadea — web oficial</a>
-- <a href=https://www.newatlas.com>newatlas.com — datos de la Keeness</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.newatlas.com>newatlas.com — datos de la Keeness</a>`,
   },
   {
     title: "Yadea Fierider: scooter de 15 CV",
@@ -1502,8 +1468,6 @@ Sí, con 3 años de antigüedad.
 
 *Fuentes:*
 - <a href=https://www.prnewswire.co.uk/news-releases/yadea-unveils-flagship-electric-motorcycle-m6-at-eicma-2024-302293992.html>Yadea — comunicado oficial EICMA</a>
-- <a href=https://www.yadea.com>Yadea — web oficial</a>
-
-**¿Te han puesto una multa?**`,
+- <a href=https://www.yadea.com>Yadea — web oficial</a>`,
   },
 ];

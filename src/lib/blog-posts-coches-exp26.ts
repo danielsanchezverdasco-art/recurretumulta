@@ -16,7 +16,7 @@ export const COCHES_EXP26_POSTS: BlogPost[] = [
     "keywords": ["Lancia Ypsilon 2024 precio", "Lancia Ypsilon híbrido ficha técnica", "Ypsilon Elettrica autonomía", "Lancia Ypsilon España", "utilitario híbrido ECO", "Lancia Ypsilon 110 CV"],
     "content": `<img src=/media/lancia-ypsilon-2024-precio-ficha-tecnica-hero.webp alt=Lancia Ypsilon 2024 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica del Lancia Ypsilon 2024</a>: precio, potencia, consumo y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ficha técnica del Lancia Ypsilon 2024</a>.
 
 El **Lancia Ypsilon 2024** marca el regreso de la marca italiana al panorama europeo después de una década vendiendo solo en Italia: un utilitario de **4,08 metros** disponible como **híbrido de 110 CV** y como **eléctrico de 156 CV**. La versión híbrida parte de **23.019 €** y luce la etiqueta **ECO** de la DGT, mientras que la eléctrica arranca en **32.126 €** con **425 km de autonomía homologada**.
 
@@ -39,7 +39,7 @@ Es, además, un coche con pasaporte español: se fabrica en la planta de Stellan
 | Medidas | 4.075 x 1.755 x 1.435 mm |
 | Etiqueta DGT | ECO (híbrido) / Cero (eléctrica) |
 
-<a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Lancia Ypsilon con galería de fotos</a>
+<a href=/coches/lancia-ypsilon-2024-precio-ficha-tecnica/>Ficha técnica completa del Lancia Ypsilon con galería de fotos</a>
 
 ## Híbrido de 48 V: 110 CV y etiqueta ECO
 
@@ -107,9 +107,7 @@ En Figueruelas (Zaragoza, España), en la planta de Stellantis.
 ### ¿Tiene prueba EuroNCAP la nueva generación?
 No: la generación de 2024 aún no ha sido probada por EuroNCAP.
 
-*Fuentes: <a href=https://www.km77.com/coches/lancia/ypsilon/2024/estandar/datos>km77.com</a>, <a href=https://www.lancia.com> Lancia oficial</a>*
-
-**¿Te han puesto una multa?**`
+*Fuentes: <a href=https://www.km77.com/coches/lancia/ypsilon/2024/estandar/datos>km77.com</a>, <a href=https://www.lancia.com> Lancia oficial</a>*`
   },
   {
     "title": "Nissan Micra 2025: eléctrico desde 27.700 €",
@@ -122,7 +120,7 @@ No: la generación de 2024 aún no ha sido probada por EuroNCAP.
     "keywords": ["Nissan Micra 2025 precio", "Nissan Micra eléctrico ficha técnica", "Micra 2025 autonomía", "Nissan Micra 52 kWh", "utilitario eléctrico barato", "Nissan Micra etiqueta Cero"],
     "content": `<img src=/media/nissan-micra-2025-precio-ficha-tecnica-hero.webp alt=Nissan Micra 2025 eléctrico en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ver la ficha técnica del Nissan Micra 2025</a>: precio, autonomía, batería y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ficha técnica del Nissan Micra 2025</a>.
 
 El mítico **Nissan Micra** vuelve en su sexta generación convertido en un coche **100% eléctrico**. Desarrollado sobre la plataforma **AmpR Small** junto al Renault 5, llega con dos baterías (**40 y 52 kWh**), dos potencias (**122 y 150 CV**) y autonomías de **319 a 419 km**. El precio de partida en España es de **27.700 €** y todas las versiones lucen la etiqueta **Cero** de la DGT.
 
@@ -144,7 +142,7 @@ El mítico **Nissan Micra** vuelve en su sexta generación convertido en un coch
 | Peso | 1.452 kg |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Nissan Micra con galería de fotos</a>
+<a href=/coches/nissan-micra-2025-precio-ficha-tecnica/>Ficha técnica completa del Nissan Micra con galería de fotos</a>
 
 ## Dos baterías para dos usos
 
@@ -211,9 +209,7 @@ Etiqueta Cero en todas las versiones.
 ### ¿Tiene prueba EuroNCAP?
 No hay prueba publicada de la nueva generación eléctrica.
 
-*Fuentes: <a href=https://www.km77.com/coches/nissan/micra/2026/5-puertas/datos?amp=1>km77.com</a>, <a href=https://www.nissan.es>Nissan España</a>*
-
-**¿Te han puesto una multa?**`
+*Fuentes: <a href=https://www.km77.com/coches/nissan/micra/2026/5-puertas/datos?amp=1>km77.com</a>, <a href=https://www.nissan.es>Nissan España</a>*`
   },
   {
     "title": "BYD Sealion 05: SUV eléctrico trasera",
@@ -226,7 +222,7 @@ No hay prueba publicada de la nueva generación eléctrica.
     "keywords": ["BYD Sealion 05 2025", "BYD Sealion 05 ficha técnica", "BYD Sealion 05 precio España", "SUV eléctrico BYD", "Sealion 05 DM-i", "BYD Ocean Series"],
     "content": `<img src=/media/byd-sealion-05-2025-precio-ficha-tecnica-hero.webp alt=BYD Sealion 05 2025 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Sealion 05</a>: potencia, batería, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ficha técnica del BYD Sealion 05</a>.
 
 El **BYD Sealion 05** es el SUV compacto 100% eléctrico con el que la marca china completa por abajo su familia Sealion en 2025. Construido sobre la moderna arquitectura **e-Platform 3.0 Evo**, mide **4,52 metros**, ofrece **tracción trasera** —algo raro en su segmento—, un maletero de **600 litros** más frunk delantero y dos niveles de batería (**50 y 61 kWh**). Aún **no tiene precio ni fecha confirmados para España**: esta ficha recoge los datos publicados por BYD en su lanzamiento.
 
@@ -245,7 +241,7 @@ El **BYD Sealion 05** es el SUV compacto 100% eléctrico con el que la marca chi
 | Plataforma | e-Platform 3.0 Evo |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del BYD Sealion 05 con galería de fotos</a>
+<a href=/coches/byd-sealion-05-2025-precio-ficha-tecnica/>Ficha técnica completa del BYD Sealion 05 con galería de fotos</a>
 
 ## e-Platform 3.0 Evo: la base más moderna de BYD
 
@@ -308,9 +304,7 @@ Tracción trasera, algo poco habitual en los SUV eléctricos compactos.
 ### ¿Tiene prueba EuroNCAP?
 No: el modelo no ha sido probado por EuroNCAP.
 
-*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, <a href=https://es.wikipedia.org/wiki/BYD_Sealion_05_EV>Wikipedia</a>*
-
-**¿Te han puesto una multa?**`
+*Fuentes: <a href=https://www.byd.com>BYD oficial</a>, <a href=https://es.wikipedia.org/wiki/BYD_Sealion_05_EV>Wikipedia</a>*`
   },
   {
     "title": "Jaecoo J6 2025: SUV eléctrico 4x4 de 279 CV",
@@ -323,7 +317,7 @@ No: el modelo no ha sido probado por EuroNCAP.
     "keywords": ["Jaecoo J6 2025", "Jaecoo J6 ficha técnica", "Jaecoo 6 eléctrico precio", "SUV eléctrico chino 4x4", "Jaecoo J6 autonomía", "iCar 03 Jaecoo"],
     "content": `<img src=/media/jaecoo-j6-2025-precio-ficha-tecnica-hero.webp alt=Jaecoo J6 2025 en camino de tierra>
 
-**¿Buscas solo los datos?** <a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ver la ficha técnica del Jaecoo J6</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ficha técnica del Jaecoo J6</a>.
 
 El **Jaecoo J6** (conocido como Jaecoo 6 en algunos mercados) es el SUV eléctrico más aventurero de la marca china del grupo Chery: un todoterreno de **diseño cuadrado** con **279 CV**, **tracción total**, batería **LFP de 69,8 kWh** fabricada por CATL y **342 km de autonomía WLTP**. Acelera de 0 a 100 en **6,5 segundos**. Aún **no se comercializa en España**, donde Jaecoo vende los modelos 5, 7 y 8.
 
@@ -346,7 +340,7 @@ El **Jaecoo J6** (conocido como Jaecoo 6 en algunos mercados) es el SUV eléctri
 | Garantía batería | 8 años o 150.000 km |
 | Etiqueta DGT | Cero |
 
-<a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Jaecoo J6 con galería de fotos</a>
+<a href=/coches/jaecoo-j6-2025-precio-ficha-tecnica/>Ficha técnica completa del Jaecoo J6 con galería de fotos</a>
 
 ## Un Defender eléctrico en miniatura
 
@@ -404,9 +398,7 @@ Una LFP (litio-ferrofosfato) de 69,8 kWh fabricada por CATL, con garantía de 8 
 ### ¿Tiene prueba EuroNCAP?
 No: el modelo no ha sido probado por EuroNCAP.
 
-*Fuentes: <a href=https://www.auto-data.net/es/jaecoo-j6-69.77-kwh-279hp-electric-4wd-54193>auto-data.net</a>, <a href=https://www.jaecoo.es>Jaecoo España</a>*
-
-**¿Te han puesto una multa?**`
+*Fuentes: <a href=https://www.auto-data.net/es/jaecoo-j6-69.77-kwh-279hp-electric-4wd-54193>auto-data.net</a>, <a href=https://www.jaecoo.es>Jaecoo España</a>*`
   },
   {
     "title": "GWM Haval H6 2024: híbrido de 243 CV con ECO",
@@ -419,7 +411,7 @@ No: el modelo no ha sido probado por EuroNCAP.
     "keywords": ["GWM Haval H6 2024", "Haval H6 híbrido precio", "Haval H6 ficha técnica", "Haval H6 ECO", "SUV híbrido chino", "Haval H6 243 CV"],
     "content": `<img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-hero.webp alt=GWM Haval H6 2024 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica del GWM Haval H6</a>: potencia, consumo, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ficha técnica del GWM Haval H6</a>.
 
 El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **cuatro millones de unidades**— y su tercera generación llegó a Europa con una versión **híbrida de 243 CV** que combina un motor turbo de 1.5 litros con un motor eléctrico. Homologa unos **5,9 l/100 km**, emite 134 g/km de CO2 y luce la etiqueta **ECO** de la DGT. GWM aún **no publica el precio oficial en España**: esta ficha recoge los datos técnicos verificados.
 
@@ -441,7 +433,7 @@ El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **
 | Etiqueta DGT | ECO |
 | Seguridad | 5 estrellas ANCAP (2022) |
 
-<a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Haval H6 con galería de fotos</a>
+<a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ficha técnica completa del Haval H6 con galería de fotos</a>
 
 ## Híbrido autorrecargable: 243 CV sin enchufar
 
@@ -502,8 +494,6 @@ Sí, por su sistema híbrido autorrecargable.
 ### ¿Es seguro? ¿Tiene EuroNCAP?
 Logró 5 estrellas ANCAP en 2022; EuroNCAP aún no lo ha probado.
 
-*Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*
-
-**¿Te han puesto una multa?**`
+*Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*`
   },
 ];

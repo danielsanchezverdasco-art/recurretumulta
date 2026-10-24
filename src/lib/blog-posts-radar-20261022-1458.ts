@@ -63,7 +63,7 @@ Por fuera, el frontal gana una parrilla de gran tamaño con iluminación **Iconi
 
 BMW quiere mantener viva la berlina de representación frente al avance de los SUV premium. Es un coche pensado tanto para quien conduce como para quien viaja detrás: chófer privado, directivos y familias que hacen muchos kilómetros de autopista. Sus rivales directos son el **Mercedes Clase S**, el **Audi A8** y el **Lexus LS**.
 
-<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.
+<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.
 
 ## Preguntas frecuentes
 
@@ -91,9 +91,7 @@ La producción arrancó en julio de 2026 en Dingolfing y las primeras unidades e
 
 BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.000 km**. La garantía general del vehículo en España es de 2 años.
 
-*Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*
-
-**¿Te han puesto una multa?**`,
+*Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*`,
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",
@@ -148,7 +146,7 @@ Con las seis plazas en uso, el maletero se queda en **257 litros**; abatiendo la
 
 *Foto: Lexus UK (media.lexus.co.uk). Imagen oficial de prensa; licencia desconocida.*
 
-<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Lexus TZ</a> con versiones, precios, consumos y garantía.
+<a href=/coches/lexus-tz-2026-precio-ficha-tecnica/>Ficha técnica completa del Lexus TZ</a> con versiones, precios, consumos y garantía.
 
 ## Preguntas frecuentes
 
@@ -176,9 +174,7 @@ Sí, las dos versiones llevan el sistema **DIRECT4** de tracción total eléctri
 
 Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y el **Kia EV9**, el otro gran SUV eléctrico de 6-7 plazas del mercado.
 
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html>hibridosyelectricos.com (22/10/2026)</a>, <a href=https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/>nota de prensa oficial Lexus</a>.*
-
-**¿Te han puesto una multa?**`,
+*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html>hibridosyelectricos.com (22/10/2026)</a>, <a href=https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/>nota de prensa oficial Lexus</a>.*`,
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",
@@ -259,9 +255,7 @@ Un sensor que detecta fuentes de calor (personas, animales, obstáculos) hasta a
 
 Omoda lo define como un **producto global**, así que es probable que llegue a Europa. Aún no hay confirmación oficial de mercados ni fechas.
 
-*Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*
-
-**¿Te han puesto una multa?**`,
+*Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*`,
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",
@@ -331,8 +325,6 @@ No. Es una **mula de pruebas con fuerte camuflaje**; detalles como la ventanilla
 
 Sin precio oficial. Por posicionamiento (sucesor espiritual del LFA, rival del Taycan), se moverá en el tramo alto del mercado. Lo publicaremos cuando Lexus lo confirme.
 
-*Fuentes: <a href=https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/>thesupercarblog.com (22/10/2026)</a>.*
-
-**¿Te han puesto una multa?**`,
+*Fuentes: <a href=https://www.thesupercarblog.com/heavily-camouflaged-lexus-lfa-ev-prototype-spied-in-spain/>thesupercarblog.com (22/10/2026)</a>.*`,
   },
 ];

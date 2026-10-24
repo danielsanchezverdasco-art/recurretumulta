@@ -71,8 +71,6 @@ No pido barra libre. Pido lo que España ya demuestra que se puede hacer: un mar
 
 Porque si España vale para los test, Europa debería valer para el avance. Y hoy, no vale.
 
-**¿Tienes una multa y no sabes si se puede recurrir?** 
-
 **Para seguir leyendo:** ficha del <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>Tesla Model Y</a> y su <a href=/coches/tesla-model-y-performance-2026-precio-ficha-tecnica/>blog</a>, ficha del <a href=/coches/tesla-cybercab-2026-precio-ficha-tecnica/>Tesla Cybercab</a> y su <a href=/blog/tesla-cybercab-2026-precio-ficha/>blog</a>, el <a href=/coches/tesla-roadster-2026-retraso-precio-ficha-tecnica/>blog del Tesla Roadster y su retraso</a>, el <a href=/blog/coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente/>blog sobre responsabilidad legal en coches autónomos de nivel 3 y 4</a> y el <a href=/blog/robotaxis-madrid-furgonetas-mapeo-octubre-2026/>blog de los robotaxis mapeando Madrid</a>.
 
 *Fuentes: <a href=https://www.reuters.com/es/negocio/EKGNAU6AEBKQDLOSXIM7PJBLXA-2026-09-11/>Reuters (autorización nivel 4)</a>, <a href=https://cadenaser.com/cmadrid/2026/10/05/una-ventana-de-furgonetas-mapean-madrid-y-alcobendas-para-la-llegada-de-los-primeros-taxis-autonomos-de-espana-ser-madrid-norte/>Cadena SER (mapeo Madrid y Alcobendas)</a>, <a href=https://www.softonic.com/articulos/tesla-renombra-desde-hoy-full-self-driving-en-europa-pasa-a-tesla-assisted-driving>Softonic (renombre FSD a Tesla Assisted Driving)</a>, <a href=https://www.camionactualidad.es/destacadas-noticias/item/11038-programa-es-av-espana-impulsa-la-regulacion-de-vehiculos-autonomos-y-de-conduccion-remota>Camión Actualidad (programa ES-AV)</a>.*

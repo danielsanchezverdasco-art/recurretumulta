@@ -64,10 +64,7 @@ El **13 de octubre de 2026** en China, según confirmó el director de ventas de
 Hasta **1.008 km en ciclo CLTC** en las versiones de tracción trasera (la prensa estima ~820 km WLTP, sin homologación europea). El AWD declara 880 km CLTC.
 
 ### ¿Cuánto cuesta el BYD Great Han?
-En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España porque no se vende en Europa.
-
-**¿Te han puesto una multa?**
-`,
+En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España porque no se vende en Europa.`,
 },
 {
   title: "Renault: 10.000 M€ y plan París",
@@ -131,9 +128,6 @@ Más de **10.000 millones de euros en Francia en los próximos 5 años**, anunci
 El estreno mundial del **E-Space Concept**, el nuevo Megane E-Tech (LFP 67 kWh, 500 km), el Trafic E-Tech 800V, el R5 Turbo 3E, el Rafale Hypnotic y los concepts R8 Gordini y R4 JP4x4.
 
 ### ¿Qué significa el LFP para los precios?
-Las baterías de litio-ferrofosfato son más baratas y duraderas que las NMC actuales. Masificarlas en Twingo, R5, Megane, Scenic y R4 es la vía de Renault para **bajar el precio de sus eléctricos** sin perder autonomía.
-
-**¿Te han puesto una multa?**
-`,
+Las baterías de litio-ferrofosfato son más baratas y duraderas que las NMC actuales. Masificarlas en Twingo, R5, Megane, Scenic y R4 es la vía de Renault para **bajar el precio de sus eléctricos** sin perder autonomía.`,
 },
 ];

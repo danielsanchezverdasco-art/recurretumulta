@@ -25,7 +25,7 @@ export const MOTOR_CHINOS_E_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/alpine-a390-precio-ficha-tecnica-hero.webp alt=Deportivo fastback eléctrico azul circulando por una carretera de montaña en los Alpes franceses al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/alpine-a390-precio-ficha-tecnica/>Ver ficha técnica del Alpine A390</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/alpine-a390-precio-ficha-tecnica/>Ficha técnica del Alpine A390</a>.
 
 Alpine ya no es solo el A110. El **A390** es el segundo modelo 100 % eléctrico de la marca francesa tras el A290, y es toda una declaración de intenciones: un **sport fastback de cinco plazas** con **tres motores**, tracción total y hasta **555 km de autonomía**, fabricado íntegramente en Francia. Los pedidos en España están abiertos desde noviembre de 2025: el **GT parte de 67.500 €** y el **GTS de 470 CV** llegará en 2026 por **78.000 €**.
 
@@ -42,8 +42,6 @@ La gama arranca con el **GT de 400 CV por 67.500 €**, ya a la venta con entreg
 <img src=/media/alpine-a390-precio-ficha-tecnica-oficial.webp alt=Alpine A390, fastback deportivo eléctrico, vista tres cuartos>
 
 <img src=/media/alpine-a390-precio-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del alpine a390>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -123,7 +121,7 @@ Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=ht
     ],
     content: `<img src=/media/renault-4-e-tech-precio-autonomia-hero.webp alt=Pequeño SUV eléctrico retro de color verde aparcado en una calle empedrada de un casco antiguo español>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-4-e-tech-precio-autonomia/>Ver ficha técnica del Renault 4 E-Tech</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/renault-4-e-tech-precio-autonomia/>Ficha técnica del Renault 4 E-Tech</a>.
 
 Tras el éxito del R5, Renault repite la jugada de la nostalgia con el mito mayor: el **Renault 4**, el "4Latas", vuelve como **SUV urbano 100 % eléctrico**. Mide 4,14 metros, ofrece hasta **408 km de autonomía**, un maletero de 375 litros y hasta techo eléctrico de lona como el original. En España parte de **27.954 €** y ya está en los concesionarios.
 
@@ -144,8 +142,6 @@ La gama articula dos baterías: 40 kWh (122 CV, 308 km) y 52 kWh (150 CV, 397-40
 <img src=/media/renault-4-e-tech-precio-autonomia-oficial.webp alt=Renault 4 E-Tech eléctrico, vista frontal tres cuartos>
 
 <img src=/media/renault-4-e-tech-precio-autonomia-interior-oficial-2.webp alt=Interior oficial del renault 4 e tech precio autonomia>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -199,7 +195,7 @@ En Europa, sobre la plataforma AmpR Small compartida con el Renault 5 E-Tech.
 El 4 es más alto, más largo y más práctico (más maletero, 5 plazas más desahogadas delante, remolque de 750 kg); el 5 es más bajo, más deportivo y con algo más de autonomía. Comparten el 68 % de las piezas.
 
 ### ¿Tiene etiqueta CERO de la DGT?
-Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE.
 
 Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. 
 
@@ -225,7 +221,7 @@ Si estrenas eléctrico, recuerda que el silencio del motor engaña con la veloci
     ],
     content: `<img src=/media/peugeot-e-5008-electrico-7-plazas-precio-hero.webp alt=Gran SUV familiar eléctrico gris oscuro de 7 plazas aparcado frente a una casa moderna europea al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>Ver ficha técnica del Peugeot E-5008</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/peugeot-e-5008-electrico-7-plazas-precio/>Ficha técnica del Peugeot E-5008</a>.
 
 Pocos coches resuelven la ecuación "familia numerosa + coche eléctrico" como el **Peugeot E-5008**: 7 plazas de verdad, hasta **668 km de autonomía** en la versión Long Range (récord del segmento) y un i-Cockpit panorámico de 21 pulgadas que parece de concept. Fabricado en Francia, en España parte de **44.380 €** en su versión eléctrica de acceso.
 
@@ -246,8 +242,6 @@ La versión **Long Range de 96,9 kWh y 668 km** es la que más brilla: ningún o
 <img src=/media/peugeot-e-5008-electrico-7-plazas-precio-oficial.webp alt=Peugeot E-5008 eléctrico de 7 plazas, vista lateral>
 
 <img src=/media/peugeot-e-5008-electrico-7-plazas-precio-interior-oficial-2.webp alt=Interior oficial del peugeot e 5008 electrico 7 plazas precio>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -327,7 +321,7 @@ Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a h
     ],
     content: `<img src=/media/dacia-spring-2026-nueva-generacion-precio-hero.webp alt=Pequeño coche eléctrico urbano blanco aparcado en una calle mediterránea con palmeras un día soleado>
 
-**¿Buscas solo los datos?** <a href=/coches/dacia-spring-2026-nueva-generacion-precio/>Ver ficha técnica del Dacia Spring 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/dacia-spring-2026-nueva-generacion-precio/>Ficha técnica del Dacia Spring 2026</a>.
 
 El coche que democratizó el eléctrico en Europa se reinventa: la **segunda generación del Dacia Spring** cambia de plataforma, crece 15 cm de largo y 18 de ancho, estrena **80 CV y 250 km de autonomía**... y abandona China para **fabricarse en Europa** (Novo Mesto, Eslovenia). El precio seguirá por **debajo de 18.000 €** antes de ayudas. Los pedidos ya están abiertos.
 
@@ -344,8 +338,6 @@ El precio de partida estará **por debajo de 18.000 €** antes de ayudas. Con e
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-oficial.webp alt=Dacia Spring 2026, urbano eléctrico, vista frontal>
 
 <img src=/media/dacia-spring-2026-nueva-generacion-precio-interior-oficial-2.webp alt=Interior oficial del dacia spring 2026 nueva generacion precio>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 
@@ -426,7 +418,7 @@ Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretu
     ],
     content: `<img src=/media/seres-5-electrico-precio-ficha-tecnica-hero.webp alt=SUV eléctrico premium azul oscuro circulando por una carretera de costa española al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/seres-5-electrico-precio-ficha-tecnica/>Ver ficha técnica del Seres 5</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/seres-5-electrico-precio-ficha-tecnica/>Ficha técnica del Seres 5</a>.
 
 **Seres** es una de las marcas chinas menos conocidas en España, y sin embargo su **Seres 5** es uno de los SUV eléctricos más interesantes del mercado: hasta **585 CV**, **500 km de autonomía**, batería de 80 kWh con función V2L y **8 años de garantía**. En España parte de **54.450 €**. Te contamos quién está detrás y si de verdad puede con el Tesla Model Y.
 
@@ -444,8 +436,6 @@ Se vende en dos versiones: tracción trasera de 299 CV y tracción total de 585 
 En portales de ocasión ya aparecen unidades de km0 con descuentos del 13 % sobre el precio oficial.
 
 <img src=/media/seres-5-electrico-precio-ficha-tecnica-oficial.webp alt=Seres 5 eléctrico, SUV coupé, vista tres cuartos>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Curiosidades que quizá no sabías
 

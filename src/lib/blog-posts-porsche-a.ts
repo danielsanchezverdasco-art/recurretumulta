@@ -22,10 +22,9 @@ export const PORSCHE_POSTS: BlogPost[] = [
       "porsche 911 precio españa",
       "deportivo porsche",
     ],
-    content: `
-<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-1.webp alt=Porsche 911 Carrera 2026 plateado en carretera de montaña>
+    content: `<img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-1.webp alt=Porsche 911 Carrera 2026 plateado en carretera de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Carrera 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Carrera 2026</a>.
 
 El **Porsche 911 Carrera 2026** es la puerta de entrada a la gama 911 (generación 992.2): el mito de Stuttgart parte en España de **159.511 €** con el bóxer 3.0 biturbo de **394 CV**, cambio PDK y tracción trasera. Acelera de 0 a 100 km/h en **4,1 segundos** y alcanza **294 km/h**, cifras que hace una década eran de Turbo.
 
@@ -48,15 +47,13 @@ Es el 911 "para todos los días": cuatro plazas (2+2), maletero delantero de 135
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera</a> con medidas, equipamiento y comparativas.
+<a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera</a> con medidas, equipamiento y comparativas.
 
 ## Precio y versiones en España
 
 El Carrera es el escalón de acceso a la familia 911. En España parte de **159.511 €**, y por encima quedan el Carrera T (170.101 €), el Carrera S (178.784 €), el Carrera GTS híbrido (205.356 €) y los Turbo y GT3. La lista de opciones de Porsche es legendaria: con cuatro o cinco extras bien elegidos es fácil sumar 20.000 € a la factura.
 
 <img src=/media/porsche-911-carrera-2026-precio-ficha-tecnica-2.webp alt=Porsche 911 Carrera 2026, vista tres cuartos>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Motor y comportamiento
 
@@ -107,7 +104,7 @@ El bóxer 3.0 biturbo rinde **394 CV y 450 Nm**, con cambio PDK de 8 velocidades
 **294 km/h**, con una aceleración de 0 a 100 km/h en **4,1 segundos**.
 
 ### ¿El 911 Carrera tiene etiqueta ECO?
-No: al ser gasolina sin hibridación, lleva la **etiqueta C** de la DGT. Solo el Carrera GTS (T-Hybrid) y el Turbo S disfrutan de la etiqueta ECO en la gama 911. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+No: al ser gasolina sin hibridación, lleva la **etiqueta C** de la DGT. Solo el Carrera GTS (T-Hybrid) y el Turbo S disfrutan de la etiqueta ECO en la gama 911.
 
 ### ¿Cuánto consume el 911 Carrera?
 Homologa **10,1 l/100 km** en ciclo WLTP. En conducción real tranquila ronda los 9-10 litros; en uso deportivo supera los 13.
@@ -137,10 +134,9 @@ Con 294 km/h de velocidad máxima, conviene recordar que en España superar los 
       "porsche 911 purista",
       "992.2 carrera t",
     ],
-    content: `
-<img src=/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera T 2026 en carretera>
+    content: `<img src=/media/porsche-911-carrera-t-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera T 2026 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-carrera-t-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Carrera T 2026</a>: precio, potencia, peso y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-carrera-t-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Carrera T 2026</a>.
 
 La **T** de Touring vuelve al **Porsche 911 Carrera T 2026**, la versión para puristas de la gama 992.2: **170.101 €** en España, **394 CV**, cambio **manual de 6 marchas** y solo **1.565 kg**, el 911 más ligero del catálogo. Sin asientos traseros de serie, con chasis rebajado y una puesta a punto específica, es el 911 que eligen quienes conducen por placer.
 
@@ -160,7 +156,7 @@ La **T** de Touring vuelve al **Porsche 911 Carrera T 2026**, la versión para p
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-carrera-t-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera T</a>.
+<a href=/coches/porsche-911-carrera-t-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera T</a>.
 
 ## Precio y posicionamiento
 
@@ -226,10 +222,9 @@ Si conduces un purista como este, recuerda que el carné está en juego en cada 
       "992.2 carrera s",
       "porsche 911 s españa",
     ],
-    content: `
-<img src=/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera S 2026 en autopista>
+    content: `<img src=/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera S 2026 en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-carrera-s-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Carrera S 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-carrera-s-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Carrera S 2026</a>.
 
 El **Porsche 911 Carrera S 2026** ocupa el punto medio perfecto de la gama 992.2: **178.784 €** en España, **480 CV**, **530 Nm**, 0-100 en **3,3 segundos** y **308 km/h** de velocidad máxima. Son prestaciones de superdeportivo con la usabilidad diaria de un 911.
 
@@ -249,15 +244,13 @@ El **Porsche 911 Carrera S 2026** ocupa el punto medio perfecto de la gama 992.2
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-carrera-s-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera S</a>.
+<a href=/coches/porsche-911-carrera-s-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera S</a>.
 
 ## Precio: entre el Carrera y el GTS
 
 El Carrera S cuesta unos 21.000 € más que el Carrera básico y se queda unos 26.500 € por debajo del Carrera GTS híbrido. A cambio de ese salto ofrece **86 CV extra** y siete décimas menos en el 0-100. Es, para muchos, el 911 con mejor relación prestaciones/precio de la gama... si el GTS híbrido no existiera.
 
 <img src=/media/porsche-911-carrera-s-2026-precio-ficha-tecnica-oficial.webp alt=Porsche 911 Carrera S 2026, vista tres cuartos>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## El dilema frente al GTS híbrido
 
@@ -287,7 +280,7 @@ El gran problema del Carrera S en 2026 se llama **Carrera GTS**: por unos 26.500
 **3,3 segundos**, con una velocidad máxima de **308 km/h**.
 
 ### ¿Tiene etiqueta ECO?
-No: es gasolina sin hibridación, así que lleva la **etiqueta C**. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+No: es gasolina sin hibridación, así que lleva la **etiqueta C**.
 
 ### ¿Cuánto consume?
 Homologa **10,3 l/100 km** (WLTP). En uso realista, entre 10 y 12 litros; en conducción deportiva, bastante más.
@@ -317,10 +310,9 @@ Con 308 km/h de punta, un despiste con el pie derecho sale caro: si te llega una
       "primer 911 híbrido",
       "porsche 911 gts españa",
     ],
-    content: `
-<img src=/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera GTS 2026 en circuito>
+    content: `<img src=/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Carrera GTS 2026 en circuito>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-carrera-gts-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Carrera GTS 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-carrera-gts-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Carrera GTS 2026</a>.
 
 El **Porsche 911 Carrera GTS 2026** es historia del automóvil: el **primer 911 híbrido** jamás fabricado. Su sistema **T-Hybrid** combina el bóxer 3.6 con un turbo eléctrico y un motor en la caja de cambios para entregar **541 CV y 610 Nm**, con un 0-100 en **3,0 segundos** y **312 km/h** de máxima. En España parte de **205.356 €** y, atención, luce la **etiqueta ECO** de la DGT.
 
@@ -340,7 +332,7 @@ El **Porsche 911 Carrera GTS 2026** es historia del automóvil: el **primer 911 
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-carrera-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera GTS</a>.
+<a href=/coches/porsche-911-carrera-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Carrera GTS</a>.
 
 ## El sistema T-Hybrid, explicado
 
@@ -350,7 +342,7 @@ A diferencia de un híbrido convencional, el T-Hybrid del GTS **no se enchufa** 
 
 ## Precio y etiqueta ECO: la jugada maestra
 
-Los **205.356 €** duelen, pero la **etiqueta ECO** cambia las reglas del juego: acceso a las ZBE, bonificaciones en el impuesto de matriculación y aparcamiento regulado más barato en muchas ciudades. En Madrid o Barcelona, eso vale miles de euros al año para quien usa el coche a diario. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Los **205.356 €** duelen, pero la **etiqueta ECO** cambia las reglas del juego: acceso a las ZBE, bonificaciones en el impuesto de matriculación y aparcamiento regulado más barato en muchas ciudades. En Madrid o Barcelona, eso vale miles de euros al año para quien usa el coche a diario.
 
 <img src=/media/porsche-911-carrera-gts-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche 911 Carrera GTS 2026>
 
@@ -406,10 +398,9 @@ Incluso con etiqueta ECO, los límites de velocidad son los mismos para todos: s
       "porsche 911 más potente",
       "992.2 turbo s",
     ],
-    content: `
-<img src=/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Turbo S 2026 en autopista>
+    content: `<img src=/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Turbo S 2026 en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-turbo-s-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Turbo S 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-turbo-s-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Turbo S 2026</a>.
 
 El **Porsche 911 Turbo S 2026** es el 911 de serie más potente jamás fabricado: **312.200 €** en España, **711 CV** y **800 Nm** gracias al sistema **T-Hybrid biturbo**, con un 0-100 en **2,5 segundos** y **322 km/h** de velocidad máxima. Acelera como un hiperdeportivo, viaja como una berlina y luce la **etiqueta ECO**.
 
@@ -429,13 +420,13 @@ El **Porsche 911 Turbo S 2026** es el 911 de serie más potente jamás fabricado
 | **Tracción** | Total |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-turbo-s-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Turbo S</a>.
+<a href=/coches/porsche-911-turbo-s-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Turbo S</a>.
 
 ## 711 CV con etiqueta ECO
 
 El Turbo S combina el bóxer biturbo con la hibridación T-Hybrid estrenada en el GTS, pero elevada a otro nivel: **dos turbos eléctricos** y asistencia eléctrica para un total de **711 CV**. La tracción total gestiona la brutalidad con una eficacia insultante: el 0-100 en 2,5 s lo coloca entre los coches de producción más rápidos del planeta.
 
-Y lo más surrealista: con todo eso, homologa la **etiqueta ECO** de la DGT. Un misil de 711 CV con acceso a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Y lo más surrealista: con todo eso, homologa la **etiqueta ECO** de la DGT. Un misil de 711 CV con acceso a las ZBE.
 
 <img src=/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-oficial.webp alt=Porsche 911 Turbo S 2026, vista tres cuartos trasera>
 
@@ -497,10 +488,9 @@ A 322 km/h de máxima, mejor no tentar a la DGT: si te llega una denuncia, <a hr
       "porsche gt3 atmosférico",
       "992.2 gt3",
     ],
-    content: `
-<img src=/media/porsche-911-gt3-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 GT3 2026 en Nürburgring>
+    content: `<img src=/media/porsche-911-gt3-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 GT3 2026 en Nürburgring>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-gt3-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 GT3 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-gt3-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 GT3 2026</a>.
 
 El **Porsche 911 GT3 2026** es el guardián de la vieja escuela: **241.652 €** en España, motor **bóxer atmosférico de 4.0 litros con 510 CV** que sube hasta las **9.000 rpm**, 0-100 en **3,4 segundos** (con PDK) y **311 km/h** de máxima. Sin turbos, sin hibridación, sin filtros: el último mohicano.
 
@@ -521,7 +511,7 @@ El **Porsche 911 GT3 2026** es el guardián de la vieja escuela: **241.652 €**
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-gt3-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 GT3</a>.
+<a href=/coches/porsche-911-gt3-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 GT3</a>.
 
 ## Un atmosférico en 2026: casi un milagro
 
@@ -534,8 +524,6 @@ Mientras el resto de la gama se hibrida, el GT3 mantiene el **4.0 atmosférico**
 Los **241.652 €** son solo el principio: el GT3 es uno de los Porsche más difíciles de comprar nuevos, con listas de espera y unidades asignadas a clientes habituales. En el mercado de ocasión, los GT3 apenas se deprecian... cuando aparecen.
 
 <img src=/media/porsche-911-gt3-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche 911 GT3 2026 con jaula>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -565,7 +553,7 @@ Sí: además del PDK, el GT3 se ofrece con un **manual de 6 marchas**, el favori
 Homologa **13,8 l/100 km** (WLTP). En circuito, el depósito (64 l) dura un suspiro.
 
 ### ¿Tiene etiqueta ECO?
-No: al ser gasolina atmosférica sin hibridación, lleva la **etiqueta C**. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+No: al ser gasolina atmosférica sin hibridación, lleva la **etiqueta C**.
 
 El GT3 pide circuito, pero en carretera los límites son los de todos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -589,10 +577,9 @@ El GT3 pide circuito, pero en carretera los límites son los de todos: si te lle
       "porsche gt3 rs drs",
       "992 gt3 rs",
     ],
-    content: `
-<img src=/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 911 GT3 RS 2025 en circuito>
+    content: `<img src=/media/porsche-911-gt3-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 911 GT3 RS 2025 en circuito>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-gt3-rs-2025-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 GT3 RS 2025</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-gt3-rs-2025-precio-ficha-tecnica/>Ficha técnica del Porsche 911 GT3 RS 2025</a>.
 
 El **Porsche 911 GT3 RS 2025** no es un coche: es un coche de carreras con matrícula. **286.470 €** (tarifa 2024), **525 CV** atmosféricos, **aerodinámica activa con DRS** como en la Fórmula 1, 0-100 en **3,2 segundos** y solo **1.525 kg**. Es el 911 más extremo jamás homologado para la calle.
 
@@ -612,7 +599,7 @@ El **Porsche 911 GT3 RS 2025** no es un coche: es un coche de carreras con matr�
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-gt3-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 911 GT3 RS</a>.
+<a href=/coches/porsche-911-gt3-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 911 GT3 RS</a>.
 
 ## Aerodinámica de Fórmula 1
 
@@ -678,10 +665,9 @@ Un coche así pide circuito cerrado: en carretera, los límites son sagrados.
       "porsche targa descapotable",
       "911 targa españa",
     ],
-    content: `
-<img src=/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Targa 4 GTS 2026 en la costa>
+    content: `<img src=/media/porsche-911-targa-4-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche 911 Targa 4 GTS 2026 en la costa>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-911-targa-4-gts-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche 911 Targa 4 GTS 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-911-targa-4-gts-2026-precio-ficha-tecnica/>Ficha técnica del Porsche 911 Targa 4 GTS 2026</a>.
 
 El **Porsche 911 Targa 4 GTS 2026** une dos iconos: el techo **Targa** automático con su arco plateado y el sistema **T-Hybrid** de **541 CV**. Cuesta **229.051 €** en España, acelera de 0 a 100 en **3,1 segundos** gracias a la tracción total, alcanza **312 km/h** y luce la **etiqueta ECO**. Descapotable, rapidísimo y utilizable todo el año.
 
@@ -701,7 +687,7 @@ El **Porsche 911 Targa 4 GTS 2026** une dos iconos: el techo **Targa** automáti
 | **Tracción** | Total |
 | **Etiqueta DGT** | ECO |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-911-targa-4-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Targa 4 GTS</a>.
+<a href=/coches/porsche-911-targa-4-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del 911 Targa 4 GTS</a>.
 
 ## El Targa: el 911 más icónico
 
@@ -767,10 +753,9 @@ Descapotado o no, los límites de velocidad no cambian: si te llega una denuncia
       "berlina eléctrica porsche",
       "taycan españa",
     ],
-    content: `
-<img src=/media/porsche-taycan-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 2026 en carretera de montaña>
+    content: `<img src=/media/porsche-taycan-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 2026 en carretera de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Taycan 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Taycan 2026</a>.
 
 El **Porsche Taycan 2026** es la berlina eléctrica que demostró que un EV puede ser un Porsche de verdad. En España parte de **106.252 €** con **408 CV**, tracción trasera, 0-100 en **4,8 segundos** y una autonomía WLTP de hasta **559 km** (aprox.) con la batería de 89 kWh. Carga rápida de **270 kW** y **etiqueta Cero**.
 
@@ -791,7 +776,7 @@ El **Porsche Taycan 2026** es la berlina eléctrica que demostró que un EV pued
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan</a>.
+<a href=/coches/porsche-taycan-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan</a>.
 
 ## Precio y gama Taycan
 
@@ -804,8 +789,6 @@ El Taycan de acceso (106.252 €) es la puerta de entrada a la familia eléctric
 Con **270 kW** en corriente continua, el Taycan pasa del 10 al 80 % en unos **18 minutos** en un cargador ultrarrápido: un café y a seguir. Los **559 km WLTP** (aprox.) se traducen en unos 420-450 km reales en autopista, más que suficientes para viajar con una sola parada.
 
 <img src=/media/porsche-taycan-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche Taycan 2026>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -829,7 +812,7 @@ Hasta **~559 km** en ciclo WLTP (aprox.) con la batería de 89 kWh. En autopista
 En un cargador ultrarrápido de 270 kW, del **10 al 80 % en unos 18 minutos**. En casa (11 kW), una noche completa.
 
 ### ¿Tiene etiqueta Cero?
-Sí: al ser 100 % eléctrico, lleva la **etiqueta Cero** de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí: al ser 100 % eléctrico, lleva la **etiqueta Cero** de la DGT.
 
 ### ¿Es fiable la batería?
 Porsche garantiza sus baterías de alto voltaje contra defectos y degradación excesiva según las condiciones de la garantía oficial; conviene confirmar los términos exactos en el concesionario.
@@ -859,10 +842,9 @@ Incluso en silencio eléctrico, los radares no perdonan: si te llega una denunci
       "taycan 4s autonomía",
       "berlina eléctrica premium",
     ],
-    content: `
-<img src=/media/porsche-taycan-4s-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 4S 2026 de noche en ciudad>
+    content: `<img src=/media/porsche-taycan-4s-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 4S 2026 de noche en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-4s-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Taycan 4S 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-4s-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Taycan 4S 2026</a>.
 
 El **Porsche Taycan 4S 2026** es el punto dulce de la gama eléctrica: **125.766 €** en España, **544 CV**, **695 Nm**, tracción total, 0-100 en **3,7 segundos** y **560 km** de autonomía WLTP. Prestaciones muy serias sin llegar a los precios del Turbo.
 
@@ -883,7 +865,7 @@ El **Porsche Taycan 4S 2026** es el punto dulce de la gama eléctrica: **125.766
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-4s-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan 4S</a>.
+<a href=/coches/porsche-taycan-4s-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan 4S</a>.
 
 ## El equilibrio de la gama
 
@@ -945,10 +927,9 @@ Los 250 km/h de máxima son tentadores, pero el carné vale más: si te llega un
       "taycan turbo autonomía",
       "berlina eléctrica 884 cv",
     ],
-    content: `
-<img src=/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan Turbo 2026 en carretera costera>
+    content: `<img src=/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan Turbo 2026 en carretera costera>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-turbo-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Taycan Turbo 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-turbo-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Taycan Turbo 2026</a>.
 
 El **Porsche Taycan Turbo 2026** juega en otra liga: **182.251 €**, **884 CV**, **940 Nm**, 0-100 en **2,7 segundos** y **634 km** de autonomía WLTP con la batería de 105 kWh. Es la berlina eléctrica más completa del mercado: brutalidad y autonomía en el mismo coche.
 
@@ -969,7 +950,7 @@ El **Porsche Taycan Turbo 2026** juega en otra liga: **182.251 €**, **884 CV**
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-turbo-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan Turbo</a>.
+<a href=/coches/porsche-taycan-turbo-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan Turbo</a>.
 
 ## 884 CV y 634 km: sin compromisos
 
@@ -1035,10 +1016,9 @@ A 2,7 segundos el 0-100, cualquier acelerón puede acabar en denuncia: si te lle
       "taycan weissach",
       "récord nurburgring eléctrico",
     ],
-    content: `
-<img src=/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan Turbo GT 2026 en Nürburgring>
+    content: `<img src=/media/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan Turbo GT 2026 en Nürburgring>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Taycan Turbo GT 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Taycan Turbo GT 2026</a>.
 
 El **Porsche Taycan Turbo GT 2026** es el Porsche de serie **más potente de la historia**: **249.409 €**, **1.033 CV**, **1.240 Nm**, 0-100 en **2,3 segundos** y **290 km/h** de máxima. Con el paquete **Weissach**, batió el récord de berlinas eléctricas en Nürburgring. Una berlina familiar que humilla a hiperdeportivos.
 
@@ -1059,7 +1039,7 @@ El **Porsche Taycan Turbo GT 2026** es el Porsche de serie **más potente de la 
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan Turbo GT</a>.
+<a href=/coches/porsche-taycan-turbo-gt-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan Turbo GT</a>.
 
 ## 1.033 CV: cifras de otro planeta
 
@@ -1125,10 +1105,9 @@ Con 1.033 CV, hasta un estornudo en el acelerador es denunciable: si te llega un
       "taycan 4 cross turismo 2026",
       "familiar eléctrico premium",
     ],
-    content: `
-<img src=/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 4 Cross Turismo 2026 en pista de tierra>
+    content: `<img src=/media/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan 4 Cross Turismo 2026 en pista de tierra>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica/>Ver ficha técnica del Taycan 4 Cross Turismo 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica/>Ficha técnica del Taycan 4 Cross Turismo 2026</a>.
 
 El **Porsche Taycan 4 Cross Turismo 2026** es el Taycan familiar y aventurero: **119.013 €** en España, **435 CV**, tracción total, **614 km** de autonomía WLTP (la mayor de la gama) y un maletero de **530 litros** con portón. Altura libre elevada y modos off-road para salir del asfalto.
 
@@ -1149,7 +1128,7 @@ El **Porsche Taycan 4 Cross Turismo 2026** es el Taycan familiar y aventurero: *
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan 4 Cross Turismo</a>.
+<a href=/coches/porsche-taycan-4-cross-turismo-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan 4 Cross Turismo</a>.
 
 ## El Taycan más práctico
 
@@ -1191,7 +1170,7 @@ Tiene mayor altura libre, protecciones y modos off-road para pistas y caminos. N
 El Cross Turismo añade altura libre, protecciones y tracción total de serie frente al Sport Turismo (más bajo y asfáltico). Para uso familiar y viajes, el Cross es la elección lógica.
 
 ### ¿Tiene etiqueta Cero?
-Sí: como todo Taycan, lleva la **etiqueta Cero** de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí: como todo Taycan, lleva la **etiqueta Cero** de la DGT.
 
 Familiar o no, los límites son para todos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
@@ -1215,10 +1194,9 @@ Familiar o no, los límites son para todos: si te llega una denuncia, <a href=ht
       "berlina porsche",
       "panamera españa",
     ],
-    content: `
-<img src=/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera 2026 en autopista>
+    content: `<img src=/media/porsche-panamera-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera 2026 en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-panamera-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Panamera 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-panamera-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Panamera 2026</a>.
 
 El **Porsche Panamera 2026** es la berlina gran turismo de Stuttgart: **134.887 €** en España, **354 CV**, **500 Nm**, 0-100 en **5,3 segundos** y **272 km/h** de máxima. Cinco metros de berlina con alma de 911, suspensión neumática de serie y un maletero de **494 litros** con portón.
 
@@ -1238,7 +1216,7 @@ El **Porsche Panamera 2026** es la berlina gran turismo de Stuttgart: **134.887 
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-panamera-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera</a>.
+<a href=/coches/porsche-panamera-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera</a>.
 
 ## La berlina con alma de 911
 
@@ -1251,8 +1229,6 @@ El Panamera de acceso monta el **V6 2.9 biturbo** con 354 CV y tracción trasera
 El gran rival del Panamera básico está en el mismo concesionario: el **Panamera 4 E-Hybrid** cuesta **135.065 €** (¡solo 178 € más!), ofrece 470 CV, tracción total y **etiqueta Cero** con 93 km de autonomía eléctrica. Salvo que hagas muchos kilómetros sin posibilidad de cargar, el híbrido enchufable es mejor compra.
 
 <img src=/media/porsche-panamera-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche Panamera 2026>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -1279,7 +1255,7 @@ El E-Hybrid (135.065 €) ofrece 470 CV, tracción total, 93 km eléctricos y et
 Homologa **9,6 l/100 km** (WLTP). En uso real, entre 10 y 12 litros.
 
 ### ¿Tiene etiqueta ECO o Cero?
-El Panamera de gasolina lleva la **etiqueta C**. Los E-Hybrid disfrutan de la **etiqueta Cero**. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+El Panamera de gasolina lleva la **etiqueta C**. Los E-Hybrid disfrutan de la **etiqueta Cero**.
 
 ### ¿Es un buen coche para viajar?
 Es su hábitat natural: confort de berlina de lujo, 494 litros de maletero y 272 km/h de punta para las autobahns alemanas.
@@ -1306,10 +1282,9 @@ A 272 km/h de máxima, mejor no probar: si te llega una denuncia, <a href=https:
       "ficha técnica panamera hybrid",
       "panamera etiqueta cero",
     ],
-    content: `
-<img src=/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera 4 E-Hybrid 2026 cargando>
+    content: `<img src=/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera 4 E-Hybrid 2026 cargando>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica/>Ver ficha técnica del Panamera 4 E-Hybrid 2026</a>: precio, autonomía eléctrica, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica del Panamera 4 E-Hybrid 2026</a>.
 
 El **Porsche Panamera 4 E-Hybrid 2026** es la compra inteligente de la gama: **135.065 €** en España (solo 178 € más que el gasolina), **470 CV**, **650 Nm**, 0-100 en **4,1 segundos**, **93 km** de autonomía eléctrica WLTP y **etiqueta Cero**. Más potencia, menos consumo y mejor etiqueta por el mismo dinero.
 
@@ -1330,7 +1305,7 @@ El **Porsche Panamera 4 E-Hybrid 2026** es la compra inteligente de la gama: **1
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera 4 E-Hybrid</a>.
+<a href=/coches/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera 4 E-Hybrid</a>.
 
 ## 93 km eléctricos: el día a día sin gasolina
 
@@ -1340,7 +1315,7 @@ Con **93 km** de autonomía eléctrica homologada (unos 70-75 km reales), la may
 
 ## Etiqueta Cero: la clave
 
-La **etiqueta Cero** abre las ZBE sin restricciones, bonifica el aparcamiento regulado y reduce el impuesto de matriculación. En Madrid o Barcelona, para quien entra a diario en la almendra central, vale miles de euros al año. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+La **etiqueta Cero** abre las ZBE sin restricciones, bonifica el aparcamiento regulado y reduce el impuesto de matriculación. En Madrid o Barcelona, para quien entra a diario en la almendra central, vale miles de euros al año.
 
 <img src=/media/porsche-panamera-4-e-hybrid-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche Panamera 4 E-Hybrid 2026>
 
@@ -1396,10 +1371,9 @@ Con 280 km/h de punta y etiqueta Cero, que no te confundan: los límites son igu
       "berlina más rápida porsche",
       "panamera turbo 2026",
     ],
-    content: `
-<img src=/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera Turbo E-Hybrid 2026 en autopista>
+    content: `<img src=/media/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Panamera Turbo E-Hybrid 2026 en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ver ficha técnica del Panamera Turbo E-Hybrid 2026</a>: precio, potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica del Panamera Turbo E-Hybrid 2026</a>.
 
 El **Porsche Panamera Turbo E-Hybrid 2026** es la berlina más rápida que Porsche ha fabricado: **211.318 €**, **680 CV**, **930 Nm**, 0-100 en **3,2 segundos** y **315 km/h** de velocidad máxima. Y aun así, con **91 km** de autonomía eléctrica y **etiqueta Cero**. El lobo con piel de cordero definitivo.
 
@@ -1420,7 +1394,7 @@ El **Porsche Panamera Turbo E-Hybrid 2026** es la berlina más rápida que Porsc
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera Turbo E-Hybrid</a>.
+<a href=/coches/porsche-panamera-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Panamera Turbo E-Hybrid</a>.
 
 ## V8 + electricidad: 680 CV
 
@@ -1486,10 +1460,9 @@ El 4 E-Hybrid (470 CV, 135.065 €) es la compra racional; el Turbo añade 210 C
       "ficha técnica macan electric",
       "suv eléctrico porsche",
     ],
-    content: `
-<img src=/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp alt=Porsche Macan 4 Electric 2026 en carretera>
+    content: `<img src=/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp alt=Porsche Macan 4 Electric 2026 en carretera>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-macan-4-electric-2026-precio-ficha-tecnica/>Ver ficha técnica del Macan 4 Electric 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-macan-4-electric-2026-precio-ficha-tecnica/>Ficha técnica del Macan 4 Electric 2026</a>.
 
 El **Porsche Macan 4 Electric 2026** es el SUV eléctrico de Stuttgart sobre la plataforma **PPE de 800 voltios**: **86.372 €** en España, **408 CV**, **650 Nm**, tracción total, 0-100 en **5,2 segundos** y **611 km** de autonomía WLTP con la batería de 100 kWh. Carga rápida de **270 kW** y **etiqueta Cero**.
 
@@ -1511,7 +1484,7 @@ El **Porsche Macan 4 Electric 2026** es el SUV eléctrico de Stuttgart sobre la 
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-macan-4-electric-2026-precio-ficha-tecnica/>Ficha técnica completa del Macan 4 Electric</a>.
+<a href=/coches/porsche-macan-4-electric-2026-precio-ficha-tecnica/>Ficha técnica completa del Macan 4 Electric</a>.
 
 ## Adiós al Macan de gasolina
 
@@ -1524,8 +1497,6 @@ La noticia gorda: el Macan de combustión **ha desaparecido** del catálogo nuev
 Con **611 km WLTP** y un maletero de **540 litros** más 84 delanteros, el Macan 4 Electric es el Porsche más familiar de la gama eléctrica. Cinco plazas reales, portón amplio y altura de SUV: el coche para quien quiere un Porsche sin renunciar a la practicidad.
 
 <img src=/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche Macan 4 Electric 2026>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -1552,7 +1523,7 @@ No como modelo nuevo: la nueva generación del Macan es **100 % eléctrica**. La
 Del 10 al 80 % en unos **21 minutos** con 270 kW en corriente continua. En casa, una noche en wallbox.
 
 ### ¿Tiene etiqueta Cero?
-Sí: **etiqueta Cero** de la DGT, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí: **etiqueta Cero** de la DGT, con acceso a todas las ZBE.
 
 ### ¿Macan 4 o Macan Turbo Electric?
 El 4 (408 CV, 86.372 €) es la compra racional; el Turbo (639 CV, 117.426 €) añade 231 CV por 31.000 € más. Para uso familiar, el 4 sobra.
@@ -1579,10 +1550,9 @@ Eléctrico y silencioso, pero los radares te oyen igual: si te llega una denunci
       "suv eléctrico más rápido",
       "macan electric 2026",
     ],
-    content: `
-<img src=/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp alt=Porsche Macan Turbo Electric 2026 en puerto de montaña>
+    content: `<img src=/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp alt=Porsche Macan Turbo Electric 2026 en puerto de montaña>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-macan-turbo-electric-2026-precio-ficha-tecnica/>Ver ficha técnica del Macan Turbo Electric 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-macan-turbo-electric-2026-precio-ficha-tecnica/>Ficha técnica del Macan Turbo Electric 2026</a>.
 
 El **Porsche Macan Turbo Electric 2026** es el SUV eléctrico más rápido de Porsche: **117.426 €**, **639 CV**, **1.130 Nm**, 0-100 en **3,3 segundos** y **590 km** de autonomía WLTP. Un SUV familiar de 2,5 toneladas que acelera como un 911 Carrera S.
 
@@ -1604,7 +1574,7 @@ El **Porsche Macan Turbo Electric 2026** es el SUV eléctrico más rápido de Po
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-macan-turbo-electric-2026-precio-ficha-tecnica/>Ficha técnica completa del Macan Turbo Electric</a>.
+<a href=/coches/porsche-macan-turbo-electric-2026-precio-ficha-tecnica/>Ficha técnica completa del Macan Turbo Electric</a>.
 
 ## 1.130 Nm en un SUV familiar
 
@@ -1670,10 +1640,9 @@ No: el Macan es estrictamente de **5 plazas**. Para 7 plazas hay que mirar a otr
       "suv porsche",
       "cayenne españa",
     ],
-    content: `
-<img src=/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne 2026 en carretera rural>
+    content: `<img src=/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne 2026 en carretera rural>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Cayenne 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Cayenne 2026</a>.
 
 El **Porsche Cayenne 2026** es el SUV que salvó a Porsche a principios de siglo y sigue siendo su superventas: en España parte de **118.067 €** con el **V6 de 354 CV**, **500 Nm**, tracción total, 0-100 en **6,0 segundos** y un maletero de **772 litros**. El SUV familiar con chasis de deportivo.
 
@@ -1693,7 +1662,7 @@ El **Porsche Cayenne 2026** es el SUV que salvó a Porsche a principios de siglo
 | **Tracción** | Total |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne</a>.
+<a href=/coches/porsche-cayenne-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne</a>.
 
 ## El SUV familiar de Porsche
 
@@ -1759,10 +1728,9 @@ Familiar o no, los 248 km/h de máxima tientan: si te llega una denuncia, <a hre
       "ficha técnica cayenne hybrid",
       "suv híbrido enchufable premium",
     ],
-    content: `
-<img src=/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne E-Hybrid 2026 cargando en casa>
+    content: `<img src=/media/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne E-Hybrid 2026 cargando en casa>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica/>Ver ficha técnica del Cayenne E-Hybrid 2026</a>: precio, autonomía eléctrica, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica del Cayenne E-Hybrid 2026</a>.
 
 El **Porsche Cayenne E-Hybrid 2026** es el SUV más sensato de Porsche: **120.307 €** en España, **470 CV**, **650 Nm**, 0-100 en **4,9 segundos**, **76 km** de autonomía eléctrica WLTP y **etiqueta Cero**. Prestaciones, etiqueta y un maletero de **627 litros** por poco más que el gasolina.
 
@@ -1784,7 +1752,7 @@ El **Porsche Cayenne E-Hybrid 2026** es el SUV más sensato de Porsche: **120.30
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne E-Hybrid</a>.
+<a href=/coches/porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne E-Hybrid</a>.
 
 ## 76 km eléctricos para el día a día
 
@@ -1824,7 +1792,7 @@ A diferencia de muchos híbridos enchufables, el Cayenne E-Hybrid conserva un ma
 Unas **2,5 horas** en un wallbox de 11 kW. No dispone de carga rápida en continua.
 
 ### ¿Tiene etiqueta Cero?
-Sí: **etiqueta Cero** de la DGT, con acceso a ZBE y ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+Sí: **etiqueta Cero** de la DGT, con acceso a ZBE y ventajas fiscales.
 
 ### ¿Merece la pena sin wallbox en casa?
 Pierde su gran baza: sin carga diaria, el consumo real sube por encima de los 10 l/100 km y se paga el sobrepeso. Con punto de carga, es imbatible.
@@ -1854,10 +1822,9 @@ El E-Hybrid (470 CV, 120.307 €) es el equilibrado; el Turbo (740 CV, 192.942 �
       "cayenne coupé españa",
       "cayenne coupé 354 cv",
     ],
-    content: `
-<img src=/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne Coupé 2026 en ciudad>
+    content: `<img src=/media/porsche-cayenne-coupe-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne Coupé 2026 en ciudad>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-cayenne-coupe-2026-precio-ficha-tecnica/>Ver ficha técnica del Cayenne Coupé 2026</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-cayenne-coupe-2026-precio-ficha-tecnica/>Ficha técnica del Cayenne Coupé 2026</a>.
 
 El **Porsche Cayenne Coupé 2026** es la versión elegante del superventas: **122.156 €** en España, el mismo **V6 de 354 CV** y **500 Nm**, tracción total, 0-100 en **6,0 segundos** y una caída de techo que lo convierte en el SUV más estiloso del catálogo. Maletero de **592 litros** y alerón trasero adaptativo de serie.
 
@@ -1876,7 +1843,7 @@ El **Porsche Cayenne Coupé 2026** es la versión elegante del superventas: **12
 | **Tracción** | Total |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-cayenne-coupe-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne Coupé</a>.
+<a href=/coches/porsche-cayenne-coupe-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne Coupé</a>.
 
 ## La silueta manda
 
@@ -1915,7 +1882,7 @@ La **carrocería coupé** (techo descendente), alerón trasero adaptativo de ser
 Sí: el Cayenne Coupé también se ofrece en versiones **E-Hybrid** y **Turbo E-Hybrid**, con la misma carrocería coupé.
 
 ### ¿Tiene etiqueta ECO?
-El V6 de gasolina lleva la **etiqueta C**; las versiones E-Hybrid disfrutan de la **etiqueta Cero**. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
+El V6 de gasolina lleva la **etiqueta C**; las versiones E-Hybrid disfrutan de la **etiqueta Cero**.
 
 ### ¿Coupé o estándar?
 Si la familia y el maletero mandan, el estándar. Si el diseño manda y las plazas traseras las usan niños o esporádicamente, el Coupé.
@@ -1942,10 +1909,9 @@ Elegante o no, 248 km/h de máxima son denunciables: si te llega una multa, <a h
       "suv más potente porsche",
       "cayenne turbo 2026",
     ],
-    content: `
-<img src=/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne Turbo E-Hybrid 2026 en autopista>
+    content: `<img src=/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-hero.webp alt=Porsche Cayenne Turbo E-Hybrid 2026 en autopista>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ver ficha técnica del Cayenne Turbo E-Hybrid 2026</a>: precio, potencia, autonomía eléctrica y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica del Cayenne Turbo E-Hybrid 2026</a>.
 
 El **Porsche Cayenne Turbo E-Hybrid 2026** es el Cayenne más potente jamás fabricado: **192.942 €**, **740 CV**, **950 Nm**, 0-100 en **3,7 segundos** y **295 km/h** de máxima. Un V8 biturbo híbrido enchufable de 2,6 toneladas que acelera como un 911... y luce la **etiqueta Cero**.
 
@@ -1967,7 +1933,7 @@ El **Porsche Cayenne Turbo E-Hybrid 2026** es el Cayenne más potente jamás fab
 | **Tracción** | Total |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne Turbo E-Hybrid</a>.
+<a href=/coches/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica/>Ficha técnica completa del Cayenne Turbo E-Hybrid</a>.
 
 ## 740 CV con etiqueta Cero
 
@@ -1980,8 +1946,6 @@ El Turbo E-Hybrid combina el **V8 biturbo** con el sistema híbrido enchufable p
 Es el Porsche más pesado de la gama, y aun así el 0-100 en 3,7 s lo pone a la altura de deportivos puros. Los frenos carbocerámicos disponibles y el chasis activo son casi obligatorios para domar semejante mole. El consumo real sin cargar: más de **12 l/100 km** sin despeinarse.
 
 <img src=/media/porsche-cayenne-turbo-e-hybrid-2026-precio-ficha-tecnica-interior.webp alt=Interior del Porsche Cayenne Turbo E-Hybrid 2026>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Pros y contras
 
@@ -2035,10 +1999,9 @@ El E-Hybrid (470 CV, 120.307 €) es el racional; el Turbo añade 270 CV, el V8 
       "último 718 gasolina",
       "roadster porsche",
     ],
-    content: `
-<img src=/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 718 Spyder RS 2025 descapotado en carretera costera>
+    content: `<img src=/media/porsche-718-spyder-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 718 Spyder RS 2025 descapotado en carretera costera>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-718-spyder-rs-2025-precio-ficha-tecnica/>Ver ficha técnica del 718 Spyder RS 2025</a>: precio, potencia, consumo y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-718-spyder-rs-2025-precio-ficha-tecnica/>Ficha técnica del 718 Spyder RS 2025</a>.
 
 El **Porsche 718 Spyder RS 2025** es el canto del cisne del 718 de combustión: **180.709 €**, el motor **4.0 atmosférico de 500 CV** heredado del 911 GT3, 0-100 en **3,4 segundos**, **308 km/h** de máxima y solo **1.485 kg**. Descapotable, manual de capota y fin de serie: **ya no admite pedidos nuevos**.
 
@@ -2059,7 +2022,7 @@ El **Porsche 718 Spyder RS 2025** es el canto del cisne del 718 de combustión: 
 | **Tracción** | Trasera |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-718-spyder-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 718 Spyder RS</a>.
+<a href=/coches/porsche-718-spyder-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 718 Spyder RS</a>.
 
 ## El motor del GT3 a cielo abierto
 
@@ -2125,10 +2088,9 @@ Un roadster así pide carreteras de curvas... y respeto a los límites.
       "porsche taycan gts active ride",
       "deportivo eléctrico 700 cv",
     ],
-    content: `
-<img src=/media/porsche-taycan-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan GTS 2026 azul circulando por autopista al atardecer>
+    content: `<img src=/media/porsche-taycan-gts-2026-precio-ficha-tecnica-hero.webp alt=Porsche Taycan GTS 2026 azul circulando por autopista al atardecer>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-taycan-gts-2026-precio-ficha-tecnica/>Ver ficha técnica del Porsche Taycan GTS 2026</a>: precio, potencia, autonomía y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-taycan-gts-2026-precio-ficha-tecnica/>Ficha técnica del Porsche Taycan GTS 2026</a>.
 
 El **Porsche Taycan GTS** es el punto dulce de la gama eléctrica de Stuttgart: con el restyling, sube a **700 CV** con launch control (515 kW, 790 Nm), acelera de 0 a 100 en **3,3 segundos** y homologa **628 km** de autonomía WLTP. La batería Performance Plus de 105 kWh carga a **320 kW**: del 10 al 80 % en 18 minutos.
 
@@ -2149,7 +2111,7 @@ Su precio en España ronda los **154.000 €** (aprox.). Y lo mejor no son las c
 | **Maletero** | 407 L |
 | **Etiqueta DGT** | Cero |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-taycan-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan GTS</a>.
+<a href=/coches/porsche-taycan-gts-2026-precio-ficha-tecnica/>Ficha técnica completa del Taycan GTS</a>.
 
 ## El GTS frente a sus hermanos
 
@@ -2163,8 +2125,6 @@ Su precio en España ronda los **154.000 €** (aprox.). Y lo mejor no son las c
 El GTS es el equilibrio perfecto: casi tan rápido como el Turbo en sensaciones, con más autonomía y un chasis más deportivo que el 4S.
 
 <img src=/media/porsche-taycan-gts-2026-precio-ficha-tecnica-oficial.webp alt=Porsche Taycan GTS 2026 negro, vista lateral>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Prueba real: el mejor chasis que han probado
 
@@ -2228,10 +2188,9 @@ Si te llega una multa con tu Taycan GTS, <a href=https://recurretumulta.online/#
       "718 gt4 rs 0-100",
       "porsche 718 fin de serie",
     ],
-    content: `
-<img src=/media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 718 Cayman GT4 RS gris en circuito al amanecer>
+    content: `<img src=/media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-hero.webp alt=Porsche 718 Cayman GT4 RS gris en circuito al amanecer>
 
-**¿Buscas solo los datos?** <a href=/coches/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica/>Ver ficha técnica del 718 Cayman GT4 RS</a>: precio, potencia, Nürburgring y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica/>Ficha técnica del 718 Cayman GT4 RS</a>.
 
 El **Porsche 718 Cayman GT4 RS** es la despedida definitiva del 718 de combustión: el bóxer 4.0 atmosférico del **911 GT3**, con **500 CV** a 9.000 rpm y 450 Nm, en un chasis central de solo **1.415 kg**. Acelera de 0 a 100 en **3,4 segundos**, alcanza **315 km/h** y marcó **7:09.300 en Nürburgring**: 23,6 segundos más rápido que el GT4 normal.
 
@@ -2253,7 +2212,7 @@ En España partía de **163.182 €** (<a href=https://en.actualidadmotor.com/po
 | **Nürburgring** | 7:09.300 |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/coches/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 718 Cayman GT4 RS</a>.
+<a href=/coches/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica/>Ficha técnica completa del 718 Cayman GT4 RS</a>.
 
 ## Frente a sus rivales de circuito
 
@@ -2267,8 +2226,6 @@ En España partía de **163.182 €** (<a href=https://en.actualidadmotor.com/po
 Más ligero que el 911 GT3 y mucho más barato: el GT4 RS es la forma más pura (y racional) de tener el motor del GT3.
 
 <img src=/media/porsche-718-cayman-gt4-rs-2025-precio-ficha-tecnica-oficial.webp alt=Porsche 718 Cayman GT4 RS azul, vista lateral con alerón>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
 
 ## Prueba real: "el mejor coche que he conducido"
 

@@ -65,10 +65,7 @@ Limitar sus importaciones con **cuotas**: por encima de un volumen fijado se pag
 Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que hoy compiten por precio (Omoda, Jaecoo, BYD). Aún no hay fechas ni volúmenes oficiales.
 
 ### ¿Qué coches híbridos chinos se venden en España?
-Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
-
-**¿Te han puesto una multa?**
-`,
+Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*`,
 },
 {
   title: "Renault hará eléctricos en España",
@@ -131,10 +128,7 @@ Dos eléctricos del segmento C en Palencia sobre la plataforma RGEV Medium 2.0, 
 La inversión cubre el periodo 2026-2030; los primeros modelos de la nueva etapa industrial llegarán en la segunda mitad de la década.
 
 ### ¿Cuánto invierte Renault en España?
-600 millones de euros entre 2026 y 2030, combinando fondos propios del grupo con ayudas públicas nacionales (PERTE) y regionales.
-
-**¿Te han puesto una multa?**
-`,
+600 millones de euros entre 2026 y 2030, combinando fondos propios del grupo con ayudas públicas nacionales (PERTE) y regionales.`,
 },
 {
   title: "Jaguar Type 01: 1.030 CV eléctricos",
@@ -205,10 +199,7 @@ Parte de **130.000 libras** en Reino Unido; el precio para España aún no se ha
 Los pedidos se abren a **principios de 2027** y las primeras entregas están previstas para el segundo semestre de 2027.
 
 ### ¿Qué autonomía tiene el Jaguar Type 01?
-Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologación final.
-
-**¿Te han puesto una multa?**
-`,
+Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologación final.`,
 },
 {
   title: "VW ID.Tiguan: el nuevo ID.4",
@@ -309,9 +300,6 @@ Sí: sustituye a los **ID.4 e ID.5**, aunque convivirá con el Tiguan de combust
 ### ¿Cuánto costará el ID.Tiguan en España?
 Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el estreno o poco después.
 
-**¿Te han puesto una multa?**
-
-
 *Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`,
 },
 {
@@ -381,10 +369,7 @@ Aún sin precio oficial. Estimamos **≈39.000 €** (no oficial) a partir del a
 Más de **424 km WLTP** según la cifra provisional de Volkswagen, con batería de 52 kWh netos.
 
 ### ¿Cuándo llega a España?
-La preventa europea está abierta; las primeras entregas se esperan para **2026**. Sin fecha concreta para España todavía.
-
-**¿Te han puesto una multa?**
-`,
+La preventa europea está abierta; las primeras entregas se esperan para **2026**. Sin fecha concreta para España todavía.`,
 },
 {
   title: "Dacia Striker: menos de 25.000 €",
@@ -441,9 +426,6 @@ Dacia anuncia un precio **por debajo de 25.000 €** en Europa. La tarifa españ
 Debuta en el Salón de París el **12 de octubre de 2026** y los pedidos se abren ese mismo mes.
 
 ### ¿Qué motores tiene el Dacia Striker?
-Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y **BiFuel-G 140** de GLP con hasta 1.500 km de autonomía.
-
-**¿Te han puesto una multa?**
-`,
+Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y **BiFuel-G 140** de GLP con hasta 1.500 km de autonomía.`,
 },
 ];

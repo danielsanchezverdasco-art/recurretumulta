@@ -91,8 +91,6 @@ Dos incógnitas más condicionan su encaje: le correspondería la etiqueta **Cer
 
 Si se acerca a lo homologado, su uso natural será cargar en casa y moverse a diario sin arrancar el generador, reservando los **900 km combinados** para escapadas largas. A cambio, con casi cinco metros aparcar en el centro será una tarea seria, y un EREV sigue teniendo un motor de gasolina que mantener. Sin pruebas independientes ni propietarios en Europa, afirmar más sobre consumo real o capacidad fuera de pista sería inventar.
 
-
-
 ## Frente a los rivales que ya puedes comprar
 
 Su contraste más incómodo no es el Defender, sino otro EREV ya a la venta: el <a href=/coches/leapmotor-c10-reev-2025-precio-ficha-tecnica/>Leapmotor C10 REEV</a> ofrece en nuestra ficha **215 CV**, la misma autonomía eléctrica de **145 km** y precio desde **33.800 €**. Es más pequeño y menos todoterreno, pero ya se vende aquí por mucho menos. En híbrido enchufable, el <a href=/coches/jaecoo-7-shs-hibrido-enchufable-precio-ficha-tecnica/>Jaecoo 7 SHS</a> parte de **27.990 €** con **279 CV** y **90 km** eléctricos, aunque mide 4,50 metros y juega en otra liga.
@@ -119,7 +117,6 @@ Al ser un EREV con más de 40 km de autonomía eléctrica, le corresponde la eti
 
 ### ¿El iCAUR V27 es el mismo que el iCar V27 de China?
 Sí: **iCAUR** es el nombre de la marca para Europa; en China se vende como **iCar V27** desde marzo de 2026.
-
 
 *Fuentes: <a href=https://www.icaurglobal.com/>web oficial de iCAUR</a> y prensa especializada citada en el texto.*`,
 },
@@ -301,8 +298,7 @@ El nuevo **V2 de 890 cc** con 111 CV a 9.000 rpm y 91,1 Nm, que sustituye al Tes
 **175 kg sin combustible**, 4 kg menos que la generación anterior.
 
 ### ¿La Monster 2026 vale para el carnet A2?
-No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría que limitarla, y no es su hábitat.
-`,
+No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría que limitarla, y no es su hábitat.`,
 },
 {
   title: "Renault E-Space: Espace eléctrico",
@@ -578,7 +574,6 @@ El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.00
 
 ### ¿Hay alguna marca española en el Salón de París 2026?
 Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
-
 
 *Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
 },

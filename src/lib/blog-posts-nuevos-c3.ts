@@ -23,7 +23,7 @@ export const NUEVOS_C3_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/volkswagen-t-cross-2025-precio-ficha-tecnica-hero.webp alt=Volkswagen T-Cross 2025 en carretera, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/volkswagen-t-cross-2025-precio-ficha-tecnica/>Ver ficha técnica del Volkswagen T-Cross 2025</a>: precio, consumos, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/volkswagen-t-cross-2025-precio-ficha-tecnica/>Ficha técnica del Volkswagen T-Cross 2025</a>.
 
 El **Volkswagen T-Cross 2025** es la propuesta alemana para quien quiere un SUV pequeño sin complicaciones: el restyling de 2024 le sentó bien, con un frontal más afilado, pilotos traseros unidos por una tira luminosa y un interior por fin con pantalla de hasta 9,2 pulgadas y materiales algo más cuidados. Parte de **21.845 €** con el motor 1.0 TSI de 95 CV, lo que lo coloca entre los B-SUV más asequibles de las marcas generalistas europeas.
 
@@ -109,7 +109,7 @@ Cada 15.000 km o 12 meses, según el plan oficial Volkswagen.
     ],
     content: `<img src=/media/volkswagen-id-3-neo-2026-precio-ficha-tecnica-hero.webp alt=Volkswagen ID.3 Neo 2026 eléctrico en ciudad, vista delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/volkswagen-id-3-neo-2026-precio-ficha-tecnica/>Ver ficha técnica del Volkswagen ID.3 Neo 2026</a>: precio, autonomía, potencia y batería. <a href=/comparador-coches/>Compáralo con sus rivales eléctricos</a>.
+<a href=/coches/volkswagen-id-3-neo-2026-precio-ficha-tecnica/>Ficha técnica del Volkswagen ID.3 Neo 2026</a>. <a href=/comparador-coches/>Compáralo con sus rivales eléctricos</a>.
 
 El **Volkswagen ID.3 Neo 2026** es la actualización profunda del compacto eléctrico alemán: nuevo diseño exterior e interior, mejores materiales, pantalla de 12,9 pulgadas y una gama reorganizada que culmina en la versión Pro S de 79 kWh con **628 km de autonomía WLTP**. En España se anuncia desde **25.600 € sujeto a financiación**, un precio agresivo para un eléctrico de este calibre.
 
@@ -162,7 +162,6 @@ Hasta 628 km WLTP en la versión Pro S de 79 kWh. La versión de acceso (55 kWh)
 En carga rápida de continua recupera hasta 201 km en 10 minutos según Volkswagen.
 
 ### ¿El ID.3 Neo tiene etiqueta CERO?
-Sí, como todo eléctrico puro.
 
 ### ¿Qué garantía tiene la batería del ID.3 Neo?
 8 años o 160.000 km con un mínimo del 70 % de capacidad.
@@ -195,7 +194,7 @@ Sí: 326 CV, 601 km de autonomía y llegada prevista en 2027, por unos 50.000 �
     ],
     content: `<img src=/media/volkswagen-tiguan-2025-precio-ficha-tecnica-hero.webp alt=Volkswagen Tiguan 2025 en carretera de montaña, vista tres cuartos>
 
-**¿Buscas solo los datos?** <a href=/coches/volkswagen-tiguan-2025-precio-ficha-tecnica/>Ver ficha técnica del Volkswagen Tiguan 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/volkswagen-tiguan-2025-precio-ficha-tecnica/>Ficha técnica del Volkswagen Tiguan 2025</a>.
 
 El **Volkswagen Tiguan 2025** representa la tercera generación del SUV más vendido de Europa: más tecnológico, más eficiente y con una gama que abarca desde el 1.5 eTSI de 130 CV (**36.780 €**) hasta el R-Line Performance de 265 CV. Todos los gasolina llevan hibridación ligera y **etiqueta ECO**, y hay dos híbridos enchufables de 204 y 272 CV con etiqueta CERO.
 
@@ -281,7 +280,7 @@ El 2.0 TDI sigue existiendo (150 CV), pero sin etiqueta ECO: solo tiene sentido 
     ],
     content: `<img src=/media/volkswagen-id4-2025-precio-ficha-tecnica-hero.webp alt=Volkswagen ID.4 2025 eléctrico en ciudad, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/volkswagen-id4-2025-precio-ficha-tecnica/>Ver ficha técnica del Volkswagen ID.4 2025</a>: precio, autonomía y batería. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/volkswagen-id4-2025-precio-ficha-tecnica/>Ficha técnica del Volkswagen ID.4 2025</a>.
 
 El **Volkswagen ID.4 2025** se ha convertido en uno de los SUV eléctricos más racionales del mercado: la versión Pro de acceso ofrece **286 CV, batería de 77 kWh y unos 520 km de autonomía** por **41.420 €**, un precio muy recortado frente a hace dos años. Tracción trasera, 545 Nm de par y un maletero de 543 L lo hacen apto como coche familiar único.
 
@@ -365,7 +364,7 @@ La versión GTX (340 CV) es 4Motion; el Pro es tracción trasera.
     ],
     content: `<img src=/media/volkswagen-golf-2025-precio-ficha-tecnica-hero.webp alt=Volkswagen Golf 2025 en carretera, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/volkswagen-golf-2025-precio-ficha-tecnica/>Ver ficha técnica del Volkswagen Golf 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/volkswagen-golf-2025-precio-ficha-tecnica/>Ficha técnica del Volkswagen Golf 2025</a>.
 
 El **Volkswagen Golf 2025** (la actualización 8.5) es el compacto que lo inventó todo, y sigue siendo la referencia: ha corregido los pecados del Golf 8 (vuelven los botones físicos en el volante), mantiene una gama amplísima y parte de **27.945 €** con el 1.5 TSI de 116 CV. Del utilitario al R de 333 CV, hay un Golf para cada conductor.
 
@@ -450,7 +449,7 @@ Cada 15.000 km o 12 meses.
     ],
     content: `<img src=/media/renault-captur-2025-precio-ficha-tecnica-hero.webp alt=Renault Captur 2025 en ciudad, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-captur-2025-precio-ficha-tecnica/>Ver ficha técnica del Renault Captur 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/renault-captur-2025-precio-ficha-tecnica/>Ficha técnica del Renault Captur 2025</a>.
 
 El **Renault Captur 2025** es el B-SUV francés que nunca falla: el restyling de 2024 le dio un frontal mucho más atractivo (con el nuevo logo del rombo) y un interior con el sistema OpenR de Google. Parte de unos **21.500 €** con el motor TCe de 90 CV, y la gama sube hasta el E-Tech full hybrid de 145 CV y el PHEV, para todos los bolsillos y etiquetas.
 
@@ -532,7 +531,7 @@ Sí, el sistema OpenR link con Google Automotive Services en acabados medios y a
     ],
     content: `<img src=/media/renault-scenic-e-tech-2025-precio-ficha-tecnica-hero.webp alt=Renault Scenic E-Tech 2025 eléctrico, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-scenic-e-tech-2025-precio-ficha-tecnica/>Ver ficha técnica del Renault Scenic E-Tech 2025</a>: precio, autonomía y batería. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/renault-scenic-e-tech-2025-precio-ficha-tecnica/>Ficha técnica del Renault Scenic E-Tech 2025</a>.
 
 El **Renault Scenic E-Tech 2025**, Coche del Año en Europa 2024, es la prueba de que el coche eléctrico familiar no tiene por qué ser aburrido: diseño vanguardista, interior luminoso con techo Solarbay y dos baterías a elegir. Parte de **34.314 €** con 170 CV y 60 kWh (**430 km**), y la versión de 87 kWh y 220 CV llega a **623 km** de autonomía.
 
@@ -616,7 +615,7 @@ Sí, disponible para optimizar la autonomía en invierno.
     ],
     content: `<img src=/media/renault-kangoo-2025-precio-ficha-tecnica-hero.webp alt=Renault Kangoo 2025 familiar, vista lateral con puertas correderas>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-kangoo-2025-precio-ficha-tecnica/>Ver ficha técnica del Renault Kangoo 2025</a>: precio, medidas y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/renault-kangoo-2025-precio-ficha-tecnica/>Ficha técnica del Renault Kangoo 2025</a>.
 
 El **Renault Kangoo 2025** sigue siendo el rey de los monovolúmenes familiares: puertas laterales correderas, techo alto, **775 L de maletero** y un interior modular que ningún SUV puede igualar. Parte de unos **29.500 €** con el motor TCe de 130 CV, y existe versión **E-Tech eléctrica** con etiqueta CERO para quien quiera cero emisiones.
 
@@ -698,7 +697,7 @@ El Kangoo Combi es un turismo (derivado de comercial) con todo el confort de un 
     ],
     content: `<img src=/media/renault-megane-e-tech-2025-precio-ficha-tecnica-hero.webp alt=Renault Megane E-Tech 2025 eléctrico, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-megane-e-tech-2025-precio-ficha-tecnica/>Ver ficha técnica del Renault Megane E-Tech 2025</a>: precio, autonomía y batería. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/renault-megane-e-tech-2025-precio-ficha-tecnica/>Ficha técnica del Renault Megane E-Tech 2025</a>.
 
 El **Renault Megane E-Tech 2025** es el compacto eléctrico más deseado de Francia: líneas de coupé, interior con Google integrado y **220 CV** que lo catapultan a 100 km/h en 7,4 segundos. Con la batería de 60 kWh homologa **450 km** de autonomía y parte de unos **37.500 €**.
 
@@ -782,7 +781,7 @@ Sí, de serie en la mayoría de acabados.
     ],
     content: `<img src=/media/renault-espace-2024-precio-ficha-tecnica-hero.webp alt=Renault Espace 2024 híbrido de 7 plazas, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-espace-2024-precio-ficha-tecnica/>Ver ficha técnica del Renault Espace 2024</a>: precio, consumo y plazas. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/renault-espace-2024-precio-ficha-tecnica/>Ficha técnica del Renault Espace 2024</a>.
 
 El **Renault Espace 2024** reinventó un icono: del monovolumen original al SUV familiar de **7 plazas** con el eficiente sistema híbrido **E-Tech de 200 CV** que homologa solo **4,7 l/100 km**. Parte de unos **43.500 €** y ofrece 581 L de maletero en configuración de 5 plazas.
 
@@ -864,7 +863,7 @@ No hay prueba independiente de la sexta generación.
     ],
     content: `<img src=/media/peugeot-3008-2025-precio-ficha-tecnica-hero.webp alt=Peugeot 3008 2025 fastback, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-3008-2025-precio-ficha-tecnica/>Ver ficha técnica del Peugeot 3008 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/peugeot-3008-2025-precio-ficha-tecnica/>Ficha técnica del Peugeot 3008 2025</a>.
 
 El **Peugeot 3008 2025** es la tercera generación del SUV que puso de moda el segmento: ahora con silueta **fastback**, el espectacular **i-Cockpit panorámico de 21 pulgadas** y una gama electrificada completa. Parte de unos **33.500 €** con el híbrido de 136 CV y etiqueta ECO.
 
@@ -946,7 +945,7 @@ Hay versión PHEV de 195 CV con etiqueta CERO, además del híbrido ligero y el 
     ],
     content: `<img src=/media/peugeot-e-3008-2025-precio-ficha-tecnica-hero.webp alt=Peugeot E-3008 2025 eléctrico, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-e-3008-2025-precio-ficha-tecnica/>Ver ficha técnica del Peugeot E-3008 2025</a>: precio, autonomía y batería. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/peugeot-e-3008-2025-precio-ficha-tecnica/>Ficha técnica del Peugeot E-3008 2025</a>.
 
 El **Peugeot E-3008 2025** es la versión 100 % eléctrica del SUV fastback francés, construida sobre la nueva plataforma **STLA Medium** de Stellantis. La versión de acceso ofrece **210 CV, 73 kWh y 524 km** de autonomía por unos **44.500 €**, y la Long Range de 98 kWh roza los **700 km**, récord del segmento generalista.
 
@@ -1030,7 +1029,7 @@ Sí, en la versión Dual Motor de 320 CV.
     ],
     content: `<img src=/media/peugeot-2008-2025-precio-ficha-tecnica-hero.webp alt=Peugeot 2008 2025 en ciudad, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-2008-2025-precio-ficha-tecnica/>Ver ficha técnica del Peugeot 2008 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/peugeot-2008-2025-precio-ficha-tecnica/>Ficha técnica del Peugeot 2008 2025</a>.
 
 El **Peugeot 2008 2025** sigue siendo uno de los B-SUV más vendidos de España, y no es casualidad: diseño con carácter, i-Cockpit 3D y una gama para todos los gustos. Parte de unos **24.500 €** con el 1.2 de 100 CV, y ofrece híbridos de 136 y 145 CV además del **E-2008 eléctrico**.
 
@@ -1112,7 +1111,7 @@ La posición con volante pequeño y cuadro elevado no convence a todos: conviene
     ],
     content: `<img src=/media/peugeot-408-2025-precio-ficha-tecnica-hero.webp alt=Peugeot 408 2025 fastback, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-408-2025-precio-ficha-tecnica/>Ver ficha técnica del Peugeot 408 2025</a>: precio, versiones y consumos. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/peugeot-408-2025-precio-ficha-tecnica/>Ficha técnica del Peugeot 408 2025</a>.
 
 El **Peugeot 408 2025** es el raro avis de la gama: una berlina **fastback** de 4,69 m que no quiere ser SUV. Con el híbrido de 136 CV y etiqueta ECO parte de unos **33.500 €**, y la versión **PHEV de 225 CV** con etiqueta CERO es la joya de la gama para quien busque prestaciones con enchufe.
 
@@ -1192,7 +1191,7 @@ No: es una berlina fastback con toques crossover, más baja que un SUV.
     ],
     content: `<img src=/media/peugeot-308-2025-precio-ficha-tecnica-hero.webp alt=Peugeot 308 2025 compacto, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/peugeot-308-2025-precio-ficha-tecnica/>Ver ficha técnica del Peugeot 308 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/peugeot-308-2025-precio-ficha-tecnica/>Ficha técnica del Peugeot 308 2025</a>.
 
 El **Peugeot 308 2025** es el compacto francés con más estilo: afilado, elegante y con el i-Cockpit más elaborado del segmento. Parte de unos **29.500 €** con el híbrido de 136 CV y etiqueta ECO, y la gama incluye el **SW familiar** (608 L de maletero), el **PHEV de 195 CV** y el **E-308 eléctrico**.
 
@@ -1254,7 +1253,7 @@ Sí.
 - <a href=https://www.peugeot.es>Peugeot España: 308 oficial</a>
 - <a href=https://www.km77.com>km77: fichas técnicas Peugeot 308</a>
 
-¿Te han puesto una multa? <a href=/#analizador>Analízala gratis con IA</a> antes de pagarla.`,
+<a href=/#analizador>Analízala gratis con IA</a> antes de pagarla.`,
   },
   {
     title: "Citroën C3 2024: nueva generación",
@@ -1274,7 +1273,7 @@ Sí.
     ],
     content: `<img src=/media/citroen-c3-2024-precio-ficha-tecnica-hero.webp alt=Citroën C3 2024 nueva generación, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/citroen-c3-2024-precio-ficha-tecnica/>Ver ficha técnica del Citroën C3 2024</a>: precio, consumos y medidas. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/citroen-c3-2024-precio-ficha-tecnica/>Ficha técnica del Citroën C3 2024</a>.
 
 El **Citroën C3 2024** inaugura la cuarta generación del urbano francés con una receta ganadora: estética SUV-izada, el legendario confort Citroën con **suspensión de topes hidráulicos** y un precio rompedor desde unos **15.000 €**. Además, la versión eléctrica <a href=/coches/citroen-e-c3-2024-precio-ficha-tecnica/>ë-C3</a> (23.300 €) es el eléctrico más barato de Europa.
 
@@ -1355,7 +1354,7 @@ Sí.
     ],
     content: `<img src=/media/citroen-e-c3-2024-precio-ficha-tecnica-hero.webp alt=Citroën ë-C3 2024 eléctrico, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/citroen-e-c3-2024-precio-ficha-tecnica/>Ver ficha técnica del Citroën ë-C3 2024</a>: precio, autonomía y batería. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/citroen-e-c3-2024-precio-ficha-tecnica/>Ficha técnica del Citroën ë-C3 2024</a>.
 
 El **Citroën ë-C3 2024** hizo historia al lanzar el coche eléctrico más barato de Europa: **23.300 €** con **326 km de autonomía WLTP**, batería de 44 kWh y **carga rápida de 100 kW**. Sin trampa ni cartón: un urbano eléctrico honesto para el día a día.
 
@@ -1438,7 +1437,7 @@ Para viajes ocasionales sí, con paradas de carga; su hábitat es la ciudad y el
     ],
     content: `<img src=/media/citroen-c5-x-2025-precio-ficha-tecnica-hero.webp alt=Citroën C5 X 2025 berlina, vista lateral>
 
-**¿Buscas solo los datos?** <a href=/coches/citroen-c5-x-2025-precio-ficha-tecnica/>Ver ficha técnica del Citroën C5 X 2025</a>: precio, versiones y consumos. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/citroen-c5-x-2025-precio-ficha-tecnica/>Ficha técnica del Citroën C5 X 2025</a>.
 
 El **Citroën C5 X 2025** es el buque insignia de la marca: una berlina grande de **4,8 m** que combina el confort legendario de Citroën con un diseño crossover. Parte de unos **38.500 €** con el híbrido de 136 CV y etiqueta ECO, y el **PHEV de 225 CV** con etiqueta CERO es la opción para quien quiera lo máximo.
 
@@ -1518,7 +1517,7 @@ Es su punto fuerte: de lo más confortable del mercado generalista.
     ],
     content: `<img src=/media/opel-grandland-2025-precio-ficha-tecnica-hero.webp alt=Opel Grandland 2025, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/opel-grandland-2025-precio-ficha-tecnica/>Ver ficha técnica del Opel Grandland 2025</a>: precio, versiones y consumos. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/opel-grandland-2025-precio-ficha-tecnica/>Ficha técnica del Opel Grandland 2025</a>.
 
 El **Opel Grandland 2025** estrena segunda generación sobre la plataforma **STLA Medium** de Stellantis: más grande (4,65 m), más tecnológico y con gama 100 % electrificada. Parte de unos **31.500 €** con el híbrido de 136 CV y etiqueta ECO, y hay versiones **PHEV** y **eléctrica** (hasta 700 km).
 
@@ -1579,7 +1578,7 @@ El frontal de diseño de Opel que integra parrilla, faros y logo en un solo pane
 - <a href=https://www.opel.es>Opel España: Grandland oficial</a>
 - <a href=https://www.km77.com>km77: fichas técnicas Opel Grandland</a>
 
-¿Te han puesto una multa? <a href=/#analizador>Analízala gratis con IA</a> en 2 minutos.`,
+<a href=/#analizador>Analízala gratis con IA</a> en 2 minutos.`,
   },
   {
     title: "Opel Corsa 2026: precio y ficha",
@@ -1599,7 +1598,7 @@ El frontal de diseño de Opel que integra parrilla, faros y logo en un solo pane
     ],
     content: `<img src=/media/opel-corsa-2026-precio-ficha-tecnica-hero.webp alt=Opel Corsa 2026 urbano, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/opel-corsa-2026-precio-ficha-tecnica/>Ver ficha técnica del Opel Corsa 2026</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/opel-corsa-2026-precio-ficha-tecnica/>Ficha técnica del Opel Corsa 2026</a>.
 
 El **Opel Corsa 2026** sigue siendo el urbano alemán de referencia: bien acabado, agradable de conducir y con una gama que cubre todo: gasolina, **híbrido de 110 CV** con etiqueta ECO y **eléctrico de 156 CV** con etiqueta CERO. Parte de unos **19.000 €** con el 1.2 de 100 CV.
 
@@ -1681,7 +1680,7 @@ Sí, el Corsa GSe eléctrico de 280 CV.
     ],
     content: `<img src=/media/seat-leon-2025-precio-ficha-tecnica-hero.webp alt=Seat León 2025 compacto, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/seat-leon-2025-precio-ficha-tecnica/>Ver ficha técnica del Seat León 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/seat-leon-2025-precio-ficha-tecnica/>Ficha técnica del Seat León 2025</a>.
 
 El **Seat León 2025** mantiene el restyling de 2024: faros Matrix LED, nuevo paragolpes y más tecnología, con el carácter deportivo que siempre lo ha definido. Parte de unos **27.500 €** con el **1.5 eTSI de 115 CV** y etiqueta ECO, y la gama llega hasta el **e-HYBRID enchufable de 204 CV** con etiqueta CERO.
 
@@ -1763,7 +1762,7 @@ El León sigue siendo Seat; su hermano deportivo es el Cupra León, más caro y 
     ],
     content: `<img src=/media/seat-ibiza-2025-precio-ficha-tecnica-hero.webp alt=Seat Ibiza 2025 urbano, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/seat-ibiza-2025-precio-ficha-tecnica/>Ver ficha técnica del Seat Ibiza 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/seat-ibiza-2025-precio-ficha-tecnica/>Ficha técnica del Seat Ibiza 2025</a>.
 
 El **Seat Ibiza 2025** celebra 40 años siendo el urbano español por excelencia: diseño juvenil, **maletero de 355 L** (grande para el segmento) y el probado **1.0 TSI de 95 CV** con 5,2 l/100 km. Parte de unos **18.000 €**, con la gama FR para quien busque un toque deportivo.
 
@@ -1845,7 +1844,7 @@ Si buscas estética deportiva y el 1.5 TSI de 150 CV, sí; si no, el Style es m�
     ],
     content: `<img src=/media/skoda-karoq-2025-precio-ficha-tecnica-hero.webp alt=Skoda Karoq 2025, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/skoda-karoq-2025-precio-ficha-tecnica/>Ver ficha técnica del Skoda Karoq 2025</a>: precio, consumos y medidas. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/skoda-karoq-2025-precio-ficha-tecnica/>Ficha técnica del Skoda Karoq 2025</a>.
 
 El **Skoda Karoq 2025** es el SUV compacto racional por excelencia: espacio de sobra, calidad honesta y un precio que parte de unos **27.500 €** con el **1.0 TSI de 115 CV**. Con **521 L de maletero** (ampliables con los asientos VarioFlex) y 5 estrellas Euro NCAP, es la compra con la cabeza del segmento.
 
@@ -1907,7 +1906,7 @@ El Kodiaq es más grande (7 plazas) y caro; el Karoq es el compacto ideal para 4
 - <a href=https://www.skoda.es>Skoda España: Karoq oficial</a>
 - <a href=https://www.km77.com>km77: fichas técnicas Skoda Karoq</a>
 
-¿Te han puesto una multa? <a href=/#analizador>Analízala gratis con IA</a> antes de pagarla.`,
+<a href=/#analizador>Analízala gratis con IA</a> antes de pagarla.`,
   },
   {
     title: "Dacia Sandero 2025: el más barato",
@@ -1927,7 +1926,7 @@ El Kodiaq es más grande (7 plazas) y caro; el Karoq es el compacto ideal para 4
     ],
     content: `<img src=/media/dacia-sandero-2025-precio-ficha-tecnica-hero.webp alt=Dacia Sandero 2025, el coche más vendido de España, vista delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/dacia-sandero-2025-precio-ficha-tecnica/>Ver ficha técnica del Dacia Sandero 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/dacia-sandero-2025-precio-ficha-tecnica/>Ficha técnica del Dacia Sandero 2025</a>.
 
 El **Dacia Sandero 2025** no necesita presentación: es **el coche más vendido de España** año tras año. Su secreto no ha cambiado: un urbano espacioso y honesto desde unos **13.500 €**, con la versión **ECO-G de GLP** (etiqueta ECO) como la compra más inteligente del mercado.
 
@@ -2009,7 +2008,7 @@ Cada 15.000 km o 12 meses.
     ],
     content: `<img src=/media/fiat-500x-2025-precio-ficha-tecnica-hero.webp alt=Fiat 500X 2025, vista tres cuartos delantera>
 
-**¿Buscas solo los datos?** <a href=/coches/fiat-500x-2025-precio-ficha-tecnica/>Ver ficha técnica del Fiat 500X 2025</a>: precio, consumos y versiones. <a href=/comparador-coches/>Compáralo con sus rivales</a>.
+<a href=/coches/fiat-500x-2025-precio-ficha-tecnica/>Ficha técnica del Fiat 500X 2025</a>.
 
 El **Fiat 500X 2025** mantiene vivo el espíritu del 500 en formato SUV: diseño italiano con carácter, el eficiente **híbrido ligero de 130 CV** con etiqueta ECO y un precio que parte de unos **26.500 €**. Un B-SUV con personalidad propia frente a la marea de clones.
 
@@ -2069,6 +2068,6 @@ Si buscas diseño italiano y precio ajustado, sí; si priorizas tecnología, hay
 - <a href=https://www.fiat.es>Fiat España: 500X oficial</a>
 - <a href=https://www.km77.com>km77: fichas técnicas Fiat 500X</a>
 
-¿Te han puesto una multa? <a href=/#analizador>Analízala gratis con IA</a> en 2 minutos.`,
+<a href=/#analizador>Analízala gratis con IA</a> en 2 minutos.`,
   },
 ];

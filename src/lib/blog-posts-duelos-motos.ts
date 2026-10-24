@@ -55,7 +55,6 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 
 ## Pros y contras
 
-**Silence S01:**
 - ✅ 133 km de autonomía declarada, la mayor de la categoría
 - ✅ Batería trolley patentada: se carga en cualquier enchufe sin instalación
 - ✅ Marcha atrás de serie y hueco para dos cascos
@@ -66,7 +65,6 @@ La respuesta corta: **la S01 es para quien prioriza la autonomía y la red de se
 - ❌ Carga lenta en casa (7-9 h)
 - ❌ 152 kg: pesada para mover en parado
 
-**NIU MQi GT Evo:**
 - ✅ 100 km/h reales: compite con un 125 de gasolina
 - ✅ 128 kg, chasis sólido y buen aplomo
 - ✅ Pantalla TFT, arranque sin llave y tres modos bien diferenciados
@@ -101,10 +99,7 @@ La Silence S01 parte de 3.950 €, pero ojo: ese precio es con suscripción mens
 Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus dos baterías de 14 kg cada una. Ninguna necesita punto de carga instalado.
 
 ### ¿Tienen etiqueta Cero?
-Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.`,
   },
   {
     title: "BMW CE 04 vs Zero FXE 2026",
@@ -156,7 +151,6 @@ La respuesta corta: **el CE 04 es para quien quiere el scooter definitivo para c
 
 ## Pros y contras
 
-**BMW CE 04:**
 - ✅ 0-50 km/h en 2,6 s: el más rápido del segmento
 - ✅ 130 km de autonomía y carga rápida opcional
 - ✅ Pantalla de 10,25" con navegación, ABS y control de estabilidad
@@ -166,7 +160,6 @@ La respuesta corta: **el CE 04 es para quien quiere el scooter definitivo para c
 - ❌ Batería fija, sin opción extraíble
 - ❌ Los paquetes de equipamiento encarecen mucho la factura
 
-**Zero FXE:**
 - ✅ 140 kg y 106 Nm: diversión pura
 - ✅ Parte ciclo seria con Showa y Pirelli
 - ✅ 169 km declarados y 5 años de garantía de batería
@@ -201,10 +194,7 @@ La Zero FXE declara 169 km, pero en pruebas reales ronda los 96 km en modo ECO. 
 Sí, pero con matices: la FXE tarda unas 9,7 h de serie y el CE 04 unas 4 h 20 min; el BMW admite cargador rápido opcional de 6,9 kW que lo deja en 45 minutos del 20 al 80 %.
 
 ### ¿Cuál retiene mejor el valor?
-Las dos son nicho premium con depreciación incierta, pero BMW tiene red de concesionarios y servicio en toda España; Zero está creciendo (+58 % de red en 2025) pero sigue siendo minoritaria.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Las dos son nicho premium con depreciación incierta, pero BMW tiene red de concesionarios y servicio en toda España; Zero está creciendo (+58 % de red en 2025) pero sigue siendo minoritaria.`,
   },
   {
     title: "Vespa Elettrica vs Piaggio 1 2026",
@@ -255,7 +245,6 @@ La respuesta corta: **la Elettrica es para quien compra una Vespa ante todo; el 
 
 ## Pros y contras
 
-**Vespa Elettrica:**
 - ✅ Diseño icónico con chasis de chapa de acero
 - ✅ 200 Nm de par: salida de semáforo fulgurante
 - ✅ Silencio y suavidad totales
@@ -265,7 +254,6 @@ La respuesta corta: **la Elettrica es para quien compra una Vespa ante todo; el 
 - ❌ 45 km/h: solo ciudad, insegura en interurbanas
 - ❌ Autonomía de 68 km, corta para su precio
 
-**Piaggio 1 Active:**
 - ✅ 94 kg y centro de gravedad bajísimo: facilísima
 - ✅ Batería extraíble, se carga en cualquier enchufe
 - ✅ 60 km/h: ya sirve para rondas urbanas
@@ -300,10 +288,7 @@ En el Piaggio 1 sí: pesa 15 kg y tiene asa. En la Vespa Elettrica no: la bater�
 No realmente: la Elettrica está limitada a 45 km/h y el Piaggio 1 a 60 km/h. Son motos estrictamente urbanas; para interurbanas necesitas al menos un equivalente a 125.
 
 ### ¿Las dos tienen etiqueta Cero?
-Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: acceso sin restricciones a todas las ZBE.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: acceso sin restricciones a todas las ZBE.`,
   },
   {
     title: "Honda EM1 e 2026",
@@ -354,7 +339,6 @@ La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la E
 
 ## Pros y contras
 
-**Honda EM1 e:**
 - ✅ Calidad de fabricación y fiabilidad Honda
 - ✅ Batería extraíble e intercambiable (Mobile Power Pack e:)
 - ✅ 95 kg y asiento a 740 mm: accesible para todos
@@ -364,7 +348,6 @@ La respuesta corta: **la NEO's es la más barata y ligera de usar a diario; la E
 - ❌ 6 h de carga completa
 - ❌ 3.999 €, cara para lo que ofrece
 
-**Yamaha NEO's:**
 - ✅ 2.999 €: la japonesa más barata
 - ✅ Baterías de 8 kg, las más fáciles de transportar
 - ✅ Calidad japonesa: KYB, buenos acabados
@@ -399,10 +382,7 @@ Sí, las dos son extraíbles: la de Honda pesa 10,2 kg y la de Yamaha solo 8 kg,
 La Yamaha NEO's: 2.999 € frente a 3.999 € de la Honda EM1 e:.
 
 ### ¿Sirven como primera moto?
-Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.`,
   },
   {
     title: "BMW CE 02 vs Super Soco CPx 2026",
@@ -454,7 +434,6 @@ La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana;
 
 ## Pros y contras
 
-**BMW CE 02:**
 - ✅ 0-50 km/h en 3,0 s: fulgurante en ciudad
 - ✅ 132 kg y diseño único "e-parkourer"
 - ✅ Baterías extraíbles y versión AM de 4 kW
@@ -464,7 +443,6 @@ La respuesta corta: **la CE 02 es para quien quiere diseño y diversión urbana;
 - ❌ Sin hueco bajo el asiento
 - ❌ ABS solo delantero
 
-**Super Soco CPx:**
 - ✅ 137 km WMTC con dos baterías extraíbles
 - ✅ Rueda alta: más estable y cómoda
 - ✅ GPS, SIM, app y marcha atrás de serie
@@ -499,10 +477,7 @@ Sí, en las dos: la CE 02 lleva dos módulos extraíbles de 1,96 kWh y la CPx do
 La Super Soco CPx: 5.589 € frente a los ≈8.400 € de la BMW CE 02 (versión 11 kW).
 
 ### ¿Cuál es más divertida?
-La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.`,
   },
   {
     title: "Zero S vs Can-Am Pulse 2026",
@@ -554,7 +529,6 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 
 ## Pros y contras
 
-**Zero S:**
 - ✅ 262 km declarados: la mayor autonomía con carnet B
 - ✅ 132 Nm y 139 km/h: prestaciones de moto grande
 - ✅ Electrónica Bosch con ABS y control de tracción
@@ -564,7 +538,6 @@ La respuesta corta: **la Zero S es para quien quiere la máxima autonomía eléc
 - ❌ Carga lenta de serie (~10 h)
 - ❌ La autonomía en autopista cae mucho
 
-**Can-Am Pulse:**
 - ✅ 0-100 km/h en 3,8 s con 72 Nm
 - ✅ Carga del 20 al 80 % en 50 minutos
 - ✅ Pantalla táctil de 10,25" con Apple CarPlay
@@ -599,10 +572,7 @@ La Can-Am Pulse, con diferencia: 50 minutos del 20 al 80 % con su cargador de a 
 De serie no: es monoplaza y el asiento del pasajero es un accesorio opcional. La Zero S es biplaza de serie.
 
 ### ¿Cuál es más barata?
-La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.`,
   },
   {
     title: "F 450 R vs Hornet vs Z500: ¿cuál?",
@@ -696,7 +666,6 @@ La **BMW F 450 R** con diferencia: ABS Pro en curva, control de tracción, contr
 ### ¿Cuál pesa menos?
 La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).
 
-
 *Fuentes: <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>nota de prensa oficial de BMW Motorrad</a>, <a href=https://www.honda.es/motorcycles.html>Honda España</a> y <a href=https://www.kawasaki.es/>Kawasaki España</a>.*`,
   },
 
@@ -717,7 +686,7 @@ La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 H
     ],
     content: `<img src=/media/flying-flea-c6-vs-honda-cuv-e-vs-niu-nqi-sport-cual-comprar-hero.webp alt=Tres motos eléctricas urbanas aparcadas en una calle de Barcelona al atardecer, escena de comparativa>
 
-**¿Buscas solo los datos?** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
+<a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>Ver ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>Ver ficha de la Honda CUV e:</a> · <a href=/motos/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026/>Ver ficha de la NIU NQi Sport</a> · <a href=/comparador-motos/>Compararlas cara a cara</a>.
 
 Tres eléctricas urbanas, tres carnets, tres presupuestos. La **Flying Flea C6** (5.990 €) es la primera eléctrica de Royal Enfield: 115 km/h y chasis de aluminio forjado. La **Honda CUV e:** (~4.000 €) es el scooter japonés con dos baterías extraíbles que cargas en casa. La **NIU NQi Sport** (1.999 €) es el ciclomotor eléctrico con 130 km de autonomía. Spoiler: **la ganadora la decide tu carnet**.
 
@@ -780,8 +749,6 @@ La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-10
 ### ¿Merece la pena la Flying Flea C6 por 5.990 €?
 Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Aquí tienes nuestro análisis completo</a>.
 
-**También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
-
-`
+**También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.`
   },
 ];

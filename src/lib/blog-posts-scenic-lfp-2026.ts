@@ -25,7 +25,7 @@ export const SCENIC_LFP_2026_POSTS: BlogPost[] = [
     ],
     "content": `<img src=/media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp alt=Renault Scenic E-Tech 2026 en azul antracita satinado en una carretera de montaña española>
 
-**¿Buscas solo los datos?** <a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>Ver ficha técnica del Scenic E-Tech</a>: precio, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica/>Ficha técnica del Scenic E-Tech</a>.
 
 Renault acaba de renovar su familiar eléctrico y la noticia gorda no es la autonomía récord: es el precio de entrada. El **Scénic E-Tech** estrena una **batería LFP de 67 kWh** que homologa **467 km WLTP** y costará **desde 39.900 €** en España (<a href=https://www.somoselectricos.com/coches-electricos/nuevo-renault-scenic-electrico-642-km-autonomia-precio-39900-euros/20261004190056063898.html>somoselectricos.com</a>). Por encima, la versión gran autonomía pasa a **89 kWh y 642 km WLTP** desde 45.085 €.
 
