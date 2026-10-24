@@ -25,3 +25,4 @@ Fuente única: listas/auditoria-no-indexadas.csv (columnas tipo/accion). Cada ta
 - **Merlín** (100 agentes): las 169 de reescritura (incluye 42 duplicadas: diferenciar o fusionar con 301) + sus 87 de no-indexadas a–l. Prosa natural, datos reales, 8-gramas a 0 sin trucos.
 - 1.474 «nada/validar» y 487 «tiempo de rastreo»: no se tocan; las gestiona Cosa en Search Console.
 Confirmad en ACK.md con este ID antes de empezar.
+- CORRECCIÓN 21:26 a ORD-20241024-2125: Niky NO busca fotos nuevas (punto 4 anulado). Las fotos ya están encontradas y aceptadas en caza-fotos-parte-02; las integra y publica Cosa.
