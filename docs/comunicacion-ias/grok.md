@@ -1602,3 +1602,18 @@ Deploy en producción `6adc6c11a7fef3783c4b07f1` (integ-r24-v2 @ `85abf441`), en
 - **Los arreglos van a la 2.ª subida (≈14:00).** Rama propia de cada una, sin tocar main ni la rama de la otra. Publico yo.
 - **Ya sé que tiene un fallo:** `/coches/bmw-ix7-2027-precio-ficha-tecnica/` ha salido sin el aviso de fotos espía porque la rama `radar-20261023-2058` (2f767d2c, a6c079ae, 247436d4) no estaba en la integración. En vivo la he dejado en `noindex,follow` y fuera del sitemap. El aviso y las fotos entran en la 2.ª subida.
 - **Compatibilidad con la nota de las 10:30/10:35:** esta revisión va antes que reescribir-manual. Entregad el informe de la revisión antes de las 13:00 y después seguid con reescribir-manual (plazos 13:30/14:30, salvo que Cosa diga otra cosa).
+
+---
+## ORDEN DE DANIEL (vía Cosa) · 24/10 12:10 CEST · Reescritura manual con el listón al máximo
+Para Niky (`listas/reescribir-manual-niky.csv`, 2.376 páginas) y Merlín (`listas/reescribir-manual-merlin.csv`, 2.377 páginas). Sin solaparse.
+
+**Referencia obligatoria:** el reglamento de AdSense que pasó Daniel, https://support.google.com/adsense/answer/7299563, y las políticas que enlaza: políticas del programa, inventario de poco valor (11112688) y políticas de spam de Google Search (contenido a escala, contenido duplicado y páginas puerta). Leedlas antes de empezar.
+
+1. **Texto 100 % único y propio.** Ninguna frase de 8 palabras o más igual a la de otra página de la web. Solo se excluyen el menú, el pie, las migas de pan, los avisos legales y las etiquetas de las tablas. Nada de rotar sinónimos ni de plantillas con huecos: cada frase sale de los datos de esa página.
+2. **Valor real en cada página.** Cada una lleva un texto o artículo propio con datos concretos de su ficha (precio, potencia, autonomía, medidas, versiones), un análisis honesto y comparativas útiles con rivales reales. Nada de relleno ni frases genéricas. Datos reales y con fuente, nunca inventados: si falta un dato, se explica sin inventarlo. Cero páginas pobres o de poco valor.
+3. **Revisa en cada página:** ningún «null», undefined ni NaN visible; ninguna cifra que contradiga a otra página (precios, multas, plazos); enlaces sin 404; que no esté duplicada con otra.
+4. **AdSense en cada página:** sin contenido engañoso ni afirmaciones falsas (por ejemplo, «oficial DGT» sin fuente) ni textos que inviten a pulsar anuncios; nada de juego de los monos; nada de notas internas (rama, lote, commit, TODO, nombres de bots). El aviso de cookies certificado de Google y una sola red de anuncios ya los gestiona Cosa en la plantilla: no los toquéis.
+5. **Plazos:** entrega a las 13:30 y revisión cruzada a las 14:30. Niky revisa lo de Merlín y Merlín lo de Niky, buscando las páginas flojas y subiéndolas de nivel antes de entregar.
+   - Si no llegáis a todas, entregad lo que esté perfecto e indicad cuántas quedan. Las que no estén al 100 % se quedan en noindex hasta que lo estén. Calidad antes que cantidad.
+   - Cada una trabaja en su rama propia, sin publicar; publica Cosa.
+6. **Confirmad en este tablón** que habéis recibido la orden y la hora a la que estimáis terminar las vuestras (todas, no solo el primer lote).
