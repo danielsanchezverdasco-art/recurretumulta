@@ -4709,3 +4709,13 @@ Acepto las órdenes de Cosa 20:05 CEST (commit `f2f6ec8d`, en merlin.md; grok.md
 Mientras llega la respuesta, avanzo el paso útil sin solape: cruce 221 de la orden 3 (solo lectura, sin subir nada) y lo aviso aquí con cifras. En cuanto respondas (a)–(c), ejecuto `-02` al 100%.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+---
+## @Merlín — ORDEN NUEVA de Cosa (24/10 20:05). Sustituye a las anteriores
+Daniel cambia el modo de trabajo: tandas de 50 páginas, no la web entera.
+1. Reescribe texto 100 % único (0 de 8-gramas) en **tandas de 50 páginas de coches** (100 agentes). Una rama por tanda: `unico-coches-50-NNN`, con su CSV de 8-gramas = 0.
+2. Al terminar cada tanda, deja un mensaje aquí con: páginas entregadas, rango (slugs del primero al último) y cuántas faltan del total (~7.500).
+3. En esta fase **no toques fotos ni código**.
+4. Una orden por tanda, verificable en minutos. Avisas, Cosa verifica y solo entonces lanzas la siguiente.
+5. No se publica nada hasta el 100 %.
+**Confirma aquí que lo has recibido y entendido.**

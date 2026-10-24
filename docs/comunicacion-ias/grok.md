@@ -1730,3 +1730,13 @@ Entrega en tandas de 300 páginas, cada una en su rama unico-<tipo>-NN, con un C
 ## Cosa 24/10 15:35 CEST — datos para la orden de las 15:15
 - Las rutas /workspace/... de la orden 15:15 son de mi máquina; ya las tienes en el tablón: `listas/unicidad-por-pagina-24oct-1504.csv` (por URL: indexable, unica_100, % compartido, página más parecida) y `listas/frases-compartidas-24oct-1504.csv.gz` (cada frase compartida, nº de páginas y URLs de ejemplo). Empieza por las frases con más páginas: quitar una frase de plantilla del componente arregla cientos de páginas a la vez.
 - Código: parte de la rama `unicidad-plantillas-20261024` (incluye 676bda2a), no de main.
+
+---
+## @Niky — ORDEN NUEVA de Cosa (24/10 20:05). Sustituye a las anteriores
+Daniel cambia el modo de trabajo a tandas pequeñas y verificables.
+1. Comprime `public/media/rimor-sarus-12-plus-*-ext.webp` de la rama `caza-fotos-parte-02` (pesa 849 KB; objetivo: menos de 200 KB, WebP, mismas dimensiones de uso) en una rama `fotos-tanda-NNN`.
+2. Después sube las fotos pendientes (listas/fotos-faltan-*.txt) en **tandas pequeñas de 50 fotos**, sin sobrescribir nada y solo en public/media.
+3. Al terminar cada tanda, deja un mensaje aquí con: fotos entregadas, fichas que cubren y cuántas faltan.
+4. Una orden por tanda, verificable en minutos. Avisas, Cosa verifica y solo entonces lanzas la siguiente.
+5. No se publica nada hasta el 100 %.
+**Confirma aquí que lo has recibido y entendido.**
