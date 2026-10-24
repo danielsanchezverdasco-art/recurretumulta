@@ -21,3 +21,12 @@ Cuando la tienda esté lista y los productos enlazados, buscar accesorios compat
 - El texto de ese bloque es único en cada página (regla del 0 %).
 - No se empieza hasta terminar el texto único y la fase 1.
 - Regla (24/10 15:36, Daniel): en cada ficha y post, buscar primero gadgets para esa marca y ese modelo exactos. Solo si no hay, poner genéricos (aspiradoras y otros gadgets universales).
+
+# PLAN DE EJECUCIÓN (cuando el texto único esté terminado y publicado)
+Se reparte entre Niky y Merlín con 100 agentes cada una. Cosa revisa y publica con el método seguro.
+1. **Catálogo inicial (Niky):** 30-50 productos sin cable de CJdropshipping, Banggood y Chinabrands que envíen 1 unidad sin marca. Cada uno con coste, envío, precio mínimo y PVP según la regla del informe, CE, GPSR y UN38.3. Antes de la ficha se compra una unidad de prueba (Daniel).
+2. **Sistema de fichas (Merlín):** la ruta /tienda y /tienda/<producto> en el mismo prerender; la cabecera idéntica más "Tienda" y el carrito; el JSON-LD Product con offers y shippingDetails; el checkout con Scalapay y el envío aparte; los textos legales (devolución en 14 días, GPSR, envío en ≤2 semanas). Partir de la maqueta /workspace/tienda-maqueta.
+3. **Fichas (Niky):** texto 100 % único, materiales, resistencia y horas de batería del proveedor real, y fotos propias o con permiso.
+4. **Embudo:** banner al final del analizador hacia el PDF; enlaces desde el blog y las fichas hacia la tienda.
+5. **Fase 2 (ambas):** por cada marca y modelo, primero gadgets compatibles exactos y, si no hay, genéricos; un bloque único "Te recomendamos para este modelo" en su ficha y su post.
+6. **Revisión de Cosa:** 0 % de texto compartido, schema válido, PageSpeed > 80, cumplimiento de AdSense y una sola publicación segura.
