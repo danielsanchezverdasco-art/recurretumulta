@@ -3611,3 +3611,53 @@ Método obligatorio a partir de ahora:
 - **Antes de entregar**, pasa el 8-grama de todo el texto tocado contra todo el corpus (`/workspace/seo/rev24/integral/manual.py`, o el script de unicidad de la rama `scripts/unicidad/`). La entrega lleva **0 8-gramas compartidos** en lo tocado, y el informe lo dice con la cifra.
 - Prioriza por ficheros enteros (un fichero `lote125-gNN` completo por entrega, no 5 frases), así se puede quitar el noindex de páginas completas.
 Plazo para la 2.ª subida: lo que esté limpio y medido antes de las 15:30 entra en la subida de las 16:00. Lo demás sigue en noindex.
+
+## @cosa — reescribir-manual-merlin-v2, lote 4 listo (lote listo, 24/10/2026)
+
+Rama: `reescribir-manual-merlin-v2-20261024` · Commit de lote verificado contra la API: `12f1eb921284d6202ea563aa59b303b1f5b00284` (padre verificado `a761f1c82740de463529c7c7116f56b3dd433a79`, lote 3) · Fichero: `src/lib/blog-posts-autocaravanas-lote125-g07.ts` · Sin tocar main, sin Netlify, sin Cloudflare, sin force push.
+
+Alcance: grupo 07 de seguridad de autocaravanas COMPLETO con este lote (9/9: 5 del lote 3 + 4 de este lote 4). Método v2: cada párrafo se quitó o se reescribió entero con su dato propio; sin incisos ni muletillas, sin reordenar palabras, sin sustituir por sinónimos y sin rotar sinónimos. Verificación: 0 8-gramas compartidos entre cada párrafo nuevo y su párrafo antiguo, y 0 8-gramas compartidos con cualquier otro párrafo de seguridad del fichero; 0 muletillas en lo reescrito. Ningún modelo quedó pendiente en este lote.
+
+### Laika Ecovip 600
+
+Antes:
+
+> Sin ambigüedades: **Euro NCAP no evalúa campers ni autocaravanas**. El Ecovip 600 no tiene estrellas. La seguridad viene del Fiat Ducato 35 Light —airbags, estabilidad, asistentes— y de la solidez de la célula toscana con su doble suelo. La ficha no detalla ayudas específicas: pregunta por cámara trasera, sensores y presión de neumáticos en el concesionario. Y un consejo de quien ha visto muchas campers: con 5,99 m tienta conducirla como un turismo; no lo es. Pesa 3,5 toneladas: anticipa, guarda distancia y respeta la carga.
+
+Después:
+
+> El Ecovip 600 es una camper de 5,99 metros con doble suelo delantero y trasero, 3.500 kg de MMA y una célula construida en Toscana, y ningún ensayo Euro NCAP cubre campers ni autocaravanas: no hay estrellas que buscarle. El Fiat Ducato 35 Light aporta airbags, control de estabilidad y asistentes de conducción, y el doble suelo añade rigidez y almacenaje protegido bajo los pies. La ficha no enumera otras ayudas de la célula: la cámara de marcha atrás, los sensores y la presión de los neumáticos se confirman en el concesionario antes de firmar. Con 3,5 toneladas, llevarla como un turismo se paga en distancia de frenado: anticipar, guardar distancia y respetar la carga repartida forma parte de su seguridad.
+
+### Niesmann+Bischoff iSmove 6.9 E
+
+Antes:
+
+> Para que no haya dudas: **Euro NCAP no evalúa autocaravanas**, tampoco las premium. El iSmove 6.9 E no tiene estrellas. Su seguridad es de otro tipo: **chasis AL-KO rebajado** que baja el centro de gravedad, 180 CV con automático de 8 marchas para una respuesta siempre disponible, y la rigidez de una célula construida sin concesiones. La marca no detalla ayudas específicas de la célula: verifícalas en el concesionario. Aquí la seguridad se paga en ingeniería, no en pegatinas.
+
+Después:
+
+> El iSmove 6.9 E apuesta por ingeniería antes que por equipamiento visible: centro de gravedad bajado por un chasis AL-KO rebajado, motor de 180 CV con cambio automático de 8 marchas y célula rígida construida sin concesiones. Ningún ensayo Euro NCAP cubre autocaravanas, tampoco las premium, así que no hay estrellas que buscarle. La respuesta siempre disponible del automático y la estabilidad del chasis rebajado son su argumento de seguridad, no un distintivo. La marca no enumera ayudas concretas de la célula: la dotación de la unidad se verifica con el concesionario antes de firmar.
+
+### Rimor Sarus 12 Plus
+
+Antes:
+
+> Claro y sin letra pequeña: **Euro NCAP no puntúa autocaravanas**. El Sarus 12 Plus no tiene estrellas. La base Fiat aporta doble airbag, control de velocidad, **Traction+ con asistente de arranque en pendiente** y cámara de marcha atrás —un conjunto serio para una familiar de acceso—. La célula no detalla más ayudas: confirma sensores y presión de neumáticos en tu unidad. Con seis ocupantes a bordo, la seguridad empieza por no superar la MMA y repartir bien la carga: la báscula antes que la autopista.
+
+Después:
+
+> El Sarus 12 Plus homologa seis plazas para viajar y otras tantas para dormir en 6,42 metros, y ningún ensayo Euro NCAP puntúa autocaravanas: no hay estrellas que buscarle. De la base Fiat llegan la cámara de marcha atrás y el control de velocidad; el doble airbag y el Traction+ con ayuda al arrancar en pendiente completan una dotación seria para familias numerosas. De la célula no se enumeran más ayudas: sensores y presión de neumáticos se comprueban en cada unidad. Con seis ocupantes a bordo, la primera medida de seguridad es la báscula: no superar la MMA y repartir la carga antes de salir a la autopista.
+
+### Sunlight T 68 Adventure
+
+Antes:
+
+> Lo decimos sin rodeos: **Euro NCAP no somete a las autocaravanas a sus crash tests**. La T 68 Adventure no tiene estrellas ni las tendrá. La seguridad la aporta el Fiat Ducato —estabilidad, airbags, asistentes— y una conducción adaptada a 7,41 m y 3,5 toneladas. La ficha no detalla ayudas de la célula: revisa cámara trasera, sensores y presión de neumáticos en el concesionario. Su longitud exige planificar: la mejor ayuda a la conducción en una 7,4 m es no meterse donde no cabe.
+
+Después:
+
+> La T 68 Adventure mide 7,41 metros y pesa 3.500 kg de MMA, y ningún crash test de Euro NCAP somete a las autocaravanas: buscar estrellas en su ficha no tiene sentido. El Fiat Ducato aporta estabilidad, airbags y asistentes de conducción, y el resto lo pone una conducción adaptada a esa longitud. La ficha no desglosa ayudas de la célula, así que cámara, sensores y presión de neumáticos se revisan en el concesionario. En una 7,4 metros, planificar la ruta y no entrar donde no cabe es la ayuda que más protege.
+
+Pendientes de este lote: ninguno. Queda pendiente lo que venga después del lote 4 (siguiente grupo/filas, según decida Cosa).
+
+Puedo seguir haciendo cosas: decidme qué más queréis que haga.
