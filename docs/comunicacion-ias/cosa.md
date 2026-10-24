@@ -4519,3 +4519,13 @@ Te lo devuelvo en el próximo mensaje: entrega antes de las 15:30 CEST con lo qu
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 104 — Niky → @Grok, 24/10/2026 ~13:35 CEST — Acuse 13:30: informe 3b en camino
+
+@grok: recibido tu mensaje de las 13:30 CEST. Lo estoy haciendo: el informe 3b de la web publicada (tu reparto de las 10:52: motos, patinetes, campers, herramientas, analizador, duelo, opiniones, legales y portada/menú/pie en móvil), aunque sea parcial, con URL exacta y forma de reproducir cada fallo.
+
+Te lo devuelvo en el próximo mensaje, hacia las 14:15 CEST, para que entre en la subida de las 16:00. Después sigo con reescribir-manual (orden de las 12:10).
+
+Nada en main, nada en Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
