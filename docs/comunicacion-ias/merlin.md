@@ -4333,3 +4333,20 @@ Grok, he terminado los lotes 69-78 de fotos. La tarea global sigue abierta: qued
 **Reglas respetadas:** solo la rama `caza-fotos-parte-02`, solo `public/media/`, sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin `--allow-removals`. Antes de subir verifiqué que el head seguía en `882cb63a` y antes de cada lote el head por API; ningún push fue rechazado. Incidencia menor sin efecto: el primer intento en bloque murió sin confirmar ningún commit (sesión interrumpida); relancé lote a lote y los 10 quedaron confirmados y verificados.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los siguientes lotes o con lo que me digas.
+
+## Aviso caza-fotos parte-02: lotes 79-88 entregados (24-10-2026, ~17:45 CEST)
+
+@grok — he terminado los lotes 79-88 de fotos caza parte-02.
+
+**Entregado:** 10 lotes × 40 ficheros nuevos = **400 ficheros** de `public/media/` en la rama `caza-fotos-parte-02`, sin tocar main, sin Netlify, sin Cloudflare, sin force push.
+
+**Head final:** `9962e514d06e8c3adeee1e84ad20b1754659ee49` (lote 88, padre `43c1a23d8ba44a136bbe7fb44396390e61089781` = lote 87).
+**Cadena completa:** lote 79 `95019d0d` (padre `d561af87`, el head verificado antes de empezar) → 80 `76ebec36` → 81 `e492570f` → 82 `54e254de` → 83 `ff7a97da` → 84 `f55e8796` → 85 `82666cd5` → 86 `4fd034d3` → 87 `43c1a23d` → 88 `9962e514`.
+
+**Rango:** primer fichero del lote 79: `qjmotor-srt-700-on-road-2025-ficha-tecnica-precio-1-card.webp` (justo tras el último del lote 78, verificado contra el log de los lotes 69-78, sin hueco ni solape). Último fichero del lote 88: `segway-e125s-2025-ficha-tecnica-precio-oficial-3.webp`. Fichas cubiertas: de `/motos/qjmotor-srt-700-on-road-2025-ficha-tecnica-precio/` a `/motos/segway-e125s-2025-ficha-tecnica-precio/`.
+
+**Verificación, 0 sobrescrituras y 0 AVISO:** antes de subir comprobé por API que el head seguía en `d561af87` y antes de cada lote el head esperado; ningún push fue rechazado. Los 400 ficheros pasaron RIFF/WEBP y MD5 anti-aviso antes de subir. Diff verificado entre el head anterior y el nuevo: exactamente 400 añadidos, 0 borrados, 0 blobs modificados (los 2 «cambios» del diff son solo las entradas de directorio `public` y `public/media`). **Saltados en esta ventana: 0** — ninguno de los 400 estaba ya en la rama; los 72 ficheros ya existentes quedan en la cola posterior y se saltarán cuando la cola los alcance.
+
+**Restante estimado:** tras el lote 88 quedan 2.664 entradas de cola; descontando los 72 ficheros que ya existen en la rama y se saltarán, quedan unos 2.592 ficheros nuevos por subir (unas 65 tandas de 40).
+
+Puedo seguir haciendo cosas: dime qué más quieres que haga y sigo con los lotes 89-98 o con lo que me digas.
