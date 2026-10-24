@@ -233,7 +233,7 @@ export const ANALISIS_COCHE_22: MapaAnalisis = {
   "stelato-g9-2026-precio-ficha-tecnica": {
     parrafos: [
       "El G9 es el primer todoterreno de HIMA —la alianza Huawei-BAIC— y no hace prisioneros: 5,38 metros, unos 2.848 kilos, 594 caballos integrales y 120 kWh CATL Qilin para 728 kilómetros en ciclo CLTC. La neumática juega entre -50 y +80 milímetros hasta 282 de altura libre, el Huawei ADS 5.0 promete conducción inteligente puntera y la dotación —5 o 6 plazas, nevera, tienda de techo— apunta al lujo aventurero sin complejos.",
-      "Existe, por ahora, solo en China: estrenado en agosto de 2026, sin precio ni fecha europeos, y con un CLTC más generoso que el WLTP. La gama roza los 71.500 euros al cambio en lo alto. Escaparate del músculo tecnológico chino en el gran SUV y anticipo de lo que podría cruzar fronteras si Huawei se decide.",
+      "Existe, por ahora, solo en China: estrenado en agosto de 2026, sin precio ni fecha europeos, y con un CLTC más generoso que el WLTP. La gama roza los 73.300 euros al cambio en lo alto. Escaparate del músculo tecnológico chino en el gran SUV y anticipo de lo que podría cruzar fronteras si Huawei se decide.",
       "El Huawei ADS 5.0 con su dotación de sensores aspira a la conducción inteligente más avanzada del mercado chino, y detalles como la nevera o la tienda de techo opcional dibujan un SUV para vivirlo también parado. Con cinco o seis plazas en formato 2-2-2, el interior se organiza como un salón. Tecnología y habitabilidad al servicio del ocio de lujo.",
     ],
     veredicto: "Para seguirlo como muestra del futuro SUV eléctrico de lujo; en Europa, de momento, solo se mira.",
@@ -241,7 +241,7 @@ export const ANALISIS_COCHE_22: MapaAnalisis = {
   "stelato-g9-erev-2026-precio-ficha-tecnica": {
     parrafos: [
       "El G9 EREV despeja la única duda del eléctrico puro: el alcance. Con 405 kilómetros eléctricos CLTC y más de 1.300 totales vía extensor, el mastodonte de 5,38 metros y casi tres toneladas se vuelve un devorakilómetros sin hipotecas. Repite 594 caballos integrales, bloqueo eléctrico Huawei Zhiqing, 800 voltios y CATL Freevoy de 56 o 75 kWh según versión, con 5 o 6 plazas y guiños camperos como nevera o portón con cocina opcional.",
-      "El 1.5 turbo genera a régimen fijo y en ese modo el gasto sube: liturgia de todo EREV. Como su hermano, solo China desde unos 55.900 euros al cambio, con diez versiones que enredan la elección. La respuesta china al gran SUV de autonomía extendida para quien no quiera oír hablar de planificar recargas en ruta.",
+      "El 1.5 turbo genera a régimen fijo y en ese modo el gasto sube: liturgia de todo EREV. Como su hermano, solo China desde unos 57.300 euros al cambio, con diez versiones que enredan la elección. La respuesta china al gran SUV de autonomía extendida para quien no quiera oír hablar de planificar recargas en ruta.",
       "Las diez versiones del G9 EREV complican la elección pero permiten afinar la compra: dos tamaños de batería Freevoy, cinco o seis plazas y un portón con cocina opcional para el camping de alto nivel. Esa granularidad es típica del mercado chino, donde el cliente configura al milímetro. Aquí solo podemos envidiar el catálogo.",
     ],
     veredicto: "Para grandes viajeros chinos que quieran lujo sin límite de alcance; en Europa queda como referencia tecnológica.",

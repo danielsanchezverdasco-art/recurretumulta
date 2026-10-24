@@ -297,7 +297,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       "Solo en China; sin precio ni fecha para Europa",
       "Casi 5,4 m y ~3 toneladas: un mastodonte para la ciudad",
       "Homologación CLTC, más optimista que el WLTP",
-      "La gama llega hasta ~71.500 € al cambio: ya no es un chollo",
+      "La gama llega hasta ~73.300 € al cambio: ya no es un chollo",
     ],
     opiniones: [],
     costeMensual: {
@@ -349,10 +349,10 @@ export const COCHES_STELATO: CocheComparador[] = [
     fuenteUrl: "https://cnevpost.com/2026/08/20/stelato-launches-g9/",
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin prueba EuroNCAP: solo se vende en China" },
     versiones: [
-      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 62400, aprox: true },
-      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 65000, aprox: true },
-      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 68900, aprox: true },
-      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 71500, aprox: true },
+      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
+      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 66600, aprox: true },
+      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 70600, aprox: true },
+      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 73300, aprox: true },
     ]
   },
   {
@@ -404,7 +404,7 @@ export const COCHES_STELATO: CocheComparador[] = [
       "Solo en China; sin precio ni fecha para Europa",
       "En modo extensor el 1.5T trabaja a régimen fijo: sube el consumo",
       "Casi 5,4 m y ~3 toneladas: poco urbano",
-      "Las 10 versiones complican elegir; la tope llega a ~71.500 €",
+      "Las 10 versiones complican elegir; la tope llega a ~73.300 €",
     ],
     opiniones: [],
     costeMensual: {
@@ -444,12 +444,12 @@ export const COCHES_STELATO: CocheComparador[] = [
     fuenteUrl: "https://cnevpost.com/2026/08/20/stelato-launches-g9/",
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin prueba EuroNCAP: solo se vende en China" },
     versiones: [
-      { nombre: "Max+ 5 plazas (429.800 ¥ en China)", precio: 55900, aprox: true },
-      { nombre: "Max+ 6 plazas (439.800 ¥ en China)", precio: 57200, aprox: true },
-      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 62400, aprox: true },
-      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 65000, aprox: true },
-      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 68900, aprox: true },
-      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 71500, aprox: true },
+      { nombre: "Max+ 5 plazas (429.800 ¥ en China)", precio: 57300, aprox: true },
+      { nombre: "Max+ 6 plazas (439.800 ¥ en China)", precio: 58600, aprox: true },
+      { nombre: "Ultra 5 plazas (479.800 ¥ en China)", precio: 64000, aprox: true },
+      { nombre: "Ultra 6 plazas (499.800 ¥ en China)", precio: 66600, aprox: true },
+      { nombre: "Ultra+ 5 plazas (529.800 ¥ en China)", precio: 70600, aprox: true },
+      { nombre: "Ultra+ 6 plazas (549.800 ¥ en China)", precio: 73300, aprox: true },
     ]
   },
 ];
