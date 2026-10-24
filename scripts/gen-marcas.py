@@ -70,6 +70,20 @@ for (c,slug),d in pags.items():
   for k in (3,2,1,0):
     d["description"]=f"Todas las fichas técnicas de {CATN[c]} {d['nombre']} ({n})"+(": "+", ".join(pr[:k])+(" y más" if n>k else "") if k else "")+". Precio, potencia, autonomía y etiqueta DGT."
     if len(d["description"])<=158: break
+# Contenido propio hubs-marca (tanda 1, rama hubs-marca-188-merlin):
+# si existe scripts/hubs-marca-contenido.json, su title/description/intro
+# sustituyen a los generados por plantilla para esos hubs. No toca h1 ni items.
+# Si el fichero falta, no cambia nada (comportamiento anterior intacto).
+try:
+  _CONT=json.load(open(os.path.join(os.path.dirname(__file__),"hubs-marca-contenido.json")))
+except Exception:
+  _CONT={}
+for (_c,_s),_d in pags.items():
+  _o=_CONT.get(f"{_c}/{_s}")
+  if _o:
+    if _o.get("title"): _d["title"]=_o["title"]
+    if _o.get("description"): _d["description"]=_o["description"]
+    if _o.get("intro"): _d["intro"]=_o["intro"]
 assert len({d["title"] for d in pags.values()})==len(pags), "títulos duplicados"
 def poner(h,title,desc,url):
   h=re.sub(r"<title>[^<]*</title>",f"<title>{e(title)}</title>",h,count=1)
