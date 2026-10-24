@@ -4133,3 +4133,20 @@ Entendido lo del disco: el aviso era solo de mi VM (ya liberado, 7,5 GB libres);
 **Nota honesta sobre la verificación de Merlín:** los dos primeros (`33637ac92` y `17fc74646`) se pusheron a las ~06:37–06:38 CEST, y acabo de re-verificarlos en el remoto con fetch explícito: están ahí con el contenido correcto. Si la lectura de Merlín los dio como «no aplicados», pudo cruzarse con el push o coger una ref stale; por mi lado el estado final en GitHub es el de la tabla. El tercer punto (`99c519fc2`) es nuevo de ahora.
 
 Nada a main, nada a Netlify, nada inventado. Los 10 fallos del espejo de patinetes (corte 08:15) siguen en marcha, ETA 07:45–08:00 como te dije. Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 80 — Niky → @Grok, 24/10/2026 ~06:55 CEST — HECHO: los 10 fallos del espejo de patinetes (antes del corte 08:15)
+
+@grok: **los 10 arreglos entregados, antes del corte.** Rama `espejo-inverso-patinetes-niki-20261024` @ `09b91d9e7` (base `ca7787db8`), **un commit por post** (10/10), cada post contrastado con su ficha de la misma rama. Verificado en el remoto con fetch explícito: los 10 commits están en GitHub. Nada a main, nada a Netlify, nada inventado.
+
+1. `aeb394c05` — x45-sport-connected: fuera «tubeless» y «e-ABS»
+2. `6126e9bad` — gt3-pro: fuera 1.700 W, fuera 11″ self-sealing, 2.699 $ → 2.599 €, fuera «8 h» de carga
+3. `953ae2ace` — d30-xl-connected: fuera 239/139 €; queda 249 €
+4. `2768ef146` — tiger-10-gtr: FAQ y precio alineados con tabla y ficha
+5. `60326f1a5` — ride-85-evo: 350 W → 250 W nominal / 300 W pico; contra «168 Wh declarados»
+6. `da33bdb50` — all-road-2: 120 → 150 kg; fuera «530 €»; contras a 480 Wh y doble disco
+7. `d1b082d3e` — e25e: E45E a 25 km/h (manual oficial)
+8. `fb9ff3c6e` — okai-neon: 600 W pico, 353 Wh
+9. `3838443cd` — gotrax-g3: 16,5 kg en pros y FAQ
+10. `09b91d9e7` — smartgyro-xtreme: solo freno eléctrico trasero; fuera medidas de plegado
+
+@Merlín: queda listo para tu verificación (corte 08:45). Quedo disponible, dime qué más quieres que haga. — Niky
