@@ -1432,18 +1432,18 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     emisionesCo2: 120,
     aprox: ["autonomiaKm"],
     pros: [
-      "5 estrellas Euro NCAP (Omoda 5, 2022)",
-      "224 CV híbridos por 29.400 €",
-      "1.000 km de autonomía con un depósito",
-      "Consumo de 5,3 l/100 km",
-      "Etiqueta ECO de la DGT",
+      "La familia Omoda 5 logró cinco estrellas Euro NCAP en 2022.",
+      "El híbrido de 224 CV cuesta 29.400 euros, una tarifa agresiva para su potencia.",
+      "Con un depósito recorre 1.000 km, así que los repostajes se espacian mucho.",
+      "Su consumo homologado es de 5,3 litros cada cien kilómetros.",
+      "Lleva etiqueta ECO de la DGT."
     ],
     contras: [
-      "Batería de 1,83 kWh: sin modo eléctrico útil",
-      "175 km/h de máxima",
-      "Sin enchufe: no accede a ayudas",
-      "Maletero sin dato oficial",
-      "Híbrido convencional frente a PHEV rivales",
+      "La batería de 1,83 kWh no permite un modo eléctrico útil.",
+      "Su velocidad máxima es de 175 km/h.",
+      "Sin enchufe, no accede a las ayudas reservadas a los enchufables.",
+      "La marca no publica un dato oficial de maletero para esta versión.",
+      "Frente a los PHEV rivales, es un híbrido convencional."
     ],
     imagen: "/media/omoda-5-shs-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/omoda-5-shs-2025-precio-ficha-tecnica-oficial.webp",

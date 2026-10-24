@@ -280,18 +280,18 @@ export const COCHES_EXP12: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "224 CV híbridos con 1.5 TGDI y batería de 1,83 kWh",
-      "Precio estimado desde unos 25.000 €",
-      "Consumo homologado de 5,3-5,5 l/100 km",
-      "Etiqueta ECO de la DGT",
-      "Sustituye al Omoda 3: mismo coche, nuevo nombre para Europa",
+      "El conjunto híbrido combina 224 CV con un 1.5 TGDI y una batería pequeña de 1,83 kWh.",
+      "El precio estimado arranca en unos 25.000 euros, por debajo del eléctrico de la misma familia.",
+      "Su consumo homologado se mueve entre 5,3 y 5,5 litros cada cien kilómetros.",
+      "El distintivo ECO facilita moverse por zonas restringidas y aparcar con ventaja en varias ciudades.",
+      "En Europa sustituye al Omoda 3: es el mismo coche con un nombre nuevo."
     ],
     contras: [
-      "Modelo recién renombrado: confusión con el antiguo Omoda 3",
-      "Maletero y prestaciones aún sin cifras oficiales finales",
-      "Sin versión enchufable: se queda en etiqueta ECO",
-      "Red comercial en expansión, pocos concesionarios",
-      "Rivales coreanos con más historial de fiabilidad",
+      "El cambio de nombre respecto al antiguo Omoda 3 puede generar confusión entre compradores.",
+      "Maletero y prestaciones definitivas aún carecen de cifras oficiales finales.",
+      "No existe versión enchufable, así que no puede aspirar a la etiqueta Cero.",
+      "La red comercial está en expansión y todavía cuenta con pocos concesionarios.",
+      "Los rivales coreanos presumen de un historial de fiabilidad más largo."
     ],
     largoMm: 4420,
     anchoMm: 1870,
@@ -346,18 +346,18 @@ export const COCHES_EXP12: CocheComparador[] = [
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
     pros: [
-      "211 CV eléctricos con batería LFP de 60,9 kWh",
-      "Unos 400 km de autonomía WLTP estimada",
-      "Carga rápida de 130 kW en continua",
-      "Precio estimado desde unos 30.000 €",
-      "Etiqueta Cero con acceso total a las ZBE",
+      "El motor eléctrico rinde 211 CV y se alimenta de una batería LFP de 60,9 kWh.",
+      "La autonomía WLTP estimada ronda los 400 km, cifra razonable para un SUV de uso diario.",
+      "En corriente continua admite 130 kW, lo que acorta las paradas en ruta.",
+      "El precio estimado parte de unos 30.000 euros, dentro del tramo competido de los SUV eléctricos.",
+      "Con etiqueta Cero accede sin restricciones a las zonas de bajas emisiones."
     ],
     contras: [
-      "Cifras aún provisionales: el modelo acaba de llegar a Europa",
-      "Autonomía justa para viajes largos frecuentes",
-      "Sin datos oficiales de maletero ni de 0-100",
-      "Competencia feroz en el SUV eléctrico de 30.000 €",
-      "Marca nueva: posventa en despliegue",
+      "Las cifras son todavía provisionales porque el modelo acaba de desembarcar en Europa.",
+      "Para viajes largos frecuentes, su autonomía puede quedarse corta frente a rivales con baterías mayores.",
+      "La marca aún no ha publicado datos oficiales de maletero ni de aceleración de 0 a 100.",
+      "En el SUV eléctrico de unos 30.000 euros la competencia es feroz.",
+      "Su posventa está en despliegue al ser una marca nueva en nuestro mercado."
     ],
     largoMm: 4420,
     anchoMm: 1870,
@@ -411,8 +411,20 @@ export const COCHES_EXP12: CocheComparador[] = [
     bateriaKwh: 61,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Tarifa de 26.690 euros para un SUV eléctrico de 4,37 metros: esa combinación de tamaño y coste de acceso explica su tirón frente a un BYD Atto 3 o un MG ZS EV.", "Con 204 CV y 340 Nm enviados a las ruedas delanteras, pasar de parado a cien por hora le cuesta a este Omoda 7,6 segundos.", "Su acumulador suma 61 kWh con química de ferrofosfato de litio y celdas tipo Blade, una receta asociada a una vida útil larga en uso intensivo.", "Omoda respalda el conjunto en España con siete años o 150.000 kilómetros, mientras motor de tracción y batería elevan su cobertura hasta ocho años o 160.000.", "La carrocería obtuvo la puntuación máxima de Euro NCAP en su ensayo inicial y el organismo hizo extensiva esa nota al eléctrico durante noviembre de 2024."],
-    contras: ["Los 370 litros de maletero quedan por debajo de lo habitual en SUV eléctricos de su tamaño pensados para viajar en familia con equipaje voluminoso.", "Sobre la báscula declara 1.785 kilos, cifra elevada para sus 4.373 milímetros, y ese lastre se deja notar al frenar fuerte o al enlazar curvas cerradas.", "No existe en la gama española una batería superior a los 61 kWh de esta versión, así que quien viaje mucho no puede comprar más autonomía de fábrica.", "Las ayudas electrónicas resultan insistentes en marcha y varios ajustes de seguridad exigen bucear por menús táctiles poco directos, según las pruebas publicadas en Reino Unido.", "La marca se presentó en España en febrero de 2024: su red comercial todavía está construyéndose y el valor futuro de reventa carece de historial contrastado."],
+    pros: [
+      "Desde 26.690 euros ofrece un SUV eléctrico de 4,37 metros, una combinación que explica su tirón frente a BYD Atto 3 o MG ZS EV.",
+      "Delante, sus 204 CV con 340 Nm resuelven el sprint a cien en 7,6 segundos.",
+      "La batería de 61 kWh usa química de ferrofosfato de litio con celdas tipo Blade, una receta ligada a una vida útil larga.",
+      "En España, Omoda cubre el conjunto siete años o 150.000 kilómetros, y motor y batería suben hasta ocho años o 160.000.",
+      "La carrocería logró la puntuación máxima de Euro NCAP en su ensayo inicial, nota que el organismo extendió al eléctrico en noviembre de 2024."
+    ],
+    contras: [
+      "Sus 370 litros de maletero quedan por debajo de lo habitual en SUV eléctricos de su tamaño pensados para viajar en familia.",
+      "Declara 1.785 kilos para 4.373 milímetros, un lastre que se nota al frenar fuerte o enlazar curvas cerradas.",
+      "En la gama española no hay batería superior a 61 kWh, así que quien viaje mucho no puede comprar más autonomía de fábrica.",
+      "Las ayudas electrónicas resultan insistentes en marcha y varios ajustes exigen bucear por menús táctiles poco directos, según pruebas publicadas en Reino Unido.",
+      "La marca se presentó en España en febrero de 2024, su red comercial sigue construyéndose y la reventa carece de historial contrastado."
+    ],
     largoMm: 4373,
     anchoMm: 1824,
     altoMm: 1588,
@@ -466,8 +478,20 @@ export const COCHES_EXP12: CocheComparador[] = [
     bateriaKwh: 34.46,
     cargaRapidaKw: 65,
     etiquetaDgt: "Cero",
-    pros: ["Su batería de 34,46 kWh homologa 145 km en eléctrico, así que muchos trayectos entre semana pueden cerrarse sin arrancar el 1.5 turbo y conservando la etiqueta Cero.", "El conjunto formado por ese gasolina y tres motores eléctricos suma 537 CV con 650 Nm y tracción a las cuatro ruedas: acelera hasta 100 km/h en 4,9 segundos.", "Admite corriente continua a 65 kW y recupera del 30 al 80 % en unos 25 minutos según la marca, una posibilidad todavía rara entre los enchufables de su clase.", "Se vende en un solo acabado Premium muy cerrado: piel Nappa, proyección frontal de 50 pulgadas, cámara envolvente de 540 grados y equipo Sony con catorce altavoces vienen incluidos.", "La valoración de seguridad registrada para el modelo es la máxima de Euro NCAP, cinco estrellas en las pruebas de 2025, un respaldo importante tratándose de una marca recién llegada."],
-    contras: ["Los 39.900 euros de esta ficha son precio aproximado de campaña: exigen financiación y ayudas con achatarramiento, mientras la tarifa sin descuentos publicada al lanzarlo rondaba los 52.900 euros.", "Pese a medir 4.770 mm, carga solo 471 litros y no ofrece tercera fila: quien necesite siete asientos mirará antes al Jaecoo J8 SHS o a un Skoda Kodiaq.", "El peso verificado en pruebas españolas, 2.270 kg, penaliza frenadas y cambios de apoyo, y la puesta a punto busca comodidad antes que agilidad en carreteras de curvas.", "El 1,7 l/100 km homologado solo aparece con la batería llena; en la prueba de Motorpasión, agotada la carga, el gasto subió hasta 7,8 l/100 km reales.", "Las pruebas españolas coinciden en que el sistema multimedia funciona peor de lo deseable y en que varias ayudas a la conducción intervienen con demasiada insistencia."],
+    pros: [
+      "La batería de 34,46 kWh homologa 145 km en eléctrico, así que muchos trayectos semanales se cierran sin arrancar el 1.5 turbo y conservando la etiqueta Cero.",
+      "Gasolina y tres motores eléctricos suman 537 CV con 650 Nm y tracción total: llega a 100 en 4,9 segundos.",
+      "Según la marca, en continua a 65 kW pasa del 30 al 80 por ciento en unos 25 minutos, algo todavía poco habitual entre enchufables de su clase.",
+      "Se vende en un solo acabado Premium muy cerrado: piel Nappa, proyección frontal de 50 pulgadas, cámara de 540 grados y equipo Sony de catorce altavoces vienen incluidos.",
+      "La valoración de seguridad registrada es la máxima de Euro NCAP, cinco estrellas en las pruebas de 2025, un respaldo importante para una marca recién llegada."
+    ],
+    contras: [
+      "Los 39.900 euros de esta ficha son precio aproximado de campaña: exigen financiación y ayudas con achatarramiento, mientras la tarifa sin descuentos al lanzarlo rondaba los 52.900 euros.",
+      "Pese a medir 4.770 mm, carga solo 471 litros y no ofrece tercera fila: quien necesite siete asientos mirará antes al Jaecoo J8 SHS o a un Skoda Kodiaq.",
+      "El peso verificado en pruebas españolas, 2.270 kg, penaliza frenadas y cambios de apoyo, y la puesta a punto busca comodidad antes que agilidad en curvas.",
+      "El 1,7 litros cada cien kilómetros homologado solo aparece con la batería llena; en la prueba de Motorpasión, agotada la carga, el gasto subió hasta 7,8 litros reales.",
+      "Las pruebas españolas coinciden en que el sistema multimedia funciona peor de lo deseable y varias ayudas intervienen con demasiada insistencia."
+    ],
     largoMm: 4770,
     anchoMm: 1920,
     altoMm: 1670,

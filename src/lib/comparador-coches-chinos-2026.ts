@@ -761,15 +761,15 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "potenciaCv"],
     pros: [
-      "7 plazas con 590 CV desde ~39.000 € en China",
-      "Arquitectura de 900 V con LiDAR de serie",
-      "Maletero delantero de 240 L",
-      "Batería en alquiler (BaaS): precio de acceso aún menor",
+      "Ofrece siete plazas con 590 CV desde unos 39.000 euros en China.",
+      "Usa arquitectura de 900 V con LiDAR de serie.",
+      "El maletero delantero cubica 240 litros.",
+      "Con la batería en alquiler BaaS, el precio de acceso es aún menor."
     ],
     contras: [
-      "Submarca nueva sin red comercial en Europa",
-      "El BaaS exige estaciones de cambio inexistentes aquí",
-      "Interior y acabados aún sin probar por la prensa europea",
+      "Es una submarca nueva sin red comercial en Europa.",
+      "El BaaS exige estaciones de cambio que aquí no existen.",
+      "La prensa europea todavía no ha probado su interior ni sus acabados."
     ],
     imagen: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l90-nio-2026-precio-ficha-tecnica-oficial.webp",

@@ -1,0 +1,2 @@
+python3 /tmp/verify_o2.py  (ventanas de 8 palabras, tokenizacion minusculas sin tildes de puntuacion; corpus: pros/contras de todas las fichas del repo excepto las 50 de esta tanda + contenidos de blog-posts-*.ts; comprobacion intra-lote incluida)
+Resultado final: 0 colisiones en las 50 fichas (490 frases nuevas: pros+contras).

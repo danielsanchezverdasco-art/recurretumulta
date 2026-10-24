@@ -35,18 +35,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Desde 20.450 €: uno de los utilitarios híbridos más baratos del mercado español",
-      "Etiqueta ECO con un consumo WLTP de solo 4,5 l/100 km",
-      "Cambio automático de serie, ideal para ciudad",
-      "Maletero de 309 litros, correcto para el segmento",
-      "Plataforma CMP probada y amplia red de concesionarios Opel en España",
+      "Desde 20.450 euros, está entre los utilitarios híbridos más baratos del mercado español.",
+      "Con etiqueta ECO, su consumo WLTP es de solo 4,5 litros cada cien kilómetros.",
+      "El cambio automático de serie resulta ideal para ciudad.",
+      "El maletero de 309 litros es correcto para el segmento.",
+      "La plataforma CMP está probada y Opel tiene una amplia red de concesionarios en España."
     ],
     contras: [
-      "110 CV y 9,9 s de 0 a 100: prestaciones modestas frente a rivales híbridos",
-      "Sin versión enchufable: no hay opción con autonomía eléctrica diaria",
-      "Par motor no publicado por la marca",
-      "Plásticos duros en el interior, mejorables frente a rivales recientes",
-      "El Corsa Electric ofrece etiqueta Cero por un salto de precio asumible",
+      "Sus prestaciones son modestas frente a rivales híbridos: 110 CV y 9,9 segundos de 0 a 100.",
+      "Sin versión enchufable, no hay opción con autonomía eléctrica diaria.",
+      "La marca no publica el par motor.",
+      "El interior tiene plásticos duros, mejorables frente a rivales recientes.",
+      "El Corsa Electric ofrece etiqueta Cero por un salto de precio asumible."
     ],
     largoMm: 4060,
     anchoMm: 1765,
@@ -117,8 +117,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["Homologa 428 kilómetros WLTP gastando solo 14,2 kWh cada cien, así que su paquete de 54 kWh rinde como el de rivales directos tipo Peugeot e-208 sin disparar el peso total.", "Los 260 Nm empujan desde parado y dejan el sprint hasta cien en 8,1 segundos, cifras que ningún Corsa de combustión de esta generación iguala en uso urbano diario.", "Mide 4.060 mm de largo y conserva cinco plazas reales, un formato pensado para aparcar en Madrid sin renunciar a salir de la ciudad algún fin de semana largo.", "En un poste de corriente continua recupera hasta el ochenta por ciento en menos de media hora según Opel, porque su techo de recarga se sitúa en 100 kW.", "El paquete de tracción queda respaldado ocho años o 160.000 kilómetros, una cobertura larga que protege el componente más caro si piensas quedártelo mucho tiempo."],
-    contras: ["Parte de 30.800 euros, es decir 10.350 euros por encima del Corsa Hybrid 110 de la misma carrocería que recoge esta misma gama Opel en España.", "El hueco trasero se queda en 267 litros, cuarenta y dos menos que los 309 del híbrido, porque el conjunto eléctrico roba espacio bajo el piso del maletero.", "Pesa 1.544 kilos, doscientos setenta y siete más que su hermano híbrido, y ese sobrepeso se percibe al enlazar curvas o al frenar bajando un puerto.", "Su velocidad punta queda autolimitada a 150 km/h, suficiente en autovía española pero escasa si viajas a menudo por autopistas alemanas sin límite.", "Comparte arquitectura CMP multienergía con modelos de gasolina, no una base nacida solo para baterías, y eso explica un túnel interior y unas proporciones heredadas."],
+    pros: [
+      "Homologa 428 kilómetros WLTP gastando solo 14,2 kWh cada cien, así que su paquete de 54 kWh rinde como el de rivales directos tipo Peugeot e-208 sin disparar el peso total.",
+      "Los 260 Nm empujan desde parado y dejan el sprint hasta cien en 8,1 segundos, cifras que ningún Corsa de combustión de esta generación iguala en uso urbano diario.",
+      "Mide 4.060 mm de largo y conserva cinco plazas reales, un formato pensado para aparcar en Madrid sin renunciar a salir de la ciudad algún fin de semana largo.",
+      "En un poste de corriente continua recupera hasta el ochenta por ciento en menos de media hora según Opel, porque su techo de recarga se sitúa en 100 kW.",
+      "El paquete de tracción queda respaldado ocho años o 160.000 kilómetros, una cobertura larga que protege el componente más caro si piensas quedártelo mucho tiempo."
+    ],
+    contras: [
+      "Parte de 30.800 euros, es decir 10.350 euros por encima del Corsa Hybrid 110 de la misma carrocería que recoge esta misma gama Opel en España.",
+      "El hueco trasero se queda en 267 litros, cuarenta y dos menos que los 309 del híbrido, porque el conjunto eléctrico roba espacio bajo el piso del maletero.",
+      "Pesa 1.544 kilos, 277 más que su hermano híbrido, y ese sobrepeso se nota al enlazar curvas o frenar bajando un puerto.",
+      "Su velocidad punta queda autolimitada a 150 km/h, suficiente en autovía española pero escasa si viajas a menudo por autopistas alemanas sin límite.",
+      "Comparte arquitectura CMP multienergía con modelos de gasolina, no una base nacida solo para baterías, y eso explica un túnel interior y unas proporciones heredadas."
+    ],
     largoMm: 4060,
     anchoMm: 1765,
     altoMm: 1435,
@@ -190,18 +202,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "281 CV y 345 Nm con diferencial autoblocante mecánico: el Corsa más radical de la historia",
-      "0-100 km/h en 5,5 s: prestaciones de GTI con etiqueta Cero",
-      "374 km de autonomía WLTP, válida para el día a día",
-      "Chasis específico GSE con puesta a punto deportiva",
-      "Carga rápida de 100 kW en continua",
+      "Sus 281 CV y 345 Nm van con diferencial autoblocante mecánico: es el Corsa más radical de la historia.",
+      "Con 0 a 100 en 5,5 segundos, ofrece prestaciones de GTI con etiqueta Cero.",
+      "Homologa 374 km de autonomía WLTP, válida para el día a día.",
+      "El chasis específico GSE tiene puesta a punto deportiva.",
+      "Carga rápido a 100 kW en continua."
     ],
     contras: [
-      "Desde 33.590 €: el Corsa más caro jamás vendido",
-      "Peso no publicado; el sobrepeso penaliza la agilidad frente a un GTI de gasolina",
-      "Tracción delantera con 281 CV: la motricidad es el límite",
-      "Maletero de 267 litros, como el Corsa Electric",
-      "Consumo WLTP no publicado por la marca",
+      "Desde 33.590 euros, es el Corsa más caro jamás vendido.",
+      "El peso no está publicado; el sobrepeso penaliza la agilidad frente a un GTI de gasolina.",
+      "Con tracción delantera y 281 CV, la motricidad es el límite.",
+      "El maletero de 267 litros es como el del Corsa Electric.",
+      "El consumo WLTP no está publicado por la marca."
     ],
     largoMm: 4060,
     anchoMm: 1765,
@@ -272,8 +284,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["A 23.300 € es el acceso híbrido a los SUV de Opel: mide 4,39 m, unos 24 cm más que un Mokka, y aun así su tarifa arranca por debajo de la de aquel", "Maletero de 460 litros en cinco plazas que crece a 1.600 al abatir la banqueta 60:40, con 1.876 mm de longitud útil de carga y un umbral situado a solo unos 77 cm del suelo", "La tercera fila opcional del acabado GS cuesta 850 € y suma dos asientos que se pliegan por separado: el MG ZS Hybrid+, su rival híbrido más potente, no puede montar siete plazas", "Su conjunto de 48 voltios —tricilíndrico 1.2 de 100 CV, motor eléctrico de 28 CV dentro de la caja eDCT6 y 205 Nm desde 1.750 rpm— homologa 5,2 l/100 km y se lleva la etiqueta ECO", "Estrena el nuevo emblema Blitz sobre el frontal Vizor y recupera un nombre con historia: el Frontera original fue el todoterreno que Opel comercializó entre 1991 y 2004"],
-    contras: ["Es el Frontera híbrido tranquilo: sus 110 CV para 1.344 kg firman un 0 a 100 km/h en 11,4 segundos y una velocidad punta de 180 km/h, lejos de los 9,0 s de su hermano Hybrid 145", "Con la tercera fila desplegada, los 460 litros del maletero se reducen a un hueco testimonial tras los dos asientos extra", "Solo hay dos anclajes ISOFIX, ambos en la banqueta trasera: en un familiar que puede llevar a siete personas se echa en falta un tercer punto de fijación", "km77 lo deja claro: por materiales de recubrimiento y equipamiento es el SUV más sencillo de Opel, con plásticos duros en línea con su tarifa contenida", "Toda la gama Frontera actual es de tracción delantera: del 4x4 de 1991 no queda ni la opción, así que fuera del asfalto manda la prudencia"],
+    pros: [
+      "A 23.300 euros es el acceso híbrido a los SUV de Opel: mide 4,39 metros, unos 24 cm más que un Mokka, y aun así su tarifa arranca por debajo de la de aquel.",
+      "El maletero de 460 litros en cinco plazas crece a 1.600 al abatir la banqueta 60:40, con 1.876 mm de longitud útil de carga y un umbral situado a solo unos 77 cm del suelo.",
+      "La tercera fila opcional del acabado GS cuesta 850 euros y suma dos asientos que se pliegan por separado: el MG ZS Hybrid+, su rival híbrido más potente, no puede montar siete plazas.",
+      "Su conjunto de 48 voltios, tricilíndrico 1.2 de 100 CV, motor eléctrico de 28 CV dentro de la caja eDCT6 y 205 Nm desde 1.750 rpm, homologa 5,2 litros cada cien kilómetros y se lleva la etiqueta ECO.",
+      "Estrena el nuevo emblema Blitz sobre el frontal Vizor y recupera un nombre con historia: el Frontera original fue el todoterreno que Opel comercializó entre 1991 y 2004."
+    ],
+    contras: [
+      "Es el Frontera híbrido tranquilo: sus 110 CV para 1.344 kg firman un 0 a 100 en 11,4 segundos y una velocidad punta de 180 km/h, lejos de los 9,0 segundos de su hermano Hybrid 145.",
+      "Con la tercera fila desplegada, los 460 litros del maletero se reducen a un hueco testimonial tras los dos asientos extra.",
+      "Solo hay dos anclajes ISOFIX, ambos en la banqueta trasera: en un coche que puede transportar a siete ocupantes, falta un tercer punto de fijación.",
+      "km77 lo deja claro: por materiales de recubrimiento y equipamiento es el SUV más sencillo de Opel, con plásticos duros en línea con su tarifa contenida.",
+      "Toda la gama Frontera actual es de tracción delantera: del 4x4 de 1991 no queda ni la opción, así que fuera del asfalto manda la prudencia."
+    ],
     largoMm: 4385,
     anchoMm: 1795,
     altoMm: 1635,
@@ -336,8 +360,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["Con el acumulador de 54 kWh homologa 402 km WLTP, margen que lo despega de los 307 km atribuidos a su primo Citroën ë-C3 Aircross, con quien comparte arquitectura Smart Car.", "El hueco posterior conserva 460 litros con cinco ocupantes sentados y crece hasta 1.600 al abatir la banqueta, sin sacrificar volumen por montar la batería mayor.", "La ficha lo sitúa desde 27.000 euros en España, tarifa de acceso contenida para un SUV eléctrico familiar de 4.385 mm pensado para el uso diario.", "El paquete de tracción disfruta de cobertura oficial durante ocho años o 160.000 km, respaldo que protege la pieza más cara de todo el conjunto mecánico.", "En un poste de continua admite picos de 100 kW, así que una parada breve en carretera recupera una porción útil de autonomía sin alargar demasiado el viaje."],
-    contras: ["Solo entrega 113 CV y apenas 125 Nm, por eso necesita 14,2 segundos para completar el sprint hasta cien: adelantar cargado exige anticiparse mucho.", "Su velocidad máxima se detiene en 143 km/h, la cifra más modesta entre las motorizaciones disponibles dentro del propio Frontera actual.", "Quien necesite siete asientos debe renunciar a esta variante: esa configuración queda reservada a los Frontera híbridos, mientras el eléctrico se conforma con cinco plazas.", "Sobre la báscula suma 1.610 kg y homologa 16,0 kWh/100 km: ni resulta ligero ni especialmente frugal para conformarse con 113 CV.", "Pese a rescatar un nombre asociado al 4x4 noventero, únicamente mueve las ruedas delanteras: no existe versión de tracción integral en el catálogo eléctrico."],
+    pros: [
+      "Con el acumulador de 54 kWh homologa 402 km WLTP, margen que lo despega de los 307 km atribuidos a su primo Citroën ë-C3 Aircross, con quien comparte arquitectura Smart Car.",
+      "El hueco posterior conserva 460 litros con cinco ocupantes sentados y crece hasta 1.600 al abatir la banqueta, sin sacrificar volumen por montar la batería mayor.",
+      "La ficha lo sitúa desde 27.000 euros en España, tarifa de acceso contenida para un SUV eléctrico familiar de 4.385 mm pensado para el uso diario.",
+      "El paquete de tracción de este Frontera tiene cobertura oficial ocho años, hasta 160.000 km: respaldo que protege la pieza más cara de todo el conjunto mecánico.",
+      "En un poste de continua admite picos de 100 kW, así que una parada breve en carretera recupera una porción útil de autonomía sin alargar demasiado el viaje."
+    ],
+    contras: [
+      "Solo entrega 113 CV y apenas 125 Nm, por eso necesita 14,2 segundos para completar el sprint hasta cien: adelantar cargado exige anticiparse mucho.",
+      "Su velocidad máxima se detiene en 143 km/h, la cifra más modesta entre las motorizaciones disponibles dentro del propio Frontera actual.",
+      "Quien necesite siete asientos debe renunciar a esta variante: esa configuración queda reservada a los Frontera híbridos, mientras el eléctrico se conforma con cinco plazas.",
+      "Sobre la báscula suma 1.610 kg y homologa 16,0 kWh cada cien kilómetros: ni resulta ligero ni especialmente frugal para conformarse con 113 CV.",
+      "Pese a rescatar un nombre asociado al 4x4 noventero, únicamente mueve las ruedas delanteras: no existe versión de tracción integral en el catálogo eléctrico."
+    ],
     largoMm: 4385,
     anchoMm: 1795,
     altoMm: 1635,
@@ -565,18 +601,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Desde 24.650 €: el compacto híbrido más barato de Opel",
-      "145 CV con solo 4,7 l/100 km de consumo WLTP",
-      "Maletero de 422 litros (1.339 abatido), amplio para el segmento",
-      "Etiqueta ECO y 210 km/h de velocidad máxima",
-      "Interior Pure Panel con doble pantalla, de los mejores del segmento",
+      "Desde 24.650 euros, es el compacto híbrido más barato de Opel.",
+      "Sus 145 CV gastan solo 4,7 litros cada cien kilómetros en ciclo WLTP.",
+      "El maletero de 422 litros, 1.339 abatido, es amplio para el segmento.",
+      "Lleva etiqueta ECO y alcanza 210 km/h de velocidad máxima.",
+      "El interior Pure Panel con doble pantalla está entre los mejores del segmento."
     ],
     contras: [
-      "Par motor no publicado por la marca",
-      "9,0 s de 0 a 100: prestaciones correctas sin más",
-      "El cambio automático e-DCT es de doble embrague, no convertidor de par",
-      "Sin versión con tracción total",
-      "Los acabados altos suben rápido de precio",
+      "La marca no publica el par motor.",
+      "Con 9,0 segundos de 0 a 100, sus prestaciones son correctas sin más.",
+      "El cambio automático e-DCT es de doble embrague, no convertidor de par.",
+      "No hay versión con tracción total.",
+      "Los acabados altos suben rápido de precio."
     ],
     largoMm: 4374,
     anchoMm: 1860,
@@ -647,8 +683,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 17,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["La batería de 17 kWh firma 84 km WLTP en eléctrico: la semana laboral puede resolverse enchufando en casa y reservando la gasolina para escapadas largas.", "Ningún otro Astra actual iguala sus 196 CV con 360 Nm; el cronómetro se detiene en 7,6 segundos hasta 100 km/h y la velocidad punta llega a 225 km/h.", "El distintivo Cero de la DGT lo sitúa por encima del Astra Hybrid de etiqueta ECO dentro de la propia gama a efectos de acceso a zonas restringidas.", "El acumulador conserva ocho años de cobertura, siempre con tope en 160.000 km recorridos: tranquiliza a quien planea estirar este enchufable mucho más allá de su financiación.", "Frente a su primo Peugeot 308, con el que comparte plataforma EMP2, este Opel defiende el frontal Vizor y el puesto Pure Panel como señas propias en 4,37 metros."],
-    contras: ["La factura parte de 35.000 euros: son 10.350 euros extra sobre el Astra Hybrid de 145 CV que figura en esta misma comparativa.", "Recorta el maletero hasta dejarlo en 310 litros, 112 menos que el Hybrid equivalente; en viajes familiares largos esa merma se nota antes que en el Sports Tourer.", "Sobre la báscula marca 1.682 kg, exactamente 228 kg por encima del Hybrid, un sobrepeso que se percibe en frenadas repetidas y maniobras lentas.", "Su ficha técnica deja vacía la casilla de carga rápida en continua, así que recuperar batería durante una pausa breve de autopista resulta inviable: toca esperar en alterna.", "En seguridad se queda a un escalón del máximo posible: 4 estrellas Euro NCAP en 2022, asistentes puntuados al 66 % y ningún airbag entre conductor y acompañante."],
+    pros: [
+      "La batería de 17 kWh firma 84 km WLTP en eléctrico: la semana laboral puede resolverse enchufando en casa y reservando la gasolina para escapadas largas.",
+      "Ningún otro Astra actual iguala sus 196 CV con 360 Nm; el cronómetro se detiene en 7,6 segundos hasta 100 km/h y la velocidad punta llega a 225 km/h.",
+      "El distintivo Cero de la DGT lo sitúa por encima del Astra Hybrid de etiqueta ECO dentro de la propia gama a efectos de acceso a zonas restringidas.",
+      "El acumulador conserva ocho años de cobertura, siempre con tope en 160.000 km recorridos: tranquiliza a quien planea estirar este enchufable mucho más allá de su financiación.",
+      "Frente a su primo Peugeot 308, con el que comparte plataforma EMP2, este Opel defiende el frontal Vizor y el puesto Pure Panel como señas propias en 4,37 metros."
+    ],
+    contras: [
+      "La factura parte de 35.000 euros: son 10.350 euros extra sobre el Astra Hybrid de 145 CV que figura en esta misma comparativa.",
+      "Recorta el maletero hasta dejarlo en 310 litros, 112 menos que el Hybrid equivalente; en viajes familiares largos esa merma se nota antes que en el Sports Tourer.",
+      "Sobre la báscula marca 1.682 kg, exactamente 228 kg por encima del Hybrid, un sobrepeso que se percibe en frenadas repetidas y maniobras lentas.",
+      "La casilla de carga rápida en continua queda vacía en su ficha, así que en una pausa breve de autopista no se puede recuperar batería: toca esperar en alterna.",
+      "En seguridad se queda a un escalón del máximo posible: cuatro estrellas Euro NCAP en 2022, asistentes puntuados al 66 por ciento y ningún airbag entre conductor y acompañante."
+    ],
     largoMm: 4374,
     anchoMm: 1859,
     altoMm: 1464,
@@ -720,8 +768,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["Estira cada kilovatio: con 14,8 kWh/100 km homologados, su batería de 54 kWh rinde 418 km WLTP sin recurrir a un paquete enorme y pesado.", "La batería de tracción queda cubierta durante ocho años o 160.000 km, un respaldo largo para un compacto generalista pensado para durar.", "Frente a la marea de SUV eléctricos, conserva la silueta baja de cinco puertas y 4.374 mm del Astra de toda la vida, con etiqueta Cero para entrar en cualquier ZBE.", "En corriente continua admite 100 kW y en alterna lleva cargador trifásico de 11 kW, así que la recarga nocturna en un wallbox doméstico queda resuelta sin extras.", "Sus 270 Nm llegan desde el primer toque de pedal y mueven un conjunto de tracción delantera sencillo, sin la complejidad de un segundo motor trasero."],
-    contras: ["Partir de 34.000 euros lo deja en desventaja frente al MG4 o al BYD Dolphin, que juegan la baza del precio en este mismo tamaño.", "Su sprint hasta los 100 km/h tarda 9,2 segundos: para ser un eléctrico se siente tranquilo, lastrado por sus 1.736 kg de peso total.", "El techo de carga rápida se queda en 100 kW, por debajo de lo que ya ofrecen compactos rivales, y recuperar el 80 % exige alrededor de media hora.", "El maletero se conforma con 352 litros, setenta menos que los 422 del Astra Hybrid de esta misma generación.", "La velocidad punta está autolimitada a 170 km/h y en esta versión no existe opción de tracción total ni de una batería mayor para viajar por autopista."],
+    pros: [
+      "Estira cada kilovatio: con 14,8 kWh cada cien kilómetros homologados, su batería de 54 kWh rinde 418 km WLTP sin recurrir a un paquete enorme y pesado.",
+      "Opel respalda la batería de tracción de este Astra ocho años, hasta 160.000 km: cobertura larga para un compacto generalista pensado para durar.",
+      "Frente a la marea de SUV eléctricos, conserva la silueta baja de cinco puertas y 4.374 mm del Astra de toda la vida, con etiqueta Cero para entrar en cualquier ZBE.",
+      "En corriente continua admite 100 kW y en alterna lleva cargador trifásico de 11 kW, así que la recarga nocturna en un wallbox doméstico queda resuelta sin extras.",
+      "Sus 270 Nm llegan desde el primer toque de pedal y mueven un conjunto de tracción delantera sencillo, sin la complejidad de un segundo motor trasero."
+    ],
+    contras: [
+      "Partir de 34.000 euros lo deja en desventaja frente al MG4 o al BYD Dolphin, que juegan la baza del precio en este mismo tamaño.",
+      "Su sprint hasta los 100 km/h tarda 9,2 segundos: para ser un eléctrico se siente tranquilo, lastrado por sus 1.736 kg de peso total.",
+      "El techo de carga rápida se queda en 100 kW, por debajo de lo que ya ofrecen compactos rivales, y recuperar el 80 por ciento exige alrededor de media hora.",
+      "El maletero se conforma con 352 litros, setenta menos que los 422 del Astra Hybrid de esta misma generación.",
+      "La punta está autolimitada a 170 km/h y esta versión no ofrece ni tracción total ni batería mayor para viajar por autopista."
+    ],
     largoMm: 4374,
     anchoMm: 1860,
     altoMm: 1460,
@@ -792,8 +852,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 54,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["516 litros con la banqueta trasera en su sitio y 1.553 plegándola: carrito, bicicletas y equipaje de vacaciones entran sin recurrir a un SUV", "La batería de 54 kWh viaja bajo el piso y no le quita ni un litro al maletero respecto a las versiones térmicas del familiar", "Homologa 413 km WLTP gastando 15,0 kWh/100 km: da para la semana de trabajo cargando en casa y algún desplazamiento largo ocasional", "Con solo 1.443 mm de altura, subir bultos pesados al maletero cuesta menos esfuerzo que en un todocamino de techo elevado", "La batería de tracción queda cubierta durante ocho años o 160.000 km, respaldo valioso en un coche pensado para durar en la familia"],
-    contras: ["Parte de 35.200 €: quien ruede pocos kilómetros tardará mucho en compensar la diferencia frente al Sports Tourer de gasolina equivalente", "Su techo de carga en continua es de 100 kW, cifra discreta que alarga las paradas en ruta comparada con eléctricos más recientes", "Pesa 1.760 kg en orden de marcha, así que cargado con cinco personas y equipaje los 156 CV empujan de forma simplemente correcta", "No hay maletero delantero donde guardar los cables, que acaban ocupando hueco dentro del compartimento trasero principal", "La gama eléctrica del familiar se limita a esta única combinación de motor y batería: no existe una variante con mayor autonomía"],
+    pros: [
+      "Ofrece 516 litros con la banqueta trasera en su sitio y 1.553 plegándola: carrito, bicicletas y equipaje de vacaciones entran sin recurrir a un SUV.",
+      "La batería de 54 kWh viaja bajo el piso y no le quita ni un litro al maletero respecto a las versiones térmicas del familiar.",
+      "Homologa 413 km WLTP gastando 15,0 kWh cada cien kilómetros: da para la semana de trabajo cargando en casa y algún desplazamiento largo ocasional.",
+      "Con solo 1.443 mm de altura, subir bultos pesados al maletero cuesta menos esfuerzo que en un todocamino de techo elevado.",
+      "Para un familiar pensado para durar, Opel cubre la batería de tracción ocho años, hasta 160.000 km."
+    ],
+    contras: [
+      "Parte de 35.200 euros: quien ruede pocos kilómetros tardará mucho en compensar la diferencia frente al Sports Tourer de gasolina equivalente.",
+      "Su techo de carga en continua es de 100 kW, cifra discreta que alarga las paradas en ruta comparada con eléctricos más recientes.",
+      "Pesa 1.760 kg en orden de marcha, así que cargado con cinco personas y equipaje los 156 CV empujan de forma simplemente correcta.",
+      "No hay maletero delantero donde guardar los cables, que acaban ocupando hueco dentro del compartimento trasero principal.",
+      "La gama eléctrica del familiar se limita a esta única combinación de motor y batería: no existe una variante con mayor autonomía."
+    ],
     largoMm: 4642,
     anchoMm: 1860,
     altoMm: 1443,
@@ -865,8 +937,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    pros: ["Su maletero anuncia 466 litros sin abatir la banqueta y la boca queda a unos 600 mm del suelo, así que cargar maletas pesadas o una sillita resulta menos trabajoso que en cualquier SUV equivalente.", "Los 66 km eléctricos homologados dan para encadenar colegio, oficina y recados en modo silencioso, y el distintivo Cero abre las zonas restringidas que al Sports Tourer de gasolina le quedan vetadas.", "El conjunto enchufable suma 181 CV y 360 Nm, con 7,7 segundos hasta 100 km/h: adelantar en una nacional viajando cinco personas con equipaje no exige calcular cada incorporación con varios segundos de margen.", "Mide 4.642 mm de largo, una cota contenida para un familiar con esta capacidad, y maniobrar en un parking estrecho resulta más sencillo que con un todocamino enchufable de batalla similar.", "Hasta los 160.000 km recorridos, u ocho años desde la matriculación, el acumulador mantiene su respaldo oficial, algo que tranquiliza a quien piensa conservar este familiar durante una década larga."],
-    contras: ["El precio de acceso, 38.000 euros, resulta elevado para un familiar compacto generalista: es dinero de berlina grande aplicado a un coche de 4.642 mm.", "Sobre la báscula declara 1.717 kg, un lastre que se percibe al frenar bajando un puerto con la familia a bordo y que penaliza neumáticos y gasto de gasolina en cuanto se vacía el acumulador.", "En el examen de Euro NCAP de 2022 sumó cuatro estrellas, una por debajo de sus rivales León Sportstourer y Octavia Combi, con los asistentes en un 66 % y sin airbag central delantero.", "No admite carga rápida con corriente continua: en ruta larga, recuperar electricidad exige una parada prolongada en alterna o seguir tirando de gasolina hasta llegar al destino.", "La electrificación recorta el maletero frente al Sports Tourer térmico, que Opel anunciaba con 608 litros: aquí quedan 466, una pérdida sensible si este coche es el único familiar de la casa."],
+    pros: [
+      "Su maletero anuncia 466 litros sin abatir la banqueta y la boca queda a unos 600 mm del suelo, así que cargar maletas pesadas o una sillita resulta menos trabajoso que en cualquier SUV equivalente.",
+      "Los 66 km eléctricos homologados dan para encadenar colegio, oficina y recados en modo silencioso, y el distintivo Cero abre las zonas restringidas que al Sports Tourer de gasolina le quedan vetadas.",
+      "El conjunto enchufable suma 181 CV y 360 Nm, con 7,7 segundos hasta 100 km/h: adelantar en una nacional viajando cinco personas con equipaje no exige calcular cada incorporación con varios segundos de margen.",
+      "Con 4.642 mm de largo, su cota resulta contenida para un familiar con esta capacidad, y maniobrar en un parking estrecho es más sencillo que con un todocamino enchufable de batalla similar.",
+      "Hasta los 160.000 km recorridos, u ocho años desde la matriculación, el acumulador mantiene su respaldo oficial, algo que tranquiliza a quien piensa conservar este familiar durante una década larga."
+    ],
+    contras: [
+      "El precio de acceso, 38.000 euros, resulta elevado para un familiar compacto generalista: es dinero de berlina grande aplicado a un coche de 4.642 mm.",
+      "Sobre la báscula declara 1.717 kg, un lastre que se percibe al frenar bajando un puerto con la familia a bordo y que penaliza neumáticos y gasto de gasolina en cuanto se vacía el acumulador.",
+      "En el examen de Euro NCAP de 2022 sumó cuatro estrellas, una por debajo de sus rivales León Sportstourer y Octavia Combi, con los asistentes en un 66 por ciento y sin airbag central delantero.",
+      "No admite carga rápida con corriente continua: en ruta larga, recuperar electricidad exige una parada prolongada en alterna o seguir tirando de gasolina hasta llegar al destino.",
+      "La electrificación recorta el maletero frente al Sports Tourer térmico, que Opel anunciaba con 608 litros: aquí quedan 466, una pérdida sensible si este coche es el único familiar de la casa."
+    ],
     largoMm: 4642,
     anchoMm: 1860,
     altoMm: 1481,
@@ -939,18 +1023,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Desde 25.850 €: el familiar híbrido más barato del segmento C",
-      "Maletero de 597 litros (1.634 abatido): el más capaz de la gama Astra",
-      "145 CV con 4,8 l/100 km de consumo WLTP y etiqueta ECO",
-      "Sin enchufe: toda la practicidad sin cambiar hábitos",
-      "Mismo interior Pure Panel que el resto de la gama",
+      "A 25.850 euros, es el familiar híbrido con el precio más bajo del segmento C.",
+      "El maletero de 597 litros, 1.634 abatido, es el más capaz de la gama Astra.",
+      "Sus 145 CV gastan 4,8 litros cada cien kilómetros en WLTP y llevan etiqueta ECO.",
+      "Sin enchufe: toda la practicidad sin cambiar hábitos.",
+      "Comparte el mismo interior Pure Panel que el resto de la gama."
     ],
     contras: [
-      "Par motor no publicado por la marca",
-      "9,3 s de 0 a 100: el familiar más pausado de la gama",
-      "Sin etiqueta Cero: peor acceso futuro a las ZBE que el PHEV",
-      "Peso de 1.502 kg",
-      "Los rivales híbridos japoneses tienen más fama de fiabilidad",
+      "La marca no publica el par motor.",
+      "Con 9,3 segundos de 0 a 100, es el familiar más pausado de la gama.",
+      "Sin etiqueta Cero, su acceso futuro a las ZBE es peor que el del PHEV.",
+      "Pesa 1.502 kg.",
+      "Los rivales híbridos japoneses tienen más fama de fiabilidad."
     ],
     largoMm: 4642,
     anchoMm: 1860,
@@ -1157,8 +1241,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 78,
     cargaRapidaKw: 160,
     etiquetaDgt: "Cero",
-    pros: ["Con 521 kilómetros homologados, esta versión de acceso cubre Madrid-Valencia sin obligar a parar a recargar por el camino", "Acepta hasta 160 kW en corriente continua, cifra que lo deja por delante del Renault Scenic E-Tech en paradas rápidas", "Sus 550 litros tras la segunda fila igualan lo que ofrece un Peugeot E-3008 y superan a muchos SUV familiares térmicos", "Arranca en 40.250 euros, por debajo de lo que pide un Volkswagen ID.4 de potencia parecida en España", "La batería queda cubierta durante ocho años con límite de 160.000 kilómetros, respaldo tranquilizador para conservarlo a largo plazo"],
-    contras: ["Mover 2.207 kilos lastra el consumo urbano y se deja notar al buscar hueco en calles estrechas del centro", "Necesita 9,0 segundos para alcanzar los cien, registro discreto cuando un Tesla Model Y básico acelera bastante más fuerte", "Quien priorice los viajes muy largos mirará la variante Long Range, que suma una batería mayor a cambio de 4.200 euros extra", "Opel no declara par motor en esta ficha, un hueco incómodo al compararlo con rivales que sí publican ese dato", "La punta queda recortada a 170 km/h y el consumo homologado de 17,0 kWh/100 km no brilla frente a opciones coreanas"],
+    pros: [
+      "Con 521 kilómetros homologados, esta versión de acceso cubre Madrid-Valencia sin obligar a parar a recargar por el camino.",
+      "Acepta hasta 160 kW en corriente continua, cifra que lo deja por delante del Renault Scenic E-Tech en paradas rápidas.",
+      "Sus 550 litros tras la segunda fila igualan lo que ofrece un Peugeot E-3008 y superan a muchos SUV familiares térmicos.",
+      "Arranca en 40.250 euros, por debajo de lo que pide un Volkswagen ID.4 de potencia parecida en España.",
+      "Para conservarlo a largo plazo tranquiliza saber que la batería de este Grandland queda cubierta ocho años, con un tope de 160.000 kilómetros."
+    ],
+    contras: [
+      "Mover 2.207 kilos lastra el consumo urbano y se deja notar al buscar hueco en calles estrechas del centro.",
+      "Necesita 9,0 segundos para alcanzar los cien, registro discreto cuando un Tesla Model Y básico acelera bastante más fuerte.",
+      "Quien priorice los viajes muy largos mirará la variante Long Range, que suma una batería mayor a cambio de 4.200 euros extra.",
+      "Opel no declara par motor en esta ficha, un hueco incómodo al compararlo con rivales que sí publican ese dato.",
+      "La punta queda recortada a 170 km/h y el consumo homologado de 17,0 kWh cada cien kilómetros no brilla frente a opciones coreanas."
+    ],
     largoMm: 4650,
     anchoMm: 1905,
     altoMm: 1661,
@@ -1229,8 +1325,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 97,
     cargaRapidaKw: 160,
     etiquetaDgt: "Cero",
-    pros: ["Su acumulador de 97 kWh homologa 694 km WLTP, margen pensado para enlazar trayectos largos entre capitales sin detenerse a recargar", "Frente a su gemelo Peugeot E-3008 Long Range cuesta 2.810 euros menos y además ofrece 30 litros extra de maletero", "Conserva los 550 litros de carga del Grandland Electric de batería pequeña pese a alojar el paquete energético más grande de la familia", "Admite picos de 160 kW en corriente continua, ritmo adecuado para aprovechar paradas cortas durante rutas por autovía", "La batería queda cubierta durante ocho años hasta alcanzar 160.000 kilómetros, respaldo acorde con un coche planteado para devorar distancia"],
-    contras: ["Los 44.450 euros suponen 4.200 más que el Grandland Electric de 213 CV, sobreprecio que solo amortiza quien viaje lejos muy a menudo", "Con 231 CV firma 8,8 segundos hasta 100 km/h, un registro tranquilo que no acompaña la contundencia de su autonomía", "Su consumo oficial de 17,3 kWh cada cien kilómetros queda ligeramente por encima del 17,1 que declara su primo francés equivalente", "El peso no figura declarado en esta versión y el paquete de 97 kWh anticipa una báscula exigente para moverse por ciudad", "Llenar 97 kWh en un wallbox doméstico exige sesiones nocturnas largas, así que pide planificar recargas en lugar de improvisarlas"],
+    pros: [
+      "Su acumulador de 97 kWh homologa 694 km WLTP, margen pensado para enlazar trayectos largos entre capitales sin detenerse a recargar.",
+      "Frente a su gemelo Peugeot E-3008 Long Range, cuesta 2.810 euros menos y además ofrece 30 litros extra de maletero.",
+      "Conserva los 550 litros de carga del Grandland Electric de batería pequeña pese a alojar el paquete energético más grande de la familia.",
+      "Admite picos de 160 kW en corriente continua, ritmo adecuado para aprovechar paradas cortas durante rutas por autovía.",
+      "La batería queda cubierta durante ocho años hasta alcanzar 160.000 kilómetros, respaldo acorde con un coche planteado para devorar distancia."
+    ],
+    contras: [
+      "Los 44.450 euros suponen 4.200 más que el Grandland Electric de 213 CV, sobreprecio que solo amortiza quien viaje lejos muy a menudo.",
+      "Con 231 CV firma 8,8 segundos hasta 100 km/h, un registro tranquilo que no acompaña la contundencia de su autonomía.",
+      "Su consumo oficial de 17,3 kWh cada cien kilómetros queda ligeramente por encima del 17,1 que declara su primo francés equivalente.",
+      "El peso no figura declarado en esta versión y el paquete de 97 kWh anticipa una báscula exigente para moverse por ciudad.",
+      "Llenar 97 kWh en un wallbox doméstico exige sesiones nocturnas largas, así que pide planificar recargas en lugar de improvisarlas."
+    ],
     largoMm: 4650,
     anchoMm: 1905,
     altoMm: 1661,
@@ -1301,8 +1409,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 73,
     cargaRapidaKw: 160,
     etiquetaDgt: "Cero",
-    pros: ["Dos motores reparten el trabajo: 213 CV delante y 112 CV detrás suman 325 CV con 509 Nm inmediatos", "El modo 4WD mantiene ambos propulsores activos y busca agarre continuo sobre asfalto mojado, nieve o gravilla suelta", "En Sport el reparto pasa a 60:40 entre ejes y el sprint hasta 100 km/h queda en 6,1 segundos", "Su coeficiente aerodinámico de 0,278, el mejor entre los Grandland, ayuda a contener el gasto en autovía", "Conserva 494 km WLTP homologados pese al segundo motor y admite 160 kW, recuperando del 20 al 80 % en menos de media hora"],
-    contras: ["Arranca en 51.450 euros y Opel lo vende únicamente ligado al nivel de equipamiento Ultimate, sin alternativa intermedia", "La báscula marca 2.325 kilos, 118 más que el Grandland Electric de tracción delantera registrado en esta misma gama", "El hueco trasero se queda en 485 litros frente a los 550 litros de sus hermanos de un solo motor", "No hay batería grande para esta variante: los 73 kWh quedan lejos de los 97 kWh del Long Range", "Su techo de carga, 160 kW, queda muy por debajo de los 350 kW que anuncia el Ioniq 5 N"],
+    pros: [
+      "Dos motores reparten el trabajo: 213 CV delante y 112 CV detrás suman 325 CV con 509 Nm inmediatos.",
+      "El modo 4WD mantiene ambos propulsores activos y busca agarre continuo sobre asfalto mojado, nieve o gravilla suelta.",
+      "En Sport, el reparto pasa a 60:40 entre ejes y el sprint hasta 100 km/h queda en 6,1 segundos.",
+      "Su coeficiente aerodinámico de 0,278, el mejor entre los Grandland, ayuda a contener el gasto en autovía.",
+      "Conserva 494 km WLTP homologados pese al segundo motor y admite 160 kW, recuperando del 20 al 80 por ciento en menos de media hora."
+    ],
+    contras: [
+      "Arranca en 51.450 euros y Opel lo vende únicamente ligado al nivel de equipamiento Ultimate, sin alternativa intermedia.",
+      "La báscula marca 2.325 kilos, 118 más que el Grandland Electric de tracción delantera registrado en esta misma gama.",
+      "El hueco trasero se queda en 485 litros frente a los 550 litros de sus hermanos de un solo motor.",
+      "No hay batería grande para esta variante: los 73 kWh quedan lejos de los 97 kWh del Long Range.",
+      "Su techo de carga, 160 kW, queda muy por debajo de los 350 kW que anuncia el Ioniq 5 N."
+    ],
     largoMm: 4650,
     anchoMm: 1905,
     altoMm: 1661,
@@ -1373,8 +1493,20 @@ export const COCHES_OPEL: CocheComparador[] = [
     bateriaKwh: 50,
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
-    pros: ["Homologa 344 km WLTP con una batería de solo 50 kWh, margen suficiente para cubrir la semana laboral y los trayectos escolares sin cargar a diario.", "Su maletero cúbico anuncia 597 litros con cinco asientos en pie, y admite bultos altos que un SUV familiar de similar longitud rechaza.", "Ambas puertas traseras corren sobre raíles laterales: en garajes angostos los niños bajan sin rozar la carrocería del vehículo aparcado al lado.", "En un cargador continuo de 100 kW recupera hasta el ochenta por ciento en unos treinta minutos, según Opel España, pausa asumible en ruta.", "La batería de tracción queda respaldada ocho años o 160.000 km, y el distintivo Cero de la DGT permite circular por las ZBE sin restricciones."],
-    contras: ["Parte de 32.664 euros en esta ficha, desembolso serio para un derivado de furgoneta compacta con acabados interiores predominantemente duros.", "Acelera de cero a cien en 11,7 segundos y su punta se corta en 132 km/h: en incorporaciones cargado toca planificar con antelación.", "El consumo homologado de 18,0 kWh a los cien kilómetros delata su silueta alta de 1.841 mm, poco amiga de la autovía sostenida.", "Esta carrocería corta figura con cinco plazas en la ficha; quien necesite siete debe saltar a la batalla larga XL de 4.753 mm.", "Comparte casi todo con Citroën ë-Berlingo y Peugeot e-Rifter, sus gemelos de Stellantis: elegirlo depende de oferta y red comercial, no de técnica."],
+    pros: [
+      "Con una batería de solo 50 kWh homologa 344 km WLTP, margen suficiente para la semana laboral y los trayectos escolares sin cargar a diario.",
+      "Su maletero cúbico anuncia 597 litros con cinco asientos en pie, y admite bultos altos que un SUV familiar de similar longitud rechaza.",
+      "Ambas puertas traseras corren sobre raíles laterales: en garajes angostos los niños bajan sin rozar la carrocería del vehículo aparcado al lado.",
+      "En un cargador continuo de 100 kW recupera hasta el ochenta por ciento en unos treinta minutos, según Opel España, pausa asumible en ruta.",
+      "Este Combo Electric lleva distintivo Cero de la DGT para circular por las ZBE sin restricciones, y Opel respalda su batería de tracción durante ocho años, hasta 160.000 km."
+    ],
+    contras: [
+      "Parte de 32.664 euros en esta ficha, desembolso serio para un derivado de furgoneta compacta con acabados interiores predominantemente duros.",
+      "Acelera de cero a cien en 11,7 segundos y su punta se corta en 132 km/h: en incorporaciones cargado toca planificar con antelación.",
+      "El consumo homologado de 18,0 kWh a los cien kilómetros delata su silueta alta de 1.841 mm, poco amiga de la autovía sostenida.",
+      "Esta carrocería corta figura con cinco plazas en la ficha; quien necesite siete debe saltar a la batalla larga XL de 4.753 mm.",
+      "Comparte casi todo con Citroën ë-Berlingo y Peugeot e-Rifter, sus gemelos de Stellantis: elegirlo depende de oferta y red comercial, no de técnica."
+    ],
     largoMm: 4403,
     anchoMm: 1848,
     altoMm: 1841,
@@ -1676,18 +1808,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "1.5 diésel de 131 CV con cambio automático AT8",
-      "850 L de maletero en la versión larga XL",
-      "5,6 l/100 km homologados",
-      "Puertas correderas y 5 plazas reales",
-      "Desde 31.599 €",
+      "El 1.5 diésel de 131 CV va con cambio automático AT8.",
+      "El maletero de la versión larga XL cubica 850 litros.",
+      "Homologa 5,6 litros cada cien kilómetros.",
+      "Tiene puertas correderas y cinco plazas reales.",
+      "Parte de 31.599 euros."
     ],
     contras: [
-      "Etiqueta C: sin ventajas en ZBE",
-      "184 km/h y prestaciones discretas",
-      "1.685 kg en vacío",
-      "Interior funcional, sin lujos",
-      "El Combo-e eléctrico ya es Cero",
+      "Lleva etiqueta C, sin ventajas en ZBE.",
+      "Con 184 km/h y prestaciones discretas, no es un coche rápido.",
+      "Pesa 1.685 kg en vacío.",
+      "Su interior es funcional, sin lujos.",
+      "El Combo-e eléctrico ya es Cero."
     ],
     largoMm: 4753,
     anchoMm: 1848,
@@ -1759,18 +1891,18 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "4,8 l/100 km: el Astra más eficiente",
-      "Diésel de 131 CV con automático AT8",
-      "Maletero de 422 L",
-      "Desde 26.100 €",
-      "Ideal para hacer muchos kilómetros",
+      "Con 4,8 litros cada cien kilómetros, es el Astra más eficiente.",
+      "El diésel de 131 CV va con automático AT8.",
+      "El maletero cubica 422 litros.",
+      "Parte de 26.100 euros.",
+      "Resulta ideal para hacer muchos kilómetros."
     ],
     contras: [
-      "Etiqueta C: sin ventajas en ZBE",
-      "El diésel, en retirada en las ciudades",
-      "Menos refinado que el híbrido",
-      "Prestaciones discretas",
-      "Reventa incierta a largo plazo",
+      "Lleva etiqueta C, sin ventajas en ZBE.",
+      "El diésel está en retirada en las ciudades.",
+      "Es menos refinado que el híbrido.",
+      "Sus prestaciones son discretas.",
+      "La reventa a largo plazo es incierta."
     ],
     largoMm: 4374,
     anchoMm: null,

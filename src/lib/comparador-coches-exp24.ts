@@ -1114,8 +1114,19 @@ export const COCHES_EXP24: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["Con 12,1 kWh/100 km declarados y un Cx de 0,229, este SUV de 4.828 mm y 1.885 kg gasta como un compacto: ahí está la explicación de los 555 km CLTC con una batería LFP de solo 60,6 kWh", "Si te quedas sin carga en China, no enchufas y esperas: entras en una estación de NIO, cambias la batería por otra cargada y sigues, una ventaja que ningún rival vendido en Europa ofrece hoy", "326 CV y 305 Nm en el eje trasero, con el 0 a 100 km/h en 5,9 s, para un coche familiar que en China partía de unos 26.900 € aproximados con batería incluida", "763 litros de maletero según la ficha en un SUV coupé de cinco plazas: la caída del techo no se ha comido la capacidad que una familia usa a diario", "La arquitectura de 900 V del L60 va muy por delante de la de 400 V de los NIO de la marca principal de su época, y eso se nota en tiempos de carga y en eficiencia"],
-    contras: ["En España no puedes comprarlo ni mantenerlo: el L60 de 2024 se vendió solo en China, sin red comercial ni de servicio de Onvo en Europa", "Los 555 km son CLTC, el ciclo chino, más benévolo que el WLTP europeo: quien lo importe por su cuenta debe esperar una cifra real sensiblemente menor", "Su 5 estrellas C-NCAP, con un 89,2 % global, no equivalen a una prueba Euro NCAP: para el comprador europeo no existe una nota de seguridad homologable aquí", "El cambio de batería solo funciona en estaciones NIO de tercera generación actualizadas y de cuarta generación; fuera de esa red china, la función estrella del coche desaparece"],
+    pros: [
+      "Con 12,1 kWh cada cien kilómetros declarados y un Cx de 0,229, este SUV de 4.828 mm y 1.885 kg gasta como un compacto: ahí está la explicación de los 555 km CLTC con una batería LFP de solo 60,6 kWh.",
+      "Si te quedas sin carga en China, no enchufas y esperas: entras en una estación de NIO, cambias la batería por otra cargada y sigues, una ventaja que ningún rival vendido en Europa ofrece hoy.",
+      "Para un familiar, el eje trasero con 326 CV y 305 Nm completa el sprint a cien en 5,9 segundos; en China partía de unos 26.900 euros aproximados con batería incluida.",
+      "El maletero anuncia 763 litros en un SUV coupé de cinco plazas: la caída del techo no se ha comido la capacidad que una familia usa a diario.",
+      "La arquitectura de 900 V del L60 va muy por delante de la de 400 V de los NIO de la marca principal de su época, y eso se nota en tiempos de carga y en eficiencia."
+    ],
+    contras: [
+      "Comprarlo o mantenerlo en España no es posible: el L60 de 2024 solo se vendió en China, sin concesionarios ni talleres Onvo en Europa.",
+      "Los 555 km son CLTC, el ciclo chino, más benévolo que el WLTP europeo: quien lo importe por su cuenta debe esperar una cifra real sensiblemente menor.",
+      "Sus cinco estrellas C-NCAP, con un 89,2 por ciento global, no equivalen a una prueba Euro NCAP: para el comprador europeo no existe una nota homologable aquí.",
+      "El cambio de batería solo funciona en estaciones NIO de tercera generación actualizadas y de cuarta generación; fuera de esa red china, la función estrella del coche desaparece."
+    ],
     imagen: "/media/onvo-l60-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/onvo-l60-2024-precio-ficha-tecnica-interior.webp",

@@ -41,8 +41,19 @@ export const COCHES_ONVO: CocheComparador[] = [
     traccion: "Trasera",
     emisionesCo2: 0,
     aprox: ["precioDesde"],
-    pros: ["La gama 2026 arranca en 192.800 yuanes, 14.100 yuanes menos que la anterior, y con el alquiler de batería BaaS el desembolso inicial baja a 135.800 yuanes.", "Los Max+ y Ultra+ estrenan LiDAR en el techo y el chip Shenji NX9031 de 5 nm desarrollado por NIO, con el modelo de mundo NWM para la asistencia en ciudad y autopista.", "Con la batería de serie de 60 kWh declara 560 km CLTC y un consumo de 11,9 kWh/100 km en esta versión trasera de 326 CV; la opcional de 85 kWh sube a 740 km CLTC.", "Si no apetece esperar en un cargador, puede cambiar la batería en unos 3 minutos en una estación de NIO; con cable, la arquitectura de 900 V pasa del 10 al 80 % en unos 25 minutos.", "Maletero de 763 litros en un SUV coupé de 4.828 mm de largo y 2.950 mm de batalla: la caída del techo no se ha comido la capacidad para viajar cargado."],
-    contras: ["Sigue sin venderse fuera de China: no hay fecha de llegada a Europa, ni red de servicio ni estaciones de intercambio aprovechables si alguien lo importa por su cuenta.", "El Pro de acceso no lleva LiDAR: se queda con cámaras y un Nvidia Orin-X, y dar el salto al Max+ con el chip Shenji cuesta ya 202.800 yuanes.", "Todas las autonomías citadas son CLTC chinas, no WLTP: los 560 km de la batería de 60 kWh se quedarán claramente cortos en un uso real europeo, sobre todo en autopista.", "El precio BaaS no es el precio completo: la batería se paga aparte en alquiler mensual, unos 600 yuanes al mes para la de 60 kWh, así que el ahorro inicial se va devolviendo mes a mes."],
+    pros: [
+      "La gama 2026 arranca en 192.800 yuanes, 14.100 menos que la anterior, y con el alquiler de batería BaaS el desembolso inicial baja a 135.800 yuanes.",
+      "Las versiones Max+ y Ultra+ estrenan LiDAR en el techo y el chip Shenji NX9031 de 5 nm desarrollado por NIO, con el modelo de mundo NWM para la asistencia en ciudad y autopista.",
+      "La batería de serie de 60 kWh declara 560 km CLTC en esta versión trasera de 326 CV, con 11,9 kWh cada cien kilómetros; la opcional de 85 kWh sube a 740 km CLTC.",
+      "Quien no quiera esperar en un cargador puede cambiar la batería en unos 3 minutos en una estación de NIO; por cable, la arquitectura de 900 V recupera del 10 al 80 por ciento en alrededor de 25 minutos.",
+      "Pese a la caída del techo, el maletero de este coupé de 4.828 mm y 2.950 mm de batalla conserva 763 litros para viajar cargado."
+    ],
+    contras: [
+      "Fuera de China sigue sin venderse: no hay fecha europea, ni servicio, ni estaciones de intercambio útiles para quien lo importe por su cuenta.",
+      "El Pro de acceso no lleva LiDAR: se queda con cámaras y un Nvidia Orin-X, y dar el salto al Max+ con el chip Shenji cuesta ya 202.800 yuanes.",
+      "Todas las autonomías citadas son CLTC chinas, no WLTP: los 560 km de la batería de 60 kWh se quedarán claramente cortos en un uso real europeo, sobre todo en autopista.",
+      "El precio BaaS no es el precio completo: la batería se paga aparte en alquiler mensual, unos 600 yuanes al mes para la de 60 kWh, así que el ahorro inicial se va devolviendo mes a mes."
+    ],
     imagen: "/media/onvo-l60-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l60-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
@@ -109,18 +120,18 @@ export const COCHES_ONVO: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde"],
     pros: [
-      "5 plazas en 5,15 metros: hasta 2.840 litros de carga con asientos abatidos",
-      "Desde ~31.500 € en China (242.800 yuanes) con batería incluida",
-      "Suspensión neumática de serie y radio de giro de solo 5,7 m",
-      "Intercambio de batería en 3 minutos en la red de NIO",
-      "Versiones con LiDAR y chip Shenji NX9031 desarrollado por NIO",
+      "Con cinco plazas en 5,15 metros, admite hasta 2.840 litros de carga con los asientos abatidos.",
+      "Parte de unos 31.500 euros en China, 242.800 yuanes, con batería incluida.",
+      "De serie lleva suspensión neumática y un radio de giro de solo 5,7 metros.",
+      "El intercambio de batería se hace en 3 minutos en la red de NIO.",
+      "Hay versiones con LiDAR y chip Shenji NX9031 desarrollado por NIO."
     ],
     contras: [
-      "No se vende en Europa ni tiene fecha de llegada confirmada",
-      "Comparte plataforma, dimensiones y batería con el L90 de 6/7 plazas",
-      "El alquiler de batería (BaaS) cuesta 899 yuanes al mes",
-      "Potencia de carga rápida en CC no publicada con detalle",
-      "Interior y calidades aún sin probar por la prensa europea",
+      "No se vende en Europa ni tiene fecha de llegada confirmada.",
+      "Comparte plataforma, dimensiones y batería con el L90 de 6/7 plazas.",
+      "El alquiler de batería BaaS cuesta 899 yuanes al mes.",
+      "La potencia de carga rápida en continua no está publicada con detalle.",
+      "Interior y calidades aún no han sido probados por la prensa europea."
     ],
     imagen: "/media/onvo-l80-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/onvo-l80-2026-precio-ficha-tecnica-oficial.webp",
