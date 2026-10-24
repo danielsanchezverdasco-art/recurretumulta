@@ -4437,12 +4437,12 @@
 /blog/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica /coches/maserati-granturismo-trofeo-590-2027-precio-ficha-tecnica/ 301!
 /blog/maserati-grecale-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
 /blog/maserati-grecale-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-folgore-2027-precio-ficha-tecnica/ /coches/maserati-grecale-folgore-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-folgore-2027-precio-ficha-tecnica /coches/maserati-grecale-folgore-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ /coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-modena-v6-2027-precio-ficha-tecnica /coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ /coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ 301!
-/blog/maserati-grecale-trofeo-2027-precio-ficha-tecnica /coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-folgore-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-folgore-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-modena-v6-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/blog/maserati-grecale-trofeo-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
 /blog/maserati-gt2-stradale-2025-precio-ficha-tecnica/ /coches/maserati-gt2-stradale-2025-precio-ficha-tecnica/ 301!
 /blog/maserati-gt2-stradale-2025-precio-ficha-tecnica /coches/maserati-gt2-stradale-2025-precio-ficha-tecnica/ 301!
 /blog/maserati-levante-gt-2024-precio-ficha-tecnica/ /coches/maserati-levante-gt-2024-precio-ficha-tecnica/ 301!
@@ -9233,3 +9233,14 @@
 # (extrask 2210 bcd)
 /recurrir-multa/ /blog/como-recurrir-multa-dgt-sin-abogado/ 301!
 /recurrir-multa /blog/como-recurrir-multa-dgt-sin-abogado/ 301!
+# 24/10/2026 (nota 83 Niky): slugs huérfanos Grecale — las 3 fichas /coches/ no existen;
+# ni folgore ni modena-v6 están en noindex.generated.json, así que 301 a la ficha canónica
+# (precedente: avatr-12, stark-varg-ex).
+# 24/10/2026 (Grok 08:20): las /blog/ de los 3 slugs apuntan ya directamente a la ficha
+# canónica (sin cadena de 2 saltos); estas 6 reglas quedan como 301 directas huérfana→canónica.
+/coches/maserati-grecale-folgore-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-folgore-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+/coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
