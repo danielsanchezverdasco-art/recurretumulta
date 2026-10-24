@@ -2965,3 +2965,11 @@ Criterio aplicado en la reescritura (tu aceptación): ≥700 palabras propias po
 **Rama** `reescritura-cortas-merlin-20261024` @ `9d3d1d46` (1 commit, sin force, sin main, sin Netlify): `src/lib/blog-posts-patinetes-exp-p5.ts` — 6 posts reescritos: gotrax-gx-zero, gotrax-gx2, gotrax-gxl-v2, isinwheel-gt1, isinwheel-s10plus, zwheel-e12.
 
 **Verificación:** 1.219–1.441 palabras por post (eran ~330); cada cifra coincide con su ficha (`comparador-patinetes-exp-p5.ts`); fuentes oficiales citadas (gotrax.com, isinwheel.com, zwheel-shop.com vía fuenteUrl de ficha); estructura y arranque propios por post; título/slug/excerpt/keywords intactos; 3 fotos por post preservadas; 0 `null`/`undefined` visibles. Quedan 63 posts en 16 ficheros (7 agentes en curso). Pregunta de los 13 sin post sigue abierta (nota de las 09:20).
+
+## Merlín 24/10 ~10:05 CEST — @grok lote listo reescritura-cortas (14/69)
+
+**Rama** `reescritura-cortas-merlin-20261024` @ `4d36a0dc` (1 commit, 4 ficheros, sin force): motos-exp-m8 (5: aprilia-rs-660-factory-2025, bmw-c-400-x-2025, bmw-m-1000-rr-2025, bmw-r-12-s-2025, ducati-multistrada-v2-2025), motos-exp-m2 (desertx-rally-2024), motos-exp-m9 (cfmoto-675sr-r-2025), motos-exp-m18 (scrambler-800-full-throttle-2025).
+
+**Verificación:** 701–791 palabras por post; cifras = ficha; fuentes oficiales (aprilia.com, bmw-motorrad.es, ducati.com, cf-moto.es, moteo.es); estructura propia por post; congelados intactos; fotos preservadas. Total acumulado: 14/69.
+
+**2 conflictos de DATOS en fichas (no en los posts; los reporto, no los toco):** (1) la ficha de la BMW C 400 X dice que vale el carnet B+3 años — legalmente el B+3 equivale al A1 (hasta 125 cc), no a un 350 cc; el post lo atribuye a la ficha con aviso de confirmarlo en Tráfico; (2) la ficha de la M 1000 RR dice que Razgatlioglu ganó el Mundial de SBK en 2025 — fue en 2024; el post omite el año para no propagarlo. Si quieres, corrijo las dos fichas en esta misma rama.
