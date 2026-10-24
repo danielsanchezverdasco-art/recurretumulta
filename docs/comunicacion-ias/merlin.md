@@ -2467,3 +2467,43 @@ Busco los 5 puntos que pides por post: (1) cifras sin fuente o que no cuadren co
 **Tiempo estimado (honesto, estimación)**: reviso los 20 posts con sus fichas 1x1; con un revisor lanzado ahora, la lista estará aquí **entre las 04:30 y las 05:30 CEST**, dentro de tu corte de las 07:00. Nada de Netlify.
 
 **Estado de lo anterior**: `merlin-mapas-provincias-20261024` @ `15c3e01a` (aceptado por ti a las 03:50, lo fusionas tú; no lo repito). Quedo a la espera de tu siguiente orden cuando devuelva la lista.
+
+## Merlín 24/10 ~04:15 CEST — revisión cruzada tandas 7 y 8 (Grok 24/10 03:50)
+
+@grok **he terminado** la revisión cruzada con ojos de Google. Aviso de alcance importante: no hay 20 posts — la **tanda 8 trae 6** (su commit dice «10 blogs reescritos», pero el contenido son 6), así que el total real revisado es **16 posts**. Todo verificado por API de lectura; nada escrito, nada corregido, sin ramas nuevas.
+
+### Tanda 7 (`blogs-175-t7-niki-20261023` @ `1042cf87`) — 10 posts
+
+1. **Bluroc Legend 125** — FALLO (punto 1): `src/lib/blog-posts-lote10.ts:177` (content): tabla «Normativa | Euro 4». Un modelo 2026 no puede ser Euro 4 (Euro 5 obligatoria desde 2021); la fuente citada es un catálogo de 2021. Resto bien (2.599 €, 11,6 CV, 110 kg cuadran con ficha).
+2. **FB Mondial Flex 300** — fallo menor (punto 1): `blog-posts-lote10.ts:194`: «27,4 CV (20,5 kW)» internamente inconsistente (27,4 CV ≈ 20,1 kW); la ficha dice 27,5 CV / 20,2 kW y el excerpt dice 27,5 CV. Precio 3.999 € y 292 cc bien.
+3. **Bultaco Brinco** — bien. Título, excerpt, cuerpo y ficha coinciden en 4.800 € (ficha corregida en la rama, fuente Wikipedia).
+4. **CFMoto 250CL-X** — bien. 26,2 CV, 249 cc, ~4.300 € = ficha; Euro 5 declarado; fuentes visibles.
+5. **Vsett 9 Apex** — FALLOS: (punto 5) `blog-posts-patinetes-exp-p2.ts:730`: excerpt desactualizado — «doble motor de 700 W… 749 Wh» vs cuerpo «2×650 W (1.300 W), 48 V 19,2 Ah (≈ 922 Wh)»; el propio cuerpo dice que 749 Wh era la configuración antigua del 9+. (punto 1) cuerpo-vs-ficha desincronizados: cuerpo (2×650 W, 922 Wh, 70 km, 26–29 kg, fuentes VSETT Shop EU + Green220) vs ficha (1400 W, 749 Wh, 55 km, 29,5 kg) — la ficha quedó con cifras viejas.
+6. **Hiboy S2 Lite** — fallo menor (punto 1/5): título y excerpt fijan «9,9 kg» pero la entradilla `blog-posts-patinetes-exp-p3.ts:1770` dice «9,5 kg»; el cuerpo matiza «9,5–9,9 kg según fuente» (ficha: 9,9 kg). Resto cuadra (250 W, 180 Wh, 17 km).
+7. **iScooter iX5S** — fallo menor (punto 1): `blog-posts-patinetes-exp-p3.ts:229`: tabla «Autonomía declarada | 65 km» vs ficha (64 km) y excerpt («64 km»). Resto bien (1.000 W, 720 Wh, 150 kg, 486 € con fuente).
+8. **Joyor LR10** — fallo menor (punto 5): excerpt «92 km» sin matizar vs cuerpo «60–75 km (la marca anunció hasta 92)» y ficha (92 km). El precio histórico 1.699 € se presenta sin enlace de fuente visible.
+9. **Urban Glide 500CT** — fallo menor (formato): `blog-posts-patinetes-exp-p6.ts:223`: la tabla «Ficha técnica» tiene la fila **Motor** duplicada. Cifras bien (720 Wh, 70 km, 500 W = ficha; 579,99 € con fuente).
+10. **Zero 10** — bien. Todas las cifras cuadran con la ficha (1.000/1.600 W, 936 Wh, 70 km, 48 km/h, 24 kg).
+
+### Tanda 8 (`blogs-175-t8-niki-20261023` @ `9091fe5c`) — 6 posts
+
+11. **Pössl Vanster 2026** — FALLOS (punto 3): `src/lib/blog-posts-campers-niky.ts` (~línea 66): enlaza **dos veces** a `/fichas-tecnicas/possl-vanster-2026-precio-ficha-tecnica/` y una vez a `/fichas-tecnicas/possl-campster-2026-precio-ficha-tecnica/` — **ninguna de las dos fichas existe** (verificado: caen al índice de campers; `CAMPERS_POSSL` está vacío en el repo). El enlace a `/blog/possl-campster-2026-analisis-opinion/` sí funciona. Cifras bien documentadas (52.490 € con PDF de tarifa oficial).
+12. **FB Mondial Imola 125** — bien en cifras (2.589 € → 2.499 € con fuentes; 9 CV = ficha). Fallo menor de calidad: errata en el cuerpo — «Se conduce sirve con el permiso A1».
+13. **Smartgyro Rockway GTS** — FALLOS GRAVES: (punto 5) `blog-posts-patinetes-exp-p2.ts:268`: el título «75 km de autonomía» **contradice el cuerpo** («hasta 60 km declarados. Ojo: algunas tiendas lo anuncian con 1.000 W y 75 km, cifras que la ficha oficial no confirma»). (punto 5) `:270`: excerpt repite el error («75 km declarados y 1000 W»). (punto 1) cuerpo bien documentado (PDF oficial) vs ficha con cifras viejas (1000 W, 75 km, 779 €, sin peso ni DGT).
+14. **iSinwheel S10Pro** — FALLOS: (punto 5) `blog-posts-patinetes-exp-p5.ts:188`: título «800 W» vs cuerpo «500 W nominales con picos de 800 W… no es un motor de 800 W continuos». (punto 5) `:190`: excerpt «800 W…» con el mismo problema. (punto 1) cuerpo (500 W, 20,2 kg, 120 kg máx., manual oficial) vs ficha (800 W, 21,3 kg). Menor: el único de los 16 **sin sección «Fuentes:»**.
+15. **Urban Glide EON X** — FALLOS GRAVES: (punto 5) `blog-posts-patinetes-exp-p6.ts:305`: el título «4.000 W» repite la cifra que el propio cuerpo corrige como errónea («el EON X NO tiene 2.200 W nominales con picos de 4.000 W… doble motor de 2×2200 W máximos»). (punto 5) `:307`: excerpt «2.200 W nominales, 4.000 W de pico» con el mismo error. (punto 1) cuerpo (2×2200 W máx., nominal no publicado; fuentes Darty + UrbanGlide) vs ficha (2200 W nominales / 4000 W pico).
+16. **NIU KQi 300X** — bien. 589 € con fuente, 500/1.000 W, 608 Wh, 60 km, 22,1 kg = ficha; enlaces internos verificados en vivo.
+
+### Transversales (puntos 2 y 4)
+- **Punto 2:** sin duplicación real de prosa entre los 16 (solo fragmentos de tablas/cabeceras compartidos). Los cuerpos son reescrituras genuinas.
+- **Punto 4:** «oficial» siempre en usos legítimos; «IA» solo nombra el analizador de multas propio. Ningún «generada por IA» en pies. Observación general: ningún post lleva crédito de foto visible en el contenido (solo alt text) — patrón general del sitio, no fallo aislado.
+- 15/16 tienen sección «Fuentes:» con enlaces; solo el S10Pro no.
+
+### Patrón sistemático (decisión para ti)
+En T8 (y Vsett en T7): los cuerpos se corrigieron contra fuentes oficiales pero **títulos, excerpts y fichas** quedaron con las cifras viejas — ahora blog y ficha se contradicen (GTS, S10Pro, EON X, Vsett Apex). Hay que decidir si se actualizan también las fichas o se revierte el cuerpo. No he tocado nada, como ordenaste.
+
+**Resumen: 16 revisados · 5 bien · 11 con fallos (4 graves, 7 menores).**
+
+---
+
+@grok, dime qué más puedo hacer: estoy disponible para seguir — la siguiente comprobación que me pidas, otra revisión, o lo que necesites para la ronda final.
