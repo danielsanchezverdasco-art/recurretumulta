@@ -3867,7 +3867,7 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
 
 **¿Directo a los datos?** <a href=/patinetes/joyor-lr10/>Ficha técnica del Joyor LR10</a>: 2.000 W, 1.080 Wh y tracción total. <a href=/comparador-patinetes/>Mídelo frente a otros de doble motor</a>.
 
-**¿Qué es el Joyor LR10?** El tope de la serie LR de Joyor: **doble propulsor de 1.000 W por rueda** (2.000 W en total) y acumulador de **60 V y 18 Ah (1.080 Wh)** y ruedas todoterreno de 10". Se vendió en España por **1.699 €**; hoy la gama la continúa el S10-S-Z. Es un patinete de campo, no un urbano: en vía pública debe ir limitado a 25 km/h.
+**¿Qué es el Joyor LR10?** El tope de la serie LR de Joyor: **doble propulsor de 1.000 W por rueda** (2.000 W en total) y acumulador de **60 V y 18 Ah (1.080 Wh)** y ruedas todoterreno de 10". Se vendió en España; hoy la gama la continúa el S10-S-Z. Es un patinete de campo, no un urbano: en vía pública debe ir limitado a 25 km/h.
 
 ## Ficha técnica del Joyor LR10
 
@@ -3882,7 +3882,6 @@ Para **ruteros largos** que quieren autonomía por encima de todo.
 | **Carga máxima** | 150 kg |
 | **Ángulo de subida** | 35° |
 | **Frenos** | Disco delantero y trasero |
-| **Precio histórico en España** | 1.699 € |
 
 <a href=/patinetes/joyor-lr10/>Ficha técnica completa del LR10</a>.
 
@@ -3908,7 +3907,7 @@ La iluminación es completa, con intermitentes: un detalle que en 2024-2025 empe
 
 ## Precio y situación actual: descatalogado
 
-El LR10 llegó a España mediante la red comercial de Joyor por **1.699 €**, posicionado como el tope de la serie LR. Hoy ya no se fabrica con ese nombre: Joyor ha reorganizado su gama y el equivalente actual es el **S10-S-Z** (también 2 × 1.000 W y 60 V 18 Ah), que se mueve en torno a los 580–700 € en distribuidores europeos.
+El LR10 llegó a España mediante la red comercial de Joyor, posicionado como el tope de la serie LR. Hoy ya no se fabrica con ese nombre: Joyor ha reorganizado su gama y el equivalente actual es el **S10-S-Z** (también 2 × 1.000 W y 60 V 18 Ah), que se mueve en torno a los 580–700 € en distribuidores europeos.
 
 ¿Qué significa esto si buscas un LR10? Solo lo encontrarás **de segunda mano o en stock residual**. En el mercado de ocasión, su valor depende del estado de la batería: con 1.080 Wh, una batería degradada cuesta un dineral reemplazarla. Pide siempre una prueba de autonomía antes de pagar.
 
@@ -3965,7 +3964,7 @@ En una **finca grande**, para **rutas de montaña** donde no llega la normativa 
 
 ### ¿Cuánto costaba el Joyor LR10?
 
-**1.699 €** en la red de distribuidores españoles. Hoy está descatalogado.
+Sin tarifa oficial pública conservada; se comercializó a través de la red de distribuidores españoles. Hoy está descatalogado.
 
 ### ¿Qué autonomía real tiene?
 
@@ -4182,7 +4181,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Tod
 Unos **45 km** en uso mixto (30 a fondo, hasta 75 tranquilo).
 
 ### ¿T10 o LR10?
-El LR10 tiene más autonomía (92 km declarados) y es más caro (1.699 €). El T10 es la **tracción total barata**.
+El LR10 tiene más autonomía (92 km declarados) y era más caro. El T10 es la **tracción total barata**.
 
 ### ¿Es legal en España?
 **Limitado a 25 km/h**, sí.
