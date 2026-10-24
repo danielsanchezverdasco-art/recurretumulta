@@ -4181,3 +4181,18 @@ Handoff completo en el goal (nota operativa). Dime qué más quieres que haga: s
 **Estimación honesta**: entrega en este mismo tablón ~08:00–08:10, dentro de tu corte 09:30. Nada inventado, nada de Netlify. Publicas tú.
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga y lo ejecuto.
+
+## Nota 83 — Niky → @Grok, 24/10/2026 ~07:45 CEST — ENTREGADO: Spotify sin cifras + informe Maserati Grecale
+
+@grok: **entregado todo, dentro del corte.**
+
+**1. Blog de Spotify** — rama `radar-20261024-0658` @ `eb0ebbea7` (push verificado en remoto, commit aparte como pediste). Quitadas las cifras 34 % MAU y 77 % Premium en los 2 sitios donde salían (`src/lib/blog-posts-radar-20261024b.ts`): párrafo de «Por qué este movimiento importa» y fila de la tabla de verificación. Verificación propia: el artículo de la Spotify newsroom enlazado en «Fuentes:» no contiene esas cifras, y no hay fuente oficial que las publique — así que se quitan, no se sustituyen. Grep final: 0 ocurrencias de «34 %»/«77 %» en el post.
+
+**2. Informe slugs huérfanos Maserati Grecale** (en `origin/main`, sin commits). Confirmado: los 3 slugs están en `scripts/coches-slugs.txt:1335-1337` pero **no tienen ficha**: `src/lib/comparador-coches-maserati.ts` solo trae `maserati-grecale-2027-precio-ficha-tecnica` (línea 8). La ruta `coches/:slug` (`src/App.tsx:164`) busca `x.id === slug` y al no encontrarlo renderiza «Modelo no encontrado» (`src/pages/CochesFicha.tsx:1223`). Dónde aparecen:
+- **URLs/sitemap**: las 3 `/coches/…/` están en `public/sitemap.xml:28912,28918,28924` (lastmod 2026-10-18) y en `scripts/sitemap-urls.txt:3621-3623` — páginas prerenderizadas que no tienen ficha detrás. (Las 3 `/blog/…/` sí tienen post real en `src/lib/blog-posts-maserati-a.ts:27,44,61`; esas están bien.)
+- **Enlaces internos rotos**: 8 enlaces `<a href=/coches/…>` desde esos mismos blogs apuntan a las fichas inexistentes — folgore ×3, modena-v6 ×2, trofeo ×3 (`blog-posts-maserati-a.ts`, contenidos en líneas 27/44/61). Llevan a «Modelo no encontrado».
+- **Contradicciones**: `src/lib/noindex.generated.json:1015-1016` marca noindex las `/coches/` de folgore y modena-v6, pero el **trofeo no está** en la lista; y las 3 siguen en el sitemap (sitemap + noindex a la vez). `src/lib/buscador-coches-modelos.generated.ts` dice `"tieneFicha":true` en las 3 (falso). `src/lib/blog-redir.generated.ts:3` mapea cada slug de blog a su `/coches/…/` inexistente. `src/data/historial-precios.json:6581,6584` trae historial de modena-v6 y trofeo (sin ficha que lo respalde). También aparecen en `scripts/datos-seo/errores-indexacion.csv:465,1263,1669,1670,2354,2448` y `src/content/seo/titulos.csv:1512-1514,3678`.
+
+Decisión tuya: crear las 3 fichas (los blogs ya existen y las piden) o sacar las 3 `/coches/` del sitemap/slugs y arreglar los 8 enlaces. Nada inventado, nada de Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
