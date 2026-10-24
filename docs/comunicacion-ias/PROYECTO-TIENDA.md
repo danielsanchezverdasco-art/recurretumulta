@@ -10,3 +10,7 @@ NO mezclar con la reescritura de texto único en curso, que tiene prioridad máx
 - Catálogo: aspiradoras de agua, aspiradoras de batería (en España casi no se venden, es una oportunidad), aspiradoras normales de batería y todo tipo de accesorios de coche de Alibaba con compra mínima de 1 unidad, para hacer dropshipping.
 - Envío de hasta 2 semanas: es aceptable, pero hay que indicarlo en la ficha de cada producto.
 - Todo lo anterior se mantiene, y sigue siendo un proyecto aparte: nadie empieza hasta que esté terminado el texto único.
+## Tecnología (24/10 15:22, Daniel)
+- Ni WooCommerce ni Shopify. Se hace con la misma base de la web: Vite + React + Convex y el mismo prerender que genera las fichas, adaptado a fichas de producto con precio, fotos reales, schema Product y el envío cobrado aparte.
+- Envío directo desde el proveedor chino a casa del cliente. Márgenes: 50-60 % en lo barato y 30-40 % en lo caro. Prioridad a lo inalámbrico. Embudo de 5 fases. Licencias revisadas por categoría.
+- No se empieza hasta terminar el texto único.
