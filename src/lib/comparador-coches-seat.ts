@@ -29,8 +29,8 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Maletero de 620 litros en un coche de 1.392 kg: carga como un familiar grande sin arrastrar el peso de un SUV, y eso se nota en el consumo de 5,7 l/100 km", "Con 23.213 € de precio de partida es la forma más barata de entrar en un familiar del segmento C con plataforma MQB Evo, la misma del Golf Variant, mucho más caro", "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria", "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros", "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España"],
-    contras: ["Etiqueta C de la DGT: este 1.5 TSI sin hibridación no tiene las ventajas en ZBE ni en aparcamiento que sí da el 1.5 eTSI de la misma potencia con etiqueta ECO", "10,7 segundos de 0 a 100 km/h en vacío se quedan cortos en cuanto viajan cinco personas y el maletero de 620 litros va lleno: en puertos y al incorporarse toca reducir y apurar las marchas", "Solo tracción delantera y sin opción de cambio automático en esta versión concreta: quien quiera DSG tiene que saltar al eTSI y pagar la diferencia", "128 g/km de CO2 y un depósito pensado para un uso eficiente, no para olvidarse de repostar en viajes largos cargado, cuando el consumo real se aleja del WLTP"],
+    pros: ["Los 620 litros de este Sportstourer de 1.392 kg tragan el equipaje familiar sin el peso ni el consumo de un SUV: homologa 5,7 l/100 km.", "Parte de 23.213 €: es la puerta más barata a un familiar del segmento C con plataforma MQB Evo, la misma base que el Golf Variant, bastante más caro.", "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria", "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros", "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España"],
+    contras: ["Etiqueta C de la DGT: este 1.5 TSI sin hibridación no tiene las ventajas en ZBE ni en aparcamiento que sí da el 1.5 eTSI de la misma potencia con etiqueta ECO", "Con cinco personas y 620 litros cargados, los 10,7 segundos de 0 a 100 se notan: en puertos y al incorporarse hay que bajar marchas y apurar el motor.", "Solo tracción delantera y sin opción de cambio automático en esta versión concreta: quien quiera DSG tiene que saltar al eTSI y pagar la diferencia", "128 g/km de CO2 y un depósito pensado para un uso eficiente, no para olvidarse de repostar en viajes largos cargado, cuando el consumo real se aleja del WLTP"],
     largoMm: 4642,
     anchoMm: 1799,
     altoMm: 1450,
@@ -188,8 +188,8 @@ export const COCHES_SEAT: CocheComparador[] = [
       "150 CV en un B-SUV: 8,3 s de 0 a 100 y 212 km/h, el Arona más rápido",
       "Motor 1.5 TSI de cuatro cilindros con desconexión de cilindros para ahorrar",
       "Posición de conducción elevada con solo 4,16 m de largo: ideal para ciudad",
-      "Cambio DSG de 7 velocidades suave y rápido de serie en esta versión",
-      "Maletero de 400 litros, correcto para el segmento urbano",
+      "El DSG de siete relaciones viene de serie aquí: en el Arona de 150 CV y 250 Nm cambia sin que tengas que pensar en el embrague en ciudad.",
+      "El hueco de carga, de 400 litros, se traga el carrito del bebé plegado y varias bolsas sin necesidad de tumbar el asiento trasero.",
     ],
     contras: [
       "Etiqueta C: la versión mild-hybrid con ECO no llega hasta 2027",
@@ -267,7 +267,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Es el eTSI con nervio de verdad: 150 CV y 250 Nm desde 1.500 rpm le dejan cerrar el 0 a 100 en 8,4 s y alcanzar 217 km/h, muy lejos de los 10,7 s del hermano de 115 CV con el que comparte bloque 1.5", "El sistema de 48 V trabaja donde más se nota en el día a día: arranques suaves tras el Stop&Start, apoyo eléctrico al salir de un semáforo y fases de vela con el motor apagado en retención, sin enchufes ni cables en el garaje", "Homologa 5,3 l/100 km y 121 g/km de CO2 pese a ser el microhíbrido rápido de la gama, y la etiqueta ECO llega desde 26.260 € sin tener que saltar al e-HYBRID enchufable", "DSG de 7 marchas de serie y sin alternativa manual: en atascos de la M-30 no hay pedal de embrague que gestionar y en carretera abierta las reducciones para adelantar son inmediatas", "La hibridación ligera no le roba ni un litro al maletero: mantiene los 380 litros del León de gasolina equivalente y su peso se queda en 1.364 kg, contenido para un compacto automático electrificado"],
+    pros: ["Es el eTSI con nervio de verdad: 150 CV y 250 Nm desde 1.500 rpm le dejan cerrar el 0 a 100 en 8,4 s y alcanzar 217 km/h, muy lejos de los 10,7 s del hermano de 115 CV con el que comparte bloque 1.5", "El sistema de 48 V trabaja donde más se nota en el día a día: arranques suaves tras el Stop&Start, apoyo eléctrico al salir de un semáforo y fases de vela con el motor apagado en retención, sin enchufes ni cables en el garaje", "Por 26.260 €, este León de 150 CV y 250 Nm lleva la ECO sin enchufe: la microhibridación de 48 V deja el consumo homologado en 5,3 litros y las emisiones en 121 gramos.", "DSG de 7 marchas de serie y sin alternativa manual: en atascos de la M-30 no hay pedal de embrague que gestionar y en carretera abierta las reducciones para adelantar son inmediatas", "La hibridación ligera no le roba ni un litro al maletero: mantiene los 380 litros del León de gasolina equivalente y su peso se queda en 1.364 kg, contenido para un compacto automático electrificado"],
     contras: ["Que no te venda nadie lo contrario: el motor de 48 V no empuja el coche por sí solo, así que en autopista a ritmo constante el ahorro frente a un 1.5 TSI sin hibridar es marginal", "Si quieres 150 CV con cambio manual, en la familia eTSI no existe: el DSG es obligatorio y parte de la factura de este León viene de esa caja, no del motor", "Los 380 litros se quedan cortos si vienes de mirar su propio hermano Sportstourer, que con la misma mecánica familiar anuncia 620 litros: en el cinco puertas, una sillita y dos maletas ya obligan a jugar al Tetris", "Etiqueta ECO y no CERO: frente al León e-HYBRID de 204 CV pierde ventajas en las ZBE más duras y en el estacionamiento regulado de ciudades como Madrid"],
     largoMm: 4368,
     anchoMm: 1800,
@@ -405,7 +405,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     pros: [
       "Etiqueta CERO con 133 km de autonomía eléctrica: entra en todas las ZBE sin restricciones",
       "204 CV y 7,7 s de 0 a 100: el León más rápido sin ser CUPRA",
-      "1,3 l/100 km homologados si se carga a diario: el commuting puede ser casi gratis",
+      "Homologa 1,3 l/100 km cuando se enchufa cada noche: con 133 km eléctricos, el trayecto diario al trabajo puede hacerse sin quemar gasolina.",
       "Con el Plan Moves y la deducción del IRPF el precio efectivo baja mucho",
       "Si se agota la batería, el 1.5 TSI sigue funcionando como un híbrido normal",
     ],
@@ -413,7 +413,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "Maletero de solo 270 litros: la batería se come 110 litros frente al resto",
       "34.440 € de partida: el SEAT más caro de la gama León",
       "Pesa 1.657 kg: casi 300 kg más que el 1.5 TSI",
-      "Sin carga rápida en continua: solo carga en alterna",
+      "No admite carga rápida en corriente continua: este e-HYBRID de 204 CV solo recupera su batería en alterna, así que los viajes largos dependen del motor de gasolina.",
       "Si no se enchufa nunca, gasta más que un 1.5 TSI por el peso extra",
     ],
     largoMm: 4368,
@@ -487,13 +487,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "150 CV con cambio manual disponible: el Ateca más divertido de conducir",
-      "Maletero de 510 litros, entre los más grandes del segmento C",
+      "El Ateca 1.5 TSI guarda 510 litros tras la segunda fila: maletas de cuatro personas para un fin de semana sin jugar al tetris.",
       "Motor 1.5 TSI con desconexión de cilindros: 6,2 l/100 km homologados",
       "Comportamiento dinámico de referencia: tacto SEAT preciso y ágil",
       "Precio de acceso de 29.501 € con buen equipamiento Style EVO Edition",
     ],
     contras: [
-      "Etiqueta C en toda la gama: sin opción híbrida ni ECO",
+      "Su distintivo es la C de la DGT: este Ateca 1.5 TSI de 141 g/km no tiene variante híbrida ni ECO dentro de su gama.",
       "Modelo con restyling de 2020: el interior acusa el paso del tiempo",
       "El 1.5 TSI manual gasta más en ciudad que rivales híbridos",
       "Plásticos duros en zonas visibles del habitáculo",
@@ -639,7 +639,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "Maletero de 355 litros, de los mejores del segmento B"
     ],
     contras: [
-      "Etiqueta C: sin ventajas en ZBE frente a híbridos",
+      "Con la C en el parabrisas, este Ibiza de 127 g/km no disfruta de las bonificaciones de aparcamiento ni del acceso preferente que sí logran los híbridos ECO.",
       "Solo con DSG: no hay opción manual para el 1.5 TSI",
       "El 1.5 TSI encarece el seguro frente al 1.0 TSI",
       "Plásticos duros en el interior, mejorables",
@@ -716,9 +716,9 @@ export const COCHES_SEAT: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "19.230 €: el B-SUV más vendido de España por menos de 20.000 €",
-      "5,3 l/100 km y 124 g/km de CO₂: el Arona más eficiente en gasolina",
+      "Homologa 5,3 l/100 km con 124 g/km de CO₂: el tricilíndrico de 95 CV y 175 Nm es el que menos pide en el surtidor de toda la gama Arona de gasolina.",
       "1.191 kg: ligero, ágil en ciudad y barato de mantener",
-      "Maletero de 400 litros, el mejor de su segmento",
+      "Sus 400 litros de maletero dejan sitio para dos maletas de cabina y la compra: cifra rara en un B-SUV de 4.164 mm con cinco plazas reales.",
       "Etiqueta C y 5 estrellas Euro NCAP"
     ],
     contras: [
@@ -801,7 +801,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "23.182 €: el León 1.5 de 4 cilindros más barato, acabado Style",
       "115 CV y 220 Nm desde 1.500 rpm: empuje suficiente en el día a día",
       "5,7 l/100 km: consumo contenido para un compacto gasolina",
-      "Cambio manual de 6 velocidades: control total y mantenimiento barato",
+      "El cambio manual de seis marchas de este León de 115 CV deja elegir la marcha en cada momento y evita el coste de mantener un automático.",
       "Maletero de 380 litros y 5 plazas reales"
     ],
     contras: [
@@ -880,8 +880,8 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Es la puerta de entrada a la etiqueta ECO en el León de 2026: 25.490 € y ya con el DSG de siete marchas incluido, sin tener que subir a los 150 CV para tener automático e hibridación ligera", "Homologa 5,2 l/100 km y 121 g/km de CO2 con 115 CV: para quien hace ciudad y circunvalaciones a diario, el apoyo de 48 V se nota justo en arranques y retenciones, que es donde un gasolina puro más gasta", "Mantiene el maletero de 380 litros del cinco puertas pese al sistema de 48 V, y mide 4.368 mm: no hay que saltar al Sportstourer familiar si no se necesita cargar más", "Su 1.5 de cuatro cilindros entrega 220 Nm, el mismo par que el 1.5 TSI 115 manual: no es un tricilíndrico recortado disfrazado de versión de acceso, sino el motor grande con la potencia contenida"],
-    contras: ["10,4 segundos de 0 a 100 km/h y 197 km/h de punta dejan claro su planteamiento: en incorporaciones cargado o adelantamientos largos se echa en falta el empuje de otra versión, no es un León para ir con prisas", "El sistema de 48 V asiste y permite avanzar a vela en según qué situaciones, pero no mueve el coche solo con electricidad: quien espere silencios de híbrido convencional al salir de un semáforo se llevará una decepción", "Por potencia es idéntico al 1.5 TSI 115 manual, así que lo que se paga de más es el DSG y la etiqueta ECO: si no se entra en zonas de bajas emisiones ni se quiere automático, la versión manual cumple con menos desembolso", "La etiqueta es ECO, no CERO: frente al León e-HYBRID enchufable pierde las ventajas de aparcamiento y acceso asociadas a la CERO, y en autopista pura la ayuda eléctrica apenas recorta el consumo de 5,2 l/100 km homologado"],
+    pros: ["Es la puerta de entrada a la etiqueta ECO en el León de 2026: 25.490 € y ya con el DSG de siete marchas incluido, sin tener que subir a los 150 CV para tener automático e hibridación ligera", "Con 5,2 l/100 km y 121 g/km, el apoyo de 48 V se deja notar donde más gasta un gasolina: arranques y retenciones en ciudad y circunvalación, justo el uso diario de este León de 115 CV.", "Mantiene el maletero de 380 litros del cinco puertas pese al sistema de 48 V, y mide 4.368 mm: no hay que saltar al Sportstourer familiar si no se necesita cargar más", "Su 1.5 de cuatro cilindros entrega 220 Nm, el mismo par que el 1.5 TSI 115 manual: no es un tricilíndrico recortado disfrazado de versión de acceso, sino el motor grande con la potencia contenida"],
+    contras: ["Tarda 10,4 segundos en llegar a 100 km/h y su punta es de 197 km/h: con el coche cargado, en incorporaciones y adelantamientos largos se echa en falta el empuje de otra versión.", "El sistema de 48 V asiste y permite avanzar a vela en según qué situaciones, pero no mueve el coche solo con electricidad: quien espere silencios de híbrido convencional al salir de un semáforo se llevará una decepción", "Por potencia es idéntico al 1.5 TSI 115 manual, así que lo que se paga de más es el DSG y la etiqueta ECO: si no se entra en zonas de bajas emisiones ni se quiere automático, la versión manual cumple con menos desembolso", "La etiqueta es ECO, no CERO: frente al León e-HYBRID enchufable pierde las ventajas de aparcamiento y acceso asociadas a la CERO, y en autopista pura la ayuda eléctrica apenas recorta el consumo de 5,2 l/100 km homologado"],
     largoMm: 4368,
     anchoMm: 1800,
     altoMm: 1456,
@@ -1035,8 +1035,8 @@ export const COCHES_SEAT: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: ["Con 620 litros sin abatir ningún asiento, este Sportstourer carga el equipaje de unas vacaciones sin recurrir a un cofre de techo, y lo hace desde 24.284 euros con 150 CV bajo el capó.", "El 1.5 TSI entrega 250 Nm y firma el 0 a 100 km/h en 8,7 segundos, así que adelantar un camión con cinco ocupantes y el maletero lleno no exige planificarlo con antelación.", "Al no montar la batería de un híbrido enchufable, conserva intactos los 620 litros de maletero y solo mueve 1.397 kg, menos lastre que un familiar electrificado equivalente.", "Homologa 5,7 l/100 km y se fabrica en Martorell, donde también se desarrolló esta generación: recambios, accesorios y talleres que conocen el modelo no escasean en España.", "El cambio manual de seis marchas permite elegir la respuesta del 1.5 TSI en puertos y adelantamientos, algo que el DSG de las versiones eTSI de la gama no deja hacer del mismo modo."],
-    contras: ["Es etiqueta C, no ECO: el eTSI 150 equivalente sí la lleva, y en ciudades con protocolo anticontaminación esa letra decide accesos y aparcamiento que este TSI puro no tiene.", "Quien busque cambio automático no lo encontrará en este TSI sin hibridar: la opción automática de 150 CV obliga a saltar al eTSI con DSG y a asumir su sobreprecio.", "El depósito es de solo 45 litros para un coche pensado para viajar cargado; en tiradas largas de autovía tocará repostar antes que en familiares con depósitos más grandes.", "En las zonas bajas de puertas y consola quedan plásticos duros al tacto, un recorte que se nota al pasar la mano en un habitáculo por lo demás muy digitalizado."],
+    pros: ["Con 620 litros sin abatir ningún asiento, este Sportstourer carga el equipaje de unas vacaciones sin recurrir a un cofre de techo, y lo hace desde 24.284 euros con 150 CV bajo el capó.", "Adelantar con el coche lleno deja de ser un cálculo: este Sportstourer pone 250 Nm y un 0 a 100 de 8,7 segundos al servicio de un familiar que carga 620 litros.", "Al no montar la batería de un híbrido enchufable, conserva intactos los 620 litros de maletero y solo mueve 1.397 kg, menos lastre que un familiar electrificado equivalente.", "Homologa 5,7 l/100 km y se fabrica en Martorell, donde también se desarrolló esta generación: recambios, accesorios y talleres que conocen el modelo no escasean en España.", "El cambio manual de seis marchas permite elegir la respuesta del 1.5 TSI en puertos y adelantamientos, algo que el DSG de las versiones eTSI de la gama no deja hacer del mismo modo."],
+    contras: ["Es etiqueta C, no ECO: el eTSI 150 equivalente sí la lleva, y en ciudades con protocolo anticontaminación esa letra decide accesos y aparcamiento que este TSI puro no tiene.", "Quien busque cambio automático no lo encontrará en este TSI sin hibridar: la opción automática de 150 CV obliga a saltar al eTSI con DSG y a asumir su sobreprecio.", "El depósito de 45 litros obliga a parar antes en viajes largos: para un familiar pensado para ir cargado, la autonomía entre repostajes queda corta frente a otros familiares.", "En las zonas bajas de puertas y consola quedan plásticos duros al tacto, un recorte que se nota al pasar la mano en un habitáculo por lo demás muy digitalizado."],
     largoMm: 4642,
     anchoMm: 1799,
     altoMm: 1450,
@@ -1281,7 +1281,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "El familiar diésel más equilibrado del Grupo VW"
     ],
     contras: [
-      "Etiqueta C: el diésel tiene los días contados en las ZBE",
+      "Su etiqueta C pesa cada vez más: este diésel de 124 g/km irá perdiendo entrada en las ZBE más duras conforme pasen los años.",
       "29.682 €: caro frente al 1.5 TSI 150",
       "Mantenimiento más costoso (FAP, EGR, AdBlue)",
       "Menos refinado que las versiones de gasolina",
@@ -1444,7 +1444,7 @@ export const COCHES_SEAT: CocheComparador[] = [
       "Unos 126 km de autonomía eléctrica: la mayoría de días sin gasolina",
       "204 CV y 350 Nm: el León familiar más potente",
       "Maletero de 470 litros: el que menos pierde frente al térmico",
-      "1,3 l/100 km homologados con la batería cargada"
+      "La batería de 19,7 kWh, una vez cargada, deja el consumo homologado en 1,3 litros: 126 km sin gasolina bastan para la rutina diaria de este familiar de 204 CV."
     ],
     contras: [
       "35.260 €: el León más caro de la gama SEAT",

@@ -1,0 +1,25 @@
+Verificación 8-gramas — tanda unico-coches-50-s-001 (letra S, coches)
+Base: origin/unicidad-plantillas-20261024 @ 676bda2a5
+Alcance: 50 fichas /coches/<slug>/, en orden de slug, de seat-arona-10-tsi
+a skoda-enyaq-60-electrico-precio-ficha-tecnica.
+
+Método (python3, normalización: minúsculas, solo [a-záéíóúüñ0-9], ventanas de 8 palabras):
+1) pros/contras de las 50 fichas contra pros/contras de las otras 2.404 fichas
+   del repo (2.454 fichas en total): 0 líneas con 8-gramas compartidos.
+2) Las 48 líneas nuevas reescritas contra contenidos de 3.496 posts de blog
+   (src/lib/blog-posts-*.ts): 0 colisiones.
+3) Las 48 líneas nuevas contra el texto completo de las fichas de otros slugs
+   (objetos delimitados por su línea id, no por el cierre, porque en
+   comparador-coches-nuevos.ts los objetos cierran con 4 espacios):
+   0 colisiones de 48.
+Comandos (ejecutados en ~/workspace/wt-unico50-s-001):
+  python3 /tmp/measure.py          (medición inicial: 48/467 líneas compartidas)
+  python3 /tmp/rewrite.py          (48 sustituciones en 31 fichas)
+  python3 /tmp/rewrite2.py         (13 correcciones de segunda pasada)
+  python3 /tmp/verify_final2.py    (A=0; blogs=0; full con delimitación antigua
+                                    dio 4 falsos positivos por el cierre de 4 espacios)
+  python3 /tmp/verify_full.py      (full con delimitación por id: 0/48)
+Resultado: CSV verificacion-unico-coches-50-s-001.csv con 50 filas, todo 0.
+Nota: los blogs parejos de estas fichas (39 de 50 tienen post) NO se reescribieron
+en esta tanda; sus tablas "Lo bueno y lo mejorable" aún copian los pros/contras
+antiguos. Quedan para las tandas de blog.

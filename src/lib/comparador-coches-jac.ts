@@ -1217,7 +1217,7 @@ export const COCHES_JAC: CocheComparador[] = [
       "Urbano eléctrico de 3,65 m: aparca en cualquier hueco",
       "302 km de autonomía urbana con batería LFP de 31,4 kWh",
       "Carga rápida del 30 al 80 % en 42 minutos",
-      "Pantalla de 10,25 pulgadas con CarPlay y Android Auto",
+      "La pantalla de 10,25 pulgadas del E10X lleva CarPlay y Android Auto: el móvil se integra en el salpicadero sin soportes añadidos.",
       "Uno de los eléctricos más baratos: 0-60 km/h en 6,3 s",
     ],
     contras: [
@@ -1292,7 +1292,7 @@ export const COCHES_JAC: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde"],
     pros: ["Su tarifa en China, en torno a 10.400 euros, queda muy por debajo de lo que piden un MG ZS o un Chery Tiggo 7 Pro de potencia parecida", "El bloque gasolina turboalimentado rinde 150 CV y empuja con 230 Nm, solvencia de sobra para mover a cinco ocupantes sin apuros en incorporaciones", "Mide 4.505 mm de longitud y aun así reserva 485 litros para el equipaje, una capacidad generosa dentro del segmento de todocaminos compactos", "Declara 7,6 l/100 km según el ciclo WLTC, un gasto contenido para un motor de gasolina sin ningún tipo de asistencia eléctrica", "La misma carrocería se comercializa fuera de China como JAC JS5, como KMC X5 en Irán y como Moskvitch 5 en Rusia"],
-    contras: ["Hereda la base del veterano JAC Refine S5, una plataforma ya añeja que penaliza refinamiento y tacto frente a arquitecturas recientes de MG o Chery", "La oferta mecánica es gasolina pura de principio a fin: nada de híbrido ligero, híbrido enchufable o versión eléctrica, y se queda con la etiqueta C", "El habitáculo flojea en ergonomía, con mandos menos intuitivos y soluciones de puesto de conducción por detrás de los referentes europeos del segmento", "Carece de comercialización oficial tanto en Europa como en Latinoamérica, así que hacerse con uno implica importación paralela y una posventa incierta", "Sehol nació de la empresa conjunta entre JAC y Volkswagen, pero JAC ha decidido ir apagando esta marca, lo que siembra dudas sobre su continuidad"],
+    contras: ["Hereda la base del veterano JAC Refine S5, una plataforma ya añeja que penaliza refinamiento y tacto frente a arquitecturas recientes de MG o Chery", "La oferta mecánica es gasolina pura de principio a fin: nada de híbrido ligero, híbrido enchufable o versión eléctrica, y se queda con la etiqueta C", "El habitáculo flojea en ergonomía, con mandos menos intuitivos y soluciones de puesto de conducción por detrás de los referentes europeos del segmento", "No hay venta oficial en Europa ni en Latinoamérica: conseguir un X6 pasa por la importación paralela, con una posventa que no está garantizada.", "Sehol nació de la empresa conjunta entre JAC y Volkswagen, pero JAC ha decidido ir apagando esta marca, lo que siembra dudas sobre su continuidad"],
     imagen: "/media/sehol-x6-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/sehol-x6-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",

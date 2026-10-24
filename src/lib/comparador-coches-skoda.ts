@@ -34,7 +34,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       "Desde 35.250 €: el eléctrico familiar más equilibrado de Skoda"
     ],
     contras: [
-      "2.119 kg de peso: se nota en carreteras de curvas",
+      "Pesa 2.119 kg: en carreteras de curvas ese peso se deja notar al cambiar de apoyo y al frenar.",
       "Solo tracción trasera; el 85x con tracción total cuesta más",
       "Velocidad máxima limitada a 180 km/h",
       "La pantalla de 13 pulgadas concentra casi todas las funciones",
@@ -1734,8 +1734,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
-    pros: ["Con 585 litros tras los cinco asientos, la zaga vertical del SUV admite mejor una silla infantil desmontada o equipaje voluminoso que la caída coupé.", "Declarar 15,5 kWh/100 km con 2.002 kilos explica los 433 kilómetros WLTP obtenidos de una batería de 63 kWh.", "En corriente continua acepta hasta 165 kW, así que la batería pequeña también se beneficia de paradas breves en cargadores rápidos.", "Cuesta 40.610 euros, exactamente 2.280 euros menos que su hermano Coupé 60 ofreciendo idénticos 204 CV traseros.", "La batería queda cubierta ocho años o 160.000 kilómetros hasta un 70 % de capacidad, respaldo relevante en reventa familiar."],
-    contras: ["Acelera de cero a cien en 8,1 segundos: suficiente en incorporaciones, pero sin margen deportivo cuando viaja cargado con cinco ocupantes.", "La velocidad punta está limitada a 160 km/h, techo habitual en eléctricos MEB que penaliza menos en España que en autobahn.", "Frente al Enyaq 85 de batería mayor, estos 63 kWh obligan a planificar más recargas en rutas interurbanas extensas.", "Solo hay tracción trasera en este 60; quien necesite motricidad integral para nieve deberá saltar a otra versión.", "Sus 4.658 milímetros de largo y 1.879 de ancho complican plazas estrechas de garajes antiguos madrileños."],
+    pros: ["Con 585 litros tras los cinco asientos, la zaga vertical del SUV admite mejor una silla infantil desmontada o equipaje voluminoso que la caída coupé.", "Declarar 15,5 kWh/100 km con 2.002 kilos explica los 433 kilómetros WLTP obtenidos de una batería de 63 kWh.", "En corriente continua acepta hasta 165 kW, así que la batería pequeña también se beneficia de paradas breves en cargadores rápidos.", "Cuesta 40.610 euros, exactamente 2.280 euros menos que su hermano Coupé 60 ofreciendo idénticos 204 CV traseros.", "Para la batería, el Enyaq 60 ofrece cobertura de ocho años o 160.000 kilómetros, con el 70 % de capacidad como mínimo garantizado: un respaldo al revender un familiar eléctrico."],
+    contras: ["Los 8,1 segundos hasta 100 km/h bastan para entrar en autovía, pero con el coche lleno de gente y equipaje no hay reserva para alegrías.", "La punta está capada en 160 km/h, el techo habitual de los eléctricos MEB: en España apenas penaliza, en autobahn sí se notaría.", "Frente al Enyaq 85 de batería mayor, estos 63 kWh obligan a planificar más recargas en rutas interurbanas extensas.", "Solo hay tracción trasera en este 60; quien necesite motricidad integral para nieve deberá saltar a otra versión.", "Sus 4.658 milímetros de largo y 1.879 de ancho complican plazas estrechas de garajes antiguos madrileños."],
     largoMm: 4658,
     anchoMm: 1879,
     altoMm: 1622,

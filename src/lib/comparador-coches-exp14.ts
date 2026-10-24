@@ -360,9 +360,9 @@ export const COCHES_EXP14: CocheComparador[] = [
     pros: [
       "578 km de autonomía WLTP por 35.250 €: imbatible en precio por km",
       "286 CV de tracción trasera: 6,6 s de 0-100",
-      "5 estrellas EuroNCAP (2025): 90 % en ocupante adulto",
+      "Euro NCAP 2025 le dio cinco estrellas: el 90 % en ocupante adulto es la nota que más importa en un familiar como este Elroq 85.",
       "Maletero de 470 litros en 4,49 metros",
-      "Carga rápida de 135 kW en corriente continua",
+      "En corriente continua admite hasta 135 kW: el Elroq 85 de 77 kWh recupera autonomía en paradas cortas de viaje.",
     ],
     contras: [
       "Diseño sobrio: no enamora como un Enyaq",

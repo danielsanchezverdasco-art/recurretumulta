@@ -537,7 +537,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     potenciaCv: 8,
     precioDesde: 8800,
     pros: [
-      "Se conduce desde los 15 años con el carnet AM: ideal como primer vehículo para adolescentes.",
+      "Con el carnet AM basta para llevarlo desde los 15 años: este S04 L6e de 2.330 mm funciona como primer vehículo para adolescentes.",
       "Baterías extraíbles tipo trolley que se intercambian en 30 segundos en las estaciones Silence, sin esperar cargas.",
       "Fabricado en España (Barcelona) y distribuido en Europa a través de la red de Nissan.",
       "Aire acondicionado y calefacción de serie, algo muy raro en un cuadriciclo.",
@@ -619,7 +619,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     pros: [
       "Alcanza 85 km/h: suficiente para rondas y desplazamientos interurbanos cortos.",
       "Mismo sistema de baterías extraíbles con 149 km de autonomía homologada con dos baterías.",
-      "Etiqueta Cero de la DGT: acceso libre a las ZBE de todas las ciudades españolas.",
+      "Con el distintivo Cero, este S04 L7e de 85 km/h entra en cualquier ZBE española, allí donde otros se quedan fuera.",
       "Interior sorprendentemente equipado: pantalla TFT de 7 pulgadas, Bluetooth y mandos en el volante.",
       "Se conduce con el carnet B y cuesta menos de 10.000 € con la batería en alquiler.",
       "Asientos asimétricos que aprovechan al máximo el habitáculo de solo 2,33 metros."
@@ -1374,7 +1374,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     pros: [
       "Acabado FR con estética deportiva y detalles en rojo sin sobreprecio excesivo",
       "Peso contenido de 1.213 kg que favorece agilidad y consumos",
-      "Motor 1.0 TSI de 116 CV con 200 Nm, suficiente para el día a día",
+      "Con 116 CV y 200 Nm, este Arona FR de 4.138 mm se mueve con soltura en rondas y accesos, sin pedir más motor para el uso diario.",
       "Maletero de 400 litros con doble fondo práctico",
       "Cambio manual de 6 velocidades preciso y agradable"
     ],

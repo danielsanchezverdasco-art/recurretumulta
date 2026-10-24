@@ -1251,7 +1251,7 @@ export const COCHES_LOTE2: CocheComparador[] = [
     emisionesCo2: 215,
     aprox: ["precioDesde"],
     pros: ["4,81 metros y 7 plazas por ~17.500 €: espacio imbatible por precio", "184 CV con cambio automático de doble embrague", "Maletero de más de 500 litros en configuración de 5 plazas", "Equipamiento completo: pantalla flotante, cámara 360°", "JAC es socio de Volkswagen en China: respaldo industrial"],
-    contras: ["Solo motor de gasolina: consumo real de 9-10 l/100 km", "No se vende en Europa: sin red ni postventa", "Marca desconocida fuera de China", "Acabados mejorables frente a rivales europeos", "Sin hibridación ni etiqueta ECO"],
+    contras: ["Solo motor de gasolina: consumo real de 9-10 l/100 km", "Fuera de su mercado de origen, el X8 no tiene red de concesionarios ni servicio posventa: cualquier avería se resuelve sin respaldo oficial en Europa.", "Marca desconocida fuera de China", "Acabados mejorables frente a rivales europeos", "Sin hibridación ni etiqueta ECO"],
     imagen: "/media/sehol-x8-2022-precio-ficha-tecnica-1.webp",
     imagenOficial: "/media/sehol-x8-2022-precio-ficha-tecnica-2.webp",
     imagenInteriorOficial: "/media/sehol-x8-2022-precio-ficha-tecnica-3.webp",

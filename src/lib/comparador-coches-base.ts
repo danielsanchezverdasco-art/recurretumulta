@@ -2042,7 +2042,7 @@ export const COCHES_BASE: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "585 CV y 0-100 en 4,2 s en la 4WD por 58.080 €",
+      "La variante 4WD de este Seres 5 anuncia 585 CV y un 0 a 100 en 4,2 segundos por 58.080 €: prestaciones de deportivo en un SUV eléctrico.",
       "V2L de 3,3 kW con modo camping y \"modo rescate\"",
       "8 años / 150.000 km de garantía, de las mejores del mercado",
       "Equipamiento premium de serie a precio contenido",

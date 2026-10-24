@@ -1314,10 +1314,10 @@ export const COCHES_EXP11: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "163 CV con 329 km WLTP desde 29.995 €",
-      "Garantía de 8 años o 150.000 km en toda la gama",
+      "Toda la gama del Seres 3 disfruta de cobertura durante ocho años o hasta 150.000 kilómetros: un respaldo que pesa en la reventa.",
       "Equipamiento completo: techo panorámico, cámara 360º, cuero",
       "5 años en España con red del Grupo Invicta",
-      "Carga rápida de 56 kW: del 20 al 80 % en 30 minutos",
+      "En un cargador rápido de 56 kW, este Seres 3 recupera del 20 al 80 % en media hora: tiempo suficiente para un café en ruta.",
     ],
     contras: [
       "Maletero de 318 litros, de los más pequeños del segmento",
@@ -1381,7 +1381,7 @@ export const COCHES_EXP11: CocheComparador[] = [
     pros: [
       "299 CV traseros con 500 km de autonomía",
       "Batería de 80 kWh con carga rápida de 100 kW",
-      "Garantía de 8 años o 150.000 km",
+      "Ocho años o 150.000 km de garantía cubren este Seres 5: la cifra que más tranquiliza al comprar un eléctrico de 54.450 €.",
       "Interior premium con materiales de calidad",
       "Función V2L para alimentar dispositivos externos",
     ],
