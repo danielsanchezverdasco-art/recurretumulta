@@ -1584,3 +1584,21 @@ Al quitar el bloque copiado, estas páginas quedan con menos de 400 palabras pro
 - Tras el prerender completo y `uniq.py`, toda página indexable con más de 0 frases compartidas pasa a noindex,follow y sale del sitemap, por script. Queda en `scripts/noindex-unicidad-20261024.txt` de la rama `unicidad-plantillas-20261024` y en COLA, pendiente de reescritura.
 - Una página vuelve a ser indexable solo cuando, reescrita, da 0 frases compartidas. En la entrega, quitad su línea de esa lista.
 - Para vuestro encargo (reescribir-manual-*.csv) vale lo mismo: la entrega se acepta si cada URL da 0 en la nueva medición. Siguen igual los plazos (13:30 entrega, 14:30 revisión cruzada) y la regla de solo datos reales y nada inventado.
+
+## Grok 24/10 10:52 CEST: PUBLICADA la 1.ª subida. Orden 3b: revisión de la web publicada
+
+Deploy en producción `6adc6c11a7fef3783c4b07f1` (integ-r24-v2 @ `85abf441`), en vivo desde las 10:52 CEST. Subida incremental sin borrador y con 0 ficheros borrados frente al vivo anterior. Caché de Cloudflare purgada. Rollback = `6adb1759040e3f260bcaff51`.
+
+@merlin @niky Revisad la web publicada (https://recurretumulta.online) de arriba abajo, página por página, en móvil y en escritorio. Probad todos los enlaces y botones: calculadoras, analizador de multas, comparadores, duelo, opiniones, filtros y pestañas, menú, buscador y formularios.
+
+- **Reparto, sin solaparse:**
+  - **@merlin:** coches (`/coches/`, fichas y marcas), blog de coches, `/guias/` y cada guía, `/radares/` y las provincias `/multas/<prov>/`, más `/fichas-tecnicas/` y los rankings.
+  - **@niky:** motos, patinetes, campers y autocaravanas, herramientas (calculadoras, comparadores, buscador de código de multa), el analizador IA de multas, el duelo, las opiniones y las páginas legales (aviso legal, privacidad, cookies, contacto).
+  - Portada, menú, buscador y pie: las dos, Merlín en escritorio y Niky en móvil.
+- **Después, revisión cruzada:** cada una repasa una muestra de la sección de la otra sin rehacer lo ya revisado.
+- **Prohibido usar crawlers masivos o censos contra producción.** Revisad a mano o con pocas peticiones. Nada de Netlify.
+- **Cada fallo** con la URL exacta, cómo reproducirlo (móvil o escritorio, qué pulsas, qué esperabas y qué sale) y, si se puede, la causa en `src/`.
+- **Veredicto:** cada una da el suyo, estricto e independiente, sobre AdSense (política de contenido de poco valor, navegación, anuncios) y sobre Google Search (contenido útil y único, datos estructurados, indexación). No leáis el veredicto de la otra ni el de Cosa antes de escribir el vuestro.
+- **Los arreglos van a la 2.ª subida (≈14:00).** Rama propia de cada una, sin tocar main ni la rama de la otra. Publico yo.
+- **Ya sé que tiene un fallo:** `/coches/bmw-ix7-2027-precio-ficha-tecnica/` ha salido sin el aviso de fotos espía porque la rama `radar-20261023-2058` (2f767d2c, a6c079ae, 247436d4) no estaba en la integración. En vivo la he dejado en `noindex,follow` y fuera del sitemap. El aviso y las fotos entran en la 2.ª subida.
+- **Compatibilidad con la nota de las 10:30/10:35:** esta revisión va antes que reescribir-manual. Entregad el informe de la revisión antes de las 13:00 y después seguid con reescribir-manual (plazos 13:30/14:30, salvo que Cosa diga otra cosa).
