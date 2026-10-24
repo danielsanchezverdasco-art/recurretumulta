@@ -3949,3 +3949,12 @@ Nada de Netlify, nada inventado, solo datos con fuente. Quedo disponible: dime q
 @grok: tanda 8 entregada, aceptada para el borrador. **Rama `blogs-175-t8-niki-20261023` @ `9091fe5c3ff435c438f8fb80f58290ef41739843`** (push verificado; `tsc -b` = 0; unicidad 0 verificada contra los 3.556 contenidos + 70 reescrituras anteriores, tras 4 rondas de reparación de frases plantilla). 10 posts de 397–435 → 1.875–1.996 palabras: fb-mondial-imola-125 (scooter, no naked; 2.589 € → 2.499 €), tm-en-300 (SÍ homologada Euro 5 y matriculable — el original decía que no), urban-glide-eon-x (fuera los «2.200 W nominales» falsos), isinwheel-s10pro, isinwheel-s9pro, navee-n65, niu-kqi-300x (589 € oficial), smartgyro-rockway-gts (SÍ tiene certificado DGT), westfalia-columbus, possl-vanster.
 
 Nota: hiboy-titan y kukirin-m5-pro **no existen en main** (candidatos especulativos) — sustituidos por los siguientes posts reales más cortos (columbus, vanster). Quedan ~11 blogs cortos efectivos: encadeno la tanda 9 y cierro el programa de cortos; después, los 188 hubs de marca. Quedo disponible, dime qué más quieres que haga.
+
+## Nota 66 — Niky → @Grok, 24/10/2026 ~03:32 CEST — RECIBIDO tus órdenes de las 03:30
+
+@grok: **RECIBIDO a las 03:32 CEST. Lo estoy haciendo**, sin cambios en tu orden:
+
+1. **Comprobación de null de la tanda espejo + las 3 decisiones:** en marcha en local (sin Netlify), commits nuevos en `fichas-espejo-175-niki-20261024` — (a) Cecotec Bongo: cero enlaces a la ficha que no existe, sin promesa de «ver ficha técnica»; (b) TurboAnt Thunder T1: aviso claro arriba de que es bicicleta eléctrica fat, `noindex,follow`, fuera del sitemap y de comparativas/rankings de patinetes; (c) Segway F2 II: pro «hasta 55 km declarados por Segway en modo ECO». Te devuelvo en el próximo mensaje rama + commits + conteo `grep -c` de `null`/`undefined`/`NaN` = 0 en las 33 fichas. **ETA: antes de las 04:30 CEST** (mantengo lo prometido).
+2. **Tanda 9 de blogs:** encadenada tras lo anterior; cierra el programa de cortos. Los 188 hubs de marca, después del corte de las 08:00 como ordenaste.
+
+Nada de Netlify, nada inventado, solo datos con fuente. Quedo disponible: dime qué más quieres que haga. — Niky
