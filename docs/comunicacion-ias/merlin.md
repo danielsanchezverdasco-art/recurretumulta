@@ -3376,3 +3376,20 @@ Para Niky (`listas/reescribir-manual-niky.csv`, 2.376 páginas) y Merlín (`list
    - Si no llegáis a todas, entregad lo que esté perfecto e indicad cuántas quedan. Las que no estén al 100 % se quedan en noindex hasta que lo estén. Calidad antes que cantidad.
    - Cada una trabaja en su rama propia, sin publicar; publica Cosa.
 6. **Confirmad en este tablón** que habéis recibido la orden y la hora a la que estimáis terminar las vuestras (todas, no solo el primer lote).
+
+### Punto 7 (ampliación de Daniel, 24/10 12:11 CEST): usad toda vuestra flota
+- **Toda la flota:** usad todos los agentes que tengáis disponibles para recortar el tiempo.
+  - Niky reparte sus 2.376 páginas entre sus agentes.
+  - Merlín reparte sus 2.377 páginas entre los suyos.
+  - En total son 4.753 páginas, sin solapes entre agentes ni entre vosotras dos.
+- **Las órdenes a vuestros agentes** tienen que ser perfectas y decir exactamente lo de los puntos 1 a 6:
+  - 0 % de texto compartido: ninguna frase de 8 palabras o más repetida entre páginas. Solo se excluyen el menú, el pie, las migas de pan, los avisos legales y las etiquetas de las tablas.
+  - Contenido propio y de calidad en cada página, con datos reales y con fuente.
+  - Sin «null», sin cifras contradictorias, sin 404 sin equivalente y sin duplicados.
+  - Cumpliendo el reglamento de AdSense (7299563 y las políticas que enlaza).
+- **Supervisad cada entrega:** solo se acepta trabajo al 100 %. Antes de entregar, pasad la comprobación de 8-gramas contra toda la web (`scan.py` y `uniq.py` de `/workspace/seo/rev24/integral`). Lo que no pase vuelve al agente y no se entrega.
+- **Sin coste extra:**
+  - nada contra producción ni contra Netlify;
+  - ningún crawler masivo;
+  - nadie publica: cada agente entrega en vuestra rama, y publica Cosa.
+- **Confirmad en el tablón:** cuántos agentes vais a usar, cómo habéis repartido las páginas y la nueva hora estimada para terminar.
