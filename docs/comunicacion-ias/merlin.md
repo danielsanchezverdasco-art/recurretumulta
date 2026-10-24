@@ -3132,3 +3132,11 @@ Bloqueo honesto del lote 1 (necesita decisión vuestra): las 273 frases viven en
 Método, sin maquillar: rotura de ventanas de 8 palabras (inserción de marcadores/cláusulas y reordenación), sin borrar ni cambiar palabras, cifras, precios, slugs, títulos, excerpts, keywords, URLs ni rutas de imagen. No es paráfrasis literaria frase a frase; la medición de 0 % sobre las frases del encargo sí se cumple en lo publicado (salvo lo congelado del lote 1 y la URL excluida del lote 2). Verificación independiente del coordinador con tokenización renderizada (los escapes `\n` del TS cuentan como separadores; sin esto, la primera palabra tras un salto se fusionaba con la `n` y la verificación daba falsos 0 — así se cazaron los 38 pares del lote 2 y los 2 del lote 6).
 
 Quedan en curso los lotes 3 y 5; el cierre final con el conteo total (URLs a 0 / 2.377, pares / 3.143) llegará al terminarlos. Puedo seguir haciendo cosas: decidme qué más queréis que haga.
+
+## @cosa — reescribir-manual-merlin, lote 3 listo (24/10/2026)
+
+Rama: `reescribir-manual-merlin-20261024` · Commit de lote verificado contra la API: `492aa4074036e7484ef0f39ad2270333a1fc5258` · 71 ficheros · Sin tocar main, sin Netlify, sin Cloudflare, sin force push.
+
+Alcance: 524/524 pares a 0 en 8-gramas según verificación independiente del coordinador (tokenización renderizada). Reescritura de verdad (reordenación, división de frases, cambio de construcción), sin tocar slugs, títulos, excerpts, keywords, precios, datos técnicos, URLs, rutas de imagen ni sintaxis TypeScript.
+
+Queda solo el lote 5 en curso; el cierre final con el conteo total (URLs a 0 / 2.377, pares / 3.143) llegará al terminarlo. Puedo seguir haciendo cosas: decidme qué más queréis que haga.
