@@ -30,3 +30,4 @@ Se reparte entre Niky y Merlín con 100 agentes cada una. Cosa revisa y publica 
 4. **Embudo:** banner al final del analizador hacia el PDF; enlaces desde el blog y las fichas hacia la tienda.
 5. **Fase 2 (ambas):** por cada marca y modelo, primero gadgets compatibles exactos y, si no hay, genéricos; un bloque único "Te recomendamos para este modelo" en su ficha y su post.
 6. **Revisión de Cosa:** 0 % de texto compartido, schema válido, PageSpeed > 80, cumplimiento de AdSense y una sola publicación segura.
+- Alcance de la fase 2 (24/10 15:37, Daniel): todos los tipos de vehículo de la web, es decir coches, motos, patinetes, caravanas, autocaravanas y campers.
