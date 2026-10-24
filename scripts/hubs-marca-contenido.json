@@ -1278,5 +1278,85 @@
   "intro": "Pocas marcas despiertan tanta conversación como Lancia, y eso hace más necesario todavía un lugar donde comparar sus coches con la cabeza fría. Las seis fichas de esta colección reúnen motores, dimensiones y equipamiento, sin nostalgia ni desdén, para que cada modelo se valore por lo que ofrece hoy. La historia de la marca puede explicar un diseño o un nombre, pero no debería sustituir a la ficha técnica a la hora de decidir: lo que importa es el espacio, el consumo, el equipamiento y el precio de cada versión. Al leer las seis fichas seguidas se percibe el tamaño real de la gama actual y el perfil de comprador al que se dirige cada modelo, desde el uso urbano hasta planteamientos más amplios. Comparar con calma permite separar el mito del coche concreto, y esa separación es la que convierte una visita curiosa en una decisión bien tomada o en un descarte razonado.",
   "n": 6,
   "url": "/coches/marca/lancia/"
+ },
+ "coches/lepas": {
+  "nombre": "Lepas",
+  "title": "Lepas coches: 6 fichas técnicas para descubrir",
+  "description": "6 fichas técnicas de coches Lepas con tamaños, motores y equipamiento reunidos para conocer la gama nueva sin perder tiempo.",
+  "intro": "Cuando una marca acaba de llegar, la mejor presentación no es un eslogan sino sus fichas técnicas, y aquí se reúnen las seis de Lepas. Cada ficha describe el tamaño, la motorización y el equipamiento de su modelo, de forma que el visitante puede hacerse una idea completa sin buscar en foros ni en vídeos promocionales. Lo sensato ante una gama nueva es empezar por el tamaño y el uso: un coche urbano, un familiar compacto y un SUV no compiten entre sí aunque compartan logotipo. Después conviene revisar las versiones, porque un mismo modelo puede ofrecer niveles de equipamiento muy distintos que cambian la experiencia diaria. Al completar las seis fichas, la marca deja de ser una novedad difusa y se convierte en una lista de opciones medibles, cada una con sus dimensiones y su dotación. Esa es la base mínima para opinar con fundamento sobre una llegada reciente.",
+  "n": 6,
+  "url": "/coches/marca/lepas/"
+ },
+ "motos/mitt": {
+  "nombre": "MITT",
+  "title": "MITT motos: 6 fichas para todos los carnets",
+  "description": "6 fichas técnicas de motos MITT con cilindrada, peso y equipamiento para encontrar tu moto según carnet, altura y uso diario.",
+  "intro": "Hay compradores que llegan a una marca buscando una moto concreta para su carnet, y otros que simplemente quieren moverse sin complicaciones; esta colección de seis fichas de MITT sirve a ambos. Cada ficha indica la cilindrada, el peso y el equipamiento, tres datos que bastan para saber si una moto es manejable en parado, si cabe en un garaje pequeño y si su mantenimiento será sencillo. La altura del asiento y la posición de conducción también merecen una lectura atenta, porque una moto que se domina con los pies bien apoyados transmite más seguridad desde el primer día. Al repasar las seis fichas seguidas se aprecia el abanico de la marca y el tipo de motorista al que apunta cada modelo, desde el uso urbano diario hasta salidas más largas. El objetivo no es elegir la moto más llamativa del catálogo, sino la que se adapta al carnet, a la estatura y a los kilómetros reales de cada semana.",
+  "n": 6,
+  "url": "/motos/marca/mitt/"
+ },
+ "motos/mv-agusta": {
+  "nombre": "MV Agusta",
+  "title": "MV Agusta motos: 6 fichas de alta gama",
+  "description": "6 fichas técnicas de motos MV Agusta con potencia, chasis y equipamiento detallados para comparar sus deportivas y naked.",
+  "intro": "El nombre de MV Agusta pesa mucho en el mundo de la moto, y por eso conviene que la comparación se apoye en fichas técnicas y no solo en admiración. Las seis fichas de esta colección detallan la potencia, el chasis y el equipamiento de cada modelo, datos que permiten distinguir una deportiva radical de una naked de uso más versátil aunque compartan apellido. La potencia máxima dice poco por sí sola: importa cómo se entrega, cuánto pesa el conjunto y qué ayudas electrónicas la acompañan. También conviene mirar la posición de conducción y la altura del asiento, porque una moto exigente en circuito puede resultar incómoda en carretera abierta. Recorrer las seis fichas con estos criterios deja claro qué modelo está pensado para disfrutar en curvas, cuál admite un uso más habitual y dónde se sitúa cada uno dentro de la gama. La admiración puede iniciar la búsqueda; las fichas la terminan con argumentos.",
+  "n": 6,
+  "url": "/motos/marca/mv-agusta/"
+ },
+ "motos/swm": {
+  "nombre": "SWM",
+  "title": "SWM motos: 6 fichas de trail y clásicas",
+  "description": "6 fichas técnicas de motos SWM con motores, pesos y equipamiento para comparar sus trail ligeras y sus modelos de estilo clásico.",
+  "intro": "SWM ocupa un espacio interesante entre la moto sencilla y la moto con carácter, y sus seis fichas permiten recorrerlo sin confusiones. Cada ficha recoge el motor, el peso y el equipamiento, información suficiente para separar una trail ligera pensada para pistas de una moto de estilo clásico orientada al paseo y al uso diario. El peso en orden de marcha es un dato que conviene no pasar por alto, porque determina la facilidad para mover la moto en parado y la confianza en maniobras lentas. La altura del asiento y la sencillez mecánica también pesan en la decisión, sobre todo para quien busca una moto sin complicaciones ni mantenimientos exigentes. Al leer las seis fichas en orden se dibuja una gama compacta donde cada modelo tiene un público claro, y donde subir de escalón no significa siempre más potencia sino a veces más equipamiento o mejor parte ciclo. Con esa lectura, elegir se vuelve un ejercicio de sinceridad sobre el uso real.",
+  "n": 6,
+  "url": "/motos/marca/swm/"
+ },
+ "patinetes/aovopro": {
+  "nombre": "Aovopro",
+  "title": "Aovopro patinetes: 6 fichas para la ciudad",
+  "description": "6 fichas de patinetes eléctricos Aovopro con autonomía, ruedas y plegado explicados para elegir el modelo de tu desplazamiento urbano.",
+  "intro": "El desplazamiento urbano diario tiene unas exigencias muy concretas, y las seis fichas de Aovopro están reunidas para comprobarlas una por una. Cada ficha indica la autonomía, el tamaño de rueda y el sistema de plegado, además del peso, un conjunto de datos que decide si el patinete cabe en un ascensor, si se guarda bajo un escritorio y si aguanta el trayecto de ida y vuelta sin recargar. Las ruedas grandes absorben mejor los baches y las juntas del asfalto, mientras los modelos más compactos ganan en portabilidad y en facilidad de transporte. Al comparar las seis fichas se ve qué modelos están pensados para trayectos cortos y frecuentes y cuáles aguantan recorridos más largos sin sacrificar demasiada ligereza. La compra acertada no depende de la velocidad máxima, que rara vez se usa en ciudad, sino de la combinación entre autonomía real, peso y tamaño plegado que encaje con la rutina de cada usuario.",
+  "n": 6,
+  "url": "/patinetes/marca/aovopro/"
+ },
+ "patinetes/bogist": {
+  "nombre": "Bogist",
+  "title": "Bogist patinetes: 6 fichas eléctricas urbanas",
+  "description": "6 fichas de patinetes eléctricos Bogist con autonomía, peso y frenos comparados para acertar en tu compra urbana.",
+  "intro": "Comprar un patinete sin leer sus fichas es como comprar zapatos sin probarlos, y por eso esta colección reúne las seis fichas de Bogist con sus datos esenciales. Cada ficha detalla la autonomía, el peso y el sistema de frenos, tres elementos que condicionan la seguridad y la comodidad mucho más que la estética. Un freno eficaz y unas ruedas de tamaño adecuado marcan la diferencia en una frenada imprevista o en un tramo de asfalto irregular, dos situaciones habituales en ciudad. El peso, por su parte, decide si el patinete se puede subir a casa a diario o si terminará aparcado siempre en la calle. Al recorrer las seis fichas se aprecia la variedad de la gama y el equilibrio que busca cada modelo entre alcance, portabilidad y estabilidad. Con esa información, la elección se reduce a una pregunta sencilla: qué trayecto harás cada día y qué peso estás dispuesto a cargar.",
+  "n": 6,
+  "url": "/patinetes/marca/bogist/"
+ },
+ "coches/arcfox": {
+  "nombre": "Arcfox",
+  "title": "Arcfox coches: 5 fichas eléctricas para comparar",
+  "description": "5 fichas técnicas de coches eléctricos Arcfox con batería, espacio y equipamiento para valorar la gama antes de decidir.",
+  "intro": "Cinco fichas bastan para hacerse una idea completa de una gama, siempre que se lean con orden, y esta colección de Arcfox invita a hacerlo así. Cada ficha expone la información de carga, el habitáculo disponible y la dotación de serie, de modo que la comparación entre modelos no dependa de imágenes ni de promesas. En un eléctrico, la primera pregunta útil es dónde se va a cargar la mayor parte del tiempo, porque de esa respuesta dependen la autonomía necesaria y la importancia de la velocidad de carga. La segunda es el espacio: plazas traseras, maletero y facilidad de acceso, aspectos que se notan a diario mucho más que una aceleración puntual. Al completar las cinco fichas se entiende el planteamiento de la gama y el público de cada modelo, desde el uso urbano hasta los viajes en familia. Con ese panorama, decidir se convierte en descartar con criterios propios y no en dejarse llevar por la novedad.",
+  "n": 5,
+  "url": "/coches/marca/arcfox/"
+ },
+ "coches/caterham": {
+  "nombre": "Caterham",
+  "title": "Caterham coches: 5 fichas de deportivos puros",
+  "description": "5 fichas técnicas de coches Caterham con peso, motor y chasis detallados para entender sus deportivos ligeros sin concesiones.",
+  "intro": "Hay coches que se explican con una sola cifra, el peso, y los Caterham pertenecen a esa especie, aunque sus cinco fichas dicen bastante más. Cada ficha detalla el peso, el motor y el chasis, tres datos que juntos explican por qué un coche sin apenas concesiones al confort puede resultar tan divertido en carretera de curvas. La ligereza cambia la frenada, el paso por curva y la sensación al volante de una forma que ninguna potencia añadida compensa en un coche pesado. Por eso, al leer estas fichas conviene fijarse menos en la velocidad máxima y más en la relación entre peso y potencia y en la sencillez mecánica. Al recorrer las cinco fichas se distinguen las variantes de la gama y el grado de radicalidad de cada una, desde las más utilizables a diario hasta las más orientadas al disfrute puro. Quien busque un coche para todo no lo encontrará aquí; quien busque sensaciones, encontrará las cifras que las justifican.",
+  "n": 5,
+  "url": "/coches/marca/caterham/"
+ },
+ "coches/luxeed": {
+  "nombre": "Luxeed",
+  "title": "Luxeed coches: 5 fichas eléctricas para valorar",
+  "description": "5 fichas técnicas de coches eléctricos Luxeed con autonomía, espacio y equipamiento reunidos para comparar la gama con datos.",
+  "intro": "Una gama eléctrica de cinco modelos se puede comparar entera en una sola sesión, y estas fichas de Luxeed están preparadas para ese ejercicio. Cada ficha recoge la autonomía, el espacio interior y el equipamiento, datos que permiten ordenar los modelos por uso real y no por orden alfabético ni por precio. La autonomía conviene contrastarla con los kilómetros semanales y con la red de carga habitual, porque un coche que se carga en casa cada noche vive una realidad distinta de otro que depende de cargadores públicos. El espacio para pasajeros y equipaje también merece atención, sobre todo si el coche va a ser el único de la familia. Al terminar las cinco fichas, la gama queda dibujada con nitidez: qué modelo cubre cada necesidad y qué se gana o se pierde al cambiar de uno a otro. Esa visión completa es la mejor defensa contra una compra impulsiva.",
+  "n": 5,
+  "url": "/coches/marca/luxeed/"
+ },
+ "coches/radical": {
+  "nombre": "Radical",
+  "title": "Radical coches: 5 fichas de circuito y carretera",
+  "description": "5 fichas técnicas de coches Radical con peso, potencia y aerodinámica para entender sus deportivos de enfoque radical.",
+  "intro": "El apellido Radical ya anuncia el planteamiento, pero sus cinco fichas permiten comprobar hasta qué punto es literal. Cada ficha detalla el peso, la potencia y la aerodinámica, elementos que en estos coches importan más que el equipamiento de confort o el espacio interior. La aerodinámica genera apoyo a alta velocidad y cambia el comportamiento en curva, un aspecto que solo se entiende leyendo las cifras y no mirando fotografías. El peso reducido, combinado con una potencia elevada, produce aceleraciones y frenadas que exigen un piloto consciente de lo que lleva entre manos. Al recorrer las cinco fichas se percibe la gradación de la gama, desde los modelos más accesibles dentro de su filosofía hasta los más cercanos a un coche de carreras. Esta colección no pretende convencer a nadie de que un Radical sirva para todo; pretende que quien lo considere lo haga conociendo sus cifras y sus renuncias.",
+  "n": 5,
+  "url": "/coches/marca/radical/"
  }
 }
