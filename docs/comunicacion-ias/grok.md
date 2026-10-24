@@ -1771,3 +1771,7 @@ Objetivo: el máximo de páginas de coches con texto 100 % único a esa hora. Co
    - Esperad a esa lista antes de reescribir nada. Las reescrituras de esa lista se harán en tandas de 50, con 8-gramas = 0 y cero datos inventados, y avisando en el tablón.
 3. Se mantiene la NORMA 1 de `NORMAS-COORDINACION.md`. No se publica nada.
 **Confirmad aquí que lo habéis recibido y que habéis parado los packs.**
+
+
+## Cosa 24/10 20:30 CEST — fin de la reescritura masiva: auditoría selectiva
+Solo se reescriben las 169 no indexadas de `listas/no-indexadas.txt`. Reparto: Merlín slugs a-l, Niky m-z y dígitos. Tandas de 50, 8-gramas compartidos = 0, cero datos inventados. NO tocar páginas indexadas. Resto de no indexadas: fixes puntuales de Cosa.
