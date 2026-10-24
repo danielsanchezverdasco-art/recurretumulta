@@ -1,0 +1,48 @@
+Tanda unico-coches-50-r-001 — letra R, coches (fichas, pros/contras en datos)
+Base: origin/unicidad-plantillas-20261024 @ 676bda2a54b5edb1b6e2b29162f22ac3d7f42dfa
+Worktree: ~/workspace/wt-unico50-r-001 — NUNCA main, NUNCA Netlify, sin publicar.
+No se tocaron: public/media, src/components, src/pages, ni ningún campo numérico
+(precio, potencia, autonomía, dimensiones, etc.). Solo arrays pros/contras de las
+50 fichas de la tanda, en src/lib/comparador-coches-*.ts (11 ficheros).
+
+Alcance (definición usada): las 50 primeras fichas de coches de scripts/coches-slugs.txt
+cuyo slug empieza por "r", en orden de slug.
+  Primera: radical-rxc-2025-precio-ficha-tecnica
+  Última (50): renault-megane-e-tech-2025-precio-ficha-tecnica
+  Total fichas R en el repo: 113. Restantes tras esta tanda: 63.
+  Siguiente slug R: renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica
+  Cadenas reescritas: 489 (246 pros + 243 contras), mismas cuentas que en HEAD por ficha.
+  NO entran en esta tanda: los posts/blog de estos modelos (no reescritos aquí),
+  ni componentes/páginas (prohibido para esta letra), ni notas de coste, alts ni
+  mantenimiento (no tocados). Por tanto el 0 verificado es del TEXTO NUEVO
+  (pros/contras), no de la página entera.
+
+Verificación obligatoria (comando usado, desde la raíz del worktree):
+  python3 hidden_files/unico-coches-50-r-001/verificar.py
+Salida final: "URLs: 50 | coincidencias totales: 0"
+CSV: hidden_files/unico-coches-50-r-001/verificacion-unico-coches-50-r-001.csv
+  (cabecera + 50 filas, todas con coincidencias_8gramas = 0)
+Corpus de la verificación: ventanas de 8 palabras (minúsculas, solo letras/dígitos)
+  del texto nuevo, comparadas con (a) pros/contras de todas las fichas fuera de la
+  tanda, (b) versión HEAD de los 11 ficheros tocados sin los pros/contras viejos de
+  la tanda, (c) todo el texto entrecomillado de los ficheros blog-posts-*.ts, y
+  (d) entre las propias cadenas nuevas. Se excluyen solo navegación y etiquetas de
+  tablas, según la orden. Sin cifras inventadas: cada cadena nueva conserva las
+  cifras de su original (comprobado en generar.py) y lleva marca+modelo+año propios.
+
+TypeScript (con node_modules enlazado desde el repo principal, enlace retirado después):
+  npx tsc -b  -> exit 0
+
+Auditorías adicionales:
+  - Por objetos (separador de entradas): pros/contras en disco == JSON de nuevos y
+    cuentas == HEAD en las 50 fichas (0 descuadres).
+  - Fichas fuera de la tanda: 2.219 revisadas, 0 con pros/contras cambiados.
+  - Incidencia encontrada y corregida antes de entregar: el primer extractor con
+    regex cruzaba arrays en las 5 fichas con pros/contras en una sola línea y
+    generó listas corruptas; se restauró src/lib desde HEAD, se reescribió el
+    extractor con corchetes emparejados y se regeneró todo en limpio. La rama
+    entregada NO contiene esa corrupción.
+
+PARO aquí por el cambio de plan de Cosa 24/10 20:14: no se empieza ninguna tanda
+nueva ni se tocan páginas indexadas más allá de esta tanda. A la espera de nueva
+asignación.

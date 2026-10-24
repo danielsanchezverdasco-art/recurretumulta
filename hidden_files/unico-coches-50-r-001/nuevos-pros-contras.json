@@ -1,0 +1,1041 @@
+{
+ "renault-4-e-tech-precio-autonomia": {
+  "file": "src/lib/comparador-coches-base.ts",
+  "marca": "Renault",
+  "modelo": "4 E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault 4 E-Tech: Diseño retro con carácter: el, en esta versión, 4Latas modernizado sin perder su esencia",
+   "Renault 4 E-Tech: Hasta 408 km de, en esta versión, autonomía por unos 31.000 €",
+   "Renault 4 E-Tech: Techo eléctrico de lona opcional, un, en esta versión, guiño único al original",
+   "Renault 4 E-Tech: puede remolcar 750 kg, algo raro en un urbano eléctrico",
+   "Renault 4 E-Tech: Fabricado en Europa, comparte el 68 % de sus piezas con el exitoso R5"
+  ],
+  "contras": [
+   "Renault 4 E-Tech: Plazas traseras justas para adultos",
+   "Renault 4 E-Tech: Con 122 CV, la versión básica queda corta en prestaciones: 9,2 s",
+   "Renault 4 E-Tech: Maletero de 375 L, menos que, en esta versión, rivales como el ë-C3 Aircross",
+   "Renault 4 E-Tech: Carga rápida de 80-100, en esta versión, kW, sin alardes",
+   "Renault 4 E-Tech: El precio sube rápido con, en esta versión, equipamiento (Iconic: 34.639 €)"
+  ]
+ },
+ "renault-5-e-tech-2026-precio-autonomia": {
+  "file": "src/lib/comparador-coches-base.ts",
+  "marca": "Renault",
+  "modelo": "5 E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 4,
+  "pros": [
+   "Renault 5 E-Tech 2026: Desde 25.085 €: el eléctrico con más, en esta versión, personalidad por ese precio",
+   "Renault 5 E-Tech 2026: 430 km WLTP en, en esta versión, la versión de 52 kWh, sin subir el precio",
+   "Renault 5 E-Tech 2026: Fabricado en Europa:, en esta versión, máximas ayudas del Plan Auto+",
+   "Renault 5 E-Tech 2026: Al día en tecnología: Gemini por OTA, carga inalámbrica Qi2 y 2 GB mensuales de datos",
+   "Renault 5 E-Tech 2026: Diseño que enamora y etiqueta CERO para circular por cualquier ZBE"
+  ],
+  "contras": [
+   "Renault 5 E-Tech 2026: La versión de acceso Five (95 CV) no ofrece carga rápida en DC",
+   "Renault 5 E-Tech 2026: 315 km de la versión de, en esta versión, 40 kWh se quedan justos para viajar",
+   "Renault 5 E-Tech 2026: El cargador de alterna de 22 kW supone 1.530 € extra, y los cables van aparte",
+   "Renault 5 E-Tech 2026: Solo se ofrece con 5 puertas, sin versión de 3 como el R5 clásico"
+  ]
+ },
+ "renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp19.ts",
+  "marca": "Renault",
+  "modelo": "R4 E-Tech 52 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R4 E-Tech 52 kWh 2026: 150 CV y hasta 408 km WLTP desde 30.819 €",
+   "Renault R4 E-Tech 52 kWh 2026: Maletero de 420 L: mucho más práctico que el R5",
+   "Renault R4 E-Tech 52 kWh 2026: Carga rápida de 100 kW (15-80 % en ~30 min) y 11 kW bidireccional en AC",
+   "Renault R4 E-Tech 52 kWh 2026: Remolca hasta 750 kg y lleva Extended Grip para caminos",
+   "Renault R4 E-Tech 52 kWh 2026: Etiqueta Cero y fabricado en Europa (Maubeuge)"
+  ],
+  "contras": [
+   "Renault R4 E-Tech 52 kWh 2026: Plazas traseras justas para adultos altos",
+   "Renault R4 E-Tech 52 kWh 2026: 8,5, en esta versión, s en el 0-100: correcto sin brillar",
+   "Renault R4 E-Tech 52 kWh 2026: El techo de lona opcional resta aislamiento",
+   "Renault R4 E-Tech 52 kWh 2026: La versión techno sube a 32.729 € y la Iconic a 34.639 €",
+   "Renault R4 E-Tech 52 kWh 2026:, en esta versión, 150 km/h de velocidad máxima limitada"
+  ]
+ },
+ "renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp19.ts",
+  "marca": "Renault",
+  "modelo": "R5 E-Tech 40 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R5 E-Tech 40 kWh 2026: Actualización 2026: 315 km WLTP y PVP desde 28.085 € (20.170 € con ayudas)",
+   "Renault R5 E-Tech 40 kWh 2026: 120 CV con el diseño más carismático del segmento",
+   "Renault R5 E-Tech 40 kWh 2026: Carga en continua a 80 kW y en alterna a 11 kW",
+   "Renault R5 E-Tech 40 kWh 2026: Etiqueta Cero: entra en, en esta versión, todas las ZBE sin restricciones",
+   "Renault R5 E-Tech 40 kWh 2026: Google integrado con Gemini y carga bidireccional V2L"
+  ],
+  "contras": [
+   "Renault R5 E-Tech 40 kWh 2026: 315 km se quedan justos para viajar; la de 52 kWh llega a 430 km",
+   "Renault R5 E-Tech 40 kWh 2026: Maletero de 277 L, de los pequeños del segmento",
+   "Renault R5 E-Tech 40 kWh 2026: 9,0 s en el 0-100: suficiente, sin más",
+   "Renault R5 E-Tech 40 kWh 2026: El precio con ayudas exige financiar y cumplir condiciones",
+   "Renault R5 E-Tech 40 kWh 2026: Solo 5 puertas y 5 plazas justas detrás"
+  ]
+ },
+ "renault-espace-2026-e-tech-200-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp19.ts",
+  "marca": "Renault",
+  "modelo": "Espace E-Tech 200",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Espace E-Tech 200 2026: 200 CV híbridos con 4,8 l/100 km en un, en esta versión, 7 plazas de 4,72 m",
+   "Renault Espace E-Tech 200 2026: Hasta 1.100 km de autonomía, en esta versión, con el depósito de 55 litros",
+   "Renault Espace E-Tech 200 2026: 5 o 7 plazas con banqueta deslizante y maletero de hasta 2.054 L",
+   "Renault Espace E-Tech 200 2026: Versión de acceso Techno desde 41.914 €",
+   "Renault Espace E-Tech 200 2026: Chasis 4Control Advanced en el acabado esprit Alpine"
+  ],
+  "contras": [
+   "Renault Espace E-Tech 200 2026: Con 7 plazas el, en esta versión, maletero se queda en 520 L",
+   "Renault Espace E-Tech 200 2026: Necesita 9,0 segundos para llegar a cien, así que no destaca por agilidad",
+   "Renault Espace E-Tech 200 2026: El acabado Iconic 7 plazas roza los 49.000 €",
+   "Renault Espace E-Tech 200 2026: Sin etiqueta Cero ni versión enchufable",
+   "Renault Espace E-Tech 200 2026: Tercera fila solamente apta para niños o trayectos cortos"
+  ]
+ },
+ "renault-arkana-2026-tce-140-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp19.ts",
+  "marca": "Renault",
+  "modelo": "Arkana TCe 140",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Arkana TCe 140 2026: 140 CV con microhibridación de 48, en esta versión, V y etiqueta ECO por ~30.700 €",
+   "Renault Arkana TCe 140 2026: Maletero de 513 L, de los mejores entre los SUV coupé",
+   "Renault Arkana TCe 140 2026: Consumo contenido, 5,8 litros cada 100 km en ciclo WLTP",
+   "Renault Arkana TCe 140 2026: Cambio automático EDC de 7 velocidades de serie",
+   "Renault Arkana TCe 140 2026: Diseño coupé que sigue diferenciándose en 2026"
+  ],
+  "contras": [
+   "Renault Arkana TCe 140 2026: El E-Tech full hybrid, en esta versión, de 145 CV cuesta poco más y gasta menos",
+   "Renault Arkana TCe 140 2026: Prestaciones justas: 9,8 s en el 0-100",
+   "Renault Arkana TCe 140 2026: Plazas traseras con altura limitada por, en esta versión, la caída del techo",
+   "Renault Arkana TCe 140 2026: Sin tracción total en ninguna versión",
+   "Renault Arkana TCe 140 2026: Interior con plásticos duros en zonas bajas"
+  ]
+ },
+ "renault-austral-2026-e-tech-200-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp19.ts",
+  "marca": "Renault",
+  "modelo": "Austral E-Tech 200",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Austral E-Tech 200 2026: 200 CV y 4,7 litros cada 100 km: el híbrido con mejor equilibrio del segmento C-SUV",
+   "Renault Austral E-Tech 200 2026: Restyling 2026 con nuevo frontal y acabado esprit Alpine disponible",
+   "Renault Austral E-Tech 200 2026: Maletero de 555 L con banqueta trasera deslizante",
+   "Renault Austral E-Tech 200 2026: Fabricado en España (Palencia): máxima disponibilidad de recambios",
+   "Renault Austral E-Tech 200 2026: Hasta 1.100 km de, en esta versión, autonomía con un depósito"
+  ],
+  "contras": [
+   "Renault Austral E-Tech 200 2026: Desde 36.909 €: el salto al E-Tech 200 cuesta ~3.900 € sobre el mild hybrid",
+   "Renault Austral E-Tech 200 2026: El cambio multimodo puede resultar brusco en maniobras a baja velocidad",
+   "Renault Austral E-Tech 200 2026: Sin versión 4x4 ni etiqueta Cero: solamente ECO",
+   "Renault Austral E-Tech 200 2026: La banqueta deslizante es opcional según acabado",
+   "Renault Austral E-Tech 200 2026: El Toyota RAV4 rivaliza con mejor reputación de reventa"
+  ]
+ },
+ "renault-captur-2026-tce-90-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Captur TCe 90",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Captur TCe 90 2026: El Captur más asequible: 1.0 TCe de 90 CV",
+   "Renault Captur TCe 90 2026: Maletero de 422 litros con banqueta deslizante",
+   "Renault Captur TCe 90 2026: Mantenimiento sencillo y barato",
+   "Renault Captur TCe 90 2026: Tamaño urbano ideal para el uso cotidiano",
+   "Renault Captur TCe 90 2026: Mismo diseño renovado que el resto de su gama"
+  ],
+  "contras": [
+   "Renault Captur TCe 90 2026: 90 CV con 14 s en el 0-100: muy justo",
+   "Renault Captur TCe 90 2026: Etiqueta C: el E-Tech 160 tiene ECO por poco más",
+   "Renault Captur TCe 90 2026: Consumo de 5,8 l/100 km sin hibridación",
+   "Renault Captur TCe 90 2026: En autopista cargado se queda corto",
+   "Renault Captur TCe 90 2026: Reventa peor que la de los híbridos"
+  ]
+ },
+ "renault-master-23-dci-180-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Master dCi 180",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Master dCi 180 2026: 2.3 dCi de 180 CV con 400 Nm para las rutas más exigentes",
+   "Renault Master dCi 180 2026: Hasta 2.396 kg de, en esta versión, carga útil en diésel",
+   "Renault Master dCi 180 2026: Chasis para transformaciones de todo tipo",
+   "Renault Master dCi 180 2026: Autonomía diésel sin paradas",
+   "Renault Master dCi 180 2026: Más barato que el Master E-Tech"
+  ],
+  "contras": [
+   "Renault Master dCi 180 2026: Etiqueta C frente al E-Tech con Cero",
+   "Renault Master dCi 180 2026: Consumo elevado con carga",
+   "Renault Master dCi 180 2026: Tamaño máximo para maniobrar",
+   "Renault Master dCi 180 2026: Mantenimiento de furgón pesado",
+   "Renault Master dCi 180 2026: Emisiones altas en ciudad"
+  ]
+ },
+ "renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Grand Kangoo E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Grand Kangoo E-Tech 2026: 7 plazas reales en un eléctrico familiar de 4,91 m",
+   "Renault Grand Kangoo E-Tech, en esta versión, 2026: 122 CV con 245 Nm: suficiente para uso familiar",
+   "Renault Grand Kangoo E-Tech 2026: Puertas correderas y acceso muy práctico",
+   "Renault Grand Kangoo E-Tech 2026: Etiqueta Cero con coste por km mínimo",
+   "Renault Grand Kangoo E-Tech 2026: Asientos traseros extraíbles para modular el espacio"
+  ],
+  "contras": [
+   "Renault Grand Kangoo E-Tech 2026: 285 km WLTP que se quedan cortos para viajes",
+   "Renault Grand Kangoo E-Tech 2026: Sin carga rápida potente: pensado para cargar en casa",
+   "Renault Grand Kangoo E-Tech 2026: Precio alto frente al Grand Kangoo diésel",
+   "Renault Grand Kangoo E-Tech 2026: Con 7 plazas el maletero es testimonial",
+   "Renault Grand Kangoo E-Tech 2026: Tamaño grande para aparcar en ciudad"
+  ]
+ },
+ "renault-arkana-2026-e-tech-145-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Arkana E-Tech 145",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Arkana E-Tech 145 2026: SUV coupé híbrido con consumo de 4,7, en esta versión, l/100 km",
+   "Renault Arkana E-Tech 145 2026: Autonomía total de más de 1.000, en esta versión, km con un depósito",
+   "Renault Arkana E-Tech 145 2026: Diseño coupé que sigue llamando la atención",
+   "Renault Arkana E-Tech 145 2026: Desde 33.010 €, más barato que el Austral",
+   "Renault Arkana E-Tech 145 2026: Etiqueta ECO con 105 g/km"
+  ],
+  "contras": [
+   "Renault Arkana E-Tech 145, en esta versión, 2026: 145 CV con 10,8 s en el 0-100: sin deportividad",
+   "Renault Arkana E-Tech 145 2026: Maletero de 480 litros penalizado por la batería",
+   "Renault Arkana E-Tech 145 2026: Plaza trasera con techo bajo para altos",
+   "Renault Arkana E-Tech 145 2026: Caja multimodo con tacto peculiar",
+   "Renault Arkana E-Tech 145 2026: El Austral E-Tech es más moderno por poco más"
+  ]
+ },
+ "renault-captur-2026-e-tech-160-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Captur E-Tech 160",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Captur E-Tech 160 2026: Nuevo híbrido de 160, en esta versión, CV con motor 1.8: más empuje que el 145",
+   "Renault Captur E-Tech 160 2026: Consumo de 4,4 l/100, en esta versión, km y únicamente 99 g/km de CO2",
+   "Renault Captur E-Tech 160 2026: Desde 27.110 € con etiqueta ECO",
+   "Renault Captur E-Tech 160 2026: 8,9 s en el 0-100: el Captur híbrido más rápido",
+   "Renault Captur E-Tech 160 2026: Caja multimodo sin embrague, muy suave en ciudad"
+  ],
+  "contras": [
+   "Renault Captur E-Tech 160 2026: Maletero de 326 litros, justo para familias",
+   "Renault Captur E-Tech 160 2026: El 1.8 tricilíndrico suena a alto régimen",
+   "Renault Captur E-Tech 160 2026: Banqueta trasera deslizante que resta maletero",
+   "Renault Captur E-Tech 160 2026: Sin versión enchufable",
+   "Renault Captur E-Tech 160 2026: El Symbioz ofrece más espacio por poco más"
+  ]
+ },
+ "renault-master-e-tech-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Master E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Master E-Tech 2026: Batería de 87 kWh con hasta 460 km WLTP: el furgón grande con más autonomía",
+   "Renault Master E-Tech 2026: 140 CV y 300 Nm con carga rápida de 130 kW",
+   "Renault Master E-Tech 2026: Concepto Aerovan: un 20 % menos de resistencia aerodinámica",
+   "Renault Master E-Tech 2026: 1.625 kg de carga útil y 2,5 toneladas de remolque",
+   "Renault Master E-Tech 2026: Etiqueta Cero para logística urbana"
+  ],
+  "contras": [
+   "Renault Master E-Tech 2026: Precio muy superior al Master diésel",
+   "Renault Master E-Tech 2026: La batería resta carga, en esta versión, útil frente al diésel (2.396 kg)",
+   "Renault Master E-Tech 2026: Tamaño máximo para ciudad",
+   "Renault Master E-Tech 2026: Autonomía real menor con carga completa",
+   "Renault Master E-Tech 2026: Versión de 40 kWh con únicamente unos 200 km"
+  ]
+ },
+ "renault-espace-2025-e-tech-200-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "Espace E-Tech 200",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Espace E-Tech 200 2025: Híbrido de 199 CV con consumo de solamente 4,8 l/100 km",
+   "Renault Espace E-Tech 200 2025: Desde 40.284 €: el SUV grande híbrido más asequible",
+   "Renault Espace E-Tech 200 2025: Maletero de 581 litros en versión de 5 plazas",
+   "Renault Espace E-Tech 200 2025: Versión de 7 plazas disponible para familias numerosas",
+   "Renault Espace E-Tech 200 2025: Etiqueta ECO con 108 g/km de CO2"
+  ],
+  "contras": [
+   "Renault Espace E-Tech 200, en esta versión, 2025: 199 CV con 8,8 s en el 0-100: sin deportividad",
+   "Renault Espace E-Tech 200 2025: Con 7 plazas el maletero baja a 477 litros",
+   "Renault Espace E-Tech 200 2025: Caja multimodo con tacto peculiar al principio",
+   "Renault Espace E-Tech 200 2025: Sin versión enchufable con etiqueta Cero",
+   "Renault Espace E-Tech 200 2025: El Austral E-Tech comparte mecánica por menos dinero"
+  ]
+ },
+ "renault-5-turbo-3e-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-exp8.ts",
+  "marca": "Renault",
+  "modelo": "5 Turbo 3E",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault 5 Turbo 3E 2026: 540 CV con dos motores en las ruedas traseras: el Renault con más potencia de la historia",
+   "Renault 5 Turbo 3E 2026: 0-100 en 3,5 s y 270 km/h de máxima",
+   "Renault 5 Turbo 3E 2026: Arquitectura de 800 V con, en esta versión, carga de 350 kW (15-80 % en 15 minutos)",
+   "Renault 5 Turbo 3E 2026: Carrocería de carbono y únicamente 1.450 kg",
+   "Renault 5 Turbo 3E 2026: Serie limitada a 1.980 unidades numeradas: futuro clásico"
+  ],
+  "contras": [
+   "Renault 5 Turbo 3E 2026: Precio desde 155.000 €: juguete para coleccionistas",
+   "Renault 5 Turbo 3E 2026: Biplaza sin maletero útil: cero practicidad diaria",
+   "Renault 5 Turbo 3E 2026: Autonomía de unos 400 km que vuela con conducción deportiva",
+   "Renault 5 Turbo 3E 2026: Entregas a partir de 2027: hay que esperar",
+   "Renault 5 Turbo 3E 2026: Mantenimiento y seguro de superdeportivo"
+  ]
+ },
+ "ram-1500-ramcharger-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-lote13.ts",
+  "marca": "Ram",
+  "modelo": "1500 Ramcharger",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Ram 1500 Ramcharger 2026: 1.110 km de autonomía total: 233 km eléctricos + V6 generador",
+   "Ram 1500 Ramcharger 2026: 660 CV y 830 Nm, y de parado a cien en 4,5 segundos",
+   "Ram 1500 Ramcharger 2026: Remolque de 6.350 kg y 1.191 kg de carga útil",
+   "Ram 1500 Ramcharger 2026: V2H de 7,2 kW: alimenta, en esta versión, una casa durante 11 días",
+   "Ram 1500 Ramcharger 2026: Carga rápida de 177 kW (20-80 % en 45 minutos)"
+  ],
+  "contras": [
+   "Ram 1500 Ramcharger 2026: Precio aún estimado: sin tarifa oficial publicada",
+   "Ram 1500 Ramcharger 2026: Llegada prevista en 2026 con demoras ya anunciadas",
+   "Ram 1500 Ramcharger 2026: Sin previsión de venta en Europa",
+   "Ram 1500 Ramcharger 2026: Complejidad técnica: motor eléctrico + V6 generador",
+   "Ram 1500 Ramcharger 2026: Peso y consumo pendientes de confirmar"
+  ]
+ },
+ "renault-boreal-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-lote3.ts",
+  "marca": "Renault",
+  "modelo": "Boreal",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Boreal 2026: SUV de 4,55 m, en esta versión, pensado para Latinoamérica",
+   "Renault Boreal 2026: Motor 1.3 TCe de 163, en esta versión, CV con cambio DCT",
+   "Renault Boreal 2026: Diseño inspirado en el Bigster/Duster",
+   "Renault Boreal 2026: Precio competitivo en México (~28.000 €)",
+   "Renault Boreal 2026: Buen maletero familiar"
+  ],
+  "contras": [
+   "Renault Boreal 2026: No se vende en, en esta versión, España ni en Europa",
+   "Renault Boreal 2026: Solo gasolina: sin versión híbrida confirmada",
+   "Renault Boreal 2026: Tracción delantera únicamente",
+   "Renault Boreal 2026: Etiqueta C",
+   "Renault Boreal 2026: Sin datos EuroNCAP"
+  ]
+ },
+ "renault-kwid-e-tech-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-lote5.ts",
+  "marca": "Renault",
+  "modelo": "Kwid E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Kwid E-Tech 2025: El eléctrico más barato de Renault: desde ~17.000 € en Brasil",
+   "Renault Kwid E-Tech 2025: 230 km de autonomía real con una batería de 26,8 kWh",
+   "Renault Kwid E-Tech 2025: 65 CV y 113 Nm: suficiente para la ciudad",
+   "Renault Kwid E-Tech 2025: Maletero de 290 litros, correcto para su tamaño",
+   "Renault Kwid E-Tech 2025: Con la insignia Renault: red de servicio en Latinoamérica"
+  ],
+  "contras": [
+   "Renault Kwid E-Tech 2025: No se vende en Europa: únicamente Latinoamérica",
+   "Renault Kwid E-Tech 2025: 0-100 en 14,6 segundos: paciencia en los semáforos",
+   "Renault Kwid E-Tech 2025: Sin carga rápida en corriente continua",
+   "Renault Kwid E-Tech 2025: Interior espartano de coche low-cost",
+   "Renault Kwid E-Tech 2025: En Europa su hueco lo, en esta versión, ocupa el Dacia Spring"
+  ]
+ },
+ "ram-1500-rev-2026-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-lote5.ts",
+  "marca": "Ram",
+  "modelo": "1500 REV",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Ram 1500 REV 2026: 647 CV con extensor de autonomía: el pick-up electrificado definitivo",
+   "Ram 1500 REV 2026: 233 km en modo 100 % eléctrico con la batería de 92 kWh",
+   "Ram 1500 REV 2026: Más de 1.100 km de, en esta versión, autonomía total con el V6 Pentastar como generador",
+   "Ram 1500 REV 2026: El BEV original se canceló: este EREV es su sustituto oficial",
+   "Ram 1500 REV 2026: Capacidad de remolque de hasta 6.350 kg"
+  ],
+  "contras": [
+   "Ram 1500 REV 2026: El Ram 1500 REV 100 % eléctrico fue, en esta versión, CANCELADO en septiembre de 2025",
+   "Ram 1500 REV 2026: Lanzamiento retrasado a mediados de 2027",
+   "Ram 1500 REV 2026: Precio aún sin anunciar por Ram",
+   "Ram 1500 REV 2026: No se venderá en Europa",
+   "Ram 1500 REV 2026: Un V6 de gasolina como generador: la solución es un parche, no un BEV"
+  ]
+ },
+ "renault-espace-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos-c3.ts",
+  "marca": "Renault",
+  "modelo": "Espace 2024",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Espace 2024: Hasta 7 plazas reales en 4,72 m: el familiar grande de Renault",
+   "Renault Espace 2024: Híbrido E-Tech de 200 CV con solamente 4,7 l/100 km homologados",
+   "Renault Espace 2024: Etiqueta ECO y maletero de 581 L en configuración de 5 plazas",
+   "Renault Espace 2024: Interior modular con asientos traseros escamoteables",
+   "Renault Espace 2024: Confort de marcha excelente para viajes largos"
+  ],
+  "contras": [
+   "Renault Espace 2024: Precio elevado: desde ~43.500 €",
+   "Renault Espace 2024: Solo disponible como híbrido (sin diésel ni PHEV)",
+   "Renault Espace 2024: La tercera fila, solamente para niños o trayectos cortos",
+   "Renault Espace 2024: Sin prueba Euro NCAP independiente de esta generación",
+   "Renault Espace 2024: Menos carisma que el Espace monovolumen original"
+  ]
+ },
+ "renault-megane-e-tech-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos-c3.ts",
+  "marca": "Renault",
+  "modelo": "Megane E-Tech 2025",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Megane E-Tech 2025: Diseño rompedor: el compacto eléctrico más bonito para muchos",
+   "Renault Megane E-Tech 2025: 220 CV y 300 Nm: prestaciones de GTI con etiqueta CERO",
+   "Renault Megane E-Tech 2025: Interior con Google integrado de serie: el mejor sistema del segmento",
+   "Renault Megane E-Tech 2025: Consumo eficiente: 15,5 kWh/100 km homologados",
+   "Renault Megane E-Tech 2025: Chasis muy bien puesto a punto: divertido en curvas"
+  ],
+  "contras": [
+   "Renault Megane E-Tech 2025: Autonomía de 450 km justita frente a rivales con 500+ km",
+   "Renault Megane E-Tech 2025: Maletero de 440 L, mejorable para un familiar",
+   "Renault Megane E-Tech 2025: Carga rápida de 130 kW, por debajo de los coreanos",
+   "Renault Megane E-Tech 2025: Precio alto: desde ~37.500 € en la, en esta versión, versión de 60 kWh",
+   "Renault Megane E-Tech 2025: Plazas traseras justas para adultos altos"
+  ]
+ },
+ "renault-kangoo-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos-c3.ts",
+  "marca": "Renault",
+  "modelo": "Kangoo 2025",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Kangoo 2025: El monovolumen familiar por excelencia: puertas laterales correderas",
+   "Renault Kangoo 2025: Maletero de 775 L y techo alto: cabe de todo",
+   "Renault Kangoo 2025: Versión E-Tech eléctrica con etiqueta CERO disponible",
+   "Renault Kangoo 2025: Interior modular con asientos traseros independientes y abatibles",
+   "Renault Kangoo 2025: Ideal para familias numerosas, mascotas y sillas de niño"
+  ],
+  "contras": [
+   "Renault Kangoo 2025: Estética de furgoneta: no es un coche para presumir",
+   "Renault Kangoo 2025: Consumo algo alto en el TCe de 130 CV (6,4 l/100 km)",
+   "Renault Kangoo 2025: Comportamiento dinámico limitado: es un derivado de comercial",
+   "Renault Kangoo 2025: Precio elevado frente a un SUV del mismo tamaño",
+   "Renault Kangoo 2025: Equipamiento tecnológico por detrás de los turismos"
+  ]
+ },
+ "renault-captur-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos-c3.ts",
+  "marca": "Renault",
+  "modelo": "Captur 2025",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Captur 2025: Diseño del restyling 2024 muy logrado: de los B-SUV más atractivos",
+   "Renault Captur 2025: Precio ajustado: desde ~21.500 € con el, en esta versión, TCe de 90 CV",
+   "Renault Captur 2025: Interior espacioso para 4,24 m con banqueta trasera deslizante",
+   "Renault Captur 2025: Gama completa: gasolina, GLP, híbrido E-Tech 145 y PHEV",
+   "Renault Captur 2025: Buen compromiso confort/comportamiento en carretera"
+  ],
+  "contras": [
+   "Renault Captur 2025: El TCe de 90 CV, justo si se viaja cargado",
+   "Renault Captur 2025: Maletero variable según versión (el híbrido pierde capacidad)",
+   "Renault Captur 2025: Calidades interiores mejorables en zonas bajas",
+   "Renault Captur 2025: El E-Tech 145 sube mucho de precio frente al gasolina",
+   "Renault Captur 2025: Infoentretenimiento correcto pero sin alardes"
+  ]
+ },
+ "range-rover-electric-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos-c5.ts",
+  "marca": "Land Rover",
+  "modelo": "Range Rover Electric 2025",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Land Rover Range Rover Electric 2025: 600 km de autonomía WLTP:, en esta versión, la mayor de un Range Rover eléctrico hasta la fecha",
+   "Land Rover Range Rover Electric 2025: 550 CV y 850 Nm con tracción total. De parado a cien en cuatro segundos y medio",
+   "Land Rover Range Rover Electric 2025: Carga a 350 kW con arquitectura de 800 voltios: del 10 al 80 % en 22 minutos",
+   "Land Rover Range Rover Electric 2025: Conserva sus capacidades todoterreno: puede vadear 900 mm y subir pendientes de hasta 45 grados",
+   "Land Rover Range Rover Electric 2025: Garantía oficial de la batería de, en esta versión, 8 años o 160.000 km"
+  ],
+  "contras": [
+   "Land Rover Range Rover Electric 2025: 163.250 € de partida: el eléctrico más caro de su segmento",
+   "Land Rover Range Rover Electric 2025: Primer eléctrico puro de JLR: sin, en esta versión, historial de fiabilidad a largo plazo",
+   "Land Rover Range Rover Electric 2025: Sin prueba EuroNCAP específica de la versión eléctrica",
+   "Land Rover Range Rover Electric 2025: La autonomía real estimada por la propia JLR baja a 535 km",
+   "Land Rover Range Rover Electric 2025: Peso y maletero definitivos aún sin publicar por la marca"
+  ]
+ },
+ "renault-austral-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos.ts",
+  "marca": "Renault",
+  "modelo": "Austral",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Austral 2024: Consumo de 4,5 l/100 km con 200 CV y etiqueta ECO",
+   "Renault Austral 2024: Dirección en las cuatro ruedas 4Control: agilidad en ciudad y aplomo en carretera",
+   "Renault Austral 2024: Fabricado en España (Palencia)",
+   "Renault Austral 2024: Interior de gran calidad percibida para un generalista",
+   "Renault Austral 2024: Banqueta trasera deslizante y maletero modulable"
+  ],
+  "contras": [
+   "Renault Austral 2024: El cambio multimodo puede resultar brusco en maniobras",
+   "Renault Austral 2024: Motor tricilíndrico 1.2 ruidoso a alto régimen",
+   "Renault Austral 2024: Sin versión híbrida enchufable ni 7 plazas",
+   "Renault Austral 2024: Maletero de 430 L con la banqueta retrasada, justo para el segmento",
+   "Renault Austral 2024: Precio menos rompedor que el de un Captur o un Duster"
+  ]
+ },
+ "renault-5-e-tech-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-nuevos.ts",
+  "marca": "Renault",
+  "modelo": "5 E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault 5 E-Tech 2024: Diseño icónico que recupera el espíritu del R5 original",
+   "Renault 5 E-Tech 2024: Desde 26.821 €: de los eléctricos europeos más asequibles",
+   "Renault 5 E-Tech 2024: Etiqueta CERO: acceso total a las ZBE",
+   "Renault 5 E-Tech 2024: Carga rápida de hasta 100 kW en la versión de 150 CV",
+   "Renault 5 E-Tech 2024: Fabricado en Francia con Google integrado de serie"
+  ],
+  "contras": [
+   "Renault 5 E-Tech 2024: La versión de acceso (95 CV) no admite carga rápida en DC",
+   "Renault 5 E-Tech 2024: Autonomía de 315 km en la versión de 40 kWh, justa para viajar",
+   "Renault 5 E-Tech 2024: Maletero de 277 L, de los más pequeños del segmento",
+   "Renault 5 E-Tech 2024: El cargador AC de, en esta versión, 22 kW es opcional y caro",
+   "Renault 5 E-Tech 2024: Plazas traseras justas para adultos"
+  ]
+ },
+ "renault-captur-e-tech-145": {
+  "file": "src/lib/comparador-coches-nuevos.ts",
+  "marca": "Renault",
+  "modelo": "Captur E-Tech 145",
+  "pros_nuevos": 3,
+  "contras_nuevos": 2,
+  "pros": [
+   "Renault Captur E-Tech 145: Híbrido completo con etiqueta ECO y consumo de 4,6, en esta versión, l/100 km",
+   "Renault Captur E-Tech 145: Banqueta trasera deslizante para modular el maletero",
+   "Renault Captur E-Tech 145: Fabricado en España (Valladolid)"
+  ],
+  "contras": [
+   "Renault Captur E-Tech 145: Maletero de 326 litros en versión híbrida, reducido",
+   "Renault Captur E-Tech 145: Cambio automático con funcionamiento peculiar a baja velocidad"
+  ]
+ },
+ "renault-clio-e-tech-145": {
+  "file": "src/lib/comparador-coches-nuevos.ts",
+  "marca": "Renault",
+  "modelo": "Clio E-Tech 145",
+  "pros_nuevos": 3,
+  "contras_nuevos": 2,
+  "pros": [
+   "Renault Clio E-Tech 145: Híbrido con etiqueta ECO desde 22.190 €, de los más asequibles",
+   "Renault Clio E-Tech 145: Consumo de 4,2 l/100 km, ideal para ciudad",
+   "Renault Clio E-Tech 145: Uno de los utilitarios con más unidades vendidass en España"
+  ],
+  "contras": [
+   "Renault Clio E-Tech 145: Maletero de 254 litros, el más pequeño de su segmento",
+   "Renault Clio E-Tech 145: La batería del sistema híbrido resta espacio de carga"
+  ]
+ },
+ "radical-rxc-spyder-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-radical.ts",
+  "marca": "Radical",
+  "modelo": "RXC Spyder",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Radical RXC Spyder 2025: 654 CV a cielo abierto: el descapotable más extremo de Radical",
+   "Radical RXC Spyder 2025: Solo 1.010 kg en vacío: 647 CV por cada tonelada",
+   "Radical RXC Spyder 2025: Récord de su clase en pista en Silverstone (1:59)",
+   "Radical RXC Spyder 2025: Sensaciones de prototipo de Le Mans en cada vuelta al circuito",
+   "Radical RXC Spyder 2025: Carácter exclusivo total: fabricación extremadamente reducida"
+  ],
+  "contras": [
+   "Radical RXC Spyder 2025: Tarifa nueva aún sin publicar: exige pedir presupuesto",
+   "Radical RXC Spyder 2025: Sin techo: casco obligatorio y nula protección contra la lluvia",
+   "Radical RXC Spyder 2025: Mantenimiento de coche de competición pura",
+   "Radical RXC Spyder 2025: Sin etiqueta ambiental DGT: fuera de las ZBE",
+   "Radical RXC Spyder 2025: El RXC coupé ofrece más potencia (719 CV) y techo"
+  ]
+ },
+ "radical-rxc-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-radical.ts",
+  "marca": "Radical",
+  "modelo": "RXC",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Radical RXC 2025: 719 CV: el Radical de producción con más potencia de su gama",
+   "Radical RXC 2025: V6 3.5 biturbo Ford, en esta versión, EcoBoost preparado por RPE, probado y fiable",
+   "Radical RXC 2025: Coupé cerrado con puertas de tijera: se puede usar con lluvia",
+   "Radical RXC 2025: Récord de su clase en pista en Silverstone (1:59)",
+   "Radical RXC 2025: Matriculable para carretera en numerosos países"
+  ],
+  "contras": [
+   "Radical RXC 2025: Tarifa nueva aún sin publicar: obliga a solicitar presupuesto",
+   "Radical RXC 2025: 1.130 kg: pesa casi el doble que un SR3 XXR",
+   "Radical RXC 2025: Consumo y mantenimiento propios de un superdeportivo",
+   "Radical RXC 2025: Sin distintivo ambiental DGT: sin acceso a las ZBE",
+   "Radical RXC 2025: Unidades muy escasas y lista de espera"
+  ]
+ },
+ "radical-sr10-xxr-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-radical.ts",
+  "marca": "Radical",
+  "modelo": "SR10 XXR",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Radical SR10 XXR 2025: 425 CV con solamente 725 kg: 586 CV por cada tonelada, el Radical abierto de mayor potencia",
+   "Radical SR10 XXR 2025: Acelera de parado a cien en 2,4 segundos y alcanza 290 km/h de velocidad máxima",
+   "Radical SR10 XXR 2025: Récord de su clase en pista en Silverstone (1:58)",
+   "Radical SR10 XXR 2025: Motor Ford 2.3 turbo preparado por RPE: fiable y con repuestos accesibles",
+   "Radical SR10 XXR 2025: Hasta 450 kg de carga aerodinámica y chasis de competición real"
+  ],
+  "contras": [
+   "Radical SR10 XXR 2025: Precio muy elevado para un biplaza sin techo (desde ~154.700 €)",
+   "Radical SR10 XXR 2025: Mantenimiento propio de la competición: el motor turbo exige revisiones estrictas",
+   "Radical SR10 XXR 2025: Sin ayudas electrónicas: reservado a pilotos con experiencia",
+   "Radical SR10 XXR 2025: Sin etiqueta ambiental DGT: no puede circular por las ZBE",
+   "Radical SR10 XXR 2025: El RXC ofrece techo y 719 CV si buscas el máximo"
+  ]
+ },
+ "radical-sr3-xxr-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-radical.ts",
+  "marca": "Radical",
+  "modelo": "SR3 XXR",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Radical SR3 XXR 2025: 232 CV y 620 kg: 374 CV por tonelada de peso, récord de su clase en pista en Silverstone (2:02)",
+   "Radical SR3 XXR 2025: El Radical el más vendido hasta ahora de la historia: más de 3.000 unidades fabricadas",
+   "Radical SR3 XXR 2025: Motor RPE Gen5 de 1.500 cc preparado para funcionar con biocombustible",
+   "Radical SR3 XXR 2025: Copas Radical en 12 países: la mejor escuela de pilotaje que existe",
+   "Radical SR3 XXR 2025: Récord absoluto de Rockingham (1:08.71), 5 s más rápido que el anterior"
+  ],
+  "contras": [
+   "Radical SR3 XXR 2025: Precio de superdeportivo por un coche sin techo ni maletero",
+   "Radical SR3 XXR 2025: Mantenimiento y consumibles de competición pura",
+   "Radical SR3 XXR 2025: Inútil como coche de uso diario: austero y ruidoso",
+   "Radical SR3 XXR 2025: Sin etiqueta ambiental DGT: fuera de las ZBE",
+   "Radical SR3 XXR 2025: El SR10 XXR ofrece prácticamente el doble de potencia con un desembolso mayor"
+  ]
+ },
+ "radical-sr1-xxr-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-radical.ts",
+  "marca": "Radical",
+  "modelo": "SR1 XXR",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Radical SR1 XXR 2025: 188 CV y solamente 510 kg: 369 CV por tonelada de peso, cifras propias de un prototipo",
+   "Radical SR1 XXR 2025: La puerta de entrada más asequible al mundo de las carreras de prototipos",
+   "Radical SR1 XXR 2025: Copa monomarca SR1 con parrillas llenas en distintos países",
+   "Radical SR1 XXR 2025: Mecánica sencilla (RPE Gen5 de 1.340 cc): reparaciones baratas",
+   "Radical SR1 XXR 2025: 2:11 en Silverstone, a la altura de superdeportivos mucho más costosos"
+  ],
+  "contras": [
+   "Radical SR1 XXR 2025: Coche pensado únicamente para circuito: uso por carretera muy restringido",
+   "Radical SR1 XXR 2025: Sin techo, sin maletero y sin confort alguno",
+   "Radical SR1 XXR 2025: Mantenimiento propio de la competición: revisiones y consumibles costosos",
+   "Radical SR1 XXR 2025: Sin etiqueta ambiental DGT: no puede acceder a las ZBE",
+   "Radical SR1 XXR 2025: Reventa limitada a un mercado de nicho muy reducido"
+  ]
+ },
+ "renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Austral mild hybrid 160",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Austral mild hybrid 160 2024: 31.160 €: el SUV medio de Renault",
+   "Renault Austral mild hybrid 160 2024: 158 CV con etiqueta ECO",
+   "Renault Austral mild hybrid 160 2024: El Austral más accesible",
+   "Renault Austral mild hybrid 160 2024: Alternativa al E-Tech 200",
+   "Renault Austral mild hybrid 160 2024: 5 plazas y gran habitabilidad"
+  ],
+  "contras": [
+   "Renault Austral mild hybrid 160 2024: Datos técnicos sin publicar en esta ficha",
+   "Renault Austral mild hybrid 160 2024: El E-Tech full hybrid, en esta versión, es más eficiente",
+   "Renault Austral mild hybrid 160 2024: El 48V no circula en eléctrico",
+   "Renault Austral mild hybrid 160 2024:, en esta versión, 31.160 € de partida",
+   "Renault Austral mild hybrid 160 2024: Rivales con más maletero publicado"
+  ]
+ },
+ "renault-clio-vi-tce-115-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Clio VI TCe 115",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Clio VI TCe 115 2025: 18.900 €: el Clio más barato de toda la gama",
+   "Renault Clio VI TCe 115 2025: 115 CV, en esta versión, y 190 Nm por poco dinero",
+   "Renault Clio VI TCe 115 2025: 5,0 l/100 km",
+   "Renault Clio VI TCe 115 2025: 1.230 kg: ligero y ágil",
+   "Renault Clio VI TCe 115 2025: El urbano francés de referencia"
+  ],
+  "contras": [
+   "Renault Clio VI TCe 115 2025: Etiqueta C",
+   "Renault Clio VI TCe 115 2025: 10,3 s de 0-100",
+   "Renault Clio VI TCe 115 2025: Maletero de 309 L",
+   "Renault Clio VI TCe 115 2025: El E-Tech de 160 CV es, en esta versión, mejor pero más caro",
+   "Renault Clio VI TCe 115 2025: Acabado de acceso, equipamiento justo"
+  ]
+ },
+ "renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Kangoo Combi Blue dCi 95",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Kangoo Combi Blue dCi 95 2024: 27.588 €: la furgoneta familiar más racional",
+   "Renault Kangoo Combi Blue dCi 95 2024: 5,1 l/100, en esta versión, km con 260 Nm",
+   "Renault Kangoo Combi Blue dCi 95 2024: Maletero de 517 L",
+   "Renault Kangoo Combi Blue dCi 95 2024: Puertas laterales deslizantes",
+   "Renault Kangoo Combi Blue dCi 95 2024: El diésel honesto que queda"
+  ],
+  "contras": [
+   "Renault Kangoo Combi Blue dCi 95 2024: 95 CV: sin prisas",
+   "Renault Kangoo Combi Blue dCi 95 2024: Etiqueta C",
+   "Renault Kangoo Combi Blue dCi 95 2024: 0-100 y velocidad sin, en esta versión, publicar en esta ficha",
+   "Renault Kangoo Combi Blue dCi 95 2024: Interior de furgoneta, sin lujos",
+   "Renault Kangoo Combi Blue dCi 95 2024:, en esta versión, El E-Tech eléctrico cuesta mucho más"
+  ]
+ },
+ "renault-captur-e-tech-145-2024-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Captur E-Tech 145",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Captur E-Tech 145 2024: 26.676 €: el B-SUV híbrido el más vendido hasta ahora",
+   "Renault Captur E-Tech 145 2024: 4,6 l/100 km y, en esta versión, 103 g/km",
+   "Renault Captur E-Tech 145 2024: 143 CV con etiqueta ECO",
+   "Renault Captur E-Tech 145 2024: El híbrido que no necesita enchufe",
+   "Renault Captur E-Tech 145 2024: Banqueta trasera deslizante"
+  ],
+  "contras": [
+   "Renault Captur E-Tech 145 2024: 10,6 s de 0-100:, en esta versión, sin pretensiones",
+   "Renault Captur E-Tech 145 2024: Maletero de 326 L, justo",
+   "Renault Captur E-Tech 145 2024: El cambio automático e-CVT, en esta versión, no es para deportivos",
+   "Renault Captur E-Tech 145 2024: Par motor sin publicar en esta ficha",
+   "Renault Captur E-Tech 145 2024: La versión 2024 convive con el restyling"
+  ]
+ },
+ "renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "R4 E-Tech 40 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R4 E-Tech 40 kWh 2025: 28.731 €: el 4L, en esta versión, eléctrico del siglo XXI",
+   "Renault R4 E-Tech 40 kWh 2025: Maletero de 375 L, mucho más, en esta versión, práctico que el R5",
+   "Renault R4 E-Tech 40 kWh 2025: 308 km WLTP",
+   "Renault R4 E-Tech 40 kWh 2025: Diseño neo-retro con techo, en esta versión, de lona opcional",
+   "Renault R4 E-Tech 40 kWh 2025: Etiqueta Cero"
+  ],
+  "contras": [
+   "Renault R4 E-Tech 40 kWh 2025: 9,2 s de 0-100",
+   "Renault R4 E-Tech 40 kWh 2025: Carga rápida de 80 kW",
+   "Renault R4 E-Tech 40 kWh 2025: 150 km/h de máxima",
+   "Renault R4 E-Tech 40 kWh 2025: Más caro que el, en esta versión, R5 con la misma mecánica",
+   "Renault R4 E-Tech 40 kWh 2025: 1.485 kg"
+  ]
+ },
+ "renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "R5 E-Tech 40 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R5 E-Tech 40 kWh 2025: Coche del Año en Europa 2025, título compartido con el Alpine A290 sobre la misma plataforma AmpR Small",
+   "Renault R5 E-Tech 40 kWh 2025: Versión Urban Range de acceso: 122 CV, 225 Nm y 312 km WLTP por los 26.821 € de esta ficha",
+   "Renault R5 E-Tech 40 kWh 2025: Nace en Douai, en la planta Ampere ElectriCity que superó las 100.000 unidades del modelo en 15 meses",
+   "Renault R5 E-Tech 40 kWh 2025: Solo 1.447 kg y 3,92 m de largo: agilidad de urbano clásico con etiqueta Cero de la DGT",
+   "Renault R5 E-Tech 40 kWh 2025: En continua admite 80 kW y pasa del 15 al 80 % en, en esta versión, unos 30 minutos, suficiente para escapadas cortas"
+  ],
+  "contras": [
+   "Renault R5 E-Tech 40 kWh 2025: Euro NCAP lo dejó en 4 estrellas en 2024: las asistencias sacaron un 68 %, bajo el umbral de la quinta",
+   "Renault R5 E-Tech 40 kWh 2025: Viajar ligero es obligado: 277 litros de maletero en un coche pensado sobre todo para ciudad",
+   "Renault R5 E-Tech 40 kWh 2025: Carga rápida de 80 kW, por debajo de los 100 kW que ofrece la batería grande de 52 kWh",
+   "Renault R5 E-Tech 40 kWh 2025: Quien necesite los 430 km WLTP del 52 kWh paga desde 31.085 €, unos 4.300 € más que esta versión",
+   "Renault R5 E-Tech 40 kWh 2025: Desde parado tarda 9,0 segundos en alcanzar los 100 km/h, con la punta limitada a 150 km/h"
+  ]
+ },
+ "renault-captur-2024-tce-90-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Captur TCe 90",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Captur TCe 90 2024: El SUV urbano más barato de Renault: desde 22.129 €",
+   "Renault Captur TCe 90 2024: Motor 1.0 TCe de, en esta versión, 91 CV con 5,8 l/100 km",
+   "Renault Captur TCe 90 2024: Restyling 2024 con frontal nuevo y Google integrado",
+   "Renault Captur TCe 90 2024: Banqueta trasera deslizante y maletero de 422 L",
+   "Renault Captur TCe 90 2024: Cambio manual de 6 marchas sencillo y fiable"
+  ],
+  "contras": [
+   "Renault Captur TCe 90 2024: Etiqueta C: la única motorización sin ECO de su gama",
+   "Renault Captur TCe 90 2024: 14,3 s de 0-100: el Captur más lento",
+   "Renault Captur TCe 90 2024: 91 CV justos con el coche cargado",
+   "Renault Captur TCe 90 2024: Sin automático en esta versión",
+   "Renault Captur TCe 90 2024: Por poco más está el E-Tech 145 con etiqueta ECO"
+  ]
+ },
+ "renault-4-e-tech-52-kwh-2025-precio-autonomia": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "R4 E-Tech 52 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R4 E-Tech 52 kWh 2025: El 4L reinventado: SUV eléctrico práctico con 408 km WLTP",
+   "Renault R4 E-Tech 52 kWh 2025: Maletero de 375 L, mucho más útil que el del R5",
+   "Renault R4 E-Tech 52 kWh 2025: 150 CV con 245 Nm: ágil y divertido",
+   "Renault R4 E-Tech 52 kWh 2025: Techo de lona practicable opcional, guiño al original",
+   "Renault R4 E-Tech 52 kWh 2025: Desde 31.596 €: el familiar eléctrico con encanto"
+  ],
+  "contras": [
+   "Renault R4 E-Tech 52 kWh 2025: 8,2 s de 0-100: menos vivo que el R5",
+   "Renault R4 E-Tech 52 kWh 2025:, en esta versión, 150 km/h de máxima",
+   "Renault R4 E-Tech 52 kWh 2025: Acabados sencillos en las versiones de acceso",
+   "Renault R4 E-Tech 52 kWh 2025: Sin tracción total",
+   "Renault R4 E-Tech 52 kWh 2025: La autonomía real en invierno baja de 300 km"
+  ]
+ },
+ "renault-5-e-tech-52-kwh-2025-precio-autonomia": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "R5 E-Tech 52 kWh",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R5 E-Tech 52 kWh 2025: Es la variante Comfort Range: 430 km WLTP homologados en la web española de Renault, frente a los 312 km de la Urban Range de 40 kWh",
+   "Renault R5 E-Tech 52 kWh 2025: Premio Car of the Year 2025, galardón que compartió con el Alpine A290, su derivado deportivo sobre la base AmpR Small",
+   "Renault R5 E-Tech 52 kWh 2025: La unidad número 100.000 fabricada en Douai fue un Techno con esta batería de 52 kWh, la combinación más demandada de su gama",
+   "Renault R5 E-Tech 52 kWh 2025: Recupera del 15 al 80 % en una parada de media hora en corriente continua, donde acepta picos de 100 kW; en alterna, su cargador bidireccional de 11 kW permite V2L",
+   "Renault R5 E-Tech 52 kWh 2025: 150 CV y 245 Nm para mover 1.526 kg en 3,92 m de carrocería: por eso cierra el 0-100 en 8,0 segundos sin ser un deportivo"
+  ],
+  "contras": [
+   "Renault R5 E-Tech 52 kWh 2025: Cuatro estrellas Euro NCAP en 2024 y no cinco: las asistencias se quedaron en un 68 %, bajo el umbral del 70 % exigido para la máxima nota, y no hay airbag central delantero",
+   "Renault R5 E-Tech 52 kWh 2025:, en esta versión, La segunda fila es su punto más débil en las pruebas: batalla corta, suelo elevado que obliga a flexionar las piernas y banqueta pensada para dos, no para tres",
+   "Renault R5 E-Tech 52 kWh 2025: 277 litros de maletero con umbral de carga alto, a unos 78 cm del suelo según las mediciones de prensa, y sin hueco delantero para guardar los cables",
+   "Renault R5 E-Tech 52 kWh 2025: Hay que pagar 31.085 € por esta batería: son 4.264 € más que los 26.821 € de la versión de 40 kWh de la misma gama",
+   "Renault R5 E-Tech 52 kWh 2025: Techo de potencia dentro del propio R5: con 150 CV no hay una versión más rápida; el salto prestacional obliga a irse al Alpine A290, que ya es otra tarifa"
+  ]
+ },
+ "renault-5-e-tech-roland-garros-2025-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "R5 E-Tech Roland-Garros",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault R5 E-Tech Roland-Garros 2025: Edición especial Roland-Garros: la más exclusiva del R5",
+   "Renault R5 E-Tech Roland-Garros 2025: 52 kWh con 410 km WLTP y carga de 100 kW",
+   "Renault R5 E-Tech Roland-Garros 2025: Detalles en blanco perla y gris arcilla inspirados en el tenis",
+   "Renault R5 E-Tech Roland-Garros 2025: 150 CV con 0-100 en 8 s: ágil en ciudad y carretera",
+   "Renault R5 E-Tech Roland-Garros 2025: Techo panorámico y tapicería específica de la serie"
+  ],
+  "contras": [
+   "Renault R5 E-Tech Roland-Garros 2025: 36.400 €: la serie especial se paga",
+   "Renault R5 E-Tech Roland-Garros 2025: Maletero de 277 L, justo para viajar",
+   "Renault R5 E-Tech Roland-Garros 2025: Solo 5 plazas y batalla corta",
+   "Renault R5 E-Tech Roland-Garros 2025: La exclusividad encarece el seguro",
+   "Renault R5 E-Tech Roland-Garros 2025: Unidades limitadas: disponibilidad irregular"
+  ]
+ },
+ "renault-kangoo-2024-tce-130-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Kangoo Combi TCe 130",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Kangoo Combi TCe 130 2024: Motor 1.3 TCe de 131 CV con 240 Nm desde 1.500 rpm",
+   "Renault Kangoo Combi TCe 130 2024: El combi familiar más espacioso por menos de 28.000 €",
+   "Renault Kangoo Combi TCe 130 2024: Maletero de 517 L ampliable a 2.390 L",
+   "Renault Kangoo Combi TCe 130 2024: Cambio manual de 6 marchas robusto y probado",
+   "Renault Kangoo Combi TCe 130 2024: Puertas correderas y banqueta modular"
+  ],
+  "contras": [
+   "Renault Kangoo Combi TCe 130 2024: Con etiqueta C, las ZBE más estrictas no le dan acceso libre",
+   "Renault Kangoo Combi TCe 130 2024: 12,8 s de 0-100: sin prisas",
+   "Renault Kangoo Combi TCe 130 2024: 6,7 l/100 km reales que suben cargado",
+   "Renault Kangoo Combi TCe 130 2024: Acabados e insonorización de furgón",
+   "Renault Kangoo Combi TCe 130 2024: Sin ayuda a la conducción avanzada de serie en authentic"
+  ]
+ },
+ "renault-kangoo-e-tech-combi-2024-precio-autonomia": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Kangoo E-Tech Combi",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Kangoo E-Tech Combi 2024: Con 1.808 mm de altura y puertas traseras correderas, cargar sillas infantiles o bultos voluminosos en aparcamientos estrechos resulta mucho más sencillo que en un SUV familiar convencional.",
+   "Renault Kangoo E-Tech Combi 2024: Sus 284 km WLTP encajan con rutinas urbanas y periurbanas; si equipas carga continua de 80 kW, una parada breve devuelve margen para seguir trabajando ese mismo día.",
+   "Renault Kangoo E-Tech Combi 2024: Renault responde de la batería de 45 kWh hasta 160.000 km u ocho años, tranquilidad extra si el coche acumula reparto urbano y uso familiar intenso a diario.",
+   "Renault Kangoo E-Tech Combi 2024: Es uno de los pocos combis de pasajeros puramente eléctricos frente a ë-Berlingo, e-Rifter y Combo Electric, sin renunciar a cinco plazas ni a su formato de furgoneta alta.",
+   "Renault Kangoo E-Tech Combi 2024: Con etiqueta Cero entra en las ZBE sin limitaciones horarias, algo que sus hermanas Kangoo TCe y Blue dCi, con distintivo C, no pueden igualar en pleno centro."
+  ],
+  "contras": [
+   "Renault Kangoo E-Tech Combi 2024: Partir de 35.260 euros lo deja claramente por encima de las Kangoo Combi de gasolina y diésel de esta misma gama, diferencia difícil de amortizar haciendo pocos kilómetros.",
+   "Renault Kangoo E-Tech Combi 2024: Para escapadas largas, 284 km homologados obligan a planificar recargas; su batería de 45 kWh no compite con turismos eléctricos de similar precio y mayor alcance.",
+   "Renault Kangoo E-Tech Combi 2024: Acelera hasta cien en 12,6 segundos y su punta queda en 132 km/h según ficha: cargado y en incorporaciones ascendentes, el empuje de 245 Nm se percibe justo.",
+   "Renault Kangoo E-Tech Combi 2024: Declara 1.870 kg y un consumo de 19,2 kWh/100 km; en autovía sostenida su caja alta penaliza la eficiencia frente a una berlina eléctrica baja como el Volkswagen ID.7.",
+   "Renault Kangoo E-Tech Combi 2024: Sin el cargador opcional superior no hay carga continua: la versión básica se queda en alterna trifásica de 11 kW, lenta para recuperar fuera de casa."
+  ]
+ },
+ "renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Austral mild hybrid 150",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Austral mild hybrid 150 2025: El Austral más barato: desde 32.171 € con etiqueta ECO",
+   "Renault Austral mild hybrid 150 2025: Motor 1.3 turbo de, en esta versión, 150 CV con cambio automático EDC de 7 marchas",
+   "Renault Austral mild hybrid 150 2025: Maletero de 575 L, el mayor de toda la gama Austral",
+   "Renault Austral mild hybrid 150 2025: Mismo equipamiento y habitabilidad que el E-Tech",
+   "Renault Austral mild hybrid 150 2025: Ideal si haces mucha autopista y pocos atascos"
+  ],
+  "contras": [
+   "Renault Austral mild hybrid 150 2025: 6,4 l/100 km y 145 g de CO2: gasta más que el full hybrid",
+   "Renault Austral mild hybrid 150 2025: Sin conducción eléctrica pura",
+   "Renault Austral mild hybrid 150 2025: 9,9 s de 0-100: el Austral menos ágil",
+   "Renault Austral mild hybrid 150 2025: Por poco más tienes, en esta versión, el E-Tech 200",
+   "Renault Austral mild hybrid 150 2025: Reventa peor que la versión full hybrid"
+  ]
+ },
+ "renault-austral-2025-e-tech-200-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Austral E-Tech 200",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Austral E-Tech 200 2025: Full hybrid de 199 CV con 4,7 l/100, en esta versión, km: el SUV híbrido racional",
+   "Renault Austral E-Tech 200 2025: Hasta el 80 %, en esta versión, del tiempo en eléctrico en ciudad",
+   "Renault Austral E-Tech 200 2025: Fabricado en Palencia: el SUV familiar hecho en España",
+   "Renault Austral E-Tech 200 2025: Maletero de hasta 555 L con banqueta deslizante",
+   "Renault Austral E-Tech 200 2025: 4Control con ruedas traseras directrices (opcional)"
+  ],
+  "contras": [
+   "Renault Austral E-Tech 200 2025: Desde 36.617 €: el salto al E-Tech se paga",
+   "Renault Austral E-Tech 200 2025: El cambio multimodo puede dar tirones en frío",
+   "Renault Austral E-Tech 200 2025: Sin 7 plazas (para eso está el Espace)",
+   "Renault Austral E-Tech 200 2025: Pantalla vertical que deslumbra de noche",
+   "Renault Austral E-Tech 200 2025: Algunos ruidos aerodinámicos a 120 km/h"
+  ]
+ },
+ "renault-arkana-2024-tce-140-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Arkana TCe 140",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Arkana TCe 140 2024: Microhíbrido 1.3 TCe de 140 CV con etiqueta ECO",
+   "Renault Arkana TCe 140 2024: 0-100 en 9,8 s:, en esta versión, más ágil que el E-Tech full hybrid",
+   "Renault Arkana TCe 140 2024: Cambio EDC de 7 marchas suave y rápido",
+   "Renault Arkana TCe 140 2024: Maletero de 513 L y 5 plazas reales",
+   "Renault Arkana TCe 140 2024: Estética SUV coupé sin pagar el híbrido completo"
+  ],
+  "contras": [
+   "Renault Arkana TCe 140 2024: 5,8 l/100 km: gasta más que el E-Tech 145",
+   "Renault Arkana TCe 140 2024: El 1.3 turbo pide revoluciones para rendir",
+   "Renault Arkana TCe 140 2024: Sin modo eléctrico puro",
+   "Renault Arkana TCe 140 2024: Equipamiento evolution algo justo por 28.358 €",
+   "Renault Arkana TCe 140 2024: Reventa peor que la del full hybrid"
+  ]
+ },
+ "renault-arkana-2024-e-tech-145-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Arkana E-Tech 145",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Arkana E-Tech 145 2024: SUV coupé con presencia: el híbrido con más estilo de Renault",
+   "Renault Arkana E-Tech 145 2024: 4,7 l/100 km y, en esta versión, etiqueta ECO con 145 CV",
+   "Renault Arkana E-Tech 145 2024: Maletero de 513 L pese a la caída del techo",
+   "Renault Arkana E-Tech 145 2024: Precio desde 27.630 €: coupé a precio de generalista",
+   "Renault Arkana E-Tech 145 2024: Buen aplomo en carretera y dirección precisa"
+  ],
+  "contras": [
+   "Renault Arkana E-Tech 145 2024: 0-100 en 10,8 s: prestaciones modestas",
+   "Renault Arkana E-Tech 145 2024: La luneta trasera inclinada limita la visibilidad",
+   "Renault Arkana E-Tech 145 2024: Plaza central trasera estrecha",
+   "Renault Arkana E-Tech 145 2024: El cambio multimodo E-Tech tiene su curva de aprendizaje",
+   "Renault Arkana E-Tech 145 2024: Sin versión enchufable"
+  ]
+ },
+ "renault-clio-vi-2025-e-tech-160-precio-ficha-tecnica": {
+  "file": "src/lib/comparador-coches-renault.ts",
+  "marca": "Renault",
+  "modelo": "Clio VI E-Tech",
+  "pros_nuevos": 5,
+  "contras_nuevos": 5,
+  "pros": [
+   "Renault Clio VI E-Tech 2025: El híbrido E-Tech de 160 CV con solamente 3,9 l/100 km y, en esta versión, etiqueta ECO",
+   "Renault Clio VI E-Tech 2025: Sexta generación nueva: diseño renovado y Google integrado",
+   "Renault Clio VI E-Tech 2025: 0-100 en 8,3, en esta versión, s: el Clio más rápido sin ser deportivo",
+   "Renault Clio VI E-Tech 2025: Maletero de 391 L, de los mejores del segmento urbano",
+   "Renault Clio VI E-Tech 2025: Precio desde 23.269 €: híbrido asequible de verdad"
+  ],
+  "contras": [
+   "Renault Clio VI E-Tech 2025: Batería de solamente 1,4 kWh: la conducción eléctrica es testimonial",
+   "Renault Clio VI E-Tech 2025: Plazas traseras justas para adultos altos",
+   "Renault Clio VI E-Tech 2025: El cambio multimodo puede resultar brusco a baja velocidad",
+   "Renault Clio VI E-Tech 2025: Acabados de acceso con plásticos duros",
+   "Renault Clio VI E-Tech 2025: Sin versión enchufable ni etiqueta Cero"
+  ]
+ }
+}
