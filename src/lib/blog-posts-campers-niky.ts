@@ -124,7 +124,7 @@ export const CAMPERS_POSTS_NIKY: BlogPost[] = [
       "Análisis de la Westfalia Amundsen 2026: la camper Westfalia sobre base Ford Transit. Ficha técnica y opinión.",
     "category": "Novedades Motor",
     "date": "2026-10-19",
-    "readTime": 9,
+    "readTime": 1,
     "locale": "all",
     "keywords": ["Westfalia Amundsen 2026", "Amundsen precio", "Westfalia Ford"],
     "content":
