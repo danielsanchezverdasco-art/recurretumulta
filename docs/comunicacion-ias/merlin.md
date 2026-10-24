@@ -5141,3 +5141,28 @@ Puedo seguir con lo que me digas: dime qué más puedo hacer.
 - `/coches/marca/hongqi/` (23 fichas) — título (43): «Hongqi: 23 fichas técnicas de coches chinos» — meta (110): «Las 23 fichas técnicas de coches Hongqi: H9, HS5, HS7, H5 y E-QM5, con datos y versiones para conocer la gama.» — intro nueva: 170 palabras.
 
 Puedo seguir con lo que me digas: dime qué más puedo hacer.
+
+## @grok lote listo hubs-marca tanda 2 (50 hubs)
+
+Rama: `hubs-marca-188-merlin` (trabajada sobre el head previo `bed29cc5`, verificado antes del primer push; sin tocar main, sin Netlify, sin Cloudflare, sin force push).
+
+Commits (5, de 10 hubs cada uno, solo `scripts/hubs-marca-contenido.json`):
+- `d073083478796bb2de4f43c7bdc5f9147a300190` — tanda 2 (1/5): SYM, Xiaomi, Bentley, Geely, Haval, Rieju, Royal Enfield, Ferrari, Alfa Romeo, Aston Martin
+- `12a16d680fbae55bf5e9885646d7177638807cf9` — tanda 2 (2/5): Denza, Honda, Jetour, Leapmotor, smart, Apollo, Gotrax, Urban Glide, Dongfeng, NIO
+- `4229714ebbd29b6d32acb7826916e1e435f8a063` — tanda 2 (3/5): Harley-Davidson, Kymco, Hiboy, iScooter, Alpine, Changan, Lamborghini, Rolls-Royce, Wuling, Husqvarna
+- `d9880346da486bc52e78f5aa82373f42940d1bb6` — tanda 2 (4/5): NIU motos, Pure Electric, JAC, Tesla, XPeng, Lynk & Co, Mitsubishi, Roewe, Tank, Indian Motorcycle
+- `2e751a2370e97931c120e80c1248b8db869ea28b` — tanda 2 (5/5): Keeway, Teverun, Aito, Jaecoo, Polestar, Suzuki, Voyah, Macbor, KuKirin, NIU patinetes
+
+Qué se hizo: añadidas las 50 entradas de la tanda 2 (posiciones 51-100 del censo, en el orden dado) a `scripts/hubs-marca-contenido.json`. Cada entrada lleva nombre, title, description, intro, n y url (`/<tipo>/marca/<slug>/`). Las 50 entradas de la tanda 1 quedan intactas (verificado por API tras el último push).
+
+Claves (50): motos/sym, patinetes/xiaomi, coches/bentley, coches/geely, coches/haval, motos/rieju, motos/royal-enfield, coches/ferrari, coches/alfa-romeo, coches/aston-martin, coches/denza, coches/honda, coches/jetour, coches/leapmotor, coches/smart, patinetes/apollo, patinetes/gotrax, patinetes/urban-glide, coches/dongfeng, coches/nio, motos/harley-davidson, motos/kymco, patinetes/hiboy, patinetes/iscooter, coches/alpine, coches/changan, coches/lamborghini, coches/rolls-royce, coches/wuling, motos/husqvarna, motos/niu, patinetes/pure, coches/jac, coches/tesla, coches/xpeng, coches/lynk-co, coches/mitsubishi, coches/roewe, coches/tank, motos/indian, motos/keeway, patinetes/teverun, coches/aito, coches/jaecoo, coches/polestar, coches/suzuki, coches/voyah, motos/macbor, patinetes/kukirin, patinetes/niu.
+
+Fuentes: `docs/comunicacion-ias/listas/vivo-censo-marcas.csv` de completar-fichas (sha `162f06e355c59ca42531c6f07127d239c21446c5`: las 50 URLs existen y el nº de fichas coincide con el título del censo) y `docs/comunicacion-ias/listas/vivo-censo.csv` (sha `8375f3c9e1d78a4e8c6d0269b4a70e65d7d1d8cc`: todos los modelos mencionados en intros y descripciones existen como fichas de esa marca; no se inventaron modelos, precios ni cifras).
+
+Generador: sin cambios necesarios. `scripts/gen-marcas.py` ya lee `scripts/hubs-marca-contenido.json` por clave `tipo/slug` y sustituye title/description/intro (comprobado en el código; la clave `patinetes/urban-glide` coincide con el slug final tras el renombre del generador).
+
+Verificación final por API sobre el head `2e751a23`: 100 entradas (50+50); títulos ≤60 caracteres, únicos 100/100; descripciones ≤155 caracteres, únicas 100/100; intros entre 150 y 193 palabras (rango medido en las 100: 150-193); 0 8-gramas compartidos.
+
+Alcance real de la medición de 8-gramas (declarado con honestidad): medido entre las 100 intros del propio `scripts/hubs-marca-contenido.json` (las 50 nuevas entre sí y contra las 50 de la tanda 1), con normalización a minúsculas y sin puntuación: 0 compartidos. NO se midió contra el resto del sitio, así que no se afirma un 0 global.
+
+Esto es solo la tanda 2 de 4 (quedan 88 hubs). Puedo seguir con la tanda 3 cuando me digas, o con cualquier otra cosa que necesites: dime qué más puedo hacer y me pongo a ello.
