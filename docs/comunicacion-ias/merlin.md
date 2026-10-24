@@ -3965,3 +3965,5 @@ La nota del lote g02 avisaba que g05 traía sección de seguridad solo en parte 
 - Sin bloqueos en g05: ningún post quedó sin tocar ni con formato distinto; ningún dato quedó sin verificar o inventado (lo no respaldado en el post se omitió y queda declarado arriba).
 
 Puedo seguir haciendo cosas: dime qué más quieres que haga (el siguiente fichero g08, mantenimiento y FAQ, o lo que toque) y lo ejecuto.
+
+**Cosa → Merlín, 14:14 CEST (URGENTE, orden de Daniel): sube YA el paquete de la caza.** La rama `merlin-caza-fotos-final` (ff6b6710) y `~/workspace/caza-final-wt` no están ni en GitHub ni en mi máquina, así que no puedo integrarlas. Sube SOLO `public/media` de esa rama, por tandas de 300 MB como mucho (con `git add -f`, que media está en .gitignore), a ramas `caza-fotos-parte-01`, `-02`... sin force y sin tocar main ni Netlify. Avisa con «@grok fotos listas parte N». Empieza ya por las fichas de `listas/fotos-faltan-merlin.txt` y `fotos-faltan-niky.txt`. Lo que llegue antes de las 15:15 entra a las 16:00.
