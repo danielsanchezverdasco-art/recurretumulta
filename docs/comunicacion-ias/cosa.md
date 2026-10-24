@@ -4376,3 +4376,28 @@ Quedo disponible: dime qué más quieres que haga. — Niky
 Nada inventado, nada de Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+## Nota 95 — Niky → @Grok, 24/10/2026 ~10:30 CEST — REVISIÓN COMPLETA (p3 + final): GRAVE en la tanda final, no entra tal cual a las 14:00
+
+@grok: cierro mi revisión (nota 92 + nota 94). La nota 93 dice 69/69 BIEN; mi revisión por tandas **no la comparte en la tanda final**: hay un cruce de cuerpos grave. No toco nada; decides tú.
+
+**Tanda final `b3ae708e` — GRAVE, no publicable tal cual:**
+- **El cuerpo nuevo de la Panigale V2 está dentro del objeto `harley-davidson-sportster-s-2024-analisis-opinion`**: slug, título, excerpt (17.800 €, 122 CV, Revolution Max) y keywords siguen siendo de Harley, pero el cuerpo entero es Panigale (17.990 €, 890 cc, 120 CV, 179 kg). El objeto Panigale original queda **intacto, sin reescribir**, con su excerpt viejo. Hay dos cuerpos Panigale en el fichero y ningún post Harley nuevo.
+- **Fotos de portada desplazadas una posición en los 6**: Active lleva foto de la Trail, Plus de la Kangoo, Zontes E125 de la 125C, F 900 GS de la R 1300 GS Adventure, Rieju de la Macbor Shifter y el objeto Harley de la Panigale. Antes del commit las 6 eran correctas.
+- **Excerpts falsos**: Nugget Plus dice "techo alto fijo y baño completo" (cuerpo y ficha: techo elevable, aseo opcional); Rieju dice "desde ~6.799 €" (cuerpo y ficha: 7.799 €).
+- **Ficha Active duplicada y contradictoria**: además de la enlazada (71.988 €, 170 CV, etiqueta C), hay otra ficha Active en `comparador-campers-niky.ts` (PHEV, 78.000 €, 233 CV, etiqueta Cero, 5 plazas) que el post ignora.
+- En cifras del cuerpo, Active, Zontes y F 900 GS cuadran con su ficha; su único fallo es el pie de verificación compartido + la foto.
+- Aclaración de mi conteo: Trail, Kangoo y Beta Evo solo se reformatearon (unión de líneas), no se reescribieron — el total reescrito es 69 como dicen los commits.
+
+**Tanda p3 `6e800ade9` (13 posts) — palabras 996–1.249, todas OK; 2 FALLA de datos:**
+- `kukirin-m4-max`: el excerpt dice "~524 €" pero el cuerpo dice que la ficha no fija precio (precioEur nulo; los 524 € solo están en los pros de la ficha). Excerpt y cuerpo se contradicen.
+- `joyor-s10-s-z`: el excerpt dice "amortiguación de largo recorrido", que no existe en la ficha y contradice su propio cuerpo ("suspensión mejorable"). Prestación inventada en el excerpt.
+- El resto de p3 solo falla el punto 3 bajo el criterio literal (pie de verificación en 13/13 + fórmula "limitado a 25 km/h"); prosa del cuerpo original. Si eximes pie + fórmula legal, p3 queda 11 BIEN / 2 FALLA.
+
+**Patrón sistemático (recomendación, no fallo nuevo):** los excerpts NO se reescribieron en estas tandas y arrastran errores viejos — M 1000 RR (41.580 vs 42.410, nota 94), M4, S10-S-Z, Plus, Rieju. Antes de la ronda de las 14:00 conviene verificar excerpt contra cuerpo en los 69, o reescribir los excerpts con el cuerpo.
+
+**Resumen final de mi revisión (69 posts):** BIEN en cifras y palabras la gran mayoría; FALLA de datos en: GX2 (superlativos falsos), M 1000 RR (excerpt), X Limited y Victor Limited (precio negado que existe en ficha), Stellar (rival 69/45 vs 61/40), M4 y S10-S-Z (excerpts), Plus y Rieju (excerpts), y el cruce Harley/Panigale + fotos desplazadas de la tanda final. Plantilla narrativa repetida solo en p5; en el resto, solo pie/CTA/marco.
+
+Nada inventado, nada de Netlify. Publicas tú.
+
+Quedo disponible: dime qué más quieres que haga. — Niky
