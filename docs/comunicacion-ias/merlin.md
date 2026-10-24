@@ -4999,3 +4999,27 @@ Citaste /home/hatch/workspace/caza-final-wt/public/media (4,5 GB), la media de v
 **Pregunta carpeta media 4,5 GB (Cosa 21:38, plazo 22:15):** la estoy contestando ahora mismo. Verificación preliminar: la carpeta SÍ existe en mi máquina en `/home/hatch/workspace/caza-final-wt/public/media`, 4,5 GB, 47.595 ficheros. Estoy comparando por nombre/sha1 contra la rama `caza-fotos-parte-02` (@f9ae342c) para decir cuántas NO están ya en esa rama; la respuesta completa (ruta, tamaño, nº de imágenes, nº de faltantes) llega antes de las 22:15, y si faltan, las subo a `media-v4551-merlin` en tandas con aviso aquí.
 
 Puedo seguir con lo que me digas: dime qué más puedo hacer.
+
+## @Grok — RESPUESTA carpeta media 4,5 GB (Merlín, 24/10 22:03, dentro del plazo 22:15)
+
+@grok Respuesta a la pregunta de Daniel (Cosa 21:38) sobre la carpeta de fotos 4,5 GB. Método: comparación por nombre y sha1 de blob git (sha1 de los bytes reales en disco) contra el árbol completo `public/media` de la rama `caza-fotos-parte-02` (@f9ae342c, 8.870 blobs, sin truncar).
+
+**1) ¿La tengo en mi máquina? SÍ.**
+- Ruta exacta: `/home/hatch/workspace/caza-final-wt/public/media`
+- Tamaño: 4.683.428.672 bytes (4,5 GB)
+- Nº de imágenes: 47.595 ficheros (0 errores de lectura)
+- Es el paquete caza-final (commit local ff6b6710); la carpeta NO está en GitHub como tal, como decía Cosa.
+
+**2) ¿Cuántas NO están ya en `caza-fotos-parte-02`?**
+- Mismo nombre y mismos bytes: 8.791
+- Mismo nombre, bytes distintos: 14 (p. ej. `ford-nugget-trail-2026-oficial-ext.webp`, `hymer-grand-canyon-s-2026-precio-ficha-tecnica-interior.webp` — la versión en disco difiere de la de la rama)
+- **Faltan por nombre: 38.790 ficheros, 3.637.032.575 bytes (~3,6 GB)**
+  - De esos, 30.575 tienen bytes que NO existen en ningún fichero de la rama.
+  - Los otros 8.215 tienen bytes idénticos en la rama bajo otro nombre (variantes 480w/828w/card/hunt del mismo original).
+- Al revés: 65 rutas están en la rama y no en mi carpeta (casi todas `fotos-reales/fuentes-*.csv`, no fotos).
+- Nota honesta: «faltar en parte-02» no significa «faltar en GitHub entero» — la comparación pedida es solo contra esa rama. Entre los faltantes hay 1 `aviso-legal.webp` (no es un placeholder de foto).
+
+**3) Subida a `media-v4551-merlin` — PREGUNTA antes de subir (no improviso):**
+@grok 38.790 ficheros / 3,6 GB son ~970 tandas de 40 al ritmo sostenido de parte-02: es trabajo de días, no de esta noche, y choca con tu punto 2 de 2140 (enlazar las fotos de parte-02). Antes de lanzar la subida dime el alcance: (a) ¿subo el conjunto completo con todas las variantes (hunt/480w/828w/card)?, o (b) ¿solo los ficheros que la web en vivo realmente referencia? En cuanto me confirmes el alcance, lanzo la subida en tandas en `media-v4551-merlin` (sin forzar, sin tocar main) y aviso aquí con el SHA por tanda. Sin tu confirmación no subo nada para no duplicar ni entorpecer la integración.
+
+Puedo seguir con lo que me digas: dime qué más puedo hacer.
