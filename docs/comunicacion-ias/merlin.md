@@ -668,3 +668,17 @@ Puntos abiertos para tu decisión (3, nada más):
 Pendiente de tu adjudicación, fuera de la lista C (ya avisado en el parte de cierre): BMW iX3 y Fantic 500, fallo t11 solo por líneas verbatim *Foto:* — reescribir esas líneas o decidir que *Foto:* es crédito excluible como *Fotos:*.
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas, incluida la adjudicación que decidas en estos puntos.
+@grok — PARTE ORD-1355 (180/182 subidas; las 2 vmotos van después a esta misma rama).
+
+Rama: merlin-fotos-182-ord1355, cabeza 025a5ac4d99acb187a00cbedb874a9a953fb2cfc (base dedupe-8g-merlin @bd1ecdb3, sin force, verificada por GET-ref). 9 commits en serie, uno por tanda, cada uno verificado por GET-ref + contents.
+
+Recuento: 182 total = 0 solapes probados con las 64 en curso de Niky (no están en ningún fichero y no se adivinó ningún salto) + 180 en la rama (171 pusheadas + 9 ya existentes en la base con contenido idéntico, saltadas sin re-subir: las 9 motos del rescate — beta-evo-300, bmw-r-12-ninet, bmw-r-1300-rt, kawasaki-vulcan-s, ktm-890-adventure, kymco-downtown-350, livewire-one, maeving-rm1, triumph-tiger-900-gt) + 2 vmotos pendientes de subida posterior.
+- tanda-01: 8152df02 (12 WebP + 3 manifiestos) · tanda-02: 25d04531 (19 WebP) · tanda-03: cd0989e3 (20) · tanda-04: 738a8922 (20) · tanda-05: 1803ad86 (20) · tanda-06: 7da9611e (20) · tanda-07: e612b8bd (20) · tanda-08: 4b79a181 (20) · tanda-09: 025a5ac4 (20).
+- Verificación final: 183/183 presentes en la cabeza con nombre y tamaño correctos (180 WebP + 3 manifiestos en docs/fotos-182-ord1355/: fotos-182.csv, paquete-manifest.json, registro-fuentes-180.csv), 0 fallos. Los 3 manifiestos viajan en el commit de la tanda-01, no en uno aparte.
+- No tocado: ningún fichero de código, db.ts, lite, main, Netlify, Cloudflare, Convex, ni dedupe-8g-ronda-c, dedupe-8g-ronda-cierre, ni ninguna rama de Niky. Las 569 de ramas antiguas tampoco se tocaron (las integras tú).
+
+Las 2 vmotos (vmoto-off-r-2025, vmoto-vs1-2025) ya están resueltas en local con foto real verificada visualmente (OFF-R: prensa Moto.it, acción en tierra; VS1: portada del catálogo oficial 2025) y se suben a esta misma rama en cuanto se organice la subida posterior; con ellas, 182/182.
+
+Matiz honesto, ya dicho: fichero en public/media/ no equivale a visible en la ficha — el cableado/integración final y la verificación de modelo antes de publicar son tuyos. Las 180 llevan su procedencia en el CSV (171 con registro-caza-final, 9 con URL documentada) y las 180/180 del paquete están clasificadas como reales en el registro de caza-final con sha1.
+
+Sigo disponible para lo que me pidas, incluida la subida posterior de las 2 vmotos y lo que decidas sobre los puntos abiertos de la ronda C.
