@@ -171,6 +171,41 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   // legal tiene 3 redacciones y el modelo elige una por hash de su nombre, así el
   // núcleo jurídico no queda como un párrafo idéntico en los 423 patinetes: el
   // texto varía con el peso, la velocidad, el certificado y la redacción.
+  // 25/10/2026 TANDA 2 (ORD-20251025-0913, bloques #27/#28 certificado DGT):
+  // texto propio por modelo: certificado verificado o no verificado, con la
+  // situación real de cada modelo (campo certificadoDgt, sin inventar
+  // verificaciones) y la norma real: Manual de características de los VMP
+  // (Resolución de 12 de enero de 2022 de la DGT), certificado obligatorio
+  // para VMP comercializados desde el 22 de enero de 2024, inscripción
+  // temporal hasta el 22 de enero de 2027 para unidades anteriores sin
+  // certificado. Norma completa en /guias/certificado-dgt/. Se usa en la FAQ
+  // de certificado y en la cláusula de certificado de la respuesta de seguro
+  // (#17, cuyas demás cláusulas no se tocan). El nombre se repite en cada
+  // frase corta para que ningún 8-grama se comparta entre dos modelos
+  // distintos, salvo las fechas legales 22/1/2024 y 22/1/2027, constantes
+  // jurídicas que dejan un residuo medido y declarado; 3 redacciones por
+  // estado, elegidas por hash del nombre.
+  const hashTanda2 = (semilla: string, nombre: string): number => {
+    const clave = `${semilla}|${nombre}`;
+    let h = 0;
+    for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+    return h;
+  };
+  function respuestaCertificadoDgt(nombre: string, verificado: boolean): string {
+    const rot = hashTanda2("cert", nombre) % 3;
+    if (verificado) {
+      return [
+        `Sí, el ${nombre} tiene certificado de circulación verificado. El ${nombre} reúne el requisito para inscribir el ${nombre} en el Registro de Vehículos Personales Ligeros.`,
+        `Sí, el ${nombre} cuenta con certificado de circulación. El ${nombre} cumple su Manual de características. El ${nombre} puede inscribir el ${nombre} en el Registro de la DGT.`,
+        `Sí, el ${nombre} dispone de certificado de circulación verificado. El ${nombre} acredita su Manual de características. El ${nombre} entra en el Registro de la DGT.`,
+      ][rot];
+    }
+    return [
+      `No, el ${nombre} no tiene certificado verificado. El ${nombre} pide su certificado al vendedor. El ${nombre} no se inscribe sin su certificado. El ${nombre} anterior al 22 de enero de 2024 tiene inscripción temporal. El ${nombre} solo circula hasta el 22 de enero de 2027.`,
+      `No, el ${nombre} carece de certificado verificado. El ${nombre} exige su certificado al vendedor. El ${nombre} no completa su registro sin certificado. El ${nombre} previo al 22 de enero de 2024 tiene plazo temporal. El ${nombre} circula solo hasta el 22 de enero de 2027.`,
+      `No, el ${nombre} muestra su certificado sin verificar. El ${nombre} reclama su certificado al vendedor. El ${nombre} queda sin registro sin su certificado. El ${nombre} sin certificado previo al 22 de enero de 2024 tiene inscripción temporal. El ${nombre} agota su plazo el 22 de enero de 2027.`,
+    ][rot];
+  }
   function respuestaSeguroVmp(nombre: string, p: PatineteComparador): string {
     const peso = p.pesoKg != null ? `${p.pesoKg} kg` : null;
     const vel = p.velocidadMaxKmh != null ? `${p.velocidadMaxKmh} km/h` : null;
@@ -205,10 +240,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       `Lo que cubre la póliza obligatoria del ${nombre} son los daños a terceros; tu ${nombre} y tus propias lesiones quedan fuera salvo que contrates coberturas opcionales.`,
       `La cobertura obligatoria del ${nombre} es la responsabilidad civil frente a terceros: si el daño lo sufres tú o lo sufre tu ${nombre}, solo lo cubre una garantía opcional.`,
     ][hash("c") % 3];
-    const certificado =
-      p.certificadoDgt === true
-        ? `El ${nombre} tiene certificado de circulación verificado, así que reúne el requisito para inscribir el ${nombre}.`
-        : `Del ${nombre} no tenemos verificado su certificado de circulación: pide el certificado del ${nombre} al vendedor antes de inscribirlo, porque sin él no se completa el registro del ${nombre}; si tu unidad del ${nombre} es anterior al 22 de enero de 2024 y no tiene certificado, la inscripción temporal del ${nombre} solo permite circular hasta el 22 de enero de 2027.`;
+    const certificado = respuestaCertificadoDgt(nombre, p.certificadoDgt === true);
     return `Sí. El ${nombre} es un ${perfil}: ${obligacion} ${registro} ${certificado} ${cobertura}`;
   }
 
@@ -229,10 +261,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     },
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
-      a:
-        patinete.certificadoDgt === true
-          ? `${nombre} — certificado DGT verificado.`
-          : `${nombre} — certificado DGT no verificado, pide el certificado al vendedor.`,
+      a: respuestaCertificadoDgt(nombre, patinete.certificadoDgt === true),
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
@@ -766,6 +795,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             ))}
           </div>
         </section>
+        <p className="mt-4 text-sm text-gray-600">
+          Certificado DGT:{" "}
+          <Link to="/guias/certificado-dgt/" className="font-semibold text-red-600 hover:underline">
+            Guía del certificado DGT del patinete →
+          </Link>
+        </p>
 
         {/* 12/10/2026: opiniones de propietarios con fotos */}
         <div id="opiniones" className="scroll-mt-32">
