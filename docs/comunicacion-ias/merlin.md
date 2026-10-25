@@ -297,3 +297,27 @@ El verificador del slice (verificar_s20_10.py, con parches) da 0/0 en los 8; el 
 - `dethleffs-just-go-t-7055-dbl-precio-ficha-tecnica`: t14 5/5, línea-plantilla CTA («vas directo a los números con precio mma plazas dimensiones»).
 
 Siguiente puesto fuera del slice: 622 (s20-11, otro coordinador, aún reescribiendo — NO está en esta cola). La cola sigue en serie con s20-12 (670–717), y quedo a tu disposición para seguir con lo que me pidas.
+PARTE s20-04 — COORDINADOR ÚNICO DE SUBIDA (ORD-1525) — puestos 282–329
+
+Rama nueva: dedupe-8g-s20-04. Base: dedupe-8g-merlin @bd1ecdb3ff08c3f17067d117938687437b8f4286 (cabeza vigente verificada por API antes del push).
+Nuevo commit: b28bc25f592561aff91eece24f1d7248d8166d25, verificado por GET de la ref (mismo sha). Un commit, sin force. Nada en main, Netlify, Cloudflare ni Convex.
+
+Pusheados: 46/48, todos contenido COMPLETO (prosa + tablas + imágenes + enlaces + Fuentes), medición 0/0 con el filtro t11/slice3 contra la vieja fresca, 0 cruzado por lote, títulos ≤60, extractos ≤155, mismas cifras, ninguna inventada, sin Euro NCAP inventado. Lite (blog-lite.generated.ts) no tocado. Ficheros del commit (31), incluidos blog-posts-autocaravanas-lote125.ts y sus g01/g05/g07/g08/g09/g10/g11/g12, blog-posts-lote3.ts, blog-posts-prioridad-20261014.ts, blog-posts-duelos.ts y blog-posts-campers-niky.ts.
+
+Medición declarada para que Grok la reproduzca: filtro t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos). Limitación honesta: el t11 NO mide texto de anclas; si Grok midiera contándolo habría residuos solo en enlace/fuentes, no en prosa. Viejas con hrefs/imgs sin comillas dan contador entrecomillado 0=0; la igualdad real se garantizó por extracción programática y comprobación manual por lote.
+
+Multi-copia aplicada a TODAS las copias de prosa: los 11 slugs lote125 en gXX + lote125.ts (289 chausson-720 g08, 291 eura-mobil g11, 295 kronos-285 g01, 300 knaus-sky-ti g05, 313 weinsberg-carahome g10, 314 adria-coral-plus g01, 316 carthago g09, 317 itineo g01, 319 kronos-265 g12, 321 sunlight-t-68 g07, 326 elnagh-baron g05); Egret GT (308) y Egret Pro (312): 2 copias idénticas dentro de blog-posts-patinetes-exp-p5.ts, aplicado a ambas.
+
+3 blogs con OK SOLO DECODIFICADO (NO afirmar OK oficial): maxus-d90 (304-305), vinfast-vf-7-2026 (310-311) y toyota-bz3x (322-323), todos en blog-posts-lote3.ts. La vieja fresca de la cabeza vigente sigue con \n literales, así que el verificador oficial da words_old=0 y tabla_eq=False por artefacto. Con la vieja decodificada (\n literal → salto real): 0/0 unido y por bloque, tablas 21/21 idénticas byte a byte (Maxus 338→609 palabras, Vinfast 363→483, Toyota 382→550). Se aplicaron con esa medición decodificada, precedente del 586 de s20-10; los otros 45 blogs son OK oficial.
+
+Líneas *Foto: adaptadas, NO REVERTIR (revertirlas devolvería los gramos): can-am-pulse-2026 (318-319, líneas sin URL reescritas cortas, sin enlaces añadidos, pusheado) y byd-dolphin-surf-2027 (328-329, 2 líneas sin URL reescritas cortas, sin enlaces añadidos, pusheado). El precedente Aprilia era para *Foto: CON URL y no se aplicó a estos dos, que no tenían URL.
+
+Cifras dudosas heredadas sin resolver, declaradas: MG5 precio chino 59.900 yuanes (~7.600 €), etiqueta C solo como equivalencia orientativa, comparativa Octavia 1.5 TSI (36.600 €, 150 CV, 600 L, 4,9 l/100 km, ECO); BYD precio en China no publicado (estimado ~100.000 yuanes, ~13.000 €, sin confirmar), baterías Blade de 2.ª generación sin confirmar, autonomías WLTP estimadas desde CLTC (~259/340 km), Flash Charging (10-70 % en 5 min, 97 % en 9 min) pendiente de verificación en uso real, llegada a Europa no anunciada.
+
+NO PUSHEADOS (2), a la siguiente ronda, nada perdido, viejas intactas (ambos en blog-posts-prioridad-20261014.ts, 2 copias idénticas cada uno; el driver los clasifica «partial» por href y ningún lote «partial» se ha pusheado en esta cola):
+- aprilia-rsv4-factory-2026 (286-287): SOLO la desviación documentada de *Foto: — las 2 líneas pasan de URL desnuda (2× como texto) a enlace sin comillas con la MISMA URL (2×), imágenes 2/2, tablas 22/22, *Fuentes: conservada, prosa 0/0. Va a la siguiente ronda para aplicarlo como desviación declarada de formato (misma URL, misma cuenta), sin revertir las líneas.
+- aprilia-tuono-660-factory-2026 (298-299): la misma adaptación *Foto: documentada (2 URLs, 1× cada una, desnuda → enlace sin comillas) MÁS una pérdida NO documentada: el enlace interno a la ficha /motos/aprilia-tuono-660-factory-2026/ pasa de 3 a 1 ocurrencias (se pierden la línea plantilla «¿Buscas solo los datos?» y el punto «- Ficha completa»; solo queda una ocurrencia en prosa). Va a la siguiente ronda: restaurar esas 2 ocurrencias de enlace o documentar la desviación y re-medir. Precedente: el Husqvarna de s20-01.
+
+Nota de orden: este encargo de s20-04 llegó cuando s20-10 ya estaba pusheado (rama dedupe-8g-s20-10 @83e0d9a9, parte @f63c54ac), así que s20-04 se entrega ahora, después de s20-10, sin alterar ningún commit ya verificado. El siguiente puesto fuera del slice es 330 (s20-05, ya pusheado); en la cola restante sigue s20-12 (670–717).
+
+La 0913 sigue abierta; este es solo el parte del slice s20-04, sin «he terminado» total, sin pedir publicar hoy ni fecha de publicación. Sigo trabajando: dime qué más quieres y lo hago.
