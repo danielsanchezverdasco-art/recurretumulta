@@ -3630,9 +3630,9 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
   },
   {
     slug: "egret-ey-7",
-    title: "Egret Ey! 7: motor Bosch por 449 €",
+    title: "Egret Ey! 7: el patinete Bosch más barato, 449 €",
     excerpt:
-      "El Egret Ey! 7 rompe el precio de la marca: motor Bosch, 10 pulgadas tubeless y 449 €. La apuesta alemana por el gran público.",
+      "El Egret Ey! 7 cuesta 449 €, lleva motor Bosch, ruedas tubeless de 10 pulgadas y tres modos, pero aún no publica potencia, batería ni autonomía.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -3649,9 +3649,7 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
     ],
     content: `<img src=/media/patinetes/egret-ey-7-1.webp alt=Egret Ey! 7 negro, vista lateral completa del patinete>
 
-**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-7/>Ver ficha técnica del Egret Ey! 7</a>: precio, motor y datos verificados. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
-
-El **Egret Ey! 7** es la bomba de la marca alemana: **motor Bosch**, ruedas **tubeless de 10 pulgadas**, tres modos de conducción y un precio de **449 €** (<a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>GadgetFlare</a>). A la venta desde el 28 de mayo de 2025. El Egret más barato de la historia.
+El Egret más barato de la historia cuesta 449 € y se llama Ey! 7: lleva motor Bosch, calza ruedas tubeless de 10 pulgadas, ofrece tres modos de conducción y no pasa de 20 km/h. Llegó a las tiendas el 28 de mayo de 2025 (según <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>GadgetFlare</a>). Si solo quieres las cifras, aquí va <a href=/patinetes/egret-ey-7/>la ficha del Ey! 7 con precio y motor</a>, y para enfrentarlo a otros patinetes, <a href=/comparador-patinetes/>el comparador de patinetes</a>.
 
 ## Ficha técnica resumida
 
@@ -3663,27 +3661,47 @@ El **Egret Ey! 7** es la bomba de la marca alemana: **motor Bosch**, ruedas **tu
 | **Ruedas** | 10" tubeless |
 | **Disponible** | Desde mayo 2025 |
 
-¿Quieres el detalle completo? <a href=/patinetes/egret-ey-7/>Ficha técnica completa del Egret Ey! 7</a> con todos los datos verificados.
+El detalle completo está en <a href=/patinetes/egret-ey-7/>la ficha completa del Ey! 7</a>, con todos los datos verificados.
 
-## Precio del Egret Ey! 7 en España
+## 449 €: un precio impensable para Egret
 
-**449 €** PVP recomendado. Un Egret por menos de 500 € era impensable hasta ahora.
+**449 €** de PVP recomendado. Que una marca como Egret bajara de los 500 € era algo impensable hasta ahora.
 
 <img src=/media/patinetes/egret-ey-7-2.webp alt=Detalle del motor Bosch del Egret Ey! 7>
 
-## Autonomía real vs declarada
+## Lo que la marca aún no cuenta
 
-Egret aún no publica batería ni autonomía oficiales. Con motor Bosch y el posicionamiento, cabe esperar un urbano de rango medio; actualizaremos la ficha cuando haya datos.
+De momento, Egret no ha publicado ni la batería ni la autonomía oficiales. Por su motor Bosch y su planteamiento, cabe esperar un urbano de rango medio, pero eso es una expectativa, no un dato: actualizaremos la ficha en cuanto haya cifras.
 
-## Frenos y neumáticos
+Tampoco hay detalles publicados del sistema de frenos del Ey! 7 más allá del equipamiento de seguridad de la familia, que en sus hermanos incluye triple freno. Esos detalles irán apareciendo.
 
-**Tubeless de 10 pulgadas** y el equipamiento de seguridad de la familia (triple freno en sus hermanos). Los detalles del Ey! 7 se irán publicando.
+## Una marca de Hamburgo que baja al segmento de volumen
 
-## Certificado DGT y normativa VMP
+Egret pertenece a **Walberg Urban Electrics GmbH**, firma de Hamburgo con más de diez años fabricando patinetes eléctricos premium. Sus señas son chasis elaborados, piezas de suministradores europeos y tarifas tradicionalmente elevadas. Por eso el Ey! 7 llama la atención en la casa: por primera vez, la firma alemana rompe la barrera de los 500 €. La jugada se entiende en su <a href=https://my-egret.com/>web oficial</a>: conservar el sello —aquí, el motor de **Bosch**— recortando en lo accesorio para entrar en la franja donde Xiaomi y Segway venden mucho.
 
-Sin certificado DGT español verificado; como el resto de la familia, limitado a **20 km/h** por homologación alemana. En España, VMP legal sin pisar **aceras**.
+## Lo confirmado y lo pendiente: sin cifras inventadas
 
-## Puntos fuertes y débiles
+Aquí no vamos a rellenar huecos con cifras de otros modelos. Lo confirmado del Ey! 7 es: 449 €, un motor de Bosch, ruedas sin cámara de 10 pulgadas, tres modos y venta a partir del 28 de mayo de 2025. Falta por confirmar oficialmente la potencia, la batería, la autonomía y el peso. Se puede leer de dos maneras: con indulgencia, es un modelo recién salido cuya ficha aún se está completando; con pragmatismo, sin autonomía declarada nadie debería comprar a ciegas. En cuanto Egret difunda los datos, actualizaremos esta ficha; de momento, el resto es contexto y normativa, no números heredados de sus hermanos.
+
+## Circular con él en España
+
+Da igual qué batería monte: en España, un Ey! 7 se rige por la normativa de los vehículos de movilidad personal. Eso significa circular por vías urbanas y carriles habilitados, nunca por las aceras, con un tope general de 25 km/h —este modelo, que por su homologación alemana no pasa de 20 km/h, queda dentro con margen— y con casco cuando lo exija la ordenanza de tu ciudad. Y un matiz importante: desde enero de 2024, en España solo se pueden vender VMP con certificado de circulación de la DGT. Comprueba antes de pagar, en <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>el listado oficial de la DGT para VMP certificados</a>, que el modelo y su versión exacta aparezcan certificados, porque la propia ficha avisa de que el Ey! 7 todavía no tiene certificado español.
+
+Igual que sus hermanos, no pasa de **20 km/h** por su homologación alemana, y en España un VMP es legal sin pisar **aceras**. Sin certificado DGT español verificado, de momento.
+
+## Para qué sirve de verdad
+
+Este tipo de patinete está hecho para recorridos cortos, de dos a ocho kilómetros: de casa a la estación y de la estación a la oficina. Para eso, las ruedas tubeless de 10 pulgadas son un acierto —más cómodas que unas de ocho y medio y con menos pinchazos que unas de cámara— y los tres modos sirven para templarlo en zonas peatonales. Eso sí: sin peso ni plegado publicados, no se puede asegurar que sea el más cómodo para subir a un tren en hora punta; otro dato que conviene pedir en tienda antes de pagar.
+
+## Mantenerlo cuesta poco, pero algo cuesta
+
+Un eléctrico de este tipo no gasta aceite ni pasa ITV, pero tiene consumibles: pastillas o tambores de freno, cubiertas tubeless cuya presión conviene revisar cada quince días —de ella dependen la autonomía y la estabilidad— y una batería que dura más si no se guarda vacía ni al sol. Que monte un motor Bosch y que la marca disponga de servicio en Europa facilita encontrar recambios frente a marcas sin importador: pregúntalo donde lo compres, porque en un VMP el taller pesa tanto como el precio.
+
+## Frente al Ey! 6: ¿compensa?
+
+El rival vive en la misma casa: el <a href=/patinetes/egret-ey-6/>Egret Ey! 6</a> figura en nuestra ficha por **799 €**, con 450 W nominales, 55 km de autonomía declarada como máximo y 21,6 kg: justo lo que el 7 todavía no declara. Si el presupuesto da más de sí, también se puede comparar con el <a href=/patinetes/egret-pro/>Egret Pro</a>. **Veredicto:** el Ey! 7 compensa si confías en la marca, lo vas a usar en ciudad para trayectos cortos y el precio es lo decisivo; pero hoy la compra sensata es condicional: pide en tienda la ficha completa y el certificado DGT. Si quieres que autonomía y peso vengan avalados por escrito, el Ey! 6 es la opción segura.
+
+## Lo bueno y lo mejorable
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3695,53 +3713,30 @@ Sin certificado DGT español verificado; como el resto de la familia, limitado a
 
 <img src=/media/patinetes/egret-ey-7-3.webp alt=Egret Ey! 7 en una calle comercial>
 
-## Walberg Urban Electrics: Hamburgo y la filosofía Egret
-
-Egret es la marca de **Walberg Urban Electrics GmbH**, una empresa de Hamburgo que lleva más de una década fabricando patinetes eléctricos premium: chasis cuidados, componentes de proveedores europeos y precios tradicionalmente altos. Por eso el Ey! 7 es noticia dentro de la casa: por primera vez, la marca alemana baja de los 500 €. La estrategia se entiende en su <a href=https://my-egret.com/>web oficial</a>: mantener el sello —en este caso, un motor suministrado por **Bosch**— recortando en lo accesorio para atacar el segmento donde Xiaomi y Segway venden por volumen.
-
-## Lo que se sabe y lo que aún no: honestidad de ficha
-
-Este análisis no va a inventarse lo que la marca aún no publica. Del Ey! 7 constan su precio de **449 €**, el motor Bosch, las ruedas **tubeless de 10 pulgadas**, los **tres modos de conducción** y su venta desde el 28 de mayo de 2025. No constan oficialmente ni la potencia, ni la batería, ni la autonomía, ni el peso. Eso tiene dos lecturas: la amable es que es un lanzamiento reciente con ficha en despliegue; la práctica es que, sin autonomía declarada, ningún comprador debería firmar a ciegas. Cuando Egret publique los datos, esta ficha se actualizará; hasta entonces, lo que sigue es contexto y normativa, no cifras prestadas de sus hermanos.
-
-## Normativa VMP en España: lo que sí está claro
-
-Sea cual sea su batería, si compras un Ey! 7 para usarlo en España te aplica el régimen de los vehículos de movilidad personal: circulación por vías urbanas y carriles habilitados, **prohibido circular por aceras**, velocidad máxima general de 25 km/h —este modelo está limitado a 20 km/h por su homologación alemana, así que cumple de sobra— y casco según la ordenanza de tu ciudad. Además, desde enero de 2024 solo pueden comercializarse en España VMP con el **certificado de circulación** de la DGT: antes de comprarlo, verifica en la <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>página oficial de la DGT sobre certificación de VMP</a> que el modelo y su versión concreta figuran como certificados, porque el propio análisis de la ficha advierte de que aún no hay certificado español verificado para el Ey! 7.
-
-## Uso real: último kilómetro y transporte público
-
-Un patinete de esta clase vive en trayectos de 2 a 8 km: de casa a la estación, de la estación a la oficina. Las ruedas de 10 pulgadas tubeless son la elección correcta para ese uso —más cómodas que las de 8,5 y con menos pinchazos que las de cámara— y los tres modos permiten domesticarlo en zonas peatonales. Sin datos de peso ni de plegado publicados, no podemos prometer que sea el más cómodo de subir a un tren en hora punta: es otro dato a exigir en tienda antes de pagar.
-
-## Mantenimiento: poco, pero no cero
-
-Un patinete eléctrico no tiene aceite ni ITV, pero sí consumibles: pastillas o tambores de freno, neumáticos tubeless que agradecen revisar la presión cada dos semanas —de ella dependen autonomía y estabilidad— y una batería que envejece mejor si no se guarda descargada ni al sol. La ventaja de que el motor sea Bosch y la marca tenga servicio en Europa es la disponibilidad de recambios frente a marcas sin importador: pregunta por ella en el punto de venta, porque en un VMP el taller es tan importante como el precio.
-
-## Frente al Ey! 6: ¿merece la pena?
-
-Su rival está en casa: el <a href=/patinetes/egret-ey-6/>Egret Ey! 6</a> cuesta **799 €** en nuestra ficha, con 450 W nominales, hasta 55 km de autonomía declarada y 21,6 kg de peso: todo lo que el 7 aún no declara. También puedes cruzar datos con el <a href=/patinetes/egret-pro/>Egret Pro</a> si tu presupuesto se estira. **Veredicto:** el Ey! 7 merece la pena si confías en la marca, tu uso es urbano corto y el precio manda; pero la compra inteligente hoy es condicional: exige la ficha completa y el certificado DGT en tienda. Si necesitas autonomía y peso garantizados por escrito, el Ey! 6 es la compra segura. 
-
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Egret Ey! 7?
-**449 €** PVP recomendado.
+### ¿Cuánto vale el Egret Ey! 7?
+**449 €** de PVP recomendado.
 
-### ¿Qué motor lleva?
-Un motor **Bosch**, sin datos de potencia publicados aún.
+### ¿Qué motor monta?
+Motor **Bosch**; la potencia aún no está publicada.
 
-### ¿Cuándo salió a la venta?
-El **28 de mayo de 2025** en tiendas y web de Egret.
+### ¿Desde cuándo se vende?
+Llegó el 28 de mayo de 2025 a tiendas y a la web de Egret.
 
-### ¿Qué autonomía tiene?
-Aún no publicada oficialmente.
+### ¿Qué autonomía declara?
+De momento, ninguna oficial.
 
-### ¿Es legal en España?
-Sí como VMP, con su límite de 20 km/h y sin aceras.
+### ¿Se puede usar legalmente en España?
+Sí, como VMP: limitado a 20 km/h y sin pisar aceras.
 
-### ¿Merece la pena frente al Ey! 6?
-El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget con sello Bosch. Si el precio manda, el 7.
+### ¿Mejor el Ey! 7 o el Ey! 6?
+El Ey! 6 (799 €) viene con 551 Wh y ficha completa; el Ey! 7 es la opción económica con sello Bosch. Si manda el precio, el 7.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>presentación del Ey! 7 en GadgetFlare</a>. <a href=https://my-egret.com/>Egret (Walberg Urban Electrics) — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP</a>*`,
+*Fuentes: <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>presentación del Ey! 7 en GadgetFlare</a>. <a href=https://my-egret.com/>Egret (Walberg Urban Electrics) — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP</a>*
+`,
   },
   // ─────────────────────────── TURBOANT (3) ───────────────────────────
   {
