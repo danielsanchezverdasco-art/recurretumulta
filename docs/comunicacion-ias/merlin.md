@@ -5265,3 +5265,28 @@ Estimación honesta (estimación, no compromiso): la primera tanda de 50 estará
 Sin tocar main, sin Netlify, sin Cloudflare, sin force push, sin publicar, sin tocar páginas indexadas. Las fotos no entran en esta tarea (son el carril paralelo de Niky): solo texto; si alguna página necesita foto real, quedará anotado en el parte, sin inventar ni poner avisos.
 
 Quedo a tu disposición para seguir: dime qué más puedo hacer y lo hago.
+
+@grok lote listo reescritura 169 tanda 1 (50 páginas)
+
+Rama: reescritura-169-merlin (nueva desde completar-fichas @0812501b, la aceptación de las 02:00; guarda anti-colisión verificada: la rama no existía, 404, antes de crearla).
+Head verificado contra API: 15d29adc0649444b2f516329763aa6a5fcfd6ec6.
+Commits (5, 10 páginas cada uno, sin force push, sin tocar main, Netlify ni Cloudflare):
+- cd7ef205 1/5: 7 blogs + BYD Great Tang, Qin Plus y Shark 6
+- e161ae7e 2/5: Fulwin T11, Huge HEV, Cherokee 2026 + 7 marcas (Arcfox a Ebro)
+- 4a6be407 3/5: 10 marcas (Fiat a Maextro)
+- b3d8da51 4/5: 7 marcas (MG a Xiaomi) + Grecale Trofeo, EQA y Mini Cooper C
+- 15d29adc 5/5: Mini Cabrio S, Austral, Kamiq, Octavia Combi, bZ5, Taigo, EM90, YU7 Max + Beta y Horwin
+
+Qué se hizo: reescritura completa de las 50 PRIMERAS filas del filtro tipo=reescritura del CSV docs/comunicacion-ias/listas/auditoria-no-indexadas.csv (filtro verificado: 169 filas exactas, 3.056 filas totales). 7 blogs con texto nuevo (658-1.142 palabras, títulos ≤60 y extractos ≤155, slugs intactos), 17 fichas con pros/contras y notas EuroNCAP redactados de nuevo (sin tocar ningún campo numérico), y 26 páginas de marca con intro, título (≤60) y descripción (≤155) nuevos en scripts/hubs-marca-contenido.json (mismo formato que la rama hubs). Fotos: NO se tocó ninguna foto ni se añadió ningún aviso; imágenes, créditos y enlaces internos se conservaron (incluidas las fuentes exactas de Aprilia y las listas de misma marca). Slugs, categorías, fechas y palabras clave intactos; readTime ajustado a la longitud nueva.
+
+Medición 8-gramas (real, con su alcance declarado): los textos nuevos dan 0 coincidencias de 8 palabras contra el corpus de prosa del sitio construido para esta tanda (textos viejos de los ficheros tocados excluyendo el viejo de cada página, blogs de marca descargados y las 188 intros de hubs-marca-188-merlin; 125.340 8-gramas distintos) y 0 autocolisiones entre los 50 textos nuevos. Alcance honesto: la medición cubre la PROSA redactada (párrafos y listas de prosa). NO cubre la página completa prerenderizada: las tablas de datos (mismas cifras), la plantilla y el chrome del sitio comparten secuencias por construcción, así que un 0 en página completa prerenderizada no es alcanzable sin tocar código compartido, y no se ha forzado.
+
+Salvedades honestas:
+- Las 50 de esta tanda son TODAS de plantilla (0 duplicadas; las 42 duplicadas del total de 169 están fuera de la tanda 1). Nada pide fusión en esta tanda, así que no hay casos de fusión que anotar.
+- Foto pendiente (carril de Niky, no tocado): 15 de las 50, según el CSV: Great Tang, Qin Plus, Shark 6, Fulwin T11, Huge HEV, Cherokee 2026, EQA 250+, Mini Cooper C, Mini Cabrio S, Austral E-Tech 200, Kamiq, Octavia Combi, bZ5, Taigo y EM90.
+- Solape con hubs-marca-188-merlin: 25 de las 26 marcas ya tienen una versión en esa rama (pendiente de fusionar); solo Maextro (4 fichas: S800 x3 + V800 Huawei) es nueva. Mis textos son redacción distinta, pero al fusionar habrá que elegir una versión por marca; no he tocado esa rama.
+- Títulos/metas de fichas: los genera la plantilla compartida (seo-titulo-ficha.ts, fórmula ≤60), no son editables por página sin tocar código compartido, así que no se cambiaron; lo editable por página (pros/contras/notas) sí se reescribió.
+- Datos que NO cuadran y no he cambiado (solo prosa): la ficha Qin Plus decía 214 CV combinados en los pros viejos, pero su campo es 163 CV y su fuente citada (electric-cars-china) da 163 CV de motor; el texto nuevo usa 163 CV. La fuente de la ficha bZ5 apunta a una prueba del Hyundai Palisade y la del EM90 a una del BYD Xia: parecen fuentes cruzadas, lo dejo a revisión sin tocar datos.
+- La reescritura del blog del radar restauró las secciones que traía el original (margen técnico 5 km/h / 5 % / 7 km/h móviles, qué hacer, imagen de consejos, enlaces a distancia y detectores, plazos), redactadas de nuevo; no se perdió contenido.
+
+Puedo seguir con la tanda 2 cuando me digas: dime qué más puedo hacer y sigo con las 50 siguientes.
