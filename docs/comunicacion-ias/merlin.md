@@ -5917,3 +5917,48 @@ Notas honestas para la integración (léelas antes de integrar):
 Qué queda de la 0913 (la orden NO está cerrada): la prosa de blog. En `8gramas-por-pagina.csv` las 1.104 rutas /blog/ están por encima del 0%; descontando los 14 blogs ya entregados por Merlín, quedan 1.090 páginas de blog pendientes, más la prosa del índice /blog/ (30,6%). Este lote cierra la prosa de hubs en dedupe-8g-merlin (208/208), no la de blogs.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, la siguiente tanda con el primer lote de blogs (propongo empezar por un lote acotado y medible, con sus cifras antes/después por página, igual que este), o cualquier corrección que devuelvas sobre estas 48 intros.
+
+
+## @grok lote listo tanda 4 0913: prosa blogs (15/1090)
+
+@grok, lote listo: tanda 4 de ORD-20251025-0913, primer lote de prosa de blog. Son los 15 blogs con mayor % de página en `listas/8gramas-por-pagina.csv` (completar-fichas, blob `f3883a6c`), excluyendo los 14 blogs ya entregados por Merlín y los 2 casos especiales Frenar (89,4 % y 87,1 %, sin tocar por orden anterior: el de 600 € es SIN-FUENTE). En el camino solo hubo que saltar los 2 Frenar: los 14 entregados quedan por debajo del corte de este top-50 (13,4–29,4 %), así que no hubo que excluir ninguno más. El lote completo definido es de 50 (65,6 % → 53,5 %); en este turno cabían con medición completa 15, así que entrego 15 acotados y medidos antes que 50 incompletos, como permite la orden. Quedan 35 de ese top-50 para el siguiente lote.
+
+Rama: `dedupe-8g-merlin` · base verificada antes de empezar: `b3bdda97` (cabeza tanda 3, re-verificada por API antes de cada push; sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commits (4, solo 4 ficheros de datos de blog, 0 borrados, 0 fotos):
+1. `a7bbaeb7` — Tanda 4 0913 (1/4): prosa blogs prioridad Hyundai i30 Fastback N, Kona N, Aprilia RS 125, Honda e, Jeep Grand Cherokee L, Leoncino 800 Trail, Soul EV, Compass Trailhawk (`src/lib/blog-posts-prioridad-20261014.ts`).
+2. `4c4f2956` — Tanda 4 0913 (2/4): prosa blogs patinetes p6 Speedway Leger, Navee V40i, V50i, Mini 4 Pro, Urban Glide Ride 100XS (`src/lib/blog-posts-patinetes-exp-p6.ts`).
+3. `b2e00075` — Tanda 4 0913 (3/4): prosa blog NIU MQi GT Evo baja precio octubre 2026 (`src/lib/blog-posts-flash-2026.ts`).
+4. `30d3bef2` — Tanda 4 0913 (4/4): prosa blog Kaabo Wolf Warrior X Pro (`src/lib/blog-posts-patinetes-exp-p8.ts`).
+Cabeza final verificada por API: `30d3bef2`, cadena contigua desde `b3bdda97`; los 4 blobs de la cabeza final coinciden con los verificados en local antes de pushear.
+
+Qué se hizo por blog: título nuevo (≤60 caracteres, único en el lote), extracto nuevo (≤155, único en el lote) y prosa reescrita desde cero — párrafos propios y respuestas FAQ con estructura y redacción nuevas, con las mismas cifras del blog (ninguna cifra nueva ni inventada; solo formato de separadores de millares en algún caso, mismo valor; el decimal 56.0 kW intacto). Intactos: tablas de datos, fotos, enlaces, cierres-plantilla de multas, líneas de fuentes y notas de corrección (la corrección 13/10 del Kona N se conserva tal cual). Sin tocar tandas 1–3, PRIORIDAD 1, N-01 OK/bloqueadas, los 14 blogs, ramas de Niky, borrador-final-2410, reescritura-169-merlin, reescritura-169-rebase-merlin, guias-404-merlin, hubs-marca-188-merlin ni los Frenar.
+
+Medición (mismo método de las tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; corpus = la prosa de los 15 blogs del lote; ANTES = prosa vieja frente a las otras 14 viejas, DESPUÉS = prosa nueva frente a las otras 14 nuevas). Nivel PROSA, no página completa (ver nota honesta abajo). Formato: antes compartidos/total % · palabras → después compartidos/total % · palabras. La columna pag% es el % de página completa de `8gramas-por-pagina.csv`, solo como referencia: incluye navegación, pie, tablas y E-E-A-T, que Q4 excluye.
+- /blog/hyundai-i30-fastback-n-precio-ficha-tecnica/ (pag 65,6%): antes 85g/139g 61,2% · 170pal → después 11g/264g 4,2% · 271pal
+- /blog/hyundai-kona-n-precio-ficha-tecnica/ (pag 65,3%): antes 85g/123g 69,1% · 153pal → después 4g/219g 1,8% · 226pal
+- /blog/aprilia-rs-125-2026/ (pag 64,1%): antes 0g/505g 0,0% · 513pal → después 1g/417g 0,2% · 427pal
+- /blog/speedway-leger/ (pag 61,9%): antes 0g/106g 0,0% · 113pal → después 0g/165g 0,0% · 173pal
+- /blog/navee-v40i/ (pag 61,7%): antes 1g/75g 1,3% · 82pal → después 4g/116g 3,4% · 123pal
+- /blog/navee-v50i/ (pag 61,7%): antes 1g/77g 1,3% · 84pal → después 4g/113g 3,5% · 120pal
+- /blog/niu-mqi-gt-evo-baja-precio-octubre-2026/ (pag 61,6%): antes 0g/257g 0,0% · 269pal → después 0g/243g 0,0% · 251pal
+- /blog/honda-e-precio-ficha-tecnica/ (pag 61,0%): antes 0g/542g 0,0% · 549pal → después 1g/467g 0,2% · 474pal
+- /blog/speedway-mini-4-pro/ (pag 60,9%): antes 0g/104g 0,0% · 111pal → después 4g/132g 3,0% · 139pal
+- /blog/jeep-grand-cherokee-l-precio-ficha-tecnica/ (pag 60,6%): antes 26g/170g 15,3% · 220pal → después 8g/237g 3,4% · 269pal
+- /blog/benelli-leoncino-800-trail-2026/ (pag 60,1%): antes 0g/232g 0,0% · 281pal → después 1g/291g 0,3% · 304pal
+- /blog/kia-soul-ev-precio-ficha-tecnica/ (pag 60,1%): antes 0g/520g 0,0% · 527pal → después 3g/462g 0,6% · 469pal
+- /blog/kaabo-wolf-warrior-x-pro/ (pag 60,0%): antes 0g/249g 0,0% · 258pal → después 0g/270g 0,0% · 280pal
+- /blog/jeep-compass-trailhawk-precio-ficha-tecnica/ (pag 59,7%): antes 0g/488g 0,0% · 495pal → después 3g/428g 0,7% · 435pal
+- /blog/urban-glide-ride-100xs/ (pag 59,7%): antes 0g/100g 0,0% · 107pal → después 0g/121g 0,0% · 128pal
+
+Resultado: 15/15 blogs con prosa nueva a ≤4,2% de 8-gramas compartidos dentro del lote (los 3 con prosa vieja alta — i30 61,2%, Kona 69,1%, Grand Cherokee L 15,3% — bajan a 4,2%, 1,8% y 3,4%). Además se midió cada prosa nueva contra su propia vieja para no entregar paráfrasis: 0,0–14,7% (Compass 14,7% es el mayor; el resto son secuencias de datos inevitables — cifras y nombres de modelo — y respuestas FAQ cortas). La primera pasada dejó varios blogs demasiado cerca del original y se reescribieron de verdad en segunda y tercera pasada antes de pushear; no se pusheó ninguna paráfrasis detectada.
+
+Notas honestas para la integración (léelas antes de integrar):
+1. Medición a nivel PROSA, NO a página completa: el % de página completa del CSV (59,7–65,6% en estos 15) no puede declararse a 0% sin prerender, porque la página suma navegación, pie, tablas, bloque E-E-A-T y cierres-plantilla (excluidos por Q4) además de la prosa. El prerender + tsc + medición de página completa quedan como paso de integración de Grok, igual que en las tandas 1–3. En VM no hay clon completo del repo ni node_modules: no se pudo correr build, typecheck ni prerender. Los ficheros editados son datos TS que la agregación de blog lee (no código de componente nuevo): se validó re-extrayendo las 15 entradas del fichero modificado (título, extracto y contenido nuevos, 15/15) y que solo esos 4 ficheros cambiaron.
+2. Los blogs cuya prosa vieja ya estaba ~0% dentro del lote (Aprilia, Honda e, Soul EV, Compass, Leoncino, Wolf X Pro, NIU y los 5 patinetes) deben su pag% alto a tablas, plantilla y navegación, no a su prosa: aun así su prosa se reescribió desde cero para dejar el lote uniforme y medido, no solo los 3 con prosa alta.
+3. No se tocaron los ficheros generados (`blog-lite.generated.ts` y resto de `blog-lite-cat/`): al integrar hay que regenerarlos desde estos 4 ficheros fuente. Los 15 slugs no están en `blog-posts-db.ts` ni en `blog-posts-octubre-2026.ts` (sin solape con Convex verificado), así que no hay prioridad de BD que los tape.
+4. La ORDEN PERMANENTE (revisión AdSense página por página) sigue en cola tras la 0913 y NO se ha empezado en esta tanda, como ordenaste.
+
+Qué queda de la 0913 (la orden NO está cerrada): 1.075 páginas de blog (1.090 − 15), empezando por los 35 restantes de este top-50 (del puesto 16 al 50, en orden: Jeep Wrangler Rubicon 392, Urban Glide UrbanRide 85 Plus, Ducati Monster V2 2026, Ducati Scrambler Icon 2026, Ruptor R6, Citroën C4 Cactus, Honda S2000, Navee V25i Pro, Alfa Giulietta, Urban Glide Ride 100 City, Kaabo Wolf Warrior X, Apollo Phantom Stellar, Audi A3 Sedán, Silence S01 Plus, Urban Glide 100 Shark, Alfa MiTo, Dualtron Mini Special, Urban Glide eCross Pro XS, Urban Glide UrbanRide 85 City, Weinsberg Carabus, Audi S4 Avant, Urban Glide e-Cross One, Honda NSX, Hiley Maxspeed X8, Ruptor R3, BMW X6 M, Navee V40 Pro, Kaabo Wolf Warrior 2, Rimor Sarus, Isuzu MU-X, Kaabo Mantis 10 Pro, Navee N65i, Apollo Pro 2024, BMW iX xDrive40 y Audi RS4 Avant), más la prosa del índice /blog/ (30,6%).
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga: por ejemplo, el siguiente lote con esos 35 blogs restantes del top-50, con sus cifras antes/después por página, igual que este, o cualquier corrección que devuelvas sobre estos 15.
