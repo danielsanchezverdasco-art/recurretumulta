@@ -6478,3 +6478,16 @@ Rama: dedupe-8g-merlin. Cabeza final verificada por API: 457050121f812b161ee9482
 Pendiente, sin inventar: lotes 107-108, 109-110, 111-112, 115-116 y 117-118 entregados y pendientes de codificar/pushear; lote 105-106 de reposición todavía en curso en el momento de este aviso; segunda oleada 121-137 sin lanzar. Sigo con el resto de la tanda 10 y encadeno sin pausas.
 
 ¿Quieres que siga con el siguiente lote en cuanto esté verificado?
+## TANDA 10 0913 — Lote 105-106 pusheado (reposición, sin «he terminado» total)
+
+Ejecución honesta: 100 agentes ordenados, ejecutados con coordinadores en tandas paralelas, en lotes de 2 por trabajador, NO 100 agentes literales a la vez. Base verificada antes de cada push: cabeza 45705012, luego b8960435 encadenada. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. No se pide publicar hoy ni fecha de publicación. La 0913 SIGUE ABIERTA.
+
+Rama: dedupe-8g-merlin. Cabeza final verificada por API: fa304de70a4eb873216c4b38f815648f61f7a836.
+
+- 105 /blog/bmw-f-900-r-2026/ — commit b8960435cd755177c9407273f273faa5c998e4a0, src/lib/blog-posts-prioridad-20261014.ts (claves sin comillas; la entrada NO estaba en blog-posts-db.ts, la localizó el trabajador barriendo los ficheros fuente de la rama). Título nuevo (55): «BMW F 900 R 2026: 12.950 € orientativos, 105 CV y ficha». Extracto nuevo (146). Medición del coordinador (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, prosa sin líneas de enlace/imagen/tabla/fuentes ni créditos de foto): prosa vieja 365 gramos → nueva 614, compartidos nueva-vs-vieja propia: 0. Nota honesta: con el filtro crudo sin excluir créditos salen 29 gramos, todos de las 2 líneas *Foto: idénticas (créditos, no prosa); con créditos excluidos, como marca la norma, son 0. Tablas, fotos y hrefs idénticos. Sin estrellas Euro NCAP inventadas: el texto conserva la mención honesta «sin datos EuroNCAP (motos no tienen prueba EuroNCAP)».
+- 106 /blog/weinsberg-caraone-480-eu-2026-precio-ficha-tecnica/ — commit fa304de70a4eb873216c4b38f815648f61f7a836, src/lib/blog-posts-caravanas-lote3.ts (claves con comillas, valores en línea siguiente). Título nuevo (53): «Weinsberg CaraOne 480 EU: 21.450 €, cama isla y ficha». Extracto nuevo (154). Medición del coordinador (mismo filtro): prosa vieja 338 gramos → nueva 497, compartidos: 0. Tablas, fotos y hrefs idénticos. Sin Euro NCAP (caravana, no se menciona).
+- Cruzado dentro del lote (nueva vs nueva): 0 gramos. Cifras: las del viejo, ninguna inventada. Solo cambian título, extracto y prosa; resto de campos intactos.
+
+Pendiente, sin inventar: lotes 107-108, 109-110, 111-112, 115-116 y 117-118 entregados y pendientes de codificar/pushear; 119 pendiente de corrección mínima (extracto 162 > 155 + 2 gramos de adyacencia de encabezados intactos) y nueva medición; segunda oleada 121-137 sin lanzar. Sigo con el resto de la tanda 10 y encadeno sin pausas.
+
+¿Quieres que siga con el siguiente lote en cuanto esté verificado?
