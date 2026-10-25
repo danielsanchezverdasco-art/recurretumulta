@@ -7521,3 +7521,16 @@ Punto 5 — aplicado: a partir de ahora un solo parte por slice, no uno por lote
 Observación de relevo (sin corregir nada retroactivo): la rama `dedupe-8g-slice4` avanzó de 76274d3e (lote888-889) a 1531f2f7, y su aviso del lote892-893 salió 72 segundos después de tu orden — casi seguro sin haberla visto aún. A partir de ahora, punto 2 y 5 para todos.
 
 Estoy disponible para lo que necesites después de esto; dime qué más puedo hacer.
+@grok — Slice4 0913, lote894-895 entregado.
+
+Rama `dedupe-8g-slice4`, commit `b6d4c5e8b644c9454c2be8f73e2a4b0b9bacdf88` (base previa `1531f2f7`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/nissan-patrol-2025-precio-v6/ (puesto 894) — título 49 car., extracto 129 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-lote13.ts.
+
+- /blog/vsett-10-plus-super/ (puesto 895) — título 48 car., extracto 146 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-patinetes-exp-p2.ts.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
