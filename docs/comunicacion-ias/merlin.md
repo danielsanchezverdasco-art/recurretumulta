@@ -148,3 +148,71 @@ Los 6 se rechazaron por clase «partial»: su contenido nuevo no conserva la est
 - `multa-patinete-octubre-2026-que-hacer-como-recurrir` (puesto 509): caso distinto y solo de formato — el contenido nuevo pasa 4 enlaces de markdown a ancla HTML con el MISMO destino (/blog/como-recurrir-una-multa-de-trafico-pasos-plazos/, ×4), con imágenes, tablas y *Fuentes:* idénticos. El driver lo clasifica «partial» porque el contador href= no ve los enlaces markdown. Va a la siguiente ronda para aplicarlo como desviación declarada de formato (destinos idénticos) o restaurar el formato markdown; no es un bloqueo de datos.
 
 Siguiente puesto fuera del slice: 524 (s20-09, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
+# Parte s20-09 — coordinador único ORD-1525
+
+Rama nueva `dedupe-8g-s20-09` (no existía: 404 previo), base `dedupe-8g-merlin` @bd1ecdb3ff08c3f17067d117938687437b8f4286, un commit, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `23a594bcf17fa4c0df2f791e1f18f0eae074e322`, verificado por GET de la ref (la ref apunta al mismo sha).
+Puestos 524–571: 45/48 pusheados, 3 saltados a la siguiente ronda (nada perdido).
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Los pusheados: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas). Solo se aplicaron title/excerpt/content a todas las copias. Los lite no se tocaron.
+
+## Blogs pusheados (45)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| energica-eva-esseesse9-plus-2025-precio-ficha-tecnica | 47/128 | 902 → 1000 | blog-posts-prioridad-20261014.ts |
+| pilote-atlas-a696g-precio-ficha-tecnica | 50/124 | 894 → 918 | blog-posts-autocaravanas-lote3.ts |
+| qjmotor-srt-800sx-2024-precio | 47/145 | 581 → 626 | blog-posts-motos-exp-m28.ts |
+| recurrir-multa-radar-velocidad | 44/153 | 669 → 700 | blog-data.ts |
+| vespa-elettrica-vs-piaggio-1-cual-comprar | 51/155 | 601 → 750 | blog-posts-duelos-motos.ts |
+| vw-california-coast-2026-analisis-opinion | 46/149 | 898 → 960 | blog-posts-campers-vw.ts |
+| byd-great-han-1008-km-autonomia-carga-9-minutos | 44/151 | 534 → 647 | blog-posts-motor-2026-m.ts |
+| ds-9-e-tense-250-2026-precio-ficha | 48/138 | 0 → 631 | blog-posts-lote3.ts |
+| elnagh-baron-573-precio-ficha-tecnica | 54/143 | 998 → 1101 | blog-posts-autocaravanas-lote4.ts |
+| mg4-electric-vs-byd-dolphin-2025-cual-comprar | 41/146 | 941 → 1104 | blog-posts-duelos.ts |
+| westfalia-columbus-600d-2026-precio-ficha-tecnica | 53/143 | 1011 → 1190 | blog-posts-autocaravanas-merlin2.ts |
+| etrusco-v-5-9-db-precio-ficha-tecnica | 52/131 | 989 → 1058 | blog-posts-autocaravanas-lote4.ts |
+| vw-california-ocean-2026-analisis-opinion | 52/145 | 839 → 928 | blog-posts-campers-vw.ts |
+| burstner-ixeo-it-680-g-precio-ficha-tecnica | 52/117 | 1124 → 1052 | blog-posts-autocaravanas-lote3.ts |
+| hymer-exsis-i-580-pure-precio-ficha-tecnica | 53/127 | 962 → 1022 | blog-posts-autocaravanas-lote4.ts |
+| como-pagar-multa-dgt | 54/147 | 529 → 614 | blog-posts-longtail-1.ts |
+| multa-semaforo-en-rojo-recurrir | 59/142 | 563 → 633 | blog-data.ts |
+| multa-uso-movil-conduciendo-recurrir | 54/145 | 564 → 616 | blog-data.ts |
+| ue-bruselas-cuotas-hibridos-chinos | 50/150 | 581 → 602 | blog-posts-motor-2026-l.ts |
+| carthago-chic-c-line-i-59-xl-le-precio-ficha-tecnica | 52/139 | 847 → 954 | blog-posts-autocaravanas-lote3.ts |
+| challenger-s-194-precio-ficha-tecnica | 57/149 | 1049 → 1137 | blog-posts-autocaravanas-lote4.ts |
+| lmc-tourer-lift-h-664-g-precio-ficha-tecnica | 49/141 | 945 → 987 | blog-posts-autocaravanas-lote3.ts |
+| carado-t-338-edition27-precio-ficha-tecnica | 50/135 | 941 → 989 | blog-posts-autocaravanas-lote3.ts |
+| qjmotor-svt-650-2024-precio | 50/140 | 604 → 769 | blog-posts-motos-exp-m28.ts |
+| frankia-titan-i-840-gd-precio-ficha-tecnica | 53/140 | 1062 → 1119 | blog-posts-autocaravanas-lote4.ts |
+| zbe-espana-2026-ciudades-multan-cuanto-multa | 48/147 | 0 → 554 | blog-posts-estudios-geo.ts |
+| macbor-xr5-2024-precio | 55/151 | 588 → 723 | blog-posts-motos-exp-m27.ts |
+| sunlight-t-68-2026-precio-ficha-tecnica | 59/140 | 895 → 1109 | blog-posts-autocaravanas-merlin1.ts |
+| benimar-sport-363-precio-ficha-tecnica | 55/143 | 1011 → 1190 | blog-posts-autocaravanas-lote4.ts |
+| bmw-serie-7-2027-precio-autonomia-carwow | 49/145 | 646 → 765 | blog-posts-radar-20261022-1458.ts |
+| acer-es-series-5-advance | 47/129 | 603 → 664 | blog-posts-patinetes-exp-p10.ts |
+| westfalia-columbus-640-e-precio-ficha-tecnica | 59/147 | 927 → 1002 | blog-posts-autocaravanas-lote3.ts |
+| benimar-mileo-243-precio-ficha-tecnica | 58/149 | 1522 → 1433 | blog-posts-autocaravanas-lote125-g08.ts, blog-posts-autocaravanas-lote125.ts |
+| mclouis-fusion-367-precio-ficha-tecnica | 59/154 | 1102 → 1077 | blog-posts-autocaravanas-lote4.ts |
+| mg2-electrico-2027-ferrol-precio | 55/147 | 641 → 654 | blog-posts-radar-20261022.ts |
+| chausson-v594-road-line-precio-ficha-tecnica | 54/144 | 1135 → 1225 | blog-posts-autocaravanas-lote4.ts |
+| voge-525r-naked-a2-precio | 51/134 | 888 → 1028 | blog-posts-lote14.ts |
+| hobby-optima-de-luxe-t70-ge-precio-ficha-tecnica | 58/127 | 1054 → 1089 | blog-posts-autocaravanas-lote3.ts |
+| laika-ecovip-600-2026-precio-ficha-tecnica | 56/152 | 1095 → 1190 | blog-posts-autocaravanas-merlin2.ts |
+| lepas-l6-primeras-pruebas-385-km-autonomia | 53/150 | 674 → 729 | blog-posts-radar-20261023-0058.ts |
+| mclouis-mc4-373-precio-ficha-tecnica | 57/146 | 1208 → 1230 | blog-posts-autocaravanas-lote4.ts |
+| bmw-ix4-2027-presentacion-oficial | 44/143 | 676 → 791 | blog-posts-radar-20261016.ts |
+| peugeot-salon-paris-2026-stand-dos-concepts | 47/149 | 653 → 676 | blog-posts-octubre-2026.ts |
+| evercross-h7 | 49/128 | 865 → 1064 | blog-posts-patinetes-exp-p4.ts |
+| gwm-haval-h6-2024-precio | 46/151 | 668 → 765 | blog-posts-coches-exp26.ts |
+
+Ficheros del commit (27): blog-data.ts, blog-posts-autocaravanas-lote125-g08.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote3.ts, blog-posts-autocaravanas-lote4.ts, blog-posts-autocaravanas-merlin1.ts, blog-posts-autocaravanas-merlin2.ts, blog-posts-campers-vw.ts, blog-posts-coches-exp26.ts, blog-posts-duelos-motos.ts, blog-posts-duelos.ts, blog-posts-estudios-geo.ts, blog-posts-longtail-1.ts, blog-posts-lote14.ts, blog-posts-lote3.ts, blog-posts-motor-2026-l.ts, blog-posts-motor-2026-m.ts, blog-posts-motos-exp-m27.ts, blog-posts-motos-exp-m28.ts, blog-posts-octubre-2026.ts, blog-posts-patinetes-exp-p10.ts, blog-posts-patinetes-exp-p4.ts, blog-posts-prioridad-20261014.ts, blog-posts-radar-20261016.ts, blog-posts-radar-20261022-1458.ts, blog-posts-radar-20261022.ts, blog-posts-radar-20261023-0058.ts.
+
+Notas verificadas en el push: 558 Benimar Mileo 243 aplicado a sus 2 copias idénticas (lote125-g08.ts y lote125.ts); los lotes 530–531 (DS, vieja doblemente escapada, 25 tablas) y 550–551 (ZBE, vieja con \n literales, 21 tablas) se aplicaron con saltos reales y midieron 0/0 contra la vieja fresca decodificada; 562 Voge con título nuevo de 47,6 CV exactos; 555 BMW con la contradicción vieja corregida; 571 H6 solo con las 5 estrellas ANCAP 2022 de la vieja; guías legales con procedimiento y datos íntegros.
+
+## Saltados a la siguiente ronda (3, nada perdido, viejas intactas)
+
+- `intercomunicador-casco-moto-legal-octubre-2026` (puesto 533): solo formato — 4 enlaces markdown de la vieja pasados a ancla HTML sin comillas con el MISMO destino (/blog/como-recurrir-una-multa-de-trafico-pasos-plazos/, ×4), con imágenes (2/2), tablas (13/13) y *Fuentes:* idénticos. El driver lo clasifica «partial» porque el contador href= no ve los enlaces markdown. Va a la siguiente ronda para aplicarlo como desviación declarada de formato (destinos idénticos).
+- `fantic-caballero-125-rally-2025-precio-ficha-tecnica` (puesto 559): solo formato y crédito — la URL desnuda del manual (×2) pasa a enlace con el mismo destino (http://www.pieces-fantic.com/uploads/manuels/MSS_FC700_2023-00_ES_01-09_INFORMACIÓN-DATOS.pdf), y 2 créditos *Foto: pasan a *Imagen: con los mismos hechos de atribución; imágenes (2/2), tablas (19/19) y *Fuentes:* idénticos. El driver lo clasifica «partial» por el cambio de cómputo href. Va a la siguiente ronda para aplicarlo como desviación declarada (destinos idénticos).
+- `egret-ey-6`: caso distinto, pérdida real de enlace — el contenido nuevo pierde 1 enlace frente a la vieja fresca (https://www.dgt.es, 1→0), con imágenes (3/3), tablas (27/27) y *Fuentes:* idénticos, desviación no documentada. Va a la siguiente ronda para restaurar ese enlace o documentar la desviación y re-medir.
+
+Siguiente puesto fuera del slice: 572 (s20-10, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
