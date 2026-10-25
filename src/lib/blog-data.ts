@@ -136,9 +136,9 @@ Sí. Pide en tus alegaciones que aporten el certificado vigente de verificación
   {
     slug: "defectos-forma-anulan-multa-dgt",
     locale: "es",
-    title: "Tu multa DGT puede ser nula: 12 defectos que la anulan",
+    title: "12 defectos de forma que pueden anular tu multa DGT",
     excerpt:
-      "Muchas multas contienen errores en su tramitación. Conoce los 12 vicios de forma más frecuentes que pueden provocar la nulidad de una sanción de tráfico.",
+      "Revisa tu expediente antes de pagar: estos 12 fallos de tramitación —del TIP del agente a la foto ilegible— pueden dejar sin efecto una sanción de tráfico.",
     category: "Vicios de Forma",
     date: "2026-08-05",
     readTime: 9,
@@ -156,67 +156,67 @@ Sí. Pide en tus alegaciones que aporten el certificado vigente de verificación
       "multa matricula erronea anular",
       "multa trafico derecho defensa audiencia",
     ],
-    content: `## ¿Qué es un vicio de forma en una multa de tráfico?
+    content: `## Vicio de forma: qué significa en tráfico
 
-Un **vicio de forma** es un error procedimental en el expediente sancionador que vulnera tus derechos como ciudadano. A diferencia de los argumentos de fondo (discutir si cometiste o no la infracción), los vicios de forma atacan la validez del **procedimiento** seguido por la administración.
+En un expediente sancionador, un fallo del trámite que lesiona los derechos del ciudadano recibe el nombre de vicio de forma. A diferencia de discutir el fondo —si la conducta se cometió o no—, aquí se cuestiona la validez del camino que siguió la administración para sancionar.
 
-La ventaja: son objetivos. Si el error existe, la multa se anula con independencia de si realmente cometiste la infracción.
+Su fuerza está en que son objetivos: si el fallo consta en el expediente, la sanción cae aunque la infracción se hubiera cometido realmente.
 
-## Los 12 vicios de forma más frecuentes
+## Los 12 vicios de forma habituales
 
-### 1. Falta de identificación del agente denunciante
+### 1. Agente denunciante sin identificar
 
-La ley exige que conste el **número TIP o placa** del agente en el boletín de denuncia. Si no aparece o es ilegible, la denuncia carece de la fe pública que le otorga su condición de agente de la autoridad.
+El boletín debe recoger el número TIP o la placa del agente. Si ese dato no aparece, o no se puede leer, la denuncia pierde la fe pública propia de un agente de la autoridad.
 
-### 2. Ausencia de la hora exacta de la infracción
+### 2. Falta la hora exacta de la infracción
 
-Debe figurar la hora exacta (no solo la fecha) en que se produjo la infracción. Sin este dato no puedes rebatir el hecho ni comprobar si el radar estaba en funcionamiento en ese momento.
+Junto a la fecha, el boletín debe indicar la hora exacta de la infracción. Sin ella no puedes discutir el hecho ni verificar si el radar funcionaba entonces.
 
-### 3. Matrícula o descripción del vehículo incorrecta
+### 3. Matrícula o descripción del vehículo con errores
 
-Si la matrícula que aparece en el boletín contiene errores tipográficos, o si la descripción del vehículo (marca, modelo, color) no coincide con el tuyo, la multa puede anularse por falta de identificación del vehículo infractor.
+Un error tipográfico en la matrícula, o una descripción —marca, modelo, color— que no sea la de tu vehículo, puede dejar la multa sin efecto por no identificar al vehículo infractor.
 
 <img src=/media/consultar-multas-pendientes-cuerpo.webp alt=Consulta de multas pendientes para revisar cada expediente>
 
-### 4. Notificación defectuosa o fuera de plazo
+### 4. Notificación fallida o fuera de plazo
 
-La DGT dispone de plazos estrictos para notificarte la denuncia. Si la notificación no se realizó correctamente o superó el plazo legal, la infracción puede haber prescrito.
+La DGT debe notificarte la denuncia dentro de unos plazos estrictos. Una notificación mal hecha, o fuera de plazo, puede dejar la infracción prescrita.
 
-### 5. Falta de indicación de la reducción del 50%
+### 5. Sin aviso de la reducción del 50%
 
-El artículo 80 de la LTSV obliga a informar al infractor de su derecho a la reducción del 50% por pronto pago. Si este dato no aparece en la notificación, es un defecto formal grave.
+La notificación debe avisar de que el pronto pago rebaja la sanción un 50%: así lo impone el artículo 80 de la LTSV. Omitir ese aviso es un defecto formal grave.
 
-### 6. Ausencia de firma o sello oficial
+### 6. Documento sin firma ni sello oficial
 
-Los documentos administrativos deben ir firmados por el funcionario competente y llevar el sello del organismo. La falta de estos elementos invalida el documento.
+Todo documento administrativo necesita la firma del funcionario competente y el sello del organismo. Sin esos dos elementos, el documento no vale.
 
-### 7. Expediente sin tramitar en 6 meses (caducidad)
+### 7. Expediente parado más de 6 meses: caducidad
 
-Si transcurren más de **6 meses** desde el inicio del expediente sancionador sin que se dicte resolución, el procedimiento caduca y debe archivarse.
+Desde que se abre el expediente, la administración tiene seis meses para resolver. Cuando pasan más de seis meses sin resolución dictada, el procedimiento queda caducado y se archiva.
 
 <img src=/media/radar-recurso.webp alt=Boletín de denuncia revisado con lupa buscando defectos de forma>
 
-### 8. Infracción prescrita
+### 8. Infracción ya prescrita
 
-Las infracciones **leves** prescriben a los **3 meses**, las **graves** a los **6 meses** y las **muy graves** al **año** desde la fecha de la infracción.
+El plazo es de tres meses para las leves, de seis para las graves y de un año para las muy graves, contados desde la fecha de la infracción.
 
-### 9. Falta de motivación de la resolución
+### 9. Resolución sin motivar
 
-La resolución sancionadora debe ser motivada. No basta con citar el artículo infringido; debe explicarse por qué se aplica al caso concreto.
+Motivar la resolución es obligatorio: no alcanza con nombrar el artículo infringido, hay que razonar por qué encaja en el caso concreto.
 
-### 10. Vulneración del derecho de audiencia
+### 10. Resolución sin trámite de audiencia
 
-Antes de dictar la resolución, debes tener la oportunidad de presentar alegaciones. Si se dictó resolución sin darte ese plazo, se vulnera tu derecho de defensa.
+Antes de resolver, la administración debe dejarte presentar alegaciones. Resolver sin haberte dado ese plazo vulnera tu derecho de defensa.
 
-### 11. Descripción vaga o genérica de los hechos
+### 11. Hechos descritos de forma vaga o genérica
 
-La descripción de la infracción debe ser concreta y precisa. Frases genéricas como "conducción negligente" sin detallar los hechos concretos no cumplen los requisitos legales.
+Los hechos deben describirse de manera concreta y precisa. Una frase genérica, del estilo de «conducción negligente», sin hechos concretos detallados, no reúne los requisitos legales.
 
-### 12. Foto o prueba ilegible o insuficiente
+### 12. Foto o prueba que no se puede leer
 
-Si la infracción se basa en una fotografía del radar o cámara y la imagen es ilegible o no permite identificar claramente el vehículo o la velocidad, la prueba no tiene valor probatorio suficiente.
+Cuando la prueba es una fotografía de radar o cámara, la imagen debe permitir reconocer con claridad el vehículo y la velocidad. Si no se puede leer, o no identifica esos datos, carece de valor probatorio suficiente.
 
-## Resumen de los 12 vicios de forma
+## Los 12 vicios, en una tabla
 
 | Nº | Vicio de forma | Efecto |
 |---|---|---|
@@ -246,23 +246,29 @@ Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Le
 
 ## Preguntas frecuentes
 
-### ¿Qué es un vicio de forma en una multa de tráfico?
-Un error procedimental en el expediente sancionador que vulnera tus derechos como ciudadano. A diferencia de los argumentos de fondo, ataca la validez del procedimiento seguido por la administración.
+### ¿Qué se entiende por vicio de forma en tráfico?
 
-### ¿Un vicio de forma anula la multa aunque cometiera la infracción?
-Sí. Los vicios de forma son objetivos: si el error existe, la multa se anula con independencia de si realmente cometiste la infracción.
+Un fallo del trámite en el expediente sancionador que lesiona tus derechos como ciudadano. Frente a discutir el fondo, cuestiona la validez del camino seguido por la administración.
 
-### ¿Cuáles son los vicios de forma más frecuentes?
-Entre los más habituales están la falta del número TIP o placa del agente en el boletín, la ausencia de la hora exacta de la infracción y los errores en la matrícula o la descripción del vehículo.
+### ¿Anula la multa un vicio de forma aunque cometiera la infracción?
 
-### ¿Qué es la caducidad del expediente sancionador?
-Si transcurren más de 6 meses desde el inicio del expediente sin que se dicte resolución, el procedimiento caduca y debe archivarse.
+Sí: son objetivos, y si el fallo consta, la multa se anula aunque la infracción se hubiera cometido realmente.
 
-### ¿Cuándo prescribe una multa de tráfico?
-Las infracciones leves prescriben a los 3 meses, las graves a los 6 meses y las muy graves al año desde la fecha de la infracción.
+### ¿Qué vicios de forma aparecen con más frecuencia?
 
-### ¿Una foto de radar ilegible anula la multa?
-Puede hacerlo: si la imagen es ilegible o no permite identificar claramente el vehículo o la velocidad, la prueba no tiene valor probatorio suficiente.
+Entre los habituales: agente sin número TIP o placa en el boletín, hora exacta de la infracción ausente y matrícula o descripción del vehículo con errores.
+
+### ¿En qué consiste la caducidad del expediente sancionador?
+
+En que, pasados más de seis meses desde que se abrió el expediente sin resolución dictada, el procedimiento queda caducado y se archiva.
+
+### ¿Cuándo prescriben las multas de tráfico?
+
+Tres meses para las leves, seis para las graves y un año para las muy graves, contados desde la fecha de la infracción.
+
+### ¿Puede anular la multa una foto de radar ilegible?
+
+Puede: si la imagen no se puede leer, o no identifica con claridad el vehículo y la velocidad, la prueba carece de valor probatorio suficiente.
 
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
@@ -955,9 +961,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "multa-sin-cinturon-seguridad-recurrir",
     locale: "es",
-    title: "Multa por cinturón (200 €): cómo anularla y recurrir",
+    title: "Multa sin cinturón: 200 € y cómo recurrirla",
     excerpt:
-      "200€ y 4 puntos por no llevar cinturón. Si el agente no pudo verificarlo desde su posición o hay errores en el boletín, tienes argumentos para recurrir.",
+      "Conductor: 200 € y 4 puntos; ocupante adulto: 100 €. Si el agente no pudo ver con certeza que ibas sin cinturón o el boletín tiene errores, recurre.",
     category: "Tipos de Multa",
     date: "2026-06-10",
     readTime: 4,
@@ -970,41 +976,41 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa agente no presencial camara",
       "multa conductor desconocido identificar",
     ],
-    content: `## La multa por no llevar cinturón: lo que dice la ley
+    content: `## Qué dice la norma y cuánto cuesta
 
-El uso del cinturón de seguridad es obligatorio según el artículo 117 del Reglamento General de Circulación. La sanción es de **200€ y 4 puntos** del carnet para el conductor, y de **100€** para el pasajero mayor de edad que no lo lleve.
+La obligación de usarlo figura en el Reglamento General de Circulación, en su artículo 117. La sanción para el conductor alcanza 200 € y 4 puntos del carnet, mientras que un ocupante adulto sin cinturón se expone a 100 €.
 
-## Argumentos para recurrir
+## La clave: que el agente lo viera con certeza
 
-### 1. El agente no pudo verificar el uso del cinturón
+El primer argumento gira en torno a la certeza de lo observado. Para sancionar, el agente tiene que haber podido constatar con seguridad visual que el conductor circulaba sin el cinturón abrochado. Esa seguridad se tambalea cuando el agente observaba desde un vehículo en marcha, desde lejos, con poca luz o desde un ángulo que impedía ver dentro del habitáculo: en esos casos, la observación directa admite discusión.
 
-El agente debe haber podido **comprobar visualmente con certeza** que el conductor no llevaba el cinturón puesto. Si el agente estaba en un vehículo en movimiento, a distancia considerable, en condiciones de poca visibilidad o con un ángulo que no permitía ver el interior del habitáculo, la observación directa es cuestionable.
+## Cuando el cinturón no se ve desde fuera
 
 <img src=/media/cinturon-repartidores-octubre-2026.webp alt=El cinturón es obligatorio también para repartidores desde octubre de 2026>
 
-### 2. El cinturón estaba puesto pero era de color oscuro o poco visible
+Un segundo argumento, de apoyo, tiene que ver con la visibilidad del propio cinturón: con ciertas luces, una cinta oscura puede pasar desapercibida desde fuera. Si la cinta de tu coche es oscura y el agente observaba con visibilidad reducida, esa circunstancia refuerza la impugnación sin sostenerla por sí sola.
 
-En algunas condiciones de iluminación, un cinturón oscuro puede no ser visible desde el exterior. Si el cinturón de tu vehículo es de color oscuro y el agente estaba en condiciones de visibilidad reducida, es un argumento secundario de apoyo.
+## Exenciones acreditadas con certificado
 
-### 3. Exenciones médicas o físicas
+También existen personas exentas de usarlo por determinadas condiciones médicas, siempre que lo acrediten con un certificado médico oficial. Si contabas con esa exención y el agente no la tuvo en cuenta, la sanción no procedería.
 
-Existen exenciones del uso del cinturón para personas con determinadas condiciones médicas acreditadas mediante certificado médico oficial. Si tenías exención y el agente no lo contempló, la multa no es procedente.
+## Si el sancionado es un menor
 
 <img src=/media/cinturon-repartidor-furgoneta-cuerpo.webp alt=Conductor con el cinturón de seguridad abrochado>
 
-### 4. Menores de edad: responsabilidad del conductor
+Cuando el que viajaba sin cinturón es un menor, quien responde es el conductor. Pero si el menor ocupaba un asiento trasero y el agente no alcanzaba a verlo desde donde estaba, vuelve a entrar en juego el argumento de la falta de certeza visual.
 
-Si la multa se refiere a un menor que no llevaba cinturón, la responsabilidad es del conductor del vehículo. Sin embargo, si el menor estaba en el asiento trasero y el agente no podía verlo desde su posición, aplica el argumento del punto 1.
+## Errores en el boletín que conviene revisar
 
-### 5. Vicios de forma en el boletín
+Como en cualquier sanción, conviene revisar el boletín con lupa: número TIP del agente, hora exacta consignada, matrícula y descripción del vehículo correctas, y notificación practicada en plazo y forma.
 
-Como en cualquier multa, verifica:
-- Que figure el número TIP del agente
-- Que conste la hora exacta
-- Que la matrícula y descripción del vehículo sean correctas
-- Que la notificación se realizó en plazo y forma correctos
+Antes de recurrir, revisa estos cuatro puntos como en cualquier sanción:
+- El número TIP del agente debe aparecer en la denuncia
+- La hora exacta tiene que estar recogida
+- Matrícula y descripción del vehículo deben coincidir con el tuyo
+- La notificación debe haberse practicado dentro de plazo y con la forma debida
 
-## Resumen de argumentos
+## Resumen rápido
 
 | Situación | Argumento |
 |---|---|
@@ -1015,6 +1021,8 @@ Como en cualquier multa, verifica:
 | Errores en el boletín | Sin TIP, sin hora exacta o matrícula errónea |
 
 
+En síntesis: distancia o movimiento del agente, cinta oscura o poca luz, exención médica acreditada, menor en un asiento trasero no visible y errores en el boletín son las cinco vías que conviene valorar antes de decidir si se recurre.
+
 ## También te puede interesar
 
 - <a href=/blog/multa-uso-movil-conduciendo-recurrir/>multa por usar el móvil al volante</a>
@@ -1024,24 +1032,26 @@ Como en cualquier multa, verifica:
 Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514>Reglamento General de Circulación (BOE)</a>.
 
 
+## Dudas habituales
 
-## Preguntas frecuentes
+### ¿Cuánto cuesta circular sin cinturón?
 
-### ¿Cuánto es la multa por no llevar cinturón?
-200 € y 4 puntos del carnet para el conductor; 100 € para el pasajero mayor de edad que no lo lleve.
+200 € y 4 puntos para el conductor; 100 € para el ocupante adulto que circule sin él.
 
 ### ¿El pasajero también puede ser multado?
-Sí: el pasajero mayor de edad que no lleve el cinturón se enfrenta a 100 € de sanción.
+
+Sí: un ocupante adulto que circule sin cinturón se expone a una sanción de 100 €.
 
 ### ¿Hay exenciones médicas?
-Sí, para personas con determinadas condiciones acreditadas mediante certificado médico oficial. Si tenías exención y el agente no la contempló, la multa no es procedente.
 
-### ¿Qué pasa si el menor no llevaba cinturón?
-La responsabilidad es del conductor del vehículo. Pero si el menor iba en el asiento trasero y el agente no podía verlo desde su posición, la observación es cuestionable.
+
+Sí, para personas con ciertas condiciones acreditadas con certificado médico oficial. Si disponías de exención y el agente no la consideró, la sanción no procedería.### ¿Y si el menor viajaba sin cinturón?
+
+Responde el conductor. Pero si el menor viajaba detrás y el agente no alcanzaba a verlo desde donde se encontraba, la observación resulta discutible.
 
 ### ¿Cómo tiene que haberme visto el agente?
-El agente debe haber podido comprobar visualmente con certeza que no llevabas el cinturón puesto. A distancia, en movimiento o con poca visibilidad, esa certeza es discutible.
 
+Tiene que haber podido constatar con seguridad visual que circulabas sin el cinturón abrochado. Desde lejos, en marcha o con poca luz, esa seguridad admite discusión.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
   },
@@ -1195,9 +1205,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "recurso-reposicion-multa-modelo-2026",
     locale: "es",
-    title: "Modelo de recurso de reposición para multas (2026)",
+    title: "Recurso de reposición de multa: modelo y pasos 2026",
     excerpt:
-      "Qué debe incluir un recurso de reposición contra una multa DGT: estructura, argumentos más efectivos y modelo de escrito actualizado para 2026.",
+      "Cómo redactar un recurso de reposición contra una multa: partes del escrito, fundamentos, plazo de 1 mes y qué hacer si lo desestiman.",
     category: "Guías Prácticas",
     date: "2026-05-20",
     readTime: 7,
@@ -1213,74 +1223,61 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa trafico abogado gratis",
       "multa dgt porcentaje anulacion estadistica",
     ],
-    content: `## ¿Qué es el recurso de reposición?
+    content: `## Un primer paso para impugnar la sanción
 
-El **recurso de reposición** es el primer mecanismo de impugnación de una sanción de tráfico. Se interpone ante el **mismo órgano que dictó la resolución** (la Jefatura Provincial de Tráfico o el Ayuntamiento) y tiene un plazo de **1 mes** desde la notificación de la resolución sancionadora.
+Cuando llega una resolución sancionadora de tráfico, la primera vía para discutirla es el recurso de reposición. Se presenta ante el mismo órgano que dictó esa resolución, ya sea la jefatura de tráfico de la provincia o el consistorio municipal, y el plazo para hacerlo es de 1 mes contado desde la notificación. Presentarlo no cuesta nada, tampoco exige contar con abogado, y funciona especialmente bien cuando la sanción arrastra defectos de forma o cuando existen razones de fondo con peso.
 
-Es gratuito, no requiere abogado y tiene tasas de éxito razonables cuando existen vicios de forma o argumentos de fondo sólidos.
+## Las partes que debe llevar el escrito
 
 <img src=/media/plazos-dgt-recurso-calendario-cuerpo.webp alt=Calendario de plazos del procedimiento sancionador de tráfico>
 
-## Estructura del recurso de reposición
+Un recurso ordenado facilita que quien lo resuelve entienda qué se discute y por qué. Conviene estructurarlo en cuatro partes, cada una con su función.
 
 <img src=/media/plazos-dgt-recurso-hero.webp alt=Plazos para presentar el recurso de reposición contra una multa>
 
-### 1. Encabezamiento
+### Datos de quien recurre
 
-\`\`\`
-AL SR./SRA. JEFE/A PROVINCIAL DE TRÁFICO DE [PROVINCIA]
+El escrito abre con la identificación de la persona recurrente: nombre completo, DNI o NIE y domicilio elegido para recibir notificaciones, dirigido a la jefatura provincial de la provincia que corresponda. Tras esos datos, el texto introduce la exposición de motivos con la fórmula habitual.
 
-D./Dña. [NOMBRE COMPLETO], con DNI/NIE [NÚMERO], con domicilio
-a efectos de notificación en [DIRECCIÓN COMPLETA],
+### Relato de lo ocurrido
 
-EXPONE
-\`\`\`
+En este apartado se expone, de forma breve, que se ha recibido la resolución sancionadora, con su número de expediente, la fecha en que se notificó y la infracción que se imputa, además de los hechos tal y como los conoce quien recurre. La concisión ayuda: no se trata de contar toda la historia, sino de fijar qué se impugna y desde qué versión de los hechos.
 
-### 2. Hechos
+### Razones jurídicas
 
-Describe de forma concisa:
-- Que has recibido la resolución sancionadora nº [EXPEDIENTE]
-- La fecha de la notificación
-- El tipo de infracción que se te imputa
-- Los hechos tal como tú los conoces
+Expónlo de forma breve:
+- Que te notificaron la resolución sancionadora nº [EXPEDIENTE]
+- Cuándo se te notificó
+- Qué infracción se te atribuye
+- Los hechos según tu versión
 
-### 3. Fundamentos de derecho
+Aquí está el núcleo del recurso. Las alegaciones más habituales son tres. La primera apunta a defectos de forma y se apoya en la Ley 39/2015, artículo 47.1.e, norma del Procedimiento Administrativo Común, en relación con el derecho de defensa que reconoce la Constitución en su artículo 24: si la resolución adolece de un vicio concreto, debe precisarse cuál es. La segunda invoca la prescripción, conforme al Real Decreto Legislativo 6/2015, texto refundido de la Ley sobre Tráfico, artículo 112, cuando desde la infracción hasta una notificación válida ha pasado el tiempo previsto sin interrupción. La tercera se basa en la falta de prueba suficiente, amparada en la presunción de inocencia de la Constitución, artículo 24.2, y en el Real Decreto 320/1994, artículo 53.2: corresponde a la Administración acreditar los hechos que imputa.
 
-Esta es la parte más importante. Incluye:
+### Lo que se pide al final
 
-**Por vicios de forma:**
-> "Al amparo del artículo 47.1.e) de la Ley 39/2015, del Procedimiento Administrativo Común, se solicita la nulidad de la resolución impugnada por [especificar el vicio de forma concreto], lo que vulnera el derecho de defensa reconocido en el artículo 24 de la Constitución Española."
+El escrito cierra solicitando que el recurso se admita y que, tras los trámites oportunos, se dicte una resolución favorable que acuerde la nulidad de la sanción recurrida, identificada por su número de expediente. Se firma indicando ciudad y fecha.
 
-**Por prescripción:**
-> "De conformidad con el artículo 112 del Real Decreto Legislativo 6/2015 (LTSV), la infracción imputada ha prescrito, al haber transcurrido [X] meses desde la fecha de la infracción sin notificación válida al interesado."
+## Si la respuesta es negativa
 
-**Por falta de prueba:**
-> "En virtud del principio de presunción de inocencia (art. 24.2 CE) y del artículo 53.2 del Real Decreto 320/1994, la Administración no ha aportado prueba suficiente de los hechos imputados."
+Cuando el recurso de reposición se desestima, queda abierta la vía del recurso contencioso-administrativo, que supone acudir al juzgado provincial de lo contencioso-administrativo. En sanciones inferiores a 900 €, el procedimiento sigue la vía abreviada y tampoco en ese caso resulta obligatorio contar con abogado.
 
-### 4. Solicitud
+## Preguntas frecuentes
 
-\`\`\`
-Por todo lo expuesto,
+### ¿En qué consiste este recurso?
 
-SOLICITO que, teniendo por presentado este recurso de reposición,
-se sirva admitirlo y, previos los trámites de rigor, dicte resolución
-estimatoria del mismo, acordando la NULIDAD de la resolución
-sancionadora dictada en el expediente [NÚMERO].
+Es la primera vía para impugnar una sanción de tráfico y se dirige al mismo órgano que dictó la resolución, dentro del plazo de 1 mes desde su notificación.
 
-En [CIUDAD], a [FECHA]
+### ¿Hace falta abogado para presentarlo?
 
-Firmado: [NOMBRE]
-\`\`\`
+No. Presentarlo es gratuito, no exige abogado y puede prosperar cuando hay defectos de forma o razones de fondo sólidas.
 
-## ¿Qué pasa si te deniegan el recurso de reposición?
+### ¿Qué ocurre si lo desestiman?
 
-Puedes interponer **recurso contencioso-administrativo** ante el Juzgado de lo Contencioso-Administrativo de tu provincia. Para multas inferiores a **900€**, el procedimiento es abreviado y no requiere abogado.
+Queda acudir al juzgado provincial de lo contencioso-administrativo. Para sanciones por debajo de 900 €, el procedimiento es abreviado y no exige abogado.
 
-## La IA que analiza tu multa gratis
+### ¿Qué razones suelen resultar más eficaces?
 
-RecurreTuMulta.online genera automáticamente los argumentos específicos aplicables a tu multa concreta, con referencias a los artículos legales pertinentes. El análisis es completamente gratuito.
-
-## Estructura del recurso de reposición: resumen
+Los defectos de forma, con apoyo en la Ley 39/2015, artículo 47.1.e; la prescripción, conforme al Real Decreto Legislativo 6/2015, artículo 112; y la falta de prueba suficiente, amparada en la presunción de inocencia.
 
 | Parte | Qué debe incluir |
 |---|---|
@@ -1289,34 +1286,14 @@ RecurreTuMulta.online genera automáticamente los argumentos específicos aplica
 | Fundamentos de derecho | Vicios de forma (art. 47.1.e Ley 39/2015), prescripción (art. 112 LTSV) o falta de prueba |
 | Solicitud | Petición expresa de nulidad de la resolución sancionadora |
 
-
 ## También te puede interesar
+
 
 - <a href=/blog/como-recurrir-multa-dgt-sin-abogado/>guía para recurrir tu multa DGT sin abogado</a>
 - <a href=/blog/defectos-forma-anulan-multa-dgt/>12 vicios de forma que tumban una multa DGT</a>
 - <a href=/guias/prescripcion/>cuándo prescribe una multa de tráfico</a>
 
 Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565>Ley del Procedimiento Administrativo Común (BOE)</a>.
-
-
-
-## Preguntas frecuentes
-
-### ¿Qué es el recurso de reposición?
-El primer mecanismo de impugnación de una sanción de tráfico. Se interpone ante el mismo órgano que dictó la resolución y tiene un plazo de 1 mes desde la notificación.
-
-### ¿Necesito abogado para presentarlo?
-No: es gratuito, no requiere abogado y tiene tasas de éxito razonables cuando existen vicios de forma o argumentos de fondo sólidos.
-
-### ¿Qué pasa si me deniegan el recurso?
-Puedes interponer recurso contencioso-administrativo ante el Juzgado de lo Contencioso-Administrativo de tu provincia. Para multas inferiores a 900 €, el procedimiento es abreviado y no requiere abogado.
-
-### ¿Cuáles son los fundamentos más efectivos?
-Los vicios de forma (al amparo del artículo 47.1.e de la Ley 39/2015), la prescripción (artículo 112 LTSV) y la falta de prueba suficiente (presunción de inocencia).
-
-### ¿Puedo generar el recurso automáticamente?
-RecurreTuMulta.online genera automáticamente los argumentos específicos aplicables a tu multa concreta, con referencias a los artículos legales pertinentes. El análisis es completamente gratuito.
-
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
   },
