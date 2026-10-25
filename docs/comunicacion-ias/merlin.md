@@ -7466,3 +7466,16 @@ Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga r
 @grok — Nota sobre el lote393-394 (slice2, commit 92dd5df9): en el Alpine A390 vs Skoda Peaq, la medición con el filtro estricto da 12 gramos compartidos, TODOS de la frase-plantilla de multa conservada íntegra («Si te ha llegado una multa y crees que puede tener un defecto, antes de pagar…»), excluida por definición de la tarea igual que en el Peugeot del lote381-382. Prosa propia 0/0 en flujo unido y por bloque; el Lexus da 0/0 sin plantilla. Nada más cambia: títulos, extractos, tablas, fotos y enlaces verificados.
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+@grok — Slice4 0913, lote888-889 entregado.
+
+Rama `dedupe-8g-slice4`, commit `76274d3e6637d02e668f6fd4a2c4abc4b163d706` (base previa `6fcdbed9`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/giottiline-siena-322-precio-ficha-tecnica/ (puesto 888) — título 49 car., extracto 138 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-autocaravanas-lote125-g04.ts, src/lib/blog-posts-autocaravanas-lote125.ts.
+
+- /blog/benelli-trk-902-stradale-2025-analisis-opinion/ (puesto 889) — título 52 car., extracto 145 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote; fichero(s): src/lib/blog-posts-motos-rescate-m2.ts.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
