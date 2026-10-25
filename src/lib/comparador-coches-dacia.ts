@@ -1068,8 +1068,18 @@ export const COCHES_DACIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    pros: ["Por 26.290 € en acabado Expression ya trae cuadro digital de 7 pulgadas, pantalla de 10,1 pulgadas, cámara trasera y llantas de 17 pulgadas, un equipamiento que en un SUV híbrido de 4,34 m no se encuentra por menos en España", "Homologa 5,0 l/100 km y 112 g/km de CO₂ con etiqueta ECO: con su batería de 1,2 kWh puede circular hasta el 80 % del tiempo urbano en modo eléctrico según Dacia, sin enchufes ni esperas de carga", "Conserva 209 mm de altura libre al suelo pese a ser híbrido y tracción delantera, una cota propia de un SUV con aspiraciones camperas y que permite pistas de tierra sin rozar los bajos", "El sistema de 140 CV combina un 1.6 de gasolina con dos motores eléctricos y una caja automática multimodo sin embrague, así que arranca siempre en eléctrico y no exige convivir con un cambio manual en atascos"],
-    contras: ["Esta versión Hybrid 140 solo se vende 4x2: quien necesite tracción total en un Duster tiene que renunciar al híbrido completo y pasar al TCe 130 mild-hybrid 4x4", "El maletero se queda en 430 litros, por debajo de los 472 litros de las versiones no híbridas del mismo Duster, porque la batería de 1,2 kWh roba espacio bajo el piso de carga", "En pendientes prolongadas la caja multimodo tiende a revolucionar el 1.6 y, si la batería se agota, el coche se queda momentáneamente solo con el motor de gasolina de unos 94 CV para mover sus 1.455 kg", "Sus 160 km/h de punta y sus 10,1 s de 0 a 100 km/h lo dejan justo para adelantamientos cargado y en familia; los acabados Extreme y Journey que añaden llave manos libres o navegador ya suben a 27.790 €"],
+    pros: [
+      "El acabado Expression, por 26.290 €, ya trae cuadro digital de 7 pulgadas, pantalla de 10,1 pulgadas, cámara trasera y llantas de 17 pulgadas, un equipamiento que un SUV híbrido de 4,34 m no ofrece por menos en España",
+      "Con 5,0 l/100 km homologados, 112 g/km de CO₂ y etiqueta ECO, su batería de 1,2 kWh le permite circular hasta el 80 % del tiempo en ciudad en modo eléctrico, según Dacia, sin enchufes ni esperas de carga",
+      "A pesar de ser híbrido y de tracción delantera, conserva 209 mm de altura libre al suelo, una cota de SUV con aspiraciones camperas que permite pisar pistas de tierra sin rozar los bajos",
+      "El sistema de 140 CV combina un 1.6 de gasolina con dos motores eléctricos y una caja automática multimodo sin embrague, así que arranca siempre en eléctrico y no exige convivir con un cambio manual en los atascos",
+    ],
+    contras: [
+      "La versión Hybrid 140 solo se vende con tracción 4x2: quien necesite tracción total en un Duster debe renunciar al híbrido completo y pasar al TCe 130 mild-hybrid 4x4",
+      "El maletero queda en 430 litros, por debajo de los 472 litros de las versiones no híbridas del mismo Duster, porque la batería de 1,2 kWh resta espacio bajo el piso de carga",
+      "En pendientes largas la caja multimodo tiende a revolucionar el 1.6 y, si la batería se agota, el coche queda momentáneamente solo con el motor de gasolina de unos 94 CV para mover sus 1.455 kg",
+      "Con 160 km/h de punta y 10,1 s de 0 a 100 km/h se queda justo para adelantar cargado y en familia; los acabados Extreme y Journey, que añaden llave manos libres o navegador, ya suben a 27.790 €",
+    ],
     largoMm: 4343,
     anchoMm: 1813,
     altoMm: 1661,
@@ -1091,7 +1101,7 @@ export const COCHES_DACIA: CocheComparador[] = [
       costeMensualTotal: 192,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, gasolina a 1,85 €/l y consumo WLTP de 5.0 l/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Cálculo con 1.000 km al mes, gasolina a 1,85 €/l y consumo WLTP de 5.0 l/100 km; el seguro y el mantenimiento son estimaciones por segmento.",
       estimado: true
     },
     galeria: [
