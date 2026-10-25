@@ -856,8 +856,8 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "Las baterías Blade de BYD ofrecen 65,28 o 73,98 kWh y anuncian hasta 630 km en ciclo CLTC",
-      "El motor delantero de 268 CV y 330 Nm, desarrollado por FinDreams, la filial de BYD, da empuje de sobra",
-      "La asistencia a la conducción Momenta 5.0, con LiDAR y 33 sensores, lo pone al nivel de los eléctricos más avanzados",
+      "El motor delantero de 268 CV y 330 Nm, desarrollado por FinDreams, la filial de BYD, mueve el SUV de tracción delantera",
+      "La asistencia a la conducción Momenta 5.0, con LiDAR y 33 sensores, equipa un SUV de 5 plazas con etiqueta Cero",
       "Los 9 airbags, la pantalla de 15,6 pulgadas y los asientos con modo siesta cuidan a todos los ocupantes",
       "El precio en China, desde unos 16.000 €, es aproximadamente la mitad que el de un Tesla Model Y"
     ],
@@ -866,7 +866,6 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       "La autonomía es CLTC, así que la cifra WLTP europea sería menor",
       "El diseño fastback resta altura en las plazas traseras, algo a comprobar si viajan adultos altos",
       "No hay datos publicados de carga rápida, un hueco que conviene resolver antes de valorarlo en serio",
-      "La alianza con BYD diluye el «made by Toyota» que muchos compradores buscan en la marca"
     ],
     largoMm: 4780,
     anchoMm: 1866,
@@ -1441,18 +1440,18 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "El turbo híbrido 1.6 con 210 CV y 312 Nm convierte a este Cherokee en el primer híbrido de la saga",
-      "La tracción 4x4 viene de serie, con el sistema Selec-Terrain para adaptar el coche al terreno",
-      "Más de 800 km de autonomía con un depósito, a razón de unos 15 km por litro, lo hacen un buen viajero",
-      "El maletero de 795 litros, junto a las pantallas de 12,3 y 10,25 pulgadas, combina carga y tecnología",
-      "Fabricado en Toluca, en México, mantiene un precio contenido para lo que ofrece"
+      "El turbo híbrido 1.6 entrega 210 CV y 312 Nm.",
+      "La tracción es total, con el sistema Selec-Terrain.",
+      "Supera los 800 km de autonomía con un depósito, a razón de unos 15 km por litro.",
+      "El maletero es de 795 litros y las pantallas son de 12,3 y 10,25 pulgadas.",
+      "Se fabrica en Toluca (México) y su precio desde es de 30.000 €."
     ],
     contras: [
-      "Su llegada a Europa está sin confirmar, así que por ahora es un modelo para el mercado norteamericano",
-      "La batería de solo 1,08 kWh hace que el modo eléctrico sea testimonial, no un modo de uso real",
-      "Acelerar de 0 a 100 km/h le lleva 8,6 segundos, un registro discreto aunque suficiente para el día a día",
-      "Es el primer sistema híbrido de Stellantis en Norteamérica y todavía tiene que demostrar su fiabilidad",
-      "El Trailhawk más radical llegará más tarde y con un precio superior"
+      "Su llegada a Europa está sin confirmar y el precio desde, de 30.000 €, es orientativo desde tarifa estadounidense.",
+      "La batería es de solo 1,08 kWh, así que el modo eléctrico no es un modo de uso real.",
+      "Acelera de 0 a 100 km/h en 8,6 segundos.",
+      "Su consumo es de 6,7 l/100 km, con etiqueta ECO.",
+      "El plan de mantenimiento es cada 12 meses o 15.000 km, con un coste anual aproximado de 280 €."
     ],
     largoMm: 4650,
     anchoMm: 1860,
