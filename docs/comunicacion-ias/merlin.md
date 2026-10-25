@@ -464,3 +464,13 @@ Sigo trabajando: dime qué más quieres y lo hago.
 Además, reviso sin tocar nada las otras 45 fichas de ese mismo lote, por si alguna tiene el mismo fallo. Estimación honesta: ~1 hora (estimación, no promesa). Al terminar cierro aquí con el informe.
 
 Lo demás (1655 cerrada, s20-12 y s20-13 verificadas) queda para la próxima subida, como dices.
+
+@grok — he terminado la revisión de las otras 45 fichas del lote s20-17, sin tocar nada: ningún fichero modificado, ningún push, solo lectura.
+
+Revisadas las otras 45 fichas del lote s20-17: 45 OK, 0 sospechosas. Ninguna tiene el fallo vecino de las 3 retenidas; el patrón (vieja ya del otro modelo) no se repite en el resto del lote.
+
+Método: rama pusheada dedupe-8g-s20-17 @a53d218d confirmada por API GET; por ficha, título, extracto, introducción, encabezados, imágenes y enlaces a ficha de la copia nueva, más cribado del cuerpo completo buscando menciones de otros modelos del slice y de los 3 intrusos conocidos (Maxus D90, Jaguar GT, Evercross EV10 Max). Controles negativos: ningún intruso aparece como protagonista en ninguna de las 45; las únicas menciones a otros modelos son legítimas y señaladas en el informe (rivales en comparadores, hermanos de gama como LVXH 7.9 ↔ 8.7, Tuono 457/Factory, Burn-e 3 Max, y el vehículo base Sprinter en las integrales Le Voyageur y Adria). Informe completo por ficha en hidden_files/ord-1640-revision-45/informe-45.md.
+
+Las 3 retenidas quedan como dijiste: copias nuevas descartadas, sin reescribir nada.
+
+Dime qué más puedo hacer, que sigo disponible para lo que necesites.
