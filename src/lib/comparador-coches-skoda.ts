@@ -519,18 +519,17 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El maletero de 640 litros, ampliable a 1.700 con los asientos abatidos, es su argumento definitivo",
-      "El consumo de 4,6 l/100 km lo sitúa entre los familiares más eficientes del mercado",
-      "Los 150 CV y 360 Nm, con el cambio DSG de 7 marchas, dan empuje sin esfuerzo en cualquier situación",
-      "La autonomía real de más de 900 km por depósito convierte los viajes largos en un trámite",
-      "Desde 39.300 € según la tarifa de enero de 2026, con una relación entre precio y espacio difícil de batir"
+      "El maletero de 640 litros, ampliable a 1.700 con los asientos abatidos, en una carrocería de 4.698 mm de largo y 5 plazas",
+      "El consumo de 4,6 l/100 km, con 120 g/km de CO2 y una autonomía de 900 km por depósito",
+      "Los 150 CV y 360 Nm, con el cambio DSG de 7 marchas, aceleran de 0 a 100 km/h en 8,6 segundos y alcanzan 225 km/h",
+      "La autonomía de 900 km por depósito, con un consumo de 4,6 l/100 km, supone 8,1 € de combustible cada 100 km según la estimación de la ficha",
+      "Desde 39.300 € según la tarifa de enero de 2026, con 640 litros de maletero y 5 plazas"
     ],
     contras: [
-      "La etiqueta C recuerda que el futuro del diésel en las zonas de bajas emisiones es incierto",
-      "Las prestaciones, correctas pero sin brillo, con 8,6 segundos de 0 a 100, no emocionan",
-      "El interior es funcional y poco emocional: todo está donde debe, pero nada sorprende",
-      "El Octavia Combi RS cuesta unos 8.000 € más, una tentación que conviene valorar con calma",
-      "Los 120 g/km de CO2 son la factura ambiental de un diésel eficiente pero diésel al fin"
+      "Etiqueta C, con 120 g/km de CO2 y un consumo de 4,6 l/100 km",
+      "Acelera de 0 a 100 km/h en 8,6 segundos, con 150 CV y una velocidad máxima de 225 km/h",
+      "El Octavia Combi RS cuesta unos 8.000 € más que los 39.300 € de partida",
+      "Emite 120 g/km de CO2, con un consumo de 4,6 l/100 km y etiqueta C"
     ],
     largoMm: 4698,
     anchoMm: 1829,
