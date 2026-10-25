@@ -196,3 +196,7 @@
 
 ## C2 PARCIAL 2 — coordinador 2 (c2w05)
 - 1 slug con foto real verificada (Suzuki Swift Sport 2024, 3 ficheros WebP <300 KB, tamaños verificados byte a byte contra la rama c2w05, nombres exactos de los datos) + 1 slug SIN FOTO REAL honesto (Tank 800 2026: producción 2026 sin revelar sin camuflaje a 25/10/2026; concept 2021 descartado por no ser la versión de la ficha). CSV: 364 filas.
+
+## C2 PARCIAL 3 — coordinador 2 (c2w08 recuperado; push bloqueado por red, trabajo rescatado del fragmento local)
+- 2 slugs con foto oficial real verificada (Toyota C-HR+ 2026, Corolla Berlina 2025; ficheros -oficial.webp = imagenOficial que usa el hero de la ficha, WebP <300 KB). CSV: 366 filas.
+- PENDIENTE: los -hero.webp (imagen) de ambos slugs no venían en la entrega; los busca c2w08b.
