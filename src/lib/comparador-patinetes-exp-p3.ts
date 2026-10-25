@@ -858,7 +858,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "Sus 720 W de pico le permiten subir pendientes del 18 % sin apuros",
       "Chasis con IP55 y batería con IP67, así que soporta lluvia intensa sin problemas",
       "La app de InMotion añade bloqueo, modos de conducción y estadísticas",
-      "Se pliega con un solo clic, perfecto para combinarlo con el transporte público",
+      "Se pliega con un solo clic.",
     ],
     contras: [
       "Sin precio oficial: sin tarifa oficial verificable del Inmotion Air en Europa",
@@ -869,7 +869,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
       "La autonomía real en modo Sport baja de 25 km",
     ],
     veredicto:
-      "El urbano ligero bien hecho: pesa poco, está bien construido y la app suma. Perfecto para últimos kilómetros, no para grandes distancias.",
+      "15,6 kg, ruedas de 10 pulgadas, 720 W de pico, batería de 270 Wh y 35 km de autonomía declarada (23 km reales estimados). Plegado con un solo clic, carga en 4,5 h y app con bloqueo, modos de conducción y estadísticas.",
     fuenteNombre: "InMotion France",
     fuenteUrl: "https://www.inmotion-france.fr/en/inmotion-air-pro-electric-scooter",
     mantenimientoDIY: {
