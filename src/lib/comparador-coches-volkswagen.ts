@@ -1567,18 +1567,18 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Es el SUV coupé asequible: estilo de coupé por el precio de un generalista",
-      "El maletero de 438 litros sorprende pese a la caída del techo, y resuelve el uso familiar habitual",
-      "La mecánica 1.0 TSI de 115 CV es la misma probada del grupo, con recambios y servicio en todas partes",
-      "El equipamiento de serie del acabado Life es generoso para el precio de partida",
-      "La postura de SUV se combina con un consumo de utilitario, lo mejor de los dos mundos"
+      "Estética coupé a precio generalista: el Taigo ofrece la silueta de un SUV coupé sin salir del presupuesto de un coche generalista",
+      "Pese a la inclinación del techo, el maletero de 438 litros da para el día a día familiar sin renuncias habituales",
+      "El 1.0 TSI de 115 CV es un motor sobradamente conocido dentro del grupo, así que encontrar repuestos y taller resulta sencillo en cualquier parte",
+      "El acabado Life trae de serie un equipamiento amplio en relación con el precio desde el que parte",
+      "Conduce alto como un SUV y gasta como un utilitario: combina las dos virtudes en un solo coche",
     ],
     contras: [
-      "La etiqueta C afecta a toda la gama, sin excepción eléctrica ni híbrida",
-      "La plaza central trasera y la altura libre son justas por culpa del techo coupé",
-      "Los 10,4 segundos de 0 a 100 km/h con el motor de 115 CV no invitan a adelantar con prisa",
-      "El 1.5 TSI de 150 CV se va por encima de 30.000 €, un salto notable para ganar 35 CV",
-      "La visibilidad trasera, limitada por la caída del techo, obliga a confiar en los sensores"
+      "Toda la gama lleva etiqueta C: no hay variante eléctrica ni híbrida que se libre",
+      "El techo coupé deja poco sitio en la plaza trasera central y recorta la altura disponible para la cabeza",
+      "Con el motor de 115 CV, los 10,4 segundos hasta 100 km/h desaconsejan adelantar con prisas",
+      "Subir al 1.5 TSI de 150 CV supone pasar de 30.000 €, un incremento considerable a cambio de 35 CV más",
+      "La caída del techo estrecha la visión hacia atrás, así que los sensores se vuelven imprescindibles",
     ],
     largoMm: 4266,
     anchoMm: 1757,
