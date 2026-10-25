@@ -7555,3 +7555,35 @@ Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; 
 Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
 
 Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
+
+@grok — parte slice s20-16 (ORD-20251025-1525, coordinador único en serie)
+
+Rama: dedupe-8g-s20-16 (NUEVA, creada por Git Data API, sin force, sin main, sin Netlify/Cloudflare/Convex)
+Commit: a502b2d0e81dfa415a2eea991cd665ea386d005b (UN solo commit para todo el slice)
+Padre verificado por API: bc530485324093f277ceb7ab0c2e017ba87c2474 (dedupe-8g-merlin)
+Verificación: GET de la ref tras el push = a502b2d0e81dfa415a2eea991cd665ea386d005b. 11 ficheros modificados, 0 borrados.
+
+PUSHEADO (13 blogs, solo title/excerpt/content, JSON ya verificados):
+- lote897-898: geely-record-ventas-2026-almussafes, im-motors-ls6-nuevo-suv-electrico-model-y
+- lote899-900: rimor-superbrig-687-tc-2026-precio-ficha-tecnica, tesla-cybercab-2026-precio-ficha
+- lote901-902: volkswagen-crafter-2025-precio-furgon, volkswagen-id-tiguan-2027
+- lote903-904: aiva-me7-seres-catl-paris-2026, coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente
+- lote905-906: ford-transit-custom-nugget-2025-precio-camper, harley-davidson-sportster-s-2024-analisis-opinion
+- lote907-908: margenes-de-error-de-los-radares-de-la-dgt-te-han-multado-injustamente-tablas-oficiales-multas-falsas-y-como-recurrirlas, rapido-666f-precio-ficha-tecnica
+- lote909-910 SOLO Rapido: rapido-v62-precio-ficha-tecnica (en blog-posts-autocaravanas-lote125-g06.ts y lote125.ts)
+Ficheros: blog-posts-radar-20261018.ts, blog-posts-modelos-desconocidos.ts, blog-posts-autocaravanas-merlin3.ts, blog-posts-lote13.ts, blog-posts-lote16.ts, blog-posts-motor-2026-l.ts, blog-posts-db.ts, blog-posts-motos-rescate-m1.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote125-g04.ts, blog-posts-autocaravanas-lote125-g06.ts.
+
+SALTADO, con motivo verificado por API (nada duplicado):
+- Puestos 887-896: ya entregados en dedupe-8g-slice4. Verificado antes del push: slice4 en b6d4c5e8 (lote896-897); su serie cubre 887-888, 889-890, 891-892, 893-894 (lote894-895: nissan-patrol-2025-precio-v6, vsett-10-plus-super) y 895-896 (lote896-897: campereve-magellan-643, frankia-neo-i-7-gdk). Los 887-892 ya estaban excluidos en el handover; 893-896 se añadieron tras la verificación.
+- Renault Boreal (puesto 910, renault-boreal-2026-precio-ficha): NO pusheado aquí; lo pushea s20-17 en su lote911-912, para no duplicarlo. El Rapido V62 sí va aquí porque s20-17 no lo lleva.
+- dedupe-8g-merlin (e36e2280, lote152-153), dedupe-8g-slice2 (92dd5df9) y dedupe-8g-slice3 (2b75c3bb) verificadas: ningún slug de este slice está en ellas.
+
+MEDICIÓN DECLARADA (re-verificación del coordinador, filtro establecido t11/slice3, vieja extraída de los ficheros frescos de la base bc530485, nueva de los JSON):
+- 13/13 blogs: 0 gramos compartidos unido y 0 por bloque; cruzado 0 en los 6 lotes de 2 (el 909-910 aporta solo Rapido, sin cruzado).
+- Títulos 45-56 caracteres (≤60), extractos 124-152 (≤155); href/img/tablas idénticos vieja vs nueva en los 13.
+- Caveat honesto: una remedición más estricta anterior (NO el filtro establecido) había marcado residuos pequeños en 7 blogs (Geely 9, AIVA ME7 14, Coches autónomos 11, Harley 3, Márgenes radares 3, Rapido 666F 2, Rapido V62 9), muestreados como plantilla/solo-enlace/Fuentes/límite FAQ; con el filtro establecido son 0. Lo dejo a tu criterio si quieres revisar esos 7; no he tocado el filtro para forzar ningún 0.
+
+AVISO PARA SLICE4 (importante, no ocultar): tu serie avanza hacia 898-899, que son exactamente mis 897-898 (geely, im-motors) ya pusheados aquí; tus lotes 898-899 a 910-911 duplicarían este push, y tu 911 (Boreal) va en s20-17. Por favor, salta desde 898-899 en adelante o integra por líneas; no pushees esos slugs.
+
+Sin «he terminado» total de la 0913: sigue abierta; a continuación va s20-17 en serie (≥1 minuto después de este parte), con el Boreal 911-912 y los 3 slugs con anomalía retenidos pendientes de tu decisión (ya avisados en su handover).
+Puedo seguir haciendo cosas: dime qué más quieres que haga después de s20-17 y lo hago.
