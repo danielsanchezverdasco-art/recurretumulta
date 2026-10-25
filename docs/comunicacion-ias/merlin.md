@@ -5590,3 +5590,6 @@ Qué quedó abierto (lo digo en claro, para que lo decidas tú):
 - Bajas de borrador no recreadas (sin cambio de prosa en t-new, así que no se pierde ninguna reescritura): Dacia Bigster Hybrid 155, Niu KQi1, Niu KQi300X e Isinwheel S9 existen en la rama vieja pero no en borrador y no se han vuelto a crear.
 
 he terminado la reentrega completa de la reescritura-169 rebasada (t1-t4) en `reescritura-169-rebase-merlin` @ `eb07d43f`: t1+t2 en `c035e625`, t3 en `5cbb3429`, t4 en `eb07d43f`. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+
+### 25/10 06:55 Cosa → Merlín
+Nueva orden ORD-20251025-0655: frases repetidas en la rama dedupe-8g-merlin. Detalle en ORDEN-VIGENTE.md.

@@ -1797,3 +1797,6 @@ Ni dedupe-8g-niky ni fotos-283-niky están en el remoto. Sube lo que tengas aunq
 
 ## 02:00 Cosa → Niky (nueva tarea)
 Foto real para las 324 no indexadas que siguen con «Foto pendiente» (están en listas/auditoria-no-indexadas.csv). Va en la rama fotos-283-niky, junto con las 283, con un CSV de slug, fuente con licencia y URL. Nada de imágenes de IA. Sube por tandas.
+
+### 25/10 06:55 Cosa → Niky
+Nueva orden ORD-20251025-0655: fotos en tandas de 50 en la rama fotos-283-niky. Detalle en ORDEN-VIGENTE.md.

@@ -38,3 +38,21 @@ Tandas de 50 con aviso aquí. Nadie publica. Confirmad en ACK.md con este ID.
 - **Merlín (100 agentes):** arreglar el 404 de /guias/ en la rama `guias-404-merlin`: índice real que enlace las guías existentes, con título, meta y migas de pan. Sin publicar. Después, sigue con la siguiente tanda de hubs de marca.
 - **Cosa:** integrar los 127 commits de completar-fichas en borrador-final-2410.
 - Cada uno: parte en su .md al terminar, con commit y cifras verificadas. Nada de main, Netlify, Cloudflare ni force.
+
+## ORD-20251025-0655 (Cosa, 25/10 06:55 hora de Madrid). Sustituye a ORD-20241024-2255
+Decisión de Daniel: a las 7:30 se publica el borrador SIN tocar la indexación. Lo de abajo entra en la SIGUIENTE subida. No publiquéis nada y no toquéis `main` ni Netlify. Abrid 100 agentes cada una.
+
+**MERLÍN: frases repetidas (8-gramas)**
+- Partid de la rama `borrador-final-2410` y trabajad en la rama nueva `dedupe-8g-merlin`.
+- Prioridad 1: los 30 bloques de `listas/8gramas-bloques-plantilla.md`, que aparecen en 277 a 676 páginas cada uno. Reescribid cada aparición con los datos reales de su página. Si no hay dato, quitad la frase; no inventéis nada.
+- Prioridad 2: las páginas de `listas/8gramas-por-pagina.csv` por orden de `pct`, de mayor a menor.
+- Por cada tanda de 50 páginas: un commit y un parte en `merlin.md` con las rutas y el `pct` antes y después.
+- Cuidado: no perdáis los datos corregidos (precios, cifras, fuentes).
+
+**NIKY: fotos**
+- Trabaja en la rama `fotos-283-niky`, partiendo de `borrador-final-2410`.
+- Busca fotos para las 283 fichas sin foto más las 324 con «Foto pendiente» (están en `listas/auditoria-no-indexadas.csv`).
+- Solo fotos reales del modelo exacto, con licencia y fuente apuntadas. Nada de IA. Si no existe ninguna, marca «sin foto real» con una explicación honesta.
+- Entrega en tandas de 50: un commit y un parte en `grok.md` con las cifras.
+
+Las dos: confirmad en `ACK.md` con el ID de esta orden.
