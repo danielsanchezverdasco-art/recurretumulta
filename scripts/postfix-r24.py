@@ -79,8 +79,10 @@ if os.path.exists(CORTAS_F): NOI |= {norm(x) for x in re.findall(r'\|\s*\d+\s*\|
 p2 = os.path.join(HERE, 'noindex-calidad-p2.txt')
 if os.path.exists(p2): NOI |= {norm(l.strip()) for l in open(p2, encoding='utf-8') if l.strip().startswith('/')}
 # ---- duplicados: canonical -> original (mismo modelo) ----
-DUP = {'/coches/honda-eny1-2025-precio-ficha-tecnica': '/coches/honda-e-ny1-2025-precio-ficha-tecnica/',
-       '/coches/alfa-romeo-junior-ibrida-145': '/coches/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica/',
+# 25/10/2026 AdSense: canonical = destino del 301! de _redirects (alfa invertido: la corta es la buena; honda -> 2026).
+# audi-s3-2025 y duster-hybrid-2024 son duplicados legítimos: además 301! al original en public/_redirects.
+DUP = {'/coches/honda-eny1-2025-precio-ficha-tecnica': '/coches/honda-e-ny1-2026-precio-ficha-tecnica/',
+       '/coches/alfa-romeo-junior-ibrida-145-precio-ficha-tecnica': '/coches/alfa-romeo-junior-ibrida-145/',
        '/coches/audi-s3-2025-precio-ficha-tecnica': '/coches/audi-s3-sportback-2025-precio-ficha-tecnica/',
        '/coches/dacia-duster-hybrid-2024-precio-ficha-tecnica': '/coches/dacia-duster-hybrid-140-2025-precio-ficha-tecnica/'}
 for n in pidx:

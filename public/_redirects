@@ -1733,8 +1733,8 @@
 /blog/audi-rs6-avant-performance-2025-precio-ficha-tecnica /coches/audi-rs6-avant-performance-2025-precio-ficha-tecnica/ 301!
 /blog/audi-rs7-sportback-2025-precio-ficha-tecnica/ /coches/audi-rs7-sportback-2025-precio-ficha-tecnica/ 301!
 /blog/audi-rs7-sportback-2025-precio-ficha-tecnica /coches/audi-rs7-sportback-2025-precio-ficha-tecnica/ 301!
-/blog/audi-s3-2025-precio-ficha-tecnica/ /coches/audi-s3-2025-precio-ficha-tecnica/ 301!
-/blog/audi-s3-2025-precio-ficha-tecnica /coches/audi-s3-2025-precio-ficha-tecnica/ 301!
+/blog/audi-s3-2025-precio-ficha-tecnica/ /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
+/blog/audi-s3-2025-precio-ficha-tecnica /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
 /blog/audi-s3-sportback-2025-precio-ficha-tecnica/ /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
 /blog/audi-s3-sportback-2025-precio-ficha-tecnica /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
 /blog/audi-s5-2025-precio-ficha-tecnica/ /coches/audi-s5-2025-precio-ficha-tecnica/ 301!
@@ -9268,3 +9268,9 @@
 /coches/maserati-grecale-modena-v6-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
 /coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica/ /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
 /coches/maserati-grecale-trofeo-2027-precio-ficha-tecnica /coches/maserati-grecale-2027-precio-ficha-tecnica/ 301!
+
+# 25/10/2026 AdSense: duplicados legítimos -> original (antes indexables con canonical a otra URL)
+/coches/audi-s3-2025-precio-ficha-tecnica/ /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
+/coches/audi-s3-2025-precio-ficha-tecnica /coches/audi-s3-sportback-2025-precio-ficha-tecnica/ 301!
+/coches/dacia-duster-hybrid-2024-precio-ficha-tecnica/ /coches/dacia-duster-hybrid-140-2025-precio-ficha-tecnica/ 301!
+/coches/dacia-duster-hybrid-2024-precio-ficha-tecnica /coches/dacia-duster-hybrid-140-2025-precio-ficha-tecnica/ 301!

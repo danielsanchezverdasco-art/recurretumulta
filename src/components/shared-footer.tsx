@@ -43,6 +43,7 @@ export default function SharedFooter({ editorial }: { editorial?: EditorialProps
     <Link to="/terminos/" className={L}>{t("footer.terms")}</Link>,
     <Link to="/aviso-legal/" className={L}>Aviso Legal</Link>,
     <Link to="/cookies/" className={L}>{t("footer.cookies")}</Link>,
+    <button key="cmp" type="button" className={L} onClick={() => { const w = window as unknown as { googlefc?: { callbackQueue: unknown[]; showRevocationMessage: () => void } }; w.googlefc = w.googlefc || ({ callbackQueue: [] } as never); w.googlefc!.callbackQueue.push(() => w.googlefc!.showRevocationMessage()); }}>Configurar cookies</button>,
   ];
   return (
     <>
