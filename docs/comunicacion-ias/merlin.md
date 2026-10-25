@@ -78,3 +78,73 @@ Causa verificada en Benimar Sport 340 UP: la fusión por bloques descarta bloque
 Cautelas del handover aplicadas y pendientes: 444 Pilote V600G emparejado por su slug interno (sin año) como exige el handover — queda en el grupo B para la siguiente ronda; 453 Benimar Mileo 243: solo se tocó el slug exacto en merlin1.ts (el segundo prose de g08, con slug distinto y texto diferente, NO se tocó) — queda en el grupo B; 467 Westfalia Columbus 600 D: se comprobaron ambas copias (g12.ts y lote125.ts, contenido idéntico) — queda en el grupo A (8/1) y la siguiente ronda debe resolver ambas copias juntas; 469 Dethleffs (1532→1062) queda en el grupo B y su chequeo de integridad (que la prosa nueva no esté truncada) sigue pendiente en la siguiente ronda; 470 Cyclone (953→669) queda en el grupo A; 432–435 anclas acortadas (no URLs) respetadas en los pusheados; 450–451 (5★ G9 solo en tabla vieja; iX3 sin Euro NCAP ni precio anunciado) respetados en los pusheados y pendientes según su grupo en los saltados; 459 plantilla del escrito y promo del analizador quedan intactos en la vieja (lote en grupo A).
 
 Siguiente puesto fuera del slice: 476 (s20-08, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
+# Parte s20-08 — coordinador único ORD-1525
+
+Rama nueva `dedupe-8g-s20-08` (no existía: 404 previo), base `dedupe-8g-merlin` @bd1ecdb3ff08c3f17067d117938687437b8f4286, un commit, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `b713f1a9514094082db4d13281f34334eb61352f`, verificado por GET de la ref (la ref apunta al mismo sha).
+Puestos 476–523: 42/48 pusheados, 6 saltados a la siguiente ronda (nada perdido).
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Los pusheados: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas). Solo se aplicaron title/excerpt/content a todas las copias. Los lite no se tocaron.
+
+Comprobación de solapes antes de pushear: la cabeza vigente de `dedupe-8g-slice2` (@92dd5df958ea4c2b4dfe3d76afad6781dec123a8) solo cubre en 0913 los lotes 381–400 (mensajes de commit verificados); el puesto 510 (weinsberg-x-cursion-500-lt) se comprobó expresamente: su entrada en la cabeza de slice2 es byte-idéntica a la de la cabeza de merlin (mismo título viejo, mismo contenido de 8.323 caracteres), luego slice2 NO lo había entregado y se pusheó aquí sin duplicar. Los rangos de slice3 (622–862), slice4 (864–897), s20-16 (897–909) y s20-17 (911–958) no solapan con 476–523.
+
+## Blogs pusheados (42)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| chausson-640-titanium-2026-precio-ficha-tecnica | 50/143 | 889 → 948 | blog-posts-autocaravanas-merlin1.ts |
+| mooveo-van-63eb-precio-ficha-tecnica | 51/142 | 1017 → 1026 | blog-posts-autocaravanas-lote4.ts |
+| dethleffs-trend-t-6717-eb-2026-precio-ficha-tecnica | 58/142 | 965 → 1054 | blog-posts-autocaravanas-merlin1.ts |
+| benimar-benivan-120-up-precio-ficha-tecnica | 53/127 | 1057 → 1056 | blog-posts-autocaravanas-lote4.ts |
+| knaus-sport-450-fu-2026-precio-ficha-tecnica | 53/123 | 862 → 940 | blog-posts-caravanas-lote1.ts |
+| challenger-328-precio-ficha-tecnica | 57/151 | 789 → 885 | blog-posts-autocaravanas-lote3.ts |
+| possl-trenta-600-r-precio-ficha-tecnica | 57/143 | 1011 → 1070 | blog-posts-autocaravanas-lote3.ts |
+| omoda-jaecoo-record-ventas-septiembre-2026 | 51/150 | 564 → 614 | blog-posts-motor-2026-h.ts |
+| renault-600-millones-electricos-espana | 50/154 | 473 → 475 | blog-posts-motor-2026-l.ts |
+| westfalia-james-cook-ad-190-precio-ficha-tecnica | 58/145 | 979 → 968 | blog-posts-autocaravanas-lote3.ts |
+| xiaomi-yu7-suv-electrico-llegada-europa | 54/138 | 723 → 768 | blog-posts-motor-chinos-c.ts |
+| zero-s-vs-can-am-pulse-cual-comprar | 52/119 | 639 → 733 | blog-posts-duelos-motos.ts |
+| aion-v-vs-deepal-s05-cual-comprar | 52/140 | 626 → 826 | blog-posts-duelos.ts |
+| possl-summit-540-precio-ficha-tecnica | 53/152 | 1032 → 1117 | blog-posts-autocaravanas-lote3.ts |
+| anfac-septiembre-2026-record-electrificacion-model-3-lider | 57/150 | 621 → 675 | blog-posts-motor-2026-g.ts |
+| fiat-grizzly-fastback-paris-2026 | 57/152 | 518 → 557 | blog-posts-motor-2026-o.ts |
+| gotrax-g3-plus | 41/149 | 619 → 686 | blog-posts-patinetes-exp-p5.ts |
+| hobby-excellent-540-wlu-2026-precio-ficha-tecnica | 50/144 | 859 → 915 | blog-posts-caravanas-lote1.ts |
+| morbidelli-c1002v-2025-precio | 51/136 | 519 → 654 | blog-posts-motos-exp-m27.ts |
+| toyota-corolla-cross-2026-precio-restyling | 55/138 | 447 → 547 | blog-posts-toyota-a.ts |
+| dethleffs-beduin-scandinavia-550-bet-2026-precio-ficha-tecnica | 56/127 | 739 → 947 | blog-posts-caravanas-lote1.ts |
+| wottan-storm-125-2025-precio | 47/136 | 572 → 615 | blog-posts-motos-exp-m28.ts |
+| benda-rock-300-2026 | 53/146 | 891 → 1084 | blog-posts-prioridad-20261014.ts |
+| dreamer-d68-up-precio-ficha-tecnica | 53/138 | 860 → 918 | blog-posts-autocaravanas-lote3.ts |
+| multa-aparcamiento-zona-azul-recurrir | 53/149 | 538 → 582 | blog-data.ts |
+| sunlight-cliff-640-2026-precio-ficha-tecnica | 59/135 | 1048 → 1232 | blog-posts-autocaravanas-merlin2.ts |
+| carado-v-337-precio-ficha-tecnica | 52/132 | 812 → 847 | blog-posts-autocaravanas-lote3.ts |
+| hongqi-g919-4x4-electrico-831-cv | 45/133 | 743 → 827 | blog-posts-modelos-desconocidos.ts |
+| hobby-vantana-k60-ft-precio-ficha-tecnica | 55/153 | 1012 → 1113 | blog-posts-autocaravanas-lote3.ts |
+| dongfeng-vigo-mage-phev-precio-espana-ficha | 57/131 | 668 → 822 | blog-posts-motor-2026-h.ts |
+| weinsberg-x-cursion-500-lt-precio-ficha-tecnica | 54/134 | 1071 → 1304 | blog-posts-autocaravanas-lote4.ts |
+| hobby-prestige-560-ul-2026-precio-ficha-tecnica | 60/148 | 739 → 1167 | blog-posts-caravanas-lote1.ts |
+| kove-450rr-2024-precio | 51/135 | 570 → 771 | blog-posts-motos-exp-m27.ts |
+| mobilvetta-krosser-p86-precio-ficha-tecnica | 57/149 | 999 → 1126 | blog-posts-autocaravanas-lote4.ts |
+| kove-800x-2025-precio | 48/139 | 528 → 788 | blog-posts-motos-exp-m27.ts |
+| westfalia-james-cook-precio-ficha-tecnica | 53/135 | 1283 → 1533 | blog-posts-autocaravanas-lote125-g01.ts, blog-posts-autocaravanas-lote125.ts |
+| adria-aviva-522-pt-2026-precio-ficha-tecnica | 51/137 | 896 → 987 | blog-posts-caravanas-lote1.ts |
+| bmw-ce-02-vs-super-soco-cpx-cual-comprar | 48/141 | 575 → 644 | blog-posts-duelos-motos.ts |
+| honda-em1-e-vs-yamaha-neos-cual-comprar | 56/139 | 586 → 796 | blog-posts-duelos-motos.ts |
+| hymer-b-mc-i-600-2026-precio-ficha-tecnica | 55/125 | 949 → 1058 | blog-posts-autocaravanas-merlin1.ts |
+| byd-seagull-2027-carga-flash-9-minutos | 49/142 | 981 → 1088 | blog-posts-radar-20261019.ts |
+| malibu-van-diversity-640-le-k-precio-ficha-tecnica | 55/134 | 939 → 1047 | blog-posts-autocaravanas-lote3.ts |
+
+Ficheros del commit (22): blog-data.ts, blog-posts-autocaravanas-lote125-g01.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote3.ts, blog-posts-autocaravanas-lote4.ts, blog-posts-autocaravanas-merlin1.ts, blog-posts-autocaravanas-merlin2.ts, blog-posts-caravanas-lote1.ts, blog-posts-duelos-motos.ts, blog-posts-duelos.ts, blog-posts-modelos-desconocidos.ts, blog-posts-motor-2026-g.ts, blog-posts-motor-2026-h.ts, blog-posts-motor-2026-l.ts, blog-posts-motor-2026-o.ts, blog-posts-motor-chinos-c.ts, blog-posts-motos-exp-m27.ts, blog-posts-motos-exp-m28.ts, blog-posts-patinetes-exp-p5.ts, blog-posts-prioridad-20261014.ts, blog-posts-radar-20261019.ts, blog-posts-toyota-a.ts.
+
+## Saltados a la siguiente ronda (6, nada perdido, viejas intactas) — BLOQUEOS PARA GROK, NO PRESENTADOS COMO LIMPIOS
+
+Los 6 se rechazaron por clase «partial»: su contenido nuevo no conserva la estructura de la vieja fresca (enlaces, imágenes o tablas distintos), así que no se aplicaron. Verificación propia contra la vieja fresca de bd1ecdb3 (no solo la del coordinador local):
+
+- `lexus-gx-550-precio-opiniones` (puesto 501, BLOQUEO): la vieja fresca es contenido Lexus genuino (0 menciones de Aprilia, hero Lexus GX 550, 23 tablas, enlaces Lexus/Land Cruiser/Defender) y el contenido nuevo trae enlaces y tablas de Aprilia (8 tablas). Prosa nueva con solo las cifras del título/extracto viejo (354 CV, 0-100 6,5 s, ~62.000 €, 7 plazas, 2024) frente a una estructura que no corresponde a la vieja fresca. El integrador debe decidir el tratamiento antes de publicar; no se pusheó tal cual.
+- `lexus-is-300h-precio-opiniones` (puesto 479): mismo patrón — vieja fresca Lexus IS 300h genuina (39 menciones de Lexus, hero Lexus, 25 tablas) y contenido nuevo con enlaces Aprilia y título nuevo de Aprilia RS 125 2026 (8 tablas). Cada slug Lexus tiene 2 copias idénticas en prioridad-20261014.ts; la siguiente ronda debe resolver ambas copias juntas.
+- `lexus-lm-350h-precio-opiniones` (puesto 489): mismo patrón — vieja fresca Lexus LM 350h genuina (22 tablas) y contenido nuevo con enlaces Aprilia (8 tablas), con título nuevo Lexus LM mantenido. 2 copias idénticas en prioridad-20261014.ts, a resolver juntas en la siguiente ronda.
+- `energica-ego-plus-2025-precio-ficha-tecnica` (puesto 504, BLOQUEO): slug/título/extracto de Energica Ego+ 2025 (29.140 £, 171 CV, 21,5 kWh) pero el contenido nuevo trae enlaces de Apollo Air, 21 tablas frente a 20 de la vieja fresca (enlaces Energica) y pierde el bloque *Fuentes:*. Prosa fiel al cuerpo Apollo, no al Energica. El integrador debe sustituir cuerpo/tablas/imágenes/fuentes por los reales de la Energica, o retitular a Apollo Air, antes de publicar; no se pusheó tal cual.
+- `lepas-l8-chery-hibrido-enchufable-precio-espana` (puesto 515, BLOQUEO): título/extracto viejos de Lepas L8 (desde 33.990 €) pero el contenido nuevo es de Tesla Roadster 2026 (título nuevo Tesla Roadster, enlaces Tesla, 25 tablas frente a 13 de la vieja fresca con enlaces Lepas). El integrador debe decidir el tratamiento (sustituir cuerpo/tablas/imágenes por los reales del Lepas, o reubicar el contenido bajo el slug Tesla) antes de publicar; no se pusheó tal cual.
+- `multa-patinete-octubre-2026-que-hacer-como-recurrir` (puesto 509): caso distinto y solo de formato — el contenido nuevo pasa 4 enlaces de markdown a ancla HTML con el MISMO destino (/blog/como-recurrir-una-multa-de-trafico-pasos-plazos/, ×4), con imágenes, tablas y *Fuentes:* idénticos. El driver lo clasifica «partial» porque el contador href= no ve los enlaces markdown. Va a la siguiente ronda para aplicarlo como desviación declarada de formato (destinos idénticos) o restaurar el formato markdown; no es un bloqueo de datos.
+
+Siguiente puesto fuera del slice: 524 (s20-09, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
