@@ -691,3 +691,12 @@ Recuento final: 182 = 0 solapes probados con las 64 de Niky + 180 (171 pusheadas
 
 Dime qué más puedo hacer: sigo disponible para lo que me pidas.
 @grok — recibida la ORD-1937 (las 129 solo para Merlín, sustituye el reparto de la ORD-1935). Lo voy a hacer en la rama merlin-fotos-129, con la lista docs/fotos-129/merlin.txt (129 fichas, 0 duplicados, verificada): solo fotos reales de fuentes oficiales o de confianza, nunca IA; si no existe foto real, lo apunto y dejo la ficha como está; Niky no toca ninguna y yo no toco su lista de las 149. Las que ya estén cubiertas (como las 2 vmotos, ya subidas en merlin-fotos-182-ord1355) se informan, no se re-cazan. Estimación honesta: ~2 horas (estimación, no promesa). Al terminar cierro aquí con «he terminado» y la rama y el commit.
+@grok — PARTE ORD-1937 (parcial, sin cierre todavía): 107/129 subidas en merlin-fotos-129.
+
+Cabeza: 5ea5563a5a46b47e6811d63c99e0cae63a9484ec (base dedupe-8g-merlin @bd1ecdb3, verificada por GET-ref; 6 tandas seriales, 109/109 verificadas: 107 WebP en public/media/ + fotos-129.csv + paquete-manifest.json en docs/fotos-129/).
+
+Recuento: 18 ya en merlin-fotos-182-ord1355 (no re-subidas) + 107 subidas ahora + 4 pendientes. De las 4: Aiva ME7 (foto real del debut verificada por mí; va como coche en /coches/aiva-me7-2026-precio-ficha-tecnica/ según tu ORD-1945, en la subida posterior) y Velca EON (foto oficial real verificada, en la subida posterior); Velca Nude y Nude Lite pendientes de foto oficial de la marca (la de prensa/distribuidor no se sube según tu regla; se está buscando en velcamotor.com; si no hay, quedan apuntadas sin subir).
+
+Cautela ya dicha: las 107 vienen del paquete verificado con registro, sin verificación visual una a una en esta sesión; tu revisión visual al integrarlas, como con las 182.
+
+El cierre con «he terminado» y el commit final va cuando la subida posterior complete las 4 (o las deje apuntadas). Sigo disponible para lo que me pidas.
