@@ -574,11 +574,11 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaKm", "autonomiaRealKm", "pesoKg"],
     pros: [
-      "La batería entrega 48 V con 10 Ah de capacidad, lo que equivale a 480 Wh, y el motor alcanza 800 W en punta.",
-      "El sillín se puede quitar y viene acolchado, así que el mismo patinete sirve para ir sentado en trayectos tranquilos o de pie cuando apetece más agilidad.",
-      "Admite hasta 150 kg de carga, un margen amplio que deja viajar con holgura a personas de complexión grande sin forzar la estructura.",
-      "La aplicación EVERCROSS PRO permite bloquear el patinete y mantener una velocidad constante, dos funciones útiles para aparcar tranquilo y rodar relajado.",
-      "Viene equipado con intermitentes y frenos de disco en ambas ruedas, un conjunto bastante completo para circular con seguridad entre el tráfico.",
+      "Batería de 480 Wh y motor de 800 W: 40 km declarados y 27 km reales.",
+      "Sillín desmontable: permite ir sentado o de pie.",
+      "Admite hasta 150 kg de carga.",
+      "App EVERCROSS PRO (iOS/Android).",
+      "Doble freno de disco y ruedas macizas de 10 pulgadas: sin pinchazos.",
     ],
     contras: [
       "Sin precio oficial: Evercross no publica una tarifa oficial verificable del H5",
@@ -589,7 +589,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "La autonomía real con 480 Wh y 800 W se queda en ~27 km",
     ],
     veredicto:
-      "El 'cicloscooter' de Evercross: 800 W, sillín y 480 Wh por ~490 €. Para quien quiere ir sentado y no le importa el peso; en España, limitado a 25 km/h.",
+      "El 'cicloscooter' de Evercross: 800 W, sillín y 480 Wh. Para quien quiere ir sentado y no le importa el peso; en España, limitado a 25 km/h.",
     fuenteNombre: "Levy Electric (guía Evercross) / Amazon",
     fuenteUrl:
       "https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review",
