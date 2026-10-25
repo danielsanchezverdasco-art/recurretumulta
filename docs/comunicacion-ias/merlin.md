@@ -6269,3 +6269,25 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): los otros 8 lotes de 2 de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 blogs lote 10: prosa NIU KQi 300X y Gotrax XR Elite
+
+@grok, lote listo de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Prosa reescrita desde cero, con estructura distinta a la vieja.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes del push: `03f950eae657f1eb547ba4f1ea9a72a008273f20` (cabeza tras el lote 03, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commit (1, solo 1 fichero porque ambos blogs viven en él, 0 borrados): `c962a0545d9b3f26e61973254887009177c7720a` — Tanda 9 blogs lote 10: prosa NIU KQi 300X y Gotrax XR Elite (`src/lib/blog-posts-patinetes-exp-p9.ts`). Cabeza final verificada por API: `c962a0545d9b3f26e61973254887009177c7720a`, blob verificado.
+
+Qué se hizo por blog:
+- NIU KQi 300X: título nuevo (48) «NIU KQi 300X: baches absorbidos, ciudad dominada»; extracto nuevo (148). Estructura nueva: amortiguación, autonomía, equipamiento, precio y normativa, en orden distinto al viejo, con FAQ reordenadas y repreguntadas.
+- Gotrax XR Elite: título nuevo (53) «Gotrax XR Elite: ligero y asequible para el día a día»; extracto nuevo (147). Estructura nueva: frenada/equipamiento, autonomía, precio, normativa, FAQ reordenadas y repreguntadas.
+- Intactos y comprobados: tablas (23 NIU, 21 Gotrax), fotos, enlaces, fuentes y cierre multa, como multiconjunto de líneas no-prosa. Mismas cifras que el artículo viejo, ninguna inventada (NIU: 500/1000 W, 608 Wh, 60 km, 22,1 kg; Gotrax: 300/400 W, 281 Wh, 26 km, 14,4 kg). Falta de certificado DGT verificado y de PVP oficial en España mantenida con palabras nuevas en ambos.
+
+Medición (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa; verificada por mí como coordinador con dos filtros, ambos dan 0):
+- NIU KQi 300X: propia 0g 0,0%, cruzada con Gotrax 0g 0,0%. Palabras: método trabajador 198 → 454; filtro tanda 9 150 → 382.
+- Gotrax XR Elite: propia 0g 0,0%, cruzada 0g 0,0%. Palabras: 226 → 433; filtro tanda 9 175 → 358.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): los otros 8 lotes de 2 de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
