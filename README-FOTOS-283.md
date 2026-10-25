@@ -92,3 +92,10 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - CSV: filas con el slug tal como viene en cada fragmento (algunos cortos,
   p. ej. `rimor-sarus-12-plus-2026`, `vmoto-tc-max-2024`); la foto y su nombre
   de fichero son los que importan para el cruce.
+
+## TANDA 3 PARCIAL 1 (ORD-20251025-0900: commits pequeños 10–25, sin esperar a 50)
+- 18 fotos reales verificadas (posiciones 101–122 salvo w047/w049): w040 (yamaha-xsr125-2025, zero-dsr-x-2024), w041 (zero-sr-f-2024, zero-sr-s-2024), w042 (abarth-600e-scorpionissima-2025, ac-cobra-gt-roadster-2025), w043 (aion-ut-2025, aion-v-2025), w044 (aito-m8-erev-2025, alfa-romeo-stelvio-quadrifoglio-520), w045 (alfa-romeo-tonale-phev-q4-270, -280), w046 (alpine-a110-r-2026, alpine-a110-r-ultime-2026), w048 (arcfox-t1-2025, audi-q3-sportback-tdi-2026), w050 (audi-rs-q8-performance-2025, baic-beijing-5-2025).
+- Mapeos: 4 copias en public/media/motos/ (las 4 motos; comparador-motos-base.ts referencia /media/motos/); 4 copias -hero (aion-ut, aion-v, arcfox-t1, audi-q3-sportback-tdi; el blog espera -hero). El resto coincide con imagenOficial en raíz (verificado: arcfox-t1-2025-oficial.webp, tonale-270/-280 -oficial, rs-q8 -oficial).
+- Auditoría: 18/18 byte a byte contra las ramas trabajadoras; todas WebP <300 KB (máx. 270.582 B); 0 sobrescrituras de ficheros de HEAD.
+- CSV: 118 filas totales (100 + 18).
+- Pendiente para completar la tanda 3 (50): w047 (alpine-a290-gts-2026, alpine-a390-gt-2026) y w049 (audi-q4-sportback-e-tron-45-2026, audi-q5-sportback-e-hybrid-2026), reposiciones lanzadas; w051–w064 (28 slugs, baojun-enjoy-2025 … byd-yuan-up-2025), oleada 3 en curso.

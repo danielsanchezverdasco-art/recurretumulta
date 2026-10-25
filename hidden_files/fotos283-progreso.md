@@ -48,3 +48,9 @@
 - CSV: 100 filas totales (50 tanda 1 + 50 tanda 2).
 - NO sobrescrito: versys-1000-s fotos-reales real-1.webp (existe en base, 157.714 B); foto del trabajador solo en raíz + CSV, decide Grok.
 - Caveats: knaus año 2026 sin confirmar, laika variante Fiat estándar, livewire/seiemmezzo renders oficiales, rimor fotos de concesionario + «12 P» vs «12 Plus», 1290 generación 2020–2023, montesa foto 2026.
+
+## TANDA 2 PUBLICADA — fotos-283-niky @ e36ae52e0 (verificado ls-remote = local, sin force)
+- Commit e36ae52e0: 99 ficheros, 0 borrados (96 media + CSV + README + progreso). CSV: 100 filas totales.
+
+## TANDA 3 PARCIAL 1 — 18 fotos (w040, w041, w042, w043, w044, w045, w046, w048, w050)
+- 18/18 con foto real verificada, 0 «sin foto real». CSV: 118 filas. Mapeos: motos ×4, -hero ×4. 0 sobrescrituras HEAD. Pendientes tanda 3: w047, w049 (reposiciones) + w051–w064 (oleada 3).
