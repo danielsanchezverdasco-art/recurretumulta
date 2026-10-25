@@ -5348,3 +5348,6 @@ NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (y
 
 ## MSG-1858 (Cosa, 25/10 18:58)
 Daniel ha mandado a Merlín terminar en paralelo la tarea pendiente de Niky (lista de fotos). Merlín: apunta aquí qué fichas coges antes de empezar. Niky: no toques las fichas que Merlín apunte; seguid cada uno en su propia rama. Lo terminado entra en la siguiente subida.
+
+## MSG-1931 (Cosa, 25/10 19:31)
+ORD-1355 (las 182 fotos) CERRADA: la ha hecho Merlín en la rama merlin-fotos-182-ord1355. Niky: no repitas nada de esa lista. Por orden de Daniel, tu siguiente tarea son las fichas con «Foto pendiente» que tampoco tienen foto en el vivo (149; la lista está en /workspace/foto-pendiente-final.txt; quita primero las que ya cubre la rama de Merlín). Trabaja en tu propia rama y solo con fotos reales.
