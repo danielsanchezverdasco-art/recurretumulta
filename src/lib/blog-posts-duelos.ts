@@ -113,9 +113,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "Renault 4 E-Tech vs Renault 5 E-Tech 2026",
+    title: "Renault 4 o Renault 5 E-Tech: ¿cuál elegir en 2026?",
     slug: "renault-4-e-tech-vs-renault-5-e-tech-cual-comprar",
-    excerpt: "El Renault 4 E-Tech comparte el 68 % de las piezas con el Renault 5, pero cuesta más y es más práctico. Comparamos precio, autonomía, maletero y",
+    excerpt: "El Renault 4 E-Tech es más práctico y caro; el Renault 5, más barato con ayudas y con más autonomía. Así se elige entre los dos retro eléctricos.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -132,11 +132,15 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/renault-4-e-tech-vs-renault-5-e-tech-cual-comprar-hero.webp alt=Comparativa entre el Renault 4 E-Tech y el Renault 5 E-Tech, los dos eléctricos retro de Renault>
 
-Son hermanos, comparten la plataforma **AmpR Small** y el 68 % de las piezas, pero Renault insiste en que el 4 E-Tech no es "un R5 alto": tiene chasis, suspensiones y puesta a punto propios, carrocería más alta, más larga y más práctica. La pregunta honesta es si el sobreprecio se justifica.
+Dos iconos de Renault vuelven a la vez, en eléctrico, y se parecen mucho por dentro: misma base AmpR Small y un 68 % de componentes compartidos. Y sin embargo no son el mismo coche con otra carrocería: el 4 llega con bastidor, suspensiones y reglajes propios, una silueta más elevada, mayor longitud y un enfoque claramente más familiar. La duda real para quien compra es si ese plus de precio compensa.
 
-Fichas técnicas: <a href=/coches/renault-4-e-tech-precio-autonomia/>ver ficha técnica completa del Renault 4 E-Tech</a> · <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a>.
+Datos completos en las fichas de cada modelo: <a href=/coches/renault-4-e-tech-precio-autonomia/>ver ficha técnica completa del Renault 4 E-Tech</a> · <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ver ficha técnica completa del Renault 5 E-Tech</a>.
 
-## Tabla comparativa: Renault 4 E-Tech vs Renault 5 E-Tech
+## Lo primero: tamaño, diseño y vida diaria
+
+El 5 apuesta por el encanto: silueta compacta de 3.922 mm, imagen que remite al R5 clásico y un carácter urbano muy marcado. El 4, con 4.144 mm, juega otra liga en lo práctico: maletero de 375 L, mejor visibilidad desde el puesto de conducción y un interior pensado para cargar y viajar con más desahogo. Eso sí, detrás sigue sin sobrar sitio para adultos en ninguno de los dos, y en el 4 la prensa que ya lo ha conducido señala precisamente unas plazas traseras algo escasas.
+
+## Los números, frente a frente
 
 | Ficha | Renault 4 E-Tech | Renault 5 E-Tech 2026 |
 |---|---|---|
@@ -157,70 +161,80 @@ Fichas técnicas: <a href=/coches/renault-4-e-tech-precio-autonomia/>ver ficha t
 
 <img src=/media/renault-4-renault-5-duelo-cuerpo.webp alt=Renault 4 E-Tech y Renault 5 E-Tech juntos en comparativa>
 
-## Análisis: qué ofrece cada uno
+## Precio: dónde sale cada uno
 
-**Renault 4 E-Tech.** El hermano sensato: la gama articula dos baterías (40 kWh con 122 CV y 308 km; 52 kWh con 150 CV y 397-408 km según acabado) y cuatro acabados, del Evolution de 27.954 € al Iconic de 34.639 €. Sus bazas prácticas: **maletero de 375 L**, techo eléctrico de lona opcional (+1.700 €, guiño al 4L original descapotable), sistema Extended Grip para firmes deslizantes y **remolque de 750 kg**, algo rarísimo en un eléctrico de este tamaño. Su punto débil, según la prensa que lo ha probado: las **plazas traseras son justas** para adultos. Detalle curioso: la tapicería "jean" usa tejido vaquero 100 % reciclado con pespuntes y remaches de cobre.
+De partida, el 4 arranca en 27.954 € con el acabado Evolution, y su gama sube hasta 34.639 € en el Iconic, con cuatro niveles en total. El 5, sin ayudas, parte de 28.085 € de PVP, pero con ellas el Evolution de 120 CV se queda en 20.170 €, la cifra que lo convierte en el eléctrico con más carisma por ese dinero. Ojo: en el 4 el precio se dispara en cuanto se añaden opciones, y el acabado Iconic ya roza los 35.000 €.
 
-**Renault 5 E-Tech.** El hermano emocional: más barato con ayudas (20.170 € el Evolution de 120 CV), mejor autonomía en la versión grande (430 km) y el diseño que enamora. Mismo cargador DC de 80 kW y mismos 5 plazas. Su "5" del capó funciona como indicador de carga con cinco barras LED, y el asistente Gemini llegará por OTA. A cambio, no hay techo de lona, no remolca y la versión Five más barata aún no se puede pedir.
+## Baterías, autonomía y carga
 
-## Pros y contras
+Ambos se mueven con baterías de 40 kWh en acceso y una opción de 52 kWh, y comparten cargador rápido de 80 kW en corriente continua. Con la pequeña, el 4 homologa 308 km y el 5 llega a 315 km; con la grande, el 5 alcanza 430 km mientras el 4 se queda en 397-408 km según acabado. En potencia, la variante de acceso del 4 da 122 CV y la grande 150 CV, frente a los 120 CV del 5 de entrada; en consumo andan casi empatados, 14,7 kWh/100 km el 4 y 14,5 el 5. El 4 de 122 CV acelera de 0 a 100 km/h en 9,2 s, un registro modesto, y su punta es de 150 km/h; del 5 no se han publicado aún esos dos datos.
+
+## Detalles que enamoran (y alguno que pesa)
+
+En el 4 hay guiños con historia: techo de lona eléctrico opcional por 1.700 €, disponible en toda la gama, que recuerda al 4L descapotable original; tapicería en tela vaquera, toda ella reciclada, rematada con costuras vistas y remaches cobrizos; sistema Extended Grip para superficies deslizantes; y capacidad de remolque de 750 kg, insólita en un eléctrico urbano de este formato.
+
+El 5 responde con su propio repertorio: el «5» del capó se ilumina por tramos para mostrar el nivel de carga, el asistente Gemini llegará mediante actualización inalámbrica, y dispone de carga inalámbrica Qi2. Además, al fabricarse en Europa opta a las máximas ayudas del Plan Auto+. A cambio, no contempla techo de lona ni remolque.
+
+## Puntos fuertes y débiles
 
 **Renault 4 E-Tech:**
-- ✅ Diseño retro con carácter: el 4Latas modernizado sin perder su esencia
-- ✅ Hasta 408 km de autonomía por unos 31.000 €
-- ✅ Techo eléctrico de lona opcional, un guiño único al original
-- ✅ Remolque de 750 kg, raro en un urbano eléctrico
-- ❌ Plazas traseras justas para adultos
-- ❌ La versión de 122 CV se queda corta en prestaciones (9,2 s)
-- ❌ El precio sube rápido con equipamiento (Iconic: 34.639 €)
+- ✅ Estética retro con mucho carácter, que moderniza al 4Latas sin traicionar su espíritu
+- ✅ Hasta 408 km de alcance en la variante grande, por alrededor de 31.000 €
+- ✅ Techo de lona eléctrico en opción, un detalle sin equivalente en el segmento
+- ✅ Puede remolcar 750 kg, algo casi inédito entre los urbanos eléctricos
+- ❌ Detrás, el espacio para adultos es escaso
+- ❌ La versión de acceso, con 122 CV, resulta algo perezosa: 9,2 s en el 0-100
+- ❌ Con equipamiento, la factura crece deprisa: el Iconic alcanza 34.639 €
 
 **Renault 5 E-Tech:**
-- ✅ Desde 20.170 € con ayudas: el eléctrico con más personalidad por ese precio
-- ✅ 430 km WLTP en la versión de 52 kWh
-- ✅ Fabricado en Europa: máximas ayudas del Plan Auto+
-- ✅ Tecnología al día: Gemini por OTA, carga inalámbrica Qi2
-- ❌ Sin ayudas parte de 28.085 €, un salto importante
-- ❌ La versión Five más barata aún no se puede pedir
-- ❌ Solo 5 puertas: no hay versión de 3 como el R5 clásico
+- ✅ Con ayudas sale desde 20.170 €, difícil encontrar otro eléctrico con tanta personalidad a ese precio
+- ✅ 430 km WLTP gracias a la batería de 52 kWh
+- ✅ Hecho en Europa, así que accede a las ayudas más altas del Plan Auto+
+- ✅ Al día en tecnología: asistente Gemini por actualización remota y carga Qi2 sin cables
+- ❌ Sin ayudas, arranca en 28.085 €, un salto notable respecto al precio con apoyo
+- ❌ La variante Five, la más asequible en teoría, todavía no admite pedidos
+- ❌ Solo se vende con 5 puertas: no existe la variante de 3 del R5 clásico
 
-## Veredicto: ¿cuál comprar?
+## Entonces, ¿con cuál me quedo?
 
-Depende de para qué lo quieras, y aquí no hay empate técnico que valga: **si buscas el coche emocional, el R5** —más barato con ayudas, más autonomía, más encanto—. **Si buscas el coche práctico, el R4** —maletero de 375 L, posibilidad de techo de lona, remolque de 750 kg y mejor visibilidad—. Eso sí: el R4 es más caro de partida y sus plazas traseras son justas, así que si viajas a menudo con cuatro adultos, ni uno ni otro son la mejor idea.
+No hay un ganador absoluto, sino dos perfiles. Si lo que buscas es el coche que enamora al mirarlo, el 5 gana: sale más barato con ayudas, recorre más kilómetros con la batería grande y tiene ese punto de encanto que el 4 no persigue. Si lo que necesitas es el coche que resuelve el día a día, el 4 compensa por otros motivos: un maletero de 375 L, la lona eléctrica opcional, la posibilidad de remolcar 750 kg y una visibilidad superior. Pero ojo con el precio de partida del 4, más alto, y con sus plazas traseras, escasas: si sueles viajar con cuatro adultos, ninguno de los dos es la opción ideal.
 
-Míralos cara a cara en nuestro <a href=/comparador-coches/?a=renault-4-e-tech-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Renault 4 E-Tech y el Renault 5 E-Tech</a>, y lee el <a href=/blog/renault-4-e-tech-precio-autonomia/>análisis completo del Renault 4 E-Tech</a> y el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a>. Fichas detalladas en <a href=/coches/renault-4-e-tech-precio-autonomia/>ficha del Renault 4 E-Tech</a> y <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a>. Si la autonomía te preocupa, pásate por nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Para enfrentarlos número a número, abre el <a href=/comparador-coches/?a=renault-4-e-tech-precio-autonomia&b=renault-5-e-tech-2026-precio-autonomia>comparador del Renault 4 E-Tech y el Renault 5 E-Tech</a>; los análisis individuales están en el <a href=/blog/renault-4-e-tech-precio-autonomia/>análisis completo del Renault 4 E-Tech</a> y en el <a href=/blog/renault-5-e-tech-2026-precio-autonomia/>análisis completo del Renault 5 E-Tech</a>. Las fichas completas, en la <a href=/coches/renault-4-e-tech-precio-autonomia/>ficha del Renault 4 E-Tech</a> y la <a href=/coches/renault-5-e-tech-2026-precio-autonomia/>ficha del Renault 5 E-Tech</a>. Y si dudas con la autonomía en uso real, prueba la <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.renault.es>Renault España</a>.
 
-## Míralo en vídeo
+## Vídeo recomendado
 
 <iframe src=https://www.youtube.com/embed/VIFRwUsPhs4 title="Vídeo: Prueba del Renault 4 E-Tech: el R4 vuelve a dar 'la lata'" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=VIFRwUsPhs4>El Periódico de la Energía</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué diferencia hay entre el Renault 4 y el Renault 5 eléctricos?
-Comparten plataforma AmpR Small y el 68 % de las piezas, pero el 4 es más alto, más largo (4.144 mm frente a 3.922 mm) y más práctico: más maletero (375 L), techo de lona opcional y remolque de 750 kg. El 5 es más barato con ayudas y tiene más autonomía en su versión grande.
+### ¿Ambos llevan etiqueta Cero?
+Sí: ambos son 100 % eléctricos y llevan etiqueta Cero de la DGT, así que entran sin restricciones en todas las ZBE.
 
-### ¿Cuál es más barato?
-El Renault 5 E-Tech: parte de 20.170 € con ayudas (28.085 € de PVP), frente a los 27.954 € del Renault 4 E-Tech Evolution.
+### ¿Qué cambia en tamaño entre uno y otro?
+El 4 mide 4.144 mm de largo, frente a los 3.922 mm del 5, y además es más alto: de ahí su maletero mayor, de 375 L, y su orientación más familiar. Ambos comparten base y un 68 % de piezas, pero el 4 tiene bastidor, suspensiones y reglajes propios.
 
-### ¿El Renault 4 E-Tech tiene techo descapotable?
-Tiene techo eléctrico de lona opcional (+1.700 € en cualquier versión), un guiño directo al 4L original descapotable. El R5 no ofrece nada parecido.
+### ¿Se puede pedir el 4 con techo abierto?
+Sí, con techo de lona eléctrico en opción por 1.700 €, disponible en toda la gama, un guiño al 4L original descapotable. El 5 no tiene nada parecido.
 
-### ¿Cuál tiene más autonomía?
-El Renault 5: 430 km WLTP con la batería de 52 kWh, frente a los 397-408 km del Renault 4 con la misma batería. Con la batería de 40 kWh, 315 km el R5 y 308 km el R4.
+### ¿Cuál sale más barato?
+El 5: con ayudas arranca en 20.170 €, frente a un PVP de 28.085 €, mientras el 4 parte de 27.954 € en su Evolution.
 
-### ¿Los dos tienen etiqueta Cero?
-Sí, los dos son eléctricos puros con etiqueta Cero de la DGT: acceso libre a todas las ZBE.
+### ¿Quién llega más lejos con una carga?
+El 5 con la batería de 52 kWh: 430 km WLTP, por 397-408 km del 4 con esa misma batería. Con la de 40 kWh, el 5 homologa 315 km y el 4, 308 km.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+### ¿De verdad comparten tanto?
+Sí: misma base AmpR Small y un 68 % de piezas comunes, pero el 4 tiene bastidor, suspensiones y reglajes propios, y una puesta a punto distinta.
+
+Y si te llega una sanción y sospechas que puede estar mal puesta, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a> sin pagarla todavía.`,
   },
   {
-    title: "BYD Atto 2 vs Jaecoo 5 2026",
+    title: "BYD Atto 2 o Jaecoo 5: cuál conviene comprar en 2026",
     slug: "byd-atto-2-vs-jaecoo-5-cual-comprar",
-    excerpt: "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
+    excerpt: "Dos SUV chinos por menos de 23.000 €: uno eléctrico desde 18.739 € financiado y otro con gasolina, híbrido y eléctrico. ¿Cuál encaja contigo?",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -237,11 +251,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/byd-atto-2-vs-jaecoo-5-cual-comprar-hero.webp alt=Comparativa entre el BYD Atto 2 y el Jaecoo 5, dos SUV chinos baratos>
 
-El duelo chino del año en el segmento B-SUV: el **BYD Atto 2** eléctrico, desde **18.739 € financiando** con el Plan Auto+, contra el **Jaecoo 5**, que parte de **19.990 € financiado** en gasolina y ofrece tres etiquetas distintas (C, ECO y CERO) según motorización. Los dos rondan los 4,3-4,4 metros, los dos vienen cargados de equipamiento y los dos cuestan lo que un utilitario europeo. Pero juegan en ligas distintas.
+Dos apellidos chinos dominan la conversación entre quienes buscan un SUV compacto sin pasar de los 23.000 €: por un lado, un eléctrico que presume de batería propia; por otro, un todocamino que deja elegir entre gasolina, híbrido y eléctrico. El primero sale desde 18.739 € con financiación; el segundo arranca en 19.990 € también financiado. La diferencia de concepto es mayor que la de precio, y ahí está la clave de la elección.
 
-Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>.
+<a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ver ficha técnica completa del Jaecoo 5</a>
 
-## Tabla comparativa: BYD Atto 2 vs Jaecoo 5
+## Las cifras, cara a cara
 
 | Ficha | BYD Atto 2 (eléctrico) | Jaecoo 5 (gasolina base) |
 |---|---|---|
@@ -260,69 +274,72 @@ Fichas técnicas: <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha té
 | **Tracción** | Delantera | No publicada |
 | **Etiqueta DGT** | Cero | C (gasolina) / ECO (híbrido) |
 
-*Las dimensiones del Jaecoo 5 son aproximadas.*
+*Ojo: las medidas del Jaecoo 5 son orientativas.*
 
 <img src=/media/byd-atto-2-jaecoo-5-duelo-cuerpo.webp alt=BYD Atto 2 y Jaecoo 5 en comparativa>
 
-## Análisis: qué ofrece cada uno
+## Primero, el Jaecoo 5: un coche, tres respuestas
 
-**BYD Atto 2.** Eléctrico puro sobre la plataforma e-Platform 3.0, con la famosa **batería Blade LFP**, bomba de calor de serie y V2L. La gama eléctrica: Active 25.790 €, Boost 27.047 € y Comfort 31.740 €, aunque con la oferta oficial de BYD el Active se queda en **18.739 € financiando** con Plan Auto+. El Comfort carga a 155 kW y llega a 430 km. También existe el **DM-i** (híbrido enchufable): Active 28.200 €, o 20.940 € financiando con Auto+, y fue el PHEV más vendido de España en su primer mes en concesionarios. Garantía de 6 años para el coche y 8 para la batería. Sus pegas: consumo real alto en autopista (20,1 kWh/100 km en prueba), software mejorable y ADAS con avisos muy intrusivos.
+La gran baza del Jaecoo está en la gama: el 1.6 TGDI de gasolina se anuncia entre 27.500 y 30.500 € de tarifa y baja hasta 19.990 € con financiación; el híbrido, con 224 CV, se mueve entre 30.000 y 33.000 € y parte de 22.500 € financiado; y el eléctrico, de 211 CV, queda entre 35.500 y 38.500 €. Pasar del gasolina al híbrido supone 2.500 € más de tarifa y, a cambio, 224 CV, distintivo ECO y una autonomía conjunta de más de 900 km: para la mayoría, esa es la variante con más lógica de toda la familia.
 
-**Jaecoo 5.** La baza es la elección: gasolina 1.6 TGDI (27.500-30.500 € de tarifa, **desde 19.990 € financiado**), **HEV de 224 CV** (30.000-33.000 € de tarifa, **desde 22.500 €**) y EV de 211 CV (35.500-38.500 €). El salto del gasolina al híbrido cuesta solo 2.500 € de tarifa y a cambio obtienes 224 CV, etiqueta ECO y más de 900 km de autonomía total: es la versión con más sentido de la gama. Detalles curiosos: primera "cabina pet-friendly" certificada por TÜV Rheinland, linterna extraíble en el maletero y modo karaoke. Sus pegas: el gasolina gasta 7,0 l/100 km con etiqueta C, las prestaciones son justas (10,2 s) y los datos de maletero varían según la fuente (410/442/480 L).
+Hay guiños que no se ven en rivales de este precio: la primera cabina homologada como apta para mascotas por TÜV Rheinland, una linterna que se extrae del maletero y un modo karaoke para los viajes. El reverso: el gasolina bebe 7,0 l/100 km y luce distintivo C, sus 10,2 s en el 0-100 no impresionan y el maletero baila según la fuente consultada: 410, 442 o 480 L.
 
-## Pros y contras
+De serie, ya el acabado de acceso trae 19 ayudas ADAS y 7 airbags.
 
-**BYD Atto 2:**
-- ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
-- ✅ Batería Blade LFP con bomba de calor y V2L de serie
-- ✅ Precios agresivos: desde 18.739 € financiado el Active
-- ✅ Éxito probado: más de 14.000 unidades en 2026
-- ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
-- ❌ Software mejorable: navegación y traducciones por debajo del hardware
-- ❌ Asistentes ADAS con avisos muy intrusivos
+## Después, el BYD Atto 2: electricidad a precio de utilitario
 
-**Jaecoo 5:**
-- ✅ Precio rompedor: desde 19.990 € financiado (gasolina) o 22.500 € (híbrido)
-- ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
-- ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
-- ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base
-- ❌ El gasolina gasta 7,0 l/100 km y lleva etiqueta C
-- ❌ Prestaciones justas del gasolina: 10,2 s en el 0-100
-- ❌ Red de posventa aún en despliegue
+El Atto 2 apuesta todo al enchufe. Usa la plataforma e-Platform 3.0, monta la batería Blade LFP, incluye bomba de calor sin suplemento y permite alimentar aparatos externos con su V2L. La tarifa arranca en 25.790 € para el Active, sigue en 27.047 € para el Boost y llega a 31.740 € para el Comfort, pero la oferta oficial deja el Active en 18.739 € financiando con el Plan Auto+. El Comfort, además, admite 155 kW de carga rápida y homologa 430 km.
 
-## Veredicto: ¿cuál comprar?
+También hay un DM-i, el híbrido enchufable: el Active cuesta 28.200 €, o 20.940 € con financiación y Auto+, y en su primer mes en tiendas fue el PHEV más vendido de España. La garantía cubre 6 años el vehículo y 8 la batería. Los puntos flojos: en autopista el consumo real sube a 20,1 kWh/100 km según pruebas, el software deja que desear y los avisos de los asistentes resultan demasiado insistentes.
 
-**Compra el BYD Atto 2 si** quieres etiqueta Cero, coste por kilómetro mínimo y no te importa planificar las cargas: es el más barato de los dos en su versión de acceso y el eléctrico más redondo por este precio. **Compra el Jaecoo 5 híbrido si** haces kilómetros variados y no quieres depender de enchufes: por 22.500 € tienes 224 CV, etiqueta ECO y más de 900 km de autonomía total. El Jaecoo 5 gasolina solo tiene sentido si el presupuesto es innegociable y aceptas la etiqueta C.
+## Lo mejor y lo peor de cada uno
 
-Enfréntalos en nuestro <a href=/comparador-coches/?a=byd-atto-2-precio-ficha-tecnica&b=jaecoo-5-precio-ficha-tecnica>comparador del BYD Atto 2 y el Jaecoo 5</a>, y lee el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a> y el <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>. Fichas en <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a> y <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>. Si dudas entre etiquetas, consulta nuestra <a href=/guias/zbe/>guía de etiquetas y ZBE</a>.
+Del BYD nos quedamos con el equipamiento de serie —pantalla que gira, cámara de 360° y techo panorámico—, con la Blade LFP acompañada de bomba de calor y V2L sin coste añadido, con ese Active desde 18.739 € financiado y con un éxito comercial que supera las 14.000 unidades en 2026.
+
+Del Jaecoo, con su precio de entrada —19.990 € el gasolina y 22.500 € el híbrido—, con una variante para cada tipo de comprador, con el salto al híbrido por solo 2.500 € que suma 224 CV y distintivo ECO, y con 19 ayudas y 7 airbags ya en el acabado de acceso.
+
+En el debe: el BYD gasta más de lo esperado en autovía, su software va por detrás de su hardware y sus asistentes avisan en exceso; el Jaecoo gasolina bebe 7,0 l/100 km con distintivo C, acelera sin brillo y su red de posventa todavía se está desplegando.
+
+## Entonces, ¿con cuál te quedas?
+
+Si buscas distintivo Cero, gastar poco por kilómetro y no te molesta organizar las cargas, el Atto 2 es el acceso más barato de los dos y el eléctrico más completo por este dinero. Si recorres distancias variadas y no quieres vivir pendiente de un enchufe, el Jaecoo 5 híbrido da 224 CV, distintivo ECO y una autonomía conjunta de más de 900 km por 22.500 €. El gasolina solo compensa cuando el presupuesto no admite discusión y se asume el distintivo C.
+
+Puedes enfrentarlos directamente y consultar cada análisis:
+
+<a href=/comparador-coches/?a=byd-atto-2-precio-ficha-tecnica&b=jaecoo-5-precio-ficha-tecnica>comparador del BYD Atto 2 y el Jaecoo 5</a>
+
+<a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>análisis completo del Jaecoo 5</a>
+
+<a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a> · <a href=/coches/jaecoo-5-precio-ficha-tecnica/>ficha del Jaecoo 5</a>
+
+<a href=/guias/zbe/>guía de etiquetas y ZBE</a>
 
 Fuentes: <a href=https://www.byd.com/es>BYD España</a> y <a href=https://www.jaecoo.es>Jaecoo España</a>.
 
-## Míralo en vídeo
+## El duelo, en imágenes
 
 <iframe src=https://www.youtube.com/embed/PGysqWUSeDE title="Vídeo: Prueba Jaecoo 5: ¿es una buena compra?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
-Vídeo: <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> en YouTube
+En YouTube, <a href=https://www.youtube.com/watch?v=PGysqWUSeDE>SoyMotor</a> lo prueba a fondo.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál es más barato, el BYD Atto 2 o el Jaecoo 5?
-El BYD Atto 2 eléctrico: desde 18.739 € financiando con Plan Auto+, frente a los 19.990 € financiado del Jaecoo 5 gasolina y los 22.500 € del híbrido.
+### ¿Cuál sale más económico de los dos?
+El eléctrico de BYD: 18.739 € financiando con el Plan Auto+, por debajo de los 19.990 € del Jaecoo gasolina con financiación y de los 22.500 € del híbrido.
 
-### ¿Cuál tiene etiqueta Cero?
-El BYD Atto 2 (eléctrico) y el Jaecoo 5 EV. El Jaecoo 5 gasolina lleva etiqueta C y el híbrido, etiqueta ECO.
+### ¿Qué versiones llevan distintivo Cero?
+El eléctrico de BYD y el Jaecoo 5 EV. El gasolina del Jaecoo lleva distintivo C y el híbrido, distintivo ECO.
 
-### ¿Qué es el BYD Atto 2 DM-i?
-La versión híbrida enchufable del Atto 2: Active desde 28.200 € (20.940 € financiando con Auto+). Fue el PHEV más vendido de España en su primer mes en concesionarios.
+### ¿En qué consiste el Atto 2 DM-i?
+Es el híbrido enchufable del Atto 2: el Active parte de 28.200 € (20.940 € con financiación y Auto+). En su primer mes en tiendas fue el PHEV más vendido de España.
 
-### ¿El Jaecoo 5 híbrido merece la pena frente al gasolina?
-Sí: por solo 2.500 € más de tarifa obtienes 224 CV (frente a 147 CV), etiqueta ECO (frente a C) y más de 900 km de autonomía total. Es la versión con más sentido de la gama.
+### ¿Compensa el híbrido frente al gasolina en el Jaecoo 5?
+Sí: con 2.500 € más de tarifa pasas de 147 CV a 224 CV, del distintivo C al ECO y a más de 900 km de autonomía conjunta. Para la mayoría es la variante con más lógica.
 
-### ¿Son fiables las baterías Blade de BYD?
-La batería Blade LFP de BYD es una de las más probadas del mercado, con garantía de 8 años, y tolera bien las cargas al 100 % habituales en una LFP.
+### ¿Son de fiar las baterías Blade?
+Es una de las químicas LFP con más rodaje del mercado, con 8 años de garantía, y admite bien que se cargue al 100 % con frecuencia, algo habitual en una LFP.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+¿Te han puesto una multa? Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
     title: "XPeng G6 2026 vs Tesla Model Y",
@@ -431,9 +448,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "Leapmotor B10 vs BYD Atto 2 2026",
+    title: "Leapmotor B10 o BYD Atto 2: potencia frente a chollo",
     slug: "leapmotor-b10-vs-byd-atto-2-cual-comprar",
-    excerpt: "El Leapmotor B10 parte de 27.000 € con 218 CV y tracción trasera; el BYD Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos precios y",
+    excerpt: "El B10 ofrece 218 CV, 361 km y carga de 140 kW desde 27.000 €; el Atto 2 baja a 18.739 € financiado. Dos SUV eléctricos chinos, dos formas de gastar.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -450,11 +467,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/leapmotor-b10-vs-byd-atto-2-cual-comprar-hero.webp alt=Comparativa entre el Leapmotor B10 y el BYD Atto 2, dos SUV eléctricos chinos>
 
-Duelo 100 % eléctrico y 100 % chino entre los dos SUV que están rompiendo el mercado por precio: el **Leapmotor B10**, desde **27.000 €** con 218 CV y tracción trasera, contra el **BYD Atto 2**, desde **18.739 € financiando** con el Plan Auto+. Uno apuesta por la potencia y la tecnología; el otro, por el precio más bajo con etiqueta Cero.
+Unos ocho mil euros separan en España a estos dos SUV eléctricos de origen chino, y esa brecha lo cambia todo: uno juega a ser el chollo absoluto con etiqueta Cero; el otro pide algo más a cambio de más potencia, más autonomía y una carga mucho más rápida. Los dos presumen de precio rompedor, pero no compiten exactamente por el mismo comprador.
 
 Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver ficha técnica completa del Leapmotor B10</a> · <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ver ficha técnica completa del BYD Atto 2</a>.
 
-## Tabla comparativa: Leapmotor B10 vs BYD Atto 2
+## Comparativa rápida
 
 | Ficha | Leapmotor B10 | BYD Atto 2 |
 |---|---|---|
@@ -476,41 +493,29 @@ Fichas técnicas: <a href=/coches/leapmotor-b10-electrico-precio-espana/>ver fic
 
 <img src=/media/leapmotor-b10-byd-atto-2-duelo-cuerpo.webp alt=Leapmotor B10 y BYD Atto 2 en comparativa>
 
-## Análisis: qué ofrece cada uno
+## El Atto 2: el precio manda
 
-**Leapmotor B10.** La gran baza es la relación precio/producto: 218 CV, tracción trasera (rarísima en su rango de precio), pantalla de 14,6" con LEAP OS 4.0 y carga rápida de 140/168 kW con batería LFP. La gama: Life Pro (56,2 kWh) por 27.000 € con descuento oficial, Life ProMax y Design ProMax (67,1 kWh) por 31.900 € y 33.400 €, y versiones REEV de autonomía extendida por 27.900 € y 31.400 €. El dato que lo hace especial en España: **se fabricará en Zaragoza desde octubre de 2026**, será el primer eléctrico chino fabricado en España para toda Europa (40.000 unidades/año). Stellantis posee el 20 % de Leapmotor y colaboró en la puesta a punto del chasis. Sus pegas: maletero de 430 L justo para sus 4,52 m, la curva de carga cae con fuerza a partir del 90 % y la marca llegó en octubre de 2024.
+El BYD Atto 2 arranca en 25.790 € en su versión Active, y financiando con el Plan Auto+ se queda en 18.739 € según la oferta oficial: la cifra más baja de este duelo con diferencia. A cambio, el equipo es más modesto: 177 CV, acumulador de 45,1 kWh, 312 km WLTP y una carga en corriente continua de apenas 65 kW en los acabados de acceso. Lo que sorprende es lo que trae sin pagar extra: pantalla giratoria de 12,8 pulgadas, cámara de 360 grados, techo panorámico, acumulador Blade LFP, bomba de calor y V2L incluidos. BYD, además, llega con el respaldo de más de catorce mil unidades matriculadas en España durante 2026. Quien quiera más, tiene el Comfort por 31.740 €, que sube la carga a 155 kW y la autonomía a 430 km. Sus puntos flojos: el gasto real en autopista se dispara —20,1 kWh/100 km en prueba— y el software, con navegación y traducciones, queda por debajo del hardware.
 
-**BYD Atto 2.** El más barato de los dos por goleada: Active desde 25.790 €, o **18.739 € financiando** con Plan Auto+ (oferta oficial). A cambio ofrece menos potencia (177 CV), menos batería (45,1 kWh), menos autonomía (312 km) y carga DC de solo 65 kW en las versiones básicas. Donde brilla: equipamiento de serie completísimo (pantalla giratoria de 12,8", cámara 360°, techo panorámico), batería Blade LFP con bomba de calor y V2L de serie, y una marca con más de 14.000 unidades vendidas en 2026 en España. El Comfort (31.740 €) sube a 155 kW de carga y 430 km. Sus pegas: consumo real alto en autopista y software mejorable.
+## El B10: más coche por más dinero
 
-## Pros y contras
+El Leapmotor B10 parte de 27.000 € en su Life Pro con 56,2 kWh, y ahí ya ofrece 218 CV, propulsión trasera —muy poco habitual en este rango de precios—, pantalla de 14,6 pulgadas con el sistema LEAP OS 4.0 y recarga rápida de 140/168 kW sobre batería LFP. Por encima quedan el Life ProMax y el Design ProMax, ambos con batería de 67,1 kWh, a 31.900 € uno y 33.400 € el otro, además de las variantes REEV de rango extendido, a 27.900 € y 31.400 €. Hay un dato con peso para España: Zaragoza acogerá su montaje a partir de octubre de 2026, lo que lo convertirá en el primer eléctrico de marca china ensamblado en España para todo el continente europeo, con 40.000 unidades al año previstas. Stellantis tiene un 20 % de Leapmotor y participó en el ajuste del chasis. Sus pegas: el maletero de 430 L se queda corto para sus 4,52 m, la potencia de carga baja mucho al superar el 90 % y la firma aterrizó en octubre de 2024, con red y valor residual aún en construcción.
 
-**Leapmotor B10:**
-- ✅ 218 CV y 361 km WLTP desde 27.000 €: relación precio/producto rompedora
-- ✅ Carga rápida de 140/168 kW con batería LFP: excelente por este precio
-- ✅ Tracción trasera, rara en el segmento
-- ✅ Se fabricará en Zaragoza desde octubre de 2026 + etiqueta CERO
-- ❌ Maletero de 430 L, justo para un SUV de 4,52 m
-- ❌ La curva de carga cae con fuerza a partir del 90 %
-- ❌ Marca recién llegada (octubre 2024): red y valor residual en despliegue
+## Puntos fuertes y puntos débiles
 
-**BYD Atto 2:**
-- ✅ Equipamiento de serie muy completo: pantalla giratoria, cámara 360°, techo panorámico
-- ✅ Batería Blade LFP con bomba de calor y V2L de serie
-- ✅ Precios agresivos: desde 18.739 € financiado el Active
-- ✅ Éxito probado: más de 14.000 unidades en 2026
-- ❌ Consumo real alto en autopista: 20,1 kWh/100 km en prueba
-- ❌ Software mejorable: navegación y traducciones por debajo del hardware
-- ❌ Las versiones básicas solo cargan a 65 kW en DC
+Del B10 convence su relación entre precio y producto: 218 CV con 361 km WLTP desde 27.000 €, una recarga rápida de 140/168 kW sobre batería LFP que brilla en este precio, la propulsión trasera —rara en el segmento— y la fabricación futura en Zaragoza desde octubre de 2026, con etiqueta CERO. En contra: el maletero de 430 L se queda corto para un SUV de 4,52 m; y la marca, llegada en octubre de 2024, todavía despliega red y valor residual, mientras la potencia en carga se desploma al pasar del 90 %.
 
-## Veredicto: ¿cuál comprar?
+Del Atto 2 convence su dotación de serie: pantalla giratoria, cámara de 360 grados y techo panorámico; el acumulador Blade LFP, la bomba de calor y el V2L incluidos; unos precios agresivos que arrancan en 18.739 € financiado para el Active; y un éxito ya probado, con más de catorce mil unidades en 2026. En contra: el gasto real en autopista es alto, 20,1 kWh/100 km en prueba; el software resulta mejorable, con navegación y traducciones por debajo del hardware; y las versiones básicas solo admiten 65 kW en corriente continua.
 
-**Compra el BYD Atto 2 si** el presupuesto es lo primero: por unos 8.000 € menos tienes un eléctrico honesto, bien equipado y con etiqueta Cero, perfecto como segundo coche o para uso urbano. **Compra el Leapmotor B10 si** puedes estirarte: ganas 41 CV, 49 km de autonomía, carga el doble de rápida (140 kW frente a 65 kW), tracción trasera y un coche 20 cm más largo. El B10 es más coche; el Atto 2 es mejor chollo.
+## Veredicto: ¿cuál te conviene?
 
-Compáralos en nuestro <a href=/comparador-coches/?a=leapmotor-b10-electrico-precio-espana&b=byd-atto-2-precio-ficha-tecnica>comparador del Leapmotor B10 y el BYD Atto 2</a>, y lee el <a href=/blog/leapmotor-b10-electrico-precio-espana/>análisis completo del Leapmotor B10</a> y el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a>. Fichas en <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10</a> y <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a>. Si te preocupa la autonomía en viaje, usa nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
+Si el dinero manda, el Atto 2 es la respuesta: por unos ocho mil euros menos te llevas un eléctrico honesto, bien dotado y con etiqueta Cero, ideal como segundo coche o para moverte por ciudad. Si puedes estirar el presupuesto, el B10 devuelve con creces la diferencia: 41 caballos más, 49 kilómetros extra de autonomía, una carga que más que duplica la del BYD básico (140 kW frente a 65 kW), propulsión trasera y un coche 20 centímetros más largo. En resumen: el B10 ofrece más coche; el Atto 2, mejor relación con el bolsillo.
+
+Enfréntalos lado a lado en nuestro <a href=/comparador-coches/?a=leapmotor-b10-electrico-precio-espana&b=byd-atto-2-precio-ficha-tecnica>comparador del Leapmotor B10 y el BYD Atto 2</a>, y lee el <a href=/blog/leapmotor-b10-electrico-precio-espana/>análisis completo del Leapmotor B10</a> y el <a href=/coches/byd-atto-2-precio-ficha-tecnica/>análisis completo del BYD Atto 2</a>. Tienes las fichas en <a href=/coches/leapmotor-b10-electrico-precio-espana/>ficha del Leapmotor B10</a> y <a href=/coches/byd-atto-2-precio-ficha-tecnica/>ficha del BYD Atto 2</a>. Y si la autonomía en viaje te preocupa, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>.
 
 Fuentes: <a href=https://www.leapmotor.net>Leapmotor</a> y <a href=https://www.byd.com/es>BYD España</a>.
 
-## Míralo en vídeo
+## El duelo en vídeo
 
 <iframe src=https://www.youtube.com/embed/NyyL6J9vPeo title="Vídeo: Probamos el Leapmotor B10" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
@@ -518,23 +523,27 @@ Vídeo: <a href=https://www.youtube.com/watch?v=NyyL6J9vPeo>SoyMotor</a> en YouT
 
 ## Preguntas frecuentes
 
-### ¿Cuál es más barato, el Leapmotor B10 o el BYD Atto 2?
-El BYD Atto 2: desde 18.739 € financiando con Plan Auto+, frente a los 27.000 € del Leapmotor B10 Life Pro.
+### ¿Qué modelo sale más económico al financiar?
 
-### ¿Cuál tiene más autonomía?
-El Leapmotor B10: 361 km WLTP, frente a los 312 km del BYD Atto 2 (el Comfort llega a 430 km, pero cuesta 31.740 €).
+El Atto 2: se queda en 18.739 € con financiación y Plan Auto+, mientras el B10 Life Pro arranca en 27.000 €.
 
-### ¿El Leapmotor B10 es de Stellantis?
-Stellantis posee el 20 % de Leapmotor y controla el 51 % de Leapmotor International, que vende la marca fuera de China. Además colaboró en la puesta a punto del chasis del B10.
+### ¿Cuál recorre más kilómetros con una carga?
 
-### ¿Dónde se fabrica el Leapmotor B10?
-Se fabricará en Zaragoza desde octubre de 2026: será el primer eléctrico chino fabricado en España para toda Europa.
+El B10: homologa 361 km WLTP, por 312 km del Atto 2. Eso sí, el Comfort del BYD alcanza 430 km, aunque cuesta 31.740 €.
 
-### ¿Cuál carga más rápido?
-El Leapmotor B10: 140/168 kW en DC, frente a los 65 kW de las versiones básicas del BYD Atto 2 (el Comfort carga a 155 kW).
+### ¿Qué papel juega Stellantis en Leapmotor?
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Stellantis posee una quinta parte de Leapmotor y más de la mitad de Leapmotor International, la sociedad que comercializa la marca fuera de China. También intervino en el ajuste del chasis del B10.
+
+### ¿En qué planta española se montará el B10?
+
+En Zaragoza, a partir de octubre de 2026: será el primer eléctrico de marca china ensamblado en España para toda Europa.
+
+### ¿Cuál recupera carga antes en un poste rápido?
+
+El B10: 140/168 kW en continua, mientras las versiones básicas del Atto 2 se quedan en 65 kW. El Comfort del BYD sube a 155 kW.
+
+¿Dudas con una sanción de tráfico? <a href=https://recurretumulta.online/>Revisa aquí si tu sanción admite recurso sin coste</a>.`,
   },
   {
     title: "Alpine A390 vs Skoda Peaq 2026",
