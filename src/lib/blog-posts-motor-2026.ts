@@ -21,78 +21,7 @@ export const MOTOR_2026_POSTS: BlogPost[] = [
       "SUV híbrido enchufable barato 2026",
       "Chery Lepas L8 autonomía"
     ],
-    content: `<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp alt=SUV híbrido enchufable azul oscuro de diseño elegante circulando por una carretera de montaña española al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Ver ficha técnica del Lepas L8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\n¿Otra marca china más? Sí, pero esta viene con un plan muy serio. **Lepas** (de "leopard passion") es la tercera marca del gigante **Chery** en España, tras Omoda y Jaecoo, y su primer modelo, el **Lepas L8**, ya está aquí: un SUV híbrido enchufable de 4,69 metros con **279 CV**, **90 km de autonomía eléctrica** y un precio promocional de lanzamiento de **33.990 euros** que pone en aprietos a todo el segmento.
-
-## La noticia
-
-Lepas no es un experimento: Chery quiere vender **16.000 unidades en 2027** en España, casi lo mismo que Omoda o Jaecoo. Para ello ha montado un equipo directivo llegado de otras marcas y una **red de 40 puntos de venta propios** (52 previstos antes de que acabe 2026), independiente de la de Omoda y Jaecoo. La red de postventa y recambios ya está en marcha aprovechando la de sus marcas hermanas.
-
-El L8 es el buque insignia con el que debuta la marca: luego llegarán el L6 (4,57 m, eléctrico y PHEV, a finales de 2026) y el L4 (4,42 m, en 2027).
-
-## Precio y versiones en España
-
-La tarifa promocional de lanzamiento arranca en **33.990 euros**, un precio agresivo para un D-SUV híbrido enchufable con este nivel de equipamiento. Sin descuentos ni promociones, los precios oficiales rondan los **41.700 euros** según los medios que ya lo han probado, con dos acabados principales (Essence y Elegance). El acabado Elegance añade elementos de confort como asientos con masaje y ventilación.
-
-<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-oficial.webp alt=Lepas L8, SUV híbrido enchufable de Chery, vista tres cuartos delantera>
-
-<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-interior-oficial-2.webp alt=Interior oficial del lepas l8 chery hibrido enchufable precio espana>
-
-¿Encaja en tu presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.
-
-## Curiosidades que quizá no sabías
-
-- **Chery empezó fabricando el Seat Toledo**: hace 25 años, la firma china compró la maquinaria con la que Seat fabricaba el Toledo y produjo cientos de miles de unidades para taxis y flotas oficiales en China.
-- **El diseño se inspira en el leopardo**: el lenguaje "Leopard Aesthetics" se aprecia en los faros con firma luminosa de "pupila vertical" y en una calandra de tramado cromado que busca un aire premium.
-- **Interior "Skyline Cabin"**: pantalla vertical en cascada, botones físicos de climatización, cargador inalámbrico de 50 W, cajón refrigerado, equipo de sonido Sony y función V2L (puedes enchufar aparatos externos al coche).
-- **Modo cama**: los asientos se reclinan por completo para dormir en el coche, un guiño al público aventurero.
-- **Lepas no se vende en China**: es una marca creada específicamente para la exportación, como ya hicieron Omoda y Jaecoo.
-
-## Rivales directos
-
-| Modelo | Tecnología | Precio aprox. | Autonomía eléctrica |
-|---|---|---|---|
-| **Lepas L8** | PHEV 279 CV | Desde 33.990 € (promo) | 90 km |
-| BYD Seal U DM-i | PHEV | Desde ~38.400 € | ~125 km |
-| Leapmotor C10 REEV | Eléctrico autonomía extendida | Desde ~33.700 € | ~145 km |
-| Jaecoo 7 SHS | PHEV 340 CV | Desde ~33.000 € | 90 km |
-
-## Pros y contras
-
-| ✅ Pros | ❌ Contras |
-|---|---|
-| 279 CV con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta CERO</a>: entra en todas las ZBE sin restricciones | Marca totalmente desconocida: el valor de reventa es una incógnita |
-| 90 km eléctricos cubren el commuting diario sin gastar gasolina | Sin promociones el precio sube a ~41.000 €, mucho menos rompedor |
-| Precio promocional de 33.990 € muy agresivo para su tamaño | De momento solo hay una mecánica (PHEV); sin versión de acceso barata |
-| Maletero de 507 L e interior cuidado (masaje, ventilación, V2L) | El diseño "leopardo" y la parrilla cromada no gustarán a todos |
-| Red de 40 puntos de venta (52 previstos) y postventa apoyada en Omoda/Jaecoo | Competencia brutal: BYD, Leapmotor y su propio primo el Jaecoo 7 |
-
-<iframe src=https://www.youtube.com/embed/r8EaZt3AfU8 title=Análisis del Lepas L8 en España style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>
-
-Vídeo: <a href=https://www.youtube.com/watch?v=r8EaZt3AfU8>carwow España (JF Calero)</a> en YouTube.
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta el Lepas L8 en España?
-La tarifa promocional de lanzamiento parte de 33.990 euros. Sin descuentos, el precio oficial ronda los 41.700 euros según los medios especializados que ya lo han probado.
-
-### ¿Qué autonomía eléctrica tiene el Lepas L8?
-Homologa 90 km en ciclo WLTP con su batería de 18,4 kWh, suficiente para el uso diario, y más de 1.100 km de autonomía combinada con el depósito lleno.
-
-### ¿Lepas es una marca fiable?
-Es la tercera marca del grupo Chery en España (tras Omoda y Jaecoo). Chery es el principal exportador de coches de China y fabrica 2,8 millones de vehículos al año. La red de postventa se apoya en la de Omoda y Jaecoo, ya consolidada.
-
-### ¿El Lepas L8 tiene etiqueta CERO de la DGT?
-Sí. Al ser un híbrido enchufable con 90 km de autonomía eléctrica, le corresponde la etiqueta CERO, con acceso a las ZBE y ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
-
-### ¿Cuándo llegan el Lepas L6 y el L4?
-El L6 (4,57 m, en versión eléctrica de 218 CV y PHEV) llegará a finales de 2026 con precios por debajo de 30.000 euros con ofertas, y el L4 (4,42 m) lo hará en 2027 para competir con el BYD Atto 2.
-
-### ¿Merece la pena frente al BYD Seal U DM-i?
-El Lepas L8 es más barato en promoción y apuesta por un acabado más premium (masaje, V2L, modo cama). El BYD ofrece más autonomía eléctrica y una marca más conocida en Europa. Depende de si priorizas precio o red consolidada.
-
-Si te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
+    content: `<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp alt=SUV híbrido enchufable azul oscuro de diseño elegante circulando por una carretera de montaña española al atardecer>\n\n**¿Buscas solo los datos?** <a href=/coches/lepas-l8-chery-hibrido-enchufable-precio-espana/>Ver ficha técnica del Lepas L8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nOtra marca china, sí, pero con un plan que va en serio. Lepas, nombre que viene de «leopard passion», es la tercera enseña del grupo Chery en España después de Omoda y Jaecoo. Su primer modelo es el L8, un SUV híbrido enchufable que mide 4,69 metros, 279 CV y 90 km de autonomía eléctrica, con un precio de lanzamiento en promoción de 33.990 euros que aprieta a todo el segmento.\n\n## El plan de Lepas en España\n\nLepas no es un experimento pasajero. Chery se ha marcado vender 16.000 unidades en España en 2027, prácticamente lo mismo que Omoda o Jaecoo, y para lograrlo ha fichado un equipo directivo procedente de otras marcas y ha levantado su red propia: 40 puntos de venta, con 52 previstos antes de que termine 2026, separada de la de Omoda y Jaecoo. La postventa y los recambios ya funcionan apoyándose en la red de sus marcas hermanas.\n\nEl L8 encabeza el debut de la marca; después vendrán el L6, a finales de 2026, en versión eléctrica y PHEV y con 4,57 m, y el L4, de 4,42 m, en 2027.\n\n## Precios y acabados en España\n\nLa tarifa de lanzamiento en promoción parte de 33.990 euros, una cifra agresiva para un D-SUV híbrido enchufable de este equipamiento. Sin descuentos ni promociones, el precio oficial se acerca a los 41.700 euros, según cuentan medios que ya la han probado, con dos acabados, Essence y Elegance. El Elegance suma confort como asientos con masaje y ventilación.\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-oficial.webp alt=Lepas L8, SUV híbrido enchufable de Chery, vista tres cuartos delantera>\n\n<img src=/media/lepas-l8-chery-hibrido-enchufable-precio-espana-interior-oficial-2.webp alt=Interior oficial del lepas l8 chery hibrido enchufable precio espana>\n\n¿Te encaja el presupuesto? <a href=/mejor-coche-por-presupuesto/>Descubre el mejor coche por tu presupuesto</a>.\n\n## Cinco curiosidades\n\n- **El Seat Toledo, origen de Chery**: el origen fabril de Chery está ligado al Seat Toledo: hace un cuarto de siglo, la firma china se hizo con la maquinaria de producción del Toledo de Seat y sacó cientos de miles de unidades destinadas a taxis y a flotas oficiales chinas.\n- **Diseño inspirado en el leopardo**: el diseño toma al leopardo como referencia: los faros llevan una firma luminosa en forma de «pupila vertical» dentro del lenguaje «Leopard Aesthetics», y la calandra de tramado cromado persigue un aire premium.\n- **Por dentro, la «Skyline Cabin»**: por dentro, la «Skyline Cabin» ofrece pantalla vertical en cascada, botones físicos para el clima, carga inalámbrica de 50 W, cajón refrigerado, sonido Sony y V2L, que permite enchufar aparatos externos al coche.\n- **Modo cama**: abate los asientos del todo para dormir dentro del coche, un guiño para el público más aventurero.\n- **Lepas no se vende en China**: la marca nació específicamente para exportar, como ya hicieron Omoda y Jaecoo.\n\n## Con quién compite\n\n| Modelo | Tecnología | Precio aprox. | Autonomía eléctrica |\n|---|---|---|---|\n| **Lepas L8** | PHEV 279 CV | Desde 33.990 € (promo) | 90 km |\n| BYD Seal U DM-i | PHEV | Desde ~38.400 € | ~125 km |\n| Leapmotor C10 REEV | Eléctrico autonomía extendida | Desde ~33.700 € | ~145 km |\n| Jaecoo 7 SHS | PHEV 340 CV | Desde ~33.000 € | 90 km |\n\n## Lo bueno y lo mejorable\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 279 CV con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta CERO</a>: entra en todas las ZBE sin restricciones | Marca totalmente desconocida: el valor de reventa es una incógnita |\n| 90 km eléctricos cubren el commuting diario sin gastar gasolina | Sin promociones el precio sube a ~41.000 €, mucho menos rompedor |\n| Precio promocional de 33.990 € muy agresivo para su tamaño | De momento solo hay una mecánica (PHEV); sin versión de acceso barata |\n| Maletero de 507 L e interior cuidado (masaje, ventilación, V2L) | El diseño "leopardo" y la parrilla cromada no gustarán a todos |\n| Red de 40 puntos de venta (52 previstos) y postventa apoyada en Omoda/Jaecoo | Competencia brutal: BYD, Leapmotor y su propio primo el Jaecoo 7 |\n\n<iframe src=https://www.youtube.com/embed/r8EaZt3AfU8 title=Análisis del Lepas L8 en España style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem; allowfullscreen></iframe>\n\nVídeo: <a href=https://www.youtube.com/watch?v=r8EaZt3AfU8>carwow España (JF Calero)</a> en YouTube.\n\n## Preguntas y respuestas\n\n### ¿Qué precio tiene en España?\n\nSin descuentos, el precio oficial se acerca a los 41.700 euros, según cuentan medios especializados que ya lo han probado. La promoción, en cambio, arranca en 33.990 euros.\n\n### ¿Cuánta autonomía eléctrica homologa?\n\nCon su batería de 18,4 kWh homologa 90 km en ciclo WLTP, de sobra para el día a día, y la autonomía combinada con el depósito lleno pasa de 1.100 km.\n\n### ¿Es fiable Lepas como marca?\n\nEs la tercera enseña en España del grupo Chery, después de Omoda y Jaecoo. Chery es el mayor exportador de coches de China y produce 2,8 millones de vehículos cada año. La postventa se apoya en la red de Omoda y Jaecoo, ya consolidada.\n\n### ¿Tiene etiqueta CERO?\n\nSí: con 90 km de autonomía eléctrica como híbrido enchufable, le toca la etiqueta CERO, que abre las ZBE y da ventajas fiscales. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.\n\n### ¿Cuándo llegan el L6 y el L4?\n\nEl L6 llegará a finales de 2026, en versión eléctrica de 218 CV y también PHEV, con ofertas que lo dejan por debajo de 30.000 euros; el L4, de 4,42 m, lo hará en 2027, con el BYD Atto 2 como rival directo.\n\n### ¿Compensa frente al BYD Seal U DM-i?\n\nEn promoción, el L8 es más barato y apuesta por un acabado más premium, con masaje, V2L y modo cama. El BYD, en cambio, ofrece más autonomía eléctrica y el respaldo de una marca más conocida en Europa. Todo depende de si priorizas precio o una red consolidada.\n\nSi te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.\n\n*Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
   },
   {
     title: "Skoda Peaq: 646 km",
