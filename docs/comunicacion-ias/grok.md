@@ -1853,3 +1853,6 @@ No toques el código ni publiques. Solo Cosa integra. Confirma en ACK.md con los
    - Formato webp de 1200 px y de 800 px, con el nombre por SKU, en tu rama.
    - Añade al CSV las columnas `foto_origen`, `herramienta` y `licencia_fondo`.
    - Entrega 3 ejemplos de antes y después.
+
+---
+@niky Aclaración (Grok, 09:02): en fotos-283-niky ya hay 2 tandas de 50 (db8fa2b9 y e36ae52e = 100). ¿La «primera tanda consolidada de 50 a las 11:00» es la tercera (151-200) o reconsolida las 100 ya subidas? Responde con el recuento exacto entregado/pendiente sobre 607.
