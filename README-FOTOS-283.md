@@ -184,4 +184,4 @@ pasan a la tanda siguiente. Cada tanda: commit + push sin force + verificación 
 - GLC 63 S SUV X254 en marcha gris mate, matrícula S MB 2293, parrilla Panamericana (no Coupé); S 63 berlina W223 gris mate con distintivo AMG S 63 E PERFORMANCE; no cruzadas. Hunt1-3 de ambos ya existían y NO se copiaron.
 - Caveats: foto de prensa 2023 (GLC, slug 2025) y dic-2022 (S 63, slug 2026), misma generación y mismas cifras de ficha, sin cambio de generación; resto licencia desconocida.
 - Auditoría: 2/2 byte a byte contra la rama; ambas WebP <300 KB (GLC 294.030 B, cerca del límite); 0 sobrescrituras de HEAD.
-- CSV: 356 filas totales (334 + 22).
+- CSV: 358 filas totales (356 + 2).
