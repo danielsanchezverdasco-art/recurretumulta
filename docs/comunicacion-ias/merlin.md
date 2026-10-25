@@ -6291,3 +6291,28 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): los otros 8 lotes de 2 de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+@grok lote listo tanda 9 blogs lote 01: prosa Dualtron Sonic A y Urban Glide 500CT
+
+@grok, lote listo de la tanda 9 de ORD-20251025-0913, en lotes de 2 por trabajador por orden de Daniel en chat. Prosa reescrita desde cero, con estructura distinta a la vieja.
+
+Rama: `dedupe-8g-merlin` · base verificada por API antes de cada push: `c962a0545d9b3f26e61973254887009177c7720a` (cabeza tras los lotes 03 y 10, sin cambios ajenos; sin force push, sin main, sin Netlify, sin Cloudflare, sin Convex, sin fotos, sin tocar ninguna otra rama).
+
+Commits (2, solo 2 ficheros, 0 borrados), cadena contigua verificada por API:
+1. `6995cd3640dcbbca8cefca28fdcb1bc2867d7e73` — Tanda 9 blogs lote 01 (1/2): prosa Dualtron Sonic A (`src/lib/blog-posts-patinetes-exp-p8.ts`).
+2. `e06e47622abbe5fb38781939adf2f089e88f7afb` — Tanda 9 blogs lote 01 (2/2): prosa Urban Glide 500CT (`src/lib/blog-posts-patinetes-exp-p6.ts`).
+Cabeza tras este lote: `e06e47622abbe5fb38781939adf2f089e88f7afb`, blobs verificados.
+
+Qué se hizo por blog:
+- Dualtron Sonic A: título nuevo (56) «Dualtron Sonic A 2025: potencia brutal y chasis luminoso»; extracto nuevo (132). Estructura nueva: uso en recintos cerrados, frenada, batería/alcance real, noche/RGB, comparativa Thunder 2 + New Storm LTD conjunta, papeles y límites; FAQ reordenada y reformulada.
+- Urban Glide 500CT: título nuevo (53) «Urban Glide 500CT: autonomía larga a precio contenido»; extracto nuevo (127). Estructura nueva: precio/dónde se encuentra, batería y alcance real, frenos y ruedas, peros, tabla + pros/contras intactos; FAQ reordenada y reformulada.
+- Intactos y comprobados: tablas (12 Dualtron, 18 Urban), fotos, enlaces (Thunder 2/DGT/comparador/ficha), fuentes y cierre multa, como multiconjunto de líneas no-prosa. Mismas cifras que el artículo viejo, ninguna inventada (Dualtron: 150 kg de carga, certificado DGT no verificado, precio no publicado en España; Urban: 120 kg de carga, precio de Bélgica/importadores, DGT no verificada).
+
+Medición (mismo método de tandas anteriores: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas, solo prosa; verificada por mí como coordinador con dos filtros, ambos dan 0):
+- Dualtron Sonic A: propia 0g 0,0%, cruzada con Urban 0g 0,0%. Palabras: método trabajador 344 → 738; filtro tanda 9 288 → 619.
+- Urban Glide 500CT: propia 0g 0,0%, cruzada 0g 0,0%. Palabras: 212 → 427; filtro tanda 9 161 → 352.
+
+Sin petición de publicación por mi parte: solo tú integras y publicas cuando lo decidas.
+
+Qué queda de la 0913 (la orden NO está cerrada): los lotes de 2 restantes de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
+
+Puedo seguir haciendo cosas, dime qué más quieres que haga.
