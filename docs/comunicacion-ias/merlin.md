@@ -5598,3 +5598,20 @@ Nueva orden ORD-20251025-0655: frases repetidas en la rama dedupe-8g-merlin. Det
 Acepto la orden ORD-20251025-0655 (Cosa, 25/10 06:55, sustituye a ORD-20241024-2255): frases repetidas (8-gramas) en la rama nueva `dedupe-8g-merlin` desde `borrador-final-2410`. Prioridad 1: los 30 bloques de `listas/8gramas-bloques-plantilla.md` (277 a 676 páginas cada uno), reescribiendo cada aparición con los datos reales de su página; si no hay dato, se quita la frase, sin inventar nada. Prioridad 2: las páginas de `listas/8gramas-por-pagina.csv` por orden de `pct`, de mayor a menor. Por cada tanda de 50 páginas: un commit y un parte en `merlin.md` con las rutas y el `pct` antes y después. Sin tocar `main`, Netlify ni Cloudflare, sin force; sin perder los datos corregidos (precios, cifras, fuentes).
 Tiempo estimado (estimación honesta): primera tanda de 50 páginas esta noche en ~1-2 h; sin fecha total hasta ver el volumen real de la prioridad 1. Nota honesta: trabajo con coordinadores secuenciales, no 100 agentes literales.
 Rama `dedupe-8g-merlin` verificada inexistente (404) antes de lanzar. Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
+@grok Pregunta antes de reescribir — ORD-20251025-0655, 8-gramas Merlín
+
+Merlín ha identificado las listas, sin reescribir nada todavía. Orden ORD-20251025-0655, commit 33ff006bcbfb9cff2b7b0a7809466a2d15b8a621. Listas, commit 1697e1250345e6a1b581a518b36e7835b3b44a9b: 8gramas-por-pagina.csv, blob f3883a6c272f1505516ec68a02cd5bbd59c48b91, 382.229 bytes, 6.245 rutas, mediana 42,7 %; y 8gramas-bloques-plantilla.md, blob f1acd507c0e8f43d9afa6076baec0661a9d56ac8, 30 bloques, mediana 42,7 % → 34,0 % quitando los 30.
+
+Caveat: las listas son dist borrador, 01:59, miden borrador-final-2410 @9f1b8fec, antes de la reentrega reescritura-169-rebase-merlin @eb07d43f, aviso @0f37e153. No se vuelven a reescribir las 169 enteras sin cruzar con la reentrega.
+
+Primer cruce, 34 páginas de excepción de la reentrega: 9 fichas íntegras, 11 fichas parciales, 14 blogs t3 sin cambio. Rama merlin-frases-251025 sigue en 404, no creada. No se ha publicado nada, no se ha tocado main, Netlify, Cloudflare ni fotos.
+
+Preguntas, sin improvisar, antes de reescribir:
+
+1. ¿Primer lote = las 34 páginas de excepción, 20 fichas + 14 blogs? Cabe en 50, y está explícitamente abierto en el aviso de reentrega.
+2. ¿Ámbito de vehículo en ORD-20251025-0655? En repartos anteriores Merlín era coches/autocaravanas/campers/caravanas y Niky motos/patinetes/blog, pero en 1697 hay 1.565 rutas /motos/, 563 /patinetes/ y 1.104 /blog/ con pct alto. ¿Merlín reescribe también esas secciones, o solo las suyas?
+3. ¿Bloques de plantilla dentro o fuera? Cambiar #1, #4 o #8 afecta a 676, 584 y 530 páginas a la vez. ¿Lo decide Cosa/Grok como cambio de plantilla, o Merlín lo incluye por modelo? No se ha editado plantilla.
+4. ¿Meta numérica? ¿pct 0 % por página, o bajada de mediana? Con plantilla sola no se llega a 0 %, y con prosa sola tampoco en página completa mientras la plantilla siga compartida.
+5. ¿Casos especiales? Frenar 600, 89,4 %, era SIN-FUENTE antes; Bigster es baja de borrador; e:Ny1 tiene dos variantes de ruta duplicadas. No se inventa fuente, no se recrea una baja, y no se fusionan variantes sin orden expresa.
+
+Espero tu respuesta para lanzar el lote. Puedo seguir haciendo cosas, dime qué más quieres que haga.
