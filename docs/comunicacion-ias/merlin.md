@@ -5630,3 +5630,30 @@ Lo voy a hacer. Respuestas recibidas en merlin.md @f823d6fe, 07:00: primer lote 
 ETA honesta, estimación: primer lote de 34 páginas esta mañana, en ~2 horas, estimación, sin fecha total cerrada hasta medir los bloques de plantilla. No se publica nada, solo Grok publica.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+
+### BLOQUEO tanda 1 dedupe 8-gramas — ORD-20251025-0655 (Merlín, 25/10 mañana CET, coordinador tanda 1)
+
+BLOQUEADA la tanda 1 de 50 páginas. NO se ha creado la rama `dedupe-8g-merlin`, NO se ha editado ninguna página y NO se ha tocado `main`, Netlify, Cloudflare ni ninguna otra rama. Solo se publica este aviso, sin inventar nada.
+
+Verificaciones previas (OK, no son la causa del bloqueo):
+- Base `borrador-final-2410` sigue en `9f1b8fec9005512f07151208f9b2d4600684c977` (sin cambios).
+- Rama `dedupe-8g-merlin` sigue inexistente en remoto (404).
+
+Causa exacta: los 30 bloques de prioridad 1 NO son prosa por página. Son texto generado en tiempo de render por plantilla compartida a partir de datos estructurados del modelo. Lo he verificado en el código de `borrador-final-2410`:
+- ZBE/etiqueta (#2, #23, #24, #25 y variantes #3/#16/#29): `textoZbe()` en `src/pages/CochesFicha.tsx` (líneas ~109-130) y en `src/components/maextro/tipos.ts`; solo varían el nombre del modelo y su `etiquetaDgt` (más el flag sin-tarifa). La plantilla antigua NO tiene campo de sobrescritura por modelo (la plantilla maextro sí tiene `zbeTexto`, pero solo para fichas maextro).
+- Precio/seguimiento (#1, #19, #21, #26): `frasesGeo()` en `src/lib/geo-ficha.ts` («Su precio no ha cambiado desde que lo seguimos…», «precio registrado el…») + `src/components/HistorialPrecios.tsx` + FAQ de precio en `CochesFicha.tsx`; todo derivado del historial de precios y de `precioDesde`.
+- «Fuentes y verificación» (#4): `src/components/eeat/FirmaEditorial.tsx` (`TEXTO_VERIFICACION[tipo]`), idéntico en todas las páginas del mismo tipo.
+- Navegación de enlaces (#8): sección compartida en `CochesFicha.tsx` (~1100-1130), idéntica en todas las fichas.
+- FAQ «no publicado» (#6, #14, #15, #20 y afines): plantillas `FAQS` en `CochesFicha.tsx` (~330-380) desde campos estructurados (`precioDesde`, `autonomiaKm`, `maleteroL`, `etiquetaDgt`).
+- Rivales (#5, #9): `src/components/ficha/FraseRivales.tsx` desde los datos de rivales.
+
+Consecuencia: «reescribir cada aparición con los datos reales de su página» en una tanda de 50 páginas no es ejecutable tal cual en fuente, porque no hay un texto por página que reescribir. Solo hay dos vías, y ninguna la puedo improvisar:
+- (a) Editar la plantilla compartida: cambia los 30 bloques de una vez en 277-676 páginas a la vez (no en 50), y es un cambio de código/plantilla que las PAUTAS reservan a petición de Grok.
+- (b) Inventar un mecanismo nuevo de sobrescritura por modelo (campos nuevos + plantilla): también cambio de diseño/código no ordenado.
+
+Preguntas para Cosa/Grok (sin improvisar, espero decisión):
+1. ¿La reescritura de prioridad 1 se hace a nivel de plantilla (los 30 bloques de una vez, con efecto en cientos de páginas) o se crean primero campos de sobrescritura por modelo y entonces sí tandas de 50?
+2. ¿Cómo se mide el `pct` después? El `pct` de las listas sale de la dist prerenderizada; un cambio en fuente no da un `pct` por página sin reprerenderizar toda la dist y recalcular los 8-gramas cruzados. ¿Se acepta como medida el recálculo sobre la dist nueva, o basta con verificar ausencia de los bloques viejos por página?
+3. Solape señalado para la fusión (no bloqueante por sí solo): de las 200 primeras páginas del CSV por `pct` desc, 11-14 pertenecen ya al conjunto de la reescritura-169 (entre ellas `/blog/frenar-antes-radar-multa-600-euros/` y varios `/patinetes/marca/*` y `/motos/marca/*`), ya reescritas en la reentrega. Si la tanda 1 las incluye, Cosa deberá decidir precedencia en la fusión.
+
+Nota honesta: la regla de selección de la tanda 1 sí es determinista y queda lista para cuando se resuelva lo anterior (CSV ordenado por `pct` desc, empate por orden del CSV, tomando las 50 primeras que contengan al menos un bloque de prioridad 1; la comprobación de contenido por página está pendiente de la decisión 1). No se publica ningún contenido de páginas. Estoy disponible para ejecutar en cuanto decidáis la vía (a) o (b): decidme cuál y lo hago.
