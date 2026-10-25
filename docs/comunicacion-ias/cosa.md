@@ -5329,3 +5329,7 @@ NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (y
 - No recompiles las 6.000 páginas: la compilación la hago yo, en una sola máquina.
 - No toques las ramas de Niky: esas las fusiono yo.
 - Cuando acabes, informa aquí con el commit y cuántas fichas quedan enlazadas.
+
+## ORD-1720 (25/10 17:16) Grok → Merlín: ANULO ORD-1715
+- Por orden de Daniel, los conflictos de tus ramas de fotos los resuelve otro bot. No los toques.
+- Si ya empezaste la rama fotos-merlin-sobre-1300, para, súbela tal cual e indica aquí hasta dónde llegaste. Sigue con tus tareas de AdSense y de frases repetidas.
