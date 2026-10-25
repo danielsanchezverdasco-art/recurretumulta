@@ -284,9 +284,9 @@ Fuentes: <a href=https://hackercar.com/estas-cosas-solo-pasan-en-china-avatr-06t
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "Rox 01: SUV chino Pininfarina con 1.115 km autonomía",
+    "title": "Rox 01: el SUV chino de Pininfarina con 1.115 km de alcance",
     "slug": "rox-01-erev-pininfarina-autonomia-1115-km",
-    "excerpt": "Rox 01: SUV chino diseñado por Pininfarina con 350 kW, 235 km eléctricos y 1.115 km combinados. Lujo outdoor que casi nadie conoce en Europa.",
+    "excerpt": "El Rox 01 combina motores eléctricos con un generador de gasolina, firma Pininfarina y 1.115 km combinados. Así es el SUV chino de lujo outdoor.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 7,
@@ -301,17 +301,17 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/rox-01-desconocidos-hero.webp alt=SUV premium chino de color blanco con techo panorámico aparcado en un mirador de montaña al amanecer>
 
-Hay una marca china que ha contratado a **Pininfarina** —el estudio italiano que dibujó los Ferrari más bellos de la historia— para diseñar su coche, y que propone una categoría nueva: **"Global Luxury Outdoor"**. Se llama **Rox Motor**, su modelo es el **Rox 01**, y su argumento es demoledor: **1.115 km de autonomía combinada** sin renunciar al lujo ni a las capacidades todoterreno.
+Pocas marcas recién llegadas pueden presumir de un lápiz como el de Pininfarina. Rox Motor, firma china de vehículos de nueva energía, encargó al estudio de Turín el trazado de su primer modelo, el Rox 01, y lo presentó como abanderado de un nicho propio, el "Global Luxury Outdoor". Su carta de presentación impresiona: 1.115 km de recorrido combinado sin renunciar al confort de alta gama ni a la capacidad fuera del asfalto.
 
-## Qué es el Rox 01
+## Un EREV, no un híbrido al uso
 
-El Rox 01 no es un híbrido convencional. Usa una arquitectura de **rango extendido (EREV)**: las ruedas las mueven **siempre** motores eléctricos, y un motor turbo de gasolina de 1,5 litros actúa **únicamente como generador** para recargar la batería cuando hace falta. Conducción 100 % eléctrica siempre, sin ansiedad por la autonomía.
+La mecánica rompe con el esquema híbrido habitual. El Rox 01 recurre a la fórmula de autonomía extendida: dos motores eléctricos impulsan las ruedas en todo momento, mientras un bloque turbo de gasolina de 1,5 litros trabaja solo como generador, reponiendo carga de la batería cuando se agota. El resultado es una conducción siempre eléctrica, sin depender de enchufes en ruta.
 
-El diseño exterior e interior se desarrolló **junto a Pininfarina**, y se nota: líneas limpias, proporciones de SUV premium americano y un interior de tres filas con aspiraciones de salón rodante.
+El trazo exterior e interior nació de la colaboración con Pininfarina y se traduce en líneas sobrias, volumen de SUV premium de gran tamaño y un habitáculo de tres filas planteado como una sala sobre ruedas.
 
 <img src=/media/rox-01-suv-pininfarina-cuerpo.webp alt=Rox 01, el SUV de autonomía extendida diseñado por Pininfarina>
 
-## Cifras del Rox 01
+## Números clave del Rox 01
 
 |  | Rox 01 |
 |---|---|
@@ -323,54 +323,54 @@ El diseño exterior e interior se desarrolló **junto a Pininfarina**, y se nota
 | **Tracción** | Integral eléctrica (doble motor) |
 | **Diseño** | Pininfarina |
 
-A eso se suman modos de conducción todoterreno reales, **modo camping** y funciones outdoor, carrocería de acero y aluminio de alta resistencia, y un equipamiento de seguridad completo (ABS, HHC, TPMS, EPB, modo remolque o alerta para peatones, entre otros).
+A esa dotación se añaden programas de conducción para terreno complicado, función camping y utilidades para la vida al aire libre, una estructura mixta de acero y aluminio de gran resistencia y un paquete de seguridad amplio, con ABS, control de arranque en pendiente, vigilancia de presión de neumáticos, freno de estacionamiento eléctrico, asistente de remolque y aviso a peatones, entre otros elementos.
 
-## La idea: lujo para salir del mapa
+## Lujo pensado para alejarse del asfalto
 
-Rox no quiere competir contra el SUV urbano europeo. Su concepto es el **lujo outdoor global**: confort premium, tecnología de nueva energía y capacidades off-road auténticas para quienes quieren explorar más allá del asfalto. Techo panorámico con aislamiento acústico, faros LED adaptativos, cámara de retroceso y barras portaequipaje de serie: es un coche pensado para cargar las bicis, la tienda y perderse.
+Rox no busca pelear con el SUV urbano europeo. Su planteamiento es el lujo outdoor global: bienestar premium, tecnología de nueva energía y aptitudes reales fuera de carretera para quien quiere explorar más allá de la ciudad. Techo panorámico insonorizado, alumbrado LED adaptativo, cámara trasera y barras de techo de serie: un conjunto ideado para cargar bicicletas, tienda de campaña y marcharse lejos.
 
-En los mercados donde ya se vende (presentación en Latinoamérica de la mano de Motransa), parte de **69.990 y 74.990 dólares** según versión: posicionamiento premium claro, lejos de la guerra de precios china.
+Allí donde ya está a la venta, con presentación en Latinoamérica a través de Motransa, los precios de partida son 69.990 dólares en la variante de acceso y 74.990 en la superior: un posicionamiento claramente premium, alejado de la batalla de precios china.
 
-## ¿Por qué debería importarte en España?
+## Por qué encaja en España
 
-Porque el **rango extendido** es justo la tecnología que mejor encaja con el conductor español medio: uso diario 100 % eléctrico (235 km dan para semanas de commuting) y viajes largos sin planificar cargas, gracias a los 1.115 km combinados. Es la respuesta china a la eterna duda del "¿y si me quedo tirado?".
+Porque el rango extendido casa muy bien con el conductor español medio: trayectos diarios totalmente eléctricos (los 235 km eléctricos cubren semanas de desplazamientos al trabajo) y viajes largos sin organizar paradas de carga, gracias a los 1.115 km de alcance total. Es la contestación china a la duda eterna de "¿y si me quedo sin batería?".
 
-Marcas como **Leapmotor** ya han demostrado en España que el EREV tiene público: el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a> combina eléctrico y extensor con éxito en nuestro <a href=/comparador-coches/>comparador</a>. El Rox 01 sería su hermano mayor, más lujoso y más aventurero.
+Firmas como Leapmotor ya han probado en España que el EREV tiene demanda: el <a href=/coches/leapmotor-c10-electrico-precio-ficha-tecnica/>Leapmotor C10</a> aúna propulsión eléctrica y extensor con buena acogida en nuestro <a href=/comparador-coches/>comparador</a>. El Rox 01 jugaría un escalón por encima, con más lujo y más espíritu aventurero.
 
-De momento no hay planes anunciados para Europa. Pero con Pininfarina en el diseño y una propuesta tan redonda, es cuestión de tiempo que alguien lo traiga.
+Por ahora no se han comunicado planes para Europa, pero con Pininfarina detrás del diseño y una propuesta tan completa, algún importador acabará trayéndolo.
 
-## EREV, PHEV e híbrido: no es lo mismo
+## EREV, PHEV e híbrido: tres siglas distintas
 
-Conviene aclarar la sopa de siglas, porque el Rox 01 no es "un híbrido más". En un **híbrido enchufable (PHEV)** convencional, el motor de gasolina puede mover las ruedas directamente; en un **EREV** como el Rox 01, **nunca** lo hace: es un generador puro. ¿La diferencia práctica? Conducción siempre eléctrica —respuesta inmediata, silencio, suavidad— con la red de seguridad de la gasolina para viajes largos.
+Merece la pena despejar la maraña de siglas: el Rox 01 no pertenece a los híbridos de siempre. En un híbrido enchufable (PHEV) habitual, el motor de gasolina puede impulsar las ruedas directamente; en un EREV como este, jamás lo hace: actúa solo como generador. ¿La consecuencia práctica? Marcha siempre eléctrica —respuesta instantánea, silencio, suavidad— con el respaldo de la gasolina para los trayectos largos.
 
-Es la misma filosofía que usan el **Leapmotor C10 REEV** o los **Mazda MX-30 R-EV**, y tiene una ventaja fiscal interesante en España: al ser un eléctrico de autonomía extendida con 235 km eléctricos, el Rox 01 tendría <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>**etiqueta Cero** de la DGT</a>, con acceso total a las ZBE. Puedes comprobar cómo funciona el sistema de etiquetas en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
+Es la misma idea que aplican el Leapmotor C10 REEV o el Mazda MX-30 R-EV, y conlleva una ventaja fiscal interesante en España: como eléctrico de rango extendido con 235 km en modo eléctrico, el Rox 01 obtendría <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>**etiqueta Cero** de la DGT</a>, con acceso pleno a las ZBE. En nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a> puedes ver cómo funciona el sistema de etiquetas.
 
-## Pininfarina: el toque italiano
+## El sello italiano de Pininfarina
 
-Que **Pininfarina** firme un SUV chino dice mucho del cambio de tornas en la industria. El estudio de Turín, responsable de iconos como el Ferrari Testarossa o el Alfa Romeo Spider, lleva años trabajando para marcas chinas que quieren credibilidad de diseño en Occidente. En el Rox 01 se nota en las proporciones equilibradas, la firma lumínica y un interior que huye del minimalismo frío de algunas marcas chinas hacia un lujo más cálido y habitable.
+Que Pininfarina rubrique un SUV chino revela el vuelco de la industria. El estudio turinés, autor de clásicos italianos como el Testarossa, colabora desde hace años con marcas chinas que buscan prestigio de diseño en el mercado occidental. El Rox 01 lo muestra en unas proporciones equilibradas, una firma luminosa cuidada y un interior que abandona el minimalismo frío de algunas firmas chinas en favor de un lujo más acogedor y vivible.
 
-No es un capricho estético: en el segmento premium outdoor donde quiere jugar Rox —entre el Land Rover Defender y el Lexus GX—, el diseño es la mitad de la compra.
+El diseño, además, no es un detalle decorativo: en el segmento premium outdoor al que apunta Rox, el diseño pesa la mitad de la decisión de compra.
 
 ## Preguntas frecuentes
 
-### ¿Qué es Rox Motor?
-Una marca china de vehículos de nueva energía posicionada en el "lujo outdoor global", cuyo primer modelo es el SUV Rox 01 de rango extendido.
+### ¿Qué marca es Rox Motor?
+Una compañía china de nueva energía que apuesta por el lujo para actividades al aire libre; su modelo inaugural es el Rox 01, un SUV de autonomía extendida.
 
 ### ¿El Rox 01 es un híbrido?
-No exactamente: es un **EREV** (eléctrico de rango extendido). Los motores eléctricos mueven siempre las ruedas; el motor de gasolina solo genera electricidad.
+No en sentido estricto: se trata de un EREV, es decir, un eléctrico de autonomía extendida. Los motores eléctricos impulsan las ruedas en todo momento; el bloque de gasolina solo produce electricidad.
 
-### ¿Qué autonomía tiene el Rox 01?
-**235 km** en modo 100 % eléctrico y **1.115 km** combinados (ciclo WLTC).
+### ¿Qué autonomía ofrece el Rox 01?
+235 km sin usar gasolina y 1.115 km en total, ambos en ciclo WLTC.
 
-### ¿Quién diseñó el Rox 01?
-El diseño se desarrolló en colaboración con **Pininfarina**, el mítico estudio italiano.
+### ¿Quién trazó el diseño del Rox 01?
+El diseño nació de la colaboración con Pininfarina, el legendario estudio italiano.
 
-### ¿Se vende en España?
-No hay anuncio oficial de llegada a Europa. Actualmente se comercializa en China y algunos mercados de Latinoamérica.
+### ¿Se puede comprar en España?
+No existe anuncio oficial de llegada a Europa. Hoy se vende en China y en algunos mercados latinoamericanos.
 
-Fuentes: <a href=https://www.youtube.com/watch?v=15mZM5Xm9WA>YouTube — reseña completa del ROX 01</a>, <a href=https://www.motorterra.com/motransa-lanzo-su-nueva-marca-rox-y-presento-el-modelo-rox-01/>Motorterra</a>.
+Consulta: <a href=https://www.youtube.com/watch?v=15mZM5Xm9WA>YouTube — reseña completa del ROX 01</a>, <a href=https://www.motorterra.com/motransa-lanzo-su-nueva-marca-rox-y-presento-el-modelo-rox-01/>Motorterra</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+¿Tienes una sanción y dudas si es recurrible? Antes de pagarla, <a href=https://recurretumulta.online/>revísala gratis con nuestra IA</a>.`
   },
   {
     "title": "IM Motors LS6: el SUV chino rival del Tesla Model Y",
