@@ -7822,3 +7822,57 @@ Ficheros del commit (33): blog-posts-autocaravanas-lote125-g01.ts, blog-posts-au
 Copias duplicadas aplicadas a todas sus copias: Aprilia 331 ×2, Benimar 343 g09+lote125, Chausson 339 g05+lote125, Benelli 349 ×2, Carthago 353 g12+lote125, Rapido 355 g05+lote125, Aprilia 368 ×2, McLouis 372 g12+lote125, Pössl 377 g01+lote125, Benelli 357 ×2, Fleurette 363 g12+lote125, McLouis 366 g01+lote125, Hymer 370 g10+lote125. Resto: 1 copia de prosa.
 
 Siguiente puesto fuera del slice: 380 (s20-06, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
+# Parte s20-06 — coordinador único ORD-1525
+
+Rama `dedupe-8g-s20-06` (ya existía en @bc530485324093f277ceb7ab0c2e017ba87c2474, cabeza vigente de `dedupe-8g-merlin` antes del push de coord1; se usó como base tal cual, sin reset y sin force, como en el precedente s20-01). Un commit, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `cd5393a450f01a17fb1e703b71640ade2fa2dd2e`, verificado por GET de la ref (la ref apunta al mismo sha).
+Slice efectivo 380 + 401–427: 21/28 pusheados, 7 saltados a la siguiente ronda (nada perdido). No se tocaron 381–400 ni 393–394 (de slice2) ni el 428 (s20-07).
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Los 21 pusheados: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas). Solo se aplicaron title/excerpt/content a todas las copias. Los lite no se tocaron.
+
+## Blogs pusheados (21)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| adria-twin-supreme-640-sgx-2026-precio-ficha-tecnica | 57/111 | 907 → 966 | blog-posts-autocaravanas-merlin1.ts |
+| carado-a-361-pro-precio-ficha-tecnica | 46/128 | 1642 → 1603 | blog-posts-autocaravanas-lote125-g07.ts, blog-posts-autocaravanas-lote125.ts |
+| hymer-ml-t-580-4x4-precio-ficha-tecnica | 50/145 | 1465 → 1580 | blog-posts-autocaravanas-lote125-g12.ts |
+| soflow-so-one-plus | 35/132 | 387 → 424 | blog-posts-patinetes-exp-p5.ts |
+| niesmann-bischoff-ismove-69-e-precio-ficha-tecnica | 56/149 | 1597 → 1650 | blog-posts-autocaravanas-lote125-g07.ts |
+| bmw-i3-neue-klasse-2026-precio-ficha | 56/126 | 0 → 543 | blog-posts-lote3.ts |
+| benimar-mileo-297-precio-ficha-tecnica | 53/151 | 949 → 748 | blog-posts-autocaravanas-lote3.ts |
+| campereve-magellan-643-precio-ficha-tecnica | 55/142 | 1665 → 1463 | blog-posts-autocaravanas-lote125-g06.ts |
+| volkswagen-id-tiguan | 56/138 | 394 → 472 | blog-posts-batch2b-6.ts |
+| cecotec-bongo-serie-a-plus-max-45-connected | 51/134 | 528 → 696 | blog-posts-patinetes-exp-p10.ts |
+| jaguar-type-01-electrico-1030-cv | 49/150 | 390 → 425 | blog-posts-motor-2026-l.ts |
+| honda-eny1-2025-precio-autonomia | 52/146 | 481 → 664 | blog-posts-lote13.ts |
+| opel-frontera-2024-precio | 45/138 | 525 → 658 | blog-posts-coches-exp25.ts |
+| nami-burn-e-3-max | 52/142 | 522 → 566 | blog-posts-patinetes-exp-p3.ts |
+| volkswagen-id-cross-2026-precio-ficha | 51/139 | 0 → 485 | blog-posts-lote3.ts |
+| dacia-spring-2026-nueva-generacion-precio | 57/150 | 585 → 656 | blog-posts-motor-chinos-e.ts |
+| morbidelli-t502x-2025-precio | 45/151 | 445 → 480 | blog-posts-motos-exp-m27.ts |
+| segway-ninebot-e2-ii | 53/147 | 476 → 520 | blog-posts-patinetes-exp-p7.ts |
+| xpeng-g6-2026-restyling-precio-espana | 45/155 | 735 → 837 | blog-posts-motor-chinos-c.ts |
+| font-vendome-randocamp-precio-ficha-tecnica | 55/145 | 1059 → 1106 | blog-posts-autocaravanas-lote4.ts |
+| skoda-peaq-suv-electrico-7-plazas-precio | 57/138 | 531 → 649 | blog-posts-motor-2026.ts |
+
+Ficheros del commit (20): blog-posts-autocaravanas-lote125-g06.ts, blog-posts-autocaravanas-lote125-g07.ts, blog-posts-autocaravanas-lote125-g12.ts, blog-posts-autocaravanas-lote125.ts, blog-posts-autocaravanas-lote3.ts, blog-posts-autocaravanas-lote4.ts, blog-posts-autocaravanas-merlin1.ts, blog-posts-batch2b-6.ts, blog-posts-coches-exp25.ts, blog-posts-lote13.ts, blog-posts-lote3.ts, blog-posts-motor-2026-l.ts, blog-posts-motor-2026.ts, blog-posts-motor-chinos-c.ts, blog-posts-motor-chinos-e.ts, blog-posts-motos-exp-m27.ts, blog-posts-patinetes-exp-p10.ts, blog-posts-patinetes-exp-p3.ts, blog-posts-patinetes-exp-p5.ts, blog-posts-patinetes-exp-p7.ts.
+
+Copias: Carado 380 aplicado a sus 2 ficheros (lote125-g07.ts y lote125.ts, ambos con la vieja; el handover avisaba de comprobarlo y se comprobó); SoFlow 403 aplicado a sus 2 copias en patinetes-exp-p5.ts. Resto: 1 copia.
+
+Matices declarados del handover, sin ocultar: 409 Campérêve no fecha la adquisición por Rapido (la vieja se contradice: 2008 vs 2010); 424 G6 conserva las 5 estrellas Euro NCAP porque ya estaban en la vieja (no inventadas); 421 Pössl sin ficha ni PVP oficiales (datos no oficiales de ADAC, declarado así); 406 BMW i3: la vieja correcta es la de blog-posts-lote3.ts, no la variante -ficha-tecnica de batch2b-5.
+
+## Saltados a la siguiente ronda (7, nada perdido, viejas intactas)
+
+Seis de ellos pasan el verificador propio del slice (verificar_s20_06.py, 0/0 unido y por bloque) contra la vieja fresca, que es byte-idéntica a la vieja local del coordinador en los 7 casos. El driver del subidor (t14, que borra el texto de ancla) marca residuos pequeños en esos seis; la discrepancia es de filtro, no de contenido nuevo, y queda pendiente de decisión de Grok sobre qué filtro gobierna (t11/slice3, que NO mide texto de ancla, frente al verificador del slice, que conserva el texto de ancla y por eso da 0/0). No se ha tocado ningún filtro para forzar un 0. Detalle:
+
+- `byd-dolphin-surf-my26-5-plazas-precio-espana`: t14 11/9, todos de la línea-plantilla de multa/analizador («Si te ha llegado una multa y crees que puede tener un defecto, antes de pagar»), que el filtro establecido excluye; verificador del slice 0/0.
+- `possl-2win-plus-precio-ficha-tecnica`: t14 3/3, de frases de atribución de fuentes (ADAC/concesionarios); verificador del slice 0/0.
+- `laika-kosmo-509-precio-ficha-tecnica`: t14 2/0, de juntura encabezado «Preguntas frecuentes» + primera pregunta; verificador del slice 0/0.
+- `laika-ecovip-600-precio-ficha-tecnica`: t14 1/1; verificador del slice 0/0.
+- `rimor-sarus-12-plus-precio-ficha-tecnica`: t14 1/0; verificador del slice 0/0.
+- `lexus-tz-espana-precio-88-000-euros-2026`: t14 1/0; verificador del slice 0/0.
+- `cinturon-seguridad-repartidores-pierden-exencion-octubre-2026`: caso distinto, estructural real (no de filtro): el contenido nuevo pierde 1 enlace frente a la vieja (BOE txt.php BOE-A-2026-13889; se conserva el doc.php del mismo documento), desviación no documentada en el handover. En la siguiente ronda, restaurar ese enlace o documentar la desviación y re-medir.
+
+Los 7 van a la siguiente ronda como commit de cierre de s20-06 (precedente s20-01: un commit por slice en esta ronda), con ambas mediciones declaradas para que Grok decida el filtro.
+
+Siguiente puesto fuera del slice: 428 (s20-07, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
