@@ -1021,8 +1021,8 @@ En la gama actual, su hueco lo cubren el Junior y el Tonale.
   },
   {
     slug: "alfa-romeo-mito-2025-precio-opiniones",
-    title: "Alfa Romeo MiTo precio ocasión: desde 15.900 €, 105 CV",
-    excerpt: "Precio de ocasión del Alfa Romeo MiTo en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "Alfa Romeo MiTo de ocasión: 15.900 € y 105 CV",
+    excerpt: "MiTo de ocasión desde 15.900 €: ficha, consumo, maletero de 270 l y qué mirar antes de comprar un utilitario descatalogado en 2018.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -1036,11 +1036,11 @@ En la gama actual, su hueco lo cubren el Junior y el Tonale.
 
 ## Alfa Romeo MiTo: lo que tienes que saber antes de comprar
 
-El Alfa Romeo MiTo (descatalogado, fin de producción 2018) es un utilitario con motor gasolina / diésel. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+Descatalogado desde 2018, el MiTo solo se encuentra de ocasión, con motores de gasolina o diésel. En estas líneas van su precio, su consumo, su maletero, su ficha, su historia, su mantenimiento y las opiniones, con la ficha completa enlazada al final.
 
-**Precio:** 15.900 €. Precio aproximado no oficial de ocasión (mercado de ocasión; fin de producción 2018).
+Precio de referencia: 15.900 €, una cifra aproximada y no oficial para el mercado de ocasión, lógica en un modelo cuya producción terminó en 2018.
 
-**Dato clave:** 105 CV (77 kW) · Maletero 270 l · 0–100 10,4 s · 184 km/h.
+Los números que resumen la ficha: 105 CV, equivalentes a 77 kW, maletero de 270 l, aceleración de 0 a 100 en 10,4 s y velocidad máxima de 184 km/h.
 
 <a href=/coches/alfa-romeo-mito-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1076,42 +1076,42 @@ El Alfa Romeo MiTo (descatalogado, fin de producción 2018) es un utilitario con
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Alfa Romeo, misma marca): revisión anual o cada 30.000 km. Coste según taller.
+Una revisión cada año o cada 30.000 km es la orientación, tomando como referencia otro Alfa Romeo de la misma marca; el coste final depende del taller.
 
 ## Garantía oficial
 
-Sin garantía de nuevo (fin de producción 2018). Ocasión según vendedor.
+Al no fabricarse desde 2018, no queda garantía de coche nuevo: en ocasión, manda lo que ofrezca cada vendedor.
 
 ## ¿Para quién es?
 
-Si buscas un utilitario con 105 CV y maletero de 270 l, el Alfa Romeo MiTo de ocasión entra en tu lista. Compáralo con la misma marca antes de decidir.
+Candidato si buscas un utilitario de 105 CV y 270 l de maletero: el MiTo de ocasión merece un hueco en tu lista corta, junto a otros modelos de la misma marca.
 
 
 ## Preguntas frecuentes
 
 ### ¿Se vende nuevo el MiTo?
 
-No; terminó en 2018.
+No, la producción terminó en 2018 y solo queda el mercado de ocasión.
 
 ### ¿Cuántos CV tiene?
 
-Desde 78 CV hasta 170 CV en QV.
+La gama va desde los 78 CV hasta los 170 CV de la versión QV.
 
 ### ¿Qué maletero tiene?
 
-270 litros.
+Su maletero cubica 270 litros.
 
 ### ¿Es buen primer coche?
 
-Sí por tamaño y precio de ocasión, si el mantenimiento está al día.
+Por tamaño y por precio de ocasión puede ser un buen primer coche, siempre que su mantenimiento esté al día.
 
 ### ¿Qué consume?
 
-En torno a 5–6 l/100 km, según versión.
+Según la versión, ronda los 5 a 6 l/100 km.
 
 ### ¿Qué alternativa nueva hay?
 
-El Junior es su sucesor espiritual en la gama.
+Dentro de la gama actual, el Junior ocupa ese papel de sucesor espiritual.
 
 ## También te puede interesar
 
@@ -1119,7 +1119,7 @@ El Junior es su sucesor espiritual en la gama.
 - <a href=/coches/alfa-romeo-giulietta-2025/>Alfa Romeo Giulietta 2025</a>
 - <a href=/coches/alfa-romeo-tonale-hibrida-130-precio-ficha-tecnica/>Alfa Romeo Tonale Hibrida 130</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
+*Información contrastada en la web oficial de la marca y en prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
@@ -1336,8 +1336,8 @@ Consumo WLTP combinado aproximado 5,7–6,0 l/100 km en 35 TFSI, según versión
   },
   {
     slug: "audi-rs4-avant-2025-precio-opiniones",
-    title: "Audi RS 4 Avant 2025 precio: desde 104.850 €, 450 CV",
-    excerpt: "Precio del Audi RS 4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "Audi RS 4 Avant 2025: 450 CV y quattro",
+    excerpt: "RS 4 Avant desde 104.850 €: familiar con V6 biturbo de 450 CV, 0 a 100 en 4,1 s, quattro y maletero de 505 l.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -1351,11 +1351,11 @@ Consumo WLTP combinado aproximado 5,7–6,0 l/100 km en 35 TFSI, según versión
 
 ## Audi RS 4 Avant 2025: lo que tienes que saber antes de comprar
 
-El Audi RS 4 Avant 2025 es un familiar deportivo con motor gasolina. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+¿Qué ofrece el RS 4 Avant 2025? Un familiar deportivo de gasolina del que aquí se cuentan precio, maletero, ficha, opiniones, consumo, historia y mantenimiento.
 
-**Precio:** 104.850 €. Precio aproximado no oficial según prueba publicada (revistacar.es).
+Precio de referencia: 104.850 €, cifra aproximada y no oficial según una prueba publicada en revistacar.es.
 
-**Dato clave:** 450 CV (331 kW) · Maletero 505 l · 0–100 4,1 s · 250 km/h.
+Ficha en cuatro cifras: maletero de 505 l, 0 a 100 en 4,1 s, 250 km/h de punta y 450 CV, o 331 kW.
 
 <a href=/coches/audi-rs4-avant-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1391,42 +1391,42 @@ El Audi RS 4 Avant 2025 es un familiar deportivo con motor gasolina. En esta pá
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Audi Sport, misma marca): revisiones según plan oficial; frenos y neumáticos con coste elevado por prestaciones. Coste según concesionario.
+Las revisiones siguen el plan oficial, esa es la orientación tomando como referencia Audi Sport de la misma marca; frenos y neumáticos tienen un coste elevado por las prestaciones y el coste depende del concesionario.
 
 ## Garantía oficial
 
-Garantía del fabricante en modelos parecidos (gama Audi / Audi Sport): 2 años en España, según condiciones oficiales.
+Como referencia, la garantía en modelos parecidos de la gama Audi y de Audi Sport es de 2 años en España, según las condiciones oficiales.
 
 ## ¿Para quién es?
 
-Si buscas un familiar deportivo con 450 CV y maletero de 505 l, el Audi RS 4 Avant 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Para quien busque un familiar deportivo de 450 CV y 505 l de maletero, el RS 4 Avant 2025 es un candidato serio; antes de decidir, compáralo dentro de la misma marca.
 
 
 ## Preguntas frecuentes
 
 ### ¿Cuántos CV tiene el RS 4 Avant?
 
-450 CV (331 kW), V6 2.9 TFSI biturbo, 600 Nm.
+Rinde 450 CV, o 331 kW, con un V6 2.9 TFSI biturbo y 600 Nm.
 
 ### ¿Cuánto acelera de 0 a 100?
 
-4,1 s (3,8 s en Competition Plus según pruebas).
+El 0 a 100 se hace en 4,1 s; en Competition Plus, en 3,8 s según pruebas.
 
 ### ¿Cuánto cuesta?
 
-Desde unos 104.850 € según pruebas publicadas; Competition Plus suma unos 20.000 €.
+Desde unos 104.850 € según pruebas publicadas; el Competition Plus suma unos 20.000 €.
 
 ### ¿Qué maletero tiene?
 
-Unos 505 litros.
+Alrededor de 505 litros.
 
 ### ¿Es tracción total?
 
-Sí, quattro permanente con reparto habitualmente 40:60.
+Sí, con quattro permanente y reparto habitual de 40:60.
 
 ### ¿Qué consume?
 
-Consumo WLTP combinado Consumo WLTP combinado en torno a 9,7–10,1 l/100 km.
+El WLTP combinado ronda los 9,7-10,1 l/100 km.
 
 ## También te puede interesar
 
@@ -1434,15 +1434,15 @@ Consumo WLTP combinado Consumo WLTP combinado en torno a 9,7–10,1 l/100 km.
 - <a href=/coches/audi-rs6-avant-2025-precio-ficha-tecnica/>Audi RS6 Avant 2025</a>
 - <a href=/coches/audi-rs5-avant-2025-precio-ficha-tecnica/>Audi RS5 Avant 2025</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
+*Datos cotejados con prensa especializada y con la web oficial de la marca. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
     slug: "audi-s4-avant-2025-precio-opiniones",
-    title: "Audi S4 Avant 2025 precio: desde 78.900 €, 354 CV, 505 l",
-    excerpt: "Precio del Audi S4 Avant 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "Audi S4 Avant 2025: 354 CV y maletero de 505 l",
+    excerpt: "S4 Avant 2025 desde 78.900 €: familiar deportivo con 354 CV, 0 a 100 en 4,7 s y maletero de 505 l, a verificar en tarifa.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -1450,17 +1450,17 @@ Consumo WLTP combinado Consumo WLTP combinado en torno a 9,7–10,1 l/100 km.
     locale: "es",
     content: `<img src=/media/audi-s4-avant-2025-hero.webp alt=Audi S4 Avant — vista exterior>
 
-*Imagen no oficial; licencia desconocida.*
+*Foto no oficial; licencia desconocida.*
 
 **Ficha completa del modelo:** <a href=/coches/audi-s4-avant-2025/>Ficha técnica del Audi S4 Avant</a>
 
 ## Audi S4 Avant 2025: lo que tienes que saber antes de comprar
 
-El Audi S4 Avant 2025 es un familiar deportivo con motor diésel / gasolina según mercado. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+Familiar deportivo que, según el mercado, lleva motor diésel o de gasolina: así es el S4 Avant 2025. Aquí se desgranan maletero, historia, precio, opiniones, ficha, consumo y mantenimiento, con la ficha completa enlazada.
 
-**Precio:** 78.900 €. Precio orientativo S4 Avant; a verificar en tarifa Audi España.
+Precio de referencia: 78.900 €, cifra orientativa para el S4 Avant que conviene confirmar en la tarifa de Audi España.
 
-**Dato clave:** 354 CV (260 kW) · Maletero 505 l · 0–100 4,7 s · 250 km/h.
+Ficha en cuatro cifras: 250 km/h de punta, 354 CV, o 260 kW, maletero de 505 l y 0 a 100 en 4,7 s.
 
 <a href=/coches/audi-s4-avant-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1496,42 +1496,42 @@ El Audi S4 Avant 2025 es un familiar deportivo con motor diésel / gasolina seg�
 
 ## Mantenimiento
 
-Según plan Audi Sport; frenos y neumáticos de mayor desgaste. Coste a verificar.
+Siguiendo el plan de Audi Sport, el mantenimiento tiene en frenos y neumáticos sus elementos de mayor desgaste. El coste queda por verificar.
 
 ## Garantía oficial
 
-2 años de garantía oficial Audi en España — a verificar.
+En España, la garantía oficial de Audi es de 2 años, siempre a verificar.
 
 ## ¿Para quién es?
 
-Si buscas un familiar deportivo con 354 CV y maletero de 505 l, el Audi S4 Avant 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Encaja si buscas un familiar deportivo de 354 CV y 505 l de maletero: el S4 Avant 2025 merece estar en tu lista, y conviene ponerlo junto a otros modelos de la misma marca antes de decidir.
 
 
 ## Preguntas frecuentes
 
 ### ¿Cuántos CV tiene el S4 Avant?
 
-354 CV en gasolina V6 3.0 TFSI; 347 CV en TDI europeo — verificar versión.
+La versión de gasolina V6 3.0 TFSI da 354 CV, y la TDI europea, 347 CV; hay que confirmar la versión.
 
 ### ¿Cuánto acelera?
 
-0–100 en unos 4,7 s (gasolina).
+La gasolina hace el 0 a 100 en unos 4,7 s.
 
 ### ¿Cuánto cuesta?
 
-Precio orientativo desde unos 78.900 €; a verificar.
+Como orientación, desde unos 78.900 €; queda por verificar.
 
 ### ¿Qué diferencia hay con el RS 4?
 
-El S4 es más equilibrado para diario; el RS 4 es más radical (450 CV).
+El S4 resulta más equilibrado para el día a día, mientras el RS 4 es más radical, con 450 CV.
 
 ### ¿Qué maletero tiene?
 
-505 litros, como el A4 Avant.
+Tiene 505 litros, igual que el A4 Avant.
 
 ### ¿Es quattro?
 
-Sí, tracción total quattro de serie.
+Sí, lleva tracción total quattro de serie.
 
 ## También te puede interesar
 
@@ -1539,15 +1539,15 @@ Sí, tracción total quattro de serie.
 - <a href=/coches/audi-rs4-avant-2025/>Audi RS4 Avant 2025</a>
 - <a href=/coches/audi-s5-2025-precio-ficha-tecnica/>Audi S5 2025</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
+*Cifras cotejadas con prensa especializada y la web oficial de la marca. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
     slug: "bmw-ix-xdrive40-2025-precio-opiniones",
-    title: "BMW iX xDrive40 2025 precio: desde 84.900 €, 326 CV",
-    excerpt: "Precio del BMW iX xDrive40 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar.",
+    title: "BMW iX xDrive40 2025: 326 CV y 425 km",
+    excerpt: "iX xDrive40 desde 84.900 €: SUV eléctrico con 326 CV, batería de 71 kWh, 425 km WLTP y maletero de 500 l.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -1561,11 +1561,11 @@ Sí, tracción total quattro de serie.
 
 ## BMW iX xDrive40 2025: lo que tienes que saber antes de comprar
 
-El BMW iX xDrive40 2025 es un suv eléctrico con motor eléctrico. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+SUV y eléctrico: el iX xDrive40 2025 se presenta aquí con todo lo necesario para valorarlo, desde las opiniones y el mantenimiento hasta la historia, el maletero, el consumo, la ficha y el precio.
 
-**Precio:** 84.900 €. Precio aproximado no oficial (mercado / tarifa BMW).
+Precio de referencia: 84.900 €, cifra aproximada y no oficial según el mercado y la tarifa de BMW.
 
-**Dato clave:** 326 CV (240 kW) · Maletero 500 l · 0–100 6,1 s · 200 km/h.
+Ficha en cuatro cifras: 200 km/h de punta, maletero de 500 l, 0 a 100 en 6,1 s y 326 CV, o 240 kW.
 
 <a href=/coches/bmw-ix-xdrive40-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1601,42 +1601,42 @@ El BMW iX xDrive40 2025 es un suv eléctrico con motor eléctrico. En esta pági
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar BMW iX / eléctricos BMW, misma marca): sin cambio de aceite; revisiones periódicas según CBS. Coste según concesionario.
+Sin cambio de aceite: esa es la orientación para el iX, tomando como referencia los eléctricos de BMW de la misma marca; las revisiones periódicas siguen el sistema CBS y el coste depende del concesionario.
 
 ## Garantía oficial
 
-Garantía del fabricante en modelos parecidos (gama BMW / eléctricos BMW): 2 años; batería 8 años o 160.000 km, según condiciones oficiales.
+Garantía de referencia, tomada de modelos parecidos de la gama BMW y de los eléctricos BMW: 2 años para el coche y 8 años o 160.000 km para la batería, según las condiciones oficiales.
 
 ## ¿Para quién es?
 
-Si buscas un suv eléctrico con 326 CV y maletero de 500 l, el BMW iX xDrive40 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Si lo tuyo es un SUV eléctrico de 326 CV y 500 l de maletero, el iX xDrive40 2025 debería estar entre tus opciones; míralo junto a otros modelos de la misma marca.
 
 
 ## Preguntas frecuentes
 
 ### ¿Cuánta autonomía tiene el iX xDrive40?
 
-Unos 425 km WLTP, según año/versión.
+Alrededor de 425 km WLTP, según el año y la versión.
 
 ### ¿Cuántos CV tiene?
 
-326 CV (240 kW).
+Rinde 326 CV, o 240 kW.
 
 ### ¿Cuánto cuesta?
 
-Precio aproximado no oficial desde unos 84.900 €.
+Precio aproximado y no oficial desde unos 84.900 €.
 
 ### ¿Cuánto tarda en cargar?
 
-Carga rápida CC hasta 150 kW.
+La carga rápida en corriente continua llega hasta 150 kW.
 
 ### ¿Qué maletero tiene?
 
-500 litros.
+Tiene 500 litros.
 
 ### ¿Tiene etiqueta 0?
 
-Sí.
+Sí, tiene etiqueta 0.
 
 ## También te puede interesar
 
@@ -1644,15 +1644,15 @@ Sí.
 - <a href=/coches/bmw-ix-m70-2025-precio-ficha-tecnica/>Bmw Ix M70 2025</a>
 - <a href=/coches/bmw-ix1-xdrive30-2026-precio-ficha-tecnica/>Bmw Ix1 Xdrive30 2026</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
+*Datos revisados a partir de la web oficial de la marca y de prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
     slug: "bmw-x6-m-2025-precio-opiniones",
-    title: "BMW X6 M 2025 precio: desde 168.000 €, 625 CV, 580 l",
-    excerpt: "Precio del BMW X6 M 2025 en España, ficha, consumo y maletero. Cuánto cuesta, qué versión elegir y qué revisar antes de comprar. Compara versiones.",
+    title: "BMW X6 M 2025: 625 CV y 580 l de maletero",
+    excerpt: "X6 M Competition desde 168.000 €: SUV coupé con 625 CV, 0 a 100 en 3,8 s y maletero de 580 l, a verificar en tarifa.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 3,
@@ -1660,17 +1660,17 @@ Sí.
     locale: "es",
     content: `<img src=/media/bmw-x6-m-2025-hero.webp alt=BMW X6 M — vista exterior>
 
-*Imagen no oficial; licencia desconocida.*
+*Imagen no oficial y licencia desconocida.*
 
 **Ficha completa del modelo:** <a href=/coches/bmw-x6-m-2025/>Ficha técnica del BMW X6 M</a>
 
 ## BMW X6 M 2025: lo que tienes que saber antes de comprar
 
-El BMW X6 M 2025 es un suv coupé deportivo con motor gasolina mhev. En esta página tienes precio, ficha técnica, consumo, maletero, historia, mantenimiento y opiniones, con enlaces a la ficha técnica completa.
+Un SUV coupé deportivo con motor de gasolina MHEV: eso es el X6 M 2025. Para decidir, aquí va lo esencial: precio, opiniones, mantenimiento, ficha, maletero, consumo e historia.
 
-**Precio:** 168.000 €. Precio orientativo X6 M Competition; a verificar en tarifa BMW España.
+Precio de referencia: 168.000 €, cifra orientativa para el X6 M Competition que conviene confirmar en la tarifa de BMW España.
 
-**Dato clave:** 625 CV (460 kW) · Maletero 580 l · 0–100 3,8 s · 250 km/h.
+Ficha en cuatro cifras: 0 a 100 en 3,8 s, maletero de 580 l, 250 km/h de punta y 625 CV, o 460 kW.
 
 <a href=/coches/bmw-x6-m-2025/>Ver ficha técnica completa</a> · <a href=https://recurretumulta.online/#analizador>Analizar mi multa</a>
 
@@ -1706,42 +1706,42 @@ El BMW X6 M 2025 es un suv coupé deportivo con motor gasolina mhev. En esta pá
 
 ## Mantenimiento
 
-Mantenimiento BMW M; coste a verificar.
+Mantenimiento BMW M; el coste queda por verificar.
 
 ## Garantía oficial
 
-2 años de garantía oficial BMW — a verificar.
+BMW da 2 años de garantía oficial; conviene confirmarlo.
 
 ## ¿Para quién es?
 
-Si buscas un suv coupé deportivo con 625 CV y maletero de 580 l, el BMW X6 M 2025 entra en tu lista. Compáralo con la misma marca antes de decidir.
+Merece estar en tu lista si buscas un SUV coupé deportivo de 625 CV con 580 l de maletero: el X6 M 2025, comparado con otros modelos de la misma marca, ayuda a decidir.
 
 
 ## Preguntas frecuentes
 
 ### ¿Cuántos CV tiene el X6 M?
 
-625 CV (460 kW) en Competition.
+La versión Competition rinde 625 CV, o 460 kW.
 
 ### ¿Cuánto acelera?
 
-0–100 en 3,8 s.
+El 0 a 100 se hace en 3,8 s.
 
 ### ¿Cuánto cuesta?
 
-Precio orientativo desde unos 168.000 €; a verificar.
+Como orientación, desde unos 168.000 €; queda por verificar.
 
 ### ¿Qué maletero tiene?
 
-580 litros.
+Tiene 580 litros.
 
 ### ¿Qué consume?
 
-En torno a 12 l/100 km WLTP; a verificar.
+Ronda los 12 l/100 km WLTP; queda por verificar.
 
 ### ¿Qué diferencia hay con el X5 M?
 
-Misma mecánica; el X6 es coupé con menos altura y maletero.
+Comparten mecánica; el X6, al ser coupé, tiene menos altura y menos maletero.
 
 ## También te puede interesar
 
@@ -1749,7 +1749,7 @@ Misma mecánica; el X6 es coupé con menos altura y maletero.
 - <a href=/coches/bmw-x6-xdrive40i-2026-precio-ficha-tecnica/>Bmw X6 Xdrive40i 2026</a>
 - <a href=/coches/bmw-xm-50e-2026-precio-ficha-tecnica/>Bmw Xm 50e 2026</a>
 
-*Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
+*Cifras revisadas en la web oficial de la marca y en prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
@@ -3398,8 +3398,8 @@ Como urbano con carácter y segundo coche, convence; como único coche familiar 
   },
   {
     slug: "honda-nsx-precio-ficha-tecnica",
-    title: "Honda NSX Type S: la despedida de un superdeportivo",
-    excerpt: "El NSX Type S cierra la saga con 608 CV y 2,9 s de 0 a 100: unos 170.000 $ en EE. UU. y sin venta oficial en España. Su historia y sus cifras.",
+    title: "Honda NSX Type S 2022: 608 CV y 350 unidades",
+    excerpt: "NSX Type S, la despedida de la saga: V6 biturbo híbrido de 608 CV, 2,9 s de 0 a 100 y solo 350 unidades fabricadas.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -3420,15 +3420,15 @@ Como urbano con carácter y segundo coche, convence; como único coche familiar 
 
 ## El final de una saga que cambió las reglas
 
-El NSX original, presentado en 1990, demostró que un superdeportivo podía ser usable todos los días sin renunciar a las prestaciones. Tres décadas después, el NSX Type S de 2022 se despidió de la misma manera que empezó la saga: con ingeniería seria y sin estridencias. Solo se fabricaron 350 unidades de esta versión final, lo que la convierte, desde el primer día, en una pieza de colección.
+Cuando el NSX original se presentó en 1990, demostró que un superdeportivo podía usarse cada día sin renunciar a las prestaciones. Treinta años después, el Type S de 2022 cerró la saga por el mismo camino con el que empezó: ingeniería seria y sin estridencias. De esta versión final solo salieron 350 unidades, así que desde el primer día es una pieza de colección.
 
-Como referencia se manejan unos 170.000 dólares en Estados Unidos, una estimación tomada de los anuncios de aquel mercado, sin carácter oficial. En España no se vende oficialmente, así que cualquier unidad que circule por aquí habrá llegado por importación, con todo lo que eso implica en trámites, garantía y mantenimiento.
+Como orientación se barajan unos 170.000 dólares en Estados Unidos, una estimación sacada de los anuncios de ese mercado y sin carácter oficial. En España no hay venta oficial, de modo que cualquier unidad que ruede aquí habrá venido por importación, con lo que eso supone para trámites, garantía y mantenimiento.
 
 ## Una mecánica que suma por tres vías
 
-El Type S combina un V6 biturbo de 3,5 litros junto a tres motores eléctricos, una arquitectura híbrida que entrega 608 CV (447 kW) y 667 Nm de par. El resultado: el paso de parado a 100 km/h se resuelve en 2,9 segundos y su punta es de 307 km/h. La tracción es total y el cambio, un doble embrague de 9 velocidades.
+El Type S une un V6 biturbo de 3,5 litros con tres motores eléctricos: una arquitectura híbrida que rinde 608 CV, o 447 kW, y 667 Nm de par. Con eso, el 0 a 100 se despacha en 2,9 segundos y la punta llega a 307 km/h. La tracción es total y el cambio es un doble embrague de 9 velocidades.
 
-Son cifras de superdeportivo de primer nivel, pero lo que define al NSX no es solo la aceleración: es el equilibrio entre un chasis preciso y una entrega de potencia gestionada por la hibridación, que rellena la respuesta del turbo en los bajos y medios. Mide 4.530 mm de largo, tiene 2 plazas y un maletero de unos 110 litros, aproximado: es un coche para dos personas y poco equipaje, sin disculpas.
+Más que acelerar, el NSX se define por el equilibrio: chasis preciso y una hibridación que tapa el hueco del turbo en bajos y medios. Es un coche para dos personas y poco equipaje, sin disculpas: mide 4.530 mm, tiene 2 plazas y un maletero aproximado de unos 110 litros.
 
 ## Ficha rápida
 
@@ -3449,28 +3449,28 @@ Son cifras de superdeportivo de primer nivel, pero lo que define al NSX no es so
 
 ## Tres fechas para entenderlo
 
-En 1990 nació el primer NSX, con motor central V6 y una fiabilidad impropia de los superdeportivos de su época. En 2016 llegó la segunda generación, ya híbrida, con 581 CV. En 2021 Honda anunció el Type S como despedida, con 608 CV, y en 2022 se fabricaron las 350 unidades finales y se cerró la producción. Comprar un Type S hoy es comprar el último capítulo de esa historia, no solo un coche rápido.
+Tres fechas explican el coche: 1990, el primer NSX, con motor central V6 y una fiabilidad que no era normal en superdeportivos de su época; 2016, la segunda generación, ya híbrida, con 581 CV; 2021, el anuncio del Type S como despedida, con 608 CV, y 2022, las 350 unidades finales y el cierre de la producción. Quien compra un Type S hoy no compra solo un coche rápido: compra el último capítulo de esa historia.
 
 ## Mantenimiento y garantía: sin red oficial en España
 
-Por analogía con el Civic y el CR-V estadounidenses, la garantía orientativa es de 3 años o 36.000 millas. Y el mantenimiento, siguiendo el del Civic Type R, es el de un superdeportivo: depende del uso y no admite atajos. Al no venderse oficialmente en España, conviene verificar antes de comprar quién puede mantenerlo aquí y con qué repuestos, porque ese es el coste oculto de muchos superdeportivos importados.
+Sin venta oficial en España, lo primero es resolver quién puede mantenerlo aquí y con qué repuestos: ese es el coste oculto de muchos superdeportivos importados. El mantenimiento, como el del Civic Type R, es el de un superdeportivo: depende del uso y no admite atajos. Y como orientación, por analogía con el Civic y el CR-V estadounidenses, la garantía es de 3 años o 36.000 millas.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Honda NSX Type S 2022?
-En torno a 170.000 dólares en Estados Unidos, cifra aproximada y no oficial. No se vende oficialmente en España.
+Alrededor de 170.000 dólares en Estados Unidos, una cifra aproximada y no oficial. En España no se vende de forma oficial.
 
 ### ¿Cuántos caballos tiene?
-608 CV (447 kW), con 667 Nm de par.
+Rinde 608 CV, o 447 kW, con 667 Nm de par.
 
 ### ¿Se vende el NSX Type S en España?
-No de forma oficial. Las unidades que hay son importadas.
+No de manera oficial. Las unidades que hay son importadas.
 
 ### ¿Qué EuroNCAP tiene?
-Ninguno: al no venderse en Europa, no ha sido evaluado por EuroNCAP.
+Ninguno: al no venderse en Europa, EuroNCAP no lo ha evaluado.
 
 ### ¿Merece la pena comprar un NSX Type S?
-Como coche de colección y de disfrute, su tirada de 350 unidades y su papel de despedida de la saga son argumentos de peso. Como compra racional, su mantenimiento importado y su precio lo alejan de cualquier lógica de uso diario.
+Para disfrutar y coleccionar, pesan la tirada de 350 unidades y el papel de despedida de la saga. Como compra racional, en cambio, el mantenimiento importado y el precio lo alejan de cualquier lógica de uso diario.
 
 ## También te puede interesar
 
@@ -4125,8 +4125,8 @@ Antes de decidir, míralo frente a 2 o 3 rivales de su categoría: precio, consu
   },
   {
     slug: "isuzu-mu-x-precio-ficha-tecnica",
-    title: "Isuzu MU-X precio en Australia: desde 45.000 $, 190 CV",
-    excerpt: "Isuzu MU-X: precio desde 45.000 $, 190 CV. No se vende en España. Versiones, consumo y qué conviene comprar. Historia y rivales incluidos.",
+    title: "Isuzu MU-X 2025: 7 plazas y 190 CV, 45.000 $",
+    excerpt: "MU-X 2025 desde unos 45.000 $ en Australia: SUV todoterreno de 7 plazas con 190 CV, sin venta oficial en España.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -4145,7 +4145,7 @@ Antes de decidir, míralo frente a 2 o 3 rivales de su categoría: precio, consu
 
 **Ficha completa del modelo:** <a href=/coches/isuzu-mu-x-2025/>Isuzu MU-X 2025 — ficha técnica</a>
 
-Isuzu MU-X 2025: SUV 7 plazas todoterreno. Precio aproximado no oficial: desde ~45.000 $ en Australia. No se vende en España. Fuente de la aproximación: listados del mercado australiano (comparadores).
+El Isuzu MU-X 2025 es un SUV todoterreno de 7 plazas. Como precio aproximado y no oficial se manejan desde unos 45.000 $ en Australia. En España no se vende, y la aproximación viene de listados del mercado australiano, de comparadores.
 
 ## Ficha rápida
 
@@ -4200,15 +4200,15 @@ Isuzu MU-X 2025: SUV 7 plazas todoterreno. Precio aproximado no oficial: desde ~
 
 ## Mantenimiento
 
-Mantenimiento orientativo (modelo similar Isuzu D-Max, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Isuzu D-Max (misma marca).
+Como orientación, y tomando como referencia el Isuzu D-Max de la misma marca, conviene contar con una revisión cada año o cada 15.000 km. La fuente es el plan de mantenimiento del D-Max, de la misma marca.
 
 ## Garantía
 
-Garantía del fabricante en modelos parecidos (Isuzu D-Max): 6 años. Fuente: garantía Isuzu Australia en modelos parecidos.
+La referencia de garantía es la del fabricante en modelos parecidos, el Isuzu D-Max: 6 años, según la garantía de Isuzu Australia en modelos parecidos.
 
 ## EuroNCAP
 
-Sin datos EuroNCAP. ANCAP (Australia): 5 estrellas (2022) para el MU-X.
+No hay datos EuroNCAP. En Australia, ANCAP le dio 5 estrellas en 2022 al MU-X.
 
 ## Enlaces internos
 
@@ -4222,27 +4222,27 @@ Sin datos EuroNCAP. ANCAP (Australia): 5 estrellas (2022) para el MU-X.
 
 ### ¿Cuánto cuesta el Isuzu MU-X 2025?
 
-Precio aproximado no oficial: desde ~45.000 $ en Australia. No se vende en España. Fuente de la aproximación: listados del mercado australiano (comparadores).
+Precio aproximado y no oficial desde unos 45.000 $ en Australia. En España no se vende, y la aproximación viene de listados del mercado australiano, de comparadores.
 
 ### ¿Cuántos CV tiene el Isuzu MU-X 2025?
 
-190 CV (140 kW) en la versión de referencia de esta ficha.
+En la versión de referencia de esta ficha rinde 190 CV, o 140 kW.
 
 ### ¿Se vende el Isuzu MU-X en España?
 
-No se vende oficialmente en España. Esta ficha lo dice claramente y usa el precio del mercado donde se vende.
+No se vende de forma oficial en España. Esta ficha lo deja claro y trabaja con el precio del mercado donde sí se vende.
 
 ### ¿Qué EuroNCAP tiene el Isuzu MU-X?
 
-Sin datos EuroNCAP. ANCAP (Australia): 5 estrellas (2022) para el MU-X.
+No hay datos EuroNCAP. En Australia, ANCAP le dio 5 estrellas en 2022 al MU-X.
 
 ### ¿Qué garantía tiene el Isuzu MU-X?
 
-Garantía del fabricante en modelos parecidos (Isuzu D-Max): 6 años. Fuente: garantía Isuzu Australia en modelos parecidos.
+La referencia de garantía es la del fabricante en modelos parecidos, el Isuzu D-Max: 6 años, según la garantía de Isuzu Australia en modelos parecidos.
 
 ### ¿Merece la pena comprar el Isuzu MU-X?
 
-Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
+Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha aporta los datos; la decisión es tuya.
 
 *Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
 
