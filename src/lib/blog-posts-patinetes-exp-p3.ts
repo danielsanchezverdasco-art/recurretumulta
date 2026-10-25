@@ -3915,9 +3915,9 @@ Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
   },
   {
     slug: "kukirin-g2-ultra",
-    title: "KuKirin G2 Ultra: doble motor y pantalla táctil",
+    title: "KuKirin G2 Ultra: dos motores, 55 km y pantalla táctil",
     excerpt:
-      "El KuKirin G2 Ultra añade tracción total al G2: 2x800 W, pantalla táctil, 864 Wh y 50 km/h por ~680 €. Ficha técnica completa.",
+      "Con dos motores de 800 W, 864 Wh y pantalla táctil, el G2 Ultra cuesta unos 680 € y promete 55 km. Aquí va su autonomía real y su punto débil.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3938,9 +3938,9 @@ Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g2-ultra/>Ver ficha técnica del KuKirin G2 Ultra</a>: doble motor y pantalla. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **KuKirin G2 Ultra** es el G2 con tracción total y cerebro: **dos motores de 800 W** (2.000 W de pico), **pantalla táctil inteligente**, **864 Wh** (48V 18Ah), **55 km** declarados y **50 km/h**, por **~680 €**.
+El G2 Ultra es la versión del G2 que suma tracción total y una pantalla con más cerebro: monta dos motores de 800 W cada uno, con 2.000 W de pico combinados, una pantalla táctil inteligente y una batería de 864 Wh (48 V y 18 Ah). El fabricante declara 55 km de autonomía y 50 km/h de velocidad máxima, con un precio orientativo de unos 680 €.
 
-## Ficha técnica resumida
+## Sus cifras en una tabla
 
 | Dato | Valor |
 |---|---|
@@ -3954,30 +3954,30 @@ El **KuKirin G2 Ultra** es el G2 con tracción total y cerebro: **dos motores de
 
 ¿Quieres el detalle completo? <a href=/patinetes/kukirin-g2-ultra/>Ficha técnica completa del KuKirin G2 Ultra</a>.
 
-## Precio del KuKirin G2 Ultra en España
+## Precio en España
 
-Unos **680 €** (entre 639 y 722 € según tienda). Más caro que el G2 Max a cambio de tracción total y pantalla táctil.
+Ronda los 680 €, con un rango observado entre 639 y 722 € según la tienda. Sale más caro que el G2 Max, pero a cambio ofrece tracción total y pantalla táctil.
 
 <img src=/media/patinetes/kukirin-g2-ultra-2.webp alt=Detalle de la pantalla táctil del KuKirin G2 Ultra>
 
-## Autonomía real vs declarada
+## Autonomía: del folleto a la calle
 
-**55 km declarados**; en uso mixto, **unos 37 km**. Menos que el G2 Max: el doble motor y la pantalla pasan factura.
+Aunque el folleto habla de 55 km, en uso mixto conviene contar con unos 37 km. Respecto al G2 Max, el Ultra recorre menos: el segundo motor y la pantalla consumen parte de esa energía extra.
 
-## Frenos y neumáticos
+## Frenos y ruedas
 
-**Disco delantero y trasero + freno electrónico**, con **neumáticos tubeless de 10"**. Presión recomendada según el manual: **2,2-2,3 bar (220-230 kPa)**.
+Delante y detrás lleva frenos de disco, combinados con freno electrónico, y calza neumáticos tubeless de 10 pulgadas. El manual recomienda mantenerlos entre 2,2 y 2,3 bar, es decir, entre 220 y 230 kPa.
 
-## Certificado DGT y normativa VMP
+## Legalidad en España y norma VMP
 
-Con **50 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **aceras**, como todo VMP.
+Como alcanza 50 km/h, para circular legalmente por España hay que limitarlo a 25 km/h. Y, como cualquier VMP, tiene prohibido circular por las aceras.
 
-## Mantenimiento en casa
+## Cuidarlo en casa
 
-- **Presión de neumáticos**: 2,2-2,3 bar (220-230 kPa) según el manual oficial.
-- La **pantalla táctil** se maneja mal con guantes gruesos: configura los modos antes de salir.
+- **Aire en las ruedas**: revisa que estén entre 2,2 y 2,3 bar (220-230 kPa), tal como indica el manual oficial.
+- **Pantalla con guantes**: la táctil responde mal con guantes gruesos, así que deja los modos configurados antes de arrancar.
 
-## Puntos fuertes y débiles
+## Ventajas e inconvenientes
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3991,17 +3991,17 @@ Con **50 km/h**, en España debe ir **limitado a 25 km/h**. Prohibido en **acera
 
 ## Preguntas frecuentes
 
-### ¿Qué tiene de especial la pantalla?
-Es **táctil e inteligente**: la más avanzada de KuKirin, con más información y ajustes que los displays básicos.
+### ¿Qué aporta la pantalla frente a un display normal?
+Es táctil e inteligente, y se presenta como la más avanzada de KuKirin: muestra más información y permite más ajustes que los displays básicos.
 
-### ¿G2 Ultra o G2 Max?
-El Ultra: tracción total y tecnología. El Max: más autonomía y menos precio. Para gadget-lovers, Ultra.
+### ¿Ultra o Max: cuál conviene?
+El Ultra es para quien busca tracción total y tecnología; el Max, para quien prioriza autonomía y un precio menor. Si te atraen los gadgets, el Ultra.
 
-### ¿Qué presión llevan los neumáticos?
-**2,2-2,3 bar** (220-230 kPa) según el manual.
+### ¿A qué presión van los neumáticos?
+Entre 2,2 y 2,3 bar (220-230 kPa), según indica el manual.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Sí, siempre que vaya limitado a 25 km/h.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
