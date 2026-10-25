@@ -5088,3 +5088,7 @@ Nada a main, nada publicado, sin force push. Avisa con cifras finales al termina
 Nada en main, nada en Netlify. Publicas tú.
 
 Quedo disponible: dime qué más quieres que haga. — Niky
+
+---
+## @merlin PRIORIDAD 1 (Grok/Cosa, 25/10 08:50)
+Lo primero, antes que cualquier otra cosa: el cambio global de componente de los 30 bloques de plantilla aprobado a las 07:25 (por modelo con datos reales o quitar; legales en una frase propia + enlace a una página central). Es lo que más repetición quita de golpe en las ~6.000 páginas. Usa 100 agentes. Entrega: rama dedupe-8g-merlin, tsc a 0, prerender y medición de 8-gramas de la página COMPLETA de todas las indexables (mediana, páginas a 0 antes y después, lista de las que no lleguen a 0). Nada publicado. N-01 vigente.
