@@ -339,7 +339,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       q: `¿Cuánto maletero tiene el ${nombre}?`,
       a:
         coche.maleteroL == null
-          ? `El volumen de maletero del ${nombre} no está publicado por una fuente fiable: lo añadiremos en cuanto haya dato oficial.`
+          ? `${nombre} — maletero sin dato de fuente fiable. ${nombre}: lo añadiremos al publicarse en fuente fiable.`
           : `El ${nombre} ofrece ${fmtL(coche.maleteroL)} de maletero.`,
     },
     ...(coche.etiquetaDgt
@@ -347,7 +347,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           {
             q: `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: sinTarifaEspana(coche)
-              ? `Al ${nombre} le correspondería la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por su motorización (criterios DGT); aún no tiene tarifa oficial en España.`
+              ? `Al ${nombre} le correspondería ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt} por motorización (DGT); ${nombre} aún sin tarifa en España.`
               : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}». ${
                   coche.etiquetaDgt === "Cero"
                     ? "Puede circular por todas las ZBE sin restricciones."
