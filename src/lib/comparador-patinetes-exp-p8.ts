@@ -2058,18 +2058,18 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: [
-      "1000 W y 55 km declarados con solo 23 kg",
-      "Frenos de disco delanteros y traseros + regenerativo",
-      "App Apollo con antirrobo",
-      "El Apollo más ligero de la gama 2024",
+      "Mil vatios de potencia para 55 km declarados, en un patinete de solo 23 kg",
+      "Doble freno de disco, delante y detrás, más freno regenerativo",
+      "La app de Apollo añade antirrobo y control desde el móvil",
+      "Dentro de la gama Apollo de 2024, es el más ligero y fácil de portear",
     ],
     contras: [
-      "1400 W de pico: justo en cuestas duras",
-      "Precio en España no publicado",
-      "Sin IP66 declarado",
+      "Los 1.400 W de pico se quedan justos en cuestas duras",
+      "No hay precio publicado para España",
+      "No declara protección IP66 contra agua y polvo",
     ],
     veredicto:
-      "El Explore 2024 es el Apollo ligero: 1000 W, 55 km declarados y 23 kg. Para ciudad sin cargar con peso.",
+      "El Explore 2024 apuesta por la ligereza dentro de Apollo: 1.000 W y 23 kg para moverte por la ciudad, con 55 km declarados, sin cargar con un patinete pesado.",
     fuenteNombre: "Electric Scooter Guides (ficha técnica)",
     fuenteUrl: "https://electricscooterguides.com/best-electric-scooters/apollo-explore/",
     mantenimientoDIY: {

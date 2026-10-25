@@ -1359,18 +1359,18 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "Hasta 460 CV con tracción total: el Chery más potente",
-      "220 km CLTC en eléctrico y 1.400 km de autonomía total",
-      "6 plazas 2+2+2 con butacas individuales en la segunda fila",
-      "Pantalla de 30\" + pantalla de techo de 17,3\" para las plazas traseras",
-      "LiDAR en el techo y 23 altavoces: arsenal tecnológico total",
+      "Hasta 460 CV con tracción total: es el Chery más potente de la ficha",
+      "Los 220 km en eléctrico según el ciclo CLTC se combinan con 1.400 km de autonomía total",
+      "Seis plazas en formato 2+2+2, con asientos individuales en la segunda fila para viajar con comodidad",
+      "La pantalla de 30 pulgadas y la pantalla de techo de 17,3 pulgadas convierten las plazas traseras en una sala de cine",
+      "El LiDAR en el techo y los 23 altavoces completan un arsenal tecnológico poco habitual en este precio"
     ],
     contras: [
-      "De momento solo se vende en China",
-      "5,20 metros: aparcarlo en ciudad será un reto",
-      "2.452 kg de peso en vacío",
-      "Autonomía eléctrica CLTC: la real europea sería menor",
-      "Podría llegar a Europa de la mano de Ebro, Omoda o Jaecoo: sin confirmar",
+      "Por ahora solo se comercializa en China, así que en Europa es un coche para mirar, no para comprar",
+      "Con 5,20 metros, aparcarlo en ciudad será un reto diario",
+      "Sus 2.452 kg en vacío se notan en consumo y en agilidad, por mucha potencia que tenga",
+      "La autonomía eléctrica es CLTC: la cifra europea real sería inferior",
+      "Su desembarco en Europa con Ebro, Omoda o Jaecoo está sin confirmar y no hay fechas"
     ],
     largoMm: 5200,
     anchoMm: 1990,
@@ -1422,7 +1422,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no comercializado en Europa.",
+      nota: "No hay evaluación EuroNCAP porque el modelo no se comercializa en Europa.",
     },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km, lo que ocurra antes",

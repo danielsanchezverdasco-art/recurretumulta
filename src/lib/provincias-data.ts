@@ -869,7 +869,7 @@ export const PROVINCIAS: Provincia[] = [
     telefonoDgt: "967 210 800",
     direccionDgt: "C/ Alcalde José María de Miguel, 1, 02001 Albacete",
     codigoPostal: "02001",
-    descripcionLocal: "Albacete es nudo de la A-30, la A-31 y la A-43: mucho tráfico de paso y radares en varios ejes. La zona azul de la capital concentra las multas urbanas.",
+    descripcionLocal: "Albacete cruza tres autovías: la A-30 hacia Murcia, la A-31 hacia Alicante y la A-43. Ese tráfico de paso, entre Madrid y el Levante, deja radares en los ejes principales. En la capital, la zona azul concentra las sanciones urbanas, y la velocidad es el motivo más frecuente de multa.",
     multas: {
       tiposMasFrecuentes: ["Velocidad A-30", "Aparcamiento", "Cinturón"],
       radares: ["A-30 Albacete-Murcia", "A-31 Albacete-Alicante"],
@@ -880,7 +880,7 @@ export const PROVINCIAS: Provincia[] = [
       "multas tráfico Albacete",
       "DGT Albacete recurso",
     ],
-    faq: [{ pregunta: "¿Cómo recurro en Albacete?", respuesta: "La Jefatura de Tráfico de Albacete está en Avda. de España, 3. También puedes usar sede.dgt.gob.es con certificado digital o Cl@ve." }],
+    faq: [{ pregunta: "¿Cómo recurro en Albacete?", respuesta: "Puedes recurrir ante la Jefatura Provincial de Tráfico de Albacete, o bien por internet, con Cl@ve o certificado digital, desde la sede electrónica de la DGT. Revisa antes el expediente: número de expediente, fecha y lugar, y si hay algún defecto de forma." }],
   },
   {
     slug: "burgos",

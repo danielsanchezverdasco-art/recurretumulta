@@ -434,18 +434,18 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     cargaRapidaKw: 520,
     etiquetaDgt: "Cero",
     pros: [
-      "690 CV, 866 Nm y 0-100 en 3,23 s: el SUV más rápido de su precio",
-      "760 km CLTC con batería de 101,7 kWh",
-      "Frenos Brembo y suspensión neumática de doble cámara",
-      "Detalles en fibra de carbono y llantas de 21 pulgadas",
-      "~42.900 € en China frente a rivales mucho más caros",
+      "Con 690 CV, 866 Nm y un sprint hasta 100 km/h de 3,23 segundos, es el SUV más rápido de su precio",
+      "Los 760 km en ciclo CLTC gracias a una batería de 101,7 kWh dan autonomía para viajar sin ansiedad",
+      "Los frenos Brembo y la suspensión neumática de doble cámara respaldan unas prestaciones de superdeportivo",
+      "Los detalles en fibra de carbono y las llantas de 21 pulgadas completan una imagen que no pasa desapercibida",
+      "En China ronda los 42.900 €, frente a rivales mucho más caros con cifras parecidas"
     ],
     contras: [
-      "Solo China; Europa espera a 2027",
-      "2.405 kg: pesa como un camión ligero",
-      "Autonomía CLTC optimista frente al uso real",
-      "Disponibilidad crítica: sobreprecios en el mercado paralelo",
-      "Consumo elevado si se aprovecha la potencia",
+      "Por ahora solo se vende en China, y Europa tendrá que esperar, como pronto, a 2027",
+      "Con 2.405 kg, pesa como un camión ligero y eso se nota en consumo y en frenada",
+      "La autonomía CLTC es optimista frente al uso real, sobre todo si se aprovecha la potencia",
+      "La disponibilidad es crítica y el mercado paralelo ya aplica sobreprecios",
+      "El consumo sube mucho si se aprovecha toda la potencia, como en cualquier eléctrico de 690 CV"
     ],
     largoMm: 4999,
     anchoMm: 1996,

@@ -7,7 +7,7 @@ import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 
-const jsonLd = { "@context": "https://schema.org", "@graph": [ { "@type": "WebApplication", "name": "Calculadora de autonomía real de un coche eléctrico", "url": "https://recurretumulta.online/calculadora-autonomia-real", "applicationCategory": "UtilityApplication", "operatingSystem": "All", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" } }, { "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "¿Por qué la autonomía WLTP no se cumple en la vida real?", "acceptedAnswer": { "@type": "Answer", "text": "El ciclo WLTP de homologación se mide en condiciones ideales: temperatura templada, sin climatización, conducción suave y sin viento. Por eso casi ningún conductor lo alcanza en el día a día." } }, { "@type": "Question", "name": "¿Cuánta autonomía quita el frío a un coche eléctrico?", "acceptedAnswer": { "@type": "Answer", "text": "Bastante: por debajo de 0 °C la autonomía real puede caer en torno a un 25 %. La batería rinde peor en frío y la calefacción del habitáculo consume mucha energía." } }, { "@type": "Question", "name": "¿En autopista se gasta más batería que en ciudad?", "acceptedAnswer": { "@type": "Answer", "text": "Sí. La resistencia aerodinámica crece con el cuadrado de la velocidad, así que a 120 km/h el consumo se dispara. En ciudad el frenado regenerativo compensa parte del gasto." } }, { "@type": "Question", "name": "¿Esta calculadora vale para híbridos?", "acceptedAnswer": { "@type": "Answer", "text": "No. Es solo para coches eléctricos puros (BEV). Los híbridos dependen también del depósito de combustible, así que la autonomía eléctrica no cuenta toda la historia." } } ] }, { "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://recurretumulta.online/" }, { "@type": "ListItem", "position": 2, "name": "Herramientas", "item": "https://recurretumulta.online/herramientas" }, { "@type": "ListItem", "position": 3, "name": "Calculadora de autonomía real", "item": "https://recurretumulta.online/calculadora-autonomia-real" } ] } ] };
+const jsonLd = { "@context": "https://schema.org", "@graph": [ { "@type": "WebApplication", "name": "Calculadora de autonomía real de un coche eléctrico", "url": "https://recurretumulta.online/calculadora-autonomia-real", "applicationCategory": "UtilityApplication", "operatingSystem": "All", "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" } }, { "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "¿Por qué la autonomía WLTP no se cumple en la vida real?", "acceptedAnswer": { "@type": "Answer", "text": "El ciclo WLTP de homologación se mide en condiciones ideales: temperatura templada, sin climatización, conducción suave y sin viento. Por eso casi ningún conductor lo alcanza en su día a día." } }, { "@type": "Question", "name": "¿Cuánta autonomía quita el frío a un coche eléctrico?", "acceptedAnswer": { "@type": "Answer", "text": "Bastante: bajo 0 °C, la autonomía real puede caer alrededor de un 25 %. La batería rinde peor con frío y la calefacción del habitáculo consume mucha energía." } }, { "@type": "Question", "name": "¿En autopista se gasta más batería que en ciudad?", "acceptedAnswer": { "@type": "Answer", "text": "Sí. La resistencia aerodinámica crece con el cuadrado de la velocidad, así que a 120 km/h el consumo se dispara. En ciudad, el frenado regenerativo compensa parte del gasto." } }, { "@type": "Question", "name": "¿Esta calculadora vale para híbridos?", "acceptedAnswer": { "@type": "Answer", "text": "No. Solo vale para coches eléctricos puros (BEV). Los híbridos dependen también del depósito de combustible, así que la autonomía eléctrica no cuenta toda la historia." } } ] }, { "@type": "BreadcrumbList", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://recurretumulta.online/" }, { "@type": "ListItem", "position": 2, "name": "Herramientas", "item": "https://recurretumulta.online/herramientas" }, { "@type": "ListItem", "position": 3, "name": "Calculadora de autonomía real", "item": "https://recurretumulta.online/calculadora-autonomia-real" } ] } ] };
 
 const TEMP_FACTORS = [
   { value: "1.0", label: "Más de 20 °C" },
@@ -28,7 +28,7 @@ const CLIMA_FACTOR = 0.92;
 export default function CalculadoraAutonomiaRealPage() {
   useSeo({
     title: "Calculadora autonomía real coche eléctrico gratis",
-    description: "Calcula la autonomía real de tu coche eléctrico desde el WLTP: frío, autopista y climatización. Estimación honesta, gratis.",
+    description: "Estima la autonomía real de tu eléctrico desde el WLTP, con frío, autopista y climatización. Cálculo honesto y gratis.",
     canonical: "/calculadora-autonomia-real",
     keywords: ["Calculadora de autonomía real coche eléctrico", "autonomia real vs WLTP", "cuanta autonomia quita el frio"],
   });
@@ -82,7 +82,7 @@ export default function CalculadoraAutonomiaRealPage() {
               Calculadora de autonomía real de un coche eléctrico
             </h1>
             <p className="text-white/80 text-sm md:text-base leading-relaxed">
-              El WLTP es optimista por diseño. Introduce la autonomía declarada y ajusta por temperatura, uso y climatización para obtener una estimación realista.
+              El WLTP peca de optimista por diseño. Escribe la autonomía declarada y corrige por temperatura, uso y climatización para lograr una estimación realista.
             </p>
           </div>
         </div>
@@ -148,17 +148,17 @@ export default function CalculadoraAutonomiaRealPage() {
 <h2 className="text-2xl font-bold mb-4">Metodología: de dónde salen estos factores</h2>
           <p className="text-slate-600 mb-4">Esta calculadora no hace promesas: ofrece una <strong>estimación honesta</strong>. Los factores son conservadores y se explican por física básica:</p>
           <ul className="space-y-3 text-slate-600">
-            <li><strong className="text-slate-800">Punto de partida ×0,85 del WLTP.</strong> El ciclo de homologación se mide con temperatura ideal, sin climatización y con conducción suave. Casi nadie lo alcanza en el día a día, así que partimos de un 85 %.</li>
-            <li><strong className="text-slate-800">Temperatura.</strong> El frío reduce la eficiencia química de la batería y obliga a calentarla (y al habitáculo). A más de 20 °C no hay penalización (×1,0); de 10 a 20 °C, ×0,95; de 0 a 10 °C, ×0,85; bajo 0 °C, ×0,75.</li>
-            <li><strong className="text-slate-800">Tipo de uso.</strong> En autopista a 120 km/h la resistencia aerodinámica (que crece con el cuadrado de la velocidad) dispara el consumo: ×0,80. En ciudad el frenado regenerativo recupera energía: ×1,05. Uso mixto: ×1,0.</li>
-            <li><strong className="text-slate-800">Climatización.</strong> La calefacción y el aire acondicionado consumen varios kW sostenidos: si está encendida, ×0,92.</li>
+            <li><strong className="text-slate-800">Punto de partida ×0,85 del WLTP.</strong> El ciclo de homologación se mide a temperatura ideal, sin climatización y conduciendo suave. Como casi nadie lo alcanza en el día a día, partimos de un 85 %.</li>
+            <li><strong className="text-slate-800">Temperatura.</strong> El frío baja la eficiencia química de la batería y obliga a calentarla, además del habitáculo. Por encima de 20 °C no hay penalización (×1,0); entre 10 y 20 °C, ×0,95; entre 0 y 10 °C, ×0,85; bajo 0 °C, ×0,75.</li>
+            <li><strong className="text-slate-800">Tipo de uso.</strong> En autopista a 120 km/h, la resistencia aerodinámica, que crece con el cuadrado de la velocidad, dispara el consumo: ×0,80. En ciudad, el frenado regenerativo recupera energía: ×1,05. En uso mixto: ×1,0.</li>
+            <li><strong className="text-slate-800">Climatización.</strong> La calefacción y el aire acondicionado tiran varios kW sostenidos: si van encendidos, ×0,92.</li>
           </ul>
-          <p className="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-xl p-4 mt-5">Aviso: es una estimación con fines orientativos. Tu estilo de conducción, el estado de la batería, el viento y la orografía también influyen.</p>
+          <p className="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-xl p-4 mt-5">Aviso: es una estimación orientativa. Tu estilo al volante, el estado de la batería, el viento y la orografía también influyen.</p>
         </section>
 
         <figure className="mb-2">
           <video src="/media/autonomia-real.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: coche eléctrico circulando por una autopista española al atardecer" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: la autonomía real se decide en carretera, no en el laboratorio.</figcaption>
+          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: la autonomía real se decide en la carretera, no en el laboratorio.</figcaption>
         </figure>
 
         <div className="flex items-center gap-2 flex-wrap">
@@ -177,10 +177,10 @@ export default function CalculadoraAutonomiaRealPage() {
         <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8">
           <h2 className="text-2xl font-bold mb-6">Preguntas frecuentes</h2>
           <div className="space-y-5">
-            <div><h3 className="font-bold mb-1">¿Por qué la autonomía WLTP no se cumple en la vida real?</h3><p className="text-slate-600">El ciclo WLTP de homologación se mide en condiciones ideales: temperatura templada, sin climatización, conducción suave y sin viento. Por eso casi ningún conductor lo alcanza en el día a día.</p></div>
-            <div><h3 className="font-bold mb-1">¿Cuánta autonomía quita el frío a un coche eléctrico?</h3><p className="text-slate-600">Bastante: por debajo de 0 °C la autonomía real puede caer en torno a un 25 %. La batería rinde peor en frío y la calefacción del habitáculo consume mucha energía.</p></div>
-            <div><h3 className="font-bold mb-1">¿En autopista se gasta más batería que en ciudad?</h3><p className="text-slate-600">Sí. La resistencia aerodinámica crece con el cuadrado de la velocidad, así que a 120 km/h el consumo se dispara. En ciudad el frenado regenerativo compensa parte del gasto.</p></div>
-            <div><h3 className="font-bold mb-1">¿Esta calculadora vale para híbridos?</h3><p className="text-slate-600">No. Es solo para coches eléctricos puros (BEV). Los híbridos dependen también del depósito de combustible, así que la autonomía eléctrica no cuenta toda la historia.</p></div>
+            <div><h3 className="font-bold mb-1">¿Por qué la autonomía WLTP no se cumple en la vida real?</h3><p className="text-slate-600">El ciclo WLTP de homologación se mide en condiciones ideales: temperatura templada, sin climatización, conducción suave y sin viento. Por eso casi ningún conductor lo alcanza en su día a día.</p></div>
+            <div><h3 className="font-bold mb-1">¿Cuánta autonomía quita el frío a un coche eléctrico?</h3><p className="text-slate-600">Bastante: bajo 0 °C, la autonomía real puede caer alrededor de un 25 %. La batería rinde peor con frío y la calefacción del habitáculo consume mucha energía.</p></div>
+            <div><h3 className="font-bold mb-1">¿En autopista se gasta más batería que en ciudad?</h3><p className="text-slate-600">Sí. La resistencia aerodinámica crece con el cuadrado de la velocidad, así que a 120 km/h el consumo se dispara. En ciudad, el frenado regenerativo compensa parte del gasto.</p></div>
+            <div><h3 className="font-bold mb-1">¿Esta calculadora vale para híbridos?</h3><p className="text-slate-600">No. Solo vale para coches eléctricos puros (BEV). Los híbridos dependen también del depósito de combustible, así que la autonomía eléctrica no cuenta toda la historia.</p></div>
           </div>
         </section>
 
