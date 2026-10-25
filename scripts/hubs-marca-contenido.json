@@ -1,0 +1,58 @@
+{
+  "coches/arcfox": {
+    "nombre": "Arcfox",
+    "title": "Arcfox: 5 coches eléctricos para comparar sin ruido",
+    "description": "5 fichas técnicas de coches eléctricos Arcfox: Alfa S5, Alfa T5, Kaola y T1, con autonomía, tamaño y equipamiento para comparar la gama.",
+    "intro": "Arcfox es una de esas marcas que se entienden mejor por sus coches que por su nombre, y aquí hay cinco fichas para hacerlo. La gama se organiza en torno al Alfa S5 y el Alfa T5, dos propuestas eléctricas de tamaño medio, y se completa con el Kaola y su variante Kaola S, además del T1. Son coches pensados para un uso urbano y familiar, sin alardes, y la mejor forma de valorarlos es comparar su autonomía, su espacio y su equipamiento en las fichas, no fiarse de la primera impresión. Si buscas un eléctrico sin pagar el peaje de las marcas conocidas, estas cinco fichas son un buen punto de partida.",
+    "n": 5,
+    "url": "/coches/marca/arcfox/"
+  },
+  "coches/beijing": {
+    "nombre": "Beijing",
+    "title": "Beijing: 7 SUV y todoterrenos para valorar con calma",
+    "description": "La gama Beijing en 7 fichas: todoterrenos BJ30, BJ40 y BJ60 y SUV X5, X55 y X7, con su motor, su tamaño y su equipamiento.",
+    "intro": "La gama de Beijing en España se lee como un catálogo de SUV y todoterrenos con nombres que siguen una lógica sencilla: la familia BJ, con el BJ30, el BJ40, el BJ40e y el BJ60, apuesta por el carácter robusto, mientras que la familia X, con el X5, el X55 y el X7, cubre el SUV familiar de todos los días. Son siete fichas en total, y la diferencia entre unas y otras está en el tamaño, la tracción y el planteamiento, no en el logo. Antes de descartar una marca poco conocida, conviene leer qué ofrece cada modelo en potencia, espacio y precio, porque ahí es donde se decide si un coche encaja o no.",
+    "n": 7,
+    "url": "/coches/marca/beijing/"
+  },
+  "coches/byd": {
+    "nombre": "BYD",
+    "title": "BYD: 42 coches eléctricos e híbridos para comparar",
+    "description": "Toda la gama BYD en 42 fichas: del Dolphin Surf urbano al Great Tang de siete plazas, con la autonomía, la batería y el precio de cada modelo.",
+    "intro": "BYD tiene en esta web la gama más extensa de todas las marcas chinas, con 42 fichas que van del urbano Dolphin Surf al buque insignia Great Tang. Entre medias están los nombres que ya suenan en España: el Atto 3 y su evolución, el Dolphin, el Seal y el Seal U, el Han, el Tang y el Sealion 7, además de la familia Qin con sus híbridos enchufables. Comparar tantas fichas puede abrumar, así que conviene empezar por el uso: urbano, familiar o viajero, y después filtrar por autonomía y precio. La gama de BYD se entiende mejor así, por necesidades, que por orden alfabético.",
+    "n": 42,
+    "url": "/coches/marca/byd/"
+  },
+  "coches/chery": {
+    "nombre": "Chery",
+    "title": "Chery: 30 coches, de urbanos a SUV familiares grandes",
+    "description": "30 fichas técnicas de coches Chery: Arrizo, eQ, Explorer, Fulwin y Tiggo, con motores, tamaños y precios para comparar la gama china.",
+    "intro": "Chery llega con una gama amplia que no se resume en un solo modelo: hay berlinas Arrizo en varias tallas, urbanos eléctricos eQ, SUV Explorer y la familia Fulwin con sus híbridos enchufables, incluido el Fulwin T11 de seis plazas. Son 30 fichas, y la variedad es precisamente el reto: un Arrizo 5 no tiene nada que ver con un Fulwin T10, aunque compartan logo. La forma sensata de recorrer esta colección es separar primero por tipo de coche y por combustible, y después comparar dentro de cada grupo. Quien busque un Chery concreto lo encontrará; quien busque orientarse, que empiece por el tamaño que necesita.",
+    "n": 30,
+    "url": "/coches/marca/chery/"
+  },
+  "coches/deepal": {
+    "nombre": "Deepal",
+    "title": "Deepal: 9 eléctricos con nombre propio, S05, S07 y S09",
+    "description": "La gama eléctrica Deepal en 9 fichas: SUV S05, S07 y S09, berlinas L06 y L07 y el aventurero G318, con autonomía y equipamiento comparados.",
+    "intro": "En Deepal, la letra dice el tipo de coche y el número dice el tamaño: S para los SUV y L para las berlinas. El S05 abre la gama, el S07 es el familiar y el S09 el grande, y entre medias el G318 pone el acento aventurero. En berlinas, la oferta se reduce a dos nombres, L06 y L07. Son nueve fichas en total, y la escalera es tan clara que compararlas es casi un ejercicio de orden: primero el tamaño que necesitas, después la autonomía y el equipamiento. Para quien busque un eléctrico chino con diseño propio, esta colección permite decidir sin salir de la marca.",
+    "n": 9,
+    "url": "/coches/marca/deepal/"
+  },
+  "coches/ds": {
+    "nombre": "DS Automobiles",
+    "title": "DS Automobiles: 10 coches premium con acento francés",
+    "description": "10 fichas técnicas de DS Automobiles: DS 3, DS 4, DS 7, DS 9, DS N°4, DS N°8, con motores, acabados y precios para comparar la gama premium.",
+    "intro": "DS Automobiles juega en el terreno premium con argumentos propios: materiales cuidados, diseño francés y una gama que va del urbano DS 3 al gran DS 9, pasando por el DS 4 y el DS 7. La nueva nomenclatura, con el DS N°4 y el DS N°8, convive con los nombres clásicos, así que conviene fijarse en cada ficha y no solo en el número. Son diez fichas en total, entre versiones híbridas, eléctricas y de combustión, y la diferencia entre ellas está tanto en el acabado como en la mecánica. Quien busque un premium distinto a los alemanes de siempre encontrará aquí una alternativa con personalidad.",
+    "n": 10,
+    "url": "/coches/marca/ds/"
+  },
+  "coches/ebro": {
+    "nombre": "Ebro",
+    "title": "Ebro: 9 SUV fabricados en España para comparar",
+    "description": "9 fichas técnicas de Ebro: S400, S700, S800 y S900, con motores híbridos y enchufables, tamaños y precios para comparar la gama española.",
+    "intro": "Ebro tiene un argumento que ninguna otra marca china de esta lista puede ofrecer: sus coches se fabrican en España. La gama se organiza en una escalera sencilla, del S400 al S900, pasando por el S700 y el S800, con versiones híbridas e híbridas enchufables según el modelo. Son nueve fichas, y la elección entre ellas depende sobre todo del tamaño que necesites y de si quieres enchufe o no. El S400 abre la gama como SUV compacto, el S700 y el S800 cubren el segmento familiar y el S900 pone el tope. Para quien valore comprar un coche hecho aquí, estas fichas son el mapa completo.",
+    "n": 9,
+    "url": "/coches/marca/ebro/"
+  }
+}

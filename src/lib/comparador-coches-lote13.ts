@@ -1535,18 +1535,18 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "1.6 turbo híbrido con 210 CV y 312 Nm: el primer Cherokee híbrido",
-      "Tracción 4x4 de serie con Selec-Terrain",
-      "Más de 800 km de autonomía con un depósito (15 km/l)",
-      "Maletero de 795 litros y pantallas de 12,3\" y 10,25\"",
-      "Fabricado en Toluca (México): precio contenido",
+      "El 1.6 turbo híbrido con 210 CV y 312 Nm convierte a este Cherokee en el primer híbrido de la saga",
+      "La tracción 4x4 viene de serie, con el sistema Selec-Terrain para adaptar el coche al terreno",
+      "Más de 800 km de autonomía con un depósito, a razón de unos 15 km por litro, lo hacen un buen viajero",
+      "El maletero de 795 litros, junto a las pantallas de 12,3 y 10,25 pulgadas, combina carga y tecnología",
+      "Fabricado en Toluca, en México, mantiene un precio contenido para lo que ofrece"
     ],
     contras: [
-      "Sin confirmar para Europa",
-      "Batería de solo 1,08 kWh: el modo eléctrico es testimonial",
-      "0-100 km/h en 8,6 s: no es un mechero",
-      "Primer sistema híbrido de Stellantis en Norteamérica: por demostrar",
-      "El Trailhawk radical llegará más tarde y más caro",
+      "Su llegada a Europa está sin confirmar, así que por ahora es un modelo para el mercado norteamericano",
+      "La batería de solo 1,08 kWh hace que el modo eléctrico sea testimonial, no un modo de uso real",
+      "El 0 a 100 km/h en 8,6 segundos no es una cifra brillante, aunque sí suficiente para el día a día",
+      "Es el primer sistema híbrido de Stellantis en Norteamérica y todavía tiene que demostrar su fiabilidad",
+      "El Trailhawk más radical llegará más tarde y con un precio superior"
     ],
     largoMm: 4650,
     anchoMm: 1860,
@@ -1598,7 +1598,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: la nueva generación aún no ha sido probada.",
+      nota: "La nueva generación todavía no ha pasado por las pruebas de EuroNCAP.",
     },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km, lo que ocurra antes",
