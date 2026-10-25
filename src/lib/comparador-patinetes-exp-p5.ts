@@ -362,12 +362,12 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm", "bateriaWh"],
     pros: [
-      "El motor declara 500 W continuos y picos de 1.502 W con 40 Nm de par, un empuje muy contundente cuando se activa el modo Extreme.",
-      "La suspensión integral Ey.lastic usa brazos oscilantes de un solo lado, una solución que filtra bien las irregularidades sin complicar el conjunto.",
-      "Los intermitentes van en los extremos del manillar y el inmovilizador electrónico viene de serie, dos ayudas valiosas para circular y aparcar con calma.",
-      "Anuncia 65 km de autonomía gracias a una batería que entrega 46,8 V con 14,5 Ah de capacidad, suficiente para varios días de uso urbano sin recargar.",
-      "Supera pendientes de hasta el 25 %, así que las cuestas empinadas de la ciudad no suponen un obstáculo para este modelo.",
-      "Se desarrolló junto a Yadea y conserva el acabado de Egret, con homologación en Alemania y en Suiza que avala su fabricación.",
+      "Motor de 500 W continuos y 1.502 W de pico, con 40 Nm de par y modo Extreme.",
+      "Suspensión integral Ey.lastic con brazos oscilantes de un solo lado.",
+      "Intermitentes en los extremos del manillar e inmovilizador electrónico de serie.",
+      "65 km de autonomía anunciada, con batería de 46,8 V y 14,5 Ah.",
+      "Supera pendientes de hasta el 25 %.",
+      "Desarrollado junto a Yadea, con homologación en Alemania y en Suiza.",
     ],
     contras: [
       "Sin precio oficial: Walberg no publica una tarifa oficial verificable del Egret Ey! 1",
@@ -378,7 +378,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "Con tanto pico de potencia, en España debe circular limitado a 25 km/h",
     ],
     veredicto:
-      "El Egret más bestia: 1.500 W de pico y suspensión integral por un precio contenido en Alemania. Pesa casi 30 kg, así que es para garaje y trayectos largos, no para el metro.",
+      "El Egret más bestia: 1.502 W de pico y suspensión integral. Pesa 29,8 kg, así que es para garaje y trayectos largos, no para el metro.",
     fuenteNombre: "Egret / Galaxus",
     fuenteUrl: "https://www.galaxus.ch/en/s3/product/egret-ey-1-e-scooter-20-kmh-65-km-500-w-e-scooters-standing-47503004",
     mantenimientoDIY: {
@@ -986,7 +986,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
       "El diseño G-Series es robusto pero poco elegante",
     ],
     veredicto:
-      "El Gotrax más redondo para Europa: 500 W, 720 Wh de celdas LG y 56 km declarados. Si lo encuentras a buen precio en un retailer europeo, es mucha autonomía por euro.",
+      "GOTRAX G6: 500 W, batería LG de 720 Wh y 56 km declarados (38 km reales), con doble disco más freno electromagnético, por 600 €.",
     fuenteNombre: "Gotrax / Energy Group Canada",
     fuenteUrl: "https://energygroupcanada.com/en/electric-kick-scooter/1173-gotrax-g6-500w-48v-16ah-electric-kick-scooter-for-adult.html",
     mantenimientoDIY: {
