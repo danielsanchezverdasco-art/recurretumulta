@@ -77399,7 +77399,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "date": "2026-10-23",
     "locale": "all",
     "heroSrc": "/media/audi-q9-2026-precio-ficha-tecnica-hero.webp",
-    "heroAlt": "Audi Q9 2026 en azul Waitomo, vista delantera tres cuartos",
+    "heroAlt": "Audi Q9 2026, prototipo camuflado en pruebas, vista delantera tres cuartos",
     "keywords": [
       "Audi Q9 precio",
       "Audi Q9 2026",

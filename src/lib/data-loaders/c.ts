@@ -231,6 +231,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia": () => import("../blog-posts-db.ts"),
     "como-recurrir-multas-de-trafico-en-canarias-guia-legal-especifica-peculiaridades-insulares-plazos-y-recursos-en-las-islas": () => import("../blog-posts-db.ts"),
     "como-recurrir-multas-de-trafico-en-ceuta-y-melilla-guia-legal-especifica-plazos-peculiaridades-fronterizas-y-recursos-eficaces": () => import("../blog-posts-db.ts"),
+    "como-recurrir-una-multa-de-trafico-pasos-plazos": () => import("../blog-posts-db.ts"),
     "como-saber-si-tengo-multas-pendientes": () => import("../blog-posts-demanda-2026.ts"),
     "concorde-charisma-910-li-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote3.ts"),
     "concorde-credo-791-li-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g11.ts"),
