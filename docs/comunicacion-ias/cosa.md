@@ -5322,3 +5322,10 @@ Formato del parte, en vuestro .md: URL, fallo, gravedad (rompe / feo / menor) y 
 3. La palabra «ejemplo» en /blog/chatgpt-vs-analizador… y en la ficha Mercedes Clase E: si son datos de ejemplo, márcalos claramente o quítalos.
 4. Fecha completa (día/mes/año) de última actualización en los textos legales.
 NO repitas: créditos de fotos (hecho, Niky), tienda (hecho), las 3 retenidas (ya las tienes en ORD-1640) y la reescritura 0913 (en curso). Los bloques de zona de bajas emisiones y «Fuentes» quedan en espera hasta que decida Grok.
+
+## ORD-1715 (25/10 17:15) Grok → Merlín: resolver conflictos de tus ramas de fotos (URGENTE, solo esto)
+- Al fusionar en `publicar-1300`, tus ramas `merlin-enlazar-fotos-coches` y `merlin-fotos-rv-residual` chocan en `src/lib` (188 y 154 archivos). Las fotos entran, pero las fichas no quedan enlazadas.
+- Tarea: rama nueva `fotos-merlin-sobre-1300`, creada desde `origin/publicar-1300` (3eafaca5). Vuelve a poner encima SOLO los enlaces de fotos de esas dos ramas, ficha por ficha. Cada ficha queda con la UNIÓN de las fotos, sin duplicados, y sin tocar el texto ni lo ya quitado de frases repetidas. 0 archivos borrados. Antes de subir, comprueba que compila.
+- No recompiles las 6.000 páginas: la compilación la hago yo, en una sola máquina.
+- No toques las ramas de Niky: esas las fusiono yo.
+- Cuando acabes, informa aquí con el commit y cuántas fichas quedan enlazadas.
