@@ -238,9 +238,9 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
   },
   {
     slug: "nami-klima",
-    title: "Nami Klima: el Burn-e compacto de 5.360 W",
+    title: "Nami Klima: doble motor y 5.360 W en solo 38 kg",
     excerpt:
-      "El Nami Klima condensa lo mejor del Burn-e en 38 kg: doble motor de 1.000 W, 5.360 W de pico y batería de 1.500 Wh. Ficha técnica completa.",
+      "El Nami Klima baja el Burn-e a 38 kg sin perder el doble motor: 1.000 W por rueda, 5.360 W de pico y 1.500 Wh para unos 44 km reales.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -261,9 +261,9 @@ Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-klima/>Ver ficha técnica del Nami Klima</a>: precio, autonomía y potencia. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Klima** es la respuesta de Nami a quienes veían el Burn-e demasiado grande: **38 kg** frente a 47, pero con **dos motores de 1.000 W** que rinden **5.360 W de pico** y batería de **1.500 Wh** (60V 25Ah). Misma filosofía, formato más manejable.
+Nami pensó el Klima para quien encontraba excesivo el Burn-e: recorta la báscula hasta unos 38 kilos, frente a los 47 del mayor, sin renunciar al esquema de dos motores, cada uno de 1.000 W, que juntos entregan 5.360 W de pico, alimentados por un acumulador de 1.500 Wh (60V 25Ah). La receta es la misma, en un envoltorio más fácil de mover.
 
-## Ficha técnica resumida
+## Datos esenciales de un vistazo
 
 | Dato | Valor |
 |---|---|
@@ -277,25 +277,25 @@ El **Nami Klima** es la respuesta de Nami a quienes veían el Burn-e demasiado g
 
 ¿Quieres el detalle completo? <a href=/patinetes/nami-klima/>Ficha técnica completa del Nami Klima</a>.
 
-## Precio del Nami Klima en España
+## Cuánto cuesta en España
 
-El precio europeo **varía según el importador** y no hay un PVP oficial estable publicado. En mercados como Australia ronda el equivalente a 1.600-1.700 €, pero en Europa suele estar por encima. Pide siempre presupuesto con garantía europea por escrito.
+En Europa no existe un precio de venta al público fijo y divulgado de forma estable: cada importador marca el suyo. Como orientación, en Australia su equivalente ronda los 1.600-1.700 €, aunque en el mercado europeo la cifra habitual queda por encima. Antes de cerrar la compra, exige que la garantía europea figure por escrito en el presupuesto.
 
 <img src=/media/patinetes/nami-klima-2.webp alt=Detalle del manillar del Nami Klima>
 
-## Autonomía real vs declarada
+## Alcance anunciado frente a alcance en uso
 
-Declara **65 km**; en uso real con doble motor calcula **unos 44 km**. Es menos que sus hermanos mayores, pero coherente con una batería de 1.500 Wh y 38 kg de peso.
+El catálogo promete 65 km; con los dos motores trabajando, el cálculo sensato baja hasta unos 44 km. La cifra menor no desentona: encaja con un acumulador de 1.500 Wh moviendo 38 kg.
 
-## Frenos y neumáticos
+## Frenada, ruedas y suspensión
 
-Hereda el esquema de la casa: frenos de disco potentes y neumáticos anchos. La suspensión hidráulica ajustable es uno de sus puntos fuertes frente a rivales más simples.
+El Klima repite la receta de la casa en el apartado de ciclo: discos de freno contundentes y gomas anchas. Su baza frente a rivales de planteamiento más sencillo es la suspensión hidráulica, que se puede regular.
 
-## Certificado DGT y normativa VMP
+## Qué dice la norma española para este modelo
 
-El Klima **no está homologado como VMP** para circular a 65 km/h en España: la ley limita estos vehículos a **25 km/h** y **prohíbe las aceras**. Solo en circuito privado puedes usar todo su potencial.
+Tal como sale de fábrica, el Klima no cuenta con homologación como VMP en España para rodar a 65 km/h: la legislación española topea estos vehículos en 25 km/h y veta las aceras. Su potencia completa solo tiene cabida en un recinto privado.
 
-## Puntos fuertes y débiles
+## Luces y sombras
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -307,11 +307,11 @@ El Klima **no está homologado como VMP** para circular a 65 km/h en España: la
 
 <img src=/media/patinetes/nami-klima-3.webp alt=Nami Klima circulando por la ciudad>
 
-## Nami: la marca de los patinetes sin complejos
+## Nami y su apuesta sin concesiones
 
-Nami Electric se hizo un nombre entre los entusiastas con el Burn-e, un hiperpatinete pensado sin mirar el precio, y el Klima nace de una constatación sencilla: no todo el mundo puede —ni quiere— cargar con 47 kilos. Recortar la fórmula a 38 kg manteniendo el doble motor y una batería seria convierte al Klima en el Nami de los que viven en un piso sin ascensor grande o combinan el patinete con el coche. Sigue sin ser un patinete ligero ni urbano en el sentido legal español, pero dentro de su especie es el sensato.
+Nami Electric se dio a conocer entre aficionados gracias al Burn-e, un hiperpatinete diseñado sin atender al coste, y el Klima responde a una realidad cotidiana: mover 47 kilos no resulta viable para muchos compradores. Reducir el conjunto hasta 38 kg sin perder la tracción doble ni un acumulador solvente hace del Klima la opción de Nami para quien reside en un piso sin ascensor holgado o reparte sus desplazamientos entre patinete y automóvil. Continúa siendo un equipo pesado, y tampoco encaja como urbano desde el punto de vista legal en España, aunque entre los de su clase resulte el más juicioso.
 
-## Doble motor y 1.500 Wh: los números en la calle
+## Qué significan sus cifras cuando ruedas
 
 | Dato | Klima | Traducción honesta |
 |---|---|---|
@@ -322,40 +322,40 @@ Nami Electric se hizo un nombre entre los entusiastas con el Burn-e, un hiperpat
 | Velocidad máxima | 65 km/h | Muy lejos del límite legal español |
 | Peso | ~38 kg | Subirlo a un coche ya es ejercicio |
 
-La diferencia entre lo declarado y lo real no es un engaño de Nami: las autonomías de catálogo se miden a velocidad constante y moderada, mientras que un doble motor invita justo a lo contrario. Con 5.360 W de pico disponibles, el consumo lo escribe la mano derecha.
+Que lo anunciado supere a lo que luego se consigue no implica que Nami falsee nada: los alcances de catálogo se obtienen rodando a ritmo constante y contenido, justo lo opuesto a lo que provoca una tracción doble. Con 5.360 W de pico a disposición, quien decide el gasto es el puño del acelerador.
 
-## La verdad legal: un Klima no es un VMP en España
+## Situación legal: fuera de la categoría VMP
 
-La normativa de la DGT define el vehículo de movilidad personal con una velocidad máxima por construcción de 25 km/h. El Klima, capaz de 65 km/h, queda fuera de esa categoría tal cual sale de la caja: no puede circular por vías públicas españolas, ni por la calzada ni —nunca— por las aceras, y su lugar legal es el recinto privado o el circuito. Solo una versión limitada y con su certificado de circulación podría aspirar a tratarse como VMP, y aun así con el casco y las ordenanzas municipales como compañía. Es la advertencia que debe acompañar a cualquier compra de este tipo.
+La definición de vehículo de movilidad personal que maneja la DGT fija en 25 km/h la velocidad máxima por construcción. El Klima, capaz de alcanzar 65 km/h, queda al margen de esa categoría tal como sale de la caja: no puede rodar por la vía pública española, ni por calzada ni —jamás— por aceras, y su ámbito legítimo es el recinto privado o el circuito. Únicamente una variante capada y con su certificado de circulación podría optar a recibir trato de VMP, y aun así habría que sumar casco y ordenanzas locales. Esa advertencia debería ir pegada a cualquier operación de compra de este género.
 
-## Mantener un doble motor: frenos, gomas y batería
+## Cuidar la frenada, las gomas y la batería
 
-Un aparato que frena desde 65 km/h exige discos y pastillas en estado impecable, neumáticos con presión vigilada y una suspensión hidráulica ajustada al peso del piloto, cosas que el Klima permite regular y que conviene revisar tras los primeros kilómetros. La batería de 1.500 Wh se conserva mejor evitando descargas completas habituales y almacenamientos al 100 % durante semanas. La red de servicio europea de Nami es limitada, así que comprar a un distribuidor que responda por escrito en garantía no es un consejo: es parte del precio.
+Un equipo que debe detenerse desde 65 km/h pide discos y pastillas en perfecto estado, gomas con la presión controlada y una suspensión hidráulica adaptada al peso de quien lo pilota, ajustes que el Klima admite y que conviene repasar tras los primeros kilómetros. El acumulador de 1.500 Wh dura más si se esquivan las descargas totales frecuentes y las estancias al 100 % durante semanas. Como la red europea de asistencia de Nami resulta reducida, adquirirlo a un distribuidor que avale la garantía por escrito no es una recomendación: forma parte del precio.
 
-## Klima o Burn-e: veredicto
+## ¿Klima o Burn-e? La decisión
 
-Su hermano mayor, el <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, ofrece más batería y más potencia a cambio de más peso y más dinero. **Veredicto:** el Klima merece la pena para el entusiasta que quiere prestaciones de hiperpatinete en el formato menos ingobernable posible y que tiene dónde usarlo legalmente; para circular a diario por una ciudad española, la ley manda y toca mirar patinetes VMP certificados. 
+El <a href=/patinetes/nami-burn-e-3/>Nami Burn-e 3</a>, su hermano mayor, entrega más acumulador y más empuje a cambio de más kilos y más desembolso. **Veredicto:** el Klima compensa para el aficionado que busca prestaciones propias de un hiperpatinete con el tamaño más manejable que admite esa especie y dispone de un sitio donde emplearlo dentro de la ley; para desplazarse cada día por una ciudad española, la norma manda y toca fijarse en patinetes VMP certificados.
 
-## Plegado, maletero y escaleras: los 38 kilos en la práctica
+## Llevar 38 kilos: plegado, coche y escaleras
 
-El Klima se pliega por el manillar para caber en el maletero de un coche mediano, y esa es la foto amable. La realidad completa incluye levantar 38 kilos hasta la altura de la cadera, buscarle un rincón donde no estorbe en casa y asumir que bajarlo por unas escaleras es una operación de dos manos y algo de maña. Frente a los patinetes urbanos de 15 kilos pierde por goleada en portabilidad; frente a su hermano Burn-e gana justo lo suficiente para que un adulto entrenado lo mueva sin ayuda. Es, en resumen, transportable a ratos, no portable a diario.
+El Klima se dobla por el manillar para entrar en el maletero de un turismo mediano, y esa es la imagen amable. La realidad completa supone alzar el conjunto hasta la cadera, con sus 38 kilos a cuestas, encontrarle un hueco donde no moleste en casa y aceptar que bajarlo por unas escaleras requiere las dos manos y cierta habilidad. Ante los patinetes urbanos de 15 kilos sale perdiendo de largo en portabilidad; ante su hermano Burn-e recorta justo lo necesario para que una persona adulta en forma lo desplace sin ayuda. En suma, se transporta a ratos, no se lleva a diario como un urbano.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el Nami Klima?
-No hay PVP oficial estable en Europa: **depende del importador**. Compara varios presupuestos.
+### ¿Qué precio tiene en Europa?
+Ningún importador publica un PVP oficial estable en Europa: **cada uno marca el suyo**. Pide presupuesto a varios.
 
-### ¿Qué velocidad alcanza?
-**65 km/h** declarados (limitado a 25 km/h en la UE).
+### ¿Hasta qué velocidad llega?
+Declara **65 km/h**, aunque en la UE queda capado a 25 km/h.
 
-### ¿Qué autonomía real tiene?
-Unos **44 km** en uso mixto, frente a 65 km declarados.
+### ¿Qué alcance real ofrece?
+En uso mixto ronda los **44 km**, por debajo de los 65 km del catálogo.
 
-### ¿Es mejor que el Burn-e 3?
-Es **más manejable y ligero** (38 kg frente a 47), pero con menos batería y potencia. Para uso mixto, el Klima tiene más sentido.
+### ¿Supera al Burn-e 3?
+Pesa menos y se maneja mejor (**38 kg** ante 47), aunque entrega menos batería y potencia. En uso mixto, el Klima encaja mejor.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h** según la normativa VMP.
+### ¿Se puede usar legalmente en España?
+Únicamente con el tope de 25 km/h que exige la normativa VMP.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -484,9 +484,9 @@ Solo **limitado a 25 km/h** según normativa VMP.
   },
   {
     slug: "nami-blast",
-    title: "Nami Blast: doble motor por 2.299 €",
+    title: "Nami Blast: tracción en dos ruedas por 2.299 €",
     excerpt:
-      "El Nami Blast es el doble motor más barato de la marca: 2.000 W, batería de 1.680 Wh y 60 km por 2.299 €. Ficha técnica y opiniones.",
+      "Dos motores de 1.000 W, 1.680 Wh y unos 40 km reales por 2.299 €: el Blast es el acceso más económico a la gama extrema de Nami, sin homologación DGT.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -507,9 +507,9 @@ Solo **limitado a 25 km/h** según normativa VMP.
 
 **¿Buscas solo los datos?** <a href=/patinetes/nami-blast/>Ver ficha técnica del Nami Blast</a>: precio, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Nami Blast** es la puerta de entrada a la tracción total de Nami: **dos motores de 1.000 W**, batería de **1.680 Wh** (60V 28Ah) y **60 km declarados** por **2.299 €**. Menos exótico que el Burn-e, más asequible que el Klima Max.
+Con dos motores de 1.000 W y una batería de 1.680 Wh, este modelo se coloca como el acceso más barato a la gama de altas prestaciones de Nami. Cuesta 2.299 €, promete 60 km y, frente a sus hermanos, recorta exotismo sin renunciar a la tracción en ambos ejes: menos espectacular que el Burn-e y más económico que el Klima Max.
 
-## Ficha técnica resumida
+## Sus cifras, de un vistazo
 
 | Dato | Valor |
 |---|---|
@@ -523,25 +523,25 @@ El **Nami Blast** es la puerta de entrada a la tracción total de Nami: **dos mo
 
 ¿Quieres el detalle completo? <a href=/patinetes/nami-blast/>Ficha técnica completa del Nami Blast</a>.
 
-## Precio del Nami Blast en España
+## Lo que cuesta en España
 
-**2.299 €**: el Nami de doble motor más barato. Por ese dinero, pocos rivales ofrecen tracción total con batería de 1.680 Wh.
+El precio en España es de 2.299 €, lo que lo convierte en el Nami de doble motor más económico. A esa cifra, resulta difícil encontrar otro rival que combine tracción en ambos ejes con una batería de 1.680 Wh.
 
 <img src=/media/patinetes/nami-blast-2.webp alt=Detalle del frontal del Nami Blast>
 
-## Autonomía real vs declarada
+## Del papel a la calle: autonomía
 
-Declara **60 km**; en la práctica, con los dos motores empujando, quédate con **unos 40 km**. El doble motor gasta, y la batería de 1.680 Wh no hace milagros.
+Sobre el papel anuncia 60 km, pero con ambos motores trabajando a la vez conviene contar con unos 40 km. El doble motor tira de energía, y una batería de 1.680 Wh no obra milagros en ese escenario.
 
-## Frenos y neumáticos
+## Frenada y ruedas a la altura de su velocidad
 
-Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (46 kg) y la batalla larga le dan una estabilidad notable.
+Monta frenos de disco y neumáticos anchos, en consonancia con sus 70 km/h de velocidad máxima. Sus 46 kg y su batalla larga le otorgan una estabilidad destacable.
 
-## Certificado DGT y normativa VMP
+## En España, solo limitado
 
-**No homologado DGT**: en España circula **limitado a 25 km/h**, con **prohibición de aceras** y uso de carril bici o calzada permitida. Los 70 km/h son para circuito.
+No cuenta con homologación DGT: en España debe circular limitado a 25 km/h, sin pisar las aceras y por carril bici o calzada, según corresponda. Los 70 km/h quedan reservados al circuito.
 
-## Puntos fuertes y débiles
+## Lo bueno y lo menos bueno
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -553,11 +553,11 @@ Frenos de disco y neumáticos anchos acordes a sus 70 km/h de máxima. El peso (
 
 <img src=/media/patinetes/nami-blast-3.webp alt=Nami Blast rodando por ciudad>
 
-## Nami: la ingeniería de Michael Sha aplicada al patinete extremo
+## Quién está detrás de Nami
 
-Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de los patinetes de altas prestaciones más respetados del mercado, y su gama se presenta en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e es su escaparate, el Blast es su puerta de entrada a la **tracción total**: dos motores de **1.000 W**, batería de **60 V y 28 Ah (1.680 Wh)** y **60 km declarados** por **2.299 €**. Es el Nami de doble motor más barato, y su planteamiento es el contrario al de un VMP urbano: chasis robusto, batalla larga y unos **46 kg** que dejan claro que no está pensado para subir escaleras.
+Nami nació del ingeniero Michael Sha, reconocido por haber firmado varios de los patinetes potentes más admirados del sector, y su gama puede consultarse en la <a href=https://www.namielectric.com>web oficial de Nami Electric</a>. Si el Burn-e funciona como escaparate de la marca, el Blast representa su escalón de acceso a la tracción en ambos ejes, con dos propulsores de 1.000 W cada uno y una batería de 28 Ah a 60 V, es decir, 1.680 Wh, y anuncia 60 km por 2.299 €. Se trata del Nami con doble motor más barato, y su enfoque invierte la lógica del VMP urbano, con un chasis robusto, una batalla larga y 46 kg que lo descartan para subir escaleras.
 
-## La técnica: doble motor y 1.680 Wh con autonomía honesta
+## Técnica: energía, empuje y autonomía honesta
 
 | Dato | Nami Blast |
 |---|---|
@@ -569,42 +569,42 @@ Nami es el proyecto del ingeniero Michael Sha, conocido por diseñar algunos de 
 | Peso | Unos 46 kg |
 | Precio | 2.299 € |
 
-La lectura que ya hace el post original es la correcta: el doble motor gasta, y los 60 km declarados se quedan en **unos 40 reales** en uso mixto. A cambio, la tracción total da una aceleración y una capacidad en cuesta que un monomotor de su precio no iguala, y la estabilidad a velocidad es la seña de la casa gracias al peso y a la batalla. Los frenos de disco y los neumáticos anchos están dimensionados para sus 70 km/h, una cifra que en España solo tiene sentido fuera de la vía pública, como se explica en el apartado de normativa.
+El diagnóstico del análisis original sigue siendo válido: el doble motor consume, y los 60 km anunciados se quedan cortos en la práctica: rondan los 40 km en uso mixto. Como contrapartida, la tracción en ambos ejes aporta empuje y una buena respuesta en pendiente, algo que un monomotor de su precio no puede ofrecer, y la estabilidad a velocidad, marca de la casa, se apoya en su peso y en su batalla. Frenos de disco y neumáticos anchos van dimensionados para esos 70 km/h, una velocidad que en España solo cabe entender fuera de la vía pública, tal como recoge el apartado de normativa.
 
-## Uso real: máquina de fin de semana, no de última milla
+## Para qué sirve (y para qué no)
 
-El Blast es un patinete para disfrutar en entornos permitidos y para usuarios que aceptan su logística: 46 kg no se meten en un maletero pequeño ni se suben a un tercero sin ascensor. Como transporte diario legal tiene el límite de los 25 km/h y, limitado, sigue pesando 46 kg: la peor combinación posible para intermodalidad. Su sitio es el del aficionado que quiere prestaciones de doble motor sin pagar el Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
+Su terreno natural son los entornos permitidos y los usuarios dispuestos a asumir su logística: 46 kg no caben en un maletero pequeño y subirlos a un tercero sin ascensor es otra historia. Como transporte diario dentro de la ley, arrastra el límite de 25 km/h y, aun limitado, sigue pesando 46 kg, una combinación pésima para combinar transportes. Su comprador natural es el aficionado que busca prestaciones de doble motor sin llegar al precio del Burn-e. Compáralo en el <a href=/comparador-patinetes/>comparador de patinetes</a>.
 
-## Mantenimiento y costes: batería grande, red pequeña
+## Mantenerlo: lo que sí se puede afirmar
 
-Nami no publica tarifas de mantenimiento aplicables en España, y no las inventamos. Lo verificable en un doble motor de esta clase es el gasto en neumáticos y frenos acorde a su peso y velocidad, el cuidado de una batería de **1.680 Wh** (su recambio sería la partida mayor de su vida útil) y la dependencia de importadores y talleres especializados, que el propio análisis señala como red limitada. Antes de comprar, confirma quién te venderá recambios de controlador, motor y batería en España: en este segmento, ese dato vale más que 100 € de descuento.
+La marca no difunde tarifas de mantenimiento válidas para España, así que no vamos a inventarlas. En un doble motor de este tipo, lo comprobable es el desgaste de neumáticos y frenos en proporción a su peso y velocidad, el mimo que exige una batería de 1.680 Wh —cuyo recambio sería el gasto más abultado de toda su vida útil— y la necesidad de recurrir a importadores y talleres especializados, es decir, una red escasa. Antes de pagar, averigua quién te suministrará en España repuestos de controlador, motor y batería: en esta categoría, esa respuesta vale más que un descuento de 100 €.
 
-## Normativa: sin homologación DGT, 70 km/h solo fuera de la vía pública
+## Normativa: velocidad alta solo fuera de la vía pública
 
-El Blast **no está homologado por la DGT** como VMP, y el post original lo dice sin rodeos: en España solo puede plantearse **limitado a 25 km/h**, sin circular por aceras y por las vías permitidas a los VMP según la normativa de la <a href=https://www.dgt.es>DGT</a>. Sus 70 km/h son para circuito o espacio privado. Un patinete sin la certificación VMP exigida a los modelos nuevos puede además tener problemas para acreditar su legalidad en un control, un riesgo que el comprador debe asumir con toda la información antes de pagar 2.299 €.
+Carece de homologación de la DGT como VMP, y conviene decirlo sin ambages: en España solo cabe contemplarlo limitado a 25 km/h, fuera de las aceras y por las vías autorizadas para los VMP conforme a la normativa vigente para los VMP (<a href=https://www.dgt.es>DGT</a>). La velocidad máxima de 70 km/h pertenece al circuito o al espacio privado. Además, un patinete sin la certificación VMP que se exige a los modelos nuevos puede encontrar dificultades para demostrar su legalidad ante un control; es un riesgo que quien compra debe sopesar con toda la información antes de desembolsar 2.299 €.
 
-## Frente al Nami Blast Max y al Burn-e 3 Max: veredicto
+## Blast, Blast Max y Burn-e 3 Max, frente a frente
 
-Sus hermanos tienen ficha en esta casa y marcan el escalón siguiente: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> sube a 3.000 W nominales con 8.400 W de pico, batería de 2.400 Wh, 100 km declarados (67 reales) y 80 km/h, con 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> cuesta 4.449 € con la misma potencia de pico, 2.880 Wh, 135 km declarados (90 reales) y 105 km/h. El Blast base conserva lo esencial (doble motor y chasis Nami) por bastante menos dinero que ambos.
+En esta misma casa tienen ficha sus hermanos, que marcan el siguiente escalón: el <a href=/patinetes/nami-blast-max/>Nami Blast Max</a> alcanza 3.000 W nominales y 8.400 W de pico, con batería de 2.400 Wh, 100 km anunciados (67 reales) y 80 km/h, para 45 kg. El <a href=/patinetes/nami-burn-e-3-max/>Nami Burn-e 3 Max</a> se va a 4.449 € con idéntica potencia máxima, 2.880 Wh y 135 km anunciados (90 reales) y 105 km/h, mientras el Blast de base mantiene lo esencial —propulsión en ambos ejes y chasis Nami— a un precio bastante inferior al de los dos.
 
-**¿Merece la pena?** Como entrada a los patinetes de tracción total de autor, el Blast es el Nami con más sentido por euro. **Para quién sí:** para el aficionado que busque doble motor y estabilidad, con espacio privado donde explotarlo y garaje a pie de calle. **Para quién no:** para quien necesite un VMP legal, ligero y certificable para el día a día: eso es otra categoría de producto.
+**¿Merece la pena?** Como acceso a los patinetes de tracción en ambos ejes con firma de autor, el Blast ofrece el mejor sentido por euro entre los Nami. **Para quién sí:** para quien busque empuje en ambos ejes y estabilidad, disponga de un espacio privado donde exprimirlo y tenga garaje a pie de calle. En cambio, **para quién no:** si lo que necesitas es un VMP legal, ligero y con certificación para el día a día, busca en otra categoría.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Nami Blast?
-**2.299 €**, el doble motor más barato de Nami.
+### ¿Qué precio tiene el Blast?
+**2.299 €**, el Nami con doble motor más económico.
 
-### ¿Qué autonomía real tiene?
-Unos **40 km** en uso mixto, frente a 60 km declarados.
+### ¿Cuántos kilómetros reales recorre?
+En uso mixto, ronda los 40 km, lejos de los 60 km anunciados.
 
-### ¿Es mejor que el Klima?
-El Klima es más ligero y manejable; el Blast es más barato con tracción total. Depende de tu prioridad.
+### ¿Blast o Klima: cuál conviene?
+El Klima resulta más ligero y manejable; el Blast, más económico y con tracción en ambos ejes. Todo depende de qué priorices.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h** según la normativa VMP.
+### ¿Puede circular legalmente en España?
+Solo con el límite de **25 km/h**, conforme a la normativa VMP.
 
-### ¿Cuánto pesa?
-Unos **46 kg**: no apto para subir por escaleras.
+### ¿Cuánto pesa el Blast?
+Unos **46 kg**: no es un modelo para subir por escaleras.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
