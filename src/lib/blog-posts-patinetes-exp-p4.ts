@@ -2978,9 +2978,9 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
   },
   {
     slug: "etwow-gt-se-sport",
-    title: "E-TWOW GT SE Sport: 1.000 W en 12,3 kg",
+    title: "E-TWOW GT SE Sport: 1.000 W con solo 12,3 kg",
     excerpt:
-      "El E-TWOW GT SE Sport con Kit Sport: 1.000 W de pico en 12,3 kg, 504 Wh y app Bluetooth por 1.240 € en España. Ficha completa.",
+      "El GT SE Sport con Kit Sport une 1.000 W de pico, 504 Wh y app Bluetooth en 12,3 kg, por 1.240 €. Alcance, frenos y legalidad, aquí.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2999,9 +2999,9 @@ Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta
 
 **¿Buscas solo los datos?** <a href=/patinetes/etwow-gt-se-sport/>Ver ficha técnica del E-TWOW GT SE Sport</a>: precio, potencia, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **E-TWOW GT SE Sport** con **Kit Sport** es el E-TWOW definitivo: **1.000 W de pico** en **12,3 kg**, batería de **48 V y 10,5 Ah (504 Wh)**, **Bluetooth** con app E-TWOW CONNECT y **35-45 km** de rango, por **1.240 €** en <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>.
+Dentro del catálogo rumano, esta variante con Kit Sport representa la versión más ambiciosa del GT SE: entrega un pico de 1.000 W, se mueve con un acumulador de 48 V y 10,5 Ah —equivalentes a 504 Wh—, enlaza por Bluetooth con la aplicación E-TWOW CONNECT y anuncia entre 35 y 45 km por carga, con un precio de 1.240 € en <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>. Todo ello cabe en una estructura de 12,3 kg.
 
-## Ficha técnica resumida
+## Datos clave del GT SE Sport
 
 | Dato | Valor |
 |---|---|
@@ -3018,25 +3018,25 @@ El **E-TWOW GT SE Sport** con **Kit Sport** es el E-TWOW definitivo: **1.000 W d
 
 ¿Quieres el detalle completo? <a href=/patinetes/etwow-gt-se-sport/>Ficha técnica completa del GT SE Sport</a> con todos los datos verificados.
 
-## Precio del E-TWOW GT SE Sport en España
+## Cuánto vale en España
 
-**1.240 €** con impuestos en E-TWOW España. Caro, pero no existe nada con 1.000 W de pico que pese 12,3 kg.
+El importe con impuestos asciende a 1.240 € en la tienda española de la marca. Resulta elevado, aunque hoy por hoy ningún rival combina un pico de 1.000 W con una báscula de 12,3 kg.
 
 <img src=/media/patinetes/etwow-gt-se-sport-2.webp alt=Detalle del chasis de aluminio del E-TWOW GT SE Sport>
 
-## Autonomía real vs declarada
+## Alcance anunciado frente al práctico
 
-Rango declarado de **35-45 km** según modo; en uso alegre con 1.000 W de pico, calcula **unos 27 km**. La app permite gestionar modos y ver el consumo.
+La cifra oficial oscila entre 35 y 45 km según el modo elegido; si se aprovecha a fondo el pico de 1.000 W, conviene planificar recorridos de alrededor de 27 km. Desde la aplicación se pueden cambiar los modos y consultar el gasto energético.
 
-## Frenos y neumáticos
+## Frenada, ruedas y chasis
 
-**Tambor trasero + regenerativo delantero** y **macizas de 8 pulgadas**: a 1.000 W de pico, las ruedas van justas; la **doble suspensión** y el chasis de aluminio lo compensan en parte.
+Atrás frena un tambor y delante actúa la recuperación eléctrica, mientras las cubiertas macizas miden 8 pulgadas: con semejante pico, ese diámetro queda algo corto; la suspensión en ambos ejes y el bastidor de aluminio ayudan a compensarlo en parte.
 
-## Certificado DGT y normativa VMP
+## Legalidad y certificado
 
-Sin certificado DGT verificado. Se vende **limitado a 25 km/h**; deslimitado no es VMP legal. Prohibido en **aceras** en todo caso.
+No consta un certificado DGT comprobado. Se comercializa con el tope en 25 km/h; sin ese límite no se considera un VMP legal. Circular por las aceras queda prohibido en cualquier circunstancia.
 
-## Puntos fuertes y débiles
+## Lo bueno y lo mejorable
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3048,25 +3048,25 @@ Sin certificado DGT verificado. Se vende **limitado a 25 km/h**; deslimitado no 
 
 <img src=/media/patinetes/etwow-gt-se-sport-3.webp alt=E-TWOW GT SE Sport en una calle europea>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el GT SE Sport?
-**1.240 €** en E-TWOW España.
+### ¿Cuál es su precio?
+1.240 € en la tienda española de E-TWOW.
 
-### ¿Qué es el Kit Sport?
-El paquete del distribuidor español que lleva el GT SE a **1.000 W de pico** con Bluetooth.
+### ¿En qué consiste el Kit Sport?
+Es el conjunto que prepara el distribuidor español para elevar el GT SE hasta un pico de 1.000 W e incorporar Bluetooth.
 
-### ¿Qué autonomía real tiene?
-Unos **27 km** en uso normal; hasta 45 km a ritmo tranquilo.
+### ¿Cuántos kilómetros rinde de verdad?
+Alrededor de 27 km en un uso corriente; con un ritmo pausado puede acercarse a los 45 km.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Sí, siempre que mantenga el límite de 25 km/h.
 
-### ¿Pesa poco?
-**12,3 kg**: lo mejor de su ficha.
+### ¿Resulta ligero?
+Marca 12,3 kg en la báscula, el dato más destacado de su ficha.
 
-### ¿Merece los 1.240 €?
-Si buscas lo máximo en potencia/peso y eres fan de E-TWOW, sí. Si no, el GT SE normal cuesta menos.
+### ¿Compensa pagar 1.240 €?
+Para quien priorice al máximo la relación entre empuje y peso y siga a E-TWOW, sí. En caso contrario, el GT SE estándar sale más económico.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 

@@ -1008,9 +1008,9 @@ El Supreme duplica potencia y batería, pero también el precio. El 11+ es más 
   },
   {
     slug: "teverun-blade-gt-2",
-    title: "Teverun Blade GT II: doble motor de 1.600 W",
+    title: "Teverun Blade GT II: 85 km/h con doble motor",
     excerpt:
-      "El Teverun Blade GT II ofrece doble motor de 1.600 W, hasta 2.100 Wh de batería y 85 km/h en un chasis más ágil que el Fighter. Ficha completa.",
+      "Con dos motores de 1.600 W, baterías de hasta 2.100 Wh y 85 km/h de punta, el Blade GT II resulta más manejable que un Fighter. Guía completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1031,9 +1031,11 @@ El Supreme duplica potencia y batería, pero también el precio. El 11+ es más 
 
 **¿Buscas solo los datos?** <a href=/patinetes/teverun-blade-gt-2/>Ver ficha técnica del Teverun Blade GT II</a>: motores, baterías y velocidad. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Teverun Blade GT II** es el término medio de la marca: **dos motores de 1.600 W** (5.000 W de pico), **tres capacidades de batería** (26, 30 y 35Ah), **85 km/h** de máxima y un chasis más ligero y ágil que la gama Fighter. La versión de 35Ah declara **80-140 km** de autonomía.
+En la gama del fabricante, este Blade ocupa el escalón intermedio: un bastidor más contenido y manejable que el de los Fighter, con una punta declarada de 85 km/h y tres opciones de acumulador entre las que escoger.
 
-## Ficha técnica resumida
+La tracción corre a cargo de dos propulsores de 1.600 W cada uno, con un pico conjunto de 5.000 W, alimentados por paquetes de 60V en 26, 30 o 35Ah; la variante mayor, que roza los 2.100 Wh, anuncia entre 80 y 140 km según el uso.
+
+## Resumen de datos
 
 | Dato | Valor |
 |---|---|
@@ -1046,25 +1048,25 @@ El **Teverun Blade GT II** es el término medio de la marca: **dos motores de 1.
 
 ¿Quieres el detalle completo? <a href=/patinetes/teverun-blade-gt-2/>Ficha técnica completa del Teverun Blade GT II</a>.
 
-## Precio del Teverun Blade GT II en España
+## Precio según importador y batería
 
-**Sin PVP oficial único**: depende del importador y de la batería elegida (26, 30 o 35Ah). Consejo: **elige la de 35Ah**; las versiones pequeñas se quedan cortas para el motor que lleva y la diferencia de precio se amortiza en autonomía.
+No hay un importe oficial único para España: la cifra final varía con el importador y con el acumulador escogido, entre 26, 30 y 35Ah. Si el presupuesto lo permite, conviene decantarse por el de 35Ah, porque los paquetes menores resultan escasos frente a la doble tracción y el sobrecoste se compensa con kilómetros extra.
 
 <img src=/media/patinetes/teverun-blade-gt-2-2.webp alt=Detalle del chasis del Teverun Blade GT II>
 
-## Autonomía real vs declarada
+## Autonomía anunciada frente a la esperable
 
-El rango **80-140 km** depende de la batería y del modo. Con la de 35Ah y uso mixto, calcula **unos 74 km reales**. Con la de 26Ah, bastante menos: por eso insistimos en la versión grande.
+El intervalo anunciado de 80-140 km cambia con el acumulador montado y con el modo de conducción elegido. Tomando la variante de 35Ah en recorridos variados, la estimación razonable ronda los 74 km efectivos; con el paquete de 26Ah, la cifra cae de forma notable, motivo por el que recomendamos la versión de mayor capacidad.
 
-## Frenos y neumáticos
+## Frenos, ruedas y pantalla
 
-Frenos de disco hidráulicos y neumáticos anchos, con pantalla TFT y NFC como el resto de la gama. El chasis Blade es más compacto que el Fighter, lo que se agradece entre el tráfico.
+Para detenerlo, discos hidráulicos en ambas ruedas y cubiertas de generosa anchura; el puesto de conducción suma una pantalla TFT y lector NFC, en línea con el resto de la familia. Su estructura Blade, más recogida que la Fighter, facilita moverse con soltura por calles concurridas.
 
-## Certificado DGT y normativa VMP
+## Legalidad en España
 
-Sin homologación DGT: en España, **25 km/h máximo**, **aceras prohibidas** y vías permitidas. Sus 85 km/h son solo para circuito privado.
+Carece de homologación de la DGT, de modo que en vías españolas su circulación como VMP queda ceñida a 25 km/h y sin pisar aceras; la punta de 85 km/h queda reservada exclusivamente a un circuito cerrado al tráfico.
 
-## Puntos fuertes y débiles
+## Fortalezas y puntos flojos
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1076,22 +1078,22 @@ Sin homologación DGT: en España, **25 km/h máximo**, **aceras prohibidas** y 
 
 <img src=/media/patinetes/teverun-blade-gt-2-3.webp alt=Teverun Blade GT II en uso>
 
-## Preguntas frecuentes
+## Preguntas habituales
 
-### ¿Qué batería elijo?
-La de **35Ah (2.100 Wh)**: las pequeñas no están a la altura del doble motor.
+### ¿Qué capacidad conviene elegir?
+La variante de 35Ah, cercana a 2.100 Wh: los acumuladores menores no acompañan el empuje de la doble motorización.
 
-### ¿Qué velocidad alcanza?
-**85 km/h** declarados (25 km/h limitado en la UE).
+### ¿Hasta dónde llega su velocidad?
+La marca declara 85 km/h, aunque en la Unión Europea el límite para circular queda en 25 km/h.
 
-### ¿Qué autonomía real tiene?
-Unos **74 km** con la batería grande en uso mixto.
+### ¿Cuántos kilómetros reales entrega?
+Con el acumulador grande y recorridos variados, la previsión sensata se sitúa en torno a 74 km.
 
-### ¿Blade GT II o Fighter 11?
-El Blade es más ágil y compacto; el Fighter, más radical y con mejor red de repuestos. Para ciudad, Blade; para todo lo demás, Fighter.
+### ¿Blade o Fighter 11 para ciudad?
+El Blade ofrece mayor agilidad y un formato más recogido; el Fighter 11 apuesta por un carácter más radical y una red de repuestos más sólida. En ciudad, el primero; fuera de ella, el segundo.
 
-### ¿Es legal en España?
-Solo **limitado a 25 km/h** como VMP.
+### ¿Se puede usar legalmente en España?
+Únicamente como VMP, con la velocidad ceñida a 25 km/h.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -1371,9 +1373,9 @@ Solo **limitado a 25 km/h** como VMP.
   // ────────────────────────── INMOTION (6) ─────────────────────────
   {
     slug: "inmotion-air",
-    title: "InMotion Air: 15,6 kg y 720 W de pico",
+    title: "InMotion Air: urbano ligero de 15,6 kg y 720 W",
     excerpt:
-      "El InMotion Air es el urbano ligero bien hecho: 15,6 kg, motor de 350 W con 720 W de pico, 35 km e IP55. Ficha técnica y mantenimiento.",
+      "Patinete urbano pensado para combinar con transporte público: pesa 15,6 kg, entrega 720 W de pico, declara 35 km y protege con IP55. Datos y mantenimiento.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -1394,9 +1396,9 @@ Solo **limitado a 25 km/h** como VMP.
 
 **¿Buscas solo los datos?** <a href=/patinetes/inmotion-air/>Ver ficha técnica del InMotion Air</a>: peso, motor y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **InMotion Air** demuestra que ligero no tiene que significar frágil: **15,6 kg**, motor trasero de **350 W** con **720 W de pico**, **35 km** declarados y un sellado **IP55** (IP67 en batería) poco habitual en su clase. El urbano para combinar con metro o tren.
+Plegar, cargar al hombro y subir al vagón sin pelear con el peso: esa es la promesa que este modelo de InMotion intenta cumplir. Con una báscula que marca 15,6 kilos, un propulsor trasero nominal de 350 vatios capaz de alcanzar picos de 720, una batería de 270 vatios hora y una autonomía homologada de 35 kilómetros, el conjunto apunta a trayectos cortos combinados con metro o tren, más que a rutas largas. La protección frente al agua, con grado IP55 en la estructura y IP67 en el acumulador, resulta poco corriente entre urbanos de este peso.
 
-## Ficha técnica resumida
+## Cifras en una tabla
 
 | Dato | Valor |
 |---|---|
@@ -1410,25 +1412,25 @@ El **InMotion Air** demuestra que ligero no tiene que significar frágil: **15,6
 
 ¿Quieres el detalle completo? <a href=/patinetes/inmotion-air/>Ficha técnica completa del InMotion Air</a>.
 
-## Precio del InMotion Air en España
+## Cuánto cuesta en España
 
-**Sin PVP oficial estable publicado** en España: se vende a través de distribuidores y su precio varía. Como referencia, en otros mercados ronda el segmento de los 500-600 €.
+En el mercado español no existe un precio oficial estable: la venta se canaliza mediante distribuidores y la cantidad final oscila según el punto de venta. Quien busque una orientación puede mirar fuera: en otros países el importe se mueve dentro de la franja de 500 a 600 euros. Conviene pedir presupuesto actualizado antes de decidir, porque esa variabilidad impide fijar una cifra cerrada para España.
 
 <img src=/media/patinetes/inmotion-air-2.webp alt=Detalle del manillar y display del InMotion Air>
 
-## Autonomía real vs declarada
+## Alcance homologado frente a alcance urbano
 
-**35 km declarados** medidos a 15 km/h de media según el manual; en ciudad a ritmo normal, calcula **unos 23 km**. Suficiente para el último kilómetro, justo para commuters largos. Se carga en **4,5 horas**.
+El manual mide los 35 kilómetros declarados circulando a una media de 15 kilómetros por hora; ese ritmo tranquilo explica la cifra. En uso ciudadano, con arranques, semáforos y velocidad sostenida, la previsión sensata ronda los 23 kilómetros. El perfil encaja con el trayecto final desde la estación o la parada, mientras que para desplazamientos diarios extensos puede quedarse corto. La recarga completa requiere 4,5 horas enchufado.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-**Tambor delantero + freno electrónico regenerativo trasero**, con neumáticos de **10 pulgadas**. El tambor dura más que el disco y necesita menos mantenimiento, aunque su tacto es menos progresivo. Presión máxima de los neumáticos: **3,5 bar (50 PSI)** según el manual.
+Delante monta un tambor y detrás un freno electrónico con recuperación, una combinación que prioriza la durabilidad y el escaso mantenimiento frente a un tacto más directo. El tambor aguanta más kilómetros que un disco y pide menos atención, aunque la respuesta al accionar la maneta resulta menos gradual. Las cubiertas son de 10 pulgadas y su inflado máximo, según el manual, queda fijado en 3,5 bar, equivalentes a 50 PSI.
 
-## Certificado DGT y normativa VMP
+## Dónde puede circular
 
-A **25 km/h** y con su equipamiento, es un VMP de manual: circula por **carril bici o calzada** donde esté permitido, **nunca por aceras**, y respeta la normativa municipal de tu ciudad.
+Con su tope de 25 kilómetros por hora y el equipamiento que incorpora, queda encuadrado como vehículo de movilidad personal según el manual de referencia. En la práctica, eso implica rodar por carril bici o por calzada allí donde la regulación lo autorice, sin invadir jamás las aceras, y atender además a la ordenanza municipal de cada localidad.
 
-## Puntos fuertes y débiles
+## Lo mejor y lo que lastra
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1440,22 +1442,22 @@ A **25 km/h** y con su equipamiento, es un VMP de manual: circula por **carril b
 
 <img src=/media/patinetes/inmotion-air-3.webp alt=InMotion Air plegado junto a una mochila>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto pesa el InMotion Air?
-**15,6 kg**: de los más ligeros con ruedas de 10 pulgadas.
+### ¿Qué marca la báscula con este modelo?
+La cifra oficial es de 15,6 kilos, lo que lo sitúa entre los más livianos que calzan ruedas de 10 pulgadas.
 
-### ¿Qué autonomía real tiene?
-Unos **23 km** en ciudad, frente a 35 km declarados.
+### ¿Cuántos kilómetros reales rinde en ciudad?
+Alrededor de 23 kilómetros en uso urbano, por debajo de los 35 kilómetros declarados.
 
-### ¿Es resistente al agua?
-Sí: **IP55** en el chasis e **IP67** en la batería, por encima de la media.
+### ¿Aguanta la lluvia?
+Sí: la estructura cuenta con IP55 y la batería con IP67, un nivel superior al habitual.
 
-### ¿Qué presión llevan los neumáticos?
-Máximo **3,5 bar (50 PSI)** según el manual oficial.
+### ¿Hasta qué presión se inflan las cubiertas?
+El tope fijado por el manual oficial es de 3,5 bar, es decir, 50 PSI.
 
-### ¿Air o Air Pro?
-El Air si priorizas ligereza y precio; el Pro si necesitas sus 48 km de autonomía.
+### ¿Merece más la pena el Air o el Air Pro?
+Quien priorice poco peso y un desembolso contenido se quedará con el Air; quien necesite más alcance mirará al Pro, que anuncia 48 kilómetros.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
@@ -3518,9 +3520,9 @@ El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
   },
   {
     slug: "kukirin-g4",
-    title: "KuKirin G4: 2.000 W por 859 €",
+    title: "KuKirin G4: 2.000 W y 75 km por 859 €",
     excerpt:
-      "El KuKirin G4 es potencia bruta barata: 2.000 W con 2.400 W de pico, 1.200 Wh, 70 km/h y 75 km por 859 €. Ficha técnica completa.",
+      "El KuKirin G4 ofrece 2.000 W, 1.200 Wh, 70 km/h y 75 km anunciados por 859 €, con suspensión de largo recorrido y frenos de disco.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3541,9 +3543,9 @@ El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
 
 **¿Buscas solo los datos?** <a href=/patinetes/kukirin-g4/>Ver ficha técnica del KuKirin G4</a>: potencia, batería y precio. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **KuKirin G4** es potencia bruta a precio de risa: **2.000 W** (2.400 W de pico), **1.200 Wh** (60V 20Ah), **70 km/h** y **75 km declarados** por **859 €**. El favorito de los que quieren correr sin gastarse 2.000 €.
+KuKirin plantea el G4 como una máquina de empuje descomunal a un coste contenido: entrega 2.000 W continuos, con puntas de 2.400 W, un acumulador de 1.200 Wh (60V y 20Ah), una punta de 70 km/h y un alcance anunciado de 75 km, todo por 859 €. Atrae sobre todo a quien busca aceleración fuerte sin acercarse a los 2.000 € de gasto.
 
-## Ficha técnica resumida
+## Datos esenciales
 
 | Dato | Valor |
 |---|---|
@@ -3557,31 +3559,31 @@ El **KuKirin G4** es potencia bruta a precio de risa: **2.000 W** (2.400 W de pi
 
 ¿Quieres el detalle completo? <a href=/patinetes/kukirin-g4/>Ficha técnica completa del KuKirin G4</a>.
 
-## Precio del KuKirin G4 en España
+## Cuánto cuesta en Europa
 
-**859 €** en la tienda europea. Por ese dinero no hay nada con 2.000 W y 1.200 Wh: esa es toda su filosofía.
+Su precio en la tienda europea es de 859 €. Con ese desembolso, ningún rival ofrece a la vez 1.200 Wh y 2.000 W: ahí reside toda su propuesta.
 
 <img src=/media/patinetes/kukirin-g4-2.webp alt=Detalle de la rueda del KuKirin G4>
 
-## Autonomía real vs declarada
+## Alcance práctico frente al anunciado
 
-**75 km declarados**; a ritmo normal, **unos 50 km reales**. A fondo, mucho menos: 2.000 W beben de lo lindo.
+El folleto anuncia 75 km; circulando con calma, lo razonable es contar con cerca de 50 km. Si se exprime al máximo, la cifra cae bastante, porque un motor de 2.000 W consume energía a gran ritmo.
 
-## Frenos y neumáticos
+## Frenada y ruedas
 
-Frenos de disco y neumáticos anchos, con suspensión delantera y trasera de largo recorrido. A 70 km/h, los frenos de serie van justos según usuarios: es el punto a mejorar. Presión recomendada: **3,5 bar (50 PSI)** según el manual.
+Equipa frenos de disco y cubiertas anchas, junto a una suspensión de amplio recorrido en ambos ejes. A 70 km/h, el equipo de freno original se queda corto a juicio de varios usuarios, y ahí está su principal margen de mejora. El manual fija la presión de inflado en 3,5 bar, equivalentes a 50 PSI.
 
-## Certificado DGT y normativa VMP
+## Legalidad y límites para circular
 
-Con **70 km/h**, el G4 **no es un VMP legal** sin limitar en España: **25 km/h máximo** en vía pública y **aceras prohibidas**. Lo demás, en circuito.
+Por su punta de 70 km/h, este G4 no puede considerarse un VMP legal en España si no se limita: en calles abiertas el tope es de 25 km/h y está vedado rodar por las aceras. Fuera de ese marco, su terreno son los circuitos cerrados y las vías privadas.
 
-## Mantenimiento en casa
+## Cuidados básicos en casa
 
-- **Presión de neumáticos**: 3,5 bar (50 PSI) según el manual oficial.
-- Con 2.000 W, **revisa pastillas y discos** con frecuencia: el desgaste es mayor que en patinetes urbanos.
-- Aprieta la tornillería del manillar y la potencia cada pocos cientos de km: las vibraciones aflojan todo.
+- **Inflado de ruedas**: el manual oficial marca 3,5 bar (50 PSI).
+- Con un motor de 2.000 W, conviene inspeccionar pastillas y discos a menudo, porque el desgaste supera al de un patinete urbano corriente.
+- Revisa también los tornillos del manillar y de la potencia cada pocos cientos de kilómetros, ya que las vibraciones tienden a aflojarlos.
 
-## Puntos fuertes y débiles
+## Lo mejor y lo peor
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3593,22 +3595,22 @@ Con **70 km/h**, el G4 **no es un VMP legal** sin limitar en España: **25 km/h 
 
 <img src=/media/patinetes/kukirin-g4-3.webp alt=KuKirin G4 en pista>
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta?
-**859 €** en la tienda europea.
+### ¿Cuál es su precio?
+859 € en la tienda europea.
 
-### ¿Es demasiado potente?
-Para ciudad a 25 km/h, sí: sobra. Para circuito o vías privadas, es su hábitat.
+### ¿Sobra potencia para la ciudad?
+En ciudad, con el tope de 25 km/h, sí sobra de sobra; en cambio, en circuito o en vías privadas encuentra su entorno natural.
 
-### ¿Qué presión llevan los neumáticos?
-**3,5 bar (50 PSI)** según el manual.
+### ¿A qué presión van las ruedas?
+A 3,5 bar (50 PSI), tal como indica el manual.
 
-### ¿G4 o G2 Max?
-El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barato. Potencia: G4. Equilibrio: G2 Max.
+### ¿Qué modelo elegir frente al G2 Max?
+El G4 gana en empuje y velocidad punta; el G2 Max, en cambio, ofrece más alcance y un precio menor. Si prima la potencia, G4; si prima el equilibrio, G2 Max.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Puede circular legalmente en España?
+Sí, siempre que vaya limitado a 25 km/h.
 
 ¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
 
