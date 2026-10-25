@@ -858,7 +858,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               ))}
             </div>
             <p className="mt-2 text-xs text-gray-500">
-              {tp?.fotos ?? <>Fotos oficiales de {coche.marca} (prensa del fabricante).</>}
+              {coche.id?.startsWith("polestar-7-2028") ? <>Imagen oficial de avance de Polestar (modelo aún cubierto; previsto para 2028). Crédito: Polestar.</> : (tp?.fotos ?? <>Fotos oficiales de {coche.marca} (prensa del fabricante).</>)}
             </p>
                       </NightGallery>
 </section>
