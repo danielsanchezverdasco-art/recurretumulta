@@ -6249,8 +6249,8 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
   },
   {
     slug: "bmw-f-900-r-2026",
-    title: "BMW F 900 R 2026: 12.950 € orientativos, 105 CV y ficha",
-    excerpt: "La BMW F 900 R 2026 ronda los 12.950 € según la prensa, sin precio oficial en España: 105 CV, 895 cc y 211 kg. Historia, mantenimiento y garantía.",
+    title: "BMW Motorrad F 900 R 2026 precio: desde 12.950 €, 105 CV",
+    excerpt: "BMW Motorrad F 900 R 2026: precio aproximado no oficial en España, 105 CV y ficha técnica. Desde 12.950 €. Opinión, rivales y qué mirar antes de comprar.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 4,
@@ -6262,45 +6262,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "naked a 2026",
       "bmw motorrad f 900 r 2026"
     ],
-    content: "<img src=/media/bmw-f-900-r-2026-hero.webp alt=BMW Motorrad F 900 R 2026, moto Naked para el carnet A>\n\n*Foto: https://www.motodeal.com.ph/motorcycles/bmw/f-900-r/price-list. No es foto oficial del fabricante; licencia desconocida.*\n\n**¿Buscas solo los datos?** <a href=/motos/bmw-f-900-r-2026/>Ver ficha técnica de la BMW Motorrad F 900 R 2026</a>: 105 CV, 211 kg y precio aproximado.\n\n## La naked media de BMW Motorrad para el carnet A\n\nDentro de la gama naked de BMW Motorrad, la F 900 R 2026 ocupa el escalón intermedio: una moto pensada para usar todos los días sin renunciar a unas prestaciones serias. Su bicilíndrico de 895 cc rinde 105 CV, equivalentes a 77,0 kW, y se combina con un peso de 211 kg con el depósito lleno. El carnet exigido es el A.\n\nEsta guía reúne el precio orientativo que circula en prensa, la ficha resumida, el recorrido del modelo desde su lanzamiento, los intervalos de mantenimiento orientativos, la garantía y las respuestas a las dudas más habituales antes de comprar.\n\n## Cuánto puede costar en España\n\nEn España no hay todavía un PVP oficial publicado para esta versión, así que la referencia disponible es un importe aproximado, no oficial, que parte de 12.950 € y procede de la prensa especializada, referida a la nueva generación de la F 900 R. Esa cantidad puede moverse según la promoción vigente, la comunidad autónoma y los gastos de matriculación, de modo que conviene confirmarla en la página oficial de la marca o en un punto de venta antes de cerrar la compra.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | BMW Motorrad F 900 R 2026 |\n| Categoría | Naked |\n| Carnet | A |\n| Cilindrada | 895 cc |\n| Potencia | 105 CV (77.0 kW) |\n| Par | 92 Nm |\n| Peso | 211 kg (depósito lleno) |\n| Depósito | 13 l |\n| Altura asiento | 815 mm |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n| Garantía | Garantía del fabricante en modelos parecidos (toda la gama BMW Motorrad España): 5 años sin límite de km para unidades matriculadas desde el 1/1/2026; modelos 2025: 3 años (MotorbikeMag / SoyMotero). |\n\n<img src=/media/bmw-f-900-r-2026-2.webp alt=BMW Motorrad F 900 R 2026, vista lateral>\n\n*Foto: https://www.gearpatrol.com/motorcycles/2026-bmw-f-900-r-frozen-grey/. No es foto oficial del fabricante; licencia desconocida.*\n\n## Recorrido del modelo\n\nLa F 900 R apareció en 2020 tomando el relevo de la F 800 R. Dos años después, en 2022, se adaptó a la normativa Euro 5. El salto más reciente llegó en 2025, cuando estrenó una nueva generación homologada Euro 5+ que incorpora de serie el modo Dynamic.\n\n## Revisiones orientativas\n\nComo orientación, y tomando como referencia un modelo parecido de la misma marca, la F 900 R y la F 800 GS, las revisiones se plantean anualmente o cada 10.000 km, atendiendo a lo que se alcance antes. Dentro de ese calendario, la revisión menor corresponde a cada 10.000 km y la mayor a cada 20.000 km, según manuales y guías de BMW.\n\n## Cobertura de garantía\n\nLa cobertura del fabricante, aplicada a modelos parecidos del conjunto de la gama de BMW Motorrad en España, llega a 5 años sin tope de kilómetros en las unidades matriculadas a partir del 1/1/2026, mientras que en los modelos 2025 es de 3 años, según MotorbikeMag y SoyMotero.\n\n## Antes de elegir entre sus rivales\n\nMerece la pena comparar esta naked con otros modelos de su misma categoría y de la propia marca antes de decidir. La ficha completa y los enlaces de la misma marca, al final del artículo, permiten hacer esa comparación con calma.\n\n## Preguntas frecuentes\n\n### ¿Qué precio orientativo tiene en España la F 900 R 2026?\n\nUn importe aproximado, no oficial, que parte de 12.950 €, publicado por la prensa para la nueva generación de la F 900 R. Antes de comprar conviene confirmar el PVP en la web oficial o en un distribuidor, porque las promociones cambian.\n\n### ¿Qué potencia declara su motor?\n\nDeclara 105 CV, es decir, 77,0 kW, con una cilindrada de 895 cc.\n\n### ¿Con qué carnet se puede conducir?\n\nCon el carnet A, verificándolo en la ficha oficial.\n\n### ¿Existe una prueba EuroNCAP para esta moto?\n\nNo existe. Las motos carecen de prueba EuroNCAP de coche, así que se indica con honestidad que no hay datos EuroNCAP.\n\n### ¿Qué garantía ofrece?\n\nLa del fabricante en modelos parecidos de la gama española de BMW Motorrad: cinco años sin tope de kilómetros para las unidades matriculadas a partir del 1/1/2026, y 3 años en los modelos 2025, según MotorbikeMag y SoyMotero.\n\n### ¿Cuándo toca pasar revisión?\n\nDe forma orientativa, tomando un modelo similar de la misma marca, la F 900 R y la F 800 GS, cada año o cada 10.000 km, lo que ocurra primero; la menor cada 10.000 km y la mayor cada 20.000 km, según manuales y guías de BMW.\n\n## Enlaces\n\n- <a href=/motos/bmw-f-900-r-2026/>Ficha completa</a>\n- <a href=/motos/bmw-s-1000-xr-2026/>Misma marca: bmw-s-1000-xr-2026</a>\n- <a href=/motos/bmw-f-900-gs-adventure-2026/>Misma marca: bmw-f-900-gs-adventure-2026</a>\n- <a href=/motos/bmw-g-310-r-2025/>Misma marca: bmw-g-310-r-2025</a>\n- <a href=/motos/bmw-m-1000-rr-2026/>Misma marca: bmw-m-1000-rr-2026</a>\n- <a href=/motos/bmw-r-12-s-2026/>Misma marca: bmw-r-12-s-2026</a>\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.\n\n*Fuentes: <a href=https://es.wikipedia.org/wiki/BMW_F900R>Ficha (895 cc, 77 kW/105 CV, 92 Nm, 211 kg, 13 l, asiento 815 mm)</a>, <a href=https://www.press.bmwgroup.com/spain/article/detail/T0446479ES/bmw-motorrad-presenta-las-nuevas-bmw-f-900-r-and-f-900-xr?showMedia=photo>Nueva generación Euro 5+, modo Dynamic de serie</a>, <a href=http://spain.shafaqna.com/ES/AL/7711056>Precio desde 12.950 € (nueva generación)</a>, <a href=https://www.motorbikemag.es/bmw-motorrad-5-anos-garantia-motos-nuevas/ ; https://soymotero.net/noticia/bmw-motorrad-amplia-garantia-a-5-anos/>Garantía 5 años (matriculadas desde 1/1/2026)</a>, <a href=https://bmw.europe-moto.com/es/blog-bmw-motorrad/guia-completa-de-mantenimiento-para-la-moto-bmw-f900xr-consejos-de-expertos-n140>Mantenimiento (cada año o 10.000 km)</a>.*"uánto costará?
-
-- **Lanzamiento:** cuarto trimestre de 2026 en China, sin fecha exacta.
-- **Precio:** **A CONFIRMAR**. BYD no ha comunicado precios oficiales del Ti 9.
-- **España / Europa:** **sin confirmación**. Fang Cheng Bao es una marca creada por BYD para el mercado chino; algunos de sus modelos se venden fuera como BYD o Denza, pero no hay confirmación de que el Ti 9 siga ese camino.
-
-Las primeras unidades ya se exponen en concesionarios chinos desde finales de septiembre de 2026, y el fabricante ha ido publicando imágenes oficiales, incluida una nueva en color «Meteorite Black».
-
-Si te interesa la marca, lee <a href=/blog/fangchengbao-byd-marca-desconocida-formula-s-bao-5/>quién es Fangchengbao, la marca secreta de BYD</a>. Y si te van los SUV de la marca, mira el <a href=/coches/fangchengbao-tai-3-2025-precio-ficha-tecnica/>Fangchengbao Tai 3</a> y el <a href=/coches/fangchengbao-bao-3-2025-precio-ficha-tecnica/>Fangchengbao Bao 3</a>.
-
-## Preguntas frecuentes
-
-### ¿El Fang Cheng Bao Ti 9 llegará a España?
-
-No hay confirmación. Es un modelo para el mercado chino y BYD no ha anunciado su venta en España o Europa, aunque otros modelos de Fang Cheng Bao se comercializan fuera como BYD o Denza.
-
-### ¿Cuánto cuesta el Fang Cheng Bao Ti 9?
-
-Precio a confirmar. BYD no ha publicado precios oficiales del Ti 9.
-
-### ¿Cuántos kilómetros hace el Ti 9?
-
-Hasta 310 km solo con electricidad y hasta 2.300 km combinando batería y depósito, según datos declarados por el fabricante. El ciclo de homologación está pendiente de verificar: unas fuentes citan CLTC y otras WLTC, y el total combinado alternativo que circula es de más de 1.600 km.
-
-### ¿Cuánto tarda en cargar la batería del Ti 9?
-
-Según BYD, con Flash Charging recupera del 10 al 97% en unos 9 minutos en condiciones adecuadas.
-
-### ¿Tiene prueba EuroNCAP el Ti 9?
-
-Sin datos EuroNCAP. No hay prueba publicada para este modelo.
-
-### ¿Ti 9 y Tai 9 son el mismo coche?
-
-**Sí. Ti 9 y Tai 9 SON EL MISMO COCHE. No se publican como dos modelos distintos.** El nombre principal es **Fang Cheng Bao Ti 9** (grafía de los materiales en inglés de BYD). **Tai 9** queda como alias: «También conocido como Tai 9». Pruebas: el mismo carácter chino 钛9 (titanio); CnEVPost escribe «Tai 9 (or Ti 9)»; FreshMotors: «badged Ti 9 in BYD's English-language material»; y la misma ficha MIIT con cifras idénticas en el artículo CnEVPost «Tai 9» (07/08/2026) y en CarNewsChina «Ti9» (11/08/2026): 5.270 / 1.999 / 1.850–1.880 mm, batalla 3.130 mm, peso 2.865 / 2.965 kg, 1.5T 110 kW, 2 motores 200 kW, batería 66,48 kWh LFP, 310 km eléctricos, Vmax 220 km/h.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html>Híbridos y Eléctricos</a>, <a href=https://carnewschina.com/2026/08/11/byd-fang-cheng-bao-ti9-officially-revealed-with-6-seats-dual-200-kw-motors-and-310-km-ev-range/>CarNewsChina (revelación 11/08/2026)</a>, <a href=https://carnewschina.com/2026/08/21/byd-fcb-ti-9-phev-crossover-with-310-km-ev-range-made-live-debut-in-china/>CarNewsChina (debut Chengdu)</a>, <a href=https://carnewschina.com/2026/10/09/byd-fang-cheng-bao-ti-9-reveals-a-new-body-color-ahead-of-q4-launch/>CarNewsChina (color Meteorite Black)</a>, <a href=https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9/>CnEVPost</a>, <a href=https://www.freshmotors.net/articles/2026-byd-fangchengbao-tai-9-six-seat-phev-flagship-with-1-600-km-range>FreshMotors</a>, <a href=https://en.wikipedia.org/wiki/Fangchengbao_Ti9>Wikipedia</a>, <a href=https://newatlas.com/automotive/byds-fcb-ti9/>NewAtlas</a>. Precio, ciclo de homologación, potencia combinada, par, 0–100, consumo, maletero, kW de carga, garantía y mantenimiento: a verificar.*`,
+    content: "<img src=/media/bmw-f-900-r-2026-hero.webp alt=BMW Motorrad F 900 R 2026, moto Naked para el carnet A>\n\n*Foto: https://www.motodeal.com.ph/motorcycles/bmw/f-900-r/price-list. No es foto oficial del fabricante; licencia desconocida.*\n\n**¿Buscas solo los datos?** <a href=/motos/bmw-f-900-r-2026/>Ver ficha técnica de la BMW Motorrad F 900 R 2026</a>: 105 CV, 211 kg y precio aproximado.\n\n## BMW Motorrad F 900 R 2026: precio, ficha y qué mirar antes de comprar\n\nLa BMW Motorrad F 900 R 2026 es una moto de categoría Naked con carnet A. Declara 105 CV (77.0 kW) con 895 cc. En esta guía tienes el precio, la ficha técnica, la historia del modelo, el mantenimiento, la garantía y las preguntas frecuentes.\n\n## Precio en España\n\nPrecio aproximado no oficial desde 12.950 €. Precio aproximado no oficial: desde 12.950 € (prensa, nueva generación F 900 R). El PVP puede variar por promoción, comunidad autónoma y gastos de matriculación. Confírmalo en la web oficial de BMW Motorrad o en un concesionario antes de comprar.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | BMW Motorrad F 900 R 2026 |\n| Categoría | Naked |\n| Carnet | A |\n| Cilindrada | 895 cc |\n| Potencia | 105 CV (77.0 kW) |\n| Par | 92 Nm |\n| Peso | 211 kg (depósito lleno) |\n| Depósito | 13 l |\n| Altura asiento | 815 mm |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n| Garantía | Garantía del fabricante en modelos parecidos (toda la gama BMW Motorrad España): 5 años sin límite de km para unidades matriculadas desde el 1/1/2026; modelos 2025: 3 años (MotorbikeMag / SoyMotero). |\n\n<img src=/media/bmw-f-900-r-2026-2.webp alt=BMW Motorrad F 900 R 2026, vista lateral>\n\n*Foto: https://www.gearpatrol.com/motorcycles/2026-bmw-f-900-r-frozen-grey/. No es foto oficial del fabricante; licencia desconocida.*\n\n## Historia del modelo\n\n- 2020: nace F 900 R (sustituye a la F 800 R)\n- 2022: Euro 5\n- 2025: nueva generación Euro 5+ con modo Dynamic de serie\n\n## Mantenimiento\n\nMantenimiento orientativo (modelo similar F 900 R / F 800 GS, misma marca): revisión cada año o 10.000 km (lo que ocurra primero); revisión menor cada 10.000 km y mayor cada 20.000 km (manuales/guías BMW).\n\n## Garantía\n\nGarantía del fabricante en modelos parecidos (toda la gama BMW Motorrad España): 5 años sin límite de km para unidades matriculadas desde el 1/1/2026; modelos 2025: 3 años (MotorbikeMag / SoyMotero).\n\n## Rivales y alternativas\n\nCompara con otros modelos de la misma categoría y marca antes de decidir. Ver enlaces 'misma marca' en ficha.json y la ficha completa.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta BMW Motorrad F 900 R 2026 en España?\n\nPrecio: Precio aproximado no oficial: desde 12.950 € (prensa, nueva generación F 900 R). Confirma el PVP en la web oficial o concesionario antes de comprar, porque las promociones cambian.\n\n### ¿Qué potencia tiene BMW Motorrad F 900 R 2026?\n\nPotencia declarada: 105 CV (77.0 kW) con 895 cc.\n\n### ¿Qué carnet hace falta para BMW Motorrad F 900 R 2026?\n\nCarnet A (verificar en ficha oficial).\n\n### ¿Tiene prueba EuroNCAP BMW Motorrad F 900 R 2026?\n\nNo. Las motos no tienen prueba EuroNCAP de coche; se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.\n\n### ¿Qué garantía tiene BMW Motorrad F 900 R 2026?\n\nGarantía: Garantía del fabricante en modelos parecidos (toda la gama BMW Motorrad España): 5 años sin límite de km para unidades matriculadas desde el 1/1/2026; modelos 2025: 3 años (MotorbikeMag / SoyMotero).\n\n### ¿Cada cuánto se revisa BMW Motorrad F 900 R 2026?\n\nMantenimiento: Mantenimiento orientativo (modelo similar F 900 R / F 800 GS, misma marca): revisión cada año o 10.000 km (lo que ocurra primero); revisión menor cada 10.000 km y mayor cada 20.000 km (manuales/guías BMW).\n\n## Enlaces\n\n- <a href=/motos/bmw-f-900-r-2026/>Ficha completa</a>\n- <a href=/motos/bmw-s-1000-xr-2026/>Misma marca: bmw-s-1000-xr-2026</a>\n- <a href=/motos/bmw-f-900-gs-adventure-2026/>Misma marca: bmw-f-900-gs-adventure-2026</a>\n- <a href=/motos/bmw-g-310-r-2025/>Misma marca: bmw-g-310-r-2025</a>\n- <a href=/motos/bmw-m-1000-rr-2026/>Misma marca: bmw-m-1000-rr-2026</a>\n- <a href=/motos/bmw-r-12-s-2026/>Misma marca: bmw-r-12-s-2026</a>\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.\n\n*Fuentes: <a href=https://es.wikipedia.org/wiki/BMW_F900R>Ficha (895 cc, 77 kW/105 CV, 92 Nm, 211 kg, 13 l, asiento 815 mm)</a>, <a href=https://www.press.bmwgroup.com/spain/article/detail/T0446479ES/bmw-motorrad-presenta-las-nuevas-bmw-f-900-r-and-f-900-xr?showMedia=photo>Nueva generación Euro 5+, modo Dynamic de serie</a>, <a href=http://spain.shafaqna.com/ES/AL/7711056>Precio desde 12.950 € (nueva generación)</a>, <a href=https://www.motorbikemag.es/bmw-motorrad-5-anos-garantia-motos-nuevas/ ; https://soymotero.net/noticia/bmw-motorrad-amplia-garantia-a-5-anos/>Garantía 5 años (matriculadas desde 1/1/2026)</a>, <a href=https://bmw.europe-moto.com/es/blog-bmw-motorrad/guia-completa-de-mantenimiento-para-la-moto-bmw-f900xr-consejos-de-expertos-n140>Mantenimiento (cada año o 10.000 km)</a>.*\n",
   },
   {
     slug: "ds-f3ver-concept-paris-2026",
@@ -12141,75 +12103,7 @@ Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa
       "deportiva a1 2026",
       "aprilia rs 125 2026"
     ],
-    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>
-
-*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026. No es foto oficial del fabricante; licencia desconocida.*
-
-**Ficha completa:** <a href=/motos/aprilia-rs-125-2026/>Ver la ficha completa de la RS 125 2026</a>
-
-## Una 125 con ambiciones de moto grande
-
-Pocas 125 presumen de parecerse tanto a una deportiva de verdad. La RS 125 2026 juega esa carta desde el nombre: Aprilia la coloca como puerta de entrada a su universo racing para quien circula con el carnet A1, con una imagen tomada de sus hermanas mayores y un motor que apura el tope legal de la categoría, 15 CV.
-
-El monocilíndrico de 124,2 cc entrega 15 CV (11,0 kW) y 12 Nm. No busca velocidad punta: su terreno es la curva, con 144 kg, un depósito de 14,5 litros y un asiento a 820 mm. Esa altura pide soltura en parado, pero en marcha da una postura deportiva auténtica, no de cartón piedra.
-
-## Precio: qué significa ese 5.750 €
-
-Para España se baraja una cifra cercana a 5.750 €: estimación sin carácter oficial de la tarifa Piaggio para la RS 125 E5+. Promociones, comunidad autónoma y gastos de matriculación pueden moverla. Antes de firmar, confírmala con Aprilia o en un concesionario y aclara qué incluye: con matriculación o sin ella, la factura final cambia mucho.
-
-## Un apellido con historia
-
-La RS 125 tiene pasado: la primera generación, de dos tiempos, salió en 1992 y marcó a toda una generación de motoristas jóvenes. La generación actual, de cuatro tiempos, llegó en 2018 adaptada a Euro 4; en 2021 pasó a Euro 5 y sumó la versión GP Replica, con la decoración de competición que busca buena parte de los compradores. Quien compra una RS 125 hoy se lleva también un trozo de esa historia.
-
-## Ficha rápida
-
-| Dato | Valor |
-|---|---|
-| Motor | 124,2 cc, 15 CV (11,0 kW), 12 Nm |
-| Peso | 144 kg |
-| Depósito | 14,5 l |
-| Asiento | 820 mm |
-| Carnet | A1 |
-| Precio | ~5.750 € (aproximado, no oficial) |
-
-<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>
-
-*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/. No es foto oficial del fabricante; licencia desconocida.*
-
-## Mantenimiento y garantía: lo que conviene saber
-
-Para el mantenimiento, sin dato oficial propio, Aprilia aplica su esquema habitual: primera revisión al llegar al millar, siguientes a los diez mil y a los veinte mil, y cadena con revisión cada mil entre engrase y tensado. Mantenerla es sencillo, pero cadena y gomas deportivas piden más mimo que en un scooter.
-
-En garantía, Piaggio da 3 años de serie, ampliables a 4 con la extensión comercial. Antes de pagarla, pide por escrito qué cubre: en una moto así, la letra pequeña pesa tanto como el precio.
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta la Aprilia RS 125 2026 en España?
-Cerca de 5.750 €, aproximación no oficial de la tarifa Piaggio para la RS 125 E5+; confírmalo en el concesionario antes de comprar.
-
-### ¿Qué potencia tiene?
-15 CV (11,0 kW), 124,2 cc y 12 Nm de par: el máximo que admite el carnet A1.
-
-### ¿Qué carnet hace falta?
-El A1; también sirve el B con tres años de antigüedad, según la normativa española vigente.
-
-### ¿Es alta para un piloto bajo?
-Asiento a 820 mm: pruébala parada antes de decidir, porque la altura se nota más en parado que en marcha.
-
-### ¿Tiene prueba EuroNCAP?
-No existe: EuroNCAP no evalúa motocicletas, así que este modelo no tiene puntuación.
-
-## También te puede interesar
-
-- <a href=/motos/aprilia-rs-660-factory-2026/>Aprilia RS 660 Factory 2026</a>
-- <a href=/motos/aprilia-tuono-660-factory-2026/>Aprilia Tuono 660 Factory 2026</a>
-- <a href=/motos/aprilia-tuareg-660-rally-2026/>Aprilia Tuareg 660 Rally 2026</a>
-- <a href=/motos/aprilia-sx-125-2026/>Aprilia SX 125 2026</a>
-- <a href=/motos/aprilia-tuono-125-2026/>Aprilia Tuono 125 2026</a>
-
-*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Piaggio</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
+    content: "<img src=/media/aprilia-rs-125-2026-hero.webp alt=Aprilia RS 125 2026, moto Deportiva para el carnet A1>\n\n*Foto: https://amp-weissenborn.de/motorrad-modell-aprilia-rs-125-10645-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n**Ficha completa:** <a href=/motos/aprilia-rs-125-2026/>Ver la ficha completa de la RS 125 2026</a>\n\n## Una 125 con ambiciones de moto grande\n\nPocas 125 presumen de parecerse tanto a una deportiva de verdad. La RS 125 2026 juega esa carta desde el nombre: Aprilia la coloca como puerta de entrada a su universo racing para quien circula con el carnet A1, con una imagen tomada de sus hermanas mayores y un motor que apura el tope legal de la categoría, 15 CV.\n\nEl monocilíndrico de 124,2 cc entrega 15 CV (11,0 kW) y 12 Nm. No busca velocidad punta: su terreno es la curva, con 144 kg, un depósito de 14,5 litros y un asiento a 820 mm. Esa altura pide soltura en parado, pero en marcha da una postura deportiva auténtica, no de cartón piedra.\n\n## Precio: qué significa ese 5.750 €\n\nPara España se baraja una cifra cercana a 5.750 €: estimación sin carácter oficial de la tarifa Piaggio para la RS 125 E5+. Promociones, comunidad autónoma y gastos de matriculación pueden moverla. Antes de firmar, confírmala con Aprilia o en un concesionario y aclara qué incluye: con matriculación o sin ella, la factura final cambia mucho.\n\n## Un apellido con historia\n\nLa RS 125 tiene pasado: la primera generación, de dos tiempos, salió en 1992 y marcó a toda una generación de motoristas jóvenes. La generación actual, de cuatro tiempos, llegó en 2018 adaptada a Euro 4; en 2021 pasó a Euro 5 y sumó la versión GP Replica, con la decoración de competición que busca buena parte de los compradores. Quien compra una RS 125 hoy se lleva también un trozo de esa historia.\n\n## Ficha rápida\n\n| Dato | Valor |\n|---|---|\n| Motor | 124,2 cc, 15 CV (11,0 kW), 12 Nm |\n| Peso | 144 kg |\n| Depósito | 14,5 l |\n| Asiento | 820 mm |\n| Carnet | A1 |\n| Precio | ~5.750 € (aproximado, no oficial) |\n\n<img src=/media/aprilia-rs-125-2026-2.webp alt=Aprilia RS 125 2026, vista lateral>\n\n*Foto: https://www.motopark.cz/aprilia-rs-125-2025-2026-cyanide-yellow-p763170/. No es foto oficial del fabricante; licencia desconocida.*\n\n## Mantenimiento y garantía: lo que conviene saber\n\nPara el mantenimiento, sin dato oficial propio, Aprilia aplica su esquema habitual: primera revisión al llegar al millar, siguientes a los diez mil y a los veinte mil, y cadena con revisión cada mil entre engrase y tensado. Mantenerla es sencillo, pero cadena y gomas deportivas piden más mimo que en un scooter.\n\nEn garantía, Piaggio da 3 años de serie, ampliables a 4 con la extensión comercial. Antes de pagarla, pide por escrito qué cubre: en una moto así, la letra pequeña pesa tanto como el precio.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta la Aprilia RS 125 2026 en España?\nCerca de 5.750 €, aproximación no oficial de la tarifa Piaggio para la RS 125 E5+; confírmalo en el concesionario antes de comprar.\n\n### ¿Qué potencia tiene?\n15 CV (11,0 kW), 124,2 cc y 12 Nm de par: el máximo que admite el carnet A1.\n\n### ¿Qué carnet hace falta?\nEl A1; también sirve el B con tres años de antigüedad, según la normativa española vigente.\n\n### ¿Es alta para un piloto bajo?\nAsiento a 820 mm: pruébala parada antes de decidir, porque la altura se nota más en parado que en marcha.\n\n### ¿Tiene prueba EuroNCAP?\nNo existe: EuroNCAP no evalúa motocicletas, así que este modelo no tiene puntuación.\n\n## También te puede interesar\n\n- <a href=/motos/aprilia-rs-660-factory-2026/>Aprilia RS 660 Factory 2026</a>\n- <a href=/motos/aprilia-tuono-660-factory-2026/>Aprilia Tuono 660 Factory 2026</a>\n- <a href=/motos/aprilia-tuareg-660-rally-2026/>Aprilia Tuareg 660 Rally 2026</a>\n- <a href=/motos/aprilia-sx-125-2026/>Aprilia SX 125 2026</a>\n- <a href=/motos/aprilia-tuono-125-2026/>Aprilia Tuono 125 2026</a>\n\n*Fuentes: <a href=https://www.tifonmotor.com//kawasaki/documentos/precios/Aprilia-PVP-24-03-26.pdf>Precio (5.750 €, Tarifa Piaggio RS 125 E5+)</a>, <a href=https://www.mundomotero.com/motos/aprilia/rs-125>Ficha técnica (124,2 cc, 15 CV, 14,5 l, asiento 820 mm)</a>, <a href=https://21.motos.coches.net/fichas_tecnicas/aprilia/rs_125_replica/9936/>Ficha técnica (15 CV a 10.500 rpm, 12 Nm)</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/aprilia-rs-125-gp-replica-2022/>Peso 144 kg, depósito 14,5 l</a>, <a href=https://www.piaggio.com/wlassets/vespa/master/after-sales/garanzia-4-anni/ES---2-pag---3-anni---1_letterhead-Garanzia-Commerciale-Estesa-piaggio/original/ES+-+2+pag+-+3+anni+++1_letterhead-Garanzia+Commerciale+Estesa-piaggio.pdf>Garantía Piaggio</a>, <a href=https://es.safe-manuals.com/source/pdf/fbeac8c2-4983-422b-ac97-d9d44c47864e>Mantenimiento Aprilia</a>.*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.",
   },
   {
     slug: "aprilia-rs-660-factory-2026",
@@ -12379,96 +12273,7 @@ No existe: EuroNCAP no evalúa motocicletas, así que este modelo no tiene puntu
       "scrambler a 2026",
       "benelli leoncino 800 trail 2026"
     ],
-    content: "<img src=/media/benelli-leoncino-800-trail-2026-hero.webp alt=Benelli Leoncino 800 Trail 2026, moto Scrambler para el carnet A>
-
-*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*
-
-**¿Buscas solo los datos?** <a href=/motos/benelli-leoncino-800-trail-2026/>Ver ficha técnica de la Benelli Leoncino 800 Trail 2026</a>: 76 CV, 224 kg y precio aproximado.
-
-## Benelli Leoncino 800 Trail 2026: precio, ficha y qué mirar antes de comprar
-
-La Leoncino 800 Trail 2026 es la Scrambler de Benelli para el carnet A, con 754 cc y 76 CV (56.0 kW). Esta guía reúne precio, ficha técnica, historia, mantenimiento, garantía y preguntas frecuentes.
-
-## Precio en España
-
-Se anuncia desde 6.990 €, precio aproximado no oficial según MP Racing para la Leoncino 800 Trail, sin gastos de pre-entrega, matriculación ni transporte. Promociones, comunidad autónoma y gastos de matriculación pueden mover el PVP: confírmalo en la web oficial de Benelli o en un concesionario antes de comprar.
-
-## Ficha técnica
-
-| Dato | Valor |
-|---|---|
-| Marca / modelo | Benelli Leoncino 800 Trail 2026 |
-| Categoría | Scrambler |
-| Carnet | A |
-| Cilindrada | 754 cc |
-| Potencia | 76 CV (56.0 kW) |
-| Par | 67 Nm |
-| Peso | 224 kg (en seco) |
-| Depósito | 15 l |
-| Altura asiento | 825 mm |
-| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |
-| Garantía | Garantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo). |
-
-<img src=/media/benelli-leoncino-800-trail-2026-2.webp alt=Benelli Leoncino 800 Trail 2026, vista lateral>
-
-*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*
-
-## Historia del modelo
-
-La saga arranca en 1951 con la Leoncino original. La 500 la recuperó en 2017, y la 800 Trail apareció en 2021.
-
-## Mantenimiento
-
-Como referencia orientativa, el intervalo de servicio es cada 6.000 km, tomado de un modelo similar de la misma marca, el TRK 502, según reseña de su propietario.
-
-## Garantía
-
-En modelos parecidos —TRK 502, TRK 502 X, 502C y 500 cc o superiores— el fabricante da 5 años, según MP Racing y Motissimo, concesionarios oficiales.
-
-## Rivales y alternativas
-
-Antes de decidir, mírala frente a otros modelos de su categoría y marca: los enlaces de 'misma marca' están en ficha.json, junto a la ficha completa.
-
-## Preguntas frecuentes
-
-### ¿Cuánto cuesta Benelli Leoncino 800 Trail 2026 en España?
-
-6.990 € aproximados y no oficiales (MP Racing, Leoncino 800 Trail; sin pre-entrega, matriculación ni transporte). Confirma el PVP en la web oficial o en el concesionario antes de comprar: las promociones cambian.
-
-### ¿Qué potencia tiene Benelli Leoncino 800 Trail 2026?
-
-Declarados: 76 CV (56.0 kW) con 754 cc.
-
-### ¿Qué carnet hace falta para Benelli Leoncino 800 Trail 2026?
-
-Carnet A (verifícalo en la ficha oficial).
-
-### ¿Tiene prueba EuroNCAP Benelli Leoncino 800 Trail 2026?
-
-No. Las motos no tienen prueba EuroNCAP de coche: se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.
-
-### ¿Qué garantía tiene Benelli Leoncino 800 Trail 2026?
-
-En modelos parecidos (TRK 502, TRK 502 X, 502C, 500 cc o superiores): 5 años del fabricante (MP Racing / Motissimo, concesionarios oficiales).
-
-### ¿Cada cuánto se revisa Benelli Leoncino 800 Trail 2026?
-
-Intervalo orientativo de servicio cada 6.000 km, de un modelo similar de la misma marca, el TRK 502 (reseña de su propietario).
-
-## Enlaces
-
-- <a href=/motos/benelli-leoncino-800-trail-2026/>Ficha completa</a>
-- <a href=/motos/benelli-trk-502-2026/>Misma marca: benelli-trk-502-2026</a>
-- <a href=/motos/benelli-trk-502x-2026/>Misma marca: benelli-trk-502x-2026</a>
-- <a href=/motos/benelli-trk-702-2026/>Misma marca: benelli-trk-702-2026</a>
-- <a href=/motos/benelli-tornado-500-2025/>Misma marca: benelli-tornado-500-2025</a>
-- <a href=/motos/benelli-imperiale-400-2026/>Misma marca: benelli-imperiale-400-2026</a>
-- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://mpracing.es/benelli-motos/55991-moto-benelli-leoncino-800-trail.html>Precio (6.990 €) y ficha (peso seco 224 kg, asiento 825 mm, 15 l)</a>, <a href=https://www.motofichas.com/marcas/benelli/leoncino-800-trail>Ficha (754 cc, 76 CV, 234 kg)</a>, <a href=https://www.galgo.com/cl/motos/CL471-benelli-leoncino-800-trail>Ficha (754 cc, 76,2 CV, 67 Nm, 15 l)</a>, <a href=https://mpracing.es/757-benelli-motos ; https://motissimo.es/benelli/>Garantía 5 años modelos 500 cc o superiores</a>, <a href=http://es.riderchris.com/benelli-trk-502-malaysia-review/>Mantenimiento TRK 502 (intervalo 6.000 km)</a>.*
-",
+    content: "<img src=/media/benelli-leoncino-800-trail-2026-hero.webp alt=Benelli Leoncino 800 Trail 2026, moto Scrambler para el carnet A>\n\n*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n**¿Buscas solo los datos?** <a href=/motos/benelli-leoncino-800-trail-2026/>Ver ficha técnica de la Benelli Leoncino 800 Trail 2026</a>: 76 CV, 224 kg y precio aproximado.\n\n## Benelli Leoncino 800 Trail 2026: precio, ficha y qué mirar antes de comprar\n\nLa Leoncino 800 Trail 2026 es la Scrambler de Benelli para el carnet A, con 754 cc y 76 CV (56.0 kW). Esta guía reúne precio, ficha técnica, historia, mantenimiento, garantía y preguntas frecuentes.\n\n## Precio en España\n\nSe anuncia desde 6.990 €, precio aproximado no oficial según MP Racing para la Leoncino 800 Trail, sin gastos de pre-entrega, matriculación ni transporte. Promociones, comunidad autónoma y gastos de matriculación pueden mover el PVP: confírmalo en la web oficial de Benelli o en un concesionario antes de comprar.\n\n## Ficha técnica\n\n| Dato | Valor |\n|---|---|\n| Marca / modelo | Benelli Leoncino 800 Trail 2026 |\n| Categoría | Scrambler |\n| Carnet | A |\n| Cilindrada | 754 cc |\n| Potencia | 76 CV (56.0 kW) |\n| Par | 67 Nm |\n| Peso | 224 kg (en seco) |\n| Depósito | 15 l |\n| Altura asiento | 825 mm |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n| Garantía | Garantía del fabricante en modelos parecidos (TRK 502, TRK 502 X, 502C, modelos 500 cc o superiores): 5 años (concesionarios oficiales MP Racing / Motissimo). |\n\n<img src=/media/benelli-leoncino-800-trail-2026-2.webp alt=Benelli Leoncino 800 Trail 2026, vista lateral>\n\n*Foto: http://scherzer-gmbh.de/motorcycle-model-benelli-leoncino-800-trail-10900-2026. No es foto oficial del fabricante; licencia desconocida.*\n\n## Historia del modelo\n\nLa saga arranca en 1951 con la Leoncino original. La 500 la recuperó en 2017, y la 800 Trail apareció en 2021.\n\n## Mantenimiento\n\nComo referencia orientativa, el intervalo de servicio es cada 6.000 km, tomado de un modelo similar de la misma marca, el TRK 502, según reseña de su propietario.\n\n## Garantía\n\nEn modelos parecidos —TRK 502, TRK 502 X, 502C y 500 cc o superiores— el fabricante da 5 años, según MP Racing y Motissimo, concesionarios oficiales.\n\n## Rivales y alternativas\n\nAntes de decidir, mírala frente a otros modelos de su categoría y marca: los enlaces de 'misma marca' están en ficha.json, junto a la ficha completa.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta Benelli Leoncino 800 Trail 2026 en España?\n\n6.990 € aproximados y no oficiales (MP Racing, Leoncino 800 Trail; sin pre-entrega, matriculación ni transporte). Confirma el PVP en la web oficial o en el concesionario antes de comprar: las promociones cambian.\n\n### ¿Qué potencia tiene Benelli Leoncino 800 Trail 2026?\n\nDeclarados: 76 CV (56.0 kW) con 754 cc.\n\n### ¿Qué carnet hace falta para Benelli Leoncino 800 Trail 2026?\n\nCarnet A (verifícalo en la ficha oficial).\n\n### ¿Tiene prueba EuroNCAP Benelli Leoncino 800 Trail 2026?\n\nNo. Las motos no tienen prueba EuroNCAP de coche: se indica honestamente 'sin datos EuroNCAP (motos no tienen prueba EuroNCAP)'.\n\n### ¿Qué garantía tiene Benelli Leoncino 800 Trail 2026?\n\nEn modelos parecidos (TRK 502, TRK 502 X, 502C, 500 cc o superiores): 5 años del fabricante (MP Racing / Motissimo, concesionarios oficiales).\n\n### ¿Cada cuánto se revisa Benelli Leoncino 800 Trail 2026?\n\nIntervalo orientativo de servicio cada 6.000 km, de un modelo similar de la misma marca, el TRK 502 (reseña de su propietario).\n\n## Enlaces\n\n- <a href=/motos/benelli-leoncino-800-trail-2026/>Ficha completa</a>\n- <a href=/motos/benelli-trk-502-2026/>Misma marca: benelli-trk-502-2026</a>\n- <a href=/motos/benelli-trk-502x-2026/>Misma marca: benelli-trk-502x-2026</a>\n- <a href=/motos/benelli-trk-702-2026/>Misma marca: benelli-trk-702-2026</a>\n- <a href=/motos/benelli-tornado-500-2025/>Misma marca: benelli-tornado-500-2025</a>\n- <a href=/motos/benelli-imperiale-400-2026/>Misma marca: benelli-imperiale-400-2026</a>\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.\n\n*Fuentes: <a href=https://mpracing.es/benelli-motos/55991-moto-benelli-leoncino-800-trail.html>Precio (6.990 €) y ficha (peso seco 224 kg, asiento 825 mm, 15 l)</a>, <a href=https://www.motofichas.com/marcas/benelli/leoncino-800-trail>Ficha (754 cc, 76 CV, 234 kg)</a>, <a href=https://www.galgo.com/cl/motos/CL471-benelli-leoncino-800-trail>Ficha (754 cc, 76,2 CV, 67 Nm, 15 l)</a>, <a href=https://mpracing.es/757-benelli-motos ; https://motissimo.es/benelli/>Garantía 5 años modelos 500 cc o superiores</a>, <a href=http://es.riderchris.com/benelli-trk-502-malaysia-review/>Mantenimiento TRK 502 (intervalo 6.000 km)</a>.*\n",
   },
   {
     slug: "benelli-tornado-500-2025",
