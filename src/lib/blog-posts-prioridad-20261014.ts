@@ -14685,8 +14685,8 @@ Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 
   },
   {
     slug: "energica-eva-esseesse9-plus-2025-precio-ficha-tecnica",
-    title: "Energica Eva EsseEsse9+ 2025 precio: 24.590 £, 109 CV",
-    excerpt: "Energica Eva EsseEsse9+ 2025: precio aproximado 24.590 £ (Reino Unido), 109 CV y 80 kW. Naked eléctrica italiana. Ficha y FAQ incluidos.",
+    title: "Energica Eva EsseEsse9+ 2025: 109 CV y 24.590 £",
+    excerpt: "Naked eléctrica italiana con 109 CV, batería de 21,5 kWh y 400 km urbanos: precio británico aproximado, ficha y dudas resueltas.",
     category: "Novedades Motor",
     date: "2026-10-14",
     readTime: 5,
@@ -14694,17 +14694,17 @@ Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 
     keywords: ["Energica Eva EsseEsse9+ 2025", "Energica Eva EsseEsse9+ precio", "Energica Eva EsseEsse9+ ficha técnica", "Energica Eva EsseEsse9+ opiniones", "motos Energica 2025"],
     content: `<img src=/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-hero.webp alt=Energica Eva EsseEsse9+ 2025>
 
-*Foto: Geek Culture (no oficial). Licencia desconocida / posible copyright.*
+*Crédito: Geek Culture, material no oficial; derechos sin confirmar.*
 
-> Precio en página: **24.590 £**. Precio aproximado no oficial 24.590 £ (Hayball, concesionario Energica UK: «STARTS FROM £24,590.00»). Sin PVP España. No es PVP oficial.
+> En Reino Unido arranca en **24.590 £** según Hayball, cifra aproximada y sin carácter oficial. Para España no existe PVP publicado.
 
-## Eva EsseEsse9+ 2025: lo esencial
+## Lo que define a esta naked
 
-La Eva EsseEsse9+ es la naked retro-eléctrica de Energica: postura cómoda, par instantáneo y la misma batería grande que la Ego+.
+Bajo una silueta de otro tiempo, esta Eva combina la comodidad propia de una naked clásica con la respuesta inmediata de un propulsor eléctrico y con el acumulador de mayor tamaño que también monta la Ego+.
 
-Para quien quiere una naked con carácter clásico, entrega eléctrica y carga rápida, sin pasar por gasolina.
+Va dirigida a quien busca carácter retro, empuje eléctrico y recarga rápida, y no quiere depender de la gasolina para moverse cada día.
 
-## Ficha rápida
+## Datos de un vistazo
 
 | Dato | Valor |
 |---|---|
@@ -14722,28 +14722,31 @@ Para quien quiere una naked con carácter clásico, entrega eléctrica y carga r
 
 <img src=/media/energica-eva-esseesse9-plus-2025-ficha-tecnica-precio-2.webp alt=Energica Eva EsseEsse9+ 2025, detalle>
 
-*Foto: 1000PS (no oficial). Licencia desconocida / posible copyright.*
-## Historia del modelo
+*Crédito: 1000PS, material no oficial; derechos sin confirmar.*
 
-- **2018 aprox.** — Energica lanza la Eva EsseEsse9 como naked eléctrica con estética retro. Fecha exacta a verificar.
-- **2021 aprox.** — Versión + con batería de 21,5 kWh y más autonomía. Fecha exacta a verificar.
-- **2025** — Eva EsseEsse9+ en catálogo con 80 kW, 200 Nm y 0–100 en 3,0 s según datos del fabricante.
+## Tres fechas en su trayectoria
 
-## Mantenimiento
+- **Hacia 2018** — Energica presentó la Eva EsseEsse9, una naked eléctrica de aire retro. El año exacto está aún por verificar.
+- **Hacia 2021** — Llegó la variante +, con un acumulador de 21,5 kWh y mayor alcance. La fecha precisa queda pendiente de confirmación.
+- **2025** — En el catálogo aparece la Eva EsseEsse9+ declarando 80 kW y 200 Nm, además de un 0 a 100 en 3,0 s según el fabricante.
 
-Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses. Fuente: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf. Eléctrica: sin aceite ni embrague.
+## Revisiones y cuidados
 
-## Garantía
+El manual de la Eva programa la primera visita a los 1.000 km, la segunda a los 10.000 y la tercera a los 20.000, además de controles a los 12 y a los 24 meses. Al ser eléctrica, no hay aceite ni embrague que atender.
 
-Vehículo 2 años; batería 3 años / 50.000 km (Energica UK).
+*Fuentes: manual de la propietaria Energica Eva: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf*
 
-## Contexto: la naked clásica de la pionera de Módena
+## Cobertura del fabricante
 
-Energica nació en Módena, en pleno Motor Valley italiano, y se hizo un nombre como la primera marca de motos eléctricas de altas prestaciones, llegando a ser proveedora única del mundial de MotoE en su etapa inicial. La Eva EsseEsse9 toma el nombre de la Via Emilia —la SS9, la histórica calzada romana que cruza la región— y lo aplica a su modelo de estética clásica: faro redondo, líneas retro y, debajo, la misma plataforma eléctrica de la deportiva Ego. La gama y la filosofía de la marca se recogen en la <a href=https://www.energicamotor.com/>web oficial de Energica Motor Company</a>. La versión «+» es la de batería grande, **21,5 kWh**, pensada para no vivir pendiente del enchufe.
+Según Energica UK, el vehículo queda cubierto 2 años, y la batería, 3 años o hasta 50.000 km.
 
-## Profundidad técnica: 109 CV y 200 Nm sin cambio ni embrague
+## Módena, la SS9 y una pionera eléctrica
 
-El motor eléctrico entrega **80 kW (109 CV) y 200 Nm** de par instantáneo, con transmisión por cadena y sin cambio manual: girar el puño y salir. El fabricante declara un 0-100 en el entorno de los **3,0 segundos** para esta versión y unas autonomías que este artículo ya desglosa con honestidad: **400 km en ciudad, 230 km en ciclo combinado y 180 km en extraurbano**, siempre según el fabricante y variables con velocidad, frío y carga. La carga rápida en corriente continua es su otra gran baza frente a naked eléctricas más modestas.
+La marca tiene su origen en Módena, en el corazón del Motor Valley italiano, y se dio a conocer como la primera firma de motos eléctricas de altas prestaciones, hasta convertirse en suministradora exclusiva del mundial de MotoE durante su primera etapa. El nombre Eva EsseEsse9 remite a la Via Emilia, la SS9, esa antigua vía romana que atraviesa la región, y se aplica a un modelo de imagen clásica: faro redondo, trazos retro y, por debajo, la misma base eléctrica de la deportiva Ego; además, la gama y la filosofía de la firma se explican en la <a href=https://www.energicamotor.com/>web oficial de Energica Motor Company</a>. La variante «+» es la del acumulador grande, **21,5 kWh**, pensada para no estar pendiente del enchufe a cada momento.
+
+## Empuje eléctrico sin palanca de cambios
+
+El propulsor eléctrico anuncia 200 Nm de par y 109 CV (80 kW), con transmisión por cadena y sin palanca de cambios: basta con girar el puño para arrancar. El fabricante sitúa el 0 a 100 en torno a los **3,0 segundos** para esta variante y declara unas autonomías que este artículo presenta con franqueza: **180 km fuera de ciudad, 230 km en uso mixto y 400 km en ciudad**, siempre según el fabricante, con variaciones ligadas a velocidad, frío y carga. La recarga rápida en corriente continua es su otro gran atractivo frente a naked eléctricas más modestas.
 
 | Dato | Eva EsseEsse9+ |
 |---|---|
@@ -14754,43 +14757,47 @@ El motor eléctrico entrega **80 kW (109 CV) y 200 Nm** de par instantáneo, con
 | Carnet | A |
 | Precio | 24.590 £ aprox. no oficial (sin PVP España) |
 
-## Uso real: músculo eléctrico con peso real
+## En carretera: brío y kilos
 
-Con el par disponible desde parado, su terreno favorito es la carretera de curvas a ritmo vivo y la ciudad silenciosa. Las limitaciones son las de su generación tecnológica: el peso —entre 260 y 280 kg según la fuente, como ya advierte la ficha de este artículo— se nota en maniobras en parado y en cambios de dirección rápidos, y la autonomía extraurbana de 180 km declarados marca el radio de las salidas de fin de semana. La postura naked y el asiento a 810 mm la hacen, eso sí, más amable a diario que su hermana carenada.
+El par instantáneo desde parado hace que brille en carreteras de curvas a ritmo vivo y rodando en silencio por ciudad. Las limitaciones son las propias de su generación tecnológica: el peso, que según la fuente oscila entre 260 y 280 kg —la ficha de este artículo ya lo advierte—, se deja notar al moverla en parado y en los giros rápidos, mientras que los 180 km extraurbanos declarados acotan el radio de las escapadas de fin de semana. En cambio, la postura naked y un asiento a 810 mm la hacen más llevadera a diario que su hermana carenada.
 
-## Mantenimiento, garantía y carnet
+## Papeles, revisiones y permiso
 
-El mantenimiento ya documentado en este artículo procede del manual de la propia Energica: **revisiones a los 1.000, 10.000 y 20.000 km** y controles cada 12 y 24 meses, sin aceite ni embrague que atender, aunque con cadena que engrasar y ajustar como en una moto convencional. La garantía que recoge este análisis es de **2 años para el vehículo y 3 años o 50.000 km para la batería** según Energica UK. Con 109 CV exige el **carnet A** sin atajos, la ITV sigue el calendario general de las motocicletas y, como recuerda la propia ficha, las motos no tienen prueba Euro NCAP: no hay nota que citar, ni a favor ni en contra.
+El manual de la propia Energica documenta las revisiones de este artículo: primera a los 1.000 km, segunda a los 10.000 y tercera a los 20.000, más controles a los 12 y a los 24 meses. No hay aceite ni embrague que atender, aunque la cadena pide engrase y tensado como en cualquier moto convencional. Según Energica UK, la batería queda cubierta 3 años o hasta 50.000 km, y el vehículo, 2 años. Sus 109 CV obligan al permiso A sin atajos; la ITV aplica a las motocicletas su calendario general y, como recuerda la propia ficha, ninguna moto pasa prueba Euro NCAP, así que no existe nota que citar, ni buena ni mala.
 
-## Rivales y veredicto: ¿merece la pena?
+## Frente a sus rivales y sentencia final
 
-Con fichas de este sitio, la <a href=/motos/livewire-one-2024-ficha-tecnica-precio/>LiveWire One</a> ofrece 100 CV y 235 km de autonomía con 255 kg: es la rival americana, de planteamiento más urbano. La <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F</a> suma 110 CV y 283 km declarados con solo 227 kg, la opción ligera del trío. La Energica responde con la batería más grande y la carga rápida como argumentos de viaje.
+Entre las fichas de este sitio, la <a href=/motos/livewire-one-2024-ficha-tecnica-precio/>LiveWire One</a> declara 100 CV, un alcance de 235 km y 255 kg: la competidora americana, de enfoque más urbano. La <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F</a>, por su parte, suma 110 CV, 283 km declarados y solo 227 kg, la alternativa ligera del trío. La Energica contesta con el acumulador más grande y la recarga rápida como bazas de viaje.
 
-**Veredicto:** la EsseEsse9+ merece la pena para quien quiere una naked eléctrica con carácter clásico, batería seria y carga rápida, y acepta su peso y un precio sin PVP oficial en España —24.590 £ de referencia británica, no oficial—. No es para quien priorice agilidad en parado ni una red comercial amplia. 
+**Veredicto:** la EsseEsse9+ compensa a quien busca una naked eléctrica de carácter clásico, con batería seria y recarga rápida, y acepta tanto su peso como la ausencia de PVP oficial en España: 24.590 £ como referencia británica, no oficial. No encaja con quien dé prioridad a la agilidad en parado ni a una red comercial extensa.
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Qué autonomía real tiene la Eva EsseEsse9+?
-
-Declarada: 400 km en ciudad, 230 km combinada y 180 km extraurbana. En uso real varía con velocidad, frío y carga.
-
-### ¿Lleva cambio o embrague?
-
-No: motor eléctrico con transmisión por cadena, sin cambio manual. Los modos de conducción y la regeneración se gestionan electrónicamente.
-
-### ¿Qué carnet hace falta para Eva EsseEsse9+ 2025?
+### ¿Qué permiso exige conducirla?
 
 Carnet A.
 
-### ¿Cuánto cuesta Eva EsseEsse9+ 2025 en España?
+### ¿Se vende con precio oficial en España?
 
-Precio aproximado no oficial: 24.590 £ (Hayball, concesionario Energica UK). Sin PVP España.
-### ¿Qué garantía tiene?
+Unos 24.590 £ aproximados y no oficiales, según Hayball, concesionario Energica UK. En España no hay PVP.
 
-Vehículo 2 años; batería 3 años / 50.000 km (Energica UK).
-### ¿Qué mantenimiento necesita?
+### ¿Cuánto dura la cobertura?
 
-Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses. Fuente: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf. Eléctrica: sin aceite ni embrague.
+Dos años para el vehículo; para la batería, 3 años o hasta 50.000 km (Energica UK).
+
+### ¿Cada cuánto pasa por el taller?
+
+El manual Energica Eva programa visitas a los 1.000 km, a los 10.000 y a los 20.000, con controles a los 12 y a los 24 meses. Al ser eléctrica, no hay aceite ni embrague que atender.
+
+*Fuentes: manual de la propietaria Energica Eva: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf*
+
+### ¿Cuántos kilómetros aguanta una carga?
+
+Declarados: 180 km fuera de ciudad, 230 km en uso mixto y 400 km en ciudad. En uso real cambia con la velocidad, el frío y la carga.
+
+### ¿Hay que cambiar de marcha o accionar embrague?
+
+No: propulsor eléctrico con transmisión por cadena, sin palanca de cambios. La regeneración y los modos de conducción se controlan por vía electrónica.
 
 ## Enlaces relacionados
 

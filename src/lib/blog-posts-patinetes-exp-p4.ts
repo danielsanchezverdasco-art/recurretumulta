@@ -1189,9 +1189,9 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
   },
   {
     slug: "evercross-h7",
-    title: "Evercross H7: 800 W, 720 Wh y certificación UL",
+    title: "Evercross H7: patinete con sillín, 800 W y 720 Wh",
     excerpt:
-      "El Evercross H7 es el mejor de la serie H: 800 W, 720 Wh, 45 km declarados, certificación UL2272 y sillín, por ~550 €.",
+      "Evercross H7 por ~550 €: patinete con asiento extraíble, motor de 800 W, batería de 720 Wh, 30 km reales y certificación UL2272.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -1210,7 +1210,7 @@ El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si 
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-h7/>Ver ficha técnica del Evercross H7</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-El **Evercross H7** es el más completo de la serie H: **800 W** de pico, batería de **48 V y 15 Ah (720 Wh)**, **45 km** declarados, **certificación UL2272** y **sillín desmontable**, por **~550 €** (<a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>Amazon</a> lo vende con más de 1.300 reseñas).
+Dentro del catálogo de la marca, este H7 ocupa el escalón superior: combina un motor con **800 W** de pico, una batería de **48 V y 15 Ah**, esto es, **720 Wh**, una autonomía homologada de **45 km**, la certificación eléctrica **UL2272** y un asiento que se puede quitar, todo por un precio que ronda los **~550 €** (<a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>Amazon</a> acumula más de 1.300 valoraciones de compradores, un volumen que da una idea de su difusión en la venta por internet).
 
 ## Ficha técnica resumida
 
@@ -1229,23 +1229,23 @@ El **Evercross H7** es el más completo de la serie H: **800 W** de pico, bater�
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-h7/>Ficha técnica completa del Evercross H7</a> con todos los datos verificados.
 
-## Precio del Evercross H7 en España
+## Precio en España
 
-Entre **550 y 650 €** al cambio según oferta. La certificación UL2272 (seguridad eléctrica) lo distingue de sus hermanos: pocos patinetes chinos de este precio la tienen.
+Según la tienda y el momento, el desembolso se mueve entre **550 y 650 €** al cambio. Lo que realmente lo separa de sus hermanos de gama es el sello **UL2272** de seguridad eléctrica: entre los patinetes chinos de este escalón de precio, muy pocos pueden presumirlo.
 
 <img src=/media/patinetes/evercross-h7-2.webp alt=Detalle de la suspensión delantera de cuatro muelles del Evercross H7>
 
 ## Autonomía real vs declarada
 
-Declara **45 km**; con 720 Wh y 800 W, en uso mixto espera **unos 30 km**. Suficiente para dos días de commuting sin cargar.
+La cifra oficial es **45 km**, pero con una batería de **720 Wh** y un motor de **800 W** de pico, el alcance razonable en uso variado ronda los **30 km**. Esa distancia da para ir y volver al trabajo durante dos jornadas sin pasar por el enchufe.
 
 ## Frenos y neumáticos
 
-**Doble disco** y ruedas **macizas todoterreno de 10 pulgadas**, con **suspensión de cuatro muelles delante** y amortiguación trasera: el conjunto más cómodo de Evercross sin neumáticos.
+Frena con **dos discos** y rueda sobre cubiertas **macizas todoterreno de 10 pulgadas**, sin aire en su interior. Delante monta una **suspensión de cuatro muelles** y detrás otro sistema de amortiguación: en conjunto, es la propuesta más confortable de Evercross entre las que prescinden de neumáticos hinchables.
 
 ## Certificado DGT y normativa VMP
 
-Sin certificado DGT verificado (la UL2272 es de seguridad eléctrica, no de circulación). Sus **~45 km/h** exigen **limitarlo a 25 km/h** para la normativa VMP; prohibido en **aceras**.
+No consta un certificado DGT verificado para este modelo: la **UL2272** avala la seguridad eléctrica, no la circulación. Como su velocidad ronda los **~45 km/h**, hay que caparlo a **25 km/h** para cumplir la normativa de los VMP, y las aceras quedan vetadas.
 
 ## Puntos fuertes y débiles
 
@@ -1259,11 +1259,11 @@ Sin certificado DGT verificado (la UL2272 es de seguridad eléctrica, no de circ
 
 <img src=/media/patinetes/evercross-h7-3.webp alt=Evercross H7 en un camino de tierra>
 
-## Evercross y la serie H: el patinete con sillín para adultos
+## Evercross y su serie H
 
-Evercross se ha hecho un hueco en el mercado de patinetes de plataforma vendiendo una idea distinta a la del patinete urbano ligero: modelos grandes, con sillín desmontable y ruedas macizas todoterreno, pensados para adultos que recorren distancias medias y prefieren ir sentados. La serie H es su gama alta, y el H7 su tope: comparte plataforma de 800 W con el H5 pero añade la batería grande de 15 Ah, la suspensión delantera de cuatro muelles y la certificación UL2272 de seguridad eléctrica, un sello poco frecuente en patinetes de este precio y que algunos campus y ciudades de EE. UU. exigen. Es un producto de venta online (Amazon lo distribuye con miles de reseñas), con las ventajas e inconvenientes que eso implica en postventa.
+La marca ha crecido en el mercado de los patinetes de plataforma con una idea diferente a la del urbano ligero: vehículos grandes, con asiento extraíble y ruedas macizas para todo terreno, orientados a personas adultas que hacen recorridos medios y prefieren desplazarse sentadas. Dentro de su gama alta, la serie H, el H7 queda en lo más alto: usa la misma base de **800 W** que el H5, aunque suma una batería de 15 Ah de mayor capacidad y la suspensión delantera de cuatro muelles, además del sello **UL2272** de seguridad eléctrica, poco habitual en este precio y exigido por algunos campus y ciudades de Estados Unidos. Se vende por internet —Amazon lo distribuye con miles de valoraciones—, con lo bueno y lo malo que eso supone para la postventa.
 
-## Técnica a fondo: 720 Wh y ruedas macizas de 10 pulgadas
+## Técnica: batería grande y peso alto
 
 | Concepto | Dato del Evercross H7 |
 |---|---|
@@ -1276,39 +1276,39 @@ Evercross se ha hecho un hueco en el mercado de patinetes de plataforma vendiend
 | Ruedas | 10 pulgadas macizas todoterreno |
 | Certificación | UL2272 (seguridad eléctrica) |
 
-La lectura técnica es clara: 720 Wh es una batería grande para un patinete de ~550 €, y explica tanto la autonomía real estimada (30 km, suficiente para dos días de commuting) como los 25 kg de peso. Las ruedas macizas eliminan el pinchazo, el mantenimiento más odioso del patinete, a cambio de menos agarre en mojado y menos filtrado, algo que la suspensión de cuatro muelles delante intenta compensar. El doble freno de disco es el componente de seguridad clave con un conjunto de este peso y velocidad potencial. La app con control de crucero y bloqueo completa un paquete que, sobre el papel, compite con patinetes de marcas mucho más caras.
+La interpretación de los números es directa: **720 Wh** supone un acumulador generoso para un patinete de unos **550 €**, y justifica a la vez el alcance real calculado, en torno a **30 km** —bastante para dos días de desplazamientos—, y un peso que ronda los **25 kg**. Al no llevar cámara, las ruedas macizas suprimen los pinchazos, la avería más molesta de estos vehículos, aunque se paga con menor adherencia sobre mojado y un filtrado más pobre, carencia que la suspensión delantera de cuatro muelles trata de paliar. Con semejante masa y velocidad potencial, el freno de doble disco se convierte en el elemento de seguridad decisivo. Y la aplicación, con crucero y bloqueo, redondea un conjunto que, en teoría, planta cara a patinetes de firmas bastante más costosas.
 
-## Uso real: commuting suburbano con sillín, no última milla
+## Uso real: para qué trayectos encaja
 
-El H7 cobra sentido en un uso concreto: trayectos de 5-15 km desde zonas residenciales, con el sillín puesto y sin combinar con transporte público. Ahí, la batería grande, la postura sentada y la suspensión lo hacen más cómodo que cualquier patinete ligero. Fuera de ese escenario, sus 25 kg lo vetan para subirlo a un piso sin ascensor o meterlo en un metro abarrotado, y las ruedas macizas piden prudencia con lluvia. Tampoco es un patinete de ocio deportivo: es una herramienta de desplazamiento con pretensiones todoterreno ligeras, y quien lo compre con esa expectativa acertará.
+Este modelo tiene lógica en un escenario muy definido: recorridos de 5 a 15 km que arrancan en barrios residenciales, con el asiento colocado y sin enlazar con autobús o metro. En ese contexto, el acumulador generoso, la postura sentada y la suspensión lo vuelven más confortable que cualquier patinete liviano. Salvo ese caso, sus **25 kg** lo descartan para subir a un piso sin ascensor o colarlo en un vagón lleno, y las ruedas sin cámara obligan a extremar la cautela cuando llueve. Tampoco encaja como juguete deportivo de fin de semana: se trata de un instrumento de desplazamiento con aspiraciones camperas leves, y quien lo adquiera con esa idea en mente quedará satisfecho.
 
-## Mantenimiento, costes y normativa VMP en España
+## Mantenimiento, gasto y reglas VMP
 
-El mantenimiento es el de un eléctrico con ruedas macizas: pastillas y ajuste de los frenos de disco, tornillería del plegado y del sillín, y cuidado de la batería (evitar descargas completas prolongadas y almacenamientos al 100 %). Sin neumáticos que pinchar ni cámaras que cambiar, el coste por kilómetro es muy bajo; el riesgo está en la postventa de una marca de venta online, con soporte dispar según las reseñas, así que conviene guardar factura y revisar la unidad en los primeros días. En normativa, la <a href=https://www.dgt.es>DGT</a> regula los VMP con límite de 25 km/h, prohibición de circular por aceras y certificado de circulación para los comercializados en España: el H7 consta sin certificado DGT verificado (la UL2272 es eléctrica, no de circulación) y debe limitarse a 25 km/h para usarlo en vía pública.
+Cuidarlo es lo propio de un eléctrico con ruedas sin cámara: revisar pastillas y reglaje de los discos, apretar la tornillería del plegado y del asiento, y mimar la batería, sin dejarla vacía durante mucho tiempo ni guardada siempre al 100 %. Al no haber cubiertas que pinchar ni cámaras que sustituir, el gasto por kilómetro sale muy reducido; el punto débil es la postventa de una firma que vende por internet, con una atención desigual según cuentan las reseñas, de modo que conviene conservar la factura y probar a fondo la unidad durante los primeros días. En cuanto a las reglas, la <a href=https://www.dgt.es>DGT</a> fija para los VMP un tope de **25 km/h**, veto a las aceras y certificado de circulación para los vendidos en España: de este H7 no consta certificado DGT verificado, pues la **UL2272** avala solo la seguridad eléctrica, y hay que caparlo a **25 km/h** para rodar por la vía pública.
 
-## Rivales y veredicto: ¿merece la pena?
+## Rivales dentro de la casa y veredicto
 
-Dentro de la familia, el <a href=/patinetes/evercross-h5/>Evercross H5</a> ahorra unos 60 € a cambio de una batería de 480 Wh y sin UL2272, y el <a href=/patinetes/evercross-h9/>Evercross H9</a> es la alternativa de la casa con otro enfoque de gama. Frente a los patinetes urbanos ligeros convencionales, el H7 gana en autonomía, comodidad sentado y capacidad de carga (150 kg), y pierde en peso y portabilidad. **Veredicto:** el H7 merece la pena para el commuter suburbano que rueda desde casa y valora batería y sillín por ~550 €; no es para quien combine con transporte público ni para quien necesite el certificado DGT español. 
+En la propia familia, el <a href=/patinetes/evercross-h5/>Evercross H5</a> recorta unos 60 € a cambio de quedarse con una batería de **480 Wh** y sin el sello **UL2272**, mientras el <a href=/patinetes/evercross-h9/>Evercross H9</a> representa la otra vía de la casa en esta gama. Comparado con los urbanos ligeros habituales, el H7 sale ganando en alcance, confort sentado y carga útil de **150 kg**, y sale perdiendo en kilos y en facilidad para llevarlo a cuestas. **Veredicto:** compensa para el usuario suburbano que sale de casa rodando y aprecia batería y asiento por unos **550 €**; no encaja para quien enlace con transporte público ni para quien exija el certificado DGT español.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Evercross H7?
-Entre **550 y 650 €** al cambio en Amazon.
+### ¿Cuánto hay que pagar por el Evercross H7?
+El desembolso oscila entre **550 y 650 €** al cambio si se compra en Amazon.
 
-### ¿Qué es la certificación UL2272?
-Una certificación de **seguridad eléctrica** (batería y sistema): poco común en este precio.
+### ¿Qué garantiza la certificación UL2272?
+Avala la **seguridad eléctrica** de la batería y del sistema; es un sello poco habitual en este precio.
 
-### ¿Qué autonomía real tiene?
-Unos **30 km** en uso mixto.
+### ¿Qué alcance real cabe esperar?
+En torno a **30 km** si se rueda en uso variado.
 
-### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
+### ¿Se puede usar legalmente en España?
+Sí, siempre que se limite a **25 km/h**.
 
-### ¿Pesa mucho?
-Sí: **unos 25 kg** con el sillín.
+### ¿Resulta pesado de mover?
+Sí: ronda los **25 kg** con el asiento puesto.
 
-### ¿Merece la pena frente al H5?
-Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
+### ¿Compensa frente al H5?
+Por unos 60 € más se obtienen **720 Wh** en lugar de **480 Wh**, además del sello **UL2272**. Sí, sale a cuenta.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 

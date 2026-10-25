@@ -270,9 +270,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "recurrir-multa-radar-velocidad",
     locale: "es",
-    title: "Multa de radar de velocidad: cómo recurrirla (2026)",
+    title: "Multa por radar: cómo impugnarla paso a paso",
     excerpt:
-      "Los radares deben cumplir requisitos técnicos estrictos. Un radar no homologado o con verificación caducada invalida la multa. Aquí todos los argumentos.",
+      "Sin verificación vigente, sin homologación o mal señalizado, un cinemómetro puede tumbar tu sanción. Los seis motivos, el margen y qué pedir al recurrir.",
     category: "Radares y Velocidad",
     date: "2026-07-28",
     readTime: 8,
@@ -290,51 +290,51 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa exceso velocidad autovia",
       "multa velocidad en obras recurrir",
     ],
-    content: `## ¿Cuándo se puede recurrir una multa de radar?
+    content: `## ¿Cabe impugnar una sanción captada por cinemómetro?
 
-Los radares de velocidad —fijos, móviles y de tramo— deben cumplir **requisitos técnicos y legales estrictos**. El incumplimiento de cualquiera de ellos puede provocar la anulación de la multa, con independencia de si realmente ibas a más velocidad.
+Un aparato fijo, uno portátil o un sistema de tramo solo puede sostener una denuncia cuando respeta cada exigencia técnica y jurídica prevista para él. Basta con que falle una de esas exigencias para que la sanción pueda quedar sin efecto, aunque el velocímetro marcase por encima del tope permitido.
 
-## Argumentos técnicos y legales
+## Seis motivos que pueden dejar sin efecto la denuncia
 
-### 1. Verificación metrológica caducada
+### 1. Comprobación metrológica fuera de plazo
 
-Todo cinemómetro debe superar una **verificación periódica** por el Centro Español de Metrología (CEM) o laboratorio acreditado. Esta verificación tiene una validez de **2 años** para radares fijos y **1 año** para radares móviles.
+Cada cinemómetro ha de pasar un control periódico: el del Centro Español de Metrología (CEM) o el de un laboratorio acreditado. Ese control mantiene su validez durante **2 años** en los equipos fijos y durante **1 año** en los portátiles.
 
-**Cómo solicitarla:** Puedes pedir en tus alegaciones que se aporte el certificado de verificación metrológica vigente en la fecha de la infracción. Si no se aporta o está caducado, la multa debe anularse.
+**Pedir el documento:** en el escrito de alegaciones puedes reclamar que incorporen el certificado de comprobación metrológica que estuviera vigente el día de los hechos. Cuando ese papel falta o su vigencia ya había terminado, corresponde dejar sin efecto la sanción.
 
-### 2. Falta de homologación del modelo
+### 2. Modelo sin homologación vigente
 
-El modelo del radar debe estar **homologado por el Ministerio de Industria**. Existen modelos que han operado sin la homologación correspondiente. Solicita el número de homologación del equipo y verifica su vigencia.
+Todo modelo de cinemómetro necesita la homologación del Ministerio de Industria. Hay equipos que han estado funcionando sin esa homologación en regla. Pide el número asignado al aparato y comprueba que siga vigente.
 
-### 3. Señalización previa insuficiente o inexistente
+### 3. Aviso previo deficiente o ausente
 
-La normativa obliga a señalizar los radares con **señales de preaviso** visibles y con suficiente antelación. Si el radar no estaba debidamente señalizado, la multa puede impugnarse.
+Las normas exigen avisar del control con señales de preaviso que resulten visibles y que aparezcan con tiempo suficiente. Cuando ese aviso no existía o no se percibía como es debido, cabe impugnar la denuncia.
 
-### 4. Margen de error técnico no aplicado
+### 4. Tolerancia técnica sin descontar
 
-Todos los radares tienen un **margen de error técnico** que debe deducirse de la velocidad medida antes de calcular el exceso:
-- Radares que miden hasta 100 km/h: margen de **±7 km/h**
-- Radares que miden más de 100 km/h: margen de **±7%**
+Cada aparato arrastra una tolerancia técnica que hay que restar de la cifra captada antes de determinar el exceso:
+- Por encima de 100 km/h en la lectura: tolerancia de **±7%**
+- Hasta 100 km/h en la lectura: tolerancia de **±7 km/h**
 
-Si la velocidad registrada menos el margen de error queda por debajo del límite, no existe infracción.
+Cuando la cifra captada, una vez restada la tolerancia, queda bajo el tope, no hay conducta sancionable.
 
-### 5. Radares de tramo: distancia y puntos de control
+### 5. Tramo: distancia y controles
 
-Los radares de tramo calculan la velocidad media entre dos puntos. Para ser válidos deben:
-- Tener la distancia entre puntos claramente señalizada
-- Los dos puntos de control deben estar en la misma vía y sentido
-- El cálculo debe excluir las posibles paradas obligatorias (peajes, gasolineras)
+Un sistema de tramo obtiene la media entre dos controles. Para que esa media valga, hace falta:
+- Que la distancia entre controles figure señalizada con claridad
+- Que ambos controles se encuentren en la misma carretera y en el mismo sentido de circulación
+- Que del cálculo queden fuera las detenciones impuestas por el trayecto (peajes, gasolineras)
 
-### 6. Radar móvil: ubicación y personal autorizado
+### 6. Móvil: punto y operador
 
-Los radares móviles deben:
-- Estar operados por agentes de tráfico o personal autorizado
-- Ubicarse en puntos donde la velocidad esté claramente señalizada
-- Identificar correctamente al conductor (no solo al vehículo)
+Un equipo portátil ha de cumplir tres condiciones:
+- Que lo maneje un agente de tráfico o personal con autorización
+- Que se sitúe en un lugar donde el límite resulte evidente por la señalización
+- Que permita identificar al conductor con certeza (no basta con identificar el vehículo)
 
 <img src=/media/cuanto-tarda-en-llegar-una-multa-de-radar.webp alt=Buzón con la notificación de una multa de radar>
 
-## El margen de error en la práctica
+## La tolerancia, con números
 
 | Velocidad registrada | Límite de velocidad | Margen de error | Velocidad real mínima | ¿Infracción? |
 |---|---|---|---|---|
@@ -344,13 +344,13 @@ Los radares móviles deben:
 
 <img src=/media/radar-velocidad-autopista-cuerpo.webp alt=Radar de velocidad en una autopista española>
 
-## Cómo pedir el certificado del radar
+## Qué reclamar en el escrito
 
-En tus alegaciones, añade esta solicitud expresa:
+En las alegaciones, incluye una petición clara en este sentido:
 
-> "Se solicita que se aporte al expediente el certificado de verificación metrológica del cinemómetro empleado, con fecha de emisión y período de vigencia, así como el acta de colocación y señalización del dispositivo."
+> Pide que incorporen al expediente, junto al acta de instalación y de aviso previo, el documento que acredite la comprobación metrológica del aparato usado, indicando cuándo se emitió y hasta cuándo estuvo vigente.
 
-Si la DGT no aporta esta documentación, opera la presunción de inocencia a tu favor.
+Cuando la Administración no entrega esos papeles, la presunción de inocencia juega en beneficio del conductor.
 
 ## También te puede interesar
 
@@ -364,23 +364,23 @@ Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Le
 
 ## Preguntas frecuentes
 
-### ¿Qué es la verificación metrológica de un radar?
-Es el control periódico que debe superar todo cinemómetro ante el Centro Español de Metrología (CEM) o un laboratorio acreditado. Tiene una validez de 2 años para radares fijos y 1 año para radares móviles.
+### ¿Qué control periódico debe pasar un cinemómetro?
+Un control del Centro Español de Metrología (CEM) o de un laboratorio acreditado, válido 2 años en equipos fijos y 1 año en portátiles.
 
-### ¿Puedo pedir el certificado de verificación del radar que me multó?
-Sí. En tus alegaciones puedes solicitar que se aporte al expediente el certificado vigente en la fecha de la infracción. Si no se aporta o está caducado, la multa debe anularse.
+### ¿Puedo reclamar el certificado del aparato que me sancionó?
+Sí. En el escrito de alegaciones puedes pedir que incorporen el certificado vigente el día de los hechos. Cuando falta o su vigencia había terminado, corresponde dejar sin efecto la sanción.
 
-### ¿Cuál es el margen de error de un radar?
-Los radares que miden hasta 100 km/h tienen un margen de ±7 km/h; por encima de 100 km/h, de ±7%. Ese margen debe deducirse de la velocidad medida antes de calcular el exceso.
+### ¿Qué tolerancia tiene un cinemómetro?
+En lecturas de hasta 100 km/h, ±7 km/h; en lecturas superiores, ±7%. Esa tolerancia hay que restarla de la cifra captada antes de determinar el exceso.
 
-### ¿Tienen que estar señalizados los radares?
-La normativa obliga a señalizar los radares con señales de preaviso visibles y con suficiente antelación. Si el radar no estaba debidamente señalizado, la multa puede impugnarse.
+### ¿Debe avisarse del control con antelación?
+Las normas exigen señales de preaviso que resulten visibles y que aparezcan con tiempo suficiente. Cuando ese aviso no existía o no se percibía como es debido, cabe impugnar la denuncia.
 
-### ¿Qué pasa si el modelo de radar no estaba homologado?
-El modelo debe estar homologado por el Ministerio de Industria. Puedes solicitar el número de homologación del equipo y verificar su vigencia; sin homologación, la multa no es válida.
+### ¿Qué ocurre si el modelo carecía de homologación?
+El modelo necesita la homologación del Ministerio de Industria. Puedes pedir el número asignado al equipo y comprobar que siga vigente; sin homologación en regla, la sanción no se sostiene.
 
-### ¿Cómo funcionan los radares de tramo?
-Calculan la velocidad media entre dos puntos de control. Para ser válidos, la distancia debe estar señalizada, ambos puntos deben estar en la misma vía y sentido, y el cálculo debe excluir paradas obligatorias como peajes o gasolineras.
+### ¿Cómo se calcula la velocidad en un tramo?
+La media sale de dos controles situados en la misma carretera y en el mismo sentido, con la distancia señalizada, y sin contar las paradas impuestas por el recorrido, como peajes o gasolineras.
 
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
@@ -496,9 +496,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "multa-uso-movil-conduciendo-recurrir",
     locale: "es",
-    title: "Multa por usar el móvil al volante: 200€, ¿recurrible?",
+    title: "Multa por el móvil al volante: cómo recurrir los 200 €",
     excerpt:
-      "La multa por móvil es 200€ y 6 puntos. Pero hay varios argumentos legales que pueden anularla. Aquí los más efectivos con referencia al Reglamento.",
+      "Son 200 € y 6 puntos, pero la prueba deja grietas: visión del agente, foto, pasajero o soporte. Repasa las defensas que pueden tumbar la sanción.",
     category: "Tipos de Multa",
     date: "2026-07-10",
     readTime: 5,
@@ -512,54 +512,54 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa conductor desconocido identificar",
       "multa vehiculo empresa titular",
     ],
-    content: `## La multa por uso del móvil al volante: lo que dice la ley
+    content: `## Qué prohíbe la norma sobre el teléfono al conducir
 
-El artículo 13 del Reglamento General de Circulación prohíbe el uso de dispositivos de telefonía móvil y similares mientras se conduce. La sanción es de **200€ y 6 puntos** del carnet.
+Conducir manipulando un terminal queda vetado conforme al artículo 13 del Reglamento General de Circulación, norma que establece que abarca los teléfonos y otros aparatos parecidos. Quien lo incumple se expone a 200€ de multa y a la retirada de 6 puntos del permiso.
 
-Es una de las infracciones con mayor margen para recurrir, porque exige un nivel de prueba elevado que muchas veces no se cumple.
+Pese a lo contundente de la cifra, este tipo de sanción deja bastante espacio para defenderse, porque la prueba exigible resulta exigente y en muchos expedientes no se alcanza.
 
 <img src=/media/camaras-dgt-movil.webp alt=Cámaras de la DGT que detectan el uso del móvil al volante>
 
-## Argumentos para recurrir
+## Motivos de defensa
 
-### 1. El agente no podía ver con claridad
+### 1. Visión dudosa por parte del agente
 
-Para imponer esta multa, el agente **debe haberse cerciorado visualmente** de que el conductor estaba usando activamente el teléfono. Si la multa fue puesta por un agente que iba en otro vehículo, en movimiento, a distancia o desde un ángulo desfavorable, la observación directa es cuestionable.
+Para sancionar, quien denuncia tiene que haber comprobado con sus propios ojos que quien conducía manejaba de verdad el terminal. Cuando la denuncia la formula un agente que circulaba en otro coche, en marcha, lejos o desde una perspectiva mala, esa comprobación directa queda en entredicho.
 
-Argumento: *"El agente no pudo apreciar con certeza, desde la posición en que se encontraba, que el conductor estuviera usando el dispositivo y no simplemente sujetándolo, posándolo o llevándolo en la consola del vehículo."*
+Defensa: *"Desde donde se hallaba, el agente no pudo comprobar de forma segura si quien conducía manipulaba el terminal o únicamente lo sostenía, lo dejaba apoyado o lo transportaba en la consola."*
 
-### 2. La fotografía es ilegible o no lo demuestra
+### 2. Imagen que no prueba nada
 
-Si la infracción fue detectada por una cámara automática, la fotografía debe:
-- Mostrar claramente al conductor con el teléfono en la mano
-- Permitir identificar al conductor y el vehículo
-- Ser de una calidad suficiente para ser considerada prueba
+Cuando la detección corre a cargo de una cámara automática, la instantánea tiene que cumplir lo siguiente:
+- Que se distinga sin dudas a quien conduce sujetando el terminal
+- Que resulten reconocibles tanto quien conducía como el coche
+- Que la nitidez baste para aceptarla como prueba
 
-Si la imagen es borrosa, el teléfono no es claramente visible o solo aparece el vehículo, la prueba es insuficiente.
+Cuando la imagen sale difusa, el terminal no se aprecia con nitidez o tan solo se ve el coche, la prueba no basta.
 
-### 3. El teléfono pertenecía al pasajero
+### 3. El terminal era del acompañante
 
-Si en el momento de la denuncia llevabas un pasajero, puedes alegar que el teléfono visto por el agente era del pasajero, no tuyo.
+Cuando en el momento de la denuncia viajaba alguien a tu lado, cabe sostener que el aparato que vio el agente pertenecía a esa persona, no a quien conducía.
 
-### 4. El dispositivo estaba en el soporte del vehículo
+### 4. El terminal iba en su soporte
 
-Si el teléfono estaba instalado en un soporte homologado y solo lo estabas mirando como GPS sin tocarlo activamente, no constituye infracción.
+Cuando el teléfono viajaba colocado en un soporte homologado y solo se consultaba como navegador sin manipularlo de forma activa, no hay infracción.
 
-### 5. Error de identificación del conductor
+### 5. Confusión sobre quién conducía
 
-Si el vehículo está a nombre de una empresa o de otra persona, la multa se notifica al titular, que puede no ser el conductor. El titular puede **no identificar al conductor** (con pérdida de puntos propios) o **identificar al conductor real**.
+Cuando el coche figura a nombre de una compañía o de un tercero, la notificación llega al titular, que puede no coincidir con quien iba al volante. El titular puede abstenerse de designar a quien iba al volante (y asumir la detracción de puntos) o designar a quien realmente conducía.
 
-### 6. Vehículo de empresa: responsabilidad del conductor
+### 6. Coche de empresa: a quién se le exige
 
-Las empresas titulares de flotas están obligadas a identificar al conductor en el momento de la infracción. Si no lo hacen, la sanción es para la empresa pero los puntos no se descuentan de nadie.
+Las compañías titulares de flotas tienen que señalar quién conducía en el momento de la infracción. Cuando no lo hacen, la sanción recae sobre la compañía pero los puntos no se restan a nadie.
 
 <img src=/media/movil-volante-conductor-cuerpo.webp alt=Conductor usando el móvil al volante: 200 euros y 6 puntos>
 
 ## Cómo presentar el recurso
 
-Sube la notificación a RecurreTuMulta.online, obtén el análisis gratuito con los argumentos específicos aplicables a tu caso y decide si quieres el PDF del recurso completo.
+Entrega el aviso recibido en RecurreTuMulta.online para conseguir un estudio sin coste con las defensas concretas de tu expediente y valorar si te interesa el PDF íntegro del recurso.
 
-## Resumen de argumentos para recurrir
+## Recapitulación de las defensas
 
 | Argumento | Cuándo funciona |
 |---|---|
@@ -576,26 +576,26 @@ Sube la notificación a RecurreTuMulta.online, obtén el análisis gratuito con 
 - <a href=/blog/recurrir-multa-radar-velocidad/>cómo recurrir una multa de radar de velocidad</a>
 - <a href=/blog/multa-sin-cinturon-seguridad-recurrir/>multa por no llevar el cinturón de seguridad</a>
 
-Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514>Reglamento General de Circulación (BOE)</a>.
+Norma consultada: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514>Reglamento General de Circulación (BOE)</a>.
 
 
 
 ## Preguntas frecuentes
 
-### ¿Cuánto es la multa por usar el móvil al volante?
-200 € y 6 puntos del carnet, según el artículo 13 del Reglamento General de Circulación.
+### ¿A cuánto asciende la sanción por mirar el teléfono conduciendo?
+A 200 € y 6 puntos del carnet, conforme al artículo 13 del Reglamento General de Circulación, norma que establece que abarca los teléfonos y otros aparatos parecidos.
 
-### ¿Mirar el GPS en el soporte es infracción?
-Si el teléfono estaba en un soporte homologado y solo lo mirabas como GPS sin tocarlo activamente, no constituye infracción.
+### ¿Consultar el navegador colocado en su soporte se sanciona?
+Cuando el teléfono viajaba colocado en un soporte homologado y solo se consultaba como navegador sin manipularlo de forma activa, no hay infracción.
 
-### ¿Qué pasa si el teléfono era del pasajero?
-Puedes alegar que el dispositivo visto por el agente pertenecía al pasajero, no al conductor.
+### ¿Y si el aparato pertenecía al acompañante?
+Cabe sostener que el aparato que vio el agente pertenecía a esa persona, no a quien conducía.
 
-### ¿Y si la multa la puso una cámara automática?
-La fotografía debe mostrar claramente al conductor con el teléfono en la mano y permitir identificarlo. Si es borrosa o solo aparece el vehículo, la prueba es insuficiente.
+### ¿Qué ocurre cuando la denuncia procede de una cámara?
+La instantánea tiene que mostrar con nitidez a quien conducía sujetando el terminal y permitir reconocerlo. Cuando sale difusa o tan solo se ve el coche, la prueba no basta.
 
-### ¿Quién paga si el coche es de empresa?
-La empresa titular está obligada a identificar al conductor. Si no lo hace, la sanción es para la empresa pero los puntos no se descuentan de nadie.
+### ¿Quién responde cuando el coche pertenece a una empresa?
+La compañía titular tiene que señalar quién conducía. Cuando no lo hace, la sanción recae sobre la compañía pero los puntos no se restan a nadie.
 
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
@@ -714,9 +714,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   {
     slug: "multa-semaforo-en-rojo-recurrir",
     locale: "es",
-    title: "Saltarse un semáforo (200 €): cómo recurrir la multa",
+    title: "Multa por semáforo en rojo: 200 €, 4 puntos y cómo recurrir",
     excerpt:
-      "Saltarse un semáforo en rojo son 200 € y 4 puntos. Pero si la foto es ambigua o el semáforo fallaba, tienes argumentos. Te los explicamos.",
+      "La sanción por cruzar con el disco en rojo, los seis motivos para impugnarla y qué debe probar la foto de la cámara para sostener la denuncia.",
     category: "Tipos de Multa",
     date: "2026-06-25",
     readTime: 5,
@@ -730,52 +730,52 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "multa radar fotografia ilegible",
       "multa trafico abogado gratis",
     ],
-    content: `## La multa de semáforo en rojo: lo que debes saber
+    content: `## Semáforo en rojo: sanción, puntos y margen para impugnar
 
-Saltarse un semáforo en rojo es una infracción **grave** según el artículo 76.k) de la Ley de Tráfico (RDL 6/2015): **200 € y 4 puntos** del carnet (Anexo II de la misma ley). Sin embargo, estas multas tienen margen de recurso cuando la prueba fotográfica es cuestionable o el procedimiento tiene defectos.
+Cruzar con el disco en rojo se califica como infracción grave en el artículo 76.k) de la vigente Ley de Tráfico, el RDL 6/2015, y conlleva 200 euros más la retirada de 4 puntos, según el Anexo II de esa misma norma. Aun así, cabe impugnar la denuncia cuando la foto deja dudas o cuando el expediente arrastra algún defecto.
 
 <img src=/media/semaforo-ambar-cruce-cuerpo.webp alt=Semáforo en ámbar en un cruce urbano>
 
-## 6 argumentos para recurrir
+## Seis motivos para impugnar la denuncia
 
-### 1. El semáforo estaba en ámbar al cruzar
+### 1. El disco estaba en ámbar al pasar
 
-La infracción es por cruzar en **rojo**, no en ámbar. Si la fotografía muestra el semáforo en fase de cambio o en ámbar, la multa no es procedente. Algunos sistemas de cámara capturan la imagen con pequeño retraso, lo que puede generar confusión.
+Solo se sanciona pasar con el rojo, no con el ámbar. Cuando la foto capta el semáforo cambiando o ya en ámbar, la denuncia no debería prosperar. Algunas cámaras disparan con un pequeño retraso, y ese desfase puede llevar a confusión.
 
-### 2. La fotografía no muestra claramente la luz roja
+### 2. La imagen no deja ver el rojo con claridad
 
-La imagen de la cámara debe permitir identificar sin lugar a dudas:
-- El vehículo (matrícula legible)
-- El semáforo en rojo en ese momento
-- La posición del vehículo respecto a la línea de detención
+La foto de la cámara tiene que dejar claro, sin margen de duda:
+- qué coche aparece, con la matrícula que se pueda leer
+- que el disco estaba realmente en rojo en ese instante
+- en qué punto estaba el coche en relación con la línea de parada
 
-Si cualquiera de estos elementos no es claro, la prueba es insuficiente.
+Si alguno de estos elementos no se aprecia con nitidez, la prueba resulta insuficiente.
 
-### 3. El conductor no puede identificarse
+### 3. No se pudo identificar a quien conducía
 
-Si el sistema es automático, la multa se impone al titular del vehículo. Si el titular no era el conductor real en ese momento, puede identificar al conductor real o alegar que no era él quien conducía.
+Con un sistema automático, la denuncia recae sobre la persona titular del vehículo. Cuando esa persona no conducía en ese instante, puede señalar quién iba al volante o alegar que no era quien conducía.
 
-### 4. Cruce por emergencia o causa de fuerza mayor
+### 4. Pasar en rojo por una emergencia o fuerza mayor
 
-Si cruzaste en rojo para ceder el paso a una ambulancia, bomberos o policía con sirena activada, o para evitar un accidente inminente, esta causa de justificación puede eximir de la sanción.
+Pasar en rojo para abrir paso a ambulancias, bomberos o policía con la sirena en marcha, o para esquivar un accidente que parecía inminente, puede actuar como causa que exime de la sanción.
 
-### 5. El semáforo no funcionaba correctamente
+### 5. El semáforo funcionaba mal en ese momento
 
-Si en el momento de la infracción el semáforo presentaba problemas de funcionamiento (parpadeo, tiempos irregulares, avería), y puedes demostrarlo o aportar indicios, es un argumento válido.
+Un disco que parpadea, cambia a intervalos irregulares o está averiado en el instante de los hechos, si logras acreditarlo o aportar indicios, sirve como alegación válida.
 
-### 6. Error de identificación del vehículo
+### 6. La matrícula notificada no coincide con la tuya
 
-Comprueba que la matrícula en la notificación coincide exactamente con la tuya. Un error en cualquier carácter invalida la identificación.
+Revisa carácter por carácter la matrícula que figura en la notificación y compárala con la tuya: cualquier carácter equivocado deja sin validez la identificación.
 
 <img src=/media/camaras-dgt-semaforo.webp alt=Cámara de la DGT vigilando un semáforo>
 
-## Tasa de éxito de este tipo de recursos
+## Cuándo prosperan estos recursos
 
-Los recursos contra multas de semáforo en rojo prosperan sobre todo cuando la prueba fotográfica es ambigua o existe algún vicio de forma en el procedimiento.
+Las impugnaciones de multas por semáforo en rojo salen adelante, sobre todo, cuando la foto deja margen de duda o cuando el expediente arrastra algún vicio de forma.
 
-Usa el análisis gratuito de RecurreTuMulta.online para saber exactamente qué argumentos aplican a tu caso concreto antes de decidir si recurrir.
+El análisis gratuito de RecurreTuMulta.online te indica qué motivos encajan con tu caso concreto antes de que decidas si impugnas.
 
-## Qué debe demostrar la prueba en cada argumento
+## Qué tiene que acreditar la prueba en cada motivo
 
 | Argumento | Qué debe acreditar la administración |
 |---|---|
@@ -797,22 +797,22 @@ Fuente oficial: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722>Le
 
 
 
-## Preguntas frecuentes
+## Dudas frecuentes sobre el semáforo
 
-### ¿Cuánto es la multa por saltarse un semáforo en rojo?
-200 € y 4 puntos del carnet, según el Anexo II de la Ley de Tráfico (RDL 6/2015). Con el pronto pago (20 días naturales) pagas 100 €, pero los 4 puntos se pierden igualmente.
+### ¿Qué importe y cuántos puntos supone cruzar en rojo?
+La sanción es de 200 euros y resta 4 puntos, conforme al Anexo II de la vigente Ley de Tráfico, el RDL 6/2015. Si abonas dentro de los 20 días naturales del pronto pago, el importe baja a 100 euros, aunque los 4 puntos se pierden de todos modos.
 
-### ¿Cruzar en ámbar es infracción?
-No: la infracción es cruzar en rojo. Si la fotografía muestra el semáforo en fase de cambio o en ámbar, la multa no es procedente.
+### ¿Pasar en ámbar también se sanciona?
+No: la sanción solo cubre el paso con el rojo. Si la imagen muestra el disco en fase de cambio o ya en ámbar, la denuncia no debería prosperar.
 
-### ¿Y si crucé para dejar pasar una ambulancia?
-Ceder el paso a un vehículo de emergencias con sirena activada, o evitar un accidente inminente, es una causa de justificación que puede eximir de la sanción.
+### ¿Y si pasé en rojo para dejar paso a una ambulancia?
+Abrir paso a un vehículo de emergencia con la sirena sonando, o evitar un choque inminente, puede justificar el cruce y librarte de la sanción.
 
-### ¿Qué debe mostrar la foto de la cámara?
-Debe permitir identificar sin lugar a dudas el vehículo (matrícula legible), el semáforo en rojo en ese momento y la posición del vehículo respecto a la línea de detención.
+### ¿Qué tiene que verse en la foto de la cámara?
+La imagen tiene que dejar claro qué vehículo es, con su matrícula legible, que el semáforo estaba en rojo justo entonces y dónde se encontraba el vehículo frente a la línea de parada.
 
-### ¿Qué hago si no era yo quien conducía?
-Si el sistema es automático, la multa se impone al titular. El titular puede identificar al conductor real o alegar que no era él quien conducía.
+### ¿Qué hago si la denuncia llegó a mi nombre y no conducía yo?
+En las denuncias automáticas, quien recibe la sanción es la persona titular. Esa persona puede indicar quién conducía realmente o manifestar que no era ella quien iba al volante.
 
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,

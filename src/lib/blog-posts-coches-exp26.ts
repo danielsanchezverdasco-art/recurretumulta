@@ -409,9 +409,9 @@ No: el modelo no ha sido probado por EuroNCAP.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
   {
-    "title": "GWM Haval H6 2024: híbrido de 243 CV con ECO",
+    "title": "GWM Haval H6 2024: SUV híbrido de 243 CV y ECO",
     "slug": "gwm-haval-h6-2024-precio",
-    "excerpt": "Ficha técnica del GWM Haval H6 2024 híbrido: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero y 5 estrellas ANCAP. El SUV chino más vendido del mundo.",
+    "excerpt": "El GWM Haval H6 híbrido entrega 243 CV, gasta 5,9 l/100 km, lleva etiqueta ECO y ofrece 560 litros: el SUV chino más vendido, sin precio aún en España.",
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "readTime": 7,
@@ -421,7 +421,7 @@ No: el modelo no ha sido probado por EuroNCAP.
 
 **¿Buscas solo los datos?** <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica del GWM Haval H6</a>: potencia, consumo, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **cuatro millones de unidades**— y su tercera generación llegó a Europa con una versión **híbrida de 243 CV** que combina un motor turbo de 1.5 litros con un motor eléctrico. Homologa unos **5,9 l/100 km**, emite 134 g/km de CO2 y luce la etiqueta **ECO** de la DGT. GWM aún **no publica el precio oficial en España**: esta ficha recoge los datos técnicos verificados.
+Pocos SUV pueden presumir del historial del Haval H6 de GWM: supera los **cuatro millones de unidades** vendidas y pasa por ser el todocamino más vendido en la historia de China. Su tercera generación desembarcó en Europa con una variante **híbrida de 243 CV**, que une un turbo de 1,5 litros a un motor eléctrico. Declara alrededor de **5,9 l/100 km** y unas emisiones de **134 g/km de CO2**, y porta la etiqueta **ECO** de la DGT. La marca todavía no ha comunicado el precio oficial para España: aquí se reúnen los datos técnicos comprobados.
 
 ## Ficha técnica resumida
 
@@ -443,64 +443,64 @@ El **GWM Haval H6** es el SUV más vendido de la historia de China —más de **
 
 <a href=/coches/gwm-haval-h6-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del Haval H6 con galería de fotos</a>
 
-## Híbrido autorrecargable: 243 CV sin enchufar
+## Híbrido sin enchufe: 243 CV y par de 530 Nm
 
-El sistema híbrido combina un **1.5 turbo de 147 CV** con un **motor eléctrico de 174 CV**, para una potencia conjunta de **243 CV** y un par de unos **530 Nm**. La caja es una **DHT dedicada a híbridos** y la tracción es delantera. No hay que enchufarlo: la batería de 1,67 kWh se recarga con la frenada regenerativa.
+El conjunto une un **1,5 turbo de 147 CV** a un eléctrico de **174 CV**, con lo que la potencia conjunta alcanza **243 CV** y el par ronda los **530 Nm**. El cambio es una **DHT** pensada para híbridos y la tracción va al eje delantero. No necesita enchufe: el acumulador de **1,67 kWh** recupera energía al frenar.
 
-El resultado es un SUV de 4,70 metros que gasta como un utilitario: **5,9 l/100 km** homologados. En ciudad, donde el motor eléctrico hace la mayor parte del trabajo, el consumo real puede ser incluso menor.
+Así queda un SUV de 4,70 metros con un gasto propio de un utilitario, con **5,9 l/100 km** homologados, y en ciudad, el eléctrico asume la mayor parte del esfuerzo y el consumo real puede bajar todavía más.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-interior.webp alt=Interior del GWM Haval H6 2024>
 
 ## Espacio y tecnología de segmento superior
 
-Con **2.738 mm entre ejes** y **560 litros de maletero**, el H6 ofrece habitabilidad de SUV grande. El interior está dominado por una **pantalla central de 14,6 pulgadas** con Apple CarPlay y Android Auto inalámbricos, cuadro digital de 10,25", **Head-up Display**, cámara de 360°, asientos delanteros calefactables y ventilados con regulación eléctrica, techo panorámico y portón con apertura por pie.
+Gracias a sus **2.738 mm entre ejes** y a un maletero de **560 litros**, el H6 brinda espacio de SUV grande. Dentro preside una pantalla central de **14,6 pulgadas**, compatible con Apple CarPlay y Android Auto sin cables, junto a un cuadro digital de 10,25 pulgadas y una cámara de **360°**, además de proyección **Head-up Display**, asientos delanteros con calefacción y ventilación y reglaje eléctrico, techo panorámico y portón que se abre con el pie.
 
-En seguridad, el H6 logró **5 estrellas ANCAP en 2022** (90% en protección de adultos, 88% en infantil), aunque aún no ha sido probado por **EuroNCAP**.
+En el capítulo de seguridad, el H6 obtuvo **5 estrellas ANCAP en 2022**, con un 90% en protección de adultos y un 88% en la infantil, si bien **EuroNCAP** todavía no lo ha evaluado.
 
-## Historia del H6: el rey de los SUV chinos
+## Historia del H6 en cuatro fechas
 
-- **2011:** nace la primera generación del Haval H6, que pronto se convierte en el SUV más vendido de China.
-- **2016:** segunda generación, con un salto en calidad y diseño.
-- **2020:** tercera generación sobre la plataforma **Lemon**, con versiones gasolina, híbrida e híbrida enchufable.
-- **2024:** restyling profundo (versión Pro) con nuevo interior digital y la gama híbrida ampliada.
+- **2011:** arranca la primera generación del Haval H6, que no tarda en alzarse como el SUV más vendido de China.
+- **2016:** llega la segunda generación, que da un salto en calidad y diseño.
+- **2020:** la tercera generación se apoya en la plataforma **Lemon** y ofrece variantes de gasolina, híbrida e híbrida enchufable.
+- **2024:** profundo restyling, versión **Pro**, que estrena un interior digital y amplía la gama híbrida.
 
 <img src=/media/gwm-haval-h6-2024-precio-ficha-tecnica-oficial.webp alt=Trasera del GWM Haval H6 2024>
 
 ## Mantenimiento
 
-GWM no ha publicado el plan de mantenimiento oficial para España. Como híbrido autorrecargable, las revisiones siguen el esquema de un gasolina (aceite, filtros, inspección) más la revisión del sistema híbrido. Los intervalos y costes están pendientes de publicación por la red oficial de GWM España.
+La marca todavía no ha difundido el plan de mantenimiento oficial para España. Al tratarse de un híbrido autorrecargable, las revisiones copian el esquema de un gasolina: aceite, filtros e inspección, y añaden la comprobación del sistema híbrido. Los intervalos y los costes quedan pendientes de que los publique la red oficial de GWM en España.
 
 ## Precio y rivales
 
-Sin precio oficial español, sus rivales son el **Toyota RAV4 hybrid** (la referencia, desde unos 38.000 €), el **Hyundai Tucson híbrido**, el **Kia Sportage híbrido** y el **MG HS híbrido**. En otros mercados, el H6 se posiciona claramente por debajo de los japoneses y coreanos: si GWM replica esa estrategia en España, sería uno de los híbridos de 243 CV más asequibles.
+A falta de un precio oficial para España, sus contrincantes son el **Toyota RAV4 hybrid**, que marca la referencia y parte de unos **38.000 €**. También compiten el **Hyundai Tucson híbrido** y el **Kia Sportage híbrido**, además del **MG HS híbrido**. Fuera de España, el H6 se coloca netamente por debajo de los modelos japoneses y coreanos: de repetir GWM esa estrategia en España, quedaría entre las opciones híbridas de **243 CV** con mejor precio.
 
-## Veredicto: mucho SUV por (previsiblemente) poco dinero
+## Veredicto: mucho SUV a precio contenido
 
-El Haval H6 híbrido es la demostración de que China ya compite de tú a tú en el segmento más disputado de Europa: 243 CV, 5,9 l/100 km, etiqueta ECO, 560 litros de maletero, 5 estrellas ANCAP y un equipamiento que los generalistas cobran como opciones. Su éxito dependerá del precio que GWM fije en España y de que la red posventa convenza.
+El Haval H6 híbrido demuestra que China ya planta cara de igual a igual en el segmento más reñido de Europa, con **243 CV**, etiqueta **ECO** y un maletero de **560 litros**, más **5 estrellas ANCAP** y un consumo de **5,9 l/100 km**, además de un equipamiento que las marcas generalistas cobran aparte. Que triunfe dependerá de dos cosas: el precio que GWM fije en España y una red posventa convincente.
 
-¿Para quién es? Para familias que necesitan un SUV grande híbrido con etiqueta ECO sin pagar el sobreprecio japonés o coreano.
+¿A quién va dirigido? A familias que buscan un todocamino grande híbrido, con etiqueta **ECO**, sin asumir el sobreprecio japonés o coreano.
 
-¿Sus pegas? **Sin precio oficial en España** es difícil recomendarlo hoy. Además, casi todo se controla desde la pantalla táctil (pocos botones físicos), no hay rueda de repuesto y falta la prueba EuroNCAP europea.
+¿Y sus pegas? Sin un precio oficial para España, recomendarlo hoy resulta complicado. Además, casi todo se maneja desde la pantalla táctil, con pocos botones físicos, y no trae rueda de repuesto y sigue pendiente la prueba europea de **EuroNCAP**.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Haval H6 híbrido en España?
-GWM aún no publica el precio oficial en España.
+### ¿Qué precio tiene el Haval H6 híbrido en España?
+GWM todavía no ha comunicado el precio oficial para España.
 
-### ¿Cuántos caballos tiene el Haval H6 híbrido?
-243 CV combinados (1.5 turbo + motor eléctrico).
+### ¿Qué potencia combina el Haval H6 híbrido?
+**243 CV** entre el 1,5 turbo y el motor eléctrico.
 
-### ¿Qué consumo tiene?
-Unos 5,9 l/100 km homologados.
+### ¿Cuánto consume?
+Alrededor de **5,9 l/100 km** homologados.
 
-### ¿Tiene etiqueta ECO?
-Sí, por su sistema híbrido autorrecargable.
+### ¿Lleva etiqueta ECO?
+Sí, gracias a su sistema híbrido autorrecargable.
 
-### ¿Qué maletero tiene?
-560 litros.
+### ¿Qué capacidad tiene el maletero?
+**560 litros**.
 
-### ¿Es seguro? ¿Tiene EuroNCAP?
-Logró 5 estrellas ANCAP en 2022; EuroNCAP aún no lo ha probado.
+### ¿Es seguro? ¿Lo ha probado EuroNCAP?
+Obtuvo **5 estrellas ANCAP en 2022**; **EuroNCAP** todavía no lo ha evaluado.
 
 *Fuentes: <a href=https://es.wikipedia.org/wiki/Haval_H6>Wikipedia</a>, <a href=https://www.gwm-mx.com/content/dam/gwm/pages/mx/es/pdf/fichas/gwm-h6-ficha-tecnica-2026.pdf>ficha técnica oficial GWM</a>*
 

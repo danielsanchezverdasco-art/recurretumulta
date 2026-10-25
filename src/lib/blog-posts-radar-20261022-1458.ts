@@ -11,9 +11,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const RADAR_20261022_1458_POSTS: BlogPost[] = [
   {
     slug: "bmw-serie-7-2027-precio-autonomia-carwow",
-    title: "BMW Serie 7 2027: 728 km de autonomía y desde 121.400 €",
+    title: "BMW Serie 7 2027: berlina de lujo desde 121.400 €",
     excerpt:
-      "El BMW Serie 7 2027 ya tiene precios en España: desde 121.400 € con 728 km WLTP. Seis versiones, pantalla 8K de 31,3 pulgadas y tecnología Neue Klasse.",
+      "Precios en España desde 121.400 € y hasta 728 km WLTP en el i7. Seis versiones, cine trasero 8K de 31,3 pulgadas y estreno de la era Neue Klasse.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 8,
@@ -26,17 +26,17 @@ export const RADAR_20261022_1458_POSTS: BlogPost[] = [
       "Carwow BMW Serie 7",
       "BMW Serie 7 2027 España",
     ],
-    content: `**Ficha completa del modelo:** <a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>BMW Serie 7 2027</a> — ficha técnica, precios por versión, autonomía, garantía y mantenimiento.
+    content: `**Todos los datos del modelo:** <a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>BMW Serie 7 2027</a> — versiones, tarifas y autonomía reunidas.
 
 <img src=/media/bmw-serie-7-2027-frontal.webp alt=BMW Serie 7 2027, frontal con parrilla iluminada y faros divididos>
 
-*Foto: kit de prensa BMW distribuido por geeksroom.com. Imagen de prensa, no oficial directa de BMW; licencia desconocida.*
+*Imagen cedida en el kit de prensa de BMW y difundida vía geeksroom.com; no es una foto oficial directa y su licencia no consta.*
 
-El **BMW Serie 7 2027** es la gran berlina de representación que abre la era **Neue Klasse** en la gama alta de BMW: nuevo lenguaje de diseño, arquitectura electrónica renovada y una gama multienergía con tres eléctricos, dos híbridos enchufables y un diésel. Carwow UK lo analizó el 21 de octubre de 2026 en un vídeo que ya supera el millón y medio de visualizaciones, enfrentándolo al Mercedes Clase S.
+La berlina más representativa de BMW entra en una etapa nueva con el Serie 7 2027, el modelo con el que la marca estrena en su gama alta la filosofía Neue Klasse: otro lenguaje formal, una electrónica completamente renovada y una oferta que combina tres variantes eléctricas, dos híbridas enchufables y una diésel. En Reino Unido, Carwow lo puso frente al Mercedes Clase S en un vídeo publicado el 21 de octubre de 2026 que ya rebasó el millón y medio de reproducciones.
 
-La producción arrancó en julio de 2026 en la planta de **Dingolfing** y las primeras unidades ya llegan a los concesionarios. En España los precios parten de **121.400 €** (i7 50 xDrive) y llegan a **190.600 €** (i7 M70 xDrive).
+La fabricación comenzó en Dingolfing en julio de 2026, y los concesionarios ya tienen las primeras unidades. En el mercado español, la tarifa arranca en 121.400 € para el i7 50 xDrive y culmina en 190.600 € para el i7 M70 xDrive.
 
-## La gama del BMW Serie 7 2027: seis versiones
+## Seis versiones para una misma berlina
 
 | Versión | Sistema | Potencia | Autonomía / consumo | Precio España |
 |---|---|---|---|---|
@@ -47,53 +47,54 @@ La producción arrancó en julio de 2026 en la planta de **Dingolfing** y las pr
 | M760e xDrive | Híbrido enchufable | 612 CV / 800 Nm | 80 km eléctricos | 150.864 € |
 | 740d xDrive | Diésel 48 V | 313 CV | 6,5–7,2 l/100 km | 125.837 € |
 
-Los tres eléctricos comparten la batería de **112,5 kWh** y admiten carga rápida de hasta **250 kW** en corriente continua: del 10 al 80 % en unos 28 minutos. El 740d xDrive mantiene el seis cilindros diésel con hibridación ligera de 48 V y acelera de 0 a 100 km/h en 5,7 segundos.
+Las tres variantes eléctricas comparten acumulador: 112,5 kWh de capacidad y carga rápida en continua de hasta 250 kW, con la que pasar del 10 al 80 % lleva alrededor de 28 minutos. El 740d xDrive, por su parte, conserva el diésel de seis cilindros con apoyo eléctrico ligero de 48 V y necesita 5,7 segundos para pasar de parado a 100 km/h.
 
-## Interior: la pantalla de cine trasera de 31,3 pulgadas
+## Dentro: un cine trasero de 31,3 pulgadas
 
-La **BMW Theatre Screen** se mantiene como la pieza estrella: pantalla táctil de **31,3 pulgadas** con resolución **8K**, cámara integrada para videoconferencias y sistema de sonido **Bowers & Wilkins con 36 altavoces** y audio 4D. Delante, el nuevo lenguaje Neue Klasse trae la interfaz digital renovada y el volante con tecnología «shy tech», cuyos controles solo se iluminan cuando hacen falta.
+La pieza que más miradas atrae sigue siendo la BMW Theatre Screen: una pantalla táctil trasera de 31,3 pulgadas y resolución 8K, con cámara incorporada para videollamadas y un equipo Bowers & Wilkins de 36 altavoces con sonido 4D. En la parte delantera, la nueva etapa Neue Klasse se traduce en una interfaz digital renovada y en un volante con tecnología «shy tech», en el que los mandos solo se encienden cuando resultan necesarios.
 
-Por fuera, el frontal gana una parrilla de gran tamaño con iluminación **Iconic Glow**, firma lumínica más fina, faros de cristal BMW y zaga con pilotos LED de nuevo diseño. Las llantas van de 20 a 22 pulgadas y BMW ofrece más de **500 colores y combinaciones**, incluido el acabado BMW Individual Dual Finish.
+Por fuera, el frontal estrena una parrilla de grandes dimensiones con iluminación Iconic Glow, una firma luminosa más estilizada, faros de cristal BMW y una zaga rematada con pilotos LED de trazado nuevo. Las llantas abarcan de 20 a 22 pulgadas, y el catálogo supera las 500 combinaciones de color, entre ellas el acabado BMW Individual Dual Finish.
 
 <img src=/media/bmw-serie-7-2027-lateral.webp alt=BMW Serie 7 2027, vista lateral tres cuartos bitono>
 
-*Foto: kit de prensa BMW distribuido por mikeshouts.com. Imagen de prensa, no oficial directa de BMW; licencia desconocida.*
+*Imagen del kit de prensa de BMW difundida vía mikeshouts.com; tampoco es oficial directa y su licencia no consta.*
 
-## ¿Para quién es el Serie 7 2027?
+## ¿A quién va dirigido este Serie 7?
 
-BMW quiere mantener viva la berlina de representación frente al avance de los SUV premium. Es un coche pensado tanto para quien conduce como para quien viaja detrás: chófer privado, directivos y familias que hacen muchos kilómetros de autopista. Sus rivales directos son el **Mercedes Clase S**, el **Audi A8** y el **Lexus LS**.
+BMW defiende la berlina de representación en un momento en que los SUV premium ganan terreno. El coche está pensado tanto para quien lo conduce como para quien viaja en las plazas traseras: chóferes privados, directivos y familias que devoran kilómetros de autopista. En su punto de mira quedan el Clase S de Mercedes, el A8 de Audi y el LS de Lexus.
 
-<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con todas las versiones, precios, consumos y garantía.
+<a href=/coches/bmw-serie-7-2027-precio-ficha-tecnica/>Ver la ficha técnica completa del BMW Serie 7 2027</a> con el desglose íntegro por versión, tarifa y consumo.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el BMW Serie 7 2027 en España?
+### ¿Qué precio tiene el Serie 7 2027 en España?
 
-Los precios confirmados en España van desde **121.400 €** (i7 50 xDrive) hasta **190.600 €** (i7 M70 xDrive). El diésel 740d xDrive parte de 125.837 € y los híbridos enchufables, de 136.090 € (750e) y 150.864 € (M760e).
+La tarifa confirmada en España va de 121.400 € para el i7 50 xDrive a 190.600 € para el i7 M70 xDrive. El diésel 740d xDrive arranca en 125.837 €, y los híbridos enchufables lo hacen en 136.090 € (750e) y 150.864 € (M760e).
 
-### ¿Qué autonomía tiene el BMW i7 2027?
+### ¿Cuántos kilómetros recorre el i7 2027 con una carga?
 
-El i7 50 xDrive homologa **728 km WLTP**, el i7 60 xDrive 727 km y el i7 M70 xDrive 686 km. Los tres usan una batería de 112,5 kWh con carga rápida de 250 kW (10–80 % en 28 minutos).
+Con una carga completa, el i7 50 xDrive anuncia 728 km WLTP, el i7 60 xDrive se queda en 727 km y la variante M70 xDrive baja a 686 km. Los tres montan la misma batería de 112,5 kWh y la carga rápida de 250 kW, con un paso del 10 al 80 % en 28 minutos.
 
-### ¿El Serie 7 2027 es solo eléctrico?
+### ¿La gama es únicamente eléctrica?
 
-No. La gama es multienergía: tres versiones 100 % eléctricas (i7), dos híbridas enchufables (750e y M760e, con 80–82 km de autonomía eléctrica) y un diésel de seis cilindros con hibridación ligera de 48 V (740d xDrive).
+No: a las tres variantes eléctricas i7 se suman las híbridas enchufables 750e y M760e —con un recorrido eléctrico de 80 a 82 km— y el diésel de seis cilindros con apoyo ligero de 48 V, el 740d xDrive.
 
-### ¿Qué es la tecnología Neue Klasse en el Serie 7?
+### ¿En qué consiste la tecnología Neue Klasse?
 
-Es la nueva generación de arquitectura electrónica y lenguaje de diseño de BMW, que debuta en la gama alta con este Serie 7: interfaz digital renovada, pantallas de nueva generación y sistemas de asistencia actualizados.
+Se trata de la nueva generación de electrónica y de lenguaje formal de BMW, que se estrena en la parte alta de la gama con este Serie 7. La interfaz digital es nueva, las pantallas son de otra hornada y los asistentes llegan actualizados.
 
-### ¿Cuándo llega el BMW Serie 7 2027 a los concesionarios?
+### ¿Cuándo empezarán a verse las primeras unidades?
 
-La producción arrancó en julio de 2026 en Dingolfing y las primeras unidades eléctricas y de gasolina llegan antes de final de año. El híbrido enchufable 750e xDrive se incorpora a principios de 2027.
+Dingolfing empezó a fabricarlo en julio de 2026, y los concesionarios reciben las primeras unidades antes de que acabe el año. La variante híbrida enchufable 750e xDrive se suma a comienzos de 2027.
 
-### ¿Qué garantía tiene la batería del BMW i7?
+### ¿Qué cobertura tiene la batería del i7?
 
-BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.000 km**. La garantía general del vehículo en España es de 2 años.
+Para la batería de alto voltaje, BMW mantiene su cobertura habitual: 8 años o 160.000 km. En cuanto al coche en conjunto, la garantía general en España es de 2 años.
 
 *Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",

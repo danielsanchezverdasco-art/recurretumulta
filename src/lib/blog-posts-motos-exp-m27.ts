@@ -405,10 +405,10 @@ Una custom así invita a disfrutar la carretera, no a correr: pero si un radar t
 *Fuentes: <a href=https://www.motorbikemag.es/ficha-tecnica/morbidelli-c1002v/>ficha técnica en motorbikemag.es</a>, <a href=https://www.mundomotero.com/motos/mbp/c1002v>precio y ficha en mundomotero.com</a> y <a href=https://www.motoplanete.es/morbidelli/10808/C1002V-2025/contact.html>datos técnicos en motoplanete.es</a>.*`,
   },
   {
-    title: "Macbor XR5 2024: precio y ficha técnica",
+    title: "Macbor XR5 2024: trail A2 española, 47 CV y solo 178 kg",
     slug: "macbor-xr5-2024-precio",
     excerpt:
-      "La Macbor Montana XR5 2024 desde 6.999 €: trail A2 española con 47 CV, 178 kg, suspensiones KYB multirregulables, ABS de 3 modos y ganadora de la Enduroc 2024.",
+      "La Montana XR5 2024 ronda los 6.999 €: bicilíndrica de 471 cc para el A2, 178 kg, suspensiones KYB regulables y ABS de tres modos para asfalto y pista.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -427,11 +427,11 @@ Una custom así invita a disfrutar la carretera, no a correr: pero si un radar t
 
 **¿Buscas solo los datos?** <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ver ficha técnica de la Macbor Montana XR5</a>: precio, motor de 47 CV, 178 kg y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
-La **Macbor Montana XR5** es la trail española que se coló entre las japonesas y las chinas: **47 CV** en el límite del A2, **178 kg en seco** (la más ligera de su categoría), **suspensiones KYB multirregulables**, **ABS con 3 modos** desconectable y un precio de **unos 6.999 €**. Diseñada en España por Motos Bordoy, probada en competición y con un equipamiento de serie que sus rivales cobran aparte.
+Dentro del escaparate trail pensado para el A2, la propuesta de la marca española Macbor llega con argumentos propios frente a competidoras japonesas y chinas. La **Montana XR5** rinde **47 CV**, justo en el tope permitido, declara **178 kg en seco**, monta **suspensiones KYB con múltiples reglajes**, un **ABS de tres posiciones** que puede desconectarse y se anuncia en torno a **6.999 €**. Detrás está Motos Bordoy, un fabricante nacional que la desarrolló pensando en el uso real, la probó en competición y la entrega con un equipamiento de serie que en otras marcas suele pagarse aparte.
 
-Ojo, para evitar confusiones: la XR5 es la **471 cc para el carnet A2**; la trail 125 de la gama Macbor es la Montana XR1 125. Esta ficha es de la XR5 de verdad.
+Conviene no mezclarla con su hermana pequeña: esta XR5 monta un motor de **471 cc homologado para el A2**, mientras que la 125 de la casa responde al nombre de Montana XR1 125. Son dos motos distintas dentro de la misma familia.
 
-## Ficha técnica resumida: Macbor Montana XR5 2024
+## Datos clave de la Montana XR5
 
 | Dato | Valor |
 |---|---|
@@ -446,31 +446,31 @@ Ojo, para evitar confusiones: la XR5 es la **471 cc para el carnet A2**; la trai
 
 ¿Quieres el detalle completo? <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ficha técnica completa de la Macbor Montana XR5</a> con pros, contras y curiosidades.
 
-## Precio en España
+## Cuánto vale en España
 
-La Montana XR5 se vende en España desde **unos 6.999 €** (su precio de lanzamiento fue 6.499 €). Por ese dinero incluye de serie lo que otras cobran como extras: **paramanos, parrilla trasera, caballete central y protector de aluminio para el motor**. Se ofrece en cuatro combinaciones de color: rojo/gris, negro/gris, azul/gris y azul/blanco. En campaña, algunos concesionarios añaden maletas y baúl metálicos a mitad de precio.
+En el mercado español la Montana XR5 se anuncia en torno a **6.999 €**, después de un precio de salida de 6.499 €. El equipamiento incluido sin sobreprecio abarca paramanos, una parrilla posterior, caballete central y una protección de aluminio para el motor. La gama cromática contempla cuatro acabados: rojo con gris; negro con gris; azul con gris; y azul con blanco. Además, en determinadas campañas, varios concesionarios ofrecen maletas y un baúl metálico a mitad de precio.
 
 <img src=/media/macbor-xr5-2024-precio-galeria-1.webp alt=Macbor Montana XR5 2024, detalle del frontal con pico aventurero y faro LED>
 
-## Motor: el bicilíndrico más potente de su clase
+## Motor bicilíndrico de 471 cc
 
-El bicilíndrico en paralelo de **471 cc**, DOHC y 8 válvulas, con refrigeración líquida e inyección electrónica Bosch, entrega **46,94 CV a 8.500 rpm** y **43 Nm a 7.500 rpm**: de lo más potente entre las trail A2. Su seña de identidad son los **dos modos de conducción**: **Safe**, con entrega lineal y controlable, y **Sport**, con más carácter en la zona alta. Cambiar de uno a otro es pulsar un botón, y transforma la moto.
+El propulsor es un bicilíndrico en paralelo de **471 cc**, con doble árbol de levas, ocho válvulas, refrigeración por líquido e inyección electrónica firmada por Bosch. Su rendimiento alcanza **46,94 CV a 8.500 rpm**, con un par máximo de **43 Nm a 7.500 rpm**, cifras que la sitúan entre las trail A2 más potentes. Su rasgo distintivo son los **dos programas de conducción**: **Safe**, de respuesta progresiva y fácil de dosificar, y **Sport**, de tacto más vivo en la parte alta del cuentavueltas. Basta pulsar un botón para pasar de uno a otro, y el cambio de carácter se nota de inmediato.
 
-## Parte ciclo: ligereza como filosofía
+## Chasis ligero y suspensiones KYB
 
-Macbor obsesionó con el peso: manillar, tijas, llantas, bujes, basculante, estriberas, parrilla y caballetes son de **aluminio**, y el bastidor de acero especial es un 15 % más ligero. Resultado: **178 kg en seco**, la cifra más baja del segmento. **Horquilla invertida KYB de 41 mm multirregulable** con 195 mm de recorrido y **monoamortiguador KYB** de 210 mm, ambos ajustables en precarga, compresión y extensión. Frenos **Nissin** con doble disco de 300 mm delante y **ABS de 3 modos** (total, solo delante o desconectado). Llantas de radios **Akront sin cámara** con Metzeler Tourance en 110/80-19 y 150/70-17.
+La obsesión de Macbor fue recortar kilos: el manillar se fabrica en aluminio, igual que las tijas, las llantas, los bujes, el basculante, las estriberas, la parrilla y los caballetes. A eso se suma un bastidor de acero especial un 15 % más ligero. El resultado es un peso declarado de **178 kilos en seco**, el registro menor de su clase. Delante trabaja una **horquilla invertida KYB de 41 mm** con 195 mm de recorrido; detrás, un **monoamortiguador KYB** de 210 mm. Ambos elementos permiten ajustar precarga, compresión y extensión. La frenada corre a cargo de **Nissin**, con doble disco delantero de 300 mm y un **ABS de tres posiciones** (integral, solo delantero o desconectado). Las llantas de radios **Akront sin cámara** calzan Metzeler Tourance en medidas 110/80-19 y 150/70-17.
 
-## Historia de la Macbor Montana XR5
+## Trayectoria de la XR5
 
-- **Motos Bordoy**: empresa española que crea **Macbor** como su marca propia de motos.
-- **2020**: lanzamiento de la **Montana XR5**, la maxitrail ligera española para el A2.
-- **2024**: la XR5 se consolida con pruebas a fondo en la prensa y campañas de equipamiento.
-- **2024**: **victoria en la Enduroc** (categoría Super Trail) con el piloto Marc Truyols: la trail española gana en competición.
-- **2026**: la gama evoluciona a la **XR5 510**, manteniendo la filosofía ligera.
+- **Motos Bordoy**: compañía española que lanza **Macbor** como marca propia de motocicletas.
+- **2020**: debut de la **Montana XR5**, una maxitrail nacional de peso contenido para el A2.
+- **2024**: la XR5 gana presencia con pruebas exhaustivas en prensa especializada y campañas de equipamiento.
+- **2024**: **triunfo en la Enduroc** (categoría Super Trail) de la mano del piloto Marc Truyols: la trail española vence en competición.
+- **2026**: la gama da el salto a la **XR5 510**, sin renunciar a la filosofía ligera.
 
 <img src=/media/macbor-xr5-2024-precio-galeria-2.webp alt=Macbor Montana XR5 2024 rodando por pista forestal>
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -482,23 +482,23 @@ Macbor obsesionó con el peso: manillar, tijas, llantas, bujes, basculante, estr
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta la Macbor Montana XR5?
-**Unos 6.999 €** en España, con equipamiento de serie muy completo.
+### ¿Cuál es el precio de la Macbor Montana XR5?
+En España ronda los **6.999 €**, con un equipamiento de serie muy completo.
 
-### ¿La XR5 es una 125?
-No: la **XR5 es la 471 cc para el carnet A2**. La trail 125 de Macbor es la **Montana XR1 125**.
+### ¿Es una 125?
+No: esta XR5 equipa un 471 cc para el A2. La 125 de la casa es la **Montana XR1 125**.
 
-### ¿Cuántos caballos tiene?
-**47 CV (34,5 kW) a 8.500 rpm**, el máximo legal para el A2.
+### ¿Qué potencia entrega?
+**47 CV, equivalentes a 34,5 kW, con el pico a 8.500 rpm**: el tope que admite el A2.
 
-### ¿Es buena para el campo?
-Sí: 195 mm de horquilla, 210 mm detrás, ABS desconectable, cubrecárter de aluminio y Metzeler Tourance. Ganó la Enduroc 2024 en Super Trail.
+### ¿Sirve para salir al campo?
+Sí: horquilla de 195 mm, 210 mm detrás, ABS que se puede desconectar, cubrecárter de aluminio y neumáticos Metzeler Tourance. Venció en la Enduroc 2024 dentro de Super Trail.
 
-### ¿Qué autonomía tiene?
-Con 20 L y un consumo medio de unos 3,5 L/100 km, ronda los **400 km** según las pruebas.
+### ¿Qué autonomía ofrece?
+Con un depósito de 20 L y un gasto medio cercano a 3,5 L/100 km, las pruebas sitúan su alcance alrededor de **400 km**.
 
-### ¿Qué rivales tiene?
-Benelli TRK 502, Honda NX500 (antes CB500X), Voge 500DSX y Morbidelli T502X.
+### ¿Contra qué modelos compite?
+La Honda NX500 (antes CB500X) encabeza la lista de alternativas; le siguen la Voge 500DSX, la Morbidelli T502X y la Benelli TRK 502.
 
 Una trail así pide pistas y curvas: si un radar te pilla disfrutando, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
 
