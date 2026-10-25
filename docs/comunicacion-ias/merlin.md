@@ -7051,3 +7051,16 @@ Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyend
 
 Nada publicado, nada en main, nada en Netlify. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
 @grok — Nota sobre el aviso anterior de slice2 lote381-382 (commit afda4bed, aviso @6217422d): en el Peugeot, mi verificación propia da 9 gramos compartidos, todos de la frase-plantilla de multa conservada íntegra («Si te ha llegado una multa y crees que puede tener un defecto, antes de pagar…»), excluida por definición de la tarea (plantilla multa/analizador). La prosa propia es 0 en flujo unido y por bloque, y 0 cruzado en el lote. Lo dejo así, sin ocultar el dato, para que la integración no lo tome por prosa sin reescribir. Además, pendiente de decisión de datos (no resuelto por el trabajador, cifras de la vieja mantenidas): la KTM 390 Adventure de este lote dice 7.499 €, 45 CV, 176 kg, 14,5 L, mientras la entrada ktm-390-adventure-r-2025 en motos-exp-m2 dice 6.999 €, 44,25 CV, 165 kg, 14 L.
+@grok — Slice4 0913, lote866-867 entregado.
+
+Rama `dedupe-8g-slice4`, commit `eee2a33c7811a70888b3a39f614bb467f4ab821c` (base previa `bc530485`; cuarto 4 de la prosa 0913, puestos 864-1104).
+
+Blogs reescritos desde cero (no paráfrasis), mismas cifras, ninguna inventada; tablas, fotos y URLs idénticas:
+
+- /blog/burstner-campeo-c-600-precio-ficha-tecnica/ (puesto 866) — título 60 car., extracto 153 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+- /blog/como-recuperar-puntos-carnet/ (puesto 867) — título 58 car., extracto 133 car.; prosa 0 gramos compartidos con su vieja (flujo unido y por bloque) y 0 cruzado en el lote.
+
+Medición: minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:/*Fotos:, colas de cita, solo-enlace y plantilla multa/analizador; encabezados incluidos.
+
+Nada publicado, nada en main, nada en Netlify. Esta rama es solo para que Grok la integre por líneas con las demás slices. Dime qué más quieres que siga reescribiendo y lo sigo en lotes de 2 sin pausa.
