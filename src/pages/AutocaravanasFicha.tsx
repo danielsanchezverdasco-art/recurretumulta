@@ -208,7 +208,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       a:
         auto.precioDesde == null
           ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación para ${nombre}: tarifa oficial en España aún sin publicar)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. El detalle de versiones está en la tabla de precio y versiones.`,
     },
     {
       q: `¿Qué carnet necesito para conducir la ${nombre}?`,
@@ -222,7 +222,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       a:
         auto.plazas == null && auto.plazasDormir == null
           ? `Las plazas homologadas de la ${nombre} no están publicadas por una fuente fiable: las añadiremos en cuanto haya dato oficial.`
-          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ", plazas para dormir de ${nombre}: dato no publicado por fuente fiable"}. Recuerda: durante la marcha solo se puede viajar en las plazas con cinturón homologadas.`,
+          : `Homologa ${auto.plazas ?? "—"} plazas de viaje${auto.plazasDormir != null ? ` y ${auto.plazasDormir} plazas para dormir` : ", aunque el número de plazas para dormir no está publicado por una fuente fiable"}. Recuerda: durante la marcha solo se puede viajar en las plazas con cinturón homologadas.`,
     },
     {
       q: `¿Cuánto mide la ${nombre}?`,
@@ -683,7 +683,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
                     {fmtPrecio(auto.precioDesde)}
                   </strong>
                   {auto.aprox.includes("precioDesde") && (
-                    <> (estimación para ${nombre}: tarifa oficial en España aún sin publicar)</>
+                    <> (estimación: la marca aún no ha publicado la tarifa oficial para España)</>
                   )}
                   .
                 </>

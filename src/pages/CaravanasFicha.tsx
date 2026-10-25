@@ -199,7 +199,7 @@ function Ficha({ auto }: { auto: Caravana }) {
       a:
         auto.precioDesde == null
           ? `La ${nombre} aún no tiene precio confirmado para España: lo publicaremos en cuanto la marca lo anuncie.`
-          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación para ${nombre}: tarifa oficial en España aún sin publicar)" : ""}. Los extras y el equipamiento opcional no están incluidos en ese precio de partida.`,
+          : `La ${nombre} parte de ${fmtPrecio(auto.precioDesde)}${precioAprox ? " (estimación: la marca aún no ha publicado la tarifa oficial para España)" : ""}. Los extras y el equipamiento opcional no están incluidos en ese precio de partida.`,
     },
     {
       q: `¿Qué carnet necesito para remolcar la ${nombre}?`,
@@ -641,7 +641,7 @@ function Ficha({ auto }: { auto: Caravana }) {
                     {fmtPrecio(auto.precioDesde)}
                   </strong>
                   {auto.aprox.includes("precioDesde") && (
-                    <> (estimación para ${nombre}: tarifa oficial en España aún sin publicar)</>
+                    <> (estimación: la marca aún no ha publicado la tarifa oficial para España)</>
                   )}
                   .
                 </>
