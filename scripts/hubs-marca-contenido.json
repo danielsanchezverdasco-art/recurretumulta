@@ -54,5 +54,85 @@
     "intro": "Ebro tiene un argumento que ninguna otra marca china de esta lista puede ofrecer: sus coches se fabrican en España. La gama se organiza en una escalera sencilla, del S400 al S900, pasando por el S700 y el S800, con versiones híbridas e híbridas enchufables según el modelo. Son nueve fichas, y la elección entre ellas depende sobre todo del tamaño que necesites y de si quieres enchufe o no. El S400 abre la gama como SUV compacto, el S700 y el S800 cubren el segmento familiar y el S900 pone el tope. Para quien valore comprar un coche hecho aquí, estas fichas son el mapa completo.",
     "n": 9,
     "url": "/coches/marca/ebro/"
+  },
+  "coches/fiat": {
+    "nombre": "Fiat",
+    "title": "Fiat: 30 coches urbanos, familiares y furgonetas",
+    "description": "30 fichas técnicas de Fiat: 500, 600, Doblo, Ducato y Panda, con motores híbridos y eléctricos, tamaños y precios para comparar la gama.",
+    "intro": "Fiat es una marca que se entiende por sus iconos: el 500, en versiones híbridas y eléctricas, el 600 como SUV urbano, y una gama de furgonetas y familiares con el Doblo y el Ducato al frente. Son 30 fichas, y la variedad va del coche urbano más pequeño al furgón de trabajo, así que la primera decisión no es el modelo, sino el uso. Para ciudad, el 500 y el 600 resuelven casi todo; para familia, hay que mirar los tamaños y los maleteros; para trabajo, el Doblo y el Ducato juegan en otra liga. Recorrer estas fichas por uso, y no por nombre, es la forma rápida de no perderse.",
+    "n": 30,
+    "url": "/coches/marca/fiat/"
+  },
+  "coches/honda": {
+    "nombre": "Honda",
+    "title": "Honda: 19 coches, del Civic al Prelude híbrido",
+    "description": "19 fichas técnicas de Honda: Civic, CR-V, HR-V, ZR-V, Jazz, e:Ny1 y Prelude, con motores híbridos y eléctricos para comparar la gama.",
+    "intro": "La gama Honda de estas 19 fichas gira en torno a la hibridación, y eso hace que compararlas sirva de verdad. El Civic, con su versión Type R, es la referencia deportiva; el Jazz, el urbano práctico; y entre los SUV, el HR-V es el compacto, el ZR-V el intermedio y el CR-V el familiar grande. A ellos se suman el Prelude, regreso de un coupé con historia, y los eléctricos e:Ny1 y Honda e. Como casi todos comparten filosofía mecánica, las diferencias que importan están en el tamaño, el espacio y el precio, no en tecnologías incomparables.",
+    "n": 19,
+    "url": "/coches/marca/honda/"
+  },
+  "coches/ineos": {
+    "nombre": "Ineos",
+    "title": "Ineos: 3 todoterrenos Grenadier sin concesiones",
+    "description": "3 fichas técnicas de Ineos: Grenadier Station Wagon, Trialmaster y Quartermaster, con motores, tracción y capacidad todoterreno comparados.",
+    "intro": "Ineos hace una sola cosa, pero la hace sin medias tintas: el Grenadier, un todoterreno de los de antes, con chasis de largueros y tracción total de verdad. Las tres fichas de la marca corresponden a sus tres versiones: el Station Wagon familiar, el Trialmaster preparado para el campo y el Quartermaster con caja de carga tipo pick-up. Elegir entre ellas no es una cuestión de equipamiento, sino de uso: familia, aventura o trabajo. Si buscas un todoterreno que no pida perdón por serlo, estas tres fichas son toda la gama, sin distracciones.",
+    "n": 3,
+    "url": "/coches/marca/ineos/"
+  },
+  "coches/jac": {
+    "nombre": "JAC",
+    "title": "JAC: 16 coches eléctricos, SUV y pick-up T9",
+    "description": "16 fichas técnicas de JAC: E30X, E40X, J7, JS, QX, RF8 y T9, con motores, autonomía y precios para comparar la gama completa.",
+    "intro": "JAC es una marca difícil de resumir en una frase porque su gama toca casi todos los palos: urbanos eléctricos como el E30X y el E40X, berlinas como el J7, SUV de la familia JS y QX, el monovolumen RF8 y el pick-up T9, también en versión eléctrica. Son 16 fichas, y el riesgo es comparar coches que no compiten entre sí. La forma útil de recorrerlas es separar primero los eléctricos de los de combustión, y después elegir por tamaño. Quien busque un eléctrico asequible mirará los E; quien busque un pick-up, el T9; y quien busque un SUV familiar, los JS y los QX.",
+    "n": 16,
+    "url": "/coches/marca/jac/"
+  },
+  "coches/jaecoo": {
+    "nombre": "Jaecoo",
+    "title": "Jaecoo: 14 SUV del 5 al 8 para elegir con calma",
+    "description": "14 fichas técnicas de Jaecoo: Jaecoo 5, 6, 7 y 8, con versiones de gasolina, híbridas y eléctricas para comparar la gama SUV.",
+    "intro": "Jaecoo ordena su gama con números que van del 5 al 8, y esa escalera es la mejor guía para recorrer sus 14 fichas: el Jaecoo 5 abre como SUV compacto, el 6 y el 7 cubren el segmento medio con versiones de gasolina, híbridas y eléctricas, y el 8 pone el tope como SUV grande. Dentro de cada número hay además variantes SHS híbridas y eléctricas que cambian el carácter del coche sin cambiar su tamaño. Antes de enamorarse de un acabado, conviene comparar la mecánica: un Jaecoo 7 de gasolina y un Jaecoo 7 SHS son coches distintos para bolsillos y usos distintos.",
+    "n": 14,
+    "url": "/coches/marca/jaecoo/"
+  },
+  "coches/jeep": {
+    "nombre": "Jeep",
+    "title": "Jeep: 30 coches con tracción y carácter aventurero",
+    "description": "30 fichas técnicas de Jeep: Avenger, Renegade, Compass, Cherokee, Wrangler y Grand Cherokee, con tracción total y versiones 4xe.",
+    "intro": "Jeep tiene 30 fichas en esta web y una identidad que no necesita presentación: tracción, aventura y nombres con historia. La gama va del Avenger urbano, también eléctrico, al Renegade y al Compass como SUV compactos, con el Cherokee recuperando su sitio, y de ahí a los grandes: Wrangler y Grand Cherokee. Las versiones 4xe híbridas enchufables recorren buena parte de la gama, así que un mismo modelo puede ser un coche urbano eficiente o un todoterreno con etiqueta Cero según la versión. Comparar fichas de Jeep exige fijarse en la mecánica tanto como en el tamaño.",
+    "n": 30,
+    "url": "/coches/marca/jeep/"
+  },
+  "coches/jetour": {
+    "nombre": "Jetour",
+    "title": "Jetour: 19 SUV, del Dashing al T2 más campero",
+    "description": "19 fichas técnicas de Jetour: Dashing, X50, X70, Shanhai, T1 y T2, con versiones de gasolina e híbridas para comparar la gama SUV.",
+    "intro": "Jetour construye su gama casi entera con SUV, y sus 19 fichas se entienden mejor por familias: el Dashing como modelo de acceso con imagen moderna, la familia X con el X50 y el X70, la familia Shanhai con sus híbridos, y la serie T, con el T1 y el T2, como propuesta más campera. El T2, con su estética de todoterreno, es el que más llama la atención, pero no es el único Jetour que merece una lectura: los Shanhai híbridos cambian bastante la ecuación de consumo. Si buscas un SUV chino con buena relación entre tamaño y precio, aquí hay donde elegir sin salir de la marca.",
+    "n": 19,
+    "url": "/coches/marca/jetour/"
+  },
+  "coches/lexus": {
+    "nombre": "Lexus",
+    "title": "Lexus: 26 coches premium híbridos y eléctricos",
+    "description": "26 fichas de Lexus: LBX, UX, NX, RX, RZ, ES, LS, LC y LM, con su autonomía, su seguridad y su precio para decidir.",
+    "intro": "Lexus tiene 26 fichas y una gama que se lee de abajo arriba: el LBX como urbano premium, el UX y el NX como SUV compactos, el RX y el RZ en el segmento medio, y las berlinas ES y LS junto a los coupés LC y el monovolumen LM en la parte alta. Casi toda la gama es híbrida, con los eléctricos puros ganando peso en los últimos lanzamientos, así que comparar fichas de Lexus es comparar refinamiento, silencio y consumo más que potencia bruta. Quien busque un premium fiable y cómodo, sin el ruido de las marcas alemanas, encontrará aquí un catálogo completo.",
+    "n": 26,
+    "url": "/coches/marca/lexus/"
+  },
+  "coches/luxeed": {
+    "nombre": "Luxeed",
+    "title": "Luxeed: 5 eléctricos para comparar sin prejuicios",
+    "description": "Luxeed en 5 fichas: la berlina S7, el SUV coupé R7 y el monovolumen V9, con su autonomía, su potencia y su equipamiento.",
+    "intro": "Luxeed es una marca joven y su gama, con cinco fichas, se resume en tres nombres: la berlina S7, el SUV coupé R7 y el monovolumen V9, cada uno en varias versiones según el año. Son pocos modelos, y eso juega a favor de quien los compara: se puede leer la gama entera en una tarde y salir con una idea clara de qué ofrece cada uno en autonomía, espacio y equipamiento. La marca nació con tecnología Huawei en su ADN, y eso se nota en el equipamiento y en la conectividad. Si te atraen los eléctricos chinos de última generación, estas cinco fichas son un buen examen sin prejuicios.",
+    "n": 5,
+    "url": "/coches/marca/luxeed/"
+  },
+  "coches/maextro": {
+    "nombre": "Maextro",
+    "title": "Maextro: 4 berlinas de lujo con tecnología Huawei",
+    "description": "4 fichas técnicas de Maextro: S800 en tres versiones y V800 Huawei, con motores, autonomía y equipamiento de lujo para comparar la gama.",
+    "intro": "Maextro es la marca de lujo más ambiciosa del grupo Huawei, y su gama en esta web se resume en cuatro fichas: tres versiones del S800, la berlina insignia, y el V800, que completa la oferta por arriba. Son coches de representación, con dimensiones generosas, tecnología de asistencia avanzada y un nivel de equipamiento que busca competir con las berlinas de lujo europeas. No es una gama para todos los bolsillos ni para todos los usos, y precisamente por eso conviene leer las fichas con calma: las diferencias entre las versiones del S800 están en la mecánica y en la dotación, no en la imagen.",
+    "n": 4,
+    "url": "/coches/marca/maextro/"
   }
 }
