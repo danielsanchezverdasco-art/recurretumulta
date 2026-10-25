@@ -234,7 +234,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
       ? [
           {
             q: `¿Qué etiqueta DGT lleva la ${nombre}?`,
-            a: `${nombre} — etiqueta ${auto.etiquetaDgt}.`,
+            a: `La ${nombre} tiene etiqueta DGT «${auto.etiquetaDgt}». Revisa las restricciones de tu ZBE local antes de entrar, porque cada ciudad aplica sus propias reglas por etiqueta.`,
           },
         ]
       : []),
