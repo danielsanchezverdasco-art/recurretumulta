@@ -216,3 +216,84 @@ Notas verificadas en el push: 558 Benimar Mileo 243 aplicado a sus 2 copias idé
 - `egret-ey-6`: caso distinto, pérdida real de enlace — el contenido nuevo pierde 1 enlace frente a la vieja fresca (https://www.dgt.es, 1→0), con imágenes (3/3), tablas (27/27) y *Fuentes:* idénticos, desviación no documentada. Va a la siguiente ronda para restaurar ese enlace o documentar la desviación y re-medir.
 
 Siguiente puesto fuera del slice: 572 (s20-10, ya en cola). La cola sigue en serie, y quedo a tu disposición para seguir con lo que me pidas.
+# Parte s20-10 — coordinador único ORD-1525
+
+Rama nueva `dedupe-8g-s20-10` (no existía: 404 previo), base `dedupe-8g-merlin` @bd1ecdb3ff08c3f17067d117938687437b8f4286, un commit, sin force, sin main, sin Netlify, sin Cloudflare, sin Convex.
+Commit nuevo: `83e0d9a97d90ed17af47ae96ab34dc836b88178d`, verificado por GET de la ref (la ref apunta al mismo sha).
+Puestos 572–621: 39/50 pusheados, 11 no pusheados en esta ronda (8 por discrepancia de filtro + 3 por regla Convex), nada perdido.
+Medición: filtro establecido t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:*/créditos, líneas solo-enlace y plantilla de multa/analizador; encabezados incluidos; el filtro NO mide texto de anclas). Los pusheados: 0/0 en prosa contra la vieja fresca re-extraída de la cabeza vigente, 0 cruzado por lote de 2, estructura idéntica (href/img/tablas). Solo se aplicaron title/excerpt/content a todas las copias. Los lite no se tocaron.
+
+## Blogs pusheados (39)
+
+| Slug | Título / extracto | Prosa vieja → nueva | Ficheros |
+|---|---|---|---|
+| gwm-haval-h6-2024-precio | 47/140 | 668 → 795 | blog-posts-coches-exp26.ts |
+| hymer-free-600-campus-precio-ficha-tecnica | 56/152 | 1219 → 1167 | blog-posts-autocaravanas-lote3.ts |
+| chausson-630-first-line-precio-ficha-tecnica | 57/155 | 965 → 1091 | blog-posts-autocaravanas-lote3.ts |
+| kove-510f-scrambler-precio | 41/136 | 855 → 950 | blog-posts-lote14.ts |
+| laika-kreos-h-5109-precio-ficha-tecnica | 48/130 | 1063 → 1082 | blog-posts-autocaravanas-lote3.ts |
+| egret-ey-2 | 43/128 | 801 → 853 | blog-posts-patinetes-exp-p4.ts |
+| volkswagen-mission-efficiency-record-1278-km | 52/140 | 567 → 567 | blog-posts-motor-2026-o.ts |
+| roller-team-zefiro-696-2026-precio-autocaravana | 50/139 | 951 → 1065 | blog-posts-lote16.ts |
+| fb-mondial-piega-125-precio | 50/134 | 894 → 1006 | blog-posts-lote14.ts |
+| byd-sealion-05-2025-precio | 55/145 | 762 → 761 | blog-posts-coches-exp26.ts |
+| cuanto-cuesta-multa-espana-pagar-descuento-recurrir | 46/106 | 0 → 477 | blog-posts-estudios-geo.ts |
+| dethleffs-camper-560-fmk-2026-precio-ficha-tecnica | 47/126 | 899 → 952 | blog-posts-caravanas-lote1.ts |
+| evercross-h5 | 49/131 | 783 → 832 | blog-posts-patinetes-exp-p4.ts |
+| multa-trafico-madrid-recurrir | 51/144 | 498 → 477 | blog-data.ts |
+| carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica | 54/149 | 969 → 1007 | blog-posts-autocaravanas-merlin1.ts |
+| zontes-125c-custom-precio | 47/152 | 957 → 1097 | blog-posts-lote14.ts |
+| voge-sr150gt-2025-precio | 56/131 | 592 → 679 | blog-posts-motos-exp-m28.ts |
+| fendt-bianco-activ-550-sd-2026-precio-ficha-tecnica | 55/148 | 851 → 1021 | blog-posts-caravanas-lote1.ts |
+| lmc-cruiser-740-el-precio-ficha-tecnica | 47/132 | 973 → 1087 | blog-posts-autocaravanas-lote3.ts |
+| challenger-396-precio-ficha-tecnica | 49/144 | 1125 → 1094 | blog-posts-autocaravanas-lote3.ts |
+| etrusco-i-7400-qbc-precio-ficha-tecnica | 54/130 | 999 → 988 | blog-posts-autocaravanas-lote3.ts |
+| fb-mondial-hps-125-precio | 51/97 | 942 → 901 | blog-posts-lote14.ts |
+| knaus-van-ti-640-meg-vansation-precio-ficha-tecnica | 59/150 | 1177 → 1185 | blog-posts-autocaravanas-lote3.ts |
+| multa-drogas-al-volante | 59/148 | 622 → 741 | blog-posts-longtail-1.ts |
+| bavaria-i-700-c-precio-ficha-tecnica | 56/135 | 1074 → 1090 | blog-posts-autocaravanas-lote4.ts |
+| ktm-rc-125-2025-precio | 42/126 | 787 → 829 | blog-posts-nuevos-m4.ts |
+| xpeng-l03-2026-precio-espana | 48/147 | 632 → 627 | blog-posts-radar-20261016.ts |
+| burstner-elegance-i-920-g-precio-ficha-tecnica | 56/135 | 1180 → 1243 | blog-posts-autocaravanas-lote3.ts |
+| ofensiva-china-salon-paris-2026-20-marcas | 49/153 | 673 → 763 | blog-posts-salon-paris-china-2026.ts |
+| como-recurrir-multa-dgt-sin-abogado | 48/135 | 638 → 641 | blog-data.ts |
+| kukirin-a1 | 44/134 | 703 → 770 | blog-posts-patinetes-exp-p3.ts |
+| nissan-micra-2025-precio | 43/117 | 789 → 868 | blog-posts-coches-exp26.ts |
+| possl-summit-600-2026-precio-camper | 44/113 | 938 → 943 | blog-posts-lote16.ts |
+| renault-8-gordini-concept-paris-2026 | 53/149 | 636 → 701 | blog-posts-motor-2026-o.ts |
+| euramobil-profila-t-726-ef-precio-ficha-tecnica | 59/148 | 1001 → 974 | blog-posts-autocaravanas-lote3.ts |
+| globecar-summit-600-plus-precio-ficha-tecnica | 59/152 | 1089 → 1095 | blog-posts-autocaravanas-lote4.ts |
+| malibu-i-500-qb-precio-ficha-tecnica | 49/150 | 1118 → 1130 | blog-posts-autocaravanas-lote3.ts |
+| kabe-travel-master-imperial-i880-lgb-precio-ficha-tecnica | 56/129 | 1051 → 873 | blog-posts-autocaravanas-lote4.ts |
+| knaus-boxdrive-600-xl-precio-ficha-tecnica | 50/125 | 1077 → 999 | blog-posts-autocaravanas-lote4.ts |
+
+Ficheros del commit (17): blog-data.ts, blog-posts-autocaravanas-lote3.ts, blog-posts-autocaravanas-lote4.ts, blog-posts-autocaravanas-merlin1.ts, blog-posts-caravanas-lote1.ts, blog-posts-coches-exp26.ts, blog-posts-estudios-geo.ts, blog-posts-longtail-1.ts, blog-posts-lote14.ts, blog-posts-lote16.ts, blog-posts-motor-2026-o.ts, blog-posts-motos-exp-m28.ts, blog-posts-nuevos-m4.ts, blog-posts-patinetes-exp-p3.ts, blog-posts-patinetes-exp-p4.ts, blog-posts-radar-20261016.ts, blog-posts-salon-paris-china-2026.ts.
+
+Notas verificadas en el push: 588 Evercross H5 (entrada manual: el extractor del coordinador fallaba por comentarios entre entradas) se encontró con el extractor del subidor (1 copia, vieja fresca idéntica a la vieja guardada) y se pusheó con 0/0; 586 (vieja doblemente escapada) se verificó con la vieja decodificada (450→477 palabras, 0/0 real — el medidor crudo da 0 palabras en la vieja, un falso 0/0 que NO se usó como prueba) y se aplicó con saltos reales; 589 reparado, pusheado; anclas adaptadas con href idéntico respetadas en los pusheados.
+
+## No pusheados en esta ronda (11, nada perdido, viejas intactas)
+
+### A) Regla Convex — 3 blogs en blog-posts-db.ts (generado, NO editado a mano)
+
+Verificación previa: en el árbol vigente completo (10.265 entradas, sin truncar) NO existe ningún fichero repo.ts ni ningún directorio listas/, luego no hay copia repo.ts ni lista de cambios donde registrar. Conforme a la regla, estos 3 blogs NO se tocaron y se señalan nominalmente a Grok:
+
+- `multas-de-aparcamiento-y-grua-en-madrid-como-recuperar-tu-coche-y-recurrir-la-sancion-con-exito` (puesto 596).
+- `te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-europeo-como-francia-alemania-italia-o-portugal` (puesto 604).
+- `descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas` (puesto 619).
+
+Sus compañeros de lote 605 (Bavaria) y 618 (Malibu) sí se pushearon; el compañero 597 (Adria Compact) quedó en el grupo B siguiente.
+
+### B) Discrepancia de filtro — 8 blogs (verificador del slice 0/0, driver t14 con residuos pequeños, todos artefactos de plantilla/enlace, no prosa real)
+
+El verificador del slice (verificar_s20_10.py, con parches) da 0/0 en los 8; el driver t14 del subidor marca residuos porque su lista SKIP no cubre todas las variantes de plantilla del filtro establecido (no incluye la frase «si te ha llegado una multa», ni las variantes CTA «vas directo a los números», «solo quieres las cifras», «te interesan únicamente las cifras», «quieres ver la ficha directamente», ni los tokens de URL desnuda). No se tocó el filtro en mitad de la ronda para forzar un 0. Los 8 van a la siguiente ronda como commit de cierre de s20-10, con ambas mediciones declaradas para que Grok decida el filtro (precedente s20-06). Detalle verificado gramo a gramo:
+
+- `geely-galaxy-battleship-700-zhanjian-700`: t14 13/9, todos de la línea-plantilla de multa («si te ha llegado una multa y crees que puede tener un defecto, antes de pagar»).
+- `velca-nude-eon-motos-electricas-espanolas`: t14 10/9, todos de la misma línea-plantilla de multa.
+- `bmw-ce-04-vs-zero-fxe-cual-comprar`: t14 13/11, línea-plantilla de multa más juntura «cara a cara».
+- `fantic-caballero-500-rally-2025-precio-ficha-tecnica`: t14 12/22, todos tokens de la URL del manual Fantic (http www pieces fantic com uploads manuels mss fc700…), texto de enlace, no prosa.
+- `hymer-ml-t-570-xperience-precio-ficha-tecnica`: t14 6/6, línea-plantilla CTA («solo quieres las cifras con precio medidas plazas mma y galería»).
+- `hymer-b-klasse-ml-i-780-precio-ficha-tecnica`: t14 3/3, línea-plantilla CTA («quieres ver la ficha directamente medidas plazas precio»).
+- `adria-compact-supreme-sl-precio-ficha-tecnica`: t14 4/4, línea-plantilla CTA («te interesan únicamente las cifras precio mma plazas medidas»).
+- `dethleffs-just-go-t-7055-dbl-precio-ficha-tecnica`: t14 5/5, línea-plantilla CTA («vas directo a los números con precio mma plazas dimensiones»).
+
+Siguiente puesto fuera del slice: 622 (s20-11, otro coordinador, aún reescribiendo — NO está en esta cola). La cola sigue en serie con s20-12 (670–717), y quedo a tu disposición para seguir con lo que me pidas.
