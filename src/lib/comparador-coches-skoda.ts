@@ -1577,18 +1577,16 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Por 29.600 € es el SUV pequeño más sensato de su segmento, sin pagar por imagen ni por potencia innecesaria",
-      "Los 116 CV y 200 Nm, con solo 1.233 kg, mueven el coche con soltura en ciudad y en carretera",
-      "El consumo de 5,4 l/100 km mantiene el gasto en combustible en niveles de utilitario",
-      "El maletero de 400 litros resuelve la compra semanal y el equipaje de fin de semana",
-      "Los 9,7 segundos hasta 100 km/h lo hacen ágil en ciudad, que es donde vivirá la mayor parte del tiempo"
+      "Precio desde 29.600 € para un SUV de gasolina",
+      "116 CV y 200 Nm para 1.233 kg",
+      "Consumo de 5,4 l/100 km",
+      "Maletero de 400 litros",
+      "0-100 km/h en 9,7 s"
     ],
     contras: [
-      "La etiqueta C anticipa limitaciones futuras en las zonas de bajas emisiones",
-      "Probar el 1.5 TSI de 150 CV merece la pena: es bastante más divertido y cambia el carácter del coche",
-      "El interior usa plásticos duros que recuerdan que este es el escalón de acceso de Skoda",
-      "Los 196 km/h de punta no invitan a grandes viajes por autopista, aunque tampoco los impiden",
-      "La competencia aprieta en equipamiento, así que conviene comparar la dotación de serie antes de firmar"
+      "La etiqueta C anticipa limitaciones en las zonas de bajas emisiones",
+      "Tracción delantera",
+      "Velocidad máxima de 196 km/h",
     ],
     largoMm: 4241,
     anchoMm: 1793,
