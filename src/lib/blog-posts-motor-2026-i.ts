@@ -87,9 +87,9 @@ Solo en **concesionarios Zero europeos participantes**, hasta agotar las 20 unid
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },
 {
-  title: "Honda WN7 eléctrica por 15.000 €",
+  title: "Honda WN7: naked eléctrica de 68 CV por 15.000 €",
   slug: "honda-wn7-electrica-precio-espana-15000",
-  excerpt: "La primera moto grande eléctrica de Honda ya está en España: 15.000 €, 68 CV, 100 Nm, 140 km WMTC y carga rápida CCS2. Ficha completa y análisis.",
+  excerpt: "Naked eléctrica de Honda en España por 15.000 €, con 68 CV, par de 100 Nm y hasta 140 km según WMTC, batería de 9,3 kWh y CCS2 en 30 minutos.",
   category: "Novedades Motor",
   date: "2026-10-05",
   readTime: 8,
@@ -102,30 +102,23 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   ],
   content: `<img src=/media/honda-wn7-electrica-precio-espana-15000-hero.webp alt=Moto naked eléctrica roja y negra de estilo moderno en una calle de Madrid al amanecer>
 
-Honda por fin se ha tomado en serio la moto eléctrica grande. La **WN7** no es un scooter urbano con aspiraciones: es una **naked eléctrica de 68 CV y 100 Nm**, heredera directa del prototipo EV Fun que la marca enseñó en el EICMA 2024, y ya está a la venta en España por **15.000 €**. Los pedidos están abiertos y las primeras unidades llegan a los concesionarios este mismo octubre.
+Honda entra por fin con ambición en la moto eléctrica grande. La WN7 no pretende ser un scooter urbano disfrazado: es una naked con 68 CV y un par de 100 Nm, derivada del prototipo EV Fun que la marca presentó en el EICMA 2024, y ya se comercializa en España por 15.000 euros. Ya se pueden encargar y los primeros ejemplares arribarán a los puntos de venta en octubre de 2026.
 
-El nombre no es casual: **W** de *"Be the Wind"* (sé el viento), **N** de *naked* y **7** de su categoría de potencia dentro de la gama eléctrica de Honda. Y hay un detalle de ingeniería que la hace única: **no tiene bastidor**. La carcasa de la batería hace de estructura principal, una solución que le ha valido un premio internacional de diseño.
+El nombre resume su planteamiento. La W remite a *Be the Wind*, sé el viento; la N, a naked; y el 7, al escalón de potencia que ocupa en la gama eléctrica de Honda. En ingeniería, la solución más llamativa es la ausencia de bastidor convencional: la envolvente del acumulador actúa como pieza portante principal, una idea que le ha valido un galardón internacional de diseño.
 
-## Datos clave
+## Cifras que importan
 
-- **Precio en España:** 15.000 € (pedidos abiertos, entregas desde octubre de 2026)
-- **Motor:** 50 kW (68 CV), 100 Nm, refrigeración líquida
-- **Prestaciones:** 129 km/h de velocidad máxima, 0-100 km/h en 4,6 s
-- **Autonomía:** 140 km (WMTC); batería de iones de litio de 9,3 kWh
-- **Carga:** CCS2 de 20 a 80% en 30 min; enchufe doméstico Type 2 de 0 a 100% en menos de 2 h 30 min
-- **Peso:** 217 kg en orden de marcha
-- **Carnet:** A (existe versión de 11 kW para el carnet A1)
-- **Fuente:** <a href=https://honda.es/motorcycles/range/electric/wn7/overview.html>ficha oficial de la Honda WN7 en Honda España</a>
+El importe en nuestro mercado es de 15.000 euros, con pedidos abiertos y entregas desde octubre de 2026. El motor entrega 50 kW, equivalentes a 68 CV, con refrigeración líquida y un par máximo de 100 Nm. Alcanza 129 km/h de velocidad máxima y pasa de 0 a 100 km/h en 4,6 segundos. La autonomía homologada es de 140 kilómetros según el ciclo WMTC, gracias a un acumulador de litio de 9,3 kWh y 349 voltios. Para recargar, admite CCS2, con el que recupera del 20 al 80 % en 30 minutos, y también Type 2 doméstico, con una recarga completa en menos de 2 horas y 30 minutos. En casa, con un cargador mural de 6 kVA, llenarla por completo lleva menos de 3 horas. Pesa 217 kilos en orden de marcha. La versión de 50 kW exige el permiso A, aunque Honda ofrece además una variante limitada a 11 kW, es decir, 15 CV, apta para el permiso A1. La referencia de todos estos valores es la <a href=https://honda.es/motorcycles/range/electric/wn7/overview.html>web oficial de Honda España</a>.
 
-## Lo que la hace distinta
+## Carga rápida: su gran ventaja
 
-La WN7 juega en una liga donde casi no hay rivales japoneses. Su baza es la **carga rápida CCS2**, el mismo conector de los coches eléctricos: pasar del 20 al 80% en media hora es algo que la mayoría de motos eléctricas no pueden ni soñar. En casa, con un wallbox de 6 kVA, la carga completa baja de las 3 horas.
+En este segmento, casi ningún rival japonés ofrece algo parecido. La WN7 emplea el mismo conector CCS2 que los coches eléctricos, así que reponer del 20 al 80 % en media hora cambia el uso real: una parada breve en ruta sirve para seguir, algo que casi ninguna moto eléctrica permite. Un cargador mural doméstico de 6 kVA deja la batería llena en menos de tres horas.
 
-El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control de tracción HSTC, **4 modos de conducción** (Sport, Standard, Rain, Econ), **4 niveles de frenada regenerativa** regulables con levas en el manillar, pantalla TFT de 5 pulgadas con conectividad **RoadSync**, Smart Key, USB-C y el modo *Walking Speed* que mueve la moto a paso de peatón para maniobrar sus 217 kg.
+El equipamiento corresponde a una moto grande de verdad. Lleva frenos ABS en curva apoyados en una IMU, control de tracción HSTC, cuatro programas de marcha, Sport, Standard, Rain y Econ, y cuatro niveles de frenada regenerativa que se regulan con levas en el manillar. Suma instrumentación TFT de cinco pulgadas enlazada con RoadSync, llave inteligente Smart Key, toma USB-C y una función Walking Speed, que desplaza la moto a ritmo de peatón y facilita mover sus 217 kilos en maniobras.
 
 <img src=/media/honda-wn7-electrica-precio-espana-15000-cuerpo.webp alt=Moto eléctrica naked junto a un punto de carga rápida en una ciudad europea>
 
-## Ficha técnica (datos oficiales de Honda España)
+## Tabla oficial
 
 | Concepto | Honda WN7 2026 |
 |---|---|
@@ -142,7 +135,7 @@ El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control d
 | Frenos | Doble disco delantero 296 mm + ABS con IMU |
 | Pantalla | TFT 5" con RoadSync |
 
-## ¿Dónde se coloca frente a sus rivales?
+## Frente a dos rivales
 
 | Modelo | Precio | Potencia | Autonomía | Carga rápida |
 |---|---|---|---|---|
@@ -150,30 +143,37 @@ El equipamiento es de moto grande de verdad: **ABS en curva con IMU**, control d
 | <a href=/motos/zero-sr-f-2024-ficha-tecnica-precio/>Zero SR/F</a> | ~21.090 € | 83 kW (113 CV) | 283 km (ciudad) | No (opcional) |
 | <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Royal Enfield Flying Flea C6</a> | 5.990 € | 15,4 kW (21 CV) | 104 km WMTC | No |
 
-La WN7 se sitúa justo en el hueco entre la urbana asequible (Flying Flea) y la premium americana (Zero SR/F): **más moto que la primera, mucho más barata que la segunda**, y la única de las tres con carga rápida de verdad. Su punto débil es el de todas: 140 km WMTC dan para el día a día y poco más. En una prueba real con conducción deportiva en modo Sport, una unidad de pruebas se quedó en **96 km**; con pilotaje sensato debería superar los 120 km sin problema.
+La WN7 ocupa un hueco intermedio: ofrece bastante más moto que la urbana asequible de Royal Enfield y cuesta mucho menos que la premium americana de Zero, además de ser la única de las tres con una carga rápida auténtica. Su talón de Aquiles es común a todas las eléctricas: con 140 kilómetros homologados, el uso diario está cubierto, pero los viajes largos exigen planificar paradas. Un ensayo con ritmo deportivo en Sport dejó el alcance en 96 kilómetros; con una conducción tranquila, superar los 120 kilómetros resulta plausible.
 
-Tienes la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha técnica completa de la Honda WN7 en el comparador</a>, con galería de fotos oficiales, y puedes cotejarla con el resto en el <a href=/comparador-motos/>comparador de motos eléctricas</a>.
+Consulta la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha del comparador</a> y contrástala con otras en el <a href=/comparador-motos/>listado de motos eléctricas</a>. Incluye imágenes oficiales del modelo.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta la Honda WN7 en España?
-**15.000 €** de precio oficial. Los pedidos ya están abiertos en la red de concesionarios Honda y las primeras entregas llegan en octubre de 2026.
+### ¿Cuál es el precio de la Honda WN7 en España?
 
-### ¿Qué carnet hace falta para la Honda WN7?
-La versión de 50 kW exige el **carnet A**. Honda ofrece además una versión limitada a **11 kW (15 CV)** apta para el **carnet A1**.
+15.000 euros de precio oficial. Ya es posible encargarlas en los puntos de venta Honda; los primeros ejemplares arribarán en octubre de 2026.
 
-### ¿Qué autonomía real tiene la Honda WN7?
-Homologa **140 km en ciclo WMTC**. En una prueba real con conducción deportiva el resultado fue de 96 km; con un pilotaje normal debería moverse por encima de los 120 km.
+### ¿Qué permiso pide la WN7?
 
-### ¿Cuánto tarda en cargar la Honda WN7?
-Con **carga rápida CCS2** pasa del 20 al 80% en **30 minutos**. En un enchufe doméstico o wallbox (Type 2) la carga completa baja de las 2 horas y media.
+La variante de 50 kW pide el permiso A. Honda comercializa además una variante limitada a 11 kW, es decir, 15 CV, válida para el permiso A1.
 
-### ¿Es verdad que no tiene bastidor?
-Sí: la **carcasa de la batería funciona como elemento estructural**, sin un chasis tubular tradicional. Es una de las soluciones más atrevidas vistas en una moto eléctrica de serie.
+### ¿Qué alcance real cabe esperar?
 
-### ¿Dónde puedo ver la ficha técnica completa?
-En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.
+Homologa 140 kilómetros en ciclo WMTC. Un ensayo con ritmo deportivo arrojó 96 kilómetros; con una conducción normal, el alcance debería situarse por encima de los 120 kilómetros.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+### ¿Cuánto tarda en recargarse?
+
+Con CCS2, recupera del 20 al 80 % en 30 minutos. Con toma doméstica o wallbox Type 2, llenarla del todo lleva menos de dos horas y media.
+
+### ¿Es cierto que carece de bastidor?
+
+Sí: la envolvente del acumulador cumple la función estructural, sin bastidor tubular clásico. Pocas motos eléctricas de serie se atreven con algo así.
+
+### ¿Dónde se consulta la ficha completa?
+
+En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha del comparador</a>, con imágenes oficiales, ventajas e inconvenientes y datos contrastados.
+
+¿Una sanción que no te convence? Revisa aquí si tiene algún defecto antes de abonarla: <a href=https://recurretumulta.online/>revisión gratuita con IA</a>.
+`,
 },
 ];

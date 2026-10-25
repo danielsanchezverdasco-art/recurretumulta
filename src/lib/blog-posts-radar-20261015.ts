@@ -11,9 +11,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const RADAR_20261015_POSTS: BlogPost[] = [
   {
     slug: "skoda-epiq-sportline-2026-paris",
-    title: "Skoda Epiq Sportline: 440 km de autonomía y 211 CV",
+    title: "Skoda Epiq Sportline: el acabado deportivo de París",
     excerpt:
-      "El Skoda Epiq Sportline debuta en el Salón de París 2026: el acabado más deportivo y equipado del SUV eléctrico hecho en Pamplona, con versiones Epiq 40 (99 kW) y Epiq 55 (155 kW) y hasta 440 km de autonomía.",
+      "Debut en París 2026 del Epiq Sportline, fabricado en Pamplona: Epiq 40 de 99 kW y más de 310 km, Epiq 55 de 155 kW y hasta 440 km, sin precio aún.",
     category: "Novedades Motor",
     date: "2026-10-15",
     readTime: 6,
@@ -28,13 +28,15 @@ export const RADAR_20261015_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/skoda-epiq-sportline-2026-hero.webp alt=Skoda Epiq, SUV eléctrico compacto, vista lateral tres cuartos en color claro>
 
-*Foto: Skoda (kit de prensa oficial, skoda-storyboard.com). Imagen oficial del Epiq; el acabado Sportline añade sobre esta base los detalles deportivos descritos en el artículo (parrilla iluminada, llantas y acabados específicos).*
+Imagen de prensa de Skoda: el Epiq que aparece en la fotografía sirve de base, y sobre ella el acabado Sportline suma la parrilla iluminada, las llantas de diseño deportivo y los acabados específicos que se describen más abajo.
 
-**Ficha completa del modelo:** <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>Skoda Epiq 2026 — ficha técnica, precio y autonomía</a>
+Para consultar todos los datos del modelo base, está disponible la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>página con la ficha del Skoda Epiq 2026</a>.
 
-Skoda ha aprovechado el **Salón del Automóvil de París 2026** (13–18 de octubre) para ampliar la gama de su eléctrico más pequeño y asequible: el **Epiq Sportline**. No es un modelo nuevo, sino el **acabado más deportivo y equipado** del Epiq, el SUV urbano 100 % eléctrico que la marca fabrica en **Pamplona**. Llega con dos versiones mecánicas, **Epiq 40** y **Epiq 55**, y autonomías de **más de 310 km** y **hasta 440 km** respectivamente.
+Entre el 13 y el 18 de octubre de 2026, el Salón del Automóvil de París sirvió de escenario para que Skoda ampliara la familia de su eléctrico urbano más asequible. El protagonista fue el Epiq Sportline, una variante que no debe confundirse con un modelo inédito: se trata del acabado con carácter más deportivo y con la dotación de serie más completa dentro de la gama Epiq. El coche, un SUV urbano totalmente eléctrico, sale de la planta de Pamplona, lo que le da un marcado acento español dentro de la oferta europea de la marca checa.
 
-## Epiq 40 y Epiq 55: las dos versiones del Sportline
+La gama Sportline se articula en dos variantes mecánicas, denominadas Epiq 40 y Epiq 55. La primera entrega 99 kW, equivalentes a unos 135 CV, y recurre a una batería con 38,5 kWh brutos y 37 kWh útiles, con la que supera los 310 kilómetros de autonomía en ciclo WLTP. La segunda sube hasta 155 kW, alrededor de 211 CV, y monta una batería de 55 kWh brutos y 52 kWh netos, que le permite alcanzar hasta 440 kilómetros con una carga completa, también en WLTP. El par máximo acompaña esa diferencia de potencia: 267 Nm en el Epiq 40 frente a 290 Nm en el Epiq 55.
+
+## Dos variantes, una misma velocidad punta
 
 | Dato verificado | Epiq 40 | Epiq 55 |
 |---|---|---|
@@ -46,33 +48,29 @@ Skoda ha aprovechado el **Salón del Automóvil de París 2026** (13–18 de oct
 | 0–100 km/h | No publicado | 7,1 s |
 | Velocidad máxima | 160 km/h | 160 km/h |
 
-Las dos versiones comparten la velocidad punta (limitada a 160 km/h) y tres aliados de la eficiencia: **frenada regenerativa**, modo de avance por inercia y **asistente ECO**, que usa indicaciones en el cuadro digital para fomentar una conducción eficiente.
+Ambas variantes comparten una velocidad máxima de 160 km/h, limitada electrónicamente, y también comparten tres recursos orientados a estirar cada kilovatio: la recuperación de energía en las frenadas, un modo que permite avanzar por inercia sin tracción y un asistente ECO que muestra indicaciones en la pantalla situada tras el volante para sugerir una conducción más eficiente. Esos tres elementos, más que la potencia bruta, explican buena parte del comportamiento cotidiano de un urbano eléctrico pensado para ciudad y extrarradio.
+
+En carga rápida, los tiempos resultan muy parecidos entre variantes: pasar del 10 al 80 por ciento de la batería lleva 23 minutos en el Epiq 40 y 24 minutos en el Epiq 55. La aceleración de 0 a 100 km/h, en cambio, solo está comunicada para la variante más potente, que la completa en 7,1 segundos; de la variante de acceso no existe un dato oficial publicado, y conviene no rellenar ese hueco con estimaciones.
 
 <img src=/media/skoda-epiq-sportline-2026-lateral.webp alt=Skoda Epiq en negro, perfil lateral con llantas de diseño deportivo>
 
-## El Epiq mejor equipado de la gama
+## La dotación más completa de la familia Epiq
 
-El Sportline se convierte también en el Epiq con más equipamiento de serie de toda la gama:
+El Sportline no se limita a un cambio estético: se convierte en el Epiq con mayor equipamiento de serie de toda la familia. Entre los elementos incluidos sin sobrecoste figuran los faros matriciales LED, los pilotos traseros Top LED, la parrilla delantera iluminada conocida como Light Band, los asientos deportivos con ajuste eléctrico y un volante calefactado que incorpora levas tras él. A todo ello se suman detalles de imagen propios del acabado, que refuerzan su carácter dinámico sin convertirlo en una versión radical.
 
-- **Faros LED Matrix** y pilotos traseros Top LED
-- **Parrilla delantera iluminada** (Light Band)
-- **Asientos deportivos eléctricos**
-- **Volante calefactado con levas** de serie
-- Detalles estéticos deportivos propios del acabado Sportline
+Quien quiera ir más allá dispone de tres paquetes opcionales. El denominado Light & View agrupa mejoras de iluminación; el Travel añade el asistente de viaje Travel Assist 3.0, el sistema Crew Protect Assist, la navegación y tres años del servicio Skoda Connect Premium; y el Premium reúne las cámaras perimetrales Top Area View 360 grados, el equipo de sonido Canton con diez altavoces, el maletero delantero o frunk, el aparcamiento a distancia, el aparcamiento memorizado y la ayuda a la marcha atrás. Como opciones sueltas, la marca ofrece además el techo panorámico de cristal, la pintura en dos tonos, el gancho de remolque y la bomba de calor, un elemento útil para preservar autonomía en invierno.
 
-Además hay tres paquetes opcionales: **Light & View** (iluminación), **Travel** (Travel Assist 3.0, Crew Protect Assist, navegación y tres años de Skoda Connect Premium) y **Premium** (cámaras panorámicas Top Area View 360°, sonido Canton de 10 altavoces, *frunk* o maletero delantero, Remote Parking, Trained Parking y Reversing Assist). En opciones sueltas se ofrecen techo panorámico de cristal, pintura bitono, gancho de remolque y bomba de calor.
+## Sin precio ni fecha confirmados
 
-## Precio: el dato que falta
+El dato que más interesa a muchos compradores sigue sin existir: Skoda no ha anunciado cuánto costará el Epiq Sportline ni cuándo llegará a los concesionarios. Ante ese vacío, lo prudente es mirar la tarifa del Epiq convencional como referencia, sin trasladarla directamente al Sportline. En España, la tarifa del modelo parte desde 26.915 euros según la lista de septiembre de 2026, y la variante de acceso llegó a anunciarse desde 22.800 euros, una cifra que bajaba hasta 18.500 euros al aplicar ayudas y descuentos. Como el Sportline ocupa la parte alta de la gama, cabe esperar un precio superior al de esas referencias, pero cualquier cantidad concreta que se publique hoy sería una invención.
 
-Skoda **no ha comunicado el precio del Epiq Sportline ni su fecha de llegada** a los concesionarios. Como referencia, la tarifa del Epiq en España parte **desde 26.915 €** (tarifa de septiembre de 2026), y la versión de acceso del modelo se ha llegado a anunciar **desde 22.800 €** (18.500 € con ayudas y descuentos). El posicionamiento del Sportline como tope de gama hace esperar un precio superior, pero **cualquier cifra concreta a día de hoy sería inventada**.
+## Fabricado en Pamplona en un buen momento
 
-## Hecho en España y en racha
+El Epiq presume de fabricación española: se produce en Pamplona, dentro de una estrategia industrial que ha convertido a esa planta en un punto clave para los eléctricos compactos del grupo. Los números acompañan al modelo en nuestro país: en septiembre de 2026 registró su mejor mes en España, con 98 unidades matriculadas. A escala mundial, Skoda comunica una cifra conjunta superior a 70.000 pedidos para dos eléctricos: el Epiq y, junto a él, el Peaq, un SUV grande de la marca que también se mostró en París. En el certamen parisino, la marca expuso quince vehículos, con esos dos eléctricos como grandes protagonistas de su stand.
 
-El Epiq lleva el sello *Made in Spain*: se fabrica en **Pamplona**. En septiembre de 2026 firmó su **mejor mes en España con 98 matriculaciones**, y Skoda asegura que entre el Epiq y el Peaq (su nuevo SUV eléctrico grande, también expuesto en París) suman ya **más de 70.000 pedidos** en todo el mundo. En París la marca expone 15 coches, con el Epiq y el Peaq como protagonistas eléctricos.
+Para quien quiera conocer el modelo base con todo detalle, conviene revisar la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha del Skoda Epiq 2026 con su precio y autonomía</a>, además del reportaje <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>dedicado al Epiq como eléctrico asequible fabricado en España</a>. Y para valorar otras opciones eléctricas de precio contenido, el <a href=/coches/>comparador general de coches eléctricos</a> permite contrastar alternativas dentro de la misma franja.
 
-Si te interesa el modelo base, tienes la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha técnica completa del Skoda Epiq 2026</a> y el artículo <a href=/blog/skoda-epiq-electrico-barato-precio-espana/>Skoda Epiq: el eléctrico barato hecho en España</a>. Y si buscas alternativas eléctricas asequibles, compara con el resto de la gama en el <a href=/coches/>comparador de coches eléctricos</a>.
-
-## Lo que Skoda NO ha publicado del Sportline (y no hay que inventar)
+## Datos que Skoda aún no ha facilitado
 
 | Dato | Estado |
 |---|---|
@@ -85,29 +83,29 @@ Si te interesa el modelo base, tienes la <a href=/coches/skoda-epiq-2026-precio-
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Skoda Epiq Sportline?
+### ¿Qué aporta el Epiq Sportline dentro de la gama?
 
-Es el nuevo acabado deportivo y tope de gama del Skoda Epiq, presentado en el Salón de París 2026. Añade estética deportiva y el mayor equipamiento de serie de la gama sobre las versiones Epiq 40 (99 kW) y Epiq 55 (155 kW).
+Se trata del acabado deportivo y más equipado del Skoda Epiq, dado a conocer en el Salón de París 2026. Sobre las variantes Epiq 40, con 99 kW, y Epiq 55, con 155 kW, añade imagen deportiva y la dotación de serie más amplia de la familia.
 
-### ¿Cuánta autonomía tiene el Epiq Sportline?
+### ¿Qué autonomía alcanza cada variante?
 
-Según Skoda: más de 310 km en el Epiq 40 (batería de 37 kWh netos) y hasta 440 km en el Epiq 55 (batería de 52 kWh netos), en ciclo WLTP.
+En ciclo WLTP, el Epiq 40 supera los 310 kilómetros gracias a su batería útil de 37 kWh, mientras que el Epiq 55 llega hasta 440 kilómetros con su batería útil de 52 kWh, según las cifras comunicadas por Skoda.
 
-### ¿Cuánto tarda en cargar el Epiq Sportline?
+### ¿Cuánto tiempo necesita para cargar en corriente continua?
 
-Del 10 al 80 % en 23 minutos (Epiq 40) y 24 minutos (Epiq 55) en carga rápida de corriente continua, según datos oficiales de Skoda.
+Para pasar del 10 al 80 por ciento en un cargador rápido, el Epiq 40 emplea 23 minutos y el Epiq 55 emplea 24 minutos, de acuerdo con los datos oficiales de la marca.
 
-### ¿Cuánto cuesta el Skoda Epiq Sportline?
+### ¿Se sabe ya cuánto costará el Sportline?
 
-Skoda no ha publicado el precio del acabado Sportline. Como referencia, el Epiq parte desde 26.915 € en España (tarifa de septiembre de 2026).
+No. Skoda todavía no ha comunicado el precio de este acabado. Como orientación, el Epiq convencional arranca desde 26.915 euros en España con la tarifa de septiembre de 2026.
 
-### ¿Dónde se fabrica el Skoda Epiq?
+### ¿En qué planta se construye el Epiq?
 
-En Pamplona, España. Es uno de los eléctricos *Made in Spain* más asequibles del mercado.
+En Pamplona, en España, lo que lo convierte en uno de los eléctricos fabricados en nuestro país con un precio más contenido.
 
-### ¿El Epiq Sportline es un modelo nuevo?
+### ¿Estamos ante un coche completamente nuevo?
 
-No: es un acabado (versión) del Skoda Epiq, que ya está a la venta. La ficha técnica del modelo es la del <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>Skoda Epiq 2026</a>.
+No. El Sportline es una versión, un acabado, del Skoda Epiq que ya se comercializa. Los datos técnicos del modelo pueden consultarse en la <a href=/coches/skoda-epiq-2026-precio-ficha-tecnica/>ficha técnica del Skoda Epiq 2026</a>.
 
 **¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
