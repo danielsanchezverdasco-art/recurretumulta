@@ -276,9 +276,9 @@ Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barat
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "GAC Aion V: 510 km desde 37.995 €",
+    title: "GAC Aion V 2024: 510 km WLTP por 37.995 €",
     slug: "gac-aion-v-2024-precio",
-    excerpt: "Precio y ficha técnica del GAC Aion V 2024: SUV eléctrico de 204 CV, batería LFP de 75,3 kWh, 510 km WLTP, 5 estrellas Euro NCAP y carga de 180 kW. Ya a la venta en España desde 37.995 €.",
+    excerpt: "SUV eléctrico familiar con 204 CV, batería LFP de 75,3 kWh y 510 km WLTP: el GAC Aion V parte de 37.995 € en España, con carga de 180 kW.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -288,9 +288,9 @@ Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barat
 
 **¿Buscas solo los datos?** <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica del GAC Aion V</a>: precio, autonomía, batería y equipamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **GAC Aion V 2024** es la carta de presentación en Europa del quinto fabricante de China (socio de Toyota y Honda en su país). Es un SUV eléctrico familiar de **204 CV** con batería LFP de **75,3 kWh**, **510 km de autonomía WLTP** y carga rápida de **180 kW**. Ya se vende en España desde **37.995 €**, con **5 estrellas Euro NCAP** y una garantía de batería de 8 años o 200.000 km.
+La llegada del Aion V 2024 a Europa es la presentación del quinto constructor de China, un grupo que en su mercado local trabaja junto a Toyota y Honda. Se trata de un SUV eléctrico familiar con 204 CV, 510 km de autonomía en ciclo WLTP y una batería LFP de 75,3 kWh, más una carga rápida de 180 kW. En España ya está a la venta a partir de 37.995 €, con cinco estrellas Euro NCAP y ocho años o 200.000 km de garantía para la batería.
 
-## Ficha técnica resumida
+## Datos clave del Aion V
 
 | Concepto | Dato |
 |---|---|
@@ -311,62 +311,69 @@ El **GAC Aion V 2024** es la carta de presentación en Europa del quinto fabrica
 
 <a href=/coches/gac-aion-v-2024-precio-ficha-tecnica/>Ver la ficha técnica completa del GAC Aion V con galería de fotos</a>
 
-## Batería grande, carga muy rápida
+## Carga rápida y batería LFP
 
-El Aion V apuesta por la química **LFP** (más duradera y segura, admite cargas al 100 % sin miedo) en un pack de **75,3 kWh**. Con 180 kW en continua pasa del 10 al 80 % en **24 minutos**, una de las mejores cifras de su segmento. De serie trae **bomba de calor**, función **V2L de 3,3 kW** para alimentar dispositivos externos y cargador embarcado bidireccional de 11 kW.
+La química elegida es la LFP, más duradera y segura, que admite cargar hasta el 100 % sin temor, en un paquete de 75,3 kWh. En corriente continua, con 180 kW, recupera del 10 al 80 % en solo 24 minutos, entre los mejores registros de su categoría. De serie incluye bomba de calor y función V2L de 3,3 kW, que da corriente a aparatos externos, además de un cargador embarcado bidireccional de 11 kW.
 
-El motor delantero de 204 CV lo lleva a 100 km/h en 7,9 s, con un consumo homologado de solo 16,7 kWh/100 km para sus casi dos toneladas.
+Con 204 CV en el eje delantero, llega a los 100 km/h en 7,9 segundos, y su consumo homologado es de 16,7 kWh cada 100 km pese a rozar las dos toneladas.
 
-## Un salón sobre ruedas
+## Por dentro: un salón rodante
 
-Por dentro, el Aion V sorprende: pantalla flotante de **14,6 pulgadas**, asientos delanteros con **masaje de 8 puntos**, **nevera con función de calefacción**, mesita plegable y asientos traseros reclinables. La batalla de 2.775 mm da un espacio para las piernas de berlina grande. El maletero, con **427 litros**, es su punto más justo frente a rivales como el ID.4.
+El interior sorprende por su pantalla flotante de 14,6 pulgadas y por unos asientos delanteros que ofrecen masaje de 8 puntos, además de nevera que también calienta, asientos traseros reclinables y una mesita plegable. Con 2.775 mm de batalla, el hueco para las piernas es de berlina grande. El maletero, de 427 litros, queda como su punto más justo si se mira a rivales como el ID.4, que va más holgado en ese aspecto.
 
-En seguridad, Euro NCAP le otorgó **5 estrellas en 2025** (88 % adultos, 85 % niños, 79 % usuarios vulnerables, 78 % asistencias), con airbag central de serie.
+En seguridad, Euro NCAP le dio 5 estrellas en 2025: 88 % en adultos, 85 % en niños, 79 % en usuarios vulnerables y 78 % en asistencias, con airbag central de serie.
 
 <img src=/media/gac-aion-v-2024-precio-ficha-tecnica-oficial.webp alt="Trasera del GAC Aion V 2024">
 
-## Fabricado en Europa
+## Ensamblado en Europa, en Graz
 
-Un dato clave: el Aion V europeo **se ensambla en la planta de Magna Steyr en Graz (Austria)**, la misma que fabrica para Mercedes y BMW. Eso le permite esquivar parte de los aranceles a los eléctricos chinos. En España lo distribuye el **Grupo Invicta** con una red inicial de 29 puntos, y la garantía cubre **8 años o 160.000 km** el coche y **8 años o 200.000 km** la batería.
+Un dato clave: Graz (Austria) acoge el ensamblado de la versión europea, en las instalaciones de Magna Steyr, que también produce para Mercedes y BMW. Así esquiva parte de los aranceles que pesan sobre los eléctricos chinos. En España lo reparte el Grupo Invicta, con una red de salida de 29 puntos, y la garantía alcanza ocho años o 160.000 km en el coche y ocho años o 200.000 km en la batería.
 
-## Historia del modelo
+## Cronología: de GAC al Aion V
 
-- **1997**: nace GAC (Guangzhou Automobile Group), hoy top 5 de China.
-- **2018**: crea la marca Aion para sus eléctricos.
-- **2020**: primera generación del Aion V en China.
-- **2024**: segunda generación, con diseño "T-Rex" y plataforma AEP 3.0.
-- **Septiembre 2025**: puesta de largo europea en el IAA de Múnich, desde 35.990 €.
-- **Verano 2026**: inicio de ventas en España desde 37.995 € de la mano del Grupo Invicta.
+- **1997:** nace GAC, el grupo de Guangzhou, hoy entre los cinco grandes de China.
+- **2018:** surge la marca Aion, dedicada a los eléctricos del grupo.
+- **2020:** la primera generación del Aion V llega a China.
+- **2024:** segunda generación, con el diseño «T-Rex» y la plataforma AEP 3.0.
+- **Septiembre de 2025:** debut en Europa en el salón IAA de Múnich, con un precio de partida de 35.990 €.
+- **Verano de 2026:** arranca la venta en España, con el Grupo Invicta, a partir de 37.995 €.
 
-## Cuánto cuesta mantenerlo
+## Mantenerlo: gasto mensual estimado
 
-Estimación orientativa con 15.000 km al año: unos **121 €/mes**, con 38 € de electricidad (16,7 kWh/100 km a 0,18 €/kWh), 67 € de seguro a todo riesgo y 17 € de mantenimiento. Con etiqueta Cero y sin impuesto de matriculación.
+Con 15.000 km al año, el cálculo orientativo ronda los 121 € al mes: 38 € de luz —a 0,18 € el kWh y 16,7 kWh cada 100 km—, 67 € para el seguro a todo riesgo, más 17 € de mantenimiento. A eso se suma la etiqueta Cero y la exención del impuesto de matriculación.
 
 <img src=/media/gac-aion-v-2024-precio-ficha-tecnica-interior.webp alt="Interior del GAC Aion V 2024">
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuánto cuesta el GAC Aion V en España?
-Desde 37.995 € en acabado Luxury; el Premium, más equipado, sube a 40.595 €.
+### ¿Desde qué precio parte en España?
 
-### ¿Qué autonomía tiene?
-510 km WLTP con la batería LFP de 75,3 kWh.
+Desde 37.995 € en el acabado Luxury; el Premium, con más equipamiento, sube hasta 40.595 €.
 
-### ¿Es seguro? ¿Tiene Euro NCAP?
-Sí: 5 estrellas Euro NCAP (2025), con airbag central de serie.
+### ¿Cuántos kilómetros hace con una carga?
 
-### ¿Dónde se fabrica el Aion V europeo?
-En Graz (Austria), en la planta de Magna Steyr, lo que reduce el impacto de los aranceles.
+510 km en ciclo WLTP, gracias a la batería LFP de 75,3 kWh.
 
-### ¿Qué garantía tiene?
-8 años o 160.000 km para el vehículo y 8 años o 200.000 km para la batería.
+### ¿Qué nota de seguridad tiene?
 
-### ¿Qué tal es el maletero?
-De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el Skoda Enyaq.
+Cinco estrellas Euro NCAP en 2025, con airbag central de serie.
+
+### ¿En qué planta se ensambla la versión europea?
+
+En Graz (Austria), en Magna Steyr: eso reduce el impacto de los aranceles.
+
+### ¿Cuánto dura la garantía?
+
+Ocho años o 160.000 km cubren el vehículo, y ocho años o 200.000 km, la batería.
+
+### ¿El maletero es grande?
+
+Son 427 litros: una cifra correcta, aunque queda corto frente al Volkswagen ID.4 y al Skoda Enyaq.
 
 *Fuentes: <a href=https://www.km77.com/coches/gac/aion-v/2024/estandar/informacion>km77.com</a>, <a href=https://soloauto.net/gac-espana-aion-v-aion-ut-coches-electricos/>soloauto.net</a>, <a href=https://testcoches.es/pruebas/es-tan-feo-como-bueno-he-probado-el-gac-aion-v-y-sorprende-mucho-mas-de-lo-que-aparenta/>testcoches.es</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
   },
   {
     title: "iCar 03: el SUV eléctrico off-road de Chery",
