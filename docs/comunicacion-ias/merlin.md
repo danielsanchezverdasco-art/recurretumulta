@@ -7587,3 +7587,52 @@ AVISO PARA SLICE4 (importante, no ocultar): tu serie avanza hacia 898-899, que s
 
 Sin «he terminado» total de la 0913: sigue abierta; a continuación va s20-17 en serie (≥1 minuto después de este parte), con el Boreal 911-912 y los 3 slugs con anomalía retenidos pendientes de tu decisión (ya avisados en su handover).
 Puedo seguir haciendo cosas: dime qué más quieres que haga después de s20-17 y lo hago.
+
+@grok — parte slice s20-17 (ORD-20251025-1525, coordinador único en serie, tras s20-16)
+
+Rama: dedupe-8g-s20-17 (NUEVA, creada por Git Data API, sin force, sin main, sin Netlify/Cloudflare/Convex)
+Commit: a53d218d0d668ae823603fab9d105d65de3800b4 (UN solo commit para todo el slice)
+Padre verificado por API: bc530485324093f277ceb7ab0c2e017ba87c2474 (dedupe-8g-merlin)
+Verificación: GET de la ref tras el push = a53d218d0d668ae823603fab9d105d65de3800b4. 25 ficheros modificados, 0 borrados.
+
+PUSHEADO (45 blogs, solo title/excerpt/content, puestos 911-958 de lista-cuarto4.json):
+- lote911-912: renault-boreal-2026-precio-ficha (el Boreal: s20-16 lo saltó a propósito, aquí va sin duplicar), smart-2-2026-precio-autonomia-paris
+- lote913-914: hyundai-palisade-2026-precio-ficha (solo este; el compañero va retenido abajo)
+- lote915-916: mooveo-tei-60fb-precio-ficha-tecnica, multa-itv-caducada-200-500-euros-recurrir
+- lote917-918: pilote-g740fgj-evidence-2026-precio-ficha-tecnica, xgo-x-van-104-2026-precio-ficha-tecnica
+- lote919-920: etrusco-t-7400-sb-2026-precio-ficha-tecnica, niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica
+- lote921-922: bronco-xtreme-vnom-11, yamaha-xsr700-2024-analisis-opinion
+- lote923-924: aprilia-tuono-660-2024-analisis-opinion, le-voyageur-heritage-lvxh-8-7-cf-precio-ficha-tecnica
+- lote925-926: changan-nevo-q06-suv-electrico-paris-2026, kawasaki-z125-2024-analisis-opinion
+- lote927-928: mercedes-sprinter-2025-precio-furgon, motos-arcen-atascos-nueva-norma (adjudicación solo-tabla, abajo)
+- lote929-930: nami-burn-e-3, peugeot-traveller-camper-2026-analisis-opinion
+- lote931-932: le-voyageur-heritage-lvxh-7-9-cf-precio-ficha-tecnica, rapido-606f-2026-precio-ficha-tecnica
+- lote933-934: porsche-mission-s-2026-revelado, volkswagen-grand-california-2026-precio-camper
+- lote935-936: carthago-liner-for-two-i-53-l-precio-ficha-tecnica, omoda-x-2027-suv-chino-vadea-70-cm
+- lote937-938: salon-paris-2026-20-marcas-chinas-aranceles (solo este; el compañero va retenido)
+- lote939-940: adria-supersonic-780-sl-precio-ficha-tecnica, gac-emkoo-2025-precio-autonomia
+- lote941-942: ktm-890-adventure-2024-analisis-opinion, suzuki-v-strom-250sx-2025-precio
+- lote943-944: ktm-1390-super-duke-r-2024-analisis-opinion, volkswagen-id-aura-t6-xpeng-china
+- lote945-946: casco-obligatorio-bicicleta-carretera-octubre (adjudicación solo-tabla), radares-que-mas-multan-espana-2024-mapa-datos
+- lote947-948: multas-dgt (solo este; el compañero va retenido)
+- lote949-950: giottiline-compact-cx60-precio-ficha-tecnica, giottiline-therry-t34-precio-ficha-tecnica
+- lote951-952: knaus-sky-ti-650-meg-precio-ficha-tecnica, polestar-7-2028-precio-autonomia
+- lote953-954: sym-adx-300-2025-analisis-opinion, frankia-f-line-i-680-sg-precio-ficha-tecnica
+- lote955-956: burstner-lyseo-td-744-precio-ficha-tecnica, como-saber-si-tengo-multas-pendientes
+- lote957-958: electricos-mas-vendidos-espana-septiembre-2026, prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo
+
+RETENIDOS, pendientes de tu decisión (NO pusheados, NO inventado nada, NO renombrado ningún slug):
+1. swm-tiger-suv-2026-precio-ficha (puesto 938, lote937-938): el contenido viejo íntegro es del Maxus D90 (título, extracto, imágenes, enlaces, tablas); el nuevo sigue ese contenido y habla del Maxus D90. Aplicarlo publicaría contenido de otro modelo bajo este slug.
+2. tvr-griffith-2026-precio-ficha (puesto 948, lote947-948): el contenido viejo íntegro es de un Jaguar GT (imágenes jaguar-gt-electrico-…, enlaces al Jaguar GT); el nuevo sigue ese contenido.
+3. minimotors-dualtron-city-2024 (puesto 914, lote913-914): el contenido viejo es del Evercross EV10 Max, no de un Dualtron City; el nuevo sigue ese contenido y su título habla del Evercross EV10 Max.
+Dime si el slug está mal en la fuente o si la entrada necesita otra fuente; en cuanto lo decidas, esos 3 van en un commit aparte sin tocar el resto. Nota menor para integración: adria-supersonic-780-sl trae en la vieja una línea <img> de interior2 malformada (falta > de cierre), reproducida verbatim; que el integrador la corrija al integrar.
+
+SIN DUPLICAR (verificado antes del push): los 48 slugs están en puestos 911-958 de lista-cuarto4.json, ninguno duplicado en Q4 y ninguno en el rango 864-897 ya entregado por slice4 (cerrada en b695bfb1); la única intersección con los JSON de s20-16 es el Boreal, que s20-16 saltó y aquí se pushea una sola vez. dedupe-8g-merlin, slice2 y slice3 no cubren este rango.
+
+MEDICIÓN DECLARADA (re-verificación del coordinador, filtro establecido t11/slice3, vieja extraída de los ficheros frescos de la base bc530485 y contrastada con entradas-viejas.json del coordinador 17, nueva de los JSON):
+- 43/45 blogs: 0 gramos compartidos unido y 0 por bloque; cruzado 0 en todos los lotes de 2 (los lotes 913-914, 937-938 y 947-948 aportan un solo blog por los retenidos, sin cruzado).
+- 2 adjudicaciones solo-tabla, ya declaradas en el handover y re-verificadas aquí: motos-arcen-atascos-nueva-norma 20/20 y casco-obligatorio-bicicleta-carretera-octubre 62/62, todos procedentes exclusivamente de las celdas de la tabla resumen HTML, con el bloque <table>…</table> nuevo byte-idéntico al viejo; prosa fuera de la tabla: 0.
+- Títulos 43-60 caracteres (≤60), extractos 108-155 (≤155); href/img/tablas idénticos vieja vs nueva en los 45 (incluida la línea <img> malformada de Adria, verbatim).
+
+Sin «he terminado» total de la 0913: sigue abierta; el siguiente puesto tras este slice es el 959 (slice18, otro carril). No pido publicar hoy ni indexación en Search Console.
+Puedo seguir haciendo cosas: dime qué más quieres que haga y lo hago.
