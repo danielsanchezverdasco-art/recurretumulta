@@ -69,3 +69,8 @@
 
 ## TANDA 3 PARCIAL 4 — 12 fotos (w047, w053, w054, w057, w063, w065)
 - 12/12 con foto real verificada, 0 «sin foto real». CSV: 164 filas. Copias -hero ×11. 0 sobrescrituras HEAD. Tanda 3: 48/50 (falta w058).
+
+## TANDA 3 PARCIAL 4 PUBLICADA — fotos-283-niky @ ada13e011 (verificado ls-remote = local, sin force)
+
+## TANDA 3 CIERRE + TANDA 4 INICIO — PARCIAL 5 — 18 fotos (w058, w073–w080)
+- 18/18 con foto real verificada, 0 «sin foto real». CSV: 182 filas. Copias -hero ×16. 0 sobrescrituras HEAD. Tanda 3: 50/50 CERRADA.
