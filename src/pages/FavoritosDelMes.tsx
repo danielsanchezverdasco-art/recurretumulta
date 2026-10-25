@@ -214,6 +214,19 @@ export default function FavoritosDelMes() {
             </div>
           </section>
         ))}
+        {/* 25/10/2026 (informe SEO rev25): metodología real, sacada de convex/audiencia.ts (favoritosMes y visita). */}
+        <section className="mt-10 max-w-3xl space-y-3 text-sm text-gray-700" aria-labelledby="fav-metodo">
+          <h2 id="fav-metodo" className="text-xl font-extrabold text-gray-900">Cómo se calcula este ranking</h2>
+          <p>
+            La tabla de mejor valorados ordena por la nota media que los lectores dan en las estrellas de cada ficha técnica durante el mes en curso. Para evitar que un modelo con un único voto de 5 estrellas encabece la lista, solo entran los que suman al menos 3 votos ese mes; si dos empatan en nota, va delante el que tiene más votos. Los que todavía no llegan al mínimo no aparecen con nota, pero sus votos siguen contando.
+          </p>
+          <p>
+            La tabla de más visitados cuenta como mucho una visita por ficha y sesión de navegador: recargar la página o volver a ella en la misma sesión no suma. Las visitas de buscadores y herramientas automáticas no se registran. Las dos tablas se reinician el día 1 de cada mes y muestran los 10 primeros de cada tipo.
+          </p>
+          <p>
+            Que un modelo sea el más visitado no significa que sea el mejor: muchas veces refleja una novedad recién presentada o una bajada de precio. Para decidir una compra, compara después sus datos en la ficha y en los comparadores de coches, motos y patinetes.
+          </p>
+        </section>
         <p className="mt-10 text-xs text-gray-500">
           Son votos de lectores, no reseñas verificadas ni pruebas nuestras: sirven para saber qué interesa a la gente. Las
           notas técnicas y los datos oficiales están en cada ficha. Más información en nuestra{" "}

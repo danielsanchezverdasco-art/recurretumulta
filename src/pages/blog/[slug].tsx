@@ -351,10 +351,19 @@ function BlogPostPage() {
           keywords: x.keywords ?? [], readTime: x.readTime ?? 3,
         };
       };
-      let rel = modPosts
-        .filter((x) => x.slug !== s && x.category === p?.category)
-        .slice(0, 3)
-        .map(toLite);
+      // 25/10/2026: si este artículo es anfitrión de un huérfano (ver
+      // scripts/gen-blog-huerfanos.py), ese va primero en relacionados.
+      const huerf = (await import("@/lib/blog-huerfanos.generated.json")).default as Record<string, BlogLitePost>;
+      const hp = huerf[s];
+      const hSlug = hp?.slug;
+      const fijo: BlogLitePost[] = hp ? [hp] : [];
+      if (!alive) return;
+      let rel = [
+        ...fijo,
+        ...modPosts
+          .filter((x) => x.slug !== s && x.slug !== hSlug && x.category === p?.category)
+          .map(toLite),
+      ].slice(0, 3);
       if (rel.length < 3 && p) {
         const catPosts = await loadModuleArray<BlogLitePost>("cat", p.category);
         if (!alive) return;
@@ -436,9 +445,11 @@ function BlogPostPage() {
 
   // Artículos relacionados: mezcla de estáticos (misma categoría) y dinámicos.
   const allDbPosts = useQuery(api.blog.listPublished) ?? [];
+  // El huérfano asignado (si lo hay) es relatedStatic[0] y debe quedarse aunque haya posts dinámicos.
   const related = [
+    ...relatedStatic.slice(0, 1),
     ...allDbPosts.filter((p) => p.slug !== slug && p.category === post?.category),
-    ...relatedStatic,
+    ...relatedStatic.slice(1),
   ].slice(0, 3);
 
   // Scroll al inicio cada vez que cambia el artículo

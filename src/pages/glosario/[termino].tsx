@@ -2,6 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { motion } from "motion/react";
 import { BookOpen, ArrowRight, ArrowLeft, Car, Lightbulb } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { GLOSARIO_A_FONDO } from "@/lib/glosario-a-fondo.ts";
 import { DriveInImage } from "@/components/motion.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -150,6 +151,21 @@ function TerminoPage({
           <Lightbulb className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
           <span><strong className="text-slate-800">Por qué te importa: </strong><span className="text-slate-600">{t.porQueImporta}</span></span>
         </p>
+
+        {GLOSARIO_A_FONDO[t.slug] && (
+          <article className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-8 mb-8" id="a-fondo">
+            <h2 className="text-lg font-bold mb-4">{t.nombre} a fondo</h2>
+            <div className="space-y-3 text-slate-600">
+              {GLOSARIO_A_FONDO[t.slug].parrafos.map((p, i) => <p key={i}>{p}</p>)}
+            </div>
+            {GLOSARIO_A_FONDO[t.slug].fuentes.length > 0 && <p className="mt-4 text-xs text-slate-500">
+              Fuentes:{" "}
+              {GLOSARIO_A_FONDO[t.slug].fuentes.map((f, i) => (
+                <span key={f.url}>{i > 0 && " · "}<a href={f.url} target="_blank" rel="noopener noreferrer" className="text-red-600 underline break-words">{f.nombre}</a></span>
+              ))}
+            </p>}
+          </article>
+        )}
 
         {relacionados.length > 0 && (
           <div className="mb-10">

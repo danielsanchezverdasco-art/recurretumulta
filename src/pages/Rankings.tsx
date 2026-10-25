@@ -397,6 +397,9 @@ export default function Rankings() {
           >
             <ArrowLeftRight size={18} /> Comparar modelos cara a cara
           </Link>
+          <p className="mt-3 text-sm text-gray-700">
+            Si el coche que te interesa lo quieres de segunda mano, el <Link to="/buscador-coches/" className="font-semibold text-red-600 underline">buscador de coches usados</Link> lo rastrea en Coches.net, Wallapop, Milanuncios y Autoscout24 con tu presupuesto, kilómetros y zona.
+          </p>
           <Link
             to="/blog/"
             className="inline-flex items-center justify-center gap-2 rounded-xl border-2 border-gray-300 px-6 py-3 font-bold text-gray-900 hover:border-red-400"
@@ -412,6 +415,12 @@ export default function Rankings() {
 
 /** Índice /rankings: lista todos los rankings disponibles. */
 export function RankingsIndex() {
+  // 25/10/2026 (informe SEO rev25): resumen propio del índice, calculado con los mismos datos
+  // que cada ranking (podio actual y número de modelos), en vez de repetir sus descripciones.
+  const podios = useMemo(
+    () => RANKINGS.map((r) => ({ r, lista: r.seleccionar(COCHES_COMPARADOR) })),
+    [],
+  );
   useSeo({
     title: "Rankings de coches 2026",
     description:
@@ -460,10 +469,29 @@ export function RankingsIndex() {
               </p>
               <h2 className="mt-2 text-lg font-extrabold text-gray-900">{r.titulo}</h2>
               <p className="mt-2 text-sm text-gray-600">{r.descripcion}</p>
+              {(() => {
+                const l = podios.find((x) => x.r.slug === r.slug)?.lista ?? [];
+                if (l.length === 0) return null;
+                return (
+                  <p className="mt-2 text-sm text-gray-700">
+                    Ahora mismo entran {l.length} modelos. Podio: {l.slice(0, 3).map((c, i) => `${i + 1}.º ${c.marca} ${c.modelo} (${r.dato(c)})`).join(", ")}.
+                  </p>
+                );
+              })()}
               <p className="mt-3 text-sm font-bold text-red-600">Ver ranking →</p>
             </Link>
           ))}
         </div>
+
+        <section className="mt-10 max-w-3xl space-y-3 text-sm text-gray-700">
+          <h2 className="text-lg font-extrabold text-gray-900">Cómo leer estos rankings</h2>
+          <p>
+            Cada lista aplica un único criterio y lo dice en su ficha: precio de partida, autonomía homologada o consumo. Eso la hace fácil de comprobar, pero también limitada: un coche puede ganar en autonomía y perder en maletero, garantía o red de talleres, así que el ranking sirve para hacer una primera criba, no para decidir solo con él.
+          </p>
+          <p>
+            Las autonomías son cifras WLTP, que en uso real suelen quedarse por debajo, sobre todo en autopista y con frío. Los precios son los «desde» que publica cada marca en España y no restan ayudas como el Plan Auto+ o las de tu comunidad autónoma. Los consumos que no son oficiales llevan delante el signo «≈».
+          </p>
+        </section>
 
         <div className="mt-10 max-w-3xl">
           <Link
