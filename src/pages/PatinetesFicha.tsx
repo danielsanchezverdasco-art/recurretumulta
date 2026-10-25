@@ -168,26 +168,26 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
       q: `¿Cuánto cuesta el ${nombre}?`,
       a:
         patinete.precioEur == null
-          ? `El ${nombre} no tiene precio oficial publicado para España en este momento: aparece como «No publicado» en la ficha. Lo actualizaremos en cuanto la marca lo anuncie.`
+          ? `${nombre} — sin precio oficial en España.`
           : `${geo.faqPrecio ?? `El precio oficial del ${nombre} en España es de ${fmtPrecio(patinete.precioEur)}.`} Ten en cuenta que las tiendas pueden aplicar ofertas puntuales por debajo de ese precio.`,
     },
     {
       q: `¿Cuál es la autonomía real del ${nombre}?`,
       a:
         patinete.autonomiaRealKm == null
-          ? `No hay una estimación fiable de autonomía real para el ${nombre}: preferimos no inventarla.`
+          ? `${nombre} — autonomía real sin estimación fiable.`
           : `El fabricante declara ${fmtKm(patinete.autonomiaKm)}, pero en uso real urbano (semáforos, cuestas, peso del conductor) nuestra estimación es de ≈${patinete.autonomiaRealKm} km. La cifra con ≈ es una estimación, no un dato oficial.`,
     },
     {
       q: `¿El ${nombre} tiene certificado de la DGT?`,
       a:
         patinete.certificadoDgt === true
-          ? `Sí: según el fabricante, el ${nombre} cumple la normativa española vigente para VMP. Aun así, conserva el certificado y comprueba que el número de serie coincide con el de la documentación.`
-          : `No hemos podido verificar el certificado DGT del ${nombre} en una fuente oficial, así que aparece como «No verificado». Antes de comprar, pide al vendedor el certificado de circulación: sin él, el patinete no es legal en España.`,
+          ? `${nombre} — certificado DGT verificado.`
+          : `${nombre} — certificado DGT no verificado, pide el certificado al vendedor.`,
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: `Desde el 2 de enero de 2026 el seguro de responsabilidad civil es obligatorio para los VMP en España (Ley 5/2025). Además, desde el 30 de enero de 2026 los patinetes deben inscribirse en el Registro de Vehículos Personales Ligeros de la DGT. Tienes todos los detalles en nuestra guía de patinetes eléctricos.`,
+      a: `${nombre} (${patinete.pesoKg != null ? `${patinete.pesoKg} kg` : "VMP"}) — seguro Ley 5/2025, inscripción 30/1/2026.`,
     },
     {
       q: `¿Dónde puedo comparar el ${nombre} con otros patinetes?`,
