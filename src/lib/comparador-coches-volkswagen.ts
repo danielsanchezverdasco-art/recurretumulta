@@ -1526,18 +1526,17 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Estética coupé a precio generalista: el Taigo ofrece la silueta de un SUV coupé sin salir del presupuesto de un coche generalista",
-      "Pese a la inclinación del techo, el maletero de 438 litros da para el día a día familiar sin renuncias habituales",
-      "El 1.0 TSI de 115 CV es un motor sobradamente conocido dentro del grupo, así que encontrar repuestos y taller resulta sencillo en cualquier parte",
-      "El acabado Life trae de serie un equipamiento amplio en relación con el precio desde el que parte",
-      "Conduce alto como un SUV y gasta como un utilitario: combina las dos virtudes en un solo coche",
+      "SUV coupé desde 24.996 €, con 4.266 mm de largo y 1.518 mm de alto",
+      "Maletero de 438 litros y 5 plazas pese a la caída del techo coupé",
+      "Motor 1.0 TSI de 115 CV y 200 Nm, con consumo de 5,8 l/100 km",
+          "Coste mensual total estimado de 214 € con 15.000 km/año",
     ],
     contras: [
-      "La etiqueta C afecta a toda la gama, sin excepción eléctrica ni híbrida",
-      "La plaza central trasera y la altura libre son justas por culpa del techo coupé",
-      "Los 10,4 segundos hasta 100 km/h con el motor de 115 CV no invitan a adelantar con prisa",
-      "El 1.5 TSI de 150 CV supera los 30.000 €, un salto notable para ganar 35 CV",
-      "La visibilidad hacia atrás, recortada por la caída del techo, obliga a confiar en los sensores"
+      "Etiqueta DGT C y 131 g/km de CO₂",
+      "Altura de 1.518 mm con caída de techo coupé: menos altura libre en las plazas traseras",
+      "0-100 km/h en 10,4 s con el motor de 115 CV",
+      "El 1.5 TSI de 150 CV supera los 30.000 €: 35 CV más que el 1.0 TSI de 115 CV",
+      "Caída de techo coupé: visibilidad trasera reducida"
     ],
     largoMm: 4266,
     anchoMm: 1757,
