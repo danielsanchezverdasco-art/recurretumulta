@@ -103,9 +103,9 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "Omoda C7 2025: PHEV de 279 CV y 92 km",
+    title: "Omoda C7 2025: 279 CV, 92 km eléctricos y 42.900 €",
     slug: "omoda-c7-2025-precio",
-    excerpt: "Precio y ficha técnica del Omoda C7 2025 (en España, Omoda 7 SHS): híbrido enchufable de 279 CV, 92 km eléctricos WLTP, carga rápida de 40 kW y etiqueta Cero. Desde 42.900 €.",
+    excerpt: "El Omoda C7 2025 (Omoda 7 SHS en España) es un PHEV de 279 CV con 92 km eléctricos WLTP, recarga de 40 kW, etiqueta Cero y precio desde 42.900 €.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -113,11 +113,11 @@ El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus 
     keywords: ["Omoda C7 2025 precio", "Omoda 7 SHS ficha técnica", "Omoda C7 híbrido enchufable", "SUV PHEV 279 CV", "Omoda 7 España"],
     content: `<img src=/media/omoda-c7-2025-precio-ficha-tecnica-hero.webp alt="Omoda C7 (7 SHS) con parrilla en X en ciudad">
 
-**¿Buscas solo los datos?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica del Omoda C7</a>: precio, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+**¿Solo te interesan las cifras?** <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Consulta la ficha del Omoda C7</a>: tarifa, potencia, autonomía eléctrica y maletero. <a href=/comparador-coches/>Enfréntalo con sus competidores directos</a>.
 
-El **Omoda C7 2025** es el SUV que completa la gama española de la marca china entre el Omoda 5 y el Omoda 9. Ojo al nombre: **en España se vende como Omoda 7 SHS** (C7 es la denominación que usa en otros mercados). Llega solo como **híbrido enchufable de 279 CV**, con **92 km de autonomía eléctrica WLTP**, carga rápida en continua y un precio de partida de **42.900 €**.
+Entre el Omoda 5 y el 9, el **C7 2025** ocupa el hueco del SUV medio dentro de la oferta española de la marca china. Conviene aclarar el nombre: **en el mercado español se comercializa como Omoda 7 SHS**, mientras que C7 es la denominación empleada en otros mercados. Solo existe en versión híbrida enchufable: **279 CV**, **92 km eléctricos WLTP**, recarga rápida en continua y un precio inicial de **42.900 €**.
 
-## Ficha técnica resumida
+## Los datos esenciales de un vistazo
 
 | Concepto | Dato |
 |---|---|
@@ -139,55 +139,62 @@ El **Omoda C7 2025** es el SUV que completa la gama española de la marca china 
 
 <a href=/coches/omoda-c7-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del Omoda C7 con galería de fotos</a>
 
-## El sistema SHS: un PHEV que carga como un eléctrico
+## El sistema SHS: un PHEV que recarga como un eléctrico
 
-El Super Hybrid System combina un **1.5 TGDI de 143 CV** con dos motores eléctricos y una transmisión dedicada DHT para entregar **279 CV y 365 Nm** conjuntos. La batería LFP de **18,4 kWh** (CATL) permite **92 km en modo 100 % eléctrico**, y lo más llamativo: admite **carga rápida en continua de 40 kW**, pasando del 30 al 80 % en unos 20 minutos. Casi ningún híbrido enchufable ofrece eso.
+Dos motores eléctricos, un **1.5 TGDI de 143 CV** y una transmisión DHT dedicada suman **279 CV y 365 Nm** en conjunto dentro del Super Hybrid System. Su batería LFP de **18,4 kWh**, suministrada por CATL, da para **92 km sin gastar gasolina**, y su rasgo más sorprendente es la recarga rápida en continua a **40 kW**: del 30 al 80 % en torno a 20 minutos, algo que casi ningún PHEV ofrece.
 
-Con la batería llena y el depósito completo, la autonomía total anunciada llega a **1.200 km**.
+Batería llena y depósito completo dan una autonomía total anunciada de **1.200 km**.
 
-## Diseño y equipamiento
+## Estética y dotación
 
-El frontal lo domina la **parrilla paramétrica en forma de X** sin marco, con ópticas Full LED integradas, y la zaga estrena una firma luminosa en forma de rayos. Dentro, la protagonista es la **pantalla deslizante de 15,6 pulgadas** que se desplaza hacia el acompañante, acompañada de un cuadro de 8,8" y Head-Up Display. No faltan 19 asistentes ADAS, cámara de 540° y equipo de sonido Sony.
+En el frontal manda la **parrilla paramétrica con forma de X** y sin marco, acompañada de ópticas Full LED integradas, mientras que la zaga inaugura una firma luminosa con forma de rayos. En el interior, el elemento central es una **pantalla de 15,6 pulgadas** que se desliza hacia el acompañante, junto a un cuadro de 8,8 pulgadas y Head-Up Display. Completan el conjunto 19 asistentes ADAS, una cámara de 540° y un equipo de sonido Sony.
 
 <img src=/media/omoda-c7-2025-precio-ficha-tecnica-oficial.webp alt="Trasera del Omoda C7 2025">
 
-## Historia del modelo
+## Trayectoria del modelo
 
-- **2022**: Chery crea Omoda como marca global juvenil y tecnológica.
-- **2023**: el Omoda 5 aterriza en España y se convierte en uno de los chinos más vendidos.
-- **2024**: se presenta el Omoda 7/C7 como SUV medio con versiones de gasolina e híbrida.
-- **2025**: llega a España como **Omoda 7 SHS** (solo PHEV), con precios de 42.900 y 45.900 €.
-- **2026**: con las ayudas del Plan Auto+ y la campaña de lanzamiento, parte desde unos 32.900 €.
+- **2022**: Chery pone en marcha Omoda como marca global orientada a un público joven y tecnológico.
+- **2023**: el Omoda 5 llega a España y se vuelve uno de los chinos más vendidos.
+- **2024**: debuta el Omoda 7/C7, un SUV medio con variantes de gasolina e híbrida.
+- **2025**: aterriza en España como **Omoda 7 SHS** (únicamente PHEV), con tarifas de 42.900 y 45.900 €.
+- **2026**: si se suman el Plan Auto+ y su campaña de lanzamiento, el punto de partida baja a unos 32.900 €.
 
-## Cuánto cuesta mantenerlo
+## Lo que cuesta mantenerlo
 
-Estimación orientativa con 15.000 km al año: unos **136 €/mes**, con 45 € de combustible (2,3 l/100 km WLTP en modo híbrido), 71 € de seguro a todo riesgo y 21 € de mantenimiento. Si cargas a diario y haces trayectos cortos, el gasto en gasolina puede caer casi a cero.
+Con 15.000 km anuales, el cálculo orientativo ronda los **136 € mensuales**: 45 € en combustible (2,3 litros cada 100 km WLTP en modo híbrido), 71 € en seguro a todo riesgo y 21 € en mantenimiento. Cargando a diario y con trayectos cortos, el gasto en gasolina puede quedar casi en cero.
 
 <img src=/media/omoda-c7-2025-precio-ficha-tecnica-interior.webp alt="Interior del Omoda C7 2025">
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Omoda C7 en España?
-Se vende como Omoda 7 SHS desde 42.900 € (Pure) y 45.900 € (Premium); con campaña y ayudas, desde unos 32.900 €.
+### ¿Qué precio tiene el Omoda C7 en España?
 
-### ¿Es el Omoda C7 lo mismo que el Omoda 7?
-Sí, es el mismo coche: C7 es el nombre usado en algunos mercados y 7 SHS el elegido para España.
+En España se comercializa como Omoda 7 SHS a partir de 42.900 € (Pure) y 45.900 € (Premium); si se suman campaña y ayudas, el punto de partida baja a unos 32.900 €.
 
-### ¿Cuántos kilómetros hace en eléctrico?
-Homologa 92 km WLTP con su batería de 18,4 kWh.
+### ¿El Omoda C7 y el Omoda 7 son el mismo modelo?
 
-### ¿Tiene carga rápida?
-Sí, hasta 40 kW en continua (30-80 % en 20 minutos), algo poco habitual en un híbrido enchufable.
+Sí, se trata del mismo modelo: en algunos mercados se llama C7 y en España, 7 SHS.
 
-### ¿Qué etiqueta DGT tiene?
-Etiqueta Cero, por superar los 40 km de autonomía eléctrica.
+### ¿Cuántos kilómetros recorre en eléctrico?
 
-### ¿Qué garantía ofrece?
-Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
+Homologa 92 km WLTP gracias a su batería de 18,4 kWh.
+
+### ¿Admite recarga rápida?
+
+Sí, admite hasta 40 kW en continua: del 30 al 80 % en torno a 20 minutos, un dato poco habitual en un PHEV.
+
+### ¿Qué etiqueta DGT lleva?
+
+Etiqueta Cero, porque supera los 40 km de autonomía eléctrica.
+
+### ¿Qué cobertura de garantía ofrece?
+
+La cobertura anunciada para el sistema híbrido es de 8 años o 160.000 km.
 
 *Fuentes: <a href=https://www.pruebatucoche.es/omoda-7-shs-prueba/>pruebatucoche.es</a>, <a href=https://www.motormundial.es/omoda-7-shs-ya-con-precios-oficiales/2026/02/08/>motormundial.es</a>, <a href=https://www.coches.net/noticias/omoda-7-shs-prueba-de-contacto>coches.net</a>*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
   },
   {
     title: "Opel Frontera Electric desde 24.900 €",
@@ -369,9 +376,9 @@ De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
   },
   {
-    title: "iCar 03: el SUV eléctrico off-road de Chery",
+    title: "iCar 03 2025: 279 CV y estética todoterreno",
     slug: "icar-03-2025-precio",
-    excerpt: "Ficha técnica del iCar 03 2025 de Chery: SUV eléctrico con estética todoterreno retro, 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s. De momento no se vende en España.",
+    excerpt: "Chery iCar 03 2025: 279 CV, tracción total, batería CATL de 69,77 kWh y 0-100 en 6,5 s, con estética de todoterreno clásico. Aún no se vende en España.",
     category: "Novedades Motor",
     date: "2026-10-08",
     readTime: 7,
@@ -381,9 +388,9 @@ De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el 
 
 **¿Buscas solo los datos?** <a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica del iCar 03</a>: potencia, batería, autonomía y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **iCar 03 2025** es la apuesta más carismática de Chery: un **SUV eléctrico con estética de todoterreno clásico** (piensa en un Defender pasado por el siglo XXI) que esconde **279 CV**, tracción total y una batería CATL de **69,77 kWh**. Acelera de 0 a 100 en **6,5 segundos**. La mala noticia: **de momento no se vende en España** ni en Europa; solo está disponible en China y Latinoamérica.
+Chery firmó con el iCar 03 2025 su modelo con más personalidad: un todocamino eléctrico de líneas rectas y aire retro que esconde 279 CV, tracción a las cuatro ruedas y un acumulador CATL de 69,77 kWh. El sprint de 0 a 100 km/h se resuelve en 6,5 segundos. Eso sí, por ahora no está a la venta ni en España ni en el resto de Europa; su mercado actual se reparte entre China y Latinoamérica.
 
-## Ficha técnica resumida
+## Datos esenciales
 
 | Concepto | Dato |
 |---|---|
@@ -404,51 +411,51 @@ El **iCar 03 2025** es la apuesta más carismática de Chery: un **SUV eléctric
 
 <a href=/coches/icar-03-2025-precio-ficha-tecnica/>Ver la ficha técnica completa del iCar 03 con galería de fotos</a>
 
-## Un eléctrico con alma de 4x4
+## Estética aventurera y equipo de a bordo
 
-Lo primero que llama la atención es el diseño: líneas rectas, protecciones negras, **caja exterior en el portón** (como la rueda de repuesto de los todoterrenos de antes), baca en el techo y una altura libre generosa. No es postureo del todo: la versión iWD reparte la fuerza entre los dos ejes, tiene modos de conducción off-road, cámara de 540° con "carrocería transparente" y control de descenso.
+El aspecto exterior apuesta por trazos rectos, defensas oscuras, un cofre adosado al portón que recuerda al soporte de la rueda de repuesto de los todoterrenos clásicos, portaequipajes superior y una distancia al suelo amplia. Más allá de la imagen, la variante iWD distribuye el empuje entre ambos ejes, ofrece programas para circular fuera del asfalto, una cámara de 540° con visión de carrocería transparente y asistente de bajada.
 
-Dentro, una **pantalla de 15,6 pulgadas** con CarPlay y Android Auto inalámbricos, cuadro de 9,2", 8-12 altavoces según versión y hasta modo "mascotas" o "camping" para la climatización. La batería admite **carga rápida de 80 kW** y función **V2L**.
+En el habitáculo destaca una pantalla central de 15,6 pulgadas compatible de forma inalámbrica con CarPlay y Android Auto, un cuadro de instrumentos de 9,2 pulgadas, entre 8 y 12 altavoces en función de la variante y programas de climatización pensados para mascotas o para acampar. Además, admite recarga rápida de 80 kW y la función V2L.
 
-## Versiones
+## Dos esquemas mecánicos
 
-La gama se articula en dos esquemas: el **2WD** trasero de 184 CV con baterías de 50,6 o 66,7 kWh (hasta 501 km CLTC) y el **4WD iWD** de 279 CV con la batería grande de 69,77 kWh. En Colombia, donde ya se vende, homologa 421 km NEDC en la versión tope.
+La oferta se organiza en torno a dos configuraciones: una trasera de 184 CV, con acumuladores de 50,6 o 66,7 kWh y hasta 501 km CLTC, y otra iWD de 279 CV que recurre al acumulador grande de 69,77 kWh. En Colombia, mercado donde ya se comercializa, la variante superior anuncia 421 km NEDC.
 
 <img src=/media/icar-03-2025-precio-ficha-tecnica-oficial.webp alt="Trasera del iCar 03 2025">
 
-## Historia del modelo
+## Fechas clave del proyecto
 
-- **2023**: Chery crea la marca iCar, enfocada a jóvenes y al estilo de vida outdoor.
-- **Febrero 2024**: el iCar 03 sale a la venta en China desde menos de 18.000 € al cambio.
-- **2024**: empieza su expansión internacional (Tailandia, Indonesia como Jaecoo J6, Latinoamérica).
-- **2025**: llegan las versiones Expedition y la variante de autonomía extendida **iCar 03T** (422 CV, 160 km eléctricos + 801 km totales).
-- **2026**: Chery estudia traer la marca a Europa, pero sin fecha ni planes confirmados para España.
+- **2023**: dentro de Chery nace iCar, una marca dirigida al público joven y a la vida al aire libre.
+- **Febrero de 2024**: arranca la comercialización del iCar 03 en China por debajo de 18.000 € al cambio.
+- **2024**: comienza la salida al exterior, con Tailandia, Indonesia —allí como Jaecoo J6— y Latinoamérica.
+- **2025**: se suman las variantes Expedition y la de autonomía extendida iCar 03T, con 422 CV, 160 km eléctricos y 801 km en total.
+- **2026**: Chery valora llevar la marca a Europa, aunque sin calendario ni planes confirmados para España.
 
-## ¿Llegará a España?
+## ¿Hay planes para España?
 
-A día de hoy, **no hay anuncio oficial**. Chery vende en España bajo las marcas Omoda, Jaecoo y Ebro, y el iCar 03 encajaría como un Jaecoo eléctrico de imagen aventurera. Si llegara, su precio debería situarse por debajo de los 35.000 € para tener sentido frente a un BYD Atto 3 o un MG S5. Mientras tanto, esta ficha recoge sus datos oficiales para que lo conozcas.
+Por el momento no existe ningún comunicado oficial al respecto. En España, las insignias de Chery son Omoda, Jaecoo y Ebro; el iCar 03 tendría encaje como un Jaecoo eléctrico de imagen aventurera. De aterrizar aquí, su tarifa tendría que quedar por debajo de 35.000 € para resultar coherente frente a rivales como el BYD Atto 3 o el MG S5. Hasta entonces, esta ficha reúne sus datos oficiales para que puedas conocerlo.
 
 <img src=/media/icar-03-2025-precio-ficha-tecnica-interior.webp alt="Interior del iCar 03 2025">
 
 ## Preguntas frecuentes
 
-### ¿Se vende el iCar 03 en España?
-No. Solo se comercializa en China y algunos países de Asia y Latinoamérica. No hay fecha para Europa.
+### ¿Está a la venta el iCar 03 en España?
+No. Por ahora solo se comercializa en China y en algunos países de Asia y Latinoamérica, sin fecha prevista para Europa.
 
-### ¿Cuántos caballos tiene?
-279 CV y 385 Nm en la versión 4WD iWD; 184 CV en la 2WD.
+### ¿Qué potencia desarrolla?
+La variante iWD de tracción total entrega 279 CV y 385 Nm; la de tracción trasera se queda en 184 CV.
 
-### ¿Qué autonomía tiene?
-501 km en ciclo CLTC (el más optimista); en Colombia se anuncian 421 km NEDC para la versión tope. Sin dato WLTP.
+### ¿Qué alcance anuncia?
+El ciclo CLTC, el más benévolo, arroja hasta 501 km; la cifra comunicada en Colombia para la variante superior es de 421 km NEDC, y no existe dato WLTP.
 
-### ¿Es un todoterreno de verdad?
-Tiene tracción total, modos off-road y buena altura libre, pero es un SUV de chasis monocasco, no un 4x4 con reductora.
+### ¿Sirve de verdad para el campo?
+Cuenta con tracción total, programas para fuera del asfalto y una altura libre generosa, pero su chasis es monocasco: no es un 4x4 con reductora.
 
-### ¿Tiene carga rápida?
-Sí, hasta 80 kW en continua (30-80 % en unos 30 minutos), además de función V2L.
+### ¿Admite carga rápida?
+Sí: hasta 80 kW en corriente continua, con el paso del 30 al 80 % en unos 30 minutos, además de la función V2L.
 
-### ¿Qué significa iWD?
-Es la denominación de Chery para su tracción total inteligente (intelligent Wheel Drive).
+### ¿Qué quiere decir iWD?
+Es el nombre que Chery da a su tracción total inteligente, de las siglas inglesas intelligent Wheel Drive.
 
 *Fuentes: <a href=https://www.cherycr.com/wp-content/uploads/2025/05/F.-Tecnica-iCar-03_2025.pdf>Chery (ficha técnica oficial)</a>, <a href=https://autosdeprimera.com/noticias/noticias-nacionales/chery-icar-03-colombia/>autosdeprimera.com</a>*
 

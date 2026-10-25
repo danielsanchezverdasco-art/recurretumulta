@@ -182,9 +182,9 @@ Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",
-    title: "Omoda X: SUV chino con cámara térmica y alma off-road",
+    title: "Omoda X: el prototipo SUV que mira con calor y pisa barro",
     excerpt:
-      "Omoda presenta el X: prototipo SUV de estética mecha con cámara térmica de 90 m y versiones híbridas, enchufables y eléctricas. Sin precio aún.",
+      "El Omoda X debuta en Wuhu como anticipo SUV de casi cinco metros: detecta calor a 90 metros y promete híbrido, enchufable y eléctrico. Sin precio aún.",
     category: "Novedades Motor",
     date: "2026-10-22",
     readTime: 6,
@@ -201,11 +201,11 @@ Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y
 
 *Foto: kit de prensa Omoda distribuido por forococheselectricos.com. Imagen de prensa, no oficial directa de Omoda; licencia desconocida.*
 
-**Omoda** ha presentado en el **International User Summit** del grupo Chery en Wuhu (China) el **Omoda X**, el prototipo que adelanta un nuevo SUV de la marca china. Su estética se inspira en la cultura **«mecha»** —el género de ciencia ficción japonés de robots pilotados—, con formas geométricas, aristas marcadas y pliegues que no se parecen a nada anterior de la compañía y podrían marcar su rumbo estético futuro.
+Chery ha elegido su gran cita con los usuarios para enseñar el próximo paso de Omoda. En Wuhu, durante el International User Summit del grupo, la marca china ha destapado el Omoda X, un prototipo de SUV que anticipa un modelo de producción todavía sin fecha ni precio. Nada de cifras definitivas por ahora: lo que sigue es únicamente lo que la compañía ha confirmado sobre el escenario.
 
-Ojo al dato importante: es un **prototipo**. Omoda aún **no ha publicado especificaciones técnicas** (potencia, autonomía, precio): se revelarán con la versión de producción. Todo lo que sigue es lo confirmado en la presentación.
+El dibujo bebe de la cultura mecha, ese imaginario japonés de robots gigantes tripulados por personas. De ahí salen las superficies geométricas, las aristas afiladas y los pliegues rotundos, un lenguaje que no se había visto en Omoda y que podría anunciar por dónde irán sus próximos modelos. Omoda todavía no ha desvelado potencia, autonomía ni tarifa: esos números llegarán con la versión de serie.
 
-## Lo que Omoda sí ha confirmado del X
+## Lo confirmado sobre el X
 
 | Dato | Valor confirmado |
 |---|---|
@@ -221,47 +221,48 @@ Ojo al dato importante: es un **prototipo**. Omoda aún **no ha publicado especi
 | Mecánicas previstas | Híbrida, híbrida enchufable y 100 % eléctrica, con AWD |
 | Chasis | Monocasco (no es un todoterreno de largueros) |
 
-Aunque es un SUV, Omoda insiste en sus capacidades fuera del asfalto: 200 mm de altura libre, 700 mm de vadeo y una **cámara térmica** capaz de detectar fuentes de calor (personas, animales, obstáculos) hasta a **90 metros**, muy útil con baja visibilidad. Podrá remolcar **1.800 kg** y llevar **75 kg** en el techo.
+Fuera del asfalto, la marca presume de argumentos: 200 mm de distancia al suelo, 700 mm de capacidad de vadeo y una cámara térmica que localiza calor —peatones, animales u obstáculos— hasta 90 metros, una ayuda pensada para cuando la visibilidad cae. A eso se suman 1.800 kg de remolque y 75 kg admitidos sobre el techo.
 
-Por dentro, el sistema **SIAS** usa inteligencia artificial para una comunicación más natural con el coche, sin comandos predefinidos. La plataforma se ha concebido desde el principio para distintos grados de electrificación: habrá versiones **híbridas, híbridas enchufables y eléctricas**, además de variantes con **tracción total**. Omoda lo plantea como un **producto global**, destinado a venderse en todo el planeta.
+En el habitáculo mandan dos pantallas —10,25 pulgadas para el cuadro y 13,2 para el centro— y el entorno SIAS, un espacio con inteligencia artificial conversacional que entiende un lenguaje natural, sin obligar a memorizar órdenes fijas. La base nace pensada para varias electrificaciones: la gama contemplará híbridos, híbridos enchufables y eléctricos puros, también con tracción total, y la marca lo presenta como un modelo para todo el mundo.
 
 <img src=/media/omoda-x-2026-interior.webp alt=Interior del Omoda X con pantalla central de 13,2 pulgadas y volante Omoda>
 
 *Foto: kit de prensa Omoda distribuido por forococheselectricos.com. Imagen de prensa, no oficial directa de Omoda; licencia desconocida.*
 
-## ¿Dónde se coloca el Omoda X?
+## Un escalón por encima
 
-Con sus casi 5 metros, se sitúa un peldaño por encima de los conocidos <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a>, más cerca del <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Es, en la práctica, el SUV más aspiracional de la marca hasta la fecha. Cuando Omoda publique la ficha de la versión de producción, prepararemos su ficha técnica completa: de momento, lo honesto es no inventar ni un solo dato.
+Con casi cinco metros, el X supera en tamaño a los <a href=/coches/omoda-4-2026-precio-ficha-tecnica/>Omoda 4</a> y <a href=/coches/omoda-5-gasolina-2026-precio-ficha-tecnica/>Omoda 5</a> y se aproxima al <a href=/coches/omoda-7-shs-2026-precio-ficha-tecnica/>Omoda 7</a>. Dicho de otro modo: es la propuesta más ambiciosa que la marca ha enseñado hasta hoy. En cuanto Omoda difunda la ficha del modelo de serie, prepararemos su ficha completa; hasta entonces, lo prudente es no añadir ningún dato inventado.
 
 ## Preguntas frecuentes
 
-### ¿Qué es el Omoda X?
+### ¿Qué adelanta el Omoda X?
 
-Un prototipo de SUV presentado por Omoda en octubre de 2026 en el International User Summit de Chery en Wuhu. Adelanta un nuevo modelo de producción con estética inspirada en la cultura mecha.
+Un prototipo de SUV desvelado por Omoda en octubre de 2026 en la cumbre de usuarios de Chery en Wuhu. Anticipa un modelo de serie con un dibujo inspirado en los mecha.
 
-### ¿Cuándo sale a la venta el Omoda X y cuánto costará?
+### ¿Cuándo se vende y a qué precio?
 
-Omoda no ha anunciado fecha de lanzamiento ni precio. Las especificaciones técnicas definitivas se conocerán con la versión de producción.
+Sin fecha ni tarifa anunciadas. Los datos definitivos se conocerán con la versión de serie.
 
-### ¿Qué motores tendrá el Omoda X?
+### ¿Qué mecánicas están previstas?
 
-La marca ha confirmado versiones **híbridas, híbridas enchufables y 100 % eléctricas**, con variantes de tracción total. Potencias y autonomías, pendientes de publicación.
+Híbridas, enchufables y eléctricas puras, con tracción total en algunas variantes. Potencias y autonomías siguen pendientes.
 
-### ¿El Omoda X es un todoterreno?
+### ¿Es un todoterreno puro?
 
-No exactamente: Omoda habla de un SUV con ciertas capacidades off-road (200 mm de altura libre, 700 mm de vadeo, cámara térmica), pero con chasis **monocasco**, no de largueros y travesaños como un todoterreno puro.
+No: es un SUV con aptitudes fuera de pista —altura de 200 mm, vadeo de 700 mm y cámara térmica— aunque su chasis es monocasco, sin largueros ni travesaños como un todoterreno puro.
 
-### ¿Qué es la cámara térmica del Omoda X?
+### ¿Cómo funciona su cámara térmica?
 
-Un sensor que detecta fuentes de calor (personas, animales, obstáculos) hasta a **90 metros** de distancia según las condiciones, pensado para situaciones de baja visibilidad.
+Es un sensor que capta calor —personas, animales, obstáculos— hasta 90 metros según las condiciones, útil cuando hay poca visibilidad.
 
-### ¿El Omoda X se venderá en España?
+### ¿Llegará a España?
 
-Omoda lo define como un **producto global**, así que es probable que llegue a Europa. Aún no hay confirmación oficial de mercados ni fechas.
+La marca lo describe como un producto global, así que Europa entra en lo probable, pero los mercados y las fechas siguen sin confirmación oficial.
 
 *Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+`,
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",

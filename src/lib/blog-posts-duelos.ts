@@ -325,9 +325,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 `,
   },
   {
-    title: "XPeng G6 2026 vs Tesla Model Y",
+    title: "G6 contra Model Y: carga, precio y autonomía en 2026",
     slug: "xpeng-g6-vs-tesla-model-y-cual-comprar",
-    excerpt: "El XPeng G6 2026 carga del 10 al 80 % en 12 minutos y parte de 43.083 €; el Tesla Model Y Standard es más barato y eficiente. Comparamos sin fanatismos",
+    excerpt: "Duelo 2026: el G6 recarga del 10 al 80 % en 12 minutos desde 43.083 €; el Model Y Standard, desde 39.990 € con 534 km.",
     category: "Novedades Motor",
     date: "2026-10-02",
     readTime: 8,
@@ -344,11 +344,11 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     content: `<img src=/media/xpeng-g6-vs-tesla-model-y-cual-comprar-hero.webp alt=Comparativa entre el XPeng G6 2026 y el Tesla Model Y, los dos SUV eléctricos de referencia>
 
-Es el duelo que todo el mundo quiere ver: el **XPeng G6 2026** restyling, desde **43.083 €**, con la carga más rápida de su segmento (10-80 % en 12 minutos), contra el **Tesla Model Y**, el SUV eléctrico más vendido del mundo. Nota honesta: el Model Y no está en nuestra base de datos de fichas, así que para él usamos únicamente los datos publicados en nuestro propio análisis del G6 (versión Standard RWD) y afirmaciones generales bien conocidas. Sin inventar nada.
+Dos planteamientos opuestos se cruzan en este segmento: por un lado, el G6 renovado para 2026, anunciado desde 43.083 € y capaz de pasar del 10 al 80 % en 12 minutos; por otro, el Model Y, el todocamino eléctrico con más ventas en todo el planeta. Advertencia transparente: el Model Y no figura en nuestro archivo de fichas, de modo que sus cifras proceden únicamente de lo ya difundido en nuestro propio estudio del G6 en versión Standard de tracción trasera, además de afirmaciones generales de sobra conocidas. No añadimos nada inventado.
 
 Fichas técnicas: <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ver ficha técnica completa del XPeng G6</a> · <a href=/coches/tesla-model-y-electrico-precio-ficha-tecnica/>ver ficha técnica completa del Tesla Model Y</a>.
 
-## Tabla comparativa: XPeng G6 2026 vs Tesla Model Y Standard RWD
+## Cifras frente a frente: G6 2026 y Model Y Standard
 
 | Ficha | XPeng G6 2026 (RWD Standard) | Tesla Model Y Standard RWD |
 |---|---|---|
@@ -367,68 +367,67 @@ Fichas técnicas: <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ver fic
 | **Tracción** | Trasera | Trasera |
 | **Etiqueta DGT** | Cero | Cero |
 
-*Los datos del Model Y son los publicados en nuestro análisis del XPeng G6 (comparativa de medios).*
+*Las cifras del Model Y proceden de lo publicado en nuestro estudio del G6, una comparativa de medios.*
 
 <img src=/media/xpeng-g6-tesla-model-y-duelo-cuerpo.webp alt=XPeng G6 y Tesla Model Y en comparativa>
 
-## Análisis: qué ofrece cada uno
+## Qué aporta cada SUV en la práctica
 
-**XPeng G6 2026.** Tres versiones con tarifa publicada: RWD Standard Range desde 43.083 € (252 CV, 455 km), RWD Long Range desde 47.083 € (296 CV, 535 km) y AWD Performance desde 53.083 € (487 CV, 510 km). Su gran baza es la **arquitectura de 800 V con carburo de silicio** y batería LFP en toda la gama: carga a 5C, de lo más rápido del mercado, con el 10-80 % en 12 minutos. Además: maletero de 571 L (1.374 L abatido), 5 estrellas Euro NCAP con un 88 % en protección de adultos y etiqueta Cero. Sus pegas: la autonomía bajó algo respecto al modelo anterior por la LFP, es más caro que el Model Y básico y la marca aún es poco conocida en España. Curiosidad: Volkswagen es accionista de XPeng (invirtió unos 700 millones de dólares por el 4,99 % en 2023).
+**XPeng G6 2026.** La oferta se articula en tres acabados con tarifa difundida: el de acceso, RWD Standard Range, arranca en 43.083 € con 252 CV y 455 km; el RWD Long Range sube a 47.083 €, 296 CV y 535 km; y el AWD Performance culmina en 53.083 €, 487 CV y 510 km. Su argumento central es una plataforma eléctrica de 800 voltios que emplea semiconductores de carburo de silicio, combinada con química LFP en cada versión: admite cargas a 5C, entre las más veloces del mercado, y completa el 10-80 % en 12 minutos. A eso suma un maletero de 571 L, que llega a 1.374 L con los respaldos abatidos, la valoración Euro NCAP le concede la máxima nota, cinco estrellas, y un 88 % en la protección de los ocupantes adultos, además del distintivo Cero. En contra juegan que la autonomía ha retrocedido algo frente al modelo previo a causa de la LFP, que su precio de entrada queda por encima del Model Y básico y que la marca todavía tiene poca presencia en España. Como dato curioso, el grupo Volkswagen entró en el capital de XPeng en 2023 con cerca de 700 millones de dólares, operación que le dio el 4,99 %.
 
-**Tesla Model Y.** El rival a batir: más barato (desde 39.990 € el Standard), más eficiente y con la red de supercargadores propia, la más densa y fiable. En autonomía homologada también gana al G6 de acceso (534 km frente a 455 km). Donde pierde, y por mucho, es en velocidad de carga: 175 kW y unos 25 minutos del 10 al 80 % frente a los 12 minutos del G6.
+**Tesla Model Y.** El rival a superar combina un precio de partida más bajo, desde 39.990 € en el Standard, con una eficiencia superior y su propia infraestructura de recarga rápida, amplia y con fama de funcionar siempre. En kilómetros homologados también supera al G6 de acceso, con 534 km contra 455 km. Su punto débil, y por una diferencia grande, está en la velocidad de recarga: 175 kW y cerca de 25 minutos para recuperar del 10 al 80 %, mientras el G6 lo hace en 12 minutos.
 
-## Pros y contras
+## Puntos fuertes y puntos débiles
 
 **XPeng G6 2026:**
-- ✅ Carga ultrarrápida (10-80 % en 12 min): la más rápida de su segmento
-- ✅ Arquitectura de 800 V con carburo de silicio en toda la gama
-- ✅ Batería LFP en todas las versiones: más barata, estable y duradera
-- ✅ Maletero de 571 L (1.374 L abatido), de los mejores del segmento
-- ✅ 5 estrellas Euro NCAP y etiqueta CERO
-- ❌ La autonomía bajó algo respecto al modelo anterior por la LFP
-- ❌ Desde 43.083 €: el Model Y Standard parte de 39.990 €
-- ❌ Marca aún poco conocida; red de concesionarios en crecimiento
+- ✅ Recarga ultrarrápida, con el 10-80 % en 12 min: la más veloz de su categoría
+- ✅ Plataforma eléctrica de 800 voltios con semiconductores de carburo de silicio en cada acabado
+- ✅ Química LFP en todas las variantes: más económica, estable y longeva
+- ✅ Maletero de 571 L, que crece a 1.374 L abatido: entre los mejores de su clase
+- ✅ Cinco estrellas Euro NCAP y distintivo CERO
+- ❌ La autonomía ha retrocedido algo frente al modelo previo por la LFP
+- ❌ Precio de entrada en 43.083 €, por encima de los 39.990 € del Model Y Standard
+- ❌ Marca todavía poco conocida, con una red de concesionarios en expansión
 
 **Tesla Model Y:**
-- ✅ Más barato: desde 39.990 € el Standard RWD
-- ✅ Más eficiente y con más autonomía homologada (534 km)
-- ✅ Red de supercargadores propia, la más fiable
-- ✅ Valor de reventa y ecosistema probados
-- ❌ Carga mucho más lenta: 175 kW y ~25 min del 10 al 80 %
-- ❌ Interior y equipamiento menos generosos por precio
-- ❌ La imagen de marca ya no es la de hace cinco años
+- ✅ Más económico: el Standard RWD arranca en 39.990 €
+- ✅ Mayor eficiencia y más kilómetros homologados, 534 km
+- ✅ Infraestructura de carga propia, la más dependable
+- ✅ Reventa y ecosistema con trayectoria demostrada
+- ❌ Recarga bastante más lenta: 175 kW y cerca de 25 min para el 10 al 80 %
+- ❌ Habitáculo y dotación menos abundantes para su precio
+- ❌ La imagen que proyecta la marca ha cambiado mucho desde hace cinco años
 
-## Veredicto: ¿cuál comprar?
+## Decisión final: ¿con cuál te quedas?
 
-Aquí el veredicto honesto es un **"depende de cómo viajes"**: si haces mucha autovía y odias esperar en los cargadores, el G6 te cambia la vida con sus 12 minutos. Si priorizas precio de compra, eficiencia, autonomía homologada y una red de carga que funciona sin apps ni sustos, el Model Y sigue siendo la compra racional. Ninguno de los dos es una mala compra; son dos filosofías distintas del mismo segmento.
+La respuesta sincera es que todo gira en torno a tu forma de viajar: si recorres mucha autovía y detestas aguardar junto a un cargador, los 12 minutos del G6 suponen un cambio radical. Si, en cambio, das prioridad al desembolso inicial, a la eficiencia, a los kilómetros homologados y a una red de carga que funciona sin aplicaciones ni sobresaltos, el Model Y continúa siendo la opción sensata. Ninguno de los dos supone una mala elección; representan dos maneras distintas de entender el mismo segmento.
 
-Tienes el duelo técnico en nuestro <a href=/comparador-coches/?a=xpeng-g6-2026-restyling-precio-espana>comparador (ficha del XPeng G6)</a> y el <a href=/blog/xpeng-g6-2026-restyling-precio-espana/>análisis completo del XPeng G6 2026</a>, además de su <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ficha detallada</a>. Si la autonomía te preocupa, prueba nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>. Como referencia externa, puedes consultar las fichas técnicas de <a href=https://www.km77.com>km77</a>.
+Consulta el duelo técnico en nuestro <a href=/comparador-coches/?a=xpeng-g6-2026-restyling-precio-espana>comparador (ficha del XPeng G6)</a>, revisa también el <a href=/blog/xpeng-g6-2026-restyling-precio-espana/>análisis completo del XPeng G6 2026</a> y la <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>ficha detallada</a>. Si te preocupa la autonomía, abre nuestra <a href=/calculadora-autonomia-real/>calculadora de autonomía real</a>. Para contrastar datos externos, tienes las fichas de <a href=https://www.km77.com>km77</a>.
 
-## Míralo en vídeo
+## El duelo, en vídeo
 
 <iframe src=https://www.youtube.com/embed/ddQMfQgWVH4 title="Vídeo: Prueba XPeng G6: ¿el mejor SUV eléctrico calidad-precio?" style=width:100%;aspect-ratio:16/9;border:0;border-radius:1rem allowfullscreen></iframe>
 
 Vídeo: <a href=https://www.youtube.com/watch?v=ddQMfQgWVH4>ElecTrips</a> en YouTube
 
-## Preguntas frecuentes
+## Dudas habituales
 
-### ¿Cuál carga más rápido, el XPeng G6 o el Tesla Model Y?
-El XPeng G6, sin discusión: 10-80 % en 12 minutos gracias a su arquitectura de 800 V, frente a unos 25 minutos del Model Y (175 kW).
+### ¿Qué modelo recupera batería antes en un viaje?
+El G6, sin debate: necesita solo 12 minutos para el 10-80 %, gracias a su sistema de 800 V; el Model Y, en cambio, ronda los 25 minutos con 175 kW.
 
-### ¿Cuál es más barato?
-El Tesla Model Y Standard RWD, desde 39.990 €, frente a los 43.083 € del XPeng G6 RWD Standard Range.
+### ¿Qué SUV sale más económico de entrada?
+El Model Y Standard RWD, que arranca en 39.990 €, por debajo de los 43.083 € del G6 RWD Standard Range.
 
-### ¿Cuál tiene más autonomía?
-El Model Y Standard homologa 534 km WLTP, frente a los 455 km del G6 de acceso. El G6 Long Range sube a 535 km por 47.083 €.
+### ¿Qué modelo homologa más kilómetros?
+El Model Y Standard declara 534 km WLTP, más que los 455 km que declara el G6 de acceso; el G6 Long Range, por su parte, llega a 535 km y cuesta 47.083 €.
 
-### ¿Qué batería lleva el XPeng G6 2026?
-Batería de litio-ferrofosfato (LFP) en todas las versiones, de 68,5 kWh en el acceso. Es de los primeros eléctricos con LFP capaz de cargar a 5C.
+### ¿De qué química es la batería del G6 2026?
+De litio-ferrofosfato, LFP, en cada una de sus variantes; en el acceso, de 68,5 kWh. Es de los primeros eléctricos con LFP que admiten carga a 5C.
 
-### ¿Merece la pena el XPeng G6 frente al Model Y?
-Si viajas mucho y valoras la carga ultrarrápida, sí: es su gran ventaja diferencial. Si buscas el precio más bajo, la mayor eficiencia y la red de supercargadores, el Model Y sigue por delante.
+### ¿Compensa elegir el G6 antes que el Model Y?
+Cuando viajas con frecuencia y la recarga ultrarrápida pesa mucho en tu decisión, sí: ahí reside su gran ventaja diferencial. Cuando mandan el precio más bajo, la eficiencia superior y la red de carga propia, el Model Y va por delante.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+Si recibes una sanción y dudas de que esté bien puesta, revísala sin coste con nuestra herramienta antes de abonarla: <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a>.`,
   },
   {
     title: "Leapmotor B10 vs BYD Atto 2 2026",
@@ -1088,9 +1087,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   },
 
   {
-    title: "Leapmotor B05 vs GAC AION UT: el duelo chino barato",
+    title: "Leapmotor B05 frente a GAC AION UT: ¿cuál elegir?",
     slug: "leapmotor-b05-vs-gac-aion-ut-cual-comprar",
-    excerpt: "Leapmotor B05 (23.775 €, 218 CV, hasta 482 km) vs GAC AION UT (30.995 €, 204 CV, 430 km): duelo de los compactos eléctricos chinos con 5 estrellas Euro NCAP. Tablas, diferencias reales y veredicto.",
+    excerpt: "B05 (23.775 €, 218 CV, 482 km) contra AION UT (30.995 €, 204 CV, 430 km): dos compactos eléctricos chinos con 5 estrellas Euro NCAP y un veredicto claro.",
     category: "Novedades Motor",
     date: "2026-10-11",
     readTime: 8,
@@ -1106,9 +1105,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
 
 **¿Buscas solo los datos?** <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>Ver ficha del Leapmotor B05</a> · <a href=/coches/aion-ut-2025-precio-ficha-tecnica/>Ver ficha del GAC AION UT</a> · <a href=/comparador-coches/>Compararlos cara a cara</a>.
 
-Dos chinos, dos compactos eléctricos, dos filosofías. El **Leapmotor B05** (23.775 €) es el ariete de Stellantis para el segmento: barato, con 218 CV y 5 estrellas Euro NCAP. El **GAC AION UT** (30.995 €) llega con el sello de Magna Steyr (se ensambla en Graz, Austria) y más maletero. Los dos pelean contra el mismo rival invisible: el MG4 y el ID.3.
+Dos compactos eléctricos procedentes de China y dos planteamientos distintos. El Leapmotor B05 parte de 23.775 €, rinde 218 CV y ostenta 5 estrellas Euro NCAP, con Stellantis detrás. El GAC AION UT arranca en 30.995 €, se monta en Graz (Austria) de la mano de Magna Steyr y ofrece un maletero mayor. Ambos se enfrentan, en realidad, a los mismos adversarios de referencia: el MG4 y el ID.3.
 
-## La tabla: cara a cara
+## Los números, frente a frente
 
 |  | **Leapmotor B05** | **GAC AION UT** |
 |---|---|---|
@@ -1131,43 +1130,43 @@ Dos chinos, dos compactos eléctricos, dos filosofías. El **Leapmotor B05** (23
 
 <img src=/media/leapmotor-b05-vs-gac-aion-ut-cual-comprar-carga.webp alt=Coche eléctrico compacto cargando de noche en una estación de carga rápida en Madrid>
 
-## Dónde gana cada uno
+## Ventajas de uno y de otro
 
-**El B05 gana en:** precio (7.220 € más barato en tarifa), potencia (218 CV con propulsión trasera, más divertido), carga rápida (156 kW frente a 87 kW) y autonomía máxima (482 km con la batería grande). Además, cuando Stellantis lo fabrique en Zaragoza esquivará los aranceles por definición.
+El B05 se impone en tarifa, con 7.220 € menos, en potencia, con 218 CV y propulsión trasera que lo hacen más divertido, en velocidad de recarga, con 156 kW frente a 87 kW, y en alcance máximo, con 482 km gracias a la batería grande. Y, cuando Stellantis lo produzca en Zaragoza, quedará al margen de los aranceles por su origen.
 
-**El AION UT gana en:** maletero (440 L frente a 345 L: casi 100 litros de diferencia, se nota cada día), fabricación europea (Magna Steyr en Austria, sin aranceles ya hoy), carga bidireccional V2L de 3,3 kW y red inicial de 29 puntos del Grupo Invicta en España.
+El AION UT responde con un maletero de 440 L, claramente por encima de los 345 L del rival, una diferencia que se agradece a diario, con fabricación europea a cargo de Magna Steyr en Austria, ya libre de aranceles, con recarga bidireccional V2L de 3,3 kW y con 29 puntos de venta iniciales del Grupo Invicta repartidos por España.
 
-La letra pequeña del UT merece un aviso honesto: la campaña de "desde 22.945 €" exigía **financiar con Banco Cetelem a 60 meses (TIN 10,99 %, TAE 11,56 %)**, incluía un adelanto de 4.050 € del Plan Auto+ y dejaba un **total a pagar de 29.925,82 €**. La campaña terminaba el 30/09/2026: comprueba qué oferta la sustituye antes de firmar nada.
+Conviene leer con calma las condiciones del UT: su campaña de lanzamiento desde 22.945 € pedía financiar con Banco Cetelem durante 60 meses, con un TIN del 10,99 % y una TAE del 11,56 %, sumaba un anticipo de 4.050 € del Plan Auto+ y arrojaba un importe total a pagar de 29.925,82 €. Aquella campaña finalizó el 30/09/2026, así que conviene revisar qué oferta la ha sustituido antes de firmar.
 
-## Nuestra recomendación honesta
+## El consejo final
 
-Si buscas **el mejor precio por kilómetro**, el B05: 7.220 € menos en tarifa, más autonomía, más potencia y carga más rápida. Es la compra racional del segmento.
+Si lo que manda es pagar lo menos posible por cada kilómetro, el B05 resulta imbatible: 7.220 € menos de tarifa, mayor alcance, más potencia y recarga más veloz. Es la opción lógica del segmento.
 
-Si necesitas **maletero y red europea**, el AION UT: 440 litros, fabricado por Magna en Austria y V2L. Pagas más, pero recibes un coche más familiar y una marca con presencia física en España desde el verano.
+Si priorizas el maletero y una red europea, el AION UT convence: 440 litros, montaje de Magna en Austria y V2L. Cuesta más, pero entrega un coche más familiar y una marca que ya tiene puntos físicos en España desde el verano.
 
-El matiz que decide: ninguno de los dos es un error. Los dos tienen 5 estrellas Euro NCAP y etiqueta Cero. Elige el B05 si el precio manda; el UT si el maletero y la red mandan. Puedes <a href=/comparador-coches/>compararlos con el MG4 y el ID.3 en el comparador</a>.
+El detalle decisivo es sencillo: ninguna de las dos opciones supone equivocarse. Ambas lucen 5 estrellas Euro NCAP y etiqueta Cero. Quédate con el B05 si el precio manda; con el UT si mandan el maletero y la red. Puedes <a href=/comparador-coches/>compararlos con el MG4 y el ID.3 en el comparador</a>.
 
 Y un recordatorio de la casa: estrenar coche no te libra de los radares. Si te llega una multa, <a href=/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta el Leapmotor B05 en España?
-Tarifa oficial desde **23.775 €** (versión de 56,2 kWh). La marca anuncia desde **19.500 € con ayudas**, financiación y Plan Auto+.
+### ¿Desde qué precio parte el Leapmotor B05?
+Desde 23.775 € de tarifa para la versión de 56,2 kWh. La marca comunica un punto de partida de 19.500 € sumando ayudas, financiación y Plan Auto+.
 
-### ¿Cuánto cuesta el GAC AION UT en España?
-Tarifa oficial desde **30.995 €** (Premium) y 31.995 € (Luxury). La campaña de lanzamiento ofrecía desde 22.945 € con financiación Cetelem y adelanto del Plan Auto+.
+### ¿Y el precio del GAC AION UT?
+Parte de 30.995 € de tarifa en el acabado Premium y de 31.995 € en el Luxury. Su campaña de lanzamiento partía de 22.945 € con financiación Cetelem y anticipo del Plan Auto+.
 
-### ¿Qué autonomía tienen?
-El B05 llega hasta **482 km WLTP** con la batería de 67,1 kWh; el AION UT homologa **430 km WLTP** (620 km en uso urbano) con su batería LFP de 60 kWh.
+### ¿Qué alcance homologa cada uno?
+El B05 anuncia un máximo de 482 km WLTP gracias a su batería de 67,1 kWh. En el AION UT, la batería LFP de 60 kWh firma 430 km WLTP, que suben a 620 km en uso urbano.
 
-### ¿Son seguros? ¿Qué nota tienen en Euro NCAP?
-Los dos tienen **5 estrellas Euro NCAP**: el B05 con un 92 % en protección de ocupante y el AION UT con un 91 %.
+### ¿Qué puntuación de seguridad obtienen?
+La seguridad está al máximo nivel en ambos: 5 estrellas Euro NCAP para los dos, con un 92 % de protección de ocupantes en el B05 y un 91 % en el AION UT.
 
-### ¿Cuál tiene más maletero?
-El **AION UT: 440 litros** (1.600 con los asientos abatidos) frente a los 345 del B05.
+### ¿Cuál ofrece mayor maletero?
+El AION UT: 440 litros, ampliables a 1.600 abatiendo los asientos, mientras el B05 se queda en 345.
 
-### ¿Dónde se fabrican?
-El AION UT se ensambla en **Graz, Austria (Magna Steyr)**; el B05 se fabrica en China, con producción prevista en **Figueruelas (Zaragoza)** por Stellantis.
+### ¿Dónde se monta cada modelo?
+El AION UT sale de la planta de Graz, en Austria, operada por Magna Steyr; el B05 se produce en China, aunque Stellantis prevé fabricarlo en Figueruelas (Zaragoza).
 
 **También te puede interesar:** <a href=/coches/leapmotor-b05-2026-precio-ficha-tecnica/>ficha del Leapmotor B05</a> · <a href=/coches/aion-ut-2025-precio-ficha-tecnica/>ficha del GAC AION UT</a> · <a href=/blog/salon-paris-2026-20-marcas-chinas-aranceles/>París 2026: la invasión china</a> · <a href=/comparador-coches/>comparador de coches eléctricos</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 
