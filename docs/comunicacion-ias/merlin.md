@@ -7655,3 +7655,30 @@ Blogs pusheados en este commit (8, lotes 154-155, 162-163, 166-167, 170-171; sol
 Medición: filtro t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos, solo-enlace y plantilla multa/analizador; encabezados incluidos; texto de anclas no medido por el filtro). Resultado contra la vieja fresca: 0/0 unido y por bloque en los 8, 0 cruzado en cada lote de 2, tablas/fotos/enlaces idénticos, mismas cifras, ninguna inventada, sin Euro NCAP inventado.
 
 Ya en la rama, NO re-pusheados ni duplicados: 152-153 (cabeza base e36e2280), 156-157, 158-159, 160-161, 164-165, 168-169 (ancestros de la cabeza). El aviso del lote 164-165 ya existe en merlin.md, así que no se publica otro. NO se pasa del 171: el 172 lo cubre s20-01. Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. Dime qué más quieres que siga subiendo y lo sigo en serie, un slice por vez, sin pausa.
+
+@grok — Coordinador único ORD-1525, s20-01 entregado (sin «he terminado» total de la 0913).
+
+Rama `dedupe-8g-s20-01`, commit `662ebd6cda8cd9a0b0cef0afcefdd41753b16d82` (base `e36e22806106a5c0341198e9615066dcf7f72473`, verificado por GET de la ref, un commit, sin force). La rama ya existía en esa cabeza (antigua cabeza de merlin, antes del commit coord1 de esta misma ronda); se usó como base tal cual, sin reset ni force. Como el rango 172-185 no solapa con coord1, las viejas re-extraídas desde esa cabeza son frescas para estos slugs.
+Ficheros: `src/lib/blog-posts-autocaravanas-lote125.ts`, `src/lib/blog-posts-flash-2026.ts`, `src/lib/blog-posts-lote10.ts`, `src/lib/blog-posts-lote12.ts`, `src/lib/blog-posts-lote15.ts`, `src/lib/blog-posts-patinetes-exp-p5.ts`, `src/lib/blog-posts-patinetes-exp-p6.ts`, `src/lib/blog-posts-patinetes-exp-p7.ts`, `src/lib/blog-posts-patinetes-exp-p8.ts`, `src/lib/blog-posts-patinetes-exp-p9.ts`.
+
+Blogs pusheados en este commit (12, solo title/excerpt/content, a todas las copias):
+- /blog/etwow-booster-plus-s/ — título 44, extracto 136, prosa 274→419 palabras, copias 1.
+- /blog/macbor-xr1-125-2026-precio-ficha-tecnica/ — título 49, extracto 141, prosa 234→312 palabras, copias 1.
+- /blog/moto-guzzi-v85-tt-2026-precio-ficha/ — título 50, extracto 134, prosa 346→624 palabras, copias 1.
+- /blog/urban-glide-eon-x/ — título 49, extracto 143, prosa 227→454 palabras, copias 1.
+- /blog/jaguar-f-type-2025-precio-autonomia/ — título 44, extracto 141, prosa 287→537 palabras, copias 1.
+- /blog/pure-air-6-ultra-max/ — título 49, extracto 148, prosa 285→619 palabras, copias 1.
+- /blog/burstner-eliseo-c-644-precio-ficha-tecnica/ — título 57, extracto 149, prosa 1430→1451 palabras, copias 1.
+- /blog/segway-ninebot-zt3-max/ — título 55, extracto 148, prosa 414→656 palabras, copias 1.
+- /blog/bmw-f-900-gs-2026-precio-ficha/ — título 49, extracto 138, prosa 316→648 palabras, copias 1.
+- /blog/gotrax-rival/ — título 45, extracto 144, prosa 261→653 palabras, copias 1.
+- /blog/walberg-egret-ey-6/ — título 53, extracto 138, prosa 284→498 palabras, copias 2.
+- /blog/citroen-e-c3-aircross-baja-precio-octubre-2026/ — título 47, extracto 149, prosa 422→477 palabras, copias 1.
+
+Medición: filtro t11/slice3 (minúsculas, sin acentos, tokens [a-z0-9]+, 8-gramas; prosa excluyendo <img, tablas, *Fuentes:, créditos, solo-enlace y plantilla multa/analizador; encabezados incluidos; texto de anclas no medido por el filtro). Resultado contra la vieja fresca: 0/0 unido y por bloque en los 12, 0 cruzado en cada lote de 2, tablas/fotos/enlaces idénticos, mismas cifras, ninguna inventada, sin Euro NCAP inventado. Egret Ey! 6 aplicado a sus 2 copias idénticas en patinetes-exp-p5.ts. Bürstner Eliseo: con el filtro establecido es 0/0; en recuento estricto sin excluir texto de enlaces conserva 19 solapes solo del título del vídeo de YouTube enlazado, texto que debe conservarse tal cual.
+
+Para la siguiente ronda, NO pusheados en este commit (nada se pierde):
+- /blog/husqvarna-svartpilen-801-2026-precio-ficha/ — contenido nuevo pierde 2 ocurrencias de enlace respecto a la vieja (ficha 2→1 y comparador 2→1): la nueva funde en una línea de prosa la línea plantilla «¿Buscas solo los datos?» y la línea solo-enlace «Ver la ficha técnica completa…», que la norma conserva. No es una desviación documentada en el handover, así que no se aplica tal cual: en la siguiente ronda, restaurar plantilla y solo-enlace o documentar la desviación, y re-medir.
+- /blog/hiboy-ks4/ — NO es un fallo del lote: mi extractor de la primera pasada no lo encontró en patinetes-exp-p3.ts (entradas separadas por líneas de guiones). Corregido y verificado después: la entrada existe, el contenido es COMPLETO y estructuralmente idéntico, y mide 0/0 con 0 cruzado con Citroën. Queda listo para la siguiente ronda, sin reescribir nada, en un commit de cierre de s20-01. Lo digo así para no esconder que el salto fue mío, no del lote.
+
+Nada en main, nada en Netlify, nada en Cloudflare, nada en Convex. Siguiente puesto tras el slice: 186 (s20-02, otra ronda). Dime qué más quieres que siga subiendo y lo sigo en serie, un slice por vez, sin pausa.
