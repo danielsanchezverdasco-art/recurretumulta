@@ -1152,18 +1152,18 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     cargaRapidaKw: 100,
     etiquetaDgt: "Cero",
     pros: [
-      "560 km WLTP: la mayor autonomía entre los SUV eléctricos compactos premium",
-      "Batería de 70,5 kWh con carga rápida de 100 kW",
-      "190 CV suaves y silenciosos: el EQA más eficiente de la gama",
-      "Etiqueta Cero y 0 € de impuesto de matriculación",
-      "Calidad de rodadura muy superior a la de un GLA de combustión",
+      "Los 560 km WLTP son la mayor autonomía entre los SUV eléctricos compactos premium según la ficha",
+      "La batería de 70,5 kWh acepta cargas rápidas de 100 kW, bastante para viajes con paradas razonables",
+      "Sus 190 CV se entregan con suavidad y silencio, lo que lo convierte en el EQA más eficiente de la gama",
+      "La etiqueta Cero y los 0 € de impuesto de matriculación reducen el coste de compra y de uso",
+      "La calidad de rodadura está muy por encima de la de un GLA de combustión equivalente"
     ],
     contras: [
-      "Maletero de 340 l: el peor dato de su segmento",
-      "Plataforma de combustión adaptada: no es un eléctrico nativo",
-      "8,6 s en el 0-100: justito para 190 CV",
-      "Carga rápida de 100 kW, lejos de los 200 kW del nuevo CLA",
-      "56.450 €: el iX1 y el Q4 e-tron aprietan mucho",
+      "El maletero de 340 litros es el peor dato de su segmento y limita su papel familiar",
+      "La plataforma procede de un modelo de combustión adaptado: no es un eléctrico nacido como tal",
+      "Acelerar de 0 a 100 km/h le lleva 8,6 segundos, algo escaso para 190 CV",
+      "La carga rápida de 100 kW queda lejos de los 200 kW que ya ofrece el nuevo CLA",
+      "Con 56.450 € de partida, rivales como el BMW iX1 o el Audi Q4 e-tron aprietan mucho en precio y en equipamiento"
     ],
     largoMm: 4463,
     anchoMm: 1834,

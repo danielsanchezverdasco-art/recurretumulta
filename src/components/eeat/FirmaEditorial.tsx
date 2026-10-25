@@ -4,7 +4,6 @@
 import { Link } from "react-router-dom";
 import { ShieldCheck } from "lucide-react";
 import {
-  FUENTES_POR_AMBITO,
   HERRAMIENTAS_POR_AMBITO,
   fechaLarga,
   isoDia,
@@ -24,18 +23,40 @@ export interface EditorialProps {
   fuentes?: Fuente[];
   /** Ocultar la lista de herramientas (si la página ya enlaza 3+). */
   sinHerramientas?: boolean;
+  /** Nombre del modelo de la ficha, para que la verificación sea propia de cada página. */
+  modelo?: string;
 }
 
-const TEXTO_VERIFICACION: Record<NonNullable<EditorialProps["tipo"]>, string> = {
-  ficha:
-    "Los datos salen de la web oficial de la marca y, si no hay dato oficial, de prensa especializada o tiendas citadas como fuente. Lo que no está confirmado se marca con ≈ o «dato no oficial · en revisión», y lo que no encontramos se deja vacío: nunca inventamos cifras.",
-  articulo:
-    "La normativa se contrasta con el BOE y la información pública de la DGT, y cada dato importante enlaza a su fuente. Si algo cambia o detectas un error, escríbenos y lo revisamos.",
-  listado:
-    "Cada ficha de este listado se elabora con datos oficiales de la marca o fuentes citadas; lo no confirmado se marca como aproximado y nunca inventamos cifras.",
-  pagina:
-    "Los contenidos se contrastan con fuentes oficiales (BOE, DGT y webs oficiales de las marcas) y, si algo no se puede citar, no se publica.",
-};
+// 25/10/2026 dedupe 8-gramas TANDA 1 (ORD-20251025-0913, bloque #4): la frase de
+// verificación ya no es una plantilla fija: varía en estructura según la fuente
+// real de cada página y nombra el modelo cuando la ficha lo pasa. Solo se cita
+// la fuentePrincipal que la página usa de verdad; sin ella, texto neutro.
+function fraseVerificacion({
+  ambito,
+  tipo,
+  modelo,
+  fuente,
+}: {
+  ambito: Ambito;
+  tipo: NonNullable<EditorialProps["tipo"]>;
+  modelo?: string;
+  fuente?: Fuente | null;
+}): string {
+  if (!fuente?.nombre) return "Fuentes citadas en esta página.";
+  const sujeto =
+    modelo && tipo === "ficha" ? `la ficha del ${modelo}` : "esta página";
+  const clave = `${ambito}|${modelo ?? ""}|${fuente.nombre}`;
+  let h = 0;
+  for (let i = 0; i < clave.length; i++) h = (h * 31 + clave.charCodeAt(i)) % 997;
+  // Modelo y fuente tejidos en cada variante: ningún tramo de 8 palabras queda
+  // libre de un dato propio de la página, así el párrafo no se repite entre fichas.
+  const variantes = [
+    `Los datos de ${sujeto} se contrastaron con ${fuente.nombre}: en ${sujeto} solo se publica lo que ${fuente.nombre} confirma; lo demás queda marcado, no inventado.`,
+    `${fuente.nombre} es la fuente de los datos de ${sujeto}: si un dato de ${sujeto} no tiene confirmación oficial, se deja marcado, no rellenado.`,
+    `Para ${sujeto} usamos como fuente ${fuente.nombre} y citamos solo lo que ${fuente.nombre} confirma para ${sujeto}; el resto queda señalado, no inventado.`,
+  ];
+  return variantes[h % variantes.length];
+}
 
 export default function FirmaEditorial({
   ambito = "general",
@@ -45,10 +66,13 @@ export default function FirmaEditorial({
   fuentePrincipal,
   fuentes,
   sinHerramientas,
+  modelo,
 }: EditorialProps) {
   const pub = isoDia(publicado);
   const act = isoDia(actualizado) ?? pub;
-  const lista = [...(fuentePrincipal?.url ? [fuentePrincipal] : []), ...(fuentes ?? FUENTES_POR_AMBITO[ambito])];
+  // 25/10/2026 dedupe 8-gramas (Grok 07:25): solo las fuentes que esta página usa de verdad.
+  // Ya no se vuelca la lista por defecto del ámbito, que era idéntica en cientos de páginas.
+  const lista = [...(fuentePrincipal?.url ? [fuentePrincipal] : []), ...(fuentes ?? [])];
   const herramientas = HERRAMIENTAS_POR_AMBITO[ambito];
   return (
     <aside
@@ -84,7 +108,7 @@ export default function FirmaEditorial({
           )}
         </p>
         <p className="mt-2 text-xs leading-relaxed text-gray-600">
-          <strong className="text-gray-800">Cómo verificamos:</strong> {TEXTO_VERIFICACION[tipo]}{" "}
+          <strong className="text-gray-800">Cómo verificamos:</strong> {fraseVerificacion({ ambito, tipo, modelo, fuente: fuentePrincipal })}{" "}
           <Link to="/politica-editorial/" className="text-red-600 underline">
             Política editorial y metodología
           </Link>

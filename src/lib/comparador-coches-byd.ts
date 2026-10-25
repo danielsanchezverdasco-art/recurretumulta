@@ -1190,18 +1190,18 @@ export const COCHES_BYD: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["potenciaCv", "autonomiaKm", "bateriaKwh", "ceroCien", "largoMm", "anchoMm", "altoMm", "pesoKg", "precioDesde"],
     pros: [
-      "Hasta 950 km de autonomía (CLTC) con la batería de 130 kWh",
-      "Carga ultrarrápida de 1.000 V: del 10 al 70% en 5 minutos",
-      "7 plazas reales en configuración 2+2+3",
-      "Suspensión neumática de doble cámara",
-      "40.222 entregas en 3 meses en China: éxito comercial probado",
+      "La batería de 130 kWh anuncia hasta 950 km en ciclo CLTC, una autonomía teórica que lo coloca entre los SUV eléctricos más ambiciosos del momento",
+      "La arquitectura de 1.000 V promete pasar del 10 al 70% de carga en solo 5 minutos, siempre que el cargador lo permita",
+      "Siete plazas reales en disposición 2+2+3, con asientos individuales en la segunda fila",
+      "La suspensión neumática de doble cámara busca un confort de berlina grande en un coche de más de 5,3 metros",
+      "El arranque comercial en China, con 40.222 entregas en tres meses, demuestra que no es un prototipo de salón"
     ],
     contras: [
-      "Precio para Europa aún sin confirmar (en China desde ~31.930 €)",
-      "Los 950 km son ciclo CLTC chino, no WLTP europeo",
-      "La carga de 1.000 kW exige infraestructura que aún no existe en Europa",
-      "Dimensiones enormes (5,3 m): complicado en ciudad y aparcamientos",
-      "Sin prueba EuroNCAP publicada todavía",
+      "El precio europeo sigue sin anunciarse; en China parte de unos 31.930 €, pero la tarifa de aquí será otra",
+      "Los 950 km corresponden al ciclo chino CLTC, más benévolo que el WLTP europeo que se aplicará aquí",
+      "La carga ultrarrápida exige una infraestructura de 1.000 kW que en Europa todavía no existe",
+      "Con 5,3 metros de largo, moverse por ciudad y aparcar será su principal incomodidad diaria",
+      "Todavía no ha pasado por EuroNCAP, así que no hay una valoración independiente de su seguridad"
     ],
     imagen: "/media/byd-great-tang-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/byd-great-tang-2026-precio-ficha-tecnica-oficial.webp",
@@ -1213,7 +1213,7 @@ export const COCHES_BYD: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo lanzado en China en junio de 2026, aún no probado",
+      nota: "EuroNCAP no lo ha probado todavía: debutó en China en junio de 2026 y sigue sin evaluación europea.",
     },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",

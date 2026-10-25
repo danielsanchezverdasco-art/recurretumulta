@@ -184,16 +184,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "El Mini de gasolina más racional: 156 CV suficientes para todo",
-      "Cambio automático de 7 velocidades de serie",
-      "El más barato de la gama Cooper",
-      "Diseño renovado con la pantalla OLED redonda",
+      "Es el Mini de gasolina más racional: 156 CV dan para todo sin entrar en consumos de deportivo",
+      "El cambio automático de 7 velocidades viene incluido sin pasar por el catálogo de opciones",
+      "Es el más asequible de la gama Cooper, el acceso a la marca con el diseño renovado",
+      "La pantalla OLED redonda preside un interior que por fin parece de esta década"
     ],
     contras: [
-      "Etiqueta C: restricciones futuras en las ZBE",
-      "Solo 4 plazas y maletero de 200 litros",
-      "Las versiones eléctricas ya tienen 5 estrellas EuroNCAP; la C no está probada",
-      "156 CV se quedan cortos frente al Cooper S por poca diferencia de precio",
+      "La etiqueta C anticipa restricciones futuras en las zonas de bajas emisiones",
+      "Con solo 4 plazas y un maletero de 200 litros, su papel familiar es muy limitado",
+      "Las versiones eléctricas ya tienen 5 estrellas EuroNCAP, pero esta versión de gasolina no está probada",
+      "Los 156 CV se quedan cortos frente al Cooper S por una diferencia de precio que no es tan grande"
     ],
     imagen: "",
     imagenOficial: "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp",
@@ -222,7 +222,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
+      nota: "La versión de gasolina no ha pasado por EuroNCAP; la prueba de 2025 solo cubre las eléctricas.",
     },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",
@@ -504,16 +504,16 @@ export const COCHES_EXP23: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["consumo"],
     pros: [
-      "El descapotable más divertido de su segmento",
-      "204 CV con capota eléctrica que se abre en 18 segundos",
-      "Tacto go-kart con el cielo como techo",
-      "Siempre descapotable: la capota no penaliza apenas las prestaciones",
+      "Es el descapotable más divertido de su segmento, y lo dice su propio planteamiento, no su precio",
+      "Sus 204 CV se combinan con una capota eléctrica que se abre en 18 segundos",
+      "El tacto de conducción, de kart con el cielo por techo, es lo que justifica comprarlo",
+      "La capota no penaliza apenas las prestaciones, así que descapotar no es un sacrificio"
     ],
     contras: [
-      "Maletero de 160 litros, casi testimonial",
-      "Etiqueta C y sin prueba EuroNCAP de la versión gasolina",
-      "Ruido aerodinámico alto en autopista",
-      "Precio elevado frente al Cooper S cerrado",
+      "El maletero, de 160 litros, es casi testimonial y obliga a viajar ligero",
+      "La etiqueta C y la ausencia de prueba EuroNCAP de la versión de gasolina son dos lastres a futuro",
+      "El ruido aerodinámico en autopista, con la capota puesta, se hace notar en viajes largos",
+      "El precio es elevado frente al Cooper S cerrado, que ofrece lo mismo sin el placer del aire libre"
     ],
     imagen: "",
     imagenOficial: "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp",
@@ -542,7 +542,7 @@ export const COCHES_EXP23: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: versión de gasolina no probada (la prueba de 2025 cubre solo las versiones eléctricas)",
+      nota: "EuroNCAP no ha evaluado la variante de gasolina; su prueba de 2025 se limita a las eléctricas.",
     },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, según indicador CBS)",

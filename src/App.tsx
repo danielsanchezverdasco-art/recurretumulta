@@ -111,6 +111,9 @@ const GuiaViciosFormaPage = lazy(() => import("./pages/guias/vicios-forma.tsx"))
 const GuiaAlcoholDrogasPage = lazy(() => import("./pages/guias/alcohol-drogas.tsx"));
 const GuiaPatinetesPage = lazy(() => import("./pages/guias/patinetes-electricos.tsx"));
 const GuiaItvDocumentacionPage = lazy(() => import("./pages/guias/itv-documentacion.tsx"));
+const GuiaZbeEtiquetasPage = lazy(() => import("./pages/guias/zbe-etiquetas.tsx"));
+const GuiaCertificadoDgtPage = lazy(() => import("./pages/guias/certificado-dgt.tsx"));
+const GuiaSeguroVmpPage = lazy(() => import("./pages/guias/seguro-vmp.tsx"));
 const JuegoMonosPage = lazy(() => import("./pages/JuegoMonos.tsx"));
 const JuegoMonosBasesPage = lazy(() => import("./pages/JuegoMonosBases.tsx"));
 const HubFichas = lazy(() => import("./pages/HubFichas.tsx"));
@@ -235,6 +238,9 @@ function ContentRoutes() {
       {/* Tienda (25/10/2026) */}
       <Route path="tienda" element={<TiendaPage />} />
       <Route path="tienda/carrito" element={<TiendaCarritoPage />} />
+      <Route path="guias/zbe-etiquetas" element={<GuiaZbeEtiquetasPage />} />
+      <Route path="guias/certificado-dgt" element={<GuiaCertificadoDgtPage />} />
+      <Route path="guias/seguro-vmp" element={<GuiaSeguroVmpPage />} />
       {/* Caza de monos (05/10/2026) */}
       <Route path="juego-monos" element={<JuegoMonosPage />} />
       <Route path="juego-monos/bases" element={<JuegoMonosBasesPage />} />
