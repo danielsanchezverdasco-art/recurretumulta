@@ -211,9 +211,9 @@ Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologa
 `,
 },
 {
-  title: "VW ID.Tiguan: el nuevo ID.4",
+  title: "Volkswagen ID.Tiguan: el Tiguan eléctrico llega en 2027",
   slug: "volkswagen-id-tiguan-2027",
-  excerpt: "Volkswagen desvela mañana 9 de octubre el ID.Tiguan: el sucesor de los ID.4 e ID.5 con plataforma MEB+, a la venta en Europa a principios de 2027. Lo que se sabe y lo que no.",
+  excerpt: "El ID.Tiguan, relevo eléctrico de los ID.4 e ID.5 sobre la base MEB+, llega a Europa a principios de 2027. Lo confirmado y lo pendiente.",
   category: "Novedades Motor",
   date: "2026-10-08",
   readTime: 6,
@@ -227,23 +227,11 @@ Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologa
   ],
   content: `<img src=/media/volkswagen-id-tiguan-2027-hero.webp alt=SUV eléctrico azul oscuro en una carretera de montaña al amanecer, imagen editorial>
 
-Mañana **9 de octubre**, Volkswagen desvela el coche eléctrico más importante de su gama: el **ID.Tiguan**, el sucesor de los ID.4 e ID.5 —**950.000 unidades** vendidas en todo el mundo desde 2020— que abandona la nomenclatura numérica para adoptar el nombre de su superventas de combustión. Llegará a Europa a **principios de 2027** sobre la plataforma **MEB+**. Esto es todo lo que se sabe (y lo que aún no) a un día del estreno.
+Volkswagen prepara el estreno de su apuesta eléctrica más relevante: el ID.Tiguan, un SUV familiar de segmento C que deja atrás los números y recupera un nombre con historia en combustión. La fecha marcada es el 9 de octubre, con venta europea prevista para principios de 2027. No hay precio para España, ni baterías confirmadas, ni interior definitivo desvelado: este artículo separa lo que la marca ya ha dejado claro de lo que todavía es espera, para que nadie reserve a ciegas.
 
-## Datos clave
+## Lo que falta por saber
 
-- **Estreno mundial:** 9 de octubre de 2026
-- **Qué es:** el sucesor de los Volkswagen ID.4 e ID.5
-- **Plataforma:** MEB+ (evolución de la MEB)
-- **Venta en Europa:** principios de 2027
-- **Producción:** Emden (Alemania) desde noviembre de 2026, en exclusiva
-- **EE.UU.:** llegará más tarde, importado desde Emden (Chattanooga dejó de producir el ID.4 en abril de 2026)
-- **Fuente:** <a href=https://topelectricsuv.com/news/volkswagen/vw-id-4-facelift-launch/>TopElectricSUV</a> y <a href=https://carbuzz.com/vw-id4-becomes-id-tiguan/>CarBuzz</a>
-
-## Por qué se llama Tiguan
-
-Volkswagen lo explica sin rodeos: el nombre **Tiguan** —8,3 millones de unidades producidas— transmite una confianza que "ID.4" nunca logró. El eléctrico convivirá con los Tiguan de combustión e híbridos: el cliente elegirá la tecnología manteniendo el nombre conocido. El consejero delegado de la marca, Thomas Schäfer, lo define como un "**revamp**" profundo: diseño, ergonomía, eficiencia y autonomía mejorados respecto al ID.4. Las unidades camufladas ya ruedan: la versión de un motor trasero y **286 CV** promete consumos en torno a **16 kWh/100 km**, botones físicos de vuelta en el volante y carga bidireccional (V2L).
-
-<img src=/media/volkswagen-id-tiguan-2027-galeria-1.webp alt=SUV eléctrico moderno de perfil frente a un concesionario, imagen editorial>
+Antes que nada, lo pendiente. Volkswagen no había comunicado precios en España cuando se escribió el análisis original, y tampoco había confirmado las baterías de 58 y 79 kWh que se barajaban ni mostrado el interior definitivo. Tampoco existe una cifra de mantenimiento que citar: inventarla sería rellenar, así que en costes solo vale la lógica general de un eléctrico de esta plataforma. Un eléctrico no gasta en aceite ni en distribución; la batería y su garantía marcan el gasto a largo plazo, y la carga en casa decide el gasto mensual. En cuanto se publiquen garantía de batería y tarifas, esos serán los datos a exigir antes de reservar, y no valdrán estimaciones de terceros.
 
 ## Confirmado frente a pendiente
 
@@ -258,15 +246,17 @@ Volkswagen lo explica sin rodeos: el nombre **Tiguan** —8,3 millones de unidad
 | Precio en España | Sin confirmar |
 | Interior definitivo | Sin desvelar oficialmente |
 
-<img src=/media/volkswagen-id-tiguan-2027-galeria-2.webp alt=Salpicadero moderno de un SUV eléctrico con doble pantalla, imagen editorial>
+<img src=/media/volkswagen-id-tiguan-2027-galeria-1.webp alt=SUV eléctrico moderno de perfil frente a un concesionario, imagen editorial>
 
-El ID.Tiguan peleará en el segmento C eléctrico europeo contra rivales como el Skoda Enyaq o el Hyundai Ioniq 5. <a href=/comparador-coches/>Compáralos en nuestro comparador de coches eléctricos</a> mientras esperamos los datos definitivos del estreno de mañana.
+## Fechas y fábrica
 
-## El contexto: Volkswagen corrige su estrategia eléctrica de nombres
+El estreno queda fijado para el 9 de octubre, y los concesionarios europeos lo recibirán a principios de 2027. La producción arranca en Emden, Alemania, en noviembre de 2026 y en exclusiva para Europa. Estados Unidos lo recibirá después, importado desde Emden, porque la planta de Chattanooga dejó de fabricar el ID.4 en abril de 2026. El adelanto lo publicaron <a href=https://topelectricsuv.com/news/volkswagen/vw-id-4-facelift-launch/>TopElectricSUV</a> y <a href=https://carbuzz.com/vw-id4-becomes-id-tiguan/>CarBuzz</a> antes del estreno.
 
-El movimiento del ID.Tiguan solo se entiende mirando atrás: los ID.4 e ID.5 vendieron unas **950.000 unidades** desde 2020 según el propio análisis, pero su nombre numérico nunca creó el vínculo que sí tiene Tiguan, con **8,3 millones de unidades** producidas. Volkswagen lo reconoce sin rodeos en el texto original: el nombre conocido transmite confianza. La gama eléctrica de la marca y sus comunicados se siguen en la <a href=https://www.volkswagen.es>web oficial de Volkswagen España</a>, donde deberá confirmarse cada dato comercial cuando se acerque su venta a **principios de 2027**.
+## Por qué Tiguan y no otro número
 
-## La técnica conocida: MEB+, 286 CV y botones que vuelven
+El nombre no es un capricho: del Tiguan se han fabricado más de 8,3 millones de unidades, una confianza que el distintivo numérico nunca logró transmitir. Desde 2020, la familia ID.4 e ID.5 sumó unas 950.000 unidades en todo el mundo, pero sin crear ese vínculo. Por eso el eléctrico convivirá con los Tiguan de gasolina e híbridos: el cliente elige la tecnología sin cambiar de nombre. Thomas Schäfer, consejero delegado de la marca, lo presentó como una revisión a fondo frente al ID.4, en diseño, ergonomía, eficiencia y autonomía. Cada dato comercial deberá confirmarse en la <a href=https://www.volkswagen.es>web oficial de Volkswagen España</a> conforme se acerque la venta a principios de 2027.
+
+## Técnica adelantada: un motor, 286 CV
 
 | Dato | Volkswagen ID.Tiguan |
 |---|---|
@@ -278,41 +268,40 @@ El movimiento del ID.Tiguan solo se entiende mirando atrás: los ID.4 e ID.5 ven
 | Consumo orientativo citado | ~16 kWh/100 km |
 | Estreno | 9 de octubre de 2026 |
 
-Lo que el análisis original da por confirmado hay que separarlo de lo pendiente, y esa tabla de «confirmado frente a pendiente» es su parte más honesta: en el momento de escribirse, baterías y precio español estaban **sin confirmar**. La versión de un motor trasero con **286 CV**, el consumo en torno a **16 kWh/100 km**, la vuelta de los **botones físicos** en el volante y la carga bidireccional V2L son los datos que la marca había dejado ver en unidades camufladas. Cualquier cifra definitiva posterior deberá leerse en la ficha oficial, no extrapolarse de un prototipo.
+La arquitectura es la MEB+, derivada de la MEB. De las unidades camufladas se sabe que la versión de un motor trasero entrega 286 CV, con un consumo orientativo en torno a 16 kWh/100 km, mandos físicos de nuevo en el volante, además de carga bidireccional V2L. Todo eso es adelanto, no ficha cerrada: ninguna cifra posterior debe darse por cerrada hasta leer la ficha oficial, no un prototipo.
 
-## Uso esperado: el familiar eléctrico que no quiere parecer experimento
+<img src=/media/volkswagen-id-tiguan-2027-galeria-2.webp alt=Salpicadero moderno de un SUV eléctrico con doble pantalla, imagen editorial>
 
-Su comprador natural es el del Tiguan de combustión que da el salto a eléctrico sin cambiar de nombre ni de formato: SUV familiar de segmento C, producido en **Emden** en exclusiva para Europa según el análisis. La convivencia con los Tiguan de gasolina e híbridos que anuncia Volkswagen rebaja el riesgo percibido del cambio. Su uso real se juzgará cuando existan unidades de prensa y precios cerrados; hasta entonces, lo prudente es valorarlo como promesa fundamentada, no como producto probado. Mientras tanto, puedes comparar sus rivales ya a la venta en el <a href=/comparador-coches/>comparador de coches</a>.
+## A quién le encaja y a quién no
 
-## Costes y mantenimiento: todavía no hay nada que citar
+El cliente ideal viene del Tiguan de combustión y pasa a eléctrico manteniendo nombre y formato: un SUV familiar del segmento C que saldrá de Emden solo para Europa. Que conviva con los Tiguan de gasolina e híbridos reduce la sensación de riesgo al cambiar. En cambio, quien necesite comprar ya con datos cerrados no debería esperar: Skoda Enyaq e Hyundai Ioniq 5 están hoy en exposición, con precio cerrado y autonomía homologada, y se pueden comparar en el <a href=/comparador-coches/>comparador de coches</a>.
 
-Volkswagen no había publicado precios en España ni planes comerciales del ID.Tiguan en el momento del análisis, y no inventamos ni una cifra de mantenimiento. Lo aplicable es la lógica general de un eléctrico de plataforma MEB: sin aceite ni distribución, con la batería y su garantía como centro del coste a largo plazo, y con la carga doméstica como variable que decide el gasto mensual. Cuando la marca publique garantía de batería y tarifas, serán el dato a exigir antes de reservar, por encima de cualquier estimación de terceros.
+## Etiqueta, ITV y seguridad
 
-## Normativa: etiqueta Cero segura, Euro NCAP por ensayar
+Al ser eléctrico puro, le corresponde la etiqueta Cero y podrá circular por las ZBE una vez matriculado en España. La ITV seguirá el calendario de los turismos eléctricos. En seguridad, nada de estrellas prestadas: un modelo sin comercializar no puede apropiarse de la nota del ID.4 como si fuese propia; habrá que esperar a que <a href=https://www.euroncap.com>Euro NCAP</a> lo ensaye como modelo independiente. Esa prudencia separa la información del relleno.
 
-Como eléctrico puro, su **etiqueta Cero** no admite duda: acceso libre a las ZBE cuando se matricule en España. Seguirá el calendario de ITV de los turismos eléctricos. En seguridad no corresponde atribuirle estrellas: un modelo aún no comercializado no puede heredar la nota del ID.4 como si fuera la suya; la comprobación deberá hacerse en <a href=https://www.euroncap.com>Euro NCAP</a> cuando el ID.Tiguan sea ensayado como modelo independiente. Esa cautela es la que distingue información de relleno.
+## Rivales con precio cerrado: veredicto provisional
 
-## Frente al Enyaq y al Ioniq 5: veredicto provisional
+Del lado del ID.Tiguan quedan dos bazas de futuro: el tirón del nombre Tiguan y la base MEB+, evolución de la MEB. Del lado de sus rivales está lo decisivo hoy: precio ya cerrado, autonomía ya homologada y coches en exposición. De ahí que cualquier veredicto sea provisional hasta que la marca publique en España la ficha comercial completa.
 
-El análisis original lo sitúa contra rivales como el Skoda Enyaq y el Hyundai Ioniq 5, ambos ya a la venta y comparables hoy en el comparador de esta casa. Frente a ellos, el ID.Tiguan juega dos cartas futuras: el nombre Tiguan y la plataforma **MEB+** como evolución de la MEB. Sus rivales juegan la carta decisiva del presente: precio cerrado, autonomía homologada y unidades en exposición. Por eso el veredicto solo puede ser provisional hasta que Volkswagen publique la ficha comercial española completa.
-
-**¿Merece la pena esperar?** Si tu compra es para 2027 y confías en la corrección de ergonomía que promete la marca, tiene sentido vigilarlo. **Para quién sí:** para el cliente Tiguan que quiere pasar a eléctrico sin cambiar de marca. **Para quién no:** para quien necesite comprar ya con datos cerrados: Enyaq e Ioniq 5 existen hoy.
+**¿Compensa aguardar?** Si la compra cae en 2027 y te convence la corrección de ergonomía anunciada, vigilarlo tiene sentido. **Le encaja a:** el cliente Tiguan que busca pasar a eléctrico sin salir de la marca. **No le encaja a:** quien tenga que comprar ya con cifras cerradas, porque Enyaq e Ioniq 5 ya están a la venta.
 
 ## Preguntas frecuentes
 
-### ¿Cuándo se presenta el Volkswagen ID.Tiguan?
-El **9 de octubre de 2026**; llegará a los concesionarios europeos a principios de 2027.
+### ¿Sustituye al ID.4?
+Sí, releva a los ID.4 y los ID.5, pero los Tiguan de gasolina e híbridos seguirán a su lado.
 
-### ¿El ID.Tiguan sustituye al ID.4?
-Sí: sustituye a los **ID.4 e ID.5**, aunque convivirá con el Tiguan de combustión y el híbrido.
+### ¿Cuándo llega a Europa?
+Los concesionarios europeos lo recibirán a principios de 2027, tras un estreno fijado para el 9 de octubre.
 
-### ¿Cuánto costará el ID.Tiguan en España?
-Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el estreno o poco después.
+### ¿Cuánto costará en España?
+Todavía no hay cifra oficial: la marca no ha comunicado precios y habrá que esperar al estreno o a los días siguientes.
 
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 
 
-*Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`,
+*Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*
+`,
 },
 {
   title: "VW ID. Polo GTI: 226 CV eléctricos",

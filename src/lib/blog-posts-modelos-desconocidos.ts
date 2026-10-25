@@ -373,9 +373,9 @@ Fuentes: <a href=https://www.youtube.com/watch?v=15mZM5Xm9WA>YouTube — reseña
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "IM Motors LS6: el SUV chino rival del Tesla Model Y",
+    "title": "IM LS6 2026: chasis por cable contra el Tesla Model Y",
     "slug": "im-motors-ls6-nuevo-suv-electrico-model-y",
-    "excerpt": "IM LS6: el SUV premium de SAIC con chasis controlado por cable, 8.000 reservas en 45 minutos y precio desde 25.700 €. El rival chino del Model Y.",
+    "excerpt": "El LS6 nuevo de IM: 8.000 reservas en 45 minutos, dirección por cable de serie y precio chino desde 25.700 €. Su rival, el Model Y.",
     "category": "Modelos desconocidos",
     "date": "2026-10-03",
     "readTime": 8,
@@ -390,23 +390,19 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/fotos-reales/im-motors-ls6-nuevo-suv-electrico-model-y/im-motors-desconocidos-hero.webp alt=SUV coupé eléctrico chino azul oscuro circulando por el distrito financiero de Madrid al anochecer>
 
-**¿Buscas solo los datos?** <a href=/coches/im-motors-ls6-nuevo-suv-electrico-model-y/>Ver ficha técnica del IM LS6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+**¿Solo quieres las cifras?** <a href=/coches/im-motors-ls6-nuevo-suv-electrico-model-y/>Ver ficha técnica del IM LS6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**8.000 reservas en 45 minutos.** Esa es la cifra con la que el nuevo **IM LS6** abrió su preventa en China el pasado septiembre. El modelo es la renovación del SUV eléctrico más vendido de **IM Motors**, la marca premium de **SAIC** —el gigante chino que también es dueño de **MG**—, y su objetivo declarado no es otro que destronar al **Tesla Model Y**.
+En España, la llegada de IM puede resultar menos lejana de lo que parece: la red que hoy vende y mantiene los MG es la misma que, llegado el momento, podría sostener a su hermana premium. SAIC ya ha demostrado aquí que sabe colocar coches chinos entre los más vendidos, y el LS6 nuevo es su siguiente carta en el segmento eléctrico familiar.
 
-Lo más interesante: IM ya está en Europa. Solo que casi nadie se ha dado cuenta.
+## Conducir sin columna: cómo funciona el chasis
 
-## Quién es IM Motors
+Entender el chasis del LS6 no exige jerga: basta con comparar. Un turismo normal une volante y ruedas con una columna metálica; el LS6 prescinde de esa barra. Sensores captan el giro del mando y motores eléctricos colocan las ruedas; como en los aviones modernos, no hay enlace mecánico.
 
-IM Motors (IM = Intelligence in Motion) es la división premium de **SAIC Motor**, el mayor fabricante de coches de China y la matriz de MG, la marca china que ya es un superventas en España. Si MG es el caballo de Troya económico, IM es la artillería pesada: tecnología de vanguardia, posicionamiento premium y precios que siguen siendo demoledores.
+Esa arquitectura sirve para tres cosas: amortiguar baches y vibraciones para que el aro no tiemble, variar la desmultiplicación —al aparcar basta un giro corto; a velocidad alta, el tacto se afina— y hacer girar también las ruedas traseras, hasta 18° en el LS6. De ahí que un vehículo que roza los cinco metros pueda girar en 4,49 metros en su versión Ultra.
 
-La marca anunció su llegada a Europa a principios de 2024 y por ahora opera en el **Reino Unido** (donde algunos modelos se venden bajo la marca MG) y Australia, además de Oriente Medio. La expansión al resto del continente es cuestión de tiempo.
+Lexus ya usa esta solución en el RZ 550e; Tesla, en el Cybertruck. IM, en cambio, la monta en todas las versiones de un familiar eléctrico de precio medio. En Europa, ese tipo de chasis se reserva a berlinas de 100.000 €. Cuando esta tecnología se generalice, recordar que entre las manos y las ruedas hubo una barra metálica resultará extraño.
 
-<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors>
-
-## El nuevo IM LS6: chasis de avión en un SUV familiar
-
-La gran novedad de 2026 es la nueva generación del **LS6**, un SUV familiar de cinco plazas y **4,94 metros** que lleva la tecnología de **chasis controlado por cable** a un segmento de precios donde nadie la ofrecía:
+## El LS6 2026, en una tabla
 
 |  | IM LS6 2026 |
 |---|---|
@@ -418,56 +414,67 @@ La gran novedad de 2026 es la nueva generación del **LS6**, un SUV familiar de 
 | **Autonomía est. WLTP** | ~566 – 680 km (según versión) |
 | **Reservas en preventa** | **8.000 en 45 minutos** |
 
-Todas las versiones incorporan de serie **dirección por cable**, dirección inteligente en las cuatro ruedas y el chasis digital Lingxi 3.0. La versión Ultra combina además suspensión neumática con amortiguadores adaptativos. Es tecnología que en Europa solo se ve en berlinas de 100.000 €, aquí en un SUV familiar de precio medio.
+Ninguna versión prescinde de la dirección por cable ni de las cuatro ruedas directrices inteligentes; el Lingxi 3.0 digital va en todas. La variante Ultra suma suspensión neumática y amortiguadores adaptativos. 2026 trae la generación renovada del LS6: cinco plazas en 4,94 metros, con el chasis gobernado por cable en un tramo de precios donde ningún rival lo brindaba.
 
-El precio de entrada supone además una **rebaja de 7.000 yuanes** respecto a la generación anterior, pese a llevar una arquitectura eléctrica y un chasis mucho más avanzados.
+El acceso cuesta 7.000 yuanes menos que antes, aunque la arquitectura eléctrica y el chasis son mucho más avanzados.
 
-## El rival: Tesla Model Y, Zeekr 7X y compañía
+## Reservas fulgurantes y precio chino
 
-El LS6 original se lanzó en 2023 precisamente para pelear contra el **Tesla Model Y**, el SUV eléctrico más vendido del mundo durante años. En esta renovación, el campo de batalla se ha ampliado: también compite contra el **Zeekr 7X** y una legión de SUV chinos que cada mes suben el listón.
+45 minutos bastaron para 8.000 reservas en la preventa china del LS6 nuevo, abierta en septiembre. El modelo renueva al SUV eléctrico con más ventas de IM Motors. Su meta declarada: desbancar al Model Y de Tesla.
 
-Su baza frente al Model Y: más tecnología de chasis, más equipamiento y un precio de partida inferior, con autonomías estimadas que en las versiones altas rondan los **680 km WLTP**.
+En China arranca en 197.900 yuanes —al cambio, alrededor de 25.700 €— y su tope ronda los 33.800 €. La autonomía estimada se mueve entre unos 566 y 680 km WLTP según la versión; las variantes superiores rondan los 680 km WLTP.
 
-## ¿Cuándo llega a España?
+## Model Y, Zeekr 7X y el resto
 
-IM ya ha confirmado su presencia internacional en Australia, Nueva Zelanda, Reino Unido, el norte de Europa y Oriente Medio, y **fuera de China el modelo se comercializa como IM6** en algunos mercados. Lo que **aún no está confirmado es cuándo empezará a exportarse esta nueva generación del LS6** ni con qué precios europeos.
+En 2023, el primer LS6 salió a pelear con el Model Y de Tesla, durante años el SUV eléctrico más vendido del planeta. Con la renovación, la pelea se amplía al Zeekr 7X y a una oleada de SUV chinos que mes a mes eleva el listón.
 
-Mientras tanto, su primo barato —MG— ya demuestra en España que SAIC sabe vender aquí: el <a href=/comparador-coches/>comparador de coches</a> está lleno de modelos del grupo que compiten por precio. Cuando IM aterrice con todas sus letras, el segmento premium eléctrico europeo tendrá un problema serio.
+Frente al Model Y, el LS6 opone un chasis más avanzado, un equipamiento más amplio y una tarifa inicial más baja.
 
-## El chasis por cable, explicado para conductores normales
+## Europa: IM6 fuera, España sin fecha
 
-La gran baza técnica del LS6 merece una explicación sin jerga. En un coche normal, el volante está **conectado físicamente** a las ruedas mediante la columna de dirección. En el LS6, como en los aviones modernos (de ahí lo de "chasis de avión"), **no hay conexión mecánica**: unos sensores leen lo que haces con el volante y unos actuadores eléctricos mueven las ruedas.
+Reino Unido, Oriente Medio, Australia, Nueva Zelanda y el norte europeo ya figuran en su mapa internacional, y en ciertos mercados fuera de China se vende con el nombre IM6. Ni la fecha de exportación de esta generación renovada ni sus tarifas europeas están confirmadas.
 
-¿Para qué sirve? Para tres cosas: **filtrar** las vibraciones e irregularidades (el volante no tiembla), **adaptar** la desmultiplicación (poco giro de volante aparcando, precisión a alta velocidad) y permitir que las **ruedas traseras también giren** —hasta 18° en el LS6—, lo que explica su ridículo radio de giro de 4,49 metros en un coche de casi cinco metros de largo.
+A comienzos de 2024, la marca anunció su desembarco europeo. Hoy opera en Reino Unido —allí, algunos modelos llevan la marca MG—, en Australia y en Oriente Medio, y su ampliación al resto del continente parece cuestión de tiempo.
 
-Es la misma tecnología que Lexus ha llevado al RZ 550e o que Tesla usa en el Cybertruck, pero IM la mete de serie en un SUV familiar de precio medio. Cuando esta tecnología se generalice, mirarás atrás y te preguntarás cómo condujimos tanto tiempo con una barra de metal entre las manos y las ruedas.
+## Quién está detrás: IM Motors
 
-## MG como cabeza de puente
+IM Motors resume Intelligence in Motion: es la enseña premium de SAIC Motor, el mayor constructor de China y la matriz de MG, que en España ya vende como ninguna otra marca china. Si MG abrió la puerta con precios rompedores, IM representa la artillería tecnológica: vanguardia, posicionamiento premium y tarifas que siguen siendo demoledoras.
 
-La estrategia de SAIC en Europa es de manual: primero **MG** con precios rompedores (el MG4 y el ZS llevan años entre los eléctricos más vendidos en España), creando red de concesionarios, talleres y confianza. Después, **IM** con tecnología punta para el segmento premium. Es el mismo playbook que Toyota usó con Lexus en los 90, pero a velocidad china: MG anunció la llegada de IM a Europa a principios de 2024 y ya opera en Reino Unido.
+<img src=/media/im-motors-ls6-suv-cuerpo.webp alt=IM LS6, el SUV eléctrico de IM Motors>
 
-Para el conductor español, la implicación es clara: la red de servicio que hoy atiende a tu MG4 será la que mañana atienda a un IM. Y eso elimina la mayor objeción al coche chino desconocido: ¿quién me lo repara?
+## MG abre camino
+
+SAIC ejecuta en Europa un guion en dos tiempos. Primero, MG y sus precios rompedores: MG4 y ZS llevan tiempo dentro de los eléctricos más vendidos en España, y con ellos han crecido concesionarios, talleres y confianza. Después, IM y su tecnología punta para el tramo premium. El precedente es Toyota con Lexus en los noventa, solo que SAIC lo ejecuta a velocidad china: MG comunicó a comienzos de 2024 el desembarco de IM en Europa, y Reino Unido ya cuenta con operaciones de la marca.
+
+El conductor español tiene la consecuencia a la vista: quien hoy mantiene un MG4 podrá mantener mañana un IM. Esa continuidad disipa la duda principal ante una marca china desconocida: quién se ocupará del mantenimiento.
+
+Entretanto, el pariente económico del grupo, MG, ya ha probado en España que SAIC coloca coches aquí: el <a href=/comparador-coches/>comparador de coches</a> reúne modelos del grupo que rivalizan por precio. El día que IM se presente en Europa con su propio nombre, el premium eléctrico del continente se encontrará con un rival incómodo.
 
 ## Preguntas frecuentes
 
-### ¿Qué es IM Motors?
-La marca premium de **SAIC Motor** (el grupo dueño de MG), centrada en coches eléctricos de alta tecnología. Sus siglas significan "Intelligence in Motion".
+### ¿Qué marca es IM Motors?
 
-### ¿Cuánto cuesta el IM LS6?
-La nueva generación parte en China de 197.900 yuanes, unos **25.700 €** al cambio, hasta unos 33.800 € en las versiones altas.
+IM es la enseña de alta gama que SAIC Motor —propietaria también de MG— dedica a los eléctricos con tecnología avanzada. Las siglas IM resumen Intelligence in Motion.
 
-### ¿El IM LS6 se vende en España?
-Aún no. IM opera en Reino Unido, Australia y Oriente Medio, y ha confirmado su expansión internacional, pero sin fecha para España ni para esta nueva generación del LS6.
+### ¿Desde qué precio parte el LS6 nuevo en China?
 
-### ¿Qué tiene de especial su chasis?
-Es el primer SUV familiar de su precio con **chasis totalmente controlado por cable**: dirección por cable, cuatro ruedas directrices y el sistema digital Lingxi 3.0 de serie.
+En China, la generación renovada arranca en 197.900 yuanes —al cambio, alrededor de 25.700 €— y su tope ronda los 33.800 €.
 
-### ¿IM tiene que ver con MG?
-Sí: ambas pertenecen a **SAIC Motor**. MG es la marca generalista que triunfa en España; IM es su hermana premium y tecnológica.
+### ¿Está a la venta el LS6 en España?
+
+De momento, no. Reino Unido, Australia y Oriente Medio ya cuentan con IM, y la expansión internacional está confirmada, pero España sigue sin fecha, igual que esta generación renovada del LS6.
+
+### ¿Qué distingue al chasis del LS6?
+
+Ningún otro familiar de su precio ofrece un chasis gobernado por completo por cable: mando por cable, ruedas traseras directrices y Lingxi 3.0 digital en todas las versiones.
+
+### ¿Qué relación guardan IM y MG?
+
+Las dos cuelgan de SAIC Motor: MG cubre el tramo generalista con éxito en España, mientras IM ocupa el escalón premium y tecnológico.
 
 Fuentes: <a href=https://www.hibridosyelectricos.com/coches/antes-comprarte-tesla-model-echa-vistazo-nuevo-suv-pijo-mg-27000-con-782-km-autonomia_89221_102.html>Híbridos y Eléctricos</a>, <a href=https://formula1rd.com/los-hermanos-pijos-de-mg-ponen-precio-a-su-nuevo-suv-electrico-con-chasis-de-avion-que-reta-directamente-al-tesla-model-y/>Fórmula 1 RD</a>, <a href=https://forococheselectricos.com/noticias/im-ls6-nuevo-rival-tesla-model-y-8000-reservas-45-minutos-20260913-42074.html>ForoCochesEléctricos</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si una sanción te parece defectuosa, <a href=https://recurretumulta.online/>revísala sin coste con nuestra IA</a> antes de abonarla.`
   },
   {
     "title": "iCaur",
@@ -840,9 +847,9 @@ Fuentes: <a href=https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-p
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
-    "title": "AIVA ME7: el SUV de Seres, CATL y TikTok",
+    "title": "AIVA ME7: el SUV coupé chino de los faros con gestos",
     "slug": "aiva-me7-seres-catl-paris-2026",
-    "excerpt": "AIVA, la marca china de Seres, CATL y la IA de ByteDance, presenta el ME7: un SUV coupé de 4,85 m con faros que responden a gestos. Esto es lo que se sabe.",
+    "excerpt": "El ME7, primer coche de AIVA (Seres, CATL y la IA de ByteDance), debutó en París: SUV coupé de 4,85 m, faros Smart Light Eyes y precio aún sin publicar.",
     "category": "Modelos desconocidos",
     "date": "2026-10-07",
     "readTime": 8,
@@ -857,15 +864,15 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
     ],
     "content": `<img src=/media/aiva-me7-paris-2026-hero.webp alt=SUV coupé eléctrico chino de color oscuro con faros de píxeles LED en una calle de París al atardecer>
 
-**AIVA** es la marca de coches más joven e intrigante que ha salido de China en 2026. Detrás están **Seres** (el fabricante de los Aito junto a Huawei), el gigante de las baterías **CATL** y la inteligencia artificial de **ByteDance**, la matriz de TikTok. Su primer coche de producción, el **AIVA ME7**, se presentó mundialmente el **28 de septiembre de 2026 en París**, durante la Semana de la Moda. Es un SUV coupé de **4,85 metros** que apuesta por el diseño, la IA y unos faros capaces de interactuar con las personas mediante gestos.
+París acogió el 28 de septiembre de 2026, en plena Semana de la Moda, la primera aparición pública del ME7, el coche con el que arranca AIVA. Detrás de la marca recién nacida se juntan tres mundos: Seres, que fabrica los Aito con Huawei; CATL, el gigante de las baterías; y la inteligencia artificial de ByteDance, la casa matriz de TikTok. El resultado mide 4,85 metros, adopta forma de SUV coupé y quiere venderse por diseño, por IA y por unos faros capaces de comunicarse con la gente mediante gestos.
 
-Si te gustan los coches chinos que todavía no conoce nadie, este es el nombre que hay que memorizar.
+Si te atraen los coches chinos que casi nadie conoce todavía, apunta este nombre.
 
-## Qué significa AIVA y quién la ha creado
+## Quién empuja AIVA
 
-AIVA significa **"Artificial Intelligence Voyage Ahead"**: la idea de que la inteligencia artificial acompañe al viajero hacia el futuro. La marca se presentó oficialmente el **9 de junio de 2026 en Pekín**, y su planteamiento es radical: diseñar el coche **empezando por la IA**, no por el chasis. El vehículo debe recordar las preferencias del conductor, percibir el entorno y anticiparse a las necesidades, como un acompañante más que como una máquina.
+AIVA son las siglas de "Artificial Intelligence Voyage Ahead": la inteligencia artificial como compañera de viaje hacia adelante. Pekín presentó la marca el 9 de junio de 2026, con una idea que invierte el orden habitual: el coche se concibe desde la IA, no desde el chasis. Debe aprender los gustos de quien conduce, leer el entorno y adelantarse a lo que hace falta, más acompañante que máquina.
 
-La fabrica **Chongqing Saidou Technology** (antes Landian Technology), con un accionariado que explica por qué hay que tomarla en serio:
+Detrás de la fabricación está Chongqing Saidou Technology, antes Landian Technology.
 
 | Accionista | Participación | Qué aporta |
 |---|---|---|
@@ -873,24 +880,11 @@ La fabrica **Chongqing Saidou Technology** (antes Landian Technology), con un ac
 | **Seres** | 32,96 % | La fábrica "Phoenix" y el desarrollo del vehículo |
 | **CATL** | ~9,89 % | Baterías y tecnología de carga |
 
-Saidou opera con independencia en estrategia de marca, definición de producto y canales de venta, pero produce en la **"Phoenix Factory" de Seres**, una de las plantas más automatizadas de China. Y la pata tecnológica más llamativa no es mecánica: **Volcengine**, la división de nube e IA de ByteDance, aporta el modelo de lenguaje **Doubao** y el cockpit inteligente, mientras que **DeepRoute**, especialista chino en conducción autónoma, colabora en los sistemas de asistencia.
+Con independencia en marca, producto y canales de venta, Saidou fabrica en la factoría "Phoenix" de Seres, una de las más automatizadas de China. La parte tecnológica que más llama la atención no es mecánica: el cockpit inteligente y el modelo de lenguaje Doubao llegan de Volcengine, el brazo de nube e IA de ByteDance, y en asistencia a la conducción colabora DeepRoute, firma china especializada en conducción autónoma.
 
-<img src=/media/aiva-me7-faros-smart-light-eyes.webp alt=Primer plano de los faros de píxeles Smart Light Eyes del AIVA ME7 proyectando patrones de luz de noche>
+## Lo que falta por saber
 
-## El AIVA ME7: lo que sabemos del coche
-
-El ME7 es un **SUV coupé de cinco puertas** que por tamaño juega en la liga del **Tesla Model Y, el XPeng G6, el BYD Sealion 7 y el Polestar 4**: **4.850 mm de largo** con **2.900 mm de batalla**. Su lenguaje de diseño se inspira en la naturaleza y la aerodinámica marina:
-
-- **Faros "Smart Light Eyes"**: ópticas delanteras de píxeles que admiten **interacción por gestos** y muestran expresiones lumínicas dinámicas.
-- **Frontal "sumergible"** con paragolpes de inspiración tiburón, pensado para canalizar el aire y reducir turbulencias.
-- **Diez conductos de aire** repartidos por la carrocería y un alerón trasero ancho de **"doble cola de ballena"**.
-- Tres colores de lanzamiento: **plata Sea Wolf, morado Coral y rojo Flamingo**.
-
-Habrá **versión 100 % eléctrica y versión con extensor de autonomía**, y los prototipos de desarrollo ya ruedan con **LiDAR en el techo**. Además, la marca negocia conectar el ME7 a la **red de intercambio de baterías de CATL**: el cliente alquilaría la batería en vez de comprarla, lo que abarataría el precio de compra y permitiría "repostar" cambiando la batería en minutos. El acuerdo aún no está cerrado.
-
-## Lo que aún no sabemos (y conviene decirlo claro)
-
-Aquí viene la parte honesta: AIVA **no ha publicado** la capacidad de la batería, la potencia de los motores, la aceleración, la velocidad de carga ni la autonomía homologada. Tampoco el precio del ME7: lo único confirmado es que la gama se moverá **por encima de los 200.000 yuanes** (unos 26.600 € al cambio actual). Las reservas se abrirán a **principios de 2027** y el coche se venderá en China y en mercados internacionales.
+De momento, la lista de incógnitas pesa más que la de certezas. La marca no ha desvelado ni la capacidad de la batería, ni la potencia, ni la aceleración, ni la autonomía homologada, ni la velocidad de carga. Tampoco hay precio del ME7: solo se sabe que la gama superará los 200.000 yuanes, en torno a 26.600 € según el cambio actual. A principios de 2027 se abrirán las reservas y la venta arrancará en China y en mercados internacionales.
 
 | Dato | Estado |
 |---|---|
@@ -900,37 +894,50 @@ Aquí viene la parte honesta: AIVA **no ha publicado** la capacidad de la bater�
 | Precio del ME7 | No publicado |
 | Ventas en Europa | Sin confirmar |
 
-Que una marca oculte las cifras técnicas en la presentación no es raro en China: primero se enseña el diseño y el posicionamiento, y los datos llegan con la preventa. Lo importante es no inventarlos.
+En China es habitual presentar primero el diseño y el posicionamiento y guardar las cifras para la preventa, así que ese silencio no debería sorprender. Lo que no haremos aquí es rellenar los huecos con números inventados.
 
-## ¿Llegará a España?
+<img src=/media/aiva-me7-faros-smart-light-eyes.webp alt=Primer plano de los faros de píxeles Smart Light Eyes del AIVA ME7 proyectando patrones de luz de noche>
 
-**De momento, no hay anuncio oficial.** Pero el gesto es elocuente: una marca china de cuatro meses eligiendo **París para su debut mundial** no lo hace por casualidad. Si AIVA cumple su plan de vender en mercados internacionales, Europa estará en la hoja de ruta tarde o temprano.
+## Diseño que habla con luz
 
-Mientras tanto, aquí puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>, y si te va la tecnología china con Huawei y CATL dentro, echa un ojo a <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> recoge todos los datos confirmados hasta hoy, sin relleno.
+Cinco puertas y silueta de SUV coupé: así se presenta el ME7. Sus cotas lo sitúan junto al Polestar 4, el BYD Sealion 7, el XPeng G6 o el Tesla Model Y: 4.850 mm de largo y 2.900 mm de batalla. El dibujo toma referencias de la naturaleza y del mundo marino, buscando aire limpio:
 
-## Preguntas frecuentes
+- Ópticas delanteras de píxeles "Smart Light Eyes", capaces de responder a gestos y de componer expresiones luminosas en movimiento.
+- Morro "sumergible" con un paragolpes de aire tiburón, dibujado para encauzar el aire y recortar turbulencias.
+- Diez tomas de aire repartidas por la carrocería más un alerón posterior ancho con forma de doble cola de ballena.
+- Colores de estreno: rojo Flamingo, morado Coral y plata Sea Wolf.
 
-### ¿Qué es AIVA?
-Una marca china de coches creada en junio de 2026, cuyo nombre significa "Artificial Intelligence Voyage Ahead". Apuesta por vehículos definidos por la inteligencia artificial, con Seres, CATL y ByteDance como socios tecnológicos.
+Se ofrecerá como eléctrico puro y con extensor de autonomía. Los prototipos de pruebas ya circulan con LiDAR en el techo. También se negocia que el ME7 use la red CATL de intercambio de baterías: el cliente alquilaría la batería en lugar de adquirirla, con lo que la compra saldría más barata y "repostar" sería cambiar la batería en minutos. Eso sí: el acuerdo sigue sin cerrarse.
 
-### ¿Quién fabrica el AIVA ME7?
-**Chongqing Saidou Technology**, participada por Seres (32,96 %), CATL (~9,89 %) y capital público de Chongqing. La producción se hará en la "Phoenix Factory" de Seres.
+## ¿Veremos el ME7 en España?
 
-### ¿Cuánto mide el AIVA ME7?
-**4.850 mm de largo** con 2.900 mm de batalla: un SUV coupé mediano del tamaño de un Tesla Model Y.
+Hoy por hoy, ningún anuncio oficial lo confirma. Que una marca creada en junio eligiera París para su estreno mundial no parece casual: si AIVA cumple su plan de vender fuera de China, Europa acabará en su hoja de ruta tarde o temprano.
 
-### ¿El AIVA ME7 es eléctrico?
-Habrá dos versiones: **100 % eléctrica** y **con extensor de autonomía**. Batería, potencia y autonomía aún no se han publicado.
+Entretanto, puedes <a href=/comparador-coches/>comparar los SUV eléctricos que sí se venden en España</a>; y si te atrae la tecnología china con Huawei y CATL, mira <a href=/blog/avatr-changan-huawei-catl-06t-t09/>Avatr, la alianza de Changan, Huawei y CATL</a>. La <a href=/coches/aiva-me7-2026-precio-ficha-tecnica/>ficha técnica del AIVA ME7</a> reúne solo los datos confirmados hasta hoy.
 
-### ¿Cuánto cuesta el AIVA ME7?
-**No publicado.** La marca solo ha confirmado que su gama se situará por encima de los 200.000 yuanes (unos 26.600 € al cambio).
+## Dudas habituales
 
-### ¿El AIVA ME7 se venderá en España?
-**Sin confirmar.** El debut mundial fue en París y la marca habla de mercados internacionales, pero no hay anuncio oficial para Europa.
+### ¿Qué es exactamente AIVA?
+Una marca china de coches nacida en junio de 2026, bautizada como "Artificial Intelligence Voyage Ahead", que apuesta por coches definidos por la IA junto a Seres, CATL y ByteDance en la parte tecnológica.
+
+### ¿Quién fabrica el ME7?
+Chongqing Saidou Technology, con Seres en el 32,96 %, CATL cerca del 9,89 % y el resto en manos públicas de Chongqing. La fabricación correrá a cargo de la "Phoenix Factory" de Seres.
+
+### ¿Qué tamaño tiene?
+4.850 mm de largo y 2.900 mm de batalla, o sea, un SUV coupé mediano a la altura de un Tesla Model Y.
+
+### ¿Es eléctrico el ME7?
+Sí, en dos variantes: eléctrica pura y con extensor de autonomía. Potencia, batería y autonomía todavía no se han hecho públicas.
+
+### ¿Cuánto costará?
+Sin publicar. Solo se sabe que la gama superará los 200.000 yuanes, en torno a 26.600 € al cambio.
+
+### ¿Llegará a España?
+Sin confirmar. La marca habla de mercados internacionales y su estreno mundial se celebró en París, pero para Europa no hay anuncio oficial.
 
 Fuentes: <a href=https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-unveils-me7-in-paris/>CarNewsChina</a>, <a href=https://newmobility.news/en/2026/10/01/yet-another-chinese-ev-brand-is-knocking-on-europes-door-aiva/>NewMobility</a>, <a href=https://www.somoselectricos.com/coches-electricos/seres-catl-estrenan-aiva-me7-espectacular-suv-coupe-inteligencia-artificial/20260930123054063764.html>SomosEléctricos</a>, <a href=https://cnevpost.com/2026/06/09/seres-saidou-launches-new-brand-aiva-ai-defined-evs/>CnEVPost</a>.
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Si te llegó una multa y sospechas que tiene algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de abonar nada.`
   },
   {
     "title": "Battleship 700: 4x4 de 1.113 CV que flota",
