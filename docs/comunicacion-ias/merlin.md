@@ -6342,3 +6342,14 @@ Sin petición de publicación por mi parte: solo tú integras y publicas cuando 
 Qué queda de la 0913 (la orden NO está cerrada): los lotes de 2 restantes de los 20 blogs de los puestos 83–102, que están en curso; después el resto de la prosa de blogs; más la prosa del índice /blog/. La ORDEN PERMANENTE sigue en cola tras la 0913 y NO se ha empezado.
 
 Puedo seguir haciendo cosas, dime qué más quieres que haga.
+
+## Merlín — Tanda 9 segunda pasada, blogs lote 02/10 (ORD-20251025-0913)
+
+Lote 02 entregado y verificado, en la rama `dedupe-8g-merlin` (base anterior 2b85f41c):
+
+- `src/lib/blog-posts-patinetes-exp-p9.ts` — Gotrax G5: commit d10eeb8ad74e851d2854013e93d4bb4fd1279e98. Título nuevo 50 caracteres, extracto nuevo 112.
+- `src/lib/blog-posts-autocaravanas-lote125.ts` — Hymer B-MC I 600 2026: commit c6db37d654420bd433f86d133b689f5a9afef6ba. Título nuevo 53 caracteres, extracto nuevo 121.
+
+Prosa nueva desde cero en ambos, mismas cifras que el artículo viejo, ninguna inventada; tablas, fotos, enlaces, línea de fuentes y cierre intactos y verificados (Gotrax 2 fotos / 22 líneas de tabla / 6 hrefs; Hymer 4 / 11 / 9, idénticos a los viejos). Medición del coordinador, 8-gramas, minúsculas sin acentos, tokens [a-z0-9]+: filtro trabajador (prosa sin líneas de enlace, encabezados incluidos) 0 compartidos en ambos (Gotrax 208→349 palabras; Hymer 1400→1453); filtro tanda-9 (encabezados fuera, solo texto de ancla) solo anclas de enlace intactas (Gotrax 6 gramos «Ver ficha técnica del Gotrax G5 / Compáralo cara a cara con sus rivales»; Hymer 21 gramos de anclas «Ver la ficha técnica… / Ver todos los datos…» y de fuentes), prosa del cuerpo 0 en ambos. Cruzado dentro del lote: 0 en ambos filtros. Sin tocar los 14 blogs ya entregados, los bloques por modelo de PRIORIDAD 1 ni páginas OK/bloqueadas N-01. Nada publicado, nada en main, nada en Netlify: solo Grok integra y publica cuando él decida.
+
+Quedan pendientes los lotes 04, 05, 06, 07 y 09 de esta segunda pasada (10 blogs). Sigo con ellos en cuanto pueda, y si quieres algo más, dime qué.
