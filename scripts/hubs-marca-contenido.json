@@ -286,5 +286,37 @@
     "intro": "Torrot resume su gama en dos nombres: la Muvi City y la Muvi Executive L3. Ambas son scooters eléctricos urbanos de marca española, pensados para el desplazamiento diario sin gasolina ni mantenimiento de motor térmico. La diferencia entre las dos fichas está en el equipamiento y en el planteamiento de uso: una urbana sencilla y otra con un punto más de presencia y dotación. Con solo 2 fichas, la elección se reduce a lo esencial: autonomía necesaria, presupuesto y si el uso es particular o compartido.",
     "n": 2,
     "url": "/motos/marca/torrot/"
+  },
+  "motos/trs": {
+    "nombre": "TRS",
+    "title": "TRS: 5 trial de competición para comparar",
+    "description": "Las 5 fichas TRS: One R 250 y 300, One RR 300 y XTrack 250, trial española de competición y de excursión.",
+    "intro": "TRS solo hace una cosa, y la hace en serio: trial. La One R 250 y 300 son la base de la gama de competición, la One RR 300 sube un escalón en componentes y preparación, y la XTrack 250 abre la puerta a un uso más de excursión sin salir del trial. Son 5 fichas de una marca española nacida de la competición, y la comparación aquí no va de potencia sino de nivel: chasis, suspensiones y peso deciden más que los caballos. Quien empieza mira la One R; quien compite, la RR.",
+    "n": 5,
+    "url": "/motos/marca/trs/"
+  },
+  "motos/vertigo": {
+    "nombre": "Vertigo",
+    "title": "Vertigo: 3 trial de competición española",
+    "description": "Las 3 fichas Vertigo: Combat Camo 300 y Nitro RS3 y DL12, trial de dos tiempos para competir.",
+    "intro": "Vertigo concentra su catálogo en el trial de competición de dos tiempos. La Combat Camo 300 y las Nitro RS3 250 y 300 y DL12 300 comparten planteamiento: motos ligeras, de respuesta inmediata y pensadas para zonas, no para carretera. Con solo 3 fichas, la elección se reduce al nivel de exigencia y a la cilindrada: 250 para aprender a ir fino, 300 para pelear arriba. Es una marca española de nicho, y eso se nota en el enfoque: nada de concesiones al uso diario, todo al rendimiento entre cintas.",
+    "n": 3,
+    "url": "/motos/marca/vertigo/"
+  },
+  "motos/wottan": {
+    "nombre": "Wottan",
+    "title": "Wottan: 5 motos y scooters asequibles",
+    "description": "Las 5 fichas Wottan: Storm y Storm X 125, Sixteen 125, Storm S 300 y Rebbe 401, scooters y naked de acceso.",
+    "intro": "Wottan apuesta por el acceso: scooters de 125 para el día a día y una naked de mayor cilindrada para dar el salto. La Storm 125 y la Storm X 125 y la Sixteen 125 cubren la ciudad con el carnet A1 o el B, la Storm S 300 añade margen para salir a carretera, y la Rebbe 401 pone la nota naked de la gama. Son 5 fichas con un denominador común: precio contenido y equipamiento suficiente, sin pretensiones premium. Al comparar, lo que separa unas de otras es la cilindrada y el formato, no la filosofía.",
+    "n": 5,
+    "url": "/motos/marca/wottan/"
+  },
+  "motos/zero": {
+    "nombre": "Zero Motorcycles",
+    "title": "Zero: 13 eléctricas premium americanas",
+    "description": "Las 13 fichas Zero Motorcycles: SR/F naked, SR/S carenada y DSR/X trail, todas eléctricas y sin marchas.",
+    "intro": "Zero Motorcycles lleva años demostrando que la moto eléctrica puede ser una moto de verdad, sin apellidos. La SR/F es la naked de la gama, la SR/S su versión carenada para viajar, y la DSR/X traslada la idea al trail, siempre con motor eléctrico, sin embrague ni cambio, y con un precio de segmento premium. Entre las 13 fichas, lo que cambia es la autonomía, la potencia y la postura, no el concepto. Quien compare aquí debe fijarse en la autonomía real y en la carga, porque la aceleración ya la dan por hecha todas.",
+    "n": 13,
+    "url": "/motos/marca/zero/"
   }
 }
